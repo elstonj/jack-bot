@@ -1,0 +1,74 @@
+{
+  "asana_gid": "proj-212-2",
+  "asana_task_name": "NASA Ames Research Center [212-2]",
+  "customer": "NASA Ames Research Center",
+  "customer_contact": "Isaac Anderson",
+  "customer_email": "isaac.e.anderson@nasa.gov",
+  "receive_by": "2026-09-30",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S2 Aircraft System",
+      "quantity": 1
+    },
+    {
+      "description": "S2 Replacement Parts (including gimbal modifications, DB9 connector rewiring, launcher case refurbishment)",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "parts_ordered",
+  "ship_state": "none",
+  "estimate_date": "2025-07-18",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "S20009 Launcher System",
+      "ordered": true,
+      "received": false,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "Gimbal modifications",
+      "ordered": true,
+      "received": false,
+      "vendor": "BST",
+      "order_date": null
+    },
+    {
+      "name": "DB9 Connectors",
+      "ordered": true,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    },
+    {
+      "name": "Launcher Case",
+      "ordered": true,
+      "received": false,
+      "vendor": "MM Solutions",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Isaac Anderson",
+    "invoicing": "Meredith",
+    "build": "Nate Straus"
+  },
+  "notes": "NASA Ames S2 & Parts contract (PO 80NSSC25PC031, $89,844 total budget). S2 platform now end-of-life; BST providing replacement parts support and drop-ship 3D-printed components as needed. Estimate 1362 sent 2025-07-18. MM Solutions delivering launcher cases. Invoice to be submitted via IPP with progress reports per contract terms. Due 2026-09-30.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_number",
+    "invoice_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-07-22",
+  "last_contact_date": null
+}

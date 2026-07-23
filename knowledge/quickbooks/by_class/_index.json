@@ -1,23 +1,10 @@
 {
   "period": {
-    "start": "2026-07-21",
-    "end": "2026-07-22"
+    "start": "2026-07-22",
+    "end": "2026-07-23"
   },
-  "scanned_at": "2026-07-22",
+  "scanned_at": "2026-07-23",
   "projects": [
-    {
-      "project_code": "001-16",
-      "revenue": 0.0,
-      "expenses": 1894.01,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 4,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-16) SwiftStation"
-      ]
-    },
     {
       "project_code": "001-7",
       "revenue": 0.0,
@@ -29,19 +16,6 @@
       "payment_count": 0,
       "qbo_class_names": [
         "(001-7) IRAD - S3"
-      ]
-    },
-    {
-      "project_code": "018-1",
-      "revenue": 0.0,
-      "expenses": 877.07,
-      "invoice_count": 0,
-      "bill_count": 1,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[018] Murray State University:[018-1] Murphy's Pond CH4"
       ]
     },
     {

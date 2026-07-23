@@ -1,7 +1,7 @@
 # [001-12] Log Parse Website
 
 ## Overview
-**STATUS: ARCHIVED** — Project successfully completed with all deliverables delivered.
+**STATUS: ARCHIVED** — Project successfully completed with all deliverables delivered. No active development work.
 
 - Client/customer: External customers (flight data analysis service)
 - Dollar value: Not specified in available data
@@ -39,8 +39,8 @@
 - Wind estimation integrated into full processing pipeline with NetCDF inclusion
 - Log-parse tools integrated as Git submodule with auto-deploy triggering
 
-**Post-completion enhancement request (July 2026):**
-Daniel Prendergast requested workflow improvement to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse (messages 2026-07-13 and 2026-07-14). Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch.
+**Post-completion operational improvement request (July 2026):**
+Daniel Prendergast requested workflow enhancement to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse (July 13–14, 2026). Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch. **Status: Enhancement request in consideration; awaiting prioritization.**
 
 ## Notes & Context
 Comprehensive flight data analysis platform developed over multiple years:

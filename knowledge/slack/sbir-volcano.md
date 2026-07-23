@@ -7,7 +7,7 @@ Key participants include:
 - **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics)
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
-- **Maciej Smolka** (Regulatory, reporting, flight planning)
+- **Maciej Smolka** (Regulatory, reporting, flight planning, translation support)
 - **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
@@ -110,4 +110,4 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Status**: Completed; photogrammetry payload successfully validated and confirmed functional
 - **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
 
-**Popocatépetl Volcano (Mexico)**
+**Popocatépetl Volcano

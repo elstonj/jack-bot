@@ -1,18 +1,23 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,019 (3,973 previous + 46 new from Jul 21–22, 2026)
-- **Date range:** March 24 – July 22, 2026 (121 days)
+- **Total messages scanned:** 4,070 (4,019 previous + 51 new from Jul 22–23, 2026)
+- **Date range:** March 24 – July 23, 2026 (122 days)
 - **Approximate volume:** ~33 messages per day (sustained)
-- **New batch composition (Jul 21–22, 2026):** ~91% automation/newsletters/promotions (42 of 46 messages)
-  - **Direct human correspondence:** 3 messages (7%)
-    - **Jack Elston (Jul 21, multiple exchanges)** — Federal Uncrewed Systems Workshop registration/abstracts coordination [IMPORTANT]
-    - **Sona Raziabeegum / Krateo Sky (Jul 21, 09:20 AM)** — Events/Conferences follow-up (Paige reply sent) [SENT]
-    - **Meredith Needham / Toggl (Jul 21, ongoing thread)** — Employee records issue (now involving Toggl support) [IMPORTANT]
-  - **Business development/Inbound leads:** 2 messages (4%)
-    - **BST Website contact form submissions (Jul 21, 15:46 UTC and 18:08 UTC)** — Two separate inbound inquiries [IMPORTANT]
-  - **Direct business inquiry (external):** 1 message (2%)
-    - **Jeff @ The Schell Company (Jul 21, 19:24 UTC)** — Aerial mensuration patent + T3CP Patent Holiday SBIR inquiry to info@blackswifttech.com [IMPORTANT]
+- **New batch composition (Jul 22–23, 2026):** ~84% automation/newsletters/promotions (43 of 51 messages)
+  - **Direct human correspondence:** 5 messages (10%)
+    - **Sona Raziabeegum / Krateo Sky (Jul 23, 02:07 AM & 02:13 AM)** — "BST Marketing Alignment" + reschedule meeting before launch [IMPORTANT, ESCALATING]
+    - **Pam Kermisch / Krateo Sky (Jul 23, 02:13 AM)** — "Sorry I missed our meeting, reschedule before launch" [IMPORTANT, JOINT THREAD]
+    - **Paige reply (Jul 22, 13:21 PM)** — Sent to Sona + Pam re: reschedule before launch [SENT, INITIATED DISCUSSION]
+    - **Adnan Hiroli / Uncrewed Tech Expo (Jul 22, 15:02 & 16:56 UTC)** — "DroneX 2026" coordination [IMPORTANT]
+    - **Paige reply (Jul 22, 09:24 AM)** — Response to Adnan re: DroneX 2026 [SENT]
+  - **Internal operations:** 2 messages (4%)
+    - **Meredith Needham (Jul 22, 12:02 PM)** — Health insurance employee issue [SENT]
+    - **Beck Cotter / Daniel Prendergast / Mike Rukin** — "S0 Air Deployed UAS" technical discussion thread [IMPORTANT, FORUMS]
+  - **Business development/Inbound:** 1 message (2%)
+    - **Jacob Carstens / University of North Dakota (Jul 22, 16:52 UTC)** — "Quote Request for S0 VTOL" [IMPORTANT, NEW OPPORTUNITY]
+  - **Technical support:** 1 message (2%)
+    - **Paige to Google Ads support (Jul 22, 13:09 PM)** — Google Support Tag Implementation Appointment response [SENT]
 
 ---
 
@@ -21,88 +26,83 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston (elstonj@blackswifttech.com) — Leadership/Strategy**
-- **Status:** ELEVATED — Frequent collaboration on federal initiatives and industry events
-- **Recent activity (Jul 21):** 
-  - Multiple rapid-fire exchanges (13:00–13:15 UTC) on **7th Federal Uncrewed Systems (UxS) Workshop** registration and abstract submissions [IMPORTANT]
-  - Forwarded seminar reminder: **Vijay Kumar — Micro Aerial Vehicles in the Age of Physical AI** (GPS-Denied Mapping, Intent-Driven Field Autonomy) [IMPORTANT]
-- **Collaboration type:** Strategic partnerships, federal events, technical seminars, thought leadership
-- **Signal:** Jack acts as content/event curator for Paige; likely coordinating external speaking engagements or technical presentations
+- **Status:** CONTINUED ELEVATED ENGAGEMENT
+- **Signal:** Maintains curated industry intelligence feeds (UAS VISION forwarded daily); strategic event coordination
+- **Continued focus:** Federal initiatives, technical seminars, thought leadership
 
 **Meredith Needham (meredith.needham@blackswifttech.com) — Operations/HR**
-- **Status:** ONGOING CRITICAL ISSUE — Employee records deletion escalation
-- **Recent activity (Jul 21):**
-  - Now involves **Toggl support** (jake@chat.toggl.com) in escalation chain
-  - Email thread spans 09:18–15:37 UTC on Jul 21
-  - Issue elevated beyond internal HR to external support vendor
-- **Implication:** Potential data loss or system failure with serious compliance implications
+- **Status:** ONGOING OPERATIONS SUPPORT
+- **Recent activity (Jul 22):**
+  - Employee health insurance benefit coordination (now resolved with external vendor Chad Atwood @ The AIG Inc.)
+  - Continues to manage vendor escalations and employee records management
+- **Pattern:** Cross-functional operational support
+
+**Beck Cotter (beck.cotter@blackswifttech.com) — Sales/Technical**
+- **Status:** NEWLY ACTIVE — S0 VTOL/S0 Air Deployed UAS sales/technical lead
+- **Recent activity (Jul 22, multiple exchanges):**
+  - Leading "S0 Air Deployed UAS" technical discussion thread with Daniel Prendergast, Mike Rukin (QinetiQ external)
+  - Handling quote request from Jacob Carstens (University of North Dakota) for "S0 VTOL" [IMPORTANT, QUOTE-STAGE]
+  - Direct contact with external academic/research customer
+- **Implication:** Key sales/technical contact for BST's S0 platform; managing active quote pipeline
+
+**Daniel Prendergast (daniel.prendergast@blackswifttech.com) — Technical/Engineering**
+- **Status:** ACTIVE on S0 platform discussions
+- **Pattern:** Engineering support on technical specifications and air-deployment configurations
 
 ---
 
 ### Top External Senders & Partners
 
-**Sona Raziabeegum (sona@krateosky.com) — Krateo Sky**
-- **Status:** ACTIVE ENGAGEMENT — Direct correspondence (Paige sent reply Jul 21, 09:20 AM)
-- **Signal:** Ongoing "Events / Conferences" discussion; Paige proactively responding
-- **Importance:** Business development/partnership opportunity
-- **Implication:** Conference/event collaboration or partnership discussion in active negotiation phase
+**Krateo Sky — Sona Raziabeegum & Pam Kermisch**
+- **Status:** CRITICAL PARTNERSHIP ESCALATION — Multiple exchanges within 6 hours (Jul 23, 02:07–02:13 AM)
+- **Recent activity:**
+  - Sona subject: **"BST Marketing Alignment"** (Jul 23, 02:07 AM) [UNREAD, IMPORTANT]
+  - Pam response: **"Sorry I missed our meeting, reschedule before launch"** (Jul 23, 02:13 AM) [UNREAD, IMPORTANT]
+  - Paige initiated: **"Sorry I missed our meeting, reschedule before launch"** (Jul 22, 13:21 PM) [SENT] — suggesting Paige coordinated original meeting
+- **Implication:** 
+  - Time-sensitive launch deadline ("before launch")
+  - Marketing alignment discussion (brand/positioning collaboration)
+  - Missed meeting rescheduling suggests high-priority engagement
+  - **Signal:** Partnership/co-marketing agreement in pre-launch phase; Paige actively coordinating with both Krateo principals
 
-**Jeff @ The Schell Company (jeff@theschellcompany.com)**
-- **Status:** NEW INQUIRY — Business development contact (Jul 21, 19:24 UTC)
-- **Subject:** **"Black Swift fit check — aerial mensuration patent + T3CP Patent Holiday SBIR"**
-- **Signal:** Specific technical inquiry about BST's patent portfolio and SBIR (Small Business Innovation Research) participation
-- **Importance:** Patent/IP collaboration or co-development opportunity
-- **Implication:** Third-party interest in BST's aerial mensuration capabilities; potentially government-funded R&D collaboration
+**Uncrewed Tech Expo — Adnan Hiroli**
+- **Status:** ACTIVE EVENT COORDINATION — Rapid back-and-forth (Jul 22, 15:02 & 16:56 UTC)
+- **Event:** DroneX 2026
+- **Paige action (Jul 22, 09:24 AM):** Direct response to Adnan [SENT]
+- **Signal:** BST participating in DroneX 2026; Paige managing event logistics/booth coordination
+- **Pattern:** Consistent with prior event coordination (SAE Media Group, INTERGEO 2026, Federal UxS Workshop)
 
-**Louise Chapman (louise.chapman@saemediagroupevents.com) — SAE Media Group Events**
-- **Status:** SPONSORSHIP INQUIRY (Jul 21, 20:45 UTC)
-- **Signal:** Limited sponsorship opportunities available; indicates strong early event interest
-- **Event type:** SAE-affiliated conference/expo (aviation/aerospace likely)
-- **Implication:** BST evaluating sponsorship of professional events
+**University of North Dakota — Jacob Carstens**
+- **Status:** NEW QUALIFIED SALES OPPORTUNITY
+- **Recent activity (Jul 22, 16:52 UTC):** 
+  - Direct quote request to sales@blackswifttech.com for "S0 VTOL" [IMPORTANT]
+  - Academic institution inquiry; suggests UAS research/educational application
+  - Beck Cotter handling quote + Meredith Needham (operations/pricing support)
+- **Implication:** Academic/research customer segment; potential multi-unit deployment or partnership
 
-**Juliette Binz (HINTE Expo) — [Continued from previous batch]**
-- **Status:** INTERGEO 2026 booth coordination ongoing
-
----
-
-### News/Intelligence Feeds — Active Monitoring (Expanded)
-
-**The New York Times (intensive coverage)**
-- **Volume (Jul 21–22):** 6 messages
-  - **Breaking news (Jul 22, 04:59 UTC):** "Trump administration reaches broad nuclear deal with Saudi Arabia" [UNREAD, CRITICAL GEOPOLITICAL]
-  - **Breaking news (Jul 22, 02:14 UTC):** "Mamdani says Netanyahu is a 'war criminal,' but New York can't arrest him" [UNREAD]
-  - **Breaking news (Jul 21, 20:50 UTC):** "Cost of Iran war has reached $37.5 billion, Hegseth estimates" [UNREAD, DEFENSE BUDGET]
-  - **Editor picks (Jul 21, 21:15 UTC):** "Lost Pan Am plane found after 74 years" [UNREAD, AVIATION INTEREST]
-  - **Editor picks (Jul 21, 12:01 UTC):** "The best healthy eating advice of the year (so far)" [UNREAD, PERSONAL]
-  - **The Morning briefing (Jul 21, 10:52 UTC):** "Lives lost" [UNREAD, IMPORTANT]
-- **Pattern:** Sustained geopolitical/defense monitoring (Middle East policy, military spending); balanced with personal interest content; aviation incident tracking
-
-**Defense Advancement (LinkedIn)**
-- **Recent content (Jul 21, 15:00 UTC):** **DA Newsletter Edition 223** [UNREAD, CATEGORY_UPDATES]
-- **Signal:** Dedicated defense industry analysis subscription; consistent engagement
-
-**A&SF Daily Report (Air and Space Forces Magazine)**
-- **Recent content (Jul 21, 03:55 UTC):** **"First Part-Time Guardians Swear In"** [UNREAD, IMPORTANT]
-- **Pattern:** U.S. Space Force organizational/personnel developments; direct relevance to defense sector
-
-**The Athletic Pulse**
-- **Recent content (Jul 21, 10:32 UTC):** **"College football's best QBs for 2026"** [UNREAD, IMPORTANT, MARKED BY SYSTEM]
-- **Pattern:** High-engagement sports content continues; marked IMPORTANT (likely personal interest, not work-critical)
+**QinetiQ — Mike Rukin (michael.rukin@qinetiq.com)**
+- **Status:** EXTERNAL TECHNICAL COLLABORATOR
+- **Signal:** Participating in "S0 Air Deployed UAS" technical discussion thread
+- **Implication:** QinetiQ evaluating or collaborating on air-deployment configurations; external validation/feedback on technical implementation
 
 ---
 
-### Industry/UAS Intelligence Feeds
+### News/Intelligence Feeds — Active Monitoring (Continued)
 
-**UASweekly.com (newsletter@uasweekly.com)**
-- **Recent content (Jul 21, 21:01 UTC):** **UASweekly Daily Newsletter** [UNREAD]
-- **Recipient:** info@blackswifttech.com
-- **Pattern:** Daily UAS industry subscription continues; routed to company info address
+**Geopolitical & Defense Monitoring (Sustained)**
 
-**UAS VISION (russ@uasvision.com)**
-- **Recent content (Jul 21, 09:04 UTC):** **DAILY NEWS** [UNREAD]
-- **Recipient:** Jack Elston (media@blackswifttech.com)
-- **Pattern:** Daily UAS industry intelligence; forwarded to media team (Jack)
+The New York Times (5 messages in batch):
+- **Jul 22, 21:11 UTC (Breaking News):** "U.S. signs Saudi nuclear pact" [UNREAD]
+- **Jul 22, 21:51 UTC (Editor Picks):** "A new mile world record was a dream. Josh Kerr made it reality." [UNREAD, PERSONAL]
+- **Jul 22, 12:01 UTC (Editor Picks):** "A car crash nearly killed ESPN's Matt Miller. Then came the fraud allegations." [UNREAD]
+- **Jul 22, 10:35 UTC (Promotions):** "Two ways to try The Times. And save." [UNREAD]
+- **Signal:** Continued geopolitical (nuclear diplomacy), defense, and sports/entertainment monitoring
 
-**MundoGEO Newsletter (mundogeo@mundogeo.net)**
-- **Recent content (Jul 21, 15:34 UTC):** **"Dronedesk launches fully automated SORA implementation | ANAC publishes noise certification criteria for Eve 100 | MundoGEO exhibitions bring together sectors set to generate over US$ 9.8 billion in 2026 in Brazil"** [CATEGORY_UPDATES]
-- **Recipients:** BOTH info@bst.aero AND info@blackswifttech.com (dual company addresses)
-- **Signal:** Brazilian drone/geospatial market
+**Air & Space Forces Magazine**
+- **Jul 22, 03:48 AM:** "Hegseth: Iran War Cost at $37.5B" [UNREAD, IMPORTANT]
+- **Pattern:** Continued U.S. military spending/policy tracking
+
+**UAS Industry Intelligence (High-Priority Feeds)**
+
+**UASweekly.com**
+- **Jul 22, 21:00 UTC:** UASweekly Daily Newsletter [UNREAD]

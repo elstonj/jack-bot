@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Demo unit shipped 3/11/26 (FedEx 889475552978), received and approved by Wolff 3/17/26. In-person facility working meeting 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements and development needs. Ongoing technical collaboration on antenna integration and autonomous flight modes. Most recent contact 7/21/26: Wolff requested ROM and expressed interest in potentially purchasing systems to ensure exercise success; Dan Prendergast coordinating DoD security clearance (DISS visit request) for Aug 14-18, 2026 test event at Nevada range (arrive 16th, depart morning of 19th). SOCOM providing lodging and range documentation.",
+  "notes": "SOCOM (TSgt Evan Wolff) actively engaged in S0-AD development for C-130 air-launch demo Fall 2026. Demo unit shipped 3/11/26 (FedEx 889475552978), received and approved by Wolff 3/17/26. Facility visit 4/27/26 with SOCOM and 53rd Weather Squadron to define mission requirements. Ongoing technical collaboration on antenna integration and autonomous flight modes. 7/21\u20137/22/26: Wolff requested ROM and expressed interest in potentially purchasing systems to ensure exercise success. Dan Prendergast confirmed BST will support demo event (Aug 14\u201318, 2026 at Nevada range; arrive 8/16, depart 8/19). Dan to submit DISS visit request; Bob Smith (former site visitor with current clearance) substituted as third team member. Equipment and personnel spreadsheets to be sent to Wolff. CRADA development ongoing; commercial purchase option under discussion.",
   "missing_fields": [
     "parts",
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-07-21",
-  "last_contact_date": "2026-07-21"
+  "last_evidence_date": "2026-07-22",
+  "last_contact_date": "2026-07-22"
 }

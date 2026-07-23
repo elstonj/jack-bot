@@ -1,15 +1,15 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,457.6 hours (cumulative) — *+8.2h this batch*
-- **Primary projects (top 5)**: Corporate/Strategic Planning (468.5h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.6h)
+- **Total hours tracked**: 2,466.5 hours (cumulative) — *+8.9h this batch*
+- **Primary projects (top 5)**: Corporate/Strategic Planning (471.1h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (187.6h), S3 IRAD (182.6h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 8.2 hours — **✅ 100% ALLOCATED** | **❌ 0% DESCRIBED** — *allocation maintained; descriptions still absent*
+- **Latest batch**: 8.9 hours — **⚠️ 32.6% ALLOCATED** | **❌ 0% DESCRIBED** — *critical regression in allocation discipline*
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 469.8 hours (19.1%)
-- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (13.1%)
-- **Project 183171534**: 290.9 hours (11.9%)
+- **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 471.1 hours (19.1%)
+- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 321.2 hours (13.0%)
+- **Project 183171534**: 290.9 hours (11.8%)
 - **[001-14] SwiftCore 3.3** (IRAD): 187.6 hours (7.6%)
 - **[001-07] S3 IRAD** (IRAD): 182.6 hours (7.4%)
 - **Project 160309352**: 144.6 hours (5.9%)
@@ -18,7 +18,7 @@
 - **Project 180222280**: 77.9 hours (3.2%)
 - **[200-11] ROSES Wildfire** (NASA): 70.6 hours (2.9%)
 - **[550-2] Navy STTR: Hazardous Weather** (Navy): 73.8 hours (3.0%)
-- **[001-08] Flight Testing** (IRAD): 22.6 hours (0.9%) — *+6.9h this batch*
+- **[001-08] Flight Testing** (IRAD): 22.6 hours (0.9%)
 - **Commercial Sales**: 64.6 hours (2.6%)
 - **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 45.5 hours (1.9%)
 - **[400-5] SBIR - SMM DoD 22.4D Phase II** (Air Force): 42.6 hours (1.7%)
@@ -26,43 +26,38 @@
 - **[018-1] Murray State CH4 Monitoring** (Murray State): 7.0 hours (0.3%)
 - **[031-1] UMES S3** (University of Maryland Eastern Shore): 2.8 hours (0.1%)
 - **Other smaller projects**: 79.3 hours (3.2%)
-- **UNALLOCATED**: 0.0 hours (0.0%) — ✅ *maintained at zero*
+- **UNALLOCATED**: 2.9 hours (0.1%) — **🚨 FIRST FAILURE IN 3 BATCHES**
 
 ## Recent Activity
-- **2 entries this batch, fully allocated**:
-  - **[001-08] Flight Testing** — 6.9h | *No description*
-  - **[001-13] General Operations** — 1.3h | *No description*
+- **1 entry this batch, unallocated**:
+  - **[No Project]** — 2.9h | *No description*
 
-- **✅ ALLOCATION DISCIPLINE SUSTAINED**: 
+- **🚨 ALLOCATION DISCIPLINE BROKEN**:
   - Batch 57: ✅ 100% allocated
   - Batch 58: ✅ 100% allocated
-  - **Batch 59: ✅ 100% allocated — consistent performance confirmed**
-  - Cumulative unallocated from batches 54–56: 20.3 hours (still outstanding for retroactive review)
+  - Batch 59: ✅ 100% allocated
+  - **Batch 60: ⚠️ 67.4% allocated, 32.6% unallocated (2.9h)** — *First regression after 3-batch clean streak*
+  - Cumulative unallocated from batches 54–56: 20.3 hours (outstanding)
+  - **New unallocated: 2.9 hours (requires immediate project assignment)**
 
-- **🔴 DESCRIPTION DISCIPLINE CONTINUES TO FAIL**: 0 of 2 entries (0%) include task descriptions
-  - **6 consecutive batches now with zero description compliance**
-  - **[001-08] Flight Testing** — Significant uptick (6.9h this batch); work context completely absent
-  - **[001-13] General Operations** — Routine overhead logged without administrative context
+- **🔴 DESCRIPTION DISCIPLINE CONTINUES TO FAIL**: 0 of 1 entries (0%) include task descriptions
+  - **7 consecutive batches now with zero description compliance**
+  - Entry logged with no project designation and no context
 
 ## Patterns
-- **✅ ALLOCATION DISCIPLINE SOLID** — Three consecutive batches at 100% allocation; stable trajectory maintained
+- **🚨 ALLOCATION DISCIPLINE — CRITICAL REGRESSION**:
+  - Three-batch clean streak (57–59) ended; 2.9h unallocated entry in batch 60
+  - No project assigned; requires urgent clarification of which project/task this time belongs to
+  - Pattern suggests possible data entry error or incomplete logging
 
 - **🔴 DESCRIPTION DISCIPLINE CRITICALLY ABSENT** — 
-  - 0% compliance across 6 consecutive batches (batches 53–59)
-  - This batch: Flight Testing spike (6.9h) + overhead (1.3h) with **zero context**
-  - Systematic gap remains unresolved and complete across all recent entries
-
-- **[001-08] Flight Testing — ACTIVITY TRENDING UPWARD** — 
-  - Batch 58: 0h
-  - Batch 59: 6.9h
-  - No description of testing phase, objectives, or outcomes provided; work is opaque to auditing/tracking
-
-- **[001-13] General Operations** — Consistent overhead allocation with no administrative work context
+  - 0% compliance across 7 consecutive batches (batches 53–60)
+  - Systematic gap unresolved; unallocated entry compounds context gap
 
 **RECOMMENDATIONS (UPDATED)**:
-1. **✅ ALLOCATION: Stable** — Three-batch consistency; continue monitoring; consider systematic retroactive allocation of 20.3 unallocated hours from batches 54–56
-2. **🔴 CRITICAL: Address description discipline immediately** — 0% compliance over 6 batches is unacceptable; requires urgent intervention
-   - All entries must include: task type, duration context, testing phase, or deliverable reference
-   - Consider system-level requirement (e.g., Toggl project templates with mandatory description fields)
-3. **ACTION: Escalate description requirement to Stachura** — Allocation fixed, but logging discipline remains completely absent; prevents work auditing and project tracking
-4. **⚠️ ESCALATE: Flight Testing activity spike** — 6.9h logged with zero documentation; unclear whether this represents system testing, data collection, maintenance, or validation work; context essential for project management
+1. **🚨 IMMEDIATE: Resolve unallocated 2.9 hours** — Clarify project assignment for batch 60 entry; revert to pre-batch-57 clean allocation discipline
+2. **🔴 CRITICAL: Address description discipline immediately** — 7 consecutive batches at 0% compliance; system-level intervention required
+   - All entries must include: task type, context, testing phase, or deliverable reference
+   - Consider mandatory description field enforcement in Toggl project setup
+3. **ACTION: Escalate regression to Stachura** — Allocation discipline broken after 3-batch success; unallocated entry suggests workflow/logging issue
+4. **⚠️ MONITOR: Batch 61 onward** — Confirm re-establishment of 100% allocation and request description discipline

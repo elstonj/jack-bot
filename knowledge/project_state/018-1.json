@@ -15,11 +15,12 @@
     "type": "unknown",
     "number": null,
     "total_value": 86862.94,
-    "start_date": "2026-08-04",
-    "end_date": "2026-08-06",
+    "start_date": null,
+    "end_date": "2026-12-31",
     "payment_cadence": null,
     "documents": [
-      "drive://Budget Car Rental Confirmation Nashville (Aug. 2026).pdf"
+      "drive://Budget Car Rental Confirmation Nashville (Aug. 2026).pdf",
+      "drive://Budget Rental Cancellation Confirmation (7.22.26).pdf"
     ]
   },
   "budget": {
@@ -31,7 +32,7 @@
         "amount": 25235.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-22"
+        "last_updated": "2026-07-23"
       },
       "purchases": {
         "amount": 0.0,
@@ -51,7 +52,7 @@
     "committed": 0.0,
     "remaining": 60750.87,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-22T09:02:20Z"
+    "last_reconciled": "2026-07-23T09:03:41Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -76,7 +77,14 @@
     }
   ],
   "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-07-22T09:02:20Z",
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-07-22",
+      "text": "From Daniel Prendergast: For everyone's awareness, Murphy's Pond Flight #4 has been postponed indefinitely.  Any travel or logistics arrangements already made should be cancelled."
+    }
+  ],
+  "last_full_rebuild": "2026-07-23T09:03:41Z",
   "last_incremental_update": null
 }

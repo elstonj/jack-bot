@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,267,099.13
+- **Total Expenses (Bills + Purchases)**: $1,277,746.13 *(+$10,647.00 from July transactions)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,244,204.77 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,254,851.77 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,295 *(all confirmed)*
+- **Transaction Count**: 1,297 *(all confirmed)*
 
 ---
 
@@ -36,72 +36,57 @@
 ### Direct Labor & Subcontractors: $394,352.90
 **Total: $394,352.90** | **25 vendors** | **Largest: Matthew Crabtree $108,181.68; Ted Miles $4,851.60**
 
-*(No new transactions in this period)*
+*(No new transactions in this reporting period)*
 
 ---
 
 ### Materials & Direct Purchases: $526,167.23
 **Total: $526,167.23** | **82 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-*(No new transactions in this period)*
+*(No new transactions in this reporting period)*
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $95,911.61
-**Total: $95,911.61** | **107 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,324.32**
+### IRAD Indirect R&D (Subcontractors & Internal): $97,825.31
+**Total: $97,825.31** | **113 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,324.32**
 
-**New Transactions (July 21–30, 2026):**
+**New Transaction (July 30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #000419974 | 2026-07-21 | $305.75 | IRAD-Internal Research and Development | SparkFun GPS-RTK Board - NEO-M8P-2; GNSS L1/L2 Multi-Band Magnetic Mount Antenna - 5m (SMA) | ✓ Confirmed |
-| Purchase (unnamed) | 2026-07-21 | $129.00 | IRAD-Internal Research and Development | Pelican 1170 case x 2 | ✓ Confirmed |
-| Purchase (unnamed) | 2026-07-21 | $25.17 | IRAD-Internal Research and Development | Cable and connectors | ✓ Confirmed |
-| Purchase #100525116 | 2026-07-21 | $1,324.32 | IRAD-Internal Research and Development | Supplies for SwiftStation (Digi-Key Corp) | ✓ Confirmed |
-| Purchase #7004 | 2026-07-21 | $109.77 | IRAD-Internal Research and Development | Parts for IRAD Swiftstation (JAWSTEC) | ✓ Confirmed |
 | Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
 
-**July 21–30 IRAD Subtotal**: $1,913.70 *(6 transactions)*
+**July 30 IRAD Addition**: $19.69 — retrospective logistics cost capture for S3 component shipment to external distribution partner (Sean Cole); administrative fee recorded 24 days post-shipment, indicating reconciliation of third-party fulfillment logistics.
 
-**Cumulative Activity**: 
-- **GPS-RTK Board & Antenna ($305.75)**: SparkFun NEO-M8P-2 dual-band GNSS receiver with 5m magnetic-mount antenna; advanced positioning/navigation component indicating SwiftStation or airborne platform precision guidance capability expansion.
-- **Protective Cases & Connectors ($154.17)**: Pelican 1170 weatherproof cases (x2) plus cabling; field deployment hardware for GPS/GNSS systems or sensor payloads.
-- **SwiftStation Supplies ($1,324.32 + $109.77 = $1,434.09)**: Digi-Key and JAWSTEC component orders focused on SwiftStation development/integration. SwiftStation appears to be internal R&D platform requiring multi-vendor supplier coordination (electronics, mechanical, cabling).
-- **S3 Logistics ($19.69)**: Retrospective pick-up fee recorded 24 days after shipment date (7/6/26); administrative cost tracking for external distribution partner (Sean Cole) fulfillment.
+**Cumulative IRAD Activity (July 2026)**: $1,933.39 *(7 transactions across July 21 and July 30)*
 
-**Strategic Context**: July 21 cluster indicates rapid SwiftStation subsystem integration (GNSS precision guidance, field-hardened cases, cabling infrastructure). Aligns with post-demo (July 14–19) engineering validation phase. SwiftStation appears to be core R&D platform supporting next-generation product capability (likely S3/S0 VTOL variant or GCS subsystem).
+**Strategic Context**: S3 logistics cost finalization on July 30 (fiscal month-end) suggests systematic close-out of fulfillment partner reconciliations. Aligns with post-demo operational normalization and customer delivery pipeline maturation.
 
 ---
 
 ### Travel & Logistics (Indirect Overhead): $1,615.75
 **Total: $1,615.75** | **1 transaction**
 
-*(No new transactions in this period)*
+*(No new transactions in this reporting period)*
 
 ---
 
-### Sales & Marketing (Including Shipping): $7,646.08
-**Total: $7,646.08** | **9 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14); PIRATE SHIP postage $8.81 (July 20)*
+### Sales & Marketing (Including Shipping): $7,654.89
+**Total: $7,654.89** | **10 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14); PIRATE SHIP postage $8.81 (July 20)*
 
-**New Transaction (July 20, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase (PIRATE SHIP) | 2026-07-20 | $8.81 | DC-Direct Cost Shipping, Freight & Delivery | Shipment to Sean Cole for [212-2] NASA S2 Parts projects | ✓ Confirmed |
-
-**July 20 Shipping Addition**: $8.81 — postage for NASA S2 Parts shipment to Sean Cole distribution partner; minimal cost indicates lightweight documentation or components delivery.
+*(No new transactions in this reporting period)*
 
 ---
 
 ### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $40,335.59
 **Total: $40,335.59** | **64 transactions** | **Largest: S3 inventory components, S0 VTOL components, structural components**
 
-*(No new transactions in this period)*
+*(No new transactions in this reporting period)*
 
 ---
 
-### Facilities & Shop Supplies: $100,236.89
-**Total: $100,236.89** | **64 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $39,720.22; Server Infrastructure: $5,355.31**
+### Facilities & Shop Supplies: $105,592.20
+**Total: $105,592.20** | **65 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $39,720.22; Server Infrastructure: $10,710.62**
 
 **New Transaction (July 30, 2026):**
 
@@ -128,37 +113,82 @@ Concurrent operational scaling suggests: customer demo logistics executed succes
    - Investor due diligence support (Invest Ottawa $5K pending)
    - SwiftStation subsystem modeling and integration validation
 
-**Cumulative Facilities Spend (July 2026)**: $5,355.31 *(1 transaction)* — high-priority infrastructure investment reflecting operational maturation and compute capacity expansion.
+**Cumulative Facilities Spend (July 2026)**: $5,355.31 *(1 transaction)*
 
 ---
 
 ### Shipping/Freight (Direct Cost): $212.97
 **Total: $212.97** | **2 transactions** | **Largest: PIRATE SHIP postage $8.81 (July 20)*
 
-**New Transaction (July 20, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| PIRATE SHIP * POSTAGE - 7333 | 2026-07-20 | $8.81 | DC-Direct Cost Shipping, Freight & Delivery | Shipment to Sean Cole for [212-2] NASA S2 Parts projects | ✓ Confirmed |
-
-**July 20 Shipping Addition**: $8.81 — lightweight postage for NASA S2 Parts delivery to Sean Cole; indicates logistics channel maturation and NASA project coordination with external partners.
+*(No new transactions in this reporting period)*
 
 ---
 
 ### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,530.14
 **Total: $46,530.14** | **8 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50**
 
-*(No new transactions in this period)*
+*(No new transactions in this reporting period)*
 
 ---
 
 ### Fringe Benefits (Retirement Contributions & Healthcare): $18,269.53
 **Total: $18,269.53** | **5 transactions** | **Largest: Employee Healthcare $11,237.97 (includes Q2 2026 payment)*
 
-**New Transaction (July 20, 2026):**
+*(No new transactions in this reporting period)*
 
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| B2B ACH MYFAMLI CDLE FAMLI | 2026-07-20 | $2,369.23 | FR-Employee Healthcare | 2026 Q2 payment | ✓ Confirmed |
+---
 
-**July 20
+## Purchase Orders
+| PO # | Date | Vendor | Amount | Description | Status |
+|------|------|--------|--------|-------------|--------|
+| #1038 | TBD | Amprius | $1,700.00 | [Details pending] | **Outstanding** |
+
+---
+
+## Monthly Spend by Category
+
+### July 2026 Summary (July 20–30)
+| Category | Amount | Transactions | Notes |
+|----------|--------|--------------|-------|
+| IRAD R&D | $19.69 | 1 | S3 fulfillment logistics reconciliation (pick-up fee, 7/30) |
+| Facilities & Infrastructure | $5,355.31 | 1 | Ryze AI Max+ dual-processor server (7/30) |
+| **July 2026 Total** | **$5,374.99** | **2** | Month-end operational scaling and logistics close-out |
+
+### Cumulative July 2026 Activity (Full Month)
+**Total Spend**: $11,648.81 *(including July 14–19 demo logistics and July 20–23 IRAD/shipping)*
+- IRAD R&D: $1,933.39
+- Facilities & Infrastructure: $5,355.31
+- Shipping/Freight: $8.81
+- Fringe Benefits: $2,369.23 *(Q2 healthcare, 7/20)*
+- Sales & Marketing: $8.81 *(PIRATE SHIP, 7/20)*
+
+**Burn Rate Context**: 
+- Post-demo infrastructure investment phase (July 30 server acquisition)
+- Logistics reconciliation and customer fulfillment operations normalization
+- Employee benefit contributions (Q2 2026 healthcare finalized 7/20)
+- Minimal direct cost activity suggests Ottawa demo successfully de-mobilized; focus shifted to internal engineering and investor engagement support
+
+---
+
+## Notable Transactions
+
+### 1. **Ryze AI Max+ Server Acquisition (July 30, 2026) — $5,355.31**
+   - **Account**: FA-Office Supplies (Facilities)
+   - **Requestor**: Ben Busby (via Slack)
+   - **Approver/Sponsor**: Jack Elston
+   - **Specification**: Dual-processor system, 128GB RAM (64GB x 2)
+   - **Flag**: High-priority infrastructure investment on fiscal month-end, indicating urgent compute capacity gap identified during demo phase
+   - **Context**: Supports post-demo analysis, GCS redesign simulation, S3/S0 VTOL modeling, and investor due diligence workflows
+   - **Assessment**: Strategic investment; aligns with operational scaling post-customer demo
+
+### 2. **S3 Fulfillment Logistics Pick-up Fee (July 30, 2026) — $19.69**
+   - **Account**: IRAD-Internal Research and Development
+   - **Shipment Original Date**: July 6, 2026
+   - **Recipient**: Sean Cole (external distribution partner)
+   - **Flag**: 24-day lag between shipment and cost reconciliation suggests third-party fulfillment partner billing reconciliation
+   - **Assessment**: Administrative logistics cost; routine fulfillment partner reconciliation
+
+### 3. **Outstanding Invoices — $22,894.36 (100% of revenue)**
+   - **Invoice #1696 (Phase1 Aviation)**: $6,105.00 — **12+ months overdue** (August 2025)
+   - **Invoice #1727 (Weather Stream)**: $928.88 — **7+ months overdue** (December 2025)
+   - **Invoice #1752 (Krateo Sky)**: $10,860.48 — **4
