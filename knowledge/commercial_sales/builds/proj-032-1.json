@@ -13,8 +13,8 @@
     }
   ],
   "payment_state": "paid",
-  "build_state": "none",
-  "ship_state": "none",
+  "build_state": "complete",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-02-07",
   "invoice_amount": 38000.0,
@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "QBO Invoice 1643 (paid 2025-02-07, $38,000) confirms this Notre Dame S0 order. Contract spans 02/07/2025\u201310/13/2025 delivery window. PO P2154937 issued 02/07/2025. David Richter verbally ordered 4 S0s based on estimate 1373 with 4-month timeline from Feb 19, 2026 order date (per project registry); however Asana/QBO show only 2 units invoiced at $38k. Clarify full scope vs. partial invoice.",
+  "notes": "QBO Invoice 1643 (paid 2025-02-07, $38,000) confirms this Notre Dame S0 order. Contract spans 02/07/2025\u201310/13/2025 delivery window. PO P2154937 issued 02/07/2025. David Richter verbally ordered 4 S0s based on estimate 1373 with 4-month timeline from Feb 19, 2026 order date (per project registry); however Asana/QBO show only 2 units invoiced at $38k. Clarify full scope vs. partial invoice. UPDATE 2026-07-06 (Beck): order COMPLETE and can be removed from the digest \u2014 marked complete + delivered (fulfilled + paid, so it drops off the active list).",
   "missing_fields": [
     "ship_to",
     "build_state",
     "parts"
   ],
-  "last_evidence_date": "2025-02-07",
+  "last_evidence_date": "2026-07-06",
   "last_contact_date": null
 }

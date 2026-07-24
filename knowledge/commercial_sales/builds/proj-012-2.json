@@ -1,0 +1,39 @@
+{
+  "asana_gid": "proj-012-2",
+  "asana_task_name": "Embry-Riddle Aeronautical University \u2014 ERAU VTOL S0 [012-2]",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": null,
+  "receive_by": "2026-08-31",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0 UAS - VTOL with ground station and tablet",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "in_qc",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2026-05-21",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": "2026-05-21",
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (Aug/Sep 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC (Slack 2026-07-03); Alex Lomis to provide explicit QC. August delivery target aligns with ISARRA planning and transport logistics (Jack Elston, 2026-05-21). QTY CORRECTION: 2 S0 VTOLs, not 4 (Beck Cotter, 2026-07-06). Record manually recreated 2026-07-24 \u2014 was missing from the digest despite paid status; Beck's 2026-07-06 correction was only partially applied.",
+  "missing_fields": [
+    "ship_to",
+    "customer_email"
+  ],
+  "last_evidence_date": "2026-07-06",
+  "last_contact_date": null
+}
