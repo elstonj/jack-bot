@@ -206,7 +206,8 @@ def _build_propose_user_prompt(question, channel_context, recent_messages, asker
 
 def _call_claude_json(system, user, max_tokens=2000):
     resp = _client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
         max_tokens=max_tokens,
         system=system,
         messages=[{"role": "user", "content": user}],

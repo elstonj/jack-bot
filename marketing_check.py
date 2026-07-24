@@ -219,7 +219,8 @@ def _ask_claude(signals: dict) -> dict:
     try:
         client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
         msg = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-5",
+            thinking={"type": "disabled"},
             max_tokens=2500,
             system=GATE_PROMPT,
             messages=[{"role": "user", "content": json.dumps(signals)[:30000]}],

@@ -344,7 +344,8 @@ def auto_extract_knowledge(slack_client, context_text):
     existing_text = "\n".join(e["content"] for e in existing[-50:]) if existing else "None yet."
 
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
         max_tokens=800,
         system=(
             "You extract durable business knowledge from daily work data for Black Swift Technologies (BST). "

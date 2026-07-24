@@ -163,7 +163,8 @@ def _generate_flavor(user_prompt: str, fallback: str) -> str:
     try:
         client = _get_anthropic_client()
         resp = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-5",
+            thinking={"type": "disabled"},
             max_tokens=300,
             system=_PERSONA_SYSTEM,
             messages=[{"role": "user", "content": user_prompt}],

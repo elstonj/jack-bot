@@ -118,7 +118,8 @@ def extract_insights_from_data(context_text):
     """
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
         max_tokens=500,
         system=(
             "You extract strategic business insights from daily work data. "

@@ -397,20 +397,37 @@ def _phase_line(b: "Build") -> str:
     return "*Phase:* " + " · ".join(parts)
 
 
+def _is_fulfilled(b: "Build") -> bool:
+    """True when the order's delivery obligation has been met.
+
+    For shipped goods that means `ship_state == "delivered"`. Repairs and
+    other no-ship work never enter the ship pipeline (`ship_state` stays
+    `"none"`), so for those fulfillment is build completion — otherwise a
+    completed, no-ship repair could never satisfy the drop-off condition and
+    would linger on the digest forever (the CU IRISS bug).
+    """
+    if b.ship_state == "delivered":
+        return True
+    if (b.ship_state or "none") == "none" and b.build_state == "complete":
+        return True
+    return False
+
+
 def _why_still_active(b: "Build") -> str:
     """Short callout explaining why a build is still on the daily digest.
 
     Built specifically for the case where the obvious-from-phase reason is
-    insufficient — e.g. the build has been delivered but payment is still
-    outstanding, which a reader scanning the phase line might miss. Returns
-    an empty string when the phase line already tells the whole story
-    (in-progress builds).
+    insufficient — e.g. the order is fulfilled (delivered, or a completed
+    no-ship repair) but payment is still outstanding, which a reader scanning
+    the phase line ('complete') might miss. Returns an empty string when the
+    phase line already tells the whole story (in-progress builds).
     """
-    if b.ship_state != "delivered":
+    if not _is_fulfilled(b):
         return ""  # phase line ('in assembly', 'awaiting pickup', etc.) is the reason
-    # Delivered builds reach this card only because payment is still open
-    # (the active-filter drops paid-and-delivered records immediately). Spell
-    # out what's needed.
+    if b.payment_state == "paid":
+        return ""  # paid + fulfilled is dropped by the active-filter; nothing to spell out
+    # Fulfilled but payment is still open — the phase line alone doesn't say
+    # why a "complete" card is still here. Spell out what's needed.
     inv_bits = []
     if b.invoice_number:
         inv_bits.append(f"#{b.invoice_number}")
@@ -692,13 +709,16 @@ def render_support_card(c: SupportCase, name_to_slack: Optional[dict[str, str]] 
 
 
 def _is_active_build(b: Build) -> bool:
-    """A build stays on the digest until BOTH delivery and payment are
-    confirmed. There's no time-based fallback: an unpaid delivered build
+    """A build stays on the digest until BOTH fulfillment and payment are
+    confirmed. There's no time-based fallback: a fulfilled-but-unpaid build
     stays visible (with a 'still on digest: awaiting payment' callout via
     `_why_still_active`) until someone replies with the paid_date, so an
     "is this done?" card never silently disappears just because 30 days passed.
+    Fulfillment (see `_is_fulfilled`) is delivery for shipped goods, or build
+    completion for no-ship work like repairs — which never reach
+    `ship_state == "delivered"` and so could otherwise never drop off.
     """
-    return not (b.ship_state == "delivered" and b.payment_state == "paid")
+    return not (_is_fulfilled(b) and b.payment_state == "paid")
 
 
 def is_order(b: Build) -> bool:

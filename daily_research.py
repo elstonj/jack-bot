@@ -111,6 +111,14 @@ Rules:
 - OOO people get just ":palm_tree: Out of office — [reason]"
 - If 0 hours tracked yesterday: :warning: *No time tracked*
 - Be terse
+- MEETINGS / TODAY'S EVENTS: the `:calendar:` line and any "today" meeting/event \
+mention (in the team summary or a person's section) must come ONLY from the \
+`=== TODAY'S CALENDAR ===` section. Each event there carries its real start \
+datetime — only list it if that date matches today's date given above. Do NOT \
+infer "today's" meetings from email subjects or Slack chatter: a meeting \
+referenced in an email/thread may have happened yesterday or be scheduled for a \
+future day. If someone has no events in TODAY'S CALENDAR, write \
+":calendar: No meetings" — never backfill from other sources.
 
 YOU MUST PRODUCE A SECTION FOR EVERY SINGLE PERSON IN THE REQUIRED LIST BELOW. \
 Do not stop until every required person has a section."""
@@ -1134,7 +1142,8 @@ def run_daily_pipeline(slack_client):
     total_sections = len(all_team_members)
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
         max_tokens=8000,
         system=SYNTHESIS_PROMPT,
         messages=[{
@@ -1187,7 +1196,8 @@ def run_daily_pipeline(slack_client):
 
         try:
             retry_message = client.messages.create(
-                model="claude-sonnet-4-20250514",
+                model="claude-sonnet-5",
+                thinking={"type": "disabled"},
                 max_tokens=3000,
                 system=SYNTHESIS_PROMPT,
                 messages=[{
