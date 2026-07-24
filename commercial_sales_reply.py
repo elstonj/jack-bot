@@ -200,72 +200,84 @@ def _id_from_parent_text(parent_text: str) -> Optional[tuple[str, str]]:
     return (m.group(1), m.group(2))  # ('build', '1213...') or ('case', 'SC-2026-001')
 
 
-def lookup_record_for_thread(
+def lookup_records_for_thread(
     slack_client,
     channel_id: str,
     thread_ts: str,
     reply_text: str = "",
-) -> Optional[dict]:
-    """Find which Build/SupportCase a thread reply is updating.
+) -> list[dict]:
+    """Find which Build/SupportCase record(s) a thread reply is updating.
 
-    With the umbrella-thread digest layout, `thread_ts` is the same for every
-    card-reply on a given day, so per-ts lookup alone can't resolve a target.
-    Resolution order:
+    Returns a LIST, because a status-sweep reply naming several customers in
+    one message targets several records — resolving only the first (as the old
+    single-match lookup did) silently dropped the rest (the Beck 2026-07-06
+    bug). Resolution order:
       1. Legacy per-card lookup — thread_ts directly matches a card ts in
-         `messages`. (Still useful when a user replies to a stand-alone card
-         from older digests, or when the umbrella layout isn't in effect.)
+         `messages`. Yields exactly one record.
       2. Umbrella content-match — when `thread_ts` is the umbrella parent,
-         feed `reply_text` plus the day's card list to Haiku and pick the
-         best match by customer/product mention.
+         feed `reply_text` plus the day's card list to Haiku and take EVERY
+         confident (high/medium) match.
       3. Fallback — read the parent message and parse its hidden token.
-         (Useful when the message map is gone after a Railway redeploy.)
 
-    Returns {'kind': 'build'|'case', 'id': str, 'record': Build|SupportCase}
-    or None when the thread isn't under one of Jack's cards.
+    Each element is {'kind': 'build'|'case', 'id': str, 'record': Build|SupportCase}.
+    Empty list when the thread isn't under one of Jack's cards.
     """
     msg_map = _load_message_map()
     per_ts = _per_ts_messages(msg_map)
 
-    # (1) Per-card direct match
+    # (1) Per-card direct match — one card, one record.
     entry = per_ts.get(thread_ts)
     if entry:
         rec = _load_record(entry.get("kind"), entry.get("id"))
         if rec:
-            return {"kind": entry["kind"], "id": entry["id"], "record": rec}
+            return [{"kind": entry["kind"], "id": entry["id"], "record": rec}]
 
     # (2) Umbrella content-match — the reply may be under either the Active
     # Orders or the Customer Leads thread; both list the day's full card set,
-    # so a content-match against `cards` resolves the target regardless.
+    # so a content-match against `cards` resolves every target regardless.
     umbrellas = msg_map.get("umbrellas") or (
         [msg_map["umbrella_ts"]] if msg_map.get("umbrella_ts") else []
     )
     cards = msg_map.get("cards") or []
     if thread_ts in umbrellas and cards and reply_text.strip():
-        matched = _match_umbrella_card(reply_text, cards)
-        if matched:
+        out: list[dict] = []
+        for matched in _match_umbrella_cards(reply_text, cards):
             rec = _load_record(matched["kind"], matched["id"])
             if rec:
-                return {"kind": matched["kind"], "id": matched["id"], "record": rec}
+                out.append({"kind": matched["kind"], "id": matched["id"], "record": rec})
+        if out:
+            return out
 
-    # (3) Parent-text token fallback
+    # (3) Parent-text token fallback — one record.
     try:
         result = slack_client.conversations_replies(
             channel=channel_id, ts=thread_ts, limit=1,
         )
         msgs = result.get("messages", []) or []
         if not msgs:
-            return None
+            return []
         parent_text = msgs[0].get("text", "")
     except Exception:
-        return None
+        return []
     parsed = _id_from_parent_text(parent_text)
     if not parsed:
-        return None
+        return []
     kind, rec_id = parsed
     rec = _load_record(kind, rec_id)
     if not rec:
-        return None
-    return {"kind": kind, "id": rec_id, "record": rec}
+        return []
+    return [{"kind": kind, "id": rec_id, "record": rec}]
+
+
+def lookup_record_for_thread(
+    slack_client,
+    channel_id: str,
+    thread_ts: str,
+    reply_text: str = "",
+) -> Optional[dict]:
+    """Single-record wrapper over `lookup_records_for_thread` (first match)."""
+    recs = lookup_records_for_thread(slack_client, channel_id, thread_ts, reply_text)
+    return recs[0] if recs else None
 
 
 UMBRELLA_MATCH_SYSTEM = """\
@@ -300,34 +312,77 @@ Rules:
 """
 
 
-def _match_umbrella_card(text: str, cards: list[dict]) -> Optional[dict]:
-    """Use Haiku to pick which card in the umbrella thread a reply targets.
+UMBRELLA_MULTI_MATCH_SYSTEM = """\
+You are routing a Slack thread reply to the customer Build/SupportCase
+record(s) it updates. The thread parent is the daily digest header; the user
+replied with updates that may target ONE record or SEVERAL — a status sweep
+touching multiple customers in a single message is common.
 
-    Returns the chosen card dict ({ts, kind, id, customer, label}) when the
-    matcher is confident (high or medium); returns None otherwise so the
-    caller stays silent rather than acting on a guess.
+Match by:
+  - Customer name (fuzzy: "ERAU" -> "Embry-Riddle Aeronautical University",
+    "SOCOM" -> "USAF SOCOM").
+  - Product / items mention (e.g. "the S2 simulator" -> NASA Ames S2 build).
+
+Output one JSON object — no fences, no commentary:
+
+{
+  "matches": [
+    {"id": "<id from candidates>", "confidence": "high"|"medium"|"low"}
+  ]
+}
+
+Rules:
+- Include one entry per DISTINCT record the reply plausibly targets. A reply
+  naming five customers should return five matches.
+- "high" = clear customer-name or unique-product reference. "medium" = a
+  product clue that is unambiguous given the candidates. "low" = weak/guess.
+- Return an empty "matches" list for idle chat or generic comments.
+- Never fabricate an id that is not in the candidate list.
+"""
+
+
+def _match_umbrella_cards(text: str, cards: list[dict], max_matches: int = 15) -> list[dict]:
+    """Use Haiku to pick which card(s) in the umbrella thread a reply targets.
+
+    Returns the list of chosen card dicts ({ts, kind, id, customer, label}) for
+    every high/medium match — a status-sweep reply naming several customers
+    resolves to several cards. Returns [] when nothing is confidently matched,
+    so the caller stays silent rather than acting on a guess.
     """
     if not cards:
-        return None
+        return []
     lines = []
     for c in cards:
         lines.append(
-            f"- kind={c.get('kind','')} id={c.get('id','')} "
+            f"- id={c.get('id','')} kind={c.get('kind','')} "
             f"customer={c.get('customer','')!r} label={c.get('label','')!r}"
         )
     user_block = f"User reply:\n{text}\n\nCandidates:\n" + "\n".join(lines)
     try:
-        obj = _call_claude_json(UMBRELLA_MATCH_SYSTEM, user_block, max_tokens=300)
+        obj = _call_claude_json(UMBRELLA_MULTI_MATCH_SYSTEM, user_block, max_tokens=600)
     except Exception:
-        return None
-    rec_id = (obj.get("id") or "").strip()
-    confidence = obj.get("confidence", "low")
-    if not rec_id or confidence == "low":
-        return None
-    for c in cards:
-        if str(c.get("id")) == rec_id:
-            return c
-    return None
+        return []
+    by_id = {str(c.get("id")): c for c in cards}
+    out: list[dict] = []
+    seen: set[str] = set()
+    for m in (obj.get("matches") or []):
+        rec_id = str(m.get("id") or "").strip()
+        confidence = m.get("confidence", "low")
+        if not rec_id or confidence == "low" or rec_id in seen:
+            continue
+        card = by_id.get(rec_id)
+        if card:
+            seen.add(rec_id)
+            out.append(card)
+        if len(out) >= max_matches:
+            break
+    return out
+
+
+def _match_umbrella_card(text: str, cards: list[dict]) -> Optional[dict]:
+    """Single-match wrapper — returns the first confident match, or None."""
+    matches = _match_umbrella_cards(text, cards)
+    return matches[0] if matches else None
 
 
 def _load_record(kind: str, rec_id: str):
@@ -729,10 +784,15 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
     if not (channel_id and thread_ts and user_id and text):
         return None
 
-    info = lookup_record_for_thread(slack_client, channel_id, thread_ts, reply_text=text)
-    if not info:
+    records = lookup_records_for_thread(slack_client, channel_id, thread_ts, reply_text=text)
+    if not records:
         return None
+    if len(records) > 1:
+        # Status-sweep reply naming several customers — fan out to every match
+        # instead of silently acting on the first (the Beck 2026-07-06 bug).
+        return _handle_multi_record_reply(slack_client, event, records)
 
+    info = records[0]
     record = info["record"]
     kind = info["kind"]
     record_dict = record.to_dict()
@@ -851,6 +911,155 @@ def handle_thread_reply(slack_client, event) -> Optional[str]:
     return "\n\n".join(b for b in blocks if b) or None
 
 
+def _handle_multi_record_reply(slack_client, event, records: list[dict]) -> Optional[str]:
+    """Apply a status-sweep reply that targets several records at once.
+
+    For each matched record we parse the same reply against that record's JSON
+    (PARSE_REPLY_SYSTEM is record-scoped, so it only extracts fields relevant to
+    the record it's shown), auto-apply the safe factual fields immediately, and
+    gather any state-machine / structural changes into ONE batch proposal the
+    user confirms with a single *yes*. This is the fix for multi-record
+    correction messages (e.g. Beck's 2026-07-06 sweep) that previously matched a
+    single card and silently dropped every other record named in the message.
+    """
+    channel_id = event.get("channel", "")
+    thread_ts = event.get("thread_ts", "")
+    user_id = event.get("user", "")
+    text = (event.get("text") or "").strip()
+    today = __import__("datetime").date.today().isoformat()
+
+    applied_blocks: list[str] = []   # human-readable per-record auto-apply summaries
+    multi_undo: list[dict] = []      # [{kind, id, undo}] for revert
+    batch: list[dict] = []           # [{kind, id, label, updates}] awaiting confirm
+
+    for info in records:
+        kind, rec_id, record = info["kind"], info["id"], info["record"]
+        record_dict = record.to_dict()
+        user_block = (
+            f"Today is {today}.\n\n"
+            f"Record kind: {kind}\n"
+            f"Current JSON:\n{json.dumps(record_dict, indent=2, default=str)}\n\n"
+            f"User reply in thread:\n{text}"
+        )
+        try:
+            parsed = _call_claude_json(PARSE_REPLY_SYSTEM, user_block)
+        except Exception:
+            continue  # skip this record; don't abort the whole sweep
+
+        valid = [u for u in (parsed.get("updates") or [])
+                 if _validate_update(kind, u)[0]]
+        if not valid:
+            continue
+
+        auto = [u for u in valid if _is_safe_fact(kind, u["field"])]
+        confirm = [u for u in valid if not _is_safe_fact(kind, u["field"])]
+
+        if auto:
+            committed = _commit_updates(slack_client, kind, rec_id, auto, user_id)
+            if committed:
+                multi_undo.append({"kind": kind, "id": rec_id, "undo": committed["undo"]})
+                applied_blocks.append(
+                    f"*{committed['label']}*:\n" + "\n".join(committed["applied_lines"])
+                )
+            else:
+                confirm = valid  # record vanished mid-apply — propose everything
+        if confirm:
+            batch.append({"kind": kind, "id": rec_id,
+                          "label": _record_label(record), "updates": confirm})
+
+    if not applied_blocks and not batch:
+        return None
+
+    blocks: list[str] = []
+    if applied_blocks:
+        blocks.append(
+            f":white_check_mark: *Recorded across {len(applied_blocks)} record(s)* "
+            "(reply *undo* to revert):\n\n" + "\n\n".join(applied_blocks)
+        )
+
+    if batch:
+        # State-machine changes across records wait for one confirmation. The
+        # undo buffer for the already-applied facts rides along so *undo* still
+        # reverts them even while the proposal is pending.
+        _set_pending(thread_ts, user_id, {
+            "state": STATE_AWAIT_CONFIRM,
+            "batch": batch,
+            "multi_undo": multi_undo,
+            "user_id": user_id,
+            "channel_id": channel_id,
+        })
+        lines = []
+        for i, b in enumerate(batch):
+            sub = "; ".join(f"{u['field']} → {_format_value(u['value'])}" for u in b["updates"])
+            lines.append(f"{i + 1}. *{b['label']}* — {sub}")
+        blocks.append(
+            "These state changes need confirmation — reply *yes* to apply all "
+            "(or *no* to skip):\n" + "\n".join(lines)
+        )
+    elif multi_undo:
+        # Pure auto-apply sweep: stash the undo buffer so *undo* works and any
+        # other follow-up is reprocessed fresh (mirrors the single-record path).
+        _set_pending(thread_ts, user_id, {
+            "state": STATE_AUTO_APPLIED,
+            "multi_undo": multi_undo,
+            "user_id": user_id,
+            "channel_id": channel_id,
+        })
+
+    return "\n\n".join(b for b in blocks if b) or None
+
+
+def _handle_batch_followup(slack_client, event, pending: dict) -> Optional[str]:
+    """Confirm/reject a multi-record batch proposal from a status-sweep reply."""
+    thread_ts = event.get("thread_ts", "")
+    user_id = event.get("user", "")
+    text = (event.get("text") or "").strip()
+    batch = pending["batch"]
+
+    numbered = "\n".join(
+        f"{i + 1}. {b['label']}: "
+        + "; ".join(f"{u['field']} → {_format_value(u['value'])}" for u in b["updates"])
+        for i, b in enumerate(batch)
+    )
+    try:
+        intent_obj = _call_claude_json(
+            CONFIRM_PARSE_SYSTEM, f"Pending updates:\n{numbered}\n\nUser reply:\n{text}",
+            max_tokens=300,
+        )
+    except Exception:
+        return None  # don't hijack on parse failure; leave pending
+    intent = intent_obj.get("intent", "unrelated")
+
+    if intent == "unrelated":
+        return None
+    if intent == "reject":
+        _clear_pending(thread_ts, user_id)
+        return "Cancelled — no state changes made."
+
+    selected = batch
+    if intent == "accept_subset":
+        indices = intent_obj.get("accepted_indices") or []
+        selected = [batch[i - 1] for i in indices if 1 <= i <= len(batch)]
+        if not selected:
+            return "I couldn't tell which ones you meant. Reply *yes* to apply all."
+    elif intent not in ("accept_all",):
+        return None  # modify/other on a batch: leave pending, let them restate
+
+    applied_blocks, n = [], 0
+    for b in selected:
+        committed = _commit_updates(slack_client, b["kind"], b["id"], b["updates"], user_id)
+        if committed:
+            n += len(b["updates"])
+            applied_blocks.append(
+                f"*{committed['label']}*:\n" + "\n".join(committed["applied_lines"])
+            )
+    _clear_pending(thread_ts, user_id)
+    if not applied_blocks:
+        return "_(Records disappeared between propose and apply — please retry.)_"
+    return (f"Applied {n} update(s) across {len(applied_blocks)} record(s).\n\n"
+            + "\n\n".join(applied_blocks))
+
+
 def handle_thread_followup(slack_client, event) -> Optional[str]:
     """Process a follow-up reply when there's a pending proposal for this thread.
 
@@ -868,15 +1077,27 @@ def handle_thread_followup(slack_client, event) -> Optional[str]:
 
     # Undo a previously auto-applied factual update. Works whether the pending
     # entry is a bare auto-apply OR an await_confirm that also carries an undo
-    # buffer for the safe-fact part it already wrote.
-    if pending.get("undo") and _is_undo(text):
-        reverted = _revert_updates(
-            slack_client, pending["kind"], pending["id"], pending["undo"], user_id
-        )
+    # buffer for the safe-fact part it already wrote — single-record (`undo`)
+    # or multi-record status sweep (`multi_undo`).
+    if (pending.get("undo") or pending.get("multi_undo")) and _is_undo(text):
+        if pending.get("multi_undo"):
+            reverted = []
+            for e in pending["multi_undo"]:
+                reverted += _revert_updates(
+                    slack_client, e["kind"], e["id"], e["undo"], user_id
+                ) or []
+        else:
+            reverted = _revert_updates(
+                slack_client, pending["kind"], pending["id"], pending["undo"], user_id
+            )
         _clear_pending(thread_ts, user_id)
         if not reverted:
             return "_(Nothing to undo — the record may have changed since.)_"
         return "Reverted " + ", ".join(f"`{f}`" for f in reverted) + "."
+
+    # Multi-record batch proposal (from a status-sweep reply) — confirm/reject.
+    if pending.get("batch") is not None:
+        return _handle_batch_followup(slack_client, event, pending)
 
     # An auto-applied entry has no proposal to confirm — so any non-undo reply
     # is a fresh correction. Clear the undo buffer and reprocess it as a new
