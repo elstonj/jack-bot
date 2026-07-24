@@ -4,7 +4,7 @@
   "customer": "NASA Ames Research Center",
   "customer_contact": "Isaac Anderson",
   "customer_email": "isaac.e.anderson@nasa.gov",
-  "receive_by": "2026-09-30",
+  "receive_by": "2026-08-25",
   "ship_to": null,
   "items": [
     {
@@ -62,13 +62,13 @@
     "invoicing": "Meredith",
     "build": "Nate Straus"
   },
-  "notes": "NASA Ames S2 & Parts contract (PO 80NSSC25PC031, $89,844 total budget). S2 platform now end-of-life; BST providing replacement parts support and drop-ship 3D-printed components as needed. Estimate 1362 sent 2025-07-18. MM Solutions delivering launcher cases. Invoice to be submitted via IPP with progress reports per contract terms. Due 2026-09-30.",
+  "notes": "NASA Ames S2 & Parts contract (PO 80NSSC25PC031, $89,844 total budget). S2 platform now end-of-life; BST providing replacement parts support and drop-ship 3D-printed components as needed. Estimate 1362 sent 2025-07-18. MM Solutions delivering launcher cases. Invoice to be submitted via IPP with progress reports per contract terms. Due 2026-09-30. UPDATE 2026-07-06 (Beck): final invoice must be submitted by 2026-08-25, not 9/30; parts still need to be shipped. Confirmed S2 components (not S3 qty 2).",
   "missing_fields": [
     "ship_to",
     "invoice_number",
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-07-22",
+  "last_evidence_date": "2026-07-06",
   "last_contact_date": null
 }

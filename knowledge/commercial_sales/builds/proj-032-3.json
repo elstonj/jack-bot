@@ -33,13 +33,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Verbal order placed Feb 19, 2026 for 4 S0 units + travel based on estimate 1373. Jack stated 4-month delivery timeline (~Feb 19 \u2013 Jun 19, 2026). QBO invoices #1755 (2026-04-10, $90k) and #1746 (2026-03-27, $90k) both unpaid; total invoiced ($180k) exceeds authorized budget ($88.7k) by ~$91.3k \u2014 requires clarification with Jack on budget/invoicing discrepancy.",
+  "notes": "Verbal order placed Feb 19, 2026 for 4 S0 units + travel based on estimate 1373. Jack stated 4-month delivery timeline (~Feb 19 \u2013 Jun 19, 2026). QBO invoices #1755 (2026-04-10, $90k) and #1746 (2026-03-27, $90k) both unpaid; total invoiced ($180k) exceeds authorized budget ($88.7k) by ~$91.3k \u2014 requires clarification with Jack on budget/invoicing discrepancy. UPDATE 2026-07-06 (Beck): in progress \u2014 the 4 S0 units will ship together with the NOAA IDIQ S0 shipment.",
   "missing_fields": [
     "ship_to",
     "build_state",
     "paid_date",
     "parts"
   ],
-  "last_evidence_date": "2026-06-01",
+  "last_evidence_date": "2026-07-06",
   "last_contact_date": null
 }
