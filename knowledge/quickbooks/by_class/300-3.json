@@ -4,14 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-22",
-    "end": "2026-07-23"
+    "start": "2026-07-23",
+    "end": "2026-07-24"
   },
   "totals": {
-    "revenue": 72000.0,
-    "expenses": 8355.0,
+    "revenue": 88000.0,
+    "expenses": 11151.81,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8355.0
+      "DIRECT COSTS:DC-Direct Material Purchases": 10999.02,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 152.79
     }
   },
   "invoices": [
@@ -37,6 +38,34 @@
           "description": ""
         }
       ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-07-23",
+      "doc_number": "1773",
+      "total": 16000.0,
+      "attributed": 16000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 16000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8000.0,
+          "account": "",
+          "description": "Portable Ground Station"
+        },
+        {
+          "amount": 8000.0,
+          "account": "",
+          "description": "Portable Ground Station"
+        },
+        {
+          "amount": 16000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
     }
   ],
   "bills": [],
@@ -56,6 +85,70 @@
           "amount": 8355.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 Deployment Tubes & Hardware"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "",
+      "total": 52.51,
+      "attributed": 52.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - A. Lomis made purchase in person",
+      "lines": [
+        {
+          "amount": 52.51,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Supplies for IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "6794-871",
+      "total": 1543.76,
+      "attributed": 1543.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1543.76,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Items for NOAA IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "ST61Q172",
+      "total": 1504.42,
+      "attributed": 1200.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
+      "lines": [
+        {
+          "amount": 112.41,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        },
+        {
+          "amount": 1200.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NOAA IDIQ supplies"
+        },
+        {
+          "amount": 191.47,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD Swiftstation supplies"
         }
       ]
     }

@@ -1,6 +1,6 @@
 # [001-13] Proposals
 
 Small project with 3 tasks.
-- [Open] Navy 26BX Release 3 - Sub to HALO Aero — Beck Cotter
-- [Open] Genesis Mission DOE w/BNL — Beck Cotter
-- [Open] NASA Phase II Autonomy — Beck Cotter
+- [Open] L-band drone flights over lava/WeatherStream — Beck Cotter
+- [Open] PrecisionTerra NASA subcontract — Beck Cotter
+- [Open] MOSA Innovation Challenge — Beck Cotter

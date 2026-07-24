@@ -1,337 +1,325 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched Contact Directory
+# BLACK SWIFT TECHNOLOGIES — ENRICHED CONTACT DIRECTORY
 
-## Government & Military
+## NASA
+### Key Strategic Contacts
 
-### NASA
-Primary aerospace research sponsor across multiple centers (JPL, ARC, GSFC, LARC, JSC).
+**John Glass**
+- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
+- Role: Government POC
+- BST Projects: Multiple atmospheric/aerospace research contracts
+- Interaction context: Core NASA contact across centers
 
-**Key Contacts (Project Leads & Technical Liaisons):**
+**Matthew M. Fladeland**
+- Email: matthew.m.fladeland@nasa.gov
+- Role: NASA Technical POC
+- BST Projects: Atmospheric science initiatives
+- Contact about: Airborne research coordination
 
-- **John Glass** — NASA Contact
-  - Email: John.Glass-1@nasa.gov
-  - Context: Active in NASA autonomy and aircraft systems discussions
-  - Contact about: NASA SBIR Phase II proposals, autonomy platform updates
+**Cynthia X. Zhang**
+- Email: cynthia.x.zhang@nasa.gov
+- Role: Government POC
+- BST Projects: NASA research partnerships
+- Contact about: Technical program coordination
 
-- **Matthew M. Fladeland** — NASA Contact
-  - Email: matthew.m.fladeland@nasa.gov
-  - Context: Atmospheric research coordination
-  - Contact about: Instrument payloads, flight testing campaigns
+### JPL (Jet Propulsion Laboratory)
 
-- **Stephan R. Kawa** — NASA Contact
-  - Email: stephan.r.kawa@nasa.gov
-  - Context: Earth science & atmospheric missions
-  - Contact about: Sensor integration, research payloads
+**Andrew E. Johnson**
+- Email: Andrew.E.Johnson@jpl.nasa.gov
+- Role: JPL Technical Lead
+- BST Projects: Autonomous systems, flight control research
+- Contact about: Autonomy integration, flight testing
 
-- **Jennifer L. Gustetic** — NASA Contact
-  - Email: jennifer.l.gustetic@nasa.gov
-  - Context: SBIR program management
-  - Contact about: Phase II proposal submissions, milestone reporting
+**Tara Estlin**
+- Email: Tara.Estlin@jpl.nasa.gov
+- Role: JPL Autonomy Specialist
+- BST Projects: NASA SBIR Phase I/II autonomy development (2025-2026)
+- Contact about: SwiftCore flight control architecture, modular autonomy components
+- Recent context: Directly involved in Phase II proposal evaluation; focus on TRL advancement
 
-**JPL Technical Contacts:**
-
-- **Andrew E. Johnson** — JPL, Autonomous Systems
-  - Email: Andrew.E.Johnson@jpl.nasa.gov
-  - Context: Mars rover/autonomous navigation expertise
-  - Contact about: Autonomy architecture, sensor fusion
-
-- **Tara Estlin** — JPL, Autonomous Systems
-  - Email: Tara.Estlin@jpl.nasa.gov
-  - Contact about: Flight autonomy, mission planning algorithms
-
-- **Marc Golombek** — JPL, Mars Science
-  - Email: mgolombek@jpl.nasa.gov
-  - Context: Planetary surface operations
-  - Contact about: Sensor specifications for planetary missions
-
----
-
-### NOAA (National Oceanic and Atmospheric Administration)
-Primary government partner for atmospheric, hurricane, and oceanographic research. **Active field operations with P3 aircraft coordination (Jul 2026).**
-
-**Key Operational Contacts (P3 Field Campaign Lead):**
-
-- **Joe Cione** — NOAA Federal, Hurricane Research Division
-  - Email: joe.cione@noaa.gov
-  - **Projects:** 550-2 (Navy STTR Boundary Layer, active OOI array validation flights)
-  - **Role:** P3 campaign coordination, hurricane reconnaissance mission lead
-  - **Recent activity:** Out-of-office auto-reply Jul 22; direct contact on P3 delivery planning
-  - **Contact about:** Flight scheduling, hurricane mission parameters, sensor calibration
-
-- **Nikolai Pawlenko** — NOAA Federal
-  - Email: nikolai.f.pawlenko@noaa.gov
-  - **Projects:** 550-2 (Navy STTR)
-  - **Role:** Delivery logistics coordinator for P3 aircraft system
-  - **Recent activity:** Jul 22 direct coordination with Josh Fromm on P3 delivery planning
-  - **Contact about:** Equipment delivery, logistics, system setup at field site
-
-- **Nick Underwood** — NOAA Federal
-  - Email: nicholas.underwood@noaa.gov
-  - **Projects:** 550-2 (Navy STTR)
-  - **Role:** Technical coordination, delivery planning
-  - **Recent activity:** Multiple exchanges Jul 22 on P3 questions; marked IMPORTANT
-  - **Contact about:** Technical specifications, payload integration, field support
-
-- **Jun Zhang** — NOAA Affiliate/Researcher
-  - Email: jun.zhang@noaa.gov
-  - **Projects:** 550-2 (Navy STTR, CAT flights)
-  - **Role:** Atmospheric research, turbulence validation
-  - **Recent activity:** Auto-reply Jul 22 (out-of-office)
-  - **Contact about:** Sensor calibration, data collection protocols, turbulence analysis
-
-**Administrative & Award Management:**
-
-- **Amy McLiverty** — NOAA Federal
-  - Email: Amy.McLiverty@noaa.gov (or NOAA Federal contact)
-  - **Projects:** 550-1 (NOAA delivery order 1305M226D0012/1305M226F0344)
-  - **Role:** Contract award & delivery order administrator
-  - **Recent activity:** Award/delivery order status coordination Jul 22
-  - **Contact about:** Contract execution, compliance documentation, payment processing
-
-**Broad NOAA Research Community (~100+ contacts)** — Weather, oceanography, atmospheric science divisions. Contact for specific research proposals and sensor integration opportunities.
+**Marc Golombek**
+- Email: mgolombek@jpl.nasa.gov
+- Role: JPL Science POC
+- BST Projects: Planetary/atmospheric missions
+- Contact about: Sensor payload integration, mission requirements
 
 ---
 
-### U.S. Special Operations Command (USSOCOM)
-**DoD customer for classified S0 Air Deployed UAS (S0-AD) platform. Active RFI response (Jul 2026).**
+## NOAA (National Oceanic and Atmospheric Administration)
 
-- **Evan M. Wolff** — USSOCOM, Operational Requirements
-  - Email: evan.m.wolff.mil@socom.mil
-  - **Projects:** 301-3 (S0 Air Deployed UAS, classified RFI)
-  - **Role:** Government requirements lead, classified procurement authority
-  - **Classification:** IMPORTANT; marked (U) [Non-DoD Source] in email threads
-  - **Recent activity:** Jul 22 RFI response coordination (ongoing classified dialogue)
-  - **Contact about:** S0-AD mission requirements, capability assessments, deployment scenarios
-  - **Internal lead:** Dan Prendergast (RFI coordination)
+### Critical Active Collaborators
 
----
+**Joe Cione**
+- Email: joe.cione@noaa.gov
+- Role: NOAA Research Lead / Convective & Atmospheric Turbulence (CAT) Program Lead
+- BST Projects: **Navy STTR Boundary Layer (25_1-navy-sttr-boundary-layer)**, Pioneer Array ET Flights, UAS QC Process standardization
+- Interaction context: Multi-stakeholder initiative on UAS quality control process; initiator of July 2026 coordination across NOAA, ERAU, BST (Jack Elston orchestrating)
+- Contact about: Tropical cyclone missions, boundary layer measurement protocols, fleet QC procedures, Ocean Observatories Initiative (OOI) array validation
 
-### U.S. Navy
-**Multi-program customer: SBIR magnetometer, STTR boundary layer, submarine/ASW applications.**
+**Nicholas Underwood**
+- Email: nicholas.underwood@noaa.gov
+- Role: NOAA Operations Coordinator
+- BST Projects: Pioneer Array Deployment, P-3 aircraft coordination
+- Recent interaction (Jul 23, 2026): "Delivery Planning, P3 Questions" thread with Joshua Fromm (IMPORTANT)
+- Contact about: Flight coordination, P-3 logistics, array deployment scheduling
 
-- **Morris "DeSi" Hicks** — Navy DEVCOM (Development Command)
-  - Email: morris.hicks@nasa.gov (note: may be NASA affiliation)
-  - **Projects:** 301-2 (Navy SBIR Magnetometer), 550-2 (Navy STTR Boundary Layer)
-  - **Role:** Technical program officer, flight testing coordination
-  - **Contact about:** Magnetometer performance specs, underwater detection validation
+**Nikolai Pawlenko**
+- Email: nikolai.f.pawlenko@noaa.gov
+- Role: NOAA Flight Operations Lead
+- BST Projects: Pioneer Array ET Flights, P-3 deployment coordination
+- Recent interaction (Jul 23, 2026): Direct flight scheduling ("Tuesday Flight next week" — IMPORTANT, marked multiple times)
+- Contact about: Flight operations, weather coordination, ET (Experimental Testbed) mission planning
 
-- **Angel Ruiz-Reyes** — Navy TPOC (Technical Point of Contact)
-  - **Projects:** 301-2 (Navy SBIR Magnetometer)
-  - **Role:** Navy technical lead for magnetometer integration
-  - **Contact about:** Sensor specifications, Navy acceptance criteria
+**Laura Rock**
+- Email: laura.rock@noaa.gov
+- Role: NOAA Research Collaborator
+- BST Projects: UAS QC Process, boundary layer research
+- Interaction context: Multi-stakeholder NOAA team on Jack Elston's UAS QC initiative (Jul 23, 2026)
+- Contact about: Data collection protocols, research coordination
 
-**External Navy Partners:**
-- **Paul DeMond** — U.S. Maritime / Ultra Maritime (Maritime Acoustic/ASW Systems)
-  - Email: paul.deMond@... (ultra maritime contact)
-  - **Projects:** 301-2 (Navy SBIR Magnetometer Phase II subcontractor), N251-016 (Phase II follow-on)
-  - **Role:** Acoustic sensor integration, Phase II partner
-  - **Contact about:** Acoustic/magnetometer sensor fusion, underwater detection algorithms
+**Jun Zhang**
+- Email: jun.zhang@noaa.gov
+- Role: NOAA Technical Specialist
+- BST Projects: UAS QC Process, atmospheric measurements
+- Interaction context: Multi-stakeholder NOAA initiative coordination
+- Contact about: Technical specifications, measurement protocols
 
----
+**Mark Rogers**
+- Email: mark.e.rogers@noaa.gov
+- Role: NOAA Program Coordinator
+- BST Projects: UAS QC Process
+- Interaction context: July 23, 2026 multi-agency initiative
+- Contact about: Program coordination, process standardization
 
-### U.S. Air Force
-**SBIR contractor and S0/S3 platform customer for tactical operations.**
+**Annette Hollingshead**
+- Email: annette.hollingshead@noaa.gov
+- Role: NOAA Administrative/Technical Coordinator
+- BST Projects: UAS QC Process, array deployment
+- Interaction context: Format/process coordinator on multi-stakeholder initiatives (grants-and-funding Slack)
+- Contact about: Process documentation, administrative coordination
 
-- **AFRL Patent Workflow** — Air Force Research Laboratory, Patent Processing
-  - Email: afrl.rgk.patentsworkflow@us.af.mil
-  - **Projects:** Contract management, DD882 patent forms
-  - **Role:** Contract administration
-  - **Contact about:** Patent disclosures, government use clauses
-
-**AFRL Funding Opportunities (Historical):**
-- Multiple SBIR/STTR solicitations reviewed; no current active awards visible in recent data
-
----
-
-### U.S. Department of Energy (DOE)
-**New funding opportunity (Jul 2026): $10M SBIR/STTR Phase I.**
-
-- **Gijs de Boer** — Brookhaven National Laboratory (BNL)
-  - Email: gdeboer@bnl.gov
-  - **Projects:** DOE SBIR/STTR Phase I opportunity (forwarded to BST Jul 22)
-  - **Role:** National lab liaison, funding opportunity intelligence
-  - **Recent activity:** Jul 22 forwarded $10M DOE SBIR/STTR Phase I opportunity (marked IMPORTANT)
-  - **Contact about:** DOE funding programs, renewable energy/battery research alignment
-
----
-
-## Commercial & Technology Partners
-
-### Krateo Sky
-**Strategic technology partner for autonomous systems integration, field operations, and business development. Joint HR/recruiting and technical sync meetings active (Jul 2026).**
-
-**Leadership & Operational Contacts:**
-
-- **Sona Raziabeegum** — Krateo Sky, HR & Operations
-  - Email: sona@krateosky.com
-  - **Role:** HR coordinator, office space expansion liaison, recruiting management
-  - **Recent activity:** Jul 23 office space coordination with Jack Elston; Jul 22 recruiting kickoff (Supply Chain Specialist, Technical Project Manager roles)
-  - **Contact about:** Krateo staffing, office facility planning, joint team coordination
-  - **BST liaison:** Jack Elston (direct authority on hiring/facilities decisions)
-
-- **Dipan Amin** — Krateo Sky, Technical Lead
-  - Email: dipan@krateosky.com
-  - **Role:** Work plan coordination, technical deliverables
-  - **Recent activity:** IMPORTANT coordination on KS/BST work plans
-  - **Contact about:** Technical project alignment, shared development roadmap
-
-- **Jed Leonard** — Krateo Sky, Operations
-  - Email: jed@krateosky.com
-  - **Role:** Project scheduling, cancellation/rescheduling
-  - **Recent activity:** Cancellation/rescheduling communications
-  - **Contact about:** Schedule adjustments, operational logistics
-
-- **Brian Grubel** — Krateo Sky, Executive Support
-  - Email: Brian@krateosky.com
-  - **Role:** AI executive assistant coordination, meeting scheduling
-  - **Contact about:** KS/BST Tech Sync meetings, coordination logistics
-
-- **Tim Hegwood** — Krateo Sky, IT & Infrastructure
-  - Email: tim@krateosky.com
-  - **Role:** IT support, Project Albatross collaboration
-  - **Recent activity:** Jul 22 IT help coordination with Jack Elston
-  - **Contact about:** IT infrastructure, systems integration
-
-**Krateo Sky AI Executive Assistant:** sa-xca.ai@krateosky.com — Automated meeting scheduling (KS/BST Tech Sync 3)
+**Amy McLiverty**
+- Email: (referenced in Beck Cotter correspondence)
+- Role: NOAA Contract Manager
+- BST Projects: NOAA delivery orders
+- Recent interaction (Jul 23, 2026): Beck Cotter outbound response on "New Delivery Order/Upcoming"
+- Contact about: Contract deliverables, delivery scheduling
 
 ---
 
-### HALO Aero
-**E2 battery technology partner; active technical coordination on power systems (Jul 2026).**
+## U.S. MILITARY (DoD, Navy, SOCOM)
 
-- **Daniel Hesselius** — HALO Aero, Engineering
-  - Email: daniel@haloaero.com
-  - **Role:** E2 battery design, power system optimization
-  - **Projects:** E2 aircraft battery integration
-  - **Recent activity:** Jul 22 rapid email exchanges (3+) on E2 battery technical discussion (marked IMPORTANT); iterative refinement cycle ongoing
-  - **Contact about:** Battery specifications, power delivery, thermal management
-  - **BST liaison:** Beck Cotter (technical coordination)
+### SOCOM (U.S. Special Operations Command)
 
----
+**Evan M. Wolff** ⭐ **CRITICAL — HIGH-PRIORITY ENGAGEMENT**
+- Email: evan.m.wolff.mil@socom.mil
+- Role: USSOCOM Government RFI POC
+- BST Projects: **RFI S0 (Classified, Non-DoD Source)** — **ESCALATING PRIORITY**
+- Recent interaction context:
+  - Jul 23, 2026 (19:41 UTC): Direct inbound from Evan on RFI S0 response (IMPORTANT, marked multiple times)
+  - Daniel Prendergast primary BST correspondent; Jack Elston and Maciej Stachura involvement
+  - Rapid back-and-forth indicating active negotiation/refinement phase
+- Contact about: S0 Air Deployed UAS specifications, mission requirements, RFI responses
+- **⚠️ NOTE:** This project is classified; liaise through Daniel Prendergast and Jack Elston only
 
-### QinetiQ (Lockheed Martin Subsidiary)
-**S0 Air Deployed UAS partner; classified platform coordination.**
+### Navy (NAWCAD & CNR)
 
-- **Mike Rukin** — QinetiQ, S0-AD Program
-  - Email: michael.rukin@qinetiq.com
-  - **Role:** S0 Air Deployed UAS technical discussion, partner coordination
-  - **Projects:** 301-3 (S0-AD classified program)
-  - **Recent activity:** Jul 22 marked IMPORTANT; "S0 Air Deployed UAS" subject
-  - **Contact about:** Platform capability assessments, deployment logistics
-  - **BST liaison:** Beck Cotter (primary contact)
+**Angel R. Ruiz-Reyes**
+- Email: angel.r.ruiz-reyes.civ@us.navy.mil
+- Role: NAWCAD (Naval Air Warfare Center Aircraft Division) Technical POC
+- BST Projects: Navy SBIR Magnetometer (25_1-navy-sbir-magnetometer), Bartington sensor shipping coordination
+- Recent interaction (Jul 23, 2026): Maciej Stachura correspondence on Bartington sensor shipping (IMPORTANT, 15:00 UTC)
+- Contact about: Navy sensor integration, Magnetic Anomaly Detection (MAD) system specifications, magnetometer payload testing
+- **Status:** Active technical collaboration on Navy STTR Phase II (N25A-T025) — cost proposal negotiation with Emilly Sanchez (USN/CNR Arlington)
 
----
+**Emilly Sanchez**
+- Email: (USN/CNR Arlington)
+- Role: Navy STTR Program Manager
+- BST Projects: Navy STTR Phase II Cost Proposal (N25A-T025)
+- Recent interaction (Jul 23, 2026): Rapid back-and-forth with Beck Cotter (ACTIVE NEGOTIATION, multiple revision cycles)
+- Contact about: STTR Phase II cost proposals, budget clarifications, deliverable schedules
 
-### Lockheed Martin UK (LMUK)
-**International partner for S0/S3 platform development and evaluation.**
+### Air Force Research Lab (AFRL)
 
-- **Dhruti Shah** — Lockheed Martin, Technical
-  - Email: dhruti.shah@global.lmco.com
-  - **Role:** Technical questions, platform specifications
-  - **Recent activity:** 4+ exchanges on technical topics (marked IMPORTANT)
-  - **Contact about:** Platform capabilities, integration requirements
-  - **BST liaison:** Dan Prendergast (technical coordination)
-
-**Royal Navy Contact:**
-- **Simon** — Royal Navy (specific email/title not visible; referenced in Navy SBIR magnetometer channel)
-  - **Projects:** 301-2 (Navy SBIR Magnetometer)
-  - **Role:** Royal Navy technical coordination, international testing
-  - **Contact about:** International testing locations, ASW validation
-
----
-
-### Nextechnology Solutions (NexTech)
-**Engineering services contractor for cost estimation and system integration.**
-
-- **Trenton McKibben** — NexTech, Engineering
-  - Email: Trenton.McKibben@nextechsol.com
-  - **Role:** Engineering Sprint cost estimation, proposal support
-  - **Recent activity:** Jul 22 group email to Elston, Stachura, Cotter on cost estimation requests (marked IMPORTANT)
-  - **Contact about:** System integration costs, engineering sprint planning, technical analysis
-  - **BST liaisons:** Maciej Stachura, Jack Elston (leadership review)
+**AFRL/RGK Patents Workflow**
+- Email: (automated workflow)
+- Role: AFRL Contract Administration
+- BST Projects: DD882 Contract (FA864924P0003)
+- Recent interaction (Jul 23, 2026): Beck Cotter handling contract response submissions (IMPORTANT)
+- Contact about: Patent documentation, DD882 contract submissions, compliance responses
 
 ---
 
-### Ultra Maritime
-**Maritime acoustic sensor partner; Navy SBIR Phase II subcontractor for magnetometer + acoustic fusion.**
+## UK MINISTRY OF DEFENCE
 
-- **Ultra Maritime Partner Contact** (name/email may be Paul DeMond or separate contact)
-  - **Projects:** 301-2 (Navy SBIR Magnetometer Phase II subcontractor)
-  - **Role:** Acoustic sensor integration, submarine detection
-  - **Contact about:** Acoustic payload specifications, underwater sensor fusion
-
----
-
-### eMASS AI
-**Machine learning hardware partner; AI chip integration for energy-efficient flight control (Apr-Jun 2026, completed).**
-
-**Technical Contacts:**
-
-- **Nikhila** — eMASS AI, ML Developer
-  - Email: (not provided; Slack-only contact)
-  - **Role:** Chip integration, AI model implementation
-  - **Projects:** E2 ECSDoT energy management integration
-  - **Recent activity:** Active flight testing Apr-Jun 2026; project concluded
-  - **Contact about:** eMASS chip specifications, firmware compatibility, AI model training data
-
-- **Mohamed M. Sabry** — eMASS AI, AI Lead
-  - Email: (not provided)
-  - **Role:** AI model training, PPO control strategy, timeline management
-  - **Contact about:** Control algorithm optimization, performance metrics
-
-- **Sergio Ruocco** — eMASS AI, Firmware Specialist
-  - Email: (not provided)
-  - **Role:** Autoboot firmware, SDK bring-up
-  - **Contact about:** Firmware compatibility, boot sequence issues
-
-**eMASS Leadership:**
-- **Scott & Mark (CEO)** — eMASS AI Leadership
-  - **Role:** Project approval, milestone sign-off
-  - **Contact about:** Project timeline extensions, scope management
+**Simon Laurence** ⭐ **NEW CRITICAL CONTACT — ESCALATING JULY 2026**
+- Email: Simon.Laurence157@mod.gov.uk
+- Role: UK MOD Government POC
+- BST Projects: **S0 Presentation / RFI S0 Platform** — **International Engagement**
+- Recent interaction context:
+  - Jul 23-24, 2026: Multiple IMPORTANT exchanges with Jack Elston (23 Jul 10:13 UTC, 17:55 UTC) and Maciej Stachura (23 Jul 08:57, 13:35 UTC)
+  - Appears to be bilateral technical engagement on S0 platform
+  - Jack Elston serving as primary BST-UK liaison
+- Contact about: S0 platform capabilities, international demonstrations, UK MOD requirements
+- **Cross-ref:** Coordinated with Krateo Sky (Brian Grubel) on technical specifications
 
 ---
 
-## Academic & Research Partners
+## STRATEGIC PARTNERSHIPS & CONTRACTORS
 
-### University of Colorado Boulder
-**Soil moisture mapping and atmospheric research partner.**
+### Krateo Sky (Cross-Company Operations)
 
-- **Al Gasiewski** — UC Boulder, Atmospheric Science
-  - Email: al.gasiewski@colorado.edu
-  - **Role:** ROSES-25 NASA proposal coordination, atmospheric sensors
-  - **Projects:** Soil moisture mapping, atmospheric sensing
-  - **Recent activity:** Jul 23 ROSES-25 Amendment 65 discussion on Planetary Science Enabling Facilities (marked IMPORTANT)
-  - **Contact about:** NASA ROSES proposal strategy, sensor integration, flight campaigns
+**Sona Raziabeegum**
+- Email: sona@krateosky.com
+- Role: Krateo Sky Operations Lead / Cross-Company Liaison
+- BST Relationship: **HIGH-PRIORITY INTERNAL COORDINATION** — Jack Elston functioning as dual authority across BST/Krateo
+- Recent interactions (Jul 23, 2026):
+  - BST compensation adjustment approvals (Jack approving, Sona co-signing)
+  - Office space coordination
+  - IT infrastructure decisions (Intune device management)
+  - Visiting Boulder timeline coordination (Paige Smith managing logistics while Jack out of country)
+- Contact about: Cross-company operations, shared IT infrastructure, compensation decisions, office/facility coordination
+- **Note:** Indicates deeper BST-Krateo operational integration than standard contractor relationship
+
+**Brian Grubel**
+- Email: Brian@krateosky.com
+- Role: Krateo Sky Technical/Project Lead
+- BST Projects: S0 technical coordination, "Black Swift" initiative
+- Recent interaction (Jul 23, 2026): IMPORTANT coordination with Jack Elston and Maciej Stachura (19:04 UTC); Robert Vega (Gogo) also engaged on commercial/partnership aspect
+- Contact about: S0 platform technical specifications, system integration, operational requirements
+
+**Jed Leonard**
+- Email: jed@krateosky.com
+- Role: Krateo Sky Liaison
+- Recent interaction (Jul 23, 2026): Rescheduled "Stop in - BST & Jed" meeting (IMPORTANT, 15:03 UTC)
+- Contact about: Partnership coordination, technical discussions
+
+**Tim Hegwood**
+- Email: tim@krateosky.com
+- Role: Krateo Sky IT Infrastructure Lead
+- BST Projects: Shared IT infrastructure (Intune device management, BST laptop integration)
+- Recent interaction (Jul 23, 2026): IMPORTANT "Adding BST Laptops to Intune Management" with Jack Elston
+- Contact about: IT infrastructure, device management, system integration
+
+### QinetiQ (UK Defense Contractor)
+
+**Mike Rukin**
+- Email: michael.rukin@qinetiq.com
+- Role: QinetiQ Partnership POC
+- BST Projects: **S0 Air Deployed UAS** partnership inquiry
+- Recent interaction (Jul 23, 2026): Daniel Prendergast response (10:58 MT) indicating partnership proposal review
+- Contact about: S0 platform capabilities, international partnership opportunities, defense applications
 
 ---
+
+## ACADEMIC & RESEARCH INSTITUTIONS
+
+### Embry-Riddle Aeronautical University (ERAU)
+
+**Joshua Wadler**
+- Email: WADLERJ@erau.edu
+- Role: ERAU External Collaborator / UAS Research
+- BST Projects: Navy STTR Boundary Layer (UAS payload testing), UAS QC Process standardization
+- Recent interaction (Jul 23, 2026): Responding IMPORTANT to Jack Elston's multi-stakeholder "UAS QC Process" initiative (17:23 MT)
+- Contact about: UAS quality control protocols, atmospheric measurement validation, flight testing coordination
 
 ### UC Santa Cruz
-**Environmental/climate research; active reconnection (Jul 2026).**
 
-- **J. Xavier Prochaska** — UC Santa Cruz, Department Lead
-  - Email: jxp@ucsc.edu
-  - **Role:** Academic partnership, research program lead
-  - **Projects:** Environmental monitoring (specific project TBD)
-  - **Recent activity:** Jul 22 active reconnection dialogue (marked IMPORTANT); also copied Rob Wandel and Christine Perez
-  - **Contact about:** Research collaboration opportunities, field deployment logistics
-  - **Internal leads:** Dan Prendergast (coordination), Maciej Stachura (technical discussion)
+**J. Xavier Prochaska**
+- Email: jxp@ucsc.edu
+- Role: Academic Research POC
+- BST Projects: Research collaboration (exact scope unclear from recent interactions)
+- Recent interaction (Jul 23, 2026): Daniel Prendergast reconnection inquiry response (10:32 MT)
+- Contact about: Research partnership coordination, project specifications
 
-- **Rob Wandel** — UC Santa Cruz
-  - Email: rwandel@ucsc.edu
-  - **Role:** Research partner (copied on reconnection email)
-  - **Contact about:** Research project support, field operations
+### Murray State University
 
-- **Christine Perez** — UC Santa Cruz
-  - Email: chsepere@ucsc.edu
-  - **Role:** Research partner (copied on reconnection email)
-  - **Contact about:** Research coordination, data management
+**Bassil El Masri**
+- Email: Bassil.ElMasri@murraystate.edu
+- Role: University Research Lead
+- BST Projects: Flight operations coordination, funding partnership
+- Recent interaction (Jul 23, 2026): IMPORTANT "Flight #4 coordination" with Daniel Prendergast
+- Contact about: Flight test scheduling, research coordination, budget/funding alignment
+
+### National Center for Atmospheric Research (NCAR)
+
+**Sarah Barr**
+- Email: sarah.barr@ncas.ac.uk
+- Role: NCAS UK Arctic Research POC
+- BST Projects: Arctic UAS operations research
+- Recent interaction (Jul 23, 2026): Inbound inquiry from Sarah regarding "Arctic UAS conditions" to Maciej Stachura
+- Contact about: Arctic operations capabilities, extreme weather testing, international collaboration
 
 ---
 
-### University of North Dakota (UND)
-**S0 VTOL platform evaluation; active quote request (Jul 2026).**
+## GOVERNMENT CONTRACTORS & SUBCONTRACTORS
 
-- **Jacob Carstens** — UND, Research
-  - Email: jacob.carstens@und.edu
-  - **Projects
+### Lockheed Martin UK (LMUK)
+
+**Dhruti Shah**
+- Email: dhruti.shah@global.lmco.com
+- Role: Lockheed Martin Technical POC
+- BST Projects: S0 platform partnerships, defense applications
+- Recent interaction (Jul 2026): Ongoing correspondence with Daniel Prendergast (4+ exchanges)
+- Contact about: Platform capabilities, defense contractor integration, joint development opportunities
+
+### U.S. Maritime / Ultra Maritime
+
+**Paul DeMond**
+- Email: (U.S. Maritime)
+- Role: U.S. Maritime Contract Manager
+- BST Projects: Navy STTR N251-016 Phase II
+- Recent interaction (Jul 23, 2026): Work schedule notification, ongoing resource coordination with Beck Cotter (2 emails)
+- Contact about: Phase II deliverables, work schedule, resource planning
+
+### NextTech Solutions
+
+**Trenton McKibben**
+- Email: Trenton.McKibben@nextechsol.com
+- Role: Technology/Consulting Partner
+- BST Projects: Temperature capability evaluation (referenced in grants-and-funding discussions)
+- Recent interaction (Jul 2026): Marked IMPORTANT in Daniel Prendergast correspondence
+- Contact about: Technical consulting, system specifications
+
+### By Light Professional IT Services
+
+**Bryan Sparling**
+- Email: (ByLight contact)
+- Role: ByLight Pilot / Project Lead
+- BST Projects: By Light Mustang Aircraft (USAF Yuma testing)
+- Context: Customer project lead for U.S. Air Force; coordinates invoice/payment; involved in two-phase Mustang → Chilli aircraft approach
+- Contact about: Aircraft flight testing, design specifications, USAF coordination
+
+---
+
+## COMPONENT & EQUIPMENT VENDORS
+
+### Critical Active Suppliers
+
+**Grepow** ⭐ **NEW BATTERY VENDOR**
+- Email: yair@grepow.com
+- Role: High-Performance Battery Supplier
+- BST Projects: Power system components (quote request Jul 23, 2026 marked IMPORTANT)
+- Context: Likely supplier for magnetometer/payload power systems requiring low magnetic signature
+- Contact about: Custom battery configurations, magnetic interference specifications, pricing
+
+**FTDI Chip**
+- Email: sarah.lin@ftdichip.com (Sarah Lin, Sales)
+- Role: Microcontroller/IC Component Supplier
+- BST Projects: Order #17721 coordination (active Jul 23, 2026)
+- Contact about: IC component specs, delivery timelines, technical integration support
+
+**Nielsen-Kellerman / Kestrel Meters** ⭐ **NEW VENDOR**
+- Email: info@kestrelmeters.com, orderconfirmation@kestrelmeters.com
+- Role: Meteorological Instruments / Anemometer Supplier
+- BST Projects: Environmental sensor payload (order confirmation Jul 23, 2026 marked IMPORTANT)
+- Context: Likely for Navy STTR boundary layer / NOAA atmospheric measurement payloads
+- Contact about: Anemometer specifications, sensor calibration, bulk pricing
+
+**Phase 1 Aviation**
+- Email: sean@phase1av.com (Sean Cole)
+- Role: Aircraft Parts Supplier
+- BST Projects: S3 aircraft parts sourcing (active Jul 23, 2026)
+- Recent interaction: Rapid response on "Additional S3 parts order" (2 responses in <3 hours, both marked IMPORTANT)
+- Contact about: Aircraft

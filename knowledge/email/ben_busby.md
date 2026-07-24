@@ -1,9 +1,7 @@
 # Ben Busby — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Wed, 22 Jul 2026 15:27:15 -0700: [Action Required] Enable 2-step verification to maintain your access to the Google Cloud console (from: Google Cloud <CloudPlatform-noreply@google.com>)
-- Wed, 22 Jul 2026 14:57:07 -0700: [Action Advised] Secure Google Cloud Identity users with required 2SV (from: Google Cloud <CloudPlatform-noreply@google.com>)
-- Wed, 22 Jul 2026 12:59:05 -0700: Alert: Gmail potential employee spoofing  from  Ben Busby <charitysegun6180@gmail.com> (from: Google Workspace Alerts <google-workspace-alerts-noreply@google.com>)
-- Wed, 22 Jul 2026 16:39:27 +0000: [REMINDER] Your Slack Support Data and FedRAMP (from: "'Slack' via Administration" <admin@blackswifttech.com>)
-- Wed, 22 Jul 2026 10:35:29 -0400: Join us for an Info Session? | Endless Frontier Labs (from: "'Nic Solano' via Administration" <admin@blackswifttech.com>)
+- Thu, 23 Jul 2026 12:31:08 -0500 (CDT): ESA Accelerates Field Data Sharing with Egnyte (from: Egnyte <programs@egnyte.com>)
+- Thu, 23 Jul 2026 12:30:44 +0000: DoW/DoD topics -- 08/19/2026 due date (from: Emmanuel Gorce <emmanuel.gorce@egproposalmanagement.com>)
+- Thu, 23 Jul 2026 12:30:30 +0000 (UTC): DoW/DoD topics -- 08/19/2026 due date (from: Emmanuel Gorce <emmanuel.gorce@egproposalmanagement.com>)

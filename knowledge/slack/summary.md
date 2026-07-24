@@ -1,75 +1,72 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-23 02:18
+Last scanned: 2026-07-24 02:15
 
 Total channels scanned: 9
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 4 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 8 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#commercial-sales** -- 5 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 6 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s3** -- 19 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 18 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#sbir-volcano** -- 2 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#25_1-navy-sbir-magnetometer** -- 10 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 14 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#general** -- 8 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 3 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 7 messages -- [operations.md](operations.md)
+- **#s3** -- 15 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 21 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 18 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#swiftcore** -- 7 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Slack Channel Strategic Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
+**Funded/Active:**
+- **S0 UAS** - Hurricane reconnaissance platform (SBIR Hurricane); also deployed for Navy STTR boundary layer measurements
+- **S3 VTOL** - Long-endurance hybrid fixed-wing/quadcopter (2-3 hour target endurance)
+- **SwiftCore** - Core firmware/flight control system (active development, tablet application integration)
+- **Navy SBIR Magnetometer** - QuSpin magnetometer integration for magnetic anomaly detection
+- **Navy STTR Boundary Layer** - Atmospheric sensing for hazardous weather/tropical cyclones
+- **Volcanic Monitoring (SBIR)** - S2/S3 deployment for volcanic emissions studies with NASA/USGS
 
-**Government Research (SBIR/STTR):**
-- Hurricane reconnaissance (S0 UAS platform) - #sbir-hurricane
-- Volcano monitoring (S2/S3 with specialized sensors) - #sbir-volcano
-- Navy magnetometer integration (QuSpin sensors) - #25_1-navy-sbir-magnetometer
-- Navy boundary layer atmospheric sensing - #25_1-navy-sttr-boundary-layer
-
-**Product Development:**
-- S3 VTOL aircraft (hybrid fixed-wing/quadcopter, 2-3 hour endurance) - #s3
-- Commercial aircraft variants (E2, S2, S0, S0-VTOL) - #commercial-sales
-
-**Funding & Business:**
-- Grant applications across federal agencies (NASA, DOD, NOAA, USDA, DOE) - #grants-and-funding
-- Customer orders and delivery pipeline - #commercial-sales
-
-## Key Decision-Makers & Roles
-
-| Person | Primary Role | Key Channels |
-|--------|-------------|--------------|
-| Jack Elston | Leadership/proposals/technical decisions | #general, #grants-and-funding, #sbir-hurricane, #sbir-volcano |
-| Joshua Fromm | Lead engineer/hardware/CAD/design | #s3, #operations, #general |
-| Maciej | Technical support/field operations/proposals | #sbir-hurricane, #grants-and-funding, #25_1-navy-sbir-magnetometer |
-| Dan Prendergast | Business development/operations | #general, #operations |
-| Beck Cotter | Technical lead (magnetometer/boundary layer projects) | #25_1-navy-sbir-magnetometer, #25_1-navy-sttr-boundary-layer |
-| Meredith Needham | Finance/admin/Navy coordination | #operations, #grants-and-funding |
+## Key People & Roles
+| Person | Primary Role |
+|--------|---|
+| **Jack Elston** | Leadership, proposal strategy, technical decisions, project oversight |
+| **Joshua Fromm** | Hardware lead, RF/antenna expertise, CAD design, parts validation |
+| **Maciej** | Technical support, field operations, proposal development |
+| **Beck Cotter** | Navy projects (magnetometer, boundary layer), technical work |
+| **Dan Prendergast** | Business development, operations, facility management |
+| **Meredith Needham** | Finance, admin, Navy contact liaison |
+| **Danny Troke** | Flight operations, testing coordination |
 
 ## Cross-Channel Themes
 
-**Technical Integration:** S0/S2/S3 platforms serve as common payloads across multiple government projects (hurricane, volcano, magnetometer, boundary layer). Consistent technical architecture enables rapid mission adaptation.
+### Integration Points
+- **S0 platform** appears across hurricane (primary), Navy STTR boundary layer, and operational testing channels
+- **S3 development** feeds into volcano monitoring and general capability roadmap
+- **SwiftCore firmware** is shared foundation across all aircraft systems
 
-**Government-to-Commercial Pipeline:** SBIR/STTR projects (government-funded R&D) feed technology into commercial product line. Magnetometer and atmospheric sensing capabilities developed through Navy projects may commercialize.
+### Decision Patterns
+- **Jack Elston** drives proposal strategy and major technical approvals (#grants-and-funding → #general announcements)
+- **Joshua Fromm** owns hardware validation; decisions flow from #s3 and #operations to project-specific channels
+- **Navy contracts** centralized in dedicated channels (#25_1-navy-*) but sync with operational capabilities
 
-**Funding Strategy:** Grant applications are strategic; projects span 2020-2026 with continuous pursuit of new federal funding to sustain operations and product development.
+### Recurring Topics
+1. **Funding pipeline** - Continuous SBIR/STTR pursuit across DOD, NASA, NOAA, USDA, DOE
+2. **Sensor integration** - Magnetometers, atmospheric instruments, volcanic monitoring payloads
+3. **Flight testing & validation** - Hardware-in-loop, field ops coordination (#operations, #swiftcore)
+4. **Endurance optimization** - Battery design, hybrid propulsion (#s3), power management
+5. **Autonomous operations** - Tablet control, flight planning, automatic takeoff/landing
 
-**Field Operations:** Maciej, Dan Prendergast, and others coordinate actual deployment and testing across multiple simultaneous projects, indicating operational maturity and resource sharing.
+### Information Flow
+- **#grants-and-funding** → Strategic priorities and funded work
+- **#general** → Company-wide announcements and cross-project visibility
+- **#operations** → Execution logistics supporting all projects
+- **Project-specific channels** → Detailed technical execution
+- **#swiftcore** → System-wide firmware affecting all platforms
 
-**Hardware Development Bottleneck:** Joshua Fromm appears central to all aircraft development; significant CAD, parts sourcing, and integration work documented across #s3, #operations, and product channels.
-
-## Recurring Decision Patterns
-
-- **Jack Elston** makes final calls on proposals and strategic initiatives
-- **Joshua Fromm** owns hardware specifications and design validation
-- **Maciej** bridges technical execution and proposal writing
-- **Operations/Procurement** channel serves as task coordination hub with clear assignment tracking
-- **Technical channels** (#s3, #sbir-*) show collaborative problem-solving with distributed expertise
-
-## Notable Connections
-
-- Navy STTR boundary layer project ties directly to #sbir-hurricane weather capability needs
-- Volcano monitoring (NASA/USGS) separate from government contracting but uses similar S2/S3 platforms
-- Commercial sales channel shows real customer adoption of platforms developed through government R&D
-- Finance and grant tracking centralized (#grants-and-funding, #operations) suggests resource constraints require careful portfolio management
+## Gaps & Observations
+- No dedicated sales/marketing or customer relations channel visible
+- Limited cross-project technical discussion (siloed by platform/funder)
+- Heavy reliance on government funding (SBIR/STTR/NASA contracts)

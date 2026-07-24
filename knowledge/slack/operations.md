@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 22, 2026) reflects flight schedule changes and logistics management.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 23, 2026) reflects Industrial Plan implementation and Asana portfolio restructuring.
 
 ---
 
@@ -55,20 +55,14 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Project Numbering System (September 2023)
 - **September 18, 2023:** Meredith Needham finalized customer/project numbering system with specific codes: 200=NASA, 300=NOAA, 350=USGA, 400=Air Force, 450=CU Boulder, 500=Department of Agriculture. Applied to Asana, QuickBooks, and Toggl for consistent tracking.
 
+### Industrial Plan & Asana Portfolio Restructuring (July 23, 2026)
+- **July 23, 2026:** Decision to implement Industrial Plan tasks in Asana with new portfolio structure. Four new Views created for each pillar of Industrial Plan (separate from current "Active Projects" and "Business Operations" views). Beck Cotter advocated for separate IP project rather than folding tasks into existing projects to accommodate IP items that don't fit naturally into current projects. Linking via Projects or Dependencies to be used for items that naturally connect to existing projects.
+- **July 23, 2026:** New project code assigned: [001-24] IRAD Albatross (Maciej Suwinski requesting code for new Albatross project). Meredith Needham assigned project ID and added to Toggl.
+- **Confirmed:** Project codes remain required for all government accounting. Code assignment process: request to Meredith Needham with approval and Toggl integration.
+
 ### Asana Project Management System
 - **August 2023:** Significant effort to implement Asana with proper numbering conventions. Parker Vollmer led cleanup and structure development. Generic vs. project-specific task categorization issues identified and resolved. Later transitioned to portfolio structure: Active Projects, Internal Projects, Business Operations.
+- **July 23, 2026:** Plan to expand portfolio structure to accommodate Industrial Plan with 4 new Views by pillar. Product development view to be implemented first, incorporating existing S3 IRAD, S0 IRAD, S0-VTOL IRAD projects plus new Albatross project.
 
 ### Shipping Protocol & Insurance (April-May 2023)
-- **Critical gap identified:** Packages must be scanned by shipper at pickup/dropoff for insurance coverage to activate. UPS pickup drivers were not scanning packages. Decision to require high-value declaration with signature and obtain drop-off receipts for all shipments.
-- **Freight provider selection (June 2023):** Oak Harbor Freight selected over UPS Freight ($438 vs. $2,200 quote for Phase 1 tooling shipment). Parker Vollmer investigating insurance coverage for freight provider option.
-
-### Financial/Accounting
-- **March 2023:** Tax-exempt status coordination established with vendors. Joshua Fromm provides vendor lists; Karen contacts with tax-exempt certificate from DigiKey link.
-- **Ongoing:** Credit card monitoring and fraud detection protocols maintained. Josh Fromm's card cancelled after unauthorized WordPress.com charges ($40/month for bst.aero migration). Home Depot account unauthorized login investigated and cleared (Karen confirmed legitimate access Nov 2).
-- **August 2023:** DigiKey account password set to BSTOct11!; account locked requiring tech support intervention.
-
-### Vendor Management
-- **2023-2024:** Parker Vollmer organizing vendor list for procurement software evaluation. Goal: understand vendor roles, projects supported.
-
-### Flight Operations & Project Scheduling
-- **July 22, 2026:** Murphy's Pond
+- **Critical gap identified

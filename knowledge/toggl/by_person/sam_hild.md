@@ -1,42 +1,40 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 188.0 hours
+- **Total hours tracked:** 188.3 hours
 - **Primary projects:** 
-  1. Unassigned/None (101.5 hours, 54.0%)
+  1. Unassigned/None (101.5 hours, 53.9%)
   2. [300-3] 2026 IDIQ (Hurricane) (40.9 hours, 21.7%)
-  3. [550-1] Navy SBIR: Magnetometer (20.8 hours, 11.1%)
+  3. [550-1] Navy SBIR: Magnetometer (21.1 hours, 11.2%)
   4. [001-07] S3 IRAD (15.0 hours, 8.0%)
   5. [001-04] S0 VTOL IRAD (6.2 hours, 3.3%)
 - **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 101.5 hours (54.0%) — **⚠️ CRITICAL ESCALATION** — *+8.2 hours; reversal continues; now 54% of total time; second consecutive batch entirely unassigned and undocumented*
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 40.9 hours (21.7%) — *Unchanged; no new activity*
+- **No project assigned:** 101.5 hours (53.9%) — **⚠️ CRITICAL ESCALATION** — *Sustained at 54% baseline; 16.0+ cumulative hours undocumented across 2 batches*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 40.9 hours (21.7%)
   - Last entries: "AP Debug" (3.2h), "General QC" (1.0h)
-- **[550-1] Navy SBIR: Magnetometer:** 20.8 hours (11.1%) — *Unchanged; no new activity*
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 15.0 hours (8.0%) — *Unchanged; no new activity*
+- **[550-1] Navy SBIR: Magnetometer:** 21.1 hours (11.2%) — **+0.3 hours; FIRST ACTIVE PROJECT ENTRY IN 2 BATCHES**
+  - Latest entry: "Mag BR Testing" (0.3h) — *Positive signal: project resumed*
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 15.0 hours (8.0%)
 - **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (3.3%)
 - **Other projects:** 3.7 hours (1.9%)
 
 ## Recent Activity
 - **Latest entry (this batch):**
-  - 8.2 hours **Unassigned** — **NO DESCRIPTION PROVIDED** (persistent documentation gap)
-- **Current focus:** UNKNOWN — Second batch of entirely unassigned, undescribed time
-- **Documentation quality: CRITICAL** — No active project entries for 2 consecutive batches; 16.0 cumulative unassigned hours with zero context
+  - 0.3 hours **[550-1] Navy SBIR: Magnetometer** — "Mag BR Testing" (documented; magnetic bearing testing)
+- **Current focus:** Navy SBIR Magnetometer project has resumed active work
+- **Documentation quality: IMPROVED** — First documented project entry after 2 batches of unassigned time
 
 ## Patterns
-- **Unassigned backlog trend (concerning trajectory):**
-  - Batch 5: 55.0%
-  - Batch 6: 53.8%
-  - Batch 7: 50.9%
-  - Batch 8: 49.7% — *positive trajectory*
-  - Batch 9: 51.9% — *reversal began*
-  - **Batch 10 (current): 54.0%** — **SUSTAINED DECLINE** *Now above initial peak; accelerating upward*
-- **Project activity freeze:** Zero entries on Hurricane, SBIR, S3 IRAD, or VTOL projects across last 2 batches; all time unallocated
-- **Compliance status:** **CRITICAL FLAG** — Unassigned time now majority of tracked hours; documented project work has stalled; pattern suggests administrative workload, context-switching, or tracking system issue
-- **Urgent action needed:** Contact Sam immediately to:
-  1. Classify 16.0 hours of unassigned time
-  2. Determine if active projects have resumed or paused
-  3. Identify barriers to consistent project allocation
-  4. Restore documentation discipline
+- **Unassigned backlog trend (stabilizing):**
+  - Batch 8: 49.7%
+  - Batch 9: 51.9%
+  - Batch 10: 54.0%
+  - **Batch 11 (current): 53.9%** — *Plateau reached; no further deterioration*
+- **Project activity resumption:** Navy SBIR Magnetometer shows renewed engagement after gap; other projects (Hurricane, S3 IRAD, VTOL) remain dormant
+- **Compliance status:** **IMPROVING SIGNAL** — One documented project entry breaks 2-batch unassigned streak; however, 53.9% unassigned remains unsustainably high
+- **Action items:**
+  1. ✓ *Partial resolution:* Sam has returned to active project tracking on Navy SBIR
+  2. **STILL URGENT:** Classify remaining 101.5 unassigned hours and clarify status of Hurricane, S3 IRAD, and VTOL projects
+  3. Monitor next batch for continued project engagement or reversion to undocumented time

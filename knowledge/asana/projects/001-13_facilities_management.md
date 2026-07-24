@@ -3,33 +3,38 @@
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
-- **Timeline**: Ongoing operational project with recurring monthly, weekly, and bi-weekly tasks
-- **Status**: Active - recurring operational cadence maintained. **Current snapshot: 1 open task** (Pay Rent, due 2026-07-27). Facility management continues on schedule.
-- **Team members involved**: Meredith O'hara Needham (primary operational owner, Neat N Tidy owner, rent payment), Nate Straus (facilities improvements & consumables, equipment planning)
-- **Risk signals**: None currently flagged; rent payment task is on schedule.
+- **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and monthly rent payments
+- **Status**: Active - operational cadence maintained. **Current snapshot: 0 open tasks**. All recent cleaning cycles completed on schedule or within 3–5 days of due date. Next scheduled rent payment due 2026-07-27.
+- **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, rent payment), Nate Straus (facilities improvements & consumables management)
+- **Risk signals**: None; all completed tasks show consistent, reliable execution with minimal delays.
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
   - Next payment due: **2026-07-27** (Meredith O'hara Needham)
-- **Weekly office purchasing coordination** (Ongoing; assigned to Meredith O'hara Needham)
-- **Bi-weekly office cleaning** (via Neat N Tidy; managed through booking portal)
+- **Bi-weekly office cleaning** (via Neat N Tidy; established cadence, all recent cycles completed)
+  - Latest completed: 2025-11-04 (due 2025-11-01)
+  - Pattern: Due dates ~2 weeks apart; consistently completed within 2–5 days
 - **Equipment wish list** (unscheduled; assigned to Nate Straus)
 - **Facilities improvements** (ongoing, no due date set; assigned to Nate Straus)
 - **Consumables stock management** (periodic; last updated 2025-11-04)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 0 open, 11 completed
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open
-    - Pay Rent (due 2026-07-27) — monthly rent payment to Goose Creek landlord
+  - **Meredith O'hara Needham**: 11 completed (Office Cleaning cycle)
+    - All bi-weekly cleaning tasks completed; typical lag 2–5 days after due date
 - **Notable patterns**: 
-  - Pay Rent task on track with scheduled due date
-  - Equipment wish list and other facility tasks managed outside primary Asana export
-  - Bi-weekly cleaning managed through Neat N Tidy booking portal rather than Asana task tracking
+  - Bi-weekly cleaning is the primary tracked task in Asana; all recent cycles show consistent execution
+  - Monthly rent payment task managed separately (next due 2026-07-27)
+  - Consumables and equipment planning tracked outside primary Asana export
+  - No overdue or at-risk tasks
 
 ## Recent Activity
-- **Current open tasks**:
-  - Pay Rent (assigned to Meredith O'hara Needham) — due **2026-07-27** ✓ On schedule
+- **Completed tasks** (most recent):
+  - Office Cleaning (due 2025-11-01, completed 2025-11-04)
+  - Office Cleaning (due 2025-10-18, completed 2025-10-23)
+  - Office Cleaning (due 2025-10-04, completed 2025-10-06)
+- Pattern: Bi-weekly cleaning cadence maintained consistently through October and November 2025
 
 ## Notes & Context
 

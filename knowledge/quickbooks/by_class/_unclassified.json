@@ -4,14 +4,16 @@
     ""
   ],
   "period": {
-    "start": "2026-07-22",
-    "end": "2026-07-23"
+    "start": "2026-07-23",
+    "end": "2026-07-24"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5355.31,
+    "expenses": 5947.47,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31
+      "FACILITIES:FA-Office Supplies": 5409.13,
+      "FACILITIES:FA-Shop Supplies": 423.79,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 114.55
     }
   },
   "invoices": [],
@@ -32,6 +34,65 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "",
+      "total": 78.08,
+      "attributed": 78.08,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 24.26,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Batteries for shop"
+        },
+        {
+          "amount": 53.82,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Brita filters/toilet paper"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "100576268",
+      "total": 114.55,
+      "attributed": 114.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 114.55,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S3 extra parts for power board fix"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "10000037741",
+      "total": 399.53,
+      "attributed": 399.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Requested to purchase verbally by J. Elston",
+      "lines": [
+        {
+          "amount": 399.53,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Kestrel 5500 Weather Meter"
         }
       ]
     }

@@ -1,78 +1,90 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 41 (across four data pulls: 20–23 Jul 2026)
-- **Date range:** 20–23 Jul 2026 (4-day window)
-- **Volume note:** Estimated ~5–8 messages/day, but heavily skewed toward automated notifications. Still insufficient for reliable weekly/monthly patterns; need 2+ week sample for robust baseline.
+- **Total messages scanned:** 62 (across five data pulls: 20–24 Jul 2026)
+- **Date range:** 20–24 Jul 2026 (5-day window)
+- **Volume note:** Estimated ~5–8 messages/day; heavily skewed toward automated notifications and vendor communications. Still insufficient for reliable weekly/monthly patterns; need 2+ week sample for robust baseline.
 
 ## Key Correspondents
 
 ### Internal
-- **Maciej Stachura** (stachura@blackswifttech.com) — direct email recipient
+- **Maciej Stachura** (stachura@blackswifttech.com) — primary direct collaborator (5 emails from Sam in new data, all on topic "Mag" / "mag data"; appears to be ongoing shared project)
 - **Meredith Needham** (meredith.needham@blackswifttech.com) — purchasing process intermediary
 - **Joshua Fromm** (joshua.fromm@blackswifttech.com) — appears as recipient on vendor notifications routed through purchasing
+- **Jack Elston** (jack.elston@blackswifttech.com) — **NEW**: appears as recipient on component orders (Nielsen-Kellerman, FTDI)
 
 ### External
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **active technical collaborator** (4 emails from Frank, 3 replies from Sam on same day; marked IMPORTANT by Frank)
-- **JawsTec Manufacturing** (info@jawstec.com) — high-activity vendor (prior data; 4 messages in 24 hours)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **active technical collaborator** (4 emails from prior data, 3 replies from Sam; marked IMPORTANT by Frank; power supply design focus)
+- **JawsTec Manufacturing** (info@jawstec.com) — **critical vendor** (prior data; 4 messages in 24 hours)
 - **McMaster-Carr** — supplier (prior data)
-- **SparkFun Electronics** — electronics supplier (order shipped notification 22 Jul)
-- **SendCutSend** — **new vendor** (metal/sheet metal cutting service; order tracking, 2 messages)
-- **SkyGeek** (service@skygeek.com) — maintenance/parts vendor (adhesive product email 23 Jul)
-- **DigiKey** — electronics distributor (prior data)
-- **Protolabs** — manufacturing/prototyping service (prior data)
+- **SparkFun Electronics** — electronics supplier (order shipped notification, prior data)
+- **SendCutSend** — metal/sheet metal cutting service (new vendor, prior data; 2 messages)
+- **SkyGeek** (service@skygeek.com) — maintenance/parts vendor (adhesive product email; appears in new data routed to Joshua Fromm)
+- **DigiKey** — electronics distributor (3 new shipment/backorder notifications in current data; active high-volume orders)
+- **Protolabs** — manufacturing/prototyping service (2 new notifications: order received + ready for manufacturing, Order 6794-871)
+- **FTDI Chip** (Sarah Lin, sarah.lin@ftdichip.com) — **NEW/ESCALATED**: microcontroller/chip supplier (2 emails in current data, routed to Jack Elston; appears to be order coordination with Meredith Needham intermediating)
+- **Nielsen-Kellerman / Kestrel Meters** (kestrelmeters.com) — **NEW**: order confirmation (environmental measurement instruments?)
 - **Elisa Arellano** (earellano@aeronet.com) — Aeronet contact (prior data)
 - **Sean Cole** (sean@phase1av.com) — Phase1 AV contact (prior data)
 
 ### Automated/System
-- Toggl Track (support@track.toggl.com) — no-subject notification (22 Jul)
-- Budget Rent A Car — reservation cancellation (22 Jul, routed through Purchasing)
-- Generic tracking notifications (order delivery, 22 Jul)
-- Purchasing system routing (central alias: purchasing@blackswifttech.com)
+- **Toggl Track** (support@track.toggl.com) — no-subject notification (24 Jul; continuing pattern)
+- **Spindrift Customer Support** (shop@drinkspindrift.com) — **NEW**: subscription beverage service (2 identical notifications 24 Jul, routed to purchasing@blackswifttech.com; likely office/employee benefit)
+- **Driftaway Coffee** — points/rewards notification (23 Jul, routed through purchasing)
+- **Verizon Business** (communications@b2binfo.verizonwireless.com) — promotional email (23 Jul)
+- **HeliDirect** (sales@helidirect.com) — **NEW**: RC helicopter/servo newsletter (23 Jul, routed to Meredith Needham; appears to be marketing/promo category)
+- **NK/Ambient Invoice** system (23 Jul)
+- **Generic order tracking, shipment notifications** (Protolabs, DigiKey, invoice confirmations)
+- **Purchasing system routing** (central alias: purchasing@blackswifttech.com)
 
 ## Topic Patterns
-- **Power supply regulators — ONGOING THREAD:** "Possible Issue with 24V Regulators on v32/v33 power supply distribution boards" — **4 rapid exchanges with Frank Strazzabosco (22 Jul, 09:05–16:59 UTC)**
-  - Frank sent 4 emails (09:05, 13:17, 13:20, 13:22 UTC, all marked IMPORTANT)
-  - Sam replied 3 times (09:38, 13:35, 16:59 UTC)
-  - Indicates active troubleshooting or design iteration cycle
-- **Procurement/component sourcing:** SparkFun (electronics shipped), SendCutSend (metal cutting order), SkyGeek (adhesive products)
-- **JawsTec Manufacturing orders** — continued high-volume activity (prior data)
-- **McMaster-Carr** — ongoing supplier relationship (prior data)
-- **Travel:** Budget Rent A Car reservation cancellation (22 Jul)
+
+### Active Technical/Project Work
+- **"Mag" / "mag data" — ONGOING THREAD:** 
+  - **3 outbound emails from Sam to Maciej (23 Jul, 10:42 UTC, 10:58 UTC, 13:32 UTC)**
+  - Subject line variations: "Mag log", "Mag", "more mag data"
+  - Two marked [DRAFT], one marked [SENT]
+  - **Indicates iterative collaborative work** — possibly magnetometer data, magnetic field analysis, or magnetic component testing
+  - **NEW pattern**: Sam appears to be actively sending technical/experimental data to Maciej throughout the day (sequential timestamps suggest real-time data sharing)
+
+### Power Supply / Electrical Design (prior data, continuing)
+- **24V power supply regulators** — "Possible Issue with 24V Regulators on v32/v33 power supply distribution boards" (Frank Strazzabosco collaboration; prior data)
+
+### Component/Supplier Sourcing (HIGH VOLUME)
+- **DigiKey** — 3 new notifications in 24 hours:
+  - Backorder change notice (100222302, appeared twice — possible resend/duplicate)
+  - Shipment notification (invoice 129715880)
+  - PO acknowledgement (Salesorder #100576268)
+  - **Indicates significant, multi-order procurement activity**
+- **Protolabs** — 2 notifications:
+  - Order received (6794-871)
+  - Order ready for manufacturing (6794-871, same order)
+  - **Timeline suggests rapid turnaround (received → ready within ~2 hours)**
+- **FTDI Chip (microcontroller/semiconductor supplier)** — Order #17721 (new vendor category; appears to be coordinated through Jack Elston and Meredith Needham)
+- **Nielsen-Kellerman / Kestrel Meters** — order confirmation (environmental measurement device; new component category)
+- **Spindrift subscription** — non-technical office supply (beverage service)
 
 ## Communication Patterns
-- **Increased human-to-human engagement:** New data shows **7 human-initiated emails** (up from 1 in prior sample):
-  - 4 inbound from Frank Strazzabosco (Frank initiating technical discussion)
-  - 3 outbound replies from Sam to Frank
-  - All same-day (22 Jul), suggesting **urgent technical issue or time-sensitive design iteration**
-- **Rapid-fire exchange cadence:** Frank's 4 messages compressed into 17-minute window (13:17–13:22 UTC), followed by Sam's same-day replies — indicates **synchronous problem-solving or critical technical feedback loop**
-- **Automated notifications still dominant:** 7 of 14 new messages are system-generated (order tracking, delivery confirmations, subscription updates, car rental cancellation)
-- **Toggl Track baseline activity:** No-subject email (22 Jul) — continuing time tracking integration (prior data)
-- **SendCutSend emerges as new vendor:** 2 order-tracking emails in 24 hours — suggests metal/sheet metal components now part of sourcing mix (new vs prior focus on electronics and industrial supplies)
-- **Multiple time zones evident:** Mix of UTC and Mountain Daylight Time (-0600) stamps
+- **Increased direct human-to-human engagement with Maciej:** 5 new outbound emails from Sam to Maciej (all 23 Jul, compressed into ~3 hour window: 10:42–13:32 UTC)
+  - All related to "Mag" topic
+  - Mix of drafts and sent messages
+  - **Suggests active collaborative iteration, possibly real-time debugging or data validation**
+- **Expanded purchasing roster:** New names appearing in vendor/order routing (Jack Elston for FTDI and Nielsen-Kellerman orders) — may indicate distributed procurement responsibility or delegation to additional team member
+- **Automated notifications remain dominant:** 16 of 21 new messages are system-generated (order confirmations, backorder notices, subscription updates, newsletters)
+- **Multiple time zones evident:** Mountain Daylight Time (-0600), Central Daylight/Standard Time (-0500), UTC, and likely other zones in email routing
+- **High unread volume persists:** ~17 of 21 new messages marked UNREAD; consistent with prior pattern
+- **Email routing artifacts:** Multiple vendor confirmations routed through purchasing alias yet addressed to different recipients (Jack Elston, Meredith Needham, Joshua Fromm) — suggests centralized purchasing account with message distribution to responsible team members
 
 ## Key Relationships
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **primary technical partner** (UPGRADED from prior assessment)
-  - Now showing **urgent, iterative collaboration** (4 inbound + 3 outbound same-day)
-  - Marked IMPORTANT by sender (twice in prior data, continuing pattern)
-  - **Critical for 24V power supply design/troubleshooting** (v32/v33 boards)
-  - Appears to be external consultant or contractor with deep technical expertise
-- **JawsTec Manufacturing** — **critical vendor** (sustained high-volume activity across all data pulls)
-- **McMaster-Carr** — **active ongoing supplier** (recurring component orders)
-- **Maciej Stachura** — collaborator (prior data; context for Frank communications unclear from headers alone)
-- **Meredith Needham** — purchasing intermediary
 
-## Notable Observations
-- **Technical escalation detected:** Frank's 4 rapid-fire IMPORTANT emails on 22 Jul suggest either:
-  - Urgent design flaw or performance issue requiring same-day troubleshooting
-  - Fast-tracked design iteration cycle (prototype feedback loop)
-  - Compliance or safety concern flagged by external partner
-- **SendCutSend emergence:** Metal cutting service integration is **new vendor category** not seen in prior data — may indicate:
-  - Shift from purely electronics/component procurement to custom mechanical fabrication
-  - New product development phase requiring metal frame/chassis
-  - Possible expansion of in-house manufacturing capability
-- **Communication channel splitting:** Frank's emails marked IMPORTANT by sender; Sam's responses go direct (not routed through Purchasing) — suggests **high-priority technical channel separate from standard procurement workflow**
-- **Budget cancellation routing anomaly:** Car rental reservation cancellation routed through Purchasing alias — likely personal/travel expense or administrative error in email forwarding
-- **Purchasing alias pattern persists:** Vendor confirmations (SendCutSend, SparkFun) still routed to `purchasing@blackswifttech.com` yet appear in Sam's inbox — reinforces hypothesis that Sam owns/co-manages departmental purchasing account
-- **High unread volume continues** — nearly all new messages marked UNREAD (11 of 14), consistent with prior pattern
-- **Still insufficient for reliable time-of-day patterns** — need extended sample (2+ weeks minimum) to identify work hours, response time SLAs, or timezone preference
+### Technical Collaboration
+- **Maciej Stachura** — **primary technical collaborator** (UPGRADED from prior assessment)
+  - **New evidence: iterative "mag data" collaboration** (5 emails in 3-hour window, 23 Jul)
+  - Appears to be co-developing or co-analyzing magnetic-related subsystem/component
+  - Real-time data-sharing pattern suggests **active prototype testing or experimental iteration**
+
+### Vendor/Supplier Partners
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **external technical consultant/partner** (prior data; 24V power supply design troubleshooting)
+- **DigiKey** — **high-volume active supplier** (3 orders in 24 hours; critical component flow)
+- **Protolabs** — **rapid-turnaround manufacturing partner** (order cycle <2 hours from receipt to ready-for-mfg)
+- **FTDI Chip** (Sarah Lin contact) — **new microcontroller supplier**

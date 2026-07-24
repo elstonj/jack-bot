@@ -1,93 +1,110 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 125 emails (88 previous + 37 new)
-- **Date range:** 19 Jul – 23 Jul 2026 (5 days)
+- **Total messages scanned:** 151 emails (125 previous + 26 new)
+- **Date range:** 19 Jul – 24 Jul 2026 (6 days)
 - **Approximate volume:** ~25 emails/day
-- **Peak activity:** Tuesday, 21 Jul (38 emails); sustained high activity Wed 22 Jul (37 new emails)
-- **Note:** Sustained intense period; Tuesday–Wednesday represent major execution and coordination phase
+- **Peak activity:** Tuesday, 21 Jul (38 emails); sustained Wed 22 Jul (37 emails); continued Thu 23 Jul (26 new emails)
+- **Note:** Sustained intense execution phase across 6 days; high government correspondence volume
 
 ## Key Correspondents
 
-### Top Senders (new data, 22–23 Jul)
-1. **Daniel Prendergast** (BST internal) — 3 emails (S0 Air Deployed UAS, RFI S0 updates, Reconnecting/UCSC contact)
-2. **Daniel Hesselius** (HALO Aero) — 3 emails (E2 battery technical discussion, iterative refinement)
-3. **Jack Elston** (BST internal) — 2 emails (IT help coordination with Krateo Sky, Google Docs proposal share)
-4. **Gijs de Boer** (Brookhaven National Lab) — 2 emails (DOE $10M SBIR/STTR Phase I opportunity)
-5. **Jacob Carstens** (University of North Dakota) — 2 emails (S0 VTOL quote request follow-up)
-6. **Tim Hegwood** (Krateo Sky) — 2 emails (IT help, Project Albatross collaboration continuation)
-7. **Amy McLiverty** (NOAA Federal) — 1 email (Award/delivery order status 1305M226D0012/1305M226F0344)
-8. **Evan M. Wolff** (USSOCOM) — 1 email (RFI S0 continuation)
-9. **Mike Rukin** (QinetiQ) — 1 email (S0 Air Deployed UAS, marked IMPORTANT)
-10. **Paul DeMond** (U.S. Maritime) — 1 email (N251-016 Phase II)
+### Top Senders (new data, 23–24 Jul)
+1. **Emilly Sanchez** (USN/CNR Arlington) — 3 emails (STTR Phase II Cost Proposal N25A-T025, rapid iteration)
+2. **AFRL/RGK Patents Workflow** — 2 emails (DD882 Contract FA864924P0003 responses)
+3. **Paul DeMond** (U.S. Maritime) — 2 emails (N251-016 Phase II, work schedule notification)
+4. **Evan Wolff** (USSOCOM) — 2 emails (RFI S0, continued engagement marked IMPORTANT)
+5. **Daniel Prendergast** (BST internal) — 3 emails (S0 Air Deployed UAS response, UCSC reconnection, RFI S0 coordination)
+6. **Jack Elston** (BST internal) — 1 email (MOSA Innovation Challenge task comment via Asana)
+7. **Emmanuel Gorce** (EG Proposal Management) — 3 emails (DoW/DoD topics, 08/19/2026 due date)
+8. **J. Xavier Prochaska** (UCSC) — 1 email (Reconnecting inquiry response)
+9. **Eventbrite** — 2 emails (NASA Nancy Grace Roman Space Telescope Launch order confirmation; promotional)
 
 ### Top Recipients (outgoing — new data)
-1. **Daniel Hesselius** (HALO Aero) — 2 emails (E2 battery coordination)
-2. **Meredith Needham** (BST internal) — 3 emails (Quote forwarding, draft coordination, compliance)
-3. **Jack Elston** (BST internal) — 2 emails (AFRL DD882 contract, proposal review)
-4. **Gijs de Boer** (BNL) — 1 email (DOE SBIR/STTR interest)
-5. **Jacob Carstens** (UND) — 2 emails (S0 VTOL quote discussion)
-6. **Amy McLiverty** (NOAA) — 1 email (Award coordination)
-7. **Mike Rukin** (QinetiQ) — 1 email (S0 Air Deployed UAS response)
-8. **AFRL Patent Workflow** (afrl.rgk.patentsworkflow@us.af.mil) — 1 email (DD882 contract submission)
+1. **Emilly Sanchez** (USN/CNR Arlington) — 3 emails (STTR Phase II Cost Proposal N25A-T025 responses)
+2. **AFRL/RGK Patents Workflow** — 2 emails (DD882 contract responses)
+3. **Paul DeMond** (U.S. Maritime) — 1 email (N251-016 Phase II response)
+4. **Amy McLiverty** (NOAA) — 1 email (New Delivery Order/Upcoming response)
 
 ### Internal vs External (Updated)
-- **Internal BST:** ~24 emails (Prendergast, Elston, Needham, Stachura; Asana, Slack, Google Drive notifications)
-- **External:** ~101 emails (government, academia, contractors, vendors, newsletters)
-- **Government/DoD:** ~8 emails (NASA SBIR feedback, NOAA award, USSOCOM RFI S0, AFRL, DOE opportunity)
-- **Academic:** ~3 emails (UND, UCSC reconnection, NCAS inquiry)
+- **Internal BST:** ~26 emails (Prendergast, Elston, Asana notifications, newsletter subscriptions)
+- **External:** ~125 emails (government, DoD, academia, contractors, vendors, event confirmations)
+- **Government/DoD/Military:** ~13 emails (Navy STTR, AFRL patents, USSOCOM RFI, NOAA, U.S. Maritime)
+- **Academic/Research:** ~2 emails (UCSC reconnection inquiry)
+- **Event/Marketing:** ~2 emails (Eventbrite confirmations and promotions)
 
 ### Key External Organizations (Updated)
-- **NASA SBIR Program** — SBKR0288298 Phase II feedback request (22 Jul); contract execution confirmed
-- **Lockheed Martin** — (continued from prior activity, no new emails in this batch)
-- **HALO Aero** — Daniel Hesselius — **active technical coordination** on E2 battery (multiple emails 22 Jul, rapid iteration)
-- **NOAA Federal** — Amy McLiverty — award/delivery order 1305M226D0012/1305M226F0344 **active execution**
-- **USSOCOM** — Evan M. Wolff — RFI S0 continued engagement
-- **Krateo Sky / Project Albatross** — Tim Hegwood, Thibault Bridel-Bertomeu — IT/collaboration troubleshooting, SOW active
-- **QinetiQ** — Mike Rukin — **S0 Air Deployed UAS** inquiry (new DoD partnership opportunity)
-- **Brookhaven National Lab / DOE** — Gijs de Boer, Jack Elston, Maciej Stachura — **$10M SBIR/STTR Phase I opportunity** identified (22 Jul)
-- **University of North Dakota** — Jacob Carstens — S0 VTOL quote request (potential customer/partner)
-- **UCSC (University of California, Santa Cruz)** — J. Xavier Prochaska, Rob Wandel, Christine Perez — **reconnecting/partnership inquiry** (handled by Prendergast, cc'd to Beck)
-- **NCAS (National Centre for Atmospheric Science, UK)** — Sarah Barr — Arctic UAS inquiry (cc'd to Stachura)
-- **U.S. Maritime** — Paul DeMond — N251-016 Phase II (likely DCAA-related contract)
-- **AFRL (Air Force Research Lab)** — Patent workflow submission (DD882, FA864924P0003 contract)
+- **U.S. Navy / CNR Arlington** — Emilly Sanchez — **STTR Phase II Cost Proposal (N25A-T025)** — **ACTIVE NEGOTIATION** (rapid back-and-forth 23 Jul, multiple revisions/clarifications)
+- **Air Force Research Lab (AFRL)** — Patents Workflow — **DD882 Contract (FA864924P0003)** — **ACTIVE SUBMISSION/COORDINATION** (responses required, marked IMPORTANT)
+- **U.S. Maritime** — Paul DeMond — **N251-016 Phase II** — continued engagement + work schedule notification (suggesting ongoing resource coordination)
+- **USSOCOM** — Evan Wolff — **RFI S0** — **CONTINUED HIGH-PRIORITY ENGAGEMENT** (marked IMPORTANT, multiple back-and-forths with Prendergast)
+- **QinetiQ** — Mike Rukin — **S0 Air Deployed UAS** — partnership inquiry response (Prendergast handling 23 Jul)
+- **NOAA Federal** — Amy McLiverty — **Delivery Order Status** — active coordination (response sent 23 Jul)
+- **University of California, Santa Cruz (UCSC)** — J. Xavier Prochaska — **Reconnecting** inquiry (partnership potential, Prendergast leading)
+- **EG Proposal Management** — Emmanuel Gorce — **DoW/DoD Topics** — external proposal support (08/19/2026 due date flagged)
 
 ## Topic Patterns
 
 ### Primary Projects/Programs (Updated)
 
-1. **NASA SBIR Phase II (SBKR0288298)** — **Contract Active**
-   - Feedback request received 22 Jul (agency-sbir@mail.nasa.gov)
-   - Beck, Stachura, Elston copied on feedback request
-   - Proposal review/collaboration via Google Docs (Elston share to Beck 22 Jul)
+1. **Navy STTR Phase II (N25A-T025)** — **ACTIVE COST PROPOSAL NEGOTIATION**
+   - Emilly Sanchez (USN/CNR Arlington) engaged in rapid cost proposal iteration (3 emails 23 Jul)
+   - Beck responding same-day to clarifications/revisions
+   - Marked IMPORTANT; suggests critical funding/compliance discussion
+   - **Status:** Cost proposal phase — likely nearing final submission
 
-2. **DOE $10 Million SBIR/STTR Phase I** — **NEW OPPORTUNITY** (22 Jul)
-   - Gijs de Boer (Brookhaven National Lab) forwarded opportunity to Elston, Stachura, Beck
-   - Beck responded same day showing interest/engagement
-   - Likely new proposal development cycle underway
+2. **AFRL DD882 Contract (FA864924P0003)** — **ACTIVE COMPLIANCE/SUBMISSION**
+   - Patents Workflow requesting responses (marked IMPORTANT, 23 Jul)
+   - Beck responding promptly (09:00, 12:58 responses)
+   - Indicates ongoing contract compliance or patent disclosure requirements
+   - **Status:** Submission/documentation phase
 
-3. **HALO E2 Battery Project** — **ACTIVE TECHNICAL DEVELOPMENT**
-   - Multiple emails 22 Jul between Beck and Daniel Hesselius (HALO Aero)
-   - Rapid iteration suggests troubleshooting or specification refinement
-   - Marked IMPORTANT across thread
+3. **USSOCOM RFI S0** — **HIGH-PRIORITY CONTINUED ENGAGEMENT**
+   - Evan Wolff (USSOCOM) exchanging multiple emails marked IMPORTANT (23 Jul)
+   - Prendergast and Beck coordinating response
+   - **Status:** Active RFI cycle; government evaluation underway
 
-4. **S0 Air Deployed UAS** — **DoD/Partner Interest**
-   - QinetiQ's Mike Rukin inquiring (marked IMPORTANT)
-   - Beck and Prendergast coordinating response (09:49 response same day)
-   - USSOCOM (Evan Wolff) also tracking RFI S0 (continued from prior week)
-   - Indicates multiple DoD stakeholders evaluating S0 platform
+4. **S0 Air Deployed UAS** — **PARTNERSHIP INQUIRY (QinetiQ)**
+   - Mike Rukin (QinetiQ) inquiry response being prepared (23 Jul)
+   - Prendergast coordinating with Beck
+   - **Status:** Business development phase
 
-5. **S0 VTOL Quote Request** — **Commercial Interest**
-   - University of North Dakota (Jacob Carstens) requesting quote (22 Jul)
-   - Beck forwarded internally to Meredith Needham for quote preparation
-   - Follow-up communication same day (rapid turnaround)
+5. **NASA SBIR Phase II (SBKR0288298)** — **Continued** (no new activity this batch)
 
-6. **Project Albatross (Krateo Sky/Shearwater X)** — **Continued Collaboration**
-   - IT troubleshooting coordination (Jack Elston, Tim Hegwood, Beck) 22 Jul
-   - Google Docs proposal shared (Elston to Beck 22 Jul)
-   - Interim collaboration messaging/files update in Jack's forwarded comms
+6. **DOE $10M SBIR/STTR Phase I** — **Opportunity** (no new activity this batch)
 
-7. **RFI S0 (USSOCOM/DoD)** — **Continued Engagement**
-   - Evan Wolff (USSOCOM) email to Prendergast (22 Jul, marked IMPORTANT)
-   - Beck included on S0 Air Deployed UAS response chain (09:49 response)
-   - Indicates multiple S
+7. **HALO E2 Battery Project** — **Continued** (no new activity this batch)
+
+8. **U.S. Maritime N251-016 Phase II** — **ONGOING**
+   - Paul DeMond coordinating work schedule notification (23 Jul)
+   - Suggests resource planning/execution phase
+   - **Status:** Active contract execution
+
+9. **Project Albatross (Krateo Sky)** — **Continued** (no new activity this batch)
+
+10. **MOSA Innovation Challenge** — **NEW PROJECT** (identified 23 Jul)
+    - Jack Elston assigned task to Beck via Asana
+    - Comment notification suggests collaborative development underway
+    - **Status:** Task/proposal development phase
+
+11. **DoW/DoD Topics (EG Proposal Management)** — **UPCOMING DEADLINE**
+    - External proposal management engagement
+    - Due date: **08/19/2026** (26 days out)
+    - Suggests multi-proposal portfolio in active development
+
+12. **UCSC Partnership** — **RECONNECTING INQUIRY**
+    - J. Xavier Prochaska (UCSC) responding to reconnection outreach
+    - Prendergast leading, Beck copied
+    - **Status:** Early partnership exploration
+
+13. **NASA Nancy Grace Roman Space Telescope Launch Event** — **EVENT REGISTRATION**
+    - Beck registered for Eventbrite event (23 Jul)
+    - Marked IMPORTANT
+    - Suggests personal/professional development interest in space telescope technology
+
+## Communication Patterns
+
+### Temporal Patterns
+- **Thursday 23 Jul:** Heavy government correspondence (Navy, AFRL, USSOCOM, NOAA) concentrated 09:00–15:00 and 19:00–22:00 UTC
+- **Same-day response pattern:** Beck responding within 2–6 hours to critical government items (Navy STTR, AFRL, USSOCOM marked IMPORTANT)
+-
