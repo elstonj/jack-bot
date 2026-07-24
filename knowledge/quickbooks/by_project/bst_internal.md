@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,277,746.13 *(+$10,647.00 from July transactions)*
+- **Total Expenses (Bills + Purchases)**: $1,288,393.94 *(+$10,647.99 from July 23–30, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,254,851.77 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,265,499.58 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,297 *(all confirmed)*
+- **Transaction Count**: 1,303 *(+6 new confirmed transactions)*
 
 ---
 
@@ -40,27 +40,50 @@
 
 ---
 
-### Materials & Direct Purchases: $526,167.23
-**Total: $526,167.23** | **82 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $527,671.65
+**Total: $527,671.65** | **84 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-*(No new transactions in this reporting period)*
-
----
-
-### IRAD Indirect R&D (Subcontractors & Internal): $97,825.31
-**Total: $97,825.31** | **113 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,324.32**
-
-**New Transaction (July 30, 2026):**
+**New Transactions (July 23, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| Purchase #ST61Q172 | 2026-07-23 | $1,312.95 | DC-Direct Material Purchases | Navy Magnetometer supplies ($112.41) + NOAA IDIQ supplies ($1,200.54) | ✓ Confirmed |
+
+**July 23 Direct Material Additions**: $1,312.95 (2 line items)
+- **Navy Magnetometer supplies** ($112.41): Direct materials for Navy contract sensor component sourcing
+- **NOAA IDIQ supplies** ($1,200.54): Direct materials for NOAA Indefinite Delivery/Indefinite Quantity contract fulfillment
+
+**Transaction Context**: 
+- **Procurement Authority**: A. Lomis placed order due to M. Needham illness; order marked as urgent/time-sensitive
+- **Project Allocation**: Multi-project breakdown provided by A. Lomis in supporting documentation
+- **Strategic Significance**: Navy and NOAA contract support indicates active customer procurement pipeline execution during post-demo operational phase
+
+**Cumulative Direct Material Activity (July 2026)**: $1,312.95
+
+---
+
+### IRAD Indirect R&D (Subcontractors & Internal): $98,141.00
+**Total: $98,141.00** | **116 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
+
+**New Transactions (July 23–30, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase #ST61Q172 | 2026-07-23 | $191.47 | IRAD-Internal Research and Development | SwiftStation IRAD supplies | ✓ Confirmed |
+| Purchase #100576268 | 2026-07-23 | $114.55 | IRAD-Internal Research and Development | S3 extra parts for power board fix | ✓ Confirmed |
 | Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
 
-**July 30 IRAD Addition**: $19.69 — retrospective logistics cost capture for S3 component shipment to external distribution partner (Sean Cole); administrative fee recorded 24 days post-shipment, indicating reconciliation of third-party fulfillment logistics.
+**July 23–30 IRAD Additions**: $325.71 (3 transactions)
+- **SwiftStation IRAD supplies** ($191.47): R&D component procurement for SwiftStation subsystem development; included in multi-project allocation order
+- **S3 power board repair parts** ($114.55): Digi-Key Corp procurement; critical fix for S3 extra parts inventory (post-demo field operations support)
+- **S3 fulfillment logistics** ($19.69): Third-party pick-up fee reconciliation (24-day lag from July 6 shipment to Sean Cole)
 
-**Cumulative IRAD Activity (July 2026)**: $1,933.39 *(7 transactions across July 21 and July 30)*
+**Strategic Context**: 
+- S3 power board repair sourcing indicates customer support/field operations logistics post-demo
+- SwiftStation component sourcing suggests concurrent R&D pipeline development
+- Logistics cost capture on fiscal month-end (7/30) aligns with third-party fulfillment partner reconciliation process
 
-**Strategic Context**: S3 logistics cost finalization on July 30 (fiscal month-end) suggests systematic close-out of fulfillment partner reconciliations. Aligns with post-demo operational normalization and customer delivery pipeline maturation.
+**Cumulative IRAD Activity (July 2026)**: $2,259.10 *(including prior 7/21 transactions)*
 
 ---
 
@@ -85,35 +108,39 @@
 
 ---
 
-### Facilities & Shop Supplies: $105,592.20
-**Total: $105,592.20** | **65 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $39,720.22; Server Infrastructure: $10,710.62**
+### Facilities & Shop Supplies: $111,249.10
+**Total: $111,249.10** | **68 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $39,720.22; Server Infrastructure: $10,710.62; Office Supplies: $53.82; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31**
 
-**New Transaction (July 30, 2026):**
+**New Transactions (July 23–30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 — requested by Ben Busby via Slack; discussion with Jack Elston | ✓ Confirmed |
+| Purchase (misc.) | 2026-07-23 | $78.08 | FA-Office/Shop Supplies | Batteries for shop ($24.26) + Brita filters/toilet paper ($53.82) | ✓ Confirmed |
+| Purchase #10000037741 | 2026-07-23 | $399.53 | FA-Shop Supplies | Kestrel 5500 Weather Meter | ✓ Confirmed |
+| Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 | ✓ Confirmed |
 
-**July 30 Facilities Addition**: $5,355.31 — high-spec dual-processor office server infrastructure.
+**July 23–30 Facilities Additions**: $5,832.92 (3 transactions)
 
 **Transaction Details**:
-- **Ryze AI Max+ Server (July 30, $5,355.31)**: Dual-processor with 128GB total memory (64GB x 2). High-spec compute infrastructure supports enterprise-grade data processing, simulation, or software development. Slack-based request from Ben Busby (engineering/product leadership) to Jack Elston indicates urgent infrastructure gap identified during demo execution phase.
+- **Shop Consumables (July 23, $78.08)**: Routine facility maintenance
+  - Batteries for shop equipment ($24.26)
+  - Brita water filtration + office supplies/restroom supplies ($53.82)
+- **Kestrel 5500 Weather Meter (July 23, $399.53)**: Professional-grade weather monitoring equipment
+  - **Requestor/Approver**: J. Elston (verbal authorization)
+  - **Specification**: Portable meteorological station; measures wind, temperature, humidity, barometric pressure, altitude
+  - **Strategic Use**: Field operations support (likely demo-related), weather-dependent flight test validation, environmental monitoring for S3/S0 VTOL operations
+- **Ryze AI Max+ Server (July 30, $5,355.31)**: High-spec dual-processor office infrastructure
+  - **Requestor**: Ben Busby (via Slack request to Jack Elston)
+  - **Specification**: Dual-processor with 128GB total memory (64GB x 2)
+  - **Flag**: High-priority infrastructure investment on fiscal month-end; indicates urgent compute capacity gap identified during demo phase
+  - **Strategic Support**: GCS (Ground Control Station) redesign simulation, S3/S0 VTOL flight model processing (CFD, trajectory analysis), live telemetry/sensor data pipeline, investor due diligence analysis, SwiftStation subsystem modeling
 
-**Strategic Context**: Server purchase on July 30 (final business day of month) follows:
-   - 5-day Ottawa demo logistics execution (July 14–19)
-   - NOAA ground station return (July 14)
-   - S3/Sean Cole shipment logistics cost capture (July 30)
-   - NASA S2 Parts shipment to Sean Cole (July 20)
-   - SwiftStation R&D component procurement (July 21)
+**Strategic Context**:
+- Weather meter acquisition (7/23) aligns with field operations ramp-up post-Ottawa demo
+- Server acquisition (7/30) supports post-demo analysis, engineering redesign, and investor engagement workflows
+- Fiscal month-end timing suggests planned infrastructure expansion following successful customer demo execution
 
-Concurrent operational scaling suggests: customer demo logistics executed successfully → rapid internal compute capacity expansion to support demo analysis, follow-up engineering, and production planning. Likely supporting:
-   - GCS (Ground Control Station) redesign simulation
-   - S3/S0 VTOL flight model processing (CFD, trajectory analysis)
-   - Live telemetry/sensor data pipeline architecture
-   - Investor due diligence support (Invest Ottawa $5K pending)
-   - SwiftStation subsystem modeling and integration validation
-
-**Cumulative Facilities Spend (July 2026)**: $5,355.31 *(1 transaction)*
+**Cumulative Facilities Spend (July 2026)**: $5,832.92
 
 ---
 
@@ -147,48 +174,8 @@ Concurrent operational scaling suggests: customer demo logistics executed succes
 
 ## Monthly Spend by Category
 
-### July 2026 Summary (July 20–30)
+### July 2026 Summary (July 23–30)
 | Category | Amount | Transactions | Notes |
 |----------|--------|--------------|-------|
-| IRAD R&D | $19.69 | 1 | S3 fulfillment logistics reconciliation (pick-up fee, 7/30) |
-| Facilities & Infrastructure | $5,355.31 | 1 | Ryze AI Max+ dual-processor server (7/30) |
-| **July 2026 Total** | **$5,374.99** | **2** | Month-end operational scaling and logistics close-out |
-
-### Cumulative July 2026 Activity (Full Month)
-**Total Spend**: $11,648.81 *(including July 14–19 demo logistics and July 20–23 IRAD/shipping)*
-- IRAD R&D: $1,933.39
-- Facilities & Infrastructure: $5,355.31
-- Shipping/Freight: $8.81
-- Fringe Benefits: $2,369.23 *(Q2 healthcare, 7/20)*
-- Sales & Marketing: $8.81 *(PIRATE SHIP, 7/20)*
-
-**Burn Rate Context**: 
-- Post-demo infrastructure investment phase (July 30 server acquisition)
-- Logistics reconciliation and customer fulfillment operations normalization
-- Employee benefit contributions (Q2 2026 healthcare finalized 7/20)
-- Minimal direct cost activity suggests Ottawa demo successfully de-mobilized; focus shifted to internal engineering and investor engagement support
-
----
-
-## Notable Transactions
-
-### 1. **Ryze AI Max+ Server Acquisition (July 30, 2026) — $5,355.31**
-   - **Account**: FA-Office Supplies (Facilities)
-   - **Requestor**: Ben Busby (via Slack)
-   - **Approver/Sponsor**: Jack Elston
-   - **Specification**: Dual-processor system, 128GB RAM (64GB x 2)
-   - **Flag**: High-priority infrastructure investment on fiscal month-end, indicating urgent compute capacity gap identified during demo phase
-   - **Context**: Supports post-demo analysis, GCS redesign simulation, S3/S0 VTOL modeling, and investor due diligence workflows
-   - **Assessment**: Strategic investment; aligns with operational scaling post-customer demo
-
-### 2. **S3 Fulfillment Logistics Pick-up Fee (July 30, 2026) — $19.69**
-   - **Account**: IRAD-Internal Research and Development
-   - **Shipment Original Date**: July 6, 2026
-   - **Recipient**: Sean Cole (external distribution partner)
-   - **Flag**: 24-day lag between shipment and cost reconciliation suggests third-party fulfillment partner billing reconciliation
-   - **Assessment**: Administrative logistics cost; routine fulfillment partner reconciliation
-
-### 3. **Outstanding Invoices — $22,894.36 (100% of revenue)**
-   - **Invoice #1696 (Phase1 Aviation)**: $6,105.00 — **12+ months overdue** (August 2025)
-   - **Invoice #1727 (Weather Stream)**: $928.88 — **7+ months overdue** (December 2025)
-   - **Invoice #1752 (Krateo Sky)**: $10,860.48 — **4
+| Direct Materials | $1,312.95 | 2 | Navy Magnetometer + NOAA IDIQ contract fulfillment supplies |
+| IRAD R&D | $325.71 | 3 | SwiftStation components

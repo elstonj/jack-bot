@@ -1,79 +1,79 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 340 messages** scanned across ~11 days (Jul 12-23, 2026)
-- Average ~30.9 messages/day
-- **New data (Jul 22-23)**: 35 messages; sustained high volume of automated/transactional (vendor confirmations, shipping, logistics cancellations) with critical government coordination threads mixed in
-- Continued heavy procurement inbox routing with significant automated noise; notable addition of NOAA Federal communications and travel/logistics changes
+- **Total: 393 messages** scanned across ~12 days (Jul 12-24, 2026)
+- Average ~32.8 messages/day
+- **New data (Jul 23-24)**: 53 messages; sustained high volume of automated/transactional emails with critical NOAA coordination and P3/S3 aircraft parts activity continuing
+- Procurement inbox routing remains heavy; government coordination threads now include **UAS QC Process** (multi-stakeholder NOAA initiative) and **Pioneer Array ET Flight** planning
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
-**Government / External Strategic Partners — ESCALATED**
-1. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal; **NEW**: "Re: Delivery Planning, P3 Questions" (Jul 22 14:16:57, marked IMPORTANT); direct coordination on P3 delivery logistics
-2. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal; **NEW**: "Re: Delivery Planning, P3 Questions" (Jul 22 08:46:13, marked IMPORTANT); direct coordination; Joshua Fromm sent multiple responses (Jul 22 11:19:10, 12:34:59, 15:25:37)
-3. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal; **NEW**: "Out of the office Re: Delivery Planning, P3 Questions" (Jul 22 10:19:31, marked IMPORTANT, auto-reply); indicates Joshua Fromm contacted him; out-of-office status
-4. **Jun Zhang** (jun.zhang@noaa.gov) — NOAA Affiliate; **NEW**: "Automatic Reply: Out of Office Re: Delivery Planning, P3 Questions" (Jul 22 10:19:33, marked IMPORTANT, auto-reply); same thread
-5. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM; **UPDATED**: "RE: (U) [Non-DoD Source] Re: RFI S0" (Jul 22 14:46:57, marked IMPORTANT); continued RFI coordination thread visible to Daniel Prendergast (not direct to Joshua Fromm in this batch but in earlier data)
+**Government / External Strategic Partners — SUSTAINED PRIORITY**
 
-**Leadership & Strategic Coordination**
-- Jack Elston, Daniel Prendergast — (ongoing from prior period; no new messages in this batch, but Evan Wolff thread continues CEO-level coordination)
+1. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal
+   - **NEW (Jul 23)**: "ET Flight - Pioneer Array" (Jul 23 11:02:38, marked IMPORTANT); "Tuesday Flight next week" (Jul 23 09:02:04, marked IMPORTANT; earlier response from him Jul 23 11:58:11)
+   - **Pattern**: Direct coordination with Jack Elston and Joshua Fromm on flight operations; escalating to multi-stakeholder NOAA team
+   - **Scope expanded**: P3 delivery planning + Pioneer Array deployment flights
+
+2. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal
+   - **CONTINUED (Jul 23)**: "Re: Delivery Planning, P3 Questions" (Jul 23 08:44:43, marked IMPORTANT); ongoing P3 logistics thread
+
+3. **Joshua Wadler** (WADLERJ@erau.edu) — Embry-Riddle Aeronautical University (External Collaborator)
+   - **NEW (Jul 23)**: "Re: [EXTERNAL] UAS QC Process" (Jul 23 17:23:45, marked IMPORTANT); broad stakeholder reply to Jack Elston's initiative
+   - **Stakeholders on thread**: Jack Elston, Joe Cione, Nick Underwood, Nikolai Pawlenko, Laura Rock (NOAA), Joshua Wadler, Jun Zhang, Mark Rogers (NOAA), Annette Hollingshead (NOAA), Joshua Fromm, Maciej Stachura, Alex Lomis
+   - **Scope**: UAS quality control process standardization (appears to be multi-organizational initiative)
+
+4. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership
+   - **NEW (Jul 24)**: "Invitation: Array Deployment Review @ Fri Jul 24, 2026 10am - 10:30am (MDT)" (Jul 24 00:14:56, marked IMPORTANT); meeting includes Maciej Stachura, Alex Lomis, Daniel Prendergast
+   - **NEW (Jul 23)**: "UAS QC Process" (Jul 23 10:46:40, marked IMPORTANT); CEO-level multi-stakeholder coordination with NOAA
+
+5. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM
+   - **CONTINUED (Jul 23)**: "RE: (U) [Non-DoD Source] Re: RFI S0" (Jul 23 19:41:05, marked IMPORTANT); Daniel Prendergast thread; continued RFI coordination
+
+**Component / Aircraft Parts Vendors — ACTIVE SOURCING**
+
+6. **Sean Cole** (sean@phase1av.com) — Phase 1 Aviation (Aircraft Parts Supplier)
+   - **NEW (Jul 23)**: "Re: Additional S3 parts order" (Jul 23 20:51:50 & Jul 23 18:16:57, both marked IMPORTANT); two responses in <3 hours window
+   - **Joshua Fromm initiated**: Sent "Additional S3 parts order" (Jul 23 11:44:21, marked SENT) to Sean Cole and Meredith Needham
+   - **Pattern**: S3 aircraft parts being expedited; multiple rapid exchanges suggest urgent sourcing
+
+7. **Meredith Needham** (meredith.needham@blackswifttech.com) — BST (Internal)
+   - **NEW (Jul 23)**: "Fwd: Digi-Key Backorder Change Notice - SalesorderID 100222302" (Jul 23 09:58:37, marked IMPORTANT); electronics component backorder issue escalated to Joshua Fromm
+   - Co-recipient on Sean Cole S3 parts order communications
+
+**Electronics Component Suppliers (Routed via Purchasing)**
+- **DigiKey** — Multiple order statuses (Jul 23 12:35:21, 12:34:29, 05:15:45, 05:33:43); Backorder #100222302 flagged as IMPORTANT to Joshua Fromm
+- **Protolabs** — Order 6794-871 received and manufacturing initiated (Jul 23 20:27:54, 20:06:43)
+- **FTDI (Sarah Lin)** — New order #17721 (Jul 23 12:09:26, marked IMPORTANT; Meredith Needham coordinating)
+- **Amazon.com** — 4 items ordered, 1 item delivered (Jul 23 19:22:38, 18:10:52)
+- **Nielsen-Kellerman** — Account setup (purchased via Jack Elston/purchasing) (Jul 23 16:10:29, 16:07:08, 16:06:52)
+
+**Logistics/Travel Confirmations & Refunds**
+- **United Airlines** — Two refund requests processed (Jul 24 05:48:30, 05:10:48); confirms earlier Jul 22 cancellation now in refund pipeline
+- **FedEx Tracking** — Shipment #874700664011 multiple status updates (Jul 24 01:24:09, Jul 23 05:17:13, 05:15:45)
+- **Budget Rent A Car** — Promotional reminder (Jul 23 17:08:49); no new cancellation beyond Jul 22
 
 **Promotional / Automated (Routed via Purchasing)**
-- **ProtoSpace Mfg** (marketingemail@protocase.com) — **NEW**: "Get a head start in the design process" (Jul 22 14:43:38, marked IMPORTANT); enclosure/case design services; direct contact (not via purchasing)
-- **Birdcall** (hello@eatbirdcall.com) — **NEW**: "Last call: 20% off your catering order" (Jul 22 17:16:56, marked IMPORTANT); likely team event catering
-- **UAS VISION** (russ@uasvision.com) — **NEW**: "DAILY NEWS" (Jul 22 09:07:55, marked CATEGORY_UPDATES); industry newsletter subscription
+- **Harbor Freight** — In-store purchase gift offer, pressure washer deals (Jul 24 07:20:27, 05:10:48)
+- **Spindrift** — Subscription order setup (2x notifications, Jul 24 04:04:17, 04:04:16)
+- **Driftaway Coffee** — Loyalty points earned (Jul 23 23:02:37)
+- **Frontier Airlines** — Bonus miles promotion (Jul 23 12:40:31, marked IMPORTANT + CATEGORY_PROMOTIONS)
+- **HeliDirect** — Helicopter newsletter; TORQ servos inventory update (Jul 23 20:02:03)
+- **eBay** — Futaba 14SG receivers/transmitters listing (Jul 23 06:33:20)
+- **SkyGeek** — Adhesive product promotion (Jul 23 08:22:03)
 
-**Logistics/Travel Cancellations (via Purchasing) — Jul 22**
-- **United Airlines** — Flight cancellation confirmed (Jul 22 18:27:28)
-- **Budget Rent A Car** — Reservation cancellation confirmation (Jul 22 12:23:55)
-- **Expedia** — Travel promotion email (Jul 22 18:33:52, marked IMPORTANT)
-- **Hilton Honors** — Two promotional emails (Jul 22 16:09:18, Jul 22 22:24:04, both marked IMPORTANT)
+**Newsletter / Industry Intelligence**
+- **UAS VISION** (russ@uasvision.com) — DAILY NEWS (Jul 23 09:07:05, marked CATEGORY_UPDATES)
+- **OpenC3 News** (Chris Haller, openc3news.com) — July Newsletter (Jul 23 12:45:43, marked CATEGORY_UPDATES)
+- **Future Electronics News** — Wire-to-board connectivity product news (Jul 23 10:43:43, marked CATEGORY_PROMOTIONS)
+
+**Other External Contacts**
+- **Diana Brunel** (bruneld@agrainermfg.com) — Alpha Grainger (Aerospace Components)
+  - **NEW (Jul 23)**: "Fast-turn aerospace components - Alpha Grainger" (Jul 23 18:08:24); cold/business development outreach on aircraft-grade components
 
 ### Internal vs External (Updated)
-- **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham
-- **External Government — NEW PRIORITY**:
-  - **NOAA Federal** (Nikolai Pawlenko, Nick Underwood, Joe Cione, Jun Zhang) — "Delivery Planning, P3 Questions" active coordination; P3 aircraft delivery logistics in focus
-- **External Strategic Partners**: 
-  - **SOCOM** (Evan Wolff) — RFI S0 coordination continuing
-  - **Krateo Sky** (Bob Smith, Roger Riley, Lisa Marie Cheney) — SOCOM demo logistics
-  - **C-Astral**, **Nominal**, **Phase1 Aviation**, **Vertiq** — (from prior data; no new messages in Jul 22-23 batch)
-- **External Component/Manufacturing Vendors**:
-  - **SendCutSend** — Order ST61Q172 (Jul 23 00:31:39, Jul 22 22:36:55); precision cutting active; two status updates within 24 hours
-  - **SparkFun Electronics** — Order shipped (Jul 22 20:16:25)
-  - **Amazon** — 4 tools and electronics items shipped (Jul 22 13:04:40)
-  - **ProtoSpace Mfg / ProtoCASE** (marketingemail@protocase.com) — Enclosure design services; direct outreach to Josh
-  - **Craftcloud** — Manufacturing/3D printing service (Jul 22 14:01:41, via purchasing)
-- **Automated/Promotional (Routed via Purchasing)**: Harbor Freight (2 emails), AliExpress, FedEx, UPS (2), USPS Informed Delivery, Battery Junction, ELEGOO US, WordPress.com (2), Amazon.com shipment notification
-
-### Travel/Logistics Status — NEW PATTERN
-- **United Airlines flight cancellation** (Jul 22 18:27:28) — Not rescheduled in visible metadata
-- **Budget car rental cancellation** (Jul 22 12:23:55) — Not rescheduled in visible metadata
-- **Pattern**: Cancellations suggest either event postponement or travel plan changes mid-week (Jul 22); possible impact on SOCOM Demo logistics or P3 delivery coordination
-
-## Topic Patterns
-
-### CRITICAL: SOCOM Demo Aug 16-19 Nevada — Continuing Coordination
-- **Status** (Jul 22): CEO-level SOCOM RFI coordination visible; Jack Elston managing Krateo Sky partnership logistics (from prior data)
-- **Leadership cascade ongoing** (Jul 22 14:46:57): Evan Wolff ↔ Daniel Prendergast on RFI S0 response
-
-### CRITICAL: P3 Delivery Planning — NEW ACTIVE PRIORITY
-- **Timeline**: Active real-time coordination Jul 22
-- **Stakeholders**: NOAA Federal (Nikolai Pawlenko, Nick Underwood); Joe Cione and Jun Zhang also contacted but out-of-office
-- **Joshua Fromm's Role**: Multiple outbound responses (Jul 22 11:19:10, 12:34:59, 15:25:37) indicate he is actively problem-solving P3 delivery logistics
-- **Subject**: "Delivery Planning, P3 Questions" — technical or logistical delivery issues requiring urgent resolution
-- **Status**: Primary focus Jul 22; appears to be real-time coordination (not one-off inquiry)
-
-### SECONDARY: Enclosure/Case Design
-- **ProtoSpace Mfg / ProtoCASE** direct outreach (Jul 22 14:43:38, marked IMPORTANT) suggests active enclosure design phase for a project (possibly related to SOCOM demo platform or airframe component integration)
-
-### Procurement Activity (Continued High Volume)
-- **SendCutSend** — Order ST61Q172 active; two status updates within 24 hours (Jul 22 22:36:55, Jul 23 00:31:39) suggests order tracking and expediting
-- **SparkFun, Amazon, Craftcloud** — Electronics/prototyping components and manufacturing services ordered (Jul 22)
-- **FedEx/UPS** — Multiple active shipments (Jul 22)
-
-## Communication Patterns
-
-### Time Patterns (Jul 22-23)
-- **High activity window**: Jul 22 08:46-17:25 (business hours UTC/EDT/
+- **Internal BST**: Jack Elston, Daniel Prendergast, Meredith Needham, Maciej Stachura, Alex Lomis
+- **External Government — EXPANDED SCOPE**:
+  - **NOAA Federal** (

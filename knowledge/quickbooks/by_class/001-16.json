@@ -4,14 +4,15 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-21",
-    "end": "2026-07-22"
+    "start": "2026-07-23",
+    "end": "2026-07-24"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1894.01,
+    "expenses": 191.47,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1894.01
+      "DIRECT COSTS:DC-Direct Material Purchases": 167.1,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 24.37
     }
   },
   "invoices": [],
@@ -19,78 +20,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-21",
-      "doc_number": "000419974",
-      "total": 305.75,
-      "attributed": 305.75,
+      "date": "2026-07-23",
+      "doc_number": "ST61Q172",
+      "total": 1504.42,
+      "attributed": 191.47,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
       "lines": [
         {
-          "amount": 305.75,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SparkFun GPS-RTK Board - NEO-M8P-2; GNSS L1/L2 Multi-Band Magnetic Mount Antenna - 5m (SMA)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-21",
-      "doc_number": "",
-      "total": 154.17,
-      "attributed": 154.17000000000002,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request",
-      "lines": [
-        {
-          "amount": 129.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Pelican 1170 case x 2"
+          "amount": 112.41,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
         },
         {
-          "amount": 25.17,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "cable and connectors"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-21",
-      "doc_number": "100525116",
-      "total": 1324.32,
-      "attributed": 1324.32,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
+          "amount": 1200.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NOAA IDIQ supplies"
+        },
         {
-          "amount": 1324.32,
+          "amount": 191.47,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Supplies for SwiftStation"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-21",
-      "doc_number": "7004",
-      "total": 109.77,
-      "attributed": 109.77,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "JAWSTEC - 4617",
-      "lines": [
-        {
-          "amount": 109.77,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "parts for IRAD Swiftstation"
+          "description": "IRAD Swiftstation supplies"
         }
       ]
     }

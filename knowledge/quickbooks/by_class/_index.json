@@ -1,10 +1,23 @@
 {
   "period": {
-    "start": "2026-07-22",
-    "end": "2026-07-23"
+    "start": "2026-07-23",
+    "end": "2026-07-24"
   },
-  "scanned_at": "2026-07-23",
+  "scanned_at": "2026-07-24",
   "projects": [
+    {
+      "project_code": "001-16",
+      "revenue": 0.0,
+      "expenses": 191.47,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-16) SwiftStation"
+      ]
+    },
     {
       "project_code": "001-7",
       "revenue": 0.0,
@@ -20,11 +33,11 @@
     },
     {
       "project_code": "300-3",
-      "revenue": 72000.0,
-      "expenses": 8355.0,
-      "invoice_count": 1,
+      "revenue": 88000.0,
+      "expenses": 11151.81,
+      "invoice_count": 2,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -34,10 +47,10 @@
     {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 0.0,
+      "expenses": 112.41,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -47,10 +60,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 5355.31,
+      "expenses": 5947.47,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

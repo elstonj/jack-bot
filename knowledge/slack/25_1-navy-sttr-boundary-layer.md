@@ -31,17 +31,12 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **July 20, 2026**: P-3 crew identified: aircraft will have personnel on board for S0 operations during OOI flights
 - **July 21, 2026**: OOI array validation flight mission scheduled: Alex Lomis available Monday-Wednesday (arrives Monday, flies mission Tuesday, returns Wednesday); aircraft at AOC being updated to current specifications; Josh Wadler arriving Tuesday for flight operations; coordination with GCS access confirmed as needed
 - **July 22, 2026**: OOI array flight pattern finalized: centered location (35.9500, -75.1250) with 10-minute legs at altitudes 100 m, 75 m, 50 m, 40 m, 30 m, 25 m, 20 m, 15 m, 10 m, and 5 m; orientation dependent on forecasted winds with preference for N/S alignment; note that 5 m descent may be limited to final battery phase; boat traffic concerns may restrict minimum altitude below 10 m
+- **July 23, 2026**: Directional bias testing protocol approved with full orbit maneuver added to mission plan: 300m radius orbit (larger than S0 default 126m to keep roll angle small for calibration purposes) taking approximately 1.5 minutes; orbit to be performed at some point during OOI mission to detect and correct any direction-dependent errors in sensor data
+- **July 23, 2026**: Radar vs GPS altitude comparison completed for 04-07 CAT flights showing reliable radar return below 40m, validating GPS-based altitude control; acceptable for continued use despite geoid/sea level variance concerns raised by Jack Elston
+- **July 23, 2026**: Approved lower altitude deployment contingency at 5,000 ft due to airspace booking constraints above that altitude; identified risk due to lack of prior S0 deployment at those pressure conditions and required updates to lost comms behavior firmware
 
 ## Projects & Initiatives
 
 **Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
 - Phase I Base completed January 2026 with kick-off document, progress report, and final deliverables
-- Phase I Option awarded January 26, 2026, funding released March 20, 2026
-- Phase II proposal submitted February 20, 2026 (24-month base $1M + 24-month option $1M with 1:1 cost match)
-- Phase II announcement still pending as of June 15, 2026; evaluation package awaiting transmission to Lakehurst for contracting office processing
-- Current focus: S0 sensor characterization, turbulence measurements, wave height detection, air-sea interactions
-
-**OOI (Ocean Observatories Initiative) Array Validation Flights**
-- Framed as internal R&D effort (not Navy-funded) as of June 2026
-- **Active execution**: Mission scheduled for week of July 21-23, 2026 with Alex Lomis as pilot; P-3 crew coordinated for S0 operations support; Josh Wadler arriving Tuesday for flight operations
-- **Flight pattern finalized
+- Phase I Option awarded January 26, 2026

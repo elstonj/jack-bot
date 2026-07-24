@@ -2,100 +2,76 @@
 
 ## Active Project Budgets
 
-### Project 018-1: Murphy's Pond CH4 Monitoring
-| Metric | Value |
-|--------|-------|
-| **Project Code** | 018-1 |
-| **Client** | Murray State University |
-| **Total Contract Value** | $88,862.94 |
-| **Contract Type** | Service Contract (Drone-based GHG measurement) |
-| **Quote Reference** | MUR-228S-25 |
-| **Period of Performance** | 3 field campaigns in 2026 (May, July, August) |
-| **Scope** | CH₄, CO₂, and H₂O measurements over 5 km × 5 km area, Murphy's Pond, Hickman County, KY |
-
-**Budget Status:** Personnel costs documented (Jack Elston PI: $18,616; Maciej Stachura Flight Ops documented). Full budget breakdown incomplete in source data.
-
-**Financial Health:** Active for 2026. No spend/remaining data available. Status: Standard operational.
-
----
-
-### Project 300-3: NOAA IDIQ Contract
-| Metric | Value |
-|--------|-------|
-| **Project Code** | 300-3 |
-| **Client** | NOAA (National Oceanic and Atmospheric Administration) / EAD-OMAO, Norfolk, VA |
-| **Total Contract Value** | $843,000.00 (IDIQ ceiling) |
-| **Contract Type** | IDIQ (Indefinite Delivery / Indefinite Quantity) — Firm Fixed Price + T&M extensions |
-| **Contract Number** | 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order for Invoice 1736) |
-| **Vendor Details** | Black Swift Technologies LLC, Boulder, CO (CAGE 6PGF9, UEI C2J3K9NRE3L3) |
-| **RFQ Number** | 1305M226Q0003 |
-| **Period of Performance** | 2026–2030 (five-year contract) |
-
-**Budget Status:** CLINs (Contract Line Item Numbers) structure documented but cost breakdown incomplete in source data.
-
-**Financial Health:** Long-term IDIQ with multi-year runway. Invoice 1736 reference suggests active billings. Status: Requires full CLIN cost detail for complete assessment.
+### Project 300-3
+- **Project Code:** 300-3
+- **Client:** NOAA / EAD-OMAO, Norfolk, VA
+- **Total Budget:** $843,000.00
+- **Contract Type:** IDIQ (Indefinite Delivery / Indefinite Quantity) — firm fixed price with T&M extensions
+- **Period of Performance:** 2026–2030 (5-year contract)
+- **Contract Number:** 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order)
+- **Vendor:** Black Swift Technologies LLC, Boulder, CO (CAGE 6PGF9)
+- **Spend/Remaining:** Invoice 1736 documented; full spend details require CLIN breakdown review
+- **Status:** Active
 
 ---
 
 ## By Funding Source
 
-| Funding Source | Project Code | Total Funded | Contract Type |
-|----------------|--------------|--------------|---------------|
-| **Murray State University** | 018-1 | $88,862.94 | Service Contract |
-| **NOAA** | 300-3 | $843,000.00 | IDIQ |
-| **PORTFOLIO (Unassigned)** | Various | *Under review* | NASA, NOAA, DoD mix |
-| **TOTAL IDENTIFIED** | — | **$931,862.94** | — |
+### NOAA
+- **Project 300-3:** $843,000.00
+- **Total NOAA Funded:** $843,000.00
+
+### Unassigned / Portfolio-Level (1,181 documents)
+- **Agencies Represented:** NASA, NOAA, DoD, and other federal agencies
+- **Status:** Documents indicate active proposals, completed/inactive projects, and preliminary costing analysis
+- **Note:** No single project codes detected across portfolio; represents multiple distinct initiatives at various stages
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project Count | Total Funded | Notes |
-|---------------|--------------|--------------|-------|
-| **IDIQ** | 1 | $843,000.00 | Project 300-3 (NOAA, 5-year) |
-| **Service Contract** | 1 | $88,862.94 | Project 018-1 (Murray State) |
-| **SBIR Phase I/II** | TBD | TBD | Portfolio review pending |
-| **IRAD** | TBD | TBD | Portfolio review pending |
-| **Commercial** | TBD | TBD | MiniCam preliminary costing identified |
-| **Other Federal** | TBD | TBD | NASA, DoD, other agencies (1,181 documents) |
+| Contract Type | Project(s) | Total Budget |
+|---|---|---|
+| IDIQ (Indefinite Delivery/Quantity) | 300-3 | $843,000.00 |
+| SBIR Phase I | Unassigned portfolio | *Pending detailed review* |
+| SBIR Phase II | Unassigned portfolio | *Pending detailed review* |
+| IRAD | Unassigned portfolio | *Pending detailed review* |
+| Commercial | NASA AREN (MiniCam project) | *Preliminary costing only* |
 
 ---
 
 ## Financial Health Indicators
 
-### Green (No Concerns Identified)
-- **Project 018-1 (Murphy's Pond):** Standard 3-campaign FY2026 service contract; no budget concerns noted.
-- **Project 300-3 (NOAA IDIQ):** Long-term 5-year contract with $843K ceiling; active invoicing (Invoice 1736 referenced); healthy runway.
+### Project 300-3 (NOAA)
+- ✓ **Status:** Well-funded, 5-year contract with $843K total value
+- ⚠ **Note:** Invoice 1736 is documented against delivery order 1305M226F0084; requires spend tracking against CLIN allocations
+- **Action Item:** Obtain complete CLIN breakdown to assess spending pace and remaining obligations
 
-### Yellow (Requires Attention)
-- **Project 300-3 CLIN Details:** Full cost breakdown incomplete; recommend review of CLINs for milestone tracking and remaining balance verification.
-- **Project 018-1 Full Budget:** Personnel costs partially documented (Elston, Stachura); equipment, travel, and indirect costs not detailed in excerpts provided.
+### Unassigned Portfolio
+- ⚠ **Concern:** 1,181 documents represent fragmented project data lacking consolidated budget tracking
+- ⚠ **Action Item:** Urgent need to systematize project coding and consolidate budget data by project ID
+- ⚠ **Risk:** Cannot assess portfolio-wide budget health, burn rate, or upcoming funding constraints without unified tracking
 
-### Gray (Portfolio Unassigned – 1,181 Documents)
-- **Status:** Extensive portfolio spanning NASA AREN, NOAA, DoD, and commercial initiatives exists but lacks project code organization.
-- **Action Required:** Categorize and assign project codes to enable consolidated financial tracking.
-- **Identified Initiatives:**
-  - MiniCam (NASA/Commercial product costing)
-  - Multiple proposals and completed/inactive projects
+### NASA AREN / MiniCam Project
+- **Status:** Preliminary commercial costing analysis (February 2026)
+- **Note:** Cost structure developed but not yet tied to active contract award
+- **Action Item:** Clarify contract status and funding availability
 
 ---
 
 ## QuickBooks Integration Notes
 
-| Project | QB Integration Status | Notes |
-|---------|----------------------|-------|
-| **018-1** | Drive-only | Budget document dated 12/16/2024; no QB reference found |
-| **300-3** | Partial QB link | Invoice 1736 referenced; delivery order indicates active billings; recommend QB account code verification |
-| **Unassigned Portfolio** | Not assessed | 1,181 documents require sorting before QB reconciliation possible |
-
-**Recommendation:** Cross-reference Project 300-3 delivery order (1305M226F0084) and Invoice 1736 against QuickBooks GL to verify revenue recognition and CLIN billing accuracy.
+| Project | QB Integration | Notes |
+|---|---|---|
+| **300-3 (NOAA)** | Likely mapped | Invoice 1736 referenced; suggest cross-check GL coding against contract structure (CLIN-based) |
+| **Unassigned Portfolio** | Unknown | 1,181 documents appear to be Drive-only; no QB reference detected. **Critical Gap:** Portfolio lacks unified financial system integration. |
+| **NASA AREN/MiniCam** | No active QB | Preliminary costing only; not yet in active accounting |
 
 ---
 
-## Summary
+## Summary Recommendations
 
-**Total Identified Funded Value: $931,862.94**
-- **Active Projects:** 2 (018-1, 300-3)
-- **Contract Portfolio:** Primarily federal (NOAA IDIQ, Murray State service contract); significant unorganized portfolio (1,181 documents) awaiting categorization
-- **Budget Health:** No critical concerns; Project 300-3 NOAA contract offers strong multi-year revenue. Project 018-1 is discrete 2026 engagement.
-- **Next Steps:** (1) Organize unassigned portfolio by project code; (2) Complete CLIN detail for Project 300-3; (3) Reconcile active invoicing (Invoice 1736) in QuickBooks.
+1. **Immediate Priority:** Consolidate unassigned portfolio into named projects with consistent code structure
+2. **300-3 Tracking:** Implement CLIN-based spend tracking in QB to match IDIQ contract structure
+3. **Portfolio Visibility:** Establish unified budget dashboard mapping all 1,180+ documents to active projects
+4. **Invoice Management:** Verify Invoice 1736 coding aligns with delivery order 1305M226F0084 and CLIN allocations

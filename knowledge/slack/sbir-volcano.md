@@ -91,6 +91,13 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Approved Parameters**: 80% overlap in both directions maintained
 - **Performance Consideration**: S3 will operate above 100 km/h true airspeed at that altitude
 
+**Operating Manual Translation & Finalization (July 23, 2026)**
+- **Translation Approach Decision**: Evaluating online and offline translation tools for Spanish language conversion
+  - **Online Option**: ForgeFile service (claims GDPR compliance with automatic deletion of documents after translation)
+  - **Offline Option**: Cassandre Python tool for local processing without external data transfer
+- **Testing Strategy**: Dan Prendergast to test PDF translation first via ForgeFile; fall back to .tex file processing if PDF approach fails
+- **Current Status**: Operating manual finalized and ready for translation after document editing conflicts resolved
+
 ## Projects & Initiatives
 
 **Makushin Volcano Monitoring (Alaska)**
@@ -100,14 +107,4 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Location**: Dutch Harbor, Alaska
 - **Partners**: USGS, Alaska Volcano Observatory, NASA
 
-**CRATER Mission (Costa Rica)**
-- **Status**: Completed May 2024
-- **Objective**: NASA crew training and science data collection at Rincon de la Vieja volcano
-- **Results**: 6 flights completed, NASA personnel trained, science objectives met
-- **Restrictions**: Operations limited to west side of ridge until NASA crew qualified
-
-**Kentucky Deployment**
-- **Status**: Completed; photogrammetry payload successfully validated and confirmed functional
-- **Significance**: Photogrammetry payload being adapted for Popocatépetl mission; performance confirmation indicates readiness for conversion
-
-**Popocatépetl Volcano
+**CRATER Mission (Costa Rica
