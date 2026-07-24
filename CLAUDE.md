@@ -180,11 +180,11 @@ See `.env.example` for required variables. Key ones:
 - `python test_commercial_sales_inquiry.py` — exercises `is_inquiry_intent`, `is_update_intent`, the no-match / matched-field / empty-field inquiry branches, and the multi-target update propose flow against live JSONs with intercepted Slack writes. `--verbose` dumps the captured posts (KNOWLEDGE_GAP, FEEDBACK)
 
 ## Models Used
-- Daily synthesis: `claude-sonnet-4-20250514` (8000 max tokens)
+- Daily synthesis: `claude-sonnet-5` (8000 max tokens, thinking disabled)
 - Knowledge distillation: `claude-haiku-4-5-20251001` (cost-efficient for bulk processing)
-- Q&A: `claude-sonnet-4-20250514` (with Haiku for search planning)
+- Q&A: `claude-sonnet-5` (with Haiku for search planning)
 - Financial formatting: `claude-haiku-4-5-20251001` (converts markdown to Slack format)
-- Personality chat: `claude-sonnet-4-20250514` (300 max tokens)
+- Personality chat: `claude-sonnet-5` (120 max tokens)
 
 ## OOO Detection
 - Uses Rippling PTO calendar ICS feed (URL hardcoded in `daily_research.py`)

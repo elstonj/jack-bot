@@ -88,7 +88,8 @@ def get_response(
     messages = build_messages(history or [], user_message, user_name, bot_user_id)
     system = SYSTEM_PROMPT + _channel_addendum(channel_context)
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
         max_tokens=120,  # one or two short sentences, no monologues
         system=system,
         messages=messages,

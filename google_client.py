@@ -3,6 +3,12 @@ import json
 import base64
 from datetime import datetime, timedelta, timezone
 
+try:
+    from zoneinfo import ZoneInfo
+    _MT = ZoneInfo("America/Denver")
+except Exception:  # pragma: no cover - zoneinfo always present on 3.9+
+    _MT = timezone(timedelta(hours=-6))  # MDT fallback
+
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
@@ -254,7 +260,11 @@ def get_todays_calendar(user_email):
         return []
     service = build("calendar", "v3", credentials=creds, cache_discovery=False)
 
-    now = datetime.now(timezone.utc)
+    # Anchor "today" to Mountain Time, not the server's UTC clock. The pipeline
+    # runs at 8am MT (14:00 UTC); a UTC day-window [00:00Z, 24:00Z] maps to
+    # 6pm-yesterday → 6pm-today in MT, so it pulled the prior evening's events
+    # in as "today" and dropped tonight's. Local-day boundaries fix the skew.
+    now = datetime.now(_MT)
     start_of_day = now.replace(hour=0, minute=0, second=0, microsecond=0)
     end_of_day = start_of_day + timedelta(days=1)
 

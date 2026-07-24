@@ -8,6 +8,7 @@ sends them to Claude with the question, and returns an answer.
 import os
 import re
 import glob
+import json
 import anthropic
 
 KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), "knowledge")
@@ -251,6 +252,89 @@ def _resolve_channel_project(channel_id, slack_client):
         return _files_from_channel_context(ctx), _project_context_blurb(ctx)
     except Exception:
         return [], ""
+
+
+# Words that signal a purchase / shipment / delivery status question. These
+# route to the purchases/*.json dataset, which the markdown-only keyword router
+# can't reach — yet it's exactly where "did our order from vendor X arrive?"
+# lives (vendor, status, delivery date, tracking, email subject).
+_PURCHASE_INTENT_KEYWORDS = (
+    "purchase", "purchased", "order", "ordered", "shipment", "shipped",
+    "shipping", "deliver", "delivery", "delivered", "package", "parcel",
+    "arrive", "arrived", "tracking", "vendor", "supplier", "received",
+    "receive", "backorder", "back order", "in stock", "restock",
+)
+
+# Generic tokens stripped before matching so we key on vendor / product names
+# (e.g. "gateworks", "digikey") rather than the question's connective tissue.
+_PURCHASE_STOPWORDS = {
+    "the", "have", "has", "had", "did", "does", "do", "we", "our", "you",
+    "your", "they", "this", "that", "from", "for", "and", "are", "was",
+    "been", "being", "with", "got", "get", "any", "yet", "still", "might",
+    "maybe", "know", "about", "what", "when", "where", "whether", "there",
+    "here", "out", "off", "can", "could", "would", "should", "will",
+    "package", "parcel", "order", "ordered", "shipment", "shipped",
+    "shipping", "deliver", "delivery", "delivered", "tracking", "arrive",
+    "arrived", "received", "receive", "vendor", "supplier", "purchase",
+    "purchased", "status", "update", "please", "thanks", "jack", "bot",
+}
+
+
+def _match_purchase_context(question, max_files=3, max_entries=15):
+    """Scan recent ``purchases/*.json`` for entries matching the question's terms.
+
+    Raw purchase JSON is large and noisy (full per-month transaction dumps), so
+    we keyword-filter to the vendor/product the question names and emit a compact
+    block. Returns ``""`` when the question isn't purchase-flavored or nothing
+    matches.
+    """
+    q = (question or "").lower()
+    if not any(kw in q for kw in _PURCHASE_INTENT_KEYWORDS):
+        return ""
+    pdir = os.path.join(KNOWLEDGE_DIR, "purchases")
+    if not os.path.isdir(pdir):
+        return ""
+    tokens = [t for t in re.findall(r"[a-z0-9]{3,}", q)
+              if t not in _PURCHASE_STOPWORDS]
+    if not tokens:
+        return ""
+    files = sorted(glob.glob(os.path.join(pdir, "20*.json")), reverse=True)[:max_files]
+    matches = []
+    for fp in files:
+        try:
+            with open(fp, "r", encoding="utf-8") as fh:
+                data = json.load(fh)
+        except Exception:
+            continue
+        if not isinstance(data, list):
+            continue
+        for entry in data:
+            if not isinstance(entry, dict):
+                continue
+            subject = (entry.get("subject") or "").lower()
+            if "verify your email" in subject:
+                continue  # account-verification noise, not a shipment
+            blob = json.dumps(entry).lower()
+            if any(t in blob for t in tokens):
+                matches.append(entry)
+    if not matches:
+        return ""
+    matches.sort(key=lambda e: e.get("date") or "", reverse=True)
+    lines = ["=== PURCHASE & SHIPMENT RECORDS (matched from purchase tracking) ==="]
+    for e in matches[:max_entries]:
+        bits = [str(e.get("date") or "?"), str(e.get("vendor") or "?")]
+        if e.get("status"):
+            bits.append(f"status={e['status']}")
+        if e.get("amount_usd"):
+            bits.append(f"${e['amount_usd']}")
+        if e.get("project_code"):
+            bits.append(f"proj={e['project_code']}")
+        line = " · ".join(bits)
+        extra = " — ".join(x for x in (e.get("subject"), e.get("notes")) if x)
+        if extra:
+            line += f" — {extra}"
+        lines.append("• " + line)
+    return "\n".join(lines)
 
 
 def select_files(question, channel_files=None):
@@ -867,15 +951,26 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
     except Exception:
         pass
 
+    # Purchase / shipment tracking — answers "did our order from vendor X
+    # arrive / where's the package" from the purchases dataset, which the
+    # markdown keyword router can't reach (the data lives in purchases/*.json).
+    try:
+        purchase_context = _match_purchase_context(question)
+    except Exception:
+        purchase_context = ""
+
     files = select_files(question, channel_files=channel_files)
 
-    if not files:
+    if not files and not purchase_context:
         return "I don't have any knowledge files loaded yet. The knowledge directory may be empty."
 
-    context = _build_context(files)
+    context = _build_context(files) if files else ""
 
-    if not context.strip():
+    if not context.strip() and not purchase_context:
         return "I found matching knowledge files but they appear to be empty."
+
+    if purchase_context:
+        context = f"{purchase_context}\n\n{context}" if context.strip() else purchase_context
 
     if knowledge_context:
         context = f"{knowledge_context}\n\n{context}"
@@ -940,7 +1035,8 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
 
     try:
         response = client.messages.create(
-            model="claude-sonnet-4-20250514",
+            model="claude-sonnet-5",
+            thinking={"type": "disabled"},
             max_tokens=1200,
             system=QA_SYSTEM_PROMPT,
             messages=[{"role": "user", "content": user_prompt}],
@@ -965,7 +1061,8 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
                         f"Question: {question}"
                     )
                     response2 = client.messages.create(
-                        model="claude-sonnet-4-20250514",
+                        model="claude-sonnet-5",
+                        thinking={"type": "disabled"},
                         max_tokens=1200,
                         system=QA_SYSTEM_PROMPT + (
                             "\n\nYou also have live search results from connected services "
