@@ -4,15 +4,15 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-23",
-    "end": "2026-07-24"
+    "start": "2026-07-24",
+    "end": "2026-07-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 191.47,
+    "expenses": 494.89,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 167.1,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 24.37
+      "DIRECT COSTS:DC-Direct Material Purchases": 425.25,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 69.64
     }
   },
   "invoices": [],
@@ -20,29 +20,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-23",
-      "doc_number": "ST61Q172",
-      "total": 1504.42,
-      "attributed": 191.47,
+      "date": "2026-07-24",
+      "doc_number": "0724JELSTON",
+      "total": 3516.81,
+      "attributed": 494.89,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
+      "memo": "No Asana request - J. Fromm made directly purchase. Note provided via Slack:\"I somehow messed up the mcmaster order - anything that does not have a tag for project is in fact for s0 hurricane, all the other stuff is labeled correctly.\"",
       "lines": [
         {
-          "amount": 112.41,
+          "amount": 2908.74,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Navy Magnetometer supplies"
+          "description": "IDIQ supplies for extra 13 S0s"
         },
         {
-          "amount": 1200.54,
+          "amount": 113.18,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "NOAA IDIQ supplies"
+          "description": "NASA S2 supplies"
         },
         {
-          "amount": 191.47,
+          "amount": 494.89,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "IRAD Swiftstation supplies"
+          "description": "SwiftStation supplies"
         }
       ]
     }

@@ -4,16 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-07-23",
-    "end": "2026-07-24"
+    "start": "2026-07-24",
+    "end": "2026-07-25"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 112.41,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 98.1,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 14.31
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -41,36 +38,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-07-23",
-      "doc_number": "ST61Q172",
-      "total": 1504.42,
-      "attributed": 112.41,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
-      "lines": [
-        {
-          "amount": 112.41,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Navy Magnetometer supplies"
-        },
-        {
-          "amount": 1200.54,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "NOAA IDIQ supplies"
-        },
-        {
-          "amount": 191.47,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "IRAD Swiftstation supplies"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

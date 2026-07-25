@@ -1,76 +1,70 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-24 02:22
+Last scanned: 2026-07-25 02:22
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 10 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 9 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Black Swift Technologies (BST) — Strategic Drive Overview
 
-## Summary Statistics
-- **Total documents:** 12+ across 2 mapped drives
-- **Active period:** July 2026 (current activity)
-- **Organization quality:** Poor—minimal folder structure, inconsistent naming conventions
+## Document Volume & Organization Quality
 
----
+| Drive | Files | Folders | Organization |
+|-------|-------|---------|---------------|
+| **Federal Projects** | 19 | 4 | Minimal; mostly empty folders |
+| **Sales** | 3 | 0 | Flat structure; no subfolders |
+| **Total** | 22 | 4 | **Poor** — inconsistent structure across drives |
 
-## Drive Breakdown
-
-### Federal Projects Drive
-**Volume:** 10 files | **Organization:** Flat (no folders)
-
-**Key Observations:**
-- Heavily weighted toward financial & contract management
-- Active IDIQ program tracking (budget & CLIN monitoring as of 7/23/2026)
-- Recent invoice generation (Invoice 1773, 7/23/2026)
-- Editor concentration: Meredith Needham (primary stakeholder)
-- **Management gap:** All files at root level; no temporal or project-based organization
-
-**Content Focus:**
-- Federal contract references (1305M226F0171, 1305M226D0012, 1305M226F0344)
-- Ground station logistics implied but not clearly documented
-- Budget tracking suggests active contract execution
-
-### Sales Drive
-**Volume:** 2 files | **Organization:** Flat
-
-**Recent Activity:**
-- Cancellation documentation (Order #43909162, dated 8/4/2026)
-- Generic budget file (likely shared resource)
-- Limited documentation for prospecting/proposals
+**Assessment:** Limited documentation footprint. Both drives lack robust folder hierarchies and naming consistency, suggesting early-stage drive development or incomplete migration.
 
 ---
 
-## Cross-Drive Patterns & Observations
+## Key Clients & Projects
 
-| Pattern | Finding |
-|---------|---------|
-| **Document Naming** | Inconsistent—mix of formal contract IDs, informal descriptions, and unexplained references |
-| **Folder Structure** | Virtually absent; suggests rapid growth without organizational governance |
-| **Shared Resources** | "Budget" file appears in both drives (potential duplicate or shared template) |
-| **Responsibility Concentration** | Meredith Needham appears to own Federal drive operations |
-| **Activity Currency** | All recent updates: July 23–August 4, 2026 (active period) |
+### Active Projects (July 2026)
+- **Genesis Mission SBIR** — Folder created but empty; proposal tracking underway
+- **Arctic Engineering Sprint** — SOW in draft stage (Supercool Clouds Inc. engagement)
+- **Lakeland Trip** — Logistics documentation (July 2026)
+
+### Proposal & Contract Activity
+- Master Proposal Tracking document (Federal drive)
+- Engineering Sprint ROM (v2, recent revision)
+- Executed NDA with Supercool Clouds Inc. (countersigned, August 2025)
 
 ---
 
-## Areas Requiring Attention
+## Cross-Drive Patterns
 
-1. **Organization deficit:** No project, client, or temporal folder hierarchy—impairs searchability and audit trails
-2. **Naming conventions:** Lack standardization; federal contract IDs not consistently applied
-3. **Sales drive documentation:** Minimal—no proposals, contracts, or prospect tracking visible
-4. **Stale content risk:** Date anomalies (2099 markers) suggest data integrity issues needing review
-5. **Access/ownership clarity:** Limited visibility into cross-functional collaboration beyond Meredith Needham
+- **Federal drive:** Contracts, IDIQ programs, SBIR proposals, invoicing, budget tracking, logistics
+- **Sales drive:** Statements of Work, RUMs, NDAs, business development collateral
+- **Overlap:** Both contain proposal/contract-related work; no clear division of labor evident
+
+---
+
+## Critical Observations
+
+### Areas Needing Attention
+1. **Empty folders** — "2026 Genesis Mission SBIR," "Freight Shipment(s)" suggest abandoned or incomplete organization
+2. **Limited sales documentation** — Only 3 files; may indicate sales materials stored elsewhere or minimal pipeline visibility
+3. **Data quality issues** — Federal drive contains erroneous 2099 dates on video files (system errors)
+4. **No templates or shared resources** identified in summaries
+5. **Minimal naming conventions** — Inconsistent file naming (e.g., "250819" vs. "2026-07-24" date formats)
+
+### Positive Notes
+- Recent activity concentrated in July 2026 (active engagement period)
+- Executed contracts indicate business development progress
+- Clear functional separation between Federal and Sales drives
 
 ---
 
 ## Recommendations
-- Implement folder taxonomy (by contract/project, fiscal year, document type)
-- Establish naming standards for federal vs. commercial work
-- Audit Sales drive for missing proposal/RFQ documentation
-- Clarify shared resource governance (budget files)
+- Standardize folder structure and naming conventions across drives
+- Archive or complete empty folders to reduce clutter
+- Establish centralized proposal and template library
+- Clarify drive governance and ownership assignments

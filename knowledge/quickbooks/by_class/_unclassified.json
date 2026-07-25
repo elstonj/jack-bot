@@ -4,20 +4,39 @@
     ""
   ],
   "period": {
-    "start": "2026-07-23",
-    "end": "2026-07-24"
+    "start": "2026-07-24",
+    "end": "2026-07-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5947.47,
+    "expenses": 13153.18,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5409.13,
-      "FACILITIES:FA-Shop Supplies": 423.79,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 114.55
+      "FACILITIES:FA-Rent Expense": 7198.87,
+      "FACILITIES:FA-Office Supplies": 5355.31,
+      "FACILITIES:FA-Shop Supplies": 599.0
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-24",
+      "doc_number": "",
+      "total": 7198.87,
+      "attributed": 7198.87,
+      "vendor": "W. W. Reynolds Companies",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Lease statement incorrectly charged for July's rent. Amy Smith confirmed they are redoing their accounting system, so there may be a mistake.",
+      "lines": [
+        {
+          "amount": 7198.87,
+          "account": "FACILITIES:FA-Rent Expense",
+          "description": "August 2026 rent"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -39,60 +58,19 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "doc_number": "",
-      "total": 78.08,
-      "attributed": 78.08,
+      "total": 599.0,
+      "attributed": 599.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Request by J. Elston via Slack",
       "lines": [
         {
-          "amount": 24.26,
+          "amount": 599.0,
           "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Batteries for shop"
-        },
-        {
-          "amount": 53.82,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Brita filters/toilet paper"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-23",
-      "doc_number": "100576268",
-      "total": 114.55,
-      "attributed": 114.55,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 114.55,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "S3 extra parts for power board fix"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-23",
-      "doc_number": "10000037741",
-      "total": 399.53,
-      "attributed": 399.53,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Requested to purchase verbally by J. Elston",
-      "lines": [
-        {
-          "amount": 399.53,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Kestrel 5500 Weather Meter"
+          "description": "Thermal Master Thor001 Thermal Camera"
         }
       ]
     }

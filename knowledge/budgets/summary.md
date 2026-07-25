@@ -2,76 +2,79 @@
 
 ## Active Project Budgets
 
-### Project 300-3
-- **Project Code:** 300-3
-- **Client:** NOAA / EAD-OMAO, Norfolk, VA
-- **Total Budget:** $843,000.00
-- **Contract Type:** IDIQ (Indefinite Delivery / Indefinite Quantity) — firm fixed price with T&M extensions
-- **Period of Performance:** 2026–2030 (5-year contract)
-- **Contract Number:** 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order)
-- **Vendor:** Black Swift Technologies LLC, Boulder, CO (CAGE 6PGF9)
-- **Spend/Remaining:** Invoice 1736 documented; full spend details require CLIN breakdown review
-- **Status:** Active
+### Project 300-3 (NOAA IDIQ)
+| Field | Details |
+|-------|---------|
+| **Project Code** | 300-3 |
+| **Client** | NOAA / EAD-OMAO, Norfolk, VA |
+| **Total Budget** | $843,000.00 |
+| **Contract Type** | IDIQ (Indefinite Delivery / Indefinite Quantity) |
+| **Funding Agency** | National Oceanic and Atmospheric Administration (NOAA) |
+| **Period of Performance** | 2026–2030 (5-year contract) |
+| **Contract Number** | 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order for Invoice 1736) |
+| **RFQ Number** | 1305M226Q0003 |
+| **Vendor/Performer** | Black Swift Technologies LLC, Boulder, CO (CAGE: 6PGF9, UEI: C2J3K9NRE3L3) |
+| **Pricing Structure** | Firm fixed price with T&M extensions for select activities |
+| **Known Spend/Remaining** | Not fully detailed in provided excerpt (budget breakdown CLINs incomplete) |
 
 ---
 
 ## By Funding Source
 
-### NOAA
-- **Project 300-3:** $843,000.00
-- **Total NOAA Funded:** $843,000.00
-
-### Unassigned / Portfolio-Level (1,181 documents)
-- **Agencies Represented:** NASA, NOAA, DoD, and other federal agencies
-- **Status:** Documents indicate active proposals, completed/inactive projects, and preliminary costing analysis
-- **Note:** No single project codes detected across portfolio; represents multiple distinct initiatives at various stages
+| Agency | Project(s) | Total Funded |
+|--------|-----------|--------------|
+| **NOAA** | 300-3 | $843,000.00 |
+| **NASA** | Unassigned (AREN/MiniCam) | *Preliminary costing only; not yet active* |
+| **DoD** | Unassigned (portfolio) | *Portfolio referenced; no specific budget* |
+| **Other Federal** | Unassigned (portfolio) | *Portfolio referenced; no specific budget* |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project(s) | Total Budget |
-|---|---|---|
-| IDIQ (Indefinite Delivery/Quantity) | 300-3 | $843,000.00 |
-| SBIR Phase I | Unassigned portfolio | *Pending detailed review* |
-| SBIR Phase II | Unassigned portfolio | *Pending detailed review* |
-| IRAD | Unassigned portfolio | *Pending detailed review* |
-| Commercial | NASA AREN (MiniCam project) | *Preliminary costing only* |
+| Contract Type | Projects | Notes |
+|---------------|----------|-------|
+| **IDIQ (Indefinite Delivery / Indefinite Quantity)** | 300-3 | NOAA; $843K total; firm fixed price with T&M extensions |
+| **SBIR Phase I** | *Not identified in provided data* | — |
+| **SBIR Phase II** | *Not identified in provided data* | — |
+| **IRAD** | *Not identified in provided data* | — |
+| **Commercial** | Unassigned (MiniCam) | Preliminary product costing; pre-active |
+| **Other/Unassigned** | Portfolio (1,181 docs) | Multiple agencies; status varies |
 
 ---
 
 ## Financial Health Indicators
 
 ### Project 300-3 (NOAA)
-- ✓ **Status:** Well-funded, 5-year contract with $843K total value
-- ⚠ **Note:** Invoice 1736 is documented against delivery order 1305M226F0084; requires spend tracking against CLIN allocations
-- **Action Item:** Obtain complete CLIN breakdown to assess spending pace and remaining obligations
+- ✅ **Contract Status:** Active, long-term (5-year duration)
+- ⚠️ **Budget Detail Gap:** CLIN breakdown incomplete in provided excerpt; spend status unknown
+- ✅ **Delivery Order Issued:** Invoice 1736 tied to delivery order 1305M226F0084 (indicates active invoicing)
+- **Action Needed:** Obtain complete CLIN breakdown and current spend tracking
 
-### Unassigned Portfolio
-- ⚠ **Concern:** 1,181 documents represent fragmented project data lacking consolidated budget tracking
-- ⚠ **Action Item:** Urgent need to systematize project coding and consolidate budget data by project ID
-- ⚠ **Risk:** Cannot assess portfolio-wide budget health, burn rate, or upcoming funding constraints without unified tracking
-
-### NASA AREN / MiniCam Project
-- **Status:** Preliminary commercial costing analysis (February 2026)
-- **Note:** Cost structure developed but not yet tied to active contract award
-- **Action Item:** Clarify contract status and funding availability
+### Unassigned Project Portfolio
+- 📋 **Status:** 1,181 budget documents across multiple agencies
+- ⚠️ **Data Quality:** No single project code detected; portfolio lacks centralized budget tracking
+- 🔄 **NASA/AREN (MiniCam):** Preliminary costing only; not yet awarded/active
+- **Action Needed:** Consolidate unassigned projects into master budget ledger
 
 ---
 
 ## QuickBooks Integration Notes
 
-| Project | QB Integration | Notes |
-|---|---|---|
-| **300-3 (NOAA)** | Likely mapped | Invoice 1736 referenced; suggest cross-check GL coding against contract structure (CLIN-based) |
-| **Unassigned Portfolio** | Unknown | 1,181 documents appear to be Drive-only; no QB reference detected. **Critical Gap:** Portfolio lacks unified financial system integration. |
-| **NASA AREN/MiniCam** | No active QB | Preliminary costing only; not yet in active accounting |
+| Project | QB Integration Status |
+|---------|----------------------|
+| **300-3 (NOAA)** | Potential match: Delivery order 1305M226F0084 and Invoice 1736 suggest QB transaction records likely exist; recommend cross-reference with QB AP/AR module |
+| **Unassigned Portfolio** | **Drive-only:** 1,181 budget documents appear to be in Google Drive with no QB integration noted; no centralized GL coding or cost center mapping evident |
+| **MiniCam (NASA)** | **Pre-QB Stage:** Preliminary costing document; no QB transactions expected until contract award |
 
 ---
 
-## Summary Recommendations
+## Summary
 
-1. **Immediate Priority:** Consolidate unassigned portfolio into named projects with consistent code structure
-2. **300-3 Tracking:** Implement CLIN-based spend tracking in QB to match IDIQ contract structure
-3. **Portfolio Visibility:** Establish unified budget dashboard mapping all 1,180+ documents to active projects
-4. **Invoice Management:** Verify Invoice 1736 coding aligns with delivery order 1305M226F0084 and CLIN allocations
+**Tracked Active Budget:** $843,000 (Project 300-3 only)
+
+**Outstanding Issues:**
+1. Complete CLIN detail for 300-3 required for full spend tracking
+2. Unassigned portfolio (1,181 docs) needs consolidation and project code assignment
+3. QB integration gap for portfolio projects—recommend mapping documents to GL accounts and cost centers
+4. MiniCam (NASA) awaiting contract award before budget activation

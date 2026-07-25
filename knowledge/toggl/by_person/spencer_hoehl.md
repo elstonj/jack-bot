@@ -1,97 +1,100 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 92.6 hours
+- **Total hours tracked:** 98.9 hours
 - **Primary projects (top 5):**
-  1. [300-3] 2026 IDIQ (Hurricane) — 51.8 hours
-  2. Flight Checklists — 14.1 hours
-  3. [001-08] Flight Testing — 14.2 hours
+  1. [300-3] 2026 IDIQ (Hurricane) — 58.1 hours
+  2. [001-08] Flight Testing — 14.2 hours
+  3. Flight Checklists — 14.1 hours
   4. [043-3] ByLight M2/Halo — 9.2 hours
   5. [001-22] Fleet Maintenance — 1.1 hours
-- **Time period covered:** Multiple tracking batches (latest batch: 6.8 hours)
+- **Time period covered:** Multiple tracking batches (latest batch: 6.3 hours)
 
 ## Project Breakdown
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
-  - Hours: 51.8
-  - Percentage: 55.9%
+  - Hours: 58.1
+  - Percentage: 58.7%
 
 - **[001-08] Flight Testing** (Client: Internal)
   - Hours: 14.2
-  - Percentage: 15.3%
+  - Percentage: 14.4%
 
 - **Flight Checklists** (Client: Internal/Operations)
   - Hours: 14.1
-  - Percentage: 15.2%
+  - Percentage: 14.3%
 
 - **[043-3] ByLight M2/Halo** (Client: ByLight)
   - Hours: 9.2
-  - Percentage: 9.9%
+  - Percentage: 9.3%
 
 - **[001-22] Fleet Maintenance** (Client: Internal/Operations)
   - Hours: 1.1
-  - Percentage: 1.2%
+  - Percentage: 1.1%
 
 - **[001-13] General Operations** (Client: Overhead)
   - Hours: 1.3
-  - Percentage: 1.4%
+  - Percentage: 1.3%
 
 - **Project None** (Unallocated)
   - Hours: 0.9
-  - Percentage: 1.0%
+  - Percentage: 0.9%
 
 ## Recent Activity
-- **Latest batch (6.8 hours):** Shift away from Flight Checklists; strong return to Flight Testing (85.3% of batch); minimal Hurricane IDIQ allocation (1.0h, 14.7%)
-- **Most recent entries (all undocumented):**
-  - 3.6 hours on [001-08] Flight Testing
-  - 2.2 hours on [001-08] Flight Testing
-  - 1.0 hour on [300-3] 2026 IDIQ (Hurricane)
-- **Pattern continuation:** Confirms repeating cycle—previous batch dominated Flight Checklists (5.7h); current batch shifts to Flight Testing (5.8h); aligns with preflight QC → execution → preparation workflow hypothesis
+- **Latest batch (6.3 hours):** Complete reversal from previous batch—100% allocation to Hurricane IDIQ; sharp departure from Flight Testing surge pattern
+- **Most recent entries (both undocumented):**
+  - 3.4 hours on [300-3] 2026 IDIQ (Hurricane)
+  - 2.9 hours on [300-3] 2026 IDIQ (Hurricane)
+- **Pattern disruption:** Flight operations cycle broken; no Flight Testing or Flight Checklists activity in current batch
+  - Previous three batches showed tight cycling: Flight Testing → Flight Checklists → Flight Testing
+  - **Current batch represents anomalous return to single-project focus (Hurricane IDIQ)**
 
 ## Patterns
-- **Flight operations elevated and cycling:** Flight Testing + Flight Checklists now represent 30.5% of total tracked time (28.3 hours); oscillation pattern confirmed across three batches:
-  - **Batch N−2:** Flight Testing surge (5.2h)
-  - **Batch N−1:** Flight Checklists surge (5.7h) + Fleet Maintenance introduction (1.1h)
-  - **Batch N (current):** Flight Testing surge (5.8h) — **three-batch cycle strengthened**
-  - **Suggests structured QC preparation → execution → post-flight documentation workflow**
+- **Hurricane IDIQ allocation spike reversal:** Rebounded sharply from 55.9% (previous batch, 1.0h) to **58.7% (current batch, 6.3h)**
+  - Cumulative 6.3-hour Hurricane block represents largest single-batch allocation to NOAA in recent tracking
+  - **Risk flag resolved or temporarily masked?** Recovery suggests either:
+    - Delayed deliverable push (catch-up work)
+    - Flight testing phase concluded; capacity reallocated back to core IDIQ development
+    - Administrative/milestone work bundled into single session
+  
+- **Flight operations cycle halted:** 
+  - Flight Testing and Flight Checklists absent from current batch (first gap in three-batch cycle)
+  - Previous oscillation pattern (Flight Testing → Checklists → Testing) interrupted
+  - Suggests possible test phase completion or temporary operational pause
 
-- **Hurricane IDIQ further decline:** Now 55.9% (down from 59.2% previous batch, 68.8% baseline); cumulative decline of −13.0 percentage points over three batches; acceleration of capacity reallocation
-  - Current allocation (1.0h) lowest single-batch contribution observed
-  - **Risk flag: Declining NOAA commitment may indicate timeline pressure or resource constraint**
+- **Documentation crisis continues (100% escalation):**
+  - Current batch: 2 of 2 entries completely undocumented
+  - **Cumulative undocumented rate across last three batches: 5 of 8 entries (62.5%)**
+  - Both current entries lack descriptions despite 3.4h and 2.9h individual durations
+  - **Critical context missing:** Nature of Hurricane IDIQ work (development? Testing? Documentation? Meetings?) completely obscured
 
-- **Flight Testing now tied with Flight Checklists:** Both at ~15% allocation; previous disparity resolved through Flight Testing accumulation (was 9.8%, now 15.3%)
-
-- **Documentation crisis escalated:** 
-  - All 3 current-batch entries completely undocumented (100% gap rate)
-  - Flight Testing entries (3.6h + 2.2h = 5.8h) lack any context
-  - Hurricane IDIQ entry (1.0h) also undocumented
-  - **Previous batch showed 2 of 3 entries undocumented; trend worsening**
-
-- **Session block consolidation:** Two Flight Testing blocks in single batch (3.6h + 2.2h); suggests prolonged execution session or back-to-back test operations
-
-- **Fleet Maintenance, ByLight, and General Operations:** Flat across batches; no new activity; secondary/overhead commitments stable
+- **Session consolidation pattern:** Two work blocks (3.4h + 2.9h) suggest extended focused effort or back-to-back meetings/work sessions on NOAA deliverables
 
 ## Recommendations
 
-### **URGENT — Documentation Enforcement (Escalate Immediately)**
-- **100% undocumented batch—implement intervention now:**
-  - All 3 entries in current batch lack descriptions
-  - Require **mandatory task descriptions for ALL entries >1.0 hours** (lower threshold from previous 1.5h recommendation)
-  - Establish automated block on time submission if description field is empty
-  - Spencer must remediate current batch entries within 24 hours with detailed narratives:
-    - Flight Testing 3.6h: Preflight checks? Test execution? Data acquisition?
-    - Flight Testing 2.2h: Continuation of 3.6h session or separate operation?
-    - Hurricane IDIQ 1.0h: Deliverable work? Administrative? Status update?
+### **URGENT — Documentation Enforcement (Escalation Required)**
+- **Trend worsening: 62.5% undocumented rate over three batches; current batch 100% non-compliant**
+- **Immediate action required:**
+  - Spencer must remediate current 6.3-hour batch within 24 hours with detailed descriptions:
+    - 3.4h Hurricane IDIQ entry: Specific deliverable/task, phase (design/development/testing/documentation), any blockers
+    - 2.9h Hurricane IDIQ entry: Continuation of 3.4h work or separate activity? Specific outputs generated
+  - Implement **mandatory description requirement for ALL entries ≥1.0 hour** with automated submission block if empty
+  - Escalate pattern to project manager—this level of opacity prevents resource tracking and risk assessment
 
-### **Hurricane IDIQ Status Check (Critical)**
-- Decline trajectory accelerating: 68.8% → 64.3% → 59.2% → **55.9%** (−13.0pp total)
-- **Current batch allocation (1.0h) is concerning minimum**—immediate inquiry required:
-  - Is NOAA deliverable schedule slipping? Are remaining hours sufficient for Q{current}?
-  - Are flight ops activities consuming allocated IDIQ development time?
-  - Confirm 55% allocation is sustainable floor or temporary reallocation during test phase
-  - **Risk:** If Hurricane is falling behind schedule, flight testing surge may be competing effort stealing capacity
+### **Hurricane IDIQ Status Clarification (Critical)**
+- **Apparent reversal in decline trajectory—requires verification:**
+  - Previous batch: 1.0h (54.7% + undocumented) — flagged as concerning minimum
+  - Current batch: 6.3h (58.7% + undocumented) — sharp recovery, BUT without documentation impossible to assess legitimacy
+  - **Critical questions:**
+    - Is this catch-up work on delayed deliverables? Status vs. plan?
+    - Are 58.7% allocations sustainable for remainder of NOAA contract?
+    - What specific milestones/deliverables are these 6.3 hours advancing?
+  - **Obtain detailed work notes from Spencer before documenting as normal activity**
 
-### **Flight Operations Cycle Formalization (High Priority)**
-- Three-batch pattern now confirmed with high confidence:
-  - Batch N: Flight Testing (5.2h → 5.8h, +11.5%)
-  - Batch N−1: Flight Checklists (5.7h, peak)
-  - Batch N−2: Flight Testing
+### **Flight Operations Cycle Disruption (Monitor)**
+- Three-batch cycle broken; no flight testing/checklist activity observed
+- **Possible interpretations:**
+  - Test phase completed; normal operations resuming (favourable)
+  - Test phase paused pending results analysis or component failure (neutral/watch)
+  - Flight ops redirected to undocumented time or other project codes (risk)
+- **Recommend:** Check with Operations lead on current flight schedule status
+- **If flight operations resume,** expect cycle pattern to re-emerge (Flight Testing entry likely in next batch)

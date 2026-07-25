@@ -1,23 +1,58 @@
 # BST Document Catalog
 
 ## By Product/System
-*No specific BST products (S2, S3, SwiftCore, MultiScat, AeroPod, etc.) referenced in this document set*
 
-## By Client/Agency
+### Black Swift S3
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | SOW for Phase II Arctic UAS engineering and testing with tube-launched VTOL configuration (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### U.S. Air Force (AFWERX)
-- **DD Form 882 - Report of Inventions and Subcontracts** | SBIR Phase II - Soil Moisture Mapping (X22.4) | 2026-07-13 | Government compliance form for reporting inventions and subcontracts under SBIR Phase II program (dd0882pdf.md)
+### SwiftCore FMS
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Flight management system specifications for cold-weather operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
-## By Application Area
-
-### Soil Moisture Mapping / Agricultural Applications
-- **DD Form 882 - Report of Inventions and Subcontracts** | U.S. Air Force | 2026-07-13 | SBIR Phase II reporting for soil moisture mapping initiative (dd0882pdf.md)
-
-## By Document Type
-
-### Government Compliance & Administrative Forms
-- **DD Form 882 - Report of Inventions and Subcontracts** | U.S. Air Force (AFWERX) | 2026-07-13 | Required reporting form for SBIR Phase II inventions and subcontracts; Reporting Period: 2023-10-11 to 2025-07-11 (dd0882pdf.md)
+### SwiftTab
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Ground control station interface for Arctic operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ---
 
-**Note:** This catalog currently contains only one document. As additional BST proposals, reports, and technical documents are provided, they will be organized comprehensively across all four organizational dimensions (Product/System, Client/Agency, Application Area, and Document Type).
+## By Client/Agency
+
+### NASA
+- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | Project announcement for Phase II SBIR contract negotiation with PrecisionTerra as lead (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
+
+### Department of Energy (DOE)
+- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Notification of proposal rejection for Genesis Mission: Transforming Science and Energy with AI (FY 2026) (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
+
+### Canadian Joint Forces Command (CJFC)
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/CJFC | July 24, 2026 | Engineering SOW for Phase II Arctic UAS program including Whitehorse test event (bst_arctic_engineering_sprint_sow_drafta.md)
+
+---
+
+## By Application Area
+
+### Arctic Operations
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Cold-weather UAS engineering sprint and test event for Arctic surveillance and operations (bst_arctic_engineering_sprint_sow_drafta.md)
+
+### AI & Energy Science
+- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Proposed project integrating AI with energy science applications (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
+
+### Precision Agriculture/Earth Observation
+- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | NASA Phase II SBIR with PrecisionTerra for precision agriculture and Earth observation applications (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
+
+---
+
+## By Document Type
+
+### Statements of Work (SOW)
+- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Draft A SOW for engineering sprint and Whitehorse test event (bst_arctic_engineering_sprint_sow_drafta.md)
+
+### Email Announcements/Notifications
+- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | Internal notification of Phase II SBIR selection (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
+- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Proposal declination notification (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
+
+---
+
+## Summary Statistics
+- **Total Documents:** 3
+- **Date Range:** July 21-24, 2026
+- **Products Featured:** S3, SwiftCore FMS, SwiftTab
+- **Clients/Agencies:** NASA, DOE, Canadian Joint Forces Command
+- **Document Types:** 1 SOW (Draft), 2 Email Notifications

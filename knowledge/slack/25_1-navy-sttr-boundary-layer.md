@@ -1,7 +1,7 @@
 # #25_1-navy-sttr-boundary-layer
 
 ## Overview
-This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, Alex Lomis, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through July 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights. As of July 2026, the team is actively executing OOI (Ocean Observatories Initiative) array validation flights with coordinated P-3 support and aircraft system updates.
+This channel manages Black Swift Technologies' Navy STTR project focused on boundary layer measurements using the S0 UAS platform. The project aims to develop atmospheric sensing capabilities for hazardous weather conditions, particularly tropical cyclones and high wind environments. Key participants include Beck Cotter, Maciej, Josh Wadler, Jun Zhang, Dan Prendergast, Jack Elston, Joshua Fromm, Joe, Alex Lomis, and Meredith Needham (Navy contact/administrator). The channel shows high activity from July 2024 through July 2026, covering Phase I completion, Phase II proposal development, and active field operations including ocean validation missions and CAT (Convective and Atmospheric Turbulence) flights. As of late July 2026, the team is actively executing OOI (Ocean Observatories Initiative) array validation flights with coordinated P-3 support and aircraft system updates.
 
 ## Key Decisions
 - **July 2024**: Focused Phase 1 on tropical cyclone/high wind measurements rather than cold weather applications
@@ -34,9 +34,4 @@ This channel manages Black Swift Technologies' Navy STTR project focused on boun
 - **July 23, 2026**: Directional bias testing protocol approved with full orbit maneuver added to mission plan: 300m radius orbit (larger than S0 default 126m to keep roll angle small for calibration purposes) taking approximately 1.5 minutes; orbit to be performed at some point during OOI mission to detect and correct any direction-dependent errors in sensor data
 - **July 23, 2026**: Radar vs GPS altitude comparison completed for 04-07 CAT flights showing reliable radar return below 40m, validating GPS-based altitude control; acceptable for continued use despite geoid/sea level variance concerns raised by Jack Elston
 - **July 23, 2026**: Approved lower altitude deployment contingency at 5,000 ft due to airspace booking constraints above that altitude; identified risk due to lack of prior S0 deployment at those pressure conditions and required updates to lost comms behavior firmware
-
-## Projects & Initiatives
-
-**Navy STTR Boundary Layer Measurements Project (Award: N6833535C0270)**
-- Phase I Base completed January 2026 with kick-off document, progress report, and final deliverables
-- Phase I Option awarded January 26, 2026
+- **July 24, 2026**: Confirmed OOI array flight orientation will be parallel to coast (North/South alignment) to minimize influence of land-based turbulent eddies and prioritize turbulence measurements; coast-parallel orientation preferred over crosswind despite requiring headwind leg compensation (time

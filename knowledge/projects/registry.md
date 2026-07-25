@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 49 active projects._
+_Generated from Asana project overviews. 50 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -54,6 +54,7 @@ _Generated from Asana project overviews. 49 active projects._
 | — | View: Shop Pipeline | — | — | — | — |
 | — | View: Operator Training / Flights | — | — | — | — |
 | — | Flight Checklists | — | — | — | — |
+| — | {001-24] Albatross IRAD | — | — | — | — |
 
 ## Channel → Project Lookup
 

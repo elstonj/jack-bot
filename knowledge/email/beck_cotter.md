@@ -1,110 +1,98 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 151 emails (125 previous + 26 new)
+- **Total messages scanned:** 166 emails (151 previous + 15 new)
 - **Date range:** 19 Jul – 24 Jul 2026 (6 days)
-- **Approximate volume:** ~25 emails/day
-- **Peak activity:** Tuesday, 21 Jul (38 emails); sustained Wed 22 Jul (37 emails); continued Thu 23 Jul (26 new emails)
-- **Note:** Sustained intense execution phase across 6 days; high government correspondence volume
+- **Approximate volume:** ~28 emails/day
+- **Peak activity:** Tuesday, 21 Jul (38 emails); sustained Wed 22 Jul (37 emails); continued Thu 23 Jul (26 emails); sustained Fri 24 Jul (15 new emails)
+- **Note:** Sustained intense execution phase across 6 days; high government correspondence volume with emerging external technical partnerships
 
 ## Key Correspondents
 
-### Top Senders (new data, 23–24 Jul)
-1. **Emilly Sanchez** (USN/CNR Arlington) — 3 emails (STTR Phase II Cost Proposal N25A-T025, rapid iteration)
-2. **AFRL/RGK Patents Workflow** — 2 emails (DD882 Contract FA864924P0003 responses)
-3. **Paul DeMond** (U.S. Maritime) — 2 emails (N251-016 Phase II, work schedule notification)
-4. **Evan Wolff** (USSOCOM) — 2 emails (RFI S0, continued engagement marked IMPORTANT)
-5. **Daniel Prendergast** (BST internal) — 3 emails (S0 Air Deployed UAS response, UCSC reconnection, RFI S0 coordination)
-6. **Jack Elston** (BST internal) — 1 email (MOSA Innovation Challenge task comment via Asana)
-7. **Emmanuel Gorce** (EG Proposal Management) — 3 emails (DoW/DoD topics, 08/19/2026 due date)
-8. **J. Xavier Prochaska** (UCSC) — 1 email (Reconnecting inquiry response)
-9. **Eventbrite** — 2 emails (NASA Nancy Grace Roman Space Telescope Launch order confirmation; promotional)
+### Top Senders (new data, 24 Jul)
+1. **ERYAN Dai** (WeatherStream) — 2 emails (NASA Juno Proposal cost estimate exchange, L-band drone flights over lava, both marked IMPORTANT)
+2. **Evan Wolff** (USSOCOM) — 1 email (RFI S0 continued, marked IMPORTANT)
+3. **Daniel Prendergast** (BST internal) — 2 emails (RFI S0 response, REX 110 Operation at extreme temperatures coordination with Atmolab)
+4. **Asana** — 2 notifications (unread notifications, task assignment from Maciej Stachura)
+5. **Alexander Francis** (myfw.com) — 1 email (Business introduction inquiry, marked IMPORTANT)
+6. **DOE PAMS Autoreply** — 1 email (Proposal declination 0000302243, marked IMPORTANT)
+7. **NSBA** — 1 email (Weekly Advocate newsletter)
+8. **Xcel Energy** — 1 email (Utility bill reminder)
+9. **Himanshu Nagpal** (CE India) — 1 email (Strategic collaboration invitation, defence business)
 
 ### Top Recipients (outgoing — new data)
-1. **Emilly Sanchez** (USN/CNR Arlington) — 3 emails (STTR Phase II Cost Proposal N25A-T025 responses)
-2. **AFRL/RGK Patents Workflow** — 2 emails (DD882 contract responses)
-3. **Paul DeMond** (U.S. Maritime) — 1 email (N251-016 Phase II response)
-4. **Amy McLiverty** (NOAA) — 1 email (New Delivery Order/Upcoming response)
+1. **ERYAN Dai** (WeatherStream) — 2 emails (NASA Juno Proposal cost estimate responses, both same-day rapid exchange)
+2. **Atmolab** (Jure Dolinar, Jošt Laznik, Matevž Poberžnik) — 1 email (REX 110 Operation technical coordination at extreme temperatures, marked IMPORTANT)
+3. **USSOCOM** (Evan Wolff via Prendergast) — 1 email (RFI S0 continued coordination, marked IMPORTANT)
 
 ### Internal vs External (Updated)
-- **Internal BST:** ~26 emails (Prendergast, Elston, Asana notifications, newsletter subscriptions)
-- **External:** ~125 emails (government, DoD, academia, contractors, vendors, event confirmations)
-- **Government/DoD/Military:** ~13 emails (Navy STTR, AFRL patents, USSOCOM RFI, NOAA, U.S. Maritime)
-- **Academic/Research:** ~2 emails (UCSC reconnection inquiry)
-- **Event/Marketing:** ~2 emails (Eventbrite confirmations and promotions)
+- **Internal BST:** ~30 emails (Prendergast, Elston, Asana notifications, NSBA newsletter)
+- **External:** ~136 emails (government, DoD, academia, contractors, vendors, event confirmations, business development)
+- **Government/DoD/Military:** ~14 emails (Navy STTR, AFRL patents, USSOCOM RFI, DOE declination, defence business inquiries)
+- **Technical/Research Partners:** ~3 emails (WeatherStream, Atmolab, UCSC)
+- **Business Development/Vendor:** ~2 emails (Alexander Francis introduction, Himanshu Nagpal defence collaboration)
+- **Automated/Newsletter:** ~3 emails (Asana, NSBA, Xcel Energy)
 
 ### Key External Organizations (Updated)
-- **U.S. Navy / CNR Arlington** — Emilly Sanchez — **STTR Phase II Cost Proposal (N25A-T025)** — **ACTIVE NEGOTIATION** (rapid back-and-forth 23 Jul, multiple revisions/clarifications)
-- **Air Force Research Lab (AFRL)** — Patents Workflow — **DD882 Contract (FA864924P0003)** — **ACTIVE SUBMISSION/COORDINATION** (responses required, marked IMPORTANT)
-- **U.S. Maritime** — Paul DeMond — **N251-016 Phase II** — continued engagement + work schedule notification (suggesting ongoing resource coordination)
-- **USSOCOM** — Evan Wolff — **RFI S0** — **CONTINUED HIGH-PRIORITY ENGAGEMENT** (marked IMPORTANT, multiple back-and-forths with Prendergast)
-- **QinetiQ** — Mike Rukin — **S0 Air Deployed UAS** — partnership inquiry response (Prendergast handling 23 Jul)
-- **NOAA Federal** — Amy McLiverty — **Delivery Order Status** — active coordination (response sent 23 Jul)
-- **University of California, Santa Cruz (UCSC)** — J. Xavier Prochaska — **Reconnecting** inquiry (partnership potential, Prendergast leading)
-- **EG Proposal Management** — Emmanuel Gorce — **DoW/DoD Topics** — external proposal support (08/19/2026 due date flagged)
+- **U.S. Navy / CNR Arlington** — Emilly Sanchez — **STTR Phase II Cost Proposal (N25A-T025)** — **ACTIVE NEGOTIATION**
+- **Air Force Research Lab (AFRL)** — Patents Workflow — **DD882 Contract (FA864924P0003)** — **ACTIVE SUBMISSION/COORDINATION**
+- **USSOCOM** — Evan Wolff — **RFI S0** — **CONTINUED HIGH-PRIORITY ENGAGEMENT** (marked IMPORTANT, multiple daily back-and-forths 24 Jul)
+- **U.S. Maritime** — Paul DeMond — **N251-016 Phase II** — continued engagement
+- **NOAA Federal** — Amy McLiverty — **Delivery Order Status** — active coordination
+- **University of California, Santa Cruz (UCSC)** — J. Xavier Prochaska — **Reconnecting** inquiry
+- **EG Proposal Management** — Emmanuel Gorce — **DoW/DoD Topics** — external proposal support (08/19/2026 due date)
+- **WeatherStream** — ERYAN Dai — **NASA Juno Proposal & L-band Drone Operations** — **NEW ACTIVE TECHNICAL PARTNERSHIP** (rapid cost estimate exchange 24 Jul, marked IMPORTANT)
+- **Atmolab** (Slovenia) — Jure Dolinar, Jošt Laznik, Matevž Poberžnik — **REX 110 Cold Weather Operations (-40 to -55°C)** — **NEW TECHNICAL COORDINATION** (marked IMPORTANT; likely hardware testing/validation partnership)
+- **QinetiQ** — Mike Rukin — **S0 Air Deployed UAS** — partnership inquiry response
+- **Department of Energy (DOE)** — **Proposal Declination 0000302243** — 24 Jul (impacts planned $10M SBIR/STTR opportunity; Beck received via Jack Elston)
+- **CE India** — Himanshu Nagpal — **Strategic Defence Technology Collaboration** — **NEW BUSINESS DEVELOPMENT INQUIRY** (unsolicited, marked for strategic partnerships)
 
 ## Topic Patterns
 
 ### Primary Projects/Programs (Updated)
 
 1. **Navy STTR Phase II (N25A-T025)** — **ACTIVE COST PROPOSAL NEGOTIATION**
-   - Emilly Sanchez (USN/CNR Arlington) engaged in rapid cost proposal iteration (3 emails 23 Jul)
-   - Beck responding same-day to clarifications/revisions
-   - Marked IMPORTANT; suggests critical funding/compliance discussion
-   - **Status:** Cost proposal phase — likely nearing final submission
+   - Status: Cost proposal phase — likely nearing final submission
 
 2. **AFRL DD882 Contract (FA864924P0003)** — **ACTIVE COMPLIANCE/SUBMISSION**
-   - Patents Workflow requesting responses (marked IMPORTANT, 23 Jul)
-   - Beck responding promptly (09:00, 12:58 responses)
-   - Indicates ongoing contract compliance or patent disclosure requirements
-   - **Status:** Submission/documentation phase
+   - Status: Submission/documentation phase
 
 3. **USSOCOM RFI S0** — **HIGH-PRIORITY CONTINUED ENGAGEMENT**
-   - Evan Wolff (USSOCOM) exchanging multiple emails marked IMPORTANT (23 Jul)
-   - Prendergast and Beck coordinating response
-   - **Status:** Active RFI cycle; government evaluation underway
+   - Evan Wolff and Prendergast exchanging marked IMPORTANT emails 24 Jul (11:40, 13:58, 15:31, 19:05 UTC)
+   - Status: Active RFI cycle; government evaluation underway with daily cadence
 
-4. **S0 Air Deployed UAS** — **PARTNERSHIP INQUIRY (QinetiQ)**
-   - Mike Rukin (QinetiQ) inquiry response being prepared (23 Jul)
-   - Prendergast coordinating with Beck
-   - **Status:** Business development phase
+4. **NASA Juno Proposal** — **NEW ACTIVE PROJECT** (identified 24 Jul)
+   - ERYAN Dai (WeatherStream) providing cost estimate requirements
+   - Beck rapidly responding to cost estimate requests (same-day 13:39, 13:58)
+   - Marked IMPORTANT (both incoming emails from Dai)
+   - Status: Cost estimation/proposal development phase
 
-5. **NASA SBIR Phase II (SBKR0288298)** — **Continued** (no new activity this batch)
+5. **L-band Drone Flights Over Lava** — **NEW TECHNICAL OPERATION**
+   - ERYAN Dai (WeatherStream) coordinating operational details
+   - Marked IMPORTANT
+   - Suggests real-world field operations/data collection component
+   - Status: Operational planning/execution phase
 
-6. **DOE $10M SBIR/STTR Phase I** — **Opportunity** (no new activity this batch)
+6. **REX 110 Cold Weather Operations (-40 to -55°C)** — **NEW HARDWARE VALIDATION**
+   - Atmolab (Slovenia-based) technical coordination (Prendergast leading)
+   - Marked IMPORTANT
+   - Indicates advanced hardware testing at extreme environmental conditions
+   - Status: Engineering/validation phase
 
-7. **HALO E2 Battery Project** — **Continued** (no new activity this batch)
+7. **S0 Air Deployed UAS** — **PARTNERSHIP INQUIRY (QinetiQ)**
+   - Status: Business development phase
 
-8. **U.S. Maritime N251-016 Phase II** — **ONGOING**
-   - Paul DeMond coordinating work schedule notification (23 Jul)
-   - Suggests resource planning/execution phase
-   - **Status:** Active contract execution
+8. **NASA SBIR Phase II (SBKR0288298)** — **Continued** (no new activity)
 
-9. **Project Albatross (Krateo Sky)** — **Continued** (no new activity this batch)
+9. **HALO E2 Battery Project** — **Continued** (no new activity)
 
-10. **MOSA Innovation Challenge** — **NEW PROJECT** (identified 23 Jul)
-    - Jack Elston assigned task to Beck via Asana
-    - Comment notification suggests collaborative development underway
-    - **Status:** Task/proposal development phase
+10. **Project Albatross (Krateo Sky)** — **Continued** (no new activity)
 
-11. **DoW/DoD Topics (EG Proposal Management)** — **UPCOMING DEADLINE**
-    - External proposal management engagement
-    - Due date: **08/19/2026** (26 days out)
-    - Suggests multi-proposal portfolio in active development
+11. **MOSA Innovation Challenge** — **NEW PROJECT TASK ASSIGNED**
+    - Maciej Stachura assigned Beck a task via Asana (24 Jul, 21:14 UTC)
+    - Status: Task/proposal development phase
 
-12. **UCSC Partnership** — **RECONNECTING INQUIRY**
-    - J. Xavier Prochaska (UCSC) responding to reconnection outreach
-    - Prendergast leading, Beck copied
-    - **Status:** Early partnership exploration
-
-13. **NASA Nancy Grace Roman Space Telescope Launch Event** — **EVENT REGISTRATION**
-    - Beck registered for Eventbrite event (23 Jul)
-    - Marked IMPORTANT
-    - Suggests personal/professional development interest in space telescope technology
-
-## Communication Patterns
-
-### Temporal Patterns
-- **Thursday 23 Jul:** Heavy government correspondence (Navy, AFRL, USSOCOM, NOAA) concentrated 09:00–15:00 and 19:00–22:00 UTC
-- **Same-day response pattern:** Beck responding within 2–6 hours to critical government items (Navy STTR, AFRL, USSOCOM marked IMPORTANT)
--
+12. **Proposal to Trenton [[001-07] S3 IRAD]** — **NEW PROJECT TASK**
+    - Maciej Stachura assigned via Asana (24 Jul, 21:14 UTC)
+    - S3 designation suggests internal R&D funding (IRAD = Independent Research & Development)
+    - Status: Proposal

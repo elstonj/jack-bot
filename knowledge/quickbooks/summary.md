@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** July 23–24, 2026 | **Data Range:** April 2024 – September 2026
+**Report Period:** July 24–25, 2026 | **Data Range:** April 2024 – September 2026
 
 ---
 
@@ -7,73 +7,79 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Period)** | $16,000.00 |
-| **Total Expenses (Period)** | $3,692.85 |
-| **Net Income (Period)** | $12,307.15 |
+| **Total Revenue (Invoiced)** | $4,556,365.64 |
+| **Total Expenses** | $1,457,657.87 |
+| **Net Income (Period)** | **-$18,905.79** |
+| **Overall Net Position** | **$3,084,106.16** |
 
-**Note:** Period figures are for July 23–24, 2026 only. Year-to-date and cumulative performance is substantially larger (see by-project breakdown).
+*Note: Period P&L shows negative income due to cost timing; overall position reflects Government project profitability offsetting BST Internal losses.*
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Government** | $4,533,471.28 | $1,431,565.47 | **+$3,101,905.81** | Highly profitable |
-| **BST Internal** | $22,894.36 | $1,288,393.94 | **-$1,265,499.58** | Cost center (R&D/infrastructure) |
+| Project | Revenue | Expenses | Net Position | Activity Level |
+|---------|---------|----------|--------------|-----------------|
+| **Government** | $4,533,471.28 | $1,449,365.12 | **+$3,084,106.16** | 77 invoices; high |
+| **BST Internal** | $22,894.36 | $1,306,240.75 | **-$1,283,346.39** | 5 transactions; minimal |
 
-**Sorted by total activity (Government first).**
-
-### Government Project Details
-- **Total Invoices:** 77 active invoices
-- **Outstanding A/R:** $3,267,160.82 (invoices with open balances)
-- **Purchase Orders Outstanding:** $832.00
-
-### BST Internal Project Details
-- **Total Transactions:** 1,303 (6 new in latest period)
-- **Invoiced Revenue:** $22,894.36
-- **Total Expenses:** $1,288,393.94
-  - Recent activity (July 23–30): +$10,647.99
-- **Purchase Orders Outstanding:** $1,700.00 (PO #1038, Amprius)
-- **Time Span:** 27+ months (Apr 2024 – Jul 2026)
-
----
-
-## Top Expenses (by Category, Current Period)
-
-| Category | Amount |
-|----------|--------|
-| Direct Material Purchases | $2,909.22 |
-| Shop Supplies | $423.79 |
-| Office Supplies | $53.82 |
-| IRAD (Internal R&D) | $306.02 |
+**Key Insight:** Government contracts are driving profitability. BST Internal operations are running at a significant loss (expenses 57× revenue).
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government Project A/R:** $3,267,160.82 (77 invoices with open balances)
-- **Total Outstanding:** $3.27M+ in billable work awaiting collection
+### Accounts Receivable (Outstanding Balances)
+- **Government:** $3,267,160.82 outstanding across 77 active invoices
+- **BST Internal:** Balance data incomplete; minimal invoice activity
+- **Total A/R:** ~$3.27M+ (collection risk on Government invoices)
 
-### Recent Large Activity
-- **BST Internal:** +$10,647.99 in new expenses (July 23–30, 2026)
-- **Pending Purchase Order:** $1,700.00 (Amprius, BST Internal)
+### Recent Large Expenses (July 24–25, 2026)
+- Direct Material Purchases: **$10,613.03**
+- Rent Expense (Facilities): **$7,198.87**
+- Shop Supplies: **$599.00**
+- Internal R&D: **$494.89**
+- **Period Total Expenses:** $18,905.79
 
-### Project Activity Assessment
-- **Government:** Active and ongoing (77 recent invoices)
-- **BST Internal:** Ongoing internal R&D and infrastructure; cumulative deficit position suggests R&D cost center
+### Outstanding Purchase Orders
+- **BST Internal:** $1,700.00 (PO #1038 – Amprius, outstanding)
+- **Government:** $832.00
+
+### Activity Status
+- **Government:** Active (27+ months of sustained transactions)
+- **BST Internal:** Minimal activity (5 transactions total; appears dormant or support-only)
+
+---
+
+## Top Vendors & Customers
+
+### Vendor Data
+*Specific vendor breakdown incomplete in provided data; largest recent spend: Direct Material Purchases ($10,613.03)*
+
+### Top Customers
+**Government contracts dominate revenue:**
+- 77 active invoices generating $4.53M
+- High concentration risk on single customer segment
 
 ---
 
 ## Unclassified Transactions
-No unclassified transactions noted in provided data. All transactions assigned to Government or BST Internal projects.
+
+- **Period P&L shows $0 Total Income** but $4.56M invoiced overall (timing mismatch)
+- Facilities expenses ($7,797.87) and R&D ($494.89) classified but not attributed to specific projects in provided data
+- $16,846.68 in new transactions (July 24–25) now integrated into project totals
 
 ---
 
-## Key Observations
+## Summary & Recommendations
 
-1. **Strong Government Contract Performance:** Net position of +$3.1M demonstrates profitable government work.
-2. **High A/R Balance:** $3.27M outstanding requires attention to collection and cash flow timing.
-3. **BST Internal as Cost Center:** -$1.27M cumulative position over 27 months indicates this project is funding internal R&D, facilities, and overhead—expected for an internal cost center.
-4. **Healthy Current Period:** July 23–24 period shows $12.3K net income on $16K revenue.
+✅ **Strengths:**
+- Government contracts generating $3.08M net profit
+- 77 active invoices indicate stable revenue pipeline
+- $3.27M in outstanding receivables (collection opportunity)
+
+⚠️ **Concerns:**
+- BST Internal losing $1.28M (expense control needed)
+- High A/R concentration risk on single customer
+- Minimal invoicing in current period despite $18.9K in expenses
+- Outstanding PO (Amprius, $1,700) requires monitoring

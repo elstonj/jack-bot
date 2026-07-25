@@ -1,6 +1,6 @@
 # [001-04] S0 VTOL IRAD
 
 Small project with 3 tasks.
-- [Open] Visual Observation Bench Test — Alex Lomis
-- [Open] Instrumented Bench Test — Alex Lomis
-- [Open] Instrumented Flight Test — Alex Lomis
+- [Open] ISR Payload — Unassigned
+- [Done] Determine Components of Interest and Logging Tools — Alex Lomis
+- [Done] Janet (1) — Alex Lomis

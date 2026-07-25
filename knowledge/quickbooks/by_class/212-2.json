@@ -4,14 +4,15 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-07-20",
-    "end": "2026-07-21"
+    "start": "2026-07-24",
+    "end": "2026-07-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 8.81,
+    "expenses": 113.18,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 8.81
+      "DIRECT COSTS:DC-Direct Material Purchases": 97.25,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.93
     }
   },
   "invoices": [],
@@ -19,19 +20,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-20",
-      "doc_number": "",
-      "total": 8.81,
-      "attributed": 8.81,
+      "date": "2026-07-24",
+      "doc_number": "0724JELSTON",
+      "total": 3516.81,
+      "attributed": 113.18,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "No Asana request - J. Fromm made directly purchase. Note provided via Slack:\"I somehow messed up the mcmaster order - anything that does not have a tag for project is in fact for s0 hurricane, all the other stuff is labeled correctly.\"",
       "lines": [
         {
-          "amount": 8.81,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment to Sean Cole for [212-2] NASA S2 Parts projects"
+          "amount": 2908.74,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ supplies for extra 13 S0s"
+        },
+        {
+          "amount": 113.18,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NASA S2 supplies"
+        },
+        {
+          "amount": 494.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SwiftStation supplies"
         }
       ]
     }

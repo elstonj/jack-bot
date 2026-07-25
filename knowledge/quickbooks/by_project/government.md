@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,533,471.28
-- **Total Expenses (Bills + Purchases):** $1,431,565.47
+- **Total Expenses (Bills + Purchases):** $1,449,365.12
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,101,905.81 (invoiced minus expenses)
+- **Net Position:** $3,084,106.16 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -82,62 +82,59 @@
 
 ---
 
-### **Materials & Supplies: $566,951.98**
-**Number of transactions:** 239  
+### **Materials & Supplies: $585,251.93**
+**Number of transactions:** 252  
+
+**New transactions (2026-07-24 to 2026-07-30):** $19,299.21
 
 **Key vendors & items:**
 
-- **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+ (pressure sensors, connectors, motors, electronics)
-  - **DKC*DIGI KEY CORP - 4617** (2026-06-17): $170.70 [DC-Direct Material Purchases]
-  - **DKC*DIGI KEY CORP - 4617** (2026-06-03): $38.57 [DC-Direct Material Purchases]
-  - **DKC*DIGI KEY CORP - 4617** (2026-06-01): $45.29 [DC-Direct Material Purchases]
-  - **DKC*DIGI KEY CORP - 4617** (2026-07-02): $66.92 [DC-Direct Material Purchases] — Extra AD parts
+- **Sensor/component purchases (Digikey, Mouser, Amazon):** ~$180,000+
+  - **DKC*DIGI KEY CORP - 4617** (2026-07-24): **$1,417.75** [DC-Direct Material Purchases] — IDIQ supplies for extra 13 S0s
+  - Previous Digikey transactions: $170.70, $38.57, $45.29, $66.92
 
 - **JAWSTEC:** 
-  - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases] — JAWSTEC components
-  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases] — JAWSTEC IDIQ components
-  - **Purchase #JT70002** (2026-07-20): **$2,500.33** [DC-Direct Material Purchases] — JAWSTEC materials
-  - **Updated JAWSTEC total: $24,077.99**
+  - **Purchase #70125** (2026-07-24): **$4,156.11** [DC-Direct Material Purchases] — Wire-cap-V475.step; Antenna-Shaft-Main.step; Elevator-servo-plug-V475.step (for extra 13 S0s IDIQ procurement)
+  - **Purchase #69825** (2026-07-09): $1,387.60 [DC-Direct Material Purchases]
+  - **Purchase #69631** (2026-06-29): $562.44 [DC-Direct Material Purchases]
+  - **Purchase #JT70002** (2026-07-20): $2,500.33 [DC-Direct Material Purchases]
+  - **Updated JAWSTEC total: $8,606.48**
 
 - **QuSpin, Inc. — Gen 2.0 QTFM Sensor:**
   - **Bill #3419** (2026-07-13): **$10,000.00** [DC-Direct Material Purchases] — Gen 2.0 QTFM Sensor
   - **Project:** [550-1] Navy SBIR Magnetometer
-  - *Note: High-value precision sensor component for magnetometer development*
 
-- **Amprius battery systems:** $28,637.13 (wire transfers, 01/06/26) + $399.00 (2026-04-29) + $399.00 (2026-05-01) + $399.00 (2026-05-14)
-  - **Total Amprius: $29,834.13**
+- **Amprius battery systems:** $29,834.13 total
 
 - **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (tariffs included)
 
-- **General electronics components:** ~$50,000+ (various suppliers)
+- **S0 Deployment Tubes & Hardware:**
+  - **Purchase #1010** (2026-07-30): **$8,355.00** [DC-Direct Material Purchases] — S0 Deployment Tubes & Hardware
+  - *Notable: High-value procurement for IDIQ extra 13 S0 units*
 
-- **Composite materials (thermoset laminates, tubes):** 
-  - **Northwind Composites:**
-    - $2,776.50 (2026-05-18, Thermoset Laminate Linen Tubes) [DC-Direct Material Purchases]
-    - $555.30 (2026-05-18, Direct materials) [DC-Direct Material Purchases]
-    - $832.95 (2026-05-18, Inventory asset for 6 future S0s)
-  - **Total composite materials direct costs: $3,331.80**
+- **Airframe & structural components (2026-07-24):**
+  - **Purchase #1817**: **$770.00** [DC-Direct Material Purchases] — 2ft parachute x 20; 10-pack 960lb soft link x 20 (for extra 13 S0s)
+  - **Purchase #TSS100030747**: **$182.50** [DC-Direct Material Purchases] — Acxess Spring PC092-1250-26000-HD-11708-CG-N-IN x 25
+  - **Purchase #90955**: **$209.91** [DC-Direct Material Purchases] — Clevis/Yoke Ends x 25 + Threaded Rods x 10
+  - **Purchase #156018**: **$341.18** [DC-Direct Material Purchases] — CAM Folding Prop 7 x 50
 
-- **Motors, brushless components:** $181.85 + $55.46
+- **Power systems (2026-07-24):**
+  - **Purchase #220440**: **$215.70** [DC-Direct Material Purchases] — Tattu 300mAh 2S 75C 7.6V Lipo Battery Pack x 30
 
-- **S0 wing components:** Multiple purchases totaling $12,200+
+- **Avionics/Electronics (2026-07-24):**
+  - **Purchase #10896**: **$254.75** [DC-Direct Material Purchases] — Cable Assemblies (CB1.17LL-IPX-MCMGT) x 25
+  - **Purchase #90955 (line 2)**: Includes electrical connectors/fasteners
 
-- **PCB boards, stencils, parts sourcing:** ~$30,000+
+- **Fasteners & small hardware (2026-07-24):**
+  - **Purchase #43.21**: **$43.21** [DC-Direct Material Purchases] — M2 x 50mm 304 Stainless Steel Phillips Round Head Screws x 3
 
-- **Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head** (2026-05-07): $479.80 [DIRECT COSTS] + $306.08 [Inventory Asset]
-  - **Direct Cost Materials & Supplies impact: $479.80**
+- **Additional IDIQ supply allocation (2026-07-24):**
+  - **Purchase #0724JELSTON**: **$3,516.81** [DC-Direct Material Purchases] total (multi-project)
+    - $2,908.74 — IDIQ supplies for extra 13 S0s
+    - $113.18 — NASA S2 supplies
+    - $494.89 — SwiftStation supplies (IRAD)
 
-- **Amazon MKTPL*4Z8IL5283** (2026-06-29): $34.59 [DC-Direct Material Purchases] — 64GB PNY Elite-X Fit USB 3.1 Flash Drive
+- **Composite materials, PCB boards, general electronics:** ~$30,000+
 
-- **Maxmoral 3PCS DC-099 DC Power Socket** (2026-07-09): $6.99 [DC-Direct Material Purchases]
-
-- **Recent transactions (2026-06-24 to 2026-07-30):**
-  - **Purchase #0624JELSTON** (2026-06-24): $23.51 [DC-Direct Material Purchases]
-    - $2.58 — By Light Supplies
-    - $20.93 — Navy Magnetometer
-  
-  - **Purchase #0622JELSTON** (2026-06-24): $1,281.98 [DC-Direct Material Purchases] — supplies for [550-1] Navy Magnetometer
-
-  - **Purchase #009799** (2026-06-24): $48.19 [DC-Direct Material Purchases]
-
-  - **Purchase #0625JELSTON** (2026
+- **Previous major purchases:**
+  - Northwind

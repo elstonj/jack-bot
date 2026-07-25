@@ -29,27 +29,27 @@
         "amount": 2968.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-24"
+        "last_updated": "2026-07-25"
       },
       "purchases": {
         "amount": 26166.92,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-24"
+        "last_updated": "2026-07-25"
       },
       "other_qbo": {
-        "amount": 8.81,
+        "amount": 113.18,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-21"
+        "last_updated": "2026-07-25"
       },
-      "total": 29144.48,
+      "total": 29248.85,
       "by_line_item": {}
     },
     "committed": 9490.32,
-    "remaining": 51209.2,
+    "remaining": 51104.83,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-24T09:01:33Z"
+    "last_reconciled": "2026-07-25T09:04:09Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -76,6 +76,6 @@
       "text": "Jack Bot: 1 update(s) from Slack #commercial-sales (thread reply):\n  - notes → Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning and transport logistics (2026-05-21); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Settlement agreement p"
     }
   ],
-  "last_full_rebuild": "2026-07-24T09:01:33Z",
+  "last_full_rebuild": "2026-07-25T09:04:09Z",
   "last_incremental_update": null
 }
