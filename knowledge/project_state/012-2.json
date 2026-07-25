@@ -29,7 +29,7 @@
         "amount": 8581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-24"
+        "last_updated": "2026-07-25"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6439.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-24T09:01:00Z"
+    "last_reconciled": "2026-07-25T09:03:38Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -72,6 +72,24 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
+      "date": "2026-07-24",
+      "text": "From Maciej (ts=1784927323.528149): I made a Portfolio for the Product Pillar for now (<https://app.asana.com/0/portfolio/1216863304066771/1216865943574696|app.asana.com/0/portfolio/1216863304066771/1216865943574696>). I've pulled in the Asana projects for S0-IRAD, S0 VTOL IRAD, S3 IRAD, and Albatross IRAD into these. I'm going to edit/update these projects to mostly just have tasks associated with the Industrial Plan IRAD and deliverables for that and slowly move other stuff out of it (like cus"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-07-24",
+      "text": "From Maciej: I made a Portfolio for the Product Pillar for now (<https://app.asana.com/0/portfolio/1216863304066771/1216865943574696|app.asana.com/0/portfolio/1216863304066771/1216865943574696>). I've pulled in the Asana projects for S0-IRAD, S0 VTOL IRAD, S3 IRAD, and Albatross IRAD into these. I'm going to edit/update these projects to mostly just have tasks associated with the Industrial Plan IRAD and deliverables for that and slowly move other stuff out of it (like customer delivery mileston"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-07-24",
+      "text": "From Maciej (ts=1784822671.850029): OK, just for clarity sounds like the plan is to have 4 new Views (I assume like the current \"Active Projects\", \"Business Operations\", etc) for each Pillar of the Industrial Plan. I'll probably start with the Product development one since that has the easiest division of Projects inside of it. I think we already have S3 IRAD, S0 IRAD, S0-VTOL IRAD so the only new project ID we'll need <@U06KRHPQSRH> is \"Albatross\""
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
       "date": "2026-07-23",
       "text": "From Maciej: OK, just for clarity sounds like the plan is to have 4 new Views (I assume like the current \"Active Projects\", \"Business Operations\", etc) for each Pillar of the Industrial Plan. I'll probably start with the Product development one since that has the easiest division of Projects inside of it. I think we already have S3 IRAD, S0 IRAD, S0-VTOL IRAD so the only new project ID we'll need <@U06KRHPQSRH> is \"Albatross\""
     },
@@ -82,6 +100,6 @@
       "text": "Jack Bot: 1 update(s) from Slack #commercial-sales (thread reply):\n  - notes → Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning and transport logistics (2026-05-21); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Settlement agreement p"
     }
   ],
-  "last_full_rebuild": "2026-07-24T09:01:00Z",
+  "last_full_rebuild": "2026-07-25T09:03:38Z",
   "last_incremental_update": null
 }

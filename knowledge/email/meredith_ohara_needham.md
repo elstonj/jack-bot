@@ -1,97 +1,103 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,716 emails (1,662 previous + 54 from Jul 23–24)
-- **Date range:** June 15–July 24, 2026 (40 days)
-- **Approximate volume:** ~42.9 emails/day
-- **Trend:** **Sustained ultra-high-velocity; federal contract execution phase (AFRL SBIR/STTR + NOAA); DCAA accounting system design audit escalation (NEW — Alexandra N. Wilcox CIV DCAA AIR direct notification); S0/S2/S3 product development cycles accelerating; precision manufacturing orders (Protolabs, SendCutSend); component procurement critical path (FTDI, DigiKey, Kestrel); travel cancellations resolved (United refunds processed); HR coordination continuing**
+- **Total messages scanned:** 1,782 emails (1,716 previous + 66 from Jul 24–25)
+- **Date range:** June 15–July 25, 2026 (41 days)
+- **Approximate volume:** ~43.5 emails/day
+- **Trend:** **Sustained ultra-high-velocity; federal contract execution phase continuing (AFRL SBIR/STTR + NOAA); DCAA accounting system design audit active; multi-platform product cycles (S0/S2/S3) accelerating; component procurement critical path intensifying; precision manufacturing orders ramping; HR/payroll coordination; facilities/logistics management**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 24)
+### Incoming (by frequency — updated through Jul 25)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **800+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **850+ cumulative messages**
    
-   **Recent Activity (Jul 23–24):**
+   **Recent Activity (Jul 24–25):**
    
-   **Manufacturing & Precision Orders (Jul 23–24):**
-   - **Protolabs** — Order manufacturing cycle active
-     - Order 6794-871 received confirmation (Jul 23, 18:40:42 UTC) [CATEGORY_FORUMS]
-     - Order ready for manufacturing notification (Jul 23, 20:27:54 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Meredith action:** Tax exempt certificate submitted (Jul 23, 12:41:07 CDT) [SENT]
-     - **Significance:** Precision injection molding/CNC cycle; tax-exempt status filed
+   **Manufacturing & Precision Orders (Jul 24–25):**
+   - **McMaster-Carr** — Multiple order cycle confirmations (Jul 24–25)
+     - Order confirmation (Jul 24, 15:44:42 CDT) [CATEGORY_UPDATES]
+     - Certificates & tracking (Jul 24, 18:06:32 CDT) [CATEGORY_UPDATES]
+     - Receipt for July 24th order (Jul 25, 03:14:33 CDT) [UNREAD, CATEGORY_UPDATES]
+     - **Significance:** High-velocity industrial component procurement; tax-exempt certificates issued
    
-   - **Kestrel/Nielsen-Kellerman** — Confirmation received (Jul 23, 16:10:29 UTC) [CATEGORY_FORUMS]
-     - Routed to `purchasing@blackswifttech.com` via Jack Elston
-     - **Significance:** Meteorological instruments (consistent with environmental sensor payload)
+   - **DigiKey** — Ongoing shipments & PO acknowledgments (Jul 24–25)
+     - Invoice 129575362 shipment confirmation (Jul 24, 21:08:22 CDT) [UNREAD, CATEGORY_FORUMS]
+     - PO acknowledgement for Salesorder #100607181 (Jul 24, 16:17:01 CDT) [CATEGORY_FORUMS]
+     - Order confirmation (Jul 24, 16:16:06 CDT) [CATEGORY_FORUMS]
+     - **Significance:** Critical component supply chain; active backorder management
    
-   - **DigiKey** — PO acknowledgment + backorder notices (ongoing)
-     - PO #100576268 acknowledged (Jul 23, 12:34:29 CDT) [CATEGORY_FORUMS]
-     - SalesorderID 100222302 backorder change notices (Jul 23, 05:15:45 & 05:33:43 CDT) [CATEGORY_FORUMS]
-     - **Meredith action:** Forwarded to Joshua Fromm (Jul 23, 09:58:37 CDT) [SENT]
-     - **Significance:** Critical component supply chain management; Joshua Fromm engaged on backorder resolution
+   - **JawsTec Manufacturing LLC** — New precision order cycle (Jul 24)
+     - Order #70125 received notification (Jul 24, 19:45:29 UTC) [CATEGORY_UPDATES]
+     - Payment request routed (Jul 24, 19:48:30 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Precision manufacturing vendor active in BOM cycle
    
-   **Travel & Logistics (Jul 23–24):**
-   - **United Airlines refunds** — 2 refund request confirmations (Jul 24, 05:48:30 & 05:10:48 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Travel cancellation fully processed; funds returned
+   - **Rocketman Parachutes Store** — Order #1817 confirmed (Jul 24, 20:54:46 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Recovery system component (parachute); indicates flight test hardware integration
    
-   - **FedEx Tracking** — Ongoing delivery updates
-     - Shipment 874700664011 scheduled delivery (Jul 23, 05:17:13 CDT) [CATEGORY_FORUMS]
-     - Estimated delivery updated (Jul 23, 04:55:55 CDT) [CATEGORY_FORUMS]
-     - Out for delivery (Jul 24, 01:24:09 CDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Hardware inbound; tracking consistent across 2+ days
+   - **HeliDirect** — 2x ISDT X16 Smart Charger purchase (Jul 25, 04:07:21 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Multi-unit battery charging infrastructure; compatible with LiPo/multi-cell systems (consistent with UAS power systems)
    
-   **Promotional & Operational (Jul 23–24):**
-   - **Harbor Freight** — Promotional sequence continuing
-     - Day 8 of 10-day pressure washer promotion (Jul 24, 05:10:48 UTC) [UNREAD, CATEGORY_FORUMS]
-     - In-store purchase offer (Jul 24, 07:20:27 UTC) [UNREAD, CATEGORY_FORUMS]
+   - **Amazon.com** — Hardware shipment (Jul 25, 03:33:36 UTC) [UNREAD, CATEGORY_FORUMS]
    
-   - **Spindrift Customer Support** — Subscription order creation (Jul 24, 04:04:16 & 04:04:17 UTC) [UNREAD, CATEGORY_UPDATES]
-     - Duplicate notice (same timestamp)
+   - **Powerwerx** — Quote 3176630 (Jul 24, 20:36:26 UTC) [CATEGORY_FORUMS, INBOX]
+     - **Significance:** Power distribution/conversion vendor; quote phase active
    
-   - **Driftaway Coffee** — Loyalty points earned (Jul 23, 23:02:37 UTC) [UNREAD, CATEGORY_UPDATES]
+   - **The Spring Store by Acxess Spring** — New order #TSS100030747 (Jul 24, 15:53:08 UTC) [CATEGORY_FORUMS]
    
-   - **Budget Rental** — Promotional reminder (Jul 23, 17:08:49 CDT) [UNREAD, CATEGORY_FORUMS]
+   - **RFmall** — Order received (Jul 24, 15:34:05 UTC) [CATEGORY_FORUMS]
+   
+   - **iCarus/Icarus Tech** — Order #IC-156018 (Jul 24, 15:28:33 UTC) [UNREAD, CATEGORY_FORUMS]
+   
+   - **GensTattu** — Order #220440 confirmation (Jul 24, 15:41:15 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Battery manufacturer (Tattu brand); LiPo/LiHv batteries for UAS platforms
+   
+   - **Grepow, Inc.** — PayPal transaction $215.70 USD (Jul 24, 08:41:38 PDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Specialized battery cells/packs (high-performance energy storage)
+   
+   - **Midwest Control Products Corp** — Order 90955 confirmation (Jul 24, 10:47:23 CDT) [CATEGORY_FORUMS]
+   
+   - **Lighthorse Technologies** — Receipt $254.75 USD (Jul 24, 15:34:03 UTC) [CATEGORY_FORUMS]
+
+   **Travel & Logistics (Jul 24–25):**
+   - **Budget Rent A Car** — Reservation confirmations (Jul 24–25)
+     - Reservation confirmation #00576426US4 at TPA (Jul 24, 14:18:06 CDT) [CATEGORY_UPDATES]
+     - Reservation reminder (Jul 25, 00:14:02 CDT) [UNREAD, CATEGORY_UPDATES]
+     - **Significance:** Tampa International Airport; ground logistics for team travel
+   
+   - **Home2 Suites by Hilton** — Confirmation #88356257 for Jul-26-2026 (Jul 24, 20:11:00 UTC) [CATEGORY_FORUMS, INBOX]
+     - **Meredith action:** Forwarded to Alex Lomis (Jul 24, 14:12:38 CDT) [SENT]
+     - **Significance:** Multi-night hotel reservation; coordination with team member
+   
+   - **ShipRush** — Shipment tracking (Jul 24, 18:11:13 UTC) [CATEGORY_FORUMS, INBOX]
+   
+   - **Xcel Energy** — Upcoming bill reminder (Jul 24, 19:36:08 CDT) [UNREAD, CATEGORY_FORUMS]
+   
+   - **FedEx** — (Continuing from prior period)
+
+   **Promotional & Operational (Jul 24–25):**
+   - **Driftaway Coffee** — Shipment notification for order #DR33999COF (Jul 24, 08:26:07 UTC) [UNREAD, CATEGORY_UPDATES]
+     - Purchase review (Jul 24, 22:07:49 UTC) [UNREAD, CATEGORY_UPDATES]
+   
+   - **Harbor Freight** — Day 9 of 10-day deals (Jul 25, 04:46:06 UTC) [UNREAD, CATEGORY_FORUMS]
 
 ---
 
-2. **FEDERAL CONTRACTS & COMPLIANCE (CRITICAL — ESCALATION):**
+2. **FEDERAL CONTRACTS & COMPLIANCE (CRITICAL — ACTIVE EXECUTION):**
 
-   **A. DCAA Pre-Award Audit — ACCOUNTING SYSTEM DESIGN (ESCALATION — NEW):**
-   - **Alexandra N. Wilcox CIV DCAA AIR (USA)** — `alexandra.n.wilcox.civ@mail.mil` [NEW AUDITOR, DIRECT]
-     - Initial notification: "Notification to Examine Black Swift Technologies (CAGE: 6PGF9) Accounting System Design" (Jul 24, 00:22:22 UTC) [UNREAD, IMPORTANT, INBOX]
-     - **Jack Elston response** (Jul 23, 22:18:20 CDT) [UNREAD, IMPORTANT, INBOX]
-     - **Significance:** Direct DCAA auditor engagement; focus shifted from preliminary info to accounting system design audit; Jack Elston (CEO/leadership) responding directly; likely 30-day examination window
+   **A. DCAA Pre-Award Audit — Continuing (ACTIVE):**
+   - **Alexandra N. Wilcox CIV DCAA AIR (USA)** — `alexandra.n.wilcox.civ@mail.mil`
+     - (Notification from prior period Jul 24, 00:22:22 UTC continues)
+     - **Status:** 30-day examination window active; Jack Elston (CEO) responding directly
    
    **B. AFRL SBIR/STTR Patent Workflow (ACTIVE):**
    - **AFRL/RGK Patents Workflow** — `AFRL.RGK.PatentsWorkflow@us.af.mil`
-     - DD882 form exchanges (Contract FA864924P0003)
-     - Initial notification (Jul 23, 14:02:38 UTC) [IMPORTANT]
-     - AFRL follow-up (Jul 23, 18:11:27 UTC) [IMPORTANT]
-     - Beck Cotter responses (Jul 23, 09:00:05 & 12:58:06 CDT) [IMPORTANT]
-     - Non-DoD source flag noted in thread (Jul 23, 12:58:09 CDT) [IMPORTANT]
-     - **Significance:** Patent assignment/disclosure workflow active; Beck Cotter (likely VP/technical lead) engaged; non-DoD component/supplier compliance tracking
+     - (DD882 form exchanges continue from prior period)
+     - Beck Cotter managing technical compliance
    
-   **C. NOAA Federal Awards (ACTIVE — GROUND STATION DEPLOYMENT):**
-   - **Amy McLiverty (NOAA Federal)** — `amy.l.mcliverty@noaa.gov`
-     - New Delivery Order/Upcoming thread (Jul 23, 10:50:26 CDT) [YELLOW_STAR, IMPORTANT, STARRED, INBOX]
-     - **Beck Cotter response:** "Re: New Delivery Order/Upcoming" (Jul 23, 10:50:26 CDT) [IMPORTANT]
-     - **Significance:** Ground station hardware delivery schedule active; Beck Cotter managing NOAA Federal relationship
-
----
-
-3. **PRODUCT DEVELOPMENT & TECHNICAL (CRITICAL — MULTI-PLATFORM CYCLE):**
-
-   **A. S3 Platform (Parts Procurement — NEW DETAIL):**
-   - **Sean Cole (Phase 1 AV)** — `sean@phase1av.com`
-     - "Additional S3 parts order" thread (Jul 23, 18:16:57 & 20:51:50 UTC) [IMPORTANT]
-     - **Joshua Fromm** initiates; Meredith & Joshua CC'd
-     - **Significance:** External vendor (Phase 1 AV — likely avionics/integration) managing S3 BOM expansion; multi-part order sequence active
-   
-   **B. S2 Platform (Academic Collaboration):**
-   - **Tanay Topac (Stanford SACL)** — `tanaytopac@stanford.edu`
-     - "S2 CAD request | Stanford
+   **C. NOAA Federal Awards & AFWERX (ACTIVE):**
+   - **noreply-salesforce@afwerx.af.mil** — Correction notification (Jul 24, 18:36:30 GMT) [RECEIVED]

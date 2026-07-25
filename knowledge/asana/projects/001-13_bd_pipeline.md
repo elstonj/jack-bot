@@ -7,7 +7,7 @@
   - **Recently Closed**: Westlake Corporation (order completed 2026-07-06)
   - **Archived**: Supercool Earth, Nexus Weather
 
-- **Dollar value**: $0.00 (persistent custom field data integrity issue). Historical pipeline: $2.3M+ with multiple six-figure opportunities. Current tracked quote: University of North Dakota $18,000. **CRITICAL: $5M goal by end of 2025 is now SIGNIFICANTLY OVERDUE (target passed; achievement status unknown; no reset date provided as of June 26, 2026 status update).**
+- **Dollar value**: $0.00 (persistent custom field data integrity issue). Historical pipeline: $2.3M+ with multiple six-figure opportunities. Current tracked quote: University of North Dakota $18,000. **CRITICAL: $5M goal by end of 2025 is SIGNIFICANTLY OVERDUE (target passed; achievement status unknown; no reset date provided).**
 
 - **Timeline**: 
   - Most recent activity: 2026-07-22 (University of North Dakota quote sent; solicitation closing date 2026-07-22)
@@ -40,10 +40,11 @@
 - **Last Contact**: 2025-04-14 (16+ months stale)
 - **Critical Action**: Immediate contact required to confirm procurement status and re-establish engagement
 
-**NextTech Solutions – S3 Arctic** 
+**NextTech Solutions – S3 Arctic**
 - **Primary Contact**: Trenton McKibbon | Trenton.mckibben@nexttechsol.com
-- **Customer**: NextTech Solutions
+- **Customer**: Next Tech Solutions
 - **Partner**: Joint Forces Command
+- **Product**: S3
 - **Requirement**: 120km range (or 1h 35min TOF); EO/IR gimbal; small/light payload with battery padding
 - **Status**: Demos pending
 - **Last Contact**: 2026-03-17 (16+ months stale)
@@ -52,9 +53,13 @@
 
 **University of North Dakota – S0 VTOL (NSF CAREER Proposal)**
 - **Primary Contact**: Jacob Carstens | jacob.carstens@und.edu
-- **Purpose**: NSF Faculty Early Career Development Program proposal; investigating tornado environments in tropical cyclones; Hurricane Hunter missions for deploying dropsondes and instrumentation
-- **Status**: Quote sent 2026-07-22; **Solicitation closing date 2026-07-22 (AT OR PASSED)**
+- **Customer**: University of North Dakota
+- **Product**: S0 VTOL
+- **Purpose**: NSF Faculty Early Career Development Program proposal; investigating tornado environments in tropical cyclones before they make landfall; Hurricane Hunter missions for deploying dropsondes and instrumentation ahead of rainbands
+- **Opportunity Source**: Quote for proposal
+- **Quote Status**: Sent 2026-07-22
 - **Estimated Value**: $18,000
+- **Solicitation Closing Date**: 2026-07-22 (AT OR PASSED)
 - **Assigned**: Beck Cotter
 - **Last Contact**: 2026-07-22
 - **Coordinated With**: NOAA Hurricane Field Program
@@ -74,6 +79,4 @@
 
 **Embry-Riddle Aeronautical University – S0 VTOL**
 - **Status**: Grant-dependent; estimate updates pending from Jack Elston
-- **Potential**: 4 additional S0 units if grant approved
-- **Last Contact**: June 12, 2024 (24+ months stale)
-- **
+- **Potential**:

@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,288,393.94 *(+$10,647.99 from July 23–30, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,306,240.75 *(+$16,846.68 from July 24–25, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,265,499.58 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,283,346.39 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,303 *(+6 new confirmed transactions)*
+- **Transaction Count**: 1,308 *(+5 new confirmed transactions)*
 
 ---
 
@@ -40,50 +40,58 @@
 
 ---
 
-### Materials & Direct Purchases: $527,671.65
-**Total: $527,671.65** | **84 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $531,886.54
+**Total: $531,886.54** | **87 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**New Transactions (July 23, 2026):**
+**New Transactions (July 24–25, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| Purchase #0724JELSTON (Line 1) | 2026-07-24 | $2,908.74 | DC-Direct Material Purchases | IDIQ supplies for extra 13 S0s (S0 Hurricane variant) | ✓ Confirmed |
+| Purchase #0724JELSTON (Line 2) | 2026-07-24 | $113.18 | DC-Direct Material Purchases | NASA S2 supplies | ✓ Confirmed |
 | Purchase #ST61Q172 | 2026-07-23 | $1,312.95 | DC-Direct Material Purchases | Navy Magnetometer supplies ($112.41) + NOAA IDIQ supplies ($1,200.54) | ✓ Confirmed |
 
-**July 23 Direct Material Additions**: $1,312.95 (2 line items)
-- **Navy Magnetometer supplies** ($112.41): Direct materials for Navy contract sensor component sourcing
-- **NOAA IDIQ supplies** ($1,200.54): Direct materials for NOAA Indefinite Delivery/Indefinite Quantity contract fulfillment
+**July 24–25 Direct Material Additions**: $3,021.92 (3 line items)
 
-**Transaction Context**: 
-- **Procurement Authority**: A. Lomis placed order due to M. Needham illness; order marked as urgent/time-sensitive
-- **Project Allocation**: Multi-project breakdown provided by A. Lomis in supporting documentation
-- **Strategic Significance**: Navy and NOAA contract support indicates active customer procurement pipeline execution during post-demo operational phase
+**Transaction Details**:
+- **IDIQ supplies for S0 Hurricane (July 24, $2,908.74)**: Direct materials supporting production scaling for 13 additional S0 VTOL units in Hurricane configuration
+  - **Procurement Authority**: J. Fromm (direct McMaster order; no formal Asana requisition)
+  - **Project Allocation**: Untagged line items originally classified as SwiftStation but clarified via Slack as S0 Hurricane materials
+  - **Strategic Context**: Indicates customer order or production commitment for 13-unit S0 batch with accelerated procurement
+  - **Quality Note**: Order sourcing issue acknowledged by J. Fromm; materials cross-checked and project-allocated via Slack communication
+  
+- **NASA S2 supplies (July 24, $113.18)**: Direct materials for S2 production-scaling variant component sourcing
+  - **Procurement Authority**: J. Fromm (McMaster order)
+  - **Program Context**: NASA contract support materials; part of same corrected procurement batch
+  - **Significance**: Indicates concurrent S2 production-scaling activity alongside S0 Hurricane expansion
 
-**Cumulative Direct Material Activity (July 2026)**: $1,312.95
+- **Navy Magnetometer + NOAA IDIQ supplies (July 23, $1,312.95)** [*previously reported; reconfirmed*]: Navy contract sensor components and NOAA Indefinite Delivery/Indefinite Quantity contract fulfillment
+
+**Cumulative Direct Material Activity (July 2024–30)**: $4,334.87
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $98,141.00
-**Total: $98,141.00** | **116 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
+### IRAD Indirect R&D (Subcontractors & Internal): $98,961.26
+**Total: $98,961.26** | **119 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
 
-**New Transactions (July 23–30, 2026):**
+**New Transactions (July 24–25, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #ST61Q172 | 2026-07-23 | $191.47 | IRAD-Internal Research and Development | SwiftStation IRAD supplies | ✓ Confirmed |
-| Purchase #100576268 | 2026-07-23 | $114.55 | IRAD-Internal Research and Development | S3 extra parts for power board fix | ✓ Confirmed |
+| Purchase #0724JELSTON (Line 3) | 2026-07-24 | $494.89 | IRAD-Internal Research and Development | SwiftStation supplies | ✓ Confirmed |
 | Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
+| Purchase #100576268 | 2026-07-23 | $114.55 | IRAD-Internal Research and Development | S3 extra parts for power board fix | ✓ Confirmed |
+| Purchase #ST61Q172 | 2026-07-23 | $191.47 | IRAD-Internal Research and Development | SwiftStation IRAD supplies | ✓ Confirmed |
 
-**July 23–30 IRAD Additions**: $325.71 (3 transactions)
-- **SwiftStation IRAD supplies** ($191.47): R&D component procurement for SwiftStation subsystem development; included in multi-project allocation order
-- **S3 power board repair parts** ($114.55): Digi-Key Corp procurement; critical fix for S3 extra parts inventory (post-demo field operations support)
-- **S3 fulfillment logistics** ($19.69): Third-party pick-up fee reconciliation (24-day lag from July 6 shipment to Sean Cole)
+**July 24–25 IRAD Additions**: $514.58 (1 new transaction)
 
-**Strategic Context**: 
-- S3 power board repair sourcing indicates customer support/field operations logistics post-demo
-- SwiftStation component sourcing suggests concurrent R&D pipeline development
-- Logistics cost capture on fiscal month-end (7/30) aligns with third-party fulfillment partner reconciliation process
+**Transaction Details**:
+- **SwiftStation supplies (July 24, $494.89)**: R&D component procurement for SwiftStation subsystem development
+  - **Procurement Authority**: J. Fromm (McMaster order; part of corrected batch with untagged line items)
+  - **Project Allocation**: Included in multi-project allocation order; clarified via Slack as SwiftStation-specific R&D materials
+  - **Strategic Context**: Concurrent with S0 Hurricane and S2 production scaling procurement; indicates parallel R&D pipeline advancement
 
-**Cumulative IRAD Activity (July 2026)**: $2,259.10 *(including prior 7/21 transactions)*
+**Cumulative IRAD Activity (July 2024–30)**: $2,774.68 *(including prior 7/21 and 7/23 transactions)*
 
 ---
 
@@ -108,39 +116,40 @@
 
 ---
 
-### Facilities & Shop Supplies: $111,249.10
-**Total: $111,249.10** | **68 transactions** | **Rent: $60,516.58 (10 txns); Shop Supplies/Software/Office Equipment: $39,720.22; Server Infrastructure: $10,710.62; Office Supplies: $53.82; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31**
+### Facilities & Shop Supplies: $123,397.99
+**Total: $123,397.99** | **73 transactions** | **Rent: $67,714.45 (11 txns); Shop Supplies/Software/Office Equipment: $41,533.86; Server Infrastructure: $10,710.62; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00**
 
-**New Transactions (July 23–30, 2026):**
+**New Transactions (July 24–25, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase (misc.) | 2026-07-23 | $78.08 | FA-Office/Shop Supplies | Batteries for shop ($24.26) + Brita filters/toilet paper ($53.82) | ✓ Confirmed |
-| Purchase #10000037741 | 2026-07-23 | $399.53 | FA-Shop Supplies | Kestrel 5500 Weather Meter | ✓ Confirmed |
+| Bill | 2026-07-24 | $7,198.87 | FA-Rent Expense | August 2026 rent (W. W. Reynolds; billing system error noted) | ✓ Confirmed |
+| Purchase | 2026-07-24 | $599.00 | FA-Shop Supplies | Thermal Master Thor001 Thermal Camera | ✓ Confirmed |
 | Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 | ✓ Confirmed |
 
-**July 23–30 Facilities Additions**: $5,832.92 (3 transactions)
+**July 24–25 Facilities Additions**: $13,153.18 (3 transactions)
 
 **Transaction Details**:
-- **Shop Consumables (July 23, $78.08)**: Routine facility maintenance
-  - Batteries for shop equipment ($24.26)
-  - Brita water filtration + office supplies/restroom supplies ($53.82)
-- **Kestrel 5500 Weather Meter (July 23, $399.53)**: Professional-grade weather monitoring equipment
-  - **Requestor/Approver**: J. Elston (verbal authorization)
-  - **Specification**: Portable meteorological station; measures wind, temperature, humidity, barometric pressure, altitude
-  - **Strategic Use**: Field operations support (likely demo-related), weather-dependent flight test validation, environmental monitoring for S3/S0 VTOL operations
-- **Ryze AI Max+ Server (July 30, $5,355.31)**: High-spec dual-processor office infrastructure
-  - **Requestor**: Ben Busby (via Slack request to Jack Elston)
-  - **Specification**: Dual-processor with 128GB total memory (64GB x 2)
-  - **Flag**: High-priority infrastructure investment on fiscal month-end; indicates urgent compute capacity gap identified during demo phase
-  - **Strategic Support**: GCS (Ground Control Station) redesign simulation, S3/S0 VTOL flight model processing (CFD, trajectory analysis), live telemetry/sensor data pipeline, investor due diligence analysis, SwiftStation subsystem modeling
 
-**Strategic Context**:
-- Weather meter acquisition (7/23) aligns with field operations ramp-up post-Ottawa demo
-- Server acquisition (7/30) supports post-demo analysis, engineering redesign, and investor engagement workflows
-- Fiscal month-end timing suggests planned infrastructure expansion following successful customer demo execution
+- **W. W. Reynolds August 2026 Rent (July 24, $7,198.87)**: Facility lease payment
+  - **Vendor**: W. W. Reynolds Companies
+  - **Period**: August 2026 (charged on 7/24)
+  - **Flag**: Amy Smith (Reynolds) confirmed accounting system migration in progress; potential billing errors may occur
+  - **Implications**: Verify August billing matches original lease agreement terms; monitor for duplicate charges during system changeover
+  - **Cumulative Rent (2026 YTD)**: $43,200.00 (6 payments: Jan–Mar $6,000 ea., Apr–Jul $7,200 ea.); **FY2025 total rent was $24,168.58 (4 payments)**; indicates **+197% rent increase** (facility expansion/upgrade)
 
-**Cumulative Facilities Spend (July 2026)**: $5,832.92
+- **Thermal Master Thor001 Thermal Camera (July 24, $599.00)**: Professional-grade infrared thermography equipment
+  - **Requestor/Approver**: J. Elston (via Slack request)
+  - **Specification**: Fixed thermal imaging camera for temperature monitoring/diagnostics
+  - **Probable Applications**: 
+    - S3/S0 VTOL motor/battery thermal monitoring during flight test validation
+    - Ground test thermal diagnostics (power systems, flight envelope margin analysis)
+    - Propulsion system thermal characterization pre-demo and post-demo refinement
+  - **Strategic Context**: Aligns with July 23 Kestrel weather meter acquisition; indicates expanded field operations instrumentation capability post-Ottawa demo
+
+- **Ryze AI Max+ Server (July 30, $5,355.31)** [*reconfirmed*]: High-spec dual-processor office infrastructure supporting post-demo analysis workflows
+
+**Cumulative Facilities Spend (July 2024–30)**: $13,153.18
 
 ---
 
@@ -150,32 +159,3 @@
 *(No new transactions in this reporting period)*
 
 ---
-
-### General & Administrative (Legal, Tariffs, Utilities, Accounting): $46,530.14
-**Total: $46,530.14** | **8 transactions** | **Largest: KO Law PC Investment Transaction $44,964.50**
-
-*(No new transactions in this reporting period)*
-
----
-
-### Fringe Benefits (Retirement Contributions & Healthcare): $18,269.53
-**Total: $18,269.53** | **5 transactions** | **Largest: Employee Healthcare $11,237.97 (includes Q2 2026 payment)*
-
-*(No new transactions in this reporting period)*
-
----
-
-## Purchase Orders
-| PO # | Date | Vendor | Amount | Description | Status |
-|------|------|--------|--------|-------------|--------|
-| #1038 | TBD | Amprius | $1,700.00 | [Details pending] | **Outstanding** |
-
----
-
-## Monthly Spend by Category
-
-### July 2026 Summary (July 23–30)
-| Category | Amount | Transactions | Notes |
-|----------|--------|--------------|-------|
-| Direct Materials | $1,312.95 | 2 | Navy Magnetometer + NOAA IDIQ contract fulfillment supplies |
-| IRAD R&D | $325.71 | 3 | SwiftStation components

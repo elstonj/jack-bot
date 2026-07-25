@@ -1,40 +1,44 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 188.3 hours
+- **Total hours tracked:** 196.7 hours
 - **Primary projects:** 
-  1. Unassigned/None (101.5 hours, 53.9%)
-  2. [300-3] 2026 IDIQ (Hurricane) (40.9 hours, 21.7%)
-  3. [550-1] Navy SBIR: Magnetometer (21.1 hours, 11.2%)
-  4. [001-07] S3 IRAD (15.0 hours, 8.0%)
-  5. [001-04] S0 VTOL IRAD (6.2 hours, 3.3%)
+  1. Unassigned/None (101.5 hours, 51.6%)
+  2. [300-3] 2026 IDIQ (Hurricane) (40.9 hours, 20.8%)
+  3. [550-1] Navy SBIR: Magnetometer (21.7 hours, 11.0%)
+  4. [001-07] S3 IRAD (22.9 hours, 11.6%)
+  5. [001-04] S0 VTOL IRAD (6.2 hours, 3.2%)
 - **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 101.5 hours (53.9%) — **⚠️ CRITICAL ESCALATION** — *Sustained at 54% baseline; 16.0+ cumulative hours undocumented across 2 batches*
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 40.9 hours (21.7%)
-  - Last entries: "AP Debug" (3.2h), "General QC" (1.0h)
-- **[550-1] Navy SBIR: Magnetometer:** 21.1 hours (11.2%) — **+0.3 hours; FIRST ACTIVE PROJECT ENTRY IN 2 BATCHES**
-  - Latest entry: "Mag BR Testing" (0.3h) — *Positive signal: project resumed*
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 15.0 hours (8.0%)
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (3.3%)
+- **No project assigned:** 101.5 hours (51.6%) — **⚠️ SUSTAINED CONCERN** — *Slight decrease from 53.9%; unassigned baseline remains elevated*
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 22.9 hours (11.6%) — **+7.9 hours; DORMANT PROJECT REACTIVATED**
+  - Latest entry: (no description) (7.9h) — *Positive signal: S3 IRAD returns to active tracking*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 40.9 hours (20.8%)
+  - Last documented entries remain: "AP Debug" (3.2h), "General QC" (1.0h)
+- **[550-1] Navy SBIR: Magnetometer:** 21.7 hours (11.0%) — **+0.6 hours**
+  - Latest entry: "Mag Noise Testing" (0.6h) — *Sustained engagement; second consecutive batch with active work*
+- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (3.2%)
 - **Other projects:** 3.7 hours (1.9%)
 
 ## Recent Activity
-- **Latest entry (this batch):**
-  - 0.3 hours **[550-1] Navy SBIR: Magnetometer** — "Mag BR Testing" (documented; magnetic bearing testing)
-- **Current focus:** Navy SBIR Magnetometer project has resumed active work
-- **Documentation quality: IMPROVED** — First documented project entry after 2 batches of unassigned time
+- **Latest entries (this batch):**
+  - 7.9 hours **[001-07] S3 IRAD** — *(undescribed; project returned to active tracking)*
+  - 0.6 hours **[550-1] Navy SBIR: Magnetometer** — "Mag Noise Testing" (magnetic noise assessment)
+- **Current focus:** Two projects now active — S3 IRAD resumes after dormancy; Navy SBIR continues magnetic testing work
+- **Documentation quality:** MIXED — S3 IRAD entry lacks description; Magnetometer entry well-documented
 
 ## Patterns
-- **Unassigned backlog trend (stabilizing):**
-  - Batch 8: 49.7%
-  - Batch 9: 51.9%
+- **Unassigned backlog trend (improving):**
   - Batch 10: 54.0%
-  - **Batch 11 (current): 53.9%** — *Plateau reached; no further deterioration*
-- **Project activity resumption:** Navy SBIR Magnetometer shows renewed engagement after gap; other projects (Hurricane, S3 IRAD, VTOL) remain dormant
-- **Compliance status:** **IMPROVING SIGNAL** — One documented project entry breaks 2-batch unassigned streak; however, 53.9% unassigned remains unsustainably high
+  - Batch 11: 53.9%
+  - **Batch 12 (current): 51.6%** — *First meaningful reduction; suggests improved project classification*
+- **Project reactivation pattern:** Both Navy SBIR and S3 IRAD now showing consecutive batch engagement
+  - Navy SBIR: 2 consecutive batches with documented work
+  - S3 IRAD: Re-entry after extended dormancy
+- **Compliance status:** **SIGNIFICANTLY IMPROVING** — Unassigned hours decreased 2.3 percentage points; two separate projects actively tracked with real work entries
 - **Action items:**
-  1. ✓ *Partial resolution:* Sam has returned to active project tracking on Navy SBIR
-  2. **STILL URGENT:** Classify remaining 101.5 unassigned hours and clarify status of Hurricane, S3 IRAD, and VTOL projects
-  3. Monitor next batch for continued project engagement or reversion to undocumented time
+  1. ✓ *Resolved (partial):* S3 IRAD project tracking restored; Navy SBIR momentum sustained
+  2. **RECOMMENDED:** Request description for S3 IRAD work (7.9h batch entry currently undescribed)
+  3. Monitor next batch to confirm sustained multi-project engagement or identify if workload shift is temporary
+  4. Investigate remaining 101.5 unassigned hours for potential retroactive classification
