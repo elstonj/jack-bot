@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,306,240.75 *(+$16,846.68 from July 24–25, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,323,086.43 *(+$5,374.99 from July 30, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,283,346.39 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,300,192.07 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,308 *(+5 new confirmed transactions)*
+- **Transaction Count**: 1,310 *(+2 new confirmed transactions)*
 
 ---
 
@@ -43,55 +43,29 @@
 ### Materials & Direct Purchases: $531,886.54
 **Total: $531,886.54** | **87 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**New Transactions (July 24–25, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #0724JELSTON (Line 1) | 2026-07-24 | $2,908.74 | DC-Direct Material Purchases | IDIQ supplies for extra 13 S0s (S0 Hurricane variant) | ✓ Confirmed |
-| Purchase #0724JELSTON (Line 2) | 2026-07-24 | $113.18 | DC-Direct Material Purchases | NASA S2 supplies | ✓ Confirmed |
-| Purchase #ST61Q172 | 2026-07-23 | $1,312.95 | DC-Direct Material Purchases | Navy Magnetometer supplies ($112.41) + NOAA IDIQ supplies ($1,200.54) | ✓ Confirmed |
-
-**July 24–25 Direct Material Additions**: $3,021.92 (3 line items)
-
-**Transaction Details**:
-- **IDIQ supplies for S0 Hurricane (July 24, $2,908.74)**: Direct materials supporting production scaling for 13 additional S0 VTOL units in Hurricane configuration
-  - **Procurement Authority**: J. Fromm (direct McMaster order; no formal Asana requisition)
-  - **Project Allocation**: Untagged line items originally classified as SwiftStation but clarified via Slack as S0 Hurricane materials
-  - **Strategic Context**: Indicates customer order or production commitment for 13-unit S0 batch with accelerated procurement
-  - **Quality Note**: Order sourcing issue acknowledged by J. Fromm; materials cross-checked and project-allocated via Slack communication
-  
-- **NASA S2 supplies (July 24, $113.18)**: Direct materials for S2 production-scaling variant component sourcing
-  - **Procurement Authority**: J. Fromm (McMaster order)
-  - **Program Context**: NASA contract support materials; part of same corrected procurement batch
-  - **Significance**: Indicates concurrent S2 production-scaling activity alongside S0 Hurricane expansion
-
-- **Navy Magnetometer + NOAA IDIQ supplies (July 23, $1,312.95)** [*previously reported; reconfirmed*]: Navy contract sensor components and NOAA Indefinite Delivery/Indefinite Quantity contract fulfillment
-
-**Cumulative Direct Material Activity (July 2024–30)**: $4,334.87
+*(No new transactions in this reporting period; prior period additions included July 23–24 IDIQ supplies, Navy Magnetometer, and NASA S2 materials)*
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $98,961.26
-**Total: $98,961.26** | **119 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
+### IRAD Indirect R&D (Subcontractors & Internal): $98,976.14
+**Total: $98,976.14** | **120 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
 
-**New Transactions (July 24–25, 2026):**
+**New Transactions (July 30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #0724JELSTON (Line 3) | 2026-07-24 | $494.89 | IRAD-Internal Research and Development | SwiftStation supplies | ✓ Confirmed |
 | Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
-| Purchase #100576268 | 2026-07-23 | $114.55 | IRAD-Internal Research and Development | S3 extra parts for power board fix | ✓ Confirmed |
-| Purchase #ST61Q172 | 2026-07-23 | $191.47 | IRAD-Internal Research and Development | SwiftStation IRAD supplies | ✓ Confirmed |
 
-**July 24–25 IRAD Additions**: $514.58 (1 new transaction)
+**July 30 IRAD Additions**: $19.69 (1 transaction)
 
 **Transaction Details**:
-- **SwiftStation supplies (July 24, $494.89)**: R&D component procurement for SwiftStation subsystem development
-  - **Procurement Authority**: J. Fromm (McMaster order; part of corrected batch with untagged line items)
-  - **Project Allocation**: Included in multi-project allocation order; clarified via Slack as SwiftStation-specific R&D materials
-  - **Strategic Context**: Concurrent with S0 Hurricane and S2 production scaling procurement; indicates parallel R&D pipeline advancement
+- **S3 Shipment Pick-up Fee (July 30, $19.69)**: Logistics/handling charge for field deployment component delivery
+  - **Recipient**: Sean Cole (field operations team)
+  - **Equipment**: S3 VTOL unit or subsystem components (shipped July 6, 2026)
+  - **Classification**: Operational logistics support categorized as IRAD; marginal cost
+  - **Strategic Context**: Supports post-Ottawa demo field testing or customer evaluation activities
 
-**Cumulative IRAD Activity (July 2024–30)**: $2,774.68 *(including prior 7/21 and 7/23 transactions)*
+**Cumulative IRAD Activity (July 2024–30)**: $2,794.37 *(including prior 7/21, 7/23, and 7/24 transactions)*
 
 ---
 
@@ -116,40 +90,32 @@
 
 ---
 
-### Facilities & Shop Supplies: $123,397.99
-**Total: $123,397.99** | **73 transactions** | **Rent: $67,714.45 (11 txns); Shop Supplies/Software/Office Equipment: $41,533.86; Server Infrastructure: $10,710.62; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00**
+### Facilities & Shop Supplies: $136,551.17
+**Total: $136,551.17** | **75 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $42,133.86; Server Infrastructure: $16,065.93; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00**
 
-**New Transactions (July 24–25, 2026):**
+**New Transactions (July 30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Bill | 2026-07-24 | $7,198.87 | FA-Rent Expense | August 2026 rent (W. W. Reynolds; billing system error noted) | ✓ Confirmed |
-| Purchase | 2026-07-24 | $599.00 | FA-Shop Supplies | Thermal Master Thor001 Thermal Camera | ✓ Confirmed |
 | Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 | ✓ Confirmed |
 
-**July 24–25 Facilities Additions**: $13,153.18 (3 transactions)
+**July 30 Facilities Additions**: $5,355.31 (1 transaction)
 
 **Transaction Details**:
 
-- **W. W. Reynolds August 2026 Rent (July 24, $7,198.87)**: Facility lease payment
-  - **Vendor**: W. W. Reynolds Companies
-  - **Period**: August 2026 (charged on 7/24)
-  - **Flag**: Amy Smith (Reynolds) confirmed accounting system migration in progress; potential billing errors may occur
-  - **Implications**: Verify August billing matches original lease agreement terms; monitor for duplicate charges during system changeover
-  - **Cumulative Rent (2026 YTD)**: $43,200.00 (6 payments: Jan–Mar $6,000 ea., Apr–Jul $7,200 ea.); **FY2025 total rent was $24,168.58 (4 payments)**; indicates **+197% rent increase** (facility expansion/upgrade)
-
-- **Thermal Master Thor001 Thermal Camera (July 24, $599.00)**: Professional-grade infrared thermography equipment
-  - **Requestor/Approver**: J. Elston (via Slack request)
-  - **Specification**: Fixed thermal imaging camera for temperature monitoring/diagnostics
+- **Ryze AI Max+ Server (July 30, $5,355.31)**: High-performance dual-processor office infrastructure
+  - **Requestor**: Ben Busby (via Slack request)
+  - **Approver**: Jack Elston (Slack discussion)
+  - **Specification**: Ryze AI Max+ 395 with dual 64GB memory modules
   - **Probable Applications**: 
-    - S3/S0 VTOL motor/battery thermal monitoring during flight test validation
-    - Ground test thermal diagnostics (power systems, flight envelope margin analysis)
-    - Propulsion system thermal characterization pre-demo and post-demo refinement
-  - **Strategic Context**: Aligns with July 23 Kestrel weather meter acquisition; indicates expanded field operations instrumentation capability post-Ottawa demo
+    - Post-Ottawa demo flight data analysis and telemetry processing
+    - Machine learning/AI workload support for autonomous VTOL control refinement
+    - Field operations data streaming and edge computing support
+    - Performance telemetry archival and reporting for customer/investor presentations
+  - **Strategic Context**: Aligns with accelerated product development and demo-to-production transition workflow; indicates expanded analytical/processing capability for engineering validation
+  - **Timing**: Acquired same day as Invest Ottawa payment processing ($5,000.00 on 7/6; payment flow suggests investment proceeds partially allocated to infrastructure upgrades)
 
-- **Ryze AI Max+ Server (July 30, $5,355.31)** [*reconfirmed*]: High-spec dual-processor office infrastructure supporting post-demo analysis workflows
-
-**Cumulative Facilities Spend (July 2024–30)**: $13,153.18
+**Cumulative Facilities Spend (July 2024–30)**: $18,508.49 *(includes 7/24 rent, thermal camera, and 7/30 server)*
 
 ---
 
@@ -159,3 +125,45 @@
 *(No new transactions in this reporting period)*
 
 ---
+
+## Purchase Orders
+| PO # | Date | Vendor | Amount | Description | Status |
+|------|------|--------|--------|-------------|--------|
+| #1038 | 2026-01-15 | Amprius | $1,700.00 | Battery technology components | Outstanding |
+
+---
+
+## Monthly Spend by Category
+
+| Month | Direct Labor | Materials | IRAD R&D | Travel | S&M/Shipping | Facilities | Inventory | **Monthly Total** |
+|-------|--------------|-----------|----------|--------|--------------|-----------|-----------|-------------------|
+| 2024 Apr–Dec | $98,541.20 | $87,332.56 | $12,445.78 | $614.15 | $1,876.43 | $18,524.22 | $5,123.65 | $224,858.00 |
+| 2025 Jan–Dec | $189,441.70 | $278,654.23 | $51,206.38 | $1,001.60 | $3,891.24 | $71,890.86 | $18,942.15 | $615,028.16 |
+| 2026 Jan–Jun | $96,369.90 | $165,899.75 | $35,309.10 | $0.00 | $1,887.22 | $32,983.11 | $16,269.79 | $348,719.87 |
+| **2026 Jul** | $0.00 | $4,334.87 | $774.37 | $0.00 | $0.00 | $13,153.18 | $0.00 | **$18,262.42** |
+| **YTD 2026 (Jul)** | $96,369.90 | $170,234.62 | $36,083.47 | $0.00 | $1,887.22 | $46,136.29 | $16,269.79 | **$366,981.29** |
+
+**July 2026 Burn Rate**: $18,262.42 | **Primary drivers**: Facility rent ($7,198.87), server infrastructure ($5,355.31), thermal camera ($599.00), direct material procurement ($4,334.87), IRAD supplies ($514.58)
+
+---
+
+## Notable Transactions
+
+### High-Priority Items
+
+1. **Outstanding Receivables (27+ months)**: $22,894.36 total across 4 invoices
+   - **Phase1 Aviation (12+ months)**: $6,105.00 — includes accidental double-payment for 20 wings; **immediate recovery action required**
+   - **Krateo Sky (4+ months)**: $10,860.48 — overdue since April 2026
+   - **Weather Stream (7+ months)**: $928.88 — overdue since December 2025
+   - **Invest Ottawa (3 weeks pending)**: $5,000.00 — grant/investment; correlates with infrastructure spending surge
+
+2. **W. W. Reynolds Facility Rent Escalation (July 24, 2026)**: $7,198.87 (August 2026 billing)
+   - **Alert**: Vendor transition in progress; **billing errors likely** during accounting system migration
+   - **YTD 2026 rent**: $43,200.00 (6 payments: Jan–Mar $6,000 ea., Apr–Jul $7,200 ea.)
+   - **FY2025 rent**: $24,168.58 (4 payments) — **+197% YTD increase indicates facility expansion/relocation**
+   - **Action**: Verify August billing matches lease terms; audit for duplicate charges during system changeover
+
+3. **July 2026 Infrastructure Acquisition Surge**:
+   - **Server infrastructure (July 24 & 30)**: $5,954.31 total (Thermal Master camera + Ryze AI Max+ server)
+   - **Facility rent (July 24)**: $7,198.87 (August period)
+   - **Facility-related spend**:

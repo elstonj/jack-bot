@@ -90,6 +90,13 @@
 
 **[CORRECTION, Maciej, Apr 17, 2026]**: Navy project tasks **completed**.
 
+## Open Tasks
+
+### Real Estate & Facilities
+- **Lease Terminates** — Unassigned | No due date
+  - Notes: 6.23 CAM real estate property taxes and building insurance
+  - **Action Required**: Assign owner, set termination review date
+
 ## Notes & Context
 
 ### Marketing Strategy (In Development)
@@ -101,9 +108,4 @@ Project notes indicate ongoing development of marketing strategy with the follow
 - Increase engagement
 - Drive revenue
 
-**Ideal Customer Profile**: Government/institutional sector
-- Current/past customers: NOAA, NASA (Aren 2023: $90K), DoD, CO OEDIT ($152K)
-- Primary channels: LinkedIn, email
-
-### Real Estate / Facility Matters
-- **
+**

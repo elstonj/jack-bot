@@ -4,14 +4,14 @@
 - **Client/customer**: Mixed sales pipeline across government, defense, academic, and commercial sectors (US, Canada, UK).
   - **Active/Priority**: Oklahoma State University (S0 VTOL), NextTech Solutions (S3 Arctic), Embry-Riddle Aeronautical University (S0 VTOL), UC Santa Cruz (S2/S3), USAF SOCOM (S0-AD Dev), UK Royal Navy/Lockheed Martin UK (ASW Magnetometer)
   - **New/Emerging**: University of North Dakota (S0 VTOL – NSF CAREER proposal), USAF WC-130J Weather Squadrons (S0-AD), NOAA Ron Brown vessel (S0 VTOL)
-  - **Recently Closed**: Westlake Corporation (order completed 2026-07-06)
+  - **Recently Closed**: Westlake Corporation (order completed 2026-07-06), Canadian Rangers Demo – Ottawa (completed 2026-07-06)
   - **Archived**: Supercool Earth, Nexus Weather
 
 - **Dollar value**: $0.00 (persistent custom field data integrity issue). Historical pipeline: $2.3M+ with multiple six-figure opportunities. Current tracked quote: University of North Dakota $18,000. **CRITICAL: $5M goal by end of 2025 is SIGNIFICANTLY OVERDUE (target passed; achievement status unknown; no reset date provided).**
 
 - **Timeline**: 
   - Most recent activity: 2026-07-22 (University of North Dakota quote sent; solicitation closing date 2026-07-22)
-  - Last major contact on active opportunities: Westlake Corporation order completed 2026-07-06; UC Santa Cruz visited BST 2026-05-29 (campus visit July 17–18 pending confirmation); NextTech last contact 2026-03-17; Oklahoma State last contact 2025-04-14; UK Royal Navy last contact 2026-03-17; SOCOM last contact 2026-01-22; USAF WC-130J last contact 2026-02-18
+  - Last major contact on active opportunities: Canadian Rangers Demo completed 2026-07-06; Westlake Corporation order completed 2026-07-06; UC Santa Cruz visited BST 2026-05-29 (campus visit July 17–18 pending confirmation); NextTech last contact 2026-03-17; Oklahoma State last contact 2025-04-14; UK Royal Navy last contact 2026-03-17; SOCOM last contact 2026-01-22; USAF WC-130J last contact 2026-02-18
 
 - **Status**: **ACTIVE**. Sales Portfolio expanded with new lead capture form and automation rules (June 26, 2026). **BD hire targeted for end of July 2026** per status update. New leads now tracked via form intake (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594).
 
@@ -49,6 +49,7 @@
 - **Status**: Demos pending
 - **Last Contact**: 2026-03-17 (16+ months stale)
 - **Assigned**: Beck Cotter
+- **Asana Task Status**: OPEN (no due date set)
 - **Critical Action**: Resume contact immediately; confirm current status and demo timeline
 
 **University of North Dakota – S0 VTOL (NSF CAREER Proposal)**
@@ -56,7 +57,6 @@
 - **Customer**: University of North Dakota
 - **Product**: S0 VTOL
 - **Purpose**: NSF Faculty Early Career Development Program proposal; investigating tornado environments in tropical cyclones before they make landfall; Hurricane Hunter missions for deploying dropsondes and instrumentation ahead of rainbands
-- **Opportunity Source**: Quote for proposal
 - **Quote Status**: Sent 2026-07-22
 - **Estimated Value**: $18,000
 - **Solicitation Closing Date**: 2026-07-22 (AT OR PASSED)
@@ -77,6 +77,4 @@
 - **Last Contact**: 2026-01-22 (6+ months stale)
 - **Notes**: Referral from Dr. Cione (NOAA)
 
-**Embry-Riddle Aeronautical University – S0 VTOL**
-- **Status**: Grant-dependent; estimate updates pending from Jack Elston
-- **Potential**:
+**Embry-Riddle Aer

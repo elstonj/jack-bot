@@ -32,7 +32,7 @@
         "amount": 25235.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -52,7 +52,7 @@
     "committed": 0.0,
     "remaining": 60750.87,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-25T09:03:40Z"
+    "last_reconciled": "2026-07-26T08:55:45Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -91,6 +91,6 @@
       "text": "From Daniel Prendergast: For everyone's awareness, Murphy's Pond Flight #4 has been postponed indefinitely.  Any travel or logistics arrangements already made should be cancelled."
     }
   ],
-  "last_full_rebuild": "2026-07-25T09:03:40Z",
+  "last_full_rebuild": "2026-07-26T08:55:45Z",
   "last_incremental_update": null
 }

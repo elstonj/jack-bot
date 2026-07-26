@@ -25,37 +25,37 @@
     ]
   },
   "budget": {
-    "approved": 13681250.0,
+    "approved": 13281750.0,
     "approved_source": "sow_drive",
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 12386250.0,
-        "description": "Black Swift S0 sUAS Platforms: 150 units @ $18,000 (Period 1) + 150 @ $18,630 (Period 2) + 125 @ $19,282 (Period 3) + 125 @ $19,957 (Period 4) + 125 @ $20,655 (Period 5) = $2.7M + $2.7945M + $2.41025M + $2.494625M + $2.581875M",
+        "amount": 10886250.0,
+        "description": "Black Swift S0 sUAS Platforms: 150 EA @ $18,000 (Period 1) + 150 EA @ $18,630 (Period 2) + 125 EA @ $19,282 (Period 3) + 125 EA @ $19,957 (Period 4) + 125 EA @ $20,655 (Period 5) = $2,700,000 + $2,794,500 + $2,410,250 + $2,494,625 + $2,581,875",
         "source_doc": null
       },
       {
         "category": "Labor",
-        "amount": 426500.0,
-        "description": "Mission Days Operational support (30 days @ $2,850 × 5 periods = $427,500) + Operational and Testing Support (6 @ $6,000 × 5 = $180,000) + Training Sessions (Operator/Observer @ $6,000 + Instructor @ $600 per period × 5 = $33,000)",
+        "amount": 427500.0,
+        "description": "Mission Days Operational Support (30 EA @ $2,850 per period × 5 periods) + Operational and Testing Support (6 EA @ $6,000 per period × 5 periods) + Operator and Observer Training (1 EA @ $6,000 per period × 5 periods) + Instructor Training (1 EA @ $600 per period × 5 periods) = $85,500×5 + $36,000×5 + $6,000×5 + $600×5",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 250000.0,
-        "description": "Travel for Operational Support NTE $50,000 per ordering period × 5 periods",
+        "description": "Travel for Operational Support NTE: $50,000 per period × 5 periods (CLINs 1006, 2006, 3006, 4006, 5006)",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 60000.0,
-        "description": "Course Development: Operator and Observer Course Development ($6,000 × 5 periods) + Instructor Training Course Development ($6,000 × 5 periods)",
+        "description": "Course Development: Operator and Observer Course Development ($6,000 per period × 5 periods) + Instructor Training Course Development ($6,000 per period × 5 periods) = $60,000 + $60,000 combined",
         "source_doc": null
       },
       {
         "category": "Other",
-        "amount": 198000.0,
-        "description": "Non-recurring Engineering NTE items (marked as NTE, not firm): Technical Documentation ($66K × 5), Modeling ($66K × 5), NHC workflow integration ($66K × 5) - amounts shown but treated as ceiling, not confirmed obligation",
+        "amount": 990000.0,
+        "description": "Non-Recurring Engineering NTE: Technical Documentation ($66,000 per period × 5 periods) + Modeling ($66,000 per period × 5 periods) + NHC workflow integration ($66,000 per period × 5 periods) = $990,000 total",
         "source_doc": null
       }
     ],
@@ -64,27 +64,27 @@
         "amount": 217725.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
       "other_qbo": {
-        "amount": 18854.85,
+        "amount": 8355.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
-      "total": 237550.61,
+      "total": 227050.76,
       "by_line_item": {}
     },
     "committed": 1197.76,
-    "remaining": 13442501.63,
+    "remaining": 13053501.48,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-25T09:04:10Z"
+    "last_reconciled": "2026-07-26T08:56:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -134,6 +134,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-25T09:04:10Z",
+  "last_full_rebuild": "2026-07-26T08:56:15Z",
   "last_incremental_update": null
 }

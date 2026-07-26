@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $4,533,471.28
-- **Total Expenses (Bills + Purchases):** $1,449,365.12
+- **Total Expenses (Bills + Purchases):** $1,457,720.12
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,084,106.16 (invoiced minus expenses)
+- **Net Position:** $3,075,751.16 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -50,7 +50,7 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
 **Recent invoice total (2026-06-01 to 2026-09-28):** $316,459.00  
-**All invoices confirmed through 2026-09-28. Invoice #1773 (Portable Ground Station) newly added to [300-3] IDIQ revenue.**
+**All invoices confirmed through 2026-09-28. Invoice #1773 (Portable Ground Station) and #1750 (Final Report) active.**
 
 ---
 
@@ -82,10 +82,10 @@
 
 ---
 
-### **Materials & Supplies: $585,251.93**
-**Number of transactions:** 252  
+### **Materials & Supplies: $593,606.93**
+**Number of transactions:** 253  
 
-**New transactions (2026-07-24 to 2026-07-30):** $19,299.21
+**New transaction (2026-07-30):** $8,355.00
 
 **Key vendors & items:**
 
@@ -136,5 +136,8 @@
 
 - **Composite materials, PCB boards, general electronics:** ~$30,000+
 
-- **Previous major purchases:**
-  - Northwind
+- **Previous major purchases:** Northwind, and other component suppliers
+
+---
+
+### **Travel: $244

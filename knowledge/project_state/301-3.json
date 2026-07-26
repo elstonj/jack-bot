@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "1305M225Q0064",
+    "number": "RFQ 1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration, AirOps updates, dual GPS for heading, 10Hz met data, firmware customization, battery endurance, manufacturability improvements, data buffering",
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps fields, dual GPS RTK, 10Hz met data, firmware customization, battery endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Dual GPS unit, extended endurance battery tweaks, manufacturability improvements materials",
+        "description": "Materials for dual GPS, extended endurance battery tweaks, manufacturability improvements",
         "source_doc": null
       },
       {
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
       "purchases": {
         "amount": 970.76,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-25"
+        "last_updated": "2026-07-26"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 1197.76,
     "remaining": -743025.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-25T09:04:43Z"
+    "last_reconciled": "2026-07-26T08:56:46Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-25T09:04:43Z",
+  "last_full_rebuild": "2026-07-26T08:56:46Z",
   "last_incremental_update": null
 }

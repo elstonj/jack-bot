@@ -40,7 +40,7 @@
 - Log-parse tools integrated as Git submodule with auto-deploy triggering
 
 **Post-completion operational improvement request (July 2026):**
-Daniel Prendergast requested workflow enhancement to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse (July 13–14, 2026). Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch. **Status: Enhancement request in consideration; awaiting prioritization.**
+Daniel Prendergast requested workflow enhancement (July 13–14, 2026) to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse. Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch. **Status: Enhancement request in consideration; awaiting prioritization.**
 
 ## Notes & Context
 Comprehensive flight data analysis platform developed over multiple years:

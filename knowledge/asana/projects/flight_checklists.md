@@ -12,7 +12,7 @@
 - **Status:** **BLOCKED & STALE** — All 12 Asana tasks remain unassigned. Real work is **external-dependency-driven and team-coordinated via Slack**:
   - **ISARRA Flight Week campaign** — **2 S0 VTOL units + ground station/tablet; build in QC** (per Jack Bot, 2026-07-06); flight-testing ongoing to resolve tracking bug per Beck; **August delivery confirmed** per Jack Elston & Kevin Adkins
   - **NOAA ocean array test flight** — **one additional clear air test flight required late July or early August** (exact date TBD per Maciej, 2026-07-13); requires Jack, Josh, Alex, or Maciej
-  - **Murphy's Pond Flight #4 — POSTPONED INDEFINITELY** per Daniel Prendergast (2026-07-22); all travel and logistics arrangements to be cancelled
+  - **Murphy's Pond Flight #4 — POSTPONED INDEFINITELY** per Daniel Prendergast (2026-07-22 & 2026-07-23); all travel and logistics arrangements to be cancelled
   - **By-Lite fuse hardware (indefinitely delayed)** — 2 flight opportunities still owed per Jack & Maciej (2026-04-30); no test flights until arrival
   - **CU IRISS training (✓ COMPLETED)** per Daniel Prendergast (2026-05-13/14)
   - **EMASS controller binary (indefinitely delayed)** — customer blocker as of 2026-05-14 per Daniel Prendergast
@@ -33,7 +33,7 @@
 |---|---|---|---|
 | **ISARRA Flight Week Campaign (2 S0 VTOL units + ground station/tablet)** | **August/September 2026** | **IN BUILD QC** per Jack Bot (2026-07-06); flight-testing ongoing to resolve tracking bug per Beck (2026-03-17); **August delivery target confirmed** per Jack Elston & Kevin Adkins (2026-05-21) | $21,181.81 |
 | **NOAA Ocean Array Test Flight (By-Lite)** | **Late July or early August 2026** | **SCHEDULED (DATE TBD)** per Maciej (2026-07-13); requires Jack, Josh, Alex, or Maciej | N/A |
-| **Murphy's Pond Flight #4** | Pending | **POSTPONED INDEFINITELY** per Daniel Prendergast (2026-07-22); all travel and logistics arrangements to be cancelled | N/A |
+| **Murphy's Pond Flight #4** | Pending | **POSTPONED INDEFINITELY** per Daniel Prendergast (2026-07-22 & 2026-07-23); all travel and logistics arrangements to be cancelled | N/A |
 | **By-Lite Fuse Hardware Test Flights** | Pending hardware arrival | **BLOCKED INDEFINITELY** — 2 flight opportunities still owed to By-Lite per Jack & Maciej (2026-04-30) | N/A |
 | **CU IRISS Training** | N/A | **✓ COMPLETED** per Daniel Prendergast (2026-05-13/14) | N/A |
 | **EMASS Validation Flights #2 & #3** | ~2026-05-26/27 | **POSTPONED INDEFINITELY** — awaiting customer controller binary per Daniel Prendergast (2026-05-14) | N/A |
@@ -60,6 +60,6 @@
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-07-22** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** Any travel or logistics arrangements already made should be cancelled. (Slack feedback)
+**2026-07-23** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** Any travel or logistics arrangements already made should be cancelled. (Slack feedback)
 
-**2026-07-14** — Daniel Prendergast: **Post-flight workflow automation in progress.** Seeking to embed Maintenance Action Form link in
+**2026-07-22** — Daniel Prendergast: **Murphy
