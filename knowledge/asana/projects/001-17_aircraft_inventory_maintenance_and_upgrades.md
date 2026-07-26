@@ -17,6 +17,7 @@
 - **Hardware Infrastructure** – Battery packs, rail launcher systems, GCS boards, servo orders completed
 - **Gazebo Simulation** – Alerion Turbine Inspection simulation framework completed (Oct 2025)
 - **Multi-rotor Estimator Code** – Software development with simulation and flight test validation (concluded Jan 2021)
+- **S3 Platform Planning** – S3 Whitehorse Upgrades (separate from S3 General Upgrades and S3 Military Upgrades; pending approval and funding per Maciej Stachura, Jul 2026)
 
 ## Task Summary
 - **Total tasks:** 0 open, 180 completed (100% completion rate)
@@ -30,6 +31,12 @@
 - **Notable patterns:** Heavy use of unassigned tasks suggests batch/team-wide work; platform naming convention (S2X, E2X, FWX) tracks distinct aircraft families; extensive parts ordering and assembly work indicates inventory management focus
 
 ## Recent Activity
+
+**S3 Platform Planning (Jul 2026):**
+Maciej Stachura noted three distinct S3 upgrade initiatives:
+1. **S3 Whitehorse Upgrades** – Separate work stream (pending approval and funding); candidate for standalone project once approved
+2. **S3 General Upgrades** – Part of Industrial Plan
+3. **S3 Military Upgrades** – Part of Industrial Plan
 
 **Workflow Evolution & Post-Flight Issue Management (May 2026):**
 Daniel Prendergast established a standardized post-flight issue reporting form (May 11, 2026) that automatically routes aircraft and equipment issues to the **"Fleet Maintenance" Asana Project** for hardware issues, or other relevant projects. This form is now part of standard BST post-flight procedures and supersedes task tracking within this archived project.
@@ -69,3 +76,5 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
 - Extensive supplier relationships (Hacker Motors, SKB cases, Lee for cost updates)
 
 **Post-project maintenance framework:** All future aircraft and equipment issues are captured via Daniel Prendergast's post-flight form (May 2026) and automatically routed to the Fleet Maintenance project or other relevant project spaces. This archived project serves as historical reference only.
+
+**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured (per Maciej Stachura, Jul 2026).

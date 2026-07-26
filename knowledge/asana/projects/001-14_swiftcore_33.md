@@ -4,9 +4,9 @@
 - **Client/customer**: Internal BST development project
 - **Dollar value**: Not specified
 - **Timeline**: Active development branch; no target release date specified
-- **Status**: **SUBSTANTIALLY COMPLETE as of May–June 2026.** All 4 critical VTOL landing/termination validation tasks due 2026-05-18 have been resolved. Project has transitioned from active development to validation/release readiness phase. **Team corrections (May 2026) override stale Asana snapshots (Nov 2023).** Remaining work consists of ongoing issue capture via automated post-flight feedback form (deployed May 2026, routed to Fleet Maintenance or SwiftCore 3.3). Current Asana snapshot (Nov 28, 2024) shows only 1 open task.
+- **Status**: **SUBSTANTIALLY COMPLETE as of May–June 2026.** All 4 critical VTOL landing/termination validation tasks due 2026-05-18 have been resolved. Project has transitioned from active development to validation/release readiness phase. **Team corrections (May 2026) override stale Asana snapshots (Nov 2023).** Remaining work consists of ongoing issue capture via automated post-flight feedback form (deployed May 2026, routed to Fleet Maintenance or SwiftCore 3.3). Current Asana snapshot shows 1 open task.
 - **Team members**: Jack Elston (owner), Maciej Stachura (primary developer), Ben Busby, Daniel Prendergast (process lead), whole BST team
-- **Risk signals**: No active overdue tasks. Post-flight feedback process operational; new issues flow automatically. Current open task (VTOL USE_FILT_DATA in estimator.cpp) assigned to Maciej Stachura with no due date.
+- **Risk signals**: No active overdue tasks. Post-flight feedback process operational; new issues flow automatically. Current open tasks assigned to Maciej Stachura with no due dates.
 
 ## Key Deliverables & Milestones
 
@@ -29,23 +29,23 @@
 4. Velocity discontinuity at TRANS2HOVER → LANDING transition — resolved
 
 ## Task Summary
-- **Total tasks**: 1 open task (as of Nov 28, 2024 snapshot). This represents significant reduction from 80 open tasks in Nov 2023 snapshot.
+- **Total tasks**: 1 open task. This represents significant reduction from 80 open tasks in Nov 2023 snapshot.
 - **Tasks by assignee (current)**:
-  - Maciej Stachura: 1 open task (VTOL USE_FILT_DATA estimator issue — testing/removal decision)
+  - Maciej Stachura: 1 open task
 - **Notable patterns**:
   - Project in steady-state maintenance mode with minimal open task volume
   - Current work captured via automated post-flight feedback form (deployed May 8–11, 2026) creating tasks in Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
   - Manual task creation option remains available per team preference
-  - Custom field Priority: Low
+  - All open tasks have Low priority and no due date
 
 ## Current Open Work
 
-**VTOL has USE_FILT_DATA enabled in estimator.cpp, probably should remove or test without**
+**Comms version update**
 - **Assignee**: Maciej Stachura
 - **Due date**: No due date
 - **Priority**: Low
-- **Status**: Open; awaiting investigation/testing decision
-- **Issue**: VTOL estimator configuration question — whether to remove USE_FILT_DATA flag or test without it
+- **Status**: Open
+- **Notes**: Adding a list of params to add and remove. None of these are required. References: https://app.asana.com/1/12804948716594/profile/12805370615990 and https://app.asana.com/1/12804948716594/profile/664838850096145
 
 ## Recent Activity
 - **2026-07-20**: "GPS terminate dives and tries transitioning" completed by Maciej Stachura (original due date 2026-05-18, resolved 2 months later as part of extended VTOL validation phase)
@@ -64,6 +64,6 @@ As of May 2026, the team operates on a **hybrid issue capture model**:
 This replaces prior manual task creation, reducing overhead while maintaining visibility into emerging issues.
 
 ## Notes & Context
-- **Project maturity**: SwiftCore 3.3 has progressed from heavy active development (80+ open tasks in Nov 2023) to a substantially complete, operationally validated system (1 open task as of Nov 28, 2024). All critical VTOL landing and flight termination validation objectives completed by June 2026.
-- **Quality assurance**: Current work includes low-priority technical decisions (estimator configuration). Aircraft remain operational during validation and refinement phases.
+- **Project maturity**: SwiftCore 3.3 has progressed from heavy active development (80+ open tasks in Nov 2023) to a substantially complete, operationally validated system (1 open task). All critical VTOL landing and flight termination validation objectives completed by June 2026.
+- **Quality assurance**: Current work consists of low-priority optional enhancements (comms params). Aircraft remain operational during validation and refinement phases.
 - **Release readiness**: No target release date assigned; milestones remain open pending final hardware/software alignment and community release decision.

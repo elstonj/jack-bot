@@ -1,61 +1,96 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 7,362 (7,262 prior + 100 new Jul 24–25)
-- **Date range:** April 1–July 25, 2026
+- **Total messages scanned:** 7,376 (7,362 prior + 14 new Jul 25–26)
+- **Date range:** April 1–July 26, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 24–25 activity (100 messages):** ~18% human correspondence (S0 MOD UK sync, Krateo board meeting coordination, office space negotiations, recruiting kickoff, microfirm board modifications, IT task escalation, NOAA ops, NASA Juno proposal cost estimates, Munro Defense workshop, building facilities); ~62% automated vendor/logistics/purchasing (Amazon, DigiKey, McMaster-Carr, FedEx, HeliDirect, Harbor Freight, Rocketman Parachutes, Powerwerx, Budget car rental, Home2 Suites, Driftaway Coffee, Spindrift, Spring Store components, PayPal, Baofeng, USPS); ~8% system/administrative (Fly.io support plan expiration, Human Interest 401k enrollment, Rippling payroll reports, E-Verify updates, Cameyo backend upgrade, AFWERX correction notification); ~12% NOAA/government/external (AFRL patent workflow, NASA DOE proposal declination, Atmolab REX operations, volcano UAS deployment, SBIR/STTR funding, Munro Defense, Hadley Solomon recruiting)
+- **Jul 25–26 activity (14 messages):** ~7% human correspondence (Greenwood Wildlife gala donation request, Congressman Joe Neguse outreach); ~86% automated vendor/logistics/purchasing (Amazon, Harbor Freight ×2, Home2 Suites, McMaster-Carr, SkyGeek, Rocketman Parachutes, ELEGOO, eBay, Constant Contact, ICARE-ICARUS); ~7% external non-automated (Congressman outreach)
 
 ## Key Correspondents
 
 ### Top Internal Partners (Intensifying + New Escalations)
 
 1. **Sona Raziabeegum - Krateo Sky** (sona@krateosky.com) — **KRATEO-BST STRATEGIC ALIGNMENT + BOARD GOVERNANCE:**
-   - **New high-priority exchanges (Jul 24):**
-     - RE: Board Meeting? (Jul 24, 19:10 IMPORTANT) — Sona responding to Jack + Maciej + Krateo leadership (Brian Grubel, LisaMarie Cheney) on **board meeting scheduling** (Krateo-BST **joint governance** evident)
-     - Re: Board Meeting? (Jul 24, 13:28 SENT) — Jack submitting board meeting response to Sona
-     - Meeting? (Jul 24, 13:32 SENT) — Jack initiating follow-up with Sona on meeting logistics
    - **Pattern:** **Direct board-level governance engagement** between Jack and Krateo leadership; Sona = **primary cross-company strategic liaison**; suggests **formal governance structure** or **equity stake** involvement
 
 2. **Tim Hegwood - Krateo Sky IT** (tim@krateosky.com) — **IT INFRASTRUCTURE ESCALATION TO ADMIN LEVEL:**
-   - **New high-priority exchanges (Jul 24):**
-     - RE: IT Tasks (Jul 24, 22:31 IMPORTANT) — Tim responding to Meredith Needham (admin) on IT tasks (escalation from operational to administrative level)
-     - Re: IT Tasks (Jul 24, 15:46 IMPORTANT) — Meredith responding to Tim on IT task coordination
    - **Pattern:** IT infrastructure decisions **escalating to administrative team** (Meredith Needham); **shared Krateo-BST device management** continuing; Tim = **primary IT decision-maker** across companies
 
 3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **SOCOM S0 RFI + ATMOLAB REX OPERATIONS + POPOCATÉPETL VOLCANO DEPLOYMENT:**
-   - **New high-priority exchanges (Jul 24):**
-     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 24, 15:31 IMPORTANT) — Daniel responding to USSOCOM (Evan Wolff) on S0 RFI continuation
-     - RE: (U) [Non-DoD Source] Re: RFI S0 (Jul 24, 19:05 IMPORTANT) — Evan Wolff responding to Daniel on S0 RFI status
-     - Re: (U) [Non-DoD Source] Re: RFI S0 (Jul 24, 11:40 IMPORTANT) — Daniel responding to USSOCOM on S0 RFI
-     - **REX 110 Operation at -40 and -55 deg C (Jul 24, 16:00 IMPORTANT)** — Daniel coordinating with **Atmolab (EU partners)** on REX 110 sensor temperature operations (Jure Dolinar, Jošt Laznik, Matevž Poberžnik) — **sensor payload validation** at extreme temperatures for mission operations
-     - **Re: [EXTERNAL] Re: UAS Deployment at Popocatépetl (Jul 24, 12:24 IMPORTANT)** — Robin (UNAM Mexico) responding to Daniel on **volcano monitoring UAS deployment** — **new international scientific partnership** visible
    - **Pattern:** Daniel **expanding technical partnerships** (EU sensors, Mexico volcano research); S0 RFI with USSOCOM **actively progressing**; **sensor validation** for extreme-environment ops underway
 
 4. **Maciej Stachura** (stachura@blackswifttech.com) — **KRATEO BOARD COORDINATION + MOD S0 PRESENTATION:**
-   - **New high-priority exchanges (Jul 24):**
-     - RE: Board Meeting? (Jul 24, 19:10 IMPORTANT) — Maciej included in Krateo board meeting coordination with Jack, Sona, Brian Grubel, LisaMarie Cheney (dual governance structure confirmed)
    - **Pattern:** Maciej **directly engaged in Krateo-BST governance**; **international MOD S0 presentation** continuing; engineering + strategic alignment visible
 
 5. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NASA JUNO PROPOSAL + WEATHERSTREAM COST ESTIMATES:**
-   - **New high-priority exchanges (Jul 24):**
-     - **Re: Cost Estimate for NASA Juno Proposal (Jul 24, 13:58 IMPORTANT)** — Beck responding to ERYAN Dai (WeatherStream) on **NASA Juno mission cost estimate** — **new NASA proposal** visible (not previously documented)
-     - **Re: Cost Estimate for NASA Juno Proposal (Jul 24, 19:54 IMPORTANT)** — ERYAN Dai responding to Beck on Juno proposal costs
-     - **Re: L-band drone flights over lava (Jul 24, 19:51 IMPORTANT)** — ERYAN Dai (WeatherStream) coordinating with Scott Bolton (Southwest Research Institute, SWRI) on **L-band drone UAS operations over lava** — **sensor payload** for planetary science (likely Jupiter Juno related)
    - **Pattern:** **New major NASA mission opportunity** (Juno) in proposal phase; Beck **leading cost engineering**; WeatherStream + SWRI partnership engaged; **L-band radar sensor** for extreme-environment operations
 
-### Top External Partners (Intensifying + New Strategic Partnerships)
+### Top External Partners (Intensifying + New Political/Community Engagement)
 
 #### **UK MINISTRY OF DEFENCE — STRATEGIC PRESENTATION CONTINUING**
 
 1. **Simon Laurence - MOD UK** (Simon.Laurence157@mod.gov.uk) — **S0 PLATFORM PRESENTATION + INTERNATIONAL DEFENSE PARTNERSHIP:**
-   - **New exchange (Jul 24):**
-     - Re: S0 presentation (Jul 24, 09:57 SENT) — Jack responding to Simon on S0 presentation logistics
    - **Pattern:** Direct UK MOD engagement on **S0 platform demonstration** continuing; international defense market expansion underway
 
 #### **KRATEO SKY STRATEGIC ECOSYSTEM — GOVERNANCE + COMMERCIAL ALIGNMENT**
 
 2. **Brian Grubel - Krateo Sky** (Brian@krateosky.com) — **JOINT BOARD GOVERNANCE + BST STRATEGIC DIRECTION:**
-   - **New high-priority exchanges (Jul 24):**
-     - RE: Board Meeting? (Jul 24, 19:10 IMPORTANT) — Brian responding to Jack + Sona + Maciej on **Krateo-BST board meeting** (Brian = **Krateo leadership** in governance structure)
-     - BST Technical Project Manager Recruiting Kickoff Meeting Summary (Jul 24, 13:
+   - **Pattern:** Brian = **Krateo leadership** in governance structure; Jack + Maciej + Sona actively coordinating board-level decisions
+
+#### **U.S. CONGRESSIONAL ENGAGEMENT — NEW STRATEGIC OUTREACH CHANNEL**
+
+3. **Congressman Joe Neguse** (CongressmanJoeNeguse@mail.house.gov) — **DIRECT POLITICAL OUTREACH (NEW):**
+   - **New exchanges (Jul 25):**
+     - A Very Busy Summer Indeed! (Jul 25, 15:37 & 15:39 — duplicate send to elstonj@bst.aero and elstonj@blackswifttech.com) — **Congressman outreach to Jack** on unspecified topic (subject line non-descriptive; likely recurring newsletter or relationship cultivation)
+   - **Pattern:** **Direct engagement with U.S. Representative** (Colorado District); suggests **government affairs strategy** or **federal funding pursuit** (SBIR/STTR, defense contracting, or regulatory advocacy); dual email address usage indicates **intentional routing**
+
+#### **COMMUNITY/PHILANTHROPIC ENGAGEMENT**
+
+4. **Greenwood Wildlife Foundation** (Events@greenwoodwildlife.org) — **CORPORATE DONATION/GALA SPONSORSHIP (NEW):**
+   - **New exchange (Jul 25):**
+     - Re: Request for Gala Donation (Jul 25, 21:22 IMPORTANT) — Greenwood Wildlife responding to Jack on **gala donation request** — **community outreach** or **corporate social responsibility initiative**
+   - **Pattern:** Jack **personally engaged in local philanthropy**; suggests **Boulder/Colorado community positioning** for company profile
+
+## Topic Patterns
+
+### **Operational Procurement (Logistics Bias)**
+- **Primary vendors (Jul 25–26):** Amazon, McMaster-Carr, Harbor Freight, Home2 Suites, SkyGeek, Rocketman Parachutes, ELEGOO, ICARE-ICARUS, eBay
+- **Equipment focus:** Hardware components, ground support equipment (GSE), parachutes, filament dryers, camera equipment (Sony A5100), RC equipment
+- **Procurement pattern:** Sustained high-volume purchasing; appears **field-test logistics heavy** (transient housing via Home2 Suites, GSE from SkyGeek, parachute recovery systems)
+
+### **Strategic External Engagement (Political + Defense)**
+- **MOD UK S0 presentation** (continuing high-priority)
+- **USSOCOM S0 RFI** (active proposal phase)
+- **NASA Juno proposal** (cost estimation underway)
+- **Congressman Neguse outreach** (new federal affairs channel)
+- **Greenwood Wildlife gala sponsorship** (community positioning)
+
+## Communication Patterns
+
+### **Time Patterns**
+- **Jul 25–26 heavy weekend activity:** Saturday evening/Sunday morning messages (4:59 AM, 3:05 AM Sun 26 Jul); suggests **continuous operations cycle** or **time-zone bridging** (UK MOD, EU partners, Mexico field deployment)
+- **Purchasing automation routing:** Multiple messages routed to `purchasing@blackswifttech.com` with cc: to Jack's personal inbox; indicates **centralized procurement with Jack visibility/approval**
+
+### **Mailing Lists & Automated Channels**
+- **Congressman Joe Neguse newsletter:** Recurring political outreach (Jul 25 duplicate sends suggest **mass mailing list** or **congressional office communication cadence**)
+- **Vendor marketing:** Harbor Freight, Amazon, ELEGOO, eBay newsletters (low-priority category-tagged)
+
+## Key Relationships
+
+### **Highest-Priority Collaborators (by activity)**
+1. **Daniel Prendergast** — Technical integration lead (S0, SOCOM, NASA partnerships, volcano UAS)
+2. **Sona Raziabeegum + Brian Grubel (Krateo)** — Strategic partnership + board governance
+3. **Maciej Stachura** — Engineering + MOD presentation coordination
+4. **Beck Cotter** — NASA proposal engineering + cost leadership
+5. **Tim Hegwood (Krateo IT)** — Cross-company infrastructure decisions
+
+### **External Strategic Relationships**
+1. **Simon Laurence (MOD UK)** — International defense market entry
+2. **USSOCOM (via Daniel Prendergast)** — U.S. Special Operations Command RFI
+3. **NASA/SWRI (WeatherStream partnership)** — Space/planetary science missions
+4. **Atmolab (EU)** — Sensor payload validation partnerships
+5. **Congressman Joe Neguse** — Federal affairs/government relations (NEW)
+
+## Notable Observations
+
+1. **Weekend Procurement Intensity:** Unusual volume of purchasing notifications on Sat 25–Sun 26 Jul suggests **active field operations or deployment** requiring GSE, recovery systems, and consumables; **24/7 logistics cycle**

@@ -85,4 +85,4 @@ This project successfully established BST's marketing framework, digital infrast
 ---
 
 ## Status as of July 2026
-**No change to this project.** Team corrections received July 2026 from Daniel Prendergast regarding postflight maintenance workflows are relevant to **active engineering operational processes**, not this archived marketing project. This knowledge file remains accurate and complete as documented above.
+**No change to this project.** Team feedback received July 2026 from Daniel Prendergast regarding postflight maintenance workflows and log parse process improvements are relevant to **active engineering operational processes** (postflight checklist discipline, Maintenance Action Form integration), not this archived marketing project. This knowledge file remains accurate and complete as documented above.

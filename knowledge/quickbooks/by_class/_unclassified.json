@@ -4,39 +4,18 @@
     ""
   ],
   "period": {
-    "start": "2026-07-24",
-    "end": "2026-07-25"
+    "start": "2026-07-25",
+    "end": "2026-07-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 13153.18,
+    "expenses": 5355.31,
     "by_category": {
-      "FACILITIES:FA-Rent Expense": 7198.87,
-      "FACILITIES:FA-Office Supplies": 5355.31,
-      "FACILITIES:FA-Shop Supplies": 599.0
+      "FACILITIES:FA-Office Supplies": 5355.31
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-07-24",
-      "doc_number": "",
-      "total": 7198.87,
-      "attributed": 7198.87,
-      "vendor": "W. W. Reynolds Companies",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "Lease statement incorrectly charged for July's rent. Amy Smith confirmed they are redoing their accounting system, so there may be a mistake.",
-      "lines": [
-        {
-          "amount": 7198.87,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "August 2026 rent"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
@@ -53,24 +32,6 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-24",
-      "doc_number": "",
-      "total": 599.0,
-      "attributed": 599.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Request by J. Elston via Slack",
-      "lines": [
-        {
-          "amount": 599.0,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Thermal Master Thor001 Thermal Camera"
         }
       ]
     }
