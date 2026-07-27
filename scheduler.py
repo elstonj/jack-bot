@@ -69,11 +69,10 @@ def _reformat_purchasing_for_slack(raw_body: str) -> str:
 
 
 def _bot_dm_footer(client) -> str:
-    """One-line nudge telling the team how to get their personal top 3 via DM.
+    """One-line nudge telling the team where their personal top 3 lives.
 
-    Per-user sections are still generated and cached every run — they're just
-    no longer broadcast to #operations. Anyone can pull their own list (and
-    leave feedback) by DMing the bot.
+    Per-user sections are threaded under the team summary and cached every run —
+    anyone can also pull their own list (and leave feedback) by DMing the bot.
     """
     try:
         bot_user_id = client.auth_test()["user_id"]
@@ -81,28 +80,85 @@ def _bot_dm_footer(client) -> str:
     except Exception:
         mention = "@Jack Bot"
     return (
-        f":speech_balloon: _DM {mention} `tasks` for your personal top 3 today — "
+        f":speech_balloon: _Individual priorities are in this thread. "
+        f"DM {mention} `tasks` to pull your own top 3 — "
         f"or just chat to give feedback / corrections._"
     )
+
+
+def _sorted_user_sections(per_user):
+    """Order per-user sections by display name so the thread reads consistently.
+
+    Falls back to the raw Slack ID for anyone the user map doesn't know (or if
+    the map hasn't been built yet in this process).
+    """
+    try:
+        from user_map import get_user_by_slack_id
+    except Exception:
+        get_user_by_slack_id = None
+
+    def sort_key(slack_id):
+        name = ""
+        if get_user_by_slack_id:
+            try:
+                user = get_user_by_slack_id(slack_id) or {}
+                name = (user.get("name") or "").lower()
+            except Exception:
+                name = ""
+        return (name or f"zzz-{slack_id}",)
+
+    return [(sid, per_user[sid]) for sid in sorted(per_user, key=sort_key)]
+
+
+def post_team_summary(client, channel):
+    """Post the team summary to `channel` and thread each person's top 3 under it.
+
+    The team-level overview is the only message in the channel's main view;
+    every per-user section becomes its own threaded reply (same pattern as the
+    purchasing summary and commercial-sales digest), followed by the DM footer.
+    Returns the parent message ts, or None if there was no summary to post.
+    """
+    team = get_team_summary()
+    if not team:
+        return None
+
+    resp = client.chat_postMessage(channel=channel, text=team)
+    parent_ts = (
+        resp.get("ts") if isinstance(resp, dict)
+        else getattr(resp, "data", {}).get("ts")
+    )
+
+    per_user = get_per_user_sections() or {}
+    for _sid, section in _sorted_user_sections(per_user):
+        section = (section or "").strip()
+        if not section:
+            continue
+        if len(section) > 39000:
+            section = section[:39000] + "\n…(truncated)"
+        try:
+            client.chat_postMessage(channel=channel, text=section, thread_ts=parent_ts)
+        except Exception:
+            # One bad section shouldn't sink the rest of the thread.
+            pass
+        time.sleep(0.4)
+
+    client.chat_postMessage(
+        channel=channel, text=_bot_dm_footer(client), thread_ts=parent_ts
+    )
+    return parent_ts
 
 
 def post_daily_tasks():
     """Run the daily research pipeline and post the team summary to #operations.
 
-    Per-user sections are still generated (DM `tasks` command pulls them from
-    the cache) but are no longer broadcast — the channel post is now strictly
-    a team-level overview.
+    Per-user sections are threaded under the summary rather than broadcast to
+    the channel's main view, so #operations stays a team-level overview.
     """
     channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
     client = WebClient(token=os.environ["SLACK_BOT_TOKEN"])
     try:
         run_daily_pipeline(client)
-
-        team = get_team_summary()
-        if team:
-            client.chat_postMessage(channel=channel, text=team)
-            time.sleep(0.5)
-            client.chat_postMessage(channel=channel, text=_bot_dm_footer(client))
+        post_team_summary(client, channel)
 
     except Exception as e:
         from knowledge import store_entry
