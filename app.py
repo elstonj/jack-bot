@@ -9,7 +9,7 @@ from flask import Flask, request
 from weather import format_weather, is_weather_intent, match_sites
 from purchase_check import is_purchase_check_intent, handle_purchase_check
 from personality import get_response
-from research_cache import get_full_summary, get_user_summary, get_team_summary, get_per_user_sections, is_stale
+from research_cache import get_full_summary, get_user_summary, is_stale
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
 from knowledge_qa import answer_question
 from finances import get_project_finances
@@ -70,19 +70,14 @@ def handle_refresh_tasks(ack, respond, client, command):
 
     def _run():
         try:
-            import time as _time
             from daily_research import run_daily_pipeline
-            from scheduler import _bot_dm_footer
+            from scheduler import post_team_summary
             channel = os.environ.get("DAILY_TASKS_CHANNEL", "#general")
             run_daily_pipeline(client)
 
-            # Post team summary only. Per-user sections still go into the
-            # cache so DM `tasks` works, but they don't get broadcast.
-            team = get_team_summary()
-            if team:
-                client.chat_postMessage(channel=channel, text=team)
-                _time.sleep(0.5)
-                client.chat_postMessage(channel=channel, text=_bot_dm_footer(client))
+            # Team summary is the only channel-level message; per-user
+            # sections are threaded under it (and still cached for DM `tasks`).
+            post_team_summary(client, channel)
         except Exception as e:
             respond(f"Pipeline failed: {e}")
             try:

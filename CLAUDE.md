@@ -21,6 +21,7 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - `_sync_operations_feedback()` mirrors non-bot replies in #operations into `[FEEDBACK]` entries each run (dedup by Slack `ts`), so feedback persists even if the `message.channels` event isn't reaching the bot
 - Operations-channel history passed to Claude is sliced `[-30:]` (newest messages), not `[:30]`
 - Missing-section guard (after `_parse_per_user`): compares parsed slack IDs against every mapped team member; if any are missing, logs a `[DEBUG]` entry, runs a targeted Sonnet retry for just those people, and falls back to a visible `:warning:` placeholder section so no one is silently dropped downstream
+- **Posting shape** — `scheduler.py::post_team_summary(client, channel)` is the single post path (used by both the 8am job and `/refresh-tasks`). The team summary is the only message in #operations' main view; each person's top-3 section is a *separate threaded reply* beneath it (ordered by display name via `user_map`), with the DM footer as the last reply — same umbrella-thread pattern as the purchasing summary and commercial-sales digest. Sections are still cached, so DM `tasks` is unchanged; a failed individual post is swallowed so one bad section can't sink the rest of the thread
 
 ### Knowledge Layer (`knowledge/`, `scanners/`, `scan.py`)
 - ~200+ distilled markdown files covering 11 data sources
