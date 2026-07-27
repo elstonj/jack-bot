@@ -1,7 +1,7 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 35,497.3 hours (2020-2026, through Jul 26)
+- **Total hours tracked:** 35,497.3 hours (2020-2026, through Jul 27)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
@@ -29,11 +29,11 @@
 19. **Remaining 9 team members:** ~4,310.6 hours combined
 
 ### Utilization Patterns
-- **No new time entries logged (Jul 25-26)** — weekend period, no activity tracked
-- **Prior period (Jul 24-25) sustained momentum:** Hurricane IDIQ 34.1%, Operations 31.5%, PTO 15.8%, S3 IRAD 15.6%
-- **Expanded Hurricane crew remains:** Ethan Domagala, Nate, Spencer Hoehl, Kareem Ahmed now actively contributing alongside core team
-- **S3 IRAD emergence:** Sam Hild transitioning resources to internal development work
-- **Stable overhead:** Operations workload ~120+ hrs/month
+- **Weekend inactivity (Jul 25-27):** No time entries logged — expected pattern for weekend/end-of-period
+- **Last tracked activity (Jul 24-25):** Hurricane IDIQ 34.1%, Operations 31.5%, PTO 15.8%, S3 IRAD 15.6%
+- **Expanded Hurricane crew active:** Ethan Domagala, Nate, Spencer Hoehl, Kareem Ahmed contributing alongside core team
+- **S3 IRAD emergence:** Sam Hild transitioning resources to internal development
+- **Stable overhead:** Operations workload ~120+ hrs/month baseline
 
 ## Project Portfolio
 
@@ -75,27 +75,28 @@
 ## Patterns & Insights
 
 ### Hurricane IDIQ Maintains Sustained Velocity
-- **17.2 hours over Jul 24-25** representing significant sustained activity — 34.1% of 2-day tracked time
-- **Expanded team ownership:** Spencer Hoehl, Nate, Kareem Ahmed, and Ethan Domagala now active contributors alongside core team
-- **Activity type:** Hardware assembly (Kareem Ahmed focus), generic development (Nate, Spencer Hoehl)
-- **Assessment:** Project demonstrates scaling capability with widening contributor base; shifts from concentrated (Jack Elston-heavy) to distributed ownership. NOAA contract acceleration evident.
+- **Consistent momentum through Jul 24-25:** 34.1% of tracked time allocation
+- **Expanded distributed team:** Spencer Hoehl, Nate, Kareem Ahmed, and Ethan Domagala now active contributors alongside core team
+- **Activity profile:** Hardware assembly (Kareem), development (Nate, Spencer), general project work
+- **Assessment:** Project demonstrates scaling capability with widening contributor base; ownership transitioning from concentrated (Jack Elston-dominant) to distributed model. NOAA contract acceleration evident.
 
 ### Operations Overhead Sustainable
-- **15.9 hours tracked** over 2-day period (Jul 24-25) to general operations — ~120+ hrs/month annualized burden
-- **Primary drivers:** Administrative/ops support (Meredith Needham) and scheduling/logistics (Beck Cotter)
-- **Trend:** Stable but elevated; no escalation observed. Recruiting and onboarding workload minimal
-- **Assessment:** Operational infrastructure absorbs consistent overhead; no bottleneck indicators
+- **Baseline ~120+ hrs/month:** Operations, admin, and logistics overhead stable
+- **Primary drivers:** Administrative support (Meredith Needham) and scheduling (Beck Cotter)
+- **Trend:** No escalation signals; operational infrastructure absorbs consistent burden without bottlenecks
+- **Assessment:** Overhead management healthy; no recruiting/onboarding surge indicators
 
 ### S3 IRAD Gaining Strategic Traction
-- **7.9 hours from Sam Hild** contributing to [001-07] S3 IRAD — represents portfolio diversification within technical team
-- **Resource shift:** Sam reducing Navy Magnetometer work (0.6 hrs only) in favor of internal development
-- **Assessment:** Technical team shifting focus toward higher-leverage internal projects; suggests management confidence in IRAD innovation pipeline
+- **Sam Hild resource shift:** Increased allocation to [001-07] S3 IRAD; Navy Magnetometer hours declining (0.6 hrs recent)
+- **Strategic positioning:** Technical team reallocating toward higher-leverage internal development
+- **Assessment:** Management confidence in IRAD innovation pipeline; portfolio diversification underway
 
-### Jack Elston Concentration Risk
-- **13,110.6 hours = 36.96% of all company time** — single person carries outsized knowledge/execution burden
-- **No decline in 2-day sample period** — continued high utilization
-- **Mitigation underway:** Hurricane IDIQ team expansion spreading knowledge, but primary dependency remains
+### Jack Elston Concentration Risk Persists
+- **13,110.6 hours = 36.96% of all company time** — single-person dependency remains significant knowledge/execution bottleneck
+- **Mitigation in progress:** Hurricane IDIQ team expansion distributing workload, but primary dependency unchanged
+- **Recommendation:** Continue widening contributor base; monitor for knowledge concentration risks
 
-### Weekend Coverage Gap (Jul 25-26)
-- **No time entries for Jul 25-26** — expected weekend inactivity
-- **Operational note:** No holiday/emergency work logged; team maintains healthy work-life boundaries
+### Weekend Boundary Maintained (Jul 25-27)
+- **No time entries Jul 25-27** — weekend inactivity as expected
+- **Work-life balance:** Team maintains healthy separation; no emergency/weekend work logged
+- **Operational note:** Clean period-end transition; no untracked backlog indicators

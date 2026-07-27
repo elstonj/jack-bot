@@ -1,127 +1,112 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 463 messages** scanned across ~14 days (Jul 12-26, 2026)
-- Average ~33 messages/day
-- **Latest data (Jul 25-26)**: 11 new messages; predominantly automated/promotional and logistics confirmations; lower human-to-human email volume on weekend
+- **Total: 477 messages** scanned across ~15 days (Jul 12-27, 2026)
+- Average ~32 messages/day
+- **Latest data (Jul 26-27)**: 14 new messages; predominantly automated/promotional, logistics, and vendor confirmations; minimal strategic human correspondence
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / External Strategic Partners**
-
 1. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal
-   - **Pattern**: Direct coordination on ET Flight operations and Pioneer Array deployment; marked IMPORTANT
-
 2. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal
-   - **Active**: P3 delivery logistics and procurement coordination; marked IMPORTANT
-
 3. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM
-   - **Pattern**: DoD RFI process ongoing with escalation threads; marked IMPORTANT
-
 4. **Joshua Wadler** (WADLERJ@erau.edu) — Embry-Riddle Aeronautical University
-   - **Continued**: UAS QC Process multi-stakeholder initiative; marked IMPORTANT
-
 5. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership
-   - **Pattern**: CEO-level coordination on major initiatives (Array Deployment Review)
 
-**Component / Aircraft Parts & Engineering Suppliers**
+**Direct Strategic Contacts (Rare Direct Email)**
+- **AliExpress** (ae-best-message-notice29@newarrival.aliexpress.com) — **NEW (Jul 26)**: Personalized vendor messaging ("Joshua.Fromm, we found your new obsession"); marked PROMOTIONS but routed directly to personal account
 
-6. **Sean Cole** (sean@phase1av.com) — Phase 1 Aviation
-   - **Pattern**: Rapid S3 aircraft parts sourcing; multiple urgent exchanges
+**Toggl Track** (support@track.toggl.com) — **NEW (Jul 27)**: Time-tracking service; direct to josh.fromm@blackswifttech.com, no subject line, marked UNREAD
 
-7. **Chance Rogers** (chance.rogers@vertiq.co) — Vertiq
-   - **Active**: Motor components for aircraft (81-08 motors); direct Josh Fromm ordering
+### Routed Via Purchasing (purchasing@blackswifttech.com)
 
-8. **Foster Hill** (fhill@mmsolutions.biz) — MM Solutions
-   - **Pattern**: Case/enclosure customization; flagged as SUSPECT SENDER but Josh engaged
-
-9. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — BST
-   - **Role**: Primary external liaison for government/SOCOM business development and sensor integration (Atmolab REX 110 temperature operations)
-
-10. **Meredith Needham** (meredith.needham@blackswifttech.com) — BST Procurement
-    - **Pattern**: Co-managing component sourcing and logistics coordination
-
-**Sensors/Environmental Instruments**
-
-11. **Vaisala** — Atmospheric/environmental sensor procurement
-
-**Electronics & Equipment Suppliers** (Routed via Purchasing)
-
-- **DigiKey**: Multiple orders; sustained active vendor
-- **FTDI (Sarah Lin)**: Order #17721 status coordination; marked IMPORTANT
-- **McMaster-Carr**: Multiple orders placed Jul 24; receipts continuing Jul 25 (invoice reply Jul 25 03:14:33)
-- **Protolabs**: Order manufacturing in progress
-- **Amazon.com**: Multiple deliveries; **NEW (Jul 26)**: 3 Hardware items shipped (Jul 26 03:05:39); marked UNREAD
-- **Rocketman Parachutes Store**: Order #1817 confirmed; **NEW (Jul 25)**: Shipment on the way (Jul 25 23:58:40); marked UNREAD
-- **JawsTec Manufacturing LLC**: Invoice 70125 payment requests
-- **GensTattu**: Battery order confirmation #220440
-- **RFmall**: Order received
-- **The Spring Store (Acxess Spring)**: Multiple orders active
-- **ISDT (via HeliDirect)**: Professional Dual Channel AC/DC Smart Charger purchase review
-- **Midwest Control Products Corp**: PayPal payment transactions
-- **Grepow, Inc.**: PayPal payment transactions
-- **Lighthorse Technologies**: Transaction receipt
-- **Powerwerx**: Quote 3176630
-- **ICARE-ICARUS** (RC equipment) — **NEW (Jul 25)**: Order #IC-156018 reply (Jul 25 10:42:34); active vendor relationship
-- **SkyGeek** — **NEW (Jul 25)**: Ground Support Equipment promotional (Jul 25 23:14:01); new vendor contact
+**Component & Parts Suppliers**
+- **Spindrift Market** — **NEW (Jul 27)**: Beverage/provisions orders #SH62380484, #SH62380490 confirmed; suggests field operations/travel support provisioning
+- **DigiKey** — Shipment notification (invoice 129798960); sustained active vendor
+- **eBay** — Futaba 14SG RC receiver/transmitter listings; **NOTE**: Specific focus on Futaba systems (professional-grade RC equipment)
 
 **Travel & Logistics**
+- **Budget Rent A Car** — **NEW (Jul 26)**: Confirmation #258608733; second rental order (previously #00576426US4 under "ALEX"); indicates continued/extended travel
+- **AeroNet Freight** — **NEW (Jul 26)**: Patrick Mulstay (pmulstay@aeronet.com); freight shipment for Monday pick-up coordination with Meredith Needham and SAN Operations; marked IMPORTANT
 
-- **Budget Rent A Car**: Reservation #00576426US4 at TPA (Tampa); marked IMPORTANT; reservation under "ALEX"
-- **Home2 Suites by Hilton**: Confirmation #88356257 for Jul 26-2026; **NEW (Jul 25)**: Check-in/Digital Key reminder (Jul 25 19:10:53); marked UNREAD
-- **USPS Informed Delivery**: Daily digest
-- **FedEx Tracking**: Shipment tracking active
+**Financial/Payment Processing**
+- **PayPal** — **NEW (Jul 26)**: FTDI refund notification routed to Jack Elston via Purchasing (Order #17721 refund completed); indicates procurement issue resolution
 
-**Promotional / Automated (Routed via Purchasing)**
-
-- **Harbor Freight**: Continued promotional series — "Day 10: 20% Off ICON Roll Cabs" (Jul 26 04:59:47, marked UNREAD); "Pick Your FREE GIFT" (Jul 25 18:38:22); sustained daily deal engagement
-- **Amazon.com**: Promotional/order notifications active
-- **AliExpress**: **NEW (Jul 26)**: Free welcome gift offer (Jul 26 01:55:35); marked IMPORTANT & UNREAD; direct to josh.fromm@blackswifttech.com (not via Purchasing)
-- **Constant Contact**: Subscription/service message (Jul 25 20:33:42); marked UNREAD
-- **eBay**: Sony a5100 camera listing (Jul 25 06:07:17); marked UNREAD; **Note**: Camera equipment sourcing?
-- **Chitu Systems**: Resin/filament promotion
-- **Baofeng**: Radio equipment promotion
+**Promotional/Automated**
+- **Harbor Freight** — Last-chance promotional (Jul 26); sustained engagement pattern
+- **Speedway Motors** — **NEW (Jul 26)**: Customer Appreciation Week promotional; new vendor contact
+- **USPS Informed Delivery** — Daily digest (Jul 26)
 
 ## Topic Patterns
 
-**Active Projects/Operations**
-- ET Flight operations & Pioneer Array deployment (NOAA-led)
+**Active Projects/Operations** (Unchanged)
+- ET Flight operations & Pioneer Array deployment
 - P3 aircraft delivery logistics
-- RFI S0 DoD coordination (via SOCOM)
-- UAS QC Process (multi-stakeholder with Embry-Riddle)
-- REX 110 temperature operations (Atmolab sensors)
-- S3 aircraft parts procurement (Phase 1 Aviation)
+- RFI S0 DoD coordination (SOCOM)
+- UAS QC Process (multi-stakeholder)
+- REX 110 temperature operations
 
-**Component Classes in Active Procurement**
-- Motors & propulsion (Vertiq 81-08 motors)
-- Sensors/atmospheric instruments (Vaisala, Atmolab)
-- Electronics & PCB components (DigiKey, FTDI, McMaster-Carr)
-- Batteries & power systems (GensTattu, ISDT chargers)
-- Parachutes/recovery systems (Rocketman)
-- Cases/enclosures (MM Solutions)
-- Springs & mechanical components (Acxess Spring)
-- Ground support equipment (SkyGeek inquiry)
-- RC/UAS components (ICARE-ICARUS)
-- Cameras (eBay Sony a5100 listing)
+**NEW Procurement Signals**
+- **RC Control Systems**: Futaba 14SG receivers/transmitters (professional-grade RC equipment for UAS/aircraft operations)
+- **Field Provisions**: Spindrift Market beverages (likely for field team deployment)
+- **Freight Logistics**: AeroNet shipment coordination for Monday delivery (suggests time-sensitive equipment)
 
-**Travel Logistics**
-- Tampa (TPA) area travel planned for late Jul 26 through ~Jul 27 checkout
-- Budget rental car + Home2 Suites accommodation
+**Component Classes** (Ongoing)
+- Motors & propulsion systems
+- Sensors & instruments
+- Electronics & PCB components
+- Batteries & power systems
+- Parachutes/recovery systems
+- Cases/enclosures
+- RC/UAS control systems (Futaba equipment — NEW focus)
 
 ## Communication Patterns
 
 **Time Patterns**
-- **High-volume procurement window**: Jul 24 peak (59 messages) with sustained component ordering through Jul 25-26
-- **Weekend activity (Jul 25-26)**: Shift to automated notifications and promotional emails; minimal human-to-human correspondence
-- **Overnight/early morning emails**: Multiple timestamps 03:00-04:00 UTC and 03:00-06:00 local time (automated/scheduled)
+- **Weekend/overnight activity (Jul 26-27)**: Continued high volume of automated notifications and vendor confirmations
+- **Early morning UTC timestamps**: 02:00-06:00 UTC (consistent with overnight/pre-dawn activity or scheduled batch processing)
+- **Second travel event**: Budget rental car confirmation Jul 26 (separate from earlier Jul 12-27 travel pattern), suggesting multi-leg or extended deployment
 
 **Email Routing**
-- Direct emails to josh.fromm@blackswifttech.com remain **government/strategic partner** domain
-- **Most component sourcing, vendor orders, travel, and promotional emails route through purchasing@blackswifttech.com** — indicates Josh may have purchasing authority or delegation but high-touch communications remain direct
-- **Exception**: AliExpress direct to josh.fromm@blackswifttech.com (Jul 26) marked IMPORTANT — suggests personal account/potential side vendor exploration
+- **Direct personal inbox** (josh.fromm@blackswifttech.com): Government/strategic partners, time-tracking tools (Toggl), AliExpress personalized vendor messaging
+- **Purchasing delegation** (purchasing@blackswifttech.com): Vast majority of component orders, logistics, promotional content, and financial notifications
+- **Exception pattern**: PayPal refund routed to Jack Elston with CC to Purchasing, indicating CEO visibility on procurement issues
 
-**Mailing List / Group Participation**
-- NOAA coordination teams (multi-stakeholder escalation threads)
-- BST internal leadership meetings (Jack Elston, Daniel Prendergast
+**New Vendor Relationships**
+- **Spindrift Market** — Field provisions/beverage supplier (suggests planned field operations)
+- **Speedway Motors** — New promotional contact (automotive/motorsports supplier relevance unclear)
+
+## Key Relationships
+
+**Closest Collaborators** (By frequency & strategic importance)
+1. **Meredith Needham** (meredith.needham@blackswifttech.com) — Primary procurement partner; appears as recipient on freight coordination and FTDI order resolution
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government liaison & sensor integration lead
+3. **Jack Elston** (elstonj@blackswifttech.com) — CEO-level oversight; visibility on major initiatives and procurement issues
+
+**External Strategic Partners**
+- NOAA team (Pawlenko, Underwood) — Active flight operations coordination
+- SOCOM (Wolff) — DoD RFI process ongoing
+- Embry-Riddle (Wadler) — UAS QC standardization initiative
+
+**Vendor Relationships** (By engagement level)
+- **Phase 1 Aviation** — S3 aircraft parts (critical supplier)
+- **Vertiq** — Motor components (81-08 motors)
+- **AeroNet Freight** — Logistics partner (marked IMPORTANT; Monday shipment suggests time-critical delivery)
+- **DigiKey, McMaster-Carr, FTDI** — Electronics ecosystem suppliers
+
+## Notable Observations
+
+1. **RC Control System Specialization**: New Futaba 14SG procurement signals shift toward professional RC equipment integration — may indicate advanced UAS/autonomous platform development or retrofitting existing aircraft with enhanced control systems
+
+2. **Field Operations Tempo**: Spindrift beverage orders + second Budget rental confirmation + AeroNet Monday freight pickup suggest **active field deployment window (late Jul 27+)** — possibly related to ET Flight/Pioneer Array operations or P3 logistics
+
+3. **Procurement Issue Resolution**: FTDI Order #17721 refund completed (routed to CEO) indicates component incompatibility or specification error; Josh may be engineering-forward in vendor selection with rapid iteration cycles
+
+4. **Time-Tracking Implementation**: Toggl Track email (Jul 27) to direct inbox with no subject — may indicate new project costing/billing methodology or operational efficiency tracking initiative
+
+5. **Multi-Sourcing Strategy**: Concurrent ordering from AliExpress (personalized messaging), eBay (specialty RC), and traditional B2B suppliers (DigiKey, McMaster) suggests opportunistic sourcing for specialized/hard-to-find components
+
+6. **Travel Pattern**: Two separate rental car confirmations (Jul 12-26 period + Jul 26-27) under different confirmation #s suggests field campaign with possible return/redeployment to base or multiple site visits

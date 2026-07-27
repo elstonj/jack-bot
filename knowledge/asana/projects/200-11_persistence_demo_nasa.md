@@ -114,5 +114,5 @@
 
 ## Demo/Flight Calendar (July–September 2026)
 
-**Updated by Beck (07/10/26 & 07/13/26):**
-Demo and flight schedule maintained through September 2026 in shared Google calendar: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
+**Maintained by Beck (07/10/26 & 07/13/26):**
+Demo and flight schedule through September 2026 in shared Google calendar: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing

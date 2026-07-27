@@ -66,4 +66,4 @@
 
 ## Notes & Context
 
-- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2. Estimate 1
+- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2. S2 is
