@@ -17,11 +17,14 @@
 - **Hardware Infrastructure** – Battery packs, rail launcher systems, GCS boards, servo orders completed
 - **Gazebo Simulation** – Alerion Turbine Inspection simulation framework completed (Oct 2025)
 - **Multi-rotor Estimator Code** – Software development with simulation and flight test validation (concluded Jan 2021)
-- **S3 Platform Planning** – S3 Whitehorse Upgrades (separate from S3 General Upgrades and S3 Military Upgrades; pending approval and funding per Maciej Stachura, Jul 2026)
+- **S3 Platform Planning** – Three distinct upgrade tracks identified (Jul 2026):
+  - **S3 Whitehorse Upgrades** – Separate work stream; candidate for standalone project once approved and funded
+  - **S3 General Upgrades** – Part of Industrial Plan
+  - **S3 Military Upgrades** – Part of Industrial Plan
 
 ## Task Summary
-- **Total tasks:** 0 open, 180 completed (100% completion rate)
-- **Tasks by assignee:**
+- **Total tasks:** 0 open, 0 completed in current Asana view (historical 180 completed tasks archived)
+- **Historical tasks by assignee (from archive):**
   - Unassigned: ~165 tasks (bulk of hardware and platform work)
   - Nate Straus: S20009 platform (Dec 2025)
   - Maciej Stachura: QC test cards, E2 thrust diagnostics, Gazebo simulation work
@@ -33,8 +36,8 @@
 ## Recent Activity
 
 **S3 Platform Planning (Jul 2026):**
-Maciej Stachura noted three distinct S3 upgrade initiatives:
-1. **S3 Whitehorse Upgrades** – Separate work stream (pending approval and funding); candidate for standalone project once approved
+Per Maciej Stachura (Jul 24, 2026), three distinct S3 upgrade initiatives are now formally separated:
+1. **S3 Whitehorse Upgrades** – Separate from Industrial Plan; pending approval and funding; will be spun into standalone **S3 Whitehorse** project once approved
 2. **S3 General Upgrades** – Part of Industrial Plan
 3. **S3 Military Upgrades** – Part of Industrial Plan
 
@@ -54,13 +57,6 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
   - Gazebo simulation work for Alerion Turbine Inspection (Ben Busby, Pablo, Maciej collaboration)
   - E2 platform thrust diagnostics (Maciej Stachura)
 
-**Historical milestones:**
-- 2023–2024: QC flight test card creation; E2 platform variants; propeller procurement
-- 2021: Blade torque value testing; battery stopper orders; wiki documentation
-- 2020: FW0002 radio quality debugging; platform finalization
-- 2019: EGO-I magnetometer calibration; FW 450 hardware variants
-- 2018: Initial Flamewheel laser altimeter installation
-
 ## Notes & Context
 
 **Project scope:** Comprehensive multi-rotor aircraft development and maintenance spanning 7+ years, covering:
@@ -77,4 +73,4 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
 
 **Post-project maintenance framework:** All future aircraft and equipment issues are captured via Daniel Prendergast's post-flight form (May 2026) and automatically routed to the Fleet Maintenance project or other relevant project spaces. This archived project serves as historical reference only.
 
-**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured (per Maciej Stachura, Jul 2026).
+**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured (per Maciej Stachura, Jul 24, 2026).

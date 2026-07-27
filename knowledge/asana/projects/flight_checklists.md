@@ -54,12 +54,12 @@
 - **By stage:** All 12 tasks in "Planning" stage despite active flight operations underway
 - **By priority:** 4 High (Milestone 3, Launch Task 2, Planning Task 1, Execution Task 2), 2 Medium (Execution Task 1, Milestone 1), 2 Low (Launch Task 1, Milestone 2), 4 unspecified
 - **By assignee:** Unassigned (12/12)
-- **By due date:** 3 tasks **OVERDUE** (Planning Task 1 due 2026-05-20, Execution Tasks 1 & 2 due 2026-05-26, Milestone 1 due 2026-05-21); 1 task due 2026-05-29; 8 tasks with no due date
+- **By due date:** 4 tasks **OVERDUE** (Planning Task 1 due 2026-05-20, Execution Tasks 1 & 2 due 2026-05-26, Milestone 1 due 2026-05-21); 1 task due 2026-05-29; 7 tasks with no due date
 
 ## Recent Activity
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-07-23** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** Any travel or logistics arrangements already made should be cancelled. (Slack feedback)
+**2026-07-23** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** All travel and logistics arrangements already made should be cancelled. (Slack feedback)
 
 **2026-07-22** — Daniel Prendergast: **Murphy

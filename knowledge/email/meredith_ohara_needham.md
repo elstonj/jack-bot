@@ -1,80 +1,85 @@
 # Meredith O'hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,793 emails (1,782 previous + 11 from Jul 25–26)
-- **Date range:** June 15–July 26, 2026 (42 days)
-- **Approximate volume:** ~42.7 emails/day
-- **Trend:** **Sustained ultra-high-velocity; federal contract execution phase continuing (AFRL SBIR/STTR + NOAA); DCAA accounting system design audit active; multi-platform product cycles (S0/S2/S3) accelerating; component procurement critical path intensifying; precision manufacturing orders ramping; HR/payroll coordination; facilities/logistics management; ground support equipment and imaging systems acquisition**
+- **Total messages scanned:** 1,806 emails (1,793 previous + 13 from Jul 26–27)
+- **Date range:** June 15–July 27, 2026 (43 days)
+- **Approximate volume:** ~42.0 emails/day
+- **Trend:** **Sustained ultra-high-velocity; federal contract execution phase continuing (AFRL SBIR/STTR + NOAA); DCAA accounting system design audit active; multi-platform product cycles (S0/S2/S3) accelerating; component procurement critical path intensifying; precision manufacturing orders ramping; HR/payroll coordination; facilities/logistics management; ground support equipment and imaging systems acquisition; NEW: RF control systems (Futaba 14SG) acquisition and external logistics partner coordination (Aeronet)**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 26)
+### Incoming (by frequency — updated through Jul 27)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **860+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **873+ cumulative messages**
    
-   **Recent Activity (Jul 25–26):**
+   **Recent Activity (Jul 26–27):**
    
-   **Manufacturing & Precision Orders (Jul 25–26):**
-   - **McMaster-Carr** — Ongoing order cycle
-     - Receipt for July 24th order (Jul 25, 03:14:33 CDT) [UNREAD, CATEGORY_UPDATES]
-     - **Significance:** Continuous industrial component procurement
+   **Manufacturing & Precision Orders (Jul 26–27):**
+   - **Spindrift Market** — Beverage/provisions orders (NEW)
+     - Order confirmation SH62380484 (Jul 27, 04:03:14 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Order confirmation SH62380490 (Jul 27, 04:03:15 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Duplicate order pattern; possible team provisioning for operations/field work
    
-   - **Rocketman Parachutes Store** — Shipment in transit
-     - Order #1817 shipment notification (Jul 25, 23:58:40 UTC) [UNREAD, CATEGORY_UPDATES]
-     - **Significance:** Recovery system component; flight test hardware actively shipping
+   - **DigiKey** — Electronics component shipment
+     - Invoice 129798960 shipment confirmation (Jul 26, 05:49:05 CDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Ongoing electronics supply chain; active backorder management continuing
    
-   - **iCarus/Icarus Tech** — Order follow-up
-     - ICARE-ICARUS sales response to Order #IC-156018 (Jul 25, 10:42:34 EDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Vendor follow-up on components; active engagement
+   - **eBay** — RF control systems (NEW)
+     - Futaba 14SG receiver/transmitter listing (1 new item) (Jul 26, 06:30:53 MST) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** NEW — Precision RC control systems; flight test/UAV command and control acquisition
    
-   - **Amazon.com** — Hardware shipments (multiple units)
-     - 3 Hardware items shipped (Jul 26, 03:05:39 UTC) [UNREAD, CATEGORY_FORUMS]
+   **Financial & Refunds (Jul 26–27):**
+   - **Future Technology Devices Intl (FTDI) via PayPal** — Refund processed
+     - Refund from FTDI Ltd order #17721 on way (Jul 26, 18:44:10 PDT) [UNREAD, CATEGORY_FORUMS]
+     - **Associated direct email:** Sarah Lin (FTDI BRT_TPE engineer) — resolution discussion (Jul 26, 01:56:41 UTC) [UNREAD, IMPORTANT]
+     - **Significance:** Prior component order issue resolved; vendor relationship active with direct technical contact
    
-   - **eBay** — Imaging equipment acquisition
-     - Sony a5100 camera listing (4 units new) (Jul 25, 06:07:17 PDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** NEW — Multi-unit camera procurement; optical/imaging payload systems
+   **Travel & Logistics (Jul 26–27):**
+   - **Budget Rent A Car** — Ongoing vehicle reservation
+     - Rental confirmation #258608733 (Jul 26, 20:15:24 EDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Continued field operations/travel logistics
    
-   - **ELEGOO US** — Manufacturing/prototyping equipment
-     - H1 HT Filament Dryer promotional (Jul 25, 14:16:03 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Recipient note:** Alexis Lomis (not standard purchasing routing)
-     - **Significance:** NEW — 3D printing filament drying infrastructure; prototyping acceleration
+   **Operational & External Logistics (Jul 26–27):**
+   - **Aeronet (Patrick Mulstay)** — Freight shipment coordination (NEW CRITICAL)
+     - RE: Freight shipment for Monday pick-up (Jul 26, 15:36:58 UTC) [UNREAD, IMPORTANT]
+     - **Direct correspondence:** Meredith Needham, Adrian Sepulveda (asepulveda@aeronet.com), SAN Operations
+     - **Significance:** NEW — External logistics/supply chain partner; Monday (Jul 28) delivery scheduled; critical path freight movement
    
-   - **SkyGeek** — Ground support equipment (new vendor)
-     - "Ground Support Equipment for Busy Hangars" (Jul 25, 23:14:01 UTC) [UNREAD, CATEGORY_UPDATES]
-     - **Recipient:** Joshua Fromm (purchasing coordinator)
-     - **Significance:** NEW — Hangar/facility equipment sourcing; operational infrastructure
+   **Promotional & Operational (Jul 26–27):**
+   - **Harbor Freight** — Final promotional cycle push
+     - Free gifts promotion (Jul 26, 14:10:27 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Facility tooling/workshop equipment procurement continuing
    
-   **Travel & Logistics (Jul 25–26):**
-   - **Home2 Suites by Hilton** — Active reservation
-     - Digital Key check-in prompt (Jul 25, 19:10:53 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Team travel ongoing; hotel stay active (previously confirmed for Jul 26 arrival)
+   - **Speedway Motors** — Promotional campaign
+     - Customer Appreciation Week final notice (Jul 26, 20:19:31 EDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** NEW — Automotive/mechanical equipment vendor; possible ground support or facility maintenance
    
-   **Promotional & Operational (Jul 25–26):**
-   - **Harbor Freight** — Multi-day promotional campaign
-     - Day 10 (final) of 10-day deals: 20% off ICON roll cabs (Jul 26, 04:59:47 UTC) [UNREAD, CATEGORY_FORUMS]
-     - Free gift promotion (Jul 25, 18:38:22 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Sustained engagement; likely workshop/facility tooling acquisition
+   - **USPS Informed Delivery** — Daily package tracking digest
+     - Jul 26 digest (Jul 26, 13:19:46 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Active mail tracking; high-frequency delivery cycle
    
-   - **Constant Contact** — Vendor newsletter
-     - Service/CRM reminder (Jul 25, 20:33:42 MDT) [UNREAD, CATEGORY_FORUMS]
+   **Platform & Project Management (Jul 27):**
+   - **Asana** — Task/project notification system
+     - Unread notifications alert (Jul 27, 04:44:49 UTC) [UNREAD, CATEGORY_UPDATES]
+     - **Significance:** Ongoing project management; active team task tracking
 
 ---
 
 ## Topic Patterns
 
 ### Manufacturing & Hardware Acquisition
-- **High-velocity component orders:** McMaster-Carr (industrial fasteners/components), DigiKey (electronics), JawsTec (precision manufacturing)
+- **High-velocity component orders:** McMaster-Carr, DigiKey (continuing), JawsTec
 - **Specialized subsystems:** 
   - Recovery systems (Rocketman Parachutes) — flight test readiness
   - Power systems (Grepow, GensTattu, Powerwerx) — battery/energy distribution
-  - Charging infrastructure (ISDT X16, HeliDirect)
-  - **NEW: Imaging payloads (Sony a5100 cameras, 4-unit acquisition)**
-  - **NEW: 3D printing/prototyping (ELEGOO filament drying systems)**
-  - **NEW: Ground support equipment (SkyGeek hangar equipment)**
+  - Imaging payloads (Sony a5100 cameras, 4-unit acquisition)
+  - 3D printing/prototyping (ELEGOO filament drying systems)
+  - Ground support equipment (SkyGeek hangar equipment)
+  - **NEW: RF control systems (Futaba 14SG transmitters/receivers) — precision flight control**
 
 ### Federal Contract Execution
 - DCAA pre-award audit (30-day window active; Jack Elston leading)
@@ -82,54 +87,39 @@
 - NOAA federal awards (AFWerx workflow corrections)
 
 ### Facility & Operational Infrastructure
-- **Tooling acquisition:** Harbor Freight (roll cabs, workshop equipment) — 10-day promotional cycle
+- **Tooling acquisition:** Harbor Freight (workshop equipment), Speedway Motors (automotive/mechanical)
 - **Power utilities:** Xcel Energy billing
-- **Travel coordination:** Budget Rent A Car (Tampa), hotel logistics
+- **Travel coordination:** Budget Rent A Car (ongoing field operations)
+- **Team provisioning:** Spindrift Market beverage/provisions orders
+
+### Logistics & Supply Chain
+- **NEW: External logistics partner:** Aeronet (Patrick Mulstay) — Monday pickup scheduled for freight shipment
+- **FTDI component vendor:** Direct relationship with Sarah Lin (BRT_TPE engineer) for technical resolution
 
 ---
 
 ## Communication Patterns
 
 ### Temporal Observations
-- **Weekend activity:** Jul 25–26 messages include promotional emails, shipping notifications, and travel confirmations
-- **Overnight volume:** 03:00–05:00 UTC (evening CDT) shows order processing and procurement confirmations
-- **Batched notifications:** Purchasing system consolidating vendor order confirmations and promotional emails
+- **Weekend/overnight activity sustained:** Jul 26–27 messages show continuous procurement, logistics coordination, and order confirmations (02:00–20:00 UTC range)
+- **High-frequency order confirmations:** Spindrift Market orders same-second confirmations (04:03:14 and 04:03:15 UTC) suggests batched or rapid sequential procurement
+- **Critical logistics on weekends:** Aeronet freight coordination active on Sunday evening (Jul 26, 15:36:58 UTC) indicates urgent/time-sensitive shipment
 
 ### Routing & Distribution
-- **Primary funnel:** Purchasing system (`purchasing@blackswifttech.com`) receives and forwards vendor communications
-- **Selective forwarding:** Home2 Suites reservation forwarded directly to Alex Lomis (team coordination)
-- **Secondary recipients:** Joshua Fromm, Alexis Lomis tagged on specific operational emails
+- **Primary funnel:** Purchasing system consolidates vendor/logistics communications
+- **Direct external contacts:** 
+  - Sarah Lin (FTDI) — technical vendor relationship (direct email, not routed through purchasing)
+  - Patrick Mulstay (Aeronet) — logistics/freight coordination (direct email with internal team CC)
+- **Important flagging:** FTDI refund/resolution and Aeronet freight marked IMPORTANT by system
 
 ### Newsletter & Promotional Patterns
-- **High-frequency promotional emails:** Harbor Freight (daily 10-day campaign), eBay, ELEGOO, Constant Contact
-- **Vendor newsletters clearly separated:** CATEGORY_FORUMS vs. CATEGORY_UPDATES tagging in use
-- **Legitimate operational mix:** Promotions interspersed with order confirmations and shipment tracking
+- **Sustained promotional engagement:** Harbor Freight, Speedway Motors, eBay show active browsing/interest in equipment procurement
+- **Tracking systems:** USPS Informed Delivery daily digest indicates high-volume incoming shipments
+- **Vendor lifecycle:** Spindrift Market (NEW), Speedway Motors (NEW) suggest expanded procurement categories
 
 ---
 
 ## Key Relationships
 
 ### Internal Collaborators (by email frequency)
-- **Jack Elston (CEO)** — DCAA audit primary contact; federal compliance oversight
-- **Beck Cotter** — AFRL patent workflow management
-- **Alex Lomis** — Team logistics coordination (hotel reservations, ground logistics)
-- **Joshua Fromm** — Purchasing coordinator; vendor communication routing
-- **Alexis Lomis** — Secondary team operations contact (3D printing/prototyping equipment flagged)
-
-### External Relationships — Critical Path
-**Federal/Government:**
-- Alexandra N. Wilcox (DCAA) — Pre-award audit examiner
-- AFRL/RGK Patents — Patent compliance workflow
-- AFWerx/NOAA — Federal awards processing
-
-**Manufacturing & Component Supply (Active Critical Path):**
-- McMaster-Carr — Industrial components (ongoing, high-volume)
-- DigiKey — Electronics supply (active backorder management)
-- JawsTec Manufacturing — Precision manufacturing (order cycle active)
-- GensTattu/Grepow — Battery/energy systems (specialized, multi-unit orders)
-- Rocketman Parachutes — Recovery systems (shipping active)
-
-**NEW Vendor Relationships (Jul 25–26):**
-- SkyGeek — Ground support equipment/hangar infrastructure
-- ELEGOO US — 3D printing materials/infrastructure
-- eBay — Imaging equipment (Sony a5100 cameras, 4
+- **Jack Elston (CEO)** — DCAA audit primary contact; federal compliance

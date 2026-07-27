@@ -4,7 +4,7 @@
 - **Client/customer:** Murray State University / Dr. Bassil El Masri (belmasri@murraystate.edu, 270-809-3110)
 - **Dollar value:** $86,862.94 total committed funding to Black Swift Technologies (includes Flight #4 addition of ~$24.5K, per SOW modification completed 2026-07-09).
 - **Timeline:** Funding expires 2026-12-31. Flights #1–#3 completed (Nov 2025, Dec 2025, Jul 2026). **Flight #4 postponed indefinitely as of 2026-07-22.**
-- **Status:** **Active but Flight #4 deployment paused indefinitely.** Per Daniel Prendergast (2026-07-22 & 2026-07-23): "Murphy's Pond Flight #4 has been postponed indefinitely. Any travel or logistics arrangements already made should be cancelled." Flights #1–#3 successfully executed. Remaining work: payload checklists (open, unscheduled), CO₂ payload data rate investigation (open, unscheduled), and travel finalization (due 2026-08-06, should be suspended). **Critical: Clarify Flight #4 rescheduling status and funding deadline impact with Beck Cotter and Dr. Masri.**
+- **Status:** **Active but Flight #4 deployment paused indefinitely.** Per Daniel Prendergast (2026-07-22 & 2026-07-23): "Murphy's Pond Flight #4 has been postponed indefinitely. Any travel or logistics arrangements already made should be cancelled." Flights #1–#3 successfully executed. Remaining work: payload checklists (open, unscheduled), CO₂ payload data rate investigation (open, unscheduled), and travel finalization (due 2026-08-06, should be suspended). **CRITICAL: Clarify Flight #4 rescheduling status and funding deadline impact with Beck Cotter and Dr. Masri immediately.**
 - **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Joshua Fromm (payload engineering), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'Hara Needham (communications), Daniel Prendergast (logistics), Ethan Domagala (travel/logistics), Spencer Hoehl (payload checklists).
 - **Risk signals:**
   - **Flight #4 indefinite postponement (2026-07-22 & 2026-07-23, Daniel Prendergast—TEAM CORRECTION AUTHORITATIVE)** — Project timeline and scope severely uncertain. All travel and logistics work should be halted immediately. Clarify with Dr. Masri and Beck Cotter whether Flight #4 will occur within 2026 funding window (only ~4.5 months remain) or be carried forward/cancelled.
@@ -28,10 +28,10 @@
 ## Task Summary
 - **Total tasks:** 4 open, 0 completed
 - **Tasks by assignee:**
-  - **Spencer Hoehl:** 1 open (payload checklists, no due date)
+  - **Spencer Hoehl:** 1 open (payload checklists, no due date) — Write preflight/postflight checklists for Murphy's Pond deployment payloads
   - **Ethan Domagala:** 1 open (finalize dates and travel, due 2026-08-06, notes: "August 4th–6th") — **SUSPEND/CANCEL pending Flight #4 rescheduling**
-  - **Jack Elston:** 1 open (CO₂ payload data rate investigation, no due date)
-  - **Unassigned:** 1 open (contact record: Dr. Bassil El Masri, Murray State University)
+  - **Jack Elston:** 1 open (investigate CO₂ payload data rate, no due date) — blocking dependencies unclear
+  - **Unassigned:** 1 contact record (Dr. Bassil El Masri, Murray State University, high priority)
 - **Notable pattern:** Three substantive work items (payload checklists, travel finalization, CO₂ payload investigation) lack clear due dates or blocking dependencies post-Flight #4 postponement. Travel finalization task (due 2026-08-06) may be moot given indefinite postponement. Clarification needed on priority, timeline, and contingency planning.
 
 ## Recent Activity
@@ -52,4 +52,4 @@
 - **Customer type:** Commercial; no subcontractors.
 - **Billing contact:** PaymentWorks.
 - **Priority:** Low (per custom field), though indefinite Flight #4 postponement and funding deadline require immediate escalation and clarification.
-- **Project initiation:** Dr. Masri reached out May 2024; initial estimates sent; project confirmed April 2025 for vertical take-off platform
+- **Project initiation:** Dr.

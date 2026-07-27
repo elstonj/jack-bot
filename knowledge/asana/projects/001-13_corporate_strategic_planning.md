@@ -94,7 +94,7 @@
 
 ### Real Estate & Facilities
 - **Lease Terminates** — Unassigned | No due date
-  - Notes: 6.23 CAM real estate property taxes and building insurance
+  - Notes: 6.23 CAM real estate property taxes and building insurance; monthly NNN costs ranging $13.00–$14.63 across 60-month term
   - **Action Required**: Assign owner, set termination review date
 
 ## Notes & Context
@@ -102,10 +102,4 @@
 ### Marketing Strategy (In Development)
 Project notes indicate ongoing development of marketing strategy with the following SMART goals under consideration:
 - Increase brand awareness
-- Drive website traffic
-- Lead generation
-- Grow audience
-- Increase engagement
-- Drive revenue
-
-**
+- Drive website

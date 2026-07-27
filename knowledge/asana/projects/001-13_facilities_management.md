@@ -4,13 +4,13 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and monthly rent payments
-- **Status**: Active - operational cadence maintained. **Current snapshot: 0 open tasks**. All recent cleaning cycles completed on schedule or within 3–5 days of due date. Next scheduled rent payment due 2026-07-27.
+- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Pay Rent due 2026-07-27). All recent cleaning cycles completed on schedule or within 3–5 days of due date.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, rent payment), Nate Straus (facilities improvements & consumables management)
-- **Risk signals**: None; all completed tasks show consistent, reliable execution with minimal delays.
+- **Risk signals**: None; all completed tasks show consistent, reliable execution with minimal delays. Single open rent payment task is routine and on track.
 
 ## Key Deliverables & Milestones
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
-  - Next payment due: **2026-07-27** (Meredith O'hara Needham)
+  - **Next payment due: 2026-07-27** (Meredith O'hara Needham) — **OPEN**
 - **Bi-weekly office cleaning** (via Neat N Tidy; established cadence, all recent cycles completed)
   - Latest completed: 2025-11-04 (due 2025-11-01)
   - Pattern: Due dates ~2 weeks apart; consistently completed within 2–5 days
@@ -19,18 +19,20 @@
 - **Consumables stock management** (periodic; last updated 2025-11-04)
 
 ## Task Summary
-- **Total tasks**: 0 open, 11 completed
+- **Total tasks**: 1 open, 11 completed
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 11 completed (Office Cleaning cycle)
+  - **Meredith O'hara Needham**: 1 open (Pay Rent – due 2026-07-27); 11 completed (Office Cleaning cycles)
     - All bi-weekly cleaning tasks completed; typical lag 2–5 days after due date
 - **Notable patterns**: 
   - Bi-weekly cleaning is the primary tracked task in Asana; all recent cycles show consistent execution
-  - Monthly rent payment task managed separately (next due 2026-07-27)
+  - Monthly rent payment task tracked as discrete Asana items; next payment open and on schedule
   - Consumables and equipment planning tracked outside primary Asana export
   - No overdue or at-risk tasks
 
 ## Recent Activity
-- **Completed tasks** (most recent):
+- **Open tasks**:
+  - Pay Rent (due 2026-07-27, assigned to Meredith O'hara Needham)
+- **Recently completed tasks** (from prior snapshot):
   - Office Cleaning (due 2025-11-01, completed 2025-11-04)
   - Office Cleaning (due 2025-10-18, completed 2025-10-23)
   - Office Cleaning (due 2025-10-04, completed 2025-10-06)
