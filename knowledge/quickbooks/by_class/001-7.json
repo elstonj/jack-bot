@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-07-26",
-    "end": "2026-07-27"
+    "start": "2026-07-27",
+    "end": "2026-07-28"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 19.69,
+    "expenses": 1203.2,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 19.69
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1203.2
     }
   },
   "invoices": [],
@@ -32,6 +32,24 @@
           "amount": 19.69,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Pick-up fee for shipment to Sean Cole for S3 on 7/6/26"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-27",
+      "doc_number": "70183",
+      "total": 1183.51,
+      "attributed": 1183.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 1183.51,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
         }
       ]
     }

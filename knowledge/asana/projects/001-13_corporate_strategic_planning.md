@@ -70,7 +70,7 @@
 ## Recent Activity
 
 ### July 2026 — ISARRA Campaign Status (AUTHORITATIVE)
-**[FEEDBACK, Jack, Jul 6, 2026]**: ISARRA Flight Week campaign (Aug/Sep 2026) proceeding on confirmed schedule:
+**[Jack, Jul 6, 2026]**: ISARRA Flight Week campaign (Aug/Sep 2026) proceeding on confirmed schedule:
 - **Invoice 1667** ($21,181.81) paid May 21, 2026
 - **Current phase**: Build in QC (Jul 3, 2026)
 - **Target delivery**: August 2026 (confirmed aligned with ISARRA planning and transport logistics)
@@ -79,27 +79,24 @@
 - **Risk**: Delivery contingent on successful bug resolution
 
 ### June 2026 — Kareem Return & Task Allocation (AUTHORITATIVE)
-**[FEEDBACK, Jack, Jun 16, 2026]**: Kareem returning June 15 @ 12:00 PM. Jack coordinating immediate task allocation:
+**[Jack, Jun 16, 2026]**: Kareem returning June 15 @ 12:00 PM. Jack coordinating immediate task allocation:
 - **Primary options**: S0 component fabrication OR ground station completion
 - **Priority alternative**: **Wildfire video project** — Jack requesting Meredith O'Hara Needham coordinate division of labor with Kareem to finalize and complete
 - Additional slide projects queued pending team feedback on priorities
 - **Status**: Task assignment pending team coordination
 
 ### April 2026 — Project Status Corrections (TEAM CORRECTIONS AUTHORITATIVE)
-**[CORRECTION, Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) **DELAYED to Fall 2026**. No April 2026 departure; disregard Asana tasks referencing April dates. No flight planning, shipping, or mission prep imminent.
+**[Jack, Apr 20, 2026]**: Mexico USGS volcano deployment (350-4) **DELAYED to Fall 2026**. No April 2026 departure; disregard Asana tasks referencing April dates. No flight planning, shipping, or mission prep imminent.
 
-**[CORRECTION, Maciej, Apr 17, 2026]**: Navy project tasks **completed**.
+**[Maciej, Apr 17, 2026]**: Navy project tasks **completed**.
 
 ## Open Tasks
 
 ### Real Estate & Facilities
 - **Lease Terminates** — Unassigned | No due date
-  - Notes: 6.23 CAM real estate property taxes and building insurance; monthly NNN costs ranging $13.00–$14.63 across 60-month term
-  - **Action Required**: Assign owner, set termination review date
-
-## Notes & Context
-
-### Marketing Strategy (In Development)
-Project notes indicate ongoing development of marketing strategy with the following SMART goals under consideration:
-- Increase brand awareness
-- Drive website
+  - Notes: 6.23 CAM real estate property taxes and building insurance; monthly NNN costs over 60-month term:
+    - Months 1–12: $13.00/month
+    - Months 13–24: $13.39/month
+    - Months 25–36: $13.79/month
+    - Months 37–48: $14.21/month
+    - Months 49–60: $14.63/

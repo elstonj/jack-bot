@@ -66,4 +66,4 @@
 
 ## Notes & Context
 
-- **S2 End-of-Life Context (July 2025):** Isaac Anderson requested cost breakdown for S2 parts including full S2. S2 is
+- **S2 End-of-Life Context (July 2025):** S2 is now end-of-life as BST transitions to S3 platform

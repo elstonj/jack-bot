@@ -3,56 +3,52 @@
 ## By Product/System
 
 ### Black Swift S3
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | SOW for Phase II Arctic UAS engineering and testing with tube-launched VTOL configuration (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | SOW for S3 tube-launched VTOL configuration testing in arctic conditions (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ### SwiftCore FMS
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Flight management system specifications for cold-weather operations (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Integration and testing of SwiftCore flight management system for arctic operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### SwiftTab
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Ground control station interface for Arctic operations (bst_arctic_engineering_sprint_sow_drafta.md)
+### SwiftTab Ground Control
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Ground tablet interface for arctic UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
+
+### Multi-Product/Generic
+- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy (DOE) | July 2026 | Framework document for SBIR application evaluation criteria (pitch-stage-key-questions.md)
 
 ---
 
 ## By Client/Agency
 
-### NASA
-- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | Project announcement for Phase II SBIR contract negotiation with PrecisionTerra as lead (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
+### Canadian Joint Forces Command (via NexTech Solutions LLC)
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | July 2026 | SOW for S3 arctic testing and engineering sprint (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### Department of Energy (DOE)
-- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Notification of proposal rejection for Genesis Mission: Transforming Science and Energy with AI (FY 2026) (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
-
-### Canadian Joint Forces Command (CJFC)
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/CJFC | July 24, 2026 | Engineering SOW for Phase II Arctic UAS program including Whitehorse test event (bst_arctic_engineering_sprint_sow_drafta.md)
+### U.S. Department of Energy (DOE)
+- **Pitch-Stage Key Questions — Genesis Mission SBIR** | July 2026 | SBIR application framework document (pitch-stage-key-questions.md)
 
 ---
 
 ## By Application Area
 
 ### Arctic Operations
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Cold-weather UAS engineering sprint and test event for Arctic surveillance and operations (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Engineering sprint and Whitehorse test event for cold-weather UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### AI & Energy Science
-- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Proposed project integrating AI with energy science applications (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
-
-### Precision Agriculture/Earth Observation
-- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | NASA Phase II SBIR with PrecisionTerra for precision agriculture and Earth observation applications (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
+### Energy/Clean Technology (Implied)
+- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy | July 2026 | DOE SBIR evaluation framework (pitch-stage-key-questions.md)
 
 ---
 
 ## By Document Type
 
 ### Statements of Work (SOW)
-- **Arctic UAS Engineering Sprint — S3 Cold-Weather Configuration** | NexTech Solutions LLC/Canadian Joint Forces Command | July 24, 2026 | Draft A SOW for engineering sprint and Whitehorse test event (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Draft A SOW for Phase II engineering sprint and testing (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### Email Announcements/Notifications
-- **Exciting News - Phase II NASA SBIR!** | NASA | July 21, 2026 | Internal notification of Phase II SBIR selection (black_swift_technologies_mail_-_exciting_news_-_phase_ii_nasa_sbirpdf.md)
-- **Declination of Proposal 0000302243** | DOE | July 24, 2026 | Proposal declination notification (black_swift_technologies_mail_-_declination_of_proposal_0000302243_submitted_to_.md)
+### SBIR/Proposal Frameworks
+- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy | July 2026 | Question set and evaluation guidance for Genesis Mission SBIR resubmission (pitch-stage-key-questions.md)
 
 ---
 
-## Summary Statistics
-- **Total Documents:** 3
-- **Date Range:** July 21-24, 2026
-- **Products Featured:** S3, SwiftCore FMS, SwiftTab
-- **Clients/Agencies:** NASA, DOE, Canadian Joint Forces Command
-- **Document Types:** 1 SOW (Draft), 2 Email Notifications
+## Document Summary Statistics
+- **Total Documents Cataloged:** 2
+- **Unique Clients/Agencies:** 2 (Canadian Joint Forces Command, U.S. Department of Energy)
+- **BST Products Referenced:** 3 (S3, SwiftCore, SwiftTab)
+- **Date Range:** July 2026
+- **Document Types:** 1 SOW, 1 SBIR Framework

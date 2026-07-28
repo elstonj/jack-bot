@@ -21,7 +21,7 @@
   - **ERAU** / Josh Wadler (wadlerj@erau.edu; 1 Aeronautical Blvd, Daytona Beach, FL 32114; Ph: 386-226-6000); Pre-award contracting officer: Garrett Filson (filsong@erau.edu)
   - **Old Dominion University** / John Park (h1park@odu.edu; 2101F Engineering Systems Bldg, Norfolk, VA 23352; Ph: 757-683-3759); Pre-award contracting officer: Stephanie Haskell (sl2harri@odu.edu)
   - **University of Miami** / Jun Zhang (jun.zhang@earth.miami.edu; Ph: 305-979-0903); **CRITICAL: must be included on all correspondence**; funds flow: BST (Prime) → ERAU (Sub) → U Miami (ERAU Sub)
-- **Risk Signals**: Pioneer Array Flight due July 28, 2026 (approaching); Final Report (CLIN 0007) and Final Invoice (CLIN 1007) due September 1, 2026.
+- **Risk Signals**: Pioneer Array Flight due July 28, 2026 (imminent); Final Report (CLIN 0007) and Final Invoice (CLIN 1007) due September 1, 2026.
 
 ## Key Deliverables & Milestones
 | Deliverable | Due Date | Value | Status |

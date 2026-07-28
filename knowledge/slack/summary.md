@@ -1,77 +1,54 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-25 02:15
+Last scanned: 2026-07-28 02:20
 
-Total channels scanned: 10
+Total channels scanned: 8
 
 ## Channels
 
 - **#25_1-navy-sbir-magnetometer** -- 4 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 4 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
+- **#25_1-navy-sttr-boundary-layer** -- 20 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#flight-testing** -- 20 messages -- [flight-testing.md](flight-testing.md)
 - **#general** -- 4 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 6 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 4 messages -- [marketing.md](marketing.md)
-- **#operations** -- 3 messages -- [operations.md](operations.md)
-- **#s3** -- 6 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 19 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 12 messages -- [swiftcore.md](swiftcore.md)
+- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 16 messages -- [operations.md](operations.md)
+- **#sbir-hurricane** -- 100 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 4 messages -- [sbir-volcano.md](sbir-volcano.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Slack Channel Strategic Overview
-
-## Active Projects
-
-**Primary Product Lines:**
-- **S-series Aircraft**: S0 (fixed-wing hurricane reconnaissance), S1-VTOL, S3 (long-endurance VTOL hybrid)
-- **SwiftCore**: Firmware/software platform powering BST drone systems
-- **Government R&D**: Multiple SBIR/STTR projects with Navy and other federal agencies
-
-**Key Government Contracts:**
-- SBIR Hurricane (hurricane reconnaissance)
-- Navy SBIR Magnetometer (magnetic anomaly detection)
-- Navy STTR Boundary Layer (atmospheric sensing for tropical cyclones)
+# Black Swift Technologies - Strategic Channel Overview
 
 ## Cross-Channel Themes
 
-**Technical Development Pipeline:**
-- Hardware design (CAD, RF components, battery systems) flows from #s3 → #flight-testing → #swiftcore
-- Flight testing validates firmware/software across multiple platforms before deployment
-- Payload integration (magnetometers, sensors) bridges SBIR projects and core aircraft development
+### Active Projects
+- **SBIR Hurricane (S0 UAS)**: Primary focus across #sbir-hurricane, #flight-testing, #grants-and-funding. Ongoing 2020-2026 with continuous technical development and mission planning
+- **Navy SBIR Magnetometer**: Sensor integration project (#25_1-navy-sbir-magnetometer) combining QuSpin magnetometers with BST aircraft platforms
+- **Navy STTR Boundary Layer**: Atmospheric sensing capabilities for tropical cyclones (#25_1-navy-sttr-boundary-layer)
+- **SBIR Volcano**: NASA/USGS collaboration deploying S2/S3 aircraft for volcanic monitoring (#sbir-volcano)
 
-**Funding & Strategic Growth:**
-- #grants-and-funding drives revenue through federal contracts
-- Successful SBIR awards enable product development in #s3 and #swiftcore
-- Grant timelines influence resource allocation across all technical channels
+### Key Decision-Makers & Roles
+- **Jack Elston**: Primary leadership across all channels; drives proposals, firmware development, technical decisions
+- **Maciej**: Technical execution and flight testing lead; bridges multiple projects
+- **Joshua Fromm**: Hardware/shop operations; QA and component sourcing
+- **Meredith Needham**: Finance, admin, Navy liaison
+- **Beck Cotter**: Sensor integration and technical projects
+- **Dan Prendergast**: Business development and operations coordination
 
-**Operations & Delivery:**
-- #operations coordinates procurement, facilities, and logistics supporting all projects
-- #flight-testing serves as quality gate before deliverables
-- Marketing (#marketing) leverages completed projects for business development
+### Decision Patterns
+1. **Centralized approval**: Jack Elston reviews and approves major decisions, proposals, and technical directions
+2. **Integrated operations**: Field operations (#flight-testing) feed data to project channels; funding strategy (#grants-and-funding) supports active projects
+3. **Hierarchical escalation**: Day-to-day coordination in #operations; strategic decisions in #general; technical deep-dives in project-specific channels
 
-## Key Decision-Makers & Roles
+### Recurring Topics
+- **Flight operations & troubleshooting**: Firmware, payload integration, aircraft performance across multiple platforms (S0, S1, S2, S3, E2)
+- **Government funding cycles**: SBIR/STTR proposals, Navy/NASA/NOAA grant tracking and submissions
+- **Hardware procurement**: Component sourcing, shop capacity, logistics
+- **Technical integration**: Sensor payload development and validation across projects
+- **Administrative/Financial tracking**: Budget management, facility operations, shipping
 
-| Person | Primary Function |
-|--------|------------------|
-| Jack Elston | Leadership/strategy (grants, products, company direction) |
-| Joshua Fromm | Hardware lead (design, CAD, component sourcing, QA) |
-| Maciej | Flight testing lead & technical proposal support |
-| Beck Cotter | Magnetometer/SBIR project lead |
-| Dan Prendergast | Operations & business development |
-| Meredith Needham | Finance/administration & Navy liaison |
-
-## Recurring Decision Patterns
-
-1. **Jack Elston as approval node**: Major proposals, budget decisions, and strategic pivots flow through his review
-2. **Maciej as field validator**: Flight test results inform go/no-go decisions on projects
-3. **Joshua Fromm as engineering gatekeeper**: Component sourcing and design feasibility assessments precede manufacturing
-4. **Parallel execution**: Multiple SBIR/STTR projects run simultaneously with shared hardware/personnel resources
-
-## Connecting Threads
-
-- **SBIR Hurricane** (longest-running) provides platform foundation that enables magnetometer SBIR and boundary layer STTR projects
-- **S3 development** (#s3) is partially funded by/connected to government contracts in #grants-and-funding
-- **Flight testing** (#flight-testing) is critical validation for both internal products (#swiftcore, #s3) and government deliverables (SBIR/STTR)
-- **SwiftCore** is the enabling technology across all aircraft platforms and projects
-- **Operations** (#operations) manages budget and logistics resulting from funding wins in #grants-and-funding
+### Cross-Channel Connections
+- **Projects → Flight Testing → Operations**: Technical issues identified in project channels flow to #flight-testing for troubleshooting, escalate to #operations for resource/procurement needs
+- **Operations → Grants**: Flight test data and operational capacity inform proposal timelines and budget development
+- **Multiple project channels**: Share common platforms (S0, S2, S3), personnel, and technical expertise; magnetometer and boundary layer projects both Navy-funded and coordinated
+- **Leadership coordination**: #general serves as integration point where project updates, operational decisions, and strategic direction cascade across all teams

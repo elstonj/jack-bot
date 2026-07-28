@@ -1,102 +1,103 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 35,497.3 hours (2020-2026, through Jul 27)
+- **Total hours tracked:** 35,564.4 hours (2020-2026, through Jul 28)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
 ## Team Time Allocation
 
 ### Hours by Team Member (Ranked)
-1. **Jack Elston:** 13,110.6 hours (36.96% of total time)
-2. **Stachura:** 2,484.0 hours
+1. **Jack Elston:** 13,120.8 hours (36.89% of total time)
+2. **Stachura:** 2,492.3 hours
 3. **Alex:** 2,019.7 hours
 4. **Kay Rufty:** 1,974.0 hours
-5. **Nate:** 1,842.5 hours
+5. **Nate:** 1,850.7 hours
 6. **Josh Fromm:** 1,799.4 hours
 7. **Dan:** 1,613.8 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
 10. **Parker:** 1,218.7 hours
-11. **Beck Cotter:** 562.7 hours
-12. **Ethan Domagala:** 552.9 hours
-13. **Sam Hild:** 533.7 hours
-14. **Paige Smith:** 353.9 hours
-15. **Meredith Needham:** 312.3 hours
+11. **Beck Cotter:** 570.7 hours
+12. **Ethan Domagala:** 560.9 hours
+13. **Sam Hild:** 541.5 hours
+14. **Paige Smith:** 361.5 hours
+15. **Meredith Needham:** 321.2 hours
 16. **Spencer Hoehl:** 53.9 hours
 17. **Ben Busby:** 32.0 hours
 18. **Kareem Ahmed:** 16.4 hours
 19. **Remaining 9 team members:** ~4,310.6 hours combined
 
 ### Utilization Patterns
-- **Weekend inactivity (Jul 25-27):** No time entries logged — expected pattern for weekend/end-of-period
-- **Last tracked activity (Jul 24-25):** Hurricane IDIQ 34.1%, Operations 31.5%, PTO 15.8%, S3 IRAD 15.6%
-- **Expanded Hurricane crew active:** Ethan Domagala, Nate, Spencer Hoehl, Kareem Ahmed contributing alongside core team
-- **S3 IRAD emergence:** Sam Hild transitioning resources to internal development
-- **Stable overhead:** Operations workload ~120+ hrs/month baseline
+- **Jul 27-28 activity resumed:** 67.1 hours logged across 8 team members after weekend pause
+- **Current focus distribution:** General Operations 28.6%, Hurricane IDIQ 13.7%, S3 IRAD 12.9%, Marketing 11.3%
+- **HR/Recruiting activity:** Jack Elston leading engineering positions and supply chain specialist recruiting kickoffs (5.0 hours logged)
+- **Technical QC emphasis:** Sam Hild on Sonde QC, Nate on E2 IRAD preflight/QC — quality assurance workstream active
+- **ByLight secondary engagement:** Ethan Domagala continuing M2/Halo work (4.0 hours)
+- **Stable administrative baseline:** Meredith Needham on operations/admin (8.9 hours); one sick day logged
 
 ## Project Portfolio
 
 ### Top Projects by Hours
-1. **Project None (Unallocated):** 8,822.8 hours (24.88%)
-2. **Project 183171534:** 4,535.8 hours (12.78%)
-3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.28%)
-4. **[001-13] Corporate/Strategic Planning & Overhead:** 2,369.6 hours (6.68%)
-5. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.56%)
-6. **[001-08] Flight Testing IRAD:** 1,973.4 hours (5.57%)
-7. **[001-01] S0 VTOL IRAD:** 1,371.0 hours (3.87%)
-8. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.52%)
-9. **[001-16] SwiftStation IRAD:** 905.3 hours (2.55%)
-10. **[001-14] SwiftCore 3.3 IRAD:** 818.4 hours (2.31%)
-11. **[300-3] 2026 IDIQ (Hurricane):** 535.7 hours (1.51%)
-12. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.84%)
-13. **[001-07] S3 IRAD:** 383.2 hours (1.08%)
+1. **Project None (Unallocated):** 8,824.8 hours (24.81%)
+2. **Project 183171534:** 4,535.8 hours (12.75%)
+3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.26%)
+4. **[001-13] Corporate/Strategic Planning & Overhead:** 2,388.8 hours (6.72%)
+5. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.55%)
+6. **[001-08] Flight Testing IRAD:** 1,973.4 hours (5.55%)
+7. **[001-01] S0 VTOL IRAD:** 1,371.0 hours (3.86%)
+8. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.51%)
+9. **[001-16] SwiftStation IRAD:** 905.3 hours (2.54%)
+10. **[001-14] SwiftCore 3.3 IRAD:** 823.6 hours (2.32%)
+11. **[300-3] 2026 IDIQ (Hurricane):** 544.9 hours (1.53%)
+12. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.83%)
+13. **[001-07] S3 IRAD:** 391.9 hours (1.10%)
 14. **[001-01] Proposals (IRAD):** 375.3 hours (1.06%)
-15. **[001-20] PTO:** 310.5 hours (0.88%)
-16. **[001-03] S0-AD IRAD:** 271.1 hours (0.77%)
+15. **[001-21] PTO/Sick Leave:** 312.5 hours (0.88%)
+16. **[001-03] S0-AD IRAD:** 271.1 hours (0.76%)
 17. **[550-1] Navy SBIR: Magnetometer:** 95.6 hours (0.27%)
-18. **[001-09] SwiftCore 4.0 IRAD:** 8.0 hours (0.02%)
-19. **[001-13] Marketing (Overhead):** 7.9 hours (0.02%)
-20. **[001-13] HR General (Overhead):** 2.0 hours (0.01%)
+18. **[043-3] ByLight M2/Halo:** 32.4 hours (0.09%)
+19. **[001-12] Customer Support:** 5.5 hours (0.02%)
+20. **[001-02] E2 IRAD:** 5.2 hours (0.01%)
 
 ### Client Distribution
-- **IRAD (Internal R&D):** 7,602.0 hours (21.42%)
-- **Unallocated/Project None:** 8,822.8 hours (24.87%)
-- **NOAA (Hurricane Phase II+ + 2026 IDIQ):** 3,828.5 hours (10.79%)
-- **Overhead/Corporate/Operations:** 2,379.5 hours (6.71%)
-- **NASA:** 2,058.8 hours (5.81%)
-- **Department of Air Force:** 1,258.5 hours (3.55%)
-- **PTO/Sick Leave:** 310.5 hours (0.88%)
+- **IRAD (Internal R&D):** 7,612.2 hours (21.41%)
+- **Unallocated/Project None:** 8,824.8 hours (24.81%)
+- **NOAA (Hurricane Phase II+ + 2026 IDIQ):** 3,837.7 hours (10.80%)
+- **Overhead/Corporate/Operations:** 2,408.0 hours (6.77%)
+- **NASA:** 2,058.8 hours (5.79%)
+- **Department of Air Force:** 1,258.5 hours (3.54%)
+- **PTO/Sick Leave:** 312.5 hours (0.88%)
 - **Navy (SBIR/STTR):** 195.9 hours (0.55%)
-- **ByLight:** 28.4 hours (0.08%)
+- **ByLight:** 32.4 hours (0.09%)
 - **Murray State:** 6.8 hours (0.02%)
 - **Other:** ~44.0 hours (0.12%)
 
 ## Patterns & Insights
 
-### Hurricane IDIQ Maintains Sustained Velocity
-- **Consistent momentum through Jul 24-25:** 34.1% of tracked time allocation
-- **Expanded distributed team:** Spencer Hoehl, Nate, Kareem Ahmed, and Ethan Domagala now active contributors alongside core team
-- **Activity profile:** Hardware assembly (Kareem), development (Nate, Spencer), general project work
-- **Assessment:** Project demonstrates scaling capability with widening contributor base; ownership transitioning from concentrated (Jack Elston-dominant) to distributed model. NOAA contract acceleration evident.
+### Hurricane IDIQ Sustained Execution with Quality Focus
+- **Jul 27-28 allocation:** 9.2 hours on [300-3] 2026 IDIQ; contributors include Nate, Sam Hild, Ethan Domagala, Jack Elston
+- **QC-driven workstream:** Sonde QC and Firmware Release QC tools prominent in logged entries
+- **Distributed ownership continuing:** Ethan Domagala active on general IDIQ work; Sam Hild on hardware validation
+- **Assessment:** Project momentum sustained through period; quality assurance pipeline mature; team scaling remains effective
 
-### Operations Overhead Sustainable
-- **Baseline ~120+ hrs/month:** Operations, admin, and logistics overhead stable
-- **Primary drivers:** Administrative support (Meredith Needham) and scheduling (Beck Cotter)
-- **Trend:** No escalation signals; operational infrastructure absorbs consistent burden without bottlenecks
-- **Assessment:** Overhead management healthy; no recruiting/onboarding surge indicators
+### Overhead Operations & HR Scaling Activity
+- **General Operations surge (19.2 hrs Jul 27-28):** Above typical baseline, driven by administrative/email management
+- **HR recruiting initiatives:** Jack Elston logged 5.0 hours on engineering positions and supply chain specialist recruiting kickoffs
+- **Strategic hiring signal:** Dual-track recruitment (engineering + supply chain specialist) indicates growth preparation or retention planning
+- **Assessment:** No operational bottlenecks; overhead absorbing HR expansion activities smoothly
 
-### S3 IRAD Gaining Strategic Traction
-- **Sam Hild resource shift:** Increased allocation to [001-07] S3 IRAD; Navy Magnetometer hours declining (0.6 hrs recent)
-- **Strategic positioning:** Technical team reallocating toward higher-leverage internal development
-- **Assessment:** Management confidence in IRAD innovation pipeline; portfolio diversification underway
+### S3 IRAD & E2 IRAD Gaining Technical Momentum
+- **S3 IRAD (8.7 hrs recent):** Ethan Domagala on motor test rig development
+- **E2 IRAD (5.2 hrs):** Nate on E20007 preflight and QC
+- **Strategic trend:** Two parallel IRAD initiatives gaining traction; technical team depth expanding
+- **Assessment:** Portfolio diversification continuing; internal innovation pipeline strengthening
 
-### Jack Elston Concentration Risk Persists
-- **13,110.6 hours = 36.96% of all company time** — single-person dependency remains significant knowledge/execution bottleneck
-- **Mitigation in progress:** Hurricane IDIQ team expansion distributing workload, but primary dependency unchanged
-- **Recommendation:** Continue widening contributor base; monitor for knowledge concentration risks
+### ByLight Secondary Engagement Emerging
+- **[043-3] ByLight M2/Halo:** 4.0 hours logged Jul 27-28 (Ethan Domagala)
+- **Cumulative allocation:** 32.4 hours total (0.09% of company time) — low-priority but sustained engagement
+- **Team assignment:** Single contributor (Ethan), potential side project or partnership exploration
+- **Assessment:** Minimal resource drain; opportunistic engagement model; monitor for expansion signals
 
-### Weekend Boundary Maintained (Jul 25-27)
-- **No time entries Jul 25-27** — weekend inactivity as expected
-- **Work-life balance:** Team maintains healthy separation; no emergency/weekend work logged
-- **Operational note:** Clean period-end transition; no untracked backlog indicators
+### Jack Elston Concentration Risk Slightly Reduced (Marginal)
+- **Current: 13,120.8 hours = 36.89% of all company time**
