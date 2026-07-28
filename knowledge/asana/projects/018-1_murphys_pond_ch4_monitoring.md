@@ -8,7 +8,7 @@
 - **Team members involved:** Beck Cotter (owner/project lead), Jack Elston (lead technical/flight coordination), Joshua Fromm (payload engineering), Maciej Stachura (payload configuration), Nate Straus (software), Meredith O'Hara Needham (communications), Daniel Prendergast (logistics), Ethan Domagala (travel/logistics), Spencer Hoehl (payload checklists).
 - **Risk signals:**
   - **Flight #4 indefinite postponement (2026-07-22 & 2026-07-23, Daniel Prendergast—TEAM CORRECTION AUTHORITATIVE)** — Project timeline and scope severely uncertain. All travel and logistics work should be halted immediately. Clarify with Dr. Masri and Beck Cotter whether Flight #4 will occur within 2026 funding window (only ~4.5 months remain) or be carried forward/cancelled.
-  - **Travel finalization task (Ethan Domagala, due 2026-08-06, notes: "August 4th–6th, Ethan and Spencer")** — Likely moot given Flight #4 postponement. Should be suspended or cancelled pending Flight #4 rescheduling decision.
+  - **Travel finalization task (Ethan Domagala, due 2026-08-06, notes: "August 4th–6th, Ethan and Spencer")** — **Likely moot given Flight #4 postponement. SUSPEND or CANCEL pending Flight #4 rescheduling decision.**
   - **Payload checklists (Spencer Hoehl)** — Open with no due date. Status unclear post-postponement; may remain a requirement for future Flight #4 execution or be deprioritized.
   - **CO₂ payload data rate investigation (Jack Elston)** — Open with no due date. Priority and blocking dependencies unclear.
   - **Funding deadline:** All work must complete by 2026-12-31. Flight #4 postponement creates risk of scope/timeline misalignment with available funding window.
@@ -52,4 +52,4 @@
 - **Customer type:** Commercial; no subcontractors.
 - **Billing contact:** PaymentWorks.
 - **Priority:** Low (per custom field), though indefinite Flight #4 postponement and funding deadline require immediate escalation and clarification.
-- **Project initiation:** Dr.
+- **Project background:** Dr.

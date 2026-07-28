@@ -4,12 +4,12 @@
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked (cumulative):** 34.7 hours
+- **Total hours tracked (cumulative):** 36.2 hours
 
 ## Team Allocation
-- **Nate:** 22.2 hours (64%)
-- **Dan:** 10.5 hours (30%)
-- **Jack Elston:** 2.0 hours (6%)
+- **Nate:** 22.2 hours (61%)
+- **Dan:** 10.5 hours (29%)
+- **Jack Elston:** 3.5 hours (10%)
 
 ## Activity Timeline
 - **2.0 hours** - IRISS Support (Jack Elston)
@@ -20,13 +20,12 @@
 - **6.0 hours** - Undescribed work (Nate)
 - **5.5 hours** - Undescribed work (Dan)
 - **5.0 hours** - Undescribed work (Dan)
+- **1.5 hours** - Simulator Support (Jack Elston) *Latest*
 
 ## Insights
-- Work spans IRISS software support and hardware maintenance/calibration tasks
-- Nate remains primary contributor but share reduced from 89% to 64% with Dan's recent involvement
-- Dan entering project with 10.5 hours of recent activity—shift toward team expansion
-- Recent time entries (16.5 hours) lack descriptions; may indicate routine/recurring support tasks
-- Recent shift toward hands-on hardware work: S20004 wing repair and S2 servo calibration indicate field/bench maintenance responsibilities
+- Work spans IRISS software support, simulator support, and hardware maintenance/calibration tasks
+- Nate remains primary contributor (61%), with Dan at 29% and Jack re-engaged at 10%
+- Jack's involvement has expanded beyond early IRISS phase—now actively supporting simulator operations (1.5h recent entry)
+- Nate and Dan continue handling mixed duties: software support + field/bench maintenance
 - Non-billable internal support and repair work for IRAD customer
-- Jack's involvement limited to early IRISS support phase; responsibility now shared between Nate and Dan
-- Pattern indicates mixed support duties: software support + field repair/maintenance work
+- Simulator support emerging as secondary responsibility area alongside hardware and IRISS work

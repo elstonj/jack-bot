@@ -4,7 +4,7 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and monthly rent payments
-- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Pay Rent due 2026-07-27). All recent cleaning cycles completed on schedule or within 3–5 days of due date.
+- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Pay Rent due 2026-07-27). All cleaning cycles completed on schedule or within 3–5 days of due date.
 - **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, rent payment), Nate Straus (facilities improvements & consumables management)
 - **Risk signals**: None; all completed tasks show consistent, reliable execution with minimal delays. Single open rent payment task is routine and on track.
 
@@ -19,24 +19,22 @@
 - **Consumables stock management** (periodic; last updated 2025-11-04)
 
 ## Task Summary
-- **Total tasks**: 1 open, 11 completed
+- **Total tasks**: 1 open, 0 completed (in current snapshot)
+  - *Note: Prior snapshot showed 1 open, 11 completed. Recent data shows updated state with 1 open task only; completed tasks may have been archived or cleared from active view.*
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open (Pay Rent – due 2026-07-27); 11 completed (Office Cleaning cycles)
-    - All bi-weekly cleaning tasks completed; typical lag 2–5 days after due date
+  - **Meredith O'hara Needham**: 1 open (Pay Rent – due 2026-07-27)
+    - Primary owner of operational cadence (cleaning coordination, rent payments)
+  - **Nate Straus**: Facilities improvements & consumables management (not currently reflected in open/completed counts)
 - **Notable patterns**: 
-  - Bi-weekly cleaning is the primary tracked task in Asana; all recent cycles show consistent execution
-  - Monthly rent payment task tracked as discrete Asana items; next payment open and on schedule
+  - Monthly rent payment tracked as discrete Asana item; next payment on schedule
+  - Bi-weekly cleaning historically shows consistent execution with 2–5 day lag after due date
   - Consumables and equipment planning tracked outside primary Asana export
   - No overdue or at-risk tasks
 
 ## Recent Activity
 - **Open tasks**:
   - Pay Rent (due 2026-07-27, assigned to Meredith O'hara Needham)
-- **Recently completed tasks** (from prior snapshot):
-  - Office Cleaning (due 2025-11-01, completed 2025-11-04)
-  - Office Cleaning (due 2025-10-18, completed 2025-10-23)
-  - Office Cleaning (due 2025-10-04, completed 2025-10-06)
-- Pattern: Bi-weekly cleaning cadence maintained consistently through October and November 2025
+- **Baseline** (from prior snapshot): Bi-weekly cleaning cadence maintained consistently through October and November 2025 (all completed within schedule tolerances)
 
 ## Notes & Context
 

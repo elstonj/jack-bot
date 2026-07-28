@@ -28,7 +28,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 
 ## Task Summary
 - **Total Tasks:** 1 open, 0 completed
-- **Open Tasks:** Geoffrey Bland contact information (unassigned, no due date, high priority)
+- **Open Tasks:** Geoffrey Bland contact information (unassigned, high priority)
   - Includes multiple email addresses and Geoffrey's transition details
   - Primary product: Aeropod
 

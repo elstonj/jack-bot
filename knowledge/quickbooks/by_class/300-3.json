@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-26",
-    "end": "2026-07-27"
+    "start": "2026-07-27",
+    "end": "2026-07-28"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 8355.0,
+    "expenses": 10258.58,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8355.0
+      "DIRECT COSTS:DC-Direct Material Purchases": 10258.58
     }
   },
   "invoices": [
@@ -56,6 +56,42 @@
           "amount": 8355.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 Deployment Tubes & Hardware"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-27",
+      "doc_number": "490602963468",
+      "total": 362.3,
+      "attributed": 362.3,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 362.3,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Supplies for NOAA IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-27",
+      "doc_number": "39954753",
+      "total": 1541.28,
+      "attributed": 1541.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1541.28,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Supplies for NOAA IDIQ"
         }
       ]
     }

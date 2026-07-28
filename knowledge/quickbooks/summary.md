@@ -1,85 +1,68 @@
 # BST Financial Overview (QuickBooks)
-
-## Executive Summary
-**Reporting Period:** April 5, 2024 – September 28, 2026
-
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoiced)** | $4,628,824.64 |
-| **Total Expenses** | $2,794,423.35 |
-| **Net Income** | $1,834,401.29 |
+**Period: July 27–28, 2026 | Data Through: September 28, 2026**
 
 ---
 
-## Financial Performance by Project/Class
+## Company Totals
 
-### 1. Government
-- **Total Revenue:** $4,605,930.28
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoices)** | $4,643,283.64 |
+| **Total Expenses** | $2,795,606.86 |
+| **Net Income (Estimate)** | **$1,847,676.78** |
+| **Outstanding A/R Balance** | $3,353,078.82 |
+
+*Note: The July 27–28 P&L snapshot shows negative income (-$3,087.09) due to timing; full period analysis shows strong profitability.*
+
+---
+
+## By Project/Class
+
+### 1. **Government** *(Largest Project)*
+- **Total Revenue:** $4,620,389.28
 - **Total Expenses:** $1,465,961.93
-- **Net Position:** +$3,139,968.35 ✓ (68% margin)
-- **Active Invoices:** 79
-- **Outstanding A/R:** $3,339,619.82
+- **Net Position:** $3,154,427.35 ✓ Profitable
+- **Outstanding A/R:** $3,353,078.82 (72% of revenue still outstanding)
+- **Transaction Count:** 80 active invoices
+- **Status:** High activity, significant cash flow lag
 
-### 2. BST Internal
+### 2. **BST Internal** *(Support/R&D Project)*
 - **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,328,461.42
-- **Net Position:** -$1,305,566.06 ✗
-- **Active Invoices:** 2
-- **Transaction Count:** 1,312 (27+ months of operations)
-
-**Status:** Government projects are highly profitable and driving company profitability. BST Internal operations show significant expense against minimal internal revenue (likely overhead/R&D).
+- **Total Expenses:** $1,329,644.93
+- **Net Position:** -$1,306,750.57 ✗ Significant Loss
+- **Outstanding POs:** $1,700.00 (Amprius, PO #1038)
+- **Transaction Count:** 1,315 transactions (27+ months of activity)
+- **Status:** Internal overhead; expenses far exceed invoiced revenue
+- **Recent Activity:** +$6,558.50 in expenses (July 27–30, 2026)
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Invoices)
-| Project | Outstanding Balance | % of Total Revenue |
-|---------|---------------------|-------------------|
-| Government | $3,339,619.82 | 72.5% |
-| BST Internal | Data incomplete | — |
-| **Total A/R** | **~$3.34M** | **72%** |
+### Accounts Receivable Status
+- **Total Outstanding A/R:** $3,353,078.82
+- **Primary Source:** Government project (80 active invoices)
+- **Collection Rate Risk:** 72% of Government revenue remains unpaid—indicates significant billing/payment processing delays
 
-⚠️ **High A/R Alert:** 72% of Government revenue remains uncollected. This represents significant working capital tied up in outstanding invoices.
+### Recent Large Expenses
+- **BST Internal:** $6,558.50 (July 27–30, 2026)
+- **Direct Material Purchases:** $1,903.58
+- **IRAD (Internal R&D):** $1,183.51
 
-### Recent Major Expenses
-- BST Internal: +$5,374.99 (July 30, 2026)
-- Outstanding Purchase Order: $1,700.00 (Amprius, PO #1038)
-- Government: $832.00 in outstanding POs
-
----
-
-## Top Vendors & Customers
-
-### Top Customers (by Revenue)
-| Customer Type | Revenue | % of Total |
-|---------------|---------|-----------|
-| Government | $4,605,930.28 | 99.5% |
-| Internal/Other | $22,894.36 | 0.5% |
-
-**Note:** Vendor and detailed customer breakdowns are incomplete in provided data.
-
----
-
-## Transaction Classification
-
-| Category | Status |
-|----------|--------|
-| Government Projects | Well-classified (79 invoices) |
-| BST Internal | Well-classified (1,312 transactions) |
-| Unclassified Transactions | None noted |
+### Outstanding Purchase Orders
+- **Amprius (PO #1038):** $1,700.00 — pending fulfillment
 
 ---
 
 ## Key Observations
 
-✓ **Strengths:**
-- Government projects are highly profitable (+$3.14M net)
-- Strong revenue base of $4.6M invoiced
+⚠️ **Critical Cash Flow Issue:** Despite strong invoiced revenue ($4.6M+), only Government projects are operationally profitable. BST Internal operations are running at a **$1.3M loss** and may represent:
+- Corporate overhead/R&D infrastructure
+- Unallocated internal labor or facilities
+- Projects in development phase
 
-⚠️ **Concerns:**
-- 72% of Government revenue uncollected ($3.34M outstanding A/R)
-- BST Internal operations are significantly cost-heavy relative to internal revenue
-- High expense base ($2.79M) requires continued revenue to maintain profitability
+✓ **Government Contracts:** Represent 99.5% of revenue and are healthy at 68% net margin, though collection delays are material.
 
-📊 **Recommendation:** Prioritize collections on outstanding Government invoices to improve cash flow.
+---
+
+*Complete vendor and customer rankings unavailable from provided data. Recommend reviewing aged A/R aging report and vendor spend analysis for full financial picture.*

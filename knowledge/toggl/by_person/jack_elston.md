@@ -1,17 +1,18 @@
 # Jack Elston — Time Tracking
 
 ## Summary
-- Total hours tracked: 13,088.6 hours (cumulative)
-- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,387.8h), [001-13] General Operations (396.2h), Project 154533463 (357.2h)
-- Time period: Extensive historical tracking through current activity (latest batch: 11.5 hours)
+- Total hours tracked: 13,098.8 hours (cumulative)
+- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,390.8h), [001-13] General Operations (399.9h), Project 154533463 (357.2h)
+- Time period: Extensive historical tracking through current activity (latest batch: 10.2 hours)
 
 ## Project Breakdown
 - **Project None**: 7,079.0 hours (54.1% of total)
 - **Project 183171534**: 2,110.3 hours (16.1% of total)
-- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,387.8 hours (10.60% of total) — *Updated: 1,384.0h → 1,387.8h (+3.8h)*
-- **[001-13] General Operations (Overhead)**: 396.2 hours (3.03% of total) — *Updated: 390.4h → 396.2h (+5.8h)*
+- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,390.8 hours (10.62% of total) — *Updated: 1,387.8h → 1,390.8h (+3.0h)*
+- **[001-13] General Operations (Overhead)**: 399.9 hours (3.05% of total) — *Updated: 396.2h → 399.9h (+3.8h)*
 - **Project 154533463**: 357.2 hours (2.73% of total)
-- **[001-13] HR General (Overhead)**: 5.0 hours (0.04% of total) — *Updated: 3.0h → 5.0h (+2.0h)*
+- **[001-13] HR General (Overhead)**: 7.0 hours (0.05% of total) — *Updated: 5.0h → 7.0h (+2.0h)*
+- **[001-12] Customer Support (IRAD)**: 1.5 hours (0.01% of total) — *NEW entry*
 - **Commercial Sales**: 187.3 hours (1.43% of total)
 - **[001-13] BD Pipeline (Overhead)**: 165.6 hours (1.27% of total)
 - **[001-13] Proposals (IRAD)**: 73.5 hours (0.56% of total)
@@ -25,23 +26,24 @@
 - **Remaining projects**: 1,167.6 hours (8.92% of total)
 
 ## Recent Activity
-Most recent work (11.5 hours tracked in current batch):
+Most recent work (10.2 hours tracked in current batch):
 
-- **[001-13] General Operations**: 5.8 hours (50% of batch)
-  - Answering Emails: 2.8 hours
-  - Stop in - BST & Jed: 0.5 hours
-  - S3 meeting: 0.5 hours
+- **[001-13] General Operations**: 3.8 hours (37% of batch)
+  - Answering Emails: 3.8 hours (1.8h + 2.0h from two sessions)
 
-- **[300-3] 2026 IDIQ (Hurricane)**: 3.8 hours (33% of batch)
-  - Firmware Release and QC Tool: 3.8 hours (consolidated from two sessions: 1.0h + 2.8h)
+- **[300-3] 2026 IDIQ (Hurricane)**: 3.0 hours (29% of batch)
+  - Firmware Release and QC Tool: 3.0 hours
 
-- **[001-13] HR General**: 2.0 hours (17% of batch)
-  - BST NA AE Recruiting Kickoff: 1.0 hours
-  - BST TPM Recruiting Kickoff: 1.0 hours
+- **[001-13] HR General**: 2.0 hours (20% of batch)
+  - Engineering Positions Kick-off: 1.0 hours
+  - KrateoSky Supply Chain Specialist Recruiting Kickoff: 1.0 hours
+
+- **[001-12] Customer Support**: 1.5 hours (15% of batch)
+  - Simulator Support: 1.5 hours
 
 ## Patterns
-- **Increased HR recruiting activity**: New focus area; two recruiting kickoffs (NA AE and TPM roles) suggest active hiring initiatives
-- **Hurricane platform active**: Concentrated firmware release and QC tool work; maintains project momentum
-- **Administrative overhead steady**: Email and coordination work remains consistent operational baseline
-- **Leadership/mentoring presence**: "Stop in - BST & Jed" suggests mentoring or check-in activities
-- **Portfolio stability**: No new projects; continued focus on core project portfolio with elevated overhead allocation due to recruiting efforts
+- **Sustained HR recruiting effort**: Three distinct recruiting initiatives (Engineering Positions, KrateoSky Supply Chain Specialist, plus prior NA AE and TPM roles) indicate ongoing strategic hiring across multiple functions
+- **Hurricane platform steady**: Continued firmware release and QC tool work; consistent project maintenance
+- **Administrative baseline stable**: Email management remains primary operational overhead activity (~3.8 hours per batch)
+- **New support function emerging**: Customer Support for simulator introduced; may indicate expanded product support responsibilities or new service offering
+- **Leadership/operational focus**: High proportion of time in overhead and strategic activities (recruiting, support, operations) alongside core technical delivery

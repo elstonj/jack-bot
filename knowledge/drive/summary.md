@@ -1,51 +1,56 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-27 02:17
+Last scanned: 2026-07-28 02:27
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 4 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Google Drive Strategic Overview: Black Swift Technologies
+# Black Swift Technologies — Shared Drive Strategic Overview
 
-## Summary
+## Summary Statistics
+- **Total files across drives:** 11
+- **Active drives:** 2 (Federal Projects, Sales)
+- **Date range:** 2022–2099 (note: 2099 appears to be a data anomaly)
+- **Recent activity:** Heavy July 2026 update cycle
 
-**Overall Assessment:** Minimal documentation across reviewed drives. The organization requires immediate attention to document management infrastructure.
+## Key Clients/Projects
+1. **Genesis Project** — Pitch-stage proposal materials; currently in re-submission phase
+2. **S0 Shipment (July 27, 2026)** — Active fulfillment with serial tracking and pre-flight testing
+3. **Arctic Engineering Sprint** — Engineering SOW and requirements documentation (Sales drive)
+4. **S3 Requirements** — Ongoing specification development
 
----
+## Cross-Drive Patterns
+| Drive | Role | Document Types |
+|-------|------|-----------------|
+| **Federal Projects** | Delivery & compliance | Proposals, shipment logistics, pre-flight checklists, test cards |
+| **Sales** | Business development | RFPs, SOWs, cost estimates (ROM), product analysis |
 
-## Drive-by-Drive Analysis
+**Observation:** Clear division between execution (Federal) and opportunity (Sales), though both drives converge on S-series product deliverables.
 
-### Federal Projects
-- **Volume:** 2 files only
-- **Content:** Video files (RC_VID_0008.MOV, RC_VID_0009.MOV)
-- **Organization:** No folder structure
-- **Status:** Appears inactive or underdeveloped
+## Shared Resources & Templates
+- Pre-flight checklists appear standardized (2025-05-29 version referenced)
+- SOW templates in use (Arctic Engineering Sprint; Genesis proposal framework)
+- Requirements documentation framework (S3_Requirements_filled_v2)
 
----
+## Organization & Naming Observations
+✓ **Strengths:**
+- Consistent date-stamped naming (e.g., `emass_bst_drone_analysis_20260706.pdf`)
+- Version tracking (ROM_v3, S3_Requirements_v2)
+- Logical folder hierarchy by project/shipment
 
-## Key Observations
+⚠ **Areas of Concern:**
+- Minimal folder structure (only 2 folders across 11 files)
+- Limited metadata (few descriptions provided)
+- No visible archival or aging policy for completed phases
 
-### Critical Issues
-1. **Severely Limited Documentation** — Only 2 files across the Federal Projects drive suggests either:
-   - Nascent federal program with minimal activity
-   - Documentation stored elsewhere (non-Drive systems)
-   - Incomplete migration to shared drives
-
-2. **Date Anomaly** — File modification dates (2099-01-24) are future-dated and likely represent corrupted metadata
-
-3. **No Project Organization** — Absence of folder hierarchy, naming conventions, or document structure
-
----
-
-## Recommendations
-
-1. **Audit Documentation Location** — Confirm if federal project files/contracts exist outside Drive
-2. **Establish Folder Architecture** — Create standardized structure (e.g., Contracts, Proposals, Deliverables, Communications)
-3. **Implement Naming Conventions** — Define standards across all drives (e.g., `YYYY-MM-DD_ProjectName_DocumentType`)
-4. **Review File Metadata** — Investigate 2099 dates; may indicate system issues
-5. **Develop Drive Usage Policy** — Clarify which projects/content belong in Federal Projects drive vs. other locations
+## Recommended Attention Areas
+1. **Stale content risk** — Genesis re-submit materials (modified 2026-07-27); unclear if active or closed
+2. **Scalability** — Flat structure may become unwieldy as project volume grows
+3. **Naming consistency** — Sales drive uses mixed conventions; establish standard naming policy
+4. **Missing drives** — No visible Engineering, Finance, or HR drives; may indicate compartmentalization or gaps

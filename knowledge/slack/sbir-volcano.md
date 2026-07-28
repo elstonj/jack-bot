@@ -4,11 +4,11 @@
 This channel is primarily used for coordinating Black Swift Technologies' SBIR (Small Business Innovation Research) projects focused on volcanic monitoring using unmanned aircraft systems. The main projects involve deploying S2 and S3 aircraft with specialized sensor payloads to study volcanic emissions and activity, with NASA oversight and collaboration with USGS scientists.
 
 Key participants include:
-- **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics)
+- **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics, equipment assessment)
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
-- **Maciej Smolka** (Regulatory, reporting, flight planning, translation support)
-- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis)
+- **Maciej Smolka** (Regulatory, reporting, flight planning, translation support, payload documentation)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis, translation testing)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
@@ -98,13 +98,8 @@ The channel covers activities from 2020 through July 2026, with high activity du
 - **Testing Strategy**: Dan Prendergast to test PDF translation first via ForgeFile; fall back to .tex file processing if PDF approach fails
 - **Current Status**: Operating manual finalized and ready for translation after document editing conflicts resolved
 
-## Projects & Initiatives
-
-**Makushin Volcano Monitoring (Alaska)**
-- **Status**: Multiple successful deployments completed (2021, 2022, 2023)
-- **Key Achievement**: First successful detection and measurement of volcanic plume downwind of summit using trace gas sensors
-- **Capabilities**: Operations in 30+ knot winds, beyond USGS helicopter limits (20 knots)
-- **Location**: Dutch Harbor, Alaska
-- **Partners**: USGS, Alaska Volcano Observatory, NASA
-
-**CRATER Mission (Costa Rica
+**Photogrammetry Payload Camera Upgrade Discussion (July 27, 2026)**
+- Jack Elston flagged that both Sony A5100 camera (16mm lens) and FLIR equipment in photogrammetry payload should be reviewed for potential upgrades
+- **Rationale**: Current equipment sufficient for mission but team anticipates increased usage that warrants evaluating better options
+- **Technical Concern**: Current camera setup requires manual verification of date/time settings and EXIF data preservation
+- **Action

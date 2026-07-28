@@ -114,5 +114,12 @@
 
 ## Demo/Flight Calendar (July–September 2026)
 
-**Maintained by Beck (07/10/26 & 07/13/26):**
+**Maintained by Beck:**
 Demo and flight schedule through September 2026 in shared Google calendar: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
+
+**Recent Updates (Beck, 07/10/26 & 07/13/26):** Calendar updated with latest flight and demo schedule.
+
+**Platform Schedule Modifications Proposed (Maciej, 07/27/26):**
+For KS Tech Sync, platform schedule modifications starting September 2026:
+1. Cancel S3 Europe wing reduction
+2. Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left to compensate (goal

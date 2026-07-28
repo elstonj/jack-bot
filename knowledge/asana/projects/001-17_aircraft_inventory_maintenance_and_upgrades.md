@@ -35,6 +35,13 @@
 
 ## Recent Activity
 
+**S3 Industrial Plan Timeline Adjustments (Jul 2026):**
+Per Maciej Stachura (Jul 27, 2026), the following modifications to the Industrial Plan starting September 2026 are under discussion for KS Tech Sync:
+1. **Cancel** S3 Europe wing reduction
+2. **Move S3 Hybrid right** and **S0/S0-VTOL ISR left** (with goal of S0-ISR demo for UK)
+3. **Move S3 de-ice and S3 Salt Spray right** and **S3 severe cold left** (to align with Whitehorse demo timeline)
+4. **Status uncertain** on S3 Methane, S3 Visual, and S3 comms in Q4 2026 (message incomplete)
+
 **S3 Platform Planning (Jul 2026):**
 Per Maciej Stachura (Jul 24, 2026), three distinct S3 upgrade initiatives are now formally separated:
 1. **S3 Whitehorse Upgrades** – Separate from Industrial Plan; pending approval and funding; will be spun into standalone **S3 Whitehorse** project once approved
@@ -73,4 +80,4 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
 
 **Post-project maintenance framework:** All future aircraft and equipment issues are captured via Daniel Prendergast's post-flight form (May 2026) and automatically routed to the Fleet Maintenance project or other relevant project spaces. This archived project serves as historical reference only.
 
-**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured (per Maciej Stachura, Jul 24, 2026).
+**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured. Industrial Plan modifications under discussion for September 2026 execution (per Maciej Stachura, Jul 24–27, 2026).

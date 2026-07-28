@@ -4,89 +4,88 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 716.7 hours (699.5h + 17.2h)
+- **Total hours tracked:** 725.9 hours (716.7h + 9.2h)
 
 ## Team Allocation
-- **Nate:** 272.7 hours (38.06%) — *+7.0h*
-- **Jack Elston:** 148.5 hours (20.71%)
-- **Stachura:** 129.3 hours (18.05%)
-- **Spencer Hoehl:** 59.0 hours (8.23%) — *+6.3h*
-- **Sam Hild:** 40.9 hours (5.71%)
-- **Ethan Domagala:** 47.7 hours (6.66%)
-- **Kareem Ahmed:** 16.4 hours (2.29%) — *+3.9h*
-- **Alex:** 8.0 hours (1.12%)
-- **Josh Fromm:** 5.0 hours (0.70%)
+- **Nate:** 275.7 hours (37.94%) — *+3.0h*
+- **Jack Elston:** 151.5 hours (20.86%) — *+3.0h*
+- **Stachura:** 129.3 hours (17.80%)
+- **Spencer Hoehl:** 59.0 hours (8.12%)
+- **Ethan Domagala:** 49.9 hours (6.87%) — *+2.2h*
+- **Sam Hild:** 41.8 hours (5.76%) — *+0.9h*
+- **Kareem Ahmed:** 16.4 hours (2.26%)
+- **Alex:** 8.0 hours (1.10%)
+- **Josh Fromm:** 5.0 hours (0.69%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
-### Most Recent Work (Current Batch — 17.2h)
-- **Nate** - No description provided (7.0h)
-- **Spencer Hoehl** - No description provided (6.3h cumulative: 3.4h + 2.9h)
-- **Kareem Ahmed** - S0 assembly (3.9h)
+### Most Recent Work (Current Batch — 9.2h)
+- **Nate** - No description provided (3.0h)
+- **Jack Elston** - Firmware Release and QC Tool (3.0h)
+- **Ethan Domagala** - IDIQ (2.2h)
+- **Sam Hild** - Sonde QC (0.9h)
 
-### Prior Work
-Accumulated project history includes:
-- **Jack Elston:** Firmware Release and QC Tool, New GCS Setup, Mag Calibrations QC, ET/HFP tag up, Launch Parameter debugging
-- **Sam Hild:** Deployment Tube QC, PSNS QC, QC Record Keeping, General QC, AP Debug work
-- **Nate:** Ground Control Station work and extensive undocumented entries
-- **Stachura, Spencer Hoehl, Ethan Domagala:** Primarily undocumented work
-- **Kareem Ahmed:** S0 assembly work (continuing)
-- **Alex:** First project contribution
+### Prior Work Patterns
+Project history includes extensive work on:
+- Ground Control Station (Nate, Jack)
+- QC operations (Sam, Jack, Ethan)
+- S0 assembly (Kareem)
+- Firmware and GCS tooling (Jack)
+- Mag calibrations, tag-ups, launch parameters (Jack)
+- Deployment tube, PSNS QC (Sam)
 
 ## Insights
 
 ### Work Types (Current Batch)
-- **17.2 hours submitted; 3.9h (22.7%) documented**
-- **Nate:** 7.0h with zero description (undescribed)
-- **Spencer Hoehl:** 6.3h with zero description (undescribed)
-- **Kareem Ahmed:** 3.9h fully described (S0 assembly — continuation)
+- **9.2 hours submitted; 6.2h (67.4%) documented**
+- **Jack Elston:** 3.0h Firmware Release and QC Tool (continuation)
+- **Ethan Domagala:** 2.2h IDIQ work
+- **Sam Hild:** 0.9h Sonde QC (new work type)
+- **Nate:** 3.0h undescribed (32.6% of batch)
 
 ### Documentation Status
-- **Current batch:** 3.9h documented / 17.2h submitted = **22.7% compliance** (-40.5 percentage points from prior batch)
-- **Overall project:** 197.1h documented / 716.7h total = **27.51% documented** (-0.12 percentage points)
-- **Undescribed backlog:** 519.6h (72.49% of project)
-  - **Nate:** 264.7h undescribed (97.07% of Nate's work) — *+7.0h undescribed* ⚠ **REGRESSED**
-  - **Spencer Hoehl:** 59.0h undescribed (100% of Spencer's work) — *+6.3h undescribed* ⚠ **REGRESSED**
-  - **Ethan Domagala:** 40.5h undescribed (84.91% of Ethan's work) — no change
+- **Current batch:** 6.2h documented / 9.2h submitted = **67.4% compliance** (+44.7 percentage points from prior batch)
+- **Overall project:** 203.3h documented / 725.9h total = **28.01% documented** (+0.5 percentage points)
+- **Undescribed backlog:** 522.6h (71.99% of project)
+  - **Nate:** 267.7h undescribed (97.10% of Nate's work) — *+3.0h undescribed* ⚠ **STILL PROBLEMATIC**
   - **Stachura:** 126.3h undescribed (97.68% of Stachura's work) — no change
-  - **Jack Elston:** 142.7h undescribed (96.10% of Jack's work) — no change
+  - **Jack Elston:** 142.7h undescribed (94.36% of Jack's work) — no change
+  - **Spencer Hoehl:** 59.0h undescribed (100% of Spencer's work) — no change
+  - **Ethan Domagala:** 42.7h undescribed (85.57% of Ethan's work) — *-2.2h undescribed* ✓ **IMPROVED**
+  - **Sam Hild:** 41.8h undescribed (100% of Sam's work) — *-0.9h undescribed* ✓ **IMPROVED**
+  - **Kareem Ahmed:** 6.5h undescribed (39.63% of Kareem's work) — no change
   - **Alex:** 8.0h undescribed (100% of Alex's work) — no change
-  - **Kareem Ahmed:** 6.5h undescribed (39.63% of Kareem's work) — *-6.0h undescribed* ✓ **MAINTAINED**
-  - **Sam Hild:** 40.9h undescribed (100% of Sam's work) — no change
 
-### Patterns & Concerns
+### Patterns & Insights
 
-**Documentation Compliance Reversal:**
-- Current batch **dropped to 22.7% compliance** from prior batch's 63.2%
-- **Nate re-entered project with 7.0h fully undescribed** — largest single undescribed submission since tracking began
-- **Spencer Hoehl contributed 6.3h with zero documentation** — new contributor with no prior entries suddenly active
-- Combined **Nate + Spencer undescribed: 13.3h (77.3% of this batch)**
-- Suggests **previous compliance improvement was temporary or limited to specific contributors**
+**Documentation Recovery in Current Batch:**
+- **Dramatic rebound to 67.4% compliance** from previous batch's 22.7%
+- **Ethan Domagala and Sam Hild both submitted documented entries** — positive reversal after prior undescribed submissions
+- Jack Elston continues consistent documentation of existing work areas
+- **Suggests documentation enforcement may be taking partial effect**
 
-**Kareem Ahmed Maintains Improvement:**
-- Continues submitting 100% documented S0 assembly work (3.9h)
-- Only team member sustaining documentation discipline across batches
-- Demonstrates **policy enforcement can work when consistently applied**
+**Nate's Pattern Continues:**
+- Now 267.7h undescribed cumulatively (97.1% of his work)
+- Continues submitting minimal entries (3.0h) without descriptions
+- Represents **51.2% of project's entire undescribed backlog**
+- **Consistent non-compliance across all recent batches despite 275.7h total**
 
-**Nate's Undescribed Backlog Now Critical:**
-- Accumulated 264.7h undescribed (97.07% of his work)
-- Represents **51.0% of project's entire undescribed backlog** (519.6h)
-- Fresh 7.0h submission indicates **active disengagement from documentation requirement**
-
-**Spencer Hoehl Documentation Bypass:**
-- First meaningful project contribution (6.3h)
-- Submitted entirely undescribed in two entries
-- Suggests **onboarding/enforcement issue similar to Alex** (who was flagged but remains undescribed)
+**Positive Developments:**
+- **Sam Hild (0.9h, 100% documented)** — Sonde QC is newly described work type
+- **Ethan Domagala improvement** — 2.2h documented entry reverses prior all-undescribed pattern
+- **Jack Elston steady** — Continues transparent firmware/QC work documentation
 
 ---
 
 ## Recommendations
 
-**URGENT ESCALATION REQUIRED:**
+**PRIORITY ACTIONS:**
 
-1. **IMMEDIATE: Enforce documentation policy with Nate.** Current batch's 7.0h undescribed submission after prior compliance improvement indicates policy enforcement lapsed. Nate controls >51% of undescribed backlog (264.7h). Require resubmission with descriptions or block future entry.
+1. **ESCALATE Nate's compliance immediately.** Third consecutive batch with undescribed submission (3.0h). At 267.7h undescribed (51.2% of backlog), escalation to management required. Cannot proceed with additional Nate hours until prior descriptions provided.
 
-2. **IMMEDIATE: Intercept Spencer Hoehl before continued work.** New contributor with 6.3h entirely undescribed. Implement entry-level documentation requirement before additional submissions accepted.
+2. **REINFORCE with Ethan & Sam.** Their current batch documentation shows policy works when enforced. Maintain pressure to sustain this improvement and retroactively document prior undescribed hours where possible.
 
-3. **MONITOR:
+3. **CONTINUE Spencer Hoehl embargo.** No new entries in current batch. Maintain requirement that first entry must be fully documented before accepting additional work.
+
+4. **MONITOR Jack Elston trajectory.** Remains at 94.36% undescribed despite consistent descriptions. Investigate whether work types are too broad to document meaningfully, or if backlogs exist.
