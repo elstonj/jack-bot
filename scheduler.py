@@ -6,7 +6,7 @@ from slack_sdk import WebClient
 
 import anthropic
 
-from daily_research import run_daily_pipeline
+from daily_research import run_daily_pipeline, _split_summary
 from research_cache import get_team_summary, get_per_user_sections  # noqa: F401  per_user still used by DM path via cache
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
@@ -121,6 +121,12 @@ def post_team_summary(client, channel):
     team = get_team_summary()
     if not team:
         return None
+
+    # Belt and braces: if a per-user section ever survives into the cached team
+    # summary, trim it here so the main view stays team-level only. (Slack also
+    # splits any post over ~4000 chars into extra top-level messages, which is
+    # how a leaked block first showed up as a second un-threaded post.)
+    team, _leaked = _split_summary(team)
 
     resp = client.chat_postMessage(channel=channel, text=team)
     parent_ts = (
