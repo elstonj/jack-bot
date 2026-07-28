@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 venv/
+
+# Local run artifacts from the cron-driven scan/digest scripts
+*.log
+scripts/*.log
