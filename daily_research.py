@@ -95,8 +95,11 @@ team need to rally around right now?":
 - Be specific. "S3 IRAD UMES delivery 2026-05-31 — Josh+Jack on PCB run" beats \
   "S3 work continuing".
 
+The team summary contains NO per-person task lists — those go in the sections below it.
+
 Then produce a section for EACH team member. Use their Slack mention (e.g. <@U12345>) as the \
-section header — NOT their plain name. Format:
+section header — NOT their plain name, and nothing else on that header line (no plain name \
+in parentheses after the mention). Format:
 
 *<@SLACK_ID>*
 1. [Priority] — [why this matters today] (Due: [date])
@@ -538,19 +541,47 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
     return "\n\n".join(sections)
 
 
+# A Slack mention, tolerating the pipe form Slack echoes back (<@U123|Name>).
+_MENTION_RE = re.compile(r"<@([A-Z0-9]+)(?:\|[^>]*)?>")
+
+# A per-user section header is a line that *leads* with a Slack mention,
+# optionally wrapped in bold/heading markers. Anything may follow on that line —
+# Claude sometimes appends the plain name ("*<@U123>* (Alex Lomis)"), which an
+# end-anchored pattern rejected, collapsing every section into the team summary.
+_HEADER_MENTION_RE = re.compile(r"^[*_#\s]{0,4}<@[A-Z0-9]+(?:\|[^>]*)?>")
+_HEADER_LEGACY_RE = re.compile(r"^(?:---\s*@|###\s)")
+
+
+def _is_section_start(line):
+    """True if `line` starts a per-user section rather than team-summary prose."""
+    stripped = line.strip()
+    return bool(_HEADER_MENTION_RE.match(stripped) or _HEADER_LEGACY_RE.match(stripped))
+
+
+def _split_summary(full_summary):
+    """Split Claude's output into (team_summary, [per-user section, ...]).
+
+    Single source of truth for where the team-level overview ends — the main
+    #operations post uses the first return value, the thread uses the second.
+    """
+    lines = full_summary.splitlines()
+    starts = [i for i, line in enumerate(lines) if _is_section_start(line)]
+    if not starts:
+        return full_summary.strip(), []
+    team = "\n".join(lines[:starts[0]]).strip()
+    bounds = starts + [len(lines)]
+    sections = ["\n".join(lines[a:b]).strip() for a, b in zip(bounds, bounds[1:])]
+    return team, [s for s in sections if s]
+
+
 def _parse_per_user(full_summary, users):
     """Parse Claude's response into per-user sections keyed by Slack user ID."""
     per_user = {}
-    # Split on any line that contains a Slack mention as a header
-    # Matches: *<@U12345>*, ### <@U12345>, --- @Name, ### Name
-    parts = re.split(r"(?=^\*?<@[A-Z0-9]+>\*?$|^---\s*@|^### )", full_summary, flags=re.MULTILINE)
+    _, parts = _split_summary(full_summary)
     for part in parts:
-        part = part.strip()
-        if not part:
-            continue
         # Try to find a Slack mention anywhere in the first line
         first_line = part.split("\n")[0]
-        mention_match = re.search(r"<@([A-Z0-9]+)>", first_line)
+        mention_match = _MENTION_RE.search(first_line)
         if mention_match:
             slack_id = mention_match.group(1)
             per_user[slack_id] = part
@@ -1162,11 +1193,10 @@ def run_daily_pipeline(slack_client):
     )
     full_summary = message.content[0].text
 
+    # Team summary = everything before the first per-user section; the sections
+    # themselves are threaded under it, so they must not leak into the main post.
+    team_summary_text, _ = _split_summary(full_summary)
     per_user = _parse_per_user(full_summary, users)
-
-    # Extract team summary (everything before the first ### section)
-    team_summary = re.split(r"(?=^\*?<@[A-Z0-9]+>\*?$|^---\s*@|^### )", full_summary, maxsplit=1, flags=re.MULTILINE)
-    team_summary_text = team_summary[0].strip() if team_summary else full_summary
 
     # Missing-section guard: every mapped team member must have a section.
     # Claude occasionally drops someone from the output even when listed in the
