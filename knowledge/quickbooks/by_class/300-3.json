@@ -4,14 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-27",
-    "end": "2026-07-28"
+    "start": "2026-07-28",
+    "end": "2026-07-29"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 10258.58,
+    "expenses": 19837.23,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 10258.58
+      "DIRECT COSTS:DC-Direct Material Purchases": 19592.51,
+      "FACILITIES:FA-Shop Supplies": 244.72
     }
   },
   "invoices": [
@@ -61,37 +62,42 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-07-27",
-      "doc_number": "490602963468",
-      "total": 362.3,
-      "attributed": 362.3,
+      "date": "2026-07-28",
+      "doc_number": "3100112939",
+      "total": 10992.8,
+      "attributed": 10992.8,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Josh made request via email.",
       "lines": [
         {
-          "amount": 362.3,
+          "amount": 10992.8,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Supplies for NOAA IDIQ"
+          "description": "Supplies for extra S0s"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-27",
-      "doc_number": "39954753",
-      "total": 1541.28,
-      "attributed": 1541.28,
+      "date": "2026-07-28",
+      "doc_number": "3176630",
+      "total": 978.87,
+      "attributed": 489.43,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 1541.28,
+          "amount": 489.43,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Supplies for NOAA IDIQ"
+          "description": "PTFE High Temperature Stranded Wire for IDIQ"
+        },
+        {
+          "amount": 489.44,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "PTFE High Temperature Stranded Wire for shop supplies"
         }
       ]
     }

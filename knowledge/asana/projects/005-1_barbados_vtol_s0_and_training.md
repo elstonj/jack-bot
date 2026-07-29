@@ -21,11 +21,12 @@
   - Operator training unassigned with no due date despite July 1–4 travel commitment and 6 trainees
   - **902–928 MHz ISM band interference risk flagged by Barbados Prime Minister's Office** — requires verification before operational deployment
   - **ISARRA campaign (two units) in QC phase; August delivery target confirmed** (per team correction, Jack Bot, July 6, 2026; QC ongoing as of July 3, 2026; Kevin Adkins approved)
+  - **Maciej Stachura (July 27–28, 2026):** Industrial Plan restructuring underway; S0/S0-VTOL ISR being repositioned leftward in timeline to support S0-ISR demo for UK (tentative September start)
 - **Team Members:**
   - Alex Lomis (project owner)
   - Beck Cotter (S0 VTOL delivery lead; flight-testing ongoing)
   - Jack Elston (handoff/training lead; training documentation ownership reassigned per June 1, 2026)
-  - Maciej Stachura (technical troubleshooting/priority management)
+  - Maciej Stachura (technical troubleshooting/priority management; portfolio/IP restructuring)
   - Daniel Prendergast (support)
   - Kevin Adkins (ISARRA logistics approval)
 - **Risk Signals:**
@@ -37,6 +38,7 @@
   - NDAA compliance not finalized (Alex Lomis, April 17, 2026)
   - **Radio interference risk in 902–928 MHz ISM band (Microhard P900) not yet verified**
   - ISARRA campaign: QC ongoing; must complete before August delivery
+  - Industrial Plan restructuring (Maciej, July 27–28, 2026) may impact resource allocation and timeline
 
 ## Key Deliverables & Milestones
 
@@ -50,5 +52,4 @@
 | **Operator Training Delivery** | Unassigned | 2026-07-01–04 | ⚠️ **CRITICALLY AT RISK** | In-person training in Barbados; 6 trainees. Mission: operate S0 VTOL east of Barbados to intercept developing storms; launch site tentatively Bushy Park. Dependent on S0 VTOL delivery and June 23 handoff. Travel scheduled. **No assignee or due date in Asana despite imminent July 1–4 dates.** |
 | **Generate NetCDF on UA or Tablet** | Maciej Stachura | *No due date* | ⚠️ **OPEN** | Technical requirement for meteorological data collection and analysis; supports mission objective to intercept developing storms. |
 | **ISM Band Interference Verification** | *Not assigned* | *Not scheduled* | ⚠️ **CRITICAL** | **ACTION REQUIRED:** Verify Microhard P900 (FCC ID: NS913P900; IC ID: 3143A-13P900; PN: MHS185000; 902–928 MHz frequency-hopping, 200 kHz channels) mitigation against interference risk in unregulated ISM band. **Barbados Prime Minister's Office flagged concern:** "the frequency range 902 MHz to 928 MHz is the unregulated ISM band and your drone may be prone to interference when it operates in this band." Brochure: https://www.microhardcorp.com/brochures/P900.Brochure.Rev.1.4.4.pdf. Must complete before operational deployment. |
-| **NDAA Compliance Finalization** | *Not assigned* | *Not scheduled* | ⚠️ **OPEN** | Per Alex Lomis (April 17, 2026): S0 VTOL "can be" compliant but not finalized. Status unknown as of latest update. |
-| **ISARRA Campaign: Two S0 VTOL Units + Ground Station + Tablet** | Beck Cotter (build) / Kevin Adkins (logistics) | 2026-08/09 | ✅ **IN PROGRESS—ON
+| **NDAA Compliance Finalization** | *Not assigned* | *Not scheduled* | ⚠️ **OPEN** |

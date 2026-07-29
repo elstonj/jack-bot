@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,329,644.93 *(+$6,558.50 from July 27–30, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,337,172.13 *(+$8,086.77 from July 28–30, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,306,750.57 *(expenses exceed revenue significantly)*
+- **Net Position**: -$1,314,277.77 *(expenses exceed revenue significantly)*
 - **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,315 *(+3 new confirmed transactions)*
+- **Transaction Count**: 1,320 *(+5 new confirmed transactions)*
 
 ---
 
@@ -40,10 +40,25 @@
 
 ---
 
-### Materials & Direct Purchases: $531,886.54
-**Total: $531,886.54** | **87 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $532,864.41
+**Total: $532,864.41** | **88 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-*(No new transactions in this reporting period)*
+**New Transactions (July 28, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase #3176630 | 2026-07-28 | $489.43 | DC-Direct Material Purchases | PTFE High Temperature Stranded Wire for IDIQ | ✓ Confirmed |
+
+**July 28 Direct Materials Addition**: $489.43 (1 transaction)
+
+**Transaction Details**:
+
+- **PTFE High Temperature Stranded Wire (July 28, $489.43)**: Electrical/thermal insulation component for IDIQ project
+  - **Classification**: Direct material cost (50% allocated); paired wire purchase split between direct costs and shop supplies
+  - **Application**: PTFE high-temperature stranded wire for autonomous VTOL electrical systems or thermal management
+  - **Context**: Supports active IDIQ contract work; complements recent thermal camera acquisition and server infrastructure investments
+
+**Cumulative Materials Spend (July 2024–30)**: $532,864.41 *(includes new 7/28 PTFE wire allocation)*
 
 ---
 
@@ -82,10 +97,26 @@
 
 ---
 
-### Sales & Marketing (Including Shipping): $7,654.89
-**Total: $7,654.89** | **10 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); NOAA ground station shipping $66.46 (July 14); PIRATE SHIP postage $8.81 (July 20)*
+### Sales & Marketing (Including Shipping): $8,023.59
+**Total: $8,023.59** | **11 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); C-Astral shipment $368.70 (July 28); NOAA ground station shipping $66.46 (July 14); PIRATE SHIP postage $8.81 (July 20)*
 
-*(No new transactions in this reporting period)*
+**New Transactions (July 28, 2026):**
+
+| Purchase # | Date | Amount | Account | Description | Status |
+|-----------|------|--------|---------|-------------|--------|
+| Purchase (PayPal) | 2026-07-28 | $368.70 | SM-Shipping | C-Astral shipment for potential project | ✓ Confirmed |
+
+**July 28 S&M/Shipping Addition**: $368.70 (1 transaction)
+
+**Transaction Details**:
+
+- **C-Astral Shipment (July 28, $368.70)**: Shipping cost for potential project evaluation
+  - **Classification**: Sales & marketing / shipping (indirect overhead)
+  - **Equipment**: C-Astral camera/drone system component (matches June 30 camera purchase pattern)
+  - **Strategic Context**: Supports customer evaluation, proof-of-concept demonstration, or field trial logistics
+  - **Payment Method**: PayPal direct
+
+**Cumulative S&M Activity (July 2024–30)**: $8,023.59 *(includes new 7/28 C-Astral shipment)*
 
 ---
 
@@ -96,18 +127,30 @@
 
 ---
 
-### Facilities & Shop Supplies: $147,261.79
-**Total: $147,261.79** | **77 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $52,844.48; Server Infrastructure: $26,776.55; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00**
+### Facilities & Shop Supplies: $152,949.08
+**Total: $152,949.08** | **79 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $56,983.27; Server Infrastructure: $26,776.55; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00; Crimping Tools: $749.94; PTFE Wire (shop allocation): $489.44**
 
-**New Transactions (July 30, 2026):**
+**New Transactions (July 28–30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| Purchase #3176630 | 2026-07-28 | $489.44 | FA-Shop Supplies | PTFE High Temperature Stranded Wire for shop supplies | ✓ Confirmed |
+| Purchase #39965440 | 2026-07-28 | $749.94 | FA-Shop Supplies | Crimping Tools HAND | ✓ Confirmed |
 | Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 | ✓ Confirmed |
 
-**July 30 Facilities Additions**: $5,355.31 (1 transaction)
+**July 28–30 Facilities Additions**: $6,594.69 (3 transactions)
 
 **Transaction Details**:
+
+- **PTFE High Temperature Stranded Wire (July 28, $489.44)**: Electrical/thermal insulation component
+  - **Classification**: Facilities/shop supplies allocation (50% split with direct materials)
+  - **Probable Application**: Inventory stock replenishment for autonomous VTOL assembly and thermal management systems
+  - **Context**: Supports production scaling and shop infrastructure buildout
+
+- **Crimping Tools HAND (July 28, $749.94)**: Manual wire crimping / electrical assembly tool
+  - **Classification**: Facilities/shop supplies (capital equipment maintenance and tooling)
+  - **Probable Application**: Assembly line tooling for wing assembly, fuselage wiring, and subsystem integration
+  - **Strategic Context**: Indicates increased production assembly workflow or quality control process enhancement
 
 - **Ryze AI Max+ Server (July 30, $5,355.31)**: High-performance dual-processor office infrastructure
   - **Requestor**: Ben Busby (via Slack request)
@@ -121,7 +164,7 @@
   - **Strategic Context**: Aligns with accelerated product development and demo-to-production transition workflow; indicates expanded analytical/processing capability for engineering validation
   - **Timing**: Acquired same day as Invest Ottawa payment processing ($5,000.00 on 7/6; payment flow suggests investment proceeds partially allocated to infrastructure upgrades)
 
-**Cumulative Facilities Spend (July 2024–30)**: $29,219.11 *(includes 7/24 rent, thermal camera, and 7/30 server)*
+**Cumulative Facilities Spend (July 2024–30)**: $30,713.80 *(includes 7/24 rent, 7/28 PTFE wire, 7/28 crimping tools, thermal camera, and 7/30 server)*
 
 ---
 
@@ -133,37 +176,4 @@
 ---
 
 ## Purchase Orders
-| PO # | Date | Vendor | Amount | Description | Status |
-|------|------|--------|--------|-------------|--------|
-| #1038 | 2026-01-15 | Amprius | $1,700.00 | Battery technology components | Outstanding |
-
----
-
-## Monthly Spend by Category
-
-| Month | Direct Labor | Materials | IRAD R&D | Travel | S&M/Shipping | Facilities | Inventory | **Monthly Total** |
-|-------|--------------|-----------|----------|--------|--------------|-----------|-----------|-------------------|
-| 2024 Apr–Dec | $98,541.20 | $87,332.56 | $12,445.78 | $614.15 | $1,876.43 | $18,524.22 | $5,123.65 | $224,858.00 |
-| 2025 Jan–Dec | $189,441.70 | $278,654.23 | $51,206.38 | $1,001.60 | $3,891.24 | $71,890.86 | $18,942.15 | $615,028.16 |
-| 2026 Jan–Jun | $96,369.90 | $165,899.75 | $35,309.10 | $0.00 | $1,887.22 | $32,983.11 | $16,269.79 | $348,719.87 |
-| **2026 Jul** | $0.00 | $4,334.87 | $1,203.20 | $0.00 | $0.00 | $13,153.18 | $0.00 | **$18,691.25** |
-| **YTD 2026 (Jul)** | $96,369.90 | $170,234.62 | $36,512.30 | $0.00 | $1,887.22 | $46,136.47 | $16,269.79 | **$367,410.30** |
-
-**July 2026 Burn Rate**: $18,691.25 | **Primary drivers**: Facility rent ($7,198.87), server infrastructure ($5,355.31), JAWSTEC R&D component ($1,183.51), thermal camera ($599.00), direct material procurement ($4,334.87), IRAD logistics ($19.69)
-
----
-
-## Notable Transactions
-
-### High-Priority Items
-
-1. **Outstanding Receivables (27+ months)**: $22,894.36 total across 4 invoices
-   - **Phase1 Aviation (12+ months)**: $6,105.00 — includes accidental double-payment for 20 wings; **immediate recovery action required**
-   - **Krateo Sky (4+ months)**: $10,860.48 — overdue since April 2026
-   - **Weather Stream (7+ months)**: $928.88 — overdue since December 2025
-   - **Invest Ottawa (3 weeks pending)**: $5,000.00 — grant/investment; correlates with infrastructure spending surge
-
-2. **W. W. Reynolds Facility Rent Escalation (July 24, 2026)**: $7,198.87 (August 2026 billing)
-   - **Alert**: Vendor transition in progress; **billing errors likely** during accounting system migration
-   - **YTD 2026 rent**: $43,200.00 (6 payments: Jan–Mar $6,000 ea., Apr–Jul $7,200 ea.)
-   - **FY2025 rent**: $24,168.58 (4 
+| PO # | Date | Vendor | Amount | Description | Status

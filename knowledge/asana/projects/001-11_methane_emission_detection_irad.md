@@ -4,12 +4,12 @@
 - **Client/Customer:** Internal R&D project (IRAD), with pilot testing at PDCE facility and active engagement with Crowheart Energy
 - **Dollar Value:** Targeting $1M investment (open task, unassigned)
 - **Timeline:** Project started early 2023; Annual Report 2024 completed September 6, 2024; Annual Report 2025 due September 1, 2025
-- **Status:** 🚨 **ACTIVE but SEVERELY UNDER-TRACKED IN ASANA.** Current snapshot shows 14 open tasks (no completed), contradicting September 2024 completion data and documented 9+ months of field testing, Crowheart pilot engagement, and patent work. **Asana data appears stale (last meaningful update Nov 28, 2023).** Team corrections indicate active strategic IP restructuring discussions (S3 Europe wing reduction, S3 Methane timing in Q4 2026 under discussion as of July 2026). **Do not rely on Asana for current priority or status — confirm actual tracking system with Maciej Stachura immediately.**
+- **Status:** 🚨 **ACTIVE but STRATEGIC SCOPE UNDER REVIEW.** Per Maciej Stachura (July 27-28, 2026): KS Tech Sync discussion questioning whether to keep S3 Methane in Q4 2026 portfolio. Ariel Stachura "wants to push methane quickly," but final decision pending post-sync (July 28, 2026). **Asana data stale (last meaningful update Nov 28, 2023).** Project clearly active through Sept 2024 and July 2026 field testing, customer engagement, and strategic IP restructuring discussions. **Do not rely on Asana for current priority or status — confirm portfolio decision and actual tracking system with Maciej Stachura immediately.**
 - **Team Members:** Maciej Stachura (owner/PM), Jack Elston (flight testing, patents), Josh Fromm, Nate Straus (calibration), plus whole BST team
 - **Risk Signals:**
-  - 🚨 **CRITICAL:** Asana snapshot is stale (Nov 28, 2023 last update; project clearly active through Sept 2024 and July 2026). Visibility gap suggests external tracking or project structure shift.
+  - 🚨 **CRITICAL:** Strategic scope decision pending—July 27-28, 2026 team feedback from Maciej indicates KS Tech Sync discussion questioning S3 Methane inclusion in Q4 2026. Ariel Stachura pushing for quick progress, but outcome TBD. This represents potential major pivot.
+  - 🚨 **CRITICAL:** Asana snapshot stale (Nov 28, 2023 last update); project clearly active through Sept 2024 and July 2026. Visibility gap suggests external tracking or project structure shift.
   - 🚨 **CRITICAL:** Annual Report 2025 (due Sept 1, 2025) unassigned with no owner.
-  - **STRATEGIC SHIFT DETECTED:** July 2026 team feedback indicates IP portfolio restructuring underway—S3 Methane timing in Q4 2026 being questioned/discussed. This represents major scope/priority change not yet reflected in task list.
   - 14 open tasks, all unassigned or lacking deadlines (except Annual Report 2025).
   - Patent work stalled—Jack Elston tasks lack deadlines; IP disclosure risk.
   - 10+ unassigned business development tasks (investment close, customer outreach, HRM follow-up) lack visibility and deadlines.
@@ -36,10 +36,11 @@
   - No subtasks or granular tracking visible; high-level open tasks only
 
 ## Recent Activity
-- **July 27, 2026** (TEAM FEEDBACK — AUTHORITATIVE): Maciej discussing strategic IP portfolio changes for KS Tech Sync: 
-  - Proposing to cancel S3 Europe wing reduction starting September
-  - Moving S3 Hybrid, S0/S0-VTOL ISR, S3 de-ice, S3 Salt Spray to align with Whitehorse demo
-  - **Explicitly questioning:** "Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026?" — **indicates methane project timing/scope under active debate**
+- **July 27-28, 2026** (TEAM FEEDBACK — AUTHORITATIVE): Maciej Stachura proposing strategic IP portfolio restructuring for KS Tech Sync meeting (July 28, 2026):
+  - Proposed moves: Cancel S3 Europe wing reduction; realign S3 Hybrid, S0-VTOL ISR, S3 de-ice, S3 Salt Spray with UK demo and Whitehorse demo
+  - **CRITICAL QUESTION RAISED:** "Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026?" — **indicates methane project timing/scope under active debate**
+  - Ariel Stachura "wants to push methane quickly," but final decision pending post-sync discussion (July 28, 2026)
+  - **Implication:** Project may be reallocated, delayed, or accelerated depending on leadership decision
 - **September 2024:** Annual Report 2024 completed (Sept 6, 2024 — 5 days after due date)
 - **February 2024:** Crowheart Energy vendor onboarded; MVP demo ready to schedule
 - **November 28, 2023:** Last Asana snapshot; status update notes overdue milestones and completed tasks (PDCE Ridge Test, Delta Brick surveys)
@@ -56,15 +57,14 @@
 - **Patent Risk:** Multiple tasks (draft, high-level pass, formal application) — **all lack assigned deadlines; represents IP protection risk**
 - **Financial:** CU recommended Entrepreneurial Solutions for proforma/balance sheet work (completed Sept 7, 2023)
 - **Priority:** Low (Asana custom field) — may explain resource constraints despite $1M revenue potential
-- **⚠️ STRATEGIC CONTEXT:** July 2026 team feedback indicates portfolio-level review of methane project timing and scope. Maciej notes "Ariel wants to push methane quickly, but we'll see what he says tomorrow" — suggests leadership discussion pending on project priority/timeline.
+- **⚠️ STRATEGIC CONTEXT:** July 27-28, 2026 team feedback indicates portfolio-level review of methane project timing and scope. Maciej explicitly raising question of whether to retain methane in Q4 2026 portfolio. Ariel Stachura preference to "push methane quickly" noted, but outcome of July 28 KS Tech Sync meeting determines final direction.
 
 ## Immediate Actions Required
-1. **URGENT — Clarify Project Tracking & Strategic Status:** Ask Maciej Stachura:
+1. **URGENT — Clarify Strategic Portfolio Decision:** After July 28, 2026 KS Tech Sync meeting, confirm with Maciej Stachura or Ariel Stachura:
+   - Has decision been made on S3 Methane Q4 2026 inclusion?
+   - If in, what is acceleration/priority level for field release and customer pilots?
+   - If out or delayed, what is revised timeline and resource plan?
+2. **URGENT — Clarify Project Tracking System:** Ask Maciej Stachura:
    - Is this project still actively tracked in Asana, or has tracking moved external?
-   - What is outcome of July 2026 KS Tech Sync discussion on S3 Methane Q4 2026 timing?
-   - Has Ariel Stachura (referenced in July feedback) made decision on pushing methane priority?
-2. **Assign Annual Report 2025 Owner:** Due Sept 1, 2025; currently unassigned
-3. **Schedule Crowheart MVP Demo:** MSA ready since Feb 2024; immediate next step to unlock investment momentum
-4. **Patent Filing Deadline:** Jack Elston needs explicit deadline (recommend within 30 days) to prevent IP disclosure window closure
-5. **Investment Outreach:** Clarify owners/timeline for HRM follow-up, angel investor socialization, and customer outreach tasks
-6. **Reconcile Scope:** Confirm whether S3 Methane remains in Q4 2026 portfolio or is being reallocated based on July strategic discussion
+   - Why is Asana stale (last meaningful update Nov 28, 2023) when project is demonstrably active?
+3. **Assign Annual Report 

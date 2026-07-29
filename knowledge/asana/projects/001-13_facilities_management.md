@@ -3,38 +3,37 @@
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
-- **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and monthly rent payments
-- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Pay Rent due 2026-07-27). All cleaning cycles completed on schedule or within 3–5 days of due date.
-- **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, rent payment), Nate Straus (facilities improvements & consumables management)
-- **Risk signals**: None; all completed tasks show consistent, reliable execution with minimal delays. Single open rent payment task is routine and on track.
+- **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and weekly purchasing cycles
+- **Status**: Active - operational cadence maintained. **Current snapshot: 2 open tasks** (Office Cleaning due 2026-07-25; Ongoing Office Purchasing List due 2026-07-24). Both tasks are approaching due date.
+- **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, purchasing coordination)
+- **Risk signals**: Two open tasks with imminent due dates (2026-07-24 and 2026-07-25). Recent completed tasks show 14-day lag between due date and actual completion (both completed 2026-07-28), suggesting possible workload or priority delays.
 
 ## Key Deliverables & Milestones
+- **Bi-weekly office cleaning** (via Neat N Tidy; established cadence)
+  - **Next cleaning due: 2026-07-25** (Meredith O'hara Needham) — **OPEN**
+  - Latest completed: 2026-07-14 (completed 2026-07-28; 14-day lag)
+- **Weekly office purchasing list** (recurring cycle to collect purchases)
+  - **Next list due: 2026-07-24** (Meredith O'hara Needham) — **OPEN**
+  - Latest completed: 2026-07-17 (completed 2026-07-28; 11-day lag)
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
-  - **Next payment due: 2026-07-27** (Meredith O'hara Needham) — **OPEN**
-- **Bi-weekly office cleaning** (via Neat N Tidy; established cadence, all recent cycles completed)
-  - Latest completed: 2025-11-04 (due 2025-11-01)
-  - Pattern: Due dates ~2 weeks apart; consistently completed within 2–5 days
-- **Equipment wish list** (unscheduled; assigned to Nate Straus)
-- **Facilities improvements** (ongoing, no due date set; assigned to Nate Straus)
-- **Consumables stock management** (periodic; last updated 2025-11-04)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (in current snapshot)
-  - *Note: Prior snapshot showed 1 open, 11 completed. Recent data shows updated state with 1 open task only; completed tasks may have been archived or cleared from active view.*
+- **Total tasks**: 2 open, 2 completed (recent snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open (Pay Rent – due 2026-07-27)
-    - Primary owner of operational cadence (cleaning coordination, rent payments)
-  - **Nate Straus**: Facilities improvements & consumables management (not currently reflected in open/completed counts)
-- **Notable patterns**: 
-  - Monthly rent payment tracked as discrete Asana item; next payment on schedule
-  - Bi-weekly cleaning historically shows consistent execution with 2–5 day lag after due date
-  - Consumables and equipment planning tracked outside primary Asana export
-  - No overdue or at-risk tasks
+  - **Meredith O'hara Needham**: 2 open (Office Cleaning, Ongoing Office Purchasing List), 2 completed
+    - Primary owner of operational cadence (cleaning coordination, weekly purchasing)
+- **Notable patterns**:
+  - Recurring weekly purchasing list (due 2026-07-24, 2026-07-17 completed)
+  - Recurring cleaning cycle (due 2026-07-25, 2026-07-14 completed)
+  - Recent completions show consistent 11–14 day lag after due date; investigate workload or task completion workflow
 
 ## Recent Activity
-- **Open tasks**:
-  - Pay Rent (due 2026-07-27, assigned to Meredith O'hara Needham)
-- **Baseline** (from prior snapshot): Bi-weekly cleaning cadence maintained consistently through October and November 2025 (all completed within schedule tolerances)
+- **Open tasks approaching due date**:
+  - Ongoing Office Purchasing List (due 2026-07-24, assigned to Meredith O'hara Needham)
+  - Office Cleaning (due 2026-07-25, assigned to Meredith O'hara Needham)
+- **Recently completed**:
+  - Ongoing Office Purchasing List (due 2026-07-17, completed 2026-07-28 — 11 days late)
+  - Office Cleaning (due 2026-07-14, completed 2026-07-28 — 14 days late)
 
 ## Notes & Context
 
@@ -61,3 +60,5 @@
 | Months 49–60 | $14.63 | $6.23 |
 
 **Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+
+**⚠️ Observation**: New data shows recurring weekly purchasing task and bi-weekly cleaning task with significant completion lags (11–14 days after due date). Prior snapshot showed only monthly rent payments tracked. Consider whether Meredith O'hara Needham needs support to maintain cadence or if task completion workflow should be adjusted.

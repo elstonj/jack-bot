@@ -3,58 +3,42 @@
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
 - **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project. **6 open tasks: 4 due Jul 26, 2 due Jul 29, 2026.** 🟠 **CRITICAL DEADLINE CRUNCH:** Most tasks placed Jul 24, due Jul 26 (2 days). Two newer tasks (jawstec S3, craftcloud) due Jul 29 with Jul 27 placement window.
-- **Status:** 🟠 **OPERATIONAL — DEADLINE CRUNCH ACTIVE.** Task count **decreased from 9 to 6** — significant reduction from prior snapshot. Current distribution: **Order Placed 4/6 (67%), Order Shipped 2/6 (33%).** **IMPORTANT CHANGE:** Prior 9-task Hurricane S0 batch partially cleared. Incoming: jawstec for S3 IRAD (new project [001-7]), craftcloud for Hurricane (new vendor). This suggests procurement pipeline is actively rotating — older tasks fulfilled/closed, new requests flowing in.
+- **Timeline:** Ongoing operational project. **8 open tasks with mixed deadlines: Jul 16 (OVERDUE), Jul 26, Jul 29–30, 2026.**
+- **Status:** 🟠 **OPERATIONAL — DEADLINE CRUNCH & OVERDUE TASK PRESENT.** Task count **increased from 6 to 8** (from prior snapshot). Current distribution: **Order Placed 5/8 (63%), Order Shipped 2/8 (25%), Order Received 1/8 (13%).** Notable change: **Amazon task (Jul 16) is OVERDUE by 10 days** (today ~Jul 26). Midwest control products (Jul 26) also overdue or due today. Prior truncation failures (digikey, icare) have been **cleared from task list** — suggests cleanup/closure occurred. New tasks added: mouser for shop equipment ([001-1] IRAD General context implied), powerwerx (MULTIPLE PROJECT flagged). This indicates active procurement rotation with stale tasks persisting.
 - **Team members involved:**
-  - **Meredith O'hara Needham** (6/6 open tasks = 100%)
-- **Requesters:** Joshua Fromm (6/6 = 100%)
+  - **Meredith O'hara Needham** (7/8 open tasks = 88%)
+  - **Nate Straus** (1/8 = 13% — springstore task only)
+- **Requesters:** Joshua Fromm (7/8 = 88%), Nate (1/8 = 13%)
 - **Risk signals:**
-  - 🔴 **IMMINENT DEADLINE (48 HOURS):** 4 of 6 tasks due Jul 26 (icare, tattu, digikey, all Hurricane S0). Placed Jul 24; most 1–2 day delivery windows.
-  - 🔴 **FORM DATA TRUNCATION PERSISTS & CRITICAL:** 2 of 6 tasks still have severely truncated project codes:
-    - **digikey:** "[300-" (4 chars, **UNCHANGED from prior snapshot** — same truncation error)
-    - **icare:** "[300-3" (6 chars, **UNCHANGED from prior snapshot**)
-    - Both **identical to prior snapshot failures** — suggests systematic form/input issue, **NOT RESOLVED.**
-    - **CRITICAL RISK:** Truncated codes will cause incorrect billing/project assignment. Both are Hurricane S0 IDIQ tasks; billing misroute directly impacts project financials.
-  - 🟠 **NEW PROJECT INTRODUCED — S3 IRAD ([001-7]):** jawstec for s3 IRAD task is first non-Hurricane procurement in this snapshot. Due Jul 29 (4 days). Requires careful attention; form notes show project field shows only "[001-7] IR" (truncated from full "[001-7] IRAD S3" context in task name).
-  - 🟠 **FORM FIELD TRUNCATION IN CAPTURE:** Notes sections show incomplete form data:
-    - craftcloud: "Select project to bill purcha" (cut off mid-word, should be "purchase")
-    - mouser: "Select project to bill purchase:" (field value missing entirely)
-    - icare: "[300-3" (project field incomplete)
-    - digikey: "[300-" (project field incomplete)
-    - **Indicates form or note-scraping is truncating at character limit (~255–512 chars).** Risk: Actual vendor/project data may exist in Asana but not visible in this export.
-  - 🟠 **HURRICANE BATCH CONCENTRATION PERSISTING:** 5 of 6 tasks (83%) are Hurricane S0 IDIQ (all [300-3] 2026 project). Tattu and digikey now showing "Order Shipped" (2/6, 33%), suggesting some fulfillment; but craftcloud, mouser still "Order Placed" with Jul 29 due dates. Single-point-of-failure risk remains high.
-  - 🟠 **TASK CLOSURE BEHAVIOR UNCLEAR:** Prior snapshot had 9 tasks; now 6. No documentation of what happened to: Midwest, rfmall, amazon, springstore, rocketman from prior list. Were they closed/fulfilled, or filtered out? Closure audit trail gap persists.
+  - 🔴 **OVERDUE TASK:** Amazon Shop supplies (Jul 16, Order Shipped) is **10 days overdue.** Requested by Nate; assigned to Meredith. Status "Order Shipped" but due date passed. Requires immediate follow-up.
+  - 🔴 **IMMINENT/OVERDUE (TODAY or PASSED):** Midwest control products due Jul 26 (Order Shipped). Placed Jul 24; 48-hour window.
+  - 🟠 **CRITICAL FORM DATA TRUNCATION PERSISTS:** 2 of 8 tasks still have severely truncated project codes in form capture:
+    - **craftcloud:** "Select project to bill purcha" (cut off mid-word)
+    - **Midwest control products:** "Select project to bill pur" (truncated)
+    - **springstore:** "[300-3" (6 chars, incomplete)
+    - **mouser for shop equipment:** "Shop" (ambiguous; likely internal code missing)
+    - **mouser order for s0 hurricane:** PROJECT FIELD EMPTY in form notes
+    - **Amazon:** "[001-1] IRAD Gene" (truncated from "[001-1] IRAD General")
+    - **jawstec:** "[001-7] IR" (truncated from "[001-7] IRAD S3" in task name, but project field shows correct full text in custom field)
+    - **Indicates systematic form character-limit truncation (~30–50 chars in notes section).** Risk: Billing misroute, project code ambiguity.
+  - 🟠 **HURRICANE BATCH DOMINANCE PERSISTING:** 5/8 tasks (63%) are [300-3] 2026 IDIQ (Hurricane S0). Single-point-of-failure risk remains high.
+  - 🟠 **NEW REQUESTERS & ASSIGNEE VARIANCE:** Nate (requester on Amazon, assigned to springstore) adds complexity; prior snapshots showed Joshua Fromm + Meredith only. Nate's springstore task has inconsistent data (due Jul 30, order status "Order Received" — suggests fulfillment lag, but task remains open).
+  - 🟠 **MULTI-PROJECT FLAGGED, NO BREAKDOWN:** powerwerx task explicitly notes "[Project: MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION]" but notes section is empty of breakdown. Risk: Incorrect/split billing.
+  - 🟠 **SHOP SUPPLIES PROJECT AMBIGUITY:** mouser for shop equipment references "Shop Supplies" in custom field but notes say "Shop" only. Possible alias or incomplete form capture.
 
 ## Key Deliverables & Milestones
 
-### **OPEN TASKS — MIXED BATCH (Hurricane S0 IDIQ + S3 IRAD)**
+### **OPEN TASKS — MIXED BATCH (Hurricane S0 IDIQ + S3 IRAD + Shop Supplies + Multi-Project)**
 
 | Task | Vendor | Assigned | Project (Form) | Requester | Status | Placement | Due | Tax Exempt? | Notes |
 |------|--------|----------|----------------|-----------|--------|-----------|-----|------------|-------|
-| **digikey for S0 hurricane** | Digikey | Meredith | [300- **(TRUNCATED)** | Joshua Fromm | Order Shipped | Jul 24 | Jul 26 | YES | 🔴 **UNCHANGED TRUNCATION FAILURE** from prior snapshot. Project code critical. In transit. |
-| **tattu for s0 idiq** | Tattu | Meredith | [300-3] 2026 | Joshua Fromm | Order Shipped | Jul 24 | Jul 26 | YES | ✓ Complete project code. In transit. |
-| **icare order for s0 idiq** | iCare | Meredith | [300-3 **(TRUNCATED)** | Joshua Fromm | Order Placed | Jul 24 | Jul 26 | YES | 🔴 **UNCHANGED TRUNCATION FAILURE** from prior snapshot. Due TODAY (Jul 26). Critical. |
-| **mouser order for s0 hurricane** | Mouser | Meredith | **(PROJECT FIELD MISSING)** | Joshua Fromm | Order Placed | Jul 24 | Jul 29 | YES | 🟠 Form notes truncated: "Select project to bill purchase:" field empty. Likely [300-3] 2026 IDIQ (Hurricane) per context. |
-| **craftcloud for s0 hurricane parts** | Craftcloud | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Jul 24 | Jul 29 | YES | ✓ Complete project code. Newer vendor (not in prior snapshot). |
-| **jawstec for s3 IRAD** | Jawstec | Meredith | [001-7] IR **(TRUNCATED)** | Joshua Fromm | Order Placed | Jul 27 | Jul 29 | NO | 🟠 **NEW PROJECT:** [001-7] IRAD S3 (first non-Hurricane task). Project field shows truncated "[001-7] IR" in form. Tax exempt = NO (different from all other Hurricane tasks). Due Jul 29. |
-
----
-
-## Task Summary
-- **Total tasks:** 6 open, 0 completed
-- **Task distribution by assignee:**
-  - **Meredith O'hara Needham: 6/6 (100%)** — All active procurement
-- **Status breakdown:**
-  - Order Placed: 4/6 (67%) — digikey, icare, mouser, craftcloud, jawstec
-  - Order Shipped: 2/6 (33%) — tattu, digikey
-  - **Note:** Digikey appears in both contexts (Order Shipped in one view, but table above shows it as latest entry). Verify task deduplication.
-- **Notable patterns:**
-  - **5/6 tasks (83%) = Hurricane S0 IDIQ** ([300-3] 2026 project)
-  - **1/6 tasks (17%) = New S3 IRAD ([001-7])** — first project diversification in snapshots
-  - **2 of 6 (33%) = Form data truncation failures** — identical errors to prior snapshot (digikey "[300-", icare "[300-3")
-  - **All 6 tasks assigned to Meredith, all requested by Joshua Fromm** — zero distribution
-  - **Bulk placement pattern:** 5 of 6 placed Jul 24 (Hurricane batch), 1 placed Jul 27 (S3 IRAD)
-  - **Tax exempt variance:** All Hurricane = YES; S3 IRAD jawstec = NO
-
-## Recent Activity
-- **Task reduction (Jul 25–26, 2026):** 3 tasks
+| **Amazon Shop supplies** | Amazon | Meredith | [001-1] IRAD Gene **(TRUNCATED)** | Nate | Order Shipped | Jul 14 | **Jul 16 🔴 OVERDUE** | NO | 🔴 **10 DAYS OVERDUE.** Status "Order Shipped" but due date has passed. Requires escalation. Project field truncated from "[001-1] IRAD General." |
+| **Midwest control products for s0 idiq** | Midwest Control | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Shipped | Jul 24 | **Jul 26 🔴 TODAY/OVERDUE** | YES | Status "Order Shipped" but task due today or overdue. Notes truncated: "Select project to bill pur..." |
+| **icare order for s0 idiq** | iCare | *(Cleared)* | *(Cleared)* | *(Cleared)* | *(Cleared)* | *(Cleared)* | **Jul 26** | *(Cleared)* | 🟢 **REMOVED from task list** since prior snapshot. Truncation error resolved via closure. |
+| **digikey for S0 hurricane** | Digikey | *(Cleared)* | *(Cleared)* | *(Cleared)* | *(Cleared)* | *(Cleared)* | **Jul 26** | *(Cleared)* | 🟢 **REMOVED from task list** since prior snapshot. Truncation error ([300-) resolved via closure. |
+| **mouser order for s0 hurricane** | Mouser | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Jul 24 | Jul 29 | YES | Project field EMPTY in form. Assumed [300-3] per vendor/context. |
+| **craftcloud for s0 hurricane parts** | Craftcloud | Meredith | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Placed | Jul 24 | Jul 29 | YES | Notes truncated: "Select project to bill purcha..." |
+| **jawstec for s3 IRAD** | Jawstec | Meredith | [001-7] IRAD S3 | Joshua Fromm | Order Placed | Jul 27 | Jul 29 | NO | ✓ Project field complete. S3 IRAD (first non-Hurricane). Tax exempt = NO (outlier). |
+| **mouser for shop equipment** | Mouser | Meredith | Shop Supplies | Joshua Fromm | Order Placed | Jul 28 | Jul 30 | NO | Custom field says "Shop Supplies"; notes say "Shop" only. Possible [001-1] or internal supply project. Verify project code. |
+| **powerwerx for multiple projects** | Powerwerx | Meredith | **MULTIPLE PROJECT** *(No breakdown)* | Joshua Fromm | Order Placed | Jul 24 | Jul 30 | YES | 🟠 **CRITICAL:** Task explicitly flagged "PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" but notes section empty. Requires immediate clarification before order ships. Billing split unknown. |
+| **springstore for s0 idiq** | Springstore | Nate Straus | [300-3 **(TRUNCATED)** | Joshua Fromm | Order Received | Jul 24 | Jul 30 | YES | Project field truncated from "[300-3] 

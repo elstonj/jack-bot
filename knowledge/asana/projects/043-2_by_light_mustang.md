@@ -10,7 +10,7 @@
 - **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
 - **Status:** **ARCHIVED — CORE DELIVERY COMPLETE; CONTRACTUAL TEST FLIGHTS ACTIVE (July 2026)**
   - Core project deliverables finished Dec 31, 2025 (26 days past original due date).
-  - **NOAA Clear-Air Test Flight (Maciej, 2026-07-13 & 2026-07-10):** One additional test flight confirmed for late July or early August 2026 over ocean array (North Carolina region). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
+  - **NOAA CLEAR-AIR TEST FLIGHT (Late July/Early Aug 2026):** One additional test flight confirmed over ocean array (North Carolina region). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej. *(Maciej, 2026-07-10 & 2026-07-13)*
   - **MURPHY'S POND FLIGHT #4 CANCELLED (Daniel Prendergast, 2026-07-22 & 2026-07-23):** Postponed indefinitely. Any travel or logistics arrangements already made should be cancelled.
   - **VALIDATION FLIGHT #2 PREVIOUSLY POSTPONED (Daniel Prendergast, 2026-05-13 & 2026-05-14):** Blocked on customer DoD autopilot controller readiness; status unclear post-July 2026.
   - **Timeline Extended (Ethan, 2026-05-05):** "ByLight project timeline has been extended due to cancellation of a demo in India."
@@ -40,7 +40,7 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 - **Completion Rate:** 92% (core deliverables complete; follow-up test flights active as of July 2026)
 
 - **Tasks by Assignee (Completed Work):**
-  - **Maciej Stachura:** 11 completed (flight testing, analysis, validation; continuing as lead for July/Aug NOAA flight)
+  - **Maciej Stachura:** 11 completed (flight testing, analysis, validation; continuing as lead for late July/Aug NOAA test flight)
   - **Ethan Domagala:** 8 completed (fabrication, fuselage design, reporting)
   - **Meredith O'hara Needham:** 4 completed (invoicing/billing tasks for each milestone)
   - **Nate Straus:** 1 completed (final assembly)
@@ -64,6 +64,6 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 - **2026-05-13 & 2026-05-14 (Daniel Prendergast):** **VALIDATION FLIGHT #2 POSTPONED** (indefinite hold at that time). CU IRISS training complete; flight postponed pending customer DoD autopilot controller readiness.
 
 **LATEST ACTIVITY (July 2026):**
-- **2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
+- **2026-07-10 & 2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
 - **2026-07-22 & 2026-07-23 (Daniel Prendergast):** **MURPHY'S POND FLIGHT #4 POSTPONED INDEFINITELY.** Any travel or logistics arrangements already made should be cancelled.
-- **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Workflow improvement initiative — requesting link to Maintenance Action Form be added to log parse at end of flight log upload process to make post-flight checklist discipline automatic.
+- **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Workflow improvement initiative — requesting link to Maintenance Action Form be added to log parse at end

@@ -1,134 +1,105 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 35 emails (23 new + 12 previously documented)
+- **Total messages scanned:** 57 emails (22 new + 35 previously documented)
 - **Date range:** 25 Jul 2026 – 28 Jul 2026 (4 days)
-- **Volume pattern:** Heavy purchasing activity with spike on 27 Jul (13 messages); mix of transactional orders and active technical correspondence
+- **Volume pattern:** Sustained heavy procurement activity; 28 Jul spike (22 messages) dominated by transactional vendor confirmations and shipment notifications. Mix of active technical correspondence with external consultant and high-velocity purchasing across multiple categories.
 
 ## Key Correspondents
 
 ### Senders (Incoming)
-**Automated/Transactional (vendor order confirmations, 14 messages):**
-- Spindrift Market (2 messages)
-- JawsTec Manufacturing LLC (2 messages)
-- Mouser Electronics
-- FTDI Chip (Ashan Fernando)
-- HeliDirect
-- Craftcloud
-- GensTattu
-- Speedway Motors
-- DigiKey, SkyGeek, eBay, Rocketman Parachutes, Budget (from previous scan)
+**Automated/Transactional (22 new vendor confirmations & shipments):**
+- **Mouser Electronics** (4 messages) — PO 39954753, 39965440; shipment + order confirmations
+- **McMaster-Carr** (2 messages) — Confirmation + tracking for 28 Jul order
+- **DigiKey** (1 message) — Invoice 129975599 shipped
+- **Craftcloud®** (1 message) — Order #490602963468 entering production
+- **Powerwerx** (1 message) — Order 3176630 confirmation
+- **FedEx Billing Online** (1 message) — Invoice attached
+- **HeliDirect** (1 message) — Goosky S1 & S2 back in stock
+- **AliExpress** (1 message) — Cart save notification (to Jack Elston)
+- **American Polarizers** (1 message) — Promotional (free shipping >$250)
+- **Baofeng Radio** (1 message) — Promotional (PoC radio)
+- **Veeam Webinar** (1 message) — v13.1 demo (IT/backup software)
+- **eBay** (1 message) — Futaba 14SG RC transmitter search result
+- **Niall McIlvenny / Steinjäger** (2 messages) — Shipments for 280380-ZCHF & SSR375-12.00
+- **UnitedHealthcare** (1 message) — EOB notification (insurance)
 
-**Human senders (direct to Sam):**
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — 4 messages, back-and-forth technical discussion [IMPORTANT tag]
-2. **Meredith Needham** (meredith.needham@blackswifttech.com) — internal, FTDI order/refund coordination
-3. **Chad Atwood** (chad@theaiginc.com) — benefits/enrollment related
-4. **Sarah Lin** (sarah.lin@ftdichip.com) — FTDI supplier contact (from previous data)
-5. **Toggl Track** (support@track.toggl.com) — time tracking tool notification
+**Human senders (continued from prior data):**
+1. **Frank Strazzabosco** (microfirm@earthlink.net) — **2 new messages** continuing 24V regulator thread (13:47, 13:49 UTC on 28 Jul); [IMPORTANT] flagged
+2. **Hadley Solomon** (hadley.solomon@creativealignments.com) — **NEW:** "Black Swift Technologies Culture Assessment" (10:58 UTC, [IMPORTANT]); appears to be self-addressed or internal system generated
+3. **Joshua Fromm** — Recipient on Craftcloud & Powerwerx emails (appears as project collaborator on manufacturing orders)
+4. **Meredith Needham** — Recipient on HeliDirect & Baofeng emails (purchasing coordination continues)
 
 ### Recipients
-- **Purchasing alias:** purchasing@blackswifttech.com (15 messages — shared inbox routing)
-- **Personal inbox:** sam.hild@blackswifttech.com (8 messages)
-- **External vendors:** microfirm@earthlink.net (Frank Strazzabosco, technical discussion)
+- **Purchasing alias:** purchasing@blackswifttech.com (17/22 new messages — primary auto-routing)
+- **Joshua Fromm:** purchasing@blackswifttech.com (2 messages — Craftcloud, Powerwerx)
+- **Meredith Needham:** purchasing@blackswifttech.com (2 messages — HeliDirect, Baofeng)
+- **Personal inbox:** sam.hild@blackswifttech.com (3 messages — Frank Strazzabosco x2, UnitedHealthcare, Veeam, Hadley Solomon)
 
 ### Internal vs External
-- **External:** 20/23 messages (vendors, suppliers, third-party services)
-- **Internal:** 3/23 messages (Meredith Needham, Chad Atwood at BST)
+- **External:** 19/22 messages (vendors, suppliers, third-party services, contractors)
+- **Internal:** 3/22 messages (technical collaboration with Frank Strazzabosco, culture assessment notification)
+- **Ambiguous:** Hadley Solomon (Creative Alignments LLC — external consultancy or BST initiative)
 
 ## Topic Patterns
 
-### Procurement Focus
-**Aerospace/Aviation:**
-- Rocketman Parachutes
-- ICARE-ICARUS (RC models)
-- GensTattu (likely battery supplier for RC/drone)
-- HeliDirect (helicopter/rotorcraft parts/accessories)
-- SkyGeek (ground support equipment)
+### Procurement Focus (Expanded)
 
-**Electronics/Components:**
-- DigiKey, Mouser Electronics, FTDI Chip (microcontrollers/semiconductors)
-- JawsTec Manufacturing LLC (manufacturing/custom parts) — new vendor, Orders #70183
-- Craftcloud (likely 3D printing/manufacturing service) — Order #490602963468
+**Electronics & Components (Updated):**
+- Mouser Electronics (2 new POs: 39965440, shipment on 39954753)
+- DigiKey (ongoing)
+- American Polarizers (new vendor — optical/polarizing components)
 
-**General Supplies:**
-- Spindrift beverages, Speedway Motors, Budget car rental
+**Aerospace/Avionic/RC Equipment (New Entries):**
+- **Steinjäger** (via Niall McIlvenny/CSE Offroad) — Parts 280380-ZCHF, SSR375-12.00 (likely suspension/structural components for aerospace or ground vehicle applications; *unclear connection to aviation focus*)
+- **Futaba 14SG** (eBay) — High-end RC transmitter/receiver system
+- HeliDirect (Goosky S1 & S2 multirotors back in stock)
+- Rocketman Parachutes, GensTattu, ICARE-ICARUS (from prior data)
 
-**Time Tracking:**
-- Toggl Track (project time tracking tool)
+**Manufacturing/Custom Parts:**
+- Craftcloud® Order #490602963468 **entering production** — Joshua Fromm listed as recipient (active project component)
+- Powerwerx Order 3176630 (power distribution/electrical assembly)
+- JawsTec Manufacturing (from prior data)
+- McMaster-Carr (mechanical fasteners, industrial supplies)
 
-### Technical Project: 24V Power Supply Distribution
-**Active thread with Frank Strazzabosco (microfirm@earthlink.net):**
-- Subject: "Possible Issue with 24V Regulators on v32/v33 power supply distribution boards"
-- 5 back-and-forth messages (12:42–17:00 on 27 Jul)
-- Marked [IMPORTANT] on incoming responses
-- Suggests active troubleshooting/design issue on internal hardware versions
+**Communications/IT (New):**
+- **Baofeng Radio** — PoC (Proof of Concept) radio promotion
+- Veeam v13.1 webinar (data backup/disaster recovery software — *suggests IT infrastructure focus or system architecture concern*)
 
-### Order Numbers & References
-- JawsTec: #70183
-- Craftcloud: #490602963468
-- FTDI: INV#383009912 (PO#17721) — refund completed per Meredith's email
-- Mouser: PO 39954753
-- GensTattu: #220440
-- Spindrift: SH62380484, SH62380490 (from previous scan)
+**General/Logistics:**
+- FedEx Billing Online (shipping cost tracking)
+- UnitedHealthcare EOB (insurance/benefits)
+- AliExpress (consumer electronics marketplace search)
+
+### Technical Project: 24V Power Supply Distribution (Ongoing)
+**Active thread continues (28 Jul):**
+- Frank Strazzabosco: incoming at 13:47 UTC
+- Sam Hild: response at 13:49 UTC (2-minute turnaround)
+- Subject remains: "Possible Issue with 24V Regulators on v32/v33 power supply distribution boards"
+- **[IMPORTANT]** flagged on Frank's message — indicates high priority / customer-facing urgency
+
+### Manufacturing/Production Status
+- **Craftcloud Order #490602963468:** Production start imminent (Joshua Fromm as collaborator)
+- **Powerwerx Order 3176630:** Confirmed (likely power assembly related to Craftcloud project)
+- **Steinjäger components:** Shipped (structural/mechanical components in supply chain)
+
+### Order Numbers & References (New)
+- Mouser: PO 39954753 (shipped 28 Jul), PO 39965440 (confirmed & shipped 28 Jul)
+- DigiKey: Invoice 129975599 (shipped)
+- McMaster-Carr: Order dated 28 Jul (confirmation + tracking)
+- Powerwerx: Order 3176630
+- Steinjäger: 280380-ZCHF, SSR375-12.00
+- FedEx Billing Online: Invoice attached (date/amount not visible from header)
 
 ## Communication Patterns
 
-### Timing
-- **Monday 27 Jul:** Heavy activity 10:13–22:10 (mixed UTC and -0600/-0500 timezones)
-- **Afternoon spike:** 12:42–17:00 UTC (Frank Strazzabosco technical thread, 5 messages in 4.5 hours)
-- **Early morning 28 Jul:** 00:53–01:49 UTC (Spindrift & HeliDirect promotional/transactional emails)
-- **Pattern:** Active technical work during business hours; procurement/vendor notifications outside core hours
+### Timing (28 Jul Spike)
+- **Early morning (06:23–10:58 UTC):** eBay, FedEx, Veeam, Hadley Solomon, Mouser confirmations
+- **Mid-day (13:47–15:55 UTC):** Frank Strazzabosco technical thread (2 rapid exchanges), Craftcloud production notification, Mouser shipment, American Polarizers, Powerwerx
+- **Afternoon–Evening (16:09–22:01 UTC):** UnitedHealthcare, AliExpress, McMaster-Carr (2), HeliDirect, DigiKey, Mouser shipment
+- **Pattern:** Transactional notifications clustered across all hours; technical correspondence (Frank) concentrated 13:47–13:49 UTC (Tuesday afternoon)
 
-### Message Flow
-- **Direct to Sam (personal inbox):** Technical troubleshooting, benefits/HR, time tracking tools
-- **Via purchasing alias:** Order confirmations, transactional vendor emails (auto-routed)
-- **Mixed routing:** Some vendor emails sent directly to purchasing alias, others caught in shared inbox
-
-### Message Classification
-- **[UNREAD]** tags on most transactional emails (auto-sorted, not prioritized)
-- **[IMPORTANT]** tags on Frank Strazzabosco responses (technical priority)
-- **[CATEGORY_FORUMS]** on vendor confirmations
-- **[CATEGORY_UPDATES], [CATEGORY_PROMOTIONS]** on newsletters/promotional content
-
-## Key Relationships
-
-### External Contacts (by frequency & importance)
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — **CRITICAL:** Active technical collaboration on 24V regulator power supply issue; 5 rapid exchanges; [IMPORTANT] flagged
-2. **JawsTec Manufacturing LLC** (info@jawstec.com) — New vendor relationship; custom manufacturing supplier
-3. **FTDI Chip** (Ashan Fernando, sarah.lin@ftdichip.com) — Microcontroller supplier; PO#17721 had refund/correction
-4. **Mouser Electronics** — Electronics distributor (tariff details suggest international/cross-border order)
-5. **HeliDirect** — Aviation parts vendor (backorder promotion)
-6. **GensTattu** — Battery/power supply vendor (RC/drone batteries likely)
-
-### Internal Collaboration
-- **Meredith Needham** — Procurement/purchasing coordinator; handles FTDI correspondence, processes orders
-- **Chad Atwood** (chad@theaiginc.com) — Benefits/HR administrator (not Black Swift domain, likely broker)
-- **Joshua Fromm** — Mentioned in Craftcloud email recipient field (possible project collaborator)
-
-## Notable Observations
-
-1. **Active hardware debugging:** Frank Strazzabosco thread indicates real-time troubleshooting of 24V regulator issues on internal v32/v33 power supply distribution boards — suggests active product iteration or customer issue resolution
-
-2. **External consulting relationship:** Frank Strazzabosco (microfirm@earthlink.net) is likely a contractor or external design firm; rapid back-and-forth on technical details indicates trusted advisor status
-
-3. **Expanded procurement velocity:** 23 emails in 4 days (vs. 12 in previous 3 days) — continued acceleration in ordering suggests either:
-   - Active project ramp-up (new product development)
-   - Inventory restocking cycle
-   - Response to customer demand
-
-4. **New vendors entering supply chain:** JawsTec Manufacturing and Craftcloud are new entries — may indicate shift toward custom manufacturing or local production
-
-5. **FTDI order correction:** Meredith's "refund completed" email suggests PO#17721 had issues (duplicate order? wrong parts? pricing error?) — later re-ordered as INV#383009912
-
-6. **Time tracking tool adoption:** Toggl Track notification suggests Sam recently enrolled in or updated time tracking system — possible project billing/accountability initiative
-
-7. **Mouser tariff flag:** Tariff details on order PO 39954753 suggests supply chain is monitoring international/cross-border import costs — likely Mexico or Asian source components
-
-8. **Mixed personal/work infrastructure:** Chad Atwood at @theaiginc.com (not BST domain) handling benefits enrollment — suggests external benefits administrator or HR outsourcing
-
----
-
-### Changes from Previous File
-- **New contacts added:** Frank Strazzabosco (critical), JawsTec Manufacturing, HeliDirect, Craftcloud, GensTattu, Chad Atwood, Toggl Track
-- **New technical focus:** 24V power supply regulator issue on v32/v33 boards (active troubleshooting)
-- **Updated volume:** 
+### Message Routing
+- **Purchasing alias (primary):** 17/22 messages auto-routed (vendor confirmations, shipments, FedEx, promotional content)
+- **Direct to sam.hild@:** 5 messages (Frank Strazzabosco x2, Veeam, UnitedHealthcare, Hadley Solomon)
+- **Cross-recipient:** Joshua Fromm and Meredith Needham explicitly CC'd on select vendor emails (Craftcloud, Powerwerx, HeliDirect

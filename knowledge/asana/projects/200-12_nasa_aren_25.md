@@ -35,9 +35,9 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 ## Recent Activity
 - Project archived August 2025 ahead of original 2026-03-02 due date
 - Geoffrey Bland retired from NASA (August 2025), now manages Aeropods project independently
+- **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
 - One administrative contact info task remains open and unassigned
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
-- **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
 
 ## Notes & Context
 - Project is archived and concluded

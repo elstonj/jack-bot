@@ -4,14 +4,17 @@
     ""
   ],
   "period": {
-    "start": "2026-07-27",
-    "end": "2026-07-28"
+    "start": "2026-07-28",
+    "end": "2026-07-29"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5355.31,
+    "expenses": 6963.39,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31
+      "FACILITIES:FA-Office Supplies": 5355.31,
+      "FACILITIES:FA-Shop Supplies": 994.66,
+      "SALES & MARKETING:SM-Shipping": 368.7,
+      "DIRECT COSTS:DC-Direct Material Purchases": 244.72
     }
   },
   "invoices": [],
@@ -32,6 +35,65 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-28",
+      "doc_number": "",
+      "total": 368.7,
+      "attributed": 368.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "paid via PayPal",
+      "lines": [
+        {
+          "amount": 368.7,
+          "account": "SALES & MARKETING:SM-Shipping",
+          "description": "C-Astral shipment for potential project"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-28",
+      "doc_number": "39965440",
+      "total": 749.94,
+      "attributed": 749.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 749.94,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Crimping Tools HAND"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-28",
+      "doc_number": "3176630",
+      "total": 978.87,
+      "attributed": 489.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 489.43,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "PTFE High Temperature Stranded Wire for IDIQ"
+        },
+        {
+          "amount": 489.44,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "PTFE High Temperature Stranded Wire for shop supplies"
         }
       ]
     }
