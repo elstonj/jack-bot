@@ -2,53 +2,46 @@
 
 ## By Product/System
 
-### Black Swift S3
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | SOW for S3 tube-launched VTOL configuration testing in arctic conditions (bst_arctic_engineering_sprint_sow_drafta.md)
+### S3 (Black Swift S3)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | SOW for engineering sprint and cold-weather configuration development for tube-launched VTOL operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ### SwiftCore FMS
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Integration and testing of SwiftCore flight management system for arctic operations (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | References SwiftCore FMS integration for arctic UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### SwiftTab Ground Control
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Ground tablet interface for arctic UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### Multi-Product/Generic
-- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy (DOE) | July 2026 | Framework document for SBIR application evaluation criteria (pitch-stage-key-questions.md)
+### SwiftTab
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | References SwiftTab ground control interface (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ---
 
 ## By Client/Agency
 
-### Canadian Joint Forces Command (via NexTech Solutions LLC)
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | July 2026 | SOW for S3 arctic testing and engineering sprint (bst_arctic_engineering_sprint_sow_drafta.md)
+### Canadian Joint Forces Command (CJFC)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC | July 24, 2026 | Phase II engineering sprint SOW for cold-weather S3 configuration and Whitehorse testing (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### U.S. Department of Energy (DOE)
-- **Pitch-Stage Key Questions — Genesis Mission SBIR** | July 2026 | SBIR application framework document (pitch-stage-key-questions.md)
+### NexTech Solutions LLC (NTS)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | On behalf of Canadian Joint Forces Command | July 24, 2026 | Arctic UAS Phase II engineering sprint procurement (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ---
 
 ## By Application Area
 
 ### Arctic Operations
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Engineering sprint and Whitehorse test event for cold-weather UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | Canadian Joint Forces Command | July 24, 2026 | Cold-weather VTOL configuration, tube-launch capability, arctic environmental testing (bst_arctic_engineering_sprint_sow_drafta.md)
 
-### Energy/Clean Technology (Implied)
-- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy | July 2026 | DOE SBIR evaluation framework (pitch-stage-key-questions.md)
+### Tactical/Military Operations
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | Canadian Joint Forces Command | July 24, 2026 | Military UAS deployment for Arctic region operations (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ---
 
 ## By Document Type
 
-### Statements of Work (SOW)
-- **Arctic UAS Engineering Sprint — Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 2026 | Draft A SOW for Phase II engineering sprint and testing (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### SBIR/Proposal Frameworks
-- **Pitch-Stage Key Questions — Genesis Mission SBIR** | U.S. Department of Energy | July 2026 | Question set and evaluation guidance for Genesis Mission SBIR resubmission (pitch-stage-key-questions.md)
+### Statement of Work (SOW)
+- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | Draft A SOW for Phase II engineering sprint (bst_arctic_engineering_sprint_sow_drafta.md)
 
 ---
 
-## Document Summary Statistics
-- **Total Documents Cataloged:** 2
-- **Unique Clients/Agencies:** 2 (Canadian Joint Forces Command, U.S. Department of Energy)
-- **BST Products Referenced:** 3 (S3, SwiftCore, SwiftTab)
-- **Date Range:** July 2026
-- **Document Types:** 1 SOW, 1 SBIR Framework
+## Master Index (All Documents)
+
+| Document | Client | Date | Type | Product(s) |
+|----------|--------|------|------|-----------|
+| Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration | Canadian Joint Forces Command (via NTS) | July 24, 2026 | SOW (Draft) | S3, SwiftCore, SwiftTab |

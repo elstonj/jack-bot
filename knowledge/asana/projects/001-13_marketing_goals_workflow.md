@@ -4,7 +4,7 @@
 - **Client/customer:** Internal BST marketing and business development
 - **Dollar value:** $200K ARR increase target (self-serve team goal)
 - **Timeline:** May 2024 – April 2025; project cycle concluded April 2025
-- **Status:** **ARCHIVED** — Project cycle completed April 2025. No longer active.
+- **Status:** **ARCHIVED** — Project cycle completed April 2025. No longer active. Current Asana view shows 0 open, 0 completed tasks (historical data archived/purged).
 - **Team members involved:** Paige Smith, Jack Elston, multiple contributors
 - **Risk signals:** None — project fully completed and archived
 
@@ -23,8 +23,8 @@
 | How do we get to #1 for drone? | Unassigned | 2025-03-29 | 2025-04-10 | Strategic planning |
 
 ## Task Summary
-- **Total tasks:** 0 open, 9 completed (full project history)
-- **Tasks by assignee:**
+- **Total tasks:** 0 open, 0 completed (current view shows archived state; historical completion rate was 100%)
+- **Tasks by assignee (historical):**
   - Jack Elston: 1 task (NASA symposium submission) — 100% completion
   - Unassigned: 4 tasks (website, media kit, conference participation, content) — 100% completion
   - Paige Smith: 2 tasks (Marketing Budget, Marketing Strategy) — 100% completion
@@ -39,7 +39,7 @@
 - **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
 - **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
 - **Project archived:** April 2025 (end of fiscal marketing cycle)
-- **Current status (as of July 2026):** No open tasks; project fully archived
+- **Current status (as of July 2026):** No open tasks; project fully archived with task history cleared from view
 
 ## Notes & Context
 
@@ -76,12 +76,11 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 
 ### Cross-Project References
 - S0 documentation work tracked in separate Asana project 1207199631174002 (engineering/product documentation)
+- **Active concurrent projects (distinct from this archived marketing workflow):** EMASS flight tests, S0-VTOL debugging, S3 work, Mustang progress, postflight workflow improvements
 
 ## Archive Note
 This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
 
-**⚠️ Important Clarification:** This archived project is separate from active technical engineering work. Concurrent active projects include EMASS flight tests, S0-VTOL debugging, S3 work, Mustang progress, and postflight workflow improvements — those belong to different, active engineering initiatives and should not be confused with this completed marketing goals workflow (May 2024 – April 2025).
-
 ---
 
-**Status as of July 2026:** No updates to this archived project. Team feedback received July 2026 from Daniel Prendergast (2026-07-13 and 2026-07-14) regarding postflight maintenance workflows and log parse process improvements are relevant to **active engineering operational processes** (postflight checklist discipline, Maintenance Action Form integration), not this archived marketing project. This knowledge file remains accurate and complete as documented above.
+**Status as of July 2026:** No updates to this archived project. Recent team feedback from Daniel Prendergast (July 2026) regarding postflight maintenance workflows, log parse process improvements, and Maintenance Action Form integration relates to **active engineering operational processes**, not this archived marketing project. Ben confirmed (2026-07-28) that postflight workflow automation has been completed and is no longer a backlog item. This knowledge file remains accurate and complete as documented above.

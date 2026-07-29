@@ -1,47 +1,49 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 204.5 hours
+- **Total hours tracked:** 212.1 hours
 - **Primary projects:** 
-  1. Unassigned/None (101.5 hours, 49.6%)
-  2. [300-3] 2026 IDIQ (Hurricane) (41.8 hours, 20.4%)
-  3. [001-07] S3 IRAD (29.8 hours, 14.6%)
-  4. [550-1] Navy SBIR: Magnetometer (21.7 hours, 10.6%)
-  5. [001-04] S0 VTOL IRAD (6.2 hours, 3.0%)
+  1. Unassigned/None (101.5 hours, 47.9%)
+  2. [300-3] 2026 IDIQ (Hurricane) (43.9 hours, 20.7%)
+  3. [001-07] S3 IRAD (29.8 hours, 14.1%)
+  4. [451-1] INSTAAR S3 x 2 (5.5 hours, 2.6%)
+  5. [550-1] Navy SBIR: Magnetometer (21.7 hours, 10.2%)
+  6. [001-04] S0 VTOL IRAD (6.2 hours, 2.9%)
 - **Time period covered:** Multiple data batches (cumulative)
 
 ## Project Breakdown
-- **No project assigned:** 101.5 hours (49.6%) — **⚠️ SUSTAINED CONCERN** — *Slight further improvement; unassigned percentage declining as other projects grow*
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 29.8 hours (14.6%) — **+6.9 hours; STRONG REACTIVATION TREND**
-  - Latest entries: (no description) (7.9h), (no description) (6.9h) — *Second consecutive batch with significant S3 IRAD engagement; **DOCUMENTATION ISSUE PERSISTS***
-  - **Cumulative reactivation:** 14.8 hours across last 2 batches
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 41.8 hours (20.4%) — **+0.9 hours**
-  - Latest entry: "Sonde QC" (0.9h) — *Sustained, measured engagement; sonde quality control activity*
-- **[550-1] Navy SBIR: Magnetometer:** 21.7 hours (11.0%) — *No new entries this batch; previous momentum paused*
-  - Last documented work: "Mag Noise Testing" (0.6h)
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 6.2 hours (3.2%)
-- **Other projects:** 3.7 hours (1.8%)
+- **No project assigned:** 101.5 hours (47.9%) — **IMPROVING TREND** — *Declining from 49.6%; 4-batch improvement of 1.7 pp this cycle*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 43.9 hours (20.7%) — **+2.1 hours**
+  - Latest entry: "Autopilot Rework/Debugging" (2.1h) — *Shift from sonde QC to autopilot systems work*
+  - Sustained engagement across all recent batches with varied technical activities
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 29.8 hours (14.1%) — *Holds steady; no new entries this batch*
+  - Previous reactivation momentum continues; documentation remains incomplete on earlier entries
+- **[451-1] INSTAAR S3 x 2:** 5.5 hours (2.6%) — **NEW PROJECT ENTRY**
+  - Latest entry: "Motor Breaking Bug" (5.5h) — *Newly tracked project; S3-related motor/mechanical debugging*
+  - **⚠️ NOTE:** Possible overlap with [001-07] S3 IRAD (both S3-focused); clarify project distinction
+- **[550-1] Navy SBIR: Magnetometer:** 21.7 hours (10.2%) — *Continues pause; no new activity*
+- **[001-04] S0 VTOL IRAD:** 6.2 hours (2.9%)
+- **Other projects:** 3.7 hours (1.7%)
 
 ## Recent Activity
 - **Latest entries (this batch):**
-  - 6.9 hours **[001-07] S3 IRAD** — *(undescribed; second consecutive large batch)*
-  - 0.9 hours **[300-3] 2026 IDIQ (Hurricane)** — "Sonde QC" (quality control on sonde hardware/data)
-- **Current focus:** S3 IRAD dominates workload this batch (88% of tracked time); Hurricane project maintains steady secondary engagement
-- **Documentation quality:** CONCERNING — S3 IRAD still lacks descriptions despite growing volume; Hurricane work well-documented
+  - 5.5 hours **[451-1] INSTAAR S3 x 2** — "Motor Breaking Bug" (motor/mechanical debugging)
+  - 2.1 hours **[300-3] 2026 IDIQ (Hurricane)** — "Autopilot Rework/Debugging" (autopilot systems work)
+- **Current focus:** Hurricane project dominates this batch (28% of tracked time); INSTAAR S3 x 2 represents new/emerging work stream
+- **Documentation quality:** IMPROVED — All current batch entries are well-described; earlier S3 IRAD undescribed entries remain outstanding
 
 ## Patterns
-- **Unassigned backlog trend (gradual improvement):**
-  - Batch 10: 54.0%
-  - Batch 11: 53.9%
-  - Batch 12: 51.6%
-  - **Batch 13 (current): 49.6%** — *Continued downward trend; cumulative 4.4 pp improvement over 4 batches*
+- **Unassigned backlog trend (sustained improvement):**
+  - Batch 13: 49.6%
+  - **Batch 14 (current): 47.9%** — *Continued downward trajectory; 1.7 pp improvement; cumulative 6.1 pp improvement over 5 batches*
 - **Project activity shifts:**
-  - **S3 IRAD:** Major reactivation — 14.8 hours last 2 batches (was dormant); now dominant work focus
-  - **Navy SBIR:** Momentum paused — no entries this batch after 2 consecutive batches of activity
-  - **Hurricane (NOAA):** Consistent, steady engagement across all recent batches
-- **Compliance status:** **IMPROVING** — Unassigned percentage declining; multi-project engagement confirmed; **CRITICAL:** Undescribed S3 IRAD work requires documentation
+  - **S3 IRAD ([001-07]):** Holding stable (no new entries); earlier reactivation plateau'd
+  - **INSTAAR S3 x 2 ([451-1]):** NEW project entry; 5.5 hours motor debugging — *First appearance in tracking data*
+  - **Hurricane (NOAA):** Diversifying technical scope — shifting from sonde QC to autopilot systems
+  - **Navy SBIR:** Remains dormant — pause now extends 2+ batches
+- **Compliance status:** **IMPROVED** — Unassigned percentage declining steadily; project documentation quality restored; unclear project boundaries emerging
 - **Action items:**
-  1. **URGENT:** Request descriptions for 14.8 hours of undescribed S3 IRAD work (last 2 batches)
-  2. Investigate Navy SBIR pause — temporary hiatus or shift in workload allocation?
-  3. Monitor next batch: Confirm S3 IRAD dominance is sustained or cyclical
-  4. Continue tracking unassigned hours reduction trajectory
+  1. **CLARIFY:** [451-1] INSTAAR S3 x 2 vs [001-07] S3 IRAD distinction — are these separate projects or overlapping work?
+  2. **FOLLOW-UP:** Undescribed [001-07] S3 IRAD entries (14.8 hours) still pending documentation
+  3. **INVESTIGATE:** Navy SBIR continued pause — confirm if temporary or permanent workload shift
+  4. **MONITOR:** Hurricane project technical scope broadening (sonde QC → autopilot debugging)

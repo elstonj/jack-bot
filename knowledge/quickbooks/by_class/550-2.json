@@ -4,38 +4,38 @@
     "[550] United States Navy:[550-2] Navy STTR Hazardous Weather"
   ],
   "period": {
-    "start": "2026-06-09",
-    "end": "2026-06-10"
+    "start": "2026-07-28",
+    "end": "2026-07-29"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7000.0,
+    "expenses": 26767.34,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 7000.0
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 26767.34
     }
   },
   "invoices": [],
   "bills": [
     {
       "type": "Bill",
-      "date": "2026-06-09",
-      "doc_number": "AR262124",
-      "total": 7000.0,
-      "attributed": 7000.0,
-      "vendor": "Old Dominion University Research Foundation",
+      "date": "2026-07-28",
+      "doc_number": "CI012047",
+      "total": 26767.34,
+      "attributed": 26767.34,
+      "vendor": "Embry Riddle University",
       "customer": "",
       "balance": 0.0,
-      "memo": "Subcontract Agreement NO. N6833525C0270\nProject No. 500567-010\n\nPayment for the award entitled \"STTR: N25A-T025-0009 - Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Uncrewed Aircraft System\"",
+      "memo": "",
       "lines": [
         {
-          "amount": 3500.0,
+          "amount": 13383.66,
           "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "February 2026 Invoice: STTR N25A-T025-0009 Hazardous Weather"
+          "description": "Task O.2: Wave Measurement Development - Option (Months 8 and 9)"
         },
         {
-          "amount": 3500.0,
+          "amount": 13383.68,
           "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "June 2026 Invoice: STTR N25A-T025-0009 Hazardous Weather"
+          "description": "Task O.4: Stakeholder Engagement and Integration Planning - Option (Months 10, 11, 12)"
         }
       ]
     }

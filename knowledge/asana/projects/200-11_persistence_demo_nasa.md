@@ -7,7 +7,7 @@
 - **Timeline:** January 2025 – September 2025 (9 months)
 - **Status:** ✓ **ARCHIVED** — Contract completed and closed November 24, 2025. All deliverables accepted, payments received ($74,428 total).
 - **Team:** Whole BST team involved
-- **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov, MS 202A-3 Moffett Field, CA 94035-1000
+- **Primary Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, 650-604-3325, matthew.fladeland@nasa.gov, MS 202A-3 Moffett Field, CA 94035-1000
 
 **Project Objective:** Demonstrate persistent IR measurements over wildfires using small, fixed-wing uncrewed aircraft (S2 platform) and establish a scalable, operational CONOPS for 24-hour wildfire monitoring.
 
@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks in Asana:** 1 open (administrative contact data entry), 32 completed  
+**Total Tasks in Asana:** 1 open (administrative contact record), 32 completed  
 **Completion Rate:** 97%
 
 ### Tasks by Assignee (Completed Work)
@@ -95,8 +95,8 @@
 
 ## Open Items
 
-**1 Administrative Data Entry Task (No Due Date):**
-- Matthew Fladeland contact information record — data entry for NASA Ames Technology Transfer Office contact details (Company/Agency: NASA AMES; Email: Matthew.fladeland@nasa.gov; Address: Technology Transfer Office MS 202A-3 Moffett Field, CA 94035-1000; Phone: (650) 604-3325; Website: www.nasa.gov). Created post-closure for reference purposes. **Status:** Open (administrative; no deadline).
+**1 Administrative Contact Record (No Due Date):**
+- Matthew Fladeland contact information data entry task — maintains NASA Ames Technology Transfer Office contact details for reference. **Status:** Open (administrative; no deadline, created post-closure for archival purposes).
 
 ---
 
@@ -112,14 +112,15 @@
 
 ---
 
-## Demo/Flight Calendar (July–September 2026)
+## Demo/Flight Calendar & Platform Schedule (July–September 2026)
 
-**Maintained by Beck:**
-Demo and flight schedule through September 2026 in shared Google calendar: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
-
-**Recent Updates (Beck, 07/10/26 & 07/13/26):** Calendar updated with latest flight and demo schedule.
+**Calendar Maintained by Beck:**
+- Shared Google spreadsheet tracking demos and flights through September 2026: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
+- **Recent Updates:** Beck updated calendar on 07/10/26 and 07/13/26
 
 **Platform Schedule Modifications Proposed (Maciej, 07/27/26):**
 For KS Tech Sync, platform schedule modifications starting September 2026:
-1. Cancel S3 Europe wing reduction
-2. Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left to compensate (goal
+1. **Cancel** S3 Europe wing reduction
+2. **Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left** to compensate (goal: S0-ISR demo for the UK)
+3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with Whitehorse demo)
+4. **Decision pending:** Keep S

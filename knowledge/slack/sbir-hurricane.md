@@ -61,6 +61,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
 - Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
 - Plan to develop P3 simulator at BST for testing prior to implementation (May 27, 2026)
+- **Todd assigned to work with Jack Elston to implement GCS modifications on Thursday; P3 test flight planned for same day (July 29, 2026)**
 
 **Humidity Sensor Configuration (April 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
@@ -84,5 +85,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
 
 **Stock Inventory Build (May 6, 2026):**
-- Jack Elston initiated procurement of 20 additional S0 aircraft units to maintain stock inventory for operational opportunities (May 6, 2026)
-- Decision made to use current 2026 configuration without waiting for 2027
+- Jack Elston initiated procurement of 20 additional S0

@@ -1,119 +1,98 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 42 emails
-- **Date range:** 27 July 2026 (all within single day)
-- **Volume:** Extremely high single-day spike (42 emails in ~24 hours) — suggests active proposal/grant submission period or system onboarding event
+- **Total messages scanned:** 65 emails (42 on 27 Jul + 23 on 28-29 Jul)
+- **Date range:** 27 July – 29 July 2026
+- **Volume:** Sustained high activity over 3-day period; 27 July spike appears to represent system onboarding; 28-29 July shows operational baseline (~11-12 emails/day)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — appears in 9+ emails; primary collaborator on technical and government correspondence
-- **Jack Elston** (elstonj@blackswifttech.com) — 3+ emails; involved in proposals and external partnerships
-- **Maciej Stachura** (stachura@blackswifttech.com) — 3+ emails; involved in funding opportunities and external collaborations
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — primary collaborator; appears in 12+ emails across both datasets; leads technical responses to SOCOM RFI S0, S3 delivery coordination, USPACOM proposals
+- **Jack Elston** (elstonj@blackswifttech.com) — 5+ emails; business development lead on USPACOM FY27 proposals
+- **Maciej Stachura** (stachura@blackswifttech.com) — 2+ emails; involved in funding and NAWCAD coordination
 
-### Top External Contacts
-- **Gijs de Boer** (gdeboer@bnl.gov) — Brookhaven National Lab; 5 emails; actively discussing SBIR/STTR funding and "Genesis" project
-- **SOCOM personnel:**
-  - Hannah D. Lyness (hannah.d.lyness.mil@socom.mil)
-  - Evan M. Wolff (evan.m.wolff.mil@socom.mil)
-  - Thread: RFI S0 and CRADA discussions
-- **Jošt Laznik** (jost.laznik@atmolab.eu) — Atmolab; technical discussion on REX 110 operations at extreme temperatures
+### Top External Contacts (New/Updated)
+- **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — SOCOM CIV; 4 emails in 48-hour window; active RFI S0 thread with Prendergast, includes Evan Wolff
+- **Amy McLiverty** (amy.l.mcliverty@noaa.gov) — NOAA Federal; new contact; Beck initiates "New Delivery Order/Upcoming" discussion
+- **Christopher E. Hartman** (chartman@umes.edu) — University of Maryland Eastern Shore; S3 delivery and training coordination (continuing from prior dataset)
+- **Angel R. Ruiz-Reyes & Anthony D. Brescia** (NAWCAD/USN) — Naval Air Warfare Center Aircraft Division; Beck initiates "Today's check-in" on 28 Jul
 
-### External Organizations
-- **Brookhaven National Lab (BNL)** — funding and project collaboration (Genesis)
-- **Atmolab** (EU-based) — technical hardware testing
-- **Lockheed Martin** (alasdair.brackenridge@global.lmco.com) — "LM / Black Swift Raven catch up" meeting
-- **Krateo Sky** (sona@krateosky.com, brian@krateosky.com, dipan@krateosky.com) — external partner; Munro Defense workshop
-- **SOCOM** — DoD Special Operations Command (primary government customer)
-- **SOFWERX** — DoD collaboration platform
-- **University of Maryland Eastern Shore (UMES)** — S3 delivery and training coordination (Christopher Hartman)
-- **University of Maryland Maritime** — N251-016 Phase II contract (Paul DeMond)
-
-### Internal Support/Admin Contacts
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — finance/admin; banking information updates
-- **Chad Atwood** (chad@theaiginc.com) — benefits/enrollment coordination
-- **Shannon Johnson** (shannon@theaiginc.com) — benefits (Aetna membership)
+### Internal Support/Admin Contacts (Existing)
+- **Meredith Needham** — finance/payments (Embry Riddle University payment processing visible)
 
 ### Internal vs External Breakdown
-- ~60% external government/partner correspondence
+- ~65% external government/partner correspondence (SOCOM, Navy, NOAA, universities)
 - ~25% internal team coordination
-- ~15% automated systems/account setup/HR
+- ~10% automated systems/newsletters
 
 ## Topic Patterns
 
-### Active Projects/Codenames
-- **S0** — appears in multiple threads; SOCOM-related RFI and presentations
-- **S3 Arctic** / **S3** — NextTech Solutions (NTS) proposal; delivery and training focus
-- **Genesis** — SBIR/STTR project with BNL; pitch paper resubmission
-- **Raven** — Lockheed Martin partnership discussion
-- **REX 110** — hardware testing at extreme temperatures (-40 to -55°C) with Atmolab
+### Active Projects/Codenames (Updated)
+- **S0 (RFI)** — SOCOM Request for Information; active multi-party thread (Jagelewski, Wolff, Prendergast) discussing responses; marked "Non-DoD Source"
+- **S3** — continues active (S3 delivery and training with UMES; Hartman coordination)
+- **Genesis** — (from prior dataset; no new emails this period)
+- **USPACOM FY27** — Joint Warfighter Experimentation Campaign; **submissions due NLT 07 August 2026** (active in Prendergast/Elston thread); marked IMPORTANT twice
 
-### Funding/Grant Activity
-- **SBIR/STTR** — Small Business Innovation Research/Small Business Technology Transfer
-  - Multiple emails from SBIR-STTR@connectwerx.org, ATI Portal, CWX submission portal
-  - FY26 Phase I — Genesis project office hours
-  - DOE $10 Million Phase I opportunity
-- **USPACOM FY27** — Joint Warfighter Experimentation Campaign (proposals due NLT 07 August 2026)
-- **N251-016 Phase II** — Maritime contract (University of Maryland Maritime)
+### Government/Defense Themes (New/Updated)
+- **SOCOM RFI S0** — Multi-email thread 28 Jul; involves Daniel Prendergast responding to Michael Jagelewski; marked as "(U) [Non-DoD Source]" — indicating unclassified but sensitive partner engagement
+- **NAWCAD (Naval Air Warfare Center Aircraft Division)** — New contact thread; Beck initiates direct check-in with Ruiz-Reyes and Brescia
+- **NOAA delivery orders** — Beck coordinating "New Delivery Order/Upcoming" with Amy McLiverty (Federal)
+- **DIU.mil (Defense Innovation Unit)** — New solicitation notification received 28 Jul; marked IMPORTANT
+- **CMMC Phase II Suspension** — Webinar notification from PreVeil; indicates ongoing DoD cybersecurity compliance tracking
 
-### Government/Defense Themes
-- SOCOM RFI responses
-- CRADA (Cooperative Research and Development Agreement) discussions
-- AFRL/RGK Patents Workflow (Air Force Research Lab)
-- CMMC (Cybersecurity Maturity Model Certification) compliance updates
-- DoD security clearances/Okta access requests
-- Non-DoD Source markings on sensitive emails
+### Funding/Grant Activity (Continuing)
+- **USPACOM FY27** — High priority; deadline 07 August 2026; appears in multiple Prendergast/Elston threads marked IMPORTANT
 
-### Technical Focus Areas
-- Hardware testing at extreme temperatures
-- Unmanned systems (UAS Weekly newsletter received)
-- Arctic/cold weather operations
+### Technical/External Events
+- **UWBG Market Identification Workshop** — Silicon Crossroads Hub / ARI invite (28 Jul); forwarded to proposals@blackswifttech.com
+- **Embry Riddle University** — Payment processing visible; suggests training, education partnership, or facility usage
 
 ## Communication Patterns
 
-### Time Distribution
-- All emails on single day (27 July 2026)
-- Spread across 06:09 UTC to 23:44 UTC (~17.5-hour window)
-- Heavy clustering around mid-day (12:00-20:00 UTC) and early morning (06:09-08:00 UTC)
+### Time Distribution (28-29 Jul subset)
+- Spread across 06:01 UTC to 00:12 UTC next day (~18-hour active window per day)
+- Heavy clustering mid-day (12:00-15:00 UTC) and early morning (06:00-08:00 UTC)
+- RFI S0 thread shows rapid-fire exchanges (13:58, 14:47, 15:27 UTC on 28 Jul)
 
 ### Automated/System Emails (Non-Human)
-- **Notification systems:** Slack (2), Asana (2), ATI account setup (4), CWX portal, Okta access requests
-- **Newsletters/Information:** UASweekly, Bay AI Circle Stanford event
-- **Account management:** Virtru verification, SBIR/STTR welcome, Zoomgov SBIR office hours confirmation
-- **Finance/HR:** Buyer By Light (procurement), Aetna/benefits notifications, open enrollment
+- **Newsletters:** UASweekly (2), MundoGEO (2), USPTO events, DIU.mil solicitation
+- **Notifications:** Slack (1), Defense Innovation Unit (1), PreVeil webinar
+- **Finance/Procurement:** QuickBooks Bill Pay (Embry Riddle)
 
 ### Mailing Lists/Groups
-- #sbir-hurricane Slack channel (Jack mentioned Beck)
-- SBIR/STTR Consortium (multiple agency distribution)
+- info@blackswifttech.com (MundoGEO, UASweekly)
+- info@bst.aero (MundoGEO)
+- proposals@blackswifttech.com (Silicon Crossroads Hub / UWBG Workshop)
 
 ## Key Relationships
 
-### Closest Internal Collaborators
-1. **Daniel Prendergast** — Technical and government lead; manages SOCOM, CRADA, hardware specifications, RFI responses
-2. **Jack Elston** — Business development and proposal lead; manages external partnerships (Krateo, USPACOM, MOD contacts)
-3. **Maciej Stachura** — Funding/grant specialist; interface with BNL and SBIR programs
+### Closest Internal Collaborators (Updated)
+1. **Daniel Prendergast** — Technical and government lead; dominates RFI S0 responses, USPACOM coordination, SOCOM engagement, UMES delivery coordination
+2. **Jack Elston** — Business development; USPACOM FY27 proposal lead
+3. **Maciej Stachura** — Funding/grants interface; NAWCAD coordination
 
-### Critical External Relationships
-- **Gijs de Boer (BNL)** — Funding pathway and Genesis project owner/advisor
-- **SOCOM (Hannah Lyness, Evan Wolff)** — Primary DoD customer; RFI/CRADA lead
-- **Lockheed Martin** — Strategic partnership (Raven project)
-- **Atmolab (Jošt Laznik)** — Hardware validation partner for extreme-temperature testing
+### Critical External Relationships (Updated/New)
+- **Michael C. Jagelewski (SOCOM)** — RFI S0 lead contact; multi-party thread; elevated importance
+- **Evan M. Wolff (SOCOM)** — Copied on RFI S0 thread (28 Jul); decision-maker visibility
+- **Amy McLiverty (NOAA)** — New/active delivery order coordination; appears to be recurring engagement
+- **Angel R. Ruiz-Reyes & Anthony D. Brescia (NAWCAD/Navy)** — Direct check-in initiated by Beck; suggests relationship development or status sync
+- **Christopher E. Hartman (UMES)** — S3 training/delivery coordination continues
 
 ## Notable Observations
 
-1. **System Onboarding Event:** Heavy clustering of account setup emails (ATI Portal, CWX submission, Okta access requests, Virtru, SBIR/STTR portal) suggests Beck was granted new access to federal proposal systems on 27 July 2026 — likely signaling expanded proposal authority or new role.
+1. **Operational Tempo Normalized:** After 27 July system onboarding spike, 28-29 July shows sustainable daily email volume (~11-12/day), indicating Beck is now operating with full federal proposal/contact system access.
 
-2. **Proposal Deadline Pressure:** Multiple high-priority emails with upcoming deadlines:
-   - USPACOM proposals due NLT 07 August 2026 (10 days out)
-   - SBIR/STTR funding windows active
+2. **SOCOM RFI S0 Escalation:** 28 July shows rapid-fire RFI S0 thread (3 emails in ~2 hours) with escalation from Michael Jagelewski → Michael Jagelewski + Evan Wolff (decision-maker). Prendergast leading technical responses; marked "Non-DoD Source" suggests partner/contractor engagement rules apply.
 
-3. **DoD/Government Focus:** Strong emphasis on SOCOM and AFRL relationships; multiple emails marked with DoD classification indicators and "Non-DoD Source" markings.
+3. **USPACOM Deadline Pressure Continues:** 07 August 2026 deadline (10 days) mentioned again in Prendergast/Elston thread; appears to be live proposal effort.
 
-4. **Hardware/Testing Emphasis:** REX 110 extreme-temperature testing thread suggests product development/validation cycle in progress with external partner.
+4. **New Government Customer: NOAA** — Amy McLiverty (NOAA Federal) appears as active contact with delivery order discussions; suggests existing or new product/service relationship.
 
-5. **Finance/Banking Alert:** Banking information modified notification forwarded to Meredith Needham — may indicate account reconciliation or vendor payment setup.
+5. **Navy NAWCAD Direct Engagement:** Beck personally initiates "Today's check-in" with two NAWCAD personnel (Ruiz-Reyes, Brescia), suggesting relationship maintenance, status check, or opportunity discussion at officer level.
 
-6. **Funding Wins:** De Boer sent both "Accepted" and "Declined" emails on same topic (Genesis re-submit/BNL pitch paper) at 20:26 and 20:32 UTC — likely notification of stage progression or appeals process.
+6. **Defense Innovation Unit Tracking:** DIU.mil solicitation notification marked IMPORTANT; suggests Beck or team actively monitoring DoD innovation funding sources.
 
-7. **Dual Email Usage:** One personal email visible (bcotter456@gmail.com) used for insurance card distribution — standard BST employee pattern.
+7. **Draft Email Flag:** One unsent draft email (12:05 UTC, 28 Jul) with no visible recipient or subject — may indicate interrupted composition or template work.
+
+8. **Payment Processing:** Embry Riddle University payment via QuickBooks suggests ongoing education
