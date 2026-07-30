@@ -118,9 +118,10 @@
 - Shared Google spreadsheet tracking demos and flights through September 2026: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
 - **Recent Updates:** Beck updated calendar on 07/10/26 and 07/13/26
 
-**Platform Schedule Modifications Proposed (Maciej, 07/27/26):**
-For KS Tech Sync, platform schedule modifications starting September 2026:
+**Platform Schedule Modifications Proposed for Q3–Q4 2026 (KS Tech Sync, Maciej, 07/27–07/28/26):**
+
+For implementation starting September 2026:
+
 1. **Cancel** S3 Europe wing reduction
 2. **Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left** to compensate (goal: S0-ISR demo for the UK)
-3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with Whitehorse demo)
-4. **Decision pending:** Keep S
+3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with Whiteh

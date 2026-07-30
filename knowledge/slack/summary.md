@@ -1,52 +1,65 @@
 # Slack Channels Overview
 
-Last scanned: 2026-07-29 02:19
+Last scanned: 2026-07-30 02:19
 
-Total channels scanned: 6
+Total channels scanned: 7
 
 ## Channels
 
-- **#flight-testing** -- 24 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 4 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 7 messages -- [marketing.md](marketing.md)
-- **#sbir-hurricane** -- 78 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 16 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sbir-magnetometer** -- 9 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 4 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 16 messages -- [general.md](general.md)
+- **#s0-vtol** -- 26 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 3 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 27 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 8 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Cross-Channel Themes
+## Active Projects
+**Core Aircraft Platforms:**
+- **S0 VTOL** – Vertical takeoff/landing aircraft in active development and testing
+- **S3** – Hybrid fixed-wing/quadcopter VTOL with 2-3 hour endurance target
+- **SwiftCore** – Drone system firmware, tablet application, and flight operations software (mature, active release management)
+- **E2, S2** – Operational platforms supporting commercial delivery
 
-### Active Projects
-- **S0 Unmanned Aircraft System (SBIR Hurricane)**: Primary focus on hurricane reconnaissance; extensive development and mission planning across 2020-2026
-- **SwiftCore Drone System**: Firmware, tablet app, and flight testing in active development; mature codebase with ongoing bug fixes and features
-- **Multi-Platform Fleet**: Fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) aircraft across development and testing phases
+**Government R&D Programs:**
+- **SBIR Hurricane** (NASA/NOAA focused) – S0 UAS for hurricane reconnaissance missions; highly active since 2020
+- **Navy SBIR Magnetometer** – QuSpin magnetometer integration for magnetic anomaly detection (MAD) applications
 
-### Key Decision-Makers & Roles
-- **Jack Elston**: Leadership; proposal/funding decisions; technical strategy oversight
-- **Maciej**: Technical lead; flight testing operations; proposal support; field operations
-- **Joshua Fromm**: QA; component sourcing; project coordination
-- **Dan Prendergast**: Business development; operations management
-- **Meredith Needham**: Grants and funding coordination
+## Key People & Roles
+| Role | Primary Names |
+|------|---|
+| **Engineering Leadership** | Joshua Fromm (RF/CAD/requirements), Jack Elston (systems lead/operations) |
+| **Flight Operations & Testing** | Maciej, Sam Hild, Alex Lomis, Ben Busby |
+| **Business/Sales** | Dan Prendergast, Paige Smith |
+| **Firmware/Software** | Danny Troke, Frank Stra, Ben Busby |
+| **Specialized Systems** | Beck Cotter (magnetometer project), Ethan Domagala |
 
-### Decision Patterns
-1. **Jack Elston** drives strategic decisions on proposals, funding priorities, and technical direction
-2. **Collaborative technical validation** occurs in #swiftcore and #flight-testing before major decisions
-3. **Proposal-driven development**: Funding opportunities shape project timelines and feature priorities (visible across #grants-and-funding, #sbir-hurricane, #swiftcore)
-4. **Field validation precedes deployment**: Flight testing results inform product decisions
+## Decision Patterns
+- **Technical validation-first**: Extensive flight testing and hardware debugging before customer delivery
+- **Government-focused revenue**: SBIR programs and agency partnerships (NASA, NOAA, Navy) drive R&D roadmap
+- **Modular integration**: Payload integration and aircraft platform customization for diverse applications
+- **Iterative design**: Continuous refinement of platforms based on test results and customer feedback
 
-### Recurring Topics
-- **Firmware/Software Updates**: Continuous iteration across SwiftCore and SBIR projects
-- **Flight Test Coordination**: Aircraft troubleshooting, payload integration, performance tracking
-- **Proposal Management**: Government funding cycles (NASA, DOD, NOAA, USDA, DOE) drive scheduling
-- **External Communications**: Marketing aligns product developments with messaging strategy
-- **Component Sourcing & Supply Chain**: Sourcing challenges reflected across technical channels
+## Recurring Cross-Channel Topics
+1. **Flight Testing Coordination** – Appears in #s0-vtol, #s3, #swiftcore, #sbir-hurricane
+2. **Payload Integration** – Magnetometer, sensors for various government contracts
+3. **Hardware Debugging & Parts Sourcing** – Joshua Fromm leads RF/antenna/battery component validation
+4. **Software Release Management** – SwiftCore firmware updates impact all platform operations
+5. **Customer Delivery & Support** – Commercial sales drives platform priorities; government contracts inform capability roadmap
+6. **System Requirements & Documentation** – Engineering-to-sales handoff for specifications and capabilities
 
-### Cross-Channel Connections
-- **#grants-and-funding → #sbir-hurricane**: SBIR awards drive S0 development priorities
-- **#swiftcore → #flight-testing**: Firmware releases tested immediately; bugs escalated back
-- **#general** serves as coordination hub; broadcasts decisions made in specialized channels
-- **#marketing** amplifies project milestones and funding wins announced elsewhere
-- **Technical teams** (#swiftcore, #flight-testing, #sbir-hurricane) operate interdependently with shared participants and synchronized development cycles
+## Channel Interdependencies
+- **#swiftcore** (software foundation) ← feeds into → **#s0-vtol, #s3** (platform testing)
+- **#sbir-hurricane, #25_1-navy-sbir-magnetometer** (government R&D) ← inform → **#s3, #s0-vtol** (capability development)
+- **#commercial-sales** (customer requirements) ← drives → **#general** (company priorities & announcements)
+- **#general** (operational decisions) ← coordinates → all technical channels
+
+## Strategic Observations
+- **Dual revenue model**: Government SBIR contracts fund platform development; commercial sales generate near-term revenue
+- **Core competency**: VTOL aircraft development with modular sensor/payload integration
+- **Maturity gradient**: SwiftCore is stable/mature; S0-VTOL and S3 remain in active development/testing phase
+- **International & academic presence**: University research partnerships and international customer base evident in commercial-sales channel

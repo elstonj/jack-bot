@@ -1,0 +1,45 @@
+{
+  "asana_gid": "1210367257543500",
+  "asana_task_name": "UC Santa Cruz - S3",
+  "customer": "UC Santa Cruz Ocean Sciences",
+  "customer_contact": "Tim Handley, Xavier Prochaska",
+  "customer_email": "thandley@ucsc.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S2",
+      "quantity": 1
+    },
+    {
+      "description": "S3",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Early-stage interest from UC Santa Cruz for S2/S3 oceanographic systems. Kevin Rozmiarek referral. Reconnecting meeting scheduled June 11, 2026. In-person visit (Xavier, Tim Handley, Alex Terrazas) tentatively planned for July 17\u201318.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "estimate_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-06-11",
+  "last_contact_date": null
+}

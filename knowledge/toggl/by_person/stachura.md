@@ -1,10 +1,10 @@
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 2,490.4 hours (cumulative) — *+9.6h this batch*
+- **Total hours tracked**: 2,498.2 hours (cumulative) — *+7.8h this batch*
 - **Primary projects (top 5)**: Corporate/Strategic Planning (476.2h), Hurricane Phase II+ (321.2h), Project 183171534 (290.9h), SwiftCore 3.3 (200.6h), S3 IRAD (182.6h)
 - **Time period covered**: Multiple months/years spanning IRAD, SBIR, and government contracts
-- **Latest batch**: 9.6 hours — **✅ 100% ALLOCATED** | **❌ 0% DESCRIBED** — *allocation discipline restored; description gap persists*
+- **Latest batch**: 7.8 hours — **❌ 0% ALLOCATED** | **❌ 0% DESCRIBED** — *critical regression; allocation discipline failure*
 
 ## Project Breakdown
 - **[001-13] Corporate / Strategic Planning, Proposals & General Operations / BD Pipeline** (Overhead): 476.2 hours (19.1%)
@@ -25,43 +25,45 @@
 - **[018-1] Murray State CH4 Monitoring** (Murray State): 7.0 hours (0.3%)
 - **[031-1] UMES S3** (University of Maryland Eastern Shore): 2.8 hours (0.1%)
 - **Other smaller projects**: 79.3 hours (3.2%)
-- **UNALLOCATED**: 0 hours (0%) — ✅ *allocation discipline restored*
+- **❌ UNALLOCATED**: 7.8 hours (0.3%) — *allocation discipline FAILED*
 
 ## Recent Activity
-- **5 entries this batch, all allocated**:
-  - **[001-13] General Operations** — 1.6h | *No description*
-  - **[001-13] BD Pipeline** — 1.0h | *No description*
-  - **[001-14] SwiftCore 3.3** — 4.0h | *No description*
-  - **[300-3] 2026 IDIQ (Hurricane)** — 1.7h + 1.2h (2 entries) | *No descriptions*
+- **1 entry this batch, completely unallocated**:
+  - **No project assigned** — 7.8h | *No description*
 
-- **✅ ALLOCATION DISCIPLINE RESTORED**:
+- **🔴 ALLOCATION DISCIPLINE COLLAPSED**:
   - Batch 61: ✅ 100% allocated
-  - Batch 62: ⚠️ 75.9% allocated (regression to 2.0h unallocated)
-  - **Batch 63: ✅ 100% allocated** — *allocation rebound confirmed*
-  - All 9.6h properly distributed across projects
+  - Batch 62: ⚠️ 75.9% allocated (2.0h unallocated)
+  - Batch 63: ✅ 100% allocated — *recovery confirmed*
+  - **Batch 64: ❌ 0% allocated (7.8h unallocated)** — *CRITICAL FAILURE*
+  - Recovery in batch 63 was temporary; regression more severe than batch 62
 
-- **🔴 DESCRIPTION DISCIPLINE CRITICAL**: 0 of 5 entries (0%) include task descriptions
-  - **10 consecutive batches now at 0% compliance** (batches 53–63)
-  - All entries logged with zero context; systemic pattern unresolved
+- **🔴 DESCRIPTION DISCIPLINE REMAINS AT 0%**: 
+  - **11 consecutive batches at 0% compliance** (batches 53–64)
+  - Single entry with zero context; systematic pattern persists
 
 ## Patterns
-- **✅ ALLOCATION DISCIPLINE — RECOVERED**:
-  - Batch 62 was temporary regression; batch 63 restores 100% allocation discipline
-  - Suggests batch 62 was isolated data entry lapse rather than systematic issue
-  - Work focus: SwiftCore 3.3 (42%), Hurricane IDIQ (30%), General Operations (27%)
-  - Allocation discipline appears stabilized at this checkpoint
+- **🔴 ALLOCATION DISCIPLINE — CRITICAL REGRESSION**:
+  - Batch 63 appeared to restore allocation discipline (100%)
+  - **Batch 64 fails catastrophically**: 100% of 7.8h unallocated with no project assigned
+  - Previous batch rebound was likely anomalous; underlying discipline issue unresolved
+  - **Total unallocated hours across recent batches**: 9.8h (batches 62–64)
 
-- **🔴 DESCRIPTION DISCIPLINE — PERSISTENT CRITICAL GAP** — 
-  - **10 consecutive batches at 0% compliance** (batches 53–63)
-  - No improvement across any project; systematic, unresolved failure
-  - All 5 entries this batch lack context (task type, deliverable, or work category)
+- **🔴 DESCRIPTION DISCIPLINE — PERSISTENT CRITICAL GAP**:
+  - **11 consecutive batches at 0% compliance** (batches 53–64)
+  - Single entry this batch with zero task context
+  - No improvement signal; systemic failure unresolved
 
-**RECOMMENDATIONS (UPDATED)**:
-1. ✅ **ALLOCATION DISCIPLINE CHECKPOINT PASSED** — Batch 63 confirms restoration after batch 62 regression
-   - **Confirmation**: 100% of 9.6h properly allocated
-   - Continue monitoring; confirm sustainable pattern in batch 64+
-2. 🔴 **CRITICAL: Description discipline remains at 0% (10-batch streak)** — Unresolved systemic failure
-   - **Mandatory action**: Enforce task descriptions at point of entry via Toggl configuration
-   - All entries must include work type, deliverable, or context tag before submission
-3. **NEXT CHECKPOINT**: Batch 64 — Confirm sustained allocation discipline AND implement description enforcement measure
-4. **Cumulative unallocated recovered** — Batch 63 returns to zero unallocated; batch 62's 2.0h remains unexplained in historical record
+**RECOMMENDATIONS (CRITICAL UPDATE)**:
+1. 🔴 **ALLOCATION DISCIPLINE — IMMEDIATE INTERVENTION REQUIRED**
+   - Batch 63 recovery was **not sustained**; batch 64 fails completely
+   - **Action**: Mandatory project assignment enforcement at Toggl entry point
+   - Audit batches 62–64 for context; resolve 7.8h unallocated entries immediately
+   - Confirm allocation discipline with batch 65 before closing this issue
+
+2. 🔴 **DESCRIPTION DISCIPLINE — ENFORCE AT POINT OF ENTRY**
+   - 11-batch streak at 0% compliance indicates systemic configuration gap
+   - **Action**: Configure Toggl to require task description field before submission
+   - All entries must include work type, deliverable, or context tag
+
+3. **NEXT CHECKPOINT**: Batch 65 — **CRITICAL**: Confirm 100% allocation AND 100% description compliance or escalate to management review

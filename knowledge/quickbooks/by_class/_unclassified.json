@@ -4,17 +4,18 @@
     ""
   ],
   "period": {
-    "start": "2026-07-28",
-    "end": "2026-07-29"
+    "start": "2026-07-29",
+    "end": "2026-07-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 6963.39,
+    "expenses": 8051.43,
     "by_category": {
       "FACILITIES:FA-Office Supplies": 5355.31,
-      "FACILITIES:FA-Shop Supplies": 994.66,
-      "SALES & MARKETING:SM-Shipping": 368.7,
-      "DIRECT COSTS:DC-Direct Material Purchases": 244.72
+      "Inventory Asset": 2574.79,
+      "SALES & MARKETING": 97.15,
+      "DIRECT COSTS:DC-Direct Material Purchases": 22.73,
+      "FACILITIES:FA-Shop Supplies": 1.45
     }
   },
   "invoices": [],
@@ -40,60 +41,75 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-07-28",
-      "doc_number": "",
-      "total": 368.7,
-      "attributed": 368.7,
+      "date": "2026-07-29",
+      "doc_number": "65720628",
+      "total": 2574.03,
+      "attributed": 2574.0299999999997,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "paid via PayPal",
+      "memo": "J. Fromm confirmed it's for future S3 Sales\n\nOriginal Order was for Amazon, but they were out of the item.",
       "lines": [
         {
-          "amount": 368.7,
-          "account": "SALES & MARKETING:SM-Shipping",
-          "description": "C-Astral shipment for potential project"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-28",
-      "doc_number": "39965440",
-      "total": 749.94,
-      "attributed": 749.94,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 749.94,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Crimping Tools HAND"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-28",
-      "doc_number": "3176630",
-      "total": 978.87,
-      "attributed": 489.44,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 489.43,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "PTFE High Temperature Stranded Wire for IDIQ"
+          "amount": 858.01,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
         },
         {
-          "amount": 489.44,
+          "amount": 858.01,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
+        },
+        {
+          "amount": 858.01,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-29",
+      "doc_number": "SHV-156507",
+      "total": 97.15,
+      "attributed": 97.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 97.15,
+          "account": "SALES & MARKETING",
+          "description": "Raspberry Pi Zero W \u00d7 5"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-29",
+      "doc_number": "0728JELSTON",
+      "total": 281.44,
+      "attributed": 24.939999999999998,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 8.61,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 16.33,
           "account": "FACILITIES:FA-Shop Supplies",
-          "description": "PTFE High Temperature Stranded Wire for shop supplies"
+          "description": ""
+        },
+        {
+          "amount": 256.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ supplies"
         }
       ]
     }

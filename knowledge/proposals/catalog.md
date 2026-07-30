@@ -2,46 +2,24 @@
 
 ## By Product/System
 
-### S3 (Black Swift S3)
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | SOW for engineering sprint and cold-weather configuration development for tube-launched VTOL operations (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### SwiftCore FMS
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | References SwiftCore FMS integration for arctic UAS operations (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### SwiftTab
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | References SwiftTab ground control interface (bst_arctic_engineering_sprint_sow_drafta.md)
-
----
+### General/Multi-Product
+- **RAVEN UAS - Procurement Specification (Draft SOW)** | Lockheed Martin UK Ltd / Royal Navy | July 2026 | Draft Statement of Work and procurement specification for RAVEN UAS programme with Black Swift Technologies as subcontractor (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ## By Client/Agency
 
-### Canadian Joint Forces Command (CJFC)
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC | July 24, 2026 | Phase II engineering sprint SOW for cold-weather S3 configuration and Whitehorse testing (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### NexTech Solutions LLC (NTS)
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | On behalf of Canadian Joint Forces Command | July 24, 2026 | Arctic UAS Phase II engineering sprint procurement (bst_arctic_engineering_sprint_sow_drafta.md)
-
----
+### Lockheed Martin UK Ltd (LMUK RMS) / Royal Navy
+- **RAVEN UAS - Procurement Specification (Draft SOW)** | July 2026 | Draft SOW and procurement specification defining Black Swift Technologies' role as subcontractor for RAVEN UAS Programme (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ## By Application Area
 
-### Arctic Operations
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | Canadian Joint Forces Command | July 24, 2026 | Cold-weather VTOL configuration, tube-launch capability, arctic environmental testing (bst_arctic_engineering_sprint_sow_drafta.md)
-
-### Tactical/Military Operations
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | Canadian Joint Forces Command | July 24, 2026 | Military UAS deployment for Arctic region operations (bst_arctic_engineering_sprint_sow_drafta.md)
-
----
+### Maritime/Naval Operations
+- **RAVEN UAS - Procurement Specification (Draft SOW)** | July 2026 | RAVEN UAS procurement specification for Royal Navy applications (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ## By Document Type
 
-### Statement of Work (SOW)
-- **Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 24, 2026 | Draft A SOW for Phase II engineering sprint (bst_arctic_engineering_sprint_sow_drafta.md)
+### Statements of Work (SOW) & Procurement Specifications
+- **RAVEN UAS - Procurement Specification (Draft SOW)** | Lockheed Martin UK Ltd / Royal Navy | 29 July 2026 | Draft SOW and specification document (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ---
 
-## Master Index (All Documents)
-
-| Document | Client | Date | Type | Product(s) |
-|----------|--------|------|------|-----------|
-| Arctic UAS Engineering Sprint — Black Swift S3 Cold-Weather Configuration | Canadian Joint Forces Command (via NTS) | July 24, 2026 | SOW (Draft) | S3, SwiftCore, SwiftTab |
+**Note:** This catalog currently contains one document. Additional documents should be provided to build a more comprehensive BST catalog organized by product systems (S2, S3, SwiftCore, MultiScat, AeroPod, etc.), application areas (arctic ops, volcano monitoring, hurricane tracking, methane detection, precision agriculture), and other client agencies (NASA, NOAA, USGS, etc.).

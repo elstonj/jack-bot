@@ -1,96 +1,73 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 574 messages** scanned across ~18 days (Jul 12-29, 2026)
-- Average ~32 messages/day
-- **Latest data (Jul 28-29)**: 45 new messages; continued high operational tempo with mix of SOCOM coordination, procurement activity, vendor confirmations, and automated notifications
-- **Peak activity sustained**: Jul 27-28 window shows 52+ messages/24hr; Jul 28-29 data shows 45 messages in ~24hr window
-- Pattern: Heavy daily operational volume with procurement cluster activity
+- **Total: 645 messages** scanned across ~18 days (Jul 12-30, 2026)
+- Average ~36 messages/day
+- **Latest data window (Jul 29-30)**: 71 new messages; sustained high operational tempo with heavy procurement activity, technical coordination (Nightfox CAN bus), and NOAA/SOCOM engagement
+- **Peak activity pattern sustained**: Consistent 35-45+ messages/24hr; procurement clusters remain dominant
+- Pattern: Operational coordination mixed with high-volume automated/transactional procurement notifications
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / External Strategic Partners**
-1. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership — **[ESCALATED Jul 28]**: "RSSI from Roof Test" thread; direct coordination with NOAA + military partners on technical testing
+1. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership — **[SUSTAINED ESCALATION]**: Jul 29 continued coordination on S0 Checklists, RSSI testing with NOAA partners
 2. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal
-3. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal
+3. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal — **[SUSTAINED Jul 29]**: S0 Checklist coordination
 4. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM
 5. **Joshua Wadler** (elstonj@erau.edu) — Embry-Riddle Aeronautical University
-6. **Laura Rock** (laura.rock@noaa.gov) — NOAA Federal — Flight operations coordination
-7. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal — **[NEW Jul 28]**: Included in CEO-level RSSI testing coordination
-8. **Annette Hollingshead** (annette.hollingshead@noaa.gov) — NOAA Federal — **[NEW Jul 28]**: RSSI thread participant
-9. **Mark Rogers** (mark.e.rogers@noaa.gov) — NOAA Federal — **[NEW Jul 28]**: RSSI thread participant
+6. **Laura Rock** (laura.rock@noaa.gov) — NOAA Federal — **[SUSTAINED Jul 29]**: RSSI roof test coordination; multiple thread exchanges (Jul 29); UASD SITREP leadership
+7. **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal
+8. **Annette Hollingshead** (annette.hollingshead@noaa.gov) — NOAA Federal
+9. **Mark Rogers** (mark.e.rogers@noaa.gov) — NOAA Federal
+10. **Joseph Orlando** (joseph.orlando@noaa.gov) — NOAA Federal — **[NEW Jul 29, IMPORTANT]**: UASD SITREP thread participant (Jul 28 report); operations coordination
 
 **Internal Technical Leadership**
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **[ESCALATED Jul 28]**: Direct correspondence on RFI S0 SOCOM engagement; forwarding SOCOM technical exchanges (Nightfox CAN bus configuration); managing C-130 integration
-- **Maciej Stachura** (stachura@blackswifttech.com) — **[NEW Jul 28]**: Nightfox CAN bus technical discussion; Prendergast copy
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — **[NEW Jul 28]**: Nightfox CAN bus configuration (technical team)
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — **[NEW Jul 28]**: RSSI roof test coordination
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **[SUSTAINED ESCALATION Jul 29]**: Nightfox CAN bus configuration; direct correspondence with Nathaniel Straus on technical integrations; multiple IMPORTANT emails (Jul 29)
+- **Maciej Stachura** (stachura@blackswifttech.com) — **[SUSTAINED Jul 29]**: S3 IRAD project — assigned Josh 2 tasks via Asana (Jul 29): "S3 Params validation" & "Get S3 CAD"; indicates ongoing design/validation work
+- **Nathaniel Straus** (nate.straus@blackswifttech.com) — **[SUSTAINED Jul 29]**: Nightfox CAN bus configuration thread participant (IMPORTANT, Jul 29)
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — RSSI/roof test coordination; noted in Budget car rental receipt (Jul 29)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **[NEW Jul 29, IMPORTANT]**: REX 110 operation at extreme cold temperatures (-40/-55°C); direct correspondence with Atmolab technical contact (Jošt Laznik); suggests environmental testing/deployment prep
 
 **External Partners - Suppliers & Commercial**
-- **Hadley Solomon** (hadley.solomon@creativealignments.com) — **[NEW Jul 28, IMPORTANT]**: Culture Assessment consultant; booked meeting Jul 30 3pm MDT "Conversation with Hadley Solomon, Creative Alignments"; marked IMPORTANT twice (appointment confirmed + updated invitation); **suggests HR/organizational development engagement**
-- **Jonathan DiGiacomandrea / George Kusaba** (amprius.com) — **[NEW Jul 28]**: Q3 check-in dialogue; Josh sent reply to George Kusaba on "FW: Q3 Check-In" (Jul 28); **Amprius = advanced battery/energy storage supplier**
-- **Diana Brunel** (bruneld@agrainermfg.com) — **[NEW Jul 28, UNREAD]**: "Circle back - Alpha Grainger for Black Swift"; suggests procurement/supply chain discussion
-
-**Industry News**
-- **UAS VISION** (russ@uasvision.com) — Daily news digest (Jul 29); marked UNREAD
+- **Hadley Solomon** (hadley.solomon@creativealignments.com) — **[CONFIRMED Jul 29]**: Calendar reminder received for Jul 30 3pm MDT "Conversation with Hadley Solomon, Creative Alignments" — confirmed meeting (marked IMPORTANT, UNREAD); HR/organizational development engagement
+- **Lee Skidmore** (lee@rubiconaerospace.com) — **[NEW Jul 29, IMPORTANT]**: "Re: S0 fuselage tubes"; Josh initiated inquiry on Jul 29 at 11:28am; direct supplier/vendor for SOCOM S0 airframe components
+- **Olivia Bakos** (olivia.bakos@nominal.io) — **[NEW Jul 29, IMPORTANT, UNREAD]**: "What we typically see before Nominal"; failure prediction/monitoring software vendor; suggests testing/diagnostics engagement
+- **Chance Rogers** (chance.rogers@vertiq.co) — **[SUSTAINED Jul 29]**: Motor procurement; Josh sent "Additional order for 23-14 motors" (Jul 29, 11:06am); Chance replied IMPORTANT (11:20am); ongoing motor supply coordination
+- **Luka** (luka@grepow.com) — **[NEW Jul 29, IMPORTANT, UNREAD]**: "Re: Optimize Aerial Operations Using Grepow's Lightweight High-Capacity Tattu Battery Technology"; direct technical dialogue on battery optimization
+- **Michael Rhodes** (michael.e.rhodes@colorado.edu) — **[NEW Jul 29, IMPORTANT, UNREAD]**: "Re: Nightfox CAN bus configuration question"; Colorado-based technical contact; CAN bus integration expertise
+- **Jonathan DiGiacomandrea / George Kusaba** (amprius.com) — Q3 check-in sustained
+- **Ryan Bradley** (rbradley@munrodefense.com) — **[NEW Jul 29, IMPORTANT]**: External contact on "CAD, BOMs and construction guides"; Jack Elston forwarded to Ryan; likely defense contractor/integration partner
 
 ### Routed Via Purchasing (purchasing@blackswifttech.com)
 
 **Sensor/Instrument Suppliers**
-- **Vaisala** — eBook promotional on defense field weather operations (Jul 28); order Q-00413896 remains active
-- **FTDI/FTDIchip** — Order confirmation maintained
-- **Atmolab** — REX 110 technical collaboration active
+- **Atmolab** — **[SUSTAINED Jul 29]**: REX 110 extreme temperature operation support active
+- **Vaisala** — Continued
+- **FTDI/FTDIchip** — Continued
 
 **CNC/Manufacturing Services**
-- **Craftcloud®** — **[ESCALATED Jul 28]**: Order #490602963468 production status update; customer message received regarding order (marked UNREAD); indicates order progressing into manufacturing phase
-- **JawsTec Manufacturing LLC** — Invoice 70183; payment processed
-- **Steinjäger / CSE Offroad** (Niall Mcilvenny) — **[NEW Jul 28]**: Two orders shipped (280380-ZCHF, SSR375-12.00); tracking provided; **off-road/structural components supplier** — suggests vehicle/airframe modifications or ground support equipment
+- **Craftcloud®** — Order progressing; sustained activity
+- **JawsTec Manufacturing LLC** — **[SUSTAINED Jul 29]**: Shipment notification received (Jul 29, 20:54); invoice 70183 paid; multiple orders in pipeline
+- **Steinjäger / CSE Offroad** (Niall Mcilvenny) — Orders shipped (Jul 28)
+- **ProtoSpace Mfg / ProtoCASE** — **[NEW Jul 29, IMPORTANT]**: CNC milling/turning promotional; educational content (Jul 29); suggests active manufacturing inquiry
 
 **Motor/Propulsion/Battery Systems**
-- **Vertiq** — 81-08 motor orders sustained
-- **GensTattu** — Battery/LiPo Order #220440 sustained
-- **Grepow, Inc.** — Battery systems
-- **Powerwerx** — **[NEW Jul 28]**: Order 3176630 confirmation; power distribution/conversion equipment
-- **Amprius** — Battery technology supplier; Josh in active Q3 dialogue
+- **Vertiq** — **[SUSTAINED Jul 29]**: 81-08 & 23-14 motor orders active; Josh placed additional 23-14 order (Jul 29, 11:06am)
+- **GensTattu** — Battery orders sustained
+- **Grepow, Inc.** — **[SUSTAINED Jul 29, IMPORTANT]**: Direct dialogue with Luka on battery optimization (Jul 29)
+- **Powerwerx** — **[SUSTAINED Jul 29]**: Order 3176630 shipped confirmation (Jul 29, 19:28)
+- **Amprius** — Battery technology supplier; Q3 dialogue sustained
 
 **Electronics & Components**
-- **Mouser Electronics** — Multiple shipment notifications (PO 39965440, 39954753); Invoice 129975599 shipped (DigiKey via Mouser tracking, Jul 28)
-- **DigiKey** — Order shipped (invoice 129975599, Jul 28)
-- **McMaster-Carr** — Order Jul 28 confirmed; certificate + tracking provided (mechanical/industrial supplies)
-- **American Polarizers** — **[NEW Jul 28]**: Free shipping promotional on $250+ orders; optical/optical component supplier
+- **Mouser Electronics** — Multiple shipment notifications sustained
+- **DigiKey** — **[SUSTAINED Jul 29, IMPORTANT]**: Webinar promotion on drone connectors (Jul 29); suggests active connector/integration work
+- **McMaster-Carr** — **[SUSTAINED HIGH VOLUME Jul 29-30]**: Orders Jul 28, Jul 29 (×2), Jul 30; receipt/cert/tracking notifications (Jul 29, Jul 30); sustained mechanical/industrial procurement
+- **American Polarizers** — Optical component supplier
+- **ELEGOO US** — **[NEW Jul 29]**: Flash savings promotional routed to "Alexis Lomis"; electronics/maker components
 
 **Field Logistics & Provisioning**
-- **UPS** — Package arrival notification (Jul 28)
-- **FedEx Billing Online** — Invoice attached (Jul 28); PayPal FedEx charge $368.70 (Jul 28)
-- **USPS Informed Delivery** — Daily digest (Jul 28)
-- **Worldwide Express** — **[NEW Jul 29]**: International shipping invoice #260726W011032; tracking #W002346756; suggests overseas freight movement (possibly to NOAA deployment location or international partner)
-
-**Freight & Travel**
-- **AeroNet Freight** — Logistics coordination sustained
-- **Budget Rent A Car** — Promotional (Jul 28)
-- **Expedia.com** — Travel/lodging promotional routed via purchasing (Jul 28)
-
-**Specialized Equipment**
-- **HeliDirect** — Goosky S1 & S2 back in stock (Jul 28); routed to Meredith; **small drone/rotorcraft supplier** — likely for aerial testing/surveying
-- **Baofeng** — PoC radio promotional (Jul 28); routed to Meredith
-- **eBay** — Futaba 14SG receivers/transmitters (Jul 28); **RC flight control systems**
-
-**Promotional/Automated**
-- **AliExpress** — Promotional offers (Jul 29, Jul 28); one routed to "Jack Elston" via AliExpress purchasing
-- **Constant Contact** — Promotional sustained
-- **Beyond Menu** — Food delivery promotional (Jul 28)
-- **UnitedHealthcare** — Weight loss benefits promotional (Jul 28, marked IMPORTANT); suggests health/wellness focus
-
-**Conference/Industry Events**
-- **AOGS Secretariat** — **[NEW Jul 29, UNREAD]**: "AOGS2026 Update Following the Kyushu Earthquake" — Asia-Oceania Geoscience Society 2026 conference update; event disruption notification; **suggests Josh registered/attending**
-
-**Project Management**
-- **Asana** — Unread notifications (Jul 28); task assignments active
-
-## Topic Patterns
-
-### Active Projects/Operations
-
-**SOCOM RFI S0 (CRADA) — [CRITICAL ESCALATION J
+- **UPS** — **[SUSTAINED Jul 29]**: Arrival notification (Jul 29)
+- **FedEx** — Invoicing sustained
+- **USPS Informed Delivery

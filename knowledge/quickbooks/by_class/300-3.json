@@ -4,15 +4,17 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-28",
-    "end": "2026-07-29"
+    "start": "2026-07-29",
+    "end": "2026-07-30"
   },
   "totals": {
     "revenue": 72000.0,
-    "expenses": 19837.23,
+    "expenses": 9306.84,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 19592.51,
-      "FACILITIES:FA-Shop Supplies": 244.72
+      "DIRECT COSTS:DC-Direct Material Purchases": 8588.77,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34,
+      "FACILITIES:FA-Shop Supplies": 14.88,
+      "Inventory Asset": 7.85
     }
   },
   "invoices": [
@@ -44,6 +46,29 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "260726W011032",
+      "total": 695.34,
+      "attributed": 695.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 39.02,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Phase1 shipment of remaining S0 wings to BST (IDIQ)"
+        },
+        {
+          "amount": 656.32,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment of ground stations to NOAA Lakeland (IDIQ)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-07-30",
       "doc_number": "1010",
       "total": 8355.0,
@@ -62,42 +87,29 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-07-28",
-      "doc_number": "3100112939",
-      "total": 10992.8,
-      "attributed": 10992.8,
+      "date": "2026-07-29",
+      "doc_number": "0728JELSTON",
+      "total": 281.44,
+      "attributed": 256.5,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Josh made request via email.",
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
       "lines": [
         {
-          "amount": 10992.8,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Supplies for extra S0s"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-28",
-      "doc_number": "3176630",
-      "total": 978.87,
-      "attributed": 489.43,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 489.43,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "PTFE High Temperature Stranded Wire for IDIQ"
+          "amount": 8.61,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
         },
         {
-          "amount": 489.44,
+          "amount": 16.33,
           "account": "FACILITIES:FA-Shop Supplies",
-          "description": "PTFE High Temperature Stranded Wire for shop supplies"
+          "description": ""
+        },
+        {
+          "amount": 256.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ supplies"
         }
       ]
     }

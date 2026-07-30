@@ -5,7 +5,7 @@
 - **Dollar Value:** $3,900 (payment received 2026-05-25)
 - **Timeline:** Due 2026-06-30 — **PROJECT NOW OVERDUE**
 - **Status:** **OVERDUE — fulfillment incomplete**
-  - E2 battery stuck in Mexican customs; power of attorney authorization **pending Meredith O'hara Needham's approval** (Daniel Prendergast awaiting clearance to sign)
+  - E2 battery stuck in Mexican customs; power of attorney authorization **PENDING Meredith O'hara Needham's approval** (Daniel Prendergast awaiting clearance to sign)
   - S2 Simulator shipment status and ETA unknown
 - **Project Owner:** Meredith O'hara Needham
 - **Customer Type:** Commercial

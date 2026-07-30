@@ -1,6 +1,5 @@
 # BST Financial Overview (QuickBooks)
-
-**Report Period:** July 28–29, 2026 (with historical data spanning April 2024–September 2026)
+**Report Period: July 29–30, 2026 | Data Range: April 2024 – September 2026**
 
 ---
 
@@ -8,78 +7,83 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoiced)** | $4,658,742.64 |
-| **Total Expenses** | $2,865,030.57 |
-| **Net Income Position** | $1,793,712.07 |
-
-**Note:** P&L report shows -$39,857.65 net income for the 2-day period (July 28–29), driven by $38,249.57 in direct costs with minimal revenue posted in that window. Historical cumulative position is strongly positive.
+| **Total Revenue (Invoices)** | $4,723,201.64 |
+| **Total Expenses (Bills + Purchases)** | $1,537,748.12 |
+| **Net Income (Period)** | $57,900.02 |
+| **Net Position (All-time)** | $3,185,453.52 |
 
 ---
 
 ## By Project/Class
 
-### 1. **Government** (Largest)
-- **Total Revenue:** $4,635,848.28
-- **Total Expenses:** $1,527,858.44
-- **Net Position:** $3,107,989.84
-- **Outstanding A/R:** $3,368,537.82
-- **Active Invoices:** 82
-- **Status:** Strongest performer; significant cash receivable
+### 1. Government
+- **Total Revenue:** $4,650,307.28
+- **Total Expenses:** $1,529,436.22
+- **Net Position:** $3,120,871.06
+- **Active Invoices:** 83
+- **Status:** Primary revenue driver; strong profitability
 
-### 2. **BST Internal**
+### 2. BST Internal
 - **Total Revenue:** $22,894.36
-- **Total Expenses:** $1,337,172.13
-- **Outstanding POs:** $1,700.00 (PO #1038 – Amprius)
-- **Net Position:** -$1,314,277.77
-- **Transaction Count:** 1,320 (27+ months activity)
-- **Status:** Internal operations; expenses heavily exceed revenue
+- **Total Expenses:** $1,345,258.90
+- **Outstanding Purchase Orders:** $1,700.00
+- **Net Position:** -$1,322,364.54
+- **Status:** Cost center (R&D/internal operations); significant expense base
 
 ---
 
-## Top Vendors
+## Revenue Snapshot
 
-Based on expense data:
-1. Direct cost subcontractors: **$26,767.34** (recent period)
-2. Direct material purchases: **$11,482.23** (recent period)
-3. Shop supplies (Facilities): **$1,239.38**
-4. Shipping (Sales & Marketing): **$368.70**
-
-**Note:** Full vendor list by total spend not provided in source data; above reflects recent high-value categories.
+| Revenue Category | Amount |
+|------------------|--------|
+| Billable Expense Income | $72,000.00 |
+| Government Invoices | $4,650,307.28 |
+| **Total Revenue** | **$4,723,201.64** |
 
 ---
 
-## Top Customers
+## Expense Breakdown (July 29–30)
 
-- **Government contracts:** Primary revenue driver at $4,635,848.28
-- **Number of government invoices:** 82 active
-- Specific customer names not detailed in provided data
+| Category | Amount |
+|----------|--------|
+| Direct Material Purchases | $8,611.50 |
+| Office Supplies (Facilities) | $5,355.31 |
+| Shop Supplies (Facilities) | $16.33 |
+| Sales & Marketing | $97.15 |
+| R&D (Internal) | $19.69 |
+| **Total Period Expenses** | **$14,100.00** |
 
 ---
 
 ## Cash Flow Indicators
 
-| Indicator | Amount | Notes |
-|-----------|--------|-------|
-| **Outstanding A/R (Government)** | $3,368,537.82 | Significant unfunded pipeline |
-| **Recent Large Expenses (2-day period)** | $38,249.57 | Subcontractors & materials |
-| **Outstanding PO** | $1,700.00 | Amprius (BST Internal) |
-| **A/R Aging** | 82 invoices | Government invoices span multiple months |
+### Accounts Receivable (Outstanding)
+- **Government Project A/R:** $3,382,996.82 remaining on 83 active invoices
+- **Collection Status:** Significant outstanding balances; recommend AR aging review
 
-**Cash Flow Risk:** Despite $1.79M net positive position, $3.37M in government A/R is outstanding. Working capital depends on invoice collection timing.
+### Recent Large Expenses
+- **Direct Materials:** $8,611.50 (July 29–30)
+- **Office Supplies:** $5,355.31 (largest facility expense)
+- **BST Internal Operations:** $8,327.62 in new transactions (July 29–30)
+
+### Project Activity Status
+- **Government:** Active with 83 open invoices; ongoing revenue generation
+- **BST Internal:** Primarily operational/R&D; no recent billable activity noted
 
 ---
 
-## Unclassified Transactions
-
-- **P&L report totals:** $39,857.65 in expenses shown with **$0 revenue** in the July 28–29 window
-- Suggests timing gap: expenses posted without corresponding revenue recognition in this 2-day period
-- No transactions explicitly noted as unclassified in the source data provided
+## Outstanding Commitments
+- **Purchase Orders:** $2,532.00 total
+  - BST Internal: $1,700.00 (Amprius, PO #1038)
+  - Government: $832.00
 
 ---
 
 ## Key Observations
 
-1. **Government contracts dominate:** 99.5% of total revenue
-2. **BST Internal is a cost center:** $1.3M net negative position over 27 months
-3. **Cash collection critical:** $3.4M A/R outstanding against $2.9M total expenses
-4. **Recent activity:** July 28–30 saw $8,086.77 in new BST Internal expenses; $1,700 outstanding from Amprius PO
+✓ **Strong overall position:** $3.18M net profitability across all projects  
+✓ **Government project carries company:** 98% of revenue; $3.1M contribution  
+⚠ **High A/R balance:** $3.38M outstanding; monitor collection timeline  
+⚠ **BST Internal operates at significant loss:** $1.32M net; review cost justification vs. strategic value
+
+**Recommendation:** Prioritize Government A/R collections and evaluate BST Internal cost structure for efficiency gains.

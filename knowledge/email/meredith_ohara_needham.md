@@ -1,86 +1,104 @@
-# Meredith O'hara Needham — Email Patterns
+# Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 1,901 emails (1,856 previous + 45 from Jul 28–29)
-- **Date range:** June 15–July 29, 2026 (45 days)
-- **Approximate volume:** ~42.2 emails/day
-- **Trend:** **Ultra-high-velocity sustained; federal contract execution phase (AFRL SBIR/STTR + NOAA) accelerating; DCAA/KPMG audit coordination intensifying (multi-contact team engagement); Vaisala meteorological instrument order completed (payment confirmed); component procurement critical path (DigiKey, Mouser, McMaster-Carr shipments incoming); precision manufacturing (JawsTec, Craftcloud) active; multi-vendor supply chain (HeliDirect, FTDI, VertIQ, ICARE-ICARUS, Powerwerx) all concurrent; HR/payroll/benefits coordination (open enrollment, Aetna, Rippling); educational partner invoicing (Embry Riddle, DPS Finance, ERAU); culture assessment (Creative Alignments); ReliAscent DCAA compliance consulting engagement**
+- **Total messages scanned:** 1,966 emails (1,901 previous + 65 from Jul 29–30)
+- **Date range:** June 15–July 30, 2026 (46 days)
+- **Approximate volume:** ~42.7 emails/day
+- **Trend:** **Ultra-high-velocity sustained through federal contract execution and audit acceleration; procurement velocity unchanged; KPMG audit now at critical coordination phase; educational partner invoicing (CU Boulder) escalating to payment method negotiation; HR/benefits open enrollment + 401(k) processing ongoing; facilities/operations coordination emerging (Green Apple Cleaning quoted)**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 29)
+### Incoming (by frequency — updated through Jul 30)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **920+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **950+ cumulative messages**
    
-   **Recent Activity (Jul 28–29):**
+   **Recent Activity (Jul 29–30):**
    
    **Freight & Logistics Coordination:**
-   - **Worldwide Express** — International/domestic freight
-     - Invoice #260726W011032 (Jul 29, 07:40:46 UTC) [UNREAD, CATEGORY_UPDATES]
-     - **Significance:** Active freight coordination; global shipping logistics
+   - **McMaster-Carr** — Industrial supplies/hardware (ACCELERATING)
+     - Receipt for July 29th order (Jul 30, 02:37:04 UTC) [UNREAD, IMPORTANT]
+     - Certificate & tracking for July 29th order (Jul 29, 17:11:26 CDT) [UNREAD]
+     - Confirmation for July 29th order (Jul 29, 16:04:52 CDT)
+     - Receipt for July 28th order (Jul 29, 03:38:28 UTC)
+     - **Significance:** Multiple orders within 24-hour window; standing supply replenishment cadence
    
-   **Electronics Components & Rapid Fulfillment (Jul 28):**
-   - **DigiKey** — Electronics components
-     - Shipment notification for invoice 129975599 (Jul 28, 18:55:55 CDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Fast-turnaround electronics supply
+   - **Worldwide Express** — International/domestic freight (CONTINUED)
+     - [Status from previous scan maintained]
    
-   - **Mouser Electronics** — Electronics components (MULTIPLE ORDERS ACTIVE)
-     - Shipment notification PO 39965440 (Jul 28, 18:50:44 CDT) [UNREAD, CATEGORY_FORUMS]
-     - Order confirmation PO 39965440 (Jul 28, 11:01:08 CDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Multiple concurrent orders; split shipments or staged procurement
+   **Electronics Components & Rapid Fulfillment (Jul 29–30):**
+   - **Amazon.com** (via Purchasing routing)
+     - Shipped: 4 Arts & Crafts and Hardware items (Jul 30, 06:14:57 UTC) [UNREAD]
+     - Ordered: 6 Essentials, Hardware, and other items (Jul 29, 22:04:12 UTC)
+     - **Significance:** Bulk consumables/rapid fulfillment; two orders in 24 hours
    
-   - **AliExpress** — Marketplace procurement
-     - "Hi, Jack Elston, we saved it" (Jul 28, 16:24:16 PDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Jack Elston using AliExpress for procurement; likely lower-cost components
+   - **Samsung USA** — Electronics/IT equipment (NEW ACTIVE ORDER)
+     - Order #US260729-65720628 confirmed (Jul 29, 23:12:27 UTC) [UNREAD]
+     - Receipt for order (Jul 29, 20:12:40 UTC)
+     - Tax exemption application received (Jul 29, 20:04:02 UTC) [UNREAD]
+     - Account welcome (Jul 29, 19:34:10 UTC, routed to Jack Elston)
+     - **Significance:** Direct tax-exempt procurement; likely production/lab equipment
    
-   - **McMaster-Carr** — Industrial supplies/hardware
-     - Order confirmation (Jul 28, 16:48:32 CDT) [UNREAD, CATEGORY_UPDATES]
-     - Tracking certificate (Jul 28, 18:01:58 CDT) [UNREAD, CATEGORY_UPDATES]
-     - **Significance:** Two-stage confirmation/shipment; consumables or standard mechanical parts
+   - **HeliDirect** — Aviation/drone components
+     - Review request for 2x ISDT X16 Professional Dual Channel AC/DC Smart Charger (Jul 30, 04:07:41 UTC) [UNREAD]
+     - **Significance:** High-capacity battery charging equipment; dual charger order (qty 2)
    
-   - **Powerwerx** — Power systems/electrical components
-     - Order #3176630 confirmation routed to Joshua Fromm (Jul 28, 15:40:36 UTC) [CATEGORY_FORUMS]
-     - **Significance:** Power supply/electrical integration; Joshua Fromm flagged as primary recipient
+   - **SkyGeek** — Aviation/aerospace consumables
+     - "Built to Protect with PPG Aerospace" (Jul 30, 06:27:04 UTC, to Joshua Fromm) [UNREAD]
+     - **Significance:** Aerospace-grade materials/coatings
+   
+   - **Spade/Framework Support** — Component/tech support (PENDING)
+     - Status of order R718378251 (Jul 30, 06:00:26 UTC) [UNREAD]
+     - Follow-up submission (Jul 29, 20:16:45 UTC)
+     - **Significance:** Sustained issue with single order; active support escalation
+   
+   **Bill Pay & Payment Processing:**
+   
+   - **Quickbooks Bill Pay**
+     - Processing payment to **Aeronet Worldwide** (Jul 29, 22:00:13 UTC) [UNREAD]
+     - Scheduled bill payment notification (Jul 29, 21:58:56 UTC) [UNREAD]
+     - **Significance:** Aeronet payment approved and queued
+   
+   - **Intuit AppCenter**
+     - QuickBooks Online integration updates (Jul 29, 14:43:20 UTC) [IMPORTANT]
    
    **Vendor/Supplier Direct Contacts (CRITICAL PATH):**
    
-   - **Vaisala (Sara Singh, Jenny Geyer)** — Meteorological instruments (STATUS: PAYMENT PROCESSED ✓)
-     - **Payment confirmation** (Jul 28, 17:29:59 UTC): "Credit card payment confirmation of your Vaisala order" [IMPORTANT, CATEGORY_UPDATES]
-     - **Payment instructions** issued (Jul 28, 17:13:59 UTC) [CATEGORY_UPDATES]
-     - **Jenny Geyer** (Vaisala) → Meredith (Jul 28, 17:49:06 UTC): "Vaisala Order for Black Swift Technologies" [IMPORTANT, INBOX]
-     - **Sara Singh** (Vaisala) → Meredith (Jul 28, 14:26:25 UTC): "FW: Vaisala order for Black Swift Technologies LLC Q-00413896" [IMPORTANT, INBOX]
-     - **Meredith → Jenny Geyer** (Jul 28, 12:27:48 CDT): Response [SENT]
-     - **Meredith → Sara Singh** (Jul 28, 09:13:21 CDT): Response to order forwarding [SENT]
-     - **Significance:** ORDER COMPLETE — Critical meteorological instrument order Q-00413896 paid and confirmed; multiple stakeholders (Sara Singh, Jenny Geyer) engaged; likely scheduled delivery/integration phase next
+   - **Aeronet Worldwide (Elisa Arellano)** — Freight/logistics (PAYMENT APPROVED)
+     - Elisa → Meredith (Jul 29, 21:02:46 UTC): RE: Aeronet Invoices 823121 [IMPORTANT, INBOX]
+     - Meredith → Elisa (Jul 29, 15:56:39 CDT): Response [SENT]
+     - Meredith → Elisa (Jul 29, 14:51:20 CDT): Response [SENT]
+     - Elisa → Purchasing routing (Jul 29, 20:38:08 UTC): Invoice status [CATEGORY_FORUMS]
+     - **Significance:** Invoice 823121 resolved; payment processed via QuickBooks; likely international freight coordination
    
-   - **KPMG Audit Team** — EXPANDED ENGAGEMENT (Jul 28)
-     - **Dalton, Brandon C** — Multiple exchanges (Jul 28, 10:55–22:01 UTC)
-       - Meredith → Dalton (10:55:12 CDT): Status response [SENT]
-       - Dalton → Meredith (16:28:54 UTC): Full team reply [IMPORTANT, INBOX] — **CC'd to: Husain Aamir M, Choi Peter, Short Tod, Rexon Samuel, Davoren Joseph S**
-       - Dalton → Meredith (18:06:34 UTC): Follow-up [IMPORTANT, INBOX]
-       - Dalton → Meredith (22:01:06 UTC): Status update [UNREAD, IMPORTANT, INBOX]
-     - **Napheys, Lauren** (KPMG) — New contact (Jul 28)
-       - Meredith → Napheys (13:31:28 CDT): Status response [SENT]
-       - Napheys → Meredith + Dalton (19:29:09 UTC): CC'd coordination [IMPORTANT, INBOX]
-       - Napheys → Meredith (19:53:34 UTC): Follow-up [UNREAD, IMPORTANT, INBOX]
-     - **Significance:** AUDIT ACCELERATION — Full 6-person KPMG team now coordinating; daily status updates; Dalton and Napheys primary contacts; likely financial/DCAA compliance audit in critical phase
+   - **Phase1 AV (Sean Cole)** — AV/tech equipment
+     - Sean → Meredith (Jul 29, 22:16:16 UTC): "Your order has been shipped!" [IMPORTANT, UNREAD]
+     - Meredith → Sean (Jul 29, 15:56:03 CDT): Forwarded shipment notification [SENT]
+     - **Significance:** Shipment received and forwarded to team; AV equipment arriving
    
-   - **ReliAscent (Christy Evans)** — DCAA COMPLIANCE SERVICES (NEW ENGAGEMENT)
-     - Meredith → Christy Evans (13:11:10 CDT): "Estimate for hiring ReliAscent for DCAA compliance" [DRAFT]
-     - Meredith → Christy Evans (12:42:34 CDT): "A/P Report in Quickbooks and estimate for future work" [SENT]
-     - **Significance:** NEW MAJOR — DCAA compliance consulting engagement; requesting estimates; A/P report coordination; indicates formal compliance remediation effort underway
+   - **CU Boulder (Educational Partner) — PAYMENT METHOD NEGOTIATION (ESCALATED)**
+     - CU Boulder Bursar's Office + DPS Finance (Jul 29, 20:55:51 UTC): "Alternative way to pay invoice?" [IMPORTANT, INBOX]
+     - Keziah Clair (CU Boulder) → Meredith (Jul 29, 22:22:35 GMT): "CU Boulder ACH Info" [UNREAD, INBOX]
+     - Meredith → CU Boulder Bursar's (Jul 29, 15:54:05 CDT): Response [SENT]
+     - **Significance:** ESCALATION — Standard payment method failing; ACH info requested; direct ACH negotiation underway with Bursar's Office and DPS Finance (likely training/partnership contract invoice)
+   
+   - **KPMG Audit Team** — CONTINUED ENGAGEMENT (Jul 29)
+     - **Dalton, Brandon C** (bdalton@kpmg.com)
+       - Automatic reply to Meredith (Jul 29, 17:56:37 UTC): "Checking in on status" [IMPORTANT, INBOX] — Dalton out of office; indicates continuous status polling
+       - Meredith → Dalton (Jul 29, 11:56:09 CDT): Response [SENT]
+     - **Napheys, Lauren** (lnapheys@kpmg.com)
+       - Meredith → Napheys (Jul 29, 12:09:27 CDT): "Re: Checking in on status" [SENT]
+     - **Significance:** Daily status check-ins; Dalton's auto-reply suggests he's rotating coverage; Meredith responding same-day multiple times
    
    **Financial & HR Coordination:**
    
-   - **Mark Kightlinger (KCO Tax)** — Payroll/tax compliance
-     - Mark → Meredith (19:01:30 UTC, Jul 28): "Re: Need Rippling Payroll Reports" [IMPORTANT, INBOX]
-     - Meredith → Mark (12:32:24 CDT, Jul 28): Response [SENT]
-     - **Significance:** Payroll reporting cycle; tax compliance follow-up
+   - **Human Interest (401(k) Administrator)**
+     - 401(k) contributions for 7/29/2026 processing (Jul 29, 11:01:11 UTC) [IMPORTANT, UNREAD]
+     - Alex Lomis contribution rate change notification (Jul 29, 20:20:45 UTC) [UNREAD]
+     - **Significance:** Active payroll processing; individual employee changes flowing through
    
-   - **Shannon Johnson (AIG Inc./Aetna)** — Health insurance/benefits (OPEN ENROLLMENT ACTIVE)
-     - Multiple exchanges (Jul 28, 08:34–15:40 CDT range)
-     - Shannon → Meredith (10:56:37 EDT): "Re: Your Aetna Membership Information" [IMPORTANT
+   - **Rippling (Integrated HR/Payroll)**
+     - Action required: Accounting integration health

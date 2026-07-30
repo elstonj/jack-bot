@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, and Meredith Needham.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, and Todd.
 
 ## Key Decisions
 
@@ -28,6 +28,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Decision to use 76gsm wing skins instead of 160gsm for 50g weight savings (October 2024)
 - **Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)**
 - **Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft (July 8, 2026)**
+- **Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)**
 
 **Ground Control Station Operations (April 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -81,8 +82,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
 **Inventory Management (April 23, 2026):**
-- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
-- Jack Elston confirmed awareness of leftover aircraft status (April 23, 2026)
-
-**Stock Inventory Build (May 6, 2026):**
-- Jack Elston initiated procurement of 20 additional S0
+- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2

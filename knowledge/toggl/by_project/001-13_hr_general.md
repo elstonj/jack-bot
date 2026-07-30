@@ -4,11 +4,11 @@
 - **Client:** Overhead
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 8.0 hours (cumulative)
+- **Total hours tracked:** 9.8 hours (cumulative)
 
 ## Team Allocation
 - **Jack Elston:** 7.0 hours
-- **Ethan Domagala:** 1.0 hour
+- **Ethan Domagala:** 2.8 hours
 
 ## Activity Timeline
 - **Entry 1:** Creative Alignments <> KrateoSky/Black Swift (1.0h, Jack Elston)
@@ -18,12 +18,14 @@
 - **Entry 5:** BST TPM Recruiting Kickoff (1.0h, Jack Elston)
 - **Entry 6:** Engineering Positions Kick-off (1.0h, Jack Elston)
 - **Entry 7:** KrateoSky Supply Chain Specialist Recruiting Kickoff (1.0h, Jack Elston)
-- **Entry 8:** Culture assessment (1.0h, Ethan Domagala) — *recent*
+- **Entry 8:** Culture assessment (1.0h, Ethan Domagala)
+- **Entry 9:** Raven meeting (1.0h, Ethan Domagala) — *recent*
+- **Entry 10:** Weekly meeting (0.8h, Ethan Domagala) — *recent*
 
 ## Insights
 - **Recruiting expansion:** Effort spans multiple functional areas—Account Executive, Technical Project Manager, Engineering, and KrateoSky Supply Chain Specialist roles
-- **Broadening team involvement:** Ethan Domagala now contributing to HR initiatives (culture assessment), indicating expanded HR/people ops capacity beyond Jack Elston
-- Work centers on cross-organizational coordination, project initiation, internal leadership alignment, and organizational culture development
-- Evolution pattern reflects scaling phase: simultaneous recruitment initiatives across BST and partner organization (KrateoSky) alongside cultural and organizational assessments
+- **Increasing HR operations capacity:** Ethan Domagala now primary active contributor with 2.8 cumulative hours across culture assessment, Raven-related work (likely system/tool setup or vendor engagement), and recurring weekly meetings
+- **Operational expansion:** Shift from initial recruitment kickoffs toward ongoing HR operations and weekly governance rhythms
+- Work centers on cross-organizational coordination, project initiation, internal leadership alignment, organizational culture development, and operational cadence
 - No billable hours; consistent with internal HR/overhead classification
-- **Notable expansion:** HR efforts now include external partner (KrateoSky) work plus internal cultural assessment activities
+- **Pattern:** Jack Elston drove initial recruiting strategy; Ethan Domagala now managing operational execution and ongoing HR functions

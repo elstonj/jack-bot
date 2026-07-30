@@ -1,53 +1,59 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 230 (210 previous + 20 new)
-- **Date range:** 18 Jul – 29 Jul 2026
+- **Total messages scanned:** 278 (230 previous + 48 new)
+- **Date range:** 18 Jul – 30 Jul 2026
 - **Approximate volume:** Sustained ultra-high intensity; 24-hour operational tempo across 6+ government/military fronts; multiple concurrent critical escalations; heavy procurement and scientific collaboration activity
 
 ## Key Correspondents
 
 ### Top Senders (Updated with New Data)
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED CRITICAL ROLE:** Continues strategic orchestration across all major initiatives; USPACOM FY27 Joint Warfighter Experimentation Campaign (submissions NLT 07 Aug 2026) active dialogue with Daniel Prendergast (29 Jul); RSSI from Roof Test coordination with multi-party NOAA team (28 Jul 16:35 & 14:05 IMPORTANT); L-band drone flights dialogue with Scott Bolton via ERYAN Dai/WeatherStream (28 Jul); direct copy on organizational culture assessment correspondence
+1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED CRITICAL ROLE:** Continues strategic orchestration across all major initiatives; USPACOM FY27 Joint Warfighter Experimentation Campaign coordination (29 Jul); RSSI from Roof Test/NOAA team dialogue (29 Jul 08:11); MHP data alignment with Tanay Topac (Stanford) — multi-exchange (29 Jul 09:57–18:54); L-band drone flights dialogue continuing; Web-Enabled Employee Survey (29 Jul 09:39); Krateo Sky back-charges negotiation (29 Jul 15:49, 16:58, 22:50); Feral Hogs S3 project inquiry with Keven Gambold (Unmanned Experts) (29 Jul 15:33); direct involvement in recruiting coordination (29 Jul 10:46); Industrial Plan Work folder share to Maciej (29 Jul 21:13); "Taking you up on the open door" to Scott Wine (Krateo Sky) — NEW strategic dialogue (30 Jul 00:57)
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED OPERATIONAL LEADERSHIP:** Primary hub for SOCOM RFI S0 escalation — now engaging Michael C. Jagelewski (USSOCOM SOCOM) directly with Evan M. Wolff (28 Jul 12:44, 15:47, multi-exchange); Popocatépetl UAS Deployment dialogue with Dr. Hugo Delgado Granados (28 Jul 15:16, 18:37 IMPORTANT); Nightfox CAN bus configuration technical issue coordination (28 Jul 15:27 IMPORTANT); Bob Smith (Krateo Sky) SOCOM demo coordination (28 Jul 14:24 IMPORTANT); Beck Cotter check-in on Navy NAWCAD engagement (28 Jul 13:28 IMPORTANT)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED OPERATIONAL LEADERSHIP:** SOCOM demo coordination with Bob Smith & Lisa Marie Cheney (Krateo Sky) (29 Jul 12:05, 12:04); USPACOM FY27 proposal dialogue with Jack Elston (29 Jul 12:04); Nightfox CAN bus configuration with Nathaniel Straus and Michael Rhodes (Colorado) (29 Jul 11:32, 11:49, 22:34); New M2 opportunity dialogue with ByLight (William O'Neill, Bryan Sparling) (29 Jul 16:30, 17:09)
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW DIRECT ENGAGEMENT WITH MACIEJ:** Today's check-in with Navy contacts — Angel R. Ruiz-Reyes & Anthony D. Brescia (NAWCAD) (28 Jul 13:28 IMPORTANT); indicates direct procurement or technical coordination role
+3. **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil) — **DIRECT MILITARY ENGAGEMENT:** NEW elevated frequency with Maciej; "[Non-DoD Source] Today's check-in" multi-exchange (29 Jul 15:46, 15:49, 21:36, 21:57); broad Navy team copy (Beck Cotter, Anthony D. Brescia, Daniel Prendergast, Jack Elston) (29 Jul 18:54)
 
-4. **Hadley Solomon** (hadley.solomon@creativealignments.com) — **ORGANIZATIONAL DEVELOPMENT:** Black Swift Technologies Culture Assessment (28 Jul 10:58 IMPORTANT); Web-Enabled Employee Survey response (28 Jul 11:01); indicates HR/organizational consulting engagement at senior level
+4. **Sona Raziabeegum** (sona@krateosky.com) — **STRATEGIC PARTNERSHIP ACTIVITY:** Back Charges from KS negotiation with Jack Elston, Brian Grubel, Maciej Stachura, Thibault Bridel-Bertomeu (29 Jul 15:49, 16:58, 22:50 IMPORTANT); escalating partnership financial/operational issues
 
-5. **Bob Smith** (Bob@krateosky.com) — **STRATEGIC PARTNERSHIP ESCALATION:** Direct BST demo for SOCOM coordination — now in dialogue with Jack Elston AND Daniel Prendergast (29 Jul 07:27 IMPORTANT); indicates board-level involvement in SOCOM opportunity
+5. **Tanay Topac** (tanaytopac@stanford.edu) — **NEW CRITICAL ACADEMIC ENGAGEMENT:** MHP data alignment — sustained multi-exchange dialogue with Jack Elston (29 Jul 09:57, 12:01, 12:55, 15:48, 17:41, 18:44, 19:04); appears to be real-time technical/scientific collaboration
 
-6. **Daniel Prendergast** ↔ **Michael C. Jagelewski** (USSOCOM SOCOM) — **NEW CRITICAL MILITARY RELATIONSHIP:** Multi-exchange RFI S0 dialogue (28 Jul 12:44, 14:47, 15:47 IMPORTANT); direct escalation path to USSOCOM decision-maker; Evan M. Wolff now copied as secondary contact
+6. **Bob Smith** (Bob@krateosky.com) — **BOARD-LEVEL PARTNERSHIP:** BST SOCOM demo coordination — direct dialogue with Jack Elston and Daniel Prendergast (29 Jul 11:09, 11:31, 14:15 IMPORTANT); "Taking you up on the open door" escalation with Jack Elston (30 Jul 00:57)
 
-7. **Dr. Hugo Delgado Granados** (hdelgado@unam.mx) — **UNAM/VOLCANIC OPERATIONS:** Active Popocatépetl UAS Deployment dialogue with Daniel Prendergast (28 Jul 15:16, 18:37 IMPORTANT); indicates near-term operational activity
+7. **Laura Rock** - NOAA Federal (laura.rock@noaa.gov) — **ONGOING NOAA COLLABORATION:** RSSI from Roof Test coordination with Jack Elston (29 Jul 08:11, 08:46)
 
-8. **NOAA Multi-Party RSSI/Roof Test Coordination** — Jack Elston orchestrating large group: Nikolai Pawlenko, Joe Cione, Laura Rock, Joshua Fromm, Annette Hollingshead, Nick Underwood, Alex Lomis, Maciej Stachura, Mark Rogers, Joshua Wadler (ERAU) (28 Jul 16:35 & 14:05 IMPORTANT); indicates active technical testing phase for NOAA-affiliated project
+### Updated External Organizations
 
-9. **ERYAN Dai** (edai@weatherstream.com) — **NEW VENDOR ENGAGEMENT:** L-band drone flights over lava coordination with Jack Elston and Scott Bolton (SWRI) (28 Jul 19:35 IMPORTANT); WeatherStream operational involvement in geophysical mission
-
-10. **David Richter** (drichte2@nd.edu) — **NEW BROAD ACADEMIC/MILITARY COALITION:** SASCWATCH daily planning meeting invitation (28 Jul 15:31) to 40+ recipients including Maciej, Jack Elston, Navy personnel (joshua.h.cossuth.civ@us.navy.mil, alexander.j.desrosiers2.ctr@us.navy.mil, zoe.a.brookezibton.ctr@us.navy.mil, daniel.p.eleuterio.civ@us.navy.mil), Air Force (ian.park.2@us.af.mil, amanda.nelson.21@us.af.mil, ryan.rickert.4@us.af.mil), NOAA (gregory.foltz@noaa.gov, jason.dunion@noaa.gov, dongxiao.zhang@noaa.gov, lev.looney@noaa.gov, jason.sippel@noaa.gov), WHOI, multiple universities (ND, Colorado State, Miami, Mississippi State, Mines, UCSD, TAMU, UW), and research institutes; **Daily meetings Aug 3 – Sep 30 2026 (8:30am MDT)**
-
-11. **Purchasing** (purchasing@blackswifttech.com) — **AUTOMATED:** Worldwide Express Invoice (29 Jul 07:40); logistics/shipping coordination
-
-### Updated External Organizations (New Additions)
-
-**Government/Military (Expanded)**
-- **USSOCOM SOCOM** — Michael C. Jagelewski (USSOCOM CIV) — NEW direct escalation; Evan M. Wolff secondary contact (RFI S0 critical qualification dialogue)
-- **US Navy (NAWCAD)** — Angel R. Ruiz-Reyes, Anthony D. Brescia (28 Jul 13:28) — NEW engagement; Beck Cotter primary BST contact
-- **SASCWATCH Coalition** — Multi-institutional hurricane/atmospheric operations program (Aug 3 – Sep 30 2026 daily standups); 40+ members spanning Navy, Air Force, NOAA, academic institutions, research labs
+**Government/Military (Further Expanded)**
+- **US Navy (NAWCAD)** — Angel R. Ruiz-Reyes (CIV USN), Anthony D. Brescia (CIV USN) — ELEVATED FREQUENCY; Maciej now direct recipient/responder on Navy-coordinated messaging (29 Jul 15:46–21:57); broader multi-party Navy engagement visible (29 Jul 18:54)
 
 **Scientific/Research (Expanded)**
-- **NOAA/HRD Multi-Party Coordination** — Nikolai Pawlenko, Joe Cione, Laura Rock, Annette Hollingshead, Nick Underwood, Mark Rogers; Joshua Wadler (ERAU); Joshua Fromm & Alex Lomis (BST internal); RSSI/Roof Test active technical phase (28 Jul)
-- **University of Notre Dame (SASCWATCH PI)** — David Richter, Chris Deloach, Alex Brown (daily operations coordination Aug–Sep 2026)
-- **WeatherStream** — ERYAN Dai (L-band drone geophysical operations)
+- **Stanford University** — Tanay Topac — NEW intensive engagement on MHP (likely Meteorological/Hydrological Project or similar) data alignment; real-time active collaboration (29 Jul sustained multi-exchange)
+- **University of Colorado Boulder** — Michael Rhodes (michael.e.rhodes@colorado.edu) — Technical dialogue on Nightfox CAN bus configuration (29 Jul 22:34)
+- **NOAA Federal** — Laura Rock — Continuing RSSI/Roof Test technical coordination (29 Jul)
+
+**Commercial/Strategic Partners (Updated)**
+- **Krateo Sky** — Sona Raziabeegum, Brian Grubel, Lisa Marie Cheney, Scott Wine, Bob Smith — FINANCIAL/OPERATIONAL STRESS: Back Charges negotiation active (29 Jul); SOCOM demo opportunity active; Jack Elston "taking open door" to Scott Wine suggests relationship escalation or negotiation (30 Jul 00:57)
+- **ByLight** — William O'Neill, Bryan Sparling — M2 opportunity NEW escalation to Daniel Prendergast (29 Jul 16:30–17:09)
+- **Unmanned Experts** — Keven Gambold (kagambold@unmannedexperts.com) — Feral Hogs S3 project inquiry (29 Jul 22:23)
+- **Alternative Logistics LLC** — Iqbal Osuli (orders@alternativelogllc.com) — UAS Target System Package quote request (29 Jul 17:15)
+
+**Procurement/Logistics (Updated)**
+- **McMaster-Carr** — Invoice/order tracking (30 Jul 02:37)
+- **Amazon** — Shipping notifications (30 Jul 06:00)
+- **SkyGeek** — PPG Aerospace marketing (30 Jul 06:27)
+- **Aeronet** — Elisa Arellano (earellano@aeronet.com) — Invoice tracking 823121 (29 Jul 14:44–20:38)
+
+**Special Events/Community**
+- **Tethered Aerosystems Event** — Large distribution list invitation (50+ recipients) for Friday July 31, 2026 12pm–2:30pm MDT; includes academic researchers, NASA/JPL personnel (marco.b.quadrelli@jpl.nasa.gov), Sandia National Labs (caruiz@sandia.edu, cmlongb@sandia.edu), NOAA (galen.scott@noaa.gov), university faculty, and private researchers; suggests tethered/kite-based aerosystems demonstration or conference (29 Jul 15:26)
 
 ## Topic Patterns
 
-### Critical Mission Areas
-1. **SOCOM RFI S0 Qualification** — Multi-stage escalation: Evan M. Wolff → Hannah D. Lyness → Michael C. Jagelewski (new); Bob Smith (Krateo Sky) now directly involved; BST demo coordination active
-2. **USPACOM FY27 Joint Warfighter Experimentation Campaign** — Submissions NLT 07 Aug 2026; Jack Elston & Daniel Prendergast active coordination (29 Jul, 28 Jul)
-3. **Popocatépetl UAS Deployment** — Active technical/operational phase with UNAM (Dr. Hugo Delgado Granados) and USGS (Angie Diefenbach); Daniel Prendergast primary BST contact
-4. **L-band Drone Geophysical Missions** — RSSI/Roof Test coordination with NOAA team; L-band flights over lava with SWRI (Scott Bolton) and WeatherStream (ERYAN Dai)
-5. **S
+### Critical Mission Areas (Updated)
+
+1. **SOCOM RFI S0 / SOCOM Demo Opportunity** — Intensifying: Krateo Sky (Bob Smith, Lisa Marie Cheney) directly engaged with Jack Elston and Daniel Prendergast on BST demo coordination (29 Jul 12:05, 11:09, 14:15); suggests imminent or near-term demonstration/qualification activity; financial/operational tensions with Krateo Sky visible (back charges 29 Jul)
+
+2. **USPACOM FY27 Joint Warfighter Experimentation Campaign** — Active proposal coordination: Daniel Prendergast and Jack Elston multi-exchange (29 Jul 12:04–12:05); submissions NLT 07 Aug 2026 deadline approaching
+
+3. **MHP Data Alignment (Stanford)** — **NEW PRIORITY TRACK:** Sustained technical dialogue between Jack Elston and Tanay Topac
