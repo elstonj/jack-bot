@@ -13,7 +13,7 @@
 - **Team Members:** Ethan Domagala (owner), Daniel Prendergast (project lead/SOCOM priority/post-flight workflow), Jack Elston (ISARRA logistics), Maciej (By-Lite flights/NOAA coordination), Kevin Adkins (approvals), Beck (flight-testing/demo calendar), Josh, Alex, Ben
 - **Critical Risk Signals:**
   - **All 12 tasks unassigned** — execution blocker despite active flight operations
-  - **4 tasks OVERDUE:** Planning Task 1 (due 2026-05-20, **55+ days past**), Execution Tasks 1 & 2 (due 2026-05-26, **49+ days past**), Milestone 1 (due 2026-05-21, **54+ days past**)
+  - **4 tasks OVERDUE:** Planning Task 1 (due 2026-05-20, **69+ days past**), Execution Tasks 1 & 2 (due 2026-05-26, **63+ days past**), Milestone 1 (due 2026-05-21, **68+ days past**)
   - **Status inconsistencies:** Planning Task 3 marked "Completed" but remains open; Execution Task 2 & Milestone 1 marked "In progress" but unassigned with no updates
   - **Data quality issue:** One task has empty title/description field
   - **Project structure obsolete** — real priorities driven by external dependencies and team Slack coordination, not Asana pipeline
@@ -25,7 +25,7 @@
 | Deliverable | Target Date | **Real Status (Team Feedback — Authoritative)** | Value |
 |---|---|---|---|
 | **ISARRA Flight Week Campaign (2 S0 VTOL units + ground station/tablet)** | **August/September 2026** | **IN BUILD QC** per Jack Bot (2026-07-06); flight-testing ongoing to resolve tracking bug per Beck (2026-03-17); **August delivery target confirmed** per Jack Elston & Kevin Adkins (2026-05-21) | $21,181.81 |
-| **NOAA Ocean Array Test Flight (By-Lite)** | **Late July or early August 2026** | **SCHEDULED (DATE TBD)** per Maciej (2026-07-13); requires Jack, Josh, Alex, or Maciej; one additional clear air test flight required | N/A |
+| **NOAA Ocean Array Test Flight (By-Lite)** | **Late July or early August 2026** | **SCHEDULED (DATE TBD)** per Maciej (2026-07-13); requires one additional clear air test flight; Jack, Josh, Alex, or Maciej required | N/A |
 | **Murphy's Pond Flight #4** | Pending | **POSTPONED INDEFINITELY** per Daniel Prendergast (2026-07-23 & 2026-07-22); all travel and logistics arrangements to be cancelled | N/A |
 | **By-Lite Fuse Hardware Test Flights** | Pending hardware arrival | **BLOCKED INDEFINITELY** — 2 flight opportunities still owed to By-Lite per Jack & Maciej (2026-04-30) | N/A |
 | **CU IRISS Training** | N/A | **✓ COMPLETED** per Daniel Prendergast (2026-05-13/14) | N/A |
@@ -44,6 +44,7 @@
   - One task has empty title/description field
   - Launch Tasks 1 & 2 have no due dates
   - Execution plan approval task has no due date
+  - Milestone 3 has no due date
 - **Planning estimates:** Planning Task 1 (30m), Planning Task 2 (45m), Planning Task 3 (20m); execution/launch/milestone tasks have no estimates
 - **Completion rate:** 0% (12 open, 0 closed; inconsistency in Planning Task 3 status)
 - **By stage:** All 12 tasks in "Planning" stage despite active flight operations underway
@@ -57,11 +58,11 @@
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides Daniel's earlier in-progress updates. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline.
+**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides Daniel's earlier in-progress updates. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline. Daniel's request (2026-07-14 & 2026-07-13) to add the form link is **now implemented and live**.
 
 **2026-07-23 & 2026-07-22** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** All travel and logistics arrangements already made should be cancelled.
 
-**2026-07-13 & 2026-07-10** — Maciej: **NOAA ocean array test flight requires one additional clear air test flight late July or early August.** Exact date TBD. Requires Jack, Josh, Alex, or Maciej.
+**2026-07-13 & 2026-07-10** — Maciej: **NOAA ocean array test flight requires one additional clear air test flight** late July or early August 2026. Exact date TBD. Requires Jack, Josh, Alex, or Maciej.
 
 **2026-07-13 & 2026-07-10** — Beck: **Demo/flight calendar updated through September** (shared Google Sheets spreadsheet maintained).
 
@@ -71,6 +72,4 @@
 
 ## Notes & Context
 
-### Operational Status vs. Asana Mismatch
-This project **operates primarily via Slack coordination with external dependencies** rather than Asana task management. Real work includes:
-- **ISARRA Flight Week** — 2 S0 VTOL units
+### Operational Status vs. Asana Mism

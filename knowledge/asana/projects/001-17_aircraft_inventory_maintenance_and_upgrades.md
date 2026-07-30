@@ -3,10 +3,10 @@
 ## Overview
 - **Client/customer:** Internal BST development project
 - **Dollar value:** Not specified
-- **Timeline:** Multi-year project spanning 2018–2025, with final activity in December 2025
-- **Status:** **ARCHIVED** – Project concluded with all deliverables completed as of December 2025. Future aircraft and equipment maintenance now tracked through the **Fleet Maintenance Asana Project** (established May 2026 per Daniel Prendergast)
+- **Timeline:** Multi-year project spanning 2018–2025, with final activity in December 2025. Future S3 platform work and Industrial Plan modifications under discussion for September 2026 execution
+- **Status:** **ARCHIVED** – Project concluded with all deliverables completed as of December 2025. Future aircraft and equipment maintenance now tracked through the **Fleet Maintenance Asana Project** (established May 2026 per Daniel Prendergast). S3 platform development continues as separate initiatives
 - **Team members involved:** Nate Straus, Ben Busby, Maciej Stachura, Josh Fromm, Jack Elston; majority of historical tasks unassigned
-- **Risk signals:** None (project complete and maintenance workflow formalized)
+- **Risk signals:** None current (project complete and maintenance workflow formalized)
 
 ## Key Deliverables & Milestones
 - **QC Flight Test Cards** – Created for E2 and Flamewheel platforms (Nov 2023)
@@ -17,7 +17,7 @@
 - **Hardware Infrastructure** – Battery packs, rail launcher systems, GCS boards, servo orders completed
 - **Gazebo Simulation** – Alerion Turbine Inspection simulation framework completed (Oct 2025)
 - **Multi-rotor Estimator Code** – Software development with simulation and flight test validation (concluded Jan 2021)
-- **S3 Platform Planning** – Three distinct upgrade tracks identified (Jul 2026):
+- **S3 Platform Planning** – Three distinct upgrade tracks now formally separated (Jul 2026):
   - **S3 Whitehorse Upgrades** – Separate work stream; candidate for standalone project once approved and funded
   - **S3 General Upgrades** – Part of Industrial Plan
   - **S3 Military Upgrades** – Part of Industrial Plan
@@ -35,15 +35,15 @@
 
 ## Recent Activity
 
-**S3 Industrial Plan Timeline Adjustments (Jul 2026):**
-Per Maciej Stachura (Jul 27–28, 2026), the following modifications to the Industrial Plan starting September 2026 are proposed for KS Tech Sync:
+**Industrial Plan Timeline Adjustments – Proposed for September 2026 (Jul 27–28, 2026):**
+Per Maciej Stachura, the following modifications to the Industrial Plan starting September 2026 are proposed for KS Tech Sync:
 1. **Cancel** S3 Europe wing reduction
 2. **Move S3 Hybrid right** and **S0/S0-VTOL ISR left** (with goal of S0-ISR demo for UK)
 3. **Move S3 de-ice and S3 Salt Spray right** and **S3 severe cold left** (to align with Whitehorse demo timeline)
 4. **Status uncertain** on S3 Methane, S3 Visual, and S3 comms in Q4 2026 (awaiting decision)
 
-**S3 Platform Planning (Jul 2026):**
-Per Maciej Stachura (Jul 24, 2026), three distinct S3 upgrade initiatives are now formally separated:
+**S3 Platform Planning – Three Separate Initiatives (Jul 24, 2026):**
+Per Maciej Stachura, three distinct S3 upgrade initiatives are now formally separated:
 1. **S3 Whitehorse Upgrades** – Separate from Industrial Plan; pending approval and funding; will be spun into standalone **S3 Whitehorse** project once approved
 2. **S3 General Upgrades** – Part of Industrial Plan
 3. **S3 Military Upgrades** – Part of Industrial Plan
@@ -61,7 +61,7 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
   - Balance lead assembly (qty 6)
   - S-series platform work (S20012–S20018)
   - Servo orders (30x Hacker DITEX-0606 micro servos)
-  - Gazebo simulation work for Alerion Turbine Inspection (Ben Busby, Pablo, Maciej collaboration)
+  - Gazebo simulation work for Alerion Turbine Inspection
   - E2 platform thrust diagnostics (Maciej Stachura)
 
 ## Notes & Context
@@ -80,4 +80,4 @@ Daniel Prendergast established a standardized post-flight issue reporting form (
 
 **Post-project maintenance framework:** All future aircraft and equipment issues are captured via Daniel Prendergast's post-flight form (May 2026) and automatically routed to the Fleet Maintenance project or other relevant project spaces. This archived project serves as historical reference only.
 
-**Future roadmap:** S3 platform development underway with three separate upgrade tracks; S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured. Industrial Plan modifications under discussion for September 2026 execution (per Maciej Stachura, Jul 24–28, 2026).
+**Future roadmap:** S3 platform development underway with three separate upgrade tracks (Whitehorse, General, Military). S3 Whitehorse upgrades to be spun into standalone project once funding/approval secured. Industrial Plan modifications under discussion for September 2026 execution (per Maciej Stachura, Jul 24–28, 2026).

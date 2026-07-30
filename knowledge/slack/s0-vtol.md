@@ -3,9 +3,9 @@
 ## Overview
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
-Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby
+Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through July 21, 2026 (ongoing project)
+Time range: Early development through July 29, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -26,6 +26,7 @@ Time range: Early development through July 21, 2026 (ongoing project)
 **Customer Deliveries:**
 - S0 systems will not include handsets, only tablet joysticks for manual mode
 - Decision to leave aircraft in Barbados rather than shipping back ($1600 vs $360 cost)
+- **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing. Uncertain if BST will bring third S0-VTOL to ISARRA. Maciej banking on S0 over OOI for Navy STTR data option (Maciej, July 29, 2026)
 
 **Hardware Fixes:**
 - Sam switched from MSI to HSI clock source to fix heat sensitivity lockup issues
@@ -95,13 +96,4 @@ Time range: Early development through July 21, 2026 (ongoing project)
   **Issue 2 - Rear Motor RPM Shift (May 25, 2026):**
   - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
   - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
-  - Observed in manual log review (not yet in DShot command logs due to logging difficulty)
-  - Only seen on rear motor so far but may occur on others
-
-**CAN Bus & Motor Control Issues - Root Causes & Resolutions (May 26, 2026):**
-- Comprehensive issue analysis and fixes applied to test rig (Sam Hild, May 26, 2026):
-  
-  **CAN Bus Issues (RESOLVED):**
-  - Missing termination fixed on test rig
-
-**Post-Transition Motor Shutdown Issue (July 
+  - Observed in manual log review (not yet in DSh

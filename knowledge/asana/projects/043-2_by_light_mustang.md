@@ -17,6 +17,7 @@
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham; Pilot support: Jack Elston, Josh, Alex
 - **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Light, (5) SBIR Magnetometer
 - **Product/Service:** Design/prototyping; Consulting
+- **Subcontractors:** DSKinetic LLC (Spencer Lisenby, pilot services); Rocky Mountain High Aviation (D. Hesselius, drone pilot)
 
 ## Key Deliverables & Milestones
 
@@ -65,5 +66,5 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 
 **LATEST ACTIVITY (July 2026):**
 - **2026-07-10 & 2026-07-13 (Maciej):** **One additional NOAA test flight confirmed** for late July or early August 2026. Clear-air test flight over ocean array (North Carolina region). Exact date TBD. Requires one of Jack, Josh, Alex, or Maciej.
-- **2026-07-22 & 2026-07-23 (Daniel Prendergast):** **MURPHY'S POND FLIGHT #4 POSTPONED INDEFINITELY.** Any travel or logistics arrangements already made should be cancelled.
-- **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Workflow improvement initiative — requesting link to Maintenance Action Form be added to log parse at end
+- **2026-07-13 & 2026-07-14 (Daniel Prendergast):** Workflow improvement initiative — requesting link to Maintenance Action Form be added to log parse at end of flight log upload process.
+- **2026-07-22 & 2026

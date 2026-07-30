@@ -9,6 +9,7 @@
   - Original due date: March 3, 2025
   - Delivery/Freight pickup: March 14, 2025
   - Training completed: August 19, 2025
+  - Project archived: October 21, 2025
 - **Status**: **ARCHIVED/COMPLETED** — All work delivered and training completed. Project closed successfully October 21, 2025.
 - **Team Members**: Nate Straus (primary technician), Meredith O'hara Needham (project manager), Dan Prendergast (training), Ethan Domagala, Josh Fromm
 - **Risk Signals**: None — project completed successfully. Minor 11-day delay (pickup March 14 vs. due March 3) driven by customer spring weather observation timeline requirements.
@@ -28,7 +29,7 @@
 - **Total Tasks**: 26 completed, 0 open (100% completion rate)
 - **Primary Assignee**: Nate Straus (19 tasks, ~73%) — handled all major technical refurbishment work
 - **Secondary Assignees**: 
-  - Ethan Domagala (2 tasks — launcher rail work)
+  - Ethan Domagala (2 tasks — launcher rail work, completed Feb 21, 2025)
   - Josh Fromm (1 task — arm inspection)
   - Meredith O'hara Needham (shipping/delivery logistics)
   - Dan Prendergast (operator training)
@@ -38,7 +39,7 @@
 Project completed and archived in August–October 2025. Final timeline:
 - **Jan 6, 2025**: Disassembly began; motor replacement, avionics tray replacement, RTK integration, hinge/wiper tape replacement
 - **Jan 23–31, 2025**: Battery cycling validation, component cleaning, fuselage/wing work, connector upgrades, ADS-B installation, launcher control box inspection
-- **Feb 5–28, 2025**: Tablet/handset/GCS battery replacements, case foam replacement, launcher rail inspection and battery replacement, arm inspection
+- **Feb 5–28, 2025**: Tablet/handset/GCS battery replacements, case foam replacement, launcher rail inspection and battery replacement (completed Feb 21), arm inspection, launcher control box tasks (completed Feb 28)
 - **Mar 12, 2025**: Air spring deflection check and swap completed; Remote ID added
 - **Mar 14, 2025**: Aircraft shipped via freight (special double-long pallet arrangement due to launcher rail length; power lift gate and pallet jack required)
 - **Jul 30, 2025**: Operator training conducted at OSU
@@ -46,11 +47,12 @@ Project completed and archived in August–October 2025. Final timeline:
 - **Oct 21, 2025**: Project formally archived with completion status summary
 
 ## Notes & Context
-- **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but chose to order separately (each as individual PO). This refurbished S2 was first order; additional systems may follow.
-- **Customer priority**: March 2025 delivery for spring weather observation season (achieved with 11-day minor slip due to customer spring weather observation timeline requirements)
-- **Shipping logistics**: Aircraft launcher rail is unusually long, requiring non-standard double-long pallet with power lift gate and pallet jack operator onsite (BST has no loading dock)
+- **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but requested individual estimates for each item. Each order will happen separately. This refurbished S2 was first order; additional systems may follow.
+- **Customer priority**: March 2025 delivery for spring weather observation season (achieved with 11-day minor slip due to customer spring weather observation timeline requirements). Customer noted desire for delivery "as soon as possible" per Jan 3, 2024 communication.
+- **Shipping logistics**: Aircraft launcher rail is unusually long, requiring non-standard double-long pallet with power lift gate and pallet jack operator onsite (BST has no loading dock). Freight shipment picked up Mar 14, 2025.
 - **Air spring condition**: Rear air spring rods showed wear; swapped with S20009's units (documented damage patterns on each shaft)
 - **Battery specifications**: GCS battery required JST balance lead 16awg with no connector; sourced from MaxAmps
 - **Case logistics**: Josh Fromm delivered case on Feb 5, 2025
 - **Refurbishment scope**: Brought aging S2 to like-new condition with modern avionics upgrades (RTK, ADS-B, Remote ID)
 - **Customer type**: Commercial
+- **Considerations for future orders**: Note that OSU is purchasing multiple aircraft items separately; coordinate future VTOL and E2 orders as needed

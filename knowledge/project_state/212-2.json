@@ -26,16 +26,16 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 3968.75,
+        "amount": 5437.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-29"
+        "last_updated": "2026-07-30"
       },
       "purchases": {
-        "amount": 26166.92,
+        "amount": 28174.41,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-07-29"
+        "last_updated": "2026-07-30"
       },
       "other_qbo": {
         "amount": 113.18,
@@ -43,23 +43,17 @@
         "confidence": "exact",
         "last_updated": "2026-07-25"
       },
-      "total": 30248.85,
+      "total": 33725.09,
       "by_line_item": {}
     },
-    "committed": 10673.83,
-    "remaining": 48921.32,
+    "committed": 13667.0,
+    "remaining": 42451.91,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-29T09:07:16Z"
+    "last_reconciled": "2026-07-30T09:08:03Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
-    {
-      "name": "Josh Fromm",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
     {
       "name": "Nate Straus",
       "role": null,
@@ -76,6 +70,6 @@
       "text": "Jack Bot: 1 update(s) from Slack #commercial-sales (thread reply):\n  - notes → Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning and transport logistics (2026-05-21); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Settlement agreement p"
     }
   ],
-  "last_full_rebuild": "2026-07-29T09:07:16Z",
+  "last_full_rebuild": "2026-07-30T09:08:03Z",
   "last_incremental_update": null
 }

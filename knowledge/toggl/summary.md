@@ -1,97 +1,95 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 35,637.2 hours (2020-2026, through Jul 29)
+- **Total hours tracked:** 35,701.6 hours (2020-2026, through Jul 30)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
 ## Team Time Allocation
 
 ### Hours by Team Member (Ranked)
-1. **Jack Elston:** 13,135.8 hours (36.86% of total time)
-2. **Stachura:** 2,501.9 hours
+1. **Jack Elston:** 13,136.8 hours (36.83% of total time)
+2. **Stachura:** 2,509.7 hours
 3. **Alex:** 2,019.7 hours
 4. **Kay Rufty:** 1,974.0 hours
-5. **Nate:** 1,858.7 hours
+5. **Nate:** 1,866.7 hours
 6. **Josh Fromm:** 1,799.4 hours
 7. **Dan:** 1,613.8 hours
 8. **Jake Sahli:** 1,280.6 hours
 9. **Maciej Stachura:** 1,245.2 hours
 10. **Parker:** 1,218.7 hours
-11. **Beck Cotter:** 578.7 hours
-12. **Ethan Domagala:** 568.9 hours
-13. **Sam Hild:** 549.1 hours
-14. **Paige Smith:** 370.1 hours
-15. **Meredith Needham:** 329.2 hours
+11. **Beck Cotter:** 586.7 hours
+12. **Ethan Domagala:** 584.9 hours
+13. **Sam Hild:** 557.4 hours
+14. **Paige Smith:** 377.4 hours
+15. **Meredith Needham:** 337.2 hours
 16. **Spencer Hoehl:** 53.9 hours
 17. **Ben Busby:** 32.0 hours
 18. **Kareem Ahmed:** 16.4 hours
 19. **Remaining 10 team members:** ~4,310.6 hours combined
 
-### Utilization Patterns
-- **Jul 27-29 activity:** 139.9 hours logged across 8 team members; sustained engagement post-weekend
-- **Current focus distribution:** General Operations 33.9%, Hurricane IDIQ 16.6%, NASA/Aeronautics 11.0%, Marketing 11.8%, IRAD 15.5%
-- **Leadership bandwidth:** Jack Elston dominating overhead (general operations, BD pipeline, IT/KS syncs, email management) — 15.0 hours in 2-day window
-- **Technical execution continuing:** Sam Hild on IDIQ autopilot debugging; Ethan Domagala on E2 IRAD preflight; Nate on NASA S2 parts integration
-- **HR engagement:** Ethan Domagala on culture assessment (1.0 hour) — organizational development activity
-- **Administrative stability:** Meredith Needham on operations/admin (8.0 hours); no absence indicators
+### Utilization Patterns (Jul 27-30)
+- **Weekly activity total:** 204.3 hours tracked across 8 team members
+- **High performers this period:** 
+  - Ethan Domagala: 16.0 hours (mixed: NASA integration, IRAD, HR, PTO)
+  - Sam Hild: 8.2 hours (primarily unallocated, some IRAD)
+  - Meredith Needham: 8.0 hours (operations/admin)
+  - Beck Cotter: 8.0 hours (general operations)
+  - Nate: 8.0 hours (NASA S2 & Parts integration)
+  - Stachura: 7.8 hours (unallocated)
+  - Paige Smith: 7.3 hours (marketing)
+  - Jack Elston: 1.0 hour (operations/admin)
+- **Shift in Jack Elston engagement:** Minimal time logged (1.0 hour)—significant reduction from 15.0-hour Jul 27-29 window; potential vacation, meeting-heavy schedule, or administrative backlog
+- **Beck Cotter emergence:** First significant time entry (8.0 hours on general operations)—new contributor to overhead management
 
 ## Project Portfolio
 
-### Top Projects by Hours
-1. **Project None (Unallocated):** 8,824.8 hours (24.77%)
-2. **Project 183171534:** 4,535.8 hours (12.74%)
-3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.24%)
-4. **[001-13] Corporate/Strategic Planning & Overhead:** 2,413.5 hours (6.77%)
+### Top Projects by Hours (Cumulative through Jul 30)
+1. **Project None (Unallocated):** 8,836.9 hours (24.75%)
+2. **Project 183171534:** 4,535.8 hours (12.71%)
+3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.23%)
+4. **[001-13] Corporate/Strategic Planning & Overhead:** 2,430.5 hours (6.81%)
 5. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.53%)
 6. **[001-08] Flight Testing IRAD:** 1,973.4 hours (5.54%)
-7. **[001-01] S0 VTOL IRAD:** 1,371.0 hours (3.85%)
+7. **[001-01] S0 VTOL IRAD:** 1,374.8 hours (3.86%)
 8. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.50%)
-9. **[001-16] SwiftStation IRAD:** 905.3 hours (2.54%)
-10. **[001-14] SwiftCore 3.3 IRAD:** 827.6 hours (2.32%)
-11. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.82%)
-12. **[300-3] 2026 IDIQ (Hurricane):** 557.0 hours (1.56%)
-13. **[001-07] S3 IRAD:** 391.9 hours (1.10%)
-14. **[001-01] Proposals (IRAD):** 375.3 hours (1.05%)
-15. **[001-21] PTO/Sick Leave:** 312.5 hours (0.88%)
-16. **[001-03] S0-AD IRAD:** 271.1 hours (0.76%)
-17. **[212-2] NASA S2 & Parts:** 1,989.1 hours (5.59%)
+9. **[212-2] NASA S2 & Parts:** 2,000.9 hours (5.61%)
+10. **[001-16] SwiftStation IRAD:** 905.3 hours (2.54%)
+11. **[001-14] SwiftCore 3.3 IRAD:** 827.6 hours (2.32%)
+12. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.82%)
+13. **[300-3] 2026 IDIQ (Hurricane):** 557.0 hours (1.56%)
+14. **[001-07] S3 IRAD:** 391.9 hours (1.10%)
+15. **[001-01] Proposals (IRAD):** 375.3 hours (1.05%)
+16. **[001-20] PTO/Sick Leave:** 320.5 hours (0.90%)
+17. **[001-03] S0-AD IRAD:** 271.1 hours (0.76%)
 18. **[451-1] INSTAAR S3 x 2:** 397.4 hours (1.12%)
-19. **[043-3] ByLight M2/Halo:** 34.4 hours (0.10%)
-20. **[001-02] E2 IRAD:** 10.2 hours (0.03%)
+19. **[043-3] ByLight M2/Halo:** 35.2 hours (0.10%)
+20. **[001-02] E2 IRAD:** 12.0 hours (0.03%)
 
-### Client Distribution
-- **IRAD (Internal R&D):** 7,627.2 hours (21.41%)
-- **Unallocated/Project None:** 8,824.8 hours (24.77%)
-- **NOAA (Hurricane Phase II+ + 2026 IDIQ):** 3,849.8 hours (10.80%)
-- **Overhead/Corporate/Operations:** 2,433.5 hours (6.83%)
-- **NASA:** 3,961.2 hours (11.12%)
-- **Department of Air Force:** 1,258.5 hours (3.53%)
-- **PTO/Sick Leave:** 312.5 hours (0.88%)
-- **ByLight:** 34.4 hours (0.10%)
-- **Navy (SBIR/STTR):** 195.9 hours (0.55%)
-- **Other:** 127.4 hours (0.36%)
+### Client Distribution (Jul 27-30 activity)
+- **Overhead/Corporate/Operations:** 26.1 hours (40.5%)
+- **NASA:** 11.8 hours (18.3%)
+- **Unallocated/Project None:** 12.2 hours (18.9%)
+- **IRAD:** 5.6 hours (8.7%)
+- **Marketing:** 7.3 hours (11.3%)
+- **PTO:** 8.0 hours (12.4%)
+- **ByLight:** 0.8 hours (1.2%)
 
 ## Patterns & Insights
 
-### Hurricane IDIQ Gaining Momentum with Quality/Integration Focus
-- **Jul 27-29 allocation:** 12.1 hours on [300-3] 2026 IDIQ; contributors include Sam Hild (autopilot debugging), Stachura (unspecified), Jack Elston (log processing—3 entries)
-- **Technical theme:** Autopilot rework and log processing indicate debugging/validation phase; deeper technical engagement than previous period
-- **Contributor profile:** Distributed across technical (Sam, Stachura) and leadership (Jack)
-- **Assessment:** Project transitioning from sustained execution to problem-solving workstream; quality assurance expanded to include autopilot systems
+### NASA S2 & Parts Integration: Sustained Momentum
+- **Jul 27-30 allocation:** 11.8 hours (Ethan Domagala 7.8 hrs, Nate 3.8 hrs); cumulative project total now 2,000.9 hours (5.61% of company time)
+- **Technical focus:** Hardware assembly/parts integration ("case etc"); NRL E2 mass model work by Nate indicates systems engineering integration
+- **Team expansion:** Ethan Domagala joining Nate on NASA portfolio suggests dual-track execution (S2 parts + E2 systems)
+- **Assessment:** NASA programs transitioning from aeropods foundation (1,972.1 hrs) to broader S2/E2 ecosystem; integration phase active; no deceleration signals
 
-### Jack Elston: Leadership Overhead Surge
-- **Jul 27-29 allocation:** 15.0 hours; 7.0 hours on general operations (emails, scheduling, KS/BST tech sync, IT roadmap)
-- **Strategic activities:** KS/BST tech sync, IT roadmap planning (infrastructure investments signaled)
-- **BD engagement:** Gogo partnership discussion logged (1.0 hour)
-- **Concentration risk:** Remains at 36.86% of all company time; no material change; leadership bottleneck persists
-- **Assessment:** Executive bandwidth stretched across operations, technology strategy, and BD; single point of failure risk unmitigated
+### Overhead Absorption Across Team
+- **Jul 27-30 allocation:** 26.1 hours on general operations, HR, and marketing (17.0 + 1.8 + 7.3 hours)
+- **New pattern:** Beck Cotter contributing 8.0 hours to general operations; Paige Smith directing 7.3 hours to marketing; Meredith Needham maintaining operations/admin (8.0 hours)
+- **Jack Elston compression:** Only 1.0 hour logged (answering emails, schedule management)—48x reduction from Jul 27-29 window; indicates either scheduled absence or leadership activities not time-tracked (strategic meetings, planning sessions)
+- **Assessment:** Overhead workload redistributing across team (Beck, Paige, Meredith); reduces single-point-of-failure risk but may indicate Jack bandwidth constraints or organizational transition underway
 
-### NASA Portfolio Expansion with S2 Parts Integration
-- **[212-2] NASA S2 & Parts:** 8.0 hours logged Jul 27-29 (Nate); cumulative total now 1,989.1 hours (5.59% of company time)
-- **Workstream:** Parts integration ("case etc") — hardware assembly/integration phase active
-- **Trend:** NASA workload moving from aeropods (1,972.1 hrs) to broader S2/parts ecosystem; portfolio deepening
-- **Assessment:** NASA programs scaling with tangible integration work; team capacity allocated effectively; potential for milestone achievement
-
-### IRAD Initiatives: Mixed Signals
-- **E2 IRAD surge:** 5.0 hours Jul 27-29 (Ethan Domagala on battery swap, preflight, flight); cumulative 10.2 hours (0.03% of company
+### IRAD Activity: Autopilot & Systems Engineering
+- **Jul 27-30 allocation:** 5.6 hours (Sam Hild 3.8 hrs on S0 VTOL autopilot shutdown; Nate 1.8 hrs on E2 IRAD mass model)
+- **Technical focus:** Autopilot shutdown debugging (S0 VTOL); mass model integration (E2)—indicates preflight/validation work continuing post-prior-period activity
+- **Cumulative E2 IRAD:** Now 12.0 hours total (

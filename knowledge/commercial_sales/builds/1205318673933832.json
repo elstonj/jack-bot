@@ -1,0 +1,61 @@
+{
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": "adkinsk@erau.edu",
+  "receive_by": null,
+  "ship_to": "Embry-Riddle Aeronautical University\nAttn: Accounts Payable\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
+  "items": [
+    {
+      "description": "S0 UAS - VTOL",
+      "quantity": 2
+    },
+    {
+      "description": "Samsung Galaxy Tab Active2",
+      "quantity": 1
+    },
+    {
+      "description": "SwiftStation\u2122 Ground Station",
+      "quantity": 1
+    },
+    {
+      "description": "S0 Case",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-05-07",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "S0 VTOL airframe",
+      "ordered": true,
+      "received": false,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "2\u00d7 S0 VTOL units ordered and fully paid (Inv #1667, May 2025). Legal disclosure (May 2026) confirms BST experienced delays and intends settlement agreement with ERAU for additional compensation. Training was scheduled for June 2025 at BST. Earlier grant proposal (2024) was not funded; this is the commercial hardware order.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "shipped_date",
+    "build_state details"
+  ],
+  "last_evidence_date": "2026-07-29",
+  "last_contact_date": null
+}

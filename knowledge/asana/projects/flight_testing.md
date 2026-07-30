@@ -1,4 +1,4 @@
 # Flight Testing
 
 Small project with 1 tasks.
-- [Done] S20018 QC flight test — Nate Straus
+- [Done] E20006 and E20009  Soil Moisture Data Collection — Nate Straus

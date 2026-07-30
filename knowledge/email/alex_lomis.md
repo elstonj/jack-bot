@@ -1,146 +1,122 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 57 emails (35 previous + 22 new)
-- **Date range:** 24 Jul 2026 – 29 Jul 2026 (6 days)
-- **Volume:** Mixed — high transactional/automated volume (~65%), human-to-human correspondence (~35%)
-- **Pattern consistency:** Sustained engagement with NOAA partners, government/institutional stakeholders, and procurement workflows
+- **Total messages scanned:** 92 emails (57 previous + 35 new)
+- **Date range:** 24 Jul 2026 – 30 Jul 2026 (7 days)
+- **Volume:** High transactional/automated (~70%), human-to-human correspondence (~30%)
+- **Pattern consistency:** Sustained NOAA partnership engagement, expanding procurement activity (Samsung, JawsTec, Aeronet), internal coordination on technical program execution
 
 ## Key Correspondents
 
 ### Senders (by frequency)
-1. **Purchasing@blackswifttech.com** (forwarding vendor notifications) — 14+ emails
-2. **Jack Elston (elstonj@blackswifttech.com)** — 5 emails total (product leadership, NOAA coordination)
-3. **Vendor notifications (automated)** — DigiKey, McMaster-Carr, HeliDirect, Powerwerx, Baofeng, Steinjäger, Vaisala, Harbor Freight, American Polarizers, Worldwide Express — 12+ emails
-4. **External government/institutional:**
-   - **Nikolai Pawlenko (NOAA Federal)** — Multi-party RSSI/roof test discussion
-   - **Joe Cione (NOAA Federal)** — Multi-party technical coordination
-   - **Laura Rock (NOAA Federal)** — Multi-party technical coordination
-   - **Annette Hollingshead (NOAA Federal)** — Multi-party technical coordination
-   - **Mark Rogers (NOAA Federal)** — Multi-party technical coordination
-   - **Ryan Miller (NOAA Federal)** — Direct correspondence on radio information
-5. **Other external:**
-   - **Elaine Erb (Boulder Chamber)** — Eco Pass follow-up
-   - **Hadley Solomon (Creative Alignments)** — Culture assessment communication
+1. **Purchasing@blackswifttech.com** (forwarding vendor notifications) — 22+ emails
+2. **Jack Elston (elstonj@blackswifttech.com)** — 7 emails total (product leadership, NOAA coordination, S0 Checklists)
+3. **Vendor notifications (automated):**
+   - **McMaster-Carr** — 4 orders (Jul 28–29) — sustained component procurement
+   - **Samsung USA** — 3 emails (business account setup, tax exemption, order confirmation #US260729-65720628)
+   - **HeliDirect, Harbor Freight, Battery Junction, SkyGeek, uAvionix** — promotional/sales
+4. **NOAA Federal direct contacts:**
+   - **Nick Underwood (nicholas.underwood@noaa.gov)** — S0 Checklists v4.0 coordination (29 Jul)
+   - **Laura Rock (laura.rock@noaa.gov)** — RSSI from Roof Test (29 Jul)
+5. **External vendors/partners:**
+   - **Elisa Arellano (Aeronet) (earellano@aeronet.com)** — Invoice 823121 discussion (3-email thread, 29 Jul)
+   - **JawsTec (info@jawstec.com)** — Shipment notification (29 Jul)
+   - **Luka (Grepow) (luka@grepow.com)** — Battery product inquiry response (29 Jul)
+   - **Olivia Bakos (Nominal.io) (olivia.bakos@nominal.io)** — Sales inquiry (29 Jul)
+   - **Hadley Solomon (Creative Alignments)** — Calendar reminder + appointment confirmation (culture assessment, scheduled 30 Jul 1:30pm MDT)
 
 ### Recipients (by frequency)
-- **Alex as direct recipient** on 7+ direct emails (Jack Elston, NOAA multi-party threads, ERAU)
-- **Alex as originator (SENT)** — 3 emails to NOAA (Ryan Miller, Elaine Erb)
-- **Purchasing forwarding lists** — receiving vendor notifications
-- **Internal distribution:** Jack Elston, Joshua Fromm, Maciej Stachura, Meredith Needham
-- **External direct contact:** NOAA Federal (multiple contacts), Boulder Chamber
+- **Alex as direct recipient:** 15+ direct emails (Jack Elston, NOAA contacts, external vendors, Hadley Solomon)
+- **Alex as originator:** Minimal (forwarding/reply pattern suggests receiving focus)
+- **Purchasing forwarding distribution:** Meredith Needham, Joshua Fromm
+- **Calendar/automation recipients:** Asana notifications, Google Calendar
 
-### New Vendors Identified
-**Electronics & Components (expanded):**
-- DigiKey (Invoice 129975599)
-- McMaster-Carr (multiple orders — 28 Jul)
-- Powerwerx (Order 3176630)
-- American Polarizers
-- Baofeng Radio (PoC radio equipment)
+### New Vendors & Contacts (Jul 29–30)
+**Electronics & IT:**
+- **Samsung USA** (business account + tax exemption setup; order #US260729-65720628)
+- **JawsTec** (specialized equipment shipment)
 
-**Off-Road/Specialized Equipment:**
-- Steinjäger (via CSE Offroad — Part #280380-ZCHF, SSR375-12.00)
-- Harbor Freight
+**Procurement/Technical:**
+- **Aeronet** (Elisa Arellano) — Invoice 823121 discussion with Meredith Needham
+- **Grepow (Luka)** — Tattu batteries for commercial drone applications (direct to alex.lomis@bst.aero)
 
-**Weather/Environmental Instruments:**
-- Vaisala (field weather data systems for defense operations)
+**Services:**
+- **Green Apple Cleaning Crew** (joshua@greenapplecleaningcrew.com) — Free quote request (facility/operational)
+- **Nominal.io (Olivia Bakos)** — Sales outreach (likely software/analytics tool)
 
-**Shipping/Logistics:**
-- Worldwide Express (Invoice #260726W011032)
-
-**Other Services:**
-- Beyond Menu (food/beverage service)
-- UnitedHealthcare (benefits provider)
-- Asana (project management)
+**Aerospace/Aviation:**
+- **uAvionix** (squawk@uavionix.com) — AirVenture promotional (aviation systems vendor)
 
 ## Topic Patterns
 
-### Active Technical Programs
-- **RSSI (Received Signal Strength Indicator) from Roof Test** — Primary technical focus (28 Jul)
-  - Multi-stakeholder coordination: Jack Elston leading
-  - NOAA Federal team heavily involved (Pawlenko, Cione, Rock, Hollingshead, Rogers, Underwood)
-  - ERAU flight operations partner (Joshua Wadler) included
-  - BST internal team: Joshua Fromm, Maciej Stachura
-  - **Assessment:** Active field testing/validation phase for signal/communications system
+### Active Technical Programs (Updated)
 
-- **Radio Systems Development**
-  - Direct coordination with Ryan Miller (NOAA) on "Radio Info"
-  - Baofeng radio procurement (PoC - Proof of Concept)
-  - Suggests communications/telemetry subsystem under active development
+**RSSI from Roof Test — Ongoing Coordination**
+- **Jack Elston to Laura Rock (NOAA)** — Continued discussion 29 Jul (08:11 MDT)
+- **Nick Underwood (NOAA) coordinating S0 Checklists v4.0** — 29 Jul (08:11 & 09:55 EDT)
+- **Assessment:** Program entering checklist/validation phase (S0 = preliminary design/system specification phase)
+- **Stakeholders:** Jack Elston as coordinator; Nick Underwood and Laura Rock as NOAA technical leads
 
-### Procurement Activity (Expanded)
-- **Off-road/ground equipment:** Steinjäger orders (part numbers suggest vehicle-mounted or rugged systems — SSR375 likely suspension/structural component)
-- **Weather/environmental sensors:** Vaisala systems (field weather data for defense operations — tied to NOAA mission)
-- **General components:** McMaster-Carr (multiple orders same day), DigiKey, Powerwerx
-- **Specialized radio equipment:** Baofeng PoC units
+**Radio/Communications Systems**
+- Continued procurement (Baofeng, Powerwerx Order 3176630 shipped 29 Jul)
+- Likely tied to S0 Checklist validation
 
-### Administrative/Benefits
-- **UnitedHealthcare benefits** (weight loss program unused benefits notice)
-- **Asana project tracking** — task management ongoing
-- **Culture Assessment** — Hadley Solomon/Creative Alignments conducting organizational assessment (Alex received notification)
+### Procurement Activity (Significantly Expanded)
 
-### Notable Order References
-- Worldwide Express #260726W011032 (BST #W002346756)
-- DigiKey Invoice 129975599
-- McMaster-Carr July 28th orders (2 entries)
-- Powerwerx Order 3176630
-- Steinjäger Part #280380-ZCHF
-- Steinjäger Part #SSR375-12.00
+**Sustained Component Orders (McMaster-Carr):**
+- 4 separate orders Jul 28–29
+- Pattern suggests ongoing assembly/integration work (not one-time procurement)
+
+**Strategic Hardware Buys:**
+- **Samsung Business Account + Tax Exemption** — Indicates tablet/mobile device procurement at scale for operations/flight crew
+- **JawsTec shipment** — Specialized equipment (brand unknown without body; likely aerospace/aviation component)
+- **Aeronet Invoice 823121** — Meredith Needham coordinating with Elisa Arellano (finance/procurement discussion)
+
+**Battery Systems:**
+- **Grepow Tattu inquiry** — Direct to Alex from Luka; specifically mentions "commercial drone applications"
+- Suggests battery evaluation for aircraft systems
+
+**Facility/Operations:**
+- **Green Apple Cleaning Crew quote** — Facility maintenance (via Meredith Needham)
+
+### Administrative & Strategic
+- **BST Internal Update Meeting** — Gemini notes (Jul 29, 19:47 UTC)
+- **Culture Assessment Continuation** — Hadley Solomon scheduled for 30 Jul 1:30pm MDT
+- **Asana task management** — Active usage (reminders on 29 Jul, 2 unread notifications)
+- **ASTM SmartBrief** — Standards/compliance monitoring forwarded to purchasing
 
 ## Communication Patterns
 
 ### Automation vs. Human Correspondence
-- **~65% automated/transactional** (vendor shipping confirmations, promotional emails, system updates)
-- **~35% direct human correspondence** (technical discussions, government coordination, admin)
+- **~70% automated/transactional** (vendor confirmations, promotional emails, calendar/Asana updates)
+- **~30% direct human correspondence** (NOAA technical coordination, vendor relationship management, internal meetings)
 
-### Critical Technical Thread
-- **RSSI Roof Test coordination** — Jack Elston initiated; extensive NOAA Federal participation
-  - Timestamp: 28 Jul, 14:05 & 16:35 EDT (2x messages in 2.5 hours)
-  - Distribution: 11-person email thread (BST + NOAA + ERAU)
-  - **Indicates:** Real-time technical coordination on active field test
+### Critical Technical Threads (New)
+1. **S0 Checklists v4.0** — Jack Elston ↔ Nick Underwood (NOAA)
+   - Timestamp: 29 Jul, 08:11 MDT (Jack) / 09:55 EDT (Underwood response)
+   - **Indicates:** System specification/design review phase; checklist validation
+   
+2. **RSSI from Roof Test** — Jack Elston ↔ Laura Rock (NOAA)
+   - Continued from previous week; still active on 29 Jul
 
-### Direct NOAA Engagement
-- **Ryan Miller (NOAA)** — Direct correspondence from Alex on "Radio Info" (initiated 28 Jul, 08:12; replied 28 Jul, 09:11)
-- **Multi-agency thread** — Broader NOAA coordination through Jack Elston
-- **Suggests:** Alex has direct technical interface responsibilities with NOAA stakeholders alongside procurement/operations role
+3. **Aeronet Invoice 823121** — Meredith Needham ↔ Elisa Arellano
+   - 3-email thread (14:51, 15:56, 20:38 UTC on 29 Jul)
+   - Type: Finance/vendor reconciliation
+   - **Suggests:** Aeronet is recurring vendor (aerospace components or services)
 
-### Internal Collaboration Network
-- **Jack Elston** (product/program lead) — NOAA coordination hub
-- **Joshua Fromm** (procurement) — purchasing support
-- **Maciej Stachura** (engineering) — technical team member
-- **Meredith Needham** (purchasing) — vendor relationship management
+### Timezone Distribution (Updated)
+- **MDT (-6):** Alex's primary timezone (Hadley Solomon meeting scheduled in MDT; Gemini note UTC conversion suggests this)
+- **EDT/EST (-4/-5):** NOAA Federal coordination (Jack Elston emails to Underwood/Rock at 08:11 MDT = ~10:11 EDT)
+- **CST (+8):** Grepow (Luka) reaching out from China
 
-### Timezone Pattern
-- Primarily EDT (-4), CDT (-5), UTC (0)
-- NOAA coordination spans East Coast (EDT) and Central (CDT) time zones
-- Suggests operations tied to NOAA field/office locations
+### Direct Vendor Engagement
+- **Alex receiving direct B2B vendor outreach** (Grepow Luka to alex.lomis@bst.aero; Olivia Bakos from Nominal.io)
+- **Suggests:** Alex has procurement/technical evaluation authority for specific equipment categories (batteries, analytics tools)
 
 ## Key Relationships
 
-### Government/Institutional Partners (Primary Focus)
-1. **NOAA Federal (Multi-contact network):**
-   - **Nikolai Pawlenko** — Technical lead (RSSI discussion)
-   - **Ryan Miller** — Direct radio systems coordination with Alex
-   - **Joe Cione, Laura Rock, Annette Hollingshead, Mark Rogers** — Extended technical team
-   - **Nick Underwood** — Previous contact; continuing operations
-
-2. **ERAU (Joshua Wadler)** — Flight operations/field testing partner
-
-### Internal Core Team
-1. **Jack Elston** — Program/product leadership; NOAA interface coordinator
-2. **Joshua Fromm** — Procurement support; technical team member
-3. **Maciej Stachura** — Engineering team; technical coordination
-4. **Meredith Needham** — Purchasing operations
-
-### External Business/Administrative Contacts
-- **Elaine Erb (Boulder Chamber)** — Employee benefits/commute benefits
-- **Hadley Solomon (Creative Alignments)** — Organization culture assessment provider
-- **Ryan Miller (NOAA)** — Direct technical liaison
-
-## Notable Observations
-
-### NOAA Operational Focus (Critical New Signal)
-- **Emerging pattern:** NOAA Federal is not just a stakeholder/customer, but an active technical partner
-- **RSSI roof test** indicates real-time field validation operations with NOAA
-- **Radio systems development** tied directly to NOAA requirements (Ryan Miller coordination)
-- **Breadth of NOAA team** (5+ Federal contacts +
+### Government/Institutional Partners (Expanded)
+1. **NOAA Federal (Technical Partnership):**
+   - **Nick Underwood** — S0 Checklists v4.0 lead (29 Jul coordination with Jack)
+   - **Laura Rock** — RSSI testing coordinator (ongoing)
+   -

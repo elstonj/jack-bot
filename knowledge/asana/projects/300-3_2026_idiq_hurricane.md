@@ -2,17 +2,22 @@
 
 ## Overview
 - **Client/Customer:** NOAA (National Oceanic and Atmospheric Administration) — Uncrewed Systems Operations Center (UxSOC)
-- **Dollar Value:** $483,000 IDIQ + $16,000 Delivery Order (2 ground stations) = **$499,000 total**
+- **Dollar Value:** **$1,111,000 total IDIQ** (updated from prior $483,000 base; reflects Option 2 expansion for 34 additional S0s)
+  - Original Delivery Order #1305M226F0084: $483,000 (20 UAS + ground stations)
+  - Option 2 (enacted July 2026): 34 additional S0s added to scope
 - **Contract Details:** 
   - IDIQ #1305M226D0012
   - Delivery Order #1305M226F0084
   - Ongoing partnership since 2018 (SBIR Phase I 2018, Phase II 2019–2020)
 - **Timeline:** 
-  - **Final delivery deadline: 2026-07-31**
-  - Invoice schedule: March 2026 – July 2026
+  - **Original final delivery deadline: 2026-07-31** ⚠️ **CRITICAL DEADLINE — 11 days away (as of 7/20/26)**
+  - **Updated deliveries (post-Option 2):**
+    - 20 UAS for NOAA: Aug 2026
+    - 13 S0s: Oct 2026
+    - 21 S0s: Due date pending
+  - Invoice schedule: March 2026 – July 2026 (original phase)
   - Critical hardware ship date: **2026-05-19** ✅ (2 SHOW s0's and tripods shipped early)
-  - Field season active
-- **Status:** **✅ INVOICING NEARLY COMPLETE — Project in final execution phase.** Invoices 1–5 of 6 submitted. Invoice 4 ($72k) and Invoice 5 ($72k) completed 2026-07-02 by Meredith O'hara Needham. Final invoice (Invoice 6, $72k) due 2026-07-31. ⚠️ **CRITICAL OPEN TASKS:** (1) "Deliver 2 ground stations" due 2026-07-12 (unassigned, likely overdue); (2) Firmware finalization tasks completed late (7/16/26, both 10+ days overdue). All Asana-tracked invoicing nearly complete; ground station delivery remains operationally critical.
+- **Status:** **✅ INVOICING NEARLY COMPLETE — Project in final execution phase with contract expansion.** Invoices 1–5 of 6 submitted against original DO. **Final invoice (Invoice 6, $72k) due 2026-07-31.** ⚠️ **CRITICAL OPEN TASK:** Ground station delivery (2 units) due 2026-07-12; completed 2026-07-29 (17 days late). **Option 2 expansion (34 S0s) adds significant new scope post-deadline.**
 - **Team Members:** 
   - **Meredith O'hara Needham** (project owner, invoice submissions) ✅ Invoices 4 & 5 submitted 7/2/26
   - **Jack Elston** (firmware/software) — ✅ AP & PSNS firmware finalized 7/16/26 (10 days overdue); ✅ Deployment tube firmware finalized 7/16/26 (42 days overdue)
@@ -20,19 +25,27 @@
   - **Nate Straus** (platform rebuild/validation, s0 builds, servo assembly) ✅ Assembly latch carrier trays completed 6/23/26
   - **Maciej Stachura** (platform validation, magnetic calibration, parameter file validation, field support)
   - **Alex Lomis** (strategic partnerships, NASA opportunities)
-  - **Josh Fromm** (GCS assembly, long-lead parts, ground station delivery) — likely owner of "Deliver 2 ground stations" task
+  - **Josh Fromm** (GCS assembly, long-lead parts, ground station delivery) ✅ Built 2x GCS completed 2026-07-29 (28 days late)
   - **Ben Busby** (web-based controller development)
   - **Nick Pawlenko** (UxSOC liaison) — **transitioned to UxSOC HQ effective 5/29/26; reduced availability. UASD expanded team now handles scheduling, personnel, flight planning, maintenance coordination; Nick remains in process but may be pulled in other directions**
 - **Risk Signals:** 
-  - ⚠️ Ground station delivery (2 units) due 2026-07-12, unassigned and likely overdue
-  - ⚠️ **Final delivery deadline 2026-07-31 is 11 days away** (as of 7/20/26)
-  - ⚠️ Nick Pawlenko transition may impact UxSOC communication flow; mitigated by expanded UASD team involvement
+  - ⚠️ **Final delivery deadline 2026-07-31 is 11 days away** (as of 7/20/26); original scope completion heavily delayed
+  - ⚠️ Ground station delivery: due 2026-07-12, **completed 17 days late (2026-07-29)**
+  - ⚠️ **Option 2 expansion (34 S0s, enacted July 2026) adds major new scope with compressed delivery timeline:** 13 S0s by Oct 2026, 21 S0s with date TBD
+  - ⚠️ Nick Pawlenko transition may impact UxSOC communication; mitigated by expanded UASD team
 
 ## Key Deliverables & Milestones
 
-**Primary Deliverable:** 25 UAS units for NOAA (24 for 2026 season + 4 for sasquatch + 1 leftover + 1 refurb) + **2 rack-mount ground stations**
+**Original Delivery Order (#1305M226F0084):**
+- 20 UAS for NOAA (24 planned for 2026 season, adjusted to 20 for original DO + overflow to Option 2)
+- 2 rack-mount ground stations
 
-**Invoice Schedule (CLIN 1001):**
+**Option 2 (enacted July 2026):**
+- 34 additional S0 units
+  - 13 S0s: due Oct 2026
+  - 21 S0s: due date pending
+
+**Invoice Schedule (CLIN 1001, Original DO):**
 | Invoice | Amount | Due Date | Status |
 |---------|--------|----------|--------|
 | 1 of 6 | $36,000 | 2026-03-13 | ✅ Completed |
@@ -50,26 +63,15 @@
 | Assembly latch carrier trays | Nate Straus | — | ✅ Completed 2026-06-23 |
 | **Deployment tube firmware finalization** | **Jack Elston** | **2026-06-04** | **✅ Completed 2026-07-16 (42 days overdue)** |
 | **AP & PSNS firmware finalization** | **Jack Elston** | **2026-06-26** | **✅ Completed 2026-07-16 (10 days overdue)** |
-| QC board completion | Sam Hild | 2026-06-05 | ⏳ (underlying operational) |
-| Parameter file validation & magnetic calibration | Maciej Stachura | 2026-06-30 | ⏳ (underlying operational) |
-| Build 2x rack-mount GCS | Josh Fromm | 2026-07-01 | ⏳ (underlying operational) |
-| **Deliver 2 ground stations** | **Josh Fromm (inferred)** | **2026-07-12** | **⚠️ CRITICAL — Unassigned, overdue or imminent** |
-| Web-based controller | Ben Busby | 2026-07-31 | ⏳ Upcoming |
-| Final delivery (all units + GCS) | — | 2026-07-31 | ⏳ Critical path |
+| QC board completion | Sam Hild | 2026-06-05 | ✅ Operational |
+| Parameter file validation & magnetic calibration | Maciej Stachura | 2026-06-30 | ✅ Operational |
+| **Build 2x rack-mount GCS** | **Josh Fromm** | **2026-07-01** | **✅ Completed 2026-07-29 (28 days late)** |
+| **Deliver 2 ground stations** | **Josh Fromm** | **2026-07-12** | **✅ Completed 2026-07-29 (17 days late)** |
+| Web-based controller | Ben Busby | 2026-07-31 | ⏳ Approaching final deadline |
+| Final delivery (20 UAS + 2 GCS, original DO) | — | 2026-07-31 | ⏳ Critical path — 11 days |
+| **Option 2: 13 S0s** | — | **Oct 2026** | ⏳ New scope |
+| **Option 2: 21 S0s** | — | **TBD** | ⏳ New scope, date pending |
 
 ## Task Summary
 
-**Asana Status (current pull):** 0 open, 1 completed task
-
-**Completed Tasks:**
-- ✅ **Figure out why S0-70 rolled over during CAT on 04-09** | Maciej Stachura | Due 2026-05-08 | **Completed 2026-07-20** (73 days overdue; field troubleshooting resolved late in season)
-
-**Known Open Tasks (not in current Asana pull, from prior knowledge):**
-- ⚠️ **Deliver 2 ground stations** | Unassigned (likely Josh Fromm) | Due 2026-07-12 | **CRITICAL — Unassigned and overdue or imminent**
-
-**Pattern:** Project now in final execution phase with less than 2 weeks to deadline (7/31/26). Firmware finalization completed 7/16/26 (late). Field troubleshooting task (S0-70 rollover) completed 7/20/26, 73 days overdue—reflects real-world operational debugging during active field season. Ground station delivery remains the critical open item; all invoicing 5 of 6 complete.
-
-## Recent Activity
-
-**2026-07-20:**
-- ✅ **Figure out why S0-70 rolled over during CAT on 04-09** completed by Maciej Stachura (73 days overdue; due 
+**Asana Status (current pull):** 0 

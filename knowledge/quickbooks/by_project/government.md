@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,635,848.28
-- **Total Expenses (Bills + Purchases):** $1,527,858.44
+- **Total Invoiced (Revenue):** $4,650,307.28
+- **Total Expenses (Bills + Purchases):** $1,529,436.22
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,107,989.84 (invoiced minus expenses)
+- **Net Position:** $3,120,871.06 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,18 +12,18 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,635,848.28
-- **Total Collected (Outstanding Balance):** $3,368,537.82 remaining (invoices with open balances)
-- **Number of Invoices:** 82 active invoices
+- **Total Invoiced:** $4,650,307.28
+- **Total Collected (Outstanding Balance):** $3,382,996.82 remaining (invoices with open balances)
+- **Number of Invoices:** 83 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $788,000.00 | 7 invoices (Invoices 2-6: #1737–#1741; #1773: Portable Ground Station), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
+| [300-3] 2026 IDIQ | $860,000.00 | 8 invoices (Invoices 2-6: #1737–#1741; #1773: Portable Ground Station), CLIN 1001 modification P26002 + Operational Testing & Support (#1757) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $762,426.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-1] Navy SBIR Magnetometer | $776,885.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -49,7 +49,7 @@
 | **#1773** | **2026-07-23** | **$16,000.00** | **[300-3] 2026 IDIQ** | **Portable Ground Station (2x $8,000)** | **$16,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
-**Recent invoice total (2026-06-01 to 2026-09-28):** $418,377.00 (+$14,459.00 from Navy SBIR final invoice #1750)  
+**Recent invoice total (2026-06-01 to 2026-09-28):** $432,836.00 (+$14,459.00 from Navy SBIR final invoice #1750 on 2026-09-28)  
 **Note:** All invoices confirmed through 2026-09-28. Invoice #1750 (Navy SBIR Magnetometer CLIN 0007 final report, $14,459.00) represents completion of final deliverables.
 
 ---
@@ -89,8 +89,8 @@
 
 ---
 
-### **Materials & Supplies: $644,819.88**
-**Number of transactions:** 262
+### **Materials & Supplies: $653,676.06**
+**Number of transactions:** 265
 
 **Key vendors & items:**
 
@@ -132,5 +132,4 @@
 - **Fasteners & small hardware (2026-07-24):**
   - **Purchase #43.21**: $43.21 [DC-Direct Material Purchases] — M2 x 50mm 304 Stainless Steel Phillips Round Head Screws x 3
 
-- **Additional IDIQ supply allocation (2026-07-27 to 2026-07-24):**
-  - **Purchase
+- **Recent IDIQ supply additions (2026-07-29 to 2026-07

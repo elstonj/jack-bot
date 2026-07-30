@@ -48,16 +48,16 @@
 - Suggests negotiation over discovery vs. other work prioritization
 
 **[2026-07-24] Maciej Stachura (structural reorganization — CONFIRMED, team feedback):**
-- Created Portfolio for Product Pillar containing Asana projects for S0-IRAD, S0 VTOL IRAD, S3 IRAD, and Albatross IRAD
-- Plan to edit/update these projects to focus primarily on Industrial Plan IRAD deliverables and slowly move other work items (e.g., customer delivery milestones) out of IRAD projects
-- **Portfolio link:** https://app.asana.com/0/portfolio/1216863304066771/1216865943574696
-- **Implication:** [001-12] Customer Support and non-IRAD customer work may be undergoing migration out of current project structure; destination and timeline for customer support tasks unclear
+- Created Portfolio for Product Pillar: https://app.asana.com/0/portfolio/1216863304066771/1216865943574696
+- Pulled in Asana projects for S0-IRAD, S0 VTOL IRAD, S3 IRAD, and Albatross IRAD
+- Plan to edit/update these projects to focus primarily on Industrial Plan IRAD deliverables and **slowly move other work items out of IRAD projects (like customer delivery milestones)**
+- **Implication:** [001-12] Customer Support and non-IRAD customer work undergoing migration out of current project structure; destination and timeline for customer support tasks unclear
 
 **[2026-06-01] Joshua Fromm (AUTHORITATIVE TEAM FEEDBACK — overrides Maciej's April 30 task requests):**
-- Created commercial-sales stub for "2 S3 units with standard equipment" (INSTAAR customer); `ship_by` date empty; invoice pending ("can you just attach the invoice for instaar?")
+- Created commercial-sales stub for "2 S3 units with standard equipment" (INSTAAR customer); `ship_by` date empty; invoice pending
 - **Explicitly disputes S3 customer documentation assignment** (stated twice in team feedback): "I have no records of being tasked with customer documentation on the s3"
 
 ## Notes & Context
 
 **Structural Reorganization in Progress (2026-07-24):**
-Maciej Stachura has initiated a Product Pillar Portfolio to reorganize IRAD work. The stated plan is to move non-IRAD work items (including customer delivery milestones) out of the current
+Maciej Stachura has initiated a Product Pillar Portfolio to reorganize IRAD work and migrate non-IRAD work items (including customer delivery milestones) out of the current project structure. The destination and timeline for [001-12] Customer Support work items remain undefined. This represents a
