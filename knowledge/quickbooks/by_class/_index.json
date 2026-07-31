@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-07-29",
-    "end": "2026-07-30"
+    "start": "2026-07-30",
+    "end": "2026-07-31"
   },
-  "scanned_at": "2026-07-30",
+  "scanned_at": "2026-07-31",
   "projects": [
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 19.69,
+      "expenses": 84.17,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -19,10 +19,23 @@
       ]
     },
     {
+      "project_code": "212-2",
+      "revenue": 0.0,
+      "expenses": 7.99,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[212-2] NASA S2 & Parts"
+      ]
+    },
+    {
       "project_code": "300-3",
-      "revenue": 72000.0,
-      "expenses": 9306.84,
-      "invoice_count": 1,
+      "revenue": 306000.0,
+      "expenses": 15872.84,
+      "invoice_count": 4,
       "bill_count": 0,
       "purchase_count": 3,
       "po_count": 0,
@@ -47,10 +60,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 8051.43,
+      "expenses": 5458.32,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 4,
+      "bill_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

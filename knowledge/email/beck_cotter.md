@@ -1,87 +1,61 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 80 emails (65 from 27-29 Jul + 15 from 29 Jul new batch)
-- **Date range:** 27 July – 29 July 2026
-- **Volume:** High sustained activity; 29 Jul shows continued operational baseline with 15 additional messages tracked same day
+- **Total messages scanned:** 113 emails (80 from 27-29 Jul + 33 from 30-31 Jul)
+- **Date range:** 27 July – 31 July 2026
+- **Volume:** High sustained activity; 30-31 Jul shows continued operational pressure with 33 additional messages; USPACOM FY27 deadline (NLT 07 Aug) now 6 days away
 
 ## Key Correspondents
 
 ### Top Internal Contacts (Updated)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — dominates technical/proposal coordination; now visible on USPACOM FY27 (with external partner Krateo Sky), NAWCAD escalation thread (recipient of Ruiz-Reyes decision-level email), and Lockheed Martin (Raven) SOW coordination
-- **Jack Elston** (elstonj@blackswifttech.com) — business development; escalated to NAWCAD thread response and USPACOM FY27 partnership discussions with Krateo Sky
-- **Maciej Stachura** (stachura@blackswifttech.com) — escalated involvement; now central to NAWCAD "Today's check-in" thread (6+ emails in thread); appears to be handling government relations/funding interface
+1. **Jack Elston** (elstonj@blackswifttech.com) — **elevated to primary coordinator**; now visible on IDIQ contract discussions (1305M226D0012), By Light Opportunities meeting (30 Jul), NAWCAD thread continuations (multiple exchanges with Ruiz-Reyes), and external partner coordination
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — technical lead; involved in Canadian S3 estimate meeting (30 Jul), NAWCAD/SBIR tag-up (4 Aug scheduled), and IDIQ contract review
+3. **Maciej Stachura** (stachura@blackswifttech.com) — government relations lead; driving NAWCAD thread responses directly to Ruiz-Reyes and Brescia; scheduled for SBIR tag-up and Canadian S3 meeting
 
 ### Top External Contacts (Updated/New)
-- **Angel R. Ruiz-Reyes (NAWCAD/USN)** (angel.r.ruiz-reyes.civ@us.navy.mil) — **escalated status**; now leads decision-level thread marked IMPORTANT; multi-email exchanges (29 Jul) show full team loop-in (Prendergast, Elston, Stachura); indicates serious opportunity or contract discussion
-- **Anthony D. Brescia (NAWCAD/USN)** (anthony.d.brescia.civ@us.navy.mil) — co-recipient on Ruiz-Reyes decision email; Navy decision-maker visibility
-- **Amy McLiverty (NOAA Federal)** (amy.l.mcliverty@noaa.gov) — **active/recurring contact**; 3 emails in new batch alone (13:51, 14:58, 18:54 UTC window); marked IMPORTANT; delivery order discussions continue with rapid back-and-forth
-- **Jošt Laznik (Atmolab)** — external technical partner; **NEW contact**; technical discussion on REX 110 environmental testing (-40/-55°C operations)
-- **Alasdair Brackenridge (Lockheed Martin)** (alasdair.brackenridge@global.lmco.com) — **NEW external contact**; Draft Statement of Work for "Raven" project; marked IMPORTANT; indicates potential subcontract or partnership with major defense prime
-- **Bob Smith & Lisa Marie Cheney (Krateo Sky)** (Bob@krateosky.com, LisaMarie@krateosky.com) — **NEW external partners**; involved in USPACOM FY27 proposal; Prendergast forwarding opportunity to them; indicates teaming/partnership
+- **Angel R. Ruiz-Reyes (NAWCAD/USN)** (angel.r.ruiz-reyes.civ@us.navy.mil) — **sustained escalation**; 7+ emails in new batch alone (30 Jul); multiple back-and-forth exchanges with Stachura and Elston; marked IMPORTANT on all; indicates active contract negotiation or approval process
+- **Anthony D. Brescia (NAWCAD/USN)** (anthony.d.brescia.civ@us.navy.mil) — co-decision maker; responsive thread on "Today's check-in"; SBIR tag-up scheduled (4 Aug)
+- **Bob Smith (Krateo Sky)** (Bob@krateosky.com) — **elevated engagement**; leads reply on IDIQ contract (1305M226D0012) market research & draft SOW (31 Jul 05:45 UTC); appears to be teaming/partnership lead with BST
+- **Bryan Sparling (By Light)** (bryan.sparling@bylight.com) — **NEW contact with high priority**; "Call Friday" thread (30 Jul); "By Light Opportunities" meeting scheduled 31 Jul 10:30am MDT; marked IMPORTANT; multiple internal BST staff invited (Elston, Stachura, Prendergast, Cotter)
+- **Michael Chandler (CESI Corp)** (Michael.Chandler@cesicorp.com) — **NEW external contact**; involved in "Call Friday" discussion with By Light; marked IMPORTANT
+- **Trenton McKibben (Nextechsol)** (Trenton.McKibben@nextechsol.com) — external engineering contact; "Engineering Sprint Status and Teams Meeting Availability" (30 Jul); coordinating sprint status with BST team; marked IMPORTANT
+- **Brittany Duncan (University of Nebraska-Lincoln)** (bduncan@unl.edu) — **academic/contract connection**; "Random potential contract connection" thread (30 Jul); 3-email exchange with Prendergast and Elston; marked IMPORTANT; suggests potential research partnership or funding opportunity
+- **Hadley Solomon (Creative Alignments)** (hadley.solomon@creativealignments.com) — **NEW contact**; appointed meeting with Beck Cotter (30 Jul 3:45pm-4:15pm MDT); marked IMPORTANT; appears to be business development/consulting engagement
 
 ### Internal vs External Breakdown (Updated)
-- ~70% external government/partner correspondence (SOCOM, Navy NAWCAD, NOAA, Lockheed Martin, Krateo Sky, Atmolab)
-- ~20% internal team coordination (escalating through Stachura)
-- ~10% automated systems/newsletters
+- ~75% external government/partner correspondence (NAWCAD, Krateo Sky, By Light, CESI Corp, Nextechsol, university contacts, SBIR/STTR listings)
+- ~20% internal team coordination (escalating through Elston and Stachura)
+- ~5% automated systems/newsletters (UASweekly, SBIR-STTR mailing list)
 
 ## Topic Patterns
 
 ### Active Projects/Codenames (Updated)
-- **S0 (RFI)** — continues from prior dataset (no new emails this batch)
-- **S3** — continues from prior dataset (no new emails this batch)
+- **S0 (RFI)** — continues from prior dataset (no new visibility this batch)
+- **S3 (UC Santa Cruz)** — **continues active**; Canadian S3 estimate meeting scheduled (30 Jul 1pm-2pm MDT); Asana comment update (30 Jul 21:19 UTC); indicates ongoing development/costing effort
 - **Genesis** — (from prior dataset; no visibility this batch)
-- **USPACOM FY27** — **escalating pressure**; Joint Warfighter Experimentation Campaign; deadline **NLT 07 August 2026** (8 days away); Prendergast forwarding to external partner Krateo Sky (Bob Smith, Lisa Marie Cheney); appears to be collaborative proposal effort
-- **Raven** — **NEW project**; Draft Statement of Work received from Lockheed Martin (Brackenridge); marked IMPORTANT; indicates new or emerging program with major defense contractor
-- **REX 110** — **NEW technical project**; environmental performance testing at extreme temperatures (-40°C, -55°C); Atmolab coordination; suggests equipment qualification/validation work
+- **USPACOM FY27** — **accelerating to deadline** (NLT 07 Aug, 6 days); no direct emails this batch but context unchanged; proposal finalization phase
+- **Raven** — (Lockheed Martin SOW continues from prior batch; no new emails this batch)
+- **REX 110** — (Atmolab environmental testing continues from prior batch; no new emails this batch)
+- **IDIQ Contract 1305M226D0012** — **NEW escalation**; Krateo Sky market research & draft SOW review (31 Jul 05:45 UTC); forwarded internally by Elston to full team (Cotter, Stachura, Fromm, Prendergast); marked IMPORTANT; indicates active opportunity or contract bid under development with external partner
 
-### Government/Defense Themes (Updated/New)
-- **NAWCAD "Today's check-in"** — **escalated to decision level**; Ruiz-Reyes reply (29 Jul 21:36 UTC) loops in full BST team (Prendergast, Elston, Stachura) plus Brescia; marked IMPORTANT and "[Non-DoD Source]"; suggests either contract decision, funding approval, or major opportunity discussion
-- **NOAA Delivery Orders** — rapid-fire engagement (3 emails in 2-hour window); McLiverty marks IMPORTANT; suggests time-sensitive new delivery order discussion or contract modification
-- **Lockheed Martin Raven SOW** — Defense prime contractor engagement; draft SOW under review; indicates potential subcontract opportunity or partnership expansion
+### Government/Defense/Funding Themes (Updated/New)
+- **NAWCAD "Today's check-in"** — **continued escalation**; 7+ email thread on 30 Jul with Ruiz-Reyes and Brescia; marked IMPORTANT on all messages; Stachura responding directly to Navy; indicates active contract/opportunity discussion at decision-maker level
+- **SBIR Tag-up** — **scheduled for 4 Aug**; meeting invite from Stachura includes Beck Cotter, Alex Lomis, Prendergast, and Navy contacts (Brescia, Ruiz-Reyes); indicates SBIR/STTR program engagement with Navy stakeholders
+- **SBIR/STTR Funding Opportunities** — DOE funding opportunity broadcast (30 Jul 13:05 UTC) from SBIR-STTR@connectwerx.org; suggests BST monitoring/participating in small business innovation programs
+- **By Light Opportunities** — **NEW partnership discussion**; meeting scheduled 31 Jul 10:30am-11:15am MDT; multiple BST staff attending (Elston, Stachura, Prendergast, Cotter); Sparling, Chandler, and additional By Light staff participating; marked IMPORTANT; indicates strategic opportunity discussion or teaming agreement
 
-### Technical/Product Themes (New)
-- **REX 110 Environmental Performance** — External inquiry from Atmolab (EU-based) on cold-weather operations; suggests either product qualification for international market or technical support inquiry
+### Academic/Contract Connections (New)
+- **University of Nebraska-Lincoln partnership** — Brittany Duncan thread (30 Jul); Prendergast and Elston engaged; labeled "Random potential contract connection"; suggests academic institution as potential partner, subcontractor, or research collaborator
 
-### Funding/Grant Activity (Continuing)
-- **USPACOM FY27** — continues high priority; now visibly being socialized with external teaming partner (Krateo Sky); 8-day deadline suggests final proposal push
+### Technical/Operational (Updated)
+- **Engineering Sprint Status** — Trenton McKibben (Nextechsol) coordinating teams meeting availability (30 Jul 14:50 UTC); indicates active engineering work or development cycle
+- **Canadian S3 Estimate** — Meeting scheduled with Prendergast, Stachura, Cotter (30 Jul 1pm-2pm MDT); suggests S3 project scope expansion or Canadian customer/partner engagement
 
 ## Communication Patterns
 
-### Time Distribution (29 Jul batch)
-- Early morning (11:28-12:05 UTC) — USPACOM FY27 internal coordination
-- Mid-day (13:51-14:58 UTC) — NOAA delivery order back-and-forth
-- Afternoon (14:10-15:55 UTC) — NAWCAD escalation thread
-- Evening (16:19-21:57 UTC) — NAWCAD decision-level thread continuation, Lockheed Martin Raven SOW received
-
-### Email Threading
-- **NAWCAD thread:** 6-email escalation over 7.5 hours on 29 Jul; shows rapid decision-making or urgent coordination
-- **NOAA thread:** 3-email exchange in 2-hour window; time-sensitive discussion
-- **USPACOM thread:** 2-email internal coordination with external partner visibility
-
-### Automated/System Emails (Non-Human)
-- **Newsletters:** UASweekly (1) — NATO/modern warfare topic
-- **Procurement/RFQ:** Alternative Logistics LLC request for quote on "UAS Target System Package" marked IMPORTANT
-
-### Mailing Lists/Groups
-- info@blackswifttech.com (UASweekly)
-- Undisclosed recipients (Alternative Logistics RFQ)
-
-## Key Relationships
-
-### Closest Internal Collaborators (Updated)
-1. **Daniel Prendergast** — Technical lead and government interface; now visible on USPACOM FY27 (with external partners), NAWCAD decision thread, and Lockheed Martin negotiations
-2. **Maciej Stachura** — **escalated role**; now central to government relations; driving NAWCAD thread responses and government-side coordination
-3. **Jack Elston** — Business development; NAWCAD thread escalation and USPACOM FY27 partnership coordination
-
-### Critical External Relationships (Updated/New)
-- **Angel R. Ruiz-Reyes (NAWCAD)** — decision-maker engagement; drives urgent coordination; marked IMPORTANT multiple times
-- **Anthony D. Brescia (NAWCAD)** — co-decision maker visibility
-- **Amy McLiverty (NOAA)** — **active recurring customer**; time-sensitive delivery order discussions; marked IMPORTANT
-- **Alasdair Brackenridge (Lockheed Martin)** — **NEW strategic partner**; Raven SOW under discussion; indicates defense prime contractor relationship
-- **Bob Smith & Lisa Marie Cheney (Krateo Sky)** — **NEW teaming partners**; USPACOM FY27 collaborative proposal
-- **Jošt Laznik (Atmolab)** — **NEW technical contact**; product performance validation/support
-
-## Notable Observations
-
-1. **NAWCAD Escalation to
+### Time Distribution (30-31 Jul batch)
+- Early morning (05:45 UTC / 31 Jul) — Krateo Sky IDIQ contract reply (high priority)
+- Morning (09:14-12:47 UTC / 30 Jul) — NAWCAD "Today's check-in" thread escalation (6+ emails in 3.5 hour window)
+- Midday (12:38-15:16 UTC / 30 Jul) — NAWCAD continued responses, Ruiz-Reyes/Stachura direct exchange
+- Afternoon (14:50-17:45 UTC / 30 Jul) — Nextechsol engineering sprint, Canadian S3 meeting invite, SBIR tag-up scheduling
+- Evening (21:01-

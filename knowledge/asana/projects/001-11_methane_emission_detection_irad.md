@@ -8,7 +8,7 @@
 - **Team Members:** Maciej Stachura (owner/PM, strategic decisions), Jack Elston (flight testing, patents), Josh Fromm, Nate Straus (calibration), Ariel Stachura (driving acceleration decision), whole BST team
 - **Risk Signals:**
   - 🚨 **CRITICAL:** Portfolio-level strategic decision pending post-July 28, 2026 KS Tech Sync. Methane project inclusion in Q4 2026 actively questioned by leadership. Outcome unknown — potential major scope change, delay, or acceleration.
-  - 🚨 **CRITICAL:** Asana snapshot essentially empty (0 open tasks, 1 completed from Feb 2023); last meaningful update Nov 28, 2023. Project clearly active through Sept 2024 and July 2026 but **tracking system invisible or external.** Confirm actual project management system with Maciej Stachura immediately.
+  - 🚨 **CRITICAL:** Asana snapshot essentially empty (0 open tasks, 1 completed from Dec 2022); last meaningful update Nov 28, 2023. Project clearly active through Sept 2024 and July 2026 but **tracking system invisible or external.** Confirm actual project management system with Maciej Stachura immediately.
   - 🚨 **CRITICAL:** Annual Report 2025 (due Sept 1, 2025) — no current task visible; status unknown.
   - Patent work (Jack Elston) — no current deadline visibility.
   - Crowheart Energy MVP demo "ready to schedule" (Feb 2024 status) — no update on execution or revenue unlocking.
@@ -24,9 +24,9 @@
 - **Patent Applications** — In progress (Jack Elston, Messner, Scott Hawranek); draft, high-level pass, formal application — all lack assigned deadlines
 
 ## Task Summary
-- **Asana Data:** 0 open tasks, 1 completed (Customer Discovery, Feb 2023)
+- **Asana Data:** 0 open tasks, 1 completed (Unassigned milestone, Dec 16, 2022, due Jan 31, 2023 — completed Dec 29, 2022)
 - **Visibility:** Near-zero task visibility in Asana as of current snapshot; project clearly active external to visible task list
-- **Assignment Patterns:** Historical tasks assigned to Jack Elston (patents, flight testing), Nate Straus (calibration); majority of commercialization work unassigned
+- **Assignment Patterns:** Historical tasks largely unassigned in Asana; known active work assigned to Jack Elston (patents, flight testing), Nate Straus (calibration); majority of commercialization work unassigned
 - **Note:** Asana snapshot does not reflect documented Sept 2024 Annual Report completion, Feb 2024 vendor onboarding, or July 2026 strategic discussions — **strong evidence of external tracking or project management system shift**
 
 ## Recent Activity

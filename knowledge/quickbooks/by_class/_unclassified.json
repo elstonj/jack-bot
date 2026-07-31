@@ -4,22 +4,57 @@
     ""
   ],
   "period": {
-    "start": "2026-07-29",
-    "end": "2026-07-30"
+    "start": "2026-07-30",
+    "end": "2026-07-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 8051.43,
+    "expenses": 5458.32,
     "by_category": {
       "FACILITIES:FA-Office Supplies": 5355.31,
-      "Inventory Asset": 2574.79,
-      "SALES & MARKETING": 97.15,
-      "DIRECT COSTS:DC-Direct Material Purchases": 22.73,
-      "FACILITIES:FA-Shop Supplies": 1.45
+      "Indirect Cost:Insurance Exp": 103.0,
+      "UNALLOWABLE GA:UC-Other Costs": 0.01
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-30",
+      "doc_number": "adj",
+      "total": 103.0,
+      "attributed": 103.0,
+      "vendor": "Pinnacol Assurance",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 103.0,
+          "account": "Indirect Cost:Insurance Exp",
+          "description": "clearing AP"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-07-30",
+      "doc_number": "",
+      "total": 0.01,
+      "attributed": 0.01,
+      "vendor": "Jack Elston - v",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 0.01,
+          "account": "UNALLOWABLE GA:UC-Other Costs",
+          "description": ""
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -36,80 +71,6 @@
           "amount": 5355.31,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-29",
-      "doc_number": "65720628",
-      "total": 2574.03,
-      "attributed": 2574.0299999999997,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "J. Fromm confirmed it's for future S3 Sales\n\nOriginal Order was for Amazon, but they were out of the item.",
-      "lines": [
-        {
-          "amount": 858.01,
-          "account": "Inventory Asset",
-          "description": "for future S3 sales"
-        },
-        {
-          "amount": 858.01,
-          "account": "Inventory Asset",
-          "description": "for future S3 sales"
-        },
-        {
-          "amount": 858.01,
-          "account": "Inventory Asset",
-          "description": "for future S3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-29",
-      "doc_number": "SHV-156507",
-      "total": 97.15,
-      "attributed": 97.15,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 97.15,
-          "account": "SALES & MARKETING",
-          "description": "Raspberry Pi Zero W \u00d7 5"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-29",
-      "doc_number": "0728JELSTON",
-      "total": 281.44,
-      "attributed": 24.939999999999998,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 8.61,
-          "account": "Inventory Asset",
-          "description": "Future S3 Sales"
-        },
-        {
-          "amount": 16.33,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        },
-        {
-          "amount": 256.5,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ supplies"
         }
       ]
     }

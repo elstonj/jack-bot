@@ -6,7 +6,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment)
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification)
 - Danny Troke (QC, testing, batteries)
@@ -33,7 +33,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ethan & Spencer (team members attending Murphy's Pond field campaign, Aug 4-6)
 - Joey (team member, S2-related technical inquiry, July 29, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 29, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 30, 2026.
 
 ---
 
@@ -52,6 +52,13 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - S2 designated as end-of-life product but continuing customer support
 - Last S2 batteries allocated to existing customers; production ceased
 - Focus shifting to S3 production
+
+**S2-9 Refurbishment Decision (July 2026)**
+- S2-9 identified for refurbishment; completion imminent as of July 30, 2026
+- Joshua Fromm: "S2-9 refurb will be ready for a qc checkout flight next week"
+- Remaining work: QC checkout flight, building spare tails, wings, and tail boom
+- Maciej Tromba proposed marking final flight with a ceremony, acknowledging S2 program phase-out (July 30, 2026)
+- Status: Ready for QC validation flight as of late July 2026
 
 **S3 Production Scaling (2025)**
 - Two S3 systems ordered by INSTAAR (June 1, 2025 deadline)
@@ -89,11 +96,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Reasoning: Iridium capability is a legacy/one-off feature reviving obsolete components; not worth production effort
 - **CONFIRMED (May 5, 2026):** Dan Prendergast confirmed "No iridium on the NASA S2 and spare components" - decision finalized
 
-**E2 Battery Allocation for EMASS Project (April 2026)**
-- Jack Elston proposed offering one of BST's nicest E2 batteries to Dan Prendergast's group (NASA/EMASS project)
-- Rationale: Company has excess E2 batteries; no major flight campaigns planned for E2 (previously needed for Crested Butte SMM operations); would save manufacturing time
-- Pricing: Not full price, discounted to recover some costs while primarily saving internal labor
-- Dan Prendergast requested keeping 4 E2 batteries reserved until after EMASS completion (April 21, 2026)
-- Maciej Tromba approved proposal (April 2026)
-
-**
+**E2 Battery Allocation for EMASS Project (April 2026

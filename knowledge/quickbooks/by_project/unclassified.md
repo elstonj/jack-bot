@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,521,608.07
+- **Total Expenses (Payments):** $3,521,711.08
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,521,607.07
-- **Date Range:** 2024-04-05 to 2026-07-18 (27 months, 13 days)
+- **Net Position:** -$3,521,710.08
+- **Date Range:** 2024-04-05 to 2026-07-31 (27 months, 26 days)
 
 ---
 
@@ -23,27 +23,24 @@
 
 ## Expenses by Cost Category
 
-**Note:** Transaction data does not include explicit account coding for cost categorization beyond project/class codes. The explicit account tags identified:
-- **GA-Finance & Bank Charges / QuickBooks Payments Fees:** $870.82 (cumulative)
+**Note:** Transaction data includes explicit account coding on select line items. Below is the **updated categorization** incorporating newly coded transactions and provisional estimates for untagged items:
 
-All other transactions are recorded at project/class level without detailed cost category breakdown. Below is a **provisional categorization** based on vendor/project type and typical BST operations:
-
-### Estimated Expense Breakdown by Cost Category
+### Expense Breakdown by Cost Category
 
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
-| **Subcontractors** | ~$400,000–513,000 | ~29 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), IRISS CU Boulder ($664.98), **Alliance for Energy Innovation, LLC ($3,000.00)** |
+| **Subcontractors** | ~$400,000–513,000 | ~29 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
 | **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$870.82 | 8 | QuickBooks Payments fees (cumulative: $25.75 + $250.00 + $7.50 + $250.00 + $127.07 + $236.12 + $34.50 + **$139.75**) |
+| **Indirect Costs / G&A** | ~$973.82 | 10 | QuickBooks Payments fees (cumulative: $870.82), **Pinnacol Assurance insurance ($103.00)** |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
-| **Other** | ~$800,000–1,000,000 | ~31 | Project pass-throughs, research partnerships, institutional charges |
-| **TOTAL** | **$3,521,608.07** | **105** | — |
+| **Other / Unallowable** | ~$0.01 | 1 | **Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs]** |
+| **TOTAL** | **$3,521,711.08** | **107** | — |
 
-**⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization is not possible from this dataset. **To improve cost tracking, recommend:**
+**⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization remains incomplete. **To improve cost tracking, recommend:**
 1. Require all QB transactions to include account/cost-category tags
 2. Implement project-to-cost-code mapping in QB setup
 3. Link QB data with Drive budget files for full reconciliation
@@ -93,35 +90,37 @@ All other transactions are recorded at project/class level without detailed cost
 | (unclassified) | Nestor Rivera | $500.00 | 2 |
 | (unclassified) | NOAA UASD | $4,580.00 | 1 |
 | (unclassified) | IRISS, CU Boulder | $664.98 | 1 |
-| (unclassified) | **Alliance for Energy Innovation, LLC** | **$3,000.00** | **1** |
+| (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 |
+| (unclassified) | **Pinnacol Assurance** | **$103.00** | **1** |
+| (unclassified) | **Jack Elston – v** | **$0.01** | **1** |
 | (unclassified) | QuickBooks Payments Fees | $870.82 | 8 |
-| **TOTAL** | | **$3,521,608.07** | **105** |
+| **TOTAL** | | **$3,521,711.08** | **107** |
 
 **July 2026 Updates (New):**
-- **Alliance for Energy Innovation, LLC:** +$3,000.00 (new transaction 2026-07-17; Payment ID 18ab0rtuep3k)
-- **QuickBooks Payments Fees:** +$139.75 (DiscountRateFee daily fee 2026-07-17; cumulative total now $870.82)
+- **Pinnacol Assurance:** +$103.00 (Bill #adj 2026-07-30; [Indirect Cost:Insurance Exp] — clearing AP)
+- **Jack Elston – v:** +$0.01 (Bill 2026-07-30; [UNALLOWABLE GA:UC-Other Costs])
 
 ---
 
 ## Monthly Spend by Category
 
-| Month | Amount | Key Projects |
-|-------|--------|--------------|
-| 2024-04 | $9,809.61 | Rainmaker, Temple Lee, Methane Detection |
-| 2024-05 | $111,767.50 | AREN 2024 ($92,500), Rainmaker ($6,125.50), Temple Lee ($3,000) |
-| 2024-06 | $340,030.10 | SMM Phase II 22.4D ($200K), Volcano CCRPP ($126,117), INSTAAR Lab ($13,853) |
-| 2024-07 | $200,000.00 | SMM Phase II 22.4D ($200K) |
-| 2024-08 | $206,540.00 | Volcano CCRPP ($100,985), Mark Motter ($5,435), UMD ($1,488) |
-| 2024-09 | $5,436.00 | Oklahoma State ($1.00), NASA Ames ($3,470), Embry-Riddle ($22.33) |
-| 2024-10 | $454,784.40 | SMM Phase II 22.4D ($200K), WPO Hurricane ($123,416), Volcano CCRPP ($128,880) |
-| 2024-11 | $222.33 | Embry-Riddle ($200), Embry-Riddle ($22.33) |
-| 2024-12 | $3,470.00 | NASA Ames MHP ($3,470) |
-| 2025-01 | $103,086.99 | Methane Emission ($3,087), Navy SBIR ($6,500), Navy STTR ($6,500) |
-| 2025-02 | $45,046.78 | WPO Hurricane Phase II ($45,047) |
-| 2025-03 | $528,405.01 | SMM Phase II 22.4D ($200K), S0 Hurricane ($126,203), Adonis ($46,500), AREN 2025 ($117,702), ND Air ($38,000) |
-| 2025-04 | $415,013.39 | S0 Hurricane ($131,590), USGS Mexico ($124,230), UMES ($102,181), Refurbished S2 ($57,814), NASA Persistence ($35K) |
-| 2025-05 | $201,500.00 | SMM Phase II 22.4D ($150K), S0 Hurricane ($36K), Hesselius E2 ($15K), Display Model ($4,500) |
-| 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) |
-| 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) |
-| 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) |
-| 2025-09 | $112,492.50 | Navy SBIR ($70,
+| Month | Amount | Key Projects | Notes |
+|-------|--------|--------------|-------|
+| 2024-04 | $9,809.61 | Rainmaker, Temple Lee, Methane Detection | — |
+| 2024-05 | $111,767.50 | AREN 2024 ($92,500), Rainmaker ($6,125.50), Temple Lee ($3,000) | — |
+| 2024-06 | $340,030.10 | SMM Phase II 22.4D ($200K), Volcano CCRPP ($126,117), INSTAAR Lab ($13,853) | — |
+| 2024-07 | $200,000.00 | SMM Phase II 22.4D ($200K) | — |
+| 2024-08 | $206,540.00 | Volcano CCRPP ($100,985), Mark Motter ($5,435), UMD ($1,488) | — |
+| 2024-09 | $5,436.00 | Oklahoma State ($1.00), NASA Ames ($3,470), Embry-Riddle ($22.33) | — |
+| 2024-10 | $454,784.40 | SMM Phase II 22.4D ($200K), WPO Hurricane ($123,416), Volcano CCRPP ($128,880) | — |
+| 2024-11 | $222.33 | Embry-Riddle ($200), Embry-Riddle ($22.33) | — |
+| 2024-12 | $3,470.00 | NASA Ames MHP ($3,470) | — |
+| 2025-01 | $103,086.99 | Methane Emission ($3,087), Navy SBIR ($6,500), Navy STTR ($6,500) | — |
+| 2025-02 | $45,046.78 | WPO Hurricane Phase II ($45,047) | — |
+| 2025-03 | $528,405.01 | SMM Phase II 22.4D ($200K), S0 Hurricane ($126,203), Adonis ($46,500), AREN 2025 ($117,702), ND Air ($38,000) | — |
+| 2025-04 | $415,013.39 | S0 Hurricane ($131,590), USGS Mexico ($124,230), UMES ($102,181), Refurbished S2 ($57,814), NASA Persistence ($35K) | — |
+| 2025-05 | $201,500.00 | SMM Phase II 22.4D ($150K), S0 Hurricane ($36K), Hesselius E2 ($15K), Display Model ($4,500) | — |
+| 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) | — |
+| 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
+| 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
+| 2025-09 | $112

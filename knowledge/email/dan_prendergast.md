@@ -1,91 +1,85 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 45 (expanded from 32; +13 new)
-- **Date range:** 27–29 Jul 2026
-- **Volume:** High-intensity, sustained multi-project engagement; 29 Jul shows peak activity (11 of 13 new messages) concentrated on morning/midday hours (09:57–22:34 UTC/MDT), suggesting deadline-driven coordination push
+- **Total messages scanned:** 70 (expanded from 45; +25 new)
+- **Date range:** 27 Jul – 31 Jul 2026
+- **Volume:** Sustained high-intensity multi-project engagement; 30–31 Jul shows continued concentration with scheduled coordination meetings and government correspondence; pattern suggests rolling deadline management across 6+ active opportunities
 
 ## Key Correspondents
 
 **Top External Contacts (by frequency, updated):**
-- Bob Smith (Krateo Sky) — 4 emails (SOCOM demo escalation; now CC'ing Krateo leadership Lisa Marie Cheney; appears imminent)
-- Dr. Hugo Delgado Granados (UNAM, Mexico) — 3 emails (Popocatépetl UAS deployment; marked IMPORTANT)
-- Michael C. Jagelewski (USSOCOM) — 2 emails (RFI S0 military; marked U unclassified)
-- Christopher E. Hartman (UMES) — 3 emails (S3 delivery/training; marked IMPORTANT)
-- **Tanay Topac (Stanford University)** — 4 emails (new; MHP data alignment project; bidirectional with Jack Elston; marked IMPORTANT; escalated to leadership level)
-- **Alasdair Brackenridge (Lockheed Martin)** — 1 email (Raven SOW draft; marked IMPORTANT; CC'd Beck Cotter BST)
-- **William O'Neill (ByLight)** — 1 email (New Opportunity for M2; marked IMPORTANT)
-- **Bryan Sparling (ByLight)** — 1 email (New Opportunity for M2; coordinating with O'Neill)
-- **Michael Rhodes (University of Colorado)** — 1 email (new; Nightfox CAN bus technical response; CC'd Nathaniel Straus)
-- Krateo Sky team (Sona Raziabeegum, Brian Grubel, Dipan Amin) — ongoing demo coordination
+- Bob Smith (Krateo Sky) — 5 emails (SOCOM demo, USPACOM RFP, CJFC Arctic UAS estimate; continuous coordination)
+- Lisa Marie Cheney (Krateo Sky) — 2 emails (SOCOM demo, CJFC Arctic estimate; strategic partnership discussions)
+- **Kim Lynge Sorensen (Ubiq Aerospace)** — 1 email (NEW; icing detection/protection for small UAS; marked IMPORTANT; 31 Jul UTC+2 timezone suggests European partner)
+- **Simon Laurence (UK MOD)** — 2 emails (NEW; Merlin Mk2/US Navy SBIR; marked IMPORTANT; international defense partnership; co-recipient with Joshua Fromm suggests technical evaluation)
+- **Michael Chandler (CESI Corporation)** — 1 email (NEW; call coordination with ByLight; marked IMPORTANT; appears to be vendor/partner on M2/ByLight opportunity)
+- Christopher E. Hartman (UMES) — ongoing (S3 delivery/training; now surfaced in UC Santa Cruz - S3 Asana comments 30 Jul)
+- Dr. Hugo Delgado Granados (UNAM) — ongoing (Popocatépetl deployment)
+- **Mark Goranson (NanoVEU)** — 1 email (NEW; flight data report; marked IMPORTANT; appears to be technical data provider or sensor partner)
+- **Brittany Duncan (University of Nebraska Lincoln)** — 1 email (NEW; random potential contract connection; Dan replied 30 Jul; suggests pipeline opportunity or academic partnership lead)
+- Evan Wolff (USAF) — 1 email (NEW; DOD SAFE IRF and IAS Request; Dan replied 30 Jul; military requirements/compliance)
+- **Angel R. Ruiz-Reyes (US Navy NAWCAD)** — 1 email (NEW; non-DoD source check-in; Jack Elston responded; marked IMPORTANT; Navy technical contact; likely SBIR or acquisition evaluation)
+- **Trenton McKibben (NextEch Solutions)** — 1 email (NEW; engineering sprint status; marked IMPORTANT; appears to be contractor/vendor for technical execution)
 
 **Internal Collaborators (updated):**
-- Jack Elston (BST) — 8 emails received/sent in new batch (SOCOM demo, USPACOM RFP, MHP data alignment project; now directly engaged in technical coordination with external academics; strategic decision-maker)
-- Nathaniel Straus (BST) — 2 emails (Nightfox CAN bus; receiving external technical response from CU Boulder)
-- Beck Cotter (BST) — 1 email (Raven SOW; CC'd by Lockheed Martin contact)
-- Maciej Stachura (BST) — 1 email (from prior batch; Nightfox technical)
-- Joshua Fromm (BST) — 1 email (from prior batch; Nightfox technical)
+- Jack Elston (BST) — 7 emails in new batch (ByLight opportunities meeting chair; Navy contact engagement; Asana S3 comments; strategic decision-making and partnership negotiation)
+- Joshua Fromm (BST) — 3 emails in new batch (Merlin Mk2/Navy SBIR; UK MOD coordination; continuing from Nightfox/Raven threads)
+- Beck Cotter (BST) — 3 emails in new batch (ByLight call; Asana S3 comments; IDIQ contract review with Krateo)
+- Maciej Stachura (BST) — 3 emails in new batch (ByLight opportunity meeting; IDIQ contract review; CJFC Arctic estimate)
+- Nicholas Phillips (ByLight) — 1 email (NEW; ByLight opportunities meeting invitee)
+- Justin Baltz (ByLight) — 1 email (NEW; ByLight opportunities meeting invitee)
 
 ## Topic Patterns
 
-**Primary Active Projects (priority order by engagement):**
+**Primary Active Projects (priority order by engagement, updated):**
 
-1. **SOCOM Demo / BST Demo for SOCOM** — Escalating; Dan coordinating directly with Krateo Sky (Bob Smith, Lisa Marie Cheney) + Jack Elston; multiple same-day responses on 29 Jul; deadline appears imminent (likely 30 Jul or earlier based on urgency spike)
+1. **SOCOM Demo / BST Demo for SOCOM** — Continuing high priority; Krateo Sky (Bob Smith, Lisa Marie Cheney) coordination; appears to have concluded or transitioned (no new messages 30–31 Jul; likely completed 29–30 Jul)
 
-2. **USPACOM FY27 Joint Warfighter Experimentation Campaign** — RFP deadline 07 Aug (9 days); Dan sent proposal response to Jack Elston + Krateo Sky partners (Bob Smith, Lisa Marie Cheney) on 29 Jul morning; now collaborative proposal planning
+2. **USPACOM FY27 Joint Warfighter Experimentation Campaign** — Continuing; RFP deadline 07 Aug (6 days); Krateo partnership proposal
 
-3. **MHP Data Alignment** — New project visibility; Tanay Topac (Stanford) direct correspondence with Jack Elston; marked IMPORTANT on all threads; 4 emails in new batch suggest active negotiation/clarification on data integration; appears to be research/academic partnership
+3. **ByLight Opportunities (M2 and related)** — **ESCALATED to meeting coordination level**; Jack Elston scheduled 31 Jul 10:30–11:15 MDT meeting with Bryan Sparling, Michael Chandler (CESI), William O'Neill, Nicholas Phillips, Justin Baltz; marked IMPORTANT; suggests major opportunity requiring full team review and decision
 
-4. **RFI S0** — Continues from prior batch (military requirements; USSOCOM correspondence)
+4. **CJFC Arctic UAS Estimate** — **NEW/ELEVATED**; Dan initiated meeting request with Krateo Sky (Bob Smith, Lisa Marie Cheney) + internal team (Jack, Maciej, Beck); marked priority coordination; likely competitive estimate or proposal for Arctic operations
 
-5. **UAS Deployment at Popocatépetl** — Continues (UNAM; international; marked IMPORTANT)
+5. **Merlin Mk2 / US Navy SBIR** — **NEW/ELEVATED**; UK MOD (Simon Laurence) engaged with Joshua Fromm and Dan; Navy SBIR program; international collaboration (UK-US defense technology); marked IMPORTANT; appears to be naval vehicle or sensor platform
 
-6. **S3 Delivery and Training** — Continues (UMES; Christopher Hartman)
+6. **MHP Data Alignment** — Continuing (research partnership; Stanford)
+
+7. **UAS Deployment at Popocatépetl** — Continuing (UNAM; international)
+
+8. **S3 Delivery and Training** — Continuing; UC Santa Cruz now visible (not just UMES); Asana-tracked project with Beck Cotter and Jack Elston collaboration notes (30 Jul)
+
+9. **Raven Statement of Work** — Continuing (Lockheed Martin partnership)
 
 **New/Emerging Projects:**
 
-7. **Nightfox CAN bus configuration** — Technical resolution advancing; Michael Rhodes (University of Colorado) now responding directly to BST team (Nathaniel Straus, Dan); appears to be external technical consulting/validation; suggests hardware integration/testing phase
+10. **Icing Detection and Protection for Small UAS** — **NEW**; Kim Lynge Sorensen (Ubiq Aerospace, Copenhagen-based +0200 timezone); marked IMPORTANT; Dan replied 31 Jul; suggests weather/environmental sensing capability or platform enhancement for cold-weather operations
 
-8. **Raven Statement of Work** — New; Alasdair Brackenridge (Lockheed Martin) sending draft SOW to Beck Cotter + Dan on 29 Jul; marked IMPORTANT; suggests subcontractor relationship or prime/sub coordination on defense program
+11. **Flight Data Report / NanoVEU Partnership** — **NEW**; Mark Goranson (NanoVEU); marked IMPORTANT; technical data integration or sensor platform evaluation; likely hardware/sensor validation
 
-9. **M2 Opportunity (ByLight)** — New; William O'Neill and Bryan Sparling (ByLight Solutions) flagging "New Opportunity for M2" to Dan + Jack (via escalation); marked IMPORTANT; appears to be commercial/defense opportunity requiring rapid review
+12. **DOD SAFE IRF and IAS Request** — **NEW**; Evan Wolff (USAF); Dan replied 30 Jul; military security/compliance paperwork or information assurance submission
+
+13. **Engineering Sprint Status (NextEch Solutions)** — **NEW**; Trenton McKibben (NextEch); marked IMPORTANT; appears to be contractor managing development or hardware assembly; suggests active manufacturing/engineering phase on one or more platforms
+
+14. **Potential Contract Connection (UNL lead)** — **NEW**; Brittany Duncan (University of Nebraska Lincoln); Dan replied 30 Jul; appears to be exploratory partnership or funding opportunity; marked as "random" suggests early pipeline or introduction
 
 **Equipment/Technology Mentions (updated):**
-- REX 110 (UAS — ongoing)
-- S0/S3 (BST product designations — ongoing)
-- Nightfox (platform/system; CAN bus integration; now confirmed as external validation/technical support phase)
-- Raven (Lockheed Martin program; new SOW draft)
-- M2 (ByLight opportunity designation; unclear platform/product)
-- MHP (data alignment project; unknown acronym context but academic partnership)
+- REX 110 (UAS; ongoing)
+- S0/S3 (BST product; UC Santa Cruz now added to known deployment sites)
+- Nightfox (platform; CAN bus integration phase continuing)
+- Raven (Lockheed Martin program; SOW phase)
+- M2 (ByLight opportunity; now identified as major internal priority requiring meeting)
+- Merlin Mk2 (UK naval platform; SBIR program; new)
+- MHP (data alignment; Stanford partnership)
+- CJFC Arctic UAS (new system/designation; Krateo partnership)
+- Icing Detection/Protection system (Ubiq Aerospace; weather sensing capability)
 
 ## Communication Patterns
 
-**New patterns in 29 Jul batch:**
+**New patterns in 30–31 Jul batch:**
 
-- **Concentrated activity spike:** 11 of 13 new messages on single day (29 Jul), 09:57–22:34 UTC; suggests deadline-driven convergence or major decision point
-- **Leadership loop-in acceleration:** Jack Elston now directly replying to external contacts (Tanay Topac) rather than Dan forwarding; suggests either escalated decision-making or Jack taking direct technical/partnership role
-- **Krateo Sky partnership deepening:** Lisa Marie Cheney (Krateo leadership) now in SOCOM demo thread; indicates high-stakes co-proposal or joint delivery
-- **Academic/research partnerships emerging:** Tanay Topac (Stanford) and Michael Rhodes (CU Boulder) both engaged on separate projects (MHP data, Nightfox validation); suggests BST expanding research partnerships or technical validation relationships
-- **Defense contractor coordination:** Lockheed Martin (Brackenridge) sending draft SOW; ByLight flagging new opportunity; suggests multiple subcontracting or prime-partner relationships active
-- **Same-day turnaround maintained:** Dan responding same-day to SOCOM demo, USPACOM RFP, IMPORTANT external flags; Jack Elston also responding same-day to MHP escalation
-- **Time zone: 29 Jul shows sustained UTC+0 (Stanford, CU Boulder, UK-hours) engagement with MDT (-6) operational response window** (09:57–22:34 UTC spans 03:57–16:34 MDT)
+- **Meeting escalation:** Jack Elston scheduled formal ByLight opportunities meeting (31 Jul, 10:30 MDT) with 7 participants (Dan, Beck, Maciej, Bryan Sparling, Michael Chandler, William O'Neill, Nicholas Phillips, Justin Baltz); suggests opportunity requires executive-level internal alignment and external partner commitment
 
-## Key Relationships
+- **Multi-front government engagement:** New contacts in USAF (Evan Wolff), US Navy NAWCAD (Angel Ruiz-Reyes), UK MOD (Simon Laurence) all appearing on 30 Jul; suggests coordinated pitch or requirement-gathering across multiple defense branches
 
-**Primary External Partnerships (updated by engagement intensity):**
-
-1. **Krateo Sky** (Bob Smith, Lisa Marie Cheney) — SOCOM demo coordination; now escalated to co-proposal on USPACOM RFP; Lisa Marie's involvement suggests executive/leadership engagement; highest urgency
-
-2. **Stanford University / MHP Project** (Tanay Topac) — New; data alignment project; Jack Elston directly engaged; marked IMPORTANT; appears to be research collaboration or large-scale data integration partnership
-
-3. **UNAM / Mexican Government** (Dr. Hugo Delgado Granados) — Popocatépetl UAS; ongoing international R&D/deployment
-
-4. **USSOCOM / DoD** (Michael Jagelewski) — RFI S0; military requirements
-
-5. **UMES** (Christopher Hartman) — S3 product delivery/training
-
-6. **Lockheed Martin** (Alasdair Brackenridge) — New; Raven SOW; appears to be prime/sub or partnership arrangement; SOW draft suggests contract negotiation phase
-
-7. **ByLight Solutions** (William O'Neill, Bryan Sparling) — New; M2 opportunity; marked IMPORTANT; requires rapid internal review/decision
-
-8. **University of Colorado / CU Boulder** (Michael Rhodes) — New; Nightfox CAN bus
+- **International partnership deepening:** UK MOD (

@@ -1,48 +1,71 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-07-30 02:26
+Last scanned: 2026-07-31 02:24
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 11 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Google Drive Strategic Overview – Black Swift Technologies
+# Black Swift Technologies — Shared Drive Strategic Overview
 
 ## Summary Statistics
-- **Total Drives Reviewed:** 2
-- **Total Documents:** 5 files
-- **Organization Level:** Minimal
+- **Total files:** 14 across 2 drives
+- **Total folders:** 8 (Federal Projects only)
+- **Date range:** 2022–2099 (note: future-dated files present)
+- **Primary focus:** Federal contracting (NOAA) and sales proposals
 
-## Drive Breakdown
+---
 
-| Drive | File Count | Content Type | Last Modified |
-|-------|-----------|--------------|---------------|
-| Federal Projects | 3 | Video files + receipt | 2026-07-29 to 2099-01-24 |
-| Sales | 2 | Corporate docs + SOW | 2026-07-29 |
+## Key Findings
 
-## Key Observations
+### Drive-Level Patterns
+| Drive | Volume | Primary Use | Status |
+|-------|--------|------------|--------|
+| **Federal Projects** | 11 files, 8 folders | NOAA contracts, SOWs, invoicing, video assets | Partially structured |
+| **Sales** | 3 files | Proposals and estimates | Minimal/emerging |
 
-**Content Organization:**
-- Federal Projects drive contains primarily video assets (2x MOV files) and a single receipt—limited structure or categorization
-- Sales drive holds high-level documents: corporate documentation and Statement of Work/Specifications
+### Major Clients & Projects
+- **NOAA (Federal Projects)** — Primary client with multiple delivery orders:
+  - F0084: 2026 original delivery + training
+  - F0171: Ground stations
+  - F0344: Multi-phase project (13 + 21)
+  - S0 variants: Video-enabled deliverables (2x and 6x configurations)
+- **Arctic Engineering** — Active sales prospect (FY2026 proposal)
 
-**Document Management:**
-- Minimal folder hierarchy; files stored at root level in both drives
-- Inconsistent naming conventions (alphanumeric video codes vs. descriptive date-based naming)
-- No apparent templates or shared resources identified
+### Organization Observations
+**Strengths:**
+- Federal drive uses delivery order numbers as primary folder structure
+- FY2026 planning folder indicates forward-looking budget management
+- SOW and ROM documents follow consistent naming patterns
 
-**Critical Concern:**
-- **Timestamp anomaly:** Federal Projects contains files dated 2099-01-24, suggesting either data entry error or system malfunction requiring investigation
-- Very limited document volume (5 total files) suggests either early-stage drive adoption or significant documentation stored elsewhere
+**Concerns:**
+- **4 empty delivery order folders** (F0084, F0171, F0344 parent, XXXXX variant) suggest incomplete setup or placeholder structure
+- **Ambiguous folder names** ("Delivery Order XXXXX") reduce clarity
+- Sales drive severely underdeveloped (3 files only)
+- No visible cross-drive linking between sales proposals and federal contracts
 
-## Recommendations
-1. Investigate and correct the 2099 date entries in Federal Projects
-2. Establish folder structure by project/client type
-3. Implement consistent naming conventions across drives
-4. Clarify whether these are the only active shared drives or if documentation is distributed across other locations
-5. Add descriptive metadata to video files for searchability
+### Important Resources
+- SOW templates (multiple S0 configurations with video/LOS scope variations)
+- ROM (Range of Motion) estimation framework
+- FY2026 budget and planning documents
+- Original IDIQ and pricing reference materials (incomplete summary)
+
+### Areas Requiring Attention
+1. **Stale/Empty Structure:** Clarify purpose of empty delivery order folders—delete or populate
+2. **Naming Ambiguity:** Standardize folder naming (replace "XXXXX" placeholders)
+3. **Sales Drive Underdeveloped:** Minimal pipeline documentation; consider templates from Federal drive
+4. **Future-Dated Files:** Verify 2026–2099 modification dates (potential system errors)
+5. **Missing Context:** "Original IDIQ and Pricing" folder summary incomplete; assess accessibility
+
+---
+
+## Recommended Next Steps
+- Audit empty folders for consolidation or deletion
+- Establish naming conventions across both drives
+- Develop sales proposal library mirroring federal SOW structure
+- Verify and correct anomalous future dates

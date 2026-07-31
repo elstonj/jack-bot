@@ -29,7 +29,7 @@
         "amount": 8581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-30"
+        "last_updated": "2026-07-31"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6439.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-30T09:07:28Z"
+    "last_reconciled": "2026-07-31T09:06:55Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -69,6 +69,12 @@
   ],
   "risks": [],
   "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-07-27",
+      "text": "From Maciej: <@U01511MEQ90>, for the KS Tech Sync tomorrow, here's the mods we were proposing to the IP starting in September:\n1. Cancel S3 Europe wing reduction\n2. Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left to compensate (with the goal of an S0-ISR demo for the UK)\n3. Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left to compensate (to better align with the Whitehorse demo)\n4. Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026? I assume t"
+    },
     {
       "source": "FEEDBACK",
       "author": "Maciej",
@@ -104,14 +110,8 @@
       "author": "Maciej",
       "date": "2026-07-28",
       "text": "From Maciej (ts=1785185470.118719): <@U01511MEQ90>, for the KS Tech Sync tomorrow, here's the mods we were proposing to the IP starting in September:\n1. Cancel S3 Europe wing reduction\n2. Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left to compensate (with the goal of an S0-ISR demo for the UK)\n3. Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left to compensate (to better align with the Whitehorse demo)\n4. Do we want to keep S3 Methane, S3 Visual, and S3 comms"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Maciej",
-      "date": "2026-07-27",
-      "text": "From Maciej: <@U01511MEQ90>, for the KS Tech Sync tomorrow, here's the mods we were proposing to the IP starting in September:\n1. Cancel S3 Europe wing reduction\n2. Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left to compensate (with the goal of an S0-ISR demo for the UK)\n3. Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left to compensate (to better align with the Whitehorse demo)\n4. Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026? I assume t"
     }
   ],
-  "last_full_rebuild": "2026-07-30T09:07:28Z",
+  "last_full_rebuild": "2026-07-31T09:06:55Z",
   "last_incremental_update": null
 }

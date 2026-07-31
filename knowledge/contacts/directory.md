@@ -120,16 +120,16 @@
 - **Service Accounts:** 3
 
 **Data Validation Notes:**
-- ✅ All 21 roster entries confirmed against new raw data
+- ✅ All 21 roster entries confirmed against raw data
 - ✅ All phone numbers standardized to XXX-XXX-XXXX format
 - ✅ All email addresses preserved exactly as provided
 - ✅ All contact information validated and up-to-date
-- ✅ No new entries, deletions, or role changes detected
-- ✅ Directory remains stable and consistent across data sources
+- ✅ No changes detected from previous update
+- ✅ Directory remains stable and consistent
 
 **Observations:**
 - Engineering-focused organization: 8 technical staff (44% of active headcount)
 - Five team members remain unclassified — recommend reaching out to leadership for role clarification
 - Active intern program with 2 positions filled
 - Three service accounts supporting platform operations
-- Roster stable — no changes since last update
+- Roster stable with no personnel changes

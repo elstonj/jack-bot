@@ -47,7 +47,7 @@ Project completed and archived in August–October 2025. Final timeline:
 - **Oct 21, 2025**: Project formally archived with completion status summary
 
 ## Notes & Context
-- **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but requested individual estimates for each item. Each order will happen separately. This refurbished S2 was first order; additional systems may follow.
+- **Multi-aircraft opportunity**: OSU initially requested estimate [1336] for VTOL, S2, and E2 systems but requested individual estimates for each item. Each order will happen separately. This refurbished S2 was first order; additional systems may follow. Note team to coordinate future VTOL and E2 orders as needed.
 - **Customer priority**: March 2025 delivery for spring weather observation season (achieved with 11-day minor slip due to customer spring weather observation timeline requirements). Customer noted desire for delivery "as soon as possible" per Jan 3, 2024 communication.
 - **Shipping logistics**: Aircraft launcher rail is unusually long, requiring non-standard double-long pallet with power lift gate and pallet jack operator onsite (BST has no loading dock). Freight shipment picked up Mar 14, 2025.
 - **Air spring condition**: Rear air spring rods showed wear; swapped with S20009's units (documented damage patterns on each shaft)

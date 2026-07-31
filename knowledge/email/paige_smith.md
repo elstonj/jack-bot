@@ -1,54 +1,68 @@
 # Paige Smith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 4,340 (4,293 previous + 47 new from Jul 29-30, 2026)
-- **Date range:** March 24 – July 30, 2026 (129 days)
+- **Total messages scanned:** 4,406 (4,340 previous + 66 new from Jul 30-31, 2026)
+- **Date range:** March 24 – July 31, 2026 (130 days)
 - **Approximate volume:** ~33-34 messages per day (sustained)
-- **New batch composition (Jul 29-30, 2026):** ~89% automation/newsletters/promotions (42 of 47 messages)
-  - **Direct human correspondence:** 5 messages (11%)
-    - **Jack Elston** (elstonj@blackswifttech.com) — 2 messages: "Re: Thought this might be relevant (AUVSI Defense Program in Nov)" [IMPORTANT]; "Fwd: HurricaneCenter Podcast with Joe Cione" [IMPORTANT]
-    - **Alex Mann** (amann@auvsi.org) — 3 messages: "AUVSI Defense 2026" [IMPORTANT]; "RE: AUVSI Defense 2026" (2x) [IMPORTANT]
-    - **Meg Dworak** (megd@kentwood.com) — 1 message: "Re: Luxury @ Work, a better approach to Commercial Real Estate and Design"
-  - **Defense/Aerospace/UAS Intelligence (SUSTAINED SURGE):** 4 messages (9%)
-    - **UASweekly.com** — "Colonel Mietta Groeneveld on NATO's Race to Keep Pace with Modern Warfare" [IMPORTANT, UNREAD; directed to info@blackswifttech.com]
-    - **UAS VISION** — "DAILY NEWS" [UNREAD; routed to Jack at media@blackswifttech.com]
-    - **A&SF Daily Report** — "Air Force Moves to Buy T-7 Engines, Not Boeing" [UNREAD]
-    - **Geo Week News** — "In the Field Technology" [UNREAD]
-  - **Industry Events & Conferences (NEW VISIBILITY):** 2 messages (4%)
-    - **Alex Mann / AUVSI** — "Meeting request: Blackswift & AUVSI" [IMPORTANT, UNREAD]
-    - **Commercial UAV Expo** — "Workshop Seats Are Limited — Add Yours Now" [UNREAD]
-    - **Mountain West UAS** — "RESCHEDULED to August 8 - MWUAS Picnic" [UNREAD]
-  - **News & Intelligence Monitoring:** 8 messages (17%)
-    - **The New York Times** (7 messages: Breaking news on Blanche vote/GOP senators, Iran/U.S. bombardment, Trump/Comey interview, Fauci/Covid origins, Morning Brief Europe wildfires; Editor Picks on hiking accident, Fauci diary)
-    - **The Athletic Pulse** — "CFB basics, 1 month out" [IMPORTANT, UNREAD]
-  - **Professional Networks & Intelligence:** 3 messages (6%)
-    - **LinkedIn** (3 notifications: Team Worldwide activity, Matthew Burgess PhD post from Tuscaloosa, Technology Investor Group digest on cybersecurity/quantum/biotech/spacetech)
-    - **LinkedIn Job Alert** — "Marketing & Communications Coordinator at CFS" [UNREAD]
-    - **LinkedIn Client Request** — "Environmental Consulting request from Sheila C. James and other clients"
-  - **Business Tools/Admin:** 3 messages (6%)
-    - **Google Ads support** — "Your appointment has been successfully rescheduled" [IMPORTANT, UNREAD]
-    - **Asana** — "Wednesday - tasks due soon: 1" [UNREAD]
-    - **Rippling** — "You just got paid! (7/1/26 - 7/22/26)" [UNREAD]
-  - **Technical/Web Tools & Analytics:** 4 messages (9%)
-    - **Gemini (Google Notes)** — "BST Internal Update Meeting" Jul 29, 2026 [IMPORTANT, UNREAD]
-    - **MonsterInsights** — "Your headlines and reports just leveled up" [UNREAD]
-    - **Elementor** — "[Release] Generate full Elementor pages in minutes" [UNREAD]
-    - **WordPress.com** — "Your WordPress community is bigger than you think" [UNREAD]
-  - **Marketing/Retail/Promotions:** 9 messages (19%)
-    - **Target** — "N-E-W in grocery—time for a restock run!"
-    - **Staples** — "Don't miss today's tip to EARN BIG"
-    - **BannerBuzz** — "Members only deal: 30% OFF + FREE Surprise Gift inside"
-    - **Artlist** — "$100K finalists & make your own in Claude"
-    - **ShopAFA** — "Summer Favorites: U.S. Thunderbirds Shirts" [IMPORTANT]
-    - **Verizon Business** — "Tired of empty promises?" [directed to paige.smith@bst.aero]
-    - **Zapier News** — "3 upgrades to your AI workflows"
-  - **Community/Nonprofit (NEW):** 1 message (2%)
-    - **All Roads!** (AllRoadsBoCo.org) — "Rock the Shelter is back! 🎸" [directed to info@blackswifttech.com]
-  - **Vendor/UAS Industry (RARE):** 1 message (2%)
-    - **Iqbal Osuli / Alternative Log LLC** — "Request for Best and Final Quote – UAS Target System Package" [BCC to undisclosed recipients; FORUMS category]
-    - **UAS Magazine** — "Deadline Approaching: Receive a FREE Listing in the 2026 UAS Industry Directory" [directed to info@blackswifttech.com]
+- **New batch composition (Jul 30-31, 2026):** ~92% automation/newsletters/promotions (61 of 66 messages)
+  - **Direct human correspondence:** 5 messages (8%)
+    - **Jack Elston** (elstonj@blackswifttech.com) — 3 messages on "Upcoming conferences" (threaded discussion with multiple back-and-forths Jul 30)
+    - **Paige Smith (outbound)** — 2 sent messages: "Re: Upcoming conferences" to Jack Elston; "Aug 3rd + AMS conference" to Sona Raziabeegum (krateosky.com) & pamkermisch@gmail.com
+  - **Aviation/Aerospace Industry Events (SURGE CONTINUES):** 3 messages (5%)
+    - **Mike Petrassi / Kallman Worldwide** — "Aero India 2027 USA Pavilion Registration is Open" [IMPORTANT]
+    - **Jade Christensen / Commercial UAV Expo** — Voting reminder for awards categories [IMPORTANT]
+    - **Kevin Tighe / Kallman Worldwide** — "USA Pavilion at MSPO 2026 Is Sold Out—But Your Brand Can Still Stand Out" [via media@blackswifttech.com]
+  - **Defense/Aerospace/UAS Intelligence (SUSTAINED):** 5 messages (8%)
+    - **UASweekly.com** — "Colonel Mietta Groeneveld on NATO's Race to Keep Pace with Modern Warfare" [IMPORTANT]
+    - **A&SF Daily Report** — "What USAF Is Doing to Defend Bases from Drone Attacks"
+    - **UAS VISION** (russ@uasvision.com) — "DAILY NEWS" [routed to Jack at media@blackswifttech.com]
+    - **Loitering Munitions Hub Newsletter** — "British Army tests loitering munition technology during NATO exercise in Estonia"
+    - **Unmanned Systems Technology** — "UST Newsletter Edition 178"
+  - **News & Intelligence Monitoring (ELEVATED):** 8 messages (12%)
+    - **The New York Times** (6 messages: Breaking Trump/Blanche nomination, U.S. economy growth, Morning Brief, Editor Picks on data deletion felony and jade rollers; Summer Sale promotional)
+    - **The Athletic Pulse** — "Five months of change in the NFL" [IMPORTANT]
+    - **LinkedIn News** — "DC airport set for $22B makeover"
+  - **Professional Networks & Intelligence:** 3 messages (5%)
+    - **LinkedIn** (3: Energy Drone & Robotics Coalition post [IMPORTANT]; Marketing Specialist job alerts; Christopher Robertson connection suggestion)
+    - **LinkedIn Groups** — "Global Space Tourism, Commercial Space & Defense Society" conversation digest
+  - **Business Tools/Admin:** 4 messages (6%)
+    - **Asana** — "Thursday - tasks due soon: 2" 
+    - **Rippling** — 4x duplicate notifications on "Insurance plan deductions in effect"
+    - **Google Calendar** — Appointment updates for "Google Support Tag Implementation Appointment" (updated, then canceled)
+  - **Technical/Web Tools & Analytics:** 4 messages (6%)
+    - **Framer** — "GPT 5.6 Terra and Luna now use 50% fewer credits" [IMPORTANT]
+    - **LottieFiles** — "Lottie Creator 2.0 is live! Your browser-based motion studio"
+    - **OpenAI** (2x) — New sign-in security alerts
+    - **Google** (2x) — Security alerts
+    - **Toggl Track** — Support notification (no subject)
+  - **Marketing/Retail/Promotions:** 13 messages (20%)
+    - **Target** — "New Hearth & Hand with Magnolia" [IMPORTANT]
+    - **Mt. Princeton Hot Springs Resort** — "Soak More. Explore More. Save More."
+    - **LinkedIn Jobs** — Hiring tips, invitation credits expiring soon
+    - **Zapier** — "3 reasons you can't miss ZapConnect"
+    - **MonsterInsights** — "Protect your users' privacy"
+    - **All in One SEO (Ben)** — "TruSEO biggest update ever"
+    - **Google Ads** — Campaign best practices reminder
+    - **MailerLite (Kasturi)** — "New triggers + easier Brand styles"
+    - **BannerBuzz** — "Essentials - 30 on 30"
+    - **Staples** — "Healthier, safer space" messaging
+  - **Specialized Industry Content (NEW VISIBILITY):** 2 messages (3%)
+    - **Agritecture Weekly** — "60-65 kg/m²/year Growing Spinach With Aeroponics"
+    - **Nutshell (Will Gordon)** — "The Shipping News for July" [to sales@blackswifttech.com]
+  - **Recruitment/HR (NEW):** 1 message (2%)
+    - **Hadley Solomon / Creative Alignments** — 3-message threaded discussion with Jack Elston on "Job Postings" [IMPORTANT] (Paige not directly on thread but Jack forwarded context; related to hiring)
+  - **Infrastructure/Vendor (RARE):** 1 message (2%)
+    - **Bisco Industries** — Stock check distributor message [routed to Josh at info@bst.aero/info@blackswifttech.com]
+  - **Bay Area AI Event (NEW):** 1 message (2%)
+    - **Bay AI Circle via Generic Information** — "Dine Alongside Fei-Fei Li, Jeff Dean & Global AI Leaders at Stanford next weekend" [routed to info@bst.aero]
 
-- **Pattern note:** Continued high-velocity intelligence monitoring (NYT breaking news surge); **NEW: Direct engagement with AUVSI (Association for Unmanned Vehicle Systems International)** on defense sector conference; Paige actively initiating and responding to industry partnership/event discussions; Jack forwarding specialized content (HurricaneCenter Podcast, AUVSI opportunities); Gemini Notes capture of internal BST meeting; sustained multi-domain monitoring (defense, energy, geospatial, aviation); rare vendor RFQ visibility (Alternative Log UAS target systems)
+- **Notable patterns:**
+  - **Active engagement with Jack Elston on conference strategy** (Jul 30: same-day multi-message thread on "Upcoming conferences")
+  - **New external contact: Sona Raziabeegum (krateosky.com)** — Coordinating Aug 3 + AMS conference logistics
+  - **Aero India 2027 & MSPO 2026 pavilion opportunities actively tracked** — multiple vendor outreach
+  - **Sustained dual-stream intelligence:** Defense/UAS content + NYT breaking news + specialized industry newsletters
+  - **Rippling duplicate message glitch** (4x same insurance notification) — potential system issue
+  - **Google Ads appointment interaction** (updated, then canceled Jul 30-31) — web/marketing infrastructure work
 
 ---
 
@@ -57,24 +71,20 @@
 ### Top Internal Senders & Collaborators
 
 **Jack Elston (elstonj@blackswifttech.com) — Leadership/Strategy/Operations/Business Development**
-- **New activity (Jul 29):**
-  - Forwarding AUVSI Defense Program opportunity with context: "Thought this might be relevant (AUVSI Defense Program in Nov)" — suggests strategic interest in defense sector conference participation
-  - Sharing HurricaneCenter Podcast episode (Joe Cione) — likely weather/environmental science relevance to wildfire/severe weather projects
-- **Pattern:** Flagging industry events and technical/scientific content for Paige's awareness; collaborative on defense/energy/climate sector opportunities
+- **New activity (Jul 30):**
+  - **"Upcoming conferences" thread (Jul 30, 3:29pm–5:15pm MDT):**
+    - Jack initiates: "Fwd: Upcoming conferences" (12:29pm MDT) [IMPORTANT]
+    - Paige responds (1:08pm MDT)
+    - Jack replies (2:01pm MDT) [IMPORTANT]
+    - Paige responds again (3:15pm MDT) [SENT]
+    - Jack final response (3:51pm MDT) [IMPORTANT]
+    - **Pattern:** Rapid back-and-forth on conference strategy; Jack curating external opportunities for Paige evaluation
+  - **Job Postings discussion (Jul 30, 12:29pm–1:23pm MDT):**
+    - Jack exchanging with Hadley Solomon (Creative Alignments) on hiring/postings [IMPORTANT]
+    - Suggests HR/recruitment activity underway at BST
+
+- **Inference:** Jack actively coordinating conference participation strategy and hiring logistics with Paige; conference attendance/sponsorship decisions require Paige's input
 
 ---
 
-### Top External Partners & Key Contacts
-
-**Alex Mann (amann@auvsi.org) — AUVSI [NEW, CRITICAL RELATIONSHIP]**
-- **Status:** Active business development engagement (Jul 29)
-- **New activity (Jul 29):**
-  - Paige initiates: "AUVSI Defense 2026" inquiry (11:33am MDT)
-  - Alex responds twice with immediate follow-up: "RE: AUVSI Defense 2026" (18:23 UTC, 21:15 UTC)
-  - Alex sends formal meeting request: "Meeting request: Blackswift & AUVSI" (21:15 UTC) [IMPORTANT]
-  - **Implication:** AUVSI is pursuing BST for partnership/sponsorship/exhibition at November defense event; high-priority business development opportunity
-- **Timeline:** Same-day multi-message engagement suggests urgent/significant opportunity
-
-**Meg Dworak (megd@kentwood.com) — Commercial Real Estate/Design [NEW CONTACT]**
-- **Status:** Real estate/workplace design consultation
-- **Activity (Jul 29):** Paige responds to "Luxury @ Work, a better approach to Commercial
+### Top External Partners &

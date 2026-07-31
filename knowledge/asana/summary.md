@@ -1,38 +1,24 @@
 # Asana Projects Overview
 
-Last scanned: 2026-07-30 02:12
+Last scanned: 2026-07-31 02:08
 
-Total projects scanned: 27
+Total projects scanned: 13
 
 ## Projects
 
-- **Flight Checklists** — 12 tasks — [flight_checklists.md](flight_checklists.md)
 - **Flight Testing** — 1 tasks — [flight_testing.md](flight_testing.md)
-- **SBIR - Volcano CCRPP** — 1 tasks — [sbir_-_volcano_ccrpp.md](sbir_-_volcano_ccrpp.md)
-- **[001-07] S3 IRAD** — 3 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-07] S3 IRAD** — 1 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
 - **[001-11] Methane Emission Detection IRAD** — 1 tasks — [001-11_methane_emission_detection_irad.md](001-11_methane_emission_detection_irad.md)
-- **[001-12] Customer Support** — 0 tasks — [001-12_customer_support.md](001-12_customer_support.md)
-- **[001-12] Log Parse Website** — 0 tasks — [001-12_log_parse_website.md](001-12_log_parse_website.md)
-- **[001-13] BD Pipeline** — 1 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
-- **[001-13] Corporate / Strategic Planning** — 1 tasks — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
-- **[001-13] General Operations** — 1 tasks — [001-13_general_operations.md](001-13_general_operations.md)
-- **[001-13] Investment** — 3 tasks — [001-13_investment.md](001-13_investment.md)
-- **[001-13] Marketing Goals Workflow** — 0 tasks — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
-- **[001-13] Purchasing** — 11 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[001-17] Aircraft Inventory Maintenance and Upgrades** — 0 tasks — [001-17_aircraft_inventory_maintenance_and_upgrades.md](001-17_aircraft_inventory_maintenance_and_upgrades.md)
-- **[005-1] BARBADOS VTOL S0 and Training ** — 4 tasks — [005-1_barbados_vtol_s0_and_training.md](005-1_barbados_vtol_s0_and_training.md)
-- **[012-2] ERAU VTOL S0** — 5 tasks — [012-2_erau_vtol_s0.md](012-2_erau_vtol_s0.md)
-- **[018-1] Murphy's Pond CH4 Monitoring** — 4 tasks — [018-1_murphys_pond_ch4_monitoring.md](018-1_murphys_pond_ch4_monitoring.md)
+- **[001-13] Accounting** — 5 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 2 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] General Operations** — 2 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] HR General ** — 1 tasks — [001-13_hr_general.md](001-13_hr_general.md)
+- **[001-13] Proposals** — 2 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 8 tasks — [001-13_purchasing.md](001-13_purchasing.md)
 - **[039-1] Refurbished S2 Oklahoma State** — 2 tasks — [039-1_refurbished_s2_oklahoma_state.md](039-1_refurbished_s2_oklahoma_state.md)
-- **[043-2] By Light Mustang** — 3 tasks — [043-2_by_light_mustang.md](043-2_by_light_mustang.md)
-- **[200-10] 2024-25 Aeropod (AREN) ** — 0 tasks — [200-10_2024-25_aeropod_aren.md](200-10_2024-25_aeropod_aren.md)
-- **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
-- **[200-12] NASA AREN '25** — 1 tasks — [200-12_nasa_aren_25.md](200-12_nasa_aren_25.md)
-- **[212-2] NASA S2 & Parts** — 2 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 1 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 5 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 - **[301-2] SBIR - Hurricane Phase II+** — 1 tasks — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
 - **[301-3] S0 Hurricane Phase II - 2025** — 2 tasks — [301-3_s0_hurricane_phase_ii_-_2025.md](301-3_s0_hurricane_phase_ii_-_2025.md)
-- **[452-2] S2 Simulator & used E2 Battery** — 0 tasks — [452-2_s2_simulator_used_e2_battery.md](452-2_s2_simulator_used_e2_battery.md)
 
 ## Strategic Summary
 
@@ -42,81 +28,77 @@ Total projects scanned: 27
 
 | Metric | Value |
 |--------|-------|
-| **Total Active Project Value** | ~$4.1M |
-| **High-Priority/At-Risk Projects** | 3 |
-| **Overdue Deliverables** | 2 |
-| **Team Allocation Status** | Moderate strain; ISARRA Flight Week critical path |
+| **Total Identified Project Value** | ~$4.2M+ |
+| **Active Major Projects** | 8 |
+| **Archived/Completed Projects** | 2 |
+| **Open Tasks** | 15+ |
+| **Critical Deadline Status** | 🔴 Immediate attention required |
 
 ---
 
-## Key Active Projects (by value)
+## Key Active Projects
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA UxSOC | $1,111,000 | 🟢 Active (Option 2 expanded) | Ongoing delivery |
-| **[301-3] S0 Hurricane Phase II** | NOAA/Univ. Miami | $1,700,000 | 🟢 Active | Aug 25, 2026 |
-| **[212-2] NASA S2 & Parts** | NASA Ames | $89,844 | 🟢 Active | On track |
-| **[018-1] Murphy's Pond CH4** | Murray State Univ. | $86,863 | 🟡 Limited activity | Dec 31, 2026 (funding expires) |
-| **[043-2] By Light Mustang** | By Light Professional IT | $450,000 | 🟢 Active | Oct 2025 (check status) |
-| **[001-11] Methane Emission IRAD** | Internal R&D | $1M target | 🚨 Under review | Strategic scope uncertain |
+### High-Value Revenue Projects
+1. **[301-3] S0 Hurricane Phase II – 2025** ($1.7M)
+   - Client: NOAA/University of Miami
+   - **Extended through August 25, 2026**
+   - **Critical deadlines**: July 1 & July 31, 2026 (systems delivery, controller, training)
+   - Status: Active, on track
 
----
+2. **[300-3] 2026 IDIQ (Hurricane)** ($1.111M)
+   - Client: NOAA UxSOC
+   - Option 2 enacted July 2026: +$628K for 34 additional S0s
+   - Status: Active expansion phase
 
-## Risk Areas & Issues
+3. **[001-11] Methane Emission Detection IRAD** (~$1M target investment)
+   - Status: 🚨 **Strategic scope under immediate review** (July 27–28, 2026)
+   - Pilot testing active; engagement with Crowheart Energy ongoing
+   - Annual Report 2025 due September 1, 2026
 
-### 🚨 Critical
-1. **[452-2] S2 Simulator & Battery (CU Boulder)** – **OVERDUE** (due Jun 30, 2026)
-   - E2 battery stuck in Mexican customs; authorization pending (Meredith O'hara Needham approval required)
-   - S2 Simulator shipment status unknown
-
-2. **[001-13] Purchasing** – **11 open tasks; 1 OVERDUE** (Jul 22, 2026)
-   - Task count increased from 8; deadline crunch across multiple projects
-   - Impacts all active projects
-
-3. **[001-11] Methane Emission IRAD** – **Strategic scope under immediate review**
-   - Per Maciej Stachura (Jul 27–28, 2026): KS Tech Sync discussion ongoing
-   - Status uncertain pending outcome
-
-### 🟡 Moderate Concern
-- **[018-1] Murphy's Pond** – Flight #4 postponed indefinitely (Jul 22, 2026); funding expires Dec 31, 2026
-- **[043-2] By Light Mustang** – Confirm current progress; original due date requires verification
-- **Contact updates needed** – Isaac Anderson (NASA Ames) has moved on; route inquiries to Randy Hobbs or Will Wade
+### Internal R&D Projects
+4. **[001-07] S3 IRAD** – Recently completed major milestones
+   - S3 First Article (Mexico): ✅ April 28, 2026
+   - Flight Control Tuning: ✅ May 8, 2026
+   - Canada Demo Support & CJFC Arctic Demo: ✅ June 18–19, 2026
 
 ---
 
-## Upcoming Deadlines (Next 60 Days)
+## Risk Areas & Operational Concerns
 
-| Date | Project | Deliverable |
-|------|---------|-------------|
-| **Aug 25, 2026** | [301-3] S0 Hurricane Phase II | Contract extension expires |
-| **Aug/Sep 2026** | ISARRA Flight Week | S0 VTOL units delivery (2 flights scheduled; $21,181.81 revenue) |
-| **Dec 31, 2026** | [018-1] Murphy's Pond | Funding expires (Flight #4 on hold) |
+| Risk Area | Status | Notes |
+|-----------|--------|-------|
+| **[001-13] Purchasing** | 🔴 Critical | 8 open tasks; immediate deadlines Jul 30–31 & Aug 1, 2026 |
+| **[001-13] Accounting** | ⚠️ High | Monthly/quarterly cycle; Jul 31 & Aug 7 deadlines active; Q3 wage reporting due Oct 3 |
+| **[001-11] Methane IRAD** | 🚨 Strategic | Scope under review; may impact resource allocation |
+| **EAR/ECCN Classification** | ⚠️ Pending | S3 export classification required (Dan Prendergast) |
 
 ---
 
 ## Team Allocation Patterns
 
-- **Core Flight Ops**: Ethan Domagala, Daniel Prendergast (ISARRA critical path)
-- **NASA/Government Contracts**: Randy Hobbs, Will Wade, Matthew Fl., multiple staff
-- **Admin/Logistics Bottleneck**: Purchasing (11 open tasks); Meredith O'hara Needham (customs clearance approvals)
-- **R&D/Strategic**: Maciej Stachura (Methane IRAD review), Jack Elston (overall ownership)
+- **Meredith O'hara Needham** – Finance/HR backbone (Accounting, Purchasing, HR, Operations)
+- **Dan Prendergast** – Business development & regulatory (Proposals, ECCN classification, BD Pipeline)
+- **Nate Straus** – Flight testing & operations (Flight Testing, soil moisture data collection)
+- **Beck Cotter, Jack Elston, Maciej Stachura** – Project leadership (S0/S3 programs, IRAD oversight)
 
 ---
 
-## Archived/Completed Projects (Reference)
-- [001-17] Aircraft Inventory Maintenance (Dec 2025)
-- [001-12] Log Parse Website (Oct 2025)
-- [301-2] SBIR Hurricane Phase II+ (Jan 2024)
-- [200-10] Aeropod AREN (Mar 2025)
-- [039-1] Refurbished S2 Oklahoma State (Oct 2025)
-- [200-11] Persistence Demo NASA (Nov 2025)
-- [200-12] NASA AREN '25 (shut down Aug 2025)
+## Upcoming Critical Deadlines
+
+| Date | Task/Milestone | Project | Owner |
+|------|----------------|---------|-------|
+| **Jul 30–31, 2026** | Purchasing operations | [001-13] | Multiple |
+| **Jul 31, 2026** | Monthly P&L, Controller delivery | [001-13], [301-3] | Meredith, Team |
+| **Aug 1, 2026** | Purchasing close-out | [001-13] | TBD |
+| **Aug 7, 2026** | Payroll & fundraising reports | [001-13] | Meredith |
+| **Aug 25, 2026** | S0 Hurricane Phase II contract end | [301-3] | TBD |
+| **Sep 1, 2026** | Methane IRAD Annual Report 2025 | [001-11] | TBD |
+| **Oct 3, 2026** | Q3 wage reporting | [001-13] | Meredith |
 
 ---
 
-## Recommendations
-1. **Resolve purchasing backlog immediately** – 11 open tasks impacting all active projects
-2. **Clear customs authorization for [452-2]** – CU Boulder delivery overdue; prioritize Meredith O'hara approval
-3. **Clarify [001-11] Methane IRAD scope** – Strategic review outcome needed to reset timeline/resource allocation
-4. **Protect ISARRA Flight Week critical path** – Aug/Sep 2026 delivery is key revenue milestone; ring-fence team resources
-5. **Monitor [018-1] Flight #4 decision** – Clarify whether postponement is temporary or permanent; plan cash flow impact
+## Key Observations
+
+✅ **Strengths**: Strong revenue pipeline ($3.8M+ in active contracts); successful S3 IRAD completion; NOAA relationship expansion  
+⚠️ **Attention Required**: Purchasing & accounting task backlog; Methane IRAD scope uncertainty; export control classification pending  
+🔄 **Momentum**: July 2026 IDIQ Option 2 expansion signals market traction; multiple proposals in flight (DevX Autonomy, NOAA/NASA 777)
