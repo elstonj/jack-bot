@@ -4,12 +4,12 @@
 - Client: INSTAAR (University of Colorado)
 - Active: Yes
 - Billable: No
-- Total hours tracked: 24.4 hours
+- Total hours tracked: 27.1 hours
 
 ## Team Allocation
-- Nate: 12.9 hours (53%)
-- Jack Elston: 6.0 hours (25%)
-- Sam Hild: 5.5 hours (23%)
+- Nate: 12.9 hours (48%)
+- Jack Elston: 6.0 hours (22%)
+- Sam Hild: 8.2 hours (30%)
 - Primary contributor: Nate
 
 ## Activity Timeline
@@ -21,11 +21,12 @@
 - Nate (2.5h) — Build
 - Nate (3.8h) — Build
 - Sam Hild (5.5h) — Motor Breaking Bug
+- Sam Hild (2.7h) — Motor Breaking Bug *(recent)*
 
 ## Insights
-- Work spans three domains: flight testing, student payload integration, hardware build, and now motor system debugging
-- **New contributor**: Sam Hild has joined the project with focus on troubleshooting motor systems (5.5h on motor breaking bug)
-- Build phase remains significant (9.8 hours total, 40% of tracked time), though slightly reduced as a proportion with new debugging work
-- Jack Elston continues flight test operations and payload interface support (6.0h static)
-- Nate remains primary contributor but percentage share has dropped from 68% to 53% with expanded team
-- Project expanding in scope: now includes motor system debugging/repair work in addition to build and integration
+- Work spans three domains: flight testing, student payload integration, hardware build, and motor system debugging
+- **Sam Hild's focus**: Ongoing motor system troubleshooting with 8.2 cumulative hours (30% of project time), indicating a persistent or complex issue requiring sustained attention
+- Build phase remains core work (9.8 hours, 36% of tracked time)
+- Jack Elston maintains flight test operations and payload interface support (6.0h static)
+- Nate's percentage share now at 48% with expanded team capacity
+- Project scope consolidating around motor system reliability as primary current blocker

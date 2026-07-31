@@ -4,26 +4,24 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 738.0 hours (725.9h + 12.1h)
+- **Total hours tracked:** 741.6 hours (738.0h + 3.6h)
 
 ## Team Allocation
-- **Nate:** 275.7 hours (37.34%) — *no change*
-- **Jack Elston:** 158.5 hours (21.47%) — *+7.0h*
-- **Stachura:** 132.2 hours (17.91%) — *+2.9h*
-- **Spencer Hoehl:** 59.0 hours (8.00%)
-- **Ethan Domagala:** 49.9 hours (6.76%)
-- **Sam Hild:** 43.9 hours (5.95%) — *+2.1h*
-- **Kareem Ahmed:** 16.4 hours (2.22%)
+- **Nate:** 275.7 hours (37.18%) — *no change*
+- **Jack Elston:** 158.5 hours (21.38%) — *no change*
+- **Stachura:** 132.2 hours (17.82%) — *no change*
+- **Spencer Hoehl:** 62.6 hours (8.44%) — *+3.6h*
+- **Ethan Domagala:** 49.9 hours (6.73%)
+- **Sam Hild:** 43.9 hours (5.92%)
+- **Kareem Ahmed:** 16.4 hours (2.21%)
 - **Alex:** 8.0 hours (1.08%)
-- **Josh Fromm:** 5.0 hours (0.68%)
+- **Josh Fromm:** 5.0 hours (0.67%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
-### Most Recent Work (Current Batch — 12.1h)
-- **Jack Elston** - Log processing (7.1h total: 1.0h + 3.8h + 2.3h)
-- **Sam Hild** - Autopilot Rework/Debugging (2.1h)
-- **Stachura** - No description provided (2.9h total: 1.7h + 1.2h)
+### Most Recent Work (Current Batch — 3.6h)
+- **Spencer Hoehl** - No description provided (2.4h + 1.2h)
 
 ### Prior Work Patterns
 Project history includes extensive work on:
@@ -34,49 +32,43 @@ Project history includes extensive work on:
 - Mag calibrations, tag-ups, launch parameters (Jack)
 - Deployment tube, PSNS QC (Sam)
 - Sonde QC (Sam)
+- Log processing (Jack Elston)
+- Autopilot Rework/Debugging (Sam Hild)
 
 ## Insights
 
 ### Work Types (Current Batch)
-- **12.1 hours submitted; 9.2h (75.9%) documented**
-- **Jack Elston:** 7.1h Log processing (consolidated work type across 3 entries)
-- **Sam Hild:** 2.1h Autopilot Rework/Debugging (new work type)
-- **Stachura:** 2.9h undescribed (23.97% of batch)
+- **3.6 hours submitted; 0h documented**
+- **Spencer Hoehl:** 3.6h undescribed (two entries: 2.4h + 1.2h)
 
 ### Documentation Status
-- **Current batch:** 9.2h documented / 12.1h submitted = **75.9% compliance** (+8.5 percentage points from prior batch)
-- **Overall project:** 212.5h documented / 738.0h total = **28.80% documented** (+0.79 percentage points)
-- **Undescribed backlog:** 525.5h (71.20% of project)
-  - **Nate:** 267.7h undescribed (97.10% of Nate's work) — *no change* ⚠ **STILL CRITICAL**
-  - **Jack Elston:** 151.4h undescribed (95.63% of Jack's work) — *+0.7h undescribed* — **slight regression**
-  - **Stachura:** 129.3h undescribed (97.81% of Stachura's work) — *+2.9h undescribed* ⚠ **REGRESSED**
-  - **Spencer Hoehl:** 59.0h undescribed (100% of Spencer's work) — no change
-  - **Ethan Domagala:** 42.7h undescribed (85.57% of Ethan's work) — no change
-  - **Sam Hild:** 41.8h undescribed (95.22% of Sam's work) — *-2.1h undescribed* ✓ **IMPROVED**
-  - **Kareem Ahmed:** 6.5h undescribed (39.63% of Kareem's work) — no change
-  - **Alex:** 8.0h undescribed (100% of Alex's work) — no change
+- **Current batch:** 0h documented / 3.6h submitted = **0% compliance** — *SHARP REGRESSION from 75.9% prior batch*
+- **Overall project:** 212.5h documented / 741.6h total = **28.64% documented** — *slight decline*
+- **Undescribed backlog:** 529.1h (71.36% of project)
+  - **Nate:** 267.7h undescribed (97.10%) — *no change* ⚠ **STILL CRITICAL**
+  - **Jack Elston:** 151.4h undescribed (95.63%) — *no change*
+  - **Stachura:** 129.3h undescribed (97.81%) — *no change* ⚠ **STILL CRITICAL**
+  - **Spencer Hoehl:** 62.6h undescribed (100%) — *+3.6h undescribed* ⚠ **NEW REGRESSION**
+  - **Ethan Domagala:** 42.7h undescribed (85.57%)
+  - **Sam Hild:** 41.8h undescribed (95.22%)
+  - **Kareem Ahmed:** 6.5h undescribed (39.63%)
+  - **Alex:** 8.0h undescribed (100%)
 
 ### Patterns & Insights
 
-**Continued Documentation Improvement:**
-- **Current batch 75.9% documented** — sustains rebound from prior 67.4%
-- **Sam Hild now 95.22% overall compliance** — Autopilot Rework/Debugging represents consistent new documented work type
-- Jack Elston's "Log processing" consolidation suggests standardization of recurring task
+**New Regression — Spencer Hoehl:**
+- **3.6h completely undescribed** — first documented batch from Spencer in this tracking cycle
+- Spencer now at **100% undescribed (62.6h total)** — joins critical failure cohort with Nate, Stachura, and Alex
+- Pattern suggests Spencer may not be documenting work or submitting bulk entries without descriptions
 
-**Regression Alert — Stachura:**
-- **2.9h undescribed entries in current batch** — first documented undescribed submissions from Stachura in recent batches
-- Total undescribed now 129.3h (97.81% of his 132.2h work)
-- Pattern mirrors Nate's problematic behavior; **requires immediate attention**
+**Current Batch Collapse:**
+- **0% documentation compliance** — sharp drop from 75.9% prior batch
+- Indicates **inconsistent entry practices across team**; suggests need for systematic process improvement
 
-**Jack Elston Mixed Signal:**
-- **7.1h well-documented as "Log processing"** — positive consistency
-- BUT: Still carries 151.4h undescribed (95.63% of total)
-- Slight regression (+0.7h undescribed) suggests backlog is not being cleared despite current batch documentation
-
-**Nate Unchanged — Escalation Status:**
-- **267.7h undescribed (51.2% of project backlog)** — no movement from prior batches
-- Remains at 3.0h undescribed from two batches ago; **no remediation activity observed**
-- **CRITICAL: Requires immediate management escalation**
+**No Movement on Critical Backlogs:**
+- **Nate remains at 267.7h undescribed** — no remediation in 4+ batches; escalation still pending
+- **Stachura remains at 129.3h undescribed** — regression from prior batch still unaddressed
+- **Combined critical backlog (Nate + Stachura):** 397.0h (53.5% of entire project backlog)
 
 ---
 
@@ -84,6 +76,13 @@ Project history includes extensive work on:
 
 **IMMEDIATE PRIORITY ACTIONS:**
 
-1. **ESCALATE Nate — CRITICAL.** 267.7h undescribed (51.2% of entire project backlog). No improvement over 3+ batches. This represents a **management/compliance failure**. Suspend new hour acceptance pending retroactive documentation of at least 50% of backlog.
+1. **ESCALATE REQUIRED — Spencer Hoehl.** 3.6h undescribed in first active batch. 100% compliance failure across all 62.6h assigned to Spencer. Requires immediate inquiry: Is Spencer documenting work separately? Is there a process breakdown?
 
-2. **ADDRESS Stachura's regression IMMEDIATELY.** 2.9h undescribed in current batch breaks recent pattern of minimal submissions. Now at 129.3h undescribed (97.81% compliance failure). Requires same escalation track as Nate.
+2. **ENFORCE NATE & STACHURA ESCALATION.** Both remain unchanged with 397.0h combined undescribed hours. **No management action has been executed.** Recommend:
+   - Immediate directive requiring retroactive documentation of at least 50% of backlog
+   - Hold on new hour acceptance until compliance improves
+   - Weekly status check-ins
+
+3. **IMPLEMENT BATCH-ENTRY QUALITY GATE.** Current batch (0%) vs. prior batch (75.9%) volatility indicates inconsistent documentation practices. Recommend requiring descriptions **at time of entry** rather than retroactive batch processing.
+
+4. **Monitor Spencer Hoehl closely.** Establish same escalation track if Spencer continues undescribed entries in next batch.

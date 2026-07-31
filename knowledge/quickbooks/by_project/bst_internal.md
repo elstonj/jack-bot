@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,345,258.90 *(+$8,327.62 from July 29–30, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,353,586.52 *(+$5,439.78 from July 30, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,322,364.54 *(expenses exceed revenue significantly)*
-- **Date Range**: April 5, 2024 – July 30, 2026 (27+ months)
-- **Transaction Count**: 1,325 *(+5 new confirmed transactions)*
+- **Net Position**: -$1,330,692.16 *(expenses exceed revenue significantly)*
+- **Date Range**: April 5, 2024 – July 31, 2026 (27+ months)
+- **Transaction Count**: 1,328 *(+3 new confirmed transactions)*
 
 ---
 
@@ -68,29 +68,36 @@
   - **Strategic Context**: Indicates continued S3 VTOL production scaling; supports inventory buildup for sales fulfillment pipeline
   - **Timing**: Aligned with post-Ottawa demo production acceleration and customer demand preparation
 
-**Cumulative Materials Spend (July 2024–30)**: $533,609.94 *(includes new 7/29 inventory and IDIQ materials)*
+**Cumulative Materials Spend (April 2024–July 31)**: $533,609.94
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $100,399.21
-**Total: $100,399.21** | **124 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
+### IRAD Indirect R&D (Subcontractors & Internal): $100,481.90
+**Total: $100,481.90** | **126 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
 
 **New Transactions (July 30, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
+| Purchase #440890471 | 2026-07-30 | $64.48 | IRAD-Internal Research and Development | Overnight shipment to Summit Assembly | ✓ Confirmed |
 | Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
 
-**July 30 IRAD Addition**: $19.69 (1 transaction)
+**July 30 IRAD Addition**: $84.17 (2 transactions)
 
 **Transaction Details**:
+
+- **Overnight Shipment to Summit Assembly (July 30, $64.48)**: Expedited logistics/shipping charge for critical research or production component delivery
+  - **Request Authority**: S. Hild (verbal shipment request)
+  - **Recipient**: Summit Assembly (external assembly partner or vendor)
+  - **Classification**: IRAD-Internal R&D (classified as research logistics support)
+  - **Strategic Context**: Indicates time-sensitive component or subsystem movement supporting active R&D workstream; aligns with post-Ottawa demo accelerated development cycle; may relate to S3 VTOL subsystem testing or integration
 
 - **S3 Shipment Pick-up Fee (July 30, $19.69)**: Logistics/handling charge for field deployment component delivery
   - **Recipient**: Sean Cole (field operations team)
   - **Equipment**: S3 VTOL unit or subsystem components (shipped July 6, 2026)
   - **Strategic Context**: Supports post-Ottawa demo field testing or customer evaluation activities; aligns with S3 production ramp and field operations expansion
 
-**Cumulative IRAD Activity (July 2024–30)**: $4,037.44 *(including 7/27 JAWSTEC $1,183.51, 7/30 pick-up fee $19.69, and prior cumulative total)*
+**Cumulative IRAD Activity (April 2024–July 31)**: $100,481.90 *(includes 7/30 shipment logistics and pick-up fees, plus prior cumulative total)*
 
 ---
 
@@ -125,40 +132,12 @@
     - Field trial support for potential integrations with third-party systems
   - **Strategic Context**: Supports expanded customer engagement and product demonstration pipeline; aligns with post-Ottawa demo acceleration of sales and technical evaluation activities
 
-**Cumulative S&M Activity (July 2024–30)**: $8,120.74 *(includes new 7/29 Raspberry Pi purchase)*
+**Cumulative S&M Activity (April 2024–July 31)**: $8,120.74
 
 ---
 
-### Inventory Asset (S3 Sales, S0 VTOL, & S2 Production Scaling): $42,909.62
-**Total: $42,909.62** | **66 transactions** | **Largest: S3 inventory components, S0 VTOL components, structural components**
-
-**New Transactions (July 29, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #0728JELSTON | 2026-07-29 | $8.61 | Inventory Asset | Future S3 Sales | ✓ Confirmed |
-| Purchase #65720628 | 2026-07-29 | $2,574.03 | Inventory Asset | Future S3 Sales — Amazon backorder substitution (3 × $858.01) | ✓ Confirmed |
-
-**July 29 Inventory Addition**: $2,582.64 (2 transactions)
-
-**Transaction Details**:
-
-- **S3 Inventory Component (July 29, $8.61)**: Minor inventory allocation for future S3 sales production
-  - **Approval**: J. Fromm (direct purchase)
-  - **Application**: S3 VTOL production line inventory
-  - **Strategic Context**: Part of broader S3 production scaling and inventory buildup cycle
-
-- **Future S3 Sales Inventory (July 29, $2,574.03)**: *(See Materials & Direct Purchases section above for full details)*
-  - Bulk component purchase for S3 VTOL production; three identical $858.01 line items
-  - Amazon backorder substitution; supplier change indicates procurement agility
-  - Aligned with post-Ottawa demo production acceleration
-
-**Cumulative Inventory Spend (July 2024–30)**: $42,909.62 *(includes new 7/29 allocations)*
-
----
-
-### Facilities & Shop Supplies: $159,544.27
-**Total: $159,544.27** | **82 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $63,690.42; Server Infrastructure: $26,776.55; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; New Server: $5,355.31; Thermal Camera: $599.00; Crimping Tools: $749.94; PTFE Wire (shop allocation): $489.44*
+### Facilities & Infrastructure: $164,915.91
+**Total: $164,915.91** | **84 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $63,690.42; Server Infrastructure & Compute: $32,131.86; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; Thermal Camera: $599.00; Crimping Tools: $749.94; PTFE Wire (shop allocation): $489.44*
 
 **New Transactions (July 29–30, 2026):**
 
@@ -173,3 +152,16 @@
 
 - **Shop Supplies Allocation (July 29, $16.33)**: Minor shop consumables or supplies allocation
   - **Classification**: Facilities/shop supplies
+  - **Application**: General shop maintenance and consumables replenishment
+
+- **Office Server Ryze AI Max+ 395 — 64GB x 2 (July 30, $5,355.31)**: High-performance compute server acquisition
+  - **Classification**: Facilities/office infrastructure (IT equipment, compute resources)
+  - **Specification**: Ryze AI Max+ 395 dual-socket configuration with 2 × 64GB memory modules = **128GB total RAM**
+  - **Request Authority**: Ben Busby (Slack request); discussed with Jack Elston
+  - **Strategic Context**: **URGENT infrastructure acquisition** aligns temporally with:
+    - July 6 Invest Ottawa $5,000 invoice (timing suggests grant/investment allocation earmarked for IT infrastructure)
+    - Post-Ottawa demo (July 14–19) acceleration of compute capacity
+    - Expanded S3 VTOL production and field operations demand (requiring edge computing resources, telemetry processing, autonomous system modeling)
+    - Potential customer evaluation or integration workload expansion
+  - **Significance**: This is the **largest single infrastructure investment** in the current reporting period; indicates critical compute bottleneck resolution or expansion for upcoming operational scaling
+  - **Prior Context**: Earlier server purchase (5/6/26, $5,355.31) suggests this represents a **second identical server unit** — indicates standardized

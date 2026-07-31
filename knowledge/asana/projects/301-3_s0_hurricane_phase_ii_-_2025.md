@@ -52,8 +52,8 @@
 ## Task Summary
 - **Total tasks:** 0 open, 2 completed
 - **Completed tasks (2 total):**
+  - Manufacturability improvements (Completed August 8, 2025)
   - Pre-funding tasks (Completed May 1, 2025)
-  - Manufacturability improvements (Completed August 8, 2025) — Airframe subject
 - **Discrepancy note:** Earlier data listed 23 open tasks with multiple assignees; current raw data shows 0 open, 2 completed. **Asana project appears to have been archived with tasks removed or archived alongside it.** Recommend reconciliation with team on actual work status vs. Asana record.
 - **Historical completion rate (April 2026):** 
   - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura ✅
@@ -62,8 +62,9 @@
 
 ## Recent Activity
 
-**Last Logged Update (December 10, 2025):**
-- Project moving forward; NOAA has $115K + $54K earmarked for extension/early part ordering or 3 UAS builds (status yet to be determined)
+**Latest Status Update (December 10, 2025):**
+- Project moving forward; NOAA has $115K + $54K earmarked for extension work
+- The $54K earmarked for early part ordering or 3 UAS builds (status: yet to be determined)
 - Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25) — represents significant follow-on opportunity beyond current Phase II contract
 - Funds also being added to current Hurricane contract for early part ordering or full UAS builds
 
@@ -81,19 +82,19 @@
 **Strategic Activity (April 2026):**
 - Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential expansion of government partnerships beyond NOAA for S0 platform
 
-**Current Status:** No activity logged beyond April 2026; project archived in Asana. **Critical:** Determine if project tracking has moved to different system or if task management is occurring outside Asana. With contract deadline of August 25, 2026 (~4 months away from latest known date), urgent clarification needed on current status of deliverables and training CLINs.
+**Current Status:** No activity logged beyond April 2026; project archived in Asana. **Critical:** Determine if project tracking has moved to different system or if task management is occurring outside Asana. With contract deadline of August 25, 2026, urgent clarification needed on current status of deliverables and training CLINs.
 
 ## Notes & Context
 
 ### Funding & Contract Status
 - **Extended contract:** Now runs through August 25, 2026 (6-month extension)
-- NOAA has **$115K + $54K earmarked** for extension/early part ordering or 3 UAS builds (status: yet to be determined per Dec 10, 2025 update)
+- NOAA has **$115K + $54K earmarked** for extension work
 - First optional funding invoice ($121,650) submitted October 2025 for: 4 S0s, Hurricane Erin/Gabriella/Imelda deployment trips, support and Clear Air testing
 
 ### Strategic Partnerships & Follow-On Opportunities
-- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — suggests potential expansion of S0 platform beyond current NOAA hurricane program
+- **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract; funding also being added to current Hurricane contract for early part ordering or full UAS builds
 
 ### Technical Focus
 - S0 air-deployed hurricane platform with custom payload capabilities
-- Primary technical challenges: IAS (Indicated Airspeed)
+- Primary technical challenges: IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and potential aircraft loss

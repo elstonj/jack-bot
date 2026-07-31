@@ -1,59 +1,65 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 278 (230 previous + 48 new)
-- **Date range:** 18 Jul – 30 Jul 2026
+- **Total messages scanned:** 325 (278 previous + 47 new)
+- **Date range:** 18 Jul – 31 Jul 2026
 - **Approximate volume:** Sustained ultra-high intensity; 24-hour operational tempo across 6+ government/military fronts; multiple concurrent critical escalations; heavy procurement and scientific collaboration activity
 
 ## Key Correspondents
 
 ### Top Senders (Updated with New Data)
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED CRITICAL ROLE:** Continues strategic orchestration across all major initiatives; USPACOM FY27 Joint Warfighter Experimentation Campaign coordination (29 Jul); RSSI from Roof Test/NOAA team dialogue (29 Jul 08:11); MHP data alignment with Tanay Topac (Stanford) — multi-exchange (29 Jul 09:57–18:54); L-band drone flights dialogue continuing; Web-Enabled Employee Survey (29 Jul 09:39); Krateo Sky back-charges negotiation (29 Jul 15:49, 16:58, 22:50); Feral Hogs S3 project inquiry with Keven Gambold (Unmanned Experts) (29 Jul 15:33); direct involvement in recruiting coordination (29 Jul 10:46); Industrial Plan Work folder share to Maciej (29 Jul 21:13); "Taking you up on the open door" to Scott Wine (Krateo Sky) — NEW strategic dialogue (30 Jul 00:57)
+1. **Jack Elston** (elstonj@blackswifttech.com) — **SUSTAINED CRITICAL ORCHESTRATOR:** Continues strategic coordination across all major initiatives; USPACOM FY27, SOCOM demo, Krateo Sky negotiations, Navy check-ins, NOAA collaboration, ByLight opportunities (30 Jul 09:45, 10:11, 10:14, 12:18, 12:28, 12:39, 12:41, 17:31, 17:33, 23:33); formal calendar invitation for ByLight Opportunities meeting Friday Jul 31, 10:30am–11:15am MDT with full BST leadership team (30 Jul 23:33); recruiting coordination (Hadley Solomon dialogue on job position reports, 30 Jul 12:18–12:41)
 
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED OPERATIONAL LEADERSHIP:** SOCOM demo coordination with Bob Smith & Lisa Marie Cheney (Krateo Sky) (29 Jul 12:05, 12:04); USPACOM FY27 proposal dialogue with Jack Elston (29 Jul 12:04); Nightfox CAN bus configuration with Nathaniel Straus and Michael Rhodes (Colorado) (29 Jul 11:32, 11:49, 22:34); New M2 opportunity dialogue with ByLight (William O'Neill, Bryan Sparling) (29 Jul 16:30, 17:09)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **ESCALATED OPERATIONAL LEADERSHIP:** CJFC Arctic UAS Estimate negotiation with Krateo Sky (Bob Smith, Lisa Marie Cheney) (30 Jul 11:20, 12:43, 19:43); included on all major strategic meetings and initiatives
 
-3. **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil) — **DIRECT MILITARY ENGAGEMENT:** NEW elevated frequency with Maciej; "[Non-DoD Source] Today's check-in" multi-exchange (29 Jul 15:46, 15:49, 21:36, 21:57); broad Navy team copy (Beck Cotter, Anthony D. Brescia, Daniel Prendergast, Jack Elston) (29 Jul 18:54)
+3. **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil) — **DIRECT MILITARY ESCALATION:** Sustained high-frequency dialogue with Maciej on "[Non-DoD Source] Today's check-in" and "[Non-DoD Source] Shipping Address for Bartington's Sensor" (30 Jul 12:15, 12:38, 12:47, 14:52, 15:16, 16:01, 16:14, 17:44, 17:46); also engaging directly with Jack Elston; indicates ongoing Navy technical/logistical coordination
 
-4. **Sona Raziabeegum** (sona@krateosky.com) — **STRATEGIC PARTNERSHIP ACTIVITY:** Back Charges from KS negotiation with Jack Elston, Brian Grubel, Maciej Stachura, Thibault Bridel-Bertomeu (29 Jul 15:49, 16:58, 22:50 IMPORTANT); escalating partnership financial/operational issues
+4. **Bob Smith** (Bob@krateosky.com) — **BOARD-LEVEL PARTNERSHIP – ESCALATING COMPLEXITY:** CJFC Arctic UAS Estimate meeting coordination (30 Jul 11:20, 12:43, 19:43); Market Research & Draft SOW Review for IDIQ Contract 1305M226D0012 (31 Jul 05:45); multiple BST team members copied (Maciej, Jack Elston, Beck Cotter, Daniel Prendergast, Joshua Fromm); suggests Krateo Sky partnership deepening across multiple contract vehicles
 
-5. **Tanay Topac** (tanaytopac@stanford.edu) — **NEW CRITICAL ACADEMIC ENGAGEMENT:** MHP data alignment — sustained multi-exchange dialogue with Jack Elston (29 Jul 09:57, 12:01, 12:55, 15:48, 17:41, 18:44, 19:04); appears to be real-time technical/scientific collaboration
+5. **Bryan Sparling** (bryan.sparling@bylight.com) — **NEW STRATEGIC ENGAGEMENT:** "Call Friday" escalation initiated (30 Jul 23:27); Jack Elston responded with formal calendar invite for "By Light Opportunities" meeting (30 Jul 23:33) with full BST leadership team including Maciej; also copied Michael Chandler (CESI Corp), William O'Neill, Nicholas Phillips, Justin Baltz (all ByLight)
 
-6. **Bob Smith** (Bob@krateosky.com) — **BOARD-LEVEL PARTNERSHIP:** BST SOCOM demo coordination — direct dialogue with Jack Elston and Daniel Prendergast (29 Jul 11:09, 11:31, 14:15 IMPORTANT); "Taking you up on the open door" escalation with Jack Elston (30 Jul 00:57)
+### Top Recipients
+- **Angel R. Ruiz-Reyes** (Navy NAWCAD) — Direct dialogue on sensor shipping and daily check-ins (30 Jul 10:29, 10:40)
+- **Lisa Marie Cheney / Bob Smith** (Krateo Sky) — "Random idea on strike drones" ideation exchange (30 Jul 12:28)
 
-7. **Laura Rock** - NOAA Federal (laura.rock@noaa.gov) — **ONGOING NOAA COLLABORATION:** RSSI from Roof Test coordination with Jack Elston (29 Jul 08:11, 08:46)
+### Internal vs External Breakdown
+- **Internal:** Jack Elston, Daniel Prendergast, Beck Cotter, Joshua Fromm (core BST leadership loop)
+- **External - Military/Gov:** Angel R. Ruiz-Reyes (Navy NAWCAD), Bradley Evans (Navy PAX), Anthony D. Brescia (Navy NAWCAD), Laura Rock (NOAA)
+- **External - Commercial:** Bob Smith, Lisa Marie Cheney, Sona Raziabeegum (Krateo Sky); Bryan Sparling, William O'Neill, Nicholas Phillips, Justin Baltz, Michael Chandler (ByLight/CESI); Trenton McKibben (NexTech Solutions)
 
-### Updated External Organizations
+### Key External Organizations (Updated)
 
-**Government/Military (Further Expanded)**
-- **US Navy (NAWCAD)** — Angel R. Ruiz-Reyes (CIV USN), Anthony D. Brescia (CIV USN) — ELEVATED FREQUENCY; Maciej now direct recipient/responder on Navy-coordinated messaging (29 Jul 15:46–21:57); broader multi-party Navy engagement visible (29 Jul 18:54)
-
-**Scientific/Research (Expanded)**
-- **Stanford University** — Tanay Topac — NEW intensive engagement on MHP (likely Meteorological/Hydrological Project or similar) data alignment; real-time active collaboration (29 Jul sustained multi-exchange)
-- **University of Colorado Boulder** — Michael Rhodes (michael.e.rhodes@colorado.edu) — Technical dialogue on Nightfox CAN bus configuration (29 Jul 22:34)
-- **NOAA Federal** — Laura Rock — Continuing RSSI/Roof Test technical coordination (29 Jul)
+**Government/Military (Sustained & Expanded)**
+- **US Navy NAWCAD** — Angel R. Ruiz-Reyes, Anthony D. Brescia, Bradley Evans — Bartington Sensor logistical coordination visible; "[Non-DoD Source]" labeling suggests sensitive Navy project framework (30 Jul multiple exchanges)
+- **NOAA Federal** — Laura Rock — RSSI from Roof Test technical dialogue (30 Jul 09:31)
 
 **Commercial/Strategic Partners (Updated)**
-- **Krateo Sky** — Sona Raziabeegum, Brian Grubel, Lisa Marie Cheney, Scott Wine, Bob Smith — FINANCIAL/OPERATIONAL STRESS: Back Charges negotiation active (29 Jul); SOCOM demo opportunity active; Jack Elston "taking open door" to Scott Wine suggests relationship escalation or negotiation (30 Jul 00:57)
-- **ByLight** — William O'Neill, Bryan Sparling — M2 opportunity NEW escalation to Daniel Prendergast (29 Jul 16:30–17:09)
-- **Unmanned Experts** — Keven Gambold (kagambold@unmannedexperts.com) — Feral Hogs S3 project inquiry (29 Jul 22:23)
-- **Alternative Logistics LLC** — Iqbal Osuli (orders@alternativelogllc.com) — UAS Target System Package quote request (29 Jul 17:15)
+- **Krateo Sky** — Bob Smith, Lisa Marie Cheney, Sona Raziabeegum — CJFC Arctic UAS Estimate, Market Research & Draft SOW Review for IDIQ Contract 1305M226D0012 (31 Jul); escalating partnership complexity suggesting multiple contract vehicles/scopes
+- **ByLight Solutions** — Bryan Sparling, William O'Neill, Nicholas Phillips, Justin Baltz — **NEW CRITICAL ENGAGEMENT:** Formal "By Light Opportunities" meeting scheduled Fri Jul 31, 10:30am–11:15am MDT; Jack Elston marked as organizer; full BST leadership attending (30 Jul 23:33)
+- **CESI Corp** — Michael Chandler (michael.chandler@cesicorp.com) — Involved in ByLight call coordination (30 Jul 01:34)
+- **NexTech Solutions** — Trenton McKibben — Engineering Sprint Status and Teams Meeting coordination (30 Jul 14:50)
 
-**Procurement/Logistics (Updated)**
-- **McMaster-Carr** — Invoice/order tracking (30 Jul 02:37)
-- **Amazon** — Shipping notifications (30 Jul 06:00)
-- **SkyGeek** — PPG Aerospace marketing (30 Jul 06:27)
-- **Aeronet** — Elisa Arellano (earellano@aeronet.com) — Invoice tracking 823121 (29 Jul 14:44–20:38)
+**Recruiting/HR Services**
+- **Creative Alignments** — Hadley Solomon (hadley.solomon@creativealignments.com) — Job Position reports / Interviews dialogue with Jack Elston (30 Jul 12:18–12:41); suggests active hiring pipeline
 
-**Special Events/Community**
-- **Tethered Aerosystems Event** — Large distribution list invitation (50+ recipients) for Friday July 31, 2026 12pm–2:30pm MDT; includes academic researchers, NASA/JPL personnel (marco.b.quadrelli@jpl.nasa.gov), Sandia National Labs (caruiz@sandia.edu, cmlongb@sandia.edu), NOAA (galen.scott@noaa.gov), university faculty, and private researchers; suggests tethered/kite-based aerosystems demonstration or conference (29 Jul 15:26)
+**Automated/Administrative**
+- **Rippling** — Insurance plan notifications (4x duplicate notifications 31 Jul 07:27)
+- **McMaster-Carr** — Invoice/receipt tracking (30 Jul 18:13, 31 Jul 02:28)
+- **Aeronet** — Invoice tracking (30 Jul 20:00)
+- **Amazon, SkyGeek, Frame.work** — Vendor/logistics notifications
+- **University of Notre Dame (SASC Watch)** — Conference notifications mailing list (30 Jul 14:27)
 
 ## Topic Patterns
 
-### Critical Mission Areas (Updated)
+### Critical Mission Areas (Updated with New Data)
 
-1. **SOCOM RFI S0 / SOCOM Demo Opportunity** — Intensifying: Krateo Sky (Bob Smith, Lisa Marie Cheney) directly engaged with Jack Elston and Daniel Prendergast on BST demo coordination (29 Jul 12:05, 11:09, 14:15); suggests imminent or near-term demonstration/qualification activity; financial/operational tensions with Krateo Sky visible (back charges 29 Jul)
+1. **CJFC Arctic UAS Estimate** — **ESCALATING:** Direct negotiation between Daniel Prendergast, Bob Smith (Krateo Sky), Lisa Marie Cheney, Jack Elston, Maciej Stachura (30 Jul 11:20–19:43); appears to be cost/scope estimation cycle; Krateo Sky is primary contractor vehicle
 
-2. **USPACOM FY27 Joint Warfighter Experimentation Campaign** — Active proposal coordination: Daniel Prendergast and Jack Elston multi-exchange (29 Jul 12:04–12:05); submissions NLT 07 Aug 2026 deadline approaching
+2. **IDIQ Contract 1305M226D0012 – Market Research & Draft SOW Review** — **NEW PRIORITY:** Krateo Sky (Bob Smith) forwarding market research and SOW draft to full BST leadership team (Jack Elston, Maciej Stachura, Beck Cotter, Joshua Fromm, Daniel Prendergast) (31 Jul 05:45); suggests new business development or task order competition under existing IDIQ
 
-3. **MHP Data Alignment (Stanford)** — **NEW PRIORITY TRACK:** Sustained technical dialogue between Jack Elston and Tanay Topac
+3. **ByLight Opportunities Meeting** — **NEWLY VISIBLE:** Formal meeting scheduled Fri Jul 31, 10:30am–11:15am MDT with Jack Elston, Maciej Stachura, Beck Cotter, Daniel Prendergast, Bryan Sparling, William O'Neill, Nicholas Phillips, Justin Baltz (ByLight), Michael Chandler (CESI); subject line suggests multiple opportunity discussions (30 Jul 23:33)
+
+4. **SOCOM Demo Opportunity** — Ongoing partnership tension with Krateo Sky; demo coordination still active background thread
+
+5. **Navy Sensor Logistics (Bartington's Sensor)** — "[Non-DoD Source]" shipping address coordination between Mac

@@ -4,23 +4,21 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-29",
-    "end": "2026-07-30"
+    "start": "2026-07-30",
+    "end": "2026-07-31"
   },
   "totals": {
-    "revenue": 72000.0,
-    "expenses": 9306.84,
+    "revenue": 306000.0,
+    "expenses": 15872.84,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8588.77,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34,
-      "FACILITIES:FA-Shop Supplies": 14.88,
-      "Inventory Asset": 7.85
+      "DIRECT COSTS:DC-Direct Material Purchases": 15177.5,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34
     }
   },
   "invoices": [
     {
       "type": "Invoice",
-      "date": "2026-07-30",
+      "date": "2026-08-14",
       "doc_number": "1741",
       "total": 72000.0,
       "attributed": 72000.0,
@@ -36,6 +34,75 @@
         },
         {
           "amount": 72000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-08-03",
+      "doc_number": "1776",
+      "total": 117000.0,
+      "attributed": 117000.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 117000.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 117000.0,
+          "account": "",
+          "description": "Invoice 3 of 3 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 117000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-08-03",
+      "doc_number": "1775",
+      "total": 58500.0,
+      "attributed": 58500.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 58500.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": "Invoice 2 of 3 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-08-03",
+      "doc_number": "1774",
+      "total": 58500.0,
+      "attributed": 58500.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 58500.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": "Invoice 1 of 3 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 58500.0,
           "account": "",
           "description": ""
         }
@@ -69,6 +136,24 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "",
+      "total": 6822.5,
+      "attributed": 6822.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "50% of total payment",
+      "lines": [
+        {
+          "amount": 6822.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "base model p400 radios x 40"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-07-30",
       "doc_number": "1010",
       "total": 8355.0,
@@ -82,34 +167,6 @@
           "amount": 8355.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 Deployment Tubes & Hardware"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-29",
-      "doc_number": "0728JELSTON",
-      "total": 281.44,
-      "attributed": 256.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 8.61,
-          "account": "Inventory Asset",
-          "description": "Future S3 Sales"
-        },
-        {
-          "amount": 16.33,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        },
-        {
-          "amount": 256.5,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ supplies"
         }
       ]
     }

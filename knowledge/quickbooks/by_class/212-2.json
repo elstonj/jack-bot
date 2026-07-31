@@ -4,15 +4,14 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-07-24",
-    "end": "2026-07-25"
+    "start": "2026-07-30",
+    "end": "2026-07-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 113.18,
+    "expenses": 7.99,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 97.25,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15.93
+      "DIRECT COSTS:DC-Direct Material Purchases": 7.99
     }
   },
   "invoices": [],
@@ -20,29 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-24",
-      "doc_number": "0724JELSTON",
-      "total": 3516.81,
-      "attributed": 113.18,
+      "date": "2026-08-03",
+      "doc_number": "",
+      "total": 7.99,
+      "attributed": 7.99,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. Note provided via Slack:\"I somehow messed up the mcmaster order - anything that does not have a tag for project is in fact for s0 hurricane, all the other stuff is labeled correctly.\"",
+      "memo": "",
       "lines": [
         {
-          "amount": 2908.74,
+          "amount": 7.99,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ supplies for extra 13 S0s"
-        },
-        {
-          "amount": 113.18,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "NASA S2 supplies"
-        },
-        {
-          "amount": 494.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SwiftStation supplies"
+          "description": "10pcs 6S 7Pins Balance Connector Male Plug Extension Cable"
         }
       ]
     }

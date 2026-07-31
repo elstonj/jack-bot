@@ -4,7 +4,7 @@
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
-  "receive_by": null,
+  "receive_by": "2026-09-30",
   "ship_to": "Embry-Riddle Aeronautical University\nAttn: Accounts Payable\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
   "items": [
     {
@@ -31,7 +31,7 @@
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
   "invoice_number": "1667",
-  "paid_date": null,
+  "paid_date": "2025-05-07",
   "parts": [
     {
       "name": "S0 VTOL airframe",
@@ -49,13 +49,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "2\u00d7 S0 VTOL units ordered and fully paid (Inv #1667, May 2025). Legal disclosure (May 2026) confirms BST experienced delays and intends settlement agreement with ERAU for additional compensation. Training was scheduled for June 2025 at BST. Earlier grant proposal (2024) was not funded; this is the commercial hardware order.",
+  "notes": "2\u00d7 S0 VTOL units fully paid (Inv #1667, May 2025, $21,181.81). Build complete; delivery targeted for Aug/Sep 2026 ISARRA Flight Week per May 2026 customer coordination. BST experienced delays; legal disclosure (May 2026) notes intent for settlement agreement. Training scheduled for June 2025 at BST. Earlier grant proposal (2024) was not funded; this is commercial hardware order. Additional Inv #1730 ($2,462.50, Jan 2026, unpaid) likely for follow-on items or supplementary work.",
   "missing_fields": [
-    "receive_by",
-    "ship_to",
     "shipped_date",
-    "build_state details"
+    "tracking_number"
   ],
-  "last_evidence_date": "2026-07-29",
-  "last_contact_date": null
+  "last_evidence_date": "2026-07-30",
+  "last_contact_date": "2026-05-21"
 }

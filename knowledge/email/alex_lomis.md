@@ -1,122 +1,88 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 92 emails (57 previous + 35 new)
-- **Date range:** 24 Jul 2026 – 30 Jul 2026 (7 days)
-- **Volume:** High transactional/automated (~70%), human-to-human correspondence (~30%)
-- **Pattern consistency:** Sustained NOAA partnership engagement, expanding procurement activity (Samsung, JawsTec, Aeronet), internal coordination on technical program execution
+- **Total messages scanned:** 133 emails (92 previous + 41 new)
+- **Date range:** 24 Jul 2026 – 31 Jul 2026 (8 days)
+- **Volume:** High transactional/automated (~75%), human-to-human correspondence (~25%)
+- **Pattern consistency:** Sustained NOAA partnership engagement, accelerating procurement activity (McMaster-Carr, Spindrift Market, SendCutSend), new strategic vendor outreach (CR Systems, JuggerBot3D, RapidDirect), Navy/SBIR program coordination
 
 ## Key Correspondents
 
 ### Senders (by frequency)
-1. **Purchasing@blackswifttech.com** (forwarding vendor notifications) — 22+ emails
-2. **Jack Elston (elstonj@blackswifttech.com)** — 7 emails total (product leadership, NOAA coordination, S0 Checklists)
-3. **Vendor notifications (automated):**
-   - **McMaster-Carr** — 4 orders (Jul 28–29) — sustained component procurement
-   - **Samsung USA** — 3 emails (business account setup, tax exemption, order confirmation #US260729-65720628)
-   - **HeliDirect, Harbor Freight, Battery Junction, SkyGeek, uAvionix** — promotional/sales
-4. **NOAA Federal direct contacts:**
-   - **Nick Underwood (nicholas.underwood@noaa.gov)** — S0 Checklists v4.0 coordination (29 Jul)
-   - **Laura Rock (laura.rock@noaa.gov)** — RSSI from Roof Test (29 Jul)
-5. **External vendors/partners:**
-   - **Elisa Arellano (Aeronet) (earellano@aeronet.com)** — Invoice 823121 discussion (3-email thread, 29 Jul)
-   - **JawsTec (info@jawstec.com)** — Shipment notification (29 Jul)
-   - **Luka (Grepow) (luka@grepow.com)** — Battery product inquiry response (29 Jul)
-   - **Olivia Bakos (Nominal.io) (olivia.bakos@nominal.io)** — Sales inquiry (29 Jul)
-   - **Hadley Solomon (Creative Alignments)** — Calendar reminder + appointment confirmation (culture assessment, scheduled 30 Jul 1:30pm MDT)
+1. **Purchasing@blackswifttech.com (forwarding vendor notifications)** — 28+ emails
+   - **Vendor shipment tracking:** McMaster-Carr (5 new), Spindrift Market (4), SendCutSend (1)
+   - **Automated vendor alerts:** Vaisala, Daniels Manufacturing, Pirate Ship, thinh nguyen (supplier management)
+2. **McMaster-Carr (transactional)** — 5 new emails (Jul 30–31)
+   - **Pattern:** Daily orders sustained; Jul 30th order confirmed with tracking & certificate
+3. **Jack Elston (elstonj@blackswifttech.com)** — Continued NOAA coordination
+   - **RSSI from Roof Test** — Email thread continuing through Jul 30 (09:31 MDT)
+4. **NOAA Federal direct contacts (ongoing technical partnership):**
+   - **Nick Underwood (nicholas.underwood@noaa.gov)** — RSSI coordination (Jul 30, 08:16 EDT)
+   - **Laura Rock (laura.rock@noaa.gov)** — RSSI thread (Jul 30, 10:14 EDT)
+5. **Navy/DoD Contacts (New/Escalated Activity):**
+   - **Bradley Evans (bradley.evans8.civ@us.navy.mil)** — Bartington's Sensor shipping coordination (3 emails, Jul 30)
+   - **Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil)** — Sensor shipment coordination (2 emails, Jul 30)
+   - **Anthony D. Brescia (anthony.d.brescia.civ@us.navy.mil)** — SBIR Mag Tag-up meeting invite (Jul 30)
+6. **Maciej Stachura (stachura@blackswifttech.com)** — Navy liaison/SBIR program lead
+   - **SBIR Mag Tag-up meeting invite** — Tue Aug 4, 10am–11am MDT (Jul 30, 16:34 UTC)
+   - Coordinating Bartington sensor shipment with Navy contacts
+7. **Direct Vendor Outreach (New Strategic Contacts):**
+   - **Dane Button (daniel.button@cr.systems)** — CR Systems x BST partnership discussion (4-email thread, Jul 30)
+     - Multiple handoffs: Dane Button → Jason Emigh (jason.emigh@cr.systems); Alex Brown (a@heyorbitvibe.com) also involved
+     - Timestamps: 14:31, 17:29, 17:51 MDT (Alex replies); 20:59, 23:36 UTC (CR Systems responses) — **indicates active real-time negotiation**
+   - **Dan Fernback (dan@juggerbot3d.com)** — "Manufacturing for the modern program" (Jul 30, 17:17 UTC, marked IMPORTANT)
+     - Sent directly to alex.lomis@bst.aero (not main corporate email)
+   - **Danny (danny@rapiddirect.com)** — "Custom Project (RapidDirect)" (Jul 30, 18:21 CST+8, marked IMPORTANT)
+     - Sent to alex.lomis@bst.aero; suggests technical/manufacturing capability evaluation
+8. **Rippling (Notifications)** — Insurance plan deductions (4 duplicate emails, Jul 31, 07:27 UTC)
+   - **System quirk:** Triple/quadruple sends suggest email retry or notification bug
+9. **Meredith Needham (meredith.needham@blackswifttech.com)** — Internal coordination
+   - Green Apple Cleaning Crew (2 emails, Jul 30) — facility management follow-up
+   - Framework.work support inquiry (Jul 30, 12:43 MDT) — likely hardware procurement
+10. **Elaine Erb (elaine.erb@boulderchamber.com)** — Alex sent reply (Jul 30, 17:22 MDT)
+    - Subject: "Eco Pass Information" — likely transportation/commute coordination (Boulder Chamber of Commerce context)
 
 ### Recipients (by frequency)
-- **Alex as direct recipient:** 15+ direct emails (Jack Elston, NOAA contacts, external vendors, Hadley Solomon)
-- **Alex as originator:** Minimal (forwarding/reply pattern suggests receiving focus)
-- **Purchasing forwarding distribution:** Meredith Needham, Joshua Fromm
-- **Calendar/automation recipients:** Asana notifications, Google Calendar
+- **Direct emails to Alex (by subject line visibility):**
+  - CR Systems/Dane Button (4-email active thread)
+  - JuggerBot3D (Dan Fernback)
+  - RapidDirect (Danny)
+  - NOAA technical partners (Jack Elston → Nick Underwood, Laura Rock)
+  - Navy contacts (Maciej Stachura coordinating with Bradley Evans, Angel Ruiz-Reyes)
+- **Alex as originator (direct emails sent):**
+  - Dane Button (CR Systems) — 2 replies (Jul 30, 14:31 & 17:51 MDT)
+  - Alex Brown (a@heyorbitvibe.com) — 1 reply (Jul 30, 14:31 MDT)
+  - Elaine Erb (Boulder Chamber) — 1 reply (Jul 30, 17:22 MDT)
+- **Internal recipients (Alex on CC/coordination):**
+  - Maciej Stachura (SBIR Mag Tag-up invite to Beck Cotter, Daniel Prendergast, Navy contacts, Jul 30, 16:34 UTC)
 
-### New Vendors & Contacts (Jul 29–30)
-**Electronics & IT:**
-- **Samsung USA** (business account + tax exemption setup; order #US260729-65720628)
-- **JawsTec** (specialized equipment shipment)
+### New High-Value External Contacts (Jul 30–31)
+**Strategic Manufacturing/Integration Partners:**
+1. **CR Systems (Dane Button, daniel.button@cr.systems; Jason Emigh, jason.emigh@cr.systems)**
+   - Status: Active partnership negotiation (4-email thread, 30 Jul)
+   - Involvement: Alex replies directly; also copied to Alex Brown (a@heyorbitvibe.com)
+   - **Signals:** Real-time decision-making authority; likely systems integration or component supplier
 
-**Procurement/Technical:**
-- **Aeronet** (Elisa Arellano) — Invoice 823121 discussion with Meredith Needham
-- **Grepow (Luka)** — Tattu batteries for commercial drone applications (direct to alex.lomis@bst.aero)
+2. **JuggerBot3D (Dan Fernback, dan@juggerbot3d.com)**
+   - Subject: "Manufacturing for the modern program" (Jul 30, 17:17 UTC)
+   - Sent to alex.lomis@bst.aero (primary technical contact)
+   - **Signals:** 3D manufacturing/rapid prototyping capability inquiry; marked IMPORTANT
 
-**Services:**
-- **Green Apple Cleaning Crew** (joshua@greenapplecleaningcrew.com) — Free quote request (facility/operational)
-- **Nominal.io (Olivia Bakos)** — Sales outreach (likely software/analytics tool)
+3. **RapidDirect (danny@rapiddirect.com)**
+   - Subject: "Custom Project (RapidDirect)" (Jul 30, 18:21 CST+8)
+   - Sent to alex.lomis@bst.aero
+   - **Signals:** Custom manufacturing RFQ; similar to JuggerBot3D (parallel vendor evaluation likely)
 
-**Aerospace/Aviation:**
-- **uAvionix** (squawk@uavionix.com) — AirVenture promotional (aviation systems vendor)
+**Vendor Ecosystem (Continued Expansion):**
+- **Spindrift Market** — 4 shipments tracked (orders SH62380484, SH62380490) Jul 30; delivery status updated throughout day
+- **SendCutSend** — Sheet metal/laser cutting shipment on way (Jul 30, 19:11 UTC)
+- **Framework.work** — Hardware component inquiry (Meredith Needham managing, order R718378251)
 
 ## Topic Patterns
 
-### Active Technical Programs (Updated)
+### Active Technical Programs (Expanded)
 
-**RSSI from Roof Test — Ongoing Coordination**
-- **Jack Elston to Laura Rock (NOAA)** — Continued discussion 29 Jul (08:11 MDT)
-- **Nick Underwood (NOAA) coordinating S0 Checklists v4.0** — 29 Jul (08:11 & 09:55 EDT)
-- **Assessment:** Program entering checklist/validation phase (S0 = preliminary design/system specification phase)
-- **Stakeholders:** Jack Elston as coordinator; Nick Underwood and Laura Rock as NOAA technical leads
-
-**Radio/Communications Systems**
-- Continued procurement (Baofeng, Powerwerx Order 3176630 shipped 29 Jul)
-- Likely tied to S0 Checklist validation
-
-### Procurement Activity (Significantly Expanded)
-
-**Sustained Component Orders (McMaster-Carr):**
-- 4 separate orders Jul 28–29
-- Pattern suggests ongoing assembly/integration work (not one-time procurement)
-
-**Strategic Hardware Buys:**
-- **Samsung Business Account + Tax Exemption** — Indicates tablet/mobile device procurement at scale for operations/flight crew
-- **JawsTec shipment** — Specialized equipment (brand unknown without body; likely aerospace/aviation component)
-- **Aeronet Invoice 823121** — Meredith Needham coordinating with Elisa Arellano (finance/procurement discussion)
-
-**Battery Systems:**
-- **Grepow Tattu inquiry** — Direct to Alex from Luka; specifically mentions "commercial drone applications"
-- Suggests battery evaluation for aircraft systems
-
-**Facility/Operations:**
-- **Green Apple Cleaning Crew quote** — Facility maintenance (via Meredith Needham)
-
-### Administrative & Strategic
-- **BST Internal Update Meeting** — Gemini notes (Jul 29, 19:47 UTC)
-- **Culture Assessment Continuation** — Hadley Solomon scheduled for 30 Jul 1:30pm MDT
-- **Asana task management** — Active usage (reminders on 29 Jul, 2 unread notifications)
-- **ASTM SmartBrief** — Standards/compliance monitoring forwarded to purchasing
-
-## Communication Patterns
-
-### Automation vs. Human Correspondence
-- **~70% automated/transactional** (vendor confirmations, promotional emails, calendar/Asana updates)
-- **~30% direct human correspondence** (NOAA technical coordination, vendor relationship management, internal meetings)
-
-### Critical Technical Threads (New)
-1. **S0 Checklists v4.0** — Jack Elston ↔ Nick Underwood (NOAA)
-   - Timestamp: 29 Jul, 08:11 MDT (Jack) / 09:55 EDT (Underwood response)
-   - **Indicates:** System specification/design review phase; checklist validation
-   
-2. **RSSI from Roof Test** — Jack Elston ↔ Laura Rock (NOAA)
-   - Continued from previous week; still active on 29 Jul
-
-3. **Aeronet Invoice 823121** — Meredith Needham ↔ Elisa Arellano
-   - 3-email thread (14:51, 15:56, 20:38 UTC on 29 Jul)
-   - Type: Finance/vendor reconciliation
-   - **Suggests:** Aeronet is recurring vendor (aerospace components or services)
-
-### Timezone Distribution (Updated)
-- **MDT (-6):** Alex's primary timezone (Hadley Solomon meeting scheduled in MDT; Gemini note UTC conversion suggests this)
-- **EDT/EST (-4/-5):** NOAA Federal coordination (Jack Elston emails to Underwood/Rock at 08:11 MDT = ~10:11 EDT)
-- **CST (+8):** Grepow (Luka) reaching out from China
-
-### Direct Vendor Engagement
-- **Alex receiving direct B2B vendor outreach** (Grepow Luka to alex.lomis@bst.aero; Olivia Bakos from Nominal.io)
-- **Suggests:** Alex has procurement/technical evaluation authority for specific equipment categories (batteries, analytics tools)
-
-## Key Relationships
-
-### Government/Institutional Partners (Expanded)
-1. **NOAA Federal (Technical Partnership):**
-   - **Nick Underwood** — S0 Checklists v4.0 lead (29 Jul coordination with Jack)
-   - **Laura Rock** — RSSI testing coordinator (ongoing)
-   -
+**1. RSSI from Roof Test (Ongoing — Now Multi-Party)**
+- **Participants:** Jack Elston (BST) ↔ Nick Underwood (NOAA) ↔ Laura Rock (NOAA)
+- **Latest activity:** Jul 30, 09:31 MDT (Jack) → 08:16 EDT (Nick response) → 10:14 EDT (Laura response)
+- **Assessment:** Still in

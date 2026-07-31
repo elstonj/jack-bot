@@ -4,19 +4,37 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-07-29",
-    "end": "2026-07-30"
+    "start": "2026-07-30",
+    "end": "2026-07-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 19.69,
+    "expenses": 84.17,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 19.69
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 84.17
     }
   },
   "invoices": [],
   "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-07-30",
+      "doc_number": "440890471",
+      "total": 64.48,
+      "attributed": 64.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Verbal shipment request by S. Hild",
+      "lines": [
+        {
+          "amount": 64.48,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Overnight shipment to Summit Assembly"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-07-30",

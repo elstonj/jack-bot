@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through July 29, 2026 (ongoing project)
+Time range: Early development through July 30, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -26,7 +26,7 @@ Time range: Early development through July 29, 2026 (ongoing project)
 **Customer Deliveries:**
 - S0 systems will not include handsets, only tablet joysticks for manual mode
 - Decision to leave aircraft in Barbados rather than shipping back ($1600 vs $360 cost)
-- **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing. Uncertain if BST will bring third S0-VTOL to ISARRA. Maciej banking on S0 over OOI for Navy STTR data option (Maciej, July 29, 2026)
+- **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing. Uncertain if BST will bring third S0-VTOL to ISARRA. Maciej banking on S0 over OOI for Navy STTR data option
 
 **Hardware Fixes:**
 - Sam switched from MSI to HSI clock source to fix heat sensitivity lockup issues
@@ -96,4 +96,6 @@ Time range: Early development through July 29, 2026 (ongoing project)
   **Issue 2 - Rear Motor RPM Shift (May 25, 2026):**
   - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
   - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
-  - Observed in manual log review (not yet in DSh
+
+**ESC Voltage & Failure Analysis (July 30, 2026):**
+- Ruled out as failure causes
