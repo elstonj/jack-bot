@@ -26,9 +26,9 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Aluminum caps chosen over 3D printed ones after high-Q deployment failure (May 2022)
 - Switched to Samsung INR21700-50S cells replacing Panasonic NCR18650GA (February 2024)
 - Decision to use 76gsm wing skins instead of 160gsm for 50g weight savings (October 2024)
-- **Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)**
-- **Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft (July 8, 2026)**
-- **Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)**
+- Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
+- Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft (July 8, 2026)
+- Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
 
 **Ground Control Station Operations (April 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -62,7 +62,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
 - Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
 - Plan to develop P3 simulator at BST for testing prior to implementation (May 27, 2026)
-- **Todd assigned to work with Jack Elston to implement GCS modifications on Thursday; P3 test flight planned for same day (July 29, 2026)**
+- Todd assigned to work with Jack Elston to implement GCS modifications on Thursday; P3 test flight planned for same day (July 29, 2026)
 
 **Humidity Sensor Configuration (April 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
@@ -82,4 +82,6 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
 **Inventory Management (April 23, 2026):**
-- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2
+- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
+
+##

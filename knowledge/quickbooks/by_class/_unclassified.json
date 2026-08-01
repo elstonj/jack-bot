@@ -4,73 +4,88 @@
     ""
   ],
   "period": {
-    "start": "2026-07-30",
-    "end": "2026-07-31"
+    "start": "2026-07-31",
+    "end": "2026-08-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5458.32,
+    "expenses": 7512.24,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 5355.31,
-      "Indirect Cost:Insurance Exp": 103.0,
-      "UNALLOWABLE GA:UC-Other Costs": 0.01
+      "FACILITIES:FA-Office Supplies": 5121.22,
+      "FACILITIES:FA-Shop Supplies": 2313.23,
+      "Inventory Asset": 50.43,
+      "DIRECT COSTS:DC-Direct Material Purchases": 27.36
     }
   },
   "invoices": [],
-  "bills": [
+  "bills": [],
+  "purchases": [
     {
-      "type": "Bill",
-      "date": "2026-07-30",
-      "doc_number": "adj",
-      "total": 103.0,
-      "attributed": 103.0,
-      "vendor": "Pinnacol Assurance",
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "WH39985124",
+      "total": 2235.55,
+      "attributed": 2235.55,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
-      "memo": "",
+      "balance": null,
+      "memo": "No Asana request - J. Elston made purchase",
       "lines": [
         {
-          "amount": 103.0,
-          "account": "Indirect Cost:Insurance Exp",
-          "description": "clearing AP"
+          "amount": 2235.55,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "62 in. W x 24 in. D 2-Drawer Adjustable Height Black Workbench Table with Solid Wood Top x 4"
         }
       ]
     },
     {
-      "type": "Bill",
-      "date": "2026-07-30",
-      "doc_number": "",
-      "total": 0.01,
-      "attributed": 0.01,
-      "vendor": "Jack Elston - v",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 0.01,
-          "account": "UNALLOWABLE GA:UC-Other Costs",
-          "description": ""
-        }
-      ]
-    }
-  ],
-  "purchases": [
-    {
       "type": "Purchase",
-      "date": "2026-07-30",
-      "doc_number": "R718378251",
-      "total": 5355.31,
-      "attributed": 5355.31,
+      "date": "2026-07-31",
+      "doc_number": "2008507440171",
+      "total": 5121.22,
+      "attributed": 5121.219999999999,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Ben Busby made a request via Slack. Discussion of officer servers occurred between him and Jack Elston.",
+      "memo": "J. Elston made purchase directly from Dell. For new employees joining the office.",
       "lines": [
         {
-          "amount": 5355.31,
+          "amount": 2970.1,
           "account": "FACILITIES:FA-Office Supplies",
-          "description": "Office Server Ryze AI Max+ 395 - 64GB x 2"
+          "description": "Dell UltraSharp 52 Thunderbolt Hub Monitor - U5226KW"
+        },
+        {
+          "amount": 2151.12,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Dell UltraSharp 34 Curved Thunderbolt\u2122 Hub Monitor - U3425WE x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "0730JELSTON",
+      "total": 188.67,
+      "attributed": 155.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered. Sales are upcoming S3 sales",
+      "lines": [
+        {
+          "amount": 33.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NASA S2 items"
+        },
+        {
+          "amount": 94.27,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop supplies"
+        },
+        {
+          "amount": 61.2,
+          "account": "Inventory Asset",
+          "description": "supplies for future S3 sales"
         }
       ]
     }

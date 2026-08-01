@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,865,162.28
-- **Total Expenses (Bills + Purchases):** $1,536,529.71
+- **Total Invoiced (Revenue):** $4,879,621.28
+- **Total Expenses (Bills + Purchases):** $1,537,227.37
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,328,632.57 (invoiced minus expenses)
+- **Net Position:** $3,342,393.91 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,8 +12,8 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,865,162.28
-- **Total Collected (Outstanding Balance):** $3,597,851.82 remaining (invoices with open balances)
+- **Total Invoiced:** $4,879,621.28
+- **Total Collected (Outstanding Balance):** $3,612,310.82 remaining (invoices with open balances)
 - **Number of Invoices:** 86 active invoices
 
 ### Major Revenue Streams by Project
@@ -21,9 +21,9 @@
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $1,076,500.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1776 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
+| [300-3] 2026 IDIQ | $1,090,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1776 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $791,344.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-1] Navy SBIR Magnetometer | $805,803.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -52,8 +52,9 @@
 | **#1741** | **2026-08-14** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6 (Final)** | **$72,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 
-**Recent invoice total (2026-06-01 to 2026-09-28):** $647,459.00  
-**[300-3] 2026 IDIQ total from recent period:** $467,000.00 (Invoices #1739–#1776)  
+**Recent invoice total (2026-06-01 to 2026-09-28):** $661,918.00  
+**[300-3] 2026 IDIQ total from recent period:** $481,459.00 (Invoices #1739–#1776)  
+**[550-1] Navy SBIR total from recent period:** $84,459.00 (Invoices #1749, #1750)  
 **Note:** Invoices #1774–#1776 represent NEW MODIFICATION P26002 work to CLIN 1001 (+$234,000.00), in addition to base contract invoicing. All invoices confirmed through 2026-09-28.
 
 ---
@@ -93,8 +94,8 @@
 
 ---
 
-### **Materials & Supplies: $667,563.56**
-**Number of transactions:** 269
+### **Materials & Supplies: $674,363.56**
+**Number of transactions:** 278
 
 **Key vendors & items:**
 
@@ -124,6 +125,4 @@
   - **Purchase #1817**: $770.00 [DC-Direct Material Purchases] — 2ft parachute x 20; 10-pack 960lb soft link x 20 (for extra 13 S0s)
   - **Purchase #TSS100030747**: $182.50 [DC-Direct Material Purchases] — Acxess Spring PC092-1250-26000-HD-11708-CG-N-IN x 25
   - **Purchase #90955**: $209.91 [DC-Direct Material Purchases] — Clevis/Yoke Ends x 25 + Threaded Rods x 10
-  - **Purchase #156018**: $341.18 [DC-Direct Material Purchases] — CAM Folding Prop 7 x 50
-
-- **Power systems (2
+  - **Purchase #156

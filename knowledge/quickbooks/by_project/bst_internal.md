@@ -2,11 +2,11 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue)**: $22,894.36
-- **Total Expenses (Bills + Purchases)**: $1,353,586.52 *(+$5,439.78 from July 30, 2026)*
+- **Total Expenses (Bills + Purchases)**: $1,366,747.97 *(+$13,161.45 from July 31 – Aug 1, 2026)*
 - **Total Purchase Orders**: $1,700.00 *(PO #1038 Amprius, outstanding)*
-- **Net Position**: -$1,330,692.16 *(expenses exceed revenue significantly)*
-- **Date Range**: April 5, 2024 – July 31, 2026 (27+ months)
-- **Transaction Count**: 1,328 *(+3 new confirmed transactions)*
+- **Net Position**: -$1,343,853.61 *(expenses exceed revenue significantly)*
+- **Date Range**: April 5, 2024 – August 1, 2026 (27+ months)
+- **Transaction Count**: 1,342 *(+14 new confirmed transactions)*
 
 ---
 
@@ -24,10 +24,10 @@
 **Outstanding Receivables**: $22,894.36
 
 **Notable**: 
-- **Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — grant/investment income; currently outstanding. Timing correlates with Ottawa demo logistics (July 14–19) and urgent server infrastructure acquisition (July 30).
-- **Invoice #1696 (August 26, 2025)**: $6,105.00 from Phase1 Aviation includes accidental double-payment for 20 wings. This amount should be recovered or credited immediately. **12+ months overdue.**
-- **Invoice #1752 (April 3, 2026)**: $10,860.48 from Krateo Sky. **4+ months overdue.**
-- **Invoice #1727 (December 2, 2025)**: $928.88 from Weather Stream (c). **7+ months overdue.**
+- **Invoice #1771 (July 6, 2026)**: $5,000.00 from Invest Ottawa — grant/investment income; currently outstanding. Timing correlates with Ottawa demo logistics (July 14–19) and urgent server infrastructure acquisition (July 30). **PRIORITY FOLLOW-UP REQUIRED.**
+- **Invoice #1696 (August 26, 2025)**: $6,105.00 from Phase1 Aviation includes accidental double-payment for 20 wings. This amount should be recovered or credited immediately. **12+ months overdue. CRITICAL RECOVERY ACTION NEEDED.**
+- **Invoice #1752 (April 3, 2026)**: $10,860.48 from Krateo Sky. **5 months overdue. ESCALATE COLLECTION.**
+- **Invoice #1727 (December 2, 2025)**: $928.88 from Weather Stream (c). **8 months overdue. FOLLOW-UP REQUIRED.**
 
 ---
 
@@ -40,64 +40,90 @@
 
 ---
 
-### Materials & Direct Purchases: $533,609.94
-**Total: $533,609.94** | **91 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
+### Materials & Direct Purchases: $533,976.94
+**Total: $533,976.94** | **93 transactions** | **Largest individual items: S3 inventory $33,962.84, Electronics/components $209,099.64, Composites/structures $46,854.95**
 
-**New Transactions (July 29–30, 2026):**
+**New Transactions (July 31 – Aug 1, 2026):**
 
 | Purchase # | Date | Amount | Account | Description | Status |
 |-----------|------|--------|---------|-------------|--------|
-| Purchase #0728JELSTON | 2026-07-29 | $256.50 | DC-Direct Material Purchases | IDIQ supplies | ✓ Confirmed |
-| Purchase #65720628 | 2026-07-29 | $2,574.03 | Inventory Asset (S3 Sales) | Future S3 Sales — Amazon backorder substitution (3 × $858.01) | ✓ Confirmed |
+| Purchase #0730JELSTON | 2026-07-31 | $33.20 | DC-Direct Material Purchases | NASA S2 items | ✓ Confirmed |
+| Purchase #0730JELSTON | 2026-07-31 | $61.20 | Inventory Asset (S3 Sales) | Supplies for future S3 sales | ✓ Confirmed |
 
-**July 29–30 Direct Materials Addition**: $2,830.53 (2 transactions)
+**July 31 Direct Materials Addition**: $94.40 (2 line items)
 
 **Transaction Details**:
 
-- **IDIQ Direct Supplies (July 29, $256.50)**: Direct material allocation for IDIQ contract work
+- **NASA S2 Items (July 31, $33.20)**: Direct material allocation for NASA Space Situational Awareness project
   - **Classification**: Direct material cost (DC-Direct Material Purchases)
-  - **Approval**: J. Fromm (direct purchase without Asana request)
-  - **Application**: IDIQ indefinite-delivery/indefinite-quantity contract supplies; supports active IDIQ engineering workstreams
-  - **Context**: Complements prior 7/28 PTFE wire purchase ($489.43); indicates sustained IDIQ contract activity and material replenishment cycle
+  - **Approval**: J. Fromm (direct purchase allocation across multiple projects per memo)
+  - **Application**: Specific components for NASA S2 contract deliverable work
+  - **Context**: Indicates active NASA contract execution; complements ongoing S3 VTOL production and R&D activities
 
-- **Future S3 Sales Inventory (July 29, $2,574.03)**: Bulk component purchase for S3 VTOL production
+- **Future S3 Sales Inventory Supplies (July 31, $61.20)**: Component/supply inventory for S3 VTOL production pipeline
   - **Classification**: Inventory asset (allocated to S3 sales production line)
-  - **Quantities**: 3 identical line items of $858.01 each
-  - **Supplier Substitution**: Original order was Amazon; items out of stock; replaced with alternative supplier
-  - **Approval**: J. Fromm (confirmed for future S3 sales production)
-  - **Strategic Context**: Indicates continued S3 VTOL production scaling; supports inventory buildup for sales fulfillment pipeline
-  - **Timing**: Aligned with post-Ottawa demo production acceleration and customer demand preparation
+  - **Approval**: J. Fromm (memo: "Sales are upcoming S3 sales")
+  - **Strategic Context**: Continued S3 VTOL production scaling; supports inventory buildup for customer delivery
 
-**Cumulative Materials Spend (April 2024–July 31)**: $533,609.94
+**Cumulative Materials Spend (April 2024–Aug 1)**: $533,976.94
 
 ---
 
-### IRAD Indirect R&D (Subcontractors & Internal): $100,481.90
-**Total: $100,481.90** | **126 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
+### IRAD Indirect R&D (Subcontractors & Internal): $109,948.43
+**Total: $109,948.43** | **140 transactions** | **Largest: Boostr R&D Tax Credits $10,773.62; MicroFirm Engineering $6,257.60; Digi-Key Corp $1,438.87**
 
-**New Transactions (July 30, 2026):**
+**New Transactions (July 31, 2026):**
 
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #440890471 | 2026-07-30 | $64.48 | IRAD-Internal Research and Development | Overnight shipment to Summit Assembly | ✓ Confirmed |
-| Purchase #260712W002688 | 2026-07-30 | $19.69 | IRAD-Internal Research and Development | Pick-up fee for shipment to Sean Cole for S3 on 7/6/26 | ✓ Confirmed |
+| Purchase # | Date | Amount | Account | Description | Status | Memo |
+|-----------|------|--------|---------|-------------|--------|------|
+| Purchase | 2026-07-31 | $405.94 | IRAD-Internal R&D | MHP Tip Main.step × 6 | ✓ Confirmed | CAD/engineering component |
+| Purchase | 2026-07-31 | $94.44 | IRAD-Internal R&D | Master_Assembly___End_Busbar | ✓ Confirmed | Electrical assembly component |
+| Purchase #70261 | 2026-07-31 | $1,052.48 | IRAD-Internal R&D | Master-Assembly-Duct.step; Master-Assembly-Sonde-Shell.step; Master-Assembly-Tail-Servo-Mount.step | ✓ Confirmed | Multi-component assembly purchase |
+| Purchase #70260 | 2026-07-31 | $2,656.04 | IRAD-Internal R&D | Master-Assembly-AP-Bottom-Brace.step; GPS-Mount-BLS88WP-Servo.step; 1x-Laser-Plate.step; Master-Assembly-Joiner-Insert.step | ✓ Confirmed | Multi-component structural/mounting assembly |
+| Purchase | 2026-07-31 | $226.86 | IRAD-Internal R&D | AWG Silicone Wire; E-outstanding MPX 6-Pin Plug; OliRC 20pairs Cross; 20pair Amass MR30 M/F Connector; 10 Pairs Amass MR60 Plug; Quick Release Plate; Camera Tripod Mount; 10pcs 4mm Bullet Banana Plug Connector | ✓ Confirmed | Electrical connectors & wiring bundle |
+| Purchase #300046306 | 2026-07-31 | $117.86 | IRAD-Internal R&D | 1/4" Round Servo Shaft × 10 (ServoCITY-7333) | ✓ Confirmed | Servo mechanical component |
+| Purchase #100742193 | 2026-07-31 | $697.55 | IRAD-Internal R&D | IRAD VTOL supplies | ✓ Confirmed | General VTOL development supplies |
+| Purchase #882026/005977 | 2026-07-31 | $306.77 | IRAD-Internal R&D | Dronetag DRI × 5 | ✓ Confirmed | Drone identification/telemetry (5 units) |
+| Purchase #28043 | 2026-07-31 | $1,205.28 | IRAD-Internal R&D | SF20/C (100 m) × 4 | ✓ Confirmed | Sensor/component (4 units) |
+| Purchase #55956 | 2026-07-31 | $77.58 | IRAD-Internal R&D | 10x7E × 12; 10x7EP × 6 (Digital card) | ✓ Confirmed | Propeller components |
+| Purchase #5791 | 2026-07-31 | $1,063.07 | IRAD-Internal R&D | MD89MW Magnetic Encoder Metal Gear 25T Digital Micro Servo × 10 (HITEC RCD USA-7333) | ✓ Confirmed | Precision servo motors (10 units) |
 
-**July 30 IRAD Addition**: $84.17 (2 transactions)
+**July 31 IRAD Addition**: $8,103.87 (11 transactions)
 
-**Transaction Details**:
+**Transaction Analysis**:
 
-- **Overnight Shipment to Summit Assembly (July 30, $64.48)**: Expedited logistics/shipping charge for critical research or production component delivery
-  - **Request Authority**: S. Hild (verbal shipment request)
-  - **Recipient**: Summit Assembly (external assembly partner or vendor)
-  - **Classification**: IRAD-Internal R&D (classified as research logistics support)
-  - **Strategic Context**: Indicates time-sensitive component or subsystem movement supporting active R&D workstream; aligns with post-Ottawa demo accelerated development cycle; may relate to S3 VTOL subsystem testing or integration
+This represents a **significant R&D procurement spike** focused on advanced VTOL system integration:
 
-- **S3 Shipment Pick-up Fee (July 30, $19.69)**: Logistics/handling charge for field deployment component delivery
-  - **Recipient**: Sean Cole (field operations team)
-  - **Equipment**: S3 VTOL unit or subsystem components (shipped July 6, 2026)
-  - **Strategic Context**: Supports post-Ottawa demo field testing or customer evaluation activities; aligns with S3 production ramp and field operations expansion
+- **CAD/Assembly Components** ($1,052.48 + $2,656.04 + $94.44 = **$3,802.96**): Structural, thermal, and guidance system components — indicates active design refinement and manufacturing preparation
+  - Duct systems (thermal management)
+  - Sonde shell (sensor/payload integration)
+  - Tail servo mount (control surface actuation)
+  - Bracing and structural reinforcement
+  - GPS mounting for navigation systems
+  - Joiner/integration components
 
-**Cumulative IRAD Activity (April 2024–July 31)**: $100,481.90 *(includes 7/30 shipment logistics and pick-up fees, plus prior cumulative total)*
+- **Electrical & Connectors** ($226.86 + $405.94 = **$632.80**): Power distribution and signal integrity
+  - Silicone wire (high-reliability cabling)
+  - Multi-pin connectors (Amass MR30/MR60 — standard UAV connectors)
+  - Banana plug connectors (power distribution)
+
+- **Precision Actuation & Control** ($117.86 + $1,063.07 = **$1,180.93**): Servo and motor systems
+  - 1/4" servo shafts (mechanical linkages)
+  - HITEC MD89MW magnetic encoders (10 units) — precision position feedback; indicates closed-loop control architecture expansion
+
+- **Sensor & Telemetry Systems** ($306.77 + $1,205.28 = **$1,512.05**): Advanced sensing
+  - Dronetag DRI × 5 (drone remote identification; regulatory compliance for multi-unit operations)
+  - SF20/C sensors × 4 (likely environmental or flight dynamics sensors; 100m range suggests wind/weather profiling)
+
+- **IRAD General Supplies** ($697.55): Unspecified VTOL development materials
+
+**Strategic Significance**:
+- **Post-Ottawa Demo Acceleration**: July 31 purchase date indicates immediate post-demo (July 14–19) component procurement for next-phase development/manufacturing
+- **Multi-Unit Production Scaling**: Bulk servo purchases (10 units), sensor replication (4–5 units), propeller components — suggests transition from prototype to small-batch production engineering
+- **Regulatory Compliance**: Dronetag purchases indicate preparation for commercial/government operational environments requiring remote ID
+- **Closed-Loop Control Upgrade**: Magnetic encoder adoption signals move toward precision autonomous control
+
+**Cumulative IRAD Activity (April 2024–Aug 1)**: $109,948.43
 
 ---
 
@@ -111,57 +137,10 @@
 ### Sales & Marketing (Including Shipping): $8,120.74
 **Total: $8,120.74** | **12 transactions** | **Largest: C-Astral camera shipment $2,049.65 (June 30); C-Astral shipment $368.70 (July 28); NOAA ground station shipping $66.46 (July 14); Raspberry Pi Zero W × 5 $97.15 (July 29)*
 
-**New Transactions (July 29, 2026):**
+*(No new transactions in this reporting period)*
 
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #SHV-156507 | 2026-07-29 | $97.15 | SALES & MARKETING | Raspberry Pi Zero W × 5 | ✓ Confirmed |
-
-**July 29 S&M Addition**: $97.15 (1 transaction)
-
-**Transaction Details**:
-
-- **Raspberry Pi Zero W × 5 (July 29, $97.15)**: Bulk purchase of single-board microcomputers
-  - **Classification**: Sales & marketing (indirect overhead / demo/evaluation equipment)
-  - **Unit Quantity**: 5 units
-  - **Unit Cost**: ~$19.43 per Raspberry Pi Zero W
-  - **Probable Applications**: 
-    - Customer evaluation kits or proof-of-concept demonstration systems
-    - Edge computing nodes for S3 VTOL autonomous system evaluation
-    - Ground station or telemetry interface development for product demos
-    - Field trial support for potential integrations with third-party systems
-  - **Strategic Context**: Supports expanded customer engagement and product demonstration pipeline; aligns with post-Ottawa demo acceleration of sales and technical evaluation activities
-
-**Cumulative S&M Activity (April 2024–July 31)**: $8,120.74
+**Cumulative S&M Activity (April 2024–Aug 1)**: $8,120.74
 
 ---
 
-### Facilities & Infrastructure: $164,915.91
-**Total: $164,915.91** | **84 transactions** | **Rent: $74,913.32 (12 txns); Shop Supplies/Software/Office Equipment: $63,690.42; Server Infrastructure & Compute: $32,131.86; Office Supplies: $5,953.12; Shop Batteries: $24.26; Weather Meter: $399.53; Thermal Camera: $599.00; Crimping Tools: $749.94; PTFE Wire (shop allocation): $489.44*
-
-**New Transactions (July 29–30, 2026):**
-
-| Purchase # | Date | Amount | Account | Description | Status |
-|-----------|------|--------|---------|-------------|--------|
-| Purchase #0728JELSTON | 2026-07-29 | $16.33 | FA-Shop Supplies | Shop supplies allocation | ✓ Confirmed |
-| Purchase #R718378251 | 2026-07-30 | $5,355.31 | FA-Office Supplies | Office Server Ryze AI Max+ 395 - 64GB x 2 | ✓ Confirmed |
-
-**July 29–30 Facilities Additions**: $5,371.64 (2 transactions)
-
-**Transaction Details**:
-
-- **Shop Supplies Allocation (July 29, $16.33)**: Minor shop consumables or supplies allocation
-  - **Classification**: Facilities/shop supplies
-  - **Application**: General shop maintenance and consumables replenishment
-
-- **Office Server Ryze AI Max+ 395 — 64GB x 2 (July 30, $5,355.31)**: High-performance compute server acquisition
-  - **Classification**: Facilities/office infrastructure (IT equipment, compute resources)
-  - **Specification**: Ryze AI Max+ 395 dual-socket configuration with 2 × 64GB memory modules = **128GB total RAM**
-  - **Request Authority**: Ben Busby (Slack request); discussed with Jack Elston
-  - **Strategic Context**: **URGENT infrastructure acquisition** aligns temporally with:
-    - July 6 Invest Ottawa $5,000 invoice (timing suggests grant/investment allocation earmarked for IT infrastructure)
-    - Post-Ottawa demo (July 14–19) acceleration of compute capacity
-    - Expanded S3 VTOL production and field operations demand (requiring edge computing resources, telemetry processing, autonomous system modeling)
-    - Potential customer evaluation or integration workload expansion
-  - **Significance**: This is the **largest single infrastructure investment** in the current reporting period; indicates critical compute bottleneck resolution or expansion for upcoming operational scaling
-  - **Prior Context**: Earlier server purchase (5/6/26, $5,355.31) suggests this represents a **second identical server unit** — indicates standardized
+### Facilities & Infrastructure: $177,136

@@ -4,14 +4,16 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-07-30",
-    "end": "2026-07-31"
+    "start": "2026-07-31",
+    "end": "2026-08-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7.99,
+    "expenses": 281.19,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 7.99
+      "DIRECT COSTS:DC-Direct Material Purchases": 253.83,
+      "FACILITIES:FA-Shop Supplies": 16.59,
+      "Inventory Asset": 10.77
     }
   },
   "invoices": [],
@@ -32,6 +34,52 @@
           "amount": 7.99,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "10pcs 6S 7Pins Balance Connector Male Plug Extension Cable"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "",
+      "total": 240.0,
+      "attributed": 240.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 240.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Futaba T14SG 14-Channel 2.4GHz FASSTest Radio Transmitter (158124738162)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "0730JELSTON",
+      "total": 188.67,
+      "attributed": 33.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered. Sales are upcoming S3 sales",
+      "lines": [
+        {
+          "amount": 33.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NASA S2 items"
+        },
+        {
+          "amount": 94.27,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop supplies"
+        },
+        {
+          "amount": 61.2,
+          "account": "Inventory Asset",
+          "description": "supplies for future S3 sales"
         }
       ]
     }

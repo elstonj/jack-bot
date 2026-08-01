@@ -1,76 +1,66 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 700 messages** scanned across ~19 days (Jul 12-31, 2026)
-- Average ~37 messages/day
-- **Latest data window (Jul 30-31)**: 55 new messages; sustained high operational tempo with continued procurement activity, government partner coordination (UK MOD, NOAA), and contract planning engagement
-- **Pattern sustained**: Operational coordination mixed with heavy-volume automated/transactional procurement notifications and travel promotions
+- **Total: 765 messages** scanned across ~21 days (Jul 12-Aug 1, 2026)
+- Average ~36 messages/day
+- **Latest data window (Jul 31-Aug 1)**: 65 new messages; sustained ultra-high operational tempo with manufacturing/procurement acceleration, government partner escalation (UK MOD), and multi-vendor coordination
+- **Pattern sustained & intensifying**: Heavy transactional procurement mixed with critical government program engagement and manufacturing supply chain management
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / External Strategic Partners**
-1. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership — **[SUSTAINED ESCALATION Jul 30]**: RSSI roof test coordination with NOAA; IDIQ contract SOW review (Jul 30)
-2. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **[NEW Jul 30-31, CRITICAL ESCALATION]**: UK Ministry of Defence Federal — Direct correspondence on "Merlin Mk2/US Navy SBIR"; Josh replied (Jul 30, 11:34am); Daniel Prendergast also engaged (Jul 30, 12:11pm); Simon re-engaged (Jul 30, 4:16pm); continues early morning (Jul 31, 5:45am); **indicates high-priority UK/US naval aviation program coordination**
-3. **Laura Rock** (laura.rock@noaa.gov) — NOAA Federal — **[SUSTAINED Jul 30]**: RSSI roof test coordination thread continues
-4. **Nick Underwood** (nicholas.underwood@noaa.gov) — NOAA Federal — **[SUSTAINED Jul 30]**: RSSI/roof test thread
-5. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — NOAA Federal
-6. **Evan Wolff** (evan.m.wolff.mil@socom.mil) — SOCOM
-7. **Joshua Wadler** (elstonj@erau.edu) — Embry-Riddle Aeronautical University
-8. **Joe Cione, Annette Hollingshead, Mark Rogers, Joseph Orlando** (NOAA) — Sustained prior contacts
+1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **[CRITICAL SUSTAINED Jul 31]**: UK Ministry of Defence — "RE: Merlin Mk2/US Navy SBIR" (Jul 31, 3:33pm); Josh replied same day (Jul 31, 8:32am); **indicates ongoing high-priority UK/US naval aviation program with rapid response cycle**
+2. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership — **[MAJOR ESCALATION Jul 31]**: "Invitation: Munro Visit @ Mon Aug 10 - Fri Aug 14, 2026" (Jul 31, 5:52pm); coordinating multi-day partner site visit with Josh, Beck Cotter, Alex Lomis, Maciej Stachura, Daniel Prendergast
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **[SUSTAINED Jul 31]**: "Invitation: Ubiq Aerospace Icing Solutions @ Tue Aug 4, 2026 8:30am" (Jul 31); shared folder access "NexTech/Joint Forces Canada" (Jul 31); escalating technical partnerships
+4. **Jonathan Green** (jgreen@munrodefense.com) — Munro Defense — **[NEW Jul 31, IMPORTANT]**: "DFMEA/PFMEA" (Jul 31, 11:35am); Josh CC'd; critical design failure mode analysis coordination
+5. **Jure Dolinar - Atmolab** (jure.dolinar@atmolab.eu) — **[SUSTAINED Jul 31, IMPORTANT]**: "RE: REX 110 Operation at -40 and -55 deg C" (Jul 31, 12:10pm); environmental testing coordination continues
+6. **Alfredo Bastida** (alfredo.bastida@maxtena.com) — **[NEW Jul 31, MARKED IMPORTANT]**: MAXTENA "ADVANCED WIRELESS SOLUTIONS" (Jul 31, 9:38pm); antenna/RF technology vendor inquiry
+7. **Simon Laurence + Government/NOAA Partners** — Prior sustained contacts (Laura Rock, Nick Underwood, Nikolai Pawlenko, Evan Wolff)
 
 **Internal Technical Leadership**
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **[SUSTAINED ESCALATION Jul 30]**: Direct engagement on Merlin Mk2/US Navy SBIR thread (Jul 30, 12:11pm); recipient of Jack Elston IDIQ forwarded correspondence (Jul 30); continues active technical coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — **[SUSTAINED Jul 30]**: IDIQ contract SOW review recipient (Jack forwarded Jul 30)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **[SUSTAINED Jul 30]**: IDIQ contract SOW review recipient (Jack forwarded Jul 30); REX 110 environmental testing continues
-- **Nathaniel Straus** (nate.straus@blackswifttech.com) — Prior CAN bus coordination
+- **Daniel Prendergast, Maciej Stachura, Beck Cotter** — **[SUSTAINED Jul 31]**: IDIQ contract SOW review, Ubiq Aerospace meeting coordination, Atmolab/REX 110 environmental testing escalation
+- **Alex Lomis** — **[NEW Jul 31]**: Munro visit coordination (Jack Elston forwarded Aug 10-14 trip)
 
-**External Partners - Suppliers & Commercial**
-- **Ryan Bradley** (rbradley@munrodefense.com) — **[SUSTAINED Jul 30, IMPORTANT]**: "CAD, BOMs and construction guides" — Josh replied (Jul 30, 7:35am); Ryan escalated response (Jul 30, 11:54am); Munro Defense integration partner for system documentation/delivery
-- **Samantha** (Samantha@bestinparts.com) — **[SUSTAINED Jul 30, IMPORTANT]**: CNC parts order "BST260728-B16306" coordination; direct supplier engagement
-- **Dan Fernback** (dan@juggerbot3d.com) — **[NEW Jul 30, UNREAD]**: JuggerBot 3D — "Manufacturing for the modern program"; 3D manufacturing vendor inquiry
-- **Danny** (danny@rapiddirect.com) — **[NEW Jul 30, IMPORTANT, UNREAD]**: RapidDirect platform update; CNC/manufacturing services engagement
-- **Bob Smith** (Bob@krateosky.com) — **[NEW Jul 30, IMPORTANT, ESCALATION]**: KrateoSky Federal — Forwarded "Market Research & Draft SOW Review for Planning Purposes – IDIQ Contract 1305M226D0012" (Jul 31, 5:45am); external partner on major IDIQ opportunity
-- **Chance Rogers** (chance.rogers@vertiq.co) — Motor procurement sustained
-- **Luka** (luka@grepow.com) — Battery optimization sustained
-- **Michael Rhodes** (michael.e.rhodes@colorado.edu) — CAN bus integration expertise sustained
-- **Lee Skidmore** (lee@rubiconaerospace.com) — Rubicon Aerospace fuselage tubes supplier sustained
-- **Olivia Bakos** (olivia.bakos@nominal.io) — Nominal failure prediction software sustained
-- **Jonathan DiGiacomandrea / George Kusaba** (amprius.com) — Battery technology
-- **Hadley Solomon** (hadley.solomon@creativealignments.com) — Creative Alignments (HR/org dev) — scheduled meeting Jul 30
+**External Partners - Manufacturing & Suppliers — ESCALATING ACTIVITY**
 
-### Routed Via Purchasing (purchasing@blackswifttech.com)
+**Critical Manufacturing/CNC Partners**
+1. **Samantha** (Samantha@bestinparts.com) — **[SUSTAINED & ESCALATING Jul 31]**: CNC parts order "BST260728-B16306" — Josh replied twice (Jul 31, 11:06am & 9:01am); active order management
+2. **Ryan Bradley** (rbradley@munrodefense.com) — **[SUSTAINED Jul 31]**: Munro Defense CAD/BOMs/construction guides coordination
+3. **Keith** (keith@kmac-distribution.com) — **[NEW Jul 31, DIRECT OUTREACH]**: Josh sent "G10 tube order for Black Swift" (Jul 31, 2:54pm); materials supplier engagement
 
-**Logistics & Fulfillment — Sustained High Volume Jul 30-31**
-- **McMaster-Carr** — **[SUSTAINED HEAVY Jul 30-31]**: 3 orders confirmed (Jul 30); receipts/certifications/tracking (Jul 30, Jul 31); sustained mechanical/industrial procurement at scale
-- **Spindrift Market** — **[SUSTAINED Jul 30]**: 2 shipment status updates (Jul 30); orders delivered
-- **SendCutSend** — Sheet metal fabrication; shipment in transit (Jul 30)
-- **UPS** — Arrival notifications sustained (Jul 30)
-- **Amazon.com** — Multiple shipments: Arts & Crafts/Hardware (Jul 30), Essentials (Jul 30), Toys (Jul 30); mix of operational and miscellaneous purchases
-- **Pirate Ship** — Shipping services $64.48 payment (Jul 30)
+**Rapid Manufacturing / 3D Printing / Prototyping — NEW ESCALATION**
+- **JawsTec Manufacturing** — **[MAJOR ESCALATION Jul 31]**: 2 new orders received (Orders #70260, #70261) (Jul 31, 4:42pm-4:43pm); payment requests issued (Jul 31, 4:43pm-4:48pm); **indicates significant manufacturing acceleration**
+- **Protolabs** — **[SUSTAINED Jul 31, MULTIPLE ORDERS]**: Orders 5184-903 (received, ready for manufacturing Jul 31, 6:16pm), 6794-871 (shipping confirmation Jul 31, 3:07pm); high-volume rapid prototyping engagement
+- **SendCutSend** — Sheet metal fabrication (Jul 31); Order S242P458 tracking
+- **Craftcloud®** — **[SUSTAINED Jul 31, ACTIVE]**: Order #490602963468 from The Wehrmeyer Group LLC (invoice Jul 31, 11:35am; about to ship Jul 31, 11:35am; in transit Jul 31, 5:35pm); high-priority manufacturing services
+- **Dan Fernback** (dan@juggerbot3d.com) — JuggerBot 3D (Prior)
+- **Danny** (danny@rapiddirect.com) — RapidDirect (Prior)
 
-**Manufacturing & Rapid Prototyping**
-- **ProtoSpace Mfg / ProtoCASE** — **[SUSTAINED Jul 30, IMPORTANT]**: Diecast enclosures promotional (Jul 30, 19:24pm)
-- **JawsTec Manufacturing** — Prior sustained activity
-- **MechStack / Fictiv** — **[NEW Jul 30, IMPORTANT]**: "Design for Testability, the Robotics Race" (Jul 30); design/manufacturing services marketing
+**Electronics, Sensors, Components — SUSTAINED HIGH VOLUME Jul 31-Aug 1**
+- **ServoCity®** — **[SUSTAINED MULTIPLE ORDERS Jul 31]**: Order #300046306 updated 3x (Jul 31, 8:00pm, 8:04pm, 8:20pm); active servo/motion control procurement
+- **DigiKey** — Order invoices 130191667 (shipped Jul 31, 8:38pm); Sales order #100742193 (Jul 31, 2:31pm); sustained electronics procurement
+- **IR-LOCK** — **[SUSTAINED Jul 31, IMPORTANT]**: Order #28043 confirmed (Jul 31, 7:16pm), shipment on way (Jul 31, 7:47pm); autonomous flight/vision system components
+- **Hitec RCD USA** — **[SUSTAINED Jul 31]**: Order #5791 (confirmation Jul 31, 7:04pm; log-in Jul 31, 7:02pm; update Aug 1, 4:38am); RC/servo equipment
+- **APC Propellers** — Order received (Jul 31, 7:12pm)
+- **Dronetag** — Receipt #1633-0192 (Jul 31, 7:22pm); drone tracking/registration
 
-**Electronics, Components & Sensors**
-- **Vaisala** — **[SUSTAINED Jul 30]**: Webinar "Weather intelligence for space launches" (Jul 30); meteorological sensor/instrument supplier
-- **Mouser, DigiKey, American Polarizers** — Prior sustained activity
-- **ELEGOO US** — Maker/electronics components (routed via Alexis Lomis)
+**Aerospace-Specific Components**
+- **Vaisala** — Meteorological instrumentation (Prior)
+- **Kollmorgen** — Space & Missile Defense Symposium 2026 (Prior)
 
-**Motor/Propulsion/Battery**
-- **Vertiq, GensTattu, Grepow, Amprius, Powerwerx** — Sustained activity
-- **Kollmorgen** — **[NEW Jul 30]**: Space & Missile Defense Symposium 2026 invitation (Booth S3800); motion control/motor technology vendor
-- **HeliDirect** — **[NEW Jul 30]**: Heli kit promotional (Jul 30)
+### Routed Via Purchasing (purchasing@blackswifttech.com) — MASSIVE VOLUME SURGE
 
-**Travel & Field Operations**
-- **Expedia** — Flights under $200 promotional (Jul 30)
-- **Hilton Honors** — Bonus points promotional (Jul 30)
-- **Budget** — Travel discount reminder (Jul 30)
+**Logistics & Fulfillment**
+- **McMaster-Carr** — Sustained high-volume mechanical/industrial procurement
+- **UPS / USPS** — Tracking/delivery notifications sustained
+- **Home Depot Pro Xtra** — **[NEW Jul 31]**: Perk unlocked (Jul 31, 10:55pm); tool/hardware procurement
+- **Amazon.com** — **[SUSTAINED Jul 31]**: Order of 13 items (Hardware, Camera, misc.) (Jul 31, 7:47pm)
 
-**Non-Essential/Promotional — High Volume**
-- **Rippling** — **[IMPORTANT Jul 31]**: Insurance plan deductions notification (4x duplicate delivery Jul 31, 7:27am); HR/payroll system
-- **AliExpress** — Generic promotional (Jul 31)
-- **Harbor Freight** — Tool
+**High-Priority Procurements (Aug 1)**
+- **SkyGeek** — **[NEW Aug 1, 6:11am]**: Polyurethane topcoats promotional; aircraft coatings/finishing supplier
+
+**eBay / Used Equipment**
+- **Futaba 14SG 14-Channel Transmitters** — **[SUSTAINED Jul 31]**: Multiple eBay purchases from different sellers (corngroe_0, showersofblessings101); radio transmitter procurement (possibly spares or fleet expansion)
+- **Sony A5100 camera** — Surveillance

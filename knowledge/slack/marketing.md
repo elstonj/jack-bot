@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content)
 
-**Activity level:** High frequency discussions across June 2024-July 2026 period, with multiple concurrent projects in various stages. Most recent activity (July 30, 2026) shows ongoing content development for aerial survey and mapping deliverables, with continued focus on visual assets and presentation materials.
+**Activity level:** High frequency discussions across June 2024-July 2026 period, with multiple concurrent projects in various stages. Most recent activity (July 31, 2026) shows ongoing website development including new careers page, with continued focus on visual assets and presentation materials.
 
 ---
 
@@ -118,5 +118,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 ### S0 VTOL Wildfire Visualizer Video Text Corrections (May 8, 2026)
 - Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
-- **Jack's required text corrections:**
-  - Change "accelerating at over 100mph
+- **Jack's required text corrections:** Change "accelerating at over

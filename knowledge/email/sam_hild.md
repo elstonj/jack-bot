@@ -1,9 +1,9 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 123 emails (30 new + 93 previously documented)
-- **Date range:** 25 Jul 2026 – 31 Jul 2026 (7 days)
-- **Volume pattern:** Sustained heavy procurement with continued technical collaboration. 30 Jul shows sustained vendor/shipment traffic (14 messages) + continued VClamp troubleshooting with Frank Strazzabosco. 31 Jul shows minimal activity (1 transactional + 4 duplicate Rippling notifications). Overall: procurement and vendor management dominate; technical escalations now on cooling trajectory post-29 Jul spike.
+- **Total messages scanned:** 162 emails (39 new + 123 previously documented)
+- **Date range:** 25 Jul 2026 – 01 Aug 2026 (8 days)
+- **Volume pattern:** Massive procurement spike on 31 Jul (27/39 new messages = 69% of daily traffic). Clear shift from technical troubleshooting phase (29–30 Jul) to inventory/manufacturing fulfillment phase (31 Jul–01 Aug). 01 Aug shows cooling trend (4 messages, mostly transactional). Pattern suggests: coordinated component ordering across multiple vendors, manufacturing readiness, and system buildout cycle.
 
 ## Key Correspondents
 
@@ -11,98 +11,91 @@
 
 **Human Senders (Direct Communication):**
 
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — **2 new messages, 30 Jul** — Ongoing technical consultant
-   - Continued VClamp troubleshooting ("VClamp update" thread, 06:07 and 17:51 UTC)
+1. **Jack Elston** (elstonj@blackswifttech.com) — **3 new messages, 31 Jul** — Technical/procurement coordination
+   - "Re: Additional orders" thread (10:37 UTC, 12:22 UTC, 19:45 UTC)
+   - All [IMPORTANT] flagged
+   - CC'd with Matt Crabtree (Waveform Engineering) and Sam Hild directly on 17:08 UTC message
+   - Status: Active real-time coordination on component sourcing with external engineering partner
+
+2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **2 new messages, 31 Jul** — External technical partner
+   - "RE: Additional orders" (01:38 UTC, 17:08 UTC)
    - Both [IMPORTANT] flagged
-   - Shift from concurrent crisis (29 Jul: 6 messages, 40-min window) to asynchronous follow-up (30 Jul: 2 messages, ~12-hour intervals)
-   - Status: Issue persists but debugging pace has normalized
+   - Direct communication to Jack Elston + Sam Hild CC
+   - Status: Elevated to active participant in procurement decisions (not just receiving forwarded emails)
 
-2. **Jack Elston** (elstonj@blackswifttech.com) — **1 new message, 30 Jul** — Continued technical collaboration
-   - "Re: Additional orders" [IMPORTANT] at 13:23 UTC
-   - CC'd with external contact: Matt Crabtree (matt.crabtree@waveformengineering.com) — **NEW external technical contact**
-   - Subject suggests procurement/sourcing coordination with external engineering firm (Waveform Engineering)
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **3 new messages, 31 Jul** — Operations/vendor coordination
+   - Green Apple Cleaning follow-up (11:47 & 11:22 UTC) — facility services negotiation
+   - Framework.work order status inquiry (09:18 UTC) — computing hardware tracking
+   - Status: Continued vendor management and customer support routing
 
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **5 new messages, 30 Jul** — Operations/vendor coordination
-   - Green Apple Cleaning (facility services) — 2 messages, back-to-back (11:07 & 11:30 UTC)
-   - Framework Support order follow-up (12:43 UTC) — routing customer inquiry internally
-   - Aeronet invoice routing (automated noreply, 20:00 UTC)
-   - Rippling HR platform (3 duplicate notifications, 31 Jul 07:27 UTC) — insurance deduction updates
+**Automated/Transactional (31 new messages — Manufacturing/Component Surge):**
 
-**Automated/Transactional (21 new messages):**
+**Manufacturing & Fabrication Services (9 messages):**
+- **Protolabs** (4 messages, 31 Jul) — Order 5184-903 & 6794-871 (received → ready for manufacturing → shipped) + Invoice 100-A000840621 (01 Aug). **SIGNAL: Two concurrent orders, one shipping, one in manufacturing queue**
+- **SendCutSend** (1 message, 31 Jul) — Order received ("here's what's next" status)
+- **Craftcloud** (1 message, 31 Jul) — Invoice for Order #490602963468 (manufacturing service)
+- **JawsTec Manufacturing** (4 messages, 31 Jul) — Orders #70260 & #70261 (dual concurrent orders, payment requests + confirmations). **SIGNAL: High-volume manufacturing orders with invoice tracking**
 
-- **McMaster-Carr** (3 messages, 30 Jul) — Receipt, confirmation, certificate + tracking for 30 Jul order (consistent consumables supplier)
-- **Spindrift Market** (4 messages, 30 Jul) — Order SH62380484 & SH62380490 shipment tracking (in transit → out for delivery → delivered cycle)
-- **Rippling** (4 messages, 31 Jul 07:27:29–07:27:32 UTC) — Insurance plan notifications (duplicate/system error; HR/payroll platform integration)
-- **Jetpack/Automattic** (1 message, 30 Jul) — VaultPress Backup license activation (WordPress backup service — website/IT infrastructure)
-- **UnitedHealthcare** (1 message, 30 Jul) — Weight loss benefits promotional (health insurance vendor)
-- **Vaisala** (1 message, 30 Jul) — "Weather intelligence for space launches" webinar [IMPORTANT SIGNAL]
-- **HeliDirect** (1 message, 30 Jul) — Promotional 48-hour sale (RC equipment — ongoing)
-- **eBay** (1 message, 30 Jul) — Futaba 14SG search results (RC transmitters — ongoing)
-- **Pirate Ship** (1 message, 30 Jul) — Shipping payment receipt ($64.48) for Joshua Fromm
+**RC/Propulsion Components (7 messages):**
+- **ServoCity** (4 messages, 31 Jul) — Order #300046306 (order confirmation → updated → updated again → updated). **SIGNAL: Multiple status changes on single order; possibly high-priority**
+- **APC Propellers** (1 message, 31 Jul) — Order received
+- **Hitec RCD USA** (2 messages, 31 Jul) — Order #5791 (confirmation + status update)
+
+**Specialized Aviation/Sensor Components (3 messages):**
+- **IR-LOCK** (2 messages, 31 Jul) — Order #28043 (confirmed + shipment notification) [IMPORTANT]. **SIGNAL: Infrared optical systems; likely vision/guidance component**
+- **Dronetag s.r.o.** (1 message, 31 Jul) — Payment accepted (drone identification/tracking system)
+
+**Electronics Distribution (2 messages):**
+- **DigiKey** (2 messages, 31 Jul) — Order #100742193 (PO acknowledgement + thank you). **SIGNAL: High-value component electronics order**
+
+**Supply/Specialty Items (4 messages):**
+- **SkyGeek** (1 message, 01 Aug) — "Polyurethane Topcoats for Lasting Performance" (routed to Joshua Fromm/purchasing)
+- **eBay** (2 messages, 31 Jul) — Futaba 14SG & T14SG inquiries (RC transmitters — continued monitoring)
+- **Toggl Track** (1 message, 31 Jul) — Time tracking platform (no subject; direct to Sam Hild)
+
+**Other Transactional:**
+- **Rippling** (1 message, 31 Jul) — Payroll confirmation (7/1–7/31 payment)
 
 ### Recipients (Updated)
-- **purchasing@blackswifttech.com** (13/30 new messages — primary vendor routing)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — 2 direct technical exchanges (VClamp updates)
-- **Jack Elston** (elstonj@blackswifttech.com) — 1 message on additional orders/procurement
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **NEW recipient** (external technical contact, receives procurement-related messages)
-- **Meredith Needham** — Receives vendor coordination emails; forwards/CC'd on internal/external vendor management
-- **Joshua Fromm** — Receives shipping receipts/payment confirmations
+- **purchasing@blackswifttech.com** (26/39 new messages routed through purchasing account — primary vendor funnel)
+- **Jack Elston** (elstonj@blackswifttech.com) — 3 direct exchanges on "Additional orders"
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 2 messages, now elevated to direct participant (not just recipient)
+- **Meredith Needham** — 3 messages (vendor coordination, Framework support, Green Apple Cleaning)
+- **Joshua Fromm** (joshua@greenapplecleaningcrew.com, purchasing@blackswifttech.com) — Receives SkyGeek & Craftcloud routing
+- **Maciej Stachura** (purchasing@blackswifttech.com) — Receives Protolabs manufacturing updates
+- **Alex Lomis** (purchasing@blackswifttech.com) — Receives Dronetag payment confirmations
+- **Sam Hild** (direct) — Receives Toggl Track & Rippling notifications; CC'd on Matt Crabtree "Additional orders" messages
 
 ### Internal vs External (Updated)
-- **External:** 25/30 messages (vendors, suppliers, consultants, external engineering contact)
-- **Internal:** 5/30 messages (Frank Strazzabosco x2, Jack Elston x1, Meredith Needham x2 [Green Apple Cleaning, Framework])
-- **Blurred:** Matt Crabtree (waveformengineering.com) — external engineering firm receiving procurement-related internal correspondence
+- **External:** 31/39 messages (vendors, manufacturers, component suppliers)
+- **Internal:** 8/39 messages (Jack Elston x3, Meredith Needham x3, Sam Hild x1 [Toggl Track direct], Rippling x1)
+- **Key internal routing:** Jack Elston ↔ Matt Crabtree coordination visible in "Additional orders" thread (elevated from previous CC-only pattern)
 
 ## Topic Patterns
 
-### Technical Design/Engineering (Continued but Cooling)
+### Manufacturing & Production (NEW — Major Signal)
 
-**VClamp Board — Ongoing Troubleshooting (30 Jul):**
-- Frank Strazzabosco continues "VClamp update" thread (06:07 & 17:51 UTC)
-- Sam Hild responds with two brief exchanges (11:16 & 12:08 UTC)
-- **Status change:** From 29 Jul's acute 40-minute debugging window to 30 Jul's extended troubleshooting cycle
-- Suggests: Issue not fully resolved; moving into sustained debug/iteration phase rather than emergency response
+**Concurrent Manufacturing Orders (31 Jul surge):**
 
-### Procurement (Expanded & New Signals)
+1. **Protolabs** (Precision machining/custom parts)
+   - Order 5184-903: Received 16:54 UTC → Ready for manufacturing 18:17 UTC → Shipped 15:07 UTC (01 Aug)
+   - Order 6794-871: Shipping confirmation 15:07 UTC
+   - Suggests: Multiple precision components in manufacturing pipeline; 24-48 hour turnaround indicates rush/priority orders
 
-**Electronics & Components (Established):**
-- McMaster-Carr (consumables, order 30 Jul)
-- Spindrift Market (orders SH62380484 & SH62380490 — multiple concurrent orders on same vendor)
-- JawsTec, Samsung USA (from previous period)
+2. **JawsTec Manufacturing** (Custom fabrication)
+   - Order #70260 & #70261 (parallel orders)
+   - Both received & invoiced same day (16:42–16:45 UTC)
+   - Payment requests issued immediately
+   - Suggests: Capacity planning or bulk component production
 
-**NEW External Engineering Relationship:**
-- **Matt Crabtree / Waveform Engineering** (waveformengineering.com)
-  - Included on "Additional orders" discussion with Jack Elston
-  - Suggests: External design/engineering firm may be sourcing components or validating procurement for technical project
-  - Could be related to VClamp or 24V UVLO design work
+3. **SendCutSend** (Sheet metal/laser cutting)
+   - Order received & in production queue
+   - Complements Protolabs precision work
 
-**Aerospace/Aviation (Expanded Signal):**
-- **Vaisala** — "Weather intelligence for space launches" webinar invitation
-  - Vaisala = weather sensors & environmental monitoring (Finnish manufacturer)
-  - **CRITICAL SIGNAL:** "Space launches" explicitly mentioned; suggests BST involvement in aerospace/space applications beyond RC systems
-  - May indicate: High-altitude payload systems, launch vehicle integration, or space-qualified hardware development
+4. **Craftcloud** (Distributed manufacturing network)
+   - Order #490602963468 invoiced same day
 
-**RC/Unmanned Systems (Continued):**
-- Spindrift Market (likely RC-related based on concurrent ordering pattern)
-- HeliDirect, eBay (Futaba 14SG RC transmitters — ongoing monitoring)
-
-**Infrastructure/Operations (Secondary):**
-- Green Apple Cleaning (facility management, 2 messages from Meredith Needham)
-- Jetpack/VaultPress (website backup — BST website/IT infrastructure)
-- Framework (computing hardware order follow-up)
-- Pirate Ship (shipping label service)
-
-### Notable New Vendor/Service Categories
-- **Vaisala webinar:** Strongest signal yet of space/launch industry involvement
-- **Spindrift Market:** Multiple concurrent orders (SH62380484 & SH62380490) suggest inventory buildup or multiple simultaneous projects
-- **Waveform Engineering:** External technical partner now visible in procurement discussions
-
-## Communication Patterns
-
-### Temporal Patterns (30 Jul data)
-- **Morning burst (06:07–13:30 UTC):** VClamp troubleshooting, internal procurement coordination, vendor management
-- **Afternoon sustained (17:24–20:29 UTC):** Vendor confirmations, invoice routing, continued Frank Strazzabosco follow-up
-- **Late night (21:38–23:10 UTC):** Automated shipment tracking, Spindrift deliveries going out
-
-### Message Distribution by Category
-- **Vendor confirmations/receip
+**Production Interpretation:**
+- 4 concurrent manufacturing services (Protolabs, JawsTec, SendCutSend, Craftcloud) all receiving/confirming orders within 6-hour window (31 Jul 16:42–16:58 UTC)
+- **Pattern suggests:** Coordinated kit/system assembly — precision parts, custom fabrication, sheet metal, and distributed manufacturing all activated simultaneously
+- **Timeline:** Components ordered/confirmed 31 Jul afternoon; Protolabs shipping 01 Aug → suggests 8–16 hour expedited fulfillment

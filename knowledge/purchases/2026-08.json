@@ -1,0 +1,28 @@
+[
+  {
+    "id": "19fbc5ea651eb99b",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "SkyGeek",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email for polyurethane topcoats; no transaction anchor",
+    "date": "2026-08-01",
+    "subject": "Polyurethane Topcoats for Lasting Performance"
+  },
+  {
+    "id": "19fbbf355bd09f64",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": null,
+    "vendor": "Protolabs",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Manufacturing services (invoice 100-A000840621)",
+    "notes": "Invoice only; amount not disclosed in email",
+    "date": "2026-08-01",
+    "subject": "Protolabs - Invoice 100-A000840621"
+  }
+]

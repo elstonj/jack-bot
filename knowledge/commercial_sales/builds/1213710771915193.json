@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1213710771915193",
+  "asana_task_name": "NextTech Solutions - S3 Arctic",
+  "customer": "NextTech Solutions",
+  "customer_contact": "Trenton McKibbon",
+  "customer_email": "Trenton.mckibben@nexttechsol.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 Arctic system with EO/IR gimbal",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": "2026-07-31",
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Draft ROM and SOW submitted to Trenton on 2026-07-31 for Engineering Sprint. Demo planned June 24-26, 2026 in Ottawa. Arctic demo in Whitehorse Nov-Apr 2027. Customer seeking 120km range (1h 35min TOF) S3 with EO/IR gimbal for Joint Forces Command evaluation. BST owes background info on past S2 Arctic ops and Canadian company contacts.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "parts"
+  ],
+  "last_evidence_date": "2026-07-31",
+  "last_contact_date": null
+}

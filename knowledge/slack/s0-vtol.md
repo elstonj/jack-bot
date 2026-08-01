@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through July 30, 2026 (ongoing project)
+Time range: Early development through July 31, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -53,7 +53,7 @@ Time range: Early development through July 30, 2026 (ongoing project)
 - Aircraft experienced back-to-back failures with different characteristics: first failure showed ~30% throttle command shift in PWM mode (manageable), second failure showed same issue but worse after switching to DShot protocol
 - Potential ESC/PWM scaling issue identified that may cause command shifting
 - DShot protocol attempted as mitigation for the underlying scaling issue but made failure worse
-- Sam conducting oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
+- Sam conducted oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
 
 **Test Rig Motor Failure & Investigation (May 5-6, 2026):**
 - Brief motor command freeze (~1 second) followed by all three motor shutdown observed during overnight test run (May 5, 2026)
@@ -97,5 +97,5 @@ Time range: Early development through July 30, 2026 (ongoing project)
   - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
   - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
 
-**ESC Voltage & Failure Analysis (July 30, 2026):**
-- Ruled out as failure causes
+**FET Control Circuit Issues - Motor Shutdown Root Cause (July 31, 2026):**
+- Sam
