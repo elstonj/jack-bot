@@ -1,16 +1,17 @@
 # Jack Elston — Time Tracking
 
 ## Summary
-- Total hours tracked: 13,114.8 hours (cumulative)
-- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,397.8h), [001-13] General Operations (407.9h), Project 154533463 (357.2h)
-- Time period: Extensive historical tracking through current activity (latest batch: 1.0 hour)
+- Total hours tracked: 13,123.3 hours (cumulative)
+- Primary projects: Project None (7,079.0h), Project 183171534 (2,110.3h), [300-3] 2026 IDIQ (Hurricane) (1,397.8h), [001-13] General Operations (410.7h), Project 154533463 (357.2h)
+- Time period: Extensive historical tracking through current activity (latest batch: 8.5 hours)
 
 ## Project Breakdown
 - **Project None**: 7,079.0 hours (54.0% of total)
 - **Project 183171534**: 2,110.3 hours (16.1% of total)
 - **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,397.8 hours (10.66% of total)
-- **[001-13] General Operations (Overhead)**: 407.9 hours (3.11% of total) — *Updated: 406.9h → 407.9h (+1.0h)*
+- **[001-13] General Operations (Overhead)**: 410.7 hours (3.13% of total) — *Updated: 407.9h → 410.7h (+2.8h)*
 - **Project 154533463**: 357.2 hours (2.72% of total)
+- **[001-14] SwiftCore 3.3 (IRAD)**: 5.8 hours (0.04% of total) — *New project*
 - **[001-13] BD Pipeline (Overhead)**: 166.6 hours (1.27% of total)
 - **Commercial Sales**: 187.3 hours (1.43% of total)
 - **[001-13] Proposals (IRAD)**: 73.5 hours (0.56% of total)
@@ -26,14 +27,16 @@
 - **Remaining projects**: 1,167.6 hours (8.89% of total)
 
 ## Recent Activity
-Most recent work (1.0 hour tracked in current batch):
+Most recent work (8.5 hours tracked in current batch):
 
-- **[001-13] General Operations**: 1.0 hour (100% of batch)
-  - Answering Emails: 0.5 hours
-  - Jack's Schedule (Justin Branch): 0.5 hours
+- **[001-14] SwiftCore 3.3 (IRAD)**: 5.8 hours
+  - Branch merging for firmware — *New technical work area*
+- **[001-13] General Operations**: 2.8 hours
+  - Answering Emails: 2.8 hours combined
 
 ## Patterns
-- **Core operational baseline stable**: Ongoing administrative focus with consistent email management and schedule coordination (now with Justin Branch vs. previous Jon Griffith coordination)
-- **Leadership/coordination bandwidth**: Continued mix of email handling and schedule management indicating sustained leadership/coordination responsibilities
-- **Project focus steady**: No significant shifts visible in recent narrow activity window; Hurricane platform work and general operations remain primary focus areas
-- **Contact rotation**: Schedule coordination task now assigned to Justin Branch (previously Jon Griffith), suggesting operational workflow adjustments or expanded coordination network
+- **New technical engagement**: Introduction of SwiftCore 3.3 firmware work represents expansion into technical development (branch merging), shifting from purely administrative/leadership focus
+- **Core operational baseline continues**: Email management remains consistent overhead task (~1-2h per tracked period)
+- **Leadership/coordination stable**: Administrative and schedule coordination responsibilities maintained
+- **Emerging development focus**: Firmware work suggests potential increased hands-on technical involvement or leadership over development activities
+- **Contact consistency**: Schedule coordination patterns continue with established network

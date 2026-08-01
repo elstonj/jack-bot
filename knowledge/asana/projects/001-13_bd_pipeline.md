@@ -3,7 +3,7 @@
 ## Overview
 - **Client/customer**: Mixed sales pipeline across government, defense, academic, and commercial sectors (US, Canada, UK).
   - **Active/Priority**: Oklahoma State University (S0 VTOL), NextTech Solutions (S3 Arctic), Embry-Riddle Aeronautical University (S0 VTOL), UC Santa Cruz (S2/S3), USAF SOCOM (S0-AD Dev), UK Royal Navy/Lockheed Martin UK (ASW Magnetometer)
-  - **New/Emerging**: University of North Dakota (S0 VTOL – NSF CAREER proposal), USAF WC-130J Weather Squadrons (S0-AD), NOAA Ron Brown vessel (S0 VTOL), **BEI Corp (South Korean battery cell manufacturer – first contact 2026-07-27)**, **Supercool Earth (first contact 2026-07-02)**, **National Oceanography Centre – Greenland Project (first contact 2025-12-17)**
+  - **New/Emerging**: University of North Dakota (S0 VTOL – NSF CAREER proposal), USAF WC-130J Weather Squadrons (S0-AD), NOAA Ron Brown vessel (S0 VTOL), BEI Corp (South Korean battery cell manufacturer – first contact 2026-07-27), Supercool Earth (first contact 2026-07-02), National Oceanography Centre – Greenland Project (first contact 2025-12-17)
   - **Recently Closed**: Westlake Corporation (order completed 2026-07-06), Canadian Rangers Demo – Ottawa (completed 2026-07-06)
   - **Archived**: Nexus Weather
 
@@ -11,7 +11,6 @@
 
 - **Timeline**: 
   - Most recent activity: 2026-07-29 (BEI Corp initial lead follow-up completed; SOCOM CRADA task marked completed 2026-07-27)
-  - University of North Dakota quote sent & NSF solicitation closing date: 2026-07-22
   - National Oceanography Centre – Greenland Project due: 2026-07-31
   - Last major contact on active opportunities: Canadian Rangers Demo completed 2026-07-06; Westlake Corporation order completed 2026-07-06; UC Santa Cruz visited BST 2026-05-29; NextTech last contact 2026-03-17; Oklahoma State last contact 2025-04-14; UK Royal Navy last contact 2026-03-17; SOCOM last contact 2026-01-22; USAF WC-130J last contact 2026-02-18; NOC Greenland last contact 2026-03-17
 
@@ -21,9 +20,8 @@
 
 - **Risk signals**:
   - 🔴 **CRITICAL – IMMEDIATE OUTREACH REQUIRED**: Oklahoma State University (S0 VTOL) – last contact 2025-04-14 (16+ months stale). Equipment purchases pending; Estimate 1336 unofficially approved but BST procurement status unclear. Previously tracked due 2026-06-30 (now overdue). **Action: Resume contact with Jamey D. Jacob immediately.**
-  - 🔴 **CRITICAL – IMMEDIATE OUTREACH REQUIRED**: NextTech Solutions (S3 Arctic) – last contact 2026-03-17 (16+ months stale). Requires 120km range / 1h 35min TOF with EO/IR gimbal; demos pending. **Action: Resume contact immediately; confirm current status and demo timeline.**
-  - 🔴 **University of North Dakota – NSF CAREER Proposal solicitation closes 2026-07-22** (DATE PASSED OR AT). Quote sent 2026-07-22. **Action: Follow up immediately to confirm proposal submission status and advance timeline.**
-  - ⚠️ **National Oceanography Centre – Greenland Project – DUE 2026-07-31**: First contact 2025-12-17; last contact 2026-03-17 (4+ months stale). Funded by ARIA (UK non-defense science equivalent of DARPA); targeting 2027 for shakedown campaign in UK. Contact: Adrien Martin (admartin@noc.ac.uk). Interest in LDCR, Custom Payload, Other products. Assigned to Maciej Stachura. **Action: Contact immediately before due date; clarify status and pathway to 2027 campaign.**
+  - 🔴 **CRITICAL – IMMEDIATE OUTREACH REQUIRED**: NextTech Solutions (S3 Arctic) – last contact 2026-03-17 (16+ months stale). Requires 120km range / 1h 35min TOF with EO/IR gimbal; demos pending. **Action: Resume contact immediately; confirm current status and demo timeline.** *Assigned to Beck Cotter; no due date set.*
+  - 🔴 **OVERDUE: National Oceanography Centre – Greenland Project – DUE 2026-07-31**: First contact 2025-12-17; last contact 2026-03-17 (4+ months stale). Funded by ARIA (UK non-defense science equivalent of DARPA); targeting 2027 for shakedown campaign in UK. Contact: Adrien Martin (admartin@noc.ac.uk). Interest in LDCR, Custom Payload, Other products. Assigned to Maciej Stachura. **Action: Contact immediately before due date; clarify status and pathway to 2027 campaign.**
   - ⚠️ **UC Santa Cruz (S2/S3)** – last contact 2025-08-08 (12+ months); visited BST 2026-05-29 (Xavier Prochaska, Tim Handley, Alex Terrazas); reschedule for operational S3 demo "possibly by end of the year." Strong referral (10/10 from Kevin Rozmiarek). Assigned to Jack Elston; no due date set. Contacts: Tim Handley (thandley@ucsc.edu), Xavier Prochaska (jxp@ucsc.edu), Alex Terrazas (aterraz1@ucsc.edu). **Action: Confirm S3 demo availability and finalize campus visit timeline.**
   - ⚠️ **BEI Corp (Battery Manufacturer) – INITIAL FOLLOW-UP COMPLETED**: First contact 2026-07-27 via website form; initial response task completed 2026-07-29. Contact: Shawn Chong (shawn@beilab.ai, 821066502908). South Korean battery cell manufacturer seeking collaboration. **Next action: Schedule introductory meeting; clarify fit with BST product portfolio and explore partnership opportunity.**
   - ⚠️ **Supercool Earth – NEW INBOUND LEAD**: First contact 2026-07-02 via website form. Contact: Wolfgang (wolfgang@supercool-earth.com). Assigned to Beck Cotter, no due date set. **Action: Clarify opportunity scope and fit.**
@@ -40,4 +38,9 @@
 
 **Oklahoma State University – S0 VTOL**
 - **Primary Contact**: Jamey D. Jacob PhD
-- **Status**: 2 of 3 equipment purchases pending; Estimate 
+- **Status**: 2 of 3 equipment purchases pending; Estimate 1336 unofficially approved
+- **Last Contact**: 2025-04-14 (16+ months stale – CRITICAL)
+- **Next Action**: Resume contact immediately
+
+**NextTech Solutions – S3 Arctic**
+- **Primary Contact**: Trenton McKibbon (Trenton.mckibben@

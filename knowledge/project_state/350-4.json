@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 13803.75,
+        "amount": 13623.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-07-31"
+        "last_updated": "2026-08-01"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 20224.1,
+      "total": 20044.1,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 104005.9,
+    "remaining": 104185.9,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-07-31T09:08:13Z"
+    "last_reconciled": "2026-08-01T09:03:24Z"
   },
   "milestones": [
     {
@@ -125,6 +125,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-07-31T09:08:13Z",
+  "last_full_rebuild": "2026-08-01T09:03:24Z",
   "last_incremental_update": null
 }

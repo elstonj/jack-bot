@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-30",
-    "end": "2026-07-31"
+    "start": "2026-07-31",
+    "end": "2026-08-01"
   },
   "totals": {
     "revenue": 306000.0,
-    "expenses": 15872.84,
+    "expenses": 7880.14,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 15177.5,
+      "DIRECT COSTS:DC-Direct Material Purchases": 7184.8,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34
     }
   },
@@ -154,19 +154,19 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-07-30",
-      "doc_number": "1010",
-      "total": 8355.0,
-      "attributed": 8355.0,
+      "date": "2026-07-31",
+      "doc_number": "253453718418",
+      "total": 362.3,
+      "attributed": 362.3,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "No Asana request. J. Fromm made purchase for NOAA IDIQ",
       "lines": [
         {
-          "amount": 8355.0,
+          "amount": 362.3,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "S0 Deployment Tubes & Hardware"
+          "description": "Supplies for NOAA IDIQ (Parachute cap_Main.step, Parachute Tube Stopper_V475.step,  Front cap_V481.step)"
         }
       ]
     }

@@ -73,6 +73,10 @@
   - Email: brent.keefer@blackswifttech.com
   - Notes: Role and department unknown
 
+- **Cory Dixon**
+  - Email: cory.dixon@blackswifttech.com
+  - Notes: Role and department unknown (NEW)
+
 - **Daniel Prendergast**
   - Email: daniel.prendergast@blackswifttech.com
   - Notes: Role and department unknown
@@ -100,7 +104,7 @@
 
 ## Summary
 
-**Total Headcount:** 18 active employees + 3 service accounts (21 total roster entries)
+**Total Headcount:** 19 active employees + 3 service accounts (22 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -116,20 +120,24 @@
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 2 people
-- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Daniel Prendergast, Jameel Barkat, Tim Hegwood)
+- **Unclassified:** 6 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Jameel Barkat, Tim Hegwood)
 - **Service Accounts:** 3
 
 **Data Validation Notes:**
-- ✅ All 21 roster entries confirmed against raw data
+- ✅ All 22 roster entries confirmed against raw data
 - ✅ All phone numbers standardized to XXX-XXX-XXXX format
 - ✅ All email addresses preserved exactly as provided
-- ✅ All contact information validated and up-to-date
-- ✅ No changes detected from previous update
-- ✅ Directory remains stable and consistent
+- ✅ One new team member added: Cory Dixon
+- ✅ No changes to existing personnel records
+- ✅ Directory updated and consistent
+
+**Changes from Previous Update:**
+- **NEW:** Cory Dixon added to roster (email: cory.dixon@blackswifttech.com, role unknown)
+- Total headcount increased from 18 to 19 active employees
 
 **Observations:**
-- Engineering-focused organization: 8 technical staff (44% of active headcount)
-- Five team members remain unclassified — recommend reaching out to leadership for role clarification
+- Engineering-focused organization: 8 technical staff (42% of active headcount)
+- Six team members remain unclassified (up from five) — recommend reaching out to leadership for role clarification, particularly for the newly added Cory Dixon
 - Active intern program with 2 positions filled
 - Three service accounts supporting platform operations
-- Roster stable with no personnel changes
+- Steady roster growth with one new hire since last update

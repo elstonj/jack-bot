@@ -1,88 +1,107 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 133 emails (92 previous + 41 new)
-- **Date range:** 24 Jul 2026 – 31 Jul 2026 (8 days)
-- **Volume:** High transactional/automated (~75%), human-to-human correspondence (~25%)
-- **Pattern consistency:** Sustained NOAA partnership engagement, accelerating procurement activity (McMaster-Carr, Spindrift Market, SendCutSend), new strategic vendor outreach (CR Systems, JuggerBot3D, RapidDirect), Navy/SBIR program coordination
+- **Total messages scanned:** 175 emails (133 previous + 42 new)
+- **Date range:** 24 Jul 2026 – 1 Aug 2026 (9 days)
+- **Volume:** Very high transactional/automated (~80%), human-to-human correspondence (~20%)
+- **Pattern consistency:** Sustained high-velocity procurement across expanding vendor ecosystem; automated order tracking now dominant; strategic human correspondence concentrated on NOAA, Navy/SBIR, and manufacturing partnerships
 
 ## Key Correspondents
 
 ### Senders (by frequency)
-1. **Purchasing@blackswifttech.com (forwarding vendor notifications)** — 28+ emails
-   - **Vendor shipment tracking:** McMaster-Carr (5 new), Spindrift Market (4), SendCutSend (1)
-   - **Automated vendor alerts:** Vaisala, Daniels Manufacturing, Pirate Ship, thinh nguyen (supplier management)
-2. **McMaster-Carr (transactional)** — 5 new emails (Jul 30–31)
-   - **Pattern:** Daily orders sustained; Jul 30th order confirmed with tracking & certificate
-3. **Jack Elston (elstonj@blackswifttech.com)** — Continued NOAA coordination
-   - **RSSI from Roof Test** — Email thread continuing through Jul 30 (09:31 MDT)
-4. **NOAA Federal direct contacts (ongoing technical partnership):**
-   - **Nick Underwood (nicholas.underwood@noaa.gov)** — RSSI coordination (Jul 30, 08:16 EDT)
-   - **Laura Rock (laura.rock@noaa.gov)** — RSSI thread (Jul 30, 10:14 EDT)
-5. **Navy/DoD Contacts (New/Escalated Activity):**
-   - **Bradley Evans (bradley.evans8.civ@us.navy.mil)** — Bartington's Sensor shipping coordination (3 emails, Jul 30)
-   - **Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil)** — Sensor shipment coordination (2 emails, Jul 30)
-   - **Anthony D. Brescia (anthony.d.brescia.civ@us.navy.mil)** — SBIR Mag Tag-up meeting invite (Jul 30)
-6. **Maciej Stachura (stachura@blackswifttech.com)** — Navy liaison/SBIR program lead
-   - **SBIR Mag Tag-up meeting invite** — Tue Aug 4, 10am–11am MDT (Jul 30, 16:34 UTC)
-   - Coordinating Bartington sensor shipment with Navy contacts
-7. **Direct Vendor Outreach (New Strategic Contacts):**
-   - **Dane Button (daniel.button@cr.systems)** — CR Systems x BST partnership discussion (4-email thread, Jul 30)
-     - Multiple handoffs: Dane Button → Jason Emigh (jason.emigh@cr.systems); Alex Brown (a@heyorbitvibe.com) also involved
-     - Timestamps: 14:31, 17:29, 17:51 MDT (Alex replies); 20:59, 23:36 UTC (CR Systems responses) — **indicates active real-time negotiation**
-   - **Dan Fernback (dan@juggerbot3d.com)** — "Manufacturing for the modern program" (Jul 30, 17:17 UTC, marked IMPORTANT)
-     - Sent directly to alex.lomis@bst.aero (not main corporate email)
-   - **Danny (danny@rapiddirect.com)** — "Custom Project (RapidDirect)" (Jul 30, 18:21 CST+8, marked IMPORTANT)
-     - Sent to alex.lomis@bst.aero; suggests technical/manufacturing capability evaluation
-8. **Rippling (Notifications)** — Insurance plan deductions (4 duplicate emails, Jul 31, 07:27 UTC)
-   - **System quirk:** Triple/quadruple sends suggest email retry or notification bug
-9. **Meredith Needham (meredith.needham@blackswifttech.com)** — Internal coordination
-   - Green Apple Cleaning Crew (2 emails, Jul 30) — facility management follow-up
-   - Framework.work support inquiry (Jul 30, 12:43 MDT) — likely hardware procurement
-10. **Elaine Erb (elaine.erb@boulderchamber.com)** — Alex sent reply (Jul 30, 17:22 MDT)
-    - Subject: "Eco Pass Information" — likely transportation/commute coordination (Boulder Chamber of Commerce context)
+
+**Automated Vendor Order Tracking (New Period: 31 Jul – 1 Aug)**
+- **ServoCity® (sales@servocity.com)** — 4 emails (Jul 31, multiple timestamps)
+  - Order #300046306: confirmation, status updates (19:43, 20:00, 20:04 UTC)
+  - **Pattern:** Same order ID, rapid-fire status updates (likely stock/fulfillment progression)
+  
+- **Protolabs (via Purchasing)** — 3 emails (Jul 31 – 1 Aug)
+  - Orders 5184-903 (ready for manufacturing), 6794-871 (shipping confirmation)
+  - Invoices routed through Maciej Stachura (purchasing@blackswifttech.com)
+  - **Pattern:** Manufacturing/fabrication orders in active cycle
+
+- **Hitec RCD USA (orders@hitecrcd.com)** — 3 emails (Jul 31)
+  - Order #5791: account login, confirmation, status update
+  - **Pattern:** Radio control/servo components (consistent with UAS/flight platform)
+
+- **DigiKey (via Purchasing & direct)** — 3 emails (Jul 31)
+  - Invoice 130191667 shipped; PO Acknowledgement #100742193
+  - Direct back-in-stock alert to alex.lomis@blackswifttech.com (marked IMPORTANT)
+  - **Pattern:** Electronics procurement; Alex subscribed to component availability alerts
+
+- **SendCutSend (via Purchasing)** — 2 emails (Jul 31)
+  - Order S242P458: receipt + tracking (16:54, 17:04 UTC)
+
+- **JawsTec Manufacturing LLC (via Purchasing & info@jawstec.com)** — 4 emails (Jul 31)
+  - Orders #70260, #70261: received + payment requests (16:42, 16:43, 16:45 UTC)
+  - **Pattern:** Sheet metal/precision fabrication; dual concurrent orders
+
+- **IR-LOCK (info@irlock.com)** — 2 emails (Jul 31)
+  - Order #28043: confirmed + shipment notification (marked IMPORTANT)
+  - **Pattern:** Optical/vision system components (IR-LOCK = visual tracking)
+
+- **APC Propellers (no-reply@apcprop.com)** — 1 email (Jul 31, 19:12 UTC)
+  - Order received confirmation
+  - **Pattern:** Flight hardware (propellers for UAS platforms)
+
+- **Dronetag s.r.o. (via Purchasing)** — 1 email (Jul 31, 19:22 UTC)
+  - Payment accepted notification
+  - **Pattern:** Drone tracking/identification system
+
+- **eBay (corngroe_0, showersofblessings101 via Purchasing)** — 2 emails (Jul 31)
+  - Messages re: Futaba 14SG/T14SG 14-Channel Radio Transmitters (#358855664022, #158124738162)
+  - **Pattern:** Secondary market procurement for flight control systems; multiple concurrent purchases
+
+- **SkyGeek (service@skygeek.com)** — 1 email (1 Aug, 08:09 UTC)
+  - Promotional: Polyurethane Topcoats
+  - **Pattern:** Aircraft coatings (aligned with vehicle manufacturing)
+
+- **Purchasing@blackswifttech.com (forwarding hub)** — 34+ emails
+  - All routing vendor notifications; suggests Alex or team uses centralized purchasing queue
+  - **Key vendors routed:** McMaster-Carr (previous), Spindrift Market, SendCutSend, Protolabs, DigiKey, ServoCity, Hitec RCD, IR-LOCK, JawsTec, APC, Dronetag, eBay, Craftcloud, USPS Informed Delivery
+
+**Internal Human Correspondence (New Period)**
+- **Jack Elston (elstonj@blackswifttech.com)** — 1 email (Jul 31, 17:52 UTC)
+  - **Subject:** "Invitation: Munro Visit @ Mon Aug 10 - Fri Aug 14, 2026"
+  - Recipients: Alex Lomis, Joshua Fromm, Beck Cotter, Maciej Stachura, Daniel Prendergast
+  - **Signal:** Multi-day external site visit (Munro & Associates likely VIP facility tour); Alex marked as primary attendee
+  - **Pattern:** Continuing team coordination; elevated importance (IMPORTANT flag)
+
+- **Meredith Needham (meredith.needham@blackswifttech.com)** — 2 emails (Jul 31)
+  - Green Apple Cleaning Crew: facility management follow-up (11:22, 11:47 CDT)
+  - Framework.work support: order R718378251 status inquiry (09:18 CDT)
+  - **Pattern:** Internal ops/logistics support
+
+- **Joshua Fromm (josh.fromm@blackswifttech.com)** — 1 email (Jul 31, 14:54 CDT)
+  - **Subject:** "G10 tube order for Black Swift" (sent to keith@kmac-distribution.com)
+  - Marked IMPORTANT
+  - **Pattern:** Composite/structural material procurement (G10 = fiberglass composite); Josh coordinating directly with vendor
+
+**New/Notable External Contacts**
+- **GetFPV (chloe@getfpv.com)** — 1 email (Jul 31, 16:12 UTC)
+  - Promotional: "You'll Want To See What Just Landed"
+  - Marked IMPORTANT
+  - **Pattern:** FPV (First-Person View) drone components; Alex directly addressed (not via purchasing)
+
+**Administrative/Non-Work (Mixed Inbox)**
+- **Rippling (no-reply@rippling.com)** — 1 email (Jul 31, 19:36 UTC)
+  - "You just got paid! (7/1/26 - 7/31/26)" — payroll notification to alex.lomis@blackswifttech.com
+  
+- **UnitedHealthcare (UnitedHealthcare@advocate.uhc.com)** — 1 email (Jul 31, 13:05 CDT)
+  - Benefits notification (weight loss program) — marked IMPORTANT
+  
+- **UHC Rewards (notifications@em.werally.com)** — 1 email (Jul 31, 13:09 CDT)
+  - Rewards activity confirmation — marked IMPORTANT
+  
+- **Beyond Menu (noreply@dine.beyondmenu.com)** — 1 email (Jul 31, 18:17 UTC)
+  - Promotional: dining offer — marked IMPORTANT
+  
+- **Asana (no-reply@asana.com)** — 1 email (Jul 31, 15:42 UTC)
+  - Project management: "1 overdue task"
+
+- **Green Apple Cleaning Crew (joshua@greenapplecleaningcrew.com)** — 1 email (Jul 31, 12:09 EDT)
+  - Facility cleaning quote (routed to purchasing@blackswifttech.com)
 
 ### Recipients (by frequency)
-- **Direct emails to Alex (by subject line visibility):**
-  - CR Systems/Dane Button (4-email active thread)
-  - JuggerBot3D (Dan Fernback)
-  - RapidDirect (Danny)
-  - NOAA technical partners (Jack Elston → Nick Underwood, Laura Rock)
-  - Navy contacts (Maciej Stachura coordinating with Bradley Evans, Angel Ruiz-Reyes)
-- **Alex as originator (direct emails sent):**
-  - Dane Button (CR Systems) — 2 replies (Jul 30, 14:31 & 17:51 MDT)
-  - Alex Brown (a@heyorbitvibe.com) — 1 reply (Jul 30, 14:31 MDT)
-  - Elaine Erb (Boulder Chamber) — 1 reply (Jul 30, 17:22 MDT)
-- **Internal recipients (Alex on CC/coordination):**
-  - Maciej Stachura (SBIR Mag Tag-up invite to Beck Cotter, Daniel Prendergast, Navy contacts, Jul 30, 16:34 UTC)
-
-### New High-Value External Contacts (Jul 30–31)
-**Strategic Manufacturing/Integration Partners:**
-1. **CR Systems (Dane Button, daniel.button@cr.systems; Jason Emigh, jason.emigh@cr.systems)**
-   - Status: Active partnership negotiation (4-email thread, 30 Jul)
-   - Involvement: Alex replies directly; also copied to Alex Brown (a@heyorbitvibe.com)
-   - **Signals:** Real-time decision-making authority; likely systems integration or component supplier
-
-2. **JuggerBot3D (Dan Fernback, dan@juggerbot3d.com)**
-   - Subject: "Manufacturing for the modern program" (Jul 30, 17:17 UTC)
-   - Sent to alex.lomis@bst.aero (primary technical contact)
-   - **Signals:** 3D manufacturing/rapid prototyping capability inquiry; marked IMPORTANT
-
-3. **RapidDirect (danny@rapiddirect.com)**
-   - Subject: "Custom Project (RapidDirect)" (Jul 30, 18:21 CST+8)
-   - Sent to alex.lomis@bst.aero
-   - **Signals:** Custom manufacturing RFQ; similar to JuggerBot3D (parallel vendor evaluation likely)
-
-**Vendor Ecosystem (Continued Expansion):**
-- **Spindrift Market** — 4 shipments tracked (orders SH62380484, SH62380490) Jul 30; delivery status updated throughout day
-- **SendCutSend** — Sheet metal/laser cutting shipment on way (Jul 30, 19:11 UTC)
-- **Framework.work** — Hardware component inquiry (Meredith Needham managing, order R718378251)
-
-## Topic Patterns
-
-### Active Technical Programs (Expanded)
-
-**1. RSSI from Roof Test (Ongoing — Now Multi-Party)**
-- **Participants:** Jack Elston (BST) ↔ Nick Underwood (NOAA) ↔ Laura Rock (NOAA)
-- **Latest activity:** Jul 30, 09:31 MDT (Jack) → 08:16 EDT (Nick response) → 10:14 EDT (Laura response)
-- **Assessment:** Still in
+- **Alex as primary recipient:** Direct vendor communications (IR-LOCK, GetFPV, Chloe@GetFPV, DigiKey back-in-stock, Rippling payroll)
+- **Alex on group invites:** Jack Elston's Munro Visit (Aug 10–14) — shared with Joshua Fromm, Beck Cotter, Maciej Stachura, Daniel Prend

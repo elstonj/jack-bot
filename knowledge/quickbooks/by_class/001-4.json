@@ -4,14 +4,14 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-07-15",
-    "end": "2026-07-16"
+    "start": "2026-07-31",
+    "end": "2026-08-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 119.66,
+    "expenses": 7903.87,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 119.66
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 7903.87
     }
   },
   "invoices": [],
@@ -19,19 +19,204 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-15",
-      "doc_number": "39830975",
-      "total": 119.66,
-      "attributed": 119.66,
+      "date": "2026-07-31",
+      "doc_number": "",
+      "total": 405.94,
+      "attributed": 405.94,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 119.66,
+          "amount": 405.94,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Wakefield Thermal"
+          "description": "MHP Tip Main.step x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "",
+      "total": 94.44,
+      "attributed": 94.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 94.44,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Master_Assembly___End_Busbar"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "70261",
+      "total": 1052.48,
+      "attributed": 1052.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1052.48,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Master-Assembly-Duct.step; Master-Assembly-Sonde-Shell.step; Master-Assembly-Tail-Servo-Mount.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "70260",
+      "total": 2656.04,
+      "attributed": 2656.04,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2656.04,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Master-Assembly-AP-Bottom-Brace.step; GPS-Mount-BLS88WP-Servo.step; 1x-Laser-Plate.step; Master-Assembly-Joiner-Insert.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "",
+      "total": 226.86,
+      "attributed": 226.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 226.86,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "AWG Silicone Wire; E-outstanding MPX 6-Pin Plug; OliRC 20pairs Cross ; 20pair Amass MR30 Male Female Connector; 10 Pairs Amass MR60 Plug Female: Quick Release Plate, Camera Tripod Mount: 10pcs 4mm Bullet Banana Plug Connector"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "300046306",
+      "total": 117.86,
+      "attributed": 117.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SERVOCITY - 7333",
+      "lines": [
+        {
+          "amount": 117.86,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "1/4\" Round Servo Shaft x 10"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "100742193",
+      "total": 697.55,
+      "attributed": 697.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 697.55,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD VTOL supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "882026/005977",
+      "total": 306.77,
+      "attributed": 306.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 306.77,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI x 5"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "28043",
+      "total": 1205.28,
+      "attributed": 1205.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1205.28,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SF20/C (100 m) x 4"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "55956",
+      "total": 77.58,
+      "attributed": 77.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Digital card",
+      "lines": [
+        {
+          "amount": 49.71,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "10x7E x 12"
+        },
+        {
+          "amount": 27.87,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "10x7EP x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-31",
+      "doc_number": "5791",
+      "total": 1063.07,
+      "attributed": 1063.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HITEC RCD USA INC - 7333",
+      "lines": [
+        {
+          "amount": 1063.07,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "MD89MW Magnetic Encoder Metal Gear 25T Digital Micro Servo x10"
         }
       ]
     }

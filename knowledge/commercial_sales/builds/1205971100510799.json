@@ -1,6 +1,6 @@
 {
-  "asana_gid": "1205318673933832",
-  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "asana_gid": "1205971100510799",
+  "asana_task_name": "[1313] ERAU 4 S0 VTOL",
   "customer": "Embry-Riddle Aeronautical University",
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
@@ -26,7 +26,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "none",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
@@ -49,10 +49,9 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "2\u00d7 S0 VTOL units fully paid (Inv #1667, May 2025, $21,181.81). Build complete; delivery targeted for Aug/Sep 2026 ISARRA Flight Week per May 2026 customer coordination. BST experienced delays; legal disclosure (May 2026) notes intent for settlement agreement. Training scheduled for June 2025 at BST. Earlier grant proposal (2024) was not funded; this is commercial hardware order. Additional Inv #1730 ($2,462.50, Jan 2026, unpaid) likely for follow-on items or supplementary work.",
+  "notes": "Two S0 VTOL units paid in full (Invoice #1667, May 2025). Legal settlement pending for delayed delivery; company intends to offer additional compensation per Schedule 3.15. Recent Slack activity (July 2026) confirms ongoing engagement and planned training refresh on VTOL UI components.",
   "missing_fields": [
-    "shipped_date",
-    "tracking_number"
+    "receive_by"
   ],
   "last_evidence_date": "2026-07-30",
   "last_contact_date": "2026-05-21"

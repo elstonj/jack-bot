@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 27, 2026) reflects Industrial Plan implementation adjustments, S0 shipment logistics, and production status tracking.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 31, 2026) reflects DFM group visit planning, infrastructure improvements, and equipment optimization discussions.
 
 ---
 
@@ -25,13 +25,14 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **June 15, 2026:** Kareem returning to work at 12:00 PM. Jack Elston soliciting input on task assignment options: S0 components assembly, ground station completion, or slide project work. Division of labor coordination initiated with relevant team members regarding wildfire video project completion.
 - **July 27, 2026:** Beck Cotter now tracking S0 shipment and logistics status (transitioned from Joshua Fromm). Jack Elston assigned to create login access for Beck.
 
-### Equipment Procurement
+### Equipment Procurement & Infrastructure
 - **December 2023:** Drill press acquisition decision pending. Joshua Fromm researching floor-mounted options (Nova 58000 Voyager, Grizzly models) with ~$500+ budget needed for tooling. Jack Elston requested spreadsheet comparison for budget approval.
 - **April 2023:** End-of-week cleanup task list implemented with color-coded tool inventory checks assigned to shop manager. Clipboard-based tracking without formal records (Jack Elston assigned responsibility).
 - **Lab equipment (2024):** JBC HDE Heavy-Duty soldering station recommended for production line work. 26AWG PTFE wire identified as correct specification for 2.00mm clickmate crimps (not ETFE).
 - **May 28, 2026:** Inquiry regarding availability of Gateworks boards for S0 ground stations for IDIQ contract (Joshua Fromm inquiry to Jack Elston).
 - **June 9, 2026:** Joshua Fromm checking on status of Gateworks package received from DigiKey; following up with Ben Busby for tracking information.
 - **June 12, 2026:** BST Steam Deck ordered and tracked via UPS. Ben Busby reports expedited shipping arriving Monday (June 17, 2026), faster than originally stated delivery timeline.
+- **July 31, 2026:** Jack Elston acquired new computing infrastructure for two purposes: (1) git server replacement, (2) external workstation to reduce laptop battery drain. Jack Elston's test scores: 806.0 and 390.6 on OnShape CAD compatibility check. Team running CAD performance benchmarks across devices (Joshua Fromm, Maciej, Alex Lomis, Dan Prendergast comparing OnShape check scores). Discussion of hardware optimization for CAD work; noted potential limitations in GPU/graphics performance on some machines.
 
 ### Lithium Battery Shipping (April 2022 - ongoing)
 **Major compliance discovery:** E2 and S2 batteries cannot be shipped internationally without hazmat certification. Multiple carriers (UPS, DHL) rejected shipments.
@@ -59,4 +60,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Industrial Plan & Asana Portfolio Restructuring (July 23-24, 2026)
 - **July 23, 2026:** Decision to implement Industrial Plan tasks in Asana with new portfolio structure. Four new Views created for each pillar of Industrial Plan (separate from current "Active Projects" and "Business Operations" views). Beck Cotter advocated for separate IP project rather than folding tasks into existing projects to accommodate IP items that don't fit naturally into current projects. Linking via Projects or Dependencies to be used for items that naturally connect to existing projects.
 - **July 23, 2026:** New project code assigned: [001-24] IRAD Albatross (Maciej Suwinski requesting code for new Albatross project). Meredith Needham assigned project ID and added to Toggl.
-- **July 24, 2026:** Maciej Suwinski created Product Pillar Portfolio (<https://app.asana.com/0/portfolio/1216863304066771/1216865943574696>) incorporating S0-IRAD, S0 VTOL IRAD, S3 IRAD, and Albatross IRAD projects. Plan to refocus these projects on Industrial Plan IRAD deliverables only, moving customer delivery milestones and other work items out. Strategy: backfill other projects after prioritizing near-term kickoff items (next few months). S3 Whitehorse
+- **July 24, 2026:** Maciej Suwinski created

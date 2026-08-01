@@ -15,7 +15,7 @@
     - April 30, 2026 (design adjustments & parts orders) — **✅ COMPLETED July 29, 2026**
     - June 30, 2026 (launcher refurbishment) — *in progress*
     - September 30, 2026 (final delivery)
-- **Status:** **Active — forward progress in execution.** 0 open tasks; 2 completed as of July 29, 2026. **🟢 PARTS ORDERING & DESIGN ADJUSTMENTS COMPLETE.** June 30 launcher refurbishment milestone pending; September 30 final delivery is on track.
+- **Status:** **Active — forward progress in execution, but NEW MANUFACTURING TASKS NOW VISIBLE.** Previous Asana record showed 0 open tasks (2 completed); new data reveals **7 open manufacturing tasks, all unassigned and without due dates.** These are critical path items for S2 parts fabrication. **⚠️ PRIORITY ALERT:** Manufacturing schedule needs immediate clarification against Sept 30 delivery deadline.
 - **Team Members:** 
   - Nate Straus (project owner — launcher refurbishment lead)
   - Josh Fromm (parts procurement and design modifications — **completed April 30 tasks July 29, 2026**)
@@ -23,39 +23,58 @@
   - Alex Lomis (oversight; RFI assessment lead)
 - **Priority:** Medium
 - **Risk Signals:** 
-  - **✅ RESOLVED:** April 30 due dates were stale; both tasks completed July 29, 2026 per Asana record. **Note:** Real-world execution (June 2–3, 2026 per Joshua Fromm) occurred ahead of formal Asana closure, indicating parts arrived on schedule and design adjustments were executed promptly.
-  - **🟡 RFI RESPONSE STATUS UNCLEAR:** NASA RFI analysis was assigned to Alex Lomis or Josh Fromm (per Maciej, April 27–May 4) with directive to initiate "soon" (May 4); no confirmation of completion available as of latest data (July 6).
+  - **🔴 CRITICAL: 7 open manufacturing tasks unassigned and without due dates.** These are core S2 parts (laser insert, flap panels, aileron panels, heated pitot, ruddervator inserts, spare tail) required for final delivery by Sept 30, 2026. With ~3 months to delivery and no task owner or schedule, this represents a major execution gap.
+  - **🟡 RFI RESPONSE STATUS UNCLEAR:** NASA RFI analysis was assigned to Alex Lomis or Josh Fromm (per Maciej, April 27–May 4) with directive to initiate "soon" (May 4); no confirmation of completion available.
+  - **ℹ️ RESOLVED (prior):** April 30 due dates were addressed July 29, 2026; parts procurement substantially completed June 2–3, 2026 per Joshua Fromm.
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status | Notes |
 |-----------|----------|----------|--------|-------|
-| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Real-world execution occurred June 2–3, 2026 per Joshua Fromm; all 3 payloads modified within 1 day post-parts-arrival. Formal closure lag likely due to administrative delay. |
-| Place orders for S20009/launcher refurb parts and spares | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | **🟢 SUBSTANTIALLY COMPLETE real-world (June 2–3, 2026):** All payload parts for Murphy's Pond payloads and gimbal in ordering/delivery pipeline. Most parts arrived by end of first week of June 2026. Main task: rewiring new DB9 connector to new mating style — executed in ≤1 day. |
-| Perform launcher refurbishment | June 30, 2026 | Nate Straus | 🔄 **In Progress** | Next critical milestone. Parts available; refurbishment work expected to commence. |
-| **Final delivery** | **September 30, 2026** | **Nate Straus** | **🔄 Open** | **Contract due date** — on track. |
+| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Real-world execution occurred June 2–3, 2026; all 3 payloads modified within 1 day post-parts-arrival. |
+| Place orders for S20009/launcher refurb parts and spares | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Most parts arrived by end of first week of June 2026; DB9 connector rewiring executed in ≤1 day. |
+| **Make laser insert (wiring + actuator)** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component for S2 refurbishment. **Must be completed before Sept 30 delivery.** |
+| **Make two flap panels with hitec** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component. No schedule assigned. |
+| **Make two aileron panels with hitec** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component. No schedule assigned. |
+| **Make heated pitot** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component. No schedule assigned. |
+| **Make ruddervator inserts** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component. No schedule assigned. |
+| **Make spare tail** | **No due date** | **Unassigned** | 🔴 **OPEN — UNASSIGNED** | Critical component. No schedule assigned. |
+| Perform launcher refurbishment | June 30, 2026 | Nate Straus | 🔄 **In Progress** | Parts available; refurbishment work expected to commence. Dependent on completion of manufacturing tasks. |
+| **Final delivery** | **September 30, 2026** | **Nate Straus** | 🔄 **At Risk** | **Contract due date.** Depends on timely completion of 7 unassigned manufacturing tasks. |
 
 ## Task Summary
-- **Total Tasks:** 0 open in Asana (all completed)
-- **Completed Tasks:** 2 (both July 29, 2026)
-  - Place orders for S20009/launcher refurb parts and spares (Josh Fromm) — Due April 30, 2026 → **Completed July 29, 2026**
-  - Adjust designs based on component changes (Josh Fromm) — Due April 30, 2026 → **Completed July 29, 2026**
-- **Completion Rate:** 100% of tracked tasks
-- **Note:** Tasks reflect real-world work completed in June 2026; formal closure occurred July 29, 2026 (administrative lag).
+- **Total Tasks:** 7 open, 0 currently completed in active Asana view
+  - *Note: 2 tasks (parts orders, design adjustments) were marked completed July 29, 2026; these do not appear in current open list.*
+- **Open Tasks (All Manufacturing — All Unassigned, No Due Dates):**
+  1. Make laser insert (wiring + actuator)
+  2. Make two flap panels with hitec
+  3. Make two aileron panels with hitec
+  4. Make heated pitot
+  5. Make ruddervator inserts
+  6. Make spare tail
+  7. *One task with no title visible*
+- **Assignee Distribution:** All 7 open tasks currently unassigned — represents immediate scheduling/ownership gap.
+- **Completion Rate:** 0% on open manufacturing tasks (no progress; no due dates).
+- **Pattern:** S2 is end-of-life platform; these tasks represent custom fabrication of replacement parts as BST transitions to S3. No manufacturing timelines or owners assigned despite Sept 30 deadline.
 
 ## Recent Activity
 
-**July 29, 2026:**
-- **Josh Fromm:** Both April 30 tasks formally closed in Asana. Reflects completion of parts ordering (all payload and gimbal parts in pipeline, most arrived early June 2026) and design adjustments (all 3 payloads modified post-parts-arrival, DB9 rewiring completed).
+**Current (from new raw data export):**
+- **⚠️ Manufacturing task backlog now visible in Asana:** 7 critical S2 parts fabrication tasks are open and unassigned with no due dates. These tasks do not yet have owners or schedule alignment with Sept 30 delivery.
 
-**July 6, 2026:**
-- No project-specific updates. *(Note: Jack Bot entry references separate ISARRA Flight Week campaign with S0 VTOL units; not relevant to S2 & Parts scope.)*
+**July 29, 2026:**
+- **Josh Fromm:** Both April 30 tasks formally closed in Asana. Parts ordering and design adjustments complete; real-world work executed June 2–3, 2026.
+
+**July 18, 2025 (Isaac Anderson):**
+- Estimate 1362 sent with cost breakdown for S2 replacement parts and full S2 unit. Documented that S2 is now end-of-life as BST transitions to S3 platform; noted that replacement designs would be required for several components.
+
+**July 11, 2025 (Isaac Anderson):**
+- Requested cost breakdown for S2 parts (including full S2 unit).
 
 **June 2–3, 2026 (Team Corrections — Authoritative):**
-- **Joshua Fromm:** Parts procurement substantially complete; all payload and gimbal parts in final ordering stages with most expected to arrive by end of first week of June 2026. Design adjustments (DB9 connector rewiring) executable in ≤1 day post-arrival. **Indicates active forward progress; NDAA scope uncertainty resolved or accepted.**
+- **Joshua Fromm:** Parts procurement substantially complete; all payload and gimbal parts in final ordering stages with most expected to arrive by end of first week of June 2026. Design adjustments executable in ≤1 day post-arrival.
 
 ## Notes & Context
 
-- **S2 End-of-Life Status:** S2 is now end-of-life as BST transitions to S3 platform. This NASA order represents end-of-life replacement parts for existing S2 systems.
-- **Schedule Reality vs. Asana:** April 30 due dates reflected stale planning. Real-world execution (parts ordered, delivered, payloads modified) occurred June 2–3, 2026. Formal task closure occurred July 29, 2026 — likely administrative lag. **Effective project pace is on schedule for September 30 final delivery.**
-- **Launcher Refurbishment:** Next critical milestone (June 30, 2026) is in-flight with parts now available. Nate Straus to lead refurbishment work.
-- **RFI Status Unconfirmed:** NASA RFI analysis task assigned April 27 with May 4 directive to initiate "soon." No confirmation of completion available; recommend follow-up with Alex Lomis or Josh Fromm.
+- **S2 End-of-Life Status:** S2 is now end-of-life as BST transitions to S3 platform. This NASA order represents end-of-life replacement parts for existing S2 systems. Estimate 1362 (July 18, 2025) documented that new designs would be required for several components — consistent with the 7 manufacturing tasks now visible.
+
+- **🔴 CRITICAL EXECUTION GAP:** Manufacturing tasks are open and unassigned with no due dates, yet Sept 30, 2026 delivery deadline is

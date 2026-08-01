@@ -1,99 +1,102 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,028 emails (1,966 previous + 62 from Jul 30–31)
-- **Date range:** June 15–July 31, 2026 (47 days)
-- **Approximate volume:** ~43.1 emails/day
-- **Trend:** **Sustained ultra-high velocity through federal contract execution phase; procurement acceleration continuing; CU Boulder payment method negotiation resolved to scheduled bill payment; KPMG audit coordination intensifying with daily status cycles; Rippling insurance enrollment processing (multiple notifications); facilities/operations quoting active (Green Apple Cleaning)**
+- **Total messages scanned:** 2,079 emails (2,028 previous + 51 from Aug 1)
+- **Date range:** June 15–August 1, 2026 (48 days)
+- **Approximate volume:** ~43.3 emails/day
+- **Trend:** **Sustained ultra-high velocity through federal contract execution and procurement acceleration; Rippling/QuickBooks integration issues escalating (5 failed payroll sync alerts on Jul 31); KPMG audit coordination continuing with new KPMG team member (Courtney Lee); visitor management active (Munro visit Aug 10–14); facilities/operations services quoted and approved**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Jul 31)
+### Incoming (by frequency — updated through Aug 1)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **970+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,000+ cumulative messages**
 
-   **Recent Activity (Jul 30–31):**
+   **Recent Activity (Aug 1 & Jul 31):**
 
-   **Freight & Logistics Coordination:**
-   - **McMaster-Carr** — Industrial supplies/hardware (SUSTAINED ACCELERATION)
-     - Receipt for July 30th order (Jul 31, 02:28:30 CDT) [UNREAD, IMPORTANT]
-     - Certificate & tracking for July 30th order (Jul 30, 18:13:42 CDT) [UNREAD]
-     - Confirmation for July 30th order (Jul 30, 16:58:44 CDT) [UNREAD, IMPORTANT]
-     - **Significance:** Back-to-back daily orders (Jul 29–30); standing high-cadence supply replenishment; industrial/hardware consumables
+   **Precision Manufacturing & Fabrication (SUSTAINED ACCELERATION):**
+   - **Protolabs** (custom manufacturing/3D printing)
+     - Invoice 100-A000840621 (Aug 1, 06:11:51 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Order acknowledgement 5184-903 (Jul 31, 16:58:53 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Rapid order-to-invoice cycle; ongoing component manufacturing
 
-   - **Amazon.com** (via Purchasing routing)
-     - Shipped: 1 Essentials item (Jul 30, 22:27:12 UTC) [UNREAD, IMPORTANT]
-     - **Significance:** Continued rapid fulfillment; consumables/essentials
+   - **SendCutSend** (laser cutting/metal fabrication)
+     - Order received acknowledgement (Jul 31, 16:54:44 UTC) [IMPORTANT, CATEGORY_FORUMS]
+     - **Significance:** Continued custom fabrication orders in pipeline
 
-   - **SendCutSend** — Custom metal fabrication/laser cutting
-     - Shipment notification (Jul 30, 19:11:59 UTC) [IMPORTANT]
-     - **Significance:** Custom fabricated components in transit
+   - **Jawstec** (precision manufacturing)
+     - Order #70261 received (Jul 31, 16:45:26 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - Order #70260 received (Jul 31, 16:42:43 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - **Significance:** Double order placement on same day; precision components
 
-   - **AliExpress** — Consumer electronics/components
-     - Marketing email (Jul 30, 15:17:43 PDT) [UNREAD]
-     - **Significance:** Low-priority vendor engagement
+   - **Craftcloud®** (3D printing/manufacturing platform)
+     - Invoice for Order #490602963468 (Jul 31, 11:35:20 UTC) [CATEGORY_FORUMS]
+     - Message notification for same order (Jul 31, 11:35:42 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Manufacturing coordination via platform
 
-   - **Harbor Freight** (via Purchasing routing)
-     - 30% coupon notification (Jul 31, 03:20:49 UTC) [UNREAD]
-     - **Significance:** Promotional; routine vendor marketing
+   **Aerospace & Robotics Components (NEW PATTERN):**
+   - **ServoCity®** (robotics/motion components)
+     - Order #300046306 updated (Aug 1, 03:00:27 UTC) [UNREAD, IMPORTANT, CATEGORY_FORUMS]
+     - Order confirmation #300046306 (Jul 31, 19:43:38 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - **Significance:** Servo motors and motion control systems; back-to-back status notifications
 
-   - **Jetpack/Jetpack Backup** (via Purchasing)
-     - License activation notification (Jul 30, 20:29:46 UTC)
-     - **Significance:** Backup/infrastructure software
+   - **APC Propellers** (aircraft propellers)
+     - Order received (Jul 31, 19:12:24 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Aircraft/UAS propeller procurement
 
-   - **Pirate Ship** (shipping/logistics platform)
-     - Payment receipt $64.48 (Jul 30, 17:24:15 UTC)
-     - **Significance:** Small parcel shipping payment processing
+   - **Hitec RCD USA** (RC/UAS components)
+     - Order #5791 updated (Jul 31, 23:42:30 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Order confirmation #5791 (Jul 31, 19:04:44 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Remote control and flight stabilization systems
 
-   **Electronics & Specialized Equipment:**
-   - **Microhard Systems Inc.** — RF/communications equipment (INVOICE ISSUED)
-     - New invoice #BFDD29D8-0009 (Jul 30, 19:07:32 UTC) [IMPORTANT]
-     - **Significance:** Stripe-processed invoice; direct to Meredith; likely specialized avionics/RF equipment procurement
+   - **IR-LOCK** (optical tracking systems)
+     - Order #28043 confirmed (Jul 31, 19:16:18 UTC) [CATEGORY_FORUMS]
+     - **Significance:** Vision-based targeting/guidance systems
 
-   **Bill Pay & Payment Processing:**
+   - **Dronetag s.r.o.** (drone identification/telemetry)
+     - Payment accepted notification (Jul 31, 19:22:32 UTC) [UNREAD, CATEGORY_FORUMS]
+     - Receipt #1633-0192 (Jul 31, 19:23:48 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** UAS identification and telemetry systems
 
-   - **Quickbooks Bill Pay**
-     - Scheduled payment to **Regents of the University of Colorado** (Jul 30, 16:50:15 UTC) [UNREAD, IMPORTANT]
-     - One bill payment scheduled notification (Jul 30, 16:47:37 UTC) [UNREAD, IMPORTANT]
-     - **Significance:** CU Boulder payment method issue RESOLVED — scheduled ACH payment to Regents of University of Colorado (invoice from educational partner negotiation now queued)
+   **Electronics & Semiconductors:**
+   - **DigiKey** (electronics distributor)
+     - Shipment notification for invoice 130191667 (Jul 31, 20:38:05 CDT) [UNREAD, CATEGORY_FORUMS]
+     - Order confirmation for sales order #100742193 (Jul 31, 14:31:10 CDT) [CATEGORY_FORUMS]
+     - **Significance:** Rapid electronics component fulfillment; industrial-scale orders
 
-   - **Xcel Energy** (via Administration routing)
-     - Payment confirmation (Jul 30, 13:49:50 CDT) [UNREAD, IMPORTANT]
-     - **Significance:** Utility payment processed; facilities/operations
+   **Miscellaneous Hardware & Supplies:**
+   - **SkyGeek** (aviation/aerospace supplies)
+     - Marketing email: Polyurethane topcoats (Aug 1, 08:09:04 UTC) [UNREAD, CATEGORY_UPDATES, INBOX]
+     - **Significance:** Coating/finishing materials for aerospace applications
 
-   **Vendor/Supplier Direct Contacts (CRITICAL PATH):**
+   - **Home Depot Pro Xtra** (via Purchasing routing)
+     - Perk unlocked notification (Jul 31, 22:55:53 EDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Contractor/facilities purchasing program engagement
 
-   - **Christy Evans (ReliAscent Accounting/Finance Services)** — ACCOUNTING PARTNER (ACCELERATED COORDINATION)
-     - Evans → Meredith (Jul 30, 19:57:34 UTC): RE: A/P Report in Quickbooks and estimate for future work [IMPORTANT]
-     - Evans → Meredith (Jul 30, 19:55:00 UTC): RE: Quick Question about 2025 chart of accounts [IMPORTANT]
-     - Evans → Meredith (Jul 30, 17:45:56 UTC): RE: A/P Report in Quickbooks and estimate for future work [IMPORTANT, INBOX]
-     - Evans → Meredith (Jul 30, 17:46:47 UTC): RE: Quick Question about 2025 chart of accounts [IMPORTANT, INBOX]
-     - Evans → Meredith (Jul 30, 13:40:29 UTC): RE: A/P Report in Quickbooks and estimate for future work [IMPORTANT, INBOX]
-     - Meredith → Evans (Jul 30, 12:16:03 CDT): RE: Quick Question about 2025 chart of accounts [STARRED, SENT]
-     - Meredith → Evans (Jul 30, 12:14:51 CDT): RE: A/P Report in Quickbooks and estimate for future work [SENT]
-     - Meredith → Evans (Jul 30, 10:40:16 CDT): RE: A/P Report in Quickbooks and estimate for future work [SENT]
-     - Meredith → Evans (Jul 30, 10:29:40 CDT): Quick Question about 2025 chart of accounts [SENT]
-     - **Significance:** CRITICAL ESCALATION — Multiple same-day exchanges (5 cycles) on chart of accounts audit prep + A/P reporting + future work estimates; starred response indicates priority; clear indicators of pre-audit accounting review with external accounting partner
+   - **eBay** (via Purchasing routing)
+     - Futaba 14SG 14-channel transmitter transaction (Jul 31, 12:26:31 PDT) [UNREAD, CATEGORY_FORUMS]
+     - Order confirmation (Jul 31, 11:32:16 PDT) [CATEGORY_FORUMS]
+     - **Significance:** Advanced RC transmitter systems; UAS control equipment
 
-   - **KPMG Audit Team** — CRITICAL PHASE COORDINATION (Jul 30)
-     - **Napheys, Lauren** (lnapheys@kpmg.com)
-       - Evans → Meredith (Jul 30, 22:07:28 UTC): RE: Checking in on status [UNREAD, IMPORTANT]
-       - Evans → Meredith (Jul 30, 17:26:31 UTC): RE: Checking in on status [IMPORTANT]
-       - Meredith → Napheys (Jul 30, 12:13:00 CDT): RE: Checking in on status [SENT]
-     - **Significance:** Multiple same-day status check-ins continuing; daily coordination cycle; audit in active work phase
+   **HR/Payroll/Benefits (CRITICAL INTEGRATION ISSUES):**
 
-   - **CU Boulder Educational Partner** — PAYMENT METHOD RESOLUTION (COMPLETE)
-     - **CU Boulder Bursar's Office | Cash Management**
-       - Bursar's → Meredith (Jul 30, 17:26:56 UTC): RE: Alternative way to pay invoice? [IMPORTANT]
-       - Meredith → Bursar's (Jul 30, 10:48:02 CDT): RE: Alternative way to pay invoice? [SENT]
-     - **Significance:** Standard payment method negotiation RESOLVED; ACH payment to Regents now scheduled in QuickBooks; invoice likely for training partnership or research collaboration
+   - **Rippling Payroll** (ESCALATING ALERTS — Jul 31)
+     - **5 FAILED SYNC ALERTS (16:00–16:21 UTC):**
+       1. Failed to sync pay run to QuickBooks Online (Jul 31, 16:21:38 UTC, direct to Meredith) [IMPORTANT]
+       2. Failed to sync pay run to QuickBooks Online (Jul 31, 16:12:51 UTC, direct to Meredith) [IMPORTANT]
+       3. Failed to sync pay run to QuickBooks Online (Jul 31, 16:11:51 UTC, direct to Meredith) [IMPORTANT]
+       4. Failed to sync pay run to QuickBooks Online (Jul 31, 16:07:13 UTC, direct to Meredith) [IMPORTANT]
+       5. **[STARRED]** Failed to sync pay run to QuickBooks Online (Jul 31, 16:05:24 UTC, direct to Meredith) [IMPORTANT, STARRED]
+       6. Payruns failed to sync (Jul 31, 16:00:06 UTC, multi-recipient: Jack Elston, Meredith, Christy Evans, Mark Knightlinger, Tim Hegwood) [CATEGORY_UPDATES]
+     - **Additional notifications:**
+       - Payroll processed notification (Jul 31, 19:36:12 UTC) [IMPORTANT, CATEGORY_UPDATES]
+       - Time off approval required: Maciej Stachura (Aug 10, 2026) (Jul 31, 17:38:20 UTC) [IMPORTANT, CATEGORY_UPDATES]
+     - **Significance:** CRITICAL SYSTEMIC ISSUE — Rippling-to-QuickBooks sync failures occurring in rapid succession (5 alerts in 16 minutes); starred response indicates priority flag; multi-stakeholder alert loop includes external accounting partners (Christy Evans, Mark Knightlinger); payroll processing halted or at risk
 
-   - **Jeff Catherwood (Microhard Corp)** — COMPONENT SUPPLIER (ORDER STATUS TRACKING)
-     - Catherwood → Meredith (Jul 30, 15:13:34 CDT): RE: Checking on status of previous order (QT077108) [IMPORTANT]
-     - Meredith → Catherwood (Jul 30, 15:18:35 CDT): RE: Checking on status of previous order (QT077108) [SENT]
-     - Catherwood → Meredith (Jul 30, 15:09:36 CDT): RE: Checking on status of previous order (QT077108) [IMPORTANT]
-     - Meredith →
+   - **Rippling Support** (TECHNICAL ESCALATION)
+     - Support response: Cannot update QuickBooks Mapping (Jul 31, 23:27:32 UTC) [UNREAD, IMPORTANT]
+     - Support response: Cannot update QuickBooks Mapping
