@@ -36,7 +36,7 @@
     {
       "name": "S0 VTOL airframe",
       "ordered": true,
-      "received": false,
+      "received": true,
       "vendor": "BST",
       "order_date": null
     }
@@ -49,10 +49,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units paid in full (Invoice #1667, May 2025). Legal settlement pending for delayed delivery; company intends to offer additional compensation per Schedule 3.15. Recent Slack activity (July 2026) confirms ongoing engagement and planned training refresh on VTOL UI components.",
-  "missing_fields": [
-    "receive_by"
-  ],
-  "last_evidence_date": "2026-07-30",
+  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units delivered; Kevin confirmed availability for ISARRA Flight Week August/September 2026. Planned UI refresher training visit covers VTOL components; ongoing active engagement through July 2026.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-07-27",
   "last_contact_date": "2026-05-21"
 }

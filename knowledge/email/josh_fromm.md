@@ -1,66 +1,102 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total: 765 messages** scanned across ~21 days (Jul 12-Aug 1, 2026)
-- Average ~36 messages/day
-- **Latest data window (Jul 31-Aug 1)**: 65 new messages; sustained ultra-high operational tempo with manufacturing/procurement acceleration, government partner escalation (UK MOD), and multi-vendor coordination
-- **Pattern sustained & intensifying**: Heavy transactional procurement mixed with critical government program engagement and manufacturing supply chain management
+- **Total: 780 messages** scanned across ~21 days (Jul 12-Aug 2, 2026)
+- Average ~37 messages/day
+- **Latest data window (Aug 1-2)**: 15 new messages; **shift to logistics/fulfillment tracking and personal/administrative items** (insurance, benefits, promotional). High operational tempo on manufacturing/procurement sustained through Aug 1, now transitioning to delivery tracking phase.
+- **Pattern observation**: Bulk of strategic/technical correspondence front-loaded through Jul 31; Aug 1-2 shows fulfillment completion, shipping notifications, and personal admin (benefits, health insurance).
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / External Strategic Partners**
-1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **[CRITICAL SUSTAINED Jul 31]**: UK Ministry of Defence — "RE: Merlin Mk2/US Navy SBIR" (Jul 31, 3:33pm); Josh replied same day (Jul 31, 8:32am); **indicates ongoing high-priority UK/US naval aviation program with rapid response cycle**
-2. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO/Leadership — **[MAJOR ESCALATION Jul 31]**: "Invitation: Munro Visit @ Mon Aug 10 - Fri Aug 14, 2026" (Jul 31, 5:52pm); coordinating multi-day partner site visit with Josh, Beck Cotter, Alex Lomis, Maciej Stachura, Daniel Prendergast
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **[SUSTAINED Jul 31]**: "Invitation: Ubiq Aerospace Icing Solutions @ Tue Aug 4, 2026 8:30am" (Jul 31); shared folder access "NexTech/Joint Forces Canada" (Jul 31); escalating technical partnerships
-4. **Jonathan Green** (jgreen@munrodefense.com) — Munro Defense — **[NEW Jul 31, IMPORTANT]**: "DFMEA/PFMEA" (Jul 31, 11:35am); Josh CC'd; critical design failure mode analysis coordination
-5. **Jure Dolinar - Atmolab** (jure.dolinar@atmolab.eu) — **[SUSTAINED Jul 31, IMPORTANT]**: "RE: REX 110 Operation at -40 and -55 deg C" (Jul 31, 12:10pm); environmental testing coordination continues
-6. **Alfredo Bastida** (alfredo.bastida@maxtena.com) — **[NEW Jul 31, MARKED IMPORTANT]**: MAXTENA "ADVANCED WIRELESS SOLUTIONS" (Jul 31, 9:38pm); antenna/RF technology vendor inquiry
-7. **Simon Laurence + Government/NOAA Partners** — Prior sustained contacts (Laura Rock, Nick Underwood, Nikolai Pawlenko, Evan Wolff)
+1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence** — Merlin Mk2/US Navy SBIR program (last contact Jul 31); **ongoing high-priority UK/US naval aviation engagement**
+2. **Jack Elston** (elstonj@blackswifttech.com) — BST CEO — Munro visit coordination Aug 10-14, 2026
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Technical/partnership escalation (Ubiq Aerospace, NexTech/Joint Forces Canada)
 
-**Internal Technical Leadership**
-- **Daniel Prendergast, Maciej Stachura, Beck Cotter** — **[SUSTAINED Jul 31]**: IDIQ contract SOW review, Ubiq Aerospace meeting coordination, Atmolab/REX 110 environmental testing escalation
-- **Alex Lomis** — **[NEW Jul 31]**: Munro visit coordination (Jack Elston forwarded Aug 10-14 trip)
+**Automated/Administrative - NEW Aug 1-2**
+- **Human Interest** (noreply-support@mail.humaninterest.com) — 401(k) contribution processing (Aug 2, 3:04am); **personal benefits administration**
+- **UnitedHealthcare** (Notifications@edelivery.uhc.com) — Coverage notification (Aug 1, 3:33pm); **health insurance admin**
 
-**External Partners - Manufacturing & Suppliers — ESCALATING ACTIVITY**
+**Promotional/Personal - NEW Aug 1-2**
+- **AliExpress** — Promotional delivery notification (Aug 2, 2:40am)
+- **Birdcall** (hello@eatbirdcall.com) — Restaurant promotional (Aug 2, 12:32am)
+- **Spindrift** (support@drinkspindrift.com) — Beverage brand promotional sent to Meredith Needham (purchasing@blackswifttech.com) (Aug 1, 2:15pm)
+- **Big Red F** (info@bigredf.com) — Local business promotional (Aug 1, 4:09pm)
 
-**Critical Manufacturing/CNC Partners**
-1. **Samantha** (Samantha@bestinparts.com) — **[SUSTAINED & ESCALATING Jul 31]**: CNC parts order "BST260728-B16306" — Josh replied twice (Jul 31, 11:06am & 9:01am); active order management
-2. **Ryan Bradley** (rbradley@munrodefense.com) — **[SUSTAINED Jul 31]**: Munro Defense CAD/BOMs/construction guides coordination
-3. **Keith** (keith@kmac-distribution.com) — **[NEW Jul 31, DIRECT OUTREACH]**: Josh sent "G10 tube order for Black Swift" (Jul 31, 2:54pm); materials supplier engagement
+### Routed Via Purchasing (purchasing@blackswifttech.com) — FULFILLMENT PHASE Aug 1-2
 
-**Rapid Manufacturing / 3D Printing / Prototyping — NEW ESCALATION**
-- **JawsTec Manufacturing** — **[MAJOR ESCALATION Jul 31]**: 2 new orders received (Orders #70260, #70261) (Jul 31, 4:42pm-4:43pm); payment requests issued (Jul 31, 4:43pm-4:48pm); **indicates significant manufacturing acceleration**
-- **Protolabs** — **[SUSTAINED Jul 31, MULTIPLE ORDERS]**: Orders 5184-903 (received, ready for manufacturing Jul 31, 6:16pm), 6794-871 (shipping confirmation Jul 31, 3:07pm); high-volume rapid prototyping engagement
-- **SendCutSend** — Sheet metal fabrication (Jul 31); Order S242P458 tracking
-- **Craftcloud®** — **[SUSTAINED Jul 31, ACTIVE]**: Order #490602963468 from The Wehrmeyer Group LLC (invoice Jul 31, 11:35am; about to ship Jul 31, 11:35am; in transit Jul 31, 5:35pm); high-priority manufacturing services
-- **Dan Fernback** (dan@juggerbot3d.com) — JuggerBot 3D (Prior)
-- **Danny** (danny@rapiddirect.com) — RapidDirect (Prior)
+**Shipping/Logistics Notifications**
+- **Amazon.com** — 3 shipment confirmations (Aug 2, 3:16am [Hardware]; Aug 1, 9:39pm [2 Electronics]; Aug 1, 5:26pm [2 Toy items]); **indicates multi-category orders placed Jul 31, now shipping**
+- **eBay** — 2 order updates (Aug 1, 3:32pm [Futaba T14SG transmitter carrier status]; Aug 1, 6:03am [Futaba 14SG receivers/transmitters new listings — continued procurement])
+- **USPS Informed Delivery** — Daily digest (Aug 1, 1:16pm); **active mail tracking**
+- **Rocketman Parachutes Store** — Order #1817 out for delivery (Aug 1, 1:03pm); **parachute recovery system procurement confirmed**
 
-**Electronics, Sensors, Components — SUSTAINED HIGH VOLUME Jul 31-Aug 1**
-- **ServoCity®** — **[SUSTAINED MULTIPLE ORDERS Jul 31]**: Order #300046306 updated 3x (Jul 31, 8:00pm, 8:04pm, 8:20pm); active servo/motion control procurement
-- **DigiKey** — Order invoices 130191667 (shipped Jul 31, 8:38pm); Sales order #100742193 (Jul 31, 2:31pm); sustained electronics procurement
-- **IR-LOCK** — **[SUSTAINED Jul 31, IMPORTANT]**: Order #28043 confirmed (Jul 31, 7:16pm), shipment on way (Jul 31, 7:47pm); autonomous flight/vision system components
-- **Hitec RCD USA** — **[SUSTAINED Jul 31]**: Order #5791 (confirmation Jul 31, 7:04pm; log-in Jul 31, 7:02pm; update Aug 1, 4:38am); RC/servo equipment
-- **APC Propellers** — Order received (Jul 31, 7:12pm)
-- **Dronetag** — Receipt #1633-0192 (Jul 31, 7:22pm); drone tracking/registration
+**Retailer Promotions**
+- **Harbor Freight** — 30% off promotion (Aug 1, 4:50pm); **tool/hardware vendor**
 
-**Aerospace-Specific Components**
-- **Vaisala** — Meteorological instrumentation (Prior)
-- **Kollmorgen** — Space & Missile Defense Symposium 2026 (Prior)
+## Topic Patterns
 
-### Routed Via Purchasing (purchasing@blackswifttech.com) — MASSIVE VOLUME SURGE
+### Government/Strategic Programs
+- **Merlin Mk2 / US Navy SBIR** — UK MOD engagement (Simon Laurence); ongoing naval aviation platform development
+- **Joint Forces Canada / NexTech** — Multi-national military aerospace coordination
+- **Ubiq Aerospace Icing Solutions** — Environmental/de-icing technology partnership (Aug 4 meeting scheduled)
+- **Munro Defense Partnership** — Multi-day site visit Aug 10-14; DFMEA/PFMEA design review coordination
 
-**Logistics & Fulfillment**
-- **McMaster-Carr** — Sustained high-volume mechanical/industrial procurement
-- **UPS / USPS** — Tracking/delivery notifications sustained
-- **Home Depot Pro Xtra** — **[NEW Jul 31]**: Perk unlocked (Jul 31, 10:55pm); tool/hardware procurement
-- **Amazon.com** — **[SUSTAINED Jul 31]**: Order of 13 items (Hardware, Camera, misc.) (Jul 31, 7:47pm)
+### Manufacturing & Procurement (Jul 31 Peak Activity)
+- **CNC Parts**: BST260728-B16306 order (Best in Parts)
+- **Rapid Prototyping**: JawsTec (orders #70260, #70261), Protolabs (orders 5184-903, 6794-871), Craftcloud (order #490602963468)
+- **Sheet Metal**: SendCutSend fabrication
+- **Materials**: G10 tube procurement (KMAC Distribution)
 
-**High-Priority Procurements (Aug 1)**
-- **SkyGeek** — **[NEW Aug 1, 6:11am]**: Polyurethane topcoats promotional; aircraft coatings/finishing supplier
+### Electronics & Autonomous Flight Components (Jul 31)
+- **Servo/Motion Control**: ServoCity order #300046306
+- **Vision/Autonomous**: IR-LOCK order #28043 (flight autonomy systems)
+- **RC Equipment**: Hitec RCD USA order #5791, APC Propellers, Dronetag (drone identification)
+- **General Electronics**: DigiKey orders, Serial communication components
 
-**eBay / Used Equipment**
-- **Futaba 14SG 14-Channel Transmitters** — **[SUSTAINED Jul 31]**: Multiple eBay purchases from different sellers (corngroe_0, showersofblessings101); radio transmitter procurement (possibly spares or fleet expansion)
-- **Sony A5100 camera** — Surveillance
+### Environmental Testing
+- **REX 110 Environmental Testing** — Atmolab coordination for -40°C and -55°C operation validation (Jul 31)
+
+### Antenna/RF Technology
+- **MAXTENA** (alfredo.bastida@maxtena.com) — Advanced wireless solutions inquiry (Jul 31)
+
+### Recovery/Safety Systems - NEW CONFIRMATION
+- **Rocketman Parachutes** — Order #1817 (Aug 1); **parachute recovery system for autonomous/flight platform**
+
+### Procurement Categories - NEW Aug 1-2
+- **Hardware/General**: Amazon (3 shipments with Hardware, Electronics, Toy categories — "Toy" likely refers to small mechanical/hobby components)
+- **Tools**: Harbor Freight promotion
+
+## Communication Patterns
+
+### Timeline Observations
+- **Jul 31**: Massive procurement surge across manufacturing, electronics, components, and suppliers (peak operational tempo)
+- **Aug 1-2**: Transition to **fulfillment/logistics tracking**; shipping confirmations, delivery status, order tracking; **administrative/personal items** (benefits, insurance) appear Aug 1-2
+- **Time of day**: Critical government correspondence (Simon Laurence MOD) responded same-day; manufacturing orders placed evening of Jul 31 (4:42pm-8:20pm); shipping confirmations early morning Aug 1-2 (2:40am-3:16am UTC indicates overnight processing)
+
+### Mailing List / Group Participation
+- **Munro Defense / Government Partner Visit** — Multi-participant coordination (Jack Elston, Beck Cotter, Alex Lomis, Maciej Stachura, Daniel Prendergast); **group trip logistics**
+
+### Automated/Newsletter Pattern
+- **Supplier Order Confirmations & Tracking**: Primary Aug 1-2 email class (not counted as human correspondence)
+- **Personal Subscriptions/Promotions**: AliExpress, Birdcall, Spindrift, Big Red F, Harbor Freight (low signal value; auto-categorized)
+- **Administrative Notifications**: 401(k), health insurance (personal HR/benefits admin)
+
+## Key Relationships
+
+### Closest Technical/Strategic Collaborators (By Frequency)
+1. **Daniel Prendergast** — Co-leadership on technical programs, partnership/vendor coordination, meeting scheduling
+2. **Simon Laurence (UK MOD)** — Strategic government relationship; rapid response cycle (same-day replies)
+3. **Maciej Stachura, Beck Cotter** — Program/contract execution team
+4. **Jack Elston (CEO)** — Strategic escalation and partner visit coordination
+
+### Critical External Relationships
+- **UK Ministry of Defence / Simon Laurence** — **High-priority, rapid-response government partnership** (US Navy/UK collaboration on Merlin Mk2)
+- **Munro Defense** — Multi-faceted partnership (Jonathan Green [DFMEA/PFMEA], Ryan Bradley [CAD/BOMs], site visit Aug 10-14)
+- **Ubiq Aerospace** — Technology partnership (icing solutions, scheduled Aug 4 meeting)
+- **Atmolab (Jure Dolinar)** — Environmental testing validation (critical for harsh-environment operation)
+
+### Manufacturing/Supply Chain Network (By Category)
+**

@@ -1,6 +1,6 @@
 # Unmapped Customers
 
-_Generated 2026-08-01 03:19 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-08-02 03:07 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|

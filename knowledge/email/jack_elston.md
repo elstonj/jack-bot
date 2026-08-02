@@ -1,49 +1,69 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 7,891 (7,791 prior + 100 new Jul 31–Aug 1)
-- **Date range:** April 1–August 1, 2026
+- **Total messages scanned:** 7,938 (7,891 prior + 47 new Aug 1–2)
+- **Date range:** April 1–August 2, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Jul 31–Aug 1 activity (100 messages):** ~20% direct human correspondence (Krateo partnership escalation, COTS WAIVER Navy coordination, Munro Defense timing/resources, Atmolab temperature ops, By Light call follow-up, Colorado Group updates, Krateo visit agenda); ~60% automated vendor/logistics/purchasing (ServoCity ×4, Protolabs ×4, Hitec RCD ×3, DigiKey ×2, SendCutSend ×2, Amazon, IR-LOCK, Dronetag, APC Propellers, JawsTec ×2, Craftcloud ×3, eBay ×4, Harbor Freight, Home Depot Pro, Dell, Frame.work, Pirate Ship reference); ~10% mailing lists/forums/notifications (AGU digest, Austin Tech Week, Capital Factory office hours, FLARM newsletter, UAS Vision daily news, CU Colorado Springs career event); ~10% administrative/NASA access, Rippling payroll alerts, Ainstein newsletter, procurement summaries
+- **Aug 1–2 activity (47 messages):** ~13% direct human correspondence (Krateo back charges dispute with Thibault/Sona, recruiting coordination with Hadley Solomon/Krateo team); ~45% manufacturing/PCB engineering (microfirm ×9 IMPORTANT messages on PN approvals: APPRO_CORE2-V03, APPRO_CORE1-V02, apPro_Psns-v05; Matt Crabtree ×3 on additional orders; fastturnpcbs engineering coordination ×4); ~22% automated vendor/logistics (Amazon ×5, Dell ×2, eBay ×4, AliExpress, Speedway Motors, Harbor Freight, Rocketman Parachutes, USPS, My Lenovo Rewards); ~15% administrative/payroll/benefits (Human Interest 401k, Rippling AI trial, E-Verify account maintenance, UnitedHealthcare coverage notice, Elevations Credit Union statement, AWS billing, Autodesk Fusion Hub inactivity); ~5% mailing lists/newsletters (AGU Atmospheric Sciences Digest, Capital Factory office hours, OpenBOM articles, community announcements)
 
 ## Key Correspondents
 
-### Top Internal Partners (MULTI-DOMAIN ESCALATION INTENSIFYING)
+### Top Internal Partners (MULTI-DOMAIN ESCALATION + MANUFACTURING RAMP)
 
 1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **STRATEGIC COMMAND: SOCOM S0 RFI + POPOCATÉPETL + HURRICANE OPS + CJFC ARCTIC UAS ESTIMATE + IDIQ CONTRACT + REX 110 TEMPERATURE OPERATIONS**
-   - **NEW CRITICAL ACTIVITY (Jul 31):**
-     - Jack → Daniel (Jul 31, 12:21 & 12:27 — SENT/IMPORTANT): **"Re: Flight data report"** — Jack responding on **flight data** with technical details
-     - Daniel → Jack (Jul 31, 12:27 — IMPORTANT): **"Re: Flight data report"** — Daniel requesting/coordinating flight telemetry
-     - Daniel → Maciej (Jul 31, 12:28 — IMPORTANT): **"Re: Market Research & Draft SOW Review for Planning Purposes – IDIQ Contract 1305M226D0012"** — Daniel escalating **IDIQ 1305M226D0012 SOW review** to Maciej
-     - Daniel → Jure Dolinar/Atmolab (Jul 31, 10:17 — IMPORTANT): **"Re: REX 110 Operation at -40 and -55 deg C"** — Daniel coordinating **extreme temperature sensor operations** (likely **atmospheric measurement payload** for high-altitude/extreme environment operations)
-   - **Pattern:** Daniel = **technical program orchestrator** across government + sensor integration + extreme environment payload qualification; **flight data** suggests active test/ops cycle
+   - *No new activity Aug 1–2; previously established as technical program orchestrator*
 
 2. **Maciej Stachura** (stachura@blackswifttech.com) — **NAVY TECHNICAL LIAISON + IDIQ CONTRACT COORDINATION + COTS WAIVER AUTHORITY**
-   - **NEW CRITICAL ACTIVITY (Jul 31, Navy COTS compliance + IDIQ coordination):**
-     - Jack → Daniel + Maciej (Jul 31, 11:06 — SENT): **Fwd: Black Swift Visit, August 3 and 4 agenda** — Jack **distributing Krateo visit briefing** to internal leadership (Meredith, Maciej, Beck) — **indicates in-person strategic partnership review scheduled**
-     - Maciej → Bob Smith (Jul 31, 08:58 — IMPORTANT, INBOX): **"Re: Market Research & Draft SOW Review for Planning Purposes – IDIQ Contract 1305M226D0012"** — Maciej **responding on IDIQ SOW** — suggests **technical authority on contract terms**
-     - Jack → Klier/NSWC IHD (Jul 31, 10:53 — SENT): **"Re: [Non-DoD Source] Re: /External/ - COTS WAIVER"** — Jack submitting **COTS waiver response** to Navy NSWC IHD (Naval Surface Warfare Center, Indian Head Division) — **suggests component/material exemption request for Navy procurement**
-     - Klier/NSWC IHD → Jack (Jul 31, 16:16 & 16:55 — IMPORTANT, INBOX): **"RE: [Non-DoD Source] Re: /External/ - COTS WAIVER"** — Navy **approving/responding on COTS waiver** — **critical compliance gate for Navy integration**
-     - Jack → John Ferrett + Maciej (Jul 31, 12:11 — SENT): **"Re: Updated Timing and resource use"** — Jack coordinating **resource allocation with Munro Defense** (Ferrett/Munro = defense contractor partner)
-   - **Pattern:** Maciej = **Navy contract authority** managing **COTS compliance + IDIQ framework**; Klier/NSWC IHD = **primary Navy technical contact** (likely weapons/sensor integration office)
+   - *No new activity Aug 1–2; previously established as Navy contract authority*
 
-3. **Bob Smith** (Bob@krateosky.com) — **KRATEO PARTNERSHIP LEAD: IDIQ 1305M226D0012 + CJFC ARCTIC + MARKET RESEARCH SOW (STRATEGIC GOVERNMENT VEHICLE)**
-   - **NEW CRITICAL ESCALATION (Jul 31, IDIQ contract framework expansion):**
-     - Maciej → Bob (Jul 31, 08:58 — IMPORTANT, INBOX): **"Re: Market Research & Draft SOW Review for Planning Purposes – IDIQ Contract 1305M226D0012"** — Maciej **responding to Krateo's IDIQ SOW draft** — **indicates multi-week review cycle underway**
-   - **Pattern:** Krateo = **government contract prime vehicle** with **IDIQ framework** (1305M226D0012 = likely **GSA Schedule or DoD IDIQ vehicle** enabling rapid task order issuance); **market research SOW** suggests **feasibility study phase** for FY27 expand
+3. **Sam Hild** (sam.hild@blackswifttech.com) — **POWER SUPPLY + HARDWARE INTEGRATION LEAD**
+   - *No new direct activity Aug 1–2 in this batch; previously coordinating production readiness*
 
-4. **Sam Hild** (sam.hild@blackswifttech.com) — **POWER SUPPLY + HARDWARE INTEGRATION LEAD**
-   - **NEW ACTIVITY (Jul 31, manufacturing coordination):**
-     - Jack → Sam (Jul 31, 10:37 — SENT): **"Re: Additional orders"** — Jack **escalating order intake** 
-     - Sam → Jack (Jul 31, 10:36 — IMPORTANT): **"Re: Additional orders"** — Sam **confirming production readiness**
-     - Matt Crabtree → Jack + Sam (Jul 31, 17:08 — IMPORTANT): **"RE: Additional orders"** — Matt (manufacturing) **responding to Jack's order request** with Sam copied — **suggests volume ramp coordination**
-   - **Pattern:** Sam = **production authority** coordinating with external manufacturing (Matt Crabtree/Waveform Engineering)
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **PROCUREMENT/OPERATIONS COORDINATOR**
+   - Receiving vendor notifications and promotional emails (Spindrift discount routed to her purchasing alias)
+   - Appears to manage BST purchasing email alias distribution
 
-### Top External Partners (GOVERNMENT + DEFENSE CONTRACTOR + PARTNERSHIPS)
+### Top External Partners (MANUFACTURING + KRATEO PARTNERSHIP)
 
-1. **Pam Kermisch + Sona Raziabeegum** (Krateo Sky) — **KRATEO VISIT COORDINATION: AUG 3-4 STRATEGIC BRIEFING**
-   - **NEW CRITICAL ACTIVITY (Jul 31, in-person partnership summit scheduled):**
-     - Jack → Sona (Jul 31, 10:58, 12:26, 13:24 — SENT): **"Re: Black Swift Visit, August 3 and 4 agenda"** — Jack **confirming Aug 3-4 Krateo visit** with agenda discussion (multiple exchanges indicate **detailed planning**)
-     - Sona → Jack (Jul 31, 18:31 — IMPORTANT): **RE: Black Swift Visit agenda** — Sona confirming **logistics + content for multi-day visit**
-     - Pam → Sona + Jack (Jul 31, 18:30 — IMPORTANT): **Re: Black Swift Visit agenda** — Pam (Krateo business lead) **coordinating final details**
-     - Pam → Jack (Jul 
+1. **Frank Strazzabosco / microfirm@earthlink.net** — **CRITICAL PCB DESIGN ENGINEER / APPROVAL AUTHORITY**
+   - **NEW INTENSIVE ACTIVITY (Aug 1–2, Manufacturing escalation):**
+     - **9 IMPORTANT messages from microfirm to Jack** (Aug 1, 09:48–13:26) on **PCB board approvals:**
+       - **PN: APPRO_CORE2-V03** — working file and stackup approval (Aug 1, 13:02 & 13:33 critical reviews)
+       - **PN: APPRO_CORE1-V02** — working file and stackup approval (Aug 1, 13:01)
+       - **PN: apPro_Psns-v05** — design query approvals (Aug 1, 12:55, 13:01, 13:26 — **multiple iterations/corrections**)
+       - **"Psns corrected"** subject (Aug 1, 13:28) — indicates **design revisions mid-cycle**
+       - **Invoice for July** (Aug 1, 13:07) — active billing cycle
+     - Matt Crabtree (Waveform Engineering) **cc'd on PCB coordination** (Aug 1, 16:50, 22:54) — **indicates 3-party design loop: Jack → microfirm (PCB design) → Matt (manufacturing integration)**
+     - **Pattern:** Frank = **rapid PCB design iteration** on **multiple board SKUs simultaneously** (CORE1, CORE2, Psns variants); **high approval volume** suggests **production tooling/NRE phase** (design locked for manufacturing)
+
+2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **MANUFACTURING ENGINEERING / PRODUCTION READINESS**
+   - **NEW CRITICAL ACTIVITY (Aug 1–2, Volume ordering coordination):**
+     - Frank → Matt + Jack (Aug 1, 16:50): **"Re: Additional orders"** — Matt coordinating **volume order intake**
+     - Frank → Matt + Jack (Aug 1, 16:52): **"Re: Additional orders"** — Matt **confirming order processing**
+     - Frank → Matt + Jack (Aug 1, 11:11): **"RE: Additional orders"** — Frank responding to Matt on **order flow**
+     - Frank → Jack (Aug 1, 09:48, 10:14): **"RE: Additional orders"** (2× IMPORTANT) — Jack-Frank direct coordination on **volume ramp**
+     - **Pattern:** "Additional orders" repeated theme suggests **sustained production increase** beyond initial design phase; Frank = order traffic controller between Jack/BST and Waveform manufacturing
+
+3. **Thibault Bridel-Bertomeu (Non-US)** (Thibault@krateosky.com) — **KRATEO SKY COMMERCIAL/FINANCE OPERATIONS**
+   - **NEW DISPUTE ACTIVITY (Aug 1, Financial reconciliation):**
+     - Thibault → Jack + Sona (Aug 1, 13:35 — IMPORTANT): **"Re: Back Charges from KS"** — Thibault raising **billing/back charge issue** on Krateo account
+     - Jack → Thibault (Aug 1, 08:34 — SENT): **"Re: Back Charges from KS"** — Jack **responding to back charge dispute**
+   - **Pattern:** Indicates **ongoing financial reconciliation** between BST and Krateo on **shared operations/invoicing**; likely cost-sharing on **partner visits, joint R&D, or vehicle ops**
+
+4. **Hadley Solomon** (hadley.solomon@creativealignments.com) — **RECRUITING FIRM / BST-KRATEO JOINT HIRING**
+   - **NEW ACTIVITY (Aug 1, Recruiting coordination):**
+     - Hadley → Jack + Krateo team (Brian Grubel, Thibault, Roger Riley, Ariel Avitan) (Aug 1, 15:11 — IMPORTANT): **"BST / KS Recruiting: Calibration Candidates"** — **joint recruiting initiative** targeting **calibration specialist roles** (suggests **payload integration/environmental testing hiring**)
+   - **Pattern:** Coordinated hiring across both organizations; "calibration candidates" implies **atmospheric/sensor payload support roles** (aligns with REX 110 temperature ops + Atmolab partnership)
+
+### Manufacturing Supply Chain (Automated/Logistics)
+
+- **PCB Manufacturing:** fastturnpcbs.com (engineering coordination), PCBWay (board fabrication status, Aug 1 shipment notification)
+- **Electronics/Components:** Amazon ×5 shipments, eBay ×4 (including Futaba T14SG receiver components), AliExpress (banana plugs/connectors), DigiKey (prior pattern)
+- **Hardware/Tools:** Harbor Freight, Home Depot Pro (prior), Speedway Motors (lubricants/engine supplies)
+- **Specialty:** Rocketman Parachutes (order #1817 delivery in progress — **recovery systems logistics**)
+
+## Topic Patterns
+
+### Government/Defense Programs
+- **Navy COTS Waiver** (NSWC IHD) — compliance/material exemption process
+- **IDIQ Contract 1305M226D0012** — Krateo vehicle for rapid task

@@ -85,12 +85,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04, $3,470.00). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs with team members Will Wade, Farina Remo, Hai-Nam Tran. Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, warranty repair work (flap servo, payload computer, mux board), and complete S2 airframe with nosecone. Build complete and packaged as of July 6, 2026; receive-by 2026-09-30. PO 80NSSC25PC031. Pallet shipping in prep (aircraft case, accessory case, battery case; batteries Class 9).",
+  "notes": "KEPT due to QBO Invoice #1633 (paid 2024-11-04, $3,470.00). Primary contact transitioned Dec 30, 2025 from Isaac Anderson to Randy Hobbs with team members Will Wade, Farina Remo, Hai-Nam Tran. Build includes S2 Simulator, Iridium retrofit to S2 (S20009), 2\u00d7 ground stations, spare tail, warranty repair work (flap servo, payload computer, mux board), and complete S2 airframe with nosecone. Build complete and packaged as of July 6, 2026; receive-by 2026-09-30. PO 80NSSC25PC031. Pallet shipping in prep (aircraft case, accessory case, battery case; batteries Class 9). Asana custom fields show $0 Closed/Estimated values but overridden by paid invoice and active pending delivery.",
   "missing_fields": [
     "ship_to",
     "shipped_date",
     "parts.vendor"
   ],
-  "last_evidence_date": "2024-11-04",
+  "last_evidence_date": "2025-12-30",
   "last_contact_date": "2026-02-20"
 }

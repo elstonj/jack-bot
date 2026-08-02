@@ -4,14 +4,14 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-07-31",
-    "end": "2026-08-01"
+    "start": "2026-08-01",
+    "end": "2026-08-02"
   },
   "totals": {
     "revenue": 306000.0,
-    "expenses": 7880.14,
+    "expenses": 7517.84,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 7184.8,
+      "DIRECT COSTS:DC-Direct Material Purchases": 6822.5,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34
     }
   },
@@ -149,24 +149,6 @@
           "amount": 6822.5,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "base model p400 radios x 40"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "253453718418",
-      "total": 362.3,
-      "attributed": 362.3,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm made purchase for NOAA IDIQ",
-      "lines": [
-        {
-          "amount": 362.3,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Supplies for NOAA IDIQ (Parachute cap_Main.step, Parachute Tube Stopper_V475.step,  Front cap_V481.step)"
         }
       ]
     }
