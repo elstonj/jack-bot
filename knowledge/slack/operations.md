@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through July 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through July 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (July 31, 2026) reflects DFM group visit planning, infrastructure improvements, and equipment optimization discussions.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through August 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through August 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, and ongoing operational management. Most recent activity (August 1, 2026) reflects logistics tracking and equipment delivery coordination.
 
 ---
 
@@ -60,4 +60,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Industrial Plan & Asana Portfolio Restructuring (July 23-24, 2026)
 - **July 23, 2026:** Decision to implement Industrial Plan tasks in Asana with new portfolio structure. Four new Views created for each pillar of Industrial Plan (separate from current "Active Projects" and "Business Operations" views). Beck Cotter advocated for separate IP project rather than folding tasks into existing projects to accommodate IP items that don't fit naturally into current projects. Linking via Projects or Dependencies to be used for items that naturally connect to existing projects.
 - **July 23, 2026:** New project code assigned: [001-24] IRAD Albatross (Maciej Suwinski requesting code for new Albatross project). Meredith Needham assigned project ID and added to Toggl.
-- **July 24, 2026:** Maciej Suwinski created
+- **July 24, 2026:** Maciej Suwinski created new Albatross project structure.

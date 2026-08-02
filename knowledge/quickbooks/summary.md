@@ -1,60 +1,56 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** July 31 – August 1, 2026 | **Data Range:** April 2024 – September 2026
+
+## ⚠️ Data Limitation Notice
+The QuickBooks export provided is **incomplete**. The Profit & Loss report shows only total line items without values, and project data appears to be truncated mid-table. Below is what can be analyzed from available information.
 
 ---
 
-## Company Totals
+## Company Totals (2026-08-01 to 2026-08-02)
+- **Total Revenue:** *Data incomplete in export*
+- **Total Expenses:** *Data incomplete in export*
+- **Net Income:** *Data incomplete in export*
 
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoices)** | $4,902,515.64 |
-| **Total Expenses** | $2,903,975.34 |
-| **Net Income (Estimated)** | $1,998,540.30 |
-
-*Note: P&L report shows only 2-day period (-$15,990.41); project-level data reflects full multi-year activity.*
+*Note: The P&L report headers are present but dollar amounts are missing.*
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Activity Level |
-|---------|---------------|----------------|--------------|-----------------|
-| **Government** | $4,879,621.28 | $1,537,227.37 | **+$3,342,393.91** | 86 invoices; active |
-| **BST Internal** | $22,894.36 | $1,366,747.97 | **-$1,343,853.61** | 1,342 transactions; ongoing R&D |
+### Government Project
+| Metric | Amount |
+|--------|--------|
+| Total Revenue (Invoiced) | $4,894,080.28 |
+| Total Expenses (Bills + Purchases) | $1,544,049.87 |
+| Outstanding Purchase Orders | $832.00 |
+| **Net Position** | **$3,349,030.41** |
+| Active Invoices | 88 |
+| Date Range | 2024-04-07 to 2026-09-28 |
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable
-- **Government contracts (A/R):** $3,612,310.82 outstanding
-- **BST Internal (A/R):** Data incomplete; balance status unclear
-- **Total outstanding invoice balances:** $3.6M+ (significant cash flow impact)
+- **Outstanding Invoice Balance:** $3,626,769.82
+- **Status:** Significant open receivables on Government project invoices
 
-### Recent Large Expenses (Jul 31 – Aug 1)
-- **IRAD (Internal R&D):** $7,903.87
-- **Office Supplies:** $5,121.22
-- **Shop Supplies:** $2,329.82
-- **Direct Material Purchases:** $635.50
-- **Total 2-day expenses:** $15,990.41
-
-### Active Purchase Orders
-- **PO #1038 (Amprius, BST Internal):** $1,700.00 outstanding
+### Project Activity
+- Government project shows transactions spanning 2+ years (2024–2026)
+- Recent activity through 2026-09-28
 
 ---
 
-## Unclassified Transactions
-
-Per P&L report, all expenses are classified:
-- Facilities (supplies): $7,451.04
-- Research & Development (IRAD): $7,903.87
-- Cost of Goods Sold (direct materials): $635.50
+## Data Quality Issues
+1. **P&L totals missing** — Cannot calculate company-wide revenue, expenses, or net income
+2. **Vendor/Customer lists incomplete** — Data cut off mid-export
+3. **Report period mismatch** — P&L covers 2026-08-01 to 2026-08-02 (2 days), but project data spans 2+ years
+4. **Unclassified transactions** — Unknown without complete transaction detail
 
 ---
 
-## Key Observations
-
-1. **Government contracts** are the primary revenue driver ($4.88M), generating healthy net margin of +$3.34M.
-2. **BST Internal** expenses far exceed internal revenue, indicating R&D investment or cost allocation across 1,342 transactions (27+ months).
-3. **Cash flow concern:** $3.6M in government A/R is outstanding—collection status should be monitored.
-4. **Recent activity:** Sustained R&D and facility spending indicates ongoing operations and product development.
+## Recommendation
+**Please provide:**
+- Complete P&L report with dollar amounts populated
+- Full vendor and customer transaction summaries
+- Complete project/class breakdown
+- Recent 30–90 day transaction detail for current period analysis

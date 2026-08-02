@@ -75,7 +75,7 @@
 
 - **Cory Dixon**
   - Email: cory.dixon@blackswifttech.com
-  - Notes: Role and department unknown (NEW)
+  - Notes: Role and department unknown
 
 - **Daniel Prendergast**
   - Email: daniel.prendergast@blackswifttech.com
@@ -127,17 +127,13 @@
 - ✅ All 22 roster entries confirmed against raw data
 - ✅ All phone numbers standardized to XXX-XXX-XXXX format
 - ✅ All email addresses preserved exactly as provided
-- ✅ One new team member added: Cory Dixon
+- ✅ No new personnel added (Cory Dixon previously added)
 - ✅ No changes to existing personnel records
-- ✅ Directory updated and consistent
-
-**Changes from Previous Update:**
-- **NEW:** Cory Dixon added to roster (email: cory.dixon@blackswifttech.com, role unknown)
-- Total headcount increased from 18 to 19 active employees
+- ✅ Directory verified and consistent
 
 **Observations:**
 - Engineering-focused organization: 8 technical staff (42% of active headcount)
-- Six team members remain unclassified (up from five) — recommend reaching out to leadership for role clarification, particularly for the newly added Cory Dixon
+- Six team members remain unclassified — recommend reaching out to leadership for role clarification
 - Active intern program with 2 positions filled
 - Three service accounts supporting platform operations
-- Steady roster growth with one new hire since last update
+- Stable roster with consistent headcount

@@ -1,7 +1,7 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 35,822.7 hours (2020-2026, through Aug 1)
+- **Total hours tracked:** 35,822.7 hours (2020-2026, through Aug 2)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
@@ -28,23 +28,14 @@
 18. **Kareem Ahmed:** 16.4 hours (0.05%)
 19. **Remaining 10 team members:** ~4,310.6 hours combined
 
-### Utilization Patterns (Aug 1-2)
-- **Weekly activity total:** 42.5 hours tracked across 6 team members
-- **Active contributors this period:**
-  - Stachura: 10.5 hours (Navy SBIR: Magnetometer + unallocated work)
-  - Sam Hild: 8.5 hours (unallocated work)
-  - Jack Elston: 8.5 hours (SwiftCore 3.3 firmware + General Operations)
-  - Ethan Domagala: 8.0 hours (PTO)
-  - Meredith Needham: 7.0 hours (General Operations)
-  - Paige Smith: 0.0 hours (no activity)
-
-- **Emerging pattern:** Jack Elston returning to tracked time after Aug 1 absence; resuming firmware development on SwiftCore 3.3
-- **Project focus shift:** Significant unallocated time (19.1 hours; 44.9% of period) suggests incomplete project tagging or administrative catch-up
-- **PTO:** Ethan Domagala: 8.0 hours (full day)
+### Recent Activity Status (Aug 2 EOD)
+- **No new time entries recorded for Aug 2**
+- **Last confirmed activity:** Aug 1-2 period (42.5 hours across 6 team members)
+- **Current status:** Team offline or time entry lag; monitor for weekend backlog entry on Aug 5
 
 ## Project Portfolio
 
-### Top Projects by Hours (Cumulative through Aug 1)
+### Top Projects by Hours (Cumulative through Aug 2)
 1. **Project None (Unallocated):** 8,856.0 hours (24.74%)
 2. **Project 183171534:** 4,535.8 hours (12.67%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.20%)
@@ -66,35 +57,43 @@
 19. **[550-1] Navy SBIR: Magnetometer:** 18.9 hours (0.53%)
 20. **[043-3] ByLight M2/Halo:** 35.2 hours (0.10%)
 
-### Client Distribution (Aug 1-2 activity)
-- **IRAD:** 5.8 hours (13.6%)
-- **Overhead/Corporate/Operations:** 9.7 hours (22.8%)
-- **PTO/Sick Leave:** 8.0 hours (18.8%)
-- **Unallocated/Project None:** 19.1 hours (44.9%)
+### Client Distribution (Cumulative through Aug 2)
+- **IRAD (Internal R&D):** ~6,995 hours (19.5%)
+- **Government/Sponsored (NOAA, NASA, Air Force, Navy):** ~9,947 hours (27.8%)
+- **Corporate/Overhead/Operations:** ~2,790 hours (7.8%)
+- **PTO/Sick Leave:** 336.7 hours (0.94%)
+- **Unallocated/Project None:** 8,856.0 hours (24.74%)
 
 ## Patterns & Insights
 
-### Unallocated Time Spike
-- **Aug 1-2 activity:** 19.1 hours (44.9% of period tracked without project assignment)
-- **Contributors:** Sam Hild and Stachura; both logged time without project codes
-- **Assessment:** Suggests either administrative/catch-up work, system entry delays, or task context not yet formalized in Toggl. Recommend clarifying work scope in next check-in.
+### Chronic Unallocated Time Problem
+- **Total unallocated:** 8,856.0 hours (24.74% of all tracked time)
+- **Indicates:** Either systemic gaps in project tagging, administrative/catch-all work not formally coded, or incomplete time entry data
+- **Action needed:** Audit unallocated entries to recategorize; implement stricter project assignment workflow
 
-### Navy SBIR: Magnetometer—Sustained Early Engagement
-- **Cumulative hours:** 18.9 hours (0.53% of total tracked time)
-- **Recent activity:** Stachura: 10.5 hours (Aug 1-2 period)
-- **Status:** Consistent biweekly allocation; likely exploratory phase with single technical lead
-- **Assessment:** Program remains low-volume but active; monitor for scaling or team expansion in Q3
+### Jack Elston—Dominant Resource Concentration
+- **36.72% of all tracked hours** concentrated in single team member
+- **Roles:** Technical lead (firmware, IRAD), overhead (operations/management)
+- **Risk:** High dependency on single person; potential burnout/bottleneck if Jack unavailable
+- **Recommendation:** Develop cross-training for firmware and IRAD leadership roles
 
-### SwiftCore 3.3 IRAD—Jack Elston Re-Engagement
-- **Aug 1-2 activity:** Jack Elston: 5.8 hours (firmware branch merging)
-- **Cumulative hours:** 841.4 hours (2.35% of total)
-- **Pattern:** Jack returning to hands-on firmware work after period of higher-level overhead focus; Ben Busby's prior 8.0-hour contribution (Jul 30-31) not sustained in this period
-- **Assessment:** Core SwiftCore 3.3 development remains on Jack's technical roadmap; potential for dual-track execution if Ben Busby involvement grows
+### Navy SBIR: Magnetometer—Early-Stage Program
+- **Cumulative hours:** 18.9 hours (0.53% of total)
+- **Primary contributor:** Stachura (10.5 hours in Aug 1-2)
+- **Status:** Exploratory phase with single technical lead; low utilization
+- **Outlook:** Monitor for team expansion; currently sustainable at current burn rate
 
-### Jack Elston's Time Allocation Re-Balancing
-- **Re-entry to tracked projects:** After Jul 30-31 absence, Jack logged 8.5 hours split between SwiftCore 3.3 firmware development and general operations (email/administrative)
-- **Cumulative impact:** Jack remains dominant technical resource (36.72% of all tracked time); recent pattern suggests shift toward hybrid technical/administrative responsibilities
-- **Assessment:** Monitor workload distribution; high concentration risk if Jack continues dual-role split
+### SwiftCore 3.3 IRAD—Phased Engagement
+- **Total hours:** 841.4 hours (2.35%)
+- **Recent pattern:** Jack Elston returning to hands-on firmware; Ben Busby contribution not sustained
+- **Assessment:** Core development on Jack's critical path; potential for expanded team if scaling accelerates
 
-### High Unallocated/Project None Ratio
-- **Cumulative:** 8,856.0 hours (24
+### High IRAD Investment Relative to Billable Work
+- **IRAD total:** ~6,995 hours (19.5% of tracked time)
+- **Government/Sponsored (billable):** ~9,947 hours (27.8%)
+- **Overhead/unallocated:** ~11,646 hours (32.5%)
+- **Observation:** Significant internal R&D commitment; unallocated time suggests potential misclassification of work or administrative overhead not tracked to formal projects
+
+### Weekend/Holiday Data Gap
+- **Aug 2 (Friday) EOD:** No new time entries
+- **Expected:** Backlog entry or offline period for team; monitor Aug 5 for weekend catch-up

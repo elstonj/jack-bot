@@ -50,11 +50,10 @@
 - Update onboard wind estimator (vertical) — Unassigned
 
 ## Task Summary
-- **Total tasks:** 0 open, 2 completed
-- **Completed tasks (2 total):**
-  - Manufacturability improvements (Completed August 8, 2025)
-  - Pre-funding tasks (Completed May 1, 2025)
-- **Discrepancy note:** Earlier data listed 23 open tasks with multiple assignees; current raw data shows 0 open, 2 completed. **Asana project appears to have been archived with tasks removed or archived alongside it.** Recommend reconciliation with team on actual work status vs. Asana record.
+- **Total tasks:** 0 open, 1 completed in current Asana snapshot
+- **Completed tasks (1 total):**
+  - High priority order items (Completed April 8, 2025) — Unassigned
+- **Discrepancy note:** Earlier snapshots listed up to 23 open tasks with multiple assignees; current Asana project shows 0 open, 1 completed. **Asana project is archived with minimal task representation.** Recommend urgent reconciliation with team on actual work status vs. Asana record, especially given critical August 25, 2026 deadline.
 - **Historical completion rate (April 2026):** 
   - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura ✅
   - Local testing to verify fixes and updates (Mar 20 due, Apr 16 completed) — Maciej Stachura ✅
@@ -69,10 +68,10 @@
 - Funds also being added to current Hurricane contract for early part ordering or full UAS builds
 
 **Completed (August 2025):**
-- Manufacturability improvements (Completed August 8, 2025)
+- Manufacturability improvements
 
 **Completed (May 2025):**
-- Pre-funding tasks (Completed May 1, 2025)
+- Pre-funding tasks
 
 **Completed (April 2026):**
 - Clear Air Testing (May 1 due date, completed Apr 16) — Maciej Stachura
@@ -82,7 +81,7 @@
 **Strategic Activity (April 2026):**
 - Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential expansion of government partnerships beyond NOAA for S0 platform
 
-**Current Status:** No activity logged beyond April 2026; project archived in Asana. **Critical:** Determine if project tracking has moved to different system or if task management is occurring outside Asana. With contract deadline of August 25, 2026, urgent clarification needed on current status of deliverables and training CLINs.
+**Current Status:** No activity logged in Asana beyond April 2026; project archived. **Critical:** Determine if project tracking has moved to different system or if task management is occurring outside Asana. With contract deadline of August 25, 2026, urgent clarification needed on current status of deliverables and training CLINs.
 
 ## Notes & Context
 
@@ -98,3 +97,6 @@
 ### Technical Focus
 - S0 air-deployed hurricane platform with custom payload capabilities
 - Primary technical challenges: IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and potential aircraft loss
+
+### Status Management Gap
+**URGENT:** Asana project is archived with minimal active tasks (0 open, 1 completed as of latest snapshot), yet contract remains active through August 25, 2026 with critical deliverables due. This represents a significant disconnect between Asana project state and real-world contract obligations. Actual work

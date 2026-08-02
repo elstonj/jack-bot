@@ -1,9 +1,9 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 162 emails (39 new + 123 previously documented)
+- **Total messages scanned:** 170 emails (8 new + 162 previously documented)
 - **Date range:** 25 Jul 2026 – 01 Aug 2026 (8 days)
-- **Volume pattern:** Massive procurement spike on 31 Jul (27/39 new messages = 69% of daily traffic). Clear shift from technical troubleshooting phase (29–30 Jul) to inventory/manufacturing fulfillment phase (31 Jul–01 Aug). 01 Aug shows cooling trend (4 messages, mostly transactional). Pattern suggests: coordinated component ordering across multiple vendors, manufacturing readiness, and system buildout cycle.
+- **Volume pattern:** Massive procurement spike on 31 Jul (27/39 previous messages = 69% of daily traffic). 01 Aug shows significant continuation of "Additional orders" thread coordination (5/8 new messages on same thread), indicating **active real-time negotiation/approval cycle** on weekend (Sat 01 Aug). Shift from transactional vendor confirmations (31 Jul) to strategic decision-making (01 Aug).
 
 ## Key Correspondents
 
@@ -11,91 +11,86 @@
 
 **Human Senders (Direct Communication):**
 
-1. **Jack Elston** (elstonj@blackswifttech.com) — **3 new messages, 31 Jul** — Technical/procurement coordination
-   - "Re: Additional orders" thread (10:37 UTC, 12:22 UTC, 19:45 UTC)
-   - All [IMPORTANT] flagged
-   - CC'd with Matt Crabtree (Waveform Engineering) and Sam Hild directly on 17:08 UTC message
-   - Status: Active real-time coordination on component sourcing with external engineering partner
+1. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **2 new messages, 01 Aug** — External technical partner
+   - "Re: Additional orders" (17:17 UTC, 16:52 UTC) — both [IMPORTANT]
+   - Both CC'd to microfirm@earthlink.net and Jack Elston
+   - Status: **Critical escalation — Waveform Engineering now initiating replies on "Additional orders" thread, not just responding**
 
-2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **2 new messages, 31 Jul** — External technical partner
-   - "RE: Additional orders" (01:38 UTC, 17:08 UTC)
-   - Both [IMPORTANT] flagged
-   - Direct communication to Jack Elston + Sam Hild CC
-   - Status: Elevated to active participant in procurement decisions (not just receiving forwarded emails)
+2. **microfirm@earthlink.net** — **3 new messages, 01 Aug** — Unknown correspondent (NEW SIGNAL)
+   - "RE: Additional orders" (11:11 UTC, 10:14 UTC, 09:48 UTC) — all [IMPORTANT]
+   - All messages CC'd to Matt Crabtree and Jack Elston
+   - **Key observation:** Sender address is external (earthlink.net personal email), NOT a known BST or vendor domain
+   - Status: **Third-party stakeholder elevated to core "Additional orders" decision thread; possible investor, customer, or specialized consultant**
 
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **3 new messages, 31 Jul** — Operations/vendor coordination
-   - Green Apple Cleaning follow-up (11:47 & 11:22 UTC) — facility services negotiation
-   - Framework.work order status inquiry (09:18 UTC) — computing hardware tracking
-   - Status: Continued vendor management and customer support routing
+3. **Jack Elston** (elstonj@blackswifttech.com) — **1 new message thread participant, 01 Aug** — Internal coordination
+   - Recipient on all 5 "Additional orders" messages on 01 Aug
+   - Status: **Confirmed as lead on this procurement/decision thread**
 
-**Automated/Transactional (31 new messages — Manufacturing/Component Surge):**
+**Automated/Transactional (3 new messages — Marketing/Operational):**
 
-**Manufacturing & Fabrication Services (9 messages):**
-- **Protolabs** (4 messages, 31 Jul) — Order 5184-903 & 6794-871 (received → ready for manufacturing → shipped) + Invoice 100-A000840621 (01 Aug). **SIGNAL: Two concurrent orders, one shipping, one in manufacturing queue**
-- **SendCutSend** (1 message, 31 Jul) — Order received ("here's what's next" status)
-- **Craftcloud** (1 message, 31 Jul) — Invoice for Order #490602963468 (manufacturing service)
-- **JawsTec Manufacturing** (4 messages, 31 Jul) — Orders #70260 & #70261 (dual concurrent orders, payment requests + confirmations). **SIGNAL: High-volume manufacturing orders with invoice tracking**
-
-**RC/Propulsion Components (7 messages):**
-- **ServoCity** (4 messages, 31 Jul) — Order #300046306 (order confirmation → updated → updated again → updated). **SIGNAL: Multiple status changes on single order; possibly high-priority**
-- **APC Propellers** (1 message, 31 Jul) — Order received
-- **Hitec RCD USA** (2 messages, 31 Jul) — Order #5791 (confirmation + status update)
-
-**Specialized Aviation/Sensor Components (3 messages):**
-- **IR-LOCK** (2 messages, 31 Jul) — Order #28043 (confirmed + shipment notification) [IMPORTANT]. **SIGNAL: Infrared optical systems; likely vision/guidance component**
-- **Dronetag s.r.o.** (1 message, 31 Jul) — Payment accepted (drone identification/tracking system)
-
-**Electronics Distribution (2 messages):**
-- **DigiKey** (2 messages, 31 Jul) — Order #100742193 (PO acknowledgement + thank you). **SIGNAL: High-value component electronics order**
-
-**Supply/Specialty Items (4 messages):**
-- **SkyGeek** (1 message, 01 Aug) — "Polyurethane Topcoats for Lasting Performance" (routed to Joshua Fromm/purchasing)
-- **eBay** (2 messages, 31 Jul) — Futaba 14SG & T14SG inquiries (RC transmitters — continued monitoring)
-- **Toggl Track** (1 message, 31 Jul) — Time tracking platform (no subject; direct to Sam Hild)
-
-**Other Transactional:**
-- **Rippling** (1 message, 31 Jul) — Payroll confirmation (7/1–7/31 payment)
+- **Big Red F** (info@bigredf.com, 16:09 UTC) — Promotional email (Colorado birthday celebration) routed to purchasing@blackswifttech.com — [CATEGORY_PROMOTIONS]. **SIGNAL: Marketing noise, low relevance**
+- **Spindrift** (support@drinkspindrift.com, 14:15 UTC) — Promotional email (lemonade discount) routed to Meredith Needham/purchasing@blackswifttech.com — [CATEGORY_PROMOTIONS]. **SIGNAL: Beverage/office supplies vendor, likely employee perk or break room items**
+- **USPS Informed Delivery** (via purchasing@blackswifttech.com, 13:16 UTC) — Mail tracking digest — [CATEGORY_FORUMS]. **SIGNAL: Purchasing dept monitoring physical mail deliveries; consistent with high-volume component ordering**
 
 ### Recipients (Updated)
-- **purchasing@blackswifttech.com** (26/39 new messages routed through purchasing account — primary vendor funnel)
-- **Jack Elston** (elstonj@blackswifttech.com) — 3 direct exchanges on "Additional orders"
-- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 2 messages, now elevated to direct participant (not just recipient)
-- **Meredith Needham** — 3 messages (vendor coordination, Framework support, Green Apple Cleaning)
-- **Joshua Fromm** (joshua@greenapplecleaningcrew.com, purchasing@blackswifttech.com) — Receives SkyGeek & Craftcloud routing
-- **Maciej Stachura** (purchasing@blackswifttech.com) — Receives Protolabs manufacturing updates
-- **Alex Lomis** (purchasing@blackswifttech.com) — Receives Dronetag payment confirmations
-- **Sam Hild** (direct) — Receives Toggl Track & Rippling notifications; CC'd on Matt Crabtree "Additional orders" messages
+- **Jack Elston** (elstonj@blackswifttech.com) — 5 messages on "Additional orders" thread (01 Aug)
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 5 messages on "Additional orders" thread (01 Aug)
+- **microfirm@earthlink.net** — 5 messages on "Additional orders" thread (01 Aug) — NEW KEY CORRESPONDENT
+- **purchasing@blackswifttech.com** (funnel address) — 2 messages (promotional noise)
+- **Meredith Needham** (purchasing@blackswifttech.com) — 1 message (Spindrift promotional)
 
 ### Internal vs External (Updated)
-- **External:** 31/39 messages (vendors, manufacturers, component suppliers)
-- **Internal:** 8/39 messages (Jack Elston x3, Meredith Needham x3, Sam Hild x1 [Toggl Track direct], Rippling x1)
-- **Key internal routing:** Jack Elston ↔ Matt Crabtree coordination visible in "Additional orders" thread (elevated from previous CC-only pattern)
+- **External:** 5/8 messages ("Additional orders" thread: 2 Crabtree, 3 microfirm@earthlink.net)
+- **Internal:** 3/8 messages (2 promotional vendor emails + 1 USPS notification)
+- **Key shift:** External communication now dominating even in 01 Aug cooling phase; "Additional orders" thread consuming 5/8 messages across 01 Aug (10:14 UTC – 17:17 UTC = 7-hour decision window on weekend)
 
 ## Topic Patterns
 
-### Manufacturing & Production (NEW — Major Signal)
+### "Additional Orders" Thread — CRITICAL SIGNAL (NEW)
 
-**Concurrent Manufacturing Orders (31 Jul surge):**
+**Thread Activity (01 Aug):**
+- 5 consecutive messages over 7-hour window (09:48 UTC – 17:17 UTC)
+- All flagged [IMPORTANT], all [UNREAD]
+- Participants: Jack Elston (BST internal), Matt Crabtree (Waveform Engineering external), microfirm@earthlink.net (unknown party)
+- **Message flow suggests:** Rapid back-and-forth negotiation or approval cycle
+  - 09:48 UTC: microfirm@earthlink.net initiates ("RE:")
+  - 10:14 UTC: microfirm@earthlink.net responds again
+  - 11:11 UTC: microfirm@earthlink.net message
+  - 16:52 UTC: Matt Crabtree reply (8.5-hour gap — possible decision point)
+  - 17:17 UTC: Matt Crabtree follow-up reply (25-minute follow-up)
 
-1. **Protolabs** (Precision machining/custom parts)
-   - Order 5184-903: Received 16:54 UTC → Ready for manufacturing 18:17 UTC → Shipped 15:07 UTC (01 Aug)
-   - Order 6794-871: Shipping confirmation 15:07 UTC
-   - Suggests: Multiple precision components in manufacturing pipeline; 24-48 hour turnaround indicates rush/priority orders
+**Interpretation:**
+- **Morning cycle (09:48–11:11 UTC):** Three messages from microfirm@earthlink.net suggest possible objections, questions, or counter-proposals being raised
+- **Afternoon cycle (16:52–17:17 UTC):** Matt Crabtree's two messages in quick succession suggest resolution or clarification being provided
+- **Pattern:** High-stakes negotiation with external party (microfirm@earthlink.net) involving Waveform Engineering technical input and BST internal sign-off (Jack Elston)
 
-2. **JawsTec Manufacturing** (Custom fabrication)
-   - Order #70260 & #70261 (parallel orders)
-   - Both received & invoiced same day (16:42–16:45 UTC)
-   - Payment requests issued immediately
-   - Suggests: Capacity planning or bulk component production
+### Manufacturing & Production (Previous Context)
+- Previous 31 Jul surge: 4 concurrent manufacturing services (Protolabs, JawsTec, SendCutSend, Craftcloud) all activated in 6-hour window
+- 01 Aug "Additional orders" thread suggests **possible expansion, modification, or approval of manufacturing orders** initiated on 31 Jul
+- **Hypothesis:** microfirm@earthlink.net may be approving stakeholder (customer, investor, or project partner) for expanded manufacturing commitment
 
-3. **SendCutSend** (Sheet metal/laser cutting)
-   - Order received & in production queue
-   - Complements Protolabs precision work
+## Communication Patterns
 
-4. **Craftcloud** (Distributed manufacturing network)
-   - Order #490602963468 invoiced same day
+- **Weekend activity:** High-priority decision-making occurring on Saturday (01 Aug), not deferred to weekday — suggests urgency or fixed deadline
+- **Time zones:** Mixed UTC and US Mountain Time (-0600) across participants — suggests geographically distributed team with real-time coordination
+- **Message urgency:** All 5 "Additional orders" messages marked [IMPORTANT] and [UNREAD], indicating freshly-arrived critical messages
+- **Email routing:** Promotional/transactional noise (Big Red F, Spindrift, USPS) still flowing into purchasing@blackswifttech.com; human decision-making thread bypassing purchasing funnel address (using direct recipients)
 
-**Production Interpretation:**
-- 4 concurrent manufacturing services (Protolabs, JawsTec, SendCutSend, Craftcloud) all receiving/confirming orders within 6-hour window (31 Jul 16:42–16:58 UTC)
-- **Pattern suggests:** Coordinated kit/system assembly — precision parts, custom fabrication, sheet metal, and distributed manufacturing all activated simultaneously
-- **Timeline:** Components ordered/confirmed 31 Jul afternoon; Protolabs shipping 01 Aug → suggests 8–16 hour expedited fulfillment
+## Key Relationships
+
+### Elevated Partnerships (01 Aug Signal)
+
+1. **Jack Elston ↔ Matt Crabtree ↔ microfirm@earthlink.net** — **Active decision triad**
+   - All 5 01 Aug messages involve all three parties
+   - Thread subject "Additional orders" suggests expansion beyond 31 Jul manufacturing orders
+   - Matt Crabtree now initiating replies (not just responding) — elevated authority or technical lead role
+
+2. **microfirm@earthlink.net** — **Mystery stakeholder (NEW)**
+   - Uses personal email domain (Earthlink), not corporate
+   - Elevated to core decision thread on manufacturing/procurement
+   - Initiates majority of 01 Aug activity (3/5 messages)
+   - **Possible roles:** External customer approver, project investor, specialized consultant, or external engineering authority
+
+3. **Matt Crabtree (Waveform Engineering)** — **External technical authority**
+   - Escalated from CC-only recipient (31 Jul) to active thread originator (01 Aug)
+   - Responding to microfirm@earthlink.net inquiries with Jack
