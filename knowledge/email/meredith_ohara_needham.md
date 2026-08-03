@@ -1,106 +1,133 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,101 emails (2,079 previous + 22 from Aug 1–2)
-- **Date range:** June 15–August 2, 2026 (49 days)
-- **Approximate volume:** ~42.9 emails/day
-- **Trend:** **Volume sustained; Aug 1–2 spike driven by shipping notifications and system alerts; Rippling/QuickBooks sync crisis continues into Aug 2; purchasing automation routing heavily weighted toward logistics/fulfillment tracking**
+- **Total messages scanned:** 2,108 emails (2,101 previous + 7 from Aug 2–3)
+- **Date range:** June 15–August 3, 2026 (50 days)
+- **Approximate volume:** ~42.2 emails/day
+- **Trend:** **Volume sustained at baseline; Aug 2–3 activity shows continued logistics/fulfillment tracking with shift toward direct vendor support (Framework.work direct contact); purchasing automation routing remains dominant pattern**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Aug 2)
+### Incoming (by frequency — updated through Aug 3)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,100+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,105+ cumulative messages**
 
-   **Recent Activity (Aug 1–2):**
+   **Recent Activity (Aug 2–3):**
 
-   **Precision Manufacturing & Fabrication (SUSTAINED ACCELERATION):**
-   - **Protolabs** (custom manufacturing/3D printing)
-     - Invoice 100-A000840621 (Aug 1, 06:11:51 UTC) [UNREAD, CATEGORY_FORUMS]
-     - Order acknowledgement 5184-903 (Jul 31, 16:58:53 UTC) [CATEGORY_FORUMS]
-     - **Significance:** Rapid order-to-invoice cycle; ongoing component manufacturing
-
-   - **SendCutSend** (laser cutting/metal fabrication)
-     - Order received acknowledgement (Jul 31, 16:54:44 UTC) [IMPORTANT, CATEGORY_FORUMS]
-
-   - **Jawstec** (precision manufacturing)
-     - Order #70261, #70260 received (Jul 31, 16:45–16:42 UTC) [IMPORTANT, CATEGORY_UPDATES]
-
-   - **Craftcloud®** (3D printing/manufacturing platform)
-     - Invoice and notification for Order #490602963468 (Jul 31, 11:35 UTC) [CATEGORY_FORUMS]
-
-   **Aerospace & Robotics Components (SUSTAINED PROCUREMENT):**
-   - **ServoCity®** (robotics/motion components)
-     - Order #300046306 updated (Aug 1, 03:00:27 UTC) [UNREAD, IMPORTANT, CATEGORY_FORUMS]
-     - Order confirmation (Jul 31, 19:43:38 UTC) [IMPORTANT, CATEGORY_UPDATES]
-
-   - **APC Propellers** (aircraft propellers)
-     - Order received (Jul 31, 19:12:24 UTC) [UNREAD, CATEGORY_FORUMS]
-
-   - **Hitec RCD USA** (RC/UAS components)
-     - Order #5791 updated (Jul 31, 23:42:30 UTC) [UNREAD, CATEGORY_FORUMS]
-
-   - **IR-LOCK** (optical tracking systems)
-     - Order #28043 confirmed (Jul 31, 19:16:18 UTC) [CATEGORY_FORUMS]
-
-   - **Dronetag s.r.o.** (drone identification/telemetry)
-     - Payment accepted & receipt (Jul 31, 19:22–19:23 UTC) [UNREAD, CATEGORY_FORUMS]
-
-   **Electronics & Semiconductors:**
-   - **DigiKey** (electronics distributor)
-     - Shipment notification for invoice 130191667 (Jul 31, 20:38:05 CDT) [UNREAD, CATEGORY_FORUMS]
-     - Order confirmation for sales order #100742193 (Jul 31, 14:31:10 CDT) [CATEGORY_FORUMS]
-
-   **General Hardware & Supplies (NEW AUG 1–2 PATTERN — High-Volume Logistics):**
+   **General Hardware & Logistics (Sustained High Volume):**
    - **Amazon.com** (via Purchasing routing)
-     - Shipped: 1 Hardware item (Aug 2, 03:16:40 UTC) [UNREAD, CATEGORY_FORUMS]
-     - Shipped: 2 Electronics items (Aug 1, 21:39:21 UTC) [UNREAD, CATEGORY_FORUMS]
-     - Shipped: 2 Toy items (Aug 1, 17:26:15 UTC) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Multiple shipments across 48 hours; "Toy items" category may indicate drone/RC components miscategorized by Amazon
+     - Shipped: 8 Camera and Toy items (Aug 3, 05:19:28 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Large multi-item shipment; "Camera items" (new Aug 3) suggests surveillance/imaging component procurement alongside previous RC/drone categorized items
+
+   - **UPS** (via Purchasing routing)
+     - Package delivery notification (Aug 2, 14:45:02 EDT) [UNREAD, CATEGORY_FORUMS]
+
+   - **USPS Informed Delivery** (via Purchasing routing)
+     - Daily digest (Aug 2, 13:19:46 UTC) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Routine logistics tracking; indicates multi-carrier fulfillment strategy
+
+   - **Harbor Freight** (via Purchasing routing)
+     - Promotional: 30% Off All Items $10 and Under (Aug 2, 17:55:53 UTC) [UNREAD, CATEGORY_FORUMS]
 
    - **eBay** (via Purchasing routing)
-     - Package with carrier notification (Aug 1, 09:32:29 PDT) [UNREAD, CATEGORY_FORUMS]
-     - Order update: Futaba T14SG 14-Channel (Aug 1, 07:32:26 PDT) [UNREAD, CATEGORY_FORUMS]
-     - Product alert: futaba 14sg, Receivers & Transmitters: 2 NEW (Aug 1, 06:03:42 PDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Sustained eBay procurement activity; Futaba T14SG transmitter appears to be high-velocity item
+     - Product alert: woodhead 4023 (Aug 2, 06:24:18 PDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** NEW COMPONENT ALERT — "woodhead 4023" suggests industrial/electrical connector or power distribution component; watchlist item
 
-   - **Rocketman Parachutes Store** (parachute/recovery systems)
-     - Shipment from order #1817 out for delivery (Aug 1, 14:03:37 UTC) [UNREAD, CATEGORY_UPDATES]
-     - **Significance:** NEW VENDOR PATTERN — Aircraft/UAS recovery systems procurement
+   - **Budget Car Rental** (via Purchasing routing)
+     - Survey/feedback request (Aug 2, 07:52:17 PDT) [UNREAD, CATEGORY_FORUMS]
+     - **Significance:** Non-core vendor; likely spam/newsletter routing
 
-   - **Harbor Freight** (tools/equipment)
-     - Promotional: 30% Off Savings Weekend (Aug 1, 16:50:21 UTC) [UNREAD, CATEGORY_FORUMS]
+---
 
-   - **Lenovo Rewards** (via Purchasing routing)
-     - Monthly recap notification (Aug 1, 18:13:28 UTC) [UNREAD, CATEGORY_FORUMS]
+2. **Direct Vendor Contact (NEW PATTERN — Aug 3):**
 
-   - **AliExpress** (via Purchasing routing)
-     - Cart reminder: No Solder Banana Plug Quick Wire Connect 32A (Aug 1, 16:18:00 PDT) [UNREAD, CATEGORY_FORUMS]
-     - **Significance:** Connector/wiring components on watchlist
+   - **Framework Computer** (`support@frame.work`)
+     - **Direct response to Meredith (not routed via purchasing@):**
+       - Iris (Framework support): Re: Submission from Contact Us: Status of order R718378251 (Aug 3, 03:45:36 UTC) [UNREAD, IMPORTANT]
+       - **Significance:** DIRECT SUPPORT ESCALATION — Framework order status inquiry; Meredith directly contacting vendor support (not using purchasing automation); order R718378251 appears time-sensitive or mission-critical; "Iris" named support contact suggests dedicated account handler
 
-   - **Home Depot Pro Xtra** (via Purchasing routing)
-     - Perk unlocked notification (Jul 31, 22:55:53 EDT) [UNREAD, CATEGORY_FORUMS]
+---
 
-   **HR/Payroll/Benefits (CRITICAL INTEGRATION CRISIS ESCALATING):**
+## Topic Patterns
 
-   - **Rippling Payroll** (ESCALATING ALERTS & NEW REQUESTS — Aug 1–2)
-     - **NEW REQUEST (Aug 2, 11:02:01 UTC):**
-       - You have a new Rippling AI trial request (Aug 2, 11:02:01 UTC, direct to Meredith) [UNREAD, IMPORTANT, CATEGORY_UPDATES]
-       - **Significance:** Rippling initiating product trials; potential attempt to resolve QuickBooks sync via AI-assisted features
+### Component Categories (Visible from Aug 2–3)
+- **Imaging/Vision Systems:** "Camera items" (Amazon, Aug 3) — new category; suggests surveillance or computer vision component integration
+- **Industrial/Electrical Connectors:** "woodhead 4023" (eBay alert) — industrial electrical components
+- **Logistics/Fulfillment:** Multi-carrier tracking (UPS, USPS, Amazon) — sustained high-velocity inbound component flow
+- **Tools/Equipment:** Harbor Freight promotional engagement (likely for prototyping/assembly)
 
-     - **SUPPORT FOLLOW-UP (Aug 1):**
-       - Support survey: Meredith, how was your recent support experience with Nischala S? (Aug 1, 17:29:10 MDT) [UNREAD, IMPORTANT, CATEGORY_UPDATES]
-       - **Significance:** Follow-up after critical technical escalation; support case with named engineer (Nischala S)
+### Vendor/Organization Patterns
+- **Manufacturing & Fabrication:** Protolabs, SendCutSend, Jawstec, Craftcloud (sustained from previous period)
+- **Aerospace & Robotics:** ServoCity, APC Propellers, Hitec RCD USA, IR-LOCK, Dronetag (sustained)
+- **Consumer Electronics:** DigiKey (sustained)
+- **Marketplace Components:** Amazon (expanding category mix), eBay (focused search/alerts)
+- **Computer Hardware:** Framework Computer (NEW — direct escalation suggests high-priority build or custom system)
 
-     - **Previous Crisis Alerts (Jul 31):**
-       - 5 failed sync alerts to QuickBooks Online (Jul 31, 16:00–16:21 UTC) [IMPORTANT, 1 STARRED]
-       - Payruns failed to sync multi-recipient alert (Jul 31, 16:00:06 UTC) [CATEGORY_UPDATES]
-       - Payroll processed notification (Jul 31, 19:36:12 UTC) [IMPORTANT, CATEGORY_UPDATES]
-       - Time off approval required (Jul 31, 17:38:20 UTC) [IMPORTANT, CATEGORY_UPDATES]
-       - Support response: Cannot update QuickBooks Mapping (Jul 31, 23:27:32 UTC) [UNREAD, IMPORTANT]
+---
 
-     - **Significance:** ONGOING SYSTEMIC ISSUE — Sync failures persisting
+## Communication Patterns
+
+### Time Patterns
+- **Consistent overnight/early morning activity:** 03:45 UTC (Aug 3), 05:19 UTC (Aug 3), 06:24 PDT (Aug 2) — suggests automated digest delivery + possible Meredith reviewing/handling logistics outside standard business hours
+- **Weekend activity sustained:** Aug 2–3 (Sunday–Monday) shows same volume as weekday pattern
+- **Purchasing automation dominates:** 6 of 7 new messages routed via `purchasing@blackswifttech.com`
+
+### Direct Contact Shift
+- **Aug 3 Framework.work escalation:** First direct vendor support contact in recent metadata; suggests urgent or high-stakes order; bypasses purchasing automation routing
+
+### Mailing Lists & Automation
+- **Purchasing routing system:** Acting as mail hub for vendor order confirmations, shipment notifications, and promotional alerts
+- **Newsletter/Promotional:** Harbor Freight, Budget Car Rental, eBay product alerts (non-transactional engagement)
+- **Logistics automation:** USPS Informed Delivery digest (routine multi-carrier tracking)
+
+---
+
+## Key Relationships
+
+### Internal
+- **Alex LOMIS** — Appears as recipient on Budget Car Rental survey (Aug 2); possible co-requester on purchasing or operations team
+
+### External (Vendor/Partner Tier)
+
+**Tier 1 — Active Procurement (High Velocity):**
+- **Protolabs, SendCutSend, Jawstec** (precision manufacturing) — rapid order-to-invoice cycles
+- **ServoCity, APC Propellers, Hitec RCD USA, IR-LOCK** (aerospace/robotics components)
+- **DigiKey, eBay** (component sourcing)
+
+**Tier 2 — Direct Escalation (Mission-Critical):**
+- **Framework Computer (Iris, support@frame.work)** — NEW; direct support contact for order R718378251; named support handler suggests VIP/priority account status or complex technical requirement
+
+**Tier 3 — Marketplace/General Logistics:**
+- **Amazon, UPS, USPS** (fulfillment network)
+- **Harbor Freight** (tools/equipment supplier)
+
+---
+
+## Notable Observations
+
+1. **Framework Computer Direct Escalation (Aug 3):**
+   - First direct vendor support contact in recent metadata (bypasses purchasing automation)
+   - Named support handler (Iris) + order R718378251 + "Status of order" subject suggests time-sensitive or high-stakes hardware procurement
+   - Potential custom system build for critical BST application
+
+2. **Imaging/Vision Component Emergence (Aug 3):**
+   - "Camera items" in Amazon shipment is first optical/imaging category visible in metadata
+   - Combined with existing IR-LOCK (optical tracking) and Dronetag (telemetry) procurement, suggests computer vision system integration (likely drone/UAS or robotics platform)
+
+3. **Industrial Connector Alert (Aug 2–3):**
+   - "woodhead 4023" eBay alert is new component type; industrial/electrical connector suggests custom wiring or power distribution system design
+
+4. **Multi-Carrier Logistics Footprint:**
+   - USPS, UPS, Amazon, eBay simultaneous tracking (Aug 2–3) indicates distributed supplier strategy; minimizes single-point delivery failure risk
+
+5. **Purchasing Automation Dominance Persists:**
+   - 6 of 7 new messages are automated vendor/carrier notifications routed through `purchasing@blackswifttech.com`
+   - Meredith not directly visible as email author in new dataset (all activity is receiving/reviewing automated alerts and one direct escalation)
+   - **Rippling/QuickBooks sync crisis from Aug 1–2 is absent from Aug 3 dataset** — suggests either crisis resolved or escalated outside email channel
+
+6. **Weekend/Overnight Engagement Pattern:**
+   - Sustained activity on Sunday Aug 2 and early Monday Aug 3

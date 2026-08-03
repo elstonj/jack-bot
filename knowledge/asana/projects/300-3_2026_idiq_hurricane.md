@@ -33,7 +33,7 @@
   - ⚠️ **Original deadline 2026-07-31 passed; delivery completion delayed ~17–28 days on critical path items**
   - ⚠️ **Web-based controller due 2026-07-31 — STATUS UNKNOWN; confirm with Ben Busby**
   - ⚠️ Invoice 6 deadline extended to 2026-08-21; tied to final shipment documentation
-  - ⚠️ Option 2 POF0344 Invoice 1 due 2026-08-03 — imminent, requires submission readiness
+  - 🔴 **Invoice 1 (POF0344) due 2026-08-03 — IMMINENT (within days); submission in progress per Asana**
   - ⚠️ Option 2 adds $628k and 34 units with compressed timelines; 21 S0s delivery date still pending
 
 ## Key Deliverables & Milestones
@@ -57,7 +57,7 @@
 | 4 of 6 | CLIN 1001 (DO F0084) | $72,000 | 2026-06-05 | ✅ Submitted 2026-07-02 (27 days late) |
 | 5 of 6 | CLIN 1001 (DO F0084) | $72,000 | 2026-07-06 | ✅ Submitted 2026-07-02 (4 days early) |
 | **6 of 6** | **CLIN 1001 (DO F0084)** | **$72,000** | **2026-08-21** | ⏳ **OPEN — Pending final shipment docs** |
-| **1 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-08-03** | ⏳ **OPEN — IMMINENT** |
+| **1 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-08-03** | 🔴 **OPEN — IMMINENT; documentation linked in Asana** |
 | **2 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-09-03** | ⏳ **OPEN** |
 | **3 of 3** | **POF0344 (Option 2)** | **$117,000** | **2026-10-05** | ⏳ **OPEN** |
 
@@ -74,12 +74,6 @@
 ## Task Summary
 
 **Asana Open Tasks: 1**
-- **Web-based controller** (Ben Busby, due 2026-07-31) — ⚠️ **Original deadline passed (2026-07-31); confirm current completion status and any delivery blockers**
-
-**Completed Tasks:** 0 shown in current Asana snapshot; however, major hardware/firmware milestones have been delivered (see timeline above).
-
-**Note:** Asana custom fields show original DO budget ($483k) but do not reflect Option 2 ($628k) yet; knowledge file consolidated both into full $1.111M IDIQ scope.
-
-## Recent Activity
-
-- **July
+- **Submit Invoice 1 of 3 CLIN 1001 POF0344 ($58,500)** (Meredith O'hara Needham, **due 2026-08-03**)
+  - 🔴 **URGENT — Due in ~2 days**
+  - Documentation: https://docs.google.com/document/d/1OAJ5WaQfWKctHPzTRQPN8HXziM-wl9nCKREFlSuW0O0
