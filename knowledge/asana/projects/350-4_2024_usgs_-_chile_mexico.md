@@ -18,11 +18,11 @@
 
 ### Major Milestones (Original Planned Dates — Now Superseded by Fall 2026 Deployment)
 - **Operator Manual and Flight CONOPS for AFAC** | Dan Prendergast | Asana due: July 13, 2026 | **STALE**
-- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
-- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: August 3, 2026 | **STALE**
+- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: August 3, 2026 | **STALE & OPEN**
+- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: August 3, 2026 | **STALE & OPEN**
 - **Sort out flight, radio, shipping, and import permissions** | Unassigned | Asana due: July 31, 2026 | **STALE** — Note: Batteries already shipped to Mexico (May 2026); customs/import details under review
 - **Look at FLIR stoppage at Murray State** | Maciej Stachura | Asana due: August 3, 2026 | ✅ **COMPLETED July 6, 2026**
-- **Test props for operations at 5700m** | Maciej Stachura | Asana due: August 3, 2026 | **STALE**
+- **Test props for operations at 5700m** | Maciej Stachura | Asana due: August 3, 2026 | **STALE & OPEN**
 - **Finish payload updates** | Unassigned | Asana due: August 31, 2026 | **STALE**
 - **Conduct local flight testing** | Unassigned | Asana due: August 31, 2026 | **STALE**
 - **Ship Aircraft and Equipment** | Unassigned | Asana due: September 1, 2026 | **STALE**
@@ -32,11 +32,13 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 0 open, 1 completed (100% completion of remaining tracked work)
-- **Recently Completed**:
-  - ✅ **Package and Ship S2 Equipment** | Dan Prendergast | Due: January 21, 2026 (completed January 22, 2026)
+- **Total Tasks**: 3 open, 1 completed
+- **Tasks by Assignee**:
+  - **Dan Prendergast**: 2 open (Obtain flight approvals from AFAC, Verify ground permissions for national park)
+  - **Maciej Stachura**: 1 open (Test props for operations at 5700m), 1 completed (Look at FLIR stoppage at Murray State)
+- **Completion Rate**: 33% (1 of 4 tracked deliverables completed)
 
-**Note**: Asana task count differs between Nov 22, 2023 raw data snapshot and current state. Current Asana shows all major deliverables closed or awaiting Fall 2026 confirmation. One open task (Maciej Stachura: overheating investigation, due July 17, 2026) from earlier snapshot now likely resolved or superseded by completed FLIR thermal testing (July 6, 2026).
+**Note**: All 3 open tasks carry August 3, 2026 due dates — these are **STALE per team corrections**. Team has indicated deployment moved to Fall 2026 with no active flight planning or mission prep underway.
 
 ## Recent Activity
 
@@ -76,4 +78,3 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - **Batteries shipped to Mexico** (May 2026) as permanent import with fees paid
   - **No ECCN** obtained for battery; shipped under permanent import status
   - **Customs broker Javi** managing import process; final classification confirmation pending Maciej's direction
-  - **Pending Maciej's decisions**: Email archival

@@ -1,7 +1,7 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 35,822.7 hours (2020-2026, through Aug 2)
+- **Total hours tracked:** 35,822.7 hours (2020-2026, through Aug 3)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
@@ -28,14 +28,15 @@
 18. **Kareem Ahmed:** 16.4 hours (0.05%)
 19. **Remaining 10 team members:** ~4,310.6 hours combined
 
-### Recent Activity Status (Aug 2 EOD)
-- **No new time entries recorded for Aug 2**
+### Recent Activity Status (Aug 3 EOD)
+- **No new time entries recorded for Aug 2-3 (weekend period)**
 - **Last confirmed activity:** Aug 1-2 period (42.5 hours across 6 team members)
-- **Current status:** Team offline or time entry lag; monitor for weekend backlog entry on Aug 5
+- **Current status:** Team offline; weekend/holiday gap as anticipated
+- **Monitor for:** Backlog entry on next business day (Aug 5)
 
 ## Project Portfolio
 
-### Top Projects by Hours (Cumulative through Aug 2)
+### Top Projects by Hours (Cumulative through Aug 3)
 1. **Project None (Unallocated):** 8,856.0 hours (24.74%)
 2. **Project 183171534:** 4,535.8 hours (12.67%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (9.20%)
@@ -57,7 +58,7 @@
 19. **[550-1] Navy SBIR: Magnetometer:** 18.9 hours (0.53%)
 20. **[043-3] ByLight M2/Halo:** 35.2 hours (0.10%)
 
-### Client Distribution (Cumulative through Aug 2)
+### Client Distribution (Cumulative through Aug 3)
 - **IRAD (Internal R&D):** ~6,995 hours (19.5%)
 - **Government/Sponsored (NOAA, NASA, Air Force, Navy):** ~9,947 hours (27.8%)
 - **Corporate/Overhead/Operations:** ~2,790 hours (7.8%)
@@ -94,6 +95,7 @@
 - **Overhead/unallocated:** ~11,646 hours (32.5%)
 - **Observation:** Significant internal R&D commitment; unallocated time suggests potential misclassification of work or administrative overhead not tracked to formal projects
 
-### Weekend/Holiday Data Gap
-- **Aug 2 (Friday) EOD:** No new time entries
-- **Expected:** Backlog entry or offline period for team; monitor Aug 5 for weekend catch-up
+### Weekend/Holiday Gap Confirmed
+- **Aug 2-3 (Sat-Sun) EOD:** No new time entries recorded, as expected
+- **Status:** Team offline for weekend
+- **Next data point:** Monitor Aug 5 (Monday) for backlog entry or resume of normal activity
