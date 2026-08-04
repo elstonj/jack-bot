@@ -5,7 +5,7 @@
 The #commercial-sales channel is Black Swift Technologies' hub for customer orders, project delivery, and sales execution. It tracks aircraft systems (E2, S2, S3, S0, S0-VTOL), payload integrations, customer relationships, and the complete lifecycle from quotes through delivery and support. The channel shows active engagement with university research programs, government agencies (NASA, NOAA), and international customers, with discussion spanning technical specifications, shipping logistics, quality control, troubleshooting, and payload data processing.
 
 **Key Participants:**
-- Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling)
+- Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling, remote technical support authorization)
 - Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment)
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation)
@@ -15,7 +15,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, Halo project folder management, Murphy's Pond PO coordination, LMUK/Raven SOW drafting, RFI documentation)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
 - Stefan (Atmofacts - external partner, methane algorithm tuning)
@@ -32,9 +32,9 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - LMUK/Raven (international customer, SOW in development, July 16, 2026)
 - Bylight (prospective customer/partner, multiple RFI opportunities, meeting scheduled July 31, 2026)
 - Ethan & Spencer (team members attending Murphy's Pond field campaign, Aug 4-6)
-- Joey (team member, S2-related technical inquiry, July 29, 2026)
+- Joey (NOAA team member, NightFox payload integration support needed, Aug 3, 2026)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: July 31, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: August 3, 2026.
 
 ---
 
@@ -95,4 +95,3 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Jack Elston decision: Advise against addition due to component obsolescence from third parties and significant engineering burden
 - Recommendation: Politely decline unless customer insists; if they do insist, may cannibalize parts from existing BST setup but flagged as "huge headache"
 - Reasoning: Iridium capability is a legacy/one-off feature reviving obsolete components; not worth production effort
-- **CONFIRMED (May 5, 2026):**

@@ -5,7 +5,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem
 Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through July 31, 2026 (ongoing project)
+Time range: Early development through August 3, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -97,5 +97,5 @@ Time range: Early development through July 31, 2026 (ongoing project)
   - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
   - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
 
-**FET Control Circuit Issues - Motor Shutdown Root Cause (July 31, 2026):**
+**Battery Protection Circuit Issues - Root Cause Identified & Fixed (August 3, 2026):**
 - Sam

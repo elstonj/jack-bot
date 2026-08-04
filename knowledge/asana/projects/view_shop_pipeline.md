@@ -7,8 +7,8 @@
 - **Status**: Active — project serves as ongoing inventory and manufacturing pipeline tracker
 - **Team members involved**: Dan Prendergast, Nate Straus, Jack Elston, Alex Lomis, Beck Cotter, Josh Fromm, Maciej Stachura
 - **Risk signals**: 
-  - **CRITICAL (RESOLVED)**: CU IRISS S2 return and operator training completed May 13, 2026 — aircraft returned and training flight scheduled, enabling Brian Argrow's NSF MUSAS website certification
-  - **Previously noted critical**: INSTAAR/CU operator training (S3, 2 units) with Aug 11-13 training dates — status not updated in current data
+  - **NEW OPEN TASK**: "2026 Hurricane" (unassigned, no due date) — requires assignment and scheduling
+  - **INSTAAR/CU operator training** (S3, 2 units) — status not updated; previously HIGH URGENCY with Aug 11-13 training dates
 
 ## Key Deliverables & Milestones
 - **CU IRISS**: S2 return and operator training flight scheduling (**COMPLETED May 13, 2026**) — aircraft returned to CU and training flight completed, enabling NSF MUSAS certification
@@ -26,18 +26,17 @@
 - **ACM UAS Summit Demo**: E2 "STRIKE-PAD" demonstration (completed Aug 2025)
 
 ## Task Summary
-- **Total tasks**: 0 open, 1 completed (100% completion rate in current view)
-- **Jack Elston**: Boulder Rescue UAS training/demo (assigned, completed March 3, 2026)
+- **Total tasks**: 1 open, 0 completed (0% completion rate in current view)
+- **Unassigned**: "2026 Hurricane" (no due date, no assignee)
 - **Heavy use of custom fields for tracking**: platforms (S0, S2, S3, E2, S0 VTOL, S0 AD, Aeropods), training/travel requirements and dates, urgency levels, order quantities, manufacturing stages, project references, customer contacts, next steps (sales)
 
 ## Recent Activity
+- **NEW OPEN TASK**: "2026 Hurricane" (unassigned, no due date) — needs assignment and context clarification
 - **COMPLETED (March 3, 2026)**: Boulder Rescue UAS Training/demo (assigned to Jack Elston)
   - S0 platform demonstrated; S2 platform also involved
   - Training event inviting local agencies to witness BST flight
   - Permission from OSMP rangers required for S2 and S0 demonstrations in Boulder area
   - Contact: Hunter Ray (hunterray@boulderrescue.org), last contact Nov 11, 2025
-  - Training/travel dates considered: Feb 16, 17, or 18
-  - Next steps: No action needed
 
 ## Notes & Context
 - Project functions as master tracking system for aircraft inventory and manufacturing pipeline
@@ -53,3 +52,4 @@
 - Demonstration activities for various events and summits (ACM UAS Summit with STRIKE-PAD platform demo)
 - **NSF MUSAS website certification process**: Now unlocked following successful CU IRISS S2 return and training flight completion (May 13, 2026)
 - **Regulatory requirement**: OSMP (Open Space and Mountain Parks) ranger permission required for S2/S0 demonstrations in Boulder area
+- **ACTION NEEDED**: "2026 Hurricane" task requires assignment, due date setting, and context clarification — appears to be new opportunity or customer project

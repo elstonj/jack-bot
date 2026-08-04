@@ -32,13 +32,13 @@
 - **Spare parts and packing list** | Josh Fromm | Asana due: October 1, 2026 | **STALE**
 
 ## Task Summary
-- **Total Tasks**: 3 open, 1 completed
-- **Tasks by Assignee**:
-  - **Dan Prendergast**: 2 open (Obtain flight approvals from AFAC, Verify ground permissions for national park)
-  - **Maciej Stachura**: 1 open (Test props for operations at 5700m), 1 completed (Look at FLIR stoppage at Murray State)
-- **Completion Rate**: 33% (1 of 4 tracked deliverables completed)
+- **Total Tasks**: 3 open, 1 completed (as of Nov 22, 2023 reporting snapshot; recent activity shows 1 completed July 2026)
+- **Current Open Tasks**:
+  - **Maciej Stachura**: 1 open (Test props for operations at 5700m, due 2026-08-03 — **STALE**)
+  - **Dan Prendergast**: 2 open (Obtain flight approvals from AFAC, Verify ground permissions for national park, both due 2026-08-03 — **STALE**)
+- **Completion Rate**: ~25% (1 of 4 tracked core deliverables completed)
 
-**Note**: All 3 open tasks carry August 3, 2026 due dates — these are **STALE per team corrections**. Team has indicated deployment moved to Fall 2026 with no active flight planning or mission prep underway.
+**Note**: All 3 current open tasks carry August 3, 2026 due dates — these are **STALE per team corrections**. Team has indicated deployment moved to Fall 2026 with no active flight planning or mission prep underway.
 
 ## Recent Activity
 
@@ -50,9 +50,6 @@
 
 **Current customs status**: Batteries shipped to Mexico (May 2026) as permanent import with fees paid. No ECCN obtained. Customs broker Javi managing process; final classification confirmation pending Maciej's direction.
 
-### January 22, 2026
-✅ **COMPLETED**: "Package and Ship S2 Equipment" (Dan Prendergast) — one day after original due date of January 21, 2026.
-
 ### July 6, 2026
 ✅ **COMPLETED**: "Look at FLIR stoppage at Murray State" (Maciej Stachura) — 28 days ahead of original Asana due date. Related thermal testing now complete.
 
@@ -62,7 +59,10 @@
 ### April 17, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Maciej Stachura**: Mexico is moved to the Fall, so **no flight planning happening soon.**
 
-### Current Status
+### January 22, 2026
+✅ **COMPLETED**: "Package and Ship S2 Equipment" (Dan Prendergast) — one day after original due date of January 21, 2026.
+
+### Current Status (as of May 28, 2026)
 Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** All spring/summer 2026 milestone due dates are stale; one S2 equipment shipment (January 2026) completed on schedule.
 
 ## Notes & Context
@@ -75,6 +75,4 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   
 - **Hardware & Logistics Status**: 
   - **S2 Equipment shipped** January 2026 (completed January 22)
-  - **Batteries shipped to Mexico** (May 2026) as permanent import with fees paid
-  - **No ECCN** obtained for battery; shipped under permanent import status
-  - **Customs broker Javi** managing import process; final classification confirmation pending Maciej's direction
+  - **Batteries shipped to Mexico**

@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, and Todd.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, and Ethan Domagala.
 
 ## Key Decisions
 
@@ -19,6 +19,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Selected MLX90614ESF-DCH thermal sensor per Terry's recommendation (December 2021)
 - Direct soldering battery/ESC to AP due to space constraints (November 2021)
 - Dual USB-A ports on front panel instead of USB-C for GCS (May 2022)
+- Motor controller switched to Vertiq propulsion system (serial numbers approximately 37-42 onward in 2024 batch; earlier units used different system) (August 2026)
 
 **Manufacturing & Components:**
 - 50/50 cost split between Air Force and Hurricane for KMac tubes (June 2020)
@@ -81,7 +82,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
 - Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
 
-**Inventory Management (April 23, 2026):**
-- SASCWATCH has one S0 left over from previous season; decision made not to allow NOAA to use it (April 23, 2026)
-
-##
+**Inventory
