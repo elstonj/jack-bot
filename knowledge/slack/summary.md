@@ -1,72 +1,61 @@
 # Slack Channels Overview
 
-Last scanned: 2026-08-01 02:14
+Last scanned: 2026-08-04 02:15
 
-Total channels scanned: 8
+Total channels scanned: 7
 
 ## Channels
 
-- **#25_1-navy-sttr-boundary-layer** -- 3 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#commercial-sales** -- 11 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 14 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
-- **#operations** -- 16 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 7 messages -- [s0-vtol.md](s0-vtol.md)
-- **#sbir-hurricane** -- 7 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#commercial-sales** -- 2 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 10 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 14 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s0-vtol** -- 15 messages -- [s0-vtol.md](s0-vtol.md)
+- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Active Projects & Programs
+## Core Project Ecosystem
 
-**Government/Research Contracts:**
-- **SBIR Hurricane (S0 UAS)**: Primary focus across #sbir-hurricane; hurricane reconnaissance platform in active development/testing (2020-2026)
-- **Navy STTR Boundary Layer**: Atmospheric sensing capabilities for hazardous weather, tropical cyclones, high wind environments
-- **S0 VTOL**: Vertical takeoff/landing aircraft in active flight testing and customer delivery preparation
+**Primary Vehicle Platforms:**
+- **S0 UAS**: Unmanned aircraft system serving as foundation for multiple specialized variants
+- **S0 VTOL**: Vertical takeoff/landing derivative with extended operational flexibility
+- **Legacy platforms**: E2, S2, S3 systems maintained for existing customers
 
-**Commercial/Sales Pipeline:**
-- Multiple aircraft systems in production/delivery (E2, S2, S3, S0, S0-VTOL)
-- University research program partnerships and government agency customers (NASA, NOAA)
-- International customer engagement
-
-**Grant/Funding Strategy:**
-- Ongoing pursuit across federal agencies (NASA, DOD, NOAA, USDA, DOE)
-- Centralized proposal management and award tracking
-
-## Key Leadership & Decision Patterns
-
-**Core Leadership:**
-- **Jack Elston**: Primary decision-maker, proposal reviewer, strategy/leadership across all channels
-- **Maciej**: Technical lead, proposal support, field operations
-- **Joshua Fromm**: Hardware/shop operations, technical discussions
-- **Dan Prendergast**: Business development/operations
-
-**Emerging Contributors:**
-- Beck Cotter, Alex Lomis, Sam Hild (technical/flight operations)
-- Meredith Needham (finance, admin, Navy contact liaison)
-- Parker Vollmer (marketing)
-
-**Decision Pattern**: Top-down leadership from Jack Elston with distributed technical execution; funding/strategic decisions routed through #grants-and-funding
+**Active Government Programs:**
+- SBIR Hurricane (2020-2026): Hurricane reconnaissance with atmospheric sensing
+- Navy SBIR Magnetometer (FY25): Magnetic anomaly detection integration
+- Navy STTR Boundary Layer (FY25): Tropical cyclone atmospheric measurements
 
 ## Cross-Channel Themes
 
-1. **S0 Platform Centrality**: S0 UAS serves as backbone for SBIR Hurricane, Navy STTR boundary layer work, and commercial sales—technical progress ripples across channels
-2. **Government Contracting Focus**: Heavy emphasis on SBIR/STTR funding; proposal pipeline directly impacts project timelines
-3. **Hardware-to-Delivery Pipeline**: Operations channel tracks manufacturing/logistics; commercial-sales manages customer relationships; technical channels (VTOL, Hurricane) drive product development
-4. **Atmospheric/Weather Specialization**: Both government contracts focus on harsh-weather sensing; commercial interest in research applications (universities, agencies)
-5. **Funding Drives Priorities**: Grant decisions in #grants-and-funding directly influence project resource allocation visible in operations and technical channels
+### 1. **Platform-Agnostic Technical Development**
+S0 variants serve multiple mission profiles (hurricane ops, boundary layer science, magnetometer payload). Development decisions in #s0-vtol cascade to mission-specific channels. Recurring participants (Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm) coordinate across platforms.
+
+### 2. **Government Funding as Growth Engine**
+#grants-and-funding drives strategic direction with Jack Elston as primary decision-maker. Navy SBIR/STTR programs (FY25) and ongoing SBIR Hurricane program show sustained federal investment focus. Proposals inform platform capabilities and payload integration roadmaps.
+
+### 3. **Payload Integration Pattern**
+Multiple channels reflect same workflow: integrate specialized sensors (magnetometers, boundary layer instruments) onto S0 platforms. Suggests modular architecture and repeatable integration methodology.
+
+### 4. **Dual-Track Operations**
+- **Government/Research**: SBIR/STTR programs, university partnerships, atmospheric science missions
+- **Commercial**: Direct sales of aircraft systems with varying payload configurations
+
+### 5. **Key Decision Makers**
+- **Jack Elston**: Strategic direction, proposal approvals, leadership
+- **Maciej**: Technical execution, field operations, proposal support
+- **Beck Cotter**: Project management across Navy programs and hardware development
 
 ## Recurring Topics
+- Flight testing and hardware debugging across platforms
+- Budget tracking and proposal deadlines
+- Payload integration and customer delivery schedules
+- Mission planning for atmospheric/hurricane operations
+- International and domestic customer coordination
 
-- Flight testing results and technical debugging
-- Customer delivery timelines and logistics
-- Hardware procurement and inventory management
-- Proposal deadlines and funding opportunity identification
-- Marketing/communications for research validation and sales support
-
-## Information Flow Gaps
-
-- Limited cross-channel visibility in commercial-sales channel regarding government contract technical progress that impacts product roadmap
-- Marketing strategy disconnected from active research outcomes from SBIR/Navy channels that could accelerate sales messaging
+## Organizational Pattern
+Distributed leadership by function (Jack: strategy/funding, Maciej: technical/ops, Dan Prendergast: business development) with project-specific leads managing individual initiatives. High cross-channel participation suggests matrix organization with shared personnel.

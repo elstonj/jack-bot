@@ -1,64 +1,64 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## CRITICAL NOTE: DATA ORGANIZATION ISSUE
 
-| Project Code | Client | Total Budget | Contract Type | Period | Status |
-|---|---|---|---|---|---|
-| **043-1** | ByLight Professional IT Services LLC | **$45,941.20** | Task Order / SOW | June 2025 – Dec 2025 | Active |
+The provided budget data appears incomplete and improperly structured. The document references 1,181 budget documents across multiple projects but provides only a partial fragment of ONE project (NASA AREN MiniCam). The summary indicates:
 
----
-
-## By Funding Source
-
-**ByLight Professional IT Services LLC**
-- Project 043-1: $45,941.20
-- **Subtotal: $45,941.20**
-
-**Total Funded: $45,941.20**
+- **No unified project codes detected** across the portfolio
+- **Documents are scattered** across funding sources without clear project assignment
+- **The data extraction is incomplete** (table format cuts off mid-way)
 
 ---
 
-## By Contract Type
+## Available Data Summary
 
-**Task Order / Statement of Work (SOW)**
-- Project 043-1 (ByLight): $45,941.20
-- **Subtotal: $45,941.20**
+### Partially Documented Projects
 
-**Total by Contract Type: $45,941.20**
+#### NASA — AREN (Aeropods Commercial) [Code: 200]
+**Project:** MiniCam Project  
+**Client:** NASA  
+**Budget Status:** Preliminary cost analysis (February 2026)  
+**Contract Type:** Commercial product development  
+**Document Status:** Drive-only (BST MiniCam Preliminary Cost.xlsx, modified 2026-03-04)  
+**Known Data Gaps:** Unit cost breakdown incomplete; full budget figure not provided  
 
 ---
 
-## Budget Detail — Project 043-1
+## By Funding Source (From Summary)
+The document references funding across:
+- NASA
+- NOAA
+- DoD
+- Other federal agencies
 
-### Budget Composition
-- **Labor (91.3%):** $41,998.80
-  - Jack Elston (PI), Principal Engineer: 60 hrs @ $349.99/hr = $20,999.40
-  - Maciej Stachura, Engineer V (Principal): 60 hrs @ $349.99/hr = $20,999.40
-  - Tech/Mid-Level Staff (Technician): Rate $67.31/hr — hours not specified in budget breakdown
-- **Travel & Other Direct Costs (8.7%):** $10,000.00 (lump sum)
+**Detailed breakdown by agency:** NOT YET PROVIDED
 
-### Key Identifiers
-- **PO Number:** J20255214
-- **Funding Agency:** ByLight Professional IT Services LLC
-- **Period of Performance:** June 2025 to December 2025 (7 months)
+---
+
+## By Contract Type (From Summary)
+Referenced but not detailed:
+- SBIR Phase I/II (implied in portfolio description)
+- IRAD
+- Commercial (MiniCam confirmed)
 
 ---
 
 ## Financial Health Indicators
 
-- **No spend or remaining data available** in current documentation
-- **Future Milestone:** Project period begins June 2025 (not yet active)
-- **Budget Status:** No concerns noted; balanced labor/ODC allocation
+**Unable to assess** due to incomplete data:
+- Total portfolio budget unknown
+- Spend vs. remaining figures not provided
+- Budget concerns not flagged
+- Upcoming milestones not specified
 
 ---
 
-## QuickBooks Integration Notes
+## Recommendation
 
-- **Project 043-1:** Drive-only documentation; no QuickBooks cross-reference provided
-- Recommend reconciling invoicing against task order upon project launch (June 2025)
-
----
-
-## Summary
-
-Currently, BST has **one active project** with committed budget of **$45,941.20** from ByLight Professional IT Services LLC under a task order arrangement. The budget is heavily weighted toward senior engineering labor (two Principal-level engineers at ~$350/hr each, 60 hours each). No spend data or budget concerns are evident at this time.
+**Request complete budget data export including:**
+1. Master project list with codes and client assignments
+2. Total budgets per project with contract values
+3. Current spend and remaining balances
+4. QuickBooks project code mappings
+5. Milestone and invoice schedules
+6. Any projects with budget alerts or concerns

@@ -1,35 +1,35 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 105.6 hours
+- **Total hours tracked:** 113.3 hours
 - **Primary projects (top 5):**
-  1. [300-3] 2026 IDIQ (Hurricane) — 61.7 hours
-  2. [001-08] Flight Testing — 14.2 hours
+  1. [300-3] 2026 IDIQ (Hurricane) — 62.5 hours
+  2. [001-08] Flight Testing — 18.6 hours
   3. Flight Checklists — 14.1 hours
   4. [043-3] ByLight M2/Halo — 9.2 hours
-  5. [001-04] S0 VTOL IRAD — 3.1 hours
-- **Time period covered:** Multiple tracking batches (latest batch: 6.7 hours)
+  5. [001-04] S0 VTOL IRAD — 5.6 hours
+- **Time period covered:** Multiple tracking batches (latest batch: 7.7 hours)
 
 ## Project Breakdown
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
-  - Hours: 61.7
-  - Percentage: 58.4%
+  - Hours: 62.5
+  - Percentage: 55.2%
 
 - **[001-08] Flight Testing** (Client: Internal)
-  - Hours: 14.2
-  - Percentage: 13.4%
+  - Hours: 18.6
+  - Percentage: 16.4%
 
 - **Flight Checklists** (Client: Internal/Operations)
   - Hours: 14.1
-  - Percentage: 13.4%
+  - Percentage: 12.4%
 
 - **[043-3] ByLight M2/Halo** (Client: ByLight)
   - Hours: 9.2
-  - Percentage: 8.7%
+  - Percentage: 8.1%
 
 - **[001-04] S0 VTOL IRAD** (Client: IRAD)
-  - Hours: 3.1
-  - Percentage: 2.9%
+  - Hours: 5.6
+  - Percentage: 4.9%
 
 - **[001-22] Fleet Maintenance** (Client: Internal/Operations)
   - Hours: 1.1
@@ -37,61 +37,63 @@
 
 - **[001-13] General Operations** (Client: Overhead)
   - Hours: 1.3
-  - Percentage: 1.2%
+  - Percentage: 1.1%
 
 - **Project None** (Unallocated)
   - Hours: 0.9
-  - Percentage: 0.9%
+  - Percentage: 0.8%
 
 ## Recent Activity
-- **Latest batch (6.7 hours):** Mixed allocation pattern—departure from previous batch's single-project focus
-  - 3.6 hours (53.7%) → [300-3] 2026 IDIQ (Hurricane) [2 entries: 2.4h + 1.2h, both undocumented]
-  - 3.1 hours (46.3%) → [001-04] S0 VTOL IRAD [2 entries: 3.0h + 0.0h, both undocumented]
-  - 0.0 hours → Project None [1 entry, unallocated]
+- **Current batch (7.7 hours):** Rebalancing shift—Flight Testing returns to active focus
+  - 4.4 hours (57.1%) → [001-08] Flight Testing [1 entry, undocumented]
+  - 2.5 hours (32.5%) → [001-04] S0 VTOL IRAD [1 entry, undocumented]
+  - 0.8 hours (10.4%) → [300-3] 2026 IDIQ (Hurricane) [1 entry, undocumented]
 
-- **Work pattern shift:** Introduction of new project focus (S0 VTOL IRAD) representing 46% of current batch
-  - Flight operations cycle remains absent (no Flight Testing or Flight Checklists activity in current or previous batch)
-  - Suggests capacity reallocation away from NOAA deliverables OR concurrent multi-project phase
+- **Significant pattern change:** Flight Testing returns to priority after two-batch absence
+  - Cumulative Flight Testing: now 18.6 hours (16.4% of total)
+  - IRAD activity continues but reduced from previous batch peak (2.5h vs. 3.1h)
+  - Hurricane IDIQ allocation drops to 10.4% of batch (lowest proportion in recent activity)
 
 ## Patterns
-- **Hurricane IDIQ allocation stabilization:** Maintained ~58% allocation across last two batches (6.3h → 6.7h batches)
-  - Cumulative 12 hours in two-batch window; no further collapse observed
-  - However: **allocation appears sustainable only if supporting other project work** (current batch shows 46% diversion to IRAD)
-  - Risk: NOAA deliverable timeline vs. internal IRAD capacity demands unclear
+- **Flight operations cycle resumption:**
+  - Flight Testing returns with 4.4-hour entry (57% of current batch)—first activity after two-batch gap
+  - Previous pattern of Flight Testing → Checklists → Testing cycle partially restored
+  - **Question:** Is checklist documentation phase coming next, or has workflow shifted?
 
-- **New IRAD activity emergence:**
-  - [001-04] S0 VTOL IRAD introduces significant new workload (3.1 hours in single batch)
-  - First appearance in recent tracking cycle; context unknown
-  - **Competing priority assessment needed:** Is this temporary prototyping/scoping work or sustained IRAD development phase?
+- **Hurricane IDIQ stabilization at lower plateau:**
+  - Down from 53.7% (previous batch) to 10.4% (current batch)—significant reallocation
+  - Cumulative trend: 61.7h → 62.5h (only +0.8h growth over three batches)
+  - **Assessment:** Suggests NOAA deliverable phase shift (completion, waiting period, or resource reallocation)
 
-- **Flight operations cycle remains suspended:**
-  - Now two consecutive batches without Flight Testing or Flight Checklists activity
-  - Original three-batch cycle pattern (Flight Testing → Checklists → Testing) not resumed
-  - Suggests either: permanent operational pause, undocumented flight work, or resource reallocation to NOAA/IRAD
+- **S0 VTOL IRAD becoming sustained commitment:**
+  - Now 5.6 hours cumulative (4.9% of total work)
+  - Consistent allocation across batches (3.1h → 2.5h)—suggests established project phase rather than experimental pilot
+  - **Capacity impact:** IRAD + Flight Testing now competing at 49% of recent batch capacity
 
-- **Documentation crisis escalating (100% persistent):**
-  - Current batch: 5 of 5 entries completely undocumented
-  - **Cumulative undocumented rate across last three batches: 10 of 13 entries (76.9%)**
-  - All substantive work entries (2.4h, 1.2h, 3.0h) lack descriptions
-  - **Zero visibility into:** Hurricane IDIQ task specificity, IRAD project phase/deliverables, work session context
-
-- **Session consolidation continues:** Two Hurricane blocks (2.4h + 1.2h) + two IRAD blocks (3.0h + 0.0h) suggest extended multi-project work sessions or back-to-back task switching
+- **Documentation crisis persists (100% non-compliance, third consecutive batch):**
+  - **Current batch: 3 of 3 entries completely undocumented**
+  - Cumulative undocumented entries across last four batches: **13 of 16 (81.3%)**
+  - All work entries lack descriptions—zero visibility into technical context, task specificity, or deliverable alignment
+  - **Critical issue:** Flight Testing resumption completely opaque; IRAD and Hurricane IDIQ work sessions unrecorded
 
 ## Recommendations
 
-### **URGENT — Documentation Enforcement (Critical Escalation)**
-- **Trend worsening: 76.9% undocumented rate across three batches; 100% non-compliance persists in current batch**
-- **Immediate mandatory action:**
-  - Spencer must remediate current 6.7-hour batch within 24 hours with detailed descriptions:
-    - 2.4h Hurricane IDIQ: Specific task, deliverable phase, technical context
-    - 1.2h Hurricane IDIQ: Continuation or separate work item? Output/milestone status
-    - 3.0h S0 VTOL IRAD: Project phase, prototype scope, integration status, timeline context
-    - 0.0h entries: Clarify why time entries with zero duration were logged
-  - **Implement hard block on submission** for all entries ≥1.0 hour without description
-  - **Escalate to management immediately**—this opacity is now at critical compliance level (>75% non-compliant)
+### **CRITICAL — Documentation Enforcement (Escalation Required)**
+- **Non-compliance rate worsening: 81.3% undocumented across four batches; 100% failure rate persists**
+- **Mandatory immediate remediation (within 24 hours):**
+  - 4.4h Flight Testing: Specific test objectives, aircraft system focus, pilot/equipment configuration, test outcomes
+  - 2.5h S0 VTOL IRAD: Current development phase, prototype integration status, technical deliverables, timeline context
+  - 0.8h Hurricane IDIQ: Task scope, deliverable phase, why allocation reduced so sharply
+  - **Implement blocking mechanism:** No future entries ≥1.0 hour accepted without description
+- **Escalate immediately to management and compliance.** This represents systematic non-compliance across 81% of tracked time—legal/contractual risk if NOAA or IRAD clients audit timesheets.
 
-### **IRAD-NOAA Capacity Conflict (Urgent Clarification)**
-- **New pattern emerged:** S0 VTOL IRAD now consuming 46% of available capacity in current batch
-  - **Critical questions requiring immediate PM engagement:**
-    - What is priority ranking: NOAA Hurricane IDIQ vs. Internal IRAD S0 development?
-    -
+### **Portfolio Rebalancing Clarification (Urgent PM Engagement)**
+- **New anomaly:** Hurricane IDIQ (primary project, 55% cumulative) now represents only 10% of current batch
+  - **Immediate questions for PM:**
+    - Is NOAA deliverable phase complete or entering waiting period?
+    - Are Flight Testing resumption and IRAD continuation now higher priority than Hurricane IDIQ?
+    - What is expected allocation distribution going forward?
+  - **Risk flag:** If Hurricane IDIQ timeline remains critical, current 10% allocation may cause deadline risk
+
+### **Flight Testing Reactivation Context**
+- Flight Testing suddenly re-emerges at 57% of batch after two

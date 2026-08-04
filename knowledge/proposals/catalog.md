@@ -2,47 +2,42 @@
 
 ## By Product/System
 
-### S3
-- **Arctic UAS Engineering Sprint – Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 31, 2026 | SOW for S3 cold-weather configuration engineering sprint and Whitehorse test event (bst_arctic_engineering_sprint_sow_draft.md)
+### Black Swift Technologies AirDeployed S0
+- **Individual Work Plan - BST AirDeployed S0 - OCRADA 20-01-XXX** | USSOCOM | 2020 | Development of special operations peculiar technologies under CRADA agreement (individual_work_plan_-_bst_airdeployed_s0_-_ocrada_20-01-xxx.md)
 
-### Not Product-Specific
-- **RFI - Drone CLT** | United States Special Operations Command (USSOCOM) | July 17, 2026 | Sources Sought RFI for drone capabilities; no specific BST products mentioned (rfi_-_drone_cltpdf.md)
+### RAVEN UAS (Lockheed Martin/Royal Navy)
+- **Blackswift Draft SOW and Spec - 29 July 2026** | Lockheed Martin UK/Royal Navy | 26 July 2026 | Draft statement of work and procurement specification for RAVEN UAS Programme with BST as subcontractor (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ---
 
 ## By Client/Agency
 
-### Canadian Joint Forces Command (CJFC)
-- **Arctic UAS Engineering Sprint – Black Swift S3 Cold-Weather Configuration** | Via NexTech Solutions LLC | July 31, 2026 | SOW for S3 cold-weather configuration engineering sprint and Whitehorse test event (bst_arctic_engineering_sprint_sow_draft.md)
+### Lockheed Martin UK Ltd (LMUK RMS) / Royal Navy
+- **Blackswift Draft SOW and Spec - 29 July 2026** | 26 July 2026 | Draft SOW and procurement specification for RAVEN UAS Programme (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
-### United States Special Operations Command (USSOCOM)
-- **RFI - Drone CLT** | USSOCOM | July 17, 2026 | Sources Sought RFI for drone capabilities (rfi_-_drone_cltpdf.md)
+### USSOCOM (United States Special Operations Command)
+- **Individual Work Plan - BST AirDeployed S0 - OCRADA 20-01-XXX** | 2020 | IWP under CRADA for special operations technology development (individual_work_plan_-_bst_airdeployed_s0_-_ocrada_20-01-xxx.md)
 
 ---
 
 ## By Application Area
 
-### Arctic Operations
-- **Arctic UAS Engineering Sprint – Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 31, 2026 | Engineering sprint for cold-weather UAS configuration and Whitehorse testing (bst_arctic_engineering_sprint_sow_draft.md)
-
 ### Special Operations
-- **RFI - Drone CLT** | USSOCOM | July 17, 2026 | Capability assessment for drone systems in special operations contexts (rfi_-_drone_cltpdf.md)
+- **Individual Work Plan - BST AirDeployed S0 - OCRADA 20-01-XXX** | USSOCOM | 2020 | Special operations peculiar technology development (individual_work_plan_-_bst_airdeployed_s0_-_ocrada_20-01-xxx.md)
+
+### Naval/Military Operations
+- **Blackswift Draft SOW and Spec - 29 July 2026** | Lockheed Martin UK/Royal Navy | 2026 | RAVEN UAS procurement and specification (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
 ---
 
 ## By Document Type
 
-### Statement of Work (SOW)
-- **Arctic UAS Engineering Sprint – Black Swift S3 Cold-Weather Configuration** | NexTech Solutions LLC / Canadian Joint Forces Command | July 31, 2026 | Final draft with preliminary version; engineering sprint SOW (bst_arctic_engineering_sprint_sow_draft.md)
+### Statements of Work (SOW) / Procurement Specifications
+- **Blackswift Draft SOW and Spec - 29 July 2026** | Lockheed Martin UK/Royal Navy | 2026 | Draft SOW and procurement specification for RAVEN UAS (blackswift_draft_sow_and_spec_-_29_july_2026.md)
 
-### Request for Information (RFI) / Sources Sought
-- **RFI - Drone CLT** | USSOCOM | July 17, 2026 | Sources Sought RFI with August 17, 2026 response deadline (rfi_-_drone_cltpdf.md)
+### Work Plans / CRADA Documents
+- **Individual Work Plan - BST AirDeployed S0 - OCRADA 20-01-XXX** | USSOCOM | 2020 | Individual work plan under cooperative R&D agreement (individual_work_plan_-_bst_airdeployed_s0_-_ocrada_20-01-xxx.md)
 
 ---
 
-## Summary Statistics
-- **Total Documents Cataloged:** 2
-- **Products Referenced:** S3, General UAS (unspecified)
-- **Clients/Agencies:** 3 (CJFC, USSOCOM, NexTech Solutions LLC)
-- **Application Areas:** 2 (Arctic Operations, Special Operations)
-- **Document Types:** 2 (SOW, RFI/Sources Sought)
+**Note:** Only 2 documents provided. Catalog is ready to expand as additional BST proposals, reports, and technical documents are added.

@@ -4,11 +4,11 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 841.4 hours
+- Total hours tracked: 849.4 hours
 
 ## Team Allocation
-- Ben Busby: 620.6 hours (73.7%)
-- Stachura: 200.6 hours (23.8%)
+- Ben Busby: 628.6 hours (74.0%)
+- Stachura: 200.6 hours (23.6%)
 - Jack Elston: 20.2 hours (2.4%)
 
 ## Activity Timeline
@@ -38,7 +38,7 @@ Recent work shows ongoing development with focus on:
   - Firmware branch merging and integration
   - Code review and debugging activities
 - **Notable patterns**:
-  - Ben Busby carries majority of development load (73.7%)
-  - **⚠️ CRITICAL: Documentation gap persisting and worsening**: Latest 8.0h entry from Ben Busby lacks any task description. Combined with Stachura's undocumented entries, this represents a significant knowledge continuity risk. **Immediate action required** to establish task description standards for all time entries.
-  - Jack Elston increasing in activity (now 2.4%, up from 1.7%) with documented firmware integration work
+  - Ben Busby carries majority of development load (74.0%)
+  - **⚠️ CRITICAL: Documentation gap persisting and worsening**: Latest 8.0h entry from Ben Busby lacks any task description. This is a recurring pattern with no documented entries. **Immediate action required** to establish task description standards for all time entries to maintain knowledge continuity and project visibility.
+  - Jack Elston increasing in activity with documented firmware integration work
   - Work remains in active development phase with steady contributor activity
