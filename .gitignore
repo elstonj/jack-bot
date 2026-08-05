@@ -6,3 +6,4 @@ venv/
 # Local run artifacts from the cron-driven scan/digest scripts
 *.log
 scripts/*.log
+.env.bak.*
