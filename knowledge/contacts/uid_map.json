@@ -15,12 +15,18 @@
       "last": "Elston",
       "title": "CEO",
       "primary_email": "elstonj@blackswifttech.com",
-      "email_aliases": ["jack.elston@blackswifttech.com"],
+      "email_aliases": [
+        "jack.elston@blackswifttech.com"
+      ],
       "slack_user_id": "U01511MEQ90",
       "asana_user_gid": "12805370615958",
-      "toggl_user_ids": [1131025, 9847189],
+      "toggl_user_ids": [
+        1131025,
+        9847189
+      ],
       "rippling_name": "Jack Elston",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Maciej Stachura",
@@ -29,12 +35,18 @@
       "last": "Stachura",
       "title": "CTO",
       "primary_email": "maciej.stachura@blackswifttech.com",
-      "email_aliases": ["stachura@blackswifttech.com"],
+      "email_aliases": [
+        "stachura@blackswifttech.com"
+      ],
       "slack_user_id": "U014U9WMK2A",
       "asana_user_gid": "12804950273833",
-      "toggl_user_ids": [9847188, 9846838],
+      "toggl_user_ids": [
+        9847188,
+        9846838
+      ],
       "rippling_name": "Maciej Stachura",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Alex Lomis",
@@ -46,9 +58,12 @@
       "email_aliases": [],
       "slack_user_id": "U058LGYMEQ0",
       "asana_user_gid": "1204607768706937",
-      "toggl_user_ids": [9846764],
+      "toggl_user_ids": [
+        9846764
+      ],
       "rippling_name": "Alex Lomis",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Ben Busby",
@@ -60,9 +75,12 @@
       "email_aliases": [],
       "slack_user_id": "U0151201DMY",
       "asana_user_gid": "664838850096143",
-      "toggl_user_ids": [4852974],
+      "toggl_user_ids": [
+        4852974
+      ],
       "rippling_name": "Ben Busby",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Joshua Fromm",
@@ -74,9 +92,14 @@
       "email_aliases": [],
       "slack_user_id": "U014ZL9FLE9",
       "asana_user_gid": "338088218424389",
-      "toggl_user_ids": [4548909],
+      "toggl_user_ids": [
+        4548909
+      ],
       "rippling_name": "Joshua Fromm",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": [
+        "Josh Fromm"
+      ]
     },
     {
       "canonical_name": "Sam Hild",
@@ -85,12 +108,18 @@
       "last": "Hild",
       "title": "Software Engineer",
       "primary_email": "sam.hild@blackswifttech.com",
-      "email_aliases": ["sam.hild@blackswifttechnologies.com"],
+      "email_aliases": [
+        "sam.hild@blackswifttechnologies.com"
+      ],
       "slack_user_id": "U06NQAYBLRK",
       "asana_user_gid": "1206802602679078",
-      "toggl_user_ids": [10582060, 10582079],
+      "toggl_user_ids": [
+        10582060,
+        10582079
+      ],
       "rippling_name": "Sam Hild",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Nate Straus",
@@ -102,9 +131,14 @@
       "email_aliases": [],
       "slack_user_id": "U06B7GNFV0W",
       "asana_user_gid": "1206232492438833",
-      "toggl_user_ids": [10187361],
+      "toggl_user_ids": [
+        10187361
+      ],
       "rippling_name": "Nathaniel Straus",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": [
+        "Nathaniel Straus"
+      ]
     },
     {
       "canonical_name": "Meredith Needham",
@@ -116,9 +150,14 @@
       "email_aliases": [],
       "slack_user_id": "U06KRHPQSRH",
       "asana_user_gid": "1206646853646674",
-      "toggl_user_ids": [10410463],
+      "toggl_user_ids": [
+        10410463
+      ],
       "rippling_name": "Meredith Needham",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": [
+        "Meredith O'hara Needham"
+      ]
     },
     {
       "canonical_name": "Kareem Ahmed",
@@ -130,10 +169,13 @@
       "email_aliases": [],
       "slack_user_id": "U07SN02GM5K",
       "asana_user_gid": null,
-      "toggl_user_ids": [11418820],
+      "toggl_user_ids": [
+        11418820
+      ],
       "rippling_name": "Kareem Ahmed",
       "rippling_name_inferred": true,
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Paige Smith",
@@ -145,9 +187,12 @@
       "email_aliases": [],
       "slack_user_id": "U083AAM8E9Y",
       "asana_user_gid": "1208887458958663",
-      "toggl_user_ids": [11568823],
+      "toggl_user_ids": [
+        11568823
+      ],
       "rippling_name": "Paige Smith",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Ethan Domagala",
@@ -159,9 +204,12 @@
       "email_aliases": [],
       "slack_user_id": "U06CCFTNBS6",
       "asana_user_gid": "1206276365680911",
-      "toggl_user_ids": [10186372],
+      "toggl_user_ids": [
+        10186372
+      ],
       "rippling_name": "Ethan Domagala",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Beck Cotter",
@@ -173,9 +221,12 @@
       "email_aliases": [],
       "slack_user_id": "U07FN4QSNDN",
       "asana_user_gid": "1208001716965280",
-      "toggl_user_ids": [11266515],
+      "toggl_user_ids": [
+        11266515
+      ],
       "rippling_name": "Beck Cotter",
-      "quickbooks_id": null
+      "quickbooks_id": null,
+      "aliases": []
     },
     {
       "canonical_name": "Dan Prendergast",
@@ -187,8 +238,47 @@
       "email_aliases": [],
       "slack_user_id": "U04CZK4K7P0",
       "asana_user_gid": "1203468561261344",
-      "toggl_user_ids": [9846878],
+      "toggl_user_ids": [
+        9846878
+      ],
       "rippling_name": "Daniel Prendergast",
+      "quickbooks_id": null,
+      "aliases": [
+        "Daniel Prendergast"
+      ]
+    },
+    {
+      "canonical_name": "Spencer Hoehl",
+      "preferred_first": "Spencer",
+      "formal_first": "Spencer",
+      "last": "Hoehl",
+      "title": null,
+      "primary_email": "spencer.hoehl@blackswifttech.com",
+      "email_aliases": [],
+      "aliases": [],
+      "slack_user_id": "U0B8865H83V",
+      "asana_user_gid": "1215443937521005",
+      "toggl_user_ids": [
+        13231740
+      ],
+      "rippling_name": "Spencer Hoehl",
+      "quickbooks_id": null
+    },
+    {
+      "canonical_name": "Cory Dixon",
+      "preferred_first": "Cory",
+      "formal_first": "Cory",
+      "last": "Dixon",
+      "title": null,
+      "primary_email": "cory.dixon@blackswifttech.com",
+      "email_aliases": [],
+      "aliases": [],
+      "slack_user_id": "U02L91J99KM",
+      "asana_user_gid": "12804946368874",
+      "toggl_user_ids": [
+        1131026
+      ],
+      "rippling_name": "Cory Dixon",
       "quickbooks_id": null
     }
   ],

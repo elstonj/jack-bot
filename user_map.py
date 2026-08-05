@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import base64
 from pathlib import Path
 import requests
@@ -198,16 +199,20 @@ def build_user_map(slack_client):
     for email in all_emails:
         if email in excluded_emails:
             continue
-        entry = {"email": email, "name": "", "slack_user_id": None, "asana_user_gid": None, "toggl_user_id": None}
+        entry = {"email": email, "name": "", "slack_user_id": None, "asana_user_gid": None,
+                 "toggl_user_id": None, "source_names": []}
         if email in slack_users:
             entry["slack_user_id"] = slack_users[email]["slack_user_id"]
             entry["name"] = slack_users[email]["name"]
+            _add_source_name(entry, slack_users[email]["name"])
         if email in asana_users:
             entry["asana_user_gid"] = asana_users[email]["asana_user_gid"]
+            _add_source_name(entry, asana_users[email]["name"])
             if not entry["name"]:
                 entry["name"] = asana_users[email]["name"]
         if email in toggl_users:
             entry["toggl_user_id"] = toggl_users[email]["toggl_user_id"]
+            _add_source_name(entry, toggl_users[email]["name"])
             if not entry["name"]:
                 entry["name"] = toggl_users[email]["name"]
         unified[email] = entry
@@ -234,6 +239,7 @@ def build_user_map(slack_client):
                     continue
                 if _aliases_match(email, asana_email):
                     entry["asana_user_gid"] = asana_data["asana_user_gid"]
+                    _add_source_name(entry, asana_data["name"])
                     if not entry["name"]:
                         entry["name"] = asana_data["name"]
                     matched_asana.add(asana_email)
@@ -257,6 +263,7 @@ def build_user_map(slack_client):
                     continue
                 if _aliases_match(email, toggl_email):
                     entry["toggl_user_id"] = toggl_data["toggl_user_id"]
+                    _add_source_name(entry, toggl_data["name"])
                     if not entry["name"]:
                         entry["name"] = toggl_data["name"]
                     matched_toggl.add(toggl_email)
@@ -279,6 +286,7 @@ def build_user_map(slack_client):
                     continue
                 if _aliases_match(email, slack_email):
                     entry["slack_user_id"] = slack_data["slack_user_id"]
+                    _add_source_name(entry, slack_data["name"])
                     if not entry["name"]:
                         entry["name"] = slack_data["name"]
                     matched_slack.add(slack_email)
@@ -319,6 +327,8 @@ def build_user_map(slack_client):
         if sid and sid in merged:
             # Merge into existing entry
             existing = merged[sid]
+            for src_name in entry.get("source_names") or []:
+                _add_source_name(existing, src_name)
             if not existing["asana_user_gid"] and entry["asana_user_gid"]:
                 existing["asana_user_gid"] = entry["asana_user_gid"]
             if not existing["toggl_user_id"] and entry["toggl_user_id"]:
@@ -339,11 +349,18 @@ def build_user_map(slack_client):
     # resolve back to the user.
     _apply_uid_map_overrides(merged)
 
+    # Pin every entry to ONE canonical name and record every spelling the
+    # source systems use for that person.  Downstream (especially the daily
+    # briefing) must never have to guess whether "Josh Fromm", "Joshua" and
+    # "Dan Prendergast" are three people or two.
+    _apply_canonical_names(merged)
+
     # Only include users who have ALL THREE: Slack, Asana, and at least one Toggl ID
     result = [e for e in merged.values()
               if e.get("slack_user_id") and e.get("asana_user_gid")
               and (e.get("toggl_user_ids") or e.get("toggl_user_id"))]
     _user_map = result
+    _build_alias_index(result)
     return result
 
 
@@ -378,6 +395,172 @@ def _apply_uid_map_overrides(merged):
         if ids:
             # Pin to the canonical primary so downstream display is stable
             entry["toggl_user_id"] = ids[0]
+
+
+# ---------------------------------------------------------------------------
+# Canonical identity + alias resolution
+#
+# Every source system spells people differently — Slack shows display names
+# ("Ben", "Beck"), Asana shows account names ("Josh Fromm", "Dan Prendergast",
+# "Meredith O'hara Needham"), Rippling uses formal names ("Nathaniel Straus").
+# The daily briefing used to hand all of those spellings to an LLM and ask it
+# to reconcile them against opaque Slack IDs, which is how Josh Fromm ended up
+# with Jack Elston's tasks.  These helpers make the resolution deterministic.
+# ---------------------------------------------------------------------------
+
+_alias_index = {}         # normalized full-name string -> slack_user_id
+_token_index = {}         # normalized single token -> set of slack_user_ids
+_token_owner = {}         # normalized single token -> slack_user_id (unambiguous only)
+
+
+def _norm_name(text):
+    """Lowercase, strip punctuation, collapse whitespace."""
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9 ]+", " ", (text or "").lower())).strip()
+
+
+def _add_source_name(entry, name):
+    """Record a spelling of this person's name as seen in a source system."""
+    if not name:
+        return
+    names = entry.setdefault("source_names", [])
+    if name not in names:
+        names.append(name)
+
+
+def _apply_canonical_names(merged):
+    """Set `name` to the canonical full name and build each entry's alias set.
+
+    uid_map.json is the source of truth when the person is listed there.
+    Anyone missing from it keeps their live name and gets aliases derived from
+    that name plus their email local part.
+    """
+    try:
+        with UID_MAP_PATH.open() as f:
+            uid_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        uid_data = {"users": []}
+
+    by_slack = {u.get("slack_user_id"): u
+                for u in uid_data.get("users", []) if u.get("slack_user_id")}
+
+    for entry in merged.values():
+        canonical = by_slack.get(entry.get("slack_user_id")) or {}
+        aliases = set()
+
+        for src_name in entry.get("source_names") or []:
+            aliases.add(src_name)
+        if entry.get("name"):
+            aliases.add(entry["name"])
+
+        preferred = canonical.get("preferred_first") or ""
+        formal = canonical.get("formal_first") or ""
+        last = canonical.get("last") or ""
+        full_name = canonical.get("canonical_name") or entry.get("name") or ""
+
+        if full_name:
+            entry["name"] = full_name
+            aliases.add(full_name)
+        if canonical.get("rippling_name"):
+            aliases.add(canonical["rippling_name"])
+        # Explicitly pinned spellings — nicknames and source-system names that
+        # shouldn't depend on every API being reachable at map-build time.
+        for alias in canonical.get("aliases") or []:
+            aliases.add(alias)
+        for first in (preferred, formal):
+            if first and last:
+                aliases.add(f"{first} {last}")
+
+        # Email local part: "josh.fromm" -> "josh fromm". Skip smashed-together
+        # forms like "elstonj" that aren't real name spellings.
+        for email in [entry.get("email", "")] + list(canonical.get("email_aliases") or []):
+            local = _extract_alias(email)
+            if "." in local:
+                aliases.add(local.replace(".", " "))
+
+        entry["aliases"] = sorted(a for a in aliases if a)
+        # First/last tokens used for single-token ("Josh", "Elston") lookups.
+        tokens = set()
+        for part in (preferred, formal, last):
+            if part:
+                tokens.add(_norm_name(part))
+        for alias in entry["aliases"]:
+            for tok in _norm_name(alias).split():
+                tokens.add(tok)
+        entry["name_tokens"] = sorted(t for t in tokens if t)
+
+
+def _build_alias_index(users):
+    """Index every alias so an arbitrary name spelling resolves to one person."""
+    global _alias_index, _token_index, _token_owner
+    _alias_index = {}
+    _token_index = {}
+
+    for user in users:
+        sid = user.get("slack_user_id")
+        if not sid:
+            continue
+        for alias in (user.get("aliases") or [user.get("name", "")]):
+            key = _norm_name(alias)
+            if not key:
+                continue
+            # First writer wins; a collision means two people share a spelling,
+            # in which case neither should resolve from it.
+            if key in _alias_index and _alias_index[key] != sid:
+                _alias_index[key] = None
+            else:
+                _alias_index.setdefault(key, sid)
+        for tok in (user.get("name_tokens") or []):
+            _token_index.setdefault(tok, set()).add(sid)
+
+    _token_owner = {tok: next(iter(sids)) for tok, sids in _token_index.items()
+                    if len(sids) == 1}
+
+
+def resolve_person(name):
+    """Resolve any spelling of a person's name to their user-map entry.
+
+    Returns None when the name is unknown or ambiguous — callers must treat
+    that as "don't guess", never as a silent fallback to some other person.
+    """
+    key = _norm_name(name)
+    if not key:
+        return None
+
+    sid = _alias_index.get(key)
+    if sid:
+        return get_user_by_slack_id(sid)
+    if key in _alias_index:  # present but None == ambiguous spelling
+        return None
+
+    parts = key.split()
+    if len(parts) == 1:
+        sid = _token_owner.get(parts[0])
+        return get_user_by_slack_id(sid) if sid else None
+
+    # Multi-token: require first AND last token to land on the same single
+    # person ("dan prendergast", "meredith o hara needham").
+    first_ids = _token_index.get(parts[0], set())
+    last_ids = _token_index.get(parts[-1], set())
+    both = first_ids & last_ids
+    if len(both) == 1:
+        return get_user_by_slack_id(next(iter(both)))
+
+    # Fall back to a unique last-name hit, but ONLY when the given first name
+    # is a plausible variant of one this person actually uses.  Without that
+    # guard an outside contact like "Bob Smith" would resolve to Paige Smith.
+    if len(last_ids) == 1:
+        candidate = get_user_by_slack_id(next(iter(last_ids)))
+        first = parts[0]
+        for tok in (candidate.get("name_tokens") or []) if candidate else []:
+            if len(tok) >= 3 and len(first) >= 3 and (tok.startswith(first) or first.startswith(tok)):
+                return candidate
+    return None
+
+
+def canonical_name(name):
+    """Return the canonical full name for any spelling, or the input unchanged."""
+    user = resolve_person(name)
+    return user["name"] if user and user.get("name") else name
 
 
 def get_all_users():
