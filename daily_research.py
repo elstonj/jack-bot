@@ -8,7 +8,14 @@ from zoneinfo import ZoneInfo
 
 import anthropic
 
-from user_map import build_user_map, get_all_users, get_user_by_email, get_user_by_toggl_id
+from user_map import (
+    build_user_map,
+    canonical_name,
+    get_all_users,
+    get_user_by_email,
+    get_user_by_toggl_id,
+    resolve_person,
+)
 from asana_client import get_enriched_tasks, get_key_project_data, get_workspaces
 from toggl_client import get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
@@ -79,9 +86,11 @@ If a YESTERDAY'S SUMMARY is provided, note what changed — completed tasks, shi
 new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
-First, produce a team summary with header `:mega: *TEAM SUMMARY*` followed by \
-4-6 bullet points. The team summary is what gets posted to #operations and is the \
-ONLY part most of the team will read — make it count. Frame it as "what does the \
+Return your answer by calling the `submit_daily_briefing` tool. Write no prose \
+outside the tool call.
+
+`team_summary` — 4-6 bullet strings. This is what gets posted to #operations and is \
+the ONLY part most of the team will read — make it count. Frame it as "what does the \
 team need to rally around right now?":
 - Lead with anything *behind / overdue / critical* (use :rotating_light: for true blockers, \
   :warning: for at-risk). Call out who owns it and what's blocking forward motion.
@@ -95,36 +104,96 @@ team need to rally around right now?":
 - Be specific. "S3 IRAD UMES delivery 2026-05-31 — Josh+Jack on PCB run" beats \
   "S3 work continuing".
 
-The team summary contains NO per-person task lists — those go in the sections below it.
+The team summary contains NO per-person task lists — those go in `sections`.
 
-Then produce a section for EACH team member. Use their Slack mention (e.g. <@U12345>) as the \
-section header — NOT their plain name, and nothing else on that header line (no plain name \
-in parentheses after the mention). Format:
+`sections` — ONE entry per ACTIVE person in the REQUIRED PEOPLE list at the end of \
+the user message. Each entry has:
+- `person`: that person's name copied EXACTLY as written in the REQUIRED PEOPLE \
+  list. Never invent a name, never substitute a nickname or a different spelling, \
+  and never use a name that isn't on that list.
+- `priorities`: 1-3 short strings, each "[Priority] — [why this matters today] \
+  (Due: [date])".
+- `notes`: optional extra lines, e.g. ":white_check_mark: [Task] appears complete — \
+  remember to close it in Asana".
 
-*<@SLACK_ID>*
-1. [Priority] — [why this matters today] (Due: [date])
-2. [Priority] — [why this matters today] (Due: [date])
-3. [Priority] — [why this matters today] (Due: [date])
-:calendar: [meetings] · :clock1: [hours] or :warning: *No time tracked*
+IDENTITY RULES — these matter more than anything else in this prompt:
+- Exactly ONE entry per person. Never emit two entries for the same person.
+- Every entry must contain THAT PERSON'S OWN work. Never put one person's tasks \
+  under another person's name. If you are unsure whose work something is, leave it \
+  out rather than guessing.
+- Never write "already covered above", "see below", "same as X", or any other \
+  cross-reference in place of real priorities. Every person gets their own \
+  independently written priorities, even when two people share a meeting or a \
+  project — describe each person's own stake in it.
+- The source data spells people's names several ways. Treat the REQUIRED PEOPLE \
+  list as the only valid set of people, and map every name you see in the data \
+  onto it before deciding whose section something belongs in.
+- Do NOT produce entries for anyone marked OUT OF OFFICE — those are handled \
+  automatically.
 
-Rules:
+Other rules:
 - Each person gets their TOP 3 priorities synthesized from ALL sources — not just Asana
 - Priorities can come from emails, Slack threads, Drive activity, knowledge base, etc.
-- If a task looks done based on evidence, note it as complete instead of a priority
-- OOO people get just ":palm_tree: Out of office — [reason]"
-- If 0 hours tracked yesterday: :warning: *No time tracked*
+- If a task looks done based on evidence, put a `notes` line about closing it in \
+  Asana instead of listing it as a priority
 - Be terse
-- MEETINGS / TODAY'S EVENTS: the `:calendar:` line and any "today" meeting/event \
-mention (in the team summary or a person's section) must come ONLY from the \
-`=== TODAY'S CALENDAR ===` section. Each event there carries its real start \
-datetime — only list it if that date matches today's date given above. Do NOT \
-infer "today's" meetings from email subjects or Slack chatter: a meeting \
-referenced in an email/thread may have happened yesterday or be scheduled for a \
-future day. If someone has no events in TODAY'S CALENDAR, write \
-":calendar: No meetings" — never backfill from other sources.
+- Do NOT list anyone's meetings and do NOT mention how many hours anyone tracked. \
+  A calendar line and an hours line are appended to every section automatically \
+  from the raw Google Calendar and Toggl data — writing your own would duplicate \
+  or contradict them.
+- Any "today" meeting/event you mention in the TEAM SUMMARY must come ONLY from \
+  the `=== TODAY'S CALENDAR ===` section, whose events all carry real start \
+  datetimes. Do NOT infer "today's" meetings from email subjects or Slack \
+  chatter: a meeting referenced in a thread may have happened yesterday or be \
+  scheduled for a future day.
 
-YOU MUST PRODUCE A SECTION FOR EVERY SINGLE PERSON IN THE REQUIRED LIST BELOW. \
-Do not stop until every required person has a section."""
+YOU MUST PRODUCE AN ENTRY FOR EVERY SINGLE ACTIVE PERSON IN THE REQUIRED LIST. \
+Do not stop until every required person has one."""
+
+
+# Structured output contract. The model returns names from a closed list and
+# never touches Slack IDs — the code maps name -> ID and writes the header, so
+# a section can no longer be attributed to the wrong person.
+BRIEFING_TOOL = {
+    "name": "submit_daily_briefing",
+    "description": "Submit the daily team briefing: a team-level summary plus one "
+                   "entry per active team member.",
+    "input_schema": {
+        "type": "object",
+        "properties": {
+            "team_summary": {
+                "type": "array",
+                "items": {"type": "string"},
+                "description": "4-6 team-level bullet points. No per-person task lists.",
+            },
+            "sections": {
+                "type": "array",
+                "description": "Exactly one entry per ACTIVE person in the required list.",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "person": {
+                            "type": "string",
+                            "description": "Name copied EXACTLY from the REQUIRED PEOPLE list.",
+                        },
+                        "priorities": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                            "description": "1-3 priorities that belong to THIS person.",
+                        },
+                        "notes": {
+                            "type": "array",
+                            "items": {"type": "string"},
+                            "description": "Optional extra lines, e.g. close-in-Asana reminders.",
+                        },
+                    },
+                    "required": ["person", "priorities"],
+                },
+            },
+        },
+        "required": ["team_summary", "sections"],
+    },
+}
 
 
 def _collect_asana():
@@ -333,7 +402,23 @@ def _collect_slack(slack_client, users):
         return f"[Slack data unavailable: {e}]"
 
 
-def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users, key_projects=None, meeting_notes=None, operations_history=None):
+# The bot is named "Jack Bot" and the CEO is named Jack Elston. Left as-is, the
+# briefing prompt is full of lines like "per Jack" and "reminded Jack Bot",
+# which is exactly the ambiguity that put Jack's tasks under Josh's name.
+_BOT_NAME_RE = re.compile(r"\bjack\s*bot\b", re.I)
+
+
+def _scrub_bot_identity(text, bot_user_id=None):
+    """Replace references to the bot itself so "Jack" only ever means the CEO."""
+    if not text:
+        return text
+    scrubbed = _BOT_NAME_RE.sub("the assistant", text)
+    if bot_user_id:
+        scrubbed = re.sub(rf"<@{re.escape(bot_user_id)}(?:\|[^>]*)?>", "the assistant", scrubbed)
+    return scrubbed
+
+
+def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data, contacts, slack_messages, users, key_projects=None, meeting_notes=None, operations_history=None, bot_user_id=None):
     """Build the context document for Claude."""
     sections = []
 
@@ -352,10 +437,13 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             return due
         assigned.sort(key=sort_key)
         # Limit to top 10 tasks per person to keep prompt manageable
+        # Group by CANONICAL name — Asana says "Josh Fromm" / "Dan Prendergast"
+        # while the roster says "Joshua Fromm" / "Dan Prendergast". Feeding both
+        # spellings to the model invites it to treat them as different people.
         from collections import defaultdict
         per_person = defaultdict(list)
         for t in assigned:
-            name = t.get("assignee_name")
+            name = canonical_name(t.get("assignee_name"))
             if len(per_person[name]) < 10:
                 per_person[name].append(t)
 
@@ -424,7 +512,7 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
     if operations_history:
         lines = ["=== #OPERATIONS CHANNEL (recent task context) ==="]
         for msg in operations_history[-30:]:
-            lines.append(f"  - {msg}")
+            lines.append(f"  - {_scrub_bot_identity(msg, bot_user_id)}")
         sections.append("\n".join(lines))
 
     # Toggl
@@ -535,7 +623,9 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         for ch, msgs in by_channel.items():
             lines.append(f"{ch}:")
             for m in msgs[:20]:
-                lines.append(f"  - {m['user_name']}: {m['text'][:200]}")
+                speaker = canonical_name(m["user_name"])
+                text = _scrub_bot_identity(m["text"][:200], bot_user_id)
+                lines.append(f"  - {speaker}: {text}")
         sections.append("\n".join(lines))
 
     return "\n\n".join(sections)
@@ -575,28 +665,301 @@ def _split_summary(full_summary):
 
 
 def _parse_per_user(full_summary, users):
-    """Parse Claude's response into per-user sections keyed by Slack user ID."""
+    """Parse rendered briefing text into per-user sections keyed by Slack user ID.
+
+    Only used for text that didn't come straight out of `_render_section` (e.g.
+    a cached summary from an older deploy).  Duplicate headers are kept, not
+    overwritten — silently clobbering a real section with a later stub is how
+    Alex Lomis lost his priorities on 2026-08-05.
+    """
     per_user = {}
     _, parts = _split_summary(full_summary)
     for part in parts:
         # Try to find a Slack mention anywhere in the first line
         first_line = part.split("\n")[0]
         mention_match = _MENTION_RE.search(first_line)
-        if mention_match:
-            slack_id = mention_match.group(1)
-            per_user[slack_id] = part
-            continue
+        slack_id = mention_match.group(1) if mention_match else None
 
-        # Fallback: match --- @Name or ### Name
-        match = re.match(r"^(?:---\s*@|### )(.+)", first_line)
-        if match:
+        if not slack_id:
+            # Fallback: match --- @Name or ### Name
+            match = re.match(r"^(?:---\s*@|### )(.+)", first_line)
+            if not match:
+                continue
             header = match.group(1).strip()
-            for user in users:
-                if user["name"] and user["slack_user_id"]:
-                    if user["name"].lower() in header.lower():
-                        per_user[user["slack_user_id"]] = part
-                        break
+            user = resolve_person(header)
+            if not user:
+                continue
+            slack_id = user["slack_user_id"]
+
+        existing = per_user.get(slack_id)
+        if existing and not _is_stub_section(existing):
+            # Already have real content for this person; never let a later
+            # duplicate overwrite it.
+            continue
+        per_user[slack_id] = part
     return per_user
+
+
+# ---------------------------------------------------------------------------
+# Deterministic section rendering
+#
+# The model supplies priority TEXT only. Everything that identifies a person or
+# restates raw data — the Slack-mention header, the calendar line, the tracked
+# hours — is written here from the source records, so it cannot be misattributed
+# or hallucinated.
+# ---------------------------------------------------------------------------
+
+_NO_PROJECT_LABELS = {"no project", "(no project)", "without project", "unassigned", ""}
+
+
+def _fmt_event_time(value):
+    """Return HH:MM for a timed event, or "" for an all-day event."""
+    if not value or "T" not in value:
+        return ""
+    try:
+        return datetime.fromisoformat(value).strftime("%H:%M")
+    except ValueError:
+        return value[11:16]
+
+
+def _calendar_line(events):
+    """Render the `:calendar:` line straight from today's calendar records."""
+    if not events:
+        return ":calendar: No meetings"
+    parts = []
+    for ev in events[:8]:
+        summary = (ev.get("summary") or "").strip() or "(no title)"
+        start = _fmt_event_time(ev.get("start"))
+        end = _fmt_event_time(ev.get("end"))
+        parts.append(f"{summary} {start}-{end}" if start and end else summary)
+    return ":calendar: " + " · ".join(parts)
+
+
+def _hours_line(user, toggl_summary):
+    """Render the `:clock1:` line straight from the Toggl summary."""
+    if not isinstance(toggl_summary, dict):
+        return None
+
+    ids = set(user.get("toggl_user_ids") or [])
+    if user.get("toggl_user_id"):
+        ids.add(user["toggl_user_id"])
+
+    total = 0.0
+    unassigned = 0.0
+    found = False
+    for tid in ids:
+        data = toggl_summary.get(tid)
+        if not data:
+            continue
+        found = True
+        total += data.get("total_hours") or 0
+        for project, hours in (data.get("projects") or {}).items():
+            if (project or "").strip().lower() in _NO_PROJECT_LABELS:
+                unassigned += hours or 0
+
+    total = round(total, 1)
+    unassigned = round(unassigned, 1)
+    if not found or total <= 0:
+        return ":warning: *No time tracked yesterday*"
+    if unassigned >= total:
+        return f":clock1: {total}h (all unassigned — flag for project tagging)"
+    if unassigned > 0:
+        return f":clock1: {total}h ({unassigned}h unassigned)"
+    return f":clock1: {total}h"
+
+
+def _render_section(user, priorities, notes=None, calendar_line=None, hours_line=None):
+    """Render one person's section. The header ID comes from the user map."""
+    lines = [f"*<@{user['slack_user_id']}>*"]
+    for i, priority in enumerate(priorities[:3], 1):
+        text = (priority or "").strip()
+        if text:
+            lines.append(f"{i}. {text}")
+    for note in notes or []:
+        text = (note or "").strip()
+        if text:
+            lines.append(text)
+    if calendar_line:
+        lines.append(calendar_line)
+    if hours_line:
+        lines.append(hours_line)
+    return "\n".join(lines)
+
+
+def _render_ooo_section(user, reason):
+    return f"*<@{user['slack_user_id']}>*\n:palm_tree: Out of office — {reason}"
+
+
+def _render_team_summary(bullets):
+    lines = [":mega: *TEAM SUMMARY*"]
+    for bullet in bullets or []:
+        text = (bullet or "").strip()
+        if not text:
+            continue
+        lines.append(text if text.startswith(("-", "•", ":")) else f"- {text}")
+    if len(lines) == 1:
+        lines.append(":warning: Jack Bot couldn't generate a team summary this run.")
+    return "\n".join(lines)
+
+
+# ---------------------------------------------------------------------------
+# Validation
+# ---------------------------------------------------------------------------
+
+_CROSS_REF_RE = re.compile(
+    r"already covered|see (?:above|below|\w+'s section)|same as |mention key|"
+    r"covered (?:above|below)|no (?:tasks|priorities|updates) (?:for|this)",
+    re.I,
+)
+
+
+def _is_stub_section(text):
+    """True if a rendered section has a header but no real priority content."""
+    body = [ln.strip() for ln in (text or "").splitlines()[1:] if ln.strip()]
+    if not body:
+        return True
+    if any(ln.startswith(":palm_tree:") for ln in body):
+        return False  # OOO sections are legitimately short
+    return not any(re.match(r"^\d+\.\s*\S", ln) for ln in body)
+
+
+def _is_stub_priorities(priorities):
+    """True if the model returned a placeholder instead of real priorities."""
+    joined = " ".join(p.strip() for p in priorities if p and p.strip()).strip()
+    if len(joined) < 25:
+        return True
+    return bool(_CROSS_REF_RE.search(joined)) and len(joined) < 200
+
+
+def _content_signature(priorities):
+    return re.sub(r"[^a-z0-9 ]+", " ", " ".join(priorities).lower())
+
+
+def _find_copied_sections(accepted):
+    """Detect one person's priorities being duplicated under another person.
+
+    `accepted` is an ordered {name: {"priorities": [...]}} mapping. Returns
+    [(name_to_drop, name_it_duplicates, ratio)] for near-identical bodies —
+    the signature of a mis-assignment (2026-08-05: Jack Elston's whole section
+    was emitted a second time under Joshua Fromm's name).
+    """
+    import difflib
+
+    names = list(accepted.keys())
+    signatures = {n: _content_signature(accepted[n]["priorities"]) for n in names}
+    copies = []
+    for i, first in enumerate(names):
+        for second in names[i + 1:]:
+            if not signatures[first] or not signatures[second]:
+                continue
+            ratio = difflib.SequenceMatcher(None, signatures[first], signatures[second]).ratio()
+            if ratio >= 0.9:
+                copies.append((second, first, round(ratio, 2)))
+    return copies
+
+
+def _validate_sections(raw_sections, allowed_names):
+    """Map model output onto real people, rejecting anything unsafe.
+
+    Returns (ordered {canonical_name: {"priorities", "notes"}}, [issue strings]).
+    """
+    accepted = {}
+    issues = []
+    for entry in raw_sections or []:
+        if not isinstance(entry, dict):
+            issues.append(f"non-object section entry: {entry!r:.80}")
+            continue
+        raw_name = (entry.get("person") or "").strip()
+        priorities = [p for p in (entry.get("priorities") or []) if isinstance(p, str)]
+        notes = [n for n in (entry.get("notes") or []) if isinstance(n, str)]
+
+        user = resolve_person(raw_name)
+        if not user:
+            issues.append(f"unresolvable person {raw_name!r} — section dropped")
+            continue
+        name = user["name"]
+        if name not in allowed_names:
+            issues.append(f"{raw_name!r} resolved to {name} who isn't an active member — dropped")
+            continue
+        if name in accepted:
+            issues.append(f"duplicate section for {name} — kept the first, dropped the later one")
+            continue
+        if _is_stub_priorities(priorities):
+            issues.append(f"stub/cross-reference section for {name} ({priorities!r:.80}) — dropped")
+            continue
+        accepted[name] = {"priorities": priorities, "notes": notes}
+
+    return accepted, issues
+
+
+def _assemble_sections(all_team_members, user_by_name, accepted, ooo_users,
+                       calendar_data, toggl_summary):
+    """Render every team member's section from the source records.
+
+    The Slack-mention header, the calendar line and the hours line are all
+    written here from the user map / Google Calendar / Toggl, never by the
+    model. Anyone without an accepted section gets a visible placeholder rather
+    than being silently dropped — or worse, inheriting someone else's tasks.
+
+    Returns (per_user {slack_id: text}, [section text in display order], issues).
+    """
+    per_user = {}
+    rendered = []
+    issues = []
+
+    for name in sorted(all_team_members):
+        user = user_by_name.get(name)
+        if not user:
+            issues.append(f"{name} has no Slack ID in the user map — no section posted")
+            continue
+        if name in ooo_users:
+            section = _render_ooo_section(user, ooo_users[name])
+        elif name in accepted:
+            section = _render_section(
+                user,
+                accepted[name]["priorities"],
+                notes=accepted[name].get("notes"),
+                calendar_line=_calendar_line((calendar_data or {}).get(name)),
+                hours_line=_hours_line(user, toggl_summary),
+            )
+        else:
+            issues.append(f"no usable section for {name} — placeholder posted")
+            lines = [
+                f"*<@{user['slack_user_id']}>*",
+                f":warning: Jack Bot didn't generate priorities for {name} this run — "
+                f"check Asana directly. Retry also failed.",
+                _calendar_line((calendar_data or {}).get(name)),
+            ]
+            hours = _hours_line(user, toggl_summary)
+            if hours:
+                lines.append(hours)
+            section = "\n".join(lines)
+        per_user[user["slack_user_id"]] = section
+        rendered.append(section)
+
+    return per_user, rendered, issues
+
+
+def _request_briefing(client, user_content, max_tokens=10000):
+    """Ask Claude for the briefing as a forced tool call and return its input.
+
+    Forcing the tool means the model can't drift into free-form prose with
+    hand-written section headers — the shape is validated by the API before we
+    ever see it.
+    """
+    message = client.messages.create(
+        model="claude-sonnet-5",
+        thinking={"type": "disabled"},
+        max_tokens=max_tokens,
+        system=SYNTHESIS_PROMPT,
+        tools=[BRIEFING_TOOL],
+        tool_choice={"type": "tool", "name": BRIEFING_TOOL["name"]},
+        messages=[{"role": "user", "content": user_content}],
+    )
+    for block in message.content:
+        if getattr(block, "type", "") == "tool_use":
+            return block.input or {}
+    return {}
 
 
 def _load_employee_roster():
@@ -825,11 +1188,14 @@ def _load_knowledge_context(users=None):
                 name = u.get("name", "")
                 if not name:
                     continue
-                # Try a few filename patterns
-                candidates = [
-                    name.lower().replace(" ", "_") + ".md",
-                    name.split()[0].lower() + ".md" if " " in name else None,
-                ]
+                # Try a few filename patterns, including every known spelling of
+                # the name — the canonical name is "Joshua Fromm" but the scanner
+                # wrote josh_fromm.md.
+                candidates = []
+                for spelling in [name] + list(u.get("aliases") or []):
+                    candidates.append(spelling.lower().replace(" ", "_") + ".md")
+                    if " " in spelling:
+                        candidates.append(spelling.split()[0].lower() + ".md")
                 for cand in candidates:
                     if cand and (person_dir / cand).exists():
                         text = _read_file(person_dir / cand, max_chars=1500)
@@ -1096,15 +1462,18 @@ def run_daily_pipeline(slack_client):
         except Exception:
             pass
 
+    bot_user_id = None
+    try:
+        bot_user_id = slack_client.auth_test().get("user_id")
+    except Exception:
+        pass
+
     context = _assemble_context(
         asana_tasks, toggl_summary, drive_activity, gmail_data, calendar_data,
         contacts, slack_messages, users,
         key_projects=key_projects, meeting_notes=meeting_notes,
-        operations_history=operations_history,
+        operations_history=operations_history, bot_user_id=bot_user_id,
     )
-
-    # Build set of known user names (from user map)
-    known_names = {u["name"].lower(): u for u in users if u["name"]}
 
     # Load canonical employee roster for sanity check
     employee_roster = _load_employee_roster()
@@ -1139,17 +1508,16 @@ def run_daily_pipeline(slack_client):
             except Exception:
                 pass
 
-    mention_map = ""
-    active_list = ""
-    ooo_list = ""
-    for user in users:
-        if user["slack_user_id"] and user["name"]:
-            mention_map += f"  {user['name']} = <@{user['slack_user_id']}>\n"
-    for name in sorted(all_team_members):
-        if name in ooo_users:
-            ooo_list += f"  - {name} (OOO: {ooo_users[name]})\n"
-        else:
-            active_list += f"  - {name}\n"
+    # The model never sees Slack IDs — it works in canonical names only, and the
+    # code maps name -> ID when rendering. That removes the ID-copying step that
+    # used to silently attach one person's tasks to another person's mention.
+    active_names = [n for n in sorted(all_team_members) if n not in ooo_users]
+    ooo_names = [n for n in sorted(all_team_members) if n in ooo_users]
+    active_list = "".join(f"  - {n}\n" for n in active_names)
+    ooo_list = "".join(f"  - {n} (OOO: {ooo_users[n]})\n" for n in ooo_names)
+    user_by_name = {
+        u["name"]: u for u in users if u.get("name") and u.get("slack_user_id")
+    }
 
     # Combine: status overrides (top, authoritative) + distilled knowledge +
     # Slack knowledge channel + live data
@@ -1170,118 +1538,109 @@ def run_daily_pipeline(slack_client):
         )
         full_context = f"{override_block}\n{full_context}"
 
-    total_sections = len(all_team_members)
+    total_sections = len(active_names)
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
-    message = client.messages.create(
-        model="claude-sonnet-5",
-        thinking={"type": "disabled"},
-        max_tokens=8000,
-        system=SYNTHESIS_PROMPT,
-        messages=[{
-            "role": "user",
-            "content": (
-                f"Today's date is {date.today().isoformat()}.\n\n"
-                f"Slack mention mapping:\n{mention_map}\n\n"
-                f"{full_context}\n\n"
-                f"===== IMPORTANT =====\n"
-                f"You MUST produce a section for ALL {total_sections} of these people:\n\n"
-                f"ACTIVE team members (produce prioritized tasks for each):\n{active_list}\n"
-                + (f"OUT OF OFFICE today (just note they are out, no tasks):\n{ooo_list}\n" if ooo_list else "")
-                + f"That means {total_sections} sections total. Do not stop until all are done."
-            ),
-        }],
+    base_prompt = (
+        f"Today's date is {date.today().isoformat()}.\n\n"
+        f"{full_context}\n\n"
+        f"===== REQUIRED PEOPLE =====\n"
+        f"Use these names EXACTLY — they are the only valid values for `person`.\n\n"
+        f"ACTIVE team members ({total_sections} entries required, one each):\n{active_list}\n"
+        + (f"OUT OF OFFICE today (do NOT produce entries for these people):\n{ooo_list}\n"
+           if ooo_list else "")
     )
-    full_summary = message.content[0].text
 
-    # Team summary = everything before the first per-user section; the sections
-    # themselves are threaded under it, so they must not leak into the main post.
-    team_summary_text, _ = _split_summary(full_summary)
-    per_user = _parse_per_user(full_summary, users)
+    issues = []
+    try:
+        briefing = _request_briefing(client, base_prompt, max_tokens=10000)
+    except Exception as e:
+        briefing = {}
+        errors.append(f"Briefing synthesis failed: {e}")
+        issues.append(f"synthesis call failed: {e}")
 
-    # Missing-section guard: every mapped team member must have a section.
-    # Claude occasionally drops someone from the output even when listed in the
-    # prompt (seen 2026-04-23: Joshua Fromm omitted, his tasks folded into Jack's).
-    # Retry once for the specific people missing, and fall back to a visible
-    # placeholder so no one is silently dropped downstream.
-    name_to_slack = {
-        u["name"]: u["slack_user_id"]
-        for u in users if u.get("name") and u.get("slack_user_id")
-    }
-    expected_slack_ids = {
-        sid for name, sid in name_to_slack.items() if name in all_team_members
-    }
-    missing_ids = expected_slack_ids - set(per_user.keys())
-    if missing_ids:
-        missing_names = [n for n, sid in name_to_slack.items() if sid in missing_ids]
+    accepted, section_issues = _validate_sections(
+        briefing.get("sections"), set(active_names)
+    )
+    issues.extend(section_issues)
+
+    # Cross-contamination guard: near-identical bodies under two names mean one
+    # person's work got copied onto someone else. Drop the copy and regenerate it.
+    for copied_name, source_name, ratio in _find_copied_sections(accepted):
+        issues.append(
+            f"{copied_name}'s priorities were {int(ratio * 100)}% identical to "
+            f"{source_name}'s — dropped as a mis-assignment, will retry"
+        )
+        accepted.pop(copied_name, None)
+
+    # Missing-person guard: every ACTIVE member must have their own real section.
+    # This checks content, not just that a key exists — the old ID-keyed version
+    # passed on 2026-08-05 while Joshua Fromm's slot held Jack Elston's tasks.
+    missing_names = [n for n in active_names if n not in accepted]
+    if missing_names:
+        issues.append(f"missing after first pass: {sorted(missing_names)} — retrying")
+        retry_list = "".join(f"  - {n}\n" for n in missing_names)
+        try:
+            retry_briefing = _request_briefing(
+                client,
+                f"Today's date is {date.today().isoformat()}.\n\n"
+                f"{full_context}\n\n"
+                f"===== RETRY — MISSING PEOPLE =====\n"
+                f"Your previous response did not produce a usable entry for the people "
+                f"below. Produce entries for ONLY these people, using their names "
+                f"EXACTLY as written. Each entry must contain that person's OWN "
+                f"priorities — do not copy another person's work and do not "
+                f"cross-reference another section. Return an empty `team_summary`.\n\n"
+                f"{retry_list}",
+                max_tokens=3000,
+            )
+            retry_accepted, retry_issues = _validate_sections(
+                retry_briefing.get("sections"), set(missing_names)
+            )
+            issues.extend(f"retry: {msg}" for msg in retry_issues)
+            accepted.update(retry_accepted)
+            # The retry can copy someone else's work too. If it did, drop it and
+            # let the placeholder show — a visible gap beats a wrong assignment.
+            for copied_name, source_name, ratio in _find_copied_sections(accepted):
+                issues.append(
+                    f"retry: {copied_name}'s priorities were {int(ratio * 100)}% "
+                    f"identical to {source_name}'s — dropped, no section will be posted"
+                )
+                accepted.pop(copied_name, None)
+        except Exception as e:
+            issues.append(f"retry call failed: {e}")
+
+    per_user, rendered, render_issues = _assemble_sections(
+        all_team_members, user_by_name, accepted, ooo_users,
+        calendar_data, toggl_summary,
+    )
+    issues.extend(render_issues)
+
+    team_summary_text = _render_team_summary(briefing.get("team_summary"))
+    full_summary = "\n\n".join([team_summary_text] + rendered)
+
+    if issues:
         try:
             store_entry(slack_client, "DEBUG",
-                f"Missing sections after first pass: {sorted(missing_names)} — retrying")
+                        "Briefing validation issues:\n" + "\n".join(f"  - {i}" for i in issues))
         except Exception:
             pass
-
-        retry_active = [n for n in missing_names if n not in ooo_users]
-        retry_ooo = [n for n in missing_names if n in ooo_users]
-        retry_list_active = "".join(f"  - {n}\n" for n in retry_active)
-        retry_list_ooo = "".join(f"  - {n} (OOO: {ooo_users[n]})\n" for n in retry_ooo)
-
-        try:
-            retry_message = client.messages.create(
-                model="claude-sonnet-5",
-                thinking={"type": "disabled"},
-                max_tokens=3000,
-                system=SYNTHESIS_PROMPT,
-                messages=[{
-                    "role": "user",
-                    "content": (
-                        f"Today's date is {date.today().isoformat()}.\n\n"
-                        f"Slack mention mapping:\n{mention_map}\n\n"
-                        f"{full_context}\n\n"
-                        f"===== RETRY — MISSING SECTIONS =====\n"
-                        f"Your previous response omitted sections for the following people. "
-                        f"Produce ONLY those sections now, in the same format as the original "
-                        f"prompt (Slack-mention header, three prioritized lines, :calendar: / "
-                        f":clock1: footer). Do NOT repeat the team summary or any other "
-                        f"person's section.\n\n"
-                        + (f"ACTIVE (produce prioritized tasks):\n{retry_list_active}\n" if retry_active else "")
-                        + (f"OUT OF OFFICE (palm-tree line only):\n{retry_list_ooo}\n" if retry_ooo else "")
-                    ),
-                }],
-            )
-            retry_text = retry_message.content[0].text
-            retry_per_user = _parse_per_user(retry_text, users)
-            for sid, section in retry_per_user.items():
-                if sid in missing_ids and sid not in per_user:
-                    per_user[sid] = section
-                    full_summary += f"\n\n{section}"
-        except Exception as e:
-            try:
-                store_entry(slack_client, "DEBUG", f"Missing-section retry failed: {e}")
-            except Exception:
-                pass
-
-        # Anyone still missing gets a visible placeholder so they aren't silently dropped
-        still_missing = expected_slack_ids - set(per_user.keys())
-        for sid in still_missing:
-            name = next((n for n, s in name_to_slack.items() if s == sid), "")
-            if name in ooo_users:
-                placeholder = f"*<@{sid}>*\n:palm_tree: Out of office — {ooo_users[name]}"
-            else:
-                placeholder = (
-                    f"*<@{sid}>*\n"
-                    f":warning: Jack Bot didn't generate priorities for {name} this run — "
-                    f"check Asana directly. Retry also failed."
-                )
-            per_user[sid] = placeholder
-            full_summary += f"\n\n{placeholder}"
 
     set_cache(full_summary, per_user, team_summary_text)
 
     # Debug: log what was parsed
     try:
-        parse_debug = [f"Parsed {len(per_user)} user sections from summary"]
-        for sid, section in per_user.items():
-            first_line = section.split("\n")[0][:80]
-            parse_debug.append(f"  {sid}: {first_line}")
+        # Log name -> ID -> first priority so a mis-assignment is visible at a
+        # glance in the knowledge channel rather than only in #operations.
+        parse_debug = [f"Rendered {len(per_user)} user sections"]
+        for name in sorted(all_team_members):
+            user = user_by_name.get(name)
+            if not user:
+                continue
+            section = per_user.get(user["slack_user_id"], "")
+            body = [ln for ln in section.splitlines()[1:] if ln.strip()]
+            parse_debug.append(
+                f"  {name} ({user['slack_user_id']}): {body[0][:80] if body else '(empty)'}"
+            )
         parse_debug.append(f"Team summary length: {len(team_summary_text)} chars")
         store_entry(slack_client, "DEBUG", "\n".join(parse_debug))
     except Exception:

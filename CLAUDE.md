@@ -20,7 +20,15 @@ Jack Bot is meant to **replace the head of operations and project managers** at 
 - Synthesis prompt treats CORRECTION / FEEDBACK entries as absolute: if a correction says a task is done / handled externally, it's excluded from both the team summary and per-person priorities even when stale knowledge files still list it as overdue
 - `_sync_operations_feedback()` mirrors non-bot replies in #operations into `[FEEDBACK]` entries each run (dedup by Slack `ts`), so feedback persists even if the `message.channels` event isn't reaching the bot
 - Operations-channel history passed to Claude is sliced `[-30:]` (newest messages), not `[:30]`
-- Missing-section guard (after `_parse_per_user`): compares parsed slack IDs against every mapped team member; if any are missing, logs a `[DEBUG]` entry, runs a targeted Sonnet retry for just those people, and falls back to a visible `:warning:` placeholder section so no one is silently dropped downstream
+- **Identity is deterministic, not model-inferred.** Sonnet returns a forced tool call (`BRIEFING_TOOL` / `submit_daily_briefing`) containing `{team_summary: [...], sections: [{person, priorities, notes}]}`. `person` is a **canonical name** from a closed list — the model never sees or writes Slack IDs. `_assemble_sections()` maps name → Slack ID via `user_map` and writes the `*<@ID>*` header itself. This replaced the old free-form output where Claude hand-copied 11-char Slack IDs into headers and `_parse_per_user` trusted them blindly — the root cause of the 2026-08-05 failure where Jack Elston's whole section was emitted a second time under Joshua Fromm's mention (and of the same bug on 2026-04-23)
+- **Calendar and hours lines are rendered in code**, never by the model — `_calendar_line()` from `TODAY'S CALENDAR` records and `_hours_line()` from the Toggl summary (summing all of a user's toggl IDs). The prompt explicitly forbids the model from listing meetings or hours. This kills the hallucinated-meeting class outright and makes a duplicated section impossible to disguise
+- **Three-layer validation** before anything is posted:
+  1. `_validate_sections()` — resolves each `person` through `user_map.resolve_person()` (unknown/ambiguous → dropped, never guessed), rejects duplicates **keeping the first** (a later stub can no longer clobber a real section — that's how Alex Lomis lost his priorities), and rejects stub/cross-reference bodies (`_is_stub_priorities`: "already covered above", "see below", <25 chars)
+  2. `_find_copied_sections()` — flags two people whose priority bodies are ≥90% identical (difflib) as a mis-assignment and drops the copy for regeneration. This is the check the old ID-keyed guard structurally could not perform
+  3. Missing-person guard — checks *content*, not key presence: `[n for n in active_names if n not in accepted]`. Runs one targeted structured retry for just those people, re-runs the contamination check on the merged result, then falls back to a visible `:warning:` placeholder. A visible gap always beats a wrong assignment
+- All validation issues are logged as one `[DEBUG]` entry; a second `[DEBUG]` lists `name (slack_id): first priority` per person so a mis-assignment is visible at a glance in the knowledge channel
+- `_scrub_bot_identity()` rewrites "Jack Bot" and the bot's own `<@Uxxx>` mention to "the assistant" in the ops history and Slack messages fed to synthesis, so "Jack" in the prompt only ever means Jack Elston
+- Offline regression coverage: `python test_identity.py` (no credentials needed) replays the 2026-08-05 failure through the validators and asserts the rendering/assembly contract
 - **Posting shape** — `scheduler.py::post_team_summary(client, channel)` is the single post path (used by both the 8am job and `/refresh-tasks`). The team summary is the only message in #operations' main view; each person's top-3 section is a *separate threaded reply* beneath it (ordered by display name via `user_map`), with the DM footer as the last reply — same umbrella-thread pattern as the purchasing summary and commercial-sales digest. Sections are still cached, so DM `tasks` is unchanged; a failed individual post is swallowed so one bad section can't sink the rest of the thread
 
 ### Knowledge Layer (`knowledge/`, `scanners/`, `scan.py`)
@@ -143,6 +151,9 @@ The knowledge channel is the persistent store for everything that needs to survi
 
 ## User Identity
 - `user_map.py` builds unified user directory matching across Slack, Asana, and Toggl
+- **Canonical names + alias resolution.** `uid_map.json` is the source of truth: `_apply_canonical_names()` pins every entry's `name` to its `canonical_name` and collects an `aliases` / `name_tokens` set from every spelling the source systems use (Slack display names "Ben"/"Beck", Asana account names "Josh Fromm"/"Dan Prendergast"/"Meredith O'hara Needham", Rippling formal names "Nathaniel Straus", email local parts). People not yet in `uid_map.json` (e.g. Spencer Hoehl, Cory Dixon) keep their live name and get aliases derived from it
+- `resolve_person(name)` maps any spelling → the one user entry; `canonical_name(name)` returns the canonical string. Resolution order: exact alias → unique single token → first+last token match → unique last name **guarded by first-name plausibility**. A spelling claimed by two people resolves to `None`. It refuses to guess by design: "Jack Bot" and outside contacts like "Bob Smith" (vs Paige Smith) return `None` rather than binding to an employee
+- The daily pipeline canonicalizes Asana assignee names and Slack speaker names before they reach the prompt, so the model never sees three spellings of one person
 - Requires all 3 IDs for inclusion; supports manual overrides via `USER_MAP_OVERRIDES` env var
 - Fuzzy matching by email alias and last name; first-name guard prevents false merges
 - Hard-coded exclusions for non-employees (tiffany.elston, todd.elston, jameel.barkat)
@@ -174,6 +185,7 @@ See `.env.example` for required variables. Key ones:
 - Knowledge files deploy with the code via git
 
 ## Local Testing
+- `python test_identity.py` — offline regression suite for briefing identity handling; needs no credentials. Covers name resolution across every source-system spelling, the 2026-08-05 mis-assignment replay through `_validate_sections` / `_find_copied_sections`, deterministic section rendering (header, calendar, hours), and full team assembly
 - `python test_pipeline.py` — runs the full daily pipeline end-to-end with live Asana/Toggl/Google/Slack reads, but intercepts every Slack write (no posts to #operations, no knowledge-channel entries). Prints the team summary and per-user sections to stdout
 - `--verbose` echoes the suppressed writes so you can see what *would* have been posted (DEBUG, FEEDBACK, etc.)
 - `--full` appends Claude's raw pre-parse output
@@ -181,7 +193,7 @@ See `.env.example` for required variables. Key ones:
 - `python test_commercial_sales_inquiry.py` — exercises `is_inquiry_intent`, `is_update_intent`, the no-match / matched-field / empty-field inquiry branches, and the multi-target update propose flow against live JSONs with intercepted Slack writes. `--verbose` dumps the captured posts (KNOWLEDGE_GAP, FEEDBACK)
 
 ## Models Used
-- Daily synthesis: `claude-sonnet-5` (8000 max tokens, thinking disabled)
+- Daily synthesis: `claude-sonnet-5` (10000 max tokens, thinking disabled, forced tool call via `tool_choice={"type":"tool","name":"submit_daily_briefing"}` for structured output; 3000-token targeted retry for missing people)
 - Knowledge distillation: `claude-haiku-4-5-20251001` (cost-efficient for bulk processing)
 - Q&A: `claude-sonnet-5` (with Haiku for search planning)
 - Financial formatting: `claude-haiku-4-5-20251001` (converts markdown to Slack format)
