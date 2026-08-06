@@ -328,6 +328,58 @@ def test_full_assembly():
     check("all sections split back out", len(section_parts), len(all_team))
 
 
+def test_briefing_coercion():
+    print("\ntool-payload coercion")
+    import daily_research as dr
+
+    good = {"team_summary": ["a"], "sections": [{"person": "Jack Elston", "priorities": ["x"]}]}
+    check("well-formed payload passes through",
+          dr._coerce_briefing(good), good)
+
+    # The 2026-08-05 production failure: Sonnet stopped cleanly (stop_reason
+    # "tool_use") but JSON-encoded the ENTIRE briefing into the `sections`
+    # string field. The content was intact; the parser threw it away.
+    stringified = {"sections": json.dumps({
+        "team_summary": [":rotating_light: NOAA motor supply risk — Vertiq slipped to mid-August"],
+        "sections": [
+            {"person": "Jack Elston", "priorities": ["Close out AFAC permits"]},
+            {"person": "Ben Busby", "priorities": ["SwiftCore 3.3 release"]},
+        ],
+    })}
+    got = dr._coerce_briefing(stringified)
+    check("whole-briefing-as-string is unwrapped",
+          [s["person"] for s in got["sections"]], ["Jack Elston", "Ben Busby"])
+    check("team_summary recovered from the same blob",
+          got["team_summary"][0].startswith(":rotating_light: NOAA"), True)
+
+    # Only the array field stringified, rather than the whole object.
+    check("stringified array field is parsed",
+          dr._coerce_briefing({"team_summary": '["one","two"]', "sections": []})["team_summary"],
+          ["one", "two"])
+    # Whole payload arrived as a string.
+    check("whole payload as a string is parsed",
+          dr._coerce_briefing(json.dumps(good))["sections"][0]["person"], "Jack Elston")
+    # Trailing prose after the JSON (the tolerant-parse case used elsewhere).
+    check("trailing prose tolerated",
+          dr._coerce_briefing({"sections": '[{"person":"Jack Elston","priorities":["x"]}] hope this helps'})
+          ["sections"][0]["person"], "Jack Elston")
+
+    # Truncated tool call: empty input must not explode or invent content.
+    check("empty payload yields nothing", dr._coerce_briefing({}), {})
+    # Uncoercible content becomes an empty list, never a bare string — iterating
+    # a string is what produced the character-by-character failure.
+    check("garbage payload yields an empty list, not a string",
+          dr._coerce_briefing({"sections": "not json"})["sections"], [])
+    check("garbage payload produces no phantom sections",
+          dr._validate_sections(dr._coerce_briefing({"sections": "not json"})["sections"], {"Jack Elston"}),
+          ({}, []))
+
+    # End-to-end: the recovered payload validates and renders.
+    accepted, issues = dr._validate_sections(got["sections"], {"Jack Elston", "Ben Busby"})
+    check("recovered sections validate cleanly", sorted(accepted), ["Ben Busby", "Jack Elston"])
+    check("no validation issues on recovered payload", issues, [])
+
+
 def test_bot_identity_scrub():
     print("\nbot identity scrub")
     import daily_research as dr
@@ -349,6 +401,7 @@ if __name__ == "__main__":
     test_rendering()
     test_stub_detection_on_rendered_text()
     test_full_assembly()
+    test_briefing_coercion()
     test_bot_identity_scrub()
 
     print()
