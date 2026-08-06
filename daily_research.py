@@ -87,7 +87,9 @@ new items. Briefly mention key changes in the team summary.
 
 OUTPUT FORMAT:
 Return your answer by calling the `submit_daily_briefing` tool. Write no prose \
-outside the tool call.
+outside the tool call. Fill the tool's fields with real structured values — \
+`team_summary` and `sections` are arrays, not strings. Never JSON-encode the \
+briefing into a single field.
 
 `team_summary` — 4-6 bullet strings. This is what gets posted to #operations and is \
 the ONLY part most of the team will read — make it count. Frame it as "what does the \
@@ -826,7 +828,10 @@ def _is_stub_section(text):
 def _is_stub_priorities(priorities):
     """True if the model returned a placeholder instead of real priorities."""
     joined = " ".join(p.strip() for p in priorities if p and p.strip()).strip()
-    if len(joined) < 25:
+    # Keep the hard floor low — real priorities are sometimes genuinely terse
+    # ("SwiftCore 3.3 release" is 21 chars). Cross-reference phrasing, not
+    # length, is what identifies a placeholder.
+    if len(joined) < 12:
         return True
     return bool(_CROSS_REF_RE.search(joined)) and len(joined) < 200
 
@@ -890,6 +895,82 @@ def _validate_sections(raw_sections, allowed_names):
         accepted[name] = {"priorities": priorities, "notes": notes}
 
     return accepted, issues
+
+
+def _loads_tolerant(text):
+    """Parse JSON, falling back to the first balanced {...} / [...] block."""
+    if not isinstance(text, str):
+        return None
+    try:
+        return json.loads(text)
+    except (ValueError, TypeError):
+        pass
+    # Try whichever bracket opens first — an array with trailing prose must not
+    # be mis-parsed as the first object nested inside it.
+    candidates = [(text.find(o), o, c) for o, c in (("{", "}"), ("[", "]"))]
+    for start, opener, closer in sorted(c for c in candidates if c[0] != -1):
+        depth = 0
+        in_str = False
+        escape = False
+        for i, ch in enumerate(text[start:], start):
+            if escape:
+                escape = False
+                continue
+            if ch == "\\":
+                escape = True
+                continue
+            if ch == '"':
+                in_str = not in_str
+                continue
+            if in_str:
+                continue
+            if ch == opener:
+                depth += 1
+            elif ch == closer:
+                depth -= 1
+                if depth == 0:
+                    try:
+                        return json.loads(text[start:i + 1])
+                    except (ValueError, TypeError):
+                        break
+    return None
+
+
+def _coerce_briefing(raw):
+    """Normalize the tool payload to {"team_summary": [...], "sections": [...]}.
+
+    Sonnet sometimes JSON-encodes the whole briefing into one field instead of
+    filling the schema (seen 2026-08-05 in production: the entire object came
+    back as a 6KB string under `sections`, while `stop_reason` was a clean
+    `tool_use`). The content is intact — just nested — so unwrap it rather than
+    throwing away a briefing the model actually produced.
+    """
+    if isinstance(raw, str):
+        raw = _loads_tolerant(raw)
+    if not isinstance(raw, dict):
+        return {}
+
+    out = dict(raw)
+    for key in ("sections", "team_summary"):
+        value = out.get(key)
+        if not isinstance(value, str):
+            continue
+        parsed = _loads_tolerant(value)
+        if isinstance(parsed, list):
+            out[key] = parsed
+        elif isinstance(parsed, dict):
+            # The whole briefing was stringified into this single field.
+            for inner in ("sections", "team_summary"):
+                if isinstance(parsed.get(inner), list) and not isinstance(out.get(inner), list):
+                    out[inner] = parsed[inner]
+
+    # Anything still not a list is unusable. Drop it rather than handing a bare
+    # string downstream — iterating one yields single characters, which is how
+    # the 2026-08-05 run logged 13 "non-object section entry" issues.
+    for key in ("sections", "team_summary"):
+        if key in out and not isinstance(out[key], list):
+            out[key] = []
+    return out
 
 
 def _assemble_sections(all_team_members, user_by_name, accepted, ooo_users,
@@ -956,9 +1037,16 @@ def _request_briefing(client, user_content, max_tokens=10000):
         tool_choice={"type": "tool", "name": BRIEFING_TOOL["name"]},
         messages=[{"role": "user", "content": user_content}],
     )
+    # A truncated tool call comes back with an empty `input`, so surface the
+    # cause instead of letting it look like the model returned nothing.
+    if message.stop_reason == "max_tokens":
+        raise RuntimeError(
+            f"briefing truncated at max_tokens={max_tokens} "
+            f"({message.usage.output_tokens} output tokens) — raise max_tokens"
+        )
     for block in message.content:
         if getattr(block, "type", "") == "tool_use":
-            return block.input or {}
+            return _coerce_briefing(block.input or {})
     return {}
 
 
@@ -1591,7 +1679,9 @@ def run_daily_pipeline(slack_client):
                 f"priorities — do not copy another person's work and do not "
                 f"cross-reference another section. Return an empty `team_summary`.\n\n"
                 f"{retry_list}",
-                max_tokens=3000,
+                # Sized for the worst case (every active member missing), not
+                # the typical one-or-two — a truncated retry returns nothing.
+                max_tokens=max(3000, 700 * len(missing_names)),
             )
             retry_accepted, retry_issues = _validate_sections(
                 retry_briefing.get("sections"), set(missing_names)
