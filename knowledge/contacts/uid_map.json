@@ -22,7 +22,8 @@
       "asana_user_gid": "12805370615958",
       "toggl_user_ids": [
         1131025,
-        9847189
+        9847189,
+        4891575
       ],
       "rippling_name": "Jack Elston",
       "quickbooks_id": null,
@@ -42,7 +43,8 @@
       "asana_user_gid": "12804950273833",
       "toggl_user_ids": [
         9847188,
-        9846838
+        9846838,
+        1109338
       ],
       "rippling_name": "Maciej Stachura",
       "quickbooks_id": null,
@@ -89,11 +91,14 @@
       "last": "Fromm",
       "title": "Mechanical Engineer",
       "primary_email": "josh.fromm@blackswifttech.com",
-      "email_aliases": [],
+      "email_aliases": [
+        "josh@blackswifttech.com"
+      ],
       "slack_user_id": "U014ZL9FLE9",
       "asana_user_gid": "338088218424389",
       "toggl_user_ids": [
-        4548909
+        4548909,
+        11266516
       ],
       "rippling_name": "Joshua Fromm",
       "quickbooks_id": null,

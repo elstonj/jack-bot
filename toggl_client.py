@@ -5,6 +5,10 @@ import requests
 
 TOGGL_BASE = "https://api.track.toggl.com"
 
+# Label for time logged without a project. Downstream (daily_research) treats
+# this exact label as "unassigned" — nothing else should ever carry it.
+NO_PROJECT = "No project"
+
 
 def _headers():
     token = os.environ.get("TOGGL_API_TOKEN", "")
@@ -77,6 +81,17 @@ def get_time_summary():
     users_resp.raise_for_status()
     user_email_map = {u["id"]: u.get("email", "").lower() for u in users_resp.json()}
 
+    # The v3 summary report identifies each sub-group by project ID only — it
+    # carries no `title`. Resolve IDs to names here; without this every entry
+    # falls back to the "No project" label and the whole team looks untagged.
+    project_names = {}
+    try:
+        for project in get_toggl_projects():
+            if project.get("id"):
+                project_names[project["id"]] = project.get("name") or ""
+    except requests.RequestException:
+        pass  # fall back to "Project <id>" labels — never to "No project"
+
     summary = {}
     for group in data.get("groups", []):
         user_id = group.get("id")
@@ -84,17 +99,29 @@ def get_time_summary():
             continue
 
         total_seconds = 0
-        projects = {}
+        project_seconds = {}
         for sub_group in group.get("sub_groups", []):
-            project_name = sub_group.get("title", "No project")
-            seconds = sub_group.get("seconds", 0)
+            seconds = sub_group.get("seconds") or 0
             total_seconds += seconds
-            projects[project_name] = round(seconds / 3600, 1)
+            project_id = sub_group.get("id")
+            if project_id is None:
+                # Genuinely untagged time — this is the only thing downstream
+                # code should count as unassigned.
+                project_name = NO_PROJECT
+            else:
+                project_name = (
+                    sub_group.get("title")
+                    or project_names.get(project_id)
+                    or f"Project {project_id}"
+                )
+            # Several sub-groups can share a name, so accumulate rather than
+            # overwrite — a plain assignment kept only the last one's hours.
+            project_seconds[project_name] = project_seconds.get(project_name, 0) + seconds
 
         summary[user_id] = {
             "email": user_email_map.get(user_id, ""),
             "total_hours": round(total_seconds / 3600, 1),
-            "projects": projects,
+            "projects": {n: round(s / 3600, 1) for n, s in project_seconds.items()},
         }
 
     return summary
