@@ -7,3 +7,4 @@ venv/
 *.log
 scripts/*.log
 .env.bak.*
+.venv*/

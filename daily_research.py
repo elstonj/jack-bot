@@ -17,7 +17,7 @@ from user_map import (
     resolve_person,
 )
 from asana_client import get_enriched_tasks, get_key_project_data, get_workspaces
-from toggl_client import get_time_summary
+from toggl_client import NO_PROJECT, get_time_summary
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
@@ -142,7 +142,11 @@ Other rules:
 - Do NOT list anyone's meetings and do NOT mention how many hours anyone tracked. \
   A calendar line and an hours line are appended to every section automatically \
   from the raw Google Calendar and Toggl data — writing your own would duplicate \
-  or contradict them.
+  or contradict them. Specifically: never write a ":clock1:" or ":calendar:" line, \
+  never restate the "No time tracked yesterday" roster, and never turn time \
+  tracking itself into a priority ("tag your hours", "log time to projects"). \
+  The TIME TRACKING block is context for judging what someone is ACTUALLY working \
+  on — use it to inform which priorities you pick, never to report hours back.
 - Any "today" meeting/event you mention in the TEAM SUMMARY must come ONLY from \
   the `=== TODAY'S CALENDAR ===` section, whose events all carry real start \
   datetimes. Do NOT infer "today's" meetings from email subjects or Slack \
@@ -711,7 +715,35 @@ def _parse_per_user(full_summary, users):
 # or hallucinated.
 # ---------------------------------------------------------------------------
 
-_NO_PROJECT_LABELS = {"no project", "(no project)", "without project", "unassigned", ""}
+_NO_PROJECT_LABELS = {NO_PROJECT.lower(), "(no project)", "without project", "unassigned", ""}
+
+
+# The calendar and hours lines are generated in code and appended to every
+# section. The model is told not to write its own, but it does anyway — most
+# often by echoing the "No time tracked yesterday" roster line straight out of
+# the TIME TRACKING block. Any model line that restates either generated line is
+# dropped here so a section can't carry the same fact twice (or contradict it).
+_RESTATEMENT_PREFIXES = (":clock1:", ":clock:", ":stopwatch:", ":hourglass:",
+                         ":calendar:", ":date:", ":spiral_calendar_pad:")
+_NO_TIME_RE = re.compile(r"\bno (?:time|hours)\b[^.]{0,30}\b(?:track|log)", re.I)
+_HOURS_RE = re.compile(r"\b\d+(?:\.\d+)?\s*(?:h|hr|hrs|hours)\b", re.I)
+_TRACKING_WORD_RE = re.compile(
+    r"\b(?:track(?:ed|ing)?|logg?(?:ed|ing)|unassigned|uncategori[sz]ed|untagged|toggl|"
+    r"time entr(?:y|ies)|timesheet)\b", re.I
+)
+
+
+def _restates_generated_line(text):
+    """True if a model-written line duplicates the code-generated hours/calendar line."""
+    stripped = (text or "").strip()
+    if not stripped:
+        return False
+    if stripped.startswith(_RESTATEMENT_PREFIXES):
+        return True
+    if _NO_TIME_RE.search(stripped):
+        return True
+    # e.g. "Tag yesterday's 16.0h (all uncategorized) to correct projects"
+    return bool(_HOURS_RE.search(stripped) and _TRACKING_WORD_RE.search(stripped))
 
 
 def _fmt_event_time(value):
@@ -773,13 +805,13 @@ def _hours_line(user, toggl_summary):
 def _render_section(user, priorities, notes=None, calendar_line=None, hours_line=None):
     """Render one person's section. The header ID comes from the user map."""
     lines = [f"*<@{user['slack_user_id']}>*"]
-    for i, priority in enumerate(priorities[:3], 1):
-        text = (priority or "").strip()
-        if text:
-            lines.append(f"{i}. {text}")
+    kept = [t for t in ((p or "").strip() for p in priorities or [])
+            if t and not _restates_generated_line(t)]
+    for i, text in enumerate(kept[:3], 1):
+        lines.append(f"{i}. {text}")
     for note in notes or []:
         text = (note or "").strip()
-        if text:
+        if text and not _restates_generated_line(text):
             lines.append(text)
     if calendar_line:
         lines.append(calendar_line)

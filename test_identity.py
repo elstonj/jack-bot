@@ -246,6 +246,80 @@ def test_rendering():
           "*<@U06B7GNFV0W>*\n:palm_tree: Out of office — Time Off Request")
 
 
+def test_hours_line_deduplication():
+    """The 2026-08-07 failure: every section carried the hours line twice.
+
+    The model echoed the "No time tracked yesterday" roster line straight out of
+    the TIME TRACKING block as a priority/note, and then `_render_section`
+    appended the real, code-generated hours line underneath it.
+    """
+    print("\nhours/calendar line deduplication")
+    import daily_research as dr
+
+    alex = resolve_person("Alex Lomis")
+    section = dr._render_section(
+        alex,
+        ["Navy STTR Boundary Layer array deployment — calibration orbit with Maciej",
+         ":warning: No time tracked yesterday — flag for follow-up",
+         "S0-VTOL avionics failure — support Sam Hild on FET root cause"],
+        notes=[":calendar: Friday Flyday 10:00-14:00"],
+        calendar_line=dr._calendar_line([]),
+        hours_line=dr._hours_line(alex, {}),
+    )
+    check("model's echoed hours line dropped",
+          section.count("No time tracked"), 1)
+    check("model's echoed calendar line dropped",
+          section.count(":calendar:"), 1)
+    check("real priorities survive and renumber",
+          [l for l in section.splitlines() if l[:2] in ("1.", "2.")],
+          ["1. Navy STTR Boundary Layer array deployment — calibration orbit with Maciej",
+           "2. S0-VTOL avionics failure — support Sam Hild on FET root cause"])
+
+    for text in (":clock1: 16.0h (all unassigned)",
+                 ":warning: No time tracked yesterday",
+                 ":calendar: Office · Friday Flyday 10:00-14:00",
+                 "Tag yesterday's 16.0h (all uncategorized) to correct projects"):
+        check("dropped: %s" % text[:44], dr._restates_generated_line(text), True)
+    for text in ("SwiftCore 3.3 — verify electronics repos merged before 4.0",
+                 "USPACOM FY27 proposal — due today 2026-08-07",
+                 ":white_check_mark: Postflight automation complete — close in Asana",
+                 "Ship 2 S3 units to INSTAAR — 40 hours of integration work remains"):
+        check("kept: %s" % text[:46], dr._restates_generated_line(text), False)
+
+
+def test_hours_line_project_attribution():
+    """Toggl's v3 summary report labels sub-groups by project ID, not name.
+
+    `get_time_summary` used to read a `title` key that the API never sends, so
+    every entry fell back to "No project" — which made fully-tagged time read as
+    "all unassigned — flag for project tagging" for the entire team.
+    """
+    print("\nhours line project attribution")
+    import daily_research as dr
+    from toggl_client import NO_PROJECT
+
+    ben = resolve_person("Ben Busby")
+    tid = (ben.get("toggl_user_ids") or [ben.get("toggl_user_id")])[0]
+
+    check("fully tagged time is not flagged as unassigned",
+          dr._hours_line(ben, {tid: {"total_hours": 16.0,
+                                     "projects": {"[001-14] SwiftCore 3.3": 16.0}}}),
+          ":clock1: 16.0h")
+    check("genuinely untagged time is still flagged",
+          dr._hours_line(ben, {tid: {"total_hours": 16.0,
+                                     "projects": {NO_PROJECT: 16.0}}}),
+          ":clock1: 16.0h (all unassigned — flag for project tagging)")
+    check("unresolved project id is not counted as unassigned",
+          dr._hours_line(ben, {tid: {"total_hours": 5.0,
+                                     "projects": {"Project 205245310": 5.0}}}),
+          ":clock1: 5.0h")
+    check("mixed tagged/untagged reports only the untagged share",
+          dr._hours_line(ben, {tid: {"total_hours": 8.0,
+                                     "projects": {"[001-14] SwiftCore 3.3": 6.0,
+                                                  NO_PROJECT: 2.0}}}),
+          ":clock1: 8.0h (2.0h unassigned)")
+
+
 def test_stub_detection_on_rendered_text():
     print("\nrendered-section stub detection")
     import daily_research as dr
@@ -399,6 +473,8 @@ if __name__ == "__main__":
     test_name_resolution()
     test_section_validation()
     test_rendering()
+    test_hours_line_deduplication()
+    test_hours_line_project_attribution()
     test_stub_detection_on_rendered_text()
     test_full_assembly()
     test_briefing_coercion()
