@@ -28,6 +28,7 @@ if env_path.exists():
             if key and key not in os.environ:
                 os.environ[key] = value
 
+import slack_mute  # noqa: F401  — honors JACKBOT_SLACK_MUTE; self-installs
 from slack_sdk import WebClient
 from knowledge import get_knowledge, store_entry
 

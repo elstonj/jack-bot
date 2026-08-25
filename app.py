@@ -1,6 +1,11 @@
 import os
 import re
 import threading
+
+# Must precede any Slack client use. Honors JACKBOT_SLACK_MUTE; when set, no
+# reply, post or slash-command response leaves the process. Self-installs.
+import slack_mute  # noqa: F401
+
 from dotenv import load_dotenv
 from slack_bolt import App
 from slack_bolt.adapter.flask import SlackRequestHandler

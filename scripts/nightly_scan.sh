@@ -76,6 +76,7 @@ if [ -n "$ERRORS" ]; then
     echo "Reporting errors to knowledge channel..." >> "$LOG_FILE"
     python -c "
 import os
+import slack_mute  # honors JACKBOT_SLACK_MUTE; self-installs
 from slack_sdk import WebClient
 from knowledge import store_bug
 
