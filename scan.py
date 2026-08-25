@@ -36,6 +36,10 @@ if env_path.exists():
             if key and key not in os.environ:
                 os.environ[key] = value
 
+# Honors JACKBOT_SLACK_MUTE — blocks every Slack write while leaving the reads
+# the scanners depend on untouched. Import only; the guard self-installs.
+import slack_mute  # noqa: E402,F401
+
 
 AVAILABLE_SOURCES = ["asana", "toggl", "contacts", "slack", "email", "drive", "proposals", "budgets", "quickbooks", "qbo_by_class", "purchasing", "financial", "projects", "project_state", "enrich-contacts", "costs", "commercial_sales"]
 
