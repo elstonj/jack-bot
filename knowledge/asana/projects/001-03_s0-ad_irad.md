@@ -7,24 +7,24 @@
 - **Objective:** Optimize internal research and development processes by streamlining operations and ensuring compliance with standard operating procedures
 - **Status:** Active
 - **Task Count:** 1 open, 0 completed
-- **Risk Signal:** Open task unassigned with no due date
+- **Risk Signals:** 
+  - Open task unassigned with no due date
+  - No clear deadline for wind tunnel testing collaboration
 
 ## Key Deliverables & Milestones
-- **Produce construction documents** — New Feature/Improvement, documentation focus (no due date set)
-  - Subject: docs
-  - Context: Fuselage Pivot
-  - Type: Funded Grant
+- **Work with ERAU on wind tunnel testing** — External collaboration (no due date set)
+  - Subject: test
+  - Partner: Embry-Riddle Aeronautical University (ERAU)
 
 ## Task Summary
 - **Total:** 1 open task, 0 completed
 - **By Assignee:** 
-  - Unassigned: 1 task (Produce construction documents)
+  - Unassigned: 1 task (Work with ERAU on wind tunnel testing)
 
 ## Recent Activity
-One open task exists with no due date: "Produce construction documents" (fuselage pivot design documentation). This task is currently unassigned and needs ownership clarification and deadline assignment.
+One open task exists with no due date: "Work with ERAU on wind tunnel testing." This task is currently unassigned and requires ownership assignment and deadline clarification to enable progress tracking.
 
 ## Notes & Context
 - Project focuses on IRAD (Internal Research and Development) optimization
-- The open task relates to fuselage pivot construction documents, suggesting active design or engineering work
-- Task is categorized as a "Funded Grant" project type
-- **Recommend:** Assign owner and set due date to enable progress tracking on this critical deliverable
+- Active collaboration with Embry-Riddle Aeronautical University on wind tunnel testing indicates ongoing aerodynamic validation work
+- **Recommend:** Assign owner and set due date to enable progress tracking and coordination with external partner

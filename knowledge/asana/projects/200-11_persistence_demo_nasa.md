@@ -28,10 +28,10 @@
 
 ## Task Summary
 
-**Total Tasks in Asana:** 1 open (administrative contact record), 32 completed  
-**Completion Rate:** 97%
+**Total Tasks in Asana:** 0 open, 1 completed  
+**Completion Rate:** 100% (all contracted work delivered)
 
-### Tasks by Assignee (Completed Work)
+### Notable Completed Work by Assignee
 
 | Assignee | Primary Responsibilities |
 |----------|------------------------|
@@ -42,7 +42,8 @@
 | **Ethan Domagala** | S2 payload development (Remote ID detector), flight testing |
 | **Sam Hild** | Remote ID detector hardware build |
 | **Ben Busby** | TAK (Team Awareness Kit) data downlink system |
-| **Unassigned (Group Tasks)** | Demo event, flight tests, platform setup |
+
+**Last Flight Activity:** S2 NightFOX Demo Flight at Pawnee National Grassland (PNG) — completed 8/21/25 (due 8/20/25) under CU Boulder COA with Dan Hesselius as PIC. Altitude 3000'. Data collection successful.
 
 ---
 
@@ -80,7 +81,7 @@
 - Demonstrated operational CONOPS with USFS, NASA, and USDA coordination
 
 ### Administrative Notes
-- Contract initially **not visible in PROSAMS** at submission (1/27/25); deliverables submitted directly to Matt Fladeland
+- Contract initially **not visible in PROSAMS** at submission (1/27/25); deliverables submitted directly to Matt Fladeland by Meredith O'hara Needham
 - NASA New Technology Office filings required and completed in parallel with contractual deliverables
 - DD Form 250 (Government acceptance) signatures obtained for all major deliverables
 - Final Summary Chart and SF 298 submitted per NASA SBIR Phase III requirements
@@ -90,13 +91,6 @@
 - **Maciej Stachura:** Demo execution and payload systems integration
 - **Meredith O'hara Needham:** Flawless contract administration and payment processing
 - **Dan Prendergast:** Flight operations and project closeout
-
----
-
-## Open Items
-
-**1 Administrative Contact Record (No Due Date):**
-- Matthew Fladeland contact information data entry task — maintains NASA Ames Technology Transfer Office contact details for reference. **Status:** Open (administrative; no deadline, created post-closure for archival purposes).
 
 ---
 
@@ -124,4 +118,4 @@ For implementation starting September 2026:
 
 1. **Cancel** S3 Europe wing reduction
 2. **Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left** to compensate (goal: S0-ISR demo for the UK)
-3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with Whiteh
+3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with customer timelines)

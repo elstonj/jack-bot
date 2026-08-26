@@ -21,13 +21,13 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 | Milestone 4 | Soil Integrity Algorithm Development | $200,000 | 2024-10-11 | ✓ Completed 2024-11-06 |
 | Milestone 5 | Local Field Testing | $100,000 | 2024-12-11 | ✓ Completed 2025-03-05 |
 | Milestone 6 | Soil Integrity Model Refinement | $200,000 | 2025-03-11 | ✓ Completed 2025-07-09 |
-| Milestone 7 | Testing at Tyndall AFB | $150,000 | 2025-04-11 | ✓ Completed 2025-07-09 |
+| Milestone 7 | Testing at Tyndall AFB | $150,000 | 2025-04-11 | ✓ Completed 2025-06-11 |
 | Milestone 8 | Final Report Delivery | — | 2025-07-11 | ✓ Completed 2025-07-21 |
 
 ## Task Summary
 - **Total tasks:** 85 completed, 0 open (100% completion rate)
 - **Task distribution by assignee:**
-  - **Dan Prendergast:** Primary technical development lead; handled system design, builds, testing, data collection, algorithm development, and final reporting
+  - **Dan Prendergast:** Primary technical development lead; handled system design, builds, testing, data collection, algorithm development, final reporting, and Tyndall AFB test flights
   - **Meredith O'hara Needham:** All invoicing and OMS subcontractor payments ($605,000+ in payments processed)
   - **Maciej Stachura:** Requirements analysis, data analysis and quantitative performance evaluation
   - **Nate Straus:** Autopilot software updates
@@ -41,7 +41,7 @@ Development and validation of a UAS-based L-band radiometer for mapping soil int
 - **2025-08-26:** Invoice acceptance confirmed
 - **2025-07-24:** E2 and Soil Moisture Sensor added to DIU Blue List; web interface for RevD data processing completed; sensor cover completed
 - **2025-07-21:** Final Report submitted to Air Force; Milestone 8 deliverable meeting completed
-- **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished
+- **2025-06-27 to 2025-07-09:** Tyndall AFB testing campaign completed; data validation and quantitative analysis finished (Milestone 7 completed ahead of schedule on 2025-06-11)
 - **2025-03-05:** Local field testing milestone completed (Milestone 5)
 - **2026-05-11:** Jack Elston confirms Navy STTR has priority; SBIR is mostly on schedule. This project remains archived with no active work anticipated.
 

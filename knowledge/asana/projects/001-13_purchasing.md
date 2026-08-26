@@ -2,42 +2,44 @@
 
 ## Overview
 - **Client/customer:** Internal BST purchasing system (serves all active projects)
-- **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across multiple projects
-- **Timeline:** Ongoing operational project. **8 open tasks; critical deadlines Aug 2–5, 2026.**
-- **Status:** 🟡 **OPERATIONAL — URGENT DEADLINE COMPRESSION.** Task count **decreased dramatically from 13 to 8 open tasks** (38% reduction). **Portfolio composition has shifted significantly:** [001-4] IRAD S0 VTOL now **only 3/8 tasks (38%)** — down from 85%. **New projects entered queue:** [043-3] Mustang Pt. 2, [001-1] IRAD General, [300-3] 2026 IDIQ (Hurricane) expanded. **Status distribution has improved:** Order Shipped now 3/8 (38%, up from 15%), Order Received 2/8 (25%, up from 8%), Order Placed 3/8 (38%, down from 85%).
-  - **CRITICAL CHANGE:** Prior snapshot listed 11/13 S0 VTOL tasks due Aug 2 in "Order Placed" state. **Current data shows only 3 S0 VTOL tasks remaining, all now "Order Shipped" (Amazon, Digikey, Hitec), due Aug 2.** **8 vendors from prior batch have been removed/closed (Dronetag, APC, Protolabs, Sendcutsend, Jawstec Pt1 & Pt2, Servocity, IRLock).** This suggests **massive fulfillment activity overnight — orders either arrived, were consolidated, or workflow was restructured.** **Verify closure documentation; if legitimately completed, indicates successful Aug 1–2 delivery push.**
-  - **NEW TASKS ENTERED QUEUE:** 5 new tasks added (shop supplies, Mouser ByLight, Amazon launch switch, rocketman, protospace). Requesters expanded to include Joshua Fromm, Ethan, Nate.
+- **Dollar value:** Not explicitly tracked in individual tasks; high-volume operations across 10+ active projects
+- **Timeline:** Ongoing operational project. **Critical compressed deadlines Jul 26 – Aug 27, 2026.** Immediate delivery window: Jul 26–Aug 9 (15 tasks), secondary wave: Aug 11–27 (27 tasks).
+- **Status:** 🔴 **CRITICAL OPERATIONAL CRISIS.** Task count **exploded from 8 to 45 open tasks (463% increase overnight).** This represents either:
+  - (a) **Massive data sync event** — prior snapshot captured only a filtered subset; full queue is now visible, OR
+  - (b) **Legitimate surge in purchase requests** across expanding portfolio.
+  - **URGENT:** Verify if this reflects real new demand or data reconciliation. If real, **purchasing pipeline is severely overloaded; Meredith + Nate cannot handle 45 concurrent orders with current capacity.**
+  - **Prior batch closure unresolved:** Previous snapshot flagged 8 vendors (Dronetag, APC, Protolabs, Sendcutsend, Jawstec Pt1 & Pt2, Servocity, IRLock) as removed/vanished. **NEW DATA SHOWS THESE TASKS ARE BACK IN QUEUE** — APC, Jawstec Pt1 & Pt2, Protolabs, Dronetag, IRLock, Sendcutsend, craftcloud all present as "Order Received" or "Order Shipped," assigned to Nate. **This confirms data was NOT lost; prior snapshot was incomplete or filtered. However, status values have CHANGED** — e.g., APC now "Order Shipped" (due Aug 2), Jawstec Pt1 now "Order Shipped" (due Aug 2), Jawstec Pt2 now "Order Received" (due Aug 22). **Suggests orders have progressed through pipeline since last update. No evidence of cancellation or duplicate billing yet, but reconciliation required.**
 - **Team members involved:**
-  - **Meredith O'hara Needham** (6/8 = 75%, down from 92%)
-  - **Nate Straus** (2/8 = 25%, up from 8%) — **elevated role**
-- **Requesters:** Alex (3/8 = 38%, down from 77%), Joshua Fromm (3/8 = 38%, up from 23%), Ethan (1/8 = 13%), Nate (1/8 = 13%)
+  - **Meredith O'hara Needham** (26/45 = 58%, decreased from 75% due to redistribution) — still primary bottleneck
+  - **Nate Straus** (17/45 = 38%, elevated from 25%) — **significantly expanded role; now handling half of remaining workload**
+  - **Unassigned** (2/45 = 4%) — low-priority inventory tasks ("Order Placed in Inventory" status)
+- **Requesters:** Joshua Fromm (17/45 = 38%, massive increase from 38%), Alex (7/45 = 16%, down from 38%), Ethan (4/45 = 9%), Nate (3/45 = 7%), Dan Prendergast (1), Sam (1), Spencer (1)
 - **Risk signals:**
-  - 🔴 **MEREDITH STILL CRITICAL BOTTLENECK:** 6/8 tasks (75%) assigned to Meredith — **slight improvement, but still dominant.** Nate has expanded to 2 tasks (rocketman, protospace), suggesting workload rebalancing.
-  - 🔴 **MASSIVE S0 VTOL BATCH CLOSURE — UNVERIFIED:** 8 vendors from prior "Order Placed" batch have vanished from task list. **Either:** (a) successfully received Aug 1–2 and moved to completed tracking, (b) consolidated into remaining 3 "Order Shipped" tasks, or (c) **removed without closure documentation.** **Immediate action required: audit completed task history and vendor invoices to confirm fulfillment status.** If orders were cancelled or consolidated, risk of project delay or duplicate billing.
-  - 🟠 **COMPRESSED DEADLINE WINDOW:** 3 tasks due Aug 2 (Amazon, Digikey, Hitec — all S0 VTOL, all "Order Shipped"), 5 tasks due Aug 5 (shop supplies, Mouser ByLight, Amazon launch switch, rocketman, protospace). **No buffer between delivery windows; any delay in Aug 2 shipments cascades to Aug 5 workflow.**
-  - 🟠 **NATE-ASSIGNED TASKS WITH STALE PLACEMENT DATES:** 
-    - **rocketman (#1817):** Due Aug 5, status "Order Received," but "placed" Jul 24 — **12 days old.** Order may have arrived but fulfillment confirmation (invoice, QA check) is pending.
-    - **protospace:** Due Aug 5, status "Order Received," "placed" May 18 — **over 2.5 months old.** **Extreme lag; possible legacy task or missing closure. High risk of invoice disputes or forgotten follow-up.**
-  - 🟠 **PROJECT FIELD TRUNCATION PERSISTS:** Shop supplies custom field shows "Shop S" (truncated). Mouser ByLight shows "[043-3] Mustang" (appears complete, but monitor). Ensure billing codes are fully captured in backend.
-  - 🟠 **PORTFOLIO DIVERSIFICATION — NEW RISK SURFACE:** Purchasing now spans 5+ projects (S0 VTOL, Shop Supplies, Mustang Pt. 2, IRAD General, Hurricane IDIQ). **Increased complexity; easier to miss cross-project invoice reconciliation or duplicate orders.**
+  - 🔴 **CAPACITY CRISIS:** 45 open tasks, 2 staff (Meredith 26, Nate 17). **Average 22.5 tasks per person.** Assuming 30-min processing per task (form submission, vendor contact, payment processing, receipt confirmation), **each staffer has ~11.25 hours of work.** With compressed deadlines (Jul 26–Aug 27 = 32 days), **feasible but razor-thin margin for QA, invoice disputes, or sick leave.** Any delay compounds.
+  - 🔴 **PORTFOLIO EXPLOSION:** Now spans **10+ projects:** [001-4] S0 VTOL, [451-1] INSTAAR S3, [300-3] Hurricane IDIQ, [043-3] Mustang Pt. 2, [550-1] Navy SBIR Magnetometer, [001-16] Swiftstation, [001-7] S3 IRAD, [001-3] S0, [212-2] NASA S2, [001-1] IRAD General, Shop Supplies, General Sales. **Cross-project invoice reconciliation and billing code truncation risk has multiplied.** Field truncation persists (e.g., "[043-3] Mustan," "[001-4] IRAD S0 VT," "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN").
+  - 🟠 **NATE'S "ORDER RECEIVED" BACKLOG:** 14/17 Nate-assigned tasks are "Order Received" (status), implying goods have arrived but fulfillment (QA check, invoice verification, project billing closure) is pending. Oldest: **protospace (May 18 — 70 days old), rocketman (Jul 24 — 12 days old), JawsTec for GCS (Jul 21), craftcloud (Jul 24).** **These should have been closed weeks ago.** High risk of:
+    - Forgotten invoices (vendor payment pending)
+    - Duplicate billing (item received twice, charged twice)
+    - Project cost reconciliation errors (item marked as "received" but not yet debited from project budget)
+  - 🟠 **UNASSIGNED INVENTORY TASKS:** 2 tasks flagged "Order Placed in Inventory" (Amazon Shop Supplies, Chamba Chai Kettle) and **1 task explicitly marked "CANCELLED"** (Digikey #100801135, S0 VTOL, due Oct 16). **Cancelled task is still OPEN in system.** Suggests task closure workflow is broken; cancelled orders not being marked complete/removed.
+  - 🟠 **DEADLINE CLUSTERING:** 
+    - Jul 26–29: 4 tasks (jawstec S3 IRAD, jawstec S0 parts, rockwest S3) — **ALREADY PAST DUE if today is Aug 6 or later**
+    - Aug 2–9: 11 tasks (APC, Jawstec Pt1, Amazon labels, IRLock, Dronetag, Protolabs, Sendcutsend, Mouser ByLight, McMaster Carr ByLight, Bartington)
+    - Aug 11–22: 16 tasks (Amazon Hurricane, mks S3×2, jawstec S3 SALES, home depot, pcbway, Digikey GCS, tomas liu×2, horizon hobby, protospace, rocketman)
+    - Aug 23–27: 12 tasks (3dr, GetFPV, Dronetag Mini 4G, McMaster Carr)
+  - 🟠 **MULTIPLE-PROJECT ALLOCATION GAPS:** Two tasks require multi-project breakdown but field is truncated/incomplete:
+    - **jawstec for multiple projects (#70415):** Due Aug 21, "Order Received," Nate assigned. Project field shows "M" (truncated). **Josh Fromm requested; critical missing data on which projects to bill.**
+    - **pololu for shop supplies (#1J593583):** Due Aug 13, "Order Received," Nate assigned. Project field shows "MULTIP" (truncated). **Missing project breakdown.**
+  - 🟠 **STALE PLACEMENT DATES (NATE-ASSIGNED):**
+    - protospace (May 18 — **70 days old**)
+    - rocketman (Jul 24 — 12 days old)
+    - JawsTec for GCS (Jul 21 — 16 days old)
+    - Sendcutsend S0 VTOL (Jul 31 — 6 days old, but due Aug 8)
+    - ebay for S2 NASA (Jul 31 — 6 days old, due Aug 8)
+    - craftcloud (Jul 24 — 12 days old, due Aug 8)
+  - 🟠 **MIXED TAX-EXEMPT STATUS:** 21/45 tasks are tax-exempt (YES), 24/45 are taxable (NO). **No systematic pattern by project or vendor; requires vigilance per order.** Risk of incorrect tax treatment if form is auto-processed.
 
 ## Key Deliverables & Milestones
 
-### **OPEN TASKS — CURRENT BATCH (8 TOTAL)**
-
-| Task | Vendor | Assigned | Project | Requester | Status | Due | Notes |
-|------|--------|----------|---------|-----------|--------|-----|-------|
-| **Amazon** | Amazon | Meredith | [001-4] IRAD S0 VTOL | Alex | Order Shipped | Aug 2 | S0 VTOL batch. Tax exempt. Placed Jul 31. **Delivery imminent.** |
-| **Digikey (#100742193)** | Digikey | Meredith | [001-4] IRAD S0 VTOL | Alex | Order Shipped | Aug 2 | S0 VTOL batch. Tax exempt. Placed Jul 31. **Delivery imminent.** |
-| **Hitec (5791)** | Hitec | Meredith | [001-4] IRAD S0 VTOL | Alex | Order Shipped | Aug 2 | S0 VTOL batch. Tax exempt. Placed Jul 31. **Delivery imminent.** |
-| **amazon for shop supplies** | Amazon | Meredith | Shop Supplies | Joshua Fromm | Order Placed | Aug 3 | **Truncated project field ("Shop S").** Placed Aug 3. |
-| **Mouser- ByLight Laser (#40026106)** | Mouser | Meredith | [043-3] Mustang Pt. 2 | Ethan | Order Placed | Aug 5 | New project (Mustang). Tax exempt. Placed Aug 3. |
-| **Amazon / launch switch** | Amazon | Meredith | [001-1] IRAD General | Nate | Order Placed | Aug 5 | IRAD General. Placed Aug 3. |
-| **rocketman for s0 hurricane (#1817)** | Rocketman | Nate | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Aug 5 | **Stale placement date (Jul 24 — 12 days old).** Status "Order Received" suggests arrived but fulfillment pending. Tax exempt. |
-| **protospace for s0 idiq** | Protospace | Nate | [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm | Order Received | Aug 5 | **EXTREME LAG: Placed May 18 (over 2.5 months ago).** Status "Order Received." **High risk of missing invoice or forgotten closure. Immediate investigation required.** Tax exempt. |
-
-## Task Summary
-- **Total tasks:** 8 open, 0 completed (in this query; prior snapshot shows 0 completed as well — no closed task data provided)
-- **Tasks by assignee:**
-  - **Meredith O'hara Needham:** 6/8 (75%) — amazon (shop supplies, S0 VTOL×2), Mouser ByLight, Amazon launch switch
-  - **Nate Straus:** 2/8 
+### **IMMEDIATE DEADLINE WINDOW: Jul 26 – Aug 9, 2026 (15 TASKS)**
+*(These are past-

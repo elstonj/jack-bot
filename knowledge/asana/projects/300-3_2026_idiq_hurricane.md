@@ -4,7 +4,7 @@
 - **Client/Customer:** NOAA (National Oceanic and Atmospheric Administration) — Uncrewed Systems Operations Center (UxSOC)
 - **Dollar Value:** **$1,111,000 total IDIQ**
   - Original Delivery Order #1305M226F0084: $483,000 (20 UAS + 2 ground stations)
-  - Option 2 (enacted July 2026): 34 additional S0s, new funding $628,000
+  - Option 2 (enacted August 5, 2026): 34 additional S0s, new funding $628,000
 - **Contract Details:** 
   - IDIQ #1305M226D0012
   - Delivery Order #1305M226F0084 (original)
@@ -14,12 +14,12 @@
   - **Original final delivery deadline: 2026-07-31** ✅ **PASSED — Project now in post-delivery invoicing phase**
   - **Current deliveries:**
     - 20 UAS for NOAA: Aug 2026 ✅
-    - 13 S0s (Option 2): Oct 2026
-    - 21 S0s (Option 2): Due date pending
+    - 13 S0s (Option 2): Due Oct 30, 2026
+    - 21 S0s (Option 2): Due Nov 30, 2026 (option exercised 2026-08-05)
   - **Invoicing schedule:**
-    - Original DO: Invoices 1–5 ✅ submitted; Invoice 6 ($72k) due 2026-08-21
-    - Option 2 (POF0344): Invoice 1 ($58.5k) ✅ **submitted 2026-08-03**; Invoice 2 due 2026-09-03 ($58.5k); Invoice 3 due 2026-10-05 ($117k)
-- **Status:** **✅ ORIGINAL DELIVERY ORDER COMPLETE — Post-delivery invoicing in progress.** Ground station delivery completed 2026-07-29 (17 days late). All major firmware/hardware milestones now complete. **Option 2 ($628k, 34 S0s) is active scope with Oct 2026 and pending delivery dates. Invoice 1 (POF0344) successfully submitted on deadline.**
+    - Original DO: Invoices 1–5 ✅ submitted; Invoice 6 ($72k) **due 2026-09-11**
+    - Option 2 (POF0344): Invoice 1 ($58.5k) ✅ **submitted 2026-08-03**; Invoice 2 ($58.5k) **due 2026-09-14**; Invoice 3 ($117k) due 2026-10-05
+- **Status:** **✅ ORIGINAL DELIVERY ORDER COMPLETE — Post-delivery invoicing in progress.** Ground station delivery completed 2026-07-29 (17 days late). All major firmware/hardware milestones now complete. **Option 2 ($628k, 34 S0s) is active scope with Oct 30 and Nov 30, 2026 delivery dates. Invoice 1 (POF0344) successfully submitted on deadline.**
 - **Team Members:** 
   - **Meredith O'hara Needham** (project owner, invoice submissions)
   - **Jack Elston** (firmware/software)
@@ -32,8 +32,9 @@
 - **Risk Signals:** 
   - ⚠️ **Original deadline 2026-07-31 passed; delivery completion delayed ~17–28 days on critical path items**
   - ⚠️ **Web-based controller due 2026-07-31 — STATUS UNKNOWN; confirm with Ben Busby**
-  - ⚠️ Invoice 6 deadline 2026-08-21; tied to final shipment documentation
-  - ⚠️ Option 2 adds $628k and 34 units with compressed timelines; 21 S0s delivery date still pending
+  - ⚠️ Invoice 6 deadline **2026-09-11** (revised from 08-21); tied to final shipment documentation
+  - ⚠️ Invoice 2 (POF0344) deadline **2026-09-14**
+  - ⚠️ Option 2 adds $628k and 34 units with tight back-to-back delivery windows (Oct 30 and Nov 30, 2026)
 
 ## Key Deliverables & Milestones
 
@@ -42,8 +43,8 @@
 - ✅ 2 rack-mount ground stations (delivered 2026-07-29, 17 days late)
 
 **Option 2 (POF0344) — $628,000 (34 S0s total):**
-- 13 S0s: due Oct 2026
-- 21 S0s: due date pending
+- 13 S0s: due Oct 30, 2026
+- 21 S0s: due Nov 30, 2026 (option exercised 2026-08-05)
 
 **Invoice Schedule:**
 
@@ -55,9 +56,9 @@
 | 3 of 6 | CLIN 1001 (DO F0084) | $54,000 | 2026-05-04 | ✅ Submitted (3 days early) |
 | 4 of 6 | CLIN 1001 (DO F0084) | $72,000 | 2026-06-05 | ✅ Submitted 2026-07-02 (27 days late) |
 | 5 of 6 | CLIN 1001 (DO F0084) | $72,000 | 2026-07-06 | ✅ Submitted 2026-07-02 (4 days early) |
-| **6 of 6** | **CLIN 1001 (DO F0084)** | **$72,000** | **2026-08-21** | ⏳ **OPEN — Pending final shipment docs** |
+| **6 of 6** | **CLIN 1001 (DO F0084)** | **$72,000** | **2026-09-11** | ⏳ **OPEN — Pending final shipment docs** |
 | **1 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-08-03** | ✅ **SUBMITTED 2026-08-03** |
-| **2 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-09-03** | ⏳ **OPEN** |
+| **2 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-09-14** | ⏳ **OPEN** |
 | **3 of 3** | **POF0344 (Option 2)** | **$117,000** | **2026-10-05** | ⏳ **OPEN** |
 
 **Hardware & Firmware Milestones (Original DO):**
@@ -72,12 +73,6 @@
 
 ## Task Summary
 
-**Asana Open Tasks: 0**
-- All tracked invoicing and deliverable tasks are either completed or in progress with no active open tasks in Asana.
-
-**Recent Completion:**
-- ✅ **Submit Invoice 1 of 3 CLIN 1001 POF0344 ($58,500)** (Meredith O'hara Needham) — **completed 2026-08-03 on deadline**
-
-## Recent Activity
-
-- **2026-08-03:** Invoice 1 (POF0344, $58.5k) successfully submitted on deadline by Meredith O'hara Needham. Documentation linked: https://docs.google.com/document/
+**Asana Open Tasks: 4**
+- [OPEN] Deliver 13 S0 — Unassigned — Due 2026-10-30
+- [OPEN] Deliver 21 S0 — Unassigned — Due 2026-11
