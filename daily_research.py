@@ -1559,6 +1559,19 @@ def run_daily_pipeline(slack_client):
     except Exception:
         pass
 
+    # Absence alarm for the nightly scan. This runs on Railway, which is always
+    # up, so it fires even when the laptop that owns the scan never wakes — the
+    # exact case that let the knowledge files go three weeks stale after
+    # 2026-08-04 with nothing reporting it. A scan that never runs cannot post
+    # its own failure, so something else has to notice.
+    try:
+        from scan_freshness import staleness_warning
+        warning = staleness_warning()
+        if warning:
+            store_entry(slack_client, "ERROR", warning)
+    except Exception:
+        pass
+
     # Track which data sources returned errors
     if isinstance(asana_tasks, str) and "unavailable" in asana_tasks:
         errors.append(asana_tasks)

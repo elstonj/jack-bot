@@ -103,10 +103,23 @@ def main():
     bugs = get_knowledge(client, ["BUG"])
     features = get_knowledge(client, ["FEATURE"])
 
+    # Scan-staleness alarm, prepended so it can't be lost below a long bug list.
+    # A scan that never runs posts no failure of its own, so this digest is the
+    # local place that notices (Railway's pipeline carries the same check).
+    warning = ""
+    try:
+        from scan_freshness import staleness_warning
+        warning = staleness_warning() or ""
+        if warning:
+            print(f"STALE: {warning}")
+    except Exception:
+        pass
+
     # Post digest to knowledge channel
     digest = format_digest()
-    if digest:
-        client.chat_postMessage(channel=knowledge_channel, text=digest)
+    if digest or warning:
+        body = f"{warning}\n\n{digest}".strip() if warning else digest
+        client.chat_postMessage(channel=knowledge_channel, text=body)
         print(f"Posted digest: {len(bugs)} bugs, {len(features)} features")
     else:
         print("No bugs or features to report.")
