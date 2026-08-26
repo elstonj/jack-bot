@@ -4,90 +4,83 @@
 - **Client/Customer**: Internal BST marketing initiative, with engagement for USAF (Col Penuela) and various conference/industry outreach
 - **Dollar Value**: No specific dollar amounts identified in task data
 - **Timeline**: Ongoing project with tasks spanning 2024–2026, no defined end date
-- **Status**: **ACTIVE but minimally visible.** Current export shows 0 open tasks and only 3 completed tasks (Media Kit Oct 2024, Sophia Engagement Oct 2024, S0 website page Aug 2024). Prior assessments documented 63+ completed tasks through April 2026; current export reveals only 3 completed tasks visible. This persistent data visibility gap suggests: (a) completed tasks have been systematically archived or hidden in Asana, (b) marketing work completion is tracked externally (Sheets, Notion, other tools), or (c) prior export captured tasks from a different project view. **The project is nominally active but historical task visibility remains severely degraded.**
+- **Status**: **ACTIVE.** Current export shows 8 open tasks and 1 completed task (Website Audit, Feb 2026). Open tasks include website updates, content/email initiatives, Google Ads optimization, analytics reviews, and conference participation. No overdue tasks visible, but several items lack due dates and require clarification on priority/timeline.
 - **Team Members**: Paige Smith (owner/lead), Dan Prendergast, Meredith O'hara Needham
 - **Risk Signals**: 
-  - **Completed task history collapsed from 63+ to 3**: Prior assessments documented extensive completions through April 2026 (website audit, datasheets, graphics, conferences, sales materials, government outreach, multi-drop marketing, newsletter); current export shows only 3 completed tasks from mid-2024
-  - **No open tasks or visible recurring tasks in current export**: Prior assessment noted Google Analytics monthly review (due 2026-06-25); not visible in current export
-  - **Cannot confirm deliverable status for April 2026 items**: Prior assessments claimed completions for website updates, datasheets, graphics, multi-drop marketing, and newsletter — now missing from task list; unclear if work was actually finished or remains pending
+  - **8 open, unassigned tasks with unclear ownership**: All open tasks show no assignee; unclear who is responsible for delivery
+  - **Multiple tasks lack due dates**: "Update Website datasheets," "Redesign whitepapers," "New Website," "Website upkeep," and "ISARRA Conference" have no due dates; makes prioritization and timeline planning difficult
+  - **Pending Google Ads specialist consultation** (due 2026-04-28): Unclear if specialist has been engaged or if this is a waiting item
+  - **Prior data visibility gap resolved**: Current export now shows 8 open + 1 completed task (vs. prior 0 open + 3 completed); suggests prior export may have been filtered or scoped differently. Website Audit (Feb 2026) now visible, confirming some 2026 work was completed.
+  - **Incomplete action items from prior assessment**: Soil moisture datasheet (noted as "quite out of date") and Pepperwood work integration remain unaddressed in current task list
 
 ## Key Deliverables & Milestones
-*(completion status unconfirmed due to data visibility gap)*
 
-- **Marketing Strategy & Plan**: Documented as completed February 2025 in prior assessment (not visible in current export)
-- **Social Media Plan**: Documented as completed November 2024 in prior assessment (not visible in current export)
-- **Media Kit**: **COMPLETED 2024-10-24** (originally due 2024-08-16)
-  - Canva link: https://www.canva.com/design/DAGJbkOxtvs/TYaEsITfY-Hr7SCY57VByA/edit
-  - Custom field: Admin
-- **Website Updates**: 
-  - **S0 Air-Deployed Page**: **COMPLETED 2024-08-19** (originally due 2024-05-24)
-    - Notes reference Hurricane and S0 content; contact Paige for more information
-  - Website audit, Kites website, new website design (documented as completed in 2026 in prior assessment — not visible in current export)
-- **Whitepapers & Datasheets**:
-  - **Sophia Engagement (was Michael Engagement)**: **COMPLETED 2024-10-24**
-    - Custom field: White Paper-Data Sheets
-    - Create analog for S0 air-deployed on website
-    - **Action Item**: Update soil moisture datasheet (noted as "quite out of date"; needed for BD/marketing efforts)
-    - **Action Item**: Include Pepperwood work
-  - Precision Atmospheric Datasheet Rev2 (documented as completed 2026-04-20 in prior assessment — not visible)
-- **Conference Participation & Speaking Engagements**: 
-  - AFA Warfare Symposium, Mountain West UAS Meetup, ISARRA Conference, AMS Conference (documented in prior assessment; status unclear)
-- **Sales Materials**: 
-  - Soil Moisture Marketing Materials (documented as completed Sept 2025 in prior assessment — not visible)
-  - Generic decks for applications (pending in prior assessment)
-- **Government Outreach**: 
-  - Air-deployed Capabilities Info to AFRL, INDOPACOM Overhaul Delivery Demo, EW Concepts one-pager (documented as completed in prior assessment — not visible)
-- **Content Deliverables**: 
-  - Multi-drop marketing, UFS Newsletter submission, S0 Weather Recon Graphic (documented as completed 2026-04-16 in prior assessment — not visible)
-- **Google Ads Optimization**: Status unclear (previously scheduled 2026-04-28)
-- **Google Analytics Reviews**: Documented as monthly recurring task in prior assessment (not visible in current export)
+- **Website Overhaul**:
+  - **Website Audit**: **COMPLETED 2026-02-24** (no original due date)
+    - Notes: Broken links, old information, improvements identified
+  - **New Website**: OPEN (no due date) [Website updates custom field]
+  - **Update Website datasheets**: OPEN (no due date)
+  - **Website upkeep**: OPEN (no due date)
+  - **S0 Air-Deployed Page**: Completed Aug 2024 (from prior assessment; not visible in current export)
+
+- **Content & Collateral**:
+  - **Redesign whitepapers**: OPEN (no due date)
+  - **Sophia Engagement (S0 analog)**: Completed Oct 2024 (from prior assessment; action items pending: update soil moisture datasheet, include Pepperwood work)
+  - **Convert content to email, enhance subscribers list**: OPEN (due 2026-04-21)
+
+- **Digital Marketing & Analytics**:
+  - **Google Ads Optimization**: OPEN—"revisit w google ads specialist" (due 2026-04-28)
+  - **Google Analytics Reviews**: OPEN (due 2026-06-25; monthly recurring, key takeaways and improvement tracking)
+
+- **Conference Participation**:
+  - **ISARRA (10th International Society for Atmospheric Research using Remotely Piloted Aircraft)**: OPEN (no due date)
+
+- **Media Kit**: Completed Oct 2024 (from prior assessment; Canva link: https://www.canva.com/design/DAGJbkOxtvs/TYaEsITfY-Hr7SCY57VByA/edit)
 
 ## Task Summary
-- **Open Tasks**: 0 (current export)
-- **Completed Tasks Visible**: 3
-  - Media Kit (Oct 2024) — Admin
-  - Sophia Engagement / S0 analog (Oct 2024) — White Paper-Data Sheets
-  - S0 website page (Aug 2024) — Website updates
-- **Completed in Prior Assessments**: 63+ tasks (85%+ completion rate; now reduced to 3 visible)
-- **Tasks by Assignee**:
-  - Paige Smith: Project owner; no tasks assigned to her in current export
-  - Dan Prendergast: Historical contributions documented in prior assessments (not visible in current export)
-  - Meredith O'hara Needham: Historical contributions documented in prior assessments (not visible in current export)
-  - Unassigned: All 3 visible completed tasks
-- **Notable Patterns**: 
-  - **Severe task visibility collapse**: 63+ tasks in prior assessments reduced to 3 in current export; suggests systematic archival or external tracking
-  - **All visible tasks are unassigned**: Despite clear ownership structure, completed work shows no assignee attribution
-  - **No active discretionary work visible**: Current export shows 0 open tasks; project appears inactive or entirely externally managed
-  - **Custom field usage**: Tasks tagged with project type (Admin, White Paper-Data Sheets, Website updates)
+- **Open Tasks**: 8 (all unassigned)
+  - Website-related: 4 (New Website, Update datasheets, Website upkeep, Website Audit [completed])
+  - Content: 2 (Redesign whitepapers, Convert content to email)
+  - Digital/Analytics: 2 (Google Ads specialist review, Google Analytics monthly)
+  - Conference: 1 (ISARRA)
+- **Completed Tasks**: 1 visible (Website Audit, Feb 2026)
+- **Prior Completed Tasks**: 3 visible in previous exports (Media Kit Oct 2024, Sophia Engagement Oct 2024, S0 website page Aug 2024); prior assessments documented 63+ completions through April 2026 (now mostly absent from current export)
+- **Tasks by Assignee**: All 8 open tasks and 1 completed task are **unassigned**
+- **Notable Patterns**:
+  - **Complete lack of assignee attribution**: No clarity on ownership or accountability for any open task
+  - **Vague task naming and scope**: "Website upkeep," "New Website," "Redesign whitepapers" lack specificity; unclear if these are single deliverables or ongoing initiatives
+  - **Mixed timeline clarity**: 3 tasks have 2026 due dates; 5 tasks have no due dates
+  - **No custom field usage in open tasks**: Prior completed tasks used custom fields (Admin, White Paper-Data Sheets, Website updates); open tasks do not
 
 ## Recent Activity
-- **Currently visible activity**: 3 completed tasks from mid-to-late 2024 (Media Kit, Sophia Engagement, S0 website page)
-- **No open or in-progress work**: Current export shows 0 open tasks
-- **Prior assessment activity (not visible in current export)**:
-  - Google Analytics monthly review (recurring, due 2026-06-25)
-  - Website audit completed February 2026
-  - Multi-drop marketing, newsletter, graphics, government outreach completed April 2026
-  - Conference participation, datasheets, sales materials completed through 2026
-- **Status of 2026 deliverables remains unclear**: April 2026 completions documented in prior assessment are absent from current export; cannot confirm if work was finished or remains pending
-- **Action items identified** in Sophia Engagement task (completed Oct 2024) suggest ongoing work:
-  - Update soil moisture datasheet (out of date; needed for BD/marketing)
-  - Include Pepperwood work in deliverable
+- **Recently completed**: Website Audit (2026-02-24) — identified broken links, old information, and improvement opportunities
+- **Approaching deadlines**:
+  - Convert content to email, enhance subscribers list — **DUE 2026-04-21** (14 days out if current date is early April 2026)
+  - Revisit w google ads specialist — **DUE 2026-04-28** (21 days out)
+  - Google Analytics monthly review — **DUE 2026-06-25** (recurring)
+- **No recent completed work prior to Website Audit**: Data visibility remains limited; prior assessment documented April 2026 completions (multi-drop marketing, newsletter, graphics, government outreach) not visible in current export
+- **No activity noted on unassigned tasks**: Unclear if website redesign, datasheet updates, whitepaper redesign, or ISARRA conference planning are in progress or awaiting initiation
 
 ## Notes & Context
-Project aims to create comprehensive marketing strategy for BST brand promotion and business growth with emphasis on:
 
-- **Digital Presence**: Website improvements (S0 page completed Aug 2024), Media Kit (completed Oct 2024), ongoing analytics monitoring
-- **Content Development**: Datasheets and whitepapers (Sophia Engagement completed Oct 2024; soil moisture datasheet noted as needing updates for BD/marketing), graphics, sales collateral
-- **Government/Defense Outreach**: Strategic engagement with USAF (Col Penuela), AFRL, INDOPACOM
-- **Industry Engagement**: Conference participation and speaking opportunities
-- **Google Ads & Analytics**: Ongoing optimization and monitoring
+**Project Scope**: Internal BST brand promotion and business growth strategy, including digital presence (website, analytics, ads), content development (datasheets, whitepapers, sales materials), government/defense outreach (USAF engagement), and industry engagement (conferences).
 
-**Data Integrity Alert**: The collapse from 63+ completed tasks (prior assessment) to 3 visible completed tasks (current export) persists and remains unresolved. The presence of tasks from mid-2024 but absence of 2026 completions suggests either:
-1. Marketing work completion is tracked externally and only selectively synced to or exported from Asana
-2. Asana task archival or view filtering is hiding completed task history
-3. Prior assessments captured tasks from a different project scope or view
-4. Tasks were deleted or removed from Asana entirely
+**Outstanding Action Items** (from prior assessment, status unconfirmed):
+- Update soil moisture datasheet (noted as "quite out of date"; needed for BD/marketing efforts)
+- Include Pepperwood work in Sophia Engagement deliverable or create separate content piece
+- Confirm status of 2026 deliverables documented in prior assessment (April 2026 completions for website, graphics, multi-drop marketing, newsletter, government outreach now absent from current export)
 
-**Recommended action**: 
-- Confirm with Paige Smith whether deliverables documented through April 2026 (website, datasheets, graphics, conferences, sales materials, newsletter, government outreach) were completed as scheduled or remain pending
-- Clarify whether marketing work is tracked in
+**Task Ownership & Accountability Gap**:
+All 8 open tasks are unassigned. Recommended action: assign each task to Paige Smith, Dan Prendergast, or Meredith O'hara Needham with clear ownership and accountability. Clarify whether Paige is the single point of contact or if tasks should be distributed across team.
+
+**Data Visibility Note**: 
+Current export shows 8 open + 1 completed task, resolving prior visibility collapse (0 open + 3 completed). However, prior assessment documented 63+ completions through April 2026; most are still absent from current export, suggesting:
+1. Marketing work continues to be tracked externally or in a different Asana view
+2. Completed tasks are systematically archived after closure
+3. Prior assessments captured a broader project scope
+
+**Recommended Clarifications**:
+- Confirm assignee for each open task and expected delivery date/owner
+- Prioritize tasks lacking due dates (New Website, Redesign whitepapers, Website datasheets, Website upkeep, ISARRA Conference)
+- Confirm whether Google Ads specialist has been engaged; if not, determine who owns outreach/coordination
+- Verify completion status of 2026 deliverables documented in prior assessment; if completed but not in Asana, document external completion source

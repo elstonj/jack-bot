@@ -8,21 +8,20 @@
 - **Timeline:** 
   - **Extended through August 25, 2026** (6-month extension from original contract)
   - Key delivery deadlines: July 1, 2026 (Additional 13 S0 systems); July 31, 2026 (Web-based controller, Operator Training); August 25, 2026 (Training CLINs 1002–1005)
-  - Key testing deadlines: March 18–20, May 1 (completed as of April 2026)
-- **Status:** **ARCHIVED in Asana** — Contract remains **active and progressing through August 25, 2026**. Work appears to be managed outside Asana or via separate tracking systems.
+- **Status:** **ARCHIVED in Asana** — Contract remains **active and progressing through August 25, 2026**. Work appears to be managed outside Asana or via separate tracking systems. ⚠️ Critical status management gap.
 - **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
 - **Priority level:** Low
 - **Risk signals:** 
-  - **Project archived in Asana despite active contract through August 25, 2026** — significant status management gap; task tracking outside Asana
-  - **13 critical unassigned milestone tasks with no due dates** (5 required: 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates; 2 optional: Skyfora Integration, MultiUAS) — essential work for contract completion lacks ownership and timeline clarity with ~4 months to final deadline
-  - **Additional 13 S0 systems delivery (due July 1, 2026) unassigned with zero progress tracking** — high-priority deliverable with ~10 weeks to delivery
-  - **Web-based controller (due July 31, 2026) assigned to Ben Busby** — requires status clarification on progress
+  - **Project archived in Asana despite active contract through August 25, 2026** — task tracking appears to have moved outside Asana
+  - **Only 1 open task in Asana ("Construction of deliverables") with no due date** — inadequate tracking for contract with ~4 months to final deadline
+  - **Critical unassigned milestone tasks** (5 required: 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates; 2 optional: Skyfora Integration, MultiUAS) — essential work for contract completion lacks ownership and timeline clarity
+  - **Additional 13 S0 systems delivery (due July 1, 2026)** — status unclear; unassigned with zero progress tracking in Asana
   - **IAS (Indicated Airspeed) failures increasingly frequent**, causing lost wind measurements and aircraft loss
 
 ## Key Deliverables & Milestones
 
 ### Systems Delivery
-- **Additional 13 S0 systems delivery** (Due July 1, 2026) — Unassigned, no current progress
+- **Additional 13 S0 systems delivery** (Due July 1, 2026) — Status unclear
 - **34 systems delivered to AOC** (Completed December 2025) ✅
 - **Hardware/software freeze** (Completed November 2025) ✅
 
@@ -32,7 +31,7 @@
 - **CLIN 1004:** Instructor Training Course development
 - **CLIN 1005:** Instructor Training
 
-### Critical Technical Milestones (All Unassigned, No Due Dates — Required for Contract Completion)
+### Critical Technical Milestones (Required for Contract Completion — Unassigned, No Due Dates)
 - **10Hz Met Data**
 - **Increased Endurance**
 - **Dual GPS**
@@ -50,38 +49,42 @@
 - Update onboard wind estimator (vertical) — Unassigned
 
 ## Task Summary
-- **Total tasks:** 0 open, 1 completed in current Asana snapshot
-- **Completed tasks (1 total):**
-  - Manufacturability improvements (Completed August 8, 2025) — Unassigned ✅
-- **Discrepancy note:** Asana project is archived with minimal task representation (0 open, 1 completed). Earlier snapshots listed up to 23 open tasks with multiple assignees. **Recommend urgent reconciliation with team on actual work status vs. Asana record**, especially given critical August 25, 2026 deadline.
-- **Historical completion rate (April 2026):** 
+- **Total tasks:** 1 open, 2 completed (in current Asana snapshot)
+- **Open tasks (1 total):**
+  - Construction of deliverables (includes all components) — Unassigned, no due date
+- **Recently completed tasks:**
+  - Hurricane Controller Algorithm Fixes — Dan Prendergast (due July 24, 2025; completed August 18, 2025)
+  - App Arch UI Upgrades — Dan Prendergast (due May 23, 2025; completed June 4, 2025)
+- **Historical completion rate (April 2026):**
   - Clear Air Testing (May 1 due, Apr 16 completed) — Maciej Stachura ✅
   - Local testing to verify fixes and updates (Mar 20 due, Apr 16 completed) — Maciej Stachura ✅
   - QC Flight for new E2 (Mar 18 due, completed Apr 9) — Ethan Domagala ✅
+- **Discrepancy note:** Asana project is archived with only 1 open task (no due date) and 2 recent completions. Earlier snapshots referenced up to 23 open tasks. **Significant reconciliation needed between Asana record and actual contract work status**, especially with critical August 25, 2026 deadline ~4 months away.
 
 ## Recent Activity
 
-**Latest Status Update (December 10, 2025):**
-- Project moving forward; NOAA has **$115K + $54K earmarked** for extension work on current contract
-- The **$54K earmarked for early part ordering or 3 UAS builds** (status: yet to be determined)
+**Current Status (as of latest Asana update):**
+- Project archived in Asana; only 1 open task with no due date
+- **No activity logged in Asana beyond April 2026**
+
+**December 10, 2025 Status Update:**
+- Contract moving forward; NOAA has **$115K + $54K earmarked** for extension work on current contract
+- **$54K earmarked for early part ordering or 3 UAS builds** (status: yet to be determined)
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
 - Funds also being added to current Hurricane contract for early part ordering or full UAS builds
 
-**Completed (August 2025):**
-- Manufacturability improvements ✅
+**August 2025:**
+- Hurricane Controller Algorithm Fixes completed (due July 24, completed Aug 18) — Dan Prendergast ✅
+- Manufacturability improvements completed ✅
 
-**Completed (May 2025):**
-- Pre-funding tasks ✅
+**June 2025:**
+- App Arch UI Upgrades completed (due May 23, completed June 4) — Dan Prendergast ✅
 
-**Completed (April 2026):**
-- Clear Air Testing (May 1 due date, completed Apr 16) — Maciej Stachura ✅
-- Local testing to verify fixes and updates (Mar 20 due date, completed Apr 16) — Maciej Stachura ✅
-- QC Flight for new E2 (Mar 18 due date, completed Apr 9) — Ethan Domagala ✅
-
-**Strategic Activity (April 2026):**
-- Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view — indicates potential expansion of government partnerships beyond NOAA for S0 platform
-
-**Current Status:** No activity logged in Asana beyond April 2026; project archived. **Critical:** Determine if project tracking has moved to different system or if task management is occurring outside Asana. With contract deadline of August 25, 2026, urgent clarification needed on current status of deliverables and training CLINs.
+**April 2026:**
+- Clear Air Testing completed (due May 1, completed Apr 16) — Maciej Stachura ✅
+- Local testing to verify fixes and updates completed (due Mar 20, completed Apr 16) — Maciej Stachura ✅
+- QC Flight for new E2 completed (due Mar 18, completed Apr 9) — Ethan Domagala ✅
+- Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione — indicates potential expansion of S0 platform partnerships beyond NOAA
 
 ## Notes & Context
 
@@ -92,11 +95,11 @@
 
 ### Strategic Partnerships & Follow-On Opportunities
 - **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
-- **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract; funding also being added to current Hurricane contract for early part ordering or full UAS builds
+- **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity; funding also being added to current Hurricane contract for early part ordering or full UAS builds
 
 ### Technical Focus
 - S0 air-deployed hurricane platform with custom payload capabilities
 - Primary technical challenges: IAS (Indicated Airspeed) failures increasingly frequent, causing lost wind measurements and potential aircraft loss
 
-### Status Management Gap
-**URGENT:** Asana project is archived with minimal active tasks (0 open, 1 completed), yet contract remains active through August 25, 2026 with critical deliverables due by that date. This represents a significant disconnect between Asana project state and real-world contract obligations. Actual work tracking appears to be occurring outside
+### **CRITICAL STATUS MANAGEMENT GAP**
+⚠️ **Urgent Action Required:** Asana project is archived with minimal active task representation (1 open task with no due date, 2 recent completions), yet contract remains active through August 25, 2026 (~4 months away) with critical deliverables due by that date. This represents a significant disconnect between As

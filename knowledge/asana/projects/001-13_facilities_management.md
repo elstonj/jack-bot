@@ -4,36 +4,39 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and weekly purchasing cycles
-- **Status**: Active - operational cadence maintained. **Current snapshot: 2 open tasks** (Office Cleaning due 2026-07-25; Ongoing Office Purchasing List due 2026-07-24). Both tasks are approaching due date.
-- **Team members involved**: Meredith O'hara Needham (primary operational owner, cleaning coordination, purchasing coordination)
-- **Risk signals**: Two open tasks with imminent due dates (2026-07-24 and 2026-07-25). Recent completed tasks show 14-day lag between due date and actual completion (both completed 2026-07-28), suggesting possible workload or priority delays.
+- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Equipment wish list, no due date assigned). Cleaning cycle is on track with consistent bi-weekly completion.
+- **Team members involved**: 
+  - Meredith O'hara Needham (primary operational owner, cleaning coordination, purchasing coordination)
+  - Nate Straus (equipment planning; consumables stock tracker owner)
+- **Risk signals**: Open "Equipment wish list" task has no due date assigned—clarify priority and deadline. Historical cleaning completion data shows variable lag (1–19 days); most recent completion (2025-12-04) was 19 days after due date (2025-11-15).
 
 ## Key Deliverables & Milestones
 - **Bi-weekly office cleaning** (via Neat N Tidy; established cadence)
-  - **Next cleaning due: 2026-07-25** (Meredith O'hara Needham) — **OPEN**
-  - Latest completed: 2026-07-14 (completed 2026-07-28; 14-day lag)
+  - **Latest completed**: 2025-12-04 (due 2025-11-15; 19-day lag)
+  - **Prior completions**: Consistent bi-weekly cycle throughout 2025, with typical 1–3 day lag (sporadic delays up to 19 days)
 - **Weekly office purchasing list** (recurring cycle to collect purchases)
-  - **Next list due: 2026-07-24** (Meredith O'hara Needham) — **OPEN**
-  - Latest completed: 2026-07-17 (completed 2026-07-28; 11-day lag)
+  - Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
 
 ## Task Summary
-- **Total tasks**: 2 open, 2 completed (recent snapshot)
+- **Total tasks**: 1 open, 8 completed (recent snapshot)
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 2 open (Office Cleaning, Ongoing Office Purchasing List), 2 completed
-    - Primary owner of operational cadence (cleaning coordination, weekly purchasing)
+  - **Meredith O'hara Needham**: 8 completed (all Office Cleaning tasks)
+    - Primary owner of cleaning coordination and bi-weekly cadence
+  - **Nate Straus**: 1 open (Equipment wish list, no due date)
+    - Equipment planning and consumables tracking
 - **Notable patterns**:
-  - Recurring weekly purchasing list (due 2026-07-24, 2026-07-17 completed)
-  - Recurring cleaning cycle (due 2026-07-25, 2026-07-14 completed)
-  - Recent completions show consistent 11–14 day lag after due date; investigate workload or task completion workflow
+  - Bi-weekly cleaning cycle maintained throughout 2025 with consistent completion (8 tasks completed)
+  - Completion lag variable: most completions within 1–3 days of due date; one significant delay (19 days, 2025-11-15 → 2025-12-04)
+  - Equipment wish list task lacks due date—may indicate incomplete task setup
 
 ## Recent Activity
-- **Open tasks approaching due date**:
-  - Ongoing Office Purchasing List (due 2026-07-24, assigned to Meredith O'hara Needham)
-  - Office Cleaning (due 2026-07-25, assigned to Meredith O'hara Needham)
+- **Open task**:
+  - Equipment wish list (Nate Straus) — **no due date assigned**
 - **Recently completed**:
-  - Ongoing Office Purchasing List (due 2026-07-17, completed 2026-07-28 — 11 days late)
-  - Office Cleaning (due 2026-07-14, completed 2026-07-28 — 14 days late)
+  - Office Cleaning (due 2025-11-15, completed 2025-12-04 — 19 days late)
+  - Office Cleaning (due 2025-07-26, completed 2025-07-25 — on time)
+  - Office Cleaning (due 2025-07-12, completed 2025-07-11 — 1 day early)
 
 ## Notes & Context
 
@@ -61,4 +64,6 @@
 
 **Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
-**⚠️ Observation**: New data shows recurring weekly purchasing task and bi-weekly cleaning task with significant completion lags (11–14 days after due date). Prior snapshot showed only monthly rent payments tracked. Consider whether Meredith O'hara Needham needs support to maintain cadence or if task completion workflow should be adjusted.
+**⚠️ Action Items**:
+1. **Equipment wish list** (Nate Straus): Assign a due date and clarify priority/scope.
+2. **Completion lag monitoring**: Recent 19-day delay (2025-12-04) is outside typical 1–3 day range. Confirm whether workload, vendor availability, or task closure workflow needs adjustment.

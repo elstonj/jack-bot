@@ -22,10 +22,14 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
   - Communications/ISP providers
   - Real estate
   - Materials/precision products suppliers
+  - Financial services (credit unions, 401k providers)
+  - Healthcare providers
+  - Recycling/waste services
+
 - **Government invoice portals**: PIEE (Navy/Air Force), IPP (NASA/NOAA/USGS)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 7 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -57,7 +61,4 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Human Interest** — 401k Provider; Address: 655 Montgomery St, Suite 1800, San Francisco, CA 94111; Phone: (877) 475-0179; Website: https://humaninterest.com/
 - **WorldWide Express (WWEX)** — UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; **Note**: As of 2025, all UPS shipments are billed through WWEX. Any shipping issues or assistance should route through WWEX.
 - **Nick Underwood (NOAA)** — NOAA Aircraft Operations Center; nicholas.underwood@noaa.gov; Address: 3450 Flightline Drive, Lakeland, FL 33811; Phone: (863) 500-3900
-
-### Closed/Inactive Contacts
-- **Jones & Associates CPAs PC (CLOSED)** — Tax consultant; Bill Jones (retired January 2026), info@jonescpapc.com, 947 Pope Dr Erie CO 80516, (303) 254-6613; **Note**: Replaced by KCO, Inc.
-- **Northwind Composites (CLOSED)** — Lee Skidmore contact; Lee@northwindcomp
+- **Joe Cione (NOAA)** — NOAA contact; joe.cione@noaa.gov; (719) 357-8259; Address: 3090 Center Green Dr. Boulder, CO 80301; Website: https://wpo.noaa.gov/how-to-apply/#title-page
