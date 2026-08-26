@@ -169,6 +169,17 @@ The knowledge channel is the persistent store for everything that needs to survi
 - Scans run locally, not on Railway (Railway filesystem is ephemeral)
 - Update workflow: `python scan.py all --mode incremental && git add knowledge/ && git commit && git push`
 
+## Slack Output Guard (`slack_mute.py`)
+Two env-driven controls over everything the bot says. Both are re-read on every call, so they can be flipped on Railway without a code change, and importing the module is a no-op when neither is set.
+- `JACKBOT_SLACK_MUTE=1` — suppress every outbound Slack write. `JACKBOT_SLACK_REDIRECT=<channel_id>` — reroute every `chat_postMessage` to that channel, tagged `_[→ #origin]_`. Mute wins if both are set. `JACKBOT_SLACK_MUTE_LOG=<path>` also appends every suppressed/redirected call to a file
+- **Patches `slack_sdk.WebClient` at the class level** rather than guarding call sites. Slack writes live at ~19 call sites across 9 modules and each builds its own `WebClient`; the class patch is the one choke point they all share, and it covers the client Bolt builds internally so handler `say()` calls are caught without touching `app.py`. `respond()` (slash commands) bypasses WebClient entirely — it POSTs to `response_url` — so it gets its own patch that forwards to the redirect target
+- **Reads are never patched.** `conversations_history` / `users_info` / `conversations_info` / `auth_test` must keep working or the nightly scan breaks. Only the 26 write methods in `BLOCKED_METHODS` are intercepted — `conversations_join` among them, since joining posts a visible "…joined the channel" message
+- Only `chat_postMessage` is redirectable; rerouting a reaction or file upload is meaningless, so under redirect every other write is suppressed as if muted
+- **Threading**: a `thread_ts` is only valid in the channel it came from. The guard tracks ts values it produced *in the target*, so a child whose parent was also redirected keeps real threading (and isn't re-tagged — the parent carries the tag); a `thread_ts` from a foreign channel is dropped and the message marked `· thread reply` rather than being rejected by Slack
+- Muted calls return a SlackResponse-shaped dict with a dummy `ts`, so `scheduler.py`'s umbrella-threading logic (`resp.get("ts")` / `resp.data.get("ts")`) runs without blowing up
+- Wired in at the entry points only: `app.py`, `scan.py`, `scripts/daily_digest.py`, and the inline Python in `scripts/nightly_scan.sh`
+- Offline coverage: `python test_slack_mute.py` (no credentials, no network — redirect is exercised against a fake client)
+
 ## Environment Variables
 See `.env.example` for required variables. Key ones:
 - `ANTHROPIC_API_KEY` - Claude API
