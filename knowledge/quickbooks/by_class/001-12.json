@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-07-14",
-    "end": "2026-07-15"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 18.92,
+    "expenses": 306.77,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 18.92
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 306.77
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-14",
-      "doc_number": "",
-      "total": 18.92,
-      "attributed": 18.92,
+      "date": "2026-08-25",
+      "doc_number": "CLYVSOCSY",
+      "total": 306.77,
+      "attributed": 306.77,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "RemoteID Module for NREL (NLR) customer. Their E2 is beyond the warranty/support window.",
       "lines": [
         {
-          "amount": 18.92,
+          "amount": 306.77,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Maxmoral 3PCS DC-099 DC Power Socket"
+          "description": "Dronetag Mini 4G"
         }
       ]
     }

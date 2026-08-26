@@ -29,10 +29,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 25235.0,
+        "amount": 26047.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -46,13 +46,13 @@
         "confidence": "exact",
         "last_updated": "2026-07-22"
       },
-      "total": 26112.07,
+      "total": 26924.57,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 60750.87,
+    "remaining": 59938.37,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-02T08:50:40Z"
+    "last_reconciled": "2026-08-26T09:06:15Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -62,29 +62,10 @@
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
-    },
-    {
-      "name": "Spencer Hoehl",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
     }
   ],
   "risks": [],
-  "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-07-23",
-      "text": "From Daniel Prendergast (ts=1784732505.010439): For everyone's awareness, Murphy's Pond Flight #4 has been postponed indefinitely.  Any travel or logistics arrangements already made should be cancelled."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-07-22",
-      "text": "From Daniel Prendergast: For everyone's awareness, Murphy's Pond Flight #4 has been postponed indefinitely.  Any travel or logistics arrangements already made should be cancelled."
-    }
-  ],
-  "last_full_rebuild": "2026-08-02T08:50:40Z",
+  "overrides": [],
+  "last_full_rebuild": "2026-08-26T09:06:15Z",
   "last_incremental_update": null
 }

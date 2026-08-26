@@ -1,21 +1,54 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-08-01",
-    "end": "2026-08-02"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 306000.0,
-    "expenses": 7517.84,
+    "expenses": 82948.41,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 6822.5,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 695.34
+      "DIRECT COSTS:DC-Direct Material Purchases": 62514.07,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 10385.0,
+      "DIRECT COSTS:DC-Direct Travel": 3772.34,
+      "OVERHEAD:OH-Airfare": 2191.44,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 1776.32,
+      "OVERHEAD:OH-Lodging": 1262.58,
+      "OVERHEAD:OH-Away Meals": 470.01,
+      "Inventory Asset": 398.99,
+      "OVERHEAD:OH-Other Travel Expenses": 168.37,
+      "FACILITIES:FA-Shop Supplies": 7.29,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2.0
     }
   },
   "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-08-25",
+      "doc_number": "1777",
+      "total": 58500.0,
+      "attributed": 58500.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 58500.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": "Invoice 1 of 3 for CLIN 1001 (Modification P26002)"
+        },
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Invoice",
       "date": "2026-08-14",
@@ -84,33 +117,444 @@
           "description": ""
         }
       ]
-    },
+    }
+  ],
+  "bills": [
     {
-      "type": "Invoice",
-      "date": "2026-08-03",
-      "doc_number": "1774",
-      "total": 58500.0,
-      "attributed": 58500.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": 58500.0,
+      "type": "Bill",
+      "date": "2026-08-25",
+      "doc_number": "BST-AUG2026-1",
+      "total": 28593.16,
+      "attributed": 28593.16,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 58500.0,
-          "account": "",
-          "description": "Invoice 1 of 3 for CLIN 1001 (Modification P26002)"
+          "amount": 375.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Rework deployment_tube_board_1-v0.1 (PMXB120EPE issue) (3hrs)"
         },
         {
-          "amount": 58500.0,
-          "account": "",
-          "description": ""
+          "amount": 28218.16,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Parts Sourcing/Assembly/Stencils"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-08-25",
+      "doc_number": "3948",
+      "total": 19266.87,
+      "attributed": 19266.87,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 19266.87,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Parts"
         }
       ]
     }
   ],
-  "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-08-25",
+      "doc_number": "101210301",
+      "total": 75.54,
+      "attributed": 75.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 75.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "4 Position Receptacle Connector 0.079\" (2.00mm) x 50"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-21",
+      "doc_number": "",
+      "total": 476.59,
+      "attributed": 2.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased",
+      "lines": [
+        {
+          "amount": 2.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "cetal Rod, Black, 3/16\" Diameter"
+        },
+        {
+          "amount": 282.4,
+          "account": "Inventory Asset",
+          "description": "For future S0 VTOL Sales"
+        },
+        {
+          "amount": 18.12,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased"
+        },
+        {
+          "amount": 173.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-20",
+      "doc_number": "",
+      "total": 245.0,
+      "attributed": 125.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4617",
+      "lines": [
+        {
+          "amount": 125.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "J. Elston Hawaii trip (Hurricane Lana)"
+        },
+        {
+          "amount": 120.0,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "J. Elston trip to Las Vegas for SOCOM demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-19",
+      "doc_number": "0819JELSTON",
+      "total": 432.24,
+      "attributed": 2.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase and listed project under items.",
+      "lines": [
+        {
+          "amount": 2.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Acetal Rod, Black, 3/16\" Diameter, 4 Feet Long"
+        },
+        {
+          "amount": 238.04,
+          "account": "Inventory Asset",
+          "description": "Items for future S3 Sales"
+        },
+        {
+          "amount": 18.12,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Industrial Quick-Disconnect Hose Coupling for Air"
+        },
+        {
+          "amount": 173.46,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-19",
+      "doc_number": "0818JELSTON",
+      "total": 129.95,
+      "attributed": 1.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase and listed project under items. First two items are listed, remaining items are shop supplies (confirmed by J. Fromm)",
+      "lines": [
+        {
+          "amount": 1.14,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Chemical-Resistant Slippery PTFE Rod 3/16\""
+        },
+        {
+          "amount": 7.85,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw"
+        },
+        {
+          "amount": 120.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Brass Industrial Quick-Disconnect Hose Coupling"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "",
+      "total": 32.18,
+      "attributed": 32.18,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "KANI KA PILA GRILLE - 4617",
+      "lines": [
+        {
+          "amount": 32.18,
+          "account": "OVERHEAD:OH-Away Meals",
+          "description": "J. Elston trip to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "",
+      "total": 20.86,
+      "attributed": 20.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON CHEE HOO BREWS - 4617",
+      "lines": [
+        {
+          "amount": 20.86,
+          "account": "OVERHEAD:OH-Away Meals",
+          "description": "J. Elston trip to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "",
+      "total": 1262.58,
+      "attributed": 1262.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MARRIOTT WAIKIKI BCH R - 4617",
+      "lines": [
+        {
+          "amount": 1262.58,
+          "account": "OVERHEAD:OH-Lodging",
+          "description": "J. Elston trip to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "",
+      "total": 2191.44,
+      "attributed": 2191.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 2191.44,
+          "account": "OVERHEAD:OH-Airfare",
+          "description": "J. Elston Flights to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-15",
+      "doc_number": "",
+      "total": 20.71,
+      "attributed": 20.71,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ABC #45 HAWAII - 4617",
+      "lines": [
+        {
+          "amount": 20.71,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Trip for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-15",
+      "doc_number": "",
+      "total": 53.22,
+      "attributed": 53.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*HULA GRILL - WAIKIKI - 4617",
+      "lines": [
+        {
+          "amount": 53.22,
+          "account": "OVERHEAD:OH-Away Meals",
+          "description": "Meals Hurricane Lala"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-15",
+      "doc_number": "",
+      "total": 348.45,
+      "attributed": 348.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*HULA GRILL - WAIKIKI - 4617",
+      "lines": [
+        {
+          "amount": 348.45,
+          "account": "OVERHEAD:OH-Away Meals",
+          "description": "Meals for Hurricane Lala trip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-14",
+      "doc_number": "",
+      "total": 84.08,
+      "attributed": 84.08,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 84.08,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Duty Fees for Grepow shipment"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-14",
+      "doc_number": "",
+      "total": 695.34,
+      "attributed": 695.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Worldwide Expres TYPE PAYMENTS Worldwide Expres TYPE PAYMENTS  ID XXXXXX1662 CO Worldwide Expres",
+      "lines": [
+        {
+          "amount": 39.02,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment from Phase 1 S0 wings (Sean Cole to BST)"
+        },
+        {
+          "amount": 656.32,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment of ground stations to NOAA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-14",
+      "doc_number": "",
+      "total": 22.66,
+      "attributed": 22.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ABC #45 HAWAII - 4617",
+      "lines": [
+        {
+          "amount": 22.66,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-14",
+      "doc_number": "",
+      "total": 15.3,
+      "attributed": 15.3,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MAGURO SPOT - 4617",
+      "lines": [
+        {
+          "amount": 15.3,
+          "account": "OVERHEAD:OH-Away Meals",
+          "description": "Meals Hurricane Lala"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "",
+      "total": 386.4,
+      "attributed": 386.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No receipt. J. Elston made purchase directly",
+      "lines": [
+        {
+          "amount": 386.4,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston flight to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "",
+      "total": 2191.44,
+      "attributed": 2191.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No receipt. J. Elston made purchase directly",
+      "lines": [
+        {
+          "amount": 2191.44,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston flight to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "",
+      "total": 1194.5,
+      "attributed": 1194.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No receipt. J. Elston made purchase directly",
+      "lines": [
+        {
+          "amount": 1194.5,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston flight to Hawaii for Hurricane Lana"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-08-13",
@@ -131,6 +575,314 @@
           "amount": 656.32,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipment of ground stations to NOAA Lakeland (IDIQ)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-12",
+      "doc_number": "",
+      "total": 134.97,
+      "attributed": 134.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made directly by J.  Elston for trip to Hawaii for Hurricane Lala",
+      "lines": [
+        {
+          "amount": 134.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Anker 140Wfor Jack's trip to Hawaii (Hurricane Lala)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-11",
+      "doc_number": "",
+      "total": 30.97,
+      "attributed": 30.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 30.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "2 Pack Surge Protector Power Strip with 6 Outlets 4 USB Ports"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-11",
+      "doc_number": "",
+      "total": 53.57,
+      "attributed": 53.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "S. Hild requested shipment for IDIQ",
+      "lines": [
+        {
+          "amount": 53.57,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Sensors for IDIQ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-10",
+      "doc_number": "1013",
+      "total": 10010.0,
+      "attributed": 10010.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 10010.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Deployment tubes (20), S0 Fuse (26)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 1940.65,
+      "attributed": 1386.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 1386.32,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "items for IDIQ"
+        },
+        {
+          "amount": 554.33,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 19.48,
+      "attributed": 19.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 19.48,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "S0 Launch tubes shipped from Lee/Rubicon (box 6)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 28.69,
+      "attributed": 28.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 28.69,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "S0 launching tubes ship from Lee/Rubicon (Box 5)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 29.55,
+      "attributed": 29.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 29.55,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "S0 Launching tubes from Lee/Rubicon (Box 4)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 44.33,
+      "attributed": 44.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 44.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "S0 launch tubes from Lee/Rubicon (Box 3)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 105.01,
+      "attributed": 105.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 105.01,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping S0 launching tubes from Lee/Rubicon"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 105.01,
+      "attributed": 105.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 105.01,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment of S0 launching tubes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-06",
+      "doc_number": "",
+      "total": 460.99,
+      "attributed": 460.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CST THE COMPOSITES STORE - 7333",
+      "lines": [
+        {
+          "amount": 460.99,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DPP High Modulus Carbon Fiber Strip x 50"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-06",
+      "doc_number": "",
+      "total": 516.42,
+      "attributed": 516.42,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTO LABS - 4617",
+      "lines": [
+        {
+          "amount": 516.42,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "2 Pack Surge Protector Power Strip with 6 Outlets 4 USB Ports x 25"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-05",
+      "doc_number": "SO-01801",
+      "total": 5410.0,
+      "attributed": 5410.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IQINETICS TECHNO TYPE SALE ID 9 IQINETICS TECHNO TYPE SALE ID XXXXXX6202 CO IQINETICS TECHNO",
+      "lines": [
+        {
+          "amount": 5410.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Purchase on 8/5/26"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-04",
+      "doc_number": "41235",
+      "total": 465.0,
+      "attributed": 465.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipped to Sean Cole (Phase1 Aviation)",
+      "lines": [
+        {
+          "amount": 465.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "High Modulus Carbon Fiber Rods and Strips x 50"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "0803JELSTON",
+      "total": 277.13,
+      "attributed": 44.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 121.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Magnetometer supplies"
+        },
+        {
+          "amount": 44.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Hurricane IDIQ supplies"
+        },
+        {
+          "amount": 74.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S2 NASA supplies"
+        },
+        {
+          "amount": 37.76,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
         }
       ]
     },

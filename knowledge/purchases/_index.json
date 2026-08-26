@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T08:13:48Z",
-  "total_records": 1347,
+  "generated_at": "2026-08-26T08:28:03Z",
+  "total_records": 1469,
   "by_project": {
     "0303JELSTON": {
       "count": 1,
@@ -14,13 +14,21 @@
       "count": 1,
       "total_amount": 0.0
     },
+    "S0 VTOL": {
+      "count": 1,
+      "total_amount": 283.85
+    },
+    "S0-0": {
+      "count": 2,
+      "total_amount": 283.85
+    },
     "S3": {
       "count": 2,
       "total_amount": 644.23
     },
     "_unattributed": {
-      "count": 1339,
-      "total_amount": 292765.43
+      "count": 1458,
+      "total_amount": 315830.51
     },
     "s2 nasa": {
       "count": 2,

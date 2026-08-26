@@ -1,103 +1,89 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,163 emails (2,108 previous + 55 from Aug 3–4)
-- **Date range:** June 15–August 4, 2026 (51 days)
-- **Approximate volume:** ~42.4 emails/day
-- **Trend:** **Volume sustained; Aug 3–4 shows significant shift toward KPMG financial/contract reporting and direct vendor management (K-Mac Plastics, Green Apple Cleaning) alongside continued purchasing automation; first direct human-authored outreach burst to external auditors visible**
+- **Total messages scanned:** 2,263 emails (2,163 previous + 100 from Aug 24–26)
+- **Date range:** June 15–August 26, 2026 (73 days)
+- **Approximate volume:** ~31 emails/day (average; varies by activity phase)
+- **Trend:** **Sustained high-volume vendor/procurement management + significant spike in government contract communications (Navy, NOAA). Aug 24–26 shows: (1) out-of-office auto-replies active (Aug 24 afternoon); (2) heavy NOAA invoice/delivery coordination; (3) Navy direct contact (Eisele); (4) continued CNC parts procurement disputes; (5) accounting workbook handoff to external consultant (Nicholas Grande/Accordion); (6) continued QuickBooks payment routing.**
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Aug 4)
+### Incoming (by frequency — updated through Aug 26)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,120+ cumulative messages**
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,200+ cumulative messages**
 
-   **Recent Activity (Aug 3–4):**
+   **Recent Activity (Aug 24–26):**
 
-   - **McMaster-Carr** (3 messages, Aug 3–4, 02:46–15:37 UTC)
-     - Order Confirmation + Certificate/Tracking for August 3rd Order (PO routing via purchasing@)
-     - **Significance:** Large industrial supply order; multiple tracking/certificate notifications indicate high-value or regulated component procurement
+   - **McMaster-Carr** (2 messages, Aug 25–26)
+     - Order Confirmation + Receipt for August 25th Order (standard routing)
+     - **Significance:** Sustained high-frequency industrial supply orders; typical cadence every 1–2 days
 
-   - **Mouser Electronics** (Aug 3, 16:33 EDT)
-     - Order Confirmation + TARIFF DETAILS for PO 40026106
-     - **Significance:** Electronic components with tariff calculations flagged; suggests international sourcing or duty-subject materials
+   - **DigiKey** (3 messages, Aug 25)
+     - Order Confirmation + Shipping notification + PO Acknowledgement (Sales Order #101210301)
+     - **Significance:** Electronic components procurement; multiple confirmations suggest high-value or multi-line orders
 
-   - **AliExpress** (Aug 3, 17:18 PDT)
-     - Promotional: "Good choice, your faves await!"
-     - **Significance:** Marketplace component sourcing; watch-list engagement
+   - **3DR** (2 messages, Aug 25)
+     - Welcome + Order Confirmation (#5804)
+     - **Significance:** New vendor onboarded; 3DR is drone/UAS components supplier (aligns with BST aviation/UAS focus)
 
-   - **Snarf's Sandwiches** (2 messages, Aug 3, 10:16–17:10 UTC)
-     - Group Order Received + Order Confirmation
-     - **Significance:** Team meal coordination routed through purchasing automation (non-core vendor)
+   - **GetFPV** (2 messages, Aug 25)
+     - Order Confirmation + Invoice (routed to Josh Fromm)
+     - **Significance:** FPV/drone components; engineering-driven procurement
 
-   - **Tracking notification** (Aug 3, 16:50 UTC)
-     - "Your order has been delivered!"
-     - **Significance:** Generic delivery confirmation; part of multi-carrier logistics tracking
+   - **Rock West Composites** (2 messages, Aug 25)
+     - Invoice Confirmation + Shipment Confirmation
+     - **Significance:** Composite materials supplier (consistent with aerospace/UAS manufacturing)
 
----
+   - **Dronetag s.r.o.** (1 message, Aug 25)
+     - Payment Accepted notification (routed to Alex Lomis)
+     - **Significance:** Dronetag is electronic identification system for UAS; payment processed via purchasing
 
-2. **Direct Vendor Contact (High Activity):**
+   - **Spindrift Market** (1 message, Aug 26)
+     - Order Confirmation (non-core vendor, beverage/lifestyle)
+     - **Significance:** Team supply/morale order
 
-   - **Marlo** (`marlo@k-mac-plastics.net`) — **6 direct exchanges, Aug 3, 10:18–13:03 EDT** [IMPORTANT flagged on all vendor messages]
-     - Quote KM-5819-48-RL: "Ready to pay" negotiation cycle (4 exchanges, 10:18–12:42 EDT)
-     - Sales Order 15509042: Status/confirmation (2 exchanges, 11:03–13:03 EDT)
-     - **Significance:** ACTIVE PROCUREMENT — Rapid-fire quote approval and order confirmation; K-Mac Plastics is precision plastic fabrication vendor; quote cycle suggests custom tooling or injection-molded components; "ready to pay" language indicates cost approval authority vested in Meredith
-
-   - **Green Apple Cleaning** (`joshua@greenapplecleaningcrew.com`) — **4 direct exchanges, Aug 3, 09:14–10:50 EDT** [IMPORTANT flagged on incoming]
-     - Cleaning Quote negotiation (4 exchanges, 09:14–10:50 EDT)
-     - **Significance:** Facilities/janitorial services; quote refinement suggests cost negotiation or scope adjustment
-
-   - **Ted Miles** (`ted59@msn.com`) — **2 exchanges, Aug 3, 09:04–14:25 EDT** [IMPORTANT]
-     - "Ted Miles Tech Support Invoice for July 2026"
-     - **Significance:** External IT/tech support contractor; invoice payment processing (QuickBooks routed payment notice also present)
-
-   - **Eco-Cycle Hauling** (`hauling@ecocycle.org`) — **1 draft (unsent), Aug 3, 15:53 EDT**
-     - Subject: [DRAFT] (no subject visible)
-     - **Significance:** Waste/recycling services; draft suggests incomplete outreach or awaiting revision
+   - **Chitu Systems** (1 message, Aug 26)
+     - Marketing: "16K Means Sharper Prints?" (promotional)
+     - **Significance:** Printing/imaging vendor; low priority
 
 ---
 
-3. **KPMG Financial/Audit Correspondents (NEW HIGH-PRIORITY PATTERN — Aug 3):**
+2. **Direct External Vendor/Partner Contact (High Activity):**
 
-   - **Courtney Lee** (`courtneylee@kpmg.com`) — **4 direct messages from Meredith, Aug 3, 14:47–15:20 EDT** [IMPORTANT incoming response 20:53 UTC Aug 3]
-     - "Requested Payroll reports" (14:47 EDT) → RE: response (20:53 UTC, marked IMPORTANT)
-     - "Black Swift 2025 Payroll Report (full report)" (15:13 EDT)
-     - "$32k Payroll liability" (15:20 EDT)
-     - **Significance:** AUDIT/FINANCIAL REPORTING — Meredith acting as primary data provider for payroll/liability audit; $32k liability item flagged; rapid response cadence suggests audit deadline pressure
+   - **Samantha** (`Samantha@bestinparts.com`) — **7 direct exchanges, Aug 25, 16:02 UTC – 22:41 UTC (escalating)** [IMPORTANT flagged on all]
+     - **CNC parts order for Black Swift-BST260728-B16306** (ongoing thread with 12+ RE: cycles)
+     - Messages show: Josh Fromm initiating/managing; Samantha responding from China (+8 timezone); escalating frequency (22:41, 22:54, 04:01, 10:49, 16:33, 22:41 UTC Aug 25–26)
+     - **Significance:** **CRITICAL PROCUREMENT ISSUE** — Repeated RE: cycles indicate unresolved technical or logistics problem with CNC part order; international vendor (China timezone); engineering-critical part (BST260728-B16306 appears to be platform or frame component); Josh Fromm driving resolution but Meredith copied/flagged; suggests manufacturing bottleneck or quality issue
 
-   - **Lauren Napheys** (`lnapheys@kpmg.com`) — **5 direct messages from Meredith, Aug 3, 15:59–16:05 EDT**
-     - "Contracts for 2025 & AP balance" (15:10 EDT)
-     - "Re-do contract info and documents" (15:59 EDT)
-     - "By Light & Unmanned Experts contracts" (16:01 EDT)
-     - "NASA contracts" (16:03 EDT)
-     - "Navy & USGS" (16:04 EDT)
-     - "UMES & NOAA (including Univ. Miami)" (16:05 EDT)
-     - **Significance:** CONTRACT AUDIT DOCUMENTATION — Meredith providing contract evidence for government programs (NASA, Navy, USGS, NOAA, University of Miami); "Re-do" language suggests initial submission was incomplete or required revision; by-Light and Unmanned Experts are aerospace/UAS contractors (potential subcontractors or program names)
+   - **Mary E. Eisele, CIV USN (USA)** (`mary.e.eisele.civ@us.navy.mil`) — **4 direct exchanges, Aug 25, 13:42–13:54 EDT** [IMPORTANT, YELLOW_STAR on initial inbound]
+     - **Subject: Black Swift N2-9618** (Navy asset identifier)
+     - Meredith responding to Navy inquiries; forwarded internally to Beck Cotter (13:42 EDT); Meredith then sends corrected email directly back to Eisele (13:50 EDT); Navy responds with "Corrected email FW" (19:37 UTC)
+     - **Significance:** **DIRECT NAVY CONTRACT ENGAGEMENT** — "N2-9618" is likely Navy platform designation (UAS or vehicle); Meredith acting as primary contract/technical correspondence point for Navy; requires accuracy/correction cycles; high priority (YELLOW_STAR)
 
-   - **Aamir Husain, Peter Choi, Brandon Dalton, T. Short, Samuel Rexon, Joseph Davoren** (KPMG team, Aug 3, 14:42 EDT)
-     - "Re: Checking in on status" (group response)
-     - **Significance:** Broader audit team acknowledgment; status update to full KPMG engagement team
+   - **NOAA Federal Contacts** (3 direct contacts, Aug 25, 10:04–12:38 EDT):
 
----
+     - **Amy McLiverty** (`amy.l.mcliverty@noaa.gov`) — 2 direct exchanges (Aug 25, 10:11, 10:40 EDT)
+       - "Confirming Invoice Schedule for extra 13 S0s (1305M226F0084)" (10:11 EDT)
+       - "Ignore email regarding invoice schedule" (10:40 EDT) + response (12:38 EDT incoming)
+       - **Significance:** S0s = Systems/platforms in NOAA inventory tracking; Meredith managing invoice timing/delivery coordination; "ignore email" suggests schedule correction/clarification needed
 
-4. **Internal BST Team:**
+     - **Alexis Mejia** (`alexis.mejia@noaa.gov`) — 3 direct exchanges (Aug 25, 10:27–12:24 EDT)
+       - **Invoice 1774 // 1305M226F0344** (rapid 3-exchange cycle, 10:27, 10:34, 10:39 EDT + incoming response 12:24 EDT)
+       - **Significance:** Invoice discrepancy/query resolution; system ID 1305M226F0344 (NOAA asset tracking); Meredith resolving billing/delivery mismatch in real-time
 
-   - **Jack Elston** (`elstonj@blackswifttech.com`) — **1 forward from Meredith, Aug 3, 09:51 EDT**
-     - "Fwd: Invoice for July"
-     - **Significance:** Invoice routing to operations/finance lead; also participant in internal update meeting (see below)
+     - **Danielle Varwig** (`danielle.varwig@noaa.gov`) — 1 incoming response (Aug 25, 12:13 EDT)
+       - **Re: NOAA Contract Comms & Incoming Task Orders** [IMPORTANT]
+       - **Significance:** Broader NOAA task order discussion; Meredith copied or responding; Jack Elston is primary driver (see below)
 
-   - **Joshua Fromm & Alex Lomis** (`josh.fromm@blackswifttech.com`, `alex.lomis@blackswifttech.com`) — **1 starred/important message from Joshua, Aug 3, 09:18 EDT**
-     - "Fwd: Quote G10/FR4" (marked YELLOW_STAR, IMPORTANT)
-     - **Significance:** Material quote forwarded by engineering lead; G10/FR4 is glass-fiber composite (circuit board substrate or structural composite); flagged as priority
+   - **Nicholas Grande** (`ngrande@accordion.com`) — **4 direct exchanges, Aug 24–25** [IMPORTANT on all]
+     - **Subject lines:** "[Placeholder] Equity Reclass" + "Accounting Procedures & Cash-to-Accrual" + duplicate (one flagged as [Placeholder], one without)
+     - Meredith sent out-of-office auto-reply (Aug 24, 14:50, 16:09); Nicholas responds w/ clarification requests (Aug 24, 21:50–22:05 UTC); Meredith replies (Aug 25, 11:41 EDT) [SENT]
+     - **Significance:** **EXTERNAL ACCOUNTING CONSULTANT** (Accordion = accounting/finance services firm); engaged for: (1) equity reclass (cap table adjustment); (2) **cash-to-accrual conversion** (major accounting method shift); indicates financial reporting overhaul or preparation for audit/funding event; Nicholas Rodgers (co-sender) likely engagement lead
 
-   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Recipient of NOAA correspondence, Aug 3, 11:05–14:05 EDT** [IMPORTANT]
-     - "Re: New Delivery Order/Upcoming" (Amy McLiverty NOAA Federal responding to Beck)
-     - **Significance:** Beck appears to be primary NOAA contract lead; Meredith is supporting documentation/audit trail
-
-   - **BST Internal Update Meeting** (weekly, 1:00–1:30pm MDT, Wednesdays through Aug 4)
-     - Attendees: Jack Elston, Joshua Fromm, Alex Lomis, Maciej Stachura, Daniel Prendergast, Ethan Domagala, Sam Hild, Beck Cotter, Nathaniel Straus, Paige Smith
-     - **Significance:** Core
+   - **Kathi Healy** (`kathi@rmiselect.com`) — **2 direct exchanges, Aug 24–25** [IMPORTANT]
+     - **BST x KS Celebration Event - RMI Invoice** (Aug 24, 16:09 OOO auto-reply; Aug 25, 11:10 EDT actual response)
+     - **Significance:** RMI Select =

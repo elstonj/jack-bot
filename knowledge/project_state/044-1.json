@@ -26,10 +26,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 34356.25,
+        "amount": 34481.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -43,25 +43,19 @@
         "confidence": "exact",
         "last_updated": "2026-07-02"
       },
-      "total": 34356.25,
+      "total": 34481.25,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 55643.75,
+    "remaining": 55518.75,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-02T08:51:07Z"
+    "last_reconciled": "2026-08-26T09:07:03Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
     {
-      "name": "Dan Prendergast",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Maciej Stachura",
+      "name": "Meredith O'hara Needham",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -69,6 +63,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-02T08:51:07Z",
+  "last_full_rebuild": "2026-08-26T09:07:03Z",
   "last_incremental_update": null
 }

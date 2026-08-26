@@ -4,14 +4,18 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-07-31",
-    "end": "2026-08-01"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7903.87,
+    "expenses": 3214.2,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 7903.87
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2689.2,
+      "Inventory Asset": 415.79,
+      "FACILITIES:FA-Shop Supplies": 56.92,
+      "DIRECT COSTS:DC-Direct Material Purchases": 50.07,
+      "SALES & MARKETING:SM-Shipping": 2.22
     }
   },
   "invoices": [],
@@ -19,204 +23,267 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-31",
+      "date": "2026-09-03",
       "doc_number": "",
-      "total": 405.94,
-      "attributed": 405.94,
+      "total": 22.5,
+      "attributed": 2.5,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 405.94,
+          "amount": 2.5,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "MHP Tip Main.step x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "",
-      "total": 94.44,
-      "attributed": 94.44,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 94.44,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Master_Assembly___End_Busbar"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "70261",
-      "total": 1052.48,
-      "attributed": 1052.48,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1052.48,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Master-Assembly-Duct.step; Master-Assembly-Sonde-Shell.step; Master-Assembly-Tail-Servo-Mount.step"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "70260",
-      "total": 2656.04,
-      "attributed": 2656.04,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 2656.04,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Master-Assembly-AP-Bottom-Brace.step; GPS-Mount-BLS88WP-Servo.step; 1x-Laser-Plate.step; Master-Assembly-Joiner-Insert.step"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "",
-      "total": 226.86,
-      "attributed": 226.86,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 226.86,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "AWG Silicone Wire; E-outstanding MPX 6-Pin Plug; OliRC 20pairs Cross ; 20pair Amass MR30 Male Female Connector; 10 Pairs Amass MR60 Plug Female: Quick Release Plate, Camera Tripod Mount: 10pcs 4mm Bullet Banana Plug Connector"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "300046306",
-      "total": 117.86,
-      "attributed": 117.86,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SERVOCITY - 7333",
-      "lines": [
-        {
-          "amount": 117.86,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "1/4\" Round Servo Shaft x 10"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "100742193",
-      "total": 697.55,
-      "attributed": 697.55,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 697.55,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "IRAD VTOL supplies"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "882026/005977",
-      "total": 306.77,
-      "attributed": 306.77,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 306.77,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Dronetag DRI x 5"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "28043",
-      "total": 1205.28,
-      "attributed": 1205.28,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1205.28,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SF20/C (100 m) x 4"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "55956",
-      "total": 77.58,
-      "attributed": 77.58,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Digital card",
-      "lines": [
-        {
-          "amount": 49.71,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "10x7E x 12"
+          "description": "Shipment charge for Dronetag shipment (Order #882026/005977)"
         },
         {
-          "amount": 27.87,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "10x7EP x 6"
+          "amount": 20.0,
+          "account": "SALES & MARKETING:SM-Shipping",
+          "description": "Shipment pick-up for shipment to Vegas for SOCOM demo"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-07-31",
-      "doc_number": "5791",
-      "total": 1063.07,
-      "attributed": 1063.07,
+      "date": "2026-08-21",
+      "doc_number": "",
+      "total": 476.59,
+      "attributed": 173.45,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "HITEC RCD USA INC - 7333",
+      "memo": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased",
       "lines": [
         {
-          "amount": 1063.07,
+          "amount": 2.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "cetal Rod, Black, 3/16\" Diameter"
+        },
+        {
+          "amount": 282.4,
+          "account": "Inventory Asset",
+          "description": "For future S0 VTOL Sales"
+        },
+        {
+          "amount": 18.12,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased"
+        },
+        {
+          "amount": 173.45,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "MD89MW Magnetic Encoder Metal Gear 25T Digital Micro Servo x10"
+          "description": "No Asana Request. J. Fromm made purchase. All projects listed under items purchased"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-20",
+      "doc_number": "0820JELSTON",
+      "total": 283.85,
+      "attributed": 279.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase and listed project under items.",
+      "lines": [
+        {
+          "amount": 279.07,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Items for IRAD S0 VTOL"
+        },
+        {
+          "amount": 4.78,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-20",
+      "doc_number": "101130526",
+      "total": 150.89,
+      "attributed": 150.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Original order was backordered and cancelled. A. Lomis requested new purchase via email",
+      "lines": [
+        {
+          "amount": 150.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "HARTING CONTACT H.D. CRIMP SOCKET 10AWG x 25"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "HHUSOR253385971",
+      "total": 632.05,
+      "attributed": 632.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HORIZON HOBBY RETAIL PS://WWWHO IL",
+      "lines": [
+        {
+          "amount": 632.05,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Castle Creations Phoenix Edge Lite 50, 34V 50-Amp ESC with 5-Amp BEC x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-10",
+      "doc_number": "",
+      "total": 97.97,
+      "attributed": 97.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*562PU1WF0 - 4617",
+      "lines": [
+        {
+          "amount": 97.97,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "AMAZON MKTPL*562PU1WF0 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 1137.08,
+      "attributed": 63.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "POLOLU CORPORATION - 7333",
+      "lines": [
+        {
+          "amount": 63.17,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "purchased 2"
+        },
+        {
+          "amount": 252.68,
+          "account": "Inventory Asset",
+          "description": "Future S3 sales (purchased 8)"
+        },
+        {
+          "amount": 821.23,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "POLOLU CORPORATION - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-06",
+      "doc_number": "",
+      "total": 259.87,
+      "attributed": 27.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request  - J. Fromm made purchase directly. Project listed under each item",
+      "lines": [
+        {
+          "amount": 27.55,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD S0 VTOL supplies"
+        },
+        {
+          "amount": 232.32,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-04",
+      "doc_number": "0804JELSTON",
+      "total": 260.68,
+      "attributed": 27.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 27.36,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Press-Fit Drill Bushing with Head, 0.159\" ID x 2"
+        },
+        {
+          "amount": 233.32,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Remote-Release Rotary Latch; Multipurpose 6061 Aluminum Bar; T-Slotted Framing, End-Feed Double Nut and M8; 316 Stainless Steel Ultra-Low-Profile Socket"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-04",
+      "doc_number": "100801135",
+      "total": 134.89,
+      "attributed": 134.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 134.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "CONTACT H.D. CRIMP SOCKET 8AWG x 25"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "",
+      "total": 1027.34,
+      "attributed": 1027.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTO LABS - 4617",
+      "lines": [
+        {
+          "amount": 1027.34,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "MHP Tip v161.step x 30"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "",
+      "total": 1195.92,
+      "attributed": 597.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IN *K-MAC PLASTICS LLC - 7333",
+      "lines": [
+        {
+          "amount": 597.96,
+          "account": "Inventory Asset",
+          "description": "Thermoset Laminate G10/FR4 Tubes for future S0 VTOL sales"
+        },
+        {
+          "amount": 597.96,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Thermoset Laminate G10/FR4 Tubes for IRAD S0 VTOL"
         }
       ]
     }

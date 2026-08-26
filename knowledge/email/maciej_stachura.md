@@ -1,113 +1,86 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 34 (5 from previous scan + 29 new)
-- **Date range:** 2 Aug – 4 Aug 2026
-- **Volume:** Heavy activity on 3 Aug 2026 (27 messages); pattern suggests intense project work or deal progression over single day
+- **Total messages scanned:** 100 (34 from previous scan + 66 new)
+- **Date range:** 21 Aug – 26 Aug 2026
+- **Volume:** Heavy sustained activity; multiple high-priority threads running in parallel; concentration of activity Aug 24–25 (government/contract-heavy days)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — appears as sender/recipient in 8+ messages; driving technical and business discussions
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — involved in "Call Friday" thread
-- **Jack Elston** (elstonj@blackswifttech.com) — technical discussions, document sharing
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — involved in call coordination
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Core collaborator; appears in 15+ new messages; bridges USSOCOM, Navy (NAWCAD), and internal strategy
+- **Jack Elston** (elstonj@blackswifttech.com) — Technical lead/project coordinator; appears in 25+ new messages; primary escalation point for government contacts, legal, vendor coordination
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations/research coordination; 10+ appearances; NASA, NOAA, Navy liaison
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — Manufacturing/recruiting coordination; appears in 5+ messages; shared address cory@krateosky.com suggests dual role
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — NOAA liaison; meeting coordination
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal distribution (Task Orders)
 
 ### Top External Contacts
-- **Joey Taylor** (joey.taylor@noaa.gov) — NOAA Affiliate; **5+ exchanges** on "Nightfox CAN bus configuration" — high-frequency technical collaboration
-- **Krateo Sky (krateosky.com)** — Multiple contacts:
-  - Bob Smith (Bob@krateosky.com)
-  - Sona Raziabeegum (sona@krateosky.com)
-  - Ariel Avitan (Ariel@krateosky.com)
-  - LisaMarie Cheney (LisaMarie@krateosky.com)
-  - All engaged on IDIQ Contract 1305M226D0012
-- **University of Colorado team:**
-  - Al Gasiewski (al.gasiewski@colorado.edu)
-  - Ben Maglio (Ben.Maglio@colorado.edu)
-  - Michael Rhodes (michael.e.rhodes@colorado.edu)
-- **ByLight Partners:**
-  - William O'Neill (william.oneill@bylight.com)
-  - Nicholas Phillips (nicholas.phillips@bylight.com)
-- **USSOCOM (U.S. Special Operations Command):**
-  - Hannah D. Lyness (hannah.d.lyness.mil@socom.mil)
-  - Evan M. Wolff (evan.m.wolff.mil@socom.mil)
-  - Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil)
-- **Sarah Barr** (sarah.barr@ncas.ac.uk) — Arctic UAS inquiry
-- **Hadley Solomon** (hadley.solomon@creativealignments.com) — Creative Alignments coordination
-- **Purchasing/Vendors:**
-  - McMaster-Carr (invoice.reply@mcmaster.com)
-  - Amazon Purchasing
-  - Harbor Freight
-  - UPS
-  - Snarf's Sandwiches
+
+#### Government (High Frequency/Strategic)
+- **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **8+ exchanges**; AFA Proposal Rejection thread; technical liaison on 20kft launch, wave data analysis
+- **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **10+ exchanges**; S0 data from LALA, wave/dual UAS operations, ET interest meeting (AL96 collaboration)
+- **Angel R. Ruiz-Reyes CIV USN NAWCAD** (angel.r.ruiz-reyes.civ@us.navy.mil) — **10+ exchanges**; S0 COTS WAIVER discussions, TCE 26.2 weekly sync, Navy technical review
+- **Aaron D. Pyrah CIV USN NAWCAD** (aaron.d.pyrah.civ@us.navy.mil) — Navy partner on COTS WAIVER and S0 evaluations
+- **Evan M. Wolff MIL USSOCOM** (evan.m.wolff.mil@socom.mil) — USSOCOM contact on S0-AD Development Options (via Daniel Prendergast delegation)
+- **Chester V. Dolph NASA LaRC** (chester.v.dolph@nasa.gov) — NASA procurement/partnership on Black Swift S0 (3+ exchanges with Beck Cotter, cc'd to Maciej)
+- **Patricia A. Vollmer CIV NORAD-USNC** (patricia.a.vollmer.civ@mail.mil) — Status inquiry on AE27 Black Swift UAS project
+
+#### Krateo Sky (Strategic Partnership)
+- **Bob Smith** (Bob@krateosky.com)
+- **Sona Raziabeegum** (sona@krateosky.com) — **4+ exchanges**; contract management, invoice/KO Law PC correspondence
+- **Ariel Avitan** (Ariel@krateosky.com) — **2+ exchanges**; S3 spec development
+- **Jed Leonard** (jed@krateosky.com) — PEO-FW A2E Assessment Event
+- **Brian Grubel** (Brian@krateosky.com) — Munro Defense workshop coordination
+- **Cory Dixon** (cory@krateosky.com) — Recruiting/manufacturing coordination (dual BST/Krateo role evident)
+- **Scott Wine** (Scott@krateosky.com) — BST Status Check
+- **Thibault Bridel-Bertomeu** (Thibault@krateosky.com) — Recruiting updates
+
+#### University Collaborators
+- **Al Gasiewski** (al.gasiewski@colorado.edu) — **3+ exchanges**; NASA ROSES25 Biosphere Step 1 proposal
+- **Ben Maglio** (Ben.Maglio@colorado.edu) — **3+ exchanges**; NASA ROSES25, RF/soil moisture research
+- **Kevin S. Rozmiarek** (Kevin.Rozmiarek@colorado.edu) — S2 cold-weather performance inquiry
+- **Joshua Wadler** (WADLERJ@erau.edu) — NOAA AL96 meeting participant
+
+#### Academic/Research
+- **Kevin A. Adkins** (adkinsk@erau.edu) — ISARRA and Flight Week Aircraft coordination
+- **Jun Zhang - NOAA Affiliate** (jun.zhang@noaa.gov) — Wave data collaboration
+- **Sarah Barr** (sarah.barr@ncas.ac.uk) — Arctic UAS conditions inquiry
+
+#### External Partners/Vendors
+- **Keven Gambold** (kagambold@unmannedexperts.com) — **5+ exchanges**; PEO-FW A2E Assessment Event, PACER Relentless Wolfpack (FA2391-23-S-2403) requirements
+- **Ryan Sykora** (rsykora@kofirm.com) — KO Law PC legal/contract matters (3+ exchanges)
+- **Jace Hilton CIV USAF AFRL** (jace.hilton@us.af.mil) — PACER Relentless Wolfpack requirements
+- **Jane E. Ellison CIV USAF AFRL** (jane.ellison@us.af.mil) — PACER requirements
+- **Hadley Solomon** (hadley.solomon@creativealignments.com) — *Previous context retained*
+- **Nanoveu team:** Mark Goranson, Mohamed Sabry, Scott Smyser, Tom Wilp (nanoveu.com) — Flight data report
+- **3DR** (info@3dr.com) — Order confirmation
+- **Creative Alignments** (triza.codillo@creativealignments.com) — BST Mfg/Prod Eng recruiting updates
+
+#### Taiwan Commercial Inquiry
+- **蘇維琪 (Weichi)** (weichi@smartec.com.tw) — S0 UAS (VTOL & Air-Deployed) commercial opportunity in Taiwan
+
+#### Other
+- **David Richter** (David.Richter.26@nd.edu) — S0 availability
+- **Stefan Metzger** (smetzger@atmofacts.com) — Murphy's Pond Dataset
+- **Austin Anderson** (austinsteamboat@gmail.com) — MV Engineer job posting
+- **Lauren Tango** (lauren@r-coast.com) — Black Swift inquiry
+- **Trenton McKibben, Chris Pitfield** (nextechsol.com) — CJFC Engineering Sprint (Canadian Forces Joint Staff)
+- **Nicolas Verreault, Harry Wong** (forces.gc.ca) — Canadian military coordination
 
 ### Communication Breakdown
-- **Internal:** ~40% (BST team)
-- **External Government:** ~25% (NOAA, USSOCOM, MOD UK)
-- **External Commercial/Academic:** ~35% (Krateo Sky, University of Colorado, ByLight, Creative Alignments, vendors)
+- **Internal:** ~35% (BST core team)
+- **External Government:** ~40% (NOAA, Navy NAWCAD, USSOCOM, NASA, NORAD, USAF AFRL, Canadian Forces)
+- **External Commercial/Academic/Research:** ~25% (Krateo Sky, University of Colorado, consultants, Nanoveu, Creative Alignments, vendors)
 
 ## Topic Patterns
 
 ### Primary Projects/Technical Areas
-1. **Nightfox CAN Bus Configuration** — Active technical troubleshooting with Joey Taylor (NOAA) and internal team; Michael Rhodes (CU) involved; indicates hardware/avionics work
-2. **sUAS RF Soil Moisture Mapping** — Research collaboration with University of Colorado (Gasiewski, Maglio)
-3. **Arctic UAS Operations** — Inquiry response to Sarah Barr (NCAS UK) on UAS for arctic conditions
-4. **RFI S0** — Government RFI response involving USSOCOM officials (marked as "(U) [Non-DoD Source]" — unclassified)
-5. **IDIQ Contract 1305M226D0012** — Ongoing market research and SOW (Statement of Work) review with Krateo Sky; Bob Smith, LisaMarie Cheney actively engaged
-6. **Call Friday** — Internal/external coordination call involving ByLight, Ethan Domagala, Daniel Prendergast
-
-### Recurring Subject Themes
-- Technical support/configuration questions (CAN bus, RF systems)
-- Contract management and SOW reviews
-- Meeting/call coordination
-- Sensor/UAS platform inquiries
-- Government proposal/RFI responses
-- Internal coordination (COO Brief shared via Google Docs)
-
-## Communication Patterns
-
-### Timing
-- **Heavily concentrated:** 3 Aug 2026 (27 of 29 new messages)
-- **Time zones:** Mixed UTC and US Mountain/Eastern times; suggests distributed team
-- **Response velocity:** Same-day multi-response threads (e.g., Nightfox CAN bus thread: 5 exchanges in ~90 minutes at 11:46–12:53 CDT)
-
-### Email Categories
-- Many messages marked **[IMPORTANT]** — indicates priority filtering/flagging in use
-- Automated notifications: McMaster-Carr, Amazon, UPS, Harbor Freight, Snarf's Sandwiches (purchasing channel)
-- Google Docs sharing (document collaboration active)
-
-### Mailing Lists/Groups
-- "Purchasing@blackswifttech.com" — receives vendor/purchasing notifications
-- "Black Swift" distribution (Snarf's Sandwiches order)
-- No evidence of broad newsletter subscriptions
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Daniel Prendergast** — Primary internal coordinator; bridges technical discussions (Nightfox, RFI S0) with external partners (USSOCOM, ByLight); appears to be senior or central figure
-2. **Jack Elston** — Technical colleague; involved in document sharing and Nightfox discussions
-3. **Joshua Fromm** — Call/meeting coordination
-
-### Key External Relationships (by intensity)
-1. **Joey Taylor (NOAA)** — Active technical collaboration; Maciej responding rapidly to configuration questions
-2. **Krateo Sky partnership** — Multi-stakeholder engagement on major IDIQ contract; appears to be strategic partnership
-3. **University of Colorado research team** — Academic collaboration on RF/sUAS work
-4. **ByLight Partners** — Commercial partner/vendor on call coordination
-5. **USSOCOM** — Government customer/partner for RFI S0 response (via Daniel Prendergast)
-6. **Creative Alignments** — Onsite sync event coordination (BST & Krateo Sky joint activity)
-
-## Notable Observations
-
-1. **Rapid escalation pattern:** Nightfox technical thread shows escalation from Joey Taylor → Maciej → internal team (Daniel, Jack, Michael Rhodes) within same morning, suggesting structured technical escalation process
-
-2. **Strategic contract activity:** IDIQ Contract 1305M226D0012 with Krateo Sky appears to be significant; involves SOW review and "market research" — likely a major partnership or subcontract
-
-3. **Government engagement tier:** Direct engagement with USSOCOM officials on classified/controlled materials (marked with "(U)" — unclassified designation) suggests DoD/government sales or partnerships at officer level
-
-4. **Multi-disciplinary work:** Email footprint spans hardware/avionics (Nightfox/CAN bus), geospatial research (RF soil moisture), arctic operations, and government proposal work — indicates BST operates across multiple technical domains
-
-5. **Breakfast coordination with Krateo Sky:** Email to Krateo Sky team on "breakfast options" (3 Aug, 18:27) suggests in-person meetings occurring; may coincide with Creative Alignments onsite sync mentioned in Hadley Solomon email
-
-6. **Document collaboration active:** Google Docs shared (COO Brief) indicates real-time collaborative planning underway
-
-7. **Vendor/supply chain activity:** McMaster-Carr, Amazon orders suggest active hardware procurement cycle (components for development/prototyping)
+1. **S0 Platform Development & Evaluation** — Central focus; appears in 20+ subject lines
+   - S0 COTS WAIVER (Navy NAWCAD evaluation)
+   - S0 cold-weather performance (Canadian engineer inquiry)
+   - S0 procurement (NASA LaRC interest)
+   - S0 data from LALA (operational data analysis)
+   - S0-AD Development Options (USSOCOM strategic)
+   - S0 availability (university inquiry)
+   - S0 UAS Taiwan commercial inquiry (VTOL & air-deployed

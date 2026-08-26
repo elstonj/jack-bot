@@ -16,7 +16,7 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 - **Meredith Needham** - Project coordination, regulatory/medical documentation
 - **Mike Ekdahl** - Sod Farm site manager and contact
 
-**Activity Level:** Extensive (3,885 messages across ~5 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns.
+**Activity Level:** Extensive (3,885+ messages across ~6 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns; ongoing through August 2026.
 
 ## Key Decisions
 
@@ -72,11 +72,15 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 
 **Future Design Decision** - E3 aircraft development will maintain battery packs under 300Wh limit to enable ground shipping alternatives and avoid hazmat complications. Identified Aeronet Worldwide as viable commercial battery shipping option.
 
+### Battery Management Protocol (August 2026)
+
+**August 17, 2026** - Established formal voltage management protocol for E2 battery testing and operations: no lower-end voltage guard implemented, requiring careful monitoring to prevent battery damage. Jack Elston and Eryan Mecham coordinated communication to OMS partner regarding safe voltage thresholds during ground and mobile testing phases.
+
 ## Projects & Initiatives
 
 ### Core Soil Moisture Mapping Payload (2020-2025) - **ACTIVE**
 
-**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025).
+**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025). Continuing field deployment and customer testing through 2026.
 
 **Technical Configuration:**
 - LDCR radiometer (multiple revisions: RevC, C2, RevD) with dual antenna feeds
@@ -84,13 +88,4 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 - NDVI/thermal sensor suite (Apogee S2-411-SS, S2-412-SS; Melexis MLX90614ESF)
 - Raspberry Pi Zero logging architecture
 - DB9 connector interface between NDVI housing and back-end housing
-- Signal lines: 24VDC, GND, SDI-12 (NDVI), UART RX/TX, I2C (thermal), 5VDC
-
-**Current Capabilities:**
-- Brightness temperature mapping from radiometer (water ~180K, dry ground 240K+)
-- Volumetric soil moisture approximation without full deconvolution
-- Multi-spectral orthomosaic generation via Solvi platform
-- Real-time heat map analysis (<1 hour turnaround for field operations)
-
-**Deployed Systems:**
-- S2
+- Signal lines: 24VDC, GND, SDI-12 (NDVI), UART RX

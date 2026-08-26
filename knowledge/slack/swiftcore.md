@@ -3,7 +3,7 @@
 ## Overview
 This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 25+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, and Alex Lomis.
 
-**Key Participants:** Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory, Dan Prendergast, Caleb Bishop, Alex Lomis
+**Key Participants:** Jack Elston (autopilot/firmware lead), Ben Busby (comms/GCS/tablet app), Maciej (autopilot/VTOL), Dan Prendergast, Jack Elston, and other team members
 
 **Activity Level:** Highly active with daily technical discussions, bug reports, and project coordination
 
@@ -113,4 +113,3 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Final Configuration Approved (July 10, 2026):**
   - Platform: GW7200 board in same setup as rack-mounted stations
   - Components: High precision GPS, USB wifi card, USB+FTDI for P900 radio (allows easier radio swaps), USB to OpenUPS board (NOT SMBUS)
-  - Power management: Open

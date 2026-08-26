@@ -4,14 +4,14 @@
     "(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2026-07-01",
-    "end": "2026-07-02"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 106.29,
+    "expenses": 205.45,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 106.29
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 205.45
     }
   },
   "invoices": [],
@@ -19,19 +19,55 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-01",
-      "doc_number": "100145658",
-      "total": 106.29,
-      "attributed": 106.29,
+      "date": "2026-08-10",
+      "doc_number": "",
+      "total": 61.34,
+      "attributed": 61.34,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
+      "memo": "AMAZON MKTPL*569TW5WZ0 - 4617",
       "lines": [
         {
-          "amount": 106.29,
+          "amount": 61.34,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "HEATSINK PWR DUAL BLACK T"
+          "description": "YUANQIMM TZe-611 6mm TZe TZ Yellow Tape;  Replacement for Brother P Touch Label Maker"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-06",
+      "doc_number": "",
+      "total": 89.45,
+      "attributed": 89.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*561TZ33Q1 - 4617",
+      "lines": [
+        {
+          "amount": 89.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "5 Quick Release Plate, Camera Tripod Mount x 5"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-05",
+      "doc_number": "",
+      "total": 54.66,
+      "attributed": 54.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* 564AD0472 - 4617",
+      "lines": [
+        {
+          "amount": 54.66,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Blue Sea Systems 3\u2011Position Mini Battery Switch, Red, 6008 m\u2011Series"
         }
       ]
     }

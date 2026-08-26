@@ -1,80 +1,100 @@
 # Josh Fromm — Email Patterns
 
+**UPDATED: Aug 26, 2026**
+
+---
+
 ## Communication Volume
-- **Total: 852 messages** scanned across ~24 days (Jul 12-Aug 4, 2026)
-- Average ~35.5 messages/day
-- **Latest data window (Aug 3-4)**: 63 new messages; **heavy government contracting activity, manufacturing fulfillment completion, multi-sensor camera procurement surge, and internal team coordination**
-- **Pattern observation**: Aug 3 marks inflection point—sustained government RFI/contracting engagement (USSOCOM), Nightfox CAN bus technical thread escalation, camera/sensor equipment delivery completion, and internal weekly team meetings
+- **Total: 952 messages** scanned across ~45 days (Jul 12–Aug 26, 2026)
+- Average ~21 messages/day (recent window lower than Jul 12–Aug 4 peak)
+- **Latest data window (Aug 24–26)**: 100 new messages; **heavy manufacturing procurement/fulfillment, NOAA operational engagement, Krateo partnership interviews, internal team coordination**
+- **Pattern observation**: Sustained high-volume automated supplier notifications (GetFPV, 3DR, DigiKey, MKS Servos, SendCutSend, Rock West Composites); concurrent real-time CNC order follow-up with Best in Parts; NOAA wave data analysis collaboration escalation
+
+---
 
 ## Key Correspondents
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
-**Government / External Strategic Partners**
-1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence** — Merlin Mk2/US Navy SBIR program (last contact Jul 31); **ongoing high-priority UK/US naval aviation engagement**
-2. **Olivia Bakos** (olivia.bakos@nominal.io) — **Nominal** (flight software/dynamics analysis platform) — Aug 3 technical inquiry on pre-integration patterns; **new external technical partnership**
-3. **Samantha** (Samantha@bestinparts.com) — **Best in Parts** — Multi-exchange CNC order BST260728-B16306; Aug 4 follow-up; **sustained manufacturing partner**
+**Government / Strategic Partners**
+1. **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal** — **NEW ESCALATION AUG 26**: AL96 tropical event real-time UAS coordination meeting invite (8:30am MDT); wave data & dual UAS plotting thread with Maciej Stachura (Aug 25); **operational hurricane/weather mission engagement**
+2. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — **UK Ministry of Defence** — Merlin Mk2/US Navy SBIR program (ongoing from Jul 31)
+3. **Wesley R. Enos** (wesley.r.enos@nasa.gov) — **NASA ARC-QS** — S2 platform technical coordination; replied to Daniel Prendergast escalation (Aug 25); **continued NASA platform development engagement**
 
-**Internal Leadership & Escalation**
-1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — Weekly internal team meeting coordination (Aug 3); IDIQ/Krateo partnerships; escalation channel
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **CRITICAL**: Forwarded government RFI communications; USSOCOM coordination; Nightfox CAN bus thread lead; IDIQ contract planning; **primary technical/government liaison**
+**Internal Leadership & Technical**
+1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — Out-of-office notice on Aug 25 (limited comms re: "New Delivery Order/30 Platforms"); forwarded NOAA contract task order comms (Aug 24); **elevated delivery/platform scale activity**
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Gov/technical liaison — NASA S2 thread escalation with Wesley Enos (Aug 24-25)
+3. **Maciej Stachura** (stachura@blackswifttech.com) — **Nightfox CAN bus / NOAA integration lead** — Wave data/dual UAS plots discussion with Joe Cione (Aug 25); looped into AL96 tropical event meeting invite
 
-**Government Contacts (Via Daniel Prendergast Forwarding)**
-- **Hannah D. Lyness** (hannah.d.lyness.mil@socom.mil) — **US SOCOM** — RFI S0 response coordination (Aug 3); **NEW: Direct government requester engagement**
-- **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — **US SOCOM** — RFI S0 response coordination (Aug 3)
-- **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — **US SOCOM** — RFI S0 response coordination (Aug 3)
+**Manufacturing / Supply Chain**
+1. **Samantha** (Samantha@bestinparts.com) — **Best in Parts** — **Heavy back-and-forth Aug 24-26**: 11+ exchange chain on CNC parts order BST260728-B16306; **sustained production pressure/fulfillment urgency**
+2. **Don Spinozzi** (d.spinozzi@krateosky.com) — **Krateo Sky** — Interview scheduled for Aug 25; Teams meeting invite; **direct partnership development/hiring engagement**
 
-**Technical Partnerships**
-1. **Maciej Stachura** (stachura@blackswifttech.com) — **Nightfox CAN bus technical lead** — Multi-threaded technical discussion with NOAA (Joey Taylor) and University of Colorado (Michael Rhodes) on Aug 3; **autonomous flight platform integration focus**
-2. **Joey Taylor** (joey.taylor@noaa.gov) — **NOAA Affiliate** — Real-time Nightfox CAN bus configuration troubleshooting (Aug 3, 6+ exchanges same day); **active technical partner on autonomous platform**
-3. **Michael Rhodes** (michael.e.rhodes@colorado.edu) — **University of Colorado** — Nightfox CAN bus technical escalation (Aug 3); **academic/research collaboration**
+**External Technical/Defense**
+1. **Nicholas Ingarra** (ningarra@munrodefense.com) — **Munro Defense** — Fuel cell replacement inquiry for 12S-4P battery system (Aug 25); **power system architecture review**
 
-**External Manufacturing/Procurement**
-1. **Marlo** (marlo@k-mac-plastics.net) — **K-Mac Plastics** — G10/FR4 material quote (Aug 3); **structural/composite materials supplier**
-2. **Bob Smith** (Bob@krateosky.com) — **Krateo Sky** — IDIQ Contract 1305M226D0012 planning (Daniel Prendergast conduit Aug 3); **government integration partner**
-3. **LisaMarie Cheney** (LisaMarie@krateosky.com) — **Krateo Sky** — IDIQ SOW review coordination (Aug 3); **contract operations contact**
+**Vendor Notifications (Via purchasing@blackswifttech.com)**
+- **3DR** (info@3dr.com) — 3x notifications Aug 25 (order confirmation, shipment, welcome); **new UAS platform/autopilot vendor integration**
+- **GetFPV** — 2x notifications Aug 25 (order confirmation, shipment); **FPV/drone component procurement**
+- **Dronetag** (dronetag s.r.o.) — Payment accepted & receipt Aug 25; **drone identification/compliance system**
+- **SendCutSend** — Shipment in transit Aug 25; **sheet metal/fabrication ongoing**
+- **MKS Servos USA** — 2x order completions Aug 24; **servo/actuation system procurement**
+- **DigiKey** — Multiple orders confirmed/shipped Aug 25; **bulk electronics/components**
+- **McMaster-Carr** — Order confirmation Aug 25; order receipt Aug 26
+- **Rock West Composites** — Invoice & shipment confirmations Aug 25; **composite materials delivery**
 
-### Routed Via Purchasing (purchasing@blackswifttech.com) — FULFILLMENT & SUPPLY CHAIN Aug 3-4
-
-**Shipping/Logistics Notifications - Aug 3 (High Volume)**
-- **Amazon.com** — **Multiple camera/sensor deliveries**: 8 Camera + Toy items delivered; 5 Camera items ordered; 2 Toy items delivered; 2 Hardware items ordered; 1 Essentials item delivered (Aug 3, 18:03-18:15 UTC); **indicates comprehensive multi-camera payload integration or redundant vision system expansion**
-- **SendCutSend** — Sheet metal order ST61Q172 delivered (Aug 3, 17:51 UTC); **fabrication component supply chain active**
-- **Rocketman Parachutes** — Order #1817 shipment delivered (Aug 3, 18:28 UTC); **recovery/safety system deployment**
-- **UPS** — Multiple package deliveries (Aug 3-4); daily logistics routing
-- **McMaster-Carr** — 3x orders confirmed/tracked/shipped (Aug 3, 14:29-16:18 UTC); **bulk component procurement**
-- **Mouser Electronics** — Order PO 40026106 confirmed with **TARIFF DETAILS** (Aug 3, 16:33 UTC); **indicates international/duty-impacted electronics sourcing**
-
-**Supplier Confirmations & Notifications**
-- **Battery Junction** — Product review/promotional (Aug 3)
-- **GensTattu** — Battery/power system product review invitation (Aug 3)
-- **ELEGOO US** — Electronics/component flash sale (Aug 3)
-- **Snarf's Sandwiches** — Group order/corporate meal (Aug 3, 16:46-17:10 UTC); **team coordination/meeting logistics**
-- **SAP Business Network** — Webinar invitation via purchasing (Aug 3)
-
-**Automated/Administrative**
-- **Asana** — 3x unread notifications (Aug 3-4); **project management platform activity**
-- **Human Interest** — 401(k) contribution processing (Jul 31-Aug 2)
-- **UnitedHealthcare** — Coverage/benefits notifications (Aug 1, 3)
-
-**Promotional/Personal**
-- **AliExpress**, **Birdcall**, **Expedia**, **Boulder Parks & Recreation**, **DigiKey**, **UAS VISION** (daily news) — Low-signal subscriptions/newsletters
+---
 
 ## Topic Patterns
 
-### Government / Strategic Programs - NEW/ACTIVE Aug 3
+### Government / Strategic Programs
 
-**USSOCOM RFI S0 Response (NEW - Aug 3)**
-- **Contacts**: Hannah D. Lyness (hannah.d.lyness.mil@socom.mil), Evan M. Wolff (evan.m.wolff.mil@socom.mil), Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil)
-- **Status**: Active response coordination; Daniel Prendergast forwarded to Josh Fromm; multi-party internal discussion
-- **Significance**: **Direct US Special Operations Command engagement**; RFI indicates active government procurement/requirements solicitation
-- **Subject flag**: "(U) [Non-DoD Source]" — unclassified, third-party vendor response protocol
+**NOAA Real-Time Operational Engagement (CRITICAL — NEW Aug 25-26)**
+- **Context**: AL96 tropical event (hurricane-related designation)
+- **Meeting**: Aug 26, 8:30am–9am MDT meeting invite from Joe Cione
+- **Participants**: Annette Hollingshead, Mark DeMaria, Lisa Bucci, Mark Rogers, Danielle Varwig, Steven Feuer, Jun Zhang, Laura Rock, Joshua Wadler (ERAU), Zhan Zhang, Heather Holbach, Maciej Stachura (BST)
+- **Content**: "Wave data and dual UAS plots" — real-time atmospheric/oceanographic data collection
+- **Significance**: **BST UAS deployed for active government weather/hurricane mission ops**; coordination with NOAA federal scientists and ERAU partner
 
-**Nightfox CAN Bus Configuration (NEW - Aug 3, CRITICAL)**
-- **Lead**: Maciej Stachura (BST)
-- **External Partners**: Joey Taylor (NOAA), Michael Rhodes (University of Colorado)
-- **Activity**: **6+ exchanges same day Aug 3 (11:46am-17:16 UTC)**; real-time technical troubleshooting on CAN bus (Controller Area Network) vehicle communication protocol
-- **Significance**: **Autonomous flight platform integration**; CAN bus critical for sensor/motor control on UAS platforms
-- **Escalation**: Jack Elston (CEO) and Daniel Prendergast looped into thread; indicates high-priority technical blocker or program risk
+**NASA S2 Platform Development (ONGOING)**
+- **Contact**: Wesley R. Enos (NASA ARC-QS)
+- **Thread**: Daniel Prendergast (Aug 24) forwarded to Josh Fromm; Enos responded directly (Aug 25)
+- **Topic**: BST-NASA S2 technical coordination
+- **Significance**: Continued S2 platform technical evolution with NASA Ames
 
-**Krateo Sky IDIQ Contract 1305M226D0012 (ONGOING)**
-- **Contacts**: Bob Smith, LisaMarie Cheney (Krateo Sky); Daniel P
+**Krateo Sky IDIQ / Partnership Escalation**
+- **Contacts**: Don Spinozzi (d.spinozzi@krateosky.com); prior: Bob Smith, LisaMarie Cheney
+- **Activity**: Direct interview scheduling (Aug 25 — "Interview tomorrow"); Teams meeting invite; **indicates direct personnel/partnership deepening with Krateo**
+- **IDIQ Contract**: 1305M226D0012 (ongoing from prior window)
+
+### Manufacturing & Production (SUSTAINED HIGH ACTIVITY)
+
+**CNC Parts Order BST260728-B16306 (CRITICAL FULFILLMENT)**
+- **Vendor**: Best in Parts (Samantha)
+- **Activity**: **11+ email exchanges Aug 24-26**; Josh Fromm personally engaged in follow-up/escalation
+- **Pattern**: Multi-threaded discussion (visible in subject line "Re: Re: Re: RE...") suggests **delivery delays, quality issues, or urgent scheduling**
+- **Significance**: **Active production constraint or critical path item**
+
+**Multi-Sensor Procurement Surge (Aug 25)**
+- **3DR**: Order confirmation, shipment notification (autopilot/flight control)
+- **GetFPV**: Order confirmation, shipment (FPV/sensor payload)
+- **Dronetag**: Payment accepted (drone identification system)
+- **K-Mac Plastics** (from prior): G10/FR4 structural materials
+- **Rock West Composites**: Invoice & shipment confirmation (composite airframe materials)
+- **SendCutSend**: Sheet metal fabrication shipment (structural components)
+- **Pattern**: **Simultaneous delivery of multi-platform components**; indicates **new production batch assembly, redundant systems deployment, or 30-unit delivery order (mentioned Aug 25 Jack Elston email "New Delivery Order/30 Platforms")**
+
+**Electronics & Power Systems (ACTIVE)**
+- **Dronetag** — Drone identification/compliance
+- **MKS Servos USA** — 2x orders completed (servo/actuation)
+- **GetFPV** — FPV drone electronics
+- **3DR** — Flight control/autopilot systems
+- **DigiKey** — General electronics (Aug 25 multiple orders)
+- **Luxonis** — Vision/depth camera systems introduction (Aug 25)
+- **McMaster-Carr, Rock West Composites** — Structural materials
+- **Rocketman Parachutes** (from prior) — Recovery systems
+- **Fuel cell discussion** (Aug 25 Nicholas Ingarra) — Power system alternatives
+
+### Internal Team Coordination
+
+**Working Meeting

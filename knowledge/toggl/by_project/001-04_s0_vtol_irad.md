@@ -4,50 +4,62 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active: Yes
 - Billable: No
-- Total hours tracked: **1,389.4 hours** (+2.5 hours)
+- Total hours tracked: **1,591.5 hours** (+202.1 hours)
 
 ## Team Allocation
-- **Alex**: 1,197.6 hours (86.1% - Primary contributor)
-- **Sam Hild**: 79.2 hours (5.7%)
-- **Andy**: 84.8 hours (6.1%)
-- **Spencer Hoehl**: 5.6 hours (0.4%) +2.5h
-- **Jack Elston**: 7.7 hours (0.6%)
-- **Nate**: 6.0 hours (0.4%)
-- **Ethan Domagala**: 4.5 hours (0.3%)
+- **Alex**: 1,279.3 hours (80.4% - Primary contributor)
+- **Sam Hild**: 145.8 hours (9.2%)
+- **Andy**: 84.8 hours (5.3%)
+- **Jack Elston**: 33.7 hours (2.1%) +26.0h
+- **Spencer Hoehl**: 17.1 hours (1.1%) +11.5h
+- **Nate**: 16.2 hours (1.0%) +10.2h
+- **Ethan Domagala**: 13.0 hours (0.8%) +8.5h
 - **Stachura**: 3.0 hours (0.2%)
-- **Josh Fromm**: 0.7 hours (0.1%)
+- **Josh Fromm**: 0.7 hours (<0.1%)
 - **Chase Rupprecht**: 0.2 hours (<0.1%)
 
-Alex remains the exclusive and dominant primary contributor. Spencer Hoehl's allocation has grown incrementally to 5.6 hours total (3.1h → 5.6h).
+**Notable shift**: Sam Hild's allocation jumped significantly (+66.6h). Jack Elston and Spencer Hoehl now active contributors with meaningful hours.
 
 ## Activity Timeline
-Recent work entries show continuation of established pattern:
-- **Spencer Hoehl**: 2.5 hours — *(no description provided)* ⚠️
 
-Established patterns remain stable:
-- **Alex**: Ongoing primary work (assembly, design, fabrication focus)
-- **Sam Hild**: Dedicated testing/systems integration workstream (79.2 hours cumulative)
-- **Spencer Hoehl**: Growing allocation with continuing documentation gaps
+**Recent work entries (this batch):**
+- **Jack Elston**: 26.0 hours — Firmware debugging (10.3h), Flight Testing (9.2h), integrated debugging & flight testing (5.0h)
+- **Sam Hild**: 66.6 hours — Primarily undocumented (65.5h). One documented entry: "Mags Bug" (2.7h)
+- **Spencer Hoehl**: 11.5 hours — All undocumented (5.1h documented task: none)
+- **Alex**: 81.7 hours — All undocumented
+- **Nate**: 10.2 hours — All undocumented
+- **Ethan Domagala**: 8.5 hours — MHP Tubes (8.1h total: cutting 1.2h, general 2.5h, laser wiring 3.0h)
+
+**Work pattern observation**: Recent entries show **dramatic degradation in documentation quality**. This batch contains 88% undocumented entries (178/202 hours), concentrated among highest-hour contributors (Alex, Sam Hild, Spencer Hoehl, Nate).
 
 ## Insights
 
 **Types of work being done:**
-- Assembly and fabrication (primary ongoing focus via Alex)
-- CAD design and optimization
-- Parts manufacturing and integration
-- Testing and systems integration (parallel workstream via Sam Hild)
-- Hardware systems testing (Autopilot shutdown procedures/validation)
-- Project coordination
+- Firmware development and debugging (Jack Elston focus)
+- Flight testing and vehicle validation (Jack Elston primary)
+- Assembly and fabrication (Alex ongoing)
+- Systems testing and integration (Sam Hild)
+- Hardware fabrication: MHP tube manufacturing and laser wiring integration (Ethan Domagala)
+- Magnetometer systems debugging (Sam Hild - "Mags Bug")
+- Hardware testing and integration (Spencer Hoehl, Nate - work areas unknown due to lack of documentation)
 
 **Notable patterns:**
-- Single-contributor model sustained (Alex at 86.1%)
-- Testing workstream remains isolated and stable (Sam Hild focus)
-- **⚠️ Critical Issue**: Spencer Hoehl now has 5.6 cumulative hours with **zero task descriptions across all entries**—prevents meaningful workload analysis and role clarity
-- Documentation quality declining for new team member entries
-- Sam Hild entries maintain strong task-level documentation
+- **⚠️ CRITICAL: Documentation collapse** — 88% of this batch lacks task descriptions. Previous knowledge file highlighted documentation concerns; situation has worsened significantly.
+- Jack Elston emerged as active firmware/flight testing contributor (26h this period)
+- Sam Hild workload more than doubled (+66.6h), but 98.5% undocumented
+- Spencer Hoehl continues to accumulate hours (now 17.1h cumulative) with **100% zero task descriptions across entire project history**
+- Alex maintains dominant allocation but contribution type unclear (all entries undocumented)
+- Testing workstream expanding (Jack Elston flight testing, Sam Hild systems work)
+
+**Critical Issues:**
+1. **URGENT**: Systematic documentation failure across all high-hour contributors (Alex, Sam Hild). Cannot assess work types, blockers, or project progress.
+2. **ONGOING**: Spencer Hoehl remains completely undocumented (17.1h cumulative with zero task clarity)
+3. **NEW**: Nate now has 16.2h cumulative—role and responsibilities unknown
+4. Jack Elston is **only contributor with consistent, detailed task documentation**—model best practice for others
 
 **Recommendations:**
-1. **URGENT**: Require task descriptions for all Spencer Hoehl entries immediately—cannot assess workload allocation or project contribution without context
-2. Clarify Spencer Hoehl's role and responsibility area (hardware testing? CAD? Assembly support?)
-3. Continue enforcing task-level documentation as mandatory across all team members
-4. Follow up on Spencer Hoehl onboarding—5.6 hours without documented context suggests incomplete workflow setup
+1. **Enforce mandatory task descriptions immediately**—current state prevents meaningful project tracking and workload analysis
+2. **Audit Sam Hild's recent work (66.6h)**—clarify focus areas and resource allocation priorities
+3. **Assign clear role definitions for Spencer Hoehl and Nate** with documented workstreams
+4. **Escalate documentation compliance**—current 88% undocumented rate is unacceptable for active project tracking
+5. Continue Jack Elston's documentation approach as team standard

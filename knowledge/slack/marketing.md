@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering)
 
-**Activity level:** High frequency discussions across June 2024-July 2026 period, with multiple concurrent projects in various stages. Most recent activity (July 31, 2026) shows ongoing website development including new careers page, with continued focus on visual assets and presentation materials.
+**Activity level:** High frequency discussions across June 2024-August 2026 period, with multiple concurrent projects in various stages. Most recent activity (August 25, 2026) shows active website development including new careers page and Aeropods product site, with continued focus on product naming, market positioning, and digital advertising strategy.
 
 ---
 
@@ -117,5 +117,4 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Implications: Marketing materials should be updated to reflect S2 EOL status and prepare for S3 product launch communications
 
 ### S0 VTOL Wildfire Visualizer Video Text Corrections (May 8, 2026)
-- Paige Smith created two versions (with and without captions) of S0 VTOL Wildfire Visualizer content
-- **Jack's required text corrections:** Change "accelerating at over
+- Paige Smith created two versions (with and without captions) of S0 VT

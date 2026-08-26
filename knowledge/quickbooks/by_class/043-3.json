@@ -4,16 +4,15 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-07-07",
-    "end": "2026-07-08"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 79.92,
+    "expenses": 886.63,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 76.85,
-      "FACILITIES:FA-Shop Supplies": 2.58,
-      "Inventory Asset": 0.49
+      "DIRECT COSTS:DC-Direct Material Purchases": 879.32,
+      "FACILITIES:FA-Shop Supplies": 7.31
     }
   },
   "invoices": [],
@@ -21,52 +20,101 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-07",
-      "doc_number": "",
-      "total": 296.48,
-      "attributed": 15.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana Request - project listed under each item purchased",
-      "lines": [
-        {
-          "amount": 15.52,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 49.38,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        },
-        {
-          "amount": 222.22,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        },
-        {
-          "amount": 9.36,
-          "account": "Inventory Asset",
-          "description": "future s3 sales"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-07",
-      "doc_number": "0707JELSTON",
-      "total": 64.4,
-      "attributed": 64.4,
+      "date": "2026-08-25",
+      "doc_number": "0825JELSTON",
+      "total": 26.38,
+      "attributed": 26.38,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 64.4,
+          "amount": 26.38,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "Torsion Spring"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-19",
+      "doc_number": "0818JELSTON",
+      "total": 129.95,
+      "attributed": 7.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase and listed project under items. First two items are listed, remaining items are shop supplies (confirmed by J. Fromm)",
+      "lines": [
+        {
+          "amount": 1.14,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Chemical-Resistant Slippery PTFE Rod 3/16\""
+        },
+        {
+          "amount": 7.85,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw"
+        },
+        {
+          "amount": 120.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Brass Industrial Quick-Disconnect Hose Coupling"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 130.49,
+      "attributed": 130.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 130.49,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Fastners"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-05",
+      "doc_number": "",
+      "total": 345.09,
+      "attributed": 345.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4617",
+      "lines": [
+        {
+          "amount": 345.09,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Distance Sensor Modules"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "40026106",
+      "total": 376.82,
+      "attributed": 376.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 376.82,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Distance Sensor Modules - Enclosed SF20/C 100 m Rangefinder OEM Module"
         }
       ]
     }

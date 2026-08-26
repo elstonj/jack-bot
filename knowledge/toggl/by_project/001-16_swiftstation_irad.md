@@ -4,14 +4,15 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active: Yes
 - Billable: No
-- Total hours tracked: 905.3 hours
+- Total hours tracked: 917.3 hours
 
 ## Team Allocation
-- **Sam Hild**: 702.7 hours (77.6% - Primary contributor)
-- **Sriraj**: 139.5 hours (15.4%)
+- **Sam Hild**: 702.7 hours (76.6% - Primary contributor)
+- **Sriraj**: 139.5 hours (15.2%)
 - **Dani Urbina**: 43.9 hours (4.8%)
+- **Alex**: 12.0 hours (1.3%)
+- **Ethan Domagala**: 4.0 hours (0.4%)
 - **Jake Sahli**: 14.0 hours (1.5%)
-- **Alex**: 4.0 hours (0.4%)
 - **Andy**: 1.3 hours (<0.1%)
 
 ## Activity Timeline
@@ -34,7 +35,10 @@ Recent work shows active development across multiple team members:
 - Company profile updates on Sourcehere platform
 - Market research on competitor profiles
 
-**Alex** (New contributor):
+**Alex** (Software/Engineering):
+- 12.0 hours tracked (descriptions not provided)
+
+**Ethan Domagala** (New Contributor):
 - 4.0 hours tracked (no description provided)
 
 ## Insights
@@ -42,5 +46,6 @@ Recent work shows active development across multiple team members:
 - **Multi-domain development**: Combining UAV ground control, environmental sensors (weather, NDVI), and cellular communications
 - **Systematic approach**: Clear progression from component development through integration to testing
 - **Agricultural/environmental focus**: NDVI sensor work suggests applications in precision agriculture or environmental monitoring
-- **Documentation gaps**: High percentage of entries lack descriptions, particularly from primary contributor Sam Hild and new contributor Alex
-- **Team expansion**: Alex has recently joined the project with 4 hours tracked
+- **Team expansion accelerating**: Alex's hours have tripled (4.0 → 12.0 hours), and Ethan Domagala is a new addition to the project
+- **Documentation gaps persist**: Recent entries from Alex and Ethan Domagala lack descriptions; improving logging would aid knowledge transfer
+- **Primary contributor remains stable**: Sam Hild's contribution percentage declined slightly (77.6% → 76.6%) due to new team members onboarding

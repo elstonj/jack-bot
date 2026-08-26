@@ -4,14 +4,14 @@
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 55.2 hours
+- **Total Hours Tracked:** 66.2 hours
 
 ## Team Allocation
 | Team Member | Hours | Percentage |
 |---|---|---|
-| Nate | 39.0 | 71% |
-| Ethan Domagala | 14.0 | 25% |
-| Stachura | 2.1 | 4% |
+| Nate | 50.0 | 76% |
+| Ethan Domagala | 14.0 | 21% |
+| Stachura | 2.1 | 3% |
 
 **Primary Contributor:** Nate
 
@@ -24,6 +24,10 @@ Recent work entries (chronological order of activity types):
 - Nate: 8.5h on build make fly easy hero Krateo
 - Nate: 4.2h on goflyeasyhero Krateo
 
+**Facility & Shop Operations:**
+- Nate: 2.0h + 2.0h + 0.5h = 4.5h on shop setup *(new focus area)*
+- Nate: 3.0h + 2.0h + 1.5h = 6.5h on Munro *(new focus area)*
+
 **Operations & Administration:**
 - Nate: 3.0h on Parts inventory
 - Nate: 1.2h + 1.0h + 2.0h + 1.0h + 1.0h + 1.0h + 1.0h + 1.0h + 1.0h + 2.0h = 12.2h on emails *(includes visitor, communications)*
@@ -31,14 +35,14 @@ Recent work entries (chronological order of activity types):
 - Ethan: 0.8h + 0.5h + 0.5h = 1.8h on Weekly meeting
 - Ethan: 0.5h on Volcano Meeting
 - Ethan: 0.5h on Shop Cleanup
-- **Nate: 1.0h on beer** *(social/informal)*
+- Nate: 1.0h on beer *(social/informal)*
 
 **Unspecified/Other:**
 - Stachura: 2.1h (no description)
 
 ## Insights
-- **Primary Focus:** Krateo development remains dominant at 20.7 of 55.2 hours (37%) across all Krateo-related work. MakeFlyEasy/Krateo build activities represent ~56% combined effort
-- **Work Distribution:** Nate continues concentrated focus on Krateo development while managing operational duties; Ethan maintaining recurring meeting participation with consistent weekly engagement; Stachura participation unchanged
-- **Communication & Administrative Overhead:** Administrative burden stable at 16.5 hours (30% of effort), including recurring weekly meetings and informal team activities
-- **Facility Maintenance:** Ethan supporting workspace operations
-- **Internal R&D:** Non-billable IRAD investment focused on Krateo platform development and MakeFlyEasy initiatives with regular stakeholder sync cadence (weekly meetings established pattern)
+- **Shifting Work Patterns:** New entries indicate shift from pure Krateo development toward facility/shop operations. Munro (6.5h) and shop setup (4.5h) now represent 11 of last 11 hours tracked—potential project pivot or parallel initiative
+- **Primary Focus Evolution:** Krateo development remains significant historical effort (20.7h, 31% of total), but recent activity suggests operational/facility work is now prioritized
+- **Nate's Expanded Role:** Continuing to concentrate effort across development, operations, and now facility management (11.0h in this batch)
+- **Team Stability:** Ethan and Stachura participation unchanged; no new team members engaged
+- **Administrative Overhead:** Remains stable at ~30% of overall effort
