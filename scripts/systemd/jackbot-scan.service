@@ -1,0 +1,18 @@
+[Unit]
+Description=Jack Bot nightly knowledge scan
+Documentation=file:///home/elstonj/Documents/jack_bot/CLAUDE.md
+# The scan hits Asana, Toggl, Google and Slack, then pushes to GitHub. Starting
+# before the network is up would just burn a run on connection errors.
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/home/elstonj/Documents/jack_bot/scripts/nightly_scan.sh
+WorkingDirectory=/home/elstonj/Documents/jack_bot
+# The script sources .env and activates its own venv; it needs PATH only for
+# git (the push at the end) and the usual shell utilities.
+Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+# A full incremental scan runs ~20-40 min; cost tracking alone took 721s on the
+# last successful run. Well clear of that, but not unbounded.
+TimeoutStartSec=3h

@@ -1,0 +1,13 @@
+[Unit]
+Description=Jack Bot daily bug/feature digest (07:27 weekdays, catches up after sleep)
+
+[Timer]
+OnCalendar=Mon-Fri 07:27:00
+# Same catch-up reasoning as jackbot-scan.timer. This one also carries the
+# staleness alarm for the scan, so it must not be the thing that silently
+# stops running.
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

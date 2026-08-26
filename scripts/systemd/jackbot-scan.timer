@@ -1,0 +1,15 @@
+[Unit]
+Description=Jack Bot nightly knowledge scan (02:03 daily, catches up after sleep)
+
+[Timer]
+OnCalendar=*-*-* 02:03:00
+# The reason this replaced crontab. The machine is asleep at 02:03, and plain
+# cron simply skips a missed run — which is how the scan stopped silently after
+# 2026-08-04 and left the knowledge files three weeks stale without any alarm.
+# Persistent=true records the last run and fires as soon as possible after the
+# machine wakes, so a missed window becomes a late run instead of no run.
+Persistent=true
+AccuracySec=1min
+
+[Install]
+WantedBy=timers.target

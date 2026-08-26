@@ -1,0 +1,14 @@
+[Unit]
+Description=Jack Bot daily bug/feature digest
+Documentation=file:///home/elstonj/Documents/jack_bot/CLAUDE.md
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+# Absolute venv path on purpose: the crontab entry pointed at .venv/bin/python,
+# which does not exist in this repo, so the digest failed silently for weeks.
+ExecStart=/home/elstonj/Documents/jack_bot/venv/bin/python /home/elstonj/Documents/jack_bot/scripts/daily_digest.py
+WorkingDirectory=/home/elstonj/Documents/jack_bot
+Environment=PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+TimeoutStartSec=30m
