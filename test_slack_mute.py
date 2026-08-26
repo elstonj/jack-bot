@@ -18,6 +18,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 # set it explicitly rather than inheriting whatever .env left behind.
 os.environ.pop("JACKBOT_SLACK_MUTE", None)
 os.environ.pop("JACKBOT_SLACK_MUTE_LOG", None)
+os.environ.pop("JACKBOT_SLACK_REDIRECT", None)
 
 import slack_mute  # noqa: E402
 
@@ -37,6 +38,25 @@ def mute(on):
         os.environ["JACKBOT_SLACK_MUTE"] = "1"
     else:
         os.environ.pop("JACKBOT_SLACK_MUTE", None)
+
+
+def redirect(target):
+    if target:
+        os.environ["JACKBOT_SLACK_REDIRECT"] = target
+    else:
+        os.environ.pop("JACKBOT_SLACK_REDIRECT", None)
+
+
+class FakeClient:
+    """Stands in for WebClient so redirect tests never touch the network."""
+
+    def conversations_info(self, channel):
+        if channel.startswith("D"):
+            return {"channel": {"is_im": True, "user": "U777"}}
+        return {"channel": {"name": {"C_OPS": "operations"}.get(channel, "some-chan")}}
+
+    def users_info(self, user):
+        return {"user": {"real_name": "Alex Lomis"}}
 
 
 def test_is_muted():
@@ -75,6 +95,78 @@ def test_wrap_blocks_and_passes_through():
     check("unmuted: original invoked", len(calls) == 1)
     check("unmuted: real response returned", resp.get("ts") == "real")
     check("unmuted: kwargs forwarded intact", calls[0]["text"] == "real send")
+
+
+def test_redirect():
+    """Every post lands in the target, tagged with where it was headed."""
+    print("\nredirect routing")
+    sent = []
+
+    def original(self, **kwargs):
+        sent.append(kwargs)
+        return {"ok": True, "ts": f"ts{len(sent)}"}
+
+    guarded = slack_mute._wrap("chat_postMessage", original)
+    slack_mute._label_cache.clear()
+    slack_mute._redirected_ts.clear()
+
+    mute(False)
+    redirect("C_KNOW")
+    client = FakeClient()
+
+    guarded(client, channel="C_OPS", text="team summary")
+    check("rerouted to target", sent[-1]["channel"] == "C_KNOW")
+    check("origin channel tagged", "#operations" in sent[-1]["text"])
+    check("body preserved", "team summary" in sent[-1]["text"])
+
+    # A DM reply must be visible without the asker ever receiving it.
+    guarded(client, channel="D123", text="answer to a teammate")
+    check("DM rerouted to target", sent[-1]["channel"] == "C_KNOW")
+    check("DM tagged with person", "DM with Alex Lomis" in sent[-1]["text"])
+
+    # Threading: a child whose parent also landed in the target keeps its
+    # thread_ts; one from a foreign channel must be flattened or Slack rejects it.
+    parent_ts = "ts1"
+    guarded(client, channel="C_OPS", text="child", thread_ts=parent_ts)
+    check("known parent keeps threading", sent[-1].get("thread_ts") == parent_ts)
+    check("threaded child not re-tagged", not sent[-1]["text"].startswith("_[→"))
+
+    guarded(client, channel="C_OPS", text="orphan", thread_ts="9999.0000")
+    check("foreign thread_ts dropped", "thread_ts" not in sent[-1])
+    check("flattened reply is marked", "thread reply" in sent[-1]["text"])
+
+    # Already addressed to the target: leave completely alone.
+    before = len(sent)
+    guarded(client, channel="C_KNOW", text="knowledge entry")
+    check("target-bound post untouched", sent[-1]["text"] == "knowledge entry")
+    check("target-bound post still sent", len(sent) == before + 1)
+
+    # Non-postMessage writes have no meaningful destination; drop them.
+    react = slack_mute._wrap("reactions_add", original)
+    before = len(sent)
+    resp = react(client, channel="C_OPS", name="eyes")
+    check("reaction suppressed under redirect", len(sent) == before)
+    check("reaction returns stub", resp.get("muted") is True)
+
+    redirect(None)
+
+
+def test_mute_beats_redirect():
+    print("\nmute takes precedence over redirect")
+    sent = []
+
+    def original(self, **kwargs):
+        sent.append(kwargs)
+        return {"ok": True, "ts": "x"}
+
+    guarded = slack_mute._wrap("chat_postMessage", original)
+    mute(True)
+    redirect("C_KNOW")
+    resp = guarded(FakeClient(), channel="C_OPS", text="nope")
+    check("nothing sent", sent == [])
+    check("stub returned", resp.get("muted") is True)
+    mute(False)
+    redirect(None)
 
 
 def test_writes_patched_reads_untouched():
@@ -161,6 +253,8 @@ def test_mute_log():
 if __name__ == "__main__":
     test_is_muted()
     test_wrap_blocks_and_passes_through()
+    test_redirect()
+    test_mute_beats_redirect()
     test_writes_patched_reads_untouched()
     test_real_client_suppressed()
     test_store_entry_suppressed()
