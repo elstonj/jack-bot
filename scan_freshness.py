@@ -43,16 +43,44 @@ def last_scan_time(path=None):
     return newest
 
 
-def scan_age_hours(path=None, now=None):
-    """Hours since the last successful scan, or None if unknown."""
-    last = last_scan_time(path)
-    if last is None:
-        return None
+def source_ages(path=None, now=None):
+    """{source: age_in_hours} for every readable timestamp in the state file."""
+    p = Path(path) if path else STATE_PATH
+    try:
+        data = json.loads(p.read_text())
+    except (OSError, ValueError):
+        return {}
     now = now or datetime.now()
-    # Timestamps are written naive-local by the scanners; compare like for like.
-    if last.tzinfo is not None:
-        last = last.replace(tzinfo=None)
-    return (now - last).total_seconds() / 3600.0
+    ages = {}
+    for source, value in (data or {}).items():
+        if not isinstance(value, str):
+            continue
+        try:
+            ts = datetime.fromisoformat(value)
+        except ValueError:
+            continue
+        # Timestamps are written naive-local by the scanners; compare like for like.
+        if ts.tzinfo is not None:
+            ts = ts.replace(tzinfo=None)
+        ages[source] = (now - ts).total_seconds() / 3600.0
+    return ages
+
+
+def scan_age_hours(path=None, now=None):
+    """Age of the STALEST source, or None if unknown.
+
+    Deliberately the oldest and not the newest. `scan.py all` runs the sources
+    in sequence, so a mid-run abort leaves the earlier ones current and every
+    later one untouched — exactly what happened on 2026-08-26, when a DNS blip
+    killed the run at Asana distillation and 13 of 16 sources never executed.
+    Aging the newest timestamp reported "fresh" while most of the knowledge base
+    was three weeks old. A partial scan has to read as stale, because the
+    briefing is only as good as its oldest input.
+    """
+    ages = source_ages(path, now)
+    if not ages:
+        return None
+    return max(ages.values())
 
 
 def staleness_warning(path=None, now=None, threshold_hours=None):
@@ -69,14 +97,31 @@ def staleness_warning(path=None, now=None, threshold_hours=None):
     if age < threshold:
         return None
 
+    ages = source_ages(path, now)
+    stale = sorted(
+        ((s, a) for s, a in ages.items() if a >= threshold),
+        key=lambda kv: kv[1], reverse=True,
+    )
+    fresh_count = len(ages) - len(stale)
     days = age / 24.0
-    last = last_scan_time(path)
-    when = last.strftime("%Y-%m-%d %H:%M") if last else "unknown"
+
+    # Name the stale sources. A partial stall ("13 of 16 sources are three weeks
+    # old") is invisible if the message only reports a single overall age.
+    shown = ", ".join(f"{s} ({a / 24:.0f}d)" for s, a in stale[:6])
+    if len(stale) > 6:
+        shown += f", +{len(stale) - 6} more"
+
+    scope = (
+        f"{len(stale)} of {len(ages)} sources stale"
+        if fresh_count else f"all {len(ages)} sources stale"
+    )
     return (
-        f":rotating_light: *Knowledge scan is {days:.1f} days stale* — last successful "
-        f"run {when}. Briefings, Q&A and the commercial-sales digest are all answering "
-        f"from data that old. Check `systemctl --user status jackbot-scan.timer` and "
-        f"`scripts/nightly_scan.log`."
+        f":rotating_light: *Knowledge scan is stale — {scope}*, oldest {days:.1f} days.\n"
+        f"Stale: {shown}\n"
+        f"Briefings, Q&A and the commercial-sales digest answer from these files. "
+        f"A partial run counts as stale: `scan.py all` runs sources in sequence, so an "
+        f"abort leaves everything after it untouched. "
+        f"Check `journalctl --user -u jackbot-scan.service` and `scripts/nightly_scan.log`."
     )
 
 

@@ -42,16 +42,31 @@ NOW = datetime(2026, 8, 26, 8, 0, 0)
 def test_fresh_is_silent():
     print("\nhealthy scan stays quiet")
     p = write_state(asana=NOW - timedelta(hours=6), slack=NOW - timedelta(hours=5))
-    check("age computed", abs(scan_age_hours(p, NOW) - 5) < 0.1)
+    check("age is the stalest source", abs(scan_age_hours(p, NOW) - 6) < 0.1)
     check("no warning", staleness_warning(p, NOW) is None)
 
 
-def test_newest_source_wins():
-    """One lagging scanner must not raise a false alarm."""
-    print("\nnewest timestamp is the one aged")
-    p = write_state(asana=NOW - timedelta(days=30), slack=NOW - timedelta(hours=2))
-    check("uses newest, not oldest", abs(scan_age_hours(p, NOW) - 2) < 0.1)
-    check("no false alarm", staleness_warning(p, NOW) is None)
+def test_partial_stall_detected():
+    """The 2026-08-26 case: a mid-run abort leaves later sources untouched.
+
+    `scan.py all` died at Asana distillation on a DNS blip. Three sources
+    advanced, thirteen never ran. Aging the NEWEST timestamp reported "fresh"
+    while most of the knowledge base was three weeks old — so the stalest
+    source is what counts.
+    """
+    print("\npartial stall is not 'fresh'")
+    p = write_state(
+        asana=NOW - timedelta(minutes=10),          # ran
+        cost_tracker=NOW - timedelta(minutes=5),    # ran
+        slack=NOW - timedelta(days=22),             # never ran
+        quickbooks=NOW - timedelta(days=24),        # never ran
+    )
+    check("ages the stalest source", abs(scan_age_hours(p, NOW) - 24 * 24) < 1)
+    w = staleness_warning(p, NOW)
+    check("warns despite fresh sources", w is not None)
+    check("counts stale vs total", "2 of 4 sources stale" in (w or ""))
+    check("names a stale source", "quickbooks" in (w or ""))
+    check("does not name a fresh source", "asana" not in (w or ""))
 
 
 def test_stalled_scan_warns():
@@ -60,7 +75,7 @@ def test_stalled_scan_warns():
     w = staleness_warning(p, NOW)
     check("warning produced", w is not None)
     check("states how stale", "21.9 days" in (w or ""))
-    check("names the last run date", "2026-08-04" in (w or ""))
+    check("flags every source stale", "all 1 sources stale" in (w or ""))
     check("says what's affected", "Briefings" in (w or ""))
 
 
@@ -103,7 +118,7 @@ def test_junk_values_ignored():
 
 if __name__ == "__main__":
     test_fresh_is_silent()
-    test_newest_source_wins()
+    test_partial_stall_detected()
     test_stalled_scan_warns()
     test_threshold_boundary()
     test_unreadable_state_warns()
