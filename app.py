@@ -17,6 +17,7 @@ from personality import get_response
 from research_cache import get_full_summary, get_user_summary, is_stale
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
 from knowledge_qa import answer_question
+from provenance import is_provenance_question, answer_provenance
 from finances import get_project_finances
 from channel_context import get_channel_context
 from task_actions import (
@@ -367,6 +368,16 @@ def route_message(message, say, client, user_id, channel_id, event_ts=""):
         user_name = resolve_user_name(client, user_id)
         store_entry(client, "INSIGHT", f"From {user_name}: {message}")
         say("Got it, noted for future reference.")
+    elif is_provenance_question(message):
+        # "How did you know about that email?" / "are you reading my inbox?" /
+        # "explain yourself". Checked ahead of every remaining branch: Q&A has
+        # no knowledge of the pipeline's own data sources and confabulates a
+        # denial, and anything that misses is_question() lands in the
+        # personality handler, which deflects. Both happened to Joshua Fromm on
+        # 2026-08-25 when he asked why a Munro email that was never sent to
+        # Jack showed up in his priorities. Answered from a fixed fact block.
+        asker_name = resolve_user_name(client, user_id)
+        say(answer_provenance(message, asker_name))
     elif cs_channel and channel_id == cs_channel and cs_is_update_intent(message):
         # #commercial-sales: top-level update requests ("add Dan as owner to
         # X", "mark CU IRISS complete", "set ship_to for SOCOM to ..."). These
