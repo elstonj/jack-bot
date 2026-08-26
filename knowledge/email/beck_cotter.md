@@ -1,74 +1,118 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 22 emails
-- **Date range:** 2 Aug – 4 Aug 2026
-- **Estimated volume:** High activity during this period (primarily Aug 3); appears to be in active project phase
+- **Total messages scanned:** 100 emails
+- **Date range:** 21 Aug – 26 Aug 2026
+- **Estimated volume:** Moderate-to-high activity; sustained engagement across government, academic, and partner channels; multiple concurrent projects in active phase
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Daniel Prendergast** – Most frequent internal correspondent (hub for coordination on multiple projects)
-- **Ethan Domagala** – Collaborator on project discussions
-- **Joshua Fromm** – Appears on project calls
-- **Maciej Stachura** – Technical/product inquiries (UAS arctic conditions)
+- **Jack Elston** – Primary internal hub; highest frequency across multiple project domains (NOAA, Navy, SOCOM, ERDC grants, technical coordination)
+- **Daniel Prendergast** – Strategic/partnership coordination; LM RAVEN, SOCOM, academic collaborations, external relationship management
+- **Maciej Stachura** – Technical/product inquiries; NASA, NOAA, cold-weather performance, atmospheric research
+- **Cory Dixon** – Operations/delivery coordination (NOAA platforms, vendor communications)
+- **Meredith Needham** – Administrative/contract execution (Navy airworthiness, invoice scheduling)
+- **Joshua Fromm** – Delivery/task order management
+- **Ethan Domagala** – Product development (M2 fuselage updates)
 
-### External – Primary Contacts
-- **By Light Professional IT Services LLC** (nicholas.phillips@bylight.com, william.oneill@bylight.com) – Active project partner; multiple "Call Friday" coordination emails
-- **Lockheed Martin** (alasdair.brackenridge@global.lmco.com, neil.morphett@global.lmco.com, thomas.s.mundy@global.lmco.com) – Weekly sync meetings on RAVEN project
-- **USSOCOM/DoD** (hannah.d.lyness.mil@socom.mil, evan.m.wolff.mil@socom.mil, michael.c.jagelewski.civ@socom.mil) – RFI S0 responses (likely high-level)
-- **NOAA Federal** (amy.l.mcliverty@noaa.gov) – New Delivery Order coordination
-- **Krateosky** (Bob Smith, LisaMarie Cheney) – IDIQ Contract discussions
+### External – Government (Primary)
+- **NOAA Federal**
+  - Nikolai Pawlenko (nikolai.f.pawlenko@noaa.gov) – New Delivery Order coordination, AFA Proposal management, 20kft launch discussions
+  - Amy McLiverty (amy.l.mcliverty@noaa.gov) – Invoice scheduling, task order confirmation (30 platforms order), contract admin
+  
+- **U.S. Navy (NAWCAD)**
+  - Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil) – S0 COTS Waiver, TCE 26.2 weekly sync, technical coordination
+  - Anthony D. Brescia (anthony.d.brescia.civ@us.navy.mil) – Technical collaborator on same projects
+  
+- **USSOCOM**
+  - Evan M. Wolff (evan.m.wolff.mil@socom.mil) – S0-AD Development Options discussion
+  
+- **NORAD-USNC**
+  - Patricia A. Vollmer (patricia.a.vollmer.civ@mail.mil) – AE27 Black Swift UAS status updates
+  
+- **NASA**
+  - Chester V. Dolph (LARC-D201) – S0 procurement discussions
+  - Chris Meek, Bryan J. Petty (LARC-D201) – Product procurement coordination
 
-### External – Government/Program
-- **Simon Laurence** (simon.laurence157@mod.gov.uk) – UK MOD contact; S0 presentation discussion
-- **AFWERX** – Newsletter recipient (innovation/SpaceWERX programs)
-- **Vulcan Notification** – SOF experimentation events (Lanternfish 27, NSWC CSO)
+### External – Partners & Contractors
+- **Lockheed Martin (RAVEN program)**
+  - Alasdair Brackenridge (alasdair.brackenridge@global.lmco.com) – Weekly RAVEN catch-up meetings
+  - Neil Morphett, Dhruti Shah – RAVEN team coordination
+  - Stefan Golunski – Technical questions follow-up
+  
+- **Krateosky**
+  - Bob Smith, Jed Leonard, Ariel Avitan – ERDC grant coordination, meeting scheduling, project integration
+  
+- **NextechSol (Canadian)**
+  - Chris Pitfield, David Pollman – Minerva Arctic UAS Plan; CJFC Engineering Sprint coordination
+  - Trenton McKibben – Canadian Forces collaboration
+  
+- **Unmanned Experts**
+  - Keven Gambold (kagambold@unmannedexperts.com) – PEO-FW Group 2 A2E Assessment Event
+
+### External – Academic & Research
+- **University of Colorado Boulder**
+  - Ben Maglio, Al Gasiewski – NASA ROSES25 Biosphere Step 1 proposal collaboration
+  - Kevin S. Rozmiarek (Kevin.Rozmiarek@colorado.edu) – S2 cold-weather performance technical questions
+  
+- **UK Collaborators**
+  - Sarah Barr (NCAS, sarah.barr@ncas.ac.uk) – Arctic flight requirements discussion (scheduled Thu Aug 27)
+  - Gijs de Boer (Brookhaven National Lab, gdeboer@bnl.gov) – Genesis mission pitch collaboration
+  
+- **U.S. Research**
+  - Matthew Neber (NLR/formerly NREL) – E2 energy collaboration
+  - Stefan Metzger (atmofacts.com) – Murphy's Pond dataset discussion
+
+### External – Commercial & Vendor
+- **By Light Professional IT Services** – (Previous cycle; not visible in new data)
+- **Supercool Earth** (Dacia Leon, Olaf Dietz) – Drone inquiry
+- **GoGoAir** (Robert Vega) – Black Swift commercial inquiry
+- **TecServices Solutions** (Alison Khan) – PAO UAS purchase inquiry
+- **R-Coast** (Lauren Tango) – General product inquiry
+- **Smartec Science (Taiwan)** (weichi@smartec.com.tw) – S0 UAS commercial opportunity inquiry
+- **Kosteroski Engineering** (John Kosteroski) – S2 cold-weather performance inquiry
+- **Perkons Energy** (Dace Spandega) – Power system integration proposal
+
+### External – Programs & Events
+- **SOFWERX** (events@sofwerx.org) – PEO-FW Group 2 A2E Assessment Event notification
+- **ATI (Alliance for Teleoperation in Internet)** (Connectwerx) – Genesis Mission Phase I submission coordination; Portal unlock
+- **NSBA** – Small business leadership content (low priority)
+- **AFWERX** – (Previous cycle; continues as newsletter recipient)
 
 ## Topic Patterns
 
 ### Primary Projects/Codenames
-- **RAVEN** – LM/Black Swift partnership (weekly catchup cadence)
-- **S0** – Government RFI process; involves USSOCOM stakeholders and UK MOD
-- **M2** – Internal/By Light discussion (marked IMPORTANT)
-- **RFI S0** – Request for Information process with DoD contacts
-- **IDIQ Contract 1305M226D0012** – Market research and SOW review (Krateosky, potential subcontractor engagement)
+- **RAVEN** – Lockheed Martin partnership; weekly catch-up cadence continues (strategic importance maintained)
+- **S0** – Multi-track deployment:
+  - NOAA Delivery Order (30 platforms, extra 13 units confirmed)
+  - Navy S0 COTS Waiver process (NAWCAD coordination)
+  - S0-AD Development Options (USSOCOM)
+  - Taiwan commercial opportunity
+- **S2** – Cold-weather performance variant; technical inquiries from Canadian engineer and CU Boulder
+- **M2** – Fuselage development updates (internal)
+- **TCE 26.2** – Navy technical coordination weekly sync (recently canceled meeting indicates status change)
+- **AE27 Black Swift UAS** – NORAD-USNC project status tracking
+- **NASA ROSES25 Biosphere Step 1** – Atmospheric research proposal; multi-institutional (CU Boulder lead, BST, WeatherStream)
+- **Minerva Arctic UAS Plan** – Canadian collaboration (NextechSol, CJFC Engineering Sprint)
+- **Genesis Mission Phase I** – ATI/Connectwerx project submission
+- **PEO-FW Group 2 Air-Launched Effects (A2E) Assessment Event** – SOF experimentation (SOFWERX)
+- **20kft launch** – Technical capability/test discussion with NOAA
 
 ### Product/Technical Topics
-- UAS for arctic conditions (inquiry from UK academic contact Sarah Barr at NCAS)
-- "Lanternfish 27" – SOF experimentation event
+- **S0 platform variants** – COTS waiver, air-launched effects, arctic conditions
+- **S2 cold-weather performance** – Cold-climate operation focus (arctic, Canadian, northern operations)
+- **UAS for arctic conditions** – Multiple inquiries (UK NCAS, Canadian Forces, internal development)
+- **Air-Launched Effects (A2E)** – PEO-FW assessment and testing
+- **Power systems** – Integration with platforms (Perkons Energy proposal)
+- **Airworthiness certification** – N2-9618 aircraft registration/FAA compliance (Navy interest)
 
-### Administrative
-- Account verification (By Light IT services)
-- New Delivery Order/upcoming work (NOAA)
+### Administrative/Contractual
+- **AFA Proposal Rejection** – NOAA funding decision requiring response
+- **New Delivery Order** – 30 S0 platforms + 13 additional units; invoice scheduling coordination
+- **Invoice Schedule for 1305M226F0084** – Existing NOAA contract execution
+- **S0 COTS Waiver** – Regulatory/compliance pathway (Navy/NAWCAD)
+- **Grant for UAS and Atmospheric Research - ERDC** – Competitive proposal with Krateosky involvement
 
-## Communication Patterns
-
-- **Heavy activity on Mon, 3 Aug 2026** – Concentrated government/partner coordination
-- **Time zones:** Mix of UTC, Mountain Time (-06/-07), and UK times; suggests cross-timezone coordination
-- **Email marked IMPORTANT:** Majority of substantive emails flagged as IMPORTANT (government, partner, project-critical)
-- **Newsletter/Automated:** AFWERX, Vulcan Notification, EIN Presswire (low priority)
-- **Group emails:** Beck receives some group emails from By Light/LM (not primary recipient in all cases)
-
-## Key Relationships
-
-### Closest Internal Collaborators
-- **Daniel Prendergast** – Central hub; coordinates across government, By Light, and LM stakeholders
-- **Ethan Domagala** – Project execution/calls coordination
-
-### Critical External Relationships
-- **Lockheed Martin (Alasdair Brackenridge)** – Strategic RAVEN partnership; weekly touchpoint
-- **By Light Professional IT Services** – Active delivery partner; call coordination indicates development phase
-- **USSOCOM stakeholders** – Government customer for S0/RFI process; high importance
-- **NOAA (Amy McLiverty)** – Active delivery order management
-
-### Vendor/Subcontractor
-- **Krateosky** – SOW/market research phase on IDIQ contract
-
-## Notable Observations
-
-- **Beck is not the primary email hub** – Daniel Prendergast appears to be coordinating most technical/government discussions; Beck receives copies on select items
-- **Government engagement is multi-level** – Emails span USSOCOM operators, NOAA, UK MOD, and AFWERX innovation programs
-- **Active proposal/contract phase** – Mix of RFI responses, SOW reviews, and delivery order management suggests mid-bid or early execution phase
-- **RAVEN appears to be major partnership** – Weekly cadence with LM leadership indicates significant project
-- **Cross-org coordination pattern** – Frequent multi-party emails (By Light, LM, internal BST teams) suggest complex integration work
+### Business Development/Inquiries
+- **Taiwan commercial opportunity** –

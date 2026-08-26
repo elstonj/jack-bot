@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - August 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), Ethan Domagala, Kareem, and numerous team members.
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - August 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern as of June 5, 2026), Ethan Domagala, Kareem, Cory Dixon, and numerous team members.
 
 ## Key Decisions
 
@@ -35,4 +35,4 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Exterior Window Cleaning** (June 16, 2026): Meredith Needham notified team of exterior window cleaning scheduled for June 17, 2026.
 - **Camp Pendleton S0 Demo** (June 16, 2026): Maciej requesting Part 107 pilot licenses from team members for upcoming Camp Pendleton S0 demonstration. Dan Prendergast directed to BST Pilot Quals folder in Shared Drives → Operations: Flight for license documentation.
 - **KrateoSky Partnership Event - Execution** (June 18-19, 2026): Multi-location celebration event executed with Verde breakfast burritos and coffee, sod farm visit, Q&A session, and dinner at Hotel Boulderado. Final logistics managed by Paige Smith.
-- **Logan's Coffee Shop Closure
+- **

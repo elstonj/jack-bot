@@ -1,0 +1,63 @@
+{
+  "asana_gid": "1210051293340204",
+  "asana_task_name": "[Q1347] Murray State University-S2 Rentals x 12 days (quote for NASA proposal)",
+  "customer": "Murray State University",
+  "customer_contact": "Dr. Bassil El Masri",
+  "customer_email": "belmasri@murraystate.edu",
+  "receive_by": "2026-10-31",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S2 Aircraft Rental (12 days)",
+      "quantity": 1
+    },
+    {
+      "description": "Survey Services",
+      "quantity": 1
+    },
+    {
+      "description": "Aircraft Rental",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "in_qc",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "1343",
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "S2 spare wing set",
+      "ordered": true,
+      "received": false,
+      "vendor": "internal",
+      "order_date": null
+    },
+    {
+      "name": "S2 spare tail set",
+      "ordered": true,
+      "received": false,
+      "vendor": "internal",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Quote #1343 ($86,862.94) for NASA-funded research grant studying methane emissions from wetlands at Murphy's Pond, Kentucky. Murray State approved as vendor Jan 22, 2025; project approved Jan 29, 2025. Flights planned May\u2013Oct 2026. Aircraft in QC; spare parts pending from Sean (est. 1\u20131.5 days to complete). Systems checks and QC flight required before delivery.",
+  "missing_fields": [
+    "ship_to",
+    "invoice_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-08-04",
+  "last_contact_date": "2026-06-28"
+}

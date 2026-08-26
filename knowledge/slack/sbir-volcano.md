@@ -8,13 +8,13 @@ Key participants include:
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning, translation support, payload documentation)
-- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis, translation testing)
+- **Dan Prendergast** (Flight planning software, technical development, logistics, contracting inquiries, documentation, S3 operator's manual, data collection patterns, site selection analysis, translation testing, Mission Plan document development)
 - **Meredith Needham** (Administrative support, travel coordination)
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
 - **Alex Lomis** (Team member, availability flexible)
 
-The channel covers activities from 2020 through July 2026, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through August 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -101,5 +101,4 @@ The channel covers activities from 2020 through July 2026, with high activity du
 **Photogrammetry Payload Camera Upgrade Discussion (July 27, 2026)**
 - Jack Elston flagged that both Sony A5100 camera (16mm lens) and FLIR equipment in photogrammetry payload should be reviewed for potential upgrades
 - **Rationale**: Current equipment sufficient for mission but team anticipates increased usage that warrants evaluating better options
-- **Technical Concern**: Current camera setup requires manual verification of date/time settings and EXIF data preservation
-- **Action
+- **Technical Concern**: Current camera setup requires manual verification of date/time settings and EXIF data

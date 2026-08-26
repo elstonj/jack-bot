@@ -17,7 +17,7 @@
     "total_value": 138494.0,
     "start_date": "2025-07-30",
     "end_date": "2026-09-01",
-    "payment_cadence": "monthly",
+    "payment_cadence": "milestone",
     "documents": [
       "drive://Black Swift DD882 N6833525C0270 SIGNED 1.pdf",
       "drive://Embry Riddle Invoice CI011557 (June 2026).pdf",
@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 36718.75,
+        "amount": 39233.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-07-29"
       },
-      "total": 63486.09,
+      "total": 66001.09,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 75007.91,
+    "remaining": 72492.91,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-02T08:52:13Z"
+    "last_reconciled": "2026-08-26T09:08:46Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -79,6 +79,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-02T08:52:13Z",
+  "last_full_rebuild": "2026-08-26T09:08:46Z",
   "last_incremental_update": null
 }

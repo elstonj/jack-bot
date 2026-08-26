@@ -4,14 +4,14 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-07-30",
-    "end": "2026-07-31"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 84.17,
+    "expenses": 205.87,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 84.17
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 205.87
     }
   },
   "invoices": [],
@@ -19,37 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-30",
-      "doc_number": "440890471",
-      "total": 64.48,
-      "attributed": 64.48,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Verbal shipment request by S. Hild",
-      "lines": [
-        {
-          "amount": 64.48,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Overnight shipment to Summit Assembly"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-30",
-      "doc_number": "260712W002688",
-      "total": 19.69,
-      "attributed": 19.69,
+      "date": "2026-08-19",
+      "doc_number": "S292K094",
+      "total": 205.87,
+      "attributed": 205.87,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 19.69,
+          "amount": 205.87,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Pick-up fee for shipment to Sean Cole for S3 on 7/6/26"
+          "description": "Part_Studio_1_Part_2.dxf; Part_Studio_1_Part_2.dxf; S0_Launcher___Hook.step"
         }
       ]
     }

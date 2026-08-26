@@ -4,19 +4,53 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-08-01",
-    "end": "2026-08-02"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7.99,
+    "expenses": 82.06,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 7.99
+      "DIRECT COSTS:DC-Direct Material Purchases": 71.97,
+      "FACILITIES:FA-Shop Supplies": 10.09
     }
   },
   "invoices": [],
   "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "0803JELSTON",
+      "total": 277.13,
+      "attributed": 74.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 121.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Magnetometer supplies"
+        },
+        {
+          "amount": 44.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Hurricane IDIQ supplies"
+        },
+        {
+          "amount": 74.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S2 NASA supplies"
+        },
+        {
+          "amount": 37.76,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-08-03",

@@ -5,7 +5,7 @@
   "customer_contact": "Kevin Adkins",
   "customer_email": "adkinsk@erau.edu",
   "receive_by": "2026-09-30",
-  "ship_to": "Embry-Riddle Aeronautical University\nAttn: Accounts Payable\n1 Aerospace Boulevard\nDaytona Beach, FL 32114-3900\nUnited States",
+  "ship_to": "Attn: Kevin Adkins\n1 Aerospace Boulevard\nCollege of Aviation Room 237\nDaytona Beach, FL 32114\nUnited States",
   "items": [
     {
       "description": "S0 UAS - VTOL",
@@ -26,7 +26,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "delivered",
+  "ship_state": "in_transit",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
@@ -42,15 +42,17 @@
     }
   ],
   "tracking_number": null,
-  "carrier": null,
+  "carrier": "hazmat",
   "shipped_date": null,
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units delivered; Kevin confirmed availability for ISARRA Flight Week August/September 2026. Planned UI refresher training visit covers VTOL components; ongoing active engagement through July 2026.",
-  "missing_fields": [],
-  "last_evidence_date": "2026-07-27",
-  "last_contact_date": "2026-05-21"
+  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units built and ready; shipping arranged for ISARRA Flight Week (late August/early September 2026). Maciej/Spencer attending to provide training support. Kevin confirmed staff readiness; ongoing active engagement through summer 2026.",
+  "missing_fields": [
+    "tracking_number"
+  ],
+  "last_evidence_date": "2026-08-25",
+  "last_contact_date": "2026-08-25"
 }

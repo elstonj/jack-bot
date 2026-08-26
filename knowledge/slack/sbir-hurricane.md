@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, and Ethan Domagala.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, Ethan Domagala, Spencer Hoehl, and Cory Dixon.
 
 ## Key Decisions
 
@@ -20,6 +20,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Direct soldering battery/ESC to AP due to space constraints (November 2021)
 - Dual USB-A ports on front panel instead of USB-C for GCS (May 2022)
 - Motor controller switched to Vertiq propulsion system (serial numbers approximately 37-42 onward in 2024 batch; earlier units used different system) (August 2026)
+- **Pitch-to-Power Controller Adjustment:** Modified no_ias_a parameter from -2.8 to -2.4989 to address throttle performance issues caused by voltage drop over longer flights; parameter change applied to QC site for all existing S0s (August 6-7, 2026)
 
 **Manufacturing & Components:**
 - 50/50 cost split between Air Force and Hurricane for KMac tubes (June 2020)
@@ -28,42 +29,31 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Switched to Samsung INR21700-50S cells replacing Panasonic NCR18650GA (February 2024)
 - Decision to use 76gsm wing skins instead of 160gsm for 50g weight savings (October 2024)
 - Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
-- Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft (July 8, 2026)
+- Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft; characterized by ability/inability to accept higher power charging (July 8, 2026)
 - Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
+- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors delayed repeatedly (mid-August to late August 2026, with additional delays through end of month)
 
-**Ground Control Station Operations (April 2026):**
+**Ground Control Station Operations (April-August 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
 - GCS firmware updates for dual-channel radio control implemented (April 2026)
 - Use of Channel 1 designated for flight operations over Avon Park (April 2026)
 - Channel 1 selected for operational use after RF cable replacement on Channel 2 (April 2026)
-
-**Ground Control Station Silkscreen Labeling (May 7, 2026):**
 - Radio channel designation decided as "RADIO A / RADIO B" to minimize confusion with other numbering schemes (May 7, 2026)
 - Jack Elston approved RADIO A/B nomenclature over alternatives (RADIO 1/2, CH 1/2, etc.) (May 7, 2026)
-
-**Ground Control Station Channel Standardization (July 9, 2026):**
 - Channel labeling standardized across all systems from CH1/CH2 to A/B nomenclature for consistency (July 9, 2026)
 - Jack Elston implemented major firmware and QC tool overhaul to update channels from "one and two" to "a and b" (July 9, 2026)
 - Color coding updates applied alongside channel labeling changes (July 9, 2026)
-
-**Ground Control Station Design & Procurement (May 7-8, 2026):**
 - Joshua Fromm to review and modify ground station parts procurement list before finalization (May 7, 2026)
 - RF connector modification implemented for radio compatibility (May 7, 2026)
 - Jack Elston's suggested quantities approved as baseline for testing + 2 upcoming builds with overage on cheap parts (May 7, 2026)
 - Joshua Fromm confirmed procurement list would only require cable change; most major components (USB hub, power brick, etc.) can be ordered (May 8, 2026)
 - Jack Elston submitted openups and batteries for purchase to avoid duplication (May 8, 2026)
 - Joshua Fromm updated comprehensive procurement spreadsheet (2026 DUAL tab) with all components except stocked materials like ring terminals and clikmates (May 8, 2026)
-
-**Ground Control Station Operational Handover Planning (May 7, 2026):**
-- Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover (May 7, 2026)
-- Proposal suggested: duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
-- Status: Under consideration for decision (May 7, 2026)
-
-**Higher-Rate Data Recording Capability (May 27, 2026):**
-- NOAA requested modification to ground stations to enable higher-rate data availability, potentially for operational use as early as 2026 season (May 27, 2026)
-- Jack Elston planning to integrate this modification into new GCS builds (May 27, 2026)
-- Plan to develop P3 simulator at BST for testing prior to implementation (May 27, 2026)
-- Todd assigned to work with Jack Elston to implement GCS modifications on Thursday; P3 test flight planned for same day (July 29, 2026)
+- **GCS Operational Handover:** Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover; proposal suggested duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
+- **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
+- **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
+- **Microhard Radio Configuration:** Implemented ATS108=30 setting to improve radio stability at 115200 baud rate (August 15, 2026)
+- **GCS Channel A/B Port Configuration:** Tablet for channel A uses port 55555, B uses 55556 (August 20, 2026)
 
 **Humidity Sensor Configuration (April 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
@@ -71,15 +61,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
 - Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
 - Reconditioning cycle confirmed effective for correcting humidity sensor bias (April 17, 2026)
+- **PSNS v0.5 QC Process Update:** New PSNS boards arriving, require new QC process and updates to QC site dropdown (late August 2026)
 
-**Display Aircraft Production (April 21-22, 2026):**
+**Display Aircraft Production (April-May 2026):**
 - Approved production of 4 display S0 units: 2x 2025 models for near-term delivery (end of May target), 2x 2026 models for early-mid July delivery (April 21, 2026)
 - Display units to ship without tripods/mounts/carry cases in cardboard tubes or boxes, shipped folded (April 22, 2026)
 - Special thicker-skin wings to be commissioned for display models to improve appearance (April 21, 2026)
 - Wing springs and antenna NOT to be pre-installed on display units to reduce shipping damage risk (April 22, 2026)
-- All 4 display S0 units approved to include tripods: 2 units shipping end of May + 2 units for early-mid July (May 7, 2026)
-- Jack Elston confirmed all display aircraft should have tripods included (May 7, 2026)
-- Tripod and mount solution added to 2x display units at ~$200 cost (5 min labor) (April 22, 2026)
-- Delivery deadline: June 5, 2026 for DC event requirement; shipment to AOC or HQ for redistribution (April 22, 2026)
-
-**Inventory
+- All 4 

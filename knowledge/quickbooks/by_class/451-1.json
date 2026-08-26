@@ -4,14 +4,15 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2026-07-09",
-    "end": "2026-07-10"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 189.43,
+    "expenses": 4755.83,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 189.43
+      "DIRECT COSTS:DC-Direct Material Purchases": 4733.38,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 22.45
     }
   },
   "invoices": [],
@@ -19,19 +20,145 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-09",
+      "date": "2026-08-20",
       "doc_number": "",
-      "total": 189.43,
-      "attributed": 189.43,
+      "total": 22.45,
+      "attributed": 22.45,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "SERVOCITY - 7333",
+      "memo": "IN *JAWSTTEC MANUFACTURIN - 4617",
       "lines": [
         {
-          "amount": 189.43,
+          "amount": 22.45,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "upgraded shipping for Order #70664"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-20",
+      "doc_number": "22962",
+      "total": 1408.0,
+      "attributed": 1408.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order was placed on 8.06.26 but payment went through later",
+      "lines": [
+        {
+          "amount": 1408.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "2302 Series Aluminum, MOD 0.8, Hub Mount Gear and 2305 Series Brass, MOD 0.8, Servo Gear"
+          "description": "HBL6625 (0.11 sec/60\u00c2 - 144.43 oz/in @8.2V) x 8"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-20",
+      "doc_number": "23022",
+      "total": 1600.0,
+      "attributed": 1600.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1600.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "HBL599SL-DroneCAN x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-19",
+      "doc_number": "70664",
+      "total": 225.2,
+      "attributed": 225.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 225.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Insert-L3-V218.step; Insert-R3-V218.step; Shroud-V218.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-17",
+      "doc_number": "YW1790471",
+      "total": 402.38,
+      "attributed": 402.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 402.38,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Fuselage to Tail Interface - Front mount LEFT; Fuselage to Tail Interface - Front mount RIGHT; Fuselage to Tail Interface - Rear mount LEFT; Fuselage to Tail Interface - Rear mount RIGHT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-10",
+      "doc_number": "",
+      "total": 150.0,
+      "attributed": 150.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LIU SHAO YUAN CO LIU SHAO YUAN T LIU SHAO YUAN CO LIU SHAO YUAN TYPE PURCHASE  ID 770510487C DATA FF3               US",
+      "lines": [
+        {
+          "amount": 150.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "INSTAAR supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-10",
+      "doc_number": "",
+      "total": 318.0,
+      "attributed": 318.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LIU SHAO YUAN CO LIU SHAO YUAN T LIU SHAO YUAN CO LIU SHAO YUAN TYPE PURCHASE  ID 770510487C DATA FF3               US",
+      "lines": [
+        {
+          "amount": 318.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "parts for INSTAAR order"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 629.8,
+      "attributed": 629.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP VXB BEARINGS - 7333",
+      "lines": [
+        {
+          "amount": 629.8,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Ceramic Ball Bearing 6701-2RS Si3N4 x 10; 6709-2RS Thin Section Sealed Ball Bearing x 10"
         }
       ]
     }

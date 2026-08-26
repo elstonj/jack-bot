@@ -4,38 +4,36 @@
 - **Client:** Internal (BST)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 91.2 hours
+- **Total hours tracked:** 99.4 hours
 
 ## Team Allocation
-- **Beck Cotter:** 70.5 hours (77.3% of tracked time)
-- **Josh Fromm:** 16.0 hours (17.5% of tracked time)
-- **Meredith Needham:** 4.7 hours (5.2% of tracked time)
+- **Beck Cotter:** 70.5 hours (70.9% of tracked time)
+- **Josh Fromm:** 16.0 hours (16.1% of tracked time)
+- **Meredith Needham:** 12.9 hours (13.0% of tracked time)
 - **Primary contributor:** Beck Cotter
 
 ## Activity Timeline
-- Twenty-six entries recorded total
-- Most recent entry: Meredith Needham
+- Thirty entries recorded total
+- Most recent entries: Meredith Needham (4 new entries)
+  - 2.0 hours — "Dr. Appointment"
+  - 4.1 hours — (no description)
+  - 1.3 hours — (no description)
+  - 0.7 hours — (no description)
+- Earlier Meredith Needham entries:
   - 2.2 hours — "Headache"
-- Previous Meredith Needham entry:
   - 2.5 hours — "Dr. Appointment"
 - Beck Cotter (ongoing pattern)
-  - 3.0 hours — (no description)
-  - 3.0 hours — (no description)
-  - 3.0 hours — (no description)
-  - 3.0 hours — (no description)
+  - 3.0 hours — (no description) ×6
   - 3.5 hours — (no description)
-  - 3.0 hours — (no description)
-- Earlier documented absences: Beck Cotter
   - 8.0 hours — "Surgery day - offline all day" (multiple instances)
   - 8.0 hours — "Travel day - likely not online"
-  - Additional partial-day entries (3.0–1.5 hour increments)
-- Earlier entries: Josh Fromm (two 8.0-hour entries with no descriptions)
+- Josh Fromm: Two 8.0-hour entries with no descriptions
 
 ## Insights
-- This project tracks leave/absence usage (sick leave, medical procedures, and travel)
-- 91.2 hours represents approximately 11.4 business days of cumulative absence across three team members
-- Beck Cotter remains the dominant user at 77.3% of tracked leave; Josh Fromm accounts for 17.5% with no recent activity
-- **Meredith Needham pattern emerging:** Now has 4.7 hours across two entries (doctor appointment and headache). Both entries documented explicitly, suggesting acute/occasional use rather than ongoing absence pattern
-- **Beck Cotter's pattern persists:** Consistent undescribed 3.0-hour partial-day entries continue, confirming structured phased return-to-work or ongoing managed medical absence
-- Full-day documented absences remain explicitly flagged with offline status; recent partial-day entries continue to lack descriptive notes
-- **Extended absence stable** — Regular 3.0-hour partial-day entries from Beck Cotter indicate continued managed absence rather than acute illness
+- Project tracks leave/absence usage (sick leave, medical procedures, and travel)
+- 99.4 hours represents approximately 12.4 business days of cumulative absence across three team members
+- Beck Cotter remains dominant at 70.9% of tracked leave, indicating ongoing managed medical absence with structured partial-day returns
+- **Meredith Needham escalating:** Now accounts for 13.0% of tracked time (up from 5.2%), with 8.2 hours added in this batch. Pattern shows multiple partial-day absences (0.7–4.1 hours) alongside documented medical appointments, suggesting increased health management or recovery needs
+- Meredith's recent entries lack descriptions on three of four entries, contrasting with her earlier explicitly-documented appointment/symptom entries
+- Beck Cotter's undescribed 3.0-hour partial-day entries persist, confirming structured phased return-to-work continues
+- Josh Fromm inactive in current tracking period

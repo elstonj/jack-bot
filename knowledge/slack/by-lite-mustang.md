@@ -19,7 +19,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Meredith Needham (invoicing/accounting)
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
 
-**Activity Level:** High, covering October 2025 through June 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (June 5, 2026) indicates ByLight carbon fiber fuselage manufacturing specifications are being finalized, with manufacturing expected to commence week of June 9, 2026.
+**Activity Level:** High, covering October 2025 through August 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (August 19, 2026) indicates ByLight carbon fiber fuselage manufacturing is complete with delivery expected Friday via FedEx.
 
 ## Key Decisions
 
@@ -103,4 +103,5 @@ This channel tracks the development and flight testing of the **By Light Mustang
 ### Mustang 1.0 (Original Aircraft) – COMPLETED
 - **Status:** Flight testing completed, shipped to ByLight for static display
 - **Specs:** 5400-5717g AUW, single KDE 4215 motor, 6S 518.4Wh battery
--
+
+### Chilli Airframe (Phase 2

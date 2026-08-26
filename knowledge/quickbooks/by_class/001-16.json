@@ -4,15 +4,14 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-07-24",
-    "end": "2026-07-25"
+    "start": "2026-08-02",
+    "end": "2026-08-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 494.89,
+    "expenses": 168.51,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 425.25,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 69.64
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 168.51
     }
   },
   "invoices": [],
@@ -20,29 +19,91 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-07-24",
-      "doc_number": "0724JELSTON",
-      "total": 3516.81,
-      "attributed": 494.89,
+      "date": "2026-08-25",
+      "doc_number": "",
+      "total": 36.08,
+      "attributed": 36.08,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. Note provided via Slack:\"I somehow messed up the mcmaster order - anything that does not have a tag for project is in fact for s0 hurricane, all the other stuff is labeled correctly.\"",
+      "memo": "",
       "lines": [
         {
-          "amount": 2908.74,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "IDIQ supplies for extra 13 S0s"
-        },
-        {
-          "amount": 113.18,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "NASA S2 supplies"
-        },
-        {
-          "amount": 494.89,
+          "amount": 36.08,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SwiftStation supplies"
+          "description": "MRC0210 10-Pin JST-GH to 8 Individual JR Servo Plugs x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-14",
+      "doc_number": "",
+      "total": 62.8,
+      "attributed": 62.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 62.8,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "-Pin Molex to wire cable, 6 inc"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "",
+      "total": 34.26,
+      "attributed": 34.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 34.26,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "6\" USB-A M/MiniB-4Pin M Cable"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-13",
+      "doc_number": "",
+      "total": 16.87,
+      "attributed": 16.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 16.87,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "5PIN F-F JST PH-STYLE CABLE 25CM"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-12",
+      "doc_number": "",
+      "total": 18.5,
+      "attributed": 18.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 18.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DKC*DIGI KEY CORP - 4617"
         }
       ]
     }

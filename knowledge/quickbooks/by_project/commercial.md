@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $2,995,489.34
-- **Total Expenses (Bills + Purchases):** $242,720.23
+- **Total Expenses (Bills + Purchases):** $244,597.73
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,752,769.11 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – July 21, 2026
+- **Net Position:** $2,750,891.61 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – August 26, 2026
 
 ---
 
@@ -79,7 +79,7 @@
 
 #### Notable Recent Invoices
 
-**Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00** ✨ NEW
+**Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00**
 - Outstanding balance
 - Service: E2 training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements
 - Includes simulation session and flight training
@@ -94,21 +94,16 @@
 
 ## Expenses by Cost Category
 
-### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $877.07** | 1 transaction | Largest item: $877.07
-
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-07-21 | Aeronet Worldwide (Bill #103032432) | $877.07 | Shipping items to Murray State for Trip #3 |
-
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $1,893.34** | 15 transactions | Largest item: $499.00
+**Total: $7,744.34** | 21 transactions | Largest item: $1,600.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
-| 2026-07-09 | SERVOCITY #7333 | $189.43 | 2302 Series Aluminum MOD 0.8 Hub Mount Gear and 2305 Series Brass MOD 0.8 Servo Gear |
-| 2026-07-07 | Purchase (No Asana Request) | $287.74 | Multiple items for project work |
-| 2026-07-07 | Purchase #0707JELSTON | $64.40 | Shop/project materials |
-| 2026-06-30 | Purchase #2026-0411 | $499.00 | Processing data for Murray State |
-| 2026-06-30 | Digi Key Corp #DKC*DIGI KEY CORP - 4617 | $115.61 | HEATSINK PWR DUAL BLACK T |
-| 2026-06-24 | Purchase #0624JEL
+| 2026-08-20 | Purchase #22962 | $1,408.00 | HBL6625 (0.11 sec/60° - 144.43 oz/in @8.2V) x 8 |
+| 2026-08-20 | Purchase #23022 | $1,600.00 | HBL599SL-DroneCAN x 6 |
+| 2026-08-19 | Purchase #70664 | $225.20 | Insert-L3-V218.step; Insert-R3-V218.step; Shroud-V218.step |
+| 2026-08-19 | Purchase #0818JELSTON | $9.99 | Chemical-Resistant Slippery PTFE Rod 3/16"; 18-8 Stainless Steel Pan Head Phillips Screw |
+| 2026-08-17 | Purchase #YW1790471 | $402.38 | Fuselage to Tail Interface - Front mount LEFT; Front mount RIGHT; Rear mount LEFT; Rear mount RIGHT |
+| 2026-08-10 | Purchase | $150.00 | INSTAAR supplies |
+| 2026-08-10 | Purchase | $318.00 | Parts for INSTAAR order |
+| 2026-08-08 | Purchase | $130.49 | Fasteners (

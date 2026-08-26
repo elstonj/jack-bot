@@ -3,9 +3,9 @@
 ## Overview
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
-Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem
-Activity: High activity with 1420+ messages covering approximately 2+ years of development
-Time range: Early development through August 3, 2026 (ongoing project)
+Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast
+Activity: High activity with 1500+ messages covering approximately 2+ years of development
+Time range: Early development through August 25, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -17,85 +17,78 @@ Time range: Early development through August 3, 2026 (ongoing project)
 - Hub board servo rates: 50Hz for servos, 300Hz for ESCs
 - Moving away from current ESC hardware (April 2026)
 - DShot protocol running at 300 baud on test rig (May 1, 2026)
+- **ESC Strategy Shift (August 17, 2026):** After persistent issues with new ESC protocol causing motor startup jitter and unreliable startups on rear motor, team pivoted to reverting T-Motor ESC (proven on S1-VTOL with 120+ test flights) running in PWM mode for S0 testing and delivery
+- **Autopilot Hardware Improvements (August 20-24, 2026):** 
+  - Fixed multiple sensor initialization issues: IMU SPI data reads optimized (DIV2→DIV4), register access corruption fixed
+  - Magnetometer chip gradually failing; added code allowing boot without mag (sets HW_FAULT/NO_MAGS error) rather than complete failure
+  - Fixed EEPROM serial number handling to survive odd EEPROM behavior
+  - GPS warm-start battery discharging issue persists but not critical
+  - SD card corruption after very long duration runs likely hardware defect
 
 **Flight Operations:**
 - Battery threshold for VTOL landing: 3V/cell based on performance data
 - Hover capability limited to 8 minutes (1 minute with thermal constraints)
 - COA altitude reduced from 2000' to 700' at RC Field, maintained 2000' at Heil Ranch
+- **Ground Testing Before Flight (August 20, 2026):** Manual hover tests required out back before field flights to validate surface trim and GPS lock
 
 **Customer Deliveries:**
 - S0 systems will not include handsets, only tablet joysticks for manual mode
 - Decision to leave aircraft in Barbados rather than shipping back ($1600 vs $360 cost)
-- **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing. Uncertain if BST will bring third S0-VTOL to ISARRA. Maciej banking on S0 over OOI for Navy STTR data option
+- **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing
+- **ISARRA Flight Week: August 30 - September 3, 2026** with target shipping by early week (August 24 decision to potentially split: S01005 earlier, ERAU S0s early next week)
+- **Test Plan for ISARRA (August 17, 2026):**
+  - 50 flights total (aggressive target given single aircraft and time constraints)
+  - 5 flights >45 minutes collecting wind data
+  - Validate min and max speeds
+  - Late aborted transition (>12 m/s IAS)
+  - Aborted landing during transition
+  - Flight to min safe battery with hover testing below cutoff
+  - Test in >20 mph winds
+- **Production Scaling:** Building multiple S0-VTOL aircraft in parallel; target 3 aircraft ready (S01005, S10020, and additional airframe) by late August 2026
 
-**Hardware Fixes:**
+**Hardware Fixes & Resolutions:**
 - Sam switched from MSI to HSI clock source to fix heat sensitivity lockup issues
 - RTK heat sensitivity fixed with circuit updates (L: 27uH, R: 10 Ohm, C: 47pF)
+- **Connector/Mechanical Issue (August 5, 2026):** S01005 boot loop caused by tape around nose causing tight fit that bent board/connectors; EEPROM write times still slow (hardware stress)
+- **Test Setup vs. Hardware Issues (August 18, 2026):** Motor RPM shift and cutout issues on test stand resolved as test setup problem, not hardware defect
+- **Pivot Servo Issue Resolution (August 5-6, 2026):** Left front pivot slow motion caused by gyro drift in attitude estimator after magnetometer failure; replaced SD card, fixed magnetometer issues
+- **ESC Parameter Tuning (August 17, 2026):** Extensive SFOC parameter tuning attempted but no consistent improvement found for motor startup jitter; decided to revert to proven T-Motor ESC rather than continue troubleshooting new ESC
 
 **Flight Testing Strategy (April 2026):**
 - Motor RPM measurement approach: Prioritize scheme supporting long-term feed-forward control on motor RPM difference with smaller feedback gains on yaw rate controller rather than simple independent sensor logging (April 19, 2026)
 - Failure risk mitigation: Team must choose between high-confidence ground testing, trusted parachute system, or pre-flight failure detection capability before resuming flights (April 19, 2026)
 - S0-VTOL ground testing to be aligned with S3 methodology (April 28, 2026)
 
-**Ground Testing & Crash Analysis (April 29 - May 2, 2026):**
-- Crash autopilot code version identified: 0xf9eb3e6c (April 29, 2026)
-- Baseline established for comparing test rig behavior against crash conditions
-- Sinusoidal loop testing will require custom firmware (small change at output stage)
-- Instrumentation approach prioritized: PWM sensors to be deployed first, followed by remaining instrumentation components (Hall effect rotation sensors, couplers, optical RPM sensors)
-- S3 ground testing methodology includes 15-minute run warm-up as QC-like test to verify hardware/mechanical integrity (Joshua Fromm recommendation, April 30, 2026)
-- Visual observations alone insufficient for crash failure diagnosis; instrumentation logging required for meaningful data (April 30, 2026)
-
-**DShot Telemetry (May 1, 2026):**
-- PWM-to-UART board may no longer be required for instrumentation given DShot 300 implementation on test rig
-- DShot telemetry decoding library available in Autopilot/shared/devices/actuators directory
-
-**Crash Aircraft Failure Pattern (May 2, 2026):**
-- Aircraft experienced back-to-back failures with different characteristics: first failure showed ~30% throttle command shift in PWM mode (manageable), second failure showed same issue but worse after switching to DShot protocol
-- Potential ESC/PWM scaling issue identified that may cause command shifting
-- DShot protocol attempted as mitigation for the underlying scaling issue but made failure worse
-- Sam conducted oscilloscope testing to determine if cause is related to the identified issue (May 2, 2026)
-
-**Test Rig Motor Failure & Investigation (May 5-6, 2026):**
-- Brief motor command freeze (~1 second) followed by all three motor shutdown observed during overnight test run (May 5, 2026)
-- Ailerons and tail surfaces continued operating during motor shutdown event
-- Motor shutdown potentially caused by switched output to ESC from battery on autopilot (Jack Elston's initial hypothesis, May 5, 2026)
-- Investigation findings (May 6, 2026):
-  - Hub board was sending 0s on DShot protocol; logs showed three >3-second gaps from AP starting at 3.5 hours
-  - Motors shut down at first gap in packets at approximately 3 hours 25 minutes
-  - Hub board still receiving power and outputting previous PWM during all gaps
-  - Autopilot gaps appear to be logging issues (coinciding with missing IMU data), not actual command transmission failures
-  - Pivot command bug identified by Maciej and fixed with updated binary; pivots were receiving commands but at much slower rate than other surfaces
-  - Pivot slow motion caused by gyro drift in attitude estimator after magnetometer failure at ~65 minutes into log; pivots attempting to hold heading
-  - Channel 2 occasional values exceeding 2000µs limit (2001-2005µs) determined to be normal behavior for some surfaces on aircraft, not an error
-  - Magnetometer issues resolved after replacing SD card with fresh card
-  - ESC behavior verified stable: tested ESC with constant throttle (1200µs) and simulated errors over entire input range - no unexpected halts or failures observed
-
-**Pivot Servo Issues (May 7, 2026):**
-- Left front pivot stopped moving during test; one previous crash correlated with stuck pivoter
-- Pivot PWM range for left front: min 2080µs, center 1985µs, max 1010µs
-- Sam Hild identified PWM "shift" issue: signal appears corrupted/attenuated rather than changed in value
-- Initial hypothesis: Voltage-related issue, possibly faulty level shift circuit
-
 **Parachute/Ejection System (May 13, 2026):**
 - Team considering Peregrine CO2 ejection device (8g/12g option) from Apogee Rockets as parachute deployment mechanism
 - Joshua Fromm indicated team comfort with loading own pyro charges using small amounts of black powder
+- Decided on dual strategy: in-flight logging combined with parachute system deployment (May 19, 2026)
 
-**Testing Approach Strategy (May 19, 2026):**
-- Sam Hild pursuing dual strategy: both in-flight logging combined with parachute system deployment rather than choosing between them (May 19, 2026)
-- Focus: Continue ground testing while also preparing logging hardware for flight testing
+## Projects & Initiatives
 
-**Critical Hardware Issues Identified & Resolved (May 25-26, 2026):**
-- Sam Hild identified and characterized multiple distinct hardware issues on test rig (May 25, 2026):
+### S0-VTOL Flight Testing Campaign (August 2026)
+**Current Status:** Active flight testing with S01005 as primary test aircraft
+- **August 24-25, 2026:** S01005 successfully completed full transition with minor GPS issues and multiple smooth transitions documented
+- **Flight Performance (August 25, 2026):** 7 flights flown from ~95% to 40% battery; landing still manageable at 40% but takeoff near saturation at just under 50% (flying older Samsung cells; new RS50 cells expected to perform significantly better at <40%)
+- **Parallel Airframe Build-up:** Sam Hild bringing up 3 additional S0-VTOL autopilot stacks; at least 1-2 expected ready by August 25-26 for integration into new airframes
+- **Ground Testing Protocol:** 30-second joystick hovers with rest between flights to prevent overheating; manual hover tests out back before field flights; target 20% battery minimum before landing
+- **Avionics Swap (August 24, 2026):** Plan to swap S1-VTOL avionics into S01005 for continued testing
+- **Next Phase:** Sod Farm testing campaign targeting 15-20 transition flights on S01005 by August 25-26
 
-  **Issue 1 - Left Motor Failure (May 25, 2026):**
-  - Left motor went out without recovery; ESC error chime heard; no autopilot errors except RID
-  - All other surfaces/motors commanded correctly; BSTCAN packets reporting correctly
-  - DShot commanding valid 0x0000 commands (passing CRC)
-  - Neither motor disable/enable, hub board power cycle, CAN reconnect, nor surface replug resolved issue
-  
-  **Issue 2 - Rear Motor RPM Shift (May 25, 2026):**
-  - Rear motor running ~800 RPM faster than other two motors despite identical autopilot commands and tablet ranges
-  - Strange RPM ramp-up on motor start with sine wave shifting upward during startup
+### S1-VTOL Testing
+**Current Status:** Supporting S0 development with proven platform
+- 120+ successful flights on T-Motor ESC in PWM mode
+- Successfully tested lost GPS and lost mags recovery code (both result in auto land)
+- Being used as avionics donor and to validate new firmware before S0 deployment
 
-**Battery Protection Circuit Issues - Root Cause Identified & Fixed (August 3, 2026):**
-- Sam
+### Multiple S0-VTOL Airframe Production
+**Current Status:** Building to 3 aircraft total by late August 2026
+- S01005: Primary test aircraft, now flying transition tests
+- S10020: Secondary aircraft being prepared (hub board updates needed, ESC reversion to T-Motor)
+- Third aircraft: In assembly, needs avionics and final checkout
+- **Challenge:** Finding 3 autopilot boards with working sensor combinations is major bottleneck
+
+### New ESC Integration
+**Status:** Attempted but abandoned; reverted to proven solution
+- Initial plan: Replace T-Motor ESCs with new protocol ESCs for better reliability
+- Issue encountered (August

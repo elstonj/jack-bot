@@ -26,30 +26,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 6437.5,
+        "amount": 14718.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
       "purchases": {
-        "amount": 28662.37,
+        "amount": 35657.24,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
       "other_qbo": {
-        "amount": 7.99,
+        "amount": 82.06,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-08-02"
+        "last_updated": "2026-08-26"
       },
-      "total": 35107.86,
+      "total": 50458.05,
       "by_line_item": {}
     },
-    "committed": 16887.56,
-    "remaining": 37848.58,
+    "committed": 12617.14,
+    "remaining": 26768.81,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-02T08:51:13Z"
+    "last_reconciled": "2026-08-26T09:07:13Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -65,11 +65,17 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "unknown",
-      "date": "2026-07-06",
-      "text": "Jack Bot: 1 update(s) from Slack #commercial-sales (thread reply):\n  - notes → Two S0 VTOL units with ground station and tablet for ISARRA Flight Week campaign (August/September 2026). Invoice 1667 ($21,181.81) paid 2026-05-21. Build in QC per Slack (2026-07-03). Jack Elston confirmed August delivery target aligns with ISARRA planning and transport logistics (2026-05-21); Kevin Adkins approved plan. Beck reported flight-testing ongoing to resolve tracking bug (2026-03-17). Settlement agreement p"
+      "author": "Daniel Prendergast",
+      "date": "2026-08-25",
+      "text": "From Daniel Prendergast (ts=1787589902.841319): All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-08-24",
+      "text": "From Daniel Prendergast: All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
     }
   ],
-  "last_full_rebuild": "2026-08-02T08:51:13Z",
+  "last_full_rebuild": "2026-08-26T09:07:13Z",
   "last_incremental_update": null
 }
