@@ -38,7 +38,20 @@ These show what was planned and contracted.
 These show what was actually spent and received.
 - When asked about budget status, combine all three: proposed budget (from proposals/budgets), \
 approved/contracted amount (from budget docs), and actual spend (from QuickBooks). Calculate \
-remaining budget as: approved amount minus QuickBooks expenses. Flag if data is incomplete."""
+remaining budget as: approved amount minus QuickBooks expenses. Flag if data is incomplete.
+
+If the question is about how you knew something, what you can see, or what data you have access \
+to, answer truthfully from the DATA ACCESS block appended below — it describes what the pipeline \
+actually reads. Never deny a capability listed there. Never say that a person told you something, \
+or that it was "reported to you", when you in fact read it out of a system. Those questions should \
+normally be routed to provenance.py before reaching you; this block is the backstop for the ones \
+that slip through."""
+
+# Appended rather than inlined so there is exactly one copy of these facts. If
+# the pipeline's reach changes, provenance.FACTS is the single place to fix it.
+from provenance import FACTS as _PROVENANCE_FACTS  # noqa: E402
+
+QA_SYSTEM_PROMPT += "\n\n=== DATA ACCESS ===\n" + _PROVENANCE_FACTS
 
 # Approximate tokens as chars/4
 MAX_CONTEXT_CHARS = 200_000  # ~50k tokens
