@@ -15,8 +15,8 @@
     "type": "unknown",
     "number": null,
     "total_value": 483000.0,
-    "start_date": "2026-07-31",
-    "end_date": "2026-07-31",
+    "start_date": null,
+    "end_date": "2027-06-01",
     "payment_cadence": null,
     "documents": [
       "drive://NOAA_SOW_BlackSwift_S0_Enhanced_UAS_DRAFT.pdf",
@@ -33,13 +33,13 @@
         "amount": 251082.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-08-27"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-08-27"
       },
       "other_qbo": {
         "amount": 82948.41,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 146800.57,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-26T09:07:18Z"
+    "last_reconciled": "2026-08-27T09:04:02Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -97,6 +97,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-26T09:07:18Z",
+  "last_full_rebuild": "2026-08-27T09:04:02Z",
   "last_incremental_update": null
 }

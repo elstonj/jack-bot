@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics), Brian Sheffield (external contact), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through August 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through August 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, and facility expansion. Most recent activity (August 25, 2026) reflects logistics coordination and email access troubleshooting.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through August 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through August 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, and facility expansion. Most recent activity (August 26, 2026) reflects IP WBS project mapping, equipment troubleshooting, and remote device management.
 
 ---
 
@@ -57,4 +57,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **November 20, 2023:** S1 RID accepted by FAA and became selectable in FAA database (RID000001894). Expanded to S0, S3, and other aircraft platforms through testing protocols established by Jack Elston and team.
 
 ### Project Numbering System (September 2023)
-- **September 18, 2023:** Meredith Needham finalized customer/project numbering system with specific codes: 200=NASA, 300=NOAA, 350=USGA, 400=Air Force, 450=CU Boulder, 500=Department of Agriculture. Applied to
+- **September 18, 2023:** Meredith Needham finalized customer/project numbering system with specific codes: 200=NASA, 300=NOAA, 350=USGA, 400=Air Force, 450=CU Boulder, 500

@@ -4,17 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2026-08-26",
+    "end": "2026-08-27"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 598.67,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 557.67,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 24.49,
-      "FACILITIES:FA-Shop Supplies": 16.51
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -42,136 +38,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-08-25",
-      "doc_number": "1001507386",
-      "total": 174.66,
-      "attributed": 174.66,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "GETFPV, LLC - 7333",
-      "lines": [
-        {
-          "amount": 174.66,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Tattu R-Line 22.2V 2200mAh x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-10",
-      "doc_number": "",
-      "total": 37.68,
-      "attributed": 37.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 37.68,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Bartington Sensor Connectors"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-07",
-      "doc_number": "",
-      "total": 28.18,
-      "attributed": 28.18,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana Request - J. Fromm made purchase directly. Project listed under items",
-      "lines": [
-        {
-          "amount": 28.18,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "hort-Thread Alloy Steel Shoulder Screw"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-06",
-      "doc_number": "",
-      "total": 3.68,
-      "attributed": 3.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase directly. Project listed under item",
-      "lines": [
-        {
-          "amount": 3.68,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Low-Carbon Steel Bar, 1/8\" Thick"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-04",
-      "doc_number": "0804JELSTON",
-      "total": 260.68,
-      "attributed": 233.32,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 27.36,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Press-Fit Drill Bushing with Head, 0.159\" ID x 2"
-        },
-        {
-          "amount": 233.32,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Remote-Release Rotary Latch; Multipurpose 6061 Aluminum Bar; T-Slotted Framing, End-Feed Double Nut and M8; 316 Stainless Steel Ultra-Low-Profile Socket"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-03",
-      "doc_number": "0803JELSTON",
-      "total": 277.13,
-      "attributed": 121.15,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 121.15,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Magnetometer supplies"
-        },
-        {
-          "amount": 44.15,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Hurricane IDIQ supplies"
-        },
-        {
-          "amount": 74.07,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "S2 NASA supplies"
-        },
-        {
-          "amount": 37.76,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

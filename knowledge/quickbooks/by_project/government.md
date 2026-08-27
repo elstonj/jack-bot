@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $4,988,936.28
+- **Total Invoiced (Revenue):** $5,003,395.28
 - **Total Expenses (Bills + Purchases):** $1,722,282.57
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,266,653.71 (invoiced minus expenses)
+- **Net Position:** $3,281,112.71 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-09-28
 
 ---
@@ -12,9 +12,9 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $4,988,936.28
-- **Total Collected (Outstanding Balance):** $3,838,227.82 remaining (invoices with open balances)
-- **Number of Invoices:** 90 active invoices
+- **Total Invoiced:** $5,003,395.28
+- **Total Collected (Outstanding Balance):** $3,852,686.82 remaining (invoices with open balances)
+- **Number of Invoices:** 91 active invoices
 
 ### Major Revenue Streams by Project
 
@@ -23,7 +23,7 @@
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
 | [300-3] 2026 IDIQ | $1,288,959.00 | **FINAL:** Invoices #1739–#1741, #1773–#1777 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $834,721.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-1] Navy SBIR Magnetometer | $849,180.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
@@ -50,7 +50,7 @@
 
 **Recent invoice total (2026-08-02 to 2026-09-28):** $378,959.00  
 **[300-3] 2026 IDIQ 2026-08 incremental:** $306,000.00 (Invoices #1774, #1775, #1776, #1777) — **NOTE: Invoice #1774 voided 2026-08-03, reinstated as #1777 on 2026-08-25**  
-**[550-1] Navy SBIR total from recent period:** $14,459.00 (Invoice #1750 final)
+**[550-1] Navy SBIR total from recent period:** $14,459.00 (Invoice #1750 final, received 2026-09-28)
 
 ---
 
@@ -118,7 +118,7 @@
 - **Amazon/PayPal** (2026-08-14): $84.08 — Duty Fees for Grepow shipment
 - **Amazon** (2026-08-12): $134.97 — Anker 140W power supply (J. Elston's Hawaii trip)
 
-#### **Radio Systems (NEW - P400 Base Model)**
+#### **Radio Systems (P400 Base Model)**
 - **Purchase** (2026-08-03): $6,822.50 — P400 radios x 40 (50% of total payment, $13,645.00 full value)
   - **Project:** [300-3] 2026 IDIQ
 
@@ -136,4 +136,4 @@
 - **Purchase #1013** (2026-08-10): $10,010.00 — S0 Deployment tubes (20), S0 Fuse (26)
 - **Additional small structural components (2026-08 batch):**
   - Short-Thread Alloy Steel Shoulder Screw (2026-08-07): $28.18
-  - Low-Carbon Steel Bar, 1/8" Thick (2026-08-06): $
+  - Low-Carbon Steel Bar, 1/8" Thick (2

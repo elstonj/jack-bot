@@ -1,118 +1,96 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 100 emails
-- **Date range:** 21 Aug – 26 Aug 2026
+- **Total messages scanned:** 137 emails (100 initial + 37 new)
+- **Date range:** 21 Aug – 27 Aug 2026
 - **Estimated volume:** Moderate-to-high activity; sustained engagement across government, academic, and partner channels; multiple concurrent projects in active phase
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** – Primary internal hub; highest frequency across multiple project domains (NOAA, Navy, SOCOM, ERDC grants, technical coordination)
-- **Daniel Prendergast** – Strategic/partnership coordination; LM RAVEN, SOCOM, academic collaborations, external relationship management
-- **Maciej Stachura** – Technical/product inquiries; NASA, NOAA, cold-weather performance, atmospheric research
-- **Cory Dixon** – Operations/delivery coordination (NOAA platforms, vendor communications)
-- **Meredith Needham** – Administrative/contract execution (Navy airworthiness, invoice scheduling)
-- **Joshua Fromm** – Delivery/task order management
-- **Ethan Domagala** – Product development (M2 fuselage updates)
+- **Jack Elston** – Primary internal hub; continues highest frequency across NOAA, Navy, SOCOM, ERDC grants, technical coordination; visible in PO/Change Order notifications and S0 COTS WAIVER discussions
+- **Daniel Prendergast** – Strategic/partnership coordination; AFA Proposal Rejection thread (NOAA/SOCOM cross-talk), AE27 status updates, ERDC grant discussions, S0 COTS WAIVER responses
+- **Maciej Stachura** – Product/technical coordination; receiving PEO-FW Group 2 A2E Assessment Event updates, AFA Proposal Rejection thread involvement
+- **Meredith Needham** – Administrative/contract execution; PO/Change Order notification recipient (1305M226F0084 related)
+- **Cory Dixon** – (Not visible in new data; continues from previous cycle)
+- **Joshua Fromm** – (Not visible in new data; continues from previous cycle)
+- **Ethan Domagala** – (Not visible in new data; continues from previous cycle)
 
-### External – Government (Primary)
+### External – Government (Confirmed Active)
 - **NOAA Federal**
-  - Nikolai Pawlenko (nikolai.f.pawlenko@noaa.gov) – New Delivery Order coordination, AFA Proposal management, 20kft launch discussions
-  - Amy McLiverty (amy.l.mcliverty@noaa.gov) – Invoice scheduling, task order confirmation (30 platforms order), contract admin
+  - **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) – Cross-agency coordination visible; AFA Proposal Rejection thread shows direct collaboration with SOCOM/USSOCOM on proposal strategy
+  - **Amy McLiverty** (amy.l.mcliverty@noaa.gov) – Active dialogue on "New Delivery Order/30 Platforms"; multiple exchanges (11:31, 11:46, 13:42 on 26 Aug); primary contract administrator contact
   
 - **U.S. Navy (NAWCAD)**
-  - Angel R. Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil) – S0 COTS Waiver, TCE 26.2 weekly sync, technical coordination
-  - Anthony D. Brescia (anthony.d.brescia.civ@us.navy.mil) – Technical collaborator on same projects
+  - **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) – Active in S0 COTS WAIVER discussions; recent check-in exchange (17:14 UTC 26 Aug)
+  - **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) – Copied on recent S0 COTS WAIVER communications
   
 - **USSOCOM**
-  - Evan M. Wolff (evan.m.wolff.mil@socom.mil) – S0-AD Development Options discussion
+  - **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) – Actively engaged in AFA Proposal Rejection thread (18:56 UTC 26 Aug); SOCOM-NOAA coordination role confirmed
+  - **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) – New visibility; AFA Proposal Rejection thread participant (15:40 UTC 26 Aug)
   
 - **NORAD-USNC**
-  - Patricia A. Vollmer (patricia.a.vollmer.civ@mail.mil) – AE27 Black Swift UAS status updates
-  
-- **NASA**
-  - Chester V. Dolph (LARC-D201) – S0 procurement discussions
-  - Chris Meek, Bryan J. Petty (LARC-D201) – Product procurement coordination
+  - **Patricia A. Vollmer** (patricia.a.vollmer.civ@mail.mil) – AE27 Black Swift UAS status updates (Daniel Prendergast responding 09:27 26 Aug)
 
-### External – Partners & Contractors
-- **Lockheed Martin (RAVEN program)**
-  - Alasdair Brackenridge (alasdair.brackenridge@global.lmco.com) – Weekly RAVEN catch-up meetings
-  - Neil Morphett, Dhruti Shah – RAVEN team coordination
-  - Stefan Golunski – Technical questions follow-up
-  
+### External – Partners & Contractors (Confirmed Active)
 - **Krateosky**
-  - Bob Smith, Jed Leonard, Ariel Avitan – ERDC grant coordination, meeting scheduling, project integration
+  - **Bob Smith** (Bob@krateosky.com) – PEO-FW Group 2 A2E Assessment Event coordination (12:43 UTC 26 Aug); multi-party coordination with BST team
+  - Jed Leonard – Same A2E Assessment Event thread
   
-- **NextechSol (Canadian)**
-  - Chris Pitfield, David Pollman – Minerva Arctic UAS Plan; CJFC Engineering Sprint coordination
-  - Trenton McKibben – Canadian Forces collaboration
+- **Lockheed Martin (RAVEN program)**
+  - (Not visible in new data; continues from previous cycle at weekly cadence)
   
-- **Unmanned Experts**
-  - Keven Gambold (kagambold@unmannedexperts.com) – PEO-FW Group 2 A2E Assessment Event
+- **Supercool Earth**
+  - **Olaf Dietz** (olaf@supercool-earth.com) – Drone Inquiry follow-up (Beck Cotter active response 12:28 26 Aug)
+  - **Dacia Leon, Wolfgang Langhans** – Copied on Drone Inquiry response
+  
+- **Kosteroski Engineering**
+  - **John Kosteroski** (john@kosteroski-engineering.com) – S2 cold-weather performance questions; recent response received (07:57 26 Aug, addressed to Jack Elston)
 
-### External – Academic & Research
-- **University of Colorado Boulder**
-  - Ben Maglio, Al Gasiewski – NASA ROSES25 Biosphere Step 1 proposal collaboration
-  - Kevin S. Rozmiarek (Kevin.Rozmiarek@colorado.edu) – S2 cold-weather performance technical questions
-  
-- **UK Collaborators**
-  - Sarah Barr (NCAS, sarah.barr@ncas.ac.uk) – Arctic flight requirements discussion (scheduled Thu Aug 27)
-  - Gijs de Boer (Brookhaven National Lab, gdeboer@bnl.gov) – Genesis mission pitch collaboration
-  
-- **U.S. Research**
-  - Matthew Neber (NLR/formerly NREL) – E2 energy collaboration
-  - Stefan Metzger (atmofacts.com) – Murphy's Pond dataset discussion
+- **NextechSol / Canadian Partners**
+  - (Not visible in new data; continues from previous cycle)
 
-### External – Commercial & Vendor
-- **By Light Professional IT Services** – (Previous cycle; not visible in new data)
-- **Supercool Earth** (Dacia Leon, Olaf Dietz) – Drone inquiry
-- **GoGoAir** (Robert Vega) – Black Swift commercial inquiry
-- **TecServices Solutions** (Alison Khan) – PAO UAS purchase inquiry
-- **R-Coast** (Lauren Tango) – General product inquiry
-- **Smartec Science (Taiwan)** (weichi@smartec.com.tw) – S0 UAS commercial opportunity inquiry
-- **Kosteroski Engineering** (John Kosteroski) – S2 cold-weather performance inquiry
-- **Perkons Energy** (Dace Spandega) – Power system integration proposal
+### External – Commercial & Vendor (New/Emerging)
+- **LOCOSYS Technology** (frank@locosystech.com) – GNSS/RTK Solution for drones inquiry (generic tech solicitation; 11:05 27 Aug)
+- **Deep Origin Lead Tech** (eric@deeporiginleadtech.com) – Modular imaging payloads for Black Swift UAS inquiry (18:04 27 Aug)
+- **Atomgeo Pvt. Ltd.** – Collaboration opportunity inquiry (forwarded via internal Generic Information email 09:23 27 Aug)
 
 ### External – Programs & Events
-- **SOFWERX** (events@sofwerx.org) – PEO-FW Group 2 A2E Assessment Event notification
-- **ATI (Alliance for Teleoperation in Internet)** (Connectwerx) – Genesis Mission Phase I submission coordination; Portal unlock
-- **NSBA** – Small business leadership content (low priority)
-- **AFWERX** – (Previous cycle; continues as newsletter recipient)
+- **SOFWERX** – (Previous cycle; PEO-FW Group 2 A2E Assessment Event now active coordination with Krateosky)
+- **TechConnect** (Denise Lee, dlee@techconnect.org) – MOSA Summit showcase notification (15:50 26 Aug)
+- **AGU (American Geophysical Union)** – Fall Meeting 2026 promoted internally (12:43 UTC 26 Aug)
+
+### Personal/Local
+- **Rock Creek Curling** – Sean Stevinson, Mimi Stevinson (mimi@rockcreekcurling.com) – Intro to Curling Night coordination (multiple exchanges 11:35–12:11 26 Aug); local recreational community involvement
+- **Becky Cotter** (bcotter456@gmail.com) – Six-Session Instructional Course 24-25 (likely spouse/family; 10:07 26 Aug)
+
+### Automated/Administrative
+- **Okta Access Requests** – Request #205 expiring in 30 days (access credential renewal; 03:15 27 Aug)
+- **Asana** – Project task notifications (unread; 23:34 26 Aug)
+- **Slack** – New messages from Maciej and Jack (23:22 26 Aug)
+- **Google Flights** – Tracked route alert: Denver to Sint Maarten flights (17:25 26 Aug)
+- **BST Website Contact Form** – Two submissions (02:20, 03:05 27 Aug)
 
 ## Topic Patterns
 
-### Primary Projects/Codenames
-- **RAVEN** – Lockheed Martin partnership; weekly catch-up cadence continues (strategic importance maintained)
-- **S0** – Multi-track deployment:
-  - NOAA Delivery Order (30 platforms, extra 13 units confirmed)
-  - Navy S0 COTS Waiver process (NAWCAD coordination)
-  - S0-AD Development Options (USSOCOM)
-  - Taiwan commercial opportunity
-- **S2** – Cold-weather performance variant; technical inquiries from Canadian engineer and CU Boulder
-- **M2** – Fuselage development updates (internal)
-- **TCE 26.2** – Navy technical coordination weekly sync (recently canceled meeting indicates status change)
-- **AE27 Black Swift UAS** – NORAD-USNC project status tracking
-- **NASA ROSES25 Biosphere Step 1** – Atmospheric research proposal; multi-institutional (CU Boulder lead, BST, WeatherStream)
-- **Minerva Arctic UAS Plan** – Canadian collaboration (NextechSol, CJFC Engineering Sprint)
-- **Genesis Mission Phase I** – ATI/Connectwerx project submission
-- **PEO-FW Group 2 Air-Launched Effects (A2E) Assessment Event** – SOF experimentation (SOFWERX)
-- **20kft launch** – Technical capability/test discussion with NOAA
-
-### Product/Technical Topics
-- **S0 platform variants** – COTS waiver, air-launched effects, arctic conditions
-- **S2 cold-weather performance** – Cold-climate operation focus (arctic, Canadian, northern operations)
-- **UAS for arctic conditions** – Multiple inquiries (UK NCAS, Canadian Forces, internal development)
-- **Air-Launched Effects (A2E)** – PEO-FW assessment and testing
-- **Power systems** – Integration with platforms (Perkons Energy proposal)
-- **Airworthiness certification** – N2-9618 aircraft registration/FAA compliance (Navy interest)
-
-### Administrative/Contractual
-- **AFA Proposal Rejection** – NOAA funding decision requiring response
-- **New Delivery Order** – 30 S0 platforms + 13 additional units; invoice scheduling coordination
-- **Invoice Schedule for 1305M226F0084** – Existing NOAA contract execution
-- **S0 COTS Waiver** – Regulatory/compliance pathway (Navy/NAWCAD)
-- **Grant for UAS and Atmospheric Research - ERDC** – Competitive proposal with Krateosky involvement
-
-### Business Development/Inquiries
-- **Taiwan commercial opportunity** –
+### Active/Confirmed Projects
+- **S0 Platform Deployment (NOAA)**
+  - Status: 30 platforms order + 13 additional units confirmed
+  - Active coordination on invoice scheduling and "New Delivery Order" (Amy McLiverty multiple contacts 26 Aug)
+  - Contract: 1305M226F0084 referenced in PO/Change Order notification
+  
+- **S0 COTS Waiver (Navy/NAWCAD)**
+  - Status: Active waiver coordination (Daniel Prendergast responding to Angel Ruiz-Reyes 09:46 26 Aug)
+  - Recent check-in with Navy team confirmed (17:14 UTC 26 Aug)
+  
+- **AFA Proposal Rejection (NOAA/SOCOM)**
+  - Status: Active cross-agency discussion on proposal strategy
+  - Participants: Nikolai Pawlenko (NOAA), Evan Wolff (SOCOM), Michael Jagelewski (SOCOM), BST team
+  - Timeline: Exchanges on 12:02, 15:50, 18:56 UTC 26 Aug and 03:15 UTC 27 Aug
+  - Signal: High-level inter-agency coordination; strategic importance
+  
+- **AE27 Black Swift UAS (NORAD-USNC)**
+  - Status: Recent status update request from Patricia Vollmer (Daniel Prendergast responding 09:27 26 Aug)
+  
+- **PEO-FW Group 2 Air-Launched Effects (A2E) Assessment Event**
+  - Status

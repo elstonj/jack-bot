@@ -1,123 +1,129 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 52 emails
-- **Date range:** August 3–26, 2026 (24 days)
-- **Approximate volume:** ~2 emails per day
-- **Note:** Majority of emails are automated notifications and newsletters; limited direct human correspondence
+- **Total messages scanned:** 59 emails (52 previous + 7 new)
+- **Date range:** August 3–27, 2026 (25 days)
+- **Approximate volume:** ~2.4 emails per day
+- **Note:** Majority remains automated notifications and newsletters; limited direct human correspondence
 
 ## Key Correspondents
 
 ### Top Senders (by frequency)
-1. **UAS VISION** (russ@uasvision.com) — 13 emails (DAILY NEWS)
-2. **LinkedIn via Media Relations** (media@blackswifttech.com) — 16 emails (notifications, group activity)
+1. **UAS VISION** (russ@uasvision.com) — 14 emails (DAILY NEWS, consistent)
+2. **LinkedIn via Media Relations** (media@blackswifttech.com) — 17 emails (notifications, group activity)
 3. **Geo-matching** (newsletter@geo-matching.com) — 4 emails (product/technology newsletters)
 4. **Black Swift Technologies via Slack** (notification@slack.com) — 3 emails (unread message alerts)
 5. **Asana** (no-reply@asana.com) — 2 emails (task notifications)
+6. **US Commercial Service Aerospace Team** (Aerospace@public.govdelivery.com) — 2 emails (export/MRO market alerts)
+7. **Volcano Summit** (info@volcanosummit.com) — 2 emails (event updates)
 
 ### Top Recipients (who Kareem emails)
 - Primary inbox: kareem.ahmed@blackswifttech.com
-- **Note:** No outbound emails visible in metadata; all traffic appears to be inbound to Kareem's address or forwarded through company media alias
+- **Distribution pattern note:** New data shows emails increasingly routed to **paige.smith@blackswifttech.com** (5 of 7 new messages) rather than directly to Kareem, indicating:
+  - Paige Smith appears to be a key contact/collaborator
+  - Possible delegation or shared team inbox structure
+  - Kareem may be on a secondary receive list for these communications
 
 ### Internal vs External
-- **Internal:** Slack notifications, Asana task management, company media distribution list
-- **External:** Industry newsletters (UAS VISION, Geo-matching), LinkedIn notifications, recruiting/event platforms, vendor outreach
+- **Internal:** Slack notifications, Asana, company media distribution list, internal update meetings (BST Internal Update Meeting, 11-person distribution)
+- **External:** Industry newsletters, LinkedIn, recruiting, government alerts, event platforms, vendor outreach
 
 ### Key External Contacts/Organizations
 - **UAS VISION** (russ@uasvision.com) — Daily news source
 - **Geo-matching** — Mobile mapping/LiDAR/GNSS technology updates
-- **KrateoSky** (Tim Hegwood, tim@krateosky.com) — External collaboration on calendar/visibility
-- **Volcano Summit** (info@volcanosummit.com) — Event (Latin America focused, ~80% capacity)
-- **STATION Austin** (events@stationaustin.org) — Community events
-- **US Commercial Service Aerospace Team** — Export/defense sector alerts
-- **Agritecture** (victoria@agritecture.com) — Agriculture/mining technology
-- **Advance Pathways** (advanceinc@mailman.bloomerang-mail.com) — Professional development/mentoring
+- **KrateoSky** (Tim Hegwood) — Strategic collaboration partner
+- **Volcano Summit** — Event (NOW SOLD OUT as of Aug 26)
+- **US Commercial Service Aerospace Team** — Export/MRO market alerts (new emphasis)
+- **Lily Hayes** (lhayes@etekserve.com) — Recruitment/staffing for open positions (NEW)
+- **Nina Sabak** (via Media Relations) — Content opportunities contact (NEW)
 
 ## Topic Patterns
 
 ### Primary Focus Areas
-1. **Unmanned Aerial Systems (UAS/Drones)** — dominant theme across all sources
-2. **Geospatial Technology** — mobile mapping, LiDAR, GNSS, point clouds, SAR
-3. **Defense & Aerospace** — U.S. Space Command, Wildland Fire Service, defense exporter alerts
-4. **Agriculture & Environmental Monitoring** — CEA (controlled environment agriculture), autonomous systems, environmental applications
+1. **Unmanned Aerial Systems (UAS/Drones)** — continues as dominant theme
+2. **Geospatial Technology** — mobile mapping, LiDAR, GNSS, point clouds
+3. **Defense & Aerospace** — MRO (Maintenance, Repair, Overhaul) markets, aerospace export opportunities
+4. **Recruitment/Hiring** — NEW pattern emerging (open positions, candidate sourcing)
 
 ### Recurring Subject Themes
-- Mobile mapping capabilities and accuracy improvements
-- Point cloud processing and LiDAR workflows
-- GNSS/INS initialization and positioning
-- UAS deployment in government/defense contexts (Wildland Fire Service, Space Command relocation)
-- Industry group discussions (Unmanned Systems Technology forums, Tech Startup CEOs & Investors)
-- Vietnam Defense business opportunities
+- UAS deployment and daily market intelligence (UAS VISION)
+- Aerospace MRO markets (Ireland focus in new data)
+- LinkedIn connection/collaboration opportunities
+- Internal company updates and meetings
+- **NEW:** Hiring/recruitment for open positions
 
-### Client/Vendor/Partner Names Visible
-- **KrateoSky** — appears to be a collaboration/integration partner (calendar visibility project)
-- **Topcon** — surveying/mapping equipment mentioned
-- **Censys Technologies Corporation** — LinkedIn activity
-- **Energy Drone & Robotics Coalition** — industry group
+### Notable Subject Lines (New Data)
+- "Learn About MRO Meetings Ireland and Irish MRO Market" — suggests aerospace/MRO business development interest
+- "Interview-Ready Candidates for your Open Position" — active hiring cycle
+- "Checking In – New Content & Opportunities" (Nina Sabak) — potential partnership/media collaboration
+- "Volcano 2026 is Officially Sold Out" — event fully booked (capacity met)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Weekday heavy:** Most emails arrive Mon–Fri, 09:00–17:00 UTC
-- **Daily digest sources:** UAS VISION sends DAILY NEWS consistently at ~09:00 UTC
-- **LinkedIn notifications:** Frequent but scattered (2–5 per day, multiple time zones)
-- **Weekend activity:** Minimal (Volcano Summit, SATX events on weekends)
+- **Consistent weekday pattern:** Most emails arrive Mon–Fri, daytime UTC
+- **UAS VISION:** Continues daily at ~09:00 UTC
+- **Recent activity surge:** 7 new emails in 1 day (Aug 26–27), suggesting increased team activity/coordination
+- **Timezone awareness:** Mix of UTC and US time zones (PDT, EDT)
 
 ### Mailing Lists & Group Participation
-- **LinkedIn Groups:** Active member receiving notifications from:
-  - Unmanned Systems Technology (UAV/UAS | UGV | AUV/ROV | Robotics)
-  - Tech Startup CEOs & Investors (AI, ML, FinTech, SaaS, ChatGPT)
-  - Energy Drone & Robotics Coalition
-  - Defense Advancement
-- **Event communities:** STATION Austin, Volcano Summit
+- **Internal meeting:** "BST Internal Update Meeting" (11-person distribution, Aug 26, 7–7:30pm UTC) — suggests company-wide sync or significant team announcement
+- **LinkedIn Groups:** Continued activity
+- **Event communities:** Volcano Summit (sold out)
 
 ### Automated/Newsletter Traffic
-- **Daily:** UAS VISION (consistent, workday focus)
-- **Weekly:** Geo-matching (technical product updates)
-- **Periodic:** LinkedIn notifications, Slack message digests, Asana task updates
-- **Promotional:** Toggl Track product feedback request, UOSSM Canada (Syria relief, flagged IMPORTANT)
+- **Daily:** UAS VISION (consistent)
+- **Weekly:** Geo-matching
+- **Government feeds:** US Commercial Service Aerospace alerts (new emphasis, 2+ messages)
+- **Promotional/Recruitment:** Eteks Serve (interview candidates), Nina Sabak (content/partnerships)
 
 ## Key Relationships
 
 ### Internal Collaborators
-- **Tim Hegwood (KrateoSky)** — Sent to 8-person distribution including Kareem:
-  - alex.lomis@blackswifttech.com
-  - ben.busby@blackswifttech.com
-  - ethan.domagala@blackswifttech.com
+- **Paige Smith** (paige.smith@blackswifttech.com) — NOW PRIMARY RECIPIENT
+  - Receiving majority of forwarded emails, LinkedIn notifications, meeting invitations
+  - Likely owns media relations, communications, or business development coordination
+  - Receives internal meeting invitations (11-person distribution including Kareem's known collaborators)
+
+- **BST Internal Update Meeting Distribution (Aug 26):**
+  - paige.smith@blackswifttech.com (primary)
   - josh.fromm@blackswifttech.com
-  - **kareem.ahmed@blackswifttech.com**
-  - nate.straus@blackswifttech.com
+  - alex.lomis@blackswifttech.com
+  - stachura@blackswifttech.com (NEW name)
+  - daniel.prendergast@blackswifttech.com (NEW name)
+  - ethan.domagala@blackswifttech.com
+  - meredith.needham@blackswifttech.com (NEW name)
   - sam.hild@blackswifttech.com
-  - spencer.hoehl@blackswifttech.com
-  - *Subject: Calendar Visibility and Collaboration (marked IMPORTANT)*
+  - beck.cotter@blackswifttech.com (NEW name)
+  - nate.straus@blackswifttech.com
+  - cory.dixon@blackswifttech.com (NEW name)
+  - **Note:** Indicates broader leadership/coordination group beyond previous KrateoSky team
 
-### External Partners/Vendors
+### External Contacts (New)
+- **Lily Hayes** (Eteks Serve) — Recruiting/staffing for open positions
+- **Nina Sabak** (via Media Relations) — Content/partnership opportunities outreach
+
+### External Partners (Continuing)
 - **KrateoSky** (Tim Hegwood) — Strategic collaboration on visibility/project coordination
-- **Geo-matching** — Regular technology source (mobile mapping, LiDAR, GNSS)
+- **Geo-matching** — Technology intelligence source
 - **UAS VISION** (Russ) — Daily industry intelligence
-
-### Potential Business Interests (inferred from email routing)
-- **Dace Spandega** (Perkons Energy) — Sent to info@blackswifttech.com:
-  - Subject: "Power system engineered around your platform and mission"
-  - Suggests infrastructure/power integration opportunity with BST platform
 
 ## Notable Observations
 
-1. **Email Routing Inconsistency:** Multiple emails sent to `paige.smith@blackswifttech.com` appear in Kareem's scan results (LinkedIn notifications, Agritecture newsletter, Defense Advancement Newsletter). This suggests either:
-   - Email forwarding/delegation is in place
-   - Paige and Kareem share an inbox or team list
-   - Data collection picked up emails from a shared group alias
+1. **Shift in Email Routing Pattern:** New data shows significant increase in emails routed to **paige.smith@blackswifttech.com** (5 of 7 new messages). This represents a departure from previous pattern where emails were split more evenly. Possible explanations:
+   - Paige Smith is increasingly central to communications flow (media relations, business development, hiring coordination)
+   - Kareem and Paige may share media team responsibilities
+   - Paige may be acting as communications hub or gatekeeper for BST
 
-2. **Forwarding Pattern:** UAS VISION and many newsletters are routed to `Jack <media@blackswifttech.com>` or `media@blackswifttech.com` rather than directly to Kareem, suggesting these are company media/intelligence feeds shared across team.
+2. **Expanded Leadership Distribution:** BST Internal Update Meeting includes 11 recipients (compared to 8-person KrateoSky team from previous data). This broader group suggests:
+   - Company-wide strategic meeting or announcement
+   - Expanded cross-functional coordination
+   - Several new names (Stachura, Daniel Prendergast, Meredith Needham, Beck Cotter, Cory Dixon) — possible new hires or team restructuring
 
-3. **Asana + Slack Active:** Regular task and Slack notifications indicate heavy use of project management and team communication tools (not captured in email subject analysis).
+3. **Active Hiring Cycle:** Recruitment emails from Eteks Serve for "open position" indicates BST is actively hiring. This aligns with expanded team distribution in recent meetings.
 
-4. **Industry Intelligence Focus:** Clear pattern of subscribing to industry-specific daily/weekly updates (geospatial, defense, entrepreneurship, agriculture tech) — suggests Kareem or his team owns market research/competitive intelligence function.
+4. **MRO Market Focus (NEW):** US Commercial Service alert about Ireland MRO meetings suggests new business development focus in aerospace maintenance/repair/overhaul sector — distinct from previous UAS/geospatial emphasis. Possible new market opportunity or strategic pivot.
 
-5. **Government & Export Opportunity Signals:**
-   - U.S. Commercial Service aerospace alerts (Vietnam defense webinar, exporter alerts)
-   - U.S. Wildland Fire Service UAS deployment news
-   - Space Command relocation news
-   - Suggests BST tracks government procurement and international business development.
+5. **Volcano Summit Sold Out:** Event reached capacity (Aug 26). This was previously noted as ~80% capacity; now fully booked. May impact Kareem's/team's participation or indicate strong industry interest in event topic.
 
-6. **Limited Direct Email:** Metadata shows almost no direct peer-to-peer emails from Kareem (no outbound visible). Communication appears primarily through Slack, Asana, and consumption of shared feeds.
+6. **

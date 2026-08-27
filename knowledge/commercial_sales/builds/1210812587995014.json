@@ -1,0 +1,44 @@
+{
+  "asana_gid": "1210812587995014",
+  "asana_task_name": "Michigan Technological University - S0 and S2",
+  "customer": "Michigan Technological University",
+  "customer_contact": "Dr. Shawn Brueshaber",
+  "customer_email": "srbruesh@mtu.edu",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Blackswift S0 UAV",
+      "quantity": 1
+    },
+    {
+      "description": "Blackswift S2 UAV",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Quote sent for 1\u00d7 S0 and 1\u00d7 S2 for atmospheric profiling research. Customer inquiry includes interest in aerial imaging and aerosol measurement system options for the S2.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "estimate_date"
+  ],
+  "last_evidence_date": "2025-07-14",
+  "last_contact_date": null
+}

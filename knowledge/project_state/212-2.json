@@ -29,13 +29,13 @@
         "amount": 14718.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-08-27"
       },
       "purchases": {
-        "amount": 35657.24,
+        "amount": 36840.75,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-08-27"
       },
       "other_qbo": {
         "amount": 82.06,
@@ -43,13 +43,13 @@
         "confidence": "exact",
         "last_updated": "2026-08-26"
       },
-      "total": 50458.05,
+      "total": 51641.56,
       "by_line_item": {}
     },
-    "committed": 12617.14,
+    "committed": 11433.63,
     "remaining": 26768.81,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-26T09:07:13Z"
+    "last_reconciled": "2026-08-27T09:03:58Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -76,6 +76,6 @@
       "text": "From Daniel Prendergast: All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
     }
   ],
-  "last_full_rebuild": "2026-08-26T09:07:13Z",
+  "last_full_rebuild": "2026-08-27T09:03:58Z",
   "last_incremental_update": null
 }
