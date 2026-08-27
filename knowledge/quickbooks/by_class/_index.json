@@ -1,56 +1,17 @@
 {
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2026-08-26",
+    "end": "2026-08-27"
   },
-  "scanned_at": "2026-08-26",
+  "scanned_at": "2026-08-27",
   "projects": [
-    {
-      "project_code": "001-1",
-      "revenue": 0.0,
-      "expenses": 205.45,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 3,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-1) IRAD- General"
-      ]
-    },
-    {
-      "project_code": "001-12",
-      "revenue": 0.0,
-      "expenses": 306.77,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-12)  General Customer Support/Project Support"
-      ]
-    },
-    {
-      "project_code": "001-16",
-      "revenue": 0.0,
-      "expenses": 168.51,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 5,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-16) SwiftStation"
-      ]
-    },
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 3214.2,
+      "expenses": 2.5,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 12,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -58,78 +19,12 @@
       ]
     },
     {
-      "project_code": "001-7",
-      "revenue": 0.0,
-      "expenses": 205.87,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 1,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "(001-7) IRAD - S3"
-      ]
-    },
-    {
-      "project_code": "043-3",
-      "revenue": 0.0,
-      "expenses": 886.63,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 5,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[043-3] By Light Halo"
-      ]
-    },
-    {
-      "project_code": "212-2",
-      "revenue": 0.0,
-      "expenses": 82.06,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 2,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[212-2] NASA S2 & Parts"
-      ]
-    },
-    {
-      "project_code": "300-3",
-      "revenue": 306000.0,
-      "expenses": 82948.41,
-      "invoice_count": 4,
-      "bill_count": 2,
-      "purchase_count": 37,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[300-3] 2026 IDIQ",
-        "[300] NOAA:[300-3] 2026 IDIQ"
-      ]
-    },
-    {
-      "project_code": "451-1",
-      "revenue": 0.0,
-      "expenses": 4755.83,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 8,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "{451-1] INSTAAR S3 x 2"
-      ]
-    },
-    {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 598.67,
+      "expenses": 0.0,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 6,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -139,10 +34,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 90301.75,
+      "expenses": 20.0,
       "invoice_count": 0,
-      "bill_count": 3,
-      "purchase_count": 108,
+      "bill_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [

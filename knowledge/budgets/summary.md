@@ -2,77 +2,59 @@
 
 ## Active Project Budgets
 
-| Project Code | Client | Total Budget | Contract Type | Period | Status |
-|---|---|---|---|---|---|
-| **200-12** | NASA SMD (AREN) | $117,701.50 | Science Activation / Cooperative Agreement | 2025 | Active (multi-year 2021–present) |
-| **300-3** | NOAA EAD-OMAO | $843,000.00 | IDIQ (5-year) | 2026–2030 | Active (contract awarded) |
-| **301-3** | NOAA | $747,500.00 | sUAS Contract (base + optional) | Feb 2025–Aug 2026 | Active (6-month extension granted) |
-| **550-1** | U.S. Navy (DoN) | *Pending Phase II* | SBIR Phase II Proposal | Jan 2027–Jun 2030 (30 mo base + 12 mo option) | Proposal stage |
-| **550-2** | U.S. Navy (DNR) | $245,772.00 | STTR Phase I + Option | Jul 2025–Jan 2026 (+ Feb 2026 option) | Active |
+| Project Code | Client | Total Budget | Contract Type | Status |
+|---|---|---|---|---|
+| 550-2 | U.S. Navy (Department of Naval Research) | $245,772.00 | Navy STTR Phase I + Option | Active (Award: Jul 2025) |
+
+### Project 550-2 Details
+- **Contract Number:** N6833525C0270
+- **Title:** N25A-T025 Expendable Air-sea Profiling Observations in Hazardous Weather Conditions
+- **Prime Contractor:** Black Swift Technologies, LLC
+- **Period of Performance (Phase I Base):** July 22, 2025 – January 7, 2026
+- **Period of Performance (Option):** Confirmed February 2026 onwards
+
+**Budget Structure:**
+- Phase I Base Period: $146,326.00
+- Option Period: $99,446.00
+- **Phase I + Option Total: $245,772.00**
+- Phase II Proposed Costs: (data incomplete in source document)
 
 ---
 
 ## By Funding Source
 
-| Agency | Total Funded | Project Codes | Notes |
-|---|---|---|---|
-| **NASA SMD** | $117,701.50 | 200-12 | Science Activation; cooperative agreement |
-| **NOAA** | $1,590,500.00 | 300-3, 301-3 | IDIQ + sUAS contracts; significant active portfolio |
-| **U.S. Navy (DoN/DNR)** | $245,772.00+ | 550-1, 550-2 | SBIR Phase II proposal pending; STTR Phase I active |
-| **Unassigned/Portfolio** | Unknown | Multiple (1,181 docs) | Historical, proposals, and product costing; requires project code assignment |
+| Funding Source | Total Allocated | Project Count |
+|---|---|---|
+| U.S. Navy (DoNR) | $245,772.00 | 1 |
+| **TOTAL** | **$245,772.00** | **1** |
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Projects | Total Funded | Notes |
-|---|---|---|---|
-| **Science Activation / Cooperative Agreement** | 200-12 | $117,701.50 | NASA AREN; multi-year (2021–present) |
-| **IDIQ (5-year)** | 300-3 | $843,000.00 | NOAA; firm fixed price + T&M extensions |
-| **Commercial/Fixed-Price Service** | 301-3 | $747,500.00 | NOAA sUAS; base $494k + optional $253.5k; University of Miami subcontract |
-| **SBIR Phase II (Proposed)** | 550-1 | *TBD* | Navy Magnetometer; 30-month base + 12-month option (proposal pending decision) |
-| **STTR Phase I + Option** | 550-2 | $245,772.00 | Navy Air-sea Profiling; active Phase I through Jan 2026 + Feb 2026 option |
+| Contract Type | Total Budget | Project Count |
+|---|---|---|
+| Navy STTR Phase I + Option | $245,772.00 | 1 |
+| **TOTAL** | **$245,772.00** | **1** |
 
 ---
 
 ## Financial Health Indicators
 
-### **Projects Nearing Key Milestones / Period End**
-- **550-2 (STTR):** Base period ends **January 7, 2026** with confirmed option extending into February 2026. Monitor for option invoicing and Phase II proposal timing.
-- **301-3 (NOAA sUAS):** End date **August 25, 2026** (6-month extension recently granted). Verify remaining budget spend rate.
-
-### **Large Budget Projects Requiring Oversight**
-- **300-3 (NOAA IDIQ):** $843,000 total across 5 years (2026–2030) — largest contract; multi-CLIN structure. Early delivery order already invoiced (1305M226F0084 / Invoice 1736).
-- **301-3 (NOAA sUAS):** $747,500 with University of Miami subcontract component (PO-0000867443); confirm subcontract spend tracking.
-
-### **Proposals Pending**
-- **550-1 (Navy SBIR Phase II):** Cost structure documented ($207k+ direct labor proposed for 30-month base) but contract award status unknown. Expected start date Jan 2027 if approved.
-
-### **Budget Concerns / Data Gaps**
-- **200-12:** Labor budget table appears truncated in source data (incomplete burdened rates shown). Verify complete breakdown in original document.
-- **300-3:** CLIN breakdown incomplete in provided data; requires full CLINs table for spend tracking.
-- **301-3:** Optional items ($253.5k) — confirm current status (exercised/pending).
-- **Unassigned Portfolio (1,181 docs):** Large volume of historical and proposal documents lacks project code linkage. Recommend archive strategy and project code assignment for active proposals.
+- ✓ **Active Funding:** Project 550-2 recently awarded (July 2025) with confirmed option period extension into February 2026
+- ⚠️ **Phase I Base Period Ending:** January 7, 2026 (transition to Option Period)
+- ⚠️ **Incomplete Data:** Phase II proposed costs not fully documented in current records
+- ℹ️ **No Spend Data Available:** Current burn rate and remaining funds not tracked in this document
 
 ---
 
 ## QuickBooks Integration Notes
 
-| Project | QB Integration | Data Source | Notes |
-|---|---|---|---|
-| **200-12** | Unknown | Drive | NASA AREN cooperative agreement; verify QB cost code |
-| **300-3** | Partial | Drive + QB (likely) | NOAA IDIQ contract with delivery order invoicing; confirm QB GL mapping for CLINs |
-| **301-3** | Partial | Drive + QB (likely) | NOAA sUAS with University of Miami subcontract; verify separate PO tracking (PO-0000867443) |
-| **550-1** | None | Drive (proposal only) | SBIR Phase II proposal; no QB records until contract award |
-| **550-2** | Likely | Drive + QB | Navy STTR Phase I active; invoicing expected through Jan 2026 + option period |
-| **Unassigned Portfolio** | Unknown | Drive only | 1,181 documents (historical, proposals, product costing); no QB linkage detected |
+- **550-2:** Drive-only documentation at this time; no QuickBooks cross-reference found
+- Recommend linking Navy contract N6833525C0270 to accounting system for expense tracking against $146,326 Phase I base budget and $99,446 option allocation
 
 ---
 
-## Summary Statistics
+## Summary
 
-- **Total Active Funded Value:** $2,800,273.50+ (excluding 550-1 Phase II if not awarded)
-- **Number of Active Projects:** 5 (4 funded + 1 proposal)
-- **Primary Funding Agencies:** NOAA (56%), U.S. Navy (9%), NASA (4%), Unassigned (31%)
-- **Key Personnel (Identified):** Kay Rufty, Ted Miles, Jack Elston, Maciej Stachura
-- **Prime Contracts:** NOAA IDIQ (largest multi-year), Navy SBIR Phase II (highest technical risk pending approval)
+BST currently has **one documented active project** (550-2) valued at **$245,772** funded by the U.S. Navy under a STTR contract. The project is in Phase I (base period through January 2026) with a confirmed option period. No spend data or QuickBooks integration is currently documented.

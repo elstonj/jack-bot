@@ -1,43 +1,47 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 8,159 (8,059 prior + 100 new Aug 25–26)
-- **Date range:** April 1–August 26, 2026
+- **Total messages scanned:** 8,259 (8,159 prior + 100 new Aug 26–27)
+- **Date range:** April 1–August 27, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Aug 25–26 activity (100 messages):** ~16% direct human correspondence (NOAA operational meetings AL96/HFP-APHEX, Krateo Onshape migration, Navy COTS waivers, S2 cold-weather engineering, Arctic UAS capability inquiry, grant coordination); ~22% manufacturing/PCB/engineering (SendCutSend, Rock West Composites, 3DR, GetFPV, Dronetag, Waveform Engineering billing); ~26% automated vendor/logistics (McMaster-Carr ×2, DigiKey, FedEx ×2, UPS ×2, U-Haul Business, Budget, Spindrift, Expedia); ~18% administrative/SaaS/billing (E-Verify, QuickBooks Bill Pay, Quickbooks alerts, NASA ROSES coordination); ~18% newsletters/mailing lists/recruiting (LinkedIn wildfire service alert, AUVSI, ConstantContact, ProtoSpace, DARPA Event, Academy of Model Aeronautics renewal)
+- **Aug 26–27 activity (100 messages):** ~12% direct human correspondence (NOAA HRD AL96 operations, AGU/UAS session invitations, Smead AI Subcommittee, Krateo recruiting, Navy coordination, SOCOM proposal chain, Munro Defense facility follow-up); ~15% manufacturing/engineering/component sourcing (PCBWay, AirShaper inquiry, Receiver v03 tracking, component vendors); ~28% automated vendor/logistics/procurement (FedEx, UPS, Grainger, Battery Junction, Speedway Motors, AliExpress, commercial platforms); ~15% administrative/HR/facilities (Principal Financial dental claim, lease statements, PO notifications, WAWF inactivation notice, E-Verify); ~30% newsletters/mailing lists/marketing/recruiting (ConstantContact, Beehiiv newsletters, LinkedIn alerts, NASA OSBP, Commercial UAV Expo, IAEM, ASTM, multiple unsubscribe actions, recruiting outreach)
 
 ## Key Correspondents
 
-### Top Internal Partners (STRATEGIC EXPANSION)
+### Top Internal Partners (MULTI-DOMAIN COMMAND)
 
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **STRATEGIC COMMAND: SOCOM S0 RFI + POPOCATÉPETL + HURRICANE OPS + CJFC ARCTIC UAS ESTIMATE + IDIQ CONTRACT + REX 110 + NIGHTFOX CAN BUS + ATMOSPHERIC RESEARCH GRANTS**
-   - **NEW CRITICAL ACTIVITY (Aug 25–26, Multi-domain escalation continuation):**
-     - Daniel → Jack (Aug 25, 11:04 CDT — CRITICAL): **"Re: Grant for UAS and Atmospheric Research - ERDC"** — **ERDC grant coordination** (new funding domain: Army Corps of Engineers atmospheric research partnership)
-     - Jack → Daniel + Nikolai Pawlenko + Maciej + Beck (Aug 25, 20:37 CDT — CRITICAL): **"Re: [EXTERNAL] Re: AFA Proposal Rejection"** — **AFA (Air Force Association?) proposal rejection response coordination**; suggests **proposal pipeline management** and **cross-agency partnership** on failed bids
-     - Chester V. Dolph (NASA LARC) → Nikolai Pawlenko + Chris Meek (NASA) (Aug 25, 21:27 UTC — IMPORTANT): **"Re: [EXTERNAL] Re: AFA Proposal Rejection"** — NASA centers responding on proposal rejection; indicates **NASA-NOAA-BST collaborative proposal activity**
-     - Patricia Vollmer (NORAD-USNC) → Daniel (Aug 25, 20:59 UTC — CRITICAL): **"RE: (U) AE27 Black Swift UAS -- Where are we now?"** — **NORAD/USNORTHCOM engagement on AE27 platform status**; Arctic/North American defense priority visible
-   - **Pattern:** Daniel managing **multi-agency proposal ecosystem** (SOCOM RFI active, ERDC grants, AFA proposals, NORAD status queries, Navy IDIQ); core **strategic liaison** across defense, NASA, NOAA
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **STRATEGIC COMMAND: SOCOM S0 RFI + POPOCATÉPETL + HURRICANE OPS + CJFC ARCTIC UAS + IDIQ CONTRACT + REX 110 + AFA PROPOSAL CHAIN + NORAD AE27 STATUS + ERDC GRANT COORDINATION**
+   - **CRITICAL NEW ACTIVITY (Aug 26–27, Multi-agency escalation):**
+     - Daniel → Dr. Hugo Delgado Granados (UNAM Mexico) (Aug 26, 10:33 CDT — IMPORTANT): **"Re: Operator Manual and Mission Plan for AFAC Approval"** — **Popocatépetl volcano monitoring operator certification** (Mexican airspace authority approval process); indicates **international regulatory/operational coordination**
+     - Daniel → Angel Ruiz-Reyes (Navy NAWCAD) (Aug 26, 10:07 CDT — IMPORTANT): **"Re: [Non-DoD Source] Re: S0 COTS WAIVER"** — **Navy COTS waiver processing** (S0 platform commercial parts sourcing approval); critical for **procurement/compliance** pipeline
+     - Daniel → Patricia Vollmer (NORAD-USNC) (Aug 26, 09:27 CDT — IMPORTANT): **"Re: (U) AE27 Black Swift UAS -- Where are we now?"** — **NORAD platform status update** (Arctic defense positioning)
+     - Daniel → Maciej Stachura (Aug 26, 09:23 CDT — IMPORTANT): **"Re: [EXTERNAL] Re: AFA Proposal Rejection"** — **AFA proposal rejection coordination** (continuing failed bid analysis/next-steps planning)
+     - Daniel → (dipan@krateosky.com, Brian Grubel, Sona Raziabeegum, Jack Elston, Maciej, Cory) (Aug 26, 12:47 CDT — IMPORTANT): **Undisclosed subject** — **Internal escalation with Krateo partners** (strategic decision point)
+     - Daniel → Jack Elston (Aug 26, 09:46 CDT — IMPORTANT): **"Re: Grant for UAS and Atmospheric Research - ERDC"** — **ERDC grant application response** (Army Corps of Engineers atmospheric research funding)
+   - **Pattern:** Daniel acting as **proposal/contract nexus**; managing **failed bids (AFA), active regulatory processes (COTS waivers, AFAC approvals), international volcanic monitoring ops, Arctic defense positioning, and multi-agency grant coordination**
 
-2. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA HURRICANE/ATMOSPHERIC OPERATIONS + WAVE DATA REMOTE SENSING + ARCTIC UAS + ISARRA FLIGHT WEEK + COLD-WEATHER ENGINEERING**
-   - **NEW OPERATIONAL ACTIVITY (Aug 25–26, Hurricane response + academic partnerships):**
-     - Joe Cione (NOAA) → Maciej (Aug 25, 22:07 UTC — CRITICAL): **"Re: Wave data and dual UAS plots"** — **Active wave/oceanographic data analysis** (implies **real-time dual-platform data collection** underway); suggests operational hurricane reconnaissance or maritime science mission
-     - Maciej → Kevin Adkins (Embry-Riddle) (Aug 25, 19:30 CDT — IMPORTANT): **"Re: [EXTERNAL] Re: ISARRA and Flight Week Aircraft"** — **ISARRA (International Society for Aviation and Astronautics?) Flight Week coordination** with university aviation program
-     - Kevin Adkins → Maciej + Jack (Aug 26, 00:40 UTC — IMPORTANT): **"Re: [EXTERNAL] Re: ISARRA and Flight Week Aircraft"** — Reciprocal escalation from ERAU faculty; suggests **academic demonstration/evaluation event** for S-series platforms
-     - Beck Cotter → Daniel + Maciej + Jack + Cory Dixon (Aug 25, 11:37 CDT — IMPORTANT): **"Fwd: S2 cold-weather performance, a few questions from a Canadian engineer"** — **S2 platform cold-weather capability inquiry from Canadian partner** (new geographic/climatic domain: artic/subarctic ops)
-     - Joe Cione → Maciej (Aug 25, 22:07 UTC — CRITICAL): **"Re: Wave data and dual UAS plots"** — Ongoing wave/dual-platform data thread with NOAA HRD
-   - **Pattern:** Maciej increasingly **operational lead on NOAA missions** (hurricane reconnaissance AL96 operations, wave data collection); **academic partnerships expanding** (ERAU, ISARRA); **cold-weather/arctic platform performance** becoming critical differentiator
+2. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA HURRICANE/ATMOSPHERIC OPERATIONS + WAVE DATA COLLECTION + ARCTIC UAS + COLD-WEATHER EVAL + SOCOM PROPOSAL CHAIN + NOAA EAD JOB POSTING**
+   - **CRITICAL NEW ACTIVITY (Aug 26–27, Active operational tempo + recruiting signal):**
+     - Maciej → Michael Hurowitz (WeatherStream) (Aug 26, 08:46 CDT — IMPORTANT): **"Re: Fw: An opportunity was posted by DOC/NOAA - EAD today, 8/26/2026 7:30:00 AM"** — **NOAA EAD (Environmental Affairs Division?) job posting notification** forwarded through WeatherStream contact; suggests **Maciej monitoring NOAA personnel/organizational changes** or exploring **lateral moves**; indicates **close coordination with NOAA external network**
+     - Michael Hurowitz → Maciej (upstream, Aug 26, 07:30 CDT): **"Fw: An opportunity was posted by DOC/NOAA - EAD today"** — **Maciej received unsolicited NOAA job alert** (possible sign of **recruitment attention** or **strategic career monitoring**)
+     - Maciej receives direct SOCOM correspondence (via Jack receiving AFA rejection chain)
+   - **Pattern:** **Operational lead on NOAA missions + potential career crossroads signal** (job posting interest); **growing NOAA organizational visibility**
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + GOVERNMENT RELATIONS + NASA ROSES PROPOSALS + S2 COLD-WEATHER EVAL**
-   - **NEW ACTIVITY (Aug 25–26, NASA proposal + NOAA task orders):**
-     - Ben Maglio (CU Boulder) → Beck (Aug 25, 20:11 UTC — IMPORTANT): **"Re: NASA ROSES25 - Biosphere Step 1"** — **NASA ROSES25 proposal Step 1 evaluation feedback** (biosphere/Earth observation sensing domain)
-     - Beck → Ben Maglio (Aug 25, 13:39 CDT — IMPORTANT): **"Re: NASA ROSES25 - Biosphere Step 1"** — Beck coordinating NASA proposal response with CU Boulder faculty
-     - Beck → Daniel + Maciej + Jack + Cory (Aug 25, 11:37 CDT — IMPORTANT): **"Fwd: S2 cold-weather performance, a few questions from a Canadian engineer"** — Distributing cold-weather technical inquiry across team
-   - **Pattern:** Beck managing **NASA grant cycle** (ROSES25 Biosphere) alongside **NOAA operational partnerships**; positioning S2 for **cold-climate/arctic markets**
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS + NASA ROSES PROPOSALS + GOVERNMENT RELATIONS + S2 COLD-WEATHER EVAL + NEW DELIVERY ORDER PROCESSING**
+   - **NEW CRITICAL ACTIVITY (Aug 26–27, NOAA platform delivery + NASA proposal):**
+     - Beck → Amy McLiverty (NOAA Federal) (Aug 26, 11:46 CDT — IMPORTANT): **"Re: New Delivery Order/30 Platforms"** — **30-unit platform delivery order negotiation/status** with NOAA; indicates **large-scale production/procurement milestone**
+     - Amy McLiverty → Beck (Aug 26, 13:42 EDT — IMPORTANT): **"Re: New Delivery Order/30 Platforms"** — NOAA responding on platform delivery logistics
+     - Beck → Amy (Aug 26, 11:31 CDT — IMPORTANT): **Prior exchange on same delivery**
+     - Beck coordinating **forward PO notifications** to Jack Elston + Meredith Needham (manufacturing/finance visibility)
+   - **Pattern:** Beck now managing **large-scale platform production cycles** (30 units); **NOAA procurement acceleration** visible; **critical milestone for manufacturing/supply chain**
 
-### Top External Partners (NOAA HRD + MILITARY + KRATEO + ACADEMIC)
+### Top External Partners (NOAA HRD + MILITARY + STRATEO + ACADEMIC + VOLCANIC MONITORING)
 
-1. **Joe Cione - NOAA Federal / HRD (joe.cione@noaa.gov)** — **CRITICAL HURRICANE RECONNAISSANCE + AL96 OPERATIONS + WAVE DATA MISSION LEAD**
-   - **INTENSIFIED OPERATIONAL ACTIVITY (Aug 25–26, Active hurricane season engagement):**
-     - Joe → Jack (Aug 25, 20:04 UTC — CRITICAL): **"Updated invitation: AL96: ET interest? @ Wed Aug 26, 2026 8:30am - 9am (MDT) (Jack Elston)"** — **Large-scale NOAA HRD coordination email** (50+ cc'd recipients including NOAA Federal, NOAA Affiliate, university partners, Navy/USAF liaison, international research partners); suggests **active hurricane field campaign** (AL96 = Atlantic hurricane tracking event)
-     - Joe → Jack + 14 other NOAA + university recipients (Aug 25, 20:03 UTC — CRITICAL): **"Invitation: AL96: ET interest? @ Wed Aug 26, 2026 8am - 8:30am (MDT) (Jack Elston)"** — **Prior version of same meeting**; indicates **rapid schedule updates** during **active operational tempo**
-     - Joe → Maciej (Aug 25, 22:07 UTC
+1. **Joe Cione - NOAA HRD (joe.cione@noaa.gov)** — **HURRICANE RECONNAISSANCE AL96 + WAVE/DUAL-PLATFORM DATA COLLECTION + LARGE MEETING COORDINATION**
+   - **(No new direct emails in Aug 26–27 scan, but upstream AL96 coordination continues)**
+   - **Pattern:** Joe remains **operational mission lead** (hurricane season active); coordination likely via Maciej/Beck
+
+2. **Angel Ruiz-Reyes (CIV USN NAWCAD) (angel.r.ruiz-reyes.civ@us.navy.mil)** — **[NEW CRITICAL CONTACT] NAVY PLATFORM EVALUATION + S0 COTS WAIVER PROCESSING**
+   - **NEW DIRECT ACTIVITY (Aug 26–27, Navy technical coordination):**
+     - Angel → Jack Elston + Anthony Brescia (NAWCAD) (Aug 26, 17:14 UTC — IMPORTANT): **"Re: [Non-DoD Source] Re: Today's check-in"** — **Navy platform technical check-in response** (implies **regular Navy coordination cadence** on platform performance/specification)
+     - Daniel ↔ Angel (Aug 26, 10:07 CDT — IMPORTANT): **"Re: [Non-DoD Source] Re: S0 COTS WA

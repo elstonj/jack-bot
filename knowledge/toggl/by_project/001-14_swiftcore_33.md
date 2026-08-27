@@ -4,33 +4,24 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 933.2 hours (849.4 + 83.8)
+- Total hours tracked: 941.1 hours (933.2 + 7.9)
 
 ## Team Allocation
-- Ben Busby: 655.6 hours (70.2%)
-- Stachura: 241.3 hours (25.9%)
-- Jack Elston: 28.6 hours (3.1%)
-- Spencer Hoehl: 7.7 hours (0.8%)
+- Ben Busby: 655.6 hours (69.7%)
+- Stachura: 246.7 hours (26.2%)
+- Jack Elston: 28.6 hours (3.0%)
+- Spencer Hoehl: 10.3 hours (1.1%)
 
 ## Activity Timeline
 Recent work entries (this batch):
-- **Ben Busby**: 
-  - Three 8.0h entries (undocumented)
-  - One 3.0h entry (undocumented)
-  - Pattern of large, undocumented work blocks continues
 - **Stachura**: 
-  - Dominant contributor in this batch (40.7h)
-  - Multiple work blocks ranging 0.3h–8.7h
-  - 23 of 29 entries lack task descriptions
-  - Prior documented work: VTOL development, Gazebo modeling, UI improvements, bug fixes
-- **Jack Elston**: 
-  - 8.4 hours total
-  - Documented work: Debugging (3 entries: 2.0h, 3.8h, 2.2h), SwiftCore 3.1 Review (0.5h)
-  - Continued firmware and code review focus
+  - 5.4 hours across 2 entries (2.5h, 2.9h)
+  - Both entries undocumented
+  - Cumulative: 40.7h → 46.1h in recent batches
 - **Spencer Hoehl**: 
-  - New/emerging contributor (7.7h, all undocumented)
-  - 5 entries ranging 0.7h–2.8h
-  - No prior tracked activity on this project
+  - 2.6 hours across 2 entries (2.2h, 0.3h)
+  - Both entries undocumented
+  - Continued new contributor activity; still no documented context
 
 ## Insights
 - **Primary work types** (from historical context):
@@ -43,9 +34,10 @@ Recent work entries (this batch):
   - Firmware integration and branch merging
 
 - **Notable patterns**:
-  - **⚠️ CRITICAL: Documentation crisis escalating**: 26 of 29 entries (90%) in this batch lack task descriptions. Previous batches showed similar gaps primarily from Ben Busby; now affecting all team members including new contributor (Spencer Hoehl).
-  - **Stachura now carries largest portion of recent work** (48.6% of batch), shifting from secondary to primary contributor role
-  - **Ben Busby's contribution declining** in this batch (32.2%) while maintaining highest cumulative hours
-  - **Jack Elston continuing structured work** with consistent documentation (debugging, code review)
-  - **Spencer Hoehl entering project** with no documented context; requires onboarding clarity
-  - **Urgent action required**: Establish and enforce mandatory task description standards across all team members to restore project visibility and knowledge continuity
+  - **🔴 CRITICAL: Documentation crisis persists**: All 4 entries (100%) in this batch lack task descriptions. Escalation continues across all active contributors.
+  - **Stachura maintaining primary contributor role** in recent work (5.4h / 7.9h = 68% of batch)
+  - **Spencer Hoehl activity consistent** but remains undocumented; total project hours now 10.3h
+  - **Urgent action required**: 
+    - **Immediate**: Implement mandatory task description enforcement for all time entries
+    - **High priority**: Onboard Spencer Hoehl with documented project context and work assignments
+    - **Follow-up**: Review Ben Busby's 655.6h cumulative entries for retroactive documentation where feasible

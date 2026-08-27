@@ -17,17 +17,17 @@
 ⚠️ **CRITICAL: All milestone due dates are STALE per team corrections (Maciej Stachura, April 17, 2026; Jack Elston, April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not action these due dates without confirmation from Maciej.**
 
 ### Major Milestones (Asana Due Dates — STALE, Await Fall 2026 Confirmation)
-- **Verify Operator Manual and Flight CONOPS submitted to AFAC** | Dan Prendergast | Asana due: 2026-08-24 | **STALE & OPEN**
-- **Obtain flight approvals from AFAC** | Dan Prendergast | Asana due: 2026-09-14 | **STALE & OPEN**
-- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: 2026-08-31 | **STALE & OPEN**
+- **Verify Operator Manual and Flight CONOPS submitted to AFAC** | Dan Prendergast | Asana due: 2026-08-27 | **STALE & OPEN**
+- **Investigate alternate Sub for AFAC coordination** | Dan Prendergast | Asana due: 2026-08-27 | **STALE & OPEN** *(new task, added since last update)*
+- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: 2026-09-21 | **STALE & OPEN**
 - **Package and Ship S2 Equipment** | Dan Prendergast | Due: 2026-01-21 | ✅ **COMPLETED January 22, 2026**
 
 ## Task Summary
 - **Total Tasks**: 3 open, 1 completed
 - **Current Open Tasks**: All assigned to Dan Prendergast (3 of 3)
-  - Verify Operator Manual and Flight CONOPS submitted to AFAC (due 2026-08-24 — **STALE**)
-  - Obtain flight approvals from AFAC (due 2026-09-14 — **STALE**)
-  - Verify ground permissions for national park (due 2026-08-31 — **STALE**)
+  - Verify Operator Manual and Flight CONOPS submitted to AFAC (due 2026-08-27 — **STALE**)
+  - Investigate alternate Sub for AFAC coordination (due 2026-08-27 — **STALE**)
+  - Verify ground permissions for national park (due 2026-09-21 — **STALE**)
 - **Completion Rate**: 25% (1 of 4 tracked core deliverables completed)
 
 **Note**: All 3 open tasks carry August–September 2026 due dates — these are **STALE per team corrections**. Deployment moved to Fall 2026; no active flight planning or mission prep underway.
@@ -72,3 +72,5 @@ Project paused pending Fall 2026 deployment timeline confirmation. Batteries in 
   - Maciej to confirm: request customs broker Javi for formal ECCN/import classification confirmation
   - Maciej to confirm: whether to notify team of battery import details
   - Team to await Fall 2026 timeline confirmation before actioning any flight planning, permissions, or approvals
+
+- **New Sub-task**: "Investigate alternate Sub for AFAC coordination" (due 2026-08-27) added since last knowledge file update — purpose and context TBD; likely related to regulatory/approvals coordination for Fall 2026 deployment.

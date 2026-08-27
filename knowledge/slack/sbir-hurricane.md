@@ -68,4 +68,5 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Display units to ship without tripods/mounts/carry cases in cardboard tubes or boxes, shipped folded (April 22, 2026)
 - Special thicker-skin wings to be commissioned for display models to improve appearance (April 21, 2026)
 - Wing springs and antenna NOT to be pre-installed on display units to reduce shipping damage risk (April 22, 2026)
-- All 4 
+
+## Projects & Initiatives

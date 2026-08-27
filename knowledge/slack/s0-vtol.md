@@ -3,9 +3,10 @@
 ## Overview
 This channel is primarily used for development and testing of BST's S0 VTOL aircraft - a vertical takeoff and landing aircraft capable of transitioning to forward flight. The channel covers technical discussions, flight testing, hardware debugging, and customer delivery preparation.
 
-Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast
+Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast, Meredith Needham, Kevin
+
 Activity: High activity with 1500+ messages covering approximately 2+ years of development
-Time range: Early development through August 25, 2026 (ongoing project)
+Time range: Early development through August 26, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -35,7 +36,9 @@ Time range: Early development through August 25, 2026 (ongoing project)
 - S0 systems will not include handsets, only tablet joysticks for manual mode
 - Decision to leave aircraft in Barbados rather than shipping back ($1600 vs $360 cost)
 - **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing
-- **ISARRA Flight Week: August 30 - September 3, 2026** with target shipping by early week (August 24 decision to potentially split: S01005 earlier, ERAU S0s early next week)
+- **ISARRA Flight Week: August 30 - September 3, 2026** with target shipping by early week
+- **Delivery Timing - August 26, 2026:** Two S0 aircraft will ship tomorrow afternoon (August 27) for Friday (next day air) or Saturday (2nd day air) delivery to ERAU. Hotel shipping arranged for Saturday delivery. S0s require test flight on Thursday morning before shipment.
+- **Backup Shipping Plan:** BST's own S0 can ship this afternoon (August 26) if needed for ISARRA calibration day, with ERAU deliverables following Monday
 - **Test Plan for ISARRA (August 17, 2026):**
   - 50 flights total (aggressive target given single aircraft and time constraints)
   - 5 flights >45 minutes collecting wind data
@@ -44,7 +47,8 @@ Time range: Early development through August 25, 2026 (ongoing project)
   - Aborted landing during transition
   - Flight to min safe battery with hover testing below cutoff
   - Test in >20 mph winds
-- **Production Scaling:** Building multiple S0-VTOL aircraft in parallel; target 3 aircraft ready (S01005, S10020, and additional airframe) by late August 2026
+
+**Production Scaling:** Building multiple S0-VTOL aircraft in parallel; target 3 aircraft ready (S01005, S10020, and additional airframe) by late August 2026
 
 **Hardware Fixes & Resolutions:**
 - Sam switched from MSI to HSI clock source to fix heat sensitivity lockup issues
@@ -66,29 +70,22 @@ Time range: Early development through August 25, 2026 (ongoing project)
 
 ## Projects & Initiatives
 
-### S0-VTOL Flight Testing Campaign (August 2026)
-**Current Status:** Active flight testing with S01005 as primary test aircraft
-- **August 24-25, 2026:** S01005 successfully completed full transition with minor GPS issues and multiple smooth transitions documented
-- **Flight Performance (August 25, 2026):** 7 flights flown from ~95% to 40% battery; landing still manageable at 40% but takeoff near saturation at just under 50% (flying older Samsung cells; new RS50 cells expected to perform significantly better at <40%)
-- **Parallel Airframe Build-up:** Sam Hild bringing up 3 additional S0-VTOL autopilot stacks; at least 1-2 expected ready by August 25-26 for integration into new airframes
-- **Ground Testing Protocol:** 30-second joystick hovers with rest between flights to prevent overheating; manual hover tests out back before field flights; target 20% battery minimum before landing
-- **Avionics Swap (August 24, 2026):** Plan to swap S1-VTOL avionics into S01005 for continued testing
-- **Next Phase:** Sod Farm testing campaign targeting 15-20 transition flights on S01005 by August 25-26
+### S0-VTOL Flight Testing Campaign & Delivery (August 2026)
+**Current Status:** Active flight testing with S01005 as primary test aircraft; production scaling to 3 aircraft complete
 
-### S1-VTOL Testing
-**Current Status:** Supporting S0 development with proven platform
-- 120+ successful flights on T-Motor ESC in PWM mode
-- Successfully tested lost GPS and lost mags recovery code (both result in auto land)
-- Being used as avionics donor and to validate new firmware before S0 deployment
+**Recent Progress (August 26, 2026):**
+- **Three autopilot stacks "ready" and handed off to Alex Lomis** for integration into new airframes (Sam Hild)
+- **Software Build:** Binary git hash cf989224 deployed to two new aircraft (August 26, 09:10)
+- **Updated firmware:** Git hash fac00f21 released (August 26, 09:39) for pre-flight testing
+- **Pre-flight Testing Protocol:** New firmware requires 10-second joystick hover test before first transition flight
+- **Hardware Issue Identified:** Sam Hild reports hardware fault on one stack that didn't previously have one; surfaces not always coming up on power-on despite correct packet transmission - suspected hub board issue (August 26, 09:41)
+- **Test Rig Diagnostics:** Two of three autopilots appear functional; test rig identified as source of earlier issues rather than autopilot hardware (August 26, 09:26)
 
-### Multiple S0-VTOL Airframe Production
-**Current Status:** Building to 3 aircraft total by late August 2026
-- S01005: Primary test aircraft, now flying transition tests
-- S10020: Secondary aircraft being prepared (hub board updates needed, ESC reversion to T-Motor)
-- Third aircraft: In assembly, needs avionics and final checkout
-- **Challenge:** Finding 3 autopilot boards with working sensor combinations is major bottleneck
+**Earlier Progress (August 24-25, 2026):**
+- S01005 successfully completed full transition with minor GPS issues and multiple smooth transitions documented
+- 7 flights flown from ~95% to 40% battery; landing still manageable at 40% but takeoff near saturation at just under 50% (flying older Samsung cells; new RS50 cells expected to perform significantly better at <40%)
+- Plan to swap S1-VTOL avionics into S01005 for continued testing
+- Target 20+ transition flights on S01005 by August 25-26
 
-### New ESC Integration
-**Status:** Attempted but abandoned; reverted to proven solution
-- Initial plan: Replace T-Motor ESCs with new protocol ESCs for better reliability
-- Issue encountered (August
+**Delivery Timeline:**
+- Two S0 aircraft shipping August 27 (tomorrow afternoon) for ERAU/IS

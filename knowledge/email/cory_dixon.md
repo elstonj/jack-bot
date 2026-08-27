@@ -1,147 +1,120 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 100
-- **Date range:** August 17–25, 2026 (9 days)
-- **Volume pattern:** High activity spike consistent with new hire onboarding + active project engagement; ~11 messages/day average
-- **Outbound emails:** Now visible (12 sent messages identified), indicating transition from pure observer to active contributor
+- **Total messages scanned:** 125 (100 prior + 25 new)
+- **Date range:** August 17–27, 2026 (11 days)
+- **Volume pattern:** Sustained high activity; ~11 messages/day average
+- **Outbound emails:** 18+ confirmed sent messages (increasing contributor role)
+- **New pattern:** Aug 26–27 shows inflection toward operational/hiring coordination (shop floor, staffing, job postings)
 
 ## Key Correspondents
 
 ### Top Senders
 1. **Jack Elston** (elstonj@blackswifttech.com) — ~35 messages
-   - Continues as primary contact; now forwarding strategic items directly to Cory
-   - Topics: NOAA contracts, Krateo Sky coordination, legal/fee clarifications, marketing work, recruitment
+   - Continues as primary contact; strategic forwarding, contract coordination
+   - Now visible on legal/fee communications (Ryan Sykora threads)
 
 2. **Pam Kermisch** (pam@krateosky.com) — ~8 messages
-   - Krateo Sky liaison; NOAA whitepapers coordination
-   - Large group email threads (Krateo Sky + BST teams)
+   - Krateo Sky liaison; NOAA coordination
 
 3. **Beck Cotter** (beck.cotter@blackswifttech.com) — ~5 messages
-   - Technical/project discussion (S2 cold-weather, Arctic UAS, NOAA contracts)
-   - Appears to be engineering/operations lead
+   - Technical leads
 
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ~5 messages
-   - Technical leads, forwarding candidate submissions, SOCOM/military contacts
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ~7 messages (↑ from 5)
+   - Increased frequency; now directing multi-org threads (Krateo Sky + BST + partners)
+   - Appears to be escalation point for technical/strategic decisions
+
+5. **Staffing/Recruitment Vendors** (NEW) — ~7 messages
+   - Active Soft Staffing (John Smith), Raya Workforce (Jordan Anderson), ProTouch Staffing (Spencer Kingsley), Talent Staffing Pro (Hayden Vance)
+   - **Focus:** Manufacturing Production Associate role (Boulder, CO)
+
+6. **Creative Alignments** (NEW) — ~4 messages
+   - Hadley Solomon, Triza Codillo, Molly O'Handley, Danielle Octavi
+   - **Context:** HR/recruiting/compensation coordination; interview scheduling (Paige Beert candidate)
+
+7. **Robert Vega** (Gogo Air) — ~2 messages (↑ from 1)
+   - Active conversation Aug 26 ("Black Swift" product inquiry) — escalating
+
+8. **Ryan Sykora** (KO Law PC) — ~1 message (↑ visibility)
+   - Legal/fee clarification; now directly copied on BST threads (Cory, Jack, Maciej)
 
 ### Top Recipients (Cory's Outbound)
-1. **Daniel Prendergast** — 2 sends
-   - Forwarding S2 technical inquiries and job descriptions
-2. **Pam Kermisch** (Krateo Sky) — 1+ sends
-   - NOAA whitepapers coordination
-3. **Spencer Hoehl, Nathaniel Straus** (BST) — recruiting/HR related
-4. **External partners:** Chris Pitfield (NextechSol), Robert Vega (Gogo Air), Dylan Joseph Mark (CU Boulder)
+1. **Daniel Prendergast** — 3+ sends
+2. **Robert Vega** (Gogo Air) — 1 reply
+3. **Creative Alignments team** (Hadley Solomon, Triza Codillo) — 1+ sends
+4. **Sona Raziabeegum** (Krateo Sky) — 1+ send
+5. **Info@blackswifttech.com** — Appears in routing of general inquiries
 
 ### Internal vs External
-- **Internal:** ~75 of 100 (75%)
-- **External:** ~25 of 100 (25%)
-  - **Krateo Sky:** Pam Kermisch, Bob Smith, Sona Raziabeegum, Brian Grubel, LisaMarie Cheney, Jed Leonard, Ariel Avitan
-  - **Government/Academia:** NOAA (Nikolai Pawlenko), ERAU (Kevin Adkins), UND (Koduah Amoako), CU Boulder (Dylan Joseph Mark)
-  - **Partners/Vendors:** NextechSol, Gogo Air, KO Law PC (Ryan Sykora), Colorado Group (Ashley Overton)
+- **Internal:** ~82 of 125 (66%, ↓ from 75%)
+- **External:** ~43 of 125 (34%, ↑ from 25%)
+  - **Krateo Sky:** Pam Kermisch, Bob Smith, Sona Raziabeegum, Brian Grubel, LisaMarie Cheney, Jed Leonard, Ariel Avitan, Dipan
+  - **Government/Academia:** NOAA (Nikolai Pawlenko), ERAU (Kevin Adkins), UND, CU Boulder
+  - **Vendors/Partners:** NextechSol, Gogo Air (Robert Vega), KO Law PC (Ryan Sykora), Colorado Group
+  - **Staffing/HR:** Active Soft Staffing, Raya Workforce, ProTouch Staffing, Talent Staffing Pro, Creative Alignments
+  - **Technology Partners:** LOCOSYS Tech (Frank Kuo), Atomgeo Pvt. Ltd., Deep Origin Lead Tech (Eric Wang)
 
 ## Topic Patterns
 
-### Primary Work Streams
+### Primary Work Streams (Updated Priorities)
 
-#### 1. **NOAA Contract & Whitepapers** (Highest frequency)
-- Large coordinated effort between BST, Krateo Sky, and NOAA
-- Cory actively participating in multi-org email chains (Aug 19–20)
-- Topics: "NOAA Whitepapers - Missing Items," "NOAA Contract Comms & Incoming Task Orders," "New Delivery Order/30 Platforms"
-- Contact: Nikolai Pawlenko (NOAA Federal)
+#### 1. **NOAA Contract & Whitepapers** (Ongoing)
+- Continues high frequency; coordination with Krateo Sky + BST teams
+- Recent threads show legal/fee clarifications (Aug 26, Ryan Sykora involved)
 
-#### 2. **Arctic UAS / Minerva Arctic Program**
-- Subject: "Fwd: Arctic UAS Opportunities," "Minerva Arctic UAS Plan"
-- External contact: Chris Pitfield (NextechSol), Trenton McKibben
-- Canadian forces involvement: Nicolas Verreault, Harry Wong (forces.gc.ca)
-- CJFC Engineering Sprint coordination mentioned
-- Cory sent direct proposal email to Chris Pitfield (Aug 21)
+#### 2. **Arctic UAS / Minerva Arctic Program** (Ongoing)
+- S2 cold-weather performance inquiry still active (John Kosteroski follow-up Aug 26)
+- Engineering technical questions continue routing through Daniel Prendergast
 
-#### 3. **S2 Aircraft Cold-Weather Performance**
-- Technical inquiry from external engineer (Canadian context)
-- Questions routed through multiple team members
-- Involves: Beck Cotter, Daniel Prendergast, Maciej Stachura
-- Subject: "S2 cold-weather performance, a few questions from a Canadian engineer"
+#### 3. **Manufacturing & Facility Operations** (NEW — Elevated Priority)
+- **"Working Meeting - New Shop Floor Layout"** (Aug 26, 2:30 PM, Joshua Fromm organizer)
+  - Indicates facility expansion/restructuring; Cory directly involved in layout decisions
+- Suggests manufacturing scaling or production transition
 
-#### 4. **Krateo Sky Integration & Release**
-- "Black Swift Release: Draft 1" — product/software release coordination
-- Cory participating in large Krateo Sky team discussions
-- Topics: BST status checks, release documentation, white papers
-- Heavy email thread activity Aug 19–21
+#### 4. **Staffing/Hiring — Manufacturing Focus** (NEW — High Frequency Aug 26–27)
+- **Manufacturing Production Associate** — Boulder, CO role
+  - 5+ staffing agencies submitting candidates simultaneously (Aug 26)
+  - LinkedIn job posting active; 2 new applicants (Aug 26)
+  - Suggests urgent/high-priority hire
+  - Agencies: Active Soft Staffing, Raya Workforce, ProTouch Staffing, Talent Staffing Pro
+- **Recruitment Coordination Partner:** Creative Alignments (Hadley Solomon leads)
+  - Salary range negotiation underway (Aug 25, Cory asking salary ranges)
+  - Candidate interview scheduled: Paige Beert, Aug 28, 8–8:45 AM MDT
+  - Indicates formal HR process maturation
 
-#### 5. **Recruitment & Hiring**
-- Cory actively involved in technical hiring
-- Roles identified: Flight Test Engineer, Mid-level Electrical Engineer (Analog/Digital, Boulder)
-- Metaview AI candidate notifications sent to Cory
-- Forwarding job descriptions to internal team (Spencer Hoehl, Nathaniel Straus)
-- Candidate submission: Jenna Layton (Technical Project Manager)
+#### 5. **Krateo Sky Integration & Release** (Ongoing)
+- Daniel Prendergast now coordinating multi-org strategy threads (Krateo Sky + BST)
+- Sona Raziabeegum, Brian Grubel, Dipan visible in thread chains
 
-#### 6. **Legal/Financial**
-- "Clarification on Fees / Identification" — appears to involve law firm (KO Law PC, Ryan Sykora)
-- June 2026 invoice tracking
-- Brad Cheetham involved (external legal/business contact)
+#### 6. **Legal/Financial** (Ongoing)
+- Ryan Sykora (KO Law PC) now directly in BST threads
+- "Clarification on Fees / Identification" topic continues
+- Jack Elston, Cory Dixon, Maciej Stachura all copied
 
-#### 7. **Academic Partnerships**
-- CU Boulder student project team hosting (Dylan Joseph Mark)
-- ISARRA and Flight Week Aircraft collaboration (ERAU, Kevin Adkins)
-- Appears related to UAS development/testing
+#### 7. **Business Development / Product Inquiry** (NEW — External Visibility)
+- **Robert Vega (Gogo Air):** Active conversation Aug 26 re: "Black Swift" — appears to be product/partnership inquiry
+- **Inbound technical inquiries** (Aug 27):
+  - LOCOSYS Tech (Frank Kuo) — GNSS/RTK solution for drones/UAVs/USVs
+  - Atomgeo Pvt. Ltd. — Collaboration opportunity
+  - Deep Origin Lead Tech (Eric Wang) — Modular imaging payloads for UAS
+- **Routed to:** info@blackswifttech.com (general inbox), sales@blackswifttech.com
+- Indicates BST website is generating qualified inbound interest (not just outbound hunting)
 
-#### 8. **Government/Military Relations**
-- SOCOM ROMs discussion (Special Operations Command)
-- "BST S0-AD Development Options" to USSOCOM contact (Evan M Wolff MIL)
-- Strategic military applications visible
+#### 8. **Academic Partnerships** (Ongoing)
+- ISARRA and Flight Week Aircraft coordination continues (Kevin Adkins, ERAU)
 
-#### 9. **Marketing & Conference**
-- AGU 2026 (American Geophysical Union) speaking opportunity
-- Murphy's Pond Dataset discussions (atmospheric/geographic project)
-- Conference invoicing and logistics
-- Contact: Jamie Saunders (Taffy Events)
+#### 9. **Dual Email Identity Pattern** (NEW — Notable)
+- **Cory operates from multiple email addresses:**
+  - `cory.dixon@blackswifttech.com` (BST primary)
+  - `cory@krateosky.com` (Krateo Sky; used in HR/salary coordination Aug 25)
+  - `cory.dixon@bst.aero` (BST secondary; used by staffing agencies)
+- Suggests integrated role across BST + Krateo Sky (not siloed)
 
-#### 10. **Facility/Operations**
-- "Work on the new space" — office/facility related
-- Ashley Overton (Colorado Group) — real estate/facilities contact
-
-### Project/Product Codenames Visible
-- **S2** — Aircraft platform (cold-weather testing)
-- **S0-AD** — Development option (military context)
-- **Minerva Arctic** — Arctic UAS program
-- **Tiger Team Meetings** — Strategic coordination group (carryover from prior data)
-
-### External Organizations & Contacts
-- **Krateo Sky** — Deep integration partner (9+ team members in threads)
-- **NextechSol** — Arctic UAS partner
-- **NOAA** — Government customer (contract/whitepaper collaboration)
-- **USSOCOM** — Military customer
-- **CU Boulder, ERAU, UND** — Academic partners
-- **Gogo Air** — Robert Vega contact (product/market inquiry)
-- **KO Law PC** — Legal firm (Ryan Sykora)
-- **Colorado Group** — Facilities/real estate (Ashley Overton)
-
-## Communication Patterns
-
-### Time Patterns
-- **Heavy activity:** Aug 19–21 (Wed–Fri) and Aug 24–25 (Sun–Mon)
-- **Late-night emails:** Jack Elston frequently sending 11 PM–2 AM (suggests founder/CEO working odd hours)
-- **International coordination:** UTC timestamps indicate Krateo Sky (likely global) coordination
-- **Weekend/early morning:** Sun Aug 23 and Sun–Mon Aug 24 activity visible (urgency indicator)
-
-### Email Chain Dynamics
-- **Large group threads:** 8–10 person Krateo Sky + BST coordination threads common
-- **Reply-all culture:** Cory participating in multi-org coordination (not siloed)
-- **Rapid escalation:** Topics move from Cory → Jack Elston → external partners quickly
-
-### Mailing Lists / Automated
-- **Asana notifications** — task management integration
-- **Google Drive/Docs shares** — frequent (setup/onboarding continuing)
-- **Google Calendar/Meet** — meeting note capture
-- **Metaview AI** — recruiting platform notifications
-- **LinkedIn** — job posting notifications
-- **ChatGPT** — tool usage confirmation
-- **Gemini Notes** — Google Notes auto-capture from meetings
-
-### Newsletter/Promotional (Filtered)
-- UAS Summit & Expo (industry conference)
-- Minimal promotional noise relative to operational traffic
-
-## Key Relationships
-
-### Closest Internal Collaborators (by email frequency +
+### External Organizations & Contacts (Updated)
+- **Krateo Sky** — Deep integration; now strategic in product/hiring decisions
+- **Gogo Air** (Robert Vega) — Product/partnership escalation visible
+- **NOAA** — Contract ongoing
+- **Creative Alignments** — HR/recruitment partner (not just recruiting platform)
+- **Staffing Vendors** — 5+ active agencies submitting candidates
+- **Technology Partners (NEW):**
+  - LOCOSYS Tech (GNSS/

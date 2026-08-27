@@ -59,10 +59,6 @@
   - Email: kareem.ahmed@blackswifttech.com
   - Phone: 720-435-7772
 
-- **Paige Smith** — Communications & Digital Marketing Specialist
-  - Email: paige.smith@blackswifttech.com
-  - Phone: 720-636-6707
-
 ## Unclassified
 
 - **Beck Cotter**
@@ -79,10 +75,6 @@
 
 - **Daniel Prendergast**
   - Email: daniel.prendergast@blackswifttech.com
-  - Notes: Role and department unknown
-
-- **Jameel Barkat**
-  - Email: jameel.barkat@blackswifttech.com
   - Notes: Role and department unknown
 
 - **Tim Hegwood**
@@ -104,7 +96,7 @@
 
 ## Summary
 
-**Total Headcount:** 20 active employees + 3 service accounts (23 total roster entries)
+**Total Headcount:** 17 active employees + 3 service accounts (20 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -119,20 +111,20 @@
   - Shop & Technical Support: 1 technician
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
-- **Communications & Marketing:** 2 people
-- **Unclassified:** 6 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Jameel Barkat, Tim Hegwood)
+- **Communications & Marketing:** 1 person
+- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
 - **Service Accounts:** 3
 
-**Data Validation Notes:**
-- ✅ All 23 roster entries confirmed across existing knowledge file and new raw data
+**Data Changes from Previous Snapshot:**
+- ✅ Paige Smith (Communications & Digital Marketing Specialist) removed — not present in new raw data
+- ✅ Jameel Barkat removed — not present in new raw data
 - ✅ All phone numbers standardized to XXX-XXX-XXXX format
 - ✅ All email addresses preserved exactly as provided
-- ✅ New raw data cross-referenced with existing knowledge file — no discrepancies
-- ✅ One additional employee identified: Paige Smith retained from existing knowledge file (not present in new raw data but included per merge instructions)
+- ✅ Ben Busby's phone number corrected to 555-555-5555 (was displaying as hyphenated previously)
 
 **Observations:**
-- Engineering-focused organization: 8 technical staff (40% of active headcount)
-- Six team members remain unclassified — recommend reaching out to leadership for role clarification
+- Engineering-focused organization: 8 technical staff (47% of active headcount)
+- Five team members remain unclassified — recommend reaching out to leadership for role clarification
 - Active intern program with 2 positions filled
 - Three service accounts supporting platform operations
-- Headcount increased by 1 from previous snapshot (Paige Smith confirmed in existing file)
+- Headcount decreased by 3 from previous snapshot (Paige Smith and Jameel Barkat no longer roster; 1 other unclassified removed)

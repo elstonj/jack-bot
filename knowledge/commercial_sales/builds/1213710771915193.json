@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Draft ROM and SOW submitted to Trenton on 2026-07-31 for Engineering Sprint. Demo planned June 24-26, 2026 in Ottawa; Arctic demo Nov-Apr 2027 in Whitehorse. Customer (Joint Forces Command evaluating) seeking 120km range (1h 35min TOF) S3 with EO/IR gimbal. BST owes background info on past S2 Arctic ops and Canadian company contacts. Related inquiry from John Kosteroski (Saskatoon engineer) on 2026-08-24 regarding S2 cold-weather performance for Canadian government program\u2014may indicate broader Arctic UAS market traction.",
+  "notes": "Draft ROM and SOW submitted to Trenton on 2026-07-31 for Engineering Sprint. Demo planned June 24-26, 2026 in Ottawa; Arctic demo Nov-Apr 2027 in Whitehorse. Customer (Joint Forces Command evaluating) seeking 120km range (1h 35min TOF) S3 with EO/IR gimbal. BST owes background info on past S2 Arctic ops and Canadian company contacts. Related inquiry from John Kosteroski (Saskatoon engineer) on 2026-08-24 regarding S2 cold-weather performance for Canadian government program\u2014may indicate broader Arctic UAS market traction. Minerva Arctic UAS Plan meeting held 2026-08-25 with Maciej, Dan, Beck, Cory covering this opportunity.",
   "missing_fields": [
     "ship_to",
     "receive_by",

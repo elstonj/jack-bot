@@ -49,10 +49,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units built and ready; shipping arranged for ISARRA Flight Week (late August/early September 2026). Maciej/Spencer attending to provide training support. Kevin confirmed staff readiness; ongoing active engagement through summer 2026.",
+  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units built and ready; shipping arranged for ISARRA Flight Week (late August/early September 2026). Maciej/Spencer attending to provide training support. Kevin confirmed staff readiness; ongoing active engagement through summer 2026. Delivery target Friday before intercomparison flights Sunday.",
   "missing_fields": [
-    "tracking_number"
+    "tracking_number",
+    "shipped_date"
   ],
-  "last_evidence_date": "2026-08-25",
-  "last_contact_date": "2026-08-25"
+  "last_evidence_date": "2026-08-26",
+  "last_contact_date": "2026-08-26"
 }

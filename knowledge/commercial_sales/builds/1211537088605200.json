@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active CRADA development with USAF SOCOM for S0-AD C-130 air-launch demo Aug 14\u201318, 2026. Demo unit shipped 3/11/26, delivered and approved by Wolff 3/17/26. Facility visit 4/27/26. Sustained engagement through 8/24/26: IWP signed 7/23/26, Wolff requesting IRF and AIS documents 7/24/26, ROM and commercial purchase option under discussion. Wolff hosted BST team (Jack Elston, Bryan) and reviewed draft ROM on 8/24/26; requested finished ROM. Dan Prendergast and Bob Smith confirmed to support demo on ground. Pricing discussions ongoing (S0-AD Atmospheric Payload $18k, PCLT compatibility, METAR recording capability being scoped). Clear path to follow-on commercial purchase.",
+  "notes": "Active CRADA development with USAF SOCOM for S0-AD C-130 air-launch demo Aug 14\u201318, 2026. Demo unit shipped 3/11/26, delivered and approved by Wolff 3/17/26. Facility visit 4/27/26. Sustained engagement through 8/26/26: IWP signed 7/23/26, Wolff requesting IRF and AIS documents 7/24/26, ROM and commercial purchase option under discussion. Wolff hosted BST team (Jack Elston, Bryan) and reviewed draft ROM on 8/24/26; requested finished ROM. Dan Prendergast and Bob Smith confirmed to support demo on ground. Pricing discussions ongoing (S0-AD Atmospheric Payload $18k, PCLT compatibility, METAR recording capability being scoped). Clear path to follow-on commercial purchase. Most recent contact 8/26/26: Wolff and Jagelewski confirming launch altitude/airspeed envelope testing, NOAA also interested in launching S0 from aircraft at altitude.",
   "missing_fields": [
     "parts",
     "invoice_date",
     "invoice_amount"
   ],
-  "last_evidence_date": "2026-08-24",
-  "last_contact_date": "2026-08-24"
+  "last_evidence_date": "2026-08-26",
+  "last_contact_date": "2026-08-26"
 }

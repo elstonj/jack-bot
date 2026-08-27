@@ -1,97 +1,63 @@
 # Slack Channels Overview
 
-Last scanned: 2026-08-26 01:35
+Last scanned: 2026-08-27 02:15
 
-Total channels scanned: 16
+Total channels scanned: 7
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 53 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#25_1-navy-sttr-boundary-layer** -- 90 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
-- **#by-lite-mustang** -- 2 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 5 messages -- [commercial-sales.md](commercial-sales.md)
-- **#emass** -- 2 messages -- [emass.md](emass.md)
-- **#flight-testing** -- 123 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 50 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 185 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 24 messages -- [marketing.md](marketing.md)
-- **#operations** -- 27 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 164 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 15 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 305 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#sbir-volcano** -- 3 messages -- [sbir-volcano.md](sbir-volcano.md)
-- **#soil-moisture-mapping** -- 4 messages -- [soil-moisture-mapping.md](soil-moisture-mapping.md)
-- **#swiftcore** -- 24 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#25_1-navy-sttr-boundary-layer** -- 1 messages -- [25_1-navy-sttr-boundary-layer.md](25_1-navy-sttr-boundary-layer.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 6 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 12 messages -- [s0-vtol.md](s0-vtol.md)
+- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Core Active Projects
+## Core Business Focus
+BST operates primarily around **UAS development and government contracting**, with three main technical platforms:
+- **S0 VTOL** - Vertical takeoff/landing aircraft (development & delivery phase)
+- **S0 Hurricane** - Hurricane reconnaissance variant (mature operational project)
+- **Magnetometer systems** - Navy SBIR/STTR projects integrating magnetic anomaly detection
 
-**Aircraft Development (Primary Focus)**
-- **S-Series VTOL**: S0-VTOL and S3 development progressing with emphasis on hybrid fixed-wing/quadcopter architecture, targeting 2-3 hour endurance
-- **Navy SBIR/STTR Programs**: Magnetometer integration (QuSpin/Bartington) and boundary layer atmospheric sensing for tropical cyclone research
-- **Hurricane Reconnaissance**: S0 platform for SBIR Hurricane project (active 2020-2026)
-- **Volcano Monitoring**: S2/S3 deployment with specialized sensors under NASA/USGS collaboration
-- **By Light Mustang**: USAF contract for Yuma testing; two-phase approach demonstrating original aircraft limitations, then developing Chilli airframe for 400km range mission
+## Active Projects & Funding
+**Government funding dominance:** Heavy concentration on Navy SBIR/STTR contracts and broader federal grants (NASA, NOAA, USDA, DOE, DOD). #grants-and-funding serves as strategic hub for proposal pipeline and award management.
 
-**Commercial/Research Systems**
-- **Soil Moisture Mapping**: Fully operational by 2025 using DJI E2 with integrated spectral/thermal sensor payloads
-- **EMASS AI Chip Integration**: E2 platform evaluation for ML-based flight controller efficiency improvements
+**Key initiatives (2025-2026):**
+- Navy magnetometer integration (SBIR)
+- Boundary layer atmospheric sensing (STTR)
+- S0 VTOL customer delivery/commercialization
+- Ongoing Hurricane system operations/refinement
 
-## Key Decision-Makers & Roles
+## Leadership & Decision Structure
+- **Jack Elston** - Primary decision-maker; leads grants strategy, proposal review, company direction
+- **Maciej** - Technical lead across multiple projects; proposal development support
+- **Joshua Fromm** - Hardware/shop operations; technical implementation
+- **Meredith Needham** - Finance, admin, Navy coordination
+- **Dan Prendergast** - Business development and operational coordination
 
-| Person | Primary Functions |
-|--------|------------------|
-| **Jack Elston** | Leadership, technical decisions, proposal review, firmware architecture, RF/antenna expertise |
-| **Maciej** | Flight operations, flight testing analysis, project lead (Mustang), technical support |
-| **Joshua Fromm** | Lead engineer/designer, CAD, RF components, hardware shop lead, QA |
-| **Dan Prendergast** | Business development, operations, EMASS project lead |
-| **Beck Cotter** | Navy magnetometer/STTR projects, technical coordination |
-| **Meredith Needham** | Finance, admin, Navy contact liaison |
+## Recurring Cross-Channel Patterns
 
-## Cross-Channel Themes
+| Theme | Evidence |
+|-------|----------|
+| **Technical integration challenges** | Magnetometer channels + VTOL channel show ongoing hardware integration complexity |
+| **Navy partnership management** | Multiple Navy contracts (#magnetometer, #boundary-layer) with Meredith Needham as primary contact |
+| **Flight test cycles** | S0-VTOL and Hurricane channels show iterative testing, field operations, customer validation |
+| **Proposal-to-execution pipeline** | Grants channel feeds projects into operational channels (#operations logs resource allocation) |
+| **Hardware-centric culture** | Joshua Fromm's shop leadership spans multiple project channels |
 
-**1. Platform Consolidation**
-- Core platforms (S0/S1/S3 VTOL, S2/S3 fixed-wing, E2 multirotor, Mustang) serve multiple projects simultaneously
-- Heavy reuse of SwiftCore firmware/flight systems across platforms
+## Information Flow
+- **#grants-and-funding** → Strategic planning, funding decision-making
+- **#general** → Company-wide announcements, cross-project decisions
+- **#operations** → Resource allocation, logistics, financial tracking
+- **#sbir-hurricane**, **#25_1-navy-*** → Tactical execution and technical problem-solving
 
-**2. Government/Research Focus**
-- Dominant revenue stream: SBIR/STTR grants, NASA, NOAA, DOD contracts
-- Commercial sales channel shows secondary but growing presence
-- Navy projects (magnetometer, boundary layer) represent significant current effort
-
-**3. Sensor Integration Pattern**
-- Consistent theme across channels: integrating third-party payloads (magnetometers, soil moisture sensors, thermal cameras) onto BST aircraft
-- Hurricane, volcano, boundary layer, and soil moisture projects all follow sensor-to-aircraft integration model
-
-**4. Flight Testing as Central Hub**
-- #flight-testing serves as operational coordination point connecting hardware development, firmware, and customer delivery
-- Issues flow from field operations → engineering → SwiftCore firmware updates
-
-**5. Decision Patterns**
-- Jack Elston: Final authority on technical architecture and major proposals
-- Maciej: Operational execution and field validation
-- Joshua Fromm: Hardware feasibility and component sourcing bottlenecks
-- Team approach to risk mitigation (frequent testing, phased implementations)
-
-**6. Timeline Acceleration**
-- Multiple projects targeting 2025-2026 completion/deployment
-- SBIR Hurricane project represents longest-running initiative (2020-2026)
-- Commercialization of initially research-focused systems (soil moisture mapping example)
-
-## Recurring Operational Topics
-
-- Battery performance and endurance optimization (across all VTOL/aircraft projects)
-- Firmware release cycles and flight testing validation
-- Component sourcing constraints and supply chain management
-- Customer delivery coordination and system integration timelines
-- Compliance/certification for government contracts
-
-## Organizational Structure Insight
-
-BST operates as **project-portfolio model** with:
-- **Technical core**: SwiftCore firmware + modular S-series airframes as foundation
-- **Specialized teams**: Navy projects (Beck/Maciej), commercial/operations (Dan/Meredith), design/hardware (Joshua)
-- **Cross-functional integration**: Leadership (Jack) maintains technical and business decision authority
+## Notable Connections
+- S0 platform is **shared asset** across Hurricane, VTOL, and Navy STTR boundary layer projects
+- **Navy contracts dominate 2025 roadmap** (magnetometer + STTR boundary layer)
+- **Maciej appears across all technical channels** - central technical hub
+- **Long-term commitment** evident (2020-2026 span) suggests sustainable business model focused on relationship-based government contracting

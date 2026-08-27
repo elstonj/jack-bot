@@ -1,63 +1,55 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 100 emails
-- **Date range:** Wed 19 Aug 2026 – Wed 26 Aug 2026 (8-day window, expanded from initial 2-day sample)
-- **Approximate volume:** ~12–13 emails per day (consistent with earlier period; majority still automated/vendor notifications)
+- **Total messages scanned:** 113 emails
+- **Date range:** Wed 19 Aug 2026 – Wed 26 Aug 2026 (8-day window)
+- **Approximate volume:** ~12–14 emails per day
+- **Composition:** ~75–80% automated vendor/subscription notifications; ~20–25% human correspondence and project management
 
 ## Key Correspondents
 
 ### Top Senders
 1. **Vendor/Supplier automated notifications** (dominant):
-   - **McMaster-Carr** (7 emails: receipts, confirmations, tracking)
-   - **DigiKey** (3 emails: order confirmations, PO acknowledgements)
-   - **3DR, Inc.** (4 emails: order status, shipping, welcome)
-   - **SendCutSend** (3 emails: shipment tracking, order confirmation)
-   - **MKS Servos USA** (7 emails: order completion, processing, receipts)
-   - **Spindrift Market** (3 emails: order confirmations, subscription)
-   - **Rock West Composites** (2 emails: invoice, shipment confirmation)
-   - **JawsTec** (3 emails: order received, tracking)
-   - **Protolabs** (2 emails: invoices, shipping confirmation)
-   - **Other vendors:** Mouser, Dronetag s.r.o., USPS Informed Delivery, UPS, Harbor Freight, HeliDirect, Battery Junction, My Cable Mart, VXB Bearings, WordPress.com, Comcast Business, IEEPA, Dell Technologies, Baofeng, CADDXFPV, uAvionix, Luxonis, Rippling (corporate debit card), Toggl Track (time tracking)
+   - **McMaster-Carr** (7 emails)
+   - **MKS Servos USA** (7 emails)
+   - **3DR, Inc.** (4 emails)
+   - **DigiKey** (3 emails)
+   - **SendCutSend** (3 emails)
+   - **JawsTec** (3 emails)
+   - **Spindrift Market** (4 emails — team food/beverage orders)
+   - **Protolabs** (2 emails)
+   - **HeliDirect** (3+ emails — helicopter/drone components)
+   - **Harbor Freight** (recurring marketing)
+   - **Battery Junction** (recurring marketing)
+   - **Grainger** (industrial/maintenance supplies)
+   - **Rock West Composites** (2 emails)
+   - **Mouser, Dronetag s.r.o., USPS Informed Delivery, UPS, Comcast Business, IEEPA, Dell Technologies, Baofeng, CADDXFPV, uAvionix, Luxonis, Rippling, Toggl Track, WordPress.com, Speedway Motors, ASTM International, PCBWay, Verizon Business**
 
-2. **Jack Elston** (elstonj@blackswifttech.com) — internal team lead
-   - Meeting invites (BST Internal Update Meeting, Working Meeting - New Shop Floor Layout)
-   - External partner coordination (USB sink controllers thread with Matt Crabtree and Frank Strazzabosco)
+2. **Jack Elston** (elstonj@blackswifttech.com) — Internal team lead
+   - Meeting invites and coordination
    - "PSNS boards shipped" thread (marked IMPORTANT)
+   - Working meetings on operational matters
 
 3. **External Partners (IMPORTANT threads):**
-   - **Matt Crabtree** (matt.crabtree@waveformengineering.com) — Active collaboration on "USB sink controllers" thread (multiple IMPORTANT emails, Wed 19 Aug)
-   - **Frank Strazzabosco** (microfirm@earthlink.net) — Key external contact on "USB sink controllers" thread (multiple IMPORTANT emails, Wed 19 Aug)
-   - **Thinh Nguyen** (thinh991@yahoo.com) — On "PSNS boards shipped" thread with Jack Elston (marked IMPORTANT, Mon 24 Aug)
+   - **Matt Crabtree** (matt.crabtree@waveformengineering.com) — Active technical collaboration on "USB sink controllers"
+   - **Frank Strazzabosco** (microfirm@earthlink.net) — Key external partner on "USB sink controllers"
+   - **Thinh Nguyen** (thinh991@yahoo.com) — Partner on "PSNS boards shipped"
+   - **Tim Hegwood** (tim@krateosky.com) — KrateoSky collaboration/calendar platform contact
 
-4. **Tim Hegwood** (tim@krateosky.com) — External contact, sent IMPORTANT email re: "KrateoSky Calendar Visibility and Collaboration" to 8-person team (Thu 20 Aug)
+4. **Asana** (no-reply@asana.com) — Project management tool (task reminders)
 
-5. **Rippling** (no-reply@rippling.com) — Corporate payment/HR platform
-   - Debit card charge notifications (multiple)
-   - Pending tasks in Black Swift Technologies (action required notifications)
+5. **Gemini** (gemini-notes@google.com) — Meeting notes from "BST Internal Update Meeting" Aug 20 & 26
 
-6. **Asana** (no-reply@asana.com) — Project management tool
-   - AI Teammates feature announcement (Fri 21 Aug)
-
-7. **Toggl Track** (support@track.toggl.com) — Time tracking tool (2 no-subject emails)
-
-8. **Gemini** (gemini-notes@google.com) — Notes from "BST Internal Update Meeting" Aug 20 (marked IMPORTANT)
+6. **Rippling** (no-reply@rippling.com) — Corporate HR/payment platform (pending task notifications)
 
 ### Top Recipients
-- **purchasing@blackswifttech.com** — Primary distribution point for vendor confirmations, order tracking, and procurement notifications (majority of emails)
-- **Sam Hild direct address** (sam.hild@blackswifttech.com) — Receives Rippling corporate alerts, Asana notifications, Toggl Track logs, Verizon wireless promotions, Ben Young Veeam webinar (personal task management and corporate tools)
-- **Specific team members routed through purchasing alias:**
-  - Joshua Fromm (josh.fromm@blackswifttech.com) — receives vendor marketing (uAvionix, Luxonis, Daniels Manufacturing, SkyGeek)
-  - Meredith Needham — receives vendor marketing (Baofeng, HeliDirect, VXB Bearings) and is direct contact on MKS Servos correspondence
-  - Alex Lomis — receives Dronetag payment notification routed through purchasing
-  - Maciej Stachura — receives Protolabs invoices
+- **purchasing@blackswifttech.com** — Primary distribution point for all vendor confirmations, order tracking, procurement notifications, and marketing (dominant recipient)
+- **sam.hild@blackswifttech.com** — Receives: Rippling corporate alerts, Asana project management notifications, Toggl Track time tracking, Verizon promotional communications
 
-### Internal vs External (Updated)
-
+### Internal vs External
 **Internal (BST team):**
 - Jack Elston (elstonj@blackswifttech.com)
 - Joshua Fromm (josh.fromm@blackswifttech.com)
-- Sam Hild (sam.hild@blackswifttech.com)
 - Nathaniel Straus (nate.straus@blackswifttech.com)
 - Spencer Hoehl (spencer.hoehl@blackswifttech.com)
 - Ethan Domagala (ethan.domagala@blackswifttech.com)
@@ -72,20 +64,55 @@
 - Kareem Ahmed (kareem.ahmed@blackswifttech.com)
 
 **External:**
-- **Matt Crabtree** (Waveform Engineering) — Active technical collaborator
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Key external partner/vendor
-- **Thinh Nguyen** (thinh991@yahoo.com) — Partner on "PSNS boards shipped"
-- **Tim Hegwood** (KrateoSky) — Calendar/collaboration vendor contact
-- **Extensive vendor/supplier ecosystem:** McMaster-Carr, DigiKey, 3DR, SendCutSend, MKS Servos USA, Spindrift Market, Rock West Composites, JawsTec, Protolabs, Mouser, Dronetag, Harbor Freight, HeliDirect, UPS, Dell Technologies, Comcast Business, USPS, SkyGeek, Luxonis, uAvionix, Baofeng, CADDXFPV, Battery Junction, My Cable Mart, VXB Bearings, WordPress.com, Driftaway Coffee, Daniels Manufacturing, Veeam, Ben Young (Veeam sales)
+- **Matt Crabtree** (Waveform Engineering) — Technical collaborator (USB sink controllers)
+- **Frank Strazzabosco** (Microfirm) — External partner (USB sink controllers)
+- **Thinh Nguyen** — Partner on PSNS boards
+- **Tim Hegwood** (KrateoSky) — Calendar/collaboration platform vendor
+- **Extensive vendor ecosystem:** PCBWay (PCB services), Grainger, Speedway Motors, ASTM International, Verizon Business, plus all suppliers listed above
 
 ## Topic Patterns
 
 ### Recurring Themes
 
-1. **Procurement & Order Management** (dominant — ~70% of volume)
-   - **Electronics/Components:** DigiKey PO #101210301, #101130526 (tariff-related); Mouser; 3DR (likely drone/robotics); Dronetag s.r.o. (drone identification technology)
-   - **Metal/Mechanical:** McMaster-Carr (industrial stock); SendCutSend (laser cutting/custom fabrication); JawsTec (precision parts); Protolabs (rapid manufacturing); Rock West Composites (composite materials)
-   - **Servos/Motion Control:** MKS Servos USA (orders #22962, #23022 — multiple completions/processing)
-   - **Aerospace/Aviation:** SkyGeek (aerospace applications); HeliDirect (helicopter components/products); Rocketman Parachutes (from previous sample); 3DR (aerial platform)
-   - **Materials/Supplies:** VXB Bearings (ceramic ball bearings for precision machinery); Harbor Freight (tools); Battery Junction; Spindrift Market (beverage/team orders); Driftaway Coffee
-   - **Specialty:** GensTattu (batteries); ELEG
+1. **Procurement & Order Management** (~70–75% of volume)
+   - **Electronics/Components:** DigiKey, Mouser, 3DR, Dronetag (drone identification), PCBWay (PCB fabrication — NEW)
+   - **Metal/Mechanical/Fabrication:** McMaster-Carr, SendCutSend, JawsTec, Protolabs, Rock West Composites, Speedway Motors
+   - **Servos/Motion Control:** MKS Servos USA (orders #22962, #23022)
+   - **Aerospace/Aviation/Drones:** SkyGeek, HeliDirect (helicopter/drone products — Goosky E7, RS5 Ultra mentioned), Rocketman Parachutes, 3DR
+   - **Materials:** VXB Bearings, Harbor Freight, Battery Junction, Spindrift Market (team supplies/food)
+   - **Specialty/Standards:** ASTM International (standards subscription), Baofeng, CADDXFPV, uAvionix, Luxonis
+   - **Maintenance/Facilities:** Grainger (concrete cleaning/industrial maintenance — NEW)
+
+2. **Project/Collaboration Threads** (IMPORTANT flagged):
+   - **"USB sink controllers"** — Active multi-party thread with Matt Crabtree (Waveform Engineering) and Frank Strazzabosco
+   - **"PSNS boards shipped"** — Jack Elston and Thinh Nguyen coordination
+
+3. **Internal Coordination**
+   - **"BST Internal Update Meeting"** (Aug 20 & 26) — Recurring team meetings with Gemini notes
+   - **"Working Meeting - New Shop Floor Layout"** — Infrastructure/facility planning
+
+4. **Project Management & Time Tracking**
+   - Asana task reminders (3 tasks due soon noted on Aug 26)
+   - Toggl Track time tracking integration
+
+## Communication Patterns
+
+- **Peak activity:** Wed 26 Aug shows highest email volume (13 emails in new batch)
+- **Time patterns:** Emails distributed across multiple timezones (UTC, EDT, CDT, +0800 SGT) suggesting global supplier and partner base
+- **Automated vs. Human:** Majority (~75–80%) are automated vendor notifications and marketing emails filtered through purchasing@blackswifttech.com alias; human correspondence concentrated in IMPORTANT flagged threads and internal meeting coordination
+- **Vendor marketing concentration:** Significant volume of promotional/marketing emails from Grainger, Harbor Freight, Battery Junction, Speedway Motors, ASTM International, Verizon Business — suggests these are low-priority but high-frequency senders
+
+## Key Relationships
+
+### Closest Internal Collaborators
+- **Jack Elston** — Primary internal contact; meeting invites, IMPORTANT project threads ("PSNS boards shipped")
+
+### External Technical Partners
+- **Matt Crabtree** (Waveform Engineering) — Active technical collaboration on USB sink controller development
+- **Frank Strazzabosco** (Microfirm) — Key external partner on same USB controller thread
+
+### External Project Partners
+- **Thinh Nguyen** — Appears on PSNS boards shipment coordination
+
+### Vendor/Supplier Key Contacts
+- **MKS Serv
