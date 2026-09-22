@@ -4,13 +4,13 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 2,275.6 hours (2,207.1 + 68.5)
+- Total hours tracked: 2,278.1 hours (2,275.6 + 2.5)
 
 ## Team Allocation
-- Meredith Needham: 1,238.5 hours (54.4% of tracked time)
-- Beck Cotter: 504.8 hours (22.2% of tracked time)
-- Jack Elston: 428.7 hours (18.8% of tracked time)
-- Stachura: 73.9 hours (3.2% of tracked time)
+- Meredith Needham: 1,238.5 hours (54.3% of tracked time)
+- Beck Cotter: 504.8 hours (22.1% of tracked time)
+- Jack Elston: 429.9 hours (18.9% of tracked time)
+- Stachura: 75.1 hours (3.3% of tracked time)
 - Dan: 47.0 hours (2.1% of tracked time)
 - Spencer Hoehl: 10.6 hours (0.5% of tracked time)
 - Ethan Domagala: 15.9 hours (0.7% of tracked time)
@@ -19,34 +19,29 @@
 
 ## Activity Timeline
 
-**Current batch (68.5 hours)**:
-- **Meredith Needham** (32.2h): Operations/Admin (8.0h + 7.9h + 8.2h + 8.1h)
-- **Beck Cotter** (24.0h): *No description* ⚠️ (8.0h + 8.0h + 8.0h)
-- **Jack Elston** (10.8h): Answering Emails (2.5h + 2.0h + 1.2h + 1.5h + 2.0h), Black Swift Weekly Integration Review (1.0h), BST Internal Update Meeting (0.5h)
-- **Stachura** (1.5h): *No description* ⚠️
+**Current batch (2.5 hours)**:
+- **Jack Elston** (1.2h): Answering Emails
+- **Stachura** (1.2h): *No description* ⚠️
 
 **Documentation compliance (current batch)**:
-- **78.1% documented** (53.5 of 68.5 hours documented)
-- **21.9% undocumented** (15.0 hours)
-- **Cumulative undocumented: 568.4 hours out of 2,275.6 tracked (25.0% overall failure rate)**
+- **48.0% documented** (1.2 of 2.5 hours documented)
+- **52.0% undocumented** (1.3 hours)
+- **Cumulative undocumented: 569.7 hours out of 2,278.1 tracked (25.0% overall failure rate)**
 
 ## Insights
 
-- **⚠️ CRITICAL DOCUMENTATION FAILURE — PERSISTENT & WORSENING**:
-  - Current batch: 78.1% compliance (improvement from prior 73.5%, positive trend)
-  - **Beck Cotter undocumented: 24.0 hours this batch; cumulative 504.8 hours (100% non-compliance in this batch, 88.1% cumulative)**
-  - **Stachura undocumented: 1.5 hours this batch; cumulative 35.9 hours (100% this batch, 48.6% cumulative non-compliance)**
-  - **Overall undocumented entries now at 568.4 hours — persistent 25.0% systemic failure rate**
-  - This batch shows *marginal improvement* in compliance ratio, but Beck Cotter's complete lack of documentation this cycle is severe
+- **⚠️ CRITICAL DOCUMENTATION FAILURE — ESCALATING**:
+  - Current batch: **Sharp regression** — documentation dropped from 78.1% to 48.0%
+  - **Stachura continues non-compliance**: 1.2h undocumented this batch; cumulative 36.1 hours undocumented (48.1% cumulative non-compliance rate)
+  - **Persistent pattern**: Stachura has submitted 100% undocumented time across all recent batches
 
 - **Work composition** (from documented entries):
-  - **Meredith Needham**: Exclusively Operations/Admin work — consistent pattern (32.2h this batch; 1,238.5h cumulative)
-  - **Jack Elston**: Email management (9.2h) + meeting participation (Black Swift Weekly Integration Review 1.0h, BST Internal Update Meeting 0.5h) — core administrative/coordination role
-  - **Beck Cotter**: **Complete documentation blackout** — 24.0 hours across 3 consecutive 8-hour entries with zero task descriptions
-  - **Stachura**: Continues pattern of undocumented entries (1.5h this batch)
+  - **Jack Elston**: Answering Emails (1.2h) — continues administrative/communication role
+  - **Stachura**: Completely opaque — no task information provided
 
-- **⚠️ ENFORCEMENT STATUS — ESCALATION REQUIRED**:
-  - **Beck Cotter**: 100% non-compliance this batch (24.0h undocumented) — represents 35.0% of current batch with no accountability. This is a **critical control failure**.
-  - **Stachura**: 100% non-compliance this batch (1.5h) despite prior warnings — cumulative 35.9 undocumented hours
-  - Combined undocumented entries this batch: 39.0 hours (56.9% of new tracked time)
-  - **IMMEDIATE ACTION REQUIRED**: Suspend approval of Beck Cotter and Stachura entries until task descriptions provided. Implement mandatory pre-approval task validation.
+- **⚠️ ENFORCEMENT STATUS — CRITICAL ESCALATION REQUIRED**:
+  - **Stachura**: Repeated non-compliance across all tracked batches with zero improvement. Combined undocumented time: 36.1 hours with no accountability
+  - **IMMEDIATE ACTION REQUIRED**: 
+    - **Block Stachura time entries from approval** until task descriptions are retroactively provided
+    - Require manager sign-off on all Stachura entries going forward
+    - Implement mandatory pre-submission task validation before time entries are logged

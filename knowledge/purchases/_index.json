@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T08:24:56Z",
-  "total_records": 1469,
+  "generated_at": "2026-09-22T08:29:34Z",
+  "total_records": 1579,
   "by_project": {
     "0303JELSTON": {
       "count": 1,
@@ -13,6 +13,10 @@
     "HURRICANE": {
       "count": 1,
       "total_amount": 0.0
+    },
+    "IRAD-S3": {
+      "count": 2,
+      "total_amount": 61.57
     },
     "S0 VTOL": {
       "count": 1,
@@ -27,8 +31,8 @@
       "total_amount": 644.23
     },
     "_unattributed": {
-      "count": 1458,
-      "total_amount": 315830.51
+      "count": 1566,
+      "total_amount": 359427.24
     },
     "s2 nasa": {
       "count": 2,

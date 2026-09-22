@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly milestone-based",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 63392.5,
+        "amount": 88642.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 1966.21,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
-      "total": 66451.71,
+      "total": 93667.92,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 176088.29,
+    "remaining": 148872.08,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-27T09:05:20Z"
+    "last_reconciled": "2026-09-22T09:10:59Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -65,19 +65,7 @@
       "hours_last_30d": null
     },
     {
-      "name": "Beck Cotter",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
       "name": "Jack Elston",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Maciej Stachura",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -90,7 +78,20 @@
     }
   ],
   "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-08-27T09:05:20Z",
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-09-21",
+      "text": "From Joshua Fromm (ts=1789755724.853639): That's me, navy mag"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Joshua Fromm",
+      "date": "2026-09-18",
+      "text": "From Joshua Fromm: That's me, navy mag"
+    }
+  ],
+  "last_full_rebuild": "2026-09-22T09:10:59Z",
   "last_incremental_update": null
 }

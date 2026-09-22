@@ -4,31 +4,30 @@
     "[550-2] Navy STTR Hazardous Weather"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-09-15",
+    "end": "2026-09-22"
   },
   "totals": {
     "revenue": 14446.0,
     "expenses": 0.0,
     "by_category": {}
   },
-  "invoices": [
+  "invoices": [],
+  "bills": [],
+  "purchases": [],
+  "purchase_orders": [],
+  "payments": [
     {
-      "type": "Invoice",
-      "date": "2026-09-01",
-      "doc_number": "1781",
+      "type": "Payment",
+      "date": "2026-09-17",
+      "doc_number": "",
       "total": 14446.0,
       "attributed": 14446.0,
       "vendor": "",
       "customer": "[550-2] Navy STTR Hazardous Weather",
-      "balance": 14446.0,
+      "balance": null,
       "memo": "",
       "lines": [
-        {
-          "amount": 14446.0,
-          "account": "",
-          "description": "CLIN 0007: Final Report (Option)"
-        },
         {
           "amount": 14446.0,
           "account": "",
@@ -36,9 +35,5 @@
         }
       ]
     }
-  ],
-  "bills": [],
-  "purchases": [],
-  "purchase_orders": [],
-  "payments": []
+  ]
 }

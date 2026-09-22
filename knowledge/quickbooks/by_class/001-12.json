@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-09-15",
+    "end": "2026-09-22"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 326.41,
+    "expenses": 238.75,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 326.41
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 238.75
     }
   },
   "invoices": [],
@@ -19,19 +19,37 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-08-28",
-      "doc_number": "448158757",
-      "total": 326.41,
-      "attributed": 326.41,
+      "date": "2026-09-15",
+      "doc_number": "",
+      "total": 100.28,
+      "attributed": 100.28,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "PIRATE SHIP * POSTAGE - 7333",
       "lines": [
         {
-          "amount": 326.41,
+          "amount": 100.28,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping S3 from UMES to BST for repair"
+          "description": "Embry Riddle shipment of E2 for evaluation"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-15",
+      "doc_number": "",
+      "total": 138.47,
+      "attributed": 138.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 138.47,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Embry Riddle shipment of E2 for evaluation"
         }
       ]
     }

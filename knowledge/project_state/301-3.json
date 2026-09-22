@@ -30,8 +30,8 @@
     "line_items": [
       {
         "category": "Labor",
-        "amount": 109481.0,
-        "description": "Engineering Tasks (NRE): laser configuration updates, AirOps fields, dual GPS for heading, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
+        "amount": 111481.0,
+        "description": "Engineering Tasks (NRE): laser configuration updates, AirOps fields, dual GPS, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering (total engineering hours and rates)",
         "source_doc": null
       },
       {
@@ -52,13 +52,13 @@
         "amount": 551648.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "other_qbo": {
         "amount": 321540.76,
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -743025.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-27T09:04:46Z"
+    "last_reconciled": "2026-09-22T09:10:08Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-27T09:04:46Z",
+  "last_full_rebuild": "2026-09-22T09:10:08Z",
   "last_incremental_update": null
 }

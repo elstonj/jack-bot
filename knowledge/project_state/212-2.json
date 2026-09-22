@@ -26,16 +26,16 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 14718.75,
+        "amount": 16693.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "purchases": {
-        "amount": 36840.75,
+        "amount": 48274.38,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "other_qbo": {
         "amount": 82.06,
@@ -43,19 +43,25 @@
         "confidence": "exact",
         "last_updated": "2026-08-26"
       },
-      "total": 51641.56,
+      "total": 65050.19,
       "by_line_item": {}
     },
-    "committed": 11433.63,
-    "remaining": 26768.81,
+    "committed": 545.32,
+    "remaining": 24248.49,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-27T09:03:58Z"
+    "last_reconciled": "2026-09-22T09:09:19Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
     {
-      "name": "Nate Straus",
+      "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Josh Fromm",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -74,8 +80,20 @@
       "author": "Daniel Prendergast",
       "date": "2026-08-24",
       "text": "From Daniel Prendergast: All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Ethan",
+      "date": "2026-09-21",
+      "text": "From Ethan (ts=1789762427.299029): <@U06KRHPQSRH> NASA S2 pallet is 48x120in and 20in tall"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Ethan",
+      "date": "2026-09-18",
+      "text": "From Ethan: <@U06KRHPQSRH> NASA S2 pallet is 48x120in and 20in tall"
     }
   ],
-  "last_full_rebuild": "2026-08-27T09:03:58Z",
+  "last_full_rebuild": "2026-09-22T09:09:19Z",
   "last_incremental_update": null
 }

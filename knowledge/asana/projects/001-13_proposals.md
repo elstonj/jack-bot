@@ -3,16 +3,14 @@
 ## Overview
 - **Owner:** Beck Cotter
 - **Team:** Whole BST team (primary assignees: Beck Cotter, Dan Prendergast; Jack Elston on active subcontract)
-- **Status:** Active — large and growing proposal pipeline with **29 open tasks and 1 completed**. Multiple awarded contracts executing; significant backlog of high-value submissions under review.
+- **Status:** Active — multiple awarded contracts executing; significant pipeline of high-value submissions under review. **Administrative cleanup needed: 4 not-funded proposals remain marked open and should be closed.**
 - **Focus:** Federal funding proposals and active contracts across DOD, DOE, NASA, NOAA, and other agencies
 - **Total potential pipeline value:** ~$12.8M across awarded work + high-confidence under-review proposals
 - **Risk signals:** 
-  - **29 open tasks with only 1 completed** — severe administrative debt; awarded contracts and closed/not-funded proposals remain open
-  - Multiple tasks **lack due dates** despite being active or under review, limiting visibility
-  - Two tasks **completely unassigned** with no title or metadata
-  - Several proposals marked closed or "not funded" still tracked as open (NASA Phase I Wildfire Persistence, MOSA Innovation Challenge, Genesis Mission DOE w/BNL, NASA Phase II Autonomy)
-  - Heavy reliance on Beck Cotter (20+ tasks) creates significant bottleneck
+  - **4 not-funded proposals still marked open** — should be archived/closed (NASA Phase I Wildfire Persistence, MOSA Innovation Challenge, Genesis Mission DOE w/BNL, NASA Phase II Autonomy)
+  - Heavy reliance on Beck Cotter as single point of failure for proposal tracking and BD
   - Several high-value proposals approaching decision dates with no clear internal deadlines set
+  - Multiple tasks across full pipeline lack due dates, limiting visibility
 
 ## Key Proposals & Contracts
 
@@ -52,29 +50,19 @@
 | **SOFWERX Group 2 Air-Launched Effects** | SOFWERX | — | 2026-09-25 | Unassigned; no internal DRI identified |
 | **Aureum Phase II** | Aureum | — | 2028-06-30 | LOI submitted for Phase II effort; Phase I to OSW Sept '26, so work not until '28 earliest |
 
-### Recently Expired / Not Funded (should be closed)
-| Opportunity | Organization | Status | Close Date | Notes |
-|-------------|--------------|--------|---|---|
-| **NASA Phase I - Wildfire Persistence** | NASA | **Reviewed - not funded** | 2026-05-21 | **Still marked open** — should be closed |
-| **MOSA Innovation Challenge** | DOD | **Reviewed - not funded** | — | **Still marked open** — should be closed |
-| **Genesis Mission DOE w/BNL** | DOE | **Reviewed - not funded** | 2026-05-01 | **Still marked open** — distinct from "Genesis re-submit w/BNL" |
-| **NASA Phase II Autonomy** | NASA | **Reviewed - not funded** | 2026-05-15 | **Still marked open** — should be closed |
-| **NASA SaaS and Commercial Partners (RFI)** | NASA | Closed | 2026-05-07 | RFI response only; no funding |
-| **GBaM Prize Challenge** | By Light via DIU | Closed | 2026-08-05 | **Still marked open** — decision likely final |
-| **Navy 26BX Release 3 - Sub to HALO Aero** | HALO Aerospace | Closed | 2026-07-22 | **Still marked open** — decision likely final |
+### Not Funded — Archive/Close (Reviewed & Rejected)
+| Opportunity | Organization | Funding to BST (if awarded) | Decision Date | Status | Notes |
+|-------------|--------------|---|---|---|---|
+| **NASA Phase I - Wildfire Persistence** | NASA | $223,928 | 2026-05-21 | **Not funded — STILL OPEN in Asana** | 6-month PoP, max $225K budget. Submission link: https://drive.google.com/drive/folders/1V3ALs2YmvbdLL4fhHeK3qspRcsxQmkct. **Should be closed.** |
+| **MOSA Innovation Challenge** | DOD | — | — | **Not funded — STILL OPEN in Asana** | Challenge link: https://events.techconnect.org/MOSA_2026/innovation-challenge.html. **Should be closed.** |
+| **Genesis Mission DOE w/BNL** | DOE | $336,635 (BST portion of $629,821 total) | 2026-05-01 | **Not funded — STILL OPEN in Asana** | Challenge area 11: AI-Driven Autonomous Laboratories; Advanced Robotics for Dynamic Laboratory Environments. 5-page Phase I narrative; 9-month PoP, $500-750K budget w/20% indirect. **Should be closed.** |
+| **NASA Phase II Autonomy** | NASA | $1,167,689 | 2026-05-15 | **Not funded — STILL OPEN in Asana** | 24-month PoP, max $1,275,000. 3:00 PM Mountain deadline. **Should be closed.** |
+| **NASA SaaS and Commercial Partners (RFI)** | NASA | — | 2026-05-07 | Closed | RFI response only; no funding |
+| **GBaM Prize Challenge** | By Light via DIU | — | 2026-08-05 | Closed | **Still marked open in prior knowledge** — decision likely final |
+| **Navy 26BX Release 3 - Sub to HALO Aero** | HALO Aerospace | — | 2026-07-22 | Closed | **Still marked open in prior knowledge** — decision likely final |
 
 ## Task Summary
-- **Total open:** 29 tasks
-- **Total completed:** 1 task (NASA Sequential Phase II, completed 2026-09-18)
-- **Completion rate:** 3.3% (severe administrative debt)
-- **Primary assignee:** Beck Cotter (20+ tasks) — acts as BD lead and single point of failure
-- **Secondary assignee:** Dan Prendergast (3 tasks: USPACOM FY27 Experiments, NAWCAD WOLF BAA, Simulator for CU-DPS)
-- **Other assignees:** Jack Elston (1 active subcontract)
-- **Unassigned:** 2 tasks (no title or metadata)
-
-### Task Status Distribution
-- **Awarded & Active:** 5 tasks (17%)
-- **Submitted, under review:** 14 tasks (48%)
-- **Not yet started:** 2 tasks (7%)
-- **Reviewed - not funded:** 4 tasks (14%) — **should be closed**
-- **Unassigned/incomplete metadata:** 
+- **Total open:** 4 tasks (all are rejected proposals that should be archived)
+- **Total completed:** 0 tasks in this batch
+- **Completion rate:** 0% in current data; prior knowledge showed 1 completed task (NASA Sequential Phase II)
+- **Primary assignee:** Beck Cotter

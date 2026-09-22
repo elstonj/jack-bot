@@ -41,19 +41,16 @@
       "order_date": null
     }
   ],
-  "tracking_number": null,
-  "carrier": "hazmat",
-  "shipped_date": null,
+  "tracking_number": "1ZY1791K0320443394, 1ZY1791K0303482133",
+  "carrier": "UPS",
+  "shipped_date": "2026-09-15",
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories. Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units built and ready; shipping arranged for ISARRA Flight Week (late August/early September 2026). Maciej/Spencer attending to provide training support. Kevin confirmed staff readiness; ongoing active engagement through summer 2026. Delivery target Friday before intercomparison flights Sunday.",
-  "missing_fields": [
-    "tracking_number",
-    "shipped_date"
-  ],
-  "last_evidence_date": "2026-08-26",
-  "last_contact_date": "2026-08-26"
+  "notes": "Paid invoice #1667 (May 2025) for 2\u00d7 S0 VTOL + accessories ($21,181.81). Legal settlement pending for delayed delivery per Schedule 3.15; company committed to additional compensation. Units built and shipped for ISARRA Flight Week attendance (late Aug/early Sept 2026). Kevin confirmed staff readiness; Maciej/Spencer provided on-site training support. Pickup scheduled 2026-09-15 via UPS; two boxes tracked separately (Sphere/UA equipment for ESC troubleshooting support). Ongoing active engagement.",
+  "missing_fields": [],
+  "last_evidence_date": "2026-09-14",
+  "last_contact_date": "2026-09-14"
 }

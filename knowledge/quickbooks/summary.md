@@ -1,105 +1,101 @@
 # BST Financial Overview (QuickBooks)
-**Period: August 27 – September 15, 2026 | Full Company History: April 5, 2024 – September 15, 2026**
+**Period: September 15–22, 2026 | Full Data Range: April 2024–October 2026**
 
 ---
 
-## Company Totals (Period Aug 27 – Sept 15, 2026)
+## Company Totals
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $50,250.28 |
-| **Total Expenses** | $36,342.86 |
-| **Gross Profit** | $33,398.99 |
-| **Net Operating Income** | -$2,943.87 |
-| **Interest Income** | $5,949.92 |
-| **Net Income (Period)** | **$3,006.05** |
+| **Total Revenue (Invoices)** | $5,602,385.36 |
+| **Total Expenses** | $3,419,616.39* |
+| **Net Income (Period)** | $38,119.73** |
+| **Net Position (All-Time)*** | $1,254,928.97 |
+
+*Includes COGS ($1,966.21), operating expenses ($22,191.05), and project-level expenses ($3.4M+)  
+**Weekly P&L statement only; does not reflect full project accounting  
+***Revenue minus all accumulated expenses across all projects
 
 ---
 
-## By Project/Class (Cumulative: April 2024 – Sept 15, 2026)
+## Financial Position by Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|------------------|-----------------|------------------|---------|
-| **Commercial** | $3,020,068.62 | $244,627.02 | **+$2,775,441.60** | ✓ Profitable |
-| **Government** | $5,120,860.00 | $1,796,428.80 | **+$3,324,431.20** | ✓ Profitable |
-| **BST Internal** | $24,119.36 | $1,440,631.60 | **-$1,416,512.24** | ⚠ Loss |
-| **Unclassified** | $1.00 | $3,596,711.08 | **-$3,596,710.08** | ⚠ Loss |
-| **TOTALS** | **$8,164,948.98** | **$7,078,398.50** | **+$1,086,550.48** | ✓ Overall Net Positive |
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $5,577,265.00 | $1,806,760.63 | **+$3,770,504.37** | Strong |
+| **BST Internal** | $24,119.36 | $1,540,698.68 | **-$1,516,579.32** | Deficit |
+| **Unclassified** | $1.00 | $3,611,157.08 | **-$3,611,156.08** | Major Deficit |
+| **TOTALS** | **$5,602,385.36** | **$6,958,616.39** | **-$1,356,231.03*** | |
 
-**Key Insight:** Commercial and Government projects are performing well; however, BST Internal and Unclassified categories show significant negative positions, suggesting internal overhead and unallocated costs are substantial.
-
----
-
-## Top Vendors by Spend
-
-| Vendor | Spend Amount | Category |
-|--------|--------------|----------|
-| IRAD (Indirect Subcontractor Exp) | $13,300.89 | R&D/Subcontracting |
-| Payroll Wages & Healthcare | $6,688.55 | Fringe/Payroll |
-| Payroll Tax | $6,508.87 | Fringe |
-| Direct Travel | $6,405.76 | Direct Costs |
-| Direct Material Purchases | $4,936.13 | Direct Costs |
-| Accounting Fees | $2,450.00 | G&A |
-| Conferences/Seminars | $2,700.00 | Sales & Marketing |
-| Rent Expense | $2,750.76 | Facilities |
-| Direct Subcontractors | $3,531.25 | Direct Costs |
-| Shipping, Freight & Delivery | $1,978.15 | Direct Costs |
+*Discrepancy noted: Unclassified expenses ($3.6M) are significantly higher than stated net position. This suggests major transactions lack project assignment and require reconciliation.*
 
 ---
 
-## Top Customers by Revenue
+## Outstanding Accounts Receivable
 
-| Customer | Revenue | Outstanding Balance |
-|----------|---------|---------------------|
-| [018-1] Murphy's Pond CH4 (Commercial) | $24,579.28 | $24,579.28 |
-| Government Projects (Multiple) | $5,120,860.00 | $3,971,151.82 |
-| Commercial Projects (Multiple) | $2,995,489.34 | Varies |
-| [039] Oklahoma State University | $1.00 | $0.00 |
+| Status | Amount |
+|--------|--------|
+| **Outstanding Invoice Balance (Government)** | $4,457,556.82 |
+| **Collected (Government)** | ~$1,119,708.18 |
+| **Total AR as % of Revenue** | 79.6% |
 
-**Note:** Government contracts represent the largest revenue stream; Commercial is second; specific customer-level detail is incomplete in source data.
-
----
-
-## Cash Flow Indicators
-
-### Accounts Receivable (Outstanding)
-- **Government contracts:** $3,971,151.82 in outstanding invoice balances (77.5% of total Government revenue)
-- **Commercial contracts:** ~$24,579.28 confirmed outstanding (Invoice #1779, dated Aug 31, 2026)
-- **Total A/R at risk:** Approximately **$3.996M+ outstanding**
-
-### Recent Large Expenses (Aug 27 – Sept 15, 2026)
-- R&D Subcontractor: $13,300.89
-- Payroll (wages + taxes + healthcare): $15,697.42
-- Rent: $2,750.76
-- Conferences: $2,700.00
-- Material & Travel: $11,341.89
-
-### Projects with Minimal Recent Activity
-- **BST Internal:** Only $1,225.00 revenue added in latest period; primarily a cost center
-- **Unclassified:** Minimal activity; $3.6M cumulative expense against $1.00 revenue (severely misclassified)
+**⚠️ Cash Flow Alert:** Nearly 80% of government invoices remain unpaid. This is a significant liquidity concern despite strong gross revenue.
 
 ---
 
-## Unclassified Transactions
+## Expense Breakdown (Weekly Period: Sept 15–22)
 
-| Category | Amount | Issue |
-|----------|--------|-------|
-| **Total Unclassified Expenses** | $3,596,711.08 | **Critical** |
-| **Total Unclassified Revenue** | $1.00 | Negligible |
-| **Net Position** | **-$3,596,710.08** | Massive unexplained loss |
-
-**Assessment:** The Unclassified category represents a **major accounting issue**. Nearly $3.6M in expenses lack proper project/class assignment. This must be investigated and reclassified to Government, Commercial, or BST Internal accounts to provide accurate project profitability analysis.
+| Category | Amount |
+|----------|--------|
+| Facilities (office/shop supplies, software) | $14,017.57 |
+| R&D (Internal) | $2,536.48 |
+| General & Administrative | $4,850.00 |
+| Fringe (Worker's Comp) | $650.00 |
+| Direct Material Purchases | $1,966.21 |
+| Overhead & Other | $82.00 |
+| **Total Weekly Expenses** | **$24,102.26** |
 
 ---
 
-## Key Findings & Recommendations
+## Top Expense Areas (Cumulative)
 
-1. **Strong Overall Performance:** Combined Government + Commercial revenue ($8.14M) significantly exceeds total expenses ($7.08M), yielding $1.09M net positive.
+1. **Unclassified/Internal Operations** – $3,611,157.08 *(requires reclassification)*
+2. **BST Internal Project** – $1,540,698.68
+3. **Government Project** – $1,806,760.63
 
-2. **Immediate Action Required:** Unclassified expenses ($3.6M) distort true project costs. Audit and reclassify all transactions.
+---
 
-3. **Internal Cost Burden:** BST Internal project shows -$1.42M net position over 28 months, indicating high corporate overhead not charged to client projects.
+## Key Observations & Concerns
 
-4. **Cash Flow Risk:** $4.0M in outstanding Government A/R represents significant cash flow strain; monitor collection schedule.
+### 1. **Major Classification Issue**
+- **$3.6M in Unclassified Expenses** against only $1 in revenue is a critical red flag
+- These transactions span 28 months (April 2024–September 2026)
+- **Action Required:** Immediately audit and reclassify these transactions to appropriate projects
 
-5. **Period Performance:** Aug 27–Sept 15 shows modest profitability ($3.0K net) despite negative operating income, supported by interest income.
+### 2. **Cash Flow Risk**
+- Outstanding AR of $4.46M represents 79.6% of Government invoices
+- Weekly burn rate: ~$24K in operating expenses
+- Recommend: Accelerate collections on Government contracts
+
+### 3. **BST Internal Project in Deficit**
+- Revenue: $24,119 | Expenses: $1,540,699
+- Net loss: -$1.52M over 28 months
+- This project is heavily subsidized by Government revenue
+- **Action:** Review staffing allocation and overhead attribution to this project
+
+### 4. **Government Project Performance** *(Only Profitable Segment)*
+- Strong net position: +$3.77M
+- Represents 99.6% of company revenue
+- Heavy dependency on single customer segment
+
+---
+
+## Summary Assessment
+
+**Overall Health:** **Caution**
+- Company is profitable on Government contracts, but dependent on single revenue source
+- Unclassified expenses ($3.6M) obscure true profitability of internal operations
+- AR collection delays create cash flow vulnerability
+- BST Internal operations running at significant loss
+
+**Immediate Priority:** Reconcile and reclassify the $3.6M in unclassified expenses.

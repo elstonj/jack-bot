@@ -4,15 +4,14 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-09-15",
+    "end": "2026-09-22"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 90.48,
+    "expenses": 8.62,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 88.26,
-      "SALES & MARKETING:SM-Shipping": 2.22
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 8.62
     }
   },
   "invoices": [],
@@ -20,42 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-03",
-      "doc_number": "",
-      "total": 22.5,
-      "attributed": 2.5,
+      "date": "2026-09-21",
+      "doc_number": "454155490",
+      "total": 8.62,
+      "attributed": 8.62,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "Items were no longer needed. Verbal request to return items by J. Fromm.",
       "lines": [
         {
-          "amount": 2.5,
+          "amount": 8.62,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment charge for Dronetag shipment (Order #882026/005977)"
-        },
-        {
-          "amount": 20.0,
-          "account": "SALES & MARKETING:SM-Shipping",
-          "description": "Shipment pick-up for shipment to Vegas for SOCOM demo"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-02",
-      "doc_number": "260826W004363",
-      "total": 87.98,
-      "attributed": 87.98,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 87.98,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment from Microhard (ref #QT077799) - IRAD VTOL for A. Lomis"
+          "description": "Return of purchase from Horizon Hobby (order no. HHUSOR253385971)"
         }
       ]
     }
