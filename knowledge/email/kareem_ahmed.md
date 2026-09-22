@@ -1,129 +1,101 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 59 emails (52 previous + 7 new)
-- **Date range:** August 3–27, 2026 (25 days)
-- **Approximate volume:** ~2.4 emails per day
-- **Note:** Majority remains automated notifications and newsletters; limited direct human correspondence
+- **Total messages scanned:** 214 emails (159 previous + 55 new)
+- **Date range:** August 3 – September 21, 2026 (50 days)
+- **Approximate volume:** ~4.3 emails per day
+- **Trend:** Consistent high volume; 55 new emails span Sept 16-21 (6 days = ~9 emails/day during this window). Majority remains automated newsletters, media alerts, and event invitations. **Significantly increased unread message backlog noted (30+ unread Slack messages as of Sept 21).**
 
 ## Key Correspondents
 
 ### Top Senders (by frequency)
-1. **UAS VISION** (russ@uasvision.com) — 14 emails (DAILY NEWS, consistent)
-2. **LinkedIn via Media Relations** (media@blackswifttech.com) — 17 emails (notifications, group activity)
-3. **Geo-matching** (newsletter@geo-matching.com) — 4 emails (product/technology newsletters)
-4. **Black Swift Technologies via Slack** (notification@slack.com) — 3 emails (unread message alerts)
-5. **Asana** (no-reply@asana.com) — 2 emails (task notifications)
-6. **US Commercial Service Aerospace Team** (Aerospace@public.govdelivery.com) — 2 emails (export/MRO market alerts)
-7. **Volcano Summit** (info@volcanosummit.com) — 2 emails (event updates)
+1. **Media Relations Distribution** (media@blackswifttech.com) — 95+ emails
+   - Aggregates: LinkedIn (19+ emails), UAS VISION (via Jack), National Geographic (9 emails to Paige), A&SF Daily/Alerts, Mitchell Institute, Uncrewed Tech, Geo Week, Inside Climate News, Unmanned Systems Technology, Energy Drone & Robotics Coalition, STATION Austin, etc.
+   
+2. **UAS VISION** (russ@uasvision.com) — 4 new emails (daily news, routed via "Jack" at media@blackswifttech.com; consistent 9am UTC timing)
 
-### Top Recipients (who Kareem emails)
-- Primary inbox: kareem.ahmed@blackswifttech.com
-- **Distribution pattern note:** New data shows emails increasingly routed to **paige.smith@blackswifttech.com** (5 of 7 new messages) rather than directly to Kareem, indicating:
-  - Paige Smith appears to be a key contact/collaborator
-  - Possible delegation or shared team inbox structure
-  - Kareem may be on a secondary receive list for these communications
+3. **National Geographic** (ng@em.nationalgeographic.com) — 6 new emails (all routed to paige.smith@blackswifttech.com; diverse content: wildlife, astronomy, science, travel)
+
+4. **Asana** (no-reply@asana.com) — 2 new emails (task notifications to kareem.ahmed@blackswifttech.com)
+
+5. **UOSSM Canada** (contact@uossm-canada.org) — 1 new email (Sept 18; Gaza medical relief check-in, direct to Kareem)
+
+6. **Agritecture Weekly** (victoria@agritecture.com) — 2 new emails (routed to Paige; agricultural tech updates)
+
+### Top Recipients (who Kareem/team emails)
+- **Primary inbox:** kareem.ahmed@blackswifttech.com (Asana notifications, UOSSM Canada)
+- **Heavy forwarding to:** paige.smith@blackswifttech.com (95%+ of media alerts, event invitations, National Geographic, LinkedIn)
+- **Secondary recipients:** josh.fromm@blackswifttech.com (autonomy content), jelston@blackswifttech.com (Geo Week speaker confirmation)
+- **BST Internal Update Meeting** (recurring): same 12-person distribution as before (Sept 16 meeting confirmed)
+- **Direct external senders to Paige:** Agritecture Weekly, National Geographic, LinkedIn alerts, Inside Climate News, Mitchell Institute, Energy Drone & Robotics, event platforms
 
 ### Internal vs External
-- **Internal:** Slack notifications, Asana, company media distribution list, internal update meetings (BST Internal Update Meeting, 11-person distribution)
-- **External:** Industry newsletters, LinkedIn, recruiting, government alerts, event platforms, vendor outreach
+- **Internal:** Slack notifications, Asana, BST Internal Update Meetings (ongoing)
+- **External:** Industry newsletters (75%+ of volume), defense/aerospace alerts, event platforms, education/STEM outreach
+- **Charity/Cause:** UOSSM Canada (Gaza medical relief) — 1 new email Sept 18 (personal engagement confirmed)
 
 ### Key External Contacts/Organizations
-- **UAS VISION** (russ@uasvision.com) — Daily news source
-- **Geo-matching** — Mobile mapping/LiDAR/GNSS technology updates
-- **KrateoSky** (Tim Hegwood) — Strategic collaboration partner
-- **Volcano Summit** — Event (NOW SOLD OUT as of Aug 26)
-- **US Commercial Service Aerospace Team** — Export/MRO market alerts (new emphasis)
-- **Lily Hayes** (lhayes@etekserve.com) — Recruitment/staffing for open positions (NEW)
-- **Nina Sabak** (via Media Relations) — Content opportunities contact (NEW)
+- **UAS VISION** (russ@uasvision.com) — Confirmed daily intelligence (consistent schedule)
+- **Kallman Worldwide / Brian Keller** (via media@blackswifttech.com) — **NEW: AUSA 2026 Global Partnership Opportunities Briefings invitation (Sept 17, sent to both Paige individually and broader team)**
+- **Uncrewed Tech Ltd / DroneX 2026** — Confirmation email sent Sept 18 ("You're all set for DroneX 2026")
+- **Geo Week 2027** — **Rachel Ferris speaker acceptance deadline Sept 25 (jelston@blackswifttech.com involvement)**
+- **AMS (American Meteorological Society) 107th Annual Meeting 2027** — **NEW: Exhibitor kit live, Amanda D outreach on Sept 21 (stress-free exhibiting pitch)**
+- **Mitchell Institute** — Aerospace policy (Readiness Challenge, Next-Gen Propulsion briefings with Brig. Gen. Helfrich)
+- **Inside Climate News** — Climate policy and environmental reporting (multiple editors)
+- **Jack Overell** (jack.overell@saemediagroupevents.com) — **NEW: Eastern Europe defense agenda event (Sept 18)**
+- **SAE Media Group Events** — Defense/Eastern Europe conference coordination
+- **PBExpo 2027** — Booking/attendance (Sept 17)
+- **UOSSM Canada** (contact@uossm-canada.org) — Ongoing Gaza relief volunteer engagement (Sept 18 check-in on "First 17 Days of September")
+- **Sean Guerre** (seang@innovateenergynow.com) — **NEW: Bots & Brews Houston event (Sept 18, energy robotics networking)**
+- **STATION Austin / SATX Community** — Austin tech community events (weekly digest Sept 20)
+- **Content Marketing Institute** — CMWorld Denver conference (Sept 16 promo)
+- **DSST Public Schools** — STEM education outreach (Sept 16)
 
 ## Topic Patterns
 
-### Primary Focus Areas
-1. **Unmanned Aerial Systems (UAS/Drones)** — continues as dominant theme
-2. **Geospatial Technology** — mobile mapping, LiDAR, GNSS, point clouds
-3. **Defense & Aerospace** — MRO (Maintenance, Repair, Overhaul) markets, aerospace export opportunities
-4. **Recruitment/Hiring** — NEW pattern emerging (open positions, candidate sourcing)
+### Primary Focus Areas (Confirmed & Updated)
+1. **Unmanned Aerial Systems (UAS/Drones)** — dominates, reinforced in new data
+   - DroneX 2026 registration confirmed (Sept 18)
+   - Unmanned Systems Technology newsletter (autonomy, propulsion, sensing themes)
+   - AUSA 2026 defense conference (partnership opportunities)
+   - Bots & Brews Houston robotics networking (Sept 18)
 
-### Recurring Subject Themes
-- UAS deployment and daily market intelligence (UAS VISION)
-- Aerospace MRO markets (Ireland focus in new data)
-- LinkedIn connection/collaboration opportunities
-- Internal company updates and meetings
-- **NEW:** Hiring/recruitment for open positions
+2. **Defense & Aerospace Markets** — heavily emphasized
+   - AUSA 2026 (Global Partnership Opportunities Briefings, Sept 17 invitation from Kallman/Keller)
+   - **Eastern Europe defense agenda** (SAE Media Group, Sept 18) — emerging international focus
+   - A&SF Daily (F-15 drone-busting rockets, Joint Chiefs on future of war)
+   - Mitchell Institute propulsion & readiness briefings
+   - **AMS 2027 exhibitor outreach** (meteorological/atmospheric systems for defense/aviation?)
 
-### Notable Subject Lines (New Data)
-- "Learn About MRO Meetings Ireland and Irish MRO Market" — suggests aerospace/MRO business development interest
-- "Interview-Ready Candidates for your Open Position" — active hiring cycle
-- "Checking In – New Content & Opportunities" (Nina Sabak) — potential partnership/media collaboration
-- "Volcano 2026 is Officially Sold Out" — event fully booked (capacity met)
+3. **Geospatial Technology** — consistent, expanding
+   - Geo Week 2027 speaker confirmation (jelston + Paige, Sept 16; speaker acceptance due Sept 25)
+   - Geo-matching aerial imaging (83,000-pixel sensors, mobile mapping in urban/tunnel environments, sensor fusion)
+   - **Aerial imagery as search engine** (Geo Week News, Sept 16)
 
-## Communication Patterns
+4. **Autonomy & AI** — emerging secondary focus
+   - Unmanned Systems Technology autonomous marine response & precision sensing
+   - Mitchell Institute on future war and readiness
+   - **Website ROI & AI Agents** webinar invite (Diana González, Sept 22, 2026)
 
-### Time Patterns
-- **Consistent weekday pattern:** Most emails arrive Mon–Fri, daytime UTC
-- **UAS VISION:** Continues daily at ~09:00 UTC
-- **Recent activity surge:** 7 new emails in 1 day (Aug 26–27), suggesting increased team activity/coordination
-- **Timezone awareness:** Mix of UTC and US time zones (PDT, EDT)
+5. **Energy & Infrastructure** — new emphasis
+   - **Bots & Brews Houston** (robotics + energy innovation networking, Sept 18)
+   - Energy Drone & Robotics Coalition Brief (Sept 18)
+   - Critical infrastructure resilience signals
 
-### Mailing Lists & Group Participation
-- **Internal meeting:** "BST Internal Update Meeting" (11-person distribution, Aug 26, 7–7:30pm UTC) — suggests company-wide sync or significant team announcement
-- **LinkedIn Groups:** Continued activity
-- **Event communities:** Volcano Summit (sold out)
+6. **Climate & Science** — strong tertiary theme (routed heavily to Paige)
+   - Inside Climate News (climate policy, environmental reporting; multiple touching over 5-day window)
+   - National Geographic (wildlife, oceanography, astronomy; 6 emails in new data)
+   - **NOAA UFS & HPC announcements** (Sept 18; weather modeling/forecasting infrastructure)
+   - Senator Whitehouse podcast on climate
 
-### Automated/Newsletter Traffic
-- **Daily:** UAS VISION (consistent)
-- **Weekly:** Geo-matching
-- **Government feeds:** US Commercial Service Aerospace alerts (new emphasis, 2+ messages)
-- **Promotional/Recruitment:** Eteks Serve (interview candidates), Nina Sabak (content/partnerships)
+7. **Education & Outreach** — active engagement
+   - DSST Public Schools STEM outreach (Sept 16)
+   - Agritecture Designer free launch (Sept 17; agricultural education/tech)
+   - **CMWorld Denver conference** (content marketing, Sept 16; Paige involvement)
 
-## Key Relationships
+8. **Humanitarian/Volunteer Work** — ongoing personal commitment
+   - UOSSM Canada Gaza medical relief (Sept 18 check-in from Kareem)
 
-### Internal Collaborators
-- **Paige Smith** (paige.smith@blackswifttech.com) — NOW PRIMARY RECIPIENT
-  - Receiving majority of forwarded emails, LinkedIn notifications, meeting invitations
-  - Likely owns media relations, communications, or business development coordination
-  - Receives internal meeting invitations (11-person distribution including Kareem's known collaborators)
-
-- **BST Internal Update Meeting Distribution (Aug 26):**
-  - paige.smith@blackswifttech.com (primary)
-  - josh.fromm@blackswifttech.com
-  - alex.lomis@blackswifttech.com
-  - stachura@blackswifttech.com (NEW name)
-  - daniel.prendergast@blackswifttech.com (NEW name)
-  - ethan.domagala@blackswifttech.com
-  - meredith.needham@blackswifttech.com (NEW name)
-  - sam.hild@blackswifttech.com
-  - beck.cotter@blackswifttech.com (NEW name)
-  - nate.straus@blackswifttech.com
-  - cory.dixon@blackswifttech.com (NEW name)
-  - **Note:** Indicates broader leadership/coordination group beyond previous KrateoSky team
-
-### External Contacts (New)
-- **Lily Hayes** (Eteks Serve) — Recruiting/staffing for open positions
-- **Nina Sabak** (via Media Relations) — Content/partnership opportunities outreach
-
-### External Partners (Continuing)
-- **KrateoSky** (Tim Hegwood) — Strategic collaboration on visibility/project coordination
-- **Geo-matching** — Technology intelligence source
-- **UAS VISION** (Russ) — Daily industry intelligence
-
-## Notable Observations
-
-1. **Shift in Email Routing Pattern:** New data shows significant increase in emails routed to **paige.smith@blackswifttech.com** (5 of 7 new messages). This represents a departure from previous pattern where emails were split more evenly. Possible explanations:
-   - Paige Smith is increasingly central to communications flow (media relations, business development, hiring coordination)
-   - Kareem and Paige may share media team responsibilities
-   - Paige may be acting as communications hub or gatekeeper for BST
-
-2. **Expanded Leadership Distribution:** BST Internal Update Meeting includes 11 recipients (compared to 8-person KrateoSky team from previous data). This broader group suggests:
-   - Company-wide strategic meeting or announcement
-   - Expanded cross-functional coordination
-   - Several new names (Stachura, Daniel Prendergast, Meredith Needham, Beck Cotter, Cory Dixon) — possible new hires or team restructuring
-
-3. **Active Hiring Cycle:** Recruitment emails from Eteks Serve for "open position" indicates BST is actively hiring. This aligns with expanded team distribution in recent meetings.
-
-4. **MRO Market Focus (NEW):** US Commercial Service alert about Ireland MRO meetings suggests new business development focus in aerospace maintenance/repair/overhaul sector — distinct from previous UAS/geospatial emphasis. Possible new market opportunity or strategic pivot.
-
-5. **Volcano Summit Sold Out:** Event reached capacity (Aug 26). This was previously noted as ~80% capacity; now fully booked. May impact Kareem's/team's participation or indicate strong industry interest in event topic.
-
-6. **
+### Recurring Subject Themes (New Data Confirms)
+- **Daily market intelligence:** UAS VISION (confirmed 9am UTC cadence; Sept 16, 17, 18, 21)
+- **

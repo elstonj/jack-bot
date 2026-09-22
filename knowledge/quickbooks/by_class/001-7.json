@@ -4,14 +4,15 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2026-08-27",
+    "end": "2026-09-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 205.87,
+    "expenses": 4113.82,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 205.87
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 3475.17,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 638.65
     }
   },
   "invoices": [],
@@ -19,19 +20,127 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-08-19",
-      "doc_number": "S292K094",
-      "total": 205.87,
-      "attributed": 205.87,
+      "date": "2026-09-14",
+      "doc_number": "1J597401",
+      "total": 227.83,
+      "attributed": 227.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "POLOLU CORPORATION - 7333",
+      "lines": [
+        {
+          "amount": 227.83,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "24V, 4A Step-Down Voltage Regulator D42V55F24 x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-10",
+      "doc_number": "71063",
+      "total": 272.66,
+      "attributed": 272.66,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 205.87,
+          "amount": 272.66,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Part_Studio_1_Part_2.dxf; Part_Studio_1_Part_2.dxf; S0_Launcher___Hook.step"
+          "description": "Top-shell-Main.step; Main-housing-Main.step; adapter-plate-Main.step; Part-15-Main.step; Lid-Main.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-08",
+      "doc_number": "",
+      "total": 9.81,
+      "attributed": 9.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Verbal request by J. Fromm",
+      "lines": [
+        {
+          "amount": 9.81,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment to Phase1 (Sean Cole) machined parts for the S3 center wings (1ZY1791K0328096184)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-05",
+      "doc_number": "",
+      "total": 47.56,
+      "attributed": 47.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOMEDEPOT.COM - 7333",
+      "lines": [
+        {
+          "amount": 47.56,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PLUMBFLEX2 in. x 48 in. Black Steel Pipe"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-05",
+      "doc_number": "",
+      "total": 19.22,
+      "attributed": 19.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOMEDEPOT.COM - 7333",
+      "lines": [
+        {
+          "amount": 19.22,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Southland 2 in. Black Malleable Iron Threaded Floor range"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-04",
+      "doc_number": "",
+      "total": 3475.17,
+      "attributed": 3475.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Payment for remaining balance (intital payment of $5,500)",
+      "lines": [
+        {
+          "amount": 3475.17,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "S3 outboard wing set; S3 Center Wing; S3 Tail set"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-04",
+      "doc_number": "0903JELSTON",
+      "total": 61.57,
+      "attributed": 61.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 61.57,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Zinc-Plated Alloy Steel Socket Head Screw; Corrosion-Resistant 18-8 Stainless Steel Hex Nut with Material Certificate; 18-8 Stainless Steel Washer for 1/4\" Screw Size"
         }
       ]
     }

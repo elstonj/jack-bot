@@ -4,11 +4,13 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and weekly purchasing cycles
-- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Equipment wish list, no due date assigned). Cleaning cycle is on track with consistent bi-weekly completion.
+- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Facilities Improvements, no due date assigned). Cleaning cycle is on track with consistent bi-weekly completion.
 - **Team members involved**: 
   - Meredith O'hara Needham (primary operational owner, cleaning coordination, purchasing coordination)
   - Nate Straus (equipment planning; consumables stock tracker owner)
-- **Risk signals**: Open "Equipment wish list" task has no due date assigned—clarify priority and deadline. Historical cleaning completion data shows variable lag (1–19 days); most recent completion (2025-12-04) was 19 days after due date (2025-11-15).
+- **Risk signals**: 
+  - Open "Facilities Improvements" task is unassigned with no due date—clarify owner, scope, and deadline
+  - Previous open task "Equipment wish list" (Nate Straus) is no longer visible in current data; unclear if closed or archived
 
 ## Key Deliverables & Milestones
 - **Bi-weekly office cleaning** (via Neat N Tidy; established cadence)
@@ -19,24 +21,17 @@
 - **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
 
 ## Task Summary
-- **Total tasks**: 1 open, 8 completed (recent snapshot)
+- **Total tasks**: 1 open (Facilities Improvements), 0 completed in current snapshot
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 8 completed (all Office Cleaning tasks)
-    - Primary owner of cleaning coordination and bi-weekly cadence
-  - **Nate Straus**: 1 open (Equipment wish list, no due date)
-    - Equipment planning and consumables tracking
+  - **Unassigned**: 1 open (Facilities Improvements, no due date)
 - **Notable patterns**:
-  - Bi-weekly cleaning cycle maintained throughout 2025 with consistent completion (8 tasks completed)
-  - Completion lag variable: most completions within 1–3 days of due date; one significant delay (19 days, 2025-11-15 → 2025-12-04)
-  - Equipment wish list task lacks due date—may indicate incomplete task setup
+  - Shift in active tasks: Equipment wish list is no longer visible; Facilities Improvements (broader scope) has replaced it
+  - No assignee or due date on open task indicates incomplete intake
 
 ## Recent Activity
-- **Open task**:
-  - Equipment wish list (Nate Straus) — **no due date assigned**
-- **Recently completed**:
-  - Office Cleaning (due 2025-11-15, completed 2025-12-04 — 19 days late)
-  - Office Cleaning (due 2025-07-26, completed 2025-07-25 — on time)
-  - Office Cleaning (due 2025-07-12, completed 2025-07-11 — 1 day early)
+- **Open task** (new/changed):
+  - Facilities Improvements (Unassigned) — **no due date assigned, no assignee**
+  - *Note: Previous open task "Equipment wish list" (Nate Straus) is no longer in current data*
 
 ## Notes & Context
 
@@ -65,5 +60,5 @@
 **Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
 
 **⚠️ Action Items**:
-1. **Equipment wish list** (Nate Straus): Assign a due date and clarify priority/scope.
+1. **Facilities Improvements** (Unassigned): Assign owner, set due date, and clarify scope (replaces prior Equipment wish list task?)
 2. **Completion lag monitoring**: Recent 19-day delay (2025-12-04) is outside typical 1–3 day range. Confirm whether workload, vendor availability, or task closure workflow needs adjustment.

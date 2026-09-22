@@ -4,64 +4,58 @@
 - Client: [001] IRAD
 - Active: Yes
 - Billable: No
-- Total hours tracked: **372.5 hours (cumulative)** ⬆️ (+36.7h)
+- Total hours tracked: **432.5 hours (cumulative)** ⬆️ (+16.0h)
 
 ## Team Allocation
-- **Beck Cotter**: 200.4 hours (53.8% of total) ⬆️ (+16.0h)
-- **Dan**: 112.3 hours (30.1% of total) ⬆️ (+12.0h)
-- **Jack Elston**: 41.0 hours (11.0% of total) ⬆️ (+8.7h)
-- **Stachura**: 18.7 hours (5.0% of total)
-- **Meredith Needham**: 5.7 hours (1.5% of total)
-- **Nate**: 1.8 hours (0.5% of total)
+- **Beck Cotter**: 260.4 hours (60.2% of total) ⬆️ (+16.0h)
+- **Dan**: 112.3 hours (26.0% of total)
+- **Jack Elston**: 41.0 hours (9.5% of total)
+- **Stachura**: 18.7 hours (4.3% of total)
+- **Meredith Needham**: 5.7 hours (1.3% of total)
+- **Nate**: 1.8 hours (0.4% of total)
 
 **Primary contributors:**
-- **Beck Cotter** — 200.4h cumulative (53.8%); **sustained re-activation cycle continues** ⬆️ (+16.0h current batch); sustained mechanical execution across proposal workstreams; **fourteen-batch engagement window**
-- **Dan** — 112.3h cumulative (30.1%); **re-activated this batch** ⬆️ (+12.0h); leadership/oversight role; **engagement pattern shift — extended dormancy broken**
-- **Jack Elston** — 41.0h cumulative (11.0%); **major re-entry** ⬆️ (+8.7h); proposal review & white paper work; **first significant activity in 13+ batches**
+- **Beck Cotter** — 260.4h cumulative (60.2%); **sprint continues with emerging focus clarity** ⬆️ (+16.0h); cumulative acceleration now **86.7h over five consecutive batches** (7.2h → 3.5h → 16.0h → 44.0h → 16.0h)
+- **Dan** — 112.3h cumulative (26.0%); stable baseline; leadership/oversight role
+- **Jack Elston** — 41.0h cumulative (9.5%); external engagement; NOAA proposal & whitepaper work
 
 ## Activity Timeline
 
-**Current batch (36.7 hours):**
-- **Beck Cotter**: 4.0h + 4.0h + 4.0h + 4.0h = **16.0h** *(no descriptions provided)*
-- **Dan**: 4.0h + 8.0h = **12.0h** *(no descriptions provided)*
-- **Jack Elston**: 3.0h (NOAA Proposal) + 2.8h (NOAA proposal response) + 1.0h (White paper review) + 1.0h (BST Whitepaper Walkthrough) + 0.5h (NOAA BST White paper final review) + 0.5h (NOAA White paper final revive) = **8.7h**
+**Current batch (16.0 hours):**
+- **Beck Cotter**: 8.0h (NOAA IDIQ) + 8.0h (NOAA) = **16.0h**
 
-**Recent trajectory (last 21 batches):**
-- Beck Cotter: **16.0h (current)** [sustained sprint; undocumented] ← **3.5h (previous)** [re-activation; undocumented] ← 7.2h [re-activation; Eryan lava & Kevin R. Halo] ← [continuing oscillation pattern]
-- Dan: **12.0h (current)** [MAJOR RE-ENTRY after two-batch dormancy] ← 0.0h ← 0.0h ← 2.5h [previous activation]
-- Jack Elston: **8.7h (current)** [SIGNIFICANT RE-ENTRY after 13+ batch freeze] — NOAA & BST whitepaper workstreams active
+**Recent trajectory (last 5 batches):**
+- Beck Cotter: **16.0h (current)** [NOAA IDIQ + NOAA focus; documented] ← 44.0h (previous) [undocumented] ← 16.0h ← 3.5h ← 7.2h
+- Pattern: **High-intensity execution cycle with cyclical allocation** (7.2h → 3.5h → 16.0h → 44.0h → 16.0h); suggests iterative proposal development phases
+- Dan: **12.0h (two batches ago)** [re-entry]; 0.0h baseline resumed
+- Jack Elston: **Dormant this batch and previous**
 
 ## Insights
 
 **Types of work** (from documented entries):
-- **NOAA Proposal** — Jack Elston; active workstream; proposal development + response drafting + white paper review/finalization (5.8h total across three entries)
-- **BST Whitepaper** — Jack Elston; white paper coordination & walkthrough (1.5h; "White paper review," "BST Whitepaper Walkthrough," "NOAA BST White paper final review")
-- **General proposal development** — Beck Cotter; undocumented (16.0h; no descriptions)
-- **Leadership/Oversight** — Dan; undocumented (12.0h; no descriptions)
+- **NOAA IDIQ Proposal Development** — Beck Cotter, 8.0h (current batch)
+- **NOAA Proposal (general)** — Beck Cotter, 8.0h (current batch)
+- **General proposal development** — Beck Cotter (prior batches; undocumented 44.0h)
+- **NOAA Proposal & BST Whitepaper** — Jack Elston (earlier cycles); finalization/review phases
+- **Leadership/Oversight** — Dan (ad-hoc activation)
 
 **Work patterns:**
 
-- **Beck Cotter execution: SUSTAINED SPRINT ACCELERATING** ⬆️⬆️
-  - Three-batch window: 3.5h (two batches ago) + 7.2h (previous) + 16.0h (current) = **26.7h over three consecutive batches**
-  - **Four-batch consecutive high-activity period** (7.2h, 3.5h, 16.0h pattern suggests material workload execution)
-  - Demonstrates **material proposal development momentum** — highest single-batch allocation to date
-  - ⚠️ **Critical documentation gap**: No descriptions across all 16.0h; context opacity increased despite elevated time commitment
-  - Assumption: Eryan lava & Kevin R. Halo proposals continue; other workstreams unknown
+- **Beck Cotter: NOAA-focused execution cycle** ⬆️
+  - **Five-batch acceleration surge**: 7.2h + 3.5h + 16.0h + 44.0h + 16.0h = **86.7h cumulative over five batches**
+  - **Cyclical allocation pattern emerging**: High phase (44.0h) followed by stabilization (16.0h); suggests proposal phase transitions (deep execution → deliverable finalization → reset)
+  - **Documentation improvement**: Current batch fully described (NOAA IDIQ + NOAA); previous batch remained opaque (44.0h undocumented)
+  - **Workstream clarity**: NOAA proposals now explicitly tracked; likely primary workstream; other IRAD proposals (Eryan lava, Kevin R. Halo, etc.) status unknown
+  - **Interpretation**: Sustained high-priority NOAA IDIQ proposal cycle underway; 16.0h allocation suggests either (a) current phase requiring moderate intensity or (b) shift to secondary workstreams while NOAA cycle continues
 
-- **Dan oversight cycle: DORMANCY BROKEN — MAJOR RE-ENTRY** ⬆️⬆️
-  - Two consecutive dormant batches + **re-activation with 12.0h (largest single-batch allocation)**
-  - Pattern disruption: Previous oscillation rhythm (2-batch cycle) abandoned; extended engagement now present
-  - Suggests **material oversight requirement** triggered or **sustained project escalation**
-  - Opacity: No descriptions; context for 12.0h input unknown
-  - **Prediction: Oscillation pattern may stabilize at new higher baseline or continue oscillating cycle**
+- **Documentation recovery: PARTIAL** 🟡
+  - Current batch 100% documented (16.0h described)
+  - Prior batch still lacks descriptions (44.0h undocumented)
+  - Overall project opacity reduced: ~44.0h / 432.5h (10.2% of cumulative) now in documentation gap
+  - **Recommendation**: Continue requesting Beck Cotter entry descriptions for historical batches; establish consistent tagging/description discipline
 
-- **Jack Elston execution: THIRTEEN-BATCH FREEZE ENDED** ⬆️⬆️
-  - **Dramatic re-entry after extended dormancy**: 8.7h, all documented
-  - **Clear workstream identification**: NOAA proposal work + BST whitepaper finalization (collaborative effort evident across five sub-entries)
-  - White paper final review phases suggest **delivery-oriented sprint** (0.5h increments = final-stage polish work)
-  - Re-activation logic: Whitepaper completion/review cycle appears to have triggered Jack's return
+- **Dan oversight: Baseline re-activation questionable**
+  - No activity in last two batches; previous re-entry (12.0h) may have been anomaly rather than sustained shift
 
-- **Documentation patterns — BIFURCATED TRANSPARENCY** 🟡
-  - **Jack Elston**: Full transparency restored (all 8 entries documented; specific deliverables named)
-  - **Beck Cotter & Dan**: Continued opacity (12 hours combined with zero descriptions)
-  - **Interpretation**: Named workstreams (
+- **Jack Elston: Engagement on pause**
+  - No hours recorded across last two batches; NOAA whitepaper likely concluded

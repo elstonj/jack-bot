@@ -7,32 +7,34 @@
   - Kevin Pesola (kpesola@usgs.gov, USGS Vancouver office, 1300 SE Cardinal Court Suite 100, Vancouver, WA 98683, (360) 993-8963)
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Contract**: 140G0323P0280
-- **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT POSTPONED TO FALL 2026** (originally April 20, 2026)
-- **Status**: **ACTIVE — PAUSED** — Mission deployment rescheduled to Fall 2026 per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Batteries shipped to Mexico (May 2026) with permanent import fees paid; customs/import details under review with customs broker Javi. **No flight planning, shipping, or mission prep underway.** ⚠️ **All spring/summer 2026 task due dates in Asana are STALE — await Fall 2026 timeline confirmation.**
+- **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT RESCHEDULED TO FALL 2026** (originally April 20, 2026)
+- **Status**: **ACTIVE — PAUSED** — Mission deployment rescheduled to Fall 2026 per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Batteries shipped to Mexico (May 2026) with permanent import fees paid; customs/import details under review with customs broker Javi. **Two open tasks pending** (flight approvals and ground permissions). No flight planning, shipping, or mission prep underway until Fall 2026 confirmation.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Priority**: Medium (Government customer)
 
 ## Key Deliverables & Milestones
 
-⚠️ **CRITICAL: All milestone due dates are STALE per team corrections (Maciej Stachura, April 17, 2026; Jack Elston, April 20, 2026). Actual deployment timeline has shifted to FALL 2026. Do not action these due dates without confirmation from Maciej.**
+### Completed Milestones
+- ✅ **Package and Ship S2 Equipment** | Dan Prendergast | Completed: January 22, 2026 (due 2026-01-21)
+- ✅ **Verify Operator Manual and Flight CONOPS submitted to AFAC** | Dan Prendergast | Completed: September 6, 2026 (due 2026-08-31)
+- ✅ **Make decision on LUD to take over for AV3** | Dan Prendergast | Completed: September 17, 2026 (due 2026-09-08)
 
-### Major Milestones (Asana Due Dates — STALE, Await Fall 2026 Confirmation)
-- **Verify Operator Manual and Flight CONOPS submitted to AFAC** | Dan Prendergast | Asana due: 2026-08-27 | **STALE & OPEN**
-- **Investigate alternate Sub for AFAC coordination** | Dan Prendergast | Asana due: 2026-08-27 | **STALE & OPEN** *(new task, added since last update)*
-- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Asana due: 2026-09-21 | **STALE & OPEN**
-- **Package and Ship S2 Equipment** | Dan Prendergast | Due: 2026-01-21 | ✅ **COMPLETED January 22, 2026**
+### Open Milestones
+- **Obtain flight approvals from AFAC** | Dan Prendergast | Due: 2026-09-21 | **Status unknown — awaiting Fall 2026 timeline confirmation**
+- **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Due: 2026-10-19 | **Status unknown — in progress or pending CENAPED coordination**
 
 ## Task Summary
-- **Total Tasks**: 3 open, 1 completed
-- **Current Open Tasks**: All assigned to Dan Prendergast (3 of 3)
-  - Verify Operator Manual and Flight CONOPS submitted to AFAC (due 2026-08-27 — **STALE**)
-  - Investigate alternate Sub for AFAC coordination (due 2026-08-27 — **STALE**)
-  - Verify ground permissions for national park (due 2026-09-21 — **STALE**)
-- **Completion Rate**: 25% (1 of 4 tracked core deliverables completed)
-
-**Note**: All 3 open tasks carry August–September 2026 due dates — these are **STALE per team corrections**. Deployment moved to Fall 2026; no active flight planning or mission prep underway.
+- **Total Tasks**: 2 open, 4 completed
+- **Completion Rate**: 67% of tracked milestones completed
+- **Primary Assignee**: Dan Prendergast (all open and recent completed tasks)
 
 ## Recent Activity
+
+### September 17, 2026
+✅ **COMPLETED**: "Make decision on LUD to take over for AV3" (Dan Prendergast) — 9 days after Asana due date of September 8, 2026. Decision made on aircraft rental coordination.
+
+### September 6, 2026
+✅ **COMPLETED**: "Verify Operator Manual and Flight CONOPS submitted to AFAC" (Dan Prendergast) — six days after Asana due date of August 31, 2026.
 
 ### May 27–28, 2026 (TEAM CORRECTIONS — AUTHORITATIVE)
 **Daniel Prendergast** raised three pending action items for Maciej Stachura:
@@ -51,26 +53,26 @@
 ### January 22, 2026
 ✅ **COMPLETED**: "Package and Ship S2 Equipment" (Dan Prendergast) — one day after original due date of January 21, 2026.
 
-### Current Status (as of May 28, 2026)
-Project paused pending Fall 2026 deployment timeline confirmation. Batteries in transit to or received in Mexico with permanent import fees paid. Customs/import documentation and timeline details under review; awaiting Maciej's direction on email archival, customs broker communication, and group notification. **No active flight planning, mission prep, or shipping coordination underway.** All August–September 2026 milestone due dates in Asana are stale.
-
 ## Notes & Context
-- **Mission Purpose**: S3 aircraft deployment to Mexico for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
-  
+
+- **Mission Purpose**: S3 aircraft deployment to Mexico (project name notes "Chile" but all comms reference Mexico) for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental through AV3
+
 - **Deployment Status**: 
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026
-  - **Implication**: **All spring/summer 2026 task due dates in Asana are stale**; remaining milestones await Fall 2026 timeline confirmation
+  - **Implication**: Spring/summer 2026 task due dates were stale; team has moved major deliverables (LUD decision, AFAC CONOPS) to September 2026. Current open tasks have October 2026 due dates, aligning with rescheduled timeline.
   
 - **Hardware & Logistics Status**: 
   - **S2 Equipment shipped** January 2026 (completed January 22)
   - **Batteries shipped to Mexico** May 2026 with permanent import fees paid
   - **Customs/import status**: Under review with customs broker Javi; no ECCN obtained; awaiting Maciej's direction on documentation and group communication
   
-- **Action Items Pending**:
-  - Maciej to confirm: email archive location for battery shipment documentation
-  - Maciej to confirm: request customs broker Javi for formal ECCN/import classification confirmation
-  - Maciej to confirm: whether to notify team of battery import details
-  - Team to await Fall 2026 timeline confirmation before actioning any flight planning, permissions, or approvals
+- **Pending Action Items**:
+  - **Maciej Stachura**: Confirm email archive location for battery shipment documentation
+  - **Maciej Stachura**: Confirm whether to request customs broker Javi for formal ECCN/import classification confirmation
+  - **Maciej Stachura**: Confirm whether to notify team of battery import details
+  - **Dan Prendergast**: Obtain flight approvals from AFAC (Due 2026-09-21 — status unclear; likely tracking but may need follow-up)
+  - **Dan Prendergast**: Verify ground permissions for national park with CENAPED (Due 2026-10-19 — CENAPED is lead; Dan coordinating)
+  - **Team**: Await final Fall 2026 timeline confirmation and mission execution trigger before full mission prep
 
-- **New Sub-task**: "Investigate alternate Sub for AFAC coordination" (due 2026-08-27) added since last knowledge file update — purpose and context TBD; likely related to regulatory/approvals coordination for Fall 2026 deployment.
+- **Products/Services**: MHP, Survey Services, Aircraft Rental (through AV3)

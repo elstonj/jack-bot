@@ -28,8 +28,8 @@
 
 ## Task Summary
 
-**Total Tasks in Asana:** 0 open, 1 completed  
-**Completion Rate:** 100% (all contracted work delivered)
+**Total Tasks:** 1 contact record (Matthew Fladeland) in Asana; no active work tasks  
+**Completion Rate:** 100% (all contracted work delivered and closed)
 
 ### Notable Completed Work by Assignee
 
@@ -92,6 +92,9 @@
 - **Meredith O'hara Needham:** Flawless contract administration and payment processing
 - **Dan Prendergast:** Flight operations and project closeout
 
+### Operational Costs (Reference Data, August 2026)
+Per **Daniel Prendergast (08/24–08/25/26):** Current rate for one day of testing in the NASA Glenn Icing Research Tunnel is **$55k–$60k**. (Reference for future similar NASA facility work.)
+
 ---
 
 ## Follow-On Opportunities (April–May 2026)
@@ -117,5 +120,4 @@
 For implementation starting September 2026:
 
 1. **Cancel** S3 Europe wing reduction
-2. **Move S3 Hybrid to the right and S0/S0-VTOL ISR to the left** to compensate (goal: S0-ISR demo for the UK)
-3. **Move S3 de-ice and S3 Salt Spray to the right and S3 severe cold to the left** to compensate (better align with customer timelines)
+2. **Move

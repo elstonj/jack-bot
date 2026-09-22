@@ -10,10 +10,6 @@
   - Email: stachura@blackswifttech.com
   - Phone: 720-335-7558
 
-- **Tiffany Elston** — Executive Assistant
-  - Email: tiffany.elston@blackswifttech.com
-  - Phone: 720-810-3068
-
 ## Engineering & Technical
 
 ### Software Engineering
@@ -28,15 +24,14 @@
   - Email: sam.hild@blackswifttech.com
   - Phone: 224-856-9383
 
-### Mechanical Engineering
+### Mechanical & Manufacturing Engineering
 - **Joshua Fromm** — Mechanical Engineer
   - Email: josh.fromm@blackswifttech.com
   - Phone: 970-371-0426
 
-### Shop & Technical Support
-- **Nathaniel Straus** — Shop Technician
-  - Email: nate.straus@blackswifttech.com
-  - Phone: 303-809-8707
+- **Joshua Waldman** — Manufacturing Production Engineer
+  - Email: joshua.waldman@blackswifttech.com
+  - Phone: 301-357-0345
 
 ### Interns
 - **Ethan Domagala** — Intern
@@ -81,13 +76,19 @@
   - Email: tim.hegwood@blackswifttech.com
   - Notes: Role and department unknown
 
-## Service Accounts
+## Service Accounts & Emergency Access
 
 - **BST Technician** — Service Account
   - Email: technician@blackswifttech.com
 
 - **Calendar Interop** — Service Account
   - Email: calendar-interop@blackswifttech.com
+
+- **Emergency Admin 1** — Service Account
+  - Email: emergency-admin1@blackswifttech.com
+
+- **Emergency Admin 2** — Service Account
+  - Email: emergency-admin2@blackswifttech.com
 
 - **Swift Web** — Service Account
   - Email: swiftweb@blackswifttech.com
@@ -96,35 +97,34 @@
 
 ## Summary
 
-**Total Headcount:** 17 active employees + 3 service accounts (20 total roster entries)
+**Total Headcount:** 16 active employees + 5 service accounts (21 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
 - Maciej Stachura (CTO)
-- Tiffany Elston (Executive Assistant)
 
 **Team Structure:**
-- **Leadership:** 3 people
-- **Engineering & Technical:** 8 people
+- **Leadership:** 2 people
+- **Engineering & Technical:** 7 people
   - Software Engineering: 3 engineers
-  - Mechanical Engineering: 1 engineer
-  - Shop & Technical Support: 1 technician
+  - Mechanical & Manufacturing Engineering: 2 engineers
   - Interns: 2 interns
 - **Operations & Administration:** 1 person
 - **Communications & Marketing:** 1 person
 - **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
-- **Service Accounts:** 3
+- **Service Accounts & Emergency Access:** 5
 
 **Data Changes from Previous Snapshot:**
-- ✅ Paige Smith (Communications & Digital Marketing Specialist) removed — not present in new raw data
-- ✅ Jameel Barkat removed — not present in new raw data
-- ✅ All phone numbers standardized to XXX-XXX-XXXX format
-- ✅ All email addresses preserved exactly as provided
-- ✅ Ben Busby's phone number corrected to 555-555-5555 (was displaying as hyphenated previously)
+- ✅ **NEW ADDITION:** Joshua Waldman (Manufacturing Production Engineer) — added to roster
+- ⚠️ **REMOVAL:** Nathaniel Straus (Shop Technician) — no longer present in current data
+- ⚠️ **REMOVAL:** Tiffany Elston (Executive Assistant) — no longer present in current data
+- ✅ Phone numbers standardized to XXX-XXX-XXXX format across all entries
 
 **Observations:**
-- Engineering-focused organization: 8 technical staff (47% of active headcount)
-- Five team members remain unclassified — recommend reaching out to leadership for role clarification
-- Active intern program with 2 positions filled
-- Three service accounts supporting platform operations
-- Headcount decreased by 3 from previous snapshot (Paige Smith and Jameel Barkat no longer roster; 1 other unclassified removed)
+- Engineering-focused organization: 7 technical staff (44% of active headcount)
+- Manufacturing capability expanded: addition of Joshua Waldman (Manufacturing Production Engineer) suggests increased production operations
+- Two personnel changes from previous snapshot: Shop Technician and Executive Assistant roles removed
+- Five team members remain unclassified — recommend clarification of roles and departments
+- Active intern program maintained with 2 positions filled
+- Service account infrastructure stable at 5 accounts
+- **Data integrity note:** Nathaniel Straus and Tiffany Elston were previously in directory but absent from current data. Recommend verification of employment status before taking action.

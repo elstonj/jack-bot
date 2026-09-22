@@ -1,11 +1,11 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $2,995,489.34
-- **Total Expenses (Bills + Purchases):** $244,597.73
+- **Total Invoiced (Revenue):** $3,020,068.62
+- **Total Expenses (Bills + Purchases):** $244,627.02
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,750,891.61 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – August 26, 2026
+- **Net Position:** $2,775,441.60 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – September 15, 2026
 
 ---
 
@@ -15,7 +15,8 @@
 
 | Invoice # | Date | Amount | Customer | Balance |
 |-----------|------|--------|----------|---------|
-| **1772** | **2026-07-17** | **$3,000.00** | **Alliance for Energy Innovation, LLC** | **$3,000.00** |
+| **1779** | **2026-08-31** | **$24,579.28** | **[018-1] Murphy's Pond CH4** | **$24,579.28** |
+| 1772 | 2026-07-17 | $3,000.00 | Alliance for Energy Innovation, LLC | $3,000.00 |
 | 1770 | 2026-07-01 | $6,000.00 | [044-1] EMASS Chip Integration | $6,000.00 |
 | 1769 | 2026-06-09 | $25,000.00 | [044-1] EMASS Chip Integration | $25,000.00 |
 | 1768 | 2026-06-04 | $1,000.00 | Black Swift Technologies | $1,000.00 |
@@ -73,11 +74,15 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $2,995,489.34
-- **Total Collected (Paid):** $1,075,726.08
+- **Total Invoiced:** $3,020,068.62
+- **Total Collected (Paid):** $1,100,305.36
 - **Outstanding Balance:** $1,919,763.26
 
 #### Notable Recent Invoices
+
+**Invoice #1779 — [018-1] Murphy's Pond CH4 (August 31, 2026): $24,579.28**
+- Outstanding balance
+- Service: Day rental for UAS including launcher and all travel cases, tool kits and field equipment. Includes flight planning, QC and archiving of collected data. Data processing for flight. (Service dates: June 30-July 1, 2026)
 
 **Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00**
 - Outstanding balance
@@ -95,15 +100,11 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $7,744.34** | 21 transactions | Largest item: $1,600.00
+**Total: $7,773.63** | 22 transactions | Largest item: $1,600.00
 
 | Date | Vendor/Description | Amount | Details |
 |------|-------------------|--------|---------|
+| 2026-09-10 | Purchase #0910JELSTON | $29.29 | 18-8 Stainless Steel Pan Head Phillips Screw |
 | 2026-08-20 | Purchase #22962 | $1,408.00 | HBL6625 (0.11 sec/60° - 144.43 oz/in @8.2V) x 8 |
 | 2026-08-20 | Purchase #23022 | $1,600.00 | HBL599SL-DroneCAN x 6 |
 | 2026-08-19 | Purchase #70664 | $225.20 | Insert-L3-V218.step; Insert-R3-V218.step; Shroud-V218.step |
-| 2026-08-19 | Purchase #0818JELSTON | $9.99 | Chemical-Resistant Slippery PTFE Rod 3/16"; 18-8 Stainless Steel Pan Head Phillips Screw |
-| 2026-08-17 | Purchase #YW1790471 | $402.38 | Fuselage to Tail Interface - Front mount LEFT; Front mount RIGHT; Rear mount LEFT; Rear mount RIGHT |
-| 2026-08-10 | Purchase | $150.00 | INSTAAR supplies |
-| 2026-08-10 | Purchase | $318.00 | Parts for INSTAAR order |
-| 2026-08-08 | Purchase | $130.49 | Fasteners (

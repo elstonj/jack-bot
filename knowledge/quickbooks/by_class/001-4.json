@@ -4,15 +4,15 @@
     "(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-08-26",
-    "end": "2026-08-27"
+    "start": "2026-08-27",
+    "end": "2026-09-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2.5,
+    "expenses": 90.48,
     "by_category": {
-      "SALES & MARKETING:SM-Shipping": 2.22,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 0.28
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 88.26,
+      "SALES & MARKETING:SM-Shipping": 2.22
     }
   },
   "invoices": [],
@@ -38,6 +38,24 @@
           "amount": 20.0,
           "account": "SALES & MARKETING:SM-Shipping",
           "description": "Shipment pick-up for shipment to Vegas for SOCOM demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-02",
+      "doc_number": "260826W004363",
+      "total": 87.98,
+      "attributed": 87.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 87.98,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment from Microhard (ref #QT077799) - IRAD VTOL for A. Lomis"
         }
       ]
     }

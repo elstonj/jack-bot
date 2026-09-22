@@ -4,12 +4,12 @@
 - **Client:** Internal (CRADA)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 113.0 hours
+- **Total hours tracked:** 116.5 hours
 
 ## Team Allocation
-- **Jack Elston:** 73.8 hours (65.3% of total)
-- **Spencer Hoehl:** 37.2 hours (32.9% of total)
-- **Dan:** 2.0 hours (1.8% of total)
+- **Jack Elston:** 73.8 hours (63.3% of total)
+- **Spencer Hoehl:** 37.2 hours (31.9% of total)
+- **Dan:** 5.5 hours (4.7% of total)
 
 **Primary Contributor:** Jack Elston
 
@@ -20,12 +20,13 @@
 - **System debugging:** Debugging GCS (4.3h + 2.5h), System and GCS debugging (7.5h) — *Total: 14.3 hours*
 - **Flight/field operations:** Flight operations (6.2h), Refurbishment, Data Processing, Flight Planning (7.0h)
 - **Development:** Launch mode updates (3.2h)
-- **Unspecified work:** Spencer Hoehl (37.2 hours with no descriptions), Dan (2.0 hours)
+- **Unspecified work:** Spencer Hoehl (37.2 hours with no descriptions), Dan (5.5 hours with no descriptions)
 
 ### Work Pattern:
 - Significant demo-related activity (Jack: 42.5 hours)
 - Substantial debugging and system work
 - Spencer's entries largely lack descriptions, suggesting routine development or maintenance tasks
+- Dan's involvement increased from 2.0 to 5.5 hours (recent +3.5h with no description)
 - Recent activity focused on demo preparation and execution
 
 ## Insights
@@ -39,5 +40,6 @@
 ### Notable Patterns:
 - Jack carries the operational load, particularly for travel and demo activities
 - Spencer's work lacks documentation (33% of tracked time has no description) — may indicate routine tasks or time tracking gaps
-- Minimal involvement from Dan (2 hours)
+- Dan's involvement expanding (now ~5% of total); recent work undocumented
 - CRADA project appears active with demo-stage operations underway
+- Documentation gap increasing with Dan's expanded participation

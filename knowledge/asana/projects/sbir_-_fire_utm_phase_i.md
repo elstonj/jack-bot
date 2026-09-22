@@ -43,3 +43,6 @@
 
 **Next Steps (June 16, 2026)**:
 Per Jack Elston (June 15–16, 2026), Kareem will coordinate with Maciej Stachura on division of labor to finish the wildfire video. If higher-priority work surfaces, alternative tasks (S0 components, ground stations) are available.
+
+## Administrative Notes
+- **Fireflies Account Policy** (August 20–21, 2026): Per Jack Elston, team members should not use BST accounts to sign into Fireflies, as this pollutes the ecosystem with unwanted hooks. Team is working on blocking this access.

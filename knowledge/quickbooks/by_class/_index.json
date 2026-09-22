@@ -1,17 +1,30 @@
 {
   "period": {
-    "start": "2026-08-26",
-    "end": "2026-08-27"
+    "start": "2026-08-27",
+    "end": "2026-09-15"
   },
-  "scanned_at": "2026-08-27",
+  "scanned_at": "2026-09-15",
   "projects": [
     {
-      "project_code": "001-4",
+      "project_code": "001-12",
       "revenue": 0.0,
-      "expenses": 2.5,
+      "expenses": 326.41,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-12)  General Customer Support/Project Support"
+      ]
+    },
+    {
+      "project_code": "001-4",
+      "revenue": 0.0,
+      "expenses": 90.48,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -19,8 +32,21 @@
       ]
     },
     {
-      "project_code": "550-1",
-      "revenue": 14459.0,
+      "project_code": "001-7",
+      "revenue": 0.0,
+      "expenses": 4113.82,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 7,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "(001-7) IRAD - S3"
+      ]
+    },
+    {
+      "project_code": "018-1",
+      "revenue": 24579.28,
       "expenses": 0.0,
       "invoice_count": 1,
       "bill_count": 0,
@@ -28,20 +54,101 @@
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[550-1] Navy SBIR Magnetometer"
+        "[018-1] Murphy's Pond CH4"
       ]
     },
     {
-      "project_code": "_unclassified",
+      "project_code": "043-3",
       "revenue": 0.0,
-      "expenses": 20.0,
+      "expenses": 112.84,
+      "invoice_count": 0,
+      "bill_count": 0,
+      "purchase_count": 2,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[043-3] By Light Halo"
+      ]
+    },
+    {
+      "project_code": "044-1",
+      "revenue": 10000.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[044-1] EMASS Chip Integration"
+      ]
+    },
+    {
+      "project_code": "300-3",
+      "revenue": 263500.0,
+      "expenses": 14499.87,
+      "invoice_count": 2,
+      "bill_count": 2,
+      "purchase_count": 31,
+      "po_count": 0,
+      "payment_count": 2,
+      "qbo_class_names": [
+        "[300-3] 2026 IDIQ",
+        "[300] NOAA:[300-3] 2026 IDIQ"
+      ]
+    },
+    {
+      "project_code": "451-1",
+      "revenue": 0.0,
+      "expenses": 297.84,
       "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        ""
+        "{451-1] INSTAAR S3 x 2"
+      ]
+    },
+    {
+      "project_code": "550-1",
+      "revenue": 14459.0,
+      "expenses": 3895.16,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 7,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[550-1] Navy SBIR Magnetometer"
+      ]
+    },
+    {
+      "project_code": "550-2",
+      "revenue": 14446.0,
+      "expenses": 0.0,
+      "invoice_count": 1,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[550-2] Navy STTR Hazardous Weather"
+      ]
+    },
+    {
+      "project_code": "_unclassified",
+      "revenue": 1225.0,
+      "expenses": 67204.27,
+      "invoice_count": 1,
+      "bill_count": 5,
+      "purchase_count": 49,
+      "po_count": 1,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "",
+        "Weather Stream (c)",
+        "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods"
       ]
     }
   ]

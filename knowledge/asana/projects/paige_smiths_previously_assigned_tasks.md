@@ -19,15 +19,24 @@
 - **Marketing strategy finalization** (inquiry due 2026-08-10) — internal coordination with Sona/Pam
 
 ## Task Summary
-- **Total:** 11 open, 5 completed (total 16 tasks)
-- **Completion Rate:** 31% (5 of 16)
-- **Assignee Status:** All 11 open tasks are **unassigned**; 5 completed tasks also show as unassigned (likely auto-closed or logged after Paige's departure)
-- **Notable Pattern:** Mix of recurring tasks (Google Analytics), client/vendor calls (Geoff, StationDC, Aeropods, Alex Mann, Steve Wolf), marketing operations, and industry submissions. Several tasks are vague action items or meeting notes.
+- **Total:** 11 open tasks, all unassigned
+- **Assignee Status:** All 11 open tasks are **unassigned** and require redistribution
+- **Notable Patterns:** 
+  - Mix of recurring tasks (Google Analytics), vendor/contact calls (Geoff, StationDC, Aeropods), marketing operations, and industry submissions
+  - Several tasks are vague action items or meeting reminders (e.g., "1:30pm geoff", "Aeropods 11am") that may benefit from clarification
+  - Two tasks lack due dates (Website datasheets, Whitepaper redesign) and need prioritization before reassignment
 
 ## Recent Activity
-- **Last completed tasks** (July–August 2026): AMS Abstract submitted (2026-07-22), Google Ads (2026-07-23), Steve Wolf call, Alex Mann call
-- **Immediate attention needed:** Tasks due April–June 2026 are already past or approaching their due dates with no assignee
+- **Status change:** Raw data now shows 11 open, 0 completed (previously 11 open, 5 completed). The 5 completed tasks have been removed or resolved in the Asana system.
+- **Immediate attention needed:** Tasks due April–June 2026 are already past their due dates with no assignee
 - **Upcoming deadlines:** Geoweek submission (2026-07-17), Google tags (2026-07-31), marketing strategy inquiry (2026-08-10)
 
 ## Notes & Context
-This project is a **reassignment holding area**, not an active project. Jack Elston owns it; the tasks need to be distributed to active team members based on their domain (marketing, analytics, sales calls, web development). Several tasks are low-detail meeting reminders or calls (e.g., "1:30pm geoff", "Aeropods 11am") and may benefit from clarification or consolidation. Two tasks lack due dates and need prioritization before reassignment.
+This project is a **reassignment holding area**, not an active project. Jack Elston owns it; the tasks need to be distributed to active team members based on their domain (marketing, analytics, sales calls, web development). 
+
+**Team Feedback (2026-08-25):** Joshua Fromm flagged that he received communication about a Munro email that appears in his tasks, raising questions about how task context is being tracked or shared. This may indicate incomplete task documentation or external communications that should be reflected in task notes for clarity.
+
+Several tasks require clarification before reassignment:
+- "1:30pm geoff" and "Aeropods 11am" appear to be meeting reminders without full context
+- "call stationdc" lacks specifics about call purpose or required outcome
+- Two tasks (Website datasheets, Whitepaper redesign) have no due dates and need prioritization

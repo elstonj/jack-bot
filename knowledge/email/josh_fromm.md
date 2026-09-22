@@ -1,14 +1,14 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: Aug 27, 2026**
+**UPDATED: September 21, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 977 messages** scanned across ~46 days (Jul 12–Aug 27, 2026)
-- Average ~21 messages/day
-- **Latest data window (Aug 26–27)**: 25 new messages; **mix of vendor notifications, partnership coordination (Krateo), NOAA operational cancellation, power systems integration, and automated/promotional emails**
-- **Pattern observation**: Aug 26 NOAA AL96 tropical event meeting **CANCELED** (Joe Cione); shift toward battery/power system vendor engagement (Grepow, Solvi); sustained procurement momentum across PCB, electronics, and specialty materials; significant promotional/newsletter volume (50%+ of recent batch)
+- **Total: 1,177 messages** scanned across ~71 days (Jul 12–Sep 21, 2026)
+- Average ~16–17 messages/day
+- **Latest data window (Sep 18–21)**: 100 new messages; **heavy concentration on NOAA N42 platform logistics (~25%), facility buildout continuations (~20%), Navy compliance coordination (~15%), CNC parts tracking (~10%), and vendor notifications (~30%)**
+- **Pattern observation**: Sustained high-volume procurement with sharp focus on aircraft/UAS integration deliverables; NOAA monthly meetings canceled; renewed Navy contact (NSWC IHD, NAWCAD); significant administrative/HR activity (Rippling documents, Enterprise rentals); continued pressure on custom manufacturing timelines
 
 ---
 
@@ -17,87 +17,39 @@
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / Strategic Partners**
-1. **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal** — **MEETING CANCELED AUG 26**: "AL96: ET interest?" meeting (was 8:30am–9am MDT); **note indicates reduced operational engagement or schedule shift**
-2. **James Messersmith** (james.messersmith@noaa.gov) — **NOAA Federal** — NEW: S0s return logistics (to Jack Elston, Aug 26); **platform recovery/fleet management**
+1. **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal** — NOAA/Blackswift monthly meeting (Sep 23, 2026 12pm MDT) **CANCELED** (Sep 21); recurring calendar coordination; AL96 tropical event historical context
+2. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NOAA Federal** — **NEW ESCALATION**: "AOC Materials to go on N42" multi-day thread (Sep 18–21); cross-functional coordination with Joe Cione, Laura Rock, Nikolai Pawlenko, Mark Rogers; **indicates active N42 aircraft certification/materials prep phase**
+3. **Laura Rock** (laura.rock@noaa.gov) — **NOAA Federal** — **NEW**: Involved in N42 AOC materials discussions (Sep 18–21); S0-99 refurbishment quote approvals (Asana tasks, Sep 21); **emerging program authority**
+4. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal** — **NEW VISIBILITY**: N42 AOC Materials coordination (Sep 21); "Couple of Questions" inquiry thread with Beck Cotter, Danielle Varwig, Mark Rogers (Sep 21); **technical/compliance gating**
+5. **Mark Rogers** (mark.e.rogers@noaa.gov) — **NOAA Federal** — **NEW**: N42 AOC Materials thread participant (Sep 21); compliance/technical authority
+
+**Military / Defense (NEW / ESCALATED)**
+1. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **USN NAWCAD (Naval Air Warfare Center Aircraft Division)** — **NEW DIRECT ENGAGEMENT (Sep 21)**: "FW: TAK files and SITREP" forwarded to Alex Lomis and Josh; also part of "[Non-DoD Source] Black Swift Final Team/TCE 26.2" thread (Sep 18–19); **military UAV integration / tactical data link coordination**
+2. **Daniel E. Klier** (daniel.e.klier.civ@us.navy.mil) — **USN NSWC IHD (Naval Surface Warfare Center, Indian Head Division)** — **NEW (Sep 19)**: "[Non-DoD Source] Black Swift Final Team/TCE 26.2" response; team composition verification; **weapons/ordnance systems clearance / source control**
 
 **Internal Leadership & Technical**
-1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — Fielding NOAA S0 return comms from Messersmith (Aug 26); **platform inventory coordination**
-2. **Maciej Stachura** (stachura@blackswifttech.com) — CC'd on Krateo partnership coordination (Aug 26)
+1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — **ELEVATED VISIBILITY**: "AOC Materials to go on N42" orchestrator (Sep 18–21, 8+ messages); direct NOAA coordination lead; S0 Shipping/Packing Guides (Asana, Sep 18); Enterprise rental confirmation (Rippling documents); **strategic program authority**
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **COMPLIANCE GATE**: "[Non-DoD Source] Black Swift Final Team/TCE 26.2" originator (Sep 18); NOAA "Couple of Questions" responder (Sep 21); S0-99 quote approval chain lead (Asana x5 tasks/comments, Sep 18–21); S0 Packing/Shipping guides owner; Jaia container logistics task owner; **compliance/quality/certification program authority**
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **LOGISTICS LEAD**: "Checking in on status of shipment for tomorrow" urgent coordination with Aeronet (Adrian Sepulveda, Patrick Mulstay) (Sep 21 x2); Foster Hill (MM Solutions) tool box insert order status (Sep 18); **critical path logistics/fulfillment manager**
+4. **Alex Lomis** (alex.lomis@blackswifttech.com) — **NEW VISIBILITY**: TAK files / SITREP recipient from Navy (Sep 21); "[Non-DoD Source] Black Swift Final Team/TCE 26.2" respondent (Sep 19); **military/tactical integration lead**
+5. **Maciej Stachura** (stachura@blackswifttech.com) — NOAA monthly meeting invitee (Sep 21); hiring interview confirmation (Test Engineer Ali Suhleria, Sep 18); **integration/ops coordination**
 
 **Partnership / Business Development**
-1. **Triza Codillo** (triza.codillo@creativealignments.com) — **Creative Alignments** — **NEW CONTACT**: Double message Aug 26 re: "Josh Waldman running a bit late"; looped with Don Spinozzi (Krateo) and Maciej Stachura; **indicates meeting coordination / interview scheduling with external candidate or partner**
-2. **Don Spinozzi** (d.spinozzi@krateosky.com) — **Krateo Sky** — CC'd on Triza Codillo coordination (Aug 26); **continued partnership development**
+1. **Aeronet (NEW/CRITICAL)**
+   - **Adrian Sepulveda** (asepulveda@aeronet.com) — **URGENT**: Shipment status inquiry ("for tomorrow") urgent back-and-forth with Meredith Needham (Sep 21 x2); same-day response pattern; **likely critical aircraft/component delivery**
+   - **Patrick Mulstay** (pmulstay@aeronet.com) — Freight shipment estimate coordination with Meredith (Sep 18, 21); **logistics/supply coordination**
+   - **Organization signal**: High-priority vendor; time-critical delivery cycles; Meredith=primary interface
 
-**Power Systems / Technical Vendors**
-1. **Luka** (luka@gensace.com) — **Grepow** — **NEW CRITICAL CONTACT (Aug 26)**: "OEM Integration Guidance for Grepow's 380Wh/kg High-Density Drone Battery Pack Systems"; **direct power system architecture integration discussion**
-2. **Igor** (igor@solvi.ag) — **Solvi** — Webinar invite: "PlantAI - Custom Detection Models" (Aug 26); **agricultural/crop monitoring application or ML-driven payload system**
-3. **John Kosteroski** (john@kosteroski-engineering.com) — **Kosteroski Engineering** — **NEW CONTACT**: S2 cold-weather performance inquiry from Canadian engineer (to Jack Elston, Aug 26); **S2 platform environmental testing / validation**
-4. **Foster Hill** (fhill@mmsolutions.biz) — **MM Solutions** — Sales Order 43213 confirmation reply (Aug 26); **supplier engagement, unknown component type**
+**Manufacturing / CNC / Supply Chain (CRITICAL PATH ESCALATION)**
+1. **Samantha** (Samantha@bestinparts.com) — **BestInParts** — **EXTREME THREAD DEPTH**: "CNC parts order for Black Swift-BST260728-B16306" now **26+ RE: layers** (Sep 10–21); Josh responded Sep 14, Sep 21; Samantha replies same-day both times (Sep 15, Sep 21 10:39am, 17:12pm UTC); **indicates chronic order complexity / quality/timeline disputes; sustained escalation pressure**
+2. **Foster Hill** (fhill@mmsolutions.biz) — **MM Solutions** — Sales Order 43592 confirmation (Sep 21); Tool box inserts order SO-43213 (Sep 18); **facility/manufacturing support items; appears to be secondary/supplementary vendor**
 
-**Vendor Notifications (Via purchasing@blackswifttech.com & direct)**
-- **PCBWay** (sales01@pcbway.com) — End-Use Declaration request (Aug 27); **PCB fabrication / ITAR/export compliance review**
-- **3DR** — Continued supplier (prior window)
-- **GetFPV** — Continued supplier (prior window)
-- **DigiKey** — Promotional "Stock up on smarter picks" (Aug 26); **ongoing bulk electronics relationship**
-- **HeliDirect** (sales@helidirect.com) — Goosky E7 / RS5 preorder (to Meredith Needham, Aug 26); **possible competing or comparative platform evaluation**
+**Talent / Staffing / Administration (NEW ACTIVITY)**
+1. **Triza Codillo** (triza.codillo@creativealignments.com) — **Creative Alignments (Recruiting)** — "Onsite Interview Confirmation for Ali Suhleria - Test Engineer" (Sep 18); includes Maciej Stachura, Sam Hild; **active hiring in test/engineering roles**
+2. **Rippling** (no-reply@rippling.com) — **HR/Payroll Platform** — "Joshua Waldman has signed some of their documents" / "signed their document" (Sep 18, 2x); **onboarding/administrative workflow in motion**
 
-**Automated/Promotional (Significant Volume Aug 26)**
-- **Spindrift Market** — Food delivery notification (via Purchasing)
-- **UPS, FedEx, Battery Junction** — Logistics/tracking notifications
-- **Grainger, Harbor Freight, Speedway Motors, ASTM International** — Vendor catalogs/promotional
-- **AliExpress, Verizon Business** — Broad promotional outreach
-- **UAS VISION** (russ@uasvision.com) — **Industry news digest** (Aug 26); **regular reconnaissance of competitive/market intelligence**
-
-**External Defense/Integration**
-1. **Justin Branch** (jbranch@munrodefense.com) — **Munro Defense** — Facility follow-up (to Jack Elston + Cory Dixon, Aug 26); **partner site coordination**
-
----
-
-## Topic Patterns
-
-### Government & Strategic Programs
-
-**NOAA Tropical Event Coordination (STATUS SHIFT)**
-- **Event**: AL96 tropical event
-- **Status**: Meeting **CANCELED** Aug 26 (Joe Cione cancellation notice); **indicates operational pause or rescheduling**
-- **Previous context**: Real-time wave data + dual UAS plots (Aug 25)
-- **New activity**: S0 platform recovery logistics (James Messersmith to Jack Elston, Aug 26) — **suggests mission completion or fleet repositioning**
-
-**S2 Cold-Weather Performance Validation (NEW)**
-- **Contact**: John Kosteroski (Kosteroski Engineering), Canada-based
-- **Topic**: S2 cold-weather performance inquiry; forwarded to Jack Elston
-- **Significance**: **Environmental envelope expansion testing**; indicates S2 platform adaptation for northern operations or Canadian customer engagement
-
-**NASA S2 Platform Development (ONGOING — Aug 25 prior)**
-- Continued from prior window; no new messages in this batch
-
-### Power Systems & Battery Integration (CRITICAL — NEW FOCUS)
-
-**Grepow High-Density Drone Battery OEM Integration (HIGHEST PRIORITY)**
-- **Contact**: Luka (luka@gensace.com) — Grepow
-- **Topic**: "OEM Integration Guidance for Grepow's 380Wh/kg High-Density Drone Battery Pack Systems"
-- **Significance**: **Direct power system architecture discussion**; 380Wh/kg indicates **high-energy-density battery for extended endurance or high-performance platforms**
-- **Context**: Aligns with prior fuel cell inquiry (Nicholas Ingarra, Aug 25) — **systematic power system re-architecture underway**
-
-**Solvi PlantAI Webinar (POSSIBLE PAYLOAD/APP INTEGRATION)**
-- **Contact**: Igor (igor@solvi.ag) — Solvi
-- **Topic**: "The New PlantAI - Custom Detection Models for Your Crops and Trials"
-- **Significance**: **Agricultural ML/computer vision payload**; unclear if BST is exploring this as add-on capability or partnership opportunity
-
-### Manufacturing & Supply Chain (SUSTAINED, HIGH COMPLEXITY)
-
-**PCB Fabrication & Export Compliance (NEW ESCALATION)**
-- **Vendor**: PCBWay (sales01@pcbway.com)
-- **Activity**: End-Use Declaration request (Aug 27)
-- **Significance**: **ITAR/export control compliance gate**; indicates custom PCB design for government/defense platform; likely for NOAA or NASA integration
-
-**Electronics Sourcing Diversification**
-- **3DR, DigiKey** — Flight control / general electronics (continued)
-- **Grepow** — Power systems (NEW)
-- **Dronetag, MKS Servos, GetFPV** — Sensors/actuation (from prior)
-- **Rock West Composites, SendCutSend** — Structural materials (continued from prior)
-
-**Logistics Acceleration**
-- **UPS, FedEx, tracking notifications** — Multiple Aug 26 deliveries
-- **Spindrift Market** (food) — Possible team catering / facility support
-- **HeliDirect** — Goosky E7 preorder (status unclear; possible evaluation vs. internal platform
+**Vendor Notifications & Logistics (Sustained High Volume)**
+- **Amazon via Purchasing** — 6+ deliveries Sep 18–21; Furniture (6x items Sep 18), Lawn & Garden, Lighting & Fans, Essentials; 1 promotional credit; **continued facility/office buildout at pace**
+- **UPS via Purchasing** — 5+ notifications Sep 18–21 (packages arriving, customs clearance x2, pickup alerts); **high-frequency inbound/outbound**
+- **USPS Informed Delivery** — Daily digest (Sep 21)
+- **Enterprise
