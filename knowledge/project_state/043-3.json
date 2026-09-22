@@ -26,30 +26,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 49196.25,
+        "amount": 63812.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "purchases": {
         "amount": 1824.82,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "other_qbo": {
-        "amount": 886.63,
+        "amount": 112.84,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-09-15"
       },
-      "total": 51907.7,
+      "total": 65750.16,
       "by_line_item": {}
     },
-    "committed": 52.76,
-    "remaining": 74668.54,
+    "committed": 82.05,
+    "remaining": 60796.79,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-27T09:03:30Z"
+    "last_reconciled": "2026-09-22T09:08:41Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -61,13 +61,13 @@
       "hours_last_30d": null
     },
     {
-      "name": "Meredith O'hara Needham",
+      "name": "Maciej Stachura",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
     },
     {
-      "name": "Nate Straus",
+      "name": "Meredith O'hara Needham",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -75,6 +75,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-27T09:03:30Z",
+  "last_full_rebuild": "2026-09-22T09:08:41Z",
   "last_incremental_update": null
 }

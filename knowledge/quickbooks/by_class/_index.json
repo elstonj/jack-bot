@@ -1,17 +1,17 @@
 {
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-09-15",
+    "end": "2026-09-22"
   },
-  "scanned_at": "2026-09-15",
+  "scanned_at": "2026-09-22",
   "projects": [
     {
       "project_code": "001-12",
       "revenue": 0.0,
-      "expenses": 326.41,
+      "expenses": 238.75,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 2,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -21,10 +21,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 90.48,
+      "expenses": 8.62,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 2,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -34,89 +34,37 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 4113.82,
+      "expenses": 4537.11,
       "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 7,
-      "po_count": 0,
+      "bill_count": 1,
+      "purchase_count": 1,
+      "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
-        "(001-7) IRAD - S3"
-      ]
-    },
-    {
-      "project_code": "018-1",
-      "revenue": 24579.28,
-      "expenses": 0.0,
-      "invoice_count": 1,
-      "bill_count": 0,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[018-1] Murphy's Pond CH4"
-      ]
-    },
-    {
-      "project_code": "043-3",
-      "revenue": 0.0,
-      "expenses": 112.84,
-      "invoice_count": 0,
-      "bill_count": 0,
-      "purchase_count": 2,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[043-3] By Light Halo"
-      ]
-    },
-    {
-      "project_code": "044-1",
-      "revenue": 10000.0,
-      "expenses": 0.0,
-      "invoice_count": 1,
-      "bill_count": 0,
-      "purchase_count": 0,
-      "po_count": 0,
-      "payment_count": 0,
-      "qbo_class_names": [
-        "[044-1] EMASS Chip Integration"
+        "(001-7) IRAD - S3",
+        "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
       ]
     },
     {
       "project_code": "300-3",
-      "revenue": 263500.0,
-      "expenses": 14499.87,
-      "invoice_count": 2,
-      "bill_count": 2,
-      "purchase_count": 31,
-      "po_count": 0,
-      "payment_count": 2,
-      "qbo_class_names": [
-        "[300-3] 2026 IDIQ",
-        "[300] NOAA:[300-3] 2026 IDIQ"
-      ]
-    },
-    {
-      "project_code": "451-1",
-      "revenue": 0.0,
-      "expenses": 297.84,
-      "invoice_count": 0,
+      "revenue": 247500.0,
+      "expenses": 0.0,
+      "invoice_count": 3,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 0,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "{451-1] INSTAAR S3 x 2"
+        "[300-3] 2026 IDIQ"
       ]
     },
     {
       "project_code": "550-1",
       "revenue": 14459.0,
-      "expenses": 3895.16,
+      "expenses": 1966.21,
       "invoice_count": 1,
       "bill_count": 0,
-      "purchase_count": 7,
+      "purchase_count": 4,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -127,28 +75,28 @@
       "project_code": "550-2",
       "revenue": 14446.0,
       "expenses": 0.0,
-      "invoice_count": 1,
+      "invoice_count": 0,
       "bill_count": 0,
       "purchase_count": 0,
       "po_count": 0,
-      "payment_count": 0,
+      "payment_count": 1,
       "qbo_class_names": [
         "[550-2] Navy STTR Hazardous Weather"
       ]
     },
     {
       "project_code": "_unclassified",
-      "revenue": 1225.0,
-      "expenses": 67204.27,
+      "revenue": 375.0,
+      "expenses": 24556.56,
       "invoice_count": 1,
-      "bill_count": 5,
-      "purchase_count": 49,
-      "po_count": 1,
+      "bill_count": 2,
+      "purchase_count": 16,
+      "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
         "",
-        "Weather Stream (c)",
-        "[001] Black Swift Technologies - IRAD:[001-19] IRAD Aeropods"
+        "[300] NOAA",
+        "[925-03] New Office Space Leasing"
       ]
     }
   ]

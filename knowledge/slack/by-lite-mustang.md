@@ -20,7 +20,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
 - Kate (likely team member with vehicle access)
 
-**Activity Level:** High, covering October 2025 through September 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (September 21, 2026) reveals critical performance issues with new fuselage design requiring urgent investigation.
+**Activity Level:** High, covering October 2025 through September 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (September 21, 2026) reveals critical performance issues with new fuselage design requiring urgent investigation and potential customer discussion.
 
 ## Key Decisions
 
@@ -102,5 +102,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
 **August 19, 2026 – Fuselage Delivery Expected**
 - ByLight carbon fiber fuselage manufacturing indicated as complete with delivery expected Friday via FedEx
 
-**September 11, 2026 – CRITICAL: Fuselage Manufacturing Failure & Project Status**
-- **Issue
+**September 11, 2026 – CRITICAL: Fuselage Manufacturing Failure & Performance Issues**

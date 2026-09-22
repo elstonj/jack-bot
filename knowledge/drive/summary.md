@@ -1,71 +1,62 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-09-21 15:10
+Last scanned: 2026-09-22 02:20
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 21 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 28 files — [sales.md](sales.md)
+- **Federal Projects** — 7 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 2 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Google Drive Strategic Overview
 
-## Executive Summary
-BST maintains **84 total files** across two primary shared drives with distinct purposes: **Federal Projects** (56 files) focused on government contracts and compliance, and **Sales** (28 files) focused on technical specifications and client deliverables. Both drives show active use with recent modifications in 2026.
+## Drive Summary
 
----
-
-## Drive Comparison
-
-| Metric | Federal Projects | Sales |
-|--------|------------------|-------|
-| **File Count** | 56 | 28 |
-| **Folder Depth** | 10 folders | 2 main folders |
-| **Primary Content** | Contracts, RFPs, SOWs, budgets | Specs, ROM estimates, flight test media |
-| **Last Activity** | 2099-01-24* | 2026-09-21 |
-| **Client Base** | Navy/DoD (SBIR, STTR, IDIQ, SOCOM) | Private clients (e.g., University of Leeds) |
-
-*Note: 2099 date appears to be a data anomaly; likely recent activity mislabeled*
+| Drive | Files | Folders | Status |
+|-------|-------|---------|--------|
+| **Federal Projects** | 56 | 10 | Active, comprehensive |
+| **Sales** | 2 | 0 | Minimal/underdeveloped |
 
 ---
 
 ## Key Findings
 
-### Clients & Projects by Documentation Volume
-1. **Federal Projects** — Primary focus on DoD programs (UAS Services, Aureum Phase II, SOCOM, TCE testing)
-2. **Sales Drive** — Supporting commercial/academic clients; University of Leeds is documented client with ROM work
+### Document Volume & Organization
+- **Federal Projects** is the primary documentation hub with 56 files organized across 10 folders covering Navy/DoD contracts
+- **Sales drive** contains only 2 technical files (video link, BoM) with no folder structure—suggests limited sales collateral storage or documents stored elsewhere
+
+### Major Clients/Projects
+**Federal Projects dominates:**
+- UAS Services (RFQ 1305M226Q0069) — complete proposal package with SOW, pricing, prior experience
+- Aureum Phase II — LOI documentation
+- SBIR/STTR programs mentioned but folder structure incomplete in provided summary
+- SOCOM and TCE testing referenced but not detailed
 
 ### Cross-Drive Patterns
-- **Federal** = contracts & proposals (RFQ responses, SOWs, pricing schedules, compliance docs)
-- **Sales** = technical enablement & marketing (requirements, flight test proof-of-concept, system demos)
+- **Federal**: Contracts, RFPs, SOWs, budgets, test reports — government procurement focus
+- **Sales**: Technical specs/BOMs only — appears disconnected from proposal process or sales documentation stored elsewhere
 
-### Shared Resources & Templates
-- **Requirements specifications** (Sales) — Subsystem-level technical standards (Airframe, Datalink, EO/IR, GCS)
-- **S3 Revision B** — Core requirements master document in Sales drive
-- **Pricing/Commercial templates** — Federal drive shows structured pricing schedule templates
+### Important Resources & Templates
+- Standardized attachment formats (SOW, Pricing Schedule, Prior Experience templates evident in UAS Services folder)
+- RFP response structure appears consistent across proposals
 
-### Document Organization Quality
-- **Federal**: Well-organized by contract/program identifier; file naming uses contract numbers (e.g., `1305M226Q0069`)
-- **Sales**: Mixed organization—Requirements folder well-structured; Flight Testing folder uses date-based organization but contains loose media files at root level
-- **Naming conventions**: Inconsistent—Federal uses contract IDs; Sales uses descriptive names and client names
+### Document Management Observations
+- **Strengths**: Federal drive uses clear naming (contract numbers, phase names) and hierarchical organization by program
+- **Concerns**: 
+  - Sales drive lacks any organization or metadata
+  - Data spans 2022–2099 (future date suggests metadata error)
+  - Incomplete summary prevents full assessment of naming conventions
 
----
-
-## Areas Requiring Attention
-
-1. **Flight Testing Media** — 16 files stored with inconsistent organization; loose media at drive root should be consolidated
-2. **Stale Documentation** — Federal drive shows files from 2022 onwards; audit needed for obsolete contracts/proposals
-3. **Naming Consistency** — Cross-drive variation in naming conventions may complicate search and compliance
-4. **Version Control** — Federal drive shows duplicate file formats (e.g., `.pdf` + `.docx` for Aureum LOI) with no clear versioning
-5. **Archive Strategy** — No evident retired/archived folder structure; older contracts may clutter active workspace
+### Areas Requiring Attention
+1. **Sales drive underdeveloped** — only 2 files with no structure; clarify if sales collateral exists elsewhere
+2. **Metadata quality** — future modification date (2099) indicates potential data errors
+3. **Incomplete documentation** — Federal Projects summary cuts off mid-folder; full audit recommended
+4. **Version control** — Aureum folder shows duplicates (.pdf + .docx); standardize formats
 
 ---
 
-## Recommendations
-- Implement consistent naming conventions (e.g., `[PROGRAM]-[DOC TYPE]-[DATE]`)
-- Establish archive folders for completed contracts/proposals
-- Consolidate Sales flight test media into dated subfolders
-- Add metadata/version control for documents with multiple formats
+## Recommendation
+Conduct full audit of both drives to clarify document locations, establish naming conventions, and consolidate sales/proposal resources.

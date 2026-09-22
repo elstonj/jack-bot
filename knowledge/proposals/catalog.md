@@ -2,152 +2,90 @@
 
 ## By Product/System
 
-### S0 (Expendable UAS Platform)
-- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – U.S. Navy ONR, Sept 2026 – SBIR Phase I Option Final Report (n6833525c0270clin007_optionfinalreport.md)
-- **2026-09-14 Option Final Report** – U.S. Navy, Sept 2026 – Phase I Option final report with wave height algorithm development (2026-09-14_option_final_report.md)
-- **Copy of 2026-03-20 Option Kick Off Briefing** – U.S. Navy SYSCOM, March 2026 – SBIR Phase I Option kickoff for expendable air-sea profiling (copy_of_2026-03-20_option_kick_off_briefing.md)
-- **2026-06-03 Progress Report CLIN 006** – U.S. Navy, June 2026 – Phase I Option progress report (2026-06-03_progress_report_clin_006.md)
-- **B3: Turbulence And Wave Height** – U.S. Navy, Sept 2025 – Phase I deliverable on turbulence and wave height algorithms (b3_turbulence_and_wave_height.md)
-- **Expedable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** – U.S. Navy NAVAIR, Sept 2026 – SBIR Phase I Final Report (n6833525c0492clin0007optionfinalreport.md)
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** – NOAA, Sept 2026 – RFQ response document (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **Attachment C – Demonstrated Prior Experience Final** – NOAA, Sept 2026 – RFQ response prior experience form (attachment_c_-_demonstrated_prior_experience_final.md)
+### S0
+- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | RFQ response showcasing prior experience with S0 platform (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
 
-### S0-AD (Air-Deployed Variant)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – CRADA technical brief and ROM estimate (bst_socom_s0-ad_one-page_summary.md)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – Executive summary of technical brief & ROM (bst_socom_s0-ad_one-page_summarypdf.md)
+### S2
+- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | RFQ response showcasing prior experience with S2 platform (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
 
-### S2 Avionics
-- **Mustang Integration Report** – By Light, Oct 2025 – Integration report for Mustang aircraft with S2 avionics and CAN-based flight control (mustang_integration_report.md)
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** – NOAA, Sept 2026 – RFQ response document (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+### S3
+- **Black Swift Technologies S3 UAS Deployment to Mexico - Customs/Export Documentation** | USGS | September 18, 2026 | CBP notification for S3 UAS deployment to Mexico under USGS contract (letterhead.md)
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | LOI expressing BST interest in supporting Aureum's Phase II SBIR using S3 platform (aureum_loi_1pdf.md)
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | Duplicate LOI (Word format) with same scope and timeline (aureum_loi_1docx.md)
 
-### SwiftCore Autopilot
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – CRADA technical brief featuring SwiftCore autopilot (bst_socom_s0-ad_one-page_summary.md)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – Executive summary featuring SwiftCore autopilot (bst_socom_s0-ad_one-page_summarypdf.md)
-
-### Commercial UAS Platforms (Fixed-wing & VTOL "WxUAS")
-- **Genesis Mission Phase I Pitch Draft** – U.S. Department of Energy, Aug 2026 – SBIR Phase I pitch for AI-driven autonomous laboratories (genesis-pitch-stage-draft-v2.md)
+### RTA (Runtime Assurance) System / Safe Sandbox Supervisor
+- **NASA 2025 SBIR Phase II Proposal Feedback** | NASA | September 19, 2026 | Feedback on Phase II SBIR proposal for adaptive and secure autonomy featuring RTA system and Safe Sandbox supervisor (proposal_review_-_your_nasa_2025_sbir_phase_ii_proposal_feedbackpdf.md)
 
 ---
 
 ## By Client/Agency
 
-### U.S. Navy (Including ONR, NAVAIR, SYSCOM)
-- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – ONR, Sept 2026 – SBIR Phase I Option Final Report (n6833525c0270clin007_optionfinalreport.md)
-- **2026-09-14 Option Final Report** – Navy STTR, Sept 2026 – Phase I Option final report (2026-09-14_option_final_report.md)
-- **Copy of 2026-03-20 Option Kick Off Briefing** – Navy SYSCOM, March 2026 – SBIR Phase I Option kickoff briefing (copy_of_2026-03-20_option_kick_off_briefing.md)
-- **2026-06-03 Progress Report CLIN 006** – Navy, June 2026 – Phase I Option progress report (2026-06-03_progress_report_clin_006.md)
-- **B3: Turbulence And Wave Height** – Navy STTR, Sept 2025 – Phase I deliverable report (b3_turbulence_and_wave_height.md)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** – NAVAIR, Sept 2026 – SBIR Phase I Final Report (n6833525c0492clin0007optionfinalreport.md)
-- **Requested documentation** – Navy, Aug 2026 – Phase II magnetometer contract due diligence checklist (requested_documentation.md)
-- **Phase I Final Report Instructions - CLIN 0007** – DON, May 2026 – Instructions and template document (phase_i_final_report_instructions_clin0007.md)
+### NASA
+- **NASA 2025 SBIR Phase II Proposal Feedback** | September 19, 2026 | Feedback letter on Phase II SBIR proposal for Adaptive and Secure Autonomy for UAS (proposal_review_-_your_nasa_2025_sbir_phase_ii_proposal_feedbackpdf.md)
 
-### National Oceanic and Atmospheric Administration (NOAA)
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** – NOAA OMAO/UxSOC, Sept 2026 – RFQ response (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **Attachment C – Demonstrated Prior Experience Final** – NOAA, Sept 2026 – RFQ response prior experience form (attachment_c_-_demonstrated_prior_experience_final.md)
-- **Attachment A - Statement of Work UAS Services Final** – NOAA OMAO/UxSOC, Sept 2026 – SOW for Master IDIQ Contract (attachment_a_-_statement_of_work_uas_services_finalpdf.md)
-- **Sol_1305M226Q0069.pdf** – NOAA, Aug-Sept 2026 – Multiple Award IDIQ contract SF 1449 (sol_1305m226q0069pdf.md)
+### NOAA (National Oceanic and Atmospheric Administration)
+- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | September 9, 2026 | RFQ response demonstrating prior experience with S0 and S2 platforms (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+- **NOAA UAS Services RFQ Cover Letter** | September 24, 2026 | Cover letter for RFQ No. 371305M226Q0069 BASE submission (cover_letter.md)
+- **NOAA UAS Services IDIQ Contract** | August 26, 2026 (issued); September 8, 2026 (offer due) | Multiple Award IDIQ contract solicitation (sol_1305m226q0069pdf.md)
 
-### U.S. Department of Energy (DOE)
-- **Genesis Mission Phase I Pitch Draft** – DOE, Aug 2026 – SBIR Phase I pitch for AI-driven autonomous laboratories (genesis-pitch-stage-draft-v2.md)
+### USGS (U.S. Geological Survey)
+- **Black Swift Technologies S3 UAS Deployment to Mexico - Customs/Export Documentation** | September 18, 2026 | CBP notification for S3 deployment under USGS Contract No. 140G0323P0280 (letterhead.md)
 
-### USSOCOM (U.S. Special Operations Command)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – CRADA technical brief and ROM (bst_socom_s0-ad_one-page_summary.md)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – Executive summary technical brief & ROM (bst_socom_s0-ad_one-page_summarypdf.md)
+### Department of War (DoW) SBIR Program
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | September 17, 2026 | LOI for SBIR Topic OSW26BZ05-DV019 (aureum_loi_1pdf.md)
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | September 17, 2026 | Duplicate LOI in Word format (aureum_loi_1docx.md)
 
-### USGS (United States Geological Survey)
-- **Mission CONOPS - 2024 Mexico Volcano** – USGS, Sept 2026 – Flight planning and mission concept of operations (mission_conops.md)
-
-### By Light (Aircraft Provider)
-- **Mustang Integration Report** – By Light, Oct 2025 – Integration report for Mustang aircraft systems (mustang_integration_report.md)
+### U.S. Customs and Border Protection (CBP)
+- **Black Swift Technologies S3 UAS Deployment to Mexico - Customs/Export Documentation** | September 18, 2026 | Export documentation and license exception claim (letterhead.md)
 
 ---
 
 ## By Application Area
 
-### Hazardous Weather / Ocean Operations
-- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – U.S. Navy ONR, Sept 2026 – SBIR Phase I Option final report on wave/turbulence measurement (n6833525c0270clin007_optionfinalreport.md)
-- **2026-09-14 Option Final Report** – U.S. Navy, Sept 2026 – Wave height algorithm development (2026-09-14_option_final_report.md)
-- **Copy of 2026-03-20 Option Kick Off Briefing** – U.S. Navy SYSCOM, March 2026 – Expendable air-sea profiling kickoff (copy_of_2026-03-20_option_kick_off_briefing.md)
-- **2026-06-03 Progress Report CLIN 006** – U.S. Navy, June 2026 – Progress on hazardous weather measurements (2026-06-03_progress_report_clin_006.md)
-- **B3: Turbulence And Wave Height** – U.S. Navy, Sept 2025 – Turbulence and wave height algorithm development (b3_turbulence_and_wave_height.md)
+### Arctic Operations / Coastal Monitoring
+- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | Prior experience supporting NOAA operations (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+- **NOAA UAS Services RFQ Cover Letter** | NOAA | September 24, 2026 | RFQ response for NOAA UAS Services (cover_letter.md)
+- **NOAA UAS Services IDIQ Contract** | NOAA | August 26, 2026 | IDIQ contract for NOAA UAS services (sol_1305m226q0069pdf.md)
 
-### Anti-Submarine Warfare (ASW)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** – U.S. Navy NAVAIR, Sept 2026 – SBIR Phase I final report (n6833525c0492clin0007optionfinalreport.md)
+### Autonomous Flight Control & Machine Learning Integration
+- **NASA 2025 SBIR Phase II Proposal Feedback** | NASA | September 19, 2026 | Feedback on adaptive autonomy for UAS with ML integration and multi-vehicle coordination (proposal_review_-_your_nasa_2025_sbir_phase_ii_proposal_feedbackpdf.md)
 
-### Special Operations
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – Air-deployed UAS capability development for SOCOM (bst_socom_s0-ad_one-page_summary.md)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 – Technical brief on S0-AD variants (bst_socom_s0-ad_one-page_summarypdf.md)
+### Distributed Swarm Radar
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | Phase II SBIR proposal for collaborative distributed swarm radar (aureum_loi_1pdf.md)
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | Duplicate LOI (aureum_loi_1docx.md)
 
-### Volcano Monitoring / Geological Survey
-- **Mission CONOPS - 2024 Mexico Volcano** – USGS, Sept 2026 – Flight planning for geological and atmospheric monitoring of volcano (mission_conops.md)
-
-### Autonomous Laboratories / AI-Driven Operations
-- **Genesis Mission Phase I Pitch Draft** – U.S. DOE, Aug 2026 – SBIR Phase I pitch for AI-driven autonomous laboratory systems (genesis-pitch-stage-draft-v2.md)
-
-### Marine and Aviation Operations
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** – NOAA OMAO, Sept 2026 – UAS services for marine operations (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **Attachment C – Demonstrated Prior Experience Final** – NOAA, Sept 2026 – Prior experience for UAS services (attachment_c_-_demonstrated_prior_experience_final.md)
-- **Attachment A - Statement of Work UAS Services Final** – NOAA OMAO/UxSOC, Sept 2026 – SOW for UAS services IDIQ (attachment_a_-_statement_of_work_uas_services_finalpdf.md)
-
-### Aircraft Integration / Avionics
-- **Mustang Integration Report** – By Light, Oct 2025 – Integration of S2 avionics and flight control into Mustang aircraft (mustang_integration_report.md)
-
-### Magnetometry
-- **Requested documentation** – U.S. Navy, Aug 2026 – Due diligence for Phase II magnetometer SBIR (requested_documentation.md)
+### Geospatial/Environmental Monitoring (Mexico Operations)
+- **Black Swift Technologies S3 UAS Deployment to Mexico - Customs/Export Documentation** | USGS | September 18, 2026 | S3 deployment to Mexico for USGS operations (letterhead.md)
 
 ---
 
 ## By Document Type
 
-### SBIR/STTR Phase I Final Reports
-- **Expendable Air-sea Profiling Observations in Hazardous Weather Conditions** – U.S. Navy ONR, Sept 2026 (n6833525c0270clin007_optionfinalreport.md)
-- **2026-09-14 Option Final Report** – U.S. Navy, Sept 2026 (2026-09-14_option_final_report.md)
-- **Expedable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** – U.S. Navy NAVAIR, Sept 2026 (n6833525c0492clin0007optionfinalreport.md)
+### Proposals & Letters of Intent
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | LOI for collaborative distributed swarm radar SBIR (aureum_loi_1pdf.md)
+- **Aureum Phase II LOI - Collaborative Distributed Swarm Radar** | Department of War SBIR Program | September 17, 2026 | Duplicate LOI in Word format (aureum_loi_1docx.md)
 
-### Progress Reports
-- **2026-06-03 Progress Report CLIN 006** – U.S. Navy, June 2026 (2026-06-03_progress_report_clin_006.md)
+### RFQ Responses & Technical Proposals
+- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | RFQ response documenting demonstrated prior experience (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+- **NOAA UAS Services RFQ Cover Letter** | NOAA | September 24, 2026 | Cover letter transmitting RFQ response (cover_letter.md)
 
-### Phase I Deliverable Reports
-- **B3: Turbulence And Wave Height** – U.S. Navy, Sept 2025 (b3_turbulence_and_wave_height.md)
+### Feedback & Reviews
+- **NASA 2025 SBIR Phase II Proposal Feedback** | NASA | September 19, 2026 | Official feedback letter on Phase II SBIR proposal (proposal_review_-_your_nasa_2025_sbir_phase_ii_proposal_feedbackpdf.md)
 
-### Kickoff Briefings
-- **Copy of 2026-03-20 Option Kick Off Briefing** – U.S. Navy SYSCOM, March 2026 (copy_of_2026-03-20_option_kick_off_briefing.md)
+### Contracts & Solicitations
+- **NOAA UAS Services IDIQ Contract** | NOAA | August 26, 2026 | Multiple Award IDIQ contract solicitation (sol_1305m226q0069pdf.md)
 
-### SBIR Phase I Pitch/Proposals
-- **Genesis Mission Phase I Pitch Draft** – U.S. DOE, Aug 2026 (genesis-pitch-stage-draft-v2.md)
-
-### Technical Briefs & Executive Summaries
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 (bst_socom_s0-ad_one-page_summary.md)
-- **S0-AD Capability Development Options for USSOCOM** – USSOCOM, Aug-Sept 2026 (bst_socom_s0-ad_one-page_summarypdf.md)
-
-### RFQ Response Documents
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** – NOAA, Sept 2026 (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **Attachment C – Demonstrated Prior Experience Final** – NOAA, Sept 2026 (attachment_c_-_demonstrated_prior_experience_final.md)
-
-### Statements of Work (SOW)
-- **Attachment A - Statement of Work UAS Services Final** – NOAA OMAO/UxSOC, Sept 2026 (attachment_a_-_statement_of_work_uas_services_finalpdf.md)
-
-### Contract Documents
-- **Sol_1305M226Q0069.pdf** – NOAA, Aug-Sept 2026 – Multiple Award IDIQ contract (sol_1305m226q0069pdf.md)
-
-### Flight Planning / Mission Operations Documents
-- **Mission CONOPS - 2024 Mexico Volcano** – USGS, Sept 2026 (mission_conops.md)
-
-### Integration Reports / Technical Documentation
-- **Mustang Integration Report** – By Light, Oct 2025 (mustang_integration_report.md)
-
-### Instructions & Templates
-- **Phase I Final Report Instructions - CLIN 0007** – Department of the Navy, May 2026 (phase_i_final_report_instructions_clin0007.md)
-
-### Administrative/Due Diligence Documents
-- **Requested documentation** – U.S. Navy, Aug 2026 (requested_documentation.md)
+### Regulatory & Compliance Documentation
+- **Black Swift Technologies S3 UAS Deployment to Mexico - Customs/Export Documentation** | U.S. CBP/USGS | September 18, 2026 | Export notification and customs documentation (letterhead.md)
 
 ---
 
-## Summary by Key Personnel
-- **Dr. Jack Elston** (CEO/Principal Investigator) – Appears in multiple Navy SBIR reports and DOE Genesis proposal
-- **Maciej Stachura** – Editor on Navy hazardous weather reports and wave height algorithm deliverable
-- **Beck Cotter** – Proposal Specialist, appears on NOAA RFQ submissions and Navy documentation
-- **Ethan Domagala** – Last editor on Mustang Integration Report
-- **Daniel Prendergast** – Flight planning for USGS volcano mission
-- **
+## Document Summary
+
+**Total Documents:** 7 unique documents (8 files, with 1 duplicate LOI in different formats)
+
+**Active Clients/Agencies:** NASA, NOAA, USGS, Department of War, U.S. Customs and Border Protection
+
+**Primary BST Products Featured:** S0, S2, S3, RTA (Runtime Assurance) System
+
+**Date Range:** August 26 – September 24, 2026

@@ -4,14 +4,15 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-09-15",
+    "end": "2026-09-22"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 3895.16,
+    "expenses": 1966.21,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 3895.16
+      "FACILITIES:FA-Shop Supplies": 1016.37,
+      "DIRECT COSTS:DC-Direct Material Purchases": 949.84
     }
   },
   "invoices": [
@@ -43,132 +44,78 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-14",
-      "doc_number": "W091410090567",
-      "total": 146.9,
-      "attributed": 146.9,
+      "date": "2026-09-18",
+      "doc_number": "00052914",
+      "total": 4449.42,
+      "attributed": 1571.2,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Purchase made directly by J. Elston - see attached email for details.",
+      "memo": "No Asana request - see Slack message and email chain",
       "lines": [
         {
-          "amount": 146.9,
+          "amount": 1571.2,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Raspberry Pi Zero 2 W - Starter MAX Kit"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-10",
-      "doc_number": "0908JELSTON",
-      "total": 51.72,
-      "attributed": 51.72,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm made direct purchase. Project listed under each item purchased.",
-      "lines": [
-        {
-          "amount": 51.72,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "18-8 Stainless Steel Wire Rope Extra-Flexible"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-08",
-      "doc_number": "0908JELSTON",
-      "total": 66.69,
-      "attributed": 66.69,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm made direct purchase. Project listed under each item purchased.",
-      "lines": [
-        {
-          "amount": 66.69,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "White Delrin\u00ae Acetal Resin Tube &  18-8 Stainless Steel Wire Rope"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-28",
-      "doc_number": "70828",
-      "total": 3436.5,
-      "attributed": 3436.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase directly because it was urgent",
-      "lines": [
-        {
-          "amount": 3436.5,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "AP-Rear-Mount-Mag.step; MHP-Tip-Mag.step: Part-61-Mag.step, etc."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-28",
-      "doc_number": "1001508314",
-      "total": 148.5,
-      "attributed": 148.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "GETFPV, LLC - 7333",
-      "lines": [
-        {
-          "amount": 148.5,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Tattu R-Line 22.2V 2200mAh x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-27",
-      "doc_number": "",
-      "total": 17.98,
-      "attributed": 17.98,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 17.98,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Micro USB2.0 Male to Micro USB Male 5Pin Ultra Slim Flat Data Charge Cable"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-27",
-      "doc_number": "0827JELSTON",
-      "total": 110.42,
-      "attributed": 26.87,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 26.87,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Navy Magnetometer supplies"
+          "description": "Case, 3R6223-10B-EW x 2"
         },
         {
-          "amount": 83.55,
+          "amount": 2878.22,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "BLTCAS S3 CASE FOAM ASSEMBLY x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-17",
+      "doc_number": "",
+      "total": 8.99,
+      "attributed": 8.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5R8RW7G51 - 4617",
+      "lines": [
+        {
+          "amount": 8.99,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "By Light supplies"
+          "description": "NFHK Micro USB2.0 Male to Micro USB Male 5Pin"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-16",
+      "doc_number": "",
+      "total": 89.97,
+      "attributed": 89.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5R9PQ5TM1 - 4617",
+      "lines": [
+        {
+          "amount": 89.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SunnySky X Series V3 X2212 V3 Brushless Motors(980KV) x 3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-15",
+      "doc_number": "",
+      "total": 296.05,
+      "attributed": 296.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Original request for GetFPV but was not in stock. Used diff vendor",
+      "lines": [
+        {
+          "amount": 296.05,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Original request for GetFPV but was not in stock. Used diff vendor"
         }
       ]
     }

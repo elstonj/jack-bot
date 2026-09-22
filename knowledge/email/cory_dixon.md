@@ -1,97 +1,117 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 302 (225 prior + 77 new)
-- **Date range:** August 17–September 21, 2026 (35 days)
-- **Volume pattern:** Sustained very high activity; ~8.6 messages/day average
-- **Outbound emails:** 30+ confirmed sent messages (steady strategic contributor)
-- **New pattern (Sep 15–21):** SOCOM contract finalization; technical partnerships formalization (ByLight, Aerostar, NOAA); recruitment acceleration; infrastructure/compliance (CMMC); business development outreach
+- **Total messages scanned:** 319 (302 prior + 17 new)
+- **Date range:** August 17–September 22, 2026 (36 days)
+- **Volume pattern:** Sustained very high activity; ~8.9 messages/day average
+- **Outbound emails:** 31+ confirmed sent messages (steady strategic contributor)
+- **Latest activity (Sep 21–22):** SOCOM contract finalization hold; ByLight M2 HALO flight coordination; S2 order discussions with Stanford; recruitment interview (Amy Domino); CMMC compliance finalization; personal infrastructure activities (TaskRabbit furniture assembly, Google Pay setup)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — ~70+ messages (↑↑↑)
-   - Escalation point for: SOCOM contract strategy, NOAA/Aerostar partnerships, UMES Aviation Advisory Council engagement, academic relationships (Stanford/Tanay Topac), student robotics partnerships (FRC 4550)
-   - Strategic forwarding on DOD and partner communications
-   - Now coordinating external partnership ecosystem (Aerostar, NOAA, academic institutions)
+1. **Jack Elston** (elstonj@blackswifttech.com) — ~72+ messages (sustained ↑↑↑)
+   - Ongoing escalation: SOCOM contract, NOAA/Aerostar partnerships, academic relationships (Stanford/Tanay Topac), S2 order coordination
+   - Strategic forwarding hub for partnerships and government communications
 
-2. **SOCOM Military Contacts** (CRITICAL — Ongoing) — ~25+ messages
-   - **Brandon Terry** (brandon.m.terry.mil@socom.mil) — Award/contract schedule lead (marked IMPORTANT Sep 17–21)
-   - **Ryan J. Nichols** (ryan.j.nichols.mil@socom.mil) — New contact Sep 17; contract management escalation
+2. **SOCOM Military Contacts** (CRITICAL — Ongoing contract execution) — ~25+ messages
+   - **Brandon Terry** (brandon.m.terry.mil@socom.mil) — Award/contract schedule lead
+   - **Ryan J. Nichols** (ryan.j.nichols.mil@socom.mil) — Contract management escalation
    - **Evan Wolff** (evan.m.wolff.mil@socom.mil) — Contract coordination (H9223626P9056)
-   - **Pattern:** Ongoing quote verification, schedule coordination, white paper/ROM distribution authorized
-   - Status: Award finalized Sep 11; contract schedule meetings ongoing through Sep 21
+   - Pattern: Quote verification, schedule coordination, white paper/ROM distribution authorized
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — ~18 messages (↑)
-   - Technical lead on SOCOM contract; direct military liaison
-   - ByLight M2 HALO flight coordination (Sep 18–21)
-   - CJFC Engineering Sprint coordination (NextechSol partnership)
-   - Academic partnerships (Murray State — Bassil El Masri, UAS Flux Topos research)
-   - Krateo Sky quote verification (Sona Raziabeegum thread lead Sep 17)
+3. **Tanay Topac** (Stanford, tanaytopac@stanford.edu) — ~4+ new messages (↑↑)
+   - **New focus:** S2 order discussions (Sep 21–22, marked IMPORTANT)
+   - Jack Elston coordinating responses on Cory's behalf
+   - MHP data alignment and equipment procurement thread
 
-4. **Krateo Sky Partners** (Strategic Partner) — ~15 messages
-   - **Sona Raziabeegum** (sona@krateosky.com) — SOCOM contract coordination lead (Sep 17, marked [EXT])
-   - **Bob Smith** (Bob@krateosky.com) — Quote verification, NOAA followup (Sep 15)
-   - **Ariel Avitan, Jed Leonard, Brian Grubel** — Multi-org coordination threads
-   - Pattern: Direct escalation on SOCOM bid/contract execution; quote verification process intermediaries
+4. **Mel Marker / ByLight** (mel.marker@bylight.com) — ~3+ messages (ongoing)
+   - **ByLight M2 HALO Flight coordination** (Sep 21, marked IMPORTANT)
+   - Maciej Stachura and William O'Neill coordinating technical details
+   - Multi-day coordination thread active through Sep 21
 
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ~12 messages (↑)
-   - SOCOM contract coordination with Sona Raziabeegum (Sep 17)
-   - UMES Aviation Sciences Advisory Council outreach (Sep 16–17) — engaging Christopher E. Hartman (UMES)
-   - MHP data alignment technical thread with Tanay Topac
-   - 90-Day WBS Plan execution; DevX Autonomy submission
+5. **Haley Berry** (Rule4 Compliance, haley@rule4.com) — ~2 messages
+   - **CMMC + Infrastructure Management** finalization (Sep 21, marked IMPORTANT)
+   - Direct response from Cory on Sep 21, 14:33 UTC (coordinating with Jack Elston)
 
-6. **Maciej Stachura** (stachura@blackswifttech.com) — ~12 messages (↑)
-   - ByLight M2 HALO flight technical coordination (Sep 21)
-   - SOCOM contract team member (Sep 17)
-   - p400s discussion thread (Sep 18)
-   - CJFC Engineering Sprint
+6. **Jamie Rogers** (TeamTorchbearers, rogersj@teamtorchbearers.com) — 1+ message
+   - **SOCOM BD & capture exec** (Sep 21, marked IMPORTANT)
+   - Business development/recruitment outreach
 
-7. **External Technical Partners** (NEW — Critical Priority)
-   - **Mel Marker / William O'Neill** (ByLight) — ByLight M2 HALO Flight coordination (Sep 18–21, marked IMPORTANT)
-   - **Russ Vanderwerff** (Aerostar) — "Aerostar/Black Swift possible synergies" thread (Sep 17, marked IMPORTANT)
-     - Joseph Cione (NOAA) involved in synergy discussion (Sep 15–17)
-   - **Tanay Topac** (Stanford) — MHP data alignment, S2 order discussions (Sep 15–19, marked IMPORTANT)
-   - **Trenton McKibben / Chris Pitfield** (NextechSol) — CJFC Engineering Sprint BST Coordination (Sep 16)
-   - **Bassil El Masri** (Murray State) — UAS Flux Topos field work continuity (Jun 28 reference, Sep 16 follow-up)
+7. **Amy Domino** (amymdomino@gmail.com) — 1+ message
+   - **BST Interview** confirmation (Sep 21, 12–12:30pm MDT, marked IMPORTANT)
+   - UAS Technician candidate interview confirmation (Gemini Notes captured)
 
-8. **Compliance/Infrastructure (NEW)**
-   - **Haley Berry** (Rule4 Compliance) — CMMC + Infrastructure Management consultation (Sep 16–21, marked IMPORTANT)
-     - Scheduled meeting: Sep 21, 9am–9:45am MDT
-     - Dan Mackin (Rule4) also involved
-   - **Peter Billig / True North IT** — Website/IT support lead (Sep 15, marked IMPORTANT)
+8. **Ali Sulehria** (alipsulehria@gmail.com) — 1+ message
+   - Personal contact: "Checking in" (Sep 21, marked IMPORTANT)
+   - Low-frequency external relationship
 
-9. **Recruitment/HR (Ongoing)**
-   - **LinkedIn Recruitment System** — UAS Technician candidates (Amy Domino interview confirmed Sep 21, 12–12:30pm MDT)
-   - **CSG Talent (Jessica Elsey)** — UAV & Autonomy Engineering talent search
-   - **Recruitment Outreach:** Jamie Rogers (TeamTorchbearers) — "SOCOM BD & capture exec" (Sep 21, marked IMPORTANT)
-
-10. **Business Development / Academic Partnerships (NEW)**
-    - **UMES Aviation Sciences Advisory Council** (Christopher E. Hartman, chartman@umes.edu) — Strategic partnership outreach (Sep 16–17)
-    - **FRC 4550 / Somethings Bruin** (frc4550@gmail.com) — Student robotics partnership (Sep 15)
-    - **Josh Waldman** — Thank you/relationship management (Sep 15)
-
-11. **Automated/Newsletter Systems** (Low-signal noise)
-    - UAS Summit & Expo (Early Bird deadline), ChatGPT, Asana, Taskrabbit, Gemini Notes
-    - Conference/event promotion: DRONExpo, Dronitaly, ON&T Magazine, AirplaneHub
+### Automated/Notification Systems (Noise)
+- **TaskRabbit** (2 messages: furniture assembly job status, email verification)
+- **Google Pay** (card addition notification)
+- **ChatGPT** (feature update)
+- **Gemini Notes** (BST Interview notes capture)
+- **UAS Summit & Expo** (conference early bird deadline — Sep 21)
+- **ON&T Magazine** (editorial call for next edition)
 
 ### Top Recipients (Cory's Outbound)
-1. **Haley Berry** (Rule4) — CMMC consultation response (Sep 21)
-2. **Jack Elston** — Strategic coordination responses (2+ sends)
+1. **Haley Berry** + **Jack Elston** (co-recipients on CMMC response, Sep 21)
 
 ### Internal vs External
-- **Internal:** ~190 of 302 (63%)
-- **External:** ~112 of 302 (37%)
-  - **Government/Military (CRITICAL):** SOCOM (6 contacts), NOAA, USAF AFSOC, Canadian Forces (implied)
-  - **Strategic Partners (NEW — High Priority):** ByLight (Mel Marker, William O'Neill), Aerostar (Russ Vanderwerff), Krateo Sky (5+ contacts)
-  - **Academic/Research:** Stanford (Tanay Topac — MHP data), Murray State (Bassil El Masri — UAS flux topography), UMES (Christopher Hartman — Aviation Sciences Advisory)
-  - **Compliance/IT Services:** Rule4 (Haley Berry — CMMC), True North IT (Peter Billig)
-  - **Recruitment:** LinkedIn, CSG Talent, TeamTorchbearers (Jamie Rogers — SOCOM BD capture)
-  - **Conferences/Media:** UAS Summit & Expo, ON&T Magazine, DRONExpo Madrid, Dronitaly, TECNOSEC
+- **Internal:** ~195 of 319 (61%)
+- **External:** ~124 of 319 (39%)
+  - **Government/Military:** SOCOM (6+ contacts), NOAA involvement
+  - **Strategic Technical Partners:** ByLight (Mel Marker, William O'Neill), Aerostar, Krateo Sky
+  - **Academic/Research:** Stanford (Tanay Topac — S2 orders, MHP data), Murray State, UMES
+  - **Compliance/Infrastructure:** Rule4 (Haley Berry — CMMC)
+  - **Recruitment/Business Development:** TeamTorchbearers (Jamie Rogers), LinkedIn, CSG Talent
+  - **Personal/Professional:** Ali Sulehria (relationship check-in)
 
 ## Topic Patterns
 
-### Primary Work Streams (Updated Priorities — Sep 15–21)
+### Primary Work Streams (Updated Through Sep 22)
 
 #### 1. **SOCOM Contract H9223626P9056 — BLACK SWIFT S0 Air-Deployed (S0-AD)** (CRITICAL — EXECUTION PHASE)
-- **Status:** Award Notice
+- **Status:** Award finalized; contract coordination active
+- **Key contacts:** Brandon Terry, Ryan J. Nichols, Evan Wolff (SOCOM); Beck Cotter, Maciej Stachura (BST technical)
+- **Recent activity (Sep 21–22):** Jamie Rogers engagement suggests BD/capture executive role expansion; contract schedule meetings ongoing
+- **Related:** SOCOM BD & capture exec recruitment (Sep 21)
+
+#### 2. **ByLight M2 HALO Flight Coordination** (ACTIVE — Technical Partnership)
+- **Status:** Multi-day technical coordination (Sep 18–21)
+- **Key contacts:** Mel Marker, William O'Neill (ByLight); Maciej Stachura, Ethan Domagala (BST)
+- **Latest (Sep 21):** Response from Mel Marker on flight parameters; coordination continuing
+
+#### 3. **Stanford S2 Order & MHP Data Alignment** (NEW PRIORITY — Sep 21–22)
+- **Status:** Order discussion escalated to Jack Elston coordination level (marked IMPORTANT)
+- **Key contact:** Tanay Topac (Stanford)
+- **Pattern:** Equipment procurement for university research; data integration project
+- **Last activity:** Sep 22, 00:34 UTC (Jack Elston responding)
+
+#### 4. **CMMC + Infrastructure Management** (COMPLIANCE — FINALIZED Sep 21)
+- **Status:** Rule4 consultation closed/completed
+- **Key contact:** Haley Berry (Rule4)
+- **Cory's action:** Direct response coordination with Jack Elston (Sep 21, 14:33 UTC)
+- **Scheduled outcome:** Earlier meeting Sep 21, 9–9:45am MDT (completed)
+
+#### 5. **Recruitment: UAS Technician** (ACTIVE)
+- **Candidate:** Amy Domino
+- **Status:** Interview confirmed Sep 21, 12–12:30pm MDT
+- **Pattern:** LinkedIn/direct sourcing; Cory conducting interviews
+
+### Secondary Work Streams
+- **UMES Aviation Sciences Advisory Council** (partnership engagement — Sep 16–17 prior activity)
+- **Aerostar/NOAA Synergies** (partnership exploration — ongoing)
+- **NextechSol CJFC Engineering Sprint** (technical coordination)
+- **FRC 4550 / Student Robotics** (community engagement)
+
+## Communication Patterns
+
+### Temporal Patterns
+- **Sep 21:** Concentrated activity day — recruitment interview (12pm MDT), CMMC response (14:33 UTC), Jamie Rogers outreach, multiple partner coordinations
+- **Sep 22:** Early morning Stanford response thread (00:34 UTC, 01:13 UTC) — suggests global time coordination or late-night work
+
+### Email Flow Characteristics
+- **Jack Elston as escalation/forwarding hub:** Cory frequently copies or responds via Jack on complex external negotiations (SOCOM, Stanford, compliance)
+- **Multi-threaded coordination:** Single topics (e.g., ByLight HALO flight) span 3+ people and 4+ days
+- **Mark-as-IMPORTANT pattern:** Cory/team consistently flag government, partner technical, and compliance

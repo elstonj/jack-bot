@@ -89,5 +89,18 @@
     "notes": "Team reviewing changes; typical followup within hours",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "1a08629b657acd81",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Harbor Freight promotional email; marketing/spam",
+    "date": "",
+    "subject": ""
   }
 ]

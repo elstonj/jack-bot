@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 251082.5,
+        "amount": 283617.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-08-27"
+        "last_updated": "2026-09-22"
       },
       "other_qbo": {
-        "amount": 82948.41,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-08-26"
+        "last_updated": "2026-09-22"
       },
-      "total": 336199.43,
+      "total": 285786.02,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 146800.57,
+    "remaining": 197213.98,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-08-27T09:04:02Z"
+    "last_reconciled": "2026-09-22T09:09:27Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -83,12 +83,6 @@
       "hours_last_30d": null
     },
     {
-      "name": "Nate Straus",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
       "name": "Sam Hild",
       "role": null,
       "allocation_pct": null,
@@ -97,6 +91,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-08-27T09:04:02Z",
+  "last_full_rebuild": "2026-09-22T09:09:27Z",
   "last_incremental_update": null
 }

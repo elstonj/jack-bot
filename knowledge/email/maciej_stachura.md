@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 336 (236 from previous scan + 100 new)
-- **Date range:** 10 Sep – 21 Sep 2026
-- **Volume:** Sustained very heavy activity; new period (Sep 16–21) shows **intensified operational tempo** with active NOAA tropical operations (POLO/EP99), SOCOM contract management escalations, Krateo partnership integration, and parallel Navy technical coordination
+- **Total messages scanned:** 369 (336 from previous scan + 33 new)
+- **Date range:** 10 Sep – 22 Sep 2026
+- **Volume:** Sustained extremely heavy operational activity; final week (Sep 21–22) shows **peak operational tempo** with live tropical storm tasking (POLO/EP99), real-time flight coordination, and contract management escalations
 
 ---
 
@@ -11,49 +11,70 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** (elstonj@blackswifttech.com) — **Highest sustained volume**; 20+ new messages in current scan; primary collaborator on SOCOM (H9223626P9056), NOAA operations (ET Quick Tag, AOC Materials coordination for N42/N43 P-3 aircraft), M2 HALO flight testing (ByLight), research tasking discussions, S2 order coordination with Stanford (Tanay Topac)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Elevated activity**; 12+ new messages; SOCOM contract threads, CJFC Engineering Sprint (Canadian forces), Navy SBIR/Ultra Maritime partnership (N251-016 Phase II, coordinating with Paul DeMond), UK Raven visit coordination
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active**; 8+ new messages; SOCOM coordination, UK Raven visit, GNSS-denied navigation discussions (DeadWater Tech), AFAC approval for Mexico operations, UMES Aviation Sciences Advisory Council (academic relations)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — **4+ internal messages** (plus participation in Krateo sync); SOCOM check-ins, WBS planning, Krateo alignment
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **Sustained prominence**; 5+ new messages; **QuSpin Gen-2.0 QTFM sensor procurement** (active negotiation with QuSpin vendor contacts), Aeronet invoicing, technical purchasing escalations
+- **Jack Elston** (elstonj@blackswifttech.com) — **Consistently highest volume contact**; 8+ new messages in this period; active across NOAA AOC Materials coordination (N42 P-3 aircraft), SOCOM contract, KrateoSky NOAA White Paper follow-up, ByLight M2 HALO coordination, Tanay Topac S2 Order management (Stanford), HireNexus Regnier onsite scheduling
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Elevated activity**; 4+ new messages; Navy SBIR/Ultra Maritime Phase II (N251-016) scheduling; Paul DeMond coordination; UK Raven visit logistics
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active**; 2+ new messages; UK Raven visit (with Lockheed Martin contact Neil Morphett), DeadWater Tech GNSS-denied navigation inquiry
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — Krateo partnership participation
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — **Elevated in this period**; Ultra Maritime Navy SBIR Phase II coordination (Paul DeMond, Shannon Eix participants)
 
 ### Top External Contacts
 
-#### Government (Strategic/Critical Priority)
+#### Government (Operational Priority — Active Tropical Operations)
 
-**USSOCOM (HIGHEST PRIORITY — CONTRACT H9223626P9056: BLACK SWIFT S0 AIR-DEPLOYED)**
-- **Evan M. Wolff MIL USSOCOM** (evan.m.wolff.mil@socom.mil) — **Sustained high-priority contact**; direct escalations marked IMPORTANT
-- **Michael C. Jagelewski CIV USSOCOM** (michael.c.jagelewski.civ@socom.mil) — Program manager for S0-AD contract
-- **Zachary O. Kachel MIL USSOCOM** (zachary.o.kachel.mil@socom.mil) — PoP (Point of Performance) discussions
-- **Brandon M. Terry SSGT USAF USSOCOM AFSOC-GSU** (brandon.m.terry.mil@socom.mil) — Air operations PoP coordination
+**NOAA (PEAK OPERATIONAL ACTIVITY — POLO/EP99 Live Flight Tasking)**
+- **Danielle Varwig - NOAA Federal** (danielle.varwig@noaa.gov) — **Intensified in latest period**; **real-time operational coordinator**; direct to Jack Elston on AOC Materials for N42 P-3 aircraft; "*Reply NLT 1600 today*" ET Operations Team Update (Sep 21, 1:21 PM EDT) — **time-critical operational messaging**
+- **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **Escalated to operational lead**; receiving Danielle Varwig's urgent ET Operations Team updates; OPS Team coordination
+- **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — Confirmed participant in large distributed HRD operations (100+ recipient list from previous period, now actively executing POLO/EP99)
+- **Heather Holbach - NOAA Affiliate** (heather.holbach@noaa.gov) — **Actively distributing operational flight tracks**; Sep 21 preliminary flight tracks for Wednesday Sep 23 (100+ recipient list including Maciej, Jack, Navy/USAF/academia); proposed flight tracks for POLO operations (20260922I1, 20260922H1); sascwatch-all list coordinator
+- **AOC Hurricanes - NOAA Service Account** (aoc.hurricanes@noaa.gov) — **Direct tasking authority**; "Confirmed Tasking P-3s, Polo, 9/22/2026" forwarded directly to Maciej Sep 21, 3:45 PM
+- **Laura Rock - NOAA Federal** (laura.rock@noaa.gov) — Participant in preliminary flight track distributions
+- **Jason Dunion - NOAA Affiliate** — HRD Tropical Weather Map Discussions (Sep 21–25) organizer
 
-**Navy (NAWCAD/SBIR)**
-- **Angel R. Ruiz-Reyes CIV USN NAWCAD** (angel.r.ruiz-reyes.civ@us.navy.mil) — **8+ exchanges in current period**; S0 COTS WAIVER escalations; DBIDS infrastructure requests; DOD SAFE file drops; TCE 26.2 coordination; **file transfer alert received Sep 17**; primary Navy technical lead
-- **Anthony D. Brescia CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — Technical coordination
-- **Daniel E. Klier CIV USN NSWC IHD** (daniel.e.klier.civ@us.navy.mil) — Infrastructure/DBIDS support
-- **Paul DeMond** (Paul.DeMond@umaritime.com) — **NEW/ELEVATED**: Ultra Maritime SBIR Phase II (N251-016) coordination; Navy SBIR/Ultra Maritime check-in scheduled Sep 29; involves Alex Lomis (BST), Shannon Eix (Ultra Maritime)
+**Navy/USSOCOM (Maintained High Priority)**
+- Previous relationships (Evan Wolff, Michael Jagelewski, Angel Ruiz-Reyes, etc.) remain consistent in structural importance
 
-**NOAA (Operational — Active Tropical Operations)**
-- **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — **Significantly elevated in new period**; **operational lead for POLO (20260922) and EP99 (20260921) tropical storm flight tasking**; direct operational coordination on N42/N43 research tasking; OPS Team EP99 meetings; Aerostar/Black Swift synergies (platform discussion); **large HRD research distribution list participant (100+ recipients on HFP-APHEX call invitation)**
-- **Danielle Varwig - NOAA Federal** (danielle.varwig@noaa.gov) — **Central operations coordinator**; AOC Materials coordination for N42 P-3 aircraft; "Reply NLT 1600" ET Operations Team update (time-critical operational); flight track approvals; senior NOAA operationist
-- **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — **Elevated in operational period**; OPS Team EP99 lead; direct tasking coordination with Laura Rock, Joe Cione, Jun Zhang
-- **Laura Rock - NOAA Federal** (laura.rock@noaa.gov) — Pioneer Array test flight coordination; ET Quick Tag participation; OPS Team member
-- **Lisa Bucci - NOAA Federal** (Lisa.R.Bucci@noaa.gov) — ET Quick Tag organizer
-- **Jun Zhang - NOAA Affiliate** (jun.zhang@noaa.gov) — **Elevated activity**; OPS Team EP99 coordination; NSF $20M pilot funding alert
-- **Mark Rogers - NOAA Federal** (mark.e.rogers@noaa.gov) — Broad NOAA coordination
-- **Chad Cary - NOAA Federal** (chad.cary@noaa.gov) — Organizing KrateoSky Follow-Up meeting (Sep 29)
-- **Heather Holbach - NOAA Affiliate** (heather.holbach@noaa.gov) — Large distributed flight operations communications (preliminary flight tracks, Polo/EP99); sascwatch-all list coordinator
+#### Krateo Sky Partnership (Integrated Operations)
+- **Bob Smith** (Bob@krateosky.com) — **5+ new messages**; NOAA White Paper Follow-up (Sep 21 thread with Jack, Sep 21 group distribution); direct escalation pattern (Bob→Jack→Maciej)
+- **Sona Raziabeegum** (sona@krateosky.com) — Group participation in NOAA White Paper coordination
+- **Jed Leonard** (jed@krateosky.com) — **Sending "BST GTM Review" (Sep 21, IMPORTANT)** with broad distribution: Maciej, Jack, Daniel Prendergast, Cory Dixon, KS leadership (Bob Smith, Sona, Brian Grubel, LisaMarie Cheney, Ariel Avitan)
+- **Cory Dixon** (cory@krateosky.com) — KS-side partnership coordination
 
-**Other Government & Military**
-- **Joshua H. Cossuth CIV USN** (joshua.h.cossuth.civ@us.navy.mil) — Navy technical contact
-- **Ryan Rickert, Amanda Nelson, Ian Park** (USAF AFRC 53 WRS/ARWO) — USAF hurricane reconnaissance coordination
+#### Navy SBIR/Ultra Maritime (Elevated Program Coordination)
+- **Paul DeMond** (Paul.DeMond@umaritime.com) — **Sustained elevated activity**; N251-016 Phase II meeting request thread (Sep 21); confirmed Navy SBIR/Ultra Maritime check-in scheduled **Tue Sep 29, 2026 11:00–11:45 AM (MDT)**; participants: Maciej, Alex Lomis, Beck Cotter, Shannon Eix (Ultra Maritime)
 
-#### Krateo Sky / Partnership (Elevated Leadership Coordination)
-- **Sona Raziabeegum** (sona@krateosky.com) — **Now acting as KS program lead**; 6+ new messages in this period; SOCOM Contract sync ("Quick Sync on the SOCOM Contract"), Black Swift Weekly Integration Review notes/actions (Sep 16), H9223626P9056 coordination, multi-directional (KS→BST→Prendergast/Cotter/Dixon/Elston/Stachura)
-- **Bob Smith** (Bob@krateosky.com) — **8+ new messages**; SOAA White Paper Follow Up (direct coordination with Maciej, Jack), S0-AD Quote Verification, NOAA follow-up
-- **Cory Dixon** (cory@krateosky.com) — KS/BST/Creative Alignments engagement (multi-vendor coordination)
-- **Ariel Avitan** (Ariel@krateosky.com) — S0-AD Quote Verification
-- **Extended Krateo team** — Brian Grubel, LisaMarie Cheney, Jed Leonard, Thibault Bridel-Bertomeu, Dipan Amin, Pam Kermisch, Roger Riley participate in weekly integration and SOCOM/NOAA meetings
+#### Research/Academic/Technical Partners
+- **Tanay Topac** (tanaytopac@stanford.edu) — **S2 Order coordination** continues at IMPORTANT priority (Jack Elston primary contact, Maciej copied)
+- **Mel Marker** (mel.marker@bylight.com) — **ByLight M2 HALO Flight** coordination (Sep 21); Maciej sent reply; involves Ethan Domagala (BST), William O'Neill (ByLight)
+- **Laura Decroos** (decrool@miamioh.edu) — **NEW academic contact**; "Intro/connect" thread; marked IMPORTANT; Maciej reciprocated Sep 21, 11:05 AM with vedulas@miamioh.edu (also includes Aiden Cabic, Daniel Muldoon)
 
-#### Research/Academic/Technical Collaborators
-- **Kevin A. Adkins** (adkinsk@erau.edu) — E2 Status (platform autonomy)
+#### Other External
+- **Joe Villa-Michel** (joe@av3aerovisual.com) — AFAC Approval coordination for Mexico operations (Operator Manual/Mission Plan); Hugo Delgado Granados (UNAM) involvement
+- **HireNexus** (Amy E. Searles, Abby Simes) — KrateoSky staffing/onsite coordination (L. Regnier visit Sep 22, 2–4 PM MDT — declined)
+
+---
+
+## Topic Patterns
+
+### Recurring Themes (New Period)
+
+**Tropical Operations (POLO/EP99)**
+- "Preliminary Flight Tracks" (Sep 21) — operational distribution
+- "Proposed Flight Track for 20260922I1 (EP17/POLO)" 
+- "Proposed Flight Track for 20260922H1 (EP17/POLO)"
+- "Confirmed Tasking P-3s, Polo, 9/22/2026" — direct operational tasking
+- "ET Operations Team Update (POLO)" — time-critical operational update
+- "HRD Tropical Weather Map Discussions: Sep 21–25th"
+
+**Platforms/Systems**
+- **N42/N43 P-3 Aircraft** — AOC Materials coordination (NOAA research aircraft)
+- **ByLight M2 HALO** — flight testing
+- **S2 (Stanford)** — ongoing order management
+
+**Contracts/Partnerships**
+- **SOCOM H9223626P9056** — maintained in Krateo GTM Review context
+- **Navy SBIR N251-016 Phase II** — Ultra Maritime partnership (confirmed meeting Sep 29)
+- **KrateoSky GTM Review** — leadership alignment (Jed Leonard distribution)
+- **NOAA White Paper Follow-up** — Krateo/BST joint deliverable (Bob Smith leading)
+
+**Sensors/Technical**
+- **QuSpin Gen-2.0 QTFM** — procurement (Meredith

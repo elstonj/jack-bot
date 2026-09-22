@@ -1,55 +1,81 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: September 21, 2026**
+**UPDATED: September 22, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 1,177 messages** scanned across ~71 days (Jul 12–Sep 21, 2026)
+- **Total: 1,217 messages** scanned across ~72 days (Jul 12–Sep 22, 2026)
 - Average ~16–17 messages/day
-- **Latest data window (Sep 18–21)**: 100 new messages; **heavy concentration on NOAA N42 platform logistics (~25%), facility buildout continuations (~20%), Navy compliance coordination (~15%), CNC parts tracking (~10%), and vendor notifications (~30%)**
-- **Pattern observation**: Sustained high-volume procurement with sharp focus on aircraft/UAS integration deliverables; NOAA monthly meetings canceled; renewed Navy contact (NSWC IHD, NAWCAD); significant administrative/HR activity (Rippling documents, Enterprise rentals); continued pressure on custom manufacturing timelines
+- **Latest data window (Sep 21–22)**: 40 new messages; **continued heavy concentration on N42 AOC materials logistics (~22%), Aeronet shipment coordination (~15%), S0-99 refurbishment approvals (~12%), facility buildout (Amazon/UPS/Spindrift deliveries ~20%), CNC parts escalation (~5%), and vendor notifications (~26%)**
+- **Pattern observation**: Sustained critical-path procurement pressure; N42 program moving into active certification phase with NOAA multi-stakeholder coordination; Aeronet vendor dependency intensifying; CNC manufacturing bottleneck persists at 30+ RE: thread depth
 
 ---
 
 ## Key Correspondents
 
-### Top Senders (Direct to josh.fromm@blackswifttech.com)
+### Top Senders (Direct to josh.fromm@blackswifttech.com or purchasing@blackswifttech.com)
 
 **Government / Strategic Partners**
-1. **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal** — NOAA/Blackswift monthly meeting (Sep 23, 2026 12pm MDT) **CANCELED** (Sep 21); recurring calendar coordination; AL96 tropical event historical context
-2. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NOAA Federal** — **NEW ESCALATION**: "AOC Materials to go on N42" multi-day thread (Sep 18–21); cross-functional coordination with Joe Cione, Laura Rock, Nikolai Pawlenko, Mark Rogers; **indicates active N42 aircraft certification/materials prep phase**
-3. **Laura Rock** (laura.rock@noaa.gov) — **NOAA Federal** — **NEW**: Involved in N42 AOC materials discussions (Sep 18–21); S0-99 refurbishment quote approvals (Asana tasks, Sep 21); **emerging program authority**
-4. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal** — **NEW VISIBILITY**: N42 AOC Materials coordination (Sep 21); "Couple of Questions" inquiry thread with Beck Cotter, Danielle Varwig, Mark Rogers (Sep 21); **technical/compliance gating**
-5. **Mark Rogers** (mark.e.rogers@noaa.gov) — **NOAA Federal** — **NEW**: N42 AOC Materials thread participant (Sep 21); compliance/technical authority
+1. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NOAA Federal** — **ESCALATED ACTIVITY**: "AOC Materials to go on N42" multi-layer responses (Sep 21 x3); "Couple of Questions" thread participation (Sep 21 x2); **indicates rapid-cycle compliance/materials gating with Jack Elston direct involvement**
+2. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal** — "Couple of Questions" multi-recipient response (Sep 21); **technical compliance authority in N42 certification path**
+3. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **USN NAWCAD** — **DIRECT ENGAGEMENT (Sep 21)**: "FW: TAK files and SITREP" to Josh & Alex Lomis; **tactical data link / UAV integration continuity**
 
-**Military / Defense (NEW / ESCALATED)**
-1. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **USN NAWCAD (Naval Air Warfare Center Aircraft Division)** — **NEW DIRECT ENGAGEMENT (Sep 21)**: "FW: TAK files and SITREP" forwarded to Alex Lomis and Josh; also part of "[Non-DoD Source] Black Swift Final Team/TCE 26.2" thread (Sep 18–19); **military UAV integration / tactical data link coordination**
-2. **Daniel E. Klier** (daniel.e.klier.civ@us.navy.mil) — **USN NSWC IHD (Naval Surface Warfare Center, Indian Head Division)** — **NEW (Sep 19)**: "[Non-DoD Source] Black Swift Final Team/TCE 26.2" response; team composition verification; **weapons/ordnance systems clearance / source control**
+**Internal Leadership & Critical Path**
+1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — **SUSTAINED HIGH VISIBILITY**: "AOC Materials to go on N42" orchestrator (Sep 21 x2 direct responses to Danielle Varwig); **strategic program steering with NOAA**
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **COMPLIANCE/QUALITY GATE**: "Couple of Questions" responder (Sep 21); S0-99 quote approval workflow owner; **2x Asana task notifications (Sep 21)** on S0-99 refurb status ("Quote approved by Laura"); **critical certification path authority**
+3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **LOGISTICS URGENCY PEAK**: **3x critical Aeronet coordination messages (Sep 21)** — "Checking in on status of shipment for tomorrow" (12:31pm, 12:44pm, 14:47pm MDT); direct Adrian Sepulveda escalation; **active same-day response cycle on time-critical aircraft/component delivery**
+4. **Alex Lomis** (alex.lomis@blackswifttech.com) — **MILITARY INTEGRATION**: TAK files / SITREP recipient with Angel Ruiz-Reyes (Sep 21); **tactical integration lead**
 
-**Internal Leadership & Technical**
-1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — **ELEVATED VISIBILITY**: "AOC Materials to go on N42" orchestrator (Sep 18–21, 8+ messages); direct NOAA coordination lead; S0 Shipping/Packing Guides (Asana, Sep 18); Enterprise rental confirmation (Rippling documents); **strategic program authority**
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **COMPLIANCE GATE**: "[Non-DoD Source] Black Swift Final Team/TCE 26.2" originator (Sep 18); NOAA "Couple of Questions" responder (Sep 21); S0-99 quote approval chain lead (Asana x5 tasks/comments, Sep 18–21); S0 Packing/Shipping guides owner; Jaia container logistics task owner; **compliance/quality/certification program authority**
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **LOGISTICS LEAD**: "Checking in on status of shipment for tomorrow" urgent coordination with Aeronet (Adrian Sepulveda, Patrick Mulstay) (Sep 21 x2); Foster Hill (MM Solutions) tool box insert order status (Sep 18); **critical path logistics/fulfillment manager**
-4. **Alex Lomis** (alex.lomis@blackswifttech.com) — **NEW VISIBILITY**: TAK files / SITREP recipient from Navy (Sep 21); "[Non-DoD Source] Black Swift Final Team/TCE 26.2" respondent (Sep 19); **military/tactical integration lead**
-5. **Maciej Stachura** (stachura@blackswifttech.com) — NOAA monthly meeting invitee (Sep 21); hiring interview confirmation (Test Engineer Ali Suhleria, Sep 18); **integration/ops coordination**
+**Partnership / Supply Chain (CRITICAL PRESSURE)**
+1. **Aeronet** — **EXTREME URGENCY PATTERN**
+   - **Adrian Sepulveda** (asepulveda@aeronet.com) — **3x messages Sep 21**: (18:01, 18:33, 00:49 UTC next day); time-critical shipment coordination with Meredith; **same-day/overnight response cadence; indicates critical aircraft component or assembly delivery window**
+   - **Patrick Mulstay** (pmulstay@aeronet.com) — Freight/logistics coordination (Sep 21)
 
-**Partnership / Business Development**
-1. **Aeronet (NEW/CRITICAL)**
-   - **Adrian Sepulveda** (asepulveda@aeronet.com) — **URGENT**: Shipment status inquiry ("for tomorrow") urgent back-and-forth with Meredith Needham (Sep 21 x2); same-day response pattern; **likely critical aircraft/component delivery**
-   - **Patrick Mulstay** (pmulstay@aeronet.com) — Freight shipment estimate coordination with Meredith (Sep 18, 21); **logistics/supply coordination**
-   - **Organization signal**: High-priority vendor; time-critical delivery cycles; Meredith=primary interface
+2. **BestInParts / Samantha** (Samantha@bestinparts.com) — **CNC PARTS ORDER ESCALATION CONTINUES**: "CNC parts order for Black Swift-BST260728-B16306" now **27+ RE: layers** (Sep 21 17:12:18 UTC); Josh received direct response; **chronic manufacturing bottleneck; unresolved quality/timeline disputes**
 
-**Manufacturing / CNC / Supply Chain (CRITICAL PATH ESCALATION)**
-1. **Samantha** (Samantha@bestinparts.com) — **BestInParts** — **EXTREME THREAD DEPTH**: "CNC parts order for Black Swift-BST260728-B16306" now **26+ RE: layers** (Sep 10–21); Josh responded Sep 14, Sep 21; Samantha replies same-day both times (Sep 15, Sep 21 10:39am, 17:12pm UTC); **indicates chronic order complexity / quality/timeline disputes; sustained escalation pressure**
-2. **Foster Hill** (fhill@mmsolutions.biz) — **MM Solutions** — Sales Order 43592 confirmation (Sep 21); Tool box inserts order SO-43213 (Sep 18); **facility/manufacturing support items; appears to be secondary/supplementary vendor**
+3. **MM Solutions / Foster Hill** (fhill@mmsolutions.biz) — Sales Order 43592 Confirmation (Sep 21 15:52 GMT); **appears to be secondary/facility support items**
 
-**Talent / Staffing / Administration (NEW ACTIVITY)**
-1. **Triza Codillo** (triza.codillo@creativealignments.com) — **Creative Alignments (Recruiting)** — "Onsite Interview Confirmation for Ali Suhleria - Test Engineer" (Sep 18); includes Maciej Stachura, Sam Hild; **active hiring in test/engineering roles**
-2. **Rippling** (no-reply@rippling.com) — **HR/Payroll Platform** — "Joshua Waldman has signed some of their documents" / "signed their document" (Sep 18, 2x); **onboarding/administrative workflow in motion**
+**Task Management & Workflow**
+- **Asana** (no-reply@asana.com) — **3x notifications (Sep 21–22)**:
+  - "Quote approved by Laura" (S0-99 refurb, Sep 21 17:43)
+  - "New comment on: S0-99 quote for refurb…" (Beck Cotter, Sep 21 17:34; Meredith O'hara Needham x2, Sep 21 16:14 & 16:01)
+  - **Unread notifications alert (Sep 22 00:40)**
+  - **Signal**: Active approval chain on S0-99 aircraft refurbishment; Laura Rock (NOAA) approval authority; high-velocity comment activity
 
-**Vendor Notifications & Logistics (Sustained High Volume)**
-- **Amazon via Purchasing** — 6+ deliveries Sep 18–21; Furniture (6x items Sep 18), Lawn & Garden, Lighting & Fans, Essentials; 1 promotional credit; **continued facility/office buildout at pace**
-- **UPS via Purchasing** — 5+ notifications Sep 18–21 (packages arriving, customs clearance x2, pickup alerts); **high-frequency inbound/outbound**
-- **USPS Informed Delivery** — Daily digest (Sep 21)
-- **Enterprise
+**Vendor Notifications & Facility Buildout**
+- **Amazon via Purchasing** — 2x delivery confirmations (Sep 21): Lighting & Fans (3 items), Lighting & Fans + Lawn & Garden (2 items); **continued facility/office equipment acquisition**
+- **UPS via Purchasing** — 4x notifications (Sep 21–22): Customs clearance (x2), Package arriving today, Packages arrive tomorrow, Package is coming today; **sustained international inbound logistics**
+- **Spindrift Market / Spindrift Customer Support** — Subscription order notification (Sep 22 00:49); Order SH62386441 "Ready your fridge" (Sep 21 21:24); **office refreshment/break room supplies**
+- **Pirate Ship via Purchasing** — Shipping label receipt $8.62 (Sep 21 20:00); **outbound logistics coordination**
+- **USPS Informed Delivery** — Daily digest (Sep 21 13:23)
+- **Battery Junction via Purchasing** — Promotional notification (Sep 21 17:03); **(category: forums, low priority)**
+
+**Promotions & Marketing (Auto-filtered)**
+- Birdcall (free tenders promotion, Sep 21)
+- Hilton Honors (points offer, Sep 21)
+- DigiKey (promotional, Sep 21)
+- Chris Haller / Space Software Summit (pricing alert, Sep 21 15:27)
+- UAS VISION (daily news digest, Sep 22 09:07) — **NOTABLE: Industry newsletter; consistent delivery pattern**
+
+---
+
+## Topic Patterns
+
+### Primary Program Threads
+1. **N42 AOC Materials (Aircraft Certification)** — ~22% of recent volume
+   - "AOC Materials to go on N42" (Sep 18–21, multi-day escalation)
+   - Stakeholders: Jack Elston, Danielle Varwig, Laura Rock, Nikolai Pawlenko, Mark Rogers, Beck Cotter
+   - **Signal**: Active certification phase; materials approval gating with NOAA technical review
+
+2. **S0-99 Aircraft Refurbishment** — ~12% of recent volume
+   - "S0-99 quote for refurbishment" (multi-comment approval chain, Sep 18–21)
+   - Approvers: Laura Rock (NOAA), Beck Cotter (BST)
+   - **Signal**: Quote advancement; NOAA co-approval required; active Asana workflow tracking
+
+3. **CNC Parts Manufacturing (BST260728-B16306)** — ~5% of recent volume; extreme thread depth
+   - 27+ RE: layers on single order
+   - Vendor: BestInParts / Samantha
+   - **Signal**: Chronic supplier quality/timeline issue; escalation unresolved; appears tied to aircraft integration/assembly
+
+4. **

@@ -57,7 +57,7 @@ Federal Projects/
 
 ### Contracts & Agreements
 - **Contract Due Diligence request/Requested documentation** | Modified: 2026-08-28 | Editor: Beck Cotter
-- **IDIQ 2026 Shipping Info and Contacts.pdf** | Modified: 2026-08-26 | *Existing knowledge file reference*
+- **IDIQ 2026 Shipping Info and Contacts.pdf** | Modified: 2026-08-26
 - **Aureum Phase II/Aureum LOI (1).pdf** | Modified: 2026-09-17 | Editor: Beck Cotter
 - **Aureum Phase II/Aureum LOI (1).docx** | Modified: 2026-09-17 | Editor: Beck Cotter
 
@@ -110,26 +110,22 @@ Federal Projects/
 - **Registro-AFAC-AV3 AEROVISUAL.pdf** | Modified: 2026-09-04 | Editor: Daniel Prendergast
 - **Sol_1305M226Q0069.pdf** | Modified: 2026-09-18 | Editor: Beck Cotter
 - **Return of 3 S0s for De-bugging (Aug. 2026)/Email Re_ S0s to be shipped back (Aug. 2026).pdf** | Modified: 2026-08-28 | Editor: Meredith Needham
-- **RC_VID_0009.MOV** | Modified: 2099-01-24 | Editor: Jack Elston *(note: future date)*
-- **RC_VID_0008.MOV** | Modified: 2099-01-24 | Editor: Jack Elston *(note: future date)*
+- **RC_VID_0009.MOV** | Modified: 2099-01-24 | Editor: Jack Elston *(note: future date, likely system timestamp error)*
+- **RC_VID_0008.MOV** | Modified: 2099-01-24 | Editor: Jack Elston *(note: future date, likely system timestamp error)*
 
 ## Recent Activity Patterns
 
 **Most Active Users:**
-1. **Beck Cotter** — 10 files last edited (proposals, RFQs, cover materials, contract documents, feedback review)
-2. **Maciej Stachura** — 4 files last edited (test documentation, flight test data, TCE demo tracking)
-3. **Meredith Needham** — 4 files last edited (S0 payment schedules, CLIN tracking, financial monitoring)
-4. **Jack Elston** — 2 files last edited (video documentation)
-5. **Daniel Prendergast** — 1 file last edited (SOCOM schedule)
+1. **Beck Cotter** — 10 files last edited (proposals, RFQs, cover materials, contract documents, feedback review, test plan/matrix)
+2. **Maciej Stachura** — 4 files last edited (test documentation, flight test data, TCE demo tracking, option final reports, progress reports)
+3. **Meredith Needham** — 4 files last edited (S0 payment schedules, CLIN tracking, financial monitoring, invoice processing)
+4. **Jack Elston** — 2 files last edited (video documentation, SOW, pricing schedule)
+5. **Daniel Prendergast** — 1 file last edited (SOCOM schedule, CONOPS, packing lists)
 
 **Activity Hotspots:**
-- **Latest edits (Sept 2026):** Master Proposal Tracking, UAS Services RFQ Factor 1, NASA Phase II feedback, DAF Phase I feedback, SOCOM tentative schedule (all modified 2026-09-21)
-- **Mid-Sept 2026:** TCE testing materials and flight test data finalized (2026-09-17), CLIN tracking updated (2026-09-16), cover letter and letterhead prepared (2026-09-18), Sol document updated (2026-09-18)
-- **Early-Sept 2026:** S0 payment schedules finalized (2026-09-15), TCE DBIDS info updated (2026-09-14)
-- **Financial tracking:** Active S0 payment schedule maintenance with three separate documents tracking initial 20 units, expanded 13 units, and ongoing budget tracking
+- **Most Recent (2026-09-21):** Master Proposal Tracking, UAS Services RFQ Factor 1, NASA Phase II unfunded proposal feedback, DAF Phase I Letters and Feedback, SOCOM tentative schedule — all flagged as current priorities
+- **Mid-Sept 2026 (2026-09-17–2026-09-18):** TCE testing materials finalized (flight test data, Pendleton demo, XML test configs), cover letter and letterhead prepared for submission, Sol document finalized
+- **Early-Sept 2026 (2026-09-14–2026-09-16):** Option final reports submitted, CLIN tracking updated, briefing materials prepared
+- **Financial Tracking:** Continuous S0 payment schedule maintenance with three separate documents tracking initial 20 units (March 2026), expanded 13 units (Aug 2026), and return of 3 units for debugging
 
-## Client/Project Document Mapping
-
-### Navy Programs — CLIN-based Contracts
-- **N6833525C0492 / N6833525C0270** (Option Final Reports)
-  - N6
+## Client/Project Document

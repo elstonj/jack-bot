@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,596,711.08
+- **Total Expenses (Payments):** $3,611,157.08
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,596,710.08
-- **Date Range:** 2024-04-05 to 2026-09-15 (28 months, 11 days)
+- **Net Position:** -$3,611,156.08
+- **Date Range:** 2024-04-05 to 2026-09-22 (28 months, 18 days)
 
 ---
 
@@ -36,7 +36,7 @@
 | **Indirect Costs / G&A** | ~$973.82 | 10 | QuickBooks Payments fees (cumulative: $870.82), Pinnacol Assurance insurance ($103.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other / Unallowable** | ~$0.01 | 1 | Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs] |
-| **TOTAL** | **$3,596,711.08** | **109** | — |
+| **TOTAL** | **$3,611,157.08** | **110** | — |
 
 ---
 
@@ -47,8 +47,8 @@
 | (400-5) | SMM Phase II 22.4D | $949,725.10 | 7 |
 | [301-3] | S0 Hurricane Phase II 2025 | $935,473.80 | 11 |
 | **[300-3]** | **2026 IDIQ** | **$182,000.00** | **5** |
+| [550-2] | **Navy STTR Hazardous Weather** | **$235,517.00** | **6** ⚠️ |
 | [550-1] | Navy SBIR Magnetometer | $213,000.00 | 4 |
-| [550-2] | Navy STTR Hazardous Weather | $221,071.00 | 5 |
 | [043-2] | By Light Mustang | $450,000.00 | 6 |
 | [200-14] | Autonomy | $156,500.00 | 4 |
 | [200-13] | CRATER (Costa Rica Volcanoes) | $80,620.37 | 4 |
@@ -87,7 +87,7 @@
 | (unclassified) | Pinnacol Assurance | $103.00 | 1 |
 | (unclassified) | Jack Elston – v | $0.01 | 1 |
 | (unclassified) | QuickBooks Payments Fees | $870.82 | 8 |
-| **TOTAL** | | **$3,596,711.08** | **109** |
+| **TOTAL** | | **$3,611,157.08** | **110** |
 
 ---
 
@@ -112,16 +112,16 @@
 | 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) | — |
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
-| 2025-09 | $112,000.00+ | *[Previous summary cut off]* | — |
+| 2025-09 | $112,000.00+ | *[Previous summary]* | — |
 | 2026-08 | $0.00 | — | No QB transactions recorded |
-| **2026-09** | **$74,500.00** | **2026 IDIQ ($74,500)** | **NEW: Two payments ($16K + $58.5K) to [300-3] 2026 IDIQ on 2026-09-04** |
+| **2026-09** | **$88,946.00** | **2026 IDIQ ($74,500), Navy STTR ($14,446)** | **NEW: Navy STTR payment ($14,446.00) on 2026-09-17** |
 
 ---
 
 ## Notable Transactions
 
-### Recent Activity (August–September 2026)
+### Recent Activity (September 2026)
 
-**2026 IDIQ Project Funding:**
-- **2026-09-04 | $16,000.00** → [300-3] 2026 IDIQ
-- **2026-09-04 | $58,500.00** → [
+**Navy STTR Hazardous Weather – Additional Funding:**
+- **2026-09-17 | $14,446.00** → [550-2] Navy STTR Hazardous Weather
+  - *Brings [550-2] total to
