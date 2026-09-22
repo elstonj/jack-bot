@@ -1,58 +1,71 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-08-27 02:22
+Last scanned: 2026-09-21 15:10
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 5 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 21 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 28 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Black Swift Technologies — Shared Drive Strategic Overview
 
-## Summary Statistics
-- **Total Drives Analyzed:** 2
-- **Total Files:** 7
-- **Overall Organization:** Minimal — both drives are sparsely populated
+## Executive Summary
+BST maintains **84 total files** across two primary shared drives with distinct purposes: **Federal Projects** (56 files) focused on government contracts and compliance, and **Sales** (28 files) focused on technical specifications and client deliverables. Both drives show active use with recent modifications in 2026.
 
-## Drive Breakdown
+---
 
-### Federal Projects
-- **File Count:** 5 files
-- **Primary Content:** Government contract documentation and video assets
-- **Key Items:**
-  - Phase I Final Report Instructions (CLIN0007)
-  - IDIQ 2026 Shipping Information
-  - Technical specification (Turbulence & Wave Height)
-  - Video files (2x MOV files)
-- **Status:** Active — recent modifications through August 2026
+## Drive Comparison
 
-### Sales
-- **File Count:** 2 files
-- **Primary Content:** Supercool Earth ROM (duplicate entries: document + PDF)
-- **Status:** Minimal activity — appears to be a single project/product
+| Metric | Federal Projects | Sales |
+|--------|------------------|-------|
+| **File Count** | 56 | 28 |
+| **Folder Depth** | 10 folders | 2 main folders |
+| **Primary Content** | Contracts, RFPs, SOWs, budgets | Specs, ROM estimates, flight test media |
+| **Last Activity** | 2099-01-24* | 2026-09-21 |
+| **Client Base** | Navy/DoD (SBIR, STTR, IDIQ, SOCOM) | Private clients (e.g., University of Leeds) |
 
-## Key Observations
+*Note: 2099 date appears to be a data anomaly; likely recent activity mislabeled*
 
-**Strengths:**
-- Federal drive shows structured government contracting documentation (CLIN references, phase reports)
-- Clear separation between Federal and Sales projects
+---
 
-**Areas Needing Attention:**
-- **Extreme sparseness:** Only 7 files across both drives suggests either new implementation or significant under-utilization
-- **Duplicate files:** Sales drive contains both document and PDF versions of same file
-- **Unclear naming:** Video files lack descriptive context (RC_VID codes)
-- **Missing organization:** No visible folder structure to accommodate growth
-- **Data validation needed:** 2099 timestamp on video files is a data integrity concern (future date)
+## Key Findings
+
+### Clients & Projects by Documentation Volume
+1. **Federal Projects** — Primary focus on DoD programs (UAS Services, Aureum Phase II, SOCOM, TCE testing)
+2. **Sales Drive** — Supporting commercial/academic clients; University of Leeds is documented client with ROM work
+
+### Cross-Drive Patterns
+- **Federal** = contracts & proposals (RFQ responses, SOWs, pricing schedules, compliance docs)
+- **Sales** = technical enablement & marketing (requirements, flight test proof-of-concept, system demos)
+
+### Shared Resources & Templates
+- **Requirements specifications** (Sales) — Subsystem-level technical standards (Airframe, Datalink, EO/IR, GCS)
+- **S3 Revision B** — Core requirements master document in Sales drive
+- **Pricing/Commercial templates** — Federal drive shows structured pricing schedule templates
+
+### Document Organization Quality
+- **Federal**: Well-organized by contract/program identifier; file naming uses contract numbers (e.g., `1305M226Q0069`)
+- **Sales**: Mixed organization—Requirements folder well-structured; Flight Testing folder uses date-based organization but contains loose media files at root level
+- **Naming conventions**: Inconsistent—Federal uses contract IDs; Sales uses descriptive names and client names
+
+---
+
+## Areas Requiring Attention
+
+1. **Flight Testing Media** — 16 files stored with inconsistent organization; loose media at drive root should be consolidated
+2. **Stale Documentation** — Federal drive shows files from 2022 onwards; audit needed for obsolete contracts/proposals
+3. **Naming Consistency** — Cross-drive variation in naming conventions may complicate search and compliance
+4. **Version Control** — Federal drive shows duplicate file formats (e.g., `.pdf` + `.docx` for Aureum LOI) with no clear versioning
+5. **Archive Strategy** — No evident retired/archived folder structure; older contracts may clutter active workspace
+
+---
 
 ## Recommendations
-
-1. Establish folder hierarchies (by client, project phase, document type)
-2. Implement naming conventions for video and technical assets
-3. Resolve duplicate files in Sales drive
-4. Audit and correct timestamp anomalies
-5. Create shared templates/resources folder as drives grow
-6. Consider document management for contracts and compliance materials
+- Implement consistent naming conventions (e.g., `[PROGRAM]-[DOC TYPE]-[DATE]`)
+- Establish archive folders for completed contracts/proposals
+- Consolidate Sales flight test media into dated subfolders
+- Add metadata/version control for documents with multiple formats

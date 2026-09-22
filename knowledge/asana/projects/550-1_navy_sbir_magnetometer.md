@@ -13,20 +13,20 @@
 - **Dollar Value:** $242,540 total budget
   - **Option Period (Apr 14 – Sep 28, 2026): $99,459**
     - CLIN 0005 (Kick-Off & FWA Certification): $50,000 ✓ **COMPLETED** (submitted Apr 14, 2026)
-    - CLIN 0006 (Progress Report): $35,000 — ✓ **COMPLETED** (submitted Jul 16, 2026)
+    - CLIN 0006 (Progress Report): $35,000 ✓ **COMPLETED** (submitted Jul 16, 2026)
     - CLIN 0007 (Final Report): $14,459 — Due **Sep 28, 2026** — **OPEN**
 
 - **Timeline:** Option Period April 14 – September 28, 2026
   - **Project kicked off:** April 21–22, 2026
   - **Compressed 6.5-month timeline:** design → build → ground test → hand-launched flights → Camp Pendleton demo (Sep 14–25) + three Navy reports
 
-- **Status:** 🟡 **ACTIVE — IN EXECUTION**
-  - **Current Phase:** Final technical milestone execution and administrative closure
-  - **Critical Recovery (Jun 8, 2026):** Multiple technical milestones were severely overdue; project backlog recovered through July delivery of CLIN 0006 Progress Report.
-  - **Current Activity:** 2 open tasks in Asana (Camp Pendleton flight planning and demo execution). CLIN 0007 Final Report due Sep 28, 2026 (end of option period).
+- **Status:** 🟡 **ACTIVE — FINAL PHASE EXECUTION**
+  - **Current Phase:** Camp Pendleton demo execution imminent; technical milestones recovered; CLIN 0007 Final Report due Sep 28, 2026 (end of option period)
+  - **Critical Recovery (Jun 8, 2026):** Multiple technical milestones severely overdue; all recovered by Jul 16, 2026 delivery of CLIN 0006 Progress Report.
+  - **Recent Milestone Closure:** All major ground testing and preparation tasks marked complete as of Sep 9, 2026.
   - **Team Feedback (Maciej Stachura, Jun 8, 2026):** "For mag integration it's Alex and Sam on the critical engineering tasks" — confirms active engineering proceeding.
 
-- **Priority:** **HIGH** (Navy SBIR government contract, compressed timeline, critical path execution, Camp Pendleton demo deadline Sep 14–25, 2026)
+- **Priority:** **HIGH** (Navy SBIR government contract, compressed timeline, critical path execution, Camp Pendleton demo window Sep 14–25, 2026)
 
 - **Team Members:**
   - **Alex Lomis** (PM/Owner, technical lead) — **CRITICAL PATH**: build, test, flight operations, and Camp Pendleton demo coordination
@@ -47,29 +47,33 @@
 | 0007 | Final Report + Invoice | Jack Elston / Meredith O'hara Needham | $14,459 | **Sep 28, 2026** | **OPEN** |
 
 **Technical Milestones (Compressed Schedule):**
-| Milestone | Owner | Due Date | Status | Notes |
-|---|---|---|---|---|
-| Design of ground testing S0-MAD | — | Apr 27, 2026 | ✓ Completed | — |
-| Preliminary design mods for reusable S0-MAD | — | May 1, 2026 | ✓ Completed | — |
-| Order parts for S0-MAD reusable | — | May 5, 2026 | ✓ Completed | — |
-| **Design of onboard logging of both mag sensors** | Jack Elston | **May 8, 2026** | ✓ Recovered | Was 31 days overdue Jun 8; recovered by Jul 16 |
-| **Finalize Python plotting and analysis tools for mag data** | Maciej Stachura | **May 13, 2026** | ✓ Recovered | Was 26 days overdue Jun 8; recovered by Jul 16 |
-| **Build up ground testing S0-MAD (flight-ready)** | Alex Lomis | **May 19, 2026** | ✓ Recovered | Was 20 days overdue Jun 8; recovered by Jul 16 |
-| **Conduct ground testing with different throttle settings** | Alex Lomis | **May 22, 2026** | ✓ Recovered | Was 17 days overdue Jun 8; recovered by Jul 16 |
-| **Design of S0-AD ground launcher complete** | Alex Lomis | **Jun 5, 2026** | ✓ Recovered | Was 3 days overdue Jun 8; recovered by Jul 16 |
-| **Finalize permissions, frequencies for Camp Pendleton Demo** | Beck Cotter | **Jun 1, 2026** | ✓ Recovered | Was 7 days overdue Jun 8; recovered by Jul 16 |
-| **Build up hand-launched S0-MAD** | Alex Lomis | **Jun 12, 2026** | ✓ Likely Completed | Trailing recovery window; no current overdue signal |
-| **Build up and ground test of S0-AD Launcher** | Alex Lomis | **Jun 15, 2026** | ✓ Likely Completed | Trailing recovery window; no current overdue signal |
-| **Local test flights with hand-launched S0-MAD (both sensors)** | Alex Lomis | **Jul 1, 2026** | ✓ Likely Completed | No current overdue signal |
-| **Finalize Camp Pendleton flight plans and Aircraft** | Alex Lomis | **Aug 10, 2026** | **OPEN** | Asana task due 2026-08-10 — **NOW OPEN/APPROACHING** |
-| **Camp Pendleton demo flights (Sep 14–25)** | Alex Lomis | **Sep 14–25, 2026** | **OPEN** | Asana task due 2026-08-14 (likely placeholder); execution window Sep 14–25 |
+| Milestone | Owner | Due Date | Status | Completion Date | Notes |
+|---|---|---|---|---|---|
+| Design of ground testing S0-MAD | — | Apr 27, 2026 | ✓ Completed | — | — |
+| Preliminary design mods for reusable S0-MAD | — | May 1, 2026 | ✓ Completed | — | — |
+| Order parts for S0-MAD reusable | — | May 5, 2026 | ✓ Completed | — | — |
+| **Design of onboard logging of both mag sensors** | Jack Elston | **May 8, 2026** | ✓ Completed | — | Was 31 days overdue Jun 8; recovered by Jul 16 |
+| **Finalize Python plotting and analysis tools for mag data** | Maciej Stachura | **May 13, 2026** | ✓ Completed | Sep 9, 2026 | Was 26 days overdue Jun 8; recovered by Jul 16 |
+| **Build up ground testing S0-MAD (flight-ready)** | Alex Lomis | **May 19, 2026** | ✓ Completed | Sep 9, 2026 | Was 20 days overdue Jun 8; recovered by Jul 16 |
+| **Conduct ground testing with different throttle settings** | Alex Lomis | **May 22, 2026** | ✓ Completed | Sep 9, 2026 | Was 17 days overdue Jun 8; recovered by Jul 16 |
+| **Design of S0-AD ground launcher complete** | Alex Lomis | **Jun 5, 2026** | ✓ Completed | Sep 9, 2026 | Was 3 days overdue Jun 8; recovered by Jul 16 |
+| **Finalize permissions, frequencies for Camp Pendleton Demo** | Beck Cotter | **Jun 1, 2026** | ✓ Completed | Sep 9, 2026 | Was 7 days overdue Jun 8; recovered by Jul 16 |
+| **Build up hand-launched S0-MAD** | Alex Lomis | **Jun 12, 2026** | ✓ Completed | — | Trailing recovery window |
+| **Build up and ground test of S0-AD Launcher** | Alex Lomis | **Jun 15, 2026** | ✓ Completed | Sep 9, 2026 | — |
+| **Local test flights with hand-launched S0-MAD (both sensors)** | Alex Lomis | **Jul 1, 2026** | ✓ Completed | — | — |
+| **Camp Pendleton demo flights** | Alex Lomis | **Sep 14–25, 2026** | **IN EXECUTION** | — | Critical gate; demo window open |
 
 ## Task Summary
 
 **Asana Tracking (Current State):**
-- **Total open tasks:** 2
-  - Camp Pendleton flight plans and Aircraft (Alex Lomis) — Due 2026-08-10
-  - Camp Pendleton demo flights (Alex Lomis) — Due 2026-08-14
-- **Total completed tasks:** 2 (showing recent)
-  - ✓ CLIN 002: Submit Invoice $49,000 | Meredith O'hara Needham | Due 2025-10-14 (completed 2025-10-14) — *Note: date discrepancy; likely refers to Phase I*
-  - ✓ CLIN 001: Kick-Off Briefing Materials & FWA Certification | Due 2025-07-30 
+- **Total open tasks:** 0 (all technical prep work completed)
+- **Total completed tasks:** 6 (all marked complete Sep 9, 2026)
+  - ✓ Finalize permissions, frequencies, etc for Camp Pendleton Demo | Beck Cotter
+  - ✓ Build up and ground test of S0-AD Launcher | Alex Lomis
+  - ✓ Design of S0-AD ground launcher complete | Alex Lomis
+  - ✓ Conduct ground testing with different throttle settings | Alex Lomis
+  - ✓ Build up ground testing S0-MAD (flight-ready) | Alex Lomis
+  - ✓ Finalize Python plotting and analysis tools for mag data | Maciej Stachura
+
+**Tasks by Assignee (Completed):**
+-

@@ -4,96 +4,87 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 869.1 hours (742.4h + 126.7h)
+- **Total hours tracked:** 1,075.0 hours (1,066.6h + 8.4h)
 
 ## Team Allocation
-- **Nate:** 330.5 hours (38.02%) — *+54.8h*
-- **Jack Elston:** 213.5 hours (24.56%) — *+55.0h*
-- **Stachura:** 144.7 hours (16.65%) — *+12.5h*
-- **Spencer Hoehl:** 66.8 hours (7.69%) — *+3.4h*
-- **Ethan Domagala:** 49.9 hours (5.74%)
-- **Sam Hild:** 45.0 hours (5.18%) — *+1.1h*
-- **Kareem Ahmed:** 16.4 hours (1.89%)
-- **Alex:** 8.0 hours (0.92%)
-- **Josh Fromm:** 5.0 hours (0.58%)
+- **Nate:** 385.0 hours (35.81%) 
+- **Stachura:** 208.0 hours (19.35%) — *+2.0h*
+- **Jack Elston:** 227.5 hours (21.17%) — *+3.5h*
+- **Sam Hild:** 96.0 hours (8.93%) — *+3.9h*
+- **Spencer Hoehl:** 81.3 hours (7.56%)
+- **Josh Fromm:** 29.0 hours (2.70%)
+- **Ethan Domagala:** 49.9 hours (4.64%)
+- **Kareem Ahmed:** 16.4 hours (1.53%)
+- **Alex:** 8.0 hours (0.74%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
-### Most Recent Work (Current Batch — 126.7h)
-**Deployment Operations & Travel Focus**
+### Most Recent Work (Current Batch — 8.4h)
+**Technical Debugging, QC Operations & Planning**
 
-- **Jack Elston** (55.0h):
-  - Travel to Hawaii (10.5h)
-  - Flight on Lala aircraft (13.8h + 13.2h = 27.0h)
-  - Log processing (1.2h)
-  - Deployment Planning (1.5h + 1.5h = 3.0h)
-  - ET/Streamsonde/S0 UxS deployment — Hawaii (0.5h)
-  - ET possible deployment(s) — Hawaii and/or STX (0.5h)
-  - Data Processing (7.5h)
-  - Hold: LALA ET mini Debrief (1.5h)
-  - List of Fixes (0.5h)
-  - Possible ET missions (Hawaii redux?) (0.8h)
-  - Remote Support (2.0h)
+- **Sam Hild** (3.9h):
+  - QC: Organizing (1.3h)
+  - Undescribed (2.6h)
 
-- **Nate** (54.8h):
-  - All entries undescribed (54.8h = 100%)
+- **Jack Elston** (3.5h):
+  - Debugging PSNS v05 (1.2h)
+  - HFP-APHEX Call / AL98/Pacific System (0.5h)
+  - Remaining ET Hours Planning (0.8h)
 
-- **Stachura** (12.5h):
-  - All entries undescribed (12.5h = 100%)
-
-- **Spencer Hoehl** (3.4h):
-  - All entries undescribed (3.4h = 100%)
-
-- **Sam Hild** (1.1h):
-  - Undescribed (1.1h = 100%)
+- **Stachura** (2.0h):
+  - Undescribed (2.0h = 100%)
 
 ### Prior Activity Patterns
-(See prior knowledge file — extensive Ground Control Station, QC, assembly, firmware, mag calibrations, deployment tube, sonde QC, log processing, autopilot rework documented)
+(Extensive deployment operations, Ground Control Station work, assembly, firmware, mag calibrations, sonde QC, data processing — see prior documentation)
 
 ## Insights
 
 ### Work Types (Current Batch)
-- **Hawaii deployment operations:** 27.0h (aircraft ops — Jack Elston)
-- **Deployment planning & logistics:** ~11.8h (Jack)
-- **Travel:** 10.5h (Jack)
-- **Data processing & analysis:** 8.7h (Jack)
-- **Undescribed:** 126.7h − 58.2h = **68.5h undescribed** (54.0%)
+- **Technical debugging & systems:** 1.2h (PSNS v05 - Jack Elston)
+- **Meetings/coordination:** 0.5h (HFP-APHEX Call - Jack Elston)
+- **Planning:** 0.8h (ET Hours Planning - Jack Elston)
+- **QC operations:** 1.3h (organizing - Sam Hild)
+- **Undescribed:** 3.6h (42.86%)
 
 ### Documentation Status
-- **Current batch:** 58.2h documented / 126.7h submitted = **45.94% compliance**
-  - *Significant improvement driven entirely by Jack Elston*
-  - Jack: 48.0h described / 55.0h = 87.27% (excellent)
-  - Nate: 0h described / 54.8h = 0% (no change)
-  - Stachura: 0h described / 12.5h = 0% (no change)
-  - Spencer Hoehl: 0h described / 3.4h = 0% (pattern continues)
-  - Sam Hild: 0h described / 1.1h = 0%
+- **Current batch:** 4.8h documented / 8.4h submitted = **57.14% compliance**
+  - *Significant recovery from prior batch (18.13%)*
+  - **Jack Elston:** 3.5h described / 3.5h = **100%** (consistent excellence)
+  - **Sam Hild:** 1.3h described / 3.9h = **33.33%** (improvement from 0%)
+  - **Stachura:** 0h described / 2.0h = **0%** (persistent pattern)
 
-- **Overall project:** 270.7h documented / 869.1h total = **31.15% documented**
-  - *Modest improvement from 28.62% (prior batch)*
+- **Overall project:** 311.3h documented / 1,075.0h total = **28.97% documented**
+  - *Minor recovery from 28.73%*
 
-- **Undescribed backlog:** 598.4h (68.85% of project)
-  - **Nate:** 330.5h undescribed (100.00%) — *+54.8h undescribed*
-  - **Stachura:** 144.7h undescribed (100.00%) — *+12.5h undescribed*
-  - **Spencer Hoehl:** 66.8h undescribed (100.00%) — *+3.4h undescribed* ⚠ **PATTERN PERSISTS**
-  - **Jack Elston:** 165.5h undescribed (77.51%) — *+7.0h documented (good)*
-  - **Sam Hild:** 45.0h undescribed (100.00%)
+- **Undescribed backlog:** 763.7h (71.03% of project)
+  - **Nate:** 385.0h undescribed (100.00%)
+  - **Stachura:** 182.2h undescribed (87.50%) — *+1.5h undescribed*
+  - **Sam Hild:** 94.7h undescribed (98.66%) — *+2.6h undescribed*
+  - **Spencer Hoehl:** 81.3h undescribed (100.00%)
+  - **Josh Fromm:** 29.0h undescribed (100.00%)
+  - **Jack Elston:** 162.0h undescribed (71.23%)
 
-### Patterns & Insights
+### Critical Patterns & Alerts
 
-**Spencer Hoehl — Pattern Escalation:**
-- **Third consecutive batch with 0% documentation** (3.4h now; prior: 3.6h + 0.8h)
-- **Total undescribed: 66.8h (100% of Spencer's time)**
-- **No improvement despite prior recommendations** — systemic non-compliance
+**✓ Positive Trend — Jack Elston Drives Recovery:**
+- Current batch compliance jumped to 57.14% (driven by Jack Elston's 100% documentation)
+- Demonstrates technical work paired with descriptive entries (PSNS debugging, HFP-APHEX coordination)
 
-**Nate & Stachura — Unchanged Backlog Crisis:**
-- **Nate:** 54.8h added to 267.7h existing = 322.5h undescribed (no retroactive work)
-- **Stachura:** 12.5h added to 129.3h existing = 141.8h undescribed (no retroactive work)
-- **Combined:** 464.3h undescribed (53.4% of entire project)
-- **Zero escalation response observed** — prior recommendations unexecuted
+**Sam Hild — Partial Recovery:**
+- First improvement from 0% to 33.33% compliance
+- QC organizing work now documented; however, 2.6h still undescribed
+- Requires sustained documentation discipline
 
-**Jack Elston — Positive Outlier:**
-- Only team member maintaining documentation discipline
-- Hawaii deployment documentation (travel, flights, deployment planning) well-tracked
-- 87.27% compliance rate in current batch (vs. 0% across all others)
--
+**Stachura — Unchanged Non-Compliance:**
+- Remains 0% on current batch entries
+- 1.5h new undescribed time continues established pattern
+- Cumulative undescribed: 182.2h
+
+**Spencer Hoehl & Josh Fromm — Persistent Zero Documentation:**
+- No activity in current batch
+- Prior undescribed backlogs remain: 81.3h (Spencer), 29.0h (Josh)
+
+**Nate — No Activity This Batch:**
+- 385.0h cumulative undescribed backlog unchanged
+- Represents 35.81% of total project time — largest single contributor to documentation gap

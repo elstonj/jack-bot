@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,521,711.08
+- **Total Expenses (Payments):** $3,596,711.08
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,521,710.08
-- **Date Range:** 2024-04-05 to 2026-07-31 (27 months, 26 days)
+- **Net Position:** -$3,596,710.08
+- **Date Range:** 2024-04-05 to 2026-09-15 (28 months, 11 days)
 
 ---
 
@@ -25,8 +25,6 @@
 
 **Note:** Transaction data includes explicit account coding on select line items. Below is the **updated categorization** incorporating newly coded transactions and provisional estimates for untagged items:
 
-### Expense Breakdown by Cost Category
-
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
@@ -35,15 +33,10 @@
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$973.82 | 10 | QuickBooks Payments fees (cumulative: $870.82), **Pinnacol Assurance insurance ($103.00)** |
+| **Indirect Costs / G&A** | ~$973.82 | 10 | QuickBooks Payments fees (cumulative: $870.82), Pinnacol Assurance insurance ($103.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
-| **Other / Unallowable** | ~$0.01 | 1 | **Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs]** |
-| **TOTAL** | **$3,521,711.08** | **107** | — |
-
-**⚠️ Limitation:** Without detailed account-level coding on each line item, precise cost categorization remains incomplete. **To improve cost tracking, recommend:**
-1. Require all QB transactions to include account/cost-category tags
-2. Implement project-to-cost-code mapping in QB setup
-3. Link QB data with Drive budget files for full reconciliation
+| **Other / Unallowable** | ~$0.01 | 1 | Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs] |
+| **TOTAL** | **$3,596,711.08** | **109** | — |
 
 ---
 
@@ -53,6 +46,7 @@
 |--------------|--------------|-----------|-----------|
 | (400-5) | SMM Phase II 22.4D | $949,725.10 | 7 |
 | [301-3] | S0 Hurricane Phase II 2025 | $935,473.80 | 11 |
+| **[300-3]** | **2026 IDIQ** | **$182,000.00** | **5** |
 | [550-1] | Navy SBIR Magnetometer | $213,000.00 | 4 |
 | [550-2] | Navy STTR Hazardous Weather | $221,071.00 | 5 |
 | [043-2] | By Light Mustang | $450,000.00 | 6 |
@@ -82,7 +76,6 @@
 | [038] | University of Maryland | $1,488.00 | 2 |
 | [034] | University of Virginia | $492.50 | 1 |
 | [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 |
-| [300-3] | 2026 IDIQ | $108,000.00 | 3 |
 | (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 |
 | (unclassified) | Phase1 Aviation | $6,105.00 | 1 |
 | (unclassified) | Krateo Sky | $10,860.48 | 1 |
@@ -91,14 +84,10 @@
 | (unclassified) | NOAA UASD | $4,580.00 | 1 |
 | (unclassified) | IRISS, CU Boulder | $664.98 | 1 |
 | (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 |
-| (unclassified) | **Pinnacol Assurance** | **$103.00** | **1** |
-| (unclassified) | **Jack Elston – v** | **$0.01** | **1** |
+| (unclassified) | Pinnacol Assurance | $103.00 | 1 |
+| (unclassified) | Jack Elston – v | $0.01 | 1 |
 | (unclassified) | QuickBooks Payments Fees | $870.82 | 8 |
-| **TOTAL** | | **$3,521,711.08** | **107** |
-
-**July 2026 Updates (New):**
-- **Pinnacol Assurance:** +$103.00 (Bill #adj 2026-07-30; [Indirect Cost:Insurance Exp] — clearing AP)
-- **Jack Elston – v:** +$0.01 (Bill 2026-07-30; [UNALLOWABLE GA:UC-Other Costs])
+| **TOTAL** | | **$3,596,711.08** | **109** |
 
 ---
 
@@ -123,4 +112,16 @@
 | 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) | — |
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
-| 2025-09 | $112
+| 2025-09 | $112,000.00+ | *[Previous summary cut off]* | — |
+| 2026-08 | $0.00 | — | No QB transactions recorded |
+| **2026-09** | **$74,500.00** | **2026 IDIQ ($74,500)** | **NEW: Two payments ($16K + $58.5K) to [300-3] 2026 IDIQ on 2026-09-04** |
+
+---
+
+## Notable Transactions
+
+### Recent Activity (August–September 2026)
+
+**2026 IDIQ Project Funding:**
+- **2026-09-04 | $16,000.00** → [300-3] 2026 IDIQ
+- **2026-09-04 | $58,500.00** → [

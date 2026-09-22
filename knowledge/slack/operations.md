@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics), Brian Sheffield (external contact), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through August 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through August 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, and facility expansion. Most recent activity (August 26, 2026) reflects IP WBS project mapping, equipment troubleshooting, and remote device management.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through September 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through September 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, and cross-organizational coordination with KS (partner organization). Most recent activity (September 18, 2026) reflects equipment receipts, facility maintenance coordination, and NASA S2 pallet logistics.
 
 ---
 
@@ -17,7 +17,8 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **August 2023:** Alex installed garage door seal for improved weatherproofing.
 - **June 11, 2026:** Ben Busby addressing sprinkler valve maintenance at facility.
 - **August 21, 2026:** Adjacent space (next door bakery) made partially accessible for BST use. Front entrance combo: `2372`, inner door combo: `2011`. Bakery has access to front (their bathroom is broken). Limitations: BST limited to large item storage and assembly table setup until build-out design finalized. Back offices off-limits (carpeting in progress). Inner door must remain locked to control access.
-- **August 18, 2026:** Air compressor procurement approved. Joshua Fromm's personal compressor taken home previously. Two options researched: Husky 20-gal 200-PSI ($) vs. DEWALT 26-gal 175-PSI quieter model. Jack Elston approved either option; Cory Dixon recommended quieter DEWALT model. Decision appears pending final selection, though Ethan Domagala humorously noted existing bike pump availability.
+- **August 18, 2026:** Air compressor procurement approved. Joshua Fromm's personal compressor taken home previously. Two options researched: Husky 20-gal 200-PSI vs. DEWALT 26-gal 175-PSI quieter model. Jack Elston approved either option; Cory Dixon recommended quieter DEWALT model. Decision appears pending final selection, though Ethan Domagala humorously noted existing bike pump availability.
+- **September 18, 2026:** Joshua Fromm identified back door of new office as requiring locksmith service—door doesn't lock properly. No decision/action recorded yet.
 
 ### Personnel & Management
 - **June 2, 2023:** James Hannon hired as new Project Manager to address task overload and process improvements.
@@ -26,6 +27,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **June 3, 2026:** Jack Elston presented draft organizational chart for team review and refinement. Beck Cotter assigned to coordinate feedback on job descriptions via Slack/email. Career path discussions directed to Jack Elston.
 - **June 15, 2026:** Kareem returning to work at 12:00 PM. Jack Elston soliciting input on task assignment options: S0 components assembly, ground station completion, or slide project work. Division of labor coordination initiated with relevant team members regarding wildfire video project completion.
 - **July 27, 2026:** Beck Cotter now tracking S0 shipment and logistics status (transitioned from Joshua Fromm). Jack Elston assigned to create login access for Beck.
+- **August 31, 2026:** Cory Dixon coordinating with Sona to schedule BST and KS (partner organization) all-hands meeting. Scheduled for Wednesday morning. S0 Wednesday team meetings rescheduled to accommodate.
 
 ### Equipment Procurement & Infrastructure
 - **December 2023:** Drill press acquisition decision pending. Joshua Fromm researching floor-mounted options (Nova 58000 Voyager, Grizzly models) with ~$500+ budget needed for tooling. Jack Elston requested spreadsheet comparison for budget approval.
@@ -35,6 +37,8 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **June 9, 2026:** Joshua Fromm checking on status of Gateworks package received from DigiKey; following up with Ben Busby for tracking information.
 - **June 12, 2026:** BST Steam Deck ordered and tracked via UPS. Ben Busby reports expedited shipping arriving Monday (June 17, 2026), faster than originally stated delivery timeline.
 - **July 31, 2026:** Jack Elston acquired new computing infrastructure for two purposes: (1) git server replacement, (2) external workstation to reduce laptop battery drain. Jack Elston's test scores: 806.0 and 390.6 on OnShape CAD compatibility check. Team running CAD performance benchmarks across devices (Joshua Fromm, Maciej, Alex Lomis, Dan Prendergast comparing OnShape check scores). Discussion of hardware optimization for CAD work; noted potential limitations in GPU/graphics performance on some machines.
+- **August 28, 2026:** S3 cases from MM (brand new) scheduled for Monday delivery. Joshua Fromm coordinating logistics.
+- **September 18, 2026:** Navy mag (electronics/equipment) ordered by Joshua Fromm arrived via Amazon. Meredith Needham received package and requested pickup.
 
 ### Lithium Battery Shipping (April 2022 - ongoing)
 **Major compliance discovery:** E2 and S2 batteries cannot be shipped internationally without hazmat certification. Multiple carriers (UPS, DHL) rejected shipments.
@@ -51,10 +55,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **May-June 2026 Mexico/Import Coordination:** Dan Prendergast identified historical correspondence regarding battery shipments to Mexico. Discovery that ECCN (Export Control Classification Number) was not obtained for batteries; Mexico import was processed as permanent import rather than temporary export. Dan coordinating with customs broker Javi to clarify procedures. Jack Elston deferred response pending additional information (May 27, 2026).
 
-**June 30, 2026 - Battery Import Authorization:** Dan Prendergast requested permission from Jack Elston to sign power of attorney document from Robert Correia (Aeronet/customs broker) to facilitate return of BST battery into the US. Jack Elston approved authorization (June 30, 2026).
-
-### Remote ID (RID) Implementation
-- **November 20, 2023:** S1 RID accepted by FAA and became selectable in FAA database (RID000001894). Expanded to S0, S3, and other aircraft platforms through testing protocols established by Jack Elston and team.
-
-### Project Numbering System (September 2023)
-- **September 18, 2023:** Meredith Needham finalized customer/project numbering system with specific codes: 200=NASA, 300=NOAA, 350=USGA, 400=Air Force, 450=CU Boulder, 500
+**June 30, 2026 - Battery Import Authorization:** Dan Prendergast requested permission from Jack Elston to sign power

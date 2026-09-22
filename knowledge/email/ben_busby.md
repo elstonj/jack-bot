@@ -1,91 +1,108 @@
 # Ben Busby — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 97 emails (88 previous + 9 new)
-- **Date range:** 5 Aug – 27 Aug 2026
+- **Total messages scanned:** 229 emails (163 previous + 66 new)
+- **Date range:** 5 Aug – 21 Sep 2026
 - **Volume:** Moderate activity — approximately 3-5 emails per day during scanned period
-  - Note: Significant volume includes automated service notifications and recruiting updates; direct human correspondence lower
-  - **New data period (26-27 Aug):** 9 emails in 2 days; mix of recruiting updates, Slack notifications, and promotional content
+  - **Latest period (15–21 Sep):** 16 emails over 6 days; continued mix of Slack notifications, promotional content, and operational emails
+  - Direct human correspondence remains lower than total volume; automation/service notifications substantial (Slack, Backblaze, Google, administrative services)
 
 ## Key Correspondents
 
 ### Top Internal Collaborators
-1. **Jack Elston** (elstonj@blackswifttech.com) — Frequent collaborator; primary point of contact for external partnerships (Krateo Sky, marketing work); appears in new recruiting coordination
-2. **Maciej Stachura** (stachura@blackswifttech.com) — Recurring team member in recruiting and collaboration emails; direct Slack messages (recent direct message Aug 27)
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — IT/infrastructure support; recent direct Slack message (Aug 26)
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Security-related correspondence (Raven cyber security questionnaire)
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Emerging as frequent contact; S3 Rev B Kickoff (Cold Weather Development) project leadership; multiple Slack notifications indicating active direct messaging
+2. **Jack Elston** (elstonj@blackswifttech.com) — Primary point of contact; Krateo Sky partnerships, recruiting coordination, marketing work; **NEW: Recent Slack activity (Sep 17, 15)** mentioning Ben in channel discussions (#Maciej and Jack)
+3. **Maciej Stachura** (stachura@blackswifttech.com) — Recurring collaborator; recruiting, group conversations; **NEW: Direct Slack message to Ben (Sep 17)**
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — Elevated activity; **NEW: Direct email Sep 16 regarding entity info update issue** (CC: Raquel Roberts from Deel); forwarding marketing work; coordinating website updates
+5. **Brent Keefer** (brent.keefer@blackswifttech.com) — IT/Security; MFA setup coordination
+6. **Raquel Roberts** (raquel.roberts@deel.com) — **NEW: External contact** — Deel payroll/HR integration; coordinating with Meredith on entity information updates (Sep 16)
 
-### Top External Senders/Partners
-1. **Krateo Sky Team** (multiple contacts):
-   - **Cory Dixon** (cory@krateosky.com) — Recruiting coordination lead; active in Slack conversations (Aug 26)
-   - **Thibault Bridel-Bertomeu** (thibault@krateosky.com) — Partnership/introduction coordination
-   - **Pam Kermisch** (pam@krateosky.com) — Marketing/website work coordination (IMPORTANT reply on marketing work Aug 26)
-   - **Tim Hegwood** (tim@hegwood.com) — Calendar/collaboration initiatives
-   - **Brian Grubel** (brian@krateosky.com) — Recruiting coordination
+### External Contacts (Updated)
+1. **Krateo Sky Team** (continued):
+   - Cory Dixon, Pam Kermisch, Thibault Bridel-Bertomeu, Brian Grubel
 
-2. **Triza Codillo** (triza.codillo@creativealignments.com) — Recruiting coordinator; most recent submission: Ali Sulehria (Manufacturing/Production Engineer candidate, Aug 26, marked IMPORTANT)
+2. **Chris Lachtna** (chris.lachtna@stationopsops.com) — AWS/enterprise edge platform discussion
 
-3. **Jessica Ellis** (jessica@clientfy.co) — Savant AI partnership contact
+3. **Scott McFarland** (smcfarla@redhat.com) — Enterprise edge platform stability
 
-4. **Jacob Bodimeade** (jacob.bodimeade@verifiedelectronics.com) — Verified Electronics business development
+4. **Triza Codillo** (triza.codillo@creativealignments.com) — Recruiting pipeline
+
+5. **Chase Neely** (via admin) — **NEW: Internal/administrative contact** — Email thread regarding Jack at Black Swift Technologies (Sep 17)
 
 ### Promotional/Service Senders (Updated)
-- **Verizon Business** (communications@b2binfo.verizonwireless.com, jose.torres3@verizonwireless.com) — SMB Days promotional campaign (Aug 26, marked IMPORTANT by system)
-- Previous patterns continue: Backblaze, Tailscale, Firebase, Google Analytics, WPForms, MonsterInsights, UnitedHealthcare, Slack notifications
+- **Backblaze** — Continues aggressive campaign: Sep 17 Cloud Storage Updates email marked IMPORTANT
+- **Slack Notifications** — Continued high volume: Sep 17 (Maciej direct message, Jack channel mention), Sep 15 (group messages from Jack and Maciej)
+- **Google Analytics** — Sep 18 performance report (Aug 22 – Sep 18 period) marked IMPORTANT
+- **WPForms** — Weekly website summary (Sep 21)
+- **NASA SBIR / agency-sbir** — **NEW: Phase II Proposal Feedback** — Duplicate emails Sep 19 20:52 and 20:56 UTC; indicates NASA SBIR Phase II activity (not just Phase I)
+- **Concentra (Health Services)** — **NEW: Flu shot availability notice** (Sep 17) — company health benefits
+- **JustRide** — **NEW: Company transportation program** — Black Swift Technologies LLC Pass Program welcome (Sep 17)
+- **Starlink** — **NEW: Service Activation Confirmation** (Sep 16) — company internet/connectivity service for bst.aero domain
+- **Elevations Credit Union** — Bill Pay subscriber information (Sep 16)
+- **Everything But Stromboli** — Promotional flash drives/SD cards (Sep 21)
+- **Continued:** Firebase, Tailscale, UnitedHealthcare, Google, Rippling, Human Interest, Hetzner, MonsterInsights
 
 ## Topic Patterns
 
-### Active Projects/Partnerships
-1. **Krateo Sky Partnership** — Continues as primary focus:
-   - **Manufacturing/Production Engineering Recruiting** — Ongoing candidate submissions (Ali Sulehria, Aug 26); includes Cory Dixon, Brian Grubel, Thibault Bridel-Bertomeu coordination
-   - **Website/Marketing Work** — Pam Kermisch sending IMPORTANT update on marketing deliverables (Aug 26)
-   - **Slack-based coordination** — Active group conversations with Jack Elston, Cory Dixon on Aug 26
+### Active Projects/Partnerships (Updated)
+1. **S3 Rev B Kickoff (Cold Weather Development)** — High-priority hardware/systems development project with cross-functional team (Daniel Prendergast leading; ongoing into mid-September)
 
-2. **Savant AI x Black Swift Technologies** — Partnership/integration project (continued from previous data)
+2. **Krateo Sky Partnership** — Continues as primary focus (website updates, recruiting, marketing deliverables)
 
-3. **Verified Electronics** — Business development (continued from previous data)
+3. **Enterprise Edge Platform / AWS Migration** — Strategic initiative with Chris Lachtna (StationOps) and Scott McFarland (RedHat)
 
-4. **NASA SBIR Phase I** — Proposal updates (continued from previous data)
+4. **NASA SBIR Phase II Proposal** — **NEW: Phase II stage confirmed** — Feedback received Sep 19; indicates successful Phase I completion and advancement to Phase II (Phase II proposal now under evaluation)
 
-### Infrastructure & Operations
-- **bst.aero domain** — Website and analytics (continued)
-- **Xcel Energy** — Utility/energy services account (payment confirmation Aug 26)
-- Previous cloud infrastructure and CMMC certification work continues
+5. **Savant AI x Black Swift Technologies** — Partnership/integration project
+
+6. **Verified Electronics** — Business development
+
+### Infrastructure & Operations (Updated)
+- **bst.aero domain** — Website analytics, email services
+- **Starlink** — **NEW: Service activated Sep 16** — primary internet connectivity for operations (likely for remote site or critical infrastructure)
+- **Hetzner cloud infrastructure** — Hosting/CDN
+- **AWS** — Billing and infrastructure
+- **Security/Compliance:** MFA updates, Google Workspace alerts, Concentra health services
+- **Payroll/HR:** Deel integration (entity information coordination with Raquel Roberts)
+- **Company Benefits:** Health (Concentra flu shots), Transportation (JustRide pass program), Retirement (Human Interest 401k), Banking (Elevations Credit Union)
+
+### Website/Marketing Content
+- **Aeropods** — Product/service initiative
+- **Job listings** — Recruiting visibility
+- **bst.aero analytics** — Monthly reporting (Sep 21 WPForms summary)
 
 ## Communication Patterns
 
-### Email Timing
-- **Recent activity clustering:** 8 of 9 new emails on Wed, 26 Aug (14:00-19:00 UTC window and early morning 05:10 UTC); 1 on Thu 27 Aug at 02:09 UTC
-- **Peak activity continues:** Mondays and Fridays for recruiting updates; mid-week (Wed Aug 26) shows active partnership coordination and candidate submissions
-- **Slack notification frequency:** 4 Slack notifications in 4 hours (14:00-15:30 UTC Aug 26) suggests active group conversation
+### Email Timing & Frequency
+- **Recent clustering:** High activity Sep 15, 17, 19, 21 (weekday business hours)
+- **Slack notification surge continues:** 3 notifications in latest 6-day period (Sep 15, 17 x2) from Maciej and Jack, indicating active real-time collaboration
+- **Weekend/off-hours activity:** NASA SBIR feedback Sat Sep 19 20:52-20:56 UTC (automated system)
+- **Service activation emails:** Thu Sep 17 cluster (Concentra, JustRide, Slack) suggests coordinated onboarding or company announcement week
 
-### Mailing Lists & Groups
-- **BST Mfg/Prod Eng Weekly Recruiting Updates** — Triza Codillo coordinating; distribution list unchanged (Cory, Jack, Brian, Maciej, Thibault, Ben)
-- **Krateo Sky Slack Channel** — Active conversations with Jack Elston, Cory Dixon (Aug 26)
-
-### Marked as IMPORTANT
-- Recent emails marked IMPORTANT by system/recipient:
-  - Triza's candidate submission (Ali Sulehria) — Aug 26
-  - Pam Kermisch's marketing work reply — Aug 26
-  - Verizon SMB Days promo — Aug 26 (system-marked, likely false positive)
-  - Multiple Slack notifications — Aug 26-27
+### Marked as IMPORTANT (Latest Period)
+- Meredith Needham entity info update email (Sep 16)
+- Google Analytics performance report (Sep 18)
+- Backblaze Cloud Storage Updates (Sep 17)
+- Multiple Slack notifications (Sep 17, 15) — Jack and Maciej mentions
+- Concentra flu shots notice (Sep 17)
+- JustRide pass program welcome (Sep 17)
+- Starlink service activation (Sep 16)
 
 ## Key Relationships
 
-### Primary Internal Collaborators
-1. **Jack Elston** — Direct Slack collaboration ongoing (Aug 26); involved in all Krateo Sky initiatives
-2. **Maciej Stachura** — Direct Slack message received (Aug 27, marked IMPORTANT); recruiting team member
-3. **Meredith Needham** — Direct Slack message received (Aug 26, marked IMPORTANT); IT support relationship
-4. **Cory Dixon** (Krateo Sky) — Active Slack conversations (Aug 26); recruiting coordination
+### Closest Internal Collaborators (by frequency)
+1. **Daniel Prendergast** — S3 Rev B project owner; cross-functional leadership
+2. **Jack Elston & Maciej Stachura** — Active ongoing Slack collaboration; Jack mentioning Ben in channel discussions (#Maciej and Jack)
+3. **Meredith Needham** — Operational/administrative coordination (website, recruiting, payroll/HR integration)
 
-### External Relationships
-- **Pam Kermisch** (Krateo Sky) — Marketing deliverables coordination; IMPORTANT follow-up suggests progress on website/marketing work
-- **Triza Codillo** — Consistent recruiting pipeline; Ali Sulehria submission continues pattern
+### Important External Relationships
+1. **Krateo Sky partnership team** — Marketing and recruiting coordination
+2. **StationOps (Chris Lachtna)** — Cloud architecture/AWS strategy discussions
+3. **RedHat (Scott McFarland)** — Enterprise platform stability/compatibility
+4. **Deel (Raquel Roberts)** — Payroll/HR systems integration (Sep 16 active troubleshooting)
 
 ## Notable Observations
 
-- **Slack as primary communication hub:** 4 of 9 new emails are Slack notifications (44%), indicating most real-time collaboration happens in Slack rather than email
-- **Recruiting pipeline remains active:** Consistent weekly submissions from Triza Codillo maintaining Manufacturing/Production Engineer candidate flow
-- **Marketing work with Krateo Sky moving forward:** Pam Kermisch's IMPORTANT reply on Aug 26 suggests project progress or decision point
-- **Direct messages from key internal contacts:** Both Maciej and Meredith sent direct Slack messages that triggered notifications in Ben's email (Aug 26-27), suggesting Ben may not be continuously monitoring Slack
-- **Promotional email volume:** Verizon Business aggressively marketing; marked IMPORTANT by system despite being promotional (suggests email filtering could be refined)
+- **NASA SBIR progression:** Phase II stage now active (Sep 19 feedback), indicating successful Phase I and advancement in federal grant process
+- **Infrastructure expansion:** Starlink activation (Sep 16) suggests expansion into remote site or backup connectivity critical to operations
+- **Company growth signals:** Multiple new benefits/services activated week of Sep 15-17 (health, transportation

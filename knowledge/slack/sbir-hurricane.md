@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, Ethan Domagala, Spencer Hoehl, and Cory Dixon.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, Ethan Domagala, Spencer Hoehl, Cory Dixon, Joe (AOC contact), and Thinh (contract manufacturing contact).
 
 ## Key Decisions
 
@@ -31,9 +31,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
 - Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft; characterized by ability/inability to accept higher power charging (July 8, 2026)
 - Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
-- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors delayed repeatedly (mid-August to late August 2026, with additional delays through end of month)
+- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026, with single motor delivered September 3-4, 2026 and batch in QC/performance testing by September 8, 2026; Joshua Fromm awaiting update on Vertiq delivery status as of mid-September (September 17-18, 2026)
+- **Grey vs. Red Parachute Caps:** Grey parachute caps identified as superior design for clean chute deployment vs. red caps; grey caps should be used for video tube aircraft (September 19, 2026)
 
-**Ground Control Station Operations (April-August 2026):**
+**Ground Control Station Operations (April-September 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
 - GCS firmware updates for dual-channel radio control implemented (April 2026)
 - Use of Channel 1 designated for flight operations over Avon Park (April 2026)
@@ -55,18 +56,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **Microhard Radio Configuration:** Implemented ATS108=30 setting to improve radio stability at 115200 baud rate (August 15, 2026)
 - **GCS Channel A/B Port Configuration:** Tablet for channel A uses port 55555, B uses 55556 (August 20, 2026)
 
-**Humidity Sensor Configuration (April 2026):**
+**Humidity Sensor Configuration (April-September 2026):**
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
 - New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
 - Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
 - Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
 - Reconditioning cycle confirmed effective for correcting humidity sensor bias (April 17, 2026)
 - **PSNS v0.5 QC Process Update:** New PSNS boards arriving, require new QC process and updates to QC site dropdown (late August 2026)
-
-**Display Aircraft Production (April-May 2026):**
-- Approved production of 4 display S0 units: 2x 2025 models for near-term delivery (end of May target), 2x 2026 models for early-mid July delivery (April 21, 2026)
-- Display units to ship without tripods/mounts/carry cases in cardboard tubes or boxes, shipped folded (April 22, 2026)
-- Special thicker-skin wings to be commissioned for display models to improve appearance (April 21, 2026)
-- Wing springs and antenna NOT to be pre-installed on display units to reduce shipping damage risk (April 22, 2026)
-
-## Projects & Initiatives
+- **PSNS Board Manufacturing Issues (September 2026):** R60 resistor incorrectly populated on all new PSNS boards despite BOM marking it as DNP (Do Not Populate); boards won't power

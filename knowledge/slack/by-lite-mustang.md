@@ -5,21 +5,22 @@
 This channel tracks the development and flight testing of the **By Light Mustang aircraft**, a customer contract for the U.S. Air Force testing at Yuma. The project uses a two-phase approach: first flying the original Mustang to demonstrate its limitations for the 400km range mission, then developing the new Chilli airframe to meet full mission specs (400km range at 30m/s cruise with 4kg payload).
 
 **Key Participants:**
-- Maciej (project lead, flight operations, task oversight, weight/design decisions)
-- Ethan Domagala (design, CAD optimization, measurements, avionics integration, ByLight liaison)
+- Maciej (project lead, flight operations, task oversight, weight/design decisions, performance analysis)
+- Ethan Domagala (design, CAD optimization, measurements, avionics integration, ByLight liaison, flight testing)
 - Dan Prendergast (flight test coordination)
 - Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
 - Bryan Sparling (ByLight pilot/contact, invoice/payment coordination)
 - Beck Cotter (program management, SOW coordination)
-- Dan H., Terry Tate, Spencer (contractors/specialists)
+- Dan H., Terry Tate, Spencer Hoehl (contractors/specialists, vehicle support)
 - Alex Lomis (components/inventory, battery design, manufacturing analysis)
 - Joshua Fromm (design input/materials)
 - Mel (ByLight decision-maker)
 - Meredith Needham (invoicing/accounting)
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
+- Kate (likely team member with vehicle access)
 
-**Activity Level:** High, covering October 2025 through August 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (August 19, 2026) indicates ByLight carbon fiber fuselage manufacturing is complete with delivery expected Friday via FedEx.
+**Activity Level:** High, covering October 2025 through September 2026, with regular flight tests, design iterations, and scope management updates. Most recent activity (September 21, 2026) reveals critical performance issues with new fuselage design requiring urgent investigation.
 
 ## Key Decisions
 
@@ -92,16 +93,14 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - **Approach:** Maciej instructed Ethan to request ByLight provide 3 lightest variants; Maciej plans to select the absolute lightest configuration regardless of other trade-offs
 - **Status:** Craig likely to begin fuselage printing next week (week of June 9, 2026)
 
-**June 5, 2026 – Manufacturing Infill Specifications (PENDING)**
+**June 5, 2026 – Manufacturing Infill Specifications (FLAGGED)**
 - Alex Lomis flagged concern: ByLight manufacturing plan specifies **0% infill shell** for carbon fiber 3D-printed fuselage
 - **Technical Concern:** 0% infill creates hollow shell with minimal structural support; suboptimal for an airframe
 - **Recommended Alternative:** Variable infill design with solid structural members in critical areas and lower infill in non-critical sections (leveraging 3D printing advantages)
 - **Status:** Concern raised but implementation unclear; awaits clarification on final infill strategy and approval authority (likely needs Ethan/Maciej direction to ByLight)
 
-## Projects & Initiatives
+**August 19, 2026 – Fuselage Delivery Expected**
+- ByLight carbon fiber fuselage manufacturing indicated as complete with delivery expected Friday via FedEx
 
-### Mustang 1.0 (Original Aircraft) – COMPLETED
-- **Status:** Flight testing completed, shipped to ByLight for static display
-- **Specs:** 5400-5717g AUW, single KDE 4215 motor, 6S 518.4Wh battery
-
-### Chilli Airframe (Phase 2
+**September 11, 2026 – CRITICAL: Fuselage Manufacturing Failure & Project Status**
+- **Issue

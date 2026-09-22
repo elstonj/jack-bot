@@ -14,8 +14,8 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 
 ## Key Contacts
 - **General POC:** Geoffrey Bland
-  - **NASA email:** geoffrey.l.bland@nasa.gov (retired August 2025)
-  - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com
+  - **NASA email (retired):** geoffrey.l.bland@nasa.gov (retired August 2025)
+  - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com (preferred contact)
   - **Current role:** Manages/runs Aeropods project post-retirement from NASA
   - **Location:** Goddard Space Flight Center, Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
   - **Organization:** NASA Ames
@@ -27,9 +27,9 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **Status:** Completed testing phase (October 2025)
 
 ## Task Summary
-- **Total Tasks:** 0 open, 1 completed
-- **Completed Tasks:** 
-  - Shut down project (Meredith O'hara Needham) — Due 2025-08-29, completed 2025-08-26
+- **Total Tasks:** 1 open (unassigned), 0 completed
+- **Open Task:**
+  - Geoffrey Bland (Aeropods) contact record — Unassigned, no due date — High priority
 
 ## Recent Activity
 - **Project archived August 2025** — ahead of original 2026-03-02 due date
@@ -37,11 +37,13 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **Geoffrey Bland retired from NASA (end of August 2025)**; project shut down before his retirement
 - **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
+- **[2026-08-24 & 2026-08-25] NASA Glenn Icing Research Tunnel testing rate:** Daniel Prendergast provided reference data — $55k–$60k per day of testing (for context on future NASA testing opportunities)
 
 ## Notes & Context
 - Project is fully archived with all closeout tasks complete
 - No subcontractors involved
-- Geoffrey Bland remains active in Aeropods domain via personal email addresses (gbaerokats@gmail.com, geodronez@gmail.com preferred over retired NASA address)
+- Geoffrey Bland remains active in Aeropods domain post-NASA retirement; use personal email addresses (gbaerokats@gmail.com, geodronez@gmail.com preferred) for future contact
+- One open contact record in Asana for Geoffrey Bland (Aeropods) with no actionable task; may be reference-only or awaiting assignment
 
 ## Follow-Up Opportunities
 

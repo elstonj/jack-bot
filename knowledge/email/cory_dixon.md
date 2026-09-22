@@ -1,120 +1,97 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 125 (100 prior + 25 new)
-- **Date range:** August 17–27, 2026 (11 days)
-- **Volume pattern:** Sustained high activity; ~11 messages/day average
-- **Outbound emails:** 18+ confirmed sent messages (increasing contributor role)
-- **New pattern:** Aug 26–27 shows inflection toward operational/hiring coordination (shop floor, staffing, job postings)
+- **Total messages scanned:** 302 (225 prior + 77 new)
+- **Date range:** August 17–September 21, 2026 (35 days)
+- **Volume pattern:** Sustained very high activity; ~8.6 messages/day average
+- **Outbound emails:** 30+ confirmed sent messages (steady strategic contributor)
+- **New pattern (Sep 15–21):** SOCOM contract finalization; technical partnerships formalization (ByLight, Aerostar, NOAA); recruitment acceleration; infrastructure/compliance (CMMC); business development outreach
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — ~35 messages
-   - Continues as primary contact; strategic forwarding, contract coordination
-   - Now visible on legal/fee communications (Ryan Sykora threads)
+1. **Jack Elston** (elstonj@blackswifttech.com) — ~70+ messages (↑↑↑)
+   - Escalation point for: SOCOM contract strategy, NOAA/Aerostar partnerships, UMES Aviation Advisory Council engagement, academic relationships (Stanford/Tanay Topac), student robotics partnerships (FRC 4550)
+   - Strategic forwarding on DOD and partner communications
+   - Now coordinating external partnership ecosystem (Aerostar, NOAA, academic institutions)
 
-2. **Pam Kermisch** (pam@krateosky.com) — ~8 messages
-   - Krateo Sky liaison; NOAA coordination
+2. **SOCOM Military Contacts** (CRITICAL — Ongoing) — ~25+ messages
+   - **Brandon Terry** (brandon.m.terry.mil@socom.mil) — Award/contract schedule lead (marked IMPORTANT Sep 17–21)
+   - **Ryan J. Nichols** (ryan.j.nichols.mil@socom.mil) — New contact Sep 17; contract management escalation
+   - **Evan Wolff** (evan.m.wolff.mil@socom.mil) — Contract coordination (H9223626P9056)
+   - **Pattern:** Ongoing quote verification, schedule coordination, white paper/ROM distribution authorized
+   - Status: Award finalized Sep 11; contract schedule meetings ongoing through Sep 21
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — ~5 messages
-   - Technical leads
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — ~18 messages (↑)
+   - Technical lead on SOCOM contract; direct military liaison
+   - ByLight M2 HALO flight coordination (Sep 18–21)
+   - CJFC Engineering Sprint coordination (NextechSol partnership)
+   - Academic partnerships (Murray State — Bassil El Masri, UAS Flux Topos research)
+   - Krateo Sky quote verification (Sona Raziabeegum thread lead Sep 17)
 
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ~7 messages (↑ from 5)
-   - Increased frequency; now directing multi-org threads (Krateo Sky + BST + partners)
-   - Appears to be escalation point for technical/strategic decisions
+4. **Krateo Sky Partners** (Strategic Partner) — ~15 messages
+   - **Sona Raziabeegum** (sona@krateosky.com) — SOCOM contract coordination lead (Sep 17, marked [EXT])
+   - **Bob Smith** (Bob@krateosky.com) — Quote verification, NOAA followup (Sep 15)
+   - **Ariel Avitan, Jed Leonard, Brian Grubel** — Multi-org coordination threads
+   - Pattern: Direct escalation on SOCOM bid/contract execution; quote verification process intermediaries
 
-5. **Staffing/Recruitment Vendors** (NEW) — ~7 messages
-   - Active Soft Staffing (John Smith), Raya Workforce (Jordan Anderson), ProTouch Staffing (Spencer Kingsley), Talent Staffing Pro (Hayden Vance)
-   - **Focus:** Manufacturing Production Associate role (Boulder, CO)
+5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ~12 messages (↑)
+   - SOCOM contract coordination with Sona Raziabeegum (Sep 17)
+   - UMES Aviation Sciences Advisory Council outreach (Sep 16–17) — engaging Christopher E. Hartman (UMES)
+   - MHP data alignment technical thread with Tanay Topac
+   - 90-Day WBS Plan execution; DevX Autonomy submission
 
-6. **Creative Alignments** (NEW) — ~4 messages
-   - Hadley Solomon, Triza Codillo, Molly O'Handley, Danielle Octavi
-   - **Context:** HR/recruiting/compensation coordination; interview scheduling (Paige Beert candidate)
+6. **Maciej Stachura** (stachura@blackswifttech.com) — ~12 messages (↑)
+   - ByLight M2 HALO flight technical coordination (Sep 21)
+   - SOCOM contract team member (Sep 17)
+   - p400s discussion thread (Sep 18)
+   - CJFC Engineering Sprint
 
-7. **Robert Vega** (Gogo Air) — ~2 messages (↑ from 1)
-   - Active conversation Aug 26 ("Black Swift" product inquiry) — escalating
+7. **External Technical Partners** (NEW — Critical Priority)
+   - **Mel Marker / William O'Neill** (ByLight) — ByLight M2 HALO Flight coordination (Sep 18–21, marked IMPORTANT)
+   - **Russ Vanderwerff** (Aerostar) — "Aerostar/Black Swift possible synergies" thread (Sep 17, marked IMPORTANT)
+     - Joseph Cione (NOAA) involved in synergy discussion (Sep 15–17)
+   - **Tanay Topac** (Stanford) — MHP data alignment, S2 order discussions (Sep 15–19, marked IMPORTANT)
+   - **Trenton McKibben / Chris Pitfield** (NextechSol) — CJFC Engineering Sprint BST Coordination (Sep 16)
+   - **Bassil El Masri** (Murray State) — UAS Flux Topos field work continuity (Jun 28 reference, Sep 16 follow-up)
 
-8. **Ryan Sykora** (KO Law PC) — ~1 message (↑ visibility)
-   - Legal/fee clarification; now directly copied on BST threads (Cory, Jack, Maciej)
+8. **Compliance/Infrastructure (NEW)**
+   - **Haley Berry** (Rule4 Compliance) — CMMC + Infrastructure Management consultation (Sep 16–21, marked IMPORTANT)
+     - Scheduled meeting: Sep 21, 9am–9:45am MDT
+     - Dan Mackin (Rule4) also involved
+   - **Peter Billig / True North IT** — Website/IT support lead (Sep 15, marked IMPORTANT)
+
+9. **Recruitment/HR (Ongoing)**
+   - **LinkedIn Recruitment System** — UAS Technician candidates (Amy Domino interview confirmed Sep 21, 12–12:30pm MDT)
+   - **CSG Talent (Jessica Elsey)** — UAV & Autonomy Engineering talent search
+   - **Recruitment Outreach:** Jamie Rogers (TeamTorchbearers) — "SOCOM BD & capture exec" (Sep 21, marked IMPORTANT)
+
+10. **Business Development / Academic Partnerships (NEW)**
+    - **UMES Aviation Sciences Advisory Council** (Christopher E. Hartman, chartman@umes.edu) — Strategic partnership outreach (Sep 16–17)
+    - **FRC 4550 / Somethings Bruin** (frc4550@gmail.com) — Student robotics partnership (Sep 15)
+    - **Josh Waldman** — Thank you/relationship management (Sep 15)
+
+11. **Automated/Newsletter Systems** (Low-signal noise)
+    - UAS Summit & Expo (Early Bird deadline), ChatGPT, Asana, Taskrabbit, Gemini Notes
+    - Conference/event promotion: DRONExpo, Dronitaly, ON&T Magazine, AirplaneHub
 
 ### Top Recipients (Cory's Outbound)
-1. **Daniel Prendergast** — 3+ sends
-2. **Robert Vega** (Gogo Air) — 1 reply
-3. **Creative Alignments team** (Hadley Solomon, Triza Codillo) — 1+ sends
-4. **Sona Raziabeegum** (Krateo Sky) — 1+ send
-5. **Info@blackswifttech.com** — Appears in routing of general inquiries
+1. **Haley Berry** (Rule4) — CMMC consultation response (Sep 21)
+2. **Jack Elston** — Strategic coordination responses (2+ sends)
 
 ### Internal vs External
-- **Internal:** ~82 of 125 (66%, ↓ from 75%)
-- **External:** ~43 of 125 (34%, ↑ from 25%)
-  - **Krateo Sky:** Pam Kermisch, Bob Smith, Sona Raziabeegum, Brian Grubel, LisaMarie Cheney, Jed Leonard, Ariel Avitan, Dipan
-  - **Government/Academia:** NOAA (Nikolai Pawlenko), ERAU (Kevin Adkins), UND, CU Boulder
-  - **Vendors/Partners:** NextechSol, Gogo Air (Robert Vega), KO Law PC (Ryan Sykora), Colorado Group
-  - **Staffing/HR:** Active Soft Staffing, Raya Workforce, ProTouch Staffing, Talent Staffing Pro, Creative Alignments
-  - **Technology Partners:** LOCOSYS Tech (Frank Kuo), Atomgeo Pvt. Ltd., Deep Origin Lead Tech (Eric Wang)
+- **Internal:** ~190 of 302 (63%)
+- **External:** ~112 of 302 (37%)
+  - **Government/Military (CRITICAL):** SOCOM (6 contacts), NOAA, USAF AFSOC, Canadian Forces (implied)
+  - **Strategic Partners (NEW — High Priority):** ByLight (Mel Marker, William O'Neill), Aerostar (Russ Vanderwerff), Krateo Sky (5+ contacts)
+  - **Academic/Research:** Stanford (Tanay Topac — MHP data), Murray State (Bassil El Masri — UAS flux topography), UMES (Christopher Hartman — Aviation Sciences Advisory)
+  - **Compliance/IT Services:** Rule4 (Haley Berry — CMMC), True North IT (Peter Billig)
+  - **Recruitment:** LinkedIn, CSG Talent, TeamTorchbearers (Jamie Rogers — SOCOM BD capture)
+  - **Conferences/Media:** UAS Summit & Expo, ON&T Magazine, DRONExpo Madrid, Dronitaly, TECNOSEC
 
 ## Topic Patterns
 
-### Primary Work Streams (Updated Priorities)
+### Primary Work Streams (Updated Priorities — Sep 15–21)
 
-#### 1. **NOAA Contract & Whitepapers** (Ongoing)
-- Continues high frequency; coordination with Krateo Sky + BST teams
-- Recent threads show legal/fee clarifications (Aug 26, Ryan Sykora involved)
-
-#### 2. **Arctic UAS / Minerva Arctic Program** (Ongoing)
-- S2 cold-weather performance inquiry still active (John Kosteroski follow-up Aug 26)
-- Engineering technical questions continue routing through Daniel Prendergast
-
-#### 3. **Manufacturing & Facility Operations** (NEW — Elevated Priority)
-- **"Working Meeting - New Shop Floor Layout"** (Aug 26, 2:30 PM, Joshua Fromm organizer)
-  - Indicates facility expansion/restructuring; Cory directly involved in layout decisions
-- Suggests manufacturing scaling or production transition
-
-#### 4. **Staffing/Hiring — Manufacturing Focus** (NEW — High Frequency Aug 26–27)
-- **Manufacturing Production Associate** — Boulder, CO role
-  - 5+ staffing agencies submitting candidates simultaneously (Aug 26)
-  - LinkedIn job posting active; 2 new applicants (Aug 26)
-  - Suggests urgent/high-priority hire
-  - Agencies: Active Soft Staffing, Raya Workforce, ProTouch Staffing, Talent Staffing Pro
-- **Recruitment Coordination Partner:** Creative Alignments (Hadley Solomon leads)
-  - Salary range negotiation underway (Aug 25, Cory asking salary ranges)
-  - Candidate interview scheduled: Paige Beert, Aug 28, 8–8:45 AM MDT
-  - Indicates formal HR process maturation
-
-#### 5. **Krateo Sky Integration & Release** (Ongoing)
-- Daniel Prendergast now coordinating multi-org strategy threads (Krateo Sky + BST)
-- Sona Raziabeegum, Brian Grubel, Dipan visible in thread chains
-
-#### 6. **Legal/Financial** (Ongoing)
-- Ryan Sykora (KO Law PC) now directly in BST threads
-- "Clarification on Fees / Identification" topic continues
-- Jack Elston, Cory Dixon, Maciej Stachura all copied
-
-#### 7. **Business Development / Product Inquiry** (NEW — External Visibility)
-- **Robert Vega (Gogo Air):** Active conversation Aug 26 re: "Black Swift" — appears to be product/partnership inquiry
-- **Inbound technical inquiries** (Aug 27):
-  - LOCOSYS Tech (Frank Kuo) — GNSS/RTK solution for drones/UAVs/USVs
-  - Atomgeo Pvt. Ltd. — Collaboration opportunity
-  - Deep Origin Lead Tech (Eric Wang) — Modular imaging payloads for UAS
-- **Routed to:** info@blackswifttech.com (general inbox), sales@blackswifttech.com
-- Indicates BST website is generating qualified inbound interest (not just outbound hunting)
-
-#### 8. **Academic Partnerships** (Ongoing)
-- ISARRA and Flight Week Aircraft coordination continues (Kevin Adkins, ERAU)
-
-#### 9. **Dual Email Identity Pattern** (NEW — Notable)
-- **Cory operates from multiple email addresses:**
-  - `cory.dixon@blackswifttech.com` (BST primary)
-  - `cory@krateosky.com` (Krateo Sky; used in HR/salary coordination Aug 25)
-  - `cory.dixon@bst.aero` (BST secondary; used by staffing agencies)
-- Suggests integrated role across BST + Krateo Sky (not siloed)
-
-### External Organizations & Contacts (Updated)
-- **Krateo Sky** — Deep integration; now strategic in product/hiring decisions
-- **Gogo Air** (Robert Vega) — Product/partnership escalation visible
-- **NOAA** — Contract ongoing
-- **Creative Alignments** — HR/recruitment partner (not just recruiting platform)
-- **Staffing Vendors** — 5+ active agencies submitting candidates
-- **Technology Partners (NEW):**
-  - LOCOSYS Tech (GNSS/
+#### 1. **SOCOM Contract H9223626P9056 — BLACK SWIFT S0 Air-Deployed (S0-AD)** (CRITICAL — EXECUTION PHASE)
+- **Status:** Award Notice

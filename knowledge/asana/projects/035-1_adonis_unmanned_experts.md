@@ -24,7 +24,7 @@
 
 ## Task Summary
 - **Total Tasks:** 45 completed, 0 open BST tasks (100% completion rate)
-- **Current Asana Tasks:** 0 open, 1 completed
+- **Current Asana Tasks:** 1 open contact record (Keven Gambold — unassigned, no due date; administrative only), 0 open deliverable tasks
 - **Tasks by Assignee:**
   - **Alex Lomis:** 28+ completed tasks (primary technical lead) — hardware design, component mounts, aircraft integration, UMEX hardware integration, flight test coordination, milestone completion
   - **Jack Elston:** 4+ completed tasks — autopilot integration, simulation setup, UMEX hardware bench testing
@@ -68,6 +68,8 @@
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
 
+**External Reference Note (2026-09-09):** Daniel Prendergast shared reference link for Taisync ViuTracker G1 (taisync.com/modules) — context unclear; likely related to UMEX's post-project commercialization efforts, not BST responsibility.
+
 ---
 
 ## ⚠️ ARCHIVAL DIRECTIVE (PERMANENT)
@@ -76,6 +78,4 @@
 
 **Per Jack Elston (2026-04-20) and Daniel Prendergast (2026-04-20):**
 
-> "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
-
-**This project should NEVER appear in future briefings, priority lists, status reports, or task recommendations.**
+> "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks

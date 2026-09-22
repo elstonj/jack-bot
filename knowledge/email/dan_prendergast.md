@@ -1,102 +1,66 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 110 emails (100 previous + 10 new)
-- **Date range covered:** 12 Aug 2026 – 26 Aug 2026 (15 days)
-- **Volume:** Approximately 7–8 emails per day; heavy clustering around government deadlines and demo preparation (sustained activity through 26 Aug with 6 outbound messages on final day alone)
+- **Total messages scanned:** 252 emails (210 previous + 42 new)
+- **Date range covered:** 1 Sep 2026 – 21 Sep 2026 (21 days)
+- **Volume:** Approximately 6–8 emails per day; sustained high activity with persistent focus on S0-AD contract execution, component qualification, international partnerships, and internal steering; 16–21 Sep shows continued multi-stakeholder coordination (UK Raven audit, AFAC approval, GCS integration, SBIR Phase II)
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — 16+ messages (primary peer/collaborator on grants, cold-weather testing, mission orchestration)
-- **Maciej Stachura** (stachura@blackswifttech.com) — 9+ messages (technical/project coordination, AFA proposal response)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — 6+ messages (budgets, contracts, compliance, vendor coordination)
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — 4+ messages (hardware/fuselage engineering)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — 4+ messages (recruiting, arctic projects)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — 2+ messages (NASA coordination)
+- **Jack Elston** (elstonj@blackswifttech.com) — 25+ messages (S0-AD, NOAA, Stanford S2 order, DevX, TAA, quote requests, internal steering)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — 22+ messages (S0-AD, Raven audit, SBIR Phase II radar, contracts, compliance, UK visit coordination, internal alignment)
+- **Maciej Stachura** (stachura@blackswifttech.com) — 14+ messages (S0-AD, AFA proposal, Navy, SOCOM alignment, UK visit, internal steering)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — 5+ messages (recruiting, SOCOM, internal alignment)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 5+ messages (NightHawk2-UZ qualification PQ26000876, Nextvision coordination, vendor management)
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 1 message (AFAC documentation coordination)
 
 ### Top External Contacts
-**Government/Military (primary focus):**
-- **USSOCOM** — Evan M. Wolff (evan.m.wolff.mil@socom.mil) — S0/S0-AD development dialogue
-- **NORAD/JOC** — Patricia A. Vollmer (patricia.a.vollmer.civ@mail.mil) — AE27 Black Swift UAS status updates; active coordination on 26 Aug (responding on "Where are we now?")
-- **U.S. Navy NAWCAD** — Angel R. Ruiz-Reyes, Aaron D. Pyrah — S0 COTS WAIVER technical coordination
-- **NOAA** — Nikolai Pawlenko — AFA Proposal Rejection response, 20kft launch, technical collaboration
 
-**Contractors/Partners:**
-- **KrateoSky** — Bob Smith, Brian Grubel, Jed Leonard, Dipan (dipan@krateosky.com), Sona Raziabeegum (sona@krateosky.com), Pam Kermisch — SOCOM demo updates, Project Storm Sentry, PEO-FW Group 2 A2E Assessment Event coordination (6+ messages including 26 Aug broadcast)
-- **ByLight Associates** — William O'Neill — M2 Fuselage, FedEx tracking
-- **Lockheed Martin (LMCo)** — Stefan Golunski, Alasdair Brackenridge — Technical questions, VTOL pricing
-- **Collins Aerospace** — Brandon Hein (Brandon.Hein@collins.com) — Goodrich De-Icing wind tunnel booking request (active coordination on 26 Aug)
-- **SuperCool Earth** — Olaf Dietz (olaf@supercool-earth.com), Dacia Leon (dacia@supercool-earth.com), Wolfgang Langhans (wolfgang@supercool-earth.com) — Drone Inquiry (3+ messages, elevated activity on 26 Aug)
+**Government/Military (S0-AD & development dialogue sustained):**
+- **USSOCOM** — **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — Non-DoD source coordination on H9223626P9056 (Sep 15); **Michael C. Jagelewski** — PoP coordination (active through mid-Sep); **Brandon M. Terry** — Award notice, quote verification (early Sep); **Fleahman, Colton B** (colton.b.fleahman.mil@socom.mil), **Page, Eric M** (eric.m.page.mil@socom.mil), **Bowlin, Harold P** (harold.p.bowlin.mil@socom.mil), **Gilbert, James W** (james.w.gilbert.ctr@socom.mil) — S0-AD Development Efforts briefing continuation and steering (Sep 21)
+- **UK Defence (Raven Program) — NEW/ELEVATED** — **Neil Morphett** (neil.morphett@global.lmco.com, Lockheed Martin) — "UK Raven visit to Black Swift" coordination (Sep 16, 17, 21); appears to signal UK military platform audit/evaluation visit; escalated internal discussion (Beck, Jack, Maciej copied)
+
+**Contractors/Partners (continued high engagement):**
+- **KrateoSky** — **Bob Smith** (Bob@krateosky.com) — GTM products discussion (Sep 21, marked important); **Sona Raziabeegum** (sona@krateosky.com) — SOCOM contract coordination (Sep 17); continued MBSE/contract documentation thread
+- **Nextvision Stabilized Systems** — **Chani Ben Simon** (chani.bs@nextvision-sys.com) — NightHawk2-UZ payload qualification (PQ26000876) ongoing multi-day thread (Sep 16–17, marked important); **Oren Nissim** (oren.n@nextvisionltd.zohodesk.com) — Zohodesk support ticket coordination Sep 16
+- **NTI Systems** — **Alexy Mukadem** (mukadem.alexy@nti-systems.com) — GCS integration dialog (Sep 17, 18, marked important); continuation of Ground Control System development
+- **AV3 Aerovisual** — **Joe Villa-Michel** (joe@av3aerovisual.com) — "Operator Manual and Mission Plan for AFAC Approval" (Sep 21, important); **Dr. Hugo Delgado Granados** (hdelgado@unam.mx, UNAM) also copied; multi-party AFAC documentation coordination
+- **Deadwater Technologies** — **Richard** (hello@deadwater.tech) — GNSS-denied navigation capability follow-up (Sep 21)
+- **UKRSPECSYSTEMS** — oleksandr.p@ukrspecsystems.com — UAS components inquiry (Sep 21, important inbound response; Sep 21 outbound reply)
 
 **Academic/Research/Government Labs:**
-- **NASA Glenn** — Dennis G. Eck — Icing Research Tunnel coordination
-- **NLR (National Renewable Energy Lab)** — Matthew Neber — E2 project
-- **University of Colorado** — Kevin S. Rozmiarek — S2 cold-weather performance
-- **UNAM (Mexico)** — Dr. Hugo Delgado Granados (hdelgado@unam.mx) — Operator Manual and Mission Plan for AFAC Approval (active coordination on 26 Aug)
+- **UNAM (Mexico)** — **Dr. Hugo Delgado Granados** (hdelgado@unam.mx) — AFAC Operator Manual & Mission Plan approval coordination (Sep 17, 21); Laboratorio Universitario de Drones collaboration (ongoing)
+- **Stanford University** — **Tanay Topac** (tanaytopac@stanford.edu) — "New S2 Order" (Sep 18–19, marked important); appears to be student/research aircraft order
+- **UMES (University of Maryland Eastern Shore)** — **Christopher E. Hartman** (chartman@umes.edu) — Aviation Sciences Advisory Council invitation (Sep 17; Dan responds, internal forward to Jack)
 
-**Other Contacts:**
-- **Kosteroski Engineering** — John Kosteroski (john@kosteroski-engineering.com) — S2 cold-weather performance questions (incoming from external Canadian engineer perspective)
+**International/Government (Continued):**
+- **Mexican Government (AFAC)** — Laboratorio Universitario de Drones AFAC approval documentation thread (Sep 17, 21; coordination with Joe Villa-Michel, Hugo Delgado)
 
-**Vendors/Service Providers:**
-- **NanoVeu** — Flight data reports
-- **Cox & Co (Icing Tunnel)** — Icing Research Tunnel coordination
-- **Domo Tactical Communications** — Tyler Price
-- **NeXtech Solutions** — CJFC Engineering Sprint coordination
-- **Canadian Armed Forces** — Nicolas Verreault, Harry Wong — CJFC Engineering Sprint
+**Vendors/Technology Partners (NEW/ELEVATED):**
+- **Aureum AI** — **Michael Shields** (michael@aureum.ai) — "Phase II platform partner interest, DoW SBIR OSW26BZ05-DV019 (radar payloads on small UAS)" (Sep 16–18, important, multi-day direct exchange with Dan and Beck; radar payload SBIR Phase II expansion)
 
-**Recruitment/HR:**
-- **Creative Alignments** — Hadley Solomon — BST Technical Project Manager candidate
+**Recruitment/Services:**
+- **JustRide** — Black Swift Pass Program enrollment (Sep 17, automated)
 
 ### Internal vs External Breakdown
-- **Internal BST:** ~38 messages (includes coordination with KrateoSky on government programs)
-- **External:** ~72 messages (government, contractors, academia, vendors, recruitment)
+- **Internal BST:** ~50 messages (S0-AD steering, Raven audit coordination, AFAC approval, SBIR Phase II, vendor qualification)
+- **External:** ~192 messages (government contracts, international partners, contractors, SBIR tech partners, vendors, academia)
+- **Automated/Newsletter:** ~10 messages (Asana, AI Valley, AvWeek, Mitchell Institute, AirForce Magazine, Sync, JustRide)
 
 ## Topic Patterns
 
 ### Recurring Major Themes
 
-1. **SOCOM/DoD Programs (Highest Priority)**
-   - **S0 & S0-AD Development** — Ongoing dialogue with USSOCOM on development options
-   - **S0 COTS WAIVER** — Navy NAWCAD coordination on component waivers
-   - **SOCOM Demo Preparation** — Heavy coordination with KrateoSky (Bob Smith, Brian Grubel); ROM updates and logistics
-   - **PEO-FW Group 2 A2E (Air-Launched Effects) Assessment Event** — New visible thread; KrateoSky coordinating, marked IMPORTANT; appears to be upcoming assessment event requiring multi-party BST alignment (26 Aug broadcast)
-   - **SOF RACER Industry Day** — Prior coordination continues
+1. **S0-AD Air-Deployed UAS Program (Contract H9223626P9056) — SUSTAINED HIGHEST PRIORITY**
+   - **Contract Execution & Development** — Continued USSOCOM multi-party coordination (Fleahman, Page, Bowlin, Gilbert briefings Sep 21); Evan Wolff non-DoD source communications (Sep 15)
+   - **Multi-stakeholder Alignment** — Internal steering threads with Beck, Jack, Maciej remain active through Sep 21
+   - **Component Qualification Status** — Continued focus on payload and subsystem integration (NightHawk2-UZ, GCS, communications components)
 
-2. **AE27 Black Swift UAS Program**
-   - NORAD/JOC status coordination (Vollmer) — active inquiry "Where are we now?" on 26 Aug; Dan responding same day with updates
+2. **UK Raven Program Audit/Evaluation Visit — NEW PRIORITY (Sep 16–21)**
+   - **Lockheed Martin Coordination** — Neil Morphett (LM) leading "UK Raven visit to Black Swift" (Sep 16); elevated internal discussion (Dan forwards to Beck, Jack, Maciej Sep 16, 21)
+   - **Signal:** UK military platform evaluation/audit visit incoming; likely platform compatibility/performance assessment for Raven integration
+   - **Cross-functional Preparation:** Beck, Jack, Maciej all engaged in response planning
 
-3. **Icing Research & Cold-Weather Capability**
-   - **Goodrich De-Icing Wind Tunnel Testing** — Collins Aerospace (Brandon Hein) requesting wind tunnel booking; Dan responding on 26 Aug to advance coordination
-   - **Icing Research Tunnel Access** — Multi-party coordination (NASA Glenn, Cox & Co, NLR) ongoing
-   - **S2 Cold-Weather Performance** — University of Colorado, NOAA, external Canadian engineering inquiry (Kosteroski) arriving on 26 Aug
-
-4. **Hardware/Platform Development**
-   - **M2 Fuselage** — Ongoing ByLight coordination
-   - **Higher-level Mission Orchestration** — Grant coordination with Jack Elston on UAS and Atmospheric Research
-
-5. **Grant & Research Programs**
-   - **ERDC Grant (UAS and Atmospheric Research)** — Jack Elston coordination on 26 Aug; appears to require response/action item
-   - **NASA-BST S2 Collaboration** — Joint technical initiative
-   - **Project Storm Sentry** — KrateoSky-led initiative
-
-6. **Export Control & Compliance**
-   - **DDTC Registration** — Beck Cotter leading compliance
-   - **Export Control Classification** — Ongoing review coordination
-
-7. **AFA (Air Force Association) Proposal Rejection Recovery**
-   - Maciej Stachura engaging with Dan on response strategy (26 Aug)
-   - Response appears to be in active development phase
-
-8. **International/Academic Collaboration**
-   - **UNAM (Mexico) AFAC Approval** — Hugo Delgado requesting Operator Manual and Mission Plan; Dan responding on 26 Aug (approval pathway appears time-sensitive)
-   - **Canadian Armed Forces/CJFC Engineering Sprint** — Active coordination with NeXtech Solutions and Canadian CAF contacts
-
-### New Activity (26 Aug Cluster)
-Dan sent 6 outbound messages on the final day, suggesting:
-- End-of-week status updates across multiple active programs
-- Responses to pending items (AE27 NORAD status, ERDC grant, UNAM approval, de-icing wind tunnel booking, AFA proposal strategy, KrateoSky A2E event alignment)
-- High coordination load across government, partners, and internal stakeholders
-
-## Communication Patterns
-- **Time Pattern:** Sustained activity through late August; final day (26 
+3. **AFAC (Mexican Government) Operator Manual & Approval — ELEVATED (Sep 17–21)**
+   - **Documentation Coordination** — Multi-party thread

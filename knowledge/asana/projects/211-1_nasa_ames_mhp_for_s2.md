@@ -42,3 +42,4 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **Products/Services**: MHP product/service delivery
 - **NASA RFI opportunity**: Per Alex Lomis (April 17, 2026), NASA contacts and Joe recommended a NASA RFI link shared on a hurricane engineering & technology call: https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view (context: may indicate future opportunity or follow-on work with NASA)
 - **Team action item** (Maciej, April 27 & May 4, 2026): Team members considering using AI tools to start work on NASA RFI opportunities; coordination needed to assign ownership between available team members — Maciej requesting update on who will take the lead
+- **NASA Glenn Icing Research Tunnel cost reference** (Daniel Prendergast, August 24-25, 2026): Current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k–$60k (for reference on potential future testing costs with NASA facilities)

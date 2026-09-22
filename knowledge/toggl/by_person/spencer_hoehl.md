@@ -1,91 +1,113 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 370.7 hours (cumulative across all batches)
+- **Total hours tracked:** 498.0 hours (cumulative across all batches)
 - **Primary projects (top 5):**
-  1. [001-08] Flight Testing — 145.4 hours
-  2. [300-3] 2026 IDIQ (Hurricane) — 69.3 hours
-  3. [001-23] SOCOM (CRADA) S0-AD — 37.2 hours
+  1. [001-08] Flight Testing — 195.4 hours
+  2. [300-3] 2026 IDIQ (Hurricane) — 83.8 hours
+  3. [001-13] General Operations / BD Pipeline — 36.6 hours
   4. [001-04] S0 VTOL IRAD — 23.6 hours
-  5. [001-14] SwiftCore 3.3 — 18.0 hours
-- **Time period covered:** Multiple tracking batches (current batch: 7.4 hours)
+  5. [001-07] S3 IRAD — 22.9 hours
+- **Time period covered:** Multiple tracking batches (current batch: 33.6 hours)
 
 ## Project Breakdown
 - **[001-08] Flight Testing** (Client: Internal)
-  - Hours: 145.4
+  - Hours: 195.4
   - Percentage: 39.2%
+  - Change: +8.8h in current batch (+4.7% increase)
 
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
-  - Hours: 69.3
-  - Percentage: 18.7%
+  - Hours: 83.8
+  - Percentage: 16.8%
+  - Change: No new entries in current batch
 
-- **[001-23] SOCOM (CRADA) S0-AD** (Client: SOCOM/CRADA)
-  - Hours: 37.2
-  - Percentage: 10.0%
+- **[001-13] General Operations / BD Pipeline** (Client: Overhead)
+  - Hours: 36.6
+  - Percentage: 7.3%
+  - Change: +15.0h in current batch (+69.6% increase) — **SIGNIFICANT GROWTH**
 
 - **[001-04] S0 VTOL IRAD** (Client: IRAD)
   - Hours: 23.6
-  - Percentage: 6.4%
+  - Percentage: 4.7%
+  - Change: No new entries in current batch
+
+- **[001-07] S3 IRAD** (Client: IRAD)
+  - Hours: 22.9
+  - Percentage: 4.6%
+  - Change: No new entries in current batch
+
+- **[043-3] ByLight M2/Halo** (Client: External/[043])
+  - Hours: 8.2
+  - Percentage: 1.6%
+  - Change: +7.3h in current batch (325% increase) — **NEW FOCUS AREA**
 
 - **[001-14] SwiftCore 3.3** (Client: IRAD)
   - Hours: 18.0
-  - Percentage: 4.9%
+  - Percentage: 3.6%
+  - Change: No new entries in current batch
 
-- **[001-13] General Operations** (Client: Overhead)
-  - Hours: 13.9
-  - Percentage: 3.7%
+- **[001-23] SOCOM (CRADA) S0-AD** (Client: SOCOM/CRADA)
+  - Hours: 37.2
+  - Percentage: 7.5%
+  - Change: No new entries in current batch
+
+- **[001-12] Customer Support** (Client: IRAD)
+  - Hours: 8.7
+  - Percentage: 1.7%
+  - Change: No new entries in current batch
+
+- **[550-1] Navy SBIR: Magnetometer** (Client: Navy/SBIR)
+  - Hours: 4.2
+  - Percentage: 0.8%
+  - Change: +1.4h in current batch
+
+- **[350-4] 2024 USGS - Chile (Mexico)** (Client: USGS)
+  - Hours: 1.1
+  - Percentage: 0.2%
+  - Change: +1.1h in current batch (NEW PROJECT)
 
 - **Flight Checklists** (Client: Internal/Operations)
   - Hours: 14.1
-  - Percentage: 3.8%
+  - Percentage: 2.8%
+  - Change: No new entries
 
-- **[043-3] ByLight M2/Halo** (Client: External/[043])
-  - Hours: 0.9
-  - Percentage: 0.2%
+- **[012-2] ERAU VTOL S0** (Client: Embry-Riddle Aeronautical University)
+  - Hours: 1.7
+  - Percentage: 0.3%
+  - Change: No new entries in current batch
 
 - **[001-22] Fleet Maintenance** (Client: Internal/Operations)
   - Hours: 1.1
-  - Percentage: 0.3%
+  - Percentage: 0.2%
+  - Change: No new entries
 
 - **Project None** (Unallocated)
   - Hours: 0.9
   - Percentage: 0.2%
+  - Change: No new entries
 
 ## Recent Activity
-- **Current batch (7.4 hours):** Minimal tracking batch; focused on Flight Testing and SwiftCore maintenance
-  - 3.8 hours (51.4%) → [001-08] Flight Testing [1 entry, 0% documented]
-  - 2.6 hours (35.1%) → [001-14] SwiftCore 3.3 [2 entries, 0% documented]
-  - 0.9 hours (12.2%) → [043-3] ByLight M2/Halo [1 entry, 0% documented]
+- **Current batch (33.6 hours):** Substantial tracking batch with significant shift in project allocation. All 19 entries completely undocumented (0% documentation rate).
 
-- **Entry patterns:** All 4 entries completely undocumented. Flight Testing single entry (3.8h) represents larger session; SwiftCore split into micro-blocks (0.3h, 2.2h); ByLight represents new project capture or ad-hoc support.
+- **Project distribution this batch:**
+  - 15.0h (44.6%) → [001-13] BD Pipeline [4 entries]
+  - 8.8h (26.2%) → [001-08] Flight Testing [4 entries]
+  - 7.3h (21.7%) → [043-3] ByLight M2/Halo [5 entries]
+  - 1.4h (4.2%) → [550-1] Navy SBIR: Magnetometer [1 entry]
+  - 1.1h (3.3%) → [350-4] 2024 USGS - Chile (Mexico) [2 entries]
 
-- **Notable:** First appearance of [043-3] ByLight M2/Halo in tracking; potential new engagement or project assignment.
+- **Notable patterns:**
+  - **Dramatic BD Pipeline escalation:** 2.7h → 15.0h (+454% from previous batch)
+  - **ByLight emergence:** Project previously at 0.9h now at 7.3h with 5 discrete sessions; notable session: 4.0h block
+  - **Flight Testing moderation:** Reduced proportion (65% → 26.2%); maintained but not dominant this period
+  - **New project introduction:** USGS Chile/Mexico project appears with two entries
+  - **Continued zero documentation across all entries** — maintains compliance concern at higher severity given increased tracking activity
 
 ## Patterns
 
-- **Flight Testing sustained dominance (39.2% cumulative):**
-  - Incremental growth: 141.6h → 145.4h (+3.8h in current batch) = 2.7% increase
-  - Current batch single entry (3.8h) represents consolidation vs. prior fragmented sessions
-  - **Assessment:** Flight operations baseline maintained; reduced session fragmentation in this batch may indicate stabilization or reduced interrupt-driven activity
-
-- **SOCOM (CRADA) S0-AD stable hold (10.0% cumulative):**
-  - No new entries in current batch; remains at 37.2 hours
-  - **Critical:** Continued zero documentation across all entries remains compliance risk for government partnership work
-  - **Assessment:** SOCOM effort plateaued or temporarily paused; documentation gaps require resolution
-
-- **Hurricane IDIQ marginal decline (18.7% cumulative):**
-  - No new entries in current batch; remains at 69.3 hours
-  - Cumulative share continuing to decline as percentage (was 19.1%, now 18.7%)
-  - **Assessment:** NOAA project in sustained low-activity or pause state
-
-- **SwiftCore 3.3 incremental progress (4.9% cumulative):**
-  - Growth: 15.4h → 18.0h (+2.6h in current batch) = 16.9% increase
-  - Current batch: 2 entries with micro-block pattern (0.3h, 2.2h)
-  - **Assessment:** IRAD development ongoing; small incremental sessions suggest integration or testing support tasks
-
-- **ByLight M2/Halo new project entry (0.2% cumulative):**
-  - First appearance: 0.9 hours, 1 entry
-  - Unknown project classification; may represent exploratory work, proposal support, or new client engagement
-  - **Assessment:** Minimal volume; monitor for expansion in future batches
-
-- **Overall utilization:** Current batch (7.4h) significantly lower than prior batch (125h); likely represents partial reporting period or reduced availability
+- **Flight Testing activity moderation:**
+  - Cumulative: 195.4h (39.2% of total)
+  - Growth trajectory: 186.6h → 195.4h (+8.8h) = 4.7% increase
+  - Current batch shows reduced proportion (26.2% vs. historical 40%+)
+  - Session fragmentation continues: 4.3h, 2.6h, 1.1h, 0.9h sessions
+  - **

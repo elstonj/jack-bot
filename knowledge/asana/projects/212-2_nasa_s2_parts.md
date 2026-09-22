@@ -11,66 +11,79 @@
   - **PO No. 80NSSC25PC031**
   - **Overall Due: September 30, 2026**
   - **Funding approved to complete by end of FY2025**
-  - Key Milestones:
-    - April 30, 2026 (design adjustments & parts orders) — **✅ COMPLETED July 29, 2026**
-    - June 30, 2026 (launcher refurbishment) — **✅ COMPLETED August 4, 2026**
-    - September 30, 2026 (final delivery) — **✅ COMPLETED August 4, 2026**
-- **Status:** **✅ COMPLETED — All major deliverables closed as of August 4, 2026.**
+- **Status:** ⚠️ **ACTIVE — FINAL DELIVERY PHASE.** Previous knowledge file documented project completed August 4, 2026 with launcher refurbishment closed. New raw data shows 3 **critical pre-delivery tasks still open** as of late September 2026, all without due dates. **Last activity: September 17, 2026 (tablet setup completed).** Project is at final delivery milestone with remaining work focused on GCS calibration, launcher solenoid fix, and joystick trim adjustment.
 - **Team Members:** 
   - Nate Straus (project owner — launcher refurbishment lead)
-  - Josh Fromm (parts procurement and design modifications — completed April 30 tasks July 29, 2026)
+  - Josh Fromm (parts procurement, design modifications, launcher solenoid fix)
   - Dan Prendergast (coordination)
-  - Alex Lomis (oversight; RFI assessment lead)
+  - Alex Lomis (oversight)
+  - **Jack Elston** (GCS battery calibration — NEW)
+  - **Spencer Hoehl** (tablet setup, joystick trim fix — NEW)
 - **Priority:** Medium
-- **Risk Signals:** None — project completed ahead of September 30 deadline.
+- **Risk Signals:** 
+  - ⚠️ **3 open tasks with no due dates in final delivery window (Sept 30, 2026 deadline passed or imminent)**
+  - ⚠️ **Launcher solenoid issue requires investigation & fix before shipment**
+  - ⚠️ **Joystick mode roll tendency must be resolved pre-shipment**
+  - ⚠️ **No clear assignment/ownership on timing for remaining work**
 
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status | Notes |
 |-----------|----------|----------|--------|-------|
-| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Real-world execution occurred June 2–3, 2026; all 3 payloads modified within 1 day post-parts-arrival. |
-| Place orders for S20009/launcher refurb parts and spares | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Most parts arrived by end of first week of June 2026; DB9 connector rewiring executed in ≤1 day. |
-| **Place orders for new airframe case and launcher case** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | New design cases procured. |
-| **S20009 Refurb and component replacement** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | Full launcher refurbishment and component replacement executed. |
-| **Make laser insert (wiring + actuator)** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | Critical component fabricated and integrated. |
-| **Make heated pitot** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | Critical component fabricated and integrated. |
-| **Final delivery to NASA** | **September 30, 2026** | **Nate Straus** | ✅ **Completed August 4, 2026** | **Delivered 57 days ahead of contract deadline.** |
+| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Real-world execution June 2–3, 2026. |
+| Place orders for S20009/launcher refurb parts | April 30, 2026 | Josh Fromm | ✅ **Completed July 29, 2026** | Most parts arrived by end of first week of June 2026. |
+| **New airframe case and launcher case orders** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | New design cases procured. |
+| **S20009 Launcher Refurbishment** | **No due date** | **Nate Straus** | ✅ **Completed August 4, 2026** | Full refurbishment and component replacement executed. |
+| **Laser insert & heated pitot fabrication** | **No due date** | **Unassigned** | ✅ **Completed August 4, 2026** | Critical components integrated. |
+| **Tablet Setup** | **No due date** | **Spencer Hoehl** | ✅ **Completed Sept 17, 2026** | GCS tablet connectivity verified; sensor files loaded. |
+| **Calibrate NASA GCS Battery** | **No due date** | **Jack Elston** | ⚠️ **OPEN** | Calibrate GCS 3D and 2F battery percentage indicators. **Pre-delivery requirement.** |
+| **Launcher Solenoid Fix** | **No due date** | **Josh Fromm** | ⚠️ **OPEN** | Investigate & fix solenoid leakage issue during pressurization. **Critical pre-delivery.** |
+| **Joystick Mode Trim Fix** | **No due date** | **Spencer Hoehl** | ⚠️ **OPEN** | Resolve roll tendency in Joystick mode via handset settings. **Pre-delivery requirement.** |
+| **Final Delivery to NASA** | **September 30, 2026** | **Nate Straus** | ⏳ **IN PROGRESS** | All three open tasks must be complete before shipment. |
 
 ## Task Summary
-- **Total Tasks:** 4 completed, 0 open
-- **Completed Tasks (All Closed August 4, 2026):**
-  1. Place orders for new airframe case and launcher case
-  2. S20009 Refurb and component replacement
-  3. Make laser insert (wiring + actuator)
-  4. Make heated pitot
-- **Completion Rate:** 100%
-- **Pattern:** Manufacturing and refurbishment tasks executed in parallel with parts procurement; all major components (laser insert, heated pitot, new cases) completed and integrated by August 4, 2026. Project closed significantly ahead of final September 30, 2026 deadline.
+- **Total Tasks:** 5 open + 2 completed (recent focus on tablet/sensor prep and GCS setup)
+- **Open Tasks (3):**
+  1. **Calibrate NASA GCS Battery** — Jack Elston, no due date — GCS 3D and 2F battery calibration
+  2. **Launcher Solenoid Fix** — Josh Fromm, no due date — Critical leak investigation & resolution
+  3. **Joystick Mode Trim Fix** — Spencer Hoehl, no due date — Roll tendency correction
+- **Recently Completed (Sept 17, 2026):**
+  1. Tablet Setup (Spencer Hoehl) — GCS connectivity verified
+  2. Load Sensor Files onto Tablet (Spencer Hoehl) — Trace gas and photogrammetry files loaded
+- **Pattern:** All 3 open tasks are pre-delivery validation/fixes without formal due dates. Work is actively progressing (tablet setup completed 9/17), but no clear timeline documented for remaining items as of Sept 30 deadline.
 
 ## Recent Activity
 
+**September 17, 2026:**
+- ✅ **Tablet Setup Complete** (Spencer Hoehl) — Both tablets configured for GCS and aircraft connectivity; unnecessary files removed.
+- ✅ **Sensor Files Loaded** (Spencer Hoehl) — Trace gas and photogrammetry sensor files installed on tablets.
+- **Remaining work flagged:** GCS battery calibration, launcher solenoid investigation, joystick trim adjustment all pending.
+
+**August 24–25, 2026 (Daniel Prendergast):**
+- Intelligence update: NASA Glenn Icing Research Tunnel testing rate is $55k–$60k per day (may indicate planned post-delivery testing).
+
 **August 4, 2026:**
-- **🟢 ALL MAJOR DELIVERABLES COMPLETED.** Four key tasks closed:
-  - New airframe and launcher case orders placed and received
-  - S20009 launcher refurbishment and component replacement completed
-  - Laser insert (wiring + actuator) fabricated and integrated
-  - Heated pitot fabricated and integrated
-- **Project completed 57 days ahead of September 30, 2026 final delivery deadline.**
+- 🟢 **All major hardware deliverables completed:** New cases, launcher refurbishment, laser insert, heated pitot fabricated and integrated.
 
 **July 29, 2026:**
-- Josh Fromm closed both April 30 design and parts ordering tasks. Parts procurement and design adjustments complete; real-world work executed June 2–3, 2026.
+- Josh Fromm closed April 30 design and parts ordering tasks.
 
 **July 18, 2025 (Isaac Anderson):**
-- Estimate 1362 sent with cost breakdown for S2 replacement parts and full S2 unit. Documented that S2 is now end-of-life as BST transitions to S3 platform; noted that replacement designs would be required for several components.
-
-**July 11, 2025 (Isaac Anderson):**
-- Requested cost breakdown for S2 parts (including full S2 unit).
-
-**June 2–3, 2026 (Team Corrections — Authoritative):**
-- **Joshua Fromm:** Parts procurement substantially complete; all payload and gimbal parts in final ordering stages with most expected to arrive by end of first week of June 2026. Design adjustments executable in ≤1 day post-arrival.
+- Estimate 1362 sent with S2 parts cost breakdown. S2 now end-of-life; BST transitioning to S3 platform.
 
 ## Notes & Context
 
-- **S2 End-of-Life Status:** S2 is now end-of-life as BST transitions to S3 platform. This NASA order represents end-of-life replacement parts and full launcher refurbishment for existing S2 systems. Estimate 1362 (July 18, 2025) documented that new designs would be required for several components—which were successfully manufactured and integrated by August 4, 2026.
+- **Current Delivery Status:** Project is in **final pre-delivery validation phase.** All primary hardware (launcher, cases, instruments) was completed by August 4, 2026 and delivered 57 days early per previous knowledge file. Remaining work is GCS/avionics integration and calibration.
 
-- **🟢 EXECUTION EXCELLENCE:** Project closed 57 days early, with all manufacturing, refurbishment, and delivery activities completed by August 4, 2026 against a September 30, 2026 contractual deadline. No outstanding tasks or risk items.
+- **Open Tasks Are Critical Path:** All 3 open items are listed as pre-shipment requirements with no formal due dates assigned. Given Sept 30, 2026 contract deadline:
+  - Launcher solenoid leak must be debugged and fixed
+  - GCS battery percentage indicators must be calibrated
+  - Joystick roll trim must be corrected
+  - **No clear owner assigned for scheduling/timeline of these final items**
 
-- **Contact Note:** Isaac Anderson (listed in custom fields as General Point of Contact) has moved on from NASA Ames. Future correspondence should route through Randy Hobbs or Will Wade.
+- **Potential Deadline Risk:** New raw data shows Sept 17 completion of tablet setup but no updates on solenoid/battery/trim fixes. If original Sept 30 deadline was firm and contract has already been completed ("delivered 57 days early"), clarify whether these 3 items are:
+  - Late-addition customer requests post-delivery
+  - Retrofit/QA items for a second unit or refresh
+  - Documentation/validation tasks that extend beyond hardware shipment
+  - **Status and ownership should be verified with Nate Straus, Randy Hobbs, or Will Wade.**
+
+- **Team Corrections Override:** Previous knowledge file

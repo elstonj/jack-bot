@@ -6,7 +6,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast, Meredith Needham, Kevin
 
 Activity: High activity with 1500+ messages covering approximately 2+ years of development
-Time range: Early development through August 26, 2026 (ongoing project)
+Time range: Early development through August 28, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -26,6 +26,19 @@ Time range: Early development through August 26, 2026 (ongoing project)
   - GPS warm-start battery discharging issue persists but not critical
   - SD card corruption after very long duration runs likely hardware defect
 
+**Power Switch System Issues (August 27-28, 2026):**
+- Theory: RC circuit on AP power switch has wrong components or ones outside tolerance range (Maciej, requires verification by Sam Hild)
+- Known boot issue: Power switch gets stuck on power-down and keeps triggering watchdog, causing continuous resets on bench (persistent firmware issue identified by Sam Hild)
+- Timing check: Button timing appears acceptable (~1/2 second shorter than expected)
+- Separate issue: One aircraft's AP power switch doesn't respond to button interrupt despite switch acting as expected (also identified by Sam Hild)
+- EEPROM replacement considered but Sam reports low historical success rate
+- Unclear why behavior varies: some resets continuous, others shut down too early
+
+**Battery Configuration (August 27-28, 2026):**
+- **Current Configuration: 4s3p** (quad 3-cell configuration) maintained for motor/ESC compatibility (confirmed by Jack Elston and Alex Lomis)
+- **Testing Results: 4s2p** on Reliance RS50 cells behaves nicely (Alex Lomis)
+- Future consideration: potential move to 5-6s system with larger motors and 1.5m→2m wing expansion for increased payload versatility (requires customer requirements determination - Alex Lomis flagged as important for future product sizing)
+
 **Flight Operations:**
 - Battery threshold for VTOL landing: 3V/cell based on performance data
 - Hover capability limited to 8 minutes (1 minute with thermal constraints)
@@ -37,8 +50,8 @@ Time range: Early development through August 26, 2026 (ongoing project)
 - Decision to leave aircraft in Barbados rather than shipping back ($1600 vs $360 cost)
 - **ISARRA Delivery Priority (July 29, 2026):** S0-VTOL at ISARRA now top priority for ocean calibration data; two aircraft required for ERAU/ISARRA delivery (absolutely required), plus one for BST testing
 - **ISARRA Flight Week: August 30 - September 3, 2026** with target shipping by early week
-- **Delivery Timing - August 26, 2026:** Two S0 aircraft will ship tomorrow afternoon (August 27) for Friday (next day air) or Saturday (2nd day air) delivery to ERAU. Hotel shipping arranged for Saturday delivery. S0s require test flight on Thursday morning before shipment.
-- **Backup Shipping Plan:** BST's own S0 can ship this afternoon (August 26) if needed for ISARRA calibration day, with ERAU deliverables following Monday
+- **Delivery Timing - August 26, 2026:** Two S0 aircraft to ship for Friday (next day air) or Saturday (2nd day air) delivery to ERAU. Hotel shipping arranged for Saturday delivery. S0s require test flight before shipment.
+- **Backup Shipping Plan:** BST's own S0 can ship if needed for ISARRA calibration day, with ERAU deliverables following Monday
 - **Test Plan for ISARRA (August 17, 2026):**
   - 50 flights total (aggressive target given single aircraft and time constraints)
   - 5 flights >45 minutes collecting wind data
@@ -70,22 +83,10 @@ Time range: Early development through August 26, 2026 (ongoing project)
 
 ## Projects & Initiatives
 
-### S0-VTOL Flight Testing Campaign & Delivery (August 2026)
-**Current Status:** Active flight testing with S01005 as primary test aircraft; production scaling to 3 aircraft complete
+### S0-VTOL Flight Testing Campaign & Delivery (August-September 2026)
+**Current Status:** Active flight testing with S01005 as primary test aircraft; production scaling complete with 3 aircraft; critical focus on resolving autopilot power switch issues before ISARRA deployment (August 30 - September 3, 2026)
 
-**Recent Progress (August 26, 2026):**
-- **Three autopilot stacks "ready" and handed off to Alex Lomis** for integration into new airframes (Sam Hild)
-- **Software Build:** Binary git hash cf989224 deployed to two new aircraft (August 26, 09:10)
-- **Updated firmware:** Git hash fac00f21 released (August 26, 09:39) for pre-flight testing
-- **Pre-flight Testing Protocol:** New firmware requires 10-second joystick hover test before first transition flight
-- **Hardware Issue Identified:** Sam Hild reports hardware fault on one stack that didn't previously have one; surfaces not always coming up on power-on despite correct packet transmission - suspected hub board issue (August 26, 09:41)
-- **Test Rig Diagnostics:** Two of three autopilots appear functional; test rig identified as source of earlier issues rather than autopilot hardware (August 26, 09:26)
-
-**Earlier Progress (August 24-25, 2026):**
-- S01005 successfully completed full transition with minor GPS issues and multiple smooth transitions documented
-- 7 flights flown from ~95% to 40% battery; landing still manageable at 40% but takeoff near saturation at just under 50% (flying older Samsung cells; new RS50 cells expected to perform significantly better at <40%)
-- Plan to swap S1-VTOL avionics into S01005 for continued testing
-- Target 20+ transition flights on S01005 by August 25-26
-
-**Delivery Timeline:**
-- Two S0 aircraft shipping August 27 (tomorrow afternoon) for ERAU/IS
+**Critical Issues Blocking ISARRA Deployment (August 27-28, 2026):**
+- **Power Switch Boot Loop Issue (Primary - under investigation):**
+  - Affects at least one autopilot stack
+  - Power switch stuck on power-down, continuously triggering

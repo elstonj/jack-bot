@@ -3,35 +3,43 @@
 ## Overview
 - **Client:** By Light (Commercial)
 - **Total Budget:** $126,629 (all funding to Black Swift)
-- **Timeline:** Project start and due date both listed as 2026-05-30; all open tasks due 2026-09-21
-- **Status:** Active — 9 open tasks, 1 completed
+- **Timeline:** Project start and due date both listed as 2026-05-30; all build/test/delivery tasks due 2026-09-21
+- **Status:** Active — 10 open tasks, 0 completed
 - **Project Owner:** Ethan Domagala
 - **Priority:** Medium
+- **Risk Signal:** All 10 tasks concentrated on single September 21 deadline; previously completed battery task is now showing as open in current data (possible data sync issue)
 
 ## Key Deliverables & Milestones
 - **Build & Test Phase (Due 2026-09-21):**
   - Build 2x Chilli Wingsets and Tailsets
   - Attach surfaces to CF Halo Design
-  - Build smaller battery for Hawkeye payload integration ✓ (completed 2026-08-24)
-  - Complete gimbal, avionics hot swap, retracting car launch, and laser altimeter testing
+  - Test gimbal implementation
+  - Test Avionics hot swap
+  - Test retracting car launch system
+  - Test laser altimeter readings
   - Tune Autopilots
   - Flight test both CF Halo aircraft
-  - Package and ship to customer
+  - Package and ship CF Halo aircraft to customer
 
 ## Task Summary
-- **Total:** 9 open, 1 completed
-- **All tasks assigned to:** Ethan Domagala (100%)
-- **Completion rate:** 10% (1/10)
-- **Pattern:** Heavy concentration on build, integration, and flight test activities; all open tasks share September 21, 2026 deadline
+- **Total:** 10 open, 0 completed
+- **Tasks by assignee:**
+  - Ethan Domagala: 9 tasks (90%) — all build, test, flight test, and delivery work
+  - Maciej Stachura: 1 task (10%) — autopilot command acceptance error investigation (no due date)
+- **Completion rate:** 0% (0/10 open)
+- **Pattern:** Heavy concentration on Ethan Domagala for hardware build and test; single open item for Maciej on autopilot troubleshooting with no deadline set
 
 ## Recent Activity
-- **2026-08-24:** Battery build completed (Ethan Domagala) — first task to completion
-- All remaining 9 tasks are on track for September 21, 2026 deadline
-- Project appears to be progressing through build and test phase sequentially
+- **Data discrepancy noted:** Previous knowledge file showed 1 completed task (battery build, completed 2026-08-24). Current raw data shows 0 completed tasks — possible data sync issue or task re-opening.
+- All 9 Ethan-assigned tasks maintain September 21, 2026 deadline
+- Maciej's autopilot error task remains open with no due date — priority/timing unclear
 
 ## Notes & Context
 - This is a hardware/aircraft build and test project for a commercial customer
-- All open tasks are concentrated on a single September 21 deadline, suggesting a coordinated build-and-test sprint
-- **Deadline shift:** Due dates were previously listed as 2026-08-31; now updated to 2026-09-21 (21-day extension)
-- High concentration of work on one person (Ethan Domagala) — may warrant load assessment as project progresses toward final phase
-- Battery task completion suggests work is proceeding on schedule; remaining tasks are primarily build, test, and delivery activities
+- **All work is now showing as open** — if battery build was legitimately completed in August, this suggests either:
+  - Asana task was reopened for rework or testing
+  - Data sync lag between systems
+  - Task completion was reversed
+- Maciej's autopilot command acceptance error (tablet → landing plan) needs scheduling; currently orphaned with no deadline
+- High concentration of all build/test/delivery work on single person (Ethan Domagala) with unified September 21 deadline — suggests coordinated final sprint or waterfall phase
+- **Deadline context:** Previous knowledge noted a 21-day extension from 2026-08-31 to 2026-09-21; current data confirms September 21 deadline is active

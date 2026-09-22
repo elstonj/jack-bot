@@ -1,30 +1,30 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $5,003,395.28
-- **Total Expenses (Bills + Purchases):** $1,722,282.57
+- **Total Invoiced (Revenue):** $5,120,860.00
+- **Total Expenses (Bills + Purchases):** $1,796,428.80
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,281,112.71 (invoiced minus expenses)
-- **Date Range:** 2024-04-07 to 2026-09-28
+- **Net Position:** $3,324,431.20 (invoiced minus expenses)
+- **Date Range:** 2024-04-07 to 2026-10-05
 
 ---
 
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $5,003,395.28
-- **Total Collected (Outstanding Balance):** $3,852,686.82 remaining (invoices with open balances)
-- **Number of Invoices:** 91 active invoices
+- **Total Invoiced:** $5,120,860.00
+- **Total Collected (Outstanding Balance):** $3,971,151.82 remaining (invoices with open balances)
+- **Number of Invoices:** 95 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $1,288,959.00 | **FINAL:** Invoices #1739–#1741, #1773–#1777 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
+| [300-3] 2026 IDIQ | $1,390,459.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $849,180.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
-| [550-2] Navy STTR Hazardous Weather | $251,326.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767) |
+| [550-1] Navy SBIR Magnetometer | $863,639.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
+| [550-2] Navy STTR Hazardous Weather | $265,772.00 | **UPDATED:** Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
@@ -36,63 +36,48 @@
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
+| **[044-1] EMASS Chip Integration** | **$10,000.00** | **NEW: Invoice #1778 (2026-08-28)** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-08-02 to 2026-09-28) — **UPDATES & COMPLETIONS**
+### Recent Invoices (2026-08-28 to 2026-10-05) — **FINAL UPDATES & NEW PROJECT**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
-| **#1774** | **2026-08-03** | **$58,500.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Modification P26002 Invoice 1 of 3** | **$58,500.00** |
-| **#1775** | **2026-08-03** | **$58,500.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Modification P26002 Invoice 2 of 3** | **$58,500.00** |
-| **#1776** | **2026-08-03** | **$117,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Modification P26002 Invoice 3 of 3** | **$117,000.00** |
-| **#1741** | **2026-08-14** | **$72,000.00** | **[300-3] 2026 IDIQ** | **CLIN 1001 Invoice 6 of 6 (Final)** | **$72,000.00** |
 | **#1777** | **2026-08-25** | **$58,500.00** | **[300-3] 2026 IDIQ** | **Invoice 1 of 3 for CLIN 1001 (Modification P26002)** | **$58,500.00** |
+| **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Final)** | **$72,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
+| **#1781** | **2026-09-01** | **$14,446.00** | **[550-2] Navy STTR Hazardous Weather** | **CLIN 0007: Final Report (Option)** | **$14,446.00** |
+| **#1778** | **2026-08-28** | **$10,000.00** | **[044-1] EMASS Chip Integration** | **NEW PROJECT** | **$10,000.00** |
+| **#1776** | **2026-10-05** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
 
-**Recent invoice total (2026-08-02 to 2026-09-28):** $378,959.00  
-**[300-3] 2026 IDIQ 2026-08 incremental:** $306,000.00 (Invoices #1774, #1775, #1776, #1777) — **NOTE: Invoice #1774 voided 2026-08-03, reinstated as #1777 on 2026-08-25**  
-**[550-1] Navy SBIR total from recent period:** $14,459.00 (Invoice #1750 final, received 2026-09-28)
+**Recent invoice total (2026-08-28 to 2026-10-05):** $286,405.00  
+**[300-3] 2026 IDIQ incremental (2026-08-25 to 2026-09-28):** $247,500.00 (Invoices #1777, #1741, #1776)  
+**[550-1] Navy SBIR final:** $14,459.00 (Invoice #1750)  
+**[550-2] Navy STTR final option:** $14,446.00 (Invoice #1781)  
+**[044-1] EMASS NEW:** $10,000.00 (Invoice #1778)
 
 ---
 
 ## Expenses by Cost Category
 
-### **Direct Labor: $375.00**
+### **Direct Labor: $3,531.25**
 **Number of transactions:** 1
 
 **Key transactions:**
 
-- **Bill #BST-AUG2026-1** (2026-08-25): $375.00 — Matthew Crabtree (Black Swift internal)
-  - Rework deployment_tube_board_1-v0.1 (PMXB120EPE issue) — 3 hours labor
-  - **Project:** [300-3] 2026 IDIQ
+- **Bill #Inv3950** (2026-08-31): $3,531.25 — MicroFirm Engineering
+  - Labor (28.25 hrs) for August 2026 Work
+  - **Project:** Government (unspecified class, likely [300-3] IDIQ or [550-2] STTR)
 
 ---
 
-### **Subcontractors: $67,321.08**
-**Number of transactions:** 5
+### **Subcontractors: $3,531.25**
+**Number of transactions:** 1
+*(Note: This line item from Bill #Inv3950 represents labor services; included in "Subcontractors" per account classification)*
 
 **Key transactions:**
-
-- **Bill #AR262124** (2026-06-09): $7,000.00 — Old Dominion University Research Foundation
-  - Subcontract Agreement NO. N6833525C0270, Project No. 500567-010
-  - STTR: N25A-T025-0009 — "Expendable Air-Sea Profiling Observations in Hazardous Weather Conditions via Small Aircraft"
-  - **Project:** [550-2] Navy STTR Hazardous Weather
-
-- **Bill #1116** (2026-07-20): $6,777.40 — PHASE1 AVIATION LLC
-  - S0 Model wings x 10 (NOAA IDIQ - extras purchased)
-  - **Project:** [300-3] 2026 IDIQ
-
-- **Bill #CI012047** (2026-07-28): $26,767.34 — Embry Riddle University
-  - Task O.2: Wave Measurement Development - Option (Months 8–9): $13,383.66
-  - Task O.4: Stakeholder Engagement and Integration Planning - Option (Months 10–12): $13,383.68
-  - **Project:** [550-2] Navy STTR Hazardous Weather
-
-- **Purchase #1013** (2026-08-10): $10,010.00 — Subcontractor (S0 systems support)
-  - S0 Deployment tubes (20), S0 Fuse (26)
-  - **Project:** [300-3] 2026 IDIQ
-
-- **Bill #BST-AUG2026-1** (2026-08-25): $28,218.16 + $10,010.00 attributed above
-  - Parts Sourcing/Assembly/Stencils (remainder: $28,218.16 now reclassified to Materials & Supplies per line item)
-  - **Project:** [300-3] 2026 IDIQ
+- **Bill #Inv3950** (2026-08-31): $3,531.25 — MicroFirm Engineering
+  - Labor portion (28.25 hrs) — August 2026 Work
+  - **Project:** Government
 
 ---
 
@@ -101,39 +86,70 @@
 
 ---
 
-### **Materials & Supplies: $1,319,656.20**
-**Number of transactions:** 342
+### **Materials & Supplies: $5,146.61**
+**Number of transactions:** 11
 
-**Key vendors & items (updated 2026-08-02 to 2026-08-26):**
+**Key transactions (2026-08-27 to 2026-09-14):**
 
-#### **Sensor/Component Purchases**
-- **DKC*DIGI KEY CORP** (2026-08-10): $37.68 — Bartington Sensor Connectors
-- **QuSpin, Inc.** (2026-07-13): $10,000.00 — Gen 2.0 QTFM Sensor [550-1]
-- **IQinetics** (2026-08-05): $5,410.00 — Specialty components
-- **Microwave Filter Company / Pressure sensor imports:** $46,079.48 (cumulative, tariffs included)
+#### **Sensor & Technical Components**
+- **Purchase #70828** (2026-08-28): $3,436.50 — Magnetometer parts
+  - AP-Rear-Mount-Mag.step; MHP-Tip-Mag.step; Part-61-Mag.step, etc.
+  - **Project:** [550-1] Navy SBIR Magnetometer or related Government work
+  - *(Urgent procurement, J. Fromm direct purchase)*
 
-#### **Battery Systems**
-- **Amprius battery systems:** $29,834.13 (cumulative)
-- **GETFPV, LLC** (2026-08-25): $174.66 — Tattu R-Line 22.2V 2200mAh x 2 batteries
-- **Amazon/PayPal** (2026-08-14): $84.08 — Duty Fees for Grepow shipment
-- **Amazon** (2026-08-12): $134.97 — Anker 140W power supply (J. Elston's Hawaii trip)
+- **Purchase #0827JELSTON** (2026-08-27): $110.42 — Mixed supplies
+  - $26.87 Navy Magnetometer supplies
+  - $83.55 By Light supplies
+  - **Project:** [550-1] Navy SBIR / Other
 
-#### **Radio Systems (P400 Base Model)**
-- **Purchase** (2026-08-03): $6,822.50 — P400 radios x 40 (50% of total payment, $13,645.00 full value)
+#### **Electronics & Hardware**
+- **Purchase #1001508314** (2026-08-28): $148.50 — GETFPV, LLC
+  - Tattu R-Line 22.2V 2200mAh x 2 (batteries)
   - **Project:** [300-3] 2026 IDIQ
 
-#### **Airframe & Structural Components**
-- **JAWSTEC** (2026-08-08): $1,386.32 — Items for IDIQ (plus $554.33 for future S3 sales inventory)
-- **Previous JAWSTEC transactions (June–July 2026):** $8,606.48 cumulative
-  - Wire-cap-V475.step; Antenna-Shaft-Main.step; Elevator-servo-plug-V475.step; structural drawings
+- **Purchase #W091410090567** (2026-09-14): $146.90 — Raspberry Pi Zero 2 W Starter MAX Kit
+  - **Project:** Government (unspecified)
+  - *(Direct purchase by J. Elston)*
 
-- **CST THE COMPOSITES STORE** (2026-08-06): $460.99 — DPP High Modulus Carbon Fiber Strip x 50
-- **PROTO LABS** (2026-08-06): $516.42 — Power strips x 25 (bulk order)
-- **High Modulus Carbon Fiber** (2026-08-04): $465.00 — Rods and strips x 50 (shipped to Phase1 Aviation Sean Cole)
+- **Purchase #0908JELSTON** (2026-09-08): $66.69 — Mixed materials
+  - White Delrin® Acetal Resin Tube & 18-8 Stainless Steel Wire Rope
+  - **Project:** Government (unspecified)
 
-#### **Deployment Tubes & Hardware**
-- **S0 Deployment Tubes & Hardware** (2026-07-30): $8,355.00 (cumulative)
-- **Purchase #1013** (2026-08-10): $10,010.00 — S0 Deployment tubes (20), S0 Fuse (26)
-- **Additional small structural components (2026-08 batch):**
-  - Short-Thread Alloy Steel Shoulder Screw (2026-08-07): $28.18
-  - Low-Carbon Steel Bar, 1/8" Thick (2
+- **Purchase #0908JELSTON** (2026-09-10): $51.72 — 18-8 Stainless Steel Wire Rope Extra-Flexible
+  - **Project:** Government (unspecified)
+
+- **Purchase** (2026-08-27): $17.98 — Micro USB2.0 Male to Micro USB Male 5Pin Ultra Slim Flat Data Charge Cable
+  - **Project:** Government (unspecified)
+
+- **Bill #Inv3950** (2026-08-31): $928.13 — MicroFirm Engineering
+  - Parts & Shipping (August 2026)
+  - **Project:** Government
+
+#### **Total Materials & Supplies (2026-08-27 to 2026-09-14): $5,106.84**
+
+---
+
+### **Travel: $8,989.19**
+**Number of transactions:** 21
+
+**Major Travel Event: M. Stachura Hawaii Trip (Hurricane Lowell Deployment) — 2026-09-03 to 2026-09-10**
+
+| Date | Description | Amount | Category |
+|------|-------------|--------|----------|
+| 2026-09-03 | UNITED flight to Hawaii (2x) | $1,754.20 | Airfare |
+| 2026-09-04 | UNITED flights / connections (5 transactions) | $2,214.20 | Airfare |
+| 2026-09-05 | UNITED flights (2 transactions) | $1,762.20 | Airfare |
+| 2026-09-05 | Hotel (Marriott Waikoloa) | $43.65 | Lodging |
+| 2026-09-07 | Meals & incidentals (5 transactions) | $143.25 | Per Diem |
+| 2026-09-08 | Meals, rides, incidentals (3 transactions) | $175.20 | Per Diem & Transport |
+| 2026-09-09 | Hotel (Marriott Waikoloa) | $1,339.04 | Lodging |
+| 2026-09-09 | Meals & incidentals (3 transactions) | $114.68 | Per Diem |
+| 2026-09-10 | Parking (Denver) | $175.00 | Transport |
+
+**M. Stachura Hawaii Subtotal: $7,721.42**
+**Project: [301-3] S0 Hurricane Phase II / [300-3] 2026 IDIQ (field operations)**
+
+#### **Other Travel Reimbursement:**
+- **Purchase** (2026-08-27): $1,092.16 — A. Lomis reimbursement for Lakeland, FL trip (July 2026)
+  - United Airlines: $1,128.81
+  - Denver Airport Pass: $

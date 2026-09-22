@@ -1,85 +1,58 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 133 emails (119 previous + 14 new)
-- **Date range:** Thu, 20 Aug 2026 – Wed, 26 Aug 2026 (7-day window); new data extends to 27 Aug 2026
-- **Approximate volume:** Heavy sustained activity throughout the week; peak on Aug 20 and Aug 25 (order/shipment cascades); automated/transactional emails dominate (~70% of volume); Aug 26–27 shows continued promotional and task notification patterns
+- **Total messages scanned:** 280 emails (233 previous + 47 new)
+- **Date range:** Thu, 20 Aug 2026 – Mon, 21 Sep 2026 (32-day window)
+- **Approximate volume:** Heavy sustained activity; ~8.75 emails/day average. Automated/transactional emails dominate (~75% of volume). New batch (Sep 15–21) shows significant spike in military/government coordination (Navy SBIR, NOAA research tasking, TCE 26.2 test event prep). Peak activity: Sep 18–21 (Black Swift Final Team/TCE 26.2 finalization, Navy SBIR Phase II scheduling, NOAA research tasking N42/N43 EPAC).
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Purchasing alias** (purchasing@blackswifttech.com) — ~60+ emails routed through this address (order confirmations, tracking, shipments, promotions)
-2. **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — 4 emails (order confirmations/receipts)
-3. **DigiKey** — 5 emails (order confirmations, shipping, invoices)
-4. **GetFPV** — 4 emails (promos, order confirmations, shipping)
-5. **3DR** — 4 emails (order confirmation, shipping, welcome)
-6. **MKS Servos USA** — 5 emails (order confirmations, processing)
-7. **Asana** (no-reply@asana.com, learn@go.asana.com) — 9 emails (task assignments, notifications, overdue items, product updates)
-8. **Harbor Freight** (via Purchasing) — 9 emails (promotions, coupons, sales)
-9. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) via Asana — 3 task assignments/updates
-10. **Nicholas Ingarra** (ningarra@munrodefense.com) — 2 direct emails (fuel cell discussion)
-11. **Luka** (luka@gensace.com) — **NEW**: 1 direct email (Grepow battery metrics/validation report)
-12. **Kevin Adkins** (adkinsk@erau.edu) — **NEW**: 1 thread continuation re: ISARRA/Flight Week Aircraft
+1. **Purchasing alias** (purchasing@blackswifttech.com) — ~95+ emails routed (order confirmations, tracking, shipments, invoices, promotions)
+2. **Asana** (no-reply@asana.com) — 15+ emails (task assignments, overdue notifications, task summaries)
+3. **McMaster-Carr** — 8+ emails (order confirmations, receipts, tracking)
+4. **UPS, USPS, Pirate Ship** — 10+ combined (pickup requests, tracking, delivery)
+5. **Beck Cotter** (beck.cotter@blackswifttech.com) — **INCREASED TO 15+ emails** (primary Navy liaison, SOCOM/SBIR coordination, TCE 26.2 meeting organizer, NOAA multi-agency meetings)
+6. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **NEW TOP CONTACT: 6+ emails** (Navy NAWCAD, TCE 26.2 team/status, TAK files/SITREP, Powerpoint coordination, auto-reply protocol engagement)
+7. **Joe Cione** (joe.cione@noaa.gov) — **NEW TOP CONTACT: 3+ direct emails** (research tasking N42/N43 EPAC multi-agency coordination, direct recipient with Jack Elston, Joshua Wadler)
+8. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **INCREASED: 8+ emails** (co-recipient on military meetings, Navy SBIR check-in, shop facility layout planning, TCE test packing checklist shared)
+9. **Maciej Stachura** (stachura@blackswifttech.com) — 5+ emails (NOAA research tasking, Navy SBIR Phase II, TCE 26.2)
+10. **Jack Elston** (elstonj@blackswifttech.com) — **INCREASED: 6+ emails** (NOAA research tasking N42/N43 primary recipient, co-recipient on Navy meetings, TCE 26.2)
+11. **Paul DeMond** (Paul.DeMond@umaritime.com) — **NEW KEY EXTERNAL: 3+ emails** (Navy SBIR Phase II check-in, Ultra Maritime partnership, marked IMPORTANT)
+12. **Joshua Wadler** (wadlerj@erau.edu) — **NEW: 2+ emails** (NOAA research tasking N42/N43 EPAC coordination, ERAU-NOAA bridge)
+13. **Jun Zhang** (jun.zhang@noaa.gov) — **NEW: 1+ email** (NOAA research tasking EPAC, affiliate status)
+14. **Daniel Klier** (daniel.e.klier.civ@us.navy.mil) — **NEW: 1+ email** (Navy NSWC IHD, Black Swift Final Team/TCE 26.2 coordination)
+15. **Jacob Bodimeade** (jacobbodimeade@verifiedelectronicsglobal.com) — **NEW DIRECT CONTACT** (Verified Electronics Global; shortage/supply coordination, marked IMPORTANT)
+16. **Ian Digman** (ian.digman@donutlab.com) — **NEW DIRECT CONTACT** (Donut Lab; marked IMPORTANT)
+17. **Lauren Nagel** (l.nagel@tytorobotics.com) — 1 email (industry study participation invite)
+18. **Gateworks** (sales@gateworks.com), **JawsTec**, **CADDXFPV**, **Hobbyking**, **NewBeeDrone** — 4–5 emails each (component pricing/availability, promotions)
+19. **Danielle Varwig, Nikolai Pawlenko, Laura Rock** (NOAA Federal) — 1+ email each (NOAA research tasking N42/N43 multi-agency team)
 
-### Top Recipients (outbound)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Recipient on forwarded fuel cell discussion
-- **Maciej Stachura** (stachura@blackswifttech.com) — Recipient on ISARRA/Flight Week Aircraft discussion; also direct recipient from Kevin Adkins (ERAU)
-- **Jack Elston** (elstonj@gmail.com / elstonj@blackswifttech.com) — Co-recipient on ISARRA aircraft thread
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — Shop floor layout meeting organizer
-- **Meredith Needham** (purchasing@blackswifttech.com) — Appears as recipient on HeliDirect promotional email (likely secondary ordering/procurement contact)
+### Top Recipients (outbound visible via CC/BCC patterns)
+- **Beck Cotter** — Primary outbound (Alex responds/coordinates via Beck on military matters)
+- **Joshua Fromm** — Co-recipient on Navy meetings, NOAA meetings, SBIR check-ins
+- **Maciej Stachura** — Co-recipient on Navy SBIR Phase II, NOAA research tasking
+- **Jack Elston** — Co-recipient on NOAA research tasking (EPAC focus), Navy meetings
+- **Paul DeMond** (Ultra Maritime) — New outbound target (Navy SBIR Phase II meeting Sep 29)
+- **Joe Cione** (NOAA) — Direct recipient on NOAA research tasking multi-agency threads
+- **Angel R. Ruiz-Reyes** (Navy NAWCAD) — Direct recipient on TCE 26.2/Final Team coordination
+- **Daniel Klier** (Navy NSWC IHD) — Co-recipient on Black Swift Final Team coordination
 
 ### Internal vs External
-- **Internal:** ~15 emails (Maciej Stachura, Joshua Fromm, Jack Elston, Spencer Hoehl, Cory Dixon, Meredith Needham)
-- **External (direct to Alex):** ~9 emails (**NEW:** Luka/Gensace, Kevin Adkins thread continuation; existing: Nicholas Ingarra/Munro Defense, Tim Hegwood/KrateoSky, GetFPV, Protolabs, Verizon Business, PartBase, Onshape, NOAA Federal)
-- **Automated/Transactional:** ~85+ emails (order confirmations, tracking, newsletters, promotions, Asana notifications)
-- **Routed through Purchasing alias:** ~60+ emails
+- **Internal BST:** ~35 emails (Beck Cotter, Joshua Fromm, Maciej Stachura, Jack Elston, Cory Dixon, Daniel Prendergast, Sam Hild, Ethan Domagala)
+- **External (direct to Alex):** **~20 emails** (NOAA Federal multi-agency: Joe Cione, Jun Zhang, Danielle Varwig, Nikolai Pawlenko, Laura Rock; Navy: Ruiz-Reyes, Klier; Ultra Maritime: Paul DeMond; Verified Electronics: Jacob Bodimeade; Donut Lab: Ian Digman; ERAU: Joshua Wadler; industry: Tyro Robotics, Aviation Week, Verizon, Gateworks)
+- **Automated/Transactional:** ~215+ emails (order confirmations, tracking, logistics, Asana, transit, promotions)
+- **Routed through Purchasing alias:** ~95+ emails
 
 ### Key External Contacts
-- **Luka** (luka@gensace.com) — **NEW CONTACT**: Gensace/Grepow battery supplier; direct discussion about long-term discharge retention metrics and field validation report for Grepow 380Wh/kg drone cells (marked IMPORTANT; Aug 26)
-- **Nicholas Ingarra** (ningarra@munrodefense.com) — Munro Defense; fuel cell replacement discussion for "12S-4P" project
-- **Kevin Adkins** (adkinsk@erau.edu) — Embry-Riddle Aeronautical University; ISARRA/Flight Week Aircraft collaboration (thread continued Aug 26)
-- **Tim Hegwood** (tim@krateosky.com) — KrateoSky; collaboration/calendar visibility
-- **Joe Cione** (joe.cione@noaa.gov) — NOAA Federal; video file sharing
 
-## Topic Patterns
+#### Government/Military (NEW PROMINENCE)
+- **Navy NAWCAD** — Angel R. Ruiz-Reyes (primary contact), Aaron D. Pyrah; TCE 26.2 test event coordination, Black Swift Final Team/TCE 26.2 status updates, TAK files/SITREP exchange, [Non-DoD Source] protocol active
+- **Navy NSWC IHD** — Daniel E. Klier; Black Swift Final Team/TCE 26.2 coordination
+- **NOAA Federal (multi-agency research)** — Joe Cione (lead coordinator), Danielle Varwig, Nikolai Pawlenko, Laura Rock, Mark Rogers, Jun Zhang (affiliate); research tasking N42 & N43 EPAC (East Pacific), direct operational/research coordination with BST
+- **ERAU Partners** — Joshua Wadler (wadlerj@erau.edu), Kevin Adkins; NOAA research tasking bridge
 
-### Recurring Subjects
-
-#### Hardware/Component Procurement
-- **Batteries & Power Systems:** DigiKey orders, **Grepow 380Wh/kg drone cells (NEW focus area)**, Battery Junction promotions, 3DR orders, GensTattu
-- **Servo Motors & Flight Control:** MKS Servos USA orders, Dronetag
-- **Industrial/Mechanical Components:** McMaster-Carr orders, VXB Bearings, Harbor Freight (metalworking tools newly emphasized)
-- **Sheet Metal & Fabrication:** SendCutSend, Protolabs, Rock West Composites
-- **Aerospace/Specialty:** SkyGeek, HeliDirect (Goosky E7, RS5 Ultra preorder mentioned)
-- **PCB Manufacturing:** **PCBWay (NEW supplier)** end-use declaration (Aug 27)
-
-#### Active Projects (from subject lines & correspondence)
-1. **"12S-4P" Fuel Cell Project** — Munro Defense collaboration; fuel cell replacement inquiry
-2. **"S01005 Autopilot Swap"** — Fleet maintenance task
-3. **"S0 VTOL"** — Flight testing; task notifications
-4. **ISARRA & Flight Week Aircraft** — ERAU collaboration (Kevin Adkins); thread active Aug 26
-5. **"New Shop Floor Layout"** — Working meeting Aug 26
-6. **Battery Performance/Validation** — **NEW FOCUS**: Grepow 380Wh/kg drone cells with long-term discharge retention metrics and field validation (direct correspondence with Luka/Gensace)
-
-#### Supplier/Vendor Ecosystem (Updated)
-- **High-precision manufacturing:** Protolabs, SendCutSend, Rock West Composites
-- **PCB Manufacturing:** **PCBWay (NEW)**
-- **Electronics:** DigiKey, GetFPV, 3DR, MKS Servos, Battery Junction, GensTattu, **Gensace/Grepow (NEW focus)**
-- **Industrial supply:** McMaster-Carr, Grainger, Harbor Freight, Speedway Motors
-- **Specialty aerospace/drone:** GetFPV, 3DR, HeliDirect (Goosky E7, RS5 Ultra), SkyGeek, uAvionix, Dronetag
-- **Tools & equipment:** Harbor Freight, My Cable Mart, VXB Bearings
-- **Logistics & utilities:** Verizon Wireless (SMB promotion targeting Alex directly; Aug 26)
-- **Sustenance/Beverages:** Spindrift Market
-- **Batteries & Energy:** **Gensace/Grepow** (technical performance focus)
-
-### Project Indicators (from metadata)
-- **Drone/UAS development:** GetFPV, 3DR, Dronetag activity; battery procurement ongoing
-- **Aircraft/flight systems:** ISARRA collaboration active; VTOL testing; autopilot work
-- **Power systems engineering:** Fuel cell evaluation (Munro Defense); **NEW: high-energy-density battery validation** (Grepow 380Wh/kg cells; field validation report focus)
-- **Electronics design:** **NEW: PCB manufacturing engagement** (PCBWay end-use declaration suggests active design work)
-- **Shop/manufacturing:** Layout planning; prototyping (Protolabs); custom fabrication
-- **Fleet maintenance:** S01005 autopilot swap
-- **Metalworking capability:** Harbor Freight metalworking tools promotion (Aug 26) — may indicate new fabrication direction
-
-### Newsletters & Subscriptions
-- **Supplier promotions:** GetFPV, Harbor
+#### Commercial Partners (NEW/ESCALATED)
+- **Ultra Maritime** (umaritime.com) — Paul DeMond, Shannon Eix; Navy SBIR/Ultra Maritime partnership check-in meeting scheduled Sep 29; "[Non-DoD Source]" protocol; Phase II coordination (N251-016)
+- **Verified Electronics Global** — Jacob Bodimeade; supply chain/shortage coordination for "Black Swift" components (marked IMPORTANT)
+- **Donut Lab** — Ian Digman; contact establishment (marked IMPORTANT; possible manufacturing/materials support

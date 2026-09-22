@@ -4,11 +4,12 @@
 - **Client:** Overhead
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 13.8 hours (cumulative)
+- **Total hours tracked:** 19.8 hours (cumulative)
 
 ## Team Allocation
-- **Jack Elston:** 9.0 hours
+- **Jack Elston:** 13.0 hours
 - **Ethan Domagala:** 4.8 hours
+- **Dan:** 2.0 hours
 
 ## Activity Timeline
 
@@ -22,19 +23,27 @@
 - KrateoSky Supply Chain Specialist Recruiting Kickoff (1.0h, Jack Elston)
 - Culture assessment (1.0h, Ethan Domagala)
 
-### Recent Phase (Ongoing Operations)
+### Recent Phase (Ongoing Operations & Active Recruiting)
 - Raven meeting (1.0h, Ethan Domagala)
 - Weekly meeting (0.8h, Ethan Domagala)
-- **Culture meeting w/ Creative Alignments** (0.8h, Ethan Domagala) — *latest*
-- **Weekly meeting** (0.5h, Ethan Domagala) — *latest*
-- **Alec Visit** (0.5h, Jack Elston) — *latest*
-- **Weekly KS–Creative Alignments Sync** (0.5h, Jack Elston) — *latest*
-- **Creative Alignment: Foundational Report Review** (1.0h, Jack Elston) — *latest*
+- Culture meeting w/ Creative Alignments (0.8h, Ethan Domagala)
+- Weekly meeting (0.5h, Ethan Domagala)
+- Alec Visit (0.5h, Jack Elston)
+- Weekly KS–Creative Alignments Sync (0.5h, Jack Elston)
+- Creative Alignment: Foundational Report Review (1.0h, Jack Elston)
+
+### Current Phase (Active Interview Cycle)
+- **Black Swift Technologies TPM Interview: Chad McFarland** (1.0h, Jack Elston) — *latest*
+- **Black Swift Technologies TPM Interview: Paige Beert** (1.0h, Jack Elston) — *latest*
+- **Onsite Interview for Mfg / Production Eng with Black Swift Technologies / KrateoSky: Josh Waldman** (1.0h, Jack Elston with Maciej) — *latest*
+- **Financials Update - Accordion Based** (1.0h, Jack Elston) — *latest*
+- **Dan - Unspecified work** (2.0h, Dan) — *latest*
 
 ## Insights
-- **Shared ownership model:** Both Jack Elston and Ethan Domagala now actively contributing, with Jack returning to execution after initial strategy phase
-- **Cross-organizational culture work:** Creative Alignments partnership deepening—culture meetings and foundational report review indicate ongoing organizational design or integration effort
-- **Recurring operational cadence:** Weekly meetings now appearing multiple times per tracking period, suggesting established governance rhythm
-- **KrateoSky ongoing coordination:** Weekly syncs with Creative Alignments on KrateoSky matters indicate sustained vendor/partner relationship management
-- **Recruiting initiated but not prominent in recent entries:** Initial recruiting kickoffs completed; current activity focused on culture, alignment, and operational synergy rather than active hiring campaigns
-- **No billable hours:** Consistent internal overhead classification
+- **Recruiting momentum accelerating:** Initial recruiting kickoffs have evolved into active interview cycles. TPM and Manufacturing/Production Engineering positions now in candidate evaluation phase.
+- **Jack Elston leading execution:** Jack's hours increasing with direct candidate engagement (interviews with Chad McFarland, Paige Beert, Josh Waldman).
+- **New team member engaged:** Dan now contributing 2.0 hours (purpose unspecified in tracking data—may warrant clarification).
+- **Cross-functional interview process:** Manufacturing/Production Engineering candidate (Josh Waldman) interviewed with both Jack and Maciej, indicating collaborative evaluation.
+- **Financial tracking alongside HR:** Financials update suggests integration of recruiting/HR budget monitoring.
+- **Sustained culture and operations work:** Ethan Domagala continuing parallel culture alignment and weekly governance activities.
+- **No billable hours:** Remains internal overhead.

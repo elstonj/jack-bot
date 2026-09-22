@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2026-08-27",
+    "end": "2026-09-15"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 306.77,
+    "expenses": 326.41,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 306.77
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 326.41
     }
   },
   "invoices": [],
@@ -19,19 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-08-25",
-      "doc_number": "CLYVSOCSY",
-      "total": 306.77,
-      "attributed": 306.77,
+      "date": "2026-08-28",
+      "doc_number": "448158757",
+      "total": 326.41,
+      "attributed": 326.41,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "RemoteID Module for NREL (NLR) customer. Their E2 is beyond the warranty/support window.",
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
       "lines": [
         {
-          "amount": 306.77,
+          "amount": 326.41,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Dronetag Mini 4G"
+          "description": "Shipping S3 from UMES to BST for repair"
         }
       ]
     }
