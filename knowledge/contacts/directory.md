@@ -93,8 +93,6 @@
 - **Swift Web** — Service Account
   - Email: swiftweb@blackswifttech.com
 
----
-
 ## Summary
 
 **Total Headcount:** 16 active employees + 5 service accounts (21 total roster entries)
@@ -118,7 +116,7 @@
 - ✅ **VERIFIED:** All 16 active employees present and confirmed in new data
 - ✅ **VERIFIED:** All 5 service accounts confirmed in new data
 - ✅ **CONSISTENT:** Phone numbers standardized across all entries (all now in XXX-XXX-XXXX format)
-- ✅ **NO CHANGES:** Complete roster alignment between previous snapshot and current data
+- ✅ **NO ROSTER CHANGES:** Complete alignment between previous snapshot and current data
 - Five team members remain unclassified — recommend clarification of roles and departments
 
 **Observations:**

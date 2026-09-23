@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through September 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through September 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, and cross-organizational coordination with KS (partner organization). Most recent activity (September 18, 2026) reflects equipment receipts, facility maintenance coordination, and NASA S2 pallet logistics.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through September 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through September 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, and cross-organizational coordination with KS (partner organization). Most recent activity (September 22, 2026) reflects NASA shipment logistics coordination and facility scheduling.
 
 ---
 
@@ -55,4 +55,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **May-June 2026 Mexico/Import Coordination:** Dan Prendergast identified historical correspondence regarding battery shipments to Mexico. Discovery that ECCN (Export Control Classification Number) was not obtained for batteries; Mexico import was processed as permanent import rather than temporary export. Dan coordinating with customs broker Javi to clarify procedures. Jack Elston deferred response pending additional information (May 27, 2026).
 
-**June 30, 2026 - Battery Import Authorization:** Dan Prendergast requested permission from Jack Elston to sign power
+**June 30, 2026 - Battery Import Authorization:** Dan Prendergast requested permission from Jack Elston to sign power of attorney documentation for customs broker to retrieve

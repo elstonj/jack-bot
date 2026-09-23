@@ -1,16 +1,20 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-22",
+    "end": "2026-09-23"
   },
   "totals": {
-    "revenue": 247500.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "revenue": 189000.0,
+    "expenses": 516.75,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 468.75,
+      "DIRECT COSTS:DC-Direct Material Purchases": 48.0
+    }
   },
   "invoices": [
     {
@@ -58,32 +62,33 @@
           "description": ""
         }
       ]
-    },
+    }
+  ],
+  "bills": [
     {
-      "type": "Invoice",
-      "date": "2026-09-16",
-      "doc_number": "1785",
-      "total": 58500.0,
-      "attributed": 58500.0,
-      "vendor": "",
-      "customer": "[300-3] 2026 IDIQ",
-      "balance": 58500.0,
+      "type": "Bill",
+      "date": "2026-09-22",
+      "doc_number": "BST-SEPT2026-1",
+      "total": 516.75,
+      "attributed": 516.75,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 58500.0,
-          "account": "",
-          "description": "Invoice 2 of 3 for CLIN 1001 (Modification P26002)"
+          "amount": 468.75,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "CB Rework \u2013 DeploymentTube2_v06 (PCB repair, milling) (3.75hrs)"
         },
         {
-          "amount": 58500.0,
-          "account": "",
-          "description": ""
+          "amount": 48.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Materials for fixturing and setup"
         }
       ]
     }
   ],
-  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

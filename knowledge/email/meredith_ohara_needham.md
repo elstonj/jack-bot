@@ -1,89 +1,79 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,541 emails (2,496 previous + 45 from Sep 22, 2026)
-- **Date range:** June 15–September 22, 2026 (100 days)
-- **Approximate volume:** ~25 emails/day (stable; consistent throughput)
-- **Trend:** **Financial audit/operational consolidation continuing; government contract engagement (NOAA) multi-stakeholder escalation; supplier logistics (Aeronet/Horizon Hobby) active; HR administration (terminations, international onboarding via Deel); facility/infrastructure procurement; external invoicing coordination**
+- **Total messages scanned:** 2,612 emails (2,541 previous + 71 new from Sep 22–23, 2026)
+- **Date range:** June 15–September 23, 2026 (101 days)
+- **Approximate volume:** ~25–26 emails/day (stable; consistent throughput)
+- **New activity (Sep 22–23):** 71 messages in 2 days; dominated by automation/alerts + critical operational threads (ACCORDION training, Krateo Sky integration, COBRA/Deel onboarding, facility pest control, insurance policy updates)
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Sep 22)
+### Incoming (by frequency — updated through Sep 23)
 
 **Automated Systems & Purchasing Routing:**
 
-1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,290+ cumulative messages**
-   - **Amazon orders** — Furniture, lighting, fans, essentials (ongoing office fit-out)
-   - **Spindrift Market subscription order** (Sep 22, 04:03) — Beverage/supplies recurring purchase
-   - **Grainger alerts** — Water softener inquiry (Sep 21); facility/infrastructure equipment
-   - **Pirate Ship shipping** — $8.62 payment receipt (Sep 21); small package logistics
-   - **UPS tracking alerts** — Package customs clearance (Sep 21, 19:43); active freight movement
-   - **Significance:** Sustained procurement; facility expansion/infrastructure work; recurring consumables (beverage service subscription)
+1. **Purchasing system** (`purchasing@blackswifttech.com`) — **1,350+ cumulative messages**
+   - **Active Sep 22–23 shipment tracking:**
+     - DigiKey PO acknowledgements (Sep 22, invoice 133181898 shipped; PO #101782555 & #101780405)
+     - Pirate Ship payment receipt (Sep 22, 17:34, $84.48)
+     - PHASE1 AVIATION LLC invoice 1122 (Sep 22, 15:54) — **appears to be recurring vendor**
+     - QuickBooks payment confirmation to PHASE1 AVIATION LLC (Sep 22, 18:57)
+     - UPS alerts (Sep 22, 18:25 — packages arriving next day)
+     - AliExpress cart price drop alerts (Sep 22, 20:16)
+     - Grainger (facility/infrastructure; concrete stain removal query Sep 23, 01:00)
+     - HeliDirect sales (Pulse Heli Flight Packs Sep 23, 13:27) — **drone/UAV component vendor**
+     - Master Electronics alert (Sep 23, 13:51)
+     - USPS Informed Delivery daily digest (Sep 23, 13:27)
+   - **Pattern:** Sustained high-velocity procurement; facility fit-out ongoing; drone/UAV component sourcing active; daily logistics tracking
+
+2. **Financial & Tax Advisory (Elevated Priority — Accordion/Krateo Sky Coordination):**
+
+   - **Nicholas Grande / Nicholas Rodgers** (`ngrande@accordion.com` / `nicholas.rodgers@accordion.com`) — **15+ direct exchanges through Sep 22**
+     - **New subjects (Sep 22):**
+       - Sep 22, 18:44: August Payroll JE Upload [IMPORTANT] — **2nd instance same day (also 18:37)**
+       - Sep 22, 19:42: RE: Operating Budget Training & Transition [IMPORTANT] — Nicholas Grande responds to Meredith's Sep 22, 13:54 response
+     - **Pattern:** ACCORDION PAYROLL CYCLE ACTIVE — August payroll JE uploads (2 emails same 5-min window suggests dual system or correction); Operating Budget training continuing; spend tracking transition (from previous data) now in parallel training phase
+     - **Significance:** **ACCORDION LIVE OPERATIONS** — Payroll processing moving into system; financial month-end/cycle visible
+
+   - **Cory Dixon** (`cory@krateosky.com`) — **Major escalation Sep 22–23** [IMPORTANT on all]
+     - **New subjects (Sep 22–23):**
+       - **Sep 23, 12:51:** BST <> KS Integration Meeting Agenda Slides [IMPORTANT] — **Large org-wide meeting prep**
+         - **TO:** Sona Raziabeegum (Krateo Sky), Jack Elston, Bob Smith, Maciej Stachura, Brian Grubel, Adria Passola, Lluis Pedragosa, Ariel Avitan, Thibault Bridel-Bertomeu, LisaMarie Cheney, Dipan Amin, Tim Hegwood, Jed Leonard, Joshua Fromm, Pam Kermisch, Don Spinozzi, **Meredith Needham** (tagged [EXT]), Bob Gold, Jasmine Khambatta, Roger Riley
+         - **19 recipients across Krateo Sky + 4 BST internal** — indicates board/executive-level coordination
+       - **Sep 22, 19:07:** Request for blockers and priorities from KS for BST <> KS Integration meeting [IMPORTANT]
+         - Same large recipient list; soliciting blocking issues pre-meeting
+     - **Contact** (`contact@krateosky.com`) — Sep 22, 18:41: Meeting summary: Operating Budget Training & Transition [IMPORTANT] — **post-meeting recap distributed**
+     - **Significance:** **KRATEO SKY ↔ BST STRATEGIC INTEGRATION ENTERING ACTIVE PHASE** — Multi-stakeholder meeting scheduled; blockers being collected; financial coordination (ACCORDION) + operational integration (KS <> BST) happening in parallel
+
+   - **Rippling Support & HR Offboarding** — **High volume Sep 22** [IMPORTANT flags continue]
+     - **Rippling Auto** (`no-reply@rippling.com`) — Sep 23, 11:07: Action required: You have pending tasks in Black Swift Technologies [IMPORTANT] — **ongoing HR task queue**
+     - **Nate Straus** (`nathanieljohnstraus@gmail.com`) — **TERMINATED EMPLOYEE COBRA COORDINATION**
+       - Sep 22, 09:37: Re: Update on COBRA from Rippling [IMPORTANT] — Nate responds to Meredith's morning outreach
+       - Meredith initiates (Sep 22, 09:28): Update on COBRA from Rippling [SENT]
+       - Meredith also sends (Sep 22, 09:07) to Nathaniel Straus (`nate.straus@blackswifttech.com`) — internal copy
+     - **Significance:** **ACTIVE TERMINATION OFFBOARDING** — COBRA benefits processing for Nate Straus; coordinated Rippling/COBRA handling continuing from previous period
+
+   - **Human Interest 401(k)** (`noreply-support@mail.humaninterest.com`) — Sep 22, 16:07: Admin Task Digest for Black Swift Technologies 401(k) Plan [IMPORTANT] — **plan administration ongoing; no change from previous pattern**
 
 ---
 
-2. **Financial & Tax Advisory (High Priority — Expanded):**
+3. **Government Contracts (NOAA — Continued Active Engagement):**
 
-   - **Nicholas Grande / Nicholas Rodgers** (`ngrande@accordion.com` / `nicholas.rodgers@accordion.com`) — **13+ direct exchanges through Sep 22**
-     - **New subject (Sep 21, 17:14):** Industrial Plan Spend Tracking Transition [IMPORTANT]
-       - **CC:** Cory Dixon (`cory@krateosky.com`) — Krateo Sky (Meredith's external financial advisor relationship)
-     - **Pattern:** ACCORDION OPERATIONAL SYSTEM TRAINING CONTINUING — Industrial Plan Spend Tracking (new focus Sep 21); previous training (Operating Budget, Reporting Package, Payroll JE) completed/active
-     - **Significance:** **ACCORDION SYSTEM CUTOVER ACCELERATING** — Spend tracking transition now explicit; financial systems consolidation entering live operational phase
-
-   - **Rippling Support** (`support@rippling.com`) — **7+ direct exchanges, Sep 18–22** [STARRED/IMPORTANT on all critical threads]
-     - **Key subjects (Sep 21):**
-       - Sep 21, 19:56: Re: Terminated employee not receiving updates from Rippling [YELLOW_STAR, IMPORTANT, STARRED] — **SUPPORT RESPONSE on access/401k removal**
-       - Sep 21, 13:56: Meredith sends response to Rippling on terminated employee [SENT]
-       - Sep 21, 13:15: Meredith initiates terminated employee access issue [SENT]
-     - **Secondary contact:** Nate Straus (`nathanieljohnstraus@gmail.com`) — Sep 21, 13:56 & 13:22 (Meredith sends "Response from Rippling re. access & 401k" and "Re: login") — **Likely terminated employee or offboarding subject**
-     - **Significance:** **ACTIVE TERMINATION PROCESSING ONGOING** — Rippling platform coordination; employee access removal/401k handling; offboarding workflow active
-
-   - **Raquel Roberts** (`raquel.roberts@deel.com`) — **7 direct exchanges, Sep 18–22** [ALL IMPORTANT]
-     - **New subjects (Sep 21, 14:57 & 14:45):** Re: Deel Order Forms and Onboarding Materials [IMPORTANT, INBOX] — **Multiple rapid responses same afternoon**
-     - **Pattern:** HIGH-FREQUENCY DEEL COORDINATION — Order forms, onboarding materials; rapid iteration suggests active hire/contractor setup
-     - **Significance:** **DEEL INTERNATIONAL PAYROLL/CONTRACTOR ONBOARDING ACCELERATING** — Two responses in 12 minutes (14:45–14:57) suggests urgent onboarding completion
+   - **No new NOAA direct emails in Sep 22–23 data** — thread visibility from previous period (Sep 21) likely still active internally
 
 ---
 
-3. **Government Contracts (NOAA — Multi-Stakeholder Escalation):**
+4. **Supplier & Logistics Management (Critical/Time-Sensitive):**
 
-   - **Danielle Varwig** (`danielle.varwig@noaa.gov`) — **2 direct exchanges, Sep 21** [IMPORTANT]
-     - **Subject:** Re: Couple of Questions (Sep 21, 15:59)
-     - **Thread escalation:** Danielle copies Nikolai Pawlenko (NOAA Federal) on response
-     - **Pattern:** Multi-level NOAA thread; questions escalated to engineering/technical lead
+   - **Best in Parts / Samantha** (`samantha@bestinparts.com`) — **NEW VENDOR ESCALATION (Sep 23, 10:23)**
+     - **Subject:** RE: RE: RE: RE: Re: RE: Re: Re: Re: Re: RE: Re: Re: Re: RE: Re: RE: Re: RE: Re: Re: Re: Re: RE: CNC parts order for Black Swift-BST260728-B16306 [UNREAD, IMPORTANT]
+     - **TO:** josh.fromm@blackswifttech.com (Joshua Fromm, BST)
+     - **Pattern:** DEEP THREAD (26+ RE: iterations visible) — highly iterative order management; CNC parts production order with SKU reference (BST260728-B16306)
+     - **Significance:** **MANUFACTURING SUPPLY CHAIN ACTIVE** — CNC parts critical path; extended negotiation/revision cycle suggests complexity (tolerances, specifications, or delivery timing)
 
-   - **Nikolai Pawlenko - NOAA Federal** (`nikolai.f.pawlenko@noaa.gov`) — **2 direct/cc'd, Sep 21** [IMPORTANT]
-     - **Subject:** Re: Couple of Questions (Sep 21, 14:07)
-     - **To:** Beck Cotter, Danielle Varwig, Mark Rogers - NOAA Federal
-     - **Significance:** NOAA technical lead (Nikolai) responding to Beck Cotter inquiry; multi-stakeholder group includes Mark Rogers (new NOAA contact Sep 21)
-
-   - **Mark Rogers - NOAA Federal** (`mark.e.rogers@noaa.gov`) — **1 cc'd in thread, Sep 21** [IMPORTANT]
-     - **Subject:** Re: Couple of Questions (Sep 21, 14:07 — Nikolai's response)
-     - **Significance:** New NOAA stakeholder visible; may be compliance, procurement, or technical review
-
-   - **Laura Rock - NOAA Federal** (`laura.rock@noaa.gov`) — **1 visible in thread, Sep 21** [IMPORTANT]
-     - **Subject:** Re: Couple of Questions (Beck Cotter initiates to Laura + Nikolai, Sep 21, 11:33)
-     - **Significance:** Another NOAA stakeholder; technical or procurement review likely
-
-   - **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Managing NOAA thread on BST side** (Sep 21, 11:33 & 13:18)
-     - Initiates questions to Laura Rock/Nikolai Pawlenko
-     - Responds to Danielle Varwig follow-up
-     - **Significance:** Beck is point person; Meredith receives thread visibility (Danielle copies Meredith on Sep 21, 15:59)
-
----
-
-4. **Supplier & Logistics Management (Critical Path — Escalating):**
-
-   - **Patrick Mulstay / Adrian Sepulveda** (`pmulstay@aeronet.com` / `asepulveda@aeronet.com`) — **5+ direct exchanges, Sep 17–22** [IMPORTANT on all]
-     - **New subjects (Sep 21–22):**
-       - Sep 22, 00:49: Adrian responds RE: Checking in on status of shipment for tomorrow [UNREAD, IMPORTANT, INBOX]
-       - Sep 21, 18:33: Adrian responds RE: Checking in on status of shipment for tomorrow [IMPORTANT, INBOX] (cc Patrick Mulstay)
-       - Sep 21, 14:47: Meredith sends Re: Checking in on status of shipment for tomorrow [SENT]
-       - Sep 21, 12:31: Meredith sends Checking in on status of shipment for tomorrow [SENT]
-     - **Additional Aeronet alert (Sep 21, 10:23):** Aeronet Insurance Disclaimer for Housebill: 103033065 [IMPORTANT] — **Freight shipment documentation**
-     - **Pattern:** URGENT SHIPMENT STATUS TRACKING — Multiple daily check-ins Sep 21–22; insurance documentation suggests high-value or time-sensitive freight
-     - **Significance:** **AERONET SHIPMENT CRITICAL PATH** — Daily status updates; insurance/housebill generated; likely component or equipment delivery for production/project
-
-   - **Horizon Hobby Customer Service** (`customerservice@horizonhob
+   - **WW Reynolds / Amy Smith** (`amy@wwreynolds.com`) — **FACILITY LEASE MANAGEMENT (NEW)**
+     - **Sep 22, 14:26:** Lease Statement - Black Swift Technologies LLC [UNREAD, IMPORTANT] — **operations@bst.aero recipient**
+     - **Sep 22, 18:01:** RE: Mice have returned (2840 Wilderness Pl, STE D) [IMPORTANT] — Amy responds to Meredith's facility issue report
+     - **Meredith initiates (Sep 22, 11:50):** Mice have returned (2840 Wilderness

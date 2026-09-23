@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $5,577,265.00
-- **Total Expenses (Bills + Purchases):** $1,806,760.63
+- **Total Invoiced (Revenue):** $5,694,265.00
+- **Total Expenses (Bills + Purchases):** $1,817,298.33
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,770,504.37 (invoiced minus expenses)
+- **Net Position:** $3,876,966.67 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-10-07
 
 ---
@@ -12,27 +12,27 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $5,577,265.00
-- **Total Collected (Outstanding Balance):** $4,457,556.82 remaining (invoices with open balances)
-- **Number of Invoices:** 99 active invoices
+- **Total Invoiced:** $5,694,265.00
+- **Total Collected (Outstanding Balance):** $4,574,556.82 remaining (invoices with open balances)
+- **Number of Invoices:** 102 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $1,638,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
+| [300-3] 2026 IDIQ | $1,826,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
 | [550-1] Navy SBIR Magnetometer | $877,098.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
 | [550-2] Navy STTR Hazardous Weather | $280,218.00 | **UPDATED:** Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
-| [300] NOAA | $2,375.00 | **NEW:** Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
+| [300] NOAA | $2,375.00 | **UPDATED:** Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
 | [200-12] AREN 2025 | $117,701.50 | Aerospace Engineering |
 | (035-1) Adonis | $105,500.00 | S0 VTOL variant & engineering hours |
 | (350-4) 2024 USGS Mexico Volcano | $124,230.00 | Field operations, travel, rental, permissions |
-| (301-2) 2020 WPO Hurricane Phase II | $168,463.18 | Travel, platform delivery, data processing |
+| (301-2) 2020 WPO Hurricane Phase II 2 | $168,463.18 | Travel, platform delivery, data processing |
 | [350] USGS | $2,000.00 | S3 Battery |
 | (207) Volcano CCRPP | $254,997.00 | Final reports |
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
@@ -40,19 +40,19 @@
 | **[044-1] EMASS Chip Integration** | **$10,000.00** | **Invoice #1778 (2026-08-28)** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-09-15 to 2026-10-07) — **FINAL UPDATES & NOAA NEW PROJECT**
+### Recent Invoices (2026-09-15 to 2026-10-07) — **FINAL UPDATES**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1776** | **2026-10-07** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 | **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Final)** | **$72,000.00** |
 | **#1785** | **2026-09-16** | **$58,500.00** | **[300-3] 2026 IDIQ** | **Invoice 2 of 3 for CLIN 1001 (Modification P26002)** | **$58,500.00** |
-| **#1786** | **2026-09-21** | **$375.00** | **[300] NOAA** | **NEW PROJECT: Replacement/refurbishment of S0 parts ($125.00); Custom engineering to refurbish broken S0 ($250.00)** | **$375.00** |
+| **#1786** | **2026-09-21** | **$375.00** | **[300] NOAA** | **Replacement/refurbishment of S0 parts ($125.00); Custom engineering to refurbish broken S0 ($250.00)** | **$375.00** |
 
 **Recent invoice total (2026-09-15 to 2026-10-07):** $262,334.00  
 **[300-3] 2026 IDIQ incremental (2026-09-16 to 2026-10-07):** $247,500.00 (Invoices #1785, #1741, #1776)  
 **[550-1] Navy SBIR final:** $14,459.00 (Invoice #1750)  
-**[300] NOAA NEW:** $375.00 (Invoice #1786)
+**[300] NOAA:** $375.00 (Invoice #1786)
 
 ---
 
@@ -69,14 +69,23 @@
 
 ---
 
-### **Subcontractors: $3,531.25**
-**Number of transactions:** 1
-*(Note: Labor services from Bill #Inv3950 classified as subcontractor labor)*
+### **Subcontractors: $6,209.38**
+**Number of transactions:** 2
 
 **Key transactions:**
+
 - **Bill #Inv3950** (2026-08-31): $3,531.25 — MicroFirm Engineering
   - Labor portion (28.25 hrs) — August 2026 Work
   - **Project:** Government
+
+- **Bill #BST-SEPT2026-1** (2026-09-22): **$468.75** — Matthew Crabtree
+  - CB Rework – DeploymentTube2_v06 (PCB repair, milling) (3.75 hrs)
+  - **Project:** Government (unspecified class)
+
+- **Purchase** (2026-09-22): **$2,670.16** — S2 Aircraft Components
+  - S2 Tail set; S2 RH Wing; S2 LH Wing
+  - **Memo:** J. Fromm confirmed project
+  - **Project:** Government (unspecified class)
 
 ---
 
@@ -85,10 +94,10 @@
 
 ---
 
-### **Materials & Supplies: $9,853.18**
-**Number of transactions:** 15
+### **Materials & Supplies: $12,523.34**
+**Number of transactions:** 17
 
-**Key transactions (2026-08-27 to 2026-09-18):**
+**Key transactions (2026-08-27 to 2026-09-22):**
 
 #### **Sensor & Technical Components**
 - **Purchase #70828** (2026-08-28): $3,436.50 — Magnetometer parts
@@ -143,18 +152,15 @@
   - Parts & Shipping (August 2026)
   - **Project:** Government
 
-#### **Total Materials & Supplies (2026-08-27 to 2026-09-18): $9,853.18**
+- **Bill #BST-SEPT2026-1** (2026-09-22): **$48.00** — Matthew Crabtree
+  - Materials for fixturing and setup
+  - **Project:** Government (unspecified class)
+
+#### **Total Materials & Supplies (2026-08-27 to 2026-09-22): $12,523.34**
 
 ---
 
 ### **Travel: $8,989.19**
 **Number of transactions:** 21
 
-**Major Travel Event: M. Stachura Hawaii Trip (Hurricane Lowell Deployment) — 2026-09-03 to 2026-09-10**
-
-| Date | Description | Amount | Category |
-|------|-------------|--------|----------|
-| 2026-09-03 | UNITED flight to Hawaii (2x) | $1,754.20 | Airfare |
-| 2026-09-04 | UNITED flights / connections (5 transactions) | $2,214.20 | Airfare |
-| 2026-09-05 | UNITED flights (2 transactions) | $1,762.20 | Airfare |
-| 2026-09-05 | Hotel (Marriott Waikoloa) | $43.65 | Lod
+**

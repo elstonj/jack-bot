@@ -62,6 +62,10 @@
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
 
+**Recent Logistical Updates (September 2026):**
+- **09/23/26:** NASA S2 pallet shipment picked up between 9:30am–4pm. Ethan Domagala held pickup paperwork. (Meredith Needham)
+- **09/21/26:** NASA S2 pallet dimensions confirmed: 48" × 120" × 20" tall (Ethan Domagala)
+
 ---
 
 ## Notes & Context
@@ -91,9 +95,10 @@
 - **Maciej Stachura:** Demo execution and payload systems integration
 - **Meredith O'hara Needham:** Flawless contract administration and payment processing
 - **Dan Prendergast:** Flight operations and project closeout
+- **Ethan Domagala:** S2 payload build and logistics coordination
 
-### Operational Costs (Reference Data, August 2026)
-Per **Daniel Prendergast (08/24–08/25/26):** Current rate for one day of testing in the NASA Glenn Icing Research Tunnel is **$55k–$60k**. (Reference for future similar NASA facility work.)
+### Operational Reference Data
+**NASA Glenn Icing Research Tunnel Rate (Per Dan Prendergast, 08/24–08/25/26):** One day of testing costs **$55k–$60k**. Useful reference for future similar NASA facility work.
 
 ---
 
@@ -112,12 +117,4 @@ Per **Daniel Prendergast (08/24–08/25/26):** Current rate for one day of testi
 ## Demo/Flight Calendar & Platform Schedule (July–September 2026)
 
 **Calendar Maintained by Beck:**
-- Shared Google spreadsheet tracking demos and flights through September 2026: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM1Yc0dtcM27cy_8Ik/edit?usp=sharing
-- **Recent Updates:** Beck updated calendar on 07/10/26 and 07/13/26
-
-**Platform Schedule Modifications Proposed for Q3–Q4 2026 (KS Tech Sync, Maciej, 07/27–07/28/26):**
-
-For implementation starting September 2026:
-
-1. **Cancel** S3 Europe wing reduction
-2. **Move
+- Shared Google spreadsheet tracking demos and flights through September 2026: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM

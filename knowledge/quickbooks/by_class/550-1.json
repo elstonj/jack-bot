@@ -4,16 +4,13 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-22",
+    "end": "2026-09-23"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 1966.21,
-    "by_category": {
-      "FACILITIES:FA-Shop Supplies": 1016.37,
-      "DIRECT COSTS:DC-Direct Material Purchases": 949.84
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -41,85 +38,7 @@
     }
   ],
   "bills": [],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-09-18",
-      "doc_number": "00052914",
-      "total": 4449.42,
-      "attributed": 1571.2,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - see Slack message and email chain",
-      "lines": [
-        {
-          "amount": 1571.2,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Case, 3R6223-10B-EW x 2"
-        },
-        {
-          "amount": 2878.22,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "BLTCAS S3 CASE FOAM ASSEMBLY x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-17",
-      "doc_number": "",
-      "total": 8.99,
-      "attributed": 8.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*5R8RW7G51 - 4617",
-      "lines": [
-        {
-          "amount": 8.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "NFHK Micro USB2.0 Male to Micro USB Male 5Pin"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 89.97,
-      "attributed": 89.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*5R9PQ5TM1 - 4617",
-      "lines": [
-        {
-          "amount": 89.97,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "SunnySky X Series V3 X2212 V3 Brushless Motors(980KV) x 3"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 296.05,
-      "attributed": 296.05,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Original request for GetFPV but was not in stock. Used diff vendor",
-      "lines": [
-        {
-          "amount": 296.05,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Original request for GetFPV but was not in stock. Used diff vendor"
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

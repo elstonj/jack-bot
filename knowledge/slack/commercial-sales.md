@@ -6,7 +6,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling, remote technical support authorization, GCS radio settings diagnostics, QC flight authorization)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes, S2 spare parts production, NASA deliverable coordination)
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms)
 - Danny Troke (QC, testing, batteries)
@@ -15,7 +15,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, Halo project folder management, Murphy's Pond PO coordination, LMUK/Raven SOW drafting, RFI documentation, RMA documentation, sales folder management)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication)
 - Ethan Domagala (team member, Murphy's Pond field campaign participant Aug 4-6, GCS connectivity testing)
 - Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification)
 - Sean (manufacturing, spare wing/tail set production, parts sourcing and delivery coordination)
@@ -39,7 +39,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - ERAU (external customer - E2 return/RMA case, September 2026)
 - Wes (NASA contact, involved in NASA Ames S2 shipping coordination)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: September 18, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: September 22, 2026.
 
 ---
 
@@ -88,6 +88,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 **ADS-B Feature Discontinuation (August 2022)**
 - S2-17 (unsold): Original ADS-B model discontinued
 - Cost to redesign: $2,000+ with significant rebuild required
-- Decision: Do not offer ADS-B feature unless customer specifically requests and accepts redesign cost
-
-**S0-VT
+- Decision: Do not offer ADS-B

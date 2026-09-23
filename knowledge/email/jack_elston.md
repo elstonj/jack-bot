@@ -1,48 +1,44 @@
 # Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned:** 8,544 (8,459 prior + 85 new Sep 21–22)
-- **Date range:** April 1–September 22, 2026
+- **Total messages scanned:** 8,632 (8,544 prior + 88 new Sep 22–23)
+- **Date range:** April 1–September 23, 2026
 - **Approximate volume:** 100+ messages/day sustained
-- **Sep 21–22 activity (85 messages):** ~18% direct human correspondence (NOAA operations POLO/EP17/EP99, Krateo NOAA White Paper, ByLight M2 HALO flight, 24V power supply mods, S2 order confirmation, SOCOM BD inquiry, UK Raven visit, frequency spectrum assistance, Hulian Silicon Labs component sourcing, Krateo hiring decline, CMMC infrastructure); ~8% active NOAA/government operations (confirmed mission tasking Sep 22, flight track proposals, operations team updates, AOC materials logistics); ~12% manufacturing/component sourcing (Frank Strazzabosco 24V power mods, Hulian Electronics Silicon Labs distributor, Gateworks, component orders); ~18% automated vendor/logistics/procurement (Amazon, UPS, USPS, Logitech, Spindrift, Battery Junction, CAVA, Pirate Ship, tracking updates, customs clearance); ~10% administrative/HR/facilities (Rippling Human Interest employee data alerts, Deel onboarding materials, NASA IdMAX account expiration, hiring coordinator Abby Simes); ~25% newsletters/mailing lists/marketing (NOAA HFP/HRD flight track forums x4, WMO UAS DC participants meeting report, ON&T Magazine drone edition pitch, vendor marketing); ~9% international/partnership inquiries (Tawanphat KANIT Thailand distributorship continuation, Hulian Electronics China sales contact, IWA Publishing academic paper alerts)
+- **Sep 22–23 activity (88 messages):** ~15% direct human correspondence (NOAA P-3/POLO/EP17 tasking confirmations Sep 23, S0 COTS WAIVER forwarding, PSNS VTOL updates, Navy team additions, Krateo integration meetings, Shelly Dvorak website hosting inquiry, Scott Scheff ASTM/recreational); ~10% active NOAA/government operations (Confirmed P-3 tasking Sep 23, revised flight track EP17/POLO, NOAA ops distribution); ~8% manufacturing/component sourcing (Frank Strazzabosco PSNS VTOL charging LED & 24V power mods ongoing with Sam Hild); ~20% automated vendor/logistics/procurement (DigiKey x3, Amazon x2, USPS, UPS, Pirate Ship, Logitech, PHASE1 AVIATION, QuickBooks, AliExpress, HeliDirect); ~12% administrative/HR/facilities (Human Interest 401k digest, Deel entity verification, Colorado SOS periodic report, NASA IdMAX expiration, UPS brokerage claims support); ~22% newsletters/mailing lists/marketing (NOAA HFP flight track forums x4, Heather Holbach sascwatch-all NOAA distribution lists, Jason Sippel Hurricane Field Program POD, Airport Development Conference, Team Skydio, Smead aerospace faculty news); ~8% strategic partnerships/business development (Krateo "Mapping of Opportunities" & "Integration Meeting," Daniel Prendergast strategic alignment, Navy NAWCAD/NSWC team additions via Brescia & Ruiz-Reyes, Giselle Gibson funding inquiry, Pam Kermisch/Shelly Dvorak partnership coordination); ~5% academic/external partnerships (Steve Jolly Blue Origin AI Subcommittee, Kelly Huang UH S2 quote follow-up, aero-list@colorado.edu Smead faculty news)
 
 ## Key Correspondents
 
 ### Top Internal Partners (COMMAND & CONTROL) — UPDATED
 
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **STRATEGIC COMMAND: SOCOM S0 RFI + POPOCATÉPETL VOLCANIC MONITORING + MEXICAN LABORATORY PARTNERSHIPS + UK RAVEN COORDINATION + GNSS-DENIED NAV INTEGRATION**
-   - **CRITICAL ESCALATION (Sep 21, confirmed high-level defense partnership):**
-     - Daniel → Neil Morphett (Lockheed Martin UK), Beck Cotter, Jack, Maciej (Sep 21, 13:19 MDT — FLAGGED): **"Re: UK Raven visit to Black Swift"** — **UK military (Raven program) site visit to BST facility** now confirmed with Jack copied (indicates Jack briefed on UK defense partnership but **Beck taking operational lead**)
-   - **Pattern:** Daniel **consolidating strategic partnerships (US SOCOM, UK MOD, Mexican civilian airspace + volcanic monitoring)**; Jack's role appears **transitional from operations exec to strategic advisory**
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **STRATEGIC COMMAND: SOCOM S0 RFI + KRATEO INTEGRATION + NOAA OPERATIONS OVERSIGHT + NAVY PARTNERSHIPS**
+   - **CONTINUED ESCALATION (Sep 22–23):**
+     - Daniel → BST + Krateo leadership (Sep 22, 12:53 MDT — FLAGGED): **"Mapping of Opportunities to Development Efforts"** — Daniel **driving strategic alignment between BST and Krateo** on market opportunities (Jack copied, Maciej copied, Beck copied, Cory Dixon, Sona Raziabeegum, Krateo C-suite); indicates **high-level M&A or partnership architecture discussions**
+     - Daniel → Krateo leadership (Sep 23, 12:59 UTC — FLAGGED): Brian Grubel response to **"Mapping of Opportunities"** — Daniel **consolidating BST/Krateo integration roadmap**
+   - **Pattern:** Daniel **actively steering strategic business development**; Jack **advisory/stakeholder position in integration planning**
 
-2. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA HURRICANE/ATMOSPHERIC OPERATIONS + POLO/EP99/EP17 MISSION EXECUTION + ARCTIC UAS + ByLight HALO COORDINATION**
-   - **CONTINUED ESCALATION (Sep 21–22, active mission ops tempo at peak):**
-     - **Confirmed Tasking P-3s, POLO, 9/22/2026** (Sep 21, 13:22 EDT — FLAGGED): Jack + Maciej both copied on AOC Hurricanes service account dispatch confirming mission assignment for Sep 22 (Megan Gaston, Kathryn Sellwood, Laura Rock, Nikolai Pawlenko recipients); **indicates real-time operational tasking underway**
-     - Maciej → Mel Marker (ByLight) (Sep 21, 11:57 MDT — FLAGGED): **"Re: ByLight M2 HALO Flight"** — **ByLight M2 HALO platform coordination ongoing** (Mel Marker responding with operational details)
-     - Large NOAA flight coordination list (Sep 21, 15:17 EDT) **"Proposed Flight Track for 20260922H1 (EP17/POLO)"** — Jack + Maciej on distribution for **Hurricane EP17/POLO Sep 22 flight planning** (Heather Holbach coordinating across NOAA HRD, AOML, 53 WRS USAF, academia, NAVY labs)
-   - **Pattern:** Maciej **at operational center of active NOAA hurricane field campaign**; Jack **present but not leading operations** (appears **advisory/liaison role now**)
+2. **Maciej Stachura** (stachura@blackswifttech.com) — **NOAA HURRICANE OPERATIONS (PEAK TEMPO) + POLO/EP17/EP99 MISSION EXECUTION + STRATEGIC PARTNERSHIPS**
+   - **CONFIRMED ESCALATION — REAL-TIME OPERATIONAL TEMPO (Sep 22–23):**
+     - AOC Hurricanes (aoc.hurricanes@noaa.gov) → Maciej + Jack (Sep 22, 12:16 EDT — FLAGGED): **"Confirmed Tasking P-3, Polo, 9/23/2026"** — **Live tasking confirmation for Sep 23 P-3 hurricane mission**; Jack + Maciej both listed on operational dispatch
+     - AOC Hurricanes → Same distribution (Sep 22, 19:38 EDT — FLAGGED): **"Re: Confirmed Tasking P-3, Polo, 9/23/2026"** — **Operational confirmation escalated with team coordination**
+     - Heather Holbach (NOAA HFP) → 70+ NOAA/academia/USAF recipients + Jack + Maciej (Sep 22, 14:18 EDT — FLAGGED): **"Proposed Flight Track for 20260923H1 (EP17/POLO)"** — **Large-scale coordinated flight planning for Sep 23**
+     - Heather Holbach → Extended distribution (Sep 22, 20:34 EDT — FLAGGED): **"REVISED Flight Track for 20260923I1 (EP17/POLO)"** — **Real-time mission replanning underway**
+     - Heather Holbach → Distribution (Sep 22, 19:54 EDT — FLAGGED): **"Preliminary Flight Tracks for Thursday, Sep. 24, 2026"** — **Multi-day hurricane field campaign** (Jack on distribution)
+   - **Pattern:** Maciej **at operational center of live NOAA hurricane response**; Jack **present on all operational tasking but not originating orders**
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS LIAISON + MILITARY CONTRACT EXECUTION + SOCOM H9223626P9056 + AOC TECHNICAL SUPPORT**
-   - **ROLE ESCALATION CONFIRMED (Sep 21, now primary NOAA ops contact):**
-     - Beck → Laura Rock, Nikolai Pawlenko (NOAA) (Sep 21, 11:33 MDT — FLAGGED): **"Re: Couple of Questions"** — **Beck directly answering NOAA operational/technical questions** (Laura Rock = HRD data/ops chief, Nikolai = P-3 ops lead)
-     - Nikolai → Beck, Danielle Varwig, Mark Rogers (NOAA) (Sep 21, 14:07 EDT — FLAGGED): **"Re: Couple of Questions"** — **Beck escalated directly into NOAA ops chain** (Mark Rogers = ops supervisor)
-     - Danielle Varwig → Beck (Sep 21, 15:59 EDT — FLAGGED): **"Re: Couple of Questions"** — **Danielle prioritizing Beck as primary BST contact** (not Jack on this ops thread)
-     - Daniel → Neil Morphett (Lockheed), Beck, Jack, Maciej (Sep 21, 13:19 MDT — FLAGGED): **UK Raven site visit** — Beck included in strategic briefing
-   - **Pattern:** **Beck has assumed primary operational liaison role with NOAA**; Jack now in **secondary/advisory capacity**; Beck handling **direct AOC/P-3/hurricane ops tasking**
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **NOAA OPERATIONS PRIMARY LIAISON + MILITARY CONTRACT EXECUTION + NAVY PARTNERSHIPS**
+   - **ROLE CONFIRMED ONGOING (Sep 22–23):**
+     - Anthony Brescia (NAWCAD) → Beck, Jack, Ethan Domagala, Alex Lomis, Maciej (Sep 23, 11:56 UTC — FLAGGED): **"RE: Black Swift Team addition"** — **Navy team expansion notification**; Beck **primary recipient, Jack secondary**
+     - Ruiz-Reyes (NAWCAD) → Beck + extended Navy distribution + Jack, Maciej (Sep 22, 22:28 UTC — FLAGGED): **"Re: [Non-DoD Source] Black Swift Team addition"** — **Navy contractor coordination with Beck as primary BST contact**
+     - Jack → Ruiz-Reyes (Sep 22, 16:51 MDT — SENT): **"Re: [Non-DoD Source] Black Swift Team addition"** — Jack **responding to Navy but Beck leading**
+   - **Pattern:** Beck **consolidated as primary NOAA/Navy ops liaison**; Jack **secondary/specialist role**
 
-4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **HR/ADMINISTRATIVE + ONBOARDING + DEEL PAYROLL COORDINATION**
-   - **NEW ACTIVITY (Sep 21, continued administrative escalation):**
-     - Jack → Meredith (Sep 21, 11:14 MDT — SENT): **"Fwd: [Action Required] Employee data alerts need your review"** — Jack **forwarding Rippling Human Interest alerts to Meredith** (suggests Meredith = HR ops owner, Jack = alert router)
-     - Meredith → Raquel Roberts (Deel) (Sep 21, 13:35 MDT — FLAGGED): **"Re: Deel Order Forms and Onboarding Materials"** — Meredith actively managing **contractor onboarding payroll workflows**
-     - Raquel Roberts → Meredith (Sep 21, 14:45 MDT — FLAGGED): **"Re: Deel Order Forms and Onboarding Materials"** — Deel responding directly to Meredith
-   - **Pattern:** Meredith **established as HR/admin ops owner**; Jack **administrative support/relay function**
+4. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **KRATEO PARTNERSHIP + STRATEGIC INTEGRATION + BUSINESS DEVELOPMENT**
+   - **NEW PROMINENCE (Sep 22–23):**
+     - Cory Dixon (Krateo) → Jack, Maciej, Joshua Fromm, Krateo leadership (Sep 23, 12:51 UTC — FLAGGED): **"BST <> KS Integration Meeting Agenda Slides"** — **Joshua Fromm elevated into strategic integration meetings** (Jack, Maciej also present)
+     - Cory Dixon → Same group (Sep 22, 19:07 UTC — FLAGGED): **"Request for blockers and priorities from KS for BST <> KS Integration meeting"** — **Integration planning underway with Joshua, Jack, Maciej**
+     - Daniel Prendergast → Krateo + Joshua Fromm, Jack, Maciej, Beck (Sep 22, 12:53 MDT — FLAGGED): **"Mapping of Opportunities"** — Joshua **integrated into strategic BST/Krateo planning**
+   - **Pattern:** Joshua Fromm **emerging as key integration/BD point person alongside Daniel Prendergast**; Jack **stakeholder but not driving**
 
-### Top External Partners & Government Liaisons
-
-**NOAA Federal (Primary Customer)**
-- **Laura Rock** (laura.rock@noaa.gov) — HRD Operations Chief
-  - **Sep 22, 00:23 EDT (FLAGGED — HUMAN PRIORITY)**: **"Re: *HOT* Request Frequency Spectrum Assistance"** — Laura reaching out to Jack directly with **HIGH-PRIORITY spectrum/RF coordination request** (time-sensitive, marked HOT); Jack **still primary contact for specialized RF/spectrum issues** despite ops role shift
-  - Pattern: Jack = **technical specialist/RF systems expert**; Laura treating Jack as direct technical escalation point
-
-- **Danielle Varwig** (danielle.varwig@noaa.gov) — NOAA Operations Coordinator
-  - **Sep 21, 14:23 MDT (FLAGGED)**: Jack → Danielle
+5. **Sam Hild** (sam.hild@blackswifttech.com) — **HARDWARE ENGINEERING + PSNS VTOL + 24V POWER SUPPLY DEVELOPMENT**
+   - **SUSTAINED TECHNICAL COLLABORATION (Sep 22–23):**
+     - Frank Strazzabosco (external contractor) ↔
