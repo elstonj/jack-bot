@@ -1,292 +1,261 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched External Contact Directory
+# BLACK SWIFT TECHNOLOGIES — EXTERNAL CONTACT DIRECTORY
 
-## NASA
+## NASA (National Aeronautics and Space Administration)
 
-### John Glass
-- **Email:** John.Glass-1@nasa.gov
-- **Role:** NASA Contact
-- **Interaction context:** Part of broad NASA contact network; no specific project engagement visible in recent communications
+### NASA Ames Research Center (ARC)
+- **Wesley R. Enos** — NASA ARC-QS
+  - Email: wesley.r.enos@nasa.gov
+  - BST Projects: S2 platform evaluation/partnership (301-12 equivalent)
+  - Role: Technical point of contact for BST-NASA S2 coordination
+  - Recent context: Direct exchanges with Dan Prendergast (Sep 22) on S2 platform partnership; marked IMPORTANT; indicates active evaluation phase
+  - Contact about: S2 platform technical specifications, partnership opportunities, NASA research integration
 
-### Thomas A. Weisz
-- **Email:** thomas.a.weisz@nasa.gov
-- **Role:** NASA Contact
-- **Interaction context:** Part of broad NASA contact network; no specific project engagement visible in recent communications
+### NASA Headquarters & Multi-Center Contacts
+- **John Glass** — NASA Contact
+  - Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
+  - Role: NASA administrative/liaison contact
+  - Contact about: General NASA coordination, SBIR opportunities
 
-### Andrew E. Johnson
-- **Email:** Andrew.E.Johnson@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Interaction context:** Part of JPL rover/Mars mission contacts; no BST-specific recent engagement visible
+- **Thomas A. Weisz** — NASA Contact
+  - Email: thomas.a.weisz@nasa.gov
+  - Role: NASA program/technical contact
+  - Contact about: Aerospace/atmospheric programs
 
-### Tara Estlin
-- **Email:** Tara.Estlin@jpl.nasa.gov
-- **Title:** JPL Contact
-- **Interaction context:** JPL rover autonomy/planning expertise; potential connection to 2025 NASA SBIR autonomy project (Phase II planning active per Slack #2025-nasa-autonomy, May 2026)
+- **Daniel Goodrick, Bruce D. Fisher, Arthur B. Maples** — NASA Contacts
+  - Emails: daniel.goodrick@nasa.gov, bruce.d.fisher@nasa.gov, arthur.b.maples@nasa.gov
+  - Role: NASA technical/program points of contact
+  - Contact about: NASA research coordination
 
-### Marc Golombek
-- **Email:** mgolombek@jpl.nasa.gov
-- **Title:** JPL Mars Surface Contact
-- **Interaction context:** Mars geology/surface operations; no current BST engagement visible
+### JPL (Jet Propulsion Laboratory)
+- **Andrew E. Johnson** — JPL Contact
+  - Email: Andrew.E.Johnson@jpl.nasa.gov
+  - Role: JPL technical lead
+  - Contact about: JPL research integration, autonomy projects
+
+- **Tara Estlin** — JPL Contact
+  - Email: Tara.Estlin@jpl.nasa.gov
+  - Role: JPL autonomy/software contact
+  - Contact about: Autonomy software architecture, flight control systems
+
+- **Marc Golombek, Roland Brockers, Kathryn M. Stack** — JPL Contacts
+  - Emails: mgolombek@jpl.nasa.gov, roland.brockers@jpl.nasa.gov, kathryn.m.stack@jpl.nasa.gov
+  - Role: JPL planetary/Mars program contacts
+  - Contact about: Mars rover research, planetary atmospheric studies
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Danielle Varwig — **HIGH PRIORITY**
-- **Email:** danielle.varwig@noaa.gov
-- **Title:** NOAA Federal / Program Liaison
-- **Projects:** 
-  - **N42** (Pioneer Array Test Flight) — primary technical coordinator
-  - **EP17, EP99, POLO** (Tropical cyclone / hurricane operations)
-- **Role:** Technical compliance authority; real-time operational coordinator
-- **Recent interactions:**
-  - Sep 21, 2026: Multiple rapid-cycle exchanges with Jack Elston, Beck Cotter, Josh Fromm on "AOC Materials to go on N42" — indicates active certification/deployment phase
-  - "Couple of Questions" multi-layer thread (Sep 21) with technical compliance details
-  - Marked IMPORTANT multiple times; indicates escalated priority
-- **Contact about:** N42 aircraft certification status, materials compliance, Pioneer Array field operations, AOC logistics, hurricane mission tasking and coordination
+### NOAA Atlantic Oceanographic & Meteorological Laboratory (AOML)
+- **Joe Cione** — NOAA Federal (Primary Contact)
+  - Email: joe.cione@noaa.gov
+  - BST Projects: POLO/EP-series hurricane missions (N42-43), NOAA N251-016 Phase II research tasking
+  - Role: NOAA Hurricane Research Division lead; direct tasking authority
+  - Recent context: Real-time operational tasking (Sep 22–23); confirmed P-3 Orion flight operations; multi-round coordination on flight tracks; direct recipient on NOAA AOC (Operations Control) tasking; primary point of contact for BST operational missions
+  - Contact about: Hurricane research missions, operational tasking, P-3 Orion coordination, tropical cyclone data collection
 
-### Nikolai Pawlenko
-- **Email:** nikolai.f.pawlenko@noaa.gov
-- **Title:** NOAA Federal
-- **Projects:** EP17, EP99, POLO hurricane operations
-- **Role:** Technical coordination/OPS team participant
-- **Recent interactions:** 
-  - "Couple of Questions" thread (Sep 21) — technical compliance responses
-  - ET Operations Team updates (Sep 21, 13:21 EDT) — active operational tempo
-- **Contact about:** Operational flight planning, technical tasking details, ET Operations coordination
+- **Jason Sippel, Jason Dunion, Laura Rock** — NOAA HRD Scientists
+  - Emails: jason.sippel@noaa.gov, jason.dunion@noaa.gov, laura.rock@noaa.gov
+  - BST Projects: POLO/EP-series missions, hurricane boundary layer research (N251-016)
+  - Role: NOAA research scientists; mission payload leads
+  - Recent context: Distributed ops list recipients for flight track coordination; involved in real-time flight operations (Sep 22–23)
+  - Contact about: Hurricane research data collection, payload specification, scientific tasking
 
-### Joe Cione — **KEY ESCALATION**
-- **Email:** joe.cione@noaa.gov
-- **Title:** NOAA Federal / Hurricane Research Division
-- **Projects:**
-  - **N42/N43 EPAC** (Eastern Pacific atmospheric research) — multi-agency coordination
-  - **POLO/EP99** (Hurricane operations) — distributed HRD operations (100+ recipient list)
-- **Role:** Research tasking authority; distributed operations hub
-- **Recent interactions:**
-  - Direct emails to Jack Elston, Maciej Stachura, Alex Lomis on N42/N43 research tasking (Aug–Sep 2026)
-  - Sep 21, 2026: Confirmed active participant in POLO/EP99 live flight tasking (Maciej copied on AOC Hurricanes service account dispatch)
-  - Josh Wadler (ERAU) coordination on EPAC multi-agency tasking
-- **Contact about:** Research mission tasking, EPAC atmospheric campaigns, hurricane field operations, multi-agency coordination logistics
+### NOAA Operations & Administration
+- **Danielle Varwig** — NOAA Federal
+  - Email: danielle.varwig@noaa.gov
+  - BST Projects: N42 AOC materials approval authority
+  - Role: Multi-layer AOC (Airworthiness Certificate) approval authority
+  - Recent context: Materials compliance chain recipient; Josh Fromm primary contact; multi-turn discussions on airworthiness documentation
+  - Contact about: Aircraft airworthiness certification, operational authority approvals
 
-### Laura Rock
-- **Email:** laura.rock@noaa.gov
-- **Title:** NOAA Federal
-- **Projects:** N42 Pioneer Array Test Flight
-- **Role:** Test Flight coordination / AOC logistics
-- **Recent interactions:** "Couple of Questions" thread (Sep 21); "AOC Materials to go on N42" coordination
-- **Contact about:** Pioneer Array test flight logistics, AOC compliance, materials shipment status
+- **Nikolai Pawlenko** — NOAA Federal
+  - Email: nikolai.f.pawlenko@noaa.gov
+  - BST Projects: N42 technical compliance
+  - Role: NOAA technical authority for aircraft compliance
+  - Recent context: Urgent ET (Experiment Team) updates coordination; operations team lead role
+  - Contact about: Technical compliance, airworthiness authority coordination
 
-### Wayne M. Angevine
-- **Email:** wayne.m.angevine@noaa.gov
-- **Title:** NOAA Contact / Atmospheric Research
-- **Role:** Atmospheric boundary layer / turbulence expertise (STTR boundary layer project alignment)
-- **Interaction context:** Part of NOAA research network; no direct recent BST engagement visible
+- **Heather Holbach** — NOAA Flight Operations
+  - Email: heather.holbach@noaa.gov
+  - BST Projects: POLO/EP-series flight operations
+  - Role: Flight track distributor; operations coordinator
+  - Recent context: Real-time flight track publication (100+ recipient distribution lists, Sep 22–23); preliminary and revised flight track coordination; primary ops distribution hub
+  - Contact about: Flight operations scheduling, flight track coordination, operational updates
 
-### Heather Holbach
-- **Email:** heather.holbach@noaa.gov
-- **Title:** NOAA Affiliate
-- **Projects:** POLO/EP99 hurricane operations
-- **Role:** Operational flight track distribution; sascwatch-all list coordinator
-- **Recent interactions:** 
-  - Sep 21, 2026: Preliminary flight track distribution for Sep 23 (100+ recipient list including Maciej, Jack)
-  - Proposed flight tracks for POLO operations (20260922I1, 20260922H1)
-- **Contact about:** POLO operational flight tracks, preliminary tasking coordination, hurricane field operations
+- **Aoc.hurricanes@noaa.gov** — NOAA AOC (Operations Control)
+  - Email: aoc.hurricanes@noaa.gov
+  - BST Projects: POLO/EP-series operational tasking authority
+  - Role: Direct operational tasking authority for hurricane research missions
+  - Recent context: Confirmed tasking P-3/POLO (Sep 22–23); multi-round tasking confirmations; critical for flight authorization
+  - Contact about: Operational mission tasking, flight authorization, real-time ops control
 
-### AOC Hurricanes (Service Account)
-- **Email:** aoc.hurricanes@noaa.gov
-- **Title:** NOAA Service Account / Tasking Authority
-- **Projects:** POLO/EP99, EP17 hurricane operations
-- **Role:** Direct mission tasking authority
-- **Recent interactions:** "Confirmed Tasking P-3s, Polo, 9/22/2026" (Sep 21, 15:45 EDT) — direct to Maciej, forwarded from Jack
-- **Contact about:** Mission tasking confirmation, aircraft deployment instructions, real-time operational updates
+### NOAA Field Research & Support Contacts
+- **Wayne M. Angevine, Peter Wolf, Paul E. Johnston, Gary Wick, Jonathan Neuhaus, Jeff McMurphy** — NOAA Field Scientists
+  - Emails: wayne.m.angevine@noaa.gov, peter.wolf@noaa.gov, paul.e.johnston@noaa.gov, gary.wick@noaa.gov, jonathan.neuhaus@noaa.gov, jeff.mcmurphy@noaa.gov
+  - Role: NOAA research scientists across multiple divisions
+  - Contact about: Atmospheric research collaboration, data integration, field operations
+
+- **Isaac Vimont, Allison McComiskey, Heather Ziel** — NOAA Atmospheric Research
+  - Emails: isaac.vimont@noaa.gov, allison.mccomiskey@noaa.gov, heather.ziel@noaa.gov
+  - Role: NOAA atmospheric science researchers
+  - Contact about: Cloud/aerosol research, atmospheric measurements
 
 ---
 
-## U.S. Navy
+## U.S. Navy (Department of Defense)
 
-### Angel R. Ruiz-Reyes — **ACTIVE ESCALATION**
-- **Email:** angel.r.ruiz-reyes.civ@us.navy.mil
-- **Organization:** Navy NAWCAD (Naval Air Warfare Center Aircraft Division)
-- **Projects:**
-  - **N251-016** (Navy SBIR Phase II Magnetometer/Acoustic sensors) — TPOC (Technical Point of Contact)
-  - **TCE 26.2** (Technology Concept Experimentation) — tactical integration lead
-- **Role:** SBIR program manager; tactical data link integration authority
-- **Recent interactions:**
-  - Sep 21, 2026: "FW: TAK files and SITREP" to Josh Fromm & Alex Lomis — tactical data link coordination
-  - SITREP incident report forwarding (Sep 21)
-  - TAK file management and integration (ongoing)
-  - Previous 7+ direct emails (Alex Lomis thread) on TCE 26.2 team/status
-- **Contact about:** Navy SBIR Phase II status, TCE 26.2 operational integration, TAK file format/compatibility, magnetometer sensor performance, tactical mission planning
+### Naval Air Warfare Center Aircraft Division (NAWCAD)
 
-### Daniel Klier
-- **Email:** daniel.e.klier.civ@us.navy.mil
-- **Organization:** Navy NSWC IHD (Naval Surface Warfare Center, Indian Head Division)
-- **Projects:** TCE 26.2
-- **Role:** Technical integration support
-- **Recent interactions:** 
-  - Sep 21, 2026: TCE 26.2 SITREP recipient
-  - Auto-reply protocol engagement (Sep 2026)
-- **Contact about:** TCE 26.2 technical integration, Camp Pendleton event coordination
+- **Angel R. Ruiz-Reyes** — Navy NAWCAD (Primary Navy Contact)
+  - Email: angel.r.ruiz-reyes.civ@us.navy.mil
+  - BST Projects: TCE 26.2 (Technology Concept Experimentation), Navy SBIR Phase II (magnetometer program 301-16), S0 COTS waiver requests, team addition approvals
+  - Title: Navy technical program officer/liaison
+  - Role: **PRIMARY NAVY POINT OF CONTACT** — orchestrates BST Navy relationships, approves team additions, coordinates multi-agency Navy programs, escalation authority for waiver requests
+  - Recent context: **ESCALATED Sep 22–23** — drove "[Non-DoD Source] Black Swift Team addition" approval process; coordinated with Klier, Brescia, Pyrah, DeSimone on team composition; S0 COTS WAIVER escalation; TCE 26.2 status/test packing coordination; TAK files/SITREP tactical integration; multi-round incident report coordination (4+ rounds Sep 22, flagged as critical escalation point)
+  - Contact about: Navy SBIR programs, TCE events, team approvals, technical waivers, tactical integration (TAK/SITREP)
 
-### Aaron D. Pyrah — **NEW ESCALATION**
-- **Email:** aaron.d.pyrah.civ@us.navy.mil
-- **Organization:** Navy NAWCAD
-- **Projects:** TCE 26.2, Navy incident reporting
-- **Role:** Incident report escalation/management
-- **Recent interactions:**
-  - Sep 22, 2026: FLAGGED IMPORTANT incident report forwarding (NEW escalation)
-  - Direct engagement with Alex Lomis on escalated matter
-- **Contact about:** TCE 26.2 incident resolution, Navy compliance/reporting, technical escalations
+- **Anthony D. Brescia** — Navy NAWCAD
+  - Email: anthony.d.brescia.civ@us.navy.mil
+  - BST Projects: Team addition approvals, Navy SBIR Phase II
+  - Role: Navy technical authority; team composition approval
+  - Recent context: NEW (Sep 22–23) — "Black Swift Team addition" approver/participant
+  - Contact about: Team personnel approvals, Navy technical requirements
 
----
+- **Aaron D. Pyrah** — Navy NAWCAD
+  - Email: aaron.d.pyrah.civ@us.navy.mil
+  - BST Projects: Navy SBIR coordination, incident reporting
+  - Role: Navy program coordinator; incident escalation point
+  - Recent context: **ESCALATED** — multiple incident report coordination rounds (4+ Sep 22); [Non-DoD Source] BST Team addition recipient; critical escalation authority
+  - Contact about: Incident reporting, program coordination, technical escalations
 
-## U.S. Special Operations Command (USSOCOM)
+### Naval Surface Warfare Center (NSWC)
+- **Daniel E. Klier** — Navy NSWC IHD (In-Service Hull Diagnostics)
+  - Email: daniel.e.klier.civ@us.navy.mil
+  - BST Projects: Navy SBIR Phase II (magnetometer program 301-16)
+  - Role: Navy technical contact; team addition approval
+  - Recent context: NEW (Sep 22–23) — "Black Swift Team addition" participant
+  - Contact about: Navy SBIR technical coordination, magnetometer integration
 
-### Brandon Terry
-- **Email:** brandon.m.terry.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** **S0-AD** (Development Efforts contract) — award/contract schedule lead
-- **Role:** Contract award authority; schedule/quote verification lead
-- **Recent interactions:**
-  - Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-  - Award notice distribution; quote verification coordination
-  - Pattern: Strategic coordination on S0 modifications and contract execution
-- **Contact about:** S0-AD contract status, schedule updates, quote approvals, mission requirements definition
+### Navy Contracting & Administration
+- **Morris A. DeSimone III** — Navy CNR (Contracts & Requirements) Contractor
+  - Email: morris.a.desimone.ctr@us.navy.mil
+  - BST Projects: Navy contract administration
+  - Role: Navy contracting officer/administrator
+  - Recent context: NEW (Sep 22) — "Black Swift Team addition" notification recipient; Contract #N6833525C0270 administration
+  - Contact about: Contract administration, payment processing, compliance verification
 
-### Ryan J. Nichols
-- **Email:** ryan.j.nichols.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** S0-AD Development Efforts
-- **Role:** Contract management escalation
-- **Recent interactions:** Direct participant in "S0-AD Development Efforts" briefing (Sep 21); contract coordination escalation pattern
-- **Contact about:** S0-AD contract execution, program management, compliance/quality gate decisions
+- **Amanda M. Fritz** — Navy CIV (Civilian)
+  - Email: amanda.m.fritz.civ@us.navy.mil
+  - BST Projects: Contract #N6833525C0270 coordination
+  - Role: Navy contract liaison
+  - Recent context: NEW (Sep 22) — Contract coordination email (SENT Sep 22)
+  - Contact about: Contract logistics, payment/delivery coordination
 
-### Evan M. Wolff
-- **Email:** evan.m.wolff.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** S0-AD Development Efforts; **H9223626P9056** (contract number)
-- **Role:** Contract coordination; non-DoD source selection authority
-- **Recent interactions:** 
-  - Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-  - ~25+ emails on contract execution, white paper/ROM distribution, quote verification
-  - Pattern: Active schedule/scope coordination
-- **Contact about:** Contract specifications, approved subcontractors, technical scope refinement, quote verification
-
-### Colton B. Fleahman
-- **Email:** colton.b.fleahman.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** S0-AD Development Efforts
-- **Role:** Technical/operational participant
-- **Recent interactions:** Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-- **Contact about:** S0 technical modifications, operational requirements, field testing coordination
-
-### Eric M. Page
-- **Email:** eric.m.page.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** S0-AD Development Efforts
-- **Role:** Operational requirements / capability integration
-- **Recent interactions:** Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-- **Contact about:** S0-AD operational integration, capability definition, mission requirements
-
-### Harold P. Bowlin
-- **Email:** harold.p.bowlin.mil@socom.mil
-- **Organization:** U.S. Special Operations Command
-- **Projects:** S0-AD Development Efforts
-- **Role:** Technical/operational participant
-- **Recent interactions:** Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-- **Contact about:** S0-AD technical execution, operational integration, testing coordination
-
-### James W. Gilbert
-- **Email:** james.w.gilbert.ctr@socom.mil
-- **Organization:** U.S. Special Operations Command (Contractor)
-- **Projects:** S0-AD Development Efforts
-- **Role:** Technical/operational participant
-- **Recent interactions:** Direct participant in "S0-AD Development Efforts" briefing (Sep 21)
-- **Contact about:** S0-AD technical coordination, operational requirements, contractor liaison
+- **Emilly Sanchez** — Navy CNR Contractor
+  - Email: emilly.sanchez.ctr@us.navy.mil
+  - BST Projects: Contract #N6833525C0270 administration
+  - Role: Navy contracting support
+  - Recent context: NEW (Sep 22) — Contract coordination
+  - Contact about: Contract administration support
 
 ---
 
-## U.S. Department of Interior / USGS — **NEW ACTIVE CONTACT**
+## U.S. Special Operations Command (USSOCOM / SOCOM)
 
-### Tracy L. Huot — **NEW**
-- **Email:** tracy_huot@ios.doi.gov
-- **Organization:** U.S. Department of Interior
-- **Projects:** **Contract No. 140G0323P0280/P00002** (new Sep 21, 2026)
-- **Role:** Contract/program coordination
-- **Recent interactions:** First engagement Sep 21, 2026 (Beck Cotter primary contact)
-- **Contact about:** DOI contract terms, deliverables, compliance, program coordination
+- **James W. Gilbert** — USSOCOM (Contractor)
+  - Email: james.w.gilbert.ctr@socom.mil
+  - BST Projects: S0-AD Development (301-03 or equivalent), SOCOM platform requirements
+  - Title: SOCOM Program Manager/Technical Lead
+  - Role: **PRIMARY SOCOM CONTACT** — defines S0-AD mission requirements, approves development efforts, escalation authority
+  - Recent context: Direct multi-party dialogue on "S0-AD Development Efforts" (Sep 22, 3:20 PM inbound response with leadership participation); steering group member; Jack/Dan Prendergast primary BST contacts
+  - Contact about: S0-AD technical requirements, development milestones, mission specifications, capability demonstrations
 
-### Kevin H. Pesola
-- **Email:** kpesola@usgs.gov
-- **Organization:** USGS (U.S. Geological Survey)
-- **Projects:** Contract No. 140G0323P0280/P00002
-- **Role:** Technical/program coordination
-- **Recent interactions:** Sep 21, 2026 coordination (Beck Cotter primary)
-- **Contact about:** USGS contract deliverables, technical requirements, data management
+- **Colton B. Fleahman** — USSOCOM (Military)
+  - Email: colton.b.fleahman.mil@socom.mil
+  - BST Projects: S0-AD Development Efforts
+  - Role: SOCOM steering group member
+  - Recent context: Copied on S0-AD Development Efforts dialogue (Sep 22)
+  - Contact about: S0-AD development coordination
 
----
+- **Eric M. Page** — USSOCOM (Military)
+  - Email: eric.m.page.mil@socom.mil
+  - BST Projects: S0-AD Development Efforts
+  - Role: SOCOM steering group member
+  - Recent context: Copied on S0-AD Development Efforts dialogue (Sep 22)
+  - Contact about: S0-AD program coordination
 
-## Strategic Partnerships & Contractors
+- **Harold P. Bowlin** — USSOCOM (Military)
+  - Email: harold.p.bowlin.mil@socom.mil
+  - BST Projects: S0-AD Development Efforts
+  - Role: SOCOM steering group member
+  - Recent context: Copied on S0-AD Development Efforts dialogue (Sep 22)
+  - Contact about: S0-AD development oversight
 
-### Paul DeMond — **ESCALATED PRIORITY**
-- **Email:** Paul.DeMond@umaritime.com
-- **Organization:** University of Maritime (Navy SBIR Phase II subcontractor)
-- **Projects:**
-  - **N251-016** (Navy SBIR Phase II Ultra Maritime) — primary liaison
-- **Title:** Ultra Maritime Program Manager
-- **Role:** Phase II subcontractor POC; meeting organizer
-- **Recent interactions:**
-  - **Sep 29, 2026:** Scheduled meeting (marked IMPORTANT)
-  - Multiple recent emails from Alex Lomis, Beck Cotter on Ultra Maritime Phase II coordination
-  - FLAGGED IMPORTANT on N251-016 check-in (Sep 2026)
-  - Meeting coordination with Shannon Eix, other Navy SBIR participants
-- **Contact about:** Navy SBIR Phase II Ultra Maritime execution, meeting agendas, subcontractor deliverables, technical progress updates
+- **Brandon M. Terry** — USSOCOM AFSOC-GSU (SSGT USAF)
+  - Email: brandon.m.terry.ssgt@us.af.mil (alternative: brandon.m.terry@socom.mil)
+  - BST Projects: Black Swift contract coordination, SOCOM engagements
+  - Role: USAF liaison to SOCOM
+  - Recent context: **ELEVATED Sep 22** — "Black Swift contract" coordination (IMPORTANT incoming, Sep 22); Award notice coordination; suggests major contract/task order activity
+  - Contact about: Contract awards, task order status, USAF-SOCOM liaison
 
-### Neil Morphett — **UK RAVEN PROGRAM**
-- **Email:** neil.morphett@global.lmco.com
-- **Organization:** Lockheed Martin UK (UK MOD partnership liaison)
-- **Projects:** **UK Raven Program** — site visit coordination
-- **Title:** Lockheed Martin UK Program Lead
-- **Role:** UK military (Raven program) site visit coordinator
-- **Recent interactions:**
-  - Sep 16, 17, 21, 2026: UK Raven visit to BST facility coordination (Beck Cotter, Daniel Prendergast, Jack Elston, Maciej Stachura engaged)
-  - High-level defense partnership preparation active
-  - Indicates UK MOD validation/testing at BST Boulder facility
-- **Contact about:** UK Raven program technical specifications, site visit logistics, UK MOD requirements, defense partnership alignment
-
-### Mel Marker / William O'Neill — **BYLIGHT HALO FLIGHT**
-- **Email:** mel.marker@bylight.com / william.oneill@bylight.com
-- **Organization:** ByLight (USAF contractor)
-- **Projects:**
-  - **ByLight M2 HALO Flight** — active testing phase
-  - **Chilli Airframe Development** — 400km range mission validation
-- **Title:** ByLight Project Lead (Mel) / Technical Lead (William)
-- **Role:** Flight test coordinator; technical decision-maker
-- **Recent interactions:**
-  - Sep 21, 2026: M2 HALO Flight coordination (marked IMPORTANT)
-  - Maciej Stachura, William O'Neill, Ethan Domagala active coordination
-  - Multi-day coordination thread active through Sep 21
-  - Phase 2 discussions ongoing
-- **Contact about:** HALO flight test status, fuselage performance issues, Chilli airframe specifications, mission readiness, technical problem-solving
-
-### Lockheed Martin (UK) — Strategic Defense Partner
-- **Contact:** Neil Morphett (see above)
-- **Projects:** UK Raven Program
-- **Relationship:** UK MOD representative; advanced defense/surveillance technology partnership
+- **Michael C. Jagelewski** — USSOCOM (PoP Coordinator)
+  - Email: michael.c.jagelewski@socom.mil
+  - BST Projects: S0-AD program
+  - Role: SOCOM Place of Performance (PoP) coordinator
+  - Contact about: Test site coordination, facility requirements, PoP scheduling
 
 ---
 
-## Manufacturing & Component Partners
+## Other Government Agencies
 
-### Aeronet — **CRITICAL SUPPLY CHAIN DEPENDENCY**
-- **Contact:** Adrian Sepulveda (asepulveda@aeronet.com)
-- **Projects:** **N42 Pioneer Array** — critical aircraft/component delivery
-- **Role:** Time-critical aircraft delivery coordinator
-- **Recent interactions:**
-  - Sep 21, 2026: **EXTREME URGENCY** — 3 messages (18:01, 18:33, 00:49 UTC next day)
-  - Meredith Needham escalation: "Checking in on status of shipment for tomorrow" (multiple same-day messages)
-  - Active same-day response cycle on time-critical delivery
-- **Contact about:** N42 aircraft delivery status, component shipping coordination, delivery timeline confirmation, quality/compliance verification
+### U.S. Air Force
+- **Steve Jolly** — Blue Origin AI Subcommittee
+  - Email: steve.jolly@us.af.mil (or equivalent)
+  - BST Projects: AI/autonomy research coordination
+  - Role: USAF AI strategic planning
+  - Recent context: Jack Elston copied on Blue Origin AI Subcommittee discussions
+  - Contact about: USAF AI autonomy initiatives, Blue Origin partnerships
 
-### Hu
+### U.S. Geological Survey (USGS) & Related
+- **Robert Levy** — NASA/USGS Contact
+  - Email: robert.levy@nasa.gov
+  - BST Projects: Atmospheric aerosol research
+  - Role: Aerosol research scientist
+  - Contact about: Aerosol measurement payloads, USGS research integration
+
+---
+
+## International Defense & Commercial Partners
+
+### Lockheed Martin UK (LMUK)
+- **Neil Morphett** — Lockheed Martin UK
+  - Email: neil.morphett@global.lmco.com
+  - BST Projects: UK Raven program visit/coordination
+  - Role: LMUK program contact; Raven platform liaison
+  - Recent context: UK Raven visit coordination ongoing; audit/compliance discussions with Beck Cotter and Dan Prendergast
+  - Contact about: Raven platform requirements, UK defense partnerships, international collaboration
+
+---
+
+## Commercial Partners & Subcontractors
+
+### KrateoSky (Strategic Integration Partner)
+- **Brian Grubel** — KrateoSky CEO/Founder
+  - Email: Brian@krateosky.com
+  - BST Projects: **STRATEGIC PARTNERSHIP** — "Mapping of Opportunities to Development Efforts" (Sep 22), BST<>KS integration meetings, GTM alignment
+  - Role: KrateoSky executive; strategic decision-maker
+  - Recent context: **ELEVATED Sep 22–23** — Core participant in "Mapping of Opportunities to Development Efforts" strategic planning; integration meeting attendee (Sep 23); suggests M&A, partnership architecture, or go-to-market alignment discussions at C-suite level
+  - Contact about: Strategic partnership direction, product integration, market opportunities, leadership alignment
+
+- **Ariel Avitan** — KrateoSky (Strategic)
+  - Email: Ariel@krateosky.com
+  - BST Projects: Strategic partnership coordination
+  - Role: KrateoSky strategic contact
+  - Recent context: "Mapping of Opportunities" participant; integration meeting attendee
+  - Contact about: Strategic partnership details, go-to-market alignment
+
+- **Sona Raziabeegum** — KrateoSky (Operations)
+  - Email: sona

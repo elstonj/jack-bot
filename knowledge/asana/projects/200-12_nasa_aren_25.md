@@ -29,21 +29,31 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 ## Task Summary
 - **Total Tasks:** 1 open (unassigned), 0 completed
 - **Open Task:**
-  - Geoffrey Bland (Aeropods) contact record — Unassigned, no due date — High priority
+  - Geoffrey Bland (Aeropods) contact record — Unassigned, no due date — High priority; reference record with contact details for post-retirement outreach
 
 ## Recent Activity
+
+### Project Closeout (August 2025)
 - **Project archived August 2025** — ahead of original 2026-03-02 due date
 - **Shutdown completed 2025-08-26** (3 days ahead of target 2025-08-29 deadline)
 - **Geoffrey Bland retired from NASA (end of August 2025)**; project shut down before his retirement
+
+### Post-Project Activity
 - **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
-- **[2026-08-24 & 2026-08-25] NASA Glenn Icing Research Tunnel testing rate:** Daniel Prendergast provided reference data — $55k–$60k per day of testing (for context on future NASA testing opportunities)
+- **[2026-08-24 & 2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference:** Daniel Prendergast noted current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
+
+### Recent Shipment Activity (September 2026)
+- **[2026-09-23 & 2026-09-22]** Meredith Needham reminded team of NASA shipment pickup between 9:30 AM–4 PM. Ethan has accompanying paperwork.
+- **Conference room occupied 2–3 PM** for interview (2026-09-23)
+- **NASA S2 pallet specs** (Ethan, 2026-09-21 & 2026-09-18): 48×120 inches, 20 inches tall
 
 ## Notes & Context
 - Project is fully archived with all closeout tasks complete
 - No subcontractors involved
 - Geoffrey Bland remains active in Aeropods domain post-NASA retirement; use personal email addresses (gbaerokats@gmail.com, geodronez@gmail.com preferred) for future contact
-- One open contact record in Asana for Geoffrey Bland (Aeropods) with no actionable task; may be reference-only or awaiting assignment
+- One open contact record in Asana for Geoffrey Bland (Aeropods); appears to be reference-only for future collaboration
+- Recent NASA shipment activity (September 2026) suggests continued hardware movement or final asset disposition post-project
 
 ## Follow-Up Opportunities
 

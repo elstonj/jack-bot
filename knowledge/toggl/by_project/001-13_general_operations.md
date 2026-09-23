@@ -4,13 +4,13 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 2,278.1 hours (2,275.6 + 2.5)
+- Total hours tracked: 2,289.5 hours (2,278.1 + 11.4)
 
 ## Team Allocation
-- Meredith Needham: 1,238.5 hours (54.3% of tracked time)
-- Beck Cotter: 504.8 hours (22.1% of tracked time)
-- Jack Elston: 429.9 hours (18.9% of tracked time)
-- Stachura: 75.1 hours (3.3% of tracked time)
+- Meredith Needham: 1,246.9 hours (54.4% of tracked time)
+- Beck Cotter: 504.8 hours (22.0% of tracked time)
+- Jack Elston: 429.9 hours (18.8% of tracked time)
+- Stachura: 78.1 hours (3.4% of tracked time)
 - Dan: 47.0 hours (2.1% of tracked time)
 - Spencer Hoehl: 10.6 hours (0.5% of tracked time)
 - Ethan Domagala: 15.9 hours (0.7% of tracked time)
@@ -19,29 +19,31 @@
 
 ## Activity Timeline
 
-**Current batch (2.5 hours)**:
-- **Jack Elston** (1.2h): Answering Emails
-- **Stachura** (1.2h): *No description* ⚠️
+**Current batch (11.4 hours)**:
+- **Meredith Needham** (8.4h): Operations/Admin
+- **Stachura** (1.6h): *No description* ⚠️
+- **Stachura** (1.5h): *No description* ⚠️
 
 **Documentation compliance (current batch)**:
-- **48.0% documented** (1.2 of 2.5 hours documented)
-- **52.0% undocumented** (1.3 hours)
-- **Cumulative undocumented: 569.7 hours out of 2,278.1 tracked (25.0% overall failure rate)**
+- **73.7% documented** (8.4 of 11.4 hours documented)
+- **26.3% undocumented** (3.0 hours)
+- **Cumulative undocumented: 572.7 hours out of 2,289.5 tracked (25.0% overall failure rate)**
 
 ## Insights
 
 - **⚠️ CRITICAL DOCUMENTATION FAILURE — ESCALATING**:
-  - Current batch: **Sharp regression** — documentation dropped from 78.1% to 48.0%
-  - **Stachura continues non-compliance**: 1.2h undocumented this batch; cumulative 36.1 hours undocumented (48.1% cumulative non-compliance rate)
-  - **Persistent pattern**: Stachura has submitted 100% undocumented time across all recent batches
+  - Current batch: **Improvement noted** — documentation recovered to 73.7% (up from 48.0%)
+  - **Stachura continues non-compliance**: 3.0h undocumented this batch; cumulative 39.1 hours undocumented (50.1% cumulative non-compliance rate)
+  - **Persistent pattern**: Stachura has submitted 100% undocumented time across all tracked batches without exception
 
 - **Work composition** (from documented entries):
-  - **Jack Elston**: Answering Emails (1.2h) — continues administrative/communication role
-  - **Stachura**: Completely opaque — no task information provided
+  - **Meredith Needham**: Operations/Admin (8.4h) — core overhead operations and administrative work
+  - **Stachura**: Completely opaque — no task information provided across any entries
 
 - **⚠️ ENFORCEMENT STATUS — CRITICAL ESCALATION REQUIRED**:
-  - **Stachura**: Repeated non-compliance across all tracked batches with zero improvement. Combined undocumented time: 36.1 hours with no accountability
+  - **Stachura**: Repeated non-compliance across all tracked batches with **zero improvement trajectory**. Combined undocumented time: 39.1 hours with no accountability or task transparency
   - **IMMEDIATE ACTION REQUIRED**: 
     - **Block Stachura time entries from approval** until task descriptions are retroactively provided
     - Require manager sign-off on all Stachura entries going forward
     - Implement mandatory pre-submission task validation before time entries are logged
+    - Issue formal compliance notice to Stachura and direct manager

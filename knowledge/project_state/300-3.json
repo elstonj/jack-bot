@@ -12,7 +12,7 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "fixed_price",
     "number": null,
     "total_value": 483000.0,
     "start_date": null,
@@ -27,33 +27,46 @@
   "budget": {
     "approved": 483000.0,
     "approved_source": "asana_custom_field",
-    "line_items": [],
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 216000.0,
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 30000.0,
+        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite communication and land-based C2 integration",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 283617.5,
+        "amount": 285367.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-22"
+        "last_updated": "2026-09-23"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-22"
+        "last_updated": "2026-09-23"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 516.75,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-22"
+        "last_updated": "2026-09-23"
       },
-      "total": 285786.02,
+      "total": 288052.77,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 197213.98,
+    "remaining": 194947.23,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-22T09:09:27Z"
+    "last_reconciled": "2026-09-23T15:18:59Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -91,6 +104,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-09-22T09:09:27Z",
+  "last_full_rebuild": "2026-09-23T15:18:59Z",
   "last_incremental_update": null
 }

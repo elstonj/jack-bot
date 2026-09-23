@@ -1,100 +1,97 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 264 emails (253 from prior period + 11 from Sep 22)
-- **Date range:** Wed 19 Aug 2026 – Tue 22 Sep 2026 (35 days)
-- **Approximate volume:** ~7.5 emails per day average
+- **Total messages scanned:** 279 emails (264 from prior period + 15 new from Sep 22–23)
+- **Date range:** Wed 19 Aug 2026 – Wed 23 Sep 2026 (36 days)
+- **Approximate volume:** ~7.75 emails per day average
 - **Composition:** ~80–85% automated vendor/subscription/logistics notifications; ~15–20% human correspondence and project management
 
 ## Key Correspondents
 
 ### Top Senders
-**Vendor/Supplier automated notifications** (continued dominant):
-- **USPS Informed Delivery** (continued daily digests through Sep 22)
-- **Pirate Ship** (ongoing shipping receipts)
-- **Spindrift Market** (continuing beverage subscription orders, Sep 21–22)
-- **Toggl Track** (time tracking notifications, ongoing)
-- **Tracking services** (generic delivery confirmations, Sep 21)
+**Vendor/Supplier automated notifications** (continued):
+- **USPS Informed Delivery** (prior period, ongoing)
+- **Pirate Ship** (shipping receipt Sep 22: $84.48 payment)
+- **DigiKey** (2 new PO acknowledgements Sep 22: Salesorder #101782555, #101780405) — **INCREASED COMPONENT ORDERING ACTIVITY**
+- **HeliDirect** (new vendor Sep 23: "Pulse Heli Flight Packs" product update)
+- **ProtoSpace Mfg** (enclosure design webinar Sep 22)
+- **PHASE1 AVIATION LLC** (new invoice Sep 22: Invoice 1122)
+- **Toggl Track, Spindrift Market** (prior period, no new activity in this batch)
 
-**Human correspondence** (active threads unchanged):
-- **Frank Strazzabosco** (microfirm@earthlink.net) — **CRITICAL ACTIVE THREAD** (Sep 17–21):
-  - **"24V Power supply mods"** (Sep 21, 12:31 PM) — Frank's latest response with modifications to Sam & Jack
-  - No new activity Sep 22
+**Human correspondence** (active threads):
+- **Frank Strazzabosco** (microfirm@earthlink.net) — **HIGHLY ACTIVE THREAD ESCALATION** (Sep 22):
+  - 6 emails exchanged on **"Re: 24V Power supply mods"** within ~7 hours (10:25 AM–5:30 PM MDT)
+  - Marked IMPORTANT by Frank; rapid back-and-forth iteration suggests urgent design refinement
+  - Latest: Sam's response 5:30 PM, Frank's response 5:34 PM UTC (same-day rapid replies)
 
-- **Jack Elston** (elstonj@blackswifttech.com) — **ONGOING TECHNICAL COLLABORATION**:
-  - **"Re: 24V Power supply mods"** (Sep 21, 3:22 PM & 2:25 PM) — Jack's replies in Frank thread
-  - No new activity Sep 22
+- **Jack Elston** (elstonj@blackswifttech.com) — No new activity in this batch (prior Sep 21)
 
-- **Tom** (sales4@hulianic.com) — **NEW EXTERNAL CONTACT** (Sep 22):
-  - **"Re: Re: Hulianic is strong in SILICON LABS"** (Sep 22, 9:18 AM UTC+8, to sam.hild@bst.aero & sam.hild@blackswifttech.com) — **NEW technical vendor discussion**
-  - Suggests prior email exchange (headers not in this batch)
-  - Contact name: Tom; company: Hulianic; focus: Silicon Labs components
+- **Matthew Crabtree** (mjcrabtree21@gmail.com) — **NEW DIRECT CONTACT** (Sep 22, 12:22 PM):
+  - Sam sends: **"Schematic of the Fix"** (technical schematic delivery)
+  - Likely continuation of DeploymentTube2-v0.6 PCB issues from prior period
+  - Direct personal email (mjcrabtree21@gmail.com), not corporate
 
 ### Top Recipients
-- **purchasing@blackswifttech.com** — Dominant distribution for automated/vendor emails (~85% of this batch)
-- **sam.hild@blackswifttech.com** — Personal inbox: Toggl Track, direct vendor responses (Hulianic)
-- **Jack Elston** (elstonj@blackswifttech.com) — 24V power supply design thread
-- **Frank Strazzabosco** (microfirm@earthlink.net) — 24V power supply design responses
+- **purchasing@blackswifttech.com** — Continues receiving automated vendor confirmations (~10 messages in this batch)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — 6 direct emails Sep 22
+- **Matthew Crabtree** (mjcrabtree21@gmail.com) — 1 technical schematic email Sep 22
 
 ### Internal vs External (Updated)
 **Internal (BST team):**
 - Jack Elston, Joshua Fromm, Spencer Hoehl, Cory Dixon, Daniel Prendergast, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Nathaniel Straus, Beck Cotter, Paige Smith, Kareem Ahmed, Ben Busby
 
 **External (expanded):**
-- **Frank Strazzabosco** (Microfirm, microfirm@earthlink.net) — Active engineering partner on 24V power supply modifications
-- **Matt Crabtree** (Waveform Engineering) — PCB technical partner
-- **Thinh Nguyen** (thinh991@yahoo.com) — p400s technical discussion
-- **Tom** (Hulianic, sales4@hulianic.com) — **NEW vendor**, Silicon Labs component supplier/partner
-- **Triza Codillo** (Creative Alignments) — Recruitment coordinator
-- **Lauren Nagel** (Tyto Robotics) — Industry research contact
-- **Vantage Robotics, Inspired Flight, KrateoSky, C-Astral**
+- **Frank Strazzabosco** (Microfirm, microfirm@earthlink.net) — **INTENSIVE COLLABORATION**, 6 emails Sep 22 on 24V power supply
+- **Matthew Crabtree** (Waveform Engineering, mjcrabtree21@gmail.com) — PCB design partner, receiving technical schematics
+- **Tom** (Hulianic, sales4@hulianic.com) — Silicon Labs component supplier (Sep 22 prior batch)
+- **HeliDirect** (sales@helidirect.com) — **NEW VENDOR**, flight packs/helicopter components
+- **PHASE1 AVIATION LLC** — **NEW VENDOR**, aviation-related invoicing
+- **DigiKey** — Electronic components distributor (2 new orders Sep 22)
+- Prior external: Thinh Nguyen, Triza Codillo, Lauren Nagel, Vantage Robotics, Inspired Flight, KrateoSky, C-Astral
 
 ## Topic Patterns
 
 ### Active Project/Technical Threads
-- **24V Power supply design/modifications** — Ongoing Frank Strazzabosco & Jack Elston collaboration (Sep 17–21)
-- **DeploymentTube2-v0.6 PCBs** — Technical issues with Waveform Engineering (Sep 15–16)
-- **p400s** — New technical discussion thread initiated by Jack Elston (Sep 18)
-- **Silicon Labs components** — NEW vendor engagement with Hulianic (Sep 22)
+- **24V Power supply design/modifications** — **ESCALATED INTENSITY**: 6 rapid exchanges Sep 22 with Frank Strazzabosco (10:25 AM–5:34 PM UTC), marked IMPORTANT. Suggests critical design iteration or problem-solving phase.
+- **DeploymentTube2-v0.6 PCBs** — **NEW ACTIVITY**: Sam sends "Schematic of the Fix" to Matthew Crabtree (Sep 22, 12:22 PM). Indicates solution/repair schematic being communicated.
+- **DigiKey component orders** — 2 new purchase orders acknowledged Sep 22 (#101782555, #101780405), suggesting active BOM sourcing for ongoing projects.
 
 ### Recurring Automated Streams
-- **Spindrift Market** — Beverage subscription (recurring order notifications)
-- **USPS, UPS, Pirate Ship** — Logistics/shipping tracking (daily/as-needed)
-- **Toggl Track** — Time tracking integration
-- **Rippling** — Corporate card/expense notifications
+- **Spindrift Market** — Beverage subscription (prior period)
+- **USPS, UPS, Pirate Ship** — Logistics/shipping tracking (Pirate Ship $84.48 Sep 22)
+- **Toggl Track** — Time tracking (prior period)
+- **Rippling** — Corporate expense (prior period)
+- **Procurement vendor confirmations** — ProtoSpace Mfg, HeliDirect, PHASE1 AVIATION
+
+### New Product/Vendor Lines
+- **HeliDirect – Pulse Heli Flight Packs** (Sep 23) — Helicopter/drone flight systems
+- **PHASE1 AVIATION LLC** (Sep 22) — Aviation component invoicing
+- **DigiKey** (2 orders Sep 22) — Component sourcing acceleration
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Morning activity:** Frank Strazzabosco threads show concentrated activity 10:25 AM–2:25 PM MDT (Sep 21)
-- **International contacts:** Tom (Hulianic) at UTC+8 (9:18 AM, likely Singapore/China timezone)
-- **Automated emails:** Distributed throughout day and night (USPS 04:03 UTC, tracking 15:13 UTC, etc.)
+- **Rapid intra-day iteration:** Frank Strazzabosco thread compressed into **7 hours** (10:25 AM–5:34 PM UTC/MDT), 6 emails exchanged. Average reply time ~30–45 minutes. Indicates **urgent or high-priority design work**.
+- **Morning to afternoon concentration:** 10:25 AM (first Sam email) through 5:30 PM (last Sam email), steady velocity.
+- **Timezone coordination:** Frank (EST likely) and Sam (MDT/Mountain) coordinating same-business-day rapid responses.
+- **Automated emails:** Distributed across day/night (DigiKey 14:08 CDT, 12:57 CDT; Pirate Ship 17:34 UTC; HeliDirect 13:27 UTC).
 
-### External Vendor Engagement
-- **Active technical vendor relationships:** Frank Strazzabosco (power supply engineering), Matt Crabtree (PCB manufacturing), **Tom/Hulianic** (component sourcing) — all directly email Sam
-- **Procurement routing:** Most vendor confirmations route to purchasing@blackswifttech.com despite being addressed to Sam
+### Mailing Lists and Procurement Flow
+- **Purchasing@blackswifttech.com** — Central procurement inbox; vendor confirmations routed here even when directly involving Sam
+- **Josh Fromm** — Receives Pirate Ship shipments (Sep 22)
+- **Meredith Needham** — Listed on HeliDirect email (purchasing role)
 
 ## Key Relationships
 
 ### Closest Collaborators (by recent activity)
-1. **Frank Strazzabosco** (Microfirm) — Design/engineering partner, 4+ emails Sep 17–21 on 24V power supplies
-2. **Jack Elston** — Internal technical lead, co-collaborator on Frank's threads and p400s discussion
-3. **Joshua Fromm** — Internal logistics/purchasing coordination
-4. **Tom** (Hulianic) — Emerging vendor relationship on Silicon Labs components (Sep 22)
+1. **Frank Strazzabosco** (Microfirm) — **HIGHEST INTENSITY**: 6 emails Sep 22 in 7-hour window on 24V power supply design. IMPORTANT flags suggest critical work.
+2. **Matthew Crabtree** (Waveform Engineering) — **ACTIVE TECHNICAL PARTNER**: Sending PCB fix schematics (Sep 22), direct personal email, suggesting hands-on engineering collaboration.
+3. **Jack Elston** — Internal co-collaborator (prior activity; no new emails in this batch)
+4. **Joshua Fromm** — Internal logistics/purchasing coordination
 
 ### External Strategic Relationships
-- **Waveform Engineering** (Matt Crabtree) — PCB manufacturing partner with ongoing issues
-- **Microfirm** (Frank Strazzabosco) — Design engineering consultancy, active on power supply modifications
-- **Hulianic** — NEW component supplier, Silicon Labs focus
-
-## Notable Observations
-
-1. **New vendor engagement (Sep 22):** Hulianic contact (Tom) suggests prior email exchange about Silicon Labs components — **this may indicate new sourcing initiative or supplier evaluation**. Headers show two email addresses (sam.hild@bst.aero and sam.hild@blackswifttech.com), suggesting dual domain usage or recent email migration.
-
-2. **24V Power supply project:** Active 5-day thread (Sep 17–21) with Frank Strazzabosco and Jack Elston indicates ongoing hardware design work. Frank's latest response (Sep 21, 12:31 PM) includes modifications — suggests iterative engineering collaboration.
-
-3. **Procurement routing:** Strong pattern of vendor emails forwarding to purchasing@blackswifttech.com even when directly addressing Sam — suggests formal procurement workflow despite technical nature of many emails.
-
-4. **Dual email domain:** New headers show sam.hild@bst.aero alongside sam.hild@blackswifttech.com — **possible secondary corporate domain or customer-facing address**.
-
-5. **No decline in automated volume:** Spindrift beverage subscription, USPS daily digests, and shipping tracking remain consistent operational baseline.
+- **Microfirm** (Frank Strazzabosco) — Power supply design engineering, **high-urgency iteration**
+- **Waveform Engineering** (Matthew Crabtree) — PCB manufacturing and repair, **active fix delivery**
+- **Hulianic** (Tom) — Component sourcing, Silicon Labs focus
+- **HeliDirect** — **EMERGING VENDOR**, helicopter/flight pack product line
+- **PHASE1 AVIATION LLC** — **NEW

@@ -1,100 +1,59 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3",
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-22",
+    "end": "2026-09-23"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 4537.11,
+    "expenses": 165.46,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 4537.11
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 165.46
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-09-17",
-      "doc_number": "PI26000633",
-      "total": 2248.0,
-      "attributed": 2248.0,
-      "vendor": "Next Vision Stabilized Systems Ltd.",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "SO26000742",
-      "lines": [
-        {
-          "amount": 1999.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Retracting for NightHawk2/V/UZ (#2075)"
-        },
-        {
-          "amount": 199.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Vertical Mounting for NightHawk (#2036)"
-        },
-        {
-          "amount": 50.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 41.11,
-      "attributed": 41.11,
+      "date": "2026-09-22",
+      "doc_number": "101782555",
+      "total": 50.66,
+      "attributed": 50.66,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "",
       "lines": [
         {
-          "amount": 41.11,
+          "amount": 50.66,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment to Sean Cole (Phase1 Aviation) for S3 IRAD"
+          "description": "regulator fix parts"
         }
       ]
-    }
-  ],
-  "purchase_orders": [
+    },
     {
-      "type": "PurchaseOrder",
-      "date": "2026-09-16",
-      "doc_number": "1040",
-      "total": 2248.0,
-      "attributed": 2248.0,
-      "vendor": "Next Vision Stabilized Systems Ltd.",
+      "type": "Purchase",
+      "date": "2026-09-22",
+      "doc_number": "101780405",
+      "total": 114.8,
+      "attributed": 114.8,
+      "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Price Quotation PQ26000876",
+      "memo": "",
       "lines": [
         {
-          "amount": 1999.0,
+          "amount": 114.8,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Retracting for NightHawk2/V/UZ (#2075)"
-        },
-        {
-          "amount": 199.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Vertical Mounting for NightHawk (#2036)"
-        },
-        {
-          "amount": 50.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping"
+          "description": "regulators"
         }
       ]
     }
   ],
+  "purchase_orders": [],
   "payments": []
 }

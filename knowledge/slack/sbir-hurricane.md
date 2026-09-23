@@ -31,8 +31,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
 - Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft; characterized by ability/inability to accept higher power charging (July 8, 2026)
 - Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
-- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026, with single motor delivered September 3-4, 2026 and batch in QC/performance testing by September 8, 2026; Joshua Fromm awaiting update on Vertiq delivery status as of mid-September (September 17-18, 2026)
+- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026, with single motor delivered September 3-4, 2026 and batch in QC/performance testing by September 8, 2026; Joshua Fromm awaiting update on Vertiq delivery status as of mid-September (September 17-18, 2026); Joshua Fromm continuing to pursue further Vertiq updates (September 22, 2026)
 - **Grey vs. Red Parachute Caps:** Grey parachute caps identified as superior design for clean chute deployment vs. red caps; grey caps should be used for video tube aircraft (September 19, 2026)
+
+**Deployment Tube Components:**
+- Spring-loaded switches under flap available for replacement; extras stored on wire rack shelf or pre-wired in a bin ready to use (September 22, 2026); replacement procedure involves using pliers/channel locks but should not involve twisting the black lead portion (risk of internal breakage), only grab metal housing sleeve; existing loctite residue is sufficient, no reapplication needed (September 22, 2026)
 
 **Ground Control Station Operations (April-September 2026):**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -60,7 +63,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
 - New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
 - Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
-- Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April 10, 2026)
-- Reconditioning cycle confirmed effective for correcting humidity sensor bias (April 17, 2026)
-- **PSNS v0.5 QC Process Update:** New PSNS boards arriving, require new QC process and updates to QC site dropdown (late August 2026)
-- **PSNS Board Manufacturing Issues (September 2026):** R60 resistor incorrectly populated on all new PSNS boards despite BOM marking it as DNP (Do Not Populate); boards won't power
+- Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April

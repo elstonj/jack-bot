@@ -3,7 +3,7 @@
 ## Overview
 - **Owner:** Dan Prendergast
 - **Purpose:** Track required maintenance actions across company aircraft fleet
-- **Aircraft in scope:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001, S10019, S10021, ByLight Mustang
+- **Aircraft in scope:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001, S10020 (VTOL)
 - **Status:** Active
 - **Dollar value:** Not specified
 - **Timeline:** No defined project timeline
@@ -13,35 +13,29 @@
 None defined.
 
 ## Task Summary
-- **Total tasks:** 2 open, 0 completed (as of current pull)
+- **Total tasks:** 1 open, 0 completed (as of current pull)
 - **Tasks by assignee:**
-  - Unassigned: 2 open tasks
-  - Team member noted in tasks: Ethan Domagala (both tasks)
+  - Spencer Hoehl: 1 open task
 - **Open tasks:**
-  1. **Fuselage fix** (ByLight Mustang, Unassigned, no due date)
+  1. **Repairing S1-VTOL** (S10020, Spencer Hoehl, no due date)
      - Work Type: Fix
      - Aircraft Status: Down (Grounded)
      - QC Required: Yes
-     - Issue Type: Hardware
-     - Description: Fix broken fuselage of ByLight Mustang; reinforce weak points with carbon fiber
-  
-  2. **Mechanical Trim resetting** (ByLight Mustang, Unassigned, no due date)
-     - Work Type: Fix
-     - Aircraft Status: Up (Operational)
-     - QC Required: No
-     - Issue Type: Hardware
-     - Description: Aircraft could not trim properly in manual. With full up elevator trim, aircraft still pitched down. Use current trim setting to reset.
+     - Maintenance Type: Modification
+     - Priority: Medium
+     - Hardware or Software: Hardware
+     - Description: Repair S1-VTOL with new AP and PSNS. Replace MHP.
 
 ## Recent Activity
-- **New aircraft added to tracking:** ByLight Mustang now appears in maintenance project (not in original scope list of E/S-series tail numbers)
-- **Task shift:** Previous data showed S10019 trims as the active work item; current data shows ByLight Mustang fuselage fix and mechanical trim resetting as open tasks
-- **Grounded aircraft:** ByLight Mustang fuselage issue has grounded the aircraft; trim issue on same aircraft needs resolution before full operational return
+- **Aircraft scope update:** S10020 (VTOL) now appears in active maintenance tracking
+- **Previous tasks cleared:** ByLight Mustang fuselage fix and mechanical trim resetting tasks are no longer visible in open task list—either completed, closed, or moved externally
+- **Current focus:** S1-VTOL repair assigned to Spencer Hoehl with grounded aircraft status requiring QC upon completion
 
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)
-- Custom fields in use: Work Type (Fix/New Feature), Aircraft Status (Up/Down), QC Required (Yes/No), Hardware or Software
-- **ByLight Mustang:** Two active maintenance items, both assigned to Ethan Domagala for execution
-  - Fuselage repair is critical path item (aircraft grounded; QC required)
-  - Trim resetting is dependent on fuselage repair completion
-- Both open tasks lack due dates — recommend scheduling with Dan Prendergast
+- Custom fields in use: Work Type (Fix/New Feature), Aircraft Status (Up/Down), QC Required (Yes/No), Maintenance Type (Modification), Priority level, Hardware or Software designation
+- **S10020 (VTOL):** Aircraft currently grounded pending repair completion
+  - Work involves AP (autopilot), PSNS (Pneumatic Stall Notification System), and MHP (Main Hydraulic Pump) replacement
+  - QC required before return to service
+- Open task lacks due date—recommend scheduling with Dan Prendergast
 - No previously completed tasks currently visible in project view

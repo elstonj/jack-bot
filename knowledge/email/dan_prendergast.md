@@ -1,70 +1,61 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 268 emails (252 previous + 16 new)
-- **Date range covered:** 1 Sep 2026 – 22 Sep 2026 (22 days)
-- **Volume:** Approximately 6–8 emails per day; sustained high activity with continued focus on S0-AD contract execution, UK Raven audit coordination, AFAC approval, and emerging international defense partnerships
+- **Total messages scanned:** 288 emails (268 previous + 20 new)
+- **Date range covered:** 1 Sep 2026 – 23 Sep 2026 (23 days)
+- **Volume:** Approximately 12–13 emails per day; sustained very high activity with direct outbound engagement on S0-AD, KrateoSky GTM alignment, NASA S2, Mastsystem mast solutions, and international defense partnerships (Estonia dialogue)
 
 ## Key Correspondents
 
 ### Top Internal Contacts (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — 26+ messages (S0-AD, NOAA, Stanford S2 order, DevX, TAA, quote requests, internal steering)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — 23+ messages (S0-AD, Raven audit, SBIR Phase II radar, contracts, compliance, UK visit coordination, internal alignment, S0-AD Development Efforts briefing)
-- **Maciej Stachura** (stachura@blackswifttech.com) — 15+ messages (S0-AD, AFA proposal, Navy, SOCOM alignment, UK visit, internal steering, S0-AD Development Efforts)
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 3+ messages (Popocatépetl Volcano Research Mission coordination, AFAC documentation)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — 5+ messages (recruiting, SOCOM, internal alignment)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 5+ messages (NightHawk2-UZ qualification PQ26000876, Nextvision coordination, vendor management)
+- **Jack Elston** (elstonj@blackswifttech.com) — 30+ messages (S0-AD COTS waiver, KrateoSky GTM mapping, NOAA, Stanford S2 order, DevX, TAA, quote requests, internal steering)
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — 28+ messages (S0-AD, Raven audit, SBIR Phase II radar, contracts, compliance, UK visit, KrateoSky GTM alignment, S0-AD Development Efforts, internal alignment)
+- **Maciej Stachura** (stachura@blackswifttech.com) — 18+ messages (S0-AD, AFA proposal, Navy, SOCOM alignment, UK visit, KrateoSky GTM mapping, S0-AD Development Efforts, internal steering)
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 4+ messages (Popocatépetl Volcano Research Mission direct coordination, AFAC documentation, mission plan)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — 6+ messages (recruiting, SOCOM, KrateoSky GTM alignment, internal alignment)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — 1+ messages (S0 COTS waiver)
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — 1+ messages (S0 COTS waiver)
 
 ### Top External Contacts
 
-**Government/Military (S0-AD sustained; USSOCOM multi-party dialogue elevated)**
-- **USSOCOM** — **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — Non-DoD source coordination; **Michael C. Jagelewski** — PoP coordination; **Brandon M. Terry** — Award notice, quote verification; **Fleahman, Colton B** (colton.b.fleahman.mil@socom.mil), **Page, Eric M** (eric.m.page.mil@socom.mil), **Bowlin, Harold P** (harold.p.bowlin.mil@socom.mil), **Gilbert, James W** (james.w.gilbert.ctr@socom.mil) — S0-AD Development Efforts briefing continuation and steering (Sep 21 direct outbound response from Dan)
+**Government/Military (S0-AD sustained; USSOCOM escalated to direct Dan engagement)**
+- **USSOCOM** — **James W. Gilbert** (james.w.gilbert.ctr@socom.mil) — Direct multi-party S0-AD Development Efforts dialogue continuation (Sep 22, 9:50 AM outbound from Dan; Sep 22, 3:20 PM inbound leadership response with Fleahman, Page, Bowlin, Beck copied); **Michael C. Jagelewski** — PoP coordination; **Brandon M. Terry** — Award notice; **Fleahman, Colton B** (colton.b.fleahman.mil@socom.mil), **Page, Eric M** (eric.m.page.mil@socom.mil), **Bowlin, Harold P** (harold.p.bowlin.mil@socom.mil) — S0-AD steering group
 
-**UK Defence (Raven Program) — ACTIVE COORDINATION**
-- **Neil Morphett** (neil.morphett@global.lmco.com, Lockheed Martin) — "UK Raven visit to Black Swift" coordination (Sep 16, 17, 21); Dan responds directly with Beck, Jack, Maciej copied (Sep 21, 1:21 PM); internal cross-functional preparation active
+**Space Agency (NEW elevated engagement)**
+- **NASA Ames Research Center** — **Wesley R. Enos** (wesley.r.enos@nasa.gov) — "BST-NASA S2" ongoing dialogue (Sep 22, multiple direct exchanges: 9:31 AM, 12:53 PM outbound from Dan; Sep 22, 4:36 PM inbound response marked important); indicates active S2 platform/partnership coordination with NASA
 
-**Contractors/Partners (continued high engagement; GTM expansion visible)**
-- **KrateoSky** — **Bob Smith** (Bob@krateosky.com) — GTM products discussion (Sep 21, marked important; Dan responds directly); **Sona Raziabeegum** (sona@krateosky.com) — SOCOM contract coordination; continued MBSE/contract documentation and Go-To-Market product alignment
-- **Nextvision Stabilized Systems** — **Chani Ben Simon** (chani.bs@nextvision-sys.com) — NightHawk2-UZ payload qualification (PQ26000876) ongoing
-- **NTI Systems** — **Alexy Mukadem** (mukadem.alexy@nti-systems.com) — GCS integration dialog
-- **AV3 Aerovisual** — **Joe Villa-Michel** (joe@av3aerovisual.com) — "Operator Manual and Mission Plan for AFAC Approval" (Sep 21, important); **Dr. Hugo Delgado Granados** (hdelgado@unam.mx, UNAM) also copied; direct Dan participation in AFAC coordination
-- **Deadwater Technologies** — **Richard** (hello@deadwater.tech) — GNSS-denied navigation capability follow-up; Dan responds directly (Sep 21)
-- **UKRSPECSYSTEMS** — **oleksandr.p@ukrspecsystems.com** — UAS components inquiry; Dan responds directly (Sep 21, 12:21 PM); important inbound (Sep 21, 6:10 AM); emerging supplier relationship
+**UK Defence (Raven Program) — ACTIVE**
+- **Neil Morphett** (neil.morphett@global.lmco.com, Lockheed Martin) — UK Raven visit coordination ongoing
 
-**Emerging International Defense Partners — NEW**
-- **Defense Coalitions** — **Brody Basset** (bb@defensecoalitions.org) — "October 14: Direct Dialogue with Estonia on Defense Procurement" (Sep 22, marked important, inbound); **NEW strategic contact indicating international defense policy/procurement engagement**
+**Contractors/Partners (KrateoSky GTM mapping elevated to executive alignment)**
+- **KrateoSky** — **Brian Grubel** (Brian@krateosky.com), **Ariel Avitan** (Ariel@krateosky.com), **Sona Raziabeegum** (sona@krateosky.com), **Bob Smith** (Bob@krateosky.com), **Jed Leonard** (jed@krateosky.com), **LisaMarie Cheney** (LisaMarie@krateosky.com) — **"Mapping of Opportunities to Development Efforts"** (Sep 22, 12:53 PM outbound from Dan to full GTM leadership; Sep 23, 12:59 PM inbound response from Brian Grubel marked important); **SIGNAL: Executive-level strategic alignment meeting between Dan/Beck/Jack/Maciej and full KrateoSky leadership team on product/opportunity mapping**
+- **Nextvision Stabilized Systems** — **Chani Ben Simon** (chani.bs@nextvision-sys.com) — NightHawk2-UZ payload qualification ongoing
+- **AV3 Aerovisual** — **Joe Villa-Michel** (joe@av3aerovisual.com) — AFAC approval coordination
 
-**Semiconductor/Technology Components — NEW**
-- **HulianIC** — **Tom** (sales4@hulianic.com) — "HulianIC is strong in Silicon Labs" (Sep 22, marked important, unread); multi-address coordination (bst.aero + blackswifttech.com); indicates component sourcing discussions for platform integration
+**Mast Solutions (NEW active engagement)**
+- **Mastsystem** — **Riitta Sorsa** (riitta.sorsa@mastsystem.com), **Gary Groah** (ggroah@contactcorp.net) — Multiple escalated interactions (Sep 23, 5:36 AM, 6:00 AM, 11:11 AM, 11:20 AM; all marked important); **scheduled 30-minute expert consultation meeting** with Dan (Sep 23, 6:00 AM reminder); **Gary Groah coordinating US company inquiry** (Sep 23, 11:11 AM multi-party); indicates Dan directly evaluating mast/deployment solutions for platform integration
 
-**Academic/Research (continued)**
-- **Stanford University** — **Tanay Topac** (tanaytopac@stanford.edu) — "New S2 Order" (Sep 22, marked important); direct ongoing engagement with Jack Elston also copied
-- **UNAM (Mexico)** — **Dr. Hugo Delgado Granados** (hdelgado@unam.mx) — AFAC Operator Manual & Mission Plan approval coordination (Sep 21); Laboratorio Universitario de Drones collaboration
+**International Defense Policy (NEW)**
+- **Defense Coalitions** — **Brody Basset** (bb@defensecoalitions.org) — "October 14: Direct Dialogue with Estonia on Defense Procurement" (Sep 22, 10:33 AM direct outbound response from Dan); confirmed participation in Estonia defense procurement dialogue
 
-**Environmental/Scientific Research — NEW**
-- **DroneX Mexico** — **joaco@dronex.com.mx** — "Popocatépetl Volcano Research Mission" (Sep 21, marked important); Spencer Hoehl coordination; indicates environmental monitoring/scientific research application collaboration
-
-**Vendors/Services**
-- **Mastsystem** — **Waltteri** (sales@mastsystem.com) — Mast solutions inquiry (Sep 21, promotional category)
-- **NanoVEU** — **Tom Wilp** (tom.wilp@nanoveu.com) — [DRAFT] outbound (Sep 21); incomplete/unverified contact thread
+**Environmental/Scientific Research**
+- **DroneX Mexico** — **joaco@dronex.com.mx** — Popocatépetl Volcano Research Mission coordination (Sep 22, Spencer Hoehl copies Dan on mission plan discussion)
 
 ### Internal vs External Breakdown
-- **Internal BST:** ~52 messages (S0-AD steering, Raven audit coordination, AFAC approval, SBIR Phase II, vendor qualification, volcano research mission coordination)
-- **External:** ~206 messages (government contracts, international defense partners, contractors, SBIR tech partners, component suppliers, academia, environmental research)
-- **Automated/Newsletter:** ~10 messages (Mastsystem brochure, Asana, AI Valley, AvWeek, etc.)
+- **Internal BST:** ~70 messages (S0-AD steering, COTS waiver, KrateoSky GTM alignment, Raven audit, NASA S2, volcano mission, Mastsystem eval)
+- **External:** ~210 messages (government contracts, USSOCOM, NASA, KrateoSky, international defense partners, mast solutions, contractors, academia)
+- **Automated/Newsletter:** ~8 messages (AFA updates, ShopAFA promotional)
 
 ## Topic Patterns
 
 ### Recurring Major Themes
 
-1. **S0-AD Air-Deployed UAS Program (Contract H9223626P9056) — SUSTAINED HIGHEST PRIORITY**
-   - **Multi-stakeholder USSOCOM Briefing** — Direct outbound from Dan to Fleahman, Page, Bowlin, Gilbert (Sep 21, 10:56 AM) with Beck copied; indicates Dan leading S0-AD Development Efforts briefing/dialogue
-   - **Component Qualification Ongoing** — NightHawk2-UZ payload, GCS, GNSS-denied navigation subsystems remain active focus
-   - **Contract Execution Sustained** — Continued alignment across Beck, Jack, Maciej, and USSOCOM leadership
+1. **S0-AD Air-Deployed UAS Program (Contract H9223626P9056) — HIGHEST PRIORITY WITH ESCALATED USSOCOM ENGAGEMENT**
+   - **Direct Dan Dialogue with USSOCOM Leadership** — Sep 22, 9:50 AM outbound from Dan to James W. Gilbert; Sep 22, 3:20 PM inbound response from Gilbert (marked important) with Fleahman, Page, Bowlin, Beck copied; indicates Dan now conducting peer-level USSOCOM coordination on S0-AD Development Efforts
+   - **S0 COTS Waiver Coordination** — Jack forwards Non-DoD Source intel on S0 COTS waiver (Sep 22, 3:57 PM) with Josh Fromm, Alex Lomis copied; rapid internal escalation
+   - **Signal:** Sustained contract execution with elevated executive dialogue
 
-2. **UK Raven Program Audit/Evaluation — ACTIVE PREPARATION (Sep 16–21)**
-   - **Direct Dan Engagement with Neil Morphett (LM)** — Dan responds directly to Morphett (Sep 21, 1:21 PM) with internal leadership (Beck, Jack, Maciej) copied
-   - **Signal:** Platform evaluation/audit visit confirmed in progress; BST cross-functional response planning
-   - **Executive-level coordination:** Dan, Beck, Jack, Maciej all directly engaged
-
-3. **
+2. **KrateoSky GTM Strategy & Product Mapping — ELEVATED TO EXECUTIVE ALIGNMENT**
+   - **Dan Initiates Cross-Company Strategic Alignment** — Sep 22, 12:53 PM outbound from Dan to full KrateoSky leadership (Grubel, Avitan, Raziabeegum, Smith, Leonard, Cheney) + Beck, Jack, Maciej, Cory; subject: "Mapping of Opportunities to Development Efforts"
+   - **Inbound Executive Response** — Brian Grubel responds (Sep 23, 12:59 PM, marked important) with additional stakeholder coordination
+   - **Signal:**

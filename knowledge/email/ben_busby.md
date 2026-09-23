@@ -2,6 +2,6 @@
 
 Only 3 emails found in scanned period.
 
-- Mon, 21 Sep 2026 23:48:38 +0000: Maciej sent you a message (from: Slack <notification@slack.com>)
-- Mon, 21 Sep 2026 17:35:57 +0000: Concentra-Checking In + HUB Support Tickets (from: "'Keaton, Brittany' via Administration" <admin@blackswifttech.com>)
-- Mon, 21 Sep 2026 13:28:36 +0000 (GMT): Free Flash Drives - 5% Off SD Cards - And More This Week! (from: "'Everything But Stromboli' via Administration" <admin@blackswifttech.com>)
+- Wed, 23 Sep 2026 02:27:10 -0600: Periodic Report Due for 20111571365 - Black Swift Technologies LLC (from: "'Colorado Department of State' via Administration" <admin@blackswifttech.com>)
+- Wed, 23 Sep 2026 11:07:08 +0000: [Action May be Required] Amazon RDS snapshot storage charges will be reported at per-snapshot granularity starting November 1, 2026 [AWS Account: 520951637877] (from: "'Amazon Web Services' via Administration" <admin@blackswifttech.com>)
+- Tue, 22 Sep 2026 20:12:34 +0000: Your Slack support is transitioning to Salesforce Standard Success Plan on October 27 (from: "'Slack' via Administration" <admin@blackswifttech.com>)

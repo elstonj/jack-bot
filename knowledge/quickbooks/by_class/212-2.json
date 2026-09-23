@@ -4,15 +4,14 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2026-09-22",
+    "end": "2026-09-23"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 82.06,
+    "expenses": 2670.16,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 71.97,
-      "FACILITIES:FA-Shop Supplies": 10.09
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 2670.16
     }
   },
   "invoices": [],
@@ -20,52 +19,19 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-08-03",
-      "doc_number": "0803JELSTON",
-      "total": 277.13,
-      "attributed": 74.07,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 121.15,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Magnetometer supplies"
-        },
-        {
-          "amount": 44.15,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Hurricane IDIQ supplies"
-        },
-        {
-          "amount": 74.07,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "S2 NASA supplies"
-        },
-        {
-          "amount": 37.76,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-03",
+      "date": "2026-09-22",
       "doc_number": "",
-      "total": 7.99,
-      "attributed": 7.99,
+      "total": 2670.16,
+      "attributed": 2670.16,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "",
+      "memo": "J. Fromm confirmed project.",
       "lines": [
         {
-          "amount": 7.99,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "10pcs 6S 7Pins Balance Connector Male Plug Extension Cable"
+          "amount": 2670.16,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S2 Tail set; S2 RH Wing; S2 LH Wing"
         }
       ]
     }

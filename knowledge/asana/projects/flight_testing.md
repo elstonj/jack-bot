@@ -1,4 +1,5 @@
 # Flight Testing
 
-Small project with 1 tasks.
-- [Done] NASA S2 QC flight — Spencer Hoehl
+Small project with 2 tasks.
+- [Open] QC Flight for new Firmware — Spencer Hoehl
+- [Done] ByLight Mustang Flight Test — Ethan Domagala
