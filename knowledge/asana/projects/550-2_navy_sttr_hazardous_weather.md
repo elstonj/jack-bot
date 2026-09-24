@@ -1,13 +1,13 @@
 # [550-2] Navy STTR: Hazardous Weather
 
 ## Overview
-- **Client/Customer**: Department of the Navy (Office of Naval Research); TPOC: Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
+- **Client/Customer**: Department of the Navy, Office of Naval Research; TPOC: Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
 - **Dollar Value**: $146,326 total budget ($138,494 to BST, $66,290 to subcontractors)
 - **Timeline**: 
   - Base Period: July 7, 2025 – January 6, 2026 ✓ **COMPLETED**
   - Option Period: January 7, 2026 – July 6, 2026 ✓ **COMPLETED**
   - Final deliverables due: **September 1, 2026** ✓ **COMPLETED**
-- **Status**: ✓ **COMPLETED** — All final deliverables submitted on schedule (September 1, 2026). No open action items.
+- **Status**: ✓ **COMPLETED** — All final deliverables submitted on schedule (September 1, 2026). No open work items. Asana shows 7 administrative contact records (subcontractor/government POCs), not active tasks.
 - **Team Members**: 
   - **Maciej Stachura** (project owner; primary technical lead)
   - **Alex Lomis** (Pioneer Array Flight testing)
@@ -37,10 +37,16 @@
 | Option Final Invoice (CLIN 1007) | September 1, 2026 | $14,446 | ✓ Completed September 1, 2026 |
 
 ## Task Summary
-- **Total Tasks**: 0 open, all deliverables completed
-- **Asana Note**: Raw data shows 7 open "tasks" in Asana (contact records for Wadler, Park, Zhang, Cosseth), but these are administrative reference records, not work items. All contract deliverables are closed out.
+- **Total Tasks in Asana**: 7 records (all administrative contact/reference records, not work items)
+  - Joshua Wadler (ERAU)
+  - John Park (ODU)
+  - Jun Zhang (U Miami)
+  - Joshua Cosseth (Navy TPOC)
+  - Duplicate records for Wadler, Park, Zhang
+- **Actual Work Status**: 0 open tasks. All contract deliverables completed and closed out.
 
 ## Recent Activity
+- **September 21, 2026**: Team feedback confirmation received from Joshua Fromm (naval contact verification).
 - **September 9, 2026**: ✓ **Pioneer Array Flight testing completed** by Alex Lomis (12 days after original July 28, 2026 due date; work completed as part of final contract deliverables).
 - **September 1, 2026**: ✓ **OPTION CLIN0007 Final Report and CLIN 1007 Invoice ($14,446) submitted on schedule** by Maciej Stachura and Meredith O'hara Needham respectively via WAWF.
 - **June 25, 2026**: ✓ **CLIN 1006 Invoice ($35,000) submitted** via WAWF.
@@ -51,4 +57,5 @@
 - **Invoicing**: All payments processed through Wide Area Workflow (WAWF). Meredith O'hara Needham manages BST invoicing submissions. Final Invoice (CLIN 1007; $14,446) submitted successfully on September 1, 2026.
 - **Subcontractor Coordination**: Jun Zhang (University of Miami) **must be included on all correspondence**, though funds flow through Josh Wadler at ERAU. Pre-award contracting officers: Garrett Filson (ERAU, filsong@erau.edu); Stephanie Haskell (ODU, sl2harri@odu.edu).
 - **Commercial Market Strategy**: Navy TPOC indicated interest in BST's industrial plan for commercial market expansion and non-DOD weather applications; aligned with Phase II strategic planning.
-- **Project Status**: This contract is now complete with all deliverables submitted and invoices paid. No further action required unless Navy initiates Phase II or additional option periods.
+- **Asana Admin Records**: The 7 "open" tasks are contact management records (names, emails, phone numbers, addresses) for subcontractors and government TPOC. These are reference data, not active work items, and should remain in Asana for future correspondence tracking.
+- **Project Status**: Contract execution complete with all deliverables submitted and invoices paid. No further action required unless Navy initiates Phase II or additional option periods.

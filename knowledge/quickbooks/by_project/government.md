@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $5,694,265.00
+- **Total Invoiced (Revenue):** $5,876,265.00
 - **Total Expenses (Bills + Purchases):** $1,817,298.33
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $3,876,966.67 (invoiced minus expenses)
+- **Net Position:** $4,058,966.67 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-10-07
 
 ---
@@ -12,20 +12,20 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $5,694,265.00
-- **Total Collected (Outstanding Balance):** $4,574,556.82 remaining (invoices with open balances)
-- **Number of Invoices:** 102 active invoices
+- **Total Invoiced:** $5,876,265.00
+- **Total Collected (Outstanding Balance):** $4,756,556.82 remaining (invoices with open balances)
+- **Number of Invoices:** 105 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $1,826,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station), Operational Testing & Support |
+| [300-3] 2026 IDIQ | $2,045,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station), Invoices #1741 ($72,000.00, 2026-09-28), #1785 ($58,500.00, 2026-09-16), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $877,098.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00) |
-| [550-2] Navy STTR Hazardous Weather | $280,218.00 | **UPDATED:** Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
-| [300] NOAA | $2,375.00 | **UPDATED:** Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
+| [550-1] Navy SBIR Magnetometer | $891,557.00 | **UPDATED:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
+| [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
+| [300] NOAA | $2,375.00 | Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
@@ -40,19 +40,16 @@
 | **[044-1] EMASS Chip Integration** | **$10,000.00** | **Invoice #1778 (2026-08-28)** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-09-15 to 2026-10-07) — **FINAL UPDATES**
+### Recent Invoices (2026-09-28 to 2026-10-07) — **FINAL UPDATES**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1776** | **2026-10-07** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
-| **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Final)** | **$72,000.00** |
-| **#1785** | **2026-09-16** | **$58,500.00** | **[300-3] 2026 IDIQ** | **Invoice 2 of 3 for CLIN 1001 (Modification P26002)** | **$58,500.00** |
-| **#1786** | **2026-09-21** | **$375.00** | **[300] NOAA** | **Replacement/refurbishment of S0 parts ($125.00); Custom engineering to refurbish broken S0 ($250.00)** | **$375.00** |
+| **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Modification P26002)** | **$72,000.00** |
 
-**Recent invoice total (2026-09-15 to 2026-10-07):** $262,334.00  
-**[300-3] 2026 IDIQ incremental (2026-09-16 to 2026-10-07):** $247,500.00 (Invoices #1785, #1741, #1776)  
-**[550-1] Navy SBIR final:** $14,459.00 (Invoice #1750)  
-**[300] NOAA:** $375.00 (Invoice #1786)
+**Latest invoice total (2026-09-28 to 2026-10-07):** $203,459.00  
+**[300-3] 2026 IDIQ incremental (2026-09-28 to 2026-10-07):** $189,000.00 (Invoices #1741, #1776)  
+**[550-1] Navy SBIR final:** $14,459.00 (Invoice #1750)
 
 ---
 
@@ -163,4 +160,23 @@
 ### **Travel: $8,989.19**
 **Number of transactions:** 21
 
-**
+*(Travel category continues from existing knowledge file — no new travel expenses in current data range)*
+
+---
+
+### **Shipping/Freight: [Existing Data]**
+*(Reviewed in existing knowledge file)*
+
+---
+
+### **Indirect Costs: [Existing Data]**
+*(Reviewed in existing knowledge file)*
+
+---
+
+### **Rent/Facilities: [Existing Data]**
+*(Reviewed in existing knowledge file)*
+
+---
+
+### **Other: [Existing Data]**

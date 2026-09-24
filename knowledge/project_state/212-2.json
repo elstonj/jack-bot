@@ -29,13 +29,13 @@
         "amount": 16693.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-24"
       },
       "purchases": {
         "amount": 48274.38,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-24"
       },
       "other_qbo": {
         "amount": 2670.16,
@@ -49,7 +49,7 @@
     "committed": 545.32,
     "remaining": 21660.39,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-23T15:18:56Z"
+    "last_reconciled": "2026-09-24T09:07:41Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -77,12 +77,6 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-08-24",
-      "text": "From Daniel Prendergast: All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Meredith Needham",
       "date": "2026-09-23",
       "text": "From Meredith Needham (ts=1790085795.525689): 1. Just a reminder that the NASA shipment will be picked up between 9:30-4pm today. Ethan has the paperwork that will be included with the shipment. \n2. The conference room will be occupied from 2-3pm for an interview"
@@ -106,6 +100,6 @@
       "text": "From Ethan: <@U06KRHPQSRH> NASA S2 pallet is 48x120in and 20in tall"
     }
   ],
-  "last_full_rebuild": "2026-09-23T15:18:56Z",
+  "last_full_rebuild": "2026-09-24T09:07:41Z",
   "last_incremental_update": null
 }

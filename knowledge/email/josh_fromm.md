@@ -1,82 +1,90 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: September 23, 2026**
+**UPDATED: September 24, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 1,260 messages** scanned across ~73 days (Jul 12–Sep 23, 2026)
+- **Total: 1,286 messages** scanned across ~74 days (Jul 12–Sep 24, 2026)
 - Average ~17–18 messages/day
-- **Latest data window (Sep 22–23)**: 43 new messages
-- **Pattern observation**: Volume sustained at critical-path levels; shift toward integration coordination (KrateoSky), supplier escalation persistence (BestInParts CNC thread now 28+ RE: layers), and emerging NASA/commercial customer quote management (Stanford/Tanay via Asana); Enterprise rental car activity (4x modifications/confirmations Sep 22) suggests field travel or site surveys
+- **Latest data window (Sep 23–24)**: 26 new messages
+- **Pattern observation**: Volume sustained; shift toward **HR/recruitment activity** (UAS technician interview scheduling), **internal meeting documentation** (Gemini notes from BST Internal Update Meeting), and **logistics/vendor flux**. Travel/field ops continue (Enterprise rental agreement confirmations). Subscription/promotional spam elevated Sep 23 (11x vendor/newsletter messages).
 
 ---
 
 ## Key Correspondents
 
-### Top Senders (Direct to josh.fromm@blackswifttech.com or purchasing@blackswifttech.com)
+### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / Strategic Partners**
-1. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NOAA Federal** — [Previous: Multi-layer N42 AOC materials approval chain]
-2. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal** — [Previous: N42 technical compliance authority]
-3. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **USN NAWCAD** — [Previous: TAK files / SITREP tactical integration]
-4. **Wesley R. Enos** (wesley.r.enos@nasa.gov) — **NASA ARC-QS (Ames Research Center)** — **NEW ACTIVE THREAD**: "Re: [EXTERNAL] Re: BST-NASA S2" (Sep 22, 16:36 UTC, 16:12 UTC); Daniel Prendergast primary BST contact; **signal: S2 program active technical discussion with NASA Ames; competitor/partnership evaluation likely underway**
+1. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **USN NAWCAD** 
+   - **NEW THREAD (Sep 23)**: "Re: Quick Look" (19:03 UTC) — CC'd with Alex Lomis; **bidirectional tactical/technical discussion ongoing**
+   - [Previous: TAK files / SITREP integration]
 
-**Internal Leadership & Critical Path**
-1. **Jack Elston** (elstonj@blackswifttech.com) — CEO — **SUSTAINED VISIBILITY**: 
-   - "Fwd: [Non-DoD Source] Re: S0 COTS WAIVER" (Sep 22 15:57 CDT) — direct to Daniel Prendergast, Maciej Stachura, Josh, Alex Lomis; **S0 platform COTS sourcing exemption gating**
-   - Orchestrating KrateoSky integration meeting (Sep 23, 12:51 UTC via Cory Dixon multi-recipient dispatch)
+2. **Danielle Varwig** (danielle.varwig@noaa.gov) — **NOAA Federal** [Previous: N42 AOC materials approval]
 
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **COMPLIANCE/QUALITY & TASK OWNERSHIP**: 
-   - **NEW: Asana task assignment (Sep 22 16:12 UTC)**: "Quote for Tanay @ Stanford [[001-12] Customer Support]" — **Stanford commercial customer engagement; Beck delegating to Josh for quote preparation**
-   - **Signal**: Expanded commercial sales pipeline visibility in Josh's queue
+3. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal** [Previous: N42 compliance]
 
-3. **Meredith Needham** (meredith.needham@blackswifttech.com) — **LOGISTICS & CUSTOMER SUPPORT**:
-   - **NEW: Asana activity (Sep 22 17:28–17:33 UTC)**: "Quote for Tanay @ Stanford" — 3x attachment & mention notifications; **active collaborative quote build-out with Beck oversight**
+4. **Wesley R. Enos** (wesley.r.enos@nasa.gov) — **NASA ARC** [Previous: S2 program active thread]
 
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NASA/GOVERNMENT RELATIONS (NEW PROMINENCE)**:
-   - "Re: [EXTERNAL] Re: BST-NASA S2" (Sep 22 09:31 CDT, 13:58 CDT) — bidirectional thread with Wesley Enos (NASA); Josh copied on Jack Elston forward; **primary NASA Ames technical interface; S2 platform evaluation in progress**
+**Internal Leadership & Operations**
+1. **Cory Dixon** — **DUAL ROLE (NEW)**:
+   - **Internal BST**: cory.dixon@blackswifttech.com — "Invitation: UAS technician interview: Lucas Fesmire @ Thu Sep 24, 2026 10am - 11am (MDT)" (Sep 23 23:18 UTC) — **Josh invited as interviewer; active HR/recruitment function**
+   - **KrateoSky (Partner)**: cory@krateosky.com — "BST <> KS Integration Meeting Agenda Slides" (Sep 23 12:51 UTC) — 18-person multi-org distribution; **integration planning at executive/strategic level**
 
-5. **Alex Lomis** (alex.lomis@blackswifttech.com) — **MILITARY INTEGRATION** — [Previous: TAK files / SITREP recipient]
+2. **Alex Lomis** (alex.lomis@blackswifttech.com) — **MILITARY INTEGRATION**
+   - "Re: Quick Look" (Sep 23 12:04 UTC) — **forwarding to USN NAWCAD contact Ruiz-Reyes; Josh in response chain**
 
-**Partnership / Supply Chain (CRITICAL PRESSURE SUSTAINED)**
-1. **KrateoSky** — **NEW MAJOR ENGAGEMENT (Sep 22–23)**
-   - **Cory Dixon** (cory@krateosky.com) — Integration meeting organizer
-   - **Sep 23 12:51 UTC**: "BST <> KS Integration Meeting Agenda Slides" — 18-person distribution list (Sona Raziabeegum, Jack Elston, Maciej Stachura, Josh Fromm, Meredith Needham, + KS core team & extended stakeholders)
-   - **Sep 22 19:07 UTC**: "Request for blockers and priorities from KS for BST <> KS Integration meeting" — **indicates active integration planning with priority/constraint assessment**
-   - **Signal**: Significant business development or partnership integration underway; multi-level engagement (CEO, ops, procurement); likely platform interoperability or data integration project
+3. **Jack Elston** (elstonj@blackswifttech.com) — CEO [Previous: S0 COTS waiver, KrateoSky orchestration]
 
-2. **Aeronet** — **PRESSURE PATTERN CONTINUES**
-   - **Adrian Sepulveda** (asepulveda@aeronet.com) — [Previous: 3x Sep 21 same-day/overnight escalations]
-   - Patrick Mulstay (pmulstay@aeronet.com) — Freight coordination [Previous]
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **LOGISTICS & CUSTOMER SUPPORT**
+   - Asana mention notification (Sep 23 17:42 UTC) — **continued collaborative quote/task workflow** [Previous: Stanford Tanay quote]
 
-3. **BestInParts / Samantha** (Samantha@bestinparts.com) — **CNC PARTS ESCALATION PERSISTS**
-   - "RE: RE: RE: ... CNC parts order for Black Swift-BST260728-B16306" (Sep 23 10:23:45 +0800) — **Thread depth now 28+ RE: layers** (vs. 27 Sep 21)
-   - **Signal**: **UNRESOLVED chronic manufacturing bottleneck; thread aging 5+ days with no apparent closure; quality or timeline dispute remains active**
+**Partnership / Integration (CRITICAL PATH)**
+1. **KrateoSky** (cory@krateosky.com via Cory Dixon)
+   - **Sep 23 12:51 UTC**: "BST <> KS Integration Meeting Agenda Slides"
+   - **Distribution**: 18 recipients (6x KS core, 3x BST core [Jack, Maciej, Josh, Meredith], 9x KS extended staff)
+   - **Signal**: **High-stakes partnership integration meeting; agenda/slides distribution indicates imminent formal discussion or kickoff**
+   - [Previous: Blockers/priorities assessment Sep 22]
 
-**Task Management & Workflow**
-- **Asana** (no-reply@asana.com) — **5x notifications (Sep 22)**:
-  - Beck Cotter task assignment: "Quote for Tanay @ Stanford" (Sep 22 16:12 UTC)
-  - Meredith O'hara Needham x2 attachments (Sep 22 17:28 & 17:33 UTC)
-  - Meredith mention on same task (Sep 22 17:33 UTC)
-  - Unread notifications alert (Sep 22 18:01 UTC, 20:27 UTC)
-  - **Signal**: High-velocity commercial customer quote workflow; Beck/Meredith active collaboration
+2. **Czero Solutions** (Guy Babbitt, guy.babbitt@czero-solutions.com)
+   - "Czero, Colorado Cleantech & Warehouse Innovation Happy Hour at The Forge" (Sep 23 14:31 UTC)
+   - **Signal**: **Regional cleantech/logistics ecosystem engagement; possibly facility/warehouse operations networking**
 
-**Vendor Notifications & Logistics (Facility Buildout Ongoing)**
-- **DigiKey** — **3x orders (Sep 22)**: 
-  - Shipped for invoices 133181898, 133177411
-  - PO Acknowledgement for Salesorder #101782555, #101780405
-  - "Thank you for your order" x2 (Sep 22 14:07, 12:57 CDT)
-  - **Signal**: Continued high-volume component procurement; 4+ simultaneous orders suggest assembly/integration active
+**Vendors & Supply Chain (Logistics Elevated)**
+- **Enterprise Rent-A-Car** — "Rental Agreement 52JDZS" (Sep 23 16:43 UTC) — **ACTIVE field ops/travel**
+- **UPS** — "Your Package Arrives Tomorrow" (Sep 23 14:06 EDT) — **continued inbound inventory**
+- **USPS Informed Delivery** — "Your Daily Digest for Wed, 9/23" (Sep 23 12:27 UTC) — **mail monitoring active**
+- **HeliDirect** (sales@helidirect.com) — "Pulse Heli Flight Packs" (Sep 23 13:27 UTC) — **helicopter/rotorcraft components**
+- **Battery Junction** — "Energizer Lithium AAs & AAAs" (Sep 23 16:07 UTC) — **consumable power supplies**
+- **ELEGOO US** — "Fall Into ELEGOO DAY" (Sep 23 15:04 UTC) — **electronics/maker components**
+- **Grainger** — "Electric Motors" (Sep 23 14:56 UTC) — **industrial motor/mechanical systems**
+- **Amazon Subscribe & Save** — Delivery review (Sep 23 21:22 UTC) — **subscription-based consumables**
+- **PayPal via Purchasing**: QuSpin Inc. $288.75 USD (Sep 23 16:08 EDT) — **vendor payment; new vendor signal: QuSpin (likely quantum/precision component supplier)**
 
-- **Amazon via Purchasing** — Delivered: 1 Furniture item (Sep 22 18:13 UTC); **office/facility expansion ongoing**
+**Task Management & Meeting Workflow**
+- **Fireflies.ai** (fred@fireflies.ai) — "Notification: recording Black Swift Weekly Integration Review" (Sep 23 14:56 UTC) — **RECURRING INTERNAL MEETING: "Weekly Integration Review" now recorded/documented**
+- **Gemini (Google Notes)** — "Notes: 'BST Internal Update Meeting' Sep 23, 2026" (Sep 23 19:52 UTC) — **meeting minutes/documentation auto-sent to Josh**
 
-- **UPS via Purchasing** — "Your Packages Arrive Tomorrow" (Sep 22 18:25 EDT); **continued inbound logistics pressure**
+**Industry / Networking (Elevated Sep 23)**
+- **UAS VISION** (russ@uasvision.com) — "DAILY NEWS" (Sep 23 09:07 UTC) — **industry newsletter subscription**
+- **AOGS Secretariat** (info@asiaoceania.org) — "AOGS2027 E-News 4: Session Proposals Close 3 October" — **Asia-Oceania Geosciences Society conference/academic networking**
+- **AMS Annual Meeting** (annualupdates@ametsoc.org) — "AMS Annual Meeting Forecast: Presidential Forum" (Sep 23 16:25 UTC) — **American Meteorological Society engagement**
+- **Honeywell Industrial Automation** — "Join Honeywell Technologies at SEMICON West 2026 | Booth #2458" (Sep 23 08:53 CDT) — **trade show/vendor partnership visibility**
+- **Tyto Robotics** (Lauren Nagel, l.nagel@tytorobotics.com) — "2026 Drone Developer Industry Study" (Sep 23 13:10 EDT) — **competitive intelligence/market research sharing**
 
-- **Pirate Ship via Purchasing** — Shipping label $84.48 (Sep 22 17:33 UTC); **outbound logistics**
+**Promotions & Sponsorships**
+- **Hilton Honors** — "Up to 3,000 Bonus Points" (Sep 24 08:08 UTC) — **travel/lodging loyalty active**
+- **AliExpress** — "Free welcome gift" (Sep 24 03:50 UTC) — **supplier/components exploration**
 
-- **ProtoSpace Mfg** (marketingemail@protocase.com & via Purchasing) — Free webinar on enclosure design (Sep 22 18:13 UTC); **possible mechanical/housing design activity**
+**System Alerts & Administrative**
+- **Purchasing account past due invoices** (Sep 24 07:04 UTC) — **FLAGGED: payment/cash flow issue or vendor payment cycle lag**
 
-- **PHASE1 AVIATION LLC via Purchasing** — Invoice 1122 (Sep 22 15:54 UTC); QuickBooks payment confirmation (Sep 22 18:57 UTC); **aircraft/aviation services vendor**
+---
 
-- **Enterprise Rent-A-Car** — **ACTIVITY SPIKE**: 4x confirmations & modifications (Sep 22
+## Topic Patterns
+
+### Recurring Themes
+1. **Integration & Partnership Coordination**
+   - KrateoSky platform/data integration (multi-day, escalating to CEO/ops level)
+   - Military/tactical integration (USN NAWCAD

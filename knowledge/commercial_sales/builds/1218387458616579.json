@@ -1,0 +1,43 @@
+{
+  "asana_gid": "1218387458616579",
+  "asana_task_name": "USSOCOM Pope 2",
+  "customer": "USSOCOM",
+  "customer_contact": "Terry Brandon - contracting officer",
+  "customer_email": "brandon.m.terry.mil@socom.mil",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "USSOCOM Pope 2 \u2014 quote sent for $948,993. Contract funded as of 2026-09-11. Beck discussing delivery schedule; contract requires 60-day delivery from contracting.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "items",
+    "invoice_number",
+    "invoice_date",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-09-11",
+  "last_contact_date": "2026-09-15"
+}

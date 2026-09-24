@@ -113,10 +113,10 @@
 - **Service Accounts & Emergency Access:** 5
 
 **Data Integrity Notes:**
-- ✅ **VERIFIED:** All 16 active employees present and confirmed in new data
+- ✅ **VERIFIED:** All 16 active employees present and consistent with previous snapshot
 - ✅ **VERIFIED:** All 5 service accounts confirmed in new data
 - ✅ **CONSISTENT:** Phone numbers standardized across all entries (all now in XXX-XXX-XXXX format)
-- ✅ **NO ROSTER CHANGES:** Complete alignment between previous snapshot and current data
+- ✅ **NO ROSTER CHANGES:** Complete alignment between previous snapshot and new data
 - Five team members remain unclassified — recommend clarification of roles and departments
 
 **Observations:**
@@ -124,3 +124,4 @@
 - Manufacturing capability: Joshua Waldman (Manufacturing Production Engineer) supports production operations
 - Active intern program maintained with 2 positions filled
 - Service account infrastructure stable at 5 accounts
+- Directory data remains stable and consistent across snapshots

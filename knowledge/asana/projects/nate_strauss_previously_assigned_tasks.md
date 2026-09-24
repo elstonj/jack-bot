@@ -11,6 +11,7 @@
   - Component orders clustered July–August 2026; Assembly and QC Flight due 2026-08-21 and 2026-09-01 respectively remain unassigned.
   - **All 59 tasks remain unassigned** — No single owner has taken responsibility for sequencing or driving completion.
   - Multiple tasks lack due dates (servo installation, wiring, linkage construction), creating scheduling ambiguity on build path.
+  - **Confidentiality concern flagged:** Joshua Fromm questioned visibility of sensitive email correspondence in task notes [2026-08-25].
 
 ## Key Deliverables & Milestones
 
@@ -40,11 +41,11 @@
 **1. Component Orders & Procurement (~49 tasks)**
 - **Status:** All "Order Received" (awaiting fulfillment or internal routing)
 - **Key Requesters:**
-  - Joshua Fromm: 33 orders (majority)
-  - Alex: 11 orders
-  - Spencer: 2 orders
-  - Ethan: 1 order
-  - Dan Prendergast: 1 order
+  - Joshua Fromm: 33 orders (68%)
+  - Alex: 11 orders (22%)
+  - Spencer: 2 orders (4%)
+  - Ethan: 1 order (2%)
+  - Dan Prendergast: 1 order (2%)
 - **Due Date Window:** 2026-07-11 through 2026-09-06
 - **Projects impacted:** 
   - [300-3] 2026 IDIQ (Hurricane) — 9 orders
@@ -55,6 +56,7 @@
   - [550-1] Navy SBIR: Magnetometer — 2 orders
   - [001-3] IRAD S0 — 1 order
   - [001-7] IRAD S3 — 1 order
+  - [001-12] Customer Support — 1 order
   - General Sales (No Specific Project) — 6 orders
   - MULTIPLE PROJECT (billing breakdown needed) — 4 orders
 
@@ -65,10 +67,13 @@
 **3. Maintenance (1 task)**
 - Trims (S10019) — aircraft maintenance; no due date
 
+**4. Repairs (1 task)**
+- Repair power issue — Due 2026-09-30 | Unassigned
+
 ### Notable Patterns
-- **Heavy procurement load on Joshua Fromm (56%)** — Requesting 33 of 49 purchase orders across multiple projects; suggests he may need support or delegation.
+- **Heavy procurement load on Joshua Fromm (68%)** — Requesting 33 of 49 purchase orders across multiple projects; suggests he may need support or delegation.
 - **Alex represents 22% of procurement** — Primary requester for Swiftstation, S0 VTOL, and Hurricane orders.
-- **Cross-project procurement:** Orders span 8+ BST initiatives (Hurricane IDIQ, S0/S3 variants, Swiftstation, NASA S2, Navy SBIR, INSTAAR S3, General Sales).
+- **Cross-project procurement:** Orders span 8+ BST initiatives (Hurricane IDIQ, S0/S3 variants, Swiftstation, NASA S2, Navy SBIR, INSTAAR S3, General Sales, Customer Support).
 - **Multi-project orders flagged for breakdown:** 4 orders (Jawstec #SF311738, Digikey #100222302, Pololu #1J593583, Jawstec #70415) require project billing clarification.
 - **Tax-exempt status is mixed:** Most orders are tax-exempt (YES); some smaller vendors (SendCutSend, Amazon, Mouser, FTDI, Digikey, 3DR, Dronetag Mini, eBay GetFPV, McMaster) are taxable.
 - **Custom field standardization:** Purchase requisition template is consistently used (vendor, requester, order placement date, project billing, tax exempt status, order status).
@@ -84,8 +89,8 @@
 - **Procurement bottleneck:** 49 component orders in "Order Received" status with staggered delivery windows July–September. No indication of fulfillment, receiving, or dispatch tracking.
 - **Assembly and QC at risk:** Assembly (due 2026-08-21) and QC Flight (due 2026-09-01) depend on completion of unstarted build tasks and on-time component delivery.
 
-### Team Feedback — Potential Data Integrity Concern
-**[2026-08-25] Joshua Fromm flagged a privacy/visibility concern:** "how did you know about the email from munro in my tasks?" — Suggests task notes may contain sensitive correspondence or that visibility rules may have been breached. **Action:** Verify that any AI review of task notes respects confidentiality and does not expose private communications.
+### Confidentiality Concern
+**[2026-08-25] Joshua Fromm flagged visibility concern:** "how did you know about the email from munro in my tasks?" — Suggests task notes may contain sensitive correspondence or that visibility rules may have been breached. **Action:** Verify that any AI review of task notes respects confidentiality and does not expose private communications. Task notes may contain proprietary or sensitive business correspondence that should not be shared externally.
 
 ## Notes & Context
 
@@ -97,7 +102,4 @@
    - 4 core tasks lack due dates entirely, making it impossible to sequence the build pipeline.
    - Assembly and QC Flight (late August–early September) cannot proceed without these build tasks and component delivery.
 
-3. **Procurement Pipeline at Risk:**
-   - 49 orders in "Order Received" status; unclear whether components have arrived, are in receiving, or are awaiting fulfillment.
-   - Orders span July–September with no active tracking or expediting responsibility assigned.
-   - 4 orders require multi-project billing clarification (Jawstec #SF311738, Digikey #100222302, Pololu #1J593583, Jawstec #70415
+3. **

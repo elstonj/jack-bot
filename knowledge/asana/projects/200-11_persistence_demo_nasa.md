@@ -39,7 +39,7 @@
 | **Meredith O'hara Needham** | Contract administration, invoicing, certifications (all 4 payments processed) |
 | **Maciej Stachura** | Demo operations, payload app development, dress rehearsal coordination |
 | **Dan Prendergast** | Flight operations, NightFOX testing, final project closeout |
-| **Ethan Domagala** | S2 payload development (Remote ID detector), flight testing |
+| **Ethan Domagala** | S2 payload development (Remote ID detector), flight testing, logistics coordination |
 | **Sam Hild** | Remote ID detector hardware build |
 | **Ben Busby** | TAK (Team Awareness Kit) data downlink system |
 
@@ -62,7 +62,7 @@
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
 
-**Recent Logistical Updates (September 2026):**
+**Recent Equipment Logistics (September 2026):**
 - **09/23/26:** NASA S2 pallet shipment picked up between 9:30am–4pm. Ethan Domagala held pickup paperwork. (Meredith Needham)
 - **09/21/26:** NASA S2 pallet dimensions confirmed: 48" × 120" × 20" tall (Ethan Domagala)
 
@@ -98,7 +98,7 @@
 - **Ethan Domagala:** S2 payload build and logistics coordination
 
 ### Operational Reference Data
-**NASA Glenn Icing Research Tunnel Rate (Per Dan Prendergast, 08/24–08/25/26):** One day of testing costs **$55k–$60k**. Useful reference for future similar NASA facility work.
+**NASA Glenn Icing Research Tunnel Rate (Dan Prendergast, 08/25/26):** One day of testing costs **$55k–$60k**. Useful reference for future similar NASA facility work.
 
 ---
 

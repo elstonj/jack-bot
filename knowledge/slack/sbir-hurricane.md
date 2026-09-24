@@ -21,6 +21,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Dual USB-A ports on front panel instead of USB-C for GCS (May 2022)
 - Motor controller switched to Vertiq propulsion system (serial numbers approximately 37-42 onward in 2024 batch; earlier units used different system) (August 2026)
 - **Pitch-to-Power Controller Adjustment:** Modified no_ias_a parameter from -2.8 to -2.4989 to address throttle performance issues caused by voltage drop over longer flights; parameter change applied to QC site for all existing S0s (August 6-7, 2026)
+- **6S Battery Configuration & ESC/Motor Selection:** Evaluation underway for ESC + motor combo suitable for new 6S setup; Alex Lomis leading research into options; Jack Elston noted initial components on hand were unsuitable but expects multiple viable alternatives exist; testing commitment required but not anticipated as difficult redesign effort (September 23, 2026). **RPM Feedback Requirement:** Maciej specified that selected ESC/motor combo must have RPM feedback capability for band pass filter integration with magnetometer; Joshua Fromm confirmed requirements will be established upfront to avoid missing critical specifications (September 23, 2026)
 
 **Manufacturing & Components:**
 - 50/50 cost split between Air Force and Hurricane for KMac tubes (June 2020)
@@ -31,7 +32,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
 - Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft; characterized by ability/inability to accept higher power charging (July 8, 2026)
 - Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
-- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026, with single motor delivered September 3-4, 2026 and batch in QC/performance testing by September 8, 2026; Joshua Fromm awaiting update on Vertiq delivery status as of mid-September (September 17-18, 2026); Joshua Fromm continuing to pursue further Vertiq updates (September 22, 2026)
+- **Vertiq Motor Integration:** Motor controller switched from previous system to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026, with single motor delivered September 3-4, 2026 and batch in QC/performance testing by September 8, 2026; Joshua Fromm awaited update on Vertiq delivery status as of mid-September (September 17-18, 2026); Joshua Fromm continuing to pursue further Vertiq updates (September 22, 2026)
 - **Grey vs. Red Parachute Caps:** Grey parachute caps identified as superior design for clean chute deployment vs. red caps; grey caps should be used for video tube aircraft (September 19, 2026)
 
 **Deployment Tube Components:**
@@ -57,10 +58,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
 - **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
 - **Microhard Radio Configuration:** Implemented ATS108=30 setting to improve radio stability at 115200 baud rate (August 15, 2026)
-- **GCS Channel A/B Port Configuration:** Tablet for channel A uses port 55555, B uses 55556 (August 20, 2026)
-
-**Humidity Sensor Configuration (April-September 2026):**
-- Vaisala RSS421 heating mode confirmed as critical for accurate readings (April 2026)
-- New PSNS firmware with corrected humidity reference validation implemented (April 8, 2026)
-- Battery tracking logging enabled on all PSNS boards for sleep mode diagnostics (April 8, 2026)
-- Sensor boom compatibility identified as critical - older booms incompatible with newer sensors (April
+- **GCS Channel A/

@@ -1,400 +1,55 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "[300] NOAA",
-    "[925-03] New Office Space Leasing"
+    "[925-02] Legal and Consulting"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-23",
+    "end": "2026-09-24"
   },
   "totals": {
-    "revenue": 375.0,
-    "expenses": 24556.56,
+    "revenue": 0.0,
+    "expenses": 49772.5,
     "by_category": {
-      "FACILITIES:FA-Office Supplies": 8223.74,
-      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 4850.0,
-      "FACILITIES:FA-Shop Supplies": 4466.36,
-      "Other Miscellaneous Income": 3401.99,
-      "Inventory Asset": 1500.0,
-      "DIRECT COSTS:DC-Direct Material Purchases": 1016.37,
-      "FRINGE:FR-Worker's Comp": 650.0,
-      "FACILITIES:FA-Software Expenses": 311.1,
-      "Indirect Cost:Software Expenses": 55.0,
-      "Indirect Cost:Dues & Subscriptions": 55.0,
-      "OVERHEAD:OH-Other Travel Expenses": 27.0
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 49772.5
     }
   },
-  "invoices": [
-    {
-      "type": "Invoice",
-      "date": "2026-09-21",
-      "doc_number": "1786",
-      "total": 375.0,
-      "attributed": 375.0,
-      "vendor": "",
-      "customer": "[300] NOAA",
-      "balance": 375.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 125.0,
-          "account": "",
-          "description": "Replacement/refurbishment of S0 parts"
-        },
-        {
-          "amount": 250.0,
-          "account": "",
-          "description": "Custom engineering to refurbish broken S0"
-        },
-        {
-          "amount": 375.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-09-17",
-      "doc_number": "3540",
-      "total": 1500.0,
-      "attributed": 1500.0,
-      "vendor": "QuSpin, Inc.",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1500.0,
-          "account": "Inventory Asset",
-          "description": "Vector Add on"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-09-17",
-      "doc_number": "2011887",
-      "total": 4850.0,
-      "attributed": 4850.0,
-      "vendor": "KCO Inc",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "BST 2025 tax filing",
-      "lines": [
-        {
-          "amount": 4850.0,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Accounting Fees",
-          "description": "Preparation of 2025 partnership tax returns"
-        }
-      ]
-    }
-  ],
+  "invoices": [],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-18",
-      "doc_number": "",
-      "total": 196.0,
-      "attributed": 196.0,
+      "date": "2026-09-23",
+      "doc_number": "8414",
+      "total": 20102.5,
+      "attributed": 20102.5,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "FLUX ORG - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 196.0,
-          "account": "FACILITIES:FA-Software Expenses",
-          "description": "FLUX ORG - 4617"
+          "amount": 20102.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Recruiting for BST positions (July 1 - July 31, 2026)"
         }
       ]
     },
     {
       "type": "Purchase",
-      "date": "2026-09-18",
-      "doc_number": "",
-      "total": 24.0,
-      "attributed": 24.0,
+      "date": "2026-09-23",
+      "doc_number": "8505",
+      "total": 29670.0,
+      "attributed": 29670.0,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "DRIFTAWAY.COFFEE - 4617",
+      "memo": "",
       "lines": [
         {
-          "amount": 24.0,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "DRIFTAWAY.COFFEE - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-18",
-      "doc_number": "00052914",
-      "total": 4449.42,
-      "attributed": 2878.22,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - see Slack message and email chain",
-      "lines": [
-        {
-          "amount": 1571.2,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Case, 3R6223-10B-EW x 2"
-        },
-        {
-          "amount": 2878.22,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "BLTCAS S3 CASE FOAM ASSEMBLY x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-18",
-      "doc_number": "",
-      "total": 881.52,
-      "attributed": 881.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Verbal request by J. Fromm for organizing new space",
-      "lines": [
-        {
-          "amount": 881.52,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "5-Tier Steel Garage Storage Shelving Unit in Black x 6"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-17",
-      "doc_number": "",
-      "total": 5543.7,
-      "attributed": 5543.7,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Ordered directly by J. Elston for new space",
-      "lines": [
-        {
-          "amount": 2395.0,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Office Chairs x 10 (new space)"
-        },
-        {
-          "amount": 2395.0,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Office Chairs x 10 (original office)"
-        },
-        {
-          "amount": 753.7,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "3 drawer storage x 10 (new space)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-17",
-      "doc_number": "",
-      "total": 55.0,
-      "attributed": 55.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Starlink - 4617",
-      "lines": [
-        {
-          "amount": 55.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "Starlink - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-17",
-      "doc_number": "",
-      "total": 55.0,
-      "attributed": 55.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BOULDER AEROMODE TYPE BILLPAY  I BOULDER AEROMODE TYPE BILLPAY  ID XXXXXX1058 CO BOULDER AEROMODE",
-      "lines": [
-        {
-          "amount": 55.0,
-          "account": "Indirect Cost:Dues & Subscriptions",
-          "description": "Membership payment for Spencer Hoehl"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-17",
-      "doc_number": "",
-      "total": 650.0,
-      "attributed": 650.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH Pinnacol Assuran Payment    202609 4317172         Black Swift Technologi",
-      "lines": [
-        {
-          "amount": 650.0,
-          "account": "FRINGE:FR-Worker's Comp",
-          "description": "BUSINESS TO BUSINESS ACH Pinnacol Assuran Payment    202609 4317172         Black Swift Technologi"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 71.17,
-      "attributed": 71.17,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Supplies for new space\n\nNo Asana request. Purchase made by M. Needham",
-      "lines": [
-        {
-          "amount": 71.17,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "bathroom supplies for new space"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 64.99,
-      "attributed": 64.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana Request. Direct purchase by M. Needham",
-      "lines": [
-        {
-          "amount": 64.99,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Paper towel roll"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 163.99,
-      "attributed": 163.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm made purchase. Project listed under items purchased.",
-      "lines": [
-        {
-          "amount": 163.99,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Structural Adhesive, Epoxy, Loctite 9460, 1.69 FL.  oz. Cartridge"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 27.0,
-      "attributed": 27.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "NAYAX PARKING - 4617",
-      "lines": [
-        {
-          "amount": 27.0,
-          "account": "OVERHEAD:OH-Other Travel Expenses",
-          "description": "parking"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 115.1,
-      "attributed": 115.1,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Google ADSXXXXXX1291 - 7333",
-      "lines": [
-        {
-          "amount": 115.1,
-          "account": "FACILITIES:FA-Software Expenses",
-          "description": "Google ADSXXXXXX1291 - 7333"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-16",
-      "doc_number": "",
-      "total": 3401.99,
-      "attributed": 3401.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "CREDIT-CASH BACK REWARD - 4617",
-      "lines": [
-        {
-          "amount": 3401.99,
-          "account": "Other Miscellaneous Income",
-          "description": "CREDIT-CASH BACK REWARD - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 2519.88,
-      "attributed": 2519.88,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Purchase made by J. Elston. For new office space",
-      "lines": [
-        {
-          "amount": 2519.88,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Standing Desks x 12"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 1559.0,
-      "attributed": 1559.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Purchase made directly by J. Elston. For new office/shop space",
-      "lines": [
-        {
-          "amount": 1559.0,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Usosidam Folding Conference Room Tables Modular"
+          "amount": 29670.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Recruiting for BST positions (Aug. 1 - Aug. 31, 2026)"
         }
       ]
     }
