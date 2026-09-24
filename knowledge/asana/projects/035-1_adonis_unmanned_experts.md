@@ -68,7 +68,7 @@
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
 
-**External Reference Note (2026-09-09):** Daniel Prendergast shared reference link for Taisync ViuTracker G1 (https://www.taisync.com/modules) — context unclear; likely related to UMEX's post-project commercialization efforts, not BST responsibility.
+**External Reference (2026-09-09):** Daniel Prendergast shared reference link for Taisync ViuTracker G1 (https://www.taisync.com/modules) — context unclear; likely related to UMEX's post-project commercialization efforts, not BST responsibility.
 
 ---
 
@@ -76,6 +76,4 @@
 
 **Project is ARCHIVED and fully closed as of April 10, 2026.**
 
-**Per Jack Elston (2026-04-20) and Daniel Prendergast (2026-04-20):**
-
-> "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. **
+**Do NOT list ADONIS tasks as priorities or include in briefings. All deliverables complete. No open BST work.**

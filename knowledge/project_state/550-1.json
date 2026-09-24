@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 88723.75,
+        "amount": 89232.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-24"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-24"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-24"
       },
-      "total": 91782.96,
+      "total": 92291.71,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 150757.04,
+    "remaining": 150248.29,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-23T15:19:56Z"
+    "last_reconciled": "2026-09-24T09:08:44Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,6 +92,6 @@
       "text": "From Joshua Fromm: That's me, navy mag"
     }
   ],
-  "last_full_rebuild": "2026-09-23T15:19:56Z",
+  "last_full_rebuild": "2026-09-24T09:08:44Z",
   "last_incremental_update": null
 }

@@ -1,44 +1,44 @@
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 512.9 hours (cumulative across all batches)
+- **Total hours tracked:** 520.5 hours (cumulative across all batches)
 - **Primary projects (top 5):**
-  1. [001-08] Flight Testing — 201.5 hours
+  1. [001-08] Flight Testing — 205.0 hours
   2. [300-3] 2026 IDIQ (Hurricane) — 83.8 hours
-  3. [001-13] General Operations / BD Pipeline — 42.8 hours
+  3. [001-13] General Operations / BD Pipeline — 44.1 hours
   4. [001-23] SOCOM (CRADA) S0-AD — 37.2 hours
   5. [001-04] S0 VTOL IRAD — 23.6 hours
-- **Time period covered:** Multiple tracking batches (current batch: 7.4 hours)
+- **Time period covered:** Multiple tracking batches (current batch: 7.6 hours)
 
 ## Project Breakdown
 - **[001-08] Flight Testing** (Client: Internal)
-  - Hours: 201.5
-  - Percentage: 39.3%
-  - Change: +6.1h in current batch (resumed activity; largest session: 4.0h)
+  - Hours: 205.0
+  - Percentage: 39.4%
+  - Change: +3.4h in current batch (sustained momentum; entries: 0.7h, 2.7h)
 
 - **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
   - Hours: 83.8
-  - Percentage: 16.3%
+  - Percentage: 16.1%
   - Change: No new entries in current batch
 
 - **[001-13] General Operations / BD Pipeline** (Client: Overhead)
-  - Hours: 42.8
-  - Percentage: 8.3%
-  - Change: No new entries in current batch
+  - Hours: 44.1
+  - Percentage: 8.5%
+  - Change: +1.3h in current batch (single entry; first activity in two batches)
 
 - **[001-23] SOCOM (CRADA) S0-AD** (Client: SOCOM/CRADA)
   - Hours: 37.2
-  - Percentage: 7.2%
+  - Percentage: 7.1%
   - Change: No new entries in current batch
 
 - **[001-04] S0 VTOL IRAD** (Client: IRAD)
   - Hours: 23.6
-  - Percentage: 4.6%
+  - Percentage: 4.5%
   - Change: No new entries in current batch
 
 - **[001-07] S3 IRAD** (Client: IRAD)
   - Hours: 22.9
-  - Percentage: 4.5%
+  - Percentage: 4.4%
   - Change: No new entries in current batch
 
 - **[001-14] SwiftCore 3.3** (Client: IRAD)
@@ -52,9 +52,9 @@
   - Change: No new entries in current batch
 
 - **[043-3] ByLight M2/Halo** (Client: External/[043])
-  - Hours: 8.2
-  - Percentage: 1.6%
-  - Change: No new entries in current batch
+  - Hours: 10.3
+  - Percentage: 2.0%
+  - Change: +2.1h in current batch (first activity since initial batch; resurgence after hiatus)
 
 - **Flight Checklists** (Client: Internal/Operations)
   - Hours: 14.1
@@ -67,9 +67,9 @@
   - Change: No new entries in current batch
 
 - **[350-4] 2024 USGS - Chile (Mexico)** (Client: USGS)
-  - Hours: 3.7
-  - Percentage: 0.7%
-  - Change: +1.3h in current batch (continued growth; now three consecutive batches)
+  - Hours: 4.5
+  - Percentage: 0.9%
+  - Change: +0.8h in current batch (fourth consecutive batch; sustained engagement)
 
 - **[012-2] ERAU VTOL S0** (Client: Embry-Riddle Aeronautical University)
   - Hours: 1.7
@@ -87,33 +87,28 @@
   - Change: No new entries
 
 ## Recent Activity
-- **Current batch (7.4 hours):** Flight Testing returned as primary focus, with 82.4% of tracked time. USGS Chile work continues at lower volume.
+- **Current batch (7.6 hours):** Flight Testing remains dominant focus (44.7%), with overhead work resuming and external project reactivating.
 
 - **Project distribution this batch:**
-  - 6.1h (82.4%) → [001-08] Flight Testing [3 entries: 1.4h, 0.6h, 4.0h]
-  - 1.3h (17.6%) → [350-4] 2024 USGS - Chile (Mexico) [1 entry: 1.3h]
+  - 3.4h (44.7%) → [001-08] Flight Testing [2 entries: 0.7h, 2.7h]
+  - 2.1h (27.6%) → [043-3] ByLight M2/Halo [1 entry: 2.1h]
+  - 1.3h (17.1%) → [001-13] General Operations [1 entry: 1.3h]
+  - 0.8h (10.5%) → [350-4] 2024 USGS - Chile (Mexico) [1 entry: 0.8h]
 
 - **Notable patterns:**
-  - **Flight Testing resumed:** After pause in previous batch, returned with 6.1h tracking (82.4% of current activity)
-  - **Session variance:** Entries range from 0.6h to 4.0h; longest session suggests intensive work block
-  - **USGS Chile persistence:** Third consecutive batch with engagement; now 3.7h cumulative
-  - **Continued zero documentation:** All 4 entries lack description/task details
+  - **Flight Testing sustained:** Consistent tracking with varied session lengths (0.7h, 2.7h); maintains position as primary allocation
+  - **ByLight resurgence:** Project reactivated after dormancy; 2.1h single session suggests focused work block or recovery of inactive engagement
+  - **Overhead work re-engaged:** First appearance in two batches; single 1.3h session
+  - **USGS Chile persistence:** Fourth consecutive batch with engagement; cumulative now 4.5h (steady, lower-volume allocation)
+  - **Continued zero documentation:** All 5 entries lack description/task details
 
 ## Patterns
 
-- **Flight Testing resurgence:**
-  - Cumulative: 201.5h (39.3% of total)
-  - Growth trajectory: 195.4h → 201.5h (+6.1h this batch)
-  - Previous batch was silent; current batch restores dominant project focus
-  - Volatility suggests cyclical work pattern or event-driven scheduling (likely tied to flight test events/windows)
+- **Flight Testing dominance (sustained):**
+  - Cumulative: 205.0h (39.4% of total)
+  - Trajectory: 201.5h → 205.0h (+3.4h this batch)
+  - Consistent presence across batches with cyclical intensity variations
+  - Two-entry pattern suggests multiple work sessions per tracking period
+  - Likely tied to flight test event scheduling or campaign phases
 
-- **USGS Chile project consolidation:**
-  - Cumulative: 3.7h (0.7% of total)
-  - Trajectory: Emerged 2+ batches ago; sustained engagement across three consecutive periods
-  - Current batch maintains consistent allocation (1.3h)
-  - Pattern suggests established, ongoing client work becoming regular allocation
-  - Sessions remain relatively short; appears to be maintenance or coordination work rather than intensive engineering
-
-- **BD Pipeline plateau:**
-  - Cumulative: 42.8h (8.3% of total)
-  - No new entries this batch; appears to have stabilized
+- **

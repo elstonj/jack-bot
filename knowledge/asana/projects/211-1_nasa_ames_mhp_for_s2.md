@@ -17,7 +17,7 @@
 
 **Shipping address**: NASA Ames Research Center, M/S 255-3, P.O. Box 1, Moffett Field, CA 94035-1000, ATTN: Richard Kolyer
 
-**Pallet specifications** (per Ethan, Sept 18, 2026): 48×120 inches, 20 inches tall
+**Pallet specifications** (per Ethan, Sept 18 & 21, 2026): 48×120 inches, 20 inches tall
 
 ## Task Summary
 - **Total tasks**: 0 open, 15+ completed (100% completion rate)
@@ -32,12 +32,12 @@
 ## Recent Activity
 Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **January 4, 2025**: Engineering review of launcher drawings uncovered items requiring modification (handled by CU partner Kevin)
-- **January 15, 2025**: R. Kolyer requested aircraft return after probe installation and requested short technical write-up of hardware & software work for NASA airworthiness review presentation
+- **January 15, 2025**: R. Kolyer requested aircraft return after probe installation and short technical write-up of hardware & software work for NASA airworthiness review presentation
 - **January 22, 2025**: Launcher delivered to CU partner (Kevin); awaiting return coordination
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
 - **March 20–21, 2025**: Aircraft packed for shipment
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
-- **September 2026 (post-project)**: NASA shipment pickup coordination (Sept 18–23, 2026) — pallet dimensions confirmed 48×120 inches, 20 inches tall; Ethan coordinated paperwork for pickup between 9:30am–4pm on Sept 22–23, 2026
+- **September 2026 (post-project)**: NASA shipment pickup coordination (Sept 18–23, 2026) — pallet dimensions confirmed 48×120 inches, 20 inches tall (Ethan, Sept 18 & 21); Meredith coordinated paperwork for pickup between 9:30am–4pm on Sept 22–23, 2026 with Ethan holding pickup documentation
 
 ## Notes & Context
 - **Scope expansion**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025

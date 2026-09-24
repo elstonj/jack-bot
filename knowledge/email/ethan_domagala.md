@@ -1,114 +1,107 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 117 emails (104 previous + 13 new)
+- **Total messages scanned:** 138 emails (117 previous + 21 new)
 - **Date range:** 27 Aug 2026 – 23 Sep 2026 (27 days)
-- **Approximate volume:** ~4.3 emails/day; consistent task notification and system alert volume with new travel and government coordination activity
+- **Approximate volume:** ~5.1 emails/day; sustained high volume with new component procurement coordination thread dominating Sep 23
 
 ## Key Correspondents
 
 ### Top Internal Senders
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight test planning, task assignments (Joystick mode trim fix), meeting coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — M2 HALO Flight coordination, test flight planning (Chili Test Flight), government program touchpoints
-- **Asana** (no-reply@asana.com) — Daily task notifications and assignment alerts (~1 per weekday); 7 tasks due Sep 22 (new)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Project task assignments (S3 IRAD, retract system design)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Shipment status coordination (Sep 21-22)
-- **Jack Elston** (elstonj@blackswifttech.com) — M2 fuselage concerns discussions, government program liaison (Navy coordination, Sep 22)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Government program liaison (Navy team addition coordination, Sep 22)
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — S3 IRAD team member, government program touchpoints (Navy team addition, Sep 22)
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight test planning, task assignments
+- **Maciej Stachura** (stachura@blackswifttech.com) — M2 HALO Flight coordination, government program participant, component procurement coordination (Sep 23)
+- **Asana** (no-reply@asana.com) — Daily task notifications; 1 task due Sep 23 (continued pattern, slight decrease from Sep 22)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Project task assignments
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Shipment coordination, component procurement coordination (Sep 23, FTDI board purchasing)
+- **Jack Elston** (elstonj@blackswifttech.com) — Government program liaison; government program thread activity Sep 23
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Government program liaison; government program thread activity Sep 23
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — S3 IRAD team member, component procurement coordination (Sep 23)
 
-### Top External Senders
-- **Mel Marker** (mel.marker@bylight.com) — M2 HALO Flight coordination, flight planning
-- **William O'Neill** (william.oneill@bylight.com) — M2 HALO Flight testing, Phase 2 discussions
+### Top External Senders (NEW Sep 23)
+- **Shweta Choudhury** (schoudhury@quspin.com) — Component supplier (QuSpin); 5 emails on FTDI Conversion Board procurement thread
+- **Parker Ackerknecht** (packerknecht@quspin.com) — Component supplier (QuSpin); 3 emails on FTDI Conversion Board thread
+- **Mel Marker** (mel.marker@bylight.com) — M2 HALO Flight coordination
+- **William O'Neill** (william.oneill@bylight.com) — M2 HALO Flight testing
 - **Daniel Hesselius** (dhesselius@hotmail.com) — Chili Test Flight coordination
-- **Adrian Sepulveda** (asepulveda@aeronet.com) — Shipment status inquiry (supplier contact)
+- **Adrian Sepulveda** (asepulveda@aeronet.com) — Shipment coordination
 - **Tom** (sales4@hulianic.com) — HulianIC Silicon Labs components
-- **Terry McKane** (terry.m@apspolymers.com) — Resin supply inquiry/follow-up
-- **GetFPV** (chloe@getfpv.com, noreply@getfpv.com) — Product promotions (recurring)
+- **Terry McKane** (terry.m@apspolymers.com) — Resin supply
+- **GetFPV** — Product promotions
 
-### Government/Navy Contacts (NEW Sep 22)
-- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil, NAWCAD) — Black Swift team addition approval/coordination
-- **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil, NAWCAD) — Black Swift team addition coordination (primary Navy point of contact on thread)
+### Government/Navy Contacts (Continued Activity Sep 23)
+- **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil, NAWCAD) — Team addition approval/coordination; active Sep 23
+- **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil, NAWCAD) — Government program coordination
 - **Daniel E. Klier** (daniel.e.klier.civ@us.navy.mil, NSWC IHD) — Government program participant
 - **Aaron D. Pyrah** (aaron.d.pyrah.civ@us.navy.mil, NAWCAD) — Government program participant
-- **Morris A. DeSimone** (morris.a.desimone.ctr@us.navy.mil, CNR ARLINGTON VA) — Government program participant (contractor)
+- **Morris A. DeSimone** (morris.a.desimone.ctr@us.navy.mil, CNR ARLINGTON VA) — Government program participant
 
 ### Internal vs External Breakdown
-- **Internal:** ~65% (Asana, Spencer Hoehl, Maciej Stachura, Daniel Prendergast, Meredith Needham, Jack Elston, Beck Cotter, Alex Lomis, other BST staff)
-- **External:** ~30% (ByLight, test flight partners, manufacturing/component vendors, newsletters)
-- **Government:** ~5% (Navy/DoD contacts, new Sep 22)
+- **Internal:** ~62% (Asana, Spencer Hoehl, Maciej Stachura, Daniel Prendergast, Meredith Needham, Jack Elston, Beck Cotter, Alex Lomis)
+- **External (Commercial):** ~28% (QuSpin, ByLight, test flight partners, vendors)
+- **Government:** ~10% (Navy/DoD contacts; increased activity Sep 23)
 
 ## Topic Patterns
 
-### Major Project Themes
+### Major Project Themes (Continued)
 - **M2 HALO Flight (ByLight)** — Continuing active flight test coordination
-  - Key contacts: William O'Neill, Mel Marker (ByLight); Maciej Stachura (BST)
-  - Continuing execution phase
-
-- **S3 IRAD** — Continuing cold weather development, retract system design
-  - Lead: Daniel Prendergast
-  - Team: Joshua Fromm, Cory Dixon, Alex Lomis, Ben Busby, Sam Hild
+  - Sep 23: Email to Maciej Stachura on ByLight M2 HALO Flight status
+  
+- **S3 IRAD** — Continuing development with Alex Lomis collaboration
 
 - **NASA S2 & Parts Project** — Continuing
-  - Joystick mode trim fix task
 
-- **Chili Test Flight** — Continuing coordination with external test pilot
+- **Chili Test Flight** — Continuing
 
-### NEW: Government Program Activity (Sep 22)
-- **"Black Swift Team addition"** — Navy program coordination involving multiple DoD/government stakeholders
-  - Subject line: "Black Swift Team addition" / "[Non-DoD Source]" prefix
-  - Initiated by: Beck Cotter (BST)
-  - Government lead: Angel R. Ruiz-Reyes (NAWCAD)
-  - Participants: Ethan Domagala, Jack Elston, Maciej Stachura, Alex Lomis (BST); multiple Navy/DoD personnel (NAWCAD, NSWC IHD, CNR)
-  - Marked IMPORTANT by multiple parties
-  - Suggests government contract/program expansion or team restructuring approval process
+### NEW: Component Procurement Activity (Sep 23 — HIGH PRIORITY THREAD)
+- **"Additional purchase of FTDI Conversion Board"** — Major coordination thread
+  - **Supplier:** QuSpin (Shweta Choudhury, Parker Ackerknecht; Jeffrey Orton also listed by Ethan)
+  - **BST team involved:** Ethan Domagala (initiator), Maciej Stachura, Alex Lomis, Meredith Needham (procurement coordinator)
+  - **Email count:** 17 emails on this single thread in ~2 hours (13:48–17:10 UTC/local)
+  - **Status markers:** ALL IMPORTANT; indicates urgency
+  - **Activity pattern:** Rapid multi-party exchanges suggesting urgent component need or supply constraint
+  - **Ethan's role:** Initiator and active participant (appears to coordinate with Meredith Needham on procurement side)
 
-### Recurring Manufacturing/Component Suppliers
+### Government Program Activity (Continued Sep 23)
+- **"Black Swift Team addition"** — Continuing coordination
+  - Sep 23 activity: Response from Anthony D. Brescia (NAWCAD) to full team
+  - **BST recipients on government thread:** Jack Elston, Beck Cotter, Ethan Domagala, Alex Lomis, Maciej Stachura
+  - Marked IMPORTANT
+  - Status update likely related to Navy approval process
+
+### Recurring Suppliers
+- **QuSpin** — NEW HIGH-VOLUME (FTDI components) — 9 emails Sep 23
 - **HulianIC** — Silicon Labs components
 - **AeroNet** — Shipment coordination
-- **APS Polymers** — Resin follow-up
-- **SendCutSend** — CNC machining and welding services
-- **Protolabs** — Feedback/surveys
-- **GetFPV** — Drone components (promotional)
-- **High Desert Tool** — Injection molding & tooling
-- **HLH Prototypes** — UAS components
+- **APS Polymers** — Resin
+- **SendCutSend**, **Protolabs**, **High Desert Tool**, **HLH Prototypes** — Manufacturing/components
 
 ## Communication Patterns
 
-### Travel Activity (NEW Sep 22)
-- **United Airlines booking activity** — 5 automated emails (Sep 22)
-  - Two upcoming trips identified:
-    - **Denver trip** (booking confirmation, reminder sent)
-    - **Carlsbad trip** (reminder sent; trip details in subject)
-  - Booking confirmation: BF5ETE
-  - Status update: Flight cancellation confirmed (one leg); refund processed
-  - All marked IMPORTANT/CATEGORY_UPDATES
-  - Suggests business travel related to government program coordination or flight test operations
-
 ### Meeting Cadence
-- **Bi-weekly Flight test planning meetings** (Monday, 1-1:30pm MDT) — continuing with Spencer Hoehl
-- **BST Internal Update Meetings** — confirmed Sep 16
-- **M2 HALO Flight coordination** — continuing
-- **Government program coordination** (NEW) — Navy team addition approval thread (Sep 22)
+- **BST Internal Update Meeting** — Held Sep 23 (Gemini notes capture sent to Ethan)
+- **Bi-weekly Flight test planning meetings** — Continuing (Spencer Hoehl)
+- **M2 HALO Flight coordination** — Continuing
 
-### Automated/System Emails (High Volume)
-- **Asana task notifications:** ~1-2 per weekday; 7 tasks visible as due Sep 22 (consistent with prior patterns; slight increase from Sep 21 baseline)
-- **United Airlines travel alerts:** 5 emails Sep 22 (new pattern indicating active travel booking)
+### Automated/System Emails
+- **Asana task notifications:** 1 task due Sep 23 (continued decline; peak was 9 tasks Sep 21)
+- **Google Gemini meeting notes:** Sep 23 BST Internal Update Meeting notes auto-generated
 - **GetFPV promotional:** recurring weekly
 
-### Task Velocity
-- **7 tasks due Sep 22** — consistent with high-velocity period observed Sep 21 (9 tasks due)
-- Sustained elevated task concentration suggests ongoing execution phase across multiple projects
+### Communication Velocity Sep 23
+- **FTDI Conversion Board thread dominates:** 17 emails in rapid succession (13:48–17:10 local time), involving 6 participants across BST and QuSpin
+- **Compressed timeline:** Multi-round exchanges within 2-hour window suggests time-sensitive procurement
+- **Government program thread activity:** Separate ongoing thread with Navy approval response
+- **Flight coordination:** Continued M2 HALO status update mid-day
+
+### Cross-Functional Coordination
+- Ethan initiating procurement thread with Maciej Stachura and Alex Lomis (technical input), Meredith Needham (procurement execution)
+- Government program thread: Ethan copied on all-hands Navy communications with Jack Elston, Beck Cotter leading
 
 ## Key Relationships
 
-### Closest Internal Collaborators (by frequency)
-1. **Spencer Hoehl** — Flight test lead; task assignment authority
-2. **Maciej Stachura** — M2 HALO Flight tactical coordinator; government program participant
+### Closest Internal Collaborators (Updated)
+1. **Spencer Hoehl** — Flight test lead
+2. **Maciej Stachura** — M2 HALO tactical coordinator; government program participant; component procurement participant
 3. **Daniel Prendergast** — S3 IRAD project lead
-4. **Jack Elston** — Technical M2 liaison; government program liaison
-5. **Meredith Needham** — Shipment coordination
-6. **Beck Cotter** — NEW: Government program coordination lead (BST side)
-7. **Alex Lomis** — S3 IRAD team member; government program participant
-
-### Critical
+4. **Jack Elston** — Government program liaison; technical M2 liaison
+5. **Alex Lomis** — S3 IRAD team; government program participant

@@ -1,55 +1,58 @@
 # Slack Channels Overview
 
-Last scanned: 2026-09-23 08:26
+Last scanned: 2026-09-24 02:16
 
-Total channels scanned: 9
+Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 39 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#by-lite-mustang** -- 5 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 5 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 26 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 4 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s3** -- 9 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 28 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 23 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 6 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 5 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 15 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Channel Overview
 
-## Active Projects
-- **SBIR Hurricane (S0)**: Primary government R&D focus; unmanned aircraft for hurricane reconnaissance
-- **Navy SBIR Magnetometer**: Sensor integration project; magnetic anomaly detection systems
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter development; 2-3 hour endurance target
-- **By Light Mustang**: USAF contract; two-phase approach demonstrating limitations then new Chilli airframe
-- **Commercial Aircraft Line**: E2, S2, S0-VTOL production/delivery; university and government customers
+## Core Mission & Projects
 
-## Key Decision Makers & Roles
-- **Jack Elston**: Leadership/strategy; proposal review; funding decisions
-- **Joshua Fromm**: Lead engineer; hardware/shop operations; CAD/RF components; QA
-- **Maciej**: Flight operations lead; technical proposal support; field testing
-- **Dan Prendergast**: Business development/operations
-- **Meredith Needham**: Finance/administration
+BST operates three primary technical initiatives:
+
+1. **SBIR Hurricane (S0 UAS)** – Unmanned aircraft for hurricane reconnaissance; government-funded, long-running project with extensive technical and operational activity
+2. **Navy SBIR Magnetometer** – Magnetic anomaly detection systems integrating third-party sensors (QuSpin, Bartington) onto BST platforms
+3. **S3 VTOL Development** – Long-endurance hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance target; heavy focus on RF/antenna design and battery optimization
+
+## Key Personnel & Roles
+
+| Role | Primary Individuals |
+|------|-------------------|
+| **Leadership & Strategy** | Jack Elston (decision-maker, proposal lead), Dan Prendergast (business development/ops) |
+| **Engineering & Design** | Joshua Fromm (lead designer, RF/antenna/CAD), Maciej (technical support, field ops), Beck Cotter (systems), Alex Lomis, Ethan |
+| **Operations & Support** | Danny Troke, Sam Hild, Nate, Paige Smith |
+| **Funding & Proposals** | Meredith Needham, Jack Elston |
 
 ## Cross-Channel Themes
 
-### Technical Integration
-Multiple channels reflect shared engineering challenges: aircraft platforms (S0, S1-VTOL, S3, Mustang) are tested across #flight-testing while component decisions (magnetometers, RF, batteries) flow through project-specific channels back to design specs.
+### Decision Pattern
+- Jack Elston serves as central approval authority for major decisions (funding, proposals, strategic direction)
+- Technical decisions driven by Joshua Fromm and engineering team with Maciej coordination
 
-### Funding & Commercialization Pipeline
-#grants-and-funding drives government contracts (SBIR, USAF) that seed platform development (#sbir-hurricane, #by-lite-mustang), which then transition to commercial delivery tracked in #commercial-sales. Operational/budget impacts reported to #operations.
+### Recurring Topics
+- **Integration challenges**: Payloads (magnetometers, sensors) onto existing platforms
+- **Government funding**: Continuous pursuit of SBIR, NASA, DOD, NOAA, USDA grants
+- **Aircraft platform reuse**: S0, S2, S3, E2 platforms adapted across multiple projects
+- **Technical documentation**: Requirements, CAD, validation, battery design
 
-### Flight Test as Validation Hub
-#flight-testing is the convergence point where hardware decisions, firmware updates, and payload integrations from all projects are validated before customer delivery or next development phase.
+### Active Connections
+- **Hardware platform leverage**: Same aircraft systems (S series) serve hurricane, magnetometer, and commercial missions
+- **Personnel overlap**: Core engineering team (Fromm, Maciej, Beck, Alex) works across all projects
+- **Funding sustainability**: SBIR projects feed commercial viability; commercial sales support development costs
+- **Customer diversity**: Government agencies (NASA, NOAA, DoD) + universities + international clients using same platforms
 
-### Operational Dependencies
-#operations coordinates resources (procurement, shipping, finance, facility) supporting all concurrent projects; decisions in project channels trigger operational actions logged centrally.
-
-## Recurring Decision Patterns
-- Technical feasibility assessed through flight testing before commitment
-- Government contracts (SBIR, USAF) drive platform priorities
-- Commercial orders activate production/logistics workflows
-- Budget/resource allocation managed through grants channel and operations
+## Operational Tempo
+- High activity across all channels (2020-2026 timeframe)
+- Both project-driven (SBIR milestones) and sales-driven (commercial delivery) workflows
+- General channel serves as operations synchronization hub

@@ -1,20 +1,16 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ",
-    "[300] NOAA:[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-09-22",
-    "end": "2026-09-23"
+    "start": "2026-09-23",
+    "end": "2026-09-24"
   },
   "totals": {
     "revenue": 189000.0,
-    "expenses": 516.75,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 468.75,
-      "DIRECT COSTS:DC-Direct Material Purchases": 48.0
-    }
+    "expenses": 0.0,
+    "by_category": {}
   },
   "invoices": [
     {
@@ -64,31 +60,7 @@
       ]
     }
   ],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-09-22",
-      "doc_number": "BST-SEPT2026-1",
-      "total": 516.75,
-      "attributed": 516.75,
-      "vendor": "Matthew Crabtree",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 468.75,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "CB Rework \u2013 DeploymentTube2_v06 (PCB repair, milling) (3.75hrs)"
-        },
-        {
-          "amount": 48.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Materials for fixturing and setup"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [],
   "purchase_orders": [],
   "payments": []

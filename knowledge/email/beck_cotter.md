@@ -1,84 +1,87 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 380 emails (357 initial + 23 new)
+- **Total messages scanned:** 395 emails (380 initial + 15 new)
 - **Date range:** 16 Sep – 23 Sep 2026
-- **Estimated volume:** Sustained very high activity; 20 new messages (Sep 22-23) maintain intensive pace across government contracts, strategic partnerships, and technical coordination; notable concentration on Sep 22 (14 messages)
+- **Estimated volume:** Sustained very high activity; 15 new messages (Sep 23) maintain intensive pace; notable concentration on Sep 23 with critical Navy contract coordination and strategic partnership planning dominating workflow
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** – Primary strategic hub; S0-AD, Pioneer Array, SOCOM, UK Raven visit (RAVEN program), UMES Advisory Council, Krateosky Go to Market, Stanford S2 order coordination; **NEW: Navy team addition announcement coordination (Sep 23)**
-- **Daniel Prendergast** – Strategic/program coordination; S0-AD Development, UK Raven visit, DeadWater GNSS-denied capability, UMES Aviation Sciences, SOCOM engagement; **NEW: "Mapping of Opportunities to Development Efforts" (Krateosky strategic planning, Sep 22)**
-- **Maciej Stachura** – Technical/product coordination; UK Raven visit, ByLight M2 HALO Flight, S0-99 quote, Krateosky Go to Market, N251-016 Phase II coordination; **NEW: Krateosky "Mapping of Opportunities" participation (Sep 23)**
-- **Alex Lomis** – N251-016 Phase II Meeting coordination, **NEW: Navy team addition announcement participant (Sep 23)**
-- **Ethan Domagala** – **NEW CONTACT (Sep 23)**; Navy team addition announcement recipient; appears to be technical/program coordination role
-- **Meredith Needham** – Contract/administrative coordination; S0-99 quote refurbishment; **NEW: "Quote for Tanay @ Stanford" attachment notifications (Sep 22, 2 messages)**
+- **Jack Elston** – Primary strategic hub; S0-AD, Pioneer Array, SOCOM, UK Raven visit (RAVEN program), UMES Advisory Council, Krateosky Go to Market, Stanford S2 order coordination; **NEW: "Damage Control" coordination with Krateosky (Sep 23, IMPORTANT); Google Docs comment notification on "Factor 1-BlackSwi..." document (Sep 23)**
+- **Daniel Prendergast** – Strategic/program coordination; S0-AD Development, UK Raven visit, DeadWater GNSS-denied capability, UMES Aviation Sciences, SOCOM engagement; **NEW: "Black Swift Team addition" forward recipient (Sep 23); "Mapping of Opportunities" continuation (Sep 23)**
+- **Maciej Stachura** – Technical/product coordination; UK Raven visit, ByLight M2 HALO Flight, S0-99 quote, Krateosky Go to Market, N251-016 Phase II coordination; **NEW: "DevX Autonomy" submission thread participant (Sep 23, IMPORTANT); ByLight M2 HALO Flight coordination with Ethan Domagala (Sep 23)**
+- **Ethan Domagala** – Navy team addition announcement participant; **NEW ELEVATED ACTIVITY (Sep 23)**; ByLight M2 HALO Flight technical coordination (IMPORTANT, Sep 23); appears to be technical lead on propulsion/payload integration
+- **Alex Lomis** – N251-016 Phase II Meeting coordination; **NEW: Navy team addition announcement participant (Sep 23)**
+- **Cory Dixon** – **NEW INTERNAL CONTACT (Sep 23, IMPORTANT)**; "DevX Autonomy" submission coordination (Oct 31 deadline); appears to be program/operations coordinator; recipient of Krateosky/BST cross-functional "Mapping of Opportunities" emails
+- **Meredith Needham** – Contract/administrative coordination; S0-99 quote refurbishment; Asana task mention reminder (Sep 23)
 
 ### External – Government (Active/High Priority)
 
-**U.S. Navy (NAWCAD, NSWC, CNR) — NEW HIGH-FREQUENCY CONTACT CLUSTER**
-- **Ruiz-Reyes, Angel R CIV USN NAWCAD (USA)** – **NEW SUSTAINED CONTACT (Sep 22-23)**; "[Non-DoD Source] Black Swift Team addition" thread (IMPORTANT, Sep 22); appears to be primary Navy program liaison; recipients include Klier, Brescia, Pyrah, DeSimone
-- **Brescia, Anthony D CIV USN NAWCAD (USA)** – **NEW CONTACT (Sep 23)**; "Black Swift Team addition" participant (IMPORTANT); Navy technical coordination
-- **Klier, Daniel E CIV USN NSWC IHD (USA)** – **NEW CONTACT (Sep 22)**; Navy team addition announcement recipient
-- **Pyrah, Aaron D CIV USN NAWCAD (USA)** – **NEW CONTACT (Sep 22)**; Navy team addition announcement recipient
-- **DeSimone, Morris A III CTR USN CNR ARLINGTON VA (USA)** – **NEW CONTACT (Sep 22)**; Navy team addition announcement recipient
-- **Fritz, Amanda M CIV (USA)** – **NEW CONTACT (Sep 22)**; Contract #N6833525C0270 coordination (SENT, Sep 22)
-- **Sanchez, Emilly CTR USN CNR ARLINGTON VA (USA)** – **NEW CONTACT (Sep 22)**; Contract #N6833525C0270 coordination (SENT, Sep 22)
+**U.S. Navy (NAWCAD, CNR) — CRITICAL FOCUS (Sep 23)**
+- **Cossuth, Joshua H CIV USN CNR ARLINGTON VA (USA)** – **NEW HIGH-PRIORITY CONTACT (Sep 23)**; "[Non-DoD Source] Contract Contact for Phase II - Black Swift" (IMPORTANT, IMMEDIATE); marked IMPORTANT by Navy recipient; rapid same-day exchange (Sep 23, 12:25 PM sent → 8:14 PM received → response same day); indicates critical contract phase transition or approval coordination
+- **Brescia, Anthony D CIV USN NAWCAD (USA)** – **ELEVATED ACTIVITY (Sep 23)**; "Black Swift Team addition" multi-recipient thread (IMPORTANT); Jack Elston replied to Brescia (Sep 23, 4:54 PM); indicates continued Navy stakeholder coordination
+- **Ruiz-Reyes, Angel R CIV USN NAWCAD (USA)** – Continuing Navy program liaison role from prior data
 
-**U.S. Special Operations Command (USSOCOM) — SUSTAINED ACTIVE**
-- **Terry, Brandon M SSGT USAF USSOCOM AFSOC-GSU (USA)** – **ELEVATED FREQUENCY (Sep 22)**; "Black Swift contract" coordination (IMPORTANT incoming, Sep 22); rapid exchange with Beck (same-day multiple messages)
-- **Nichols, Ryan J MIL USSOCOM SOCOM (USA)** – **NEW CONTACT (Sep 22)**; "Black Swift contract" recipient
-- **Gilbert, James W CTR USSOCOM SOCOM (USA)** – S0-AD Development Efforts coordination (IMPORTANT, Sep 22); continuing contact
-- **Colton B. Fleahman, Eric M. Page, Harold P. Bowlin** – S0-AD Development Efforts participants (Sep 22, IMPORTANT)
+### External – Partners & Contractors
 
-**NOAA Federal — SUSTAINED (Prior data)**
-- **Danielle Varwig, Nikolai Pawlenko, Laura Rock, Mark Rogers** – Continued Pioneer Array Test Flight coordination
-
-**U.S. Department of Interior (DOI) / USGS — ACTIVE (Prior data)**
-- **Tracy L. Huot, Kevin H. Pesola** – Contract No. 140G0323P0280/P00002 coordination
-
-### External – Partners & Contractors (Active/Expanded)
-
-**Krateosky (Strategic Partner) — ELEVATED ACTIVITY**
-- **Brian Grubel** (brian@krateosky.com) – **NEW HIGH-FREQUENCY CONTACT (Sep 23)**; "Re: Mapping of Opportunities to Development Efforts" (IMPORTANT, Sep 23); appears to be primary Krateosky strategic lead
-- **Bob Smith** (Bob@krateosky.com) – BST Go to Market, "Mapping of Opportunities" participant (IMPORTANT, Sep 22-23)
-- **Ariel Avitan, Jed Leonard, LisaMarie Cheney, Sona Raziabeegum, Cory Dixon** – **NEW CONTACTS (Sep 22-23)**; all participants in "Mapping of Opportunities to Development Efforts" (strategic cross-functional planning); indicates expanded Krateosky engagement
-
-**Lockheed Martin (RAVEN Program)**
-- **Neil Morphett** – UK Raven visit coordination (Prior data)
-
-**University of Maritime — ACTIVE (Prior data)**
-- **Paul DeMond** – N251-016 Phase II Meeting coordination
+**Krateosky (Strategic Partner) — CRISIS MANAGEMENT ACTIVITY (Sep 23)**
+- **Jack Elston to Bob Smith** – "Damage Control" subject (IMPORTANT, Sep 23, 8:46 AM); indicates potential issue requiring immediate strategic response with Krateosky leadership
+- **Brian Grubel** (brian@krateosky.com) – **CONTINUED HIGH-FREQUENCY CONTACT (Sep 23)**; "Re: Mapping of Opportunities to Development Efforts" (IMPORTANT); cross-functional strategic planning ongoing
+- **Bob Smith** (Bob@krateosky.com) – Krateosky strategic lead; "Damage Control" coordination with Jack Elston (Sep 23)
+- **Cory Dixon** (cory@krateosky.com) – **NOW IDENTIFIED AS KRATEOSKY EMPLOYEE** (previously listed as internal BST contact); "DevX Autonomy" submission thread; indicates dual-role or embedded Krateosky liaison
+- **Ariel Avitan, Jed Leonard, LisaMarie Cheney, Sona Raziabeegum** – Continuing "Mapping of Opportunities" participants (Sep 23)
 
 **ByLight (M2 Development Partner)**
-- **Mel Marker** – ByLight M2 HALO Flight coordination
-
-### External – Academia (Emerging)
-- **Tanay Topac (Stanford)** – **ELEVATED VISIBILITY (Sep 22)**; "Quote for Tanay @ Stanford" (2 Asana attachment notifications, Sep 22); S2 platform/payload order coordination
+- **Ethan Domagala / Maciej Stachura** – ByLight M2 HALO Flight technical coordination (IMPORTANT, Sep 23); appears active flight test phase
 
 ### Automated/Administrative
-- **Asana notifications** – Meredith Needham task updates (Sep 22-23); Stanford quote tracking
-- **NASA Earth Observatory** – Subscription notification (Sep 22)
-- **Slack/Colorado Department of State** – Administrative notifications
+- **Asana notifications** – Meredith Needham task mention reminder (Sep 23)
+- **Google Docs comments** – Jack Elston collaboration on "Factor 1-BlackSwi..." document (Sep 23)
+- **IARPA Proposals** – Automatic notification: "5 minute pitch video" opportunity (Sep 23)
+- **Colorado Department of State** – Periodic regulatory filing reminder (Sep 23)
 
 ## Topic Patterns
 
-### High-Priority Programs (Sep 22-23 Focus)
+### Critical Priority (Sep 23 Focus)
 
-1. **"Black Swift Team Addition" Initiative** – **CRITICAL NEW PROGRAM (Sep 22-23)**
-   - Multiple Navy contacts (NAWCAD, NSWC, CNR, SOCOM)
-   - "[Non-DoD Source]" designation; DoD classification/sensitivity protocol
-   - Recipients: Ruiz-Reyes, Brescia, Klier, Pyrah, DeSimone, Jack Elston, Ethan Domagala, Alex Lomis, Maciej Stachura
-   - Marked IMPORTANT; multi-message exchange (Sep 22-23)
-   - **Appears to be personnel/team expansion announcement or role assignment with Navy stakeholders**
+1. **"[Non-DoD Source] Contract Contact for Phase II - Black Swift"** – **URGENT ACTIVE COORDINATION (Sep 23)**
+   - Navy liaison: Joshua H. Cossuth (CNR ARLINGTON VA)
+   - Beck Cotter sent contract contact info (Sep 23, 12:25 PM)
+   - Navy responded IMPORTANT (Sep 23, 8:14 PM +0000)
+   - Beck replied same-day (Sep 23, 2:23 PM)
+   - **Indicates critical Phase II contract approval/transition with Navy oversight; [Non-DoD Source] designation suggests controlled information protocol**
 
-2. **Navy Contracts — NEW ACTIVE FOCUS**
-   - **Contract #N6833525C0270** – Multiple Navy recipients (Fritz, Sanchez) Sep 22; appears time-sensitive
-   - **S0-AD Development Efforts** – Continuing SOCOM engagement (Sep 22, IMPORTANT)
+2. **"Black Swift Team Addition"** – **ONGOING NAVY STAKEHOLDER COORDINATION (Sep 23)**
+   - Navy recipients: Brescia, Cossuth (implied in broader thread)
+   - Internal recipients: Jack Elston, Beck Cotter, Ethan Domagala, Alex Lomis, Maciej Stachura
+   - Beck forwarded to Daniel Prendergast (Sep 23, 7:31 AM)
+   - Jack Elston responded to Navy (Sep 23, 4:54 PM)
+   - Marked IMPORTANT by Navy
 
-3. **"Mapping of Opportunities to Development Efforts"** – **STRATEGIC PLANNING SESSION (Sep 22-23)**
-   - Krateosky-led cross-functional initiative
-   - Internal participants: Daniel Prendergast, Jack Elston, Maciej Stachura, Beck Cotter
-   - Krateosky team: Brian Grubel (lead), Bob Smith, Ariel Avitan, Jed Leonard, LisaMarie Cheney, Sona Raziabeegum, Cory Dixon
-   - Marked IMPORTANT; indicates portfolio/product-market
+3. **"Damage Control"** – **INTERNAL STRATEGIC RESPONSE (Sep 23)**
+   - Jack Elston → Bob Smith (Krateosky)
+   - Time-sensitive (8:46 AM, early morning)
+   - Marked IMPORTANT
+   - **Suggests issue arose during "Mapping of Opportunities" engagement requiring immediate partner coordination**
+
+4. **"Submit to DevX Autonomy by October 31st, 2026"** – **NEW EXTERNAL SUBMISSION OPPORTUNITY (Oct 31 DEADLINE)**
+   - Cory Dixon initiated
+   - Recipients: Jack Elston, Beck Cotter, Daniel Prendergast, Maciej Stachura, Bob Smith (Krateosky)
+   - Marked IMPORTANT
+   - Beck replied (Sep 23)
+   - **Appears to be innovation/R&D submission program; cross-functional BST/Krateosky participation suggests joint proposal**
+
+5. **"Mapping of Opportunities to Development Efforts"** – **CONTINUING STRATEGIC PLANNING (Sep 23)**
+   - Brian Grubel (Krateosky lead) continued discussion
+   - All internal leads engaged (Jack Elston, Beck Cotter, Daniel Prendergast, Maciej Stachura)
+   - Full Krateosky team present
+   - Marked IMPORTANT
+   - Follows "Damage Control" coordination same day
+
+6. **ByLight M2 HALO Flight** – **ACTIVE TECHNICAL COORDINATION (Sep 23)**
+   - Ethan Domagala / Maciej Stachura technical exchange
+   - Marked IMPORTANT
+   - Suggests flight test phase or payload integration milestone
+
+### Emerging

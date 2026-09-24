@@ -41,7 +41,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 ### Post-Project Activity
 - **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
 - Primary deliverable (Aeropods platform) completed testing phase in October 2025
-- **[2026-08-24 & 2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference:** Daniel Prendergast noted current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
+- **[2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference** (Daniel Prendergast): Current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
 
 ### Recent Shipment Activity (September 2026)
 - **[2026-09-23 & 2026-09-22]** Meredith Needham reminded team of NASA shipment pickup between 9:30 AM–4 PM. Ethan has accompanying paperwork.
