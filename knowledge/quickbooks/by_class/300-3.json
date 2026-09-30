@@ -4,13 +4,15 @@
     "[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-09-23",
-    "end": "2026-09-24"
+    "start": "2026-09-24",
+    "end": "2026-09-30"
   },
   "totals": {
     "revenue": 189000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 929.53,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Travel": 929.53
+    }
   },
   "invoices": [
     {
@@ -61,7 +63,404 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-09-26",
+      "doc_number": "",
+      "total": 27.74,
+      "attributed": 27.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FAIRFIELD INN & SUITES - 4617",
+      "lines": [
+        {
+          "amount": 27.74,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-26",
+      "doc_number": "",
+      "total": 27.74,
+      "attributed": 27.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FAIRFIELD INN & SUITES - 4617",
+      "lines": [
+        {
+          "amount": 27.74,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-26",
+      "doc_number": "",
+      "total": 6.33,
+      "attributed": 6.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SCOOTER'S COFFEE #1909 - 4617",
+      "lines": [
+        {
+          "amount": 6.33,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-26",
+      "doc_number": "",
+      "total": 7.89,
+      "attributed": 7.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*THE MOON ROCK - 4617",
+      "lines": [
+        {
+          "amount": 7.89,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-26",
+      "doc_number": "",
+      "total": 9.85,
+      "attributed": 9.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*THE MOON ROCK - 4617",
+      "lines": [
+        {
+          "amount": 9.85,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 14.37,
+      "attributed": 14.37,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FAIRFIELD INN & SUITES - 4617",
+      "lines": [
+        {
+          "amount": 14.37,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 24.86,
+      "attributed": 24.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *BURGER CLAN & WINGS F - 4617",
+      "lines": [
+        {
+          "amount": 24.86,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 46.48,
+      "attributed": 46.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HILTON GARDEN INN HARLING - 4617",
+      "lines": [
+        {
+          "amount": 46.48,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 18.43,
+      "attributed": 18.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "H-E-B #136 - 9208",
+      "lines": [
+        {
+          "amount": 18.43,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 59.63,
+      "attributed": 59.63,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*LA PLAYA MEXICAN CAF - 4617",
+      "lines": [
+        {
+          "amount": 59.63,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 6.33,
+      "attributed": 6.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SCOOTER'S COFFEE #1909 - 4617",
+      "lines": [
+        {
+          "amount": 6.33,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 38.41,
+      "attributed": 38.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SKY MARKET - 9208",
+      "lines": [
+        {
+          "amount": 38.41,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 15.91,
+      "attributed": 15.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *SOUTH TEXAS QUESOBIRR - 4617",
+      "lines": [
+        {
+          "amount": 15.91,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 6.9,
+      "attributed": 6.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARBUCKS 09893 - 4617",
+      "lines": [
+        {
+          "amount": 6.9,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 44.0,
+      "attributed": 44.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 44.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "",
+      "total": 83.0,
+      "attributed": 83.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 9208",
+      "lines": [
+        {
+          "amount": 83.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 55.81,
+      "attributed": 55.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*STATION 1 - 4617",
+      "lines": [
+        {
+          "amount": 55.81,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 81.12,
+      "attributed": 81.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FAIRFIELD INN & SUITES - 4617",
+      "lines": [
+        {
+          "amount": 81.12,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 33.05,
+      "attributed": 33.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FAIRFIELD INN & SUITES - 4617",
+      "lines": [
+        {
+          "amount": 33.05,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 24.01,
+      "attributed": 24.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *BACKYARD BBQ - 4617",
+      "lines": [
+        {
+          "amount": 24.01,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 5.47,
+      "attributed": 5.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SCOOTER'S COFFEE #1909 - 4617",
+      "lines": [
+        {
+          "amount": 5.47,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston & M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 292.2,
+      "attributed": 292.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 292.2,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "M. Stachura trip for NOAA (Hurricane Polo)"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

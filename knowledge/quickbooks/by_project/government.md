@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $5,876,265.00
-- **Total Expenses (Bills + Purchases):** $1,817,298.33
+- **Total Invoiced (Revenue):** $6,079,724.00
+- **Total Expenses (Bills + Purchases):** $1,817,298.33 + $3,378.65 = **$1,820,676.98**
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $4,058,966.67 (invoiced minus expenses)
+- **Net Position:** $4,259,047.02 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-10-07
 
 ---
@@ -12,18 +12,18 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $5,876,265.00
-- **Total Collected (Outstanding Balance):** $4,756,556.82 remaining (invoices with open balances)
-- **Number of Invoices:** 105 active invoices
+- **Total Invoiced:** $6,079,724.00
+- **Total Collected (Outstanding Balance):** $4,959,962.82 remaining (invoices with open balances)
+- **Number of Invoices:** 108 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $2,045,959.00 | **UPDATED:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station), Invoices #1741 ($72,000.00, 2026-09-28), #1785 ($58,500.00, 2026-09-16), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
+| [300-3] 2026 IDIQ | $2,232,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $891,557.00 | **UPDATED:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
+| [550-1] Navy SBIR Magnetometer | $905,016.00 | **UPDATED 2026-10-07:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
 | [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
 | [300] NOAA | $2,375.00 | Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
@@ -91,10 +91,10 @@
 
 ---
 
-### **Materials & Supplies: $12,523.34**
-**Number of transactions:** 17
+### **Materials & Supplies: $12,712.01**
+**Number of transactions:** 19
 
-**Key transactions (2026-08-27 to 2026-09-22):**
+**Key transactions (2026-08-27 to 2026-09-28):**
 
 #### **Sensor & Technical Components**
 - **Purchase #70828** (2026-08-28): $3,436.50 — Magnetometer parts
@@ -102,13 +102,17 @@
   - **Project:** [550-1] Navy SBIR Magnetometer
   - *(Urgent procurement, J. Fromm direct purchase)*
 
+- **Purchase** (2026-09-24): $288.75 — Standard comms board
+  - **Memo:** Direct email purchase via PayPal for quick turnaround; Navy Magnetometer
+  - **Project:** [550-1] Navy SBIR Magnetometer
+
 - **Purchase #0827JELSTON** (2026-08-27): $110.42 — Mixed supplies
   - $26.87 Navy Magnetometer supplies
   - $83.55 By Light supplies
   - **Project:** [550-1] Navy SBIR / Other
 
 #### **Aircraft & Propulsion Systems**
-- **Purchase #00052914** (2026-09-18): $4,449.42 — [DIRECT COSTS:DC-Direct Material Purchases]
+- **Purchase #00052914** (2026-09-18): $4,449.42 — Direct Cost Material Purchases
   - **Case, 3R6223-10B-EW x 2:** $1,571.20
   - **BLTCAS S3 CASE FOAM ASSEMBLY x 2:** $2,878.22
   - **Project:** Government (unspecified, likely [300-3] IDIQ or [550-1] SBIR)
@@ -126,6 +130,14 @@
 - **Purchase #W091410090567** (2026-09-14): $146.90 — Raspberry Pi Zero 2 W Starter MAX Kit
   - **Project:** Government (unspecified)
   - *(Direct purchase by J. Elston)*
+
+- **Purchase #0925JELSTON** (2026-09-25): $62.41 — Stainless Steel Pan Head Torx Plus Screws; Male-Female Threaded Hex Standoff; Square-Profile High-Temperature Silicone Cord Stock
+  - **Memo:** No Asana request; J. Fromm direct purchase
+  - **Project:** Government (unspecified)
+
+- **Purchase** (2026-09-28): $26.70 — 18-8 Stainless Steel Male-Female Hex Thread
+  - **Memo:** No Asana request; J. Fromm direct purchase
+  - **Project:** Government (unspecified)
 
 - **Purchase #0908JELSTON** (2026-09-08): $66.69 — Mixed materials
   - White Delrin® Acetal Resin Tube & 18-8 Stainless Steel Wire Rope
@@ -146,37 +158,4 @@
   - **Project:** Government (unspecified)
 
 - **Bill #Inv3950** (2026-08-31): $928.13 — MicroFirm Engineering
-  - Parts & Shipping (August 2026)
-  - **Project:** Government
-
-- **Bill #BST-SEPT2026-1** (2026-09-22): **$48.00** — Matthew Crabtree
-  - Materials for fixturing and setup
-  - **Project:** Government (unspecified class)
-
-#### **Total Materials & Supplies (2026-08-27 to 2026-09-22): $12,523.34**
-
----
-
-### **Travel: $8,989.19**
-**Number of transactions:** 21
-
-*(Travel category continues from existing knowledge file — no new travel expenses in current data range)*
-
----
-
-### **Shipping/Freight: [Existing Data]**
-*(Reviewed in existing knowledge file)*
-
----
-
-### **Indirect Costs: [Existing Data]**
-*(Reviewed in existing knowledge file)*
-
----
-
-### **Rent/Facilities: [Existing Data]**
-*(Reviewed in existing knowledge file)*
-
----
-
-### **Other: [Existing Data]**
+  - Parts

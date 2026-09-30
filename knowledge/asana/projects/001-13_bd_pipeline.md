@@ -15,6 +15,7 @@
   - USAF WC-130J Weather Squadrons (S0-AD, last contact 2026-02-18, **8+ months stale**). Contacts: Russell Evans & Elizabeth Sanabia (russell.evans.ctr@us.af.mil).
   - Ben Maglio/University of Alaska (E2 soil moisture, $2,200 quoted 2026-08-05, last contact 2026-08-05).
   - UC Santa Cruz (S2/S3 demo pending, last contact 2025-08-08, **12+ months stale**). Contacts: Tim Handley, Xavier Prochaska (thandley@ucsc.edu, jxp@ucsc.edu).
+  - **NASA Ames Research Center (S3, qty 2)** – **$65,000, quote sent, Lead Response: "Maybe Later"**. Contact: Will Wade (William.o.wade@nasa.gov). Next Steps: Follow-up email. *Note: Classified as "Current Customer" by source.*
 
   **TIER 3 – ACTIVE/DEVELOPING**:
   - Austin Anderson (S3 data center survey, first contact 2026-08-10, no quote sent).
@@ -23,7 +24,7 @@
   - Kosteroski Engineering (Canadian, S2/S3, Minerva solicitation collaboration).
   - Supercool Earth (venture-backed cloud seeding UAV, first contact 2026-07-02).
   - ESPACIOS S.A DE C.V. (Mexico, S2 volcanology, first contact via form).
-  - Native Village of Napaimute (S0/S2/S3, due 2026-09-30). Contact: Caleb Phillips (napaimute.brownfields@gmail.com).
+  - **Native Village of Napaimute (S0/S2/S3, due 2026-09-30)**. Contact: Caleb Phillips (napaimute.brownfields@gmail.com, 907-676-1252). *Products of Interest: S0 VTOL, S2, S3, Training Materials and Supplies, Custom Payload, Autopilot.* Remote sensing with multispectral camera; currently operating DJI Mavic 3M.
   - Chris Meek/NASA Langley (S0 x2 for Boeing 777 integration, quote sent).
   - S0-VTOL launch off NOAA Ron Brown (atmospheric sounding concept). Contact: Chidong Zhang (chidong.zhang@noaa.gov).
   - Urban Sky Stratospheric Balloon (BST/UrbanSky/Army potential collaboration, last contact 2025-11-22). Contact: Mark Bowersox.
@@ -41,6 +42,7 @@
 - **Dollar value**:
   - **USSOCOM Pope 2**: $948,993 (quote sent, ready for purchase) – **PRIMARY REVENUE FOCUS**
   - **LMUK/UK Royal Navy**: $276,000 (quoted)
+  - **NASA Ames Research Center**: $65,000 (quoted, "Maybe Later" status)
   - **Ben Maglio/University of Alaska**: $2,200 (quoted)
   - **Other major opportunities**: NextTech Solutions, UC Santa Cruz, National Oceanography Centre, NOAA Ron Brown, NASA Langley, Barbados, Kosteroski Engineering (values TBD/unquoted)
   - **Pipeline total**: ~$1.5M+ tracked (USSOCOM $948,993 alone represents significant revenue inflection point)
@@ -51,13 +53,10 @@
   - **Most recent activity**: 2026-09-17 (Shelly Ruland/CIO Times completed; UK/UCAS, Leeds University completed 2026-09-16)
   - **USSOCOM Pope 2**: Last contact 2026-09-11 (quote sent, **"Ready for purchase"** status) – **IMMEDIATE ACTION WINDOW**
   - **Active outreach**: Ben Maglio (2026-08-05), LMUK/UK Royal Navy (2026-08-04), Aerostar (2026-09-17), Breon Defence (visit scheduled 2/10)
+  - **UPCOMING DEADLINES**:
+    - Native Village of Napaimute: due 2026-09-30
   - **OVERDUE/STALE REQUIRING IMMEDIATE CONTACT**:
     - Oklahoma State University (last contact 2025-04-14, **16+ months**, due date 2026-06-30 now overdue)
     - NextTech Solutions (last contact 2026-03-17, **18+ months**)
     - National Oceanography Centre (last contact 2026-03-17, **5+ months**)
-    - USAF WC-130J (last contact 2026-02-18, **8+ months**)
-    - UC Santa Cruz (last contact 2025-08-08, **12+ months**)
-  - **Upcoming**: Native Village of Napaimute (due 2026-09-30); Breon Defence visit (2/10)
-  - **BD hiring**: Targeted end of July 2026 (status update 2026-06-26) – **STATUS UNCLEAR** (likely completed or in progress, critical for managing pipeline volume).
-
-- **Status**: **ACTIVE & ACCELERATING**. Website form actively generating inbound leads (Shelly Ruland/CIO Times, Kosteroski Engineering, Aerostar, Breon Defence, University of Houston, ESPACIOS). **MAJOR WIN SIGNAL**: USSOCOM Pope 2 ($
+    - USAF WC-130

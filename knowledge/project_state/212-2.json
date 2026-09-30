@@ -15,7 +15,7 @@
     "type": "unknown",
     "number": null,
     "total_value": 89844.0,
-    "start_date": null,
+    "start_date": "2026-09-30",
     "end_date": "2026-09-30",
     "payment_cadence": null,
     "documents": []
@@ -26,30 +26,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 16693.75,
+        "amount": 20002.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-24"
+        "last_updated": "2026-09-30"
       },
       "purchases": {
         "amount": 48274.38,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-24"
+        "last_updated": "2026-09-30"
       },
       "other_qbo": {
-        "amount": 2670.16,
+        "amount": 89.11,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-23"
+        "last_updated": "2026-09-30"
       },
-      "total": 67638.29,
+      "total": 68365.99,
       "by_line_item": {}
     },
     "committed": 545.32,
-    "remaining": 21660.39,
+    "remaining": 20932.69,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-24T09:07:41Z"
+    "last_reconciled": "2026-09-30T17:16:26Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -69,12 +69,6 @@
   ],
   "risks": [],
   "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-08-25",
-      "text": "From Daniel Prendergast (ts=1787589902.841319): All, fyi current rate for one day of testing in the NASA Glenn Icing Research Tunnel is $55k-$60k"
-    },
     {
       "source": "FEEDBACK",
       "author": "Meredith Needham",
@@ -100,6 +94,6 @@
       "text": "From Ethan: <@U06KRHPQSRH> NASA S2 pallet is 48x120in and 20in tall"
     }
   ],
-  "last_full_rebuild": "2026-09-24T09:07:41Z",
+  "last_full_rebuild": "2026-09-30T17:16:26Z",
   "last_incremental_update": null
 }

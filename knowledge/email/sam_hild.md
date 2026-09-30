@@ -1,97 +1,92 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 286 emails (279 from prior period + 7 new from Sep 23–24)
-- **Date range:** Wed 19 Aug 2026 – Thu 24 Sep 2026 (37 days)
-- **Approximate volume:** ~7.7 emails per day average
-- **Composition:** ~80–85% automated vendor/subscription/logistics notifications; ~15–20% human correspondence and project management
+- **Total messages scanned:** 345 emails (286 from prior period + 59 new from Sep 24–30)
+- **Date range:** Wed 19 Aug 2026 – Wed 30 Sep 2026 (73 days)
+- **Approximate volume:** ~4.7 emails per day average
+- **Composition:** ~85% automated vendor/subscription/logistics notifications; ~15% human correspondence, recruiting/HR, and project management
 
 ## Key Correspondents
 
 ### Top Senders
-**Vendor/Supplier automated notifications** (continued):
-- **USPS Informed Delivery** (prior period, ongoing)
-- **Pirate Ship** (shipping receipt Sep 22: $84.48 payment)
-- **DigiKey** (2 new PO acknowledgements Sep 22: Salesorder #101782555, #101780405)
-- **HeliDirect** (recurring: "Pulse Heli Flight Packs" product update Sep 23, routed to Meredith Needham/purchasing)
-- **ProtoSpace Mfg** (enclosure design webinar Sep 22)
-- **PHASE1 AVIATION LLC** (new invoice Sep 22)
-- **Toggl Track, Spindrift Market** (prior period, no new activity in this batch)
-- **Purchasing@blackswifttech.com** (automated: "You Have Past Due Invoices" alert Sep 24)
+**Vendor/Supplier automated notifications** (continued and expanded):
+- **McMaster-Carr** (4 new notifications Sep 24–29: order confirmations, tracking, receipts)
+- **Spindrift Market** (4 new delivery/shipment notifications Sep 24–29; ongoing beverage subscription)
+- **Pasternack** (3 new order notifications Sep 24–25: Web Orders #401363, #401280)
+- **AVLGEAR** (3 new shipment updates Sep 24–29: order SH20619)
+- **Infinite Electronics / Irvine Shipping** (2 new invoices Sep 29: PO 09/25/26, Sales Order WPE401363)
+- **Pirate Ship** (Sep 29: $857.21 payment receipt)
+- **HeliDirect** (Sep 29: "New from Goosky" product update)
+- **Worldwide Express** (Sep 30: invoice)
+- **Mini-Circuits** (2 order confirmations/feedback requests Sep 24)
+- **L-com** (2 password/account emails Sep 24 to Joshua Fromm)
+- **Samsung** (2 notifications Sep 26–30: business account, support survey)
+- **PHASE1 AVIATION LLC** (Sep 29: invoice 1123)
+- **Vaisala** (2 webinar reminders Sep 30, Sep 29)
+- **ProtoSpace Mfg** (Sep 28: webinar announcement)
+- **UPS, USPS** (ongoing logistics tracking)
+- **Toggl Track** (2 notifications Sep 25, 28)
+- **Rippling** (4 debit card charge notifications Sep 26–30)
+- **Veeam Team** (2 promotional/webinar emails Sep 29, 25)
+- **Asana** (Sep 25: unread notifications)
 
 **Human correspondence** (active threads):
-- **Jack Elston** (elstonj@blackswifttech.com) — **NEW ACTIVE THREAD**: "Re: P400 for project Core2-V03" (Sep 23, 16:29 UTC, flagged IMPORTANT). Sam included as recipient on discussion with Thinh Nguyen and Meredith Needham regarding P400 component for Core2-V03 project.
+- **Thinh Nguyen** (thinh991@yahoo.com) — **ESCALATED PROJECT CONTINUATION**: "Core 2-10 boards shipped" (Sep 28, 21:01 UTC, IMPORTANT flag), cc'ing Jack Elston and Sam Hild. Indicates ongoing component/board manufacturing/supply chain with external engineer.
 
-- **Thinh Nguyen** (thinh991@yahoo.com) — **NEW ACTIVE ENGAGEMENT** (Sep 23):
-  - Initiates: **"P400 for project Core2-V03"** (19:32 UTC, IMPORTANT flag), cc'ing Jack Elston and Sam Hild
-  - Sam responds: **"Solder Question"** (10:07 AM MDT same day), direct technical inquiry
-  - Indicates Sam is asking Thinh (external supplier/engineer) about soldering technical details, likely related to P400 component integration
+- **Jack Elston** (elstonj@blackswifttech.com) — **ACTIVELY COORDINATING**: 
+  - Responding to Thinh's Core 2-10 shipping notification (Sep 28, 17:07 UTC, IMPORTANT)
+  - Continues as project lead on Core2-V03 / Core 2-10 initiatives
 
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Thread concluded from prior period; no new activity in this batch
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **NEW**: Forwarding "Colorado Technology Student Association" announcement to broad team including Sam (Sep 29, 15:53, IMPORTANT flag). Suggests recruiting/outreach initiative.
 
-- **Matthew Crabtree** (mjcrabtree21@gmail.com) — No new activity in this batch
+- **Max Pheysey** (Max.Pheysey@lumicity.io) — **NEW HIGH-PRIORITY CONTACT**: Recruiting/HR coordinator at Lumicity.io
+  - Initiating 3 separate **panel interview notifications** (all IMPORTANT):
+    - "Andrew Teta Panel Interview - Black Swift Technologies" (Sep 29 20:24, Sep 30 15:30)
+    - "Grey Vaughan Panel Interview - Black Swift Technologies" (Sep 29 16:54)
+    - "Senior EE Candidates - Panel Interviews" (Sep 30 15:36)
+  - Pattern: Max coordinates candidate interviews with Jack Elston, Josh Fromm, Sam Hild (and sometimes Andrew Teta or greyv21@gmail.com)
+  - Indicates Sam is involved in **engineering hiring panel interviews**, likely for senior electrical engineer positions
 
 ### Top Recipients
-- **purchasing@blackswifttech.com** — Continues receiving automated vendor confirmations and forum/study notifications
-- **Jack Elston** — Included on Core2-V03 P400 thread (Sep 23)
-- **Thinh Nguyen** (thinh991@yahoo.com) — Sam initiates direct technical question ("Solder Question") Sep 23, 10:07 AM
+- **purchasing@blackswifttech.com** — Continues as primary inbox for vendor notifications, logistics, and automated alerts
+- **Jack Elston** — Active project coordination and recruitment panel
+- **Josh Fromm** — Recruitment panel coordination
+- **Thinh Nguyen** (thinh991@yahoo.com) — Project critical contact (Core 2-10 boards)
+- **sam.hild@blackswifttech.com** — Direct recipient of Rippling financial alerts, Veeam promotional content, Asana notifications, Toggl Track updates
 
 ### Internal vs External (Updated)
 **Internal (BST team):**
 - Jack Elston, Joshua Fromm, Spencer Hoehl, Cory Dixon, Daniel Prendergast, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Nathaniel Straus, Beck Cotter, Paige Smith, Kareem Ahmed, Ben Busby
 
 **External (updated):**
-- **Thinh Nguyen** (thinh991@yahoo.com) — **ESCALATED ENGAGEMENT**: Now initiating project-critical threads (Core2-V03 P400 component). Sam asking technical questions directly.
-- **Frank Strazzabosco** (Microfirm, microfirm@earthlink.net) — Prior urgent collaboration (24V power supply)
-- **Matthew Crabtree** (Waveform Engineering, mjcrabtree21@gmail.com) — PCB design partner
-- **Lauren Nagel** (l.nagel@tytorobotics.com) — **EXTERNAL CONTACT**, Tyto Robotics; forwarding industry research ("2026 Drone Developer Industry Study")
-- **HeliDirect** (sales@helidirect.com) — Emerging vendor, flight packs
-- **PHASE1 AVIATION LLC** — Aviation component vendor
-- **DigiKey** — Electronic components distributor
-- Prior external: Tom (Hulianic), Triza Codillo, Vantage Robotics, Inspired Flight, KrateoSky, C-Astral
+- **Max Pheysey** (Max.Pheysey@lumicity.io) — **NEW CRITICAL CONTACT**: Recruiting/staffing coordinator (likely at Lumicity.io, a technical recruiting firm). Coordinating senior EE candidate panel interviews with Sam, Jack, Josh.
+- **Thinh Nguyen** (thinh991@yahoo.com) — Manufacturing/supply chain partner; Core 2-10 board production
+- **Andrew Teta** (andrew.teta@gmail.com) — **NEW**: Panel interview candidate for senior EE role
+- **Grey Vaughan** (greyv21@gmail.com) — **NEW**: Panel interview candidate for senior EE role
+- **Frank Strazzabosco** (Microfirm) — Prior collaborator (no new activity)
+- **Matthew Crabtree** (Waveform Engineering) — PCB design partner (no new activity)
+- **Lauren Nagel** (Tyto Robotics) — Industry research contact (no new activity)
 
 ## Topic Patterns
 
 ### Active Project/Technical Threads
-- **Core2-V03 + P400 Component** — **NEW HIGH-PRIORITY PROJECT**: Thinh Nguyen initiates (Sep 23, IMPORTANT flag) regarding P400 for "project Core2-V03". Sam immediately responds with "Solder Question" same morning, indicating active technical problem-solving on component integration/assembly.
-- **24V Power supply design/modifications** — Prior period high-intensity thread (concluded)
-- **DeploymentTube2-v0.6 PCBs** — Prior period thread (no new activity this batch)
+- **Core 2-10 Boards Manufacturing** — **UPGRADED TO ACTIVE MANUFACTURING PHASE**: Thinh Nguyen initiates "Core 2-10 boards shipped" (Sep 28, IMPORTANT). Jack Elston responds same day. Indicates **PCBs/boards are in production/shipment phase**. Likely related to prior Core2-V03 project.
+- **P400 Component Integration** — Prior period thread (no new updates in this batch)
+- **Recruitment: Senior Electrical Engineers** — **NEW HIGH-PRIORITY INITIATIVE**: Max Pheysey coordinating panel interviews for Andrew Teta and Grey Vaughan. Sam actively participating as interviewer alongside Jack Elston and Josh Fromm.
 
 ### Recurring Automated Streams
-- **Spindrift Market** — Beverage subscription (prior period)
-- **USPS, UPS, Pirate Ship** — Logistics/shipping tracking
-- **Toggl Track** — Time tracking
-- **Rippling** — Corporate expense
-- **Procurement vendor confirmations** — HeliDirect, ProtoSpace Mfg, PHASE1 AVIATION
-- **Industry research** — Lauren Nagel sharing "2026 Drone Developer Industry Study"
-- **Accounting alerts** — "Past Due Invoices" notification (Sep 24)
+- **Logistics & Procurement** — McMaster-Carr, Pasternack, AVLGEAR, Infinite Electronics, Spindrift Market, Pirate Ship (shipping/receiving cycle)
+- **Financial/Expense Management** — Rippling debit card notifications (4 charges in 4 days Sep 26–30: $1.00, $147.19, $147.19, $140.00)
+- **Time Tracking & Project Management** — Toggl Track, Asana notifications
+- **Industry Webinars/Learning** — Veeam (data resilience), Vaisala (weather data, Arctic operations), ProtoSpace Mfg (fast design)
+- **Vendor Marketing** — HeliDirect, L-com, Samsung
 
 ### External Partner Engagement
-- **Tyto Robotics** (Lauren Nagel) — Sending industry analysis/market research to purchasing (drone developer study)
-- **HeliDirect** — Continued product push ("Go Big: Pulse Heli Flight Packs")
+- **Lumicity.io / Max Pheysey** — Recruiting firm actively placing engineering candidates at BST
+- **Thinh Nguyen** — Board manufacturing and component supply
+- **Infinite Electronics / Pasternack** — High-volume component/connector orders (multiple orders Sep 24–25)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Same-day technical iteration:** Sep 23 shows quick turnaround: Thinh initiates P400 discussion (19:32 UTC / 1:32 PM MDT), Sam responds with "Solder Question" same morning (10:07 AM MDT) — suggests early morning technical inquiry (likely started from notification the prior evening or very early morning work).
-- **Compressed project cycle:** New project (Core2-V03) introduced and Sam engaged with technical questions within same business day.
-- **Automated alerts:** Past-due invoice alert sent early morning (07:04 UTC / 1:04 AM MDT), system-generated.
-
-### Mailing Lists and Procurement Flow
-- **Purchasing@blackswifttech.com** — Central inbox for vendor notifications, industry research forwarding (Lauren Nagel), and accounting alerts
-- **Meredith Needham** — Continues as procurement coordinator; HeliDirect routed through her
-- **Jack Elston** — Coordinating multi-vendor project discussions (P400 sourcing with Thinh)
-
-### Notable Communication Metadata
-- **Google Gemini Notes integration** — Sam received auto-generated meeting notes from "BST Internal Update Meeting" (Sep 23, 19:52 UTC), suggesting he participated in internal sync meeting that day
-
-## Key Relationships
-
-### Closest Collaborators (by recent activity)
-1. **Thinh Nguyen** (thinh991@yahoo.com) — **NEWLY ESCALATED**: Now project-critical (Core2-V03 P400 component). Sam asking direct technical questions on soldering, indicating hands-on problem-solving engagement.
-2. **Jack Elston** — **COORDINATING PARTNER**: Initiating vendor/project threads with Sam and Thinh on Core2-V03
-3. **Frank Strazzabosco** (Microfirm) — Prior high-intensity collaboration (24V power supply), no new activity this period
-4. **Matthew Crabtree** (Waveform Engineering) — Prior PCB partner, no new activity this period
-
-### External Strategic Relationships
-- **Thinh Nguyen** — **UPGRADED CRITICALITY**: From component supplier to active project collaborator on Core2-V03, now receiving IMPORTANT
+- **Recruiting activity concentrated Sep 28–30**: Max Pheysey sends 3 panel interview notifications within 36 hours (Sep 29–30

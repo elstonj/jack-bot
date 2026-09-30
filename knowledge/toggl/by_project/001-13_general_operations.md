@@ -4,14 +4,14 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 2,314.7 hours (2,289.5 + 25.2)
+- Total hours tracked: 2,403.1 hours (2,314.7 + 88.4)
 
 ## Team Allocation
-- Meredith Needham: 1,255.2 hours (54.2% of tracked time)
-- Beck Cotter: 512.8 hours (22.1% of tracked time)
-- Jack Elston: 434.9 hours (18.8% of tracked time)
-- Stachura: 81.6 hours (3.5% of tracked time)
-- Dan: 47.0 hours (2.0% of tracked time)
+- Meredith Needham: 1,287.4 hours (53.5% of tracked time)
+- Beck Cotter: 551.8 hours (22.9% of tracked time)
+- Jack Elston: 480.9 hours (20.0% of tracked time)
+- Dan: 55.8 hours (2.3% of tracked time)
+- Stachura: 83.0 hours (3.5% of tracked time)
 - Spencer Hoehl: 11.9 hours (0.5% of tracked time)
 - Ethan Domagala: 15.9 hours (0.7% of tracked time)
 - Kareem Ahmed: 3.0 hours (0.1% of tracked time)
@@ -19,36 +19,39 @@
 
 ## Activity Timeline
 
-**Current batch (25.2 hours)**:
-- **Jack Elston** (4.0h): Answering Emails (3.0h + 1.0h)
-- **Meredith Needham** (8.3h): Operations/Admin (8.0h) + undocumented (0.4h)
-- **Beck Cotter** (8.0h): NOAA
-- **Stachura** (3.5h): *No description* ⚠️
-- **Spencer Hoehl** (1.3h): *No description* ⚠️
+**Current batch (88.4 hours)**:
+- **Meredith Needham** (32.2h): Operations/Admin (23.2h) + undocumented (9.0h)
+- **Beck Cotter** (31.0h): NOAA (23.5h) + undocumented (7.5h)
+- **Jack Elston** (15.0h): Answering Emails (12.0h) + Management Sync (0.5h) + undocumented (2.5h)
+- **Dan** (8.8h): *No description* ⚠️
+- **Stachura** (1.4h): *No description* ⚠️
 
 **Documentation compliance (current batch)**:
-- **82.1% documented** (20.7 of 25.2 hours documented)
-- **17.9% undocumented** (4.5 hours)
-- **Cumulative undocumented: 577.2 hours out of 2,314.7 tracked (24.9% overall failure rate)**
+- **80.2% documented** (71.0 of 88.4 hours documented)
+- **19.8% undocumented** (17.4 hours)
+- **Cumulative undocumented: 594.6 hours out of 2,403.1 tracked (24.7% overall failure rate)**
 
 ## Insights
 
-- **⚠️ CRITICAL DOCUMENTATION FAILURE — ONGOING PATTERN**:
-  - Current batch: **Slight regression** — documentation at 82.1% (down from 73.7% in prior batch)
-  - **Stachura continues 100% non-compliance**: 3.5h undocumented this batch; cumulative 42.6 hours undocumented (52.2% cumulative non-compliance rate)
-  - **NEW CONCERN — Spencer Hoehl**: First documented undocumented entry (1.3h) suggests emerging pattern; requires monitoring
+- **⚠️ CRITICAL DOCUMENTATION FAILURE — PERSISTENT PATTERN**:
+  - Current batch: **Further regression** — documentation at 80.2% (down from 82.1% in prior batch)
+  - **Undocumented hours increased by 12.9 hours** this batch, largest undocumented block being Meredith's 9.0h entry
+  - Cumulative non-compliance growing at ~17-20 hour intervals
 
 - **Work composition** (from documented entries):
-  - **Meredith Needham**: Operations/Admin (8.0h) — core overhead operations
-  - **Jack Elston**: Email management (4.0h) — administrative support
-  - **Beck Cotter**: NOAA (8.0h) — external client/project work (unexpected in overhead project)
-  - **Stachura & Spencer Hoehl**: Completely opaque — no task transparency
+  - **Meredith Needham**: Operations/Admin (23.2h) — core overhead operations
+  - **Jack Elston**: Email management (12.0h) + Management Sync (0.5h) — administrative support
+  - **Beck Cotter**: NOAA (23.5h) — external client/project work (continuing unexplained overhead classification)
+  - **Dan & Stachura**: Completely opaque — 10.2 hours combined with zero transparency
 
 - **⚠️ ENFORCEMENT STATUS — CRITICAL ESCALATION REQUIRED**:
-  - **Stachura**: Persistent non-compliance across all batches with **zero improvement trajectory**. Combined undocumented time: 42.6 hours
-  - **NEW ESCALATION — Spencer Hoehl**: Submitted 100% undocumented time (1.3h); requires immediate clarification and future monitoring
-  - **IMMEDIATE ACTIONS REQUIRED**: 
-    - **Block Stachura time entries** until task descriptions are retroactively provided
-    - **Flag Spencer Hoehl entries** for manager review; request immediate task documentation
-    - Require manager sign-off on all non-compliant entries going forward
-    - Issue formal compliance notice with deadline for retroactive documentation
+  - **Stachura**: Persistent minimal engagement (1.4h this batch, 100% undocumented). Cumulative: 44.0 hours undocumented (53.0% cumulative non-compliance)
+  - **Meredith Needham**: NEW CONCERN — first major undocumented entry (9.0h) from primary contributor suggests enforcement breakdown
+  - **Dan**: NEW CRITICAL ISSUE — 8.8 hours submitted entirely undocumented (100% non-compliance this batch)
+  - **Beck Cotter**: 7.5 hour undocumented block appearing alongside NOAA work; pattern suggests inconsistent documentation discipline
+
+**IMMEDIATE ACTIONS REQUIRED**:
+- Issue formal compliance notice to all team members with 48-hour deadline for retroactive documentation
+- **Block all future entries** from Stachura and Dan until historical entries are documented
+- Manager review required for Meredith (9.0h) and Beck Cotter (7.5h) entries
+- Escalate to leadership: 19.8% current batch failure rate represents operational control loss

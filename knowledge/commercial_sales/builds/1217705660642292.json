@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1217705660642292",
+  "asana_task_name": "Austin Anderson/S3 w Hi Rez camera",
+  "customer": "Austin Anderson",
+  "customer_contact": "Austin Anderson",
+  "customer_email": "austinsteamboat@gmail.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S3 with Hi Rez camera",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2025-08-22",
+  "invoice_amount": 2900.0,
+  "invoice_number": "1695",
+  "paid_date": "2025-08-22",
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Customer is conducting data center photogrammetry surveys in challenging wind conditions (central Texas). Currently using wingtras but seeking more robust, wind-resistant solution. Interested in S3 VTOL variant. Kept due to QBO invoice #1695 (paid 2025-08-22).",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "build_state"
+  ],
+  "last_evidence_date": "2025-08-22",
+  "last_contact_date": null
+}

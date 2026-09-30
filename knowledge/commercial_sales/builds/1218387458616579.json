@@ -8,7 +8,7 @@
   "ship_to": null,
   "items": [
     {
-      "description": "S0",
+      "description": "S0 air-deployed (S0-AD) unmanned aircraft system",
       "quantity": 1
     }
   ],
@@ -17,8 +17,8 @@
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": null,
+  "invoice_amount": 948993,
+  "invoice_number": "H9223626P9056",
   "paid_date": null,
   "parts": [],
   "tracking_number": null,
@@ -29,15 +29,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "USSOCOM Pope 2 \u2014 quote sent for $948,993. Contract funded as of 2026-09-11. Beck discussing delivery schedule; contract requires 60-day delivery from contracting.",
+  "notes": "Contract H9223626P9056 fully executed as of 2026-09-28. Quote $948,993 for S0-AD system. Beck negotiating delivery schedule; contract specifies 60-day PoP from award (2026-09-11). Active engagement with contracting officer on schedule alignment.",
   "missing_fields": [
     "receive_by",
-    "ship_to",
-    "items",
-    "invoice_number",
-    "invoice_date",
-    "invoice_amount"
+    "ship_to"
   ],
-  "last_evidence_date": "2026-09-11",
-  "last_contact_date": "2026-09-15"
+  "last_evidence_date": "2026-09-28",
+  "last_contact_date": "2026-09-28"
 }

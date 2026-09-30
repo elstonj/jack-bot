@@ -16,7 +16,7 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 - **Meredith Needham** - Project coordination, regulatory/medical documentation
 - **Mike Ekdahl** - Sod Farm site manager and contact
 
-**Activity Level:** Extensive (3,885+ messages across ~6 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns; ongoing through August 2026.
+**Activity Level:** Extensive (3,885+ messages across ~6 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns; ongoing through September 2026.
 
 ## Key Decisions
 
@@ -78,14 +78,15 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 
 ## Projects & Initiatives
 
-### Core Soil Moisture Mapping Payload (2020-2025) - **ACTIVE**
+### Core Soil Moisture Mapping Payload (2020-2026) - **ACTIVE**
 
-**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025). Continuing field deployment and customer testing through 2026.
+**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025). Continuing field deployment, customer testing, and antenna refinement through September 2026.
+
+**Current Activity (September 2026):**
+- Latest antenna version showing "good steady data" per OMS partner feedback
+- Antenna cover fabrication pending—estimated timeline: "a few weeks" once BST prioritizes (currently lower priority relative to other pressing projects)
+- E2 aircraft scheduled for OMS partner drop-off on September 25, 2026
+- Team planning to discuss antenna cover implementation requirements early week of September 30, 2026 (Maciej and team)
 
 **Technical Configuration:**
 - LDCR radiometer (multiple revisions: RevC, C2, RevD) with dual antenna feeds
-- Altum multispectral camera (Micasense) with thermal and NDVI bands
-- NDVI/thermal sensor suite (Apogee S2-411-SS, S2-412-SS; Melexis MLX90614ESF)
-- Raspberry Pi Zero logging architecture
-- DB9 connector interface between NDVI housing and back-end housing
-- Signal lines: 24VDC, GND, SDI-12 (NDVI), UART RX

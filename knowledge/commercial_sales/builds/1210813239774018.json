@@ -1,0 +1,57 @@
+{
+  "asana_gid": "1210813239774018",
+  "asana_task_name": "Ultra PCS - pneumatic launcher collab",
+  "customer": "USAF / Ultra PCS",
+  "customer_contact": "Tracy Harris",
+  "customer_email": "Tracy.harris@ultra-ice.com",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Pneumatic launch tube for C-130/KC-135 and S0",
+      "quantity": 1
+    },
+    {
+      "description": "Aircraft components (to finish out customer's other aircraft)",
+      "quantity": 1
+    },
+    {
+      "description": "Ground station",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "in_assembly",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "Pneumatic launch tube assembly",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Dan Prendergast",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Engineering-phase collaboration with Ultra PCS on pneumatic launcher for USAF aircraft integration. Design work in progress (tube interface, ejection velocity, acceleration specs being defined with NOAA/customer input). S20009 launcher assembly underway; some components/parts status uncertain per recent Slack.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "invoice_number",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-09-25",
+  "last_contact_date": null
+}
