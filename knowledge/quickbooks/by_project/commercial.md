@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,020,068.62
-- **Total Expenses (Bills + Purchases):** $244,627.02
+- **Total Expenses (Bills + Purchases):** $244,833.71
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,775,441.60 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – September 15, 2026
+- **Net Position:** $2,775,235.91 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – September 30, 2026
 
 ---
 
@@ -99,12 +99,20 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $7,773.63** | 22 transactions | Largest item: $1,600.00
+### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
+**Total: $12.87** | 1 transaction
 
-| Date | Vendor/Description | Amount | Details |
-|------|-------------------|--------|---------|
-| 2026-09-10 | Purchase #0910JELSTON | $29.29 | 18-8 Stainless Steel Pan Head Phillips Screw |
-| 2026-08-20 | Purchase #22962 | $1,408.00 | HBL6625 (0.11 sec/60° - 144.43 oz/in @8.2V) x 8 |
-| 2026-08-20 | Purchase #23022 | $1,600.00 | HBL599SL-DroneCAN x 6 |
-| 2026-08-19 | Purchase #70664 | $225.20 | Insert-L3-V218.step; Insert-R3-V218.step; Shroud-V218.step |
+| Date | Description | Amount | Details |
+|------|-------------|--------|---------|
+| 2026-09-25 | Worldwide Express Shipment | $12.87 | Shipment from UMES for fixing problem (dated 8/31/26) |
+
+### **Indirect Costs** (Research & Development — Internal R&D)
+**Total: $193.82** | 2 transactions
+
+| Date | Description | Amount | Details |
+|------|-------------|--------|---------|
+| 2026-09-25 | Worldwide Express Shipment | $84.14 | Shipment from Phase1 Aviation (dated 8/31/26) |
+| 2026-09-25 | Worldwide Express Shipment | $109.68 | Shipment from Phase1 Aviation |
+
+### **Materials & Supplies** (Direct Cost Material Purchases)
+**Total: $7,980.45** | 26 transactions | Largest item

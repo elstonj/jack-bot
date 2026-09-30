@@ -4,13 +4,18 @@
     "[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-09-23",
-    "end": "2026-09-24"
+    "start": "2026-09-24",
+    "end": "2026-09-30"
   },
   "totals": {
     "revenue": 14459.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 2495.21,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Travel": 4868465.73,
+      "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 386130.5,
+      "DIRECT COSTS:DC-Direct Material Purchases": 288.75,
+      "FRINGE:Employee Reimbursement": -5254596.23
+    }
   },
   "invoices": [
     {
@@ -38,7 +43,109 @@
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 288.75,
+      "attributed": 288.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made directly via email because of quick turnaround (paid via PayPal). Confirmed for Navy Mag",
+      "lines": [
+        {
+          "amount": 288.75,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Standard comms board"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-24",
+      "doc_number": "",
+      "total": 0.0,
+      "attributed": 2206.4599999999996,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Trip to California for [550-1]",
+      "lines": [
+        {
+          "amount": 708.8,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "United Airlines"
+        },
+        {
+          "amount": 1021.91,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "VRBO Rental"
+        },
+        {
+          "amount": 59.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "VRBO Insurance"
+        },
+        {
+          "amount": 117.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "VRBO Service Fee"
+        },
+        {
+          "amount": 18.12,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Uber"
+        },
+        {
+          "amount": 58.6,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Uber"
+        },
+        {
+          "amount": 20.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Internet pass"
+        },
+        {
+          "amount": 69.99,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Walmart - supplies"
+        },
+        {
+          "amount": 27.67,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "PB Poke House (food)"
+        },
+        {
+          "amount": 75.37,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "LBC (food)"
+        },
+        {
+          "amount": 10.74,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "7 Siblings (food)"
+        },
+        {
+          "amount": 19.26,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "CVS"
+        },
+        {
+          "amount": 175.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp",
+          "description": "Part 107 Cert Exam"
+        },
+        {
+          "amount": -2381.46,
+          "account": "FRINGE:Employee Reimbursement",
+          "description": ""
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

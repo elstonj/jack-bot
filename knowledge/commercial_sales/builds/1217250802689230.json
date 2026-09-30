@@ -4,7 +4,7 @@
   "customer": "NASA Langley",
   "customer_contact": "Chris Meek",
   "customer_email": "christopher.b.meek@nasa.gov",
-  "receive_by": null,
+  "receive_by": "2026-10-01",
   "ship_to": null,
   "items": [
     {
@@ -29,14 +29,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley seeking two S0 aircraft and peripherals for Boeing 777 integration (launch and telemetry platform). Quote sent per Asana custom field.",
+  "notes": "NASA Langley confirmed active purchase intent (FY2026 budget, delivery after Oct 1). Beck sent updated estimate with shipping costs and S0 items for P3/NOAA integration. Customer seeking NASA procurement form assistance and CAGE code. Funded separately from rejected AFA proposal.",
   "missing_fields": [
-    "receive_by",
     "ship_to",
     "invoice_number",
     "invoice_amount",
     "parts"
   ],
-  "last_evidence_date": null,
-  "last_contact_date": null
+  "last_evidence_date": "2026-08-07",
+  "last_contact_date": "2026-08-07"
 }

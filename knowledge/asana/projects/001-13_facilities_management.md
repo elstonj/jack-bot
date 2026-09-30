@@ -3,35 +3,52 @@
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
-- **Timeline**: Ongoing operational project with recurring bi-weekly cleaning tasks and weekly purchasing cycles
-- **Status**: Active - operational cadence maintained. **Current snapshot: 1 open task** (Facilities Improvements, no due date assigned). Cleaning cycle is on track with consistent bi-weekly completion.
+- **Timeline**: Ongoing operational project with recurring weekly purchasing cycles and bi-weekly cleaning tasks
+- **Status**: Active - operational cadence maintained. **⚠️ CRITICAL ISSUE: Bulk completion lag detected.** All tasks shown completed on 2026-09-28 despite due dates spanning 2026-07-24 through 2026-09-25. This suggests either (a) a workflow backlog cleared in bulk, or (b) task closure process not reflecting real-time completion. Clarify with Meredith O'hara Needham whether actual work is on schedule or if there is operational delay.
 - **Team members involved**: 
-  - Meredith O'hara Needham (primary operational owner, cleaning coordination, purchasing coordination)
-  - Nate Straus (equipment planning; consumables stock tracker owner)
+  - Meredith O'hara Needham (primary operational owner: cleaning coordination, purchasing coordination, rent payments)
+  - Nate Straus (equipment planning; consumables stock tracker owner — not currently assigned to open tasks)
 - **Risk signals**: 
-  - Open "Facilities Improvements" task is unassigned with no due date—clarify owner, scope, and deadline
-  - Previous open task "Equipment wish list" (Nate Straus) is no longer visible in current data; unclear if closed or archived
+  - **High-priority**: All 17 completed tasks were marked done on 2026-09-28, regardless of original due date. This is an anomaly—investigate whether Asana reflects actual completion or if tasks were batch-closed post-facto.
+  - **Moderate**: "Ongoing Office Purchasing List" and "Office Cleaning" cycles show consistent completion, but the bulk 2026-09-28 closure date raises questions about task workflow fidelity.
+  - Previous "Facilities Improvements" task (unassigned) has disappeared from current data; unclear if resolved or archived.
 
 ## Key Deliverables & Milestones
-- **Bi-weekly office cleaning** (via Neat N Tidy; established cadence)
-  - **Latest completed**: 2025-12-04 (due 2025-11-15; 19-day lag)
-  - **Prior completions**: Consistent bi-weekly cycle throughout 2025, with typical 1–3 day lag (sporadic delays up to 19 days)
-- **Weekly office purchasing list** (recurring cycle to collect purchases)
-  - Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
-- **Monthly rent payments** (~$13.00–$14.63 NNN depending on lease year, plus $6.23 CAM; due ~25th–29th of each month)
+- **Bi-weekly office cleaning** (via Neat N Tidy)
+  - **Open task**: "Office Cleaning" due 2026-10-03 (Meredith O'hara Needham)
+  - **Recent completed instances**: 2026-09-28 (due 2026-09-19, -09-05, -07-25; all bulk-closed same day)
+  - **Pattern**: Bi-weekly cadence maintained but completion logging needs review
+  
+- **Weekly office purchasing list** (recurring consumables collection)
+  - **Open task**: "Ongoing Office Purchasing List" due 2026-10-02 (Meredith O'hara Needham)
+  - **Notes**: "Collect purchases for the week here"
+  - **Recent completed instances**: 2026-09-28 (bulk-closed; due dates ranged 2026-07-24 through 2026-09-25)
+  - **Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
+
+- **Monthly rent payments**
+  - **Open task**: "Pay Rent" due 2026-09-28 (Meredith O'hara Needham)
+  - **Recent completed instances**: 2026-09-28 (due 2026-08-31, 2026-07-27; bulk-closed)
+  - **Amount**: ~$13.00–$14.63 NNN + $6.23 CAM depending on lease year
 
 ## Task Summary
-- **Total tasks**: 1 open (Facilities Improvements), 0 completed in current snapshot
+- **Total tasks**: 3 open, 17 completed (in current snapshot)
 - **Tasks by assignee**:
-  - **Unassigned**: 1 open (Facilities Improvements, no due date)
+  - **Meredith O'hara Needham**: 3 open (Pay Rent, Office Cleaning, Ongoing Office Purchasing List); 17 completed
 - **Notable patterns**:
-  - Shift in active tasks: Equipment wish list is no longer visible; Facilities Improvements (broader scope) has replaced it
-  - No assignee or due date on open task indicates incomplete intake
+  - **Bulk closure anomaly**: All 17 completed tasks share the same completion date (2026-09-28) despite due dates spanning 2026-07-24 through 2026-09-25. This is inconsistent with typical daily work completion and suggests batch task closure (possible end-of-cycle administrative catch-up or system automation).
+  - **Cyclical structure**: Three recurring task types (Rent, Cleaning, Purchasing) repeat on predictable schedules
+  - Previous "Facilities Improvements" task no longer visible; "Equipment wish list" task also absent from current data
 
 ## Recent Activity
-- **Open task** (new/changed):
-  - Facilities Improvements (Unassigned) — **no due date assigned, no assignee**
-  - *Note: Previous open task "Equipment wish list" (Nate Straus) is no longer in current data*
+- **Open tasks** (as of data snapshot):
+  - **Pay Rent** — Due 2026-09-28 (Meredith O'hara Needham)
+  - **Office Cleaning** — Due 2026-10-03 (Meredith O'hara Needham)
+  - **Ongoing Office Purchasing List** — Due 2026-10-02 (Meredith O'hara Needham)
+
+- **Completed tasks** (17 total, all marked done 2026-09-28):
+  - Multiple "Ongoing Office Purchasing List" instances (due dates: 2026-09-25, 2026-09-18, 2026-09-11, 2026-09-04, 2026-08-28, 2026-08-21, 2026-08-14, 2026-08-07, 2026-07-31, 2026-07-24)
+  - Multiple "Office Cleaning" instances (due dates: 2026-09-19, 2026-09-05, 2026-08-22, 2026-08-08, 2026-07-25)
+  - Multiple "Pay Rent" instances (due dates: 2026-08-31, 2026-07-27)
 
 ## Notes & Context
 
@@ -57,8 +74,9 @@
 | Months 37–48 | $14.21 | $6.23 |
 | Months 49–60 | $14.63 | $6.23 |
 
-**Operational Focus**: Central hub for all physical office and shop space maintenance, found under the Operations portfolio. Consumables stock tracker maintained at https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus).
+**Consumables Stock Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus — *note: may need refresh*)
 
 **⚠️ Action Items**:
-1. **Facilities Improvements** (Unassigned): Assign owner, set due date, and clarify scope (replaces prior Equipment wish list task?)
-2. **Completion lag monitoring**: Recent 19-day delay (2025-12-04) is outside typical 1–3 day range. Confirm whether workload, vendor availability, or task closure workflow needs adjustment.
+1. **Investigate bulk completion pattern**: All 17 completed tasks closed 2026-09-28 across an 8-week span. Confirm whether this reflects actual work completion or an administrative batch closure. If batch closure, establish a task workflow that logs completion closer to actual work date.
+2. **Meredith O'hara Needham follow-up**: Verify that open tasks (Rent, Cleaning, Purchasing for late Sept/early Oct 2026) reflect current operational state and that no backlog exists.
+3. **Consumables tracker refresh**: Last updated 2025-11-04 by Nate Straus; consider assigning owner

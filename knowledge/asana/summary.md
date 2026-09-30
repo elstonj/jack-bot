@@ -1,90 +1,101 @@
 # Asana Projects Overview
 
-Last scanned: 2026-09-24 02:09
+Last scanned: 2026-09-30 10:09
 
-Total projects scanned: 12
+Total projects scanned: 17
 
 ## Projects
 
-- **Nate Straus's previously assigned tasks** — 59 tasks — [nate_strauss_previously_assigned_tasks.md](nate_strauss_previously_assigned_tasks.md)
-- **Paige Smith's previously assigned tasks** — 11 tasks — [paige_smiths_previously_assigned_tasks.md](paige_smiths_previously_assigned_tasks.md)
-- **[001-12] Customer Support** — 1 tasks — [001-12_customer_support.md](001-12_customer_support.md)
-- **[001-13] Proposals** — 1 tasks — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 2 tasks — [001-13_purchasing.md](001-13_purchasing.md)
-- **[035-1] ADONIS Unmanned Experts** — 1 tasks — [035-1_adonis_unmanned_experts.md](035-1_adonis_unmanned_experts.md)
-- **[200-11] Persistence Demo (NASA)** — 1 tasks — [200-11_persistence_demo_nasa.md](200-11_persistence_demo_nasa.md)
-- **[200-12] NASA AREN '25** — 1 tasks — [200-12_nasa_aren_25.md](200-12_nasa_aren_25.md)
-- **[211-1] NASA Ames MHP for S2** — 0 tasks — [211-1_nasa_ames_mhp_for_s2.md](211-1_nasa_ames_mhp_for_s2.md)
-- **[212-2] NASA S2 & Parts** — 7 tasks — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 9 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
-- **[550-2] Navy STTR: Hazardous Weather** — 7 tasks — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
+- **Flight Testing** — 1 tasks — [flight_testing.md](flight_testing.md)
+- **[001-07] S3 IRAD** — 4 tasks — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-12] Customer Support** — 3 tasks — [001-12_customer_support.md](001-12_customer_support.md)
+- **[001-13] Accounting** — 47 tasks — [001-13_accounting.md](001-13_accounting.md)
+- **[001-13] BD Pipeline** — 2 tasks — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] Facilities Management** — 20 tasks — [001-13_facilities_management.md](001-13_facilities_management.md)
+- **[001-13] General Operations** — 19 tasks — [001-13_general_operations.md](001-13_general_operations.md)
+- **[001-13] HR General ** — 6 tasks — [001-13_hr_general.md](001-13_hr_general.md)
+- **[001-13] Proposals** — 5 tasks — [001-13_proposals.md](001-13_proposals.md)
+- **[001-13] Purchasing** — 3 tasks — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-14] SwiftCore 3.3** — 2 tasks — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
+- **[001-22] Fleet Maintenance** — 1 tasks — [001-22_fleet_maintenance.md](001-22_fleet_maintenance.md)
+- **[031-1] UMES S3** — 2 tasks — [031-1_umes_s3.md](031-1_umes_s3.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 2 tasks — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[350-4] 2024 USGS - Chile (Mexico)** — 3 tasks — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 2 tasks — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[600-1] SOCOM Pope** — 54 tasks — [600-1_socom_pope.md](600-1_socom_pope.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies Project Portfolio Overview
+# Black Swift Technologies — Project Portfolio Overview
 
 ## Portfolio Summary
-- **Active Projects:** 6 (operational + in-progress)
-- **Archived/Completed:** 4
-- **Total Identifiable Value:** ~$1.6M across active contracts
-- **Critical Status:** Multiple overdue items; significant backlog reassignment underway
+
+| Metric | Value |
+|--------|-------|
+| **Total Tracked Project Value** | ~$2.78M |
+| **Active Projects** | 16 |
+| **High-Risk Projects** | 5 |
+| **Overdue/At-Risk Tasks** | 8+ |
 
 ---
 
-## Active Projects
+## Key Active Projects by Value
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| **[550-2] Navy STTR: Hazardous Weather** | Dept. of Navy (ONR) | $146,326 | ✅ Completed Sep 1, 2026 | Final deliverables submitted |
-| **[550-1] Navy SBIR: Magnetometer** | Dept. of Navy (NAVAIR) | *Not specified* | 🟡 Active | TBD |
-| **[212-2] NASA S2 & Parts** | NASA Ames | $89,844 | 🟡 Active | PO 80NSSC25PC031 |
-| **[001-13] Purchasing** | Internal (all projects) | High-volume ops | 🔴 CRITICAL OVERDUE | 2 urgent tasks (Meredith assigned) |
-| **[001-12] Customer Support** | Multi-client (CU-IRISS, ERAU, NREL, NASA, NOAA, etc.) | Pending invoicing | 🟡 Active | S3 invoice pending; NOAA claim pending |
-| **[001-13] Proposals** | Business development | *Minimal* | 🟡 Open | NOAA RFQ (Beck Cotter) |
+| Project | Client | Value | Status |
+|---------|--------|-------|--------|
+| [300-3] 2026 IDIQ (Hurricane) | NOAA | $1,111,000 | Active delivery; Option 2 enacted Aug 2026 |
+| [600-1] SOCOM Pope | SOCOM | $948,993 | Quote sent 9/11/26; **Ready for purchase** — **EXPEDITE PO** |
+| [350-4] USGS Chile/Mexico | USGS Volcano Science | $124,230 | Deployment rescheduled to Fall 2026 (was Apr 2026) |
+| [031-1] UMES S3 | University of Maryland | $81,306 | Contract expired 5/31/26; training/return due 10/12/26 |
+| [550-1] NAVY SBIR Magnetometer | NAVAIR/NAWCAD | TBD | Active development phase |
 
 ---
 
 ## Risk Areas
 
-1. **Staffing Gaps & Backlog**
-   - **Nate Straus transition:** 59 unassigned open tasks (May–Sep 2026); managed by Jack Elston
-   - **Paige Smith reassignment:** 11 unassigned marketing/ops tasks; multiple overdue (Apr–Jun 2026)
+🔴 **CRITICAL**
+- **[600-1] SOCOM Pope**: 54 open tasks, 0 completed; immediate deadlines Sept 30–Oct 9, 2026
+- **[001-13] HR General**: Payroll review overdue (due 10/23/26)
+- **[001-13] Accounting**: Systematic completion lag detected; batch tasks marked complete on single date regardless of due date
+- **[031-1] UMES S3**: Post-contract obligations (training, equipment return) due 10/12/26; PO status unclear
 
-2. **Critical Overdue Items**
-   - Purchasing: Jawstec task severely overdue; S3 regulator intake active
-   - Paige Smith backlog: Several tasks past April–June deadlines
-
-3. **Client Contact Changes**
-   - **[212-2] NASA S2 & Parts:** Isaac Anderson no longer at NASA Ames; route communications to Randy Hobbs/Will Wade
-
-4. **Financial Pending**
-   - S3 customer units invoice (INSTAAR)
-   - NOAA UPS damage claim (no compensation expected)
-   - S0-99 refurbishment quote pending
+⚠️ **HIGH**
+- **[001-13] Purchasing**: S3 regulator intake with imminent fulfillment deadlines
+- **[001-13] Facilities Management**: Bulk completion lag flagged
+- **[001-13] BD Pipeline**: 16+ month sales cycle (Oklahoma State); multiple proposals with 0% confidence ratings
+- **[001-07] S3 IRAD**: Phase 4 (Arctic qualification) in progress; concurrent sprint deadlines Sept–Oct 2026
 
 ---
 
 ## Team Allocation Patterns
 
-- **Meredith O'hara Needham:** Heavy operational load (Purchasing critical items, multiple project roles)
-- **Jack Elston:** Managing Nate Straus backlog reassignment (59 tasks)
-- **Beck Cotter:** Proposals/BD (NOAA RFQ)
-- **Distribution gaps:** 11 marketing/ops tasks unassigned (Paige Smith transition); requires urgent reallocation
+- **Dan Prendergast**: Lead on [600-1] SOCOM Pope, [031-1] UMES training/support, fleet maintenance oversight
+- **Meredith O'hara Needham**: Solo owner—Accounting, HR, General Operations (significant bottleneck)
+- **Beck Cotter**: Proposals management (5 open proposals)
+- **Spencer Hoehl**: Flight testing, fleet maintenance
+- **Jack Elston, Maciej Stachura, Ethan Domagala**: Multi-project contributors
+
+**⚠️ Concentration Risk**: Single-person ownership of critical finance/HR functions.
 
 ---
 
-## Completed/Archived Projects
+## Upcoming Deadlines (Next 60 Days)
 
-- **[035-1] ADONIS Unmanned Experts** (Apr 10, 2026) — $190K BST portion; fully delivered
-- **[200-11] Persistence Demo (NASA)** (Nov 24, 2025) — $74,428; all payments received
-- **[200-12] NASA AREN '25** (Aug 2025) — $20,576; shut down ahead of schedule
-- **[211-1] NASA Ames MHP for S2** (Mar 27, 2025) — $3,470; completed
+| Date | Project | Deliverable | Owner |
+|------|---------|-------------|-------|
+| 10/02–10/30/26 | [001-13] Accounting | Monthly close tasks | Meredith O'hara Needham |
+| 10/12/26 | [031-1] UMES S3 | Training & equipment return | Dan Prendergast |
+| 10/14/26 | [001-13] Proposals | DIU Challenge | Beck Cotter |
+| 10/23/26 | [001-13] HR General | Payroll review (OVERDUE) | Meredith O'hara Needham |
+| 11/06/26 | [001-13] Proposals | Arctic Edge '28 | Beck Cotter |
+| Sept 30–Oct 9/26 | [600-1] SOCOM Pope | Prototype design & site visit | Dan Prendergast |
 
 ---
 
 ## Immediate Action Items
 
-1. **Resolve Purchasing critical overdue items** (Meredith)
-2. **Reassign 70 backlog tasks** (Nate Straus + Paige Smith) across available team members
-3. **Clarify NASA S2 & Parts contact protocol** with Randy Hobbs/Will Wade
-4. **Follow up on pending invoices & claims** (S3 INSTAAR, NOAA refurbishment, UPS damage)
+1. **Confirm SOCOM Pope PO status** — $949K quote ready; expedite procurement
+2. **Escalate [001-13] HR/Accounting delays** — Implement workload redistribution or staffing support for Meredith O'hara Needham
+3. **[031-1] UMES S3** — Confirm Oct 12 training & return schedule with Dan Prendergast
+4. **[600-1] SOCOM Pope** — Resource 54 open tasks; verify team capacity for Sept 30–Oct 9 milestones
+5. **[300-3] NOAA Hurricane** — Monitor Option 2 integration; track 34 additional S0 delivery pipeline

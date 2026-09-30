@@ -30,30 +30,30 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 89232.5,
+        "amount": 93581.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-24"
+        "last_updated": "2026-09-30"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-24"
+        "last_updated": "2026-09-30"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 2495.21,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-24"
+        "last_updated": "2026-09-30"
       },
-      "total": 92291.71,
+      "total": 99135.67,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 150248.29,
+    "remaining": 143404.33,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-24T09:08:44Z"
+    "last_reconciled": "2026-09-30T17:18:01Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -66,12 +66,6 @@
     },
     {
       "name": "Jack Elston",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Meredith O'hara Needham",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -92,6 +86,6 @@
       "text": "From Joshua Fromm: That's me, navy mag"
     }
   ],
-  "last_full_rebuild": "2026-09-24T09:08:44Z",
+  "last_full_rebuild": "2026-09-30T17:18:01Z",
   "last_incremental_update": null
 }

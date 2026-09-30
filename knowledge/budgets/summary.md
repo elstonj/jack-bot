@@ -4,59 +4,55 @@
 
 | Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
 |---|---|---|---|---|---|
-| **200-13** | NASA Ames Research Center | $80,972.00 | NASA Phase III R&D | Feb 20, 2025 – Aug 20, 2025 | ⚠️ Labor overrun |
-| **550-1** | U.S. Navy (DON) | *Phase II proposal under review* | SBIR Phase I (Base) with Phase II Option | Jan 2027 – Jun 2029 (Base) + Jul 2029 – Jun 2030 (Option) | Proposal stage |
+| **200-13** | NASA Ames Research Center | $80,972.00 | NASA Phase III R&D | Feb 20, 2025 – Aug 20, 2025 | ⚠️ Labor overruns |
+| **550-1** | United States Navy (DoN) | TBD (Phase II proposal) | SBIR Phase I (Base) + Phase II Option | Jan 2027 – Jun 2030 (Base); Jul 2029 – Jun 2030 (Option I) | Proposal stage |
 
 ---
 
 ## By Funding Source
 
-| Agency/Client | Total Funded | Projects | Notes |
-|---|---|---|---|
-| **NASA Ames Research Center** | $80,972.00 | 200-13 | Active Phase III R&D |
-| **U.S. Navy (DON)** | *TBD* | 550-1 | SBIR Phase I awarded; Phase II proposal pending |
+### Federal Agencies
+- **NASA Ames Research Center:** $80,972.00 (Project 200-13)
+- **United States Navy (DoN):** Phase II proposal pending (Project 550-1)
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project Count | Total Value | Notes |
-|---|---|---|---|
-| **NASA Phase III R&D** | 1 | $80,972.00 | Active; CRATER campaign (Costa Rica airborne research) |
-| **SBIR Phase I (Navy)** | 1 | *Base value TBD* | Magnetometer project; Phase II option proposed |
+### NASA Phase III R&D
+- **Project 200-13:** $80,972.00 (CRATER campaign)
+
+### SBIR Phase I → Phase II
+- **Project 550-1:** Navy Magnetometer (Base Phase II proposal under review)
 
 ---
 
 ## Financial Health Indicators
 
-### ⚠️ **Project 200-13 — LABOR OVERRUN**
-- **PI (J. Elston):** 43.63 hours over budget (143.63 actual vs. 100 estimated)
-  - Budgeted: 12,742.60 | Actual: ~18,324.82 (preliminary)
-- **Engineer (D. Prendergast):** 59.5 hours over budget (159.5 actual vs. 100 estimated)
-  - Budgeted: 5,659.00 | Actual: ~9,027.11 (preliminary)
-- **Status:** Both key labor categories significantly exceeded estimates; total labor impact requires investigation
-- **Timeline:** 6-month contract; currently active through August 20, 2025
+### ⚠️ **Project 200-13 — Labor Budget Concerns**
+- **J. Elston (PI):** 43.63 hours over budget (143.63 actual vs. 100 estimated)
+  - Overage impact: ~$5,569 at $127.42/hr loaded rate
+- **D. Prendergast (Travel Engineer):** 59.5 hours over budget (159.5 actual vs. 100 estimated)
+  - Overage impact: ~$3,367 at $56.59/hr loaded rate
+- **Combined labor overruns: ~103 excess hours (~$8,936 exposure)**
+- **Contract ends:** August 20, 2025 (current overruns may exceed total contract value if not managed)
+- **Action needed:** Verify actual invoiced amounts and determine if overages are absorbed within contingency or require client approval
 
-### 📋 **Project 550-1 — PROPOSAL STAGE**
-- **Phase II Proposed Base Budget (30 months, 2027–2029):**
-  - Direct Labor: $207,368
-  - Fringe Benefits (29.28%): $60,717
-  - Labor Overhead (46.67%): $125,115
-  - *Subcontract details incomplete in available data*
-- **Status:** Awaiting Navy approval; no active spend at this time
-- **Future Milestone:** If approved, Phase II begins January 2027
+### Project 550-1 — Early Stage
+- Phase II proposal under development; contract period doesn't begin until January 2027
+- Base Period budget structure identified ($207,368 direct labor estimated for 30-month base)
+- No immediate financial concerns
 
 ---
 
 ## QuickBooks Integration Notes
 
-- **Project 200-13:** Timesheet data available; labor actuals tracked against budget (overruns documented). Reconciliation with QB recommended given budget variance.
-- **Project 550-1:** Proposal-stage project; no current QB transactions expected. Budget data sourced from DON Phase II Cost Proposal document.
+| Project | QB Status | Notes |
+|---|---|---|
+| **200-13** | Not referenced | Budget and actuals appear in Drive docs; recommend cross-check with QB to verify invoicing against labor overruns |
+| **550-1** | Not referenced | Proposal-stage; no invoice activity expected until contract award (2027) |
 
 ---
 
 ## Summary
-
-**2 Projects Tracked:**
-- **1 Active** (200-13): $80,972 NASA contract with urgent labor cost overrun requiring corrective action
-- **1 Pending** (550-1): Navy SBIR with Phase II proposal awaiting approval; projected multi-year commitment ~$400K+ (Base + fringe + overhead)
+**Active Spend Risk:** Project 200-13 shows significant labor overruns (~$8,936 estimated exposure) against an $80,972 total contract. Immediate reconciliation with QB and client notification recommended. Project 550-1 is in proposal phase with no current spend risk.

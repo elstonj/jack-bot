@@ -1,29 +1,29 @@
 # Beck Cotter — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 1,006.7 hours (was 998.7h; +8.0h)
-- **Primary projects:** General Operations (616.8h), Proposals (304.4h), Sick Leave (70.5h), PTO (32.0h)
-- **Time period covered:** Ongoing tracking with sustained full-capacity return-to-work; phased recovery fully stabilized
+- **Total hours tracked:** 1,038.7 hours (was 1,006.7h; +32.0h)
+- **Primary projects:** General Operations (647.8h), Proposals (305.4h), Sick Leave (70.5h), PTO (32.0h)
+- **Time period covered:** Ongoing tracking with sustained full-capacity return-to-work; operational focus reasserting dominance
 
 ## Project Breakdown
 | Project | Hours | Percentage | Client |
 |---------|-------|-----------|--------|
-| [001-13] General Operations | 616.8 | 61.2% | Overhead |
-| [001-13] Proposals | 304.4 | 30.2% | [001] IRAD |
-| [001-21] Sick Leave | 70.5 | 7.0% | — |
-| [001-20] PTO | 32.0 | 3.2% | — |
+| [001-13] General Operations | 647.8 | 62.4% | Overhead |
+| [001-13] Proposals | 305.4 | 29.4% | [001] IRAD |
+| [001-21] Sick Leave | 70.5 | 6.8% | — |
+| [001-20] PTO | 32.0 | 3.1% | — |
 
 ## Recent Activity
-- **Latest entry:** Single 8.0h daily block; [001-13] General Operations tagged "NOAA"
-- **Work engagement status:** Sustained full-capacity contribution; 8.0h allocation reflects shift back to operational baseline
-- **Project focus:** General Operations 8.0h (100.0% of this batch)—NOAA-related work now occurring within operational context
-- **Notable detail:** NOAA reference appears in General Operations for first time; suggests operational/overhead work supporting NOAA pursuit rather than pure proposal development
+- **Latest batch:** 32.0h allocation (6 entries over ~4-6 working days)
+- **General Operations focus:** 31.0h (96.9% of this batch)—four entries split between NOAA-tagged work (2×8.0h) and untagged operational work (2×7.5h)
+- **Proposal activity minimal:** 1.0h total (3.1% of batch)—two brief 0.5h NOAA-tagged entries; indicates proposals deprioritized relative to operations
+- **Work pattern:** Mixed tagging—NOAA appearing on highest-effort entries (16.0h of 31.0h General Operations), while 15.0h General Operations unmarked
 
 ## Patterns
-- **Focus shift detected:** After three consecutive full-day proposal allocations to NOAA IDIQ opportunity, latest entry returns to General Operations while maintaining NOAA tag—indicates possible transition from dedicated proposal development to operational support phase (pre-contract planning, capability documentation, or administrative coordination)
-- **General Operations resumption:** General Operations increased from 608.8h to 616.8h (+8.0h); now represents 61.2% of tracked time, recovering dominance in allocation
-- **Proposals stable:** Proposals remains at 304.4h (30.2% of total); no additional proposal hours in this batch despite NOAA focus continuing
-- **Consistent time entry pattern:** Single full 8.0h daily block; maintains clean, uninterrupted daily logging
-- **Return-to-work confirmed:** Twenty-four consecutive batches with zero medical leave; full operational capacity sustained without medical disruption
-- **Staffing utilization:** Beck functioning as critical dual-track resource with 61.2% operational overhead and 30.2% billable proposal contribution; rebalancing toward operational baseline from proposal-heavy period
-- **NOAA opportunity evolution:** NOAA tagging now present in both Proposals and General Operations categories; suggests either diversified work streams supporting single opportunity or transition from proposal-development to opportunity-support phase
+- **Operational rebalancing confirmed:** General Operations increased from 616.8h to 647.8h (+31.0h); now represents 62.4% of total tracked time, solidifying shift away from proposal-heavy allocation
+- **Proposals stabilizing at lower level:** Proposals increased minimally from 304.4h to 305.4h (+1.0h); represents sustained 29.4% allocation with reduced active engagement
+- **NOAA work now purely operational:** NOAA tag appears only in General Operations (16.0h) and minimal Proposals allocation (1.0h); shift from dedicated proposal development to operational/overhead support phase
+- **Untagged operational work:** First appearance of substantial untagged General Operations entries (15.0h); suggests routine operational baseline work without specific project callout
+- **Consistent full-capacity utilization:** Twenty-eight consecutive batches with zero medical/sick leave; sustained 8.0h and 7.5h daily blocks indicate stable, uninterrupted staffing availability
+- **Dual-track resource evolution:** Beck now functioning as 62.4% operational overhead + 29.4% billable proposal support; operational baseline restored with NOAA work integrated into overhead rather than proposal track
+- **Proposal effort reduced:** Latest batch shows only 1.0h proposal work vs. prior pattern of sustained daily proposal allocation; suggests NOAA IDIQ proposal phase complete or paused, with capability/readiness work shifted to operational budget

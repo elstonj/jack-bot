@@ -4,10 +4,10 @@
 - **Client:** Overhead
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 19.8 hours (cumulative)
+- **Total hours tracked:** 20.6 hours (cumulative)
 
 ## Team Allocation
-- **Jack Elston:** 13.0 hours
+- **Jack Elston:** 13.8 hours
 - **Ethan Domagala:** 4.8 hours
 - **Dan:** 2.0 hours
 
@@ -33,17 +33,17 @@
 - Creative Alignment: Foundational Report Review (1.0h, Jack Elston)
 
 ### Current Phase (Active Interview Cycle)
-- **Black Swift Technologies TPM Interview: Chad McFarland** (1.0h, Jack Elston) — *latest*
-- **Black Swift Technologies TPM Interview: Paige Beert** (1.0h, Jack Elston) — *latest*
-- **Onsite Interview for Mfg / Production Eng with Black Swift Technologies / KrateoSky: Josh Waldman** (1.0h, Jack Elston with Maciej) — *latest*
-- **Financials Update - Accordion Based** (1.0h, Jack Elston) — *latest*
-- **Dan - Unspecified work** (2.0h, Dan) — *latest*
+- Black Swift Technologies TPM Interview: Chad McFarland (1.0h, Jack Elston)
+- Black Swift Technologies TPM Interview: Paige Beert (1.0h, Jack Elston)
+- Onsite Interview for Mfg / Production Eng with Black Swift Technologies / KrateoSky: Josh Waldman (1.0h, Jack Elston with Maciej)
+- Financials Update - Accordion Based (1.0h, Jack Elston)
+- Dan - Unspecified work (2.0h, Dan)
+- **Black Swift Technologies Interview: Wyatt Bishop ↔ Jack Elston (0.8h, Jack Elston) — *latest***
 
 ## Insights
-- **Recruiting momentum accelerating:** Initial recruiting kickoffs have evolved into active interview cycles. TPM and Manufacturing/Production Engineering positions now in candidate evaluation phase.
-- **Jack Elston leading execution:** Jack's hours increasing with direct candidate engagement (interviews with Chad McFarland, Paige Beert, Josh Waldman).
-- **New team member engaged:** Dan now contributing 2.0 hours (purpose unspecified in tracking data—may warrant clarification).
-- **Cross-functional interview process:** Manufacturing/Production Engineering candidate (Josh Waldman) interviewed with both Jack and Maciej, indicating collaborative evaluation.
-- **Financial tracking alongside HR:** Financials update suggests integration of recruiting/HR budget monitoring.
-- **Sustained culture and operations work:** Ethan Domagala continuing parallel culture alignment and weekly governance activities.
+- **Recruiting pipeline expanding:** New candidate interview with Wyatt Bishop added to active cycle. Interview portfolio now includes TPM, Manufacturing/Production Engineering, and additional candidate (Bishop role unspecified).
+- **Jack Elston sustaining high engagement:** Continues leading candidate evaluation with consistent interview scheduling.
+- **Sustained pace:** 0.8 hours in latest data batch reflects ongoing, regular interview activity.
+- **Cross-functional interview process continues:** Manufacturing/Production Engineering candidate evaluated collaboratively (Jack + Maciej model established).
+- **Ethan Domagala and Dan maintaining parallel workstreams:** Culture and operations work steady; Dan's contributions remain unspecified.
 - **No billable hours:** Remains internal overhead.

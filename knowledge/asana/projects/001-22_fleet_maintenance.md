@@ -13,29 +13,32 @@
 None defined.
 
 ## Task Summary
-- **Total tasks:** 1 open, 0 completed (as of current pull)
+- **Total tasks:** 1 open, 0 completed
 - **Tasks by assignee:**
-  - Spencer Hoehl: 1 open task
+  - Spencer Hoehl: 1 open task (0% completion rate)
 - **Open tasks:**
-  1. **Repairing S1-VTOL** (S10020, Spencer Hoehl, no due date)
+  1. **S10020 (VTOL) right wing motor pivot** (Spencer Hoehl, no due date)
      - Work Type: Fix
-     - Aircraft Status: Down (Grounded)
+     - Aircraft Status: Up (Operational)
      - QC Required: Yes
-     - Maintenance Type: Modification
-     - Priority: Medium
+     - Maintenance Type: Preventive Maintenance
+     - Priority: Low
      - Hardware or Software: Hardware
-     - Description: Repair S1-VTOL with new AP and PSNS. Replace MHP.
+     - VTOL Only: Yes
+     - Description: Right wing motor pivot oscillates during manual and joystick hover. Possible wing stiffness issue or worn servo. Investigate before committing to repair.
 
 ## Recent Activity
-- **Aircraft scope update:** S10020 (VTOL) now appears in active maintenance tracking
-- **Previous tasks cleared:** ByLight Mustang fuselage fix and mechanical trim resetting tasks are no longer visible in open task list—either completed, closed, or moved externally
-- **Current focus:** S1-VTOL repair assigned to Spencer Hoehl with grounded aircraft status requiring QC upon completion
+- **Task change detected:** Previous S10020 repair task (AP, PSNS, MHP replacement) has been replaced with new investigation task for right wing motor pivot oscillation
+- **Aircraft status update:** S10020 now shows as "Up (Operational)" rather than grounded
+- **Priority shift:** Current work is Low priority preventive maintenance investigation rather than urgent repair
 
 ## Notes & Context
 - Project structure uses aircraft tail numbers as section headers (List view)
-- Custom fields in use: Work Type (Fix/New Feature), Aircraft Status (Up/Down), QC Required (Yes/No), Maintenance Type (Modification), Priority level, Hardware or Software designation
-- **S10020 (VTOL):** Aircraft currently grounded pending repair completion
-  - Work involves AP (autopilot), PSNS (Pneumatic Stall Notification System), and MHP (Main Hydraulic Pump) replacement
-  - QC required before return to service
-- Open task lacks due date—recommend scheduling with Dan Prendergast
-- No previously completed tasks currently visible in project view
+- Custom fields in use: Work Type (Fix/New Feature), Aircraft Status (Up/Down), QC Required (Yes/No), Maintenance Type (Preventive Maintenance/Modification), Priority level, Hardware or Software designation, VTOL Only flag
+- **S10020 (VTOL):** Aircraft operational but experiencing right wing motor pivot oscillation during hover
+  - Issue manifests in both manual and joystick-controlled hover modes
+  - Root cause investigation needed to determine whether issue is structural (wing stiffness) or mechanical (servo wear)
+  - QC required upon completion of investigation/repair
+  - Tagged as VTOL-specific maintenance
+- Open task lacks due date—recommend scheduling investigation timeline with Dan Prendergast
+- No previously completed tasks visible in project

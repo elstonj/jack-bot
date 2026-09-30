@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,611,157.08
+- **Total Expenses (Payments):** $3,611,549.08
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,611,156.08
-- **Date Range:** 2024-04-05 to 2026-09-22 (28 months, 18 days)
+- **Net Position:** -$3,611,548.08
+- **Date Range:** 2024-04-05 to 2026-09-30 (28 months, 26 days)
 
 ---
 
@@ -28,66 +28,67 @@
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
-| **Subcontractors** | ~$400,000–513,000 | ~29 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
+| **Subcontractors** | ~$400,500–513,375 | ~30 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), **NOAA ($375.00)**, IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
 | **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$973.82 | 10 | QuickBooks Payments fees (cumulative: $870.82), Pinnacol Assurance insurance ($103.00) |
+| **Indirect Costs / G&A** | ~$991.51 | 11 | QuickBooks Payments fees (cumulative: **$888.51**), Pinnacol Assurance insurance ($103.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other / Unallowable** | ~$0.01 | 1 | Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs] |
-| **TOTAL** | **$3,611,157.08** | **110** | — |
+| **TOTAL** | **$3,611,549.08** | **112** | — |
 
 ---
 
 ## Expenses by Project/Class (Primary Grouping)
 
-| Project Code | Project Name | Total Paid | # Payments |
-|--------------|--------------|-----------|-----------|
-| (400-5) | SMM Phase II 22.4D | $949,725.10 | 7 |
-| [301-3] | S0 Hurricane Phase II 2025 | $935,473.80 | 11 |
-| **[300-3]** | **2026 IDIQ** | **$182,000.00** | **5** |
-| [550-2] | **Navy STTR Hazardous Weather** | **$235,517.00** | **6** ⚠️ |
-| [550-1] | Navy SBIR Magnetometer | $213,000.00 | 4 |
-| [043-2] | By Light Mustang | $450,000.00 | 6 |
-| [200-14] | Autonomy | $156,500.00 | 4 |
-| [200-13] | CRATER (Costa Rica Volcanoes) | $80,620.37 | 4 |
-| [200-11] | NASA Persistence Demo | $109,428.00 | 4 |
-| [200-12] | AREN 2025 | $117,701.50 | 1 |
-| [200-10] | AREN 2024 | $92,500.00 | 1 |
-| [200-7] | Volcano CCRPP | $360,982.00 | 5 |
-| (301-2) | 2020 WPO Hurricane Phase II | $168,462.58 | 2 |
-| (350-4) | 2024 USGS Mexico Volcano | $124,230.00 | 1 |
-| (035-1) | Adonis | $110,500.00 | 5 |
-| (031-1) | University of Maryland Eastern Shore | $102,181.00 | 2 |
-| [039-1] | Refurbished S2 Oklahoma State | $57,814.00 | 1 |
-| [018-1] | Murphy's Pond CH4 | $62,084.68 | 3 |
-| [043-1] | By Light Prototype Build | $5,100.15 | 3 |
-| [032-1] | ND Air Deployed S0s | $38,000.00 | 1 |
-| [032-2] | Display Model E2 | $4,500.00 | 1 |
-| [452-1] | Hesselius E2 | $15,000.00 | 1 |
-| (010-1) | Methane Emission Detection | $3,086.99 | 2 |
-| [212] | Isaac Anderson | $2,900.00 | 1 |
-| [209] | Mark Motter | $5,435.00 | 1 |
-| [211-1] | NASA Ames MHP | $3,470.00 | 1 |
-| [024] | Rainmaker Technology Corporation | $6,834.23 | 3 |
-| [302] | Temple Lee | $22,142.00 | 2 |
-| [012] | Embry-Riddle Aeronautical University | $23,865.99 | 4 |
-| [038] | University of Maryland | $1,488.00 | 2 |
-| [034] | University of Virginia | $492.50 | 1 |
-| [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 |
-| (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 |
-| (unclassified) | Phase1 Aviation | $6,105.00 | 1 |
-| (unclassified) | Krateo Sky | $10,860.48 | 1 |
-| (unclassified) | Toyota Research Institute | $750.00 | 1 |
-| (unclassified) | Nestor Rivera | $500.00 | 2 |
-| (unclassified) | NOAA UASD | $4,580.00 | 1 |
-| (unclassified) | IRISS, CU Boulder | $664.98 | 1 |
-| (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 |
-| (unclassified) | Pinnacol Assurance | $103.00 | 1 |
-| (unclassified) | Jack Elston – v | $0.01 | 1 |
-| (unclassified) | QuickBooks Payments Fees | $870.82 | 8 |
-| **TOTAL** | | **$3,611,157.08** | **110** |
+| Project Code | Project Name | Total Paid | # Payments | Notes |
+|--------------|--------------|-----------|-----------|-------|
+| (400-5) | SMM Phase II 22.4D | $949,725.10 | 7 | — |
+| [301-3] | S0 Hurricane Phase II 2025 | $935,473.80 | 11 | — |
+| **[300-3]** | **2026 IDIQ** | **$182,000.00** | **5** | — |
+| [550-2] | **Navy STTR Hazardous Weather** | **$235,517.00** | **6** | — |
+| [550-1] | Navy SBIR Magnetometer | $213,000.00 | 4 | — |
+| [043-2] | By Light Mustang | $450,000.00 | 6 | — |
+| [200-14] | Autonomy | $156,500.00 | 4 | — |
+| [200-13] | CRATER (Costa Rica Volcanoes) | $80,620.37 | 4 | — |
+| [200-11] | NASA Persistence Demo | $109,428.00 | 4 | — |
+| [200-12] | AREN 2025 | $117,701.50 | 1 | — |
+| [200-10] | AREN 2024 | $92,500.00 | 1 | — |
+| [200-7] | Volcano CCRPP | $360,982.00 | 5 | — |
+| (301-2) | 2020 WPO Hurricane Phase II | $168,462.58 | 2 | — |
+| (350-4) | 2024 USGS Mexico Volcano | $124,230.00 | 1 | — |
+| (035-1) | Adonis | $110,500.00 | 5 | — |
+| (031-1) | University of Maryland Eastern Shore | $102,181.00 | 2 | — |
+| [039-1] | Refurbished S2 Oklahoma State | $57,814.00 | 1 | — |
+| [018-1] | Murphy's Pond CH4 | $62,084.68 | 3 | — |
+| [043-1] | By Light Prototype Build | $5,100.15 | 3 | — |
+| [032-1] | ND Air Deployed S0s | $38,000.00 | 1 | — |
+| [032-2] | Display Model E2 | $4,500.00 | 1 | — |
+| [452-1] | Hesselius E2 | $15,000.00 | 1 | — |
+| (010-1) | Methane Emission Detection | $3,086.99 | 2 | — |
+| [212] | Isaac Anderson | $2,900.00 | 1 | — |
+| [209] | Mark Motter | $5,435.00 | 1 | — |
+| [211-1] | NASA Ames MHP | $3,470.00 | 1 | — |
+| [024] | Rainmaker Technology Corporation | $6,834.23 | 3 | — |
+| [302] | Temple Lee | $22,142.00 | 2 | — |
+| [012] | Embry-Riddle Aeronautical University | $23,865.99 | 4 | — |
+| [038] | University of Maryland | $1,488.00 | 2 | — |
+| [034] | University of Virginia | $492.50 | 1 | — |
+| [451] | INSTAAR Stable Isotope Lab, CU Boulder | $13,853.10 | 1 | — |
+| (unclassified) | Prof. Fu-Kuo Change | $5,000.00 | 1 | — |
+| (unclassified) | Phase1 Aviation | $6,105.00 | 1 | — |
+| (unclassified) | Krateo Sky | $10,860.48 | 1 | — |
+| (unclassified) | Toyota Research Institute | $750.00 | 1 | — |
+| (unclassified) | Nestor Rivera | $500.00 | 2 | — |
+| (unclassified) | NOAA UASD | $4,580.00 | 1 | — |
+| (unclassified) | **NOAA** | **$375.00** | **1** | **NEW 2026-09-25** |
+| (unclassified) | IRISS, CU Boulder | $664.98 | 1 | — |
+| (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 | — |
+| (unclassified) | Pinnacol Assurance | $103.00 | 1 | — |
+| (unclassified) | Jack Elston – v | $0.01 | 1 | — |
+| (unclassified) | QuickBooks Payments Fees | **$888.51** | **9** | **+$17.69 on 2026-09-25** |
+| **TOTAL** | | **$3,611,549.08** | **112** | — |
 
 ---
 
@@ -113,15 +114,4 @@
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
 | 2025-09 | $112,000.00+ | *[Previous summary]* | — |
-| 2026-08 | $0.00 | — | No QB transactions recorded |
-| **2026-09** | **$88,946.00** | **2026 IDIQ ($74,500), Navy STTR ($14,446)** | **NEW: Navy STTR payment ($14,446.00) on 2026-09-17** |
-
----
-
-## Notable Transactions
-
-### Recent Activity (September 2026)
-
-**Navy STTR Hazardous Weather – Additional Funding:**
-- **2026-09-17 | $14,446.00** → [550-2] Navy STTR Hazardous Weather
-  - *Brings [550-2] total to
+| 2026-08 | $0.00 | —

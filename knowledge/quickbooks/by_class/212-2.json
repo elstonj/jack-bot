@@ -4,14 +4,14 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2026-09-22",
-    "end": "2026-09-23"
+    "start": "2026-09-24",
+    "end": "2026-09-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2670.16,
+    "expenses": 89.11,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 2670.16
+      "DIRECT COSTS:DC-Direct Material Purchases": 89.11
     }
   },
   "invoices": [],
@@ -19,19 +19,37 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-22",
+      "date": "2026-09-28",
       "doc_number": "",
-      "total": 2670.16,
-      "attributed": 2670.16,
+      "total": 26.7,
+      "attributed": 26.7,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "J. Fromm confirmed project.",
+      "memo": "No Asana request - J. Fromm made purchase. Project is listed underneath purchase.",
       "lines": [
         {
-          "amount": 2670.16,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "S2 Tail set; S2 RH Wing; S2 LH Wing"
+          "amount": 26.7,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Male-Female Hex Thread"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-25",
+      "doc_number": "0925JELSTON",
+      "total": 62.41,
+      "attributed": 62.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase. Project is listed underneath purchase.",
+      "lines": [
+        {
+          "amount": 62.41,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Stainless Steel Pan Head Torx Plus Screws; Male-Female Threaded Hex Standoff; Square-Profile High-Temperature Silicone Cord Stock"
         }
       ]
     }

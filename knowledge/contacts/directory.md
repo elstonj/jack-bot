@@ -10,6 +10,16 @@
   - Email: stachura@blackswifttech.com
   - Phone: 720-335-7558
 
+## Finance & Administration
+
+- **Lynn Regnier** — Controller
+  - Email: lynn.regnier@blackswifttech.com
+  - Phone: 413-841-9404
+
+- **Meredith Needham** — Office Admin
+  - Email: meredith.needham@blackswifttech.com
+  - Phone: 703-209-1535
+
 ## Engineering & Technical
 
 ### Software Engineering
@@ -33,6 +43,11 @@
   - Email: joshua.waldman@blackswifttech.com
   - Phone: 301-357-0345
 
+### Quality Assurance & Testing
+- **Ali Sulehria** — Test Engineer
+  - Email: ali.sulehria@blackswifttech.com
+  - Phone: 720-323-5756
+
 ### Interns
 - **Ethan Domagala** — Intern
   - Email: ethan.domagala@blackswifttech.com
@@ -41,12 +56,6 @@
 - **Spencer Hoehl** — Intern-Engineering
   - Email: spencer.hoehl@blackswifttech.com
   - Phone: 217-556-4060
-
-## Operations & Administration
-
-- **Meredith Needham** — Office Admin
-  - Email: meredith.needham@blackswifttech.com
-  - Phone: 703-209-1535
 
 ## Communications & Marketing
 
@@ -95,33 +104,38 @@
 
 ## Summary
 
-**Total Headcount:** 16 active employees + 5 service accounts (21 total roster entries)
+**Total Headcount:** 17 active employees + 5 service accounts (22 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
 - Maciej Stachura (CTO)
+- Lynn Regnier (Controller)
 
 **Team Structure:**
 - **Leadership:** 2 people
-- **Engineering & Technical:** 7 people
+- **Finance & Administration:** 2 people
+- **Engineering & Technical:** 8 people
   - Software Engineering: 3 engineers
   - Mechanical & Manufacturing Engineering: 2 engineers
+  - Quality Assurance & Testing: 1 engineer
   - Interns: 2 interns
-- **Operations & Administration:** 1 person
 - **Communications & Marketing:** 1 person
 - **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
 - **Service Accounts & Emergency Access:** 5
 
 **Data Integrity Notes:**
-- ✅ **VERIFIED:** All 16 active employees present and consistent with previous snapshot
-- ✅ **VERIFIED:** All 5 service accounts confirmed in new data
-- ✅ **CONSISTENT:** Phone numbers standardized across all entries (all now in XXX-XXX-XXXX format)
-- ✅ **NO ROSTER CHANGES:** Complete alignment between previous snapshot and new data
-- Five team members remain unclassified — recommend clarification of roles and departments
+- ✅ **NEW HIRE:** Lynn Regnier (Controller) — added to Finance & Administration
+- ✅ **RECLASSIFICATION:** Ali Sulehria (Test Engineer) — newly identified, added to QA/Testing
+- ✅ **VERIFIED:** All 16 previous active employees retained with consistent data
+- ✅ **VERIFIED:** All 5 service accounts confirmed
+- ✅ **CONSISTENT:** Phone numbers standardized across all entries (XXX-XXX-XXXX format)
+- Five team members remain unclassified
 
 **Observations:**
-- Engineering-focused organization: 7 technical staff (44% of active headcount)
-- Manufacturing capability: Joshua Waldman (Manufacturing Production Engineer) supports production operations
-- Active intern program maintained with 2 positions filled
+- Growing organization: +2 new identifiable roles (Finance controller added, QA/Test engineer identified)
+- Engineering-heavy: 8 technical staff (47% of active headcount)
+- Finance function now visible with dedicated Controller role
+- Manufacturing capability maintained with dedicated Production Engineer
+- Active intern program: 2 positions filled
 - Service account infrastructure stable at 5 accounts
-- Directory data remains stable and consistent across snapshots
+- Five team members still lack clear role/department assignment — recommend immediate clarification
