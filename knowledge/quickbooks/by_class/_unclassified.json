@@ -1,361 +1,41 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "",
-    "(900) Krateo Sky- Industrial Plan:[925-03] New Office Space Leasing",
-    "[300] NOAA",
-    "[925-03] New Office Space Leasing"
+    ""
   ],
   "period": {
-    "start": "2026-09-24",
-    "end": "2026-09-30"
+    "start": "2026-09-30",
+    "end": "2026-10-01"
   },
   "totals": {
-    "revenue": 375.0,
-    "expenses": 135380.78,
+    "revenue": 0.0,
+    "expenses": 696.12,
     "by_category": {
-      "FRINGE:Employee Reimbursement": 5254596.23,
-      "Payroll clearing account": 123889.57,
-      "Indirect Cost:Travel Expenses:Lodging": 7198.87,
-      "FACILITIES:FA-Facility Repairs & Maintenance": 3290.0,
-      "FACILITIES:FA-Rent Expense": 2750.76,
-      "Indirect Cost:Software Expenses": 267.0,
-      "Indirect Cost:Supplies:Shop SuppliesX": 80.64,
-      "FACILITIES:FA-Office Supplies": 71.94,
-      "FACILITIES:FA-Software Expenses": 20.77,
-      "QuickBooks Payments Fees": 17.69,
-      "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": -386130.5,
-      "DIRECT COSTS:DC-Direct Travel": -4868465.73
+      "Indirect Cost:Payroll Expenses:Payroll Tax:Healthcare Expenses": 696.12
     }
   },
   "invoices": [],
   "bills": [
     {
       "type": "Bill",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 9949.63,
-      "attributed": 9949.630000000001,
-      "vendor": "W. W. Reynolds Companies",
+      "date": "2026-09-30",
+      "doc_number": "10012026",
+      "total": 696.12,
+      "attributed": 696.12,
+      "vendor": "Nathaniel Straus",
       "customer": "",
-      "balance": 0.0,
-      "memo": "Lease statement is incorrect. They continue to charge us for the previous months' rent. They have been notified. No idea what charge for $10,175 is for. Reached out but will not pay the $10k until I receive confirmation.",
+      "balance": 696.12,
+      "memo": "",
       "lines": [
         {
-          "amount": 2750.76,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "October 2026 rent fees no rent (for suite C)"
-        },
-        {
-          "amount": 7198.87,
-          "account": "Indirect Cost:Travel Expenses:Lodging",
-          "description": "Ocotober 2026  rent for Suite D"
+          "amount": 696.12,
+          "account": "Indirect Cost:Payroll Expenses:Payroll Tax:Healthcare Expenses",
+          "description": "COBRA payment"
         }
       ]
     }
   ],
-  "purchases": [
-    {
-      "type": "Purchase",
-      "date": "2026-09-28",
-      "doc_number": "0404",
-      "total": 3290.0,
-      "attributed": 3290.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Wire Transfer",
-      "lines": [
-        {
-          "amount": 3290.0,
-          "account": "FACILITIES:FA-Facility Repairs & Maintenance",
-          "description": "Installation of door between conf room and new space"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 54.53,
-      "attributed": 54.53,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
-      "lines": [
-        {
-          "amount": 54.53,
-          "account": "Payroll clearing account",
-          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 10.8,
-      "attributed": 10.8,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
-      "lines": [
-        {
-          "amount": 10.8,
-          "account": "Payroll clearing account",
-          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 86856.58,
-      "attributed": 86856.58,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
-      "lines": [
-        {
-          "amount": 86856.58,
-          "account": "Payroll clearing account",
-          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 36967.66,
-      "attributed": 36967.66,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
-      "lines": [
-        {
-          "amount": 36967.66,
-          "account": "Payroll clearing account",
-          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 20.77,
-      "attributed": 20.77,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "CURSOR, AI POWERED IDE - 4617",
-      "lines": [
-        {
-          "amount": 20.77,
-          "account": "FACILITIES:FA-Software Expenses",
-          "description": "CURSOR, AI POWERED IDE - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 71.94,
-      "attributed": 71.94,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SP SPINDRIFTBEVERAGE - 7333",
-      "lines": [
-        {
-          "amount": 71.94,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "SP SPINDRIFTBEVERAGE - 7333"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 17.69,
-      "attributed": 17.69,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
-      "lines": [
-        {
-          "amount": 17.69,
-          "account": "QuickBooks Payments Fees",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 80.64,
-      "attributed": 80.64,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "J. Fromm made purchase directly. Confirmed for shop supplies",
-      "lines": [
-        {
-          "amount": 80.64,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": "rotary chuck"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 60.0,
-      "attributed": 60.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Purchase made directly by C. Dixon for teambuilding",
-      "lines": [
-        {
-          "amount": 60.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "Software for teambuilding (Delux)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 207.0,
-      "attributed": 207.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Purchase made directly by C. Dixon for teambuilding",
-      "lines": [
-        {
-          "amount": 207.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "Software for teambuilding"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 0.0,
-      "attributed": -2206.46,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Trip to California for [550-1]",
-      "lines": [
-        {
-          "amount": 708.8,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "United Airlines"
-        },
-        {
-          "amount": 1021.91,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "VRBO Rental"
-        },
-        {
-          "amount": 59.0,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "VRBO Insurance"
-        },
-        {
-          "amount": 117.0,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "VRBO Service Fee"
-        },
-        {
-          "amount": 18.12,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "Uber"
-        },
-        {
-          "amount": 58.6,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "Uber"
-        },
-        {
-          "amount": 20.0,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "Internet pass"
-        },
-        {
-          "amount": 69.99,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "Walmart - supplies"
-        },
-        {
-          "amount": 27.67,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "PB Poke House (food)"
-        },
-        {
-          "amount": 75.37,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "LBC (food)"
-        },
-        {
-          "amount": 10.74,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "7 Siblings (food)"
-        },
-        {
-          "amount": 19.26,
-          "account": "DIRECT COSTS:DC-Direct Travel",
-          "description": "CVS"
-        },
-        {
-          "amount": 175.0,
-          "account": "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp",
-          "description": "Part 107 Cert Exam"
-        },
-        {
-          "amount": -2381.46,
-          "account": "FRINGE:Employee Reimbursement",
-          "description": ""
-        }
-      ]
-    }
-  ],
+  "purchases": [],
   "purchase_orders": [],
-  "payments": [
-    {
-      "type": "Payment",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 375.0,
-      "attributed": 375.0,
-      "vendor": "",
-      "customer": "[300] NOAA",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 11ai28suln0i",
-      "lines": [
-        {
-          "amount": 375.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    }
-  ]
+  "payments": []
 }

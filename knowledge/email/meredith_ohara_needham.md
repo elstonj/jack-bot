@@ -1,86 +1,95 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,763 emails (2,612 previous + 100 new from Sep 28–30, 2026)
-- **Date range:** June 15–September 30, 2026 (108 days)
-- **Approximate volume:** ~25–26 emails/day (stable baseline)
-- **New activity (Sep 28–30):** 100 messages in 3 days; concentrated operational activity across payroll/HR migration, Krateo Sky integration, regulatory filings, financial auditing, and hiring coordination
+- **Total messages scanned:** 2,809 emails (2,763 previous + 46 new from Sep 30–Oct 1, 2026)
+- **Date range:** June 15–October 1, 2026 (109 days)
+- **Approximate volume:** ~25–26 emails/day (stable baseline maintained)
+- **New activity (Sep 30–Oct 1):** 46 messages over 2 days; continued high-volume operational activity across Krateo Sky integration, payroll/HR migration finalization, audit coordination, and facility management
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Sep 30)
+### Incoming (by frequency — updated through Oct 1)
 
 **Krateo Sky Strategic Integration (EXECUTIVE-LEVEL, ONGOING):**
 
-1. **Krateo Sky Leadership & Coordination** — **Elevated Sep 28–30 activity**
+1. **Krateo Sky Leadership & Coordination** — **Sustained elevated activity Sep 30–Oct 1**
    - **Cory Dixon** (`cory@krateosky.com`) — [IMPORTANT]
-     - Sep 30, 13:40: Week of Sept 28th Integration Meeting Slides — Org-wide distribution (20+ recipients including Jack Elston, Maciej Stachura, Joshua Fromm, Meredith)
+     - Sep 30, 13:40: Week of Sept 28th Integration Meeting Slides — Org-wide distribution (20+ recipients)
    - **Bob Gold** (`b.gold@krateosky.com`) — **Primary Krateo liaison to Meredith** [IMPORTANT on all recent]
-     - Sep 30, 13:07: FW: How we close the gaps for Black Swift Technologies
-     - Sep 30, 09:07: Meredith responds Re: FW: How we close the gaps (reciprocal engagement)
-     - Sep 29, 15:07: RE: Grant Thornton PBC list, starting point [IMPORTANT] — audit coordination
-     - Sep 29, 09:45: Meredith responds to Grant Thornton PBC list discussion
-   - **Shelly Dvorak** (`shelly@krateosky.com`) — **Product/commercial coordination** [IMPORTANT]
-     - Sep 30, 15:15: Re: Aeropods on BST website [IMPORTANT]
-     - Sep 29, 19:49: Aeropods on BST website [IMPORTANT] — commercial/product visibility discussion
+     - Sep 30, 22:00: BST Grant Thornton PBC & KPMG catch up [IMPORTANT] — escalated audit coordination
+     - Sep 30, 21:05: RE: Grant Thornton PBC list, starting point [IMPORTANT]
+     - Sep 30, 13:07: FW: How we close the gaps for Black Swift Technologies [IMPORTANT]
+     - Meredith reciprocal responses Sep 30, 15:52 & 09:07
    - **Sona Raziabeegum** (`sona@krateosky.com`) — **Audit & financial coordination** [IMPORTANT on all]
-     - Sep 30, 13:40 (via Cory): SOCOM executed, and motors on the way [IMPORTANT, wide dist.]
-     - Sep 29, 14:54: RE: Grant Thornton PBC list, starting point [IMPORTANT]
-     - Sep 28, 23:36: Sona leads wide BST/KS alignment message
-   - **Contact** (`contact@krateosky.com`) — Automated meeting summary
-     - Sep 30 (date UTC): Meeting summary: Black Swift Catch up on Cash to Accrual and Audit [UNREAD, IMPORTANT]
-   - **Pattern:** Sustained strategic alignment; financial audit prep (Grant Thornton); product announcements (Aeropods); SOCOM contract execution signaled
+     - Sep 30, 20:50: Black Swift Weekly Integration Review, notes and actions from 30 September [UNREAD, IMPORTANT] — wide distribution (20+ recipients including Meredith, Jack Elston, Maciej Stachura, Joshua Fromm)
+     - **Pattern:** Weekly formal integration reviews now established; Sona driving cross-functional coordination
+   - **Contact** (`contact@krateosky.com`) — Automated meeting summaries
+     - Sep 30, 16:57: Meeting summary: Black Swift Weekly Integration Review [UNREAD]
+   - **Pattern:** **WEEKLY INTEGRATION CADENCE FORMALIZED** — Cory/Sona leading structured weekly reviews; audit prep escalated (Grant Thornton PBC coordination now explicit); meeting notes automated
 
 ---
 
-**Payroll & HR System Migration (CRITICAL PATH — Deel Active, Rippling Exit Complete):**
+**Payroll & HR System Migration (CRITICAL PATH — Deel Implementation Active, Rippling Exit Finalized):**
 
-2. **Deel PEO** — **Implementation stage active** [IMPORTANT on all]
-   - **Kajol Kataria** (`kajol.kataria@deel.com`) — **Primary implementation PM** [STARRED, IMPORTANT on all]
-     - Sep 29, 18:19: Black Swift Technologies LLC x Deel - Implementation Next Steps [YELLOW_STAR, IMPORTANT, STARRED] — **Key milestone message**
-     - Sep 29, 18:03: Invitation: Black Swift Technologies LLC x Deel: Payroll Enablement Call @ Mon Nov 23, 2026 9am–9:30am (MST) [IMPORTANT]
-     - Sep 29, 16:01: Invitation: Black Swift Technologies LLC x Deel: Platform Enablement ... @ Tue Oct 6, 2026 9am–9:30am (MDT) [IMPORTANT]
-     - Sep 29, 14:44: Reminder (via Gong): your meeting Black Swift Technologies LLC x Deel: PEO Kick Off Call is about to start [IMPORTANT] — **live meeting executed Sep 29**
-     - Sep 29, 15:12: Spreadsheet shared: "Black Swift Employee Import File.xlsx" [UNREAD, IMPORTANT] — **employee data migration started**
-   - **Pattern:** **DEEL PAYROLL MIGRATION ACCELERATING** — Multiple enablement meetings scheduled (Oct 6, Nov 23); employee import file shared; implementation moving from planning to execution
+2. **Deel PEO** — **Implementation stage ongoing** [IMPORTANT on all previous]
+   - **Kajol Kataria** (`kajol.kataria@deel.com`) — Implementation PM
+     - No new messages Sep 30–Oct 1 in this sample (sustained from prior period)
+   - **Pattern:** Deel implementation proceeding as scheduled; no escalations visible
 
-3. **Rippling (HR Platform Exit — COMPLETED):**
-   - **Rippling** (`no-reply@rippling.com`) — **Document signature completion**
-     - Sep 30, 02:40 & 02:37: Lynn Regnier has signed their document [UNREAD, CATEGORY_UPDATES] — **duplicate notifications** (appears to be offboarding/transition completion)
-     - Sep 29, 19:34 & 19:09: Ali Sulehria has signed some/all of their documents [UNREAD, CATEGORY_UPDATES]
-   - **Pattern:** Rippling exit proceeding via employee document signatures; Lynn Regnier and Ali Sulehria (both external candidates per earlier data) completing Rippling-facilitated transitions
+3. **Rippling (HR Platform Exit — FINAL PHASE):**
+   - **Rippling** (`no-reply@rippling.com`) — **Document signature completion & year-end checklist**
+     - Oct 1, 07:58: Review your year-end Payroll Checklist [UNREAD, CATEGORY_UPDATES] — **final operational step**
+   - **Pattern:** Rippling exit substantially complete; final year-end checklist notification indicates offboarding workflow closure
+
+4. **Human Interest (401(k) Plan Administration — Active):**
+   - **Human Interest** (`noreply-support@mail.humaninterest.com`) — **Correction credits & contribution processing**
+     - Oct 1, 00:04: Correction Credits Issued to Participant Accounts [UNREAD, CATEGORY_UPDATES] — 2025 W-2/401(k) correction completion signal
+     - Sep 30, 21:26: Black Swift Technologies's 401(k) contributions for 9/30/2026 are processing [UNREAD, CATEGORY_UPDATES] — Q3 close processing
+   - **Human Interest** (`support@humaninterest.com`)
+     - Sep 30, 16:13: Black Swift Technologies | Meredith Needham | Plan Details [IMPORTANT, INBOX]
+   - **Pattern:** Mid-month correction credits issued (2025 W-2/401k remediation complete); monthly contributions processing on schedule; plan administration fully transitioned to Human Interest
 
 ---
 
 **Tax & Financial Advisory (AUDITING & COMPLIANCE):**
 
-4. **KPMG Audit Team** — **Cash to Accrual conversion project** [IMPORTANT on all]
-   - **"Napheys, Lauren"** (`lnapheys@kpmg.com`) — Lead contact
-     - Sep 29, 15:59: Cash to Accrual 6/30/2026 [IMPORTANT, INBOX]
-     - Sep 29, 08:44: Meredith responds Re: Cash to Accrual
-   - **"Lee, Courtney"** (`courtneylee@kpmg.com`) — Audit team member
-     - Sep 29, 22:12: RE: QuickBooks access sent [UNREAD, IMPORTANT] — system access coordination
-     - Sep 29, 18:27: RE: Cash to Accrual 6/30/2026 [IMPORTANT, INBOX]
-     - Sep 29, 14:39: Meredith responds to Cash to Accrual discussion
-   - **"Helton, Matthew C"** (`mhelton@kpmg.com`) — Audit team member
-     - Sep 29 (multi-message thread): Cash to Accrual coordination
-   - **Meredith actions:**
-     - Sep 29, 16:02: Sends QuickBooks access to full KPMG team (Napheys, Lee, Helton) [SENT]
-   - **Pattern:** **AUDIT PHASE ACTIVE** — Cash-to-accrual conversion underway for 6/30/2026 fiscal close; QuickBooks access provisioned to audit team; multi-touch engagement
-
-5. **Mark Kightlinger** (`Mark@kcotax.com`) — **Tax advisory** [IMPORTANT on all]
-   - Sep 30, 09:40: Meredith responds Re: 401k and Corrected W-2s for Jack/Maciej (2025)
+5. **Mark Kightlinger** (`Mark@kcotax.com`) — **Tax advisory, 401(k) plan coordination** [IMPORTANT on all recent]
+   - Sep 30, 16:47: RE: Black Swift Technologies | Meredith Needham | Plan Details [IMPORTANT, INBOX] — plan details coordination with Meredith
    - Sep 30, 10:26: Meredith forwards Human Interest plan details [SENT]
-   - Sep 28, 21:56: RE: 401k and Corrected W-2s for Jack/Maciej (2025) [IMPORTANT, INBOX]
-   - **Pattern:** 2025 tax corrections (W-2s, 401k) in progress; Human Interest 401(k) plan administration
+   - Sep 30, 09:47: Meredith responds Re: 401k and Corrected W-2s for Jack/Maciej (2025) [SENT]
+   - **Pattern:** Tax advisor actively engaged in 401(k) plan transition; corrected W-2s for executives (Jack Elston, Maciej Stachura) fully processed
+
+6. **KPMG Audit Team** — **Cash to Accrual conversion active** [IMPORTANT on all previous]
+   - **"Bob Gold" cross-reference:**
+     - Sep 30, 22:00: Bob Gold to Meredith & Sona: "BST Grant Thornton PBC & KPMG catch up" [IMPORTANT] — indicates parallel audit track with Grant Thornton (separate from KPMG cash-to-accrual)
+   - **Pattern:** Dual audit engagement visible (KPMG for cash-to-accrual; Grant Thornton for additional PBC work); Bob Gold bridging both tracks
 
 ---
 
-**Purchasing & Vendor Management (Sustained):**
+**Candidate Hiring & Onboarding (NEW DETAIL):**
 
-6. **Purchasing System** (`purchasing@blackswifttech.com`) — **1,400+ cumulative; Sep 28–30 alerts**
-   - **Automated alerts:**
-     - Sep 30, 07:50: Worldwide Express Invoice 09/30/2026 #260927W025531 [UNREAD, CATEGORY_UPDATES]
-     - **Pattern continues:** Invoice notifications, shipment confirmations, payment processing
+7. **Ali Sulehria** (`alipsulehria@gmail.com`) — **Offer acceptance & onboarding** [IMPORTANT]
+   - Sep 30, 19:28: Re: Notice of Black Swift Upcoming HR Provider Change [IMPORTANT] — responding to Rippling→Deel notification
+   - Sep 30, 15:42: Re: Black Swift updated Job Offer [IMPORTANT] — offer acceptance/clarification
+   - Sep 30, 09:40: Meredith responds Re: Black Swift updated Job Offer [SENT]
+   - **Pattern:** Ali Sulehria actively onboarding; Meredith providing HR provider transition notice; candidate engaged and responsive
+
+8. **Lynn Regnier** (`lynnregnier@gmail.com`) — **Controller role candidate, formal offer** [IMPORTANT]
+   - Sep 30, 13:21: Meredith sends "Notice of Black Swift Upcoming HR Provider Change" [SENT]
+   - Sep 30, 09:01: Meredith responds Re: Offer of Employment as Controller at Black Swift Technologies [SENT]
+   - Sep 30, 08:48: Lynn Regnier to Bob Gold: Re: Offer of Employment as Controller at Black Swift Technologies [IMPORTANT] — **offers are moving through Bob Gold coordination**
+   - **Pattern:** **NEW CONTROLLER HIRE IMMINENT** — Lynn Regnier formal offer in motion; coordinating through both Meredith and Bob Gold; HR provider transition notification suggests start is post-Rippling cutover (imminent)
+
+9. **External Recruitment:**
+   - **Emilio Navarro** via `careers@blackswifttech.com`
+     - Sep 30, 16:57: Technology leadership experience relevant to Black Swift [UNREAD, CATEGORY_FORUMS, INBOX] — **unsolicited inbound**
+   - **Pattern:** Passive recruiting interest visible; tech leadership roles in market view
+
+---
+
+**Facility & Operations Management (NEW DETAIL):**
+
+10. **Facility Contractors** — **Direct correspondence from Meredith**
+    - **Amy Smith** (`amy

@@ -32,7 +32,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Winsource removed from future supplier selection due to defective PMXB120EBE parts and other questionable components (June 29, 2026)
 - Two battery pack versions in circulation: newer packs used in all new builds (post-2026), older packs in previously built aircraft; characterized by ability/inability to accept higher power charging (July 8, 2026)
 - Parachute cap design improved to tighter-fitting version (similar to SOCOM design) to prevent cordage fallout during flap opening; all old caps to be replaced with new design (July 29, 2026)
-- **Vertiq Motor Integration:** Motor controller switched to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026; 29 motors shipped September 25, 2026 for Monday arrival (September 25); 20 additional motors shipped September 29; Vertiq production scare on September 24 required dismantling and reassembling packed motors (September 24-25, 2026); Joshua Fromm continuing to pursue Vertiq updates (September 22-25, 2026)
+- **Vertiq Motor Integration:** Motor controller switched to Vertiq propulsion with adjustable slew-rate limiters; motors repeatedly delayed through August-September 2026; 29 motors shipped September 25, 2026 for Monday arrival; 20 additional motors shipped September 29; Vertiq production scare on September 24 required dismantling and reassembling packed motors (September 24-25, 2026); Joshua Fromm continuing to pursue Vertiq updates (September 22-25, 2026)
 - **Grey vs. Red Parachute Caps:** Grey parachute caps identified as superior design for clean chute deployment vs. red caps; grey caps should be used for video tube aircraft (September 19, 2026)
 
 **Deployment Tube Components:**
@@ -57,4 +57,6 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **GCS Operational Handover:** Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover; proposal suggested duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
 - **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
 - **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
-- **Microhard Radio Configuration:** Implemented ATS108=30 setting to
+- **Microhard Radio Configuration:** Implemented ATS108=30 setting for optimal performance
+
+**

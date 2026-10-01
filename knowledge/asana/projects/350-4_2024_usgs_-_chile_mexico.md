@@ -8,7 +8,7 @@
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Contract**: 140G0323P0280
 - **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT RESCHEDULED TO FALL 2026** (originally April 20, 2026)
-- **Status**: **ACTIVE — PAUSED** — Mission deployment rescheduled to Fall 2026 per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Batteries shipped to Mexico (May 2026) with permanent import fees paid; customs/import details under review with customs broker Javi. **Three open tasks pending** (flight approvals, photogrammetry footprints, ground permissions). No flight planning, shipping, or mission prep underway until Fall 2026 confirmation.
+- **Status**: **ACTIVE — PAUSED** — Mission deployment rescheduled to Fall 2026 per Maciej Stachura (April 17, 2026) and Jack Elston (April 20, 2026). Batteries shipped to Mexico (May 2026) with permanent import fees paid; customs/import details under review with customs broker Javi. **One open task pending** (spare parts and packing list, due October 1, 2026 — **OVERDUE**). Three flight/mission tasks remain from previous knowledge file (flight approvals, photogrammetry footprints, ground permissions). No flight planning, shipping, or mission prep underway until Fall 2026 confirmation.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Priority**: Medium (Government customer)
 
@@ -21,15 +21,16 @@
 - ✅ **Put together flight plans using google earth markup** | Dan Prendergast | Completed: September 28, 2026 (due 2026-10-01)
 
 ### Open Milestones
+- **Spare parts and packing list** | Josh Fromm | Due: 2026-10-01 | **OVERDUE — status unknown**
 - **Obtain flight approvals from AFAC** | Dan Prendergast | Due: 2026-09-28 | **OVERDUE — completed flight plans but awaiting AFAC approval**
 - **Create photogrammetry footprints** | Dan Prendergast | Due: 2026-11-16 | **In progress**
 - **Verify ground permissions for national park (CENAPED leading)** | Dan Prendergast | Due: 2026-10-19 | **Status unknown — in progress or pending CENAPED coordination**
 
 ## Task Summary
-- **Total Tasks**: 3 open, 4 completed
-- **Completion Rate**: 57% (4 of 7 tracked tasks completed)
-- **Primary Assignee**: Dan Prendergast (all open and recent completed tasks)
-- **Recent Progress**: Flight planning completed September 28, 2026; now advancing to photogrammetry footprints and awaiting AFAC approvals.
+- **Total Tasks**: 1 open (per current Asana snapshot), 4 completed
+- **Completion Rate**: 80% (4 of 5 tracked tasks completed)
+- **Primary Assignee**: Dan Prendergast (4 of 5 milestones), Josh Fromm (1 open task)
+- **Notable Pattern**: Most major deliverables assigned to Dan Prendergast; Josh Fromm newly assigned to spare parts/packing list task (due October 1, 2026 — **OVERDUE**)
 
 ## Recent Activity
 
@@ -66,23 +67,16 @@
 - **Deployment Status**: 
   - **Originally planned**: April 20, 2026
   - **Now scheduled**: Fall 2026
-  - **Implication**: Spring/summer 2026 task due dates were stale; team has moved major deliverables (LUD decision, AFAC CONOPS) to September 2026. Current open tasks have September–November 2026 due dates, aligning with rescheduled timeline.
+  - **Implication**: Spring/summer 2026 task due dates were stale; team has moved major deliverables (LUD decision, AFAC CONOPS) to September 2026. Current open tasks have September–November 2026 due dates, aligning with rescheduled timeline. Note: "Spare parts and packing list" due October 1, 2026 is now overdue (current date unknown but appears to be November 22, 2026 or later per raw data timestamp).
   
 - **Hardware & Logistics Status**: 
   - **S2 Equipment shipped** January 2026 (completed January 22)
   - **Batteries shipped to Mexico** May 2026 with permanent import fees paid
   - **Customs/import status**: Under review with customs broker Javi; no ECCN obtained; awaiting Maciej's direction on documentation and group communication
+  - **Spare parts & packing list**: Josh Fromm assigned; due October 1, 2026 — **OVERDUE as of November 22, 2026** — status and blockers unknown
   
 - **Flight & Mission Planning Progress** (September–November 2026):
   - ✅ Flight plans created (Google Earth markup) — September 28, 2026
-  - ⏳ AFAC flight approvals task initiated — **OVERDUE as of November 2026** (due September 28); likely in review or awaiting response
-  - ⏳ Photogrammetry footprints — In progress, due November 16, 2026
-  - ⏳ Ground permissions verification via CENAPED — Previously due October 19, 2026; status unclear
-
-- **Pending Action Items**:
-  - **Maciej Stachura**: Confirm email archive location for battery shipment documentation
-  - **Maciej Stachura**: Confirm whether to request customs broker Javi for formal ECCN/import classification confirmation
-  - **Maciej Stachura**: Confirm whether to notify team of battery import details
-  - **Dan Prendergast**: Complete AFAC flight approvals (Due 2026-09-28 — **OVERDUE**; may be awaiting AFAC response or require follow-up)
-  - **Dan Prendergast**: Complete photogrammetry footprints (Due 2026-11-16 — in progress)
-  - **Dan Prendergast**: Verify ground permissions for national park with CENAPED (Previously due 2026-10-19; status unclear; CENAPED is lead; Dan coordinating)
+  - ⏳ AFAC flight approvals task initiated — **OVERDUE as of November 22, 2026** (due September 28); likely in review or awaiting response
+  - ⏳ Photogrammetry footprints — In progress, due November 16, 2026 — **may be overdue or imminent as of November 22, 2026**
+  - ⏳ Ground permissions verification via CENAPED — Previously due October

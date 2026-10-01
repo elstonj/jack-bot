@@ -56,4 +56,4 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **July 2026:**
 - QuSpin firmware update approach: Decided to send QuSpin sensor back to manufacturer for firmware update and QC check rather than conducting testing in current "noisy mode" (July 7-8, 2026). Rationale: Quick turnaround expected from vendor for firmware update and configuration optimization, preferable to testing with known suboptimal settings.
-- Royal Navy Q2 2027 helicopter drop specs: Open to all S0 options (S0-weather, S0-MAD, or S0 with onboard camera); would be dropped over ocean near airbase, ground-controlled initially (similar to C-130 setup),
+- Royal Navy Q2 2027 helicopter drop specs: Open to all S0 options (S0-weather, S0-MAD, or S0 with onboard camera); would be dropped over ocean near airbase, ground-controlled initially (similar to C-130 setup)

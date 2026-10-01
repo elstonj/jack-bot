@@ -1,92 +1,95 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 293 emails (253 previous + 40 new)
+- **Total messages scanned:** 304 emails (253 previous + 40 from Sept 24-30 + 11 new from Sept 30)
 - **Date range:** August 3 – September 30, 2026 (59 days)
-- **Approximate volume:** ~5.0 emails per day
-- **Trend:** Sustained high volume. New 40-email batch spans Sept 24-30 (7 days = 5.7 emails/day). **Pattern confirms post-deadline execution: Geo Week 2027 speaker deadline (Sept 25) passed; heavy content engagement continues. DroneX 2026 conference attendance confirmed (Sept 28-30; badge SM112024). AGU26 exhibitor services active. Multi-event strategy in full execution (Geo Week + AGU26 + DroneX + Austin Tech Week + STATION Austin community). National Geographic subscription content sustained.**
+- **Approximate volume:** ~5.2 emails per day
+- **Trend:** Sustained high volume. Final day of September (Sept 30) shows 11 emails, confirming continued execution across multiple conferences and intelligence feeds. DroneX 2026 attendance ongoing (final day confirmation). Post-deadline content engagement across Geo Week, aerospace policy, and national security briefings.
 
 ## Key Correspondents
 
 ### Top Senders (by frequency)
-1. **Media Relations Distribution** (media@blackswifttech.com) — 145+ emails
-   - Aggregates: UAS VISION (routed via Jack), National Geographic (23+ new), Uncrewed Tech Ltd/DroneX (5 new; Sept 28-30), Geo Week, A&SF Daily Report, Mitchell Institute (4 new; aerospace policy), Energy Drone & Robotics Coalition (1 new), Unmanned Systems Technology LinkedIn, Defense Advancement LinkedIn, ShopAFA (merchandise; 3 new), CU Boulder Career Fair, STATION Austin (1 new), Austin Tech Week, Geo-matching (Intergeo 2026 recap), Air & Space Forces Association/PropFuel
+1. **Media Relations Distribution** (media@blackswifttech.com) — 155+ emails
+   - Aggregates: UAS VISION (routed via Jack), National Geographic (24 new), Uncrewed Tech Ltd/DroneX (6 new; Sept 28-30 including final day), Geo Week (1 new; "Who Maps the Unmappable?"), A&SF Daily Report (1 new; Boeing F/A-XX/F-47), Mitchell Institute, Energy Drone & Robotics Coalition, ShopAFA (4 new), CU Boulder Career Fair, STATION Austin, Austin Tech Week, Geo-matching, Air & Space Forces Association/PropFuel, **NEW: AUSA 2026 Global Partnership Opportunities Briefings (Brian Keller, Sept 30)**
 
-2. **UAS VISION** (russ@uasvision.com) — 11 confirmed emails (daily news; 9am UTC cadence maintained; Sept 25, 28, 30 confirmed)
+2. **UAS VISION** (russ@uasvision.com) — 12 confirmed emails (daily news; 9am UTC cadence maintained; Sept 30 confirmed)
 
-3. **National Geographic** (ng@em.nationalgeographic.com) — 23 new confirmed emails (Sept 24-29; sustained daily cadence; mixed editorial + subscription promotions)
-   - Content themes: Nature/science (Egypt, Italy, Prosecco, museums, bug photography, film museums, Turkey lakes, dementia, night sky, Nat Geo Kids, polar bears/Roman history)
-   - Subscription pushes: Magazine ($29/yr offer), Nat Geo Kids ($39/yr)
+3. **National Geographic** (ng@em.nationalgeographic.com) — 24 new confirmed emails (Sept 24-30; sustained daily cadence; final subject: night sky events, Cousteau underwater living, hurricane patterns)
 
-4. **Uncrewed Tech Ltd / DroneX** (26broadcast@eventcommunity.co.uk via media@blackswifttech.com) — **NEW: 5 emails (Sept 28-30; event progression: doors open, day 1, day 2, final day)**
-   - Badge: SM112024 (registered attendee)
+4. **Uncrewed Tech Ltd / DroneX** (26broadcast@eventcommunity.co.uk via media@blackswifttech.com) — **NEW: 6 emails (Sept 28-30; final day confirmation Sept 30)**
+   - Badge: SM112024 (confirmed registered attendee; still receiving live event feeds)
 
-5. **Mitchell Institute** (via media@blackswifttech.com) — **NEW: 4 emails (Sept 25-26; aerospace policy content)**
-   - Topics: AF Airpower/Force Presentation, AI & Readiness Challenge, Aerospace Nation (1 canceled event)
+5. **Rippling** (no-reply@rippling.com) — **NEW: 1 email (Sept 30; payroll notification 8/23-9/21 period)**
 
-6. **Energy Drone & Robotics Coalition** (via LinkedIn/media@blackswifttech.com) — **NEW: 1 email (Sept 25; energy sector robotics brief)**
+6. **Answer Socrates** (hello@answersocrates.com) — 3 emails (Sept 30, 28; promotional/engagement tracking; "The 226th person")
 
-7. **Answer Socrates** (hello@answersocrates.com) — 2 emails (Sept 30, 28; promotional/engagement tracking; "The 226th person", "Who is JEV?")
+7. **Geo Week News** (via media@blackswifttech.com) — **NEW: 1 email (Sept 30; "Who Maps the Unmappable?" — geospatial content)**
 
-8. **Slack Notifications** (notification@slack.com) — 1 email (Sept 28; 26 unread messages alert)
+8. **UFS Community / NOAA Service Account** (via media@blackswifttech.com) — **NEW: 1 email (Sept 30; UFS Webinar October 8, 2026; "undisclosed-recipients" format)**
 
-9. **Austin Tech Week** (austintechweek@stationaustin.org) — **NEW: 1 email (Sept 24; speaker announcement for next month/October)**
+9. **ShopAFA** (via media@blackswifttech.com) — **NEW: 1 email (Sept 30; "Quality You Can Trust: AFA Bottles & Tumblers")**
 
-10. **STATION Austin Community** (events@stationaustin.org) — **NEW: 1 email (Sept 27; weekly community events 9/28-10/2)**
+10. **A&SF Daily Report** (via media@blackswifttech.com) — **NEW: 1 email (Sept 30; "Boeing Wins F/A-XX on Top of F-47")**
 
-11. **Air & Space Forces Association / PropFuel** (campaigns@propfuel.email) — 1 email (Sept 25; USAF birthday message)
-
-12. **Ryan Brooks / TechZapp** (ryan@updates.techzapp.com) — 1 email (Sept 28; website visitor engagement sales pitch)
-
-13. **Catherine Wright** (via media@blackswifttech.com) — **NEW: 1 email (Sept 28; "Re: Denver warehouse tour?")**
-
-14. **Geo-matching** (newsletter@geo-matching.com) — 1 email (Sept 25; Intergeo 2026 recap)
+11. **Brian Keller / AUSA 2026** (via media@blackswifttech.com) — **NEW: 2 emails (Sept 30; "Invitation to the Global Partnership Opportunities Briefings at AUSA 2026")**
+    - Sent to both Paige Smith individually and Black Swift Team group (media@blackswifttech.com)
 
 ### Top Recipients (who Kareem/team emails)
-- **Primary inbox:** kareem.ahmed@blackswifttech.com (direct Slack notifications only; Sept 28)
-- **Primary intelligence hub:** paige.smith@blackswifttech.com — **100% of new email batch routed here** (40/40); confirms Paige Smith as exclusive aggregation target for all external intelligence
-- **Group/internal:** Media Relations Distribution (media@blackswifttech.com; CU Boulder Career Fair, STATION Austin routed here first)
+- **Primary inbox:** kareem.ahmed@blackswifttech.com (Rippling payroll notification only)
+- **Primary intelligence hub:** paige.smith@blackswifttech.com — **10/11 new emails routed here** (90.9%); confirms Paige Smith as exclusive external intelligence aggregation target
+- **Group/internal:** media@blackswifttech.com (AUSA 2026 briefing sent to team; UFS webinar sent to "undisclosed-recipients")
 
 ### Internal vs External
-- **Internal:** Slack notifications (Sept 28; 26 unread messages)
-- **External:** Industry newsletters (97.5% of new batch), conference feeds, aerospace policy, defense/robotics intelligence, science/nature content, event registrations
-- **Event platforms:** DroneX 2026 (confirmed attendance), Geo Week 2027, AGU26, Austin Tech Week (October speakers promoted), STATION Austin, CU Boulder Career Fair
-- **Professional networks:** LinkedIn (Unmanned Systems Technology, Energy Drone & Robotics Coalition, Defense Advancement)
+- **Internal:** Rippling payroll (direct to Kareem), Black Swift Team group email (AUSA 2026 invitation)
+- **External:** Industry newsletters (95.5% of new batch), conference feeds (DroneX live final day), aerospace policy, defense/geospatial intelligence, event invitations, science content
+- **Event platforms/Invitations:** **NEW: AUSA 2026 (Association of the United States Army; Global Partnership Opportunities Briefings)**, DroneX 2026 (ongoing attendance), Geo Week, AGU26, Austin Tech Week, UFS Webinar (NOAA; Oct 8)
 
 ### Key External Contacts/Organizations
-- **UAS VISION** (russ@uasvision.com) — Daily intelligence maintained (9am UTC; Sept 25, 28, 30 confirmed)
-- **DroneX 2026** — **Active conference attendance** (badge SM112024; Sept 28-30 on-site presence)
-- **Geo Week 2027** — Continued content engagement post-speaker deadline
-- **National Geographic** — Science/editorial content (23 new emails Sept 24-29; sustained daily subscription feed)
-- **Mitchell Institute** — Aerospace policy/Air Force readiness content (4 emails Sept 25-26)
-- **Energy Drone & Robotics Coalition** — Energy sector robotics intelligence (Sept 25)
-- **Austin Tech Week** — Tech community event platform (October speakers announced; Sept 24)
-- **STATION Austin** — Startup/innovation community hub (Sept 27)
-- **CU Boulder Career Fair** — University recruiting partnership (Sept 28; registration closing)
-- **Geo-matching / Intergeo** — International geospatial conference recap (Sept 25)
+- **UAS VISION** (russ@uasvision.com) — Daily intelligence maintained (9am UTC; Sept 30 confirmed)
+- **DroneX 2026** — **Active conference attendance final day** (badge SM112024; Sept 30 live event feed received)
+- **National Geographic** — Science/editorial content (24 new emails; sustained daily subscription feed)
+- **AUSA 2026** (Brian Keller; Association of the United States Army) — **NEW: Global Partnership Opportunities Briefings; Sept 30 invitation**
+- **Geo Week** — Geospatial conference content (Sept 30; "Who Maps the Unmappable?")
+- **A&SF Daily Report** — Aerospace/defense intelligence (Boeing fighter programs)
+- **UFS Community / NOAA** — **NEW: Unified Forecast System webinar (Oct 8)**
+- **ShopAFA** — Air & Space Forces Association merchandise
+- **Rippling** — HR/Payroll platform (internal systems)
 
 ## Topic Patterns
 
 ### Primary Focus Areas (Confirmed & Expanded)
+
 1. **Unmanned Aerial Systems (UAS/Drones) — Dominant**
-   - UAS VISION daily intelligence (9am UTC; Sept 25, 28, 30 confirmed)
-   - **DroneX 2026 conference attendance** (Sept 28-30; badge SM112024; doors open/daily recaps)
-   - Uncrewed Tech Ltd engagement (5 event progression emails)
-   - Energy Drone & Robotics Coalition content (Sept 25; energy infrastructure focus)
+   - UAS VISION daily intelligence (9am UTC; Sept 30 confirmed)
+   - **DroneX 2026 conference — final day attendance** (Sept 30; badge SM112024; live event feeds received)
+   - Geospatial content: Geo Week "Who Maps the Unmappable?" (Sept 30)
 
 2. **Defense & Aerospace Markets — Primary Strategic Focus**
-   - **Mitchell Institute aerospace policy** (4 emails; Air Force readiness, airpower force presentation, canceled Aerospace Nation event)
-   - A&SF Daily Report (Sept 30; Boeing F/A-XX and F-47 fighter programs)
-   - **USAF 71st birthday recognition** (Sept 25; A&SF PropFuel)
+   - **AUSA 2026 new focus** (Sept 30; Association of the United States Army; Global Partnership Opportunities Briefings)
+   - A&SF Daily Report — Boeing F/A-XX and F-47 fighter program developments (Sept 30)
+   - Aerospace intelligence sustained
 
-3. **Geospatial Technology & Reality Capture — Execution Phase**
-   - Geo Week 2027 (post-deadline content engagement)
-   - Geo-matching Intergeo 2026 recap (Sept 25; international event intelligence)
-   - Unmanned Systems Technology LinkedIn discussions
+3. **Geospatial Technology & Reality Capture — Active Engagement**
+   - Geo Week 2027 content (ongoing; Sept 30 "Who Maps the Unmappable?" article)
 
-4. **Robotics & Automation Across Sectors — Emerging Focus**
-   - **Energy Drone & Robotics Coalition** (Sept 25; renewable energy + robotics intersection)
-   - Forward Looking Sonar, Motion Systems, SWIR Imaging (LinkedIn content; Sept 27)
-   - AI & Readiness Challenge (Mitchell Institute; Sept 25)
+4. **Atmospheric Science & Environmental Monitoring — NEW Emerging**
+   - **UFS Webinar invitation** (NOAA Service Account; Oct 8, 2026; Unified Forecast System)
+   - National Geographic atmospheric/natural science content (night sky events, hurricane patterns tracking)
 
-5. **Atmospheric Science & Ge
+5. **Science & Nature Content — Secondary Interest**
+   - National Geographic editorial (Cousteau underwater living, night sky events, hurricane tracking; Sept 30)
+
+### Recurring Subject Line Themes
+- Daily news digests (UAS VISION 9am UTC cadence)
+- National Geographic editorial + subscription offers
+- Conference progression emails (DroneX 2026: doors open → daily updates → final day)
+- Defense/aerospace market updates (Boeing, Air Force, fighter programs)
+- Partnership/briefing invitations (AUSA 2026 new)
+- Merchandise/promotional (ShopAFA, Answer Socrates engagement tracking)
+
+### Client/Vendor/Organization Names Visible
+- **AUSA** (Association of the United States Army) — **NEW**
+- **Boeing** (F/A-XX, F-47 fighter programs)
+- **NOAA** (atmospheric/forecast systems)
+- **National Geographic** (science/editorial content)
+- **DroneX /

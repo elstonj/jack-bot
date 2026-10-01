@@ -1,0 +1,47 @@
+{
+  "asana_gid": "1205318673933832",
+  "asana_task_name": "[1298] ERAU - S0 & S0 VTOL deployment ",
+  "customer": "Embry-Riddle Aeronautical University",
+  "customer_contact": "Kevin Adkins",
+  "customer_email": "adkinsk@erau.edu",
+  "receive_by": "2026-09-30",
+  "ship_to": "Attn: Kevin Adkins\n1 Aerospace Boulevard\nCollege of Aviation Room 237\nDaytona Beach, FL 32114\nUnited States",
+  "items": [
+    {
+      "description": "S0 VTOL",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2025-05-07",
+  "invoice_amount": 21181.81,
+  "invoice_number": "1667",
+  "paid_date": "2025-05-07",
+  "parts": [
+    {
+      "name": "S0 VTOL airframe",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "1ZY1791K0320443394, 1ZY1791K0303482133",
+  "carrier": "UPS",
+  "shipped_date": "2026-09-15",
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Two S0 VTOL units ordered and paid in full (Inv #1667, May 2025). Delivery delayed; BST intends to enter settlement agreement per legal disclosure. Recent Slack activity (Aug\u2013Sep 2026) confirms QC flights completed and units in post-delivery support/repair phase (ERAU E2 RMA being processed). Asana task marked 'Closed' due to outdated grant-proposal language, but QBO invoice and active post-delivery engagement override that status.",
+  "missing_fields": [
+    "ship_to",
+    "shipped_date"
+  ],
+  "last_evidence_date": "2026-09-29",
+  "last_contact_date": "2026-09-14"
+}

@@ -13,7 +13,7 @@
     },
     {
       "description": "Aircraft components (to finish out customer's other aircraft)",
-      "quantity": 1
+      "quantity": 2
     },
     {
       "description": "Ground station",
@@ -35,6 +35,13 @@
       "received": false,
       "vendor": null,
       "order_date": null
+    },
+    {
+      "name": "Air compressor",
+      "ordered": true,
+      "received": false,
+      "vendor": "Home Depot",
+      "order_date": null
     }
   ],
   "tracking_number": null,
@@ -45,7 +52,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Engineering-phase collaboration with Ultra PCS on pneumatic launcher for USAF aircraft integration. Design work in progress (tube interface, ejection velocity, acceleration specs being defined with NOAA/customer input). S20009 launcher assembly underway; some components/parts status uncertain per recent Slack.",
+  "notes": "Engineering-phase collaboration with Ultra PCS / USAF on pneumatic launcher for C-130/KC-135 integration. S20009 launcher assembly underway; launcher tank location uncertain as of 9/15. NRE cost negotiation ongoing; customer now considering S3 alternative. Recent Slack indicates two full aircraft on scope (components to finish customer's other aircraft). Air compressor procurement in progress.",
   "missing_fields": [
     "receive_by",
     "ship_to",

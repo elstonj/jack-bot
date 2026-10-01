@@ -12,11 +12,11 @@
       "quantity": 1
     }
   ],
-  "payment_state": "estimate_sent",
+  "payment_state": "invoice_sent",
   "build_state": "none",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": null,
+  "invoice_date": "2026-09-11",
   "invoice_amount": 948993,
   "invoice_number": "H9223626P9056",
   "paid_date": null,
@@ -29,10 +29,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Contract H9223626P9056 fully executed as of 2026-09-28. Quote $948,993 for S0-AD system. Beck negotiating delivery schedule; contract specifies 60-day PoP from award (2026-09-11). Active engagement with contracting officer on schedule alignment.",
+  "notes": "Contract H9223626P9056 fully executed as of 2026-09-28. Award issued 2026-09-11 for S0-AD system at $948,993. Contract specifies 60-day PoP from award; Beck negotiating realistic delivery schedule with contracting officer Terry Brandon. Active engagement ongoing.",
   "missing_fields": [
     "receive_by",
-    "ship_to"
+    "ship_to",
+    "parts"
   ],
   "last_evidence_date": "2026-09-28",
   "last_contact_date": "2026-09-28"

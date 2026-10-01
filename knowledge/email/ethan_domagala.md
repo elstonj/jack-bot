@@ -1,112 +1,95 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 153 emails (138 previous + 15 new)
-- **Date range:** 24 Sep 2026 – 30 Sep 2026 (7 days; extends previous range of 27 Aug – 23 Sep)
-- **Approximate volume:** ~5.1 emails/day overall; new week shows ~2.1 emails/day (15 emails over 7 days), indicating lower activity post-Sep 23 surge
-- **Note:** Task overload flagged on Sep 25 (6 overdue tasks); task assignment volume normalized to 1 task/day by Sep 29–30
+- **Total messages scanned:** 167 emails (153 previous + 14 new)
+- **Date range:** 24 Sep 2026 – 1 Oct 2026 (8 days; extends previous range by 1 day)
+- **Approximate volume:** ~4.7 emails/day overall; new day (Oct 1) shows concentrated task assignment activity (4 SOCOM-related tasks in ~24 hours, Sep 30–Oct 1)
+- **Note:** Major task assignment surge on Sep 30 evening (5 SOCOM Pope tasks assigned by Dan Prendergast between 8:40–11:26pm); Flight Regulations meeting rescheduled from Fri Oct 2 to Thu Oct 1, 11am–12pm and 2–3pm (duplicate invitations suggest scheduling conflict or meeting structure change)
 
 ## Key Correspondents
 
-### Top Internal Senders (Continued)
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight test planning; meeting organizer
-- **Maciej Stachura** (stachura@blackswifttech.com) — M2 HALO, government program, component procurement
-- **Asana** (no-reply@asana.com) — Daily task notifications; normalized to 1 task/day (down from Sep 23 spike)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Government program liaison; forwarding external communications; task assignment (Packing List, Sep 29)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Task assignments; S3 IRAD/SOCOM Pope prototype work
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Flight planning meeting participant (NEW in this week)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — Flight planning/regulations meeting participant (NEW in this week)
-- **Sam Hild** (sam.hild@blackswifttech.com) — Government/flight program participant (NEW in this week)
-- **Ben Busby** (ben.busby@blackswifttech.com) — Government/operations participant (NEW in this week)
+### Top Internal Senders (Updated)
+- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **Primary task lead for SOCOM Pope** (5 task assignments in 24 hours: S0 METAR, S0 Auto-METAR, bench/ground/local flight testing x2, S0 EO/IR R&R)
+- **Asana** (no-reply@asana.com) — Task notifications; elevated frequency this week (5 SOCOM assignments + 2 general notifications)
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight test/regulations meeting organizer; rescheduled Flight Regulations Review meeting (2 updated invitations, Oct 1 vs. previous Oct 2)
+- **Maciej Stachura** (stachura@blackswifttech.com) — Flight regulations/government program team member
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — Flight regulations/government program team member
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Flight regulations team member
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — Flight regulations team member
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — Flight regulations team member
+- **Jack Elston** (elstonj@blackswifttech.com) — Flight regulations team member
 
-### External Senders (Promotional/Transactional)
-- **Soaring USA** (info@soaringusa.com) — Chilli X2 Carbon Wing Joiner Spars supplier; 2 outbound emails from Ethan (Sep 24, 29)
-- **GetFPV** (chloe@getfpv.com) — Product promotions (Jumper Aion/Radios); recurring 2x this week
-- **Xometry** (hello@mkt1.xometry.com) — Manufacturing/3DP service promotion (Sep 29)
-- **EU Drone Port™** (hey@eudroneport.com) — Drone regulation/compliance newsletter (Sep 29)
+### Transactional/System (New This Period)
+- **Gemini** (gemini-notes@google.com) — Meeting notes from "BST Internal Update Meeting" (Sep 30; 2 duplicate notifications)
+- **Rippling** (no-reply@rippling.com) — Payroll confirmation (Sep 30; monthly cycle)
 
-### Internal vs External Breakdown (This Week)
-- **Internal:** ~73% (Asana, Spencer Hoehl, Beck Cotter, Daniel Prendergast, Maciej Stachura, Josh Fromm, Cory Dixon, Sam Hild, Ben Busby)
-- **External/Promotional:** ~13% (GetFPV 2x, Xometry, EU Drone Port)
-- **Vendor (Active Correspondence):** ~13% (Soaring USA 2 outbound)
+### Internal vs External Breakdown (This Week + Oct 1)
+- **Internal/System:** ~100% (Asana, Dan Prendergast, Spencer Hoehl, flight team, Gemini, Rippling)
+- **External/Promotional:** 0% (no vendor or promotional emails this period)
 
 ## Topic Patterns
 
-### Major Project Themes (Updated)
+### **SOCOM Pope / S0 Prototype (MAJOR ESCALATION)**
+- **5 tasks assigned by Dan Prendergast on Sep 30 (8:40–11:26pm) and Oct 1 (4:49am):**
+  1. Build prototype S0 METAR
+  2. Build prototype S0 Auto-METAR
+  3. Bench, ground, and local flight testing (x2 — likely duplicate or clarification)
+  4. Build prototype S0 EO/IR R&R (Electro-Optical/Infrared Removable & Replaceable)
 
-#### **SOCOM Pope / S0 Prototype (NEW ACTIVE)**
-- **"Build prototype PCLT S0 with accelerometer [[600-1] SOCOM Pope]"** — Task assigned by Daniel Prendergast on Sep 27
-- **Indicators:** High-priority project task; prototype build phase
-- **Ethan's role:** Hardware builder/engineer
+- **Status:** Prototype build phase intensifying; multiple subsystems now active (METAR weather integration, EO/IR payload, flight testing)
+- **Ethan's role:** Primary hardware engineer/integrator for S0 prototype
 
-#### **Chilli Test Flight (Continuing)**
-- **"Chilli X2 Carbon Wing Joiner Spars"** — Direct vendor coordination (Soaring USA)
-- **Emails:** 2 outbound from Ethan (Sep 24, 29) to info@soaringusa.com
-- **Status:** Active component sourcing for Chilli aircraft
-- **Indicates:** Chilli Test Flight remains active priority
+### **Flight Regulations Review (Pendleton Breakdown)**
+- **Meeting rescheduled:** Originally Fri Oct 2, 1–2pm → **Thu Oct 1, 11am–12pm AND 2–3pm (MDT)** (dual invitations suggest conflict or meeting split)
+- **All flight/government program team present** (Spencer, Joshua, Beck, Cory, Maciej, Alex, Daniel, Jack)
+- **Context:** Likely regulatory review for Pendleton test site operations
 
-#### **M2 HALO Flight (Continuing)**
-- Referenced in meeting invitations; ongoing flight test coordination
-
-#### **Flight Regulations / Compliance (NEW)**
-- **"Flight Regulations Review (Pendleton Breakdown)"** — Meeting scheduled Fri Oct 2, 1–2pm MDT by Spencer Hoehl (Sep 28)
-- **Participants:** Ethan, Joshua Fromm, Beck Cotter, Cory Dixon, Maciej Stachura, Alex Lomis, Daniel Prendergast, Jack Elston
-- **Indicators:** Regulatory/compliance review; all-hands flight team involvement
-
-#### **Government Program (Continuing)**
-- Colorado Technology Student Association outreach forwarded by Beck Cotter (Sep 29, IMPORTANT)
-- Ongoing Navy coordination thread activity
-
-### Supplier/Component Activity
-- **Soaring USA** — Active (Chilli wing components)
-- **GetFPV** — Passive/promotional (Jumper Radios/TX Modules)
-- No large-scale procurement threads in this week (contrasts with Sep 23 FTDI spike)
+### **BST Internal Update Meeting (Sep 30)**
+- **Gemini notes captured** (content unknown from headers; marked IMPORTANT)
+- **Ethan attended or received notes**
 
 ## Communication Patterns
 
-### Meeting Cadence (Updated)
-- **Flight Regulations Review (Pendleton Breakdown)** — Scheduled Fri Oct 2, 1–2pm MDT
-  - All key flight/program team included
-  - Spencer Hoehl organizer
-  
-- **Bi-weekly Flight test planning** — Continuing
+### Task Assignment Velocity (Critical Change)
+- **Sep 30 evening surge:** 5 SOCOM Pope tasks assigned in ~2.5 hours (8:40–11:26pm UTC)
+- **Oct 1 early morning:** Additional task assignment duplicate/confirmation at 4:49am UTC (2 identical "Bench, ground, and local flight test" tasks)
+- **Implication:** Rapid prototype acceleration; multiple subsystems assigned simultaneously; possible deadline pressure or project go-live
 
-### Task Management Observations
-- **Overdue task spike:** Sep 25 flagged 6 overdue tasks (potential deadline miss or backlog)
-- **Normalization:** By Sep 29–30, task assignment dropped to 1 task/day (normal baseline)
-- **Current task:** SOCOM Pope S0 prototype build (Sep 27 assignment, active)
-- **Secondary task:** Packing List for return shipping (assigned by Beck via Asana, Sep 29)
+### Meeting Schedule Changes
+- **Flight Regulations Review moved up 1 day and time changed:** Originally Fri Oct 2, 1–2pm → Thu Oct 1, 11am–12pm + 2–3pm (duplicate invitations from Spencer Hoehl suggest calendar coordination issue or meeting restructure)
 
 ### Automated/System Emails
-- **Asana notifications:** 1 task/day baseline (Sep 29, 30); normalized after Sep 25 spike
-- **GetFPV promotions:** 2 this week (recurring weekly pattern continues)
-- **Manufacturing/service promotional emails:** Xometry, EU Drone Port (likely subscribed for sourcing intel)
+- **Asana task notifications:** 8 emails this period (5 SOCOM tasks + 3 notifications/summaries)
+- **Gemini notes:** 2 copies of same meeting notes (possible sync duplication)
+- **Rippling payroll:** Monthly cycle confirmation
 
-### Communication Velocity (This Week)
-- **Significantly lower than Sep 23:** Sep 23 saw 17 emails in 2 hours on single procurement thread
-- **This week:** Steady, routine cadence with no urgent multi-party threads
-- **Outbound activity:** 2 vendor communications (Soaring USA) by Ethan; no major internal coordination threads
+### Communication Velocity (Overall)
+- **This period:** Shift from routine to **intense task intake** on Sep 30–Oct 1
+- **No outbound vendor correspondence** (contrasts with previous week's Soaring USA activity)
+- **Consolidated focus:** All new activity internal (SOCOM tasks + flight regulations)
 
 ## Key Relationships
 
-### Closest Internal Collaborators (Confirmed)
-1. **Spencer Hoehl** — Flight test operations lead; meeting organizer
-2. **Maciej Stachura** — M2 HALO, government program, technical lead
-3. **Daniel Prendergast** — S3/SOCOM prototype task lead
-4. **Beck Cotter** — Government/regulatory liaison; task assigner
-5. **Alex Lomis** — S3 IRAD, government program
-6. **Jack Elston** — Government program liaison
+### Primary Current Collaborators
+1. **Dan Prendergast** — **Active SOCOM Pope prototype lead** (5 task assignments in 24 hours; primary task assigner)
+2. **Spencer Hoehl** — Flight test operations/regulations lead
+3. **Maciej Stachura** — M2 HALO / government program technical lead
+4. **Beck Cotter** — Government/regulatory liaison
+5. **Joshua Fromm**, **Cory Dixon**, **Sam Hild**, **Ben Busby**, **Alex Lomis**, **Jack Elston** — Flight regulations/government program extended team
 
-### Emerging Collaborators (This Week)
-- **Joshua Fromm**, **Cory Dixon**, **Sam Hild**, **Ben Busby** — Flight regulations/government program team expansion (all included in Oct 2 meeting & Sep 29 government forwarding)
-
-### External Vendor Relationships
-- **Soaring USA** — Chilli component supplier; direct Ethan correspondence
+### Collaboration Pattern
+- **Ethan's role:** Hands-on hardware engineer (prototype builder)
+- **Dan Prendergast's role:** Prototype program manager (task assigner, scope lead)
+- **Spencer Hoehl's role:** Operations/flight coordination lead
 
 ## Notable Observations
 
-1. **Post-Surge Normalization:** Week of Sep 24–30 shows dramatic reduction in email volume compared to Sep 23 spike (17 emails in 2 hours on FTDI procurement). Current week ~2.1 emails/day suggests procurement crisis resolved or moved to execution phase with Meredith Needham.
+1. **SOCOM Pope S0 Prototype Acceleration:** Task assignment volume jumped from 1 task/day (Sep 29–30 baseline) to **5 tasks in ~24 hours** (Sep 30–Oct 1). Multiple subsystems now active (METAR, Auto-METAR, EO/IR payload, flight testing), suggesting prototype is moving from initial build to integrated testing phase.
 
-2. **Task Backlog Cleared:** Sep 25 showed 6 overdue tasks, but by Sep 29–30 normalized to 1 task/day, indicating either deadline push or reassignment/completion.
+2. **Meeting Reschedule Signal:** Flight Regulations Review moved from Fri Oct 2 to **Thu Oct 1, with duplicate time-slot invitations** (11am–12pm and 2–3pm). Suggests either calendar conflict resolution or meeting structure change (possible split into two sessions or scheduling clarification needed).
 
-3. **SOCOM Pope Prototype Now Active:** New high
+3. **Zero External Vendor Activity:** Unlike previous week (Soaring USA active correspondence), this period shows no outbound vendor communication, indicating focus shift entirely to internal prototype development and regulatory coordination.
+
+4. **Intense Oct 1 Morning:** Early-morning task assignments (4:49am UTC Oct 1) and Asana notifications suggest either Dan Prendergast working late night or timezone-crossing coordination; possibly indicates project urgency or pre-meeting preparation for Flight Regulations Review.
+
+5. **Internal Update Meeting Captured:** Gemini notes from Sep 30 "BST Internal Update Meeting" sent to Ethan (marked IMPORTANT) — content unknown from headers, but timing aligns with task surge, suggesting meeting may have triggered or clarified SOCOM scope escalation.
