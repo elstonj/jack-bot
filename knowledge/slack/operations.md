@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through September 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through September 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), and significant hiring expansion. Most recent activity (September 30, 2026) reflects major hiring campaign and facility scaling preparations.
+**Activity level:** High-volume channel with 3,430+ messages spanning from July 2020 through September 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through September 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), and significant hiring expansion. Most recent activity (September 30, 2026) reflects major hiring campaign, facility scaling preparations, and increased cross-organizational coordination with KS regarding S0 logistics.
 
 ---
 
@@ -13,6 +13,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Hiring & Organizational Expansion
 - **September 30, 2026:** Major hiring initiative announced by Cory Dixon. 13 different positions for 14 total people being recruited (including 2x UAS Technicians). 4 candidates have accepted offers with staggered October start dates (first hire October 5, 2026). 2 additional offers pending candidate signatures. Represents significant organizational scaling.
+- **September 30, 2026:** Jack Elston requesting context on two candidate interviews scheduled for next day (Andrew and Grey). Jack asked Cory Dixon to provide resumes and clarify interview positions, noting the meeting invite lacked position information.
 
 ### Office & Facilities
 - **July 20, 2020:** Completed office relocation. Jack Elston coordinated with landlord. New facility includes solder station, vacuum dust management system, and industrial curtain dividers for clean/dirty room separation (divider delayed ~1 month due to COVID).
@@ -54,6 +55,4 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Solution:** Bill Nickerson coordinated with ProCargo (Houston) to handle hazmat packaging and documentation. Joshua Fromm documented comprehensive lithium shipping checklist including discharge procedures, taping, packing, labeling, and record-keeping. Operating limitation: domestic-only ground shipping initially; international shipments require specialized freight handlers.
 
-**Cost implications:** Extremely high ($1,225-$1,340 for 5x E2 batteries to Costa Rica via DHL without insurance). April 2022 Costa Rica mission required significant logistics planning due to battery shipping constraints.
-
-**May-June 2026 Mexico/Import Coordination:** Dan Prendergast identified historical correspondence regarding battery shipments to Mexico. Discovery
+**Cost implications:** Extremely high ($1,225-$1

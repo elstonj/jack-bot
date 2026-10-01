@@ -29,13 +29,13 @@
         "amount": 20002.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
       "purchases": {
         "amount": 48274.38,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
       "other_qbo": {
         "amount": 89.11,
@@ -49,7 +49,7 @@
     "committed": 545.32,
     "remaining": 20932.69,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-30T17:16:26Z"
+    "last_reconciled": "2026-10-01T09:03:58Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -94,6 +94,6 @@
       "text": "From Ethan: <@U06KRHPQSRH> NASA S2 pallet is 48x120in and 20in tall"
     }
   ],
-  "last_full_rebuild": "2026-09-30T17:16:26Z",
+  "last_full_rebuild": "2026-10-01T09:03:58Z",
   "last_incremental_update": null
 }

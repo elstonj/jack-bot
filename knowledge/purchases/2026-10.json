@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1a0f688cb192e0c0",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": 22.67,
+    "vendor": "Amazon",
+    "project_code": null,
+    "project_hint": null,
+    "description": "1 Electronics item",
+    "notes": null,
+    "date": "2026-10-01",
+    "subject": "Shipped: 1 Electronics item"
+  },
+  {
+    "id": "1a0f652a3d144595",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "AliExpress",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Marketing email, browsing reminder, no purchase action",
+    "date": "2026-10-01",
+    "subject": "Still browsing 1-5pcs PD QC Fast Charging Type-C Trigger Modul...?"
+  }
+]

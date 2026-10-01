@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $6,079,724.00
+- **Total Invoiced (Revenue):** $6,196,724.00
 - **Total Expenses (Bills + Purchases):** $1,817,298.33 + $3,378.65 = **$1,820,676.98**
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $4,259,047.02 (invoiced minus expenses)
+- **Net Position:** $4,376,047.02 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-10-07
 
 ---
@@ -12,16 +12,16 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $6,079,724.00
-- **Total Collected (Outstanding Balance):** $4,959,962.82 remaining (invoices with open balances)
-- **Number of Invoices:** 108 active invoices
+- **Total Invoiced:** $6,196,724.00
+- **Total Collected (Outstanding Balance):** $5,076,962.82 remaining (invoices with open balances)
+- **Number of Invoices:** 109 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $2,232,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
+| [300-3] 2026 IDIQ | $2,349,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
 | [550-1] Navy SBIR Magnetometer | $905,016.00 | **UPDATED 2026-10-07:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
 | [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |

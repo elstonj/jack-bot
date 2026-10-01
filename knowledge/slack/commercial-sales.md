@@ -6,7 +6,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Key Participants:**
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling, remote technical support authorization, GCS radio settings diagnostics, QC flight authorization, simulator configuration and deployment, refresher training coordination)
-- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes, S2 spare parts production, NASA deliverable coordination, S0-AD show model preparation, spare parts shipping logistics)
+- Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes, S2 spare parts production, NASA deliverable coordination, S0-AD show model preparation, spare parts shipping logistics, storm readiness coordination)
 - Melissa Phillips (shipping/logistics coordination)
 - Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms, simulator plugin diagnostics and configuration)
 - Danny Troke (QC, testing, batteries)
@@ -17,7 +17,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays)
 - Ethan Domagala (team member, Murphy's Pond field campaign participant Aug 4-6, GCS connectivity testing, freight shipment logistics coordination, simulator packing and shipping)
-- Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping)
+- Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping, storm readiness coordination)
 - Sean (manufacturing, spare wing/tail set production, parts sourcing and delivery coordination)
 - Cory Dixon (international sales/trade shows, display unit coordination, EU market engagement, production impact assessment)
 - Alex Lomis (demo unit assembly, S0-VTOL demo model preparation, parts management)
@@ -80,4 +80,4 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **UMES S3 Order & Delivery (April-May 2026)**
 - Order includes: 3 S3 battery packs and 2 S2 battery packs
-- Joshua Fromm requested clarification on S2 battery pack inclusion since S2 is end-of-life (April 29, 2026)
+- Joshua Fromm requested clarification on S2 battery pack inclusion since S2 is end-of-

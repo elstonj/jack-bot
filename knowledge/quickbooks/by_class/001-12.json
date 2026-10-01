@@ -4,14 +4,14 @@
     "(001-12)  General Customer Support/Project Support"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-09-30",
+    "end": "2026-10-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 238.75,
+    "expenses": 14.9,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 238.75
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 14.9
     }
   },
   "invoices": [],
@@ -19,37 +19,29 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 100.28,
-      "attributed": 100.28,
+      "date": "2026-10-15",
+      "doc_number": "260927W025531",
+      "total": 1123.62,
+      "attributed": 14.9,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "memo": "Worldwide Expres TYPE PAYMENTS Worldwide Expres TYPE PAYMENTS ID XXXXXX1662 CO Worldwide Expres",
       "lines": [
         {
-          "amount": 100.28,
+          "amount": 14.9,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Embry Riddle shipment of E2 for evaluation"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-15",
-      "doc_number": "",
-      "total": 138.47,
-      "attributed": 138.47,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "PIRATE SHIP * POSTAGE - 7333",
-      "lines": [
+          "description": "Shipment from Embry Riddle for fix"
+        },
         {
-          "amount": 138.47,
+          "amount": 398.89,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Embry Riddle shipment of E2 for evaluation"
+          "description": "Phase1 Shipment for S3"
+        },
+        {
+          "amount": 709.83,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Phase1 Shipment for S3"
         }
       ]
     }

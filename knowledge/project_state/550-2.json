@@ -33,7 +33,7 @@
         "amount": 40725.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 97769.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-30T17:18:13Z"
+    "last_reconciled": "2026-10-01T09:05:20Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -73,6 +73,6 @@
       "text": "From Joshua Fromm: That's me, navy mag"
     }
   ],
-  "last_full_rebuild": "2026-09-30T17:18:13Z",
+  "last_full_rebuild": "2026-10-01T09:05:20Z",
   "last_incremental_update": null
 }

@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 555 (412 previous + 143 new)
-- **Date range:** 25 Sep – 30 Sep 2026
-- **Volume:** Sustained extreme operational tempo through Sep 30; POLO/EP99/Rachel tropical operations continuing with live P-3 tasking confirmations extending through Oct 1 (Rachel, 10/1/2026); continuous NOAA AOC coordination; Krateo Sky integration meetings at peak intensity; Navy SBIR Phase II contract activities escalating
+- **Total messages scanned:** 571 (555 previous + 16 new)
+- **Date range:** 25 Sep – 1 Oct 2026
+- **Volume:** Sustained extreme operational tempo continuing through Oct 1; operational P-3 tasking for Rachel confirmed through Oct 1; Krateo Sky integration at peak intensity with weekly review cycles; Navy contract activities and technical coordination ongoing
 
 ---
 
@@ -11,50 +11,69 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** (elstonj@blackswifttech.com) — **Continues dominant volume**; new period adds: operational P-3 seat coordination threads, Krateo integration leadership (Sep 25–30, multiple IMPORTANT), BST/KS SOCOM Project kickoff (Sep 25–27), cybersecurity roadmap coordination with Krateo (Sep 25, 21:18 UTC, IMPORTANT), NOAA meeting prep (Sep 25, 13:41 UTC, IMPORTANT); cross-functional integration lead
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Elevated priority** in new period; Navy SBIR Phase II contract focus: "Contract deliverable" (Sep 29, multiple IMPORTANT; Sep 29, 09:21 UTC), Navy "Option Period wrap up" (Sep 29, 12:03–19:32 UTC, multiple IMPORTANT), USSOCOM contract escalations (Sep 28, 13:40–20:41 UTC, multiple IMPORTANT); maintains Navy SBIR deliverable oversight
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — **Critical BST/KS integration role**; "White papers for NOAA call prep Meeting on Monday" (Sep 25, 14:56 UTC, IMPORTANT), Krateo cybersecurity roadmap forwarding (Sep 25, 14:57 UTC, IMPORTANT), integration meeting slides distribution (Sep 30, 13:40 UTC, IMPORTANT); strategic partnership day-to-day operational lead
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active in partnership integration**: BST/KS Internal Kickoff for SOCOM Project (Sep 25–27, multiple IMPORTANT), PCLT Tech Questions to USSOCOM (Sep 28, 14:34 UTC, IMPORTANT); strategic operations
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Continuing operational coordination threads
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — Continued involvement in operational coordination
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — **Integrated with Krateo partnership**: recipient in major integration meeting slides (Sep 30, 13:40 UTC); procurement coordination continues; "New S2 Order" vendor coordination (Sep 29, 17:34–17:42 UTC, IMPORTANT)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Included in Krateo integration leadership distribution
+- **Jack Elston** (elstonj@blackswifttech.com) — **Dominant volume sustained**; new period adds: Flight Regulations Review meeting coordination (Oct 1, 11am & 2pm MDT, Spencer Hoehl relay Sep 30), Krateo Sky weekly integration review distribution (Sep 30, multiple IMPORTANT), cybersecurity roadmap forwarding (Sep 30, 18:58 UTC, IMPORTANT), external university contact coordination with Adam Houston (Sep 30, 12:35 UTC, IMPORTANT); cross-functional integration lead confirmed
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Sustained Navy contract focus**; included in Flight Regulations Review meetings (Oct 1, Sep 30); Navy contract escalations continuing
+- **Cory Dixon** (cory@krateosky.com / cory.dixon@blackswifttech.com) — **Elevated to primary Krateo integration point**: Cybersecurity roadmap leadership (Sep 30, 18:58 UTC, IMPORTANT), Week of Sept 28th Integration Meeting Slides distribution (Sep 30, 13:40 UTC, IMPORTANT), Black Swift Weekly Integration Review notes and actions (Sep 30, 20:50 UTC, IMPORTANT, forwarded by Sona Raziabeegum); day-to-day Krateo partnership operations
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1); Krateo integration meeting participation (Sep 30)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active USSOCOM technical coordination**: forwarding "(U) [Non-DoD Source] PCLT Tech Questions" response to USSOCOM (Sep 30, 16:21 UTC, IMPORTANT); escalation point for military technical requirements
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1)
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Krateo integration meeting distribution (Sep 30, multiple IMPORTANT)
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **New correspondence**: organizing Flight Regulations Review meetings with Pendleton Breakdown agenda (Oct 1, dual 11am-12pm and 2pm-3pm MDT sessions, Sep 30, 22:39 & 23:05 UTC)
 
 ### Top External Contacts
 
-#### Government (Operational Command — PEAK INTENSITY)
+#### Government (Operational & Strategic)
 
-**NOAA (LIVE P-3 OPERATIONAL TASKING THROUGH OCT 1)**
+**NOAA (LIVE P-3 OPERATIONAL TASKING CONTINUES)**
 
-- **AOC Hurricanes - NOAA Service Account** (aoc.hurricanes@noaa.gov) — **CRITICAL OPERATIONAL AUTHORITY**: 
-  - "Confirmed Tasking P-3, Rachel, 9/30/2026" (Sep 29, 11:15 AM EDT, INBOX)
-  - "Confirmed Tasking P-3, Rachel, 9/29/2026" (Sep 28, 12:20 PM EDT, INBOX)
-  - "Confirmed Tasking P-3, Polo and TD18-E, 9/28/2026" (Sep 27, 12:07 PM EDT, INBOX)
-  - **"Confirmed Tasking P-3, Rachel, 10/1/2026"** (Sep 30, 10:04 AM EDT, INBOX) — **multi-day live operational tasking extending into Oct 1**
-  - Pattern: Daily P-3 confirmed tasking messages through Sep 30 with Oct 1 Rachel tasking confirmed
-- **Heather Holbach - NOAA Affiliate** (heather.holbach@noaa.gov) — **Continued flight operations distributor**; included in all daily tasking and flight track distributions
-- **Danielle Varwig - NOAA Federal** (danielle.varwig@noaa.gov) — **Real-time operational coordination**: Updated Emerging Tech FY26 Hotwash invitations (Oct 1 and Oct 8 dates, Sep 25 & 28, IMPORTANT); direct recipient on operational tasking threads
-- **Joe Cione - NOAA Federal** (joe.cione@noaa.gov) — Operations team participation; included in P3 seat, tasking, and hotwash coordination
-- **Nikolai Pawlenko - NOAA Federal** (nikolai.f.pawlenko@noaa.gov) — Continuing operations team coordination; included in all active operational threads
-- **Mark Rogers - NOAA Federal** (mark.e.rogers@noaa.gov) — Included in operational coordination and flight track distribution
-- **Jason Sippel - NOAA Federal** (via sascwatch-all) — **Multiple HFP POD updates and flight track distributions**:
-  - "HRD Tropical Weather Map Discussions: Sep 28 - Oct 2nd" (Sep 28, 08:46 UTC, IMPORTANT)
-  - "Hurricane Field Program POD" updates (Sep 25–29, daily IMPORTANT mailing)
-  - "Preliminary Flight Tracks" for Sep 29–30 operations (Sep 27–28, IMPORTANT)
-  - "HFP-APHEX Call - EP90" updated invitation (Sep 26, 17:05 UTC, IMPORTANT)
-- **Laura Rock, Jason Dunion, Ghassan Alaka, Mark DeMaria, Jun Zhang, Paul S Chang, Kathryn Sellwood, Lev Looney** — Continued HRD operations distribution participation
-- **Lisa Bucci - NOAA Federal** (lisa.r.bucci@noaa.gov) — Large multi-recipient flight track distributions (Sep 26 & 28, IMPORTANT); distributed participation
-- **David Richter** (David.Richter.26@nd.edu) — S0 HDOB data coordination (Sep 26–27, IMPORTANT)
+- **AOC Hurricanes - NOAA Service Account** (aoc.hurricanes@noaa.gov) — **CRITICAL OPERATIONAL AUTHORITY CONFIRMED**: 
+  - **"Confirmed Tasking P-3, Rachel, 10/1/2026"** (Sep 30, 10:04 AM EDT, INBOX) — **Oct 1 Rachel tasking confirmed for live operations**; Maciej receives direct tasking confirmation
+  - Large distribution list including Jason Dunion, Ghassan Alaka, Jason Sippel, Heather Holbach, Andrew Hazelton, Paul S Chang, Danielle Varwig, Mark Rogers, Nikolai Pawlenko, Joe Cione, Kathryn Sellwood, Lev Looney, Jun Zhang, Laura Rock, Joe Sapp, David Richter, Zorana Jelenak, Benjamin Jaimes de la Cruz, Flight Operations
+  - Pattern continues: daily operational tasking through Oct 1
 
-**Navy/USSOCOM (Strategic Priority — Contract Focus)**
+**Navy/USSOCOM (Contract & Technical Escalations)**
 
-- **Ruiz-Reyes, Angel R CIV USN NAWCAD** (angel.r.ruiz-reyes.civ@us.navy.mil) — **Contract management escalations**:
-  - "Option Period wrap up" (Sep 29, 12:03–19:32 UTC, multiple IMPORTANT)
-  - "Black Swift Option Period Final Report Follow up" (Sep 28, 20:41 UTC, IMPORTANT)
-  - "N6833525C0492 Option Period Final Report Black Swift Technologies" (Sep 28, 20:05 UTC, IMPORTANT)
-  - Continued DoD contract oversight role
-- **Terry, Brandon M SSGT USAF USSOCOM AFSOC-GSU** (brandon.m.terry.mil@socom.mil) — **USSOCOM operational contract engagement**:
-  - "(U) [Non-DoD Source] Black Swift contract" (Sep 28, 13:40–20:41 UTC, multiple IMPORTANT, via Beck Cotter)
-  - Indicates active USSOCOM platform/capability integration
-- **Wolff, Evan M MIL USSOCOM SOCOM** (evan.m.wolff.mil@socom.mil) — "PCLT Tech Questions" from Daniel Prendergast (Sep 28, 14:34 UTC, IMPORTANT); technical requirements/feedback loop
-- **USN Pentagon CNR ARLINGTON VA Mailbox navy-sbir-sttr** (usn.pentagon.cnr-arlington-va.mbx
+- **Brescia, Anthony D CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — **New escalation**:
+  - "TCE Fallout" (Sep 30, 18:58 UTC, IMPORTANT)
+  - Recipients: Jack Elston, Beck Cotter, Maciej Stachura, Aaron D Pyrah (NAWCAD), Angel R Ruiz-Reyes (NAWCAD)
+  - Indicates technical or contractual issue requiring senior BST response
+- **Jagelewski, Michael C CIV USSOCOM SOCOM** (michael.c.jagelewski.civ@socom.mil) — **Active USSOCOM technical engagement**:
+  - "RE: (U) [Non-DoD Source] PCLT Tech Questions" (Sep 30, 21:44 UTC, IMPORTANT)
+  - Response to Daniel Prendergast thread; includes Evan M Wolff (USSOCOM)
+  - Technical requirements/feedback loop for USSOCOM integration
+- **Wolff, Evan M MIL USSOCOM SOCOM** (evan.m.wolff.mil@socom.mil) — Continued USSOCOM technical coordination
+
+#### Krateo Sky (Strategic Partnership — Integration Intensity Peak)
+
+- **Sona Raziabeegum** (sona@krateosky.com) — **Integration meeting authority**:
+  - "Black Swift Weekly Integration Review, notes and actions from 30 September" (Sep 30, 20:50 UTC, IMPORTANT)
+  - Large distribution: Cory Dixon (Krateo), Jack Elston, Maciej Stachura, Bob Smith, Brian Grubel, Adria Passola, Lluis Pedragosa, Ariel Avitan, Thibault Bridel-Bertomeu, LisaMarie Cheney, Dipan Amin, Tim Hegwood, Jed Leonard, Joshua Fromm, Pam Kermisch, Don Spinozzi, Meredith Needham, Bob Gold, Jasmine Khambatta, Roger Riley
+  - Weekly review cycle established; Maciej is core participant
+
+- **Cory Dixon** (cory@krateosky.com) — **Krateo operations authority**:
+  - Cybersecurity roadmap (Sep 30, 18:58 UTC, IMPORTANT) — forwarded to Jack Elston and Maciej Stachura
+  - Week of Sept 28th Integration Meeting Slides (Sep 30, 13:40 UTC, IMPORTANT) — large internal/external distribution
+  - Indication: dual-role position (Krateo + BST) as integration lead
+
+- **Contact** (contact@krateosky.com) — **Automated integration meeting distribution**:
+  - "Meeting summary: Black Swift Weekly Integration Review" (Sep 30, 16:57 UTC, IMPORTANT)
+  - Recipients: Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham
+  - Indicates formal weekly cycle with summary generation
+
+#### External Business/Legal
+
+- **Billing** (billing@kofirm.com) — **Legal/closing coordination**:
+  - "RE: Invoice for closing legal fee re KrateoSky/Black Swift Technologies LLC - Maciej Stachura" (Sep 30, 22:06 UTC, IMPORTANT)
+  - Direct to Maciej Stachura; indicates Maciej involved in Krateo Sky legal/financial transaction closure
+
+#### External Contacts (Non-government)
+
+- **Adam Houston** (ahouston2@unl.edu) — **University contact - new**:
+  - "Meet up on Monday" (Sep 30, 12:35 UTC, IMPORTANT)
+  - Recipients: Jack Elston, Maciej Stachura
+  - University of Nebraska-Lincoln affiliation; meeting scheduled for early Oct week
+
+#### Automated/System Emails
+
+- **

@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,020,068.62
-- **Total Expenses (Bills + Purchases):** $244,833.71
+- **Total Expenses (Bills + Purchases):** $245,957.33
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,775,235.91 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – September 30, 2026
+- **Net Position:** $2,774,111.29 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – October 15, 2026
 
 ---
 
@@ -99,6 +99,13 @@
 
 ## Expenses by Cost Category
 
+### **Indirect Costs** (Research & Development — Internal R&D)
+**Total: $1,123.62** | 1 transaction
+
+| Date | Description | Amount | Details |
+|------|-------------|--------|---------|
+| 2026-10-15 | Worldwide Express Shipment (Purchase #260927W025531) | $1,123.62 | **Three line items:** $14.90 (Embry Riddle shipment for fix) + $398.89 (Phase1 shipment for S3) + $709.83 (Phase1 shipment for S3) |
+
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
 **Total: $12.87** | 1 transaction
 
@@ -106,13 +113,5 @@
 |------|-------------|--------|---------|
 | 2026-09-25 | Worldwide Express Shipment | $12.87 | Shipment from UMES for fixing problem (dated 8/31/26) |
 
-### **Indirect Costs** (Research & Development — Internal R&D)
-**Total: $193.82** | 2 transactions
-
-| Date | Description | Amount | Details |
-|------|-------------|--------|---------|
-| 2026-09-25 | Worldwide Express Shipment | $84.14 | Shipment from Phase1 Aviation (dated 8/31/26) |
-| 2026-09-25 | Worldwide Express Shipment | $109.68 | Shipment from Phase1 Aviation |
-
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $7,980.45** | 26 transactions | Largest item
+**Total

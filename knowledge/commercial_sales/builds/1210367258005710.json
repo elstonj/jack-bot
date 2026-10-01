@@ -29,14 +29,14 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote sent for 2\u00d7 S2 aircraft ($65k estimated value). Freight shipping quote obtained (500 lbs, 105\"L \u00d7 48\"W \u00d7 24\"H). NASA shipment picked up 2026-09-22 per ops confirmation. Parts shipped overnight 2026-09-29 with tracking number pending (Slack #commercial-sales). Recent follow-up from Kelly Y. Huang (yhuang74@central.uh.edu) re: S2 quote status; mentions collaboration with Dr. James Flynn. Note: QBO invoice 1633 ($3,470, dated 2024-11-04, PAID) is on '[211-1] NASA Ames MHP' project line\u2014different project, treated as background only.",
+  "notes": "Quote sent for 2\u00d7 S2 aircraft ($65k estimated value). Freight shipping quote obtained (500 lbs, 105\"L \u00d7 48\"W \u00d7 24\"H). NASA shipment picked up 2026-09-22 per ops confirmation. Parts shipped overnight 2026-09-29; tracking number promised same day per Slack #commercial-sales. Recent Slack activity (2026-09-29) confirms parts going out today with tracking TBA. QBO invoice 1633 ($3,470, dated 2024-11-04, PAID) is on different project line '[211-1] NASA Ames MHP' \u2014 not this order.",
   "missing_fields": [
     "receive_by",
     "ship_to",
+    "tracking_number",
     "invoice_number",
     "invoice_date",
-    "invoice_amount",
-    "tracking_number"
+    "invoice_amount"
   ],
   "last_evidence_date": "2026-09-30",
   "last_contact_date": null

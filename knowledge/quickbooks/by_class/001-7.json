@@ -1,237 +1,47 @@
 {
   "project_code": "001-7",
   "qbo_class_names": [
-    "(001-7) IRAD - S3",
-    "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
+    "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-09-24",
-    "end": "2026-09-30"
+    "start": "2026-09-30",
+    "end": "2026-10-01"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1855.84,
+    "expenses": 1108.72,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1843.77,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 12.07
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1108.72
     }
   },
   "invoices": [],
-  "bills": [
-    {
-      "type": "Bill",
-      "date": "2026-09-29",
-      "doc_number": "IESIN1088759",
-      "total": 149.6,
-      "attributed": 149.6,
-      "vendor": "Infinite Electronics International, Inc",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "Shipping cost for purchase",
-      "lines": [
-        {
-          "amount": 149.6,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SMA Male to Reverse Polarity SMA Male Cable Using"
-        }
-      ]
-    }
-  ],
+  "bills": [],
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 206.69,
-      "attributed": 193.82,
+      "date": "2026-10-15",
+      "doc_number": "260927W025531",
+      "total": 1123.62,
+      "attributed": 1108.72,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "Worldwide Expres TYPE PAYMENTS Worldwide Expres TYPE PAYMENTS  ID XXXXXX1662 CO Worldwide Expres",
+      "memo": "Worldwide Expres TYPE PAYMENTS Worldwide Expres TYPE PAYMENTS ID XXXXXX1662 CO Worldwide Expres",
       "lines": [
         {
-          "amount": 12.87,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment from UMES for fixing problem (8/31/26)"
+          "amount": 14.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment from Embry Riddle for fix"
         },
         {
-          "amount": 84.14,
+          "amount": 398.89,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment from Phase1 Aviation (8/31/26)"
+          "description": "Phase1 Shipment for S3"
         },
         {
-          "amount": 109.68,
+          "amount": 709.83,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipment from Phase1 Aviation"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-25",
-      "doc_number": "",
-      "total": 446.58,
-      "attributed": 446.58,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "MINI CIRCUITS MO - 7333",
-      "lines": [
-        {
-          "amount": 446.58,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "30 dB fixed attenuators x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "401280",
-      "total": 9.99,
-      "attributed": 9.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 9.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SMA Female Bulkhead x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "WL5306137",
-      "total": 114.89,
-      "attributed": 114.89,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 114.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "2W/20 dB RF Fixed Attenuator x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "M1A0D54BC110.",
-      "total": 450.72,
-      "attributed": 450.72,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 450.72,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "BW-N30W20 x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "SH20619",
-      "total": 174.98,
-      "attributed": 174.98,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 174.98,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Ubiquiti AirMAX 2.4GHz Sector Antenna"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 174.99,
-      "attributed": 174.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 174.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Ultimate Support TS-99BL TeleLock"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 10.59,
-      "attributed": 10.59,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 10.59,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SMA Male Terminators"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "",
-      "total": 129.68,
-      "attributed": 129.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 8.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Self Fusing Silicone Tape"
-        },
-        {
-          "amount": 12.98,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "uxcell MMCX Male Right Angle x 2"
-        },
-        {
-          "amount": 25.19,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "TYD SMA Torque Wrench"
-        },
-        {
-          "amount": 25.64,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "4Pack 4mm Reflective Guy Lines"
-        },
-        {
-          "amount": 30.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "MSR Blizzard Stake Kit"
-        },
-        {
-          "amount": 25.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "JSZAAHZ SMA Adapter kit"
+          "description": "Phase1 Shipment for S3"
         }
       ]
     }

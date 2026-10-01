@@ -18,11 +18,7 @@
     "start_date": null,
     "end_date": "2027-06-01",
     "payment_cadence": null,
-    "documents": [
-      "drive://NOAA_SOW_BlackSwift_S0_Enhanced_UAS_DRAFT.pdf",
-      "drive://NOAA_SOW_BlackSwift_S0_LOS_Video_UAS_DRAFT.pdf",
-      "drive://Budget Structure"
-    ]
+    "documents": []
   },
   "budget": {
     "approved": 483000.0,
@@ -33,27 +29,27 @@
         "amount": 292781.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
       "other_qbo": {
-        "amount": 929.53,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-30"
+        "last_updated": "2026-10-01"
       },
-      "total": 295879.3,
+      "total": 294949.77,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 187120.7,
+    "remaining": 188050.23,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-09-30T17:16:29Z"
+    "last_reconciled": "2026-10-01T09:04:02Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -91,6 +87,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-09-30T17:16:29Z",
+  "last_full_rebuild": "2026-10-01T09:04:02Z",
   "last_incremental_update": null
 }
