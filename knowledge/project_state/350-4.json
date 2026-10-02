@@ -30,10 +30,10 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 20555.0,
+        "amount": 20577.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-01"
+        "last_updated": "2026-10-02"
       },
       "purchases": {
         "amount": 0.0,
@@ -47,19 +47,19 @@
         "confidence": "exact",
         "last_updated": "2026-04-22"
       },
-      "total": 26975.35,
+      "total": 26997.85,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 97254.65,
+    "remaining": 97232.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-01T09:04:52Z"
+    "last_reconciled": "2026-10-02T09:17:25Z"
   },
   "milestones": [
     {
-      "name": "Sort out flight, radio, shipping, and import permissions",
-      "asana_task_gid": "1205941504825204",
-      "due_on": "2026-07-31",
+      "name": "Conduct Mission",
+      "asana_task_gid": "1205941504825215",
+      "due_on": "2026-10-01",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -68,16 +68,7 @@
     {
       "name": "Finish payload updates",
       "asana_task_gid": "1205941504825207",
-      "due_on": "2026-08-31",
-      "original_due": null,
-      "status": "open",
-      "invoice_trigger": null,
-      "evidence": []
-    },
-    {
-      "name": "Conduct local flight testing",
-      "asana_task_gid": "1205941504825211",
-      "due_on": "2026-08-31",
+      "due_on": "2026-10-23",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -86,16 +77,25 @@
     {
       "name": "Ship Aircraft and Equipment",
       "asana_task_gid": "1205941504825213",
-      "due_on": "2026-09-01",
+      "due_on": "2026-10-26",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
       "evidence": []
     },
     {
-      "name": "Conduct Mission",
-      "asana_task_gid": "1205941504825215",
-      "due_on": "2026-10-01",
+      "name": "Sort out flight, radio, shipping, and import permissions",
+      "asana_task_gid": "1205941504825204",
+      "due_on": "2026-11-04",
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Conduct local flight testing",
+      "asana_task_gid": "1205941504825211",
+      "due_on": "2026-11-06",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -125,6 +125,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-10-01T09:04:52Z",
+  "last_full_rebuild": "2026-10-02T09:17:25Z",
   "last_incremental_update": null
 }

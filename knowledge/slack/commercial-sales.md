@@ -15,7 +15,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Paige Smith (sales coordination, customer communication, website form submissions)
 - Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, Halo project folder management, Murphy's Pond PO coordination, LMUK/Raven SOW drafting, RFI documentation, RMA documentation, sales folder management, RMA/support case tracking)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays, NASA refresher training coordinator)
 - Ethan Domagala (team member, Murphy's Pond field campaign participant Aug 4-6, GCS connectivity testing, freight shipment logistics coordination, simulator packing and shipping)
 - Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping, storm readiness coordination)
 - Sean (manufacturing, spare wing/tail set production, parts sourcing and delivery coordination)
@@ -39,14 +39,14 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ethan & Spencer (team members attending Murphy's Pond field campaign Aug 4-6)
 - Joey (NOAA team member, NightFox payload integration support needed, Aug 3, 2026)
 - ERAU (external customer - E2 return/RMA case, September 2026; aircraft in office as of September 24, 2026)
-- Wes (NASA contact, involved in NASA Ames S2 shipping coordination, shipment delay notification needed September 30, 2026)
-- Phase1 (external vendor, wing supply)
+- Wes (NASA contact, involved in NASA Ames S2 shipping coordination)
 - Will (Stanford customer contact, S2 components and system quote under review)
+- Phase1 (external vendor, wing supply)
 - NASA Ames (customer - S2 delivery, simulator equipment, campus mapping mission interest)
 - KS (international distributor/partner - EU trade show support, display units for Zurich by October 19, 2026)
 - Stanford (prospective customer - S2 systems and components quote, NRE discussion, considering S3 alternative)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: September 30, 2026.
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with multiple concurrent projects and customer interactions. Most recent activity: October 1, 2026.
 
 ---
 
@@ -80,4 +80,8 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **UMES S3 Order & Delivery (April-May 2026)**
 - Order includes: 3 S3 battery packs and 2 S2 battery packs
-- Joshua Fromm requested clarification on S2 battery pack inclusion since S2 is end-of-
+- Joshua Fromm requested clarification on S2 battery pack inclusion since S2 is end-of-life
+
+---
+
+## Projects &

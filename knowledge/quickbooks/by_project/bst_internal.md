@@ -1,12 +1,12 @@
 # BST Internal — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue)**: $24,119.36 *(no new invoices in Sept 30–Oct 15 period)*
-- **Total Expenses (Bills + Purchases)**: $1,641,178.10 (+$819.12 from Sept 30–Oct 15, 2026)
-- **Total Purchase Orders**: $13,948.00 *(no new POs in Sept 30–Oct 15 period)*
-- **Net Position**: -$1,617,058.74 *(expenses exceed revenue by $1.62M; deficit increased $819.12 from previous period)*
+- **Total Invoiced (Revenue)**: $24,119.36 *(no new invoices in Oct 1–15 period)*
+- **Total Expenses (Bills + Purchases)**: $1,641,997.22 (+$1,123.62 from Oct 1–15, 2026)
+- **Total Purchase Orders**: $13,948.00 *(no new POs in Oct 1–15 period)*
+- **Net Position**: -$1,617,877.86 *(expenses exceed revenue by $1.62M; deficit increased $1,123.62 from previous period)*
 - **Date Range**: April 5, 2024 – October 15, 2026 (29+ months)
-- **Transaction Count**: 1,601 (+2 new transactions Sept 30–Oct 15, 2026)
+- **Transaction Count**: 1,602 (+1 new transaction Oct 1–15, 2026)
 
 ---
 
@@ -52,18 +52,8 @@
 
 ## Expenses by Cost Category
 
-### **Indirect Costs (Payroll Tax & Healthcare)**: $696.12 (NEW Sept 30–Oct 15)
-
-| Date | Item | Amount | Account | Purpose |
-|------|------|--------|---------|---------|
-| 2026-09-30 | Bill #10012026 (Nathaniel Straus) | $696.12 | Indirect Cost: Payroll Expenses: Payroll Tax: Healthcare Expenses | COBRA health insurance payment |
-
-**Category Total**: $696.12  
-**Transaction Count**: 1  
-**Note**: COBRA payment indicates ongoing employee healthcare coverage obligation post-departure or leave status.
-
-### **Materials & Direct Purchases**: $558,062.58 → **$559,185.20**
-**Updated Total (Apr 2024 – Oct 15)**: Previous + $1,122.62 (NEW Sept 30–Oct 15)
+### **Materials & Direct Purchases / Shipping & Freight**: $560,308.82
+**Updated Total (Apr 2024 – Oct 15)**: Previous $559,185.20 + $1,123.62 (NEW Oct 1–15, 2026)
 
 **New Materials & Shipping Transactions (Oct 15, 2026):**
 
@@ -77,7 +67,7 @@
 **Breakdown by Type**:
 - **IRAD R&D Shipping (Materials in Transit)**: $1,123.62 *(3 separate Phase1 Aviation and Embry Riddle component shipments)*
 
-**Strategic Significance**: Consolidation of three freight charges in single Worldwide Express bill suggests coordinated multi-component delivery for S3 prototype or system integration. Embry Riddle "fix" shipment indicates ongoing repairs/modifications to aerospace platform. Phase1 S3 shipments (2x $398.89 + $709.83) align with wing/airframe deliveries for UAV assembly continuation.
+**Strategic Significance**: Consolidation of three freight charges in single Worldwide Express bill (Purchase #260927W025531) suggests coordinated multi-component delivery for S3 prototype or system integration. Embry Riddle "fix" shipment ($14.90) indicates ongoing repairs/modifications to aerospace platform. Phase1 S3 shipments (Part 1: $398.89 + Part 2: $709.83 = $1,108.72 total) align with wing/airframe deliveries for UAV assembly continuation. This represents acceleration of component procurement and logistics for active S3 build-out phase.
 
 ---
 
@@ -86,13 +76,13 @@
 | Category | Amount | % of Total | Transactions | Notes |
 |----------|--------|-----------|--------------|-------|
 | **Facilities & Rent** | $523,219.82 | 31.9% | Multiple | Largest expense category; October rent already posted (Sept 25 for future month) |
-| **Materials & Direct Purchases** | $559,185.20 | 34.1% | Multiple | RF components, field equipment, shipping; growing with S3 build-out |
+| **Materials & Direct Purchases / Shipping** | $560,308.82 | 34.2% | Multiple | RF components, field equipment, shipping; growing with S3 build-out (updated with Oct 15 freight) |
 | **IRAD Indirect R&D** | $224,519.76 | 13.7% | Multiple | Subcontractors and internal R&D labor; stable |
 | **Direct Labor & Subcontractors** | $395,197.65 | 24.1% | Multiple | Engineering and project labor; largest after facilities |
-| **Indirect Costs (Payroll Tax/Healthcare)** | $696.12 | <0.1% | 1 | COBRA payment (NEW Sept 30) |
+| **Indirect Costs (Payroll Tax/Healthcare)** | $696.12 | <0.1% | 1 | COBRA payment (Sept 30, 2026) |
 | **Travel (Direct Cost)** | $2,176.46 | 0.1% | 10 | California field deployment (Sept 24) |
 | **Shipping/Freight (Direct Cost)** | $12.87 | <0.1% | 1 | UMES repair shipment (Sept 25) |
-| **TOTAL EXPENSES** | **$1,641,178.10** | **100%** | **1,601** | *(+$819.12 in latest reporting period)* |
+| **TOTAL EXPENSES** | **$1,641,997.22** | **100%** | **1,602** | *(+$1,123.62 in Oct 1–15 period)* |
 
 ---
 
@@ -101,45 +91,58 @@ List POs with: number, date, vendor, amount, description.
 
 | PO # | Date | Vendor | Amount | Description | Status |
 |------|------|--------|--------|-------------|--------|
-| *(See prior knowledge file for complete PO history)* | — | — | $13,948.00 | *(Total across all POs; no new POs Sept 30–Oct 15)* | — |
+| *(See prior knowledge file for complete PO history)* | — | — | $13,948.00 | *(Total across all POs; no new POs Oct 1–15)* | — |
 
-**No new purchase orders in Sept 30–Oct 15 period.**
+**No new purchase orders in Oct 1–15 period.**
 
 ---
 
 ## Monthly Spend by Category
 
-### **September 2026 (Sept 1–30)** — Updated with Oct 15 Reporting
-**Total Spend**: ~$50,591.50 (sept 24–30 period: +$49,772.50 from prior records + $2,176.46 travel + $10,443.21 facilities + $1,856.10 materials)
-
-| Category | Sept 1–23 | Sept 24–30 | Sept Total | Notes |
-|----------|-----------|-----------|-----------|-------|
-| **Facilities & Rent** | Baseline | $2,750.76 | ~$2,750+ | October rent pre-posted Sept 25 |
-| **Materials & IRAD R&D** | Baseline | $1,856.10 | ~$1,856+ | RF components, field deployment gear |
-| **Travel (Direct)** | $0 | $2,176.46 | **$2,176.46** | California deployment (Project 550-1) |
-| **Shipping/Freight** | $0 | $12.87 | **$12.87** | UMES repair freight |
-| **Payroll/Indirect** | $49,772.50 | $0 | **$49,772.50** | Recruitment spend (Sept 23–24 period) |
-| **Subtotal (Sept)** | ~$49,772.50 | ~$6,796.19 | **~$56,568.69** | — |
-
-### **October 2026 (Oct 1–15)** — NEW PERIOD
-**Total Spend**: $819.12
+### **September 2026 (Sept 1–30)** — Final
+**Total Spend**: ~$56,568.69
 
 | Category | Amount | Notes |
 |----------|--------|-------|
-| **Materials/Shipping (IRAD R&D)** | $1,123.62 | 3x Phase1/Embry Riddle freight charges (posted Oct 15) |
-| **Indirect Costs (Payroll Tax/Healthcare)** | $696.12 | COBRA payment (posted Sept 30, accrual/timing adjustment) |
-| **Subtotal (Oct 1–15)** | **$1,819.74** | — |
+| **Facilities & Rent** | ~$2,750+ | October rent pre-posted Sept 25 |
+| **Materials & IRAD R&D** | ~$1,856+ | RF components, field deployment gear |
+| **Travel (Direct)** | **$2,176.46** | California deployment (Project 550-1) |
+| **Shipping/Freight** | **$12.87** | UMES repair freight |
+| **Payroll/Indirect** | **$49,772.50** | Recruitment spend (Sept 23–24 period) |
+| **Healthcare (COBRA)** | **$696.12** | Posted Sept 30 (accrual) |
+| **TOTAL (Sept)** | **~$57,264.81** | — |
 
-**Note**: October shows elevated materials/shipping activity (S3 build-out acceleration) but reduced direct labor and facility expenses relative to September. Payroll-related costs stabilize after major recruitment spend in late September.
+### **October 2026 (Oct 1–15)** — NEW PERIOD
+**Total Spend**: $1,123.62
+
+| Category | Amount | Notes |
+|----------|--------|-------|
+| **Materials/Shipping (IRAD R&D)** | **$1,123.62** | 3x Phase1/Embry Riddle freight charges (Worldwide Express, Purchase #260927W025531, posted Oct 15) |
+| **TOTAL (Oct 1–15)** | **$1,123.62** | — |
+
+**Burn Rate Analysis**:
+- **September 2026**: ~$1,908.83/day *(57-day burn including recruitment spike)*
+- **October 2026 (1–15 days)**: ~$74.91/day *(minimal spend; primarily materials-in-transit)*
+- **Trend**: Sharp deceleration post-recruitment period; October activity limited to component procurement and logistics for S3 build-out.
 
 ---
 
 ## Notable Transactions
 
-### **FLAGGED — Embry Riddle & Phase1 Aviation Component Shipments (Oct 15, 2026)**
-- **Total**: $1,123.62 (3x freight charges consolidated in single Worldwide Express bill)
+### **FLAGGED — Multi-Part Phase1 Aviation & Embry Riddle Shipment (Oct 15, 2026)**
+- **Purchase #**: 260927W025531
+- **Vendor**: Worldwide Express
+- **Total Amount**: $1,123.62
+- **Account**: RESEARCH & DEVELOPMENT: IRAD-Internal Research and Development
 - **Breakdown**:
-  - Embry Riddle "fix" shipment: $14.90 *(repairs/modifications to aerospace platform)*
+  - Embry Riddle "fix" shipment: $14.90 *(repairs/modifications to aerospace platform; smallest component)*
   - Phase1 S3 Airframe Shipment (Part 1): $398.89
   - Phase1 S3 Airframe Shipment (Part 2): $709.83
-- **Significance**: Multi-part delivery of S3 UAV components indicates active prototype integration. Embry Riddle engagement suggests university partnership for aerodynamic/structural validation or repairs.
+- **Cumulative Phase1 S3 Airframe Delivery**: $1,108.72 (two-part consolidated shipment)
+
+**Strategic Significance**: 
+- Coordinated three-way freight consolidation indicates operational maturity in supply chain logistics and multi-vendor component integration.
+- Embry Riddle engagement ($14.90 "fix") suggests university partnership for aerodynamic validation, structural testing, or post-test repairs to aircraft platform.
+- Phase1 Aviation dual-shipment ($1,108.72 total) aligns with active S3 UAV prototype build-out and wing/airframe component delivery cycle.
+- Posted Oct 15 (mid-month) rather than month-end; suggests urgent/expedited delivery for critical assembly phase.
+- This transaction represents continued high-velocity S3 development despite

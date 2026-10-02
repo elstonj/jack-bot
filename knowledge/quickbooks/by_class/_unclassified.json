@@ -1,36 +1,42 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    ""
+    "SOCOM:[600-01] SOCOM Pope ii"
   ],
   "period": {
-    "start": "2026-09-30",
-    "end": "2026-10-01"
+    "start": "2026-10-01",
+    "end": "2026-10-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 696.12,
+    "expenses": 2778.07,
     "by_category": {
-      "Indirect Cost:Payroll Expenses:Payroll Tax:Healthcare Expenses": 696.12
+      "DIRECT COSTS:DC-Direct Material Purchases": 2699.0,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 79.07
     }
   },
   "invoices": [],
   "bills": [
     {
       "type": "Bill",
-      "date": "2026-09-30",
-      "doc_number": "10012026",
-      "total": 696.12,
-      "attributed": 696.12,
-      "vendor": "Nathaniel Straus",
+      "date": "2026-10-01",
+      "doc_number": "S05831",
+      "total": 2778.07,
+      "attributed": 2778.07,
+      "vendor": "Computer Aided Solutions",
       "customer": "",
-      "balance": 696.12,
-      "memo": "",
+      "balance": 0.0,
+      "memo": "Quote # S05831",
       "lines": [
         {
-          "amount": 696.12,
-          "account": "Indirect Cost:Payroll Expenses:Payroll Tax:Healthcare Expenses",
-          "description": "COBRA payment"
+          "amount": 2699.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "[S3-E100D40] S3 Shock & Vibration Data Logger - 100g Enhanced\n\u00b1100g Piezoelectric, 5-1kHz, 8GB/250mAh, Polycarbonate"
+        },
+        {
+          "amount": 79.07,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping"
         }
       ]
     }

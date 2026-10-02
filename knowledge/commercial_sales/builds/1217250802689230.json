@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley confirmed active purchase intent (FY2026 budget, delivery after Oct 1). Beck sent updated estimate with shipping costs and S0 items for P3/NOAA integration. Customer seeking NASA procurement form assistance and CAGE code. AFA proposal rejected; this is a separate commercial hardware purchase order (not a funding proposal). Chris Meek moving forward with procurement despite out-of-office for next 3 weeks; team to handle correspondence.",
+  "notes": "NASA Langley confirmed active commercial hardware purchase (FY2026 budget, delivery after Oct 1). Beck sent updated estimate with shipping costs and S0 items for P3/NOAA integration. Customer seeking NASA procurement form assistance and CAGE code. AFA proposal rejected; this is a separate commercial hardware purchase order (not a funding proposal). Chris Meek out for 3 weeks; team handling correspondence.",
   "missing_fields": [
     "ship_to",
     "invoice_number",

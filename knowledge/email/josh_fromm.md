@@ -1,14 +1,14 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: October 1, 2026**
+**UPDATED: October 2, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 1,422 messages** scanned across ~81 days (Jul 12–Oct 1, 2026)
+- **Total: 1,463 messages** scanned across ~82 days (Jul 12–Oct 2, 2026)
 - Average ~17–18 messages/day
-- **Latest data window (Sep 30–Oct 1)**: 36 new messages
-- **Pattern observation**: Volume sustained at operational tempo. **SOCOM project in active execution phase** (multiple Asana task assignments for mechanical/electrical design updates, component integration). **KrateoSky integration meetings ongoing** (Sep 30 integration review notes distributed). **S3 program meeting convened** (Jack Elston, core 4-person group). **Flight operations planning accelerating** (Flight Regulations Review rescheduled Oct 1). **Vendor coordination active** (Vertiq motor shipment follow-up, McMaster-Carr procurement). **Recruitment panel interviews in progress** (Lumicity EE candidates). NASA S2 program comms sustained.
+- **Latest data window (Oct 1–2)**: 41 new messages
+- **Pattern observation**: Volume sustained at operational tempo. **SOCOM/PCLT program in active technical coordination phase** (Daniel Prendergast exchanging PCLT tech questions with USSOCOM; CJFC Engineering Sprint coordination). **BST/KrateoSky internal SOCOM kickoff held Oct 1** (Gemini notes captured). **Flight Regulations Review completed Oct 1** (Pendleton Breakdown meeting notes captured; 8-person core team attendance confirmed). **Vendor procurement and component integration pipeline active** (Xometry quotes, Global Industrial orders, McMaster-Carr invoicing, UPS delivery tracking). **Recruitment panel activity** (Grey Vaughan interview canceled Oct 1; continuing EE hiring push). **Fleet maintenance coordination** (ERAU E2 locking collar task assigned by Spencer Hoehl). **Operational cadence accelerating into field testing phase**.
 
 ---
 
@@ -17,76 +17,71 @@
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
 **Government / Strategic Partners**
-1. **Wesley R. Enos** (wesley.r.enos@nasa.gov) — **NASA ARC**
-   - **NEW (Sep 30 17:29:47 UTC)**: "Re: [EXTERNAL] Re: BST-NASA S2" — **ongoing S2 program negotiations/updates**
-
-2. **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov) — **NOAA Federal**
-   - **NEW (Sep 30 19:46:59 UTC)**: "UASD - SITREP - 30 SEP 2026" — **distribution list; operational status reporting**
+1. **Evan M. Wolff, MIL USSOCOM** (evan.m.wolff.mil@socom.mil)
+   - **NEW (Oct 1 15:19 UTC)**: "RE: (U) [Non-DoD Source] PCLT Tech Questions" — **SOCOM technical Q&A with Michael C. Jagelewski (CIV USSOCOM); Daniel Prendergast intermediary**
+   - **Signal**: **Direct government-to-contractor technical coordination; prototype validation/qualification pathway**
 
 **Internal Leadership & Operations**
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **PROGRAM MANAGER / TECHNICAL LEAD (ELEVATED)**
-   - **Multiple NEW Asana task assignments (Sep 30–Oct 1)**:
-     - Oct 1 04:49 UTC: "Mechanical and electrical design updates for component integra…" [[600-1] SOCOM Pope] — **ongoing design iteration**
-     - Sep 30 20:46 UTC: "Mechanical and electrical design modifications for component i…" [[600-1] SOCOM Pope]
-     - Sep 30 20:40 UTC: "Mechanical and electrical design updates for component integra…" [[600-1] SOCOM Pope]
-   - **NEW thread (Sep 30 16:21 UTC)**: Direct comms to SOCOM (Michael C. Jagelewski CIV USSOCOM) re: "(U) [Non-DoD Source] PCLT Tech Questions" — **technical coordination with government counterpart**
-   - **Signal**: **Josh assigned multiple design/integration tasks; prototype build/test cycle accelerating into component-level work**
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **PROGRAM MANAGER / TECHNICAL LEAD**
+   - **NEW (Oct 1 09:46 UTC)**: "Re: (U) [Non-DoD Source] PCLT Tech Questions" — **forwarding SOCOM PCLT tech response to Josh**
+   - **NEW (Oct 1 09:35 UTC)**: "Fwd: CJFC Engineering Sprint - BST Coordination" [IMPORTANT] — **Josh, Ethan Domagala, Alex Lomis copied on government engineering sprint coordination**
+   - **NEW (Oct 1 11:51 UTC)**: "DragonEye2 and TRIP Quote" [IMPORTANT] — **communications with Chani Ben Simon (NextVision Systems); sensor payload procurement for SOCOM platform**
+   - **Signal**: **Sensor integration and government engineering coordination accelerating; Josh involved in multi-vendor solution architecture**
 
-2. **Jack Elston** (elstonj@blackswifttech.com) — **CEO**
-   - **NEW (Sep 30 19:13 & 19:12 UTC, duplicate invites)**: "Updated invitation: S3 meeting @ Wed Sep 30, 2026 3pm - 3:30pm (MDT)" — **Josh included in core S3 program meeting (Jack, Josh, Maciej, Daniel, Cory)**
-   - **Signal**: **S3 program steering/milestone review underway; Josh is core technical contributor**
+2. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **FLIGHT OPS**
+   - **NEW (Oct 1 15:22 UTC, Asana task assignment)**: "ERAU E2 locking collar fix [[001-22] Fleet Maintenance]" [UNREAD] — **Josh assigned maintenance/repair task for existing airframe**
+   - **Signal**: **Flight test vehicle operational maintenance; Pendleton testing pipeline preparation**
 
-3. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **FLIGHT OPS**
-   - **NEW (Sep 30 22:39 & 23:05 UTC, updated invites)**: "Updated invitation: Flight Regulations Review (Pendleton Breakdown) @ Thu Oct 1, 2026 2pm - 3pm (MDT)" and "@ Thu Oct 1, 2026 11am - 12pm (MDT)" — **meeting time adjusted; Josh invited to both slots (likely scheduling conflict resolution)**
-   - **8-person BST core team attendance** (Josh, Beck, Cory, Ethan, Maciej, Alex, Daniel, Jack)
-   - **Signal**: **Pendleton test site flight operations planning in final review; regulatory/safety clearance meeting Oct 1**
+3. **Jack Elston** (elstonj@blackswifttech.com) — **CEO**
+   - **NEW (Oct 1 16:54–16:57 UTC, 2x identical)**: "Re: Subject: BST After Action Review and Corrective Procedure: TCE 26.2 (ahead of Friday's meeting)" [IMPORTANT] — **Jack CC'd Josh (implied in thread); Navy NAWCAD stakeholder comms (Brescia, Pyrah, Ruiz-Reyes, all CIV USN)**
+   - **Signal**: **Test & evaluation corrective action with Navy Test Center Engineering; governance/regulatory compliance meeting Oct 1 (Friday)**
 
-4. **Cory Dixon** — **KRATEOSKY PARTNERSHIP (ELEVATED)**
-   - **NEW (Sep 30 13:40 UTC)**: "Week of Sept 28th Integration Meeting Slides" — **20-person multi-org distribution; Josh included**
-   - **NEW (Sep 30 20:50 UTC, via Sona Raziabeegum KS exec)**: "Black Swift Weekly Integration Review, notes and actions from 30 September" — **Josh in 21-person exec-level integration review (BST + KS leadership)**
-   - **Signal**: **KrateoSky integration meetings now weekly cadence with formal action tracking; Josh is core BST technical representative**
+### External Vendors & Partners
+1. **Cameron Halpin** (cameron.halpin@xometry.com) — **XOMETRY**
+   - **NEW (Oct 1 17:04 UTC)**: "Xometry Quote Q40-5887-7723" [IMPORTANT, UNREAD] — **custom fabrication quote pending review**
+   - **Signal**: **On-demand manufacturing for prototype component production**
 
-**External Vendors & Partners**
-1. **Colin Lawn** (colin.lawn@vertiq.co) — **VERTIQ MOTORS**
-   - **NEW (Sep 30 14:47 UTC)**: "Re: Vertiq SO-01545 Shipment" — **Josh exchanged 2 messages (12:51, 11:57 UTC same day); active motor procurement follow-up**
-   - **Signal**: **Critical component shipment tracking for SOCOM prototype build**
+2. **Molly I** (molly@machinetek-useng.com) — **MACHINETEK**
+   - **NEW (Oct 1 09:13 UTC)**: "Supporting Black Swift Technologies with Composite Fabrication Solutions" [IMPORTANT, UNREAD] — **outreach for SOCOM platform composite work**
+   - **Signal**: **Composite material integration / airframe construction subcontractor engagement**
 
-2. **Max Pheysey** (Max.Pheysey@lumicity.io) — **LUMICITY RECRUITER**
-   - **NEW (Sep 30 15:36 & 15:30 UTC)**: 
-     - "Senior EE Candidates - Panel Interviews" — **Josh in panel (Jack, Josh, Sam Hild)**
-     - "Andrew Teta Panel Interview - Black Swift Technologies" — **specific candidate prep (4-person panel: Jack, Josh, Sam, Andrew Teta)**
-   - **Signal**: **Recruitment acceleration; Josh participating in senior electrical engineer hiring (likely for SOCOM/KrateoSky technical scaling)**
+3. **Max Pheysey** (Max.Pheysey@lumicity.io) — **LUMICITY RECRUITER**
+   - **NEW (Oct 1 20:25 UTC)**: "Canceled: Grey Vaughan Panel Interview - Black Swift Technologies" — **candidate withdrawal; Josh was panelist (Jack, Josh, Sam Hild, greyv21 candidate)**
+   - **Signal**: **Continued senior engineering recruitment; panel process ongoing**
 
 ### Automated/Newsletter Senders (Non-human correspondence)
-- **Asana** (multiple): Task assignments from Daniel Prendergast
-- **Gemini** (Google Notes): "BST Internal Update Meeting" Sep 30, 2026 — **meeting note transcription (2 identical copies)**
-- **Rippling**: Payroll notification (Sep 30)
-- **UPS/USPS/Rippling**: Logistics notifications (redirected via purchasing@blackswifttech.com)
-- **Vendor newsletters**: OpenC3 (Sep 30), UAS VISION (Sep 30), KST Servos (Sep 30), RapidDirect (Sep 30), Vaisala (Sep 30), AliExpress (Oct 1), HeliDirect (Sep 30), Luminary (Sep 30)
+- **Asana** (3x Oct 1): Task notifications
+- **Gemini** (Google Notes): 
+  - "BST/KS Internal SOCOM Kickoff" Oct 1, 2026 [UNREAD] — **kickoff meeting notes captured**
+  - "Flight Regulations Review (Pendleton Breakdown)" Oct 1, 2026 [IMPORTANT, UNREAD] — **regulatory clearance meeting notes**
+- **UPS/USPS/Rippling**: Shipping/payroll/logistics (Oct 1–2)
+- **McMaster-Carr**: Invoice Sep 30 order (Oct 1)
+- **Global Industrial**: Order #29205049 shipping confirmations & case resolution (Oct 1)
+- **Xometry**: Automated quote notification (Oct 1)
+- **Vendor newsletters**: Luminary (AI for autonomous flight webinar Oct 21), ProtoSpace Mfg (powder coat guidance), Future Electronics (spatial awareness sensors), UAS VISION (daily news), BannerBuzz (wallet summary), Samsung Direct (support case), Big Red F (promotional), Expedia OneKeyCash, Hilton Honors, Spindrift (subscription), Human Interest (401k processing), Elevate (statement), Onshape (feedback request)
+- **Finance/Admin**: Pirate Ship receipts (shipping adjustments), Purchasing/Rippling integrations
 
 ---
 
 ## Topic Patterns
 
 ### Primary Projects (Visible in Subject Lines)
-1. **SOCOM / PCLT Program** [[600-1] SOCOM Pope]
-   - "Mechanical and electrical design updates for component integra…" (3x Asana assignments)
-   - "Mechanical and electrical design modifications for component i…"
-   - "(U) [Non-DoD Source] PCLT Tech Questions" (Daniel ↔ SOCOM exchange)
-   - **Focus**: Prototype (S0) build → component integration → design refinement → field testing
 
-2. **S3 Program**
-   - "S3 meeting" (Sep 30, 3:00–3:30pm)
-   - **Core attendees**: Jack, Josh, Maciej, Daniel, Cory
-   - **Signal**: Parallel program milestone/steering review
+1. **SOCOM / PCLT Program** (ACTIVE TECHNICAL PHASE)
+   - "(U) [Non-DoD Source] PCLT Tech Questions" (Evan Wolff ↔ Daniel Prendergast → Josh)
+   - "Fwd: CJFC Engineering Sprint - BST Coordination" (Josh, Ethan, Alex tasked)
+   - "DragonEye2 and TRIP Quote" (sensor payload integration with NextVision Systems)
+   - "BST/KS Internal SOCOM Kickoff" (Oct 1 meeting)
+   - **Focus**: Component integration → sensor payload (DragonEye2, TRIP) → government qualification pathway (CJFC Engineering Sprint) → field test readiness
 
-3. **NASA S2 Program**
-   - "[EXTERNAL] Re: BST-NASA S2" (Wesley Enos ↔ Daniel Prendergast thread)
-   - **Status**: Ongoing negotiations/technical coordination
+2. **Flight Operations & Regulatory Clearance**
+   - "Flight Regulations Review (Pendleton Breakdown)" (Oct 1 meeting completed; 8-person core team)
+   - "ERAU E2 locking collar fix" (fleet maintenance for test vehicle)
+   - **Focus**: Pendleton test site flight clearance, existing airframe maintenance, operational readiness
 
-4. **KrateoSky Integration / SOCOM Execution**
-   - "Week of Sept 28th Integration Meeting Slides"
-   - "Black Swift Weekly Integration Review, notes and actions from 30 September"
-   - **Status**: Weekly cadence, formal action tracking, motors procured and shipping
+3. **Navy T&E Governance**
+   - "BST After Action Review and Corrective Procedure: TCE 26.2" (Jack ↔ NAWCAD: Brescia, Pyrah, Ruiz-Reyes)
+   - **Signal**: Test & evaluation corrective action tracking; Navy Test Center Engineering oversight
 
-5
+4. **KrateoSky Integration**
+   - "BST/KS Internal

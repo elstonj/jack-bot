@@ -12,44 +12,61 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "fixed_price",
     "number": null,
     "total_value": 483000.0,
     "start_date": null,
     "end_date": "2027-06-01",
     "payment_cadence": null,
-    "documents": []
+    "documents": [
+      "drive://NOAA_SOW_BlackSwift_S0_Enhanced_UAS_DRAFT.pdf",
+      "drive://NOAA_SOW_BlackSwift_S0_LOS_Video_UAS_DRAFT.pdf",
+      "drive://Budget Structure"
+    ]
   },
   "budget": {
     "approved": 483000.0,
     "approved_source": "asana_custom_field",
-    "line_items": [],
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 216000.0,
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each (Task 1)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 30000.0,
+        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation for satellite communication and land-based C2 capability (Task 2)",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 292781.25,
+        "amount": 293957.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-01"
+        "last_updated": "2026-10-02"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-01"
+        "last_updated": "2026-10-02"
       },
       "other_qbo": {
         "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-01"
+        "last_updated": "2026-10-02"
       },
-      "total": 294949.77,
+      "total": 296126.02,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 188050.23,
+    "remaining": 186873.98,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-01T09:04:02Z"
+    "last_reconciled": "2026-10-02T09:16:39Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -86,7 +103,14 @@
     }
   ],
   "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-10-01T09:04:02Z",
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Spencer Hoehl",
+      "date": "2026-10-01",
+      "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
+    }
+  ],
+  "last_full_rebuild": "2026-10-02T09:16:39Z",
   "last_incremental_update": null
 }

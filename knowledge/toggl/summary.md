@@ -1,15 +1,15 @@
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked:** 39,001.8 hours (2020-2026, through Oct 1)
+- **Total hours tracked:** 39,057.9 hours (2020-2026, through Oct 2)
 - **Number of active team members:** 28
 - **Number of projects tracked:** 53 projects with time, 151 total projects in workspace
 
 ## Team Time Allocation
 
-### Hours by Team Member (Ranked) — Cumulative through Oct 1
-1. **Jack Elston:** 13,615.8 hours (34.91% of total time) — **+51.7 hrs this period**
-2. **Stachura:** 2,920.0 hours (7.49%) — **+8.1 hrs this period**
+### Hours by Team Member (Ranked) — Cumulative through Oct 2
+1. **Jack Elston:** 13,623.6 hours (34.90% of total time) — **+59.5 hrs this period**
+2. **Stachura:** 2,928.3 hours (7.50%) — **+16.4 hrs this period**
 3. **Alex:** 2,237.4 hours (5.74%)
 4. **Nate:** 2,089.7 hours (5.36%)
 5. **Kay Rufty:** 1,974.0 hours (5.07%)
@@ -19,32 +19,33 @@
 9. **Maciej Stachura:** 1,245.2 hours (3.20%)
 10. **Parker:** 1,218.7 hours (3.13%)
 11. **Ethan Domagala:** 932.1 hours (2.39%)
-12. **Beck Cotter:** 922.7 hours (2.37%)
-13. **Sam Hild:** 894.3 hours (2.29%) — **+7.6 hrs this period**
-14. **Meredith Needham:** 670.9 hours (1.72%) — **+8.0 hrs this period**
-15. **Spencer Hoehl:** 389.1 hours (0.99%) — **+7.7 hrs this period**
+12. **Beck Cotter:** 938.7 hours (2.41%) — **+16.0 hrs this period**
+13. **Sam Hild:** 901.5 hours (2.31%) — **+7.2 hrs this period**
+14. **Meredith Needham:** 679.5 hours (1.74%) — **+8.6 hrs this period**
+15. **Spencer Hoehl:** 397.5 hours (1.02%) — **+8.4 hrs this period**
 16. **Paige Smith:** 425.8 hours (1.09%)
 17. **Ben Busby:** 75.0 hours (0.19%)
 18. **Kareem Ahmed:** 19.4 hours (0.05%)
 19. **Remaining 10 team members:** ~4,310.6 hours combined
 
-### Activity Status (Sept 30-Oct 1 Period — Latest 2 Days)
-- **Total tracked:** 39.7 hours across 5 active contributors
+### Activity Status (Oct 1-2 Period — Latest 2 Days)
+- **Total tracked:** 56.2 hours across 6 active contributors
 - **Contributors:**
-  - Jack Elston: 8.2 hours (General Operations: meetings, email)
-  - Stachura: 8.1 hours (General Operations)
-  - Meredith Needham: 8.0 hours (General Operations)
-  - Spencer Hoehl: 7.7 hours (Flight Testing)
-  - Sam Hild: 7.6 hours (Unallocated)
+  - Beck Cotter: 16.0 hours (PTO)
+  - Meredith Needham: 8.6 hours (General Operations)
+  - Spencer Hoehl: 8.4 hours (Flight Testing, USGS)
+  - Stachura: 8.3 hours (Navy SBIR, SOCOM, Customer Support, IDIQ)
+  - Jack Elston: 7.8 hours (General Operations, BD Pipeline, HR, Navy SBIR)
+  - Sam Hild: 7.2 hours (Unallocated)
 
 ## Project Portfolio
 
-### Top Projects by Hours (Cumulative through Oct 1)
-1. **Project None (Unallocated):** 8,947.3 hours (22.94%)
+### Top Projects by Hours (Cumulative through Oct 2)
+1. **Project None (Unallocated):** 8,954.8 hours (22.93%)
 2. **Project 183171534:** 4,535.8 hours (11.64%)
 3. **[301-2] SBIR - Hurricane Phase II+ (NOAA):** 3,292.8 hours (8.45%)
-4. **[001-13] Corporate/Strategic Planning & Overhead:** 3,250.6 hours (8.34%, **+96.4 hours this period**)
-5. **[001-08] Flight Testing IRAD:** 2,149.9 hours (5.51%, **+24.4 hours this period**)
+4. **[001-13] Corporate/Strategic Planning & Overhead:** 3,262.0 hours (8.36%, **+105.8 hours this period**)
+5. **[001-08] Flight Testing IRAD:** 2,158.2 hours (5.53%, **+32.7 hours this period**)
 6. **[212-2] NASA S2 & Parts:** 2,071.1 hours (5.32%)
 7. **[200-12] Aeropods (NASA):** 1,972.1 hours (5.06%)
 8. **[001-04] S0 VTOL IRAD:** 1,609.0 hours (4.13%)
@@ -52,43 +53,32 @@
 10. **[200-7] SBIR - Volcano CCRPP:** 1,248.1 hours (3.20%)
 11. **[001-14] SwiftCore 3.3 IRAD:** 953.8 hours (2.45%)
 12. **[001-16] SwiftStation IRAD:** 917.3 hours (2.35%)
-13. **[300-3] 2026 IDIQ (Hurricane):** 991.1 hours (2.54%)
-14. **[550-1] Navy SBIR: Magnetometer:** 285.9 hours (0.73%)
+13. **[300-3] 2026 IDIQ (Hurricane):** 991.9 hours (2.54%, **+0.9 hours this period**)
+14. **[550-1] Navy SBIR: Magnetometer:** 290.7 hours (0.75%, **+4.8 hours this period**)
 15. **[400-5] SBIR - Soil Moisture Mapping (Air Force):** 1,006.2 hours (2.58%)
-16. **[043-3] ByLight M2/Halo:** 64.5 hours (0.17%)
-17. **[350-4] 2024 USGS - Chile (Mexico):** 16.4 hours (0.04%)
-18. **[001-07] S3 IRAD:** 113.7 hours (0.29%)
-19. **[001-20] PTO/Sick Leave:** 507.0 hours (1.30%)
-20. **[001-23] SOCOM (CRADA) S0-AD:** 119.9 hours (0.31%)
+16. **[600-1] SOCOM Pope:** 1.5 hours (0.04%, **+1.5 hours this period** — new activity)
+17. **[001-20] PTO/Sick Leave:** 523.0 hours (1.34%, **+16.0 hours this period**)
+18. **[001-12] Customer Support:** 2.4 hours (0.01%, **+2.4 hours this period** — renewed activity)
+19. **[043-3] ByLight M2/Halo:** 64.5 hours (0.17%)
+20. **[350-4] 2024 USGS - Chile (Mexico):** 16.5 hours (0.04%, **+0.1 hours this period**)
 
-### Client Distribution (Cumulative through Oct 1)
-- **IRAD (Internal R&D):** ~8,346.5 hours (21.41%)
-- **Government/Sponsored (NOAA, NASA, Air Force, Navy, USGS):** ~11,697.4 hours (29.97%)
+### Client Distribution (Cumulative through Oct 2)
+- **IRAD (Internal R&D):** ~8,354.7 hours (21.41%)
+- **Government/Sponsored (NOAA, NASA, Air Force, Navy, USGS, SOCOM):** ~11,703.6 hours (29.99%)
 - **Commercial/ByLight M2/Halo:** 64.5 hours (0.17%)
-- **Corporate/Overhead/Operations:** 3,250.6 hours (8.34%, **+96.4 hours this period**)
-- **PTO/Sick Leave:** 507.0 hours (1.30%)
-- **Unallocated/Project None:** 8,947.3 hours (22.94%)
+- **Corporate/Overhead/Operations:** 3,262.0 hours (8.36%, **+105.8 hours this period**)
+- **PTO/Sick Leave:** 523.0 hours (1.34%, **+16.0 hours this period**)
+- **Unallocated/Project None:** 8,954.8 hours (22.93%)
 
-### Project Activity (Sept 30-Oct 1)
-**This short period shows typical operational patterns:**
-- **[001-13] General Operations:** 24.3 hours (61.2% of tracked time) — Jack Elston (meetings, email), Stachura, Meredith Needham
-- **[001-08] Flight Testing:** 7.7 hours (19.4% of tracked time) — Spencer Hoehl
-- **Project None (Unallocated):** 7.6 hours (19.1% of tracked time) — Sam Hild
+### Project Activity (Oct 1-2)
+- **[001-20] PTO:** 16.0 hours (28.5% of tracked time) — Beck Cotter
+- **[001-13] Overhead (General Ops + HR + BD Pipeline):** 15.0 hours (26.7% of tracked time) — Jack Elston (email, conference setup, panel interviews, BD networking), Meredith Needham (admin)
+- **[001-08] Flight Testing:** 8.3 hours (14.8% of tracked time) — Spencer Hoehl
+- **[550-1] Navy SBIR: Magnetometer:** 4.8 hours (8.5% of tracked time) — Jack Elston (TCE docs), Stachura
+- **Unallocated/Other:** 12.1 hours (21.5% of tracked time) — Stachura (SOCOM, customer support, IDIQ), Spencer Hoehl (USGS), Sam Hild (unassigned), Meredith Needham (unassigned)
 
 ## Patterns & Insights
 
-### Leadership & Operations Focus
-- **Jack Elston dominates time allocation** (34.91% of all tracked time), with recent entries showing heavy email/meeting load (answering emails, weekly integration reviews, S3 meetings, BST internal updates)
-- **[001-13] General Operations** consistently captures 8-10% of weekly time and is growing, indicating increasing overhead/management burden
-
-### Active Project Engagement (Last Week + Oct 1)
-- **Flight Testing [001-08]:** Consistently receiving 15-25 hours/week, primarily Spencer Hoehl
-- **General Operations [001-13]:** Spike in recent period (96.4 hours across 2 days) suggests end-of-week/month operational push (meetings, admin, planning)
-- **No new government contract activity** in this micro-period—suggests focus on internal operations and existing projects
-
-### Team Utilization
-- **Core active team (this period):** 5 people tracked time (Jack Elston, Stachura, Meredith Needham, Spencer Hoehl, Sam Hild)
-- **Unallocated time remains high** (22.94% cumulative)—suggests tracking gaps or time not assigned to specific projects
-
-### Notable Pattern
-- **Jack Elston's time composition:** Shifts between project work (Flight Testing, IDIQ debrief) and operational overhead (emails, meetings)—indicates dual PM/
+### Leadership & Operations Dominance (Sustained)
+- **Jack Elston continues to drive overall time allocation** (34.90%), with this period showing substantial overhead (interviews, email management, conference system setup, BD pipeline work with Fletch Aero and KS SOCOM kickoff)
+- **[001-13] Corporate Overhead spike continues**
