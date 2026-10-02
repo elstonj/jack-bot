@@ -2,5 +2,5 @@
 
 Only 2 emails found in scanned period.
 
-- Wed, 30 Sep 2026 19:17:55 +0000 (UTC): Bank account verification in progress (from: Rippling <no-reply@rippling.com>)
-- Wed, 30 Sep 2026 14:28:45 -0400: Benefits Submission Received (from: Shannon Johnson <shannon@theaiginc.com>)
+- Thu, 1 Oct 2026 17:10:41 +0000: Accept admin’s invitation to Slack (from: Slack <no-reply-lUvPkg7qcXSxfj4KUt9EH5FR@slack.com>)
+- Thu, 1 Oct 2026 14:44:33 +0000: Jack Elston is waiting for you to accept your Asana invite (from: Jack Elston via Asana <no-reply@asana.com>)

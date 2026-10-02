@@ -4,96 +4,75 @@
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 1,172.2 hours (1,112.9h + 59.3h)
+- **Total hours tracked:** 1,173.1 hours (1,172.2h + 0.9h)
 
 ## Team Allocation
-- **Nate:** 385.0 hours (32.85%)
-- **Jack Elston:** 272.3 hours (23.23%) — *+16.0h*
-- **Stachura:** 247.7 hours (21.13%) — *+36.2h*
-- **Sam Hild:** 113.8 hours (9.71%) — *+7.1h*
-- **Spencer Hoehl:** 81.3 hours (6.94%)
+- **Nate:** 385.0 hours (32.83%)
+- **Jack Elston:** 272.3 hours (23.22%)
+- **Stachura:** 248.6 hours (21.18%) — *+0.9h*
+- **Sam Hild:** 113.8 hours (9.70%)
+- **Spencer Hoehl:** 81.3 hours (6.93%)
 - **Ethan Domagala:** 49.9 hours (4.26%)
-- **Josh Fromm:** 29.0 hours (2.48%)
+- **Josh Fromm:** 29.0 hours (2.47%)
 - **Kareem Ahmed:** 16.4 hours (1.40%)
 - **Alex:** 8.0 hours (0.68%)
 - **Primary contributor:** Nate
 
 ## Activity Timeline
 
-### Most Recent Work (Current Batch — 59.3h)
-**Field Operations & Mission Support**
+### Most Recent Work (Current Batch — 0.9h)
+**Undescribed Entry**
 
-- **Stachura** (36.2h):
-  - Hurricane Flight (15.0h) — 2 entries (14.8h, 0.5h)
-  - Travel (19.8h) — 2 entries (11.1h, 8.2h)
-  - Undescribed (1.7h) — 1 entry
-
-- **Jack Elston** (16.0h):
-  - Polo Mission (10.0h)
-  - Mission Support (4.0h)
-  - Debrief, Answering Emails (2.0h)
-
-- **Sam Hild** (7.1h):
-  - Undescribed (7.1h) — 2 entries (5.5h, 1.6h)
+- **Stachura** (0.9h):
+  - Undescribed (0.9h) — 1 entry
 
 ### Prior Notable Work
-Vehicle Maintenance & Support (6.0h batch — Jack Elston Vehicle Refurbishment)
+- Hurricane Flight operations (Stachura primary) — 15.0h
+- Polo Mission (Jack Elston primary) — 10.0h
+- Travel support (Stachura primary) — 19.8h
+- Vehicle Maintenance & Support (Jack Elston) — 6.0h
 
 ## Insights
 
 ### Work Types (Current Batch)
-- **Field operations/missions:** 29.0h (48.91%) — Polo Mission, Hurricane Flight, Mission Support
-- **Travel:** 19.8h (33.47%)
-- **Administrative/Debrief:** 2.0h (3.38%)
-- **Undescribed:** 8.8h (14.85%)
+- **Undescribed:** 0.9h (100%)
 
 ### Documentation Status
 
-**Current batch:** 50.5h documented / 59.3h submitted = **85.15% compliance**
-  - **Jack Elston:** 16.0h described / 16.0h = **100%** (maintains streak)
-  - **Stachura:** 34.5h described / 36.2h = **95.31%** (strong improvement)
-  - **Sam Hild:** 0h described / 7.1h = **0.00%** (regression — no descriptions)
+**Current batch:** 0h documented / 0.9h submitted = **0.00% compliance**
+  - **Stachura:** 0h described / 0.9h = **0.00%** (regression)
 
-**Overall project:** 396.2h documented / 1,172.2h total = **33.80% documented**
-  - *Improvement from 31.05%* (+2.75 percentage points)
+**Overall project:** 396.2h documented / 1,173.1h total = **33.77% documented**
+  - *Slight decline from 33.80%* (—0.03 percentage points due to undescribed entry)
 
-**Undescribed backlog:** 776.0h (66.20% of project)
+**Undescribed backlog:** 776.9h (66.23% of project)
   - **Nate:** 385.0h undescribed (100.00%)
-  - **Stachura:** 187.4h undescribed (75.56%) — *improved from 87.78%*
+  - **Stachura:** 188.3h undescribed (75.71%) — *regression from 75.56%*
   - **Spencer Hoehl:** 81.3h undescribed (100.00%)
   - **Josh Fromm:** 29.0h undescribed (100.00%)
-  - **Sam Hild:** 12.7h undescribed (11.17%) — *regression: was 0%*
-  - **Jack Elston:** 162.0h undescribed (59.45%) — *still improving*
+  - **Sam Hild:** 12.7h undescribed (11.17%)
+  - **Jack Elston:** 162.0h undescribed (59.45%)
   - **Alex:** 8.0h undescribed (100.00%)
   - **Ethan Domagala:** 49.9h undescribed (100.00%)
 
 ### Critical Patterns & Alerts
 
+**✗ Stachura Documentation Regression (Alert):**
+- Recent improvement streak interrupted — 0.9h completely undescribed
+- Undescribed rate increased from 75.56% to 75.71% at project level
+- Follows prior strong 95.31% documented batch; pattern inconsistency
+
 **✓ Jack Elston Maintains Perfect Documentation:**
-- All 16.0h fully described across Polo Mission, Mission Support, and Debrief activities
-- Continues excellence streak — now 272.3 total hours with 110.3 documented (40.51% personal rate)
+- No new entries this batch; 272.3 total hours with 110.3h documented (40.51% personal rate)
 
-**✗ Sam Hild Documentation Regression (Alert):**
-- Both entries (5.5h, 1.6h) completely undescribed
-- First instances of missing descriptions on this project
-- Requires immediate follow-up
+**Major Undescribed Backlogs Persist:**
+- **Nate:** 385.0h (100% undescribed) — unchanged
+- **Stachura:** 188.3h (75.71% undescribed) — slight increase
+- Combined: 573.3h critical for remediation
 
-**✓ Stachura Dramatic Improvement:**
-- 36.2h batch with 95.31% documentation (only 1.7h undescribed)
-- Shift from 87.78% to 75.56% undescribed rate at project level
-- Hurricane Flight and Travel work now well-documented
-
-**Work Pattern Diversification:**
-- Polo Mission continues (Jack Elston primary)
-- Hurricane Flight operations introduced (Stachura primary)
-- Travel support now significant component (33.47% of batch)
-- Shift from vehicle maintenance to field operations focus
-
-**Major Undescribed Backlogs (51.25% of project):**
-- **Nate:** 385.0h (100% undescribed)
-- **Stachura:** 187.4h (75.56% undescribed)
-- Combined: 572.4h critical for remediation
+**Activity Slowdown:**
+- Minimal hours submitted (0.9h) — suggests lighter activity period or tracking gap
 
 ---
 
-**Summary:** Strong progress. Project documentation improved to 33.80% (+2.75pp). Jack Elston maintains perfect streak (16.0h). Stachura shows substantial improvement on Hurricane/Travel work (95.31% documented). **Alert:** Sam Hild regression — 7.1h undescribed; requires immediate attention. Large historical backlogs (Nate, Stachura) remain priority. Field operations expanding significantly.
+**Summary:** Minimal activity this batch (0.9h). Documentation declined slightly to 33.77%. **Alert:** Stachura shows regression with single undescribed entry, reversing prior improvement momentum. Major backlogs (Nate, Stachura) remain priority. Recommend follow-up on Stachura's activity documentation.

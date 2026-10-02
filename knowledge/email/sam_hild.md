@@ -1,70 +1,73 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 353 emails (345 from prior period + 8 new from Sep 30)
-- **Date range:** Wed 19 Aug 2026 – Wed 30 Sep 2026 (73 days)
-- **Approximate volume:** ~4.8 emails per day average
-- **Composition:** ~85% automated vendor/subscription/logistics notifications; ~15% human correspondence, recruiting/HR, and project management
+- **Total messages scanned:** 371 emails (353 from prior period + 18 new from Oct 1-2)
+- **Date range:** Wed 19 Aug 2026 – Fri 02 Oct 2026 (75 days)
+- **Approximate volume:** ~4.9 emails per day average
+- **Composition:** ~88% automated vendor/subscription/logistics notifications; ~12% human correspondence, recruiting/HR, and project management
 
 ## Key Correspondents
 
 ### Top Senders
-**Vendor/Supplier automated notifications** (continued):
-- **McMaster-Carr** (5 notifications through Sep 30: ongoing procurement cycle)
-- **Spindrift Market** (4 delivery/shipment notifications; ongoing beverage subscription)
-- **Pasternack** (3 order notifications)
-- **AVLGEAR** (3 shipment updates)
-- **Rippling** (5 debit card charge notifications + payroll notification Sep 30: "You just got paid! (9/1/26 - 9/30/26)")
-- **Infinite Electronics / Irvine Shipping** (2 invoices)
-- **HeliDirect** (2 product update emails through Sep 30: "Goblin Flagship Lineup")
-- **Vaisala** (2 webinar reminders through Sep 30)
-- **Toggl Track, Mini-Circuits, L-com, Samsung, UPS, USPS, Veeam, Asana** (ongoing)
+**Vendor/Supplier automated notifications** (continued/expanded):
+- **Global Industrial** (4 new notifications Oct 1: order confirmation, partial shipment, case resolution, welcome email — indicates new vendor relationship initiated in early October)
+- **McMaster-Carr** (1 new receipt Oct 1: September 30th order; ongoing procurement cycle)
+- **Spindrift Market** (1 new notification Oct 2: subscription order creation; ongoing beverage subscription)
+- **Pirate Ship** (2 new notifications Oct 2: receipt and shipping adjustment; **NEW VENDOR** for BST procurement)
+- **General Air Service** (1 new invoice Oct 1: control# HOUSE — **NEW VENDOR**, possibly HVAC/facility services)
+- **Samsung Direct, BannerBuzz, Big Red F, USPS Informed Delivery** (ongoing)
 
 **Human correspondence** (active threads):
-- **Max Pheysey** (Max.Pheysey@lumicity.io) — **ESCALATED RECRUITING ACTIVITY**: 2 new panel interview notifications on Sep 30 alone (15:30, 15:36 UTC, both IMPORTANT). Continues coordinating senior EE candidate interviews. Pattern shows rapid-fire candidate scheduling.
+- **Max Pheysey** (Max.Pheysey@lumicity.io) — **RECRUITING EVENT**: Oct 1 20:25 UTC sent cancellation notice for "Grey Vaughan Panel Interview" after Jack Elston had sent invitation at 20:20 UTC same day. Suggests rapid candidate scheduling changes or last-minute interview cancellations.
 
-- **Jack Elston** (elstonj@blackswifttech.com) — Continues as key collaborator on recruitment panels
+- **Jack Elston** (elstonj@blackswifttech.com) — Sent panel interview invitation for Grey Vaughan on Oct 1 (20:20 UTC); candidate interview was subsequently canceled same day by recruiting coordinator.
 
-- **Josh Fromm** (josh.fromm@blackswifttech.com) — Continues as key collaborator on recruitment panels
-
-- **Gemini** (gemini-notes@google.com) — **NEW PATTERN**: Sending Google Notes summaries of "BST Internal Update Meeting" (Sep 30, 19:32 and 23:26 UTC, both UNREAD). Indicates Sam is attending internal status meetings and may be auto-capturing notes.
+- **Emily Volk** (evolk@emergent360.com) — **NEW EXTERNAL CONTACT**: Sent direct inquiry to Sam on Oct 1 marked IMPORTANT, subject line "Quick question about Open-Source Software (OSS) Vulnerabilities." No prior history in dataset; indicates new external relationship or inbound inquiry.
 
 ### Top Recipients
-- **sam.hild@blackswifttech.com** — Primary direct recipient (Rippling payroll, Gemini notes, vendor notifications)
-- **purchasing@blackswifttech.com** — Continues as procurement inbox
+- **purchasing@blackswifttech.com** — Continues as primary procurement inbox for vendor notifications
+- **sam.hild@blackswifttech.com** — Direct recipient (recruiting coordination, technical inquiries)
 - **Jack Elston, Josh Fromm** — Recruitment panel coordination
+- **earellano@aeronet.com** — **NEW RECIPIENT**: Appears on billing invoice from Oct 1 (likely BST finance/operations contact; possible external vendor billing contact)
 
-### Internal vs External (Unchanged)
+### Internal vs External (Updated)
 **Internal (BST team):**
 - Jack Elston, Joshua Fromm, Spencer Hoehl, Cory Dixon, Daniel Prendergast, Ethan Domagala, Maciej Stachura, Alex Lomis, Meredith Needham, Nathaniel Straus, Beck Cotter, Paige Smith, Kareem Ahmed, Ben Busby
 
 **External:**
-- **Max Pheysey** (Max.Pheysey@lumicity.io) — Recruiting coordinator (active/escalating)
+- **Max Pheysey** (Max.Pheysey@lumicity.io) — Recruiting coordinator (active/high-velocity scheduling)
+- **Emily Volk** (evolk@emergent360.com) — **NEW**: Technical inquiry contact (OSS vulnerabilities focus)
+- **Grey Vaughan** (greyv21@gmail.com) — Senior EE candidate (interview canceled Oct 1)
 - **Thinh Nguyen** (thinh991@yahoo.com) — Manufacturing partner
 - **Andrew Teta** (andrew.teta@gmail.com) — Senior EE candidate
-- **Grey Vaughan** (greyv21@gmail.com) — Senior EE candidate
-- **Frank Strazzabosco, Matthew Crabtree, Lauren Nagel** — Prior collaborators
+- **earellano@aeronet.com** — **NEW**: Appears in billing invoice line; unclear if vendor contact or BST internal finance
 
 ## Topic Patterns
 
 ### Active Project/Technical Threads
-- **Core 2-10 Boards Manufacturing** — ACTIVE PHASE (last update Sep 28; no new updates in this batch)
-- **Recruitment: Senior Electrical Engineers** — **ACCELERATING**: Max Pheysey sends 2 panel interview notifications on final day of month (Sep 30). Suggests imminent interviews or candidate pipeline expansion.
+- **Recruitment: Senior Electrical Engineers** — **CONTINUED HIGH ACTIVITY BUT WITH VOLATILITY**: Grey Vaughan interview invited Oct 1 20:20 UTC, then canceled by Max Pheysey 5 minutes later (20:25 UTC). Suggests either candidate withdrawal, scheduling conflict, or rapid interview pipeline adjustments.
+- **OSS Vulnerabilities** — **NEW INQUIRY**: Emily Volk from Emergent360 sent direct technical question to Sam marked IMPORTANT (Oct 1). Suggests either new client/partner inquiry or industry security-related discussion.
 
 ### Recurring Automated Streams
-- **Logistics & Procurement** — McMaster-Carr, Spindrift, Pasternack, AVLGEAR (active cycle)
-- **Payroll & Financial** — Rippling payroll notification (monthly pay cycle Sep 1–30)
-- **Industry Webinars/Learning** — Vaisala (weather data security focus)
-- **Meeting Notes** — Gemini auto-capture of internal status meetings
+- **Logistics & Procurement** — McMaster-Carr, Spindrift, Global Industrial (new), Pirate Ship (new), General Air Service (new), Samsung, BannerBuzz (ongoing)
+- **Facility/Operations** — General Air Service invoice (new Oct 1; may indicate HVAC or building services)
+- **Asana Project Management** — Continues receiving unread notifications (Oct 1)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Recruiting activity remains concentrated Sep 29–30**: 2 additional panel interview notifications on final day (Sep 30 morning UTC)
-- **Payroll processing on Sep 30**: Monthly pay cycle closes same day as recruiting activity
-- **Internal meetings**: "BST Internal Update Meeting" on Sep 30 (captured by Gemini at 19:32 and 23:26 UTC)
+- **Recruiting activity concentrated early October**: Interview invitation Oct 1 20:20 UTC, immediate cancellation 20:25 UTC same day (5-minute window)
+- **Vendor onboarding burst Oct 1–2**: 4 Global Industrial notifications (Oct 1), 2 Pirate Ship notifications (Oct 2), General Air Service invoice (Oct 1) suggest new procurement cycle or supply chain expansion in early October
+- **Billing close-out**: Aeronet billing notification on Oct 1 at start of new month (typical billing cycle)
 
 ### Notable Observations
-- **Gemini Notes integration**: Sam has Google Notes automatically capturing internal meeting summaries. Suggests either (a) Sam is taking detailed meeting notes in Google Docs during meetings, or (b) BST uses Gemini-powered meeting transcription/summarization.
-- **Payroll timing**: Rippling notification on final day of month (Sep 30 17:56 UTC) confirms Sam is on monthly payroll cycle with 9/1–9/30 period
-- **Recruiting panel velocity**: Within 48 hours (Sep 29–30), Max Pheysey initiated 4 separate panel interview notifications across 2+ candidates. Suggests either urgent hiring need or multiple candidate rounds in parallel.
+- **Grey Vaughan interview volatility**: Candidate interview was scheduled and canceled within 5 minutes on Oct 1. Unusual pattern — either (a) candidate withdrew last-minute, (b) technical issue with scheduling, or (c) interview was conditional and failed pre-screening.
+- **Emily Volk inquiry**: Marked IMPORTANT by sender, sent directly to Sam's personal email on Oct 1. Subject focuses on OSS vulnerabilities — may indicate security/compliance discussion, potential client inquiry, or external research request. No prior correspondence with Emily Volk in dataset.
+- **New vendor relationships emerging**: Pirate Ship (shipping logistics) and General Air Service (possibly facility management) both appear for first time Oct 1–2, suggesting BST is expanding procurement channels or vendor roster.
+- **Global Industrial onboarding**: 4 emails from Global Industrial on Oct 1 (welcome, confirmation, partial shipment, case resolution) indicates new B2B vendor relationship being actively established.
+
+## Key Relationships
+- **Max Pheysey** — Recruiting coordinator; high-velocity scheduling and last-minute changes (now showing volatility with cancellations)
+- **Jack Elston** — Hiring manager/panel coordinator; active in interview scheduling
+- **Emily Volk** (Emergent360) — **NEW RELATIONSHIP**: Inbound technical inquiry; importance level suggests either high-priority contact or established relationship not visible in prior metadata
+- **Josh Fromm** — Procurement/purchasing coordination (receives vendor notices alongside Sam)

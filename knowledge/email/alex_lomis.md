@@ -1,45 +1,41 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 435 emails (422 previous + 13 new)
-- **Date range:** Thu, 20 Aug 2026 – Wed, 30 Sep 2026 (71-day window)
-- **Approximate volume:** Sustained heavy activity; ~6.1 emails/day average. Automated/transactional emails remain dominant (~75% of volume). New batch (Sep 30) confirms continued Navy liaison work, internal meeting coordination, task assignment activity, and ongoing component procurement. **Sep 30 spike:** 13 emails in single day suggests end-of-month activity surge and meeting scheduling updates.
+- **Total messages scanned:** 468 emails (435 previous + 33 new)
+- **Date range:** Thu, 20 Aug 2026 – Fri, 02 Oct 2026 (74-day window)
+- **Approximate volume:** Sustained heavy activity; ~6.3 emails/day average. Automated/transactional emails remain dominant (~75% of volume). New batch (Oct 1–2) confirms continued SOCOM/military task assignment, Navy liaison meetings, procurement activity, vendor engagement, and internal coordination. **Oct 1 spike:** 24 emails in single day shows end-of-quarter activity, task assignments, and meeting documentation surge.
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Purchasing alias** (purchasing@blackswifttech.com) — ~115+ emails routed (order confirmations, tracking, shipments, invoices, promotions)
-2. **Asana** (no-reply@asana.com) — 20+ emails (task assignments, overdue notifications, task summaries; **NEW: Dan Prendergast assigned "Datalink evaluation and Swiftcore comm modifications [[600-1] SOCOM Pope]" Sep 30**)
-3. **McMaster-Carr** — 13+ emails (order confirmations, receipts, tracking; **NEW: September 30th order confirmation Sep 30**)
-4. **UPS, USPS, Pirate Ship, Spindrift Market, AVLGEAR** — 15+ combined (pickup requests, tracking, delivery, order confirmations)
-5. **Beck Cotter** (beck.cotter@blackswifttech.com) — **22+ emails** (primary Navy liaison, SOCOM/SBIR coordination, TCE 26.2 meeting organizer, Ultra Maritime Phase II meeting coordinator, NOAA multi-agency meetings, Colorado Technology Student Association forwarding, Navy Phase I Wrap-up meeting invite, Option Period wrap up coordination, **NEW: Multi-recipient on Flight Regulations Review meetings Sep 30**)
-6. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **11+ emails** (Navy NAWCAD, TCE 26.2 team/status, TAK files/SITREP, incident report forwarding, Black Swift Team addition coordination, Option Period wrap up, Navy Phase I Wrap-up meeting invitation recipient)
-7. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **12+ emails** (co-recipient on military meetings, Navy SBIR check-in, shop facility layout planning, TCE test packing checklist, SITREP/TAK file coordination, S0 COTS WAIVER thread, S0 HDOB message coordination, Flight Regulations Review meeting co-recipient, **NEW: Updated Flight Regulations Review meeting invitations Sep 30**)
-8. **Maciej Stachura** (stachura@blackswifttech.com) — **13+ emails** (NOAA research tasking, Navy SBIR Phase II, TCE 26.2, Ultra Maritime Phase II meeting co-recipient, S0 COTS WAIVER thread, Black Swift Team addition recipient, Navy Phase I Wrap-up meeting recipient, S0 HDOB message recipient, Ultra Maritime check-in meeting recipient, Google Docs comments on contract, Flight Regulations Review meeting co-recipient, **NEW: Updated Flight Regulations Review meeting invitations Sep 30**)
-9. **Jack Elston** (elstonj@blackswifttech.com) — **14+ emails** (NOAA research tasking N42/N43 primary recipient, co-recipient on Navy meetings, TCE 26.2, S0 COTS WAIVER thread forwarding, Black Swift Team addition coordinator/recipient, S0 HDOB message forwarding, Colorado Technology Student Association recipient, Flight Regulations Review meeting co-recipient, **NEW: Updated Flight Regulations Review meeting invitations Sep 30**)
-10. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **6+ emails** (Black Swift Team addition recipient, Navy NAWCAD multi-recipient thread, operational team member, Colorado Technology Student Association recipient, Flight Regulations Review meeting co-recipient, **NEW: Updated Flight Regulations Review meeting invitations Sep 30**)
-11. **Paul DeMond** (Paul.DeMond@umaritime.com) — **5+ emails** (Navy SBIR Phase II N251-016 check-in, Ultra Maritime partnership escalation, Black Swift - Ultra Meeting organizer)
-12. **Daniel Klier** (daniel.e.klier.civ@us.navy.mil) — **4+ emails** (Navy NSWC IHD, TCE 26.2 SITREP, Black Swift Team addition recipient, BST Quick Look Slide recipient)
-13. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **4+ emails** (Flight Regulations Review (Pendleton Breakdown) meeting organizer, **NEW: Two updated meeting invitations Sep 30 with time conflict indicators — meetings scheduled for Thu Oct 1 at both 11am-12pm AND 2pm-3pm MDT, sent to 8-person team including Joshua Fromm, Beck Cotter, Cory Dixon, Ethan Domagala, Maciej Stachura, Daniel Prendergast, Jack Elston**)
-14. **Gemini** (gemini-notes@google.com) — **5 emails NEW** (Notes documentation: "BST Internal Update Meeting" Sep 30 - **duplicate notifications sent same day**, appears as structured meeting documentation service; previous entries for Sep 22, 23, 29)
-15. **Rippling** (no-reply@rippling.com) — **1 email NEW** (Payroll notification "You just got paid! (9/1/26 - 9/30/26)" Sep 30, marked IMPORTANT)
-16. **Dan Prendergast** (via Asana) — **1 email NEW** (Assigned task: "Datalink evaluation and Swiftcore comm modifications [[600-1] SOCOM Pope]" Sep 30; military project task assignment)
-17. **Synopsys** (info@synopsys.com) — **1 email NEW** (2026 Global User Survey promotion Sep 30, marked IMPORTANT; engineering/FPGA tools vendor)
-18. **Grafana Labs** (update@grafana.com) — **Updated:** 30% off ObservabilityCON promotional reminder Sep 30 (deadline Sep 30), marked IMPORTANT
-19. **Sealing Devices** (seals@sealingdevices.com) — **Updated:** eVTOL solutions promotion Sep 30, marked IMPORTANT
-20. **HeliDirect** (sales@helidirect.com) — **1 email NEW** (Goblin Flagship Lineup helicopter/UAV promotion routed through Purchasing Sep 30, marked PROMOTIONS)
-21. **Vaisala** (via Purchasing) — **1 email NEW** (September Expert Insights: weather data security webinar Sep 30, marked PROMOTIONS)
+1. **Purchasing alias** (purchasing@blackswifttech.com) — ~125+ emails routed (order confirmations, tracking, shipments, invoices, promotions, billing)
+2. **Asana** (no-reply@asana.com, learn@go.asana.com) — 28+ emails (task assignments, overdue notifications, task summaries; **NEW: Oct 1 saw 3 major task assignments from Dan Prendergast for SOCOM Pope datalink work: "Datalink radio selection and integration," "Datalink radio selection and comm protocol development," "Datalink and comm protocol development"**)
+3. **McMaster-Carr** — 14+ emails (order confirmations, receipts, tracking; **NEW: September 30th order receipt Oct 1**)
+4. **Global Industrial** — **6+ emails NEW** (order confirmations, partial shipments, case resolutions Oct 1; appears to be new vendor relationship)
+5. **UPS, USPS, Pirate Ship, Spindrift Market, AVLGEAR** — 16+ combined (tracking, receipts, subscription orders; **NEW: Pirate Ship receipt Oct 2, Spindrift subscription Oct 2**)
+6. **Beck Cotter** (beck.cotter@blackswifttech.com) — **23+ emails** (primary Navy liaison, SOCOM/SBIR coordination, TCE 26.2 meeting organizer, Ultra Maritime Phase II meetings, NOAA multi-agency, Navy Phase I Wrap-up, Option Period wrap-up, co-recipient on all major meetings)
+7. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **12+ emails** (Navy NAWCAD, TCE 26.2 team/status, Navy Phase I Wrap-up, Option Period wrap-up, **NEW: Recipient of Jack Elston's BST After Action Review and Corrective Procedure email for TCE 26.2 Oct 1**)
+8. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **13+ emails** (co-recipient on military meetings, Navy SBIR check-in, shop facility planning, TCE test packing, SITREP/TAK coordination, Flight Regulations Review, **NEW: Co-recipient on CJFC Engineering Sprint - BST Coordination forward from Dan Prendergast Oct 1**)
+9. **Maciej Stachura** (stachura@blackswifttech.com) — **14+ emails** (NOAA research, Navy SBIR Phase II, TCE 26.2, Ultra Maritime Phase II, S0 COTS WAIVER, Flight Regulations Review, **NEW: Replied to Beck Cotter on Option Period wrap-up Oct 1**)
+10. **Jack Elston** (elstonj@blackswifttech.com) — **16+ emails** (NOAA research N42/N43, co-recipient on Navy meetings, TCE 26.2, S0 COTS WAIVER, Black Swift Team addition, Flight Regulations Review, **NEW: Sent 2 critical emails to Navy NAWCAD team (Brescia, Pyrah, Ruiz-Reyes) on Oct 1 regarding BST After Action Review and Corrective Procedure: TCE 26.2, marked IMPORTANT**)
+11. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **7+ emails** (co-recipient on Navy meetings, team member, **NEW: Co-recipient on CJFC Engineering Sprint forward Oct 1**)
+12. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **8+ emails NEW** (SOCOM Pope project lead; assigned 3 critical datalink tasks Oct 1; forwarded CJFC Engineering Sprint coordination Oct 1 to Fromm, Domagala, Lomis; also contacted Chani Ben Simon at NextVision Systems on Oct 1 regarding "DragonEye2 and TRIP Quote," marked IMPORTANT)
+13. **Paul DeMond** (Paul.DeMond@umaritime.com) — **5+ emails** (Navy SBIR Phase II N251-016, Ultra Maritime partnership)
+14. **Daniel Klier** (daniel.e.klier.civ@us.navy.mil) — **4+ emails** (Navy NSWC IHD, TCE 26.2, Black Swift Team addition)
+15. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **4+ emails** (Flight Regulations Review organizer, Oct 1 meeting documentation)
+16. **Gemini** (gemini-notes@google.com) — **6+ emails NEW** (Notes documentation; **NEW: "Flight Regulations Review (Pendleton Breakdown)" Oct 1, 2026 notes sent Oct 1; pattern of meeting documentation continues**)
+17. **Slack** (no-reply-EAZZk5S60zZTpg1P06rnGT4I@slack.com) — **1 email NEW** (Confirmation code Oct 1, marked IMPORTANT; suggests recent Slack channel or workspace activation)
+18. **Tommy Drain** (tdrain@taylormarketing.com) — **1 email NEW** (External: "Omnetics Meeting" Oct 1, marked IMPORTANT; appears to be marketing/business development contact)
+19. **Mayank Kejriwal** (kmayank@getgrailai.com) — **1 email NEW** (External: Reply to Alex on "Thoughts on scientific UAS platforms" Oct 1, marked IMPORTANT; research/platform partnership discussion)
+20. **Chani Ben Simon** (chani.bs@nextvision-sys.com) — **1 email NEW** (External: Recipient of Daniel Prendergast inquiry on "DragonEye2 and TRIP Quote" Oct 1; vendor/sensor systems contact)
+21. **Elise I** (elise@machinetek-usa.com) — **1 email NEW** (External: "Supporting Black Swift Technologies with Composite Fabrication Solutions" Oct 1, marked IMPORTANT; manufacturing/composite vendor outreach)
+22. **Protolabs** (news@protolabs.com) — **1 email NEW** (October updates and events Oct 1, marked IMPORTANT; rapid prototyping/manufacturing service)
+23. **GetFPV** (noreply@getfpv.com) — **1 email NEW** (New products alert Oct 1, marked IMPORTANT/CATEGORY_UPDATES; drone/FPV parts vendor)
+24. **Grafana Labs** (update@grafana.com) — **2+ emails** (ObservabilityCON promotion final hours Oct 1, marked IMPORTANT; infrastructure/monitoring vendor)
+25. **Synopsys, Vaisala, HeliDirect, Sealing Devices** — Promotions/vendor communications (ongoing)
 
 ### Top Recipients (outbound visible via CC/BCC patterns)
-- **Maciej Stachura** — Consistent co-recipient on Navy meetings, Ultra Maritime coordination, Flight Regulations Review
-- **Jack Elston** — Consistent co-recipient on Navy meetings, Ultra Maritime coordination, Flight Regulations Review
-- **Joshua Fromm** — Consistent co-recipient on Navy meetings, Flight Regulations Review
-- **Beck Cotter** — Consistent co-recipient on Navy Phase I Wrap-up, Flight Regulations Review
-- **Cory Dixon** — **Co-recipient on Flight Regulations Review meetings** (Sep 30)
-- **Daniel Prendergast** — **Co-recipient on Flight Regulations Review meetings** (Sep 30, also assigning tasks via Asana)
-- **Ethan Domagala** — Co-recipient on internal meetings and Flight Regulations Review
-- **Angel R. Ruiz-Reyes** (Navy NAWCAD) — Direct recipient on Navy Phase I Wrap-up meeting invitation
-
-## Topic Patterns
-- **Navy SBIR/Phase I/Phase II activities:** Primary focus (Phase I wrap-up, Option Period coordination, NAWCAD liaison)
-- **Ultra Maritime partnership:** Phase II engagement, check-in meetings (
+- **Joshua Fromm** — Co-recipient on CJFC Engineering Sprint forward
+- **Ethan Domagala** — Co-recipient on CJFC Engineering Sprint forward
+- **Navy NAWCAD personnel** (Brescia, Pyrah, Ruiz-Reyes) — Recipients of critical TCE 26.2 after-action review from Jack Elston (Oct 1)
+- **Chani Ben Simon** (NextVision Systems) — External vendor contact on DragonEye2

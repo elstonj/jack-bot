@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 571 (555 previous + 16 new)
-- **Date range:** 25 Sep – 1 Oct 2026
-- **Volume:** Sustained extreme operational tempo continuing through Oct 1; operational P-3 tasking for Rachel confirmed through Oct 1; Krateo Sky integration at peak intensity with weekly review cycles; Navy contract activities and technical coordination ongoing
+- **Total messages scanned:** 597 (571 previous + 26 new)
+- **Date range:** 25 Sep – 2 Oct 2026
+- **Volume:** Extreme operational tempo sustained through Oct 2; peak intensity on Oct 1 with multiple Navy escalations, Krateo Sky engineering coordination, and NOAA hurricane tasking continuation; administrative/legal processing activity (eSignatures, invoicing)
 
 ---
 
@@ -11,69 +11,84 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** (elstonj@blackswifttech.com) — **Dominant volume sustained**; new period adds: Flight Regulations Review meeting coordination (Oct 1, 11am & 2pm MDT, Spencer Hoehl relay Sep 30), Krateo Sky weekly integration review distribution (Sep 30, multiple IMPORTANT), cybersecurity roadmap forwarding (Sep 30, 18:58 UTC, IMPORTANT), external university contact coordination with Adam Houston (Sep 30, 12:35 UTC, IMPORTANT); cross-functional integration lead confirmed
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Sustained Navy contract focus**; included in Flight Regulations Review meetings (Oct 1, Sep 30); Navy contract escalations continuing
-- **Cory Dixon** (cory@krateosky.com / cory.dixon@blackswifttech.com) — **Elevated to primary Krateo integration point**: Cybersecurity roadmap leadership (Sep 30, 18:58 UTC, IMPORTANT), Week of Sept 28th Integration Meeting Slides distribution (Sep 30, 13:40 UTC, IMPORTANT), Black Swift Weekly Integration Review notes and actions (Sep 30, 20:50 UTC, IMPORTANT, forwarded by Sona Raziabeegum); day-to-day Krateo partnership operations
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1); Krateo integration meeting participation (Sep 30)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active USSOCOM technical coordination**: forwarding "(U) [Non-DoD Source] PCLT Tech Questions" response to USSOCOM (Sep 30, 16:21 UTC, IMPORTANT); escalation point for military technical requirements
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1)
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — Included in Flight Regulations Review meetings (Oct 1)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Krateo integration meeting distribution (Sep 30, multiple IMPORTANT)
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **New correspondence**: organizing Flight Regulations Review meetings with Pendleton Breakdown agenda (Oct 1, dual 11am-12pm and 2pm-3pm MDT sessions, Sep 30, 22:39 & 23:05 UTC)
+- **Jack Elston** (elstonj@blackswifttech.com) — **Dominant volume sustained with escalation coordination**
+  - New period adds: BST After Action Review (AAR) TCE 26.2 coordination with Navy (Oct 1, multiple iterations); eSignature document routing (Oct 1, 15:11-15:35 UTC); Adam Houston university meeting follow-up (Oct 1, 12:26 & 19:04 UTC); CJFC Engineering Sprint coordination relay (Oct 1, 09:34 UTC)
+  - Cross-functional integration and Navy contract escalation lead confirmed
+
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Navy contract focus sustained**
+  - New: "[Non-DoD Source] Option Period wrap up" coordination (Oct 1, 11:41 UTC)
+  - Navy contract lifecycle management
+
+- **Cory Dixon** (cory@krateosky.com / cory.dixon@blackswifttech.com) — **Krateo integration operations authority**
+  - New: eSignature request for BST-AAR document (Oct 1, 15:35 UTC, IMPORTANT); CJFC Engineering Sprint BST coordination (Oct 1, 09:34 UTC, forwarded by Daniel Prendergast, Oct 1, 15:43 UTC response from Bob Smith)
+  - Dual-role position (Krateo + BST) confirmed; document approval authority
+
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active USSOCOM technical & Krateo coordination lead**
+  - New: CJFC Engineering Sprint coordination with Bob Smith (Krateo) and USSOCOM (Oct 1, 09:34 UTC, IMPORTANT); continued (U) [Non-DoD Source] PCLT Tech Questions thread with Evan Wolff/USSOCOM (Oct 1, 09:46 UTC, IMPORTANT)
+  - Technical escalation point for military requirements and Krateo partnership engineering
+
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **New operational coordination**
+  - "Re: ByLight M2 HALO Flight" (Oct 1, 12:26 UTC, IMPORTANT)
+  - Flight operations/platform coordination
 
 ### Top External Contacts
 
 #### Government (Operational & Strategic)
 
-**NOAA (LIVE P-3 OPERATIONAL TASKING CONTINUES)**
+**NOAA (LIVE P-3 OPERATIONAL TASKING — CONTINUED)**
 
-- **AOC Hurricanes - NOAA Service Account** (aoc.hurricanes@noaa.gov) — **CRITICAL OPERATIONAL AUTHORITY CONFIRMED**: 
-  - **"Confirmed Tasking P-3, Rachel, 10/1/2026"** (Sep 30, 10:04 AM EDT, INBOX) — **Oct 1 Rachel tasking confirmed for live operations**; Maciej receives direct tasking confirmation
-  - Large distribution list including Jason Dunion, Ghassan Alaka, Jason Sippel, Heather Holbach, Andrew Hazelton, Paul S Chang, Danielle Varwig, Mark Rogers, Nikolai Pawlenko, Joe Cione, Kathryn Sellwood, Lev Looney, Jun Zhang, Laura Rock, Joe Sapp, David Richter, Zorana Jelenak, Benjamin Jaimes de la Cruz, Flight Operations
-  - Pattern continues: daily operational tasking through Oct 1
+- **Hurricane Field Program POD distribution** — **Operational continuation confirmed**:
+  - "Hurricane Field Program POD – Thursday, October 1, 2026" (Oct 1, 16:02 UTC, IMPORTANT, CATEGORY_FORUMS) via Jason Sippel/sascwatch-all-list
+  - Large distribution: _OAR AOML HFP, Steven Thur, Jennifer Mahoney, Nancy Wallace, Molly Baringer, Laura Chaibongsai, Claire Bailey, OAR communications, OAR PCO, Monica Allen, Blenda Mease, Diana Udel, Katie Eaton, Jessica Snowden, Annette Hollingshead, Lev Looney, Christopher Slocum
+  - **Indicates daily operational briefing integration; Maciej remains in live tasking loop**
 
-**Navy/USSOCOM (Contract & Technical Escalations)**
+**Navy/USSOCOM (Contract & Technical Escalations — Critical Activity)**
 
-- **Brescia, Anthony D CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — **New escalation**:
-  - "TCE Fallout" (Sep 30, 18:58 UTC, IMPORTANT)
-  - Recipients: Jack Elston, Beck Cotter, Maciej Stachura, Aaron D Pyrah (NAWCAD), Angel R Ruiz-Reyes (NAWCAD)
-  - Indicates technical or contractual issue requiring senior BST response
-- **Jagelewski, Michael C CIV USSOCOM SOCOM** (michael.c.jagelewski.civ@socom.mil) — **Active USSOCOM technical engagement**:
-  - "RE: (U) [Non-DoD Source] PCLT Tech Questions" (Sep 30, 21:44 UTC, IMPORTANT)
-  - Response to Daniel Prendergast thread; includes Evan M Wolff (USSOCOM)
-  - Technical requirements/feedback loop for USSOCOM integration
-- **Wolff, Evan M MIL USSOCOM SOCOM** (evan.m.wolff.mil@socom.mil) — Continued USSOCOM technical coordination
+- **Brescia, Anthony D CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — **Critical escalation authority**:
+  - "BST After Action Review and Corrective Procedure: TCE 26.2 (ahead of Friday's meeting)" (Oct 1, 16:54 & 16:57 UTC, INBOX)
+  - Recipients: Pyrah, Aaron D (NAWCAD); Ruiz-Reyes, Angel R (NAWCAD); Jack Elston (BST)
+  - **Indicates formal Navy escalation procedure; Friday meeting scheduled with NAWCAD leadership**
+  - TCE 26.2 failure/incident requiring after-action review and corrective action
 
-#### Krateo Sky (Strategic Partnership — Integration Intensity Peak)
+- **Wolff, Evan M MIL USSOCOM SOCOM** (evan.m.wolff.mil@socom.mil) — **Active USSOCOM technical thread**:
+  - "RE: (U) [Non-DoD Source] PCLT Tech Questions" (Oct 1, 15:19 UTC, IMPORTANT)
+  - Response thread includes Michael Jagelewski (USSOCOM CIV); Daniel Prendergast continuing technical response (Oct 1, 09:46 UTC)
+  - **Ongoing technical requirements/integration feedback for USSOCOM**
 
-- **Sona Raziabeegum** (sona@krateosky.com) — **Integration meeting authority**:
-  - "Black Swift Weekly Integration Review, notes and actions from 30 September" (Sep 30, 20:50 UTC, IMPORTANT)
-  - Large distribution: Cory Dixon (Krateo), Jack Elston, Maciej Stachura, Bob Smith, Brian Grubel, Adria Passola, Lluis Pedragosa, Ariel Avitan, Thibault Bridel-Bertomeu, LisaMarie Cheney, Dipan Amin, Tim Hegwood, Jed Leonard, Joshua Fromm, Pam Kermisch, Don Spinozzi, Meredith Needham, Bob Gold, Jasmine Khambatta, Roger Riley
-  - Weekly review cycle established; Maciej is core participant
+#### Krateo Sky (Strategic Partnership — Engineering Intensity)
 
-- **Cory Dixon** (cory@krateosky.com) — **Krateo operations authority**:
-  - Cybersecurity roadmap (Sep 30, 18:58 UTC, IMPORTANT) — forwarded to Jack Elston and Maciej Stachura
-  - Week of Sept 28th Integration Meeting Slides (Sep 30, 13:40 UTC, IMPORTANT) — large internal/external distribution
-  - Indication: dual-role position (Krateo + BST) as integration lead
+- **Bob Smith** (Bob@krateosky.com) — **Krateo operations/engineering authority**:
+  - "Re: CJFC Engineering Sprint - BST Coordination" (Oct 1, 15:43 UTC, IMPORTANT)
+  - Recipients include Maciej Stachura, Jack Elston, Cory Dixon (BST), LisaMarie Cheney, Jed Leonard (Krateo), Daniel Prendergast (BST)
+  - **Critical engineering sprint coordination for CJFC project; Maciej is stakeholder**
 
-- **Contact** (contact@krateosky.com) — **Automated integration meeting distribution**:
-  - "Meeting summary: Black Swift Weekly Integration Review" (Sep 30, 16:57 UTC, IMPORTANT)
-  - Recipients: Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham
-  - Indicates formal weekly cycle with summary generation
+- **Cory Dixon** (cory@krateosky.com) — **Krateo technical lead**:
+  - eSignature request for "BST-AAR-26-001_After_Action_Review_TCE 26.2" (Oct 1, 15:35 UTC, IMPORTANT)
+  - **Document approval authority; indicates Krateo involvement in Navy TCE incident**
 
-#### External Business/Legal
+#### External Business/Legal (New Activity)
 
-- **Billing** (billing@kofirm.com) — **Legal/closing coordination**:
-  - "RE: Invoice for closing legal fee re KrateoSky/Black Swift Technologies LLC - Maciej Stachura" (Sep 30, 22:06 UTC, IMPORTANT)
-  - Direct to Maciej Stachura; indicates Maciej involved in Krateo Sky legal/financial transaction closure
+- **Dan Fredrickson** (dfredrickson@kofirm.com) — **Krateo Sky legal closure authority**:
+  - "RE: Invoice for closing legal fee re KrateoSky/Black Swift Technologies LLC - Maciej Stachura" (Oct 1, 16:39 UTC, UNREAD, IMPORTANT)
+  - **Krateo transaction/closing status update**
 
-#### External Contacts (Non-government)
+- **Curtis Vock** (cvock@cozen.com) — **NEW external legal engagement**:
+  - "The Soil Moisture Company - Cozen O'Connor Engagement Letter" (Oct 1, 15:31 UTC, UNREAD, IMPORTANT)
+  - **Indicates new business opportunity or corporate development with Cozen O'Connor (major law firm)**; addressed directly to Maciej Stachura
+  - **New client/entity: The Soil Moisture Company**
 
-- **Adam Houston** (ahouston2@unl.edu) — **University contact - new**:
-  - "Meet up on Monday" (Sep 30, 12:35 UTC, IMPORTANT)
-  - Recipients: Jack Elston, Maciej Stachura
-  - University of Nebraska-Lincoln affiliation; meeting scheduled for early Oct week
+#### University/External Partnerships
+
+- **Adam Houston** (ahouston2@unl.edu) — **University of Nebraska-Lincoln partnership**:
+  - "Re: Meet up on Monday" (Oct 1, 12:26 UTC, IMPORTANT, relayed by Jack Elston Oct 1, 19:04 UTC)
+  - **Monday (Oct 4) meeting confirmed; strategic external partnership**
 
 #### Automated/System Emails
 
-- **
+- **Google Workspace eSignatures** (esignature-noreply@google.com) — **Multiple document signing requests**:
+  - "eSignature request for BST-AAR-26-001_After_Action_Review_TCE 26.2 - 10/1/26" (Oct 1, 15:11, 15:12, 15:14, 15:16 UTC, multiple iterations)
+  - Jack Elston (originator); Cory Dixon (co-signer); Maciej Stachura (recipient)
+  - **Indicates document version iteration/approval cycle; formal Navy escalation documentation**
+
+- **Google Calendar** (calendar-notification@google.com):
+  - "BST/K

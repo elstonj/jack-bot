@@ -1,6 +1,6 @@
 # Unmapped Customers
 
-_Generated 2026-10-01 03:21 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-10-02 03:34 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
@@ -11,4 +11,3 @@ _Generated 2026-10-01 03:21 — customers who have emailed info@/sales@ but aren
 | 2026-09-29 | gearwurx.com | 1 | Re: Manufacturing & Electro-Mechanical Assembly Support for Black Swift Technolo |
 | 2026-09-29 | cccs.edu | 1 | Colorado Technology Student Association |
 | 2026-09-28 | deadwater.tech | 1 | Navigation resilience for Black Swift |
-| 2026-09-24 | mail.ozols.lv | 1 | Batteries engineered around your platform and mission |

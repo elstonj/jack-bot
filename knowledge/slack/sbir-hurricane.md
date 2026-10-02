@@ -38,7 +38,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **Deployment Tube Components:**
 - Spring-loaded switches under flap available for replacement; extras stored on wire rack shelf or pre-wired in a bin ready to use (September 22, 2026); replacement procedure involves using pliers/channel locks but should not involve twisting the black lead portion (risk of internal breakage), only grab metal housing sleeve; existing loctite residue is sufficient, no reapplication needed (September 22, 2026)
 
-**Ground Control Station Operations (April-September 2026):**
+**Ground Control Station Operations:**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
 - GCS firmware updates for dual-channel radio control implemented (April 2026)
 - Use of Channel 1 designated for flight operations over Avon Park (April 2026)
@@ -58,5 +58,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
 - **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
 - **Microhard Radio Configuration:** Implemented ATS108=30 setting for optimal performance
+
+## Action Items & Commitments
 
 **

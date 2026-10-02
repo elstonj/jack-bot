@@ -14,9 +14,10 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 - **Ethan Domagala** - Hardware fabrication, housing design, field operations
 - **Dan Prendergast** - Technical direction, commercialization, final deliverables
 - **Meredith Needham** - Project coordination, regulatory/medical documentation
+- **Spencer Hoehl** - Weight and balance calculations, aircraft specifications
 - **Mike Ekdahl** - Sod Farm site manager and contact
 
-**Activity Level:** Extensive (3,885+ messages across ~6 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns; ongoing through September 2026.
+**Activity Level:** Extensive (3,885+ messages across ~6 years). Peak activity: 2020-2022 during hardware development and payload integration; 2024-2025 during USAF SBIR Phase 2 execution and field deployment campaigns; ongoing through October 2026.
 
 ## Key Decisions
 
@@ -76,17 +77,15 @@ The **#soil-moisture-mapping** channel documents Black Swift Technologies' compr
 
 **August 17, 2026** - Established formal voltage management protocol for E2 battery testing and operations: no lower-end voltage guard implemented, requiring careful monitoring to prevent battery damage. Jack Elston and Eryan Mecham coordinated communication to OMS partner regarding safe voltage thresholds during ground and mobile testing phases.
 
+### Weight & Balance Validation (October 1, 2026)
+
+**October 1, 2026** - E2 aircraft GTOW (Gross Take-Off Weight) confirmed within operational limits:
+- Final measured mass: 11.102 kg (Ethan Domagala, Spencer Hoehl measurement)
+- Maximum GTOW per weight and balance spreadsheet: 11.85 kg (based on 5215 motors configuration)
+- Status: **APPROVED** for deployment (verified by Maciej Olszewski, Ethan Domagala, Spencer Hoehl)
+
 ## Projects & Initiatives
 
 ### Core Soil Moisture Mapping Payload (2020-2026) - **ACTIVE**
 
-**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025). Continuing field deployment, customer testing, and antenna refinement through September 2026.
-
-**Current Activity (September 2026):**
-- Latest antenna version showing "good steady data" per OMS partner feedback
-- Antenna cover fabrication pending—estimated timeline: "a few weeks" once BST prioritizes (currently lower priority relative to other pressing projects)
-- E2 aircraft scheduled for OMS partner drop-off on September 25, 2026
-- Team planning to discuss antenna cover implementation requirements early week of September 30, 2026 (Maciej and team)
-
-**Technical Configuration:**
-- LDCR radiometer (multiple revisions: RevC, C2, RevD) with dual antenna feeds
+**Status:** Operational with RevD sensor system validated and approved for production use (as of March 2025). Continuing

@@ -14,7 +14,7 @@
   ],
   "payment_state": "paid",
   "build_state": "complete",
-  "ship_state": "delivered",
+  "ship_state": "in_transit",
   "estimate_date": null,
   "invoice_date": "2025-05-07",
   "invoice_amount": 21181.81,
@@ -37,11 +37,8 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Two S0 VTOL units ordered and paid in full (Inv #1667, May 2025). Delivery delayed; BST intends to enter settlement agreement per legal disclosure. Recent Slack activity (Aug\u2013Sep 2026) confirms QC flights completed and units in post-delivery support/repair phase (ERAU E2 RMA being processed). Asana task marked 'Closed' due to outdated grant-proposal language, but QBO invoice and active post-delivery engagement override that status.",
-  "missing_fields": [
-    "ship_to",
-    "shipped_date"
-  ],
+  "notes": "Two S0 VTOL units paid in full (Inv #1667, May 2025). Units delivered to ERAU; currently in post-delivery support phase. ERAU E2 RMA in progress as of Sep 2026 (units returned to BST for troubleshooting/repair). Asana task marked 'Closed' reflects outdated grant-proposal language; overridden by QBO invoice 1667 and active Sep 2026 support engagement. Ship-state updated to in_transit per UPS tracking labels issued Sep 14\u201315, 2026.",
+  "missing_fields": [],
   "last_evidence_date": "2026-09-29",
   "last_contact_date": "2026-09-14"
 }

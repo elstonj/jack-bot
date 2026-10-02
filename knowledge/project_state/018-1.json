@@ -32,7 +32,7 @@
         "amount": 27813.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-01"
+        "last_updated": "2026-10-02"
       },
       "purchases": {
         "amount": 0.0,
@@ -52,7 +52,7 @@
     "committed": 0.0,
     "remaining": 59049.19,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-01T09:03:18Z"
+    "last_reconciled": "2026-10-02T09:15:53Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -65,7 +65,14 @@
     }
   ],
   "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-10-01T09:03:18Z",
+  "overrides": [
+    {
+      "source": "FEEDBACK",
+      "author": "Spencer Hoehl",
+      "date": "2026-10-01",
+      "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
+    }
+  ],
+  "last_full_rebuild": "2026-10-02T09:15:53Z",
   "last_incremental_update": null
 }

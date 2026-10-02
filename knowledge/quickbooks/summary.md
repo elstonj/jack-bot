@@ -1,88 +1,90 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** September 30 – October 15, 2026 | **Currency:** USD
+**Period: October 1–15, 2026 | Historical Data: April 2024 – October 2026**
 
 ---
 
-## Company Totals
+## Company Totals (Historical Period)
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $9,216,792.62 |
-| **Total Expenses** | $3,883,932.41 |
-| **Net Income** | $5,332,860.21 |
+| **Total Revenue (Invoices)** | $9,357,912.00 |
+| **Total Expenses (Bills + Purchases)** | $3,709,839.60 |
+| **Net Income Position** | **$5,648,072.40** |
 
-**Note:** P&L report shows -$124,585.69 for the narrow 2-day period (Sept 30–Oct 1); full project data reflects cumulative activity April 2024–October 2026.
-
----
-
-## Financial Summary by Project/Class
-
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $6,196,724.00 | $1,820,676.98 | **$4,376,047.02** | Active |
-| **Commercial** | $3,020,068.62 | $245,957.33 | **$2,774,111.29** | Profitable |
-| **BST Internal** | $24,119.36 | $1,641,178.10 | **-$1,617,058.74** | Deficit |
-| **TOTAL** | **$9,216,792.62** | **$3,883,932.41** | **$5,332,860.21** | — |
+*Note: Oct 1–15 period shows minimal activity ($1,123.62 in new expenses only).*
 
 ---
 
-## Key Observations by Project
+## By Project/Class
+*(Ranked by Total Activity)*
 
-### Government (Largest Project)
-- **109 active invoices** with $5,076,962.82 outstanding
-- Strong revenue generation; healthy 70.6% net margin
-- Recent activity through October 7, 2026
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|----------------|----------------|--------------|--------|
+| **Government** | $6,313,724.00 | $1,820,761.38 | **$4,492,962.62** | Active |
+| **Commercial** | $3,020,068.62 | $247,081.00 | **$2,772,987.12** | Active |
+| **BST Internal** | $24,119.36 | $1,641,997.22 | **-$1,617,877.86** | Deficit |
 
-### Commercial (Highly Profitable)
-- **Net margin: 91.9%** (revenue significantly exceeds expenses)
-- Recent invoices include **Invoice #1779** (Murphy's Pond CH4): $24,579.28, dated Aug 31, 2026, **outstanding balance: $24,579.28**
-- Minimal PO commitments ($1,977.50)
-
-### BST Internal (Operations/Overhead)
-- **Significant deficit:** $1.62M (expenses exceed revenue)
-- Major expense driver: Payroll expenses ($122,204.23 in Sept 30–Oct 1 P&L alone)
-- Only $24K revenue; appears to be internal operations, not client-billable
-- Recent activity minimal (2 transactions Sept 30–Oct 15)
+**Key Observation:** Government and Commercial projects are highly profitable; BST Internal is significantly underwater (operating at a $1.62M deficit).
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Invoices)
-| Project | Outstanding Balance | Risk Level |
-|---------|---------------------|------------|
-| Government | $5,076,962.82 | Monitor (large amount, but typical for government contracts) |
-| Commercial | $24,579.28+ | Low (small balance) |
-| **Total AR** | **$5,101,542.10+** | — |
+### Accounts Receivable (Outstanding Balances)
+- **Government Project**: $5,194,962.82 outstanding across 110 active invoices
+- **Commercial Project**: At least $24,579.28 outstanding (Invoice #1779, dated 2026-08-31, from Murphy's Pond CH4)
+- **Total A/R**: ~$5.22M+ in outstanding receivables
 
-### Recent Large Expenses (P&L Period)
-- **Payroll Tax:** $6,253.03
-- **Healthcare:** $696.12
-- **Wages:** $127,761.14
-- **Total Payroll (Sept 30–Oct 1):** $122,204.23
+### Recent Expense Activity (Oct 1–15, 2026)
+- Only **$1,123.62** in new expenses recorded across the company
+- No new invoices generated in this period
+- No new purchase orders issued
 
 ### Project Activity Status
-- **Government:** Active (invoices through Oct 7)
-- **Commercial:** Active (invoices through Aug 31; recent invoice outstanding)
-- **BST Internal:** Minimal recent activity (may indicate stable operations or reduced internal work)
+- **Government & Commercial**: Ongoing with substantial receivables
+- **BST Internal**: Minimal revenue activity; significant expense accumulation suggests operational/overhead costs
 
 ---
 
-## Expense Breakdown
-- **Government project expenses:** $1,820,676.98
-- **Commercial project expenses:** $245,957.33
-- **BST Internal expenses:** $1,641,178.10 (primarily payroll)
+## Top Customers (By Revenue)
+
+| Customer | Project | Amount | Balance Due |
+|----------|---------|--------|------------|
+| Government contracts (110 invoices) | Government | $6,313,724.00 | $5,194,962.82 |
+| Murphy's Pond CH4 [018-1] | Commercial | $24,579.28 | $24,579.28 |
+| *Other Commercial clients* | Commercial | $2,995,489.34 | *Unknown* |
 
 ---
 
-## Unclassified/Special Items
-- **Reimbursable Expense Income:** -$2,381.46 (appears to be expense recovery/reimbursement credit)
-- **Retirement Contributions:** $0.00 (no contributions in this period)
+## Top Vendors / Expenses
+*(Data incomplete in provided extract, but major categories identified)*
+
+| Category | Total Spend |
+|----------|------------|
+| Direct Material Purchases | $2,699.00 |
+| Shipping, Freight & Delivery | $79.07 |
+| Other Operating Expenses (BST Internal) | $1,641,917.15 |
+
+*Note: Full vendor breakdown not available in provided data.*
 
 ---
 
-## Financial Health Summary
-✅ **Strong overall position:** $5.3M net income across all projects  
-✅ **Government & Commercial projects profitable:** Combined $7.15M net  
-⚠️ **Internal operations running at loss:** Typical for overhead allocation, but monitor payroll sustainability  
-⚠️ **Monitor AR aging:** $5.1M outstanding, primarily government contracts
+## Unclassified / Concerns
+
+⚠️ **BST Internal Project Red Flag**
+- **$1.62M deficit** despite only $24K in invoiced revenue
+- Expense-to-revenue ratio: **68:1** (unsustainable)
+- Likely represents company overhead/indirect costs not allocated to revenue-generating projects
+
+⚠️ **Cash Flow Risk**
+- $5.22M in outstanding receivables (Government + Commercial)
+- Recent expense/revenue activity minimal (Oct 1–15)
+- Company cash position depends heavily on A/R collection
+
+---
+
+## Recommendations
+1. **Prioritize Government A/R collection** ($5.19M outstanding)
+2. **Review BST Internal allocation** – $1.64M in expenses should be redistributed to project classes if possible
+3. **Monitor invoice payment cycles** – 110 Government invoices with open balances requires active collection
+4. **Generate Q4 proposals** – Revenue generation stalled in early October

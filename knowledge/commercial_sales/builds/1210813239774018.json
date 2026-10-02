@@ -52,7 +52,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Engineering-phase collaboration with Ultra PCS / USAF on pneumatic launcher for C-130/KC-135 integration. S20009 launcher assembly underway; launcher tank location uncertain as of 9/15. NRE cost negotiation ongoing; customer now considering S3 alternative. Recent Slack indicates two full aircraft on scope (components to finish customer's other aircraft). Air compressor procurement in progress.",
+  "notes": "Engineering-phase collaboration with Ultra PCS / USAF on pneumatic launcher for C-130/KC-135 integration. S20009 launcher assembly underway; launcher tank location uncertain as of 9/15. NRE cost negotiation ongoing; customer now considering S3 alternative. Two full aircraft on scope (components to finish customer's other aircraft). Air compressor procurement in progress. Last contact 2026-01-15.",
   "missing_fields": [
     "receive_by",
     "ship_to",
