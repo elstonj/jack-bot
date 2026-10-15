@@ -4,7 +4,7 @@
 - **Client/Customer**: NASA SBIR program
 - **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
 - **Timeline**: Mid-2023 through Phase I completion February 7, 2024
-- **Status**: **ARCHIVED** — Phase I fully completed February 7, 2024. All contractual deliverables closed out. Post-Phase I work (wildfire video completion) ongoing at lower priority with Kareem returned June 16, 2026.
+- **Status**: **ARCHIVED** — Phase I fully completed and closed out February 7, 2024. All contractual deliverables delivered. Post-Phase I technical work (wildfire video completion) ongoing at low priority with Kareem support as of June 16, 2026.
 - **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations, project coordinator), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (post-Phase I support, returned June 16, 2026)
 - **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE, Argonne National Lab
 
@@ -27,7 +27,7 @@
 - **Phase II Submission**: February 3, 2024
 - **NASA ROSES Call Application**: Submitted March 31, 2024
 - **Post-Phase I Technical Work**: Dubins path altitude profiling control (October 2025)
-- **Wildfire Video Work (Active as of June 16, 2026)**: Per Jack Elston (June 15–16, 2026), Kareem returned June 16, 2026 at 12:00 PM to support post-Phase I work. Jack Elston is coordinating division of labor between Kareem and Maciej Stachura to finish the wildfire video. Alternative work available includes S0 components or ground stations if higher-priority tasks take precedence.
+- **Wildfire Video Work (Active as of June 16, 2026)**: Per Jack Elston (June 15–16, 2026), Kareem returned June 16, 2026 at 12:00 PM to support post-Phase I work. Jack Elston coordinating division of labor between Kareem and Maciej Stachura to finish the wildfire video. Alternative work available includes S0 components or ground stations if higher-priority tasks take precedence.
 
 ## Priority & Context
 
@@ -46,3 +46,4 @@ Per Jack Elston (June 15–16, 2026), Kareem will coordinate with Maciej Stachur
 
 ## Administrative Notes
 - **Fireflies Account Policy** (August 20–21, 2026): Per Jack Elston, team members should not use BST accounts to sign into Fireflies, as this pollutes the ecosystem with unwanted hooks. Team is working on blocking this access.
+- **Note on October 2026 Feedback**: Feedback entries from October 1–8, 2026 appear to reference SOCOM project updates (end cap CAD, accelerometer ordering, ROMs/CONOPS derivation) and are unrelated to Fire UTM Phase I.

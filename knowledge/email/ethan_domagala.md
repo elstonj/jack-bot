@@ -1,92 +1,106 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 185 emails (167 previous + 18 new)
-- **Date range:** 24 Sep 2026 – 1 Oct 2026 (8 days)
-- **Approximate volume:** ~5.2 emails/day overall
-- **Critical escalation:** **Oct 1 alone shows 14 emails** (7.7× normal daily rate) — dominated by SOCOM Pope task assignments (4 Asana notifications), Flight Regulations Review notes, and vendor outreach
-- **Task assignment surge continues:** 4 new SOCOM tasks assigned Oct 1, 4:47–5:00pm UTC (EO/IR FMV variant, EO/IR Real-time ATR variant, 2× flight testing tasks — duplicates or variant assignments)
+- **Total messages scanned:** 225 emails (219 previous + 6 new)
+- **Date range:** 6 Oct 2026 – 13 Oct 2026 (8 days)
+- **Approximate volume:** ~0.75 emails/day (new data Oct 13); overall baseline ~5.0 emails/day across full Oct 2–12 window, normalizing into steady-state execution
+- **Task assignment trend:** Continuing normalized pattern (~1 task/day); no new escalation spikes
+- **Notable shift:** Prototype build steady execution continuing; critical logistics coordination emerging Oct 13
 
 ## Key Correspondents
 
-### Top Internal Senders (Updated)
-- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **Escalating SOCOM Pope task lead** (now 9+ task assignments across Sep 30–Oct 1; Oct 1 batch adds EO/IR variants); also forwarded CJFC Engineering Sprint coordination email to Ethan, Joshua Fromm, Alex Lomis
-- **Asana** (no-reply@asana.com) — Task notifications; **elevated to ~8 notifications on Oct 1 alone** (7 tasks assigned: 4 SOCOM + 3 general/summary updates)
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight Regulations Review meeting organizer
-- **Maciej Stachura** (stachura@blackswifttech.com) — Active collaborator (Ethan replied to ByLight M2 HALO Flight email Oct 1, 12:26pm)
-- **Flight regulations/government program team:** Joshua Fromm, Beck Cotter, Cory Dixon, Alex Lomis, Jack Elston, Gemini (meeting notes)
+### Top Internal Senders (Updated Oct 13)
+- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **Escalated to critical logistics coordinator** Oct 13; now managing multi-party battery shipment to North Carolina with AeroNet vendor (4 message exchanges Oct 13); remains primary escalation point and vendor interface
+- **Asana** (no-reply@asana.com) — Task notifications normalized; Oct 6–12 shows **1 task due daily** (consistent steady-state execution)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — **Recurring team organizer**; Oct 12 sending recurring Monday All-hands meeting invitation
+- **Flight team core** — Maciej Stachura, Joshua Fromm, Beck Cotter, Jack Elston, Alex Lomis, Spencer Hoehl (continuing HALO + SOCOM coordination)
+- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — **New internal hire** (confirmed Oct 12 all-hands distribution)
 
-### External/Vendor Senders (NEW THIS PERIOD — Vendor Outreach Uptick)
-- **Protolabs** (news@protolabs.com) — Manufacturing vendor; marked IMPORTANT, UNREAD
-- **Xometry** (hello@mkt1.xometry.com) — Manufacturing/fabrication vendor; promotional
-- **Mountain West UAS** (info@mountainwestuas.org) — Industry meeting/networking; promotional (October meeting invite)
-- **Molly I** (molly@machinetek-useng.com) — **Composite Fabrication Solutions vendor** — marked IMPORTANT, UNREAD (outreach to BST)
-- **NextVision Systems** (chani.bs@nextvision-sys.com) — Dan Prendergast sent DragonEye2 and TRIP Quote email to Chani Ben Simon (cc'd Ethan implicitly in his inbox view); likely sensor/payload vendor
-- **Lucid** (webinars@e.lucid.co) — Design/collaboration software vendor; marked IMPORTANT
-- **Asana** (learn@go.asana.com) — Promotional/educational (AI features email)
+### External/Vendor Senders (Updated Oct 13 — Active Logistics Phase)
+- **AeroNet** — **NEW critical vendor** (Oct 13, marked IMPORTANT)
+  - **Adrian Sepulveda** (asepulveda@aeronet.com) — Primary contact; initiating and coordinating battery shipment logistics
+  - **Robert Correia** (rcorreia@aeronet.com), **Patrick Mulstay** (pmulstay@aeronet.com), **Jeff Dauz** (jdauz@aeronet.com) — Secondary AeroNet team members cc'd on coordination chain
+  - **Purpose:** Battery shipment to North Carolina (destination location visible)
+  - **Status:** Multi-party coordination thread Oct 13; at least 4 message exchanges same day (indicates time-sensitive logistics)
+  - **Ethan's role:** cc'd on final coordination message (17:47 UTC); appears to be receiving final confirmation/coordination
 
-### Transactional/System
-- **Gemini** (gemini-notes@google.com) — Flight Regulations Review (Pendleton Breakdown) meeting notes, Oct 1 (marked IMPORTANT, UNREAD)
-- **Unknown sender** (officeinitiative629@gmail.com, subject "Re: Jack Elston") — marked IMPORTANT; **flagged as suspicious/unusual** (non-BST domain, vague subject)
+- **Krateo Sky** — **ATR vendor prospect** (Oct 12)
+  - Status: Initial qualification inquiry (Active)
 
-### Internal vs External Breakdown (This Week Updated)
-- **Internal/System:** ~72% (Asana, Dan Prendergast, Maciej Stachura, flight team, Gemini)
-- **External/Vendor:** ~17% (Protolabs, Xometry, Mountain West UAS, Molly/MachineTek, Lucid, Asana promo)
-- **Unclassified/Suspicious:** ~11% (officeinitiative629@gmail.com, NextVision forwarded email)
+- **ByLight Technologies** — **HALO program shipping** (Oct 7–8)
+  - Status: Shipping logistics finalized
+
+- **NextVision Systems/NextVision Ltd** — **Quote finalization** (Oct 7)
+  - Status: Quote cycle continuing
+
+- **Manufacturing/Component Vendors**
+  - **GlideMfg** (Sarabeth Eason) — S2 UAS housing (Oct 12, marked IMPORTANT)
+  - **MachineTek** (Molly I) — Composite core requirements (Oct 12, marked IMPORTANT)
+
+### Internal vs External Breakdown (Updated)
+- **Internal/System:** ~68% (Asana, Dan Prendergast, Cory Dixon, flight team, all-hands)
+- **External/Vendor:** ~25% (AeroNet, Krateo Sky, ByLight, NextVision, GlideMfg, MachineTek)
+- **Admin/Promotional:** ~7%
 
 ## Topic Patterns
 
-### **SOCOM Pope S0 Prototype (MAJOR CONTINUED ESCALATION)**
-- **9+ tasks now assigned across Sep 30–Oct 1:**
-  - **Sep 30 (evening):** S0 METAR, S0 Auto-METAR, bench/ground/local flight testing (x2)
-  - **Oct 1 (4:47–5:00pm UTC):** 
-    - Build prototype S0 EO/IR **FMV (Full-Motion Video) variant**
-    - Build prototype S0 EO/IR **Real-time ATR (Automatic Target Recognition) variant**
-    - Bench, ground, and local flight test (duplicate/clarification)
+### **Battery Shipment to North Carolina (CRITICAL — Oct 13)**
+- **Vendor:** AeroNet (Adrian Sepulveda, Robert Correia, Patrick Mulstay, Jeff Dauz)
+- **Scope:** Battery component/power system shipment logistics
+- **Owner:** Dan Prendergast (BST side); Adrian Sepulveda (AeroNet lead)
+- **Status:** Time-sensitive coordination; 4+ message exchanges Oct 13 same day (11:39 AM, 5:47 PM, 12:27 PM, 6:22 PM UTC indicates active back-and-forth)
+- **Destination:** North Carolina (logistics hub or program test site)
+- **Ethan's role:** cc'd on final coordination message (indicates awareness/sign-off required on critical shipment)
+- **Implication:** Battery power systems critical path for SOCOM Pope S0 or HALO program; logistics execution phase active
 
-- **Status:** Prototype now expanding to **multiple EO/IR payload variants** (FMV vs. Real-time ATR), suggesting parallel development tracks or customer options/requirements
-- **Payload focus:** METAR weather integration + dual EO/IR processing variants (video vs. AI/recognition)
-- **Ethan's role:** Primary hardware integrator for multi-variant prototype builds and flight testing
+### **SOCOM Pope S0 Prototype Build (STEADY STATE — Oct 6–13)**
+- **Phase:** Continued execution with emerging logistics coordination
+- **Multi-variant development:** EO/IR FMV + Real-time ATR variants
+- **Status:** Build components (batteries) now in active procurement/delivery pipeline
 
-### **Flight Regulations Review (Pendleton Breakdown) — Meeting Completed**
-- **Oct 1, 11am–12pm + 2–3pm MDT** (meeting occurred)
-- **Gemini notes captured and sent to Ethan** (marked IMPORTANT, UNREAD — content unknown from headers)
-- **All flight/government program team attended**
-- **Implication:** Regulatory gate likely passed or clarified; notes suggest actionable outcomes
+### **ATR Vendor Recruitment** (Oct 12)
+- **Vendor:** Krateo Sky — Active qualification
 
-### **ByLight M2 HALO Flight Program**
-- **Maciej Stachura initiated correspondence** (Ethan replied Oct 1, 12:26pm)
-- **Active parallel program alongside SOCOM Pope**
-- **Ethan's involvement:** Technical coordination/integration lead
+### **ByLight M2 HALO Shipping** (Oct 7–8)
+- **Status:** Delivered/ready for integration testing
 
-### **CJFC Engineering Sprint – BST Coordination (NEW)**
-- **Dan Prendergast forwarded to Ethan, Joshua Fromm, Alex Lomis** (Oct 1, 9:35am MDT, marked IMPORTANT)
-- **Context:** Military/government customer coordination (CJFC = likely Joint Forces Command or similar)
-- **Ethan's involvement:** Included in engineering sprint planning/coordination
+### **S2 UAS Housing Program** (Oct 12)
+- **Vendor:** GlideMfg — Initial inquiry
 
-### **Vendor/Manufacturing Outreach (UPTICK)**
-- **Protolabs:** October manufacturing updates; likely prototype tooling/fabrication support
-- **Xometry:** 2027 Manufacturing Outlook (feasibility partner outreach)
-- **MachineTek-USENG (Molly I):** Composite Fabrication Solutions **proactive outreach to BST** (marked IMPORTANT) — suggests composite materials being sourced for prototype
-- **NextVision Systems (DragonEye2/TRIP Quote):** Sensor/EO/IR payload vendor quote (Dan Prendergast coordinating)
-
-### **Industry Networking**
-- **Mountain West UAS:** October meeting invite (drone show/behind-the-scenes content) — likely local networking event
+### **Composite Core Requirements** (Oct 12)
+- **Vendor:** MachineTek — Vendor follow-up
 
 ## Communication Patterns
 
-### Task Assignment Velocity (SUSTAINED ESCALATION)
-- **Oct 1 concentrated surge:** 4 new SOCOM tasks assigned 4:47–5:00pm UTC (all 4 within 13 seconds — batch assignment)
-- **Task notification velocity:** 7 Asana notifications on Oct 1 (vs. ~1–2/day baseline)
-- **Parallel variants:** EO/IR FMV + EO/IR Real-time ATR assigned simultaneously (suggesting customer options or internal development split)
+### Critical Vendor Coordination Escalation (Oct 13)
+- **Same-day multi-message thread:** AeroNet battery shipment coordination shows 4 messages exchanged Oct 13 within ~6 hours (11:39 AM to 6:22 PM)
+- **Multi-party involvement:** Dan Prendergast (BST) coordinating with 4 AeroNet team members (Sepulveda, Correia, Mulstay, Dauz)
+- **Pattern:** Time-sensitive logistics requiring rapid back-and-forth; Ethan cc'd on final message (awareness of critical shipment status)
+- **Frequency escalation:** Jump from Oct 12 (3 vendors, marked IMPORTANT) to Oct 13 (1 vendor, 4 message exchanges same day) suggests build phase entering critical path execution
 
-### Outbound Communication (New Pattern)
-- **Ethan initiated reply to Maciej Stachura** (Oct 1, 12:26pm) on ByLight M2 HALO Flight — shows active technical engagement, not just task intake
-- **Previous pattern:** Mostly inbound tasks; now shows bidirectional collaboration
+### Task Assignment Normalization (Oct 6–13)
+- **Asana notifications:** Steady 1 task/day pattern continuing
+- **Load profile:** Stable execution phase
 
-### Vendor Outreach Uptick
-- **Manufacturing vendors now active in inbox** (Protolabs, Xometry, MachineTek)
-- **Pattern shift:** From quiet vendor period (Sep 24–30) → active vendor sourcing phase (Oct 1)
-- **Implication:** Prototype build phase beginning; component/fabrication sourcing underway
+### Vendor Coordination Maturation (Oct 12–13)
+- **Oct 12 pattern:** Multiple single-message vendor inquiries (procurement intake)
+- **Oct 13 pattern:** Multi-party, multi-message active logistics coordination (execution/fulfillment phase)
+- **Interpretation:** Build procurement shifting from evaluation/RFQ cycle to shipment/delivery coordination
 
-###
+## Key Relationships
+
+### Internal Collaboration
+- **Dan Prendergast** — Primary escalation point, vendor interface, logistics coordinator; most frequent collaborator across escalation + execution phases
+- **Cory Dixon** — Team organizational lead; recurring all-hands coordination
+- **Flight team core** (Stachura, Fromm, Cotter, Elston, Lomis, Hoehl) — Technical execution team for HALO + SOCOM programs
+
+### External Relationships (Updated Priority)
+- **AeroNet (Adrian Sepulveda lead)** — **CRITICAL (NEW)** — Battery power systems supplier; time-sensitive logistics coordination; multi-stakeholder vendor relationship
+- **ByLight Technologies (Mel Marker)** — **ACTIVE** — HALO M2 vehicle integration partner; delivery phase
+- **Krateo Sky** — **ACTIVE PROSPECT** — ATR algorithm vendor for SOCOM S0 real-time variant
+- **NextVision Systems** — **ACTIVE** — Quote/PO tracking ongoing
+- **GlideMfg, MachineTek** — **EMERGING** — Component suppliers for S2 UAS housing and composites
+
+## Notable Observations
+
+- **AeroNet emergence as critical path vendor (Oct 13):** Battery shipment to North Carolina is time-sensitive and requires multi-party coordination; suggests power systems are on critical path for SOCOM Pope S0 or HALO program delivery milestone

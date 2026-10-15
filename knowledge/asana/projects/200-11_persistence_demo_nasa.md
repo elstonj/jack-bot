@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks:** 1 contact record (Matthew Fladeland) in Asana; no active work tasks  
+**Total Tasks in Asana:** 1 contact record (Matthew Fladeland); no active work tasks  
 **Completion Rate:** 100% (all contracted work delivered and closed)
 
 ### Notable Completed Work by Assignee
@@ -62,9 +62,10 @@
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
 
-**Recent Equipment Logistics (September 2026):**
-- **09/23/26:** NASA S2 pallet shipment picked up between 9:30am–4pm. Ethan Domagala held pickup paperwork. (Meredith Needham)
-- **09/21/26:** NASA S2 pallet dimensions confirmed: 48" × 120" × 20" tall (Ethan Domagala)
+**Recent Equipment Logistics (September–October 2026):**
+- **09/23/26:** NASA S2 pallet shipment picked up 9:30am–4pm. Ethan Domagala held pickup paperwork. (Meredith Needham)
+- **09/21/26 & 09/18/26:** NASA S2 pallet dimensions confirmed: 48" × 120" × 20" tall (Ethan Domagala) — **Team Correction by Ethan 09/21/26 & 09/18/26**
+- **10/02/26 & 10/01/26:** Joshua Fromm inquired whether to produce quick video of S2 demo model setup/pack procedures (Joshua Fromm) — status unclear, awaited response
 
 ---
 
@@ -114,7 +115,4 @@
 
 ---
 
-## Demo/Flight Calendar & Platform Schedule (July–September 2026)
-
-**Calendar Maintained by Beck:**
-- Shared Google spreadsheet tracking demos and flights through September 2026: https://docs.google.com/spreadsheets/d/1Eq3XtejLRPeJSFTAvk-Zqy-QDKM
+## Demo/Flight

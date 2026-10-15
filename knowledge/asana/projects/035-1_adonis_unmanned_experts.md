@@ -68,12 +68,6 @@
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
 
-**External Reference (2026-09-09):** Daniel Prendergast shared reference link for Taisync ViuTracker G1 (https://www.taisync.com/modules) — context unclear; likely related to UMEX's post-project commercialization efforts, not BST responsibility.
+**Post-Project Activity (2026-10):** Jack Elston flagged (2026-10-07, 2026-10-08) that BST should be submitting documentation to SNAP-R (likely regulatory/compliance filings), but notes the team lacks subject-matter expertise in this area. Suggests Keven Gambold (UMEX CEO) may be better positioned to construct and submit these. Meredith O'hara Needham and Jack have handled submissions in the past but aren't confident in language/protocols. **Note:** This appears to be post-project administrative/regulatory follow-up, not part of original BST deliverables.
 
----
-
-## ⚠️ ARCHIVAL DIRECTIVE (PERMANENT)
-
-**Project is ARCHIVED and fully closed as of April 10, 2026.**
-
-**Do NOT list ADONIS tasks as priorities or include in briefings. All deliverables complete. No open BST work.**
+**External Reference (2026-09-09):** Daniel Prendergast shared reference link for Taisync Vi

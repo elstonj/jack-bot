@@ -1,75 +1,119 @@
 # BST Document Catalog
 
+---
+
 ## By Product/System
 
-### S0 UAS (Expendable Sonobuoy-Launched / General Small UAS)
-- **S0 UAS for Clear Air Testing** | NOAA | January 29, 2025 | Meteorological/oceanographic payload deployment for tropical cyclone monitoring (statement_of_work.md)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy / NAVAIR | March 23 – September 28, 2026 | SBIR Phase I Option Period Final Report on expendable sonobuoy-launched UAS for anti-submarine warfare (n6833525c0492clin0007optionfinalreport.md)
-- **Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | RFQ response showcasing S0 and S2 capabilities (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+### S0 (High-Altitude Launch Platform / VTOL)
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — NASA Langley / NOAA, October 2026 — Planning for S0 as high-altitude launch platform with MHP sensor integration. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — NOAA, October 2026 — Q&A prep for S0 VTOL in maritime/shipboard operations. (questions.md)
 
-### S2 (Fixed-Wing UAS)
-- **Data Collection over Costa Rica Volcanoes** | NASA HQ / NASA Ames Research Center | January 22-23, 2025 | Overflight missions collecting data over active volcanoes (Turrialba, Rincon, Poas) (80nssc25ca052_-_statement_of_workdocx.md)
-- **Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | RFQ response showcasing S0 and S2 capabilities (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+### S3 (KONDOR Platform)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — Defense Innovation Unit, October 2026 — Hybrid-electric ISR platform proposal for DIU Fly Off #2 (long-endurance 12-24+ hours). (diu_lc-isr_solution_brief.md)
+- **Copy of DIU Low Cost ISR Solution Brief: KONDOR** — Defense Innovation Unit, October 2026 — Duplicate/revised version of KONDOR proposal. (copy_of_diu_lc-isr_solution_brief.md)
+
+### SwiftCore Flight Management System
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — DARPA, January 2025 — SwiftCore FMS for BAE Systems albatross-inspired endurance platform. (20250117_bae_systems_waander_albatross_oral_proposal.md)
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — NOAA, October 2026 — SwiftCore FMS for maritime operations. (questions.md)
+
+### SwiftFlow, SwiftPilot, SwiftTab UI
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — DARPA, January 2025 — Full SwiftFlow autonomy stack (SwiftPilot, SwiftTab UI) for DARPA Albatross program. (20250117_bae_systems_waander_albatross_oral_proposal.md)
+
+### Mustang 2 / Mustang 2.1
+- **Week Six Summary - Mustang Project Effort 1** — ByLight, November 2025 — Status report on Mustang 2 aircraft development and Mustang 2.1 fuselage iteration. (2025-11-14_week_six_summary.md)
+
+### Multi-Hole Probe (MHP) Sensor System
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — NASA Langley / NOAA, October 2026 — MHP sensor integration with S0 platform for atmospheric measurements. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
+
+### Heritage Systems (SQA2, C³P, MWT)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — Defense Innovation Unit, October 2026 — References SQA2 heritage VTOL, C³P autonomy/GCS, MWT multi-UAV relay systems. (diu_lc-isr_solution_brief.md)
 
 ---
 
 ## By Client/Agency
 
-### U.S. Navy / Department of Defense
-- **Submission Process: Navy SBIR Magnetometer** | U.S. Navy | July 23, 2025 (created); January 8, 2026 (modified) | SOP/Internal process guide for Navy SBIR Phase I magnetometer contract N68335-25-C-0492 (submission_process_550-1_navy_sbir_magnetometer.md)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy / NAVAIR | March 23 – September 28, 2026 | SBIR Phase I Option Period Final Report on sonobuoy-launched UAS for anti-submarine warfare detection (n6833525c0492clin0007optionfinalreport.md)
+### Defense Innovation Unit (DIU)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — October 2026 — S3 (KONDOR) hybrid-electric platform for LC-ISR Fly Off #2. (diu_lc-isr_solution_brief.md)
+- **Copy of DIU Low Cost ISR Solution Brief: KONDOR** — October 2026 — Revised/duplicate version of KONDOR proposal. (copy_of_diu_lc-isr_solution_brief.md)
+- **BST LC-ISR Sub** — October 2026 — Capability brief for DIU Low Cost ISR competition (generic platform overview). (bst_lc-isr_sub.md)
 
-### National Oceanic and Atmospheric Administration (NOAA)
-- **NOAA UAS Services RFQ Cover Letter** | NOAA | September 24, 2026 | Transmittal letter for RFQ No. 371305M226Q0069 response (cover_letter.md)
-- **Black Swift Technologies Cover Letter – NOAA RFQ 371305M226Q0069** | NOAA | September 25, 2026 | Transmittal letter for RFQ response (black_swift_technologies_cover_letterpdf.md)
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA / Office of Marine and Aviation Operations (OMAO) | September 9, 2026 | RFQ response demonstrating prior UAS experience (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **S0 UAS for Clear Air Testing** | NOAA | January 29, 2025 | SOW for tropical cyclone meteorological/oceanographic data collection (statement_of_work.md)
+### DARPA
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — January 2025 — Oral proposal for DARPA Albatross program; BAE Systems prime with BST SwiftCore/SwiftFlow. (20250117_bae_systems_waander_albatross_oral_proposal.md)
 
-### NASA
-- **Data Collection over Costa Rica Volcanoes** | NASA HQ / NASA Ames Research Center | January 22-23, 2025 | SOW for volcano monitoring overflight missions using S2 UAS (80nssc25ca052_-_statement_of_workdocx.md)
+### NASA / NOAA
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — October 2026 — Internal BST planning for NASA 777 integration; involves NASA Langley, NOAA, and ERAU. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
+
+### NOAA (National Oceanic and Atmospheric Administration)
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — October 2026 — Q&A document for NOAA Uncrewed Systems Ops Center proposal; maritime/shipboard operations focus. (questions.md)
+
+### ByLight (U.S. Air Force Research Lab)
+- **Week Six Summary - Mustang Project Effort 1** — November 2025 — Status report on Mustang 2 aircraft development under ByLight contract. (2025-11-14_week_six_summary.md)
 
 ---
 
 ## By Application Area
 
-### Anti-Submarine Warfare (ASW) / Naval Operations
-- **Submission Process: Navy SBIR Magnetometer** | U.S. Navy | July 23, 2025 (created); January 8, 2026 (modified) | Process guide for Navy SBIR magnetometer contract (submission_process_550-1_navy_sbir_magnetometer.md)
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy / NAVAIR | March 23 – September 28, 2026 | Sonobuoy-launched UAS for ASW detection and classification (n6833525c0492clin0007optionfinalreport.md)
+### Intelligence, Surveillance, and Reconnaissance (ISR)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — Defense Innovation Unit, October 2026 — Low-cost, long-range electric ISR platform. (diu_lc-isr_solution_brief.md)
+- **Copy of DIU Low Cost ISR Solution Brief: KONDOR** — Defense Innovation Unit, October 2026 — KONDOR ISR platform (revised). (copy_of_diu_lc-isr_solution_brief.md)
+- **BST LC-ISR Sub** — Defense Innovation Unit, October 2026 — Generic LC-ISR capability brief. (bst_lc-isr_sub.md)
 
-### Weather & Meteorology / Tropical Cyclone Monitoring
-- **S0 UAS for Clear Air Testing** | NOAA | January 29, 2025 | Meteorological payload deployment for tropical cyclone operations (statement_of_work.md)
-- **NOAA UAS Services RFQ Cover Letter** | NOAA | September 24, 2026 | RFQ response for UAS services (cover_letter.md)
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | Prior experience documentation for NOAA UAS services (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
+### Long-Endurance / Wind-Powered Flight
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — DARPA, January 2025 — Albatross-inspired endurance platform using SwiftCore autonomy. (20250117_bae_systems_waander_albatross_oral_proposal.md)
 
-### Volcano Monitoring & Geological Hazards
-- **Data Collection over Costa Rica Volcanoes** | NASA HQ / NASA Ames Research Center | January 22-23, 2025 | Overflight data collection over active Costa Rican volcanoes (80nssc25ca052_-_statement_of_workdocx.md)
+### Atmospheric & Environmental Sensing
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — NASA Langley / NOAA, October 2026 — High-altitude platform for atmospheric/scientific measurements via MHP sensor system. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
 
-### General UAS Services & Capabilities Demonstration
-- **Black Swift Technologies Cover Letter – NOAA RFQ 371305M226Q0069** | NOAA | September 25, 2026 | RFQ transmittal letter (black_swift_technologies_cover_letterpdf.md)
+### Maritime / Shipboard Operations
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — NOAA, October 2026 — Maritime uncrewed systems operations center for ocean/coastal monitoring. (questions.md)
+
+### Aircraft Development & Testing
+- **Week Six Summary - Mustang Project Effort 1** — ByLight, November 2025 — Mustang 2 aircraft platform development and testing. (2025-11-14_week_six_summary.md)
 
 ---
 
 ## By Document Type
 
-### Statements of Work (SOW)
-- **S0 UAS for Clear Air Testing** | NOAA | January 29, 2025 | Tropical cyclone meteorological/oceanographic data collection (statement_of_work.md)
-- **Data Collection over Costa Rica Volcanoes** | NASA HQ / NASA Ames Research Center | January 22-23, 2025 | Volcano monitoring overflight operations (80nssc25ca052_-_statement_of_workdocx.md)
+### Solution Briefs / Capability Proposals
+- **DIU Low Cost ISR Solution Brief — KONDOR** — October 2026 — Presentation-format proposal for KONDOR platform (Fly Off #2). (diu_lc-isr_solution_brief.md)
+- **Copy of DIU Low Cost ISR Solution Brief: KONDOR** — October 2026 — Revised/duplicate KONDOR brief. (copy_of_diu_lc-isr_solution_brief.md)
+- **BST LC-ISR Sub** — October 2026 — Generic LC-ISR capability brief. (bst_lc-isr_sub.md)
 
-### SBIR Reports & Technical Documentation
-- **Expendable Sonobuoy-Launched Unmanned Aerial Vehicle for ASW Cued Search, Detection, Tracking, and Classification** | U.S. Navy / NAVAIR | March 23 – September 28, 2026 | SBIR Phase I Option Period Final Report (n6833525c0492clin0007optionfinalreport.md)
+### Oral Proposal Presentations
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — DARPA, January 2025 — Oral proposal presentation for DARPA Albatross program. (20250117_bae_systems_waander_albatross_oral_proposal.md)
 
-### RFQ Responses & Proposal Documentation
-- **NOAA RFQ #1305M226Q0069 – Demonstrated Prior Experience (Factor 1)** | NOAA | September 9, 2026 | Prior experience form for UAS services RFQ (factor_1-blackswifttechnologies-rfq1305m226q0069.md)
-- **NOAA UAS Services RFQ Cover Letter** | NOAA | September 24, 2026 | Transmittal letter for RFQ response (cover_letter.md)
-- **Black Swift Technologies Cover Letter – NOAA RFQ 371305M226Q0069** | NOAA | September 25, 2026 | Transmittal letter for RFQ response (black_swift_technologies_cover_letterpdf.md)
+### Internal Planning / Decision Memos
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — NASA Langley / NOAA, October 2026 — Internal BST planning document for S0/MHP wind tunnel testing. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
 
-### Standard Operating Procedures (SOP) / Internal Process Guides
-- **Submission Process: Navy SBIR Magnetometer** | U.S. Navy | July 23, 2025 (created); January 8, 2026 (modified) | SOP for Navy SBIR Phase I contract management (submission_process_550-1_navy_sbir_magnetometer.md)
+### Status Reports / Weekly Summaries
+- **Week Six Summary - Mustang Project Effort 1** — ByLight, November 2025 — Weekly project status report on Mustang 2 development. (2025-11-14_week_six_summary.md)
+
+### Q&A / Response Preparation
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — NOAA, October 2026 — Internal Q&A document for NOAA proposal preparation. (questions.md)
 
 ---
 
-## Document Statistics
-- **Total Documents Cataloged:** 7 unique documents
-- **Date Range:** January 22, 2025 – January 8, 2026
-- **Primary Clients:** NOAA (3 documents), U.S. Navy (2 documents), NASA (1 document)
-- **Primary Products Referenced:** S0 UAS (3 documents), S2 UAS (2 documents)
+## By Date
+
+### January 2025
+- **Wind-powered Autonomous Albatross-like Navigation Developed for Endurance and Range (WAANDER)** — January 16, 2025 — DARPA Albatross oral proposal. (20250117_bae_systems_waander_albatross_oral_proposal.md)
+
+### October 2026
+- **DIU Low Cost ISR Solution Brief — KONDOR** — October 9-14, 2026 — DIU LC-ISR Fly Off #2 proposal. (diu_lc-isr_solution_brief.md)
+- **Copy of DIU Low Cost ISR Solution Brief: KONDOR** — October 2026 — Revised KONDOR brief. (copy_of_diu_lc-isr_solution_brief.md)
+- **BST LC-ISR Sub** — October 12-13, 2026 — LC-ISR capability brief. (bst_lc-isr_sub.md)
+- **NASA 777 Integration: ERAU Wind Tunnel Test Planning** — October 13, 2026 — Internal S0/MHP planning. (nasa_777_erau_wind_tunnel_test_planning_bst_internal.md)
+- **NOAA UxS Ops Center - Chidong LOI: Questions** — October 7-12, 2026 — NOAA proposal Q&A prep. (questions.md)
+
+### November 2025
+- **Week Six Summary - Mustang Project Effort 1** — November 14, 2025 — Mustang 2 aircraft development status. (2025-11-14_week_six_summary.md)
+
+---
+
+## Key Personnel Index
+
+- **Jack Elston** (CEO, Co-Founder, SHCS Lead) — KONDOR briefs, WAANDER, NASA 777, NOAA UxS, Albatross
+- **Maciej Stachura** (CTO, Co-Founder, I&T Lead) — KONDOR, WAANDER, NASA 777, Week Six Mustang, LC-ISR Sub
+- **Beck Cotter** — NOAA UxS Ops Center questions
+- **Dr. Frank Stolle** (BAE) — WAANDER
+- **Joe Cione** — NASA 777 planning

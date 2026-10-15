@@ -7,20 +7,20 @@ This channel tracks the development and flight testing of the **By Light Mustang
 **Key Participants:**
 - Maciej (project lead, flight operations, task oversight, weight/design decisions, performance analysis)
 - Ethan Domagala (design, CAD optimization, measurements, avionics integration, ByLight liaison, flight testing)
-- Dan Prendergast (flight test coordination)
+- Dan Prendergast (flight test coordination, logistics)
 - Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
 - Bryan Sparling (ByLight pilot/contact, invoice/payment coordination)
-- Beck Cotter (program management, SOW coordination)
+- Beck Cotter (program management, SOW coordination, finance access)
 - Dan H., Terry Tate, Spencer Hoehl (contractors/specialists, vehicle support)
 - Alex Lomis (components/inventory, battery design, manufacturing analysis)
 - Joshua Fromm (design input/materials)
 - Mel (ByLight decision-maker)
-- Meredith Needham (invoicing/accounting)
+- Meredith Needham (invoicing/accounting, logistics coordination)
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
 - Kate (team member with vehicle access)
 
-**Activity Level:** High, covering October 2025 through September 2026. Most recent activity (September 21-22, 2026) shows project in critical phase with unresolved fuselage performance issues, team attempting to close out SOW and wrap up deliverables.
+**Activity Level:** High, spanning October 2025 through October 2026. Most recent activity (October 13, 2026) shows project in final assembly and delivery phase with battery shipments being coordinated.
 
 ## Key Decisions
 
@@ -103,4 +103,4 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - ByLight carbon fiber fuselage manufacturing indicated as complete with delivery expected Friday via FedEx
 
 **September 11, 2026 – CRITICAL: Fuselage Manufacturing Failure & Performance Issues**
--
+- ByLight-manufactured carbon fiber

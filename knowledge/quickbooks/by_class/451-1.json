@@ -4,14 +4,14 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-10-05",
+    "end": "2026-10-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 297.84,
+    "expenses": 251.77,
     "by_category": {
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84
+      "DIRECT COSTS:DC-Direct Material Purchases": 251.77
     }
   },
   "invoices": [],
@@ -19,19 +19,24 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-09-04",
-      "doc_number": "",
-      "total": 297.84,
-      "attributed": 297.84,
+      "date": "2026-10-08",
+      "doc_number": "EIZUUHGXL",
+      "total": 251.77,
+      "attributed": 251.77,
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "memo": "",
       "lines": [
         {
-          "amount": 297.84,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
-          "description": "Import Duty payment for PCBWay order YW1790471"
+          "amount": 220.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Dronetag DRI (Variant: Built-in Antenna) HTSUS: 8517.69.0000 Origin: CZ"
+        },
+        {
+          "amount": 31.77,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Shipping Costs"
         }
       ]
     }

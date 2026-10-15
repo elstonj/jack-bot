@@ -4,7 +4,7 @@
 - **Client:** NASA (Richard Kolyer, NASA Ames Research Center)
 - **Budget:** $80,972 total; $55,976 to BST + $25,000 in-country contractor
 - **Timeline:** Proposal due 1/27/25 → Field operations May 11-22, 2025 → Final deliverables due 9/30/25
-- **Status:** **COMPLETE** (all deliverables submitted; project archived Oct 21, 2024)
+- **Status:** **COMPLETE & ARCHIVED** (all deliverables submitted; project archived Oct 21, 2024)
 - **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
 - **Primary Contact:** Richard Kolyer, r.kolyer@nasa.gov, (650) 604-5503
 
@@ -53,10 +53,20 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
-- **Budget note:** Custom field shows $80,972 as "Total Funding to Black Swift," but project notes clarify actual BST allocation is $55,976 with $25,000 allocated to in-country contractor
+- **Budget note:** Total submitted $80,972; BST allocation $55,976 with $25,000 allocated to in-country contractor
 - **Billing contact:** PIEE
 - **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
 
+## Active Team Qualification Audit (Oct 2026)
+**Spencer Hoehl initiated team-wide callout (10/1-10/2/26)** requesting documentation of:
+- FAA pilot qualifications (Part 107, Part 61, Part 141, etc.)
+- Security clearances
+- NOAA Hurricane training
+- COA training (and authorization scope)
+- Any other relevant qualifications for BST job functions
+
+*Status: Audit in progress — responses being collected by Spencer Hoehl. Likely related to NASA hurricane ET follow-on opportunity or internal compliance review.*
+
 ---
 
-**Project Status:** Complete and archived. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference only. NASA has expressed interest in follow-on hurricane ET work via recent RFI (Alex Lomis, 4/17-4/20/26) — recommend BD team review for response opportunity.
+**Project Status:** Complete and archived as of Oct 21, 2024. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference only.

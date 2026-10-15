@@ -1,41 +1,46 @@
 {
   "project_code": "001-4",
   "qbo_class_names": [
-    "(001-4) IRAD - S0 VTOL"
+    "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2026-09-15",
-    "end": "2026-09-22"
+    "start": "2026-10-05",
+    "end": "2026-10-12"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 8.62,
+    "expenses": 736.0,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 8.62
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 736.0
     }
   },
   "invoices": [],
-  "bills": [],
-  "purchases": [
+  "bills": [
     {
-      "type": "Purchase",
-      "date": "2026-09-21",
-      "doc_number": "454155490",
-      "total": 8.62,
-      "attributed": 8.62,
-      "vendor": "",
+      "type": "Bill",
+      "date": "2026-10-05",
+      "doc_number": "",
+      "total": 736.0,
+      "attributed": 736.0,
+      "vendor": "Summit Assembly, LLC",
       "customer": "",
-      "balance": null,
-      "memo": "Items were no longer needed. Verbal request to return items by J. Fromm.",
+      "balance": 0.0,
+      "memo": "",
       "lines": [
         {
-          "amount": 8.62,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Return of purchase from Horizon Hobby (order no. HHUSOR253385971)"
+          "amount": 436.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "PCB Assembly x 6"
+        },
+        {
+          "amount": 300.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Stencil and Set up"
         }
       ]
     }
   ],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

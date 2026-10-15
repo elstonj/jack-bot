@@ -1,47 +1,76 @@
 {
   "project_code": "_unclassified",
   "qbo_class_names": [
-    "SOCOM:[600-01] SOCOM Pope ii"
+    ""
   ],
   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-02"
+    "start": "2026-10-12",
+    "end": "2026-10-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2778.07,
+    "expenses": 590.21,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 2699.0,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 79.07
+      "FACILITIES:FA-Shop Supplies": 590.21
     }
   },
   "invoices": [],
-  "bills": [
+  "bills": [],
+  "purchases": [
     {
-      "type": "Bill",
-      "date": "2026-10-01",
-      "doc_number": "S05831",
-      "total": 2778.07,
-      "attributed": 2778.07,
-      "vendor": "Computer Aided Solutions",
+      "type": "Purchase",
+      "date": "2026-10-12",
+      "doc_number": "1012JELSTON",
+      "total": 590.21,
+      "attributed": 590.21,
+      "vendor": "",
       "customer": "",
-      "balance": 0.0,
-      "memo": "Quote # S05831",
+      "balance": null,
+      "memo": "",
       "lines": [
         {
-          "amount": 2699.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "[S3-E100D40] S3 Shock & Vibration Data Logger - 100g Enhanced\n\u00b1100g Piezoelectric, 5-1kHz, 8GB/250mAh, Polycarbonate"
+          "amount": 68.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Plastic Bin, 4-1/8\" Wide, 3\" High, 7-3/8\" Deep, Blue"
         },
         {
-          "amount": 79.07,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "amount": 68.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Plastic Bin, 4-1/8\" Wide, 3\" High, 7-3/8\" Deep, Red"
+        },
+        {
+          "amount": 68.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Plastic Bin, 4-1/8\" Wide, 3\" High, 7-3/8\" Deep, Yellow"
+        },
+        {
+          "amount": 78.72,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Plastic Bin, 4-1/8\" Wide, 3\" High, 5-3/8\" Deep, Black"
+        },
+        {
+          "amount": 71.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Label Holder for Akro-Mils Bin Boxes, 13/16\" High x 3\" Wide, packs of 25"
+        },
+        {
+          "amount": 97.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Divider for 4\" High x 8-3/8\" Wide Nestable Plastic Bin, packs of 1"
+        },
+        {
+          "amount": 92.38,
+          "account": "FACILITIES:FA-Shop Supplies",
           "description": "Shipping"
+        },
+        {
+          "amount": 45.19,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tax"
         }
       ]
     }
   ],
-  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

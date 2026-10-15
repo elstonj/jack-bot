@@ -12,9 +12,9 @@
       "quantity": 4
     }
   ],
-  "payment_state": "invoice_sent",
-  "build_state": "in_qc",
-  "ship_state": "none",
+  "payment_state": "paid",
+  "build_state": "packaged",
+  "ship_state": "in_transit",
   "estimate_date": null,
   "invoice_date": "2026-01-08",
   "invoice_amount": 2462.5,
@@ -48,21 +48,27 @@
       "received": true,
       "vendor": "Black Swift Technologies",
       "order_date": null
+    },
+    {
+      "name": "TriSonica Sphere (sensor)",
+      "ordered": true,
+      "received": true,
+      "vendor": "Black Swift Technologies",
+      "order_date": null
     }
   ],
-  "tracking_number": null,
-  "carrier": null,
-  "shipped_date": null,
+  "tracking_number": "1ZY1791K0320443394, 1ZY1791K0303482133",
+  "carrier": "UPS",
+  "shipped_date": "2026-09-14",
   "owners": {
     "interface": "Beck",
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Kept due to QBO Invoice #1730 (paid 2026-05-21, $2,462.50) for S0 VTOL unit. Project registry indicates 2 VTOLs owed (May 2025 delivery) with training in June 2025. Recent QC flight testing activity (Aug-Sep 2026) shows aircraft in active QC phase. Legal disclosure mentions two S0 VTOL units ordered and paid for in full but delivery delayed; BST intends settlement. Recent Slack activity confirms QC testing underway.",
+  "notes": "Kept due to QBO Invoice #1730 (paid 2026-05-21, $2,462.50) for S0 VTOL unit. Build completed QC flights in Aug-Sep 2026 (flight testing confirmed good). Units packaged and picked up by UPS 2026-09-14 with tracking labels issued (Sphere Box 1ZY1791K0320443394, UA Box 1ZY1791K0303482133). Customer ordered return of units for BST troubleshooting of sensor/configuration issues; RMA issued Sep 10, 2026.",
   "missing_fields": [
-    "receive_by",
-    "build_state clarity"
+    "receive_by"
   ],
-  "last_evidence_date": "2026-09-28",
-  "last_contact_date": null
+  "last_evidence_date": "2026-09-14",
+  "last_contact_date": "2026-09-14"
 }

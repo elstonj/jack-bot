@@ -4,10 +4,10 @@
 - **Client:** Overhead
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 22.6 hours (cumulative)
+- **Total hours tracked:** 27.4 hours (cumulative)
 
 ## Team Allocation
-- **Jack Elston:** 15.8 hours
+- **Jack Elston:** 20.6 hours
 - **Ethan Domagala:** 4.8 hours
 - **Dan:** 2.0 hours
 
@@ -39,13 +39,17 @@
 - Financials Update - Accordion Based (1.0h, Jack Elston)
 - Dan - Unspecified work (2.0h, Dan)
 - Black Swift Technologies Interview: Wyatt Bishop ↔ Jack Elston (0.8h, Jack Elston)
-- **Andrew Teta Panel Interview - Black Swift Technologies (1.0h, Jack Elston) — *latest***
-- **Grey Vaughan Panel Interview - Black Swift Technologies (1.0h, Jack Elston) — *latest***
+- Andrew Teta Panel Interview - Black Swift Technologies (1.0h, Jack Elston)
+- Grey Vaughan Panel Interview - Black Swift Technologies (1.0h, Jack Elston)
+- Black Swift Technologies Interview: Andy Abols ↔ Jack Elston (1.0h, Jack Elston)
+- Career Chats with Forever Buffs at CU Boulder (2.0h, Jack Elston)
+- **Black Swift Technologies Interview: Matt Carney ↔ Jack Elston (1.0h, Jack Elston) — *latest***
+- **Interview with Robert Powell (0.8h, Jack Elston) — *latest***
 
 ## Insights
-- **Recruiting pipeline accelerating:** Two new panel interview candidates (Andrew Teta, Grey Vaughan) added in latest batch. Interview cycle now includes 5+ active candidates across multiple roles (TPM, Manufacturing/Production Engineering, and unspecified).
-- **Jack Elston sustaining high engagement:** Continues leading candidate evaluation with consistent interview scheduling; now conducting panel interviews.
-- **Panel interview format emerging:** Shift from individual interviews to panel format observed with Teta and Vaughan candidates.
-- **Cross-functional interview process continues:** Manufacturing/Production Engineering candidate evaluated collaboratively (Jack + Maciej model established).
-- **Ethan Domagala and Dan maintaining parallel workstreams:** Culture and operations work steady; Dan's contributions remain unspecified.
-- **No billable hours:** Remains internal overhead.
+- **Recruiting momentum sustained:** Eight candidates now interviewed across multiple roles. Latest additions (Matt Carney, Robert Powell) continue BST's active candidate evaluation pipeline.
+- **Jack Elston driving recruiting effort:** Now 20.6 hours tracked (76% of total project time). Consistent primary lead on all candidate interviews and talent pipeline development.
+- **Talent sourcing diversifying:** Mix of one-on-one interviews and panel formats; university outreach (CU Boulder) established as parallel channel.
+- **Cross-functional collaboration pattern:** Manufacturing/Production Engineering roles involve collaborative interview model (Jack + Maciej).
+- **Ethan Domagala and Dan maintaining steady parallel workstreams:** Culture assessment and operations work steady; Dan's contributions remain unspecified.
+- **No billable hours:** Remains internal overhead/HR operations.

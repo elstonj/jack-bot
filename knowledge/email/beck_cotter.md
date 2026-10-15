@@ -1,89 +1,102 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 502 emails (493 initial + 9 new)
-- **Date range:** 16 Sep – 2 Oct 2026
-- **Estimated volume:** Sustained very high activity; maintains intensive operational pace with critical focus on Navy contract administration, government funding opportunities, and strategic partnership coordination. New data (Oct 1–2) shows continued peak intensity with Navy contract escalations (TCE 26.2 after-action review), regulatory compliance meeting completion, and ByLight M2 HALO Flight technical coordination persisting as critical operational priorities.
+- **Total messages scanned:** 643 emails (607 initial + 36 new)
+- **Date range:** 13–14 Oct 2026 (new data); full span 16 Sep – 14 Oct 2026
+- **Estimated volume:** Sustained high operational tempo. New data (Oct 13–14) shows continued parallel management of Navy contracts, facility/HR administration, government RFP intelligence tracking, academic partnerships, and emerging industry partnerships. Pattern consistent with strategic operations coordinator role managing multiple concurrent workstreams.
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
 
-**Strategic Leadership Hub**
-- **Jack Elston** – Primary strategic coordinator; S0-AD, Pioneer Array, SOCOM, UK Raven visit, UMES Advisory Council, Krateosky Go to Market, Stanford S2 order coordination; Flight Regulations Review (Pendleton Breakdown) meeting attendee (Oct 1); TCE Fallout Navy coordination thread; **NEW: Sends TWO identical "BST After Action Review and Corrective Procedure: TCE 26.2" emails to Navy stakeholders (Oct 1, 4:54–4:57 PM MDT, CRITICAL); indicates post-meeting escalation/corrective action communication to NAWCAD leadership**
+**Strategic Leadership & Operations Hub**
+- **Jack Elston** – **CONTINUED HIGH-FREQUENCY ACTIVITY (Oct 13–14):**
+  - Oct 13: Forwards SBIR Experimentation Learning Lab opportunity; forwards ONR annual report
+  - Oct 13: Forwards Vantor CU Aerospace Visit 10/20 (with Maciej Stachura, Cory Dixon)
+  - Oct 13: Replies to "Introduction and meeting" thread (University of Colorado/Brian Argrow coordination)
+  - **Pattern: Acting as primary intelligence/opportunity aggregator, routing RFP/program updates and partnership coordination to Beck**
 
-- **Daniel Prendergast** – Strategic/program coordination; S0-AD Development, UK Raven visit, DeadWater GNSS-denied capability, UMES Aviation Sciences, SOCOM engagement; NLR (formerly NREL) E2 partnership coordination with Matthew Neber (Sep 30); primary internal communication hub for government partnerships
+- **Meredith Needham** – **NEW PRIORITY PATTERN (Oct 14):**
+  - Oct 14: 10:31 AM – Sends "Nate Aetna info (as of this morning)" [IMPORTANT]
+  - Oct 14: 10:17 AM – Sends "Nate's Aetna info" [IMPORTANT]
+  - **Indicates active HR/benefits administration coordination; likely employee onboarding or status change (possibly related to Nate Straus — see below)**
 
-- **Maciej Stachura** – Technical/product coordination; UK Raven visit, ByLight M2 HALO Flight, S0-99 quote, Krateosky Go to Market, N251-016 Phase II; Flight Regulations Review (Pendleton Breakdown) meeting attendee (Oct 1); TCE Fallout Navy thread recipient; **NEW: Sends ByLight M2 HALO Flight technical update to Beck (Oct 1, 11:41 AM MDT, IMPORTANT); receives response from Ethan Domagala (Oct 1, 12:26 PM MDT); active propulsion/payload integration coordination**
+- **Joshua Fromm** – **NEW COORDINATION (Oct 14, Oct 13):**
+  - Oct 14: Receives facility pickup request (Eco-Cycle Hauling cardboard disposal)
+  - Oct 14: Copied on 2840 Wilderness Pl Suite C facility coordination (multiple exchanges with Amy Smith, W.W. Reynolds)
+  - Oct 13: Slack message from Joshua Fromm (content not visible in headers)
+  - **Role: Program/operational coordination; facility management liaison**
 
-- **Ethan Domagala** – Navy team addition, ByLight M2 HALO Flight technical coordination; Flight Regulations Review (Pendleton Breakdown) meeting attendee (Oct 1); TCE Fallout Navy thread recipient; **NEW: Replies to Maciej Stachura's ByLight M2 HALO Flight message (Oct 1, 12:26 PM MDT, IMPORTANT); indicates continued technical execution on critical payload integration project**
+- **Cory Dixon** – Oct 13: Included in Vantor CU Aerospace Visit 10/20 forwarding (program coordination)
 
-- **Alex Lomis** – N251-016 Phase II, Black Swift - Ultra Meeting coordination; Flight Regulations Review (Pendleton Breakdown) meeting attendee (Oct 1); TCE Fallout Navy thread recipient
+- **Alex Lomis** – Oct 13: Forwards "801 Dev Kit" documentation to Beck
 
-- **Joshua Fromm** – SOCOM Project Internal Kickoff, Flight Regulations Review attendee
-
-- **Cory Dixon** – DevX Autonomy submission, SOCOM kickoff, Krateosky liaison; Flight Regulations Review (Pendleton Breakdown) meeting attendee (Oct 1); TCE Fallout Navy thread recipient
-
-- **Spencer Hoehl** – SOW Popo Volcano, Flight Regulations Review organizer; sent multiple updated meeting invitations (Sep 30)
-
-- **Meredith Needham** – Contract/administrative coordination, internship inquiries
-
-- **Ben Busby** – Colorado Technology Student Association outreach
-
-- **Sam Hild** – Colorado Technology Student Association outreach
+- **Maciej Stachura** – Oct 13: Participates in Vantor CU Aerospace Visit 10/20 thread
 
 ### External – Government (Active/Critical Priority)
 
-**U.S. Navy (NAWCAD, CNR) — CRITICAL OPERATIONAL FOCUS**
+**U.S. Navy (NAWCAD) — Contract Administration Ongoing**
+- **"Eisele, Mary E CIV USN (USA)" <mary.e.eisele.civ@us.navy.mil>** – **Oct 13: RE: [Non-DoD Source] Black Swift N2-9618 [IMPORTANT]** – Indicates continued N2-9618 contract administration cycle
 
-- **Cossuth, Joshua H CIV USN CNR ARLINGTON VA (USA)** – Phase II contract contact; rapid same-day exchanges
+**Government RFP Intelligence (Automated Tracking)**
+- **GovSignals <notifications@govsignals.fedstart.com>** – **NEW ACTIVE TRACKING (Oct 13):**
+  - Oct 13: "SOF RACER — New solicitation published: Sensor Fusion Platforms Prototype" [IMPORTANT, CATEGORY_UPDATES]
+  - Oct 13: "SOF RACER — Amendment published: Sensor Fusion Platforms Prototype" [IMPORTANT, CATEGORY_UPDATES]
+  - **Pattern: Active monitoring of Special Operations Forces Rapid Equipped Augmented Command (SOF RACER) program; appears to be near-real-time RFP alert subscription**
 
-- **Ruiz-Reyes, Angel R CIV USN NAWCAD (USA)** – Option Period wrap-up coordination; TCE Fallout thread recipient; **NEW: Receives Jack Elston's post-meeting "BST After Action Review and Corrective Procedure: TCE 26.2" escalation (Oct 1, 4:54–4:57 PM MDT, CRITICAL); indicates senior NAWCAD stakeholder involvement in contract correction cycle**
+**U.S. Air Force / AFSOC — Strategic Partnership (Ongoing)**
+- **Ed Kase <ed.kase@ekaseconsulting.com>** – **Oct 13: RE: USAF Looks for Long-Range Communications Drones Deployable from AFSOC Fixed Wing Platforms [IMPORTANT]** – Follow-up activity on USAF communications drone opportunity (forwarded to Jack Elston & Maciej Stachura); Beck replies same day
 
-- **Brescia, Anthony D CIV USN NAWCAD (USA)** – Navy stakeholder coordination; initiates "TCE Fallout" multi-recipient thread (Sep 30); **NEW: Receives Jack Elston's post-meeting corrective action communication (Oct 1, 4:54–4:57 PM MDT, CRITICAL); primary Navy technical/contracting liaison for escalations**
+### External – Academic & Research Partnerships
 
-- **Pyrah, Aaron D CIV USN NAWCAD (USA)** – Navy technical/program liaison; TCE Fallout thread recipient; **NEW: Receives Jack Elston's post-meeting corrective action communication (Oct 1, 4:54–4:57 PM MDT, CRITICAL); continuing escalation coordination**
+**University of Colorado (INSTAAR / Aerospace)**
+- **Brian M Argrow <Brian.Argrow@colorado.edu>** – **Oct 14: Re: Introduction and meeting [IMPORTANT]** – Active coordination thread
+- **April Abernethy <April.Abernethy@colorado.edu>** – **Oct 13–14: Re: Introduction and meeting [IMPORTANT]**
+  - Oct 13: Beck sends response to Abernethy
+  - Oct 13: Jack Elston provides input on thread
+  - Oct 13: Abernethy replies to Jack Elston & Brian Argrow
+  - **Note: Oct 13 threads suggest coordination around academic/industry partnership meeting; Jack Elston involvement indicates strategic-level engagement**
 
-- **Eisele, Mary E CIV USN (USA)** – N2-9618 Navy contract coordination
+**University of Houston**
+- **"Flynn, James H" <jhflynn@central.uh.edu>** – **Oct 13: Re: Follow-up: Black Swift S2 quote request [SENT by Beck]** – Product sales inquiry continuation (S2 system quote)
+- **University of Houston System (via PaymentWorks) <invitations@paymentworks.com>** – **Oct 13: University of Houston System - New Vendor Registration [CATEGORY_UPDATES]** – Vendor registration/procurement system notification (potential follow-up to S2 quote)
 
-**U.S. SOCOM (Special Operations Command) — EMERGING HIGH-PRIORITY**
+### External – Industry Partners & Consultants
 
-- **Terry, Brandon M SSGT USAF USSOCOM AFSOC-GSU (USA)** – Active contract negotiation/approval cycle with compressed timeline; [Non-DoD Source] designation
+**Vantor Corporation**
+- **"Shah, Naresh" <naresh.shah@vantor.com>** – **Oct 14: Re: Introduction and meeting [IMPORTANT]** – Industry partnership coordination
+- **Maciej Stachura's thread (Oct 13):** References "Vantor CU Aerospace Visit 10/20" – scheduled site visit/partnership meeting Oct 20
 
-**NOAA Federal (Environmental/Research Partnership)**
+**WeatherStream** – (from prior data, not in new messages but context remains relevant)
+- Michael Hurowitz, ERYAN Dai participate in NOAA white paper work
 
-- **Jana Kolb - NOAA Federal** – Factor 1 Black Swift Technologies coordination
+**EKase Consulting**
+- **Ed Kase** – Continues as USAF opportunity broker/intelligence source
 
-- **austin.salmon@noaa** – NOAA partnership coordination
+### External – Facility/Vendor Management (Administrative Coordination)
 
-**National Laboratories / Government Research Centers**
+**W.W. Reynolds (Building Management/Security)**
+- **Amy Smith <amy@wwreynolds.com>** – **Oct 14: HEAVY ACTIVITY (5+ exchanges)**
+  - Oct 14: 15:27 UTC, 15:17 UTC, 15:57 UTC – Multiple exchanges on "2840 Wilderness Pl Suite C"
+  - Oct 14: 09:56 AM, 09:15 AM MDT – Beck initiates facility coordination
+  - **Recipients include: Joshua Fromm, Jack Elston**
+  - **Pattern: Building access, maintenance, security, or facility expansion/modification coordination**
 
-- **Neber, Matthew (nlr.gov)** – NLR (formerly NREL) E2 partnership discussion; Daniel Prendergast replies on Beck's behalf (Sep 30); environmental/energy research partnership opportunity
+**Eco-Cycle Hauling** – Oct 13: Beck requests cardboard pickup/disposal (waste management)
 
-### External – Automated/Promotional (Low Priority)
+### External – HR/Benefits Administration (NEW PATTERN)
 
-- **Asana** – Project management task notifications
-- **Toggl Track** – Time tracking notifications
-- **Slack** – Internal messaging platform notifications
-- **Gemini/Google Notes** – Meeting notes automation; **NEW: Sends automated notes from "Flight Regulations Review (Pendleton Breakdown)" meeting (Oct 1, 5:53 PM UTC); confirms meeting completion and documentation**
-- **Adobe Acrobat** – Promotional
-- **Ainstein (Pedro Lopez)** – Aero industry newsletter
-- **UAS Magazine** – Industry news distribution
-- **XPRIZE** – Wildfire competition updates
-- **DOE Office of Technology Commercialization** – Government opportunity alerts
-- **FireWERX** – Wildland firefighter tracking technology call for applications
-- **MundoGEO** – GIS/geospatial publication outreach
-- **NYSTEC Events** – Conference/event registration
-- **Colorado FAMLI Division** – Employment regulatory notifications
-- **Elevations Credit Union** – Corporate benefits feedback request
-- **Dronitaly** – **NEW (Oct 2, 7:34 AM UTC, CATEGORY_PROMOTIONS)**; Italian drone industry event/research center announcement (ENEA Brasimone research center); indicates international UAS/drone technology monitoring
-- **Eventbrite** – **NEW (Oct 2, 3:28 AM UTC, CATEGORY_PROMOTIONS)**; general events discovery platform
-- **Meetup** – **NEW (Oct 2, 2:31 AM UTC, CATEGORY_UPDATES)**; Terms of Service/Privacy Policy notification
-- **Joshua Elliott, ARC Director (Substack)** – **NEW (Oct 1, 9:31 PM UTC, CATEGORY_UPDATES)**; "The path to resolving one of the largest uncertainties in modern climate science"; indicates climate science research interest/subscription
+**Nate Straus <nathanieljohnstraus@gmail.com>** – **NEW (Oct 14, IMPORTANT):**
+- Oct 14: 10:31 AM – "Fwd: Update on COBRA from Rippling" [IMPORTANT]
+- Oct 14: 10:05 AM – "Insurance fun" [IMPORTANT]
+- **Context: Meredith Needham sends Nate Aetna information multiple times (10:31, 10:17 AM)**
+- **Interpretation: Employee benefits/HR status coordination (possibly offboarding or health insurance transition); Rippling is HR/payroll platform**
 
-## Topic Patterns
+**Slack Notification**
+- **Oct 14: kajol.kataria mentioned you in #cs-ext-black-swift-tech-deel** – Deel platform mention (payroll/contractor management); Kajol Kataria (HR/Finance) involved
 
-**Navy/Government Contracts & Compliance (Dominant/Critical Theme)**
-- Phase II contract administration (Joshua H Cossuth, CNR)
-- Option Period wrap-up transitions (Angel R. Ruiz-Reyes, [Non-DoD Source] designation)
-- **TCE 26.2 After Action Review and Corrective Procedure** — **NEW PRIMARY FOCUS (Oct 1, CRITICAL)**; Jack Elston
+**Rippling, Deel, Aetna** – HR/benefits administration ecosystem
+
+### External – Newsletter/Automated Updates (Low Signal)
+
+- **Earth Observatory <kevin.a.ward@nasa.gov>** – Oct 13: "What's New at the Earth Observatory October 13, 2026" [CATEGORY_

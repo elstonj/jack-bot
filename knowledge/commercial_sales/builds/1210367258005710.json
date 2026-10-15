@@ -14,7 +14,7 @@
   ],
   "payment_state": "estimate_sent",
   "build_state": "packaged",
-  "ship_state": "in_transit",
+  "ship_state": "delivered",
   "estimate_date": null,
   "invoice_date": null,
   "invoice_amount": null,
@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote sent for 2\u00d7 S2 aircraft ($65k estimated value). NASA shipment picked up 2026-09-22; parts shipped overnight 2026-09-29. Latest Slack (2026-10-01) confirms all NASA S2, spares, and sim equipment arrived at destination. Tracking TBA per 2026-09-29 Slack commitment. QBO invoice 1633 ($3,470, dated 2024-11-04, PAID) is on different project line '[211-1] NASA Ames MHP' \u2014 not this order.",
+  "notes": "2\u00d7 S2 aircraft ($65k estimated value) shipped overnight 2026-09-29. Slack confirmation 2026-10-01 confirms all NASA S2, spares, and sim equipment arrived at destination. Follow-up training and sim setup being arranged with Will Wade and Wes. QBO invoice 1633 ($3,470, dated 2024-11-04, PAID) is on different project line '[211-1] NASA Ames MHP' \u2014 not this order.",
   "missing_fields": [
     "receive_by",
     "ship_to",

@@ -9,6 +9,7 @@
 - **Risk signals**: 
   - **"2026 Hurricane" (NOAA)** — **UNASSIGNED, NO DUE DATE** — requires immediate clarification, assignment, and scheduling
   - **INSTAAR/CU operator training** (S3, 2 units) — status not updated; previously HIGH URGENCY with Aug 11-13 training dates
+  - **Facility issue**: Leaky roof in new shop (middle of facility, currently no equipment at risk) — not urgent but needs eventual repair
 
 ## Key Deliverables & Milestones
 - **CU IRISS**: S2 return and operator training flight scheduling (**COMPLETED May 13, 2026**) — aircraft returned to CU and training flight completed, enabling NSF MUSAS certification
@@ -39,6 +40,7 @@
   - Permission from OSMP rangers required for S2 and S0 demonstrations in Boulder area
   - Contact: Hunter Ray (hunterray@boulderrescue.org), last contact Nov 11, 2025
   - Next steps: No action needed
+- **FACILITY ALERT (October 14, 2026)**: Leaky roof identified in new shop — Joshua Fromm reported the issue. Located in middle of shop with no equipment currently at risk. **Not urgent but requires eventual maintenance scheduling.**
 - **ACTIVE/OPEN**: "2026 Hurricane" NOAA task — newly visible in current project view, unassigned and undated
 
 ## Notes & Context
@@ -55,4 +57,6 @@
 - Demonstration activities for various events and summits (ACM UAS Summit with STRIKE-PAD platform demo)
 - **NSF MUSAS website certification process**: Now unlocked following successful CU IRISS S2 return and training flight completion (May 13, 2026)
 - **Regulatory requirement**: OSMP (Open Space and Mountain Parks) ranger permission required for S2/S0 demonstrations in Boulder area
-- **ACTION NEEDED**: "2026 Hurricane" (NOAA) task remains unassigned with no due date — appears to be new customer opportunity or project requirement needing immediate clarification, scope definition, platform/quantity specification, and due date assignment
+- **ACTION NEEDED**: 
+  - "2026 Hurricane" (NOAA) task remains unassigned with no due date — appears to be new customer opportunity or project requirement needing immediate clarification, scope definition, platform/quantity specification, and due date assignment
+  - Roof leak in new shop needs maintenance coordination (not urgent; no equipment at risk per Joshua Fromm, Oct 14, 2026)

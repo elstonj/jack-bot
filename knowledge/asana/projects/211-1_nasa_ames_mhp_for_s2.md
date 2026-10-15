@@ -4,9 +4,9 @@
 - **Client**: Richard Kolyer, NASA Ames Research Center (r.kolyer@nasa.gov, 650-604-5503)
 - **Dollar value**: $3,470.00
 - **Timeline**: October 2024 – March 2025 (original due date: January 31, 2025; actual completion: March 27, 2025)
-- **Status**: ARCHIVED (completed March 27, 2025)
+- **Status**: **ARCHIVED** (completed March 27, 2025)
 - **Team members**: Josh Fromm, Nate Straus, Jack Elston, Meredith O'hara Needham, Ethan
-- **Risk signals**: None - project completed successfully with all deliverables delivered
+- **Risk signals**: None – project completed successfully with all deliverables delivered
 
 ## Key Deliverables & Milestones
 - MHP (Meteorological Hazard Platform) hardware assembly and installation
@@ -37,7 +37,9 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
 - **March 20–21, 2025**: Aircraft packed for shipment
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
-- **September 2026 (post-project)**: NASA shipment pickup coordination (Sept 18–23, 2026) — pallet dimensions confirmed 48×120 inches, 20 inches tall (Ethan, Sept 18 & 21); Meredith coordinated paperwork for pickup between 9:30am–4pm on Sept 22–23, 2026 with Ethan holding pickup documentation
+- **September 2026 (post-project)**: NASA shipment pickup coordination
+  - **Sept 18 & 21, 2026** (Ethan): Pallet dimensions confirmed 48×120 inches, 20 inches tall
+  - **Sept 22 & 23, 2026** (Meredith Needham): Aircraft picked up between 9:30am–4pm; Ethan held pickup documentation; conference room occupied 2–3pm for interview both days
 
 ## Notes & Context
 - **Scope expansion**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025

@@ -1,5 +1,6 @@
 # Sales — Shared Drive
 
-Small drive with 1 files.
+Small drive with 2 files.
 
-- S3_video_link_parts_list (modified 2026-09-30)
+- 2025-11-14 Week Six Summary (modified 2026-10-13)
+- UXF_PDR_Mass_BoM_Bryan.xlsx (modified 2026-10-13)

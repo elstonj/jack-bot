@@ -1,95 +1,105 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 2,865 emails (2,809 previous + 56 new from Oct 1–2, 2026)
-- **Date range:** June 15–October 2, 2026 (110 days)
-- **Approximate volume:** ~26 emails/day (stable baseline maintained)
-- **New activity (Oct 1–2):** 56 messages over 2 days; continued high-volume operational activity across Krateo Sky integration finalization, audit coordination (payroll reports & D&O insurance), Rippling account closure, Deel entity verification, facility management, and vendor quote coordination
+- **Total messages scanned:** 3,091 emails (3,013 previous + 78 new from Oct 13–14, 2026)
+- **Date range:** June 15–October 14, 2026 (122 days)
+- **Approximate volume:** ~25 emails/day (stable baseline maintained)
+- **New activity (Oct 13–14):** 78 messages over 2 days; **VACATION IN PROGRESS** — out-of-office auto-replies active on all incoming messages; continued high operational coverage, procurement acceleration, benefits administration (Aetna/401k), and facility management
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Oct 2)
+### Incoming (by frequency — updated through Oct 14)
 
-**Krateo Sky Strategic Integration (EXECUTIVE-LEVEL, ONGOING):**
-
-1. **Krateo Sky Leadership & Coordination** — **Sustained elevated activity Oct 1–2**
-   - **Sona Raziabeegum** (`sona@krateosky.com`) — **Audit & financial coordination** [IMPORTANT on all]
-     - Oct 1, 21:56: RE: Question about Black Swift D&O insurance [IMPORTANT] — **D&O insurance application routing through Krateo**
-     - Oct 1, 21:49: RE: Question about Black Swift D&O insurance [IMPORTANT]
-     - Oct 1, 22:33: Re: Question about Black Swift D&O insurance [IMPORTANT]
-     - **Pattern:** D&O insurance coordination now visible as cross-functional task; Sona driving due diligence items
-   - **Cory Dixon** (`cory.dixon@blackswifttech.com` / `cory@krateosky.com`) — **CEO-level integration oversight** [IMPORTANT on all recent]
-     - Oct 1, 21:55: Re: Black Swift D&O insurance, application for signature [IMPORTANT] — forwarding from Jack Elston; insurance application routing to Cory
-     - **Pattern:** D&O insurance application moving toward executive signature phase
+**VACATION STATUS — OUT OF OFFICE AUTO-REPLIES ACTIVE (Oct 13–14)**
+- All personal/external emails receiving auto-reply subject line: "Out of Office Re: [original subject]"
+- Pattern indicates Meredith is currently on vacation; Jack Elston confirmed as primary delegate
 
 ---
 
-**Audit & Financial Compliance (CRITICAL PATH — ESCALATED Oct 1–2):**
+**INTERNAL VACATION COVERAGE & OPERATIONS (CONTINUING)**
 
-2. **KPMG Audit Team** — **Cash to Accrual conversion + Payroll Reports** [IMPORTANT on all recent]
-   - **Courtney Lee** (`courtneylee@kpmg.com`) — Lead auditor [IMPORTANT on all recent]
-     - Oct 1, 23:32: RE: Cash to Accrual 6/30/2026 [UNREAD, IMPORTANT] — **accrual conversion documentation ongoing**
-     - Oct 1, 23:13: RE: Payroll Reports [UNREAD, IMPORTANT] — **payroll audit coordination escalated**
-     - Oct 1, 22:46: Payroll Reports [IMPORTANT] — initial request
-     - Meredith reciprocal responses Oct 1, 16:55 & 16:38
-     - **Pattern:** Payroll reports now formally requested by KPMG; accrual conversion proceeding; audit tempo increasing into Q4
+1. **Jack Elston** (`elstonj@blackswifttech.com`) — **Primary Delegate** [ACTIVE COVERAGE]
+   - Oct 14, 09:38: Sales / Marketing? [UNREAD, IMPORTANT] — **Jack fielding external inquiry**
+   - Oct 14, 09:37: Re: Video Project [UNREAD, IMPORTANT] — **delegated project management**
+   - **Pattern:** Jack actively handling external correspondence and project management during Meredith's vacation
 
-3. **Mark Kightlinger** (`Mark@kcotax.com`) — **Tax advisory, 401(k) plan coordination** [IMPORTANT on all recent]
-   - Oct 1, 11:35: Meredith responds Re: 401k and Corrected W-2s for Jack/Maciej (2025) [SENT] — **corrected W-2s finalized; 2025 executive tax remediation complete**
-   - **Pattern:** Tax advisor coordinating corrected filings; no new escalations Oct 1–2
+2. **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Secondary Coverage** [ACTIVE]
+   - Oct 14, 10:36: Aetna customer service question [UNREAD, IMPORTANT] — **escalated insurance coordination**
+   - Oct 14, 10:33: Fwd: Update on COBRA from Rippling [SENT] — **Meredith sent forwarded info pre-vacation**
+   - Oct 14, 10:17: Nate's Aetna info [SENT] — **benefits coordination**
+   - Oct 14, 10:15: Nate Aetna info (as of this morning) [SENT] — **time-stamped morning brief**
+   - **Pattern:** Beck handling employee benefits escalations; Meredith providing pre-vacation information packets
 
-4. **Grant Thornton PBC Coordination** — **Visible through Bob Gold bridge (from prior period)**
-   - **Pattern:** Dual audit engagement continues (KPMG cash-to-accrual; Grant Thornton PBC); payroll reports now formal KPMG request
-
----
-
-**Payroll & HR System Migration (CRITICAL PATH — Rippling Exit Finalized, Deel Verification In Progress):**
-
-5. **Rippling (HR Platform Exit — FINAL PHASE):**
-   - **Rippling Support** (`support@rippling.com`) — **Off-cycle pay run & account closure** [IMPORTANT on all recent]
-     - Oct 1, 19:35: Re: Request for additional off-cycle pay run [UNREAD, IMPORTANT] — **off-cycle payroll support still active**
-     - Oct 1, 19:13: Black Swift Technologies - Complete your account closure request [UNREAD] — **formal account closure notification to 8 recipients (Jack Elston, Meredith, Mark Kightlinger, Tim Hegwood, Amit Sinha, Nicholas Grande, Nicholas Rodgers)**
-     - **Pattern:** Account closure request sent; off-cycle pay runs still being processed; final transition window open
-
-   - **Martha Barron** (`mbarron@rippling.com`) — **Rippling AM (Account Manager) follow-up** [IMPORTANT on all recent]
-     - Oct 1, 10:50: Rippling AM follow-up [IMPORTANT] — migration support coordination
-     - Meredith reciprocal response Oct 1, 11:37
-     - **Pattern:** Direct account manager engagement on final transition steps
-
-6. **Deel PEO** — **Entity verification active** [IMPORTANT on all recent]
-   - **Deel Operations** (`operations@blackswifttech.com`) — **Entity verification blockers** [IMPORTANT on all recent]
-     - Oct 1, 08:50: We just need a bit more info to verify your entity [IMPORTANT] — **verification hold**
-     - Oct 1, 08:32: We just need a bit more info to verify your entity [IMPORTANT] — **duplicate notification (system generated)**
-   - **Kajol Kataria** (`kajol.kataria@deel.com`) — Implementation PM
-     - Oct 1, 16:58: Meredith sends "Need to make correction in profile" [SENT] — **profile correction in progress**
-     - **Pattern:** Deel implementation delayed by entity verification; Meredith actively correcting profile data to unblock onboarding
+3. **Cory Dixon** (`cory.dixon@blackswifttech.com`) — **Admin & Facilities**
+   - Oct 13, 18:03: FW: ✅ Receipt & Feedback: Your Furniture Assembly Task With Brandon M. [UNREAD, IMPORTANT] — **facility/office management**
+   - **Pattern:** Facility coordination continuing during vacation
 
 ---
 
-**Facility & Operations Management (ACTIVE — NEW DETAIL Oct 1–2):**
+**KRATEO SKY INTEGRATION (ONGOING — WEEK OF OCT 12 REVIEW)**
 
-7. **Facility Contractors & Building Management** — **Escalated activity Oct 1–2**
-   - **Jay McLaughlin** (`Jay@macelectricco.com`) — **MAC Electric Co.** [IMPORTANT on all recent]
-     - Oct 1, 20:03: Re: Work for 2840 Wilderness Pl [IMPORTANT] — **facility electrical work at 2840 Wilderness Pl (BST facility address)**
-     - Meredith reciprocal response Oct 1, 11:42
-     - **Pattern:** Active facility maintenance coordination; electrical work ongoing at primary BST location
-
-   - **Eco-Cycle Hauling** (`hauling@ecocycle.org`) — **Waste & recycling management** [IMPORTANT on all recent]
-     - Oct 1, 20:03: Schedule extra pick up for trash and recycling [IMPORTANT] — **extra pickup requested**
-     - Meredith reciprocal response Oct 1, 14:18
-     - **Pattern:** Facility waste management active; extra capacity scheduled (indicates increased operational volume or spring cleaning)
-
-   - **Luis Castro** (`lh.gen.contracting@gmail.com`) — **General contracting** [IMPORTANT on all recent]
-     - Oct 1, 12:37: Re: Set up payment for invoice 0404 [IMPORTANT] — **payment processing for facility work**
-     - Routed through Jack Elston (Oct 1, 12:54) for authorization
-     - **Pattern:** General contracting work ongoing; Jack Elston authorizing payments
+4. **Sona Raziabeegum** (`sona@krateosky.com`) — **Integration Lead** [CRITICAL STEERING]
+   - Oct 14, 15:01: Week of Oct 12: KS <> BST Weekly Integration Review [UNREAD, IMPORTANT] — **Meredith received vacation auto-reply from weekly integration meeting**
+   - **Recipients:** Krateo Sky internal leadership (15+ team members) + BST core team (Jack Elston, Maciej Stachura, Joshua Fromm)
+   - **Pattern:** Meredith embedded in Krateo cadence; continues receiving meeting summaries despite vacation
 
 ---
 
-**Equipment & Vendor Procurement (NEW DETAIL Oct 1–2):**
+**EXTERNAL RELATIONSHIPS & VENDOR COORDINATION**
 
-8. **enDAQ S3 Data Logger Quotation** — **Measurement equipment evaluation** [IMPORTANT on all recent]
-   - **Tony King** (`tking@dataloggerinc.com`, `catchall@dataloggerinc.com`) — **DataLogger Inc.** [IMPORTANT on all recent]
-     - Oct 1, 20:41: Re: Your enDAQ S3 Data Logger Quotation [IMPORTANT] — **quote follow
+5. **Ted Miles** (`ted59@msn.com`) — **Sales/Marketing External Contact** [NEW ESCALATION]
+   - Oct 14, 12:32: Re: Sales / Marketing? [UNREAD, IMPORTANT] — **inquiry from external party**
+   - **CC'd:** Jack Elston (BST), Geoff Bland, Kay Rufty (external aeronautics contacts)
+   - Oct 14, 09:32: Meredith sent out-of-office reply
+   - **Pattern:** Ted Miles inquiring about sales/marketing; Jack Elston handling delegation; external aeronautics network (Bland, Rufty)
+
+6. **Kay Rufty** (`kayaerokats@gmail.com`) — **Video Project Coordination** [EXTERNAL]
+   - Oct 14, 09:14: Re: Video Project [UNREAD, IMPORTANT] — **project escalation**
+   - Oct 14, 08:14: Meredith sent out-of-office reply
+   - **Pattern:** Video project management; external collaborator; Jack Elston coordinating
+
+7. **Chance Rogers** (`chance.rogers@vertiq.co`) — **Vertiq Supply Chain** [VENDOR]
+   - Oct 13, 15:42: Re: Vertiq SO-01545 Shipment [UNREAD, IMPORTANT] — **shipping coordination**
+   - Oct 13, 12:42: Meredith sent out-of-office reply
+   - **Pattern:** Equipment shipment tracking; Meredith escalating to Joshua Fromm pre-vacation
+
+8. **Frank Strazzabosco** (`microfirm@earthlink.net`) — **External Vendor** [INVOICING]
+   - Oct 13, 18:49: Fwd: Invoice for September [UNREAD, IMPORTANT] — **vendor invoice**
+   - Oct 13, 18:49: Meredith sent out-of-office reply
+   - **Pattern:** Vendor billing; Meredith routing through delegation protocol
+
+---
+
+**BENEFITS & HR ADMINISTRATION (ELEVATED OCT 13–14)**
+
+9. **Aetna** (`communications@em.aetna.com`) — **Health Insurance Vendor** [PRIORITY ESCALATION]
+   - Oct 14, 10:15: Aetna Verification Code Request [IMPORTANT, CATEGORY_UPDATES] — **security/access request**
+   - Oct 14, 09:15: Meredith sent out-of-office reply
+   - Oct 13, 16:38: Aetna Verification Code Request [IMPORTANT, CATEGORY_UPDATES] — **second request same day**
+   - Oct 13, 15:39: Meredith sent out-of-office reply
+   - **Pattern:** Two verification code requests within 24 hours; suggests active Aetna account activity/changes during vacation
+
+10. **Nate Straus** (`nathanieljohnstraus@gmail.com`) — **Employee Benefits** [NEW]
+    - Oct 14, 10:29: Account info [SENT] — **Meredith proactively sending account information**
+    - **Pattern:** Direct employee benefits outreach; Meredith managing personal communications
+
+11. **Human Interest** (`noreply-support@mail.humaninterest.com`) — **401(k) Administrator** [AUTOMATED]
+    - Oct 14, 16:23: Spencer Hoehl has changed their 401(k) contribution rate [UNREAD, CATEGORY_UPDATES] — **automated employee notification**
+    - Oct 14, 09:23: Meredith sent out-of-office reply
+    - **Pattern:** Employee retirement plan activity notifications
+
+12. **Rippling** (`no-reply@rippling.com`) — **HR/Payroll Platform** [ALERTS]
+    - Oct 14, 11:15: Action required: You have pending tasks in Black Swift Technologies [UNREAD, CATEGORY_UPDATES] — **HR system task escalation**
+    - **Pattern:** Outstanding HR/payroll tasks requiring attention during vacation
+
+---
+
+**PROCUREMENT & PURCHASING (SUSTAINED HIGH VOLUME)**
+
+13. **Asana Task Assignments** (`no-reply@asana.com`) — **Project Management** [CONTINUOUS FLOW]
+    - Oct 14, 15:23: Amazon- Fruit Fly Traps [[001-13] Purchasing] [UNREAD, CATEGORY_UPDATES]
+    - Oct 14, 14:03: Wednesday - tasks due soon: 6 - blackswifttech.com [UNREAD, CATEGORY_UPDATES]
+    - Oct 13, 22:39: mcmaster for shop supplies [[001-13] Purchasing] [UNREAD, CATEGORY_UPDATES]
+    -

@@ -1,10 +1,10 @@
 # Commercial — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $3,020,068.62
-- **Total Expenses (Bills + Purchases):** $247,081.00
+- **Total Invoiced (Revenue):** $3,083,803.62
+- **Total Expenses (Bills + Purchases):** $249,579.78 (↑ $1,123.39 from new purchase)
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,772,987.12 (Revenue exceeds expenses)
+- **Net Position:** $2,834,223.84 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – October 15, 2026
 
 ---
@@ -25,7 +25,7 @@
 | 1759 | 2026-05-08 | $664.98 | IRISS, CU Boulder | $664.98 |
 | 1757 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1756 | 2026-05-08 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
-| 1755 | 2026-05-08 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
+| 1755 | 2026-10-12 | $63,735.00 | [043-3] By Light Halo | $63,735.00 |
 | 1754 | 2026-05-13 | $47,894.00 | [043-3] By Light Halo | $47,894.00 |
 | 1758 | 2026-04-16 | $0.00 | Black Swift Technologies | Voided |
 | 1756 | 2026-04-10 | $62,500.00 | (035-1) Adonis | $62,500.00 |
@@ -74,11 +74,16 @@
 | 1618 | 2024-04-19 | $13,853.10 | [451] INSTAAR Stable Isotope Lab, CU Boulder | Paid |
 
 ### Revenue Summary
-- **Total Invoiced:** $3,020,068.62
+- **Total Invoiced:** $3,083,803.62
 - **Total Collected (Paid):** $1,100,305.36
-- **Outstanding Balance:** $1,919,763.26
+- **Outstanding Balance:** $1,983,498.26
 
 #### Notable Recent Invoices
+
+**Invoice #1755 (October 12, 2026) — [043-3] By Light Halo: $63,735.00** ⚠️
+- Outstanding balance
+- Service: Final Payment
+- *Note:* Invoice #1755 now has dual entries: May 8, 2026 ($63,735.00) and October 12, 2026 ($63,735.00). This may represent a duplicate issue or separate billing cycle. **Recommend reconciliation with By Light Halo to confirm whether this is a reissue, duplicate, or distinct charge.**
 
 **Invoice #1779 — [018-1] Murphy's Pond CH4 (August 31, 2026): $24,579.28**
 - Outstanding balance
@@ -87,29 +92,22 @@
 **Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00**
 - Outstanding balance
 - Service: E2 training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements
-- Includes simulation session and flight training
-
-**Invoice #1770 — [044-1] EMASS Chip Integration (July 1, 2026): $6,000.00**
-- Outstanding balance; continuation of EMASS Chip Integration work
-
-**Invoice #1769 — [044-1] EMASS Chip Integration (June 9, 2026): $25,000.00**
-- Outstanding balance; part of ongoing chip integration project
 
 ---
 
 ## Expenses by Cost Category
 
-### **Indirect Costs** (Research & Development — Internal R&D)
-**Total: $2,247.42** | 2 transactions
+### **Indirect Costs** (Overhead, R&D, Fringe)
+**Total: $1,123.62** | 1 transaction
+*Account: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]*
 
-| Date | Description | Amount | Details |
-|------|-------------|--------|---------|
-| 2026-10-15 | Worldwide Express Shipment (Purchase #260927W025531) | $1,123.62 | Three line items: $14.90 (Embry Riddle shipment for fix) + $398.89 (Phase1 shipment for S3) + $709.83 (Phase1 shipment for S3) |
-| 2026-09-25 | Worldwide Express Shipment | $1,123.80 | Shipment costs (prior period) |
+| Date | Description | Amount |
+|------|-------------|--------|
+| 2026-10-15 | Shipment from Embry Riddle for fix | $14.90 |
+| 2026-10-15 | Phase 1 Shipment for S3 | $398.89 |
+| 2026-10-15 | Phase 1 Shipment for S3 (duplicate line) | $709.83 |
 
-### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $12.87** | 1 transaction
-
-| Date | Description | Amount | Details |
-|------|-------------|--------|---------|
-| 2026-09-25 | Worldwide Express Shipment | $12.87 | Shipment from
+**Memo:** Worldwide Express TYPE PAYMENTS ID XXXXXX1662 CO  
+**Largest Items:**
+- Phase 1 Shipment for S3: $709.83
+- Phase 1 

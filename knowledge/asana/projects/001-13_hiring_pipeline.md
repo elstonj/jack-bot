@@ -2,38 +2,37 @@
 
 ## Overview
 - **Team**: Operations
-- **Status**: ARCHIVED (inactive since October 2025)
+- **Status**: ACTIVE (reactivated as of September 2026 — previously archived)
 - **Purpose**: Tracking candidates through the hiring process
-- **Timeline**: Active through 2024–2025; final activity October 2025
-- **Team members involved**: All tasks unassigned (centrally managed by Operations)
-- **Risk signals**: None — project archived and dormant
+- **Timeline**: 
+  - Previous cycle: 2024–2025 (archived October 2025)
+  - Current cycle: September 2026–October 2026 (ongoing)
+- **Team members involved**: Cory Dixon (hiring lead); all tasks unassigned (centrally managed by Operations)
+- **Risk signals**: None — hiring proceeding on schedule with first start date October 5, 2026
+
+## Current Hiring Status (as of September 30, 2026)
+**Per Cory Dixon (2026-09-30):**
+- **Positions open**: 13 different positions for 14 total people (including 2× UAS Technicians)
+- **Offers accepted**: 4 candidates; first hire starting **Monday, October 5, 2026**
+- **Pending signatures**: 2 additional offers out to candidates awaiting acceptance
+- **Status**: Active hiring cycle underway
 
 ## Key Deliverables & Milestones
-The project tracked hiring for multiple positions, all completed in bulk on **2025-10-21**:
-- Business Development
-- Digital Marketing Specialist
-- Bookkeeper/Office Manager
-- Marketing Associate
-- Firmware Engineer
-
-Earlier hiring activity tracked through **2024-11-18**:
-- Manager position (candidate David H.)
-- Winter Intern program
-- Other candidate reviews
+- **First hire start date**: October 5, 2026
+- **Additional start dates**: October 2026 (3 more hires to follow first start)
+- **Pending**: 2 offers awaiting candidate signatures
 
 ## Task Summary
-- **Total tasks**: 1 (0 open, 1 completed)
-- **Completion rate**: 100%
-- **Assignment pattern**: All tasks unassigned, indicating centralized Operations team management without individual ownership
+- **Total tasks**: 1 (0 completed, 1 open)
+- **Assignment pattern**: All tasks unassigned, indicating centralized Operations team management
 - **Custom field usage**: "Hiring Candidate Status" and "Job(s) Applied to" used for candidate tracking
+- **Note**: Open task placeholder shows no specific candidate name yet (data entry pending)
 
 ## Recent Activity
-- Final candidate task (David H., Manager position) completed **2024-11-18**
-- Five positions marked complete simultaneously on **2025-10-21** (Business Development, Digital Marketing Specialist, Bookkeeper/Office Manager, Marketing Associate, Firmware Engineer)
-- No activity since October 2025; project archived
+- **2026-09-30**: Cory Dixon provided hiring status update — 4 offers accepted, 2 pending signatures, onboarding process starting October 5
+- Previous project archived October 2025; reactivated for current hiring cycle
 
 ## Notes & Context
-- Remaining task: Candidate David H. (Manager position) | Contact: 703.946.1156 | Status: In Review
-- Notes include communication protocols for candidate responses (rejection letters for filled positions, waitlist notifications)
-- Asana link embedded for Bookkeeper/Office Manager position: https://app.asana.com/0/1207622475889248/1208791234740721/f
-- Project appears dormant since October 2025; archived status confirms hiring cycle concluded
+- Archive status in Asana does not reflect current reality; hiring is actively underway as of late September 2026
+- Key positions include UAS Technicians (2 roles), plus 11 other positions across the organization
+- First cohort of 4 new hires begin October 2026; expect additional task creation as candidates onboard

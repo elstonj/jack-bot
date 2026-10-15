@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-02"
+    "start": "2026-10-12",
+    "end": "2026-10-14"
   },
-  "scanned_at": "2026-10-02",
+  "scanned_at": "2026-10-14",
   "projects": [
     {
       "project_code": "001-12",
@@ -21,10 +21,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 1108.72,
+      "expenses": 3394.64,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 1,
+      "purchase_count": 3,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -32,8 +32,8 @@
       ]
     },
     {
-      "project_code": "300-3",
-      "revenue": 117000.0,
+      "project_code": "043-3",
+      "revenue": 63735.0,
       "expenses": 0.0,
       "invoice_count": 1,
       "bill_count": 0,
@@ -41,20 +41,33 @@
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "[300-3] 2026 IDIQ"
+        "[043-3] By Light Halo"
+      ]
+    },
+    {
+      "project_code": "212-2",
+      "revenue": 91791.0,
+      "expenses": 0.0,
+      "invoice_count": 2,
+      "bill_count": 0,
+      "purchase_count": 0,
+      "po_count": 0,
+      "payment_count": 0,
+      "qbo_class_names": [
+        "[212-2] NASA S2 & Parts"
       ]
     },
     {
       "project_code": "_unclassified",
       "revenue": 0.0,
-      "expenses": 2778.07,
+      "expenses": 590.21,
       "invoice_count": 0,
-      "bill_count": 1,
-      "purchase_count": 0,
+      "bill_count": 0,
+      "purchase_count": 1,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
-        "SOCOM:[600-01] SOCOM Pope ii"
+        ""
       ]
     }
   ]

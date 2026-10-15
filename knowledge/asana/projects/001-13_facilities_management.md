@@ -4,49 +4,51 @@
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
 - **Timeline**: Ongoing operational project with recurring weekly purchasing cycles and bi-weekly cleaning tasks
-- **Status**: Active - operational cadence maintained. **⚠️ CRITICAL ISSUE RESOLVED: Data snapshot shows 1 open task and 0 completed tasks, suggesting either (a) Asana workspace reset or major data refresh, or (b) task archival/bulk deletion.** This is a significant change from previous snapshot (3 open, 17 completed). Clarify with Meredith O'hara Needham whether operational work (rent payments, cleaning, purchasing) is continuing off-platform or if Asana is being refreshed.
+- **Status**: Active - operational cadence maintained. **⚠️ DATA INCONSISTENCY**: Current snapshot shows only 1 open task ("Facilities Improvements", unassigned, no due date); prior snapshot showed 2 open tasks ("Office Cleaning" due 2026-10-03 and "Ongoing Office Purchasing List" due 2026-10-02, both assigned to Meredith O'hara Needham). This suggests either those tasks were completed/archived recently or the task list structure has changed. Recommend verifying whether recurring cleaning and purchasing tasks still exist or need to be recreated.
 - **Team members involved**: 
-  - Meredith O'hara Needham (primary operational owner: cleaning coordination, purchasing coordination, rent payments)
-  - Nate Straus (equipment planning; consumables stock tracker owner — not currently assigned to open tasks)
+  - Meredith O'hara Needham (primary operational owner: cleaning coordination, purchasing coordination)
+  - Nate Straus (equipment planning; consumables stock tracker owner)
+  - Cory Dixon (leadership oversight)
 - **Risk signals**: 
-  - **High-priority**: Complete absence of completed tasks and significant reduction in open tasks compared to prior snapshot. Either Asana was reset/cleaned, or operational tasks are being managed outside the system.
-  - **Moderate**: Missing "Pay Rent" and "Office Cleaning" tasks that were open in previous snapshot (due 2026-09-28 and 2026-10-03). Unclear if these were completed, archived, or removed.
-  - **Moderate**: Consumables tracker last updated 2025-11-04 by Nate Straus; may need refresh.
+  - **High-priority**: "Pay Rent" task absent from Asana despite being core operational requirement. Unclear if managed off-platform (e.g., via accounting system or standing bank order) or inadvertently removed.
+  - **High-priority**: Recurring "Office Cleaning" and "Ongoing Office Purchasing List" tasks missing from current snapshot; verify whether recently completed, archived, or need to be recreated.
+  - **Moderate**: "Facilities Improvements" task unassigned with no due date — lacks ownership and timeline clarity.
+  - **Moderate**: Consumables tracker last updated 2025-11-04; may need refresh.
 
 ## Key Deliverables & Milestones
 - **Weekly office purchasing list** (recurring consumables collection)
-  - **Open task**: "Ongoing Office Purchasing List" due 2026-10-02 (Meredith O'hara Needham)
-  - **Notes**: "Collect purchases for the week here"
+  - **Previous task**: "Ongoing Office Purchasing List" (was due 2026-10-02, assigned Meredith O'hara Needham — *status unclear in current data*)
   - **Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
 
 - **Bi-weekly office cleaning** (via Neat N Tidy)
-  - **Status**: Task not currently visible in Asana; verify operational continuity
+  - **Previous task**: "Office Cleaning" (was due 2026-10-03, assigned Meredith O'hara Needham — *status unclear in current data*)
   - **Booking portal**: https://neatntidy.bookingkoala.com/ (login: purchasing@blackswifttech.com / 297EZXULBMbZyY)
-  - **Contact**: Meredith O'hara Needham (Owner), covers whole BST team
+  - **Service**: Whole BST team
   
+- **Facilities Improvements** (current open task)
+  - **Status**: Unassigned, no due date
+  - **Needs clarification**: Scope, owner, and timeline required
+
 - **Monthly rent payments**
-  - **Status**: Task not currently visible in Asana; verify operational continuity
+  - **Status**: Task not currently visible in Asana; verify whether managed off-platform
   - **Amount**: ~$13.00–$14.63 NNN + $6.23 CAM depending on lease year
   - **Landlord**: Goose Creek (Amy Smith, Property Manager: amy@wwreynolds.com, 303-941-8243 / 303-442-8687)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed (significant change from prior snapshot: 3 open, 17 completed)
+- **Total tasks**: 1 open, 0 completed
 - **Tasks by assignee**:
-  - **Meredith O'hara Needham**: 1 open ("Ongoing Office Purchasing List")
+  - **Unassigned**: 1 open (Facilities Improvements, no due date)
 - **Notable patterns**:
-  - **Data discrepancy**: Previous snapshot showed 3 open recurring tasks (Pay Rent, Office Cleaning, Ongoing Office Purchasing List) and 17 completed tasks. Current snapshot shows only 1 open task and 0 completed. This suggests either Asana was cleaned/reset or tasks are being managed off-platform.
-  - **Cyclical structure expected**: Three recurring task types (Rent, Cleaning, Purchasing) should repeat on predictable schedules, but only Purchasing is currently visible.
+  - **Data gap**: Two previously-tracked recurring operational tasks (Office Cleaning, Ongoing Office Purchasing List) are absent from current snapshot
+  - **Ownership vacuum**: Facilities Improvements unassigned despite being the only visible open task
 
 ## Recent Activity
 - **Open tasks** (as of current data):
-  - **Ongoing Office Purchasing List** — Due 2026-10-02 (Meredith O'hara Needham)
+  - **Facilities Improvements** — Unassigned, no due date
 
-- **Completed tasks**: None visible (0 total)
+- **Completed tasks**: None visible
 
-- **Previous open tasks now absent** (from prior snapshot):
-  - **Pay Rent** — Was due 2026-09-28
-  - **Office Cleaning** — Was due 2026-10-03
-  - *Unclear if these were completed, archived, or removed from Asana*
+- **Data change**: Office Cleaning and Ongoing Office Purchasing List tasks disappeared from previous snapshot; no completion notes visible. Recommend confirming whether these were archived, closed without recording, or need to be recreated.
 
 ## Notes & Context
 
@@ -59,7 +61,7 @@
 - **Cleaning Service**: Neat N Tidy
   - Booking portal: https://neatntidy.bookingkoala.com/
   - Login: purchasing@blackswifttech.com / 297EZXULBMbZyY
-  - Owner: Meredith O'hara Needham
+  - Owner/Coordinator: Meredith O'hara Needham
   - Team: Whole BST team supported
   - Drive reference: https://drive.google.com/file/d/1HwqI6kJ6fMWoW2uKUGwd9
 
@@ -74,10 +76,8 @@
 
 **Consumables Stock Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus — *may need refresh*)
 
-**⚠️ Action Items**:
-1. **Urgent: Verify operational status** — Current Asana snapshot shows only 1 open task vs. 3 open + 17 completed in prior snapshot. Confirm with Meredith O'hara Needham whether:
-   - Rent and cleaning tasks were intentionally removed/archived
-   - Recurring tasks are being managed outside Asana
-   - Asana was reset or cleaned
-2. **Restore recurring task structure** if needed — Rent (monthly) and Cleaning (bi-weekly) should have open/upcoming instances if operations are active
-3. **Consumables tracker refresh**: Last updated 2025-11-04 by Nate Straus; consider assigning active owner and updating
+**⚠️ Urgent Action Items**:
+1. **Verify status of recurring operational tasks**: Confirm whether "Office Cleaning" (bi-weekly) and "Ongoing Office Purchasing List" (weekly) have been completed/archived or need to be recreated. These are essential operational cadences.
+2. **Locate "Pay Rent" task**: Confirm whether monthly rent payments are (a) being managed off-platform (accounting system, standing bank order), (b) intentionally removed from Asana, or (c) need to be recreated. Essential to prevent missed payments.
+3. **Assign and scope "Facilities Improvements"**: Currently unassigned with no due date. Clarify scope, owner, and timeline.
+4. **Consumables tracker refresh**: Last updated 2025-11-04 by Nate Straus; assign active owner and consider updating.

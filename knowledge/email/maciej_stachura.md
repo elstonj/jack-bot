@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 597 (571 previous + 26 new)
-- **Date range:** 25 Sep – 2 Oct 2026
-- **Volume:** Extreme operational tempo sustained through Oct 2; peak intensity on Oct 1 with multiple Navy escalations, Krateo Sky engineering coordination, and NOAA hurricane tasking continuation; administrative/legal processing activity (eSignatures, invoicing)
+- **Total messages scanned:** 764 (736 previous + 28 new)
+- **Date range:** 25 Sep – 14 Oct 2026
+- **Volume:** Extreme operational tempo sustained through mid-October. New period (Oct 13–14) shows continued high-priority KrateoSky coordination, NASA/NOAA wind tunnel testing finalization, Navy SBIR Phase I wrap-up, and technician hiring activity.
 
 ---
 
@@ -11,84 +11,85 @@
 
 ### Top Internal Contacts
 
-- **Jack Elston** (elstonj@blackswifttech.com) — **Dominant volume sustained with escalation coordination**
-  - New period adds: BST After Action Review (AAR) TCE 26.2 coordination with Navy (Oct 1, multiple iterations); eSignature document routing (Oct 1, 15:11-15:35 UTC); Adam Houston university meeting follow-up (Oct 1, 12:26 & 19:04 UTC); CJFC Engineering Sprint coordination relay (Oct 1, 09:34 UTC)
-  - Cross-functional integration and Navy contract escalation lead confirmed
+- **Jack Elston** (elstonj@blackswifttech.com) — **Sustained central operational hub**
+  - New (Oct 13–14): Vantor CU Aerospace Visit coordination (Oct 13, IMPORTANT); Curable Composites Proposal review with Beck Cotter/Cory Dixon (Oct 13, IMPORTANT); NASA Follow Up wind tunnel testing distribution (Oct 14, recipient on 12-person technical thread, IMPORTANT); USAF Long-Range Communications Drones follow-up relay (Oct 13, Ed Kase consultation, IMPORTANT); BST LC-ISR Working Meeting notification (Oct 14, from Brian Grubel, IMPORTANT)
+  - **Role confirmed: Strategic hub for government partnerships, academic partnerships (CU Aerospace), vendor coordination, and proposal management**
 
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Navy contract focus sustained**
-  - New: "[Non-DoD Source] Option Period wrap up" coordination (Oct 1, 11:41 UTC)
-  - Navy contract lifecycle management
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — **Technical partnerships and university liaison**
+  - New (Oct 13): Curable Composites Proposal review coordination (Jack Elston relay, IMPORTANT); CU Aerospace Introduction and meeting follow-up (April Abernethy/Brian M Argrow, University of Colorado, Oct 13, IMPORTANT); USAF Long-Range Communications Drones response (Ed Kase consulting, Oct 13, IMPORTANT); Vantor CU Aerospace Visit 10/20 coordination
+  - **Confirmed: University partnership and technical proposal authority**
 
-- **Cory Dixon** (cory@krateosky.com / cory.dixon@blackswifttech.com) — **Krateo integration operations authority**
-  - New: eSignature request for BST-AAR document (Oct 1, 15:35 UTC, IMPORTANT); CJFC Engineering Sprint BST coordination (Oct 1, 09:34 UTC, forwarded by Daniel Prendergast, Oct 1, 15:43 UTC response from Bob Smith)
-  - Dual-role position (Krateo + BST) confirmed; document approval authority
-
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Active USSOCOM technical & Krateo coordination lead**
-  - New: CJFC Engineering Sprint coordination with Bob Smith (Krateo) and USSOCOM (Oct 1, 09:34 UTC, IMPORTANT); continued (U) [Non-DoD Source] PCLT Tech Questions thread with Evan Wolff/USSOCOM (Oct 1, 09:46 UTC, IMPORTANT)
-  - Technical escalation point for military requirements and Krateo partnership engineering
-
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **New operational coordination**
-  - "Re: ByLight M2 HALO Flight" (Oct 1, 12:26 UTC, IMPORTANT)
-  - Flight operations/platform coordination
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — **Administrative operations and partnership coordination**
+  - New (Oct 13): Curable Composites Proposal and Vantor CU Aerospace Visit distributions (via Jack Elston forwarding, IMPORTANT)
+  - Continued KrateoSky integration meeting organizer role (Oct 14, Sona Raziabeegum distribution, 20+ person weekly review)
 
 ### Top External Contacts
 
-#### Government (Operational & Strategic)
+#### KrateoSky — **CRITICAL PARTNERSHIP CONTINUES INTENSIFYING**
 
-**NOAA (LIVE P-3 OPERATIONAL TASKING — CONTINUED)**
+- **Brian Grubel** (Brian@krateosky.com) — **KrateoSky technical/DIU program lead**
+  - New (Oct 14): Direct email to Maciej: **"BST LC-ISR Working Meeting"** (16:36 UTC, IMPORTANT) — indicates formal working group establishment for Low-Cost ISR initiative
+  - Continued DIU challenge and pitch coordination authority
 
-- **Hurricane Field Program POD distribution** — **Operational continuation confirmed**:
-  - "Hurricane Field Program POD – Thursday, October 1, 2026" (Oct 1, 16:02 UTC, IMPORTANT, CATEGORY_FORUMS) via Jason Sippel/sascwatch-all-list
-  - Large distribution: _OAR AOML HFP, Steven Thur, Jennifer Mahoney, Nancy Wallace, Molly Baringer, Laura Chaibongsai, Claire Bailey, OAR communications, OAR PCO, Monica Allen, Blenda Mease, Diana Udel, Katie Eaton, Jessica Snowden, Annette Hollingshead, Lev Looney, Christopher Slocum
-  - **Indicates daily operational briefing integration; Maciej remains in live tasking loop**
+- **Jed Leonard** (jed@krateosky.com) — **KrateoSky technical/program authority (NEW KEY CONTACT)**
+  - New (Oct 13): Multiple direct exchanges with Maciej on **"Low cost ISR submission"** thread
+    - Oct 13, 23:10 UTC: Jed to Bob Smith + Maciej (IMPORTANT)
+    - Oct 13, 17:12 UTC (MDT): Maciej to Jed response
+    - Oct 13, 23:14 UTC: Jed reply to Maciej (IMPORTANT)
+  - **Elevated to primary technical coordination for Low-Cost ISR program with both Bob Smith and Maciej**
 
-**Navy/USSOCOM (Contract & Technical Escalations — Critical Activity)**
+- **Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky weekly integration operations lead**
+  - New (Oct 14): **"Week of Oct 12: KS <> BST Weekly Integration Review"** (15:01 UTC, IMPORTANT) — 20-person distribution confirming sustained weekly strategic sync
+  - Maciej listed as core BST recipient on all integration reviews
 
-- **Brescia, Anthony D CIV USN NAWCAD** (anthony.d.brescia.civ@us.navy.mil) — **Critical escalation authority**:
-  - "BST After Action Review and Corrective Procedure: TCE 26.2 (ahead of Friday's meeting)" (Oct 1, 16:54 & 16:57 UTC, INBOX)
-  - Recipients: Pyrah, Aaron D (NAWCAD); Ruiz-Reyes, Angel R (NAWCAD); Jack Elston (BST)
-  - **Indicates formal Navy escalation procedure; Friday meeting scheduled with NAWCAD leadership**
-  - TCE 26.2 failure/incident requiring after-action review and corrective action
+- **Bob Smith** (Bob@krateosky.com) — **KrateoSky CEO/Strategic decision maker**
+  - New (Oct 13): Recipient on Jed Leonard "Low cost ISR submission" escalation with Maciej (23:10 UTC, IMPORTANT)
+  - Continued strategic partnership negotiations
 
-- **Wolff, Evan M MIL USSOCOM SOCOM** (evan.m.wolff.mil@socom.mil) — **Active USSOCOM technical thread**:
-  - "RE: (U) [Non-DoD Source] PCLT Tech Questions" (Oct 1, 15:19 UTC, IMPORTANT)
-  - Response thread includes Michael Jagelewski (USSOCOM CIV); Daniel Prendergast continuing technical response (Oct 1, 09:46 UTC)
-  - **Ongoing technical requirements/integration feedback for USSOCOM**
+#### Government/NASA/NOAA — **ACTIVE WIND TUNNEL & FLIGHT TEST COORDINATION**
 
-#### Krateo Sky (Strategic Partnership — Engineering Intensity)
+- **Craig A. Hunter** (craig.hunter@nasa.gov) — **NASA Langley Research Center (LARC-D301), Emeritus status**
+  - New (Oct 14): **"Re: [EXTERNAL] NASA Follow Up (wind tunnel testing at ERAU)"** — 12-person thread including Maciej (stachura), Jack Elston, NASA Langley staff (Dolph, Gleason, Lee, Jamal), NOAA (Joe Cione, Annette Hollingshead), ERAU (Zhang Zheng, Wadler, Gnanamanickam), and NOAA (Nikolai Pawlenko)
+  - Oct 14 email chain shows active technical coordination on wind tunnel testing
+  - Oct 13, 22:26 UTC: Direct reply to Jack Elston on NASA Follow Up
+  - **NASA Langley Research Center project lead for ERAU wind tunnel testing phase**
 
-- **Bob Smith** (Bob@krateosky.com) — **Krateo operations/engineering authority**:
-  - "Re: CJFC Engineering Sprint - BST Coordination" (Oct 1, 15:43 UTC, IMPORTANT)
-  - Recipients include Maciej Stachura, Jack Elston, Cory Dixon (BST), LisaMarie Cheney, Jed Leonard (Krateo), Daniel Prendergast (BST)
-  - **Critical engineering sprint coordination for CJFC project; Maciej is stakeholder**
+- **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal, Hurricane/Aviation Research Division**
+  - New (Oct 14–13): Active on NASA wind tunnel testing coordination thread (12-person thread with Hunter, Maciej, technical teams)
+  - Oct 14, 09:59 UTC: Response to Hunter; Oct 13, 10:52 UTC: Coordination with ERAU (Wadler)
+  - **NOAA aviation/sensor research lead coordinating with NASA/ERAU**
 
-- **Cory Dixon** (cory@krateosky.com) — **Krateo technical lead**:
-  - eSignature request for "BST-AAR-26-001_After_Action_Review_TCE 26.2" (Oct 1, 15:35 UTC, IMPORTANT)
-  - **Document approval authority; indicates Krateo involvement in Navy TCE incident**
+- **Zhang, Zheng** (ZHANGZ6@erau.edu) — **Embry-Riddle Aeronautical University (ERAU), wind tunnel testing authority**
+  - New (Oct 13): Direct coordination on "NASA Follow Up (wind tunnel testing at ERAU)" thread (20:11 UTC, 20:41 UTC, IMPORTANT)
+  - Multiple exchanges with Hunter, Wadler, Joe Cione, Nikolai Pawlenko
+  - **ERAU wind tunnel facility lead for Black Swift testing**
 
-#### External Business/Legal (New Activity)
+- **Joshua Wadler** (WADLERJ@erau.edu) — **ERAU, wind tunnel operations/testing coordinator**
+  - New (Oct 13): Active on NASA wind tunnel testing coordination (IMPORTANT thread, multiple timestamps)
 
-- **Dan Fredrickson** (dfredrickson@kofirm.com) — **Krateo Sky legal closure authority**:
-  - "RE: Invoice for closing legal fee re KrateoSky/Black Swift Technologies LLC - Maciej Stachura" (Oct 1, 16:39 UTC, UNREAD, IMPORTANT)
-  - **Krateo transaction/closing status update**
+#### Academic/University Partnerships — **EXPANDING**
 
-- **Curtis Vock** (cvock@cozen.com) — **NEW external legal engagement**:
-  - "The Soil Moisture Company - Cozen O'Connor Engagement Letter" (Oct 1, 15:31 UTC, UNREAD, IMPORTANT)
-  - **Indicates new business opportunity or corporate development with Cozen O'Connor (major law firm)**; addressed directly to Maciej Stachura
-  - **New client/entity: The Soil Moisture Company**
+- **Brian M Argrow** (Brian.Argrow@colorado.edu) — **University of Colorado Aerospace Engineering**
+  - New (Oct 14): "Re: Introduction and meeting" — coordinating with Beck Cotter and April Abernethy (IMPORTANT)
+  - **CU Aerospace faculty lead for Black Swift partnerships**
 
-#### University/External Partnerships
+- **April Abernethy** (April.Abernethy@colorado.edu) — **University of Colorado Aerospace**
+  - New (Oct 13–14): "Introduction and meeting" coordination with Argrow, Jack Elston, Beck Cotter (IMPORTANT, 19:59 UTC reply)
+  - Vantor CU Aerospace Visit 10/20 planning
 
-- **Adam Houston** (ahouston2@unl.edu) — **University of Nebraska-Lincoln partnership**:
-  - "Re: Meet up on Monday" (Oct 1, 12:26 UTC, IMPORTANT, relayed by Jack Elston Oct 1, 19:04 UTC)
-  - **Monday (Oct 4) meeting confirmed; strategic external partnership**
+#### Consulting/Vendor Coordination
 
-#### Automated/System Emails
+- **Ed Kase** (ed.kase@ekaseconsulting.com) — **USAF/AFSOC consulting lead**
+  - New (Oct 13): **"RE: USAF Looks for Long-Range Communications Drones Deployable from AFSOC Fixed Wing Platforms"** — direct coordination with Jack Elston and Maciej (13:47 UTC, IMPORTANT)
+  - Beck Cotter response indicates proposal development (14:23 UTC, IMPORTANT)
+  - **USAF AFSOC opportunity intermediary for long-range communications drone program**
 
-- **Google Workspace eSignatures** (esignature-noreply@google.com) — **Multiple document signing requests**:
-  - "eSignature request for BST-AAR-26-001_After_Action_Review_TCE 26.2 - 10/1/26" (Oct 1, 15:11, 15:12, 15:14, 15:16 UTC, multiple iterations)
-  - Jack Elston (originator); Cory Dixon (co-signer); Maciej Stachura (recipient)
-  - **Indicates document version iteration/approval cycle; formal Navy escalation documentation**
+- **Ira Leifer** (Ira.Leifer@bubbleology.com) — **Bubbleology Research International**
+  - New (Oct 13): "Signed by Ira Leifer" (21:04 UTC) — signature/contract execution notification
+  - Likely related to methane/atmospheric sensor partnership visible in previous data
 
-- **Google Calendar** (calendar-notification@google.com):
-  - "BST/K
+---
+
+## Topic Patterns
+
+###

@@ -102,5 +102,31 @@
     "notes": "Harbor Freight promotional email; marketing/spam",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "1a10e3fb15e29de",
+    "is_purchase": true,
+    "status": "approved",
+    "amount_usd": 217.97,
+    "vendor": "Pasternack",
+    "project_code": null,
+    "project_hint": null,
+    "description": "PE34686-12 (qty 2)",
+    "notes": "Order on hold pending written approval of revised total; price adjustment confirmed; awaiting buyer confirmation",
+    "date": "",
+    "subject": ""
+  },
+  {
+    "id": "1a120f95bf1e1d2",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "ArcBest",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Blog/newsletter from freight company; no purchase or quote",
+    "date": "",
+    "subject": ""
   }
 ]

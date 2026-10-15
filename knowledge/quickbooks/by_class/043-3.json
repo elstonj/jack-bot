@@ -4,61 +4,41 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-08-27",
-    "end": "2026-09-15"
+    "start": "2026-10-12",
+    "end": "2026-10-14"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 112.84,
-    "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 112.84
-    }
+    "revenue": 63735.0,
+    "expenses": 0.0,
+    "by_category": {}
   },
-  "invoices": [],
-  "bills": [],
-  "purchases": [
+  "invoices": [
     {
-      "type": "Purchase",
-      "date": "2026-09-10",
-      "doc_number": "0910JELSTON",
-      "total": 29.29,
-      "attributed": 29.29,
+      "type": "Invoice",
+      "date": "2026-10-12",
+      "doc_number": "1755",
+      "total": 63735.0,
+      "attributed": 63735.0,
       "vendor": "",
-      "customer": "",
-      "balance": null,
+      "customer": "[043-3] By Light Halo",
+      "balance": 63735.0,
       "memo": "",
       "lines": [
         {
-          "amount": 29.29,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "18-8 Stainless Steel Pan Head Phillips Screw"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-27",
-      "doc_number": "0827JELSTON",
-      "total": 110.42,
-      "attributed": 83.55,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 26.87,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Navy Magnetometer supplies"
+          "amount": 63735.0,
+          "account": "",
+          "description": "Final Payment"
         },
         {
-          "amount": 83.55,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "By Light supplies"
+          "amount": 63735.0,
+          "account": "",
+          "description": ""
         }
       ]
     }
   ],
+  "bills": [],
+  "purchases": [],
   "purchase_orders": [],
   "payments": []
 }

@@ -2,46 +2,62 @@
 
 ## Active Project Budgets
 
-| Project Code | Client | Total Budget | Contract Type | Period of Performance | Status |
-|---|---|---|---|---|---|
-| **200-13** | NASA Ames Research Center | $80,972.00 | NASA Phase III R&D | Feb 20, 2025 – Aug 20, 2025 | ⚠️ Labor overruns |
-| **550-1** | United States Navy (DoN) | TBD (Phase II proposal) | SBIR Phase I (Base) + Phase II Option | Jan 2027 – Jun 2030 (Base); Jul 2029 – Jun 2030 (Option I) | Proposal stage |
+### Project 301-3
+- **Project Code:** 301-3
+- **Client:** NOAA (National Oceanic and Atmospheric Administration)
+- **Contract Number:** 1305M225P0034
+- **Total Budget:** $747,500.00
+  - Base Contract: $494,000.00
+  - Optional Items: $253,500.00
+- **Contract Type:** NOAA Small Uncrewed Aircraft Systems (sUAS) contract
+- **Period of Performance:** February 2025 – August 25, 2026 (includes 6-month extension)
+- **Key Deliverables:**
+  - Black Swift S0 Aircraft platforms (26 units): $468,000
+  - Operator and Observer Course Development: $12,000
+  - Operator and Observer Training: (amount cut off in source)
+- **Additional Funding Source:** University of Miami subcontract (PO-0000867443)
+- **Financial Status:** Active with extended timeline; optional funding portion availability pending
 
 ---
 
 ## By Funding Source
 
-### Federal Agencies
-- **NASA Ames Research Center:** $80,972.00 (Project 200-13)
-- **United States Navy (DoN):** Phase II proposal pending (Project 550-1)
+| Funding Source | Project(s) | Known Amount |
+|---|---|---|
+| NOAA | 301-3 | $747,500.00 |
+| University of Miami (subcontract) | 301-3 | *Not specified* |
+| NASA | Unassigned portfolio | *Not itemized in summary* |
+| DoD | Unassigned portfolio | *Not itemized in summary* |
 
 ---
 
 ## By Contract Type
 
-### NASA Phase III R&D
-- **Project 200-13:** $80,972.00 (CRATER campaign)
-
-### SBIR Phase I → Phase II
-- **Project 550-1:** Navy Magnetometer (Base Phase II proposal under review)
+| Contract Type | Project(s) | Amount |
+|---|---|---|
+| Federal sUAS (NOAA) | 301-3 | $747,500.00 |
+| Commercial (Preliminary) | MiniCam Project (NASA AREN/Aeropods) | *Costing analysis only—no budget allocated* |
+| Other Federal/DoD | Unassigned portfolio (1,181 docs) | *Not broken down* |
 
 ---
 
 ## Financial Health Indicators
 
-### ⚠️ **Project 200-13 — Labor Budget Concerns**
-- **J. Elston (PI):** 43.63 hours over budget (143.63 actual vs. 100 estimated)
-  - Overage impact: ~$5,569 at $127.42/hr loaded rate
-- **D. Prendergast (Travel Engineer):** 59.5 hours over budget (159.5 actual vs. 100 estimated)
-  - Overage impact: ~$3,367 at $56.59/hr loaded rate
-- **Combined labor overruns: ~103 excess hours (~$8,936 exposure)**
-- **Contract ends:** August 20, 2025 (current overruns may exceed total contract value if not managed)
-- **Action needed:** Verify actual invoiced amounts and determine if overages are absorbed within contingency or require client approval
+### Project 301-3 — Healthy Status
+- ✅ Substantial base funding secured ($494,000)
+- ✅ Optional expansion funding available ($253,500)
+- ✅ Extended performance period granted (6-month extension to August 2026)
+- ⚠️ **Note:** Aircraft procurement ($468,000 / 26 units) represents 94% of base budget—verify delivery schedule and invoice timing
 
-### Project 550-1 — Early Stage
-- Phase II proposal under development; contract period doesn't begin until January 2027
-- Base Period budget structure identified ($207,368 direct labor estimated for 30-month base)
-- No immediate financial concerns
+### Unassigned Portfolio (1,181 Documents)
+- **⚠️ Data Fragmentation:** No unified project codes across documents; requires consolidation
+- **Status Mix:** Active, proposals, and completed/inactive projects mixed without clear sorting
+- **Action Required:** Portfolio needs organization by project code and financial status assessment
+
+### MiniCam Project (NASA AREN)
+- **Status:** Preliminary costing analysis only (February 2026)
+- **Budget:** Not formally allocated—commercial product analysis phase
+- **Next Step:** Awaiting formal funding decision/contract award
 
 ---
 
@@ -49,10 +65,14 @@
 
 | Project | QB Status | Notes |
 |---|---|---|
-| **200-13** | Not referenced | Budget and actuals appear in Drive docs; recommend cross-check with QB to verify invoicing against labor overruns |
-| **550-1** | Not referenced | Proposal-stage; no invoice activity expected until contract award (2027) |
+| 301-3 | **Unknown** | NOAA contract with active spend; University of Miami PO suggests invoicing structure exists but QB matching not confirmed in documents |
+| Unassigned Portfolio | **Drive-only** | 1,181 documents appear to be archival/reference materials without linked QB records; requires audit |
+| MiniCam (NASA) | **Drive-only** | Preliminary costing spreadsheet; no QB integration evident |
 
 ---
 
-## Summary
-**Active Spend Risk:** Project 200-13 shows significant labor overruns (~$8,936 estimated exposure) against an $80,972 total contract. Immediate reconciliation with QB and client notification recommended. Project 550-1 is in proposal phase with no current spend risk.
+## Data Quality Notes
+
+- **Complete:** Project 301-3 has clear budget structure and contract terms
+- **Incomplete:** Unassigned portfolio summary lacks itemized amounts; university subcontract value not specified in 301-3 document
+- **Action Item:** Reconcile 1,181 unassigned budget documents against active project codes to establish comprehensive financial tracking

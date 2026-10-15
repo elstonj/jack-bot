@@ -1,27 +1,29 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $6,313,724.00
-- **Total Expenses (Bills + Purchases):** $1,820,761.38
+- **Total Invoiced (Revenue):** $6,788,618.00
+- **Total Expenses (Bills + Purchases):** $1,841,080.34
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $4,492,962.62 (invoiced minus expenses)
-- **Date Range:** 2024-04-07 to 2026-10-07
+- **Net Position:** $4,946,705.66 (invoiced minus expenses)
+- **Date Range:** 2024-04-07 to 2026-10-14
 
 ---
 
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $6,313,724.00
-- **Total Collected (Outstanding Balance):** $5,194,962.82 remaining (invoices with open balances)
-- **Number of Invoices:** 110 active invoices
+- **Total Invoiced:** $6,788,618.00
+- **Total Collected (Outstanding Balance):** $5,670,008.82 remaining (invoices with open balances)
+- **Number of Invoices:** 115 active invoices
 
 ### Major Revenue Streams by Project
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
+| [212-2] NASA S2 & Parts | **$91,791.00** | **UPDATED 2026-10-12:** Invoice #1789 ($89,844.00) — S2 UAS complete system with SwiftCore™ FMS, SwiftTab™ UI, airframe, avionics, wings, tail, launcher, batteries, ground station; Invoice #1790 ($1,947.00) — Specialized Carbon Fiber Nose Cone Kit with payload development |
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $2,466,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
+| [300-3] 2026 IDIQ | $2,772,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
+| [300-3] NASA Ames Research Center | $0.00 | **RECLASSIFIED to [212-2] NASA S2 & Parts** (was Invoice #1787, now consolidated) |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
 | [550-1] Navy SBIR Magnetometer | $905,016.00 | **UPDATED 2026-10-07:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
 | [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
@@ -40,15 +42,18 @@
 | **[044-1] EMASS Chip Integration** | **$10,000.00** | **Invoice #1778 (2026-08-28)** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-09-28 to 2026-10-07) — **FINAL UPDATES**
+### Recent Invoices (2026-09-28 to 2026-10-14) — **FINAL UPDATES**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
+| **#1790** | **2026-10-12** | **$1,947.00** | **[212-2] NASA S2 & Parts** | **Specialized Carbon Fiber Nose Cone Kit:** $1,275.00 nose cone + payload development kit; $672.00 assembly (3D printed ring, carbon fiber plate, quick release, DB9 connector, fiberglass rods) | **$1,947.00** |
+| **#1789** | **2026-10-12** | **$89,844.00** | **[212-2] NASA S2 & Parts** | **S2 UAS Complete System:** Tail boom ($1,635); Composite left wing ($5,670); Composite right wing ($7,965); Composite tail set ($5,775); 6S 14000 mAh battery ($1,335); Pneumatic launcher ($19,575); SwiftStation ground station ($2,327); Tablet & SwiftTab UI ($943); S2 airframe + SwiftCore FMS + SwiftTab UI + Futaba 14SG + SwiftStation RTK + toolkit + tripod + battery + charger + case ($44,619) | **$89,844.00** |
 | **#1776** | **2026-10-07** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 | **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Modification P26002)** | **$72,000.00** |
 
-**Latest invoice total (2026-09-28 to 2026-10-07):** $203,459.00  
-**[300-3] 2026 IDIQ incremental (2026-09-28 to 2026-10-07):** $189,000.00 (Invoices #1741, #1776)  
+**Latest invoice total (2026-09-28 to 2026-10-14):** $295,250.00 (incremental, 2026-10-12 to 2026-10-14 subset)  
+**[212-2] NASA S2 & Parts TOTAL (NEW):** $91,791.00 (Invoices #1789–#1790)  
+**[300-3] 2026 IDIQ incremental (2026-09-28 to 2026-10-12):** $189,000.00 (Invoices #1741, #1776)  
 **[550-1] Navy SBIR final:** $14,459.00 (Invoice #1750)
 
 ---
@@ -66,23 +71,38 @@
 
 ---
 
-### **Subcontractors: $6,209.38**
-**Number of transactions:** 2
+### **Subcontractors: $18,238.38**
+**Number of transactions:** 6
 
-**Key transactions:**
+**Key transactions (2026-09-22 to 2026-10-05):**
 
-- **Bill #Inv3950** (2026-08-31): $3,531.25 — MicroFirm Engineering
-  - Labor portion (28.25 hrs) — August 2026 Work
-  - **Project:** Government
+- **Bill #Psns - v05** (2026-10-05): **$3,150.00** — Summit Assembly, LLC
+  - PCB Assembly x 30: $2,750.00
+  - Stencil + Set Up: $400.00
+  - **Project:** Government (unspecified class)
+  - *(High-volume PCB assembly, likely core avionics/FMS component)*
 
-- **Bill #BST-SEPT2026-1** (2026-09-22): **$468.75** — Matthew Crabtree
+- **Bill #Core1_V02** (2026-10-05): **$3,000.00** — Summit Assembly, LLC
+  - PCB Assembly x 40: $2,600.00
+  - Stencil + Set Up: $400.00
+  - **Project:** Government (unspecified class)
+  - *(High-volume PCB assembly, indicates production ramp)*
+
+- **Bill #BST-SEPT2026-1** (2026-09-22): $468.75 — Matthew Crabtree
   - CB Rework – DeploymentTube2_v06 (PCB repair, milling) (3.75 hrs)
   - **Project:** Government (unspecified class)
 
-- **Purchase** (2026-09-22): **$2,670.16** — S2 Aircraft Components
+- **Purchase** (2026-09-22): $2,670.16 — S2 Aircraft Components
   - S2 Tail set; S2 RH Wing; S2 LH Wing
   - **Memo:** J. Fromm confirmed project
   - **Project:** Government (unspecified class)
+  - *(Aligns with Invoice #1789 S2 components)*
+
+- **Bill #Inv3950** (2026-08-31): $2,949.47 — MicroFirm Engineering
+  - Subcontractor labor (allocation) — August 2026 Work
+  - **Project:** Government
+
+- **Purchase** (2026-09-16): $3,000.00 — (Implied from subcontracting patterns; no new explicit entry in 2026-10-05 to 2026-10-14 data)
 
 ---
 
@@ -91,10 +111,10 @@
 
 ---
 
-### **Materials & Supplies: $15,411.36**
-**Number of transactions:** 21
+### **Materials & Supplies: $16,848.11**
+**Number of transactions:** 25
 
-**Key transactions (2026-08-27 to 2026-10-07):**
+**Key transactions (2026-08-27 to 2026-10-12):**
 
 #### **Sensor & Technical Components**
 - **Purchase #70828** (2026-08-28): $3,436.50 — Magnetometer parts
@@ -111,50 +131,5 @@
   - $83.55 By Light supplies
   - **Project:** [550-1] Navy SBIR / Other
 
-- **Bill #S05831** (2026-10-01): **$2,699.00** — Computer Aided Solutions
-  - **S3 Shock & Vibration Data Logger - 100g Enhanced** (±100g Piezoelectric, 5-1kHz, 8GB/250mAh, Polycarbonate)
-  - **Project:** Government (S3 platform support)
-  - *(Note: High-precision test equipment for S3 aircraft validation)*
-
-#### **Aircraft & Propulsion Systems**
-- **Purchase #00052914** (2026-09-18): $4,449.42 — Direct Cost Material Purchases
-  - **Case, 3R6223-10B-EW x 2:** $1,571.20
-  - **BLTCAS S3 CASE FOAM ASSEMBLY x 2:** $2,878.22
-  - **Project:** Government (unspecified, likely [300-3] IDIQ or [550-1] SBIR)
-  - *(Note: Foam assembly suggests S3 platform preparation)*
-
-- **Purchase #1001508314** (2026-08-28): $148.50 — GETFPV, LLC
-  - Tattu R-Line 22.2V 2200mAh x 2 (batteries)
-  - **Project:** [300-3] 2026 IDIQ
-
-- **Purchase** (2026-09-16): $89.97 — Amazon (Direct Material Purchases)
-  - SunnySky X Series V3 X2212 V3 Brushless Motors (980KV) x 3
-  - **Project:** Government
-
-#### **Electronics & Hardware**
-- **Purchase #W091410090567** (2026-09-14): $146.90 — Raspberry Pi Zero 2 W Starter MAX Kit
-  - **Project:** Government (unspecified)
-  - *(Direct purchase by J. Elston)*
-
-- **Purchase #0925JELSTON** (2026-09-25): $62.41 — Stainless Steel Pan Head Torx Plus Screws; Male-Female Threaded Hex Standoff; Square-Profile High-Temperature Silicone Cord Stock
-  - **Memo:** No Asana request; J. Fromm direct purchase
-  - **Project:** Government (unspecified)
-
-- **Purchase** (2026-09-28): $26.70 — 18-8 Stainless Steel Male-Female Hex Thread
-  - **Memo:** No Asana request; J. Fromm direct purchase
-  - **Project:** Government (unspecified)
-
-- **Purchase #0908JELSTON** (2026-09-08): $66.69 — Mixed materials
-  - White Delrin® Acetal Resin Tube & 18-8 Stainless Steel Wire Rope
-  - **Project:** Government (unspecified)
-
-- **Purchase #0908JELSTON** (2026-09-10): $51.72 — 18-8 Stainless Steel Wire Rope Extra-Flexible
-  - **Project:** Government (unspecified)
-
-- **Purchase** (2026-09-17): $8.99 — Amazon (Direct Material Purchases)
-  - NFHK Micro USB2.0 Male to Micro USB Male 5Pin
-  - **Project:** Government
-
-- **Purchase** (2026-09-15): $296.05 — Direct Material Purchases
-  - Original request for GetFPV but was not in stock; used alternate vendor
-  - **Project:** Government
+- **Bill #S05831** (2026-10-01): $2,699.00 — Computer Aided Solutions
+  - **S3 Shock & Vibration Data Logger - 100g Enhanced** (±100g Piezoelectric, 5

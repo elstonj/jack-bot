@@ -44,8 +44,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **[2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference** (Daniel Prendergast): Current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
 
 ### Recent Shipment Activity (September 2026)
-- **[2026-09-23 & 2026-09-22]** Meredith Needham reminded team of NASA shipment pickup between 9:30 AM–4 PM. Ethan has accompanying paperwork.
-- **Conference room occupied 2–3 PM** for interview (2026-09-23)
+- **[2026-09-23 & 2026-09-22]** Meredith Needham reminded team of NASA shipment pickup between 9:30 AM–4 PM. Ethan has accompanying paperwork. Conference room occupied 2–3 PM for interview.
 - **NASA S2 pallet specs** (Ethan, 2026-09-21 & 2026-09-18): 48×120 inches, 20 inches tall
 
 ## Notes & Context

@@ -37,36 +37,36 @@
       {
         "category": "Other",
         "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation for satellite communication and land-based C2 capability (Task 2)",
+        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite communication and/or land-based C2 (Task 2)",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 293957.5,
+        "amount": 301988.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-02"
+        "last_updated": "2026-10-05"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-02"
+        "last_updated": "2026-10-05"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 6220.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-02"
+        "last_updated": "2026-10-05"
       },
-      "total": 296126.02,
+      "total": 310377.27,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 186873.98,
+    "remaining": 172622.73,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-02T09:16:39Z"
+    "last_reconciled": "2026-10-05T23:05:29Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -79,12 +79,6 @@
     },
     {
       "name": "Jack Elston",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Maciej Stachura",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -107,10 +101,16 @@
     {
       "source": "FEEDBACK",
       "author": "Spencer Hoehl",
+      "date": "2026-10-02",
+      "text": "From Spencer Hoehl (ts=1790883900.141869): <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Spencer Hoehl",
       "date": "2026-10-01",
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-02T09:16:39Z",
+  "last_full_rebuild": "2026-10-05T23:05:29Z",
   "last_incremental_update": null
 }

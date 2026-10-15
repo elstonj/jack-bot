@@ -4,58 +4,71 @@
 - Client: [001] IRAD
 - Active: Yes
 - Billable: No
-- Total hours tracked: **449.5 hours (cumulative)** ⬆️ (+1.0h)
+- Total hours tracked: **459.6 hours (cumulative)** ⬆️ (+10.1h)
 
 ## Team Allocation
-- **Beck Cotter**: 277.4 hours (61.7% of total) ⬆️ (+1.0h)
-- **Dan**: 112.3 hours (25.0% of total)
-- **Jack Elston**: 41.0 hours (9.1% of total)
-- **Stachura**: 18.7 hours (4.2% of total)
-- **Meredith Needham**: 5.7 hours (1.3% of total)
+- **Beck Cotter**: 277.4 hours (60.3% of total)
+- **Dan**: 112.3 hours (24.4% of total)
+- **Jack Elston**: 41.0 hours (8.9% of total)
+- **Stachura**: 28.8 hours (6.3% of total) ⬆️ (+10.1h)
+- **Meredith Needham**: 5.7 hours (1.2% of total)
 - **Nate**: 1.8 hours (0.4% of total)
 
 **Primary contributors:**
-- **Beck Cotter** — 277.4h cumulative (61.7%); **sustained NOAA focus with micro-batch cadence** ⬆️ (+1.0h); cumulative acceleration now **103.7h over eight consecutive batches** (7.2h → 3.5h → 16.0h → 44.0h → 16.0h → 8.0h → 8.0h → 1.0h)
-- **Dan** — 112.3h cumulative (25.0%); stable baseline; leadership/oversight role
-- **Jack Elston** — 41.0h cumulative (9.1%); external engagement; NOAA proposal & whitepaper work
+- **Beck Cotter** — 277.4h cumulative (60.3%); NOAA focus; now in micro-batch cadence (1.0h last batch)
+- **Dan** — 112.3h cumulative (24.4%); stable baseline; leadership/oversight role
+- **Stachura** — 28.8h cumulative (6.3%); **newly activated surge** ⬆️ (+10.1h current batch); now second-most-active contributor in this batch
+- **Jack Elston** — 41.0h cumulative (8.9%); external engagement; paused last five batches
 
 ## Activity Timeline
 
-**Current batch (1.0 hour):**
-- **Beck Cotter**: 1.0h (NOAA) = **1.0h** [two 0.5h entries]
+**Current batch (10.1 hours):**
+- **Stachura**: 10.1h (8 entries, all undocumented) = fragmented work pattern
+  - Entry breakdown: 0.5h, 1.9h, 1.0h, 1.3h, 2.0h, 1.2h, 0.9h, 1.3h
 
 **Recent trajectory (last 8 batches):**
-- Beck Cotter: **1.0h (current)** [NOAA; documented] ← 8.0h [NOAA; documented] ← 8.0h [NOAA; documented] ← 16.0h [NOAA IDIQ + NOAA] ← 44.0h [undocumented] ← 16.0h ← 3.5h ← 7.2h
-- Pattern: **Transition from plateau to micro-batch engagement** — After two consecutive 8.0h batches, now stepped down to 1.0h; suggests shift from sustained work blocks to lightweight touch-base entries; may indicate proposal finalization, submission phase, or transition to lower-priority status
-- Dan: **Dormant last five batches**; previous activity (12.0h) remains anomalous
-- Jack Elston: **Dormant last five batches**
+- Beck Cotter: **1.0h (last batch)** → 8.0h → 8.0h → 16.0h → 44.0h → 16.0h → 3.5h → 7.2h (NOAA-focused; micro-batch phase)
+- Stachura: **10.1h (current batch, NEW SURGE)** ← dormant previous five batches ← 18.7h cumulative (prior batches)
+- Dan: Dormant (last five batches)
+- Jack Elston: Dormant (last five batches)
+
+**Pattern shift**: Stachura reactivated with significant multi-entry sprint after extended dormancy; Beck Cotter continues lightweight NOAA micro-batch work; Dan and Jack remain paused.
 
 ## Insights
 
 **Types of work** (from documented entries):
-- **NOAA Proposal (general)** — Beck Cotter, 1.0h (current batch); 8.0h (prior batch); 8.0h (two batches prior)
-- **NOAA IDIQ Proposal Development** — Beck Cotter, 8.0h (three batches prior)
-- **General proposal development** — Beck Cotter (undocumented 44.0h, five batches ago)
-- **NOAA Proposal & BST Whitepaper** — Jack Elston (earlier cycles); finalization/review phases
-- **Leadership/Oversight** — Dan (ad-hoc, dormant)
+- **Stachura**: 10.1h current batch — **undocumented; no descriptions provided**
+  - Work type unknown; cannot infer from Toggl data alone
+  - Prior Stachura activity (18.7h cumulative) also lack granular documentation
+- **Beck Cotter**: NOAA Proposal (general), NOAA IDIQ development, general proposal development
+- **Dan**: Leadership/oversight (dormant)
+- **Jack Elston**: NOAA Proposal & BST Whitepaper (paused)
 
 **Work patterns:**
 
-- **Beck Cotter: NOAA micro-batch shift** ⬆️
-  - **Eight-batch execution surge**: 7.2h + 3.5h + 16.0h + 44.0h + 16.0h + 8.0h + 8.0h + 1.0h = **103.7h over eight consecutive batches**
-  - **New micro-batch phase**: Plateau (8.0h × 2 batches) → step-down to micro-batch (1.0h); discontinuity suggests work nature/cadence change
-  - **Documentation: 100% current batch, opaque historical**
-    - Current batch fully described (NOAA general, two 0.5h fragments)
-    - 5 batches ago still lacks granular description (44.0h undocumented)
-  - **Workstream clarity**: NOAA proposals dominant throughout; other IRAD proposals status unknown
-  - **Interpretation**: NOAA work continues but at reduced commitment per batch (1.0h suggests routine check-in, minor refinement, or monitoring rather than active development); may indicate proposal under review, awaiting feedback, or deprioritized pending outcome
+- **Stachura: Reactivation surge** ⬆️ 🔴 **Documentation concern**
+  - **10.1h in current batch**: Largest single-batch contribution from Stachura recorded
+  - **Fragmented entries** (eight time chunks over session): Suggests iterative work, multiple parallel activities, or session interruptions
+  - **Zero documentation**: All eight entries lack description; work nature entirely opaque
+  - **Dormancy break**: After five silent batches, sudden return to active status; trigger/context unknown
+  - **Escalation risk**: Cumulative Stachura hours now 28.8h (6.3% of project); if pattern continues, will become third-largest contributor, requiring visibility into work type
 
-- **Documentation discipline: MAINTAINED** 🟢
-  - Current batch 100% described (two 0.5h entries)
-  - Historical gap (44.0h) static; no new opacity
-  - Fragment-level clarity improving (0.5h granularity visible)
+- **Beck Cotter: Micro-batch consolidation**
+  - Continuing 1.0h lightweight entries (NOAA focus); pattern stable
+  - Cumulative eight-batch surge (103.7h) now extended to 104.7h with this cycle
+  - Work scope appears narrowing (proposal finalization, monitoring, or deprioritization phase)
 
-- **Team engagement: Stable baseline**
-  - Beck Cotter: Primary driver; now modulating to micro-batch intensity (1.0h)
-  - Dan: Baseline oversight only; no recent activation
-  - Jack Elston: Paused
+- **Documentation discipline: REGRESSION** 🔴
+  - Current batch: Stachura 10.1h, 0% documented
+  - Prior batch: Beck Cotter 1.0h, 100% documented
+  - **Action required**: Stachura entries require retroactive description for workstream clarity
+
+- **Team engagement: Tier shift**
+  - Primary: Beck Cotter (micro-batch sustained)
+  - Secondary: Dan (oversight baseline, dormant)
+  - Emerging/fluctuating: Stachura (reactivated; now momentarily largest batch contributor)
+  - Paused: Jack Elston
+
+---
+
+**⚠️ Recommendation**: Obtain work descriptions from Stachura for current 10.1h batch to maintain project transparency and track proposal workstream priorities.

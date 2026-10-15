@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,611,549.08
+- **Total Expenses (Payments):** $3,627,549.08
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,611,548.08
-- **Date Range:** 2024-04-05 to 2026-09-30 (28 months, 26 days)
+- **Net Position:** -$3,627,548.08
+- **Date Range:** 2024-04-05 to 2026-10-05 (29 months, 1 day)
 
 ---
 
@@ -28,15 +28,15 @@
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~15 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142) |
-| **Subcontractors** | ~$400,500–513,375 | ~30 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), **NOAA ($375.00)**, IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
-| **Equipment** | ~$600,000–800,000 | ~20 | Navy SBIR/STTR programs, By Light Mustang ($350K), equipment-focused projects |
+| **Subcontractors** | ~$400,500–513,375 | ~30 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), NOAA ($375.00), IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
+| **Equipment** | ~$616,000–816,000 | ~22 | Navy SBIR/STTR programs, By Light Mustang ($350K), **EMASS Chip Integration ($16,000.00)**, equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
 | **Indirect Costs / G&A** | ~$991.51 | 11 | QuickBooks Payments fees (cumulative: **$888.51**), Pinnacol Assurance insurance ($103.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other / Unallowable** | ~$0.01 | 1 | Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs] |
-| **TOTAL** | **$3,611,549.08** | **112** | — |
+| **TOTAL** | **$3,627,549.08** | **114** | — |
 
 ---
 
@@ -82,13 +82,19 @@
 | (unclassified) | Toyota Research Institute | $750.00 | 1 | — |
 | (unclassified) | Nestor Rivera | $500.00 | 2 | — |
 | (unclassified) | NOAA UASD | $4,580.00 | 1 | — |
-| (unclassified) | **NOAA** | **$375.00** | **1** | **NEW 2026-09-25** |
+| (unclassified) | NOAA | $375.00 | 1 | — |
 | (unclassified) | IRISS, CU Boulder | $664.98 | 1 | — |
 | (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 | — |
 | (unclassified) | Pinnacol Assurance | $103.00 | 1 | — |
 | (unclassified) | Jack Elston – v | $0.01 | 1 | — |
-| (unclassified) | QuickBooks Payments Fees | **$888.51** | **9** | **+$17.69 on 2026-09-25** |
-| **TOTAL** | | **$3,611,549.08** | **112** | — |
+| (unclassified) | QuickBooks Payments Fees | $888.51 | 9 | — |
+| **[044-1]** | **EMASS Chip Integration** | **$16,000.00** | **2** | **NEW 2026-10-02** |
+| **TOTAL** | | **$3,627,549.08** | **114** | — |
+
+---
+
+## Purchase Orders
+No purchase orders on record.
 
 ---
 
@@ -113,5 +119,3 @@
 | 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) | — |
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
-| 2025-09 | $112,000.00+ | *[Previous summary]* | — |
-| 2026-08 | $0.00 | —

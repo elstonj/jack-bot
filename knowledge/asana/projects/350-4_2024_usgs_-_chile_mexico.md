@@ -7,77 +7,73 @@
   - Kevin Pesola (kpesola@usgs.gov, USGS Vancouver office, 1300 SE Cardinal Court Suite 100, Vancouver, WA 98683, (360) 993-8963)
 - **Dollar Value**: $124,230 (total budget and funding to BST)
 - **Contract**: 140G0323P0280
-- **Timeline**: Contract end date August 30, 2025; **DEPLOYMENT RESCHEDULED TO FALL 2026** (originally April 20, 2026). Current task due dates cluster around late October through early November 2026.
-- **Status**: **ACTIVE — MISSION PREP PHASE** — Deployment rescheduled to Fall 2026. As of November 22, 2026, 9 open milestones/tasks spanning flight testing, payload updates, aircraft/equipment shipping, and AFAC flight approvals. **CRITICAL: Multiple overdue tasks** (AFAC approval email due Oct 5, spare parts list due Nov 2, both now overdue as of Nov 22). Batteries previously shipped to Mexico (May 2026) with permanent import fees paid; customs details under review.
+- **Timeline**: Contract end date August 30, 2025; **Current deployment window Jan/Feb (per admin notes — consult Maciej Stachura for verification)**
+- **Status**: **ACTIVE — MISSION PREP PHASE** — All tracked Asana tasks now closed. AFAC approval email completed Oct 7, 2026 (2 days overdue, but resolved). Recommend confirming completion status of remaining pre-deployment milestones with team.
 - **Team Members**: Maciej Stachura (owner/project lead), Jack Elston, Dan Prendergast, Josh Fromm, Nate Straus, Ethan Domagala, Meredith O'Hara Needham
 - **Priority**: Medium (Government customer)
 - **Risk Signals**: 
-  - **Overdue AFAC approval task** (Dan Prendergast, due Oct 5 — 47 days late as of Nov 22)
-  - **Overdue spare parts/packing list** (Josh Fromm, due Nov 2 — 20 days late as of Nov 22)
-  - **9 open tasks with no completed tasks in latest snapshot** — suggests backlog has grown or Asana was not updated for recent completions
-  - **Multiple unassigned critical milestones** (flight/radio/shipping/import permissions, payload updates, local flight testing, aircraft/equipment shipping)
+  - All major milestones from Oct–Nov 2026 have been closed in Asana, but actual completion status (payload updates, aircraft shipping, flight approvals, local testing) should be verified with team.
+  - Deployment date has shifted multiple times (April 2026 → Fall 2026 → Jan/Feb). Confirm current schedule with Maciej Stachura.
 
 ## Key Deliverables & Milestones
 
-### Completed (from prior knowledge file)
+### Completed
 - ✅ **Package and Ship S2 Equipment** | Dan Prendergast | Completed: January 22, 2026
 - ✅ **Verify Operator Manual and Flight CONOPS submitted to AFAC** | Dan Prendergast | Completed: September 6, 2026
 - ✅ **Make decision on LUD to take over for AV3** | Dan Prendergast | Completed: September 17, 2026
 - ✅ **Put together flight plans using google earth markup** | Dan Prendergast | Completed: September 28, 2026
+- ✅ **Email Christoph and Angie about AFAC difficulties** | Dan Prendergast | Completed: October 7, 2026 (due Oct 5, **2 days overdue**)
 
-### Open Milestones & Tasks (as of Nov 22, 2026)
-- **Sort out flight, radio, shipping, and import permissions** | Unassigned | Due: 2026-11-04 | **OVERDUE 18 days**
-- **Finish payload updates** | Unassigned | Due: 2026-10-23 | **OVERDUE 30 days**
-- **Conduct local flight testing** | Unassigned | Due: 2026-11-06 | **OVERDUE 16 days**
-- **Ship Aircraft and Equipment** | Unassigned | Due: 2026-10-26 | **OVERDUE 27 days** | Notes: "On" (incomplete)
-- **Test props for operations at 5700m** | Maciej Stachura | Due: 2026-10-30 | **OVERDUE 23 days**
-- **Look into overheating at Murray State** | Maciej Stachura | Due: 2026-10-30 | **OVERDUE 23 days**
-- **Spare parts and packing list** | Josh Fromm | Due: 2026-11-02 | **OVERDUE 20 days**
-- **Email Christoph and Angie about AFAC difficulties** | Dan Prendergast | Due: 2026-10-05 | **OVERDUE 48 days**
-- **Obtain flight approvals from AFAC** | Dan Prendergast | Due: 2026-10-19 | **OVERDUE 34 days**
+### Previously Open (Status Now Unknown)
+Prior Nov 22, 2023 snapshot listed 9 open milestones due Oct 5 – Nov 6, 2026:
+- Finish payload updates (due Oct 23)
+- Ship Aircraft and Equipment (due Oct 26)
+- Test props for operations at 5700m
+- Look into overheating at Murray State
+- Obtain flight approvals from AFAC
+- Spare parts and packing list
+- Sort out flight, radio, shipping, and import permissions
+- Conduct local flight testing
+
+**All appear to have been closed in current Asana snapshot.** Recommend confirming with team whether these were completed, rescheduled, or archived.
 
 ## Task Summary
-- **Total Open Tasks**: 9 (from Nov 22 raw data snapshot; prior knowledge file listed 1 open + 4 completed)
-- **Completed Tasks**: 4 (all from Sept 2026 or earlier; no recent completions logged in Nov 22 snapshot)
-- **Tasks by Assignee**:
-  - **Maciej Stachura**: 2 open (test props at 5700m, overheating investigation at Murray State)
-  - **Dan Prendergast**: 2 open (email AFAC difficulties, obtain flight approvals from AFAC)
-  - **Josh Fromm**: 1 open (spare parts and packing list)
-  - **Unassigned**: 4 critical milestones (flight/radio/shipping/import permissions, payload updates, local flight testing, aircraft/equipment shipping)
-- **Notable Pattern**: Four major milestones remain unassigned; Dan Prendergast owns both AFAC-related blockers; Maciej Stachura has two technical investigation tasks; Josh Fromm has one overdue logistics task. **High concentration of overdue work suggests delays or stalled progress.**
+- **Total Open Tasks (current)**: 0
+- **Completed Tasks (showing)**: 1 (AFAC email, Oct 7, 2026)
+- **Primary Assignee**: Dan Prendergast
+- **Project Owner**: Maciej Stachura
+- **Notable Pattern**: Dramatic reduction from 9 open milestones (as of Nov 22, 2023 status update) to 0 open tasks in current data. This suggests either bulk closure/archival of tasks or project tracking has moved outside Asana. **Actual completion status of payload updates, aircraft shipping, flight approvals, and local testing should be verified with the team.**
 
 ## Recent Activity
 
-### November 22, 2026 (LATEST SNAPSHOT)
-**Status update generated.** **9 open tasks, 0 recently completed tasks logged.** Multiple overdue milestones:
-- **Payload updates** overdue 30 days (due Oct 23)
-- **Ship aircraft/equipment** overdue 27 days (due Oct 26)
-- **Test props at 5700m** and **overheating investigation** both overdue 23 days (due Oct 30)
-- **Spare parts/packing list** overdue 20 days (due Nov 2)
-- **Obtain AFAC flight approvals** overdue 34 days (due Oct 19)
-- **Email AFAC about difficulties** overdue 48 days (due Oct 5)
-- **Flight/radio/shipping/import permissions** overdue 18 days (due Nov 4)
-- **Local flight testing** overdue 16 days (due Nov 6)
+### October 7, 2026
+- ✅ **Email Christoph and Angie about AFAC difficulties** completed by Dan Prendergast (2 days after Oct 5 due date) — critical AFAC approval email resolving blocking issue
 
-**Interpretation**: No updates logged between late September 2026 and Nov 22 snapshot. Tasks have slipped across October–November. Critical blockers (AFAC approvals, payload updates, aircraft shipping) are stalled. Four milestones remain unassigned, suggesting capacity or coordination issues.
-
-### September 28, 2026 (PRIOR)
-✅ **COMPLETED**: "Put together flight plans using google earth markup" (Dan Prendergast)
-
-### September 17, 2026 (PRIOR)
-✅ **COMPLETED**: "Make decision on LUD to take over for AV3" (Dan Prendergast)
-
-### September 6, 2026 (PRIOR)
-✅ **COMPLETED**: "Verify Operator Manual and Flight CONOPS submitted to AFAC" (Dan Prendergast)
+### September 2026
+- Sept 6: ✅ Verified operator manual and CONOPS submitted to AFAC
+- Sept 17: ✅ LUD assignment decision made
+- Sept 28: ✅ Flight plans finalized
 
 ## Notes & Context
 
-- **Mission Purpose**: S3 aircraft deployment to Mexico (project title references "Chile" but all operational comms reference Mexico) for volcanic gas sampling using Multi-sensor Head Package (MHP), survey services, and aircraft rental (LUD coordinator)
+- **Mission Purpose**: S3 aircraft deployment to Mexico (project title references "Chile" but all operational details reference Mexico) for volcanic gas sampling. Deliverables include Multi-sensor Head Package (MHP), survey services, and aircraft rental (LUD coordinator).
 
 - **Deployment Timeline**: 
-  - **Originally planned**: April 20, 2026
-  - **Rescheduled**: Fall 2026
-  - **Current status as of Nov 22, 2026**: Mission prep stalled. All October–November 2026 task due dates are now past, with no logged completions. Unclear whether:
-    - Tasks have been completed off-Asana and not closed in system
-    - Work is genuinely stalled waiting on blockers (e.g., AFAC approvals)
-    - Team is waiting on customer/external parties (CENAPED, AFAC
+  - Originally planned: April 20, 2026
+  - Rescheduled to: Fall 2026
+  - **Current plan: Jan/Feb timing** (per admin custom field "Working with USGS on Jan/Feb timing [see Maciej for updates]")
+  - **Status as of Nov 22, 2023**: Multiple overdue milestones tracked
+  - **Current status unknown** — verify with Maciej Stachura for confirmed schedule and actual completion of remaining pre-deployment tasks.
+
+- **Logistics/Customs**:
+  - Batteries shipped to Mexico (May 2026)
+  - Permanent import fees paid
+  - Customs details under review
+
+- **AFAC Approvals**: Critical AFAC approval email completed Oct 7, 2026 — slightly overdue but now resolved. This was a blocking milestone for downstream work.
+
+- **Data Consistency & Recommendation**: 
+  - Nov 22, 2023 status update showed 9 overdue/incomplete milestones due Oct 5 – Nov 6, 2026.
+  - Current Asana snapshot shows 0 open tasks and only 1 completed task (AFAC email).
+  - **Likely scenarios**: (1) Tasks completed and bulk-archived without detailed logging; (2) Project tracking has moved to external system; (3) Tasks remain in progress but not updated in Asana.
+  - **Action**: Confirm with Maciej Stachura and team the completion status of payload updates, aircraft shipping, flight approvals, local testing, and spare parts/packing list. Verify Jan/Feb deployment window and any outstanding pre-deployment work.

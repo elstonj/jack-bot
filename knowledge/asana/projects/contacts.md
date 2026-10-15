@@ -29,7 +29,7 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Government invoice portals**: PIEE (Navy/Air Force), IPP (NASA/NOAA/USGS)
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 4 open, 0 completed
 - **Tasks by assignee**: All unassigned (contact records only)
 - **Data structure**: Each "task" represents a contact with structured custom fields:
   - Company/Agency/Name
@@ -54,13 +54,11 @@ This is a contact database, not a project with deliverables. Contains 100+ conta
 - **Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC** — Law firm (transactional law); Dan Fredrickson, dfredrickson@kofirm.com, 2475 Broadway Boulder CO 80304; https://kofirm.com/
 - **W. W. Reynolds Companies** — Landlord (Wilderness Pl); Amy Smith, ar@wwreynolds.com, 1320 Pearl Street #300 Boulder CO 80302, (303) 442-8687 mobile (303) 941-8243; https://wwreynolds.com/
 - **Atwood Insurance Group** — Health insurance broker; Chad Atwood, chad@theaiginc.com, (970) 481-1492; P.O. Box 38, Severance CO 80546; https://theaiginc.com/; contact annually in April for health plan renewal
-- **Claudia Behnke** — Accounting/bookkeeping; chbehnke@mac.com, (303) 938-9869; 8373 Larkspur Rd. Boulder, CO 80302
+- **Claudia Behnke** — Accounting/bookkeeping; chbehnke@mac.com, (303) 938-9869; 8373 Larkspur Rd. Boulder, CO 80302; worked with Beck at her previous job
 - **ReliAscent** — DCAA Accounting Firm; Christy Evans (contact), cevans@ReliAscent.com, (303) 999-3815; 10170 Church Ranch Way, Suite 220, Westminster, CO 80021; https://www.ReliAscent.com
 - **Paramount Tube** — Precision products supplier; Gerald Yoquelet (Sales), gyoquelet@ppgintl.com, (260) 918-2127; 1430 Progress Road, Fort Wayne IN 46808; https://www.paramounttube.com
 - **K-Mac Plastics** — Precision products supplier; Marlo Gillion (contact), marlo@kmac-distribution.com, (616) 406-0671; 3821 Clay St SW, Wyoming MI 49548; https://www.k-mac-plastics.com/
 - **Human Interest** — 401k Provider; Address: 655 Montgomery St, Suite 1800, San Francisco, CA 94111; Phone: (877) 475-0179; Website: https://humaninterest.com/
-- **WorldWide Express (WWEX)** — UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; **Note**: As of 2025, all UPS shipments are billed through WWEX
-- **Nick Underwood (NOAA)** — NOAA Aircraft Operations Center; nicholas.underwood@noaa.gov; Address: 3450 Flightline Drive, Lakeland, FL 33811; Phone: (863) 500-3900
-- **Joe Cione (NOAA)** — NOAA contact; joe.cione@noaa.gov, (719) 357-8259; Address: 3090 Center Green Dr. Boulder, CO 80301
-- **Microhard Systems, Inc.** — Jeff Catherwood (Sales Rep); jcatherwood@microhardcorp.com; Address: 150 Country Hills Landing NW, Calgary, AB T3K 5P3; Phone: (403) 248-0028 x2250
-- **Green Apple Cleaning
+- **WorldWide Express (WWEX)** — UPS authorized reseller; Kelsie Pierson (Account Manager), kelsie.pierson@wwex.com, support@wwex.com; Address: 3513 Brighton Blvd Suite 360, Denver, CO 80216; Phone: (214) 927-6575; Website: www.speedship.com; Account #: W002346756; **Note**: As of 2025, all UPS shipments are billed through WWEX. Any issues or help needed with shipments should go through WWEX.
+- **Aeronet Worldwide** — Freight Shipper (replacing FreightPros); Patrick Mulstay (Denver Office contact), pmulstay@aeronet.com; Mobile: (303) 549-7626, Office: (303) 741-8996; Address: 14 Inverness Drive East, Building H, #120, Englewood, CO 80112; ID #: 823121; https://www.aeronet.com/
+- **Nick Underwood (NOAA)** — NOAA Aircraft Operations Center; nicholas.underwood@noaa.gov; Address: 3450 Flightline Drive, Lakeland, FL 33811;

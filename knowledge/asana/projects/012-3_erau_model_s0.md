@@ -4,7 +4,7 @@
 - **Client/Customer:** Embry-Riddle Aeronautical University (ERAU)
 - **Dollar Value:** $2,462.50
 - **Timeline:** Start 2026-06-25, Due 2026-06-25 (delivery target June 30, 2026 per project notes)
-- **Status:** **Completed** — shipment task closed 2026-07-02 (7 days after due date)
+- **Status:** **Completed** — shipment delivered 2026-07-02 (within extended delivery window)
 - **Team Members:** Meredith O'hara Needham (execution), Josh Fromm (project owner)
 
 ## Key Deliverables & Milestones
@@ -14,13 +14,15 @@
   - Value: $2,462.50
 
 ## Task Summary
-- **Total:** 0 open, 1 completed
-- **By Assignee:** Meredith O'hara Needham (1 completed task – 100% of project work)
+- **Total:** 0 open, 0 active in Asana
+- All tasks have been closed out post-delivery
 
 ## Recent Activity
-**Shipment task completed 2026-07-02** by Meredith O'hara Needham — seven days after the due date of 2026-06-25, but within the extended delivery window of June 30 noted in project notes. Project is now closed.
+**Shipment completed 2026-07-02** by Meredith O'hara Needham — within the June 30 delivery window noted in project notes.
+
+**Follow-up Request (2026-10-01 & 2026-10-02):** Joshua Fromm has requested a quick setup/packing video for the S0 demo model. *This appears to be a post-delivery support/documentation need, not part of the original delivery scope.*
 
 ## Notes & Context
-- **Priority Context (Historical):** Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU + Barbados) were identified as BST's **#2 highest priority** after S3 IRAD. This ERAU delivery was part of a two-unit S0-VTOL deployment.
+- **Priority Context (Historical):** Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU + Barbados) were identified as BST's **#2 highest priority** after S3 IRAD.
 - Customer Type: Commercial
-- Project notes reference attached email request for additional context.
+- Project is archived in Asana but Joshua Fromm's October feedback suggests ongoing customer engagement around documentation/training materials for the delivered unit.

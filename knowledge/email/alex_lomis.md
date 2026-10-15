@@ -1,41 +1,87 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 468 emails (435 previous + 33 new)
-- **Date range:** Thu, 20 Aug 2026 – Fri, 02 Oct 2026 (74-day window)
-- **Approximate volume:** Sustained heavy activity; ~6.3 emails/day average. Automated/transactional emails remain dominant (~75% of volume). New batch (Oct 1–2) confirms continued SOCOM/military task assignment, Navy liaison meetings, procurement activity, vendor engagement, and internal coordination. **Oct 1 spike:** 24 emails in single day shows end-of-quarter activity, task assignments, and meeting documentation surge.
+- **Total messages scanned:** 580 emails (557 previous + 23 new)
+- **Date range:** Thu, 20 Aug 2026 – Wed, 14 Oct 2026 (86-day cumulative window)
+- **Approximate volume:** Sustained heavy activity; ~6.7 emails/day average across full period. Automated/transactional emails remain dominant (~79% of volume). New batch (Oct 13–14) shows intensified vendor engagement on imaging/camera systems (Videology OEM cameras), hardware integration (801 Dev Kit from Aegis), continued procurement activity (McMaster-Carr, Global Industrial), and internal project documentation (Navy Phase I Wrap-up notes via Gemini).
 
 ## Key Correspondents
 
-### Top Senders
-1. **Purchasing alias** (purchasing@blackswifttech.com) — ~125+ emails routed (order confirmations, tracking, shipments, invoices, promotions, billing)
-2. **Asana** (no-reply@asana.com, learn@go.asana.com) — 28+ emails (task assignments, overdue notifications, task summaries; **NEW: Oct 1 saw 3 major task assignments from Dan Prendergast for SOCOM Pope datalink work: "Datalink radio selection and integration," "Datalink radio selection and comm protocol development," "Datalink and comm protocol development"**)
-3. **McMaster-Carr** — 14+ emails (order confirmations, receipts, tracking; **NEW: September 30th order receipt Oct 1**)
-4. **Global Industrial** — **6+ emails NEW** (order confirmations, partial shipments, case resolutions Oct 1; appears to be new vendor relationship)
-5. **UPS, USPS, Pirate Ship, Spindrift Market, AVLGEAR** — 16+ combined (tracking, receipts, subscription orders; **NEW: Pirate Ship receipt Oct 2, Spindrift subscription Oct 2**)
-6. **Beck Cotter** (beck.cotter@blackswifttech.com) — **23+ emails** (primary Navy liaison, SOCOM/SBIR coordination, TCE 26.2 meeting organizer, Ultra Maritime Phase II meetings, NOAA multi-agency, Navy Phase I Wrap-up, Option Period wrap-up, co-recipient on all major meetings)
-7. **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **12+ emails** (Navy NAWCAD, TCE 26.2 team/status, Navy Phase I Wrap-up, Option Period wrap-up, **NEW: Recipient of Jack Elston's BST After Action Review and Corrective Procedure email for TCE 26.2 Oct 1**)
-8. **Joshua Fromm** (josh.fromm@blackswifttech.com) — **13+ emails** (co-recipient on military meetings, Navy SBIR check-in, shop facility planning, TCE test packing, SITREP/TAK coordination, Flight Regulations Review, **NEW: Co-recipient on CJFC Engineering Sprint - BST Coordination forward from Dan Prendergast Oct 1**)
-9. **Maciej Stachura** (stachura@blackswifttech.com) — **14+ emails** (NOAA research, Navy SBIR Phase II, TCE 26.2, Ultra Maritime Phase II, S0 COTS WAIVER, Flight Regulations Review, **NEW: Replied to Beck Cotter on Option Period wrap-up Oct 1**)
-10. **Jack Elston** (elstonj@blackswifttech.com) — **16+ emails** (NOAA research N42/N43, co-recipient on Navy meetings, TCE 26.2, S0 COTS WAIVER, Black Swift Team addition, Flight Regulations Review, **NEW: Sent 2 critical emails to Navy NAWCAD team (Brescia, Pyrah, Ruiz-Reyes) on Oct 1 regarding BST After Action Review and Corrective Procedure: TCE 26.2, marked IMPORTANT**)
-11. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — **7+ emails** (co-recipient on Navy meetings, team member, **NEW: Co-recipient on CJFC Engineering Sprint forward Oct 1**)
-12. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **8+ emails NEW** (SOCOM Pope project lead; assigned 3 critical datalink tasks Oct 1; forwarded CJFC Engineering Sprint coordination Oct 1 to Fromm, Domagala, Lomis; also contacted Chani Ben Simon at NextVision Systems on Oct 1 regarding "DragonEye2 and TRIP Quote," marked IMPORTANT)
-13. **Paul DeMond** (Paul.DeMond@umaritime.com) — **5+ emails** (Navy SBIR Phase II N251-016, Ultra Maritime partnership)
-14. **Daniel Klier** (daniel.e.klier.civ@us.navy.mil) — **4+ emails** (Navy NSWC IHD, TCE 26.2, Black Swift Team addition)
-15. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — **4+ emails** (Flight Regulations Review organizer, Oct 1 meeting documentation)
-16. **Gemini** (gemini-notes@google.com) — **6+ emails NEW** (Notes documentation; **NEW: "Flight Regulations Review (Pendleton Breakdown)" Oct 1, 2026 notes sent Oct 1; pattern of meeting documentation continues**)
-17. **Slack** (no-reply-EAZZk5S60zZTpg1P06rnGT4I@slack.com) — **1 email NEW** (Confirmation code Oct 1, marked IMPORTANT; suggests recent Slack channel or workspace activation)
-18. **Tommy Drain** (tdrain@taylormarketing.com) — **1 email NEW** (External: "Omnetics Meeting" Oct 1, marked IMPORTANT; appears to be marketing/business development contact)
-19. **Mayank Kejriwal** (kmayank@getgrailai.com) — **1 email NEW** (External: Reply to Alex on "Thoughts on scientific UAS platforms" Oct 1, marked IMPORTANT; research/platform partnership discussion)
-20. **Chani Ben Simon** (chani.bs@nextvision-sys.com) — **1 email NEW** (External: Recipient of Daniel Prendergast inquiry on "DragonEye2 and TRIP Quote" Oct 1; vendor/sensor systems contact)
-21. **Elise I** (elise@machinetek-usa.com) — **1 email NEW** (External: "Supporting Black Swift Technologies with Composite Fabrication Solutions" Oct 1, marked IMPORTANT; manufacturing/composite vendor outreach)
-22. **Protolabs** (news@protolabs.com) — **1 email NEW** (October updates and events Oct 1, marked IMPORTANT; rapid prototyping/manufacturing service)
-23. **GetFPV** (noreply@getfpv.com) — **1 email NEW** (New products alert Oct 1, marked IMPORTANT/CATEGORY_UPDATES; drone/FPV parts vendor)
-24. **Grafana Labs** (update@grafana.com) — **2+ emails** (ObservabilityCON promotion final hours Oct 1, marked IMPORTANT; infrastructure/monitoring vendor)
-25. **Synopsys, Vaisala, HeliDirect, Sealing Devices** — Promotions/vendor communications (ongoing)
+### Top Senders (Cumulative)
+1. **Purchasing alias** (purchasing@blackswifttech.com) — ~175+ emails routed (**NEW: WireCare.com order Oct 14, Samsung Direct Case 393928678 Oct 14, McMaster-Carr receipts/confirmations Oct 13–14, Global Industrial promos Oct 13–14, Pirate Ship shipping receipts Oct 14, Aerellano billing invoices Oct 13**)
+2. **Asana** (no-reply@asana.com) — 30+ emails
+3. **McMaster-Carr** — 20+ emails (**NEW: Oct 13–14 order confirmations, tracking certificates, receipts**)
+4. **Global Industrial** — ~15+ emails (**NEW: Oct 13–14 promotional recommendations, order inquiries**)
+5. **Thomas Garcia** (TGarcia@videologyinc.com) — **6+ emails NEW** (Videology Inc. OEM camera vendor; multiple introduction/meeting requests Oct 14, marked IMPORTANT; rapid escalation sequence suggests active business development or urgent integration need; received automatic reply; Alex sent response Oct 14 09:45 AM)
+6. **David Naranjo** (david@aegiselect.com) — **1 email NEW** (Aegis Electronics; "801 Dev Kit" inquiry Oct 13, marked IMPORTANT; Alex forwarded to Beck Cotter Oct 13; suggests hardware integration or evaluation)
+7. **NOAA Federal personnel:**
+   - **Joe Cione** (joe.cione@noaa.gov) — 4+ emails (FY27 UxSOC UMS Services RFP)
+   - **Danielle Varwig** (danielle.varwig@noaa.gov) — 2+ emails (Emerging Tech FY26 Hotwash)
+8. **Jack Elston** (elstonj@blackswifttech.com) — 18+ emails
+9. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 12+ emails
+10. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 14+ emails (**NEW: Recipient of Pirate Ship shipping receipts Oct 14**)
+11. **Maciej Stachura** (stachura@blackswifttech.com) — 15+ emails
+12. **Beck Cotter** (beck.cotter@blackswifttech.com) — 25+ emails (**NEW: Recipient of 801 Dev Kit forward Oct 13**)
+13. **Cory Dixon** (cory.dixon@blackswifttech.com) — 2+ emails
+14. **NextVision Systems** (Chani Ben Simon, Oren Nissim) — 4+ emails
+15. **GetFPV** (noreply@getfpv.com) — **4+ emails NEW** (Promotional/cart abandonment, "Your gear is waiting for you" Oct 13, marked IMPORTANT and UPDATES; continues hobbyist/corporate drone interest pattern)
+16. **Workswell** (sales@workswell.eu) — **1 email NEW** (Thermal imaging/sensing vendor; event promotion "FUTURE FORCES 2026 IN PRAGUE" Oct 14, marked IMPORTANT; suggests aerospace/defense trade show participation or market interest)
+17. **Gemini** (gemini-notes@google.com) — **1 email NEW** (Google Docs AI note export; "Navy Phase I Wrap-up" Oct 13, marked IMPORTANT; suggests active project documentation and milestone completion)
+18. **Meredith Needham** (meredith.needham@blackswifttech.com) — 4+ emails
+19. **Krateo Sky contractors** — 1 email
+20. **Daisy Valenzuela** (DValenzuela@globalindustrial.com) — 3 emails
+21. **Tommy Drain** (tdrain@taylormarketing.com) — 1 email
+22. **Sarah** (sarah@fcm.com.sg) — 2+ emails
+23. **Elise I** (elise@machinetek-usa.com) — 1 email
+24. **Synopsys, Microhard, Aviation Week & Space Technology, Baofeng, Protolabs, DigiKey, Dronetag, Chip Quik, Tailscale, HeliDirect** — Vendor/hardware/software confirmations (**NEW: Oct 13–14**)
 
-### Top Recipients (outbound visible via CC/BCC patterns)
-- **Joshua Fromm** — Co-recipient on CJFC Engineering Sprint forward
-- **Ethan Domagala** — Co-recipient on CJFC Engineering Sprint forward
-- **Navy NAWCAD personnel** (Brescia, Pyrah, Ruiz-Reyes) — Recipients of critical TCE 26.2 after-action review from Jack Elston (Oct 1)
-- **Chani Ben Simon** (NextVision Systems) — External vendor contact on DragonEye2
+### Top Recipients (Outbound/Visible via CC/BCC)
+- **Beck Cotter** — 801 Dev Kit forwarding Oct 13 (hardware evaluation/integration feedback)
+- **Thomas Garcia** (Videology Inc.) — Direct business correspondence Oct 14 09:45 AM (OEM camera partnership discussions)
+- **NOAA/Navy teams** — Continued government coordination
+- **NextVision Systems** — Sensor/payload integration
+
+## Topic Patterns
+
+### Recurring Subject Line Themes
+- **Military/Government Programs:** Navy Phase I, SOCOM S0, UxSOC UMS Services (FY27), Emerging Tech Hotwash
+- **Hardware Integration & Vendors:**
+  - OEM Cameras: Videology (NEW Oct 14 — active engagement)
+  - Development Kits: 801 Dev Kit / Aegis Electronics (NEW Oct 13 — forwarded to Beck for evaluation)
+  - Sensors/Datalinks: NextVision (DragonEye2+TRIP), Microhard (communications), Synopsys (design tools)
+- **Procurement & Supply Chain:** McMaster-Carr, Global Industrial, Samsung Direct, DigiKey, Protolabs (rapid order cycles; machinery/composite manufacturing support)
+- **Thermal/Imaging Systems:** Workswell trade show interest (NEW Oct 14)
+- **Drone/Autonomous Systems:** GetFPV (cart activity), Baofeng radios, HeliDirect, X-Plane (flight simulation)
+- **ATR (Automatic Target Recognition) & Computer Vision:** Krateo Sky contractor coordination on SOCOM S0 variant development
+
+### Client/Vendor Names Appearing Frequently
+**Strategic/Defense:**
+- NOAA (Federal aviation/weather programs)
+- Navy (SBIR, Phase I programs)
+- Krateo Sky (ATR/SOCOM S0 contractors)
+
+**Hardware/OEM:**
+- NextVision Systems (sensors)
+- Videology Inc. (OEM cameras) — **NEW, high priority**
+- Aegis Electronics (dev kits) — **NEW**
+- Microhard (datalinks)
+- Synopsys (EDA)
+
+**Manufacturing/Components:**
+- McMaster-Carr (fasteners/industrial supplies)
+- Global Industrial (supplies/equipment)
+- FCM Singapore (composite machining)
+- MachineTek USA (composite materials)
+- Protolabs (rapid prototyping)
+
+**Retail/Hobbyist:**
+- GetFPV (drone gear)
+- Workswell (thermal imaging events)
+- Samsung Direct, DigiKey, Dronetag, Chip Quik, Baofeng
+
+## Communication Patterns
+
+### Time & Frequency
+- **Oct 13–14 spike:** 23 emails in 2 days; multiple Videology rapid-fire introduction attempts (5+ emails in ~30 minutes Oct 14 15:36–16:12), automated responses triggering follow-ups
+- **Weekday concentration:** Government/vendor business hours (9 AM–5 PM US time zones)
+- **Purchasing cluster

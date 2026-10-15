@@ -1,90 +1,76 @@
 # BST Financial Overview (QuickBooks)
-**Period: October 1–15, 2026 | Historical Data: April 2024 – October 2026**
+**Period: October 12–14, 2026 | Data Range: April 2024 – November 2, 2026**
 
 ---
 
-## Company Totals (Historical Period)
+## Company Totals
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $9,357,912.00 |
-| **Total Expenses (Bills + Purchases)** | $3,709,839.60 |
-| **Net Income Position** | **$5,648,072.40** |
-
-*Note: Oct 1–15 period shows minimal activity ($1,123.62 in new expenses only).*
+| **Total Revenue** (invoices) | **$9,875,941.62** |
+| **Total Expenses** | **$2,090,263.87** |
+| **Net Income** (Period P&L) | **$154,935.79** |
+| **Net Position** (all-time by project) | **$7,865,449.11** |
 
 ---
 
 ## By Project/Class
-*(Ranked by Total Activity)*
+*Sorted by total revenue (highest to lowest)*
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|----------------|----------------|--------------|--------|
-| **Government** | $6,313,724.00 | $1,820,761.38 | **$4,492,962.62** | Active |
-| **Commercial** | $3,020,068.62 | $247,081.00 | **$2,772,987.12** | Active |
-| **BST Internal** | $24,119.36 | $1,641,997.22 | **-$1,617,877.86** | Deficit |
+| Project | Revenue | Expenses | Net Position | Status |
+|---------|---------|----------|--------------|--------|
+| **Government** | $6,788,618.00 | $1,841,080.34 | **+$4,947,537.66** | Active — 115 invoices |
+| **Commercial** | $3,083,803.62 | $249,579.78 | **+$2,834,223.84** | Active |
+| **BST Internal** | $24,119.36 | $1,805,603.75 | **-$1,781,484.39** | Deficit — internal overhead/admin |
 
-**Key Observation:** Government and Commercial projects are highly profitable; BST Internal is significantly underwater (operating at a $1.62M deficit).
+**Key Observation:** Government and Commercial projects are profitable. BST Internal carries a **$1.78M deficit**, reflecting company-wide overhead and indirect costs.
 
 ---
 
 ## Cash Flow Indicators
 
 ### Accounts Receivable (Outstanding Balances)
-- **Government Project**: $5,194,962.82 outstanding across 110 active invoices
-- **Commercial Project**: At least $24,579.28 outstanding (Invoice #1779, dated 2026-08-31, from Murphy's Pond CH4)
-- **Total A/R**: ~$5.22M+ in outstanding receivables
+- **Government projects:** $5,670,008.82 outstanding (115 open invoices)
+- **Commercial projects:** Balance data incomplete; largest recent invoice: $24,579.28 (Aug 31, 2026)
+- **Total AR estimate:** $5.7M+ in outstanding receivables
 
-### Recent Expense Activity (Oct 1–15, 2026)
-- Only **$1,123.62** in new expenses recorded across the company
-- No new invoices generated in this period
-- No new purchase orders issued
+### Recent Activity (Oct 5–14, 2026)
+- **BST Internal:** +$3,999.75 in expenses (Oct 12–Nov 2)
+- **Commercial:** +$1,123.39 in purchases
+- **Government:** Active invoicing continues
 
-### Project Activity Status
-- **Government & Commercial**: Ongoing with substantial receivables
-- **BST Internal**: Minimal revenue activity; significant expense accumulation suggests operational/overhead costs
-
----
-
-## Top Customers (By Revenue)
-
-| Customer | Project | Amount | Balance Due |
-|----------|---------|--------|------------|
-| Government contracts (110 invoices) | Government | $6,313,724.00 | $5,194,962.82 |
-| Murphy's Pond CH4 [018-1] | Commercial | $24,579.28 | $24,579.28 |
-| *Other Commercial clients* | Commercial | $2,995,489.34 | *Unknown* |
+### Projects with Declining/No Recent Activity
+- **Commercial:** Last major invoice dated August 31, 2026 ($24,579.28) — *may indicate project slowdown*
 
 ---
 
-## Top Vendors / Expenses
-*(Data incomplete in provided extract, but major categories identified)*
+## Top Vendors & Expenses
 
-| Category | Total Spend |
-|----------|------------|
-| Direct Material Purchases | $2,699.00 |
-| Shipping, Freight & Delivery | $79.07 |
-| Other Operating Expenses (BST Internal) | $1,641,917.15 |
-
-*Note: Full vendor breakdown not available in provided data.*
+| Category | Amount | Notes |
+|----------|--------|-------|
+| **Facilities** (Oct 12–14 P&L) | $590.21 | Shop supplies |
+| **BST Internal Expenses** (cumulative) | $1,805,603.75 | Largest by far; includes overhead |
+| **Government Project Expenses** | $1,841,080.34 | Direct project costs |
+| **Commercial Project Expenses** | $249,579.78 | Lowest cost structure |
 
 ---
 
-## Unclassified / Concerns
+## Unclassified Transactions
 
-⚠️ **BST Internal Project Red Flag**
-- **$1.62M deficit** despite only $24K in invoiced revenue
-- Expense-to-revenue ratio: **68:1** (unsustainable)
-- Likely represents company overhead/indirect costs not allocated to revenue-generating projects
-
-⚠️ **Cash Flow Risk**
-- $5.22M in outstanding receivables (Government + Commercial)
-- Recent expense/revenue activity minimal (Oct 1–15)
-- Company cash position depends heavily on A/R collection
+- **Direct Costs (Shipping/Freight):** $0.00 in period — no freight charges recorded Oct 12–14
+- **All transactions:** Appear properly classified to Projects (Government, Commercial, BST Internal)
+- **No significant unclassified amounts** identified in period
 
 ---
 
-## Recommendations
-1. **Prioritize Government A/R collection** ($5.19M outstanding)
-2. **Review BST Internal allocation** – $1.64M in expenses should be redistributed to project classes if possible
-3. **Monitor invoice payment cycles** – 110 Government invoices with open balances requires active collection
-4. **Generate Q4 proposals** – Revenue generation stalled in early October
+## Summary & Alerts
+
+✅ **Strengths:**
+- Government projects generating $6.8M revenue (largest stream)
+- Commercial projects highly profitable ($2.8M net)
+- Company-wide gross profit: $155,526 (Oct 12–14 period)
+
+⚠️ **Concerns:**
+- **AR aging:** $5.7M outstanding from Government projects — verify collection timeline
+- **Commercial slowdown:** Last major invoice 6+ weeks old (Aug 31); confirm pipeline
+- **Internal overhead:** $1.78M deficit on BST Internal class suggests significant administrative burden

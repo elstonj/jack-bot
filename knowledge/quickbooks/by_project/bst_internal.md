@@ -1,12 +1,12 @@
 # BST Internal — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue)**: $24,119.36 *(no new invoices in Oct 1–15 period)*
-- **Total Expenses (Bills + Purchases)**: $1,641,997.22 (+$1,123.62 from Oct 1–15, 2026)
-- **Total Purchase Orders**: $13,948.00 *(no new POs in Oct 1–15 period)*
-- **Net Position**: -$1,617,877.86 *(expenses exceed revenue by $1.62M; deficit increased $1,123.62 from previous period)*
-- **Date Range**: April 5, 2024 – October 15, 2026 (29+ months)
-- **Transaction Count**: 1,602 (+1 new transaction Oct 1–15, 2026)
+- **Total Invoiced (Revenue)**: $24,119.36 *(no new invoices in Oct 12–Nov 2 period)*
+- **Total Expenses (Bills + Purchases)**: $1,805,603.75 (+$73,982.13 from Oct 5–12, 2026; +$3,999.75 from Oct 12–Nov 2, 2026)
+- **Total Purchase Orders**: $13,948.00 *(no new POs in Oct 12–Nov 2 period)*
+- **Net Position**: -$1,781,484.39 *(expenses exceed revenue by $1.78M; deficit increased $3,999.75 from Oct 12–Nov 2)*
+- **Date Range**: April 5, 2024 – November 2, 2026 (31+ months)
+- **Transaction Count**: 1,696 (+29 new transactions Oct 5–12, 2026; +4 new transactions Oct 12–Nov 2, 2026)
 
 ---
 
@@ -14,37 +14,38 @@
 
 | Invoice # | Date | Customer | Amount | Balance | Days Outstanding |
 |-----------|------|----------|--------|---------|------------------|
-| #1784 | 2026-09-14 | Weather Stream (c) | $1,225.00 | $1,225.00 | 31 days |
-| #1771 | 2026-07-06 | Invest Ottawa | $5,000.00 | $5,000.00 | 101 days |
-| #1752 | 2026-04-03 | Krateo Sky | $10,860.48 | $10,860.48 | 195 days |
-| #1727 | 2025-12-02 | Weather Stream (c) | $928.88 | $928.88 | 318 days |
-| #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 | 416 days |
+| #1784 | 2026-09-14 | Weather Stream (c) | $1,225.00 | $1,225.00 | 49 days |
+| #1771 | 2026-07-06 | Invest Ottawa | $5,000.00 | $5,000.00 | 119 days |
+| #1752 | 2026-04-03 | Krateo Sky | $10,860.48 | $10,860.48 | 213 days |
+| #1727 | 2025-12-02 | Weather Stream (c) | $928.88 | $928.88 | 336 days |
+| #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 | 434 days |
 
 **Total Invoiced**: $24,119.36  
 **Total Collected**: $0.00 *(all invoices remain outstanding)*  
 **Outstanding Receivables**: $24,119.36 *(100% uncollected)*
 
-### Collection Status & Critical Actions Required (Updated):
+### Collection Status & Critical Actions Required (Updated Nov 2):
 
-- **CRITICAL OVERDUE — Invoice #1696 (Phase1 Aviation)**: $6,105.00 | **416 days overdue** (Aug 26, 2025).
+- **CRITICAL OVERDUE — Invoice #1696 (Phase1 Aviation)**: $6,105.00 | **434 days overdue** (Aug 26, 2025).
   - *Status*: Double-payment for 20 wings identified; amount should be recovered or credited immediately.
   - **ACTION**: Initiate collection recovery procedure and/or credit memo processing. **ESCALATE TO LEGAL.**
+  - *Recent Activity*: Phase1 shipments continue (Oct 15, Oct 22); customer remains operationally active despite invoice delinquency.
 
-- **ESCALATED OVERDUE — Invoice #1752 (Krateo Sky)**: $10,860.48 | **195 days overdue** (Apr 3, 2026).
-  - *Status*: Largest single outstanding invoice; 6.5 months without payment.
+- **ESCALATED OVERDUE — Invoice #1752 (Krateo Sky)**: $10,860.48 | **213 days overdue** (Apr 3, 2026).
+  - *Status*: Largest single outstanding invoice; 7 months without payment.
   - *Last Contact (Sept 12)*: Krateo/Accordion visit (lunch expense $229.92); suggests active customer engagement or contract renegotiation.
   - **ACTION**: Escalate to legal/collections; initiate payment demand. Clarify project/contract status with customer.
 
-- **PRIORITY FOLLOW-UP — Invoice #1771 (Invest Ottawa)**: $5,000.00 | **101 days overdue** (Jul 6, 2026).
+- **PRIORITY FOLLOW-UP — Invoice #1771 (Invest Ottawa)**: $5,000.00 | **119 days overdue** (Jul 6, 2026).
   - *Status*: Grant/investment income; timing correlates with Ottawa demo logistics (Jul 14–19) and SOCOM demo (Sept 3).
   - **ACTION**: Contact Invest Ottawa immediately; request payment confirmation and timeline. May unlock $5K cash flow within 2 weeks.
 
-- **OVERDUE — Invoice #1727 (Weather Stream)**: $928.88 | **318 days overdue** (Dec 2, 2025).
-  - *Status*: 10.5 months outstanding; now subsidiary to new #1784 invoice ($1,225) from same customer.
+- **OVERDUE — Invoice #1727 (Weather Stream)**: $928.88 | **336 days overdue** (Dec 2, 2025).
+  - *Status*: 11+ months outstanding; now subsidiary to new #1784 invoice ($1,225) from same customer.
   - *Recent Activity (Sept 14)*: New invoice #1784 suggests active customer engagement; bundled payment opportunity.
   - **ACTION**: Bundle with Invoice #1784; request combined payment ($2,153.88) during tax return delivery contact.
 
-- **RECENT — Invoice #1784 (Weather Stream)**: $1,225.00 | **31 days outstanding** (Sept 14, 2026).
+- **RECENT — Invoice #1784 (Weather Stream)**: $1,225.00 | **49 days outstanding** (Sept 14, 2026).
   - *Description*: Preparation of 2025 Soil Moisture Tax Returns by KCO (intermediary billing).
   - **ACTION**: Expedite collection; correlates with KCO Bill #2011887 ($4,850.00, Sept 17) for BST 2025 partnership tax filing.
 
@@ -52,97 +53,72 @@
 
 ## Expenses by Cost Category
 
-### **Materials & Direct Purchases / Shipping & Freight**: $560,308.82
-**Updated Total (Apr 2024 – Oct 15)**: Previous $559,185.20 + $1,123.62 (NEW Oct 1–15, 2026)
-
-**New Materials & Shipping Transactions (Oct 15, 2026):**
-
-| Date | Item | Amount | Account | Purpose |
-|------|------|--------|---------|---------|
-| 2026-10-15 | Worldwide Express - Embry Riddle Shipment | $14.90 | RESEARCH & DEVELOPMENT: IRAD-Internal Research and Development | Expedited repair/fix component shipment freight |
-| 2026-10-15 | Worldwide Express - Phase1 Shipment for S3 (Part 1) | $398.89 | RESEARCH & DEVELOPMENT: IRAD-Internal Research and Development | Airframe/wing component shipment freight |
-| 2026-10-15 | Worldwide Express - Phase1 Shipment for S3 (Part 2) | $709.83 | RESEARCH & DEVELOPMENT: IRAD-Internal Research and Development | Airframe/wing component shipment freight |
-
-**Oct 15 Materials/Shipping Subtotal**: $1,123.62  
-**Breakdown by Type**:
-- **IRAD R&D Shipping (Materials in Transit)**: $1,123.62 *(3 separate Phase1 Aviation and Embry Riddle component shipments)*
-
-**Strategic Significance**: Consolidation of three freight charges in single Worldwide Express bill (Purchase #260927W025531) suggests coordinated multi-component delivery for S3 prototype or system integration. Embry Riddle "fix" shipment ($14.90) indicates ongoing repairs/modifications to aerospace platform. Phase1 S3 shipments (Part 1: $398.89 + Part 2: $709.83 = $1,108.72 total) align with wing/airframe deliveries for UAV assembly continuation. This represents acceleration of component procurement and logistics for active S3 build-out phase.
-
----
-
-## Cumulative Expenses by Cost Category (Apr 2024 – Oct 15, 2026)
+### Cumulative Expenses by Cost Category (Apr 2024 – Nov 2, 2026)
 
 | Category | Amount | % of Total | Transactions | Notes |
 |----------|--------|-----------|--------------|-------|
-| **Facilities & Rent** | $523,219.82 | 31.9% | Multiple | Largest expense category; October rent already posted (Sept 25 for future month) |
-| **Materials & Direct Purchases / Shipping** | $560,308.82 | 34.2% | Multiple | RF components, field equipment, shipping; growing with S3 build-out (updated with Oct 15 freight) |
-| **IRAD Indirect R&D** | $224,519.76 | 13.7% | Multiple | Subcontractors and internal R&D labor; stable |
-| **Direct Labor & Subcontractors** | $395,197.65 | 24.1% | Multiple | Engineering and project labor; largest after facilities |
-| **Indirect Costs (Payroll Tax/Healthcare)** | $696.12 | <0.1% | 1 | COBRA payment (Sept 30, 2026) |
-| **Travel (Direct Cost)** | $2,176.46 | 0.1% | 10 | California field deployment (Sept 24) |
-| **Shipping/Freight (Direct Cost)** | $12.87 | <0.1% | 1 | UMES repair shipment (Sept 25) |
-| **TOTAL EXPENSES** | **$1,641,997.22** | **100%** | **1,602** | *(+$1,123.62 in Oct 1–15 period)* |
+| **Facilities & Rent** | $566,422.32 | 31.3% | 50+ | Office/shop build-out; Oct 12–Nov 2 additions: $590.21 Akro-Mils storage bins/dividers/labels (plastic organization system); facility cleaning, payroll processing, software subscriptions |
+| **Materials & Direct Purchases / Shipping** | $569,341.40 | 31.5% | 40+ | RF components, field equipment, motor modules, antenna, shipping; stable through Nov 2 |
+| **IRAD Indirect R&D** | $231,786.29 | 12.8% | 12+ | Subcontractors and internal R&D labor; Oct 12–Nov 2 additions: $3,999.75 in backordered gimbal rangefinder components + Worldwide Express freight (Phase1/Microhard shipments) |
+| **Direct Labor & Subcontractors** | $395,197.65 | 21.9% | 15+ | Engineering and project labor; unchanged Oct 12–Nov 2 period |
+| **Indirect Costs (Payroll, Healthcare, Software)** | $18,765.95 | 1.0% | 12+ | Payroll contributions, AETNA healthcare, software; unchanged Oct 12–Nov 2 period |
+| **Travel (Direct Cost)** | $2,176.46 | 0.1% | 10 | California field deployment (Sept 24); unchanged |
+| **Shipping/Freight (Direct Cost)** | $12.87 | <0.1% | 1 | UMES repair shipment (Sept 25); unchanged |
+| **General & Administrative** | $950.00 | 0.1% | 1 | Eco Pass transit renewal (Oct 6); unchanged |
+| **Meals & Entertainment** | $134.54 | <0.1% | 1 | Pattern Break Brewery team event (Oct 5); unchanged |
+| **Office Supplies** | $36.13 | <0.1% | 1 | Spindrift beverages (Oct 5); unchanged |
+| **Capital One Autopay (Unclassified/Payables)** | $35,342.00 | 2.0% | 1 | Spark One Jack #3168 credit card payment (Oct 3); unchanged |
+| **TOTAL EXPENSES** | **$1,805,603.75** | **100%** | **1,696** | *(+$73,982.13 in Oct 5–12 period; +$3,999.75 in Oct 12–Nov 2 period)* |
+
+---
+
+## Detailed Expense Breakdown — New Period (Oct 12–Nov 2, 2026)
+
+### **IRAD & R&D — Materials & Components** (+$3,999.75)
+
+| Date | Vendor | Amount | Account | Description |
+|------|--------|--------|---------|-------------|
+| 2026-11-02 | (Backordered — ordered 10/8) | $385.54 | IRAD-Internal R&D | **250M GIMBAL RANGEFINDER MODULE** ($349.12) + Tariff ($27.93) + Shipping ($8.49) — **Backordered component delivery; enables extended rangefinding capability for S3 platform** |
+| 2026-10-22 | Worldwide Express | $1,900.38 | IRAD-Internal R&D | Microhard Duty Fee 9/21/26 ($1,695.00) + Phase1 Shipment 9/29/26 ($205.38) — *Ongoing Phase1/Microhard platform integration* |
+| 2026-10-15 | Worldwide Express | $1,123.62 | IRAD-Internal R&D | Embry Riddle shipment fix ($14.90) + Phase1 S3 Part 1 ($398.89) + Phase1 S3 Part 2 ($709.83) — *Multi-part Phase1 S3 shipment; suggests component staging/assembly workflow* |
+| **IRAD Subtotal** | **$3,409.54** | — | — | — |
+
+### **Facilities & Shop Supplies** (+$590.21)
+
+| Date | Vendor | Amount | Account | Description |
+|------|--------|--------|---------|-------------|
+| 2026-10-12 | Akro-Mils (via J. Elston) | $590.21 | FA-Shop Supplies | **Storage/Organization System**: Plastic Bins (3x 4-1/8" W x 3" H x 7-3/8" D, assorted colors: Blue $68.64, Red $68.64, Yellow $68.64) + 1x 4-1/8" W x 3" H x 5-3/8" D Black Bin ($78.72) + Label Holders for bins, packs of 25 ($71.00) + Divider Set for 4" H x 8-3/8" W Nestable Bins ($97.00) + Shipping ($92.38) + Tax ($45.19) — **Bulk shop organization; suggests inventory/component management scaling at facility** |
+
+**Facilities Subtotal**: $590.21
 
 ---
 
 ## Purchase Orders
-List POs with: number, date, vendor, amount, description.
-
-| PO # | Date | Vendor | Amount | Description | Status |
-|------|------|--------|--------|-------------|--------|
-| *(See prior knowledge file for complete PO history)* | — | — | $13,948.00 | *(Total across all POs; no new POs Oct 1–15)* | — |
-
-**No new purchase orders in Oct 1–15 period.**
+**No new POs in Oct 12–Nov 2 period.**  
+**Cumulative PO total**: $13,948.00 (unchanged)
 
 ---
 
 ## Monthly Spend by Category
 
-### **September 2026 (Sept 1–30)** — Final
-**Total Spend**: ~$56,568.69
+### October 2026 (Oct 5–12) & October 12–Nov 2, 2026
 
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Facilities & Rent** | ~$2,750+ | October rent pre-posted Sept 25 |
-| **Materials & IRAD R&D** | ~$1,856+ | RF components, field deployment gear |
-| **Travel (Direct)** | **$2,176.46** | California deployment (Project 550-1) |
-| **Shipping/Freight** | **$12.87** | UMES repair freight |
-| **Payroll/Indirect** | **$49,772.50** | Recruitment spend (Sept 23–24 period) |
-| **Healthcare (COBRA)** | **$696.12** | Posted Sept 30 (accrual) |
-| **TOTAL (Sept)** | **~$57,264.81** | — |
+| Category | Oct 5–12 | Oct 12–Nov 2 | Combined Oct Spend |
+|----------|----------|--------------|-------------------|
+| **IRAD R&D** | $8,380.54 | $3,409.54 | $11,790.08 |
+| **Facilities & Supplies** | $590.21 | $590.21 | $590.21 |
+| **Indirect Payroll & Admin** | $4,605.78 | $0.00 | $4,605.78 |
+| **Direct Labor** | $0.00 | $0.00 | $0.00 |
+| **Travel** | $0.00 | $0.00 | $0.00 |
+| **Other** | $406.60 | $0.00 | $406.60 |
+| **Total October Spend** | **$13,982.13** | **$3,999.75** | **$17,981.88** |
 
-### **October 2026 (Oct 1–15)** — NEW PERIOD
-**Total Spend**: $1,123.62
-
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Materials/Shipping (IRAD R&D)** | **$1,123.62** | 3x Phase1/Embry Riddle freight charges (Worldwide Express, Purchase #260927W025531, posted Oct 15) |
-| **TOTAL (Oct 1–15)** | **$1,123.62** | — |
-
-**Burn Rate Analysis**:
-- **September 2026**: ~$1,908.83/day *(57-day burn including recruitment spike)*
-- **October 2026 (1–15 days)**: ~$74.91/day *(minimal spend; primarily materials-in-transit)*
-- **Trend**: Sharp deceleration post-recruitment period; October activity limited to component procurement and logistics for S3 build-out.
+**Monthly Burn Rate**: Oct spend of $17,981.88 (including backorder delivery Nov 2) continues significant materials/IRAD investment trajectory. Cumulative 29-month spend of $1.8M translates to **~$62K/month average burn rate**.
 
 ---
 
 ## Notable Transactions
 
-### **FLAGGED — Multi-Part Phase1 Aviation & Embry Riddle Shipment (Oct 15, 2026)**
-- **Purchase #**: 260927W025531
-- **Vendor**: Worldwide Express
-- **Total Amount**: $1,123.62
-- **Account**: RESEARCH & DEVELOPMENT: IRAD-Internal Research and Development
-- **Breakdown**:
-  - Embry Riddle "fix" shipment: $14.90 *(repairs/modifications to aerospace platform; smallest component)*
-  - Phase1 S3 Airframe Shipment (Part 1): $398.89
-  - Phase1 S3 Airframe Shipment (Part 2): $709.83
-- **Cumulative Phase1 S3 Airframe Delivery**: $1,108.72 (two-part consolidated shipment)
-
-**Strategic Significance**: 
-- Coordinated three-way freight consolidation indicates operational maturity in supply chain logistics and multi-vendor component integration.
-- Embry Riddle engagement ($14.90 "fix") suggests university partnership for aerodynamic validation, structural testing, or post-test repairs to aircraft platform.
-- Phase1 Aviation dual-shipment ($1,108.72 total) aligns with active S3 UAV prototype build-out and wing/airframe component delivery cycle.
-- Posted Oct 15 (mid-month) rather than month-end; suggests urgent/expedited delivery for critical assembly phase.
-- This transaction represents continued high-velocity S3 development despite
+### **BACKORDER DELIVERY (Nov 2): Gimbal Rangefinder Module — $385.54**
+- **Status**: Ordered Oct 8, 2026; backordered until Nov 2, 2026 (25-day delay)
+- **Strategic

@@ -1,16 +1,20 @@
 {
   "project_code": "300-3",
   "qbo_class_names": [
-    "[300-3] 2026 IDIQ"
+    "[300-3] 2026 IDIQ",
+    "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-02"
+    "start": "2026-10-05",
+    "end": "2026-10-12"
   },
   "totals": {
     "revenue": 117000.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "expenses": 6164.67,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 6150.0,
+      "DIRECT COSTS:DC-Direct Travel": 14.67
+    }
   },
   "invoices": [
     {
@@ -37,8 +41,74 @@
       ]
     }
   ],
-  "bills": [],
-  "purchases": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-10-05",
+      "doc_number": "Psns - v05",
+      "total": 3150.0,
+      "attributed": 3150.0,
+      "vendor": "Summit Assembly, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2750.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "PCB Assembly x 30"
+        },
+        {
+          "amount": 400.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Stencil + Set Up"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-05",
+      "doc_number": "Core1_V02",
+      "total": 3000.0,
+      "attributed": 3000.0,
+      "vendor": "Summit Assembly, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2600.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "PCB Assembly x 40"
+        },
+        {
+          "amount": 400.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Stencil + Set Up"
+        }
+      ]
+    }
+  ],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-10-05",
+      "doc_number": "",
+      "total": 14.67,
+      "attributed": 14.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZTOLLXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 14.67,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "J. Elston trip to Texas for NOAA"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
   "payments": []
 }

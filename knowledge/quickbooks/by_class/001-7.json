@@ -4,19 +4,70 @@
     "(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2026-10-01",
-    "end": "2026-10-02"
+    "start": "2026-10-12",
+    "end": "2026-10-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1108.72,
+    "expenses": 3394.64,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1108.72
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 3394.64
     }
   },
   "invoices": [],
   "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "102135063",
+      "total": 385.54,
+      "attributed": 385.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order placed on 10/8/26, but backordered until Nov. 2, 2026.",
+      "lines": [
+        {
+          "amount": 349.12,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "250 M GIMBAL RANGEFINDER MODULE"
+        },
+        {
+          "amount": 27.93,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "TARIFF"
+        },
+        {
+          "amount": 8.49,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "261001W003247",
+      "total": 1900.38,
+      "attributed": 1900.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1695.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Microhard Duty Fee (9/21/26)"
+        },
+        {
+          "amount": 205.38,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Phase1 Shipment (9/29/26)"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-10-15",

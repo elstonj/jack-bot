@@ -30,16 +30,16 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 95152.5,
+        "amount": 119312.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-02"
+        "last_updated": "2026-10-05"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-02"
+        "last_updated": "2026-10-05"
       },
       "other_qbo": {
         "amount": 2495.21,
@@ -47,30 +47,17 @@
         "confidence": "exact",
         "last_updated": "2026-09-30"
       },
-      "total": 100706.92,
+      "total": 124866.92,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 141833.08,
+    "remaining": 117673.08,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-02T09:17:40Z"
+    "last_reconciled": "2026-10-05T23:06:09Z"
   },
   "milestones": [],
   "deliverables": [],
-  "team": [
-    {
-      "name": "Alex Lomis",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Jack Elston",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    }
-  ],
+  "team": [],
   "risks": [],
   "overrides": [
     {
@@ -86,6 +73,6 @@
       "text": "From Joshua Fromm: That's me, navy mag"
     }
   ],
-  "last_full_rebuild": "2026-10-02T09:17:40Z",
+  "last_full_rebuild": "2026-10-05T23:06:09Z",
   "last_incremental_update": null
 }
