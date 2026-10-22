@@ -33,3 +33,8 @@ This is a **standing task order agreement**, not a fixed-scope project. ByLight 
 - **⚠️ VERIFY:** Confirm Maciej's 2026-04-27 directive (repeated 2026-05-04) to notify Bryan Sparling of revised timeline has been completed. Ethan's 2026-05-05 correction confirms Asana updates were made; ensure client communication followed.
 - **⚠️ VERIFY:** Confirm "yellow version" clarifications mentioned by Ethan have been formally communicated to Bryan Sparling and documented.
 - Project archived with no active work in Asana; awaiting ByLight task order submissions
+
+---
+
+## Notes
+**New data (2026-10-16):** Team feedback from Spencer Hoehl regarding FAA Part 107 drone license compliance (address updates in FAA airman services portal). This is administrative/personnel compliance and does not directly affect ByLight project status. All tagged team members should verify current mailing address on licenses.

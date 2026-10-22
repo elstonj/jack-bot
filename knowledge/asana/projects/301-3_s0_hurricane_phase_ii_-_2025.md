@@ -8,26 +8,24 @@
 - **Timeline:** 
   - **Extended through August 25, 2026** (6-month extension from original contract)
   - Key delivery deadlines: July 1, 2026 (Additional 13 S0 systems); July 31, 2026 (Web-based controller, Operator Training); August 25, 2026 (Training CLINs 1002–1005)
-- **Status:** **ACTIVE** — Contract remains in force through August 25, 2026 (~4 months remaining). Project is marked archived in Asana but work continues; tracking has moved outside Asana or via separate systems. ⚠️ **Significant status management and task ownership gap with critical August 25 deadline approaching.**
-- **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham; **Spencer Hoehl initiated Oct 2, 2026 company-wide callout for personnel with FAA pilot qualifications (Part 107/61/141), security clearances, NOAA Hurricane training, and COA documentation**
+- **Status:** **ACTIVE — Contract remains in force through August 25, 2026** (~4 months remaining). Project is marked archived in Asana but work continues. ⚠️ **Critical task ownership and tracking gap: 21 open tasks all unassigned with no due dates (except 2), despite imminent contract deadline.**
+- **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
 - **Priority level:** Low
 - **Risk signals:** 
-  - **21 open tasks, all unassigned, most with no due dates** — despite August 25, 2026 contract deadline ~4 months away
-  - **5 critical required milestones unassigned with no due dates:** 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates
-  - **2 optional milestones unassigned with no due dates:** Skyfora Integration, MultiUAS
-  - **13 additional S0 systems due July 1, 2026** — marked as milestone but unassigned with no progress tracking
-  - **Work categories lack ownership:** Prototyping, Construction, Deployments, Testing, Design, Administrative, Meetings, Travel, Software/Firmware/Electronics, Data Processing, QC — all unassigned
-  - **IAS (Indicated Airspeed) failures increasingly frequent**, causing lost wind measurements and aircraft loss
-  - **Personnel qualification documentation** requested Oct 2, 2026 — suggests preparation for training CLINs or regulatory compliance verification for deployment operations
+  - **All 21 open tasks unassigned; only 2 have due dates (July 1, 2026 and July 31, 2026)**
+  - **5 critical required milestones with no ownership or timeline:** 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates
+  - **13 additional S0 systems due July 1, 2026** — marked as milestone but unassigned with no progress visibility
+  - **12 work category tasks with no assigned owners or deadlines** — Prototyping, Construction, Deployments, Testing, Design, Administrative, Meetings, Travel, Software/Firmware/Electronics, Data Processing, QC
+  - **Personnel qualification documentation collection initiated October 2, 2026** — Spencer Hoehl company-wide callout for FAA pilot certifications (Part 107/61/141), security clearances, NOAA Hurricane training, COA documentation; suggests preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials
 
 ## Key Deliverables & Milestones
 
 ### Systems Delivery
-- **Additional 13 S0 systems delivery** (Due July 1, 2026) — **UNASSIGNED; Status unclear**
+- **Additional 13 S0 systems delivery** (Due **July 1, 2026**) — **UNASSIGNED; Status unclear**
 - **34 systems delivered to AOC** (Completed December 2025) ✅
 - **Hardware/software freeze** (Completed November 2025) ✅
 
-### Training CLINs (Due August 25, 2026)
+### Training CLINs (Due **August 25, 2026**)
 - **CLIN 1002:** Operator and Observer course development — UNASSIGNED
 - **CLIN 1003:** Operator and Observer Training session — UNASSIGNED
 - **CLIN 1004:** Instructor Training Course development — UNASSIGNED
@@ -44,7 +42,7 @@
 - **Skyfora Integration plan**
 - **MultiUAS**
 
-### Other Open Deliverables (All Unassigned, No Due Dates)
+### Other Open Work (All Unassigned, No Due Dates)
 - **Web-based controller** — Ben Busby (assigned; due July 31, 2026)
 - **Operator Training** — UNASSIGNED (due July 31, 2026)
 - Construct one "show" model (painted fuselage, dyed parts)
@@ -62,23 +60,20 @@
 - Quality Control
 
 ## Task Summary
-- **Total tasks:** 21 open (all unassigned), 0 completed (in current snapshot)
-- **Task breakdown by category (all unassigned):**
-  - Milestones (required): 5 (10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability, Airops updates)
-  - Milestones (optional): 2 (Skyfora Integration, MultiUAS)
-  - Milestones (systems delivery): 1 (13 S0 systems, due 7/1/26)
-  - Work category placeholders: 13 (Prototyping, Construction, Deployments, Testing, Design, Administrative, Meetings, Travel, Software/Firmware/Electronics, Data Processing, QC, Show Model, Wind Estimator Update)
-- **Critical pattern:** Massive task proliferation with zero assignment — suggests either:
-  - Work is managed outside Asana entirely
-  - Tasks were created as placeholders but lack real ownership/accountability
-  - Status tracking failure for active contract with ~4 months to deadline
+- **Total tasks:** 21 open (all unassigned), 0 completed
+- **Task breakdown:**
+  - Milestones (required): 5 — 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability, Airops updates (all unassigned, no due dates)
+  - Milestones (optional): 2 — Skyfora Integration, MultiUAS (all unassigned, no due dates)
+  - Milestones (systems delivery): 1 — 13 S0 systems due July 1, 2026 (unassigned, no progress tracking)
+  - Work category placeholders: 13 — Prototyping, Construction, Deployments, Testing, Design, Administrative, Meetings, Travel, Software/Firmware/Electronics, Data Processing, QC, Show Model, Wind Estimator Update (all unassigned, no due dates)
+- **Critical pattern:** Zero task assignment despite active contract with ~4 months to deadline and two imminent delivery dates (July 1 and July 31, 2026). Suggests work is managed outside Asana or accountability tracking has broken down.
 
 ## Recent Activity
 
 **October 2, 2026:**
-- Spencer Hoehl issued company-wide callout requesting personnel report FAA pilot qualifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, COA training documentation — suggests preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials
+- **Spencer Hoehl issued company-wide callout requesting personnel document FAA pilot qualifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, COA training documentation** — indicates preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials. This is a direct override of any Asana task tracking; regulatory/compliance verification is active.
 
-**December 10, 2025 Status Update:**
+**December 10, 2025:**
 - Contract moving forward; NOAA has **$115K + $54K earmarked** for extension work on current contract
 - **$54K earmarked for early part ordering or 3 UAS builds** (status: yet to be determined)
 - **Jack Elston actively negotiating IDIQ contract with NOAA for 25–30 UAS builds (FY25)** — represents significant follow-on opportunity beyond current Phase II contract
@@ -102,5 +97,5 @@
 ### Strategic Partnerships & Follow-On Opportunities
 - **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 
-### Technical Focus
-- S0 air-deployed hurricane platform with custom payload
+### Personnel & Compliance
+- **Qualification documentation drive (Oct 2, 2026):** Spencer Hoehl soliciting FA

@@ -10,9 +10,7 @@
 - **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
 - **Status:** **ARCHIVED — CORE DELIVERY COMPLETE; NO FURTHER FLIGHT OPS PLANNED**
   - Core project deliverables finished Dec 31, 2025 (26 days past original due date).
-  - **NOAA CLEAR-AIR TEST FLIGHT (late July/early Aug 2026):** Cancelled. Per Daniel Prendergast (2026-10-02 & 2026-10-01): *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."*
-  - **MURPHY'S POND FLIGHT #4:** Previously cancelled indefinitely (Daniel Prendergast, 2026-07-22 & 2026-07-23).
-  - **VALIDATION FLIGHT #2:** Previously postponed (Daniel Prendergast, 2026-05-13 & 2026-05-14) pending customer DoD autopilot controller readiness; no further activity.
+  - **NO FUTURE FLIGHT OPERATIONS:** Per Daniel Prendergast (2026-10-01 & 2026-10-02): *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."* All remaining test flights cancelled (NOAA CLEAR-AIR TEST, Murphy's Pond Flight #4, Validation Flight #2).
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham; Pilot support: Jack Elston, Josh, Alex
 - **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Light, (5) SBIR Magnetometer
 - **Product/Service:** Design/prototyping; Consulting
@@ -27,12 +25,12 @@
 | Weeks 3–4 (MS1): G2 design finalization & COTS procurement | 10/20–11/1 | $100k | ✓ Completed 11/9 |
 | Weeks 5–7 (MS2): Prototype assembly & ground integration | 11/3–11/22 | $100k | ✓ Completed 11/17 |
 | Weeks 8–9 (MS3 & 4): Flight testing & final deliverables | 11/24–12/5 | $150k ($100k + $50k) | ✓ Completed 12/31 |
-| **Post-Delivery Test Flights:** Additional opportunities (contractual) | TBD | (incl. in original contract) | ✗ **ALL CANCELLED — NO FURTHER FLIGHT OPS PLANNED (10/2026)** |
+| **Post-Delivery Test Flights:** Additional contractual opportunities | TBD | (incl. in original contract) | ✗ **ALL CANCELLED — NO FURTHER FLIGHT OPS (Oct 2026)** |
 
 All core invoicing milestones (4×) completed and paid through 12/17/2025.
 
 ## Task Summary
-- **Total Tasks:** 3 open reference records (contact/vendor data) + 33 completed deliverable tasks
+- **Total Tasks:** 3 open reference records (contact/vendor data); 33 completed deliverable tasks
 - **Open Tasks (Reference Records Only):**
   - Bryan Sparling (ByLight primary contact) — Unassigned
   - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor) — Unassigned
@@ -63,13 +61,13 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 - **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
 - **2026-05-13 & 2026-05-14 (Daniel Prendergast):** **VALIDATION FLIGHT #2 POSTPONED.** CU IRISS training complete; flight postponed pending customer DoD autopilot controller readiness.
 
-**LATEST ACTIVITY (October 2026):**
-- **2026-10-02 & 2026-10-01 (Daniel Prendergast):** **ALL REMAINING TEST FLIGHTS CANCELLED — PROJECT CLOSED TO FLIGHT OPS.** *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."* 
-  - Overrides previous confirmed NOAA test flight (late July/early Aug 2026).
-  - Confirms project is complete with no further contractual flight activities planned.
+**LATEST ACTIVITY (October 2026) — PROJECT CLOSED TO FLIGHT OPS:**
+- **2026-10-01 & 2026-10-02 (Daniel Prendergast):** **ALL REMAINING TEST FLIGHTS CANCELLED.** *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."* 
+  - Overrides all remaining contractual test flight opportunities (NOAA CLEAR-AIR TEST, Murphy's Pond Flight #4, Validation Flight #2).
+  - **Project is complete. No further flight operations will occur under this contract.**
 
 ## Notes & Context
 
 - **Delivery Delay:** Core deliverables completed 26 days past original 12/5/2025 due date; all milestone payments processed by 12/17/2025.
-- **Test Flight Cancellations:** Customer-driven delays and readiness issues (DoD autopilot controller, new fuselage procurement) postponed Validation Flight #2 (May 2026) and Murphy's Pond Flight #4 (July 2026). As of October 2026, Daniel Prendergast directive indicates no further flight testing will occur; new flight ops team will handle future qualifications.
-- **Reference Records:** Three open Asana tasks
+- **Flight Operations Closed:** Customer-driven delays and readiness issues (DoD autopilot controller, new fuselage procurement) postponed Validation Flight #2 (May 2026) and Murphy's Pond Flight #4 (July 2026). As of October 2026, Daniel Prendergast directive (per TEAM CORRECTIONS) indicates no further flight testing will occur; new flight ops team will handle future qualifications.
+- **Reference Records:** Three open Asana tasks (contact/vendor data only; no action items remaining).

@@ -4,57 +4,59 @@
 - Client: Overhead
 - Active/inactive status: Active
 - Billable status: No (overhead/internal operations)
-- Total hours tracked: 2,532.1 hours (2,509.7 + 22.4)
+- Total hours tracked: 2,566.8 hours (2,532.1 + 34.7)
 
 ## Team Allocation
-- Meredith Needham: 1,313.8 hours (51.9%)
-- Beck Cotter: 559.8 hours (22.1%)
-- Jack Elston: 544.2 hours (21.5%) — **+9.5h this batch**
-- Stachura: 101.2 hours (4.0%) — **+3.1h this batch**
-- Dan: 55.8 hours (2.2%)
-- Ethan Domagala: 25.1 hours (1.0%) — **+8.0h this batch**
-- Spencer Hoehl: 14.9 hours (0.6%) — **+1.9h this batch**
+- Meredith Needham: 1,313.8 hours (51.1%)
+- Beck Cotter: 559.8 hours (21.8%)
+- Jack Elston: 563.6 hours (21.9%) — **+19.4h this batch**
+- Stachura: 111.1 hours (4.3%) — **+9.9h this batch**
+- Dan: 57.8 hours (2.2%) — **+2.0h this batch**
+- Ethan Domagala: 25.1 hours (1.0%)
+- Spencer Hoehl: 16.3 hours (0.6%) — **+1.4h this batch**
+- Ali Sulehria: 2.0 hours (0.1%) — **+2.0h this batch (NEW)**
 - Kareem Ahmed: 3.0 hours (0.1%)
 - Primary contributor: Meredith Needham
 
 ## Activity Timeline
 
-**Latest batch (22.4 hours)**:
-- **Jack Elston** (9.5h): Answering Emails (1.2h + 1.5h + 1.0h + 0.5h + 4.5h = 8.7h), Monday Morning All-hands (0.5h), Kanban Card Review (0.2h) — fully documented ✓
-- **Ethan Domagala** (8.0h): Warehouse build out (8.0h) — documented ✓
-- **Stachura** (3.1h): No description provided ⚠️ (1.6h + 0.5h + 1.0h)
-- **Spencer Hoehl** (1.9h): No description provided ⚠️ (0.3h + 1.6h)
+**Latest batch (34.7 hours)**:
+- **Jack Elston** (19.4h): Answering Emails (1.5h + 2.0h + 0.8h + 1.2h + 1.6h + 3.0h + 1.5h + 3.0h = 14.6h), Black Swift Weekly Integration Review (1.0h + 1.0h = 2.0h), BST Internal Update Meeting (0.5h + 0.5h = 1.0h), Program Review (0.2h), Monday Morning All-hands (0.5h), BST PM Support Discussion (0.5h), S0 Meeting (0.5h) — fully documented ✓
+- **Stachura** (9.9h): No descriptions provided ⚠️ (2.1h + 0.7h + 1.5h + 2.5h + 1.6h + 1.0h + 0.5h)
+- **Spencer Hoehl** (1.4h): No description provided ⚠️
+- **Dan** (2.0h): No description provided ⚠️
+- **Ali Sulehria** (2.0h): No description provided ⚠️ (NEW CONTRIBUTOR)
 
 **Documentation compliance (latest batch)**:
-- **59.4% documented** (13.3 of 22.4 hours)
-- **Continued regression from prior perfect compliance**
-- **Cumulative documented: 1,903.4 hours out of 2,532.1 tracked (75.1% overall compliance rate)**
+- **55.9% documented** (19.4 of 34.7 hours)
+- **Further regression from 59.4% prior batch**
+- **Cumulative documented: 1,922.8 hours out of 2,566.8 tracked (74.9% overall compliance rate)**
 
 ## Insights
 
 - **Work composition** (from documented entries):
-  - **Jack Elston**: Maintains strong documentation and output (9.5h, 42.4% of batch)
-    - Primary focus: Email administration (8.7h = 91.6% of his time)
-    - Secondary: Meetings and process work (0.7h)
-    - Consistent performance pattern maintained
-  - **Ethan Domagala**: Facility/warehouse work (8.0h = 35.7% of batch)
-    - Shift from prior "Unloading Desks" to "Warehouse build out" — suggests ongoing facility development project
-  - **Stachura**: 3.1h entirely undocumented — **escalating compliance issue**
-  - **Spencer Hoehl**: 1.9h entirely undocumented — **emerging pattern**
+  - **Jack Elston**: Dominates documented work (19.4h = 55.8% of batch)
+    - **Email administration remains primary focus**: 14.6h (75.3% of his time)
+    - Secondary: Integration reviews (2.0h), internal meetings (1.0h), process/planning meetings (1.4h)
+    - Maintains high compliance and consistent output pattern
+  - **Stachura**: 9.9h entirely undocumented — **escalating compliance crisis**
+    - Cumulative undocumented: 72.0 hours (previous 62.1h + 9.9h)
+    - Systematic non-compliance continues unabated
+  - **Spencer Hoehl**: 1.4h undocumented — pattern persists (cumulative: 6.3 hours undocumented)
+  - **Dan**: 2.0h undocumented — joins non-compliant group
+  - **Ali Sulehria**: NEW contributor with 2.0h entirely undocumented
 
-- **🚨 CRITICAL COMPLIANCE ALERT — DOCUMENTATION CRISIS**:
-  - **9.1 hours undocumented in this batch** (Stachura 3.1h + Spencer Hoehl 1.9h)
-  - **Combined undocumented total now: 62.2 hours** across Stachura (62.1h) and Spencer Hoehl (3.0h)
-  - **Documentation rate declining**: 66.2% → 59.4% batch-to-batch
-  - **Stachura**: Continues systematic non-compliance — 3.1h added with zero description
-  - **Spencer Hoehl**: Pattern confirmed — 100% of tracked time lacks descriptions (3.0h → 4.9h undocumented)
-  - **Jack Elston**: Only reliable documented contributor in this project
-
-- **Facility work trend**: Ethan Domagala's warehouse activity suggests active facility/logistics operations
+- **🚨 CRITICAL COMPLIANCE ALERT — DOCUMENTATION CRISIS ACCELERATING**:
+  - **15.3 hours undocumented in this batch** (Stachura 9.9h + Spencer Hoehl 1.4h + Dan 2.0h + Ali Sulehria 2.0h)
+  - **Documentation rate declining sharply**: 59.4% → 55.9% batch-to-batch
+  - **Stachura**: Now 72.0 cumulative undocumented hours — requires immediate management intervention
+  - **Emerging group non-compliance**: Spencer Hoehl (6.3h), Dan (2.0h), Ali Sulehria (2.0h) expanding problem
+  - **Jack Elston**: Sole reliable documented contributor — 19.4h (100% compliant)
 
 **IMMEDIATE ACTIONS REQUIRED**:
-- **URGENT ESCALATION**: Stachura — 62.1 cumulative undocumented hours now requires management intervention
-- **FORMAL REQUEST**: Spencer Hoehl — obtain descriptions for all 4.9h tracked (100% non-compliant)
-- **COMPLIANCE REVIEW**: Establish documentation requirement enforcement before next batch
-- **MONITOR BECK COTTER**: Prior undocumented batch (8.0h) — no new entries in this batch, verify status
-- **BEST PRACTICE**: Continue modeling Jack Elston's compliance standard across team
+- **URGENT ESCALATION**: Stachura — 72.0 cumulative undocumented hours now critical for management/HR review
+- **FORMAL ENFORCEMENT**: Spencer Hoehl (6.3h), Dan (2.0h) — obtain retroactive descriptions immediately
+- **NEW CONTRIBUTOR ONBOARDING**: Ali Sulehria — establish documentation requirements before additional tracking
+- **COMPLIANCE POLICY**: Implement mandatory description field enforcement in Toggl before next batch
+- **PERFORMANCE STANDARD**: Use Jack Elston's 100% compliance as team baseline
+- **MONITORING**: Beck Cotter still shows no new entries — status verification needed

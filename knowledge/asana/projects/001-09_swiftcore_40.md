@@ -4,15 +4,15 @@
 - **Client/Customer**: Internal BST development project
 - **Dollar Value**: Not specified
 - **Timeline**: Started January 19, 2015 — no defined end date
-- **Status**: **ARCHIVED/DEPRECATED** (per Daniel Prendergast, May 15, 2026). All new software issues should be added to **SwiftCore 3.3 project** instead. Raw Asana data (Nov 2023 snapshot) shows 165 open tasks with zero due dates and zero completions. Project is no longer the active development branch.
+- **Status**: **ARCHIVED/DEPRECATED** (per Daniel Prendergast, May 15, 2026). **All new software issues should be added to SwiftCore 3.3 project instead.** Raw Asana data shows 7 open tasks (as of Nov 2023), all assigned to Maciej Stachura for VTOL refinements; zero due dates; zero completions. Project is no longer the active development branch.
 - **Team Members**: 
-  - Jack Elston (project owner, primary contributor — ~65 tasks)
-  - Maciej Stachura (flight control systems — ~40 tasks)
-  - Ben Busby (ground station/tablet development — ~35 tasks)
+  - Jack Elston (project owner, primary contributor)
+  - Maciej Stachura (flight control systems — current active work on VTOL issues)
+  - Ben Busby (ground station/tablet development)
 - **Risk Signals**: 
   - **Team has officially pivoted to SwiftCore 3.3** — Daniel Prendergast directive (May 15, 2026): *"For software issues that just adds a task to the SwiftCore 3.3 project like you've always been doing. You can keep adding tasks manually if you prefer."*
   - Data staleness (Nov 2023 Asana snapshot vs. May 2026 team directives)
-  - Large unmanaged backlog (165 open tasks); zero due dates across entire project
+  - 7 open VTOL tasks unscheduled; no due dates
   - No active status updates since November 28, 2023
 
 ## Key Deliverables & Milestones
@@ -31,21 +31,25 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 - **Full Geofencing Support** — Height-aware no-fly zones
 
 ## Task Summary
-- **Total Tasks**: 165 open, 0 completed (per Nov 2023 Asana data; conflicts with April 2026 completion reporting)
+- **Total Tasks**: 7 open, 0 completed (as of Nov 2023)
 - **Tasks by Assignee**:
-  - **Jack Elston** (~65 tasks): Autopilot core architecture, communications protocol design, power management, sensor fusion, ESC integration, smart battery firmware, simulation (Gazebo, X-Plane), ECAMS diagnostics, RTOS conversion, CAN/UART modules, parameter management, magnetic calibration, terrain following, RTK/PPK positioning, handset integration, MIMO radio
-  - **Maciej Stachura** (~40 tasks): Flight control algorithms, VTOL/tailsitter landing modes, estimator development (unified estimator, wind estimation, failover logic), filter optimization, Gazebo modeling (E2, fixed-wing, S2), terrain following, QRH/MMEL documentation, preflight checks (motor test, attitude verification), TECS engine-out detection, dubins path integration
-  - **Ben Busby** (~35 tasks): Tablet UI (SwiftTab), GCS features, mapping/DEM integration, OTA updates, log handling, multi-vehicle coordination, plot windows, joystick control, preflight tasks, X-Plane integration, Gazebo multirotor photogrammetry, sensor metadata and camera orientation, payload configuration
+  - **Maciej Stachura** (7 tasks, all VTOL-related):
+    1. Set trims doesn't seem to work for VTOL
+    2. Add ability to force transition (mainly in joystick mode)
+    3. Wind alignment for flight terminate
+    4. Wind alignment after transition back (or warning if landing is not aligned)
+    5. Remove extra orbit on landing for VTOL
+    6. Add pivot/motor feedback for go/no go during holdRotorsLow phase
+    7. Comms version update *(notes indicate optional param additions/removals, none required)*
+  - **Jack Elston**: No currently assigned tasks (owner role)
+  - **Ben Busby**: No currently assigned tasks
   - **Unassigned**: 11 major milestones
 
 - **Notable Patterns**:
-  - Extensive feature backlog with no prioritization or sequencing
-  - GitLab integration (Unito synchronization with GitLab issues noted on select tasks, e.g., "Change value for thrust cutoff" linked to GitLab issue #5)
-  - Strong simulation focus (Gazebo E2/S2/multirotor/fixed-wing models, X-Plane plugin with joystick support, user-positioned start location)
-  - **Zero due dates on all 165 tasks** — operates as aspirational wishlist, not scheduled roadmap
-  - Duplicate task entries (e.g., "Add addressing for aircraft and ground stations" appears twice; "Remove FIXMEs" appears twice; "Add pos/vel interpolation for GPS gaps" appears twice; "All filters should be initialized with sampling rate" appears twice)
-  - Feature branches noted for some tasks (unified_est, yaw_mix, vtol)
-  - Custom field: Priority = Low
+  - All 7 open tasks are VTOL-specific flight control refinements assigned to Maciej Stachura
+  - No due dates on any task
+  - Comms version update task links to external documentation (Asana profile links noted in task notes)
+  - Zero completion history despite project spanning 11+ years (2015–2026)
 
 ## Recent Activity
 **Team Directive (May 15, 2026)** — Daniel Prendergast (authoritative):
@@ -58,54 +62,48 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 - Multi-vehicle ground station analysis
 - GPS time/declination tracking
 
-**Last official Asana update**: November 28, 2023 (green status; zero completions reported)
+**Last official Asana update**: November 28, 2023 (green status; zero completions reported; 7 VTOL tasks open)
 
 ## Notes & Context
 
 ### Critical Status: Project Archived in Favor of SwiftCore 3.3
-- **Raw Asana shows 165 open/0 completed** (Nov 2023 snapshot — stale)
+- **Raw Asana shows 7 open/0 completed** (Nov 2023 snapshot — current data subset)
 - **Team is now routing all new software work to SwiftCore 3.3**, not 4.0 (Daniel Prendergast, May 15, 2026)
-- **Interpretation**: SwiftCore 4.0 is a **legacy aspirational backlog**; active development has shifted to the SwiftCore 3.3 branch
+- **Interpretation**: SwiftCore 4.0 is a **legacy aspirational backlog**; active development has shifted to the SwiftCore 3.3 branch. The 7 VTOL tasks represent residual work not yet migrated or closed.
 
-### Project Scope & Technical Areas
-Next-generation autopilot architecture spanning 11+ years of feature development:
+### Active VTOL Work (Maciej Stachura)
+Current focus is VTOL refinement and mode transitions:
+- Trim and transition control improvements (manual force transition in joystick mode)
+- Wind-aware landing and transition logic
+- Rotor feedback during pre-takeoff phases
+- Communications version parameter updates
+
+### Historical Project Scope & Technical Areas
+Next-generation autopilot architecture spanning 11+ years of feature development (2015–2026):
 
 **Core Architecture**:
-- RTOS migration and modular design (comm/CAN as pluggable modules)
-- Unified flight estimator for all vehicle types (fixed-wing, multirotor, VTOL/tailsitter)
+- RTOS migration and modular design
+- Unified flight estimator for all vehicle types
 - Wind estimation and adaptive parameter tuning
-- Advanced sensor fusion with failover logic (GPS/pitot/pressure interpolation for gaps)
+- Advanced sensor fusion with failover logic
 - Sensor rotation matrix and orthonormal transformation improvements
 
 **Communications & Integration**:
 - MAVLink and UAVCAN protocol support
-- CAN-based firmware architecture with UART/CAN ESC control (Castle Creations support noted)
+- CAN-based firmware architecture with UART/CAN ESC control
 - Service discovery for WiFi communication
 - Multi-UAS coordination from single ground station
-- Handset/tablet hybrid joystick control with loss-of-signal fallback
-- Serial numbers in EEPROM on MHP boards
-- MIMO radio support
-- Firmware warnings cleanup and firmware updates via CAN
+- Handset/tablet hybrid joystick control
 
 **Flight Control & Safety**:
-- Landing modes based on wind estimation (graduated landing speed, flare energy-based rather than pitch-based)
+- VTOL landing modes based on wind estimation
 - Geofencing with height-aware keep-outs
-- Battery termination logic (mAh-based, energy-aware; Wh calculations; power remaining after RTB calculation)
+- Battery termination logic (energy-aware)
 - Icing detection and emergency engine shutdown
-- Laser terrain following with low-laser flagging (when not in landing mode)
-- Preflight motor test and multirotor attitude check with automated prevention of takeoff in extreme roll/pitch
-- Ground effect flag review (may be removed)
-- TECS engine-out detection review
-- IAS limits based on flap configuration
-- Climb limits based on wind
-- Yaw rate-based max speed in look-at mode
-- Rate-limited joystick mode
-- Antenna location correction for artificial velocities
-- Dubins path integration for altitude profiling
-- Check-on-plan dubins validation similar to check-on-orbit
-- Lost GPS roll removal after flare
+- Laser terrain following
+- Preflight motor test and attitude checks
 
 **Ground Station & Tablet (SwiftTab)**:
-- Log file management and download via tablet with checksum/hash verification
-- OTA firmware updates for autopilot and GCS via tablet
-- Real-time telemetry visualization with custom plot windows (scalar vs. scalar, zoom/pause
+- Log file management and download
+- OTA firmware updates
+- Real-time telemetry visualization

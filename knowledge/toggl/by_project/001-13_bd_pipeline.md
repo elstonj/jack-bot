@@ -4,42 +4,41 @@
 - **Client:** Overhead
 - **Active Status:** Yes
 - **Billable Status:** No
-- **Total Hours Tracked:** 241.3 hours (240.3h + 1.0h new batch)
+- **Total Hours Tracked:** 264.2 hours (241.3h + 22.9h new batch)
 
 ## Team Allocation
-- **Stachura:** 74.5 hours (31%)
-- **Jack Elston:** 66.6 hours (28%)
-- **Dan:** 56.0 hours (23%)
-- **Spencer Hoehl:** 23.9 hours (10%)
-- **Kareem Ahmed:** 19.6 hours (8%)
+- **Stachura:** 75.9 hours (29%)
+- **Jack Elston:** 88.1 hours (33%)
+- **Dan:** 56.0 hours (21%)
+- **Spencer Hoehl:** 23.9 hours (9%)
+- **Kareem Ahmed:** 19.6 hours (7%)
 
 ## Activity Timeline
 
 ### Recent Work Entries
-1. **Jack Elston** — 1.0h | White Paper for NOAA Sensor Discussion **[LATEST]**
-2. **Jack Elston** — 1.0h | Researching BD Ideas
-3. **Jack Elston** — 0.5h | Fletch Aero <> BlackSwift Technologies
-4. **Jack Elston** — 1.0h | BST/KS Internal SOCOM Kickoff
-5. **Jack Elston** — 1.0h | NOAA Call prep, White paper review
-6. **Jack Elston** — 8.5h | Travel to DC
-7. **Jack Elston** — 0.8h | NOAA Pre-Meeting
-8. **Jack Elston** — 1.0h | KrateoSky Follow Up
-9. **Dan** — 8.2h *(no description)*
-10. **Stachura** — 1.1h *(no description)*
+1. **Jack Elston** — 11.8h | EAB Meeting **[LATEST]**
+2. **Stachura** — 1.4h | *(no description)* **[LATEST]**
+3. **Jack Elston** — 8.0h | EAB Meeting
+4. **Jack Elston** — 0.8h | Chat about S0
+5. **Jack Elston** — 1.0h | Vantor Visit/Brian Argrow
+6. **Jack Elston** — 1.0h | White Paper for NOAA Sensor Discussion
+7. **Jack Elston** — 1.0h | Researching BD Ideas
+8. **Jack Elston** — 0.5h | Fletch Aero <> BlackSwift Technologies
+9. **Jack Elston** — 1.0h | BST/KS Internal SOCOM Kickoff
+10. **Jack Elston** — 1.0h | NOAA Call prep, White paper review
 
 ### Work Patterns
-- **Jack Elston:** 28% of effort (66.6h). **86% documented.** Sustained compliance discipline. Current focus: NOAA stakeholder engagement (white paper development, pre-meeting prep, sensor discussion).
-- **Stachura:** 31% of effort (74.5h). **69% documented** (24.8h blank = 33% non-compliance). No change in pattern.
-- **Dan:** 24% of effort (56.0h). **15% documented** (48.0h blank = 85% undocumented). No change in pattern.
-- **Spencer Hoehl:** 10% of effort (23.9h). **3% documented** (23.2h blank = 97% undocumented). No change in pattern.
-- **Kareem Ahmed:** 8% of effort (19.6h). **100% documented.**
+- **Jack Elston:** 33% of effort (88.1h). **88% documented** (10.6h blank). Sharply elevated activity. New focus: EAB engagement (19.8h in two entries) + continued NOAA stakeholder work + strategic visits (Vantor/Brian Argrow).
+- **Stachura:** 29% of effort (75.9h). **70% documented** (1.4h + prior 24.8h blank = 26.2h blank = 34% non-compliance). Pattern unchanged—persistent zero-description entries.
+- **Dan:** 21% of effort (56.0h). **15% documented** (48.0h blank = 85% undocumented). No change.
+- **Spencer Hoehl:** 9% of effort (23.9h). **3% documented** (23.2h blank = 97% undocumented). No change.
+- **Kareem Ahmed:** 7% of effort (19.6h). **100% documented.** No new activity.
 
 ## Insights
-- **Work Type:** Government stakeholder engagement (NOAA—sensor-focused whitepaper development), strategic partner coordination (Fletch Aero, KrateoSky), internal capability alignment (SOCOM), opportunity research and pipeline sourcing.
+- **Work Type:** Government stakeholder engagement (NOAA whitepaper, sensor discussion), partner coordination (Fletch Aero, KrateoSky, Vantor), internal capability alignment (SOCOM, S0 discussion), EAB (Experimental Aircraft Board) engagement—new major activity area.
 - **Notable Patterns:**
-  - **🚨 CRITICAL — Non-compliance persists at 59.1% of project (142.4h undocumented).** No improvement trajectory since last batch.
-  - **Jack Elston maintaining high compliance:** 86% documented. Showing sustained engagement on NOAA opportunity with escalating depth (whitepaper authoring, prep, discussion facilitation).
-  - **Dan + Spencer Hoehl remain structural compliance failure:** Combined 71.4h (49% of core effort) undocumented with no improvement.
-  - **Stachura pattern unchanged:** Continuing zero-description entries. No response to prior escalation.
+  - **Jack Elston escalation:** +21.5h this batch (32% increase). EAB engagement now dominant (19.8h = 89% of Jack's documented time). Suggests new high-priority stakeholder track opening.
+  - **🚨 CRITICAL — Non-compliance persists at 59.1% (156.1h undocumented).** Trend: static/worsening. Stachura continues pattern; Dan/Spencer remain structural failures.
+  - **No improvement trajectory observed.** Three consecutive data batches show identical compliance structure with zero intervention response.
 
-**🚨 ESCALATION REQUIRED:** Non-compliance at 59.1% (142.4h). **No improvement observed across two data batches.** Recommend immediate action: (1) Direct intervention with Stachura on documentation protocol; (2) Formal audit requirement for Dan/Spencer Hoehl on 71.4h; (3) Consider compliance requirement linkage to future project allocation.
+**🚨 ESCALATION REQUIRED:** Non-compliance now **156.1h (59.1% of project).** **No improvement across three batches.** Stachura + Dan/Spencer + Spencer Hoehl remain non-responsive to documentation protocol. Recommend: (1) Formal written compliance notice to Stachura; (2) Audit review of Dan/Spencer Hoehl 71.4h block; (3) Mandate daily time entry logging as project condition.

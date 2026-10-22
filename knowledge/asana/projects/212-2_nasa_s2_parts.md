@@ -27,16 +27,16 @@
 ## Key Deliverables & Milestones
 | Milestone | Due Date | Assignee | Status | Notes |
 |-----------|----------|----------|--------|-------|
-| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ Completed July 29, 2026 | Real-world execution June 2–3, 2026. |
+| Adjust designs based on component changes | April 30, 2026 | Josh Fromm | ✅ Completed July 29, 2026 | Real-world execution June 2–3, 2026. S2 officially end-of-life; transitioning to S3 platform. |
 | Place orders for S20009/launcher refurb parts | April 30, 2026 | Josh Fromm | ✅ Completed July 29, 2026 | Most parts arrived by end of first week of June 2026. |
 | New airframe case and launcher case orders | — | Unassigned | ✅ Completed August 4, 2026 | New design cases procured. |
 | S20009 Launcher Refurbishment | June 30, 2026 | Nate Straus | ✅ Completed August 4, 2026 | Full refurbishment and component replacement executed. |
 | Laser insert & heated pitot fabrication | — | Unassigned | ✅ Completed August 4, 2026 | Critical components integrated. |
 | Tablet Setup | — | Spencer Hoehl | ✅ Completed Sept 17, 2026 | GCS tablet connectivity verified; sensor files loaded. |
-| Calibrate NASA GCS Battery | — | Jack Elston | ✅ Completed | GCS 3D and 2F battery percentage indicators calibrated. |
-| Launcher Solenoid Fix | — | Josh Fromm | ✅ Completed | Solenoid leakage issue investigated & resolved. |
+| Calibrate NASA GCS Battery | Jack Elston | ✅ Completed | GCS 3D and 2F battery percentage indicators calibrated. |
+| Launcher Solenoid Fix | Josh Fromm | ✅ Completed | Solenoid leakage issue investigated & resolved. |
 | Joystick Mode Trim Fix | — | Spencer Hoehl | ✅ Completed Sept 21, 2026 | Roll tendency in Joystick mode corrected via handset settings. **Final pre-delivery task.** |
-| **Final Delivery to NASA** | **September 30, 2026** | Nate Straus | ✅ **DELIVERED Sept 22–23, 2026** | Pallet (48×120 in, 20 in tall) picked up Sept 22–23, 2026 per Meredith Needham logistics coordination. All pre-delivery validation complete. Delivered 9 days ahead of deadline. |
+| **Final Delivery to NASA** | **September 30, 2026** | Nate Straus | ✅ **DELIVERED Sept 22–23, 2026** | Pallet (48×120 in, 20 in tall) picked up Sept 22–23, 2026 per Meredith Needham logistics coordination. Ethan prepared paperwork for shipment. All pre-delivery validation complete. Delivered 9 days ahead of deadline. |
 
 ## Task Summary
 - **Asana Status:** 7 open, 0 completed (stale task list — not reflective of real-world completion)
@@ -78,6 +78,9 @@
 **July 18, 2025:**
 - 📋 Estimate 1362 sent with S2 parts cost breakdown. S2 now end-of-life; BST transitioning to S3 platform.
 
+**July 11, 2025:**
+- 📋 Isaac Anderson requested S2 parts cost breakdown (including full S2 cost). Note: New designs required for some components due to S2 end-of-life status.
+
 ## Notes & Context
 
-- **Project Delivery Status:** ✅ **Project is COMPLETE and DELIVERED.** All critical path items were closed by September 21, 2026. Physical shipment pickup occurred September 22–23, 2026, confirmed by Meredith Needham (logistics coordinator). Project delivered **9 days ahead of September 30 contract deadline.** **Asana project not formally closed** — task list remains in "open" state despite real-world completion and delivery. Do not treat Asana open task counts as current
+- **Project Delivery Status:** ✅ **Project is COMPLETE and DELIVERED.** All critical path items were closed by September 21, 2026. Physical shipment pickup

@@ -3,15 +3,17 @@
 ## Overview
 - **Client:** NOAA (Cooperative Research and Development Agreement)
 - **Owner:** Dan Prendergast
-- **Status:** Active — Post-demo development phase (Requirements & hardware procurement underway)
+- **Status:** Active — Post-demo development phase (Requirements derivation, CAD, and component procurement underway)
 - **Timeline:** 
   - Demo execution completed August 2026
   - Current phase: October 2026 onwards (requirements derivation, CAD, component procurement)
-- **Team:** Dan Prendergast, Josh Fromm
+  - **Critical window:** End cap and accelerometer expected late October or week of October 19, 2026
+- **Team:** Dan Prendergast (lead), Josh Fromm
 - **Risk signals:** 
-  - Multiple milestones lack due dates (Hand Launch, EO/IR Sensor, ATR integration)
-  - Hardware/processing hardware selection marked "Done" but no completion date recorded
-  - End cap and accelerometer expected late Oct or week of Oct 19 — timeline tightening
+  - Multiple core milestones (Hand Launch, EO/IR Sensor, ATR integration) lack due dates
+  - Compressed schedule: component arrival (late Oct/Oct 19) directly gates first test fire
+  - All 5 active tasks unassigned — suggests delegation or owner-driven execution
+  - "Select processing hardware" marked Done without completion date
 
 ## Key Deliverables & Milestones
 ### Completed (Demo Phase)
@@ -23,31 +25,34 @@
 - **Demo Planning & Logistics** — ✓ Completed 2026-08-20
 
 ### Active (Development Phase — Oct 2026+)
-- **Hand Launch from C-130** [HIGH priority] — In Waiting state, no due date
-- **EO/IR Sensor Integrated** [MEDIUM priority] — In Progress, no due date
-- **ATR Integrated** — No priority/status recorded, no due date
-- **Select hardware** [MEDIUM priority] — In Progress, no due date
-- **Select processing hardware** [HIGH priority] — Marked Done, no completion date
+| Milestone | Priority | Status | Target Date | Notes |
+|-----------|----------|--------|-------------|-------|
+| **Hand Launch from C-130** | High | Waiting | TBD | Dependent on end cap/accelerometer arrival & first test fire |
+| **EO/IR Sensor Integrated** | Medium | In Progress | TBD | Requirements phase (part of five CONOPS) |
+| **ATR Integrated** | — | — | TBD | No priority/status recorded |
+| **Select hardware** | Medium | In Progress | TBD | Requirements being finalized |
+| **Select processing hardware** | High | Done | TBD | No completion date recorded |
 
 ## Task Summary
 - **Total tasks:** 5 open, 0 completed
-- **Status:** Majority unassigned and lack due dates — suggests active planning phase
-- **Task breakdown:**
-  - High priority: 2 tasks (Hand Launch, Processing hardware selection)
-  - Medium priority: 2 tasks (EO/IR Sensor, Hardware selection)
-  - Unspecified: 1 task (ATR Integration)
+- **Assignments:** All 5 tasks currently unassigned in Asana
+- **Status breakdown:**
+  - High priority: 2 (Hand Launch, Processing hardware)
+  - Medium priority: 2 (EO/IR Sensor, Hardware selection)
+  - Unspecified: 1 (ATR Integration)
 
 ## Recent Activity
-**2026-10-07 & 10-08** (Dan Prendergast) — SOCOM development phase update:
-- Top-level requirements being derived from five CONOPS (described in ROMs) — **completion expected early next week** (week of Oct 7)
-- Josh Fromm completing **end cap CAD today** (Oct 7) and sending for quote
-- **Accelerometer** (to measure ejection force profile) ordered
-- **Expected arrival:** End cap and accelerometer arrive late Oct or week of Oct 19
-- Next gate: First test fire planned after components arrive (pending Josh's end cap order)
+**2026-10-07 & 10-08** (Daniel Prendergast) — SOCOM development phase update:
+- **Top-level requirements derivation** from five CONOPS (described in ROMs) — **completion expected early the week of October 7**
+- **Josh Fromm completing end cap CAD** and sending for quote (as of Oct 7)
+- **Accelerometer ordered** (to measure ejection force profile)
+- **Component arrival window:** Late October or early week of October 19, 2026
+- **Next gate:** First test fire planned immediately after end cap & accelerometer arrive (pending Josh's end cap order)
 
 ## Notes & Context
-- **Project transition:** Shifted from demo execution (completed Aug 2026) to next-phase development (Oct 2026+)
-- **Active procurement path:** Hardware selections appear to be moving fast — CAD → quote → order within one week
-- **Timeline compression risk:** Multiple core milestones (Hand Launch, sensor integration) lack due dates, but component arrival window (late Oct/Oct 19) suggests compressed schedule ahead
-- **Key dependency:** Josh Fromm's end cap CAD delivery and quote turnaround directly gates test fire scheduling
-- **No dollar values** captured in current task set (unlike earlier phases)
+- **Project phase transition:** Demo execution (completed Aug 2026) → Development/integration phase (Oct 2026+)
+- **Active procurement path:** Josh Fromm's end cap CAD → quote → order cycle is the critical path for unlocking first test fire
+- **Schedule compression:** Multiple milestones lack due dates, but component arrival in late Oct/Oct 19 window creates hard deadline for test fire initiation
+- **Requirements phase:** Top-level requirements still being derived from five CONOPS; hardware and processing hardware selections depend on finalized requirements
+- **No dollar values** captured in current task set
+- **Key dependency chain:** End cap quote → order → arrival → test fire → Hand Launch milestone progression

@@ -42,6 +42,9 @@
 **Post-completion operational improvement request (July 2026):**
 Daniel Prendergast requested workflow enhancement (July 13–14, 2026) to add a link to the [Maintenance Action Form](https://form.asana.com/?k=lRN5n1GO5ItVorzEDqbgWg&d=12804948716594) at the end of the log upload process in log-parse. Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch. **Status: Enhancement request in consideration; awaiting prioritization.**
 
+**October 2026 context (Daniel Prendergast, Oct 20):**
+Post-launch infrastructure discussion noted the S0 Production QC Website (built by Jack Elston) as the primary tool for tracking S0-AD orders and the build process. The "Orders" tab provides a dashboard showing customer orders, quantities, and due dates with add-order functionality. Discussion explored potential to extend this dashboard for broader production tracking.
+
 ## Notes & Context
 Comprehensive flight data analysis platform developed over multiple years:
 - **April 2024**: Expanded support for Multirotor aircraft types

@@ -31,13 +31,14 @@
   - **Josh Fromm** (GCS assembly, ground station delivery)
   - **Ben Busby** (web-based controller development)
   - **Nick Pawlenko** (UxSOC liaison) — transitioned to UxSOC HQ 5/29/26; UASD expanded team now handles operational coordination
+  - **Spencer Hoehl** (personnel qualifications audit)
 - **Risk Signals:** 
-  - 🔴 **CRITICAL: Invoice 3 (POF0344, $117k) due 2026-10-05** — open task, assigned to Meredith O'hara Needham. **This is 3 days away from knowledge cutoff (2026-10-02).**
+  - 🔴 **CRITICAL: Invoice 3 (POF0344, $117k) due 2026-10-05** — assigned to Meredith O'hara Needham. **This is imminent (3 days from knowledge cutoff 2026-10-02).**
+  - 🔴 **Personnel Qualifications Audit in Progress (2026-10-01/10-02):** Spencer Hoehl requested all team members provide FAA certifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, COA credentials. This suggests operational readiness review or compliance verification underway; may impact deployment or UxSOC coordination.
   - ⚠️ **Original deadline 2026-07-31 passed; delivery completion delayed ~17–28 days on critical path items**
   - ⚠️ **Web-based controller due 2026-07-31 — STATUS UNKNOWN; confirm with Ben Busby**
   - ⚠️ **Option 2 delivery windows are tight:** 13 S0s due Oct 31, 21 S0s due Nov 30, 2026
   - ⚠️ **30 S0s (third tranch, June 1, 2027)** — project due date set in Asana but contract formalization pending; may require new delivery order or amendment
-  - ⚠️ **Personnel qualifications audit underway:** Spencer Hoehl requested all team members (2026-10-01/10-02) provide FAA certifications (Part 107, 61, 141), security clearances, NOAA training, COA credentials — suggests operational readiness review or compliance verification in progress
 
 ## Key Deliverables & Milestones
 
@@ -47,7 +48,7 @@
 
 **Option 2 (POF0344) — $628,000 (34 S0s total):**
 - 13 S0s: due Oct 31, 2026
-- 21 S0s: due Nov 30, 2026 (project notes indicate likely delivery by end of November)
+- 21 S0s: due Nov 30, 2026 (likely delivered by end of November per project notes)
 
 **Future Scope (project due date set, contract formalization pending):**
 - 30 S0s: due June 1, 2027
@@ -65,8 +66,10 @@
 | **6 of 6** | **CLIN 1001 (DO F0084)** | **$72,000** | **2026-09-11** | ✅ **SUBMITTED 2026-09-28** |
 | **1 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-08-03** | ✅ **SUBMITTED 2026-08-03** |
 | **2 of 3** | **POF0344 (Option 2)** | **$58,500** | **2026-09-14** | ✅ **SUBMITTED 2026-09-28** |
-| **3 of 3** | **POF0344 (Option 2)** | **$117,000** | **2026-10-05** | 🔴 **OPEN — CRITICAL DEADLINE (3 days)** |
+| **3 of 3** | **POF0344 (Option 2)** | **$117,000** | **2026-10-05** | 🔴 **OPEN — CRITICAL DEADLINE** |
 
-**Hardware & Firmware Milestones (Original DO):**
-- ✅ Hardware ship (SHOW s0's + tripods): 2026-05-19 (early)
-- 
+## Task Summary
+
+**Total Tasks:** 24 open, 0 completed
+
+**Tasks by Assignee

@@ -18,6 +18,7 @@
   - **QC transition uncertain:** Units in QC since July 3, 2026, but no timeline provided for QC completion
   - **Potential 4-unit follow-on order pending:** ERAU considering larger purchase contingent on successful ISARRA Flight Week delivery and customer validation
   - **Concurrent Industrial Plan restructuring:** Reorganization into Product Pillar Portfolio and proposed September 2026 schedule shifts (moving S0/S0-VTOL ISR left) may impact staffing availability for final delivery push
+  - **Production pipeline process gap:** No well-defined process for transitioning proposed system builds/deliveries into production pipeline (per Daniel Prendergast, October 19–20, 2026) — may impact future 4-unit follow-on order execution
 
 ## Key Deliverables & Milestones
 
@@ -49,6 +50,7 @@
 - **Pattern:** All logistics tasks lack ownership and due dates despite paid invoice ($21.2K) and committed August/September 2026 delivery window. Critical scheduling gap.
 
 ## Recent Activity
+- **October 19–20, 2026:** Daniel Prendergast flagged process gap: no well-defined process for transitioning proposed system builds/deliveries into production pipeline. Example: LMUK project requires 2×S0-AD with Magnetometer, 2×S0-AD with Camera, plus additional units—pipeline transition mechanism unclear. Referenced S0 Production QC Website (built by Jack Elston, currently tracking S0-AD orders only) as potential framework for expansion. (Prendergast, Slack)
 - **July 28, 2026:** Maciej proposed Industrial Plan modifications effective September 2026: moving S0/S0-VTOL ISR left in schedule to support UK demo and Whitehorse demo logistics; canceling S3 Europe wing reduction; rebalancing other S3 test items (Maciej, Slack)
 - **July 24, 2026:** Maciej created Product Pillar Portfolio structure; moved S0 VTOL IRAD project into portfolio alongside S0 IRAD, S3 IRAD, and Albatross IRAD. Plan to separate Industrial Plan IRAD tasks from customer delivery milestones (Maciej, Slack)
 - **July 6, 2026:** Confirmation: Two units in QC; Invoice 1667 ($21,181.81) paid May 21, 2026; August delivery target aligned with ISARRA planning and transport logistics (Jack Elston & Kevin Adkins)
@@ -66,11 +68,5 @@
 - **Tracking Bug:** Per Beck (March 17, 2026), flight-testing to resolve tracking bug was ongoing. Units in QC as of July 3, 2026 suggest technical work advancing, but **no current status update on bug resolution provided as of July 2026**. **URGENT: Confirm resolution timeline with Beck to validate August/September delivery feasibility.**
 - **NDAA Compliance:** S0 VTOL "can be" NDAA compliant but not fully compliant yet (per Alex Lomis, April 17, 2026).
 
-### Organizational Changes
-- **Portfolio Restructuring (per Maciej, July 24, 2026):** S0 VTOL IRAD project now integrated into new Product Pillar Portfolio structure alongside S0 IRAD, S3 IRAD, and Albatross IRAD. Ongoing effort to separate Industrial Plan IRAD tasks from customer delivery milestones.
-- **Industrial Plan Schedule Modifications (per Maciej, July 27–28, 2026):** Proposed September 2026 changes include moving S0/S0-VTOL ISR left in schedule to support UK and Whitehorse demos. **Recommend clarifying whether this will affect final delivery push staffing/timeline.**
-
-### Immediate Action Items (URGENT)
-1. **Beck/Engineering:** Confirm current status of flight-testing tracking bug and expected resolution date; assess impact to August/September delivery if unresolved
-2. **Jack Elston:** Set final due date for delivery task immediately (recommend early August 2026 to meet ISARRA Flight Week timeline and allow buffer for QC completion)
-3. **Assign and date
+### Organizational Changes & Production Process
+- **Portfolio Restructuring (per Maciej, July 24, 2026):** S0 VTOL IRAD project now integrated into new Product Pillar Portfolio structure alongside S0 IRAD, S3 IRAD, and Albatross IRAD. Ongoing effort to

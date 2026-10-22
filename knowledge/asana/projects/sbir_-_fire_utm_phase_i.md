@@ -46,4 +46,4 @@ Per Jack Elston (June 15–16, 2026), Kareem will coordinate with Maciej Stachur
 
 ## Administrative Notes
 - **Fireflies Account Policy** (August 20–21, 2026): Per Jack Elston, team members should not use BST accounts to sign into Fireflies, as this pollutes the ecosystem with unwanted hooks. Team is working on blocking this access.
-- **Note on October 2026 Feedback**: Feedback entries from October 1–8, 2026 appear to reference SOCOM project updates (end cap CAD, accelerometer ordering, ROMs/CONOPS derivation) and are unrelated to Fire UTM Phase I.
+- **Note on October 2026 Feedback**: Feedback entries from October 1–8, 2026 reference SOCOM project updates (end cap CAD, accelerometer ordering, ROMs/CONOPS derivation) and are **not related to Fire UTM Phase I** — they were captured in this project's data feed but belong to a separate initiative.

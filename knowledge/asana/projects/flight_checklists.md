@@ -9,11 +9,11 @@
   - ISARRA delivery target: **August/September 2026**
   - NOAA ocean array test flight (By-Lite): **late July or early August 2026** (exact date TBD per Maciej, 2026-07-13)
   - Asana milestone dates (2026-05-20 to 2026-05-29) are **stale and do not reflect actual flight schedule**
-- **Status:** **BLOCKED & OPERATIONALLY STALE — WINDING DOWN FOR SEASON.** All 12 Asana tasks remain unassigned. Real work is **external-dependency-driven and team-coordinated via Slack**. Asana project structure does not reflect actual flight operations underway. **[TEAM CORRECTION — Daniel Prendergast, 2026-10-01/02]:** "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — indicates current team is transitioning out of flight operations role; next season will be handled by new ops team with fresh qualifications.
+- **Status:** **WINDING DOWN — TEAM TRANSITIONING OUT OF FLIGHT OPS ROLE.** [TEAM CORRECTION — Daniel Prendergast, 2026-10-01/02]: "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — current team is **transitioning out of active flight operations**; next season will be handled by new ops team with fresh qualifications. All 12 Asana tasks remain unassigned. Real work is **external-dependency-driven and team-coordinated via Slack**. Asana project structure does not reflect actual flight operations.
 - **Team Members:** Ethan Domagala (owner), Daniel Prendergast (project lead/SOCOM priority/post-flight workflow), Jack Elston (ISARRA logistics), Maciej (By-Lite flights/NOAA coordination), Kevin Adkins (approvals), Beck (flight-testing/demo calendar), Josh, Alex, Ben
 - **Critical Risk Signals:**
   - **All 12 tasks unassigned** — execution blocker despite active flight operations
-  - **4 tasks OVERDUE:** Planning Task 1 (due 2026-05-20, **69+ days past**), Execution Tasks 1 & 2 (due 2026-05-26, **63+ days past**), Milestone 1 (due 2026-05-21, **68+ days past**)
+  - **4 tasks OVERDUE:** Planning Task 1 (due 2026-05-20, **163+ days past**), Execution Tasks 1 & 2 (due 2026-05-26, **157+ days past**), Milestone 1 (due 2026-05-21, **162+ days past**)
   - **Status inconsistencies:** Planning Task 3 marked "Completed" but remains open; Execution Task 2 & Milestone 1 marked "In progress" but unassigned with no updates
   - **Data quality issue:** One task has empty title/description field
   - **Project structure obsolete** — real priorities driven by external dependencies and team Slack coordination, not Asana pipeline
@@ -47,7 +47,7 @@
   - Milestone 3 has no due date
 - **Planning estimates:** Planning Task 1 (30m), Planning Task 2 (45m), Planning Task 3 (20m); execution/launch/milestone tasks have no estimates
 - **Completion rate:** 0% (12 open, 0 closed; inconsistency in Planning Task 3 status)
-- **By stage:** All 12 tasks in "Planning" stage despite active flight operations underway
+- **By stage:** All 12 tasks in "Planning" stage despite wind-down of flight operations
 - **By priority:** 4 High (Milestone 3, Launch Task 2, Planning Task 1, Execution Task 2), 2 Medium (Execution Task 1, Milestone 1), 2 Low (Launch Task 1, Milestone 2), 4 unspecified
 - **By assignee:** Unassigned (12/12)
 - **By due date:** 4 tasks **OVERDUE** (Planning Task 1 due 2026-05-20, Execution Tasks 1 & 2 due 2026-05-26, Milestone 1 due 2026-05-21); 1 task due 2026-05-29; 7 tasks with no due date
@@ -58,10 +58,8 @@
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-10-01 & 2026-10-02** — Daniel Prendergast: **TEAM TRANSITION UNDERWAY.** "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — indicates current team (Jack, Josh, Alex, Maciej, Beck, et al.) is **transitioning out of flight operations role**; next season's flight operations will be handled by a new ops team with fresh qualifications. Implies wind-down of current flight checklist project and transition planning for Q4 2026.
+**2026-10-15 & 2026-10-16** — Daniel Prendergast: **Confirmation of data accuracy.** "Mine's correct. Stop hazing me, Mr. Flight Director" — indicates project lead is actively engaged; underscores importance of his prior feedback on team transition.
 
-**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides Daniel's earlier in-progress updates. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline. Daniel's request (2026-07-14 & 2026-07-13) to add the form link is **now implemented and live**.
+**2026-10-01 & 2026-10-02** — Daniel Prendergast: **TEAM TRANSITION UNDERWAY.** "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — confirms current team (Jack, Josh, Alex, Maciej, Beck, et al.) is **transitioning out of active flight operations role**; next season's flight operations will be handled by a new ops team with fresh qualifications. **Current Flight Checklists project is winding down; should not expect new flight ops tasks to be assigned to current team members.**
 
-**2026-07-23 & 2026-07-22** — Daniel Prendergast: **Murphy's Pond Flight #4 POSTPONED INDEFINITELY.** All travel and logistics arrangements already made should be cancelled.
-
-**
+**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides earlier in-progress status. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline. Daniel's request to add the form link is **now implemented and live**.

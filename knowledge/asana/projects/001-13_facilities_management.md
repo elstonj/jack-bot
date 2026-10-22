@@ -3,52 +3,67 @@
 ## Overview
 - **Client/customer**: Internal operations (BST office and shop space maintenance)
 - **Dollar value**: Lease costs $13.00–$14.63 NNN over 60-month term, plus $6.23 CAM for real estate taxes and building insurance
-- **Timeline**: Ongoing operational project with recurring weekly purchasing cycles and bi-weekly cleaning tasks
-- **Status**: Active - operational cadence maintained. **⚠️ DATA INCONSISTENCY**: Current snapshot shows only 1 open task ("Facilities Improvements", unassigned, no due date); prior snapshot showed 2 open tasks ("Office Cleaning" due 2026-10-03 and "Ongoing Office Purchasing List" due 2026-10-02, both assigned to Meredith O'hara Needham). This suggests either those tasks were completed/archived recently or the task list structure has changed. Recommend verifying whether recurring cleaning and purchasing tasks still exist or need to be recreated.
+- **Timeline**: Ongoing operational project with recurring weekly purchasing cycles and bi-weekly cleaning tasks. Lease term: 60 months (escalating NNN rates).
+- **Status**: Active — operational cadence maintained. **Data reconciled**: Previous snapshot showed missing "Pay Rent", "Office Cleaning", and "Ongoing Office Purchasing List" tasks; new data confirms all three are present and open. Current status: 6 open tasks, 0 completed.
 - **Team members involved**: 
-  - Meredith O'hara Needham (primary operational owner: cleaning coordination, purchasing coordination)
+  - Meredith O'hara Needham (primary operational owner: rent coordination, cleaning coordination, purchasing coordination)
   - Nate Straus (equipment planning; consumables stock tracker owner)
   - Cory Dixon (leadership oversight)
 - **Risk signals**: 
-  - **High-priority**: "Pay Rent" task absent from Asana despite being core operational requirement. Unclear if managed off-platform (e.g., via accounting system or standing bank order) or inadvertently removed.
-  - **High-priority**: Recurring "Office Cleaning" and "Ongoing Office Purchasing List" tasks missing from current snapshot; verify whether recently completed, archived, or need to be recreated.
-  - **Moderate**: "Facilities Improvements" task unassigned with no due date — lacks ownership and timeline clarity.
-  - **Moderate**: Consumables tracker last updated 2025-11-04; may need refresh.
+  - **Critical**: "Pay Rent" task due 2026-09-28 (OVERDUE as of 2026-10-05). Verify whether payment has been made and task should be closed, or if there is a payment issue.
+  - **High-priority**: "Office Cleaning" due 2026-10-03 (OVERDUE as of 2026-10-05). Confirm whether service was completed.
+  - **High-priority**: "Ongoing Office Purchasing List" due 2026-10-02 (OVERDUE as of 2026-10-05). Verify if weekly collection was completed.
+  - **Moderate**: "Facilities Improvements", "Equipment wish list", and "Lease terminates" tasks unassigned with no due dates — lack ownership and timeline clarity.
 
 ## Key Deliverables & Milestones
-- **Weekly office purchasing list** (recurring consumables collection)
-  - **Previous task**: "Ongoing Office Purchasing List" (was due 2026-10-02, assigned Meredith O'hara Needham — *status unclear in current data*)
-  - **Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
 
-- **Bi-weekly office cleaning** (via Neat N Tidy)
-  - **Previous task**: "Office Cleaning" (was due 2026-10-03, assigned Meredith O'hara Needham — *status unclear in current data*)
+- **Monthly rent payments** (recurring, first due 2026-09-28 — *OVERDUE*)
+  - **Task**: "Pay Rent" (assigned Meredith O'hara Needham)
+  - **Amount**: ~$13.00–$14.63 NNN + $6.23 CAM depending on lease year
+  - **Landlord**: Goose Creek (Amy Smith, Property Manager: amy@wwreynolds.com, 303-941-8243 / 303-442-8687)
+
+- **Bi-weekly office cleaning** (recurring, last due 2026-10-03 — *OVERDUE*)
+  - **Task**: "Office Cleaning" (assigned Meredith O'hara Needham)
   - **Booking portal**: https://neatntidy.bookingkoala.com/ (login: purchasing@blackswifttech.com / 297EZXULBMbZyY)
   - **Service**: Whole BST team
-  
+  - **Vendor**: Neat N Tidy
+
+- **Weekly office purchasing list** (recurring, last due 2026-10-02 — *OVERDUE*)
+  - **Task**: "Ongoing Office Purchasing List" (assigned Meredith O'hara Needham)
+  - **Notes**: Collect purchases for the week here
+  - **Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus)
+
 - **Facilities Improvements** (current open task)
   - **Status**: Unassigned, no due date
   - **Needs clarification**: Scope, owner, and timeline required
 
-- **Monthly rent payments**
-  - **Status**: Task not currently visible in Asana; verify whether managed off-platform
-  - **Amount**: ~$13.00–$14.63 NNN + $6.23 CAM depending on lease year
-  - **Landlord**: Goose Creek (Amy Smith, Property Manager: amy@wwreynolds.com, 303-941-8243 / 303-442-8687)
+- **Equipment wish list** (current open task)
+  - **Status**: Unassigned, no due date
+  - **Needs clarification**: Scope and priority required
+
+- **Lease terminates** (current open task)
+  - **Status**: Unassigned, no due date
+  - **Notes**: 6.23 CAM real estate property taxes and building insurance
+  - **Needs clarification**: Lease end date and renewal/exit decision required
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
+- **Total tasks**: 6 open, 0 completed
 - **Tasks by assignee**:
-  - **Unassigned**: 1 open (Facilities Improvements, no due date)
+  - **Meredith O'hara Needham**: 3 open (Pay Rent *OVERDUE*, Office Cleaning *OVERDUE*, Ongoing Office Purchasing List *OVERDUE*)
+  - **Unassigned**: 3 open (Facilities Improvements, Equipment wish list, Lease terminates — all without due dates)
 - **Notable patterns**:
-  - **Data gap**: Two previously-tracked recurring operational tasks (Office Cleaning, Ongoing Office Purchasing List) are absent from current snapshot
-  - **Ownership vacuum**: Facilities Improvements unassigned despite being the only visible open task
+  - All operational recurring tasks assigned to Meredith O'hara Needham; all three are overdue as of 2026-10-05
+  - Strategic/planning tasks (Facilities Improvements, Equipment wish list, Lease terminates) lack ownership and timelines
 
 ## Recent Activity
-- **Open tasks** (as of current data):
-  - **Facilities Improvements** — Unassigned, no due date
+- **Overdue tasks** (as of 2026-10-05):
+  - **Pay Rent** — Due 2026-09-28 (7 days overdue); assigned Meredith O'hara Needham
+  - **Ongoing Office Purchasing List** — Due 2026-10-02 (3 days overdue); assigned Meredith O'hara Needham
+  - **Office Cleaning** — Due 2026-10-03 (2 days overdue); assigned Meredith O'hara Needham
 
-- **Completed tasks**: None visible
+- **No completed tasks visible**
 
-- **Data change**: Office Cleaning and Ongoing Office Purchasing List tasks disappeared from previous snapshot; no completion notes visible. Recommend confirming whether these were archived, closed without recording, or need to be recreated.
+- **Data reconciliation**: Previous snapshot showed these tasks as missing; new data confirms all are present and open (but overdue). Recommend immediate follow-up to verify payment status and whether cleaning/purchasing tasks were completed but not marked done.
 
 ## Notes & Context
 
@@ -77,7 +92,8 @@
 **Consumables Stock Tracker**: https://docs.google.com/spreadsheets/d/1bv9ienVM2Y3QZq7yaRYrILsuMIW3YzH9uIxnT24QhPw/edit?gid=267798994#gid=267798994 (last updated 2025-11-04 by Nate Straus — *may need refresh*)
 
 **⚠️ Urgent Action Items**:
-1. **Verify status of recurring operational tasks**: Confirm whether "Office Cleaning" (bi-weekly) and "Ongoing Office Purchasing List" (weekly) have been completed/archived or need to be recreated. These are essential operational cadences.
-2. **Locate "Pay Rent" task**: Confirm whether monthly rent payments are (a) being managed off-platform (accounting system, standing bank order), (b) intentionally removed from Asana, or (c) need to be recreated. Essential to prevent missed payments.
-3. **Assign and scope "Facilities Improvements"**: Currently unassigned with no due date. Clarify scope, owner, and timeline.
-4. **Consumables tracker refresh**: Last updated 2025-11-04 by Nate Straus; assign active owner and consider updating.
+1. **Verify overdue payments and tasks**: All three recurring operational tasks assigned to Meredith O'hara Needham are overdue as of 2026-10-05:
+   - **Pay Rent** (due 2026-09-28): Confirm whether rent payment has been made. If not, contact landlord immediately.
+   - **Office Cleaning** (due 2026-10-03): Confirm whether bi-weekly cleaning was completed via Neat N Tidy.
+   - **Ongoing Office Purchasing List** (due 2026-10-02): Confirm whether weekly purchasing list was collected and updated.
+   

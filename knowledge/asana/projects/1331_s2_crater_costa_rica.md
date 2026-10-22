@@ -7,6 +7,7 @@
 - **Status:** **COMPLETE & ARCHIVED** (all deliverables submitted; project archived Oct 21, 2024)
 - **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
 - **Primary Contact:** Richard Kolyer, r.kolyer@nasa.gov, (650) 604-5503
+- **Billing Contact:** PIEE
 
 ## Project Scope
 Provide continuous high-resolution infrared (IR) imagery and in-situ gas sampling over active volcanoes in Costa Rica using BST S2 aircraft platform. Government-funded research demonstration.
@@ -23,7 +24,7 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 | Final Report & NTSR | Jack Elston | 8/19/25 | ✓ 7/23/25 |
 
 ## Task Summary
-- **Total Tasks:** 1 administrative contact record (Richard Kolyer — no action required)
+- **Total Tasks in Asana:** 1 administrative contact record (Richard Kolyer — no action required)
 - **Project Completion:** 100% — all deliverables delivered to NASA on time or early
 - **Key Contributors:**
   - Jack Elston: PIC, Final Report, Demo Report #1 — 100% complete
@@ -40,22 +41,10 @@ Provide continuous high-resolution infrared (IR) imagery and in-situ gas samplin
 - **Project archived Oct 21, 2024**
 
 ## Business Development — NASA Follow-On Opportunity
-**Team Feedback (Alex Lomis, 4/17-4/20/26):** NASA RFI (Request for Information) shared for potential hurricane ET (environmental tracking) opportunity, recommended by NASA stakeholders and Joe for team review:
-
+**Team context:** NASA RFI (Request for Information) shared for potential hurricane ET (environmental tracking) opportunity, recommended by NASA stakeholders and Joe for team review:
 https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 
 *This represents potential follow-on work or new NASA opportunity; recommend internal BD review and response consideration.*
-
-## Notes & Context
-- **Platform:** S2 (vTOL aircraft)
-- **Aircraft deployed:** 1 unit
-- **Pilot in Command:** Jack Elston
-- **Operator:** Dan Prendergast
-- **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
-- **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
-- **Budget note:** Total submitted $80,972; BST allocation $55,976 with $25,000 allocated to in-country contractor
-- **Billing contact:** PIEE
-- **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
 
 ## Active Team Qualification Audit (Oct 2026)
 **Spencer Hoehl initiated team-wide callout (10/1-10/2/26)** requesting documentation of:
@@ -66,6 +55,17 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - Any other relevant qualifications for BST job functions
 
 *Status: Audit in progress — responses being collected by Spencer Hoehl. Likely related to NASA hurricane ET follow-on opportunity or internal compliance review.*
+
+## Notes & Context
+- **Platform:** S2 (vTOL aircraft)
+- **Aircraft deployed:** 1 unit
+- **Pilot in Command:** Jack Elston
+- **Operator:** Dan Prendergast
+- **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
+- **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
+- **Budget note:** Total submitted $80,972; Asana custom field shows $80,972 to BST (supersedes earlier knowledge file note of $55,976 split); clarify with finance if needed
+- **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
+- **Proposal submission:** 12/6/24 estimate emailed; formal SOW and Proposal submitted 1/22/25 to PROSAMS
 
 ---
 

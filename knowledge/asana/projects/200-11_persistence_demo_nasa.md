@@ -28,7 +28,7 @@
 
 ## Task Summary
 
-**Total Tasks in Asana:** 1 contact record (Matthew Fladeland); no active work tasks  
+**Total Tasks in Asana:** 1 contact record (Matthew Fladeland — open); no active work tasks  
 **Completion Rate:** 100% (all contracted work delivered and closed)
 
 ### Notable Completed Work by Assignee
@@ -49,6 +49,11 @@
 
 ## Recent Activity
 
+**Post-Contract Logistics & Follow-On Coordination (September–October 2026):**
+- **09/23/26:** NASA S2 pallet shipment picked up 9:30am–4pm. **Meredith Needham reminder (9/23/26):** Ethan Domagala held pickup paperwork included with shipment. Conference room occupied 2–3pm for interview.
+- **09/21/26 & 09/18/26:** NASA S2 pallet dimensions confirmed by Ethan Domagala: 48" × 120" × 20" tall
+- **10/02/26 & 10/01/26:** Joshua Fromm inquired whether to produce quick video of S2 demo model setup/pack procedures — **awaiting response on demo model video production**
+
 **Contract Closeout Sequence (November 2025):**
 - 11/24/25: Final payment confirmed received; project closure approved and officially closed by Dan Prendergast
 
@@ -61,11 +66,6 @@
 - 8/28/25: Live 24-hour persistence demonstration at Pawnee National Grassland
 - 8/21/25: NightFOX flight test completed
 - 8/18/25: Payload app & Remote ID ground test finalized
-
-**Recent Equipment Logistics (September–October 2026):**
-- **09/23/26:** NASA S2 pallet shipment picked up 9:30am–4pm. Ethan Domagala held pickup paperwork. (Meredith Needham)
-- **09/21/26 & 09/18/26:** NASA S2 pallet dimensions confirmed: 48" × 120" × 20" tall (Ethan Domagala) — **Team Correction by Ethan 09/21/26 & 09/18/26**
-- **10/02/26 & 10/01/26:** Joshua Fromm inquired whether to produce quick video of S2 demo model setup/pack procedures (Joshua Fromm) — status unclear, awaited response
 
 ---
 
@@ -97,9 +97,14 @@
 - **Meredith O'hara Needham:** Flawless contract administration and payment processing
 - **Dan Prendergast:** Flight operations and project closeout
 - **Ethan Domagala:** S2 payload build and logistics coordination
+- **Joshua Fromm:** Post-contract demo documentation support (video production under review)
 
 ### Operational Reference Data
 **NASA Glenn Icing Research Tunnel Rate (Dan Prendergast, 08/25/26):** One day of testing costs **$55k–$60k**. Useful reference for future similar NASA facility work.
+
+### Post-Contract Asset Management
+- NASA S2 aircraft and demo model remain in BST possession as of October 2026
+- S2 demo model setup/pack procedures being considered for video documentation (Joshua Fromm, 10/01–10/02/26) — **status pending response**
 
 ---
 
@@ -109,10 +114,4 @@
 - **Flagged by:** Alex Lomis (04/17/26)
 - **Source:** NASA contacts + external stakeholder "Joe" recommendation during hurricane ET call
 - **RFI Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (Jack Elston, 04/20/26: "the other ones being INSTAAR x2 and this ottawa demo or Murphy's, whatever actually happens first")
-- **Status:** Team to begin AI-assisted RFI response work (Jack Elston or Alex Lomis to lead)
-- **Team Discussion (05/04–05/05/26):** Maciej requested team AI tool support to start RFI responses; Jack or Alex to lead.
-
----
-
-## Demo/Flight
+- **Competing Internal Opportunities:** INSTAAR (2 demonstrations) and Ottawa/Murphy's demonstration (Jack Elston, 04/20/26: "the other ones being

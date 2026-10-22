@@ -4,71 +4,68 @@
 - Client: [001] IRAD
 - Active: Yes
 - Billable: No
-- Total hours tracked: **459.6 hours (cumulative)** ⬆️ (+10.1h)
+- Total hours tracked: **464.4 hours (cumulative)** ⬆️ (+4.8h)
 
 ## Team Allocation
-- **Beck Cotter**: 277.4 hours (60.3% of total)
-- **Dan**: 112.3 hours (24.4% of total)
-- **Jack Elston**: 41.0 hours (8.9% of total)
-- **Stachura**: 28.8 hours (6.3% of total) ⬆️ (+10.1h)
+- **Beck Cotter**: 277.4 hours (59.7% of total)
+- **Dan**: 112.3 hours (24.2% of total)
+- **Jack Elston**: 41.0 hours (8.8% of total)
+- **Stachura**: 33.6 hours (7.2% of total) ⬆️ (+4.8h)
 - **Meredith Needham**: 5.7 hours (1.2% of total)
 - **Nate**: 1.8 hours (0.4% of total)
 
 **Primary contributors:**
-- **Beck Cotter** — 277.4h cumulative (60.3%); NOAA focus; now in micro-batch cadence (1.0h last batch)
-- **Dan** — 112.3h cumulative (24.4%); stable baseline; leadership/oversight role
-- **Stachura** — 28.8h cumulative (6.3%); **newly activated surge** ⬆️ (+10.1h current batch); now second-most-active contributor in this batch
-- **Jack Elston** — 41.0h cumulative (8.9%); external engagement; paused last five batches
+- **Beck Cotter** — 277.4h cumulative (59.7%); NOAA focus; micro-batch cadence
+- **Dan** — 112.3h cumulative (24.2%); leadership/oversight role
+- **Stachura** — 33.6h cumulative (7.2%); **sustained elevated activity** ⬆️ (now 2 consecutive batches with 14.9h combined); second-most-active in ongoing cycle
+- **Jack Elston** — 41.0h cumulative (8.8%); external engagement; paused
 
 ## Activity Timeline
 
-**Current batch (10.1 hours):**
-- **Stachura**: 10.1h (8 entries, all undocumented) = fragmented work pattern
-  - Entry breakdown: 0.5h, 1.9h, 1.0h, 1.3h, 2.0h, 1.2h, 0.9h, 1.3h
+**Current batch (4.8 hours):**
+- **Stachura**: 4.8h (2 entries, both undocumented)
+  - Entry breakdown: 2.0h, 2.8h
 
-**Recent trajectory (last 8 batches):**
-- Beck Cotter: **1.0h (last batch)** → 8.0h → 8.0h → 16.0h → 44.0h → 16.0h → 3.5h → 7.2h (NOAA-focused; micro-batch phase)
-- Stachura: **10.1h (current batch, NEW SURGE)** ← dormant previous five batches ← 18.7h cumulative (prior batches)
-- Dan: Dormant (last five batches)
-- Jack Elston: Dormant (last five batches)
+**Recent trajectory (last 9 batches):**
+- Stachura: **4.8h (current batch, NO DESCRIPTION)** → 10.1h (prior batch, NO DESCRIPTION) = **14.9h in last 2 batches; sustained surge pattern** ⬆️
+- Beck Cotter: 1.0h (stable micro-batch)
+- Dan: Dormant (last five+ batches)
+- Jack Elston: Dormant (last five+ batches)
 
-**Pattern shift**: Stachura reactivated with significant multi-entry sprint after extended dormancy; Beck Cotter continues lightweight NOAA micro-batch work; Dan and Jack remain paused.
+**Pattern shift confirmed**: Stachura reactivation is sustained, not isolated spike. Two-batch pattern (14.9h combined) indicates sustained workstream engagement. Continued documentation gap across both batches.
 
 ## Insights
 
 **Types of work** (from documented entries):
-- **Stachura**: 10.1h current batch — **undocumented; no descriptions provided**
-  - Work type unknown; cannot infer from Toggl data alone
-  - Prior Stachura activity (18.7h cumulative) also lack granular documentation
+- **Stachura**: 4.8h current batch — **undocumented; no descriptions provided**
+  - Prior batch (10.1h) also undocumented
+  - **Combined 14.9h over two batches with zero visibility into work type**
 - **Beck Cotter**: NOAA Proposal (general), NOAA IDIQ development, general proposal development
 - **Dan**: Leadership/oversight (dormant)
 - **Jack Elston**: NOAA Proposal & BST Whitepaper (paused)
 
 **Work patterns:**
 
-- **Stachura: Reactivation surge** ⬆️ 🔴 **Documentation concern**
-  - **10.1h in current batch**: Largest single-batch contribution from Stachura recorded
-  - **Fragmented entries** (eight time chunks over session): Suggests iterative work, multiple parallel activities, or session interruptions
-  - **Zero documentation**: All eight entries lack description; work nature entirely opaque
-  - **Dormancy break**: After five silent batches, sudden return to active status; trigger/context unknown
-  - **Escalation risk**: Cumulative Stachura hours now 28.8h (6.3% of project); if pattern continues, will become third-largest contributor, requiring visibility into work type
+- **Stachura: Sustained reactivation surge** ⬆️ 🔴 **ESCALATED DOCUMENTATION CONCERN**
+  - **14.9h over 2 consecutive batches**: Confirms this is not a one-off spike but active engagement reset
+  - **Consolidated entries**: Current batch shows 2 entries (2.0h, 2.8h) vs. prior batch's 8 fragmented entries—suggests stabilizing work rhythm, but documentation remains absent
+  - **Zero documentation across 10 entries**: All Stachura hours in surge period lack any work description
+  - **Cumulative impact**: Stachura now 33.6h (7.2% of project), positioned to become third-largest contributor if momentum continues
+  - **Visibility crisis**: Cannot categorize work type, priority alignment, or deliverable connection
 
-- **Beck Cotter: Micro-batch consolidation**
-  - Continuing 1.0h lightweight entries (NOAA focus); pattern stable
-  - Cumulative eight-batch surge (103.7h) now extended to 104.7h with this cycle
-  - Work scope appears narrowing (proposal finalization, monitoring, or deprioritization phase)
+- **Beck Cotter: Micro-batch steady state**
+  - Continuing 1.0h lightweight entries; pattern stable and predictable
+  - NOAA focus confirmed; work scope remains narrow
 
-- **Documentation discipline: REGRESSION** 🔴
-  - Current batch: Stachura 10.1h, 0% documented
-  - Prior batch: Beck Cotter 1.0h, 100% documented
-  - **Action required**: Stachura entries require retroactive description for workstream clarity
-
-- **Team engagement: Tier shift**
-  - Primary: Beck Cotter (micro-batch sustained)
-  - Secondary: Dan (oversight baseline, dormant)
-  - Emerging/fluctuating: Stachura (reactivated; now momentarily largest batch contributor)
+- **Team engagement: Stachura emergence accelerating**
+  - Primary tier: Beck Cotter (277.4h sustained)
+  - Secondary tier: Dan (112.3h baseline, dormant)
+  - **Emerging third tier: Stachura (33.6h; now showing 2-batch momentum)**
   - Paused: Jack Elston
 
 ---
 
-**⚠️ Recommendation**: Obtain work descriptions from Stachura for current 10.1h batch to maintain project transparency and track proposal workstream priorities.
+**🔴 URGENT RECOMMENDATION**: 
+1. **Immediate**: Obtain retroactive work descriptions for current 4.8h batch (2 entries) + prior 10.1h batch (8 entries) = **14.9h documentation backlog**
+2. **Process**: Establish mandatory description requirement for Stachura entries going forward to maintain proposal workstream transparency
+3. **Context**: Clarify whether Stachura reactivation is planned initiative, response to proposal deadline, or uncoordinated effort

@@ -4,51 +4,68 @@
 - Client: [001] IRAD (Internal Research and Development)
 - Active/inactive status: Active
 - Billable status: Non-billable
-- Total hours tracked: 992.4 hours (987.6 + 4.8)
+- Total hours tracked: 1,035.8 hours (992.4 + 43.4)
 
 ## Team Allocation
-- Ben Busby: 655.6 hours (66.1%)
-- Stachura: 292.2 hours (29.4%)
-- Jack Elston: 34.4 hours (3.5%)
-- Spencer Hoehl: 10.3 hours (1.0%)
+- Ben Busby: 655.6 hours (63.3%)
+- Stachura: 317.1 hours (30.6%)
+- Jack Elston: 44.2 hours (4.3%)
+- Ali Sulehria: 10.4 hours (1.0%)
+- Spencer Hoehl: 11.8 hours (1.1%)
 
 ## Activity Timeline
-Recent work entries (current batch):
-- **Jack Elston**:
-  - 4.8 hours total (2 entries: 2.8h, 2.0h)
-  - Work: Simulator Development
-  - ✅ **FULLY DOCUMENTED** — maintains 100% documentation compliance
 
-**Historical context** (Stachura entries from previous batch):
-- 12.5 hours total
-- ⚠️ **ALL 5 ENTRIES LACK DESCRIPTIONS** — undocumented
+**Current batch (43.4 hours):**
+- **Jack Elston** (9.8 hours total):
+  - 1.0h + 2.2h + 2.0h + 1.5h: Simulator Development (6.7h)
+  - 3.0h: SwiftCore 3.3 RC creation
+  - ✅ **100% documented** — all entries have descriptions
+
+- **Spencer Hoehl** (1.5 hours total):
+  - 1.5h: Simulator Testing
+  - ✅ **Fully documented**
+
+- **Stachura** (24.9 hours total):
+  - 7.0h + 0.5h + 3.2h + 0.5h + 6.6h + 0.7h + 0.9h + 1.5h + 3.9h = 24.9h
+  - ⚠️ **100% UNDOCUMENTED** — 9 consecutive entries with no descriptions
+
+- **Ali Sulehria** (7.2 hours total):
+  - 2.9h + 1.0h + 3.2h = 7.2h
+  - ⚠️ **100% UNDOCUMENTED** — 3 entries with no descriptions
+
+**Historical context:**
+- Previous batch: Jack Elston (4.8h, 100% documented), Stachura undocumented entries pattern established
 
 ## Insights
-- **Primary work types** (from historical context):
-  - VTOL system development
-  - Gazebo simulation modeling (E2 platform)
-  - Flight control interface improvements
-  - Avionics system fixes (RID, ADSB)
-  - **Simulator Development** (current focus)
-  - Bug fixes and testing
-  - Code review and debugging
-  - Firmware integration and branch merging
 
-- **Documentation Compliance Status**:
-  - Jack Elston: 100% documentation rate (4.8h this batch, all described)
-  - Stachura: **CRITICAL PATTERN** — 18+ consecutive undocumented entries across three batches (26.6+ hours now undocumented)
-  - Compliance differential: Stark contrast between team members
+**Work Types (documented entries only):**
+- Simulator Development (primary focus)
+- SwiftCore 3.3 RC creation
+- Simulator Testing
+- Supporting VTOL systems, Gazebo simulation, flight control, avionics
+
+**Documentation Compliance Crisis:**
+- **Jack Elston**: 44.2 hours tracked, 100% documented (maintains full compliance)
+- **Stachura**: 317.1 total hours; **51.5+ hours now undocumented across four consecutive batches** (26.6h + 24.9h this batch)
+- **Ali Sulehria**: NEW PATTERN ALERT — 7.2 hours, 100% undocumented (first appearance in dataset)
+- **Spencer Hoehl**: 11.8 hours, documented entries
 
 ---
 
-## 🚨 ESCALATION STATUS — PATTERN PERSISTENT
+## 🚨 ESCALATION STATUS — CRITICAL
 
-**This confirms THIRD consecutive batch with 100% undocumented entries from Stachura.**
+**FOURTH consecutive batch with 100% undocumented entries from Stachura. NEW: Ali Sulehria shows 100% undocumented pattern on first appearance.**
 
-**Recommended Actions** (unchanged from previous escalation):
-1. **ENFORCE HARD BLOCK**: Reject any time entries without descriptions at submission
-2. **RETROACTIVE AUDIT**: Reconstruct Stachura's work context for 292.2 hours
-3. **MANAGEMENT ESCALATION**: Pattern consistency (26.6h undocumented across 2 batches) indicates systematic non-compliance
-4. **SYSTEM ENFORCEMENT**: Implement technical validation rule requiring descriptions before entry acceptance
+**Cumulative Undocumented Hours:**
+- Stachura: 51.5+ hours (14.9% of total project hours)
+- Ali Sulehria: 7.2 hours (100% of her entries)
 
-**Positive Note**: Jack Elston continues full documentation compliance and contributes meaningfully to Simulator Development work.
+**Immediate Actions Required:**
+1. **HARD BLOCK IMPLEMENTATION** (URGENT): Reject all time entries lacking descriptions at submission
+2. **STACHURA AUDIT**: Reconstruct work context for 317.1 hours — establish what work is actually being performed
+3. **ALI SULEHRIA**: Flag for immediate management discussion — establish documentation expectations on first violation
+4. **SYSTEM ENFORCEMENT**: Technical validation rule must prevent entry acceptance without descriptions
+5. **MANAGEMENT ESCALATION**: Escalate Stachura pattern to leadership — systematic non-compliance across 4 batches
+
+**Positive Contributor:**
+- Jack Elston: Consistent documentation + meaningful Simulator Development work (9.8h this batch, 100% described)

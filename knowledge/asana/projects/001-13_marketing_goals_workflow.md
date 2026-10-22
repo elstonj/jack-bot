@@ -39,7 +39,7 @@
 - **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
 - **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
 - **Project archived:** April 2025 (end of fiscal marketing cycle)
-- **Current status (as of July 2026):** No open tasks; project fully archived with task history cleared from view
+- **Current status (as of October 2026):** No open tasks; project fully archived with task history cleared from view
 
 ## Notes & Context
 
@@ -83,4 +83,4 @@ This project successfully established BST's marketing framework, digital infrast
 
 ---
 
-**Status as of July 2026:** No updates to this archived project. This marketing project is unrelated to recent team feedback regarding postflight maintenance workflows and log parse process improvements (discussed July 2026 between Daniel Prendergast and Ben). This knowledge file remains accurate and complete as documented above.
+**Status as of October 2026:** No updates to this archived project. This archived marketing project remains unrelated to current workflow discussions. This knowledge file remains accurate and complete as documented above.

@@ -2,11 +2,11 @@
 
 ## Overview
 - **Team**: Operations
-- **Status**: ACTIVE (reactivated as of September 2026 — previously archived)
+- **Status**: ACTIVE (reactivated September 2026 for current hiring cycle)
 - **Purpose**: Tracking candidates through the hiring process
 - **Timeline**: 
   - Previous cycle: 2024–2025 (archived October 2025)
-  - Current cycle: September 2026–October 2026 (ongoing)
+  - Current cycle: September 2026–ongoing
 - **Team members involved**: Cory Dixon (hiring lead); all tasks unassigned (centrally managed by Operations)
 - **Risk signals**: None — hiring proceeding on schedule with first start date October 5, 2026
 
@@ -23,16 +23,16 @@
 - **Pending**: 2 offers awaiting candidate signatures
 
 ## Task Summary
-- **Total tasks**: 1 (0 completed, 1 open)
+- **Total tasks**: 1 open, 0 completed
 - **Assignment pattern**: All tasks unassigned, indicating centralized Operations team management
 - **Custom field usage**: "Hiring Candidate Status" and "Job(s) Applied to" used for candidate tracking
 - **Note**: Open task placeholder shows no specific candidate name yet (data entry pending)
 
 ## Recent Activity
-- **2026-09-30**: Cory Dixon provided hiring status update — 4 offers accepted, 2 pending signatures, onboarding process starting October 5
+- **2026-09-30**: Cory Dixon provided hiring status update — 4 offers accepted, 2 pending signatures, first cohort onboarding begins October 5
 - Previous project archived October 2025; reactivated for current hiring cycle
 
 ## Notes & Context
-- Archive status in Asana does not reflect current reality; hiring is actively underway as of late September 2026
+- Asana archive status does not reflect current operational reality; hiring is actively underway as of late September 2026
 - Key positions include UAS Technicians (2 roles), plus 11 other positions across the organization
-- First cohort of 4 new hires begin October 2026; expect additional task creation as candidates onboard
+- First cohort of 4 new hires begins October 2026; expect additional task creation as candidates onboard and complete onboarding workflows

@@ -16,8 +16,8 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **General POC:** Geoffrey Bland
   - **NASA email (retired):** geoffrey.l.bland@nasa.gov (retired August 2025)
   - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com (preferred contact)
-  - **Current role:** Manages/runs Aeropods project post-retirement from NASA
-  - **Location:** Goddard Space Flight Center, Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
+  - **Current role:** Helps manage/run Aeropods project post-retirement from NASA
+  - **Address:** Goddard Space Flight Center, 613 Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
   - **Organization:** NASA Ames
   - **Website:** https://www.nasa.gov/ames/
 - **Billing POC:** PIEE
@@ -29,7 +29,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 ## Task Summary
 - **Total Tasks:** 1 open (unassigned), 0 completed
 - **Open Task:**
-  - Geoffrey Bland (Aeropods) contact record — Unassigned, no due date — High priority; reference record with contact details for post-retirement outreach
+  - **Geoffrey Bland (Aeropods) contact record** — Unassigned, no due date — High priority; reference record with contact details for post-retirement outreach and Aeropods project collaboration
 
 ## Recent Activity
 
@@ -44,7 +44,7 @@ BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Scie
 - **[2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference** (Daniel Prendergast): Current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
 
 ### Recent Shipment Activity (September 2026)
-- **[2026-09-23 & 2026-09-22]** Meredith Needham reminded team of NASA shipment pickup between 9:30 AM–4 PM. Ethan has accompanying paperwork. Conference room occupied 2–3 PM for interview.
+- **[2026-09-23]** Meredith Needham reminder (per team corrections): NASA shipment pickup scheduled 9:30 AM–4 PM today. Ethan has accompanying paperwork. Conference room occupied 2–3 PM for interview.
 - **NASA S2 pallet specs** (Ethan, 2026-09-21 & 2026-09-18): 48×120 inches, 20 inches tall
 
 ## Notes & Context

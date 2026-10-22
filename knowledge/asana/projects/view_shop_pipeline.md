@@ -40,7 +40,7 @@
   - Permission from OSMP rangers required for S2 and S0 demonstrations in Boulder area
   - Contact: Hunter Ray (hunterray@boulderrescue.org), last contact Nov 11, 2025
   - Next steps: No action needed
-- **FACILITY ALERT (October 14, 2026)**: Leaky roof identified in new shop — Joshua Fromm reported the issue. Located in middle of shop with no equipment currently at risk. **Not urgent but requires eventual maintenance scheduling.**
+- **FACILITY ALERT (October 14, 2026)**: Leaky roof identified in new shop — **Joshua Fromm reported**: "we've got a leaky roof in one obvious spot in the new shop. Not urgent it's in the middle of the shop so nothing is there right now." Location: middle of facility. Status: **not urgent; no equipment at risk.** Requires eventual maintenance coordination.
 - **ACTIVE/OPEN**: "2026 Hurricane" NOAA task — newly visible in current project view, unassigned and undated
 
 ## Notes & Context
@@ -59,4 +59,4 @@
 - **Regulatory requirement**: OSMP (Open Space and Mountain Parks) ranger permission required for S2/S0 demonstrations in Boulder area
 - **ACTION NEEDED**: 
   - "2026 Hurricane" (NOAA) task remains unassigned with no due date — appears to be new customer opportunity or project requirement needing immediate clarification, scope definition, platform/quantity specification, and due date assignment
-  - Roof leak in new shop needs maintenance coordination (not urgent; no equipment at risk per Joshua Fromm, Oct 14, 2026)
+  - Roof leak in new shop needs maintenance coordination (Joshua Fromm, Oct 14, 2026 — not urgent; no equipment at risk)

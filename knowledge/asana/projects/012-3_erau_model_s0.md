@@ -14,15 +14,15 @@
   - Value: $2,462.50
 
 ## Task Summary
-- **Total:** 0 open, 0 active in Asana
+- **Total:** 0 open, 0 completed in Asana
 - All tasks have been closed out post-delivery
 
 ## Recent Activity
 **Shipment completed 2026-07-02** by Meredith O'hara Needham — within the June 30 delivery window noted in project notes.
 
-**Follow-up Request (2026-10-01 & 2026-10-02):** Joshua Fromm has requested a quick setup/packing video for the S0 demo model. *This appears to be a post-delivery support/documentation need, not part of the original delivery scope.*
+**Follow-up Request (2026-10-01 & 2026-10-02):** Joshua Fromm has requested a quick setup/packing video for the S0 demo model. This is a post-delivery support/documentation need, not part of the original delivery scope.
 
 ## Notes & Context
 - **Priority Context (Historical):** Per Maciej (2026-04-30), S0-VTOL deliveries (ERAU + Barbados) were identified as BST's **#2 highest priority** after S3 IRAD.
-- Customer Type: Commercial
-- Project is archived in Asana but Joshua Fromm's October feedback suggests ongoing customer engagement around documentation/training materials for the delivered unit.
+- **Customer Type:** Commercial
+- **Project Status:** Archived in Asana post-delivery, but Joshua Fromm's October feedback indicates ongoing customer engagement around documentation/training materials for the delivered unit.

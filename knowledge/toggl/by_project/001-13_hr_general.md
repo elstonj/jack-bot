@@ -4,10 +4,10 @@
 - **Client:** Overhead
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 27.4 hours (cumulative)
+- **Total hours tracked:** 29.4 hours (cumulative)
 
 ## Team Allocation
-- **Jack Elston:** 20.6 hours
+- **Jack Elston:** 22.6 hours (77% of total)
 - **Ethan Domagala:** 4.8 hours
 - **Dan:** 2.0 hours
 
@@ -43,13 +43,16 @@
 - Grey Vaughan Panel Interview - Black Swift Technologies (1.0h, Jack Elston)
 - Black Swift Technologies Interview: Andy Abols ↔ Jack Elston (1.0h, Jack Elston)
 - Career Chats with Forever Buffs at CU Boulder (2.0h, Jack Elston)
-- **Black Swift Technologies Interview: Matt Carney ↔ Jack Elston (1.0h, Jack Elston) — *latest***
-- **Interview with Robert Powell (0.8h, Jack Elston) — *latest***
+- Black Swift Technologies Interview: Matt Carney ↔ Jack Elston (1.0h, Jack Elston)
+- Interview with Robert Powell (0.8h, Jack Elston)
+- **Meeting with Ben (1.0h, Jack Elston) — *latest***
+- **Jack's Schedule (Robert Powell) (0.5h, Jack Elston) — *latest***
+- **BST Intro w/ Megan (0.5h, Jack Elston) — *latest***
 
 ## Insights
-- **Recruiting momentum sustained:** Eight candidates now interviewed across multiple roles. Latest additions (Matt Carney, Robert Powell) continue BST's active candidate evaluation pipeline.
-- **Jack Elston driving recruiting effort:** Now 20.6 hours tracked (76% of total project time). Consistent primary lead on all candidate interviews and talent pipeline development.
-- **Talent sourcing diversifying:** Mix of one-on-one interviews and panel formats; university outreach (CU Boulder) established as parallel channel.
-- **Cross-functional collaboration pattern:** Manufacturing/Production Engineering roles involve collaborative interview model (Jack + Maciej).
-- **Ethan Domagala and Dan maintaining steady parallel workstreams:** Culture assessment and operations work steady; Dan's contributions remain unspecified.
+- **Recruiting pipeline expanding:** Now nine+ candidates in active evaluation (Ben and Megan added in latest cycle). Robert Powell interview continuing with scheduling coordination.
+- **Jack Elston dominance sustained:** 22.6 hours (77% of project), with 100% of new activity. Sole driver of candidate pipeline development.
+- **Parallel candidate processing evident:** Multiple scheduling/prep activities (Robert Powell coordination) alongside new introductions (Megan), indicating concurrent interview management.
+- **Consistent recruiting cadence:** Regular flow of candidate meetings maintains momentum through active hiring phase.
+- **Supporting workstreams stable:** Ethan Domagala and Dan's parallel work streams (culture, operations) stable and unchanged.
 - **No billable hours:** Remains internal overhead/HR operations.

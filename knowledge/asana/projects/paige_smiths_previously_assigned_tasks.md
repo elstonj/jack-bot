@@ -12,6 +12,9 @@
   - Two tasks lack due dates entirely
   - **Communication/transparency gap flagged (2026-08-25):** Joshua Fromm raised concerns about task visibility and external communication tracking in Asana, suggesting context gaps
 
+## Context: Paige Smith Departure
+Per team feedback (Cory Dixon, 2026-10-05): Paige Smith was a candidate for the Technical Program Management role who accepted an offer from another company. She did not provide BST an opportunity to counter-offer. **This is a role candidate transition, not a current team member reassignment.** The "Paige Smith's Previously Assigned Tasks" project appears to be a misnamed holding area — these are operational tasks that belonged to workflow processes, not tasks created specifically for Paige.
+
 ## Key Deliverables & Milestones
 - **Google Analytics reporting** (monthly, due 2026-06-25) — key takeaways on performance improvements and underperforming areas
 - **Email list enhancement** (due 2026-04-21) — content conversion and subscriber growth
@@ -32,11 +35,12 @@
 
 ## Recent Activity
 - **Status as of October 2026:** No reassignment action since August 2026. All tasks remain unassigned and overdue.
-- **Previous concern flagged (2026-08-25):** Joshua Fromm questioned task visibility and external communication tracking, indicating potential gaps in task documentation or context in Asana
-- **Overdue alerts:** Tasks due April–June 2026 are 4–6 months past deadline with no assignee
+- **Team feedback (2026-10-05, Cory Dixon):** Paige Smith accepted an offer from another company. BST will continue moving forward on candidate interviews for the Technical Program Management role.
+- **Previous concern flagged (2026-08-25):** Joshua Fromm questioned task visibility and external communication tracking, indicating potential gaps in task documentation or context in Asana.
+- **Overdue alerts:** Tasks due April–June 2026 are 4–6 months past deadline with no assignee.
 
 ## Notes & Context
-This project is a **stale reassignment holding area**. Jack Elston owns it but tasks have not been redistributed to active team members.
+This project is a **stale reassignment holding area** for operational marketing and analytics tasks. Jack Elston owns it but tasks have not been redistributed to active team members since Paige's departure.
 
 **Critical gaps requiring clarification before (or instead of) reassignment:**
 - "1:30pm geoff" — lacks purpose, outcome, or full contact information

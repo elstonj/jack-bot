@@ -16,7 +16,7 @@
   - Ben Maglio/University of Alaska (E2 soil moisture, $2,200 quoted 2026-08-05, last contact 2026-08-05).
   - UC Santa Cruz (S2/S3 demo pending, last contact 2025-08-08, **12+ months stale**). Contacts: Tim Handley, Xavier Prochaska (thandley@ucsc.edu, jxp@ucsc.edu).
   - **NASA Ames Research Center (S3, qty 2)** – **$65,000, quote sent, Lead Response: "Maybe Later"**. Contact: Will Wade (William.o.wade@nasa.gov). Next Steps: Follow-up email.
-  - Chris Meek/NASA Langley (S0 x2 for Boeing 777 integration, quote sent).
+  - **Chris Meek/NASA Langley (S0 x2 for Boeing 777 integration)** – **$46,000, quote sent**. Contact: Chris Meek. Aircraft integration project; awaiting BST process clarity from customer.
 
   **TIER 3 – ACTIVE/DEVELOPING**:
   - **NCAS - Leeds University/Sarah Barr (S3 – Icing)** – Quote sent. Contact: Sarah Barr (sarah.barr@ncas.ac.uk). First contact: 2026-04-23. **Assigned to Dan Prendergast**. Action items: Edit ROMs from Supercool Earth (add platform purchase tab); add travel for potential test flights; add international shipping pricing.
@@ -33,13 +33,15 @@
   - Ultra PCS pneumatic launcher collab (S0 from C-130/KC-135, last contact 2026-01-15). Contact: Tracy Harris (Tracy.harris@ultra-ice.com).
   - Barbados S2 (S0 hand-off July 2-4, awaiting funding, quote sent). Contact: Sabu Best.
   - TurfLogic (soil moisture for golf course monitoring, last contact 2025-09-16, no response). Contact: Andrew Terry (andrew@turflogic.ai).
+  - **Rounds Construction INC** – New web form lead (unassigned, no due date). Contact: Kevin A. Hilmoe (kevinh@roundconstructioninc.com, 618-315-0098). Products of Interest: One spare battery, Survey Services. Inquiry: Retention for professional services on upcoming project.
 
 - **Dollar value**:
   - **USSOCOM Pope 2**: $948,993 (quote sent 2026-09-11, "Ready for purchase") – **PRIMARY REVENUE FOCUS**
   - **LMUK/UK Royal Navy**: $276,000 (quoted)
+  - **NASA Langley (Chris Meek)**: $46,000 (quoted)
   - **NASA Ames Research Center**: $65,000 (quoted, "Maybe Later" status)
   - **Ben Maglio/University of Alaska**: $2,200 (quoted)
-  - **Other major opportunities**: NextTech Solutions, UC Santa Cruz, National Oceanography Centre, NOAA Ron Brown, NASA Langley, Barbados, Kosteroski Engineering (values TBD/unquoted)
+  - **Other major opportunities**: NextTech Solutions, UC Santa Cruz, National Oceanography Centre, NOAA Ron Brown, Barbados, Kosteroski Engineering (values TBD/unquoted)
   - **Pipeline total**: ~$1.5M+ tracked (USSOCOM $948,993 alone represents significant revenue inflection point)
   - **Note**: Custom field data integrity remains problematic; historical pipeline reported $2.3M+
   - **GOAL STATUS**: $5M pipeline target by end of 2025 – **SIGNIFICANTLY OVERDUE**. No reset or revised goal documented as of latest update.
@@ -52,10 +54,4 @@
   - **UPCOMING DEADLINES**:
     - Native Village of Napaimute: due 2026-09-30
   - **OVERDUE/STALE REQUIRING IMMEDIATE CONTACT**:
-    - Oklahoma State University (last contact 2025-04-14, **16+ months**, due date 2026-06-30 now overdue)
-    - NextTech Solutions (last contact 2026-03-17, **18+ months**)
-    - National Oceanography Centre (last contact 2026-03-17, **5+ months**)
-    - USAF WC-130J (last contact 2026-02-18, **8+ months stale**)
-    - UC Santa Cruz (last contact 2025-08-08, **12+ months stale**)
-
-- **Status**: Active
+    - Oklahoma State University (last contact 2025-04-14, **16+
