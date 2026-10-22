@@ -12,13 +12,18 @@ VENV="$PROJECT_DIR/venv"
 
 cd "$PROJECT_DIR"
 
-# Load env
-set -a
-source "$PROJECT_DIR/.env"
-set +a
-
 # Activate venv
 source "$VENV/bin/activate"
+
+# Load env via python-dotenv rather than `source`: .env is pulled from Railway
+# unquoted (RAILWAY_PROJECT_NAME=Jack Bot), which bash runs as a command.
+eval "$(python -c '
+import shlex
+from dotenv import dotenv_values
+for k, v in dotenv_values(".env").items():
+    if v is not None:
+        print(f"export {k}={shlex.quote(v)}")
+')"
 
 # Timestamp
 echo "=== Nightly scan started at $(date) ===" > "$LOG_FILE"
