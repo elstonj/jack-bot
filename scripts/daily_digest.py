@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Daily bug/feature digest — posts summary to knowledge channel and updates knowledge files.
 
-Intended for crontab: 30 7 * * 1-5 (7:30am MT weekdays)
+Run by the jackbot-digest systemd user timer (07:27 weekdays).
 
 Collects all BUG and FEATURE entries from the knowledge channel,
 posts a formatted digest, and writes them to knowledge files for reference.

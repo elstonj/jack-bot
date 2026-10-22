@@ -2,11 +2,11 @@
 # Nightly knowledge scan — runs incremental scan, commits, and pushes.
 # Any errors are logged as BUG entries in the knowledge channel via Slack.
 #
-# Intended for crontab: 0 2 * * * /home/elstonj/Documents/jack_bot/scripts/nightly_scan.sh
+# Run by the jackbot-scan systemd user timer (see scripts/systemd/README.md).
 
 set -euo pipefail
 
-PROJECT_DIR="/home/elstonj/Documents/jack_bot"
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 LOG_FILE="$PROJECT_DIR/scripts/nightly_scan.log"
 VENV="$PROJECT_DIR/venv"
 
