@@ -1,0 +1,10 @@
+{
+  "_comment": "Build pairs that legitimately share a strong identifier (PO / invoice / estimate number) and must stay as separate digest cards. Without an entry here the dedup guard would collapse an intentional split. Add a gids pair plus the reason whenever you deliberately split one order into two records.",
+  "keep_separate": [
+    {
+      "gids": ["proj-031-1", "proj-031-1-training"],
+      "shared": "inv:1765",
+      "reason": "UMES hardware order vs its operator-training follow-on. Split per Jack on 2026-06-10 so the $79,338 open AR and the pending on-site training each stay visible on the digest."
+    }
+  ]
+}

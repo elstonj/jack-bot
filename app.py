@@ -14,6 +14,7 @@ from flask import Flask, request
 from weather import format_weather, is_weather_intent, match_sites
 from purchase_check import is_purchase_check_intent, handle_purchase_check
 from personality import get_response
+from privacy_guard import guarded_say, screen_public_text
 from research_cache import get_full_summary, get_user_summary, is_stale
 from knowledge import store_correction, store_entry, store_feedback, store_bug, store_feature, list_items
 from knowledge_qa import answer_question
@@ -283,6 +284,10 @@ def handle_mention(event, say, client):
 
 def route_message(message, say, client, user_id, channel_id, event_ts=""):
     """Unified routing for all natural language commands."""
+    # Screen at the transport, not at each call site — this function has ~29
+    # `say()` calls and a screen you have to remember at every one is a screen
+    # that gets missed at one of them. DMs pass through unscreened.
+    say = guarded_say(say, channel_id)
     msg_lower = message.lower().strip()
     cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
 
@@ -479,6 +484,9 @@ def handle_dm(event, say, client):
     if event.get("bot_id"):
         return
 
+    # Despite the name this also receives channel messages (commercial-sales
+    # admin commands, thread replies), so screen anything not bound for a DM.
+    say = guarded_say(say, event.get("channel", ""))
     cs_channel = os.environ.get("COMMERCIAL_SALES_CHANNEL", "")
 
     # Commercial-sales top-level handling. Jack only *initiates* a reply here
@@ -529,7 +537,9 @@ def handle_dm(event, say, client):
                         if target:
                             resp = handle_create_task_propose(target, user_id, cs_channel)
                 if resp:
-                    client.chat_postMessage(channel=cs_channel, text=resp)
+                    client.chat_postMessage(
+                        channel=cs_channel, text=screen_public_text(resp)
+                    )
                     return
             except Exception as e:
                 store_entry(client, "ERROR", f"commercial-sales admin handler: {e}")
@@ -564,7 +574,7 @@ def handle_dm(event, say, client):
                 client.chat_postMessage(
                     channel=cs_channel,
                     thread_ts=thread_ts,
-                    text=resp,
+                    text=screen_public_text(resp),
                 )
         except Exception as e:
             store_entry(client, "ERROR", f"commercial-sales reply handler: {e}")

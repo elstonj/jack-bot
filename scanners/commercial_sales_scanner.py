@@ -2048,6 +2048,158 @@ _CONTRACT_TYPE_RX = re.compile(r"contract type:\**\s*(.+)", re.IGNORECASE)
 _CLIENT_RX = re.compile(r"(?:client/agency|client|customer):\**\s*(.+)", re.IGNORECASE)
 _CODE_IN_TEXT_RX = re.compile(r"(\d{3}[-_]\d{1,2})")
 
+# Strong order identifiers — a PO, a QBO invoice or an estimate number belongs
+# to exactly one order, so two Builds sharing one are the same order seen from
+# two sources. Project-code matching alone is not enough: an Asana-sourced Build
+# often never writes its code down (NASA Ames [212-2] didn't), and two *different*
+# codes can describe one order, which code matching structurally cannot catch.
+_PO_RX = re.compile(r"\b(?:PO|P\.O\.|purchase order)\s*#?\s*([A-Z0-9][A-Z0-9-]{5,})\b", re.I)
+_GOV_PO_RX = re.compile(r"\b(80[A-Z]{4}\d{2}[A-Z]{2}\d{3,})\b")
+_INVOICE_RX = re.compile(r"\b(?:invoice|inv\.?)\s*#?\s*(\d{3,5}(?:\s*[-–]\s*\d{3,5})?)\b", re.I)
+_ESTIMATE_RX = re.compile(r"\bestimate\s*#?\s*(\d{3,5})\b", re.I)
+
+
+def _expand_num_range(raw: str) -> list[str]:
+    """"1761-1762" -> ["1761", "1762"]. Invoice fields sometimes carry a range."""
+    parts = [p.strip() for p in re.split(r"[-–]", raw) if p.strip().isdigit()]
+    if len(parts) == 2 and len(parts[0]) == len(parts[1]):
+        lo, hi = int(parts[0]), int(parts[1])
+        if 0 <= hi - lo <= 20:
+            return [str(n) for n in range(lo, hi + 1)]
+    return parts or [raw.strip()]
+
+
+def _identity_keys(build) -> set[str]:
+    """Strong identifiers for `build`, as normalized `kind:value` strings.
+
+    Pulled from the structured invoice field *and* the free-text notes, because
+    the discovery path often has the PO only in prose.
+    """
+    keys: set[str] = set()
+    notes = " ".join([
+        getattr(build, "notes", "") or "",
+        getattr(build, "asana_task_name", "") or "",
+    ])
+
+    for num in _expand_num_range(str(getattr(build, "invoice_number", "") or "")):
+        if num and num.lower() not in ("none", ""):
+            keys.add(f"inv:{num.upper()}")
+    for m in _INVOICE_RX.findall(notes):
+        for num in _expand_num_range(m):
+            keys.add(f"inv:{num.upper()}")
+    for m in _ESTIMATE_RX.findall(notes):
+        keys.add(f"est:{m}")
+    for m in _GOV_PO_RX.findall(notes):
+        keys.add(f"po:{m.upper()}")
+    for m in _PO_RX.findall(notes):
+        # Skip bare numbers already counted as invoices/estimates.
+        if not m.isdigit():
+            keys.add(f"po:{m.upper().rstrip('.,;')}")
+    return keys
+
+
+# Duplicates blocked during this scan: (rejected_gid, kept_gid, shared_keys).
+_DUPLICATES: list[tuple] = []
+
+# Pairs that legitimately share an identifier and must stay separate — e.g. the
+# UMES hardware Build and its training follow-on both cite invoice 1765, split
+# deliberately on 2026-06-10 so the open AR and the pending training each stay
+# visible. Without this the dedup guard would "fix" an intentional split.
+_DEDUP_EXEMPT_PATH = CS_KNOWLEDGE_DIR / "_dedup_exempt.json"
+
+
+def _dedup_exempt_pairs() -> set[frozenset]:
+    try:
+        raw = json.loads(_DEDUP_EXEMPT_PATH.read_text())
+    except Exception:
+        return set()
+    pairs = set()
+    for entry in raw.get("keep_separate") or []:
+        gids = entry.get("gids") if isinstance(entry, dict) else entry
+        if isinstance(gids, list) and len(gids) >= 2:
+            pairs.add(frozenset(str(g) for g in gids))
+    return pairs
+
+
+def _is_exempt(gid_a: str, gid_b: str, exempt: set) -> bool:
+    pair = frozenset((str(gid_a), str(gid_b)))
+    return any(pair <= group for group in exempt)
+
+
+def find_duplicate_groups(builds: dict) -> list[tuple]:
+    """Group already-saved Builds that share a strong identifier.
+
+    The discovery guard stops *new* duplicates; this finds the ones already on
+    disk, including cross-code pairs the project-code check could never catch.
+    Reported rather than auto-merged — collapsing two real orders is worse than
+    showing both, and merging is a judgment call about the business.
+    """
+    # Accept either the scanner's {gid: Build} map or a plain list of Builds.
+    if not isinstance(builds, dict):
+        builds = {getattr(b, "asana_gid", str(i)): b for i, b in enumerate(builds)}
+    gids = list(builds)
+    keys = {g: _identity_keys(builds[g]) for g in gids}
+    exempt = _dedup_exempt_pairs()
+    seen, groups = set(), []
+    for i, g in enumerate(gids):
+        if g in seen or not keys[g]:
+            continue
+        group, shared = [g], set()
+        for h in gids[i + 1:]:
+            overlap = keys[g] & keys[h]
+            if overlap and h not in seen and not _is_exempt(g, h, exempt):
+                group.append(h)
+                shared |= overlap
+        if len(group) > 1:
+            seen.update(group)
+            groups.append((group, sorted(shared)))
+    return groups
+
+
+def write_duplicates_report(builds: dict) -> str:
+    """Write `_duplicates.md` listing Builds that share a strong identifier."""
+    groups = find_duplicate_groups(builds)
+    if not isinstance(builds, dict):
+        builds = {getattr(b, "asana_gid", str(i)): b for i, b in enumerate(builds)}
+    lines = ["# Commercial Sales — possible duplicate records", ""]
+    if not groups:
+        lines.append("_No Builds share a PO, invoice or estimate number._")
+    else:
+        lines.append(
+            "Each group below shares a strong order identifier, so the same order "
+            "is probably on the digest more than once. Confirm, then delete the "
+            "redundant JSON under `knowledge/commercial_sales/builds/` (fold any "
+            "unique detail into the record you keep).\n"
+        )
+        for group, shared in groups:
+            lines.append(f"## shared: {', '.join(shared)}")
+            for gid in group:
+                b = builds[gid]
+                lines.append(
+                    f"- `{gid}` — {getattr(b, 'customer', '') or '?'} "
+                    f"(invoice {getattr(b, 'invoice_number', None) or '—'}, "
+                    f"{getattr(b, 'payment_state', '?')}/{getattr(b, 'build_state', '?')})"
+                )
+            lines.append("")
+    path = CS_KNOWLEDGE_DIR / "_duplicates.md"
+    path.write_text("\n".join(lines) + "\n")
+    return str(path)
+
+
+def _duplicate_of(build, existing_builds: dict) -> Optional[str]:
+    """Return the gid of an existing Build sharing a strong identifier, if any."""
+    keys = _identity_keys(build)
+    if not keys:
+        return None
+    exempt = _dedup_exempt_pairs()
+    own_gid = getattr(build, "asana_gid", None)
+    for gid, other in existing_builds.items():
+        if gid == own_gid or _is_exempt(own_gid or "", gid, exempt):
+            continue
+        if keys & _identity_keys(other):
+            return gid
+    return None
+
 _COMMERCIAL_CT_KEYWORDS = (
     "commercial", "equipment purchase", "purchase order", "materials/inventory",
 )
@@ -2115,6 +2267,7 @@ def _discover_documented_orders(existing_builds, slack_msgs, sales_info_emails,
     """Promote documented/stubbed orders into Builds. See section header."""
     discovered: list[Build] = []
     processed_gids: set[str] = set()
+    _DUPLICATES.clear()
 
     def _process(code, customer_hint, name, notes, require_recent):
         gid = f"proj-{code}" if code else _slug_gid(name or customer_hint)
@@ -2142,6 +2295,17 @@ def _discover_documented_orders(existing_builds, slack_msgs, sales_info_emails,
         )
         if updated:
             updated.asana_task_name = task["name"]
+            # Only a *new* record can be a duplicate — an existing one under this
+            # gid is the record itself being refreshed.
+            if not existing:
+                dup = _duplicate_of(updated, existing_builds)
+                if dup:
+                    _DUPLICATES.append((gid, dup, sorted(
+                        _identity_keys(updated) & _identity_keys(existing_builds[dup]))))
+                    stale = BUILDS_DIR / f"{gid}.json"
+                    if stale.exists():
+                        stale.unlink()
+                    return "duplicate"
             _set_last_contact_date(
                 updated, matched_emails, set(),
                 prior=existing.last_contact_date if existing else None)
@@ -2475,11 +2639,29 @@ def scan_all(mode: str = "incremental", slack_client=None) -> dict:
     _write_index(new_builds, new_cases)
     _write_filtered_log()
 
+    # Surface records that share a PO/invoice/estimate. The discovery guard stops
+    # new duplicates; this catches ones already on disk, including cross-code
+    # pairs (two project codes, one real order) that code matching cannot see.
+    dup_groups = []
+    try:
+        current = {b.asana_gid: b for b in load_builds()}
+        dup_groups = find_duplicate_groups(current)
+        write_duplicates_report(current)
+        if dup_groups:
+            print(f"  [WARN] {len(dup_groups)} possible duplicate group(s) — "
+                  f"see knowledge/commercial_sales/_duplicates.md")
+    except Exception as e:
+        print(f"  [WARN] duplicate report failed: {e}")
+    if _DUPLICATES:
+        for rejected, kept, shared in _DUPLICATES:
+            print(f"  [dedup] skipped {rejected} — same order as {kept} ({', '.join(shared)})")
+
     update_scan_timestamp("commercial_sales")
 
     return {
         "builds": len(new_builds),
         "support": len(new_cases),
         "unmapped_domains": len(emails_by_domain),
+        "duplicate_groups": len(dup_groups),
         "mode": mode,
     }

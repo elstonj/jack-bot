@@ -7,6 +7,7 @@ from slack_sdk import WebClient
 import anthropic
 
 from daily_research import run_daily_pipeline, _split_summary
+from privacy_guard import screen_public_text
 from research_cache import get_team_summary, get_per_user_sections  # noqa: F401  per_user still used by DM path via cache
 from snow_day import check_and_post as check_snow_day
 from snow_day import check_and_post_eod as check_snow_day_eod
@@ -128,6 +129,11 @@ def post_team_summary(client, channel):
     # how a leaked block first showed up as a second un-threaded post.)
     team, _leaked = _split_summary(team)
 
+    # Screen on the way out, not on the way into the cache: the cached sections
+    # stay unredacted so a DM `tasks` still gives a person their own full
+    # section. Only the shared-channel copy is screened.
+    team = screen_public_text(team)
+
     resp = client.chat_postMessage(channel=channel, text=team)
     parent_ts = (
         resp.get("ts") if isinstance(resp, dict)
@@ -139,6 +145,7 @@ def post_team_summary(client, channel):
         section = (section or "").strip()
         if not section:
             continue
+        section = screen_public_text(section)
         if len(section) > 39000:
             section = section[:39000] + "\n…(truncated)"
         try:
@@ -254,7 +261,9 @@ def post_purchasing_summary():
         # Slack hard-limits a single message at 40k chars; trim with a marker.
         if len(formatted) > 39000:
             formatted = formatted[:39000] + "\n…(truncated)"
-        client.chat_postMessage(channel=channel, text=formatted, thread_ts=umbrella_ts)
+        client.chat_postMessage(
+            channel=channel, text=screen_public_text(formatted), thread_ts=umbrella_ts
+        )
     except Exception as e:
         from knowledge import store_entry
         try:

@@ -18,6 +18,7 @@ from user_map import (
 )
 from asana_client import get_enriched_tasks, get_key_project_data, get_workspaces
 from toggl_client import NO_PROJECT, get_time_summary
+from privacy_guard import redact_calendar_title, redact_field
 from google_client import get_recent_drive_activity, get_recent_emails, get_todays_calendar, get_contacts, get_meeting_notes_content
 from slack_data_client import get_recent_slack_messages
 from research_cache import set_cache
@@ -545,12 +546,15 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
             else:
                 unmapped.append((toggl_id, data))
 
+        # Project names are redacted for the prompt only — the underlying dict
+        # keeps its real labels so `_hours_line()` can still tell tagged time
+        # from untagged. `[001-21] Sick Leave` is the case that matters.
         for name, data in by_user_name.items():
-            proj_parts = [f"{p}: {round(h, 1)}h" for p, h in data["projects"].items()]
+            proj_parts = [f"{redact_field(p)}: {round(h, 1)}h" for p, h in data["projects"].items()]
             lines.append(f"{name}: {round(data['total_hours'], 1)}h total ({', '.join(proj_parts)})")
         for toggl_id, data in unmapped:
             label = data.get("email") or f"toggl#{toggl_id}"
-            proj_parts = [f"{p}: {h}h" for p, h in data["projects"].items()]
+            proj_parts = [f"{redact_field(p)}: {h}h" for p, h in data["projects"].items()]
             lines.append(f"{label}: {data['total_hours']}h total ({', '.join(proj_parts)})")
 
         # Explicitly note team members with no tracked time so Claude
@@ -580,7 +584,8 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         for name, files in drive_activity.items():
             lines.append(f"{name}:")
             for f in files[:10]:
-                lines.append(f"  - \"{f['name']}\" ({f.get('mimeType', '')}, modified {f.get('modifiedTime', '')})")
+                fname = redact_field(f["name"])
+                lines.append(f"  - \"{fname}\" ({f.get('mimeType', '')}, modified {f.get('modifiedTime', '')})")
         sections.append("\n".join(lines))
 
     # Calendar
@@ -592,7 +597,8 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
                 attendee_str = ""
                 if ev["attendees"]:
                     attendee_str = f" (with: {', '.join(ev['attendees'][:5])})"
-                lines.append(f"  - {ev['start']} - {ev['end']}: {ev['summary']}{attendee_str}")
+                summary = redact_calendar_title(ev["summary"])
+                lines.append(f"  - {ev['start']} - {ev['end']}: {summary}{attendee_str}")
         sections.append("\n".join(lines))
 
     # Contacts (client/org context)
@@ -614,7 +620,11 @@ def _assemble_context(asana_tasks, toggl_summary, drive_activity, gmail_data, ca
         for name, emails in gmail_data.items():
             lines.append(f"{name}:")
             for e in emails[:10]:
-                lines.append(f"  - \"{e['subject']}\" from {e['from']}")
+                # Redact before the model ever sees it — every employee's inbox
+                # is pulled here, and a subject line is where compensation,
+                # medical and personnel matters announce themselves.
+                subject = redact_field(e["subject"])
+                lines.append(f"  - \"{subject}\" from {e['from']}")
         sections.append("\n".join(lines))
 
     # Slack
@@ -762,7 +772,9 @@ def _calendar_line(events):
         return ":calendar: No meetings"
     parts = []
     for ev in events[:8]:
-        summary = (ev.get("summary") or "").strip() or "(no title)"
+        # This line is rendered verbatim with no model in the loop, so it is the
+        # one path where a raw calendar title reaches a public channel unedited.
+        summary = redact_calendar_title((ev.get("summary") or "").strip()) or "(no title)"
         start = _fmt_event_time(ev.get("start"))
         end = _fmt_event_time(ev.get("end"))
         parts.append(f"{summary} {start}-{end}" if start and end else summary)
@@ -821,7 +833,10 @@ def _render_section(user, priorities, notes=None, calendar_line=None, hours_line
 
 
 def _render_ooo_section(user, reason):
-    return f"*<@{user['slack_user_id']}>*\n:palm_tree: Out of office — {reason}"
+    # Rippling PTO types carry the leave reason, and "Sick Leave" / "Medical
+    # Leave" are not the company's business to broadcast. The palm tree still
+    # tells the team the person is out.
+    return f"*<@{user['slack_user_id']}>*\n:palm_tree: Out of office — {redact_field(reason)}"
 
 
 def _render_team_summary(bullets):
