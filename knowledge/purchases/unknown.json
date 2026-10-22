@@ -128,5 +128,18 @@
     "notes": "Blog/newsletter from freight company; no purchase or quote",
     "date": "",
     "subject": ""
+  },
+  {
+    "id": "1a13fdbf60b8f94f",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 135.64,
+    "vendor": "Amazon",
+    "project_code": null,
+    "project_hint": null,
+    "description": "4 Hardware items",
+    "notes": "Order #112-7471062-3529021; shipped, arriving today",
+    "date": "",
+    "subject": ""
   }
 ]

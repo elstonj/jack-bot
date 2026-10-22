@@ -2,62 +2,62 @@
 
 ## Active Project Budgets
 
-### Project 301-3
-- **Project Code:** 301-3
-- **Client:** NOAA (National Oceanic and Atmospheric Administration)
-- **Contract Number:** 1305M225P0034
-- **Total Budget:** $747,500.00
-  - Base Contract: $494,000.00
-  - Optional Items: $253,500.00
-- **Contract Type:** NOAA Small Uncrewed Aircraft Systems (sUAS) contract
-- **Period of Performance:** February 2025 – August 25, 2026 (includes 6-month extension)
-- **Key Deliverables:**
-  - Black Swift S0 Aircraft platforms (26 units): $468,000
-  - Operator and Observer Course Development: $12,000
-  - Operator and Observer Training: (amount cut off in source)
-- **Additional Funding Source:** University of Miami subcontract (PO-0000867443)
-- **Financial Status:** Active with extended timeline; optional funding portion availability pending
+### Project 550-1: Navy SBIR Magnetometer
+- **Project Code:** 550-1
+- **Contract Number:** N6833525C0492
+- **Client:** United States Navy (Department of Navy)
+- **Prime Contractor:** Black Swift Technologies, LLC
+- **Subcontractor:** Ultra Maritime
+- **Contract Type:** SBIR Phase I (Base) with Phase II Option
+- **Period of Performance:** 
+  - Base: January 2027 – June 2029 (30 months)
+  - Option I: July 2029 – June 2030 (12 months)
+- **Known Budget (Phase II Proposed):**
+  - Direct Labor: $207,368
+  - Fringe Benefits (29.28%): $60,717
+  - Labor Overhead (46.67%): $125,115
+  - *(Document appears incomplete; total and remaining cost categories not fully captured)*
 
 ---
 
 ## By Funding Source
 
-| Funding Source | Project(s) | Known Amount |
-|---|---|---|
-| NOAA | 301-3 | $747,500.00 |
-| University of Miami (subcontract) | 301-3 | *Not specified* |
-| NASA | Unassigned portfolio | *Not itemized in summary* |
-| DoD | Unassigned portfolio | *Not itemized in summary* |
+### Department of Navy (DoD)
+- **Project 550-1** (SBIR Phase I/II Magnetometer): Partial budget data available
+- **Estimated Base Period Costs (partial):** $393,200+
+
+### Unassigned/Portfolio Projects
+- **NASA:** AREN (Aeropods Commercial) — MiniCam project in preliminary costing phase
+- **NOAA, DoD, and Other Agencies:** 1,181 budget documents identified but not yet assigned to individual project codes
 
 ---
 
 ## By Contract Type
 
-| Contract Type | Project(s) | Amount |
+| Contract Type | Projects | Status |
 |---|---|---|
-| Federal sUAS (NOAA) | 301-3 | $747,500.00 |
-| Commercial (Preliminary) | MiniCam Project (NASA AREN/Aeropods) | *Costing analysis only—no budget allocated* |
-| Other Federal/DoD | Unassigned portfolio (1,181 docs) | *Not broken down* |
+| SBIR Phase I (Base) + Phase II Option | 550-1 | Active; Phase II proposal stage |
+| Commercial Product Costing | MiniCam (NASA/AREN) | Preliminary cost analysis |
+| Unclassified Portfolio | ~1,180+ docs | Requires project code assignment |
 
 ---
 
 ## Financial Health Indicators
 
-### Project 301-3 — Healthy Status
-- ✅ Substantial base funding secured ($494,000)
-- ✅ Optional expansion funding available ($253,500)
-- ✅ Extended performance period granted (6-month extension to August 2026)
-- ⚠️ **Note:** Aircraft procurement ($468,000 / 26 units) represents 94% of base budget—verify delivery schedule and invoice timing
+### Project 550-1 (Magnetometer)
+- **Status:** ⚠️ **Incomplete budget documentation** — Phase II proposed cost breakdown is truncated; full contract value unknown
+- **Timeline Risk:** Low — Base period begins January 2027 (future contract)
+- **Data Quality:** Budget structure visible (labor, fringe, overhead) but totals and material/other direct costs not fully captured in provided excerpt
 
-### Unassigned Portfolio (1,181 Documents)
-- **⚠️ Data Fragmentation:** No unified project codes across documents; requires consolidation
-- **Status Mix:** Active, proposals, and completed/inactive projects mixed without clear sorting
-- **Action Required:** Portfolio needs organization by project code and financial status assessment
+### Unassigned Project Portfolio
+- **Status:** ⚠️ **Critical data gap** — 1,181 documents lack project codes; unable to assess individual project health
+- **Action Required:** 
+  - Assign project codes to Drive documents
+  - Cross-reference with QuickBooks to identify active spend vs. budget
+  - Prioritize classification for projects in execution phase
 
-### MiniCam Project (NASA AREN)
-- **Status:** Preliminary costing analysis only (February 2026)
-- **Budget:** Not formally allocated—commercial product analysis phase
-- **Next Step:** Awaiting formal funding decision/contract award
+### MiniCam (NASA AREN)
+- **Status:** ⏸️ Preliminary stage — cost analysis only; no contract or funding commitment confirmed yet
 
 ---
 
@@ -65,14 +65,26 @@
 
 | Project | QB Status | Notes |
 |---|---|---|
-| 301-3 | **Unknown** | NOAA contract with active spend; University of Miami PO suggests invoicing structure exists but QB matching not confirmed in documents |
-| Unassigned Portfolio | **Drive-only** | 1,181 documents appear to be archival/reference materials without linked QB records; requires audit |
-| MiniCam (NASA) | **Drive-only** | Preliminary costing spreadsheet; no QB integration evident |
+| 550-1 | Unknown | Navy SBIR contract (future-dated Jan 2027); not yet in QB active ledger |
+| Unassigned Portfolio | **Requires audit** | 1,181 Drive documents with no QB cross-reference; unknown which are active in accounting system |
+| MiniCam | Unknown | Commercial product costing; status unclear |
+
+**Recommendation:** Conduct full QuickBooks account reconciliation against Drive project inventory to identify:
+- Which projects are currently invoicing/accruing costs
+- Which Drive documents represent active vs. completed work
+- Budget variance analysis for ongoing projects
 
 ---
 
-## Data Quality Notes
+## Summary Assessment
 
-- **Complete:** Project 301-3 has clear budget structure and contract terms
-- **Incomplete:** Unassigned portfolio summary lacks itemized amounts; university subcontract value not specified in 301-3 document
-- **Action Item:** Reconcile 1,181 unassigned budget documents against active project codes to establish comprehensive financial tracking
+**Data Completeness: 30%**
+- One active DoD project (550-1) partially documented
+- Large unassigned portfolio (1,181 documents) requires systematic coding and QB reconciliation
+- Commercial/preliminary projects identified but not yet formalized
+
+**Next Steps:**
+1. Complete Project 550-1 budget documentation (total contract value, all cost categories)
+2. Assign project codes to all 1,181 unassigned documents
+3. Audit QB vs. Drive alignment
+4. Identify projects currently in spend phase and flag budget monitors

@@ -1,7 +1,7 @@
 # #sbir-hurricane
 
 ## Overview
-The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, Ethan Domagala, Spencer Hoehl, Cory Dixon, Joe (AOC contact), Thinh (contract manufacturing contact), Laura (UASD operator), Nick, Roger (Vertiq liaison), Admiral Cary (NOAA leadership), Ali Sulehria, and additional engineering staff.
+The #sbir-hurricane channel is the primary workspace for Black Swift Technologies' SBIR Hurricane project, focused on developing the S0 unmanned aircraft system for hurricane reconnaissance missions. The channel is highly active with extensive technical discussions, operational updates, and mission planning spanning 2020-2026. Key participants include Joshua Fromm, Jack Elston, Maciej, Danny Troke, Dan Prendergast, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Meredith Needham, Todd, Ethan Domagala, Spencer Hoehl, Cory Dixon, Joe (AOC contact), Thinh (contract manufacturing contact), Laura (UASD operator), Nick, Roger (Vertiq liaison), Admiral Cary (NOAA leadership), Ali Sulehria, Frank (electronics engineer), and additional engineering staff.
 
 ## Key Decisions
 
@@ -56,4 +56,4 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **GCS Operational Handover:** Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover; proposal suggested duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
 - **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
 - **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
-- **Microhard Radio Configuration:** Implemented ATS108=30 setting for
+- **Microhard Radio Configuration:** Implemented ATS108

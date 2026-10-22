@@ -33,7 +33,7 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 ## Task Summary
 - **Total Tasks**: 7 open, 0 completed (as of Nov 2023)
 - **Tasks by Assignee**:
-  - **Maciej Stachura** (7 tasks, all VTOL-related):
+  - **Maciej Stachura** (7 tasks, 0% complete, all VTOL-related):
     1. Set trims doesn't seem to work for VTOL
     2. Add ability to force transition (mainly in joystick mode)
     3. Wind alignment for flight terminate
@@ -48,8 +48,9 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 - **Notable Patterns**:
   - All 7 open tasks are VTOL-specific flight control refinements assigned to Maciej Stachura
   - No due dates on any task
-  - Comms version update task links to external documentation (Asana profile links noted in task notes)
+  - Comms version update task links to external documentation (Asana profile links); optional parameter changes (none required)
   - Zero completion history despite project spanning 11+ years (2015–2026)
+  - Project priority set to **Low**
 
 ## Recent Activity
 **Team Directive (May 15, 2026)** — Daniel Prendergast (authoritative):
@@ -62,12 +63,12 @@ All major milestones remain unassigned with no due dates. Listed for historical 
 - Multi-vehicle ground station analysis
 - GPS time/declination tracking
 
-**Last official Asana update**: November 28, 2023 (green status; zero completions reported; 7 VTOL tasks open)
+**Last official Asana update**: November 28, 2023 (green status; zero completions reported; 7 VTOL tasks open, no overdue milestones or tasks noted)
 
 ## Notes & Context
 
 ### Critical Status: Project Archived in Favor of SwiftCore 3.3
-- **Raw Asana shows 7 open/0 completed** (Nov 2023 snapshot — current data subset)
+- **Raw Asana shows 7 open/0 completed** (Nov 2023 snapshot)
 - **Team is now routing all new software work to SwiftCore 3.3**, not 4.0 (Daniel Prendergast, May 15, 2026)
 - **Interpretation**: SwiftCore 4.0 is a **legacy aspirational backlog**; active development has shifted to the SwiftCore 3.3 branch. The 7 VTOL tasks represent residual work not yet migrated or closed.
 
@@ -76,7 +77,7 @@ Current focus is VTOL refinement and mode transitions:
 - Trim and transition control improvements (manual force transition in joystick mode)
 - Wind-aware landing and transition logic
 - Rotor feedback during pre-takeoff phases
-- Communications version parameter updates
+- Communications version parameter updates (optional, non-blocking)
 
 ### Historical Project Scope & Technical Areas
 Next-generation autopilot architecture spanning 11+ years of feature development (2015–2026):

@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "payment_cadence": "time-and-materials, monthly invoicing based on progress milestones",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -30,16 +30,16 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 119312.5,
+        "amount": 119562.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "other_qbo": {
         "amount": 2495.21,
@@ -47,13 +47,13 @@
         "confidence": "exact",
         "last_updated": "2026-09-30"
       },
-      "total": 124866.92,
+      "total": 125116.92,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 117673.08,
+    "remaining": 117423.08,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-05T23:06:09Z"
+    "last_reconciled": "2026-10-22T18:53:33Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -62,17 +62,41 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Joshua Fromm",
-      "date": "2026-09-21",
-      "text": "From Joshua Fromm (ts=1789755724.853639): That's me, navy mag"
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392420.235689): <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  T"
     },
     {
       "source": "FEEDBACK",
-      "author": "Joshua Fromm",
-      "date": "2026-09-18",
-      "text": "From Joshua Fromm: That's me, navy mag"
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392969.469609): <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-07",
+      "text": "From Daniel Prendergast: <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-07",
+      "text": "From Daniel Prendergast: <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  The S3 is lower priority"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-20",
+      "text": "From Daniel Prendergast (ts=1792429315.356889): <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-19",
+      "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
     }
   ],
-  "last_full_rebuild": "2026-10-05T23:06:09Z",
+  "last_full_rebuild": "2026-10-22T18:53:33Z",
   "last_incremental_update": null
 }

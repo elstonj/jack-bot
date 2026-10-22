@@ -5,17 +5,37 @@
   "customer_contact": "Chris Meek",
   "customer_email": "christopher.b.meek@nasa.gov",
   "receive_by": "2026-10-01",
-  "ship_to": null,
+  "ship_to": "NASA Langley Research Center\n4 Langley Blvd.\nHampton, VA 23681",
   "items": [
     {
-      "description": "Black Swift S0",
+      "description": "Black Swift S0 UAS Flight System",
       "quantity": 2
+    },
+    {
+      "description": "S0 Ground Control Station",
+      "quantity": 1
+    },
+    {
+      "description": "Flight Operations Support \u2013 full day",
+      "quantity": 1
+    },
+    {
+      "description": "Samsung Galaxy Tab Active2 with SwiftTab UI",
+      "quantity": 1
+    },
+    {
+      "description": "S0 Hard Shipping/Carrying Case",
+      "quantity": 1
+    },
+    {
+      "description": "Shipping \u2013 2 S0 systems",
+      "quantity": 1
     }
   ],
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": null,
+  "estimate_date": "2026-08-07",
   "invoice_date": null,
   "invoice_amount": null,
   "invoice_number": null,
@@ -29,14 +49,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley commercial hardware purchase (FY2026 budget, delivery after Oct 1). Beck sent updated estimate with shipping costs for two S0 aircraft with atmospheric sensor packages for P3/NOAA integration. Customer seeking NASA procurement form assistance and CAGE code. Separate from rejected AFA proposal\u2014this is confirmed commercial procurement. Chris Meek out for 3 weeks; team handling correspondence.",
+  "notes": "NASA Langley commercial hardware purchase for P3/NOAA integration. Beck sent updated estimate (08-07) with shipping costs and atmospheric sensor package details. Customer seeking NASA procurement form and CAGE code assistance. Separate from rejected AFA proposal\u2014this is confirmed commercial procurement. Chris Meek out for 3 weeks; team CC'd for correspondence. ArrayGov Solutions quoted on 10-06 with same scope to same delivery address. Delivery after Oct 1, 2026 (FY2026 budget).",
   "missing_fields": [
-    "ship_to",
     "invoice_number",
     "invoice_amount",
-    "estimate_date",
     "parts"
   ],
-  "last_evidence_date": "2026-08-07",
-  "last_contact_date": "2026-08-07"
+  "last_evidence_date": "2026-10-06",
+  "last_contact_date": "2026-10-07"
 }

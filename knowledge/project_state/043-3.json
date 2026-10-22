@@ -26,40 +26,34 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 67496.25,
+        "amount": 73357.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "purchases": {
-        "amount": 1877.58,
+        "amount": 1906.87,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "other_qbo": {
-        "amount": 112.84,
+        "amount": 0.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-09-15"
+        "last_updated": "2026-10-14"
       },
-      "total": 69486.67,
+      "total": 75264.37,
       "by_line_item": {}
     },
-    "committed": 29.29,
-    "remaining": 57113.04,
+    "committed": 0.0,
+    "remaining": 51364.63,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-05T23:04:41Z"
+    "last_reconciled": "2026-10-22T18:52:17Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [
-    {
-      "name": "Ethan Domagala",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
     {
       "name": "Maciej Stachura",
       "role": null,
@@ -75,6 +69,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-10-05T23:04:41Z",
+  "last_full_rebuild": "2026-10-22T18:52:17Z",
   "last_incremental_update": null
 }

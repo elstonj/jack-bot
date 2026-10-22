@@ -13,7 +13,7 @@
     }
   ],
   "payment_state": "paid",
-  "build_state": "packaged",
+  "build_state": "complete",
   "ship_state": "in_transit",
   "estimate_date": null,
   "invoice_date": "2026-01-08",
@@ -65,10 +65,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Kept due to QBO Invoice #1730 (paid 2026-05-21, $2,462.50) for S0 VTOL unit. Build completed QC flights in Aug-Sep 2026 (flight testing confirmed good). Units packaged and picked up by UPS 2026-09-14 with tracking labels issued (Sphere Box 1ZY1791K0320443394, UA Box 1ZY1791K0303482133). Customer ordered return of units for BST troubleshooting of sensor/configuration issues; RMA issued Sep 10, 2026.",
+  "notes": "Kept due to QBO Invoice #1730 (paid 2026-05-21, $2,462.50). Build completed and QC flight-tested Aug-Sep 2026. Units shipped 2026-09-14 via UPS (Sphere Box 1ZY1791K0320443394, UA Box 1ZY1791K0303482133); customer initiated RMA 2026-09-10 for BST troubleshooting of sensor/configuration issues. Build state set to 'complete' (QC confirmed); ship_state remains 'in_transit' pending delivery confirmation.",
   "missing_fields": [
     "receive_by"
   ],
-  "last_evidence_date": "2026-09-14",
+  "last_evidence_date": "2026-10-21",
   "last_contact_date": "2026-09-14"
 }

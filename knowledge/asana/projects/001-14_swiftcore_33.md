@@ -4,73 +4,48 @@
 - **Client/customer**: Internal BST development project
 - **Dollar value**: Not specified
 - **Timeline**: Active development branch; no target release date specified
-- **Status**: **ACTIVE DEVELOPMENT with high task volume.** As of Nov 28, 2023: **29 open tasks, 19 completed.** Project shows substantial recent activity (many tasks completed 2026-10-21 to 2026-10-22) across autopilot, ground station, and tablet code. Note: timestamp inconsistency in raw data (Nov 2023 status vs. Oct 2026 task dates) suggests either data import lag or concurrent development cycles. Current work dominated by simulator bug fixes, sensor/telemetry issues, and app UI stability problems.
-- **Team members**: Jack Elston (owner), Maciej Stachura (primary developer), Ben Busby (app/UI focus), Daniel Prendergast (process lead), whole BST team
+- **Status**: **ACTIVE DEVELOPMENT.** As of Nov 28, 2023: **10 open tasks, 2 completed** in this snapshot. Project shows ongoing simulator-driven bug intake and resolution. Note: timestamp inconsistency in raw data (Nov 2023 status vs. Oct 2026 task completion dates) suggests data import lag or concurrent development cycles. Current work dominated by S3 simulator sensor/flight logic issues and critical GPS/throttle response bugs.
+- **Team members**: Jack Elston (owner), Maciej Stachura (primary developer), BST team
 - **Risk signals**: 
-  - **29 open tasks with no due dates** — work is unscheduled; priority unclear beyond "Low" custom field rating
-  - Heavy simulator bug report intake (SIM-0017 through SIM-0040 represented in open tasks) — suggests rapid testing and issue discovery
-  - Multiple app/UI issues preventing normal operation (aircraft control window failures, mode switching bugs, preflight check state issues)
-  - Critical sensor/telemetry bugs (GPS/PDOP error escalation, IAS false alarms, dynamic pressure dropouts, scale mismatch in telemetry position height)
-  - Mission planning failures (waypoint skip, goto failures, landing descent altitude changes not honored)
+  - **10 open tasks with no due dates** — work is unscheduled; priority unclear (custom field: Low)
+  - Critical GPS error escalation blocking joystick mode abort (emergency descent cannot be prevented)
+  - S2 throttle kill response delayed; emergency descent triggers "bad flight plan" error
+  - Multiple S3 simulator sensor failures in flying mode (GPS, pitot, mags, static pressure) with unclear response logic
+  - High-altitude false IAS alarm (SIM-0028) on healthy pitot at 4–5 km
 
 ## Key Deliverables & Milestones
 
-**Open Milestones (no due dates assigned):**
-- Adds initial VTOL support (milestone-level task, unassigned)
-- Final release supporting 2030, 2040, 2050, and 3000 hardware
-- Final release supporting commercial S1
-- Adds initial tailsitter support
-- Official scripting release (including payload control)
-- Control through the payload serial interface
-- Adds app support (payload, flight parameters, scripting)
+**Open Milestones:**
+- Adds initial VTOL support (unassigned, no due date)
 
-**Completed Milestones:**
-- Adds initial VTOL support (completed 2026-02-03) — *Note: conflicts with open "Adds initial VTOL support" milestone; may be duplicate or rolling milestone*
-- Unified Estimator (completed 2026-02-03)
+**Completed Milestones (Oct 2026):**
+- S3 model ground contact carry-over (Maciej Stachura, 2026-10-22)
+- S3 BAD IAS false alarm at altitude (Maciej Stachura, 2026-10-22)
 
 ## Task Summary
-- **Total tasks**: 29 open, 19 completed (as of Nov 28, 2023 snapshot)
+- **Total tasks**: 10 open, 2 completed (Nov 28, 2023 snapshot)
 - **Tasks by assignee**:
-  - **Maciej Stachura**: ~10 open (simulator sensor/flight logic issues: GPS, pitot, mags, pressure, dynamic pressure, mission planning); 2 completed (S3 model, IAS false alarm)
-  - **Jack Elston**: ~4 open (critical telemetry/sensor issues: GPS error escalation, throttle kill response, telemetry scale mismatch, joystick mode); 6 completed (sensor alerts, IAS flag, logging, bootloader, CAN integration, battery indication)
-  - **Ben Busby**: ~10 open (app/UI state bugs: landing plan altitude checks, aircraft control window failures, mode switching, scripting/commands, preflight validation, waypoint display, telemetry menu); 7 completed (XML fixes, test sensor app, log parsing, commands/scripting testing, USB bootloader, scale factors)
+  - **Maciej Stachura**: 8 open (all S3 simulator sensor issues: lost GPS in flying mode, killed engine stall, clogged pitot, pitot loss in flying mode, mags loss, static pressure loss, climbout clogged pitot); 2 completed
+  - **Jack Elston**: 2 open (critical GPS/PDOP error escalation preventing abort, S2 throttle kill response with emergency descent / "bad flight plan" error)
   
 - **Notable patterns**:
-  - **Simulator-driven intake**: Majority of open tasks reference simulator bug reports (SIM-0017, 0019–0022, 0025, 0028–0032, 0037–0038) from rc17/rc18 test runs on 2026-10-21
-  - **App/UI dominance among open work**: ~10 of 29 open tasks are UI/tablet app issues (preflight checks, window state, mode switching)
-  - **Sensor/telemetry cluster**: ~8 open tasks focus on airspeed, pressure, GPS, and dynamic pressure sensing
-  - **Batch completion pattern**: 19 tasks completed on 2026-10-21, 2 on 2026-10-22 — indicates focused testing/fix cycle
-  - **No due dates across all tasks** — work prioritized by team triage, not formal schedule
+  - **Sensor failure focus**: 8 of 10 open tasks are S3 simulator sensor loss/degradation scenarios (GPS, pitot, mags, static pressure)
+  - **Critical path bugs**: Both Jack Elston tasks represent high-impact failure modes (GPS error prevents emergency descent abort; throttle kill triggers cascading errors)
+  - **No due dates** — work prioritized by team triage
 
 ## Recent Activity
-**Batch completion (2026-10-21 to 2026-10-22):**
-- Maciej Stachura: S3 model ground contact carry-over, S3 BAD IAS false alarm at altitude (SIM-0028)
-- Jack Elston: Joystick mode climbout prevention, flight timer check, backup static pressure alert, IAS error flag automation, trigger packet logging, takeoff waypoint altitude, USB bootloader, MHP/CAN integration, command packet logging reduction, battery percentage indication
-- Ben Busby: XML safe height duplicate removal, test sensor app XML, log parsing waypoint timing, commands/scripting integration testing, scale factor review
+**Completed (2026-10-22):**
+- S3 JSBSim model ground contact preservation (Maciej Stachura) — prevents loss of belly/tail-fin ground reactions on model regeneration
+- S3 BAD IAS false alarm resolution (Maciej Stachura) — from simulator bug report SIM-0028; confirmed no active simulator faults when alarm triggered at 4–5 km altitude
 
-**Active open issues (unresolved):**
-- GPS/PDOP error escalation blocking joystick mode abort (Jack Elston)
-- S2 throttle kill response delayed warning + emergency descent + "bad flight plan" error (Jack Elston)
-- Telemetry position height scale mismatch: packed ×100 vs. documented ×1000 (Jack Elston)
-- Dynamic pressure sensor dropouts with state persistence issues (Maciej Stachura)
-- Waypoint skip on northbound mission, goto failures, landing altitude changes not honored (Maciej Stachura/Ben Busby)
-- App window state fragility across mode switches, preflight check validation inconsistencies (Ben Busby)
-- Script/command ACK failures for VTOL/fixed-wing climb/descent (Ben Busby)
-
-## Work Intake Process
-As of May 2026 (from prior knowledge), the team operates on a **hybrid issue capture model**:
-- **Automated**: Post-flight feedback form routes issues directly to Fleet Maintenance (hardware) or SwiftCore 3.3 (software)
-- **Manual**: Team members may continue adding tasks directly (reflected in high open count)
-- **Responsibility**: Daniel Prendergast (process lead) owns form deployment and routing logic
-
-Current snapshot (Nov 2023 update) shows heavy simulator-driven intake; integration of post-flight feedback form appears in-flight or ramping up.
+**Active unresolved critical issues:**
+- **GPS/PDOP error cascade** (Jack Elston): Low PDOP warning → critical error commanding emergency descent → joystick mode cannot prevent entry into emergency descent
+- **S2 throttle kill response** (Jack Elston): Delayed "loss of motor power" warning (only after 30m altitude loss); emergency descent selection triggers map error point and "bad flight plan" error
+- **S3 sensor loss in flying mode** (Maciej Stachura): 6 open tasks covering GPS loss, pitot blockage/loss, mag loss, static pressure loss, engine stall — all with "unexpected response" noted; unclear what correct behavior should be
 
 ## Notes & Context
-- **Data timestamp anomaly**: Status update dated Nov 28, 2023 but task completion dates span Oct 2026. Likely indicates stale Asana snapshot label with current work data imported; treat task dates (Oct 2026) as authoritative.
-- **Project maturity vs. task volume**: Prior knowledge noted SwiftCore 3.3 "substantially complete" by June 2026; current snapshot shows **29 open tasks**, suggesting either:
-  - Rapid expansion of simulator test coverage uncovering latent bugs (SIM-0017–0040 integration)
-  - Development cycle refresh toward next release candidate
-  - Backlog accumulation without formal triage/closure
-- **Priority**: Low (custom field), but task volume and severity (sensor false alarms, mission planning failures, app state bugs) suggests tactical medium priority for near-term rc18+ stabilization
-- **Quality assurance**: Heavy reliance on simulator testing (9+ distinct SIM-#### bug reports in open tasks); real-world flight data ("simulator bug report" notes reference "from BST's test simulator box" 2026-10-21). App UI issues suggest tablet/ground station testing lagging autopilot core work.
-- **Release readiness**: No target date assigned. Current work prioritizes rc17/rc18 stability over new feature delivery (all open work is bug/fix/validation scope).
+- **Data timestamp anomaly**: Status update dated Nov 28, 2023 but task completion dates Oct 2026. Treat task dates (Oct 2026) as authoritative work timeline.
+- **Simulator-driven development**: All open work stems from S3/S2 simulator testing. Heavy focus on sensor failure modes and flight logic robustness.
+- **Critical vs. scheduled work**: Custom field priority is "Low," but GPS error blocking abort and throttle kill error cascade represent **medium-to-high tactical risk** for flight safety validation.
+- **Scope clarity needed**: S3 sensor loss tasks lack detail on expected behavior vs. observed response; may benefit from clearer acceptance criteria (e.g., "should revert to nav mode" vs. "should trigger alert and hold current mode").
+- **Release readiness**: No target date. Current work is stabilization/robustness; new feature milestones (VTOL support) are open but not active.

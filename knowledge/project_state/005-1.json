@@ -29,7 +29,7 @@
         "amount": 8375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-05T23:04:00Z"
+    "last_reconciled": "2026-10-22T18:51:44Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -98,8 +98,26 @@
       "author": "Spencer Hoehl",
       "date": "2026-10-01",
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-20",
+      "text": "From Daniel Prendergast: I'm not aware of any spreadsheet that has a holistic view of all the planned production.  Closest thing is the <https://qc.bst.aero/|S0 Production QC Website> that Jack mentioned.  Right now it is just tracking S0-AD orders, and Jack built this website to manage/track the build process.  The \"Orders\" tab is a solid dashboard that shows existing customer orders, quantities, due dates, etc, and there's a button for adding a new order.  We might be able to extend this to cr"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-20",
+      "text": "From Daniel Prendergast (ts=1792429315.356889): <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-19",
+      "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
     }
   ],
-  "last_full_rebuild": "2026-10-05T23:04:00Z",
+  "last_full_rebuild": "2026-10-22T18:51:44Z",
   "last_incremental_update": null
 }

@@ -1,106 +1,103 @@
 # Ethan Domagala — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 225 emails (219 previous + 6 new)
-- **Date range:** 6 Oct 2026 – 13 Oct 2026 (8 days)
-- **Approximate volume:** ~0.75 emails/day (new data Oct 13); overall baseline ~5.0 emails/day across full Oct 2–12 window, normalizing into steady-state execution
-- **Task assignment trend:** Continuing normalized pattern (~1 task/day); no new escalation spikes
-- **Notable shift:** Prototype build steady execution continuing; critical logistics coordination emerging Oct 13
+- **Total messages scanned:** 243 emails (225 previous + 18 new)
+- **Date range:** 6 Oct 2026 – 22 Oct 2026 (17 days)
+- **Approximate volume:** ~0.75 emails/day (Oct 14–22 window); baseline remains ~5.0 emails/day across full Oct 2–12 window
+- **Task assignment trend:** Continuing normalized pattern (~1 task/day via Asana); steady-state execution maintained
+- **Notable shift:** HALO shipping coordination active (Oct 19); ADONIS at scale inquiry emerging (Oct 20); composite fabrication vendor follow-up escalation (Oct 19)
 
 ## Key Correspondents
 
-### Top Internal Senders (Updated Oct 13)
-- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — **Escalated to critical logistics coordinator** Oct 13; now managing multi-party battery shipment to North Carolina with AeroNet vendor (4 message exchanges Oct 13); remains primary escalation point and vendor interface
-- **Asana** (no-reply@asana.com) — Task notifications normalized; Oct 6–12 shows **1 task due daily** (consistent steady-state execution)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — **Recurring team organizer**; Oct 12 sending recurring Monday All-hands meeting invitation
-- **Flight team core** — Maciej Stachura, Joshua Fromm, Beck Cotter, Jack Elston, Alex Lomis, Spencer Hoehl (continuing HALO + SOCOM coordination)
-- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — **New internal hire** (confirmed Oct 12 all-hands distribution)
+### Top Internal Senders (Updated Oct 22)
+- **Dan Prendergast** (daniel.prendergast@blackswifttech.com) — Primary escalation point; now appearing in Krateo Sky ATR vendor coordination cc chain (Oct 16, marked IMPORTANT)
+- **Asana** (no-reply@asana.com) — Task notifications continuing daily pattern; 7 notifications Oct 14–22 (1 task/day steady-state)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — Team organizer (recurring all-hands)
+- **Flight team core** — Continued HALO + SOCOM coordination (Stachura, Fromm, Cotter, Elston, Lomis, Hoehl)
+- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — New internal hire (confirmed Oct 12)
 
-### External/Vendor Senders (Updated Oct 13 — Active Logistics Phase)
-- **AeroNet** — **NEW critical vendor** (Oct 13, marked IMPORTANT)
-  - **Adrian Sepulveda** (asepulveda@aeronet.com) — Primary contact; initiating and coordinating battery shipment logistics
-  - **Robert Correia** (rcorreia@aeronet.com), **Patrick Mulstay** (pmulstay@aeronet.com), **Jeff Dauz** (jdauz@aeronet.com) — Secondary AeroNet team members cc'd on coordination chain
-  - **Purpose:** Battery shipment to North Carolina (destination location visible)
-  - **Status:** Multi-party coordination thread Oct 13; at least 4 message exchanges same day (indicates time-sensitive logistics)
-  - **Ethan's role:** cc'd on final coordination message (17:47 UTC); appears to be receiving final confirmation/coordination
+### External/Vendor Senders (Updated Oct 22 — Execution Phase)
+- **ByLight Technologies** — **ESCALATED to active coordination** (Oct 19)
+  - **Mel Marker** (mel.marker@bylight.com) — Primary contact; HALO shipping coordination
+  - **Messages:** Oct 19 (Ethan responds to Mel, marked IMPORTANT); Mel replies same day (marked IMPORTANT)
+  - **Status:** Bi-directional active coordination on HALO vehicle shipping logistics
+  - **Ethan's role:** Direct sender (initiating/responding to shipping status); cc'd on critical messages
 
-- **Krateo Sky** — **ATR vendor prospect** (Oct 12)
-  - Status: Initial qualification inquiry (Active)
+- **Krateo Sky** — **ESCALATED to active vendor negotiation** (Oct 16, marked IMPORTANT)
+  - **Brian Grubel** (Brian@krateosky.com) — Primary contact; responding to ATR vendor inquiry
+  - **Secondary team:** Bob Smith (Bob@krateosky.com), LisaMarie Cheney (LisaMarie@krateosky.com)
+  - **Dan Prendergast** cc'd on vendor coordination chain
+  - **Status:** Active proposal/negotiation phase (multi-party response Oct 16)
 
-- **ByLight Technologies** — **HALO program shipping** (Oct 7–8)
-  - Status: Shipping logistics finalized
+- **MachineTek** — **ESCALATED to final follow-up** (Oct 19)
+  - **Molly I** (molly@machinetek-useng.com) — Marked IMPORTANT; escalated follow-up on composite fabrication support
+  - **Status:** Vendor requiring final decision/commitment (characterization as "final follow-up" suggests pending close)
 
-- **NextVision Systems/NextVision Ltd** — **Quote finalization** (Oct 7)
-  - Status: Quote cycle continuing
+- **Blaze Sovereign** — **NEW prospect contact** (Oct 20)
+  - **Pete Dice** (pete.dice@blaizesovereign.com) — Subject: "ADONIS at scale" (marked IMPORTANT)
+  - **Status:** New technical proposal/partnership inquiry (codename/product name visible: ADONIS)
+  - **Ethan's role:** Recipient of new business inquiry
 
-- **Manufacturing/Component Vendors**
-  - **GlideMfg** (Sarabeth Eason) — S2 UAS housing (Oct 12, marked IMPORTANT)
-  - **MachineTek** (Molly I) — Composite core requirements (Oct 12, marked IMPORTANT)
+- **AeroNet** — **Continuing from prior critical logistics coordination**
+  - Status: Battery shipment coordination likely ongoing (not visible in Oct 14–22 sample, but Oct 13 thread was time-sensitive)
 
-### Internal vs External Breakdown (Updated)
-- **Internal/System:** ~68% (Asana, Dan Prendergast, Cory Dixon, flight team, all-hands)
-- **External/Vendor:** ~25% (AeroNet, Krateo Sky, ByLight, NextVision, GlideMfg, MachineTek)
-- **Admin/Promotional:** ~7%
+- **GetFPV** (chloe@getfpv.com) — **Promotional/component supplier**
+  - New drone components: Flywoo FlyLens 75 O4 Wide (Oct 20); YMZFPV Starship X1 (Oct 16)
+  - Status: Marketing/component announcements (marked IMPORTANT on Oct 20, suggesting Ethan may be monitoring for prototype components)
+
+- **NextVision Systems** — **Continuing quote cycle** (not visible in new sample, but ongoing from prior period)
+
+### Internal vs External Breakdown (Updated Oct 22)
+- **Internal/System:** ~62% (Asana, Dan Prendergast, Cory Dixon, flight team, Gemini notes)
+- **External/Vendor:** ~30% (ByLight, Krateo Sky, MachineTek, Blaze Sovereign, GetFPV, Toggl)
+- **Admin/Promotional:** ~8%
 
 ## Topic Patterns
 
-### **Battery Shipment to North Carolina (CRITICAL — Oct 13)**
-- **Vendor:** AeroNet (Adrian Sepulveda, Robert Correia, Patrick Mulstay, Jeff Dauz)
-- **Scope:** Battery component/power system shipment logistics
-- **Owner:** Dan Prendergast (BST side); Adrian Sepulveda (AeroNet lead)
-- **Status:** Time-sensitive coordination; 4+ message exchanges Oct 13 same day (11:39 AM, 5:47 PM, 12:27 PM, 6:22 PM UTC indicates active back-and-forth)
-- **Destination:** North Carolina (logistics hub or program test site)
-- **Ethan's role:** cc'd on final coordination message (indicates awareness/sign-off required on critical shipment)
-- **Implication:** Battery power systems critical path for SOCOM Pope S0 or HALO program; logistics execution phase active
+### **HALO Shipping Coordination (ACTIVE — Oct 19)**
+- **Vendor:** ByLight Technologies (Mel Marker)
+- **Scope:** HALO vehicle shipping logistics and status tracking
+- **Status:** Bi-directional active coordination; Ethan initiates inquiry, Mel responds same day (marked IMPORTANT)
+- **Implication:** HALO M2 vehicle moving through delivery/integration pipeline; critical path coordination
 
-### **SOCOM Pope S0 Prototype Build (STEADY STATE — Oct 6–13)**
-- **Phase:** Continued execution with emerging logistics coordination
-- **Multi-variant development:** EO/IR FMV + Real-time ATR variants
-- **Status:** Build components (batteries) now in active procurement/delivery pipeline
+### **Krateo Sky ATR Vendor Negotiation (ACTIVE — Oct 16)**
+- **Vendor:** Krateo Sky (Brian Grubel lead; Bob Smith, LisaMarie Cheney team)
+- **Scope:** ATR (Automatic Target Recognition) vendor for SOCOM S0 real-time processing variant
+- **Status:** Multi-party vendor response; Dan Prendergast cc'd on coordination (escalated from individual inquiry to formal negotiation chain)
+- **Implication:** SOCOM S0 ATR variant moving into formal vendor agreement phase
 
-### **ATR Vendor Recruitment** (Oct 12)
-- **Vendor:** Krateo Sky — Active qualification
+### **MachineTek Composite Fabrication (CRITICAL FOLLOW-UP — Oct 19)**
+- **Vendor:** MachineTek (Molly I)
+- **Scope:** Composite core/housing fabrication support (subject line: "Final Follow-Up")
+- **Status:** Marked IMPORTANT; language suggests vendor awaiting decision or commitment
+- **Implication:** Composite component procurement at decision gate (final follow-up suggests pending close or escalation)
 
-### **ByLight M2 HALO Shipping** (Oct 7–8)
-- **Status:** Delivered/ready for integration testing
+### **ADONIS at Scale Proposal (NEW — Oct 20)**
+- **Vendor:** Blaze Sovereign (Pete Dice)
+- **Scope:** New technical program or product offering (codename: ADONIS)
+- **Status:** Initial inquiry (marked IMPORTANT; suggests strategic relevance)
+- **Interpretation:** New business opportunity being evaluated; Ethan receiving direct outreach
 
-### **S2 UAS Housing Program** (Oct 12)
-- **Vendor:** GlideMfg — Initial inquiry
+### **SOCOM Pope S0 Prototype Build (STEADY STATE — Oct 14–22)**
+- **Phase:** Continued execution with vendor negotiation/logistics scaling
+- **Multi-variant development:** EO/IR FMV + ATR real-time processing
+- **Component status:** Batteries (AeroNet, prior), composites (MachineTek), ATR algorithms (Krateo Sky) all in active procurement
 
-### **Composite Core Requirements** (Oct 12)
-- **Vendor:** MachineTek — Vendor follow-up
+### **Component Monitoring (Ongoing)**
+- **GetFPV alerts:** New drone components (Flywoo FlyLens, YMZFPV Starship) marked IMPORTANT on Oct 20
+- **Implication:** Ethan actively monitoring consumer drone component releases; may be prototyping alternative platforms or integration testing
 
 ## Communication Patterns
 
-### Critical Vendor Coordination Escalation (Oct 13)
-- **Same-day multi-message thread:** AeroNet battery shipment coordination shows 4 messages exchanged Oct 13 within ~6 hours (11:39 AM to 6:22 PM)
-- **Multi-party involvement:** Dan Prendergast (BST) coordinating with 4 AeroNet team members (Sepulveda, Correia, Mulstay, Dauz)
-- **Pattern:** Time-sensitive logistics requiring rapid back-and-forth; Ethan cc'd on final message (awareness of critical shipment status)
-- **Frequency escalation:** Jump from Oct 12 (3 vendors, marked IMPORTANT) to Oct 13 (1 vendor, 4 message exchanges same day) suggests build phase entering critical path execution
+### Vendor Coordination Escalation (Oct 14–22)
+- **Oct 16 (Krateo Sky):** Single vendor response email; Dan Prendergast cc'd (escalated to formal negotiation chain)
+- **Oct 19 (ByLight & MachineTek):** Two separate vendor escalations same day; both marked IMPORTANT; MachineTek uses "final follow-up" language (decision gate)
+- **Oct 20 (Blaze Sovereign):** New strategic inquiry (ADONIS at scale)
+- **Pattern:** Compression of vendor escalations into Oct 16–20 window suggests procurement decisions clustering; multiple vendors reaching critical path milestones simultaneously
 
-### Task Assignment Normalization (Oct 6–13)
-- **Asana notifications:** Steady 1 task/day pattern continuing
-- **Load profile:** Stable execution phase
+### Task Normalization (Oct 14–22)
+- **Asana notifications:** 7 daily notifications across 9 days (1 task/day continues)
+- **Consistency:** Steady-state execution maintained
 
-### Vendor Coordination Maturation (Oct 12–13)
-- **Oct 12 pattern:** Multiple single-message vendor inquiries (procurement intake)
-- **Oct 13 pattern:** Multi-party, multi-message active logistics coordination (execution/fulfillment phase)
-- **Interpretation:** Build procurement shifting from evaluation/RFQ cycle to shipment/delivery coordination
-
-## Key Relationships
-
-### Internal Collaboration
-- **Dan Prendergast** — Primary escalation point, vendor interface, logistics coordinator; most frequent collaborator across escalation + execution phases
-- **Cory Dixon** — Team organizational lead; recurring all-hands coordination
-- **Flight team core** (Stachura, Fromm, Cotter, Elston, Lomis, Hoehl) — Technical execution team for HALO + SOCOM programs
-
-### External Relationships (Updated Priority)
-- **AeroNet (Adrian Sepulveda lead)** — **CRITICAL (NEW)** — Battery power systems supplier; time-sensitive logistics coordination; multi-stakeholder vendor relationship
-- **ByLight Technologies (Mel Marker)** — **ACTIVE** — HALO M2 vehicle integration partner; delivery phase
-- **Krateo Sky** — **ACTIVE PROSPECT** — ATR algorithm vendor for SOCOM S0 real-time variant
-- **NextVision Systems** — **ACTIVE** — Quote/PO tracking ongoing
-- **GlideMfg, MachineTek** — **EMERGING** — Component suppliers for S2 UAS housing and composites
-
-## Notable Observations
-
-- **AeroNet emergence as critical path vendor (Oct 13):** Battery shipment to North Carolina is time-sensitive and requires multi-party coordination; suggests power systems are on critical path for SOCOM Pope S0 or HALO program delivery milestone
+### Internal Meetings (Oct 14)
+- **Gemini notes:** "BST Internal Update Meeting

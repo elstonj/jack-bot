@@ -1,6 +1,7 @@
 # Sales — Shared Drive
 
-Small drive with 2 files.
+Small drive with 3 files.
 
-- 2025-11-14 Week Six Summary (modified 2026-10-13)
-- UXF_PDR_Mass_BoM_Bryan.xlsx (modified 2026-10-13)
+- UHouston_S3 (modified 2026-10-21)
+- Platform components by cost and origin (modified 2026-10-21)
+- Sales quote (modified 2026-10-19)

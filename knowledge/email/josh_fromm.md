@@ -1,14 +1,14 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: October 14, 2026**
+**UPDATED: October 22, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 1,649 messages** scanned across ~94 days (Jul 12–Oct 14, 2026)
-- Average ~17.5 messages/day
-- **Latest data window (Oct 12–14)**: 32 new messages
-- **Pattern observation**: High operational tempo sustained. **Facility/real estate coordination emerging** (2840 Wilderness Pl Suite C lease/procurement discussion with Amy Smith / W.W. Reynolds; Beck Cotter, Jack Elston, Josh Fromm direct participants Oct 14). **SOCOM program post-sequestration phase** (Requirements captured; ATR vendor coordination ongoing). **Krateosky Weekly Integration Review continues** (Oct 12 week integration scheduled; Fireflies.ai auto-recording BST/Krateosky collaboration). **Multi-vendor procurement pipeline active** (Vertiq motor SO-01545 shipment status Oct 13; Phase1AV order update Oct 13; McMaster-Carr, Pirate Ship shipping logistics Oct 13–14). **Routine vendor/promotional noise elevated** (23/32 new messages are newsletters, promotional emails, order confirmations, automated updates — significant inbox filtering load).**
+- **Total: 1,749 messages** scanned across ~102 days (Jul 12–Oct 22, 2026)
+- Average ~17.1 messages/day
+- **Latest data window (Oct 20–22)**: 100 new messages
+- **Pattern observation**: High operational tempo sustained. **S0 UAS System Integration workstream intensifying** (Jack Elston coordinating bi-weekly S0 meetings; Google Docs collaboration active Oct 22; onboard inference hardware evaluation in progress). **Krateosky Weekly Integration Review continues** (Oct 21 meeting notes distributed by Sona Raziabeegum; 24-person participants now including Ellen McCarthy, Shelly Dvorak). **Facility/real estate coordination ongoing** (2840 Wilderness Pl Suite C lease tracking continues with Beck Cotter, Amy Smith / W.W. Reynolds). **CNC parts procurement critical path** (Samantha / Best in Parts order BST260728-B16306 marked IMPORTANT Oct 21–22; Protolabs quote 4648-732 follow-up). **Vendor procurement pipeline at scale** (Pasternack, FutabaUSA, Vertiq, Phase1AV, Powerwerx, Prowireusa, DigiKey, Grainger, McMaster-Carr, Spindrift shipments/confirmations Oct 20–22). **Routine vendor/promotional noise remains elevated** (65/100 new messages are newsletters, promotional campaigns, order confirmations, automated logistics — consistent filtering load).**
 
 ---
 
@@ -16,90 +16,53 @@
 
 ### Top Senders (Direct to josh.fromm@blackswifttech.com)
 
-**Internal — Operational/Strategic**
+**Internal — Strategic/Engineering**
 
-1. **Beck Cotter** (beck.cotter@blackswifttech.com) — **OPERATIONS / FACILITIES**
-   - **NEW (Oct 14 10:05 UTC, Oct 14 09:56 UTC, Oct 14 09:15 UTC)**: "Re: 2840 Wilderness Pl Suite C" (TO: Amy Smith / W.W. Reynolds) — **Facility lease/procurement coordination; 2840 Wilderness Pl Suite C (likely BST office/lab space); multiple email exchanges with external real estate agent**
-   - **NEW (Oct 14 09:07 UTC)**: "Need an additional pick-up or bin/extra large quantity of cardboard" (TO: hauling@ecocycle.org, Josh Fromm CC'd) — **Waste management/facilities logistics**
-   - **Signal**: **Beck managing physical workspace expansion/relocation; Josh involved in facility decisions**
+1. **Jack Elston** (elstonj@blackswifttech.com) — **S0 UAS PROGRAM / INTEGRATION LEAD**
+   - **NEW (Oct 22 08:06:23, Oct 22 08:06:03 UTC)**: "S0 UAS System Integration v2" (Google Docs collaboration + @josh.fromm mention — IMPORTANT) — **Direct mention requiring response; S0 system architecture docs under active revision**
+   - **NEW (Oct 21 15:51:51, Oct 21 15:51:37 UTC)**: "Updated invitation: S0 Meeting @ Every 2 weeks from 10:30am to 11am on Wednesday (MDT)" (TO: Joshua Fromm, Maciej Stachura, Alex Lomis, Daniel Prendergast, Sam Hild) — **Bi-weekly standing meeting; schedule confirmed; Josh is core team member**
+   - **NEW (Oct 21 09:21:39 UTC)**: "Re: Week of October 19th BST Integration Slides" (TO: Cory Dixon / Krateosky) — **Cross-org slide deck coordination**
+   - **Signal**: **Jack is S0 program lead; Josh is core engineering contributor; bi-weekly meeting cadence formal; Google Docs collaboration indicates active design/requirements work**
 
-2. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEOSKY (STRATEGIC PARTNER)**
-   - **NEW (Oct 14 15:01 UTC)**: "Week of Oct 12: KS <> BST Weekly Integration Review" — **Krateosky/BST collaborative engineering meeting; 22 participants (Krateosky: Sona, Cory Dixon, Bob Smith, Brian Grubel, Adria Passola, Lluis Pedragosa, Ariel Avitan, Thibault Bridel-Bertomeu, LisaMarie Cheney, Dipan Amin, Tim Hegwood, Jed Leonard, Pam Kermisch, Don Spinozzi, Bob Gold, Jasmine Khambatta, Roger Riley; BST: Jack Elston, Maciej Stachura, Josh Fromm, Meredith Needham)**
-   - **Signal**: **Recurring high-level integration planning; Josh maintains standing seat at weekly strategic alignment**
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **PROGRAM DIRECTOR / TECHNICAL**
+   - **NEW (Oct 20 13:49:02 UTC)**: "Re: Question on S0 onboard inference" (TO: Joshua Fromm) — **Josh forwarded technical question; Daniel responding directly; onboard hardware inference architecture topic**
+   - **NEW (Oct 22 10:15:27 UTC)**: Josh forwarding Pasternack order notification to Daniel — **Josh routing vendor confirmations to Daniel for visibility/approval**
+   - **Signal**: **Daniel maintains technical oversight; Josh escalating procurement/technical decisions to him**
 
-3. **Fireflies.ai** (fred@fireflies.ai) — **AUTOMATED MEETING RECORDING**
-   - **NEW (Oct 14 14:56 UTC)**: "Notification: recording Black Swift Weekly Integration Review" — **Automated meeting transcription/recording service for BST meetings**
-   - **Signal**: **Meetings being systematically recorded for documentation/archive purposes**
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **OPERATIONS / FACILITIES / ASANA ADMIN**
+   - **NEW (Oct 21 17:20:41 UTC)**: "New comment added on a task assigned to you: Send Jaia containers b…" (via Asana) — **Task tracking active; Josh has assigned/tracked deliverables**
+   - **NEW (Oct 21 15:41:45 UTC)**: "Re: refund request" (TO: Rachel Galera, Adrian Sepulveda, Jeff Dauz / AERONET) — **Beck handling vendor disputes/returns with external partner**
+   - **NEW (Oct 21 11:34:27 UTC)**: "Re: Couple of Questions" (TO: Danielle Varwig / NOAA Federal) — **NOAA coordination continuing**
+   - **Signal**: **Beck managing task execution, facilities, vendor relationships; Josh responding to assigned tasks**
 
-**External — Vendors / Real Estate**
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — **TECHNICAL / PROJECT COORDINATION**
+   - **NEW (Oct 21 09:04:05 UTC)**: "Out of Office Re: RE: CNC parts order for Black Swift-BST260728-B16306" — **Meredith OOO; Josh managing procurement continuity**
+   - **Signal**: **Meredith co-owns CNC procurement path; currently out of office Oct 21**
 
-1. **Amy Smith** (amy@wwreynolds.com) — **W.W. REYNOLDS (REAL ESTATE)**
-   - **NEW (Oct 14 15:27 UTC, Oct 14 15:17 UTC)**: "RE: 2840 Wilderness Pl Suite C" (TO: Beck Cotter, Josh Fromm, Jack Elston) — **Facility lease negotiation/coordination; direct communication with real estate broker on behalf of BST**
-   - **Signal**: **Active real estate transaction; Josh engaged as decision-maker/signatory**
+**External — Vendors / Partners**
 
-2. **Sean Cole** (sean@phase1av.com) — **PHASE1AV (VENDOR)**
-   - **NEW (Oct 14 14:09 UTC)**: "Re: Order Update for Black Swift" — **Phase1AV order status; Josh initiated order inquiry Oct 13 15:50 UTC**
-   - **Signal**: **Ongoing procurement from Phase1AV; likely airframe/avionics/sensor component**
+1. **Samantha** (Samantha@bestinparts.com) — **BEST IN PARTS (CNC MANUFACTURING)**
+   - **NEW (Oct 22 09:57:41 UTC, Oct 21 17:30:07 UTC, Oct 21 09:04:41 UTC)**: "RE: Re: RE: CNC parts order for Black Swift-BST260728-B16306" (IMPORTANT, Oct 21–22) — **Multi-email exchange Oct 21–22; critical path item; Josh responding directly Oct 21 10:03:41 UTC**
+   - **Signal**: **CNC parts order BST260728-B16306 critical; Samantha is primary vendor contact; Josh personally managing this relationship**
 
-3. **Chance Rogers** (chance.rogers@vertiq.co) — **VERTIQ MOTORS**
-   - **NEW (Oct 13 15:42 UTC)**: "Re: Vertiq SO-01545 Shipment" — **Motor shipment SO-01545 status update (continuing from Oct 12 coordination)**
-   - **Signal**: **Critical propulsion component delivery tracking active**
+2. **Jessica** (jessica@protospacemfg.com) — **PROTOSPACE MFG (CNC / RAPID PROTOTYPING)**
+   - **NEW (Oct 22 12:14:28 UTC, Oct 21 17:14:26 UTC)**: "RE: Hi Joshua - Would Love to Reconnect" (IMPORTANT, both dates) — **Recurring reconnection outreach; Josh responding Oct 21 13:25:33 UTC and Oct 22 08:53:16 UTC**
+   - **Signal**: **Relationship reactivation; Josh maintaining strategic vendor relationships for rapid manufacturing capability**
+
+3. **Sona Raziabeegum** (sona@krateosky.com) — **KRATEOSKY (STRATEGIC PARTNER / INTEGRATION LEAD)**
+   - **NEW (Oct 21 23:39:40 UTC)**: "Black Swift Weekly Integration Review, notes and actions from 21 October" (TO: 24 participants including Josh Fromm, Jack Elston, Maciej Stachura, Meredith Needham, Beck Cotter) — **Meeting notes + action items distributed**
+   - **Signal**: **Krateosky meeting minutes formally distributed; Josh is core participant**
+
+4. **Pete Dice** (pete@blaizesovereign.com) — **EXTERNAL TECHNICAL (POSSIBLY VENDOR/ADVISOR)**
+   - **NEW (Oct 20 19:13:34 UTC)**: "Question on S0 onboard inference" (TO: josh.fromm@bst.aero) — **External technical question on S0 hardware; Josh forwarded to Daniel Prendergast + Alex Lomis**
+   - **Signal**: **External technical advisor/vendor weighing in on S0 architecture decisions**
+
+5. **Hatty** (hatty@mechplus.cn) — **MECHPLUS (LIKELY INTERNATIONAL MANUFACTURING)**
+   - **NEW (Oct 21 14:52:13 UTC)**: "Enquiry" — **New vendor outreach; likely unsolicited**
 
 ### Top Recipients (Josh sending to)
 
-1. **Sean Cole** (sean@phase1av.com) — **PHASE1AV**
-   - **NEW (Oct 13 15:50 UTC)**: "Order Update for Black Swift" — **Josh proactively requesting order status**
-   - **Signal**: **Josh managing vendor communications directly; time-sensitive procurement follow-up**
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
+   - **NEW (Oct 22 10:15:27 UTC)**: Pasternack order forwarding — **Josh routing vendor updates to Daniel**
 
-2. **Beck Cotter / Amy Smith** (cc'd) — **INTERNAL / REAL ESTATE**
-   - **NEW (Oct 14 09:15 UTC)**: Facility lease discussions — **Josh participating in facility expansion decision-making**
-   - **Signal**: **Strategic real estate decision-maker**
-
-### Mailing Lists / Group Communications
-
-1. **Krateosky Weekly Integration Review** — **22-person collaborative meeting**
-   - Recurring cadence established (weekly)
-   - Mix of Krateosky (11) and BST (4 identified: Jack Elston, Maciej Stachura, Josh Fromm, Meredith Needham)
-   - Auto-recorded via Fireflies.ai
-
-2. **Purchasing@ / Logistics routing** — **Systematic order fulfillment**
-   - McMaster-Carr orders (Oct 13)
-   - Pirate Ship shipping (Oct 13)
-   - USPS Informed Delivery, WireCare.com orders
-   - **Signal**: **Procurement flowing through centralized purchasing@blackswifttech.com mailbox; Josh CC'd on order confirmations/tracking**
-
----
-
-## Topic Patterns
-
-### Active Projects / Programs
-
-1. **SOCOM Program** (U.S. Special Operations Command)
-   - ATR (Automatic Target Recognition) vendor/integration coordination
-   - Requirements sequestration phase completed (Oct 12)
-   - Daniel Prendergast leading; Josh coordinating with Evan M. Wolff (SOCOM stakeholder)
-
-2. **Krateosky Integration** (BST ↔ Krateosky collaboration)
-   - Weekly engineering reviews (standing cadence)
-   - 22-person collaborative meeting structure
-   - Multi-workstream integration (sensor, payload, airframe)
-
-3. **NASA S2 Platform Delivery** 
-   - Wesley R. Enos (NASA ARC-QS) coordinating with Daniel Prendergast
-   - Josh CC'd on delivery logistics
-
-4. **NOAA UAS Operations / Hurricane Response**
-   - Laura Rock / Jason Sippel (NOAA) — ongoing operational tasking
-   - Tropical Storm Isaias P-3 crew coordination (Oct 8)
-   - Daily SITREP distribution continuing
-
-5. **University Research Partnerships**
-   - INSTAAR S3s payload integration (CU Boulder)
-   - Kevin S. Rozmiarek, Tyler Jones, Beck Cotter coordinating
-
-### Recurring Procurement Subjects
-
-- **Vertiq Motors**: SO-01545 shipment tracking (propulsion)
-- **Amprius Batteries**: SA03 lithium cells, MSDS/UN38.3 compliance (power)
-- **Phase1AV**: Order updates (airframe/avionics/sensors)
-- **Xometry**: Quote Q40-5887-7723 (machined components)
+2. **Alex Lomis** (alex

@@ -33,7 +33,7 @@
         "amount": 40725.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-05"
+        "last_updated": "2026-10-22"
       },
       "purchases": {
         "amount": 0.0,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 97769.0,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-05T23:06:22Z"
+    "last_reconciled": "2026-10-22T18:53:44Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -62,17 +62,29 @@
   "overrides": [
     {
       "source": "FEEDBACK",
-      "author": "Joshua Fromm",
-      "date": "2026-09-21",
-      "text": "From Joshua Fromm (ts=1789755724.853639): That's me, navy mag"
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392420.235689): <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  T"
     },
     {
       "source": "FEEDBACK",
-      "author": "Joshua Fromm",
-      "date": "2026-09-18",
-      "text": "From Joshua Fromm: That's me, navy mag"
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392969.469609): <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-07",
+      "text": "From Daniel Prendergast: <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-07",
+      "text": "From Daniel Prendergast: <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  The S3 is lower priority"
     }
   ],
-  "last_full_rebuild": "2026-10-05T23:06:22Z",
+  "last_full_rebuild": "2026-10-22T18:53:44Z",
   "last_incremental_update": null
 }

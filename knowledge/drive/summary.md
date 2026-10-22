@@ -1,82 +1,60 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-10-14 10:40
+Last scanned: 2026-10-22 12:01
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 11 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 13 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies: Google Drive Strategic Overview
+# Google Drive Strategic Overview – Black Swift Technologies
 
-## Document Volume & Organization
-
-| Drive | Files | Folders | Organization Quality |
-|-------|-------|---------|----------------------|
-| **Federal Projects** | 11 | 4 | Good—structured by project/client |
-| **Sales** | 2 | 0 | Minimal—lacks structure |
-
-**Total: 13 documents across 2 active drives**
+## Summary Statistics
+- **Total documented drives:** 3 (Federal Projects, Sales, + 1 unnamed)
+- **Total files:** 16+ files across drives
+- **Date range:** 2022–2099 (note: future-dated modifications suggest potential data entry errors)
+- **Organization quality:** Inconsistent; Federal drive is structured, Sales drive is minimal
 
 ---
 
-## Key Clients & Projects
+## Drive Breakdown
 
-### Federal Projects Drive (Primary Hub)
-- **NASA** (2 initiatives): NASA 777 integration with ERAU + S2 parts shipment tracking
-- **DIU (Defense Innovation Unit)**: Low-Cost ISR proposal and technical documentation
-- **SOCOM & BAE Systems**: Active proposals
-- **Government Testing/Range Operations**: Post-event documentation and after-action reviews
+### Federal Projects Drive
+**Volume & Organization:** Most robust drive (13 files, 6 organized folders)
+- **Key focus areas:** NASA collaboration, DIU proposals, SOCOM/BAE partnerships, Navy contracts, Arctic Edge 28 ops
+- **Document types:** Post-event reviews, proposals, technical white papers, operational procedures, video assets
+- **Strengths:** Clear project-based folder structure; mix of strategic and operational documentation
+- **Concerns:** Date range extends to 2099 (data anomaly); unclear archive status of older materials (2022 creation date)
 
-### Sales Drive (Secondary)
-- Limited visibility—only 2 files (week summary + mass BoM)
-- Appears to support product/project delivery rather than business development
+### Sales Drive
+**Volume & Organization:** Minimal (3 files, no folders)
+- **Key content:** University of Houston opportunity, component cost analysis, sales quote
+- **Concerns:** Lacks structure; no visible templates or standardized processes; limited documentation for growth
 
 ---
 
 ## Cross-Drive Patterns
-
-**Federal Projects** operates as a comprehensive government contracting hub with:
-- Technical documentation (white papers, test planning)
-- Proposals and compliance materials (DIU, SOCOM, BAE)
-- Operational/procedural records (after-action reviews, attendee qualification)
-- Video assets for presentations/marketing
-
-**Sales** appears to track internal project metrics and component specifications (BoM = Bill of Materials)
+- **Federal:** Proposal-heavy (DIU, SOCOM, Navy contracts) with post-delivery documentation
+- **Sales:** Early-stage opportunities; no evidence of pipeline management or proposal templates
+- **Gap:** No centralized template library or shared resources visible across drives
 
 ---
 
-## Important Shared Resources
-
-- **Technical white papers** (Federal Projects root)
-- **Proposal templates & case studies** (SOCOM, BAE, DIU examples)
-- **NASA collaboration documentation** (cross-organizational planning with ERAU)
-- **After-action reviews** (operational lessons learned)
-
----
-
-## Document Management Observations
-
-✅ **Strengths:**
-- Federal Projects uses logical project-based folder hierarchy
-- Consistent date tracking (2022–2099 range suggests active updates)
-
-⚠️ **Concerns:**
-- **Empty folder** (2026 TCE)—suggests incomplete migration or planning
-- **Sales drive severely underpopulated**—may lack visibility into proposals/pipeline
-- **No apparent naming conventions** enforced across drives
-- **Limited folder depth**—root-level files in Federal Projects risk clutter
+## Areas Requiring Attention
+1. **Data quality:** Future-dated file modifications (2099, 2026) need verification
+2. **Sales process:** Severely underdocumented; no visible CRM integration, pipeline, or templates
+3. **Archive/retention:** Unclear which Federal documents are active vs. historical
+4. **Naming conventions:** Inconsistent across drives (mix of codes, project names, descriptors)
+5. **Cross-drive visibility:** Limited evidence of shared templates or resource libraries
 
 ---
 
-## Areas Needing Attention
-
-1. **Sales drive structure**: Only 2 files suggests either underdocumentation of sales pipeline or content stored elsewhere
-2. **2026 TCE folder**: Clarify purpose or archive if outdated
-3. **Naming consistency**: Establish drive-wide file naming standards (client-date-description format recommended)
-4. **Archive strategy**: Review 2022 documents for staleness; consider retention policies
-5. **Access audit**: Verify appropriate personnel have access to proposals and technical IP
+## Recommendations
+- Audit and correct anomalous dates
+- Develop Sales drive structure mirroring Federal drive's folder organization
+- Create shared template library (proposals, contracts, SOWs)
+- Implement consistent naming conventions across all drives

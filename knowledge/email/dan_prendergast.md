@@ -1,112 +1,98 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 45 (Oct 6–14, 2026)
+- **Total messages scanned:** 109 (Oct 14–22, 2026)
 - **Date range:** 9 days
-- **Approximate volume:** ~5 emails per day
-- Consistent active correspondence; spike on Oct 13 (7 messages in ~2 hours, 11:10–14:44 MDT)
+- **Approximate volume:** ~12 emails per day
+- **Trend:** Volume increased significantly from previous period (5 → 12 emails/day); sustained high activity Oct 15–22
 
 ## Key Correspondents
 
-### Top External Contacts (by frequency)
-- **Krateo Sky** (Ellen McCarthy, Bob Smith, Lisa Marie Cheney, Brian Grubel) — 8+ messages
-- **AeroNet** (Adrian Sepulveda, Robert Correia, Patrick Mulstay, Jeff Dauz) — 5 messages
-- **DataLogger Inc.** (Tony King) — 4 messages
-- **NextVision** (Oren Nissim, Chani Ben Simon) — 3 messages
-- **NASA Ames (ARC-QS)** (Wesley R. Enos) — 3 messages
-- **Tibidabo Scientific** (John Toman) — 2 messages
-- **Winmate Rugged** (Cindy Webster) — 2 messages
-- **USSOCOM** (Evan M. Wolff, MIL) — 1 message
-- **Sightline Intel** (Nick Whaley) — 1 message
-- **StepGlobal** (Danijel Lloyd) — 2 messages
-- **CO-LABS** (Dan Powers) — 1 message
-- **DroneX Mexico** (joaco@dronex.com.mx) — 1 message
-- **UC Santa Cruz** (Rob Wandel, rcorreia@ucsc.edu assumed) — 1 message
-- **Photek** (automated/promotional) — 1 message
+### Top External Contacts (by frequency in new data)
+- **Krateo Sky** (Ellen McCarthy, Bob Smith, Lisa Marie Cheney, Jed Leonard, Brian Grubel) — 6 messages (continued high engagement)
+- **CoVar** (Claudia Dabbs, Pete Torrione, Joe Camilo, Mark Hibbard) — 7 messages (NEW: emerging as major vendor partner; processing hardware discussions)
+- **Tibidabo Scientific** (John Toman) — 3 messages (continued optical imaging component engagement)
+- **DataLogger Inc.** (Tony King, Millie Haas, accounting@dataloggerinc.com) — 5 messages (enDAQ S3 quotation refinement, payment processing)
+- **Winmate Rugged** (Cindy Webster) — 3 messages (controller hardware procurement)
+- **NTI Systems** (Alexy Mukadem) — 2 messages (GCS software platform integration discussions)
+- **Sightline Intel** (Nick Whaley) — 3 messages (AITR intelligence system)
+- **NASA Ames ARC-QS** (Wesley R. Enos) — 3 messages (S2 delivery ongoing)
+- **UC Santa Cruz** (Rob Wandel) — 1 message (flight plan coordination)
+- **Videology Inc.** (Thomas Garcia) — 1 message (video/imaging introduction; Alex Lomis primary contact)
+- **Aegis Electronic Solutions** (David Naranjo) — 1 message (Videology introduction coordination)
+- **Hamamatsu** (Jenna Ferrari) — 1 message (NEW: image intensifiers vendor)
+- **Pasternack** (sales@pasternack.com) — 2 messages (NEW: RF/microwave components; Web Order #401280)
+- **Precision Terra** (Maithreyi Gopalakrishnan) — 3 messages (NASA Phase II project coordination)
+- **Unknown-Unknowns/LumenaStr** (Shane Verploegh, Peter Greene, Matt La Pan, Kevin Rockwell) — distributed in NASA Phase II thread
+- **Critical Path IP Law** (Richard Zelenka) — 1 message (legal support on NASA Phase II)
 
-### Internal Collaborators
-- **Jack Elston** (elstonj@blackswifttech.com) — frequently copied/recipient; 4 messages in new data
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — project coordination (Popocatépetl)
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — forwarding USAF comms
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — battery shipment recipient
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — receives vendor communications
+### Internal Collaborators (Updated)
+- **Jack Elston** — 8 messages in new data (NASA S2, Arctic Edge 2028, WC-130J air-deployment, opportunity coordination)
+- **Joshua Fromm** — 3 messages (Pasternack order notification relay, S0 onboard inference question)
+- **Meredith Needham** — 4 messages (vendor communications, Pasternack order forwarding, payment receipts)
+- **Maciej Stachura** — 5 messages (Megan resume introduction, S0 air-deployment, NASA Phase II, Arctic Edge 2028)
+- **Alex Lomis** — 3 messages (Videology introduction, image processing/sensor systems)
+- **Beck Cotter** — 2 messages (Arctic Edge 2028, NASA Phase II coordination)
+- **Ethan Domagala** — not present in new data (previous logistics role)
 
 ### Internal vs External Breakdown
-- Majority external vendor/partner/government correspondence
-- Heavy government/military touchpoints (NASA, SOCOM, USAF)
-- New vendor emergence: **AeroNet** (battery/logistics supplier, significant Oct 13 activity)
+- **Heavily external-facing:** CoVar, Krateo, Tibidabo, Hamamatsu, Pasternack, NTI Systems (strategic partnerships)
+- **Government/academic:** NASA, UC Santa Cruz, precision research networks
+- **Internal hub:** Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham (operational coordination)
 
 ## Topic Patterns
 
-### Active Projects/Programs
-- **NASA S2 Delivery** — Active technical coordination (3 messages Oct 13, flagged [IMPORTANT])
-- **SOCOM S0 Program** — ATR vendor evaluation, ongoing
-- **USAF Long-Range Communications Drones** — AFSOC platform deployment (forwarded via Beck Cotter, Ed Kase intermediary)
-- **Popocatépetl Volcano Research Mission** — Continued coordination with Spencer Hoehl and DroneX Mexico
-- **Battery Shipment to North Carolina** — Multiple rapid exchanges (urgent logistics, Oct 13)
-- **UC Santa Cruz Flight Plans** — Academic/research collaboration (Rob Wandel)
+### Active Projects/Programs (Updated & New)
 
-### Recurring Vendor/Product Themes
-- **Tibidabo Scientific Protek Image Intensifiers** — NEW; optical/imaging component procurement (Oct 14)
-- **Photek** (optical components/datasheets) — Automated notification; likely related to imaging systems
-- **AeroNet Batteries** — Significant supply chain component; urgent North Carolina shipment
-- **Winmate Rugged Controllers** — hardware procurement ongoing
-- **enDAQ S3 Data Logger** — sensor/instrumentation acquisition
-- **Sightline AITR** — intelligence/reconnaissance system
-- **Export controls** — Krateo Sky correspondence continues; new detail: **Lockheed Martin UK & UK Royal Navy sales** mentioned
+**High Priority (Multiple references, rapid exchanges):**
+- **NASA Phase II Project** — Starts Oct 15; coordination with Precision Terra, Unknown-Unknowns team, legal (Richard Zelenka), Beck Cotter; Maithreyi Gopalakrishnan lead external contact
+- **SOCOM S0 Program** — Continued; ATR vendor evaluation (Krateo Sky discussion Oct 16), onboard inference processing (Joshua Fromm query Oct 20), S0 air-deployment platform (WC-130J aircraft integration)
+- **NASA S2 Delivery** — Ongoing technical coordination (Wesley Enos, 3 messages Oct 14–16)
+- **Arctic Edge 2028** — NEW: Large-scale military exercise coordination (Jack Elston thread Oct 19, involves Krateo Sky)
 
-### Supplier/Vendor Names Visible (New/Updated)
-- **Tibidabo Scientific** — NEW optical imaging vendor
-- **AeroNet** — NEW battery/logistics supplier (multi-contact, urgent priority)
-- **Photek** — Optical component supplier (automated comms)
-- Krateo Sky (persistent export control focus)
-- NextVision, Winmate, DataLogger, Sightline, StepGlobal (ongoing)
+**Emerging/Tactical:**
+- **S0 Air-Deployed UAS** — WC-130J aircraft deployment platform (Oct 19 Jack Elston reference; Maciej Stachura involvement)
+- **UC Santa Cruz Flight Plans** — Continued academic partnership (Oct 19)
+- **Popocatépetl Volcano Research** — Not present in new data; may be winding down
+
+### Recurring Vendor/Product Themes (New & Updated)
+
+**Optical/Imaging Systems (Major Focus):**
+- **Tibidabo Scientific Protek Image Intensifiers** — 3 messages Oct 14–15; active procurement and integration planning
+- **Hamamatsu Image Intensifiers** — NEW vendor (Oct 20); direct contact from Jenna Ferrari; parallel imaging component sourcing
+- **Photek optical components** — Forwarded to Joshua Fromm & Alex Lomis (Oct 15); datasheet distribution for internal evaluation
+- **Videology video processing** — NEW (Oct 20); Alex Lomis coordinating introduction; likely video analysis/AI pipeline integration
+
+**Processing & Computing Hardware:**
+- **CoVar Processing Hardware** — NEW major theme; 7 messages Oct 15–22 with Claudia Dabbs (Pete Torrione, Mark Hibbard); subject: "[EXT] - Possible Processing Hardware"; meeting scheduled with Mark (Oct 21 "Meeting with Mark")
+- **NTI Systems GCS (Ground Control Station)** — 2 messages Oct 15 & 21; software integration for drone control platform
+- **Pasternack RF/Microwave Components** — NEW (Oct 22); Order #401280, Web Order #641612370; forwarded to Meredith Needham for procurement; likely communications/sensor components
+
+**Data Acquisition/Instrumentation:**
+- **enDAQ S3 Data Logger** — Continued; 3 quotes/refinements (Oct 16, 20, multiple with Tony King); precision telemetry/shock measurement
+- **Winmate Rugged Controllers** — 3 messages Oct 15; hardware interfaces
+
+**Intelligence/Reconnaissance Systems:**
+- **Sightline AITR** — 3 messages Oct 15–16; active technical discussion with Nick Whaley
+
+**Export Control:**
+- **Krateo Sky — UK/Lockheed Martin Export Compliance** — Oct 21 message from Ellen McCarthy [IMPORTANT]; "Black Swift UAS Sales to Lockheed Martin UK and UK Royal Navy" export licensing review; continuing from previous period escalation
+
+### Supplier/Vendor Summary (Cumulative)
+- **CoVar** — PRIMARY NEW (processing hardware, strategic meetings)
+- **Hamamatsu** — NEW optical intensifier vendor
+- **Pasternack** — NEW RF/microwave components
+- **Videology Inc.** — NEW video processing platform
+- Tibidabo Scientific, Winmate, NTI Systems, Sightline, DataLogger (ongoing)
+- Krateo Sky (persistent, export-heavy)
 
 ## Communication Patterns
 
-### Temporal Patterns
-- **Tuesday, Oct 13:** Burst activity — 7 messages in ~3.5 hours (11:10–14:44 MDT)
-  - NASA S2 comms concentrated (11:39–12:14)
-  - Battery shipment rapid-fire responses (11:39–12:27)
-  - Export control follow-ups (12:02–12:12)
-- **Wednesday, Oct 14:** Continued vendor engagement — Tibidabo Scientific, Photek, AeroNet
-- **Off-hours activity:** Photek datasheet email at 02:15 UTC (automated); Toman reply at 23:33 UTC
-- Consistent afternoon/early-evening spike (11:00–14:44 MDT typical)
+### Temporal Patterns (Updated)
 
-### Email Types
-- Primarily **reply chains** (Re:, Fwd:) — active conversation manager
-- **Urgent logistics:** Battery shipment threads with multiple AeroNet contacts; escalated within BST (Ethan Domagala copied)
-- **Government liaison:** NASA S2 forwarded to Jack Elston with rapid follow-ups
-- **Vendor procurement:** Tibidabo, Photek, enDAQ, Winmate inquiry threads
-- [IMPORTANT, INBOX] flags on NASA, Krateo export control, AeroNet battery, Tibidabo
-- [SENT] markers on outbound communications
-
-### Mailing Patterns
-- **CC'd heavily with Jack Elston** on government/strategic matters (NASA, export controls)
-- **Wide AeroNet distribution:** Robert Correia, Patrick Mulstay, Jeff Dauz, Adrian Sepulveda, Ethan Domagala (Oct 13, 11:39)
-- Acts as **primary point of contact for procurement, vendor management, and logistics escalation**
-- Spencer Hoehl managing external partner comms directly (DroneX Mexico); Dan copied or follows up
-
-## Key Relationships
-
-### Closest Internal Collaborators
-1. **Jack Elston** — Co-recipient on NASA, government, and strategic vendor matters (4 messages in new data)
-2. **Spencer Hoehl** — Project-specific (Popocatépetl volcano research)
-3. **Ethan Domagala** — Operations/logistics (battery shipment coordination)
-4. **Beck Cotter** — Government/USAF liaison
-
-### Critical External Relationships (Ranked by Recent Activity)
-1. **AeroNet (Adrian Sepulveda, Robert Correia, Patrick Mulstay, Jeff Dauz)** — NEW priority; battery supplier with urgent North Carolina shipment; multi-contact escalation on Oct 13
-2. **Krateo Sky (Ellen McCarthy)** — Persistent vendor partner; export control compliance ongoing, including **Lockheed Martin UK & UK Royal Navy** sales
-3. **NASA Ames ARC-QS (Wesley Enos)** — S2 delivery project; active technical coordination (3 messages Oct 13)
-4. **Tibidabo Scientific (John Toman)** — NEW optical imaging vendor; rapid engagement (Oct 14)
-5. **NextVision, DataLogger, Winmate** — Established suppliers; ongoing procurement
-6. **UC Santa Cruz (Rob Wandel)** — Academic/research partnership; flight plan coordination
-
-## Notable Observations
-
-1. **New imaging/optical supplier added:** Tibidabo Scientific (Protek Image Intensifiers) and Photek engagement suggests integration of optical systems — possible upgrade to existing platform or new surveillance/reconnaissance capability
-
-2. **Supply chain urgency:** AeroNet battery shipment to North Carolina triggered rapid escalation (multiple Aeronet staff, internal BST ops contact Ethan Domagala) on Oct 13 — indicates critical path item or deadline-driven project
-
-3. **Export
+**Key Activity Clusters:**
+- **Thursday, Oct 15:** Burst activity — 15 messages in single day
+  - Tibidabo, Winmate, CoVar, Sightline, Krateo rapid replies (10:00–16:45 MDT)
+  - NASA Phase II coordination thread (12:08 UTC)
+  - Internal forwardings to Joshua Fromm, Alex Lomis (Photek, Tibidabo images)
+- **

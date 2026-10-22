@@ -4,9 +4,9 @@
 
 The #flight-testing channel serves as Black Swift Technologies' primary hub for coordinating flight test operations, troubleshooting aircraft and payload issues, and tracking firmware/software development across their fleet of fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL (S0, S1-VTOL, S3) platforms.
 
-**Key Participants:** Maciej (lead flight testing/analysis/firmware development), Jack Elston (firmware development/debugging support), Joshua Fromm (QA/component sourcing), Ben Busky (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot/magnetometer troubleshooting), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot/tablet operator), Beck Cotter (operations support), Paige Smith (media/video curation), Meredith Needham (logistics/administrative support), Scott (equipment/field operations), Stefan (payload data processing - CH4/CO2), Spencer Hoehl (QA/maintenance workflow coordination/process formalization lead/flight readiness review automation lead/test pilot), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show), Ken Jochim (BAS airfield operator), Boulder Emergency Squad (external visitor/stakeholder), NRL/Naval Research Laboratory (external client/payload testing), Matt at NRL (external contact/gimbal payload lead/battery support), Brian (external stakeholder/SOCOM demo operator), ERAU (external partner - isarra project), NREL (external contact - equipment/batteries), Eryan (ERAU contact - E2 testing/SMM data evaluation)
+**Key Participants:** Maciej (lead flight testing/analysis/firmware development), Jack Elston (firmware development/debugging support), Joshua Fromm (QA/component sourcing), Ben Busky (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot/magnetometer troubleshooting), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot/tablet operator), Beck Cotter (operations support), Paige Smith (media/video curation), Meredith Needham (logistics/administrative support), Scott (equipment/field operations), Stefan (payload data processing - CH4/CO2), Spencer Hoehl (QA/maintenance workflow coordination/process formalization lead/flight readiness review automation lead/test pilot), Ali Sulehria (flight sim operator/tester), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show), Ken Jochim (BAS airfield operator), Boulder Emergency Squad (external visitor/stakeholder), NRL/Naval Research Laboratory (external client/payload testing), Matt at NRL (external contact/gimbal payload lead/battery support), Brian (external stakeholder/SOCOM demo operator), ERAU (external partner - isarra project), NREL (external contact - equipment/batteries), Eryan (ERAU contact - E2 testing/SMM data evaluation)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through October 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. October 12-13, 2026 activity shows S1-VTOL transition testing, S-series aircraft QC operations, hover control refinement, and post-flight analysis with focus on IAS sensor diagnostics and control mode troubleshooting.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through October 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. October 14-21, 2026 activity shows release candidate firmware testing campaign initiation, S1-VTOL flight readiness review completion, comprehensive simulator validation, and critical autopilot firmware issues identification.
 
 ---
 
@@ -43,17 +43,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **September 15, 2026:** S20009 QC flight completed and passed; aircraft approved for operations (SW v3028, HW v2050, code revision 4fb65e96)
 - **September 17, 2026:** ByLight external client test flight planned for September 18 at Sunny Slope Sod Farm
 - **October 12, 2026:** S1-VTOL midpoint hover readjustment approved; yaw control confirmed improved after manual hover testing by Spencer Hoehl and Ethan Domagala; aircraft cleared for flight testing October 13; pitot tube issue resolved and approved for deployment
-
-### Firmware & Software
 - **October 12, 2026:** Internal AP repo pull-based approach approved for firmware distribution; packaging method for customer deployment deferred for later decision
 - **October 13, 2026:** S10021 (Xtend) transition flight conducted on existing binary from previous week (no new binary required)
-
----
-
-## Projects & Initiatives
-
-### S1-VTOL Transition Testing & Flight Readiness
-- **Status (October 13, 2026):** Active flight testing phase
-- **Key aircraft:** S10005, S10021 (Xtend), S10022
-- **Recent activities:**
-  - S10021 transition flight (Oct 13): Takeoff → orbit → land + joystick hover, performed
+- **October 15, 2026:** S10011 passed flight readiness review and approved for flight testing with new firmware (S1-VTOL platform)
+- **October 16, 2026:** `feature/commands_fix` branch approved for merge per code review; release candidate testing campaign structured into four phases (sim testing, QC flights on all platforms, fail testing, S2/E2 QC flights); S2-3 designated for

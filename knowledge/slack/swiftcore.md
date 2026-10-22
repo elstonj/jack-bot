@@ -1,14 +1,16 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 25+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, and Alex Lomis.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 26+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, and Ali Sulehria.
 
 **Key Participants:** 
-- Jack Elston (autopilot/firmware/simulation lead, UI/packaging)
-- Ben Busby (comms/GCS/tablet app)
-- Maciej (autopilot/VTOL/simulation testing lead)
-- Dan Prendergast
+- Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management)
+- Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins)
+- Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist)
+- Dan Prendergast (infrastructure/GitLab access)
 - Cory Dixon
+- Spencer Hoehl (simulator testing lead, QC flight procedures)
+- Ali Sulehria (software and use case testing)
 - Other team members
 
 **Activity Level:** Highly active with daily technical discussions, bug reports, and project coordination
@@ -115,7 +117,4 @@ This channel serves as the primary technical communication hub for Black Swift T
 **GCS Hardware Platform Selection (July 7-10, 2026 - FINALIZED):**
 - **Initial Decision (July 7-8, 2026):** Use exact setup from NOAA GCS regarding Gateworks board and expansion configuration
   - Two-slot board selected to provide more options for future expansion
-  - Alternative approach considered: Using onboard UART for GPS and USB for radio to minimize expansion cards needed
-- **Final Configuration Approved (July 10, 2026):**
-  - Platform: GW7200 board in same setup as rack-mounted stations
-  - Components: High precision GPS, USB wifi card, USB+FTDI for P900
+  - Alternative approach considered: Using onboard UART for GPS and USB for
