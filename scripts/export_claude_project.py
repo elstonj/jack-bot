@@ -55,6 +55,29 @@ BUNDLES = {
 # Keep each bundle part well under the project upload limit.
 MAX_PART_BYTES = 4_000_000
 
+# Project knowledge holds ~7.5 MB in total and the full proposals text is
+# ~13 MB, so proposals export as a digest: title, metadata and executive
+# summary, capped per file. Every proposal stays findable; the full text
+# stays in Jack Bot.
+DIGEST_BUNDLES = {"proposals"}
+DIGEST_SECTIONS = 2
+DIGEST_MAX_CHARS = 1200
+
+
+def _digest(text):
+    """Leading sections of a proposal (metadata + executive summary), capped."""
+    out, sections, size = [], 0, 0
+    for line in text.splitlines():
+        if line.startswith("## "):
+            sections += 1
+            if sections > DIGEST_SECTIONS:
+                break
+        if size + len(line) > DIGEST_MAX_CHARS:
+            break
+        out.append(line)
+        size += len(line) + 1
+    return "\n".join(out)
+
 _DROP_FILENAME = re.compile(
     r"payroll|expense_documentation|cash_requirements|withholding|timesheet"
     r"|pay_?stub|w-?2\b|1099|offer_letter|hr_general|_pto\b|pto\.md|sick_leave"
@@ -136,6 +159,8 @@ def build(out_dir):
             if _RESTRICTED.search(text):
                 excluded.append((rel, "export-control / CUI marking"))
                 continue
+            if bundle in DIGEST_BUNDLES:
+                text = _digest(text)
             body, dropped = _scrub_lines(text, employee_re)
             lines_dropped += dropped
             if not body.strip():
