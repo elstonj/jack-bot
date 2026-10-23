@@ -14,7 +14,7 @@
 - **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham; Pilot support: Jack Elston, Josh, Alex
 - **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Light, (5) SBIR Magnetometer
 - **Product/Service:** Design/prototyping; Consulting
-- **Subcontractors:** DSKinetic LLC (Spencer Lisenby, spencer@dskinetic.com, pilot services); Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com, drone pilot)
+- **Subcontractors:** DSKinetic LLC (Spencer Lisenby, spencer@dskinetic.com, 310-697-9624, Calabasas CA; pilot services); Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com, Louisville CO; drone pilot)
 
 ## Key Deliverables & Milestones
 
@@ -71,3 +71,4 @@ All core invoicing milestones (4×) completed and paid through 12/17/2025.
 - **Delivery Delay:** Core deliverables completed 26 days past original 12/5/2025 due date; all milestone payments processed by 12/17/2025.
 - **Flight Operations Closed:** Customer-driven delays and readiness issues (DoD autopilot controller, new fuselage procurement) postponed Validation Flight #2 (May 2026) and Murphy's Pond Flight #4 (July 2026). As of October 2026, Daniel Prendergast directive (per TEAM CORRECTIONS) indicates no further flight testing will occur; new flight ops team will handle future qualifications.
 - **Reference Records:** Three open Asana tasks (contact/vendor data only; no action items remaining).
+- **Subcontractor Details Updated:** DSKinetic LLC address confirmed as 25717 Mulholland Hwy, Calabasas CA 91302; phone

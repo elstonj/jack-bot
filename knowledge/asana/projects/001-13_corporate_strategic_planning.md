@@ -28,10 +28,11 @@
   - **Critical Path**: Flight-testing ongoing to resolve tracking bug (identified Mar 17, 2026; Beck conducting tests)
 
 ### S0 Production Tracking (October 2026)
-- **S0 Production QC Website** (Jack-built dashboard)
+- **S0 Production QC Website** (Jack-built dashboard) — **AUTHORITATIVE [Daniel Prendergast, Oct 20, 2026]**
   - **Current scope**: S0-AD orders only
   - **Features**: Orders tab with customer orders, quantities, due dates; button to add new orders
-  - **Gap**: No holistic view of all planned production across product lines — potential for expansion **[Daniel Prendergast, Oct 20, 2026]**
+  - **Gap**: No holistic view of all planned production across product lines — potential for expansion
+  - **Note**: This is the closest infrastructure BST has to centralized production tracking; no comprehensive spreadsheet exists across all product lines
 
 ### Completed Funding / Contracts (2023–2024)
 - **SSCI Subcontract** (May 2024): $200K
@@ -78,8 +79,8 @@
 
 ## Recent Activity
 
-### October 2026 — Production Tracking Infrastructure
-**[Daniel Prendergast, Oct 20, 2026]**: S0 Production QC Website (built by Jack) currently tracks S0-AD orders only with Orders tab dashboard. No holistic view of all planned production exists. Potential to extend website to cover additional product lines or SKUs.
+### October 2026 — Production Tracking Infrastructure (AUTHORITATIVE)
+**[Daniel Prendergast, Oct 20, 2026]**: S0 Production QC Website (built by Jack) currently tracks S0-AD orders only with Orders tab dashboard. No holistic view of all planned production exists. The website is the closest infrastructure BST has to centralized production tracking. Potential to extend website to cover additional product lines or SKUs.
 
 ### July 2026 — ISARRA Campaign Status (AUTHORITATIVE)
 **[Jack, Jul 6, 2026]**: ISARRA Flight Week campaign (Aug/Sep 2026) proceeding on confirmed schedule:
@@ -91,6 +92,4 @@
 - **Risk**: Delivery contingent on successful bug resolution
 
 ### June 2026 — Kareem Return & Task Allocation (AUTHORITATIVE)
-**[Jack, Jun 16, 2026]**: Kareem returning June 15 @ 12:00 PM. Jack coordinating immediate task allocation:
-- **Primary options**: S0 component fabrication OR ground station completion
-- **Priority alternative**: **Wildfire video project** — Jack requesting Meredith
+**[Jack, Jun 16, 2026]**: Kareem returning June 

@@ -2,7 +2,7 @@
 
 ## Overview
 - **Client:** NASA (Richard Kolyer, NASA Ames Research Center)
-- **Budget:** $80,972 total; $55,976 to BST + $25,000 in-country contractor
+- **Budget:** $80,972 total; $80,972 to BST (supersedes earlier $55,976 split note — in-country contractor costs absorbed or reclassified)
 - **Timeline:** Proposal due 1/27/25 → Field operations May 11-22, 2025 → Final deliverables due 9/30/25
 - **Status:** **COMPLETE & ARCHIVED** (all deliverables submitted; project archived Oct 21, 2024)
 - **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
@@ -54,6 +54,8 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - COA training (and authorization scope)
 - Any other relevant qualifications for BST job functions
 
+**Quote:** "<!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have. Also, if there is documentation of those qualifications please try to find that and send it to me as well." — Spencer Hoehl, 10/1-10/2/26
+
 *Status: Audit in progress — responses being collected by Spencer Hoehl. Likely related to NASA hurricane ET follow-on opportunity or internal compliance review.*
 
 ## Notes & Context
@@ -63,7 +65,7 @@ https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
 - **Operator:** Dan Prendergast
 - **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
 - **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
-- **Budget note:** Total submitted $80,972; Asana custom field shows $80,972 to BST (supersedes earlier knowledge file note of $55,976 split); clarify with finance if needed
+- **Budget note:** Custom field shows $80,972 to BST (supersedes earlier knowledge file split of $55,976 + $25,000 in-country). Project notes mention $25K in-country contractor but total funding line is $80,972 to BST — clarify with finance if needed.
 - **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
 - **Proposal submission:** 12/6/24 estimate emailed; formal SOW and Proposal submitted 1/22/25 to PROSAMS
 

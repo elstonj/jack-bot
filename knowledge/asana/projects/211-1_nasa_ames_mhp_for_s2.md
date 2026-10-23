@@ -37,9 +37,10 @@ Project completed in March 2025 with all deliverables on or ahead of schedule:
 - **March 19, 2025**: MHP installation confirmed, avionics reinstalled, SIM card testing completed, iridium firmware updated, aircraft preflight performed, technical write-up delivered
 - **March 20–21, 2025**: Aircraft packed for shipment
 - **March 27, 2025**: Aircraft shipped via FedEx to NASA Ames
-- **September 2026 (post-project)**: NASA shipment pickup coordination
-  - **Sept 18 & 21, 2026** (Ethan): Pallet dimensions confirmed 48×120 inches, 20 inches tall
-  - **Sept 23, 2026** (Meredith Needham): Aircraft picked up between 9:30am–4pm; Ethan held pickup documentation; conference room occupied 2–3pm for interview
+- **September 23, 2026 (post-project)**: NASA shipment pickup coordination (per Meredith Needham)
+  - Aircraft picked up between 9:30am–4pm
+  - Ethan held pickup documentation
+  - Conference room occupied 2–3pm for interview
 
 ## Notes & Context
 - **Scope expansion**: Customer requested testing of their new launcher setup; launcher modification was handled by CU partner (Kevin), with unit arriving at CU by late January 2025

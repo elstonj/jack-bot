@@ -12,14 +12,14 @@
       "quantity": 4
     }
   ],
-  "payment_state": "paid",
+  "payment_state": "invoice_sent",
   "build_state": "complete",
   "ship_state": "in_transit",
   "estimate_date": null,
   "invoice_date": "2026-01-08",
   "invoice_amount": 2462.5,
   "invoice_number": "1730",
-  "paid_date": "2026-05-21",
+  "paid_date": null,
   "parts": [
     {
       "name": "S0 VTOL airframe",
@@ -65,10 +65,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Kept due to QBO Invoice #1730 (paid 2026-05-21, $2,462.50). Build completed and QC flight-tested Aug-Sep 2026. Units shipped 2026-09-14 via UPS (Sphere Box 1ZY1791K0320443394, UA Box 1ZY1791K0303482133); customer initiated RMA 2026-09-10 for BST troubleshooting of sensor/configuration issues. Build state set to 'complete' (QC confirmed); ship_state remains 'in_transit' pending delivery confirmation.",
+  "notes": "QBO Invoice #1730 issued 2026-01-08 for $2,462.50 currently unpaid (balance $2,462.50). Build completed Aug-Sep 2026 with QC flight testing. Units shipped 2026-09-14 via UPS (Sphere Box 1ZY1791K0320443394, UA Box 1ZY1791K0303482133) with pickup confirmation 297D966EACA. Customer initiated RMA 2026-09-10 for BST sensor/configuration troubleshooting; BST flight team actively investigating issue as of 2026-10-22.",
   "missing_fields": [
     "receive_by"
   ],
-  "last_evidence_date": "2026-10-21",
-  "last_contact_date": "2026-09-14"
+  "last_evidence_date": "2026-10-22",
+  "last_contact_date": "2026-10-22"
 }

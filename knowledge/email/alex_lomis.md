@@ -1,34 +1,89 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 680 emails (580 previous + 100 new)
-- **Date range:** Thu, 20 Aug 2026 – Thu, 22 Oct 2026 (64-day window for new batch)
-- **Approximate volume:** Sustained heavy activity; ~6.7 emails/day average across cumulative period. New batch (Oct 16–22) maintains pattern: ~79% automated/transactional, ~21% human correspondence. Spike on Oct 20–21 reflects active hardware integration discussions (801 Dev Kit, Videology cameras, processing hardware via Covar) and project coordination (S0 onboard inference, Navy Phase I closeout).
+- **Total messages scanned:** 694 emails (680 previous + 14 new)
+- **Date range:** Thu, 20 Aug 2026 – Fri, 23 Oct 2026 (65-day window)
+- **Approximate volume:** Sustained heavy activity; ~6.7 emails/day average. New batch (Oct 22–23) maintains pattern: ~86% automated/transactional, ~14% human correspondence. Oct 22 shows continued project work (Google Docs architecture collaboration, Commonlands lens/sensor coordination, Vector Isle RTK discussion).
 
 ## Key Correspondents
 
-### Top Senders (Cumulative, Updated Oct 16–22)
-1. **Purchasing alias** (purchasing@blackswifttech.com) — ~200+ emails routed (**NEW: Pasternack, FutabaUSA, Rock West Composites, WordPress.com, Constant Contact, Spindrift subscription, USPS Informed Delivery, X-Plane, Grainger, Protolabs (CNC quote follow-up Oct 21), DigiKey, Prowireusa, Powerwerx (2x Joshua Fromm recipient Oct 21), ProtoSpace Mfg, Mini-Circuits (2x invoices Oct 19), WireCare (Order #W6204757 Oct 19), Global Industrial returns/orders Oct 16–22**)
-2. **Asana** (no-reply@asana.com) — 33+ emails (**NEW: Oct 17, 19, 21, 22**)
-3. **McMaster-Carr** — 25+ emails (**NEW: Oct 16, 17, 19, 20, 21 receipts/confirmations**)
-4. **Global Industrial** — ~20+ emails (**NEW: Oct 16, 18, 19, 21, 22 promos/order management**)
-5. **Thomas Garcia** (TGarcia@videologyinc.com, "Garcia, Thomas") — **7+ emails** (**NEW: Oct 17 Sat 20:01 group intro email to Alex + David Naranjo; Oct 20 Tue 13:43 response from Naranjo marked IMPORTANT re: "Black Swift > Videology Introduction"; Oct 20 Tue 10:50 Alex's response to Garcia marked SENT**)
-6. **David Naranjo** (david@aegiselect.com) — **2 emails NEW** (Oct 20 Tue 13:43 "Re: Black Swift > Videology Introduction" IMPORTANT re: 801 Dev Kit feedback; maintains hardware integration lead role)
-7. **Becca Carnes** (becca@aegiselect.com) — **1 email NEW** (Oct 20 Tue 11:33 "Re: 801 Dev Kit" IMPORTANT; direct Aegis feedback on dev kit evaluation)
-8. **Daniela** (daniela@vectorisle.org) — **1 email NEW** (Oct 22 Thu 15:58 "Re: RTK on your UAS" UNREAD; suggests ongoing discussion of RTK (Real-Time Kinematic positioning) integration)
-9. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails (**NEW: Oct 21 Wed 15:51 S0 Meeting calendar updates x2 (recurring biweekly Wed 12:30–1pm MDT, and prior series Wed 10:30–11am MDT Oct 7–20); coordinating with Joshua Fromm, Maciej Stachura, Daniel Prendergast, Sam Hild**)
-10. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 15+ emails (**NEW: Oct 20 Tue multiple threads: Joshua Fromm FWD to Alex/Daniel "Question on S0 onboard inference"; Alex response SENT Oct 20 13:52; Daniel parallel thread to Covar (Joe Camilo, Claudia Dabbs) Oct 20 11:19 re: "Possible Processing Hardware" marked IMPORTANT; Claudia response Oct 20 18:59 IMPORTANT; continues S0/processing hardware integration work**)
-11. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 16+ emails (**NEW: Oct 21 Pirate Ship shipping receipts $89.83 + $10.00, Prowireusa order confirmation, Powerwerx orders 2061654 x2 and 9415919, SkyGeek promos Oct 20–21; recipient of S0 meeting invites Oct 21; active in shipping/procurement routing**)
-12. **Maciej Stachura** (stachura@blackswifttech.com) — 16+ emails (**NEW: Oct 16 Fri 15:07 response to Navy NAWCAD (Aaron D. Pyrah CIV USN) re: "[Non-DoD Source] Option Period wrap up" IMPORTANT; Navy contract phase closeout coordination**)
-13. **Beck Cotter** (beck.cotter@blackswifttech.com) — 25+ emails (**NEW: S0 meeting invites Oct 21; 801 Dev Kit evaluator continued role**)
-14. **Meredith Needham** (meredith.needham@blackswifttech.com) — 6+ emails (**NEW: Oct 21 Baofeng Halloween promo, VXB Ball Bearings re-engagement, Spindrift beverage promo Oct 20**)
-15. **Pete Dice** (pete@blaizehybrid.com) — **1 email NEW** (Oct 20 Tue 19:13 "Question on S0 onboard AI" INBOX; external contact inquiring re: S0 AI inference capabilities)
-16. **Claudia Dabbs** (cdabbs@covar.com) — **1 email NEW** (Oct 20 Tue 18:59 "Re: [EXT] - Possible Processing Hardware" IMPORTANT; Covar processing hardware discussion, marked external flag)
-17. **Joe Camilo** (joe@covar.com) — **1 email chain NEW** (Oct 20 Tue 11:19 Daniel Prendergast inquiry; Covar Inc. processing/computing vendor)
-18. **Max Henkart / Commonlands** (Max.Henkart@commonlands.com, mhenkart@commonlands.com) — **2 emails NEW** (Oct 20 Tue 21:50 "Your files are ready" + "Black Swift Technologies 6mm wide angle lens question" INBOX; optical/lens supplier or consultant)
-19. **Nick Whaley** (nwhaley@us.sightlineintel.com) — **1 email NEW** (Oct 16 Fri 16:06 Daniel Prendergast response re: "Sightline AITR" IMPORTANT; external AITR (Automatic Target Recognition) vendor contact)
-20. **Aaron D. Pyrah** (aaron.d.pyrah.civ@us.navy.mil) — **1 email chain NEW** (Oct 16 Fri 15:07 Maciej Stachura response re: Navy Option Period wrap-up IMPORTANT; DoD/NAWCAD government contact)
-21. **Sam Hild** (sam.hild@blackswifttech.com) — **1 email NEW** (Oct 21 S0 meeting invite recipient)
-22. **Suresh Ponnaiah** (suresh.ponnaiah@e-consystems.com) — **1 email NEW** (Oct 21 Wed 14:27 "Re: Contact Us - e-CAM87_CUMI585_MOD" IMPORTANT UNREAD; e-Con Systems camera module inquiry/response)
-23. **Rotortrade** (info@rotortrade.com) — **1 email NEW** (Oct 22 Thu 10:33 "MEET ROTORTRADE AT AMTC 2026" IMPORTANT UNREAD; helicopter/rotorcraft dealership/conference outreach)
-24. **GetFPV
+### Top Senders (Cumulative, Updated Oct 22–23)
+1. **Purchasing alias** (purchasing@blackswifttech.com) — ~210+ emails routed (**NEW: FutabaUSA order received + password reset Oct 22, Rock West Composites promo Oct 22, USPS Informed Delivery Oct 22, Constant Contact marketing Oct 22, WordPress.com receipt Oct 22, Pasternack order notification Oct 22**)
+2. **Asana** (no-reply@asana.com, learn@go.asana.com) — 34+ emails (**NEW: Feature announcement/webinar invitation Oct 23**)
+3. **McMaster-Carr** — 25+ emails (no new)
+4. **Global Industrial** — ~21+ emails (**NEW: Oct 22 holiday shipping promo**)
+5. **Thomas Garcia** (TGarcia@videologyinc.com) — 7+ emails (no new)
+6. **David Naranjo** (david@aegiselect.com) — 2 emails (no new)
+7. **Becca Carnes** (becca@aegiselect.com) — 1 email (no new)
+8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 16+ emails (**NEW: Oct 22 11:42 Google Docs comment thread "System-level Arch..." with Josh Fromm and Alex tagged; indicates active architecture/design document collaboration**)
+9. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails (no new)
+10. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 16+ emails (**NEW: Tagged in Google Docs architecture document Oct 22; continues active collaboration**)
+11. **Maciej Stachura** (stachura@blackswifttech.com) — 16+ emails (no new)
+12. **Beck Cotter** (beck.cotter@blackswifttech.com) — 25+ emails (no new)
+13. **Meredith Needham** (meredith.needham@blackswifttech.com) — 6+ emails (no new)
+14. **Max Henkart / Commonlands** (mhenkart@commonlands.com) — **3 emails** (**NEW: Oct 22 21:51 "Confirming sensor coverage and lens field of view" marked IMPORTANT, UNREAD; direct follow-up on optical/sensor specification coordination**)
+15. **Daniela** (daniela@vectorisle.org) — **2 emails** (**NEW: Oct 22 15:58 "Re: RTK on your UAS" UNREAD; active RTK positioning integration thread**)
+16. **Toggl** (support@toggl.com) — **1 email NEW** (Oct 22 14:00 no subject; time-tracking tool engagement/notification)
+17. **Rotortrade** (info@rotortrade.com) — **2 emails** (**NEW: Oct 22 10:33 AMTC 2026 conference invitation; likely industry event outreach for helicopter/rotorcraft applications**)
+
+### External Contacts (Oct 22–23 activity)
+- **Commonlands** — sensor/lens field-of-view specification work (marked IMPORTANT)
+- **Vector Isle (Daniela)** — RTK integration discussion (active thread)
+- **Rotortrade** — AMTC 2026 (American Helicopter Society?) conference engagement
+
+## Topic Patterns
+
+### Active Projects/Work Areas (Oct 22–23)
+- **System-level Architecture** — Google Docs collaborative document with Daniel Prendergast, Josh Fromm (Oct 22)
+- **Sensor/Lens Specifications** — Commonlands coordination on field-of-view and sensor coverage (Oct 22)
+- **RTK Integration** — Real-Time Kinematic positioning via Vector Isle (Oct 22)
+- **S0 Onboard Inference** — Previous period active; likely ongoing
+- **801 Dev Kit Evaluation** — Hardware integration with Videology cameras, Aegis Select, Covar processing hardware
+- **Navy Phase I Closeout** — DoD contract wrap-up coordination
+
+### Recurring Themes
+- Hardware procurement (composites, RF components, industrial supplies)
+- Sensor/camera module integration (Videology, e-Con Systems)
+- Processing hardware evaluation (Covar)
+- UAS platform development (RTK, inference, sensor suite)
+- Architecture/design documentation
+
+## Communication Patterns
+
+### Timeline
+- **Oct 22:** Heavy activity day (9 new emails) — mix of automation, hardware coordination, and project collaboration
+- **Oct 23:** Light activity (1 new email) — promotional/educational
+- **Primary collaboration window:** Tue–Thu with spike on Tue–Wed for project meetings/decisions
+
+### Mailing Lists & Automated Sources
+- **Asana** — project/task management notifications (regular)
+- **Purchasing routing alias** — vendor order confirmations, receipts, promos (high volume, aggregated)
+- **USPS Informed Delivery, Constant Contact, WordPress.com, Toggl, Rock West Composites, FutabaUSA** — service alerts/marketing (Oct 22 batch)
+
+### Human vs. Automated
+- **Oct 22–23 new batch:** 2 human (Commonlands, Daniela) + 1 collaborative doc (Prendergast/Fromm) vs. 11 automated/promotional
+
+## Key Relationships
+
+### Closest Internal Collaborators (by email frequency & recency)
+1. **Daniel Prendergast** — Architecture/hardware integration lead; active on S0 inference, processing hardware (Covar), Navy Phase I
+2. **Joshua Fromm** — Technical implementation/architecture documentation; shipping/procurement; S0 project participant
+3. **Jack Elston** — S0 project coordination (biweekly Wed meetings); leadership/scheduling
+4. **Beck Cotter** — 801 Dev Kit evaluation; hardware assessment
+5. **Maciej Stachura** — Navy contract liaison; DoD compliance/closeout
+
+### Key External Relationships (Oct 22–23)
+1. **Commonlands (Max Henkart)** — **Active technical partnership:** sensor coverage and lens field-of-view specifications (marked IMPORTANT)
+2. **Vector Isle (Daniela)** — **RTK positioning integration:** active discussion on UAS RTK capability
+3. **Videology (Thomas Garcia) / Aegis Select (David Naranjo, Becca Carnes)** — Camera hardware evaluation (801 Dev Kit feedback)
+4. **Covar (Joe Camilo, Claudia Dabbs)** — Processing hardware vendor for onboard inference
+5. **Rotortrade** — Industry conference contact; possible market/application expansion
+
+## Notable Observations
+
+- **Google Docs collaboration** (Oct 22) suggests active real-time document sharing on system architecture—indicates design phase or specification review in progress
+- **Commonlands IMPORTANT flag** + active sensor/lens coordination suggests critical optical path decision or integration milestone
+- **RTK discussion** with Vector Isle remains open (UNREAD Oct 22)—indicates pending decision or specification work on positioning capability
+- **Rotortrade AMTC 2026 outreach** is new contact type—suggests possible exploration of rotorcraft platforms or industry partnerships (AMTC = American Helicopter Society Technical Meeting likely)
+- **Automation/promotional ratio** remains high (~86%), indicating Alex routes operational procurement through shared alias but maintains personal inbox for technical/strategic communication
+- **No email decay:** Consistent engagement Oct 22–23 on active technical threads (architecture, sensor specs, RTK) suggests

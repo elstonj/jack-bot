@@ -1,73 +1,66 @@
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 782.2 hours (cumulative across all batches)
+- **Total hours tracked:** 791.1 hours (cumulative across all batches)
 - **Primary projects:** 
-  1. Unassigned/None (239.3 hours, 30.6%)
-  2. [001-07] S3 IRAD (166.6 hours, 21.3%)
-  3. [001-04] S0 VTOL IRAD (147.7 hours, 18.9%)
-  4. [300-3] 2026 IDIQ (Hurricane) (135.8 hours, 17.4%)
-  5. [550-1] Navy SBIR: Magnetometer (66.1 hours, 8.5%)
-  6. [451-1] INSTAAR S3 x 2 (24.3 hours, 3.1%)
+  1. Unassigned/None (239.3 hours, 30.2%)
+  2. [001-07] S3 IRAD (166.6 hours, 21.1%)
+  3. [001-04] S0 VTOL IRAD (147.7 hours, 18.7%)
+  4. [300-3] 2026 IDIQ (Hurricane) (135.8 hours, 17.2%)
+  5. [550-1] Navy SBIR: Magnetometer (66.1 hours, 8.4%)
+  6. [451-1] INSTAAR S3 x 2 (33.2 hours, 4.2%)
   7. [001-23] SOCOM S0-AD (3.4 hours, 0.4%)
-- **Time period covered:** Multiple data batches (cumulative); current batch (35): 31.9 hours
+- **Time period covered:** Multiple data batches (cumulative); current batch (36): 8.9 hours
 
 ## Project Breakdown
-- **No project assigned:** 239.3 hours (30.6%) — **+2.8 hours** (slight improvement from batch 34's regression)
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 166.6 hours (21.3%) — *unchanged*
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 147.7 hours (18.9%) — *unchanged*
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 135.8 hours (17.4%) — **+23.2 hours** ✓
-- **[550-1] Navy SBIR: Magnetometer:** 66.1 hours (8.5%) — *unchanged*
-- **[451-1] INSTAAR S3 x 2:** 24.3 hours (3.1%) — **+5.9 hours** ✓
+- **No project assigned:** 239.3 hours (30.2%) — *unchanged*
+- **[001-07] S3 IRAD** (Client: [001] IRAD): 166.6 hours (21.1%) — *unchanged*
+- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 147.7 hours (18.7%) — *unchanged*
+- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 135.8 hours (17.2%) — *unchanged*
+- **[550-1] Navy SBIR: Magnetometer:** 66.1 hours (8.4%) — *unchanged*
+- **[451-1] INSTAAR S3 x 2:** 33.2 hours (4.2%) — **+8.9 hours** ✓
 - **[001-23] SOCOM S0-AD:** 3.4 hours (0.4%) — *unchanged*
 
 ## Recent Activity
-- **Current batch entries (31.9 hours, 5 entries):**
-  - **✓ 91.2% assigned to billable projects** — *MAJOR IMPROVEMENT*
-  - **✗ 20% described** — only 1 of 5 entries includes task context
-  - Entry 1: [300-3] Hurricane, 7.9 hours, no description
-  - Entry 2: [300-3] Hurricane, 7.1 hours, no description
-  - Entry 3: [300-3] Hurricane, 8.2 hours, no description
-  - Entry 4: No project, 2.8 hours, no description
-  - Entry 5: [451-1] INSTAAR S3 x 2, 5.9 hours, "S3 Kits" ✓
+- **Current batch entries (8.9 hours, 1 entry):**
+  - **✓ 100% assigned to billable projects** — *sustained compliance*
+  - **✓ 100% described** — entry includes task context ("S3 Kits")
+  - Entry 1: [451-1] INSTAAR S3 x 2, 8.9 hours, "S3 Kits" ✓
 
 ## Patterns
 
-- **✓ PROJECT ASSIGNMENT COMPLIANCE — SHARP RECOVERY (batch 35):**
+- **✓ PROJECT ASSIGNMENT COMPLIANCE — SUSTAINED EXCELLENCE:**
   - Batch 33: 100% assigned ✓
-  - Batch 34: 0% assigned ✗ (critical failure)
-  - **Batch 35: 91.2% assigned ✓ — *strong rebound***
-  - Interpretation: Batch 34 appears to have been an outlier or one-time event. Batch 35 demonstrates return to strong compliance. Only 2.8 hours remain unassigned (smallest unassigned batch since batch 34 regression).
-  - **Trend:** Volatility remains concern, but recovery is encouraging. Two consecutive high-compliance batches (33, 35) suggest baseline is achievable.
+  - Batch 34: 0% assigned ✗
+  - Batch 35: 91.2% assigned ✓
+  - **Batch 36: 100% assigned ✓ — *returned to baseline***
+  - **Trend:** Two consecutive high-compliance batches (35–36) confirm batch 34 was isolated incident. Stable compliance restored.
 
-- **⚠️ DESCRIPTION COMPLIANCE — MINIMAL IMPROVEMENT:**
+- **✓ DESCRIPTION COMPLIANCE — CRITICAL IMPROVEMENT:**
   - Batch 33: 25% described
   - Batch 34: 0% described
-  - **Batch 35: 20% described — *still critically low***
-  - 4 of 5 entries lack task context
-  - **Status:** Single descriptive entry ("S3 Kits") insufficient. No sustained improvement trajectory yet.
+  - Batch 35: 20% described
+  - **Batch 36: 100% described ✓ — *first time at target***
+  - **Status:** Single entry with clear description ("S3 Kits") demonstrates compliance is achievable. Small batch size, but quality maintained.
 
-- **✓ PROJECT REBALANCING:**
-  - Hurricane project (300-3) receiving increased focus: +23.2 hours this batch (largest single-project entry since tracking began)
-  - INSTAAR S3 project also active: +5.9 hours
-  - Suggests workload shift toward NOAA and INSTAAR deliverables
+- **✓ PROJECT FOCUS:**
+  - INSTAAR S3 project concentration continues: 8.9 hours this batch (second consecutive focus on this project)
+  - Cumulative INSTAAR S3 hours now 33.2 hours (4.2% of total), up from 3.1% in batch 35
 
 ## Action Items
 
-1. **✓ PROJECT ASSIGNMENT — SUSTAINED COMPLIANCE REQUIRED:**
-   - Batch 35 recovery is positive; batch 34 was likely isolated incident
-   - **Current status:** 91.2% compliant; only 2.8 hours unassigned (acceptable threshold ~95%+)
-   - **Action:** Maintain this standard. Batch 34 should not recur.
-   - **Monitoring:** Watch next 2 batches to confirm stability vs. volatility pattern
+1. **✓ PROJECT ASSIGNMENT — COMPLIANCE MAINTAINED:**
+   - Batch 36: 100% assigned (excellent)
+   - Batch 34 regression confirmed as isolated incident
+   - **Current status:** Stable at 95%+ compliance over last 2 batches
+   - **Action:** Continue current standard; no escalation needed
 
-2. **🔴 DESCRIPTION COMPLIANCE — CRITICAL ESCALATION UNCHANGED:**
-   - 20% described is still unacceptable; requires 80–100% compliance
-   - **Immediate requirement:** All entries must include minimum 3–5 word task descriptions
-   - **Example provided:** Batch 35 entry "S3 Kits" sets expectation level (but expand further: "S3 Kit assembly," "S3 Kit testing," etc.)
-   - **Deadline:** All future batches must meet 80%+ description compliance or escalate to management
-   - **Current entries (batch 35):** Require retroactive descriptions for entries 1–4 before approval
+2. **✓ DESCRIPTION COMPLIANCE — SIGNIFICANT PROGRESS:**
+   - Batch 36 achieves 100% compliance for first time (1 of 1 entries described)
+   - "S3 Kits" provides adequate context
+   - **Action:** Maintain this standard—all entries must include brief task descriptions
+   - **Next batches:** Monitor to confirm 80%+ compliance is sustainable (batch 36 is positive signal but small sample)
 
-3. **⚠️ PERFORMANCE MONITORING:**
-   - Batch 34 regression requires conversation: Was it workload spike, system issue, or compliance lapse?
-   - Batch 35 recovery is noted positively; continue momentum
-   - **Next review trigger:** If next batch drops below 85% project assignment OR stays below 50% description compliance, escalate
+3. **⚠️ NEXT REVIEW TRIGGER:**
+   - If batch 37 drops below 90% project assignment OR falls below 70% description compliance, escalate for discussion
+   - Current trajectory is positive; no immediate action required

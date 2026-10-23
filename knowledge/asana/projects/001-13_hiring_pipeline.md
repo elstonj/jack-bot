@@ -7,7 +7,7 @@
 - **Timeline**: 
   - Previous cycle: 2024–2025 (archived October 2025)
   - Current cycle: September 2026–ongoing
-- **Team members involved**: Cory Dixon (hiring lead); all tasks unassigned (centrally managed by Operations)
+- **Team members involved**: Cory Dixon (hiring lead); Operations team
 - **Risk signals**: None — hiring proceeding on schedule with first start date October 5, 2026
 
 ## Current Hiring Status (as of September 30, 2026)
@@ -15,7 +15,7 @@
 - **Positions open**: 13 different positions for 14 total people (including 2× UAS Technicians)
 - **Offers accepted**: 4 candidates; first hire starting **Monday, October 5, 2026**
 - **Pending signatures**: 2 additional offers out to candidates awaiting acceptance
-- **Status**: Active hiring cycle underway
+- **Status**: Active hiring cycle underway; first cohort onboarding begins October 2026
 
 ## Key Deliverables & Milestones
 - **First hire start date**: October 5, 2026
@@ -30,9 +30,10 @@
 
 ## Recent Activity
 - **2026-09-30**: Cory Dixon provided hiring status update — 4 offers accepted, 2 pending signatures, first cohort onboarding begins October 5
+- **2026-10-22**: Joshua Fromm acknowledged Cory's hiring efforts
 - Previous project archived October 2025; reactivated for current hiring cycle
 
 ## Notes & Context
-- Asana archive status does not reflect current operational reality; hiring is actively underway as of late September 2026
+- Asana project status shows "ARCHIVED," but this does not reflect current operational reality; hiring is actively underway as of late September 2026
 - Key positions include UAS Technicians (2 roles), plus 11 other positions across the organization
 - First cohort of 4 new hires begins October 2026; expect additional task creation as candidates onboard and complete onboarding workflows

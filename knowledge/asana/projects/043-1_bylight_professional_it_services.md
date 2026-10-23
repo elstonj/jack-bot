@@ -5,7 +5,7 @@
 - **Principal Contact:** Bryan Sparling (Bryan.sparling@bylight.com)
 - **Billing Contact:** JP Cleary
 - **Dollar Value:** $48,000 total budget
-- **Timeline:** Open task order PO through 2025-12-31 **(extended due 2026-05-05 India demo cancellation)**
+- **Timeline:** Open task order PO through 2025-12-31 **(extended to 2026-05-05 due to India demo cancellation)**
 - **Status:** ARCHIVED — no active tasks in Asana; awaiting ByLight task order submissions
 - **Team:** Whole BST team (task-based assignments)
 - **Project Type:** Standing task order agreement for design and prototype work
@@ -36,5 +36,5 @@ This is a **standing task order agreement**, not a fixed-scope project. ByLight 
 
 ---
 
-## Notes
-**New data (2026-10-16):** Team feedback from Spencer Hoehl regarding FAA Part 107 drone license compliance (address updates in FAA airman services portal). This is administrative/personnel compliance and does not directly affect ByLight project status. All tagged team members should verify current mailing address on licenses.
+## Administrative Notes
+**[2026-10-16] FAA Part 107 Compliance (Spencer Hoehl):** Team members with drone licenses should verify current mailing address on FAA airman services portal and update if necessary to avoid license compliance issues. This is personnel/administrative compliance and does not directly affect ByLight project status.

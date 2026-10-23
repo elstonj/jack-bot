@@ -8,7 +8,7 @@
   - **Per Jack Elston (2026-04-20):** "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
   - **Per Daniel Prendergast (2026-04-20):** "That is complete and the entire ADONIS project has been closed out."
 - **Team Members:** Alex Lomis (Project Owner/Primary), Jack Elston, Josh Fromm, Maciej Stachura, Nate Straus (PIC), Meredith O'hara Needham, Beck Cotter
-- **Risk Signals:** None. Project closed successfully with no open BST deliverables.
+- **Risk Signals:** None on core project. Post-project regulatory follow-up (SNAP-R documentation) flagged by Jack Elston as potential future task — see Notes & Context.
 
 ## Key Deliverables & Milestones
 1. **Deliverable 1: Engineering Prototype (A1) Hardware Freeze** - Oct-Nov 2024 ✓ (Completed Jan 23, 2025)
@@ -34,13 +34,13 @@
 - **Notable Patterns:** Milestone-driven structure with formal reporting requirements; hardware-heavy integration work led by Alex Lomis; extensive custom component design and manufacturing; training/travel required for pilot operations
 
 ## Recent Activity
+- **October 7-8, 2026:** Jack Elston flagged potential post-project regulatory follow-up — SNAP-R documentation submission. Jack notes BST may need to submit but lacks SME expertise; suggests Keven Gambold (UMEX) should lead. See Notes & Context below.
 - **April 20, 2026:** Final archival confirmation by Jack Elston and Daniel Prendergast. Project completely closed; UMEX handled final report; BST final invoice sent. **Status changed to ARCHIVED. Do not include in future briefings or priority lists.**
 - **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely. Jack noted fixing AI bugs that were causing obsession with the ADONIS final report in tracking systems.
 - **April 10, 2026:** Project closure — Final invoice sent by Meredith O'hara Needham; Final Report milestone completed by UMEX (not BST)
 - **March 18, 2026:** Completed Mothership-dropped Swarming Flight milestone
 - **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)
 - **November 19, 2025:** Completed MS4 Swarming Flight and interim A2 Hardware Flight
-- **December 19, 2024:** Scope adjustment meeting with Alex Lomis — aircraft deliverables refined to 2x S0 VTOL and 4x S0 AD (rather than 3 of each); delivery timeline adjusted accordingly
 
 ## Notes & Context
 
@@ -68,4 +68,4 @@
 
 **Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
 
-**Post-Project Regulatory Follow-up (2026-10):** Jack Elston flagged (2026-10-07, 2026-10-08) that BST may need to submit documentation to SNAP-R (regulatory/compliance filings), but team lacks subject-matter expertise. Jack noted: "Seems like something KS [Keven Gambold] should be able to help us construct / submit to snap-r / follow through on? I've done it and so has Meredith, but we're certainly not experts there and really don't know the language that should be used." **Note:** This is post-project administrative/regulatory follow-up, not part of original BST deliverables; recommend escalating to Keven Gambold or BST leadership for decision on involvement
+**Post-Project Regulatory Follow-up (2026-10):** **Per Jack Elston (2026-10-07, 2026-10-08):** BST may need to submit documentation to SNAP-R (regulatory/compliance filings). Jack notes: "Seems like something KS [Keven Gambold] should be able to help us construct / submit to snap-r / follow through on? I've done it and so has Meredith, but we're certainly not experts there and really don't know the language that should be used." **Status:** This is post-project administrative/regulatory follow-up, not

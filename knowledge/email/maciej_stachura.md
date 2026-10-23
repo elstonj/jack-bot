@@ -1,9 +1,9 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 857 (764 previous + 93 new)
+- **Total messages scanned:** 873 (857 previous + 16 new)
 - **Date range:** 25 Sep – 22 Oct 2026
-- **Volume:** Extreme operational tempo sustained through late October. New period (Oct 14–22) shows intensified KrateoSky coordination, NASA/NOAA wind tunnel testing continuation, Navy CUAS experiments (AE27), S0 air deployment programs, UK MOD ISR partnerships, and multi-vendor technical integration.
+- **Volume:** Sustained extreme operational tempo through month-end. New period (Oct 22) shows final-week coordination on Arctic Edge 27, AE27 Navy CUAS, CoVar hardware integration, academic sensor testing (Vantor IR), and NOAA hurricane wrap-up.
 
 ---
 
@@ -12,67 +12,107 @@
 ### Top Internal Contacts
 
 - **Jack Elston** (elstonj@blackswifttech.com) — **Central operational hub, strategic partnerships**
-  - New (Oct 14–22): NASA Follow Up wind tunnel testing continuation (Oct 22, Oct 15, CRITICAL); NOAA hurricane season wrap-up coordination (Oct 22, IMPORTANT); Redhelm power-beaming exploration (Oct 20, IMPORTANT); Arctic Edge 2028 Navy program distribution (Oct 20, IMPORTANT); Soil Moisture White Paper coordination with Al Gasiewski/CU (Oct 15–22, IMPORTANT); WC-130J air-deployment of S0 (Oct 19, IMPORTANT); S0 Delivery to NOAA (Oct 19, IMPORTANT); UK MOD S0-ISR update relay (Oct 19, IMPORTANT); 777 integration funding with Joe Cione (Oct 15, IMPORTANT)
-  - **Role confirmed: Master coordinator across government (NASA/NOAA/Navy), academic partnerships (CU), vendor integration, and operational flight test programs**
+  - New (Oct 22): NOAA hurricane season wrap-up (IMPORTANT); Nepal mapping coordination with Aleutian Aerial/Andy Dietrick (IMPORTANT); Navy agenda coordination with Anthony Brescia/NAWCAD (IMPORTANT); Processing hardware escalation to Daniel Prendergast (IMPORTANT)
+  - **Sustained: Master coordinator across all government, academic, and vendor partnerships**
 
 - **Beck Cotter** (beck.cotter@blackswifttech.com) — **Technical authority, Navy partnerships, university liaison**
-  - New (Oct 14–22): AE27 CUAS Experiments biweekly planning with Navy (DeSimone, Ruiz-Reyes, Oct 22–20, CRITICAL); Arctic Edge 2028 Navy coordination (Oct 21–20, IMPORTANT); Curable Composites Proposal (previous); K1 status and Deel onboarding with KPMG (Oct 15–14, IMPORTANT); Soil Moisture White Paper review (Oct 14, IMPORTANT)
-  - **Confirmed: Technical proposal authority, Navy test & evaluation lead, HR/administrative coordination**
-
-- **Cory Dixon** (cory@krateosky.com / cory.dixon@blackswifttech.com) — **Integration operations, KrateoSky bridge**
-  - New (Oct 14–22): Black Swift Weekly Integration Review organizer (Oct 21, Oct 14, CRITICAL weekly sync, 20+ person distribution); Week of October 19th BST Integration Slides (Oct 21, IMPORTANT); PM Support Discussion meeting (Oct 16, IMPORTANT)
-  - **Confirmed: KrateoSky operations lead managing weekly 20+ person strategic syncs**
+  - New (Oct 22): AE27 CUAS Experiments biweekly planning with Navy (DeSimone, Ruiz-Reyes, IMPORTANT); E2 Status coordination with ERAU (Adkins, IMPORTANT)
+  - **Sustained: Navy test & evaluation lead, academic technical liaison**
 
 - **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **Hardware/vendor integration, SOCOM programs**
-  - New (Oct 15–20): S0 Air Deployed UAS coordination with Bob Smith/Jed Leonard (Oct 15, IMPORTANT); (U) AE27 Black Swift UAS status report to KrateoSky (Oct 20, IMPORTANT); Tibidabo Scientific Protek Image Intensifiers evaluation (Oct 15, IMPORTANT); CoVar ATR/processing hardware coordination (Oct 15, IMPORTANT); USSOCOM TE 27-1 relay (Oct 14, IMPORTANT); Megan's Resume (new hire, Oct 20, IMPORTANT)
-  - **Role: Hardware integration lead, SOCOM program liaison, vendor technical evaluation**
+  - New (Oct 22): **CoVar-BST Business Discussion meeting scheduled (Fri Oct 30, 9:30am MDT)** — direct coordination with Maciej, Cory Dixon, CoVar leads (mark@covar.com, joe@covar.com, pete@covar.com) (IMPORTANT)
+  - Processing hardware escalation from Jack Elston (IMPORTANT)
+  - **Sustained: Vendor integration orchestration, CoVar partnership deepening**
+
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — **Integration operations, KrateoSky bridge**
+  - New (Oct 22): CoVar business discussion participant (Oct 30 meeting)
+  - **Sustained: Weekly integration sync operations**
 
 ### Top External Contacts
 
-#### KrateoSky — **CRITICAL PARTNERSHIP CONTINUES INTENSIFYING**
-
-- **Brian Grubel** (Brian@krateosky.com) — **KrateoSky technical/DIU program lead**
-  - New (Oct 14–22): Proposal Slides coordination with Maciej/Jed/Beck/Jack (Oct 15, IMPORTANT); Re: Proposal Slides distribution (Oct 15, IMPORTANT); Soil Moisture White Paper relay (Oct 15, IMPORTANT); BST PM Support Discussion (Oct 19, IMPORTANT); Re: BST PM Support Discussion (Oct 19, IMPORTANT); Re: ATR Vendor for SOCOM S0 Program (Oct 16, IMPORTANT); Re: Fwd: Soil Moisture White Paper Draft (Oct 18, IMPORTANT)
-  - **Elevated strategic role in proposal coordination and program planning**
-
-- **Jed Leonard** (jed@krateosky.com) — **KrateoSky technical/program coordination, opportunity tracking**
-  - New (Oct 14–22): Opportunity excel columns (Oct 15, IMPORTANT); Re: Proposal Slides (Oct 15, IMPORTANT); S0 Air Deployed UAS coordination with Daniel Prendergast/Bob Smith (Oct 15, IMPORTANT); "Opportunity" tracking with Bob Smith/Jack Elston/Daniel (Oct 20, IMPORTANT)
-  - **Confirmed: Primary technical coordinator for opportunity pipeline and SOCOM S0 programs**
-
-- **Sona Raziabeegum** (sona@krateosky.com) — **KrateoSky weekly integration operations**
-  - New (Oct 14, 21): **"Black Swift Weekly Integration Review, notes and actions from 14 October"** and **"21 October"** — 20–25 person distributions establishing formal weekly strategic sync cadence (CRITICAL)
-  - **Confirmed: Weekly strategic integration meeting lead, formal partnership governance**
+#### KrateoSky — **CONTINUED STRATEGIC ENGAGEMENT**
 
 - **Bob Smith** (Bob@krateosky.com) — **KrateoSky CEO/Strategic decision maker**
-  - New (Oct 15–20): "Opportunity" program escalation with Maciej/Jack/Daniel (Oct 20, IMPORTANT); S0 Air Deployed UAS strategic coordination (Oct 15, IMPORTANT); Re: S0 Air Deployed UAS (Oct 15, IMPORTANT); Re: ATR Vendor for SOCOM S0 Program (Oct 16, IMPORTANT)
-  - **Sustained strategic engagement on S0/SOCOM programs**
+  - New (Oct 22): **Arctic Edge 27** direct escalation from Maciej (SENT, IMPORTANT)
+  - **Assessment: Arctic Edge 27 program elevated to CEO-level coordination**
 
-#### Government — NASA/NOAA/Navy — **ACTIVE MULTI-DOMAIN COORDINATION**
+- **Jed Leonard** (jed@krateosky.com) — **KrateoSky technical/program coordination**
+  - New (Oct 22): Arctic Edge 27 coordination with Maciej/Bob Smith (IMPORTANT)
+  - **Sustained: Program opportunity pipeline tracking**
 
-**NASA Langley Research Center (LARC)**
-- **Craig A. Hunter** (craig.hunter@nasa.gov) — **NASA Langley Emeritus, ERAU wind tunnel testing**
-  - New (Oct 14–15): Continued lead on wind tunnel testing coordination thread (Oct 14–15, CRITICAL)
-  - **Confirmed: Project lead for Black Swift wind tunnel validation phase**
-
-- **Chester V. Dolph** (chester.v.dolph@nasa.gov) — **NASA Langley D-201, technical coordination**
-  - New (Oct 20): Direct coordination with Jack Elston on NASA Follow Up (IMPORTANT)
-
-- **Jonathan L. Gleason** (jonathan.l.gleason@nasa.gov) — **NASA Langley E-302**
-  - New (Oct 14–15): Active on wind tunnel testing technical thread
-
-- **Michael W. Lee** (michael.w.lee@nasa.gov) — **NASA Langley D-301**
-  - New (Oct 14–15): Wind tunnel testing thread participant
-
-- **Tausif Jamal** (tausif.jamal@nasa.gov) — **NASA Langley D-301**
-  - New (Oct 14–15): Wind tunnel testing coordination
+#### Government — NASA/NOAA/Navy — **MULTI-DOMAIN ACTIVE**
 
 **NOAA Federal**
-- **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal, Hurricane/Aviation Research Division**
-  - New (Oct 15–22): Active on multiple fronts:
-    - Oct 22: NOAA hurricane season wrap-up with Jack Elston (IMPORTANT)
-    - Oct 19: S0 Delivery coordination with NOAA team (Danielle Varwig, Laura Rock, Nikolai Pawlenko, Mark Rogers, IMPORTANT)
-    - Oct 15: 777 integration funding discussion with Jack Elston (IMPORTANT)
-    - Oct 15: Wind tunnel testing thread coordination
-  - **Confirmed: Lead for aviation sensor research and S0 platform integration with NOAA fleet**
+- **Joe Cione** (joe.cione@noaa.gov) — **NOAA Federal, Hurricane/Aviation Research**
+  - New (Oct 22): Hurricane season wrap-up final coordination with Jack Elston and Laura Chaibongsai (IMPORTANT)
+  - **Sustained: Lead for S0 platform integration and aviation sensor research**
 
-- **Nikolai Pawlenko** (nikolai.f.paw
+- **Laura Chaibongsai** (laura.chaibongsai@noaa.gov) — **NOAA Federal (new contact)**
+  - New (Oct 22): NOAA hurricane season wrap-up participation (IMPORTANT)
+
+**U.S. Navy — NAWCAD/ARLINGTON**
+- **Morris A DeSimone III** (morris.a.desimone.ctr@us.navy.mil) — **Navy CNR Arlington, CUAS test lead**
+  - New (Oct 22): AE27 CUAS Experiments biweekly planning coordination (IMPORTANT)
+  - **Sustained: Navy test planning and evaluation lead**
+
+- **Angel R Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — **Navy NAWCAD, CUAS operations**
+  - New (Oct 22): AE27 CUAS Experiments biweekly planning (IMPORTANT)
+
+- **Anthony D Brescia** (anthony.d.brescia.civ@us.navy.mil) — **Navy NAWCAD, operational coordination**
+  - New (Oct 22): Agenda coordination with Jack Elston (IMPORTANT, UNREAD)
+
+**NASA Langley / ERAU**
+- **Craig A. Hunter** (craig.hunter@nasa.gov) — **NASA Langley Emeritus, wind tunnel testing**
+  - Sustained: Wind tunnel validation project lead
+
+- **Kevin A. Adkins** (adkinsk@erau.edu) — **ERAU, E2 Status technical liaison**
+  - New (Oct 22): E2 Status coordination thread with Beck Cotter (IMPORTANT)
+  - **Assessment: Aircraft status technical authority for university partnership**
+
+#### Academic Partners — **CU ATMOSPHERIC RESEARCH**
+
+- **Brian M Argrow** (Brian.Argrow@colorado.edu) — **CU Boulder, atmospheric sensor research**
+  - New (Oct 22): **Vantor IR data** coordination (IMPORTANT) — Maciej replies to Brian's direct inquiry
+  - **Assessment: Direct technical collaboration on sensor payloads; Brian reaches out to Maciej specifically**
+
+#### Other Vendors/Partners
+
+- **Andy Dietrick** (andy@aleutianaerial.com) — **Aleutian Aerial (new contact)**
+  - New (Oct 22): **Nepal mapping** coordination with Jack Elston and Maciej (IMPORTANT)
+  - **Assessment: Potential international deployment or commercial partnership emerging**
+
+- **CoVar** (mark@covar.com, joe@covar.com, pete@covar.com) — **ATR/Processing hardware vendor**
+  - New (Oct 22): Formal business discussion meeting scheduled for Fri Oct 30, 9:30am MDT with Maciej, Daniel Prendergast, Cory Dixon (IMPORTANT)
+  - **Assessment: Strategic hardware integration discussion advancing in final week of month**
+
+---
+
+## Topic Patterns
+
+### Active Programs & Projects
+1. **Arctic Edge 27** — New escalation to KrateoSky CEO (Bob Smith) by Maciej on Oct 22 (IMPORTANT, SENT)
+2. **AE27 CUAS Experiments** — Navy biweekly planning cycles continuing (DeSimone, Ruiz-Reyes, Oct 22)
+3. **NOAA Hurricane Season Operations** — Final wrap-up coordination (Oct 22, IMPORTANT)
+4. **Nepal Mapping** — New international/commercial initiative with Aleutian Aerial (Oct 22)
+5. **Vantor IR Data** — Sensor testing collaboration with CU Boulder (Oct 22)
+6. **CoVar Hardware Integration** — Formal business discussion (Oct 30, pending)
+7. **E2 Status** — Aircraft platform status with ERAU (Oct 22)
+
+### Subject Line Themes
+- Government test & evaluation coordination (Navy CUAS, NASA wind tunnel, NOAA operations)
+- Hardware/processing integration ("Processing Hardware," CoVar business discussion)
+- International/geographic missions ("Nepal mapping")
+- Sensor data research ("Vantor IR data")
+- Aircraft status ("E2 Status")
+
+---
+
+## Communication Patterns
+
+### Volume & Frequency
+- **22 Oct:** Heavy final-week activity — 16 messages in metadata window, spanning multiple time zones (UTC, MDT), 08:21–23:02 span
+- **Incoming:** Majority of new traffic appears as responses/relays from Jack Elston (4+ threads); direct outbound: 2 sends (Arctic Edge 27 to KrateoSky CEO, Vantor IR response to CU)
+- **Escalations:** Arctic Edge 27 escalated to Bob Smith/CEO level same-day (Oct 22, 12:09 send)
+
+### Participation Patterns
+- **Multi-party coordination:** Large distribution threads (Navy C

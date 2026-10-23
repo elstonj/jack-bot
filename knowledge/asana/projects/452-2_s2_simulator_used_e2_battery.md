@@ -24,8 +24,8 @@
 
 ## Recent Activity
 
-**[2026-10-08] Export Documentation Process Formalization Discussion**
-Jack and Meredith discussed need for formalized export documentation submission process. Jack noted: *"Seems like something KS should be able to help us construct / submit to snap-r / follow through on? I've done it and so has Meredith, but we're certainly not experts there and really don't know the language that should be used."* Indicates BST lacks in-house expertise for SNAP-R compliance submissions; recommends engaging KS to develop and manage export documentation templates and process for future international shipments.
+**[2026-10-07–10-08] Export Documentation Process Formalization Discussion**
+Jack and Meredith discussed need for formalized export documentation submission process. Jack noted: *"Seems like something KS should be able to help us construct / submit to snap-r / follow through on? I've done it and so has Meredith, but we're certainly not experts there and really don't know the language that should be used."* Indicates BST lacks in-house expertise for SNAP-R compliance submissions; **action item:** engage KS to develop and manage export documentation templates and process for future international shipments.
 
 **[2026-07-01] CRITICAL BLOCKER — Power of Attorney Authorization Decision Pending**
 Daniel Prendergast sent urgent request to Meredith O'hara Needham asking for approval to sign power of attorney document from Robert Correia (Aeronet) for customs broker. Daniel flagged no legal concerns but sought management authorization. **This decision remains unresolved and is holding up entire project completion — now 3+ months overdue.**

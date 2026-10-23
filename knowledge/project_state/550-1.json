@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "time-and-materials, monthly invoicing based on progress milestones",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,13 +33,13 @@
         "amount": 119562.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-22"
+        "last_updated": "2026-10-23"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-22"
+        "last_updated": "2026-10-23"
       },
       "other_qbo": {
         "amount": 2495.21,
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 117423.08,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-22T18:53:33Z"
+    "last_reconciled": "2026-10-23T09:20:11Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -97,6 +97,6 @@
       "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
     }
   ],
-  "last_full_rebuild": "2026-10-22T18:53:33Z",
+  "last_full_rebuild": "2026-10-23T09:20:11Z",
   "last_incremental_update": null
 }

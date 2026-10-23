@@ -78,8 +78,11 @@ Goal management workflow template used to brainstorm, draft, and approve BST's m
 - S0 documentation work tracked in separate Asana project 1207199631174002 (engineering/product documentation)
 - **Active concurrent projects (distinct from this archived marketing workflow):** EMASS flight tests, S0-VTOL debugging, S3 work, Mustang progress, postflight workflow improvements
 
+### Open Questions (Team Feedback)
+**[2026-10-19 & 2026-10-20] From Beck:** Workflow clarity still needed regarding who enters what based on criteria/change, and how this integrates with other platform tracking/builds. This suggests ongoing organizational discussion about standardizing goal entry and cross-system data flow — not yet resolved as of October 2026.
+
 ## Archive Note
-This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles.
+This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles. Internal process questions about workflow standardization remain open for team discussion.
 
 ---
 

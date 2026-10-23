@@ -29,13 +29,14 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Quote sent per Asana. Slack indicates UH needs to encumber funds by EOY and BST is being onboarded as vendor; order is expected but not yet placed.",
+  "notes": "UH Assistant Professor Kelly Huang seeking S2 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. UH needs to encumber funds by EOY; BST is being onboarded as vendor. Beck has engaged with detailed use-case discussion and S3 spec sheet provided (note: original task lists S2 but recent emails reference S3 configurations; clarification needed on final platform choice).",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "invoice_number",
-    "invoice_amount"
+    "invoice_amount",
+    "estimate_date"
   ],
   "last_evidence_date": "2026-10-21",
-  "last_contact_date": "2026-10-05"
+  "last_contact_date": "2026-10-06"
 }

@@ -1,99 +1,115 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 743 emails (643 initial + 100 new)
-- **Date range:** 16 Sep – 22 Oct 2026
-- **Estimated volume:** Very high operational tempo. New data (Oct 16–22) shows sustained parallel management of Navy/DoD contract administration, government RFP tracking, academic/industry partnership coordination, facility operations, and HR/benefits administration. Pattern consistent with strategic operations/program coordinator role managing complex, multi-stakeholder initiatives.
+- **Total messages scanned:** 775 emails (743 initial + 32 new)
+- **Date range:** 16 Sep – 23 Oct 2026
+- **Estimated volume:** Very high operational tempo sustained through Oct 22–23. New data confirms parallel management of Navy/DoD contract administration, government RFP tracking, facility operations, HR/benefits administration, and academic partnerships. Pattern consistent with strategic operations/program coordinator role managing complex, multi-stakeholder initiatives.
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
 
 **Strategic Leadership & Operations Hub**
-- **Jack Elston** – **CONTINUED DOMINANT VOLUME (Oct 16–22):**
-  - Oct 22: Forwards 20 new DoW SBIR topics (Phase I & D2P2)
-  - Oct 20: Forwards Anduril/Lockheed Martin M&A webinar; forwards WC-130J air-deployment opportunity; forwards Flight Management Systems tenders; forwards Export Opportunities (France)
-  - Oct 19: Forwards multiple strategic opportunities; coordinates with NOAA on S0 Delivery
-  - **Pattern: Primary intelligence aggregator & opportunity router; continuous stream of RFP/program intelligence, partnership coordination, and tactical opportunities**
+- **Jack Elston** – **CONTINUED DOMINANT VOLUME:**
+  - Oct 22: Forwards 20 new DoW SBIR topics (Phase I & D2P2); forwards urgent drone RFQ coordination with external vendor (Sarah Lueking, Carahsoft); forwards agenda coordination with Navy (Anthony D. Brescia, NAWCAD)
+  - **Pattern: Primary intelligence aggregator & opportunity router; continuous stream of RFP/program intelligence, partnership coordination, tactical opportunities, and vendor coordination**
 
-- **Meredith Needham** – **OPERATIONAL PARTNER (consistent across all periods):**
-  - Oct 22: Receives facility coordination on "Suite C smell"
-  - Oct 21: Jay McLiverty (Mac Electric Co) checks in via Meredith
-  - Oct 20: Receives HVAC coordination, facility transition communications
-  - Oct 19: Receives S0 Delivery coordination; receives I-9/Deel HR notifications
-  - **Pattern: Co-manages facility operations, HR administration, vendor coordination**
+- **Meredith Needham** – **OPERATIONAL PARTNER (consistent):**
+  - Oct 22: Receives facility coordination (Suite C smell); receives recruitment forwarding (Junior Software Developer); receives JawsTec order coordination
+  - **Pattern: Co-manages facility operations, HR administration, vendor coordination, procurement**
 
-- **Cory Dixon** – Oct 22: Receives Junior Software Developer application forwarding; Oct 20: Receives facility coordination; Oct 20: Receives Technical Project Manager Req forwarding
-  - **Pattern: Recruitment/staffing coordination**
+- **Cory Dixon** – Oct 22: Sends TPM interview invitation (Megan candidate, Oct 30); receives recruitment forwarding
+  - **Pattern: Active recruitment/staffing coordination**
 
-- **Joshua Fromm** – Oct 20: Appears on Krateosky integration review (Black Swift Weekly Integration Review); Oct 19: Receives refund request coordination from Aeronet
-  - **Pattern: Program/operations coordination**
+- **Daniel Prendergast** – Oct 22: Receives AE27 biweekly planning meeting coordination
+  - **Pattern: AE27 CUAS technical program coordination**
 
-- **Daniel Prendergast** – Oct 20: Forwards AE27 Black Swift UAS status update; Oct 19: Receives WC-130J deployment coordination
-  - **Pattern: Technical program status & delivery coordination**
+- **Spencer Hoehl** – Oct 22: Receives AE27 biweekly planning meeting forwarding
+  - **Pattern: AE27 CUAS technical coordination (NEW contact identified)**
 
-- **Maciej Stachura** – Oct 22: Receives USAF communications drone follow-up; Oct 20: Receives Arctic Edge 2028 coordination; Oct 19: Participates in WC-130J deployment discussion; Oct 19: Receives Flight Management Systems tenders
-  - **Pattern: Technical/engineering program coordination**
+- **Joshua Fromm** – Oct 22: Receives JawsTec order forwarding
+  - **Pattern: Operations/procurement coordination**
 
-- **Ben Busby** – Oct 19: Receives eye coverage insurance question coordination
-  - **Pattern: Employee benefits/HR administration**
+- **Sam Hild** – Oct 22: Sends I-9 documentation to Beck (employee onboarding)
+  - **Pattern: Employee onboarding coordination (NEW)**
 
 ### External – Government (Critical Priority)
 
 **U.S. Navy (NAWCAD) — AE27 CUAS Experiments (Active Contract)**
-- **"Ruiz-Reyes, Angel R CIV USN NAWCAD (USA)" <angel.r.ruiz-reyes.civ@us.navy.mil>** – **INTENSIVE RECENT ACTIVITY (Oct 20–22):**
-  - Oct 22: RE: [Non-DoD Source] Re: FW: AE27 - CUAS Experiments Biweekly Planning Meeting [IMPORTANT]
-  - Oct 22: Beck sends reply to biweekly planning meeting
-  - Oct 21: RE: [Non-DoD Source] Re: Arctic Edge 2028 (multiple exchanges Oct 20–21)
-  - Oct 20: RE: [Non-DoD Source] Re: Arctic Edge 2028
-  - **Pattern: Active contract administration; recurring biweekly planning cadence on AE27 CUAS experiments**
 
-- **"DeSimone, Morris A III CTR USN CNR ARLINGTON VA (USA)" <morris.a.desimone.ctr@us.navy.mil>** – **ACTIVE CONTRACT COORDINATION (Oct 20–22):**
-  - Oct 22: RE: [Non-DoD Source] Re: FW: AE27 - CUAS Experiments Biweekly Planning Meeting (replies to Beck's coordination)
-  - Oct 22: Beck sends reply to same planning meeting thread
-  - Oct 20: Participates in Arctic Edge 2028 coordination (multiple Navy stakeholders)
-  - Oct 20: Distributes AE27 Black Swift UAS status update to wide Navy audience (Benjamin A Payne, Richard LaMarca, Anthony Brescia, David Keeler, etc.)
-  - **Pattern: Contractor (CTR) coordination role; manages interface between BST and Navy technical teams**
+- **"Ruiz-Reyes, Angel R CIV USN NAWCAD (USA)" <angel.r.ruiz-reyes.civ@us.navy.mil>** – **INTENSIVE BIWEEKLY CADENCE (Oct 22):**
+  - Oct 22: Beck sends reply to AE27 biweekly planning meeting
+  - Oct 22: Beck drafts reply to Arctic Edge 2028 inquiry (DRAFT status)
+  - **Pattern: Active contract administration; recurring biweekly planning; escalating Arctic Edge 2028 engagement**
 
-- **"Mary E. Eisele CIV USN (USA)" <mary.e.eisele.civ@us.navy.mil>** – Oct 19: RE: [Non-DoD Source] Black Swift N2-9618 (continuing from earlier data)
-  - **Pattern: N2-9618 contract administration**
+- **"DeSimone, Morris A III CTR USN CNR ARLINGTON VA (USA)" <morris.a.desimone.ctr@us.navy.mil>** – **ACTIVE CONTRACT COORDINATION (Oct 22):**
+  - Oct 22: Replies to AE27 biweekly planning meeting; Beck sends reply to same thread
+  - Oct 22: Beck sends message to both Ruiz-Reyes and DeSimone (DRAFT status)
+  - **Pattern: Contractor coordination; co-leads with Ruiz-Reyes on planning and strategic questions**
 
-**U.S. Air Force / AFSOC**
-- **Ed Kase <ed.kase@ekaseconsulting.com>** – Oct 20: RE: USAF Looks for Long-Range Communications Drones Deployable from AFSOC Fixed Wing Platforms (continuing from earlier data)
-  - **Pattern: USAF opportunity broker**
+- **"Brescia, Anthony D CIV USN NAWCAD (USA)" <anthony.d.brescia.civ@us.navy.mil>** – Oct 22: Jack Elston forwards agenda to Brescia (Beck copied implicitly)
+  - **Pattern: Navy agenda/planning coordination (NEW contact)**
 
-**Special Operations Forces (SOF) Program Tracking**
-- **Vulcan Notification <Notifications@vulcan-sof.com>** – Oct 19: New in Vulcan: USSOCOM TE, JVCC, US. Naval Special Warfare Command CSO [IMPORTANT, CATEGORY_UPDATES]
-  - **Pattern: SOF-specific RFP/opportunity tracking subscription**
+**Arctic Edge 2028 Program (Strategic Initiative)**
 
-**Arctic Edge 2028 Program (NEW — Oct 20–21)**
 - **"NORAD-USNC-Arctic Edge Experimentation WG" <NORAD-USNC-ArcticEdgeExperimentationWG@groups.mail.mil>** – Oct 22: Beck sends "AE28 question" to working group
-  - **Pattern: Strategic Arctic defense experimentation program; Beck has direct access to official working group**
-  - **Note:** Arctic Edge 2028 appears to be successor/follow-on to Arctic Edge 2027 (AE27)
+  - Oct 22: Also sends DRAFT reply to Ruiz-Reyes regarding Arctic Edge 2028 (suggesting technical/policy question escalation)
+  - **Pattern: Direct access to official NORAD-USNC working group; actively raising questions/issues to strategic leadership**
 
-**Government RFP Intelligence (Automated Tracking)**
-- **GovSignals & related RFP alerts** – (From prior data; pattern continues)
-  - Oct 20–21: NASA SBIR/STTR Program – "Starting Now: Dissecting the BAA" Webinar
+**Government RFP Intelligence & Opportunity Tracking**
+
+- **GovSignals <sofracer@govsignals.ai>** – Oct 22: SOF RACER deadline extension notification
+  - **Pattern: Active SOF RACER opportunity tracking (Special Operations Forces RFP pipeline)**
+
+- **Devis/Defense Vendor** – **Adam Rich <arich@devis.com>** – Oct 22: RE: DAF26BX06-DV026 Ground and Air Launched Drone Swarms (introduction/opportunity)
+  - **Pattern: USAF drone swarm RFP coordination (NEW — active DAF opportunity)**
 
 ### External – NOAA Federal (Environmental Monitoring Partnership)
 
-**NOAA Collaboration — Active Project Delivery**
-- **"Amy McLiverty - NOAA Federal" <amy.l.mcliverty@noaa.gov>** – **Oct 22: RE: Suite C smell [UNREAD, IMPORTANT]**
-  - Oct 22: Beck initiates facility issue coordination; Amy replies same day
-  - **Interpretation: Amy may be visiting BST offices or involved in operational coordination requiring awareness of facility status**
+**NOAA Collaboration — Active Operational Engagement**
 
-- **"Danielle Varwig - NOAA Federal" <danielle.varwig@noaa.gov>** – Oct 21: RE: Couple of Questions (Beck sends reply)
-  - **Pattern: Ongoing technical/operational coordination**
+- **"Amy McLiverty - NOAA Federal" <amy.l.mcliverty@noaa.gov>** – **INTENSIVE COORDINATION (Oct 22):**
+  - Oct 22: Multiple exchanges regarding "Suite C smell" (facility issue)
+  - Oct 22: Amy sends reply at 13:30 EDT (1 hour after Beck's message at 12:05 MDT)
+  - Oct 22: Amy sends earlier reply at 14:15 EDT
+  - **Interpretation: Amy is physically at or frequently visits BST Suite C offices; high-priority facility coordination required same-day response. Suggests active NOAA personnel presence or imminent operational activity**
 
-- **"Jack Elston + NOAA stakeholder group" – Oct 19: S0 Delivery coordination**
-  - Recipients: Danielle Varwig, Laura Rock, Nikolai Pawlenko, Joe Cione, Mark Rogers, Beck Cotter, Meredith Needham
-  - **Pattern: S0 platform delivery to NOAA; coordinated logistics/handoff**
+- **Amy Smith <amy@wwreynolds.com>** – Oct 22: Facility coordination (replies to Beck regarding Suite C smell)
+  - **Pattern: External facility vendor/property management contact (NEW — likely WW Reynolds property management)**
 
 ### External – Academic & Research Partnerships
 
-**University of Colorado (INSTAAR / Aerospace)**
-- **Brian M Argrow <Brian.Argrow@colorado.edu>** – Oct 14: Re: Introduction and meeting (from prior data); continues active engagement
-- **April Abernethy <April.Abernethy@colorado.edu>** – Continues from prior data
+**Embry-Riddle Aeronautical University (ERAU)**
 
-**University of Houston**
-- **"James
+- **"Adkins, Kevin A." <adkinsk@erau.edu>** – Oct 22: RE: E2 Status (active exchange with Beck)
+  - **Pattern: Ongoing E2 (experimental aircraft/platform) technical coordination; active collaboration (NEW emphasis)**
+
+### External – Vendors & Business Development
+
+**Carahsoft Technology (Government/Commercial Vendor)**
+- **Sarah Lueking <Sarah.Lueking@carahsoft.com>** – Oct 22: Jack Elston forwards urgent drone RFQ to Sarah with Beck copied
+  - **Pattern: Commercial vendor coordination on urgent RFP responses (NEW)**
+
+**Vantor Corporation**
+- **"Shah, Naresh" <naresh.shah@vantor.com>** – Oct 22: "Black Swift Visit and Follow Up" (post-site visit coordination)
+  - **Pattern: Active business development / partnership discussion (NEW contact)**
+
+**LionPower Engineering**
+- **"Samo Smodiš" <sam@lionpowerengineering.com>** – Oct 22: Battery system inquiry for Black Swift UAS (generic inquiry to info@)
+  - **Pattern: Component supplier outreach (NEW — battery systems for UAS)**
+
+**Krateosky** (Integration Partner)
+- **Bob Smith, Jed Leonard <krateosky.com>** – Oct 22: Maciej Stachura coordinates "Arctic Edge 27" with Krateosky
+  - **Pattern: AE27 platform/system integration support (NEW emphasis)**
+
+### External – Recruitment & Talent
+
+- **mbluesky9@gmail.com** – Oct 22: Summer 2027 engineering internship inquiry (generic inquiry to sales@)
+  - **Pattern: Recruitment pipeline development**
+
+### Automated Services & Internal Systems
+
+- **Deel <no-reply@deel.support>** – Oct 23: Action Required: Complete Section 2 of Form I-9 for Samuel Hild
+  - **Pattern: HR/payroll onboarding notifications (NEW emphasis in recent data)**
+
+- **Slack <notification@slack.com>** – Oct 22: kajol.

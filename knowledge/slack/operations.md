@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 20, 2026) reflects ongoing facility maintenance coordination, production pipeline process refinement, compliance documentation efforts, and operational continuity.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 22, 2026) reflects ongoing facility maintenance and facility safety issue detection, continued recognition of hiring coordination efforts, and operational continuity.
 
 ---
 
@@ -24,6 +24,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **September 30, 2026:** Major hiring initiative announced by Cory Dixon. 13 different positions for 14 total people being recruited (including 2x UAS Technicians). 4 candidates have accepted offers with staggered October start dates (first hire October 5, 2026). 2 additional offers pending candidate signatures. Represents significant organizational scaling.
 - **September 30, 2026:** Jack Elston requesting context on two candidate interviews scheduled for next day (Andrew and Grey). Jack asked Cory Dixon to provide resumes and clarify interview positions, noting the meeting invite lacked position information.
 - **October 2, 2026:** Technical Program Management candidate declined offer after accepting position with another company. Cory Dixon notes candidate did not allow for counter-offer discussion. Team continues with remaining candidate interviews for this position.
+- **October 22, 2026:** Joshua Fromm publicly recognized Cory Dixon's hard work with hiring coordination efforts.
 
 ### Qualifications & Compliance Documentation
 - **October 1, 2026:** Spencer Hoehl issued channel-wide request for personnel to document and report all FAA pilot qualifications (Part 107, Part 61, Part 141, etc.), security clearances, NOAA Hurricane training, COA training specifics, and other job-relevant certifications. Spencer Hoehl collecting documentation for centralized qualification tracking.
@@ -47,13 +48,11 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **October 9, 2026:** Brandon (TaskRabbit) scheduled for Monday and Tuesday (October 14-15, 2026) to help build workbenches at facility.
 - **October 14, 2026:** Roof leak identified in new shop (middle of shop floor, non-urgent as no materials stored there). Beck Cotter arranged roofer to visit tomorrow (October 15) or Friday (October 17) for repair assessment.
 - **October 20, 2026:** HVAC air filter contractor returned assessment: requires larger ladder and different filters. Scheduled to return later in week (by October 24) to complete service.
+- **October 22, 2026:** Collapsing shelf detected by Joshua Fromm before it caused disaster. Status of repair/replacement not yet documented.
 
 ### Procurement & Purchasing Process
 - **October 12, 2026:** Meredith Needham delegated credit card authority and purchasing approval to Beck Cotter during her absence. New process implemented:
   1. Team members request purchases from Beck Cotter (she either processes or provides card)
   2. Purchase request forms still required in Asana for tracking and documentation purposes
   3. Meredith will no longer need to track down purchase justifications post-hoc
-- **October 12, 2026:** Jack Elston requested procurement of ski rack (and unspecified item in prior message) via Beck Cotter using new purchasing delegation process.
-
-### Personnel & Management
-- **June 2, 2023:** James Hannon hired as new Project Manager to address task over
+- **October

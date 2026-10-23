@@ -49,12 +49,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley commercial hardware purchase for P3/NOAA integration. Beck sent updated estimate (08-07) with shipping costs and atmospheric sensor package details. Customer seeking NASA procurement form and CAGE code assistance. Separate from rejected AFA proposal\u2014this is confirmed commercial procurement. Chris Meek out for 3 weeks; team CC'd for correspondence. ArrayGov Solutions quoted on 10-06 with same scope to same delivery address. Delivery after Oct 1, 2026 (FY2026 budget).",
+  "notes": "NASA Langley commercial hardware procurement for P3/NOAA integration with basic atmospheric sensor package. Beck sent updated estimate (2026-08-07) with shipping costs. Customer seeking NASA procurement form and CAGE code assistance. Chris Meek out for 3 weeks; team CC'd for ongoing correspondence. Closed Value $46,000. Delivery after Oct 1, 2026 (FY2026 budget). Separate from rejected AFA proposal\u2014this is confirmed commercial procurement.",
   "missing_fields": [
     "invoice_number",
     "invoice_amount",
     "parts"
   ],
-  "last_evidence_date": "2026-10-06",
+  "last_evidence_date": "2026-08-07",
   "last_contact_date": "2026-10-07"
 }

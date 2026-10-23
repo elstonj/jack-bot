@@ -44,6 +44,7 @@
   - Industrial Plan restructuring (Maciej, July 27–28, 2026) may impact resource allocation and timeline; S0/S0-VTOL ISR demo competing for resources with UK commitment (tentative September)
   - **Team member qualifications audit (Spencer Hoehl, Oct. 1–2, 2026):** FAA Part 107/61/141 certifications, security clearances, NOAA Hurricane training, and COA assignments not yet compiled company-wide; impacts operator deployment readiness
   - **Ocean survival training expires spring 2027** (Joshua Fromm, Oct. 1–2, 2026); renewal timing critical for Barbados mission and maritime operations
+  - **Production pipeline process gap identified (Daniel Prendergast, Oct. 19–20, 2026):** No formalized process for transitioning proposed system builds into production pipeline; impacts future deliveries and resource planning
 
 ## Key Deliverables & Milestones
 
@@ -53,5 +54,4 @@
 | **Instrumented Bench Test** | Beck Cotter or support | ~2026-05-01 | ⚠️ **OVERDUE** | Per Maciej Stachura (April 24 & 30, 2026): due by mid-week following April 24. Blocks S0 VTOL delivery. |
 | **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICALLY OVERDUE** | Crash/tracking bug under active investigation; flight test restart in progress. Bench tests must complete first. **Per Maciej Stachura (May 4, 2026):** "after your meeting with ByLight let's update the due dates in Asana to realistic numbers." Current May 22 date substantially missed; realistic delivery timeline unknown pending crash bug resolution. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
 | **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | ⚠️ **At Risk** | In-person handoff with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery completion; original May 22 deadline missed. |
-| **Operator Training Materials & Supplies** | Jack Elston (reassigned per June 1, 2026) | *No due date set* | ⚠️ **AT RISK** | Training curriculum and materials for 6 trainees (including Junior Brathwaite). Sabu Best available week of May 5, 2025 for preliminary review. **Per June 1, 2026 team correction:** Documentation and training ownership reassigned to Jack Elston. Must finalize by June 2026. |
-| **Operator Training Delivery** | Unassigned | 2026-07-01–04 | ⚠️ **CRITICALLY AT RISK** | In-person training in Barbados;
+| **Operator Training Materials & Supplies** | Jack Elston (reassigned per June 1, 2026) | *No due date set* | ⚠️ **AT RISK** | Training curriculum and materials for 6 trainees (including Junior Brathwaite). Sabu Best available week of May 5, 2025 for preliminary review. **Per June 1, 2026 team correction:** Documentation and training ownership reassigned to Jack Elston. Must finalize by June 2026.

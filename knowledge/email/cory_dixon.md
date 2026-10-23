@@ -1,63 +1,95 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 392 emails (311 previous + 81 new)
+- **Total messages scanned:** 409 emails (392 previous + 17 new)
 - **Date range:** 6 Oct – 22 Oct 2026 (17 days)
-- **Approximate volume:** ~23 emails/day (increased activity, sustained high engagement)
-- **Peak activity:** Mon 19 Oct 2026 (12+ messages, strategic coordination); Wed 21 Oct 2026 (11+ messages, vendor/financial closeout); Thu 22 Oct 2026 (6+ messages, hiring & CMMC focus)
+- **Approximate volume:** ~24 emails/day (sustained high engagement)
+- **Peak activity:** Thu 22 Oct 2026 (11+ messages, hiring closeout, candidate coordination, vendor follow-up, travel planning)
 
 ## Key Correspondents
 
 ### Top Senders (incoming) — UPDATED
-1. **Jack Elston** (elstonj@blackswifttech.com) — Highest sustained volume; NEW: S0 Build Updates/delivery coordination (Oct 19), WC-130J air-deployment (Oct 19, IMPORTANT), Soil Moisture White Paper (Oct 19, forwarded from Al Gasiewski), NASA Mention coordination (Oct 16, IMPORTANT), Kanban/Asana Reconciliation (Oct 20, shared doc), Claude chat sharing (Oct 21)
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — **Elevated priority** — Junior Software Developer applicant forwarding (Oct 22, IMPORTANT), Technical Project Manager Req (Oct 20, forwarded, IMPORTANT), Facilities issue coordination (Oct 20, sewer smell Suite C)
-3. **Ariel Avitan** (Ariel@krateosky.com) — Continued AE candidate review (Oct 19, IMPORTANT)
-4. **Cosmik Ventures** (cosmikventures@gmail.com) — **NEW elevated activity** — Black Swift closeout/invoice (Oct 21, IMPORTANT; mutual exchange), Paid invoice notifications (Oct 21, Oct 14)
-5. **Max Pheysey** (max.pheysey@lumicity.io) — **NEW: sustained recruitment focus** — Robert Powell finalist for EE (Oct 21, Oct 20, Oct 16, Oct 15; multiple exchanges via cory@krateosky.com), Panel interview coordination (Oct 16)
-6. **Maciej Stachura** (stachura@blackswifttech.com) — Leadership/strategic alignment; WC-130J discussions (Oct 19), shared UMS Concept Portfolio presentation (Oct 16, IMPORTANT)
-7. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Looped on hardware procurement (Covar/processing) (Oct 20), AE27 Black Swift UAS update (Oct 20, forwarded to Krateosky)
-8. **Sona Raziabeegum** (sona@krateosky.com) — **NEW: project support** — BST PM Support Discussion (Oct 20, IMPORTANT), Dipan on-site request coordination (Oct 15, Oct 14, IMPORTANT)
-9. **Brian Grubel** (Brian@krateosky.com) — Krateosky leadership; PM Support Discussion (Oct 19, IMPORTANT), Robert Powell Panel Interview (Oct 16)
-10. **Nick Marteney** (marteney@trustedmotherbear.com) — **NEW** — CMMC assessment objectives (Oct 22, UNREAD, IMPORTANT)
-11. **Samo Smodiš** (sam@lionpowerengineering.com) — **NEW vendor inquiry** — Battery system for Black Swift UAS (Oct 22, IMPORTANT)
-12. **James Nguyen** (james421516@gmail.com) — **NEW candidate** — Junior Software Developer application (Oct 22, UNREAD, IMPORTANT)
-13. **Hadley Solomon** (hadley.solomon@creativealignments.com) — AE candidate coordination (Oct 19, IMPORTANT)
-14. **Al Gasiewski** (al.gasiewski@colorado.edu) — Academic collaboration; Soil Moisture White Paper (Oct 19, Oct 15, Oct 14, IMPORTANT; also al.gasiewski@orbitalmicro.com)
-15. **Kay Rufty** (kayaerokats@gmail.com) — Video project (Oct 14, IMPORTANT; appears to be creative/production)
-16. **Claudia Dabbs** (cdabbs@covar.com) — **NEW: hardware vendor** — Processing Hardware discussion (Oct 20, looped via Daniel Prendergast, IMPORTANT)
+1. **Jack Elston** (elstonj@blackswifttech.com) — Highest sustained volume; NEW: Hotel coordination for AGU San Francisco (Oct 22), Navy contact escalation (Anthony Brescia, Oct 22, IMPORTANT), Processing Hardware discussion (Oct 22, looped to Daniel Prendergast)
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — Junior Software Developer applicant (James Nguyen, Oct 22, IMPORTANT)
+3. **Max Pheysey** (max.pheysey@lumicity.io) — **ACTIVE:** Robert Powell EE finalist updates (3 messages Oct 22, sustained coordination)
+4. **Cosmik Ventures** (cosmikventures@gmail.com) — **CRITICAL:** Black Swift closeout invoice (Oct 22, IMPORTANT)
+5. **Shelly Dvorak** (shelly@krateosky.com) — Krateosky operations; Google Ads login coordination (Oct 22), AGU San Francisco hotel info (Oct 22)
+6. **Megan Lewis** (lewismegan303@gmail.com) — **NEW candidate:** Junior Software Developer candidate (2 messages Oct 22, IMPORTANT; active response exchange)
+7. **James Nguyen** (james421516@gmail.com) — **NEW candidate:** Junior Software Developer application (Oct 22, received response from Cory)
+8. **COSMIK HANDYMAN SERVICES** (via Clover) — Facilities vendor invoicing (Oct 22, IMPORTANT)
+9. **Samo Smodiš** (sam@lionpowerengineering.com) — **NEW:** Battery system inquiry for Black Swift UAS (Oct 22, IMPORTANT)
 
 ### Top Recipients (outgoing) — UPDATED
-1. **Jack Elston** (elstonj@blackswifttech.com) — Strategic coordination and forwarding
-2. **Maciej Stachura** (stachura@blackswifttech.com) — Resume forwarding (Megan Lewis, Oct 21)
-3. **Sona Raziabeegum** (sona@krateosky.com) — PM Support discussion (Oct 20, forwarded)
-4. **Max Pheysey** (max.pheysey@lumicity.io) — Robert Powell EE candidate updates (Oct 20, multiple exchanges via cory@krateosky.com)
-5. **Cosmik Ventures** (cosmikventures@gmail.com) — Black Swift closeout response (Oct 21)
-6. **Ariel Avitan** (Ariel@krateosky.com) — AE candidate review (Oct 19, via cory@krateosky.com)
-7. **Brian Grubel** (Brian@krateosky.com) — Dipan on-site request response (Oct 16, via cory@krateosky.com)
+1. **Max Pheysey** (max.pheysey@lumicity.io) — Robert Powell EE candidate coordination (Oct 22, via cory@krateosky.com, multiple exchanges)
+2. **Megan Lewis** (lewismegan303@gmail.com) — Junior Software Developer candidate follow-up (Oct 22, 2 messages)
+3. **Jack Elston** (elstonj@blackswifttech.com) — Candidate coordination loop (Oct 22, via cory@krateosky.com)
+4. **James Nguyen** (james421516@gmail.com) — Application response (Oct 22)
+5. **Sona Raziabeegum** (sona@krateosky.com) — AE Candidates review forwarding (Oct 22, via cory@krateosky.com)
+6. **Ariel Avitan** (Ariel@krateosky.com) — AE Candidates review loop (Oct 22, via cory@krateosky.com)
+7. **Cosmik Ventures** (cosmikventures@gmail.com) — Closeout response (implied from previous pattern)
 
 ### Internal vs External — UPDATED
-- **Core BST:** Jack Elston, Beck Cotter, Maciej Stachura, Meredith Needham, Daniel Prendergast, Joshua Waldman, Joshua Fromm, Ali Sulehria, Sam Hild
-- **Active Krateosky dual-account:** Ariel Avitan, Shelly Dvorak, Pam Kermisch, Brian Grubel, Sona Raziabeegum, Dipan Amin, Thibault Bridel-Bertomeu (and broad Krateosky leadership list, Oct 16 CMMC message)
-- **Academic/Government — EXPANDED:**
-  - University of Colorado Aerospace: April Abernethy, Brian M Argrow, Al Gasiewski (also @orbitalmicro.com), Soil Moisture/White Paper research collaboration
-  - NOAA Federal: Danielle Varwig, Laura Rock, Nikolai Pawlenko, Joe Cione, Mark Rogers (Oct 19, S0 Delivery coordination)
+- **Core BST:** Jack Elston, Beck Cotter, Maciej Stachura, Daniel Prendergast, Meredith Needham, Joshua Waldman, Joshua Fromm, Ali Sulehria, Sam Hild
+- **Active Krateosky dual-account:** Ariel Avitan, Shelly Dvorak, Pam Kermisch, Brian Grubel, Sona Raziabeegum, Dipan Amin, Thibault Bridel-Bertomeu
+- **Government/Military — ESCALATED:**
+  - U.S. Navy NAWCAD: Anthony D. Brescia CIV USN (NEW, Oct 22, IMPORTANT agenda coordination)
+  - NOAA Federal: Danielle Varwig, Laura Rock, Nikolai Pawlenko, Joe Cione, Mark Rogers
+  - University of Colorado Aerospace: April Abernethy, Brian M Argrow, Al Gasiewski
 - **Vendor/Partners — UPDATED:**
   - **Lion Power Engineering** (Samo Smodiš — battery systems, NEW, Oct 22)
-  - **Covar** (Claudia Dabbs — processing hardware, NEW, Oct 20)
-  - **Halo Aero** (Daniel Hesselius — previous partnership)
-  - IFC Studios (Tony Kraayenbrink — website/design)
-  - Creative Alignments (Hadley Solomon — recruiting)
-  - Trusted Mother Bear (Nick Marteney — CMMC assessor, NEW, Oct 22)
-  - Lumicity (Max Pheysey — recruiter/talent acquisition for EE roles, NEW escalated activity)
-  - Xceptional (Elizabeth McKewon — CMMC follow-up, Oct 20, IMPORTANT)
-  - Weather Stream (Michael Hurowitz, ERYAN Dai — Soil Moisture project collaborators)
-  - Orbital Micro (Al Gasiewski — academic/industry collaboration)
-- **Cosmik Ventures** (cosmikventures@gmail.com) — **CRITICAL: financial/assembly closeout** (Oct 21, Oct 14); appears to be assembly/manufacturing vendor with active invoicing
-- **Facilities/Services:** COSMIK HANDYMAN SERVICES (invoicing via Clover, Oct 21, Oct 16, Oct 14; Suite C kitchen facility issue Oct 20)
+  - **Lumicity** (Max Pheysey — recruiter/talent acquisition, ESCALATED activity Oct 22)
+  - **Covar** (Claudia Dabbs — processing hardware)
+  - **Halo Aero** (Daniel Hesselius)
+  - IFC Studios (Tony Kraayenbrink)
+  - Creative Alignments (Hadley Solomon)
+  - Trusted Mother Bear (Nick Marteney — CMMC)
+  - Xceptional (Elizabeth McKewon — CMMC)
+  - Weather Stream (Michael Hurowitz, ERYAN Dai)
+  - Orbital Micro (Al Gasiewski)
+- **Cosmik Ventures** (cosmikventures@gmail.com) — **CRITICAL ACTIVE:** financial/assembly closeout (Oct 22, new invoice dated Oct 22)
+- **Facilities/Services:** COSMIK HANDYMAN SERVICES (new invoice Oct 22)
 
 ## Topic Patterns
 
 ### Primary Work Areas & Projects — UPDATED
 
-1. **S0 Build & Delivery — ACTIVE EXECUTION PHASE**
-   - **NEW:** Oct 19 S0 Build Updates and Decision Making meeting (Jack Elston organized, Cory
+1. **Hiring & Recruitment — ACTIVE SURGE (Oct 22)**
+   - **Junior Software Developer:** 2 NEW candidates in single day (James Nguyen, Megan Lewis); Beck Cotter looping Cory and Meredith Needham on applicant
+   - **Electrical Engineer (EE):** Robert Powell finalist coordination with Max Pheysey/Lumicity (3 messages Oct 22); Jack Elston looped in candidate discussions
+   - **Account Executive (AE):** Forwarding candidate reviews to Krateosky team (Sona, Ariel) Oct 22
+   - Pattern: Cory appears to be managing recruitment intake and cross-company candidate coordination
+
+2. **S0 Build & Delivery — ONGOING**
+   - Jack Elston looped on Processing Hardware discussion (Oct 22, forwarded to Daniel Prendergast)
+   - Continues from previous pattern
+
+3. **Hardware/Vendor Coordination — EXPANDING**
+   - **NEW battery inquiry:** Samo Smodiš (Lion Power Engineering) reaching out to info@blackswifttech.com re: battery system for Black Swift UAS (Oct 22)
+   - Processing hardware discussions (Covar, Oct 22)
+
+4. **Financial/Contractual Closeout**
+   - **Cosmik Ventures closeout:** New invoice Oct 22 (timing suggests active settlement phase)
+
+5. **Travel & Operations**
+   - **AGU Conference (San Francisco):** Jack Elston organizing hotel accommodations for Cory and Shelly Dvorak (Krateosky) (Oct 22)
+
+6. **Government/Military Engagement — NEW ESCALATION**
+   - **Navy NAWCAD:** Jack Elston responding to agenda from Anthony Brescia (CIV USN) (Oct 22, IMPORTANT)
+   - Indicates potential government contract or partnership discussions
+
+### Subject Line Themes
+- "Application: Junior Software Developer" (2 instances Oct 22)
+- "Update on Robert Powell - Finalist for EE" (3 instances Oct 22)
+- "AE Candidates for Review" (Oct 22)
+- "Black Swift closeout" (Oct 22)
+- "Hotel Info for AGU in San Fran" (Oct 22)
+- "Battery system for Black Swift UAS" (Oct 22)
+- "Processing Hardware" (Oct 22)
+- "Google Ads Login" (Oct 22)
+
+## Communication Patterns
+
+### Time Patterns — UPDATED
+- **Heavy Oct 22 activity:** Concentrated hiring & closeout coordination (6:32 AM – 23:02 PM UTC/PDT), suggesting urgent week-end priorities
+- **Multiple time zones:** Messages spanning UTC, -0600 (Mountain), -0700 (Pacific) indicate cross-country coordination
+- **Dual email

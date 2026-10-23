@@ -83,15 +83,25 @@
 - **Sep 14–25, 2026:** Camp Pendleton demonstration executed successfully
 - **Sep 9, 2026:** All technical milestones marked complete
 - **Oct 2, 2026:** Asana tasks bulk-marked complete (administrative closure)
-- **Oct 7–8, 2026 (Team Feedback – Dan Prendergast):** **URGENT ACTION IDENTIFIED** — Export Classification Number (ECCN) requests must be submitted immediately to avoid impacting downstream Navy projects and commercial partnerships:
-  - Priority 1: **S0-AD with magnetometer** (this project's platform) — Navy Program Office (Anthony Brescia) may have approval authority on export classification and UK licensing
-  - Priority 2: S0-AD with fixed EO/IR camera
-  - Priority 3: S3 with gimballed EO/IR camera
-  - Impact: Delays could affect pending Canada project and LMUK/Royal Navy project
-  - Status: Applications not yet written; requires ownership assignment
-- **Oct 19–20, 2026 (Team Feedback – Dan Prendergast):** Process gap identified — no formal transition pipeline exists for moving demo systems (like this magnetometer platform) into production. LMUK project planning will need 2× S0-AD with Magnetometer and 2× S0-AD with Camera; formalized handoff process required.
 
-## Notes & Context
+## Downstream Actions & Risk Signals
 
-**Project Scope:**
-Phase I effort demonstrating technical feasibility of integrating magnetic anomaly detection (MAD) and passive acoustic sensing technologies into a SL UAS platform. Work encompasses sensor integration, platform modification, system testing, and preliminary
+### 🚨 URGENT: Export Classification Number (ECCN) Submissions Required
+**Source:** Dan Prendergast (Oct 7–8, 2026)
+
+Three platform configurations require ECCN applications **submitted immediately** to avoid impacting downstream projects:
+
+| Platform | Priority | Status | Dependencies |
+|---|---|---|---|
+| **S0-AD with Magnetometer** | **Priority 1** | Applications not yet written | Navy Program Office (Anthony Brescia) may have approval authority on export classification & UK licensing |
+| S0-AD with fixed EO/IR camera | Priority 2 | Applications not yet written | Pending Canada project |
+| S3 with gimballed EO/IR camera | Priority 3 | Applications not yet written | LMUK/Royal Navy project |
+
+**Impact:** Delays could affect:
+- Pending Canada project
+- LMUK/Royal Navy project (which requires 2× S0-AD with Magnetometer + 2× S0-AD with Camera)
+
+**Action Required:** Assignment of ownership for ECCN application preparation. Note that Anthony Brescia (Navy secondary contact) may have regulatory authority on this magnetometer platform given Navy Program Office involvement in integration/development.
+
+### Process Gap: Demo-to-Production Transition Pipeline
+**Source:** Dan Prendergast (Oct

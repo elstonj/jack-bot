@@ -29,7 +29,7 @@
         "amount": 35606.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-22"
+        "last_updated": "2026-10-23"
       },
       "purchases": {
         "amount": 0.0,
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 54393.75,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-22T18:52:33Z"
+    "last_reconciled": "2026-10-23T09:19:02Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -69,6 +69,6 @@
       "text": "From Daniel Prendergast: <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
     }
   ],
-  "last_full_rebuild": "2026-10-22T18:52:33Z",
+  "last_full_rebuild": "2026-10-23T09:19:02Z",
   "last_incremental_update": null
 }

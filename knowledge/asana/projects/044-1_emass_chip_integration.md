@@ -14,7 +14,7 @@
 - **Status**: ✅ **PROJECT CLOSED & ARCHIVED** — All technical and administrative deliverables complete. Final invoice submitted September 4, 2026. Project archived in Asana.
 - **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham; Alex and Sam (magnetometer integration engineering)
 - **Risk Signals**: 
-  - ⚠️ **Export control/licensing issue** (October 8, 2026 — Daniel Prendergast): Magnetometer integration partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Requires immediate clarification** with Navy Program Office and EMASS before final delivery/payment.
+  - ⚠️ **CRITICAL: Export control/licensing issue** (October 8, 2026 — Daniel Prendergast): Magnetometer integration partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Requires immediate clarification** with Navy Program Office and EMASS before final delivery/payment.
   - ✅ Final invoice submitted (2 days late, September 4); monitor EMASS payment receipt
 
 ## Key Deliverables & Milestones
@@ -44,7 +44,7 @@
 ## Recent Activity
 
 **October 8, 2026**:
-- ⚠️ **Export control issue flagged** (Daniel Prendergast): Magnetometer integration work is partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Action required**: Clarify Navy approval for UK delivery before final payment/handoff.
+- ⚠️ **CRITICAL: Export control issue flagged** (Daniel Prendergast): Magnetometer integration work is partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Action required**: Clarify Navy approval for UK delivery before final payment/handoff. *"Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK."*
 
 **September 4, 2026**:
 - ✅ **Final invoice sent to EMASS** (Meredith O'hara Needham) — 2 days past due (Aug 28), but submitted; Milestone 4b ($10k) payment triggered
@@ -60,11 +60,12 @@
 
 **Project Status**: Officially closed and archived. All technical deliverables (validation flights, final report, data analysis) and invoice submission complete as of September 4, 2026.
 
-**Export Control/Licensing Risk** (PRIORITY):
-- Daniel Prendergast flagged (October 8, 2026) that magnetometer integration work involves US Navy Program Office (Tony as the POC).
+**CRITICAL ISSUE — Export Control/Licensing Risk**:
+- **Daniel Prendergast flagged (October 8, 2026)** that magnetometer integration work involves US Navy Program Office (Tony as the POC).
 - Navy may have authority over export classification and licensing to UK customer (EMASS).
 - **This must be resolved before final delivery/payment confirmation.**
 - Recommend immediate coordination with Tony (Navy Program Office) and EMASS to confirm export approval and licensing status.
+- This issue was flagged *after* invoice submission, indicating potential delivery/payment blockage if not resolved.
 
 **Customer Payment History**:
 - June 2026: EMASS declined original $35k final milestone due to incomplete final report. Billing restructure (split into $25k + $10k, plus per-flight-day basis) successfully resolved concerns and unblocked project.

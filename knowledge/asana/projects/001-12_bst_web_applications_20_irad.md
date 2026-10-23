@@ -5,9 +5,10 @@
 - **Dollar value**: Not specified
 - **Timeline**: No specific dates or due dates set; infrastructure foundation completed April 2026
 - **Status**: Active development — infrastructure phase complete; core application development pending resource assignment
+  - **CRITICAL BLOCKING ISSUE**: Export Classification Number (ECCN) requests required urgently to avoid impacting Canada project and LMUK/Royal Navy project (flagged by Daniel Prendergast, 2026-10-07/10-08)
 - **Team members**: Dan Prendergast (Owner), Ben Busby (infrastructure lead), BST whole team
 - **Risk signals**: 
-  - **CRITICAL COMPLIANCE BLOCKER**: Export Classification Number (ECCN) requests needed urgently (flagged 2026-10-07/10-08 by Daniel Prendergast) to avoid impacting Canada project and LMUK/Royal Navy project. Three platforms require classification; applications not yet drafted; no owner assigned.
+  - **CRITICAL COMPLIANCE BLOCKER**: Three platforms require ECCN classification; applications not yet drafted; no owner assigned; delays will impact dependent external projects
   - 12 of 14 tasks unassigned with no due dates — deployment timeline unclear
   - Task list may not reflect actual infrastructure completion status
 
@@ -37,13 +38,16 @@
 ## Recent Activity
 
 **2026-10-07/10-08 — URGENT COMPLIANCE FLAG** (Daniel Prendergast):
+
+> "We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project." — Daniel Prendergast, 2026-10-08
+
 - **CRITICAL**: Export Classification Number (ECCN) requests required urgently for three platforms:
-  1. S0-AD with fixed EO/IR camera (high priority)
-  2. S0-AD with magnetometer (high priority)
-  3. S3 with gimballed EO/IR camera (lower priority)
-- **Impact**: Delays will affect pending Canada project and LMUK/Royal Navy project timelines
+  1. **S0-AD with fixed EO/IR camera** (high priority)
+  2. **S0-AD with magnetometer** (high priority)
+  3. **S3 with gimballed EO/IR camera** (lower priority)
 - **Current status**: Applications not yet drafted; no owner or timeline assigned
-- **Direct quote** (Prendergast, 2026-10-08): "We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project."
+- **Impact**: Delays will affect pending Canada project and LMUK/Royal Navy project timelines
+- **ACTION REQUIRED**: Assign owner immediately and establish hard deadline aligned with dependent project schedules
 
 **2026-04-16 — Infrastructure Completion**:
 - Hybrid cloud/on-premises split finalized (AWS database + local SQLite sync)
@@ -52,12 +56,13 @@
 
 ## Notes & Context
 
-- **Project priority**: Low (per custom field) — **contradicts urgency of ECCN compliance work**
-- **CRITICAL ISSUE**: ECCN classification work is **blocking external projects** (Canada, LMUK/Royal Navy) but remains decoupled from Asana task list, unassigned, and undated. Immediate action required: assign owner and establish deadline aligned with dependent project schedules.
+- **Project priority**: Low (per custom field) — **contradicts urgency of ECCN compliance work blocking external projects**
+- **CRITICAL ISSUE**: ECCN classification work is **blocking external projects** (Canada, LMUK/Royal Navy) but remains decoupled from Asana task list, unassigned, and undated. **Immediate action required**: assign owner and establish deadline aligned with dependent project schedules.
 - **Task list discrepancy**: Current Asana shows 14 open tasks with zero completed, but April 2026 infrastructure phase marked complete. Recommend clarifying which tasks should be archived vs. remain active.
 - **Scope**: Web applications (Mission Planning, Aircraft/Payload Analysis), hardware integration, testing, documentation, training, and operational support — typical of broad IRAD effort.
-- **Next steps** (in priority order):
-  1. **URGENT**: Assign ECCN classification work owner and establish hard deadline (pending Canada/LMUK timelines)
-  2. Audit task list; close or archive infrastructure phase tasks if complete
-  3. Assign coding tasks (Mission Planner, Aircraft/Payload Analysis) with development timeline
-  4. Coordinate ECCN timeline with Canada and LMUK/Royal Navy project leads
+
+## Next Steps (Priority Order)
+1. **URGENT**: Assign ECCN classification work owner and establish hard deadline (pending Canada/LMUK timelines)
+2. Audit task list; close or archive infrastructure phase tasks if complete
+3. Assign coding tasks (Mission Planner, Aircraft/Payload Analysis) with development timeline
+4. Coordinate ECCN timeline with Canada and LMUK/Royal Navy project leads

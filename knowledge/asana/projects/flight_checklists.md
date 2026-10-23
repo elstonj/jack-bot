@@ -41,7 +41,7 @@
 - **Status inconsistencies:**
   - Planning Task 3 marked "Completed" but remains open
   - Execution Task 2 & Milestone 1 marked "In progress" but unassigned with no updates
-  - One task has empty title/description field
+  - One task has empty title/description field (no title/description)
   - Launch Tasks 1 & 2 have no due dates
   - Execution plan approval task has no due date
   - Milestone 3 has no due date
@@ -58,8 +58,8 @@
 
 ### Team Coordination (Authoritative — Overrides Asana Dates)
 
-**2026-10-15 & 2026-10-16** — Daniel Prendergast: **Confirmation of data accuracy.** "Mine's correct. Stop hazing me, Mr. Flight Director" — indicates project lead is actively engaged; underscores importance of his prior feedback on team transition.
+**2026-10-16 & 2026-10-15** — Daniel Prendergast: **Confirmation of data accuracy.** "Mine's correct. Stop hazing me, Mr. Flight Director" — indicates project lead is actively engaged and verifying project status; underscores importance of his prior feedback on team transition.
 
 **2026-10-01 & 2026-10-02** — Daniel Prendergast: **TEAM TRANSITION UNDERWAY.** "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — confirms current team (Jack, Josh, Alex, Maciej, Beck, et al.) is **transitioning out of active flight operations role**; next season's flight operations will be handled by a new ops team with fresh qualifications. **Current Flight Checklists project is winding down; should not expect new flight ops tasks to be assigned to current team members.**
 
-**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides earlier in-progress status. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline. Daniel's request to add the form link is **now implemented and live**.
+**2026-07-28** — Ben: **Post-flight workflow automation COMPLETE.** "the postflight workflow automation has been done for a while, stop bringing up that task" — overrides earlier in-progress status. Maintenance Action Form link has been successfully added to log parse process to drive automatic checklist discipline. Daniel's request to

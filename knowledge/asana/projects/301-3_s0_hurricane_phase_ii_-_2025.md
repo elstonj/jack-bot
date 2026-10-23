@@ -8,15 +8,15 @@
 - **Timeline:** 
   - **Extended through August 25, 2026** (6-month extension from original contract)
   - Key delivery deadlines: July 1, 2026 (Additional 13 S0 systems); July 31, 2026 (Web-based controller, Operator Training); August 25, 2026 (Training CLINs 1002–1005)
-- **Status:** **ACTIVE — Contract remains in force through August 25, 2026** (~4 months remaining). Project is marked archived in Asana but work continues. ⚠️ **Critical task ownership and tracking gap: 21 open tasks all unassigned with no due dates (except 2), despite imminent contract deadline.**
-- **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham
-- **Priority level:** Low
+- **Status:** **ACTIVE — Contract remains in force through August 25, 2026** (~4 months remaining). Project is marked archived in Asana but work continues. ⚠️ **CRITICAL RISK: 21 open tasks all unassigned with no due dates (except 2), despite imminent contract deadline.**
+- **Team members:** Josh Fromm (owner), Jack Elston, Maciej Stachura, Dan Prendergast, Ben Busby, Ethan Domagala, Alex Lomis, Nate Straus, Meredith O'Hara Needham, Spencer Hoehl
+- **Priority level:** Low (custom field)
 - **Risk signals:** 
   - **All 21 open tasks unassigned; only 2 have due dates (July 1, 2026 and July 31, 2026)**
   - **5 critical required milestones with no ownership or timeline:** 10Hz Met Data, Increased Endurance, Dual GPS, GUI/usability improvements, Airops updates
   - **13 additional S0 systems due July 1, 2026** — marked as milestone but unassigned with no progress visibility
   - **12 work category tasks with no assigned owners or deadlines** — Prototyping, Construction, Deployments, Testing, Design, Administrative, Meetings, Travel, Software/Firmware/Electronics, Data Processing, QC
-  - **Personnel qualification documentation collection initiated October 2, 2026** — Spencer Hoehl company-wide callout for FAA pilot certifications (Part 107/61/141), security clearances, NOAA Hurricane training, COA documentation; suggests preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials
+  - **Personnel qualification documentation collection initiated October 1–2, 2026** — Spencer Hoehl company-wide callout for FAA pilot certifications (Part 107/61/141), security clearances, NOAA Hurricane training, COA documentation; suggests preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials
 
 ## Key Deliverables & Milestones
 
@@ -70,8 +70,8 @@
 
 ## Recent Activity
 
-**October 2, 2026:**
-- **Spencer Hoehl issued company-wide callout requesting personnel document FAA pilot qualifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, COA training documentation** — indicates preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials. This is a direct override of any Asana task tracking; regulatory/compliance verification is active.
+**October 1–2, 2026:**
+- **Spencer Hoehl issued company-wide callout requesting personnel document FAA pilot qualifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, and COA documentation.** Indicates preparation for Training CLINs (1002–1005) or deployment operations requiring verified credentials. This is active compliance/qualification verification work, per team feedback.
 
 **December 10, 2025:**
 - Contract moving forward; NOAA has **$115K + $54K earmarked** for extension work on current contract
@@ -98,4 +98,4 @@
 - **NASA engagement:** Alex Lomis shared NASA RFI (Apr 17 & 20, 2026) recommended by NASA and Joe Cione during hurricane ET call — suggests potential expansion of S0 platform beyond current NOAA hurricane program
 
 ### Personnel & Compliance
-- **Qualification documentation drive (Oct 2, 2026):** Spencer Hoehl soliciting FA
+- **Qualification documentation drive (Oct 1–2, 2026):**

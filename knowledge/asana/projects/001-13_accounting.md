@@ -1,4 +1,4 @@
 # [001-13] Accounting
 
 Small project with 1 tasks.
-- [Open] Reconcile CC  — Meredith O'hara Needham
+- [Open] Run Monthly P/L  — Meredith O'hara Needham
