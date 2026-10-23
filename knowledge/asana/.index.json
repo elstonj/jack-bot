@@ -1,0 +1,583 @@
+{
+  "001-01_general_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[001-01] General IRAD",
+    "open": 4,
+    "window": "last 365 days"
+  },
+  "001-02_e2_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-02] E2 IRAD",
+    "open": 7,
+    "window": "last 365 days"
+  },
+  "001-03_s0-ad_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 4,
+    "name": "[001-03] S0-AD IRAD",
+    "open": 180,
+    "window": "last 365 days"
+  },
+  "001-04_s0_vtol_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 2,
+    "name": "[001-04] S0 VTOL IRAD",
+    "open": 37,
+    "window": "last 365 days"
+  },
+  "001-05_s1_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-05] S1 IRAD",
+    "open": 6,
+    "window": "last 365 days"
+  },
+  "001-06_s2_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-06] S2 IRAD",
+    "open": 2,
+    "window": "last 365 days"
+  },
+  "001-07_s3_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 108,
+    "name": "[001-07] S3 IRAD",
+    "open": 93,
+    "window": "last 365 days"
+  },
+  "001-09_swiftcore_40.md": {
+    "as_of": "2026-10-23",
+    "completed": 3,
+    "name": "[001-09] SwiftCore 4.0",
+    "open": 219,
+    "window": "last 365 days"
+  },
+  "001-10_swiftcore_32.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-10] SwiftCore 3.2",
+    "open": 3,
+    "window": "last 365 days"
+  },
+  "001-11_methane_emission_detection_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-11] Methane Emission Detection IRAD",
+    "open": 14,
+    "window": "last 365 days"
+  },
+  "001-12_bst_web_applications_20_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 5,
+    "name": "[001-12] BST Web Applications 2.0 IRAD",
+    "open": 14,
+    "window": "last 365 days"
+  },
+  "001-12_customer_support.md": {
+    "as_of": "2026-10-23",
+    "completed": 3,
+    "name": "[001-12] Customer Support",
+    "open": 3,
+    "window": "last 365 days"
+  },
+  "001-12_log_parse_website.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-12] Log Parse Website",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "001-13_accounting.md": {
+    "as_of": "2026-10-23",
+    "completed": 260,
+    "name": "[001-13] Accounting",
+    "open": 15,
+    "window": "last 365 days"
+  },
+  "001-13_bd_pipeline.md": {
+    "as_of": "2026-10-23",
+    "completed": 53,
+    "name": "[001-13] BD Pipeline",
+    "open": 45,
+    "window": "last 365 days"
+  },
+  "001-13_compliance.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Compliance",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "001-13_corporate_strategic_planning.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Corporate / Strategic Planning",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "001-13_facilities_management.md": {
+    "as_of": "2026-10-23",
+    "completed": 86,
+    "name": "[001-13] Facilities Management",
+    "open": 6,
+    "window": "last 365 days"
+  },
+  "001-13_finance_admin.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Finance Admin",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "001-13_general_operations.md": {
+    "as_of": "2026-10-23",
+    "completed": 70,
+    "name": "[001-13] General Operations",
+    "open": 17,
+    "window": "last 365 days"
+  },
+  "001-13_hiring_pipeline.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Hiring Pipeline",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "001-13_hr_general.md": {
+    "as_of": "2026-10-23",
+    "completed": 19,
+    "name": "[001-13] HR General ",
+    "open": 13,
+    "window": "last 365 days"
+  },
+  "001-13_investment.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Investment",
+    "open": 5,
+    "window": "last 365 days"
+  },
+  "001-13_marketing.md": {
+    "as_of": "2026-10-23",
+    "completed": 24,
+    "name": "[001-13] Marketing",
+    "open": 12,
+    "window": "last 365 days"
+  },
+  "001-13_marketing_goals_workflow.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Marketing Goals Workflow",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "001-13_proposals.md": {
+    "as_of": "2026-10-23",
+    "completed": 26,
+    "name": "[001-13] Proposals",
+    "open": 82,
+    "window": "last 365 days"
+  },
+  "001-13_purchasing.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-13] Purchasing",
+    "open": 207,
+    "window": "last 365 days"
+  },
+  "001-14_swiftcore_33.md": {
+    "as_of": "2026-10-23",
+    "completed": 103,
+    "name": "[001-14] SwiftCore 3.3",
+    "open": 9,
+    "window": "last 365 days"
+  },
+  "001-15_mhp_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-15] MHP IRAD",
+    "open": 8,
+    "window": "last 365 days"
+  },
+  "001-16_swiftstation_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 2,
+    "name": "[001-16] SwiftStation IRAD",
+    "open": 7,
+    "window": "last 365 days"
+  },
+  "001-17_aircraft_inventory_maintenance_and_upgrades.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[001-17] Aircraft Inventory Maintenance and Upgrades",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "001-20_smm_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[001-20] SMM IRAD",
+    "open": 16,
+    "window": "last 365 days"
+  },
+  "001-22_fleet_maintenance.md": {
+    "as_of": "2026-10-23",
+    "completed": 6,
+    "name": "[001-22] Fleet Maintenance",
+    "open": 3,
+    "window": "last 365 days"
+  },
+  "001-23_socom_crada_s0-ad.md": {
+    "as_of": "2026-10-23",
+    "completed": 6,
+    "name": "[001-23] SOCOM (CRADA) S0-AD",
+    "open": 5,
+    "window": "last 365 days"
+  },
+  "001-24_albatross_irad.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "{001-24] Albatross IRAD ",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "005-1_barbados_vtol_s0_and_training.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[005-1] BARBADOS VTOL S0 and Training ",
+    "open": 4,
+    "window": "last 365 days"
+  },
+  "012-2_erau_vtol_s0.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[012-2] ERAU VTOL S0",
+    "open": 5,
+    "window": "last 365 days"
+  },
+  "012-3_erau_model_s0.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[012-3] ERAU Model S0",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "018-1_murphys_pond_ch4_monitoring.md": {
+    "as_of": "2026-10-23",
+    "completed": 12,
+    "name": "[018-1] Murphy's Pond CH4 Monitoring",
+    "open": 3,
+    "window": "last 365 days"
+  },
+  "031-1_umes_s3.md": {
+    "as_of": "2026-10-23",
+    "completed": 11,
+    "name": "[031-1] UMES S3",
+    "open": 6,
+    "window": "last 365 days"
+  },
+  "032-1_nd_air_deployed_s0s.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[032-1] ND Air Deployed S0s",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "032-3_sasquatch_s0s_x_4.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[032-3] Sasquatch S0s x 4",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "035-1_adonis_unmanned_experts.md": {
+    "as_of": "2026-10-23",
+    "completed": 13,
+    "name": "[035-1] ADONIS Unmanned Experts",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "039-1_refurbished_s2_oklahoma_state.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[039-1] Refurbished S2 Oklahoma State",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "043-1_bylight_professional_it_services.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[043-1] ByLight Professional IT Services",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "043-2_by_light_mustang.md": {
+    "as_of": "2026-10-23",
+    "completed": 32,
+    "name": "[043-2] By Light Mustang",
+    "open": 3,
+    "window": "last 365 days"
+  },
+  "043-3_bylight_m2halo.md": {
+    "as_of": "2026-10-23",
+    "completed": 20,
+    "name": "[043-3] ByLight M2/Halo",
+    "open": 2,
+    "window": "last 365 days"
+  },
+  "044-1_emass_chip_integration.md": {
+    "as_of": "2026-10-23",
+    "completed": 39,
+    "name": "[044-1] EMASS Chip Integration",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "1331_s2_crater_costa_rica.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[1331] S2 CRATER (Costa Rica)",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "200-10_2024-25_aeropod_aren.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[200-10] 2024-25 Aeropod (AREN) ",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "200-11_persistence_demo_nasa.md": {
+    "as_of": "2026-10-23",
+    "completed": 2,
+    "name": "[200-11] Persistence Demo (NASA)",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "200-12_nasa_aren_25.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[200-12] NASA AREN '25",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "200-14_autonomy.md": {
+    "as_of": "2026-10-23",
+    "completed": 38,
+    "name": "[200-14] Autonomy",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "211-1_nasa_ames_mhp_for_s2.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[211-1] NASA Ames MHP for S2",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "212-1_s2_simulator.md": {
+    "as_of": "2026-10-23",
+    "completed": 9,
+    "name": "[212-1] S2 Simulator ",
+    "open": 2,
+    "window": "last 365 days"
+  },
+  "212-2_nasa_s2_parts.md": {
+    "as_of": "2026-10-23",
+    "completed": 19,
+    "name": "[212-2] NASA S2 & Parts",
+    "open": 7,
+    "window": "last 365 days"
+  },
+  "213-1_nasa-chris_meek_langley.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[213-1] NASA-Chris Meek (Langley)",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "300-3_2026_idiq_hurricane.md": {
+    "as_of": "2026-10-23",
+    "completed": 24,
+    "name": "[300-3] 2026 IDIQ (Hurricane)",
+    "open": 24,
+    "window": "last 365 days"
+  },
+  "301-2_sbir_-_hurricane_phase_ii.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[301-2] SBIR - Hurricane Phase II+",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "301-3_s0_hurricane_phase_ii_-_2025.md": {
+    "as_of": "2026-10-23",
+    "completed": 37,
+    "name": "[301-3] S0 Hurricane Phase II - 2025",
+    "open": 21,
+    "window": "last 365 days"
+  },
+  "350-4_2024_usgs_-_chile_mexico.md": {
+    "as_of": "2026-10-23",
+    "completed": 34,
+    "name": "[350-4] 2024 USGS - Chile (Mexico)",
+    "open": 17,
+    "window": "last 365 days"
+  },
+  "400-5_sbir_-_smm_dod_224d_phase_ii.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[400-5] SBIR - SMM DoD 22.4D Phase II",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "451-1_instaar_s3_x_2.md": {
+    "as_of": "2026-10-23",
+    "completed": 1,
+    "name": "[451-1] INSTAAR S3 x 2",
+    "open": 7,
+    "window": "last 365 days"
+  },
+  "452-1_hesselius_e2.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[452-1] Hesselius E2",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "452-2_s2_simulator_used_e2_battery.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "[452-2] S2 Simulator & used E2 Battery",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "550-1_navy_sbir_magnetometer.md": {
+    "as_of": "2026-10-23",
+    "completed": 45,
+    "name": "[550-1] NAVY SBIR: Magnetometer",
+    "open": 2,
+    "window": "last 365 days"
+  },
+  "550-2_navy_sttr_hazardous_weather.md": {
+    "as_of": "2026-10-23",
+    "completed": 28,
+    "name": "[550-2] Navy STTR: Hazardous Weather",
+    "open": 7,
+    "window": "last 365 days"
+  },
+  "600-1_socom_pope.md": {
+    "as_of": "2026-10-23",
+    "completed": 2,
+    "name": "[600-1] SOCOM Pope",
+    "open": 60,
+    "window": "last 365 days"
+  },
+  "commercial_sales.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "Commercial Sales",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "contacts.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "Contacts",
+    "open": 105,
+    "window": "last 365 days"
+  },
+  "eventsconferencespr_opportunities.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "Events/Conferences/PR Opportunities ",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "flight_checklists.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "Flight Checklists",
+    "open": 12,
+    "window": "last 365 days"
+  },
+  "flight_testing.md": {
+    "as_of": "2026-10-23",
+    "completed": 24,
+    "name": "Flight Testing",
+    "open": 10,
+    "window": "last 365 days"
+  },
+  "nate_strauss_previously_assigned_tasks.md": {
+    "as_of": "2026-10-23",
+    "completed": 6,
+    "name": "Nate Straus's previously assigned tasks",
+    "open": 59,
+    "window": "last 365 days"
+  },
+  "paige_smiths_previously_assigned_tasks.md": {
+    "as_of": "2026-10-23",
+    "completed": 5,
+    "name": "Paige Smith's previously assigned tasks",
+    "open": 11,
+    "window": "last 365 days"
+  },
+  "sbir_-_fire_utm_phase_i.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "SBIR - Fire UTM Phase I",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "sbir_-_fire_utm_phase_ii.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "SBIR - Fire UTM Phase II",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "sbir_-_volcano_ccrpp.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "SBIR - Volcano CCRPP",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "view_major_milestones_tasks.md": {
+    "as_of": "2026-10-23",
+    "completed": 21,
+    "name": "View: Major Milestones & Tasks",
+    "open": 5,
+    "window": "last 365 days"
+  },
+  "view_operator_training_flights.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "View: Operator Training / Flights",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "view_shipping.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "View: Shipping",
+    "open": 0,
+    "window": "last 365 days"
+  },
+  "view_shop_pipeline.md": {
+    "as_of": "2026-10-23",
+    "completed": 3,
+    "name": "View: Shop Pipeline",
+    "open": 1,
+    "window": "last 365 days"
+  },
+  "view_weekly_meetings.md": {
+    "as_of": "2026-10-23",
+    "completed": 0,
+    "name": "View: Weekly Meetings",
+    "open": 0,
+    "window": "last 365 days"
+  }
+}

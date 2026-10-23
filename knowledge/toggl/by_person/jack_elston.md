@@ -1,43 +1,58 @@
+_Computed from Toggl as of 2026-10-23: 18001.3 h tracked since 2020-01-01._
+
 # Jack Elston — Time Tracking
 
 ## Summary
-- **Total hours tracked**: 13,978.2 hours (cumulative) — *+56.1h from latest batch*
-- **Primary projects** (top 5 by hours):
-  1. Project None: 7,080.0h
-  2. Project 183171534: 2,110.3h
-  3. [300-3] 2026 IDIQ (Hurricane): 1,581.4h
-  4. [001-13] General Operations: 719.7h
-  5. [001-13] BD Pipeline: 204.2h
-- **Time period**: Extensive historical tracking through current period (latest batch: 56.1 hours)
+- **Total hours tracked:** 18,001.3 hours (all-time since 2020-01-01)
+- **Primary projects (top 5 by hours):**
+  1. Project None: 6,839.2 hours (38.0%)
+  2. Project 183171534: 2,262.2 hours (12.6%)
+  3. [001-13] General Operations: 1,580.4 hours (8.8%)
+  4. [301-2] SBIR - Hurricane Phase II+: 1,348.7 hours (7.5%)
+  5. [301-3] S0 Hurricane Phase II - 2025: 876.7 hours (4.9%)
+- **Time period covered:** January 1, 2020 – present
 
 ## Project Breakdown
-- **Project None**: 7,080.0 hours (50.65% of total) — *Updated: 7,079.5h → 7,080.0h (+0.5h)* | **current batch: Jack/Shelly Weekly Connect (0.5h)**
-- **Project 183171534**: 2,110.3 hours (15.10% of total) — *No change*
-- **[300-3] 2026 IDIQ (Hurricane) (NOAA)**: 1,581.4 hours (11.31% of total) — *Updated: 1,578.9h → 1,581.4h (+2.5h)* | Field operations in Hawaii, flight hours, data processing, deployment planning, S0 QC and tracking work; **current batch: S0 Build Updates and Decision Making (0.5h), Frank at BST (2.0h)**
-- **[001-13] General Operations (Overhead)**: 719.7 hours (5.15% of total) — *Updated: 700.3h → 719.7h (+19.4h)* | Email management, internal meetings, program review, PM support; **current batch: Answering Emails (9.5h: 1.5h + 2.0h + 0.8h + 1.2h + 1.6h + 3.0h entries), Black Swift Weekly Integration Review (2.0h: 1.0h + 1.0h entries), BST Internal Update Meeting (1.0h: 0.5h + 0.5h entries), Program Review (0.2h), Monday Morning All-hands (0.5h), BST PM Support Discussion (0.5h), S0 Meeting (0.5h)**
-- **[001-13] BD Pipeline (Overhead)**: 204.2 hours (1.46% of total) — *Updated: 182.7h → 204.2h (+21.5h)* | Business development and strategic initiatives; **current batch: EAB Meeting (19.8h: 11.8h + 8.0h entries), Chat about S0 (0.8h), Vantor Visit/Brian Argrow (1.0h)**
-- **[001-14] SwiftCore 3.3 (IRAD)**: 37.2 hours (0.27% of total) — *Updated: 27.4h → 37.2h (+9.8h)* | Simulator development and release candidate creation; **current batch: Simulator Development (6.2h: 1.0h + 2.2h + 2.0h + 1.5h entries), SwiftCore 3.3 RC creation (3.0h)**
-- **[001-13] HR General (Overhead)**: 24.6 hours (0.18% of total) — *Updated: 22.6h → 24.6h (+2.0h)* | **current batch: Meeting with Ben (1.0h), Jack's Schedule (Robert Powell) (0.5h), BST Intro w/ Megan (0.5h)**
-- **[001-13] Marketing (Overhead)**: 10.5 hours (0.08% of total) — *Updated: 10.0h → 10.5h (+0.5h)* | **current batch: BST Upcoming Events (0.5h)**
-- **[001-23] SOCOM (CRADA) S0-AD**: 147.6 hours (1.06% of total) — *No change*
-- **[600-1] SOCOM Pope**: 2.5 hours (0.02% of total) — *No change*
-- **[001-08] Flight Testing**: 2.0 hours (0.01% of total) — *No change*
-- **[550-1] Navy SBIR: Magnetometer**: 30.5 hours (0.22% of total) — *No change*
-- **[001-07] S3 IRAD**: 4.0 hours (0.03% of total) — *No change*
-- **[212-2] NASA S2 & Parts**: 4.0 hours (0.03% of total) — *No change*
-- **[550-2] Navy STTR: Hazardous Weather**: 1.6 hours (0.01% of total) — *No change*
-- **Project 154533463**: 357.2 hours (2.56% of total) — *No change*
-- **Commercial Sales**: 187.3 hours (1.34% of total) — *No change*
-- **Remaining projects**: 1,283.2 hours (9.18% of total) — *No change*
+
+| Project | Hours | % of Total | Notes |
+|---------|-------|-----------|-------|
+| Project None | 6,839.2 | 38.0% | Unallocated/untracked time |
+| Project 183171534 | 2,262.2 | 12.6% | Legacy project code |
+| [001-13] General Operations | 1,580.4 | 8.8% | Overhead/internal |
+| [301-2] SBIR - Hurricane Phase II+ | 1,348.7 | 7.5% | NOAA (Joe Cione) |
+| [301-3] S0 Hurricane Phase II - 2025 | 876.7 | 4.9% | NOAA (Joe Cione) |
+| [001-04] S0 VTOL IRAD | 618.3 | 3.4% | Internal R&D |
+| [001-13] Corporate / Strategic Planning | 499.5 | 2.8% | Overhead |
+| [300-3] 2026 IDIQ (Hurricane) | 432.5 | 2.4% | NOAA |
+| Project 154533463 | 357.2 | 2.0% | Legacy project code |
+| [001-13] BD Pipeline | 274.5 | 1.5% | Business development |
+| Commercial Sales | 219.0 | 1.2% | Sales/BD |
+| **All other projects** | **1,843.2** | **10.2%** | 40+ smaller projects |
 
 ## Recent Activity
 
-**Current batch (56.1 hours)** — Significant shift toward BD Pipeline work (EAB meetings dominating) with sustained administrative load and simulator development:
+Jack's recent work (last 100 entries) shows heavy focus on:
 
-- **[001-13] BD Pipeline**: 21.5h (38.33% of batch)
-  - EAB Meeting: 19.8h (11.8h + 8.0h entries)
-  - Chat about S0: 0.8h
-  - Vantor Visit/Brian Argrow: 1.0h
+- **[001-13] General Operations:** Dominant activity—email management, meetings (KrateoSky, Business Operations, Business Strategy), HR issues, internal coordination
+- **[300-3] 2026 IDIQ (Hurricane):** Active operational work including travel to Hawaii, flight operations (13.8h, 13.2h, 10.5h single entries), data processing, S0 tracking, deployment planning
+- **[001-23] SOCOM (CRADA) S0-AD:** Recent demos and travel; GCS debugging, system refurbishment, flight operations (24.5h, 9.5h travel entries)
+- **[001-04] S0 VTOL IRAD:** Firmware debugging and flight testing (5.8h, 6.5h, 5.0h entries)
+- **[001-14] SwiftCore 3.3:** Code refactoring and debugging (5.0h, 3.8h, 2.2h entries)
+- **[001-13] Proposals:** NOAA proposal work and whitepaper reviews
 
-- **[001-13] General Operations**: 19.4h (34.58% of batch)
-  - Answering Emails: 9.5h (1.5h + 2.0h + 0.8h + 1.2h + 1.6h + 
+**Common time entry patterns:** Large blocks of "Answering Emails" (2–7h entries frequent); travel and field operations logged in substantial chunks (10–25h days); technical debugging/flight testing in 2–6h increments.
+
+## Patterns
+
+**Primary focus areas:**
+- **Hurricane research operations:** ~3,600 hours across NOAA hurricane projects ([301-2], [301-3], [300-3])—core business area
+- **Internal operations & overhead:** ~2,350 hours in [001-13] General Operations and strategic planning—significant management/coordination burden
+- **VTOL systems development:** ~620 hours on S0 VTOL IRAD with active firmware/flight testing
+- **Government R&D (IRAD/SBIR):** Scattered across multiple internal and DoD initiatives (~1,000+ hours total)
+
+**Shifts observed:**
+- Recently elevated activity in operational/field work (Hawaii deployments, SOCOM demos) vs. pure development
+- Email/administrative load appears consistently high in recent periods
+- Transition between project focus suggests Jack acts as both technical contributor and operational lead on critical programs
+
+**Notable:** Nearly 40% of tracked time is "Project None" (unallocated), suggesting either significant unbilled/overhead work or time entry gaps that may warrant review.

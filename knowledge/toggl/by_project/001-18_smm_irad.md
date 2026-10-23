@@ -1,25 +1,25 @@
+_Computed from Toggl as of 2026-10-23: 119.3 h total since 2020-01-01 — Ethan Domagala 107.3 h, Stachura 10.9 h, Jack Elston 1.0 h._
+
 # [001-18] SMM IRAD — Time Tracking
 
 ## Overview
-- Client: Internal (IRAD)
-- Active/Inactive status: Active
-- Billable status: No
-- Total hours tracked: 6.0 hours (cumulative)
+- **Client:** Internal (IRAD - Internal Research and Development)
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 119.3 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- Ethan Domagala: 6.0 hours (primary/sole contributor)
+- **Ethan Domagala:** 107.3 hours (90.0%)
+- **Stachura:** 10.9 hours (9.1%)
+- **Jack Elston:** 1.0 hour (0.8%)
+
+**Primary Contributor:** Ethan Domagala
 
 ## Activity Timeline
-- **New Antenna Design** — Ethan Domagala, 2.0 hours
-- **OMS E2 SMM Drop off** — Ethan Domagala, 1.0 hour
-- **OMS E2 SMM Configure** — Ethan Domagala, 1.0 hour
-- Additional entry: 2.0 hours (previous batch, same task)
+No recent work entry descriptions provided in source data. Historical tracking spans from January 2020 to present.
 
 ## Insights
-- Work focus: Multi-faceted antenna/SMM development
-  - Hardware design (antenna design)
-  - OMS E2 system integration (drop-off configuration and setup)
-- Team composition: Solo contributor; all tracked work by Ethan Domagala
-- IRAD classification indicates internal research and development initiative with no client billing
-- Work pattern: Mix of design and configuration/integration tasks suggests development of antenna system with OMS E2 platform integration
-- Tracking shows progressive advancement from design phase into system integration and configuration
+- This is a long-running internal R&D initiative with consistent engagement over multiple years
+- Work is heavily concentrated with one team member (Ethan Domagala), suggesting either specialized ownership or a focused individual contributor role
+- Minimal involvement from secondary team members indicates this may be specialized research or development work
+- As an internal project (non-billable), this represents investment in BST's innovation or capability development

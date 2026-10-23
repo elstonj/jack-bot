@@ -1,65 +1,47 @@
+_Asana snapshot as of 2026-10-23: 14 open tasks, 0 completed (last 365 days)._
+
 # [001-11] Methane Emission Detection IRAD
 
 ## Overview
-- **Client/Customer:** Internal R&D project (IRAD), with pilot testing at PDCE facility and active engagement with Crowheart Energy
-- **Dollar Value:** Targeting $1M investment
-- **Timeline:** Project started early 2023; Annual Report 2024 completed September 6, 2024; Annual Report 2025 due September 1, 2025
-- **Status:** 🚨 **ACTIVE but STRATEGIC SCOPE UNDER IMMEDIATE REVIEW.** Per Maciej Stachura (July 27–28, 2026): KS Tech Sync discussion raising critical question: **"Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026?"** Ariel Stachura "wants to push methane quickly," but final decision outcome of July 28, 2026 meeting **unknown — treat as PENDING.** Project demonstrably active through field testing, customer engagement, and IP portfolio restructuring discussions. **Asana data severely stale (last meaningful snapshot Nov 28, 2023); do not rely on task list for current status.**
-- **Team Members:** Maciej Stachura (owner/PM, strategic decisions), Jack Elston (flight testing, patents), Josh Fromm, Nate Straus (calibration), Ariel Stachura (driving acceleration decision), whole BST team
-- **Risk Signals:**
-  - 🚨 **CRITICAL:** Portfolio-level strategic decision pending post-July 28, 2026 KS Tech Sync. Methane project inclusion in Q4 2026 actively questioned by leadership. Outcome unknown — potential major scope change, delay, or acceleration.
-  - 🚨 **CRITICAL:** Asana snapshot essentially empty (0 open tasks, 1 completed from Dec 2022); last meaningful update Nov 28, 2023. Project clearly active through Sept 2024 and July 2026 but **tracking system invisible or external.** Confirm actual project management system with Maciej Stachura immediately.
-  - 🚨 **CRITICAL:** Annual Report 2025 (due Sept 1, 2025) — no current task visible; status unknown.
-  - Patent work (Jack Elston) — no current deadline visibility.
-  - Crowheart Energy MVP demo "ready to schedule" (Feb 2024 status) — no update on execution or revenue unlocking.
-  - Project marked "Low" priority in Asana despite $1M revenue potential and active leadership engagement.
+- **Client/Customer**: Oil & Gas industry (prospect contacts: Oxy, Country Mark, DCP, PDCE, Crowheart; warm intros from HRM Resources)
+- **Dollar Value**: $1M investment target; first revenues tied to product pilot (MVP demos)
+- **Timeline**: Annual Report due Sept 1, 2025; no other fixed milestones visible
+- **Status**: Active IRAD (Internal Research & Development); low priority; early-stage commercialization phase
+- **Owner**: Maciej Stachura
+- **Team**: Jack Elston (patent, flight testing); whole BST team
+- **Risk Signals**: 
+  - All 14 tasks open, none completed (as of Nov 28, 2023 status update)
+  - Most tasks unassigned despite being critical (investment close, customer outreach, pilot launch)
+  - No due dates on high-impact tasks (patent, $1M investment close, product pilot)
+  - Long gap to next hard deadline (Annual Report Sept 1, 2025)
 
 ## Key Deliverables & Milestones
-- **Delta Brick and Climate Coal Mine Survey** — ✅ Completed November 13, 2023
-- **PDCE Ridge Test** — ✅ Completed November 13, 2023
-- **Annual Report 2024** — ✅ Completed September 6, 2024
-- **Annual Report 2025** — ⏳ Due September 1, 2025 *(unassigned; status unknown)*
-- **Product Pilot / First Revenues (PDCE & Crowheart MVP)** — Open; MSA executed Feb 2024, vendor onboarded; MVP demo ready to schedule
-- **Close $1M Investment** — Open; contingent on field release testing and customer pilot results
-- **Patent Applications** — In progress (Jack Elston, Messner, Scott Hawranek); draft, high-level pass, formal application — all lack assigned deadlines
+- **Patent applications** — Jack Elston coordinating with Messner/Scott Hawranek; drafting and first-pass high-level patent in progress
+- **Product pilot (MVP)** — First PDCE and/or Crowheart demo; triggers first revenues
+- **Flight testing campaign** — Gather stable baseline data, test altitude variations, map methane spikes
+- **$1M investment close** — Contingent on customer interest and pilot results
+- **Annual Report** — Due Sept 1, 2025
 
 ## Task Summary
-- **Asana Data:** 0 open tasks, 1 completed (Unassigned milestone, Dec 16, 2022, due Jan 31, 2023 — completed Dec 29, 2022)
-- **Most Recent Completed Task:** Meeting with PDC (Unassigned, due Jan 27, 2023)
-- **Visibility:** Near-zero task visibility in Asana as of Nov 28, 2023 snapshot; project clearly active external to visible task list
-- **Assignment Patterns:** Historical tasks largely unassigned in Asana; known active work assigned to Jack Elston (patents, flight testing), Nate Straus (calibration); majority of commercialization work unassigned
-- **Note:** Asana snapshot does not reflect documented Sept 2024 Annual Report completion, Feb 2024 vendor onboarding, or July 2026 strategic discussions — **strong evidence of external tracking or project management system shift**
+- **Total**: 14 open, 0 completed
+- **By Assignee**:
+  - Jack Elston: 3 tasks (patent application, first-pass patent, flight testing)
+  - Unassigned: 11 tasks (investment follow-up, customer outreach, pilot launch, annual report)
+- **Notable Pattern**: Heavy unassignment on high-value commercial tasks (investor outreach, customer demos, investment close); patent and technical work assigned to Elston
 
 ## Recent Activity
-- **July 27–28, 2026 (TEAM FEEDBACK — AUTHORITATIVE):** Maciej Stachura proposing strategic IP portfolio restructuring for KS Tech Sync meeting (July 28, 2026):
-  - Proposed moves: Cancel S3 Europe wing reduction; realign S3 Hybrid, S0/S0-VTOL ISR, S3 de-ice, S3 Salt Spray to align with UK demo and Whitehorse demo
-  - **CRITICAL QUESTION RAISED:** *"Do we want to keep S3 Methane, S3 Visual, and S3 comms in Q4 2026?"*
-  - Maciej notes: "I think Ariel wants to push methane quickly, but we'll see what he says tomorrow" (July 28 outcome unknown)
-  - **Implication:** Portfolio-level review actively questioning methane project timing and scope; final decision outcome determines whether methane is retained, delayed, or accelerated in Q4 2026
-  - No post-sync follow-up documented yet
-- **September 2024:** Annual Report 2024 completed (Sept 6, 2024)
-- **February 2024:** Crowheart Energy vendor onboarded; MVP demo ready to schedule (status of actual demo execution unknown)
-- **November 28, 2023:** Last Asana snapshot; field testing, customer engagement, and patent work post-this date not visible in Asana
+**Status as of Nov 28, 2023**: Green status reported; no overdue milestones or tasks logged in Asana. However, project shows 14 open tasks with no completion history, suggesting tracking may not be current or tasks remain in early scoping.
+
+**Key upcoming activities** (inferred from task notes):
+- Flight testing with baseline data collection (Elston)
+- Customer pilot demos (PDCE, Crowheart) to establish MVP and revenue
+- Patent applications filing (Elston + legal team)
+- HRM Resources outreach (investment interest, customer warm intros)
+- Annual report filing by Sept 1, 2025
 
 ## Notes & Context
-- **Technical Status:** Methane detection service validated through field testing; flight testing ongoing; ready for customer pilots and field release validation
-- **Business Development Status:**
-  - **Crowheart Energy (WARM LEAD):** MSA executed, vendor onboarded Feb 2024, **MVP demo ready to schedule — immediate customer validation pending**
-  - **Oil & Gas Outreach:** Pending (Oxy, Country Mark, DCP)
-  - **Investment Path:** $1M close depends on successful field release testing and customer pilot results
-- **Patent Risk:** Jack Elston-owned work — no current deadline visibility; represents IP protection risk
-- **Priority:** Low (Asana custom field) — conflicts with high-dollar value and active leadership acceleration interest
-- **⚠️ STRATEGIC CONTEXT:** July 27–28, 2026 feedback indicates portfolio-level review. Maciej explicitly raising question of S3 Methane Q4 2026 inclusion. Ariel Stachura preference to "push methane quickly" noted, but **outcome of July 28 KS Tech Sync meeting determines final direction.** This represents potential major scope change, acceleration, or delay. **Treat as PENDING decision.**
-- **Project Description (from Asana):** Development of a service for methane emission detection and measurement.
-
-## Immediate Actions Required
-1. **URGENT — Confirm Strategic Decision Outcome:** Contact Maciej Stachura or Ariel Stachura:
-   - What was the decision on S3 Methane Q4 2026 inclusion (from July 28 KS Tech Sync)?
-   - If retained: What is acceleration/priority level for field release and customer pilots?
-   - If removed/delayed: What is revised timeline and resource plan?
-2. **URGENT — Clarify Project Tracking System:** Ask Maciej Stachura:
-   - Is methane project still tracked in Asana, or has tracking moved external?
-   - Why is Asana stale (last update Nov 28, 2023) when project is demonstrably active?
-3. **Assign Annual Report 2025:** Identify owner and establish current progress toward Sept 1, 2025 deadline
-4. **Unblock Crowheart MVP Demo:** Confirm status of MVP demo execution (ready to schedule since Feb 2024)
-5. **Patent Deadlines:** Establish formalized deadlines for draft, high-level pass, and formal application tasks (Jack Elston ownership)
+- **Patent Strategy**: Multi-application approach; first drafts underway; Jack Elston is point person
+- **Commercialization Path**: Customer pilots (PDCE/Crowheart) → first revenues → anchor customer validation (Oxy, Country Mark, DCP) → investor close ($1M)
+- **Technical Readiness**: Gas Alert Micro Clip XL calibration on hold pending methane test scheduling; flight testing campaign ready to launch once baseline data strategy finalized
+- **Investor Landscape**: Targeting HRM Resources (Roger Hutson, Dan Kelly) and high-net-worth O&G contacts; warm intros being leveraged
+- **Custom Field**: Priority marked **Low** — unusual given commercial timeline and investment target; may reflect internal resource constraints or phased roadmap

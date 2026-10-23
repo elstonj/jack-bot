@@ -1,38 +1,37 @@
+_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+
 # [032-1] ND Air Deployed S0s
 
 ## Overview
-- **Client:** University of Notre Dame (David Richter, david.R.Richter.26@nd.edu, 574-631-4839)
-- **Billing Contact:** PaymentWorks
-- **Dollar Value:** $38,000
-- **Timeline:** 
-  - PO received: 02/07/25 (P2154937)
-  - Original due date: 2025-01-31
-  - Delivery target: July–October 2025 (Hurricane season)
-  - Actual completion: 10/13/25
-- **Status:** **ARCHIVED/COMPLETE** (marked complete 10/21/25)
-- **Team:** Josh Fromm (primary), Maciej Stachura, Jack Elston, Alex Lomis
-- **Shipment destination:** Jun Zhang
+- **Client:** University of Notre Dame (David Richter, Primary Contact)
+- **Dollar value:** $38,000
+- **Timeline:** Original due date 2025-01-31 (archived); Hurricane season target July–October annually
+- **Status:** **ARCHIVED & COMPLETE** (marked complete Oct 21, per status update)
+- **Team:** Black Swift Technologies (whole team)
+- **Key contacts:**
+  - David Richter (Primary POC): David.R.Richter.26@nd.edu, 574-631-4839
+  - PaymentWorks (Billing)
+  - Jun Zhang (Shipment recipient)
 
 ## Key Deliverables & Milestones
-- **Notre Dame S0-AD x2** — 2 air-deployed S0s | Due: 07/31/25 | Completed: 10/13/25
-  - Training/travel required: 2 people, 4 days to Tampa (scheduling needed)
-- **Future coordination:** Client plans to purchase 2 additional S0s in 2026 and 2027, coordinated with Cione, Wadler, and Zhang
+- **2025:** 2 S0 units for Hurricane season (July–Oct target)
+  - PO received: P2154937 (02/07/25)
+  - Invoice 1643 submitted (02/07/25)
+  - Estimate 1349: $38,000 (updated 02/04/25 for 2 units)
+- **Future:** 2 additional S0 units in 2026 and 2027 (coordination pending with Cione, Wadler, Zhang)
 
 ## Task Summary
-- **Total tasks:** 3 (1 open, 2 completed)
-- **Assignee:** Josh Fromm (2 completed tasks)
-- **Open task:** David Richter contact info task (unassigned, no due date)
-- **Completion rate:** 67% (2 of 3 completed)
+- **Total tasks:** 1 open (unassigned contact task for David Richter); 0 completed in Asana
+- **Note:** Project archived; open task appears to be a stale contact record
 
 ## Recent Activity
-- 02/07/25: PO P2154937 received; Invoice 1643 sent
-- 02/04/25: Updated estimate provided (Estimate 1349) for 2 S0s at $38k
-- 10/13/25: Both S0 delivery tasks completed (ahead of original 01/31/25 due date, within hurricane season window)
-- 10/21/25: Project marked complete
+- **02/07/25:** PO P2154937 received; Invoice 1643 sent
+- **02/04/25:** Updated estimate (1349) provided for 2-unit configuration at $38,000
+- **Project closed:** Marked complete Oct 21 (year not specified, but consistent with 2025 Hurricane season delivery goal)
 
 ## Notes & Context
-- **Project Status:** This project is archived; the 2025 delivery is complete.
-- **Future pipeline:** Client has expressed intent to purchase 2 S0s in 2026 and another 2 in 2027, with coordination from internal team (Cione, Wadler, Zhang).
-- **Training/logistics:** Training trip to Tampa for 2 staff members (4 days) was required but scheduling status unclear from archive.
-- **Product:** S0 air-deployed platforms
-- **Customer type:** Commercial (University research)
+- **Status clarity:** Project is archived and marked complete. The original due date (2025-01-31) was superseded by the actual timeline (Hurricane season delivery July–Oct 2025).
+- **Multi-year commitment:** Notre Dame anticipates repeat purchases in 2026 and 2027; coordination with Cione, Wadler, and Zhang will be required for future tranches.
+- **Customer type:** Commercial (university research/operational use).
+- **Product:** S0 (atmospheric measurement system).
+- **Shipping:** Units destined for Jun Zhang at Notre Dame (120A Cushing Hall of Engineering).

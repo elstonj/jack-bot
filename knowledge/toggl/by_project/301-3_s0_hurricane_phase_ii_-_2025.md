@@ -1,29 +1,32 @@
+_Computed from Toggl as of 2026-10-23: 4310.1 h total since 2020-01-01 — Josh Fromm 1155.8 h, Jack Elston 876.7 h, Nate 514.8 h, Sam Hild 483.9 h, Stachura 299.9 h, Alex 266.7 h, Alec Mallinger 244.9 h, Ethan Domagala 240.4 h, Dan 202.8 h, Austin Vera 15.8 h, Beck Cotter 8.5 h._
+
 # [301-3] S0 Hurricane Phase II - 2025 — Time Tracking
 
 ## Overview
 - **Client:** [301] NOAA: Joe Cione
-- **Status:** Active
+- **Status:** Inactive
 - **Billable:** No
-- **Total Hours Tracked:** 51.6 hours
+- **Total Hours Tracked:** 4,310.1 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- **Alex:** 46.0 hours (89.1%)
-- **Sam Hild:** 2.7 hours (5.2%)
-- **Dan:** 1.5 hours (2.9%)
-- **Jack Elston:** 1.5 hours (2.9%)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Josh Fromm | 1,155.8 | 26.8% |
+| Jack Elston | 876.7 | 20.3% |
+| Nate | 514.8 | 11.9% |
+| Sam Hild | 483.9 | 11.2% |
+| Stachura | 299.9 | 7.0% |
+| Alex | 266.7 | 6.2% |
+| Alec Mallinger | 244.9 | 5.7% |
+| Ethan Domagala | 240.4 | 5.6% |
+| Dan | 202.8 | 4.7% |
+| Austin Vera | 15.8 | 0.4% |
+| Beck Cotter | 8.5 | 0.2% |
 
-**Primary Contributor:** Alex
+**Primary Contributor:** Josh Fromm (1,155.8 hours, 26.8% of total effort)
 
-## Activity Timeline
-- **Sam Hild:** 2.7 hours - Hurricane QC Prep
-- **Alex:** 46.0 hours across 6 entries with no descriptions provided
-- **Dan:** 1.5 hours - Recent entry (no description provided)
-- **Jack Elston:** 1.5 hours - S3 meeting
-
-**Note:** The majority of tracked time (42.5 of 51.6 hours) lacks entry descriptions, limiting visibility into specific work performed.
-
-## Insights
-- **Work Types:** Limited data available. Documented work includes QC preparation (Sam Hild) and S3 meeting attendance (Jack Elston). Dan's contribution type remains undocumented.
-- **Team Expansion:** Jack Elston has recently joined time tracking for this project, joining Dan as new contributors. Both represent 2.9% each of total hours.
-- **Allocation Pattern:** Project remains heavily dependent on Alex's contributions (89.1%), with Sam providing quality control support and Jack/Dan contributing additional capacity through meetings and undocumented work.
-- **Documentation Gap:** 82.5% of tracked time entries (42.5 hours) have no descriptions. Recommend implementing consistent time entry documentation to improve project visibility and future reporting.
+## Key Notes
+- This is a multi-year project spanning 5+ years with substantial accumulated effort
+- Core team of ~9 regular contributors, with 2 minimal contributors (Austin Vera, Beck Cotter)
+- No current activity (project marked inactive)
+- Project is non-billable, indicating internal/research work for NOAA Hurricane research

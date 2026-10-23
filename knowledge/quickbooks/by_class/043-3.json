@@ -4,13 +4,15 @@
     "[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2026-10-12",
-    "end": "2026-10-14"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
-    "revenue": 63735.0,
-    "expenses": 0.0,
-    "by_category": {}
+    "revenue": 189523.0,
+    "expenses": 6304.42,
+    "by_category": {
+      "DIRECT COSTS:DC-Direct Material Purchases": 6304.42
+    }
   },
   "invoices": [
     {
@@ -35,10 +37,711 @@
           "description": ""
         }
       ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-05-13",
+      "doc_number": "1754",
+      "total": 47894.0,
+      "attributed": 47894.0,
+      "vendor": "",
+      "customer": "[043-3] By Light Halo",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 47894.0,
+          "account": "",
+          "description": "Design tested Halo airframe and CAD step files."
+        },
+        {
+          "amount": 47894.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-04-08",
+      "doc_number": "1753",
+      "total": 15000.0,
+      "attributed": 15000.0,
+      "vendor": "",
+      "customer": "[043-3] By Light Halo",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15000.0,
+          "account": "",
+          "description": "$15,000 due upon signing of contract for purchase of two (2) Chilli Double Carbon Wing and Tailsets and Actuator Boards, and ADS-B for HALO 2x platform build."
+        },
+        {
+          "amount": 15000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
     }
   ],
   "bills": [],
-  "purchases": [],
+  "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-09-10",
+      "doc_number": "0910JELSTON",
+      "total": 29.29,
+      "attributed": 29.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 29.29,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-27",
+      "doc_number": "0827JELSTON",
+      "total": 110.42,
+      "attributed": 83.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 26.87,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        },
+        {
+          "amount": 83.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-25",
+      "doc_number": "0825JELSTON",
+      "total": 26.38,
+      "attributed": 26.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 26.38,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Torsion Spring"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-19",
+      "doc_number": "0818JELSTON",
+      "total": 129.95,
+      "attributed": 7.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase and listed project under items. First two items are listed, remaining items are shop supplies (confirmed by J. Fromm)",
+      "lines": [
+        {
+          "amount": 1.14,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Chemical-Resistant Slippery PTFE Rod 3/16\""
+        },
+        {
+          "amount": 7.85,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw"
+        },
+        {
+          "amount": 120.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Stainless Steel Pan Head Phillips Screw; 18-8 Brass Industrial Quick-Disconnect Hose Coupling"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-08",
+      "doc_number": "",
+      "total": 130.49,
+      "attributed": 130.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 130.49,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Fastners"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-05",
+      "doc_number": "",
+      "total": 345.09,
+      "attributed": 345.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4617",
+      "lines": [
+        {
+          "amount": 345.09,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Distance Sensor Modules"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "40026106",
+      "total": 376.82,
+      "attributed": 376.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 376.82,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Distance Sensor Modules - Enclosed SF20/C 100 m Rangefinder OEM Module"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-17",
+      "doc_number": "",
+      "total": 297.92,
+      "attributed": 109.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 109.56,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "MCMASTER-CARR - 4617"
+        },
+        {
+          "amount": 34.04,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 86.36,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "MCMASTER-CARR - 4617"
+        },
+        {
+          "amount": 6.23,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "MCMASTER-CARR - 4617"
+        },
+        {
+          "amount": 61.73,
+          "account": "Inventory Asset",
+          "description": "future S0 VTOL sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-07",
+      "doc_number": "",
+      "total": 296.47,
+      "attributed": 15.52,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 15.52,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 49.38,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 222.21,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 9.36,
+          "account": "Inventory Asset",
+          "description": "future s3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-07",
+      "doc_number": "0707JELSTON",
+      "total": 64.4,
+      "attributed": 64.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 64.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "0706JELSTON",
+      "total": 381.6,
+      "attributed": 31.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Items were incorrectly entered as ByLight, but the majority were shop supplies.",
+      "lines": [
+        {
+          "amount": 349.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 31.8,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "69738",
+      "total": 3750.77,
+      "attributed": 221.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 221.12,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 3529.65,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-02",
+      "doc_number": "",
+      "total": 89.75,
+      "attributed": 89.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 89.75,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-02",
+      "doc_number": "",
+      "total": 25.86,
+      "attributed": 25.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 25.86,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-26",
+      "doc_number": "",
+      "total": 207.29,
+      "attributed": 2.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - project is listed under each item purchased",
+      "lines": [
+        {
+          "amount": 20.94,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop supplies"
+        },
+        {
+          "amount": 2.58,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light supplies"
+        },
+        {
+          "amount": 183.77,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Magnetometer supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-25",
+      "doc_number": "",
+      "total": 215.97,
+      "attributed": 215.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HITEC RCD USA INC - 7333",
+      "lines": [
+        {
+          "amount": 215.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "HITEC RCD USA INC - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "",
+      "total": 581.45,
+      "attributed": 309.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 271.64,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S0 Launcher & parts"
+        },
+        {
+          "amount": 309.81,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "parts for ByLight"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "0513JELSTON",
+      "total": 366.29,
+      "attributed": 48.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 206.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For IDIQ 2026"
+        },
+        {
+          "amount": 90.17,
+          "account": "Inventory Asset",
+          "description": "Future S3 Sales"
+        },
+        {
+          "amount": 48.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For By Light"
+        },
+        {
+          "amount": 21.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-07",
+      "doc_number": "174005",
+      "total": 305.2,
+      "attributed": 305.2,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "purchase delayed - new invoice confirming purchase attached",
+      "lines": [
+        {
+          "amount": 305.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Braided Carbon Fiber Hexagonal Tubing ~ 0.75\" ID x 48\"\nSKU: FDPBT-H*.75x48G"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-29",
+      "doc_number": "64090547",
+      "total": 179.64,
+      "attributed": 112.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 66.71,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S3 items"
+        },
+        {
+          "amount": 112.93,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light items"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-25",
+      "doc_number": "",
+      "total": 779.09,
+      "attributed": 779.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order changed because Chili on 2 month backorder. Website wasn't working, so I made order via phone.",
+      "lines": [
+        {
+          "amount": 779.09,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "HV6130 Servos x 8; 6125-Servo frame for MKS HV6130 pr. Wood"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-20",
+      "doc_number": "68231",
+      "total": 355.06,
+      "attributed": 355.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 355.06,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Propulsion_-_Actuator_Tray.step; Propulsion-Motor-Mount.step, etc."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-20",
+      "doc_number": "KDE17135",
+      "total": 780.0,
+      "attributed": 780.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 780.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "KDE4215XF-465 Brushless Motor for Heavy-Lift Electric Multi-Rotor x 4"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "420240",
+      "total": 225.62,
+      "attributed": 225.62,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 225.62,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "TBS Lucid 90A 3-12S AM32 ESC x 4"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "S834G264",
+      "total": 125.93,
+      "attributed": 125.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 125.93,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "M2_Battery_Assembly___I_Bus_Bar.step; M2_Battery_Assembly_____Terminal.step; M2_Battery_Assembly_____Termi; M2_Battery_Assembly___Z_Bus_\nBar.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-17",
+      "doc_number": "68200",
+      "total": 849.29,
+      "attributed": 849.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 849.29,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "M2-Battery-Assembly-Battery-Casing.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-09",
+      "doc_number": "237604",
+      "total": 74.85,
+      "attributed": 74.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 74.85,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Aeronaut Yoke for Turbo and Black 2-Blade Spinners x 6"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-04-09",
+      "doc_number": "17274",
+      "total": 234.95,
+      "attributed": 234.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SOARING USA INC - 4699",
+      "lines": [
+        {
+          "amount": 234.95,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "GM 17x13 Prop x 5"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-19",
+      "doc_number": "",
+      "total": 327.59,
+      "attributed": 327.59,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No purchase request because handled directly.",
+      "lines": [
+        {
+          "amount": 327.59,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Painted aircraft tube"
+        }
+      ]
+    }
+  ],
   "purchase_orders": [],
-  "payments": []
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-05-29",
+      "doc_number": "",
+      "total": 47894.0,
+      "attributed": 47894.0,
+      "vendor": "",
+      "customer": "[043-3] By Light Halo",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 47894.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-05-08",
+      "doc_number": "",
+      "total": 15000.0,
+      "attributed": 15000.0,
+      "vendor": "",
+      "customer": "[043-3] By Light Halo",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

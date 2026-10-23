@@ -1,27 +1,41 @@
+_Computed from Toggl as of 2026-10-23: 3934.0 h tracked since 2020-01-01._
+
 # Beck Cotter — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 1,086.7 hours (was 1,070.7h; +16.0h)
-- **Primary projects:** General Operations (671.8h), Proposals (305.4h), Sick Leave (70.5h), PTO (56.0h)
-- **Time period covered:** Ongoing tracking with sustained operational focus; active work pattern established
+- **Total hours tracked:** 3,934.0 hours (all-time since 2020-01-01)
+- **Primary projects:** 
+  1. Proposals (IRAD) — 2,455.8 hours
+  2. General Operations (Overhead) — 915.0 hours
+  3. BD Pipeline (Overhead) — 154.4 hours
+- **Time period:** January 2020 to present
 
 ## Project Breakdown
-| Project | Hours | Percentage | Client |
+
+| Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| [001-13] General Operations | 671.8 | 61.8% | Overhead |
-| [001-13] Proposals | 305.4 | 28.1% | [001] IRAD |
-| [001-21] Sick Leave | 70.5 | 6.5% | — |
-| [001-20] PTO | 56.0 | 5.2% | — |
+| [001-13] Proposals | 2,455.8 | 62.4% | [001] IRAD |
+| [001-13] General Operations | 915.0 | 23.3% | Overhead |
+| [001-13] BD Pipeline | 154.4 | 3.9% | Overhead |
+| [001-20] PTO | 115.7 | 2.9% | — |
+| [001-21] Sick Leave | 74.0 | 1.9% | — |
+| [550-2] Navy STTR: Hazardous Weather | 49.1 | 1.2% | Navy |
+| [550-1] Navy SBIR: Magnetometer | 55.7 | 1.4% | Navy |
+| [301-3] S0 Hurricane Phase II - 2025 | 8.5 | 0.2% | [301] NOAA |
+| Other projects | 106.8 | 2.7% | Various |
 
 ## Recent Activity
-- **Latest batch:** 16.0h General Operations (2 entries)—two consecutive 8.0h full-day blocks, both tagged "various operations" with no detailed descriptions
-- **Consistent operational tempo:** Daily 8.0h logging pattern continues post-PTO
-- **Operational dominance sustained:** All new time allocated to General Operations
+- **Primary focus:** General Operations and Proposals work, predominantly on IRAD and overhead activities
+- **Recent descriptions:** 
+  - NOAA work mentioned in several recent entries (NOAA IDIQ, NOAA general)
+  - "Various ops" / "various operations" appear frequently in most recent entries
+  - Most entries lack detailed descriptions (undocumented work)
+- **Time off:** Recent PTO block noted including Labor Day holiday
+- **Work pattern:** Consistent 8-hour days with occasional 4-hour, 6-hour, and 7.5-hour entries
 
 ## Patterns
-- **General Operations trajectory:** Steady increase (655.8h → 671.8h over two batches; +16.0h total)
-- **Proposals stable:** Unchanged at 305.4h (28.1%), maintaining consistent engagement level
-- **Active work split (excluding leave):** General Operations / Proposals = 69% / 31%
-- **Consistent daily logging:** Continuing predictable 8.0h block pattern for full-day entries
-- **Minimal description detail:** Recent entries use generic "various operations" tag; suggests either routine/recurring work or batch logging practice
-- **No PTO or sick leave:** Full operational engagement resumed with no time-off entries in this batch
+- **Core responsibilities:** Beck's time is dominated by internal proposals and general operations (86% combined), indicating a primarily overhead/administrative role supporting business development and company operations
+- **Secondary engagement:** Limited direct project work; Navy SBIR/STTR and NOAA work represent ~2.8% of total time
+- **Documentation:** Minimal task descriptions in recent entries; most entries undocumented beyond project code
+- **Consistency:** Stable, full-time work pattern with regular 8-hour days; PTO taken periodically
+- **Focus shift:** Recent entries show concentration on NOAA-related work within General Operations context

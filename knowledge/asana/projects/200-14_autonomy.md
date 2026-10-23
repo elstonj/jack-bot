@@ -1,78 +1,85 @@
+_Asana snapshot as of 2026-10-23: 0 open tasks, 38 completed (last 365 days)._
+
 # [200-14] Autonomy
 
 ## Overview
-- **Client/Customer**: NASA
-- **Dollar Value**: $156,211 (full amount to BST)
-- **Timeline**: March 27, 2026 (start and due date); Project archived April 16, 2026
-- **Status**: **ARCHIVED** - All work completed. Final administrative tasks closed April 16, 2026
-- **Team Members**: Dan Prendergast (Owner), Jack Elston, Maciej Stachura, Ben Busby, Meredith O'hara Needham
-- **Contacts**: 
-  - Technical: Jinu Idicula (661-276-2892, jinu.t.idicula@nasa.gov)
-  - Billing: James Hibbs (James.s.hibbs@nasa.gov)
-- **Risk Signals**: None - project completed successfully with all deliverables and payments received on schedule
+- **Client/Customer:** NASA
+- **Contact:** Jinu Idicula (Technical POC, 661-276-2892, jinu.t.idicula@nasa.gov); James Hibbs (Billing POC)
+- **Dollar Value:** $156,211 total funding to Black Swift
+- **Timeline:** Start 2026-03-27 | Due 2026-03-27 | Project completed 2026-04-16
+- **Status:** **ARCHIVED & COMPLETE** (Final payment received 2026-04-16; project closed 2026-04-16)
+- **Team Members:** Dan Prendergast (Owner), Jack Elston, Maciej Stachura, Ben Busby, Meredith O'hara Needham
+- **Priority:** Medium
+- **Customer Type:** Government
 
 ## Key Deliverables & Milestones
-- **CLIN 001**: Initial Milestone & Invoice ($50,000) - Due Sept 30, 2025 ✅
-- **CLIN 002**: IT Security Management Plan - Due Oct 29, 2025 ✅
-- **Milestone 1**: Layered Architecture Definition and Messaging Protocol Specification - Due Oct 29, 2025 ✅
-- **Milestone 2**: SwiftCore System Adaptation and Update - Due Nov 28, 2025 ✅  
-- **CLIN 003**: Interim Demonstration Report & Invoice ($50,000) - Due Dec 30, 2025 ✅
-- **Milestone 3**: Safe Sandbox Development - Due Dec 30, 2025 ✅
-- **Milestone 4**: ML-Enabled Control Loop Tuning - Due Mar 27, 2026 ✅
-- **CLIN 004**: Final Report & Invoice ($49,711) - Due Mar 27, 2026 ✅
-- **CLIN 005**: Technical and Business Assistance Report (TABA) & Invoice ($6,500) - Due Mar 27, 2026 ✅
+
+| Milestone | Due Date | Completion Date | Status |
+|-----------|----------|-----------------|--------|
+| **Milestone 1:** Layered Architecture Definition and Messaging Protocol Specification | 2025-10-29 | 2026-04-03 | ✅ Complete |
+| **Milestone 2:** SwiftCore System Adaptation and Update | 2025-11-28 | 2026-04-03 | ✅ Complete |
+| **Milestone 3:** Safe Sandbox Development | 2025-12-30 | 2026-04-03 | ✅ Complete |
+| **Milestone 4:** ML-Enabled Control Loop Tuning | 2026-03-27 | 2026-04-03 | ✅ Complete |
+
+### Financial Deliverables (CLINs)
+- **CLIN 002:** IT Security Management Plan ($0) — Completed 2025-10-30
+- **CLIN 003:** Interim Demonstration Report + Invoice ($50,000) — Completed 2025-12-30
+- **CLIN 004:** Final Report + Invoice ($49,711) — Completed 2026-03-27
+- **CLIN 005:** Technical and Business Assistance Report (TABA) + Invoice ($6,500) — Completed 2026-03-26
+
+**Total invoiced:** $106,211
+
+### Technical Deliverables
+- UML documentation of layers and message definitions
+- SwiftCore 4.0 SBC Development
+- SwiftCore 4.0 RTOS Autopilot board development
+- ML module for terrain following flight
+- Sandbox test environment for plugin controllers
+- Supervisory controller development and testing
+- Flight and bench test validation
+- New Technology Summary Report (NTSR) submitted to NASA iEdison (2026-03-26)
 
 ## Task Summary
-- **Total Tasks**: 40+ (0 open, 40+ completed = 100% completion rate)
-- **Tasks by Assignee**:
-  - Dan Prendergast: Technical lead - architecture, ML module development, control thresholds, final report drafting, project closure
-  - Jack Elston: Reports and supervisory controller - CLIN reports, TABA, interim demonstrations, RTOS autopilot board development
-  - Maciej Stachura: Flight & bench testing, simulations - flight tests, bench tests, JSBSim integration, S2 parameters, supervisory control testing
-  - Ben Busby: Simulation environment and sandbox - JSBSim integration, simulation environment, safe sandbox framework
-  - Meredith O'hara Needham: Financial and administrative - all invoicing (CLIN 001-005), New Technology reporting, IT Security Plan, project closure, final payment receipt
-- **Pattern**: Milestone-driven structure with integrated CLIN invoicing; strong NASA compliance focus (IT Security, New Technology reporting via iEdison/NIST); technical work front-loaded, administrative closure completed April 16, 2026
+- **Total Tasks:** 0 open, 38 completed (100% completion rate)
+- **All deliverables closed out** as of 2026-04-16
+
+### Tasks by Assignee (Completed)
+- **Dan Prendergast:** Architecture, ML development, drafting reports, plugin integration
+- **Jack Elston:** SwiftCore hardware development, final/interim reports, TABA
+- **Maciej Stachura:** Flight tests, bench tests, simulations, S2 params
+- **Ben Busby:** Sandbox environment, simulation development, JSBSim integration
+- **Meredith O'hara Needham:** Invoicing, NTSR, iEdison reporting, payment tracking
 
 ## Recent Activity
-- **March 18, 2026**: ML terrain-following module development completed
-- **March 25-27, 2026**: Final documentation sprint - draft final report, summary slides, NTSR completed
-- **March 26, 2026**: CLIN 005 TABA report and invoice submitted; iEdison New Technology reporting completed
-- **March 27, 2026**: All CLIN reports and invoices submitted (CLIN 004 & 005)
-- **April 3, 2026**: All technical work completed - flight tests, bench tests, ML integration, supervisory controller testing, UML diagrams finalized
-  - Test supervisory control completed (Maciej Stachura)
-  - UML of Layers and Message Definitions completed (including layer architecture diagrams, message class diagrams, and control flow activity diagrams)
-  - SwiftCore 4.0 SBC and RTOS autopilot board development finalized
-- **April 16, 2026**: Final payment received and project closure completed; project archived
+- **2026-04-16:** Project closed; final payment received
+- **2026-04-03:** All major technical work (flight/bench tests, ML module integration, supervisory control) completed
+- **2026-03-27:** Final Report, TABA Report, and NTSR delivered; invoices submitted
+- **2026-03-26:** NTSR submitted to iEdison; CLIN 005 invoice completed
+- **2025-12-30:** Interim demonstration report and invoice delivered (Milestone 3)
 
 ## Notes & Context
 
-**Project Goal**: Develop modular, layered architecture for SwiftCore avionics system enabling aircraft autonomy with:
+### Project Scope
+Phase I R&D effort to develop and validate a modular, layered architecture for SwiftCore avionics enabling aircraft autonomy. Five functional layers proposed:
 1. Multi-vehicle coordination and information gathering
-2. Machine learning and machine vision-based sensing and control
+2. Machine learning (ML) and machine vision–based sensing and control
+3. [Additional layers 3-5 referenced but not detailed in visible tasks]
 
-**Technical Achievements**:
-- Developed 5-layer functional architecture with pub/sub messaging protocol
-- Created ML module for terrain-following flight with automated PID control loop tuning via doublet injection
-- Implemented safe sandbox framework for experimental control modules without compromising flight safety
-- Developed supervisory controller with safety thresholds and override protocols
-- Integrated plugin architecture with SwiftCore firmware/software
-- Conducted successful flight and bench tests
-- JSBSim simulation environment integration with S2 aircraft parameters
-- SwiftCore 4.0 development on both SBC and RTOS autopilot boards (completed April 3, 2026)
-- Created comprehensive UML documentation:
-  - Multi-layered application architecture diagrams
-  - Message class diagrams
-  - Control flow activity diagrams
-- Project documentation maintained in Google Drive: https://drive.google.com/drive/u/1/folders/1cBn6sUtds3-xxbXZxOWfswMsQY7av97c
+### Key Technical Achievements
+- Defined and documented layered architecture with pub/sub messaging protocol
+- Updated SwiftCore firmware/software (4.0 SBC and RTOS Autopilot board)
+- Developed ML-based automatic PID controller tuning proof-of-concept
+- Created safe sandbox framework for integrating experimental external control modules without compromising flight safety
+- Validated via benchtop simulations, bench tests, and flight tests
 
-**Compliance & Administrative**:
-- NASA R&D contract with 5 CLIN structure totaling $156,211
-- New Technology reporting: NTSR and NTR submitted to iEdison/NIST (effective Oct 1, 2025)
-- IT Security Management Plan (CLIN 002) completed per NASA requirements
-- All invoices submitted to ProSAMS and IPP with proper contract documentation
-- Final report documentation completed and archived
+### Regulatory Compliance
+- New technology disclosed to NASA via iEdison (per Oct 1, 2025 contract requirement to report to NIST instead of NASA)
+- Standard Form 298 and documentation provided in Final Report
+- All reports submitted to ProSAMS and IPP per government contract procedures
 
-**Contract & Project Status**: 
-- All deliverables submitted on schedule
-- All invoices ($50K + $50K + $49,711 + $6,500 = $156,211) processed and final payment received
-- Project formally closed and archived April 16, 2026
-- No outstanding items or follow-up required
+### Project Repository
+Project documentation folder: https://drive.google.com/drive/u/1/folders/1cBn6sUtds3-xxbXZxOWfswMsQY7av97c
+
+---
+
+**PROJECT STATUS: COMPLETE AND ARCHIVED** — All deliverables delivered, invoices paid, project formally closed 2026-04-16.

@@ -1,68 +1,37 @@
-# [001-12] BST Web Applications 2.0 IRAD
+_Asana snapshot as of 2026-10-23: 14 open tasks, 5 completed (last 365 days)._
+
+# BST Web Applications 2.0 IRAD
 
 ## Overview
-- **Client/customer**: Internal R&D (IRAD - Independent Research and Development)
-- **Dollar value**: Not specified
-- **Timeline**: No specific dates or due dates set; infrastructure foundation completed April 2026
-- **Status**: Active development — infrastructure phase complete; core application development pending resource assignment
-  - **CRITICAL BLOCKING ISSUE**: Export Classification Number (ECCN) requests required urgently to avoid impacting Canada project and LMUK/Royal Navy project (flagged by Daniel Prendergast, 2026-10-07/10-08)
-- **Team members**: Dan Prendergast (Owner), Ben Busby (infrastructure lead), BST whole team
-- **Risk signals**: 
-  - **CRITICAL COMPLIANCE BLOCKER**: Three platforms require ECCN classification; applications not yet drafted; no owner assigned; delays will impact dependent external projects
-  - 12 of 14 tasks unassigned with no due dates — deployment timeline unclear
-  - Task list may not reflect actual infrastructure completion status
+- **Client/Customer:** Internal R&D (IRAD)
+- **Owner:** Dan Prendergast
+- **Team:** BST (Whole Team)
+- **Priority:** Low
+- **Status:** Active but stalled — 14 open tasks with no due dates; last activity April 2026 (6+ months ago)
+- **Risk Signal:** Critical ECCN (Export Classification Number) submissions needed urgently to avoid delays on pending Canada project and LMUK/Royal Navy project. Per Daniel Prendergast (2026-10-08), applications have not yet been written for: 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer. S3 is lower priority.
 
 ## Key Deliverables & Milestones
-- **Infrastructure & Database Architecture** — **COMPLETED 2026-04-16**
-  - Hybrid cloud/on-premises architecture (AWS user database + local SQLite sync)
-  - Offline flight plan generation API endpoint
-  - User input tracking and database sync architecture
-- **Mission Planning Web Application** — In progress (Coding task open, unassigned, marked "Optional Improvements")
-- **Aircraft/Payload Analysis Tool** — Pending (Coding task open, unassigned)
-- **Testing & Q&A** — Pending (Unassigned)
-- **System Manuals & Training Materials** — Pending (Unassigned)
-- **Scientific Data Collection & Processing** — Pending (Unassigned)
-- **System Repair & Maintenance** — Pending (Unassigned)
-- **Admin & Logistics** — Pending (Unassigned)
+- Mission Planner web application (coding phase open, optional improvements noted)
+- Aircraft/Payload Analysis Tool (coding phase open)
+- System manuals and training materials
+- Scientific data collection & processing capabilities
+- All deliverables lack defined due dates or milestone structure
 
 ## Task Summary
-- **Total tasks**: 14 open, 0 completed (note: infrastructure phase marked complete April 2026 but not reflected as closed in Asana; recommend audit)
-- **Tasks by assignee**:
-  - **Dan Prendergast**: System-level Concept & Architecture, Software Engineering (2 tasks)
-  - **Unassigned**: 12 tasks spanning mechanical engineering, procurement, fabrication, coding, testing, documentation, training, data processing, maintenance, and logistics
-- **Notable patterns**: 
-  - Vast majority of implementation work remains unassigned and undated
-  - Wide scope spanning software, hardware, documentation, and operational support
-  - No external deadlines reflected in task list despite blocking external projects (Canada, LMUK/Royal Navy)
+- **Total:** 19 tasks (14 open, 5 completed)
+- **Completion Rate:** 26% (5/19)
+- **By Assignee:**
+  - Dan Prendergast: 2 open (System-level Concept, Software Engineering)
+  - Ben Busby: 5 completed (last activity 2026-04-16) — offline/GCS capabilities, database sync, user database, logging, infrastructure decisions
+  - Unassigned: 12 open (Mechanical Engineering, Procurement, Fabrication, Coding tasks, Testing, Analysis, Manuals, Training, Data Collection, Repair/Maintenance, Admin/Logistics)
 
 ## Recent Activity
-
-**2026-10-07/10-08 — URGENT COMPLIANCE FLAG** (Daniel Prendergast):
-
-> "We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project." — Daniel Prendergast, 2026-10-08
-
-- **CRITICAL**: Export Classification Number (ECCN) requests required urgently for three platforms:
-  1. **S0-AD with fixed EO/IR camera** (high priority)
-  2. **S0-AD with magnetometer** (high priority)
-  3. **S3 with gimballed EO/IR camera** (lower priority)
-- **Current status**: Applications not yet drafted; no owner or timeline assigned
-- **Impact**: Delays will affect pending Canada project and LMUK/Royal Navy project timelines
-- **ACTION REQUIRED**: Assign owner immediately and establish hard deadline aligned with dependent project schedules
-
-**2026-04-16 — Infrastructure Completion**:
-- Hybrid cloud/on-premises split finalized (AWS database + local SQLite sync)
-- Offline flight plan generation API scoped and initialized
-- User input tracking architecture defined
+- Last recorded activity: **April 16, 2026** — Ben Busby completed infrastructure and database tasks (6+ months stale in Asana)
+- **Urgent activity (October 8-9, 2026):** Daniel Prendergast flagged critical ECCN submission requirements to avoid project delays, but applications remain unwritten
 
 ## Notes & Context
-
-- **Project priority**: Low (per custom field) — **contradicts urgency of ECCN compliance work blocking external projects**
-- **CRITICAL ISSUE**: ECCN classification work is **blocking external projects** (Canada, LMUK/Royal Navy) but remains decoupled from Asana task list, unassigned, and undated. **Immediate action required**: assign owner and establish deadline aligned with dependent project schedules.
-- **Task list discrepancy**: Current Asana shows 14 open tasks with zero completed, but April 2026 infrastructure phase marked complete. Recommend clarifying which tasks should be archived vs. remain active.
-- **Scope**: Web applications (Mission Planning, Aircraft/Payload Analysis), hardware integration, testing, documentation, training, and operational support — typical of broad IRAD effort.
-
-## Next Steps (Priority Order)
-1. **URGENT**: Assign ECCN classification work owner and establish hard deadline (pending Canada/LMUK timelines)
-2. Audit task list; close or archive infrastructure phase tasks if complete
-3. Assign coding tasks (Mission Planner, Aircraft/Payload Analysis) with development timeline
-4. Coordinate ECCN timeline with Canada and LMUK/Royal Navy project leads
+- **No due dates** assigned to any open tasks; project structure is conceptual and unscheduled
+- Heavy reliance on unassigned work suggests either team capacity constraints or deprioritization
+- ECCN submissions are a **blocking dependency** for Canada and LMUK/Royal Navy projects — these should be treated as urgent despite the "Low" priority tag on this IRAD
+- Last technical progress (April 2026) focused on infrastructure, database, and offline capabilities for mission planning
+- Project description emphasizes web-based mission planning and data analysis tools

@@ -1,32 +1,29 @@
+_Asana snapshot as of 2026-10-23: 0 open tasks, 1 completed (last 365 days)._
+
 # [032-3] Sasquatch S0s x 4
 
 ## Overview
-- Client/customer: Notre Dame (David Richter - David.Richter.26@nd.edu)
-- Dollar value: $88,705 total budget and funding to Black Swift
-- Timeline: Verbal order placed February 19, 2026; stated 4-month delivery timeline
-- Status: Pre-project phase — invoice submitted, no active production tasks yet
-- Team members involved: Jack Elston (Owner), BST Whole Team assigned, Meredith O'hara Needham (invoicing)
-- Risk signals: **CRITICAL: Project start and due dates both set to July 1, 2026 — likely data entry error.** With Feb 19 order date and 4-month timeline stated by Jack, actual dates should be ~Feb 19 – June 19, 2026. Clarify immediately.
+- **Client:** Notre Dame (David Ritcher, David.Richter.26@nd.edu)
+- **Dollar value:** $88,705 total funding to BST
+- **Timeline:** Verbal order Feb 19, 2026 | 4-month project timeline | Due July 1, 2026
+- **Status:** Unclear — all tracked tasks completed, but project due date appears to be in the past (July 1, 2026). Verify current status with Jack Elston.
+- **Team:** Jack Elston (Owner), Meredith O'hara Needham (invoicing)
+- **Risk signals:** Project due date has passed relative to current context. Limited task tracking in Asana (only 1 invoice task recorded).
 
 ## Key Deliverables & Milestones
-- 4 Sasquatch S0 units plus travel
-- Based on estimate 1373
-- Total project value: $88,705
+- **4x Sasquatch S0 units** + travel (based on estimate 1373)
+- **Invoice submission:** Due April 14, 2026 (completed April 10, 2026)
 
 ## Task Summary
-- Total tasks: 1 (open: 0, completed: 1)
-- **[DONE] Submit Invoice** (Meredith O'hara Needham) — due April 14, 2026, completed April 10, 2026
-- No active production or fulfillment tasks created yet
+- **Total tasks:** 1 (0 open, 1 completed)
+- **Assignee breakdown:**
+  - Meredith O'hara Needham: 1 task (100% complete)
+- **Pattern:** Minimal Asana task tracking; appears to be primarily invoice-focused in system.
 
 ## Recent Activity
-- Invoice submitted April 10, 2026 (4 days ahead of April 14 due date)
-- Verbal order received February 19, 2026; 4-month delivery timeline established by Jack Elston
+- Invoice submitted April 10, 2026 (4 days ahead of due date)
 
 ## Notes & Context
-- Commercial customer project, Medium priority
-- Early project lifecycle — verbal commitment secured, invoice submitted, but formal production task breakdown not yet created
-- **Action needed:** 
-  - Clarify actual project timeline with Jack Elston (should be ~Feb 19 – June 19, 2026 based on "4 month" statement)
-  - Correct project start/due dates in system from July 1, 2026
-  - Create production and fulfillment task structure for 4 S0 units + travel
-- Funding fully committed: $88,705 from Notre Dame to Black Swift
+- Estimate reference: 1373
+- Custom field usage: Strong budget tracking ($88,705 total); Commercial customer; Medium priority
+- **Data gap:** Only invoicing is tracked in Asana. Actual S0 manufacturing, delivery, and travel logistics are not represented in task list. Recommend checking with Jack Elston for current project status and whether deliverables have been completed.

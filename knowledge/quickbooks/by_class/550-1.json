@@ -1,20 +1,21 @@
 {
   "project_code": "550-1",
   "qbo_class_names": [
-    "[550-1] Navy SBIR Magnetometer"
+    "[550-1] Navy SBIR Magnetometer",
+    "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2026-09-24",
-    "end": "2026-09-30"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
-    "revenue": 14459.0,
-    "expenses": 2495.21,
+    "revenue": 470621.0,
+    "expenses": 30680.95,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Travel": 4868465.73,
-      "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 386130.5,
-      "DIRECT COSTS:DC-Direct Material Purchases": 288.75,
-      "FRINGE:Employee Reimbursement": -5254596.23
+      "DIRECT COSTS:DC-Direct Material Purchases": 19220.58,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 7823.0,
+      "DIRECT COSTS:DC-Direct Travel": 3511.63,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 125.74
     }
   },
   "invoices": [
@@ -40,9 +41,304 @@
           "description": ""
         }
       ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-06-29",
+      "doc_number": "1749",
+      "total": 35000.0,
+      "attributed": 35000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 35000.0,
+          "account": "",
+          "description": "CLIN 0006: Progress Report - Option"
+        },
+        {
+          "amount": 35000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-04-14",
+      "doc_number": "1748",
+      "total": 50000.0,
+      "attributed": 50000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": "Kick-Off Briefing & FWA Certification (Option Period)"
+        },
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-01-12",
+      "doc_number": "1691",
+      "total": 6500.0,
+      "attributed": 6500.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": "TABA Report"
+        },
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-01-12",
+      "doc_number": "1690",
+      "total": 17581.0,
+      "attributed": 17581.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17581.0,
+          "account": "",
+          "description": "Final Report"
+        },
+        {
+          "amount": 17581.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-10-14",
+      "doc_number": "1689",
+      "total": 49000.0,
+      "attributed": 49000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": "Progress Report"
+        },
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-07-30",
+      "doc_number": "1688",
+      "total": 70000.0,
+      "attributed": 70000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": "Kick-Off Briefing & FWA Certification"
+        },
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
     }
   ],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-07-13",
+      "doc_number": "3419",
+      "total": 10000.0,
+      "attributed": 10000.0,
+      "vendor": "QuSpin, Inc.",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 10000.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Gen 2.0 QTFM Sensor"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-05-14",
+      "doc_number": "",
+      "total": 399.0,
+      "attributed": 399.0,
+      "vendor": "Amprius Technoloies",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 399.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SA504 x 7 (quote #00001876)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-31",
+      "doc_number": "1323",
+      "total": 7787.5,
+      "attributed": 3237.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 3237.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Support for N251-016 (21.5833hrs)"
+        },
+        {
+          "amount": 4100.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Support for N25A-T025 (27.3333hrs)"
+        },
+        {
+          "amount": 450.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Support for NASA Phase I (3hrs)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-12-01",
+      "doc_number": "1744",
+      "total": 1987.5,
+      "attributed": 862.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 862.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N251-016 (5.75hrs)"
+        },
+        {
+          "amount": 600.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N25A-T025 (4hrs)"
+        },
+        {
+          "amount": 525.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "TABA support for NASA Phase I (3.5hrs)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-11-03",
+      "doc_number": "1738",
+      "total": 2475.0,
+      "attributed": 1162.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1312.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for Navy STTR (N25A-T025) 8.75hrs @ $150"
+        },
+        {
+          "amount": 1162.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for Navy SBIR (N251-016) 7.75hrs @ $150"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-10-14",
+      "doc_number": "8925194",
+      "total": 1323.0,
+      "attributed": 1323.0,
+      "vendor": "Cetacean Research Technology",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1323.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "T&M Charges for R&D Development work (7/30/25 to 10/14/25) Navy SBIR Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2025-09-02",
+      "doc_number": "",
+      "total": 1725.0,
+      "attributed": 1237.5,
+      "vendor": "EKase Consulting, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "Business Consulting for 550-1 and 550-2",
+      "lines": [
+        {
+          "amount": 1237.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "TABA support for N251-016 (550-1 NAVY SBIR: Magnetometer)"
+        },
+        {
+          "amount": 487.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "ABA support for N25A-T025 ([550-2] Navy STTR: Hazardous Weather)"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -144,8 +440,848 @@
           "description": ""
         }
       ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-21",
+      "doc_number": "",
+      "total": 1090.0,
+      "attributed": 1090.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 1090.0,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "A. Lomis & J. Fromm trip to CA for Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-21",
+      "doc_number": "",
+      "total": 215.17,
+      "attributed": 215.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR* PREPAID - 4617",
+      "lines": [
+        {
+          "amount": 215.17,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "A. Lomis & J. Fromm trip to CA for Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-19",
+      "doc_number": "",
+      "total": 712.76,
+      "attributed": 356.38,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - see Slack message and email chain",
+      "lines": [
+        {
+          "amount": 356.38,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "cases"
+        },
+        {
+          "amount": 356.38,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "foam inserts"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-17",
+      "doc_number": "",
+      "total": 8.99,
+      "attributed": 8.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5R8RW7G51 - 4617",
+      "lines": [
+        {
+          "amount": 8.99,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NFHK Micro USB2.0 Male to Micro USB Male 5Pin"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-16",
+      "doc_number": "",
+      "total": 89.97,
+      "attributed": 89.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5R9PQ5TM1 - 4617",
+      "lines": [
+        {
+          "amount": 89.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SunnySky X Series V3 X2212 V3 Brushless Motors(980KV) x 3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-15",
+      "doc_number": "",
+      "total": 296.05,
+      "attributed": 296.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Original request for GetFPV but was not in stock. Used diff vendor",
+      "lines": [
+        {
+          "amount": 296.05,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Original request for GetFPV but was not in stock. Used diff vendor"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-14",
+      "doc_number": "W091410090567",
+      "total": 146.9,
+      "attributed": 146.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase made directly by J. Elston - see attached email for details.",
+      "lines": [
+        {
+          "amount": 146.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Raspberry Pi Zero 2 W - Starter MAX Kit"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-10",
+      "doc_number": "",
+      "total": 14.97,
+      "attributed": 14.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase. Project is listed underneath purchase.",
+      "lines": [
+        {
+          "amount": 14.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "White Delrin\u00ae Acetal Resin Tube, Tight-Tolerance, 1/8\" OD x 1/16\" ID"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-10",
+      "doc_number": "0908JELSTON",
+      "total": 51.72,
+      "attributed": 51.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. J. Fromm made direct purchase. Project listed under each item purchased.",
+      "lines": [
+        {
+          "amount": 51.72,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "18-8 Stainless Steel Wire Rope Extra-Flexible"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-09-08",
+      "doc_number": "0908JELSTON",
+      "total": 66.69,
+      "attributed": 66.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. J. Fromm made direct purchase. Project listed under each item purchased.",
+      "lines": [
+        {
+          "amount": 66.69,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "White Delrin\u00ae Acetal Resin Tube &  18-8 Stainless Steel Wire Rope"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-28",
+      "doc_number": "70828",
+      "total": 3436.5,
+      "attributed": 3436.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase directly because it was urgent",
+      "lines": [
+        {
+          "amount": 3436.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "AP-Rear-Mount-Mag.step; MHP-Tip-Mag.step: Part-61-Mag.step, etc."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-28",
+      "doc_number": "1001508314",
+      "total": 148.5,
+      "attributed": 148.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GETFPV, LLC - 7333",
+      "lines": [
+        {
+          "amount": 148.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Tattu R-Line 22.2V 2200mAh x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-27",
+      "doc_number": "",
+      "total": 17.98,
+      "attributed": 17.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17.98,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Micro USB2.0 Male to Micro USB Male 5Pin Ultra Slim Flat Data Charge Cable"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-27",
+      "doc_number": "0827JELSTON",
+      "total": 110.42,
+      "attributed": 26.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 26.87,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        },
+        {
+          "amount": 83.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-25",
+      "doc_number": "1001507386",
+      "total": 174.66,
+      "attributed": 174.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GETFPV, LLC - 7333",
+      "lines": [
+        {
+          "amount": 174.66,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Tattu R-Line 22.2V 2200mAh x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-10",
+      "doc_number": "",
+      "total": 37.68,
+      "attributed": 37.68,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 37.68,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Bartington Sensor Connectors"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-07",
+      "doc_number": "",
+      "total": 28.18,
+      "attributed": 28.18,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - J. Fromm made purchase directly. Project listed under items",
+      "lines": [
+        {
+          "amount": 28.18,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "hort-Thread Alloy Steel Shoulder Screw"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-06",
+      "doc_number": "",
+      "total": 3.68,
+      "attributed": 3.68,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made purchase directly. Project listed under item",
+      "lines": [
+        {
+          "amount": 3.68,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Low-Carbon Steel Bar, 1/8\" Thick"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-04",
+      "doc_number": "0804JELSTON",
+      "total": 260.68,
+      "attributed": 233.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 27.36,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Press-Fit Drill Bushing with Head, 0.159\" ID x 2"
+        },
+        {
+          "amount": 233.32,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Remote-Release Rotary Latch; Multipurpose 6061 Aluminum Bar; T-Slotted Framing, End-Feed Double Nut and M8; 316 Stainless Steel Ultra-Low-Profile Socket"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-08-03",
+      "doc_number": "0803JELSTON",
+      "total": 277.13,
+      "attributed": 121.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
+      "lines": [
+        {
+          "amount": 121.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Magnetometer supplies"
+        },
+        {
+          "amount": 44.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Hurricane IDIQ supplies"
+        },
+        {
+          "amount": 74.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S2 NASA supplies"
+        },
+        {
+          "amount": 37.76,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "ST61Q172",
+      "total": 1504.42,
+      "attributed": 112.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
+      "lines": [
+        {
+          "amount": 112.41,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        },
+        {
+          "amount": 1200.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NOAA IDIQ supplies"
+        },
+        {
+          "amount": 191.47,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD Swiftstation supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-08",
+      "doc_number": "",
+      "total": 82.14,
+      "attributed": 82.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 82.14,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Import duty payment (PCBWay order ##YQ1749285)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-27",
+      "doc_number": "",
+      "total": 233.03,
+      "attributed": 167.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - Project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 65.14,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "supplies for IDIQ"
+        },
+        {
+          "amount": 167.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "supplies for Navy Magnetometer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-26",
+      "doc_number": "",
+      "total": 207.29,
+      "attributed": 183.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - project is listed under each item purchased",
+      "lines": [
+        {
+          "amount": 20.94,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shop supplies"
+        },
+        {
+          "amount": 2.58,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "By Light supplies"
+        },
+        {
+          "amount": 183.77,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Magnetometer supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "",
+      "total": 581.45,
+      "attributed": 271.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 271.64,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S0 Launcher & parts"
+        },
+        {
+          "amount": 309.81,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "parts for ByLight"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-24",
+      "doc_number": "0622JELSTON",
+      "total": 1281.98,
+      "attributed": 1258.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under each item",
+      "lines": [
+        {
+          "amount": 1258.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "supplies for 550-1 Navy: Magnetometer"
+        },
+        {
+          "amount": 23.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "T-Slotted Framing, Triple Nut and M8 Flanged Button Head"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-17",
+      "doc_number": "",
+      "total": 391.91,
+      "attributed": 391.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 391.91,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-11",
+      "doc_number": "YQ1749285",
+      "total": 145.73,
+      "attributed": 145.73,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 145.73,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-06-03",
+      "doc_number": "",
+      "total": 45.92,
+      "attributed": 45.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 45.92,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-14",
+      "doc_number": "",
+      "total": 97.85,
+      "attributed": 18.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FEDEX37097183 - 4699",
+      "lines": [
+        {
+          "amount": 18.6,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Amprius Technologies shipment for Navy 550-1 (order 11674)"
+        },
+        {
+          "amount": 79.25,
+          "account": "SALES & MARKETING:SM-Shipping",
+          "description": "Amprius Technologies shipment for future S3 sales (order 11675)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-10",
+      "doc_number": "0508JELSTON",
+      "total": 227.96,
+      "attributed": 29.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Josh placed the order directly. See project listed under each item purchased",
+      "lines": [
+        {
+          "amount": 105.14,
+          "account": "Inventory Asset",
+          "description": "For future S3 sales"
+        },
+        {
+          "amount": 29.64,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "for 550-1 Navy SBIR"
+        },
+        {
+          "amount": 93.18,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "For IDIQ 2026"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-03-25",
+      "doc_number": "0324JELSTON",
+      "total": 185.15,
+      "attributed": 185.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Project listed under each item purchased. No Asana request. Josh made purchased.",
+      "lines": [
+        {
+          "amount": 185.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Supplies for Navy SBIR - option period"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-12-16",
+      "doc_number": "",
+      "total": 94.72,
+      "attributed": 22.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Initial Asana request deleted because purchased in person at Home Depot.",
+      "lines": [
+        {
+          "amount": 22.49,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Stanley Folding Sawhorse x 1"
+        },
+        {
+          "amount": 22.49,
+          "account": "Indirect Cost:Supplies:Shop SuppliesX",
+          "description": "Stanley Folding Sawhorse x 1"
+        },
+        {
+          "amount": 41.88,
+          "account": "Indirect Cost:Supplies:Shop SuppliesX",
+          "description": "16 qt tote storage box"
+        },
+        {
+          "amount": 7.86,
+          "account": "Indirect Cost:TaxesX",
+          "description": "Sales Tax (Shop Supplies)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-10-01",
+      "doc_number": "",
+      "total": 83.54,
+      "attributed": 83.53999999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4699",
+      "lines": [
+        {
+          "amount": 58.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "RF EMI Absorbing/Shielding Sheet MuMETA"
+        },
+        {
+          "amount": 25.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (Navy Magnetometer)"
+        }
+      ]
     }
   ],
-  "purchase_orders": [],
-  "payments": []
+  "purchase_orders": [
+    {
+      "type": "PurchaseOrder",
+      "date": "2026-04-29",
+      "doc_number": "1037",
+      "total": 399.0,
+      "attributed": 399.0,
+      "vendor": "Amprius Technoloies",
+      "customer": "",
+      "balance": null,
+      "memo": "Ship using customer FedEx account : 341-698949341",
+      "lines": [
+        {
+          "amount": 399.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SA504 x 7 (quote #00001876)"
+        }
+      ]
+    }
+  ],
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-07-17",
+      "doc_number": "",
+      "total": 35000.0,
+      "attributed": 35000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 35000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-04-27",
+      "doc_number": "",
+      "total": 50000.0,
+      "attributed": 50000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 50000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-01-22",
+      "doc_number": "",
+      "total": 6500.0,
+      "attributed": 6500.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-01-22",
+      "doc_number": "",
+      "total": 17581.0,
+      "attributed": 17581.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 17581.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-11-12",
+      "doc_number": "",
+      "total": 49000.0,
+      "attributed": 49000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 49000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-09-29",
+      "doc_number": "",
+      "total": 70000.0,
+      "attributed": 70000.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 70000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

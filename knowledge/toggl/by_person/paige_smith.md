@@ -1,24 +1,33 @@
+_Computed from Toggl as of 2026-10-23: 2669.7 h tracked since 2020-01-01._
+
 # Paige Smith — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 71.0 hours
-- **Primary projects:** Marketing (Overhead)
-- **Time period covered:** Multiple tracking batches (12 entries total)
+- **Total hours tracked:** 2,669.7 hours (all-time since 2020-01-01)
+- **Primary projects:** [001-13] Marketing (98.9% of tracked time)
+- **Time period covered:** 2020-01-01 to present
 
 ## Project Breakdown
-- **[001-13] Marketing** (Overhead): 71.0 hours (100%)
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| [001-13] Marketing | 2,641.4 | 98.9% | Overhead |
+| Project None | 16.6 | 0.6% | — |
+| [001-13] Creative Projects | 11.7 | 0.4% | Overhead |
 
 ## Recent Activity
-- 7.4 hours on website homepage, market analysis, and Google Ads
-- 7.7 hours on website and careers page updates
-- 8.0 hours on global widgets, home page, and copy work
-- 7.2 hours on conference inquiries and market analytics
-- 0.6 hours on website homepage
-- All tracked time allocated to internal Marketing project (Overhead)
+
+Paige's recent work has focused heavily on:
+- **Website development:** Homepage and careers page updates
+- **Marketing operations:** Google Ads management, market analysis
+- **Client engagement:** Pam discussions, conference inquiries
+- **Content:** Copy writing for global widgets and homepage
+
+Recent entries span 7.2–8.0 hours per session, indicating consistent daily engagement. One undescribed entry of 999.0 hours appears to be a data anomaly or bulk historical entry.
 
 ## Patterns
-- **Consistent focus on website development and optimization** — homepage redesign/updates, careers page, and global widget implementation are recurring work items
-- **Marketing operations and analysis** — market research, Google Ads management, and conference lead generation represent ongoing tactical work
-- **No client billable work** — 100% of time remains internal to BST
-- **Website and digital marketing dominate workload** — approximately 60% website-related, 40% marketing operations/analytics
-- **Stable workload** — tracking remains consistent across batches with no major shifts in project allocation or focus areas
+
+- **Dominant focus:** Nearly all tracked time (98.9%) is allocated to [001-13] Marketing, indicating this is Paige's core responsibility
+- **Work type:** Mix of website content/UX, paid advertising management, and client-facing strategy discussions
+- **Activity:** Recent entries show active, varied work—no evidence of project stagnation
+- **Data quality note:** The 999-hour entry without description warrants review for potential data entry error or historical consolidation

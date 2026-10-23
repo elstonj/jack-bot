@@ -1,74 +1,99 @@
+_Asana snapshot as of 2026-10-23: 3 open tasks, 32 completed (last 365 days)._
+
 # [043-2] By Light Mustang
 
 ## Overview
-- **Client/Customer:** By Light Professional IT Services
-- **Primary Contact:** Bryan Sparling (bryan.sparling@bylight.com, 703-224-1000)
-  - Technical Lead: Jeff Adelman (jeff.adelman@bylight.com)
-  - Billing: Susan Nguyen (susan.nguyen@bylight.com, 703-526-1849)
-- **Address:** 8484 Westpark Dr. Ste. 600, McLean, VA 22102
-- **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
-- **Timeline:** Started 2025-10-06; Original due date 2025-12-05; Core deliverables completed 2025-12-31 (26 days late)
-- **Status:** **ARCHIVED — CORE DELIVERY COMPLETE; NO FURTHER FLIGHT OPS PLANNED**
-  - Core project deliverables finished Dec 31, 2025 (26 days past original due date).
-  - **NO FUTURE FLIGHT OPERATIONS:** Per Daniel Prendergast (2026-10-01 & 2026-10-02): *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."* All remaining test flights cancelled (NOAA CLEAR-AIR TEST, Murphy's Pond Flight #4, Validation Flight #2).
-- **Team Members:** Maciej Stachura (owner), Ethan Domagala, Nate Straus, Meredith O'hara Needham; Pilot support: Jack Elston, Josh, Alex
-- **Priority:** Rank 4 among active projects (Maciej, 2026-04-30): (1) S3 IRAD end-of-May delivery, (2) S0-VTOL ERAU & Barbados, (3) EMASS closeout, (4) By-Light, (5) SBIR Magnetometer
-- **Product/Service:** Design/prototyping; Consulting
-- **Subcontractors:** DSKinetic LLC (Spencer Lisenby, spencer@dskinetic.com, 310-697-9624, Calabasas CA; pilot services); Rocky Mountain High Aviation (D. Hesselius, dhesselius@hotmail.com, Louisville CO; drone pilot)
+- **Client/Customer:** By Light Professional IT Services (Bryan Sparling, Technical Lead: Jeff Adelman)
+- **Contact:** Susan Nguyen (Billing POC), Bryan Sparling (bryan.sparling@bylight.com, 703-224-1000)
+- **Dollar Value:** $450,000 total budget; $450,000 funded to Black Swift
+- **Timeline:** 
+  - Project Start/Due: December 5, 2025 (note: dates appear retroactive; work occurred Oct–Dec 2025)
+  - Week 1: Oct 6–10 ($100k SwiftCore integration & truck launch)
+  - Week 2: Oct 13–17 (Flight data collection & analysis)
+  - Weeks 3–4: Oct 20–Nov 1 ($100k G2 design finalization & COTS procurement)
+  - Weeks 5–7: Nov 3–22 ($100k prototype assembly & ground integration)
+  - Weeks 8–9: Nov 24–Dec 5 ($50k flight testing & final deliverables)
+- **Status:** **ARCHIVED / COMPLETE** (marked complete Dec 31, 2025)
+- **Priority:** High
+- **Project Type:** Consulting — Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
+- **Owner:** Maciej Stachura
+- **Team:** BST (Whole Team)
 
 ## Key Deliverables & Milestones
 
-| Milestone | Dates | Budget | Status |
-|-----------|-------|--------|--------|
-| Week 1: SwiftCore integration & truck launch | 10/6–10/10 | $100k | ✓ Completed 11/17 |
-| Week 2: Flight data collection & analysis | 10/13–10/17 | (incl. in Weeks 2-4) | ✓ Completed 11/9 |
-| Weeks 3–4 (MS1): G2 design finalization & COTS procurement | 10/20–11/1 | $100k | ✓ Completed 11/9 |
-| Weeks 5–7 (MS2): Prototype assembly & ground integration | 11/3–11/22 | $100k | ✓ Completed 11/17 |
-| Weeks 8–9 (MS3 & 4): Flight testing & final deliverables | 11/24–12/5 | $150k ($100k + $50k) | ✓ Completed 12/31 |
-| **Post-Delivery Test Flights:** Additional contractual opportunities | TBD | (incl. in original contract) | ✗ **ALL CANCELLED — NO FURTHER FLIGHT OPS (Oct 2026)** |
+| Milestone | Due Date | Completed | Budget |
+|-----------|----------|-----------|--------|
+| **MS0: Week 1** — SwiftCore integration & truck launch | Oct 10, 2025 | Nov 17, 2025 | $100k |
+| **MS0: Week 2** — Flight data collection & analysis | Oct 17, 2025 | Nov 9, 2025 | (included in MS1) |
+| **MS1** — G2 design finalization & COTS procurement | Nov 1, 2025 | Nov 9, 2025 | $100k |
+| **MS2** — Prototype assembly & ground integration | Nov 22, 2025 | Nov 17, 2025 | $100k |
+| **MS3 & MS4** — Flight testing & final deliverables | Dec 5, 2025 | Dec 31, 2025 | $50k |
+| **Final validation/demo flight report** | Dec 10, 2025 | Dec 31, 2025 | — |
+| **Demo/Competition flight** | Jan 30, 2026 | Dec 31, 2025 | — |
 
-All core invoicing milestones (4×) completed and paid through 12/17/2025.
+**Total invoiced:** $450k across five billing milestones (3 invoices shown: $100k MS1, $100k MS2, $100k MS3/4 completion)
 
 ## Task Summary
-- **Total Tasks:** 3 open reference records (contact/vendor data); 33 completed deliverable tasks
-- **Open Tasks (Reference Records Only):**
-  - Bryan Sparling (ByLight primary contact) — Unassigned
-  - DSKinetic LLC / Spencer Lisenby (pilot services subcontractor) — Unassigned
-  - Rocky Mountain High Aviation / D. Hesselius (drone pilot subcontractor) — Unassigned
-- **Completion Rate:** 92% (core deliverables complete)
 
-- **Tasks by Assignee (Completed Work):**
-  - **Maciej Stachura:** 11 completed (flight testing, analysis, validation)
-  - **Ethan Domagala:** 8 completed (fabrication, fuselage design, reporting)
-  - **Meredith O'hara Needham:** 4 completed (invoicing/billing tasks for each milestone)
-  - **Nate Straus:** 1 completed (final assembly)
-  - **Unassigned:** 9 completed (milestones and administrative tasks)
+- **Total Tasks:** 35 (32 completed, 3 open)
+- **Completion Rate:** 91% (32/35 closed)
+
+### By Assignee
+| Assignee | Open | Completed | Completion Rate | Notes |
+|----------|------|-----------|-----------------|-------|
+| Maciej Stachura | — | 13 | 100% | Flight test lead; props analysis, weight testing, validation flights |
+| Ethan Domagala | — | 8 | 100% | Build/design lead; fuselage construction, fairings, weekly reports |
+| Meredith O'hara Needham | — | 3 | 100% | Finance/invoicing (3 milestones) |
+| Unassigned | 3 | 8 | 73% | Contact info tasks (Bryan Sparling, DSKinetic pilot, Rocky Mountain High pilot) |
+
+### Open Tasks (Administrative)
+All three open tasks are **unassigned contact/vendor records** with no due dates:
+1. **Bryan Sparling** — ByLight POC, open task order, design/prototyping
+2. **DSKinetic LLC (Spencer Lisenby)** — Subcontractor pilot
+3. **Rocky Mountain High Aviation (D. Hesselius)** — Drone pilot
+
+These appear to be vendor/contact management records, not active work items.
 
 ## Recent Activity
 
-**Project Marked Complete:** 12/31/2025 (26 days past original 12/5 due date)
-- Final Phase (Weeks 8–9): Intensive flight testing completed 12/1–12/31
-  - Final validation flight (12/10)
-  - Propeller comparison testing (11/19–11/26)
-  - Tube fuselage design/build finalized (11/21–12/9)
-  - Final power predictions and analysis (12/5)
-- All Milestone Invoices Processed: 10/14, 11/3, 11/24, 12/17
+**Project completed Dec 31, 2025** — all major milestones and deliverables finished on or ahead of schedule:
 
-**Post-Completion Activity (Late April–May 2026):**
-- **2026-04-27 (Maciej):** Directed Ethan to update due dates in Asana to realistic numbers and notify customer.
-- **2026-04-30 (Jack):** Confirmed "we still owe 2 more flight opportunities." Customer has SWIL setup ready to test their own DoD autopilot controller; flight data delivered.
-- **2026-04-30 (Maciej):** Critical blocker (then): "Tell them there won't be any test flights next week or until we get that new fuse so they're aware that it's them causing the delay." New fuselage arrival required before next test flights. Ranked By-Light **Priority 4** among five active projects.
-- **2026-05-05 (Ethan):** **Timeline extended.** "ByLight project timeline has been extended due to cancellation of a demo in India. The 'yellow version' project has been clarified and asana tasks and timelines have been updated accordingly."
-- **2026-05-13 & 2026-05-14 (Daniel Prendergast):** **VALIDATION FLIGHT #2 POSTPONED.** CU IRISS training complete; flight postponed pending customer DoD autopilot controller readiness.
+- **Dec 31, 2025:** Final validation flight, demo/competition flight, final report, design changes all marked complete (dates retroactively set to match completion)
+- **Dec 17, 2025:** MS3 & MS4 milestone ($150k) invoiced and completed (due date was Dec 18)
+- **Dec 15, 2025:** Flight with best propeller + 40 lbs payload on Stock Chilli completed
+- **Dec 11, 2025:** Propeller analysis and comparison flights (15×13, 15×15, 16×16) completed
+- **Dec 9, 2025:** Tube fuselage build-up completed by Ethan Domagala
+- **Dec 5, 2025:** Final power predictions completed; Week 9 Report submitted
+- **Nov 24, 2025:** MS2 Prototype assembly milestone ($100k) invoiced
+- **Nov 21, 2025:** New fuselage design/selection finalized; propeller test flights and weight analysis completed
+- **Nov 9, 2025:** MS1 G2 design milestone completed early (originally due Nov 1)
+- **Nov 3, 2025:** Weeks 2–4 Invoice ($100k) processed
 
-**LATEST ACTIVITY (October 2026) — PROJECT CLOSED TO FLIGHT OPS:**
-- **2026-10-01 & 2026-10-02 (Daniel Prendergast):** **ALL REMAINING TEST FLIGHTS CANCELLED.** *"You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season."* 
-  - Overrides all remaining contractual test flight opportunities (NOAA CLEAR-AIR TEST, Murphy's Pond Flight #4, Validation Flight #2).
-  - **Project is complete. No further flight operations will occur under this contract.**
+---
 
 ## Notes & Context
 
-- **Delivery Delay:** Core deliverables completed 26 days past original 12/5/2025 due date; all milestone payments processed by 12/17/2025.
-- **Flight Operations Closed:** Customer-driven delays and readiness issues (DoD autopilot controller, new fuselage procurement) postponed Validation Flight #2 (May 2026) and Murphy's Pond Flight #4 (July 2026). As of October 2026, Daniel Prendergast directive (per TEAM CORRECTIONS) indicates no further flight testing will occur; new flight ops team will handle future qualifications.
-- **Reference Records:** Three open Asana tasks (contact/vendor data only; no action items remaining).
-- **Subcontractor Details Updated:** DSKinetic LLC address confirmed as 25717 Mulholland Hwy, Calabasas CA 91302; phone
+### Project Scope
+This was a **Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement** engagement with By Light Professional IT Services. The work centered on evaluating and optimizing a Mustang airframe for extended range and DoD autonomous flight capabilities, including:
+- SwiftCore integration for autonomous systems
+- Propeller performance testing and selection (multiple configurations tested)
+- Fuselage design and build (tube fuselage variant with custom fairings)
+- Weight-carrying capacity and payload optimization
+- Flight data collection and validation
+
+### Team Performance
+- **Maciej Stachura** was the primary flight test engineer, conducting multiple test flights and propeller/weight analysis.
+- **Ethan Domagala** led physical design and build work (fuselage, fairings, weight systems), with weekly reporting discipline.
+- **Meredith O'hara Needham** managed milestone invoicing and billing on schedule.
+- Work progressed methodically through design → build → test → validation phases with minimal delays.
+
+### Staffing Note (from Team Feedback)
+Per **Daniel Prendergast (Oct 1–2, 2026):** "Perfect. You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season." This suggests the evaluation was complete and knowledge transfer to new flight ops personnel is planned, but this feedback is dated Oct 2026 (after project completion).
+
+### Financial
+- **Budget Tracking:** Clean invoicing at each major milestone; no overruns evident.
+- **Billing Contacts:** Susan Nguyen (susan.nguyen@bylight.com, 703-526-1849)
+- **Subcontractors:** DSKinetic LLC (pilot services) and Rocky Mountain High Aviation (drone operations) engaged but remain as open contact records.
+
+### Status
+**ARCHIVED & COMPLETE.** All deliverables finished, final report and demo flight completed by Dec 31, 2025. Project fulfilled scope and timeline. No active work items.

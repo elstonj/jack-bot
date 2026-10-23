@@ -1,18 +1,24 @@
+_Computed from Toggl as of 2026-10-23: 37.1 h total since 2020-01-01 — Nate 30.2 h, Ethan Domagala 6.9 h._
+
 # [001-13] Facilities Management — Time Tracking
 
 ## Overview
 - **Client:** Overhead
-- **Active/Inactive Status:** Active
-- **Billable Status:** No
-- **Total Hours Tracked:** 1.0 hours
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 37.1 hours (since 2020-01-01)
 
 ## Team Allocation
-- **Ethan Domagala:** 1.0 hours (primary contributor)
+- **Nate:** 30.2 hours (81.4%)
+- **Ethan Domagala:** 6.9 hours (18.6%)
+
+**Primary Contributor:** Nate
 
 ## Activity Timeline
-- **Recent Entry:** 1.0 hours logged by Ethan Domagala (no description provided)
+No recent activity entries provided in source data.
 
 ## Insights
-- **Work Type:** Unspecified (no descriptive metadata available)
-- **Notable Patterns:** Single entry with minimal information; consider encouraging team members to add descriptions to time entries for better project documentation and cost tracking visibility
-- **Observation:** As an overhead/non-billable project, this appears to be internal facilities management work
+- This is an internal overhead project (non-billable), suggesting facilities/administrative work for BST operations
+- Nate is the primary owner of this project, handling the vast majority of work
+- Ethan Domagala provides secondary support
+- Relatively modest total hours indicate this is either a lightweight ongoing maintenance effort or a project with infrequent activity bursts

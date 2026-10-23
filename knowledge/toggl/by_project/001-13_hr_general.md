@@ -1,58 +1,42 @@
+_Computed from Toggl as of 2026-10-23: 70.5 h total since 2020-01-01 — Jack Elston 41.5 h, Beck Cotter 9.9 h, Dan 7.8 h, Ethan Domagala 5.8 h, Stachura 5.5 h._
+
 # [001-13] HR General — Time Tracking
 
 ## Overview
-- **Client:** Overhead
-- **Status:** Active
+- **Client:** Overhead (internal)
+- **Active:** Yes
 - **Billable:** No
-- **Total hours tracked:** 29.4 hours (cumulative)
+- **Total Hours Tracked:** 70.5 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Jack Elston:** 22.6 hours (77% of total)
-- **Ethan Domagala:** 4.8 hours
-- **Dan:** 2.0 hours
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Jack Elston | 41.5 | 58.8% |
+| Beck Cotter | 9.9 | 14.0% |
+| Dan | 7.8 | 11.1% |
+| Ethan Domagala | 5.8 | 8.2% |
+| Stachura | 5.5 | 7.8% |
+
+**Primary Contributor:** Jack Elston (nearly 60% of all hours)
 
 ## Activity Timeline
+Recent work is heavily focused on recruiting and hiring activities:
 
-### Earlier Phase (Strategic Initiation)
-- Creative Alignments ↔ KrateoSky/Black Swift (1.0h, Jack Elston)
-- Black Swift Technologies ↔ Creative Alignments Kickoff (1.0h, Jack Elston)
-- BST Leadership Interview: Jack Elston ↔ Hadley Solomon (1.0h, Jack Elston)
-- BST NA AE Recruiting Kickoff (1.0h, Jack Elston)
-- BST TPM Recruiting Kickoff (1.0h, Jack Elston)
-- Engineering Positions Kick-off (1.0h, Jack Elston)
-- KrateoSky Supply Chain Specialist Recruiting Kickoff (1.0h, Jack Elston)
-- Culture assessment (1.0h, Ethan Domagala)
-
-### Recent Phase (Ongoing Operations & Active Recruiting)
-- Raven meeting (1.0h, Ethan Domagala)
-- Weekly meeting (0.8h, Ethan Domagala)
-- Culture meeting w/ Creative Alignments (0.8h, Ethan Domagala)
-- Weekly meeting (0.5h, Ethan Domagala)
-- Alec Visit (0.5h, Jack Elston)
-- Weekly KS–Creative Alignments Sync (0.5h, Jack Elston)
-- Creative Alignment: Foundational Report Review (1.0h, Jack Elston)
-
-### Current Phase (Active Interview Cycle)
-- Black Swift Technologies TPM Interview: Chad McFarland (1.0h, Jack Elston)
-- Black Swift Technologies TPM Interview: Paige Beert (1.0h, Jack Elston)
-- Onsite Interview for Mfg / Production Eng with Black Swift Technologies / KrateoSky: Josh Waldman (1.0h, Jack Elston with Maciej)
-- Financials Update - Accordion Based (1.0h, Jack Elston)
-- Dan - Unspecified work (2.0h, Dan)
-- Black Swift Technologies Interview: Wyatt Bishop ↔ Jack Elston (0.8h, Jack Elston)
-- Andrew Teta Panel Interview - Black Swift Technologies (1.0h, Jack Elston)
-- Grey Vaughan Panel Interview - Black Swift Technologies (1.0h, Jack Elston)
-- Black Swift Technologies Interview: Andy Abols ↔ Jack Elston (1.0h, Jack Elston)
-- Career Chats with Forever Buffs at CU Boulder (2.0h, Jack Elston)
-- Black Swift Technologies Interview: Matt Carney ↔ Jack Elston (1.0h, Jack Elston)
-- Interview with Robert Powell (0.8h, Jack Elston)
-- **Meeting with Ben (1.0h, Jack Elston) — *latest***
-- **Jack's Schedule (Robert Powell) (0.5h, Jack Elston) — *latest***
-- **BST Intro w/ Megan (0.5h, Jack Elston) — *latest***
+- **Recruiting interviews:** Multiple Black Swift Technologies candidate interviews (Wyatt Bishop, Andy Abols, Matt Carney, Robert Powell, Chad McFarland, Paige Beert, Josh Waldman)
+- **Panel interviews:** Andrew Teta and Grey Vaughan
+- **University outreach:** Career chats with Forever Buffs at CU Boulder (2.0h)
+- **Internal meetings:** Weekly meetings and Creative Alignments syncs
+- **Administrative:** Financials update, schedule coordination
+- **Undocumented work:** Dan logged 4.5 hours with no descriptions
 
 ## Insights
-- **Recruiting pipeline expanding:** Now nine+ candidates in active evaluation (Ben and Megan added in latest cycle). Robert Powell interview continuing with scheduling coordination.
-- **Jack Elston dominance sustained:** 22.6 hours (77% of project), with 100% of new activity. Sole driver of candidate pipeline development.
-- **Parallel candidate processing evident:** Multiple scheduling/prep activities (Robert Powell coordination) alongside new introductions (Megan), indicating concurrent interview management.
-- **Consistent recruiting cadence:** Regular flow of candidate meetings maintains momentum through active hiring phase.
-- **Supporting workstreams stable:** Ethan Domagala and Dan's parallel work streams (culture, operations) stable and unchanged.
-- **No billable hours:** Remains internal overhead/HR operations.
+**Work Type Distribution:**
+- **Primary (60%+):** Recruitment and hiring for Black Swift Technologies and Manufacturing/Production Engineering roles
+- **Secondary:** Internal HR meetings and culture/alignment activities
+- **Tertiary:** Finance and administrative coordination
+
+**Patterns:**
+- Jack Elston is the de facto HR/recruiting lead for this overhead function
+- Recent activity spike suggests active hiring cycle
+- Regular weekly meetings indicate ongoing HR governance
+- Some team members (Dan, Beck Cotter, Stachura) contribute sporadically with less detailed tracking

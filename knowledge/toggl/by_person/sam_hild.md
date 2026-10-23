@@ -1,66 +1,59 @@
+_Computed from Toggl as of 2026-10-23: 4609.8 h tracked since 2020-01-01._
+
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 791.1 hours (cumulative across all batches)
-- **Primary projects:** 
-  1. Unassigned/None (239.3 hours, 30.2%)
-  2. [001-07] S3 IRAD (166.6 hours, 21.1%)
-  3. [001-04] S0 VTOL IRAD (147.7 hours, 18.7%)
-  4. [300-3] 2026 IDIQ (Hurricane) (135.8 hours, 17.2%)
-  5. [550-1] Navy SBIR: Magnetometer (66.1 hours, 8.4%)
-  6. [451-1] INSTAAR S3 x 2 (33.2 hours, 4.2%)
-  7. [001-23] SOCOM S0-AD (3.4 hours, 0.4%)
-- **Time period covered:** Multiple data batches (cumulative); current batch (36): 8.9 hours
+- **Total hours tracked**: 4,609.8 hours (all-time since 2020-01-01)
+- **Primary projects** (top 5):
+  1. [001-07] S3 IRAD — 1,542.8 hours (33.5%)
+  2. [001-16] SwiftStation IRAD — 921.2 hours (20.0%)
+  3. [301-3] S0 Hurricane Phase II - 2025 — 483.9 hours (10.5%)
+  4. [001-04] S0 VTOL IRAD — 421.0 hours (9.1%)
+  5. Project 197063732 — 344.1 hours (7.5%)
+- **Time period**: January 2020 to present
 
 ## Project Breakdown
-- **No project assigned:** 239.3 hours (30.2%) — *unchanged*
-- **[001-07] S3 IRAD** (Client: [001] IRAD): 166.6 hours (21.1%) — *unchanged*
-- **[001-04] S0 VTOL IRAD** (Client: [001] IRAD): 147.7 hours (18.7%) — *unchanged*
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: [300] NOAA): 135.8 hours (17.2%) — *unchanged*
-- **[550-1] Navy SBIR: Magnetometer:** 66.1 hours (8.4%) — *unchanged*
-- **[451-1] INSTAAR S3 x 2:** 33.2 hours (4.2%) — **+8.9 hours** ✓
-- **[001-23] SOCOM S0-AD:** 3.4 hours (0.4%) — *unchanged*
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| [001-07] S3 IRAD | 1,542.8 | 33.5% | [001] IRAD |
+| [001-16] SwiftStation IRAD | 921.2 | 20.0% | [001] IRAD |
+| [301-3] S0 Hurricane Phase II - 2025 | 483.9 | 10.5% | [301] NOAA: Joe Cione |
+| [001-04] S0 VTOL IRAD | 421.0 | 9.1% | [001] IRAD |
+| Project 197063732 | 344.1 | 7.5% | — |
+| [300-3] 2026 IDIQ (Hurricane) | 251.3 | 5.4% | [300] NOAA |
+| Project 161735648 | 177.6 | 3.9% | — |
+| [550-1] Navy SBIR: Magnetometer | 106.7 | 2.3% | — |
+| Commercial Sales | 97.7 | 2.1% | — |
+| [035-1] ADONIS Unmanned Experts | 77.0 | 1.7% | [035] Unmanned Experts |
+| All others | 186.5 | 4.0% | — |
 
 ## Recent Activity
-- **Current batch entries (8.9 hours, 1 entry):**
-  - **✓ 100% assigned to billable projects** — *sustained compliance*
-  - **✓ 100% described** — entry includes task context ("S3 Kits")
-  - Entry 1: [451-1] INSTAAR S3 x 2, 8.9 hours, "S3 Kits" ✓
+
+**Current focus (last 90 entries)**:
+- Dominant work on **[001-07] S3 IRAD** — extensive assembly, testing, and rework activities
+- Substantial hours on **[001-04] S0 VTOL IRAD** — consistent multi-day blocks (typically 2–8 hour sessions)
+- Increasing **[300-3] 2026 IDIQ (Hurricane)** work — quality control activities including record keeping and deployment tube testing
+- Moderate **[550-1] Navy SBIR: Magnetometer** work — sporadic sessions ranging 0.4–8.3 hours
+- **[451-1] INSTAAR S3 x 2** — recent S3 kit assembly work (5–9 hour blocks)
+
+**Notable descriptors**:
+- "S3 Kit Assembly" / "S3 Kits" — recurring assembly work
+- "Mags Bug" — magnetometer-related issue resolution
+- "Rework and Testing Prep" — quality assurance activities
+- "QC: Record Keeping" / "QC: Deployment Tubes" — hurricane project QC focus
+- Majority of entries lack descriptions, indicating continuous/routine work
 
 ## Patterns
 
-- **✓ PROJECT ASSIGNMENT COMPLIANCE — SUSTAINED EXCELLENCE:**
-  - Batch 33: 100% assigned ✓
-  - Batch 34: 0% assigned ✗
-  - Batch 35: 91.2% assigned ✓
-  - **Batch 36: 100% assigned ✓ — *returned to baseline***
-  - **Trend:** Two consecutive high-compliance batches (35–36) confirm batch 34 was isolated incident. Stable compliance restored.
+**Primary focus areas**:
+- **S3 systems** (IRAD + INSTAAR) represent ~40% of recent activity — core competency in sensor kit assembly and testing
+- **VTOL platform development** — substantial ongoing engineering effort
+- **NOAA Hurricane projects** — growing allocation, particularly 2026 IDIQ work with QC emphasis
+- **Navy magnetometer SBIR** — secondary but steady commitment
 
-- **✓ DESCRIPTION COMPLIANCE — CRITICAL IMPROVEMENT:**
-  - Batch 33: 25% described
-  - Batch 34: 0% described
-  - Batch 35: 20% described
-  - **Batch 36: 100% described ✓ — *first time at target***
-  - **Status:** Single entry with clear description ("S3 Kits") demonstrates compliance is achievable. Small batch size, but quality maintained.
-
-- **✓ PROJECT FOCUS:**
-  - INSTAAR S3 project concentration continues: 8.9 hours this batch (second consecutive focus on this project)
-  - Cumulative INSTAAR S3 hours now 33.2 hours (4.2% of total), up from 3.1% in batch 35
-
-## Action Items
-
-1. **✓ PROJECT ASSIGNMENT — COMPLIANCE MAINTAINED:**
-   - Batch 36: 100% assigned (excellent)
-   - Batch 34 regression confirmed as isolated incident
-   - **Current status:** Stable at 95%+ compliance over last 2 batches
-   - **Action:** Continue current standard; no escalation needed
-
-2. **✓ DESCRIPTION COMPLIANCE — SIGNIFICANT PROGRESS:**
-   - Batch 36 achieves 100% compliance for first time (1 of 1 entries described)
-   - "S3 Kits" provides adequate context
-   - **Action:** Maintain this standard—all entries must include brief task descriptions
-   - **Next batches:** Monitor to confirm 80%+ compliance is sustainable (batch 36 is positive signal but small sample)
-
-3. **⚠️ NEXT REVIEW TRIGGER:**
-   - If batch 37 drops below 90% project assignment OR falls below 70% description compliance, escalate for discussion
-   - Current trajectory is positive; no immediate action required
+**Work characteristics**:
+- Primarily hands-on technical work (assembly, testing, rework)
+- Full-day commitment typical (6–8+ hour sessions)
+- Most work untagged/undescribed; implies routine or well-understood tasks
+- Recent shift toward hurricane project QC activities alongside S3 platform work

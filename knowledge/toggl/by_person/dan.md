@@ -1,44 +1,60 @@
+_Computed from Toggl as of 2026-10-23: 5405.2 h tracked since 2020-01-01._
+
 # Dan Prendergast — Time Tracking
 
 ## Summary
-- Total hours tracked: **1,773.6 hours** (+6.5h)
-- Primary projects: SBIR Volcano CCRPP (64.8%), SBIR SMM DoD Phase II (6.1%), SBIR Hurricane Phase II (4.2%)
-- Time period: Consistent daily tracking with 6–9 hour entries; continued DoD engagement and IRAD activity
-- **Pattern**: Sustained momentum on revenue/strategic projects; SOCOM Pope solidifying as active engagement; IRAD and overhead operations continuing in parallel
+- **Total hours tracked:** 5,405.2 hours (all-time since 2020-01-01)
+- **Primary projects (top 5 by hours):**
+  1. Project 178336298: 1,107.0 hours (20.5%)
+  2. [001-13] Proposals: 664.0 hours (12.3%)
+  3. [400-5] SBIR - SMM DoD 22.4D Phase II: 573.8 hours (10.6%)
+  4. [001-13] BD Pipeline: 433.5 hours (8.0%)
+  5. [001-13] General Operations: 396.2 hours (7.3%)
+- **Time period:** 2020-01-01 to present
 
 ## Project Breakdown
-- **[200-7] SBIR - Volcano CCRPP**: 1,150.5 hours (64.8%)
-- **[600-1] SOCOM Pope** (DoD): 7.8 hours (0.4%) ⬆️ *+3.0h; sustained engagement*
-- **[001-07] S3 IRAD** (IRAD): 22.8 hours (1.3%) ⬆️ *+1.5h; continued reactivation*
-- **[001-13] BD Pipeline** (Overhead): 59.5 hours (3.4%)
-- **[001-13] General Operations** (Overhead): 65.3 hours (3.7%) ⬆️ *+2.0h; resumed*
-- **[001-13] Proposals** (IRAD): 131.1 hours (7.4%)
-- **[400-5] SBIR - SMM DoD 22.4D Phase II** (Department of the Air Force): 109.2 hours (6.1%)
-- **[301-2] SBIR - Hurricane Phase II+** (NOAA: Joe Cione): 74.8 hours (4.2%)
-- **[350-4] 2024 USGS - Chile (Mexico)** (USGS): 27.3 hours (1.5%)
-- **[001-23] SOCOM (CRADA) S0-AD** (DoD): 7.5 hours (0.4%)
-- **[550-1] Navy SBIR: Magnetometer** (DoD): 2.5 hours (0.1%)
-- **[001-12] Customer Support** (IRAD): 18.0 hours (1.0%)
-- **[001-09] SwiftCore 4.0 IRAD** (IRAD): 23.0 hours (1.3%)
-- **[001-12] BST Web Applications 2.0 IRAD**: 21.0 hours (1.2%)
-- **[044-1] EMASS Chip Integration**: 28.2 hours (1.6%)
-- **[001-13] HR General** (Overhead): 2.0 hours (0.1%)
-- **[031-1] UMES S3** (University of Maryland Eastern Shore): 1.3 hours (0.07%)
-- **[301-3] S0 Hurricane Phase II - 2025** (NOAA): 1.5 hours (0.1%)
-- **[018-1] Murray State CH4 Monitoring** (Murray State): 0.5 hours (0.03%)
-- **[001-20] PTO**: 16.0 hours (0.9%)
-- **Other projects**: 16.5 hours (0.9%)
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| Project 178336298 | 1,107.0 | 20.5% | (Unknown) |
+| [001-13] Proposals | 664.0 | 12.3% | [001] IRAD |
+| [400-5] SBIR - SMM DoD 22.4D Phase II | 573.8 | 10.6% | [400] Department of the Air Force |
+| [001-13] BD Pipeline | 433.5 | 8.0% | Overhead |
+| [001-13] General Operations | 396.2 | 7.3% | Overhead |
+| [1331] S2 CRATER (Costa Rica) | 324.5 | 6.0% | (Unknown) |
+| [301-3] S0 Hurricane Phase II - 2025 | 202.8 | 3.8% | [301] NOAA: Joe Cione |
+| [001-12] BST Web Applications 2.0 IRAD | 196.2 | 3.6% | [001] IRAD |
+| [001-07] S3 IRAD | 177.2 | 3.3% | [001] IRAD |
+| [200-14] Autonomy | 156.8 | 2.9% | (Unknown) |
+| Other projects (31 total) | 373.2 | 6.9% | Mixed |
+
+**Overhead allocation (non-billable):** 837.2 hours (15.5%)  
+**Leave/PTO:** 168.0 hours (3.1%)
 
 ## Recent Activity
-- **SOCOM Pope sustained**: 3.0 hours in this batch; second consecutive data entry confirms active DoD contract engagement (now 7.8 total hours)
-- **General Operations resumed**: 2.0 hours logged after prior batch absence; indicates resumption of overhead operational work
-- **S3 IRAD continues**: 1.5 hours added; maintains momentum on internal R&D reactivation initiated in previous batch
-- **Zero documentation across all entries**: No task descriptions or tags provided; persistent gap in time tracking detail
-- **Balanced project mix**: Single batch spans three project categories (DoD revenue, overhead, IRAD)
+
+Recent entries show consistent work across multiple concurrent projects with **no task descriptions provided**. Notable patterns in recent tracking:
+
+- Heavy focus on **[001-13] overhead projects:** Proposals, BD Pipeline, and General Operations appear in nearly every day
+- Frequent engagement with **[350-4] 2024 USGS - Chile (Mexico)** (multiple 2–4 hour sessions)
+- Regular blocks on **[001-07] S3 IRAD** (8+ hour days)
+- **[001-23] SOCOM (CRADA) S0-AD** showing increased activity (multiple 2–8 hour blocks)
+- **PTO** taken in 8-hour blocks (multiple instances)
+- **[044-1] EMASS Chip Integration** with consistent 2–3.5 hour sessions
+- **[001-12] Customer Support** appearing regularly (1–3.2 hour increments)
 
 ## Patterns
-- **DoD engagement solidifying**: SOCOM Pope showing consistent allocation (3.0h per batch); signals viable contract pipeline beyond initial entry
-- **Overhead cycle reactivation**: General Operations re-appears after brief pause; suggests cyclical overhead allocation pattern
-- **IRAD steady state**: S3 IRAD maintaining ~1.5h per batch post-reactivation; signals sustainable internal development commitment
-- **No documentation discipline**: Continued zero-description entries indicate systemic gap in task-level granularity; may impact project analytics
-- **Portfolio stability**: Time allocation across major projects (Volcano CCRPP, SMM Phase II, Hurricane) remains consistent; new DoD work supplementing rather than cannibalizing primary revenue efforts
+
+**Primary work focus areas:**
+- **Business Development & Operations:** ~27% of time (Proposals + BD Pipeline + General Operations)
+- **IRAD internal projects:** ~23% of time (BST Web Apps, S3 IRAD, General IRAD, SwiftCore)
+- **Sponsored research (SBIR/STTR):** ~17% of time (Air Force SMM, Navy programs, NOAA Hurricane)
+- **Hardware/Integration projects:** ~10% of time (CRATER, EMASS, Autonomy)
+- **Overhead/Administrative:** ~6% of time (PTO, Sick Leave, HR)
+
+**Notable observations:**
+- A single unidentified project (178336298) accounts for 20.5% of all-time hours—likely a major contract or significant internal initiative
+- Strong IRAD portfolio engagement across multiple projects
+- Mix of government contracts (DoD, Air Force, NOAA, USGS, Navy) and internal R&D
+- Recent weeks show balanced workload across proposal work, operations, and technical development
+- Lack of description metadata suggests either bulk imports or minimal task documentation in recent periods

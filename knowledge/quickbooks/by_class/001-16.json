@@ -4,14 +4,16 @@
     "(001-16) SwiftStation"
   ],
   "period": {
-    "start": "2026-08-02",
-    "end": "2026-08-26"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 168.51,
+    "expenses": 3656.28,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 168.51
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 3592.69,
+      "Indirect Cost:Internal Research and DevelopmentX": 59.99,
+      "Indirect Cost:TaxesX": 3.6
     }
   },
   "invoices": [],
@@ -104,6 +106,373 @@
           "amount": 18.5,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-27",
+      "doc_number": "",
+      "total": 953.9,
+      "attributed": 953.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase was charged in two parts. (see order no. 100525116)",
+      "lines": [
+        {
+          "amount": 953.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SwiftStation items"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-24",
+      "doc_number": "0724JELSTON",
+      "total": 3516.81,
+      "attributed": 494.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Fromm made directly purchase. Note provided via Slack:\"I somehow messed up the mcmaster order - anything that does not have a tag for project is in fact for s0 hurricane, all the other stuff is labeled correctly.\"",
+      "lines": [
+        {
+          "amount": 2908.74,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "IDIQ supplies for extra 13 S0s"
+        },
+        {
+          "amount": 113.18,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NASA S2 supplies"
+        },
+        {
+          "amount": 494.89,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SwiftStation supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-23",
+      "doc_number": "ST61Q172",
+      "total": 1504.42,
+      "attributed": 191.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "A. Lomis made order because M. Needham was out sick and the order was needed immediately. The breakdown of projects is provided in the attached document provided by A. Lomis",
+      "lines": [
+        {
+          "amount": 112.41,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Navy Magnetometer supplies"
+        },
+        {
+          "amount": 1200.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "NOAA IDIQ supplies"
+        },
+        {
+          "amount": 191.47,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IRAD Swiftstation supplies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-22",
+      "doc_number": "",
+      "total": 106.03,
+      "attributed": 106.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 4617",
+      "lines": [
+        {
+          "amount": 106.03,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GCS2.0-Drill-Jig.step, GCS2.0-FTDI-Mount.step, GCS2.0-TPU-Foot.step"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-21",
+      "doc_number": "000419974",
+      "total": 305.75,
+      "attributed": 305.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 305.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SparkFun GPS-RTK Board - NEO-M8P-2; GNSS L1/L2 Multi-Band Magnetic Mount Antenna - 5m (SMA)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-21",
+      "doc_number": "",
+      "total": 154.17,
+      "attributed": 154.17000000000002,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request",
+      "lines": [
+        {
+          "amount": 129.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Pelican 1170 case x 2"
+        },
+        {
+          "amount": 25.17,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "cable and connectors"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-21",
+      "doc_number": "100525116",
+      "total": 370.42,
+      "attributed": 370.42,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 370.42,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Supplies for SwiftStation"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-17",
+      "doc_number": "",
+      "total": 167.0,
+      "attributed": 167.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 167.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-16",
+      "doc_number": "QT077799",
+      "total": 459.0,
+      "attributed": 459.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WWW.MICROHARDCORP.COM - 7333",
+      "lines": [
+        {
+          "amount": 459.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "1 x p900-SWP"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-07",
+      "doc_number": "139935",
+      "total": 130.5,
+      "attributed": 130.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 130.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "OpenUPS"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-07-06",
+      "doc_number": "100222302",
+      "total": 3240.72,
+      "attributed": 91.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 91.05,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "SwiftStation parts"
+        },
+        {
+          "amount": 3149.67,
+          "account": "Inventory Asset",
+          "description": "Future S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-31",
+      "doc_number": "",
+      "total": 8.36,
+      "attributed": 8.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 8.36,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "IRAD SwiftStation supplies not available - money returned"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-29",
+      "doc_number": "",
+      "total": 8.97,
+      "attributed": 8.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "parts for GroundStation\nPurchased in store (Alex)",
+      "lines": [
+        {
+          "amount": 4.65,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "1/4\" Aluminum EZ Clips 15pk"
+        },
+        {
+          "amount": 4.32,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "1/2\" Copper Tube Straps"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-07-24",
+      "doc_number": "0722JELSTON",
+      "total": 218.4,
+      "attributed": 46.26,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "purchases categorized by purchaser in McMaster Order receipt",
+      "lines": [
+        {
+          "amount": 11.16,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Rounded Head Thread-Cutting Screws for Metal, Zinc-Plated Steel, 6-32 Thread, 5/16\" Long, Packs of 100"
+        },
+        {
+          "amount": 5.01,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Self-Retaining Washer for #6 & M3.5 Screw Size"
+        },
+        {
+          "amount": 8.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "emale Threaded Round Standoff, 18-8 Stainless\nSteel, 3/8\" OD x 3"
+        },
+        {
+          "amount": 9.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "tainless Steel Pan Head Torx Screws, 10-32\nThread Size"
+        },
+        {
+          "amount": 4.37,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "316 Stainless Steel Washer for Number 10 Screw\nSize"
+        },
+        {
+          "amount": 10.95,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "8-8 Stainless Steel Socket Head Screw"
+        },
+        {
+          "amount": 11.98,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Nylon Flat Edge Insulating Sleeve Washers for\n1/2\" Screw Size"
+        },
+        {
+          "amount": 9.71,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "8-8 Stainless Steel Narrow Cheese Head Slotted\nScrews"
+        },
+        {
+          "amount": 9.31,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "8-8 Stainless Steel Torx Flat Head Screws,"
+        },
+        {
+          "amount": 66.9,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Female Threaded Hex Standoff, Aluminum x 30"
+        },
+        {
+          "amount": 31.14,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "18-8 Stainless Steel Binding Barrel, 8-32 Thread x 3"
+        },
+        {
+          "amount": 3.6,
+          "account": "Indirect Cost:TaxesX",
+          "description": "Sales Tax (IRAD SwiftStation)"
+        },
+        {
+          "amount": 4.01,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Sales Tax (IRAD S3)"
+        },
+        {
+          "amount": 9.37,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Sales Tax (IRAD VTOL)"
+        },
+        {
+          "amount": 5.04,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Shipping (IRAD SwiftStation)"
+        },
+        {
+          "amount": 5.62,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Shipping (IRAD S3)"
+        },
+        {
+          "amount": 13.15,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Shipping (IRAD VTOL)"
         }
       ]
     }

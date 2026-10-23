@@ -1,71 +1,55 @@
+_Asana snapshot as of 2026-10-23: 1 open tasks, 13 completed (last 365 days)._
+
 # [035-1] ADONIS Unmanned Experts
 
 ## Overview
-- **Client/Customer:** Unmanned Experts Inc. (CEO: Keven Gambold, 303-717-0031, kagambold@unmannedexperts.com)
-- **Dollar Value:** $1,249,945 total project budget; $190,000 funding to Black Swift Technologies
-- **Timeline:** September 2024 - May 2026 (21 months); Original Project Due: February 27, 2026
-- **Status:** ✅ **ARCHIVED — Project Fully Complete as of April 10, 2026.** All BST deliverables completed; final invoice sent; final report handled by UMEX. 
-  - **Per Jack Elston (2026-04-20):** "ADONIS (035-1) project is ARCHIVED and fully complete. UMEX handled the final report, BST sent the final invoice. Do NOT list any ADONIS tasks as priorities, ever again. Permanently exclude from briefings."
-  - **Per Daniel Prendergast (2026-04-20):** "That is complete and the entire ADONIS project has been closed out."
-- **Team Members:** Alex Lomis (Project Owner/Primary), Jack Elston, Josh Fromm, Maciej Stachura, Nate Straus (PIC), Meredith O'hara Needham, Beck Cotter
-- **Risk Signals:** None on core project. Post-project regulatory follow-up (SNAP-R documentation) flagged by Jack Elston as potential future task — see Notes & Context.
+- **Client/Customer:** Unmanned Experts Inc. (CEO: Keven Gambold, 303-717-0031)
+- **Billing Contact:** Bill Cossoff, b.cossoff@unmannedexperts.com
+- **Dollar Value:** $190,000 (BST portion of $1,249,945 total program budget)
+- **Timeline:** Oct 2024 – May 2026 (21-month program)
+- **Status:** **ARCHIVED** — Project completed as of April 10, 2026
+- **Team:** Alex Lomis (owner), Meredith O'hara Needham, whole BST team
+- **Priority:** Medium
 
 ## Key Deliverables & Milestones
-1. **Deliverable 1: Engineering Prototype (A1) Hardware Freeze** - Oct-Nov 2024 ✓ (Completed Jan 23, 2025)
-2. **Deliverable 2: A1 Flight Trials** - Dec 2024-Mar 2025 ✓ (Completed Apr 10, 2025)
-3. **Deliverable 3: A1 Swarming Flight Tests** - Apr-Jun 2025 ✓ (Completed Jul 9, 2025)
-4. **Deliverable 4: A2 Interim Flight Tests** - Jul-Oct 2025 ✓ (Completed Nov 19, 2025)
-5. **Deliverable 5: Mothership-dropped A2 Flight Tests** - Nov 2025-Feb 2026 ✓ (Completed Mar 18, 2026)
-6. **Deliverable 6: Final Report** - ✓ (Completed Apr 10, 2026 by UMEX, **not BST responsibility**)
 
-**Aircraft Deliverables:**
-- 2x S0 VTOL ✓ (delivered Jan 22, 2026, per Dec 2024 scope change)
-- 4x S0 AD ✓ (delivered Jan 22, 2026, per Dec 2024 scope change: 2x by early October 2025, 2x by early January 2026)
+| Deliverable | Timeline | Status | Notes |
+|---|---|---|---|
+| **A1 Hardware Freeze** | Oct–Nov 2024 | Complete | Engineering Prototype |
+| **A1 Flight Trials** | Dec 2024–Mar 2025 | Complete | |
+| **A1 Swarming Flight Tests** | Apr–Jun 2025 | Complete (11/19/2025) | V2V swarming capabilities report |
+| **A2 Interim Flight Tests** | Jul–Oct 2025 | Complete (11/19/2025) | A2 subsystem performance using A1 platform |
+| **Mothership-dropped A2 Flight Tests** | Nov 2025–Feb 2026 | Complete (01/22/2026) | Multi-S0 AD drop + single S0 AD Air Commons flight |
+| **Final Report** | Mar–May 2026 | Complete (04/10/2026) | Program performance summary; due 05/18, delivered 04/10 |
+
+## Aircraft Deliverables (as of 12/19/24 update)
+- **2x S0 VTOL** — Delivered early January 2026 (originally due early March 2025)
+- **4x S0 AD** — Delivered early January 2026 (originally due early October 2025)
+
+Note: Scope revised from 3x each to 2x VTOL + 4x AD per meeting with Alex Lomis.
 
 ## Task Summary
-- **Total Tasks:** 45 completed, 1 open administrative task (100% completion rate on deliverables)
-- **Current Asana Tasks:** 1 open contact record (Keven Gambold — unassigned, no due date; administrative only), 0 open deliverable tasks
-- **Tasks by Assignee:**
-  - **Alex Lomis:** 28+ completed tasks (primary technical lead) — hardware design, component mounts, aircraft integration, UMEX hardware integration, flight test coordination, milestone completion
-  - **Jack Elston:** 4+ completed tasks — autopilot integration, simulation setup, UMEX hardware bench testing
-  - **Josh Fromm:** 1 completed task — S0 AD specifications
-  - **Meredith O'hara Needham:** 3 tasks — administrative (final invoice sent Apr 10, 2026)
-  - **Beck Cotter:** 1 completed task — launch meeting coordination
-- **Notable Patterns:** Milestone-driven structure with formal reporting requirements; hardware-heavy integration work led by Alex Lomis; extensive custom component design and manufacturing; training/travel required for pilot operations
+- **Total tasks:** 14 (1 open, 13 completed)
+- **Completion rate:** 93%
+- **Primary assignee:** Alex Lomis (7 completed tasks, 1 milestone)
+- **Secondary assignee:** Meredith O'hara Needham (3 completed tasks)
 
-## Recent Activity
-- **October 7-8, 2026:** Jack Elston flagged potential post-project regulatory follow-up — SNAP-R documentation submission. Jack notes BST may need to submit but lacks SME expertise; suggests Keven Gambold (UMEX) should lead. See Notes & Context below.
-- **April 20, 2026:** Final archival confirmation by Jack Elston and Daniel Prendergast. Project completely closed; UMEX handled final report; BST final invoice sent. **Status changed to ARCHIVED. Do not include in future briefings or priority lists.**
-- **April 17, 2026:** Team clarification — Alex Lomis and Jack Elston confirmed BST had **no responsibility** for final report deliverable; UMEX handled it completely. Jack noted fixing AI bugs that were causing obsession with the ADONIS final report in tracking systems.
-- **April 10, 2026:** Project closure — Final invoice sent by Meredith O'hara Needham; Final Report milestone completed by UMEX (not BST)
-- **March 18, 2026:** Completed Mothership-dropped Swarming Flight milestone
-- **January 22, 2026:** Delivered all aircraft (2x S0 VTOL, 4x S0 AD)
-- **November 19, 2025:** Completed MS4 Swarming Flight and interim A2 Hardware Flight
+### Recent Completions (Apr 2026)
+- Final Report milestone & deliverable (04/10/2026, on-time despite slight slip from original 04/01 due date)
+- Final invoice sent (04/10/2026)
 
 ## Notes & Context
 
-**Project Scope:** Three main task areas supporting Unmanned Experts' autonomous sUAS swarming technology:
-1. Autonomous sUAS integration — design, iteration, and build of autonomous swarming capability with multiple aircraft
-2. Large aircraft integration — design and integration of swarm release mechanism for mothership deployment
-3. Transition & Commercialization Preparations — support for licensing, regulatory comprehension, and commercialization planning
+### Key Context from Custom Fields
+- **Customer Type:** Commercial
+- **Products/Services:** Other (bespoke autonomous sUAS integration)
+- **Regulatory/Commercialization Focus:** Statement of Work includes transition & commercialization prep with regulatory comprehension
 
-**Key Technical Elements:**
-- Integration of UMEX Air Commons swarming hardware with BST autopilot systems (FMS, PNT, V2V communication)
-- V2V swarming capabilities on S0 platforms
-- Air-dropped deployment from mothership aircraft using swarm release mechanism
-- Custom component mounts and housing designs for S0 VTOL and S0 AD platforms
-- Autopilot simulation setup support for UMEX team
-- Firmware upgrades on ADONIS VTOL hardware
+### Outstanding Item
+One task remains open: contact info task for Keven Gambold (CEO, unassigned, no due date). This appears to be a data/reference record rather than active work.
 
-**Contract Details:**
-- Prime Contract: FA8649-24P-0981 (ADONIS)
-- Billing Contact: Bill Cossoff (b.cossoff@unmannedexperts.com), 720 South Colorado Blvd, Penthouse North, Denver, CO 80246
-- Subcontractor: Black Swift Technologies (BST)
-- Priority: Medium
-- Customer Type: Commercial
+### Team Feedback (Oct 2026)
+Per Jack's feedback (10/07–10/08): Discussion about submitting regulatory/compliance materials to "snap-r" (likely regulatory authority). KS (presumably Kevin Steffenhagen or similar) was flagged as best equipped to help construct and submit language, with Jack and Meredith having done prior submissions but lacking deep expertise. *No Asana tasks reflect this as active work as of project closure.*
 
-**Final Report Scope Clarification (TEAM-CONFIRMED):** Per **Alex Lomis (2026-04-17)** and **Jack Elston (2026-04-17, 2026-04-20)**: BST had **no responsibility** for the final report deliverable. UMEX handled the final report completely. The May 2026 timeline for final report in the contract was a placeholder; BST's involvement ended with completion of aircraft delivery and flight testing in March 2026. **Per Daniel Prendergast (2026-04-20):** "you can stop hazing Alex about the ADONIS final report. That is complete and the entire ADONIS project has been closed out."
-
-**Program Performance:** Project successfully transitioned through all six major flight test milestones with minimal delays. All hardware deliverables completed on schedule per adjusted scope (Dec 2024).
-
-**Post-Project Regulatory Follow-up (2026-10):** **Per Jack Elston (2026-10-07, 2026-10-08):** BST may need to submit documentation to SNAP-R (regulatory/compliance filings). Jack notes: "Seems like something KS [Keven Gambold] should be able to help us construct / submit to snap-r / follow through on? I've done it and so has Meredith, but we're certainly not experts there and really don't know the language that should be used." **Status:** This is post-project administrative/regulatory follow-up, not
+## Project Completion Status
+**Project delivered successfully.** All major milestones met, final report submitted ahead of schedule (04/10 vs. 05/18 due date), and final invoice processed. Aircraft deliverables completed early January 2026. Program ran slightly longer than initially planned (aircraft delivery delays through fall 2025), but all regulatory and flight test objectives achieved.

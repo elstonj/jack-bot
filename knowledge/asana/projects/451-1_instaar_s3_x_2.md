@@ -1,44 +1,50 @@
+_Asana snapshot as of 2026-10-23: 7 open tasks, 1 completed (last 365 days)._
+
 # [451-1] INSTAAR S3 x 2
 
 ## Overview
-- **Client/Customer**: INSTAAR, CU Boulder (CU Stable Isotope Lab)
-- **Dollar Value**: $120,000 total to BST
-- **Timeline**: 
-  - **S3 Delivery Target**: February 27, 2026 (Josh Fromm — delivery lead) — *operative deadline*
-  - **Operator Training**: August 11–13, 2025 — **~4 months away; travel not yet scheduled**
-  - **Launcher Pallet Expected**: Second week of February 2025 (3–4 week shipping; confirmed January 8, 2025)
-  - **Estimates Approved**: December 11, 2024
-- **Status**: Active — replacing two damaged S2s with insurance-funded S3 units
-- **Team Members**: Josh Fromm (delivery/QC owner), Nate Straus (assembly/QC flight), Dan Prendergast (operator training), Kevin Rozmiarek (primary & billing contact)
-- **Risk Signals**: 
-  - **🔴 CRITICAL — Operator Training Travel**: August 11–13, 2025 training **travel not yet scheduled** (Travel Scheduled: N). Less than 4 months away; must be booked immediately.
-  - **🔴 TASK ASSIGNMENT ISSUE**: Assembly and QC Flight tasks show as "Unassigned" in current Asana data, but prior context indicates Nate Straus (Assembly) and Josh Fromm (QC Ground/Flight) are leads. Clarify assignments.
-  - **⚠️ Project Due Dates vs. Task Dates**: Asana project-level due dates (2025-05-16, 2025-08-22) conflict with task dates (Assembly 2026-08-21, QC Flight 2026-09-01) and confirmed delivery target (Feb 27, 2026). Task-level and delivery dates are operative; project-level dates appear stale.
+- **Client:** INSTAAR, CU Boulder (Stable Isotope Lab)
+- **Primary Contact:** Kevin Rozmiarek, Kevin.rozmiarek@colorado.edu, (512) 573-8279
+- **Dollar Value:** $120,000 total budget ($10k discount applied to one unit due to 5% insurance deductible)
+- **Timeline:** 
+  - Estimates approved: 12/11/24
+  - Expected launcher shipment arrival at BST: Second week of February 2025 (3–4 week lead time per Kevin)
+  - Project due date (Asana): 2025-08-22 (original) / 2026-02-27 (task due date—see Notes)
+- **Status:** Active — replacement units for two damaged S2s (customer received insurance proceeds)
+- **Team:** Josh Fromm (owner/lead), Dan Prendergast (training), others assigned to downstream tasks
+- **Risk Signals:** 
+  - Conflicting due dates (project due 2025-08-22 vs. delivery task due 2026-02-27)
+  - Multiple unassigned tasks (Assembly, QC Flight)
+  - Training dates noted as "Aug 11-13?" with no travel scheduled yet (high urgency flagged)
 
 ## Key Deliverables & Milestones
-- **Launcher Pallet Arrival**: Estimated **second week of February 2025** (3–4 week shipping window; confirmed January 8, 2025)
-- **Assembly**: Due **August 21, 2026** (currently Unassigned; likely Nate Straus)
-- **QC Flight**: Due **September 1, 2026** (currently Unassigned; likely Josh Fromm)
-- **S3 Delivery (2 units)**: Target **February 27, 2026** — $120,000 (Josh Fromm delivery lead)
-- **Operator Training**: **August 11–13, 2025** — High urgency; travel logistics not yet scheduled (Dan Prendergast)
+| Task | Owner | Due Date | Status |
+|------|-------|----------|--------|
+| Order/Fab Parts | Josh Fromm | 2026-06-15 | Open |
+| Assembly | Unassigned | 2026-08-21 | Open |
+| QC Ground | Josh Fromm | 2026-08-24 | Open |
+| QC Flight | Unassigned | 2026-09-01 | Open |
+| Operator Training (2 units, S3) | Dan Prendergast | TBD (Aug 11–13 proposed) | Open, no travel scheduled |
+| **Deliver INSTAAR/CU S3x2** | Josh Fromm | 2026-02-27 | Open |
+
+**Completed:** S2 Repairs (Nov 19, 2025 — damage assessment/replacement decision)
 
 ## Task Summary
-- **Total Tasks**: 2 open, 0 completed (0% completion rate)
-- **Tasks by Assignee**:
-  - Assembly (Unassigned): Due Aug 21, 2026 — *likely Nate Straus*
-  - QC Flight (Unassigned): Due Sep 1, 2026 — *likely Josh Fromm*
+- **Total:** 7 open, 1 completed
+- **By Assignee:**
+  - Josh Fromm: 3 tasks (Deliver, Order/Fab, QC Ground)
+  - Dan Prendergast: 1 task (Training)
+  - Unassigned: 3 tasks (Assembly, QC Flight, contact record)
+- **Custom Fields in Use:** Platform (S3), Order Quantity (2), Project Reference, Urgency Level, Training/Travel Needed, Training/Travel Dates; company/contact metadata tracked in a dedicated task
 
 ## Recent Activity
-- **January 8, 2025**: Kevin Rozmiarek confirmed 3–4 week launcher pallet shipping window; expects delivery by second week of February 2025.
-- **December 11, 2024**: Estimates approved.
+- **Nov 19, 2025:** S2 Repairs completed (damage assessment resolved; insurance claim approved)
+- **01/08/2025:** Kevin Rozmiarek confirmed launcher lead time of 3–4 weeks; soonest pallet delivery to BST: **second week of February 2025**
+- **12/11/24:** Estimates approved for both S3 units
 
 ## Notes & Context
-- **Insurance-funded replacement** for two damaged S2 units; one S3 includes **$10k discount** (5% insurance deductible applied to total).
-- **Operator Training Travel — URGENT**: August 11–13, 2025 training logistics (flights, accommodations) **must be scheduled immediately**. Less than 4 months away; coordinate with Dan Prendergast and Kevin Rozmiarek.
-- **Primary & Billing Contact**: Kevin Rozmiarek, CU Stable Isotope Lab, 4001 Discovery Dr., Boulder, CO 80303; Kevin.rozmiarek@colorado.edu; (512) 573-8279
-- **Project Priority**: Medium | **Customer Type**: Commercial
-- **Products**: 2× S3 units with standard equipment
-- **Action Items**:
-  - Reassign Assembly and QC Flight tasks (confirm Nate Straus and Josh Fromm ownership)
-  - Update project-level due dates to align with operative 2026 timeline
-  - Book operator training travel immediately (Aug 2025)
+1. **Due Date Discrepancy:** Project-level due date is 2025-08-22, but the main delivery task is due 2026-02-27. Confirm correct timeline with Josh Fromm.
+2. **Training Logistics:** Dan Prendergast's training task references Aug 11–13 (marked as "High" urgency, 2 units, travel needed), but travel is not yet scheduled. Clarify if this is summer 2025 or 2026 and confirm dates with customer.
+3. **Unassigned Critical Tasks:** Assembly and QC Flight need owners assigned to maintain schedule.
+4. **Launcher Arrival Window:** Expected mid-February 2025 per Kevin; plan material and labor accordingly.
+5. **Financial:** One S3 carries a $10k discount (5% insurance deductible offset). Confirm final invoicing aligns with this adjustment.

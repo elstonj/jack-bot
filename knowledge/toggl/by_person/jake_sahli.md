@@ -1,30 +1,32 @@
+_Computed from Toggl as of 2026-10-23: 1221.1 h tracked since 2020-01-01._
+
 # Jake Sahli — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,280.6 hours
-- Primary projects: SBIR Soil Moisture Mapping (835 hours), BluFlux Cellular Antenna Integration (415.6 hours)
-- Time period: Not specified in available data
+- **Total hours tracked:** 1,221.1 hours (all-time since 2020-01-01)
+- **Primary projects:** 
+  1. SBIR - Soil Moisture Mapping
+  2. BluFlux Cellular Antenna Integration
+  3. SwiftStation IRAD
+- **Time period:** 2020-01-01 to present
 
 ## Project Breakdown
-- **[400-5] SBIR - Soil Moisture Mapping** (Department of the Air Force): 835.0 hours (65.2%)
-- **BluFlux Cellular Antenna Integration**: 415.6 hours (32.4%)
-- **Project None**: 16.0 hours (1.3%)
-- **[001-16] SwiftStation IRAD** (IRAD): 14.0 hours (1.1%)
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| [400-5] SBIR - Soil Moisture Mapping | 788.0 | 64.5% | Department of the Air Force |
+| BluFlux Cellular Antenna Integration | 405.1 | 33.2% | (Not specified) |
+| [001-16] SwiftStation IRAD | 12.0 | 1.0% | IRAD |
+| Project None | 16.0 | 1.3% | (Unclassified) |
 
 ## Recent Activity
-Jake's recent work has been heavily focused on the BluFlux Cellular Antenna Integration project, with activities including:
-- Initial project onboarding (reading project documentation, computer setup)
-- WP7610 Module boot-up and configuration
-- MangOH Red development board bring-up and data capture
-- DCA Firmware development
-- Terrestrial testing
-- BluFlux project meetings
-
-Recent entries show continued focus on BluFlux work with some parallel SwiftStation IRAD tasks. Most recent detailed activities include MangOH Red bringup, DCA firmware development, and terrestrial testing phases.
+Based on time allocation patterns:
+- Primary focus on SBIR soil moisture mapping work for DoAF (majority of tracked time)
+- Significant secondary effort on BluFlux cellular antenna integration
+- Minimal recent activity on SwiftStation IRAD project
+- Small amount of unclassified/administrative time
 
 ## Patterns
-- **Primary focus area**: Embedded systems and hardware integration work
-- **Work shift**: Transitioned from primarily working on Air Force SBIR soil moisture mapping to concentrated work on BluFlux integration projects
-- **Documentation habits**: Most recent entries lack detailed descriptions, indicating sustained periods of focused development work with minimal time tracking overhead
-- **Technical specialization**: Hardware bring-up, firmware development, cellular module integration, and system testing
-- **Work intensity**: Recent entries show consistent full-day work sessions (6-10 hour blocks) on BluFlux project with occasional SwiftStation IRAD work interspersed
+- **Work concentration:** Jake is heavily focused on SBIR soil moisture mapping, which comprises nearly two-thirds of his tracked time
+- **Dual-track focus:** Secondary substantial commitment to BluFlux antenna integration suggests either a transition between projects or parallel project responsibilities
+- **Project maturity:** Distribution suggests SBIR is the primary active engagement, with BluFlux as a substantial secondary commitment

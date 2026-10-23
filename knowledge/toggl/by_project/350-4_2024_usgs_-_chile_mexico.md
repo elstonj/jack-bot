@@ -1,64 +1,35 @@
+_Computed from Toggl as of 2026-10-23: 177.6 h total since 2020-01-01 — Dan 120.7 h, Jack Elston 29.2 h, Spencer Hoehl 18.5 h, Stachura 9.0 h, Karen Young 0.2 h._
+
 # [350-4] 2024 USGS - Chile (Mexico) — Time Tracking
 
 ## Overview
-- Client: 350 USGS
-- Active/inactive status: Active
-- Billable status: No
-- Total hours tracked: 62.7 hours (60.3h previous + 2.4h new)
+- **Client:** 350 USGS
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 177.6 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- Jack Elston: 19.8 hours (32%)
-- Dan: 18.8 hours (30%)
-- Spencer Hoehl: 18.8 hours (30%)
-- Stachura: 5.3 hours (8%)
-- Karen Young: 0.2 hours (<1%)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Dan | 120.7 | 67.9% |
+| Jack Elston | 29.2 | 16.4% |
+| Spencer Hoehl | 18.5 | 10.4% |
+| Stachura | 9.0 | 5.1% |
+| Karen Young | 0.2 | 0.1% |
+
+**Primary Contributor:** Dan (120.7 hours)
 
 ## Activity Timeline
-Recent work entries (4 of 41 total):
-- Spencer Hoehl: **Undescribed work (0.5h)** — *NEW SUBMISSION*
-- Spencer Hoehl: **Undescribed work (0.2h)** — *NEW SUBMISSION*
-- Spencer Hoehl: **Undescribed work (1.3h)** — *NEW SUBMISSION*
-- Spencer Hoehl: **Undescribed work (0.5h)** — *NEW SUBMISSION*
-- [37 previous entries as documented]
+Recent work entries show active engagement from Dan and Spencer Hoehl across 26 logged sessions. Work entries lack descriptions, making specific task identification impossible. Session durations range from 0.1 to 4.2 hours.
+
+**Recent Activity Pattern:**
+- Dan: Multiple sessions ranging 1.2–4.2 hours
+- Spencer Hoehl: Multiple sessions ranging 0.1–4.2 hours (more frequent, smaller increments)
+- No recent activity from Jack Elston, Stachura, or Karen Young
 
 ## Insights
-- **Operational phase**: Active testing and deployment preparation continuing
-- **Primary work focus**: Flight testing (11.3h), payload configuration (4.5h), regulatory compliance (0.5h), infrastructure documentation (1.5h)
-- **Geographic scope**: Chile and Mexico operations
-- **Key contributors**: Jack Elston (32%) and Dan (30%); Spencer Hoehl now equals Dan at 30%
-
----
-
-## 🚨 CRITICAL ESCALATION — NON-COMPLIANCE PATTERN INTENSIFYING
-
-**36.6 hours (58% of total project time) lack descriptions**
-
-### **Spencer Hoehl: 18.8 hours** (100% of his contribution undescribed)
-- **CRITICAL PATTERN ESCALATION**: 17 consecutive undescribed entries across FIVE data cycles
-- **LATEST SUBMISSION**: 2.4h submitted across 4 entries without any descriptions (pattern accelerating)
-- Hours breakdown: 2.4h (current submission) + 0.6h (cycle 3) + 11.2h (cycle 2) + 4.5h (cycle 1)
-- **Trend**: Submission frequency and volume both increasing without compliance improvement
-
-### Other outstanding descriptions (from prior cycles):
-- Dan: 17.8 hours (100% undescribed)
-- Stachura: 1.1 hours (100% undescribed)
-- Karen Young: 0.2 hours (100% undescribed)
-
-### ⚠️ **STATUS**: **ESCALATION OVERDUE & WORSENING** — Spencer Hoehl has now submitted undescribed time in FIVE consecutive data cycles with:
-- Zero retroactive documentation
-- Zero compliance corrections
-- No supervisor intervention despite prior escalation
-- **ACCELERATING PATTERN**: 2.4h submitted this cycle (vs. 0.6h previous cycle)
-
-### **IMMEDIATE ACTIONS REQUIRED** (ENFORCEMENT PHASE):
-
-1. **DO NOT APPROVE**: Block all 4 Spencer Hoehl entries (2.4h total) pending compliance
-2. **Formal written notice — ESCALATION OVERDUE**: Issue documented compliance violation notice to Spencer Hoehl with **24-hour deadline** for complete retroactive descriptions (18.8 hours total)
-3. **Escalate to senior management immediately**: Non-compliance now spans five consecutive submissions — indicates deliberate disregard for process requirements
-4. **Suspend all future approvals**: Do not process any additional Spencer Hoehl time entries until full retroactive compliance is demonstrated
-5. **Formal documentation**: File formal escalation report with management including:
-   - Timeline of non-compliance (5 cycles)
-   - Pattern of acceleration (increasing hours per submission)
-   - Prior unresolved escalation
-
-**Previous escalation actions remain unresolved. Intervention is now critical.**
+- **Dominance:** Dan accounts for nearly 68% of all project hours, indicating primary ownership
+- **Secondary Focus:** Spencer Hoehl shows recent active involvement with shorter, fragmented sessions
+- **Documentation Gap:** All 26 recent entries lack descriptions—task context unavailable
+- **Non-Billable:** This USGS project is tracked but not billed, suggesting internal or research allocation
+- **Long Timeline:** Project has been active since at least 2020, indicating sustained engagement

@@ -1,38 +1,36 @@
+_Computed from Toggl as of 2026-10-23: 183.3 h total since 2020-01-01 — Josh Fromm 61.0 h, Ethan Domagala 44.2 h, Nate 42.5 h, Dan 25.2 h, Jack Elston 5.0 h, Kareem Ahmed 3.8 h, Stachura 1.5 h._
+
 # [212-2] NASA S2 & Parts — Time Tracking
 
 ## Overview
 - **Client:** NASA
-- **Status:** Active
-- **Billable:** No
-- **Total hours tracked (cumulative):** 92.2 hours
-  - Previous batches: 68.2 hours
-  - Current batch: 24.0 hours
+- **Active Status:** Yes
+- **Billable Status:** No
+- **Total Hours Tracked:** 183.3 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Nate:** 44.4 hours (48.2% of all tracked time)
-- **Ethan Domagala:** 42.2 hours (45.8% of all tracked time) — *Significantly increased activity*
-- **Jack Elston:** 4.0 hours (4.3% of all tracked time)
-- **Stachura:** 1.5 hours (1.6% of all tracked time) — *New contributor*
-- **Primary contributor:** Nate (slight lead); Ethan now nearly equal; two new team members entered
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Josh Fromm | 61.0 | 33.3% |
+| Ethan Domagala | 44.2 | 24.1% |
+| Nate | 42.5 | 23.2% |
+| Dan | 25.2 | 13.8% |
+| Jack Elston | 5.0 | 2.7% |
+| Kareem Ahmed | 3.8 | 2.1% |
+| Stachura | 1.5 | 0.8% |
+
+**Primary Contributors:** Josh Fromm, Ethan Domagala, and Nate (combined 80.6% of tracked time)
 
 ## Activity Timeline
-- **Recent work entries (current batch - 4 entries, all undocumented):**
-  - Ethan Domagala: 8.5h — *(no description)*
-  - Ethan Domagala: 8.0h — *(no description)*
-  - Ethan Domagala: 6.0h — *(no description)*
-  - Stachura: 1.5h — *(no description)*
-- **Work pattern:** Ethan's hours surged dramatically (22.5h this batch alone); three large contiguous blocks; new team member Stachura minimal contribution; **critical regression: 0% documentation rate**
+Recent work entries show consistent activity from the core team:
+- **Josh Fromm & Nate:** Recent blocks of 8-hour entries (likely full workdays)
+- **Ethan Domagala:** Mixed entry sizes (0.5h–8.5h), suggesting varied task durations
+- **Jack Elston:** Recent debugging and flight testing work (4.0h total in recent entries)
+- **Dan:** Smaller contributions with 2.5h and 2.2h recent entries
+- **Stachura:** Single 1.5h entry
 
 ## Insights
-- **Documentation crisis re-emerged:** After achieving 100% entry descriptions with Jack, current batch reverts to 0% documented entries—suggests protocol not institutionalized
-- **Ethan workload spike:** 22.5 hours in single batch vs. prior average of ~7-8h/batch; investigate cause (deadline pressure, scope expansion, catch-up work?)
-- **Team expansion continues:** Stachura onboarded but minimal visible activity (1.5h); unclear role/scope
-- **Workload distribution shifting:** Ethan now approaching Nate's contribution level; previously Jack was third-tier; now Stachura is lowest contributor
-- **Quality regression:** Contradicts previous batch's positive momentum on documentation standards
-
-**Recommendations (URGENT):**
-1. **Enforce documentation immediately:** Require all team members to include task descriptions on every entry; audit Ethan's 22.5 undocumented hours to recover context
-2. **Clarify Ethan's spike:** Schedule check-in to understand if 22.5h represents normal workload shift, catch-up activity, or documentation of prior unlogged work
-3. **Define Stachura's role:** Confirm onboarding scope, expected contribution level, and integration with Nate/Ethan/Jack workflow
-4. **Revisit Jack's integration:** Jack's clean logging standards appear not to have influenced team culture; determine why and reinforce expectations
-5. **Restore previous standard:** Jack's 100% documentation rate (prior batch) must become baseline expectation, not exception
+- **Work Types Identified:** Battery build, debugging, flight testing (limited description data available)
+- **Pattern:** Majority of recent entries lack descriptions, limiting visibility into specific task types
+- **Workload Distribution:** Three-person core team (Josh, Ethan, Nate) carries primary project load; supporting contributors provide specialized work (testing, debugging)
+- **Activity Level:** Consistent engagement with recent multi-hour entries suggesting active development/testing phase

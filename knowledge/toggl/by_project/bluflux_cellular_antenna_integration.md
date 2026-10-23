@@ -1,28 +1,26 @@
+_Computed from Toggl as of 2026-10-23: 462.4 h total since 2020-01-01 — Jake Sahli 405.1 h, Jack Elston 57.3 h._
+
 # BluFlux Cellular Antenna Integration — Time Tracking
 
 ## Overview
-- Client: BluFlux
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 472.9 hours
+- **Client:** Internal/Unspecified
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 462.4 hours (since January 2020)
 
 ## Team Allocation
-- Jake Sahli: 415.6 hours (87.9% of total effort)
-- Jack Elston: 57.3 hours (12.1% of total effort)
-- Primary contributor: Jake Sahli
+- **Jake Sahli:** 405.1 hours (87.6% of project time)
+- **Jack Elston:** 57.3 hours (12.4% of project time)
+
+**Primary Contributor:** Jake Sahli
 
 ## Activity Timeline
-- Project appears to have concluded (inactive status)
-- Most recent entries show extensive development work with long daily sessions (8-10 hour days)
-- Jack Elston had sporadic involvement throughout the project timeline
-- Jake Sahli maintained consistent, high-volume contributions
+- Project is currently inactive
+- All tracked hours are historical (spanning from 2020 onward)
+- No recent work entries available
 
 ## Insights
-- **Hardware Integration Work**: Focus on WP7610 Module booting and MangOH Red development platform bringup
-- **Firmware Development**: Multiple entries for "DCA Firmware" development
-- **Testing Phase**: References to "Terrestrial Test" and "Data capture on MangOH Red"
-- **Client Engagement**: Direct meetings with BluFlux documented
-- **Documentation Gap**: Significant portion of entries (approximately 70%) lack detailed descriptions, indicating potential time tracking hygiene issues
-- **Work Pattern**: Intensive development sprints with Jake Sahli logging consecutive full-day sessions, suggesting critical project phases or deadlines
-
-The project appears to have been a substantial cellular antenna integration effort involving embedded systems development, with Jake Sahli serving as the lead engineer and Jack Elston providing supporting development work.
+- This is a long-running internal project with minimal team involvement
+- Heavily concentrated on Jake Sahli's work (approximately 7:1 ratio vs. Jack Elston)
+- Non-billable status suggests R&D, infrastructure, or internal capability development
+- Substantial time investment (462+ hours) indicates significant technical scope despite inactive status

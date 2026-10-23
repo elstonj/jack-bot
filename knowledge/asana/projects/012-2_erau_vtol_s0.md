@@ -1,72 +1,40 @@
+_Asana snapshot as of 2026-10-23: 5 open tasks, 0 completed (last 365 days)._
+
 # [012-2] ERAU VTOL S0
 
 ## Overview
-- **Client/Customer:** Embry-Riddle Aeronautical University (ERAU) — Kevin Adkins, adkinsk@erau.edu, 386.481.9059
-- **Dollar Value:** 
-  - Original S0 contract: $20,805.39
-  - **ISARRA Flight Week expansion (Invoice 1667): $21,181.81 (paid May 21, 2026)**
-  - **Total revenue: ~$42,000**
+- **Customer:** Embry-Riddle Aeronautical University (ERAU)
+- **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
+- **Dollar Value:** $20,805.39 (total budget; all funding to Black Swift)
 - **Timeline:** 
-  - Asana legacy dates: August 16, 2024 and May 26, 2025 (**stale/archived**)
-  - **CORRECTED delivery target: August/September 2026 for ISARRA Flight Week** (per Jack Elston & Kevin Adkins, May 21, 2026; confirmed July 6, 2026)
-  - Training: Deferred; contingent on unit QC completion
-- **Status:** **ACTIVE — SECOND-HIGHEST PRIORITY** (per Maciej, April 30, 2026). **Severely delayed but progressing.** Two S0 VTOL units in QC as of July 3, 2026. Revenue secured ($21.2K paid May 21, 2026); customer approved August delivery plan. **ORGANIZATIONAL RESTRUCTURE IN PROGRESS:** Project integrated into new Product Pillar Portfolio structure (per Maciej, July 24, 2026). **Industrial Plan schedule modifications proposed for September 2026:** S0/S0-VTOL ISR moving left to support UK and Whitehorse logistics (per Maciej, July 27–28, 2026).
-- **Team Members:** Alex Lomis (owner), Jack Elston (delivery coordination), Dan Prendergast (training), Maciej (project coordination), Beck (flight-testing), engineering support
-- **Risk Signals:** 
-  - **CRITICAL: August/September 2026 delivery commitment** — tight timeline with unresolved tracking bug (last update March 17, 2026; no current resolution status provided)
-  - **Ownership & scheduling gap:** All 5 logistics tasks lack due dates and/or assignees despite committed August/September delivery. Jack Elston's task (set final due date) is blocking downstream work.
-  - **QC transition uncertain:** Units in QC since July 3, 2026, but no timeline provided for QC completion
-  - **Potential 4-unit follow-on order pending:** ERAU considering larger purchase contingent on successful ISARRA Flight Week delivery and customer validation
-  - **Concurrent Industrial Plan restructuring:** Reorganization into Product Pillar Portfolio and proposed September 2026 schedule shifts (moving S0/S0-VTOL ISR left) may impact staffing availability for final delivery push
-  - **Production pipeline process gap:** No well-defined process for transitioning proposed system builds/deliveries into production pipeline (per Daniel Prendergast, October 19–20, 2026) — may impact future 4-unit follow-on order execution
+  - Original project due: 2024-08-16 (stale)
+  - Current commitment: 2 VTOLs due May 2025; Training June 2025 @ BST
+- **Status:** **Active** — delivery and training scheduled for spring/summer 2025
+- **Team Members:** Alex Lomis (owner), Jack Elston, Dan Prendergast
+- **Product:** S0 VTOL
+- **Priority:** Medium
 
 ## Key Deliverables & Milestones
+1. **Deliver 2 × S0 VTOL to ERAU** — May 2025
+2. **Training Session** — June 2025 @ BST
+3. **Payment verification**
+4. **Project close-out**
 
-### Two S0 VTOL Units with Ground Station & Tablet — ISARRA Flight Week Campaign
-- **Contract Value:** $21,181.81 (Invoice 1667, paid May 21, 2026)
-- **Timeline:** August/September 2026 delivery aligned with ISARRA Flight Week logistics
-- **Customer Approval:** Kevin Adkins approved plan (per Jack Elston, May 21, 2026)
-- **Current Status:** In QC as of July 3, 2026
-- **Scope:** Scope expansion from original single-unit contract; includes ground station and tablet
-- **Risk:** Flight-testing to resolve tracking bug ongoing as of March 17, 2026; no current resolution status provided
-
-### Original S0 VTOL Delivery
-- **Contract Value:** $20,805.39
-- **Status:** Merged into ISARRA campaign scope (delivering two units total)
-
-### Logistics & Closure Tasks (All Critical Path Items — **ALL UNASSIGNED AND UNDATED**)
-1. **Final due date for delivery** — Jack Elston (**no due date set; blocks downstream tasks**)
-2. **Ship S0 VTOL to ERAU** — Unassigned (**no due date**)
-3. **S0 VTOL Training for ERAU** — Dan Prendergast (**no due date**)
-4. **Verify payment from ERAU** — Unassigned (**no due date**)
-5. **Close project** — Unassigned (**no due date**)
+**Note:** Custom field context notes "Owe 2 VTOLs (May 2025) - Training June 2025 @ BST"
 
 ## Task Summary
-- **Total tasks:** 5 open, 0 completed
-- **Assignees:**
-  - Jack Elston: 1 task (blocking — no due date)
-  - Dan Prendergast: 1 task (no due date)
-  - Unassigned: 3 tasks (Ship, Verify Payment, Close Project)
-- **Pattern:** All logistics tasks lack ownership and due dates despite paid invoice ($21.2K) and committed August/September 2026 delivery window. Critical scheduling gap.
+- **Total:** 5 open tasks, 0 completed
+- **By Assignee:**
+  - Jack Elston: 1 task (Final due date for delivery)
+  - Dan Prendergast: 1 task (S0 VTOL Training for ERAU)
+  - Unassigned: 3 tasks (Ship, Verify payment, Close project)
+
+**Issue:** Most critical delivery and logistics tasks lack assignments and due dates. This represents execution risk for a May 2025 delivery.
 
 ## Recent Activity
-- **October 19–20, 2026:** Daniel Prendergast flagged process gap: **no well-defined process for transitioning proposed system builds/deliveries into production pipeline.** Example: LMUK project requires 2×S0-AD with Magnetometer, 2×S0-AD with Camera, plus additional units. Referenced **S0 Production QC Website** (built by Jack Elston, at https://qc.bst.aero/) as potential framework for expansion; currently tracks S0-AD orders only. "Orders" tab provides solid dashboard showing existing customer orders, quantities, due dates; new-order button available. Gap may impact future 4-unit ERAU follow-on order execution. (Prendergast, Slack)
-- **July 28, 2026:** Maciej proposed Industrial Plan modifications effective September 2026: moving S0/S0-VTOL ISR left in schedule to support UK demo and Whitehorse demo logistics; canceling S3 Europe wing reduction; rebalancing other S3 test items (Maciej, Slack)
-- **July 24, 2026:** Maciej created Product Pillar Portfolio structure; moved S0 VTOL IRAD project into portfolio alongside S0 IRAD, S3 IRAD, and Albatross IRAD. Plan to separate Industrial Plan IRAD tasks from customer delivery milestones (Maciej, Slack)
-- **July 6, 2026:** Confirmation: Two units in QC; Invoice 1667 ($21,181.81) paid May 21, 2026; August delivery target aligned with ISARRA planning and transport logistics (Jack Elston & Kevin Adkins)
-- **July 3, 2026:** Units transitioned to QC stage (per Jack Elston)
-- **May 21, 2026:** Invoice 1667 ($21,181.81) paid; Kevin Adkins approved August delivery target for ISARRA Flight Week
-- **March 17, 2026:** Flight-testing ongoing; tracking bug resolution in progress (per Beck) — **no update on resolution status provided since**
+No completion history visible. All tasks remain open with minimal assignment detail. Tasks lack specific due dates despite firm May 2025 delivery commitment.
 
 ## Notes & Context
-
-### Scope & Revenue
-- **Scope Expansion Confirmed:** Original single-unit contract ($20,805.39) expanded to **two units with ground station and tablet for ISARRA Flight Week campaign** (additional $21,181.81, Invoice 1667 paid May 21, 2026).
-- **Follow-On Opportunity:** Project notes indicate ERAU evaluating potential 4-unit follow-on purchase (currently in estimates), contingent on successful ISARRA Flight Week delivery and in-field validation.
-
-### Technical Status & Risk
-- **Tracking Bug:** Per Beck (March 17, 2026), flight-testing to resolve tracking bug was ongoing. Units in QC as of July 3, 2026 suggest technical work advancing, but **no current status update on bug resolution provided as of July 2026**. **URGENT: Confirm resolution timeline with Beck to validate August/September 2026 delivery feasibility.**
-- **NDAA Compliance:** S0 VTOL "can be" NDAA compliant but not fully compliant yet (per Alex Lomis, April 17, 2026).
-
-### Organizational Changes & Production Process
-- **Portfolio Restructuring (per Maciej, July 24
+- **Stale Due Date in Project Metadata:** Project record shows "Due: 2024-08-16" but custom field and notes clarify actual commitment is May 2025 (2 VTOLs) + June 2025 (training).
+- **Follow-up Sales:** Customer has option to purchase 4 additional S0 VTOLs pending evaluation of initial 2-unit delivery (estimates already prepared).
+- **Process Gap (Daniel Prendergast, 2026-10-19):** Daniel flagged that BST lacks a well-defined process for transitioning proposed system builds into production pipeline. This S0 VTOL project should be monitored as a reference case for that workflow, particularly as the May 2025 delivery approaches and any follow-on orders materialize.

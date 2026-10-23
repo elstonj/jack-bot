@@ -1,49 +1,36 @@
+_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+
 # SBIR - Fire UTM Phase I
 
 ## Overview
-- **Client/Customer**: NASA SBIR program
-- **Dollar Value**: $56,318 total invoiced ($49,818 + $6,500)
-- **Timeline**: Mid-2023 through Phase I completion February 7, 2024
-- **Status**: **ARCHIVED** — Phase I fully completed and closed out February 7, 2024. All contractual deliverables delivered. Post-Phase I technical work (wildfire video completion) ongoing at low priority with Kareem support as of June 16, 2026.
-- **Team Members**: Alex Lomis (project lead/coordinator), Jack Elston (hardware/flight operations, project coordinator), Maciej Stachura (algorithms/data processing), Josh Fromm (manufacturing), Kareem (post-Phase I support, returned June 16, 2026)
-- **Key Partners**: NCAR/RAL, Colorado Center of Excellence for Advanced Technology Aerial Firefighting, CALFIRE, Argonne National Lab
+- **Client/Customer:** National Science Foundation (NSF) Small Business Innovation Research (SBIR) program; partnership with NCAR/RAL and Colorado's Center of Excellence for Advanced Technology Aerial Firefighting
+- **Project Focus:** Pilot study to demonstrate value of collecting UAS observations to improve low-level wind and turbulence representation in wildland fire regions
+- **Status:** **ARCHIVED** — Phase I completed as of February 7, 2024
+- **Team:** Black Swift Technologies (BST) — whole team
+- **Timeline:** Phase I complete; project archived
 
-## Key Deliverables & Milestones (All Completed)
-- **Interface Document for Operating UAS In Wildfires**: January 22, 2024
-- **UAS Sampling Strategy Algorithm Development**: January 23, 2024
-- **Flight Data from High Risk Fire Days**: January 23, 2024
-- **Demonstrate Forecasting Improvements of Low Level Winds**: January 24, 2024
-- **Final Report & Documents**: February 2, 2024
-- **Phase II Submission**: February 3, 2024
-- **Final NASA Phase I Presentation**: February 7, 2024
-- **NASA ROSES Call Application**: March 31, 2024
+## Project Description
+Black Swift Technologies led a partnership focused on collecting and assimilating targeted Uncrewed Aerial System (UAS) observations to improve atmospheric modeling and firefighting response in active wildland fire regions. The project involved coordination with NCAR/RAL and Colorado's CoE for Advanced Technology Aerial Firefighting.
 
-## Task Summary
-- **0 open tasks, 0 completed tracked items** — all Phase I tasks archived or completed outside Asana
-- No active task tracking in this project
+## Recent Activity (from Team Corrections)
+As of **October 2026** (post-archive), team communications reference ongoing hardware activities that appear external to this archived project:
 
-## Recent Activity
-- **Phase I Completion**: All deliverables completed by February 7, 2024; final invoicing processed January 26, 2024
-- **Phase II Submission**: February 3, 2024
-- **NASA ROSES Call Application**: Submitted March 31, 2024
-- **Post-Phase I Technical Work**: Dubins path altitude profiling control (October 2025)
-- **Wildfire Video Work (Active as of June 16, 2026)**: Per Jack Elston (June 15–16, 2026), Kareem returned June 16, 2026 at 12:00 PM to support post-Phase I work. Jack Elston coordinating division of labor between Kareem and Maciej Stachura to finish the wildfire video. Alternative work available includes S0 components or ground stations if higher-priority tasks take precedence.
+- **Oct 8 & 7, 2026** — Daniel Prendergast coordinated a meeting with KS
+- **Oct 2 & 1, 2026** — Jack noted Styrofoam disposal logistics
 
-## Priority & Context
+**SOCOM Update (Oct context):**
+- Top-level requirements derived from five CONOPS in ROMs; completion expected early next week
+- Josh completing end cap CAD and sending for quote
+- Accelerometer ordered to measure ejection force profile
+- Expected hardware arrival: late October or week of Oct 19
+- First test fire planned pending hardware delivery
 
-**Current Project Priority**: Not among BST's highest-priority initiatives as of May 2026. Per Jack Elston (May 11, 2026), Maciej Stachura's top five priorities are: (1) S3 IRAD, (2) S0-VTOL, (3) EMASS close-out, (4) By-Lite Mustang, (5) SBIR Magnetometer. Fire UTM Phase I falls below this tier.
+*Note: These October 2026 updates appear to reference different hardware work, possibly related to a different project or continuation effort.*
 
-**Technical Achievements & Partnerships**:
-- End-to-end data flow process for flight operations and sampling strategies
-- Regulatory pathway established with CALFIRE and CoE for UAS operations in wildfire environments
-- Data ingestion methods (BUFR conversion research)
-- Operational procedures through coordinated flight tests (S10019, S00001)
-- Extensive regulatory coordination with CALFIRE, Boulder Sheriff/Parks, FireSense team, and Argonne National Lab
-- Successfully positioned BST for Phase II and NASA ROSES funding with established partnerships
+## Status
+**Project archived.** Phase I objectives completed as of February 7, 2024. No open or completed tasks remain in the Asana project record.
 
-**Next Steps (June 16, 2026)**:
-Per Jack Elston (June 15–16, 2026), Kareem will coordinate with Maciej Stachura on division of labor to finish the wildfire video. If higher-priority work surfaces, alternative tasks (S0 components, ground stations) are available.
-
-## Administrative Notes
-- **Fireflies Account Policy** (August 20–21, 2026): Per Jack Elston, team members should not use BST accounts to sign into Fireflies, as this pollutes the ecosystem with unwanted hooks. Team is working on blocking this access.
-- **Note on October 2026 Feedback**: Feedback entries from October 1–8, 2026 in the raw data reference SOCOM project updates (end cap CAD, accelerometer ordering, ROMs/CONOPS derivation) and are **not related to Fire UTM Phase I** — they belong to a separate initiative and are noted here only for data clarity.
+## Notes & Context
+- This is an SBIR Phase I project (likely non-dilutive federal funding with fixed scope and timeline)
+- Archive date and Phase I completion align (Feb 2024)
+- Team corrections from October 2026 are contextually disconnected from this archived Fire UTM Phase I work and likely reference separate ongoing efforts

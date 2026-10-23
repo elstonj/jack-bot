@@ -38,18 +38,18 @@
         "last_updated": "2026-10-23"
       },
       "other_qbo": {
-        "amount": 0.0,
+        "amount": 19349.63,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-14"
+        "last_updated": "2026-10-23"
       },
-      "total": 71728.45,
+      "total": 91078.08,
       "by_line_item": {}
     },
     "committed": 74745.93,
-    "remaining": -56630.38,
+    "remaining": -75980.01,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-23T09:19:29Z"
+    "last_reconciled": "2026-10-23T20:09:59Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -68,14 +68,7 @@
     }
   ],
   "risks": [],
-  "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Meredith Needham",
-      "date": "2026-09-23",
-      "text": "From Meredith Needham (ts=1790085795.525689): 1. Just a reminder that the NASA shipment will be picked up between 9:30-4pm today. Ethan has the paperwork that will be included with the shipment. \n2. The conference room will be occupied from 2-3pm for an interview"
-    }
-  ],
-  "last_full_rebuild": "2026-10-23T09:19:29Z",
+  "overrides": [],
+  "last_full_rebuild": "2026-10-23T20:09:59Z",
   "last_incremental_update": null
 }

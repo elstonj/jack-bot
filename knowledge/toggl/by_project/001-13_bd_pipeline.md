@@ -1,44 +1,49 @@
+_Computed from Toggl as of 2026-10-23: 1200.5 h total since 2020-01-01 — Dan 433.5 h, Jack Elston 274.5 h, Stachura 246.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+
 # [001-13] BD Pipeline — Time Tracking
 
 ## Overview
-- **Client:** Overhead
-- **Active Status:** Yes
-- **Billable Status:** No
-- **Total Hours Tracked:** 264.2 hours (241.3h + 22.9h new batch)
+- **Client:** Overhead (internal)
+- **Active:** Yes
+- **Billable:** No
+- **Total Hours Tracked:** 1,200.5 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Stachura:** 75.9 hours (29%)
-- **Jack Elston:** 88.1 hours (33%)
-- **Dan:** 56.0 hours (21%)
-- **Spencer Hoehl:** 23.9 hours (9%)
-- **Kareem Ahmed:** 19.6 hours (7%)
+
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Dan | 433.5 | 36.1% |
+| Jack Elston | 274.5 | 22.9% |
+| Stachura | 246.0 | 20.5% |
+| Beck Cotter | 154.4 | 12.9% |
+| Kareem Ahmed | 51.6 | 4.3% |
+| Spencer Hoehl | 20.2 | 1.7% |
+| Josh Fromm | 19.2 | 1.6% |
+| Nate | 1.0 | 0.1% |
+
+**Primary Contributor:** Dan (433.5 hours)
 
 ## Activity Timeline
 
-### Recent Work Entries
-1. **Jack Elston** — 11.8h | EAB Meeting **[LATEST]**
-2. **Stachura** — 1.4h | *(no description)* **[LATEST]**
-3. **Jack Elston** — 8.0h | EAB Meeting
-4. **Jack Elston** — 0.8h | Chat about S0
-5. **Jack Elston** — 1.0h | Vantor Visit/Brian Argrow
-6. **Jack Elston** — 1.0h | White Paper for NOAA Sensor Discussion
-7. **Jack Elston** — 1.0h | Researching BD Ideas
-8. **Jack Elston** — 0.5h | Fletch Aero <> BlackSwift Technologies
-9. **Jack Elston** — 1.0h | BST/KS Internal SOCOM Kickoff
-10. **Jack Elston** — 1.0h | NOAA Call prep, White paper review
+### Work Categories (from recent entries)
+- **NOAA initiatives:** Whitepaper development, call prep, pre-meeting discussions
+- **SOCOM contract:** Demo work, quick syncs, internal kickoff
+- **Travel:** DC trip (8.5h), Denver trip (10.8h)
+- **Strategy meetings:** EAB meetings (11.8h + 8.0h), business development research
+- **Partner engagement:** KrateoSky follow-up, Fletch Aero discussions, Vantor visit
+- **Internal initiatives:** Black Swift PoP work, S0 discussion
 
-### Work Patterns
-- **Jack Elston:** 33% of effort (88.1h). **88% documented** (10.6h blank). Sharply elevated activity. New focus: EAB engagement (19.8h in two entries) + continued NOAA stakeholder work + strategic visits (Vantor/Brian Argrow).
-- **Stachura:** 29% of effort (75.9h). **70% documented** (1.4h + prior 24.8h blank = 26.2h blank = 34% non-compliance). Pattern unchanged—persistent zero-description entries.
-- **Dan:** 21% of effort (56.0h). **15% documented** (48.0h blank = 85% undocumented). No change.
-- **Spencer Hoehl:** 9% of effort (23.9h). **3% documented** (23.2h blank = 97% undocumented). No change.
-- **Kareem Ahmed:** 7% of effort (19.6h). **100% documented.** No new activity.
+### Notable Patterns
+- **Jack Elston:** Heavy involvement in travel and executive/strategy meetings (EAB, NOAA calls, partner visits)
+- **Stachura:** Focused on NOAA whitepapers and SOCOM technical work
+- **Dan:** Consistent, high-volume contribution with most entries lacking descriptions (suggests routine/ongoing work)
+- **Spencer Hoehl:** Recent uptick in activity (10.2h of 20.2 total in recent entries)
+- **Documentation gap:** 73 recent entries show ~49% lack descriptions, limiting activity clarity
 
 ## Insights
-- **Work Type:** Government stakeholder engagement (NOAA whitepaper, sensor discussion), partner coordination (Fletch Aero, KrateoSky, Vantor), internal capability alignment (SOCOM, S0 discussion), EAB (Experimental Aircraft Board) engagement—new major activity area.
-- **Notable Patterns:**
-  - **Jack Elston escalation:** +21.5h this batch (32% increase). EAB engagement now dominant (19.8h = 89% of Jack's documented time). Suggests new high-priority stakeholder track opening.
-  - **🚨 CRITICAL — Non-compliance persists at 59.1% (156.1h undocumented).** Trend: static/worsening. Stachura continues pattern; Dan/Spencer remain structural failures.
-  - **No improvement trajectory observed.** Three consecutive data batches show identical compliance structure with zero intervention response.
 
-**🚨 ESCALATION REQUIRED:** Non-compliance now **156.1h (59.1% of project).** **No improvement across three batches.** Stachura + Dan/Spencer + Spencer Hoehl remain non-responsive to documentation protocol. Recommend: (1) Formal written compliance notice to Stachura; (2) Audit review of Dan/Spencer Hoehl 71.4h block; (3) Mandate daily time entry logging as project condition.
+1. **Work Type:** This is a business development pipeline project with emphasis on government contracts (NOAA, SOCOM, EAB)
+2. **Leadership vs. execution split:** Jack Elston handles partner meetings and strategy; Dan/Stachura handle technical/proposal work
+3. **Consistency concern:** High volume of untagged time entries from Dan suggests either routine activities or incomplete logging
+4. **Recent acceleration:** Spencer Hoehl's recent involvement and consistent activity from all core team members indicates active pipeline pursuit
+5. **Non-billable status:** Appropriate for overhead business development activities

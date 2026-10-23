@@ -1,31 +1,38 @@
+_Computed from Toggl as of 2026-10-23: 455.6 h tracked since 2020-01-01._
+
 # Karen Young — Time Tracking
 
 ## Summary
-- Total hours tracked: 470.3 hours
-- Primary projects: Project 183171534 (288.4h), Corporate/Strategic Planning (129.9h), Methane Emission Detection IRAD (23.8h)
-- Time period covered: Recent tracking period (specific dates not provided in data)
+- **Total hours tracked:** 455.6 hours (all-time since 2020-01-01)
+- **Primary projects:** 
+  1. Project 183171534 (281.1 hours)
+  2. Corporate / Strategic Planning (124.8 hours)
+  3. Methane Emission Detection IRAD (22.3 hours)
+- **Time period covered:** January 2020 – present
 
 ## Project Breakdown
-- **Project 183171534**: 288.4 hours (61.3% of total time) - *Project details not specified*
-- **[001-13] Corporate / Strategic Planning** (Overhead): 129.9 hours (27.6%)
-- **[001-11] Methane Emission Detection IRAD** ([001] IRAD): 23.8 hours (5.1%)
-- **[400-5] SBIR - SMM DoD 22.4D Phase II** (Department of the Air Force): 6.7 hours (1.4%)
-- **Commercial Sales**: 6.5 hours (1.4%)
-- **[001-13] Purchasing** (Overhead): 5.6 hours (1.2%)
-- **[450-1] 2020 NOAA WPO - Crested Butte SMM** (NOAA): 4.1 hours (0.9%)
-- **Other projects**: 6.4 hours combined (1.4%)
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| Project 183171534 | 281.1 | 61.7% | *Unknown* |
+| [001-13] Corporate / Strategic Planning | 124.8 | 27.4% | Overhead |
+| [001-11] Methane Emission Detection IRAD | 22.3 | 4.9% | [001] IRAD |
+| [400-5] SBIR - SMM DoD 22.4D Phase II | 6.7 | 1.5% | [400] Department of the Air Force |
+| Commercial Sales | 6.0 | 1.3% | — |
+| [001-13] Purchasing | 5.2 | 1.1% | Overhead |
+| [450-1] 2020 NOAA WPO - Crested Butte SMM | 4.1 | 0.9% | [300] NOAA |
+| Project 180222280 | 1.8 | 0.4% | *Unknown* |
+| Project 197063732 | 1.5 | 0.3% | *Unknown* |
+| [301-2] SBIR - Hurricane Phase II+ | 1.4 | 0.3% | [301] NOAA: Joe Cione |
+| Project 161735648 | 0.4 | <0.1% | *Unknown* |
+| [350-4] 2024 USGS - Chile (Mexico) | 0.2 | <0.1% | [350] USGS |
+| [200-12] Aeropods | 0.1 | <0.1% | [200] NASA |
 
 ## Recent Activity
-Karen's recent work has focused heavily on:
-- **Administrative and financial tasks**: QuickBooks management, tax compliance (California and Colorado DOR), payroll processing, credit card reconciliation
-- **General corporate duties**: Email management, daily to-dos, office upkeep, personnel matters
-- **Project invoicing**: Creating invoices for NOAA deployments and Hurricane Phase II+ projects
-- **System management**: Dealing with Rippling payroll system issues, banking transfers to US Bank
-- **Compliance**: FAMLI account setup, wage withholding for Department of Revenue
+Not specified in source data. Project descriptions indicate focus on government/NOAA work, SBIR phases, and internal strategic planning.
 
 ## Patterns
-- **Primary role**: Financial and administrative management for BST
-- **Core responsibilities**: Accounting (QuickBooks), tax compliance, payroll, invoice processing, and general administrative support
-- **Project support**: Handles billing and financial aspects of various projects (NOAA, DoD SBIR, NASA, USGS)
-- **Operational focus**: Maintains day-to-day business operations including office management, purchasing, and regulatory compliance
-- **Recent emphasis**: Significant time spent on tax-related issues (California tax estimates, Colorado DOR taxes) and system transitions (banking, payroll systems)
+- **Primary focus:** Project 183171534 dominates workload at 61.7% of tracked time; nature of project not specified in data
+- **Secondary focus:** Corporate overhead and strategic planning at 27.4%, indicating significant internal responsibility
+- **Government/R&D work:** ~8% of time distributed across IRAD, SBIR, NOAA, USGS, NASA, and DoD projects
+- **Portfolio:** Mix of internal operations, government contracts, and business development (commercial sales)

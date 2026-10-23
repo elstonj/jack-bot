@@ -1,48 +1,42 @@
+_Computed from Toggl as of 2026-10-23: 490.4 h total since 2020-01-01 — Nate 285.8 h, Dan 83.5 h, Ethan Domagala 68.2 h, Beck Cotter 32.3 h, Jack Elston 17.7 h, Stachura 2.1 h, Alex 0.7 h, Alec Mallinger 0.0 h._
+
 # [001-01] General IRAD — Time Tracking
 
 ## Overview
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 70.7 hours
+- **Total Hours Tracked:** 490.4 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-| Team Member | Hours | Percentage |
+| Team Member | Hours | % of Total |
 |---|---|---|
-| Nate | 54.5 | 77% |
-| Ethan Domagala | 14.0 | 20% |
-| Stachura | 2.1 | 3% |
+| Nate | 285.8 | 58.3% |
+| Dan | 83.5 | 17.0% |
+| Ethan Domagala | 68.2 | 13.9% |
+| Beck Cotter | 32.3 | 6.6% |
+| Jack Elston | 17.7 | 3.6% |
+| Stachura | 2.1 | 0.4% |
+| Alex | 0.7 | 0.1% |
+| Alec Mallinger | 0.0 | 0.0% |
 
-**Primary Contributor:** Nate
+**Primary Contributor:** Nate (58.3% of all hours)
 
 ## Activity Timeline
-Recent work entries (chronological order of activity types):
+Recent work entries show two primary work streams:
 
-**Facility & Shop Operations:**
-- Nate: 3.2h + 1.2h = 4.5h on shop setup *(latest entries, continued focus)*
-- Nate: 2.0h + 2.0h + 0.5h = 4.5h on shop setup *(prior batch)*
-- Nate: 3.0h + 2.0h + 1.5h = 6.5h on Munro
+1. **Munro** (3 entries, 6.5 hours)
+   - 3.0h, 2.0h, 1.5h sessions
+   - All logged by Nate
 
-**Build/Development Work:**
-- Nate: 8.0h on Krateo
-- Ethan: 6.8h + 1.5h + 1.5h + 1.0h = 10.8h on MakeFlyEasy Build Up and Marco tour
-- Nate: 8.5h on build make fly easy hero Krateo
-- Nate: 4.2h on goflyeasyhero Krateo
+2. **Shop Setup** (5 entries, 11.4 hours)
+   - 2.0h, 2.0h, 2.0h, 3.2h, 1.2h sessions
+   - All logged by Nate
 
-**Operations & Administration:**
-- Nate: 3.0h on Parts inventory
-- Nate: 12.2h on emails *(includes visitor, communications)*
-- Nate: 2.0h on meetings
-- Ethan: 1.8h + 0.5h = 2.3h on meetings/Weekly meeting/Volcano Meeting
-- Ethan: 0.5h on Shop Cleanup
-- Nate: 1.0h on beer *(social/informal)*
-
-**Unspecified/Other:**
-- Stachura: 2.1h (no description)
+All 8 most recent entries are by Nate, indicating active ongoing work.
 
 ## Insights
-- **Sustained Facility Focus:** Shop setup now totals 9.0h across two recent data batches—solidifies operational/facility work as ongoing priority alongside Krateo development
-- **Primary Focus Confirmed:** Facility and shop operations (9.0h) + Munro (6.5h) = 15.5h (22% of total effort) represents significant project commitment distinct from core development
-- **Consistent Team Composition:** No changes in team allocation; Nate continues to dominate workload
-- **Development Remains Baseline:** Krateo and related build work (20.7h) still represents 29% of effort, indicating parallel rather than replaced priorities
-- **Administrative Overhead Stable:** ~30% of total effort maintained across operations, communications, and meetings
+- **Work Type:** Mix of project-specific work (Munro) and infrastructure/facility setup (shop setup)
+- **Work Pattern:** Nate is the dominant contributor and primary active team member on this IRAD project; recent activity is concentrated with him
+- **Distribution:** Work is heavily skewed toward Nate; secondary contributors (Dan, Ethan) represent ~31% combined but show no recent activity in latest entries
+- **Project Nature:** As an internal R&D (IRAD) project, the non-billable status is appropriate

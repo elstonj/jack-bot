@@ -1,59 +1,48 @@
+_Asana snapshot as of 2026-10-23: 5 open tasks, 6 completed (last 365 days)._
+
 # [001-23] SOCOM (CRADA) S0-AD
 
 ## Overview
-- **Client:** NOAA (Cooperative Research and Development Agreement)
-- **Owner:** Dan Prendergast
-- **Status:** Active — Post-demo development phase (Requirements derivation, CAD, component procurement underway)
-- **Timeline:** 
-  - Demo execution completed August 2026
-  - Current phase: October 2026 onwards (requirements derivation, CAD, component procurement)
-  - **Critical window:** End cap and accelerometer expected late October or week of October 19, 2026
-  - **Next gate:** First test fire immediately after component arrival
-- **Team:** Dan Prendergast (lead), Josh Fromm
-- **Risk signals:** 
-  - Multiple core milestones (Hand Launch, EO/IR Sensor, ATR integration) lack due dates
-  - Compressed schedule: component arrival (late Oct/Oct 19) directly gates first test fire
-  - All 5 active tasks unassigned — suggests delegation or owner-driven execution
-  - "Select processing hardware" marked Done without completion date
+- **Client/Customer:** SOCOM (via CRADA — Cooperative Research and Development Agreement)
+- **Dollar Value:** Not specified in task data
+- **Timeline:** Active development; recent activity through October 2026
+- **Status:** **Active** — currently in integration and requirements phase
+- **Team Members:** Dan Prendergast (owner), Josh Fromm, and others
+- **Risk Signals:** Multiple milestones (Hand Launch from C-130, EO/IR Sensor Integrated, ATR Integrated) lack due dates; integration work ongoing
 
 ## Key Deliverables & Milestones
-### Completed (Demo Phase)
-- **Get 430MHz GCS's back from NOAA** — ✓ Completed 2026-07-27
-- **Build 2 × S0-AD for SOCOM demo** — ✓ Completed 2026-07-27
-- **Test process for startup and handoff to C-130 Loadmaster** — ✓ Completed 2026-08-07 (Josh Fromm)
-- **Put correct S/N stickers on equipment** — ✓ Completed 2026-08-17 (Dan Prendergast)
-- **Adjust deployment sleeve for hand-launch** — ✓ Completed 2026-08-20
-- **Demo Planning & Logistics** — ✓ Completed 2026-08-20
 
-### Active (Development Phase — Oct 2026+)
-| Milestone | Priority | Status | Target Date | Notes |
-|-----------|----------|--------|-------------|-------|
-| **Hand Launch from C-130** | High | Waiting | TBD | Gates on first test fire; test fire gates on end cap & accelerometer arrival (late Oct/Oct 19, 2026) |
-| **EO/IR Sensor Integrated** | Medium | In Progress | TBD | Requirements phase (part of five CONOPS); top-level requirements due early week of Oct 14 |
-| **ATR Integrated** | — | — | TBD | No priority/status recorded |
-| **Select hardware** | Medium | In Progress | TBD | Dependent on finalized top-level requirements |
-| **Select processing hardware** | High | Done | TBD | Marked complete; no completion date recorded |
+| Milestone | Status | Notes |
+|-----------|--------|-------|
+| Hand Launch from C-130 | Open (Waiting) | High priority; no due date set |
+| EO/IR Sensor Integrated | Open (In Progress) | Medium priority |
+| ATR Integrated | Open | No priority or due date |
+| Demo Planning & Logistics | ✅ Completed (2026-08-20) | — |
+| Build 2× S0-AD for SOCOM Demo | ✅ Completed (2026-07-27) | — |
 
 ## Task Summary
-- **Total tasks:** 5 open, 0 completed
-- **Assignments:** All 5 tasks currently unassigned in Asana
-- **Status breakdown:**
-  - High priority: 2 (Hand Launch, Processing hardware)
-  - Medium priority: 2 (EO/IR Sensor, Hardware selection)
-  - Unspecified: 1 (ATR Integration)
+- **Total:** 5 open, 6 completed (11 tasks overall)
+- **Assignee Distribution:**
+  - Unassigned: 4 open tasks (most milestones)
+  - Dan Prendergast: 1 completed
+  - Josh Fromm: 1 completed
+- **Completion Rate:** 55% (6 of 11 closed)
+- **Pattern:** Recent completions (July–August 2026) focused on demo preparation and logistics; current work centers on hardware selection and sensor integration.
 
 ## Recent Activity
-**2026-10-08 & 10-07** (Daniel Prendergast) — SOCOM development phase update:
-- **Top-level requirements derivation** from five CONOPS — **completion expected early the week of October 14** (from Oct 8 feedback)
-- **Josh Fromm completing end cap CAD** today (Oct 7) and sending for quote
-- **Accelerometer ordered** (to measure ejection force profile)
-- **Component arrival window:** Late October or early week of October 19, 2026
-- **Next gate:** First test fire planned immediately after end cap & accelerometer arrive; Dan Prendergast will arrange once Josh orders end cap
+
+**Per team feedback (Daniel Prendergast, 2026-10-07–10-08):**
+- Top-level requirements being derived from five CONOPS described in ROMs; **completion expected early next week** (week of Oct 14)
+- Josh Fromm completing end cap CAD today and sending for quote
+- Accelerometer (to measure ejection force profile) ordered
+- **End cap and accelerometer expected to arrive late week of Oct 18 or week of Oct 19**
+- First test fire to be arranged once end cap is received
+
+**Last Asana activity:** Demo Planning and deployment adjustments completed ~2026-08-20; hardware selection tasks currently marked In Progress with no recent updates in task log.
 
 ## Notes & Context
-- **Project phase transition:** Demo execution (completed Aug 2026) → Development/integration phase (Oct 2026+)
-- **Active procurement path:** Josh Fromm's end cap CAD → quote → order cycle is the critical path for unlocking first test fire
-- **Schedule compression:** Multiple milestones lack due dates in Asana, but component arrival in late Oct/Oct 19 window creates hard deadline for test fire initiation
-- **Requirements phase:** Top-level requirements being derived from five CONOPS; hardware and processing hardware selections depend on finalized requirements (expected early week of Oct 14)
-- **No dollar values** captured in current task set
-- **Key dependency chain:** End cap CAD (Josh, Oct 7) → quote → order → arrival (late Oct/Oct 19) → first test fire → Hand Launch milestone progression
+- This is a CRADA project with SOCOM, indicating a formal government partnership
+- The project has progressed from demo builds (completed July–August) to integration phase
+- Current focus: requirements finalization, hardware procurement (end cap, accelerometer), and preparation for first test fire
+- Multiple high-priority milestones remain without assigned owners or due dates — recommend assigning accountability and setting target dates aligned with hardware arrival (week of Oct 19)
+- Project template includes standard planning fields (priority, progress) but minimal custom field usage for budget or detailed tracking

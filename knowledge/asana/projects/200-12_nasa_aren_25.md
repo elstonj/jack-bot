@@ -1,64 +1,33 @@
-# [200-12] NASA AREN '25
+_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+
+# NASA AREN '25
 
 ## Overview
-- **Client/Customer:** NASA Science Mission Directorate
+- **Client/Customer:** NASA (Science Mission Directorate)
 - **Contract Number:** 80NSSC25PA610
-- **Dollar Value:** $20,576 (BST's portion of $117,701.50 total project budget)
-- **Timeline:** Original contract due 2026-03-02
-- **Status:** ARCHIVED — Project shut down August 2025 ahead of schedule
-- **Owner:** Meredith O'hara Needham
-- **Team:** BST (Whole Team); Kay Rufty (Aerospace Engineer, named Co-Investigator)
+- **Dollar Value:** $20,576 (BST allocation from $117,701.50 total budget)
+- **Timeline:** Due 2026-03-02
+- **Status:** ARCHIVED
+- **Team Members:** Meredith O'Hara Needham (Owner); Kay Rufty (Aerospace Engineer, named Co-Investigator)
+- **Key Contact:** Geoffrey Bland, geoffrey.l.bland@nasa.gov (General POC); PIEE (Billing POC)
 
-## Project Purpose
-BST participated in the AEROKATS and ROVER Education Network (AREN), a NASA Science Mission Directorate "Science Activation" project promoting learning and outreach. BST provided support via Aerospace Engineer Kay Rufty, a named Co-Investigator.
-
-## Key Contacts
-- **General POC:** Geoffrey Bland
-  - **NASA email (retired):** geoffrey.l.bland@nasa.gov (retired August 2025)
-  - **Personal emails:** gbaerokats@gmail.com, geodronez@gmail.com (preferred contact: geodronez@gmail.com)
-  - **Current role:** Helps manage/run Aeropods project post-retirement from NASA
-  - **Address:** Goddard Space Flight Center, 613 Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
-  - **Organization:** NASA Ames
-  - **Website:** https://www.nasa.gov/ames/
-- **Billing POC:** PIEE
+## Program Context
+BST is a participant in the AEROKATS and ROVER Education Network (AREN), a NASA Science Mission Directorate "Science Activation" project to promote learning and outreach. BST's role is to provide aerospace engineering support via Kay Rufty as a named Co-Investigator on the AREN project (NNX16AB95A).
 
 ## Key Deliverables & Milestones
-- **Primary Deliverable:** Aeropod platform
-- **Status:** Completed testing phase (October 2025)
+- Project due: 2026-03-02
+- No specific milestones or deliverables currently structured in task list
 
 ## Task Summary
-- **Total Tasks:** 1 open (unassigned), 0 completed
-- **Open Task:**
-  - **Geoffrey Bland (Aeropods) contact record** — Unassigned, no due date — High priority; reference record with contact details for post-retirement outreach and Aeropods project collaboration
+- **Total Tasks:** 1 open, 0 completed
+- **Open Task:** Geoffrey Bland (Aeropods) contact record — unassigned, no due date
+  - High priority
+  - Contains contact information and notes indicating Geoffrey transitioned from NASA employee (until August 2025) to project management role for Aeropods
 
 ## Recent Activity
-
-### Project Closeout (August 2025)
-- **Project archived August 2025** — ahead of original 2026-03-02 due date
-- **Shutdown completed 2025-08-26** (3 days ahead of target 2025-08-29 deadline)
-- **Geoffrey Bland retired from NASA (end of August 2025)**; project shut down before his retirement
-
-### Post-Project Activity
-- **[2026-07-23] Murphy's Pond Flight #4 postponed indefinitely** (Daniel Prendergast) — travel and logistics arrangements should be cancelled
-- Primary deliverable (Aeropods platform) completed testing phase in October 2025
-- **[2026-08-25] NASA Glenn Icing Research Tunnel testing rate reference** (Daniel Prendergast): Current rate is $55k–$60k per day of testing (for context on future NASA testing opportunities)
-
-### Recent Shipment Activity (September 2026)
-- **[2026-09-23] NASA shipment pickup scheduled** (Meredith Needham): Pickup between 9:30 AM–4 PM today. Ethan has accompanying paperwork. Conference room occupied 2–3 PM for interview.
-- **NASA S2 pallet specs** (Ethan, 2026-09-21 & 2026-09-18): 48×120 inches, 20 inches tall
+No task completion history available. Single contact/reference task remains open and unassigned.
 
 ## Notes & Context
-- Project is fully archived with all closeout tasks complete
-- No subcontractors involved
-- Geoffrey Bland remains active in Aeropods domain post-NASA retirement; use personal email addresses (preferred: geodronez@gmail.com) for future contact
-- One open contact record in Asana for Geoffrey Bland (Aeropods); appears to be reference-only for future collaboration
-- Recent NASA shipment activity (September 2026) suggests continued hardware movement or final asset disposition post-project
-
-## Follow-Up Opportunities
-
-**NASA Hurricane RFI Exploration:** Alex Lomis (2026-04-17, 2026-04-20) identified a related hurricane-focused NASA RFI opportunity recommended by NASA team and Joe:
-- **Link:** https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-- **Context:** Discussed on hurricane engineering team call
-- **Status:** Awaiting BST review
-
-**AI Tool Leverage for NASA RFIs:** Maciej (2026-04-27, 2026-05-04) flagged team interest in using AI tools to begin work on NASA RFIs. **ACTION REQUIRED:** As of 2026-05-04, Maciej requested one of two named team members begin work on NASA RFIs "soon" using BST's AI tools, pending workload availability. This is awaiting assignment and initiation.
+- Geoffrey Bland's contact information includes multiple email addresses (geoffrey.l.bland@nasa.gov, gbaerokats@gmail.com, geodronez@gmail.com) and physical address at NASA Goddard/Wallops Island, VA
+- Project is marked ARCHIVED but retains one open task; may indicate administrative holdover
+- Funding structure: BST receives $20,576 of $117,701.50 total contract budget

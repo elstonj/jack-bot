@@ -1,29 +1,27 @@
+_Computed from Toggl as of 2026-10-23: 60.2 h total since 2020-01-01 — Meredith Needham 28.4 h, Ethan Domagala 23.8 h, Beck Cotter 8.0 h._
+
 # [001-13] Compliance — Time Tracking
 
 ## Overview
-- Client: [001] IRAD
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 24.2 hours
+- **Client:** [001] IRAD
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 60.2 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- Meredith Needham: 24.2 hours (100%)
-- Primary contributor: Meredith Needham (sole contributor)
+| Team Member | Hours | Percentage |
+|---|---|---|
+| Meredith Needham | 28.4 | 47.2% |
+| Ethan Domagala | 23.8 | 39.5% |
+| Beck Cotter | 8.0 | 13.3% |
+
+**Primary Contributor:** Meredith Needham
 
 ## Activity Timeline
-Recent work entries show compliance activities across multiple areas:
-- **Hazmat training**: 7.9 hours total (5.5h + 2.4h sessions)
-- **NOAA indirect cost agreement negotiations**: 6.0 hours across multiple sessions
-- **OEDIT Annual Report**: 4.8 hours (2.0h + 1.7h + 0.8h + 0.3h)
-- **Payroll compliance**: 1.7 hours organizing project hours into spreadsheet
-- **Project organization**: 2.8 hours organizing 2024 project hours
-- **Tax compliance**: 0.7 hours filing 2Q sales tax returns
-- **Advanced Industries reporting**: 0.3 hours
+No recent activity entries provided in source data.
 
 ## Insights
-- **Types of work**: Mix of regulatory compliance (hazmat training), financial compliance (tax returns, reporting), contract negotiations (NOAA agreement), and internal administrative compliance (payroll tracking, project organization)
-- **Notable patterns**: 
-  - Multiple zero-hour entries for NOAA negotiations suggest extensive meeting time or administrative overhead
-  - Heavy focus on reporting and documentation requirements
-  - Project appears to be a catch-all for various BST compliance obligations
-  - Work spans safety, financial, regulatory, and administrative compliance areas
+- Compliance work has been tracked but is currently inactive
+- This is an internal IRAD (Internal Research and Development) project with no billable hours
+- Work is concentrated between two primary team members (Needham and Domagala account for ~87% of tracked time)
+- Beck Cotter's involvement appears minimal and episodic

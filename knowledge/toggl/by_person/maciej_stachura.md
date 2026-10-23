@@ -1,24 +1,28 @@
+_Computed from Toggl as of 2026-10-23: 1215.2 h tracked since 2020-01-01._
+
 # Maciej Stachura — Time Tracking
 
 ## Summary
-- Total hours tracked: 1,245.2 hours
-- Primary project: Unassigned work (99.97% of time)
-- Time period covered: 160 time entries tracked
+- **Total hours tracked**: 1,215.2 hours
+- **Primary projects**: Project None (99.97% of tracked time)
+- **Time period covered**: Since 2020-01-01 (all-time)
 
 ## Project Breakdown
-- **No project assigned**: 1,244.8 hours (99.97%)
-- **Project 159705740**: 0.3 hours (0.03%)
+
+| Project | Hours | % of Total |
+|---------|-------|-----------|
+| Project None | 1,214.8 | 99.97% |
+| Project 159705740 | 0.3 | 0.03% |
 
 ## Recent Activity
-- Currently working entirely on unassigned tasks
-- Recent entries show consistent daily work patterns
-- Daily hours typically range from 8-12 hours per day
-- Only one entry in the recent 100 has a description: "Mapping percent and time stalled at 25%/~10min"
-- Most recent work sessions are logged without project assignment or task descriptions
+Insufficient detailed data available to determine recent activity patterns or specific work descriptions. The overwhelming majority of time entries are logged under "Project None," indicating either:
+- Time entries recorded without project assignment
+- Generic or placeholder project tracking
+- Legacy data structure issue
 
 ## Patterns
-- **Consistent high-volume work**: Averaging 8-10 hours per day based on recent entries
-- **Lack of project categorization**: 99.97% of time is unassigned to specific projects
-- **Minimal task documentation**: Only 1 out of 100 recent entries contains a description
-- **Regular work schedule**: Daily entries suggest consistent work rhythm
-- **Need for improved tracking**: The data suggests a need for better project assignment and task description practices to improve visibility into actual work being performed
+- Virtually all tracked time (99.97%) is unassigned to a specific project
+- Minimal engagement with identifiable project codes
+- Limited visibility into actual work focus areas based on current data structure
+
+**Note**: For meaningful insights into Maciej's work patterns, project assignments and time entry descriptions should be reviewed directly in Toggl or cross-referenced with BST project management systems.

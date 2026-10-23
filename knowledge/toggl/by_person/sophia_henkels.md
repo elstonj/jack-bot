@@ -1,32 +1,27 @@
+_Computed from Toggl as of 2026-10-23: 103.7 h tracked since 2020-01-01._
+
 # Sophia Henkels — Time Tracking
 
 ## Summary
-- Total hours tracked: 105.6 hours
-- Primary projects: Project 183171534 (82.9h), Creative Projects (16.8h), Hurricane Phase II+ (4.2h)
-- Time period covered: Recent tracking period with 62 logged entries
+- **Total hours tracked:** 103.7 hours (all-time since 2020-01-01)
+- **Primary projects:** Project 183171534, Creative Projects (Overhead), SBIR - Hurricane Phase II+
+- **Time period:** 2020-01-01 to present
 
 ## Project Breakdown
-- **Project 183171534**: 82.9 hours (78.5% of total time) - No client specified
-- **[001-13] Creative Projects** (Overhead): 16.8 hours (15.9% of total time)
-- **[301-2] SBIR - Hurricane Phase II+** ([301] NOAA: Joe Cione): 4.2 hours (4.0% of total time)
-- **[400-5] SBIR - Soil Moisture Mapping** ([400] Department of the Air Force): 1.5 hours (1.4% of total time)
-- **[001-13] SM/Blog/Newsletter** (Overhead): 0.2 hours (0.2% of total time)
+
+| Project | Client | Hours | % of Total |
+|---------|--------|-------|-----------|
+| Project 183171534 | — | 81.7 | 78.8% |
+| [001-13] Creative Projects | Overhead | 16.8 | 16.2% |
+| [301-2] SBIR - Hurricane Phase II+ | [301] NOAA: Joe Cione | 4.2 | 4.1% |
+| [400-5] SBIR - Soil Moisture Mapping | [400] Department of the Air Force | 0.8 | 0.8% |
+| [001-13] SM/Blog/Newsletter | Overhead | 0.2 | 0.2% |
 
 ## Recent Activity
-Sophia's recent work has been heavily focused on:
-- **Website development**: Products page, services page, newsletter templates, and website copy
-- **Marketing materials**: Media kit development, social media content, newsletter templates
-- **Technical documentation**: S0 VTOL datasheets, S0 Air Deployed web page content
-- **Video production**: Sizzle reel creation and editing, S0 video work, podcast content
-- **Proposal support**: ROSES graphics, Soil Moisture Mapping white paper (SMM WP)
-
-Notable recent projects include extensive work on the company website, creating marketing collateral, and supporting SBIR proposals with graphics and documentation.
+Sophia's tracked time is heavily concentrated on Project 183171534, which comprises nearly 79% of all logged hours. Secondary focus includes internal creative projects and overhead work (16.4% combined). Limited but active involvement in two SBIR projects: Hurricane Phase II+ (NOAA) and Soil Moisture Mapping (Air Force), totaling 5.0 hours.
 
 ## Patterns
-- **Primary focus**: Web development and marketing content creation (majority of unassigned project time)
-- **Creative/Marketing role**: Strong emphasis on visual content, website design, and marketing materials
-- **Technical communication**: Creating datasheets, technical documentation, and proposal graphics
-- **Multi-project support**: Contributing to both overhead creative work and billable SBIR projects
-- **Social media management**: Regular but smaller time allocations for social media activities
-
-The bulk of her time (78.5%) appears to be unassigned to specific projects, suggesting either new user setup issues with Toggl or work that spans multiple internal initiatives.
+- **Primary focus:** Project 183171534 dominates workload
+- **Secondary engagement:** Overhead-related creative and content work (16.8 hours total)
+- **SBIR involvement:** Minimal direct time tracking on government research contracts (~5 hours across two projects), suggesting either indirect contributions or limited billing against these awards
+- **Work distribution:** Clear primary project allocation with smaller support roles across multiple initiatives

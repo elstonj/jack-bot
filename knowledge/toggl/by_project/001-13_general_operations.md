@@ -1,55 +1,50 @@
+_Computed from Toggl as of 2026-10-23: 7155.7 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1580.4 h, Beck Cotter 915.0 h, Dan 396.2 h, Stachura 379.9 h, Nate 122.0 h, Ethan Domagala 57.4 h, Josh Fromm 45.0 h, Spencer Hoehl 14.7 h, Austin Vera 10.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Ali Sulehria 4.0 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
+
 # [001-13] General Operations — Time Tracking
 
 ## Overview
-- Client: Overhead
-- Active/inactive status: Active
-- Billable status: No (overhead/internal operations)
-- Total hours tracked: 2,582.8 hours (2,566.8 + 16.0)
+- **Client:** Overhead (internal)
+- **Active:** Yes
+- **Billable:** No
+- **Total Hours Tracked:** 7,155.7 hours (since 2020-01-01)
 
 ## Team Allocation
-- Meredith Needham: 1,313.8 hours (50.8%)
-- Jack Elston: 563.6 hours (21.8%)
-- Beck Cotter: 575.8 hours (22.3%) — **+16.0h this batch**
-- Stachura: 111.1 hours (4.3%)
-- Dan: 57.8 hours (2.2%)
-- Ethan Domagala: 25.1 hours (1.0%)
-- Spencer Hoehl: 16.3 hours (0.6%)
-- Kareem Ahmed: 3.0 hours (0.1%)
-- Ali Sulehria: 2.0 hours (0.1%)
-- Primary contributor: Meredith Needham
+
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Meredith Needham | 3,603.0 | 50.3% |
+| Jack Elston | 1,580.4 | 22.1% |
+| Beck Cotter | 915.0 | 12.8% |
+| Dan | 396.2 | 5.5% |
+| Stachura | 379.9 | 5.3% |
+| Nate | 122.0 | 1.7% |
+| Ethan Domagala | 57.4 | 0.8% |
+| Josh Fromm | 45.0 | 0.6% |
+| Spencer Hoehl | 14.7 | 0.2% |
+| Others (9 contributors) | 42.1 | 0.6% |
+
+**Primary Contributor:** Meredith Needham (50% of all tracked time)
 
 ## Activity Timeline
 
-**Latest batch (16.0 hours)**:
-- **Beck Cotter** (16.0h): Various operations (8.0h + 8.0h) — **VAGUE DESCRIPTIONS** ⚠️
-  - Returns to time tracking after no entries in prior batch
-  - Two identical 8-hour blocks logged same day
+### Work Categories (from recent entries)
+- **Operations/Admin** — Primary activity for Meredith Needham (consistent 8+ hour blocks)
+- **Answering Emails** — Jack Elston's dominant task (multiple entries ranging 0.5–7.2 hours)
+- **Meetings** — KrateoSky, Business Operations, HR issues, internal updates, Munro kickoffs
+- **Unspecified work** — Beck Cotter, Josh Fromm, and others (no descriptions; appears to be consistent 8-hour blocks suggesting structured daily work)
+- **Ad hoc support** — Dan, Stachura, Spencer Hoehl (variable hour entries)
 
-**Documentation compliance (latest batch)**:
-- **0% documented** (0 of 16.0 hours — descriptions are non-specific placeholder text)
-- **SHARP DECLINE**: 55.9% → 0% batch-to-batch
-- **Cumulative documented: 1,922.8 hours out of 2,582.8 tracked (74.5% overall compliance rate)**
+### Patterns Observed
+- **Meredith Needham:** Consistent daily Operations/Admin blocks (typically 8+ hours/day)
+- **Jack Elston:** Mixed portfolio—email management (largest time sink), meetings, HR coordination
+- **Beck Cotter & Josh Fromm:** Regular 8-hour entries without descriptions (possible ongoing project or operational responsibility)
+- **Stachura, Dan, Spencer:** Sporadic entries suggesting as-needed support roles
 
 ## Insights
 
-- **Work composition** (from documented entries):
-  - **Beck Cotter**: Returns with 16.0h in undocumented/vaguely-described time
-    - "Various operations" lacks specificity for knowledge capture or audit trail
-    - Pattern indicates either retroactive logging or incomplete entry practices
-    - Previously showed no tracking activity — now reappears with bulk non-compliant entries
-
-- **🚨 CRITICAL COMPLIANCE ALERT — DOCUMENTATION CRISIS INTENSIFYING**:
-  - **16.0 hours added entirely undocumented/non-specific this batch**
-  - **Beck Cotter joins non-compliance group**: Stachura (72.0h), Spencer Hoehl (6.3h), Dan (2.0h), Ali Sulehria (2.0h)
-  - **Total undocumented hours now: 98.3 hours** (72.0 + 6.3 + 2.0 + 2.0 + 16.0)
-  - **Documentation rate now at critical threshold**: 74.5% cumulative (down from 74.9%)
-  - **Jack Elston remains sole reliable documented contributor**
-  - **Compliance is deteriorating across broader team membership**
-
-**IMMEDIATE ACTIONS REQUIRED**:
-- **URGENT: Beck Cotter** — obtain detailed descriptions for 16.0h entries immediately
-- **ESCALATION: Stachura** — 72.0 cumulative undocumented hours requires formal management/HR intervention
-- **ENFORCE: Spencer Hoehl, Dan, Ali Sulehria** — obtain retroactive descriptions before next batch
-- **POLICY ENFORCEMENT**: Implement mandatory description field + validation in Toggl (reject "various operations" entries)
-- **TEAM MEETING**: Establish documentation standards and compliance expectations for all General Operations contributors
-- **MONITORING**: Verify Beck Cotter's status explanation for prior batch absence and current bulk entry
+- **Overhead-heavy project:** This is internal operations work, not client-billable, representing significant organizational overhead
+- **Highly concentrated:** Two people (Meredith + Jack) account for 72% of all time
+- **Documentation gaps:** Many entries lack descriptions, particularly Beck Cotter and Josh Fromm's work—suggests routine/recurring tasks or tracking discipline issue
+- **Email burden:** Jack Elston spending substantial time on email management indicates potential bottleneck or communication overhead
+- **Stable team:** 17 contributors with long tail of minimal participation; core team of 5–6 people
+- **Organizational work types:** HR, meetings, admin, electrical support (one entry), bench assembly suggest diverse operational needs

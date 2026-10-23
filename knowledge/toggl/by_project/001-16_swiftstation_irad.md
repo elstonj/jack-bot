@@ -1,51 +1,38 @@
-# SwiftStation IRAD — Time Tracking
+_Computed from Toggl as of 2026-10-23: 1274.2 h total since 2020-01-01 — Sam Hild 921.2 h, Sriraj 139.5 h, Ethan Domagala 72.7 h, Alex 55.8 h, Dani Urbina 37.3 h, Nate 25.2 h, Jake Sahli 12.0 h, Jack Elston 9.2 h, Andy 1.3 h._
+
+# [001-16] SwiftStation IRAD — Time Tracking
 
 ## Overview
-- Client: [001] IRAD (Internal Research and Development)
-- Active: Yes
-- Billable: No
-- Total hours tracked: 917.3 hours
+- **Client:** [001] IRAD
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 1,274.2 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Sam Hild**: 702.7 hours (76.6% - Primary contributor)
-- **Sriraj**: 139.5 hours (15.2%)
-- **Dani Urbina**: 43.9 hours (4.8%)
-- **Alex**: 12.0 hours (1.3%)
-- **Ethan Domagala**: 4.0 hours (0.4%)
-- **Jake Sahli**: 14.0 hours (1.5%)
-- **Andy**: 1.3 hours (<0.1%)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Sam Hild | 921.2 | 72.3% |
+| Sriraj | 139.5 | 10.9% |
+| Ethan Domagala | 72.7 | 5.7% |
+| Alex | 55.8 | 4.4% |
+| Dani Urbina | 37.3 | 2.9% |
+| Nate | 25.2 | 2.0% |
+| Jake Sahli | 12.0 | 0.9% |
+| Jack Elston | 9.2 | 0.7% |
+| Andy | 1.3 | 0.1% |
+
+**Primary Contributor:** Sam Hild dominates allocation at 72% of all project hours.
 
 ## Activity Timeline
-Recent work shows active development across multiple team members:
+**Recent Work:**
+- Alex: 8.0 hours (no description provided)
+- Ethan Domagala: 2.5 hours (no description provided)
+- Ethan Domagala: 1.5 hours (no description provided)
 
-**Sam Hild** (Primary Engineer):
-- Hardware integration: GCS Case Making, New Gateworks Board Setup
-- System debugging: GCS Debugging, fixing PCIe issues
-- Component development: Weather Station Integration, Cell module testing
-- Power systems: Battery driver fixes, Power Board Schematic Design
-- Testing: Dronetag Simulator Testing, Bench Top Tests
-
-**Sriraj** (Sensor Development):
-- Sensor work: Temperature Sensor coding, testing, and debugging
-- Data processing: NDVI (vegetation index) data acquisition and debugging
-- System integration: I2C debugging, data logging implementation
-- Code maintenance: Makefiles, commenting, and cleanup
-
-**Dani Urbina** (Business Development):
-- Company profile updates on Sourcehere platform
-- Market research on competitor profiles
-
-**Alex** (Software/Engineering):
-- 12.0 hours tracked (descriptions not provided)
-
-**Ethan Domagala** (New Contributor):
-- 4.0 hours tracked (no description provided)
+*Note: Latest three entries lack descriptive detail.*
 
 ## Insights
-- **Hardware-focused IRAD project**: Heavy emphasis on embedded systems, sensors, and ground control systems
-- **Multi-domain development**: Combining UAV ground control, environmental sensors (weather, NDVI), and cellular communications
-- **Systematic approach**: Clear progression from component development through integration to testing
-- **Agricultural/environmental focus**: NDVI sensor work suggests applications in precision agriculture or environmental monitoring
-- **Team expansion accelerating**: Alex's hours have tripled (4.0 → 12.0 hours), and Ethan Domagala is a new addition to the project
-- **Documentation gaps persist**: Recent entries from Alex and Ethan Domagala lack descriptions; improving logging would aid knowledge transfer
-- **Primary contributor remains stable**: Sam Hild's contribution percentage declined slightly (77.6% → 76.6%) due to new team members onboarding
+- **Concentration Risk:** SwiftStation IRAD is heavily dependent on Sam Hild's contribution (921 hours). Limited documentation on recent work tasks.
+- **Secondary Support:** Sriraj provides meaningful secondary effort (~140 hours), with remaining team members contributing marginal hours.
+- **Documentation Gap:** Recent entries lack task descriptions, limiting visibility into current work scope and priorities.
+- **Long-term Project:** Continuous tracking since 2020 indicates mature, ongoing IRAD initiative.

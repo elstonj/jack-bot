@@ -1,26 +1,29 @@
+_Computed from Toggl as of 2026-10-23: 3.1 h total since 2020-01-01 — Ethan Domagala 2.0 h, Spencer Hoehl 1.1 h._
+
 # [001-22] Fleet Maintenance — Time Tracking
 
 ## Overview
-- **Client:** Internal (Not specified)
+- **Client:** Internal (not specified)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 3.1 hours
+- **Total Hours Tracked:** 3.1 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Spencer Hoehl:** 1.1 hours (35% of tracked time)
-- **Ethan Domagala:** 2.0 hours (65% of tracked time)
-- **Primary contributor:** Ethan Domagala
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Ethan Domagala | 2.0 | 64.5% |
+| Spencer Hoehl | 1.1 | 35.5% |
+
+**Primary Contributor:** Ethan Domagala
 
 ## Activity Timeline
-- **Previous entry:** Spencer Hoehl logged 1.1 hours with no description
-- **Recent entries:**
-  - Ethan Domagala: 1.0h — IRISS S1 Help
-  - Ethan Domagala: 1.0h — S1 IRISS
-- **Work pattern:** Activity shifting from Spencer to Ethan; focus on IRISS S1 system work in current period
+**Recent Entries (2 total):**
+- Ethan Domagala — 1.0h — "IRISS S1 Help"
+- Ethan Domagala — 1.0h — "S1 IRISS"
+
+All tracked activity appears recent and concentrated with Ethan.
 
 ## Insights
-- **Work type:** IRISS S1 system support/maintenance (likely related to fleet management system)
-- **Notable patterns:** 
-  - Two similar entries suggest related tasks or possible duplicate logging (both reference "S1 IRISS")
-  - Recommend clarifying distinction between "IRISS S1 Help" and "S1 IRISS" entries
-- **Tracking quality:** Improved with task descriptions; Spencer's earlier entry still lacks detail
+- **Work Type:** IRISS S1 system support/assistance (likely internal troubleshooting or documentation)
+- **Activity Pattern:** Minimal overall tracking for this project; sparse entry history suggests either light maintenance workload or inconsistent time logging
+- **Note:** Despite "Fleet Maintenance" project name, recent entries reference IRISS S1 (a different system), indicating possible scope shift or mislabeled entries

@@ -1,20 +1,21 @@
+_Computed from Toggl as of 2026-10-23: 0.2 h total since 2020-01-01 — Sophia Henkels 0.2 h._
+
 # [001-13] SM/Blog/Newsletter — Time Tracking
 
 ## Overview
-- Client: Overhead
-- Active/inactive status: Active
-- Billable status: No
-- Total hours tracked: 0.2 hours
+- **Client:** Overhead
+- **Active/Inactive Status:** Inactive
+- **Billable Status:** No
+- **Total Hours Tracked:** 0.2 hours (since 2020-01-01)
 
 ## Team Allocation
-- Sophia Henkels: 0.2 hours (100%)
-- Primary contributor: Sophia Henkels
+- **Sophia Henkels:** 0.2 hours (100% of tracked time)
 
 ## Activity Timeline
-- Recent work entry: Instagram Reels / Youtube Shorts (Sophia Henkels, 0.2h)
-- Work patterns: Very minimal activity with only one tracking session
+Minimal activity recorded. Single entry or very sparse work on this project.
 
 ## Insights
-- Types of work being done: Social media content creation, specifically short-form video content for Instagram and YouTube
-- Notable patterns: This project appears to be in early stages or represents sporadic social media marketing efforts, with extremely limited time investment so far
-- Focus area: Short-form video content production for social media platforms
+- Project is inactive with negligible time investment
+- Overhead classification suggests internal/administrative work rather than client-billable activity
+- Only one team member has logged time to this project
+- Likely a low-priority or archived initiative

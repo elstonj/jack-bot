@@ -1,31 +1,39 @@
-# [001-16] SwiftStation IRAD
+_Asana snapshot as of 2026-10-23: 7 open tasks, 2 completed (last 365 days)._
+
+# SwiftStation IRAD [001-16]
 
 ## Overview
-- **Client/Customer:** Internal (IRAD — Internal Research & Development)
-- **Timeline:** Long-term; tasks due end of August 2026
-- **Status:** Active — wiring work in progress, bench testing targeted for end of week (as of Feb 14 status update)
-- **Team Members:** Sam Hild (lead), Jack Elston
+- **Owner:** Sam Hild
+- **Team:** BST (Whole Team)
 - **Priority:** Low
+- **Timeline:** Active development; tasks span through April 2027
+- **Status:** Active — wiring work in progress, bench testing expected end of week (per Feb 14 status update)
+- **Risk Signal:** One completed task was 82 days overdue (battery code review, completed Sept 10 vs due June 19, 2026)
 
 ## Key Deliverables & Milestones
-- **Bench test setup** — targeted for end of week (Feb 14 status update); requires verification of wiring, power, and logic level requirements
-- **RTK Features control in gcsDaemon** — Due 2026-08-31
-- **Power Board Communications** — Due 2026-08-31
-- **Hot-plug device assignment fix** — Due 2026-08-31
+- **GCS Housing redesign** – Address RF interference; minimize impact on RTK, P900, WiFi, Cell Module, and switching circuitry (no due date set)
+- **Bench test readiness** – End of week from Feb 14 update (requires wiring verification, power validation, logic level confirmation)
+- **Power Board Communications** integration into gcsDaemon – Due Aug 31, 2026
+- **RTK Feature control** in gcsDaemon – Due Aug 31, 2026
+- **Cell Module Driver** – Due April 1, 2027
+- **Hot-plug device assignment fix** – Due Aug 31, 2026
+- **Starlink compatibility assessment** – No due date
 
 ## Task Summary
-- **Total:** 4 tasks (3 open, 1 completed)
+- **Total:** 7 open, 2 completed
 - **Assignees:**
-  - Sam Hild: 3 open tasks (100% assignment on active work)
-  - Jack Elston: 1 completed task (code review)
-- **Completion Rate:** 25% (1 of 4 complete)
+  - Sam Hild: 5 open tasks (gcsDaemon RTK, Power Board Comms, RF Interference, Hot-plug fix, Cell Module Driver) + 1 completed
+  - Ethan Domagala: 1 open (GCS Housing)
+  - Unassigned: 1 open (Starlink compatibility)
+  - Jack Elston: 1 completed task
 
 ## Recent Activity
-- **Feb 14 Status Update:** Wiring work in progress; bench test expected by end of week pending verification of wiring, power, and logic level requirements
-- **Completed:** Code review for battery integration (Jack Elston, completed 2026-09-10 — note: completed after due date of 2026-06-19)
+- **Feb 14 status update:** Wiring work in progress; bench test targeted for end of week pending verification of wiring, power, and logic levels
+- **Completed (overdue):** Battery integration code review (Jack Elston, 82 days late on Sept 10, 2026)
+- **Completed:** GNSS boards procured (Sam Hild, Dec 1, 2025)
 
 ## Notes & Context
-- Three closely-related tasks (Power Board Communications, RTK Features control, Hot-plug device assignment) all assigned to Sam Hild with identical due dates (2026-08-31)
-- Wiring verification is a near-term gate item for bench testing
-- Low priority designation suggests this is exploratory/research work
-- One completed task shows historical delays (completed ~2.5 months after due date)
+- RF interference mitigation is critical to GCS Housing redesign; priority order defined: P900 > WiFi > Cell Module > Switching Circuitry
+- No dollar amounts or custom budget fields populated
+- Starlink compatibility task is unassigned with no timeline
+- Two tasks lack due dates (GCS Housing, Starlink); both should be prioritized for scheduling

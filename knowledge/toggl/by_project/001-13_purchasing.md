@@ -1,33 +1,25 @@
+_Computed from Toggl as of 2026-10-23: 5.4 h total since 2020-01-01 — Karen Young 5.2 h, Meredith Needham 0.2 h._
+
 # [001-13] Purchasing — Time Tracking
 
 ## Overview
-- Client: Overhead
-- Active/inactive status: Active
-- Billable status: No
-- Total hours tracked: 5.6 hours
+- **Client:** Overhead
+- **Active/Inactive Status:** Inactive
+- **Billable Status:** No
+- **Total Hours Tracked:** 5.4 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- Karen Young: 5.6 hours (100%)
-- Primary contributor: Karen Young (sole contributor)
+- **Karen Young:** 5.2 hours (96% of total)
+- **Meredith Needham:** 0.2 hours (4% of total)
+- **Primary Contributor:** Karen Young
 
 ## Activity Timeline
-- Recent work entries show consistent purchasing activities
-- Work pattern: Small, frequent time blocks (0.1h - 0.7h per entry)
-- 19 total entries with mix of specific and general purchasing tasks
-- Several entries with no descriptions (1.0h total)
+No recent work entries provided. Project appears dormant with minimal historical activity.
 
 ## Insights
-- **Types of work being done:**
-  - Electronic component ordering (Digikey, Mouser orders)
-  - Specialized hardware procurement (DS450 Servo, linear actuators)
-  - Battery and charging systems (Inspired Energy products)
-  - Mechanical components (tubes from KMAC)
-  - General purchasing coordination across multiple projects
-
-- **Notable patterns:**
-  - Heavy focus on electronic components and specialized hardware
-  - Cross-project purchasing (mentions "various projects")
-  - Mix of vendors: Digikey, Mouser, Amazon, RobotShop, KMAC
-  - Payment processing coordination (PayPal)
-  - Specific project mentions: Altius MHTP
-  - Preference for expedited shipping (UPS 2nd day air)
+- This is an overhead cost center with minimal tracked time
+- Work is almost entirely concentrated with Karen Young
+- Very low overall time investment suggests either:
+  - Purchasing activities are largely untracked
+  - Work is infrequent and administrative in nature
+  - Project may have been archived after initial minimal effort

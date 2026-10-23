@@ -1,3 +1,5 @@
+_Not in Asana's current project list as of 2026-10-23 (renamed or archived); this file is not updated and may be stale._
+
 # [001-23] SOCOM S0-AD
 
 ## Overview

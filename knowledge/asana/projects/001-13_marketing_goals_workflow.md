@@ -1,89 +1,29 @@
-# [001-13] Marketing Goals Workflow
+_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+
+# Marketing Goals Workflow [001-13]
+
+## Status
+**ARCHIVED** — No open or completed tasks. This project is a template/framework rather than an active delivery project.
 
 ## Overview
-- **Client/customer:** Internal BST marketing and business development
-- **Dollar value:** $200K ARR increase target (self-serve team goal)
-- **Timeline:** May 2024 – April 2025; project cycle concluded April 2025
-- **Status:** **ARCHIVED** — Project cycle completed April 2025. No longer active. Current Asana view shows 0 open, 0 completed tasks (historical data archived/purged).
-- **Team members involved:** Paige Smith, Jack Elston, multiple contributors
-- **Risk signals:** None — project fully completed and archived
+- **Type**: Process template
+- **Purpose**: Goal management workflow for BST organization and teams
+- **Team**: Whole BST team
+- **Timeline**: N/A (template)
 
-## Key Deliverables & Milestones
+## Key Context
+This is an Asana goal management template designed to guide brainstorm, draft, and approval cycles for organizational goals. It includes:
+- Form-based goal draft creation
+- Automated task and reminder generation
+- Approval workflow guidance
 
-| Deliverable | Owner | Due Date | Completed | Type |
-|---|---|---|---|---|
-| Create page for S0 air deployed on website | Unassigned | 2024-05-24 | 2024-08-19 | Website updates |
-| Media Kit | Unassigned | 2024-08-16 | 2024-10-24 | Admin |
-| UAS Geoscience 2024 Conference participation | Unassigned | 2024-07-31 | 2024-11-06 | Team goal |
-| Submit to GSFC-LARC-WFF UAS Symposium | Jack Elston | 2024-09-20 | 2024-10-29 | External submission |
-| Improve BST visibility ($200K ARR target) | Unassigned | 2024-12-31 | 2024-10-24 | Team goal |
-| Sophia Engagement (whitepaper/data sheets) | Unassigned | No due date | 2024-10-24 | Content |
-| Create Marketing Budget | Paige Smith | 2025-02-21 | 2025-02-21 | Admin (Team goal) |
-| Marketing Strategy | Paige Smith | 2025-02-21 | 2025-02-21 | Admin (Company goal) |
-| How do we get to #1 for drone? | Unassigned | 2025-03-29 | 2025-04-10 | Strategic planning |
+## Recent Issues
+**Beck flagged workflow clarity concerns** (2026-10-19 & 2026-10-20):
+> "there's still not a clear workflow of who enters what based on X criteria or change and it doesn't address other platform tracking/builds."
 
-## Task Summary
-- **Total tasks:** 0 open, 0 completed (current view shows archived state; historical completion rate was 100%)
-- **Tasks by assignee (historical):**
-  - Jack Elston: 1 task (NASA symposium submission) — 100% completion
-  - Unassigned: 4 tasks (website, media kit, conference participation, content) — 100% completion
-  - Paige Smith: 2 tasks (Marketing Budget, Marketing Strategy) — 100% completion
-- **Notable patterns:** 
-  - Heavy focus on external visibility and conference participation
-  - Website updates and digital presence prioritized
-  - Mix of admin (goals/budgets) and tactical (content, submissions) work
-  - Most content-related tasks unassigned but completed collaboratively
+The team needs to discuss and define:
+- Clear criteria for who enters goals/changes
+- How this integrates with other platform tracking and builds
 
-## Recent Activity
-- **Final task completed:** April 10, 2025 ("How do we get to #1 for drone?")
-- **Strategic planning phase:** Marketing Budget and Marketing Strategy finalized by Paige Smith on 2025-02-21
-- **Visibility push completed:** Multiple initiatives (media kit, conference submissions, website updates) finished by late October 2024
-- **Project archived:** April 2025 (end of fiscal marketing cycle)
-- **Current status (as of October 2026):** No open tasks; project fully archived with task history cleared from view
-
-## Notes & Context
-
-### Purpose
-Goal management workflow template used to brainstorm, draft, and approve BST's marketing initiatives with built-in task creation and approval reminders.
-
-### Key Strategic Initiatives
-
-1. **Digital Presence:** 
-   - **Website:** Fully functional and live; serves as foundation for marketing push (S0 air page completed 2024-08-19)
-   - **LinkedIn page:** In-process, launching once website fully functional
-   - **Social media:** Twitter accounts (@BlackSwiftTech, @elstonjack), Facebook, YouTube channels established
-   - **Domain:** bst.aero
-
-2. **Conference Engagement:** 
-   - **UAS Geoscience 2024 Conference** (https://www.uasgeoscience.org/) — Completed November 2024
-   - **NASA GSFC-LARC-WFF UAS Symposium 2024** — Submission completed October 2024 (Jack Elston)
-
-3. **Content Development:** 
-   - **Media Kit:** Canva-based (https://www.canva.com/design/DAGJbkOxtvs/) — Completed October 2024
-   - **Soil Moisture Whitepaper:** Flagged as out-of-date; refresh needed for business development and marketing efforts
-   - **Pepperwood Case Study:** Documentation in progress
-   - **Sophia/Analog System Documentation:** S0 air deployed analog created for website (Sophia Engagement task completed 2024-10-24)
-   - **S0 System Page:** Website page for S0 air deployed system completed 2024-08-19; links to engineering documentation (Asana project 1207199631174002)
-
-4. **Revenue Goal:** $200K ARR increase targeting self-serve opportunities (completed 2024-10-24)
-
-5. **Product Positioning:** S0 air deployed system featured on website; strategic positioning in drone/UAS market
-
-### Custom Field Usage
-- **Goal level:** Company vs. Team goal classification
-- **Project type:** Admin, Website updates, White Paper/Data Sheets, External submissions
-- **Billable status:** Marked as non-billable (internal marketing)
-
-### Cross-Project References
-- S0 documentation work tracked in separate Asana project 1207199631174002 (engineering/product documentation)
-- **Active concurrent projects (distinct from this archived marketing workflow):** EMASS flight tests, S0-VTOL debugging, S3 work, Mustang progress, postflight workflow improvements
-
-### Open Questions (Team Feedback)
-**[2026-10-19 & 2026-10-20] From Beck:** Workflow clarity still needed regarding who enters what based on criteria/change, and how this integrates with other platform tracking/builds. This suggests ongoing organizational discussion about standardizing goal entry and cross-system data flow — not yet resolved as of October 2026.
-
-## Archive Note
-This project successfully established BST's marketing framework, digital infrastructure, and strategic positioning within the geoscience and UAS communities through 2025. It is no longer active. New marketing goals are tracked in subsequent project cycles. Internal process questions about workflow standardization remain open for team discussion.
-
----
-
-**Status as of October 2026:** No updates to this archived project. This archived marketing project remains unrelated to current workflow discussions. This knowledge file remains accurate and complete as documented above.
+## Notes
+No active tasks or deliverables currently associated with this project. The template may need process refinement before adoption.

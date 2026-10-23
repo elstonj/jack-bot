@@ -1,21 +1,62 @@
 {
   "project_code": "001-3",
   "qbo_class_names": [
-    "(001-3) IRAD S0"
+    "(001-3) IRAD S0",
+    "[001] Black Swift Technologies - IRAD:(001-3) IRAD S0"
   ],
   "period": {
-    "start": "2025-04-22",
-    "end": "2026-04-22"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 38.28,
+    "expenses": 1194.37,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX (deleted)": 38.28
+      "Indirect Cost:Internal Research and DevelopmentX": 719.37,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 475.0
     }
   },
   "invoices": [],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2025-02-03",
+      "doc_number": "3733",
+      "total": 763.99,
+      "attributed": 763.99,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "IRAD for S0",
+      "lines": [
+        {
+          "amount": 475.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "IRAD work for S0 VTOL (4.75 hrs x 100)"
+        },
+        {
+          "amount": 192.36,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Parts: FastTurnPCB"
+        },
+        {
+          "amount": 75.67,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Parts: Mouser"
+        },
+        {
+          "amount": 11.69,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Parts: Digikey"
+        },
+        {
+          "amount": 9.27,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Parts: Mouser"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -30,18 +71,140 @@
       "lines": [
         {
           "amount": 15.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "X2208 Brushless Motor"
         },
         {
           "amount": 16.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "SunnySky X2212 Brushless Motor"
         },
         {
           "amount": 5.3,
-          "account": "Indirect Cost:Internal Research and DevelopmentX (deleted)",
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "Shipping (IRAD S0)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-03-26",
+      "doc_number": "1050",
+      "total": 3557.37,
+      "attributed": 269.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IN *PHASE1 AVIATION LLC - 3015",
+      "lines": [
+        {
+          "amount": 3287.62,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "S3 Tail Set x 2"
+        },
+        {
+          "amount": 269.75,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "S0 prototype assembly"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-02-26",
+      "doc_number": "",
+      "total": 46.71,
+      "attributed": 46.71,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CRAFTCLOUD ALL3DP GMBH   MUNICH       DF",
+      "lines": [
+        {
+          "amount": 3.69,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Deployment tube - Deployment Tube QR mount.step"
+        },
+        {
+          "amount": 7.35,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Deployment tube - Parachute piston.step"
+        },
+        {
+          "amount": 8.36,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Deployment tube - Parachute Tube Stopper.step"
+        },
+        {
+          "amount": 3.69,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Deployment tube - Parachute cap.step"
+        },
+        {
+          "amount": 11.36,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "shipping (IRAD S0)"
+        },
+        {
+          "amount": 12.26,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Wing Internals v5 - Internal structure, CENTER"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-02-25",
+      "doc_number": "",
+      "total": 30.39,
+      "attributed": 30.39,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 26.9,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "F60 Pro V 2207.5 1750KV Motor"
+        },
+        {
+          "amount": 3.49,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Shipping (IRAD S0)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-02-20",
+      "doc_number": "",
+      "total": 45.25,
+      "attributed": 45.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WWW.ESPRITMODEL.COM      321-725-3208 FL\n\nIRAD SO for Hurricane project",
+      "lines": [
+        {
+          "amount": 12.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "S0 IRAD for Hurricane: Aeronaut CAM Folding Propellers 9 x 7"
+        },
+        {
+          "amount": 9.25,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "Shipping (IRAD S0)"
+        },
+        {
+          "amount": 12.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "S0 IRAD for Hurricane: Aeronaut CAM Folding Propellers 8 x 6"
+        },
+        {
+          "amount": 12.0,
+          "account": "Indirect Cost:Internal Research and DevelopmentX",
+          "description": "S0 IRAD for Hurricane: Aeronaut CAM Folding Propellers 9 x 6"
         }
       ]
     }

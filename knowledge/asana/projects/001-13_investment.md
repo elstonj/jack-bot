@@ -1,36 +1,35 @@
+_Asana snapshot as of 2026-10-23: 5 open tasks, 0 completed (last 365 days)._
+
 # [001-13] Investment
 
+## Status
+**ARCHIVED** — Project is inactive. 5 open tasks remain unassigned with no due dates; no completed tasks.
+
 ## Overview
-- **Client/customer**: Black Swift Technologies (internal investment management)
-- **Dollar value**: $50K-$250K potential investment range across opportunities
-- **Timeline**: No specific dates defined
-- **Status**: **ARCHIVED** — project is inactive with no task assignments or due dates
-- **Team members involved**: None currently assigned (all tasks unassigned)
-- **Risk signals**: Project archived with 3 open unassigned tasks; no active ownership or deadlines; appears deprioritized or transferred
+- **Purpose**: Manage and optimize investment portfolios while tracking financial performance against financial goals and risk tolerance
+- **Team**: Corporate
+- **Timeline**: No active due dates set
+- **Dollar exposure**: $200K–$350K+ across identified investment opportunities
+- **Risk signal**: All tasks unassigned and undated; project archived but tasks left open suggests stalled pipeline review
 
-## Project Purpose
-To effectively manage and optimize investment portfolios while tracking financial performance to ensure alignment with overall financial goals and risk tolerance.
-
-## Key Deliverables & Milestones
-No specific deliverables or milestones defined. Project consists of investment opportunity pipeline with no structured timeline.
-
-## Task Summary
-- **Total tasks**: 3 open, 0 completed (0% completion rate)
-- **Tasks by assignee**: All 3 tasks unassigned
-- **Notable patterns**: All investment opportunities are unowned and lack due dates; investment amounts vary significantly ($200-$250K vs $50K-$100K range); mix of active interest and lower-priority follow-ups
-
-## Recent Activity
-No recent activity evident — project is archived with no task completions or assignments.
-
-## Investment Opportunities Pipeline
-
+## Investment Opportunities
 | Opportunity | Contact | Investment Range | Status | Notes |
 |---|---|---|---|---|
-| Blue Impact | Jessica Burley | $50K-$100K | Active interest | Partners to be consulted; typically invest in this range; ready to move forward |
-| Eniac | Jennifer | — | Low priority | Poor fit; insufficient customer traction; circle back later |
-| Southern Cross | Colin Gould | — | Early stage | CSU connection; Colin from CU (natural gas detection tech, developed at CU); business case development needed; Bert Vermussen referral |
+| Cantos | Andrew Kirma | $200–$250K | Open | Good fit (similar to Tree Swift investment); needs fund filling |
+| Blue Impact | Jessica Burley | $50–$100K | Open | Interested; will discuss with partners |
+| Eniac | Jennifer | TBD | Open | Low priority — flagged as poor fit; insufficient customer traction; "circle back" if circumstances change |
+| Climate Finance Solutions | Joel & Ross | TBD | Open | Requires proposal writing support |
+| Southern Cross | Colin Gould | TBD | Open | Colin Gould (CSU grad, natural gas detection background) recommended by Bert Vermussen; needs business case development; technology originated at CU |
+
+## Task Summary
+- **Total**: 5 open, 0 completed
+- **All tasks**: Unassigned, no due dates
+- **Contacts/leads**: Andrew Kirma, Jessica Burley, Jennifer, Joel, Ross, Colin Gould, Bert Vermussen (recommender)
 
 ## Notes & Context
-- **Key contacts**: Bert Vermussen involved in referral for Southern Cross opportunity; Colin Gould is CSU graduate with natural gas detection background
-- **Technology focus**: Natural gas detection technology from CU appears relevant to Southern Cross opportunity
-- **Project status**: Archived status with open unassigned tasks suggests this initiative was deprioritized or ownership transferred elsewhere within BST's investment evaluation process
+- Project is archived but contains active investment pipeline leads
+- No assignments or deadlines suggest work has stalled or moved to external tracking
+- Cantos and Blue Impact appear warmest (specific investment ranges, expressed interest)
+- Eniac low priority pending improved traction
+- Colin Gould contact includes external expertise (CSU/CU tech background) for Southern Cross business case
+- Recommend clarifying: Is this pipeline being managed elsewhere, or should these tasks be reassigned and dated to restart the review process?

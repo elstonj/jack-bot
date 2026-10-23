@@ -1,44 +1,37 @@
+_Computed from Toggl as of 2026-10-23: 558.4 h total since 2020-01-01 — Ethan Domagala 469.9 h, Alex 55.1 h, Spencer Hoehl 22.0 h, Stachura 5.1 h, Nate 3.8 h, Dan 2.5 h._
+
 # [043-3] ByLight M2/Halo — Time Tracking
 
 ## Overview
-- **Client:** ByLight
+- **Client:** Not specified
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 447.7 hours (434.8h prior + 12.9h new batch)
+- **Total Hours Tracked:** 558.4 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Ethan Domagala:** 386.1 hours (86.3%)
-- **Alex:** 30.8 hours (6.9%)
-- **Spencer Hoehl:** 22.0 hours (4.9%)
-- **Stachura:** 6.7 hours (1.5%)
-- **Nate:** 2.0 hours (0.4%)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Ethan Domagala | 469.9 | 84.2% |
+| Alex | 55.1 | 9.9% |
+| Spencer Hoehl | 22.0 | 3.9% |
+| Stachura | 5.1 | 0.9% |
+| Nate | 3.8 | 0.7% |
+| Dan | 2.5 | 0.4% |
 
-**Primary contributor:** Ethan Domagala
+**Primary Contributor:** Ethan Domagala (dominant contributor with >84% of all tracked time)
 
 ## Activity Timeline
+Recent work entries span a consistent pattern with no task descriptions provided. The 60 most recent entries show:
+- Ethan Domagala: 47 entries ranging from 0.5–8.5 hours per session
+- Spencer Hoehl: 9 entries ranging from 0.2–4.0 hours per session
+- Stachura: 2 entries of 2.0–2.6 hours
+- Dan: 1 entry of 2.5 hours
 
-**Ethan Domagala** — Continued activity
-- **Latest batch:** 3 undescribed entries (8.0h + 0.8h + 3.0h = 11.8 hours) — **NEW BATCH**
-- **Cumulative:** 386.1 hours
-- **Pattern:** Consistent contributor, all entries remain undescribed
-
-**Spencer Hoehl** — Minor activity
-- **Latest batch:** 1 undescribed entry (1.1h) — **NEW BATCH**
-- **Cumulative:** 22.0 hours
-
-**Other team members** — No new activity
-- Alex: 30.8h (unchanged)
-- Stachura: 6.7h (unchanged)
-- Nate: 2.0h (unchanged)
+**Work Pattern:** Frequent entries with many full-day (8-hour) sessions logged by Ethan, suggesting sustained active development or implementation work.
 
 ## Insights
-
-**🚨 CRITICAL STATUS — SYSTEMATIC NON-COMPLIANCE ACCELERATING**
-
-- **New batch adds 12.9 hours, 100% undescribed (4/4 entries with zero descriptions)**
-- **Ethan Domagala:** 29.8 hours logged across 8 entries over last 3 batches with zero work descriptions
-- **Total undescribed work: 278.6 hours — 62.3% of all tracked project time**
-- **Compliance failure now affecting 12 consecutive data batches**
-- **No entry descriptions captured across entire project history — zero visibility into deliverables, work phases, or task types**
-
-**REQUIRED IMMEDIATE ACTION:** Enforce mandatory entry descriptions for all time entries. Project lacks any documentation of work performed despite 447.7 hours tracked. Escalate non-compliance with Ethan Domagala and Spencer Hoehl.
+- **Documentation Gap:** All 60 recent entries lack task descriptions, making it impossible to determine work type or project phase
+- **Concentration Risk:** Single-person dependency on Ethan Domagala for 84% of effort
+- **Secondary Support:** Alex provides meaningful secondary contribution (55 hours); Spencer offers occasional support (22 hours)
+- **Project Status:** Consistent, ongoing activity indicates active development or maintenance phase
+- **Recommendation:** Implement mandatory task descriptions in time tracking to enable better project visibility and knowledge transfer

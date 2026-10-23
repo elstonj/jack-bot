@@ -1,32 +1,25 @@
+_Computed from Toggl as of 2026-10-23: 46.9 h total since 2020-01-01 — Jack Elston 23.7 h, Stachura 19.7 h, Sam Hild 3.5 h._
+
 # [001-15] MHP IRAD — Time Tracking
 
 ## Overview
-- Client: [001] IRAD (Internal Research and Development)
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 43.5 hours
+- **Client:** [001] IRAD
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 46.9 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Jack Elston**: 23.7 hours (54.5% of total, primary contributor)
-- **Stachura**: 19.8 hours (45.5% of total)
+- **Jack Elston:** 23.7 hours (50.6%)
+- **Stachura:** 19.7 hours (42.0%)
+- **Sam Hild:** 3.5 hours (7.5%)
+
+**Primary Contributor:** Jack Elston
 
 ## Activity Timeline
-Recent work entries show two distinct work streams:
-- **Jack Elston**: 5 entries totaling 23.7 hours with no descriptions provided
-- **Stachura**: 19 entries totaling 19.8 hours with detailed activity descriptions
-
-Work appears to have been concentrated in focused sessions, with Jack's entries ranging from 2.5-7.1 hours and Stachura's entries typically shorter (0.3-3.6 hours).
+- No recent work entries provided in source data
+- Project appears dormant (marked inactive)
 
 ## Insights
-**Types of work being done:**
-- **NCAR - Marshall Mesa operations**: Primary focus for Stachura (11 entries, ~12.5 hours)
-- **Wind data processing**: Low-level wind data processing for Josh
-- **MHP data processing**: Core project data handling and analysis
-- **Magnetometer calibration work**: Technical calibration activities
-- **Data integration**: Adding u,v,w components to datasets
-
-**Notable patterns:**
-- Stachura's work shows consistent engagement with NCAR Marshall Mesa activities
-- Data processing and calibration work suggests this is a research project involving atmospheric measurements
-- Jack's undocumented time suggests potential management/oversight activities or work that wasn't detailed in time entries
-- Project appears to involve both field operations (Marshall Mesa) and data analysis components
+- **Work Distribution:** Nearly even split between Jack Elston and Stachura, with minimal involvement from Sam Hild
+- **Internal Resource Allocation:** Distributed effort suggests collaborative R&D work typical of IRAD (Internal Research and Development) projects
+- **No billable classification:** Consistent with internal R&D initiatives that do not generate direct client revenue

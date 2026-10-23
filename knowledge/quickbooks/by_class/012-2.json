@@ -4,19 +4,18 @@
     "[012-2] Embry Riddle S0 VTOL"
   ],
   "period": {
-    "start": "2025-04-22",
-    "end": "2026-04-22"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
     "revenue": 0.0,
     "expenses": 5785.11,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Cost Purchases": 3799.53,
-      "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)": 1585.38,
-      "Inventory Asset": 221.68,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 96.57,
-      "Sales Tax Payable": 47.48,
-      "Indirect Cost:TaxesX (deleted)": 34.47
+      "DIRECT COSTS:DC-Direct Material Purchases": 3839.31,
+      "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 1789.3,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 111.34,
+      "Indirect Cost:TaxesX": 37.46,
+      "Sales Tax Payable": 7.7
     }
   },
   "invoices": [],
@@ -35,7 +34,7 @@
       "lines": [
         {
           "amount": 1116.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "4 x p400 @ $279.00 USD"
         },
         {
@@ -58,47 +57,47 @@
       "lines": [
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Inventory Asset",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 258.0,
-          "account": "Inventory Asset",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "MX Master 35 Wireless Mouse x 2"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Barbados)"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Embry Riddle)"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Oklahoma)"
         },
         {
           "amount": 37.47,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (commercial - geneal)"
         },
         {
@@ -118,8 +117,8 @@
         },
         {
           "amount": 47.69,
-          "account": "Inventory Asset",
-          "description": "Shipping (commercial - general)"
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (CU Boulder)"
         }
       ]
     },
@@ -136,32 +135,32 @@
       "lines": [
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
         },
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
         },
         {
           "amount": 255.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
         },
         {
           "amount": 255.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "promotion"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "promotion"
         }
       ]
@@ -179,7 +178,7 @@
       "lines": [
         {
           "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod with BA-111 Ball Head"
         },
         {
@@ -194,71 +193,56 @@
       "date": "2025-06-23",
       "doc_number": "1119934309",
       "total": 1079.05,
-      "attributed": 479.58000000000004,
+      "attributed": 479.58,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "Alex Lomis provided breakdown of purchases on 07/01/25",
       "lines": [
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
-        },
-        {
-          "amount": 19.89,
-          "account": "Sales Tax Payable",
-          "description": "Tax: Barbados"
-        },
-        {
-          "amount": 39.78,
-          "account": "Sales Tax Payable",
-          "description": "Tax: ERAU"
-        },
-        {
-          "amount": 29.83,
-          "account": "Sales Tax Payable",
-          "description": "Tax: Unmanned"
         }
       ]
     },
@@ -275,32 +259,32 @@
       "lines": [
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB x 2"
         },
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB x 2"
         },
         {
           "amount": 230.08,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid x 9"
         },
         {
           "amount": 230.09,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid x 9"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "discount"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "discount"
         }
       ]
@@ -318,32 +302,32 @@
       "lines": [
         {
           "amount": 6.49,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3"
         },
         {
           "amount": 6.49,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3"
         },
         {
           "amount": 588.84,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
         },
         {
           "amount": 588.84,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
         },
         {
           "amount": 25.56,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid"
         },
         {
           "amount": 25.57,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid"
         }
       ]
@@ -361,17 +345,17 @@
       "lines": [
         {
           "amount": 1066.89,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 VTOL Case (Embry Riddle)"
         },
         {
           "amount": 1066.89,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 VTOL Case (Embry Riddle)"
         },
         {
           "amount": 1066.89,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "S0 VTOL Case (Adonis)"
         }
       ]

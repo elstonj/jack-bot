@@ -1,34 +1,48 @@
+_Computed from Toggl as of 2026-10-23: 5816.5 h tracked since 2020-01-01._
+
 # Alex Lomis — Time Tracking
 
 ## Summary
-- Total hours tracked: 2,359.1 hours
-- Primary projects (top 3-5 by hours): S0 VTOL IRAD (1,393.0h), Project 180222280 (556.3h), Navy SBIR: Magnetometer (174.7h), SwiftStation IRAD (70.0h), S3 IRAD (56.3h)
-- Time period: Historical data through current activity (323 total entries)
+- **Total hours tracked:** 5,816.5 hours (all-time since 2020-01-01)
+- **Primary projects:**
+  1. [001-04] S0 VTOL IRAD — 2,641.1 hours (45.4%)
+  2. [001-07] S3 IRAD — 988.3 hours (17.0%)
+  3. Project 180222280 — 529.0 hours (9.1%)
+  4. [550-1] Navy SBIR: Magnetometer — 335.2 hours (5.8%)
+  5. [035-1] ADONIS Unmanned Experts — 292.2 hours (5.0%)
 
 ## Project Breakdown
-- **[001-04] S0 VTOL IRAD** (Client: IRAD): 1,393.0 hours (59.0% of total time)
-- **Project 180222280**: 556.3 hours (23.6% of total time)
-- **[550-1] Navy SBIR: Magnetometer**: 174.7 hours (7.4% of total time)
-- **[001-16] SwiftStation IRAD** (Client: IRAD): 70.0 hours (3.0% of total time)
-- **[001-07] S3 IRAD** (Client: IRAD): 56.3 hours (2.4% of total time)
-- **[301-3] S0 Hurricane Phase II - 2025** (Client: NOAA - Joe Cione): 46.0 hours (1.9% of total time)
-- **Project 183171534**: 35.0 hours (1.5% of total time)
-- **[043-3] ByLight M2/Halo**: 30.8 hours (1.3% of total time)
-- **[301-2] SBIR - Hurricane Phase II+** (Client: NOAA - Joe Cione): 17.7 hours (0.8% of total time)
-- **[001-20] PTO**: 16.0 hours (0.7% of total time)
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA): 10.5 hours (0.4% of total time)
-- **[001-06] S2 IRAD & Fleet Maintenance** (Client: IRAD): 2.9 hours (0.1% of total time)
+
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| [001-04] S0 VTOL IRAD | 2,641.1 | 45.4% | [001] IRAD |
+| [001-07] S3 IRAD | 988.3 | 17.0% | [001] IRAD |
+| Project 180222280 | 529.0 | 9.1% | — |
+| [550-1] Navy SBIR: Magnetometer | 335.2 | 5.8% | — |
+| [035-1] ADONIS Unmanned Experts | 292.2 | 5.0% | [035] Unmanned Experts |
+| [301-3] S0 Hurricane Phase II - 2025 | 266.7 | 4.6% | [301] NOAA: Joe Cione |
+| [043-2] By Light Mustang | 164.6 | 2.8% | — |
+| [300-3] 2026 IDIQ (Hurricane) | 126.3 | 2.2% | [300] NOAA |
+| All other projects | 193.9 | 3.3% | Various |
+
+**IRAD-focused:** 62.5% of tracked time is on internal IRAD projects ([001] suite).
 
 ## Recent Activity
-- **S0 VTOL IRAD sustained**: 8.0-hour entry continues primary focus
-- **S3 IRAD increasing**: 5.5-hour entry reflects renewed activity on this IRAD project
-- **Hurricane IDIQ engagement**: 2.5-hour entry on [300-3] 2026 IDIQ (NOAA project)—new momentum on secondary government program
-- **Documentation gap critical**: All three recent entries lack task descriptions—persistent systemic tracking quality issue continues
+
+Recent entries (last 51 logged sessions) show a clear shift toward **Navy SBIR: Magnetometer** work, with approximately 40% of recent sessions dedicated to this project. Pattern includes:
+
+- Sustained focus on [550-1] Navy SBIR: Magnetometer (multiple 8–12 hour sessions)
+- Continuing work on [001-04] S0 VTOL IRAD (8–9.5 hour blocks)
+- New activity on [300-3] 2026 IDIQ (Hurricane) with variable-length sessions (2.5–12.8 hours)
+- One PTO entry (8.0 hours)
+- Recent work on [001-16] SwiftStation IRAD and [001-07] S3 IRAD (minimal)
+
+**No descriptions logged** on any recent entries, making task-level details unavailable.
 
 ## Patterns
-- **S0 VTOL IRAD dominance stable**: Remains ~59% of total hours—primary project sustained
-- **S3 IRAD reactivation**: Increased focus (56.3h total, +5.5h this batch)—secondary IRAD project gaining attention
-- **Two-project concentration holding**: S0 VTOL IRAD + Project 180222280 account for 82.6% of cumulative hours—baseline maintained
-- **IRAD portfolio holding steady**: Combined IRAD projects maintain ~64.4% of total—consistent core allocation
-- **Hurricane work momentum building**: [300-3] 2026 IDIQ now at 10.5 hours (+2.5h this batch)—NOAA government programs trending upward across portfolio
-- **Documentation issue unresolved**: All recent entries lack descriptions—no improvement; immediate corrective action needed for tracking accountability and audit trail
+
+- **Primary focus:** S0 VTOL IRAD dominates overall time allocation (45%+), suggesting this is Alex's core responsibility
+- **Secondary specialization:** IRAD projects broadly consume ~62% of hours; external client work (Navy SBIR, NOAA, others) comprises ~38%
+- **Recent shift:** Recent sessions show intensity on Navy SBIR: Magnetometer and Hurricane-related work, indicating possible project phase transition
+- **Work cadence:** Consistent full-day entries (8–9 hour sessions typical; occasional 11–12.8 hour days on some projects)
+- **Documentation gap:** No task descriptions across recent 51 entries limits visibility into specific deliverables or work types

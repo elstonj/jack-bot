@@ -1,39 +1,27 @@
-# [001-13] Hiring Pipeline
+_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+
+# Hiring Pipeline [001-13]
 
 ## Overview
-- **Team**: Operations
-- **Status**: ACTIVE (reactivated September 2026 for current hiring cycle)
-- **Purpose**: Tracking candidates through the hiring process
-- **Timeline**: 
-  - Previous cycle: 2024–2025 (archived October 2025)
-  - Current cycle: September 2026–ongoing
-- **Team members involved**: Cory Dixon (hiring lead); Operations team
-- **Risk signals**: None — hiring proceeding on schedule with first start date October 5, 2026
+- **Team:** Operations (Black Swift Technologies)
+- **Status:** ARCHIVED — project is no longer active
+- **Timeline:** As of September 30, 2026, hiring was actively underway with first new hires starting October 5, 2026
+- **Key Context:** 14 total positions being filled (including 2x UAS Technicians across 13 different roles)
 
-## Current Hiring Status (as of September 30, 2026)
-**Per Cory Dixon (2026-09-30):**
-- **Positions open**: 13 different positions for 14 total people (including 2× UAS Technicians)
-- **Offers accepted**: 4 candidates; first hire starting **Monday, October 5, 2026**
-- **Pending signatures**: 2 additional offers out to candidates awaiting acceptance
-- **Status**: Active hiring cycle underway; first cohort onboarding begins October 2026
-
-## Key Deliverables & Milestones
-- **First hire start date**: October 5, 2026
-- **Additional start dates**: October 2026 (3 more hires to follow first start)
-- **Pending**: 2 offers awaiting candidate signatures
+## Hiring Progress (as of Sept 30, 2026)
+Per **Cory Dixon (2026-09-30)**:
+- **4 people** have accepted offers, starting throughout October
+- **2 additional offers** pending candidate signatures
+- **First new hire** scheduled for October 5, 2026
+- Total pipeline: 13 positions, 14 people needed
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
-- **Assignment pattern**: All tasks unassigned, indicating centralized Operations team management
-- **Custom field usage**: "Hiring Candidate Status" and "Job(s) Applied to" used for candidate tracking
-- **Note**: Open task placeholder shows no specific candidate name yet (data entry pending)
+- **Open tasks:** 1 (generic "Candidate: Candidate Name" stub, unassigned, no due date)
+- **Completed tasks:** 0
+- **Assignees:** None currently assigned
 
-## Recent Activity
-- **2026-09-30**: Cory Dixon provided hiring status update — 4 offers accepted, 2 pending signatures, first cohort onboarding begins October 5
-- **2026-10-22**: Joshua Fromm acknowledged Cory's hiring efforts
-- Previous project archived October 2025; reactivated for current hiring cycle
+## Status Notes
+This project was archived after the active hiring phase. Joshua Fromm acknowledged the hiring effort on October 22–23, 2026. The minimal task structure and archive status suggest the hiring pipeline was tracked elsewhere (likely in spreadsheets or a dedicated recruiting tool) rather than as detailed Asana subtasks.
 
 ## Notes & Context
-- Asana project status shows "ARCHIVED," but this does not reflect current operational reality; hiring is actively underway as of late September 2026
-- Key positions include UAS Technicians (2 roles), plus 11 other positions across the organization
-- First cohort of 4 new hires begins October 2026; expect additional task creation as candidates onboard and complete onboarding workflows
+The Asana project contains only a placeholder task and lacks the detailed candidate tracking that would typically be expected for a hiring pipeline. The real work occurred off-platform or in external recruiting systems. The team feedback indicates successful execution: 4 hires onboarded in October 2026, with additional offers in flight.

@@ -1,24 +1,24 @@
+_Computed from Toggl as of 2026-10-23: 80.8 h total since 2020-01-01 — Jack Elston 80.8 h._
+
 # [350-1] 2023 USGS - Makushin — Time Tracking
 
 ## Overview
-- Client: 350 USGS
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 80.8 hours
+- **Client:** USGS (350)
+- **Active Status:** Inactive
+- **Billable Status:** No
+- **Total Hours Tracked:** 80.8 hours
 
 ## Team Allocation
-- Jack Elston: 80.8 hours (100%)
-- Primary contributor: Jack Elston (sole contributor)
+- **Jack Elston:** 80.8 hours (100% of project work)
+- **Primary Contributor:** Jack Elston (sole contributor)
 
 ## Activity Timeline
-- All 10 recent work entries by Jack Elston
-- Entry durations ranging from 7.3 to 9.8 hours
-- Consistent daily work pattern (approximately 8 hours per day)
-- Work appears to span roughly 10 working days
+- Project is currently inactive
+- All tracked time accumulated between 2020-01-01 and present
+- No recent work entries available
 
 ## Insights
-- Single-person project executed entirely by Jack Elston
-- All time entries lack descriptions, making it difficult to determine specific work activities
-- Consistent daily time blocks suggest structured, full-day work sessions
-- Project likely related to USGS work at Makushin (possibly Makushin Volcano in Alaska)
-- Non-billable status indicates internal research or collaboration work
+- Single-person project with all work performed by Jack Elston
+- Non-billable research/analysis work for USGS on Makushin (likely volcano monitoring or geological study)
+- Modest total hours suggest focused, specialized engagement rather than ongoing operational work
+- Project conclusion or transition likely explains current inactive status

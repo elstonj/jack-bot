@@ -1,26 +1,30 @@
+_Computed from Toggl as of 2026-10-23: 803.5 h tracked since 2020-01-01._
+
 # Kareem Ahmed — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 39.0 hours
-- **Primary projects:** BD Pipeline (59%), 2026 IDIQ/Hurricane (41%)
-- **Time period covered:** Multiple tracking batches (ongoing)
+- **Total hours tracked:** 803.5 hours (all-time since 2020)
+- **Primary projects:** Creative Projects, 2026 IDIQ (Hurricane), BD Pipeline
+- **Time period:** 2020-01-01 to present
 
 ## Project Breakdown
+
 | Project | Client | Hours | % of Total |
 |---------|--------|-------|-----------|
-| [001-13] BD Pipeline / General Operations | Overhead | 22.6 | 59% |
-| [300-3] 2026 IDIQ (Hurricane) | NOAA | 16.4 | 41% |
+| [001-13] Creative Projects | Overhead | 645.4 | 80.3% |
+| [300-3] 2026 IDIQ (Hurricane) | NOAA | 83.6 | 10.4% |
+| [001-13] BD Pipeline | Overhead | 51.6 | 6.4% |
+| [001-13] Marketing | Overhead | 16.1 | 2.0% |
+| [212-2] NASA S2 & Parts | – | 3.8 | 0.5% |
+| [001-13] General Operations | Overhead | 3.0 | 0.4% |
+| Project None | – | 0.1 | <0.1% |
 
 ## Recent Activity
-- **Latest entry:** 3.0 hours on General Operations — assembling new benches
-- Return to BD Pipeline overhead work after previous batch of exclusive NOAA focus
-- Work has shifted from S0 assembly to bench assembly/infrastructure setup
-- BD Pipeline allocation has increased from 54% → 59% with this batch
+- Most recent tracked work: **Assembling new Benches** under General Operations (3.0 hours)
+- Primary focus remains overhead creative and business development work
 
 ## Patterns
-- **Sustained operational focus:** Work continues to involve hands-on assembly and setup tasks
-- **Portfolio balance restored:** After a batch of exclusive NOAA work (46%), allocation has rebalanced back toward overhead operations (59%)
-- **Flexibility in task scope:** Recently diversified from S0-phase specialized work to general bench assembly and infrastructure
-- **Cyclical project engagement:** Shows pattern of rotating between NOAA contract work and internal overhead operations
-- **Consistent session patterns:** Individual tracking sessions remain in 3.0–6.5 hour range
-- **Internal operations maintenance:** Latest work suggests active facility/lab infrastructure development or maintenance
+- **Dominant focus:** Creative Projects account for over 80% of tracked time—this is Kareem's core responsibility
+- **Client split:** Largely internal overhead work (>88%), with meaningful external engagement on the NOAA IDIQ Hurricane project (10.4%)
+- **Business development:** Consistent allocation to BD Pipeline (6.4%) and Marketing (2.0%) suggests ongoing pipeline and promotional work
+- **Minimal other work:** NASA and general operations are negligible portions of total time

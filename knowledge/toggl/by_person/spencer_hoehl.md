@@ -1,98 +1,48 @@
+_Computed from Toggl as of 2026-10-23: 543.6 h tracked since 2020-01-01._
+
 # Spencer Hoehl — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 688.4 hours (cumulative across all batches)
-- **Primary projects (top 5):**
-  1. [001-08] Flight Testing — 348.0 hours
-  2. [300-3] 2026 IDIQ (Hurricane) — 83.8 hours
-  3. [001-13] General Operations / BD Pipeline — 50.1 hours
-  4. [001-23] SOCOM (CRADA) S0-AD — 37.2 hours
-  5. [350-4] 2024 USGS - Chile (Mexico) — 25.5 hours
-- **Time period covered:** Multiple tracking batches (latest batch: 7.7 hours)
+- **Total hours tracked:** 543.6 hours (all-time since 2020-01-01)
+- **Primary projects (top 3):**
+  1. [001-08] Flight Testing — 278.5 hours (51.2%)
+  2. [300-3] 2026 IDIQ (Hurricane) / NOAA — 78.9 hours (14.5%)
+  3. [001-23] SOCOM (CRADA) S0-AD — 37.2 hours (6.8%)
+- **Time period covered:** January 2020 to present
 
 ## Project Breakdown
-- **[001-08] Flight Testing** (Client: Internal)
-  - Hours: 348.0
-  - Percentage: 50.6%
-  - Change: +7.7h in latest batch (2 entries; 3.3h, 4.3h)
 
-- **[300-3] 2026 IDIQ (Hurricane)** (Client: NOAA)
-  - Hours: 83.8
-  - Percentage: 12.2%
-  - No change in latest batch
-
-- **[001-13] General Operations / BD Pipeline** (Client: Overhead)
-  - Hours: 50.1
-  - Percentage: 7.3%
-  - No change in latest batch
-
-- **[001-23] SOCOM (CRADA) S0-AD** (Client: SOCOM/CRADA)
-  - Hours: 37.2
-  - Percentage: 5.4%
-  - No change in latest batch
-
-- **[350-4] 2024 USGS - Chile (Mexico)** (Client: USGS)
-  - Hours: 25.5
-  - Percentage: 3.7%
-  - No change in latest batch
-
-- **[001-04] S0 VTOL IRAD** (Client: IRAD)
-  - Hours: 23.6
-  - Percentage: 3.4%
-  - No change in latest batch
-
-- **[001-07] S3 IRAD** (Client: IRAD)
-  - Hours: 22.9
-  - Percentage: 3.3%
-  - No change in latest batch
-
-- **[001-14] SwiftCore 3.3** (Client: IRAD)
-  - Hours: 19.5
-  - Percentage: 2.8%
-  - No change in latest batch
-
-- **Flight Checklists** (Client: Internal/Operations)
-  - Hours: 14.1
-  - Percentage: 2.0%
-  - No change in latest batch
-
-- **[043-3] ByLight M2/Halo** (Client: External/[043])
-  - Hours: 12.8
-  - Percentage: 1.9%
-  - No change in latest batch
-
-- **[001-12] Customer Support** (Client: IRAD)
-  - Hours: 8.7
-  - Percentage: 1.3%
-  - No change in latest batch
-
-- **[550-1] Navy SBIR: Magnetometer** (Client: Navy/SBIR)
-  - Hours: 7.6
-  - Percentage: 1.1%
-  - No change in latest batch
-
-- **[012-2] ERAU VTOL S0** (Client: Embry-Riddle Aeronautical University)
-  - Hours: 1.7
-  - Percentage: 0.2%
-  - No change in latest batch
-
-- **[001-22] Fleet Maintenance** (Client: Internal/Operations)
-  - Hours: 1.1
-  - Percentage: 0.2%
-  - No change in latest batch
-
-- **Project None** (Unallocated)
-  - Hours: 0.9
-  - Percentage: 0.1%
-  - No change in latest batch
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| [001-08] Flight Testing | 278.5 | 51.2% | Internal |
+| [300-3] 2026 IDIQ (Hurricane) | 78.9 | 14.5% | NOAA |
+| [001-23] SOCOM (CRADA) S0-AD | 37.2 | 6.8% | Internal |
+| [043-3] ByLight M2/Halo | 22.0 | 4.0% | ByLight |
+| [001-07] S3 IRAD | 21.2 | 3.9% | Internal IRAD |
+| [001-13] BD Pipeline | 20.2 | 3.7% | Overhead |
+| [350-4] 2024 USGS - Chile (Mexico) | 18.5 | 3.4% | USGS |
+| [001-13] General Operations | 14.7 | 2.7% | Overhead |
+| [001-04] S0 VTOL IRAD | 14.6 | 2.7% | Internal IRAD |
+| [018-1] Murray State CH4 Monitoring | 14.1 | 2.6% | Murray State |
+| [001-14] SwiftCore 3.3 | 11.8 | 2.2% | Internal IRAD |
+| [550-1] Navy SBIR: Magnetometer | 6.1 | 1.1% | Navy |
+| [001-12] Customer Support | 2.9 | 0.5% | Internal IRAD |
+| [012-2] ERAU VTOL S0 | 1.7 | 0.3% | Embry-Riddle Aeronautical University |
+| [001-22] Fleet Maintenance | 1.1 | 0.2% | Internal |
 
 ## Recent Activity
-- **Latest batch (7.7 hours):** 100% Flight Testing allocation; 2 entries with moderate session lengths (3.3h, 4.3h).
-- **Sustained focus:** Flight Testing continues to dominate workload; now represents 50.6% of cumulative portfolio.
-- **Documentation gaps persist:** Both latest entries lack task descriptions.
+Spencer's recent work (last 100 entries) concentrates heavily on:
+- **[001-08] Flight Testing** — consistent daily/multi-daily entries, typically 0.2–7.3 hours per session
+- **[001-23] SOCOM (CRADA) S0-AD** — active in recent weeks with sessions ranging 0.3–6.3 hours
+- **[001-04] S0 VTOL IRAD** — periodic involvement, 0.4–2.5 hour sessions
+- **[001-14] SwiftCore 3.3** — recent cluster of activity (0.3–2.8 hours)
+- **[300-3] 2026 IDIQ (Hurricane)** — sporadic entries, 0.8–4.2 hours
+
+**Notable pattern:** All recent entries lack descriptions; time tracking is strictly project/hour-based with no task notes.
 
 ## Patterns
-- **Dominant project trajectory:** Flight Testing has captured ~88–100% of time allocation across recent batches, consolidating its position as primary work focus.
-- **Session consistency:** Recent entries show more moderate session duration (3.3h–4.3h) compared to previous batch's extreme variability (0.2h–8.1h); suggests stabilization.
-- **Minimal project diversification:** Over past two batches, 94%+ of tracked time goes to Flight Testing; supporting projects remain static.
-- **Ongoing data quality issue:** 20 of 21 most recent entries lack task descriptions; impedes understanding of specific deliverables within Flight Testing work.
+- **Primary focus:** Flight Testing dominates Spencer's workload at >51% of all tracked time, indicating core responsibility for test operations and vehicle evaluation
+- **Secondary specialization:** NOAA contract work (Hurricane/2026 IDIQ) represents steady external client engagement at ~14.5% of time
+- **IRAD portfolio:** Roughly 15% of total time split across internal R&D projects (S0 VTOL, S3, SwiftCore 3.3, SOCOM CRADA)
+- **Work distribution:** Mix of deep internal projects with periodic customer/government engagements
+- **Documentation gap:** Complete absence of entry descriptions in recent activity suggests either manual bulk logging or system integration without narrative capture

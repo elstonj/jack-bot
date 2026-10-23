@@ -1,26 +1,24 @@
+_Computed from Toggl as of 2026-10-23: 46.0 h tracked since 2020-01-01._
+
 # Ryan Pyle — Time Tracking
 
 ## Summary
-- Total hours tracked: 49.8 hours
-- Primary projects: Project 160309352 (41.6h), S2 IRAD & Fleet Maintenance (5.6h), Project 183171534 (2.6h)
-- Time period covered: Recent tracking period (19 entries)
+- **Total hours tracked:** 46.0 hours
+- **Primary projects:** Project 160309352, [001-06] S2 IRAD, Project 183171534
+- **Time period covered:** Since 2020-01-01 (all-time)
 
 ## Project Breakdown
-- **Project 160309352**: 41.6 hours (83.5% of total time)
-- **[001-06] S2 IRAD & Fleet Maintenance** (Client: [001] IRAD): 5.6 hours (11.2% of total time)
-- **Project 183171534**: 2.6 hours (5.2% of total time)
 
-*Note: Most recent entries show "No project" classification, suggesting possible project assignment issues in time tracking*
+| Project | Hours | % of Total |
+|---------|-------|-----------|
+| Project 160309352 | 37.8 | 82.2% |
+| [001-06] S2 IRAD (Client: [001] IRAD) | 5.6 | 12.2% |
+| Project 183171534 | 2.6 | 5.7% |
 
 ## Recent Activity
-- Primary focus on organizing, sorting, and inventorying deployment equipment (22.5 hours across 6 entries)
-- Recent work on S2 IRAD & Fleet Maintenance project (5.6 hours)
-- Significant portion of recent time entries lack project assignments or descriptions
-- Equipment organization work appears to be a major recent initiative
+*No recent activity details available in provided data.*
 
 ## Patterns
-- Heavy concentration on a single primary project (Project 160309352)
-- Equipment management and organization is a recurring activity theme
-- Many time entries lack detailed descriptions, suggesting routine or administrative work
-- Mix of project-specific work (IRAD) and operational tasks (equipment inventory)
-- Recent entries suggest shift toward equipment/deployment preparation activities
+- **Primary focus:** Project 160309352 dominates tracked time at over 82% of total hours
+- **Secondary work:** IRAD project accounts for approximately 12% of tracked time
+- **Limited diversification:** Only three projects tracked; minimal time spread across Project 183171534

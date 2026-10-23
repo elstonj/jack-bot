@@ -1,36 +1,49 @@
+_Computed from Toggl as of 2026-10-23: 933.9 h total since 2020-01-01 — Alex 384.6 h, Stachura 199.5 h, Josh Fromm 115.0 h, Sam Hild 108.9 h, Beck Cotter 55.7 h, Jack Elston 47.8 h, Dan 14.0 h, Spencer Hoehl 6.1 h, Ethan Domagala 2.2 h._
+
 # [550-1] Navy SBIR: Magnetometer — Time Tracking
 
 ## Overview
-- **Client:** Navy (SBIR program)
+- **Client:** U.S. Navy (SBIR Program)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 398.5 hours (396.5 + 2.0)
+- **Total Hours Tracked:** 933.9 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- **Alex:** 166.7 hours (42%)
-- **Stachura:** 113.7 hours (29%) — **+2.0 hours**
-- **Sam Hild:** 70.0 hours (18%)
-- **Jack Elston:** 39.3 hours (10%)
-- **Spencer Hoehl:** 6.2 hours (2%)
-- **Josh Fromm:** 8.0 hours (2%)
-- **Dan:** 2.5 hours (<1%)
-- **Primary contributor:** Alex
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Alex | 384.6 | 41.2% |
+| Stachura | 199.5 | 21.4% |
+| Josh Fromm | 115.0 | 12.3% |
+| Sam Hild | 108.9 | 11.7% |
+| Beck Cotter | 55.7 | 6.0% |
+| Jack Elston | 47.8 | 5.1% |
+| Dan | 14.0 | 1.5% |
+| Spencer Hoehl | 6.1 | 0.7% |
+| Ethan Domagala | 2.2 | 0.2% |
+
+**Primary Contributor:** Alex (41% of project effort)
 
 ## Activity Timeline
-- **111 total recorded entries** (+1)
-- **Latest entries (2.0 hours / 1 entry):**
-  - Stachura: 2.0h (no description) — **UNDOCUMENTED**
-- **Work pattern:** Non-compliance continuing and accelerating; Stachura undocumented entries ongoing
+Recent work spans debugging, system setup, testing, and integration tasks:
+
+**Identified Work Categories (from available descriptions):**
+- **Debugging:** Multiple sessions by Jack Elston (15.7 hours total)
+- **GCS (Ground Control Station) Fix:** Jack Elston (4.8 hours)
+- **Flight Testing:** Jack Elston (2.0 hours)
+- **S0 Setup:** Jack Elston (2.8 hours)
+- **TAK Server:** Jack Elston (3.6 hours)
+- **TCE Documentation & Fallout:** Jack Elston (1.7 hours)
+
+**Activity Pattern:**
+- Majority of recent entries lack descriptions (82 of 84 entries), limiting visibility into specific work
+- Alex consistently logs full 8-hour workdays, suggesting primary development/implementation role
+- Stachura shows variable daily logging (0.3–8.7 hours), indicating task-based work
+- Josh Fromm logs consistent 8-hour blocks (primarily descriptive gap)
+- Jack Elston's work is more granular and descriptive, focused on systems integration and testing
 
 ## Insights
-- **Stachura non-compliance critical:** Now **13 consecutive undocumented entries** totaling **23.0 hours** (21.0h + 2.0h new)
-- **Documentation compliance:** 0% on new batch; Stachura exclusively responsible for current tracking gap
-- **Cumulative documentation gap:** Estimated ~314–315 of 398.5 total hours (79%) lack work context
-- **Untracked labor value:** ~$127.9k in unlabeled hours across project
-- **Government contract risk:** Documentation deficit persists at critical 79% threshold; non-compliance pattern accelerating (2.0h in single undocumented entry)
-
-## Actions Required
-1. **🚨 CRITICAL — Stachura non-compliance escalating: 13 consecutive undocumented entries (23.0 hours).** Systematic pattern worsening. **IMMEDIATE enforcement required:** Halt all Stachura time approvals pending retroactive documentation with full work scope, deliverables, and task linkage for all 13 undocumented entries.
-2. **Mandatory pre-approval controls:** Implement formal documentation gate for Stachura. No time entry processing without contemporaneous work description and project task assignment.
-3. **Navy SBIR audit risk:** 79% documentation deficit (314–315 hours) creates material compliance exposure. Escalate to program management and compliance officer immediately for remediation plan and audit readiness assessment.
-4. **Team-wide compliance audit:** Formalize documentation standards across all team members; provide compliance training with emphasis on contemporaneous work logging requirements.
+- **Work Focus:** Hardware/software integration for magnetometer system, with emphasis on ground control station, debugging, flight testing, and server configuration
+- **Documentation Gap:** 97.6% of recent entries lack work descriptions, hindering project transparency; recommend implementing mandatory entry descriptions in Toggl
+- **Staffing Pattern:** Core team of 3 (Alex, Stachura, Josh Fromm) accounts for ~75% of effort; supporting contributors add specialized testing and integration work
+- **Project Maturity:** Presence of flight testing, GCS fixes, and server deployment suggests project in advanced development/validation phase
+- **Non-Billable Status:** Consistent with government SBIR funding model where development costs are typically direct project charges rather than time-and-materials billing

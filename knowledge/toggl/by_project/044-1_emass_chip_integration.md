@@ -1,61 +1,34 @@
+_Computed from Toggl as of 2026-10-23: 279.1 h total since 2020-01-01 — Dan 152.2 h, Jack Elston 98.8 h, Ethan Domagala 22.9 h, Stachura 5.2 h._
+
 # [044-1] EMASS Chip Integration — Time Tracking
 
 ## Overview
-- **Client:** Internal (BST)
-- **Status:** Active
+- **Client:** Not specified
+- **Status:** Inactive
 - **Billable:** No
-- **Total hours tracked:** 77.2 hours (76.2h previous + 1.0h new)
+- **Total Hours Tracked:** 279.1 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Jack Elston | 43.7 | 56.6% |
-| Dan | 27.7 | 35.9% |
-| Ethan Domagala | 5.8 | 7.5% |
+| Dan | 152.2 | 54.5% |
+| Jack Elston | 98.8 | 35.4% |
+| Ethan Domagala | 22.9 | 8.2% |
+| Stachura | 5.2 | 1.9% |
 
-**Primary contributor:** Jack Elston (43.7h); Dan second (27.7h); Ethan supporting flight testing phase (5.8h total)
+**Primary Contributor:** Dan (152.2 hours)
 
 ## Activity Timeline
+**Most Recent Entries:**
+- Dan: 3.5h (no description)
+- Dan: 2.0h (no description)
+- Jack Elston: 1.0h — Final Report
+- Dan: 3.5h (no description)
 
-### Previous Activity
-- **Jack Elston:** HWIL debugging dominance (15.3h cumulative); Testing phase—Bench Testing (1.4h), Flight Testing (5.3h); Documentation (2.0h), Project Status/Coordination (1.0h)
-- **Ethan Domagala:** Hardware prep (Raspberry Pi 1.5h, board rewiring 1.2h), Flight Test participation (1.2h)
-- **Dan:** Multiple entries totaling 27.2h (context unclear; mostly tagged "emass" with minimal descriptors)
-
-### Recent Activity (Current Batch)
-- **Jack Elston:** 1.0h — **Final Report**
-  - Documentation/deliverable closure phase
-  - Suggests project moving toward completion or major milestone
-
-- **Dan:** 0.5h — No description provided (previous batch)
-  - Continues pattern of undocumented work
+**Observation:** Recent activity is minimal and sparse. The most recent documented work was Jack Elston's "Final Report" entry, suggesting project wind-down or completion phase.
 
 ## Insights
-- **Project entering documentation/closure phase:** Jack's "Final Report" entry indicates post-development activity and project wrapping
-- **Dan's contribution remains 27.7h (35.9%):** Over one-third of project effort still completely undocumented
-- **Entry discipline concern persists:** Dan's 0.5h entry with no description remains unresolved
-- **Work allocation stable:** No new contributors; Jack maintaining primary role through final deliverables phase
-
-## Recommendations (CRITICAL — ESCALATE IMMEDIATELY)
-
-1. **Dan documentation — URGENT (UNRESOLVED):**
-   - **27.7h (35.9% of total project effort) with zero contextual documentation**
-   - Latest entry still has no description—process breakdown continues
-   - **Immediate action required before project closure:** Retroactive clarification from Dan on all 27.7 tracked hours
-     - Specific tasks and deliverables completed?
-     - Work phase involvement (hardware assembly, testing, integration, analysis)?
-     - Must be documented before project sign-off
-
-2. **Jack's Final Report — verify deliverable:**
-   - Confirm final report includes all work packages and team contributions
-   - Ensure Dan's undocumented 27.7h is accounted for in project records (even if retroactively documented)
-
-3. **Enforce entry standards immediately:**
-   - Minimum descriptor requirement: 5+ words or specific task identification
-   - **Block/reject future entries with no description**
-   - Dan must provide context at time of logging, not retroactively
-
-4. **Project closure risk:**
-   - Cannot close project accounting with 35.9% of effort undocumented
-   - Significant knowledge gap; impacts final deliverables verification and resource planning
-   - Recommend escalation to project manager **before final report submission**
+- **Work Type:** Largely undocumented in recent entries; only one descriptive entry ("Final Report") in the last four time logs
+- **Dominance:** Dan carries the majority of tracked work (54.5%), with Jack Elston as secondary contributor
+- **Project Status:** Inactive status combined with sparse, undescribed recent entries and a "Final Report" entry suggests this project has concluded or is in dormant state
+- **Documentation Gap:** Lack of descriptions in recent logs limits visibility into final work performed

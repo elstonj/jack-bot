@@ -1,25 +1,22 @@
+_Computed from Toggl as of 2026-10-23: 31.6 h total since 2020-01-01 — Jack Elston 31.6 h._
+
 # Area-I Altius Integration — Time Tracking
 
 ## Overview
-- Client: Area-I (drone/UAV company)
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 33.0 hours
+- **Client:** Not specified
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 31.6 hours
 
 ## Team Allocation
-- Jack Elston: 33.0 hours (100%)
-- Primary contributor: Jack Elston (sole contributor)
+- **Jack Elston:** 31.6 hours (100% of tracked time)
+- **Primary Contributor:** Jack Elston
 
 ## Activity Timeline
-- All 7 time entries lack descriptions
-- Work sessions ranged from 1.3 to 15.2 hours
-- Largest single session: 15.2 hours
-- Second largest session: 9.0 hours
-- Remaining sessions: 1.3-2.5 hour blocks
+No recent work entries provided in available data. Project appears to have been inactive for an extended period.
 
 ## Insights
-- Integration project focused on Altius platform (Area-I's fixed-wing drone system)
-- Work exclusively handled by Jack Elston, suggesting technical leadership or specialized expertise requirement
-- No descriptive data available to determine specific types of integration work performed
-- Project appears complete given inactive status
-- Session lengths suggest both deep technical work (longer sessions) and shorter follow-up tasks
+- All work on this project was performed by Jack Elston
+- Non-billable status suggests internal development, research, or exploratory work
+- Limited historical data available; time tracking began or was recorded from 2020-01-01 onward
+- Inactive status indicates project is not currently in active development

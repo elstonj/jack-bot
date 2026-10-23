@@ -38,18 +38,18 @@
         "last_updated": null
       },
       "other_qbo": {
-        "amount": 251.77,
+        "amount": 5983.11,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-12"
+        "last_updated": "2026-10-23"
       },
-      "total": 9021.77,
+      "total": 14753.11,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 110978.23,
+    "remaining": 105246.89,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-23T09:20:08Z"
+    "last_reconciled": "2026-10-23T20:10:39Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -69,6 +69,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-10-23T09:20:08Z",
+  "last_full_rebuild": "2026-10-23T20:10:39Z",
   "last_incremental_update": null
 }

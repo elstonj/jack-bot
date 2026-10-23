@@ -1,29 +1,29 @@
+_Computed from Toggl as of 2026-10-23: 708.7 h total since 2020-01-01 — Kareem Ahmed 645.4 h, Jack Elston 34.8 h, Sophia Henkels 16.8 h, Paige Smith 11.7 h._
+
 # [001-13] Creative Projects — Time Tracking
 
 ## Overview
-- Client: Overhead (internal)
-- Active/inactive status: Active
-- Billable status: No
-- Total hours tracked: 16.8 hours
+- **Client:** Overhead
+- **Active/Inactive Status:** Inactive
+- **Billable Status:** No
+- **Total Hours Tracked:** 708.7 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- Sophia Henkels: 16.8 hours (100%)
-- Primary contributor: Sophia Henkels (sole contributor)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Kareem Ahmed | 645.4 | 91.0% |
+| Jack Elston | 34.8 | 4.9% |
+| Sophia Henkels | 16.8 | 2.4% |
+| Paige Smith | 11.7 | 1.7% |
+
+**Primary Contributor:** Kareem Ahmed (645.4 hours)
 
 ## Activity Timeline
-Recent work entries show consistent activity across various creative deliverables:
-- S0 Video Editing (2.2h)
-- SMM Page 16 Edits (1.1h)
-- S0 Video Upload (0.6h)
-- S0 VTOL Datasheet development (4.2h total across 3 sessions)
-- S0 Air Deployed Web Page (2.8h across 2 sessions)
-- Services Web Page (2.2h across 2 sessions)
-- Clean Up (1.3h)
-- Unspecified work (2.3h across 2 entries)
+- No recent activity data provided
+- Project is currently inactive
 
 ## Insights
-- **Primary work types**: Web development, video production, datasheet creation, and page editing
-- **Product focus**: Heavy emphasis on S0-related materials (VTOL datasheet, air deployed web page, video content)
-- **Work patterns**: Mix of longer focused sessions (2.6h) and shorter task-oriented work (0.6-1.3h)
-- **Documentation focus**: Significant time spent on product datasheets and web page development
-- **Marketing materials**: Video editing and SMM (Social Media Marketing) content creation
+- Heavily concentrated work: Kareem Ahmed represents 91% of all time tracked on this project
+- Small team involvement beyond primary contributor
+- Internal/overhead project with no billable component
+- Sustained effort over 4+ years (since early 2020)

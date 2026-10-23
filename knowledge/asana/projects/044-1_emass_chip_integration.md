@@ -1,76 +1,59 @@
+_Asana snapshot as of 2026-10-23: 0 open tasks, 39 completed (last 365 days)._
+
 # [044-1] EMASS Chip Integration
 
 ## Overview
-- **Client/Customer**: EMASS (Commercial customer, UK-based)
-- **Dollar Value**: $90,000 total funding to Black Swift Technologies
-  - **Milestone 4a: Engineering support + flights** ($25k) — ✅ Complete
-  - **Milestone 4b: Final reports** ($10k) — ✅ Complete
-  - **Billing structure** (June 2026): Transitioned from fixed-price to **per-flight-day basis** going forward after customer payment friction on original $35k final milestone
-- **Timeline**: 
-  - **Original**: November 10, 2025 to January 31, 2026 (extended; no final set end date)
-  - **Validation phase**: April–July 2026 (3 validation flights completed)
-  - **Final reporting**: Completed August 24, 2026
-  - **Invoice submitted**: September 4, 2026 (2 days late)
-- **Status**: ✅ **PROJECT CLOSED & ARCHIVED** — All technical and administrative deliverables complete. Final invoice submitted September 4, 2026. Project archived in Asana.
-- **Team Members**: Dan Prendergast (Owner/Lead), Jack Elston, Maciej Stachura, Nate Straus, Ethan Domagala, Meredith O'hara Needham; Alex and Sam (magnetometer integration engineering)
-- **Risk Signals**: 
-  - ⚠️ **CRITICAL: Export control/licensing issue** (October 8, 2026 — Daniel Prendergast): Magnetometer integration partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Requires immediate clarification** with Navy Program Office and EMASS before final delivery/payment.
-  - ✅ Final invoice submitted (2 days late, September 4); monitor EMASS payment receipt
+- **Client/Customer:** EMASS (Commercial)
+- **Dollar Value:** $90,000 total funding to Black Swift
+  - Original Milestone 4 split (June 2026): $25k (Engineering support + flights) + $10k (Final reports)
+  - Per-flight-day billing model adopted going forward
+- **Timeline:** 
+  - Original: 11/10/2025 to 1/31/2026 (dates subsequently changed; no set end date per project notes)
+  - Actual completion: September 2026 (final invoice sent 09/04/2026)
+- **Status:** ARCHIVED — Project completed with all 39 tasks closed
+- **Team Members:** Dan Prendergast (Owner), Jack Elston, Maciej Stachura, Ethan Domagala, Meredith O'hara Needham
+- **Priority:** Medium
 
 ## Key Deliverables & Milestones
-| Milestone | Due Date | Status | Value |
-|-----------|----------|--------|-------|
-| Phase 1: Design & Alignment | Jan 28, 2026 | ✅ Complete | — |
-| Phase 1b: Interface Design Freeze | Feb 6, 2026 | ✅ Complete | — |
-| Phase 2: Integration & Firmware | Feb 13, 2026 | ✅ Complete | — |
-| Phase 4: Validation & Reporting | Mar 11, 2026 | ✅ Complete | — |
-| Validation Flight #1 | Apr 27, 2026 | ✅ Complete (Apr 25) | — |
-| Validation Flight #2 | — | ✅ Complete (Jul 13) | — |
-| Validation Flight #3 | — | ✅ Complete (Jul 13) | — |
-| Milestone 4a: Engineering support + flights | — | ✅ Complete | $25k |
-| Milestone 4b: Final reports | Aug 28, 2026 | ✅ Complete (Aug 24) | $10k |
+
+| Milestone | Target Due | Actual Completion | Notes |
+|-----------|------------|-------------------|-------|
+| Phase 1: Design & Alignment | 2026-01-28 | 2026-02-18 | Hardware/software compatibility assessment, interconnect topology definition |
+| Phase 1b: Interface Design Freeze | 2026-02-06 | 2026-02-18 | Design locked; scope creep flagged |
+| Phase 2: Integration & Firmware | 2026-02-13 | 2026-04-01 | ECS-DoT module embedded, firmware adapted |
+| Phase 4: Validation & Reporting | 2026-03-11 | 2026-04-03 | Flight trials, energy/endurance metrics, data analysis |
+| Final Report & Invoicing | 2026-08-28 | 2026-09-04 | Completed; billing dispute resolved via milestone split |
 
 ## Task Summary
-- **Total Tasks**: 0 open, 0 completed (all work archived)
-- **Completion Rate**: 100% (all deliverables complete and invoiced)
 
-**Tasks by Assignee** (historical):
-- **Meredith O'hara Needham**: Final invoice submission (September 4, 2026)
-- **Dan Prendergast**: Validation flights execution & final report (July 13 – Aug 24, 2026)
-- **Maciej Stachura**: Data analysis (completed August 24, 2026)
-- **Jack Elston & Nate Straus**: Field coordination (April–May 2026)
-- **Alex & Sam**: Magnetometer integration engineering (completed)
+**Total Tasks:** 0 open, 39 completed (100% completion rate)
+
+**Activity by Key Assignee:**
+- **Dan Prendergast:** 14 tasks — validation flights, bench/functional testing, design/ML work
+- **Jack Elston:** 4 tasks — firmware changes, interface design, iterative testing
+- **Maciej Stachura:** 3+ data analysis tasks
+- **Meredith O'hara Needham:** Invoicing & financial tracking
+- **Ethan Domagala:** PCB enclosure procurement
+- **Unassigned/Team:** Majority of milestone and hardware integration tasks
+
+**Patterns:** Heavy use of custom fields for budget tracking; milestone-based delivery model; consistent on-time or near-on-time completion despite initial date changes.
 
 ## Recent Activity
 
-**October 8, 2026**:
-- ⚠️ **CRITICAL: Export control issue flagged** (Daniel Prendergast): Magnetometer integration work is partially conducted under US Navy Program Office (Tony). Navy may have authority over export classification and licensing to UK customer. **Action required**: Clarify Navy approval for UK delivery before final payment/handoff. *"Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK."*
-
-**September 4, 2026**:
-- ✅ **Final invoice sent to EMASS** (Meredith O'hara Needham) — 2 days past due (Aug 28), but submitted; Milestone 4b ($10k) payment triggered
-
-**August 24, 2026**:
-- ✅ **Final Report completed** (Dan Prendergast)
-- ✅ **Data analysis completed** (Maciej Stachura)
-
-**July 13, 2026**:
-- ✅ **Validation Flights #2 & #3 completed** (Dan Prendergast)
+- **2026-09-04:** Final invoice sent (Meredith O'hara Needham) — project closure
+- **2026-08-24:** Final report and data analysis completed (Dan Prendergast, Maciej Stachura)
+- **2026-07-13:** Validation flights #2 and #3 completed (Dan Prendergast)
+- **2026-04-25:** Validation flight #1, bench/functional testing complete; data analysis begins
+- **2026-03–04:** Integration, firmware, and HWIL simulation completed; Phase 4 milestone achieved
+- **2026-02–03:** PCB design, fabrication, delivery completed; hardware integration underway
+- **2025-12–01:** Initial testing and model refinement complete
 
 ## Notes & Context
 
-**Project Status**: Officially closed and archived. All technical deliverables (validation flights, final report, data analysis) and invoice submission complete as of September 4, 2026.
+**Billing Note (June 2026):** EMASS disputed the final $35k milestone payment due to incomplete final report delivery. Resolution: Split Milestone 4 into two phases—$25k for engineering support + flights, $10k for final reports. **Going forward, per-flight-day billing model adopted** to align payment with actual work delivered.
 
-**CRITICAL ISSUE — Export Control/Licensing Risk**:
-- **Daniel Prendergast flagged (October 8, 2026)** that magnetometer integration work involves US Navy Program Office (Tony as the POC).
-- Navy may have authority over export classification and licensing to UK customer (EMASS).
-- **This must be resolved before final delivery/payment confirmation.**
-- Recommend immediate coordination with Tony (Navy Program Office) and EMASS to confirm export approval and licensing status.
-- This issue was flagged *after* invoice submission, indicating potential delivery/payment blockage if not resolved.
+**Export Classification & International Licensing:** Per Daniel Prendergast (2026-10-07, 2026-10-08), magnetometer integration/development partially conducted under **US Navy Program Office** (Tony's domain). This creates a potential compliance gate for UK export classification and licensing decisions—Navy may have input on approval. This is a **risk flag** for any future international deployment or technology transfer.
 
-**Customer Payment History**:
-- June 2026: EMASS declined original $35k final milestone due to incomplete final report. Billing restructure (split into $25k + $10k, plus per-flight-day basis) successfully resolved concerns and unblocked project.
-- Invoice submitted 2 days late (September 4 vs. August 28); recommend follow-up if payment not received within standard 30-day terms.
+**Product Integration:** Custom ECS-DoT chip integration into Black Swift E2 UAS platform; involved UART interface design, PCB custom fabrication, firmware synchronization, and multi-phase validation (bench, functional, flight trials with energy/endurance metrics).
 
-**Priority**: EMASS ranked Priority #3 (April 30, 2026) for closure; lower-priority customer relative to S3 IRAD and S0-VTOL projects.
-
-**Products/Services Delivered**: Custom Payload, E2
+**Project Status:** Fully archived; no outstanding deliverables or contractual obligations beyond per-flight-day billing model for future support.

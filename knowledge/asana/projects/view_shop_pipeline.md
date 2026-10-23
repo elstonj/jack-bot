@@ -1,62 +1,40 @@
+_Asana snapshot as of 2026-10-23: 1 open tasks, 3 completed (last 365 days)._
+
 # Shop Pipeline
 
 ## Overview
-- **Client/customer**: Multiple clients including University of Colorado (CU IRISS), INSTAAR/CU, Boulder Rescue, Notre Dame, NASA, ADONIS, Stanford/Accelent, NOAA, Oklahoma State (OKST), Hesselius/CU Boulder
-- **Dollar value**: Not specified in available data
-- **Timeline**: Active project tracking aircraft from order to delivery
-- **Status**: Active — project serves as ongoing inventory and manufacturing pipeline tracker
-- **Team members involved**: Dan Prendergast, Nate Straus, Jack Elston, Alex Lomis, Beck Cotter, Josh Fromm, Maciej Stachura
-- **Risk signals**: 
-  - **"2026 Hurricane" (NOAA)** — **UNASSIGNED, NO DUE DATE** — requires immediate clarification, assignment, and scheduling
-  - **INSTAAR/CU operator training** (S3, 2 units) — status not updated; previously HIGH URGENCY with Aug 11-13 training dates
-  - **Facility issue**: Leaky roof in new shop (middle of facility, currently no equipment at risk) — not urgent but needs eventual repair
+- **Customer Base**: Academic and government agencies (CU, Notre Dame, Boulder Rescue, NOAA)
+- **Timeline**: Active project tracking aircraft inventory and manufacturing needs through 2026
+- **Status**: Active — 1 open task; 3 recent completions suggest ongoing operations
+- **Team Members**: Jack Elston (assigned to at least one task); primarily unassigned tasks indicate shared responsibility
+- **Risk Signal**: One open task (2026 Hurricane NOAA) has no due date; one noted maintenance issue (leaky roof in shop)
 
 ## Key Deliverables & Milestones
-- **CU IRISS**: S2 return and operator training flight scheduling (**COMPLETED May 13, 2026**) — aircraft returned to CU and training flight completed, enabling NSF MUSAS certification
-- **INSTAAR/CU Operator Training**: 2x S3 platform training (status not updated; previously HIGH URGENCY with Aug 11-13 training dates, travel not scheduled)
-- **Notre Dame**: 4x S0 aircraft delivered (completed Feb 2026); 1x S0 display model (completed May 2025); 2x S0 air-deployed (completed Oct 2025)
-- **NASA Aeropods**: Testing phase completed (Oct 2025)
-- **NASA Persistence Demo**: 2x S2 wildfire monitoring demonstration (completed Aug 2025, Aug 27-28)
-- **ADONIS**: 2x S0 VTOL delivered with training (completed Oct 2025, June 23-26); 2x S0 AD delivered (completed Oct 2025)
-- **Boulder Rescue**: UAS training/demo (**COMPLETED March 3, 2026**) — platforms S0 & S2, required OSMP ranger permission for demo flights
-- **Stanford/Accelent**: S2 demo completed (Oct 2025)
-- **NOAA**: 2x S0 clear air testing (completed July 2025, June 15-19 travel)
-- **OKST**: S2 operator training completed (Aug 2025, July 28-30 travel)
-- **Hesselius/CU Boulder**: 1x E2 final assembly (completed May 2025)
-- **Costa Rica (Volcano monitoring)**: S0 VTOL deployment (completed May 2025, May 11-22 travel by Dan, Jack, Maciej)
-- **ACM UAS Summit Demo**: E2 "STRIKE-PAD" demonstration (completed Aug 2025)
+
+| Customer | Platform | Quantity | Due Date | Status |
+|----------|----------|----------|----------|--------|
+| Notre Dame | S0 | 4 | 2026-05-01 | ✅ Completed 2026-02-19 (early) |
+| CU IRISS | S2 + Training | 1 | No due date | ✅ Completed 2026-05-13 (return & training scheduled) |
+| Boulder Rescue | S0 + S2 Demo | — | 2026-03-03 | ✅ Completed 2026-03-03 (training/demo) |
+| NOAA | Hurricane (platform unknown) | — | No due date | 🔵 Open |
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
-- **Open tasks**: 
-  - **2026 Hurricane (NOAA)** — Unassigned, no due date — **PRIORITY: Requires immediate attention**
-- **Completion rate**: Historical projects showing strong delivery track record
-- **Heavy use of custom fields for tracking**: platforms (S0, S2, S3, E2, S0 VTOL, S0 AD, Aeropods), training/travel requirements and dates, urgency levels, order quantities, manufacturing stages, project references, customer contacts, next steps (sales)
+- **Total**: 4 tasks (1 open, 3 completed)
+- **Assignee Breakdown**: 
+  - Jack Elston: 1 task (100% completion rate)
+  - Unassigned: 3 tasks (3 completed, 1 open)
+- **Pattern**: Most work is unassigned; minimal tracking of individual ownership
 
 ## Recent Activity
-- **COMPLETED (March 3, 2026)**: Boulder Rescue UAS Training/demo (Jack Elston)
-  - S0 platform demonstrated; S2 platform also involved
-  - Training event inviting local agencies to witness BST flight
-  - Permission from OSMP rangers required for S2 and S0 demonstrations in Boulder area
-  - Contact: Hunter Ray (hunterray@boulderrescue.org), last contact Nov 11, 2025
-  - Next steps: No action needed
-- **FACILITY ALERT (October 14, 2026)**: Leaky roof identified in new shop — **Joshua Fromm reported**: "we've got a leaky roof in one obvious spot in the new shop. Not urgent it's in the middle of the shop so nothing is there right now." Location: middle of facility. Status: **not urgent; no equipment at risk.** Requires eventual maintenance coordination.
-- **ACTIVE/OPEN**: "2026 Hurricane" NOAA task — newly visible in current project view, unassigned and undated
+- **2026-05-13**: CU IRISS training/return completed — S2 in shop, training flight scheduled pending NSF MUSAS certification
+- **2026-03-03**: Boulder Rescue UAS training/demo completed on schedule (S0 & S2 platforms demonstrated; OSMP ranger permission required)
+- **2026-02-19**: Notre Dame S0 delivery completed 70 days ahead of schedule (4-unit order)
+- **2026-10-14** (Team Feedback): Joshua Fromm reports leaky roof in new shop in center of floor—**not urgent** (no equipment stored there currently)
 
 ## Notes & Context
-- Project functions as master tracking system for aircraft inventory and manufacturing pipeline
-- Multiple platform types in use: S0, S2, S3, E2, S0 VTOL, S0 AD, Aeropods
-- Training/travel component required for most deliveries with specific date tracking
-- Customer contacts and email addresses tracked for ongoing relationships:
-  - Brian Argrow (brian.argrow@colorado.edu) — CU IRISS
-  - Hunter Ray (hunterray@boulderrescue.org) — Boulder Rescue
-  - David Richter — Notre Dame
-- Manufacturing stages tracked: Assembly, Final Assembly, Refurbished, Testing
-- Mix of customer types: research institutions (universities, NASA, NOAA), commercial (ADONIS), emergency services (Boulder Rescue), private (Hesselius)
-- International operations including volcano monitoring in Costa Rica
-- Demonstration activities for various events and summits (ACM UAS Summit with STRIKE-PAD platform demo)
-- **NSF MUSAS website certification process**: Now unlocked following successful CU IRISS S2 return and training flight completion (May 13, 2026)
-- **Regulatory requirement**: OSMP (Open Space and Mountain Parks) ranger permission required for S2/S0 demonstrations in Boulder area
-- **ACTION NEEDED**: 
-  - "2026 Hurricane" (NOAA) task remains unassigned with no due date — appears to be new customer opportunity or project requirement needing immediate clarification, scope definition, platform/quantity specification, and due date assignment
-  - Roof leak in new shop needs maintenance coordination (Joshua Fromm, Oct 14, 2026 — not urgent; no equipment at risk)
+- **Project Purpose**: Aircraft inventory and manufacturing pipeline visibility for BST
+- **Training Component**: Multiple customers requiring training (CU IRISS, Boulder Rescue); training/travel logistics tracked as custom fields
+- **Platform Mix**: S0 (smaller platform) and S2 (larger platform) mentioned; S2 currently in shop for CU
+- **External Dependencies**: OSMP ranger permission needed for demos; NSF MUSAS certification updates required post-training
+- **Maintenance Issue**: Leaky roof in new shop (Joshua Fromm, 2026-10-14)—not blocking current work but should be scheduled for repair
+- **Missing Context**: 2026 Hurricane NOAA task lacks platform details, quantities, and timeline

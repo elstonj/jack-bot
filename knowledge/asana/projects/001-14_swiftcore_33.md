@@ -1,64 +1,73 @@
+_Asana snapshot as of 2026-10-23: 9 open tasks, 103 completed (last 365 days)._
+
 # [001-14] SwiftCore 3.3
 
 ## Overview
-- **Client/customer**: Internal BST development project
-- **Dollar value**: Not specified
-- **Timeline**: Active development branch (develop); no target release date specified
-- **Status**: **ACTIVE DEVELOPMENT.** As of Nov 28, 2023: **14 open tasks, 21 completed**. Project shows ongoing simulator-driven bug intake and resolution across autopilot, ground station, and tablet code. Note: timestamp inconsistency in raw data (Nov 2023 status vs. Oct 2026 task completion dates) suggests data import lag or concurrent development cycles. Current work dominated by S3/S2 simulator sensor/flight logic issues, UI state management bugs in ground station app, and mission planning edge cases.
-- **Team members**: Jack Elston (owner), Maciej Stachura (primary developer), Ben Busby (tablet/GCS app), BST team
-- **Risk signals**: 
-  - **14 open tasks with no due dates** — work is unscheduled; priority custom field marked "Low," but many represent flight-critical behavior
-  - **4 UI state bugs** (Ben Busby, Ready for Testing status): user mode changes during flight can lock out aircraft control window, telemetry menu, and nav-way app until app restart
-  - **6 S3 sensor loss scenarios** (Maciej Stachura): GPS, pitot (clogged/loss), mags, static pressure — all marked "unexpected response" with no clarity on intended behavior
-  - **3 mission planning bugs**: waypoint skip (SIM-0025), Dubins path fishhook artifact (SIM-0019), goto failure with point under aircraft (SIM-0021)
-  - **Lost comms joystick mode** not yet validated (Maciej Stachura)
+- **Project**: Development of the 3.3 (develop) branch of the autopilot, ground station, and tablet code
+- **Owner**: Jack Elston
+- **Team**: BST (Whole Team) — primary contributors include Ben Busby, Maciej Stachura, Jack Elston
+- **Dollar value**: Not specified in project data
+- **Timeline**: 
+  - As of status update Nov 28, 2023, project had overdue milestones and tasks
+  - Recent completed work dated October 21–23, 2026 (note: dates appear to be simulator/test data from future scenario)
+- **Status**: [YELLOW] Active with overdue work; 103 completed tasks, 9 open tasks (mostly unassigned milestone features)
+- **Priority**: Low (per custom field)
+
+## Risk Signals
+- **Overdue milestones and tasks as of Nov 28, 2023** (per project status update)
+- Six milestone-level features remain unassigned with no due dates:
+  - Final release supporting 2030, 2040, and 2050/3000 hardware
+  - Final release supporting commercial S1
+  - Adds initial VTOL support
+  - Official scripting release (including payload control)
+  - Control through payload serial interface
+  - Adds app support (payload, flight parameters, scripting)
+- Three active bug tasks assigned to Ben Busby with no due dates:
+  - Script goto command ACK failures and unintended landing (SIM-0020)
+  - Altitude change during landing descent causes green flash, no error, landing not cancelled (SIM-0032)
+  - AGL elevation in node panel sometimes displays incorrectly (m/100 scaling issue)
 
 ## Key Deliverables & Milestones
+Six major feature milestones listed, all open/unassigned with no due dates:
 
-**Open Milestones:**
-- Adds initial VTOL support (unassigned, no due date) — related tasks: fishhook artifact in Dubins path (SIM-0019), lost comms joystick check
-
-**Completed Milestones (Oct 2026):**
-- Multiple S3 simulator robustness items: killed engine stall response, climbout clogged pitot, ground contact carry-over, BAD IAS false alarm at altitude (all Maciej Stachura, 2026-10-22)
-- Preflight check validation: landing plan altitude warning, mission start waypoint autocheck, zero sensors warning (all Ben Busby, 2026-10-23)
-- Communications & actuator fixes: Xtend GCS comms loss, PWM channel config, actuator values ACK bug (Jack Elston, 2026-10-22)
-- Flight mode transitions: joystick takeover, manual takeover, landing plan switch, turnrate/waypoint transition (Maciej Stachura, 2026-10-22)
+1. **Final release supporting 2030, 2040, 2050, 3000 hardware**
+2. **Final release supporting commercial S1**
+3. **Adds initial VTOL support**
+4. **Official scripting release** (including payload control)
+5. **Control through payload serial interface**
+6. **Adds app support** (payload, flight parameters, scripting)
 
 ## Task Summary
-- **Total tasks**: 14 open, 21 completed (Nov 28, 2023 snapshot; data current through Oct 2026 activity)
-- **Tasks by assignee**:
-  - **Maciej Stachura**: 9 open (6 S3 sensor loss, 1 waypoint skip, 1 fishhook artifact, 1 goto failure, 1 lost comms joystick check); 14 completed
-  - **Ben Busby**: 4 open (all UI state bugs: aircraft control window, telemetry menu, user mode mode/app opening race conditions); 3 completed
-  - **Unassigned**: 1 open (VTOL support milestone)
-  
+- **Total**: 9 open, 103 completed (91.6% completion rate)
+- **Tasks by assignee** (completed, recent):
+  - Ben Busby: 5 open + multiple completed (app/tablet issues, preflight checks, telemetry, altitude handling)
+  - Maciej Stachura: 2 open + multiple completed (simulator QC, autopilot path planning, loss-of-signal scenarios, dynamic pressure issues)
+  - Jack Elston: 0 open + multiple completed (communications, autopilot configuration, logging, battery indication)
+  - Unassigned: 2 open (both are milestones)
+
 - **Notable patterns**:
-  - **UI stability issue cluster**: 4 of 14 open tasks are ground station app state management bugs under Ben Busby, all marked "Ready for Testing" on release/3.3.0 branch — suggests these may be pre-release validation findings
-  - **Sensor failure focus**: 6 of 9 Maciej tasks are S3 simulator sensor loss/degradation (GPS, pitot, mags, static pressure) — shifted to broader mission planning bugs (waypoint skip, Dubins artifact, goto failure)
-  - **VTOL emergence**: New theme in open work (fishhook artifact, lost comms joystick) aligns with open VTOL support milestone
-  - **Completion velocity**: 21 completed tasks in same period shows high resolution rate; most recent activity 2026-10-22 to 2026-10-23
+  - Heavy simulator testing focus (SIM-xxxx bug reports from sim 0.9.0~rc17, rc18, rc22)
+  - Bug fixes cluster around preflight checks, telemetry/app UI, joystick mode, landing plans, and sensor handling
+  - Many tasks reference feature branches (release/3.3.0, develop)
+  - No tasks have due dates; work appears tracked by simulator test cycles and field testing (S0, S1, S2, S3, S10011, S10020, etc.)
 
 ## Recent Activity
-**Completed (2026-10-22 to 2026-10-23):**
-- **Preflight validation** (Ben Busby, 3 tasks): fixed landing plan altitude warning display, mission start waypoint autocheck behavior, zero sensors warning visibility — all marked "Ready for Testing" (SIM-0029)
-- **S3 sensor robustness** (Maciej Stachura, 2 tasks): killed engine stall response, climbout clogged pitot
-- **S3 model builder**: ground contact carry-over for belly/tail-fin (prevents loss on S3.xml regeneration)
-- **S3 dynamics**: BAD IAS false alarm at 4–5 km altitude (SIM-0028) — confirmed no active simulator faults
-- **Communications**: Xtend GCS comms loss during auto surfaces check (Jack Elston); PWM channel config issue S00001 (Jack Elston)
-- **Flight dynamics**: joystick takeover on tablet (S2), manual takeover bug, landing plan spiral switch, turnrate/waypoint turn recomputation (Maciej Stachura)
-- **Actuator control**: surfaces not responding to ACKed packet (Jack Elston)
-- **Flight termination & sensor dropout**: flight terminate bug S10011 (2024-03-08), dynamic pressure dropout with IAS freeze (SIM-0040), unprompted dynamic pressure error cleared on descent/climb (SIM-0022)
+**Completed (Oct 21–23, 2026)** — Recent fixes include:
+- App UI/UX: telemetry menu failures, aircraft control window opening issues, user mode switching bugs (all marked "Passed")
+- Simulator QC: VTOL Dubins path fishhook, goto waypoint failures, flight plan diversion (waypoint skipping), sensor loss scenarios
+- Autopilot: landing plan altitude checks, joystick takeover, preflight warnings, dynamic pressure dropout handling, airspeed error recovery
+- Hardware: PWM channel configuration (S00001), actuator surface response, GCS/Xtend comms dropout
+- Scripting: commands and scripting issues for VTOL and fixed-wing (climb/descend commands)
+- Configuration: USB bootloader flag for hardware 2050, MHP CAN bus integration
 
-**Unresolved open issues:**
-- **UI app state**: User mode changes during flight lock out aircraft control window, telemetry menu, and nav-way app — requires full app exit (not close) to recover (4 tasks, Ben Busby, SIM-0017, SIM-0030)
-- **Mission planning**: Waypoint skip (9→11, missed 10 on northbound leg, SIM-0025), Dubins path fishhook artifact before initial VTOL holding loop (SIM-0019), goto failure under aircraft (SIM-0021)
-- **S3 sensor loss**: 6 open tasks (GPS loss in flying mode joystick lockup, clogged pitot, pitot loss, mags loss, static pressure loss on climbout) — all marked "unexpected response"; no clarity on intended behavior or acceptance criteria
-- **Lost comms validation**: joystick mode behavior in lost comms scenario (VTOL test QC plan context)
+**In progress (Ben Busby)** — Three active bugs related to scripting, altitude handling, and AGL display.
 
 ## Notes & Context
-- **Data timestamp anomaly**: Status update dated Nov 28, 2023 but task completion dates Oct 2026 (same pattern as prior knowledge file). Task dates (Oct 2026) are authoritative work timeline.
-- **Simulator-driven development**: All open and recent work stems from S3/S2 JSBSim simulator testing (sim 0.9.0~rc17 to rc22). Test harness includes automated preflight checks, mission planning, and dynamic failure injection.
-- **Release branch activity**: Multiple Ben Busby UI bugs are marked "Ready for Testing" on release/3.3.0 branch — suggests 3.3.0 release candidate is under validation
-- **Critical vs. marked priority**: Custom field priority is "Low," but UI state bugs block app interaction (app restart workaround), sensor loss tasks have safety implications, and waypoint skip/fishhook are mission-critical path errors
-- **Scope clarity**: S3 sensor loss tasks lack detail on expected behavior; Dubins path fishhook and goto failure suggest mission planning logic needs review under edge conditions
-- **VTOL support emergence**: Open milestone shows new feature incoming; related bugs (SIM-0019, fishhook; lost comms joystick) are blocking acceptance
-- **Release readiness**: No ETA. Current work is stabilization (preflight validation, UI state, sensor robustness) and new feature blocking item triage (VTOL). Completed tasks show high resolution velocity; open work appears ready for active sprint.
+- Project status as of Nov 28, 2023 flagged **[yellow] with overdue milestones and tasks**, but the bulk of completed work is dated Oct 21–23, 2026 (future scenario or test data labeling)
+- Six major feature milestones remain backlog items with no assigned owners or due dates; these likely represent the 3.3 release roadmap rather than immediate blockers
+- High volume of simulator-based QC testing and bug discovery (SIM-0017 through SIM-0040+), suggesting active development/test cycle
+- Extensive testing across multiple aircraft variants (S0, S1, S2, S3, S10011, S10020, E2)
+- No custom field usage for dollar tracking or budget; priority marked "Low"
+- **Conflict in timeline data**: Project notes show Nov 28, 2023 status, but completed tasks dated Oct 2026 — Asana data may be stale or mislabeled
+
+**TEAM CORRECTIONS & FEEDBACK**: None provided in source data.

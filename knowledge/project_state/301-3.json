@@ -30,26 +30,26 @@
     "line_items": [
       {
         "category": "Labor",
-        "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): laser configuration updates, AirOps fields, dual GPS RTK, 10Hz met data, firmware/comms/UI customization, extended endurance, manufacturability improvements, data buffering",
+        "amount": 93481.0,
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps fields, Dual GPS RTK, 10Hz met data, Firmware customization, Extended endurance, Manufacturability improvements, Data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for dual GPS ($1,000), extended endurance battery tweaks ($200), manufacturability improvements ($500)",
+        "description": "Materials for Dual GPS, Extended endurance, Manufacturability improvements",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852), Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 551648.75,
+        "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
         "last_updated": "2026-10-23"
@@ -61,18 +61,18 @@
         "last_updated": "2026-10-23"
       },
       "other_qbo": {
-        "amount": 321540.76,
+        "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-10-23"
       },
-      "total": 875358.03,
+      "total": 969392.07,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -743025.03,
+    "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-23T09:19:46Z"
+    "last_reconciled": "2026-10-23T20:10:13Z"
   },
   "milestones": [
     {
@@ -165,6 +165,6 @@
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-23T09:19:46Z",
+  "last_full_rebuild": "2026-10-23T20:10:13Z",
   "last_incremental_update": null
 }

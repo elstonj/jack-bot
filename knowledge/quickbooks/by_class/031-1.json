@@ -1,22 +1,161 @@
 {
   "project_code": "031-1",
   "qbo_class_names": [
-    "(031-1) University of Maryland Eastern Shore"
+    "(031-1) University of Maryland Eastern Shore",
+    "[031] University of Maryland Eastern Shore:(031-1) University of Maryland Eastern Shore"
   ],
   "period": {
-    "start": "2026-09-24",
-    "end": "2026-09-30"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
-    "revenue": 0.0,
-    "expenses": 12.87,
+    "revenue": 363038.0,
+    "expenses": 7765.82,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 12.07,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 0.8
+      "Indirect Cost:Travel Expenses:Airfare": 2539.04,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 2471.01,
+      "DIRECT COSTS:DC-Direct Material Purchases": 1416.79,
+      "Indirect Cost:Travel Expenses:Lodging": 957.8,
+      "Indirect Cost:Travel Expenses:Away Meals": 287.49,
+      "OVERHEAD:OH-Other Travel Expenses": 93.69
     }
   },
-  "invoices": [],
-  "bills": [],
+  "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-05-18",
+      "doc_number": "1765",
+      "total": 79338.0,
+      "attributed": 79338.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 65000.0,
+          "account": "",
+          "description": "4 meter wingspan aircraft capable of VTOL operations. Compatible with S2 payloads. Comes with 1 battery, hard shipping case, grounds station, tablet with SwiftTab software."
+        },
+        {
+          "amount": 7338.0,
+          "account": "",
+          "description": "S3 battery pack"
+        },
+        {
+          "amount": 3000.0,
+          "account": "",
+          "description": "Two days of training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements. Consists of both a simulation session as well as flight training."
+        },
+        {
+          "amount": 4000.0,
+          "account": "",
+          "description": "Shipping of S3 UAS"
+        },
+        {
+          "amount": 79338.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-03-05",
+      "doc_number": "1653",
+      "total": 1968.0,
+      "attributed": 1968.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1968.0,
+          "account": "",
+          "description": "S2 6S 14000 mAh 18650 battery pack with quick release case."
+        },
+        {
+          "amount": 1968.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2025-03-05",
+      "doc_number": "1652",
+      "total": 100213.0,
+      "attributed": 100213.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 44619.0,
+          "account": "",
+          "description": "Includes S2 UAS airframe, avionics package consisting of SwiftCore\u2122 Flight Management System (includes SwiftTab\u2122 user interface installed on an Android\u00ae-based Control Tablet, Futaba 14SG Handset, and SwiftStation\u2122\nRTK enabled Ground Control Unit), toolkit, tripod, battery, charger, and hard shipping"
+        },
+        {
+          "amount": 19575.0,
+          "account": "",
+          "description": "Pneumatic launcher for the S2 UAS, includes launch rail, pneumatic box and control system. Comes with shipping case."
+        },
+        {
+          "amount": 23535.0,
+          "account": "",
+          "description": "S2 photogrammetry dual payload consisting of a Sony A7R IV with a 28mm Sony Lens and a Flir Vue Pro R 640, 69\u00b0 FOV, 9mm, 30Hz"
+        },
+        {
+          "amount": 984.0,
+          "account": "",
+          "description": "S2 6S 14000 mAh 18650 battery pack with quick release case."
+        },
+        {
+          "amount": 3000.0,
+          "account": "",
+          "description": "Two days of training and familiarization with SwiftCore FMS, including emergency procedures and regulatory requirements.  Consists of both a simulation session as well as flight training."
+        },
+        {
+          "amount": 7500.0,
+          "account": "",
+          "description": "Yearly subscription to the advanced maintenance package including pre-flight planning support (up to 6 flights per year), In-field support assistance (1 incident per quarter within 120 miles of Boulder) Data set triage (troubleshooting and corrections), Airframe inspection and maintenace (every 50 f"
+        },
+        {
+          "amount": 1000.0,
+          "account": "",
+          "description": "Shipping of S2 UAS"
+        },
+        {
+          "amount": 100213.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-06-11",
+      "doc_number": "103032173",
+      "total": 1112.81,
+      "attributed": 1112.81,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1112.81,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping S3 to UMES"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",
@@ -45,8 +184,572 @@
           "description": "Shipment from Phase1 Aviation"
         }
       ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-05-07",
+      "doc_number": "00018935",
+      "total": 1221.39,
+      "attributed": 1221.39,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Josh Fromm placed order via email - No Asana request",
+      "lines": [
+        {
+          "amount": 1221.39,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S3 Case (UMES)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-09-24",
+      "doc_number": "",
+      "total": 84.33,
+      "attributed": 84.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Tracking: 1ZB8C753YW78940937",
+      "lines": [
+        {
+          "amount": 84.33,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment from UMES to BST. Jack brought an S1 to show them when he traveled for training."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 957.8,
+      "attributed": 957.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HAMPTON INNS - 4699",
+      "lines": [
+        {
+          "amount": 957.8,
+          "account": "Indirect Cost:Travel Expenses:Lodging",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 18.4,
+      "attributed": 18.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*KELLYNS KAFE - 4699",
+      "lines": [
+        {
+          "amount": 18.4,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 15.72,
+      "attributed": 15.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "2PROSPORTSCATER@SBIRDS - 4699",
+      "lines": [
+        {
+          "amount": 15.72,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 12.7,
+      "attributed": 12.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "2PROSPORTSCATER@SBIRDS - 4699",
+      "lines": [
+        {
+          "amount": 12.7,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 14.95,
+      "attributed": 14.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 14.95,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 41.22,
+      "attributed": 41.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "KROGER FUEL 3543 - 4699",
+      "lines": [
+        {
+          "amount": 41.22,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 21.95,
+      "attributed": 21.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *RISE UP COFFEE - EAST - 4699",
+      "lines": [
+        {
+          "amount": 21.95,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 8.41,
+      "attributed": 8.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARBUCKS 52765 - 4699",
+      "lines": [
+        {
+          "amount": 8.41,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 7.4,
+      "attributed": 7.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DUNKIN #342111 Q35 - 4699",
+      "lines": [
+        {
+          "amount": 7.4,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 13.8,
+      "attributed": 13.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 13.8,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 6.9,
+      "attributed": 6.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OVGH-0170 NORFOLK TIDES - 4699",
+      "lines": [
+        {
+          "amount": 6.9,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "OVGH-0170 NORFOLK TIDES - 4699"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 10.75,
+      "attributed": 10.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCDONALD'S F27655 - 4699",
+      "lines": [
+        {
+          "amount": 10.75,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-11",
+      "doc_number": "",
+      "total": 7.09,
+      "attributed": 7.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *RISE UP COFFEE - EAST - 4699",
+      "lines": [
+        {
+          "amount": 7.09,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 65.75,
+      "attributed": 65.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 65.75,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 11.32,
+      "attributed": 11.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LINKWOOD CITGO - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 11.32,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "LINKWOOD CITGO - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 8.1,
+      "attributed": 8.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 8.1,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 5.57,
+      "attributed": 5.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *IZZA POKE & COFFEE - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 5.57,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "SQ *IZZA POKE & COFFEE - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-09",
+      "doc_number": "",
+      "total": 68.06,
+      "attributed": 68.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 68.06,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 22.36,
+      "attributed": 22.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* TASTES ON THE FLY-ME - 4699   restaurant Denver Airport\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 22.36,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "TST* TASTES ON THE FLY-ME - 4699   restaurant Denver Airport\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 15.23,
+      "attributed": 15.23,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "EINSTEIN BROS BAGELS3580 - 4699\n\nJack travel for UMES training",
+      "lines": [
+        {
+          "amount": 15.23,
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
+          "description": "EINSTEIN BROS BAGELS3580 - 4699\n\nJack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-08",
+      "doc_number": "",
+      "total": 5.5,
+      "attributed": 5.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Nyx*VendingCustomerServic - 4699\n\nVending machine - Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 5.5,
+          "account": "OVERHEAD:OH-Other Travel Expenses",
+          "description": "Nyx*VendingCustomerServic - 4699\n\nVending machine - Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 513.49,
+      "attributed": 513.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel to UMES for training",
+      "lines": [
+        {
+          "amount": 513.49,
+          "account": "Indirect Cost:Travel Expenses:Airfare",
+          "description": "Jack travel to UMES for training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-07",
+      "doc_number": "",
+      "total": 513.49,
+      "attributed": 513.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack travel for UMES training",
+      "lines": [
+        {
+          "amount": 513.49,
+          "account": "Indirect Cost:Travel Expenses:Airfare",
+          "description": "Jack travel for UMES training"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-08-04",
+      "doc_number": "",
+      "total": 1512.06,
+      "attributed": 1512.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Jack Travel for Univ Maryland Eastern Shore training (Aug. 7-8)",
+      "lines": [
+        {
+          "amount": 1512.06,
+          "account": "Indirect Cost:Travel Expenses:Airfare",
+          "description": "Jack Travel for Univ Maryland Eastern Shore training (Aug. 7-8)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-04-10",
+      "doc_number": "",
+      "total": 390.83,
+      "attributed": 195.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "S0 VTOL - goods sold split between (Oklahoma, UMES) total $390.83",
+      "lines": [
+        {
+          "amount": 195.43,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "T-Motor Mini F45A 6S 4-in-1 ESC x 2"
+        },
+        {
+          "amount": 195.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "T-Motor Mini F45A 6S 4-in-1 ESC x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2025-03-20",
+      "doc_number": "",
+      "total": 1261.0,
+      "attributed": 1261.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FREIGHTPROS LLC - 3015",
+      "lines": [
+        {
+          "amount": 1261.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment to UMES"
+        }
+      ]
     }
   ],
   "purchase_orders": [],
-  "payments": []
+  "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-06-10",
+      "doc_number": "",
+      "total": 79338.0,
+      "attributed": 79338.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 79338.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-04-08",
+      "doc_number": "",
+      "total": 1968.0,
+      "attributed": 1968.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": null,
+      "memo": "ONLINE TRANSFER FROM ELSTON J REF #IB0RXRWZV4 EVERYDAY CHECKING ATM DEPOSIT Jack deposited physical check.",
+      "lines": [
+        {
+          "amount": 1968.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2025-04-08",
+      "doc_number": "",
+      "total": 100213.0,
+      "attributed": 100213.0,
+      "vendor": "",
+      "customer": "(031-1) University of Maryland Eastern Shore",
+      "balance": null,
+      "memo": "ONLINE TRANSFER FROM ELSTON J REF #IB0RXRWZV4 EVERYDAY CHECKING ATM DEPOSIT Jack deposited physical check.",
+      "lines": [
+        {
+          "amount": 100213.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
 }

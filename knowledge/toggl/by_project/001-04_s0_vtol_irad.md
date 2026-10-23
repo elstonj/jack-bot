@@ -1,68 +1,56 @@
+_Computed from Toggl as of 2026-10-23: 4035.7 h total since 2020-01-01 — Alex 2641.1 h, Jack Elston 618.3 h, Sam Hild 421.0 h, Stachura 138.0 h, Andy 79.7 h, Nate 79.5 h, Ethan Domagala 36.7 h, Spencer Hoehl 14.6 h, Austin Vera 4.4 h, Dan 1.5 h, Josh Fromm 0.7 h, Chase Rupprecht 0.2 h._
+
 # [001-04] S0 VTOL IRAD — Time Tracking
 
 ## Overview
-- Client: [001] IRAD (Internal Research and Development)
-- Active: Yes
-- Billable: No
-- Total hours tracked: **1,629.5 hours** (+8.0 hours)
+- **Client:** [001] IRAD (Internal Research and Development)
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 4,035.7 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Alex**: 1,311.3 hours (80.5% - Primary contributor) +8.0h
-- **Sam Hild**: 145.8 hours (8.9%)
-- **Andy**: 84.8 hours (5.2%)
-- **Jack Elston**: 33.7 hours (2.1%)
-- **Nate**: 22.2 hours (1.4%)
-- **Spencer Hoehl**: 17.1 hours (1.0%)
-- **Ethan Domagala**: 13.0 hours (0.8%)
-- **Stachura**: 3.0 hours (0.2%)
-- **Josh Fromm**: 0.7 hours (<0.1%)
-- **Chase Rupprecht**: 0.2 hours (<0.1%)
 
-**Update**: Alex remains dominant contributor with 80.5% of all project hours. This batch continues undocumented pattern.
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Alex | 2,641.1 | 65.5% |
+| Jack Elston | 618.3 | 15.3% |
+| Sam Hild | 421.0 | 10.4% |
+| Stachura | 138.0 | 3.4% |
+| Andy | 79.7 | 2.0% |
+| Nate | 79.5 | 2.0% |
+| Ethan Domagala | 36.7 | 0.9% |
+| Spencer Hoehl | 14.6 | 0.4% |
+| Austin Vera | 4.4 | 0.1% |
+| Dan | 1.5 | <0.1% |
+| Josh Fromm | 0.7 | <0.1% |
+| Chase Rupprecht | 0.2 | <0.1% |
+
+**Primary Contributor:** Alex (65.5% of total work)
 
 ## Activity Timeline
 
-**Recent work entries (this batch):**
-- **Alex**: 8.0 hours — *(no description)*
+### Recent Work Pattern
+The most recent 61 entries show concentrated activity across three primary contributors:
 
-**Work pattern observation**: Fourth consecutive batch of undocumented time from Alex. No contextual information provided.
+- **Alex:** Consistent 8-hour daily blocks (appears to be primary development/engineering)
+- **Sam Hild:** Variable 1.9–8.8 hour blocks (hardware and systems work)
+- **Jack Elston:** Recent focus on firmware debugging and flight testing (10.8h across recent entries)
+- **Spencer Hoehl:** Small support contributions (recent entries: 0.4–2.5h)
+- **Nate:** Assembly and support work (recent entries: 2.2–6.0h)
+- **Ethan Domagala:** Hardware-focused tasks (MHP tubes, laser wiring)
+
+### Identified Work Types
+- Firmware debugging (Jack Elston)
+- Flight testing and debugging (Jack Elston)
+- MHP tube cutting and assembly (Ethan Domagala)
+- Laser wiring (Ethan Domagala)
+- Mags bug investigation (Sam Hild)
+- Assembly work (Nate)
 
 ## Insights
 
-**Types of work being done:**
-- Assembly work (Nate)
-- Firmware development and debugging (Jack Elston)
-- Flight testing and vehicle validation (Jack Elston)
-- Systems testing and integration (Sam Hild)
-- Hardware fabrication: MHP tube manufacturing and laser wiring (Ethan Domagala)
-- Magnetometer systems debugging (Sam Hild)
-- **[UNKNOWN]**: 32.0h cumulative of Alex's primary work (undocumented)
-
-**Critical Issues:**
-
-⚠️ **ESCALATING - REQUIRES IMMEDIATE ACTION**
-
-1. **UNDOCUMENTED TIME CRISIS**: Alex now has **32.0 cumulative hours** across four sequential batches with **zero task descriptions**
-   - Represents 2.4% of total project hours unaccounted for
-   - Prevents work type assessment, priority ranking, and blocker identification
-   - Pattern shows no improvement or compliance
-
-2. **SYSTEMIC PROCESS FAILURE**: Documentation standard has collapsed at primary contributor level
-   - No enforcement mechanism visible
-   - Pattern suggests either workload burden, deliberate non-compliance, or tracking system friction
-   - Affects project transparency and management visibility
-
-3. **TREND PERSISTENCE**: No correction observed across four batches—indicates systemic rather than isolated issue
-
-**Recommendations (URGENT):**
-
-1. **IMMEDIATE**: Schedule meeting with Alex to address documentation gap—determine root cause (workload, process barrier, or compliance issue)
-2. **RETROACTIVE AUDIT**: Require Alex to document all 32.0 undocumented hours with task context within 48 hours
-3. **ENFORCE CONTROLS**: Implement system-level block preventing time entry submission >2 hours without description field
-4. **COMPLIANCE TRACKING**: Weekly audit all entries >4 hours; escalate non-compliant entries to project lead same-day
-5. **WORKLOAD ASSESSMENT**: If undocumented entries indicate capacity overload, evaluate resource reallocation or redistribution
-6. **DOCUMENT DECISION**: Record management response to this escalation in project file for audit trail
-
----
-
-**Knowledge file updated. Fourth undocumented batch confirms pattern—requires management intervention.**
+- **Workload Distribution:** Heavily concentrated on Alex, indicating either core design/systems leadership or a bottleneck resource
+- **Documentation Gap:** 51 of 61 recent entries lack descriptions; difficult to assess work type distribution with precision
+- **Specialization:** Clear task specialization emerging—firmware (Jack), hardware/mechanical (Ethan, Sam), assembly (Nate)
+- **Activity Level:** Project remains active with daily contributions; recent entries span multiple weeks of consistent work
+- **Non-Billable:** All work is internal R&D; no revenue impact tracking required

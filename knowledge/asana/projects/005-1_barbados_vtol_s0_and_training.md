@@ -1,57 +1,68 @@
-# [005-1] BARBADOS VTOL S0 and Training
+_Asana snapshot as of 2026-10-23: 4 open tasks, 1 completed (last 365 days)._
+
+# Barbados VTOL S0 and Training
 
 ## Overview
-- **Client/Customer:** Barbados Meteorological Services
-- **Contact:** Sabu Best (1-246-535-0016, Sabu.Best@barbados.gov.bb)
-- **Dollar Value:** 
-  - $22,337 (S0 VTOL + Training; Invoice 1634 paid Feb. 2024)
-  - $21,181.81 (ISARRA Flight Week campaign—two S0 VTOL units + ground station + tablet; Invoice 1667 paid May 21, 2026)
-  - **Total: $43,518.81**
-- **Timeline:**
-  - Original project due: 2024-10-01 (passed)
-  - **S0 VTOL delivery due: May 22, 2026 (CRITICALLY OVERDUE)**
-  - S0 VTOL handoff meeting: June 23, 2026
-  - Operator training delivery: July 1–4, 2026 (Barbados; 6 trainees including Junior Brathwaite)
-  - ISARRA Flight Week campaign: August/September 2026
-- **Status:** **CRITICAL DELAY — ACTIVE CRISIS WITH STRUCTURAL REORGANIZATION**
-  - **S0 VTOL crash/tracking bug under active investigation and repair** (flight test restart in progress; Beck Cotter, March 17, 2026)
-  - **Bench test work overdue** (Visual Observation Bench Test overdue as of April 30, 2026; Instrumented Bench Test due by May 1, 2026)
-  - May 22 delivery deadline substantially missed; threatens June 23 handoff and July 1–4 training
-  - **Per Maciej Stachura (April 30, May 4, 2026):** S0 VTOL ranked #2 company priority (after S3 IRAD, tied with ERAU S0 VTOL); Asana due dates require realistic update post-ByLight meeting
-  - Operator training unassigned with no due date despite July 1–4 travel commitment and 6 trainees
-  - **902–928 MHz ISM band interference risk flagged by Barbados Prime Minister's Office** — requires verification before operational deployment
-  - **ISARRA campaign (two units) in QC phase; August delivery target confirmed** (per team correction, Jack Bot, July 6, 2026; QC ongoing as of July 3, 2026; Kevin Adkins approved)
-  - **Industrial Plan restructuring underway (Maciej Stachura, July 27–28, 2026):** S0/S0-VTOL ISR being repositioned leftward in timeline to support S0-ISR demo for UK (tentative September start); Portfolio created for Product Pillar (July 24, 2026); customer delivery milestones being moved out of Industrial Plan projects into separate tracking structures
-  - **Team qualifications audit underway (Spencer Hoehl, Oct. 1–2, 2026):** FAA pilot certifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, and COA documentation being requested company-wide; **ocean survival training expires spring 2027** (Joshua Fromm, Oct. 1–2, 2026)
-- **Team Members:**
-  - Alex Lomis (project owner)
-  - Beck Cotter (S0 VTOL delivery lead; flight-testing ongoing)
-  - Jack Elston (handoff/training lead; training documentation ownership reassigned per June 1, 2026)
-  - Maciej Stachura (technical troubleshooting/priority management; portfolio/IP restructuring)
-  - Daniel Prendergast (support; production pipeline process gap documentation, Oct. 20, 2026)
-  - Kevin Adkins (ISARRA logistics approval)
-  - Spencer Hoehl (team qualifications coordination as of Oct. 1–2, 2026)
-  - Joshua Fromm (ocean survival training status tracking)
-- **Risk Signals:**
-  - **S0 VTOL crash/tracking bug—active repair in progress; flight test restart blocking delivery**
-  - **Bench test work overdue (Visual Observation) as of late April 2026; Instrumented Bench Test due early May 2026**
-  - May 22 handoff due date critically missed; current delivery timeline unknown
-  - Ground station asset scarcity (Jack Elston, April 20, 2026): potential hardware reprioritization if timeline slips
-  - **Operator training unassigned and without formal due date** despite imminent July 1–4 travel and 6-person commitment
-  - NDAA compliance not finalized (Alex Lomis, April 17, 2026)
-  - **Radio interference risk in 902–928 MHz ISM band (Microhard P900, PN: MHS185000, FCC ID: NS913P900) not yet verified** — Barbados Prime Minister's Office flagged unregulated ISM band frequency range 902–928 MHz; drone prone to interference in this band. Verification required before operational deployment.
-  - ISARRA campaign: QC ongoing; must complete before August delivery
-  - Industrial Plan restructuring (Maciej, July 27–28, 2026) may impact resource allocation and timeline; S0/S0-VTOL ISR demo competing for resources with UK commitment (tentative September)
-  - **Team member qualifications audit (Spencer Hoehl, Oct. 1–2, 2026):** FAA Part 107/61/141 certifications, security clearances, NOAA Hurricane training, and COA assignments not yet compiled company-wide; impacts operator deployment readiness
-  - **Ocean survival training expires spring 2027** (Joshua Fromm, Oct. 1–2, 2026); renewal timing critical for Barbados mission and maritime operations
-  - **Production pipeline process gap identified (Daniel Prendergast, Oct. 19–20, 2026):** No formalized process for transitioning proposed system builds into production pipeline; impacts future deliveries and resource planning
+- **Client:** Barbados Meteorological Services (Sabu Best, 1-246-535-0016, Sabu.Best@barbados.gov.bb)
+- **Dollar Value:** $22,337 (Invoice 1634 paid Feb. 2024)
+- **Timeline:** Project due date was 2024-10-01 (now stale). Training scheduled **July 1–4, 2026**. Sabu available week of May 5, 2025 for training.
+- **Status:** **DELAYED** — Project due date has passed (2024-10-01). Significant outstanding tasks with no due dates assigned. S0 handoff to Jack scheduled June 23, 2026.
+- **Team Members:** Alex Lomis (owner), Beck Cotter, Maciej Stachura, Jack (receiving handoff)
+- **Priority:** Medium
+- **Risk Signals:** 
+  - Original project due date (2024-10-01) is long past; project is operating without active deadline pressure
+  - Multiple critical tasks lack due dates ("Deliver S0 VTOL," "Conduct operator training," "Generate NetCDF")
+  - Training currently unassigned despite being a core deliverable
+  - Project coordination unclear given team corrections note gaps in transitioning proposed builds to production pipeline
 
 ## Key Deliverables & Milestones
 
-| Deliverable | Assignee | Due Date | Status | Notes |
-|---|---|---|---|---|
-| **Visual Observation Bench Test** | Beck Cotter or support | 2026-04-24 | ⚠️ **OVERDUE** | Per Maciej Stachura (April 30, 2026): overdue as of that date. Must complete before Instrumented Bench Test. |
-| **Instrumented Bench Test** | Beck Cotter or support | ~2026-05-01 | ⚠️ **OVERDUE** | Per Maciej Stachura (April 24 & 30, 2026): due by mid-week following April 24. Blocks S0 VTOL delivery. |
-| **Deliver S0 VTOL to Barbados** | Beck Cotter | 2026-05-22 | ⚠️ **CRITICALLY OVERDUE** | Crash/tracking bug under active investigation; flight test restart in progress. Bench tests must complete first. **Per Maciej Stachura (May 4, 2026):** "after your meeting with ByLight let's update the due dates in Asana to realistic numbers." Current May 22 date substantially missed; realistic delivery timeline unknown pending crash bug resolution. Platform: S0 VTOL; Order Qty: 1. Training/travel needed July 1–4. |
-| **S0 VTOL Handoff Meeting** | Jack Elston | 2026-06-23 | ⚠️ **At Risk** | In-person handoff with Sabu Best and Barbados Meteorological Services. Dependent on Beck Cotter delivery completion; original May 22 deadline missed. |
-| **Operator Training Materials & Supplies** | Jack Elston (reassigned per June 1, 2026) | *No due date set* | ⚠️ **AT RISK** | Training curriculum and materials for 6 trainees (including Junior Brathwaite). Sabu Best available week of May 5, 2025 for preliminary review. **Per June 1, 2026 team correction:** Documentation and training ownership reassigned to Jack Elston. Must finalize by June 2026.
+| Deliverable | Owner | Status | Date |
+|---|---|---|---|
+| S0 VTOL System (Qty: 1) | Beck Cotter | Open | Due 2026-05-22 (handoff June 23) |
+| Operator Training (6 people) | Unassigned | Open | Proposed Sept. 2026; Sabu available May 5, 2025 |
+| Training Materials & Supplies | — | Open | — |
+| FAA Drone Application | Maciej Stachura | **Completed** | Completed 2026-01-19 |
+| NetCDF Generation (UA or Tablet) | Maciej Stachura | Open | No due date |
+
+**Application Status:** Barbados seamless drone application submitted; must be completed before training can proceed.
+
+## Task Summary
+
+- **Total Tasks:** 5 (4 open, 1 completed)
+- **Completion Rate:** 20%
+- **By Assignee:**
+  - Beck Cotter: 1 task (S0 VTOL build)
+  - Alex Lomis: 1 task (Deliver S0 VTOL) — no due date
+  - Maciej Stachura: 2 tasks (1 completed: FAA application; 1 open: NetCDF generation)
+  - Unassigned: 1 task (Conduct operator training) — **critical gap**
+
+- **Notable Patterns:**
+  - Three of four open tasks have no due date, indicating weak scheduling discipline
+  - Training delivery task is unassigned despite being a core project component
+  - Heavy reliance on Sabu Best as single point of contact
+
+## Recent Activity
+
+- **2026-01-19:** FAA drone application completed and submitted (Maciej Stachura)
+- **Upcoming (2026-05-22):** S0 VTOL due from Beck Cotter
+- **Upcoming (2026-06-23):** S0 handoff to Jack
+- **Upcoming (July 1–4, 2026):** Training delivery window (travel scheduled)
+- **Proposed:** Operator training Sept. 2026 for 6 people (dates/assignments TBD)
+
+## Notes & Context
+
+**Technical Details:**
+- Platform: S0 VTOL
+- Radio: Microhard P900 (902–928 MHz, frequency-hopping ISM band)
+- **Frequency interference risk:** Barbados Prime Minister's Office flagged that 902–928 MHz is unregulated ISM band; drone may experience interference in this range
+- **Operational intent:** Fly east of Barbados into Atlantic to conduct atmospheric/storm research; launch site tentatively Bushy Park
+
+**Training & Compliance:**
+- Drone application to Barbados authorities submitted and approved
+- Training requires 6 operators: Junior Brathwaite and 5 others (TBD)
+- NetCDF data generation capability needed (assignment to Maciej unclear if this is development, training, or operational support)
+
+**Process Gap (per Daniel Prendergast, 2026-10-20):** No well-defined process exists for transitioning proposed system builds into production pipeline. This project's status in relation to production scheduling is unclear—recommend clarifying whether Barbados S0-AD is entered into formal production tracking (e.g., S0 Production QC Website mentioned by Prendergast).
+
+**Owner/POC:** Alex Lomis (project owner); Sabu Best (customer contact, available for training week of May 5, 2025).

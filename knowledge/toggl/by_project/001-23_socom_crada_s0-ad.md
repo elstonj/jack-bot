@@ -1,45 +1,46 @@
+_Computed from Toggl as of 2026-10-23: 134.2 h total since 2020-01-01 — Jack Elston 73.8 h, Spencer Hoehl 37.2 h, Dan 23.2 h._
+
 # [001-23] SOCOM (CRADA) S0-AD — Time Tracking
 
 ## Overview
-- **Client:** Internal (CRADA)
+- **Client:** Internal CRADA (Cooperative Research and Development Agreement)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 116.5 hours
+- **Total Hours Tracked:** 134.2 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Jack Elston:** 73.8 hours (63.3% of total)
-- **Spencer Hoehl:** 37.2 hours (31.9% of total)
-- **Dan:** 5.5 hours (4.7% of total)
+| Team Member | Hours | Percentage |
+|---|---|---|
+| Jack Elston | 73.8 | 55% |
+| Spencer Hoehl | 37.2 | 28% |
+| Dan | 23.2 | 17% |
 
 **Primary Contributor:** Jack Elston
 
 ## Activity Timeline
 
-### Identifiable Work (by description):
-- **Demo operations:** Travel to Demo (24.5h + 9.5h), Demo preparations (8.5h), S0-AD SOCOM Demo Planning (0.5h) — *Total: 42.5 hours*
-- **System debugging:** Debugging GCS (4.3h + 2.5h), System and GCS debugging (7.5h) — *Total: 14.3 hours*
-- **Flight/field operations:** Flight operations (6.2h), Refurbishment, Data Processing, Flight Planning (7.0h)
-- **Development:** Launch mode updates (3.2h)
-- **Unspecified work:** Spencer Hoehl (37.2 hours with no descriptions), Dan (5.5 hours with no descriptions)
+### Recent Work Entries (Last 27 tracked sessions)
+Most recent work shows a clear focus on **demo preparation and execution:**
 
-### Work Pattern:
-- Significant demo-related activity (Jack: 42.5 hours)
-- Substantial debugging and system work
-- Spencer's entries largely lack descriptions, suggesting routine development or maintenance tasks
-- Dan's involvement increased from 2.0 to 5.5 hours (recent +3.5h with no description)
-- Recent activity focused on demo preparation and execution
+- **Travel to Demo:** 33.0 hours total (Jack Elston) — two separate trips
+- **Demo-related work:** 
+  - Demo Planning (0.5h, Jack Elston)
+  - Demo Preparations (8.5h, Jack Elston)
+  - System and GCS Debugging (7.5h, Jack Elston)
+- **Technical debugging:** 
+  - Debugging GCS (6.8h total, Jack Elston)
+- **Flight Operations:** 
+  - Flight operations (6.2h, Jack Elston)
+  - Refurbishment, Data Processing, Flight Planning (7.0h, Jack Elston)
+- **System Updates:**
+  - Launch mode updates (3.2h, Jack Elston)
+
+**Note:** 46 hours (34% of recent entries) lack descriptions, primarily logged by Spencer Hoehl and Dan.
 
 ## Insights
 
-### Work Categories:
-1. **Demo delivery** — Major effort component with travel and on-site preparation (42.5 hours from Jack alone)
-2. **Ground Control System (GCS) debugging** — Ongoing technical issue resolution
-3. **Flight operations and system maintenance** — Field testing and equipment refurbishment
-4. **Development** — Limited coding activity captured (launch mode updates)
-
-### Notable Patterns:
-- Jack carries the operational load, particularly for travel and demo activities
-- Spencer's work lacks documentation (33% of tracked time has no description) — may indicate routine tasks or time tracking gaps
-- Dan's involvement expanding (now ~5% of total); recent work undocumented
-- CRADA project appears active with demo-stage operations underway
-- Documentation gap increasing with Dan's expanded participation
+- **Project Phase:** Currently in active demonstration and field operations mode, with significant travel and hands-on system work
+- **Work Distribution:** Jack Elston dominates the project (55% of hours), handling technical debugging, demo preparation, travel, and flight operations
+- **Documentation Gap:** Nearly one-third of logged time lacks task descriptions, concentrated among Spencer Hoehl (23 undescribed hours) and Dan (16.7 undescribed hours)
+- **Key Domains:** GCS (Ground Control System) debugging, launch mode operations, flight planning, and system refurbishment
+- **Recent Pattern:** Shift from development/debugging toward operational/demonstration activities

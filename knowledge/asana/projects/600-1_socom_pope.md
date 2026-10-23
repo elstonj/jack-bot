@@ -1,88 +1,79 @@
+_Asana snapshot as of 2026-10-23: 60 open tasks, 2 completed (last 365 days)._
+
 # [600-1] SOCOM Pope
 
 ## Overview
+
 - **Client/Customer:** SOCOM
-- **Project Owner:** Dan Prendergast
-- **Timeline:** Multi-phase delivery spanning October 2026 – April 2027
-  - CLIN 1 (PCLT baseline): Due Nov 20, 2026
-  - CLIN 2 (METAR): Due Jan 31, 2027
-  - CLIN 4 (EO/IR R&R): Due Mar 26, 2027
-  - CLIN 5 (EO/IR Real-time ATR): Due Apr 30, 2027
-- **Status:** Active – prototype build and requirements phase underway. **Schedule has shifted:** per Dan Prendergast (2026-10-08), prototype completion and site visit now expected week of Oct 19 (not Oct 8–9).
-- **Team Members:** Dan Prendergast (lead), Josh Fromm, Ethan Domagala, Alex Lomis, Ben Busby; one mechanical/electrical task unassigned
-- **Risk Signals:** 
-  - Three duplicate "Write requirements and top-level design" tasks for Dan (due 2026-10-19, 2026-10-28, 2027-01-04) — likely represents a single rolling requirements activity across CLINs, needs consolidation
-  - One unassigned mechanical/electrical integration task (Due 2027-01-26)
-  - Tight sequencing: prototype build → site visit → design refinements
+- **Owner:** Dan Prendergast
+- **Timeline:** Active development; CLIN 1 milestone due 2026-12-15; final CLIN 6 milestone due 2027-05-31
+- **Status:** **ACTIVE** — Early-stage prototype development underway. Per Daniel Prendergast (2026-10-08), top-level requirements from five CONOPS will be complete early week of Oct 14; end cap CAD and accelerometer expected to arrive late week of Oct 13 or week of Oct 19.
+- **Team Members:** Dan Prendergast (PM, lead), Josh Fromm (mechanical/design), Ethan Domagala (build/test), Alex Lomis (datalink/comms), Ben Busby (software/UI), Maciej Stachura (sensors/software)
+- **Risk Signals:** Multiple imminent deadlines (Oct 19–27) for requirements, first site visit, and EO/IR camera selection; schedule is front-loaded and dependent on accelerometer/end cap arrival.
 
 ## Key Deliverables & Milestones
 
-### CLIN 1: PCLT Baseline Prototype
-1. **Build prototype PCLT S0 with accelerometer** — Ethan Domagala — Due 2026-10-20
-   - Accelerometer ordered (per 2026-10-08 feedback); expected delivery late Oct or week of Oct 19
-2. **SOCOM site visit and instrumented S0 launch** — Josh Fromm — Due 2026-10-27
-3. **Design refinement for launch survival (limited scope)** — Josh Fromm — Due 2026-11-03
-4. **CLIN 1 closeout slides/report** — Dan Prendergast — Due 2026-11-20
+**CLIN 1 (Pope – EO/IR R&R)**  
+- Due: 2026-12-15  
+- Deliverables: prototype S0 with accelerometer, instrumented launch, design refinement, CAD for Rev B, closeout report
 
-### CLIN 2: METAR Variant
-1. **Build prototype S0 METAR** — Ethan Domagala — Due 2026-12-22
-2. **Bench, ground, and local flight testing** — Ethan Domagala — Due 2027-01-09
-3. **Operational flight evaluation** — Dan Prendergast — Due 2027-01-26
-4. **CLIN 2 closeout slides/report** — Dan Prendergast — Due 2027-01-31
+**CLIN 2 (METAR)**  
+- Due: 2027-02-26  
+- Deliverables: prototype S0 with precipitation/cloud/visibility sensors, bench & flight testing, closeout report
 
-### CLIN 4: EO/IR Reconnaissance & Reporting
-1. **EO/IR camera selection and purchase** — Dan Prendergast — Due 2026-10-28
-2. **Build prototype S0 EO/IR R&R** — Ethan Domagala — Due 2027-01-28
-3. **Bench, ground, and local flight test** — Ethan Domagala — Due 2027-02-19
-4. **Operational flight evaluation** — Dan Prendergast — Due 2027-03-22
-5. **CLIN 4 closeout slides/report** — Dan Prendergast — Due 2027-03-26
+**CLIN 3 (Auto-METAR)**  
+- Due: 2027-03-26  
+- Deliverables: enhanced METAR with automatic reporting, operational evaluation, closeout report
 
-### CLIN 5: EO/IR Real-time ATR
-1. **ATR selection and integration** — Dan Prendergast — Due 2027-01-19
-   - Notes: Model classification status, training datasets, validation, labels to be determined
-2. **Build prototype S0 EO/IR Real-time ATR variant** — Ethan Domagala — Due 2027-04-02
-3. **Bench, ground, and local flight test** — Ethan Domagala — Due 2027-04-19
-4. **Operational flight evaluation** — Dan Prendergast — Due 2027-04-24
-5. **CLIN 5 closeout slides/report** — Dan Prendergast — Due 2027-04-30
+**CLIN 4 (EO/IR R&R – Storage)**  
+- Due: 2027-04-30  
+- Deliverables: prototype with camera/storage, datalink, operational flight evaluation, closeout report
 
-### Cross-Cutting Work
-- **Datalink and comm protocol modifications** (CLIN 1) — Alex Lomis — Due 2026-11-24
-- **Datalink and comm protocol development** (CLIN 2) — Alex Lomis — Due 2026-12-17
-- **Datalink radio selection and comm protocol development** (CLIN 5) — Alex Lomis — Due 2027-01-20
-- **Software and UI updates for image capture button and display** (CLIN 1) — Ben Busby — Due 2026-12-03
-- **Software and UI updates** (CLIN 2) — Ben Busby — Due 2027-01-22
+**CLIN 5 (EO/IR Real-time ATR)**  
+- Due: 2027-05-14  
+- Deliverables: prototype with edge compute & ATR models, full integration, closeout report
+
+**CLIN 6 (EO/IR FMV – Gimballed)**  
+- Due: 2027-05-31  
+- Deliverables: gimballed camera, full-motion video UI, no-comm transit mode, closeout report
 
 ## Task Summary
-- **Total tasks:** 34 open, 1 completed
-- **Completion rate:** ~3% (1 of 35)
-- **Recently completed:** Design and order prototype PCLT end cap (Josh Fromm, due 2026-10-02, completed 2026-10-15) — end cap CAD completed and sent out for quote
 
-### By Assignee (Open Tasks)
-| Assignee | Count | Key Responsibilities |
-|----------|-------|---------------------|
-| Dan Prendergast | 11 | Requirements, design, camera/ATR selection, operational evaluation, closeout reports |
-| Josh Fromm | 5 | Mechanical design, refinement, site visit, integration |
-| Ethan Domagala | 6 | Prototype builds (PCLT, METAR, EO/IR variants) and flight testing across all CLINs |
-| Alex Lomis | 3 | Datalink and comm protocol work across CLINs 1, 2, 5 |
-| Ben Busby | 2 | Software and UI updates (CLINs 1, 2) |
-| Unassigned | 1 | Mechanical and electrical integration design (Due 2027-01-26) |
+- **Total Tasks:** 60 open, 2 completed (97% open)
+- **Completion Rate:** ~3% (only kickoff and end cap design completed)
+- **Tasks by Assignee:**
+  - **Dan Prendergast:** 13 tasks (requirements, camera selection, reviews, evaluations, closeout reports)
+  - **Ethan Domagala:** 11 tasks (prototype builds & testing across all CLINs)
+  - **Josh Fromm:** 8 tasks (mechanical design, integration, design refinement)
+  - **Ben Busby:** 6 tasks (UI/software across EO/IR, METAR, ATR, FMV variants)
+  - **Maciej Stachura:** 4 tasks (sensor trade studies, software development)
+  - **Alex Lomis:** 4 tasks (datalink & comms protocols across variants)
+  - **Unassigned:** 2 milestone tasks (CLIN 1 & 4 milestones)
+
+- **Key Pattern:** Project structured in six CLINs, each with write requirements → design/selection → build prototype → test → closeout. Heavy parallelization across sensor/camera variants; Ethan Domagala is build/test bottleneck.
 
 ## Recent Activity
-**2026-10-08** – Dan Prendergast status update (correcting earlier Oct 8–9 timeline):
-- Top-level requirements being derived from five CONOPS described in ROMs; **completion expected early next week** (i.e., week of Oct 14)
-- Josh Fromm completing end cap CAD **today** and sending for quote
-- Accelerometer ordered (to measure ejection force profile)
-- **End cap and accelerometer expected late next week or week of Oct 19**
-- First test fire to be arranged after parts arrive
 
-**2026-10-15** – End cap design task marked complete; Josh Fromm sent quote request
+**Completed (Oct 1–15):**
+- Kickoff (Oct 1)
+- End cap CAD and order (Oct 15, originally due Oct 2)
+
+**Imminent (Next 2 weeks):**
+- Write requirements and top-level design – **due Oct 19** (Dan Prendergast)
+- Build prototype PCLT S0 with accelerometer – **due Oct 20** (Ethan Domagala)
+- SOCOM site visit and instrumented S0 launch – **due Oct 27** (Josh Fromm)
+- EO/IR camera selection and purchase – **due Oct 28** (Dan Prendergast)
+
+**On-Track Inputs (per Daniel Prendergast, Oct 7–8):**
+- Top-level requirements being derived from five CONOPS in ROMs; completion expected early week of Oct 14
+- End cap CAD completed by Josh; sent for quote
+- Accelerometer ordered; expected arrival late week of Oct 13 or early week of Oct 19
+- First test fire planned after components arrive
 
 ## Notes & Context
-- **Schedule Shift (AUTHORITATIVE):** The original knowledge file indicated Oct 8–9 for prototype build and site visit. Per Dan Prendergast's 2026-10-08 feedback, these milestones have shifted to the week of Oct 19 and beyond. Asana due dates (2026-10-20 for build, 2026-10-27 for site visit) now reflect this revised timeline.
-- **Duplicate Requirements Tasks:** Three tasks all titled "Write requirements and top-level design" (or similar) appear for Dan Prendergast with different due dates (2026-10-19, 2026-10-28, 2027-01-04). These likely represent requirements-writing activities for CLINs 1, 4, and 5 respectively, but should be clarified or renamed for clarity.
-- **Unassigned Work:** Mechanical and electrical integration design (Due 2027-01-26) is not yet assigned; may block downstream integration work.
-- **Site Visit Open Questions:** Josh Fromm's task notes flag:
-  - Can PCLT tube be loaded inflight, or must loading occur on ground?
-  - Is power switch accessible when inside aircraft?
-  - These will be addressed during the SOCOM site visit (due 2026-10-27).
-- **Component Delivery Critical Path:** Prototype builds depend on end cap and accelerometer arrival (expected week of Oct 19). This drives the CLIN 1 timeline and cascades to subsequent CL
+
+- **Variant Strategy:** Project includes six CLIN variants building on core Pope platform: METAR sensors, Auto-METAR, EO/IR with recording, EO/IR with real-time ATR, and EO/IR with full-motion video gimbal. Each variant follows same spiral pattern (requirements → design → build → test → closeout).
+- **Technology Decisions Pending:** EO/IR camera selection (storage vs. real-time compute requirements), ATR model provenance (unclassified datasets confirmed for one variant), gimballed camera trade study, datalink protocol across variants.
+- **Test Site Dependency:** SOCOM site visit (Oct 27) is critical path; questions in task notes indicate uncertainty about inflight tube loading and power accessibility—answers will drive design refinement.
+- **Supply Chain Risk:** End cap and accelerometer arrival late Oct or mid-Oct 19 week; any delay cascades to prototype build (due Oct 20) and site visit (due Oct 27).
+- **Team Capacity Risk:** Ethan Domagala has 11 prototype builds across 6 CLINs; Josh Fromm responsible for mechanical integration across all variants. Schedule assumes parallel execution, which may be at risk if build or integration work slips.

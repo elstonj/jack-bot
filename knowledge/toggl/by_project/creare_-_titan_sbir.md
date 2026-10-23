@@ -1,24 +1,21 @@
+_Computed from Toggl as of 2026-10-23: 0.8 h total since 2020-01-01 — Jack Elston 0.8 h._
+
 # Creare - Titan SBIR — Time Tracking
 
 ## Overview
-- Client: Creare
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 0.8 hours
+- **Client:** Creare
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 0.8 hours
 
 ## Team Allocation
-- Jack Elston: 0.8 hours (100% of project time)
-- Primary contributor: Jack Elston (sole contributor)
+- **Jack Elston:** 0.8 hours (100% of tracked time)
 
 ## Activity Timeline
-- All entries from Jack Elston with no descriptions provided
-- One entry logged 0.8 hours of work
-- One entry logged 0.0 hours (likely a timing correction or placeholder)
-- No clear timeline available due to lack of timestamps in provided data
+Minimal tracking data available. Single contributor with very limited logged time on this project.
 
 ## Insights
-- Minimal project engagement with less than 1 hour total
-- SBIR (Small Business Innovation Research) project suggesting research/development focus
-- No descriptive entries make it difficult to determine specific work activities
-- Project appears to be in early stages or concluded quickly given inactive status
-- Single contributor suggests either limited scope or early-phase work
+- This project has negligible time tracking data, suggesting either minimal active work or incomplete time logging
+- All tracked effort attributable to one team member (Jack Elston)
+- No recent activity indicators available from the provided data
+- Given inactive status and minimal hours, this appears to be a dormant or completed project with sparse documentation

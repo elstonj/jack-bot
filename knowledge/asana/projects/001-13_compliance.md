@@ -1,4 +1,5 @@
 # [001-13] Compliance
 
-Small project with 1 tasks.
-- [Done] Apply for aeropod license — Meredith O'hara Needham
+_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+
+No open tasks and none completed in this window.

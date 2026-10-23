@@ -4,24 +4,22 @@
     "(005-1) Barbados Meteorological Services"
   ],
   "period": {
-    "start": "2025-04-22",
-    "end": "2026-04-22"
+    "start": "2024-10-23",
+    "end": "2026-10-23"
   },
   "totals": {
     "revenue": 0.0,
     "expenses": 7309.76,
     "by_category": {
-      "Indirect Cost:Travel Expenses:Lodging (deleted)": 2336.75,
-      "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)": 1585.36,
-      "Indirect Cost:Travel Expenses:Airfare (deleted)": 1497.77,
-      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)": 689.38,
+      "Indirect Cost:Travel Expenses:Lodging": 2336.75,
+      "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 1789.28,
+      "Indirect Cost:Travel Expenses:Airfare": 1497.77,
+      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 689.38,
       "OVERHEAD:OH-Other Travel Expenses": 506.62,
-      "Inventory Asset": 221.68,
-      "DIRECT COSTS:DC-Direct Cost Purchases": 219.9,
-      "Indirect Cost:Travel Expenses:Away Meals (deleted)": 165.04,
-      "Indirect Cost:TaxesX (deleted)": 34.47,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 32.9,
-      "Sales Tax Payable": 19.89
+      "DIRECT COSTS:DC-Direct Material Purchases": 239.79,
+      "Indirect Cost:Travel Expenses:Away Meals": 165.04,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 47.67,
+      "Indirect Cost:TaxesX": 37.46
     }
   },
   "invoices": [],
@@ -40,47 +38,47 @@
       "lines": [
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 658.0,
-          "account": "Inventory Asset",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Meerkat Operating System x 1"
         },
         {
           "amount": 258.0,
-          "account": "Inventory Asset",
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "MX Master 35 Wireless Mouse x 2"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Barbados)"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Embry Riddle)"
         },
         {
           "amount": 37.46,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (Oklahoma)"
         },
         {
           "amount": 37.47,
-          "account": "Indirect Cost:TaxesX (deleted)",
+          "account": "Indirect Cost:TaxesX",
           "description": "Sales Tax (commercial - geneal)"
         },
         {
@@ -100,8 +98,8 @@
         },
         {
           "amount": 47.69,
-          "account": "Inventory Asset",
-          "description": "Shipping (commercial - general)"
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping (CU Boulder)"
         }
       ]
     },
@@ -154,7 +152,7 @@
       "lines": [
         {
           "amount": 2173.13,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "BARBADOS HILTON - 4699"
         }
       ]
@@ -190,7 +188,7 @@
       "lines": [
         {
           "amount": 48.74,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "SOL AIRPORT - 4699"
         }
       ]
@@ -208,7 +206,7 @@
       "lines": [
         {
           "amount": 45.79,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "HERTZ CAR RENTAL - 4699"
         }
       ]
@@ -244,7 +242,7 @@
       "lines": [
         {
           "amount": 16.66,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -262,7 +260,7 @@
       "lines": [
         {
           "amount": 14.07,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "Barbados Trip"
         }
       ]
@@ -280,7 +278,7 @@
       "lines": [
         {
           "amount": 5.0,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "UBER *TRIP - 4699"
         }
       ]
@@ -298,7 +296,7 @@
       "lines": [
         {
           "amount": 22.61,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "Barbados Trip"
         }
       ]
@@ -316,7 +314,7 @@
       "lines": [
         {
           "amount": 10.9,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -334,7 +332,7 @@
       "lines": [
         {
           "amount": 7.69,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -352,7 +350,7 @@
       "lines": [
         {
           "amount": 3.02,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "Barbados Trip"
         }
       ]
@@ -370,7 +368,7 @@
       "lines": [
         {
           "amount": 288.76,
-          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Airfare",
           "description": "UNITEDXXXXXXXXXXXXXX - 7333"
         }
       ]
@@ -388,7 +386,7 @@
       "lines": [
         {
           "amount": 320.01,
-          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Airfare",
           "description": "UNITEDXXXXXXXXXXXXXX - 4699"
         }
       ]
@@ -406,7 +404,7 @@
       "lines": [
         {
           "amount": 127.09,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -424,7 +422,7 @@
       "lines": [
         {
           "amount": 12.56,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "Barbados Trip"
         }
       ]
@@ -442,7 +440,7 @@
       "lines": [
         {
           "amount": 8.97,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -478,7 +476,7 @@
       "lines": [
         {
           "amount": 49.8,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "Barbados Trip"
         }
       ]
@@ -496,7 +494,7 @@
       "lines": [
         {
           "amount": 16.83,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "PY *PEETS COFFEE D51 - 4699"
         }
       ]
@@ -514,7 +512,7 @@
       "lines": [
         {
           "amount": 13.55,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "ORLANDO AIRP QDOBA - 4699"
         }
       ]
@@ -532,7 +530,7 @@
       "lines": [
         {
           "amount": 8.97,
-          "account": "Indirect Cost:Travel Expenses:Lodging (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Lodging",
           "description": "HILTON BARBA >ST MICHAE - 4699"
         }
       ]
@@ -550,7 +548,7 @@
       "lines": [
         {
           "amount": 486.26,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "GO RENT-A-CAR - 4699"
         }
       ]
@@ -568,7 +566,7 @@
       "lines": [
         {
           "amount": 103.59,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "ENTERPRISE RENT-A-CAR - 4699"
         }
       ]
@@ -604,7 +602,7 @@
       "lines": [
         {
           "amount": 15.94,
-          "account": "Indirect Cost:Travel Expenses:Away Meals (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Away Meals",
           "description": "PAR*ZAZA CUBAN COMFORT FO - 4699"
         }
       ]
@@ -622,32 +620,32 @@
       "lines": [
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
         },
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3.0 Cable Compatible x 2"
         },
         {
           "amount": 255.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
         },
         {
           "amount": 255.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid Connect Adapter x 10"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "promotion"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "promotion"
         }
       ]
@@ -664,64 +662,49 @@
       "memo": "Alex Lomis provided breakdown of purchases on 07/01/25",
       "lines": [
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
         },
         {
-          "amount": 109.95,
-          "account": "DIRECT COSTS:DC-Direct Cost Purchases",
+          "amount": 119.9,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Oben AC-1441 4-Section Aluminum Tripod"
-        },
-        {
-          "amount": 19.89,
-          "account": "Sales Tax Payable",
-          "description": "Tax: Barbados"
-        },
-        {
-          "amount": 39.78,
-          "account": "Sales Tax Payable",
-          "description": "Tax: ERAU"
-        },
-        {
-          "amount": 29.83,
-          "account": "Sales Tax Payable",
-          "description": "Tax: Unmanned"
         }
       ]
     },
@@ -738,32 +721,32 @@
       "lines": [
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB x 2"
         },
         {
           "amount": 12.98,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB x 2"
         },
         {
           "amount": 230.08,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid x 9"
         },
         {
           "amount": 230.09,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid x 9"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "discount"
         },
         {
           "amount": -0.65,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "discount"
         }
       ]
@@ -781,32 +764,32 @@
       "lines": [
         {
           "amount": 6.49,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3"
         },
         {
           "amount": 6.49,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "10mm Extended Tip USB-C to USB 3"
         },
         {
           "amount": 588.84,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
         },
         {
           "amount": 588.84,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "SAMSUNG Galaxy Tab Active5 5G x 3"
         },
         {
           "amount": 25.56,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid"
         },
         {
           "amount": 25.57,
-          "account": "Cost of Goods Sold:Direct Cost:Other Direct CostsX (deleted)",
+          "account": "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)",
           "description": "Manfrotto RC2 Compact Rapid"
         }
       ]
@@ -824,7 +807,7 @@
       "lines": [
         {
           "amount": 889.0,
-          "account": "Indirect Cost:Travel Expenses:Airfare (deleted)",
+          "account": "Indirect Cost:Travel Expenses:Airfare",
           "description": "ONLINE TRANSFER TO ELSTON J REF #IB0SHLSYMF EVERYDAY CHECKING AIRLINE TICKETS FOR BARBADOS"
         }
       ]

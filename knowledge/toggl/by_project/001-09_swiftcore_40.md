@@ -1,30 +1,34 @@
+_Computed from Toggl as of 2026-10-23: 516.5 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 0.5 h._
+
 # [001-09] SwiftCore 4.0 — Time Tracking
 
 ## Overview
-- Client: [001] IRAD
-- Active/inactive status: Active
-- Billable status: No
-- Total hours tracked: 117.7 hours
+- **Client:** [001] IRAD
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 516.5 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- Ben Busby: 94.0 hours (79.8%)
-- Ethan Domagala: 21.2 hours (18.0%)
-- Dan: 2.0 hours (1.7%)
-- Stachura: 0.5 hours (0.4%)
-- Primary contributor: Ben Busby
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Ben Busby | 475.0 | 92.0% |
+| Ethan Domagala | 28.8 | 5.6% |
+| Dan | 12.2 | 2.4% |
+| Stachura | 0.5 | 0.1% |
+
+**Primary Contributor:** Ben Busby (475.0 hours)
 
 ## Activity Timeline
-- Recent work entries: 6 new entries (23.2 hours) from Ethan Domagala and Dan — no descriptions provided
-  - Ethan Domagala: Four sessions (0.8h, 1.5h, 7.0h, 6.0h, 6.0h)
-  - Dan: One 2.0h session
-  - Latest activity: Recent entries from Ethan Domagala
-- Work patterns: Sustained development momentum continuing; mixed session lengths (0.8h–7.0h blocks); new team member engagement (Ethan Domagala now active on project)
+Recent work entries show activity concentrated among Ethan Domagala and Dan, though entry descriptions are not populated:
+
+- Ethan Domagala: 6.0h
+- Ethan Domagala: 7.0h
+- Dan: 2.0h
+- Ethan Domagala: 1.5h
+- Ethan Domagala: 0.8h
 
 ## Insights
-- Types of work being done: Unknown (no descriptions provided for any entries)
-- Notable patterns:
-  - Project growth: 94.5 → 117.7 hours (+23.2 hours this period; 24.6% significant increase)
-  - Team expansion: Ethan Domagala now active contributor (18.0% of total hours); Dan joining with minimal hours (1.7%)
-  - Ben Busby remains primary owner but relative contribution declining as team scales
-  - Internal R&D project (IRAD — non-billable)
-  - **Critical recommendation**: Implement mandatory descriptions on all time entries immediately — now essential with expanded team for tracking work types, deliverables, task ownership, and progress milestones; critical for project visibility, coordination, and resource planning
+- **Work Type:** Descriptions unavailable for recent entries; unable to determine specific work being performed
+- **Team Composition:** Heavily weighted toward Ben Busby's involvement; recent activity shows increased contribution from Ethan Domagala
+- **Pattern:** Recent entries (17.3 hours across 5 entries) suggest ongoing active development, though lack of documentation limits visibility into work scope
+- **Internal Project:** Non-billable IRAD (Internal Research & Development) classification indicates exploratory or foundational work

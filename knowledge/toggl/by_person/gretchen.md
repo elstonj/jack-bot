@@ -1,22 +1,23 @@
+_Computed from Toggl as of 2026-10-23: 35.5 h tracked since 2020-01-01._
+
 # Gretchen Fredrickson — Time Tracking
 
 ## Summary
-- Total hours tracked: 35.5 hours
-- Primary project: Corporate / Strategic Planning (93% of time)
-- Time period: Recent tracking period (exact dates not specified)
+- **Total hours tracked:** 35.5 hours
+- **Primary projects:** Corporate / Strategic Planning (Overhead)
+- **Time period covered:** Since 2020-01-01
 
 ## Project Breakdown
-- **[001-13] Corporate / Strategic Planning** (Overhead): 33.0 hours (93.0%)
-- **Project 160309352**: 2.5 hours (7.0%)
+
+| Project | Client | Hours | % of Total |
+|---------|--------|-------|-----------|
+| [001-13] Corporate / Strategic Planning | Overhead | 33.0 | 92.96% |
+| Project 160309352 | — | 2.5 | 7.04% |
 
 ## Recent Activity
-- Almost exclusively focused on Corporate / Strategic Planning work
-- All recent entries lack detailed descriptions
-- One 2.5-hour entry logged without project assignment
-- Session lengths vary from 1.5 to 8.0 hours
+Limited visibility into recent work patterns due to minimal tracked data. The overwhelming majority of logged time (93%) is allocated to internal Corporate / Strategic Planning initiatives under Overhead.
 
 ## Patterns
-- **Primary Focus**: Strategic planning and corporate overhead activities represent overwhelming majority of work
-- **Documentation**: Minimal use of task descriptions across all entries
-- **Work Distribution**: Heavy concentration on a single strategic project with minimal time on other initiatives
-- **Session Variability**: Work sessions range from short (1.5h) to full-day blocks (8h)
+- Strong focus on internal corporate and strategic planning work
+- Minimal external project engagement (7% of tracked time)
+- Sparse tracking history suggests either limited project-based work or incomplete time logging

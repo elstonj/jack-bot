@@ -1,42 +1,34 @@
+_Computed from Toggl as of 2026-10-23: 982.3 h total since 2020-01-01 — Dan 573.8 h, Ethan Domagala 190.5 h, Stachura 92.3 h, Jack Elston 73.8 h, Nate 21.8 h, Alex 11.1 h, Sriraj 8.7 h, Karen Young 6.7 h, Josh Fromm 2.4 h, Beck Cotter 1.2 h._
+
 # [400-5] SBIR - SMM DoD 22.4D Phase II — Time Tracking
 
 ## Overview
 - **Client:** Department of the Air Force
 - **Status:** Inactive
 - **Billable:** No
-- **Total hours tracked:** 252.3 hours
+- **Total Hours Tracked:** 982.3 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Dan:** 109.2 hours (43.3% - Primary contributor)
-- **Jack Elston:** 78.5 hours (31.1%)
-- **Stachura:** 42.6 hours (16.9%)
-- **Sriraj:** 12.9 hours (5.1%)
-- **Karen Young:** 6.7 hours (2.7%)
-- **Josh Fromm:** 2.4 hours (1.0%)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Dan | 573.8 | 58.4% |
+| Ethan Domagala | 190.5 | 19.4% |
+| Stachura | 92.3 | 9.4% |
+| Jack Elston | 73.8 | 7.5% |
+| Nate | 21.8 | 2.2% |
+| Alex | 11.1 | 1.1% |
+| Sriraj | 8.7 | 0.9% |
+| Karen Young | 6.7 | 0.7% |
+| Josh Fromm | 2.4 | 0.2% |
+| Beck Cotter | 1.2 | 0.1% |
+
+**Primary Contributor:** Dan (58.4% of total effort)
 
 ## Activity Timeline
-Recent work entries show activity focused on:
-- **Technical development:** Jack Elston led UAS modifications, NDVI sensor testing and validation
-- **Project management:** Stachura handled kickoff meetings, requirements documentation, milestone reports
-- **Administrative:** Karen Young managed subcontracts and attended AFWERX webinars
-- **Research:** Sriraj focused on document review and research
-- **Development work:** Dan contributed significant hours (many entries without descriptions)
-
-Key recent activities include soil moisture meetings, test plan development, and UAS system validation work.
+No recent work entries provided in source data. Project is marked inactive.
 
 ## Insights
-**Types of work identified:**
-- UAS hardware development and testing (NDVI sensors, auxiliary systems)
-- Soil moisture monitoring system development
-- Requirements analysis and documentation
-- Flight testing and sensor validation
-- Project meetings and coordination
-- Subcontract management
-- Research and document review
-
-**Notable patterns:**
-- High volume of entries without descriptions (particularly from Dan - 67% of his entries)
-- Jack Elston focused heavily on technical implementation (UAS modifications, sensor testing)
-- Stachura managed project coordination and requirements
-- Work appears task-oriented with structured milestone approach
-- Strong emphasis on soil integrity measurement systems using UAS technology
+- **Concentration:** Work heavily concentrated on two team members (Dan and Ethan Domagala account for 77.8% of tracked hours)
+- **Project Scale:** 982 hours total suggests a substantial SBIR Phase II effort spanning multiple years
+- **Team Structure:** Core team of 4 contributors (Dan, Ethan, Stachura, Jack) accounts for 95.7% of effort; remaining 6 team members provided minimal/ancillary support
+- **Non-billable Status:** Despite DoD client and SBIR designation, hours were not tracked as billable

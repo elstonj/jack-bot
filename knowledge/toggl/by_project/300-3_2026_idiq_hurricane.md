@@ -1,96 +1,61 @@
+_Computed from Toggl as of 2026-10-23: 2457.0 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 434.0 h, Jack Elston 432.5 h, Stachura 351.4 h, Sam Hild 251.3 h, Alex 126.3 h, Ethan Domagala 119.8 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Ali Sulehria 53.1 h, Dan 12.8 h._
+
 # [300-3] 2026 IDIQ (Hurricane) — Time Tracking
 
 ## Overview
 - **Client:** NOAA [300]
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 1,270.8 hours (1,207.3h + 63.5h)
+- **Total Hours Tracked:** 2,457.0 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-- **Nate:** 385.0 hours (30.28%)
-- **Jack Elston:** 291.1 hours (22.91%) — *+5.0h*
-- **Stachura:** 250.8 hours (19.75%) — *+1.5h*
-- **Sam Hild:** 152.4 hours (12.00%) — *+31.2h*
-- **Spencer Hoehl:** 81.3 hours (6.40%)
-- **Ethan Domagala:** 59.7 hours (4.70%)
-- **Ali Sulehria:** 36.8 hours (2.90%) — *NEW*
-- **Josh Fromm:** 29.0 hours (2.28%)
-- **Kareem Ahmed:** 16.4 hours (1.29%)
-- **Alex:** 10.5 hours (0.83%)
-- **Primary contributor:** Nate
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Nate | 513.5 | 20.9% |
+| Josh Fromm | 434.0 | 17.7% |
+| Jack Elston | 432.5 | 17.6% |
+| Stachura | 351.4 | 14.3% |
+| Sam Hild | 251.3 | 10.2% |
+| Alex | 126.3 | 5.1% |
+| Ethan Domagala | 119.8 | 4.9% |
+| Kareem Ahmed | 83.6 | 3.4% |
+| Spencer Hoehl | 78.9 | 3.2% |
+| Ali Sulehria | 53.1 | 2.2% |
+| Dan | 12.8 | 0.5% |
+
+**Primary Contributors:** Nate, Josh Fromm, and Jack Elston (combined 56.2% of total effort)
 
 ## Activity Timeline
+Recent work (last 90 entries) shows active project engagement with multiple concurrent work streams:
 
-### Most Recent Work (Current Batch — 63.5h)
-**Ali Sulehria** (36.8h) — *NEW team member*:
-- Debugging AP core 2 p400 radio issues, setting up laptop w/ req'd tools (8.5h) — 1 entry
-- Undescribed (28.3h) — 4 entries
+**Mission & Flight Operations:**
+- Stachura: 14.8h "Hurricane Flight", 0.5h "Hurricane Flight" (field operations)
+- Jack Elston: 10.0h + 8.0h "Polo Mission", 7.3h "Debugging and aircraft setup"
+- Travel logistics: Stachura (14h, 11.8h, 11.1h, 8.2h), Jack Elston (8.0h)
 
-**Sam Hild** (23.2h):
-- Undescribed (23.2h) — 3 entries
+**S0 Development & Testing:**
+- Jack Elston: 4.0h "S0 Tracking", 1.0h "Simulator Setup", 1.2h "Debugging PSNS v05"
+- Ali Sulehria: 8.5h "Debugging AP core 2 p400 radio issues", 8.3h "S0 PSNS debugging/testing"
+- Ali Sulehria: 6.0h "S0 GPS board testing, onboarding"
 
-**Jack Elston** (2.5h):
-- S0 Build Updates and Decision Making (0.5h) — 1 entry
-- Frank at BST (2.0h) — 1 entry
+**Vehicle/Equipment Maintenance:**
+- Jack Elston: 3.0h + 3.0h "Vehicle Refurbishment"
+- Jack Elston: 5.8h "Debugging power off issue"
 
-**Stachura** (1.0h):
-- Undescribed (1.0h) — 2 entries
+**QC & Quality Assurance:**
+- Sam Hild: 4.4h "QC : Deployment Tubes", 1.3h "QC : Record Keeping"
 
-### Prior Notable Work
-- Mission Support (Jack Elston) — 6.8h
-- Hurricane Flight operations (Stachura primary) — 15.0h
-- Polo Mission (Jack Elston primary) — 10.0h
-- Travel support (Stachura primary) — 19.8h
-- Debugging power off issue (Jack Elston) — 5.8h
+**Planning & Coordination:**
+- Jack Elston: 0.8h "AL99 ET Planning meeting", 0.8h "Remaining ET Hours Planning"
+- Jack Elston: 0.5h "S0 Build Updates and Decision Making", 1.2h "Emerging Tech FY26 Hotwash"
+
+**Mission Support:**
+- Jack Elston: 4.0h + 2.8h + 1.5h + 2.5h "Mission Support"
 
 ## Insights
-
-### Work Types (Current Batch)
-- **Debugging AP core 2 p400 radio issues:** 8.5h (13.39%) — Ali Sulehria (1 session)
-- **S0 Build Updates and Decision Making:** 0.5h (0.79%) — Jack Elston (1 session)
-- **Frank at BST:** 2.0h (3.15%) — Jack Elston (1 session)
-- **Undescribed:** 52.5h (82.68%) — Ali Sulehria (28.3h), Sam Hild (23.2h), Stachura (1.0h)
-
-### Documentation Status
-
-**Current batch:** 11.0h documented / 63.5h submitted = **17.32% compliance**
-- **Jack Elston:** 2.5h described / 2.5h = **100%** (excellent)
-- **Ali Sulehria:** 8.5h described / 36.8h = **23.10%** (new contributor, needs improvement)
-- **Sam Hild:** 0h described / 23.2h = **0.00%** (regression — was at 83.41%)
-- **Stachura:** 0h described / 1.0h = **0.00%** (continued pattern)
-
-**Overall project:** 421.0h documented / 1,270.8h total = **33.12% documented**
-- *Decline from 33.96%* (-0.84 percentage points)
-
-**Undescribed backlog:** 849.8h (66.88% of project)
-- **Nate:** 385.0h undescribed (100.00%)
-- **Stachura:** 250.8h undescribed (100.00%) — *+1.0h*
-- **Spencer Hoehl:** 81.3h undescribed (100.00%)
-- **Josh Fromm:** 29.0h undescribed (100.00%)
-- **Ethan Domagala:** 59.7h undescribed (100.00%)
-- **Ali Sulehria:** 28.3h undescribed (76.90%) — *NEW*
-- **Sam Hild:** 129.2h undescribed (84.77%) — *+23.2h regression*
-- **Alex:** 10.5h undescribed (100.00%)
-- **Kareem Ahmed:** 16.4h undescribed (100.00%)
-- **Jack Elston:** 162.0h undescribed (55.67%) — *maintained*
-
-### Critical Patterns & Alerts
-
-**✓ Jack Elston Maintains Perfect Documentation:**
-- 2.5h fully described ("S0 Build Updates and Decision Making" + "Frank at BST")
-- Continues to set standard for project documentation
-
-**✗ Sam Hild Significant Regression (Alert):**
-- 23.2h completely undescribed — sharp reversal from prior 83.41% documented rate
-- Added 23.2h to undescribed backlog (now 84.77% of Sam's work)
-- *Recommend immediate follow-up on activity logging*
-
-**✗ Stachura Persistent Pattern (Alert):**
-- 1.0h completely undescribed (continued pattern)
-- Now 100% undescribed (250.8h total)
-- *Continued priority follow-up required*
-
-**⚠ Ali Sulehria New to Project:**
-- 36.8h new hours (first appearance in this batch)
-- 8.5h documented on critical technical work (AP core 2 p400 radio debugging)
-- 28.3h (76.90%) undescribed — needs orientation on documentation
+- **Work Type Distribution:** Majority of tracked work involves field operations (flight missions, travel), hardware debugging/testing (S0 systems, radios, GPS boards), and vehicle refurbishment
+- **Team Structure:** Three-tier structure with Nate/Fromm/Elston as leads (~21% each), mid-tier contributors (Stachura ~14%, Sam Hild ~10%), and specialist roles (Alex, Ethan, Ali focusing on technical development)
+- **Documentation Gap:** 68 of 90 recent entries lack descriptions—only 22 entries (24%) have detailed work descriptions
+- **Active Specialization:** Ali Sulehria shows emerging focus on S0 systems debugging; Sam Hild on QC operations; Jack Elston on mission leadership and hardware troubleshooting
+- **Operational Intensity:** Recent entries show high travel/field operation hours, consistent with hurricane monitoring mission profile
+- **Non-Billable Model:** Project captures internal R&D and government support work for NOAA hurricane research

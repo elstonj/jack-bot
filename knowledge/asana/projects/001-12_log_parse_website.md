@@ -1,60 +1,22 @@
-# [001-12] Log Parse Website
+_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+
+# Log Parse Website
+
+## Status
+**ARCHIVED** — Project appears to have been completed or deprioritized as of November 28, 2023. No open or completed tasks remain in the task list.
 
 ## Overview
-**STATUS: ARCHIVED** — Project successfully completed with all deliverables delivered. No active development work.
+- **Purpose**: Creation of a site for customers to upload and review flight data, track aircraft performance, and perform flight planning.
+- **Team**: Black Swift Technologies (whole team)
+- **Timeline**: Last status update November 28, 2023
+- **Current State**: No active tasks; project archived
 
-- Client/customer: External customers (flight data analysis service)
-- Dollar value: Not specified in available data
-- Timeline: Multi-year development through October 2025; final task completed 2025-10-21
-- Status: Archived — all development work completed
-- Team members: Ben Busby (primary developer), Maciej Stachura, Jack Elston, Daniel Prendergast (post-launch operations)
-- Risk signals: None — project successfully completed with no overdue items
-
-## Key Deliverables & Milestones
-- Customer-facing website for flight data upload and review
-- Aircraft performance tracking capabilities  
-- Flight planning functionality
-- Log parsing tools integration
-- Wind estimation pipeline
-- NetCDF data generation service (standalone)
-- Multi-platform support (including Multirotor aircraft)
-- PPK file download functionality
-- Email-based authentication and password recovery
-- Python 3 refactored codebase
-- Automated CI/CD deployment pipeline (Jenkins)
-- RDS user database with email-based authentication
+## Key Context
+This project involved building a customer-facing web platform for flight data analysis and aircraft performance tracking. Based on team feedback from October 2026, related production tracking infrastructure has evolved—the **S0 Production QC Website** (built by Jack) now serves as the primary dashboard for managing orders, quantities, and due dates. The Log Parse Website may have been superseded or incorporated into broader BST production tools.
 
 ## Task Summary
-- Total tasks: 0 open, 0 visible in current state
-- All development work completed successfully; project archive reflects completion of 18+ total tasks across full development lifecycle
-- **Ben Busby**: Primary contributor — final task (Create users db on RDS) completed 2025-10-21
+- **Total tasks**: 0 open, 0 completed (archived state)
+- No active assignments or recent activity
 
-## Recent Activity
-**Final development phase completed October 21, 2025:**
-- Email-based authentication system implemented (transitioned from usernames to emails)
-- Password recovery functionality added
-- RDS user database established (final task completed)
-- Python 3 refactoring finished
-- Automated Jenkins deployment pipeline configured for develop and master branches
-- Wind estimation integrated into full processing pipeline with NetCDF inclusion
-- Log-parse tools integrated as Git submodule with auto-deploy triggering
-
-**Post-completion operational enhancement request (July 2026):**
-Daniel Prendergast requested workflow enhancement to add a link to the Maintenance Action Form at the end of the log upload process in log-parse. Goal is to automate checklist discipline by prompting users to create Asana tasks for hardware issues and software bugs immediately after each flight upload. This enhancement is intended to improve field team operational workflows post-launch. **Status: Enhancement request in consideration; awaiting prioritization.**
-
-**October 2026 context (Daniel Prendergart & Jack Elston):**
-Post-launch infrastructure discussion noted the S0 Production QC Website (built by Jack Elston) as the primary tool for tracking S0-AD orders and the build process. The "Orders" tab provides a dashboard showing customer orders, quantities, and due dates with add-order functionality. Discussion explored potential to extend this dashboard for broader production tracking. Jack confirmed the order-tracking mechanism is already integrated into the QC website.
-
-## Notes & Context
-Comprehensive flight data analysis platform developed over multiple years:
-- **April 2024**: Expanded support for Multirotor aircraft types
-- **September 2024**: Implemented quick-parse mode and split NetCDF generation into standalone service
-- **October 2025**: Infrastructure modernization including Python 3 migration, email authentication, and CI/CD automation
-
-**Technical architecture:**
-- Jenkins for automated deployment (with notes exploring Kamal as alternative)
-- RDS for user database management
-- Python SDK + SWIG parsing for backend processing
-- Wind estimation pipeline integrated end-to-end with NetCDF generation
-
-Project represents successful delivery of a full-featured web application with robust data processing capabilities and modern DevOps practices serving external customers. Post-launch improvements focus on operational workflow automation for field teams.
+## Notes
+The project archive date (November 2023) predates current team operations (October 2026 feedback references). No overdue items or next steps are tracked in the current data. If this functionality is needed, reference may be made to the S0 Production QC Website for related order and performance tracking capabilities.

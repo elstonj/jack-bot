@@ -1,74 +1,33 @@
-# [1331] S2 CRATER (Costa Rica)
+_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+
+# S2 CRATER (Costa Rica)
 
 ## Overview
-- **Client:** NASA (Richard Kolyer, NASA Ames Research Center)
-- **Budget:** $80,972 total; $80,972 to BST (supersedes earlier $55,976 split note — in-country contractor costs absorbed or reclassified)
-- **Timeline:** Proposal due 1/27/25 → Field operations May 11-22, 2025 → Final deliverables due 9/30/25
-- **Status:** **COMPLETE & ARCHIVED** (all deliverables submitted; project archived Oct 21, 2024)
-- **Team:** Jack Elston (PIC), Dan Prendergast (Operator), Maciej Stachura, Nate Straus, Meredith O'Hara Needham
-- **Primary Contact:** Richard Kolyer, r.kolyer@nasa.gov, (650) 604-5503
-- **Billing Contact:** PIEE
+- **Client:** NASA Ames Research Center (contact: Richard Kolyer, r.kolyer@nasa.gov, 650-604-5503)
+- **Budget:** $80,972 total to Black Swift Technologies
+- **Timeline:** Proposal due 2025-01-27; Project completion target 2025-09-30
+- **Status:** ARCHIVED / COMPLETE (marked complete Oct 21, 2024)
+- **Team:** Whole BST team; field travel assigned to Jack, Dan, and Maciej (May 11–22)
+- **Risk Signals:** None — project is archived and complete
 
-## Project Scope
-Provide continuous high-resolution infrared (IR) imagery and in-situ gas sampling over active volcanoes in Costa Rica using BST S2 aircraft platform. Government-funded research demonstration.
+## Project Description
+Provide continuous high-resolution IR imagery and in-situ gas sampling over active volcanoes in Costa Rica using the BST S2 platform. Original budget included $25,000 for in-country contractor work.
 
 ## Key Deliverables & Milestones
-| Deliverable | Owner | Due Date | Status |
-|---|---|---|---|
-| Proposal & Statement of Work | — | 1/27/25 | ✓ Submitted 1/22/25 |
-| Security Management Plan | Unassigned | 3/21/25 | ✓ 3/26/25 |
-| Kick-Off Meeting | Meredith O'Hara Needham | 3/21/25 | ✓ 3/26/25 |
-| Mission planning scripts & tools | Dan Prendergast | 5/8-5/9/25 | ✓ Completed 5/8-5/10 |
-| Field operations (Costa Rica) | Jack Elston, Dan Prendergast, Maciej Stachura | 5/11-5/22/25 | ✓ Complete |
-| Demonstration Report #1 | Jack Elston | 5/19/25 | ✓ 5/21/25 |
-| Final Report & NTSR | Jack Elston | 8/19/25 | ✓ 7/23/25 |
+- **2025-01-27:** Proposal and Statement of Work submitted to PROSAMS
+- **2025-05-11–05-22:** Field deployment to Costa Rica (Jack, Dan, Maciej)
+- **2025-09-30:** Project completion target
 
 ## Task Summary
-- **Total Tasks in Asana:** 1 administrative contact record (Richard Kolyer — no action required)
-- **Project Completion:** 100% — all deliverables delivered to NASA on time or early
-- **Key Contributors:**
-  - Jack Elston: PIC, Final Report, Demo Report #1 — 100% complete
-  - Dan Prendergast: Lead operator, mission planning — 100% complete
-  - Maciej Stachura: Software verification, field operations — 100% complete
-  - Nate Straus: Packing/logistics — 100% complete
-  - Meredith O'Hara Needham: Kick-off coordination — 100% complete
+- **Total tasks:** 1 open, 0 completed
+- **Open task:** NASA Ames contact record (Richard Kolyer) — unassigned, no due date
+- This appears to be a reference/contact card rather than active work
 
 ## Recent Activity
-- **Final Report & NTSR** completed 7/23/25 (27 days early) — submitted to NASA LaunchPad system
-- **Demonstration Report #1** completed 5/21/25 (2 days late, minor) — includes full flight data
-- **Field operations** executed 5/11-5/22/25 with three-person team (Jack, Dan, Maciej)
-- All pre-deployment tasks completed on schedule or ahead (mission planning scripts, checklists, briefing templates finalized by 5/10)
-- **Project archived Oct 21, 2024**
-
-## Business Development — NASA Follow-On Opportunity
-**Team context:** NASA RFI (Request for Information) shared for potential hurricane ET (environmental tracking) opportunity, recommended by NASA stakeholders and Joe for team review:
-https://sam.gov/workspace/contract/opp/d7e641e7fc4d4dfbbd2f5cd62f17758f/view
-
-*This represents potential follow-on work or new NASA opportunity; recommend internal BD review and response consideration.*
-
-## Active Team Qualification Audit (Oct 2026)
-**Spencer Hoehl initiated team-wide callout (10/1-10/2/26)** requesting documentation of:
-- FAA pilot qualifications (Part 107, Part 61, Part 141, etc.)
-- Security clearances
-- NOAA Hurricane training
-- COA training (and authorization scope)
-- Any other relevant qualifications for BST job functions
-
-**Quote:** "<!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have. Also, if there is documentation of those qualifications please try to find that and send it to me as well." — Spencer Hoehl, 10/1-10/2/26
-
-*Status: Audit in progress — responses being collected by Spencer Hoehl. Likely related to NASA hurricane ET follow-on opportunity or internal compliance review.*
+Project marked complete October 21, 2024. No recent task activity beyond the contact record.
 
 ## Notes & Context
-- **Platform:** S2 (vTOL aircraft)
-- **Aircraft deployed:** 1 unit
-- **Pilot in Command:** Jack Elston
-- **Operator:** Dan Prendergast
-- **Key deliverable:** NTSR (New Technology Summary Report) — indicates this was a technology demonstration for NASA
-- **No cost overruns or timeline slippages** — project well-executed with early final report submission (27 days ahead)
-- **Budget note:** Custom field shows $80,972 to BST (supersedes earlier knowledge file split of $55,976 + $25,000 in-country). Project notes mention $25K in-country contractor but total funding line is $80,972 to BST — clarify with finance if needed.
-- **Field operation dates:** Jack, Dan, Maciej traveled May 11-22, 2025
-- **Proposal submission:** 12/6/24 estimate emailed; formal SOW and Proposal submitted 1/22/25 to PROSAMS
-
----
-
-**Project Status:** Complete and archived as of Oct 21, 2024. All deliverables delivered to NASA on time or early. No open action items. One administrative contact record remains in Asana for reference only.
+- Updated estimate issued December 6, 2024
+- Proposal and Statement of Work submitted January 22, 2025 to PROSAMS
+- Project is archived; the single open task is administrative (contact information)
+- **Active qualification survey ongoing:** Spencer Hoehl issued a team-wide request (Oct 1–2, 2026) for documentation of FAA pilot qualifications (Part 107, 61, 141), security clearances, NOAA Hurricane training, and COA training — relevant for future volcano/hurricane operations

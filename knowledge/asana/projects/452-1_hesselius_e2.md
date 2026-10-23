@@ -1,39 +1,30 @@
+_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+
 # [452-1] Hesselius E2
 
 ## Overview
-- **Customer:** CU Boulder (University of Colorado Boulder)
-- **Primary Contact:** Daniel Hesselius (daniel.hesselius@colorado.edu, (303) 735-8112)
+- **Client:** CU Boulder (University of Colorado)
+- **Contact:** Daniel Hesselius (daniel.hesselius@colorado.edu)
 - **Dollar Value:** $15,000
-- **Timeline:** Due 2025-05-30 (Project completed 2025-06-04, status update 2025-06-04)
-- **Status:** **ARCHIVED** — Project marked complete as of June 4, 2025
-- **Team Members:** Nate Straus, Maciej Stachura, Meredith O'Hara Needham, Beck Cotter
+- **Timeline:** Due 2025-05-30 (project marked complete 2025-06-04)
+- **Status:** **ARCHIVED & COMPLETE** (marked complete June 4, 2025)
+- **Team:** Beck Cotter (assignee), BST whole team
 - **Customer Type:** Commercial
 
 ## Key Details
-This was a discounted E2 procurement deal to clear existing inventory. One unit sold to CU Boulder.
+- **Product:** E2 (discounted procurement)
+- **Purpose:** Clearing existing inventory at a discount
+- **Priority:** Medium
 
 ## Task Summary
-- **Total Tasks:** 4 (3 completed, 1 open)
-- **Completion Rate:** 75%
+- **Total Tasks:** 1 open (no completed tasks logged)
+- **Assignee:** Beck Cotter
+- **Note:** Project is archived; the open task appears to be a contact record or administrative note for Daniel Hesselius rather than an active work item.
 
-| Assignee | Tasks | Status |
-|----------|-------|--------|
-| Maciej Stachura | 1 | Completed 2025-06-17 |
-| Meredith O'Hara Needham | 1 | Completed 2025-05-12 |
-| Nate Straus | 1 | Completed 2025-05-09 |
-| Beck Cotter | 1 | Open (no due date) |
-
-## Completed Work
-- **Procurement & Manufacturing** (Nate Straus, completed 2025-05-09): E2 unit pulled from existing inventory; training/travel flagged as needed (Maciej, May 5-7)
-- **Invoice Submission** (Meredith O'Hara Needham, completed 2025-05-12): Converted Estimate 1355 into invoice for PO1002129297; submitted on schedule
-- **Delivery/Installation** (Maciej Stachura, completed 2025-06-17): E2 delivered and installed; completed 7 days after due date (2025-06-10)
-
-## Open Item
-- **Contact Info Task** (Beck Cotter): Contact information record for Daniel Hesselius — no due date set, status unclear
+## Status
+This project was successfully completed and archived as of **June 4, 2025** — past the original due date of May 30, 2025. The minimal delay (5 days) suggests straightforward procurement execution. One administrative task remains open but appears to be reference data rather than outstanding work.
 
 ## Notes & Context
-- Project originated as a task in the main project (see linked task for additional details)
-- Inventory-clearing deal with discounted pricing
-- Training/travel included in scope (Maciej Stachura involved May 5-7)
-- Invoice submitted on time; final delivery slipped ~1 week
-- One task remains open with no due date (administrative contact record)
+- This project originated as a task in the main project list before being converted to a standalone project
+- The E2 purchase was a strategic inventory clearance at a discount
+- Background/original task reference: https://app.asana.com/1/12804948716594/project/1207623369254374/task/1210024998193065

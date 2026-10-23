@@ -1,53 +1,50 @@
+_Asana snapshot as of 2026-10-23: 11 open tasks, 5 completed (last 365 days)._
+
 # Paige Smith's Previously Assigned Tasks
 
 ## Overview
-- **Client/Customer:** Internal BST operations and marketing (Google Analytics, website, marketing strategy, industry events)
-- **Dollar Value:** Not specified in task data
-- **Timeline:** Tasks span from April 2026 through August 2026
-- **Status:** **Inactive — reassignment holding area with stale deadlines.** All 11 open tasks remain unassigned. Multiple tasks are significantly overdue (April–June 2026 deadlines passed; project update is from October 2026). Project was automatically created when Paige Smith was removed from the organization.
-- **Team Members:** Originally assigned to Paige Smith (departed); owned by Jack Elston
-- **Risk Signals:** 
-  - All tasks overdue by months; no recent activity or reassignment action
-  - Incomplete task documentation (e.g., "1:30pm geoff", "Aeropods 11am" lack context)
-  - Two tasks lack due dates entirely
-  - **Communication/transparency gap flagged (2026-08-25):** Joshua Fromm raised concerns about task visibility and external communication tracking in Asana, suggesting context gaps
+- **Context**: This is a task reassignment project created when Paige Smith was removed from blackswifttech.com
+- **Status**: **INACTIVE** — Paige departed the company after accepting an offer from a competitor (per Cory Dixon, 2026-10-05)
+- **Owner**: Jack Elston
+- **Team**: BST (Whole Team)
+- **Risk**: 11 open, unassigned tasks with no clear reassignment or closure
 
-## Context: Paige Smith Departure
-**Per team feedback (Cory Dixon, 2026-10-05):** Paige Smith was a candidate for the Technical Program Management role who accepted an offer from another company. She did not provide BST an opportunity to counter-offer. **This is a role candidate transition, not a current team member reassignment.** The "Paige Smith's Previously Assigned Tasks" project appears to be a misnamed holding area — these are operational tasks that belonged to workflow processes, not tasks created specifically for Paige.
+## Key Context: Departure
 
-Jack Elston has acknowledged the departure with team reactions (2026-10-02 and 2026-10-05).
+**As of 2026-10-05** (Cory Dixon):
+> "Unfortunately Paige, the candidate for the Technical Program Management role, took an offer from another company. She did not give us a chance to counter or make a competitive offer. We will continue moving forward on candidate interviews for this position."
 
-## Key Deliverables & Milestones
-- **Google Analytics reporting** (monthly, due 2026-06-25) — key takeaways on performance improvements and underperforming areas
-- **Email list enhancement** (due 2026-04-21) — content conversion and subscriber growth
-- **Google Ads review** (due 2026-04-28) — specialist consultation
-- **Geoweek submission** (due 2026-07-17) — industry event
-- **Google tags implementation** (due 2026-07-31) — tracking setup
-- **Marketing strategy inquiry** (due 2026-08-10) — check with Sona/Pam on finalization timeline
-- **Website datasheets update** (no due date) — marketing collateral
-- **Whitepaper redesign** (no due date) — content refresh
+Paige was being considered for a Technical Program Management role but accepted an external offer. The tasks in this project remain unassigned and should be either reassigned to current team members or cancelled.
 
-## Task Summary
-- **Total:** 11 open tasks, all unassigned, 0 completed
-- **Assignee Status:** All tasks remain unassigned and have not been redistributed
-- **Notable Patterns:** 
-  - Mix of recurring tasks (Google Analytics), vendor/contact interactions (Geoff, StationDC, Aeropods), marketing operations, and industry submissions
-  - Several tasks are vague action items or meeting reminders without sufficient context
-  - Two tasks lack due dates and need prioritization before reassignment
+## Open Tasks (11 total) — All Unassigned
 
-## Recent Activity
-- **Status as of October 2026:** No reassignment action since August 2026. All tasks remain unassigned and overdue.
-- **Team feedback (2026-10-05, Cory Dixon & Jack Elston):** Paige Smith accepted an offer from another company. BST will continue moving forward on candidate interviews for the Technical Program Management role. Jack Elston acknowledged the departure.
-- **Previous concern flagged (2026-08-25):** Joshua Fromm questioned task visibility and external communication tracking, indicating potential gaps in task documentation or context in Asana.
-- **Overdue alerts:** Tasks due April–June 2026 are 4–6 months past deadline with no assignee.
+| Task | Due Date | Status |
+|------|----------|--------|
+| Google Analytics | 2026-06-25 | Monthly recurring |
+| Convert content to email, enhance subscribers list | 2026-04-21 | **OVERDUE** |
+| Revisit w/ Google Ads specialist | 2026-04-28 | **OVERDUE** |
+| Update Website datasheets | No due date | — |
+| Redesign whitepapers | No due date | — |
+| 1:30pm geoff | 2026-06-16 | **OVERDUE** |
+| Call stationdc | 2026-06-22 | **OVERDUE** |
+| Aeropods 11am | 2026-07-09 | **OVERDUE** |
+| Geoweek submission due | 2026-07-17 | **OVERDUE** |
+| Google tags | 2026-07-31 | **OVERDUE** |
+| Ask Sona/Pam re: marketing strategy timeline | 2026-08-10 | **OVERDUE** |
 
-## Notes & Context
-This project is a **stale reassignment holding area** for operational marketing and analytics tasks. Jack Elston owns it but tasks have not been redistributed to active team members since Paige's departure in early October 2026.
+## Completed Tasks (5 total)
 
-**Critical gaps requiring clarification before (or instead of) reassignment:**
-- "1:30pm geoff" (due 2026-06-16) — lacks purpose, outcome, or full contact information
-- "Aeropods 11am" (due 2026-07-09) — unclear if this is a vendor call, meeting, or action item
-- "call stationdc" (due 2026-06-22) — missing call objective and required deliverable
-- **Task documentation issue:** Joshua Fromm's feedback (2026-08-25) suggests external communications or task context may not be fully captured in Asana. Recommend auditing task notes to ensure all relevant context (especially external emails, vendor communications, or cross-team conversations) is documented. This may indicate that some tasks were created from external communications that need explicit reference in Asana for full team visibility.
+- Alex Mann Call | Due 2026-08-04, completed 2026-08-07
+- Steve Wolf Call | Due 2026-07-28, completed 2026-07-28
+- Google Ads | Due 2026-07-22, completed 2026-07-23
+- Ensure AMS Abstract is submitted | Due 2026-07-20, completed 2026-07-22
+- Aeropods 11am | Due 2026-07-08, completed 2026-06-16
 
-**Recommendation:** Determine whether these tasks are still valid business priorities (especially those with April–June 2026 deadlines). Consider archiving completed or obsolete items and reassigning active work by domain (Marketing/Analytics, Web Development, Sales/Partnerships).
+## Action Items
+
+This project contains orphaned tasks that need immediate triage:
+1. **Marketing/content tasks** (Google Analytics, content-to-email, Google Ads, website datasheets, whitepapers) — assign to marketing team
+2. **Client/prospect calls** (Geoff, StationDC, Aeropods, Geoweek) — reassign or mark complete if already handled
+3. **Strategy coordination** (Sona/Pam query, Google tags) — assign or close if no longer relevant
+
+Most tasks are significantly overdue and should be reviewed for current status before reassignment.

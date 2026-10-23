@@ -1,34 +1,24 @@
+_Computed from Toggl as of 2026-10-23: 92.6 h total since 2020-01-01 — Stachura 45.5 h, Jack Elston 43.0 h, Karen Young 4.1 h._
+
 # [450-1] 2020 NOAA WPO - Crested Butte SMM — Time Tracking
 
 ## Overview
-- Client: [300] NOAA
-- Active/inactive status: Inactive
-- Billable status: Non-billable
-- Total hours tracked: 106.1 hours
+- **Client:** NOAA
+- **Status:** Inactive
+- **Billable:** No
+- **Total Hours Tracked:** 92.6 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
-- Jack Elston: 56.5 hours (53.3% - primary contributor)
-- Stachura: 45.5 hours (42.9%)
-- Karen Young: 4.1 hours (3.9%)
+- **Stachura:** 45.5 hours (49.1%)
+- **Jack Elston:** 43.0 hours (46.4%)
+- **Karen Young:** 4.1 hours (4.4%)
+
+**Primary Contributors:** Stachura and Jack Elston shared nearly equal responsibility, with Stachura slightly leading.
 
 ## Activity Timeline
-Recent work entries show campaign operations and project closeout activities:
-- Jack Elston: Conducted "Flight Campaign" operations with multiple 10+ hour sessions
-- Stachura: Extensive work on "Campaign 7" with consistent daily entries
-- Karen Young: Administrative work including invoicing and trip coordination
-- Final entry by Stachura regarding technical/progress report submission within 30-day deadline
-
-Work patterns indicate intensive field campaign operations followed by administrative closeout.
+No recent activity data provided. Project is inactive.
 
 ## Insights
-Types of work being done:
-- **Flight Operations**: Intensive flight campaign activities (Jack Elston leading field operations)
-- **Campaign Support**: "Campaign 7" activities spanning multiple weeks (Stachura as primary support)
-- **Project Administration**: Invoicing, trip coordination, and final reporting (Karen Young handling admin tasks)
-- **Project Closeout**: Final technical report preparation for PTE PI submission
-
-Notable patterns:
-- High-intensity field work periods with 10+ hour days during active campaign phases
-- Clear role separation: Jack leading flight ops, Stachura on campaign support, Karen on admin
-- Project appears to be a NOAA Weather Program Office Snow Measurement Mission in Crested Butte
-- Non-billable status suggests internal R&D or cost-share arrangement
+- This is a historical project from 2020 related to NOAA's Weather and Precipitation Observation (WPO) program at Crested Butte
+- Work was concentrated between two team members with minimal involvement from Karen Young
+- Non-billable status suggests internal research, infrastructure, or pro-bono work
