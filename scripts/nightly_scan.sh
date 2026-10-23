@@ -76,6 +76,19 @@ else
     echo "No changes to commit." >> "$LOG_FILE"
 fi
 
+# Refresh the team's "Ask Black Swift Technologies" claude.ai project with a
+# scrubbed export. Opt-in until the Chrome upload has been verified on this
+# machine: touch export/.sync_enabled to turn it on.
+if [ -f "$PROJECT_DIR/export/.sync_enabled" ]; then
+    echo "Syncing Claude project knowledge..." >> "$LOG_FILE"
+    if "$PROJECT_DIR/scripts/sync_claude_project.sh" >> "$LOG_FILE" 2>&1; then
+        echo "Claude project sync completed." >> "$LOG_FILE"
+    else
+        ERRORS="$ERRORS\nClaude project sync failed (is Chrome open with the extension connected?)."
+        echo "CLAUDE PROJECT SYNC FAILED" >> "$LOG_FILE"
+    fi
+fi
+
 # Report errors as BUG entries
 if [ -n "$ERRORS" ]; then
     echo "Reporting errors to knowledge channel..." >> "$LOG_FILE"
