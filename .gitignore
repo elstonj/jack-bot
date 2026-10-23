@@ -8,3 +8,9 @@ venv/
 scripts/*.log
 .env.bak.*
 .venv*/
+
+# Scrubbed Claude-project export (regenerated nightly)
+export/
+
+# QuickBooks OAuth token cache (rotating secret; never commit)
+knowledge/.qbo_token_cache.json
