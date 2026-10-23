@@ -101,6 +101,30 @@ def is_shared_channel(channel_id):
     return bool(channel_id) and not str(channel_id).startswith("D")
 
 
+# Whole documents that are personnel records: payroll journals, cost-share
+# "match documentation" (full payroll registers), offer letters, HR/leave
+# projects. These sit in knowledge/proposals/ alongside ordinary proposals, so
+# Q&A could quote a coworker's salary to anyone who asked. Matched by filename
+# and, because registers turn up under arbitrary names, by content.
+_PERSONNEL_FILENAME = re.compile(
+    r"payroll|expense_documentation|cash_requirements|withholding|timesheet"
+    r"|pay_?stub|w-?2\b|1099|offer_letter|hr_general|_pto\b|pto\.md|sick_leave"
+    r"|compensation|benefits|match_documentation",
+    re.I,
+)
+_PERSONNEL_CONTENT = re.compile(
+    r"net pay\b|gross (?:pay|salary|wages)\b|withholdings? (?:&|and) deductions",
+    re.I,
+)
+
+
+def is_personnel_record(filename, text=""):
+    """True if a knowledge file is a payroll/HR record that must never be
+    quoted to anyone (Q&A context, shared exports)."""
+    return bool(_PERSONNEL_FILENAME.search(filename or "")
+                or _PERSONNEL_CONTENT.search(text or ""))
+
+
 def contains_sensitive(text):
     """True if `text` trips a deterministic sensitivity pattern."""
     if not text:

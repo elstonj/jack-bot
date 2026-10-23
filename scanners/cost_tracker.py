@@ -1,221 +1,203 @@
-"""Project cost tracker — computes actual project costs from Toggl + rates + expenses.
+"""Project cost tracker — renders each project's cost picture from structured data.
 
-Cross-references:
-  - Toggl hours per person per project
-  - Labor rates from budget/contract docs (extracted via Claude)
-  - Material/equipment purchases from QuickBooks expenses
-  - Subcontractor costs from QuickBooks
+Sources, all read from disk (run after toggl, qbo_by_class and project_state):
+  - knowledge/project_state/{code}.json      — approved budget, spend by source
+  - knowledge/quickbooks/by_class/{code}.json — exact QBO revenue / expenses
+  - knowledge/toggl/.monthly_totals.json     — hours per person per project
 
 Produces:
   knowledge/financial/costs/{project_code}.md — per-project cost breakdown
-  Updates knowledge/financial/by_project/{code}.md with cost section
 
-Run after toggl, budgets, and quickbooks scanners.
+Every figure is computed or copied in code and labelled with its source; no
+model is involved. The previous version handed Toggl prose, budget docs and
+QBO rollups to Haiku and asked it to "estimate where reasonable" with invented
+default rates. It produced numbers like "untracked labor value ~$126.5k" for
+550-1, counted only the first Toggl file whose name contained the code
+("001-1" also matched 001-10..001-16), and truncated Toggl data at 5,000 chars.
+Per-person rates aren't available anywhere structured, so labor dollars come
+from project_state and keep its placeholder label rather than a guessed rate.
 """
 
-import os
+import json
 import re
-import glob
-from pathlib import Path
+from datetime import date
 
-from .base import (
-    KNOWLEDGE_DIR,
-    get_claude_client,
-    update_scan_timestamp,
-    DISTILL_MODEL,
-)
+from project_state import code_to_filename, list_project_states
+
+from .base import KNOWLEDGE_DIR, update_scan_timestamp
 
 COSTS_DIR = KNOWLEDGE_DIR / "financial" / "costs"
-FINANCIAL_DIR = KNOWLEDGE_DIR / "financial" / "by_project"
-TOGGL_DIR = KNOWLEDGE_DIR / "toggl" / "by_project"
-BUDGETS_DIR = KNOWLEDGE_DIR / "budgets"
-QB_DIR = KNOWLEDGE_DIR / "quickbooks" / "by_project"
-PROJECTS_DIR = KNOWLEDGE_DIR / "projects"
-
-MAX_CONTEXT = 60_000
+QBO_BY_CLASS_DIR = KNOWLEDGE_DIR / "quickbooks" / "by_class"
+TOGGL_DIR = KNOWLEDGE_DIR / "toggl"
 
 
-def _read_file(path, max_chars=None):
+def _money(x):
+    return "unknown" if x is None else f"${x:,.2f}"
+
+
+def _load_json(path):
     try:
-        text = Path(path).read_text()
-        return text[:max_chars] if max_chars else text
-    except Exception:
-        return ""
-
-
-def _find_toggl_for_project(code):
-    """Find Toggl time tracking file for a project code."""
-    if not TOGGL_DIR.exists():
-        return ""
-    code_dash = code.replace("_", "-")
-    for f in TOGGL_DIR.glob("*.md"):
-        if code_dash in f.name or code in f.name:
-            return _read_file(f, max_chars=5000)
-    return ""
-
-
-def _find_budget_for_project(code):
-    """Find budget file for a project code."""
-    if not BUDGETS_DIR.exists():
-        return ""
-    code_underscore = code.replace("-", "_")
-    path = BUDGETS_DIR / f"project_{code_underscore}.md"
-    if path.exists():
-        return _read_file(path, max_chars=8000)
-    # Try variations
-    for f in BUDGETS_DIR.glob(f"*{code_underscore}*"):
-        return _read_file(f, max_chars=8000)
-    return ""
-
-
-def _find_qb_expenses_for_project(code):
-    """Search QuickBooks files for expense transactions related to this project."""
-    if not QB_DIR.exists():
-        return ""
-    # QB files are grouped by category (commercial, government, etc.)
-    # Search all for the project code
-    code_dash = code.replace("_", "-")
-    snippets = []
-    for f in QB_DIR.glob("*.md"):
-        content = _read_file(f, max_chars=10000)
-        if code_dash in content or f"[{code_dash}]" in content or code in content:
-            # Extract just the relevant sections
-            lines = content.split("\n")
-            relevant = []
-            capture = False
-            for line in lines:
-                if code_dash in line.lower() or code in line.lower():
-                    capture = True
-                if capture:
-                    relevant.append(line)
-                    if len(relevant) > 30:
-                        break
-                if capture and line.strip() == "" and len(relevant) > 5:
-                    capture = False
-            if relevant:
-                snippets.append(f"From {f.name}:\n" + "\n".join(relevant))
-    return "\n\n".join(snippets) if snippets else ""
-
-
-def _find_project_registry(code):
-    """Get project registry entry."""
-    if not PROJECTS_DIR.exists():
-        return ""
-    path = PROJECTS_DIR / f"{code}.md"
-    if path.exists():
-        return _read_file(path, max_chars=3000)
-    return ""
-
-
-COST_PROMPT = """\
-You are computing actual project costs for a Black Swift Technologies (BST) project.
-
-Given: Toggl time tracking data (hours per person), budget documents (labor rates, \
-indirect rates), QuickBooks transactions (expenses, purchases), and project metadata, \
-produce a structured cost breakdown.
-
-Compute:
-1. **Direct Labor**: For each person, multiply their hours by their hourly rate. \
-   If exact rates aren't in the budget, use these BST defaults: \
-   Principal (CEO/CTO): $105/hr, Senior Engineer: $90/hr, Engineer: $75/hr, \
-   Technician/Admin: $55/hr, Intern: $35/hr.
-2. **Indirect Costs**: Apply fringe (29.28%) + overhead (46.67%) to direct labor \
-   if the project is a government contract. Skip for IRAD/commercial unless rates are specified.
-3. **Fully Loaded Labor**: Direct labor + indirects
-4. **Materials & Equipment**: From QuickBooks expenses/purchases
-5. **Subcontractor Costs**: From QuickBooks if present
-6. **Total Actual Cost**: Sum of all above
-
-Output clean markdown with:
-- Summary table: budget vs actual cost vs remaining
-- Labor breakdown by person (hours, rate, cost)
-- Materials/equipment if any
-- Subcontractor costs if any
-- Burn rate assessment (are we on track?)
-
-Use bullet points, not markdown tables (output is for Slack). Be specific with numbers. \
-If data is missing, note what's unavailable and estimate where reasonable."""
-
-
-def compute_project_costs(project_code, progress_callback=None):
-    """Compute costs for a single project."""
-    sections = []
-
-    # Gather all available data
-    toggl = _find_toggl_for_project(project_code)
-    if toggl:
-        sections.append(f"=== TOGGL TIME TRACKING ===\n{toggl}")
-
-    budget = _find_budget_for_project(project_code)
-    if budget:
-        sections.append(f"=== BUDGET DOCUMENT ===\n{budget}")
-
-    qb = _find_qb_expenses_for_project(project_code)
-    if qb:
-        sections.append(f"=== QUICKBOOKS EXPENSES ===\n{qb}")
-
-    registry = _find_project_registry(project_code)
-    if registry:
-        sections.append(f"=== PROJECT REGISTRY ===\n{registry}")
-
-    # Also include existing financial summary for revenue context
-    fin_path = FINANCIAL_DIR / f"{project_code}.md"
-    if fin_path.exists():
-        sections.append(f"=== EXISTING FINANCIAL SUMMARY (revenue side) ===\n{_read_file(fin_path, max_chars=4000)}")
-
-    if not sections:
+        return json.loads(path.read_text())
+    except (FileNotFoundError, ValueError):
         return None
 
-    context = "\n\n".join(sections)
-    if len(context) > MAX_CONTEXT:
-        context = context[:MAX_CONTEXT]
 
-    client = get_claude_client()
-    response = client.messages.create(
-        model=DISTILL_MODEL,
-        max_tokens=2000,
-        system=COST_PROMPT,
-        messages=[{"role": "user", "content": f"Project: {project_code}\n\n{context}"}],
-    )
+def _code_pattern(code):
+    """Matches a project code in a Toggl project name: 550-1 but not 550-10."""
+    m = re.match(r"^(\d{3})[-_](\d+)$", code)
+    if not m:
+        return None
+    return re.compile(rf"(?<!\d){m.group(1)}[-_ ]0?{int(m.group(2))}(?!\d)")
 
-    return response.content[0].text
+
+def _toggl_hours(code, monthly, names):
+    """{person: hours} summed over every Toggl project carrying this code."""
+    pat = _code_pattern(code)
+    if not pat or not monthly or not names:
+        return {}
+    pids = {pid for pid, name in names.get("projects", {}).items() if pat.search(name)}
+    hours = {}
+    for users in monthly.values():
+        for uid, pm in users.items():
+            secs = sum(s for pid, s in pm.items() if pid in pids)
+            if secs:
+                person = names.get("users", {}).get(uid, f"User {uid}")
+                hours[person] = hours.get(person, 0) + secs / 3600
+    return hours
+
+
+def render_costs(state, qbo, hours, as_of):
+    """Markdown cost breakdown for one ProjectState. Pure function."""
+    b = state.budget
+    s = b.spent
+    lines = [
+        f"# Project {state.project_code} — Cost Breakdown",
+        "",
+        f"_Computed in code from structured sources as of {as_of}. No figure here "
+        f"was estimated by a model._",
+        "",
+        f"**{state.name}** ({state.category}, status: {state.status})",
+        "",
+        "## Budget",
+        f"- Approved: {_money(b.approved)} (source: {b.approved_source or 'unknown'})",
+    ]
+    if state.contract.total_value is not None:
+        lines.append(f"- Contract value: {_money(state.contract.total_value)}"
+                     f" ({state.contract.type})")
+    lines += [
+        "",
+        f"## Spend to date (project_state, reconciled {b.last_reconciled or 'never'})",
+    ]
+    for label, part in (("Labor", s.labor), ("Purchases", s.purchases),
+                        ("Other QuickBooks", s.other_qbo)):
+        lines.append(f"- {label}: {_money(part.amount)} — {part.source} "
+                     f"[{part.confidence}, as of {part.last_updated or 'unknown'}]")
+    lines.append(f"- Total: {_money(s.total)}")
+    if b.remaining is not None:
+        lines.append(f"- Remaining against approved: {_money(b.remaining)}")
+
+    if qbo:
+        t = qbo.get("totals", {})
+        period = qbo.get("period", {})
+        lines += ["", f"## QuickBooks ({period.get('start')} to {period.get('end')})",
+                  f"- Revenue: {_money(t.get('revenue'))}",
+                  f"- Expenses: {_money(t.get('expenses'))}"]
+        for cat, amt in list((t.get("by_category") or {}).items())[:8]:
+            lines.append(f"  - {cat}: {_money(amt)}")
+
+    if hours:
+        total = sum(hours.values())
+        lines += ["", f"## Hours by person (Toggl, all time): {total:,.1f} h"]
+        for person, h in sorted(hours.items(), key=lambda kv: -kv[1]):
+            lines.append(f"- {person}: {h:,.1f} h")
+
+    gaps = []
+    if s.labor.confidence == "placeholder":
+        gaps.append("Labor dollars use a flat placeholder rate; per-person loaded "
+                    "rates are not available, so treat labor cost as approximate.")
+    if not qbo:
+        gaps.append("No QuickBooks transactions are attributed to this project code.")
+    if not hours:
+        gaps.append("No Toggl hours are tagged with this project code.")
+    if b.approved is None:
+        gaps.append("No approved budget on record.")
+    if gaps:
+        lines += ["", "## Data gaps"] + [f"- {g}" for g in gaps]
+    return "\n".join(lines) + "\n"
+
+
+FINANCIAL_DIR = KNOWLEDGE_DIR / "financial" / "by_project"
+_BLOCK_START = "<!-- authoritative-figures:start -->"
+_BLOCK_END = "<!-- authoritative-figures:end -->"
+
+
+def authoritative_block(state, qbo, as_of):
+    """Short code-rendered figures block for the top of financial/by_project.
+
+    Those files are model summaries of several sources and disagree with each
+    other (301-3's contract value read $1.7M, $747.5k, $879.5k and $969.8k in
+    different files). This block gives one sourced, dated answer and Q&A is
+    told it wins on conflict.
+    """
+    b, s = state.budget, state.budget.spent
+    lines = [
+        _BLOCK_START,
+        f"**Authoritative figures** (computed in code as of {as_of}; these win "
+        f"over any figure below):",
+        f"- Approved budget: {_money(b.approved)} (source: {b.approved_source or 'unknown'})",
+        f"- Spent to date: {_money(s.total)} — labor {_money(s.labor.amount)} "
+        f"[{s.labor.confidence}], purchases {_money(s.purchases.amount)} "
+        f"[{s.purchases.confidence}], other QBO {_money(s.other_qbo.amount)} "
+        f"[{s.other_qbo.confidence}]",
+    ]
+    if b.remaining is not None:
+        lines.append(f"- Remaining against approved: {_money(b.remaining)}")
+    if qbo:
+        t, period = qbo.get("totals", {}), qbo.get("period", {})
+        lines.append(f"- QuickBooks {period.get('start')} to {period.get('end')}: "
+                     f"revenue {_money(t.get('revenue'))}, expenses {_money(t.get('expenses'))}")
+    lines.append(_BLOCK_END)
+    return "\n".join(lines)
+
+
+def _stamp_financial_file(code, block):
+    path = FINANCIAL_DIR / f"{code.replace('-', '_')}.md"
+    if not path.exists():
+        return
+    text = path.read_text()
+    if _BLOCK_START in text and _BLOCK_END in text:
+        before, rest = text.split(_BLOCK_START, 1)
+        text = before + rest.split(_BLOCK_END, 1)[1].lstrip("\n")
+    path.write_text(block + "\n\n" + text)
 
 
 def scan(progress_callback=None):
-    """Compute costs for all projects that have Toggl data."""
+    """Render a cost file for every project that has a project_state record."""
     COSTS_DIR.mkdir(parents=True, exist_ok=True)
 
-    if not TOGGL_DIR.exists():
-        print("No Toggl project data available. Run toggl scanner first.")
-        return []
+    from scanners.toggl_scanner import _load_monthly
 
-    # Find all projects with time tracking data
+    monthly = _load_monthly()
+    names = _load_json(TOGGL_DIR / ".names.json") or {}
+    if names:
+        names = {"users": {int(k): v for k, v in names.get("users", {}).items()},
+                 "projects": {int(k): v for k, v in names.get("projects", {}).items()}}
+    as_of = date.today().isoformat()
+
     results = []
-    toggl_files = sorted(TOGGL_DIR.glob("*.md"))
-    print(f"Found {len(toggl_files)} projects with time tracking data")
-
-    for i, toggl_file in enumerate(toggl_files):
-        # Extract project code from filename like "001-04_s0_vtol_irad.md"
-        fname = toggl_file.stem
-        code_match = re.match(r"(\d{3}-\d{1,2})", fname)
-        if not code_match:
-            continue
-        code = code_match.group(1).replace("-", "_")
-
+    states = [st for st in list_project_states() if _code_pattern(st.project_code)]
+    print(f"Rendering costs for {len(states)} projects")
+    for i, state in enumerate(states):
+        code = state.project_code
         if progress_callback:
-            progress_callback(f"Computing costs for {code} ({i+1}/{len(toggl_files)})...")
-        print(f"  [{i+1}/{len(toggl_files)}] {code}...")
-
-        try:
-            cost_text = compute_project_costs(code)
-            if cost_text:
-                output_path = COSTS_DIR / f"{code}.md"
-                output_path.write_text(f"# Project {code} — Cost Breakdown\n\n{cost_text}")
-                results.append((code, output_path))
-        except Exception as e:
-            print(f"    Error: {e}")
-            continue
+            progress_callback(f"Computing costs for {code} ({i+1}/{len(states)})...")
+        qbo = _load_json(QBO_BY_CLASS_DIR / f"{code_to_filename(code)}.json")
+        hours = _toggl_hours(code, monthly, names)
+        output_path = COSTS_DIR / f"{code.replace('-', '_')}.md"
+        output_path.write_text(render_costs(state, qbo, hours, as_of))
+        _stamp_financial_file(code, authoritative_block(state, qbo, as_of))
+        results.append((code, output_path))
 
     update_scan_timestamp("cost_tracker")
-    print(f"Cost tracking complete: {len(results)} projects analyzed")
+    print(f"Cost tracking complete: {len(results)} projects rendered")
     return results

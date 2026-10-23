@@ -5,11 +5,18 @@ Produces:
   knowledge/asana/summary.md                  — cross-project overview
 
 Modes:
-  full        — all tasks including completed (entire history)
-  1yr         — tasks modified in the last year
-  incremental — tasks modified since last scan
+  full        — rebuild every project: open tasks + all completed tasks
+  1yr         — rebuild every project: open tasks + tasks completed in the last year
+  incremental — rebuild only projects with a task modified since the last scan
+
+Every write is a complete snapshot (open tasks plus recently completed ones),
+never just the tasks that changed. Incremental mode uses `modified_since` only
+to decide *whether* to rebuild a project. It used to distill the changed tasks
+alone, so a project where one task moved was overwritten as a one-task project
+and the full task list was gone until the next full scan.
 """
 
+import json
 import os
 import re
 import time
@@ -30,6 +37,12 @@ from .base import (
 ASANA_BASE = "https://app.asana.com/api/1.0"
 ASANA_KNOWLEDGE_DIR = KNOWLEDGE_DIR / "asana"
 PROJECTS_DIR = ASANA_KNOWLEDGE_DIR / "projects"
+# Per-project counts and as-of dates, so summary.md covers every project and
+# not just the ones rebuilt this run.
+INDEX_FILE = ASANA_KNOWLEDGE_DIR / ".index.json"
+
+# How far back an incremental snapshot keeps completed tasks.
+SNAPSHOT_COMPLETED_DAYS = 90
 
 # Rate limit: Asana allows ~150 requests/minute. Be conservative.
 REQUEST_DELAY = 0.4  # seconds between requests
@@ -82,20 +95,25 @@ def _get_project_details(project_gid):
     return resp.json()["data"]
 
 
-def _get_all_tasks_for_project(project_gid, include_completed=True, modified_since=None):
+def _get_all_tasks_for_project(project_gid, include_completed=True, modified_since=None,
+                               completed_since=None):
     """Get all tasks for a project, with pagination.
 
     Args:
         project_gid: Asana project GID
         include_completed: If True, fetch completed tasks too
         modified_since: ISO date string — only tasks modified after this date
+        completed_since: ISO date string — incomplete tasks plus tasks
+            completed after this date (overrides include_completed)
     """
     params = {
         "project": project_gid,
         "opt_fields": "name,assignee.name,assignee.email,due_on,due_at,completed,completed_at,created_at,modified_at,custom_fields,notes,tags.name,resource_subtype,num_subtasks",
     }
 
-    if not include_completed:
+    if completed_since:
+        params["completed_since"] = completed_since
+    elif not include_completed:
         params["completed_since"] = "now"
 
     if modified_since:
@@ -326,53 +344,49 @@ def scan_project(project, mode="full", modified_since=None, corrections=None):
         print(f"  [WARN] Could not get details for {project_name}: {e}")
         details = project
 
-    # Determine task fetch parameters
-    include_completed = mode == "full"
-    mod_since = None
-    if mode == "1yr":
-        mod_since = (date.today() - timedelta(days=365)).isoformat()
-        include_completed = True
-    elif modified_since:
-        mod_since = modified_since
-        include_completed = True
+    filename = _safe_filename(project_name) + ".md"
+    output_path = PROJECTS_DIR / filename
 
-    # Fetch tasks
+    # Incremental: modified_since only answers "did anything change?". Skip
+    # when nothing did and there are no team corrections; corrections can
+    # override stale Asana state ("delayed to fall"), so they force a rebuild.
+    if mode == "incremental" and modified_since and output_path.exists():
+        try:
+            changed = _get_all_tasks_for_project(
+                project_gid, include_completed=True, modified_since=modified_since,
+            )
+        except Exception as e:
+            print(f"  [WARN] Could not fetch tasks for {project_name}: {e}")
+            return None
+        if not changed and not corrections:
+            print(f"  [SKIP] {project_name}: no changes since last scan")
+            return None
+
+    # Always distill from a complete snapshot of the project.
+    if mode == "full":
+        completed_since, window = None, "all time"
+    else:
+        days = 365 if mode == "1yr" else SNAPSHOT_COMPLETED_DAYS
+        completed_since = (date.today() - timedelta(days=days)).isoformat()
+        window = f"last {days} days"
     try:
         tasks = _get_all_tasks_for_project(
-            project_gid,
-            include_completed=include_completed,
-            modified_since=mod_since,
+            project_gid, include_completed=True, completed_since=completed_since,
         )
     except Exception as e:
         print(f"  [WARN] Could not fetch tasks for {project_name}: {e}")
         return None
 
     if not tasks and not details.get("notes"):
-        print(f"  [SKIP] {project_name}: no tasks")
-        return None
-
-    # In incremental mode, skip re-distillation if no tasks were modified
-    # AND there are no team corrections that would alter the distillation.
-    # Corrections can override stale Asana state (e.g., "delayed to fall"),
-    # so they must force a re-distill even when Asana itself is unchanged.
-    if modified_since and not tasks and not corrections:
-        filename = _safe_filename(project_name) + ".md"
-        existing_path = PROJECTS_DIR / filename
-        if existing_path.exists():
-            print(f"  [SKIP] {project_name}: no changes since last scan")
-            return None
-
-    # If we have corrections but no task changes, refetch tasks so the
-    # distillation has real content to work with rather than an empty list.
-    if modified_since and not tasks and corrections:
-        try:
-            tasks = _get_all_tasks_for_project(
-                project_gid,
-                include_completed=False,
-                modified_since=None,
-            )
-        except Exception:
-            pass
+        # Overwrite rather than skip: a skipped project kept its old file, so
+        # one with nothing open still listed tasks from a previous snapshot.
+        print(f"  [EMPTY] {project_name}: no open or recently completed tasks")
+        as_of = date.today().isoformat()
+        write_knowledge_file(output_path, (
+            f"# {project_name}\n\n_Asana snapshot as of {as_of}: 0 open tasks, "
+            f"0 completed ({window})._\n\nNo open tasks and none completed in this window.\n"))
+        _update_index(filename, project_name, 0, 0, window, as_of)
+        return project_name, 0, output_path
 
     # Fetch subtasks for milestones (they often have dollar amounts)
     milestones = [t for t in tasks if t.get("resource_subtype") == "milestone"]
@@ -435,23 +449,64 @@ def scan_project(project, mode="full", modified_since=None, corrections=None):
 
     raw_text = "\n".join(lines)
 
-    # Distill into knowledge file
-    filename = _safe_filename(project_name) + ".md"
-    output_path = PROJECTS_DIR / filename
+    # Stamped by code, not the model, so readers can tell how current it is.
+    as_of = date.today().isoformat()
+    stamp = (f"_Asana snapshot as of {as_of}: {len(open_tasks)} open tasks, "
+             f"{len(done_tasks)} completed ({window})._\n\n")
 
     # For very small projects, just write a simple summary without Claude
     if len(tasks) <= 3 and not details.get("notes"):
-        simple = f"# {project_name}\n\nSmall project with {len(tasks)} tasks.\n"
+        simple = f"# {project_name}\n\n{stamp}"
         for t in tasks:
             assignee = (t.get("assignee") or {}).get("name", "Unassigned")
             status = "Done" if t.get("completed") else "Open"
             simple += f"- [{status}] {t['name']} — {assignee}\n"
         write_knowledge_file(output_path, simple)
-        return project_name, len(tasks), output_path
+    else:
+        print(f"  Distilling {project_name} ({len(tasks)} tasks)...")
+        content = distill_to_markdown(raw_text, PROJECT_DISTILL_PROMPT, output_path,
+                                      max_tokens=2000, merge=False)
+        if content is None:
+            return None
+        write_knowledge_file(output_path, stamp + content)
 
-    print(f"  Distilling {project_name} ({len(tasks)} tasks)...")
-    distill_to_markdown(raw_text, PROJECT_DISTILL_PROMPT, output_path, max_tokens=2000)
+    _update_index(filename, project_name, len(open_tasks), len(done_tasks), window, as_of)
     return project_name, len(tasks), output_path
+
+
+ORPHAN_BANNER = "_Not in Asana's current project list"
+
+
+def _mark_orphans(current_filenames):
+    """Banner project files whose project is gone (renamed or archived).
+
+    Kept rather than deleted so archived projects stay answerable, but marked
+    so nobody reads e.g. the pre-rename 001-02 file as today's task list.
+    """
+    today = date.today().isoformat()
+    for path in PROJECTS_DIR.glob("*.md"):
+        if path.name in current_filenames:
+            continue
+        text = path.read_text()
+        if ORPHAN_BANNER not in text:
+            write_knowledge_file(path, (
+                f"{ORPHAN_BANNER} as of {today} (renamed or archived); this file "
+                f"is not updated and may be stale._\n\n{text}"))
+
+
+def _load_index():
+    try:
+        return json.loads(INDEX_FILE.read_text())
+    except (FileNotFoundError, ValueError):
+        return {}
+
+
+def _update_index(filename, name, open_count, done_count, window, as_of):
+    index = _load_index()
+    index[filename] = {"name": name, "open": open_count, "completed": done_count,
+                       "window": window, "as_of": as_of}
+    INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
+    INDEX_FILE.write_text(json.dumps(index, indent=2, sort_keys=True))
 
 
 def scan_all(mode="full", progress_callback=None):
@@ -509,32 +564,43 @@ def scan_all(mode="full", progress_callback=None):
         # Pace API calls (both Asana and Claude)
         time.sleep(1)
 
-    # Generate cross-project summary
+    _mark_orphans({_safe_filename(p["name"]) + ".md" for p in projects})
+
+    # Generate cross-project summary. Rebuilt whenever anything changed, and
+    # always from every project on disk, not just this run's results.
     if results:
-        _generate_summary(results)
+        _generate_summary()
 
     update_scan_timestamp("asana")
     return results
 
 
-def _generate_summary(results):
-    """Generate a cross-project summary from all scanned projects."""
-    # Read all project knowledge files and create an index
+def _generate_summary():
+    """Generate a cross-project summary covering every project file."""
+    index = _load_index()
+    paths = sorted(PROJECTS_DIR.glob("*.md"))
+
     lines = ["# Asana Projects Overview\n"]
     lines.append(f"Last scanned: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
-    lines.append(f"Total projects scanned: {len(results)}\n")
+    lines.append(f"Total projects: {len(paths)}\n")
 
     lines.append("## Projects\n")
-    for name, task_count, path in sorted(results, key=lambda r: r[0]):
-        lines.append(f"- **{name}** — {task_count} tasks — [{path.name}]({path.name})")
+    for path in paths:
+        entry = index.get(path.name)
+        if entry:
+            lines.append(
+                f"- **{entry['name']}** — {entry['open']} open, {entry['completed']} "
+                f"completed ({entry['window']}) as of {entry['as_of']} — [{path.name}]({path.name})"
+            )
+        else:
+            lines.append(f"- [{path.name}]({path.name}) — not rebuilt since snapshot scanning began")
 
     # Also generate a Claude-distilled strategic summary
     project_snippets = []
-    for name, task_count, path in results:
-        if path.exists():
-            content = path.read_text()
-            # Take first 500 chars of each project file
-            project_snippets.append(f"### {name}\n{content[:500]}")
+    for path in paths:
+        name = index.get(path.name, {}).get("name", path.stem)
+        # Take first 500 chars of each project file
+        project_snippets.append(f"### {name}\n{path.read_text()[:500]}")
 
     if project_snippets:
         combined = "\n\n".join(project_snippets)

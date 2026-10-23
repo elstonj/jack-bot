@@ -36,7 +36,7 @@ from pathlib import Path
 PROJECT_DIR = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_DIR))
 
-from privacy_guard import contains_sensitive  # noqa: E402
+from privacy_guard import contains_sensitive, is_personnel_record  # noqa: E402
 
 KNOWLEDGE = PROJECT_DIR / "knowledge"
 DEFAULT_OUT = PROJECT_DIR / "export" / "claude_project"
@@ -78,18 +78,6 @@ def _digest(text):
         size += len(line) + 1
     return "\n".join(out)
 
-_DROP_FILENAME = re.compile(
-    r"payroll|expense_documentation|cash_requirements|withholding|timesheet"
-    r"|pay_?stub|w-?2\b|1099|offer_letter|hr_general|_pto\b|pto\.md|sick_leave"
-    r"|compensation|benefits|match_documentation",
-    re.I,
-)
-# Payroll registers turn up under arbitrary names (cost-share match docs,
-# invoice backup), so also drop by content.
-_PAYROLL_CONTENT = re.compile(
-    r"net pay\b|gross (?:pay|salary|wages)\b|withholdings? (?:&|and) deductions",
-    re.I,
-)
 _RESTRICTED = re.compile(
     r"Distribution Statement [B-F]\b|CUI//|\bCUI\b.{0,40}\bmarking"
     r"|ITAR[- ]controlled|subject to (?:the )?ITAR|export[- ]controlled"
@@ -153,7 +141,7 @@ def build(out_dir):
         for path in files:
             rel = path.relative_to(KNOWLEDGE)
             text = path.read_text(errors="replace")
-            if _DROP_FILENAME.search(path.name) or _PAYROLL_CONTENT.search(text):
+            if is_personnel_record(path.name, text):
                 excluded.append((rel, "payroll/HR/leave document"))
                 continue
             if _RESTRICTED.search(text):

@@ -70,15 +70,23 @@ def time_range_for_mode(mode):
         return None, end_date  # incremental handled by caller
 
 
-def distill_to_markdown(raw_text, system_prompt, output_path, max_tokens=2000):
+def distill_to_markdown(raw_text, system_prompt, output_path, max_tokens=2000,
+                        merge=True):
     """Use Claude to distill raw data into a structured markdown knowledge file.
 
-    If the file already exists, Claude is told to update/merge rather than replace.
+    If the file already exists and `merge` is set, Claude is told to
+    update/merge rather than replace. Pass merge=False when `raw_text` is a
+    complete snapshot: merging a snapshot into a stale file only preserves
+    stale facts.
+
+    Output cut off at max_tokens is retried once with double the budget and
+    otherwise never written. A truncated file would be fed back as EXISTING on
+    the next run and lose more each time.
     """
     client = get_claude_client()
 
     existing = ""
-    if output_path.exists():
+    if merge and output_path.exists():
         existing = output_path.read_text()
 
     user_content = raw_text
@@ -94,22 +102,29 @@ def distill_to_markdown(raw_text, system_prompt, output_path, max_tokens=2000):
     if len(user_content) > max_chars:
         user_content = user_content[:max_chars] + "\n\n[TRUNCATED — data was too large]"
 
-    # Retry with backoff for rate limits
-    for attempt in range(5):
-        try:
-            message = client.messages.create(
-                model=DISTILL_MODEL,
-                max_tokens=max_tokens,
-                system=system_prompt,
-                messages=[{"role": "user", "content": user_content}],
-            )
+    for budget in (max_tokens, max_tokens * 2):
+        # Retry with backoff for rate limits
+        for attempt in range(5):
+            try:
+                message = client.messages.create(
+                    model=DISTILL_MODEL,
+                    max_tokens=budget,
+                    system=system_prompt,
+                    messages=[{"role": "user", "content": user_content}],
+                )
+                break
+            except anthropic.RateLimitError:
+                wait = 30 * (attempt + 1)
+                print(f"    Rate limited, waiting {wait}s (attempt {attempt + 1}/5)...")
+                time.sleep(wait)
+        else:
+            print(f"    [ERROR] Rate limit exceeded after 5 retries, skipping {output_path.name}")
+            return None
+        if message.stop_reason != "max_tokens":
             break
-        except anthropic.RateLimitError:
-            wait = 30 * (attempt + 1)
-            print(f"    Rate limited, waiting {wait}s (attempt {attempt + 1}/5)...")
-            time.sleep(wait)
+        print(f"    Output truncated at {budget} tokens for {output_path.name}")
     else:
-        print(f"    [ERROR] Rate limit exceeded after 5 retries, skipping {output_path.name}")
+        print(f"    [ERROR] Output still truncated; keeping existing {output_path.name}")
         return None
 
     content = message.content[0].text

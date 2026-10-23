@@ -187,57 +187,42 @@ def _fetch_classes(access_token, realm_id):
 
 def _fetch_invoices(access_token, realm_id, start_date=None):
     """Fetch invoices, optionally filtered by date."""
-    query = "SELECT * FROM Invoice"
-    if start_date:
-        query += f" WHERE TxnDate >= '{start_date}'"
-    query += " ORDERBY TxnDate DESC MAXRESULTS 1000"
-    data = _qbo_query(access_token, realm_id, query)
-    time.sleep(REQUEST_DELAY)
-    return data.get("Invoice", [])
+    # Paginated: a single MAXRESULTS 1000 query silently dropped everything
+    # past the 1,000th row of a 730-day full scan.
+    from .qbo_by_class import _fetch_paginated
+    return _fetch_paginated(access_token, realm_id, "Invoice", start_date)
 
 
 def _fetch_bills(access_token, realm_id, start_date=None):
     """Fetch bills (vendor invoices / expenses)."""
-    query = "SELECT * FROM Bill"
-    if start_date:
-        query += f" WHERE TxnDate >= '{start_date}'"
-    query += " ORDERBY TxnDate DESC MAXRESULTS 1000"
-    data = _qbo_query(access_token, realm_id, query)
-    time.sleep(REQUEST_DELAY)
-    return data.get("Bill", [])
+    # Paginated: a single MAXRESULTS 1000 query silently dropped everything
+    # past the 1,000th row of a 730-day full scan.
+    from .qbo_by_class import _fetch_paginated
+    return _fetch_paginated(access_token, realm_id, "Bill", start_date)
 
 
 def _fetch_purchases(access_token, realm_id, start_date=None):
     """Fetch purchases (checks, credit card charges, expenses)."""
-    query = "SELECT * FROM Purchase"
-    if start_date:
-        query += f" WHERE TxnDate >= '{start_date}'"
-    query += " ORDERBY TxnDate DESC MAXRESULTS 1000"
-    data = _qbo_query(access_token, realm_id, query)
-    time.sleep(REQUEST_DELAY)
-    return data.get("Purchase", [])
+    # Paginated: a single MAXRESULTS 1000 query silently dropped everything
+    # past the 1,000th row of a 730-day full scan.
+    from .qbo_by_class import _fetch_paginated
+    return _fetch_paginated(access_token, realm_id, "Purchase", start_date)
 
 
 def _fetch_purchase_orders(access_token, realm_id, start_date=None):
     """Fetch purchase orders."""
-    query = "SELECT * FROM PurchaseOrder"
-    if start_date:
-        query += f" WHERE TxnDate >= '{start_date}'"
-    query += " ORDERBY TxnDate DESC MAXRESULTS 1000"
-    data = _qbo_query(access_token, realm_id, query)
-    time.sleep(REQUEST_DELAY)
-    return data.get("PurchaseOrder", [])
+    # Paginated: a single MAXRESULTS 1000 query silently dropped everything
+    # past the 1,000th row of a 730-day full scan.
+    from .qbo_by_class import _fetch_paginated
+    return _fetch_paginated(access_token, realm_id, "PurchaseOrder", start_date)
 
 
 def _fetch_payments(access_token, realm_id, start_date=None):
     """Fetch received payments."""
-    query = "SELECT * FROM Payment"
-    if start_date:
-        query += f" WHERE TxnDate >= '{start_date}'"
-    query += " ORDERBY TxnDate DESC MAXRESULTS 1000"
-    data = _qbo_query(access_token, realm_id, query)
-    time.sleep(REQUEST_DELAY)
-    return data.get("Payment", [])
+    # Paginated: a single MAXRESULTS 1000 query silently dropped everything
+    # past the 1,000th row of a 730-day full scan.
+    from .qbo_by_class import _fetch_paginated
+    return _fetch_paginated(access_token, realm_id, "Payment", start_date)
 
 
 def _get_class_from_line(line_item):
@@ -279,13 +264,15 @@ def _classify_transactions(transactions, txn_type):
 
         # Check line items for class assignments and account categories
         line_classes = set()
+        class_amounts = defaultdict(float)
         lines = txn.get("Line", [])
         line_details = []
         for line in lines:
             lclass = _get_class_from_line(line)
+            amount = line.get("Amount", 0)
             if lclass:
                 line_classes.add(lclass["name"])
-            amount = line.get("Amount", 0)
+                class_amounts[lclass["name"]] += float(amount or 0)
             desc = line.get("Description", "")
 
             # Extract account name (cost category) from line item details
@@ -322,9 +309,18 @@ def _classify_transactions(transactions, txn_type):
             summary += "\n" + "\n".join(line_details[:10])
 
         # Assign to class(es)
+        # A transaction split across classes used to list its full total under
+        # each one, so summing a class's listing overstated it. State the
+        # class's own share explicitly.
         classes = line_classes or ({txn_class} if txn_class else {"Unclassified"})
         for cls in classes:
-            by_class[cls].append(summary)
+            if len(classes) > 1:
+                share = class_amounts.get(cls, 0.0)
+                by_class[cls].append(summary.replace(
+                    f" | ${total:,.2f}",
+                    f" | ${share:,.2f} to this class (of ${total:,.2f} total)", 1))
+            else:
+                by_class[cls].append(summary)
 
     return dict(by_class)
 

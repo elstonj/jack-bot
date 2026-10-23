@@ -40,7 +40,7 @@ from datetime import date, timedelta
 from pathlib import Path
 
 from project_state import load_categories, code_to_filename
-from .base import KNOWLEDGE_DIR, get_last_scan, update_scan_timestamp
+from .base import KNOWLEDGE_DIR, update_scan_timestamp
 from .quickbooks_scanner import (
     _get_qbo_config,
     _refresh_access_token,
@@ -260,13 +260,40 @@ def _attribute_txn_to_projects(
     return dict(out)
 
 
-def _categorize_line_amount(lines: list[dict]) -> dict[str, float]:
-    """Aggregate line amounts by account name (cost category)."""
-    out: dict[str, float] = defaultdict(float)
-    for line in lines:
-        acct = _line_account_name(line) or "Uncategorized"
-        out[acct] += _line_amount(line)
-    return dict(out)
+def _attribute_categories(
+    txn: dict, canonical_codes: set[str]
+) -> dict[str | None, dict[str, float]]:
+    """{code: {account: amount}} — the same line placement as
+    `_attribute_txn_to_projects`, so each project's categories sum to its
+    attributed total.
+
+    This replaced scaling the whole transaction's categories by
+    attributed / TotalAmt, which spread one project's lines across every
+    project on the transaction and, through an `or 1.0` fallback when
+    TotalAmt was 0, multiplied line amounts by the attributed dollar figure
+    (550-1 showed $4.87M of travel against $30.7k of expenses).
+    """
+    total = float(txn.get("TotalAmt", 0) or 0)
+    txn_customer_code = _qbo_label_to_project_code(
+        (txn.get("CustomerRef") or {}).get("name", ""), canonical_codes
+    )
+    out: dict[str | None, dict[str, float]] = defaultdict(lambda: defaultdict(float))
+    placed = 0.0
+    for line in txn.get("Line", []) or []:
+        amount = _line_amount(line)
+        if amount == 0:
+            continue
+        code = _qbo_label_to_project_code(
+            _line_customer_ref(line).get("name", ""), canonical_codes
+        )
+        if code is None:
+            code = txn_customer_code
+        out[code][_line_account_name(line) or "Uncategorized"] += amount
+        placed += amount
+    leftover = total - placed
+    if abs(leftover) > 0.01:
+        out[txn_customer_code]["Uncategorized"] += leftover
+    return out
 
 
 def _ensure_bucket(buckets: dict, code: str | None) -> dict:
@@ -309,6 +336,7 @@ def _process_transactions(
     out_key = _TXN_TYPE_OUT_KEY[txn_type]
     for txn in txns:
         attribution = _attribute_txn_to_projects(txn, canonical_codes)
+        categories = _attribute_categories(txn, canonical_codes)
         for code, attributed in attribution.items():
             if attributed == 0:
                 continue
@@ -335,11 +363,8 @@ def _process_transactions(
 
             # Category breakdown (expenses only — revenue categorization is noise)
             if txn_type not in _REVENUE_TYPES:
-                category_sums = _categorize_line_amount(txn.get("Line", []) or [])
-                total = float(txn.get("TotalAmt", 0) or 0) or 1.0
-                share = attributed / total
-                for cat, amt in category_sums.items():
-                    bucket["totals"]["by_category"][cat] += amt * share
+                for cat, amt in categories.get(code, {}).items():
+                    bucket["totals"]["by_category"][cat] += amt
 
 
 def _serialize_bucket(bucket: dict, period: dict) -> dict:
@@ -379,13 +404,12 @@ def scan_all(mode: str = "full") -> list[Path]:
 
     # Always pull ≥2 years for budget math; the project_state scanner will
     # snapshot current cumulative, but historical detail helps burn-rate calc.
+    # Incremental recomputes the full window too: each run rewrites every
+    # per-class file, so a "since last scan" pull replaced each project's
+    # totals with one week of transactions (550-1 read $2,495.21 "exact").
+    # The fetch is a few thousand paginated rows, cheap enough to redo nightly.
     if mode == "1yr":
         start_date = (date.today() - timedelta(days=365)).isoformat()
-    elif mode == "incremental":
-        last = get_last_scan("qbo_by_class")
-        start_date = last.strftime("%Y-%m-%d") if last else (
-            date.today() - timedelta(days=730)
-        ).isoformat()
     else:
         start_date = (date.today() - timedelta(days=730)).isoformat()
 
@@ -454,6 +478,12 @@ def scan_all(mode: str = "full") -> list[Path]:
                 "qbo_class_names": serialized["qbo_class_names"],
             }
         )
+
+    # A file this run didn't write has no transactions in the window; left in
+    # place it would report another period's totals as current.
+    for stale in QBO_BY_CLASS_DIR.glob("*.json"):
+        if stale.name != "_index.json" and stale not in written:
+            stale.unlink()
 
     # Index
     index_path = QBO_BY_CLASS_DIR / "_index.json"

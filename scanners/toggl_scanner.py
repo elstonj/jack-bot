@@ -6,11 +6,18 @@ Produces:
   knowledge/toggl/by_project/{project_name}.md  — per-project time history
 
 Modes:
-  full        — all data from 2020-01-01 to now (chunked by month)
-  1yr         — last 365 days (chunked by month)
-  incremental — since last scan timestamp
+  full        — refetch every month from 2020-01-01
+  1yr         — refetch the last 12 months
+  incremental — refetch the current and previous month
+
+Hours are cached per month in .monthly_totals.json and totals are summed in
+code; each refetched month replaces its cached value. Files used to be merged
+by the model from a "since last scan" slice, so totals drifted run to run
+(550-1 went 390.2 -> "390.2+4.8=395.0" -> "396.5+2.0"). The model now writes
+only the narrative, and the totals block is stamped by code.
 """
 
+import json
 import os
 import re
 import time
@@ -33,6 +40,12 @@ TOGGL_BASE = "https://api.track.toggl.com"
 TOGGL_KNOWLEDGE_DIR = KNOWLEDGE_DIR / "toggl"
 BY_PERSON_DIR = TOGGL_KNOWLEDGE_DIR / "by_person"
 BY_PROJECT_DIR = TOGGL_KNOWLEDGE_DIR / "by_project"
+
+MONTHLY_CACHE = TOGGL_KNOWLEDGE_DIR / ".monthly_totals.json"
+NAMES_FILE = TOGGL_KNOWLEDGE_DIR / ".names.json"
+HISTORY_START = date(2020, 1, 1)
+# Detailed entries (descriptions) feed the narrative; totals don't need them.
+NARRATIVE_DAYS = 60
 
 # Toggl allows ~1 request/sec
 REQUEST_DELAY = 1.0
@@ -113,16 +126,20 @@ def _fetch_clients():
 
 
 def _month_chunks(start_date, end_date):
-    """Generate (chunk_start, chunk_end) date pairs, one month each."""
+    """Generate (chunk_start, chunk_end) date pairs, one month each.
+
+    Both ends are inclusive, matching the Reports API v3 (a query for
+    2026-10-01..2026-10-01 returns that day's hours). Chunks used to end on
+    the 1st of the next month, which counted every month boundary twice.
+    """
     chunks = []
     current = start_date
-    while current < end_date:
-        # End of this chunk: start of next month or end_date, whichever is sooner
+    while current <= end_date:
         if current.month == 12:
             next_month = date(current.year + 1, 1, 1)
         else:
             next_month = date(current.year, current.month + 1, 1)
-        chunk_end = min(next_month, end_date)
+        chunk_end = min(next_month - timedelta(days=1), end_date)
         chunks.append((current, chunk_end))
         current = next_month
     return chunks
@@ -205,11 +222,51 @@ def _fetch_detailed_chunk(start_str, end_str):
 # ---------------------------------------------------------------------------
 
 
-def _collect_all_data(start_date, end_date, progress_callback=None):
-    """Collect all Toggl data for the given date range.
+def _load_monthly():
+    """{"YYYY-MM": {user_id: {project_id: seconds}}} from the cache file."""
+    try:
+        raw = json.loads(MONTHLY_CACHE.read_text())
+    except (FileNotFoundError, ValueError):
+        return {}
+    return {
+        month: {int(u): {(None if p == "null" else int(p)): s for p, s in pm.items()}
+                for u, pm in users.items()}
+        for month, users in raw.items()
+    }
+
+
+def _save_monthly(monthly):
+    raw = {
+        month: {str(u): {("null" if p is None else str(p)): s for p, s in pm.items()}
+                for u, pm in users.items()}
+        for month, users in sorted(monthly.items())
+    }
+    MONTHLY_CACHE.parent.mkdir(parents=True, exist_ok=True)
+    MONTHLY_CACHE.write_text(json.dumps(raw, indent=1, sort_keys=True))
+
+
+def _sum_monthly(monthly):
+    """All-time {user_id: {project_id: seconds}}, summed in code."""
+    totals = {}
+    for users in monthly.values():
+        for uid, pm in users.items():
+            for pid, secs in pm.items():
+                totals.setdefault(uid, {})
+                totals[uid][pid] = totals[uid].get(pid, 0) + secs
+    return totals
+
+
+def _collect_all_data(start_date, end_date, progress_callback=None, narrative_start=None):
+    """Refresh monthly totals from start_date and fetch recent detailed entries.
+
+    Each fetched month *replaces* its cached totals, so re-fetching a month
+    never double-counts it, and summary_by_user is the all-time sum computed
+    from the cache, never a model's running total. Detailed entries (for the
+    narrative) are fetched only for months on or after narrative_start.
 
     Returns:
-        dict with keys: users, projects, clients, summary_by_user, detailed_entries
+        dict with keys: users, projects, clients, summary_by_user,
+        previous_summary_by_user, detailed_entries
     """
     print("Fetching Toggl users, projects, and clients...")
     users = _fetch_users()
@@ -230,8 +287,8 @@ def _collect_all_data(start_date, end_date, progress_callback=None):
     chunks = _month_chunks(start_date, end_date)
     print(f"Fetching time data from {start_date} to {end_date} ({len(chunks)} month chunks)...")
 
-    # Accumulate summary per user per project: {user_id: {project_id: total_seconds}}
-    summary_by_user = {}
+    monthly = _load_monthly()
+    previous = _sum_monthly(monthly)
     all_detailed = []
 
     for i, (chunk_start, chunk_end) in enumerate(chunks):
@@ -241,25 +298,27 @@ def _collect_all_data(start_date, end_date, progress_callback=None):
         else:
             print(f"  [{i+1}/{len(chunks)}] {label}")
 
-        # Fetch summary
+        # Fetch summary. A failed month keeps its cached totals.
         try:
             summary_data = _fetch_summary_chunk(chunk_start.isoformat(), chunk_end.isoformat())
+            month = {}
             for group in summary_data.get("groups", []):
                 user_id = group.get("id")
-                if user_id not in summary_by_user:
-                    summary_by_user[user_id] = {}
                 for sub in group.get("sub_groups", []):
                     proj_id = sub.get("id")
-                    seconds = sub.get("seconds", 0)
-                    summary_by_user[user_id][proj_id] = (
-                        summary_by_user[user_id].get(proj_id, 0) + seconds
+                    month.setdefault(user_id, {})
+                    month[user_id][proj_id] = (
+                        month[user_id].get(proj_id, 0) + sub.get("seconds", 0)
                     )
+            monthly[label] = month
         except Exception as e:
             print(f"    [WARN] Summary fetch failed for {label}: {e}")
 
         time.sleep(REQUEST_DELAY)
 
         # Fetch detailed entries
+        if narrative_start and chunk_end < narrative_start:
+            continue
         try:
             detailed = _fetch_detailed_chunk(chunk_start.isoformat(), chunk_end.isoformat())
             all_detailed.extend(detailed)
@@ -268,13 +327,21 @@ def _collect_all_data(start_date, end_date, progress_callback=None):
 
         time.sleep(REQUEST_DELAY)
 
+    _save_monthly(monthly)
+    # Names for the cached ids, so offline consumers (cost tracker) can read
+    # hours per person per project without calling Toggl.
+    NAMES_FILE.write_text(json.dumps({
+        "users": {str(u): v["name"] for u, v in users.items()},
+        "projects": {str(p): v["name"] for p, v in projects.items()},
+    }, indent=1, sort_keys=True))
     print(f"  Collected {len(all_detailed)} detailed time entries")
 
     return {
         "users": users,
         "projects": projects,
         "clients": clients,
-        "summary_by_user": summary_by_user,
+        "summary_by_user": _sum_monthly(monthly),
+        "previous_summary_by_user": previous,
         "detailed_entries": all_detailed,
     }
 
@@ -293,7 +360,7 @@ def _format_person_data(user_id, user_info, summary_by_user, detailed_entries, p
     # Summary by project
     user_projects = summary_by_user.get(user_id, {})
     total_seconds = sum(user_projects.values())
-    lines.append(f"Tracked time in this data batch: {total_seconds / 3600:.1f} hours\n")
+    lines.append(f"All-time tracked hours (computed from monthly totals since {HISTORY_START}; authoritative, do not recompute): {total_seconds / 3600:.1f} hours\n")
 
     if user_projects:
         lines.append("TIME BY PROJECT:")
@@ -351,7 +418,7 @@ def _format_project_data(proj_id, proj_info, summary_by_user, detailed_entries, 
             user_hours[user_name] = seconds / 3600
             total_seconds += seconds
 
-    lines.append(f"Tracked time in this data batch: {total_seconds / 3600:.1f} hours\n")
+    lines.append(f"All-time tracked hours (computed from monthly totals since {HISTORY_START}; authoritative, do not recompute): {total_seconds / 3600:.1f} hours\n")
 
     if user_hours:
         lines.append("TIME BY TEAM MEMBER:")
@@ -487,90 +554,120 @@ def scan_all(mode="full", progress_callback=None):
         print("[ERROR] TOGGL_WORKSPACE_ID not set")
         return []
 
-    # Determine date range
-    if mode == "incremental":
-        last = get_last_scan("toggl")
-        if last:
-            start_date = last.date()
-            print(f"Incremental mode: scanning changes since {start_date}")
-        else:
-            print("No previous scan found — falling back to full scan")
-            mode = "full"
-
-    if mode == "full":
-        start_date = date(2020, 1, 1)
-    elif mode == "1yr":
-        start_date = date.today() - timedelta(days=365)
-
+    # Months to refetch. Every other month comes from the cache unchanged.
     end_date = date.today()
+    first_of_month = end_date.replace(day=1)
+    if mode == "incremental" and not MONTHLY_CACHE.exists():
+        print("No monthly cache yet — backfilling from full history")
+        mode = "full"
+    if mode == "full":
+        start_date = HISTORY_START
+    elif mode == "1yr":
+        start_date = (first_of_month - timedelta(days=335)).replace(day=1)
+    else:
+        start_date = (first_of_month - timedelta(days=1)).replace(day=1)
+    narrative_start = end_date - timedelta(days=NARRATIVE_DAYS)
 
-    # Collect all data
-    data = _collect_all_data(start_date, end_date, progress_callback)
+    data = _collect_all_data(start_date, end_date, progress_callback,
+                             narrative_start=narrative_start)
 
     users = data["users"]
     projects = data["projects"]
     summary_by_user = data["summary_by_user"]
+    previous = data["previous_summary_by_user"]
     detailed_entries = data["detailed_entries"]
+    as_of = end_date.isoformat()
+
+    def project_total(totals, proj_id):
+        return sum(pm.get(proj_id, 0) for pm in totals.values())
 
     output_paths = []
 
     # --- Per-person knowledge files ---
+    # Rebuilt only when that person's totals changed (or the file is missing).
     print("\nDistilling per-person knowledge files...")
-    persons_with_data = [
-        uid for uid in users
-        if summary_by_user.get(uid) or any(e.get("user_id") == uid for e in detailed_entries[:100])
-    ]
+    persons_with_data = [uid for uid in users if summary_by_user.get(uid)]
     for i, user_id in enumerate(persons_with_data):
         user_info = users[user_id]
         name = user_info["name"]
+        output_path = BY_PERSON_DIR / (_safe_filename(name) + ".md")
+        if summary_by_user.get(user_id) == previous.get(user_id) and output_path.exists():
+            continue
         print(f"  [{i+1}/{len(persons_with_data)}] {name}")
 
         raw_text = _format_person_data(user_id, user_info, summary_by_user, detailed_entries, projects)
-
-        # For very small data, write directly
-        user_total = sum(summary_by_user.get(user_id, {}).values())
-        filename = _safe_filename(name) + ".md"
-        output_path = BY_PERSON_DIR / filename
-
-        if user_total == 0:
-            simple = f"# {name} — Time Tracking\n\nNo tracked time in the scanned period.\n"
-            write_knowledge_file(output_path, simple)
-        else:
-            distill_to_markdown(raw_text, PERSON_DISTILL_PROMPT, output_path, max_tokens=1500)
-
-        output_paths.append(output_path)
+        hours = sum(summary_by_user[user_id].values()) / 3600
+        stamp = (f"_Computed from Toggl as of {as_of}: {hours:.1f} h tracked since "
+                 f"{HISTORY_START}._\n\n")
+        content = distill_to_markdown(raw_text, PERSON_DISTILL_PROMPT, output_path,
+                                      max_tokens=1500, merge=False)
+        if content is not None:
+            write_knowledge_file(output_path, stamp + content)
+            output_paths.append(output_path)
         time.sleep(1)  # Pace Claude calls
 
     # --- Per-project knowledge files ---
     print("\nDistilling per-project knowledge files...")
-    projects_with_data = []
-    for proj_id in projects:
-        total = sum(
-            proj_map.get(proj_id, 0) for proj_map in summary_by_user.values()
-        )
-        if total > 0:
-            projects_with_data.append(proj_id)
+    # Toggl projects whose names differ only in case ("[550-1] Navy SBIR" and
+    # "[550-1] NAVY SBIR") share one filename; each used to overwrite the
+    # other, so 550-1's file showed 100 h of its 933.9 h. Group them and write
+    # one combined file under the first project's id.
+    groups = {}
+    for pid in projects:
+        if project_total(summary_by_user, pid) > 0:
+            groups.setdefault(_safe_filename(projects[pid]["name"]) + ".md", []).append(pid)
 
-    for i, proj_id in enumerate(projects_with_data):
-        proj_info = projects[proj_id]
+    def merged(totals, pids, rep):
+        return {u: {**pm, rep: sum(pm.get(p, 0) for p in pids)} for u, pm in totals.items()}
+
+    for i, (filename, pids) in enumerate(sorted(groups.items())):
+        rep = pids[0]
+        proj_info = projects[rep]
         name = proj_info["name"]
-        print(f"  [{i+1}/{len(projects_with_data)}] {name}")
-
-        raw_text = _format_project_data(proj_id, proj_info, summary_by_user, detailed_entries, users)
-
-        filename = _safe_filename(name) + ".md"
         output_path = BY_PROJECT_DIR / filename
+        current, before = merged(summary_by_user, pids, rep), merged(previous, pids, rep)
+        unchanged = all(
+            current.get(u, {}).get(rep, 0) == before.get(u, {}).get(rep, 0)
+            for u in set(current) | set(before)
+        )
+        if unchanged and output_path.exists():
+            continue
+        print(f"  [{i+1}/{len(groups)}] {name}" + (f" (+{len(pids) - 1} same-name)" if len(pids) > 1 else ""))
 
-        distill_to_markdown(raw_text, PROJECT_DISTILL_PROMPT, output_path, max_tokens=1500)
-        output_paths.append(output_path)
+        entries = [dict(e, project_id=rep) if e.get("project_id") in pids else e
+                   for e in detailed_entries]
+        raw_text = _format_project_data(rep, proj_info, current, entries, users)
+        by_member = sorted(
+            ((users.get(u, {}).get("name", f"User {u}"), pm.get(rep, 0) / 3600)
+             for u, pm in current.items() if pm.get(rep)),
+            key=lambda x: -x[1],
+        )
+        stamp = (f"_Computed from Toggl as of {as_of}: "
+                 f"{project_total(current, rep) / 3600:.1f} h total since "
+                 f"{HISTORY_START} — "
+                 + ", ".join(f"{n} {h:.1f} h" for n, h in by_member) + "._\n\n")
+        content = distill_to_markdown(raw_text, PROJECT_DISTILL_PROMPT, output_path,
+                                      max_tokens=1500, merge=False)
+        if content is not None:
+            write_knowledge_file(output_path, stamp + content)
+            output_paths.append(output_path)
         time.sleep(1)
 
     # --- Overall summary ---
     print("\nDistilling overall summary...")
-    summary_lines = _build_summary_raw(users, projects, summary_by_user, detailed_entries, start_date, end_date)
+    summary_lines = _build_summary_raw(users, projects, summary_by_user, detailed_entries,
+                                       HISTORY_START, end_date)
     summary_path = TOGGL_KNOWLEDGE_DIR / "summary.md"
-    distill_to_markdown(summary_lines, SUMMARY_DISTILL_PROMPT, summary_path, max_tokens=2000)
-    output_paths.append(summary_path)
+    grand = sum(sum(pm.values()) for pm in summary_by_user.values()) / 3600
+    content = distill_to_markdown(summary_lines, SUMMARY_DISTILL_PROMPT, summary_path,
+                                  max_tokens=2000, merge=False)
+    if content is not None:
+        write_knowledge_file(
+            summary_path,
+            f"_Computed from Toggl as of {as_of}: {grand:.1f} h tracked since {HISTORY_START}._\n\n"
+            + content,
+        )
+        output_paths.append(summary_path)
 
     update_scan_timestamp("toggl")
     print(f"\nToggl scan complete. Wrote {len(output_paths)} knowledge files.")

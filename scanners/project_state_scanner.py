@@ -361,7 +361,8 @@ def _toggl_hours_by_project(months_back: int = TOGGL_LOOKBACK_MONTHS) -> dict[st
                 headers=_toggl_headers(),
                 json={
                     "start_date": cursor.isoformat(),
-                    "end_date": (end + timedelta(days=1)).isoformat(),
+                    # Inclusive in Reports v3; end + 1 counted the 1st twice.
+                    "end_date": end.isoformat(),
                     "grouping": "projects",
                     "sub_grouping": "users",
                 },
@@ -384,6 +385,8 @@ def _toggl_hours_by_project(months_back: int = TOGGL_LOOKBACK_MONTHS) -> dict[st
         projects_resp = requests.get(
             f"{TOGGL_BASE}/api/v9/workspaces/{wid}/projects",
             headers=_toggl_headers(),
+            # Archived projects too, or their hours never match a code.
+            params={"active": "both"},
             timeout=15,
         )
         projects_resp.raise_for_status()

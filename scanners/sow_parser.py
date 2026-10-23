@@ -226,7 +226,15 @@ def _extract_terms_from_text(combined_text: str) -> Optional[dict]:
         raw = msg.content[0].text.strip()
         # Be forgiving if model wraps in fences despite instructions
         raw = re.sub(r"^```(?:json)?\s*|\s*```$", "", raw, flags=re.MULTILINE).strip()
-        return json.loads(raw)
+        terms = json.loads(raw)
+        # Haiku sometimes wraps the object in an array; callers expect a dict
+        # and used to crash on terms.get(), dropping the project's SOW data.
+        if isinstance(terms, list):
+            dicts = [t for t in terms if isinstance(t, dict)]
+            terms = dicts[0] if len(dicts) == 1 else None
+            if terms is None:
+                print(f"    [WARN] SOW extraction returned {len(dicts)} objects; skipping")
+        return terms if isinstance(terms, dict) else None
     except json.JSONDecodeError as e:
         print(f"    [WARN] SOW JSON parse failed: {e}; raw={raw[:200]!r}")
         return None

@@ -9,6 +9,8 @@ import os
 import re
 import glob
 import json
+import time
+from datetime import datetime
 import anthropic
 
 KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), "knowledge")
@@ -23,6 +25,14 @@ Rules:
 - Use Slack formatting: *bold* for emphasis, bullet points with • for lists
 - Do not invent or assume information not present in the files
 - When referencing projects, include the project number (e.g. 001-07)
+- TEAM CORRECTIONS override the knowledge files. If a correction says a task is done, a date \
+moved, or a figure is wrong, answer from the correction even when a file says otherwise, and \
+when two corrections conflict the newer one wins
+- When files disagree on a money figure, use the "Authoritative figures" block (computed in \
+code, at the top of financial files and in financial/costs). Quote it with its source and \
+confidence label; never present a "placeholder" or "estimate" figure as exact
+- Knowledge files carry as-of dates ("snapshot as of", "computed ... as of", "Knowledge as of"). \
+When a figure comes from a file more than a week old, say how current it is
 - If the user message includes an `ASKER:` block identifying who is asking, treat first-person \
 pronouns ("I", "me", "my", "mine") as referring exactly to that person. Never address the asker \
 by a different name, and never answer as if a different person were asking. If you don't know \
@@ -50,6 +60,7 @@ that slip through."""
 # Appended rather than inlined so there is exactly one copy of these facts. If
 # the pipeline's reach changes, provenance.FACTS is the single place to fix it.
 from provenance import FACTS as _PROVENANCE_FACTS  # noqa: E402
+from privacy_guard import is_personnel_record  # noqa: E402
 
 QA_SYSTEM_PROMPT += "\n\n=== DATA ACCESS ===\n" + _PROVENANCE_FACTS
 
@@ -350,10 +361,68 @@ def _match_purchase_context(question, max_files=3, max_entries=15):
     return "\n".join(lines)
 
 
+def _has_kw(q, keywords):
+    """True if any keyword occurs in q as a whole word or phrase.
+
+    Plain substring tests fired on fragments: "rate" on accurate/generate,
+    "time" on sometime, "s2" inside part numbers, "who" on whole.
+    """
+    return any(re.search(r"(?<![a-z0-9])" + re.escape(kw.strip()) + r"(?![a-z0-9])", q)
+               for kw in keywords)
+
+
+_CODE_RE = re.compile(r"(?<!\d)(\d{3})[-_ ](\d{1,2})(?!\d)")
+
+
+def _match_code_files(question_lower):
+    """Files whose name carries a project code from the question (550-1, 001_14).
+
+    Matches every naming scheme in knowledge/ (financial/by_project/550_1.md,
+    budgets/project_550_1.md, asana/projects/550-1_*.md, projects/001_14.md)
+    and tolerates a leading zero on the second part.
+    """
+    matches = []
+    for a, b in _CODE_RE.findall(question_lower):
+        pat = re.compile(rf"(?<!\d){a}[-_ ]0?{int(b)}(?!\d)")
+        for sub in ("financial/by_project", "financial/costs", "budgets",
+                    "asana/projects", "projects", "quickbooks/by_project",
+                    "toggl/by_project"):
+            for fpath in sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, sub, "*.md"))):
+                if pat.search(os.path.basename(fpath)):
+                    matches.append(fpath)
+    return matches
+
+
+def _match_proposal_files(question_lower, limit=15):
+    """Proposals whose filename shares a distinctive word with the question."""
+    stop = {"the", "and", "for", "what", "has", "have", "been", "with", "that",
+            "this", "our", "are", "was", "used", "proposal", "proposals",
+            "report", "about", "from", "any", "can", "how", "who", "when"}
+    words = [w for w in re.findall(r"[a-z0-9]+", question_lower)
+             if len(w) >= 3 and w not in stop]
+    if not words:
+        return []
+    scored = []
+    for fpath in glob.glob(os.path.join(KNOWLEDGE_DIR, "proposals", "*.md")):
+        name = os.path.basename(fpath).lower()
+        hits = sum(1 for w in words if w in name)
+        if hits:
+            scored.append((-hits, name, fpath))
+    return [f for _, _, f in sorted(scored)[:limit]]
+
+
 def select_files(question, channel_files=None):
     """Determine which knowledge files are relevant to the question."""
     q = question.lower()
-    files = list(channel_files) if channel_files else []
+    # Load order is priority order: _build_context fills to MAX_CONTEXT_CHARS
+    # and drops the rest. Files named by the question or the channel come
+    # first, then summaries, then whole-directory sweeps; the sweeps used to
+    # come first and pushed the one relevant file past the cap (550-1's
+    # budget file landed at index 2697 behind every proposal).
+    specific = list(channel_files) if channel_files else []
+    specific.extend(_match_code_files(q))
+    files = []
+    broad = []
 
     # --- Category-based routing ---
 
@@ -361,7 +430,7 @@ def select_files(question, channel_files=None):
     contact_keywords = ["contact", "who", "email", "phone", "nasa", "noaa",
                         "navy", "usgs", "creare", "erau", "instaar", "oklahoma",
                         "barbados", "directory", "talk to", "reach out", "krateo"]
-    if any(kw in q for kw in contact_keywords):
+    if _has_kw(q, contact_keywords):
         # Enriched contacts first (has cross-source context)
         enriched = os.path.join(KNOWLEDGE_DIR, "contacts", "enriched.md")
         if os.path.exists(enriched):
@@ -379,20 +448,21 @@ def select_files(question, channel_files=None):
     # Time tracking
     time_keywords = ["time", "hours", "toggl", "tracked", "tracking", "logged",
                      "utilization", "timesheet"]
-    if any(kw in q for kw in time_keywords):
+    if _has_kw(q, time_keywords):
         ts = os.path.join(KNOWLEDGE_DIR, "toggl", "summary.md")
         if os.path.exists(ts):
             files.append(ts)
-        files.extend(_match_toggl_files(q))
+        toggl_matches = _match_toggl_files(q)
+        specific.extend(toggl_matches)
         # If no specific matches, load all toggl
-        if len(files) <= 1:
-            files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "toggl", "by_person", "*.md"))))
-            files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "toggl", "by_project", "*.md"))))
+        if not toggl_matches:
+            broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "toggl", "by_person", "*.md"))))
+            broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "toggl", "by_project", "*.md"))))
 
     # Team / people / staff
     team_keywords = ["team", "people", "staff", "employee", "employees", "member",
                      "members", "headcount"]
-    if any(kw in q for kw in team_keywords):
+    if _has_kw(q, team_keywords):
         d = os.path.join(KNOWLEDGE_DIR, "contacts", "directory.md")
         ts = os.path.join(KNOWLEDGE_DIR, "toggl", "summary.md")
         if os.path.exists(d):
@@ -403,12 +473,12 @@ def select_files(question, channel_files=None):
     # Slack / channel / discussion
     slack_keywords = ["slack", "channel", "discussion", "conversation", "thread",
                       "mentioned", "message"]
-    if any(kw in q for kw in slack_keywords):
+    if _has_kw(q, slack_keywords):
         slack_matches = _match_slack_files(q)
         if slack_matches:
-            files.extend(slack_matches)
+            specific.extend(slack_matches)
         else:
-            files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "slack", "*.md"))))
+            broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "slack", "*.md"))))
 
     # Proposals / reports / products / capabilities
     proposal_keywords = ["proposal", "rfp", "rfi", "report", "deliverable", "white paper",
@@ -418,25 +488,26 @@ def select_files(question, channel_files=None):
                          "technical approach", "cite", "example", "tone", "paragraph",
                          "describe", "description", "what is", "what has", "what can",
                          "been used for", "been proposed"]
-    if any(kw in q for kw in proposal_keywords):
+    if _has_kw(q, proposal_keywords):
         catalog = os.path.join(KNOWLEDGE_DIR, "proposals", "catalog.md")
         if os.path.exists(catalog):
             files.append(catalog)
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "proposals", "*.md"))))
+        # Never the whole directory (2,500+ files); the catalog indexes it.
+        specific.extend(_match_proposal_files(q))
 
     # Drive / documents
     drive_keywords = ["drive", "file", "document", "folder", "shared", "google drive"]
-    if any(kw in q for kw in drive_keywords):
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "drive", "*.md"))))
+    if _has_kw(q, drive_keywords):
+        broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "drive", "*.md"))))
 
     # Email
     email_keywords = ["email", "inbox", "mail", "sent"]
-    if any(kw in q for kw in email_keywords):
+    if _has_kw(q, email_keywords):
         email_matches = _match_email_files(q)
         if email_matches:
-            files.extend(email_matches)
+            specific.extend(email_matches)
         else:
-            files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
+            broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
 
     # Budget / contract / money / financials / costs / spending
     budget_keywords = ["budget", "contract", "dollar", "money", "value", "cost",
@@ -446,11 +517,11 @@ def select_files(question, channel_files=None):
                        "quickbooks", "qbo", "financial", "billing",
                        "approved budget", "proposed budget", "current budget",
                        "how much", "labor", "hours", "rate"]
-    if any(kw in q for kw in budget_keywords):
+    if _has_kw(q, budget_keywords):
         # Cost tracking files (actual spend: labor + materials + subs)
         costs_dir = os.path.join(KNOWLEDGE_DIR, "financial", "costs")
         if os.path.isdir(costs_dir):
-            files.extend(sorted(glob.glob(os.path.join(costs_dir, "*.md"))))
+            broad.extend(sorted(glob.glob(os.path.join(costs_dir, "*.md"))))
 
         # Prefer merged financial index files (cross-referenced data)
         fin_overview = os.path.join(KNOWLEDGE_DIR, "financial", "overview.md")
@@ -458,7 +529,7 @@ def select_files(question, channel_files=None):
             files.append(fin_overview)
         fin_project_dir = os.path.join(KNOWLEDGE_DIR, "financial", "by_project")
         if os.path.isdir(fin_project_dir):
-            files.extend(sorted(glob.glob(os.path.join(fin_project_dir, "*.md"))))
+            broad.extend(sorted(glob.glob(os.path.join(fin_project_dir, "*.md"))))
 
         # Also load raw source summaries for additional context
         budget_summary = os.path.join(KNOWLEDGE_DIR, "budgets", "summary.md")
@@ -469,28 +540,26 @@ def select_files(question, channel_files=None):
             files.append(qbo_summary)
 
         # Load raw per-source files for project-specific queries
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "budgets", "*.md"))))
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "quickbooks", "by_project", "*.md"))))
+        broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "budgets", "*.md"))))
+        broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "quickbooks", "by_project", "*.md"))))
 
         # Also load Asana project context
         summary = os.path.join(KNOWLEDGE_DIR, "asana", "summary.md")
         if os.path.exists(summary):
             files.append(summary)
-        files.extend(_match_project_files(q))
+        specific.extend(_match_project_files(q))
 
     # Projects / Asana (broad)
     project_keywords = ["project", "asana", "milestone", "deadline", "deliverable",
                         "sbir", "irad", "swiftcore", "hurricane", "volcano",
                         "magnetometer", "autonomy", "vtol", "methane", "aeropod"]
-    if any(kw in q for kw in project_keywords):
+    if _has_kw(q, project_keywords):
         summary = os.path.join(KNOWLEDGE_DIR, "asana", "summary.md")
         if os.path.exists(summary):
             files.append(summary)
-        project_matches = _match_project_files(q)
-        if project_matches:
-            files.extend(project_matches)
+        specific.extend(_match_project_files(q))
         # Also check slack for matching project channels
-        files.extend(_match_slack_files(q))
+        specific.extend(_match_slack_files(q))
 
     # Meetings — internal meeting notes (decisions, action items, build status).
     # Load when the question is about meetings/decisions/builds/demos, or match
@@ -502,20 +571,20 @@ def select_files(question, channel_files=None):
     meetings_dir = os.path.join(KNOWLEDGE_DIR, "meetings")
     if os.path.isdir(meetings_dir):
         meeting_files = sorted(glob.glob(os.path.join(meetings_dir, "*.md")))
-        if any(kw in q for kw in meeting_keywords):
-            files.extend(meeting_files)
+        if _has_kw(q, meeting_keywords):
+            broad.extend(meeting_files)
         else:
             words = [w for w in re.findall(r'[a-z0-9]+', q) if len(w) >= 3]
             for fpath in meeting_files:
                 fname = os.path.basename(fpath).lower().replace(".md", "")
                 if any(word in fname for word in words):
-                    files.append(fpath)
+                    specific.append(fpath)
 
     # Always try name-based matching on project files, registry, toggl, and financials
-    files.extend(_match_project_files(q))
-    files.extend(_match_toggl_files(q))
-    files.extend(_match_email_files(q))
-    files.extend(_match_financial_files(q))
+    specific.extend(_match_project_files(q))
+    specific.extend(_match_toggl_files(q))
+    specific.extend(_match_email_files(q))
+    specific.extend(_match_financial_files(q))
 
     # Project registry — always include for people/company/contact questions
     registry = os.path.join(KNOWLEDGE_DIR, "projects", "registry.md")
@@ -529,11 +598,11 @@ def select_files(question, channel_files=None):
             words = [w for w in re.findall(r'[a-z0-9]+', q) if len(w) >= 3]
             for word in words:
                 if word in fname:
-                    files.append(fpath)
+                    specific.append(fpath)
                     break
 
     # --- Fallback: if nothing matched, load summaries from each source ---
-    if not files:
+    if not (specific or files or broad):
         for summary_path in [
             os.path.join(KNOWLEDGE_DIR, "asana", "summary.md"),
             os.path.join(KNOWLEDGE_DIR, "toggl", "summary.md"),
@@ -543,17 +612,90 @@ def select_files(question, channel_files=None):
             if os.path.exists(summary_path):
                 files.append(summary_path)
         # Add all slack summaries (they're small channel overviews)
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "slack", "*.md"))))
-        files.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
+        broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "slack", "*.md"))))
+        broad.extend(sorted(glob.glob(os.path.join(KNOWLEDGE_DIR, "email", "*.md"))))
 
     # Deduplicate while preserving order
     seen = set()
     unique = []
-    for f in files:
+    for f in specific + files + broad:
         if f not in seen and os.path.exists(f):
             seen.add(f)
             unique.append(f)
     return unique
+
+
+_TASK_STATE_KEYWORDS = ["task", "tasks", "open", "overdue", "due", "assigned", "assignee",
+                        "milestone", "milestones", "deadline", "done", "complete",
+                        "completed", "closed", "status", "todo", "to do", "blocked"]
+
+# Words that mark a question as being about company data. Those never go to
+# the persona: an empty answer there must say so, not be improvised in character.
+_DATA_KEYWORDS = ["budget", "contract", "invoice", "spend", "spent", "cost", "costs",
+                  "revenue", "expense", "expenses", "funding", "money", "dollar", "price",
+                  "quote", "po", "purchase", "hours", "toggl", "project", "projects",
+                  "milestone", "deadline", "deliverable", "customer", "contact",
+                  "proposal", "report", "payment", "paid", "owe", "remaining",
+                  "burn", "labor", "shipping", "shipped", "order"] + _TASK_STATE_KEYWORDS
+
+
+def _is_data_question(question):
+    q = (question or "").lower()
+    return bool(_CODE_RE.search(q) or "$" in q or _has_kw(q, _DATA_KEYWORDS))
+
+
+CORRECTION_DAYS = 365
+_CORRECTIONS_TTL = 600
+_corrections_cache = {"at": 0.0, "entries": []}
+
+
+def _entry_date(entry):
+    try:
+        return datetime.fromtimestamp(float(entry.get("ts", 0))).strftime("%Y-%m-%d")
+    except (TypeError, ValueError):
+        return "????-??-??"
+
+
+def _knowledge_channel_context(slack_client, question):
+    """CORRECTION entries (a year, relevant ones first) + recent FEEDBACK/INSIGHT.
+
+    Corrections used to share 20 slots with FEEDBACK and INSIGHT over 30 days,
+    undated and unranked, and the prompt never said they outrank the files.
+    #operations replies and task-write audits are FEEDBACK, so their volume
+    pushed real corrections out, and a correction older than 30 days vanished
+    unless a scanner had folded it into a file.
+    """
+    from knowledge import get_knowledge
+
+    now = time.time()
+    if now - _corrections_cache["at"] > _CORRECTIONS_TTL:
+        _corrections_cache["entries"] = get_knowledge(
+            slack_client, ["CORRECTION"], days=CORRECTION_DAYS)
+        _corrections_cache["at"] = now
+    corrections = list(_corrections_cache["entries"])
+    recent = get_knowledge(slack_client, ["FEEDBACK", "INSIGHT"], days=30)
+
+    q = (question or "").lower()
+    codes = {f"{a}-{int(b)}" for a, b in _CODE_RE.findall(q)}
+    words = {w for w in re.findall(r"[a-z0-9]+", q) if len(w) >= 4}
+
+    def relevance(entry):
+        text = entry["content"].lower().replace("_", "-")
+        code_hit = any(re.search(rf"(?<!\d){c.split('-')[0]}-0?{c.split('-')[1]}(?!\d)", text)
+                       for c in codes)
+        return (code_hit, sum(1 for w in words if w in text))
+
+    corrections.sort(key=lambda e: (relevance(e), e.get("ts", "")), reverse=True)
+    lines = []
+    if corrections:
+        lines.append("=== TEAM CORRECTIONS (authoritative; newest wins on conflict) ===")
+        for entry in corrections[:30]:
+            lines.append(f"[{_entry_date(entry)}] {entry['content']}")
+    if recent:
+        lines.append("=== RECENT FEEDBACK & INSIGHTS ===")
+        for entry in recent[-12:]:
+            lines.append(f"[{entry['type']} {_entry_date(entry)}] {entry['content']}")
+    return "\n".join(lines)
 
 
 def _build_context(files):
@@ -567,6 +709,9 @@ def _build_context(files):
             break
         content = _read_file(fpath, max_chars=remaining)
         if not content.strip():
+            continue
+        # Payroll/HR records live among the proposals; never quote them.
+        if is_personnel_record(os.path.basename(fpath), content):
             continue
         label = _file_label(fpath)
         section = f"--- FILE: {label} ---\n{content}\n"
@@ -925,17 +1070,12 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
     channel_files = _files_from_channel_context(channel_context)
     project_context = _project_context_blurb(channel_context)
 
-    # Pull in recent knowledge channel entries (corrections, insights, feedback)
+    # Team corrections outrank the knowledge files, so they get their own
+    # block, a year of history and dates; feedback/insights stay recent.
     knowledge_context = ""
     if slack_client:
         try:
-            from knowledge import get_knowledge
-            recent = get_knowledge(slack_client, ["CORRECTION", "FEEDBACK", "INSIGHT"], days=30)
-            if recent:
-                lines = ["=== RECENT KNOWLEDGE CHANNEL ENTRIES ==="]
-                for entry in recent[-20:]:
-                    lines.append(f"[{entry['type']}] {entry['content']}")
-                knowledge_context = "\n".join(lines)
+            knowledge_context = _knowledge_channel_context(slack_client, question)
         except Exception:
             pass
 
@@ -978,6 +1118,19 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
         return "I don't have any knowledge files loaded yet. The knowledge directory may be empty."
 
     context = _build_context(files) if files else ""
+
+    # Task-state questions in a project channel read live Asana first. The
+    # asana/ files are nightly snapshots, and a stale one gave a confident
+    # wrong task list that never tripped the "unhelpful answer" live fallback.
+    project_gid = (channel_context or {}).get("project_gid")
+    if project_gid and _has_kw((question or "").lower(), _TASK_STATE_KEYWORDS):
+        try:
+            live_tasks = _search_asana("", project_gid=project_gid)
+            if live_tasks:
+                context = (f"=== LIVE ASANA (fetched now; overrides asana/ knowledge files) ===\n"
+                           f"{live_tasks}\n\n{context}")
+        except Exception:
+            pass
 
     if not context.strip() and not purchase_context:
         return "I found matching knowledge files but they appear to be empty."
@@ -1088,10 +1241,13 @@ def answer_question(question, slack_client=None, channel_id=None, channel_contex
                     if not _unhelpful(answer2):
                         return answer2
 
-            # Knowledge + live search both empty: let the persona take it.
-            fallback = _personality_fallback()
-            if fallback:
-                return fallback
+            # Knowledge + live search both empty. Banter goes to the persona;
+            # a company-data question gets the honest "no info" answer, since
+            # the persona would improvise one.
+            if not _is_data_question(question):
+                fallback = _personality_fallback()
+                if fallback:
+                    return fallback
 
         return answer
     except Exception as e:
