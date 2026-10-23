@@ -24,11 +24,11 @@ if [ -f "$UPLOADED" ] && cmp -s "$EXPORT_DIR/.digest" "$UPLOADED"; then
     exit 0
 fi
 
-PROMPT="$(sed "s#EXPORT_DIR#$EXPORT_DIR#g" scripts/claude_project_sync_prompt.md)"
-OUTPUT="$("$CLAUDE_BIN" -p --chrome \
-    --allowedTools "mcp__claude-in-chrome__*" \
-    --add-dir "$EXPORT_DIR" \
-    "$PROMPT" 2>&1)" || true
+# Prompt goes on stdin: --add-dir is variadic and would swallow a positional.
+OUTPUT="$(sed "s#EXPORT_DIR#$EXPORT_DIR#g" scripts/claude_project_sync_prompt.md \
+    | "$CLAUDE_BIN" -p --chrome \
+        --allowedTools "mcp__claude-in-chrome__*" \
+        --add-dir "$EXPORT_DIR" 2>&1)" || true
 echo "$OUTPUT"
 
 if [ "$(printf '%s\n' "$OUTPUT" | grep -v '^\s*$' | tail -1)" = "SYNC_OK" ]; then
