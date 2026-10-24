@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 22, 2026) reflects ongoing facility maintenance and facility safety issue detection, continued recognition of hiring coordination efforts, and operational continuity.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 23, 2026) reflects ongoing high-volume procurement/purchasing activity and operational continuity.
 
 ---
 
@@ -55,4 +55,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
   1. Team members request purchases from Beck Cotter (she either processes or provides card)
   2. Purchase request forms still required in Asana for tracking and documentation purposes
   3. Meredith will no longer need to track down purchase justifications post-hoc
-- **October
+- **October 23, 2026:** High-volume purchasing activity underway. Joshua Fromm acknowledged Beck Cotter managing "a zillion orders" during the week, indicating increased procurement demand and successful delegation of purchasing responsibilities working as intended.
+
+---
+
+## Recent Activity
+
+**October 23, 2026:** Joshua Fromm publicly acknowledged Beck Cotter's efforts in handling exceptionally high purchase order volume during the week, indicating strong operational execution on recently delegated procurement authority.

@@ -3,53 +3,40 @@
 ## By Product/System
 
 ### S0 (Air-Deployed UAS)
-- **S0 UAS System Integration v2** — Multiple clients (NOAA, USAF, USSOCOM, UK MoD) | Technical Integration Reference | Host-aircraft integration specifications for Black Swift S0 air-deployed UAS platform (s0_uas_system_integration_v2.md)
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Meeting agenda for WC-130J integration planning with S0 air-deployed UAS system (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
 
-### S2
-*No documents provided*
+### S0-AD
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | WC-130J integration planning including S0-AD variant (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
 
-### S3
-*No documents provided*
-
-### SwiftCore
-*No documents provided*
-
-### MultiScat
-*No documents provided*
-
-### AeroPod
-*No documents provided*
+### SwiftTab
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Ground station operator interface for WC-130J mission operations (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
 
 ---
 
 ## By Client/Agency
 
+### U.S. Air Force (AFMC/AFLCMC)
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Facility visit and WC-130J integration planning (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
+
+### NCAR (National Center for Atmospheric Research)
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Facility visit and WC-130J meteorological integration (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
+
 ### NOAA
-- **S0 UAS System Integration v2** — Operational deployment baseline on WP-3D Orion aircraft (N42RF, N43RF) (s0_uas_system_integration_v2.md)
-
-### USAF/AFRC
-- **S0 UAS System Integration v2** — 53rd Weather Reconnaissance Squadron; AFX255-DPCSO1 Direct-to-Phase program (s0_uas_system_integration_v2.md)
-
-### USSOCOM
-- **S0 UAS System Integration v2** — Collaborative Research and Development Agreement (CRADA) (s0_uas_system_integration_v2.md)
-
-### UK MoD / Royal Navy
-- **S0 UAS System Integration v2** — Proposed platform integration (s0_uas_system_integration_v2.md)
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Collaboration on WC-130J meteorological data collection (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
 
 ---
 
 ## By Application Area
 
-### Weather Reconnaissance & Atmospheric Operations
-- **S0 UAS System Integration v2** — Air-deployed UAS for weather reconnaissance missions (s0_uas_system_integration_v2.md)
+### Meteorological Data Collection & Weather Operations
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | WC-130J integration for airborne meteorological reconnaissance (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
+
+### Military Operations & Strategic Planning
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | USAF platform integration and operational capability assessment (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)
 
 ---
 
 ## By Document Type
 
-### Technical Integration Reference / Engineering Specification
-- **S0 UAS System Integration v2** — Host-aircraft integration reference for S0 platform (s0_uas_system_integration_v2.md)
-
----
-
-**Note:** Only one document provided. Catalog ready for expansion as additional BST proposals, reports, and technical documents are added.
+### Meeting Agendas & Facility Visit Plans
+- **BST – AFMC & NCAR Visit Agenda (Nov 17, 2026)** | AFMC/AFLCMC, NCAR, NOAA | Nov 17, 2026 | Structured agenda for multi-agency facility visit and technical briefings (bst_afmc_ncar_visit_agenda_nov_17_2026_draft.md)

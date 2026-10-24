@@ -1,7 +1,6 @@
 # Sales — Shared Drive
 
-Small drive with 3 files.
+Small drive with 2 files.
 
-- UHouston_S3 (modified 2026-10-21)
-- Platform components by cost and origin (modified 2026-10-21)
-- Sales quote (modified 2026-10-19)
+- UHouston_S3 (modified 2026-10-23)
+- BST – UK RAVEN Visit Agenda (Nov 2–5, 2026) – DRAFT (modified 2026-10-23)

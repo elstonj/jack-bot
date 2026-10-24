@@ -1,65 +1,82 @@
-_Asana snapshot as of 2026-10-23: 10 open tasks, 24 completed (last 365 days)._
+_Asana snapshot as of 2026-10-24: 10 open tasks, 15 completed (last 90 days)._
 
 # Flight Testing
 
 ## Overview
 
-- **Client/Customer:** Internal BST flight operations (multiple aircraft platforms: S-series, E-series, Flamewheel, ByLight Mustang)
-- **Dollar value:** Not specified in task data
-- **Timeline:** Ongoing; most recent activity October 2026
-- **Status:** Active, operationally running. Per Daniel Prendergast (2026-10-02): "You guys shouldn't be flying next season anyway. New flight ops folks should get that qual for next season" — indicates current flight testing cycle is winding down before handoff to new flight ops team.
-- **Team members involved:** Spencer Hoehl (primary test pilot, 30+ tasks), Daniel Prendergast (validation flights), Ethan Domagala (ByLight Mustang, form/checklist setup), Alex Lomis (S0 VTOL, S10020 testing), Maciej Stachura (autopilot testing)
+- **Team**: Black Swift Technologies (whole team)
+- **Status**: Active – ongoing release candidate and QC flight testing pipeline
+- **Timeline**: Continuous operations; recent completions in October 2026; no project-level due date
+- **Team Members**: Spencer Hoehl (primary test pilot/lead, ~90% of tasks), Ethan Domagala, Alex Lomis, Maciej Stachura, Jack (mentioned for NASA flights)
+- **Risk Signals**: 
+  - 10 open tasks with no due dates assigned (creates scheduling ambiguity)
+  - Multiple tasks have "Ready for Flight Testing" status but remain open indefinitely
+  - ERAU E2 instability investigation incomplete (9/29 entry notes issue could not be reproduced, investigation ongoing)
+  - S10011 and FW0002 blocked pending parameter downloads before firmware upload
+  - Several completed tasks marked "More Info Requested" or "Maintenance Required" (potential rework needed)
 
 ## Key Deliverables & Milestones
 
-| Milestone | Status | Notes |
-|-----------|--------|-------|
-| Release Candidate Testing (S10011, FW0002, S20003, E20006, S10005, FW0001, S10022, S10021) | Open, no due dates | 8 aircraft awaiting release candidate firmware validation; Params must be downloaded before firmware upload |
-| ERAU E2 Instability Investigation | Open, ready for flight testing | Investigating aircraft instability over "next couple weeks"; issue could not be reproduced as of 9/29 |
-| Swiftab App Release Candidate | Open | Version uploaded; testing status pending |
-| Validation Flight Series (#1–3) | Completed 2026-04-25, 2026-07-13 | Led by Dan Prendergast |
-| ByLight Mustang Flight Test | Completed 2026-09-22 | Characterized stability and max range; due date was 2026-09-18 (4 days overdue) |
+| Item | Status | Notes |
+|------|--------|-------|
+| S20003 RC Testing | Open | No due date |
+| E20006 RC Testing | Open | No due date |
+| S10021 RC Testing | Open | Ready for Flight Testing; VTOL-specific |
+| S10022 RC Testing | Open | Ready for Flight Testing; Vertiq motors |
+| FW0001 RC Testing | Open | Ready for Flight Testing |
+| FW0002 RC Testing | Open | Ready for Flight Testing; blocked on param download |
+| S10005 RC Testing | Open | Ready for Flight Testing |
+| S10011 RC Testing | Open | Ready for Flight Testing; blocked on param download |
+| ERAU E2 Instability Investigation | Open | Ongoing; instability could not be reproduced as of 9/29 |
+| Swiftab App RC Version | Open | Uploaded; no further detail |
+
+**Recent Completions (October 2026):**
+- S10022 Test Flights (10/14) — VTOL firmware with Vertiq motors
+- S10021 VTOL QC Flights (10/14) — VTOL firmware validation
+- S1 Fixed Wing & FlameWheel QC (10/09)
+- Soil Moisture E2 (10/05)
+- QC Flight for New Firmware (10/01)
+
+**External Testing:**
+- ByLight Mustang Flight Test (Ethan Domagala, completed 9/22) — stability characterization and range assessment
 
 ## Task Summary
 
-- **Total tasks:** 34 (10 open, 24 completed)
-- **Completion rate:** 71%
-- **Tasks by assignee:**
-  - **Spencer Hoehl:** ~30 tasks (mostly completed QC flights, currently assigned all 10 open release candidate tests and ERAU investigation)
-  - **Daniel Prendergast:** 3 validation flights (all completed)
-  - **Ethan Domagala:** 4 tasks (ByLight Mustang, form/checklist creation)
-  - **Alex Lomis:** 2 tasks (S0 VTOL hover/transition, S10020 ESC testing)
-  - **Maciej Stachura:** 1 task (S10019 autopilot test)
+- **Total Tasks**: 25 (10 open, 15 completed)
+- **Assignee Breakdown**:
+  - **Spencer Hoehl**: ~23 tasks (92%) — dominates flight testing workload
+  - **Ethan Domagala**: 1 task (ByLight Mustang)
+  - **Alex Lomis**: 2 tasks (S0 VTOL, S10020 ESC)
+  - **Maciej Stachura**: 1 task (S10019 Autopilot Test)
 
-- **Notable patterns:**
-  - Spencer Hoehl is the bottleneck: nearly all active testing and all open release candidate tests assigned to him
-  - **No due dates on open tasks** — risk of unclear priorities and deadlines
-  - Heavy focus on firmware QC validation cycles (major code updates rolled out mid-August, with subsequent QC flights throughout August–September)
-  - Aircraft-specific maintenance issues documented (mag signal drops, ESC power loss, autopilot altitude loss, motor spin-up issues)
+- **Completion Pattern**: 60% completion rate; most open tasks assigned to Spencer with no due dates, indicating they are queued or in progress
+- **Custom Fields Usage**: Heavy use of "Status" (Ready for Flight Testing, More Info Requested, Maintenance Required, Passed) and "QC Required" (Yes/No) for tracking validation state
+- **Blockers**: Two tasks (S10011, FW0002) explicitly require parameter downloads before firmware upload
 
 ## Recent Activity
 
-- **2026-10-14:** S10022 Test Flights and S10021 VTOL QC flights completed (firmware validation)
-- **2026-10-09:** S1 fixed wing and FlameWheel QC completed
-- **2026-10-05:** Soil Moisture E2 flight testing completed
-- **2026-10-01:** QC Flight for new firmware completed; S0 VTOL testing completed (was overdue since 2026-08-28)
-- **2026-09-22:** ByLight Mustang Flight Test completed (4 days past 2026-09-18 due date)
-- **2026-09-21:** NASA S2 QC flight passed (customer readiness confirmed)
-- **Late August–early September:** Major firmware QC cycle completed across S1, Flamewheel, S0-MAD, S10019, S10020 platforms
+**October 2026** (last 2 weeks):
+- Completed two VTOL-related QC flights (S10022, S10021) and fixed-wing validation (10/9–10/14)
+- S10022 and S10021 completion tasks marked "More Info Requested" — may require follow-up or additional testing
+- Soil Moisture E2 sensor testing completed (10/5)
+- QC firmware validation flight completed (10/1)
+
+**September 2026**:
+- NASA S2 QC flight passed (9/21); cleared for customer delivery
+- ByLight Mustang external flight test completed (9/22, due date 9/18 — 4 days late)
+- S0-MAD catapult testing completed (9/17, due date 9/11 — 6 days late)
+- ERAU E2 instability investigation ongoing; issue could not be reproduced with/without wind sensor mast (9/29 note)
+
+**August 2026**:
+- Multiple QC flights and firmware validation tasks completed (S1 Fixed Wing, Flamewheel, S10019 Autopilot, S10019 SOCOM ground station, S0 VTOL)
+- Known issues documented: S10019 autopilot errors (low takeoff altitude), S10020 VTOL ESC power-off during transition, S10020 firmware "no mag" hardware faults
 
 ## Notes & Context
 
-- **Team transition planned:** Per Daniel Prendergast (2026-10-02 & 10-01), current flight ops team will not fly next season; new flight ops personnel should obtain qualifications before then. This signals the project is in a structured wind-down phase.
-
-- **No externally driven timelines:** Despite Asana task deadlines spanning April–September 2026, the lack of due dates on current open tasks and the team's feedback suggests internal prioritization is driving the schedule, not external customer commitments (except NASA S2, which has passed QC).
-
-- **Release candidate bottleneck:** 8 aircraft systems awaiting release candidate testing, all assigned to Spencer Hoehl with no due dates. This is the active work stream.
-
-- **Known aircraft issues (partially resolved):**
-  - S10019: Autopilot altitude loss during hand-launch (maintenance required; QC'd 2026-08-04)
-  - S10020: Mag signal drop and ESC power loss during VTOL transition (QC'd 2026-08-21 & 2026-08-25)
-  - S0 VTOL: MAG signal not sending; params not saving (completed 2026-10-01 despite 2026-08-28 due date)
-  - S30001: Rear motor spin-up issue in auto mode (completed 2026-07-21)
-  - ERAU E2: Instability unresolved as of 2026-09-29; ready for further investigation
-
-- **Custom field usage:** Tasks consistently tagged with flight status ("Ready for Flight Testing", "More Info Requested", "Passed", "Maintenance Required", "In Design") and QC requirements, enabling workflow tracking.
+- **No Dollar Values or Client Info** in task data — this appears to be internal R&D/validation flight testing, not client-billable work
+- **VTOL Development Focus**: Multiple S1002x variants undergoing VTOL-specific testing (S10021, S10022); known issues include ESC failures during hover-to-forward transition and magnetometer initialization faults
+- **Firmware Pipeline**: Tasks indicate active firmware releases moving through QC; parameters and firmware uploads are critical blockers
+- **Investigation Ongoing**: ERAU E2 instability has not been resolved despite testing; remains "Ready for Flight Testing" status but root cause unconfirmed
+- **Test Platforms**: Fleet includes S-series (S1, S0, S10005–S10022), Flamewheel (FW0001–FW0002), E-series (E2, E20006), and external partners (ByLight Mustang, NASA S2)
+- **Maintenance Debt**: Several completed tasks tagged "More Info Requested" or "Maintenance Required" (S10019, ByLight Mustang, S10020 ESC) — rework or additional diagnostics pending
+- **Scheduling Risk**: All 10 open RC testing and investigation tasks lack due dates; prioritization unclear without external context

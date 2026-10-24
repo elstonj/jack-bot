@@ -1,102 +1,108 @@
-_Asana snapshot as of 2026-10-23: 45 open tasks, 53 completed (last 365 days)._
+_Asana snapshot as of 2026-10-24: 45 open tasks, 8 completed (last 90 days)._
 
 # [001-13] BD Pipeline
 
 ## Overview
+- **Client/Customer**: Multiple (diverse portfolio: government, academic, commercial)
+- **Team**: Beck Cotter (owner), Dan Prendergast, Maciej Stachura, Jack Elston, Meredith O'hara Needham, and others
+- **Dollar Value**: $3.8M+ in quoted/estimated opportunities across open pipeline
+- **Timeline**: Active ongoing BD; new BD hire targeted by end of July
+- **Status**: Active & expanding — recently moved leads to dedicated Sales Portfolio with formula automation and forms targeting $5M by end of 2025
+- **Risk Signals**: 
+  - 45 open tasks with no due dates on many (limited deadline visibility)
+  - Heavy reliance on Beck Cotter for assignment (appears overloaded)
+  - Several leads with last contact 6+ months ago (stale engagement)
+  - Many quotes sent but waiting on customer funding/approvals
 
-- **Owner:** Beck Cotter
-- **Team:** Whole BST team (project notes indicate newly hired BD person expected by end of July)
-- **Customer Base:** Mix of academic institutions, government agencies (NOAA, USAF, NASA, DoD), commercial ventures, and international partners
-- **Timeline:** Ongoing; status update dated Jun 26, 2026
-- **Status:** **ACTIVE** — Project expanded to dedicated Sales Portfolio with goal of $5M revenue by end of 2025
-- **Risk Signals:** 45 open tasks with no due dates on many high-value opportunities; several leads waiting on funding decisions; multiple quotes sent but stalled in proposal stages
+## Key Opportunities by Value (Quoted/Estimated)
 
-## Key Deliverables & Milestones
-
-| Opportunity | Customer | Product(s) | Quoted/Closed Value | Status |
+| Opportunity | Customer | Value | Status | Owner |
 |---|---|---|---|---|
-| USSOCOM Pope 2 | USSOCOM | S0 | $948,993 | Ready for purchase |
-| LMUK/UK Royal Navy ASW Magnetometer | Lockheed Martin UK & Royal Navy | Custom | $276,000 | Quote sent 2026-08-04 |
-| INSTAAR VTOL Estimate | INSTAAR, CU Boulder | S3, MHP, Wind Probe | $163,292 | Submitted for funding |
-| S0 VTOL (Oklahoma) | Oklahoma State University | S0 VTOL, S2, E2 | Multiple estimates | Waiting on other two purchases (April 2025 sent refurbished S2) |
-| CU Boulder S2 x 2 | CU Boulder | S2 | $172,113 | Quote sent (Alaska/ONR project) |
-| Vanderbilt University E2 | Vanderbilt University | E2, Soil Moisture | $71,494 | Quote sent 2025-11-19 |
-| Murray State University S2 Rentals | Murray State University | S2 (12-day rental) | $90,090 | NASA proposal (waiting on funding) |
-| Alikhanyan National Science Laboratory | Armenia | S2 x 2, Custom Payloads | $279,189 | Estimate created Aug 2023, no updates |
-| Ben Maglio Soil Moisture Flights | University of Alaska | E2, Soil Moisture | $2,200 | Quote sent; daily services offered at $1,700 + $500 rental |
-| Notre Dame S0s x 4 | University of Notre Dame | S0 | $88,705 | Estimate for 2026 funding |
-| NASA Langley S0s | NASA Langley | S0 + peripherals | $46,000 | Quote sent |
-| University of North Dakota S0 VTOL | University of North Dakota | S0 VTOL | $18,000 | NSF CAREER proposal (closing date 2026-07-22) |
-| Michigan Technological University | Michigan Tech | S0, S2 | $21,000 | Quote sent |
+| USSOCOM Pope 2 | USSOCOM | $948,993 | Ready for purchase | Beck Cotter |
+| LMUK/Royal Navy ASW Magnetometer | Lockheed Martin UK & Royal Navy | $276,000 | Quote sent, last contact 8/4/26 | Dan Prendergast |
+| Alikhanyan National Science Laboratory | Alikhanyan NSL | $279,189 | Estimate Aug 2023, no updates | Unassigned |
+| INSTAAR VTOL | CU Boulder | $163,292 | Submitted for funding | Jack Elston |
+| Murray State S2 Rentals | Murray State Univ | $90,090 | Quote for NASA proposal | Beck Cotter |
+| NASA Ames S3 (qty 2) | NASA Ames | $65,000 | Quote sent, "Maybe Later" response | Unassigned |
+| Vanderbilt E2 System | Vanderbilt Univ | $71,494 | Quote for proposal, no response | Beck Cotter |
+| University of Houston S2 | Univ of Houston | $70,000 | Quote sent | Beck Cotter |
+| NCAS Leeds S3 | Leeds University | ROM pending | Quote framework sent, ROM refinement needed | Dan Prendergast |
+| University of North Dakota S0 VTOL | Univ of North Dakota | $18,000 | Quote sent, NSF CAREER proposal deadline 7/22/26 | Beck Cotter |
+| NASA Langley S0s | NASA Langley | $46,000 | Quote sent | Beck Cotter |
+| Michigan Tech S0 & S2 | Michigan Tech Univ | $21,000 | Estimate out | Meredith O'hara Needham |
+| Ben Maglio Soil Moisture | Univ of Alaska | $2,200 | Quote sent, 50% discount offered | Beck Cotter |
+
+**Other high-value leads (no quotes yet or stale)**:
+- NextTech Solutions S3 Arctic (Joint Forces Command partnership) — 120km range demo request
+- Supercool Earth (venture-backed cloud seeding startup) — S0 for high-altitude operations
+- Native Village of Napaimute — Due 9/30/26, multispectral remote sensing package
+- S0 VTOL (Oklahoma State Univ) — Due 6/30/26, 3-way split estimate (S2, E2, S0 VTOL), S2 delivered April 2025, waiting on other purchases
+- Barbados S2 — Waiting on S0 hand-off (7/2-4/25), funding pending
+- Rounds Construction — Inquiry in, needs follow-up
 
 ## Task Summary
 
-- **Total Open Tasks:** 45
-- **Total Completed Tasks:** 53
-- **Completion Rate:** ~54%
+- **Total**: 45 open, 8 completed
+- **No due dates**: ~40 open tasks (very limited deadline tracking)
+- **Key assignees**:
+  - **Beck Cotter**: ~20 tasks (primary owner for most active opportunities)
+  - **Dan Prendergast**: ~5 tasks (UK/LMUK, Ultra PCS, TurfLogic)
+  - **Jack Elston**: ~3 tasks (UC Santa Cruz, INSTAAR, NASA ULI/Cal State)
+  - **Maciej Stachura**: ~3 tasks (NOC Greenland, Barbados, TurfLogic call)
+  - **Meredith O'hara Needham**: ~1 task (Michigan Tech)
+  - **Unassigned**: ~15+ tasks (stale or cold leads)
 
-**Tasks by Assignee (Open):**
-- **Beck Cotter** (owner): ~25 tasks (majority of high-value opportunities)
-- **Dan Prendergast:** 3 tasks (LMUK/Royal Navy, Ultra PCS collaboration, TurfLogic)
-- **Maciej Stachura:** 2 tasks (NOC Greenland, Barbados S2)
-- **Jack Elston:** 2 tasks (UC Santa Cruz, INSTAAR)
-- **Meredith O'Hara Needham:** 1 task (Michigan Tech)
-- **Unassigned:** ~12 tasks (older/stalled opportunities)
-
-**Notable Patterns:**
-- Heavy concentration on Beck Cotter; indicates potential bottleneck as BD person is being hired
-- Most open tasks lack due dates, suggesting exploratory/long-cycle sales
-- Custom field usage for tracking: Products of Interest, Quote Sent status, Estimated/Closed Value, Lead Owner, Lead Response
-- Quotes issued frequently; many stalled waiting on customer funding cycles or proposal decisions
+- **Completion rate**: 15% (8 of 53 total), suggesting pipeline is early-stage
+- **Patterns**:
+  - Heavy custom field usage: Products of Interest, Quote Status, Estimated Value, Lead Owner, Opportunity Source
+  - Leads flow from web form (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594)
+  - Mix of inbound (website, referral) and strategic outreach (events, partnerships)
+  - Government (DoD, NOAA, NASA) accounts dominate high-value pipeline
 
 ## Recent Activity
 
-**Recently Completed (last 30 days in data):**
-- Test submission (2026-10-08)
-- Shelly Ruland / CIO Times Magazine partnership inquiry (2026-09-17)
-- NCAS Leeds University quote (2026-09-16)
-- Supercool Earth follow-up (2026-08-27)
-- Multiple business development exploration tasks closed summer 2026
-
-**Approaching/Notable Deadlines:**
-- **S0 VTOL (Oklahoma):** Due 2026-06-30 — awaiting 2 of 3 system estimates (quote sent Nov 2024; refurbished S2 sent April 2025)
-- **Native Village of Napaimute:** Due 2026-09-30 — remote sensing project with multispectral camera
-- **Urban Sky Stratospheric Balloon:** Last contact 2025-11-22 — potential collaboration to drop S0s from stratospheric balloon
-- **Supercool Earth:** Last contact 2026-07-02 — venture-backed cloud-seeding UAV startup (10K–13K alt, 12-mile range)
-- **USAF WC-130J Weather Squadrons:** Last contact 2026-02-18 — S0 integration for meteorological data collection
+- **Jun 26, 2024**: Status update — Sales Portfolio restructuring announced, formula & rules added, target $5M by end 2025
+- **End of July 2024**: BD hire planned (not yet visible in task changes)
+- **Aug–Sep 2024**: Most recent completed tasks (marketing/partnership intake: Shelly Ruland/CIO Times 9/17, BEI Corp 7/29, SOCOM CRADA 7/27)
+- **Recent quotes sent** (no dates on latest; some from 2026 timestamp): University of Houston, Oklahoma State, NASA Langley, LMUK/Royal Navy, UC Santa Cruz, Ben Maglio, NASA ULI/Cal State, Michigan Tech, Barbados
+- **Stale engagement** (last contact 6+ months ago or never):
+  - Alikhanyan NSL (est Aug 2023)
+  - TurfLogic (last 9/16/25)
+  - UC Santa Cruz (last 8/8/25)
+  - Barbados (last 11/19/25)
+  - ERAU/Embry Riddle (grant proposal denied, awaiting 2025 re-evaluation)
 
 ## Notes & Context
 
-### Sales Pipeline Insights
-1. **Strong Government/Academic Mix:** Majority of opportunities are DoD/USAF, NOAA, NASA, and academic institutions; indicates established relationships in research/defense sectors
-2. **Product Portfolio Spread:** S0, S0 VTOL, S2, S3, and E2 platforms plus custom payloads (multispectral, LiDAR, soil moisture, EO/IR gimbals)
-3. **International Opportunities:** UK Royal Navy (LMUK), Barbados, Armenia, Canada, Taiwan mentioned in notes
-4. **Long Sales Cycles:** Many quotes issued 1–2+ years ago with no closure; typical for government/academic procurement
+### Products & Services
+Primary offerings tracked: S0, S0 VTOL, S2, S3, E2, Custom Payload, Autopilot, Soil Moisture, MHP (Multi-Hole Probe), Wind Probe, LDCR (Lightweight Digital Camera Recorder), Training Materials
 
-### Stalled High-Value Opportunities
-- **Alikhanyan Lab (Armenia):** $279K estimate created Aug 2023 with zero follow-up — likely requires sales attention
-- **CU Boulder S2 x 2:** $172K quote sent; described as "last-minute" for Alaska/ONR project with no contact since request
-- **INSTAAR (CU Boulder):** $163K estimate in grant application; "waiting to hear back if they get the grant"
-- **Oklahoma State S0 VTOL:** Approved estimate but needs formal procurement process; S2 delivered April 2025, awaiting E2 and S0 VTOL orders
+### Strategic Partnerships & Themes
+- **Government/Defense**: USAF (multiple units: 18th Combat Weather, WC-130J, USSOCOM), NOAA (Ron Brown vessel concept), NATO (UK Royal Navy via Lockheed Martin)
+- **Research/Academia**: NASA (Langley, Ames, ULI/Cal State), NOAA (Hurricane research), universities (CU Boulder, UC Santa Cruz, Michigan Tech, North Dakota, Barbados gov't)
+- **Emerging Tech**: Cloud seeding (Supercool Earth), marine-based austere ops (Synergist), atmospheric profiling (various)
+- **International**: UK (NCAS/Leeds, LMUK/Royal Navy), Mexico (ESPACIOS), Barbados, Armenia (Alikhanyan NSL), Australia (Breon Defence Systems)
 
-### Custom Field Usage
-- **Lead Response:** Tracks engagement level (Interested, Ready for Purchase, Waiting on Funding, No Response, Maybe Later)
-- **Estimated/Quoted Value:** Primary revenue tracking; totals multiple high-six-figure opportunities
-- **Quote Sent Status:** Yes/No; many quotes issued but awaiting funding cycles
-- **Date of Last Contact:** Critical for identifying cold/warm leads
+### Key Process Notes
+- **Quote workflow**: Sales Notes field used for customer requests; estimates numbered (e.g., #1336, #1352) with custom "Estimated/Quoted Value" field
+- **Form-based intake**: New leads come via Asana web form with structured fields (Company, Contact, Phone, Email, Products of Interest, Opportunity Source)
+- **Funding dependency**: Many quotes tied to proposals (NSF, NASA, grant cycles) — high latency to purchase
+- **Partnership model**: Some opportunities paired with strategic partners (UrbanSky, Spatial Logic, Ultra PCS, Joint Forces Command)
 
-### Team Context
-- **BD Expansion:** Project notes state BD person will be hired by end of July; suggests scaling efforts
-- **5M Goal by 2025:** Aggressive revenue target; requires closure on several $100K+ opportunities currently in pipeline
-- **Form-Driven Intake:** New leads via Asana form submission (https://form.asana.com/?k=c5A9vl7WX84gz612WpkTVw&d=12804948716594)
+### Known Stale/Lost Leads
+- Mercaterra Atlantic (urgent 7/10/24 request, closed/no response)
+- Synergist Mobility Accelerator (lost)
+- Racing Surfaces Laboratory (lost)
+- Reveal Technology (Maybe Later)
+- NASA Ames (generic, needs consolidation per notes)
 
-### External Partners Mentioned
-- By Light (multiple DoD collaborations)
-- UrbanSky (stratospheric balloon concept)
-- Ultra PCS (pneumatic launcher)
-- Aevex (vision-based navigation exploration)
-- CACI (potential collaboration)
+### Action Items (from notes)
+- NCAS/Leeds S3 quote: edit ROM tabs, add travel for test flights, add international shipping pricing
+- Oklahoma State: BST needs formal approval, schedule training
+- Barbados: S0 hand-off 7/2-4, paperwork nearly complete, then S2 progresses
+- UC Santa Cruz: reschedule BST visit (need operational S3, possibly by end of year)
+- NextTech S3: prepare demos for Joint Forces Command
 
 ---
 
-**Data Quality Note:** Many tasks are placeholder/stalled entries with last contact dates 2–3 years old (e.g., Mercaterra, Alikhanyan, ERAU). No team corrections provided to override Asana dates.
+**Overall Assessment**: Healthy, expanding BD pipeline with clear government/academic focus and strong partnership activity. Primary risk is execution capacity (Beck Cotter overloaded, new BD hire needed by July) and lack of deadline visibility on majority of tasks. Many high-value opportunities ($600k+) are quote-sent stage awaiting customer funding decisions.

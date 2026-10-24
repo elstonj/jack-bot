@@ -49,11 +49,11 @@
     "window": "last 365 days"
   },
   "001-09_swiftcore_40.md": {
-    "as_of": "2026-10-23",
-    "completed": 3,
+    "as_of": "2026-10-24",
+    "completed": 0,
     "name": "[001-09] SwiftCore 4.0",
     "open": 219,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-10_swiftcore_32.md": {
     "as_of": "2026-10-23",
@@ -77,11 +77,11 @@
     "window": "last 365 days"
   },
   "001-12_customer_support.md": {
-    "as_of": "2026-10-23",
-    "completed": 3,
+    "as_of": "2026-10-24",
+    "completed": 1,
     "name": "[001-12] Customer Support",
     "open": 3,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-12_log_parse_website.md": {
     "as_of": "2026-10-23",
@@ -98,11 +98,11 @@
     "window": "last 365 days"
   },
   "001-13_bd_pipeline.md": {
-    "as_of": "2026-10-23",
-    "completed": 53,
+    "as_of": "2026-10-24",
+    "completed": 8,
     "name": "[001-13] BD Pipeline",
     "open": 45,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_compliance.md": {
     "as_of": "2026-10-23",
@@ -182,18 +182,18 @@
     "window": "last 365 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-24",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 207,
-    "window": "last 365 days"
+    "open": 206,
+    "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
-    "as_of": "2026-10-23",
-    "completed": 103,
+    "as_of": "2026-10-24",
+    "completed": 57,
     "name": "[001-14] SwiftCore 3.3",
     "open": 9,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-15_mhp_irad.md": {
     "as_of": "2026-10-23",
@@ -224,11 +224,11 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-24",
     "completed": 6,
     "name": "[001-22] Fleet Maintenance",
     "open": 3,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
     "as_of": "2026-10-23",
@@ -504,11 +504,11 @@
     "window": "last 365 days"
   },
   "flight_testing.md": {
-    "as_of": "2026-10-23",
-    "completed": 24,
+    "as_of": "2026-10-24",
+    "completed": 15,
     "name": "Flight Testing",
     "open": 10,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "nate_strauss_previously_assigned_tasks.md": {
     "as_of": "2026-10-23",

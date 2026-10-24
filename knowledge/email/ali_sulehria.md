@@ -1,80 +1,87 @@
 # Ali Sulehria — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 94 emails (86 from previous scan + 8 new)
+- **Total messages scanned:** 101 emails (94 from previous scan + 7 new)
 - **Date range:** 03 Oct 2026 – 23 Oct 2026 (21 days)
-- **Approximate volume:** ~4.5 emails per day
-- **Note:** New data shows sustained high activity through 23 Oct; AP Core2 board fix remains central focus. Introduction of new tools (Overleaf) and continued Asana engagement.
+- **Approximate volume:** ~4.8 emails per day
+- **Note:** New data confirms sustained high activity through 23 Oct evening (22:02 UTC); Asana project engagement escalating with multiple Maciej Stachura comment notifications same day.
 
 ## Key Correspondents
 
 **Direct Internal Contacts (by frequency):**
-- **Jack Elston** (elstonj@blackswifttech.com) — 21+ interactions; primary technical lead; continues to coordinate AP Core2 board fix exchanges with external partners (Thinh Nguyen); routes decisions and approvals
-- **Sam Hild** (sam.hild@blackswifttech.com) — 15+ interactions; active on PCB design specifics ("Change list and Gerbers" 22 Oct); technical peer
-- **Joshua Fromm, Cory Dixon, Spencer Hoehl, Maciej Stachura, Ethan Domagala, Alex Lomis, Daniel Prendergast** — Meeting participants (S0 Build, Flight Test Planning)
+- **Jack Elston** (elstonj@blackswifttech.com) — 21+ interactions; primary technical lead; continues to coordinate on board fix and external partnerships
+- **Sam Hild** (sam.hild@blackswifttech.com) — 15+ interactions; active on PCB design specifics
+- **Maciej Stachura** — **Elevated activity** (new visibility); 3+ direct comment notifications 23 Oct 15:54–16:06 UTC; primary collaborator on Asana project tasks
+- **Joshua Fromm, Cory Dixon, Spencer Hoehl, Ethan Domagala, Alex Lomis, Daniel Prendergast** — Meeting participants (S0 Build, Flight Test Planning)
 
 **External Contacts (by frequency):**
-- **Thinh Nguyen** (thinh991@yahoo.com) — 11+ interactions (elevated from 8+); now direct correspondence with Ali (22 Oct); rapid multi-reply thread on AP Core2 v0.3 Board Fix (same day, 3 messages 17:37–18:19 UTC); indicates Thinh is active design contributor
-- **Frank Strazzabosco** (microfirm@earthlink.net) — 25+ interactions (continuing from previous scan); primary external hardware consultant
-- **Matt Crabtree / Matthew Crabtree** (mjcrabtree21@gmail.com / matt.crabtree@waveformengineering.com) — 6+ interactions; PCB/design review expertise; "Change list and Gerbers" coordination (22 Oct)
-- **Jeff Catherwood** (jcatherwood@microhardcorp.com) — P400 Radio vendor/partner (previous scan)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — 25+ interactions (continuing); **new direct thread 23 Oct 15:50 UTC** on "Proposed grounded pins, etc" (PCB grounding specifics); group thread with Jack Elston, Sam Hild, and Jeff Catherwood
+- **Thinh Nguyen** (thinh991@yahoo.com) — 11+ interactions; direct technical collaboration on AP Core2 board fix
+- **Matt Crabtree / Matthew Crabtree** — 6+ interactions; PCB/design review expertise
+- **Jeff Catherwood** (jcatherwood@microhardcorp.com) — P400 Radio vendor; included in Frank Strazzabosco's 23 Oct group thread on grounding pins
 
 **Automated/Service Senders:**
-- **Asana** (Ben Busby) — "Dubins path packet ret…" comment notification (23 Oct); indicates Ali is tracked on Dubins path algorithm/navigation project (new visibility)
-- **Overleaf** (info@overleaf.com) — LaTeX document collaboration platform; account created/welcome email 22 Oct (new tool adoption)
-- Google Workspace, Slack, Toggl (continuing)
+- **Asana** (Maciej Stachura, Ben Busby) — **Escalated engagement**; 4 notifications 23 Oct (Dubins path, aircraft control window, user mode changes, unread digest); indicates Ali is tracked on multiple live project tasks
+- **Slack** — Confirmation code 23 Oct 22:02 UTC; account activity/new login
+- **Overleaf, Google Workspace, Toggl** (continuing from previous scan)
 
-**Internal vs External:** Balanced; Ali now has direct peer-level correspondence with external engineer Thinh Nguyen (not routed through Jack Elston on all threads).
+**Internal vs External:** Balanced, with external consultant Frank Strazzabosco engaging Ali directly in group technical thread (23 Oct); Thinh Nguyen remains direct peer-level contact.
 
 ## Topic Patterns
 
 **Active Technical Projects:**
 
-1. **AP Core2 v0.3 Board Fix** — Dominant focus (continuing, now through 23 Oct)
-   - **New detail:** Ali is now directly initiating/responding to Thinh Nguyen on board fix (22 Oct 09:15, Ali sends to thinh991@yahoo.com; Thinh responds directly to Ali 17:37 UTC)
-   - Thread shows same-day rapid iterations (3 replies 17:37–18:19 UTC 22 Oct)
-   - Involves: Thinh Nguyen, Jack Elston, Sam Hild, Matt Crabtree
-   - PCB specifics: "Change list and Gerbers" (22 Oct); indicates design revisions in progress
+1. **AP Core2 v0.3 Board Fix** — Continuing dominant focus
+   - **New detail:** Frank Strazzabosco reply on "Proposed grounded pins, etc" (23 Oct 15:50 UTC) shows active PCB-level refinement (grounding strategy, pin assignments)
+   - Group thread: Frank Strazzabosco, Jack Elston, Sam Hild, Jeff Catherwood, Ali Sulehria
+   - Indicates board fix has moved into detailed electrical/grounding design review phase
 
-2. **Dubins Path (Navigation Algorithm)** — New project visible
-   - Asana comment notification (23 Oct); suggests Ali is contributing to or reviewing path planning algorithms
-   - May be related to autonomous flight/navigation on S0 or flight test platform
-   - Note: "Dubins path" is a classical trajectory optimization algorithm used in aerospace/robotics
+2. **Dubins Path (Navigation Algorithm)** — Continuing, now **confirmed high priority**
+   - Maciej Stachura comment notification marked IMPORTANT (23 Oct 16:06 UTC)
+   - Task: "Dubins path packet ret…" (likely: packet return/routing or packet retention logic)
+   - Suggests Ali is actively reviewing/contributing to navigation/flight control algorithm implementation
 
-3. **P400 Radio Issues** — Ongoing (from previous scan; no new messages in this batch)
+3. **Aircraft Control Window** — New task visible
+   - Maciej Stachura comment on "aircraft control windo…" (23 Oct 15:54 UTC)
+   - Likely: Flight control software UI, telemetry display, or command interface
+   - May relate to S0 autonomous flight or ground station software
 
-4. **PSNS Versions** — Firmware/software (from previous scan; no new messages in this batch)
+4. **User Mode Changes** — New task visible
+   - Maciej Stachura comment on "changing user mode dur…" (23 Oct 15:54 UTC, marked IMPORTANT)
+   - Suggests: Flight mode transitions (manual/autonomous/failsafe) or software mode management
+   - Indicates Ali is involved in flight control logic/state machine design
 
-5. **S0 Build Updates & Flight Test Planning** — Standing meetings (no new invitations in this batch)
+5. **P400 Radio, PSNS Versions, S0 Build/Flight Test** — Continuing from previous scan
 
 **Documentation/Collaboration:**
-- Overleaf account activated (22 Oct) — suggests Ali is authoring or co-authoring technical documents (papers, technical reports, design specs)
+- Overleaf account active (created 22 Oct)
 
 ## Communication Patterns
 
-- **23 Oct early morning activity** — Asana notification received 06:58 UTC (23 Oct); indicates Ali has ongoing project work or notifications enabled overnight
-- **Thursday 22 Oct sustained activity** — 6 messages in one day; concentrated morning PCB coordination (11:33–11:16 CST, Sam Hild to Matt Crabtree), afternoon/evening board fix thread with Thinh Nguyen (17:37–18:19 UTC)
-- **Ali's direct initiation:** Ali directly emails Thinh Nguyen 09:15 CST 22 Oct to start/continue board fix thread (not CC'd or routed through Jack Elston)
-- **Rapid technical iteration:** Same-day 3-reply cycle with Thinh Nguyen (22 Oct 17:37–18:19 UTC) suggests urgent design review or fix validation
-- **IMPORTANT/UNREAD flags:** All new technical threads marked IMPORTANT; ongoing engagement through 23 Oct
-- **Tool adoption:** Overleaf account creation (22 Oct) indicates shift toward technical writing/documentation (may support thesis, research publication, or formal design documentation)
+- **23 Oct concentrated activity (15:50–22:02 UTC):** 6 messages in 6.5 hours; evening engagement pattern with Frank Strazzabosco group thread (15:50), multiple Asana comment notifications (15:54–16:06), and Slack confirmation code (22:02) suggesting account access/device login
+- **Maciej Stachura as primary Asana notifier:** 3 separate comment notifications in 12 minutes (15:54–16:06 UTC 23 Oct) indicates rapid-fire collaboration or design review on multiple sub-tasks within same project work session
+- **IMPORTANT flags concentrated on Asana:** Dubins path (16:06) and user mode changes (15:54) marked IMPORTANT; aircraft control window marked standard; suggests Ali prioritizes navigation and flight mode logic work
+- **Frank Strazzabosco group thread timing:** Reply sent 15:50 UTC (Friday afternoon US time); includes Jeff Catherwood (vendor), suggests board fix review cycle is moving from internal pair (Jack/Sam/Ali) to vendor coordination phase
+- **Slack access 22:02 UTC:** Late evening; confirmation code may indicate new device, VPN session, or account re-authentication; communication tool active beyond business hours
 
 ## Key Relationships
 
 **Internal:**
-- **Jack Elston** — Technical lead/manager; approves and routes board fix decisions; maintains project coordination role (still the hub for external partnerships, though Ali now has direct channels)
-- **Sam Hild** — Peer hardware engineer; collaborates on PCB "Change list and Gerbers"; technical equal on design specifics
-- **S0 Build/Flight Test Team** — Joshua Fromm, Cory Dixon, Spencer Hoehl, Maciej Stachura, et al.
+- **Jack Elston** — Technical lead; continues to manage external coordination (Frank Strazzabosco, Jeff Catherwood)
+- **Sam Hild** — Peer hardware engineer; collaborates on PCB design and grounding specifics
+- **Maciej Stachura** — **Elevated relationship**; now visible as primary Asana project collaborator; multiple concurrent tasks (navigation, flight control, UI) suggest Maciej is either project manager or lead systems engineer coordinating Ali's contributions
+- **S0 Build/Flight Test Team** — Joshua Fromm, Cory Dixon, Spencer Hoehl, et al.
 
 **External:**
-- **Thinh Nguyen** (thinh991@yahoo.com) — **Elevated relationship:** Now appears to be direct technical peer/contributor; Ali initiates and responds directly without Jack Elston routing; collaborating in real-time on AP Core2 board revisions; likely an external hardware engineer or independent contractor
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Continuing as primary external consultant (no new messages in this batch, but remains key contact)
-- **Matt Crabtree** — PCB design/review specialist; coordinating "Change list and Gerbers" with Sam Hild
-- **Jeff Catherwood** — MicroHardCorp vendor (P400 Radio)
+- **Thinh Nguyen** — Direct technical peer on board fix (continuing)
+- **Frank Strazzabosco** — External hardware consultant; now coordinating directly with Ali, Jack Elston, Sam Hild, and Jeff Catherwood on grounding/PCB specifics (23 Oct)
+- **Matt Crabtree** — PCB design/review specialist
+- **Jeff Catherwood** — MicroHardCorp vendor; included in board fix review thread
 
 ## Notable Observations
 
-- **Escalated technical ownership:** Ali is now **directly leading/responding** on AP Core2 board fix with external engineer Thinh Nguyen, rather than being looped in via Jack Elston. This suggests Ali has moved into a **senior technical contributor or design lead role** on this project.
-- **Dubins path algorithm engagement:** Asana notification on "Dubins path packet ret…" indicates Ali is involved in **navigation/flight control software**, not just hardware. Suggests broader role than just board design.
-- **Documentation/writing phase:** Overleaf account activation (22 Oct) suggests Ali may be preparing technical documentation, design specification, or research publication (timeline aligns with board fix iteration completion).
-- **Multi-disciplinary technical scope:** Within 3 weeks, Ali's email shows involvement in: PCB design (gerbers, grounding, layout), firmware (PSNS versions), radio troubleshooting, flight test planning, and navigation algorithms. Indicates **systems-level engineering responsibility** or lead role on integrated product development.
+- **Asana project scope broadening:** Ali is now visibly engaged on at least 3 software/control tasks (Dubins path, aircraft control window, user mode changes) in addition to hardware (AP Core2 board fix). Confirms **systems-level engineering role** spanning hardware, firmware, and flight control logic.
+- **Frank Strazzabosco escalation:** Direct group thread reply on PCB grounding (23 Oct) suggests board fix design review has reached vendor/consultant validation phase. Grounding specifics are often critical for RF performance and power integrity; indicates project is in refinement/verification stage.
+- **Maciej Stachura as project hub:** 3 concurrent Asana comments suggest Maciej is coordinating multiple workstreams Ali is contributing to. May be Ali's direct lead or peer project manager on software/autonomy side of S0 platform.
+- **Late-night engagement:** Slack confirmation code 22:02 UTC (23 Oct Friday) suggests Ali is actively working or monitoring systems outside standard business hours; high engagement pattern consistent with product development sprint or deadline-driven phase.
+- **Slack re-confirmation:** New confirmation code (vs. previous account presence) may indicate new device, location change, or security/compliance refresh; communications infrastructure is active and monitored.

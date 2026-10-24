@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: October 12–14, 2026 | Data Range: April 2024 – November 2, 2026**
+**Period: October 14–24, 2026 | Historical Data: April 5, 2024 – November 2, 2026**
 
 ---
 
@@ -7,70 +7,60 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue** (invoices) | **$9,875,941.62** |
-| **Total Expenses** | **$2,090,263.87** |
-| **Net Income** (Period P&L) | **$154,935.79** |
-| **Net Position** (all-time by project) | **$7,865,449.11** |
+| **Total Revenue (Invoices)** | $3,107,922.98 |
+| **Total Expenses** | $2,059,183.28 |
+| **Net Income (Lifetime)** | $1,048,739.70 |
+| **Current Period Net Income (Oct 14–24)** | **-$3,024.00** *(R&D expenses only)* |
 
 ---
 
 ## By Project/Class
-*Sorted by total revenue (highest to lowest)*
 
-| Project | Revenue | Expenses | Net Position | Status |
-|---------|---------|----------|--------------|--------|
-| **Government** | $6,788,618.00 | $1,841,080.34 | **+$4,947,537.66** | Active — 115 invoices |
-| **Commercial** | $3,083,803.62 | $249,579.78 | **+$2,834,223.84** | Active |
-| **BST Internal** | $24,119.36 | $1,805,603.75 | **-$1,781,484.39** | Deficit — internal overhead/admin |
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---|---|---|---|
+| **Commercial** | $3,083,803.62 | $249,579.78 | **+$2,834,223.84** | Profitable |
+| **BST Internal** | $24,119.36 | $1,809,603.50 | **-$1,785,484.14** | Significant deficit |
 
-**Key Observation:** Government and Commercial projects are profitable. BST Internal carries a **$1.78M deficit**, reflecting company-wide overhead and indirect costs.
-
----
-
-## Cash Flow Indicators
-
-### Accounts Receivable (Outstanding Balances)
-- **Government projects:** $5,670,008.82 outstanding (115 open invoices)
-- **Commercial projects:** Balance data incomplete; largest recent invoice: $24,579.28 (Aug 31, 2026)
-- **Total AR estimate:** $5.7M+ in outstanding receivables
-
-### Recent Activity (Oct 5–14, 2026)
-- **BST Internal:** +$3,999.75 in expenses (Oct 12–Nov 2)
-- **Commercial:** +$1,123.39 in purchases
-- **Government:** Active invoicing continues
-
-### Projects with Declining/No Recent Activity
-- **Commercial:** Last major invoice dated August 31, 2026 ($24,579.28) — *may indicate project slowdown*
+**Notes:**
+- Commercial project is the primary revenue driver (99% of total revenue)
+- BST Internal operates at a substantial loss (R&D/overhead function)
+- No new invoices recorded during Oct 12–Nov 2 period
 
 ---
 
-## Top Vendors & Expenses
+## Outstanding Accounts Receivable
 
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Facilities** (Oct 12–14 P&L) | $590.21 | Shop supplies |
-| **BST Internal Expenses** (cumulative) | $1,805,603.75 | Largest by far; includes overhead |
-| **Government Project Expenses** | $1,841,080.34 | Direct project costs |
-| **Commercial Project Expenses** | $249,579.78 | Lowest cost structure |
+| Invoice | Date | Customer | Amount Due | Days Outstanding |
+|---------|------|----------|------------|---|
+| **1779** | **2026-08-31** | **Murphy's Pond CH4 [018-1]** | **$24,579.28** | **75+ days** |
 
----
-
-## Unclassified Transactions
-
-- **Direct Costs (Shipping/Freight):** $0.00 in period — no freight charges recorded Oct 12–14
-- **All transactions:** Appear properly classified to Projects (Government, Commercial, BST Internal)
-- **No significant unclassified amounts** identified in period
+**AR Status:** Only one invoice shown with balance; represents potential cash flow concern if payment is overdue.
 
 ---
 
-## Summary & Alerts
+## Recent Activity Summary
 
-✅ **Strengths:**
-- Government projects generating $6.8M revenue (largest stream)
-- Commercial projects highly profitable ($2.8M net)
-- Company-wide gross profit: $155,526 (Oct 12–14 period)
+| Period | Project | Expenses Added |
+|--------|---------|---|
+| Oct 5–12, 2026 | BST Internal | +$73,982.13 |
+| Oct 12–Nov 2, 2026 | BST Internal | +$3,999.75 |
+| Oct 14–24, 2026 | All | $3,024.00 (R&D) |
 
-⚠️ **Concerns:**
-- **AR aging:** $5.7M outstanding from Government projects — verify collection timeline
-- **Commercial slowdown:** Last major invoice 6+ weeks old (Aug 31); confirm pipeline
-- **Internal overhead:** $1.78M deficit on BST Internal class suggests significant administrative burden
+---
+
+## Key Observations
+
+⚠️ **Cash Flow Concerns:**
+- $24,579.28 AR invoice outstanding 75+ days (Murphy's Pond CH4)
+- BST Internal running cumulative deficit of $1.79M
+- Current period shows negative $3,024 (R&D expenses with no offsetting revenue)
+
+✓ **Positive Indicators:**
+- Commercial division highly profitable (+$2.83M net)
+- Lifetime company position remains positive at $1.05M
+- Strong revenue base of $3.1M generated
+
+📋 **Data Limitations:**
+- Vendor breakdown and top vendors not provided in source data
+- Customer detail incomplete (partial invoice data shown)
+- Purchase order data included but not analyzed separately

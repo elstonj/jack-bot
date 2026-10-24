@@ -2,7 +2,7 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,083,803.62
-- **Total Expenses (Bills + Purchases):** $249,579.78 (↑ $1,123.39 from new purchase)
+- **Total Expenses (Bills + Purchases):** $249,579.78
 - **Total Purchase Orders:** $1,977.50
 - **Net Position:** $2,834,223.84 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – October 15, 2026
@@ -98,16 +98,68 @@
 ## Expenses by Cost Category
 
 ### **Indirect Costs** (Overhead, R&D, Fringe)
-**Total: $1,123.62** | 1 transaction
+**Total: $1,123.62** | 1 transaction  
 *Account: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]*
 
-| Date | Description | Amount |
-|------|-------------|--------|
-| 2026-10-15 | Shipment from Embry Riddle for fix | $14.90 |
-| 2026-10-15 | Phase 1 Shipment for S3 | $398.89 |
-| 2026-10-15 | Phase 1 Shipment for S3 (duplicate line) | $709.83 |
+| Date | Vendor/Memo | Description | Amount |
+|------|-------------|-------------|--------|
+| 2026-10-15 | Worldwide Express | Shipment from Embry Riddle for fix | $14.90 |
+| 2026-10-15 | Worldwide Express | Phase 1 Shipment for S3 | $398.89 |
+| 2026-10-15 | Worldwide Express | Phase 1 Shipment for S3 | $709.83 |
 
-**Memo:** Worldwide Express TYPE PAYMENTS ID XXXXXX1662 CO  
+**Purchase Reference:** #260927W025531  
+**Memo:** Worldwide Express TYPE PAYMENTS ID XXXXXX1662 CO
+
 **Largest Items:**
 - Phase 1 Shipment for S3: $709.83
-- Phase 1 
+- Phase 1 Shipment for S3: $398.89
+- Shipment from Embry Riddle for fix: $14.90
+
+---
+
+## Purchase Orders
+**Total PO Value:** $1,977.50 | No new POs in this update period.
+
+---
+
+## Monthly Spend by Category
+
+### October 2026
+| Category | Amount | # Transactions |
+|----------|--------|-----------------|
+| **Indirect Costs (R&D)** | $1,123.62 | 1 |
+| **Total** | **$1,123.62** | **1** |
+
+**Burn Rate Note:** October spending concentrated in single IRAD/R&D shipment ($1,123.62). This represents internal research activity related to S3 development phase and equipment maintenance.
+
+---
+
+## Notable Transactions
+
+### ⚠️ **High Priority: Duplicate Invoice #1755**
+- **Date Conflict:** Invoice #1755 appears twice with identical amounts:
+  - May 8, 2026: $63,735.00 (To Light Halo)
+  - October 12, 2026: $63,735.00 (By Light Halo)
+- **Status:** Both marked as outstanding balances
+- **Recommendation:** Contact By Light Halo to verify if this is a reissue for non-payment, a duplicate entry error, or legitimately distinct billing. **Financial impact if duplicate: $63,735.00 overstated revenue.**
+
+### ⚠️ **Outstanding Invoice #1779 — $24,579.28**
+- Largest single outstanding invoice in recent period (Aug 31, 2026)
+- Service delivery date: June 30-July 1, 2026 (2+ months aging)
+- Includes UAS day rental, field equipment, flight planning, and data processing
+- **Recommendation:** Follow up on payment status with Murphy's Pond CH4.
+
+### **IRAD Shipping Cluster (October 15, 2026)**
+- Three related shipments via Worldwide Express totaling $1,123.62
+- All coded to RESEARCH & DEVELOPMENT:IRAD account
+- Suggests active S3 development/phase 1 work underway
+- Includes equipment repair (Embry Riddle) and new phase shipment components
+
+---
+
+## Summary of Changes from Previous Record
+- **No change to total invoiced or total expenses overall** — new expense transaction ($1,123.62) was already included in prior total
+- **Confirmed 1 purchase transaction** dated 2026-10-15 (Purchase #260927W025531) with 3 line items, all classified to Indirect Costs/IRAD
+- **No new revenue transactions** in this update period
+- **No new purchase orders** in this update period
+- **Outstanding balance remains unchanged** as percentage of invoiced revenue (~64%)

@@ -1,107 +1,216 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,266 emails (3,191 previous + 75 new from Oct 23, 2026)
-- **Date range:** June 15–October 23, 2026 (131 days)
+- **Total messages scanned:** 3,296 emails (3,266 previous + 30 new from Oct 23–24, 2026)
+- **Date range:** June 15–October 24, 2026 (132 days)
 - **Approximate volume:** ~25 emails/day (sustained baseline)
-- **Current status (Oct 23):** **Still on vacation** — out-of-office auto-replies continue to be active on incoming messages; vacation delegation protocol remains fully operational
+- **Current status (Oct 24):** **Still on vacation** — out-of-office auto-replies continue to be active; 18 overdue Asana tasks accumulating; vacation delegation protocol fully operational
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Oct 23)
+### Incoming (by frequency — updated through Oct 24)
 
-**VACATION STATUS — OUT OF OFFICE AUTO-REPLIES REMAIN ACTIVE (Oct 23)**
-- Out-of-office auto-replies sent to: Felix Odum (inFlow), Bloomberg (multiple), Toggl, Budget rental car, Worldwide Express, and other promotional/vendor emails
-- Meredith remains unavailable; delegation protocol sustaining all operations
+**VACATION STATUS — OUT OF OFFICE AUTO-REPLIES REMAIN ACTIVE (Oct 23–24)**
+- Auto-replies sent to: Jack Elston, Beck Cotter, Pasternack, Bloomberg, and other incoming senders
+- Meredith remains completely unavailable; all work continues to route through delegation chain
 
 ---
 
 ### INTERNAL OPERATIONS & DELEGATION (FULLY SUSTAINED)
 
-1. **Jack Elston** (`elstonj@blackswifttech.com`) — **Primary Delegate** [ACTIVE]
-   - Continues to manage strategic coordination and external-facing items
-   - Oct 23: Receiving vendor notifications (FutabaUSA order shipment notifications routed to his purchasing alias)
-   - **Pattern:** Primary point of escalation for all purchasing and regulatory matters
+1. **Jack Elston** (`elstonj@blackswifttech.com`) — **Primary Delegate** [ACTIVE & ESCALATING]
+   - Oct 23, 12:44: Received out-of-office reply from Meredith re: occupancy sensing estimate
+   - Oct 23, 13:44: Now coordinating directly with Beck Cotter on occupancy sensing estimate (ESTIMATE for Adding Occupancy Sensing to Blackswift Tech)
+   - **Pattern:** Primary escalation point; now handling facility/infrastructure decisions during Meredith's absence
 
-2. **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Secondary Coverage** [ACTIVE & ESCALATING]
-   - Oct 22, 18:25: Re: Smell in Suite C (coordinating with Amy Smith/WW Reynolds on facilities issue)
-   - Oct 22, 14:38: Facility door transition follow-up with Luis Castro (contractor)
-   - Oct 22, 13:53: Fwd: JawsTec order status to Meredith + Joshua Fromm
-   - Oct 22, 12:07: Initial escalation: Smell in Suite C — coordinating with Amy Smith (WW Reynolds property mgmt)
-   - Oct 22, 11:02: Junior Software Developer application forwarding (Bach/James Nguyen)
-   - **Pattern:** Managing escalated facility issues, HR/recruitment coordination, vendor communications
+2. **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Secondary Coverage & Escalation Hub** [ACTIVE & EXPANDING]
+   - Oct 23, 10:08: Received out-of-office reply from Meredith
+   - Oct 23, 11:08: Forwarding occupancy sensing estimate to Jack Elston, Meredith (copied), and Cory Dixon
+   - Oct 23, 13:44: Jack Elston responding to Beck's escalation on same estimate
+   - **Pattern:** Serving as central coordination hub for facility/infrastructure decisions; escalating facility-related estimates
 
 3. **Cory Dixon** (`cory.dixon@blackswifttech.com`) — **Facilities & Admin** [ACTIVE]
-   - Oct 22: Included in Junior Software Developer application forwarding
-   - Continued facility coordination support
+   - Oct 23, 11:08: Copied on occupancy sensing estimate coordination
+   - Continued facility support role
 
 ---
 
-### EXTERNAL PARTNERSHIPS & VENDORS (ONGOING)
+### EXTERNAL PARTNERSHIPS & VENDORS (ONGOING — PEAK ACTIVITY)
 
-4. **Felix Odum** (`felix.odum@inflowinventory.com`) — **inFlow Inventory** [ACTIVE ENGAGEMENT]
-   - Oct 22, 12:08: Black Swift x inFlow: demo recap, day-to-day workflow, and next steps [IMPORTANT]
-   - Oct 22, 09:08: Meredith sent out-of-office reply
-   - **Pattern:** Active product evaluation continuing; Felix providing workflow guidance despite Meredith's absence
+4. **Jay McLaughlin** (`Jay@macelectricco.com`) — **MAC Electric Co.** [NEW — FACILITY INFRASTRUCTURE]
+   - Oct 23, 16:41: **ESTIMATE for Adding Occupancy Sensing to Blackswift Tech**
+   - **To:** Meredith Needham, Beck Cotter
+   - **Pattern:** Facility/infrastructure vendor; estimate sent during Meredith's vacation but routed through Beck Cotter escalation chain
 
 5. **Daniel Prendergast** (`daniel.prendergast@blackswifttech.com`) — **Pasternack Electronics Procurement** [ACTIVE]
-   - Oct 22, 11:03: Fwd: Pasternack New Order Notification Web Order #401280 #641612370
-   - **CC'd:** sales@pasternack.com, Meredith Needham
-   - **Pattern:** Escalating electronics orders; Meredith on visibility loop despite vacation
+   - Oct 23, 17:01: Pasternack New Order Notification — Web Order #401280, #641612370, #652524333 (multiple order IDs)
+   - **From:** sales@pasternack.com
+   - **Pattern:** Continuing high-volume electronics procurement; order numbers escalating
 
-6. **Amy Smith** (`amy@wwreynolds.com`) — **WW Reynolds Property Management** [ESCALATED FACILITY ISSUE]
-   - Oct 22, 18:25: RE: Smell in Suite C (responding to Beck Cotter inquiry)
-   - **Recipients:** Beck Cotter, Meredith Needham, Jack Elston
-   - **Pattern:** Facilities emergency coordination; property management engaged on Suite C environmental issue
-
-7. **Joshua Fromm** (`josh.fromm@blackswifttech.com`) — **Procurement & Vendor Relations** [ACTIVE]
-   - Oct 22, 13:53: Receiving vendor order forwarding (JawsTec order status)
-   - Continues as primary procurement coordinator during Meredith's absence
-
-8. **Samantha** (`Samantha@bestinparts.com`) — **BestInParts CNC Vendor** [ONGOING]
-   - Active CNC parts orders continue to be managed through Joshua Fromm
+6. **Joshua Fromm** (`josh.fromm@blackswifttech.com`) — **Procurement & Vendor Relations** [ACTIVE]
+   - Oct 23: Grainger feedback loop routing to Joshua Fromm alias (via purchasing@blackswifttech.com)
+   - **Pattern:** Primary procurement coordinator managing vendor relationships during Meredith's absence
 
 ---
 
-### PURCHASING & PROCUREMENT (PEAK VOLUME — CONTINUOUS)
+### PURCHASING & PROCUREMENT (SUSTAINED HIGH VOLUME)
 
-**Vendor Order Confirmations & Shipments (Oct 22–23, sourced through purchasing@blackswifttech.com alias):**
+**Vendor Order Confirmations & Shipments (Oct 23–24, primary routing: purchasing@blackswifttech.com alias):**
 
-- **DigiKey** — Oct 23, 03:06 (shipped invoice 135015721); Oct 22, 17:10 (PO acknowledgement #102432484); Oct 22, 16:15 (order thank you); Oct 22, 13:33 (2x PO acknowledgements #102427811, #102427812); Oct 22, 13:28 (order thank you)
-- **McMaster-Carr** — Oct 22, 16:53 (tracking & certificate); Oct 22, 16:08 (order confirmation)
-- **FutabaUSA** — Oct 22, 16:30 (shipped to Jack Elston alias + purchasing@blackswifttech.com); Oct 22, 15:24 (order received); Oct 22, 15:21 (password reset request)
-- **Grainger** — Oct 22, 20:07 (delivered: Order #1602435526); Oct 22, 16:15 ("We're Happy to Have You Back!")
-- **Amazon** — Oct 22, 16:24 (Electronics order)
-- **Pasternack** — Oct 22, 16:03 (order notification web order #401280 #641612370)
-- **Spindrift Market** — Oct 22, 19:41 (delivery confirmation order SH62389486)
-- **UPS** — Oct 22, 22:05 ("Your Packages Arrive Tomorrow")
-- **USPS Informed Delivery** — Oct 22, 13:44 (daily digest)
-- **Expedia** — Oct 22, 13:09 (October One Key statement)
-- **WordPress.com** — Oct 22, 22:05 (30% upgrade offer); Oct 22, 10:28 (receipt #121915415)
-- **eBay** — Oct 22, 06:21 (Futaba 14sg receivers & transmitters search results)
-- **Rock West Composites** — Oct 22, 08:06 (promotional email)
+- **DigiKey** — Oct 23, 07:35 (shipped invoice 135004985); Oct 23, 05:49 (delay notification regarding order)
+- **McMaster-Carr** — Oct 23, 03:45 (receipt for Oct 22nd order)
+- **Grainger** — Oct 23, 05:40 (delivery feedback request to Joshua Fromm)
+- **USPS Informed Delivery** — Oct 23, 13:49 (daily digest)
+- **W. S. Deans Co.** — Oct 23, 22:15 (abandoned cart reminder)
+- **ProtoSpace Mfg** — Oct 23, 20:01 (promotional: "What if one shop handled everything?")
+- **Baofeng Radio** — Oct 23, 15:05 (promotional giveaway)
+- **JawsTec** — Oct 23, 15:53 (promotional: top service)
+- **Tracking notification** — Oct 24, 08:15 (delivery confirmation)
+- **Billing invoices** — Oct 23, 20:00 (Black Swift Technologies, LLC ID #823121 new invoices for 10/23/2026, **CC'd to evazquez@aeronet.com**)
 
 ---
 
-### ASANA TASK ASSIGNMENTS (CRITICAL WORKFLOW — PEAK VOLUME)
+### ASANA TASK ASSIGNMENTS (CRITICAL WORKFLOW — OVERDUE ACCUMULATION)
 
-**Oct 22 assignments to Meredith (8+ tasks assigned in single day):**
+**Oct 23 assignments to Meredith (3+ new tasks assigned; 18 overdue tasks flagged):**
 
-- Oct 22, 21:10: **mcmaster for multiple projects** [[001-13] Purchasing] [IMPORTANT]
-- Oct 22, 21:09: **digikey for shop supplies** [[001-13] Purchasing]
-- Oct 22, 16:42: **digikey for shop equipment** [[001-13] Purchasing]
-- Oct 22, 14:52: **protocase for multiple projects** [[001-13] Purchasing] [IMPORTANT]
-- Oct 22, 14:41: **mks servos for s3 sales** [[001-13] Purchasing]
-- Oct 22, 14:01: Daily task digest — **7 tasks due soon, 3 tasks assigned**
+- Oct 23, 17:37: **deans for s3 sales** [[001-13] Purchasing] [NEW]
+- Oct 23, 17:35: **hiawatha hobbies for s3 sales** [[001-13] Purchasing] [NEW]
+- Oct 23, 17:34: **voltroam for s3 sales** [[001-13] Purchasing] [NEW]
+- Oct 23, 15:40: **18 overdue tasks** [CRITICAL ALERT]
+- Oct 23, 14:01: Daily task digest — **7 tasks due soon, 8 tasks assigned**
+- Oct 23, 20:01: **Unread notifications accumulating** (Asana system warnings)
 
-**Pattern:** Continuous task assignment flow; Meredith remains primary task owner for purchasing despite being on vacation. Tasks are being actively queued by team members.
+**Pattern:** Tasks continue to be assigned at baseline rate; overdue task count now at 18 (up from ~7 on Oct 22). Vacation period is creating task backlog.
 
 ---
 
-### HR & RECRUITMENT (NEW ACTIVITY)
+### HR & RECRUITMENT (ONGOING)
 
-9. **Employment Opportunities Channel** (`careers@blackswifttech.com`, `careers@bst.aero`) — **Recruitment Pipeline** [ACTIVE]
-   - Oct 22, 10:10: Rose-Hulman Virtual STEM Career & Graduate School Fair (Nov 4th) — forwarded through 3 distribution channels (individual to Meredith, careers alias, careers.bst.aero)
-   - **Pattern:** BST actively
+- **Rose-Hulman Virtual STEM Career & Graduate School Fair** — Nov 4th (distribution active)
+- No new recruitment activity on Oct 23–24
+
+---
+
+## Topic Patterns
+
+### Primary Focus Areas (by subject line frequency)
+
+1. **Purchasing & Vendor Orders** (dominant — 70%+ of new emails)
+   - Electronics: DigiKey, Pasternack, McMaster-Carr, Grainger
+   - Specialty: W.S. Deans, ProtoSpace Mfg, Baofeng Radio
+   - Order tracking, invoices, delays, fulfillment
+
+2. **S3 Sales Project** (NEW emphasis)
+   - Oct 23: Three consecutive Asana assignments for S3 Sales procurement:
+     - deans for s3 sales
+     - hiawatha hobbies for s3 sales
+     - voltroam for s3 sales
+   - **Pattern:** S3 sales project ramping up procurement velocity; new vendor sourcing (Hiawatha Hobbies, Voltroam — not previously visible)
+
+3. **Facility Infrastructure** (NEW escalation)
+   - Oct 23: MAC Electric Co. occupancy sensing estimate
+   - Escalated through Beck Cotter → Jack Elston chain
+   - **Pattern:** Capital/infrastructure decision in progress; routed through leadership during Meredith's absence
+
+4. **Billing & Invoices**
+   - Oct 23: Black Swift Technologies billing cycle — invoices sent to **evazquez@aeronet.com** (new recipient visible)
+
+5. **Promotional/Vendor Outreach**
+   - W.S. Deans (cart abandonment), ProtoSpace Mfg (manufacturing services), Baofeng Radio (giveaway)
+
+---
+
+## Communication Patterns
+
+### Time Patterns
+- **Peak activity window:** Oct 23, 14:01–17:37 (afternoon UTC/afternoon US Central)
+- **Morning activity:** Oct 23, 03:45–07:35 (automated/overnight vendor notifications)
+- **Continuous 24-hour cycles:** Vendor notifications arriving across all time zones (UTC, CDT, MDT, EDT, IST)
+
+### Auto-Reply Behavior (Vacation Delegation)
+- Oct 23, 04:07: Out-of-office to Bloomberg
+- Oct 23, 10:08: Out-of-office to Beck Cotter (facility estimate)
+- Oct 23, 12:44: Out-of-office to Jack Elston (occupancy sensing)
+- Oct 23, 10:02: Out-of-office to Pasternack (electronics orders)
+- **Pattern:** Auto-replies triggering consistently; no direct responses from Meredith (all are vacation messages)
+
+### Mailing Lists & Group Distribution
+- **purchasing@blackswifttech.com** — primary alias routing vendor communications
+- **careers@blackswifttech.com**, **careers@bst.aero** — recruitment distribution
+- **Generic Information (info@blackswifttech.com)** — inbound inquiry channel (Atomgeo Pvt. Ltd. collaboration inquiry visible)
+
+### Newsletter/Automated Email Patterns
+- **Asana task notifications** — daily digests + real-time task assignments (high frequency)
+- **Bloomberg Technology** — news subscription (Oct 23 visible; Apple iPhone Duo topic)
+- **Axios New Orleans** — regional news (personal/interest-based)
+- **USPS Informed Delivery** — daily digest
+- **Vendor marketing:** Baofeng Radio, ProtoSpace Mfg, JawsTec (low-priority promotional)
+
+---
+
+## Key Relationships
+
+### Closest Collaborators (by Oct 23–24 activity)
+1. **Jack Elston** — Strategic escalation; now handling infrastructure decisions
+2. **Beck Cotter** — Operational hub; coordinating facility issues, vendor estimates, HR
+3. **Joshua Fromm** — Procurement execution; managing day-to-day vendor relationships
+4. **Daniel Prendergast** — Electronics procurement specialist (Pasternack pipeline)
+5. **Cory Dixon** — Facilities support/coordination
+
+### External Relationships (by engagement intensity)
+1. **DigiKey** — High-frequency electronics supplier (2+ shipments/week)
+2. **McMaster-Carr** — Industrial/shop supplies (multiple orders/week)
+3. **Pasternack Electronics** — Specialized electronics orders (recurring, order volume escalating)
+4. **Grainger** — Industrial equipment/supplies (frequent deliveries)
+5. **Jay McLaughlin / MAC Electric Co.** — Facility infrastructure vendor (new estimate: occupancy sensing system)
+6. **Felix Odum / inFlow Inventory** — Product evaluation partner (demo phase ongoing)
+7. **Amy Smith / WW Reynolds Property Management** — Facilities/landlord relationship
+
+### New External Contact (Oct 23)
+- **eva.vazquez@aeronet.com** — Visible on billing invoice CC line; role/relationship unclear (potential finance, external partner, or vendor account management)
+
+---
+
+## Notable Observations
+
+1. **Vacation Backlog Accumulation**
+   - 18 overdue Asana tasks as of Oct 23, 15:40 — significant increase from ~7 on Oct 22
+   - New tasks continue to be assigned despite vacation status (3 S3 sales procurement tasks Oct 23, 17:34–17:37)
+   - **Implication:** Either task assignments are not respecting vacation auto-reply, or delegation chain is not pulling new work off Meredith's queue
+
+2. **S3 Sales Project Procurement Ramp**
+   - New vendor sourcing visible: Hiawatha Hobbies, Voltroam, W.S. Deans (all appearing in Oct 23 task assignments)
+   - Suggests S3 project entering active procurement/build phase
+   - Vendors appear unfamiliar (not in previous 3+ months of data)
+
+3. **Facility Infrastructure Decision (In Progress)**
+   - MAC Electric Co. estimate for occupancy sensing system sent Oct 23, 16:41
+   - Immediately escalated through Beck Cotter → Jack Elston
+   - Jack Elston now actively coordinating with Beck on decision (Oct 23, 13:44 response)
+   - **Implication:** Capital/facility upgrade under active consideration; possibly awaiting Meredith's sign-off post-vacation
+
+4. **New Finance/Billing Visibility**
+   - **eva.vazquez@aeronet.com** appearing on Oct 23 invoice notification
+   - New external recipient on internal billing cycle — suggest either new vendor account, finance partnership, or reporting relationship
+   - **Aeronet** connection unclear from headers alone
+
+5. **Purchasing Volume Consistency**
+   - Despite Meredith's vacation, vendor pipeline remains at baseline (DigiKey, McMaster, Grainger, Pasternack all active)
+   - Delegation chain successfully managing order flow
+   - **Pattern:** Purchasing operations are resilient; no backlog visible in vendor communications
+
+6. **Auto-Reply Firing Across All Incoming Channels**
+   - Vacation message triggering on: internal staff (Jack, Beck), external vendors (Pasternack), and news subscriptions (Bloomberg)
+   - **Implication:** Meredith's email still receiving direct sends; delegation may not be intercepting all inbound at source
+
+7. **Axios New Orleans Subscription**
+   - Personal interest indicator (New Orleans sports: Saints in Paris topic Oct 23, 07:28)
+   - Suggests possible New Orleans connection or personal interest outside work scope
+
+---
+
+## Summary Update (Oct 24)
+Meredith remains fully on vacation with delegation protocols holding. Task backlog is accumulating (18 overdue); new S3 sales procurement vendors emerging; facility infrastructure estimate under leadership review; procurement operations stable. No return-to-office date visible in metadata.

@@ -33,19 +33,19 @@
         "amount": 116731.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-23"
+        "last_updated": "2026-10-24"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-23"
+        "last_updated": "2026-10-24"
       },
       "other_qbo": {
         "amount": 30680.95,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-23"
+        "last_updated": "2026-10-24"
       },
       "total": 150471.41,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 92068.59,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-23T20:10:42Z"
+    "last_reconciled": "2026-10-24T09:20:58Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -97,6 +97,6 @@
       "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
     }
   ],
-  "last_full_rebuild": "2026-10-23T20:10:42Z",
+  "last_full_rebuild": "2026-10-24T09:20:58Z",
   "last_incremental_update": null
 }

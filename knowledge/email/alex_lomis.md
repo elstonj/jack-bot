@@ -1,89 +1,88 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 694 emails (680 previous + 14 new)
+- **Total messages scanned:** 702 emails (694 previous + 8 new)
 - **Date range:** Thu, 20 Aug 2026 – Fri, 23 Oct 2026 (65-day window)
-- **Approximate volume:** Sustained heavy activity; ~6.7 emails/day average. New batch (Oct 22–23) maintains pattern: ~86% automated/transactional, ~14% human correspondence. Oct 22 shows continued project work (Google Docs architecture collaboration, Commonlands lens/sensor coordination, Vector Isle RTK discussion).
+- **Approximate volume:** Sustained heavy activity; ~6.7 emails/day average. Oct 23 batch (8 emails): ~50% promotional/automated, ~50% human/technical correspondence — notably higher ratio of substantive messages vs. typical days.
 
 ## Key Correspondents
 
-### Top Senders (Cumulative, Updated Oct 22–23)
-1. **Purchasing alias** (purchasing@blackswifttech.com) — ~210+ emails routed (**NEW: FutabaUSA order received + password reset Oct 22, Rock West Composites promo Oct 22, USPS Informed Delivery Oct 22, Constant Contact marketing Oct 22, WordPress.com receipt Oct 22, Pasternack order notification Oct 22**)
-2. **Asana** (no-reply@asana.com, learn@go.asana.com) — 34+ emails (**NEW: Feature announcement/webinar invitation Oct 23**)
-3. **McMaster-Carr** — 25+ emails (no new)
-4. **Global Industrial** — ~21+ emails (**NEW: Oct 22 holiday shipping promo**)
-5. **Thomas Garcia** (TGarcia@videologyinc.com) — 7+ emails (no new)
-6. **David Naranjo** (david@aegiselect.com) — 2 emails (no new)
-7. **Becca Carnes** (becca@aegiselect.com) — 1 email (no new)
-8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 16+ emails (**NEW: Oct 22 11:42 Google Docs comment thread "System-level Arch..." with Josh Fromm and Alex tagged; indicates active architecture/design document collaboration**)
-9. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails (no new)
-10. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 16+ emails (**NEW: Tagged in Google Docs architecture document Oct 22; continues active collaboration**)
-11. **Maciej Stachura** (stachura@blackswifttech.com) — 16+ emails (no new)
-12. **Beck Cotter** (beck.cotter@blackswifttech.com) — 25+ emails (no new)
-13. **Meredith Needham** (meredith.needham@blackswifttech.com) — 6+ emails (no new)
-14. **Max Henkart / Commonlands** (mhenkart@commonlands.com) — **3 emails** (**NEW: Oct 22 21:51 "Confirming sensor coverage and lens field of view" marked IMPORTANT, UNREAD; direct follow-up on optical/sensor specification coordination**)
-15. **Daniela** (daniela@vectorisle.org) — **2 emails** (**NEW: Oct 22 15:58 "Re: RTK on your UAS" UNREAD; active RTK positioning integration thread**)
-16. **Toggl** (support@toggl.com) — **1 email NEW** (Oct 22 14:00 no subject; time-tracking tool engagement/notification)
-17. **Rotortrade** (info@rotortrade.com) — **2 emails** (**NEW: Oct 22 10:33 AMTC 2026 conference invitation; likely industry event outreach for helicopter/rotorcraft applications**)
+### Top Senders (Cumulative, Updated Oct 23)
+1. **Purchasing alias** (purchasing@blackswifttech.com) — ~210+ emails
+2. **Asana** (no-reply@asana.com, learn@go.asana.com) — 34+ emails
+3. **McMaster-Carr** — 25+ emails
+4. **Global Industrial** — ~21+ emails
+5. **Beck Cotter** (beck.cotter@blackswifttech.com) — 25+ emails
+6. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 17+ emails (**NEW: Oct 23 14:44 Google Docs architecture comment continuation [UNREAD, IMPORTANT]; Oct 23 09:22 "Re: Sightline AITR" [UNREAD, IMPORTANT] to Nick Whaley at Sightline Intelligence — indicates external partnership/evaluation discussion**)
+7. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails
+8. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 16+ emails
+9. **Maciej Stachura** (stachura@blackswifttech.com) — 17+ emails (**NEW: Oct 23 06:03 "Fwd: [Onshape Support] Pending request: Export Failure" [UNREAD]; CAD/design tool issue escalation**)
+10. **Thomas Garcia** (TGarcia@videologyinc.com) — 7+ emails
+11. **Max Henkart / Commonlands** (mhenkart@commonlands.com) — 3 emails
+12. **Pete Dice / Blaize Hybrid** (pete@blaizehybrid.com) — **1 email NEW** (Oct 23 16:26 "RE: Question on S0 onboard AI" [UNREAD]; direct response on inference capability)
+13. **Nick Whaley / Sightline Intelligence** (nwhaley@us.sightlineintel.com) — **1 email NEW** (Oct 23 09:22, Prendergast cc'd; AITR project discussion)
 
-### External Contacts (Oct 22–23 activity)
-- **Commonlands** — sensor/lens field-of-view specification work (marked IMPORTANT)
-- **Vector Isle (Daniela)** — RTK integration discussion (active thread)
-- **Rotortrade** — AMTC 2026 (American Helicopter Society?) conference engagement
+### External Contacts (Oct 23 Activity — New)
+- **Blaize Hybrid (Pete Dice)** — S0 onboard AI inquiry (active technical thread)
+- **Sightline Intelligence (Nick Whaley)** — AITR (likely AI/autonomous system) evaluation or partnership discussion
+- **GetFPV** — drone motor/component promotional (unsolicited)
+- **Synopsys** — EDA/hardware design tool promotional (unsolicited)
+- **Brightpath Associates** — recruiter outreach for Manufacturing Production Associate role in Boulder, CO
+- **Survival Systems USA** — training/weather equipment promotional (marked IMPORTANT despite promotional category)
 
 ## Topic Patterns
 
-### Active Projects/Work Areas (Oct 22–23)
-- **System-level Architecture** — Google Docs collaborative document with Daniel Prendergast, Josh Fromm (Oct 22)
-- **Sensor/Lens Specifications** — Commonlands coordination on field-of-view and sensor coverage (Oct 22)
-- **RTK Integration** — Real-Time Kinematic positioning via Vector Isle (Oct 22)
-- **S0 Onboard Inference** — Previous period active; likely ongoing
-- **801 Dev Kit Evaluation** — Hardware integration with Videology cameras, Aegis Select, Covar processing hardware
-- **Navy Phase I Closeout** — DoD contract wrap-up coordination
+### Active Projects/Work Areas (Oct 23 New Data)
+- **System-level Architecture** — Google Docs collaboration continuation with Josh Fromm, Daniel Prendergast (Oct 23, marked IMPORTANT)
+- **S0 Onboard AI / Inference** — Technical inquiry from Blaize Hybrid (Pete Dice); indicates external interest or partnership exploration in inference capability
+- **Sightline AITR** — Prendergast-led discussion with Sightline Intelligence; new external evaluation or potential integration
+- **Onshape CAD Export Issue** — Design/manufacturing workflow problem escalated through Maciej Stachura
 
-### Recurring Themes
-- Hardware procurement (composites, RF components, industrial supplies)
-- Sensor/camera module integration (Videology, e-Con Systems)
-- Processing hardware evaluation (Covar)
-- UAS platform development (RTK, inference, sensor suite)
-- Architecture/design documentation
+### Recurring Themes (Sustained)
+- Hardware procurement and component sourcing
+- Sensor/camera integration (Videology heritage)
+- Processing hardware & onboard inference (Blaize Hybrid contact suggests third-party validation)
+- System architecture & design documentation
+- UAS platform development
 
 ## Communication Patterns
 
-### Timeline
-- **Oct 22:** Heavy activity day (9 new emails) — mix of automation, hardware coordination, and project collaboration
-- **Oct 23:** Light activity (1 new email) — promotional/educational
-- **Primary collaboration window:** Tue–Thu with spike on Tue–Wed for project meetings/decisions
-
-### Mailing Lists & Automated Sources
-- **Asana** — project/task management notifications (regular)
-- **Purchasing routing alias** — vendor order confirmations, receipts, promos (high volume, aggregated)
-- **USPS Informed Delivery, Constant Contact, WordPress.com, Toggl, Rock West Composites, FutabaUSA** — service alerts/marketing (Oct 22 batch)
+### Timeline (Oct 23)
+- **Oct 23:** Moderate activity (8 emails) with concentrated technical discussion window
+  - 06:03 – CAD tool issue (Onshape)
+  - 09:22 – External partnership discussion (Sightline AITR)
+  - 11:00 – Promotional (Synopsys)
+  - 11:02 – Promotional (Survival Systems USA, flagged IMPORTANT)
+  - 14:44 – Architecture collab update (Google Docs)
+  - 15:57 – Promotional (recruiting)
+  - 16:26 – **Technical response from Blaize Hybrid on S0 AI**
+  - 16:46 – Promotional (GetFPV)
 
 ### Human vs. Automated
-- **Oct 22–23 new batch:** 2 human (Commonlands, Daniela) + 1 collaborative doc (Prendergast/Fromm) vs. 11 automated/promotional
+- **Oct 23 batch:** 4 human/collaborative (Prendergast, Dice, Stachura, Prendergast→Whaley) + 4 promotional/automated (GetFPV, Synopsys, Brightpath, Survival Systems)
 
 ## Key Relationships
 
-### Closest Internal Collaborators (by email frequency & recency)
-1. **Daniel Prendergast** — Architecture/hardware integration lead; active on S0 inference, processing hardware (Covar), Navy Phase I
-2. **Joshua Fromm** — Technical implementation/architecture documentation; shipping/procurement; S0 project participant
-3. **Jack Elston** — S0 project coordination (biweekly Wed meetings); leadership/scheduling
-4. **Beck Cotter** — 801 Dev Kit evaluation; hardware assessment
-5. **Maciej Stachura** — Navy contract liaison; DoD compliance/closeout
+### Closest Internal Collaborators (Updated)
+1. **Daniel Prendergast** — Architecture lead; external partnership liaison (Sightline AITR); CAD/design documentation owner
+2. **Joshua Fromm** — Architecture documentation collaboration (ongoing Google Docs)
+3. **Maciej Stachura** — Design tool & export workflow support; may own CAD infrastructure
+4. **Jack Elston** — S0 project coordination
+5. **Beck Cotter** — 801 Dev Kit evaluation
 
-### Key External Relationships (Oct 22–23)
-1. **Commonlands (Max Henkart)** — **Active technical partnership:** sensor coverage and lens field-of-view specifications (marked IMPORTANT)
-2. **Vector Isle (Daniela)** — **RTK positioning integration:** active discussion on UAS RTK capability
-3. **Videology (Thomas Garcia) / Aegis Select (David Naranjo, Becca Carnes)** — Camera hardware evaluation (801 Dev Kit feedback)
-4. **Covar (Joe Camilo, Claudia Dabbs)** — Processing hardware vendor for onboard inference
-5. **Rotortrade** — Industry conference contact; possible market/application expansion
+### Key External Relationships (Oct 23 New)
+1. **Blaize Hybrid (Pete Dice)** — **NEW: Active technical engagement on S0 onboard AI capability**—suggests potential partnership, customer inquiry, or capability validation from edge-AI systems vendor
+2. **Sightline Intelligence (Nick Whaley)** — **NEW: AITR evaluation/partnership discussion led by Prendergast**—intelligence/autonomous systems potential integration or evaluation
+3. **Commonlands (Max Henkart)** — Sensor/lens field-of-view coordination (ongoing)
+4. **Vector Isle (Daniela)** — RTK positioning (ongoing)
+5. **Videology / Aegis Select / Covar** — Hardware ecosystem (previous)
 
 ## Notable Observations
 
-- **Google Docs collaboration** (Oct 22) suggests active real-time document sharing on system architecture—indicates design phase or specification review in progress
-- **Commonlands IMPORTANT flag** + active sensor/lens coordination suggests critical optical path decision or integration milestone
-- **RTK discussion** with Vector Isle remains open (UNREAD Oct 22)—indicates pending decision or specification work on positioning capability
-- **Rotortrade AMTC 2026 outreach** is new contact type—suggests possible exploration of rotorcraft platforms or industry partnerships (AMTC = American Helicopter Society Technical Meeting likely)
-- **Automation/promotional ratio** remains high (~86%), indicating Alex routes operational procurement through shared alias but maintains personal inbox for technical/strategic communication
-- **No email decay:** Consistent engagement Oct 22–23 on active technical threads (architecture, sensor specs, RTK) suggests
+- **Blaize Hybrid contact** (Oct 23) represents new external inquiry channel on S0 onboard AI—suggests capability is becoming known in vendor/partner ecosystem or actively being marketed
+- **Sightline Intelligence AITR thread** initiated by Prendergast, not Alex, but routed through Alex's inbox—indicates Prendergast manages external technical partnerships; AITR likely relates to autonomous/AI systems integration
+- **Onshape CAD export failure** (Oct 23 06:03) marked routine but escalated to Stachura—suggests design/manufacturing workflow criticality or toolchain issue impacting current development sprint
+- **Google Docs architecture update** (Oct 23 14:44) continues high-priority status—real-time specification/design review likely ongoing
+- **Recruiting outreach** (Boulder-based Manufacturing Production Associate) may indicate facility expansion or hiring acceleration in manufacturing
+- **Pattern shift Oct 23:** Higher density of technical correspondence (50% vs. typical 14% human rate in previous batches) suggests compressed decision/specification window or project milestone activity
+- **Email domains:** Use of both `alex.lomis@blackswifttech.com` and `alex.lomis@bst.aero` (Blaize Hybrid contact) confirms dual domain awareness/usage

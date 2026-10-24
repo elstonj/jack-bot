@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026) and Shelly Dvorak, Portfolio Marketing Consultant (October 7, 2026).
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), and three new team members starting October 28, 2026: Lynn Regnier (Controller), Brandon Messersmit (UAS Technician), and Bob Edson (Principal UAS Technician).
 
 ## Key Decisions
 
@@ -35,3 +35,46 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Exterior Window Cleaning** (June 16, 2026): Meredith Needham notified team of exterior window cleaning scheduled for June 17, 2026.
 - **Camp Pendleton S0 Demo** (June 16, 2026): Maciej requesting Part 107 pilot licenses from team members for upcoming Camp Pendleton S0 demonstration. Dan Prendergast directed to BST Pilot Quals folder in Shared Drives → Operations: Flight for license documentation.
 - **KrateoSky Partnership Event - Execution** (June 18-19, 2026): Multi-location celebration event executed with Verde breakfast.
+- **Three New Hires Starting October 28, 2026** (Announced October 23, 2026): Cory Dixon announced three team members beginning Monday, October 28, 2026:
+  - Lynn Regnier (Controller)
+  - Brandon Messersmit (UAS Technician - starting Monday afternoon due to prior commitments)
+  - Bob Edson (Principal UAS Technician)
+  Cory Dixon providing welcome refreshments (doughnuts and pastries); team encouraged to welcome new hires and introduce themselves.
+
+## Action Items & Commitments
+
+### Time-Sensitive (October 2026)
+- **Joshua Fromm & Dan Prendergast Out Monday-Tuesday (Oct 28-29, 2026)**: Team directed to contact them today (October 23) if anything needed before departure
+- **S0 Aircraft Preparation for Trip** (October 23, 2026): Dan Prendergast acknowledged unnamed team member for getting S0 ready for upcoming trip (specifics not detailed)
+- **Cory Dixon Welcome Coordination** (October 28, 2026): Cory bringing doughnuts and pastries for three new hires; team to welcome Lynn Regnier, Brandon Messersmit (afternoon arrival), and Bob Edson
+
+### Ongoing
+- **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
+
+## Client & External References
+- **KrateoSky**: Partnership and integration meetings ongoing; multi-location milestone celebration event held June 18-19, 2026
+- **DoD Customers**: SOCOM and 53rd Weather Squadron engaged for S0-AD demonstrations and mission requirements definition
+- **Camp Pendleton**: S0 demonstration scheduled requiring Part 107 pilot documentation
+- **Chad Atwood**: External contact providing healthcare provider feedback request
+- **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
+
+## Recurring Topics & Themes
+- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination
+- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl, Josh Waldman, Shelly Dvorak, and three new hires October 28)
+- **Office Management**: Facility maintenance, cleanliness standards, HVAC/lock issues requiring team awareness
+- **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, and time-off planning
+
+## Important Resources
+- **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
+- **Rippling**: Time-off and absence management system
+- **Google Drive**: Primary document storage with security protocols for sensitive data
+- **Hotel Boulderado**: Venue for KrateoSky milestone event (with alternative nearby hotels for overflow)
+
+## Recent Activity
+
+### October 23, 2026
+- **Team Recognition**: Ethan Domagala praised unnamed team member for enthusiastic Friday participation (eating 15+ nut thins)
+- **Three New Hires Announced**: Cory Dixon formally announced three team members starting October 28, 2026 (Lynn Regnier - Controller, Brandon Messersmit - UAS Technician arriving afternoon, Bob Edson - Principal UAS Technician)
+- **S0 Trip Preparation**: Aircraft prepped and ready per Dan Prendergast's acknowledgment
+- **Out-of-Office Notice**: Joshua Fromm and Dan Prendergast unavailable Monday-Tuesday; team directed to contact today if needed

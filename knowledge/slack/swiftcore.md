@@ -7,10 +7,10 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management)
 - Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins)
 - Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist)
-- Dan Prendergast (infrastructure/GitLab access)
-- Cory Dixon
 - Spencer Hoehl (simulator testing lead, QC flight procedures)
 - Ali Sulehria (software and use case testing)
+- Dan Prendergast (infrastructure/GitLab access)
+- Cory Dixon
 - Other team members
 
 **Activity Level:** Highly active with daily technical discussions, bug reports, and project coordination
@@ -117,4 +117,122 @@ This channel serves as the primary technical communication hub for Black Swift T
 **GCS Hardware Platform Selection (July 7-10, 2026 - FINALIZED):**
 - **Initial Decision (July 7-8, 2026):** Use exact setup from NOAA GCS regarding Gateworks board and expansion configuration
   - Two-slot board selected to provide more options for future expansion
-  - Alternative approach considered: Using onboard UART for GPS and USB for
+  - Alternative approach considered: Using onboard UART for GPS and USB for secondary expansion
+
+**Clog Detector Parameter Update (October 23, 2026):**
+- Decision to move remaining clog detector fixes to version 4.0
+- SwiftCore 3.3 will operate without clog detection by default
+- Clog detection will be enabled selectively for BST missions in rain conditions
+- Rationale: Clog detector parameters were based on incorrect propulsion model; parameters now corrected for S3 model update
+- Action: Zero out clog detector parameters on simulator (Estimator page XML update by Maciej)
+- Approved by: Jack Elston (October 23, 2026)
+
+## Projects & Initiatives
+
+**SwiftCore 3.3 Release (In Progress - October 2026):**
+- Flight testing in progress with multiple failure scenario validation
+- Autopilot 3.3 release candidate firmware being tested with SwiftTab app
+- XML configuration files being updated and finalized
+- Status: Multiple test scenarios being validated by Spencer Hoehl and Ali Sulehria
+
+**SwiftTab App Development:**
+- Current version: SwiftTab-staging.apk on 3.3 branch
+- Issue identified: App crashes when loading saved aircraft params files onto aircraft running SwiftCore AP 3.3 RC firmware (reported October 23, 2026 by Spencer Hoehl)
+- Bug report functionality working, reports being received by Ben Busby
+
+**Failure Scenario Testing (October 2026):**
+- Loss of GPS in joystick mode: Appears to be working normally; may have been handset setup issue
+- Loss of pitot: Functioning correctly in both fail app and GUI
+- Static sensor loss: Expected Level 2 failure behavior confirmed; no issues found
+- Mag failures: Showing normal/expected behavior
+- Waypoint skipping at higher altitudes: Reproduced by Ali Sulehria (has 20-minute screen recording for review)
+
+**S3 Model Aircraft Configuration:**
+- Default S3 XML files added by Maciej (October 23, 2026)
+- Propulsion model updates completed affecting clog detector parameters
+
+## Action Items & Commitments
+
+**Outstanding Issues (October 23, 2026):**
+1. **Spencer Hoehl:** 
+   - Check if pitot failure "freezing" issue still occurring in simulator; provide reproduction steps if found
+   - Review SpeedyBee settings for potential "static blocked" failure investigation
+   - Validation of Level 2 failure warning behavior
+
+2. **Ali Sulehria:**
+   - Provide detailed information on waypoint-skipping issue to Maciej
+   - Show screen recording (20 minutes) of waypoint skipping at higher altitudes when Maciej has time
+   - Monitor for reproduction of potential user-error related issue
+
+3. **Ben Busby:**
+   - Investigate and address SwiftTab-staging.apk crash when loading aircraft params files on SwiftCore AP 3.3 RC firmware
+   - Follow up on bug report received from Spencer Hoehl
+
+4. **Maciej:**
+   - Update XML files for clog detector parameters (zero out on simulator Estimator page)
+   - Add default S3 XML files ✓ COMPLETED (October 23, 2026)
+   - Await detailed failure scenario information from testing team for mag/static/GPS issues
+
+## Client & External References
+No new external references in recent batch.
+
+## Recurring Topics & Themes
+
+**Failure Scenario Testing:**
+- Regular validation of autopilot failure modes including:
+  - GPS loss in various flight modes
+  - Pitot pressure sensor failures
+  - Static pressure sensor failures (blocked vs. off)
+  - Magnetometer failures
+  - Waypoint navigation anomalies
+
+**Simulator vs. Real Hardware Testing:**
+- Ongoing discussion of simulation discrepancies vs. actual aircraft behavior
+- Handset/USB joystick configuration issues affecting test repeatability
+- Firmware version consistency between simulator and test platforms
+
+**Clog Detection:**
+- Recurring issue with parameters based on incorrect propulsion model
+- Trade-off between detection capabilities and operational flexibility
+- Selective enablement strategy for rain missions
+
+## Important Resources
+
+**XML Configuration Files:**
+- SwiftCore AP 3.3 Estimator page XML (parameter configuration)
+- S3 model default XML files (newly added, October 23, 2026)
+- Payload configuration spreadsheet (flagged for refresh, June 2026)
+
+**Testing Artifacts:**
+- Screen recording of waypoint skipping scenario (20 minutes, held by Ali Sulehria)
+- SwiftTab-staging.apk crash reports and logs (being collected by Ben Busby)
+
+**Software Branches/Versions:**
+- SwiftCore AP 3.3 release candidate firmware
+- SwiftTab-staging.apk (3.3 branch)
+
+## Recent Activity
+
+**October 23, 2026 - Version 3.3 Flight Testing Progress:**
+
+**Failure Scenario Validation Results:**
+- **Loss of GPS in joystick mode:** Working normally on Maciej's handset; likely simulator setup issue on test system
+- **Pitot failure handling:** Functioning correctly in both fail app and GUI; Maciej unable to reproduce "freezing" issue (Spencer to investigate further)
+- **Static sensor loss:** Correct Level 2 behavior confirmed; previous "static blocked" test condition changed to "static off" by Jack Elston, causing NaN value behavior
+- **Magnetometer failures:** Normal/expected behavior observed by Maciej; insufficient detail provided for debugging
+- **Waypoint skipping:** Ali Sulehria initially reproduced but unable to reproduce on second attempt with same flight plan; identified as potentially user-error, will monitor for recurrence; higher altitude scenarios warrant further investigation
+
+**Clog Detector Parameter Management:**
+- Decision finalized to defer clog detector fixes to 4.0 release
+- Parameters will be zeroed out on simulator for 3.3 operations
+- Root cause identified: Parameters were based on incorrect propulsion model; S3 model update now requires recalibration
+- Approved by Jack Elston with thanks to Maciej
+
+**SwiftTab App Issue:**
+- Critical crash reported: SwiftTab-staging.apk crashes when loading saved aircraft parameter files onto aircraft running SwiftCore AP 3.3 RC firmware (October 23, 11:09 AM)
+- Bug report auto-submitted; Ben Busby acknowledged and investigating
+
+**XML Configuration Updates:**
+- All XML files updated and pushed by Maciej
+- Default S3 aircraft XMLs added for standard configuration reference
+- Clog detector parameters awaiting zeroing on Estimator page

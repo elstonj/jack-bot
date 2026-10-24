@@ -56,4 +56,98 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **GCS Operational Handover:** Discussion initiated regarding whether GCS units being produced are intended for NOAA operational handover; proposal suggested duplicate testing station at BST for troubleshooting issues NOAA may encounter with remotely operated stations (May 7, 2026)
 - **Higher-Rate Data Recording:** NOAA requested modification to ground stations to enable higher-rate data availability for operational use as early as 2026 season; Jack Elston planning to integrate this modification into new GCS builds with P3 simulator testing prior to implementation (May 27, 2026)
 - **GCS 001 Connectivity Issues Resolved:** Jack Elston provided command sequence for updating gcsDaemon to fix connection issues: scp/ssh into station, stop daemon, move new binary, restart daemon (August 20, 2026)
-- **Microhard Radio Configuration:** Implemented ATS108
+- **Microhard Radio Configuration:** Implemented ATS108 (October 23, 2026)
+
+**Power Supply & Battery Management:**
+- **PSNS Sleep Mode Issues:** Jack Elston diagnosed root cause of ~4 mA "fake sleep" condition in power supply network system (PSNS); issue traced to MC33772C BMS remaining awake after PSNS loses power without entering sleep mode; LTC2954 (U13) normally enables buck from VBATT, but when tube enters SHUTDOWN, TurnOffAircraft() holds PSNS power line low for ≥7s; however, PSNS previously ignored this line while CHARGING and RUNNING_PROTECTED; fix implemented in new firmware (v0.4, v0.41, v0.5) for PSNS and deployment tube (October 23, 2026); firmware ready for testing but not yet flashed or bench-tested
+- **PSNS Firmware CAN Communication Issue:** New firmware versions on v0.4 and v0.5 boards only transmit supply packets over CAN bus; QC testing failed to read serial numbers; Ali Sulehria confirmed issue by testing v0.4 board before and after firmware flash—expected packets were present before update but only supply packets appeared after flashing (October 23, 2026); issue requires investigation and resolution
+
+## Projects & Initiatives
+
+**S0 Aircraft Development & Production**
+- Ongoing design refinement and manufacturing of hurricane reconnaissance aircraft
+- Active quality control testing and verification processes
+- Multiple aircraft builds in various stages of completion
+- Continuous iteration on components, firmware, and operational procedures
+
+**PSNS (Power Supply Network System) Sleep Mode Bug Fix**
+- Root cause identified by Jack Elston (October 23, 2026)
+- New firmware deployed for testing on v0.4, v0.41, and v0.5 boards
+- ~4 mA "fake sleep" case resolved; ~1 mA case still open
+- Testing phase underway to validate fixes
+- CAN communication regression in new firmware requires resolution
+
+**Vertiq Motor Integration Project**
+- Motor controller switched from previous system to Vertiq propulsion (October 2, 2026 completion)
+- Supply chain challenges resolved with final shipment received
+- Integration now complete with adjustable slew-rate limiters operational
+
+**GCS Dual-Channel and Higher-Rate Data Implementation**
+- Firmware updates completed for dual radio control capability
+- RADIO A/B nomenclature standardized across all systems
+- Comprehensive procurement process underway for new GCS builds
+- Higher-rate data recording modification integrated for operational deployment
+- Systems being prepared for NOAA operational handover
+
+**Deployment Tube & Parachute System Refinement**
+- Parachute cap design updated to tighter-fitting version (July 29, 2026)
+- Spring-loaded switch replacement procedure documented
+- All old caps scheduled for replacement
+
+## Action Items & Commitments
+
+**Outstanding/In-Progress:**
+- Jack Elston: Coordinate visit by Russel and others; finalize draft agenda/schedule document (October 23, 2026)
+- Jack Elston & Ali Sulehria: Bench-test new PSNS firmware (v0.4, v0.41, v0.5) for sleep mode fixes and CAN communication regression (October 23, 2026)
+- Joshua Fromm: Verify with Vertiq if 3-week lead time for qty150 motors is standard or instance-specific (as of October 2, 2026)
+- Joshua Fromm: Ensure RPM feedback requirement is established upfront for 6S ESC/motor combo selection to avoid missing critical specifications (September 23, 2026)
+
+## Client & External References
+
+**NOAA (National Oceanic and Atmospheric Administration)**
+- Admiral Cary (leadership contact)
+- Operational user of S0 aircraft system
+- Requested higher-rate data recording capability for 2026 season operations
+- Established single-operator-per-aircraft as acceptable operational rule
+- Will receive GCS units for operational deployment
+
+**Suppliers & Vendors:**
+- Lee: Deployment tube machining ($700 NRE, $95 per tube)
+- Vertiq: Motor controller and propulsion system supplier; 3-week lead time for qty150 (October 2, 2026)
+- Winsource: Removed from future supplier selection (June 29, 2026)
+- T-Motor: Propulsion components (F60)
+- Samsung: Battery cells (INR21700-50S)
+- Panasonic: Previous battery cells (NCR18650GA, discontinued)
+
+**Internal/Team Contacts:**
+- Beck Cotter: External coordination and scheduling
+- Ali Sulehria: PSNS firmware testing and QC
+- Alex Lomis: 6S battery configuration research
+- Maciej: Motor/ESC RPM feedback requirements
+
+## Recurring Topics & Themes
+
+1. **Motor/Propulsion System Integration:** Repeated cycles of motor selection, ESC compatibility, RPM feedback requirements, and supplier delays; Vertiq integration completed but required extended problem-solving
+2. **Power Management Issues:** Ongoing work on PSNS sleep modes, battery configuration, power consumption optimization across multiple voltage systems
+3. **Ground Station Development:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities
+4. **Component Quality & Supply Chain:** Regular evaluation of suppliers, parts quality (defects detected and addressed), manufacturing standards
+5. **Firmware Testing & Deployment:** Iterative testing and debugging of new firmware versions before deployment to operational systems
+6. **NOAA Integration:** Regular coordination with NOAA on operational requirements, handover preparation, and capability enhancements
+7. **Deployment Tube System:** Ongoing refinement of parachute deployment timing, cap design, and associated mechanical components
+
+## Important Resources
+
+- [GCS Visit Draft Document](https://docs.google.com/document/d/1e57pxbMghsVvhTZb2QxfVlT7O80-tV__Nub3umt1PlM/edit?usp=drive_link) (October 23, 2026) - Agenda/planning for Russel and others visit
+- PSNS Firmware Versions: v0.4, v0.41, v0.5 (with sleep mode and CAN communication fixes)
+- Deployment Tube Firmware: Updated to address SHUTDOWN sequence
+- 2026 DUAL Procurement Spreadsheet: Comprehensive GCS and testing equipment components list
+- QC Site Configuration: Modified no_ias_a parameter (-2.4989) applied to all existing S0s
+- RADIO A/B Nomenclature: Standardized across all GCS and aircraft systems (replacing CH1/CH2)
+- Microhard Radio: ATS108 configuration implemented
+
+## Recent Activity
+
+**October 23, 2026:**
+- Jack Elston drafted visit agenda document for Russel and others; Beck Cotter indicated informal preference but confirmed document would be helpful for coordination
+- Jack Elston diagnosed PSNS sleep mode "fake sleep" issue (~4 mA case): MC33772C BMS remains awake when PSNS loses power without proper sleep sequence; LTC2954 (U13) and TurnOffAircraft() behavior analyzed; fix implemented in new firmware for v0.4, v0.41, v0.5 boards and deployment tube; ~1 mA case remains open; firmware ready for testing but not yet flashed/bench-tested
+- Ali Sulehria identified regression in new PSNS firmware: v0.4 and v0.5 boards only transmitting supply packets over CAN after update; serial number QC reads failing; confirmed by testing v0.4 board before/after flash showing expected multi-packet transmission before update and supply-only packets after update; root cause requires investigation

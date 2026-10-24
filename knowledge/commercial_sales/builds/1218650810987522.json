@@ -2,13 +2,13 @@
   "asana_gid": "1218650810987522",
   "asana_task_name": "University of Houston",
   "customer": "University of Houston",
-  "customer_contact": "Kelly Huang",
+  "customer_contact": "Kelly Huang and James Flynn",
   "customer_email": "yhuang74@central.uh.edu",
   "receive_by": null,
   "ship_to": null,
   "items": [
     {
-      "description": "S2",
+      "description": "S3",
       "quantity": 1
     }
   ],
@@ -17,7 +17,7 @@
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": null,
-  "invoice_amount": null,
+  "invoice_amount": 70000.0,
   "invoice_number": null,
   "paid_date": null,
   "parts": [],
@@ -29,12 +29,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UH Assistant Professor Kelly Huang seeking S2 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. UH needs to encumber funds by EOY; BST is being onboarded as vendor. Beck has engaged with detailed use-case discussion and S3 spec sheet provided (note: original task lists S2 but recent emails reference S3 configurations; clarification needed on final platform choice).",
+  "notes": "UH Assistant Professor Kelly Huang and colleague James Flynn seeking S3 (not S2 legacy product) for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. UH needs to encumber funds by EOY; BST is being onboarded as vendor. Estimated/Quoted Value $70,000. Quote sent per Asana custom field. Recent Slack (2026-10-21) confirms UH order is \"very likely\" and vendor onboarding in progress.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "invoice_number",
-    "invoice_amount",
     "estimate_date"
   ],
   "last_evidence_date": "2026-10-21",

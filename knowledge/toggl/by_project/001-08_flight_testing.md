@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-23: 639.3 h total since 2020-01-01 — Spencer Hoehl 278.5 h, Ethan Domagala 182.8 h, Nate 134.2 h, Stachura 39.2 h, Jack Elston 4.5 h._
+_Computed from Toggl as of 2026-10-24: 646.9 h total since 2020-01-01 — Spencer Hoehl 286.1 h, Ethan Domagala 182.8 h, Nate 134.2 h, Stachura 39.2 h, Jack Elston 4.5 h._
 
 # [001-08] Flight Testing — Time Tracking
 
@@ -6,37 +6,34 @@ _Computed from Toggl as of 2026-10-23: 639.3 h total since 2020-01-01 — Spence
 - **Client:** Internal (Black Swift Technologies)
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 639.3 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 646.9 hours (since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Spencer Hoehl | 278.5 | 43.5% |
-| Ethan Domagala | 182.8 | 28.6% |
-| Nate | 134.2 | 21.0% |
+| Spencer Hoehl | 286.1 | 44.2% |
+| Ethan Domagala | 182.8 | 28.3% |
+| Nate | 134.2 | 20.7% |
 | Stachura | 39.2 | 6.1% |
 | Jack Elston | 4.5 | 0.7% |
 
-**Primary Contributor:** Spencer Hoehl dominates the project, accounting for over 43% of tracked time.
+**Primary Contributor:** Spencer Hoehl dominates the workload, accounting for nearly half of all tracked hours.
 
 ## Activity Timeline
-Recent work entries show consistent activity with minimal task descriptions documented:
+Recent work entries show an active project with consistent engagement:
 
-**Documented Tasks (Recent):**
-- Flight test planning (Jack Elston: 1.5h across multiple entries)
-- VTOL work (Nate: 5.0h)
-- Meeting and S1 Preflight (Ethan Domagala: 2.0h)
-- S2 QC Flight (Ethan Domagala: 3.5h)
-- SMM E2 Prep (Ethan Domagala: 1.0h)
-- E2 SMM and ERAU Testing (Ethan Domagala: 4.5h)
+**Documented Activities (from entries with descriptions):**
+- Flight test planning (Jack Elston) — multiple instances
+- S1 Preflight and meeting (Ethan Domagala, 2.0h)
+- S2 QC Flight (Ethan Domagala, 3.5h)
+- SMM E2 Prep (Ethan Domagala, 1.0h)
+- E2 SMM and ERAU Testing (Ethan Domagala, 4.5h)
 
-**Work Pattern:** High frequency of time entries with most lacking descriptions. Spencer Hoehl logs frequent sessions (0.2h–7.3h range), suggesting hands-on flight test execution and troubleshooting work.
+**Work Pattern:** Spencer Hoehl entries are predominantly undescribed, with session durations ranging from 0.2h to 8.1h. Recent sessions average 3–4 hours per entry. Ethan Domagala contributes in discrete, purposeful blocks tied to specific test phases. Jack Elston and Stachura have minimal recent involvement.
 
 ## Insights
-- **Work Type:** Flight test execution and preparation dominate based on available descriptions (preflight checks, QC flights, SMM testing, ERAU testing, VTOL work)
-- **Documentation Gap:** ~95% of recent entries lack task descriptions, limiting visibility into specific work breakdown
-- **Team Distribution:** Clear three-tier structure—Spencer as lead executor, Ethan as secondary (test operations/QC), Nate as supporting contributor
-- **Consistency:** Sustained activity indicates ongoing flight test campaign or development phase
-- **Leadership:** Jack Elston's minimal involvement suggests planning/coordination rather than hands-on execution
-
-**Recommendation:** Implement standardized entry descriptions to improve project tracking and knowledge retention.
+- **Work Type:** Flight testing operations including preflight checks, quality control flights, systems testing, and planning activities
+- **Documentation Gap:** 68 of 76 recent entries lack descriptions; Spencer Hoehl's activities are largely undocumented, limiting visibility into specific work performed
+- **Testing Phases Identified:** Multiple test series (S1, S2, E2, SMM) suggest structured flight test campaign progression
+- **Concentration Risk:** Heavy reliance on Spencer Hoehl (44% of hours) with secondary support from Ethan Domagala (28%)
+- **Team Scaling:** Nate, Stachura, and Jack Elston represent emerging or supporting roles with limited recent activity

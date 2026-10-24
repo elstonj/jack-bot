@@ -1,14 +1,14 @@
 # Josh Fromm — Email Patterns
 
-**UPDATED: October 23, 2026**
+**UPDATED: October 24, 2026**
 
 ---
 
 ## Communication Volume
-- **Total: 1,781 messages** scanned across ~103 days (Jul 12–Oct 23, 2026)
+- **Total: 1,797 messages** scanned across ~104 days (Jul 12–Oct 24, 2026)
 - Average ~17.3 messages/day
-- **Latest data window (Oct 22–23)**: 32 new messages
-- **Pattern observation**: High operational tempo sustained. **S0 UAS System Integration workstream at peak intensity** (Jack Elston Google Docs collaboration active Oct 22 08:06 & 11:42 UTC — multiple @josh.fromm mentions flagged IMPORTANT; system-level architecture revision). **Manufacturing vendor confirmations flowing** (Protospace MFG order 274595 confirmed Oct 22 15:24 UTC IMPORTANT; Pasternack Web Order #401280 forwarded to Daniel Prendergast Oct 22 10:15 UTC; FutabaUSA order received Oct 22 15:24 UTC). **Hiring cycle active** (UAS Technician interview scheduled Oct 22 3:30pm with Brandon Messersmith; Cory Dixon coordinating). **Routine noise remains high** (20/32 new messages are promotional/automated: AliExpress, Hilton Honors, Expedia, Olo, TraceParts, Global Industrial, Toggl, UAS Vision newsletter, etc.).
+- **Latest data window (Oct 23–24)**: 16 new messages
+- **Pattern observation**: Continued high operational tempo. **S0 UAS System Integration workstream sustains peak intensity** (Daniel Prendergast Google Docs collaboration Oct 23 14:44 UTC with @josh.fromm mentions; system-level architecture revision ongoing). **External partnerships expanding** (Sightline Intelligence AITR technical discussion thread active Oct 23, Nick Whaley/Daniel Prendergast dialogue IMPORTANT; Pete Dice at Blaze Sovereign querying S0 onboard inference Oct 23 16:33 UTC IMPORTANT). **Hiring acceleration** (Rohini Manjunatha/BrightPath Associates follow-up on Manufacturing Production Associate opening Oct 23 15:50 UTC IMPORTANT — recruiter-sourced candidates flowing). **Field operations active** (Daniel forwarding Candlewood Suites Fayetteville/Fort Bragg hotel reservation Oct 23 09:05 UTC IMPORTANT — Josh traveling for ops/testing). **Routine noise sustained** (promotional/automated: AliExpress, Fictiv, ProtoSpace marketing, DigiKey, TraceParts, UAS Vision daily newsletter, Asana task notifications).
 
 ---
 
@@ -18,76 +18,118 @@
 
 **Internal — Strategic/Engineering**
 
-1. **Jack Elston** (jack.elston@blackswifttech.com) — **S0 UAS PROGRAM INTEGRATION LEAD**
-   - **NEW (Oct 22 11:42:35 UTC)**: "System-level Arch... - @josh.fromm@blackswifttech.com @alex..." (Google Docs collaboration; CATEGORY_UPDATES) — **Active architecture documentation; Josh tagged for review**
-   - **NEW (Oct 22 08:06:23 UTC)**: "S0 UAS System Int... - @josh.fromm@blackswifttech.com - mind..." (Google Docs; IMPORTANT, CATEGORY_UPDATES) — **Direct mention; priority collaboration flag**
-   - **Signal**: **Jack continues driving S0 system integration; Josh is required contributor to architecture decisions**
+1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **S0 UAS PROGRAM TECHNICAL LEAD / ARCHITECTURE OWNER**
+   - **NEW (Oct 23 14:44:00 UTC)**: "System-level Arch... - @josh.fromm@blackswifttech.com @alex..." (Google Docs; UNREAD, CATEGORY_UPDATES) — **Active architecture documentation; Josh tagged for input**
+   - **NEW (Oct 23 09:05:49 UTC)**: "Fwd: Details for your upcoming stay at Candlewood Suites Fayetteville Fort Bragg..." (TO: Joshua Fromm; IMPORTANT) — **Daniel forwarding travel logistics to Josh; field operation coordination**
+   - **Signal**: **Daniel driving technical architecture decisions; Josh receiving travel briefs for field ops (testing/deployment activities)**
 
-2. **Cory Dixon** (cory.dixon@blackswifttech.com) — **HR/RECRUITMENT COORDINATION**
-   - **NEW (Oct 22 20:04:56 UTC)**: "Invitation: Brandon Messersmith - Interview for UAS Technician @ Thu Oct 22, 2026 3:30pm - 4pm (MDT) (Joshua Fromm)" (TO: Joshua Fromm, Jack Elston; UNREAD) — **Josh scheduled as interviewer; UAS Technician hire in process**
-   - **Signal**: **Josh participating in technical hiring; confirms team expansion underway**
+2. **Beck Cotter** (via Asana) — **OPERATIONS/FIELD COORDINATION**
+   - **NEW (Oct 23 16:32:11 UTC)**: "💬 New comment on: ERAU E2 repair" (Asana notification; UNREAD, CATEGORY_UPDATES) — **Field asset repair tracking; E2 platform maintenance ongoing**
+   - **Signal**: **Beck escalating field maintenance issues to Josh; platform sustainment active**
 
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — **OPERATIONS/FACILITIES/PROCUREMENT**
-   - **NEW (Oct 22 13:53:52 UTC)**: "Fwd: Your order from JawsTec is on its way!" (TO: Meredith Needham, Joshua Fromm; IMPORTANT) — **JawsTec vendor shipment tracking; forwarded to both Meredith & Josh**
-   - **Signal**: **Beck routing vendor confirmations to Josh + Meredith; part of critical procurement pipeline visibility**
+**External — Technical Partners/Vendors**
 
-**External — Vendors/Partners**
+1. **Pete Dice** (pete@blaizesovereign.com) — **BLAZE SOVEREIGN (likely S0 integration partner/system consultant)**
+   - **NEW (Oct 23 16:33:46 UTC)**: "RE: Question on S0 onboard inference" (TO: josh.fromm@bst.aero; UNREAD, IMPORTANT) — **Direct technical query on S0 onboard AI inference capability; Josh responding to partner technical leads**
+   - **Signal**: **Pete is S0 technical contact; onboard inference is active discussion topic with external partners. NOTE: Email routed to josh.fromm@bst.aero domain (variant address)**
 
-1. **Jessica** (jessica@protospacemfg.com) — **PROTOSPACE MFG (CNC/RAPID PROTOTYPING)**
-   - **NEW (Oct 22 12:14:28 UTC)**: "RE: Hi Joshua - Would Love to Reconnect" (TO: Joshua Fromm; IMPORTANT, UNREAD) — **Protospace reengagement; Josh responded same day 08:53:16 UTC**
-   - **NEW (Oct 22 15:24:58 UTC via Randi)**: "Order 274595 Confirmed! Here's What Happens Next" (FROM: randi@protospacemfg.com TO: purchasing@blackswifttech.com, josh.fromm@blackswifttech.com; IMPORTANT) — **Protospace manufacturing order confirmed; Josh copied on order status**
-   - **Signal**: **Protospace relationship active and operational; manufacturing capacity engaged for current production**
+2. **Nick Whaley** (nwhaley@us.sightlineintel.com) — **SIGHTLINE INTELLIGENCE (external partner/vendor)**
+   - **NEW (Oct 23 21:00:47 UTC)**: "RE: Sightline AITR" (TO: Daniel Prendergast; IMPORTANT) — **Nick Whaley/Daniel Prendergast thread (not direct to Josh, but Josh receives via Daniel forwarding)**
+   - **NEW (Oct 23 14:59:24 UTC & 14:57:12 UTC)**: Multiple "RE: Sightline AITR" replies from Nick to Daniel (IMPORTANT) — **Rapid-fire discussion; AITR (AI Target Recognition or similar) technical collaboration**
+   - **Signal**: **Sightline Intelligence engaged in S0 technical workstream; Nick Whaley is primary contact; Josh receiving updates via Daniel**
 
-2. **Pasternack** (sales@pasternack.com) — **RF/MICROWAVE COMPONENTS VENDOR**
-   - **NEW (Oct 22 16:03:54 UTC)**: "Re: Pasternack New Order Notification Web Order #401280 #641612370" (TO: purchasing@blackswifttech.com; CATEGORY_FORUMS) — **Josh forwarded this to Daniel Prendergast 10:15 UTC for technical oversight**
-   - **Signal**: **RF component orders critical path; Josh escalating to Daniel for validation**
-
-3. **FutabaUSA** (via Purchasing channel) — **SERVOS/RADIO CONTROL COMPONENTS**
-   - **NEW (Oct 22 15:24:36 UTC)**: "Your FutabaUSA order has been received!" (TO: purchasing@blackswifttech.com; CATEGORY_FORUMS) — **Order confirmation via purchasing distribution**
-   - **NEW (Oct 22 21:15:57 UTC)**: "Password Reset Request for FutabaUSA" (TO: purchasing@blackswifttech.com; CATEGORY_FORUMS) — **Account access management**
-   - **Signal**: **Futaba components consistent supplier for UAS system procurement**
+3. **Rohini Manjunatha** (rohini.m@brightpathassociates.com) — **BRIGHTPATH ASSOCIATES (RECRUITMENT FIRM)**
+   - **NEW (Oct 23 15:50:13 UTC)**: "Follow-up on Manufacturing Production Associate Opening" (TO: josh.fromm@blackswifttech.com; IMPORTANT, CATEGORY_UPDATES) — **Recruiter follow-up on manufacturing hire; Josh copied on candidate pipeline**
+   - **Signal**: **Manufacturing Production Associate role active recruitment (third-party recruiter engaged); Josh involved in hiring decision or technical screening**
 
 ### Top Recipients (Josh sending to)
-
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com)
-   - **NEW (Oct 22 10:15:27 UTC)**: "Fwd: Pasternack New Order Notification Web Order #401280 #641612370" (SENT) — **Josh routing vendor confirmations for technical review/approval**
-
-2. **Jessica** (jessica@protospacemfg.com)
-   - **NEW (Oct 22 08:53:16 UTC)**: "Re: Hi Joshua - Would Love to Reconnect" (SENT) — **Josh actively maintaining manufacturing relationship**
+- **Daniel Prendergast** (ongoing; technical escalations, architecture collaboration)
+- **Pete Dice** (technical Q&A on S0 onboard inference)
+- **Internal team** (via Asana/Google Docs collaboration)
 
 ---
 
 ## Topic Patterns
 
 ### Projects/Initiatives
-- **S0 UAS System Integration** (dominant; architecture-level work Oct 22–23)
-- **UAS Technician Hiring** (interview scheduled Oct 22)
+- **S0 UAS System Integration** (architecture-level work; system-level documentation Oct 23; onboard inference capability active discussion)
+- **Manufacturing Production Associate Hiring** (third-party recruiter engagement; role appears critical to production scaling)
+- **ERAU E2 Platform Maintenance** (field asset repair ticket active)
+
+### Technical Discussions
+- **S0 Onboard Inference** (Pete Dice inquiry; core AI capability topic)
+- **Sightline AITR Integration** (external partner technical collaboration with Nick Whaley; inference/detection system component)
 
 ### Manufacturing/Procurement
-- **CNC Parts Manufacturing** (Protospace MFG order 274595 confirmed)
-- **RF/Microwave Components** (Pasternack Web Order #401280)
-- **Servo/Radio Control Components** (FutabaUSA orders active)
-- **Mechanical Parts** (JawsTec shipment tracking via Beck Cotter)
+- *(Continued from prior window)*
+- Manufacturing production scaling (recruiter sourcing Production Associates)
 
 ### Vendors Appearing in New Data
-- **Protospace MFG** (manufacturing partner)
-- **Pasternack** (RF components)
-- **FutabaUSA** (servo/RC components)
-- **JawsTec** (mechanical components)
-- **Rock West Composites** (via Purchasing distribution)
+- **Fictiv** (on-demand manufacturing; promotional webinar Oct 23)
+- **DigiKey** (electronics components; AI prototyping webinar Oct 23)
+- **TraceParts / Amphenol PCD** (connectors; promotional Oct 23)
+- **ProtoSpace Mfg** (marketing email Oct 23; continued vendor presence)
+
+### External Partners/Organizations
+- **Sightline Intelligence** (AITR technical workstream)
+- **Blaze Sovereign** (S0 onboard inference partner)
+- **BrightPath Associates** (recruiting partner)
 
 ---
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Oct 22**: Heaviest day (25+ messages, morning/afternoon concentration 08:00–16:00 UTC + 16:00–21:00 UTC)
-- **Oct 23**: Early morning/overnight (AliExpress 13:41 CST Oct 23 = Oct 22 evening US time; Hilton, Expedia, Asana, other promotional spam)
-- **Google Docs collaboration notifications clustered Oct 22 morning (08:06–11:42 UTC)**
+- **Oct 23**: Heavy day (14 of 16 new messages; distributed 09:00–21:00 UTC across morning, afternoon, evening)
+- **Google Docs/Asana collaboration**: Morning UTC (09:00–14:00) concentrated engineering/architecture work
+- **External partner responses**: Afternoon/evening UTC (14:00–21:00; Pete Dice 16:33 UTC, Sightline thread 14:57–21:00 UTC)
+- **Oct 24**: Overnight/early morning spam (AliExpress 13:00 CST Oct 24 = Oct 23 evening US time)
 
 ### Mailing Lists/Group Distribution
-- **purchasing@blackswifttech.com** (primary procurement distribution list; USPS Informed Delivery, eBay saved searches, FutabaUSA, Rock West Composites, eBay routed through this)
-- **Asana notifications** (multiple Oct 22–23; task management active)
-- **Google Docs comments** (Jack Elston using for real-time collaboration on S0 architecture)
+- **Asana task notifications** (beck.cotter via Asana; task/project management backbone)
+- **Google Docs comments** (daniel.prendergast initiating; real-time architecture collaboration)
+- **Direct partner email** (Pete Dice, Nick Whaley, Rohini Manjunatha — not list-based; one-to-one or copied threads)
 
-### Automated/Newsletter Patterns (significant filtering
+### Email Domain Variants
+- **josh.fromm@bst.aero** (Pete Dice routed to this alternate domain; may indicate external partner communication channel or BST secondary domain)
+
+### Automated/Newsletter Patterns
+- **Asana notifications** (task comments/assignments; CATEGORY_UPDATES)
+- **Google Docs notifications** (collaboration/mentions; CATEGORY_UPDATES)
+- **UAS Vision Daily News** (industry newsletter; passive consumption; CATEGORY_UPDATES)
+- **Promotional** (Fictiv, DigiKey, TraceParts, ProtoSpace marketing, AliExpress; 6/16 messages; lower proportion than Oct 22 window)
+
+---
+
+## Key Relationships
+
+### Internal Collaborators
+- **Daniel Prendergast** — **Primary technical partner; S0 architecture owner; directing Josh on infrastructure decisions and travel ops**
+- **Beck Cotter** — **Operations coordination; field asset sustainment**
+- **Jack Elston** (prior window) — **S0 system integration lead; architecture documentation contributor**
+
+### External Technical Partners
+- **Pete Dice (Blaze Sovereign)** — **S0 onboard inference integration; direct technical contact**
+- **Nick Whaley (Sightline Intelligence)** — **AITR technical workstream; Josh informed via Daniel; likely perception/inference layer partner**
+
+### Hiring/Staffing
+- **Rohini Manjunatha (BrightPath Associates)** — **Recruiter sourcing Manufacturing Production Associates; Josh involved in hiring**
+- **Cory Dixon** (prior window) — **HR coordination; UAS Technician hire (interview completed Oct 22)**
+
+---
+
+## Notable Observations
+
+1. **Travel Ops Signal**: Daniel forwarding Candlewood Suites Fayetteville/Fort Bragg hotel details to Josh (Oct 23) suggests **imminent field deployment or testing activity**. Fayetteville/Fort Bragg = Fort Liberty area (major DoD installation); likely operational field test or customer visit.
+
+2. **Dual Email Domain**: Pete Dice's message routed to **josh.fromm@bst.aero** (not .blackswifttech.com). Suggests **external-facing BST domain** or **partner communication protocol**. May indicate S0 is customer-facing or partner-integrated.
+
+3. **Sightline Intelligence Thread Pattern**: Multiple rapid replies from Nick Whaley to Daniel (Oct 23 14:57, 14:59, 21:00 UTC) suggest **active technical problem-solving session**. Josh not direct recipient, but Daniel is forwarding/copying; indicates **Josh follows downstream** from architecture decisions.
+
+4. **Manufacturing Production Associate Urgency**: Third-party recruiter follow-up (Rohini, BrightPath) marked IMPORTANT Oct 23. Combined with Cory Dixon's UAS Technician hire (Oct 22) = **team expansion in both engineering and manufacturing** — suggests production ramp-up or program scaling.
+
+5. **ERAU E2 Platform**: Beck's Asana comment on "E2 repair" (Oct 23) indicates **field asset maintenance load**. E2 = likely existing operational platform; repair tickets suggest active field deployment or customer systems.
+
+6. **S0 Onboard Inference as Key Capability**: Pete Dice's direct question (Oct 23) on "S0 onboard inference" and Sightline AITR integration (Oct 23) converge on **AI inference at edge** as differentiator. Josh involved in technical validation/scoping with partners.
+
+7. **Noise Reduction**: Promotional email percentage lower in this window (6/16 = 37.5%) vs. Oct 22 (20/32 = 62.5%) — may reflect **higher filtering by email client or lower promotional volume Oct 23**, or simply **higher signal days have lower noise ratio**.
