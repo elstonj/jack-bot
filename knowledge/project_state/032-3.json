@@ -29,7 +29,7 @@
         "amount": 125.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-24"
+        "last_updated": "2026-10-25"
       },
       "purchases": {
         "amount": 0.0,
@@ -41,7 +41,7 @@
         "amount": 19360.48,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-24"
+        "last_updated": "2026-10-25"
       },
       "total": 19485.48,
       "by_line_item": {}
@@ -49,13 +49,13 @@
     "committed": 0.0,
     "remaining": 69219.52,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-24T09:19:23Z"
+    "last_reconciled": "2026-10-25T08:56:57Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-10-24T09:19:23Z",
+  "last_full_rebuild": "2026-10-25T08:56:57Z",
   "last_incremental_update": null
 }

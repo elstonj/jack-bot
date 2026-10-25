@@ -1,53 +1,75 @@
-_Asana snapshot as of 2026-10-24: 9 open tasks, 57 completed (last 90 days)._
+_Asana snapshot as of 2026-10-25: 8 open tasks, 58 completed (last 90 days)._
 
 # [001-14] SwiftCore 3.3
 
 ## Overview
-- **Client/Customer:** Internal (BST whole team)
-- **Project Type:** Development of autopilot, ground station, and tablet code (3.3 develop branch)
-- **Owner:** Jack Elston
-- **Status:** [YELLOW] Active with overdue milestones as of Nov 28, 2023
-- **Priority:** Low (custom field)
-- **Team Members:** Jack Elston, Ben Busby, Maciej Stachura
-- **Risk Signals:** Multiple overdue milestones with no due dates assigned; 9 open tasks including critical simulator bug fixes and feature milestones; significant backlog of unscheduled work
+- **Project**: Development of the 3.3 (develop) branch of autopilot, ground station, and tablet code
+- **Owner**: Jack Elston
+- **Team**: BST (Whole Team) — primary contributors: Jack Elston, Ben Busby, Maciej Stachura
+- **Priority**: Low
+- **Status**: **ACTIVE** — Heavy bug-fix and testing phase. 58 tasks completed, 8 open milestones and bugs remaining. Project shows significant recent activity (Oct 21–24, 2026) with simulator testing and bug fixes ongoing.
+- **Risk Signal**: Two open simulator bugs remain unassigned (SIM-0032, SIM-0020) with no due dates. Multiple overdue milestones noted as of Nov 28, 2023 (per Asana status update), but completion date metadata suggests active work continuing into Oct 2026.
 
 ## Key Deliverables & Milestones
-All milestones are currently open with no due dates assigned:
-- Final release supporting 2030, 2040, 2050, and 3000 hardware
-- Final release supporting commercial S1
-- Initial VTOL support
-- Official scripting release (including payload control)
-- Control through payload serial interface
-- App support (payload, flight parameters, scripting)
+All open milestones are unassigned and lack due dates:
+
+1. **Final release supporting 2030, 2040, and likely 2050 and 3000 hardware**
+2. **Final release supporting commercial S1**
+3. **Adds initial VTOL support**
+4. **Official scripting release** (including payload control)
+5. **Control through the payload serial interface**
+6. **Adds app support** (payload, flight parameters, scripting)
 
 ## Task Summary
-- **Total:** 9 open, 57 completed (86% completion rate)
-- **Open Tasks by Assignee:**
-  - Ben Busby: 3 tasks (altitude change during landing descent, AGL elevation display bug, script goto issue)
-  - Maciej Stachura: 0 tasks
-  - Unassigned: 6 tasks (all milestone definitions)
-  
-- **Notable Patterns:** 
-  - Heavy focus on bug fixes from simulator test reports (SIM-series bugs)
-  - Recent completion spike around 2026-10-21 to 2026-10-23 (57 tasks completed in rapid succession)
-  - Bug fixes span autopilot behavior, tablet UI, communications, and sensor handling
-  - No dollar amounts tracked in custom fields
+- **Total**: 66 tasks (8 open, 58 completed)
+- **Completion rate**: 88%
+
+### By Assignee:
+- **Ben Busby**: 15 completed tasks (app/tablet UI bugs: AGL elevation display, telemetry menu, aircraft control window, preflight validation, landing plan switching, log parsing)
+- **Maciej Stachura**: 22 completed tasks (autopilot logic, sensor failures, VTOL path planning, simulator QC: goto failures, waypoint skipping, Dubins path issues, engine/sensor stall responses, takeover bugs)
+- **Jack Elston**: 13 completed tasks (hardware integration, comms, commands/scripting, sensor logic, USB bootloader, CAN bus MHP, command logging)
+- **Unassigned**: 8 tasks (6 open milestones + 2 open bugs from simulator)
+
+### Notable Patterns:
+- Heavy reliance on **simulator bug reporting** (SIM-0017 through SIM-0040)
+- **Ben Busby** concentrated on tablet/app UI stability
+- **Maciej Stachura** focused on autopilot navigation and sensor handling
+- **Jack Elston** handling firmware-level integration and comms
+- All completed tasks lack due dates; tracking appears milestone-based rather than date-driven
 
 ## Recent Activity
-**Completed (2026-10-23, most recent):** 11 tasks closed in single day including aircraft control window UI fixes, telemetry menu fixes, user mode switching bugs, and sensor failure response validation (S3 simulator tests for pitot loss, mag loss, static pressure, GPS loss).
+**As of Oct 21–24, 2026** (most recent completion timestamps):
 
-**Completed (2026-10-22):** Bug fixes for joystick mode transitions, landing plan switching, Dubins path computation, surface actuation, manual takeover, and dynamic pressure sensor errors.
+### Recently Completed (Oct 23–24):
+- Ben Busby: Fixed AGL elevation display bug in app (m/100 scaling), resolved telemetry menu failures, aircraft control window failures, preflight validation (landing plan altitude, zero sensors checks)
+- Maciej Stachura: Resolved goto failures (point directly under aircraft), waypoint skipping (flight diversion), Dubins path fishhook artifact in VTOL, S3 sensor losses (pitot, mags, static pressure, GPS), joystick mode lockup
+- Jack Elston: PWM channel setup (S00001), actuator values ACK without surface movement, Xtend GCS comms loss, prevented joystick mode activation in climbout
 
-**Completed (2026-10-21):** Commands and scripting issues, flight timer validation, sensor alerts, IAS error handling, USB bootloader flag update, CAN bus MHP integration.
-
-**Currently Open (No Recent Movement):**
-- Script goto 350m at 5m/s then 20m/s ACK failure + unintended landing (SIM-0020)
-- Altitude change to 3500m during landing descent flashes green then drops without error (SIM-0032)
-- AGL elevation display in node panel shows m/100 scaling error until app restart (custom field link included)
+### Still Open (No Due Date):
+1. **SIM-0032**: Altitude change to 3500 m during landing descent flashes green then drops (no error, landing not cancelled) — assigned to Jack Elston
+2. **SIM-0020**: Script goto 350 m @ 5 m/s then 20 m/s returns ACK failed; aircraft proceeds straight to landing — assigned to Jack Elston
 
 ## Notes & Context
-- **Data Quality Issue:** All completed tasks show completion date 2026-10-21 to 2026-10-23, but project status was last updated Nov 28, 2023. This suggests either data from the future or significant timestamp inconsistency in the Asana project.
-- **Testing Approach:** Heavy reliance on simulator-based QC (JSBSim models for S0, S1, S2, S3 variants). Bug reports reference specific simulator versions (0.9.0~rc17, 0.9.0~rc18, 0.9.0~rc22).
-- **Feature Branches:** Some completed tasks reference `release/3.3.0` branch, suggesting version preparation is underway.
-- **Unscheduled Work:** All milestone tasks lack due dates, making timeline planning difficult. 3 critical open bugs (scripting, altitude control, display scaling) also lack target resolution dates.
-- **Communication Channels:** Notes reference separate simulator repo commits, suggesting distributed development across autopilot, ground station (GCS/Xtend), tablet (SwiftTab), and simulator codebases.
+
+### Data Quality Flag
+The Asana project references a status update dated **Nov 28, 2023** noting "Overdue milestones" and "Overdue tasks," but **all task completion dates in the data are from Oct 2026**. This suggests either:
+- The Nov 2023 status was outdated or archived
+- Asana data was not cleaned up after real-world project completion or pivoting
+- Timeline may span 2023–2026 with intermittent activity
+
+**Recommendation**: Verify with Jack Elston whether this project remains active or if it has transitioned to maintenance/legacy status.
+
+### Technical Context
+- **Hardware targets**: E2, S0, S1, S1-22, S2, S2-9, S3, S10011, S10020 (various fixed-wing and VTOL platforms)
+- **Key systems under development**:
+  - VTOL support (initial implementation, path planning)
+  - Scripting engine for autopilot commands and payload control
+  - Tablet/app UI (SwiftTab) for flight monitoring and control
+  - Sensor fusion (pitot, static pressure, magnetometer, GPS, dynamic pressure)
+  - Joystick takeover in flight
+  - Landing plan strategies (vertical vs. spiral)
+  - Payload serial interface control
+- **Testing infrastructure**: JSBSim simulator (sim 0.9.0~rc17 → rc22 versions referenced)
+
+### Known Unresolved Issues
+Both remaining open bugs involve scripting and altitude commands in flying/landing modes—suggest potential interaction between autopilot state machine and command processing that may affect VTOL or commercial S1 release readiness.

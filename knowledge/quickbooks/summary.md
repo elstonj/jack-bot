@@ -1,5 +1,6 @@
 # BST Financial Overview (QuickBooks)
-**Period: October 14–24, 2026 | Historical Data: April 5, 2024 – November 2, 2026**
+**Report Period:** October 24–25, 2026  
+**Data Range:** April 5, 2024 – November 2, 2026
 
 ---
 
@@ -7,60 +8,56 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $3,107,922.98 |
-| **Total Expenses** | $2,059,183.28 |
-| **Net Income (Lifetime)** | $1,048,739.70 |
-| **Current Period Net Income (Oct 14–24)** | **-$3,024.00** *(R&D expenses only)* |
+| **Total Revenue (Invoiced)** | $24,119.36 |
+| **Total Expenses (Bills + Purchases)** | $1,809,603.50 |
+| **Total Purchase Orders (Pending)** | $13,948.00 |
+| **Net Income** | **-$1,785,484.14** |
+
+**Status:** Company is operating at a significant deficit. Expenses exceed revenue by **$1.79M**.
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Commercial** | $3,083,803.62 | $249,579.78 | **+$2,834,223.84** | Profitable |
-| **BST Internal** | $24,119.36 | $1,809,603.50 | **-$1,785,484.14** | Significant deficit |
+### BST Internal
+- **Revenue:** $24,119.36
+- **Expenses:** $1,809,603.50
+- **Net Position:** -$1,785,484.14
+- **Transaction Count:** 1,700+ (31+ months of activity)
+- **Recent Activity:** +$3,999.75 in new expenses (Oct 12–Nov 2, 2026); no new invoices in current period
 
-**Notes:**
-- Commercial project is the primary revenue driver (99% of total revenue)
-- BST Internal operates at a substantial loss (R&D/overhead function)
-- No new invoices recorded during Oct 12–Nov 2 period
-
----
-
-## Outstanding Accounts Receivable
-
-| Invoice | Date | Customer | Amount Due | Days Outstanding |
-|---------|------|----------|------------|---|
-| **1779** | **2026-08-31** | **Murphy's Pond CH4 [018-1]** | **$24,579.28** | **75+ days** |
-
-**AR Status:** Only one invoice shown with balance; represents potential cash flow concern if payment is overdue.
+**Findings:**
+- This is the only classified project in the dataset
+- The project shows heavy expense activity relative to minimal revenue generation
+- Expense trend: +$73,982.13 (Oct 5–12) → +$3,999.75 (Oct 12–Nov 2), indicating spending has moderated recently
 
 ---
 
-## Recent Activity Summary
+## Cash Flow Indicators
 
-| Period | Project | Expenses Added |
-|--------|---------|---|
-| Oct 5–12, 2026 | BST Internal | +$73,982.13 |
-| Oct 12–Nov 2, 2026 | BST Internal | +$3,999.75 |
-| Oct 14–24, 2026 | All | $3,024.00 (R&D) |
+### Accounts Receivable
+- **Outstanding Balance:** $24,119.36 *(invoiced but not yet collected)*
+- **Risk Level:** All revenue remains uncollected; critical liquidity concern given net deficit position
+
+### Recent Expense Activity
+- **Oct 5–12, 2026:** $73,982.13 *(elevated spending period)*
+- **Oct 12–Nov 2, 2026:** $3,999.75 *(recent spending, lower rate)*
+- **Cumulative Expenses (31 months):** $1,809,603.50
+
+### Project Status
+- **BST Internal:** Ongoing with consistent transaction flow (1,700+ transactions); no indication of completion
 
 ---
 
-## Key Observations
+## Unclassified Transactions
 
-⚠️ **Cash Flow Concerns:**
-- $24,579.28 AR invoice outstanding 75+ days (Murphy's Pond CH4)
-- BST Internal running cumulative deficit of $1.79M
-- Current period shows negative $3,024 (R&D expenses with no offsetting revenue)
+**None identified.** All transactions are assigned to the BST Internal project class.
 
-✓ **Positive Indicators:**
-- Commercial division highly profitable (+$2.83M net)
-- Lifetime company position remains positive at $1.05M
-- Strong revenue base of $3.1M generated
+---
 
-📋 **Data Limitations:**
-- Vendor breakdown and top vendors not provided in source data
-- Customer detail incomplete (partial invoice data shown)
-- Purchase order data included but not analyzed separately
+## Critical Financial Observations
+
+⚠️ **Solvency Risk:** The company shows a **negative net position of -$1.79M** with only $24K in revenue against $1.81M in cumulative expenses over 31 months. This suggests:
+- Heavy investment or setup phase with minimal revenue generation to date
+- Cash reserves or external funding likely required to sustain operations
+- Immediate focus needed on revenue growth or expense reduction

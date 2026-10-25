@@ -33,7 +33,7 @@
         "amount": 40121.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-24"
+        "last_updated": "2026-10-25"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +45,7 @@
         "amount": 119941.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-24"
+        "last_updated": "2026-10-25"
       },
       "total": 160062.25,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -21568.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-24T09:21:10Z"
+    "last_reconciled": "2026-10-25T08:58:32Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -85,6 +85,6 @@
       "text": "From Daniel Prendergast: <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  The S3 is lower priority"
     }
   ],
-  "last_full_rebuild": "2026-10-24T09:21:10Z",
+  "last_full_rebuild": "2026-10-25T08:58:32Z",
   "last_incremental_update": null
 }

@@ -1,0 +1,54 @@
+{
+  "asana_gid": "proj-044-1",
+  "asana_task_name": "EMASS (Commercial) [044-1]",
+  "customer": "EMASS",
+  "customer_contact": "Dan Prendergast",
+  "customer_email": "",
+  "receive_by": null,
+  "ship_to": "",
+  "items": [
+    {
+      "description": "Custom Payload / E2 Quadcopter with ECS-DoT SoC Integration",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "paid",
+  "build_state": "complete",
+  "ship_state": "delivered",
+  "estimate_date": null,
+  "invoice_date": "2026-07-01",
+  "invoice_amount": 6000.0,
+  "invoice_number": "1770",
+  "paid_date": "2026-10-02",
+  "parts": [
+    {
+      "name": "ECS-DoT Ultra-low-power Edge A.I. SoC",
+      "ordered": true,
+      "received": true,
+      "vendor": "EMASS",
+      "order_date": null
+    },
+    {
+      "name": "E2 Quadcopter airframe",
+      "ordered": true,
+      "received": true,
+      "vendor": "BST",
+      "order_date": null
+    }
+  ],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Dan Prendergast",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Custom ECS-DoT chip integration and validation completed September 2026. Project transitioned to per-flight-day billing model June 2026 after milestone restructuring. Payment received October 2026 (deposited to wrong account initially). Total invoiced $74k across four invoices (Inv #1743, #1747, #1769, #1770); balance reflects most recent invoice.",
+  "missing_fields": [
+    "ship_to",
+    "customer_email"
+  ],
+  "last_evidence_date": "2026-10-02",
+  "last_contact_date": null
+}

@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-10-24",
-    "end": "2026-10-24"
+    "start": "2024-10-25",
+    "end": "2026-10-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 208927.69,
+    "expenses": 208800.06,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86448.51,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
-      "Indirect Cost:Internal Research and DevelopmentX": 55248.24,
+      "Indirect Cost:Internal Research and DevelopmentX": 55120.61,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
@@ -8837,29 +8837,6 @@
           "amount": 4.99,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "Paypal fee"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-24",
-      "doc_number": "",
-      "total": 127.63,
-      "attributed": 127.63,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 93.1,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "DPP Carbon Fiber Tube x 10"
-        },
-        {
-          "amount": 34.53,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "Shipping"
         }
       ]
     }

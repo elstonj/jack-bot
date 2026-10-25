@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley commercial hardware procurement for P3/NOAA integration with basic atmospheric sensor package. Beck sent estimate (2026-08-07) with shipping costs included. Customer seeking NASA procurement form and CAGE code assistance. Chris Meek out for 3 weeks; team CC'd for ongoing correspondence. Delivery after Oct 1, 2026 (FY2026 budget). This is confirmed commercial procurement, separate from rejected AFA proposal.",
+  "notes": "Commercial hardware procurement for P3/NOAA integration. Beck sent estimate 2026-08-07 (~$46k). Customer moving forward; Chris Meek out 3 weeks, team CC'd for correspondence. Delivery after Oct 1, 2026 (FY2026 budget constraint). Separate from rejected AFA R&D proposal. NASA procurement forms and CAGE code assistance requested.",
   "missing_fields": [
     "invoice_number",
     "invoice_amount",

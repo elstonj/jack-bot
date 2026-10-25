@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-10-24",
-    "end": "2026-10-24"
+    "start": "2024-10-25",
+    "end": "2026-10-25"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 39169.94,
+    "expenses": 38858.56,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX": 16880.8,
+      "Indirect Cost:Internal Research and DevelopmentX": 16569.42,
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 13186.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8572.99,
       "Tariffs": 451.8,
@@ -3468,75 +3468,6 @@
           "amount": 30.0,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-24",
-      "doc_number": "",
-      "total": 28.62,
-      "attributed": 28.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 28.62,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "3D Printing: Launch tube v6 - Front cap.step"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-24",
-      "doc_number": "",
-      "total": 18.68,
-      "attributed": 18.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*CV6P49F23   AMZN.COM/BILLWA",
-      "lines": [
-        {
-          "amount": 9.69,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "3Pcs ShareGoo Metal 25T Servo Horn 25 Teeth Steering Arm Compatible with Futaba Savox Power HD HSP Servos Motor"
-        },
-        {
-          "amount": 8.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "INJORA 25T Servo Arm- Servo Horn Upgrade Accessories for 1/18 TRX4M Stock Servo"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-24",
-      "doc_number": "8J8DKHVZ2",
-      "total": 264.08,
-      "attributed": 264.08,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 115.98,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "BMS-M15H \u00d7 2"
-        },
-        {
-          "amount": 115.98,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "BMS-M15V \u00d7 2"
-        },
-        {
-          "amount": 32.12,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "shipping fee"
         }
       ]
     }
