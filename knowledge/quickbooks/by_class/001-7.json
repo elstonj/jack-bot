@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-10-25",
-    "end": "2026-10-25"
+    "start": "2024-10-26",
+    "end": "2026-10-26"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 208800.06,
+    "expenses": 208675.67,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86448.51,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
-      "Indirect Cost:Internal Research and DevelopmentX": 55120.61,
+      "Indirect Cost:Internal Research and DevelopmentX": 54996.22,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
@@ -8814,29 +8814,6 @@
           "amount": 143.66,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "shipping fee"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-25",
-      "doc_number": "20241025-04",
-      "total": 124.39,
-      "attributed": 124.39,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 119.4,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "Carbon Fiber plates x 48 items"
-        },
-        {
-          "amount": 4.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "Paypal fee"
         }
       ]
     }

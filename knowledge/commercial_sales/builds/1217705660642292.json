@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP: QBO invoice #1695 paid 2025-08-22 ($2,900). Customer conducting data center photogrammetry surveys in central Texas; evaluating BST S3 VTOL for wind-resistant solution. Survey team currently uses Wingtra/Skydio, requires parachutes and NDAA cert. Austin reports ~1200-acre sites requiring multiple scans; endurance and wind performance compelling. Recent email (2026-09-01) confirms ongoing engagement\u2014Austin interested in attending flight tests and providing survey team feedback. Multi-year project with additional sites starting soon.",
+  "notes": "KEEP: QBO invoice #1695 paid 2025-08-22 ($2,900). Customer conducting data center photogrammetry surveys in central Texas; evaluating BST S3 VTOL for wind-resistant solution. Survey team currently uses Wingtra/Skydio, requires parachutes and NDAA cert. Austin reports ~1200-acre sites requiring multiple scans; endurance and wind performance compelling. Recent email (2026-09-01) confirms Austin interested in attending flight tests and providing survey team feedback. Multi-year project with additional sites starting soon. Note: 2026-10-21 email from Avinash/Brimstone is a generic funding-proposal solicitation (W911NF-24-S-0008 RFQ for R&D services), not related to this customer build \u2014 treated as background only.",
   "missing_fields": [
     "ship_to",
     "receive_by",

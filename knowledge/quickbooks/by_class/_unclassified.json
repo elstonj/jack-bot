@@ -67,12 +67,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-10-25",
-    "end": "2026-10-25"
+    "start": "2024-10-26",
+    "end": "2026-10-26"
   },
   "totals": {
     "revenue": 3748912.55,
-    "expenses": 4628900.28,
+    "expenses": 4628777.29,
     "by_category": {
       "Payroll clearing account": 2361685.09,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 367808.53,
@@ -90,8 +90,8 @@
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "FACILITIES:FA-Office Supplies": 44868.08,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 33150.88,
-      "Indirect Cost:Meals and Entertainment": 28799.48,
+      "DIRECT COSTS:DC-Direct Material Purchases": 33111.75,
+      "Indirect Cost:Meals and Entertainment": 28715.62,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "FACILITIES:FA-Software Expenses": 27004.07,
       "The Soil Moisture Company": 21450.0,
@@ -54527,78 +54527,6 @@
           "amount": 132.01,
           "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
           "description": "HERTZ CAR RENTAL         SAN JOSE     CA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-25",
-      "doc_number": "",
-      "total": 39.13,
-      "attributed": 39.13,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 39.13,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "supplies for AREN purchased by Kay Rufty"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-25",
-      "doc_number": "",
-      "total": 37.06,
-      "attributed": 37.06,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Supplies for office party - purchased via Jack's person Amazon account",
-      "lines": [
-        {
-          "amount": 37.06,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "Supplies for office party - purchased via Jack's person Amazon account"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-25",
-      "doc_number": "",
-      "total": 17.81,
-      "attributed": 17.81,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "TST* SPACEBAR            MOFFETT FIELDCA",
-      "lines": [
-        {
-          "amount": 17.81,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "TST* SPACEBAR            MOFFETT FIELDCA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-25",
-      "doc_number": "",
-      "total": 28.99,
-      "attributed": 28.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SQ *CRYSTAL SPRINGS BR   LOUISVILLE   CO",
-      "lines": [
-        {
-          "amount": 28.99,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "SQ *CRYSTAL SPRINGS BR   LOUISVILLE   CO"
         }
       ]
     }

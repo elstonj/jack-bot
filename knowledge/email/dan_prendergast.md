@@ -2,6 +2,6 @@
 
 Only 3 emails found in scanned period.
 
-- Sun, 25 Oct 2026 03:26:07 GMT: Security alert (from: Google <no-reply@accounts.google.com>)
-- Sat, 24 Oct 2026 07:56:38 -0600: Daniel: Enjoy our newest fleet yet + unlock 15% off your next rental. (from: Hertz <marketing@emails.hertz.com>)
-- Sat, 24 Oct 2026 05:42:19 -0600: ✈️ F-117: Facts Behind the Legend - Aerospace Advantage 313 (from: Mitchell Institute <mitchell@afa.org>)
+- Mon, 26 Oct 2026 11:32:32 +0400: Re: GCS NTI Systems <> Black Swift Technologies (from: Alexy Mukadem <mukadem.alexy@nti-systems.com>)
+- Sun, 25 Oct 2026 19:06:24 +0000 (UTC): Check In For Your Upcoming Rental (from: Enterprise Rent-A-Car <No-Reply@enterprise.com>)
+- Sun, 25 Oct 2026 07:05:24 -0600: 👀 Check out your benefits, Daniel (from: IHG One Rewards <IHGOneRewards@mc.ihg.com>)
