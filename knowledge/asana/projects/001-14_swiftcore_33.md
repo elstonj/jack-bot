@@ -1,75 +1,61 @@
-_Asana snapshot as of 2026-10-25: 8 open tasks, 58 completed (last 90 days)._
+_Asana snapshot as of 2026-10-27: 6 open tasks, 60 completed (last 90 days)._
 
 # [001-14] SwiftCore 3.3
 
 ## Overview
 - **Project**: Development of the 3.3 (develop) branch of autopilot, ground station, and tablet code
 - **Owner**: Jack Elston
-- **Team**: BST (Whole Team) — primary contributors: Jack Elston, Ben Busby, Maciej Stachura
+- **Team**: BST (Whole Team)
+- **Status**: **ARCHIVED** (as of Nov 28, 2023)
 - **Priority**: Low
-- **Status**: **ACTIVE** — Heavy bug-fix and testing phase. 58 tasks completed, 8 open milestones and bugs remaining. Project shows significant recent activity (Oct 21–24, 2026) with simulator testing and bug fixes ongoing.
-- **Risk Signal**: Two open simulator bugs remain unassigned (SIM-0032, SIM-0020) with no due dates. Multiple overdue milestones noted as of Nov 28, 2023 (per Asana status update), but completion date metadata suggests active work continuing into Oct 2026.
+- **Key Personnel**: Jack Elston, Ben Busby, Maciej Stachura
 
 ## Key Deliverables & Milestones
-All open milestones are unassigned and lack due dates:
-
-1. **Final release supporting 2030, 2040, and likely 2050 and 3000 hardware**
-2. **Final release supporting commercial S1**
-3. **Adds initial VTOL support**
-4. **Official scripting release** (including payload control)
-5. **Control through the payload serial interface**
-6. **Adds app support** (payload, flight parameters, scripting)
+Six open milestone categories remain (all unassigned, no due dates):
+1. Final release supporting 2030, 2040, likely 2050 and 3000 hardware
+2. Final release supporting commercial S1
+3. Adds initial VTOL support
+4. Official scripting release (including payload control)
+5. Control through the payload serial interface
+6. Adds app support (payload, flight parameters, scripting)
 
 ## Task Summary
-- **Total**: 66 tasks (8 open, 58 completed)
-- **Completion rate**: 88%
-
-### By Assignee:
-- **Ben Busby**: 15 completed tasks (app/tablet UI bugs: AGL elevation display, telemetry menu, aircraft control window, preflight validation, landing plan switching, log parsing)
-- **Maciej Stachura**: 22 completed tasks (autopilot logic, sensor failures, VTOL path planning, simulator QC: goto failures, waypoint skipping, Dubins path issues, engine/sensor stall responses, takeover bugs)
-- **Jack Elston**: 13 completed tasks (hardware integration, comms, commands/scripting, sensor logic, USB bootloader, CAN bus MHP, command logging)
-- **Unassigned**: 8 tasks (6 open milestones + 2 open bugs from simulator)
-
-### Notable Patterns:
-- Heavy reliance on **simulator bug reporting** (SIM-0017 through SIM-0040)
-- **Ben Busby** concentrated on tablet/app UI stability
-- **Maciej Stachura** focused on autopilot navigation and sensor handling
-- **Jack Elston** handling firmware-level integration and comms
-- All completed tasks lack due dates; tracking appears milestone-based rather than date-driven
+- **Total**: 66 tasks (6 open, 60 completed)
+- **Completion Rate**: 91%
+- **Assignment Breakdown**:
+  - Maciej Stachura: 17 completed tasks (mostly simulator testing, flight dynamics issues, VTOL testing)
+  - Ben Busby: 11 completed tasks (primarily tablet/app UI bugs, preflight checks, XML configuration)
+  - Jack Elston: 8 completed tasks (autopilot logic, sensor configuration, hardware issues, communications)
+  - Unassigned: 6 open milestones
 
 ## Recent Activity
-**As of Oct 21–24, 2026** (most recent completion timestamps):
+**Last recorded activity: October 26, 2026** (dates in Asana appear to be from 2026, likely data error or simulator environment)
 
-### Recently Completed (Oct 23–24):
-- Ben Busby: Fixed AGL elevation display bug in app (m/100 scaling), resolved telemetry menu failures, aircraft control window failures, preflight validation (landing plan altitude, zero sensors checks)
-- Maciej Stachura: Resolved goto failures (point directly under aircraft), waypoint skipping (flight diversion), Dubins path fishhook artifact in VTOL, S3 sensor losses (pitot, mags, static pressure, GPS), joystick mode lockup
-- Jack Elston: PWM channel setup (S00001), actuator values ACK without surface movement, Xtend GCS comms loss, prevented joystick mode activation in climbout
-
-### Still Open (No Due Date):
-1. **SIM-0032**: Altitude change to 3500 m during landing descent flashes green then drops (no error, landing not cancelled) — assigned to Jack Elston
-2. **SIM-0020**: Script goto 350 m @ 5 m/s then 20 m/s returns ACK failed; aircraft proceeds straight to landing — assigned to Jack Elston
+Recent completed tasks focused on bug fixes:
+- Altitude change/landing descent glitches (Elston, 10/26)
+- Script execution failures for altitude commands (Elston, 10/26)
+- AGL display precision bugs in tablet app (Busby, 10/24)
+- Autopilot path planning issues (Stachura, 10/23)
+- Preflight check logic bugs (Busby, 10/23)
+- Sensor handling and failover responses (Stachura, 10/22-10/23)
+- Manual takeover/joystick mode bugs (Stachura, Busby, 10/22)
+- Dynamic pressure sensor false alarms (Stachura, 10/22)
 
 ## Notes & Context
 
-### Data Quality Flag
-The Asana project references a status update dated **Nov 28, 2023** noting "Overdue milestones" and "Overdue tasks," but **all task completion dates in the data are from Oct 2026**. This suggests either:
-- The Nov 2023 status was outdated or archived
-- Asana data was not cleaned up after real-world project completion or pivoting
-- Timeline may span 2023–2026 with intermittent activity
+### Work Patterns
+- **Heavy simulator testing** with formal bug reports (SIM-0017 through SIM-0040) logged during 0.9.0~rc17-rc22 cycles
+- **Broad coverage**: Autopilot flight dynamics, tablet UI, scripting, sensor handling, VTOL operations, manual control modes
+- **No assigned owners for remaining milestones** suggests these are aspirational goals rather than active work items
 
-**Recommendation**: Verify with Jack Elston whether this project remains active or if it has transitioned to maintenance/legacy status.
+### Key Completed Areas
+- Joystick/manual takeover modes
+- Scripting and command execution
+- Preflight validation logic
+- Sensor failover and error handling
+- Multi-aircraft support (S0-S3 variants, S1-22, S10011, S10020)
+- VTOL flight testing and path planning
+- App telemetry and node status UI reliability
 
-### Technical Context
-- **Hardware targets**: E2, S0, S1, S1-22, S2, S2-9, S3, S10011, S10020 (various fixed-wing and VTOL platforms)
-- **Key systems under development**:
-  - VTOL support (initial implementation, path planning)
-  - Scripting engine for autopilot commands and payload control
-  - Tablet/app UI (SwiftTab) for flight monitoring and control
-  - Sensor fusion (pitot, static pressure, magnetometer, GPS, dynamic pressure)
-  - Joystick takeover in flight
-  - Landing plan strategies (vertical vs. spiral)
-  - Payload serial interface control
-- **Testing infrastructure**: JSBSim simulator (sim 0.9.0~rc17 → rc22 versions referenced)
-
-### Known Unresolved Issues
-Both remaining open bugs involve scripting and altitude commands in flying/landing modes—suggest potential interaction between autopilot state machine and command processing that may affect VTOL or commercial S1 release readiness.
+### Archive Context
+Project marked ARCHIVED with status from Nov 28, 2023. The completed task dates (2026) appear anomalous and may reflect simulator timestamps or data inconsistency. The six open milestones are unassigned and have no due dates, indicating they are parked or rolled into future planning outside this project structure.

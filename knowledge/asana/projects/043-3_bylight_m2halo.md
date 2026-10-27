@@ -1,62 +1,41 @@
-_Asana snapshot as of 2026-10-23: 2 open tasks, 20 completed (last 365 days)._
+_Asana snapshot as of 2026-10-27: 1 open tasks, 12 completed (last 90 days)._
 
 # [043-3] ByLight M2/Halo
 
 ## Overview
-- **Client/Customer:** By Light (Commercial)
-- **Total Budget:** $126,629 (100% to Black Swift Technologies)
-- **Timeline:** Project started 2026-05-30; due 2026-05-30 (dates appear notional in Asana; actual work spans April–October 2026)
-- **Status:** Substantially complete with minor outstanding items. 20 of 22 tasks completed (91%).
-- **Project Owner:** Ethan Domagala
-- **Team Members:** Ethan Domagala (primary builder/tester), Meredith O'hara Needham (invoicing), Alex Lomis (battery design), Maciej Stachura (avionics support)
-- **Risk Signals:** One open task (autopilot command error) has no due date and may indicate unresolved flight test issue. Scope 2 invoice due 2026-06-01 is marked "tentative" and may be pending final deliverable acceptance.
+- **Client:** By Light (Commercial)
+- **Total Budget:** $126,629 (all funding to Black Swift)
+- **Timeline:** Project dates listed as 2026-05-30, but actual work spanned 2026-08–2026-10
+- **Status:** Nearly complete — 12 of 13 tasks done; one invoice task pending
+- **Owner:** Ethan Domagala
+- **Team:** Whole BST team; primary execution by Ethan Domagala
+- **Risk Signal:** One open task (Scope 2 Invoice, $63,735) due 2026-06-01 is overdue as of the completion dates shown
 
 ## Key Deliverables & Milestones
-
-| Deliverable | Date | Amount | Status |
+| Deliverable | Due Date | Completed | Amount |
 |---|---|---|---|
-| Initial Contract/Deposit | 2026-04-08 | $15,000 | Completed 2026-04-08 |
-| Scope 1 Invoice (per completion) | 2026-05-13 | $47,894 | Completed 2026-05-13 |
-| Aircraft Build, Test & Ship | 2026-09-21 | — | Completed 2026-10-12 |
-| Scope 2 Invoice (per completion) | 2026-06-01 | $63,735 | **PENDING** (tentative date) |
-| **Total Contract Value** | — | **$126,629** | — |
-
-**Key completed milestones:**
-- CAD design finalized (gimbal, car launch, avionics hot swap, CG confirmation) — early May 2026
-- Aircraft assembly & battery build — April–August 2026
-- Flight testing (autopilot tune, gimbal, landing system, laser altimeter, avionics hot swap) — September 2026
-- Aircraft packaged and shipped to ByLight — 2026-10-12
+| CF Halo aircraft build & flight test | 2026-09-21 | 2026-10-12 | Part of scope |
+| Mustang launcher modification for 2.0 | 2026-07-15 | 2026-10-02 | Part of scope |
+| Aircraft packaged and shipped to ByLight | 2026-09-21 | 2026-10-12 | Part of scope |
+| **Scope 2 Invoice** | **2026-06-01** | **OPEN** | **$63,735** |
 
 ## Task Summary
-
-**Overall:** 2 open, 20 completed (91% completion rate)
-
-**By Assignee:**
-- **Ethan Domagala:** 18 tasks assigned; ~17 completed (94% completion) — managed design, build, and flight test
-- **Meredith O'hara Needham:** 3 tasks assigned; 2 completed (67%) — invoicing; Scope 2 still pending
-- **Alex Lomis:** 1 task assigned; 1 completed (100%) — battery design
-- **Maciej Stachura:** 1 task open; 0 completed — autopilot command error diagnosis (no due date)
-- **Unassigned:** 1 task; 1 completed (100%) — launcher modification
-
-**Notable Patterns:**
-- Heavy reliance on Ethan Domagala for design and physical build/test
-- Invoicing tied to deliverable milestones (Net 15 from invoice date per contract terms)
-- Tasks completed slightly after due dates (e.g., aircraft shipped 2026-10-12 vs. 2026-09-21 due date)
-- Custom field usage tracks budget breakdown by scope/phase
+- **Total:** 13 tasks (12 completed, 1 open)
+- **Completion rate:** 92%
+- **Primary assignee:** Ethan Domagala (11 completed tasks)
+  - Responsibilities: aircraft build, flight testing, avionics, systems integration, laser altimeter, autopilot tuning, gimbal testing, launch system testing, battery work
+- **Secondary assignees:** Meredith O'hara Needham (1 open: invoicing), Maciej Stachura (1 autopilot fix)
+- **Unassigned:** Mustang launcher modification (completed 2026-10-02)
 
 ## Recent Activity
-
-**Completed (October 2026):**
-- Aircraft build-up, flight testing suite (avionics, gimbal, laser altimeter, autopilot tuning), and shipment to customer all completed 2026-10-12 (21 days past scheduled 2026-09-21 date)
-
-**Outstanding:**
-- **Autopilot command acceptance error** (Maciej Stachura) — open, no due date. Notes indicate tablet-based landing plan changes were not accepted by autopilot; root cause determination pending.
-- **Scope 2 Invoice** (Meredith O'hara Needham) — due 2026-06-01 (past), marked "DATE TENTATIVE," $63,735. Likely awaiting final customer acceptance or sign-off before billing.
+- **2026-10-27:** Maciej fixed autopilot command acceptance error (tablet landing plan issue)
+- **2026-10-12:** Major completion milestone — aircraft build, flight tests, avionics hot swap, laser altimeter, and shipment to ByLight all finished
+- **2026-10-02:** Mustang launcher 2.0 modification completed (delayed from 2026-07-15 target)
+- **Outstanding:** Scope 2 Invoice ($63,735) assigned to Meredith O'hara Needham, due 2026-06-01 (significantly overdue)
 
 ## Notes & Context
-
-- **Payment Structure:** Three-phase invoicing model: $15k upfront (contract sign), $47,894 at Scope 1 completion (CAD/design), $63,735 at Scope 2 completion (build/test/delivery). All tied to deliverable milestones with Net 15 terms.
-- **Delivery:** Two (2) Chilli Double Carbon M2/Halo aircraft built with custom gimbal, car launch system, avionics hot swap, and Hawkeye payload battery integration.
-- **Minor Issue:** The autopilot command error (tablet landing plan acceptance) was not fully resolved before shipment. This may require follow-up support or a future flight test session.
-- **Timeline Variance:** Project completed ~3 weeks late (aircraft shipped 2026-10-12 vs. 2026-09-21 planned). Likely due to testing iteration; no delay flags noted in task comments.
-- **Invoicing Status:** Scope 2 invoice ($63,735) still shows as "tentative" and is overdue relative to the 2026-06-01 date; this may be awaiting customer receipt/acceptance confirmation before billing is finalized.
+- Project appears to be **substantially delivered** — aircraft built, tested, and shipped to customer
+- **Invoice discrepancy:** The project lists start and due dates both as 2026-05-30, but actual work execution ran August–October 2026. The Scope 2 Invoice due date of 2026-06-01 is inconsistent with project timeline and task completion dates; this is likely a data entry error or the invoice represents a later phase
+- Ethan Domagala carried the bulk of engineering and integration work
+- No risk signals in completed work; all major technical milestones hit
+- **Action item:** Clarify status of Scope 2 Invoice ($63,735) — whether this is still pending, invoiced separately, or part of final closeout

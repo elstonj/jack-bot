@@ -15,7 +15,7 @@
   "payment_state": "estimate_sent",
   "build_state": "none",
   "ship_state": "none",
-  "estimate_date": null,
+  "estimate_date": "2026-10-06",
   "invoice_date": null,
   "invoice_amount": 70000.0,
   "invoice_number": null,
@@ -29,12 +29,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UH Assistant Professor Kelly Huang and colleague James Flynn seeking S3 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. UH needs to encumber funds by EOY; BST vendor onboarding in progress. Quote sent 2026-10-06. Slack 2026-10-21 confirms order is \"very likely\" and vendor setup underway.",
+  "notes": "UH Assistant Professor Kelly Huang and colleague James Flynn seeking S3 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. Quote sent 2026-10-06. Slack 2026-10-21 confirms order is \"very likely\" and vendor onboarding in progress; UH must encumber funds by EOY.",
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "invoice_number",
-    "estimate_date"
+    "invoice_number"
   ],
   "last_evidence_date": "2026-10-21",
   "last_contact_date": "2026-10-06"

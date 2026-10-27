@@ -48,6 +48,15 @@
   - Email: ali.sulehria@blackswifttech.com
   - Phone: 720-323-5756
 
+### UAS Operations & Technical Support
+- **Robert Edson** — Principal UAS Technician
+  - Email: bob.edson@blackswifttech.com
+  - Phone: 423-313-0511
+
+- **Brandon Messersmith** — UAS Technician
+  - Email: brandon.messersmith@blackswifttech.com
+  - Phone: 717-542-9806
+
 ### Interns
 - **Ethan Domagala** — Intern
   - Email: ethan.domagala@blackswifttech.com
@@ -57,6 +66,12 @@
   - Email: spencer.hoehl@blackswifttech.com
   - Phone: 217-556-4060
 
+## Business Development & Sales
+
+- **Beck Cotter** — Proposal Specialist
+  - Email: beck.cotter@blackswifttech.com
+  - Phone: 303-513-8684
+
 ## Communications & Marketing
 
 - **Kareem Ahmed** — Graphics & Communications
@@ -64,10 +79,6 @@
   - Phone: 720-435-7772
 
 ## Unclassified
-
-- **Beck Cotter**
-  - Email: beck.cotter@blackswifttech.com
-  - Notes: Role and department unknown
 
 - **Brent Keefer**
   - Email: brent.keefer@blackswifttech.com
@@ -93,18 +104,12 @@
 - **Calendar Interop** — Service Account
   - Email: calendar-interop@blackswifttech.com
 
-- **Emergency Admin 1** — Service Account
-  - Email: emergency-admin1@blackswifttech.com
-
-- **Emergency Admin 2** — Service Account
-  - Email: emergency-admin2@blackswifttech.com
-
 - **Swift Web** — Service Account
   - Email: swiftweb@blackswifttech.com
 
 ## Summary
 
-**Total Headcount:** 18 active employees + 5 service accounts (23 total roster entries)
+**Total Headcount:** 20 active employees + 3 service accounts (23 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -114,20 +119,26 @@
 **Team Structure:**
 - **Leadership:** 2 people
 - **Finance & Administration:** 2 people
-- **Engineering & Technical:** 8 people
+- **Engineering & Technical:** 10 people
   - Software Engineering: 3 engineers
   - Mechanical & Manufacturing Engineering: 2 engineers
   - Quality Assurance & Testing: 1 engineer
+  - UAS Operations & Technical Support: 2 technicians (new category)
   - Interns: 2 interns
+- **Business Development & Sales:** 1 person (Beck Cotter — newly classified)
 - **Communications & Marketing:** 1 person
-- **Unclassified:** 5 people (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
-- **Service Accounts & Emergency Access:** 5
+- **Unclassified:** 4 people (Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
+- **Service Accounts:** 3
 
-**Data Verification:**
-- ✅ **ROSTER STABLE:** All 18 active employees and 5 service accounts confirmed — no changes in headcount
-- ✅ **COMPLETE CONTACT DATA:** All phone numbers and email addresses preserved exactly as provided
-- ✅ **NO NEW HIRES OR DEPARTURES:** Directory remains unchanged from previous update
-- ✅ **DATA INTEGRITY:** 100% match between existing knowledge file and new raw data
+**Key Changes from Previous Update:**
+- ✅ **NEW HIRES:** 2 new team members identified
+  - Robert Edson (Principal UAS Technician)
+  - Brandon Messersmith (UAS Technician)
+- ✅ **ROLE CLARIFICATIONS:** Beck Cotter now classified as Proposal Specialist in Business Development & Sales (previously unclassified)
+- ✅ **NEW DEPARTMENT:** UAS Operations & Technical Support created (Edson and Messersmith)
+- ⚠️ **SERVICE ACCOUNTS REMOVED:** Emergency Admin 1 and Emergency Admin 2 no longer appear in roster (2 service accounts removed, 3 remain)
+- ✅ **PHONE NUMBER FORMATTING:** All phone numbers standardized with dashes preserved exactly
+- ✅ **CONTACT DATA COMPLETENESS:** All email addresses and phone numbers preserved
 
-**Recommendations:**
-- Five team members (Beck Cotter, Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood) remain unclassified — recommend immediate clarification of roles and department assignments to complete organizational chart
+**Outstanding Classification:**
+- Four team members remain unclassified (Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood) — recommend immediate role and department clarification to complete organizational chart

@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), Meredith Needham (finance/admin), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 23, 2026) reflects ongoing high-volume procurement/purchasing activity and operational continuity.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 26, 2026) reflects project closeout coordination and Asana project archival procedures.
 
 ---
 
@@ -41,7 +41,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **August 2023:** Alex installed garage door seal for improved weatherproofing.
 - **June 11, 2026:** Ben Busby addressing sprinkler valve maintenance at facility.
 - **August 21, 2026:** Adjacent space (next door bakery) made partially accessible for BST use. Front entrance combo: `2372`, inner door combo: `2011`. Bakery has access to front (their bathroom is broken). Limitations: BST limited to large item storage and assembly table setup until build-out design finalized. Back offices off-limits (carpeting in progress). Inner door must remain locked to control access.
-- **August 18, 2026:** Air compressor procurement approved. Joshua Fromm's personal compressor taken home previously. Two options researched: Husky 20-gal 200-PSI vs. DEWALT 26-gal 175-PSI quieter model. Jack Elston approved either option; Cory Dixon recommended quieter DEWALT model. Decision appears pending final selection, though Ethan Domagala humorously noted existing bike pump availability.
+- **August 18, 2026:** Air compressor procurement approved. Joshua Fromm's personal compressor taken home previously. Two options researched: Husky 20-gal 200-PSI vs. DEWALT 26-gal 175-PSI quieter model. Jack Elston approved either option; Cory Dixon recommended quieter DEWALT model. Decision appears pending final selection, though Ethan Domagaly humorously noted existing bike pump availability.
 - **September 18, 2026:** Joshua Fromm identified back door of new office as requiring locksmith service—door doesn't lock properly. No decision/action recorded yet.
 - **October 2, 2026:** Trash and recycling pickup scheduled for October 2, 2026 per Meredith Needham's request. Team directed to fill bins as completely as possible (Joshua Fromm completed).
 - **October 8, 2026:** Meredith Needham requested additional recycling pickup ASAP.
@@ -57,8 +57,71 @@ The operations channel serves as Black Swift Technologies' central hub for coord
   3. Meredith will no longer need to track down purchase justifications post-hoc
 - **October 23, 2026:** High-volume purchasing activity underway. Joshua Fromm acknowledged Beck Cotter managing "a zillion orders" during the week, indicating increased procurement demand and successful delegation of purchasing responsibilities working as intended.
 
+### Project Closeout & Asana Management
+- **October 26, 2026:** Maciej Suwinski initiated project closeout process in Asana, seeking status verification on six completed projects before archival:
+  1. **[212-1] S2 Simulator** - Shipped to NASA weeks ago; awaiting confirmation to close
+  2. **[452-2] S2 Simulator & used E2 Battery** - Dan H from CU picked up last week; invoice status verification needed
+  3. **[043-3] ByLight M2/Halo** - Outstanding invoice and potential shipping task; needs status confirmation
+  4. **[212-2] NASA S2 & Parts** - Tasks marked complete; final verification needed
+  5. **[032-3] Sasquatch S0s x 4** - Invoice payment confirmation needed
+  6. **[012-3] ERAU Model S0** - Shipped June 2026; invoice verification needed
+- **October 26, 2026:** Jack Elston confirmed project status and approved **archival (not deletion)** of closed projects. Reasoning: archived projects preserve assignment history, task timing data, and completion details for future reference. Jack notes this data will eventually be valuable as training sets for AI-generated project documentation and automatic reporting systems. Projects to be archived once financial verification completed (invoice status confirmed for all).
+
+---
+
+## Projects & Initiatives
+
+### Active Projects Pending Closeout (as of October 26, 2026)
+1. **S2 Simulator (NASA delivery)** - Delivered to NASA weeks ago; administrative closeout pending
+2. **S2 Simulator & Battery (CU pickup)** - Picked up by Dan H from CU last week; invoice verification pending
+3. **ByLight M2/Halo project** - Invoice and shipping task completion verification needed
+4. **NASA S2 & Parts** - Technical work complete; administrative closeout pending
+5. **Sasquatch S0s (4 units)** - Invoice payment verification pending
+6. **ERAU Model S0** - Shipped June 2026; invoice verification pending
+
+---
+
+## Action Items & Commitments
+
+### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, due before October 26, 2026)
+- Verify invoice status for [452-2] S2 Simulator & used E2 Battery
+- Verify invoice sent for [043-3] ByLight M2/Halo
+- Confirm invoice paid for [032-3] Sasquatch S0s x 4
+- Verify invoice status for [012-3] ERAU Model S0
+- Confirm all shipping requirements completed for [043-3] ByLight M2/Halo
+
+### Facility Maintenance (ongoing)
+- Back door locksmith service needed (September 18, 2026 identification; status unknown)
+- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026)
+- Collapsing shelf repair/replacement (identified October 22, 2026; status unknown)
+- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion)
+
+### Asana Project Archival (assigned to Maciej Suwinski)
+- Archive (not delete) six completed projects once financial verification completed
+- Preserve project history for reference and AI training data purposes
+
+---
+
+## Recurring Topics & Themes
+
+- **Project completion & closeout procedures** - Regular coordination on verifying project completion, invoice status, and proper archival
+- **Financial tracking & invoice management** - Ongoing emphasis on documenting invoice status before project closure
+- **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture)
+- **Procurement & purchasing delegation** - Recent shift to distributed purchasing authority with Beck Cotter as central coordinator
+- **Compliance documentation** - Emphasis on qualifications, FAA requirements, and proper documentation practices
+- **Hiring & organizational scaling** - Significant expansion of team through Q4 2026
+
+---
+
+## Important Resources
+
+- **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping
+- **Export control system:** SNAP-R (for ECCN submissions)
+- **FAA systems:** Airman services portal (for pilot license address verification)
+- **Facility access:** Front entrance combo: `2372`, inner door combo: `2011` (adjacent bakery space)
+
 ---
 
 ## Recent Activity
 
-**October 23, 2026:** Joshua Fromm publicly acknowledged Beck Cotter's efforts in handling exceptionally high purchase order volume during the week, indicating strong operational execution on recently delegated procurement authority.
+**October 26, 2026:** Maciej Suwinski initiated systematic project closeout process, requesting status verification on six completed projects (NASA S2 Simulator, ByLight M2/Halo, Sasquatch S0s, ERAU Model S0, and related projects). Jack Elston confirmed projects can be archived once financial verification completed, emphasizing value of preserved project history for future AI-assisted documentation and reporting. This represents formalized project closure procedures and data preservation strategy.

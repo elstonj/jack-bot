@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 51 active projects._
+_Generated from Asana project overviews. 50 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -25,7 +25,6 @@ _Generated from Asana project overviews. 51 active projects._
 | 001_13 | BD Pipeline | — | — | — | Yes |
 | 001_13 | General Operations | — | — | — | Yes |
 | 001_13 | Proposals | — | — | — | Yes |
-| 001_14 | SwiftCore 3.3 | — | — | — | Yes |
 | 001_16 | SwiftStation IRAD | — | — | — | Yes |
 | 001_20 | SMM IRAD | — | — | — | Yes |
 | 001_22 | Fleet Maintenance | — | — | — | Yes |

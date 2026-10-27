@@ -29,7 +29,7 @@
         "amount": 8796.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-26"
+        "last_updated": "2026-10-27"
       },
       "purchases": {
         "amount": 0.0,
@@ -41,7 +41,7 @@
         "amount": 5785.11,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-26"
+        "last_updated": "2026-10-27"
       },
       "total": 14581.36,
       "by_line_item": {}
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 6224.03,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-26T08:56:36Z"
+    "last_reconciled": "2026-10-27T09:15:16Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -86,8 +86,14 @@
       "author": "Daniel Prendergast",
       "date": "2026-10-19",
       "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-10-26",
+      "text": "From Maciej: Looking to close out some projects in Asana. Here's a few I need feedback on:\n1. [212-1] S2 Simulator\n    a. There's just milestones left for \"Build Sim System\" and \"Deliver\", I assume this is the one that went to NASA a few weeks ago?\n2. [452-2] S2 Simulator &amp; used E2 Battery\n    a. Dan H from CU picked up last week, safe to close <@U06KRHPQSRH>? (i.e. I assume we invoiced a while back)\n3. [043-3] ByLight M2/Halo\n    a. Only task left is an invoice. Have we sent it?\n    b. I th"
     }
   ],
-  "last_full_rebuild": "2026-10-26T08:56:36Z",
+  "last_full_rebuild": "2026-10-27T09:15:16Z",
   "last_incremental_update": null
 }

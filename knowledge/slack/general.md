@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), and three new team members starting October 28, 2026: Lynn Regnier (Controller), Brandon Messersmit (UAS Technician), and Bob Edson (Principal UAS Technician).
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), Lynn Regnier (Controller, starting October 28, 2026), Brandon Messersmit (UAS Technician, starting October 28, 2026), and Bob Edson (Principal UAS Technician, starting October 28, 2026).
 
 ## Key Decisions
 
@@ -41,12 +41,17 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   - Bob Edson (Principal UAS Technician)
   Cory Dixon providing welcome refreshments (doughnuts and pastries); team encouraged to welcome new hires and introduce themselves.
 
+### Recent Decisions (October 26, 2026)
+- **Royal Navy Mountain Excursion Planning**: Maciej coordinating scenic mountain drive for Simon and Royal Navy visitors to Boulder area. Original suggestion (Brainard Lake) rejected due to road closure. Beck Cotter recommended Rollins Pass/Moffat Tunnel or drive to Estes Park as alternatives avoiding RMNP's $100 foreigner fee. Alex Lomis suggested Flagstaff Road lookout points as convenient local alternative.
+
 ## Action Items & Commitments
 
-### Time-Sensitive (October 2026)
-- **Joshua Fromm & Dan Prendergast Out Monday-Tuesday (Oct 28-29, 2026)**: Team directed to contact them today (October 23) if anything needed before departure
-- **S0 Aircraft Preparation for Trip** (October 23, 2026): Dan Prendergast acknowledged unnamed team member for getting S0 ready for upcoming trip (specifics not detailed)
+### Time-Sensitive (October 28, 2026)
 - **Cory Dixon Welcome Coordination** (October 28, 2026): Cory bringing doughnuts and pastries for three new hires; team to welcome Lynn Regnier, Brandon Messersmit (afternoon arrival), and Bob Edson
+
+### Time-Off Notices
+- **Ali Sulehria Early Departure** (October 26, 2026): Heading home around 3pm
+- **Ethan Domagala Late Arrival** (October 27, 2026): House winterization appointment in morning; arriving closer to 9:45-10am
 
 ### Ongoing
 - **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
@@ -55,12 +60,13 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **KrateoSky**: Partnership and integration meetings ongoing; multi-location milestone celebration event held June 18-19, 2026
 - **DoD Customers**: SOCOM and 53rd Weather Squadron engaged for S0-AD demonstrations and mission requirements definition
 - **Camp Pendleton**: S0 demonstration scheduled requiring Part 107 pilot documentation
+- **Royal Navy**: Simon and Royal Navy delegation visiting Boulder area; requiring scenic mountain drive coordination with preference to avoid RMNP and high-cost attractions
 - **Chad Atwood**: External contact providing healthcare provider feedback request
 - **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
 
 ## Recurring Topics & Themes
-- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination
-- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl, Josh Waldman, Shelly Dvorak, and three new hires October 28)
+- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics
+- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026)
 - **Office Management**: Facility maintenance, cleanliness standards, HVAC/lock issues requiring team awareness
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging
 - **Schedule Coordination**: Regular announcements of absences, work-from-home requests, and time-off planning
@@ -70,11 +76,14 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Rippling**: Time-off and absence management system
 - **Google Drive**: Primary document storage with security protocols for sensitive data
 - **Hotel Boulderado**: Venue for KrateoSky milestone event (with alternative nearby hotels for overflow)
+- **Flagstaff Road Lookout Points**: Maps link shared by Alex Lomis for scenic Boulder-area viewing <https://maps.app.goo.gl/ZAbkF1Mh6Cu5f8sG6>
 
 ## Recent Activity
 
-### October 23, 2026
-- **Team Recognition**: Ethan Domagala praised unnamed team member for enthusiastic Friday participation (eating 15+ nut thins)
-- **Three New Hires Announced**: Cory Dixon formally announced three team members starting October 28, 2026 (Lynn Regnier - Controller, Brandon Messersmit - UAS Technician arriving afternoon, Bob Edson - Principal UAS Technician)
-- **S0 Trip Preparation**: Aircraft prepped and ready per Dan Prendergast's acknowledgment
-- **Out-of-Office Notice**: Joshua Fromm and Dan Prendergast unavailable Monday-Tuesday; team directed to contact today if needed
+### October 26, 2026
+- **Lynn Regnier Introduction**: New Controller (starting October 28) formally introduced herself to team with greeting
+- **Royal Navy Visit Logistics**: Maciej coordinating scenic mountain drive for Simon and Royal Navy delegation. Initial plan (Brainard Lake) blocked by road closure. Team brainstorming alternatives:
+  - Beck Cotter: Rollins Pass/Moffat Tunnel or Estes Park drive
+  - Alex Lomis: Flagstaff Road lookout points (closest to Boulder)
+  - Constraint: Avoid RMNP due to $100 foreigner fee
+- **Schedule Updates**: Ali Sulehria heading home early (~3pm); Ethan Domagala arriving late (9:45-10am) due to house winterization appointment

@@ -67,12 +67,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-10-26",
-    "end": "2026-10-26"
+    "start": "2024-10-27",
+    "end": "2026-10-27"
   },
   "totals": {
     "revenue": 3748912.55,
-    "expenses": 4628777.29,
+    "expenses": 4628645.28,
     "by_category": {
       "Payroll clearing account": 2361685.09,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 367808.53,
@@ -127,7 +127,7 @@
       "SALES & MARKETING:Promotion Expenses": 5093.27,
       "Indirect Cost:Dues & Subscriptions": 4835.62,
       "Indirect Cost:Supplies:Office SuppliesX": 4678.53,
-      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3132.94,
+      "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "OVERHEAD:OH-Other Travel Expenses": 2620.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
@@ -54509,24 +54509,6 @@
           "amount": 103.49,
           "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
           "description": "Monthly Trash and Recycling pick up"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-26",
-      "doc_number": "",
-      "total": 132.01,
-      "attributed": 132.01,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "HERTZ CAR RENTAL         SAN JOSE     CA",
-      "lines": [
-        {
-          "amount": 132.01,
-          "account": "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare",
-          "description": "HERTZ CAR RENTAL         SAN JOSE     CA"
         }
       ]
     }

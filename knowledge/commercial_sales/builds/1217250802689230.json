@@ -49,7 +49,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Commercial S0 hardware procurement for NASA Langley P3/NOAA integration. Beck sent estimate 2026-08-07 (~$46k). Customer confirmed moving forward with purchase FY2026; delivery after Oct 1 per budget constraint. Chris Meek out 3 weeks; team CC'd for correspondence. NASA procurement forms and CAGE code assistance requested. Separate from rejected AFA R&D proposal.",
+  "notes": "Commercial S0 hardware procurement for NASA Langley P3/NOAA integration. Beck sent estimate 2026-08-07 (~$46k). Customer confirmed moving forward with purchase FY2026; delivery after Oct 1 per budget constraint. Chris Meek out 3 weeks; team CC'd for correspondence. NASA procurement forms and CAGE code assistance requested. Separate from rejected AFA R&D proposal. Most recent contact 2026-08-07 confirms active engagement.",
   "missing_fields": [
     "invoice_number",
     "invoice_amount",

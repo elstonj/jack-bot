@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-23: 516.5 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 0.5 h._
+_Computed from Toggl as of 2026-10-27: 520.5 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 4.4 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,29 +6,26 @@ _Computed from Toggl as of 2026-10-23: 516.5 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 516.5 hours (all-time, since 2020-01-01)
+- **Total Hours Tracked:** 520.5 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 475.0 | 92.0% |
-| Ethan Domagala | 28.8 | 5.6% |
-| Dan | 12.2 | 2.4% |
-| Stachura | 0.5 | 0.1% |
+| Ben Busby | 475.0 | 91.3% |
+| Ethan Domagala | 28.8 | 5.5% |
+| Dan | 12.2 | 2.3% |
+| Stachura | 4.4 | 0.8% |
 
-**Primary Contributor:** Ben Busby (475.0 hours)
+**Primary Contributor:** Ben Busby (dominant contributor, representing over 91% of tracked effort)
 
 ## Activity Timeline
-Recent work entries show activity concentrated among Ethan Domagala and Dan, though entry descriptions are not populated:
-
-- Ethan Domagala: 6.0h
-- Ethan Domagala: 7.0h
-- Dan: 2.0h
-- Ethan Domagala: 1.5h
-- Ethan Domagala: 0.8h
+- **Recent work:** 
+  - Ethan Domagala: 6.0 hours (no description provided)
+  - Stachura: 3.9 hours (no description provided)
+- **Work pattern:** Heavily concentrated on Ben Busby's effort; minimal recent activity from other team members
 
 ## Insights
-- **Work Type:** Descriptions unavailable for recent entries; unable to determine specific work being performed
-- **Team Composition:** Heavily weighted toward Ben Busby's involvement; recent activity shows increased contribution from Ethan Domagala
-- **Pattern:** Recent entries (17.3 hours across 5 entries) suggest ongoing active development, though lack of documentation limits visibility into work scope
-- **Internal Project:** Non-billable IRAD (Internal Research & Development) classification indicates exploratory or foundational work
+- **Project concentration:** This is effectively a single-contributor project, with Ben Busby carrying 91% of the workload
+- **Documentation gap:** Recent entries lack descriptions, limiting visibility into current work scope
+- **Team involvement:** Limited cross-team collaboration; appears to be specialized R&D work (IRAD classification suggests internal research and development)
+- **Long-term commitment:** 520+ hours tracked over 4+ years indicates sustained, ongoing development effort

@@ -1,104 +1,127 @@
-_Asana snapshot as of 2026-10-24: 219 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-10-27: 231 open tasks, 0 completed (last 90 days)._
 
-# SwiftCore 4.0
+# [001-09] SwiftCore 4.0
 
 ## Overview
 
-- **Project Owner:** Jack Elston
-- **Team:** Whole BST team (Jack Elston, Maciej Stachura, Ben Busby assigned to tasks)
-- **Status:** Active — low priority long-term development
-- **Client/Value:** Internal R&D. No explicit dollar value noted.
-- **Timeline:** Ongoing backlog project (no defined end date; start noted as 2015-01-19 in Gantt data)
-- **Risk Signals:** 219 open tasks with zero completions; no due dates assigned; backlog-style project with no immediate delivery pressure
+**Internal Development Project** — Future development of the autopilot, ground station, and tablet code for Black Swift Technologies.
 
-## Description
-
-SwiftCore 4.0 is BST's core software platform roadmap covering future development of autopilot firmware, ground control station (GCS), and tablet applications. The project encompasses major architectural improvements (RTOS conversion, unified estimator, new GCS) and incremental feature/bug fixes across all three software domains.
+- **Owner:** Jack Elston
+- **Team:** Whole BST team (Jack Elston, Maciej Stachura, Ben Busby primary contributors)
+- **Status:** ACTIVE — Low priority backlog with no scheduled milestones or due dates
+- **Dollar Value:** Not specified
+- **Timeline:** Ongoing; no start or end dates defined
 
 ## Key Deliverables & Milestones
 
-Major unstarted milestones (all unassigned, no due dates):
+All major milestones are currently **unscheduled and unassigned**:
 
-1. **Conversion to RTOS** — Fundamental architecture shift for autopilot
-2. **Better payload system** — Support multiple cameras and flight plan loading
-3. **Official VTOL / tailsitter support** — Vehicle variant expansion
-4. **SBC Autopilot companion** — Single-board computer integration
-5. **New GCS** — Ground control station redesign
-6. **MAVLink support** — Industry-standard protocol
-7. **UAVCAN support** — CAN-based communication protocol
-8. **Multi-vehicle support** — Manage multiple UAS simultaneously
-9. **User authentication** — Security/multi-user support
+1. **Conversion to RTOS**
+2. **Better payload system** — Support multiple cameras and loading flight plans
+3. **Official VTOL / tailsitter support**
+4. **SBC Autopilot companion**
+5. **New GCS** (Ground Control Station)
+6. **MAVLink support**
+7. **UAVCAN support**
+8. **Multi-vehicle support**
+9. **User authentication**
 10. **Automated log file handling and OTA firmware updates**
 11. **Full Geofencing Support**
 
-No dollar amounts or completion milestones defined.
-
 ## Task Summary
 
-- **Total:** 219 open, 0 completed
-- **Assignment breakdown:**
-  - **Jack Elston:** ~120 tasks (mostly bug reports, infrastructure improvements, comms/payload work, UI/tablet features)
-  - **Maciej Stachura:** ~65 tasks (flight control, estimator, VTOL/tailsitter logic, simulation, documentation)
-  - **Ben Busby:** ~25 tasks (tablet UI, GCS, flight planning, simulation)
-  - **Unassigned:** 11 milestone tasks
+- **Total Tasks:** 231 open, 0 completed
+- **Priority:** Low (custom field)
+- **Assignment distribution:**
+  - **Jack Elston:** ~130+ tasks (bug fixes, calibration issues, hardware integration, comms, simulation, documentation)
+  - **Maciej Stachura:** ~70+ tasks (estimator, VTOL control, TECS, simulation, wind alignment, filters)
+  - **Ben Busby:** ~30+ tasks (GCS/tablet UI, mapping, flight planning, logging, sensor integration)
+  - **Unassigned:** 11 major milestones
 
-- **Notable patterns:**
-  - No completion tracking; pure backlog state
-  - Heavy focus on bug fixes and missing features across flight phases (takeoff, transition, landing, joystick mode, lost comms scenarios)
-  - Significant VTOL/multirotor work (Maciej's branch)
-  - Tablet/UI features growing (Ben's work)
-  - No time estimates or priority rankings beyond the "Low" custom field for the project itself
+- **Completion Rate:** 0% — No tasks have been closed in this project view
 
-## Task Categories & Themes
+## Task Patterns & Organization
 
-### Critical Known Issues (Jack Elston)
-- Roll command logging error on takeoff
-- `ERROR_NO_BATTERY` causing missed flight legs
-- Calibration mode surface limiting bugs
-- Telemetry height scale mismatch (APacking x100 vs. documented m*1000)
-- Payload door premature opening
-- Joystick control edge cases (kill switch, lost comms, throttle after flare)
-- GPS/battery-related flight terminate logic gaps
+This is a long-term feature and bug backlog organized by **system area**:
 
-### Flight Control & Estimation (Maciej Stachura)
-- Estimator improvements (GPS/pressure outage handling, unified estimator across vehicle types)
-- VTOL-specific logic (transition failures, landing alignment, clog detection)
-- Controller tuning (flare energy-based, wind-aware climb limits, dubins path planning)
-- Sensor initialization and WDT monitoring
-- Engine-out and emergency descent scenarios
+### By System:
 
-### Tablet/UI & Ground Station (Ben Busby)
-- Log file management (download, upload to logparse.bst.aero, checksums)
-- OTA updates for GCS and autopilot
-- Flight planning UX (altitude limits, lost-comm waypoint clarity, multiple sensor selection)
-- Plotting and telemetry visualization (system time, wind barbs, scalar plots)
-- Multi-UAS support and handset/tablet control switching
+**Autopilot / Flight Control (Jack Elston dominant)**
+- Surface calibration issues (can't command past max/min, initial XML deflections, etc.)
+- Emergency descent and lost GPS edge cases
+- Joystick mode behavior (lost comms, flare, GPS loss)
+- Battery and power management (ERROR_NO_BATTERY, low battery termination)
+- Payload door and deployment tube logic
+- Telemetry scale mismatches and logging
 
-### Infrastructure & Comms
-- Modular architecture (CAN, comms, ESC protocols as modules)
-- Protocol updates (MIMO radio, RTK, PPK, PPS integration)
-- Smart battery board firmware
-- Xplane simulation plugin
-- Service discovery for WiFi
-- Payload parameter rethinking
+**Estimator & Control (Maciej Stachura dominant)**
+- Wind estimation and automated parameter changes
+- VTOL transitions and failure handling
+- Clog detection (standard and MHP)
+- Motor/thrust mapping improvements
+- Sensor initialization and filter tuning
+- Unified estimator across vehicle types
+
+**GCS / Tablet UI (Ben Busby dominant)**
+- Mission planning improvements (altitude limits, waypoint handling, dubins paths)
+- Plot and telemetry display enhancements
+- Device discovery and multi-aircraft support
+- OTA firmware updates from tablet
+- Log file management and download
+
+**Simulation (Gazebo)**
+- E2 model updates
+- Fixed-wing and multirotor photogrammetry sims
+- Payload control integration
+
+**Infrastructure & Architecture**
+- RTOS migration
+- Removal of `#ifdef` vehicle type macros
+- Comm and CAN protocol modularity
+- Security improvements
+- Documentation and QRH/MMEL
+
+### Notable Feature Branches:
+- `unified_est` — Unified estimator work
+- `yaw_mix` — Controller-based turn-rate to rudder
+- `vtol` — Vehicle controller refactoring
 
 ## Recent Activity
 
-No recent completion data; task list appears to be a curated long-term backlog. Last status note dated **Nov 28, 2023** marked project as **[green]** but provided no detail on work completed or near-term priorities.
+**No recent activity recorded.** The project notes indicate a status update from **Nov 28, 2023** with sections for:
+- Overdue milestones (not detailed)
+- Overdue tasks (not detailed)
+- Completed milestones (not detailed)
+- Completed tasks (not detailed)
+
+However, **all 231 tasks remain open with no due dates or timestamps**. This suggests the project is in **long-term planning mode** rather than active execution.
 
 ## Notes & Context
 
-1. **No Due Dates:** Entire project lacks due dates, suggesting this is a prioritized wish-list rather than a committed delivery schedule.
+### Key Observations:
 
-2. **Feature Branches Noted:**
-   - `unified_est` — Maciej's estimator unification work
-   - `yaw_mix` — Rudder control rethinking
-   - `vtol` — Vehicle controller refactor
+1. **No Scheduled Work** — Despite 231 tasks, there are no assigned due dates, no milestones with deadlines, and no clear sprint structure. This is a **backlog capture**, not an active roadmap.
 
-3. **Duplicate Tasks:** Some tasks appear twice (e.g., "Add comm and can protocol as modules," "Remove FIXMEs," "Add addressing for aircraft and ground stations"), possibly from view/section duplication.
+2. **Bug + Feature Mix** — Tasks range from critical bugs (ERROR_NO_BATTERY on flights, calibration blockers) to aspirational features (RTOS, new GCS, moving baseline RTK). No triage or severity ranking is evident.
 
-4. **External Tool Integration:** Multiple references to GitLab issues (e.g., Autopilot issue #5), Gazebo simulation, X-Plane plugin, logparse.bst.aero integration.
+3. **System Debt** — Significant architectural cleanup needed:
+   - Remove `#ifdef` macros for vehicle types
+   - Remove old code markers (FIXMEs, deprecated functions)
+   - RTOS migration
+   - Comm protocol restructuring
 
-5. **Gantt Start Date:** "2015-01-19" appears in task notes, indicating this project has been in backlog form for many years.
+4. **Integration Points** — Heavy interdependence between:
+   - Autopilot and estimator (sensor initialization, switching, failover logic)
+   - Tablet UI and autopilot params (OTA, calibration, mission planning)
+   - Simulation and flight control (validation loops)
 
-6. **Zero Completions:** Despite 219 tasks, no completed tasks recorded — suggests this is a live development list, not a retrospective, and tasks are completed outside Asana or not marked done.
+5. **Documentation Gaps** — Several tasks note incomplete or conflicting documentation (e.g., TELEMETRY_POSITION.height scale mismatch, inconsistent parameter descriptions).
+
+6. **Vehicle Coverage** — Work spans:
+   - Fixed-wing (E2)
+   - VTOL/tailsitter (S2)
+   - Multirotor (quads)
+   - Tube-launched (S0)
+
+### Recommendation:
+This backlog would benefit from prioritization, milestone assignment, and dependency mapping before execution. Current state is suitable for long-term reference but not actionable without further triage.

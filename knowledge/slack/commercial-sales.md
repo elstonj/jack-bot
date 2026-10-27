@@ -8,7 +8,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling, remote technical support authorization, GCS radio settings diagnostics, QC flight authorization, simulator configuration and deployment, refresher training coordination, financial oversight, partnership evaluation, pricing strategy, business strategy meetings)
 - Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes, S2 spare parts production, NASA deliverable coordination, S0-AD show model preparation, spare parts shipping logistics, storm readiness coordination, S2 end-of-life assessments, nosecone supply bottleneck management, S3 parts cost estimation and sourcing, production quantity tracking)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms, simulator plugin diagnostics and configuration, partnership evaluation, payload/nosecone design clarification, SOCOM EO/IR RR payload integration)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms, simulator plugin diagnostics and configuration, partnership evaluation, payload/nosecone design clarification, SOCOM EO/IR RR payload integration, E2 flight testing and validation)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking, trip coordination oversight, packing specifications, freight coordination, arrival tracking, freight shipment coordination, shipment delay notifications, payment processing and bank account coordination, hazmat shipment coordination)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach, aircraft firmware knowledge)
@@ -17,7 +17,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
 - Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays, NASA refresher training coordinator, invoice/specification clarification, customer communication documentation, payment status inquiry, S3 product versioning guidance)
 - Ethan Domagala (team member, Murphy's Pond field campaign participant Aug 4-6, GCS connectivity testing, freight shipment logistics coordination, simulator packing and shipping)
-- Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping, storm readiness coordination)
+- Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping, storm readiness coordination, E2 failure testing and high-wind flight planning)
 - Sean (manufacturing, spare wing/tail set production, parts sourcing and delivery coordination, nosecone fabrication and supply)
 - Cory Dixon (international sales/trade shows, display unit coordination, EU market engagement, production impact assessment, partnership evaluation and strategy, sales data compilation and vendor coordination)
 - Alex Lomis (demo unit assembly, S0-VTOL demo model preparation, parts management)
@@ -36,7 +36,6 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Supercool (prospective customer - cloud seeding operations, S2 aircraft inquiry, July 10, 2026)
 - LMUK/Raven (international customer, SOW in development, July 16, 2026)
 - Bylight (prospective customer/partner, multiple RFI opportunities, meeting scheduled July 31, 2026; non-hazmat and hazmat shipments in October 2026 pickup/delivery process)
-- Ethan & Spencer (team members attending Murphy's Pond field campaign Aug 4-6)
 - Joey (NOAA team member, NightFox payload integration support needed, Aug 3, 2026)
 - ERAU (external customer - E2 return/RMA case, September 2026; aircraft in office as of September 24, 2026)
 - Wes (NASA contact, involved in NASA Ames S2 shipping coordination, simulator delivery inquiries, October 2026)
@@ -54,4 +53,14 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Ariel (KS contact - pricing table request, October 21, 2026)
 - PrecisionTerra (subcontractor - BST providing S3 for subcontract work)
 
-**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily
+**Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with technical discussions, logistics coordination, and customer management.
+
+**Recent Time Range:** Data now extends through October 26, 2026.
+
+## Recent Activity
+
+### E2 Flight Testing (October 26, 2026)
+- Maciej confirmed the latest E2 test flight went well with no issues—described as "one of the best flights of that specific E2"
+- Cardinal directions test conducted successfully; team plans to repeat test under windier conditions (target 10+ mph, ideally 20+ mph) for more challenging evaluation
+- Spencer noted intent to prepare aircraft for failure testing day with S1's at the sod farm but flagged that achieving target wind speeds may require flying E2 alone, as other aircraft types aren't suitable for such high-wind conditions
+- **Status:** Testing ongoing; next phase requires favorable high-wind weather windows

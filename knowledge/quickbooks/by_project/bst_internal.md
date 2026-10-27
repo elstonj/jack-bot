@@ -76,7 +76,7 @@
 
 ### **IRAD & R&D — Materials & Components** (+$385.54)
 
-**Purchase #102135063 — 2026-11-02**
+**Purchase #102135063 — 2026-11-02** *(Backordered Oct 8 – Delivered Nov 2)*
 
 | Component | Amount | Account | Description |
 |-----------|--------|---------|-------------|

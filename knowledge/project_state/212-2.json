@@ -29,19 +29,19 @@
         "amount": 22908.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-26"
+        "last_updated": "2026-10-27"
       },
       "purchases": {
         "amount": 48819.7,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-26"
+        "last_updated": "2026-10-27"
       },
       "other_qbo": {
         "amount": 19349.63,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-26"
+        "last_updated": "2026-10-27"
       },
       "total": 91078.08,
       "by_line_item": {}
@@ -49,26 +49,20 @@
     "committed": 73474.04,
     "remaining": -74708.12,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-26T08:57:35Z"
+    "last_reconciled": "2026-10-27T09:16:29Z"
   },
   "milestones": [],
   "deliverables": [],
-  "team": [
+  "team": [],
+  "risks": [],
+  "overrides": [
     {
-      "name": "Jack Elston",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
-      "name": "Josh Fromm",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-10-26",
+      "text": "From Maciej: Looking to close out some projects in Asana. Here's a few I need feedback on:\n1. [212-1] S2 Simulator\n    a. There's just milestones left for \"Build Sim System\" and \"Deliver\", I assume this is the one that went to NASA a few weeks ago?\n2. [452-2] S2 Simulator &amp; used E2 Battery\n    a. Dan H from CU picked up last week, safe to close <@U06KRHPQSRH>? (i.e. I assume we invoiced a while back)\n3. [043-3] ByLight M2/Halo\n    a. Only task left is an invoice. Have we sent it?\n    b. I th"
     }
   ],
-  "risks": [],
-  "overrides": [],
-  "last_full_rebuild": "2026-10-26T08:57:35Z",
+  "last_full_rebuild": "2026-10-27T09:16:29Z",
   "last_incremental_update": null
 }

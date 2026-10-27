@@ -1,58 +1,68 @@
-_Computed from Toggl as of 2026-10-23: 18001.3 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-10-27: 18020.9 h tracked since 2020-01-01._
 
 # Jack Elston — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 18,001.3 hours (all-time since 2020-01-01)
+- **Total hours tracked:** 18,020.9 hours (all-time since 2020-01-01)
 - **Primary projects (top 5 by hours):**
-  1. Project None: 6,839.2 hours (38.0%)
-  2. Project 183171534: 2,262.2 hours (12.6%)
-  3. [001-13] General Operations: 1,580.4 hours (8.8%)
-  4. [301-2] SBIR - Hurricane Phase II+: 1,348.7 hours (7.5%)
-  5. [301-3] S0 Hurricane Phase II - 2025: 876.7 hours (4.9%)
-- **Time period covered:** January 1, 2020 – present
+  1. Project None: 6,839.2 hours (37.9%)
+  2. Project 183171534: 2,262.2 hours (12.5%)
+  3. [001-13] General Operations: 1,597.4 hours (8.9%)
+  4. [301-2] SBIR - Hurricane Phase II+ (NOAA): 1,348.7 hours (7.5%)
+  5. [301-3] S0 Hurricane Phase II - 2025 (NOAA): 876.7 hours (4.9%)
+- **Time period covered:** January 2020 – present
 
 ## Project Breakdown
 
-| Project | Hours | % of Total | Notes |
-|---------|-------|-----------|-------|
-| Project None | 6,839.2 | 38.0% | Unallocated/untracked time |
-| Project 183171534 | 2,262.2 | 12.6% | Legacy project code |
-| [001-13] General Operations | 1,580.4 | 8.8% | Overhead/internal |
-| [301-2] SBIR - Hurricane Phase II+ | 1,348.7 | 7.5% | NOAA (Joe Cione) |
-| [301-3] S0 Hurricane Phase II - 2025 | 876.7 | 4.9% | NOAA (Joe Cione) |
-| [001-04] S0 VTOL IRAD | 618.3 | 3.4% | Internal R&D |
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| Project None | 6,839.2 | 37.9% | — |
+| Project 183171534 | 2,262.2 | 12.5% | — |
+| [001-13] General Operations | 1,597.4 | 8.9% | Overhead |
+| [301-2] SBIR - Hurricane Phase II+ | 1,348.7 | 7.5% | [301] NOAA: Joe Cione |
+| [301-3] S0 Hurricane Phase II - 2025 | 876.7 | 4.9% | [301] NOAA: Joe Cione |
+| [001-04] S0 VTOL IRAD | 618.3 | 3.4% | [001] IRAD |
 | [001-13] Corporate / Strategic Planning | 499.5 | 2.8% | Overhead |
-| [300-3] 2026 IDIQ (Hurricane) | 432.5 | 2.4% | NOAA |
-| Project 154533463 | 357.2 | 2.0% | Legacy project code |
-| [001-13] BD Pipeline | 274.5 | 1.5% | Business development |
-| Commercial Sales | 219.0 | 1.2% | Sales/BD |
-| **All other projects** | **1,843.2** | **10.2%** | 40+ smaller projects |
+| [300-3] 2026 IDIQ (Hurricane) | 434.7 | 2.4% | [300] NOAA |
+| Project 154533463 | 357.2 | 2.0% | — |
+| [001-13] BD Pipeline | 274.5 | 1.5% | Overhead |
+
+**Top 10 projects account for 82.8% of total tracked time.**
 
 ## Recent Activity
 
-Jack's recent work (last 100 entries) shows heavy focus on:
+Jack's recent work (last ~100 entries) shows a diverse mix of activities:
 
-- **[001-13] General Operations:** Dominant activity—email management, meetings (KrateoSky, Business Operations, Business Strategy), HR issues, internal coordination
-- **[300-3] 2026 IDIQ (Hurricane):** Active operational work including travel to Hawaii, flight operations (13.8h, 13.2h, 10.5h single entries), data processing, S0 tracking, deployment planning
-- **[001-23] SOCOM (CRADA) S0-AD:** Recent demos and travel; GCS debugging, system refurbishment, flight operations (24.5h, 9.5h travel entries)
-- **[001-04] S0 VTOL IRAD:** Firmware debugging and flight testing (5.8h, 6.5h, 5.0h entries)
-- **[001-14] SwiftCore 3.3:** Code refactoring and debugging (5.0h, 3.8h, 2.2h entries)
-- **[001-13] Proposals:** NOAA proposal work and whitepaper reviews
-
-**Common time entry patterns:** Large blocks of "Answering Emails" (2–7h entries frequent); travel and field operations logged in substantial chunks (10–25h days); technical debugging/flight testing in 2–6h increments.
+- **Administrative/Operations:** Heavy volume of "Answering Emails" across [001-13] General Operations (dominant pattern)
+- **Hurricane/NOAA Projects:** Active on [300-3] 2026 IDIQ with field work including:
+  - Travel (8h, 8h entries)
+  - Aircraft setup and debugging (7.3h)
+  - Polo Mission flights (8h, 10h)
+  - Vehicle refurbishment (3h, 3h)
+  - Debrief and mission support
+- **Navy SBIR - Magnetometer:** Significant recent focus on debugging (5.5h, 5.2h sessions), GCS fixes, TAK Server setup (1.8h each)
+- **Strategic Work:** Travel to DC and Denver for BD Pipeline / business development; NOAA pre-meeting prep
+- **HR/Hiring:** Conducting interviews for TPM and manufacturing roles (Black Swift & KrateoSky partner)
+- **Marketing:** Startup panel participation (4.0h), scheduling
+- **Overhead meetings:** Weekly integration reviews, internal updates, management syncs
 
 ## Patterns
 
-**Primary focus areas:**
-- **Hurricane research operations:** ~3,600 hours across NOAA hurricane projects ([301-2], [301-3], [300-3])—core business area
-- **Internal operations & overhead:** ~2,350 hours in [001-13] General Operations and strategic planning—significant management/coordination burden
-- **VTOL systems development:** ~620 hours on S0 VTOL IRAD with active firmware/flight testing
-- **Government R&D (IRAD/SBIR):** Scattered across multiple internal and DoD initiatives (~1,000+ hours total)
+**Primary Focus Areas:**
+1. **Hurricane/Weather Operations** – Strong ongoing commitment to NOAA-sponsored projects (Phase II+, S0 2025, 2026 IDIQ), with recent field deployment activity
+2. **General Management & Operations** – Large "unallocated" hours (37.9% in Project None) plus overhead operations suggests senior leadership or administrative role
+3. **Navy/Defense Contracts** – Active Navy SBIR magnetometer work with recent debugging-intensive sessions
+4. **IRAD/Internal Development** – Multiple internal R&D initiatives (VTOL, SwiftCore, methane detection)
+5. **Business Development** – Increasing travel and pre-meeting activity for potential contracts
 
-**Shifts observed:**
-- Recently elevated activity in operational/field work (Hawaii deployments, SOCOM demos) vs. pure development
-- Email/administrative load appears consistently high in recent periods
-- Transition between project focus suggests Jack acts as both technical contributor and operational lead on critical programs
+**Notable Shifts:**
+- Recent entries show **increased field activity** on Hurricane project (travel, missions, vehicle work) compared to earlier patterns
+- **Navy SBIR debugging** has become a major focus in recent weeks (10-15h per week range)
+- **Administrative overhead** remains constant but appears to be managed through email batching
+- **Hiring activity** suggesting possible HR/management responsibilities
 
-**Notable:** Nearly 40% of tracked time is "Project None" (unallocated), suggesting either significant unbilled/overhead work or time entry gaps that may warrant review.
+**Work Patterns:**
+- Responds to high volume of emails (typically 1-4h daily blocks)
+- Participates in recurring meetings (weekly integration review, internal updates)
+- Engages in significant travel for business development and field missions
+- Dedicates extended time blocks to technical debugging/problem-solving (5-8h sessions on Navy work)

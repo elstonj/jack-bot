@@ -52,7 +52,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Engineering-phase collaboration with Ultra PCS / USAF on pneumatic launcher for C-130/KC-135 integration. Two full aircraft plus ground station and launcher on scope. Customer considering S3 alternative due to NRE cost; delivery timeline long-range (customer doesn't need it for a while). Active scope negotiation ongoing per Slack 2026-09-25.",
+  "notes": "Engineering-phase collaboration with Ultra PCS / USAF on pneumatic launcher for C-130/KC-135 integration. Scope: two full aircraft, launcher, ground station, and components to finish customer's other airframe. Long-range delivery timeline (customer doesn't need near-term). Active scope negotiation ongoing with NRE cost discussion; customer also considering S3 alternative per Slack 2026-09-25.",
   "missing_fields": [
     "receive_by",
     "ship_to",
