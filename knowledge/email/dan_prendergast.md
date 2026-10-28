@@ -1,33 +1,39 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 26 (3 from previous scan + 23 new)
-- **Date range:** 25 Oct – 27 Oct 2026
-- **Approximate volume:** High activity, concentrated over 3 days; 8–10 emails per day during active period
+- **Total messages scanned:** 37 (26 from previous scan + 11 new)
+- **Date range:** 25 Oct – 28 Oct 2026
+- **Approximate volume:** High activity, concentrated over 4 days; 8–10 emails per day during active period
 
 ## Key Correspondents
 
 ### Top Senders
 1. **Maciej Stachura** (via Asana) — 9 project update notifications (dominant correspondent)
-2. **Asana** (automated) — 2 notification digests
-3. **Spencer Hoehl** — Meeting invitation (Flight test planning)
-4. **Cory Dixon** — Meeting invitation (Weekly Program Review)
-5. **Ellen McCarthy** (Krateo Sky) — Export control discussion
-6. **Russ Vanderwerff** (Aerostar) — Strategic synergies discussion (received via Jack Elston)
+2. **Asana** (automated) — 3 notification digests
+3. **Ellen McCarthy** (Krateo Sky) — Export control & licensing (multiple exchanges)
+4. **Spencer Hoehl** — Meeting invitation (Flight test planning)
+5. **Cory Dixon** — Meeting invitation (Weekly Program Review)
+6. **Jack Elston** — Navy VPU2 introduction coordination
+7. **rwandel rwandel** (UC Santa Cruz) — Flight plans coordination [IMPORTANT]
 
 ### Top Recipients
 - Primary inbox: daniel.prendergast@blackswifttech.com
 - Secondary email: daniel.prendergast@bst.aero
-- Appears on group emails with internal team (Spencer Hoehl, Joshua Fromm, Cory Dixon, Ethan Domagala, Alex Lomis, Sam Hild, Jack Elston, Ali Sulehria)
+- Outbound to: Ellen McCarthy/Krateo Sky (multiple), Lockheed Martin UK contacts (Neil Morphett, Alasdair Brackenridge, Dhruti Shah), Krateo Sky team (Bob Smith, Lisa Marie Cheney)
 
 ### Internal vs External
-- **Internal:** ~70% (Asana notifications, Maciej Stachura, Spencer Hoehl, Cory Dixon, Jack Elston)
-- **External:** ~30% (Ellen McCarthy/Krateo Sky, Russ Vanderwerff/Aerostar, vendor/newsletter emails)
+- **Internal:** ~65% (Asana notifications, Jack Elston, Spencer Hoehl, Cory Dixon, Maciej Stachura)
+- **External:** ~35% (Krateo Sky, Lockheed Martin UK, UC Santa Cruz, Navy, travel vendors)
 
 ### Key External Contacts
-- **Ellen McCarthy** (Krateo Sky) — Export control & licensing for UAS sales (Lockheed Martin UK, UK Royal Navy)
-- **Russ Vanderwerff** (Aerostar) — Strategic partnership discussion
-- Newsletter subscriptions: Mapbox, AI Valley, IDiyas USPTO, A&SF Daily Report
+- **Ellen McCarthy / Krateo Sky** — Export control & licensing advisor; multiple active exchanges on Lockheed Martin UK / UK Royal Navy deal
+- **Bob Smith & Lisa Marie Cheney** (Krateo Sky) — DD254 & facility clearance coordination
+- **Lockheed Martin UK contacts:**
+  - Neil Morphett (neil.morphett@global.lmco.com)
+  - Alasdair Brackenridge (alasdair.brackenridge@global.lmco.com)
+  - Dhruti Shah (dhruti.shah@global.lmco.com)
+- **rwandel rwandel** (UC Santa Cruz) — Flight plans coordination [IMPORTANT flagged]
+- **austin.l.vorwald.mil@us.navy.mil** — Navy VPU2 contact (Jack Elston coordinating introduction)
 
 ## Topic Patterns
 
@@ -40,65 +46,64 @@
 - **[550-1] Navy SBIR: Magnetometer** — Navy sensor R&D
 - **[451-1] INSTAAR S3 x 2** — INSTAAR partnership (2 units)
 - **[600-1] SOCOM Pope** — SOCOM customer project
-- **BST/KS Internal SOCOM Kickoff** — Internal SOCOM planning (referenced in Google Docs share)
+- **BST/KS Internal SOCOM Kickoff** — Internal SOCOM planning (shared by Brian Grubel via Google Docs)
 
 ### Recurring Themes
+- **Export control & international licensing** (now dominant theme in new emails)
 - UAS/VTOL platform development
-- Military customers (Navy, SOCOM, potentially UK/Lockheed Martin)
-- Sensor integration (FLIR Hadron thermal, Magnetometer)
-- Export control & international licensing
-- NASA partnerships
-- Simulator development
+- Military customers (Navy VPU2, SOCOM, UK Royal Navy via Lockheed Martin)
+- Facility clearance & DD254 compliance
+- Flight test operations
+- Sensor integration
 
 ### Client/Vendor/Partner Names
-- **Navy** (SBIR/STTR programs)
-- **NASA** (S2 partnership)
+- **Lockheed Martin UK** (active business development; visit planned for following week)
+- **UK Royal Navy** (export control review ongoing)
+- **Krateo Sky** (export control & compliance specialist)
+- **UC Santa Cruz / rwandel** (flight plans partner — IMPORTANT)
+- **Navy VPU2** (new contact introduced by Jack Elston)
 - **SOCOM**
-- **Lockheed Martin UK / UK Royal Navy** (export review)
-- **INSTAAR** (likely University of Colorado instrument program)
-- **Krateo Sky** (export control consultant)
-- **Aerostar** (potential synergies)
-- **FLIR** (thermal camera supplier)
+- **NASA**
 
 ## Communication Patterns
 
 ### Time Patterns
-- Emails distributed across UTC/MDT timezones (likely reflects distributed team + international engagement)
-- Burst of Asana notifications on Tue, 27 Oct 03:23 UTC (likely end-of-day Monday MDT meeting or batch update)
-- Meeting invitations on Mon, 26 Oct (Flight test planning 3:30pm MDT, weekly Program Review)
+- Concentrated activity Tue 27 Oct (6 outbound/inbound emails in 8-hour window, 11:21–22:28 MDT)
+- Hotel checkout receipts timestamped 12:48–12:52 UTC (Tue morning MDT)
+- Enterprise rental agreement timestamp suggests travel continuity
+- Early morning Asana notification 28 Oct 05:39 UTC (following work burst)
 
 ### Mailing Lists / Group Emails
-- **Flight test planning group:** 9 internal staff (Spencer Hoehl, Joshua Fromm, Cory Dixon, Ethan Domagala, Alex Lomis, Maciej Stachura, Sam Hild, Jack Elston, Ali Sulehria)
+- **Flight test planning group:** 9 internal staff
 - **Program Review (weekly):** Cory Dixon, Maciej Stachura, Jack Elston, Dan Prendergast
+- **Krateo Sky coordination:** Multiple team members (Ellen McCarthy, Bob Smith, Lisa Marie Cheney)
 
 ### Automated/Newsletter Emails
 - Asana project notifications (work-critical)
-- Mapbox product roadmap (development tool vendor)
-- AI Valley (industry newsletter)
-- IDiyas USPTO weekly (IP/innovation tracking)
-- A&SF Daily Report (air & space industry news)
-- Enterprise Rent-A-Car (personal travel)
-- IHG One Rewards (personal travel/loyalty)
+- Enterprise Rent-A-Car (active travel)
+- Candlewood Suites hotel receipts (Fayetteville Fort Bragg location — military proximity)
+- (Previous: Mapbox, AI Valley, IDiyas USPTO, A&SF Daily Report)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators (by frequency)
-1. **Maciej Stachura** — Dominant project update originator; appears on multiple cross-functional team emails
-2. **Jack Elston** — Appears on flight test, program review, and received Aerostar synergies email
+1. **Maciej Stachura** — Dominant project update originator; cross-functional coordination
+2. **Jack Elston** — Escalating to Navy contact introductions (VPU2); strategic account management
 3. **Cory Dixon** — Program review organizer; team member
 4. **Spencer Hoehl** — Flight test planning organizer
 
 ### External Relationships
-- **Ellen McCarthy (Krateo Sky)** — Export control advisor (compliance-critical role)
-- **Russ Vanderwerff (Aerostar)** — Strategic partnership exploration
+- **Ellen McCarthy (Krateo Sky)** — **CRITICAL:** Active multi-thread export control negotiation on Lockheed Martin UK / UK Royal Navy deal; compliance gatekeeper
+- **Lockheed Martin UK (Morphett, Brackenridge, Shah)** — Active business development; in-person visit scheduled for following week
+- **rwandel (UC Santa Cruz)** — Flight plans coordination [IMPORTANT flagged by recipient]
+- **Krateo Sky team (Bob Smith, Lisa Marie Cheney)** — DD254 & facility clearance ops
 
 ## Notable Observations
 
-1. **High project velocity:** 9 active Asana projects tracked simultaneously; rapid updates suggest active development/testing phase
-2. **Military-heavy portfolio:** Navy, SOCOM, and UK Royal Navy all represented; export control email flagged as IMPORTANT
-3. **Dual email addresses:** Uses both blackswifttech.com and bst.aero domains (latter appears in newsletter subscriptions)
-4. **International complexity:** Krateo Sky engagement indicates UK/international UAS export licensing — significant regulatory/commercial concern
-5. **Flight test imminent:** "Flight test planning" meeting suggests near-term field operations
-6. **Cross-functional coordination:** Involved with engineering (Maciej), leadership (Jack, Cory), operations (Spencer)
-7. **Industry engagement:** Active tracking of tech trends (Anthropic IPO, IP landscape, aerospace news) suggests strategic/business development involvement
-8. **Personal travel:** Multiple car rental and hotel loyalty emails during this period (potentially travel for meetings)
+1. **Lockheed Martin UK deal in active execution phase:** Visit to LM scheduled for following week (week of 28 Oct); DD254 and facility clearance coordination underway with Krateo Sky
+2. **Export control is now mission-critical:** Multiple exchanges with Ellen McCarthy/Krateo Sky on same subject thread (Lockheed Martin UK / UK Royal Navy); indicates compliance bottleneck or active approval process
+3. **Travel to CONUS military region:** Candlewood Suites receipt shows stay in Fayetteville Fort Bragg area (Fort Liberty/Pope AFB proximity); rental car active Tue 27 Oct — suggests SOCOM/Fort Liberty engagement
+4. **Navy relationship accelerating:** Jack Elston coordinating introduction to Navy VPU2 contact (austin.l.vorwald.mil@us.navy.mil) — new account development
+5. **UC Santa Cruz partnership gaining traction:** rwandel's email flagged IMPORTANT by recipient; flight plans coordination suggests field operations may be imminent or underway
+6. **Dual compliance tracks:** DD254/facility clearance track (domestic military) + export control track (international LM deal) running in parallel
+7. **High-stakes business development:** Three separate Lockheed Martin UK email addresses + multi-threaded Krateo Sky coordination suggests major deal with export/compliance complexity

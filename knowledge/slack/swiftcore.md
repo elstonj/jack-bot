@@ -127,6 +127,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Action: Zero out clog detector parameters on simulator (Estimator page XML update by Maciej)
 - Approved by: Jack Elston (October 23, 2026)
 
+**Local Git Server Infrastructure (October 27, 2026):**
+- Maciej established local git server setup (thanked @U0151201DMY for assistance)
+- Navy STTR project repository hosted on local server (not on GitLab)
+- Indicates expansion of internal repository management beyond primary GitLab infrastructure
+
 ## Projects & Initiatives
 
 **SwiftCore 3.3 Release (In Progress - October 2026):**
@@ -151,6 +156,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Default S3 XML files added by Maciej (October 23, 2026)
 - Propulsion model updates completed affecting clog detector parameters
 
+**Navy STTR Project (October 27, 2026 - NEW):**
+- Separate development initiative tracked in local git server (not on primary GitLab)
+- Maciej managing repository setup and initial commits
+- Status: Repository established and first project pushed to local server
+
 ## Action Items & Commitments
 
 **Outstanding Issues (October 23, 2026):**
@@ -174,7 +184,7 @@ This channel serves as the primary technical communication hub for Black Swift T
    - Await detailed failure scenario information from testing team for mag/static/GPS issues
 
 ## Client & External References
-No new external references in recent batch.
+- **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
 
 ## Recurring Topics & Themes
 
@@ -196,11 +206,15 @@ No new external references in recent batch.
 - Trade-off between detection capabilities and operational flexibility
 - Selective enablement strategy for rain missions
 
+**Infrastructure & Repository Management:**
+- Evolution of development infrastructure beyond GitLab
+- Local git server now supporting additional project repositories
+
 ## Important Resources
 
 **XML Configuration Files:**
 - SwiftCore AP 3.3 Estimator page XML (parameter configuration)
-- S3 model default XML files (newly added, October 23, 2026)
+- S3 model default XML files (added October 23, 2026)
 - Payload configuration spreadsheet (flagged for refresh, June 2026)
 
 **Testing Artifacts:**
@@ -211,7 +225,16 @@ No new external references in recent batch.
 - SwiftCore AP 3.3 release candidate firmware
 - SwiftTab-staging.apk (3.3 branch)
 
+**Infrastructure:**
+- Local git server (established October 27, 2026)
+- Navy STTR project repository (hosted on local server, not GitLab)
+
 ## Recent Activity
+
+**October 27, 2026 - Infrastructure Expansion:**
+- Maciej acknowledged support from @U0151201DMY for local git server setup
+- Navy STTR project repository successfully established on local git server
+- First repository pushed to local infrastructure, indicating shift toward distributed repository management for specialized projects
 
 **October 23, 2026 - Version 3.3 Flight Testing Progress:**
 

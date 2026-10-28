@@ -1,64 +1,61 @@
-_Computed from Toggl as of 2026-10-27: 3810.7 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-10-28: 3818.7 h tracked since 2020-01-01._
 
 # Ethan Domagala — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 3,810.7 hours (all-time since 2020-01-01)
+- **Total hours tracked:** 3,818.7 hours (all-time since 2020-01-01)
 - **Primary projects (top 5 by hours):**
-  1. [043-3] ByLight M2/Halo: 469.9 hours (12.3%)
-  2. [001-07] S3 IRAD: 440.0 hours (11.6%)
-  3. [301-2] SBIR - Hurricane Phase II+: 376.3 hours (9.9%)
-  4. [043-2] By Light Mustang: 269.2 hours (7.1%)
-  5. [301-3] S0 Hurricane Phase II - 2025: 240.4 hours (6.3%)
-- **Time period covered:** 2020-01-01 to present
+  1. [043-3] ByLight M2/Halo: 469.9 hours
+  2. [001-07] S3 IRAD: 448.0 hours
+  3. [301-2] SBIR - Hurricane Phase II+ (NOAA): 376.3 hours
+  4. [043-2] By Light Mustang: 269.2 hours
+  5. [301-3] S0 Hurricane Phase II - 2025 (NOAA): 240.4 hours
+- **Time period:** January 2020 to present
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| [043-3] ByLight M2/Halo | 469.9 | 12.3% | (By Light) |
-| [001-07] S3 IRAD | 440.0 | 11.6% | Internal IRAD |
+| [043-3] ByLight M2/Halo | 469.9 | 12.3% | By Light |
+| [001-07] S3 IRAD | 448.0 | 11.7% | Internal IRAD |
 | [301-2] SBIR - Hurricane Phase II+ | 376.3 | 9.9% | NOAA (Joe Cione) |
-| [043-2] By Light Mustang | 269.2 | 7.1% | (By Light) |
+| [043-2] By Light Mustang | 269.2 | 7.0% | By Light |
 | [301-3] S0 Hurricane Phase II - 2025 | 240.4 | 6.3% | NOAA (Joe Cione) |
-| [400-5] SBIR - SMM DoD 22.4D Phase II | 190.5 | 5.0% | Department of Air Force |
+| [400-5] SBIR - SMM DoD 22.4D Phase II | 190.5 | 5.0% | Department of the Air Force |
 | [001-08] Flight Testing | 182.8 | 4.8% | Internal |
-| [001-20] PTO | 152.0 | 4.0% | (Time off) |
+| [001-20] PTO | 152.0 | 4.0% | — |
 | [001-05] S1 IRAD | 134.0 | 3.5% | Internal IRAD |
 | [300-3] 2026 IDIQ (Hurricane) | 119.8 | 3.1% | NOAA |
-| Other projects | 636.8 | 16.7% | Various |
+| **Other projects** | 436.8 | 11.4% | Various |
+
+**Key focus areas:** Ethan splits time primarily between two By Light contracts (M2/Halo and Mustang totaling 739.1 hours / 19.4%), internal S3 IRAD development (448.0 hours / 11.7%), and NOAA hurricane research projects (376.3 + 240.4 + 119.8 = 736.5 hours / 19.3%).
 
 ## Recent Activity
 
-**Current focus (last 59 entries):**
-- Heavy concentration on [043-3] ByLight M2/Halo project (majority of recent sessions)
-- Active S3 IRAD work: detailed descriptions show focus on S3 wiring, tail servo trays, and wing inserts
-- Flight testing activities: S1 preflight, S2 QC flight, SMM E2 prep, and ERAU testing
-- Facility/operational work: warehouse build-out and desk unloading
-- NASA work on S2 & Parts integration
+**Current focus (most recent 60 entries):**
+- Heavy concentration on **[043-3] ByLight M2/Halo** — multiple 8-hour full days logged consecutively
+- **[001-07] S3 IRAD wiring work** — consistent daily entries with specific task descriptions (wing inserts, tail servo trays, wiring harnesses)
+- **[001-08] Flight Testing** — periodic entries including "S2 QC Flight," "E2 SMM and ERAU Testing," and preflight work
+- **[212-2] NASA S2 & Parts** — recent 22.5-hour block
+- **General Operations** — warehouse build-out and desk unloading (8+ hours)
+- **[001-20] PTO** — one 8-hour block logged
 
-**Notable patterns in descriptions:**
-- S3 IRAD work is granular and specific (wiring, servo trays, inserts)
-- Flight testing entries reference specific aircraft and test types
-- Many ByLight entries lack descriptions (administrative/tracking consistency opportunity)
-- Operational overhead tasks documented (warehouse, facilities)
+**Entry pattern:** Most recent entries lack task descriptions; earlier entries (S3 IRAD work) include detailed task notes. Flight testing entries are more descriptive.
 
 ## Patterns
 
-**Primary work focus areas:**
-1. **External client projects:** By Light systems (M2/Halo, Mustang) and NOAA hurricane research (~35% combined)
-2. **Internal R&D:** Multiple IRAD projects across S0-S3 UAV platforms (~25%)
-3. **Government contracts:** SBIR and IDIQ projects with DoD/NOAA focus (~15%)
-4. **Flight operations:** Testing and QC activities (~5%)
-5. **Administrative/overhead:** PTO, general operations, facility work (~7%)
+**Primary work focus:**
+- **Hands-on hardware/assembly work** — S3 IRAD work suggests manufacturing/assembly (wiring, servo trays, wing inserts)
+- **Flight test support** — Consistent involvement in S1/S2 QC flights and test prep
+- **Contracted R&D** — SBIR and IRAD projects dominate (52%+ of tracked time)
+- **External partnerships** — NOAA hurricane research (19.3% combined), By Light contracts (19.4%), NASA work (4.8%)
 
-**Shifts in focus over time:**
-- Recent activity heavily skewed toward ByLight M2/Halo (active contractor work)
-- S3 IRAD has sustained engagement with recent uptick in detailed wiring/assembly work
-- Flight testing shows sustained but lower-volume activity
-- NASA Aeropod work appears diminished in recent period compared to all-time totals
+**Shift in recent activity:**
+- Recent weeks show pivot toward **ByLight M2/Halo domination** with intensive, full-day blocks
+- **S3 IRAD work peaked recently** with consistent wiring task entries (last 13 entries)
+- Flight testing appears intermittent/event-driven rather than daily
 
-**Work characteristics:**
-- Ethan operates across diverse project types (contractor systems, internal R&D, government R&D, flight ops)
-- Strong technical depth in UAV assembly/integration and flight testing
-- Balanced between development (IRAD) and delivery (By Light, SBIR) work
+**Notable:**
+- Limited descriptions in recent entries suggest either routine/known-context work or tracking efficiency preference
+- Warehouse/facilities work indicates facility expansion or relocation activity
+- Work spans hardware development (assembly), testing operations, and customer-facing SBIR projects

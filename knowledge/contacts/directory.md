@@ -123,22 +123,15 @@
   - Software Engineering: 3 engineers
   - Mechanical & Manufacturing Engineering: 2 engineers
   - Quality Assurance & Testing: 1 engineer
-  - UAS Operations & Technical Support: 2 technicians (new category)
+  - UAS Operations & Technical Support: 2 technicians
   - Interns: 2 interns
-- **Business Development & Sales:** 1 person (Beck Cotter — newly classified)
+- **Business Development & Sales:** 1 person
 - **Communications & Marketing:** 1 person
 - **Unclassified:** 4 people (Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
 - **Service Accounts:** 3
 
-**Key Changes from Previous Update:**
-- ✅ **NEW HIRES:** 2 new team members identified
-  - Robert Edson (Principal UAS Technician)
-  - Brandon Messersmith (UAS Technician)
-- ✅ **ROLE CLARIFICATIONS:** Beck Cotter now classified as Proposal Specialist in Business Development & Sales (previously unclassified)
-- ✅ **NEW DEPARTMENT:** UAS Operations & Technical Support created (Edson and Messersmith)
-- ⚠️ **SERVICE ACCOUNTS REMOVED:** Emergency Admin 1 and Emergency Admin 2 no longer appear in roster (2 service accounts removed, 3 remain)
-- ✅ **PHONE NUMBER FORMATTING:** All phone numbers standardized with dashes preserved exactly
-- ✅ **CONTACT DATA COMPLETENESS:** All email addresses and phone numbers preserved
-
-**Outstanding Classification:**
-- Four team members remain unclassified (Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood) — recommend immediate role and department clarification to complete organizational chart
+**Data Validation Notes:**
+- ✅ All 20 active employees and 3 service accounts present and accounted for
+- ✅ All email addresses preserved exactly as provided
+- ✅ All phone numbers standardized to XXX-XXX-XXXX format
+- ⚠️ **Four team members remain unclassified** — Brent Keefer, Cory Dixon, Daniel Prendergast, and Tim Hegwood have no documented role or department. Recommend immediate clarification to complete organizational chart.

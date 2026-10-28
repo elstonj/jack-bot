@@ -1,70 +1,73 @@
-_Computed from Toggl as of 2026-10-27: 6498.2 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-10-28: 6507.6 h tracked since 2020-01-01._
 
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 6,498.2 hours (all-time since 2020-01-01)
-- **Primary projects (top 5):**
-  1. SwiftCore 3.3 (IRAD) — 1,504.9 hours (23.2%)
-  2. Corporate / Strategic Planning (Overhead) — 443.4 hours (6.8%)
-  3. SBIR - Hurricane Phase II+ (NOAA) — 434.1 hours (6.7%)
-  4. Proposals (IRAD) — 408.3 hours (6.3%)
-  5. General Operations (Overhead) — 383.4 hours (5.9%)
-- **Time period:** January 2020 – present (5+ years)
+- **Total hours tracked:** 6,507.6 hours (all-time since 2020-01-01)
+- **Primary projects (top 5 by hours):**
+  1. SwiftCore 3.3 (IRAD) — 1,504.9 hours
+  2. Corporate / Strategic Planning (Overhead) — 443.4 hours
+  3. SBIR - Hurricane Phase II+ (NOAA) — 434.1 hours
+  4. Proposals (IRAD) — 408.3 hours
+  5. General Operations (Overhead) — 392.8 hours
+- **Time period covered:** 2020-01-01 to present
 
 ## Project Breakdown
 
-### Top 10 Projects by Hours
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| SwiftCore 3.3 | 1,504.9 | 23.2% | IRAD |
-| Corporate / Strategic Planning | 443.4 | 6.8% | Overhead |
-| SBIR - Hurricane Phase II+ | 434.1 | 6.7% | NOAA (Joe Cione) |
-| Proposals | 408.3 | 6.3% | IRAD |
-| General Operations | 383.4 | 5.9% | Overhead |
-| S3 IRAD | 372.6 | 5.7% | IRAD |
-| 2026 IDIQ (Hurricane) | 353.3 | 5.4% | NOAA |
-| Project 183171534 | 300.9 | 4.6% | *Unspecified* |
-| S0 Hurricane Phase II - 2025 | 299.9 | 4.6% | NOAA (Joe Cione) |
-| BD Pipeline | 246.0 | 3.8% | Overhead |
+| [001-14] SwiftCore 3.3 | 1,504.9 | 23.1% | IRAD |
+| [001-13] Corporate / Strategic Planning | 443.4 | 6.8% | Overhead |
+| [301-2] SBIR - Hurricane Phase II+ | 434.1 | 6.7% | NOAA: Joe Cione |
+| [001-13] Proposals | 408.3 | 6.3% | IRAD |
+| [001-13] General Operations | 392.8 | 6.0% | Overhead |
+| [001-07] S3 IRAD | 372.6 | 5.7% | IRAD |
+| [300-3] 2026 IDIQ (Hurricane) | 353.3 | 5.4% | NOAA |
+| [301-3] S0 Hurricane Phase II - 2025 | 299.9 | 4.6% | NOAA: Joe Cione |
+| [001-13] BD Pipeline | 246.0 | 3.8% | Overhead |
+| [550-2] Navy STTR: Hazardous Weather | 224.8 | 3.5% | Navy |
+| [550-1] Navy SBIR: Magnetometer | 194.3 | 3.0% | Navy |
+| Other projects (37 remaining) | 657.2 | 10.1% | Various |
 
-### Work Distribution by Category
-- **IRAD (Internal R&D):** ~3,200 hours (49%)
-- **Overhead (Corporate/Strategic/Operations):** ~1,073 hours (16.5%)
-- **NOAA (Federal - Hurricane/Weather):** ~1,122 hours (17.3%)
-- **Navy (SBIR/STTR):** ~419 hours (6.4%)
-- **NASA:** ~80 hours (1.2%)
-- **Other Government/Commercial:** ~440 hours (6.8%)
+**Top sectors by time investment:**
+- IRAD projects: ~3,180 hours (48.9%)
+- Overhead/Operations: ~1,088 hours (16.7%)
+- NOAA/Hurricane work: ~1,122 hours (17.2%)
+- Navy R&D: ~419 hours (6.4%)
+- Other government & commercial: ~698 hours (10.7%)
 
 ## Recent Activity
 
-### Current Focus (Last 100 tracked entries)
-- Heavy emphasis on **Navy SBIR: Magnetometer** ([550-1]) — numerous entries of 1-9 hours each
-- Significant **2026 IDIQ (Hurricane)** work ([300-3]) with recent travel and hurricane flight operations (14.8h, 11.1h entries tagged "Travel" and "Hurricane Flight")
-- Ongoing **SwiftCore 3.3** development ([001-14]) with regular 1-6 hour sessions
-- **General Operations** and **BD Pipeline** overhead activities continuing at steady pace
-- Recent **Customer Support** and **SOCOM Pope** entries suggest diversified tasking
+**Current focus (last 100 entries):**
+- Heavy engagement with **[550-1] Navy SBIR: Magnetometer** — multiple sessions ranging 0.3–8.7 hours, suggesting active development or testing phase
+- **[300-3] 2026 IDIQ (Hurricane)** — regular activity including travel logs and "Hurricane Flight" operations (field campaign participation)
+- **[001-14] SwiftCore 3.3** — ongoing maintenance/development with sessions 0.4–6.2 hours
+- **[001-13] General Operations** — steady overhead work (0.4–8.7 hours per entry)
+- **[001-13] BD Pipeline** — business development efforts (0.5–1.1 hours)
+- Minimal descriptions in recent entries (mostly blank); occasional tags: "travel," "Hurricane Flight," "Travel"
 
-### Notable Patterns in Descriptions
-- Most recent entries lack detailed descriptions (majority show "no description")
-- Tagged items indicate field operations: "travel," "Hurricane Flight"
-- Few entries with explicit tags suggest reliance on project code context
+**Notable patterns:**
+- Navy Magnetometer work shows concentrated, intensive sessions (5–8+ hour blocks common)
+- Hurricane/NOAA operations include field travel and flight missions
+- SwiftCore 3.3 remains the dominant long-term commitment
+- General Operations activity spans varied durations, suggesting ad-hoc overhead tasks
 
 ## Patterns
 
-### Primary Work Focus
-Stachura is a senior technical contributor split across three main areas:
-1. **SwiftCore platform development** (IRAD) — nearly 1/4 of all time
-2. **Federal research and development** — NOAA hurricane research, Navy sensor work
-3. **Strategic/overhead contributions** — proposals, corporate planning, business development
+**Primary work focus areas:**
+1. **SwiftCore 3.3 development** — 23% of total time; core BST platform project
+2. **Overhead / strategic operations** — 16.7%; corporate planning, proposals, BD pipeline
+3. **Hurricane science & NOAA partnerships** — 17.2%; both SBIR and IDIQ contracts with field operations
+4. **Navy R&D** — 6.4%; SBIR/STTR magnetometer and hazardous weather sensing
 
-### Notable Shifts Over Time
-- Heavy historical allocation to SwiftCore 3.3 (1,505 hours) with minimal recent work on SwiftCore 4.0 (4.4 hours) and 3.2 (2.8 hours)
-- Growing emphasis on **Navy magnetometer work** ([550-1]) evident in recent activity cluster
-- **Hurricane mission work** showing field operations tempo (travel, flight ops) in recent weeks
-- IRAD proposals remain a consistent overhead commitment (408.3 hours total)
+**Shift in focus over time:**
+- Stachura has maintained consistent high engagement with SwiftCore 3.3 and IRAD work since 2020
+- Recent entries show intensifying Navy Magnetometer involvement (frequent recent sessions)
+- Increased Hurricane project activity (travel/field operations) visible in recent logs
+- IRAD portfolio remains diversified but SwiftCore 3.3 dominates
 
-### Work Style
-- Flexible task switching between core development, proposals, field operations, and strategic planning
-- Strong operational tempo on current Navy/NOAA contracts with mixed daily assignments
-- Minimal time tracking description discipline in recent months
+**Work characteristics:**
+- Large project orientation (majority of hours on 5–10 core efforts)
+- Government contract heavy (NOAA, Navy, DoD, NASA clients dominant)
+- Mix of development, proposal/business development, and operational support
+- Field operations component (hurricane flights, site travel documented)

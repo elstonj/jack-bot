@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support and opportunity scouting), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex Lomis (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), Bassil (customer/funder for flight operations), Roger (external contact for COO/parts analysis), Angel (PACOM/Northern Edge contact), Evan (SOCOM contact), Bradley (Northern Edge contact), Chris Meek (Langley/procurement contact), Tony (Northern Edge registration contact), PrecisionTerra (subcontract partner), By Light (DIU partnership), Eryan (NASA radiometry project partner), Supercool Earth (cloud seeding/icing flight customer), Joe Cione (NOAA cyclone/hurricane research contact), Josh C (Navy STTR contact), Jana Kolb (NOAA hurricane contract CO), Angie and Cristoph (NOAA/USGS project contacts for IDIQ), Simon (UK Navy partner/contact), Tony (external contact involved with Camp Pendleton incident), Brian (template/formatting support), Chris Leek (Langley procurement contact), Jed and Brian from KS (external editing support for LC-ISR and DIU decks).
 
-**Activity Level:** Extremely high throughout the period (March 2024 - October 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. October 2026 shows ongoing LC-ISR deck and DIU slide deck preparation in final submission phases.
+**Activity Level:** Extremely high throughout the period (March 2024 - October 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. October 2026 shows ongoing partnership coordination with LMUK and continued budget/agenda preparation for upcoming meetings/submissions.
 
-**Time Range:** March 3, 2024 - October 15, 2026
+**Time Range:** March 3, 2024 - October 27, 2026
 
 ---
 
@@ -65,3 +65,134 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
   - **April 30:** Jack Elston confirmed all 4 RFIs would be submitted
 
 - **NASA Appendix 26B SBIR Phase I proposal submitted** (by October 6, 2026): "All Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation" under AERO.7.S26B-0167.
+
+### Partnership & Collaboration Decisions
+- **LMUK partnership engagement** (October 27, 2026): Ongoing collaboration with Lockheed Martin UK; Jack Elston awaiting clarity on timeline and partnership details before finalizing meeting agendas and budgets.
+
+---
+
+## Projects & Initiatives
+
+### Active Government Proposals (as of October 2026)
+- **NASA SBIR Phase I submissions** (ongoing): Wildfire aviation autonomy work in progress
+- **LMUK partnership initiative** (October 2026): Partnership scope being finalized; awaiting timeline confirmation from LMUK before proceeding with detailed planning
+- **SOCOM demonstration** (in preparation): S0-85 and S0-86 aircraft allocated for demo with parachute tube modifications
+
+### Advanced Development
+- **S0-AD, S0-LR, S3 Nomad variants**: Multiple aircraft configurations in active development for government applications
+- **Arctic cold-weather qualification**: -40°C validation targeted for current sprint; optional -55°C engineering and validation (~$85k) being scoped
+- **Autonomy/Avionics integration**: NDAA-compliant systems in development across multiple platforms
+
+---
+
+## Action Items & Commitments
+
+### Recent/Current (as of October 27, 2026)
+- **Beck Cotter**: Prepared budget and draft agenda for partnership meeting; sent to Jack Elston (U014U9WMK2A) for review before distribution. Budget and agenda documents stored in shared Google Drive folder.
+- **Jack Elston (U014U9WMK2A)**: To review Beck's budget and draft agenda before external circulation; awaiting LMUK timeline clarification
+- **Jack Elston (U04CZK4K7P0)** (or team member with this ID): Sending clarification note to LMUK regarding timeline and expectations
+- **LMUK contact**: Expected to provide timeline clarity that will inform final budget and agenda adjustments
+
+### Earlier Commitments (July-August 2026)
+- **Joshua Fromm**: Leading cold-weather component design starting week of August 5, 2026, targeting -40°C validation with design details meeting to follow
+- **Team**: Design details meeting to establish action items and timeline for arctic qualification work
+
+---
+
+## Client & External References
+
+### Government Agencies
+- **NASA** (multiple programs: ROSES, SBIR, RFI track, Aeronautics Flight Accelerator)
+- **DOD/Air Force** (AFWERX, SBIR/STTR)
+- **NOAA** (WPO, SBIR, hurricane/wildfire work)
+- **Navy** (SBIR magnetometer, STTR machine vision)
+- **SOCOM** (demonstration platform requests)
+- **USDA, DOE** (occasional references)
+
+### International Partners
+- **Lockheed Martin UK (LMUK)** (active partnership, timeline and scope being finalized as of October 27, 2026)
+- **Simon** (UK Navy partner/contact)
+
+### Technical & Subcontract Partners
+- **University of Colorado (CU)**: Machine vision STTR collaboration
+- **Curable Composites**: Edge-constructed group 2 SBIR partnership
+- **QuSpin**: Magnetometer integration
+- **Cetacean Research Technology**: Hydrophone/acoustic integration
+- **Gijs (BNL partner)**: Brookhaven National Laboratory collaboration
+- **By Light**: DIU partnership
+- **PrecisionTerra**: Subcontract partner
+- **SkyMesa**: RF/EW partner
+- **C-Astral**: External partner contact
+
+### External Customers & Field Contacts
+- **Eryan**: NASA radiometry project partner
+- **Joe Cione**: NOAA cyclone/hurricane research contact
+- **Jana Kolb**: NOAA hurricane contract CO
+- **Supercool Earth**: Cloud seeding/icing flight customer
+- **Trenton/NexTech**: Temperature capability discussion contact
+- **Various military personnel**: Angel (PACOM/Northern Edge), Evan (SOCOM), Bradley (Northern Edge), Tony (Northern Edge registration), Chris Meek (Langley/procurement), Chris Leek (Langley procurement contact)
+
+---
+
+## Recurring Topics & Themes
+
+### Proposal Development Cycles
+- Continuous pipeline management across NASA (SBIR/STTR/ROSES), DOD (AFWERX, Navy SBIR/STTR), NOAA (WPO, SBIR), and other agencies
+- Seasonal submission windows driving proposal intensity (April RFI push, October-November SBIR cycles)
+- Iterative refinement of proposal strategies based on customer feedback and topic analysis
+
+### Budget & Administrative Coordination
+- Regular budget development and formatting by Meredith Needham and Beck Cotter
+- Multi-level review processes (draft → Jack Elston → external partners)
+- Budget tracking for complex partnerships with multiple entities
+
+### Technical Integration Challenges
+- Payload integration (cameras, sensors, magnetometers, hydrophones, radiometry equipment)
+- Aircraft variant customization (folding wings, parachute tubes, cold-weather modifications)
+- Autonomy/avionics alignment with government requirements (NDAA compliance, GPS-denied navigation, terrain following)
+
+### Partnership & Collaboration Management
+- Ongoing scope negotiations with international partners (LMUK as of October 2026)
+- Timeline synchronization across multiple stakeholders
+- Subcontractor coordination and role definition
+
+### Environmental & Operational Qualifications
+- Cold-weather operation requirements (-40°C, optional -55°C)
+- Hurricane/extreme weather resilience
+- Extended duration and endurance profiles
+- Arctic and remote area operations
+
+---
+
+## Important Resources
+
+### Shared Documents & Folders
+- **Google Drive folder** (October 27, 2026): Contains budget and draft meeting agenda for partnership coordination; location: https://drive.google.com/drive/folders/1aXrfLIr-ZFW9i5cYveByW0DRerX8SBzI?usp=drive_link
+
+### Proposal Templates & Support
+- External editing/formatting support: Jed and Brian from KS (LC-ISR and DIU decks)
+- Format and process coordination: Annette
+- Legal/compliance support: Kreateo (external consultant for USML classification)
+
+### Technical Reference Materials
+- NASA SBIR/STTR topic details and appendices (26B referenced)
+- AFWERX proposal requirements and submission portals
+- NOAA wildfire detection topic specifications
+- Government contracting compliance documentation
+
+---
+
+## Recent Activity
+
+### October 2026 (Latest)
+- **October 27**: Beck Cotter prepared budget and draft agenda for upcoming partnership meeting with LMUK. Documents shared in Google Drive folder pending Jack Elston's review before external distribution. Jack Elston (U04CZK4K7P0) sending clarification communication to LMUK regarding partnership timeline and expectations. Further budget/agenda adjustments awaiting LMUK response on timeline.
+
+### Earlier Notable Recent Activity (August-October 2026)
+- **October 6**: NASA Appendix 26B SBIR Phase I proposal submitted on wildfire autonomy topic (AERO.7.S26B-0167)
+- **Late September/Early October**: LC-ISR and DIU slide deck final preparation with external editors (Jed and Brian from KS)
+- **July 24**: SOCOM demonstration aircraft (S0-85, S0-86) allocated with parachute tube modification requirements
+- **July 30**: Arctic customer cold-weather qualification approach finalized; Joshua Fromm designated to lead -40°C design validation efforts starting week of August 5
+
+---
+
+**Last Updated:** October 27, 2026

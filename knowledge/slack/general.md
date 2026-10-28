@@ -40,18 +40,23 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   - Brandon Messersmit (UAS Technician - starting Monday afternoon due to prior commitments)
   - Bob Edson (Principal UAS Technician)
   Cory Dixon providing welcome refreshments (doughnuts and pastries); team encouraged to welcome new hires and introduce themselves.
+- **Eldora 4-Pass Distribution** (October 27, 2026): Jack Elston distributed Eldora ski pass 4-pass tickets to team members who requested them.
+- **Spindrift Beverage Supply Increase** (October 27, 2026): Jack Elston doubled the quantity of Spindrift boxes in regular orders to match team consumption; Maciej confirmed fridge was empty after consuming last box.
 
-### Recent Decisions (October 26, 2026)
-- **Royal Navy Mountain Excursion Planning**: Maciej coordinating scenic mountain drive for Simon and Royal Navy visitors to Boulder area. Original suggestion (Brainard Lake) rejected due to road closure. Beck Cotter recommended Rollins Pass/Moffat Tunnel or drive to Estes Park as alternatives avoiding RMNP's $100 foreigner fee. Alex Lomis suggested Flagstaff Road lookout points as convenient local alternative.
+### Recent Decisions (October 27, 2026)
+- **Handyman Service Cancellation for Ethan Domagala** (October 27, 2026): Jack Elston proactively called and canceled Ethan's scheduled handyman appointment (originally planned for morning) so Ethan wouldn't have to miss work. Ethan arrived at office instead following the cancellation.
 
 ## Action Items & Commitments
 
 ### Time-Sensitive (October 28, 2026)
 - **Cory Dixon Welcome Coordination** (October 28, 2026): Cory bringing doughnuts and pastries for three new hires; team to welcome Lynn Regnier, Brandon Messersmit (afternoon arrival), and Bob Edson
 
+### Immediate Search Items (October 27, 2026)
+- **Flux Pens Location**: Jack Elston seeking flux pen location (current inventory status unknown)
+
 ### Time-Off Notices
-- **Ali Sulehria Early Departure** (October 26, 2026): Heading home around 3pm
-- **Ethan Domagala Late Arrival** (October 27, 2026): House winterization appointment in morning; arriving closer to 9:45-10am
+- **Sam Hild Early Departure** (October 27, 2026): Leaving around 3pm; unable to reschedule normal PT time
+- **Robert Edson Early Departure** (October 27, 2026): Leaving around 2:30pm due to home issues (first week as new Principal UAS Technician)
 
 ### Ongoing
 - **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
@@ -60,16 +65,18 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **KrateoSky**: Partnership and integration meetings ongoing; multi-location milestone celebration event held June 18-19, 2026
 - **DoD Customers**: SOCOM and 53rd Weather Squadron engaged for S0-AD demonstrations and mission requirements definition
 - **Camp Pendleton**: S0 demonstration scheduled requiring Part 107 pilot documentation
-- **Royal Navy**: Simon and Royal Navy delegation visiting Boulder area; requiring scenic mountain drive coordination with preference to avoid RMNP and high-cost attractions
+- **Royal Navy**: Simon and Royal Navy delegation visiting Boulder area; scenic mountain drive coordination planned (late October 2026)
 - **Chad Atwood**: External contact providing healthcare provider feedback request
 - **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
+- **Eldora Ski Resort**: Providing 4-pass ski tickets to BST team members
 
 ## Recurring Topics & Themes
 - **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics
 - **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026)
-- **Office Management**: Facility maintenance, cleanliness standards, HVAC/lock issues requiring team awareness
+- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens, Spindrift boxes)
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, and time-off planning
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning
+- **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, leadership supporting work-life balance
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -77,13 +84,16 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Google Drive**: Primary document storage with security protocols for sensitive data
 - **Hotel Boulderado**: Venue for KrateoSky milestone event (with alternative nearby hotels for overflow)
 - **Flagstaff Road Lookout Points**: Maps link shared by Alex Lomis for scenic Boulder-area viewing <https://maps.app.goo.gl/ZAbkF1Mh6Cu5f8sG6>
+- **Eldora Mountain Resort**: Team ski pass availability through company
 
 ## Recent Activity
 
-### October 26, 2026
-- **Lynn Regnier Introduction**: New Controller (starting October 28) formally introduced herself to team with greeting
-- **Royal Navy Visit Logistics**: Maciej coordinating scenic mountain drive for Simon and Royal Navy delegation. Initial plan (Brainard Lake) blocked by road closure. Team brainstorming alternatives:
-  - Beck Cotter: Rollins Pass/Moffat Tunnel or Estes Park drive
-  - Alex Lomis: Flagstaff Road lookout points (closest to Boulder)
-  - Constraint: Avoid RMNP due to $100 foreigner fee
-- **Schedule Updates**: Ali Sulehria heading home early (~3pm); Ethan Domagala arriving late (9:45-10am) due to house winterization appointment
+### October 27, 2026
+- **Handyman Service Cancellation**: Jack Elston called to cancel Ethan Domagala's scheduled handyman appointment so he could come in to work instead; Ethan confirmed arrival at office
+- **Team Schedule Updates**: 
+  - Sam Hild leaving ~3pm (PT scheduling conflict)
+  - Robert Edson (new Principal UAS Technician) leaving ~2:30pm (home issues)
+- **Office Supplies/Inventory**:
+  - Maciej reported consuming last Spindrift box from fridge; Jack Elston confirmed doubled order quantity to address high consumption
+  - Jack Elston searching for flux pen inventory
+- **Team Perks**: Jack Elston confirmed distribution of Eldora 4-pass ski tickets to team members who requested them

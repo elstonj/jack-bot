@@ -1,51 +1,59 @@
 # Ali Sulehria — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 7 (1 previous + 6 new)
-- **Date range:** 24 Oct – 26 Oct 2026
-- **Activity pattern:** Low volume; concentrated on 26 Oct (5 of 6 new messages)
+- **Total messages scanned:** 19 (7 previous + 12 new)
+- **Date range:** 24 Oct – 27 Oct 2026
+- **Activity pattern:** Concentrated activity on 26–27 Oct; spike on 27 Oct (11 of 12 new messages) indicates active project engagement
 
 ## Key Correspondents
 
 **Internal (BST):**
-- **Top senders:** Spencer Hoehl (2 calendar invites)
+- **Top senders:** Spencer Hoehl (2 calendar invites), Sam Hild (active collaborator on PSNS timeline thread)
 - **Frequent collaborators:** Jack Elston, Cory Dixon, Maciej Stachura, Sam Hild, Joshua Fromm, Ethan Domagala, Alex Lomis, Daniel Prendergast
 - **Group email pattern:** Included in large flight test planning group (9+ participants)
 
 **External:**
-- Frank Strazzabosco (microfirm@earthlink.net) — 2 direct emails to Ali
-- Jeff Catherwood (jcatherwood@microhardcorp.com) — indirect contact via Frank (not directly to Ali)
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **Primary contact; direct 1:1 correspondence** on PSNS v0.5 rework timeline (5 direct exchanges on 27 Oct)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — Hardware/core development contact; now also appears on PSNS v0.5 thread (indirectly; not directly to Ali but in same thread chain)
+- **Waveform Engineering** — External partner organization (Matt Crabtree's employer)
 
 **Automated:**
-- Asana notifications (no-reply@asana.com)
+- GitLab (gitlab@mg.gitlab.com) — Jack Elston inviting Ali to GitLab project (27 Oct)
+- Asana notifications (previous data)
 
 ## Topic Patterns
 
-**Primary focus:**
-- **Flight test planning** — Two meeting invites from Spencer Hoehl (Oct 26 3:30pm and Oct 27 2pm)
-- **Hardware/core development:** References to "Core2 v0.4" and "core 29b" updates from Frank Strazzabosco
-- **Technical specs:** "Radio grounded pins" mentioned in subject lines
+**Primary focus (updated):**
+- **PSNS v0.5 Rework Timeline** — Dominant thread on 27 Oct; Ali directly engaged with Matt Crabtree in rapid back-and-forth (at least 2 sent + 4 received exchanges)
+- **Flight test planning** — Two meeting invites from Spencer Hoehl (Oct 26–27)
+- **Hardware/core development:** Core2 v0.4, core 29b (previous data); now PSNS v0.5 emerges as active development target
 
 **Projects/Components visible:**
-- Core2 v0.4 (hardware variant with radio grounded pins)
-- Core 29b (related hardware component)
+- PSNS v0.5 (new primary focus; appears to be rework/timeline-critical)
+- Core2 v0.4 (radio grounded pins)
+- Core 29b
 
 ## Communication Patterns
 
-- **Timing:** All new activity on Mon, 26 Oct; emails clustered 09:44–21:33 UTC
-- **Meeting invitations:** Two "Flight test planning" meetings added/updated on same day (suggests rescheduling or group coordination)
+- **Timing:** Intense activity on 27 Oct 11:16–17:58 UTC (7-hour window); suggests urgent coordination
+- **Direct engagement:** Ali is now **primary correspondent** with Matt Crabtree on PSNS v0.5, not just stakeholder-level cc'd party
+- **Meeting invitations:** Two "Flight test planning" meetings (Oct 26–27)
 - **Priority marking:** All recent emails marked [IMPORTANT, INBOX]
-- **External communication:** Frank Strazzabosco serves as intermediary/supplier; appears to be coordinating hardware specs with Jack Elston and Sam Hild as well
+- **GitLab onboarding:** Jack Elston adding Ali to GitLab (27 Oct 20:34) — suggests code/technical collaboration expanding
+- **External coordination:** Matt Crabtree (Waveform Engineering) driving timeline discussions with Ali, Sam Hild, Frank Strazzabosco
 
 ## Key Relationships
 
-- **Spencer Hoehl** — Internal organizer of flight test planning meetings; coordinates cross-functional team
-- **Frank Strazzabosco** — External hardware/core development contact; sends technical updates
-- **Jack Elston & Sam Hild** — Co-recipients on technical updates from Frank; appear to be core team members on same initiative
+- **Matt Crabtree (Waveform Engineering)** — **NEW PRIMARY EXTERNAL CONTACT**; direct 1:1 technical/timeline coordination on PSNS v0.5
+- **Spencer Hoehl** — Internal organizer of flight test planning meetings
+- **Sam Hild** — Co-recipient on PSNS thread; appears to be peer collaborator on same project workstream
+- **Jack Elston** — Inviting Ali to GitLab; likely technical collaboration/code review
+- **Frank Strazzabosco** — Hardware supplier; looped into PSNS v0.5 rework discussion alongside Matt Crabtree and Sam Hild
 
 ## Notable Observations
 
-- Ali has minimal email volume (7 total messages over ~3 days), suggesting either new team member, recently added to communication chain, or focused role with limited email dependency
-- All recent emails marked IMPORTANT; could indicate urgent project phase or email flagging practice
-- Frank Strazzabosco's emails bypass Ali directly but loop her in alongside Jack Elston and Sam Hild — suggests Ali is stakeholder on hardware updates rather than primary decision-maker
-- Large flight test planning group (9+ attendees) indicates cross-functional collaboration on significant initiative
+- **Shift in email pattern:** Ali moved from low-volume stakeholder to **active correspondent** on 27 Oct; direct dialogue with external partner (Matt Crabtree) suggests higher responsibility on PSNS v0.5 effort
+- **Multi-party timeline negotiation:** PSNS v0.5 thread includes Matt Crabtree, Sam Hild, Frank Strazzabosco, and Ali — indicates cross-organization coordination on critical hardware/software component
+- **GitLab access grant:** Timing coincides with PSNS v0.5 intensity; suggests Ali may be taking on development/review responsibility alongside timeline coordination
+- **Three-organization involvement:** BST (Ali, Sam), Waveform Engineering (Matt), external hardware supplier (Frank) — indicates PSNS v0.5 is cross-vendor dependency
+- **Rapid turnaround:** Multiple exchanges with Matt Crabtree within same morning/afternoon window (11:16–17:58 UTC) suggests time-sensitive decision-making

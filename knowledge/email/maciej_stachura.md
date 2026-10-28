@@ -1,81 +1,97 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 10 emails (2 from existing knowledge + 8 new)
-- **Date range:** 25 Oct – 27 Oct 2026
-- **Approximate volume:** ~3–4 emails per day (small sample period)
+- **Total messages scanned:** 29 emails (10 existing + 19 new)
+- **Date range:** 25 Oct – 28 Oct 2026
+- **Approximate volume:** ~7–8 emails per day (small sample period, but notably increased activity on 27 Oct with 15 messages)
 
 ## Key Correspondents
 
 ### Top Senders (to Maciej)
-1. **Rippling** (no-reply@rippling.com) — 2 automated messages (document signing notifications)
-2. **Ievgen Lavrishko** (i.lavrishko@thegis-point.com) — GPS-denied navigation inquiry
-3. **Brian M Argrow** (Brian.Argrow@colorado.edu) — Vantor IR data discussion
-4. **Alice Treacy** (alice@eudroneport.com) — European certification topic
+1. **Russ Vanderwerff** (Russ.Vanderwerff@aerostar.com) — 4 messages, all IMPORTANT; Aerostar/Black Swift synergy discussions
+2. **Jack Elston** (elstonj@blackswifttech.com) — 6 messages, internal leadership routing strategic matters (Aerostar, NOAA collaboration, S0 Carrier program)
+3. **Eric W Frew** (eric.frew@colorado.edu) — 2 messages, collaboration opportunity (IMPORTANT)
+4. **Joe Cione** (joe.cione@noaa.gov) — Aerostar/Black Swift synergies discussion
+5. **Brian M Argrow** (Brian.Argrow@colorado.edu) — Continues from previous sample
+6. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — ChatGPT workflow proposal (IMPORTANT, UNREAD)
 
 ### Top Recipients (from Maciej)
-1. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — UK Ministry of Defence contact
-2. **Brian M Argrow** (Brian.Argrow@colorado.edu) — Academic/technical collaboration
-3. **Andy Dietrick** (andy@aleutianaerial.com) — Nepal mapping project
+1. **Russ Vanderwerff** (Russ.Vanderwerff@aerostar.com) — Direct engagement on partnership discussions
+2. **Eric W Frew** (eric.frew@colorado.edu) — Collaboration opportunity response
+3. **Jack Elston** (elstonj@blackswifttech.com) — Internal escalation/coordination
 
 ### Internal vs External
-- **External:** ~70% (academic, government, vendor, partner organizations)
-- **Internal:** ~20% (routed through Jack Elston to Aerostar partnership discussion)
-- **Automated:** ~10% (Rippling HR/admin)
+- **External:** ~45% (Aerostar, NOAA, University of Colorado, vendors)
+- **Internal:** ~35% (Jack Elston, Brandon Messersmith, Daniel Prendergast, others at BST)
+- **Automated/System:** ~20% (Google Calendar, BST Website form, Luxonis marketing, Google Docs comments, Rippling)
 
 ### Key External Organizations
-- **The GIS Point** (Ievgen Lavrishko) — GPS-denied navigation tech
-- **UAV LAS** (Yury Kapacheuski) — Precision landing/fixed-wing recovery systems
-- **Aerostar** (Russ Vanderwerff) — Potential strategic partnership
-- **University of Colorado** (Brian M Argrow) — Academic/research collaboration
-- **EU Drone Port** (Alice Treacy) — European regulatory/certification
-- **Aleutian Aerial** (Andy Dietrick) — Field operations partner
+- **Aerostar** (Russ Vanderwerff, Kenneth O. Klinner, Dirk Ruge, Kyle Doverspike) — **Now actively engaged in formal partnership discussions**
+- **NOAA** (Joe Cione) — Federal weather/atmospheric research agency, involved in Aerostar kickoff
+- **University of Colorado** (Eric W Frew, Brian M Argrow) — Expanding academic collaboration
+- **Krateo Sky** (Bob Smith, Lisa Marie Cheney, Brian Grubel) — Facility clearance/DD254 discussions
+- **US Navy** (austin.l.vorwald.mil@us.navy.mil) — VPU2 introduction thread
+- **Luxonis** — Computer vision hardware vendor (OAK 4 FFC camera system)
+- **The GIS Point, UAV LAS, EU Drone Port** — Continued from previous period
 
 ## Topic Patterns
 
 ### Recurring Themes
-- **UAV/Drone Systems & Operations:** S0-ISR, E2 inspections, fixed-wing recovery, precision landing
-- **Black Swift Product Lines:** S2, E2, S0 platforms mentioned explicitly
-- **Geographic/Remote Sensing:** Nepal mapping, IR data collection (Vantor), GPS-denied navigation
-- **Regulatory/Certification:** European certification pathway
-- **Technical Integration:** Precision landing systems, recovery mechanisms, navigation solutions
+- **Aerostar Partnership:** Major escalation — now includes formal kickoff, NOAA involvement, and multi-stakeholder discussion
+- **S0 Carrier (WP-BST-006):** NOAA review/responses, facility coordination with Krateo Sky
+- **NOAA Research Integration:** Direct collaboration on atmospheric/weather data collection
+- **University Collaboration:** Expanded scope with Eric W Frew and Brian M Argrow
+- **Sensor Systems:** FLIR Hadron thermal imaging, OAK 4 FFC computer vision integration, Google Docs system architecture discussion
+- **Facility/Compliance:** DD254 (Defense Counterintelligence and Security Agency) clearances, facility readiness
 
 ### Visible Project/Product References
-- **S0-ISR** — Likely intelligence/surveillance/reconnaissance variant
-- **E2** — Inspection-focused platform
-- **S2, S0** — Other Black Swift system variants
-- **Vantor** — IR sensor/data collection system
-- **Nepal mapping** — Active geographic survey project
+- **S0 Carrier** (WP-BST-006) — Active NOAA review cycle
+- **S0-ISR, E2, S2** — Continued references from previous period
+- **VPU2** — Military/Navy integration (likely Vision Processing Unit variant)
+- **Vantor, FLIR Hadron** — Thermal sensor options being evaluated
+- **OAK 4 FFC** — Latest computer vision camera system under consideration
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Morning activity:** Concentration of messages 08:00–09:30 UTC/local time
-- **Evening/weekend:** Reply on Sun 25 Oct 20:36 (outside standard hours)
-- **No strong daily pattern visible** in limited 3-day window
+- **Dense activity 27 Oct:** 15 messages in single day, concentrated 11:00–23:00 UTC (suggesting coordinated meeting/decision point)
+- **Morning initiative:** Multiple messages sent 11:00–13:00 local time
+- **Evening follow-up:** Aerostar responses arriving 19:00–23:00 UTC (likely business hours coordination across time zones)
+- **Marked IMPORTANT trend:** 14 of 19 new messages marked IMPORTANT (73%) — significantly higher than baseline
 
 ### Mailing Lists / Automated
-- **Rippling** — HR/document management system notifications (2 identical messages, likely system duplicate)
-- No evidence of newsletter subscriptions in current scan
+- **Google Calendar:** Flight test planning meeting scheduled 27 Oct 14:00 MDT
+- **Google Docs:** Real-time collaboration on system architecture document (thermal sensor debate)
+- **Luxonis marketing:** Newsletter/product announcement (OAK 4 FFC) — appears as promotional, not work-critical
+- **BST Website form:** Auto-routed to sales/info distribution (Maciej not direct recipient)
 
 ## Key Relationships
 
 ### Closest Collaborators
-1. **Brian M Argrow** (University of Colorado) — Active technical discussion, marked IMPORTANT
-2. **Simon Laurence** (UK MOD) — Government liaison, direct correspondence on S0-ISR updates
-3. **Andy Dietrick** (Aleutian Aerial) — Field partner on Nepal mapping operations
-4. **Ievgen Lavrishko** (The GIS Point) — Vendor/technology partner (GPS-denied solutions)
+1. **Jack Elston** (BST Leadership) — Strategic coordinator; routes major partnerships and NOAA integration
+2. **Russ Vanderwerff** (Aerostar) — Now active direct engagement; appears to be primary partnership contact
+3. **Eric W Frew** (University of Colorado) — Collaboration opportunity expansion; IMPORTANT flagged
+4. **Brian M Argrow** (University of Colorado) — Continued academic/sensor research partnership
+5. **Joe Cione** (NOAA Federal) — Weather/atmospheric research integration point
 
 ### Strategic External Relationships
-- **Aerostar** (Russ Vanderwerff) — Marked IMPORTANT; appears to be partnership exploration
-- **Alice Treacy** (EU Drone Port) — Regulatory pathway contact for European markets
-- **Yury Kapacheuski** (UAV LAS) — Technology provider for precision landing/recovery systems
+- **Aerostar (Kenneth O. Klinner, Dirk Ruge, Kyle Doverspike)** — **CRITICAL:** Formal partnership kickoff underway; multi-stakeholder engagement model suggests acquisition, joint venture, or major system integration
+- **NOAA (Joe Cione)** — Federal customer/research partner; now at partnership discussion table (unusual inclusion suggests operational significance)
+- **University of Colorado (Eric W Frew + Brian M Argrow)** — Deepening collaboration; both in active correspondence
+- **Krateo Sky (Bob Smith, Lisa Marie Cheney)** — Operations/facility partner; facility clearance discussions active
+
+### Internal Key Contacts
+- **Daniel Prendergast** (BST) — System architecture lead; Google Docs collaboration on thermal sensor selection
+- **Brandon Messersmith** (BST) — ChatGPT workflow proposal (AI/automation integration initiative)
+- **Joshua Fromm, Cory Dixon** (BST) — S0 Carrier support team
 
 ## Notable Observations
 
-- **UK Government engagement:** Direct correspondence with Ministry of Defence on S0-ISR suggests active government program
-- **European expansion:** Pursuing EU certification indicates market expansion effort
-- **Technology partnerships:** Multiple incoming inquiries from vendors (GPS-denied nav, precision landing) suggest Maciej may evaluate/integrate third-party systems
-- **Academic collaboration:** Active engagement with University of Colorado on sensor/data work (IR)
-- **Aerostar synergy discussion:** Routed through Jack Elston (appears to be leadership); marked IMPORTANT suggests potential acquisition, partnership, or significant deal
-- **Nepal operations:** Ongoing geographic survey work with established aerial partner
+- **Aerostar engagement acceleration:** Thread moved from exploratory (previous 10-message sample) to formal kickoff with Russ Vanderwerff, Kenneth O. Klinner, Dirk Ruge, Kyle Doverspike, and **NOAA participation**. Suggests deal/partnership is now active/imminent.
+- **NOAA presence is notable:** Joe Cione's inclusion in Aerostar kickoff is unusual; indicates either Black Swift product being integrated into NOAA ops, or joint development agreement.
+- **S0 Carrier maturation:** NOAA review cycle active; facility/compliance work accelerating with Krateo Sky DD254/clearance discussions.
+- **Multi-vendor sensor evaluation:** Active debate visible in Google Docs between FLIR Hadron and OAK 4 FFC systems — suggests design decision pending on thermal/vision capabilities.
+- **Military/Navy interest:** VPU2 introduction thread suggests DoD component integration or qualification effort.
+- **AI/Workflow automation:** Brandon Messersmith's ChatGPT proposal (IMPORTANT, UNREAD) suggests internal initiatives on operational efficiency.
+- **27 Oct spike:** All IMPORTANT flags and dense coordination on this date suggests board-level decision, partnership approval, or customer milestone.
+- **Maciej as technical decision-maker:** Position visible in Aerostar kickoff participant list and sensor selection debate; appears to hold technical authority on system architecture.
