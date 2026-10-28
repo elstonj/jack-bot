@@ -113,7 +113,7 @@ def _fetch_message_ids(service, query, max_results):
         if page_token:
             kwargs["pageToken"] = page_token
 
-        result = service.users().messages().list(**kwargs).execute()
+        result = service.users().messages().list(**kwargs).execute(num_retries=5)
         messages = result.get("messages", [])
         all_ids.extend(msg["id"] for msg in messages)
 
@@ -136,7 +136,7 @@ def _fetch_message_metadata(service, msg_id):
             id=msg_id,
             format="metadata",
             metadataHeaders=METADATA_HEADERS,
-        ).execute()
+        ).execute(num_retries=5)
 
         headers = {
             h["name"]: h["value"]

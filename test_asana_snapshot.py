@@ -160,7 +160,7 @@ def test_truncated_output_not_written():
         got = base.distill_to_markdown("raw", "sys", path, max_tokens=100)
         check("returns None", got, None)
         check("existing file kept", path.read_text(), "good")
-        check("retried with double budget", calls, [100, 200])
+        check("retried with larger budgets", calls, [100, 200, 400])
 
 
 if __name__ == "__main__":

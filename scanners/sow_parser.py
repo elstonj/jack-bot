@@ -88,7 +88,7 @@ def _cached_file_list(service, drive_id: str, user_email: str) -> list[dict]:
         }
         if page_token:
             params["pageToken"] = page_token
-        result = service.files().list(**params).execute()
+        result = service.files().list(**params).execute(num_retries=5)
         files.extend(result.get("files", []))
         page_token = result.get("nextPageToken")
         if not page_token:

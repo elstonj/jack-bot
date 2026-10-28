@@ -97,7 +97,7 @@ def _list_message_ids(service, query: str, max_results: int) -> list[str]:
             kwargs["q"] = query
         if page_token:
             kwargs["pageToken"] = page_token
-        resp = service.users().messages().list(**kwargs).execute()
+        resp = service.users().messages().list(**kwargs).execute(num_retries=5)
         for m in resp.get("messages", []) or []:
             ids.append(m["id"])
         page_token = resp.get("nextPageToken")
@@ -148,7 +148,7 @@ def _fetch_message(service, msg_id: str) -> Optional[dict]:
     try:
         msg = service.users().messages().get(
             userId="me", id=msg_id, format="full"
-        ).execute()
+        ).execute(num_retries=5)
     except Exception:
         return None
     headers = {h["name"].lower(): h["value"]

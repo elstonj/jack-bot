@@ -380,7 +380,7 @@ def _fetch_pdf_bytes(service, msg_id: str, attachment_id: str) -> Optional[bytes
     try:
         att = service.users().messages().attachments().get(
             userId="me", messageId=msg_id, id=attachment_id,
-        ).execute()
+        ).execute(num_retries=5)
     except Exception as e:
         print(f"  [WARN] PDF fetch failed for msg {msg_id}: {e}")
         return None
@@ -469,7 +469,7 @@ def _fetch_admin_query_emails(query: str, mailbox_label: str, cap: int) -> list[
         if page_token:
             kwargs["pageToken"] = page_token
         try:
-            resp = service.users().messages().list(**kwargs).execute()
+            resp = service.users().messages().list(**kwargs).execute(num_retries=5)
         except Exception as e:
             print(f"  [WARN] Gmail list failed for {mailbox_label}: {e}")
             break
@@ -484,7 +484,7 @@ def _fetch_admin_query_emails(query: str, mailbox_label: str, cap: int) -> list[
         try:
             msg = service.users().messages().get(
                 userId="me", id=mid, format="full"
-            ).execute()
+            ).execute(num_retries=5)
         except Exception:
             continue
         payload = msg.get("payload") or {}

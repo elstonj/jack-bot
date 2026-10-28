@@ -79,8 +79,8 @@ def distill_to_markdown(raw_text, system_prompt, output_path, max_tokens=2000,
     complete snapshot: merging a snapshot into a stale file only preserves
     stale facts.
 
-    Output cut off at max_tokens is retried once with double the budget and
-    otherwise never written. A truncated file would be fed back as EXISTING on
+    Output cut off at max_tokens is retried at double and quadruple the budget
+    and otherwise never written. A truncated file would be fed back as EXISTING on
     the next run and lose more each time.
     """
     client = get_claude_client()
@@ -102,7 +102,7 @@ def distill_to_markdown(raw_text, system_prompt, output_path, max_tokens=2000,
     if len(user_content) > max_chars:
         user_content = user_content[:max_chars] + "\n\n[TRUNCATED — data was too large]"
 
-    for budget in (max_tokens, max_tokens * 2):
+    for budget in (max_tokens, max_tokens * 2, max_tokens * 4):
         # Retry with backoff for rate limits
         for attempt in range(5):
             try:

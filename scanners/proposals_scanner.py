@@ -100,7 +100,7 @@ def _get_shared_drive_ids(service):
     target_names = [n.strip().lower() for n in target_drives.split(",")]
     drive_ids = []
     try:
-        results = service.drives().list(pageSize=50).execute()
+        results = service.drives().list(pageSize=50).execute(num_retries=5)
         for drive in results.get("drives", []):
             if drive["name"].lower() in target_names:
                 drive_ids.append({"id": drive["id"], "name": drive["name"]})
@@ -151,7 +151,7 @@ def _list_candidate_files(service, drive_id, time_filter=None):
         if page_token:
             params["pageToken"] = page_token
 
-        result = service.files().list(**params).execute()
+        result = service.files().list(**params).execute(num_retries=5)
         all_files.extend(result.get("files", []))
 
         page_token = result.get("nextPageToken")
@@ -190,7 +190,7 @@ def _fetch_folder_map(service, drive_id):
         if page_token:
             params["pageToken"] = page_token
 
-        result = service.files().list(**params).execute()
+        result = service.files().list(**params).execute(num_retries=5)
         for folder in result.get("files", []):
             folder_map[folder["id"]] = {
                 "name": folder["name"],
@@ -222,7 +222,7 @@ def _resolve_parent_path(file_dict, folder_map, max_depth=10):
 def _extract_google_doc(service, file_id):
     """Export a Google Doc as plain text."""
     try:
-        content = service.files().export(fileId=file_id, mimeType="text/plain").execute()
+        content = service.files().export(fileId=file_id, mimeType="text/plain").execute(num_retries=5)
         text = content.decode("utf-8") if isinstance(content, bytes) else str(content)
         return text[:MAX_DOC_CHARS]
     except Exception as e:
@@ -233,7 +233,7 @@ def _extract_google_doc(service, file_id):
 def _extract_google_slides(service, file_id):
     """Export Google Slides as plain text."""
     try:
-        content = service.files().export(fileId=file_id, mimeType="text/plain").execute()
+        content = service.files().export(fileId=file_id, mimeType="text/plain").execute(num_retries=5)
         text = content.decode("utf-8") if isinstance(content, bytes) else str(content)
         return text[:MAX_DOC_CHARS]
     except Exception as e:
@@ -244,7 +244,7 @@ def _extract_google_slides(service, file_id):
 def _download_file_bytes(service, file_id):
     """Download a binary file from Drive."""
     try:
-        content = service.files().get_media(fileId=file_id).execute()
+        content = service.files().get_media(fileId=file_id).execute(num_retries=5)
         return content
     except Exception as e:
         print(f"    [WARN] Could not download file {file_id}: {e}")

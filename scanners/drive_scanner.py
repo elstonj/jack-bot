@@ -80,7 +80,7 @@ def _get_shared_drive_ids(service):
     target_names = [n.strip().lower() for n in target_drives.split(",")]
     drive_ids = []
     try:
-        results = service.drives().list(pageSize=50).execute()
+        results = service.drives().list(pageSize=50).execute(num_retries=5)
         for drive in results.get("drives", []):
             if drive["name"].lower() in target_names:
                 drive_ids.append({"id": drive["id"], "name": drive["name"]})
@@ -122,7 +122,7 @@ def _list_all_files(service, drive_id, time_filter=None):
         if page_token:
             params["pageToken"] = page_token
 
-        result = service.files().list(**params).execute()
+        result = service.files().list(**params).execute(num_retries=5)
         all_files.extend(result.get("files", []))
 
         page_token = result.get("nextPageToken")
@@ -142,7 +142,7 @@ def _export_content_snippet(service, file_id, mime_type, max_chars=500):
     if not export_mime:
         return None
     try:
-        content = service.files().export(fileId=file_id, mimeType=export_mime).execute()
+        content = service.files().export(fileId=file_id, mimeType=export_mime).execute(num_retries=5)
         text = content.decode("utf-8") if isinstance(content, bytes) else str(content)
         return text[:max_chars]
     except Exception:

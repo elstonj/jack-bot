@@ -104,7 +104,7 @@ def fetch_directory_contacts(delegate_email):
         if page_token:
             kwargs["pageToken"] = page_token
 
-        results = service.people().listDirectoryPeople(**kwargs).execute()
+        results = service.people().listDirectoryPeople(**kwargs).execute(num_retries=5)
 
         for person in results.get("people", []):
             parsed = _parse_person(person)
@@ -142,7 +142,7 @@ def fetch_external_contacts(delegate_email):
         if page_token:
             kwargs["pageToken"] = page_token
 
-        results = service.otherContacts().list(**kwargs).execute()
+        results = service.otherContacts().list(**kwargs).execute(num_retries=5)
 
         for person in results.get("otherContacts", []):
             parsed = _parse_person(person)

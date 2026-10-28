@@ -25,8 +25,10 @@ if [ -f "$UPLOADED" ] && cmp -s "$EXPORT_DIR/.digest" "$UPLOADED"; then
 fi
 
 # Prompt goes on stdin: --add-dir is variadic and would swallow a positional.
+# The nightly job exports .env, whose ANTHROPIC_API_KEY would take precedence
+# over the claude.ai login and leave the session without Claude in Chrome.
 OUTPUT="$(sed "s#EXPORT_DIR#$EXPORT_DIR#g" scripts/claude_project_sync_prompt.md \
-    | "$CLAUDE_BIN" -p --chrome \
+    | env -u ANTHROPIC_API_KEY -u ANTHROPIC_AUTH_TOKEN "$CLAUDE_BIN" -p --chrome \
         --allowedTools "mcp__claude-in-chrome__*" \
         --add-dir "$EXPORT_DIR" 2>&1)" || true
 echo "$OUTPUT"
