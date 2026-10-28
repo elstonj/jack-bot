@@ -17,7 +17,7 @@ UPLOADED="$PROJECT_DIR/export/.uploaded_digest"
 CLAUDE_BIN="${CLAUDE_BIN:-$HOME/.local/bin/claude}"
 
 cd "$PROJECT_DIR"
-python scripts/export_claude_project.py
+"$PROJECT_DIR/venv/bin/python" scripts/export_claude_project.py
 
 if [ -f "$UPLOADED" ] && cmp -s "$EXPORT_DIR/.digest" "$UPLOADED"; then
     echo "Claude project export unchanged; skipping upload."
