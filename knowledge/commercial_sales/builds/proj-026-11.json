@@ -1,0 +1,46 @@
+{
+  "asana_gid": "proj-026-11",
+  "asana_task_name": "NOAA, NASA Langley [026-11]",
+  "customer": "NASA Langley / NOAA",
+  "customer_contact": "Chris Meek (NASA Langley)",
+  "customer_email": "christopher.b.meek@nasa.gov",
+  "receive_by": "2026-11-16",
+  "ship_to": "NASA Langley Research Center\n4 Langley Blvd.\nHampton, VA 23681",
+  "items": [
+    {
+      "description": "S0 UAS systems",
+      "quantity": 1
+    },
+    {
+      "description": "2026 Hurricane NOAA project equipment",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "in_assembly",
+  "ship_state": "none",
+  "estimate_date": "2026-08-07",
+  "invoice_date": "2026-11-16",
+  "invoice_amount": 46143.0,
+  "invoice_number": "1791",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Project 026-11 is an active mixed commercial/government pipeline for S0 and S2 UAS systems to NASA Langley and NOAA. Invoice #1791 for $46,143 issued 2026-11-16 (QBO). NASA Langley S0 systems in assembly stage with critical deadline 2026-11-16. Separate S2 delivery to NASA (likely different order) was completed 2026-10-01 and delivered successfully.",
+  "missing_fields": [
+    "ship_to",
+    "items",
+    "parts",
+    "customer_contact",
+    "paid_date"
+  ],
+  "last_evidence_date": "2026-11-16",
+  "last_contact_date": "2026-10-07"
+}

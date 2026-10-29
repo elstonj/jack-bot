@@ -15,9 +15,9 @@
     "type": "t_and_m",
     "number": null,
     "total_value": 242540.0,
-    "start_date": "2025-07-30",
-    "end_date": "2025-10-14",
-    "payment_cadence": "paid in advance",
+    "start_date": "2026-09-28",
+    "end_date": "2026-09-28",
+    "payment_cadence": "time_and_materials",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -25,60 +25,41 @@
     ]
   },
   "budget": {
-    "approved": 1323.0,
-    "approved_source": "sow_drive",
-    "line_items": [
-      {
-        "category": "Labor",
-        "amount": 1323.0,
-        "description": "T&M Charges for R&D development work from 7/30/25 thru 10/14/25; (9) Hours @ $147/hr (senior engineer)",
-        "source_doc": null
-      }
-    ],
+    "approved": 242540.0,
+    "approved_source": "asana_custom_field",
+    "line_items": [],
     "spent": {
       "labor": {
         "amount": 116731.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "other_qbo": {
         "amount": 30680.95,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "total": 150471.41,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -149148.41,
+    "remaining": 92068.59,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-27T09:17:08Z"
+    "last_reconciled": "2026-10-29T09:44:47Z"
   },
   "milestones": [],
   "deliverables": [],
   "team": [],
   "risks": [],
   "overrides": [
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-08",
-      "text": "From Daniel Prendergast (ts=1791392420.235689): <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  T"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-08",
-      "text": "From Daniel Prendergast (ts=1791392969.469609): <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
-    },
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
@@ -94,16 +75,34 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
+      "date": "2026-10-19",
+      "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392420.235689): <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  T"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-08",
+      "text": "From Daniel Prendergast (ts=1791392969.469609): <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
       "date": "2026-10-20",
       "text": "From Daniel Prendergast (ts=1792429315.356889): <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD"
     },
     {
       "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-19",
-      "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
+      "author": "Maciej",
+      "date": "2026-10-27",
+      "text": "From Maciej: <@U04CZK4K7P0> (and <@U06CCFTNBS6>), wanted to go through a small restructuring on Asana this week to try and hopefully simplify our active R&amp;D projects, provide better visibility, and better tie in with the Kanban board. We'll discuss tomorrow, but at a high level the plan will be:\n\n• *Two-level planning:* Asana tracks long-term milestones and upcoming weekly tasks; our existing physical Kanban board manages weekly engineering execution.\n• *6-month rolling milestone plan:* Each"
     }
   ],
-  "last_full_rebuild": "2026-10-27T09:17:08Z",
+  "last_full_rebuild": "2026-10-29T09:44:47Z",
   "last_incremental_update": null
 }

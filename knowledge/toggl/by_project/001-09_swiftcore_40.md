@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-27: 520.5 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 4.4 h._
+_Computed from Toggl as of 2026-10-29: 521.1 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 5.1 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,26 +6,28 @@ _Computed from Toggl as of 2026-10-27: 520.5 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 520.5 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 521.1 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 475.0 | 91.3% |
+| Ben Busby | 475.0 | 91.1% |
 | Ethan Domagala | 28.8 | 5.5% |
 | Dan | 12.2 | 2.3% |
-| Stachura | 4.4 | 0.8% |
+| Stachura | 5.1 | 1.0% |
 
-**Primary Contributor:** Ben Busby (dominant contributor, representing over 91% of tracked effort)
+**Primary Contributor:** Ben Busby dominates project work with 475 hours.
 
 ## Activity Timeline
-- **Recent work:** 
-  - Ethan Domagala: 6.0 hours (no description provided)
-  - Stachura: 3.9 hours (no description provided)
-- **Work pattern:** Heavily concentrated on Ben Busby's effort; minimal recent activity from other team members
+**Recent Entries:**
+- Ethan Domagala: 6.0h (no description)
+- Stachura: 3.9h (no description)
+- Stachura: 0.6h (no description)
+
+*Note: Recent entries lack descriptions; activity is ongoing but purposes unclear.*
 
 ## Insights
-- **Project concentration:** This is effectively a single-contributor project, with Ben Busby carrying 91% of the workload
-- **Documentation gap:** Recent entries lack descriptions, limiting visibility into current work scope
-- **Team involvement:** Limited cross-team collaboration; appears to be specialized R&D work (IRAD classification suggests internal research and development)
-- **Long-term commitment:** 520+ hours tracked over 4+ years indicates sustained, ongoing development effort
+- **Concentration:** Project heavily dependent on single contributor (Ben Busby at 91% of total effort)
+- **Limited Documentation:** Recent time entries have no descriptions, limiting visibility into current work type
+- **Minimal Secondary Support:** Remaining team members contribute minimally; Ethan Domagala is secondary contact but represents only 5.5% of effort
+- **IRAD Classification:** Non-billable hours suggest internal R&D investment in core platform development

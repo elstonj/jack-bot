@@ -5,15 +5,15 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 391650.89,
+    "expenses": 393680.39,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 256457.61,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 90709.09,
+      "DIRECT COSTS:DC-Direct Material Purchases": 257049.61,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 92146.59,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7059.52,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
@@ -294,6 +294,29 @@
     }
   ],
   "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-10-20",
+      "doc_number": "BST-OCT2026-1",
+      "total": 2029.5,
+      "attributed": 2029.5,
+      "vendor": "Matthew Crabtree",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1437.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "PCB Rework: Power Supply - Distribution PCBs"
+        },
+        {
+          "amount": 592.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Parts Ordering and Materials for Rework"
+        }
+      ]
+    },
     {
       "type": "Bill",
       "date": "2026-10-05",

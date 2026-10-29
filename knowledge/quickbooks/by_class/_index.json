@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
-  "scanned_at": "2026-10-27",
+  "scanned_at": "2026-10-29",
   "projects": [
     {
       "project_code": "001-1",
@@ -115,7 +115,7 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 208675.67,
+      "expenses": 207409.92,
       "invoice_count": 0,
       "bill_count": 31,
       "purchase_count": 262,
@@ -197,14 +197,15 @@
     {
       "project_code": "043-3",
       "revenue": 189523.0,
-      "expenses": 6304.42,
+      "expenses": 6684.17,
       "invoice_count": 3,
-      "bill_count": 0,
+      "bill_count": 1,
       "purchase_count": 29,
       "po_count": 0,
       "payment_count": 2,
       "qbo_class_names": [
-        "[043-3] By Light Halo"
+        "[043-3] By Light Halo",
+        "[043] By Light Professional IT Services LLC:[043-3] By Light Halo"
       ]
     },
     {
@@ -250,9 +251,9 @@
     {
       "project_code": "300-3",
       "revenue": 1008500.0,
-      "expenses": 391650.89,
+      "expenses": 393680.39,
       "invoice_count": 11,
-      "bill_count": 19,
+      "bill_count": 20,
       "purchase_count": 313,
       "po_count": 0,
       "payment_count": 8,
@@ -292,10 +293,10 @@
     {
       "project_code": "451-1",
       "revenue": 0.0,
-      "expenses": 5983.11,
+      "expenses": 7855.61,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 12,
+      "purchase_count": 14,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -304,13 +305,13 @@
     },
     {
       "project_code": "550-1",
-      "revenue": 470621.0,
+      "revenue": 485080.0,
       "expenses": 30680.95,
       "invoice_count": 7,
       "bill_count": 7,
       "purchase_count": 36,
       "po_count": 1,
-      "payment_count": 6,
+      "payment_count": 7,
       "qbo_class_names": [
         "[550-1] Navy SBIR Magnetometer",
         "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
@@ -332,11 +333,11 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3748912.55,
-      "expenses": 4628645.28,
-      "invoice_count": 57,
-      "bill_count": 132,
-      "purchase_count": 2546,
+      "revenue": 3795102.55,
+      "expenses": 4600707.99,
+      "invoice_count": 58,
+      "bill_count": 137,
+      "purchase_count": 2559,
       "po_count": 3,
       "payment_count": 54,
       "qbo_class_names": [
@@ -391,6 +392,7 @@
         "[200] NASA:[200-12] AREN 2025",
         "[200] NASA:[200-14] Autonomy",
         "[211-1] NASA Ames MHP",
+        "[213-1] Langley S0s",
         "[300] NOAA",
         "[304] NOAA UxSOC",
         "[305] NOAA UASD",

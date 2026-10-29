@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), Lynn Regnier (Controller, starting October 28, 2026), Brandon Messersmit (UAS Technician, starting October 28, 2026), and Bob Edson (Principal UAS Technician, starting October 28, 2026).
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), Lynn Regnier (Controller, started October 28, 2026), Brandon Messersmit (UAS Technician, started October 28, 2026), and Bob Edson (Principal UAS Technician, started October 28, 2026).
 
 ## Key Decisions
 
@@ -42,21 +42,22 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   Cory Dixon providing welcome refreshments (doughnuts and pastries); team encouraged to welcome new hires and introduce themselves.
 - **Eldora 4-Pass Distribution** (October 27, 2026): Jack Elston distributed Eldora ski pass 4-pass tickets to team members who requested them.
 - **Spindrift Beverage Supply Increase** (October 27, 2026): Jack Elston doubled the quantity of Spindrift boxes in regular orders to match team consumption; Maciej confirmed fridge was empty after consuming last box.
-
-### Recent Decisions (October 27, 2026)
 - **Handyman Service Cancellation for Ethan Domagala** (October 27, 2026): Jack Elston proactively called and canceled Ethan's scheduled handyman appointment (originally planned for morning) so Ethan wouldn't have to miss work. Ethan arrived at office instead following the cancellation.
+- **AI Assistant Integration - Claude & Gemini** (October 28, 2026): Jack Elston rolled out Claude AI assistant access to entire team with pre-configured BST knowledge base and process documentation. Team members instructed to set up individual connectors (email, calendar, etc.). Gemini recommended as cost-effective alternative within workspace plan. Important restriction: AI tools not permitted for code generation at this time while company develops safety policy around auto-generated code (aircraft safety concern). Jack to share projects, workspaces, and chats as Claude setup expands.
+- **AI Assistant Setup - Brandon Messersmit's "Charlie" Template** (October 28, 2026): Brandon Messersmit demonstrated functional AI assistant workflow ("Charlie") for UAS technician tasks using voice dictation. Team provided step-by-step setup guide for establishing similar personal assistants with connector authorization and voice-to-Slack workflow.
+
+### Recent Decisions (October 28, 2026)
+- **All Hands Meeting** (October 28, 2026): Cory Dixon called all hands meeting on October 28, 2026 (timing suggests coinciding with new hire integration and Claude rollout)
+- **Josh Waldman Early Departure** (October 28, 2026): Josh Waldman advised team he needs to leave around 4pm on October 28, 2026
 
 ## Action Items & Commitments
 
 ### Time-Sensitive (October 28, 2026)
 - **Cory Dixon Welcome Coordination** (October 28, 2026): Cory bringing doughnuts and pastries for three new hires; team to welcome Lynn Regnier, Brandon Messersmit (afternoon arrival), and Bob Edson
+- **Claude/Gemini Setup**: All team members required to accept Claude invite and enable individual connectors (email, calendar, etc.); Gemini usage preferred when applicable to reduce costs
 
-### Immediate Search Items (October 27, 2026)
-- **Flux Pens Location**: Jack Elston seeking flux pen location (current inventory status unknown)
-
-### Time-Off Notices
-- **Sam Hild Early Departure** (October 27, 2026): Leaving around 3pm; unable to reschedule normal PT time
-- **Robert Edson Early Departure** (October 27, 2026): Leaving around 2:30pm due to home issues (first week as new Principal UAS Technician)
+### New Hire Integration (October 28, 2026)
+- **Brandon Messersmit AI Assistant Assistance**: Brandon demonstrated AI assistant ("Charlie") setup for team workflow; team members encouraged to adopt similar approach for personal productivity
 
 ### Ongoing
 - **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
@@ -73,10 +74,11 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 ## Recurring Topics & Themes
 - **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics
 - **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026)
-- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens, Spindrift boxes)
-- **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging
+- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes)
+- **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
 - **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning
 - **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, leadership supporting work-life balance
+- **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference; safety policies around code generation
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -85,15 +87,19 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Hotel Boulderado**: Venue for KrateoSky milestone event (with alternative nearby hotels for overflow)
 - **Flagstaff Road Lookout Points**: Maps link shared by Alex Lomis for scenic Boulder-area viewing <https://maps.app.goo.gl/ZAbkF1Mh6Cu5f8sG6>
 - **Eldora Mountain Resort**: Team ski pass availability through company
+- **Claude AI Academy**: Resources for Claude setup and best practices <https://academy.claude.com/?utm_source=claude_ai&utm_medium=admin_settings&utm_content=home>
+- **Claude AI Assistant (Personal)**: Pre-configured with BST knowledge, process documentation, and approved connectors (email, calendar, Slack, Google Drive); team to enable individual connectors per preferences
+- **Gemini**: Cost-included alternative within workspace plan for general AI queries; recommended to reduce Claude API expenses
 
 ## Recent Activity
 
-### October 27, 2026
-- **Handyman Service Cancellation**: Jack Elston called to cancel Ethan Domagala's scheduled handyman appointment so he could come in to work instead; Ethan confirmed arrival at office
-- **Team Schedule Updates**: 
-  - Sam Hild leaving ~3pm (PT scheduling conflict)
-  - Robert Edson (new Principal UAS Technician) leaving ~2:30pm (home issues)
-- **Office Supplies/Inventory**:
-  - Maciej reported consuming last Spindrift box from fridge; Jack Elston confirmed doubled order quantity to address high consumption
-  - Jack Elston searching for flux pen inventory
-- **Team Perks**: Jack Elston confirmed distribution of Eldora 4-pass ski tickets to team members who requested them
+### October 28, 2026
+- **All Hands Meeting**: Cory Dixon convened all hands meeting on October 28, 2026
+- **New Hire Integration**: Lynn Regnier (Controller), Brandon Messersmit (UAS Technician - afternoon arrival), and Bob Edson (Principal UAS Technician) started; Cory Dixon provided welcome refreshments
+- **Jack Elston's Claude AI Rollout** (15:55-15:58): Announced Claude AI assistant access with pre-configured BST knowledge, process documentation, and individual connector setup. Emphasized cost management via Gemini preference and strict code generation restrictions for aircraft safety. Academy resources provided for team onboarding.
+- **Brandon Messersmit AI Assistant Demonstration** (15:58-16:58): Brandon demonstrated functional "Charlie" AI assistant template using voice dictation workflow. Provided step-by-step setup guide for team: Claude invite acceptance, connector authorization, voice dictation setup, Slack integration, and assistant attribution. Message cut off mid-explanation with hint of additional setup instructions.
+- **Team Schedule Updates**:
+  - Josh Waldman leaving around 4pm (October 28)
+  - Sam Hild leaving around 3pm (October 27 - PT scheduling conflict)
+  - Robert Edson (new Principal UAS Technician) leaving around 2:30pm (October 27 - home issues)
+- **Flux Pen Location Discovery**: Sam Hild revealed flux pens are stored under the stairs (resolving Jack Elston's October 27 search)

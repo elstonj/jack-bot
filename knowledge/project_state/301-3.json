@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": null,
+    "number": "1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -30,20 +30,62 @@
     "line_items": [
       {
         "category": "Labor",
-        "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): laser configuration, AirOps updates, dual GPS, 10Hz met data, firmware customization, battery endurance, manufacturability, data buffering",
+        "amount": 4000.0,
+        "description": "Updating the laser configuration for optimal operation in rain",
         "source_doc": null
       },
       {
-        "category": "Materials",
-        "amount": 1700.0,
-        "description": "Materials for dual GPS ($1,000), extended endurance ($200), manufacturability ($500)",
+        "category": "Labor",
+        "amount": 2000.0,
+        "description": "Add a few fields to AirOps for SA (laser altitude, radio signal quality, time since last UAS comms)",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 28000.0,
+        "description": "Dual GPS for heading with moving baseline RTK",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 4000.0,
+        "description": "10Hz met data",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 32000.0,
+        "description": "Customization of firmware, comms and UI for operational status",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 12000.0,
+        "description": "Extended endurance through battery tweaks",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 18000.0,
+        "description": "Manufacturability improvements to reduce cost and increase reliability",
+        "source_doc": null
+      },
+      {
+        "category": "Labor",
+        "amount": 11481.0,
+        "description": "Data buffering and re-transmission for any lost comms",
         "source_doc": null
       },
       {
         "category": "Travel",
-        "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
+        "amount": 4852.0,
+        "description": "Clear Air Testing 2025",
+        "source_doc": null
+      },
+      {
+        "category": "Travel",
+        "amount": 16000.0,
+        "description": "Hurricane Flights 2025",
         "source_doc": null
       }
     ],
@@ -52,19 +94,19 @@
         "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "other_qbo": {
         "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "total": 969392.07,
       "by_line_item": {}
@@ -72,7 +114,7 @@
     "committed": 0.0,
     "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-27T09:16:45Z"
+    "last_reconciled": "2026-10-29T09:44:22Z"
   },
   "milestones": [
     {
@@ -165,6 +207,6 @@
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-27T09:16:45Z",
+  "last_full_rebuild": "2026-10-29T09:44:22Z",
   "last_incremental_update": null
 }

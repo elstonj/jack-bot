@@ -37,6 +37,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **Deployment Tube Components:**
 - Spring-loaded switches under flap available for replacement; extras stored on wire rack shelf or pre-wired in a bin ready to use (September 22, 2026); replacement procedure involves using pliers/channel locks but should not involve twisting the black lead portion (risk of internal breakage), only grab metal housing sleeve; existing loctite residue is sufficient, no reapplication needed (September 22, 2026)
 
+**PSNS (Power Supply Network System) Hardware Strategy:**
+- **v0.4 and v0.41 Board Retirement Decision:** All v0.4 and v0.41 boards to be removed from service and placed into separate bin; no rework planned for these boards (October 28, 2026); indicates shift to v0.5 boards as primary PSNS hardware going forward
+- **Firmware Approach:** Clarification needed regarding which suggested changes were implemented in v0.5 rework by Matt; if v0.4 or v0.41 boards are needed for future use, additional changes would be required beyond current state (October 28, 2026)
+
 **Ground Control Station Operations:**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
 - GCS firmware updates for dual-channel radio control implemented (April 2026)
@@ -67,15 +71,20 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 **S0 Aircraft Development & Production**
 - Ongoing design refinement and manufacturing of hurricane reconnaissance aircraft
 - Active quality control testing and verification processes
-- Multiple aircraft builds in various stages of completion
+- Multiple aircraft builds in various stages of completion (13 aircraft owed to partner due for shipment end of week or start of following week as of October 28, 2026)
 - Continuous iteration on components, firmware, and operational procedures
+- S0 refurbishment underway replacing PSNS boards with v0.5 versions (expected completion by end of week of October 28, 2026)
 
-**PSNS (Power Supply Network System) Sleep Mode Bug Fix**
+**PSNS (Power Supply Network System) Sleep Mode Bug Fix & Hardware Migration**
 - Root cause identified by Jack Elston (October 23, 2026)
 - New firmware deployed for testing on v0.4, v0.41, and v0.5 boards
 - ~4 mA "fake sleep" case resolved; ~1 mA case still open
 - Testing phase underway to validate fixes
 - CAN communication regression in new firmware requires resolution
+- **Hardware transition strategy:** v0.4 and v0.41 boards being retired from service; v0.5 boards becoming standard (October 28, 2026)
+- All PSNS boards in hand to be QC'd by close of business (October 28, 2026)
+- Remaining S0 kits to be built up by end of week (October 28, 2026)
+- S0 refurbishment (PSNS replacement) scheduled for completion by end of following week (week of October 28, 2026)
 
 **Vertiq Motor Integration Project**
 - Motor controller switched from previous system to Vertiq propulsion (October 2, 2026 completion)
@@ -101,6 +110,11 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Jack Elston & Ali Sulehria: Bench-test new PSNS firmware (v0.4, v0.41, v0.5) for sleep mode fixes and CAN communication regression (October 23, 2026)
 - Joshua Fromm: Verify with Vertiq if 3-week lead time for qty150 motors is standard or instance-specific (as of October 2, 2026)
 - Joshua Fromm: Ensure RPM feedback requirement is established upfront for 6S ESC/motor combo selection to avoid missing critical specifications (September 23, 2026)
+- Ali Sulehria: QC all PSNS boards in hand by close of business (October 28, 2026)
+- Team: Build up remaining S0 kits by end of week (as of October 28, 2026)
+- Team: Refurbish S0 aircraft (replace PSNS with v0.5 boards) by end of following week (as of October 28, 2026)
+- Team: Ship 13 S0 aircraft by end of week of October 28 or start of following week
+- Joshua Fromm: Coordinate with Matt B via Jack Elston regarding logistics of returning 3 aircraft from AOC and shipping 13 aircraft; clarify whether to wait on consolidated pallet shipment or proceed with separate shipments to save money (October 28, 2026)
 
 ## Client & External References
 
@@ -118,22 +132,25 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - T-Motor: Propulsion components (F60)
 - Samsung: Battery cells (INR21700-50S)
 - Panasonic: Previous battery cells (NCR18650GA, discontinued)
+- AOC: Holds 3 S0 aircraft and other pallets for return; Matt B (contact) coordinating logistics
 
 **Internal/Team Contacts:**
-- Beck Cotter: External coordination and scheduling
-- Ali Sulehria: PSNS firmware testing and QC
+- Beck Cotter: External coordination and scheduling; confirming preferences regarding shipment consolidation (October 28, 2026)
+- Ali Sulehria: PSNS firmware testing and QC; board QC responsibility (October 28, 2026)
 - Alex Lomis: 6S battery configuration research
 - Maciej: Motor/ESC RPM feedback requirements
+- Matt: PSNS rework engineer conducting v0.5 board changes; warehouse space management (October 28, 2026)
 
 ## Recurring Topics & Themes
 
 1. **Motor/Propulsion System Integration:** Repeated cycles of motor selection, ESC compatibility, RPM feedback requirements, and supplier delays; Vertiq integration completed but required extended problem-solving
-2. **Power Management Issues:** Ongoing work on PSNS sleep modes, battery configuration, power consumption optimization across multiple voltage systems
+2. **Power Management Issues:** Ongoing work on PSNS sleep modes, battery configuration, power consumption optimization across multiple voltage systems; hardware migration strategy now in place (v0.5 standardization)
 3. **Ground Station Development:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities
 4. **Component Quality & Supply Chain:** Regular evaluation of suppliers, parts quality (defects detected and addressed), manufacturing standards
 5. **Firmware Testing & Deployment:** Iterative testing and debugging of new firmware versions before deployment to operational systems
 6. **NOAA Integration:** Regular coordination with NOAA on operational requirements, handover preparation, and capability enhancements
 7. **Deployment Tube System:** Ongoing refinement of parachute deployment timing, cap design, and associated mechanical components
+8. **Production Scheduling & Logistics:** Coordination of aircraft builds, QC procedures, and customer shipments with timeline management
 
 ## Important Resources
 
@@ -147,7 +164,20 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 
 ## Recent Activity
 
+**October 28, 2026:**
+- Jack Elston issued comprehensive production timeline and hardware strategy updates:
+  - v0.4 and v0.41 PSNS boards to be removed from service and separated into different bin; no rework planned
+  - Clarification needed on which firmware changes were implemented in Matt's v0.5 rework; if v0.4/v0.41 needed in future, additional changes required
+  - PSNS boards in hand to be QC'd by close of business (Ali Sulehria responsibility)
+  - Remaining S0 kits to be built up by end of week
+  - S0 refurbishment (PSNS replacement with v0.5) scheduled for completion by end of following week
+  - 13 S0 aircraft shipment planned for end of week or start of following week
+  - Suggested including 3 AOC aircraft in return shipment to recover pallets; requested Joshua Fromm to check with Matt B about this addition
+- Joshua Fromm raised concern about potential change to previously discussed shipping logistics plan: clarified that original plan was to ship 13 aircraft in pallet and have NOAA return all 3 AOC aircraft stacked to save money; questioned whether new proposal (separate shipments) represented abandonment of consolidated approach
+- Jack Elston acknowledged not recalling written plan documentation; indicated he had emailed Matt B (warehouse manager wanting to clear space) to verify waiting was acceptable
+- Joshua Fromm confirmed either approach acceptable; primary concern was ensuring coordination
+
 **October 23, 2026:**
-- Jack Elston drafted visit agenda document for Russel and others; Beck Cotter indicated informal preference but confirmed document would be helpful for coordination
 - Jack Elston diagnosed PSNS sleep mode "fake sleep" issue (~4 mA case): MC33772C BMS remains awake when PSNS loses power without proper sleep sequence; LTC2954 (U13) and TurnOffAircraft() behavior analyzed; fix implemented in new firmware for v0.4, v0.41, v0.5 boards and deployment tube; ~1 mA case remains open; firmware ready for testing but not yet flashed/bench-tested
 - Ali Sulehria identified regression in new PSNS firmware: v0.4 and v0.5 boards only transmitting supply packets over CAN after update; serial number QC reads failing; confirmed by testing v0.4 board before/after flash showing expected multi-packet transmission before update and supply-only packets after update; root cause requires investigation
+- Jack Elston drafted visit agenda document for Russel and others; Beck Cotter indicated informal preference but confirmed document would be helpful for coordination

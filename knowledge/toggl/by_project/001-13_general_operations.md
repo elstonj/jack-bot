@@ -1,24 +1,24 @@
-_Computed from Toggl as of 2026-10-28: 7197.6 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1603.9 h, Beck Cotter 915.0 h, Dan 396.2 h, Stachura 392.8 h, Nate 122.0 h, Ethan Domagala 57.4 h, Josh Fromm 45.0 h, Spencer Hoehl 14.7 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
+_Computed from Toggl as of 2026-10-29: 7206.8 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1603.9 h, Beck Cotter 915.0 h, Stachura 401.4 h, Dan 396.2 h, Nate 122.0 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 14.7 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
 
 # [001-13] General Operations — Time Tracking
 
 ## Overview
-- **Client:** Overhead (internal operations)
+- **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 7,197.6 hours (since 2020-01-01)
+- **Total Hours Tracked:** 7,206.8 hours (since 2020-01-01)
 
 ## Team Allocation
 
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Meredith Needham | 3,603.0 | 50.1% |
-| Jack Elston | 1,603.9 | 22.3% |
+| Meredith Needham | 3,603.0 | 50.0% |
+| Jack Elston | 1,603.9 | 22.2% |
 | Beck Cotter | 915.0 | 12.7% |
+| Stachura | 401.4 | 5.6% |
 | Dan | 396.2 | 5.5% |
-| Stachura | 392.8 | 5.5% |
 | Nate | 122.0 | 1.7% |
-| Ethan Domagala | 57.4 | 0.8% |
+| Ethan Domagala | 57.9 | 0.8% |
 | Josh Fromm | 45.0 | 0.6% |
 | Spencer Hoehl | 14.7 | 0.2% |
 | Austin Vera | 10.5 | 0.1% |
@@ -29,36 +29,28 @@ _Computed from Toggl as of 2026-10-28: 7197.6 h total since 2020-01-01 — Mered
 | Kareem Ahmed | 3.0 | <0.1% |
 | Tiffany Elston | 2.5 | <0.1% |
 
-**Primary Contributors:** Meredith Needham (50%) and Jack Elston (22%)
+**Primary Contributors:** Meredith Needham (operations/admin) and Jack Elston (email management, meetings)
 
 ## Activity Timeline
 
-### Work Patterns
-- **Meredith Needham:** Consistent daily Operations/Admin work, typically 6–9 hour blocks
-- **Jack Elston:** Email management (primary activity), plus meetings and integration reviews; 1–4.5 hour blocks
-- **Beck Cotter:** Regular 8-hour shifts, some NOAA-related entries
-- **Stachura & Dan:** Undescribed entries, variable block sizes
-- **Others:** Sporadic contributions, often single meetings or short tasks
+### Work Categories (from recent entries)
+- **Operations/Admin** — Meredith Needham's primary activity (daily 6–9h blocks)
+- **Answering Emails** — Jack Elston's dominant task (1–4.5h entries, frequency: multiple entries per week)
+- **Undescribed work** — Beck Cotter, Stachura, Dan (8h blocks, mostly unlabeled)
+- **Meeting/Coordination** — Integration reviews, internal updates, management syncs, team meetings
+- **Client work** — NOAA (Beck Cotter, occasional 7.5–8h entries)
 
-### Recent Entry Themes
-- **Operations/Admin** (Meredith Needham dominant)
-- **Answering Emails** (Jack Elston dominant)
-- **Meetings:** Black Swift Weekly Integration Review, BST Internal Update, S0 Meeting, Critical Component Tiger Team Bi-Weekly, Management Sync
-- **Special Activities:** Meet and Greet with KS COO, KS Discussion, Furniture Organization
-- **Project Work:** NOAA (Beck Cotter)
-- **Undescribed entries:** ~40% of recent entries lack description
+### Recent Pattern
+Recent entries show consistent, recurring activity:
+- Meredith: Daily Operations/Admin work (typically 6–9 hours/day)
+- Jack: Daily email management mixed with recurring meetings (Black Swift Weekly Integration Review, BST Internal Update Meeting, Management Sync)
+- Beck: Consistent 7.5–8 hour blocks, some labeled NOAA
+- Stachura, Dan: Variable undocumented entries
 
 ## Insights
 
-### Work Composition
-1. **Administrative backbone:** Meredith Needham drives operational continuity (~50% of all time)
-2. **Communications hub:** Jack Elston manages email and internal meetings (~22%)
-3. **Support staff:** Beck Cotter, Dan, and Stachura provide secondary operations support (~24%)
-4. **Overhead nature:** Primarily internal operational work (admin, email, meetings)
-
-### Notable Patterns
-- Heavy reliance on undescribed time entries (~40% of visible entries), suggesting routine/habitual work
-- Consistent 8-hour days for core operations staff (Meredith, Beck)
-- Jack Elston bridges communications and leadership (email management + strategic meetings)
-- Limited specialized project work visible (NOAA appears sporadically for Beck Cotter)
-- Operational overhead is well-distributed but concentrated in three key contributors
+- **Operational Backbone:** Meredith represents 50% of all time on this project—this is the company's primary operations/administrative overhead tracker
+- **Communication Heavy:** Jack Elston spends ~22% of tracked time on email and meetings, suggesting he holds a coordination/leadership role
+- **Documentation Gap:** ~40% of recent entries lack descriptions (Stachura, Dan, Beck undescribed work), limiting visibility into specific activities
+- **Consistent Utilization:** Project shows steady, daily engagement from core team (Meredith, Jack, Beck) with little variation
+- **Non-billable:** As overhead, this captures internal operational costs rather than client-billable work

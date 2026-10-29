@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through October 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy program work with LMUK involvement, and emerging participation in Arctic Edge 2027 (April 19-May 7, Alaska). Recent activity (October 2026) focuses on Arctic Edge 2027 planning, demo strategy refinement, clarification of Phase II development goals vs. demonstration requirements, and contingency planning for potential funding delays.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through October 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy program work with LMUK involvement, and emerging participation in Arctic Edge 2027 (April 19-May 7, Alaska). Recent activity (October 2026) focuses on PCLT (Payload Containment Launch Tube) integration testing, deployment conops clarification, Arctic Edge 2027 planning, demo strategy refinement, clarification of Phase II development goals vs. demonstration requirements, and contingency planning for potential funding delays.
 
 ## Key Decisions
 
@@ -60,17 +60,20 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 **October 2026:**
 - Phase II project execution strategy: Acknowledged that Phase II kickoff (if funding approved by January 2027) will require accelerated schedule to meet April/May 2027 drop article readiness deadline (October 23, 2026)
 - Contingency ocean testing: Discussed possibility of conducting team-funded ocean testing trip to validate magnetic sensing performance over water (versus land testing) if project advancement requires validation; explored potential cost-sharing with OOI (Ocean Observatories Initiative) or CAT (Cooperative Autonomous Technologies) testing initiatives (October 23, 2026)
+- PCLT deployment integration: Communications verified functional within PCLT (Payload Containment Launch Tube) enclosure; fiberglass tube configuration confirmed as representative of fleet deployment conditions (October 28, 2026)
+- S0 deployment conops: Confirmed Navy procedures involve carrying multiple payloads in host aircraft, keeping S0 powered off until final deployment readiness, then powering on and loading into PCLT for deployment (October 28, 2026)
+- PCLT EMI paint: Confirmed that operational PCLT units in fleet aircraft would NOT have EMI paint (unlike test unit which had fiberglass only), with no anticipated comms/GPS complications (October 28, 2026)
 
 ## Projects & Initiatives
 
 **Navy SBIR Magnetometer Program (Primary)**
 - **Status:** Option period underway; Phase II funding pending (as of October 2026)
 - **Phase I:** Completed (concluded October 2025)
-- **Option Period:** Active focus on TCE event preparation and demonstration (Camp Pendleton, September 14-24, 2026)
+- **Option Period:** Active focus on TCE event preparation and demonstration (Camp Pendleton, September 14-24, 2026); transitioning to PCLT integration validation
 - **Phase II:** Proposed; if funded from January 2027 kickoff, schedule calls for drop article readiness by April-May 2027
 - **Key Deliverables:** 
   - Reusable S0-MAD flight article with Bartington and QuSpin magnetometers
-  - Launch/recovery systems (manual hand-throw from UH-60 primary; future Estes rocket-assist for boat/vehicle-based)
+  - Launch/recovery systems (manual hand-throw from UH-60 primary; PCLT tube-launched system validated for deployment)
   - Magnetic anomaly detection capability demonstration
   - Custom PCB for isolated power supply and 24-bit ADC for sensor integration
 
@@ -78,16 +81,19 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **Dates:** April 19-May 7, 2027, Alaska
 - **Status:** Planning stage; strategy discussions ongoing (October 2026)
 - **Relationship to Phase II:** Potential demonstration opportunity if Phase II funding approved
+- **Connection to PCLT Testing:** Recent PCLT validation testing supports readiness for Arctic Edge deployment scenarios
 
 **UK Navy Program (with LMUK)**
-- **Status:** Ongoing collaboration mentioned; details sparse in recent activity
-- **Participants:** Lockheed Martin UK (LMUK), Simon (Royal Navy contact)
+- **Status:** Contract execution in advanced stages; Simon (Royal Navy contact) on commercial path to finalize contract
+- **Latest Status:** As of October 28, 2026, Simon received commercial approval on Friday (October 25), pending final move into formal contracting; described commercial issues as "hard yards" now complete
+- **Participants:** Lockheed Martin UK (LMUK), Simon (Royal Navy contact), Dan Prendergast
+- **Next Steps:** Site visit agenda to be distributed to LMUK for input after finalization by Dan Prendergast (October 28, 2026)
 
 ## Action Items & Commitments
 
-**Pending/Open Items (October 2026):**
-- Internal meeting scheduling: Jack Elston to add Arctic Edge 2027 and Phase II strategy discussion to next internal meeting agenda (October 23, 2026)
-- Site visit agenda finalization: Jack Elston prepared draft site visit agenda and flagged need for team finalization and distribution (October 23, 2026)
+**Pending/Open Items (October 28, 2026):**
+- Agenda finalization & distribution: Dan Prendergast to incorporate Maciej's comments on agenda and distribute to full team, with LMUK providing input afterward (October 28, 2026)
+- LMUK input on next week's discussion topics: Open line to Simon if LMUK hasn't provided input; Simon noted he "gave them plenty of steer" (October 28, 2026)
 - Phase II Schedule Planning: Maciej to develop detailed work plan addressing gaps from Option period, including potential accelerated timeline adjustments if January 2027 funding approved
 
 **Earlier Commitments (Status Unknown/Ongoing):**
@@ -101,7 +107,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Navy TPOC: Angel Ruiz-Reyes (flight test requirements liaison)
 - Navy DEVCOM: Morris "DeSi"
 - Navy Personnel: Tony, Daniel Klier, Aaron Pyrah, Derek
-- Various Navy contacts involved in TCE event and on-site testing
+- Various Navy contacts involved in TCE event and on-site testing; PCLT testing contacts (recent validation work on October 25-28, 2026)
 
 **Sensor Manufacturers & Partners**
 - QuSpin (Jeff): Magnetometer manufacturer; firmware updates and configuration support
@@ -109,24 +115,25 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Ultra Maritime (Paul): Phase II subcontractor (selected January 2026)
 
 **International Partners**
-- Royal Navy: Simon (contact)
-- Lockheed Martin UK (LMUK): UK Navy program collaboration
+- Royal Navy: Simon (contact; commercials approval received October 25, 2026; expects contract finalization imminent)
+- Lockheed Martin UK (LMUK): UK Navy program collaboration; on contract execution path pending Simon's fund transfer
 
 **Research & Testing Partners**
 - Ocean Observatories Initiative (OOI): Potential cost-sharing for ocean validation testing
 - Cooperative Autonomous Technologies (CAT): Potential cost-sharing for testing initiatives
 
-**External Consultants**
+**External Consultants & Operational Contacts**
 - Eric Correa: Technical consultant (on leave after June 4, 2026; availability for follow-up questions flagged)
+- Dan Prendergast: External contact serving as coordinator for LMUK engagement and site visit logistics
 
 **Other References**
-- Dan Prendergast: External contact (role/affiliation unclear from context)
+- Joshua Fromm: Participated in recent PCLT testing; documented Navy procedures and technical specifications from testing
 
 ## Recurring Topics & Themes
 
 1. **Sensor Integration Challenges**: Ongoing work on Bartington and QuSpin integration, with significant focus on electrical noise isolation and power supply optimization (power isolation strategy, ADC resolution, PCB design iterations)
 
-2. **Aircraft Modifications & Launcher Development**: Iterative refinement of S0-MAD reusable flight article design, landing gear configuration, and launcher systems (from hand-throw to Estes rocket-assist to tube-launched deployments)
+2. **Aircraft Modifications & Launcher Development**: Iterative refinement of S0-MAD reusable flight article design, landing gear configuration, and launcher systems (from hand-throw to tube-launched deployments with PCLT validation)
 
 3. **Flight Testing Methodology**: Sequential 1-hour test runs for baseline validation; requirements driven by Navy TPOC Angel Ruiz-Reyes specifications
 
@@ -134,14 +141,16 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 5. **Schedule & Funding Contingency Planning**: Tracking of project phases, funding status, and contingency planning for accelerated timelines if Phase II funding approved
 
-6. **Demonstration Events**: Multi-stage demonstration strategy involving TCE event (September 2026), potential Arctic Edge 2027 (April-May 2027), and internal testing
+6. **Demonstration Events & Operational Integration**: Multi-stage demonstration strategy involving TCE event (September 2026), Arctic Edge 2027 (April-May 2027), and ongoing PCLT integration validation for actual Navy deployment scenarios
 
 7. **Budget & Resource Reallocation**: Active management of subcontractor funds (CRT, Cetacean) and reallocation to high-priority areas (TCE demo preparation, launcher development, travel)
+
+8. **International Collaboration & Contract Execution**: UK Navy program contract negotiations with LMUK and Royal Navy; tracking of commercial approvals and contracting timelines
 
 ## Important Resources
 
 **Documentation:**
-- Site visit agenda draft: https://docs.google.com/document/d/1rEqLfmIChsmV0skzblNxSN7XVY0M16nFywzwzAzy1I0/edit?usp=sharing
+- Site visit agenda draft (in preparation for LMUK input): Managed by Dan Prendergast; Maciej provided comments for incorporation (October 28, 2026)
 
 **Technical Specifications:**
 - Bartington sensor: UAS Mag PC298, 105 µT range
@@ -149,20 +158,34 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Magnetometer power requirements: ~1A at 5V
 - ADC specification: 24-bit (dual 24-bit ADCs via I2C) targeting 1μV resolution
 - Bartington power supply requirement: <1mV ripple
+- PCLT operational configuration: Fiberglass tube (no EMI paint in fleet aircraft); communications verified functional within enclosure
 
 **Procurement:**
 - Launcher parts: Approved $1.3K order from McMaster (June 22, 2026)
 
+**Testing Validation:**
+- PCLT testing completed (October 25-28, 2026): Communications verified functional; deployment conops validated with Navy; EMI considerations confirmed
+
 ## Recent Activity
 
-**October 23, 2026 - Strategic Planning & Phase II Preparation:**
-- Jack Elston initiated internal discussion on next meeting agenda and noted that planning should proceed despite funding uncertainty ("things aren't funded yet")
-- Jack Elston shared draft site visit agenda for team review and finalization
-- Maciej provided detailed Phase II timeline assessment: 
-  - First 4 months of Phase II would be devoted to design and build of next-generation magnetic sensing S0
-  - Followed immediately by flight testing
-  - Current schedule assumes January kickoff with April-May drop article readiness
-  - **Key Gap Identified:** Option period work was assumed to advance magnetic integration further than currently achieved; catch-up work will be required in early Phase II
-  - **Contingency Strategy:** Proposed team-funded ocean testing trip to validate magnetic performance over water (difficult to validate over land); exploring cost-sharing opportunities with OOI or CAT testing initiatives to "double dip" on a single trip
-  
-This recent discussion reflects realistic assessment of project constraints and proactive problem-solving around schedule compression and validation requirements.
+**October 28, 2026 - PCLT Integration Testing & Contract Progress:**
+
+**PCLT Deployment Integration (Jack Elston, Dan Prendergast, Joshua Fromm):**
+- Communications testing confirmed: S0 communications functional within PCLT enclosure
+- Configuration verification: Test PCLT was fiberglass tube (no EMI paint); confirmed that operational fleet PCLT units would NOT have EMI paint
+- RF environment validation: Current test setup confirmed as representative of actual fleet RF conditions
+- Operational procedures documented: Navy carries multiple payloads in host aircraft (S0s, loitering munitions, etc.); S0 kept powered off until final deployment readiness; powered on and loaded into PCLT immediately before deployment
+- Key takeaway: No anticipated complications with communications or GPS in actual deployment scenario; procedures support operational readiness
+
+**UK Navy Program Contract Status (Maciej, Beck Cotter, Dan Prendergast, Simon):**
+- Simon (Royal Navy) provided update: Received commercial approval on Friday (October 25, 2026) after resolving "commercial glitches"
+- Contract execution: Hard commercial work completed; awaiting formal transition to contracting phase
+- LMUK coordination: Beck Cotter confirmed team has completed due diligence on contract side while awaiting Simon's fund transfer
+- Next steps: Dan Prendergast to finalize site visit agenda (incorporating Maciej's comments) and distribute to LMUK for their input
+- Team sentiment: Simon expressed enthusiasm for "agile and innovative" collaboration with BST
+
+**Strategic Implications:**
+- PCLT testing validates critical deployment integration; removes technical barriers for Phase II execution
+- LMUK contract imminent; enables parallel UK Navy program execution if Phase II funding approved
+- Site visit agenda preparation reflects confidence in near-term contract finalization
+- Overall positioning supports accelerated Phase II timeline if January 2027 funding approved

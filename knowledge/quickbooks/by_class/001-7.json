@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 208675.67,
+    "expenses": 207409.92,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86448.51,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86467.06,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
-      "Indirect Cost:Internal Research and DevelopmentX": 54996.22,
+      "Indirect Cost:Internal Research and DevelopmentX": 53711.92,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
@@ -986,6 +986,34 @@
           "amount": 8.49,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 18.55,
+      "attributed": 18.549999999999997,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6.01,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "18-8 Stainless Steel Phillips Flat Head Screw, M2 x 0.4 mm Thread Size, 5 mm Long, packs of 100"
+        },
+        {
+          "amount": 11.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping"
+        },
+        {
+          "amount": 1.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Tax"
         }
       ]
     },
@@ -8786,34 +8814,6 @@
           "amount": 460.47,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "S3 construction materials"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 1284.3,
-      "attributed": 1284.3,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Shipped to Lee Skidmore (Northwind Composites) for S3 work",
-      "lines": [
-        {
-          "amount": 701.14,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "carbon fiber panels x 2"
-        },
-        {
-          "amount": 439.5,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "carbon fiber panels x 2"
-        },
-        {
-          "amount": 143.66,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "shipping fee"
         }
       ]
     }

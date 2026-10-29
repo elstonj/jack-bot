@@ -6823,5 +6823,44 @@
     "notes": "Invoice 74139030; receipt for order 1022JELSTON; shipped 10/22/26 via FedEx 541305050991",
     "date": "2026-10-23",
     "subject": "Receipt for Your October 22nd Order with McMaster-Carr"
+  },
+  {
+    "id": "1a17f9fc2d9af99a",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 1870.0,
+    "vendor": "MKS Servos USA",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Z1100-DroneCAN M5 Wire (qty 3) and HBL599SL-DroneCAN servo (qty 2)",
+    "notes": "Order #23300 completed; USPS Priority Mail shipment",
+    "date": "2026-10-27",
+    "subject": "MKS Servos USA: Your order #23300 has been completed"
+  },
+  {
+    "id": "1a17f8679e161201",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": null,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Flat head screws",
+    "notes": "Shipment notification; FedEx tracking 541305257400; delivery tomorrow",
+    "date": "2026-10-27",
+    "subject": "Certificate and Tracking for Your October 27th Order with McMaster-Carr"
+  },
+  {
+    "id": "1a17f49923cdc04e",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 18.55,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": "s3",
+    "description": "18-8 Stainless Steel Phillips Flat Head Screw M2 x 0.4mm, 5mm Long (1 pack of 100)",
+    "notes": "McMaster-Carr order 7849344; delivery Oct 28 8-10am; placed by Jack Elston",
+    "date": "2026-10-27",
+    "subject": "Confirmation for Your October 27th Order with McMaster-Carr"
   }
 ]

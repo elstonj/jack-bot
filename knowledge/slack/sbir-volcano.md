@@ -102,3 +102,156 @@ The channel covers activities from 2020 through October 2026, with high activity
 **Photogrammetry Payload Camera Upgrade Discussion (July 27, 2026)**
 - Jack Elston flagged that both Sony A5100 camera (16mm lens) and FLIR equipment in photogrammetry payload should be reviewed for potential upgrades
 - **Rationale**: Current equipment sufficient
+
+**Mexico Deployment Status - Indefinite Hold (October 28, 2026)**
+- **Decision**: Mexico deployment placed on hold indefinitely pending AFAC (Mexican FAA equivalent) approval
+- **Trigger**: Authorization required from Mexican regulatory authorities before deployment can proceed
+- **Contingency Planning**: When/if AFAC approval received, deployment date will be set far enough in future to allow completion of all outstanding logistics and coordination tasks
+- **Outstanding Tasks Identified**:
+  - Aligning schedules with USGS and CENAPRED partners
+  - S3 aircraft export procedures
+  - Battery shipping arrangements
+  - Travel arrangements for team
+
+## Projects & Initiatives
+
+### Popocatépetl (Volcano) Monitoring Mission
+**Status**: On hold indefinitely pending AFAC approval (as of October 28, 2026)
+
+**Project Parameters**:
+- Primary aircraft: S3 (selected for high-altitude capability)
+- Target volcano: Popocatépetl, Mexico (5,380m elevation)
+- Operational base: Paso de Cortés (designated takeoff/landing location)
+- Flight profile: Level flight at 120m AGL with 34 waypoints, ~39km total distance
+- Payload: Photogrammetry system with Sony A5100 camera (16mm lens) and FLIR equipment
+- Coverage: 80% overlap in both directions
+- Partner agencies: USGS, CENAPRED (Mexican volcanic monitoring agency)
+
+**Recent Progress**:
+- Operating manual finalized in English (with AI-assisted content)
+- Manual translation to Spanish in progress (using either ForgeFile or Cassandre tools)
+- Photogrammetry payload system validated as functional and ready
+- S3 aircraft export documentation prepared (requires Carnet and proof of documentation)
+- Flight planning completed with optimized waypoint design
+
+**Blockers**:
+- AFAC (Mexican FAA) approval outstanding as of October 28, 2026
+- S3 aircraft repairs required before deployment (noted in April 2026)
+
+### C-130 Integration Project
+**Status**: In progress (ongoing as of June 2026)
+
+**Scope**:
+- Configure S0/S0-AD aircraft for integration with C-130 cargo aircraft
+- Establish handoff procedures for deployment operations
+- Procure extra S0 aircraft units for inventory (~37 units total projected)
+
+**Current Status**:
+- Clarification needed on client funding scope (aircraft vs. deployment vs. both)
+- Additional work acknowledged but not yet scheduled
+
+### Gas Payload Development (Isolation Circuit)
+**Status**: Decision phase complete, implementation underway
+
+**Technical Specifications**:
+- Isolation solution: ADUM1201 magnetic isolator (selected over dual optocoupler approach)
+- Application: Protects gas sensor communications from electrical noise in high-power aircraft environment
+- Positioning: Near high-power aircraft lines
+- Potential secondary application: CAN lines to motor and pivot servo
+
+## Action Items & Commitments
+
+### Pending (as of October 28, 2026)
+- **Dan Prendergast & Team**: Await AFAC approval before proceeding with Mexico deployment
+- **USGS/CENAPRED Coordination**: Schedule alignment required once deployment date re-established
+- **Dan Prendergast**: Complete S3 export procedures when deployment date confirmed
+- **Meredith Needham**: Coordinate battery shipping and travel arrangements once deployment timeline set
+- **Operations Team**: Prepare all logistics for deployment (date TBD pending AFAC approval)
+
+### Completed
+- Operating manual finalized (English version) - Jack Elston (April 28 - July 23, 2026)
+- Manual translation to Spanish in progress - Dan Prendergast testing ForgeFile/Cassandre tools (July 23, 2026)
+- Flight plan optimization for Popocatépetl - Dan Prendergast (completed by July 20, 2026)
+- S3 aircraft export documentation preparation - completed (April 2026)
+- Photogrammetry payload validation - Jack Elston (July 2, 2026)
+
+## Client & External References
+
+### Government/Regulatory Partners
+- **NASA** (SBIR program oversight)
+- **USGS** (US Geological Survey - scientific collaboration, volcanic monitoring)
+- **CENAPRED** (Centro Nacional de Prevención de Desastres, Mexico - volcanic monitoring partner)
+- **AFAC** (Mexican FAA equivalent - flight permissions/approval authority)
+- **FAA** (US Federal Aviation Administration - Remote ID registration 20686S30001)
+
+### External References
+- Mexico Popocatépetl volcano deployment location
+- C-130 cargo aircraft integration (unspecified client/partner)
+
+## Recurring Topics & Themes
+
+**Regulatory Compliance & Export**
+- Ongoing focus on Mexican flight permissions and AFAC approval requirements
+- Documentation and export procedures for aircraft transit to Mexico
+- Operating manual development and translation for regulatory compliance
+
+**Deployment Readiness Assessment**
+- Regular evaluation of aircraft condition and mission readiness before proceeding
+- Equipment functionality validation (payloads, cameras, sensors)
+- Logistics coordination (scheduling, shipping, travel)
+
+**High-Altitude Flight Operations**
+- Aircraft performance at extreme elevations (19,500-20,000 ft and above)
+- Mission complexity trade-offs (terrain-following vs. level flight)
+- Navigation and communication line-of-sight requirements in mountainous terrain
+
+**Payload Integration & Technical Development**
+- Sensor payload modifications for specific mission requirements
+- Electrical isolation and noise mitigation for specialized equipment
+- Performance validation and equipment upgrades assessment
+
+**Inventory & Procurement Management**
+- S0/S0-AD aircraft inventory tracking and procurement status
+- Spare parts and equipment ordering with delivery timeline management
+
+## Important Resources
+
+**Project Management**
+- Asana project management system (S0 aircraft inventory tracking)
+
+**Technical Documentation**
+- Overleaf collaborative document (Operating Manual in English)
+- Google Earth project (Popocatépetl candidate site locations)
+- Mission Plan document (flight planning specifications)
+
+**Software Tools**
+- ForgeFile (online PDF translation service, claims GDPR compliance)
+- Cassandre Python tool (offline local PDF/LaTeX translation)
+
+**Equipment References**
+- S2 and S3 unmanned aircraft systems
+- S0/S0-AD aircraft (for C-130 integration project)
+- Sony A5100 camera with 16mm lens (photogrammetry payload)
+- FLIR thermal imaging equipment (photogrammetry payload)
+- ADUM1201 magnetic isolator IC (gas payload isolation)
+
+## Recent Activity
+
+**October 28, 2026**
+- **Announcement**: Dan Prendergast announced Mexico deployment placed on indefinite hold pending AFAC approval
+- **Rationale**: Regulatory authorization from Mexican FAA equivalent required before proceeding
+- **Contingency Plan**: Once approval received, deployment date will be established with sufficient lead time to complete outstanding logistics (schedule coordination with USGS/CENAPRED, S3 export, battery shipping, travel arrangements)
+- **Impact**: All deployment activities suspended until regulatory clearance obtained
+
+**July 23-27, 2026**
+- Operating manual translation methodology finalized
+- Photogrammetry payload equipment reviewed (camera upgrade discussion initiated)
+- Manual ready for Spanish translation after resolving document editing conflicts
+
+**July 20, 2026**
+- Flight planning parameters optimized for Popocatépetl mission
+- Level flight approach selected over terrain-following to reduce complexity and improve feasibility
+
+**July 1-2, 2026**
+- Photogrammetry payload system validated as functional
+- Gas payload parts confirmed on order with conversion completion targeted before end of July

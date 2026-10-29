@@ -52,6 +52,7 @@
     "[200] NASA:[200-12] AREN 2025",
     "[200] NASA:[200-14] Autonomy",
     "[211-1] NASA Ames MHP",
+    "[213-1] Langley S0s",
     "[300] NOAA",
     "[304] NOAA UxSOC",
     "[305] NOAA UASD",
@@ -67,33 +68,34 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
-    "revenue": 3748912.55,
-    "expenses": 4628645.28,
+    "revenue": 3795102.55,
+    "expenses": 4600707.99,
     "by_category": {
-      "Payroll clearing account": 2361685.09,
+      "Payroll clearing account": 2268790.7,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 367808.53,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 192829.45,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 189909.21,
-      "Indirect Cost:Payroll Expenses:Retirement Contributions": 139834.97,
-      "FACILITIES:FA-Rent Expense": 133035.35,
+      "FACILITIES:FA-Rent Expense": 142805.07,
+      "Indirect Cost:Payroll Expenses:Retirement Contributions": 139386.15,
       "Inventory Asset": 121555.29,
-      "FRINGE:FR-Retirement Contributions": 115950.23,
+      "FRINGE:FR-Retirement Contributions": 116216.23,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 102855.97,
-      "FACILITIES:FA-Shop Supplies": 74033.73,
+      "FACILITIES:FA-Shop Supplies": 76900.08,
       "Spark One Jack #3168": 70684.0,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52910.99,
+      "Indirect Cost:Software Expenses": 53146.6,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "FACILITIES:FA-Office Supplies": 44868.08,
+      "FACILITIES:FA-Office Supplies": 46623.11,
+      "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 33111.75,
-      "Indirect Cost:Meals and Entertainment": 28715.62,
+      "DIRECT COSTS:DC-Direct Material Purchases": 33098.68,
+      "Indirect Cost:Meals and Entertainment": 28452.76,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
-      "FACILITIES:FA-Software Expenses": 27004.07,
+      "FACILITIES:FA-Software Expenses": 27472.1,
       "The Soil Moisture Company": 21450.0,
       "Prepaid Expenses": 20536.38,
       "Reimbursable Expenses": 19073.17,
@@ -106,40 +108,40 @@
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
       "GA-Business Development": 12797.09,
       "Indirect Cost:Office Expenses:Utilities Expense": 12668.38,
+      "FACILITIES:FA-Insurance Expenses": 12096.97,
       "OVERHEAD:OH-Airfare": 11565.04,
-      "FACILITIES:FA-Insurance Expenses": 11563.0,
       "Indirect Cost:License, Permit, Misc Tax Exp": 11502.28,
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 11348.65,
       "Indirect Cost:Supplies:Shop SuppliesX": 10209.54,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
+      "FACILITIES:FA-Utilities Expense": 9573.35,
+      "Interest Income": 9385.13,
       "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 9290.87,
-      "Interest Income": 9276.39,
-      "FACILITIES:FA-Utilities Expense": 8658.1,
       "SALES & MARKETING:SM-Shipping": 8215.08,
       "SALES & MARKETING:SM-Travel": 7870.72,
       "FACILITIES:FA-Facility Repairs & Maintenance": 7696.83,
-      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6601.92,
+      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6498.43,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
       "Indirect Cost:TaxesX": 6218.2,
       "UNALLOWABLE GA:UC-Meals & Entertainment": 6081.75,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5755.82,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5504.87,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
-      "Indirect Cost:Dues & Subscriptions": 4835.62,
+      "Indirect Cost:Dues & Subscriptions": 4828.72,
       "Indirect Cost:Supplies:Office SuppliesX": 4678.53,
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "OVERHEAD:OH-Other Travel Expenses": 2620.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
       "FRINGE:FR-Worker's Comp": 2276.0,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2172.45,
       "Indirect Cost:Professional Fees (do not use):Continuing educationX": 2165.72,
       "Indirect Cost:Internal Research and DevelopmentX": 2008.07,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 1900.0,
-      "SALES & MARKETING:SM-Dues & Subscriptions": 1771.49,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1721.58,
+      "SALES & MARKETING:SM-Dues & Subscriptions": 1880.25,
+      "FACILITIES:FA-Equipment Repairs & Maintenance": 1465.41,
       "Soil Moisture Investment": 1396.88,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
-      "FACILITIES:FA-Equipment Repairs & Maintenance": 1093.65,
       "Uncategorized Asset": 882.61,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 815.32,
       "Indirect Cost:Professional Fees (do not use)": 655.65,
@@ -152,7 +154,6 @@
       "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 305.0,
       "OVERHEAD:OH-Lodging": 275.17,
       "GENERAL & ADMINISTRATIVE:GA-Continuing Education": 262.95,
-      "GENERAL & ADMINISTRATIVE:Business Development": 188.2,
       "Indirect Cost:Office Expenses": 143.99,
       "Charitable ContributionsX": 100.0,
       "DIRECT COSTS:DC-Direct Travel": 41.98,
@@ -168,6 +169,54 @@
     }
   },
   "invoices": [
+    {
+      "type": "Invoice",
+      "date": "2026-11-16",
+      "doc_number": "1791",
+      "total": 46143.0,
+      "attributed": 46143.0,
+      "vendor": "",
+      "customer": "[213-1] Langley S0s",
+      "balance": 46143.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 36000.0,
+          "account": "",
+          "description": "Fully assembled S0 UAS including charger.  Designed for atmospheric thermodynamic measurements including wind, pressure, temperature and humidity."
+        },
+        {
+          "amount": 5000.0,
+          "account": "",
+          "description": "S0 Ground Control Station"
+        },
+        {
+          "amount": 3400.0,
+          "account": "",
+          "description": "Flight Operations support for full day, includes operator and observer / technician."
+        },
+        {
+          "amount": 943.0,
+          "account": "",
+          "description": "Tablet and accessories, tablet setup and SwiftTab UI  Install"
+        },
+        {
+          "amount": 400.0,
+          "account": "",
+          "description": "Shipping 2 S0s"
+        },
+        {
+          "amount": 400.0,
+          "account": "",
+          "description": "Hard shipping and carrying case the S0."
+        },
+        {
+          "amount": 46143.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Invoice",
       "date": "2026-10-02",
@@ -290,7 +339,7 @@
       "attributed": 1225.0,
       "vendor": "",
       "customer": "Weather Stream (c)",
-      "balance": 1225.0,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1688,13 +1737,131 @@
   "bills": [
     {
       "type": "Bill",
+      "date": "2026-10-27",
+      "doc_number": "7751 t0062598",
+      "total": 9769.72,
+      "attributed": 9769.72,
+      "vendor": "W. W. Reynolds Companies",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2735.52,
+          "account": "FACILITIES:FA-Rent Expense",
+          "description": "Nov 2026 rent fees (Suite C)"
+        },
+        {
+          "amount": 7034.2,
+          "account": "FACILITIES:FA-Rent Expense",
+          "description": "Nov 2026 rent fees"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-26",
+      "doc_number": "248849",
+      "total": 46250.0,
+      "attributed": 46250.0,
+      "vendor": "hireneXus, A Reeves Family Company",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 55500.0,
+          "account": "GENERAL & ADMINISTRATIVE:Business Development",
+          "description": "Placement Fee (30%)"
+        },
+        {
+          "amount": -9250.0,
+          "account": "GENERAL & ADMINISTRATIVE:Business Development",
+          "description": "Fee (-5%)"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-21",
+      "doc_number": "103033240",
+      "total": 417.17,
+      "attributed": 417.17,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 417.17,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "LTL Service"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 10773.62,
+      "attributed": 10773.62,
+      "vendor": "Boostr Consulting LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 10773.62,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "R&D Tax Credits 2025"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-19",
+      "doc_number": "103033218",
+      "total": 691.77,
+      "attributed": 691.77,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 691.77,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "LTL Service"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-19",
+      "doc_number": "103033214",
+      "total": 1224.8,
+      "attributed": 1224.8,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1224.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "LTL Service"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
       "date": "2026-10-09",
       "doc_number": "0008152",
       "total": 147.65,
       "attributed": 147.65,
       "vendor": "IFC Studios",
       "customer": "",
-      "balance": 147.65,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1857,24 +2024,6 @@
           "amount": 10000.0,
           "account": "Inventory Asset",
           "description": "Gen 2.0 QTFM Sensor"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2026-09-03",
-      "doc_number": "7020",
-      "total": 8830.52,
-      "attributed": 8830.52,
-      "vendor": "Boostr Consulting LLC",
-      "customer": "",
-      "balance": 8830.52,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 8830.52,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "R&D Tax Credits 2026"
         }
       ]
     },
@@ -4281,6 +4430,417 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "261015W011129",
+      "total": 329.53,
+      "attributed": 329.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 329.53,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipment of shop supplies order"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "114-8042893-6646658",
+      "total": 175.29,
+      "attributed": 175.28999999999996,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 174.95,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "GGR Supplies ET-13370 Blue/Grey Premium Multi-Roll Steel Desk Top Tape Dispenser: 3 in. Wide (3 in. core). Manufactured by Excell"
+        },
+        {
+          "amount": 52.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "STAR BRITE Liquid Electrical Tape - Black, Flexible Electrical Insulation | Liquid Electrical Tape: Airtight, waterproof, UV-resistant, flexible insulation sealing and protecting connections."
+        },
+        {
+          "amount": -52.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Gift Card Amount"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 27.79,
+      "attributed": 27.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 14.8,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "tape WOD Excell ET-266 Heavy Duty Metal Frame Filament Strapping Tape Dispenser: Fits 2 inch Wide, Blue"
+        },
+        {
+          "amount": 12.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tondiamo 20 Pcs 2.64\" x 2.64\" Solder Sponge with Pre Cut Slits and Hole Yellow Square Soldering Iron Tip Cleaner Replacement Welding Iron Pads for Deep Cleaning High Temperature Resistant"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
+      "total": 279.88,
+      "attributed": 279.88,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "XCEL ENERGYPSCO TYPE XCELENERGY XCEL ENERGYPSCO TYPE XCELENERGY  ID XXXXXX6600 CO XCEL ENERGYPSCO NAME ELEVATIONSCHE648986947",
+      "lines": [
+        {
+          "amount": 279.88,
+          "account": "FACILITIES:FA-Utilities Expense",
+          "description": "XCEL ENERGYPSCO TYPE XCELENERGY XCEL ENERGYPSCO TYPE XCELENERGY  ID XXXXXX6600 CO XCEL ENERGYPSCO NAME ELEVATIONSCHE648986947"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 41.54,
+      "attributed": 41.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WP*WORDPRESS M1X5EGUV5 - 4617",
+      "lines": [
+        {
+          "amount": 41.54,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "WP*WORDPRESS M1X5EGUV5 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 41.54,
+      "attributed": 41.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WP*WORDPRESS M1X5EGUV5 - 4617",
+      "lines": [
+        {
+          "amount": 41.54,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "WP*WORDPRESS M1X5EGUV5 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 207.72,
+      "attributed": 207.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "OPENAI *CHATGPT SUBSCR   SAN FRANCISCOCA",
+      "lines": [
+        {
+          "amount": 207.72,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "OPENAI *CHATGPT SUBSCR   SAN FRANCISCOCA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 36.13,
+      "attributed": 36.13,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP SPINDRIFTBEVERAGE - 7333",
+      "lines": [
+        {
+          "amount": 36.13,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SP SPINDRIFTBEVERAGE - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 533.97,
+      "attributed": 533.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Liberty Mutual TYPE PAYMENT  ID Liberty Mutual TYPE PAYMENT  ID XXXXXX0001 DATA LP0GR0DWLN53  CO Liberty Mutual",
+      "lines": [
+        {
+          "amount": 533.97,
+          "account": "FACILITIES:FA-Insurance Expenses",
+          "description": "Liberty Mutual TYPE PAYMENT  ID Liberty Mutual TYPE PAYMENT  ID XXXXXX0001 DATA LP0GR0DWLN53  CO Liberty Mutual"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 6.0,
+      "attributed": 6.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IRCCLOUD SOLO MONTHLY    LONDON       LN",
+      "lines": [
+        {
+          "amount": 6.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "IRCCLOUD SOLO MONTHLY    LONDON       LN"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 55.0,
+      "attributed": 55.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARLINK INTERNET - 4617",
+      "lines": [
+        {
+          "amount": 55.0,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "STARLINK INTERNET - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 1755.03,
+      "attributed": 1755.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Samsung Electronics Ameri - 7333",
+      "lines": [
+        {
+          "amount": 1755.03,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Samsung Electronics Ameri - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 336.54,
+      "attributed": 336.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WIRECARE INC. - 7333",
+      "lines": [
+        {
+          "amount": 336.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "WIRECARE INC. - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
+      "total": 11.21,
+      "attributed": 11.21,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MSFT * E03010S1GR - 4617",
+      "lines": [
+        {
+          "amount": 11.21,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "MSFT * E03010S1GR - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
+      "total": 371.76,
+      "attributed": 371.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TASKER ON TASKRABBIT - 9208",
+      "lines": [
+        {
+          "amount": 371.76,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "TASKER ON TASKRABBIT - 9208"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
+      "total": 44.32,
+      "attributed": 44.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GENERAL AIR SERV TYPE PAYMENT  I GENERAL AIR SERV TYPE PAYMENT  ID XXXXXX3206 CO GENERAL AIR SERV NAME ELEVATIONSXXXXXXXX2641",
+      "lines": [
+        {
+          "amount": 44.32,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GENERAL AIR SERV TYPE PAYMENT  I GENERAL AIR SERV TYPE PAYMENT  ID XXXXXX3206 CO GENERAL AIR SERV NAME ELEVATIONSXXXXXXXX2641"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
+      "total": 70.01,
+      "attributed": 70.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PHILLIPS 66 - CF UNITED A - 4617",
+      "lines": [
+        {
+          "amount": 70.01,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PHILLIPS 66 - CF UNITED A - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
+      "total": 52.1,
+      "attributed": 52.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TMOBILE*AUTO PAY - 7333",
+      "lines": [
+        {
+          "amount": 52.1,
+          "account": "FACILITIES:FA-Utilities Expense",
+          "description": "TMOBILE*AUTO PAY - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
+      "total": 9.43,
+      "attributed": 9.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TOGGL.COM - 4617",
+      "lines": [
+        {
+          "amount": 9.43,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "TOGGL.COM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
+      "total": 167.49,
+      "attributed": 167.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET  ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI",
+      "lines": [
+        {
+          "amount": 167.49,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET  ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
+      "total": 583.27,
+      "attributed": 583.27,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY",
+      "lines": [
+        {
+          "amount": 583.27,
+          "account": "FACILITIES:FA-Utilities Expense",
+          "description": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-12",
+      "doc_number": "",
+      "total": 230.0,
+      "attributed": 230.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TOGGL.COM - 4617",
+      "lines": [
+        {
+          "amount": 230.0,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "TOGGL.COM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-12",
       "doc_number": "1012JELSTON",
       "total": 590.21,
@@ -4329,6 +4889,24 @@
           "amount": 45.19,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-10",
+      "doc_number": "",
+      "total": 19.19,
+      "attributed": 19.19,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOVER XXXXXX6556 MS domain name expense",
+      "lines": [
+        {
+          "amount": 19.19,
+          "account": "SALES & MARKETING:SM-Dues & Subscriptions",
+          "description": "HOVER                    XXXXXX6556   MS"
         }
       ]
     },
@@ -4395,6 +4973,60 @@
           "amount": 113.73,
           "account": "FACILITIES:FA-Facility Repairs & Maintenance",
           "description": "ECO-CYCLE - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 89.57,
+      "attributed": 89.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOVER XXXXXX6556 MS domain name expense",
+      "lines": [
+        {
+          "amount": 89.57,
+          "account": "SALES & MARKETING:SM-Dues & Subscriptions",
+          "description": "HOVER                    XXXXXX6556   MS"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 3.74,
+      "attributed": 3.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MICROSOFT-G189789906     REDMOND      WA",
+      "lines": [
+        {
+          "amount": 3.74,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "MICROSOFT-G189789906     REDMOND      WA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 266.0,
+      "attributed": 266.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HUMAN INTEREST TYPE HUMAN INTE HUMAN INTEREST TYPE HUMAN INTE  ID XXXXXX8598 CO HUMAN INTEREST",
+      "lines": [
+        {
+          "amount": 266.0,
+          "account": "FRINGE:FR-Retirement Contributions",
+          "description": "HUMAN INTEREST TYPE HUMAN INTE HUMAN INTEREST TYPE HUMAN INTE  ID XXXXXX8598 CO HUMAN INTEREST"
         }
       ]
     },
@@ -4469,6 +5101,24 @@
           "amount": 37.64,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-08",
+      "doc_number": "",
+      "total": 108.74,
+      "attributed": 108.74,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "REWARDS CASH REBATE",
+      "lines": [
+        {
+          "amount": 108.74,
+          "account": "Interest Income",
+          "description": "REWARDS CASH REBATE"
         }
       ]
     },
@@ -54259,258 +54909,6 @@
           "description": "Great Planes Real Flight R/C Simulator Futaba Interlink Plus USB Controller"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 13.07,
-      "attributed": 13.07,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 13.07,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Kay Rufty supplies for AREN"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 281.25,
-      "attributed": 281.25,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "HAZEL'S BEVERAGE WORLD   BOULDER      CO",
-      "lines": [
-        {
-          "amount": 281.25,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "HAZEL'S BEVERAGE WORLD   BOULDER      CO"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 17.74,
-      "attributed": 17.74,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SAFEWAY #1615            BOULDER      CO",
-      "lines": [
-        {
-          "amount": 17.74,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "SAFEWAY #1615            BOULDER      CO"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 15.0,
-      "attributed": 15.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "WWW.FLUX.AI              SAN FRANCISCOCA",
-      "lines": [
-        {
-          "amount": 15.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "WWW.FLUX.AI              SAN FRANCISCOCA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 28136.73,
-      "attributed": 28136.73,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT TAXWITHDRA        QDEPNJWKZ2ABLKV BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 28136.73,
-          "account": "Payroll clearing account",
-          "description": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT TAXWITHDRA        QDEPNJWKZ2ABLKV BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 897.97,
-      "attributed": 897.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT TAXWITHDRA        RQQBW5OOEDGWWAJ BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 897.97,
-          "account": "Payroll clearing account",
-          "description": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT TAXWITHDRA        RQQBW5OOEDGWWAJ BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 448.82,
-      "attributed": 448.82,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PLIC-SBD         INSUR CLM  241025 PACT#237840568  BST Checking",
-      "lines": [
-        {
-          "amount": 448.82,
-          "account": "Indirect Cost:Payroll Expenses:Retirement Contributions",
-          "description": "BUSINESS TO BUSINESS ACH PLIC-SBD         INSUR CLM  241025 PACT#237840568  BST Checking"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 6600.23,
-      "attributed": 6600.23,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT PAYROLL           OENQOWMENVPNXJM BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 6600.23,
-          "account": "Payroll clearing account",
-          "description": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT PAYROLL           OENQOWMENVPNXJM BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 57259.46,
-      "attributed": 57259.46,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT PAYROLL           7JYDQBLZLVKVEA1 BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 57259.46,
-          "account": "Payroll clearing account",
-          "description": "BUSINESS TO BUSINESS ACH RIPPLING PAYMENT PAYROLL           7JYDQBLZLVKVEA1 BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 55.03,
-      "attributed": 55.03,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
-      "lines": [
-        {
-          "amount": 55.03,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 121.3,
-      "attributed": 121.3,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 121.3,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Kay Rufty- shipipng supplies to project partners (NASA - AREN)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 129.65,
-      "attributed": 129.65,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 129.65,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "- shipipng supplies to project partners (NASA - AREN)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 6.9,
-      "attributed": 6.9,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 6.9,
-          "account": "Indirect Cost:Dues & Subscriptions",
-          "description": "weekly fee"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-27",
-      "doc_number": "",
-      "total": 103.49,
-      "attributed": 103.49,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 103.49,
-          "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
-          "description": "Monthly Trash and Recycling pick up"
-        }
-      ]
     }
   ],
   "purchase_orders": [
@@ -54575,6 +54973,24 @@
     }
   ],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-10-21",
+      "doc_number": "",
+      "total": 1225.0,
+      "attributed": 1225.0,
+      "vendor": "",
+      "customer": "Weather Stream (c)",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1225.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2026-09-25",
@@ -55529,24 +55945,6 @@
       "lines": [
         {
           "amount": 200.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Payment",
-      "date": "2024-10-28",
-      "doc_number": "",
-      "total": 1178.0,
-      "attributed": 1178.0,
-      "vendor": "",
-      "customer": "[038] University of Maryland",
-      "balance": null,
-      "memo": "Paid via QuickBooks Payments: Payment ID 1aa4g2en70425125",
-      "lines": [
-        {
-          "amount": 1178.0,
           "account": "",
           "description": ""
         }

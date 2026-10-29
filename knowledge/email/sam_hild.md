@@ -1,59 +1,76 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 25 (11 previous + 14 new)
-- **Date range:** 23 Oct 2026 – 27 Oct 2026 (5 days)
+- **Total messages scanned:** 42 (25 previous + 17 new)
+- **Date range:** 23 Oct 2026 – 28 Oct 2026 (6 days)
 - **Approximate volume:** Low; ~2-3 human messages per day (excluding automated/promotional)
+- **New activity:** 28 Oct shows sustained engagement on core technical threads
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — 7 messages, external vendor
-2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 5 messages, external (Waveform Engineering)
-3. **Toggl Track** (support@track.toggl.com) — 4 messages, automated/notifications
-4. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — 3 messages, internal
-5. **Asana** (no-reply@asana.com) — 2 messages, automated/notifications
-6. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 1 message, internal
-7. **Jeff Catherwood** (jcatherwood@microhardcorp.com) — 1 message, external
-8. **Veeam Webinar** (webinars@veeam.com) — 1 message, promotional
+1. **Frank Strazzabosco** (microfirm@earthlink.net) — 10 messages, external vendor
+2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 6 messages, external (Waveform Engineering)
+3. **Jack Elston** (elstonj@blackswifttech.com) — 6 messages, internal
+4. **Toggl Track** (support@track.toggl.com) — 5 messages, automated/notifications
+5. **Thinh Nguyen** (thinh991@yahoo.com) — 3 messages, external contact
+6. **Asana** (no-reply@asana.com) — 3 messages, automated/notifications
+7. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — 3 messages, internal
+8. **Anthropic** (no-reply-rZBYYpQNbv3pkGfrPFL6gg@mail.anthropic.com) — 1 message, promotional
+9. **Gemini** (gemini-notes@google.com) — 1 message, meeting notes/automated
+10. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 1 message, internal
+11. **Jeff Catherwood** (jcatherwood@microhardcorp.com) — 1 message, external
+12. **Veeam Webinar** (webinars@veeam.com) — 1 message, promotional
 
 ### Internal Collaborators
-- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — now appears as active correspondent
-- **Jack Elston** (elstonj@blackswifttech.com)
+- **Jack Elston** (elstonj@blackswifttech.com) — Now equally prominent as Frank; drives Core2 and PSNS version discussions
+- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Continues as active collaborator on PSNS rework
+- **Maciej Stachura** (via Asana) — New visibility; assigns milestones on Power Board task
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com)
 - **Joshua Fromm** (josh.fromm@blackswifttech.com)
 - **Cory Dixon** (cory.dixon@blackswifttech.com)
 - **Ethan Domagala** (ethan.domagala@blackswifttech.com)
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com)
 
 ### External Contacts
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Primary hardware/systems contact; now visibly engaged in "PSNS v0.5 Rework Timeline" discussions
-- **Matt Crabtree** (Waveform Engineering) — **NEW:** Appears to be key external partner; drives discussion on PSNS v0.5 rework timeline; coordinates with both Frank and Sam/Ali
+- **Frank Strazzabosco** (microfirm@earthlink.net) — Primary hardware vendor; now visibly involved in Core2/Core 29b iterations and Power Distribution Boards v3.4
+- **Matt Crabtree** (Waveform Engineering) — Key external partner; continues PSNS rework coordination
+- **Thinh Nguyen** (thinh991@yahoo.com) — **NEW:** External contact with direct correspondence to Sam; appears in "Updates?" thread dated 28 Oct; marked IMPORTANT
 - **Jeff Catherwood** (MicroHard Corp) — Secondary hardware contact
 
 ## Topic Patterns
-- **PSNS v0.5 Rework Timeline** — Dominant thread (10+ messages on 27 Oct); involves Frank Strazzabosco, Matt Crabtree, Sam, and Ali Sulehria; marked IMPORTANT
-- **Hardware/Core Development:** Previous focus on grounded pins and Core2 iterations continues
-- **Flight Operations:** Flight test planning mentioned in previous data
-- **Time Tracking:** Toggl Track routine notifications
-- **Project Management:** Asana notifications
+- **PSNS Evolution & Versioning** — **Updated terminology:** "PSNS v1.6 (formerly 0.6)" indicates version escalation from v0.5 rework discussions; active thread 28 Oct involving Jack Elston, Frank Strazzabosco, Sam, and Matt Crabtree
+- **Core2/Core 29b Updates** — Ongoing iterations with Frank Strazzabosco; "Updated Core2 v0.4 with radio grounded pins" and "Updated core 29b" threads on 28 Oct
+- **Power Distribution Boards v3.4** — **NEW:** Frank Strazzabosco forwards power board specifications on 28 Oct; Sam and Thinh Nguyen involved in updates discussion
+- **Power Board Completion Milestone** — **NEW:** Maciej Stachura assigns "Power Board Complete" milestone on [001-07] S3 IRAD project
+- **Hardware/Core Development:** Continues as primary focus area
+- **Time Tracking & Project Management:** Toggl Track and Asana notifications ongoing
 
 ## Communication Patterns
-- **Automated emails:** Toggl Track (4), Asana (2), promotional (1) — comprise ~28% of volume
-- **Peak activity:** Tuesday 27 Oct (10+ messages, majority on PSNS v0.5 rework)
-- **Discussion thread intensity:** PSNS v0.5 rework generated rapid back-and-forth across multiple recipients (27 Oct 11:16–17:58 UTC, ~6.5 hour span)
-- **Email flags:** Frank Strazzabosco and PSNS v0.5 thread messages consistently marked IMPORTANT
-- **Outbound visibility:** Sam sent at least one direct message (11:32 CDT on 27 Oct to Matt Crabtree)
+- **Automated emails:** Toggl Track (5), Asana (3), promotional (2) — comprise ~24% of volume
+- **Peak activity:** 28 Oct (15 messages); sustained technical coordination
+- **Discussion thread intensity:** Multiple parallel threads on 28 Oct:
+  - PSNS v1.6 (9:43 CDT)
+  - Core2/Core 29b updates (10:21–11:55 CDT, ~1.5 hour span)
+  - Power Distribution Boards v3.4 (12:35–12:44 CDT)
+  - Thinh Nguyen "Updates?" thread (12:35–18:42 UTC, cross-timezone)
+- **Email flags:** Frank Strazzabosco messages and PSNS/Core threads consistently marked IMPORTANT
+- **Outbound visibility:** Sam initiates/responds to multiple threads on 28 Oct (PSNS v1.6, Thinh Nguyen updates, Matt Crabtree PSNS rework)
+- **Meeting notes captured:** Gemini meeting notes from "BST Internal Update Meeting" 28 Oct auto-forwarded to Sam
 
 ## Key Relationships
-1. **Frank Strazzabosco** — Primary external technical partner; involved in specification updates and PSNS rework discussions
-2. **Matt Crabtree (Waveform Engineering)** — **NEW PRIMARY:** Emerging as key external collaborator; initiates and drives PSNS v0.5 timeline discussions; coordinates directly with Sam and Ali
-3. **Ali Sulehria** — Active internal collaborator; participates in PSNS discussions; appears to be co-lead on engineering coordination with external partners
-4. **Jack Elston** — Continues as co-recipient on technical updates
+1. **Frank Strazzabosco** — Primary external hardware vendor; dominates technical specification discussions; drives Core2, Core 29b, and Power Distribution Boards updates
+2. **Jack Elston** — **ELEVATED:** Now equally active as Frank; directs PSNS versioning strategy and coordinates with external partners; appears to be internal technical lead
+3. **Matt Crabtree (Waveform Engineering)** — Continues as key external collaborator on PSNS rework; coordinates with Ali Sulehria
+4. **Ali Sulehria** — Active internal collaborator on PSNS specifications
+5. **Thinh Nguyen** — **NEW RELATIONSHIP:** External contact with direct communication on hardware updates; involvement suggests additional engineering coordination beyond Frank Strazzabosco
+6. **Maciej Stachura** — Project manager/coordinator; assigns critical milestones
 
 ## Notable Observations
-- **New external relationship:** Matt Crabtree (Waveform Engineering) is now visible as a significant external stakeholder; PSNS v0.5 rework appears to be a high-priority, time-sensitive coordination effort
-- **Rapid discussion thread:** PSNS v0.5 rework generated 10+ messages in ~6.5 hours on 27 Oct, suggesting active engineering coordination or deadline pressure
-- **Cross-organizational pattern:** Frank Strazzabosco, Matt Crabtree, Sam, and Ali are collaborating on PSNS specification work — suggests multi-vendor engineering effort
-- **PSNS likely a core system:** Given "v0.5" nomenclature and involvement of external engineering firm (Waveform), PSNS appears to be a major subsystem under active iteration
-- Still low overall email volume, but 27 Oct shows concentrated activity around single high-priority thread
-- Previous flight test planning continues in background but not visible in new data
+- **PSNS version jump:** Escalation from v0.5 rework (27 Oct) to v1.6 nomenclature (28 Oct) suggests significant technical progress or scope redefinition within 24 hours
+- **Parallel hardware efforts:** Three distinct hardware threads (Core2/Core 29b, Power Distribution Boards v3.4, PSNS versioning) running concurrently on 28 Oct, indicating high-velocity development phase
+- **Multi-vendor coordination:** Frank Strazzabosco, Thinh Nguyen, and Waveform Engineering (Matt Crabtree) all contributing to hardware/power specifications — suggests complex integration effort
+- **New external contact:** Thinh Nguyen's appearance in "Updates?" thread with IMPORTANT flag indicates direct involvement in hardware deliverables, but organizational affiliation unclear
+- **Internal governance visible:** Jack Elston appears to direct technical decisions and version naming; may be engineering lead
+- **Milestone tracking:** Maciej Stachura's assignment of "Power Board Complete" milestone on S3 IRAD project suggests formal gating/tracking of hardware deliverables
+- **Meeting capture:** Gemini notes from internal BST meeting on 28 Oct forwarded to Sam — may indicate requirement to stay aligned on broader project status
+- **Sustained high intensity:** 28 Oct maintains coordination tempo from 27 Oct PSNS rework spike; suggests active engineering phase or deadline-driven execution

@@ -21,11 +21,11 @@
     "window": "last 365 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-10-23",
-    "completed": 2,
+    "as_of": "2026-10-29",
+    "completed": 0,
     "name": "[001-04] S0 VTOL IRAD",
-    "open": 37,
-    "window": "last 365 days"
+    "open": 39,
+    "window": "last 90 days"
   },
   "001-05_s1_irad.md": {
     "as_of": "2026-10-23",
@@ -42,10 +42,10 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-10-28",
-    "completed": 12,
+    "as_of": "2026-10-29",
+    "completed": 13,
     "name": "[001-07] S3 IRAD",
-    "open": 92,
+    "open": 94,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
@@ -182,10 +182,10 @@
     "window": "last 365 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 207,
+    "open": 209,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -469,7 +469,7 @@
     "window": "last 365 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "completed": 2,
     "name": "[600-1] SOCOM Pope",
     "open": 60,
@@ -546,10 +546,10 @@
     "window": "last 365 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-29",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
-    "open": 10,
+    "open": 12,
     "window": "last 90 days"
   },
   "view_operator_training_flights.md": {

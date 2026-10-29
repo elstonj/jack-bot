@@ -1,11 +1,8 @@
 # Unmapped Customers
 
-_Generated 2026-10-27 03:21 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
+_Generated 2026-10-29 03:48 — customers who have emailed info@/sales@ but aren't yet tracked as Asana Commercial Sales tasks._
 
 | Latest | Domain | # Emails | Recent subjects |
 |--------|--------|----------|-----------------|
 | 2026-10-22 | lionpowerengineering.com | 1 | Battery system for Black Swift UAS |
-| 2026-10-22 | ks-ic.com | 1 | Electronic Components for UAV |
-| 2026-10-22 | gmail.com | 2 | Summer 2027 engineering internship inquiry · Application: Junior Software Developer - Bach (James) Nguyen |
-| 2026-10-22 | ayaatech.com | 2 | Re: drone BMS customization and battery solution- from AYAA |
-| 2026-10-21 | tscpublishing.com | 1 | Be part of the next edition of ON&T: The Future of Ocean Technology, Vol. 7 |
+| 2026-10-22 | gmail.com | 1 | Summer 2027 engineering internship inquiry |

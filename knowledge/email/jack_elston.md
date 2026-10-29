@@ -1,170 +1,216 @@
 # Jack Elston — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned**: 55 emails across three data pulls
-- **Date range**: 24 Oct – 27 Oct 2026 (4 days)
-- **Approximate volume**: 12–14 emails per day
-- **Note**: Volume increased significantly in latest pull (Oct 26–27), suggesting active work period or project deadline
+- **Total messages scanned**: 155 emails (55 previous + 100 new data)
+- **Date range**: 24 Oct – 29 Oct 2026 (6 days)
+- **Approximate volume**: 12–18 emails per day
+- **Trend**: Sustained high activity Oct 28–29 (40+ emails in 2 days), indicates active project phase or major deliverables/meetings
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Rippling** (5 emails) — HR/payroll/admin platform (I-9 inspections, task reminders, onboarding confirmations)
-2. **American Geophysical Union** (2 emails) — Professional newsletters (Earth/Planetary Surface Processes, Volcanology/Geochemistry/Petrology)
-3. **Frank Strazzabosco** (microfirm@earthlink.net) (3 emails) — Hardware/technical updates (Core updates, radio grounded pins)
-4. **NOAA Federal contacts** (2 emails) — Joe Cione and Nikolai Pawlenko (government operations/orders)
-5. **Russ Vanderwerff** (Aerostar) — Strategic partnership discussion
-6. **Yury Kapacheuski** (UAV LAS) — Technical/operational contact (E2 inspections, fixed-wing recovery)
-7. **Kay Rufty** (kayaerokats@gmail.com) — Video project collaboration
-8. **Shelly Dvorak** (krateosky.com) — AGU 2026 conference coordination
-9. **Various external business development contacts** (Mia Carter, Brian DeRose, Diana Meyers, Eddy Realegeno)
+1. **Rippling** (7 emails) — HR/payroll/admin platform (I-9 inspections, task reminders, onboarding)
+2. **American Geophysical Union** (3 emails) — Professional newsletters (Volcanology, Earth/Planetary Surface Processes)
+3. **Frank Strazzabosco** (Microfirm) (5 emails) — Hardware updates (Core 29b, Core2 v0.4, radio pin configurations)
+4. **Krateo Sky** (Shelly Dvorak, Cory Dixon, Sona Raziabeegum, Bob Smith, Brian Grubel) (25+ emails) — **Primary external partner** (integration reviews, certifications, NOAA coordination, DD254/clearance)
+5. **NOAA Federal** (Matthew Burgess, John Walker, Nikolai Pawlenko, Joe Cione) (8+ emails) — Government operations, RPP Container Boxes project
+6. **Daniel Prendergast** (Black Swift internal) (5+ emails) — GCS NTI Systems inquiry, RAVEN Project Kickoff, operations coordination
+7. **Beck Cotter** (Black Swift internal) (6+ emails) — Operations, referrals, facility/logistics coordination
+8. **Maciej Stachura** (Black Swift internal) (10+ emails) — S0-ISR project, white papers, DD254 clearance, Vantor meeting follow-up
 
 ### Top Recipients (Internal)
 - **Primary email**: `elstonj@blackswifttech.com` (most common)
-- **Alias/alternate domain**: `elstonj@bst.aero` (used frequently, appears to be newer domain)
+- **Alternate domain**: `elstonj@bst.aero` (appearing with increasing frequency, now confirmed as active domain)
 - **Also receives**: `jack.elston@blackswifttech.com`
 
-### Internal Collaborators (by frequency)
-- **Sam Hild** (sam.hild@blackswifttech.com) — Hardware/technical collaboration
-- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Hardware/technical collaboration
-- **Maciej Stachura** (stachura@blackswifttech.com) — Operations/government contracts (S0-ISR project)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Flight test planning, NOAA coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — Operations/facilities
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Flight test coordination
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — Flight testing
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Flight testing
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — Flight testing
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — Flight testing
+### Internal Collaborators (by frequency in new data)
+1. **Maciej Stachura** (stachura@blackswifttech.com) — 10+ emails, S0-ISR, white papers, facility clearance, strategic meetings
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 5+ emails, GCS NTI Systems, RAVEN Project, flight testing
+3. **Cory Dixon** (cory.dixon@blackswifttech.com) — 5+ emails, flight testing, Krateo integration, white papers
+4. **Joshua Fromm** (josh.fromm@blackswifttech.com) — 4+ emails, NOAA presentations, flight operations, RAVEN project
+5. **Beck Cotter** (beck.cotter@blackswifttech.com) — 6+ emails, operations, logistics, referrals
+6. **Sam Hild** (sam.hild@blackswifttech.com) — 3+ emails, hardware updates (PSNS v1.6), firmware collaboration
+7. **Meredith Needham** (meredith.needham@blackswifttech.com) — 4+ emails, HR rate discussions, NOAA coordination, invoicing
 
-### Internal vs External Breakdown
-- **Automated/Internal tools**: ~20% (Rippling, Adobe, Deel, Toggl, AGU, Drones journal)
-- **Internal human contacts**: ~25%
+### Internal vs External Breakdown (new data)
+- **Automated/Internal tools**: ~15% (Rippling, AGU, Google Calendar, Gemini notes, NASA SBIR)
+- **Internal human contacts**: ~30%
 - **External human contacts**: ~55%
 
 ## Topic Patterns
 
 ### Active Projects & Codenames
-- **S0 (or S0-ISR)** — Government contract/project (appears in correspondence with Maciej Stachura to UK MOD, NOAA orders coordination)
-- **E2 inspections** — Drone inspection/recovery application (Yury Kapacheuski/UAV LAS)
-- **SwarmSonde** — Drone payload/capability (referenced in earlier data)
-- **Black Swift S2** — Drone platform (referenced in earlier data)
-- **Nepal mapping** — Active field project (referenced in earlier data)
-- **Core2 v0.4, Core 29b** — Hardware/firmware versions (Frank Strazzabosco updates)
+- **S0-ISR / S0 Carrier (WP-BST-006)** — Government contract with UK MOD and NOAA (Revision B white paper, NOAA review responses, Krateo integration, DD254 clearance required)
+- **RAVEN Project** — New military/government project (Kickoff meeting scheduled, site visit coordinated, UK MOD, Lockheed Martin, Navy NAWCAD participants)
+- **European Certification (Black Swift S2 & SwarmSonde)** — Regulatory pathway coordination with Krateo Sky (Sona Raziabeegum leading)
+- **Black Swift Weekly Integration Review** — Recurring Krateo Sky partnership status meeting (28 Oct notes show active technical integration)
+- **RPP Container Boxes** — NOAA logistics/operational project (Matthew Burgess coordination, multiple iterations)
+- **Black Swift TEM (Transient Electromagnetic)** — Vantor partnership exploration (Rapp, Michael - Vantor contact, technical application discussion)
+- **PSNS v1.6** (formerly v0.6) — Firmware/software system (Frank Strazzabosco, Sam Hild collaboration)
+- **Core 29b, Core2 v0.4** — Hardware iterations (Frank Strazzabosco updates on radio grounded pins)
+
+### White Papers
+- **WP-BST-006 (S0 Carrier)** — Multiple revisions, NOAA responses, internal coordination across teams
+- **Soil Moisture White Paper** — Academic collaboration (Al Gasiewski, UC Boulder)
+- **White Paper Updates** — Team-wide coordination email (28 Oct) with Krateo partners
 
 ### Conference/Events
-- **AGU 2026** — American Geophysical Union conference (Shelly Dvorak/Krateo Sky coordination, Brenda Lane)
-- **Video Project** — Unspecified video/media project with Kay Rufty
+- **AGU 2026** — Still active (professional interest newsletters)
+- **AMS Annual Meeting 2027** — Registration announcement (emerging interest)
+- **CSBR Student Ambassadors 2026** — Mentor inquiry (Kristin Thomas, Red Canyon Software)
 
 ### Government & Institutional Contacts
-- **NOAA** — Monthly meetings (Joe Cione, Nikolai Pawlenko) for S0 orders and operations
-- **US Navy** — VPU2 introduction (Austin L. Vorwald LCDR USN)
-- **UK MOD** — S0-ISR project (Simon Laurence MOD.gov.uk contact)
-- **DoD** — (from earlier data) SBIR/STTR funding
+- **NOAA** — Monthly operations, S0 orders, RPP Container logistics (Matthew Burgess primary contact)
+- **UK MOD** — S0-ISR project (Simon Laurence MOD.gov.uk contact, referenced in RAVEN project)
+- **US Navy (NAWCAD)** — RAVEN Project participants (Ruiz-Reyes, Brescia CIV USN NAWCAD)
+- **Lockheed Martin** — RAVEN Project partner (Morphett, Neil; Shah, Dhruti)
+- **NASA** — S2 delivery coordination (Enos, Wesley R. ARC-QS), SBIR/STTR program monitoring
+- **University of Colorado Boulder** — Academic collaboration (Brian Argrow, Eric Frew, Al Gasiewski)
+- **University of Waterloo** — Student recruitment (Shivam Khatri, firmware co-op candidate)
 
 ### Hardware/Technical Vendors
-- **Frank Strazzabosco** (Microfirm) — Core board updates, radio pin configurations
-- **Jeff Catherwood** (Microhard Corp) — Radio hardware specifications
-- **Yury Kapacheuski** (UAV LAS) — Precision landing, fixed-wing recovery systems
-- **Aerostar** (Russ Vanderwerff) — Strategic partnership discussion on synergies
+- **Frank Strazzabosco (Microfirm)** — Core board updates, radio pin configurations, PSNS firmware
+- **Vantor** — Strategic technical partnership (TEM/geophysics application, Michael Rapp contact, site visit occurred)
+- **Aeronet Worldwide** — Vendor payment processed (QB Bill Pay)
+- **Boostr Consulting LLC** — R&D invoice (2025 work)
+- **Waveform Engineering, LLC** — Vendor payment processed
 
 ### Business Development/Partnerships
-- **Krateo Sky** (Shelly Dvorak, Scott, Sona) — Conference coordination and partnerships
-- **Aerostar** (Russ Vanderwerff) — "Possible synergies" discussion (IMPORTANT, UNREAD)
-- **Yellowfin Innovate** (Mia Carter) — Coffee/relationship building
-- **Off Deal Biz** (Brian DeRose) — Outreach/partnership inquiry
-- **Funderables** (Diana Meyers) — Potential funding/acquisition contact
-- **Core Sig Partners Investments** (Eddy Realegeno) — Owner/leadership inquiry
+- **Krateo Sky** (Shelly Dvorak, Sona Raziabeegum, Bob Smith, Brian Grubel, Cory Dixon) — **MAJOR ACTIVE PARTNERSHIP**: Weekly integration reviews, European certification pathway, NOAA PR connection, DD254 facility clearance coordination, multiple IMPORTANT emails indicating deep technical integration
+- **Vantor** (Michael Rapp, Naresh Shah, Andreas Rasmussen, Lawrence Hudy) — TEM (transient electromagnetic) exploration, site visit completed, follow-up meeting scheduled
+- **GCS NTI Systems** — Inquiry forwarded by Daniel Prendergast (Daniel to Jack for review/response)
+- **Yellowfin Innovate** (Mia Carter) — Relationship building (coffee reference from prior data)
+- **Aerostar** — Strategic partnership discussion (from prior data, still active)
 
 ### HR & Operations
-- **Lynn Regnier** — New hire (CPA, Plant Controller) — multiple I-9 and onboarding emails
-- **Robert Edson** — Employee document verification
-- **Facilities**: 2840 Wilderness Pl Suite C/D — Lease/door transition work
+- **New hires onboarding**:
+  - **Lynn Regnier** (CPA, Plant Controller) — I-9 inspection reminders (Rippling), calendar meeting scheduled (Oct 29 9:30am MDT)
+  - **Brandon Messersmith** — I-9 inspection reminders (Rippling)
+- **Contractor rate discussions** — Ben Busby, Meredith Needham (1099 hourly rate negotiations)
+- **Drive audit review** — Brandon Messersmith sent audit findings, Jack holding cleanup plan
+- **Facilities** — 2840 Wilderness Pl Suite C/D (continued operations)
+
+### Recruitment & Talent
+- **Shivam Khatri** (University of Waterloo) — Firmware co-op candidate, interested in S0 platform (Jack suggested resume submission)
+- **Penn Wharton student** — Recruitment inquiry (from prior data, pattern continues)
+- **CSBR Student Ambassadors 2026** — Mentor recruitment
 
 ## Communication Patterns
 
 ### Timing & Time Zones
-- **Highly active across multiple time zones**: UTC, -0700 (PDT), -0600 (MDT), -0500 (EDT), -0400, +0100 (UK/Europe)
-- **Recent spike**: Oct 26–27 shows intense activity (likely weekday work + international coordination)
-- **Evening/early morning coordination**: Suggests coordination with European partners (UK MOD, EU contacts)
+- **Highly active across multiple time zones**: UTC, -0700 (PDT), -0600 (MDT), -0500 (EDT), -0400 (EDT), +0000 (UK/GMT), +0100 (UK winter)
+- **Intense spike Oct 28** (13+ hours of activity across 7 time zones): NOAA presentations, Krateo integration reviews, S0-ISR white paper responses, Vantor follow-up, Navy RAVEN project coordination
+- **International coordination evident**: UK MOD (Laurence), Europe (Thibault Bridel-Bertomeu, Krateo), NOAA across US, US Navy international affairs
 
 ### Email Address Patterns
-- **Three distinct email addresses in use**:
-  - `elstonj@blackswifttech.com` (original/primary)
+- **Three domains now clearly in use**:
+  - `elstonj@blackswifttech.com` (original/legacy)
   - `jack.elston@blackswifttech.com` (full name variant)
-  - `elstonj@bst.aero` (new domain, appearing frequently in latest data — likely recent migration/rebrand)
-- **Inconsistent use suggests domain transition in progress**
+  - `elstonj@bst.aero` (new domain, appearing frequently in new data — **domain transition now confirmed as active**)
+- **Recipients addressing Jack**: Mix of all three, suggesting simultaneous use / migration in progress
 
-### Administrative Burden
-- **Rippling reminders**: I-9 inspections, task completions, onboarding confirmations — indicates Jack has **HR/admin approval responsibilities** (possibly Operations Manager or People Ops role)
-- **Meeting coordination**: Multiple calendar invites for flight testing, NOAA coordination, payroll enablement calls
+### Administrative Responsibilities (Expanded)
+- **HR/Onboarding approval authority**: I-9 inspections, new hire document verification, onboarding confirmations (Rippling reminders indicate Jack is approval gatekeeper)
+- **Contractor/vendor rate approval**: Ben Busby 1099 rate negotiation routed through Jack
+- **Finance/operations coordination**: RPP Container logistics, QB Bill Pay approvals, Meredith Needham vendor invoice coordination
+- **Recruitment involvement**: Student recruiter referrals, co-op candidate evaluation
+- **Email moderation**: Careers alias management (from prior data, likely continues)
+- **Facility/logistics**: Door transition work, referral requests coordination
 
-### Group Communication
-- **Flight test planning**: Large group (9+ internal participants) on Oct 26
-- **NOAA/Black Swift monthly**: Recurring meeting structure with federal partners
-- **Payroll/HR meetings**: Deel payroll enablement call scheduled Nov 23
+### Group Communication Patterns
+- **Krateo Weekly Integration Review** — Large recurring meeting (20+ Krateo + Black Swift participants), structured agendas, follow-up action items
+- **NOAA monthly coordination** — Recurring cadence with multiple NOAA federal contacts
+- **White Paper coordination** — Cross-functional internal + external partner (Krateo) team (8+ participants)
+- **Flight test planning** — Large internal group (9+ participants from prior data)
+- **RAVEN Project coordination** — International team (UK MOD, Navy, Lockheed Martin, Bartington, Black Swift)
 
 ### Newsletters/Automated
-- **American Geophysical Union** (2 digests: Volcanology and Earth/Planetary Surface Processes) — professional/technical interest
-- **Drones journal** (MDPI) — Editor's Choice articles — industry monitoring
-- **Government opportunities** (from earlier data) — DoD grants monitoring
-- **Spam digest** — Email moderation responsibilities (careers@blackswifttech.com moderators list)
+- **American Geophysical Union** (digests: Volcanology & Earth/Planetary Surface Processes)
+- **Drones journal** (MDPI Editor's Choice)
+- **AMS Annual Meeting** (registration announcement)
+- **NASA SBIR/STTR Program** (BAA webinar resources)
+- **Google Calendar notifications** (White Paper #6 discussion, meeting reminders)
+- **Gemini Notes** (Google Doc auto-save notes from Oct 28 "BST Internal Update Meeting")
+- **Google Docs comments** (collaborative editing on RAVEN UK project doc)
 
-### Outreach/Business Development
-- **Inbound inquiries**: Multiple unsolicited business development emails (Brian DeRose, Mia Carter, Diana Meyers, Eddy Realegeno) suggesting Jack is a known contact for partnerships/leadership inquiries
-- **Recruitment**: Penn student inquiry (Chakraborty, Pratyush) about company interest
+### Outreach & External Relationships
+- **Inbound business development**: Geotech Environmental (Jeff Popiel UAS inquiry), Vantor follow-up, GCS NTI Systems, recruitment inquiries
+- **Mentoring/speaking**: CSBR Student Ambassadors program participation
+- **Academic outreach**: Al Gasiewski (soil moisture), Peggy Shell (Creative Alignments tech leader networking)
+- **Recruiter coordination**: HireNexus (from prior data)
 
 ## Key Relationships
 
-### Internal Close Collaborators (by frequency & context)
-1. **Sam Hild & Ali Sulehria** (Hardware engineering) — Frequent hardware/firmware update collaboration
-2. **Maciej Stachura** (Operations/Government contracts) — S0-ISR project lead, UK MOD coordination
-3. **Joshua Fromm** (Flight Operations/NOAA) — NOAA coordination, monthly meetings
-4. **Spencer Hoehl** (Flight Test Lead) — Flight test planning, team coordination
-5. **Beck Cotter** (Operations) — Facilities, logistics, general ops support
+### Internal Strategic Leaders (by frequency & decision authority)
+1. **Maciej Stachura** — Operations/Government contracts lead (S0-ISR, white papers, facility clearance, strategic meetings with Vantor, RAVEN project coordination)
+2. **Daniel Prendergast** — Flight operations/technical projects (GCS NTI Systems evaluation, RAVEN Project lead, international coordination)
+3. **Joshua Fromm** — NOAA/Federal affairs (NOAA presentations, RPP logistics, RAVEN project participation)
+4. **Cory Dixon** — Flight testing + Krateo liaison (technical integration, white papers, flight operations)
+5. **Beck Cotter** — Operations/logistics/facilities (venue coordination, referrals, vendor management)
+6. **Sam Hild** — Hardware engineering lead (firmware updates, core iterations)
 
-### External Strategic Partnerships
-1. **Aerostar** (Russ Vanderwerff) — Strategic partnership discussion (marked IMPORTANT, suggesting active deal)
-2. **NOAA** (Joe Cione, Nikolai Pawlowski) — Government customer with recurring monthly touchpoint and S0 orders
-3. **UK MOD** (via Maciej Stachura/Simon Laurence) — Government contract (S0-ISR)
-4. **UAV LAS** (Yury Kapacheuski) — Technical partner for precision landing/fixed-wing systems
-5. **Krateo Sky** (Shelly Dvorak) — Conference/event partnership and coordination
+### External Strategic Partners (by importance & frequency)
+1. **Krateo Sky** (Shelly Dvorak, Sona Raziabeegum, Bob Smith, Brian Grubel, Cory Dixon, Don Spinozzi, Tim Hegwood, Jed Leonard, Adria Passola, Ariel Avitan, Lluis Pedragosa, Thibault Bridel-Bertomeu, Dipan Amin, Lisa Marie Cheney, Pam Kermisch, Ellen McCarthy, Roger Riley, Jasmine Khambatta, Bob Gold)
+   - **Status**: CRITICAL ACTIVE PARTNERSHIP
+   - **Scope**: European certification pathway (S2, SwarmSonde), weekly integration reviews, NOAA PR coordination, DD254 facility clearance, white paper collaboration, technical integration
+   - **Intensity**: 25+ emails in 6 days, multiple IMPORTANT flags, large team coordination (25+ people across both companies)
+
+2. **NOAA Federal** (Matthew Burgess primary, Joe Cione, Nikolai Pawlenko, John Walker, Caitlin Wilson, Alan S. Goldstein, Brian Richards, Danielle Varwig, Lisa Nakamura, Mark Rogers, Matthew Jaskoski)
+   - **Status**: PRIMARY GOVERNMENT CUSTOMER
+   - **Scope**: S0 orders, RPP Container logistics, monthly operations meetings, NOAA presentations
+   - **Intensity**: 8+ emails, recurring touchpoints
+
+3. **UK MOD / RAVEN Project** (Simon Laurence MOD.gov.uk, Lockheed Martin Morphett/Shah, Bartington tom.simcox, Navy NAWCAD Ruiz-Reyes/Brescia)
+   - **Status**: ACTIVE GOVERNMENT CONTRACT + NEW PROJECT
+   - **Scope**: S0-ISR contract continuation, new RAVEN Project Kickoff, site visit scheduling
+   - **Intensity**: Emerging (new IMPORTANT coordination emails)
+
+4. **Vantor** (Michael Rapp primary, Naresh Shah, Andreas Rasmussen, Lawrence Hudy, Grant Boerhave)
+   - **Status**: EMERGING STRATEGIC PARTNERSHIP
+   - **Scope**: TEM/geophysics technical exploration, site visit completed, follow-up meeting scheduled
+   - **Intensity**: Multiple IMPORTANT emails, active negotiation phase
 
 ### External Technical Vendors
-- **Frank Strazzabosco** (Microfirm) — Hardware design/core board updates
-- **Jeff Catherwood** (Microhard Corp) — Radio hardware specs
-- **Aerostar** — Possible product integration
+- **Frank Strazzabosco (Microfirm)** — Core board design, hardware iterations, firmware (PSNS v1.6)
+- **Microhard Corp** (Jeff Catherwood) — Radio hardware specs
+- **Aeronet Worldwide** — Vendor (payment processing)
+- **Boostr Consulting LLC** (Thierry Lepoutre) — R&D consulting
+- **Waveform Engineering** (Matt Crabtree) — Hardware/engineering vendor
 
-### External Business Development Contacts
-- **Yellowfin Innovate** (Mia Carter) — Informal outreach
-- **Off Deal Biz** (Brian DeRose) — Investor/partnership inquiry
-- **Funderables** (Diana Meyers) — Funding/M&A inquiry
-- **Core Sig Partners Investments** (Eddy Realegeno) — Leadership/ownership inquiry
-- **HireNexus** (Amy Searles, Stacy Reeves) — Recruiting/staffing coordination
+### Academic & Institutional
+- **University of Colorado Boulder** — Collaboration (Brian Argrow, Eric Frew, Vantor meeting attendees)
+- **University of Waterloo** — Student recruitment (Shivam Khatri, firmware co-op)
+- **UC Boulder** (Al Gasiewski) — Soil Moisture white paper collaboration
 
-### Institutional/Academic
-- **Penn Wharton** (Chakraborty, Pratyush) — Student recruitment/interest
-- **Boulder Valley School District** (Carl Sanchez) — Educational partnership/guest speaker program
+### Business Development
+- **Geotech Environmental** (Jeff Popiel) — UAS inquiry/opportunity
+- **GCS NTI Systems** — Partnership inquiry (forwarded via Daniel Prendergast)
+- **Red Canyon Software** (Kristin Thomas) — CSBR student ambassador mentor recruitment
 
 ## Notable Observations
 
-- **Domain transition in progress**: `bst.aero` domain appearing frequently in latest pull alongside legacy `blackswifttech.com` domain — likely recent rebrand or domain acquisition. Suggests company evolution or market positioning shift.
+- **Krateo Sky is now the dominant external relationship**: 25+ emails in 6 days with structured weekly integration reviews involving 25+ participants across companies. Scope spans technical integration, regulatory certification (European pathway), government customer coordination (NOAA PR), facility clearance (DD254), and white paper collaboration. This appears to be either a major joint venture, acquisition pathway, or deep product integration partnership — far more intensive than any prior contact.
 
-- **Significant admin/operational responsibilities**: Multiple Rippling HR approvals, onboarding management, facilities coordination — Jack appears to hold **Operations Manager or VP Operations role** in addition to any technical/commercial function.
+- **New RAVEN Project represents significant military opportunity**: Kickoff email from Daniel Prendergast to UK MOD (Simon Laurence), Lockheed Martin, Navy NAWCAD, and Bartington indicates Black Swift entry into larger defense ecosystem. Site visit already scheduled. This is a significant escalation in government contracting scope.
 
-- **Government contracting is core business**: Two active government contracts visible (NOAA, UK MOD S0-ISR), recurring coordination, and formal military introduction (Navy VPU2) suggest defense/government is primary revenue stream.
+- **Vantor (TEM/geophysics) partnership at critical juncture**: Site visit completed, follow-up meeting scheduled with internal stakeholders (Maciej, Daniel, Cory, plus external Vantor/CU Boulder attendees). Appears to be technology integration exploration (geophysics sensor application) or potential acquisition interest.
 
-- **Aerostar partnership is active/hot**: Marked IMPORTANT and UNREAD, with draft response prepared — suggests potential integration, acquisition, or major partnership negotiation underway.
+- **Domain transition now in full swing**: `bst.aero` domain appearing in inbound email addresses (e.g., Shivam Khatri sending to `elstonj@bst.aero`, NASA invoice sent to `invoices@bst.aero`). Suggest company rebrand or new market positioning (`.aero` is aviation-specific TLD) is now live, not just planned.
 
-- **International scope expanding**: UK MOD, EU contacts (from earlier data), NOAA coordination across US, Canadian time zones indicate truly global operations. Recent emphasis on European certification pathway (earlier data).
+- **Government contracts require DD254 facility clearance**: Bob Smith (Krateo), Maciej Stachura, Jack coordinating on DD254 documentation and facility clearance requirements — indicates contracts require facility-level security clearance (likely due to ITAR, DoD export controls). This is now a critical path item for Krateo partnership.
 
-- **Hardware development active**: Frequent updates from Strazzabosco (Microfirm) on core board iterations and radio pin configurations suggest ongoing product development/iteration cycle for drone platform(s).
+- **Jack holds significant operational authority**: I-9 approval responsibility (Rippling), contractor rate approval (Ben Busby), HR/onboarding gate, facilities coordination, budget/vendor approvals (QB Bill Pay routing). Jack is clearly COO or VP Operations — not just technical or commercial lead.
 
-- **AGU 2026 conference is significant**: Multiple coordination emails with Krateo Sky (Shelly Dvorak) and Brenda Lane suggest Black Swift is participating prominently (sponsorship, booth, speaking, or major announcement planned).
+- **International scope expanding rapidly**: UK MOD (RAVEN), Krateo (European partners: Thibault France, multiple EU participants), Lockheed Martin, Navy international (NAWCAD handles defense international cooperation), University of Waterloo (Canada), Bartington (UK). Black Swift is now operating globally across defense, energy (TEM/geophysics), and civilian applications.
 
-- **Flight testing is underway**: Large recurring group with 9+ internal participants (Spencer Hoehl organizing) suggests active flight test campaign with structured testing program.
+- **White paper strategy is central to business development**: Multiple white papers (S0-ISR Revision B, Soil Moisture, ongoing series), coordinated releases, NOAA/academic collaboration indicates thought leadership positioning — likely used for government proposal wins and partnership validation.
 
-- **High-profile inbound interest**: Multiple unsolicited inquiries from investors (Funderables), operators (Brian DeRose), and leadership consultants (Eddy Realegeno) suggest Black Swift is gaining market visibility — Jack is likely known as public-facing point of contact.
+- **NOAA is structured recurring customer**: Monthly meetings, S0 orders, RPP logistics coordination, NOAA PR connection coordination via Krateo suggests NOAA is anchor customer (not one-off project) with ongoing operational relationship.
 
-- **Email moderation responsibilities**: Jack appears on spam moderation team for careers@blackswifttech.com, suggesting involvement in hiring/recruitment strategy.
+- **Hardware development cycle active**: Frank Strazzabosco weekly updates on Core board iterations (Core 29b, Core2 v0.4, PSNS v1.6) suggest continuous product iteration, likely driven by government contract requirements (NOAA/MOD specs) or Krateo partnership integration needs.
 
-- **Recruiting active**: New hire (Lynn Regnier, CPA, Plant Controller) indicates scaling of finance/operations team; Penn student inquiry suggests active campus recruitment.
+- **Recruitment scaling up**: Brandon Messersmith (new hire, likely ops/IT based on drive audit role), Lynn Regnier (CPA, Plant Controller), student co-op recruitment (Shivam Khatri), referral requests (Beck Cotter) all indicate company growth phase.
+
+- **Business development is highly distributed**: Jack personally coordinating with Krateo leadership, Vantor executives, NOAA federal contacts, Navy NAWCAD, UK MOD, and university partners — suggests Jack is either founder/CEO or C-level commercial lead with direct stakeholder relationships across all major accounts and partnerships.
+
+- **Email moderation/operations burden is significant**: Jack approving I-9s, routing contractor rates, handling facility logistics, moderating careers email — suggests either very lean HR/ops team or Jack's operational title carries broad functional responsibility.

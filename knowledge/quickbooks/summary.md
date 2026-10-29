@@ -1,66 +1,53 @@
 # BST Financial Overview (QuickBooks)
-**Report Period:** October 26–27, 2026  
-**Data Range:** April 5, 2024 – November 2, 2026
+**Period: October 27 – November 4, 2026**
 
 ---
 
-## Company Totals
-
-| Metric | Amount |
-|--------|--------|
-| **Total Revenue (Invoices)** | $24,119.36 |
-| **Total Expenses (Bills + Purchases)** | $1,809,603.50 |
-| **Total Purchase Orders** | $13,948.00 |
-| **Net Income** | **-$1,785,484.14** |
-
-**Key Finding:** BST is operating at a significant deficit. Expenses exceed revenue by **$1.79 million** over the 31-month period.
+## Company Totals (3-Day P&L Period)
+- **Total Revenue (Invoices):** $0.00 *(no new invoices in this 3-day window)*
+- **Total Expenses:** $9,991.35
+  - Facilities (Rent + Supplies): $9,972.80
+  - R&D: $18.55
+- **Net Income (Period):** **-$9,991.35**
 
 ---
 
 ## By Project/Class
+**Cumulative Performance (April 2024 – November 2026)**
 
-### **BST Internal**
-| Category | Amount |
-|----------|--------|
-| Revenue | $24,119.36 |
-| Expenses | $1,809,603.50 |
-| Purchase Orders | $13,948.00 |
-| **Net Position** | **-$1,785,484.14** |
-| **Transactions** | 1,700+ |
-
-**Activity Note:** No new invoices in the Oct 12–Nov 2 period. Recent expenses (+$3,999.75) added Oct 12–Nov 2.
+| Project | Total Revenue | Total Expenses | Net Position | Status |
+|---------|---|---|---|---|
+| **Government** | $6,834,761.00 | $1,841,080.34 | **+$4,992,848.66** | Healthy |
+| **Commercial** | $3,083,803.62 | $249,582.28 | **+$2,834,221.34** | Healthy |
+| **BST Internal** | $24,119.36 | $1,813,981.93 | **-$1,789,862.57** | Deficit |
+| **TOTAL** | **$9,942,683.98** | **$3,904,644.55** | **$5,038,039.43** | Profitable Overall |
 
 ---
 
 ## Cash Flow Indicators
 
-### Outstanding Receivables
-- **Accounts Receivable Balance:** Not explicitly stated in report; however, only $24,119.36 in total invoices suggests minimal customer revenue generation.
+### Accounts Receivable (Outstanding)
+- **Government:** $5,716,151.82 outstanding (116 active invoices)
+- **Commercial:** Invoice #1779 (Murphy's Pond CH4) - $24,579.28 outstanding since Aug 31, 2026
+- **BST Internal:** No recent invoicing activity
 
-### Recent Expense Activity
-- **Oct 5–12, 2026:** +$73,982.13
-- **Oct 12–Nov 2, 2026:** +$3,999.75
-- **Trend:** Declining expense rate in most recent period
+**Total A/R: ~$5,740,731** *(significant receivables; collection status should be reviewed)*
 
-### Project Status
-- **BST Internal:** Only classified project; shows minimal revenue activity (no new invoices in Oct 12–Nov 2 period) but ongoing expense obligations.
+### Recent Large Expenses (Oct 27 – Nov 4)
+- Facilities Rent: $9,769.72
+- Shop Supplies: $203.08
+- R&D: $18.55
+
+### Activity Status
+- **Government & Commercial:** Actively invoicing; no gaps noted
+- **BST Internal:** **No new invoices in Oct 27–Nov 4 period** (may indicate internal-only status or completion of billing cycle)
 
 ---
 
 ## Unclassified Transactions
-
-No data provided on transactions outside "BST Internal" classification. All 1,700+ transactions are attributed to the single BST Internal project.
+None identified. All transactions assigned to project classes (Government, Commercial, BST Internal).
 
 ---
 
-## Summary & Concerns
-
-⚠️ **Critical Issues:**
-1. **Severe Revenue Shortfall:** $24K revenue vs. $1.81M in expenses indicates BST is a cost center, not a revenue generator, or invoicing is significantly lagging.
-2. **No Recent Invoice Activity:** Zero new invoices in the past 3 weeks signals either completed work or invoicing delays.
-3. **Deficit Sustainability:** At current burn rate (~$58K/month), existing resources are depleting rapidly.
-
-**Recommended Actions:**
-- Investigate outstanding invoices and collection status
-- Review expense breakdown by category
-- Clarify revenue recognition policy (invoices may be pending)
+## Summary Assessment
+**Overall Position: Strong** — Company shows $5M+ cumulative profitability driven by Government ($5.0M) and Commercial ($2.8M) projects. However, BST Internal operations carry a $1.79M deficit. Monitor A/R collection (particularly $5.7M Government receivable) and BST Internal cost controls.

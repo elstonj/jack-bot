@@ -1,43 +1,49 @@
-_Asana snapshot as of 2026-10-28: 10 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-10-29: 12 open tasks, 0 completed (last 90 days)._
 
 # Major Milestones & Tasks
 
 ## Overview
-- **Client/Customer:** Not apparent from task names
-- **Dollar value:** Not specified in custom fields
-- **Timeline:** October 2026 – November 2026
-- **Status:** Active (10 open milestones, no completed tasks)
-- **Team members involved:** Unassigned across all tasks
-- **Risk signals:** 
-  - All 10 milestones are unassigned (no ownership clarity)
-  - 2 milestones have no due date (Build 2 INSTAAR S3's, Build UMES S3)
-  - Dense cluster of October/November 2026 deadlines suggests compressed delivery window
+- **Client/Customer**: Not explicitly stated; appears to be internal BST aircraft development and testing program
+- **Dollar Value**: Not specified in task data
+- **Timeline**: October 2026 – December 2026
+- **Status**: Active — all 12 tasks open; no completed tasks
+- **Team Members Involved**: Sam Hild, Jack Elston, Josh Fromm, Maciej Stachura, plus 6 unassigned milestones
+- **Risk Signals**: 
+  - Multiple milestones with near-term due dates (October 2026 start)
+  - 6 of 12 milestones are unassigned, including "Conduct Mission" (due 2026-10-01) and "Ship Aircraft and Equipment" (due 2026-10-26)
+  - Sequential dependency risk: payload updates, shipping, and permissions must be resolved before flight testing can occur
 
 ## Key Deliverables & Milestones
 
-| Milestone | Due Date | Notes |
-|-----------|----------|-------|
-| Conduct Mission | 2026-10-01 | Earliest deadline |
-| Finish payload updates | 2026-10-23 | |
-| Ship Aircraft and Equipment | 2026-10-26 | Status: "On" |
-| Sort out flight, radio, shipping, and import permissions | 2026-11-04 | Regulatory/logistical coordination |
-| 50 Hover Tests | 2026-11-06 | Testing phase |
-| Conduct local flight testing | 2026-11-06 | Testing phase (same date as hover tests) |
-| Initial Transition Test | 2026-11-09 | Flight transition validation |
-| 5 hours of Forward Flight | 2026-11-13 | Final flight testing |
-| Build 2 INSTAAR S3's | No due date | Hardware build phase (unscheduled) |
-| Build UMES S3 | No due date | Hardware build phase (unscheduled) |
+| Milestone | Owner | Due Date | Notes |
+|-----------|-------|----------|-------|
+| Conduct Mission | Unassigned | 2026-10-01 | — |
+| Finish payload updates | Unassigned | 2026-10-23 | — |
+| Ship Aircraft and Equipment | Unassigned | 2026-10-26 | — |
+| Close out AP Release Candidate | Jack Elston | 2026-10-30 | Pass all QC and fail test flights |
+| Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | — |
+| 50 Hover Tests | Maciej Stachura | 2026-11-06 | All hovers with no failures |
+| Conduct local flight testing | Unassigned | 2026-11-06 | — |
+| Power Board Complete | Sam Hild | 2026-11-06 | Pass all ground tests on rig |
+| Initial Transition Test | Maciej Stachura | 2026-11-09 | Full flight, no failures, QC passed |
+| 5 hours of Forward Flight | Maciej Stachura | 2026-11-13 | 5 total hours over multiple flights, no failures, QC passed |
+| Deliver UMES S3 | Josh Fromm | 2026-11-20 | S3 delivery |
+| Deliver 2 INSTAAR S3's | Josh Fromm | 2026-12-11 | S3 delivery |
 
 ## Task Summary
-- **Total:** 10 open, 0 completed
-- **Assignees:** All 10 milestones are unassigned — no task ownership defined
-- **Pattern:** High-level milestone structure with no granular subtasks, team assignments, or resource allocation visible
+- **Total Tasks**: 12 open, 0 completed
+- **Tasks by Assignee**:
+  - Maciej Stachura: 3 tasks (flight testing & hover work)
+  - Josh Fromm: 2 tasks (S3 deliveries)
+  - Sam Hild: 1 task (power board)
+  - Jack Elston: 1 task (AP release candidate)
+  - Unassigned: 5 critical milestones (mission conduct, payload, shipping, permissions, local flight testing)
 
 ## Recent Activity
-No completed tasks. Project appears to be in planning/scheduling phase with future 2026 dates.
+No task completion data available. All milestones remain open. The project appears to be in planning/preparation phase with October 2026 as the launch window.
 
 ## Notes & Context
-- This appears to be a flight-testing program involving aircraft builds (INSTAAR S3, UMES S3) and regulatory coordination
-- Critical path includes hardware builds (unscheduled), payload updates, permissions, and multi-phase testing
-- **Assignment gap:** All milestones are unassigned; recommend immediate ownership assignment before execution
-- Two major builds lack due dates; recommend baseline scheduling
+- **Critical Path**: Payload updates → shipping → permissions → local flight testing → AP release candidate closure represents the sequential flow
+- **Unassigned Risk**: Six unassigned milestones include some of the earliest due dates; assignment and owner accountability needed urgently
+- **Flight Testing Sequence**: Hover tests → transition test → forward flight (5 hours) suggests a phased testing approach under Maciej Stachura's lead
+- **S3 Deliverables**: Josh Fromm has two separate S3 delivery milestones (UMES in November, INSTAAR in December), suggesting multiple customer/site deployments

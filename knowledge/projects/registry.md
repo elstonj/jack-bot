@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 50 active projects._
+_Generated from Asana project overviews. 45 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -31,18 +31,13 @@ _Generated from Asana project overviews. 50 active projects._
 | 001_23 | SOCOM (CRADA) S0-AD | — | — | — | Yes |
 | 005_1 | BARBADOS VTOL S0 and Training | Barbados Meteorological S | $22,337 | — | — |
 | 012_2 | ERAU VTOL S0 | Embry-Riddle Aeronautical | $20,805.39 | — | — |
-| 012_3 | ERAU Model S0 | Embry-Riddle Aeronautical | $2,462.50 | — | — |
 | 018_1 | Murphy's Pond CH4 Monitoring | Murray State | $86,862.94 | #sbir-volcano | Yes |
 | 031_1 | UMES S3 | University of Maryland Ea | $81,306 | — | Yes |
-| 032_3 | Sasquatch S0s x 4 | Notre Dame | $88,705 | — | Yes |
-| 043_3 | ByLight M2/Halo | By Light | $126,629 | — | Yes |
-| 212_1 | S2 Simulator | NASA (Will Wade) | $2,900 | — | Yes |
 | 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | Yes |
-| 213_1 | NASA-Chris Meek (Langley) | — | — | — | — |
+| 213_1 | NASA-Chris Meek (Langley) | NASA Langley | — | — | Yes |
 | 300_3 | 2026 IDIQ (Hurricane) | NOAA | $483,000 | #sbir-hurricane | Yes |
 | 350_4 | 2024 USGS - Chile (Mexico) | USGS (Volcano Science Cen | $124,230 | #sbir-volcano | Yes |
 | 451_1 | INSTAAR S3 x 2 | INSTAAR, CU Boulder | $120,000 | — | — |
-| 452_2 | S2 Simulator & used E2 Battery | Dan Hesselius (CU Boulder | — | — | Yes |
 | 550_1 | NAVY SBIR: Magnetometer | Dept of the Navy | $242,540 | #sbir-hurricane, #sbir-volcano | Yes |
 | 550_2 | Navy STTR: Hazardous Weather | Dept. of the Navy | $146,326 | #sbir-hurricane, #sbir-volcano | Yes |
 | 600_1 | SOCOM Pope | SOCOM | — | — | — |

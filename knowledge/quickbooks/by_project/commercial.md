@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,083,803.62
-- **Total Expenses (Bills + Purchases):** $249,579.78
+- **Total Expenses (Bills + Purchases):** $249,582.28
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,834,223.84 (Revenue exceeds expenses)
-- **Date Range:** April 5, 2024 – October 15, 2026
+- **Net Position:** $2,834,221.34 (Revenue exceeds expenses)
+- **Date Range:** April 5, 2024 – November 12, 2026
 
 ---
 
@@ -97,8 +97,21 @@
 
 ## Expenses by Cost Category
 
+### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
+**Total: $2.50** | 1 transaction  
+*Account: [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]*
+
+| Date | Vendor/Memo | Description | Amount |
+|------|-------------|-------------|--------|
+| 2026-11-12 | PGA | Disclaimer Fee | $2.50 |
+
+**Largest Items:**
+- PGA Disclaimer Fee: $2.50
+
+---
+
 ### **Indirect Costs** (Overhead, R&D, Fringe)
-**Total: $1,123.62** | 1 transaction  
+**Total: $1,123.62** | 1 transaction (October 15, 2026)  
 *Account: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]*
 
 | Date | Vendor/Memo | Description | Amount |
@@ -117,12 +130,30 @@
 
 ---
 
+### **Expense Category Summary**
+
+| Category | Total Amount | # Transactions |
+|----------|--------------|-----------------|
+| Indirect Costs (R&D/IRAD) | $1,123.62 | 1 |
+| Shipping/Freight | $2.50 | 1 |
+| **TOTAL EXPENSES** | **$1,126.12** | **2** |
+
+---
+
 ## Purchase Orders
 **Total PO Value:** $1,977.50 | No new POs in this update period.
 
 ---
 
 ## Monthly Spend by Category
+
+### November 2026
+| Category | Amount | # Transactions |
+|----------|--------|-----------------|
+| **Shipping/Freight** | $2.50 | 1 |
+| **Total** | **$2.50** | **1** |
+
+**Burn Rate Note:** November spending minimal to date ($2.50 PGA disclaimer fee). Represents administrative charge rather than project material costs.
 
 ### October 2026
 | Category | Amount | # Transactions |
@@ -138,14 +169,14 @@
 
 ### ⚠️ **High Priority: Duplicate Invoice #1755**
 - **Date Conflict:** Invoice #1755 appears twice with identical amounts:
-  - May 8, 2026: $63,735.00 (To Light Halo)
+  - May 8, 2026: $63,735.00 (By Light Halo)
   - October 12, 2026: $63,735.00 (By Light Halo)
 - **Status:** Both marked as outstanding balances
 - **Recommendation:** Contact By Light Halo to verify if this is a reissue for non-payment, a duplicate entry error, or legitimately distinct billing. **Financial impact if duplicate: $63,735.00 overstated revenue.**
 
 ### ⚠️ **Outstanding Invoice #1779 — $24,579.28**
 - Largest single outstanding invoice in recent period (Aug 31, 2026)
-- Service delivery date: June 30-July 1, 2026 (2+ months aging)
+- Service delivery date: June 30-July 1, 2026 (3.5+ months aging)
 - Includes UAS day rental, field equipment, flight planning, and data processing
 - **Recommendation:** Follow up on payment status with Murphy's Pond CH4.
 
@@ -155,11 +186,17 @@
 - Suggests active S3 development/phase 1 work underway
 - Includes equipment repair (Embry Riddle) and new phase shipment components
 
+### **Nominal Expense (November 12, 2026)**
+- PGA disclaimer fee of $2.50 represents administrative charge
+- Minimal project impact
+
 ---
 
-## Summary of Changes from Previous Record
-- **No change to total invoiced or total expenses overall** — new expense transaction ($1,123.62) was already included in prior total
-- **Confirmed 1 purchase transaction** dated 2026-10-15 (Purchase #260927W025531) with 3 line items, all classified to Indirect Costs/IRAD
-- **No new revenue transactions** in this update period
-- **No new purchase orders** in this update period
-- **Outstanding balance remains unchanged** as percentage of invoiced revenue (~64%)
+## Summary of Changes from Previous Update
+- **Total Expenses increased by $2.50:** Previous total $249,579.78 → New total $249,582.28
+- **1 new transaction recorded:** Purchase #261021W002707 dated 2026-11-12 ($2.50)
+- **Shipping/Freight category activated:** First transaction in this category for November 2026
+- **No new revenue transactions**
+- **No new purchase orders**
+- **Outstanding invoice aging:** Invoice #1779 now 3.5+ months old (previous ~2.5 months)
+- **Net position slightly reduced:** $2,834,223.84 → $2,834,221.34 (due to new $2.50 expense)

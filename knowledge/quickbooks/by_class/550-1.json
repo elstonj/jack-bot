@@ -5,11 +5,11 @@
     "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
-    "revenue": 470621.0,
+    "revenue": 485080.0,
     "expenses": 30680.95,
     "by_category": {
       "DIRECT COSTS:DC-Direct Material Purchases": 19220.58,
@@ -27,7 +27,7 @@
       "attributed": 14459.0,
       "vendor": "",
       "customer": "[550-1] Navy SBIR Magnetometer",
-      "balance": 14459.0,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1175,6 +1175,24 @@
     }
   ],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 14459.0,
+      "attributed": 14459.0,
+      "vendor": "",
+      "customer": "[550-1] Navy SBIR Magnetometer",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 14459.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2026-07-17",

@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1213345070862721",
   "name": "Sasquatch S0s x 4",
-  "status": "active",
-  "status_notes": null,
+  "status": "archived",
+  "status_notes": "Asana project is archived",
   "customer": {
     "name": "Notre Dame",
     "type": "commercial",
@@ -29,7 +29,7 @@
         "amount": 125.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "purchases": {
         "amount": 0.0,
@@ -41,7 +41,7 @@
         "amount": 19360.48,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-27"
+        "last_updated": "2026-10-29"
       },
       "total": 19485.48,
       "by_line_item": {}
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 69219.52,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-27T09:15:42Z"
+    "last_reconciled": "2026-10-29T09:43:22Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -59,10 +59,22 @@
     {
       "source": "FEEDBACK",
       "author": "Maciej",
+      "date": "2026-10-28",
+      "text": "From Maciej (ts=1793114019.721639): Quick tasks for archiving (sounds like only the project owners can). You just have to go to the project main page, click on the down arrow, and click \"Archive\".\n1. <@U06CCFTNBS6> \n    a. [043-3] ByLight M2/Halo\n2. <@U06KRHPQSRH> :\n    a. [212-1] S2 Simulator\n    b. [452-2] S2 Simulator &amp; used E2 Battery\n    c. [212-2] NASA S2 &amp; Parts\n3. <@U01511MEQ90> \n    a. [032-3] Sasquatch S0s x 4\n4. <@U014ZL9FLE9> :\n    a. [012-3] ERAU Model S0"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
+      "date": "2026-10-27",
+      "text": "From Maciej: Quick tasks for archiving (sounds like only the project owners can). You just have to go to the project main page, click on the down arrow, and click \"Archive\".\n1. <@U06CCFTNBS6> \n    a. [043-3] ByLight M2/Halo\n2. <@U06KRHPQSRH> :\n    a. [212-1] S2 Simulator\n    b. [452-2] S2 Simulator &amp; used E2 Battery\n    c. [212-2] NASA S2 &amp; Parts\n3. <@U01511MEQ90> \n    a. [032-3] Sasquatch S0s x 4\n4. <@U014ZL9FLE9> :\n    a. [012-3] ERAU Model S0"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Maciej",
       "date": "2026-10-26",
       "text": "From Maciej: Looking to close out some projects in Asana. Here's a few I need feedback on:\n1. [212-1] S2 Simulator\n    a. There's just milestones left for \"Build Sim System\" and \"Deliver\", I assume this is the one that went to NASA a few weeks ago?\n2. [452-2] S2 Simulator &amp; used E2 Battery\n    a. Dan H from CU picked up last week, safe to close <@U06KRHPQSRH>? (i.e. I assume we invoiced a while back)\n3. [043-3] ByLight M2/Halo\n    a. Only task left is an invoice. Have we sent it?\n    b. I th"
     }
   ],
-  "last_full_rebuild": "2026-10-27T09:15:42Z",
+  "last_full_rebuild": "2026-10-29T09:43:22Z",
   "last_incremental_update": null
 }

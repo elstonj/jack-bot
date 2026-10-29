@@ -4,21 +4,67 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 5983.11,
+    "expenses": 7855.61,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 5662.82,
+      "DIRECT COSTS:DC-Direct Material Purchases": 7507.82,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 22.45
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 49.95
     }
   },
   "invoices": [],
   "bills": [],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-12",
+      "doc_number": "261021W002707",
+      "total": 2.5,
+      "attributed": 2.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2.5,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "PGA DISCLAIM FEE"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "23300",
+      "total": 1870.0,
+      "attributed": 1870.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via PayPal",
+      "lines": [
+        {
+          "amount": 1320.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Z1100-DroneCAN M5 Wire x 3"
+        },
+        {
+          "amount": 525.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "HBL599SL-DroneCAN (0.09 sec/60\u00c2\u00b0 - 319.4 oz/in @7.4V) x 2"
+        },
+        {
+          "amount": 25.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-10-08",

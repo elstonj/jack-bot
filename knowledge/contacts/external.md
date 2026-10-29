@@ -273,4 +273,409 @@
     - Email: robbie.desen@noaa.gov
   - **Galen Scott** — NOAA Contact
     - Email: galen.scott@noaa.gov
-  - **Joseph Cione**
+  - **Joseph Cione** — NOAA Contact
+    - Email: joseph.cione@noaa.gov
+  - **Matthew Taraboletti** — NOAA Contact
+    - Email: matthew.taraboletti@noaa.gov
+  - **Mark Rogers** — NOAA Contact
+    - Email: mark.rogers@noaa.gov
+  - **Xavier Thompson** — NOAA Contact
+    - Email: xavier.thompson@noaa.gov
+  - **Alfredo Santoni** — NOAA Contact
+    - Email: alfredo.santoni@noaa.gov
+  - **Rennie Andrews** — NOAA Contact
+    - Email: rennie.andrews@noaa.gov
+  - **Bryton Shang** — NOAA Contact
+    - Email: bryton.shang@noaa.gov
+  - **John D. Murphy** — NOAA Contact
+    - Email: john.d.murphy@noaa.gov
+  - **Nicole Eliste** — NOAA Contact
+    - Email: nicole.eliste@noaa.gov
+  - **Tiffany Lantz** — NOAA Contact
+    - Email: tiffany.lantz@noaa.gov
+  - **Amy Ranker** — NOAA Contact
+    - Email: Amy.Ranker@noaa.gov
+  - **Matthew Jaskoski** — NOAA Contact
+    - Email: matthew.jaskoski@noaa.gov
+  - **Brian Richards** — NOAA Contact
+    - Email: brian.richards@noaa.gov
+  - **Athan Maragoudakis** — NOAA Contact
+    - Email: athan.maragoudakis@noaa.gov
+  - **David B. Keith** — NOAA Contact
+    - Email: david.b.keith@noaa.gov
+  - **Dave Turner** — NOAA Contact
+    - Email: dave.turner@noaa.gov
+  - **Vanessa Caicedo** — NOAA Contact
+    - Email: vanessa.caicedo@noaa.gov
+  - **Benjamin Moore** — NOAA Contact
+    - Email: benjamin.moore@noaa.gov
+  - **Cathy Smith** — NOAA Contact
+    - Email: cathy.smith@noaa.gov
+  - **Matthew Shupe** — NOAA Contact
+    - Email: matthew.shupe@noaa.gov
+  - **Sounak Biswas** — NOAA Contact
+    - Email: sounak.biswas@noaa.gov
+  - **Janice Bytheway** — NOAA Contact
+    - Email: janice.bytheway@noaa.gov
+  - **Joseph Sedlar** — NOAA Contact
+    - Email: joseph.sedlar@noaa.gov
+  - **Jeffrey Osiensky** — NOAA Contact
+    - Email: jeffrey.osiensky@noaa.gov
+  - **Addison Alford** — NOAA Contact
+    - Email: addison.alford@noaa.gov
+
+### USGS (United States Geological Survey)
+- **Relationship context**: Government partner for earth science and UAS research
+- **Key contacts**:
+  - **UAS Contact** — USGS UAS Program
+    - Email: uas@usgs.gov
+
+### NSF (National Science Foundation)
+- **Relationship context**: Government funding agency for research grants
+- **Key contacts**:
+  - **J Figuero** — NSF Program Officer
+    - Email: jfiguero@nsf.gov
+  - **Fastlane Help** — NSF Grant Administration
+    - Email: fastlane@nsf.gov
+
+### USDA (United States Department of Agriculture)
+- **Relationship context**: Government partner for agricultural applications
+- **Key contacts**:
+  - **Jason L. Wilking** — APHIS Contact
+    - Email: Jason.l.wilking@aphis.usda.gov
+  - **Electronic Submissions** — NIFA Contact
+    - Email: electronic@nifa.usda.gov
+  - **Ann Heckart** — USDA Contact
+    - Email: Ann.Heckart@usda.gov
+  - **Michael Cosh** — ARS Contact
+    - Email: Michael.Cosh@ars.usda.gov
+
+### FAA (Federal Aviation Administration)
+- **Relationship context**: Government regulatory body for airspace and UAS operations
+- **Key contacts**:
+  - **UAShelp@faa.gov** — UAS Help Desk
+    - Email: UAShelp@faa.gov
+  - **333 Exemptions** — Special Flight Authorization
+    - Email: 333exemptions@faa.gov
+  - **9-AWA-UASIPP@faa.gov** — UAS Integration Pilot Program
+    - Email: 9-AWA-UASIPP@faa.gov
+  - **9-AJV-115-EmergTech@faa.gov** — Emerging Technology Division
+    - Email: 9-AJV-115-EmergTech@faa.gov
+  - **9-ato-wsa-osg-uas@faa.gov** — Operations Support Group
+    - Email: 9-ato-wsa-osg-uas@faa.gov
+  - **9-AJV-115-UASOrganization@faa.gov** — UAS Organization
+    - Email: 9-AJV-115-UASOrganization@faa.gov
+  - **Helpdesk@faa.gov** — FAA Help Desk
+    - Email: helpdesk@faa.gov
+  - **Micah D. Campbell** — FAA Contact
+    - Email: Micah.D.Campbell@faa.gov
+
+### University of Colorado Boulder
+- **Relationship context**: Academic partner, employee base, research collaborations
+- **Key contacts**: 150+ contacts across engineering, atmospheric science, and aerospace
+  - Key departments: Aerospace Engineering, Atmospheric and Oceanic Sciences, Engineering divisions
+
+### Colorado State University
+- **Relationship context**: Academic partner for atmospheric research and engineering
+- **Key contacts**: Multiple contacts in mechanical, atmospheric, and civil engineering
+
+### National Center for Atmospheric Research (NCAR/UCAR)
+- **Relationship context**: Research partner for atmospheric science
+- **Key contacts**:
+  - **S. Metz** — NCAR Contact
+    - Email: smetz@ucar.edu
+  - **Master Designs** — NCAR Support
+    - Email: mastersd@ucar.edu
+  - **Gregory Alley** — NCAR
+    - Email: alegregory@ucar.edu
+
+### University of Wyoming
+- **Relationship context**: Academic partner for atmospheric research
+- **Key contacts**:
+  - **W. Woldt** — University of Wyoming
+    - Email: wwoldt1@unl.edu
+
+### University of Nebraska
+- **Relationship context**: Academic partner
+- **Key contacts**:
+  - **C. Neale** — University of Nebraska
+    - Email: cneale@nebraska.edu
+
+### U.S. Air Force
+- **Relationship context**: Government client/partner for aerospace and defense applications
+- **Key contacts**: Multiple contacts across AFRL, AFWerx SBIR/STTR programs
+  - **SBIR/STTR Program** — Air Force SBIR
+    - Email: sbir@afwerx.af.mil
+  - **AF SBIR/STTR INFO** — Air Force SBIR Information
+    - Email: AFSBIRSTTR-INFO@us.af.mil
+  - **AFRL/SBRK Sprints** — Air Force Research Laboratory
+    - Email: sbrk.sprints@us.af.mil
+
+### U.S. Navy
+- **Relationship context**: Government client for maritime and defense applications
+- **Key contacts**: Multiple military affiliated researchers and acquisition contacts
+
+### Department of Defense
+- **Relationship context**: Government client/partner
+- **Key contacts**: Multiple DoD-affiliated contacts
+
+### U.S. Department of Energy
+- **Relationship context**: Government partner for energy applications
+- **Key contacts**:
+  - **Sally McFarlane** — DOE Science Contact
+    - Email: sally.mcfarlane@science.doe.gov
+
+### University of Maryland Eastern Shore (UMES)
+- **Relationship context**: Academic partner
+- **Key contacts**: Multiple contacts in engineering and atmospheric science
+
+### Universities — Multi-Institution Academic Network
+- **Relationship context**: Research collaborations, student recruitment, conference participation
+- **Key universities**:
+  - MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
+
+### Electronics/PCB Manufacturing & Assembly
+- **Relationship context**: Vendors for circuit board manufacturing and assembly
+- **Key contacts**:
+  - **4PCB** — PCB Manufacturing
+    - Email: sales@4pcb.com, tim@4pcb.com, lfletcher@4pcb.com
+  - **AAPCB** — PCB Services
+    - Email: sales@aapcb.com
+  - **Circuits West** — Electronics Manufacturing
+    - Email: jsweeney@circuitswest.com, kdovey@circuitswest.com
+
+### Component Suppliers
+- **Relationship context**: Vendors for electronics, avionics, and mechanical components
+- **Key contacts**:
+  - **SparkFun** — Electronics Components
+    - Email: sales@sparkfun.com
+  - **DigiKey** — Electronics Distributor
+    - Email: sales@digikey.com, DataCenter@digikey.com
+  - **Mouser** — Electronics Distributor
+    - Email: sales@mouser.com
+  - **Arrow Electronics** — Components Distributor
+    - Email: websales@arrow.com
+  - **McMaster-Carr** — Industrial Supplier
+    - Email: tax@mcmaster.com
+
+### Drone Manufacturers & UAS Companies
+- **Relationship context**: Competitors, partners, vendors
+- **Key contacts**:
+  - **Leptron Drones** — UAS Manufacturer
+    - Email: sheath@leptron.com, andrewl@leptron.com
+  - **Freewave Technologies** — Wireless Communications
+    - Email: rsarno@freewave.com, tcrawford@freewave.com
+  - **3DR Robotics** — UAS Manufacturer
+    - Email: help@3drobotics.com
+  - **Saildrone** — Autonomous Vehicle Manufacturer
+    - Email: chris.hopkins@saildrone.com
+
+### Propeller Aero
+- **Relationship context**: Commercial drone/geospatial services partner
+- **Key contacts**:
+  - Email: support@propelleraero.com, support@propelleraero.com.au
+
+### DroneDeploy
+- **Relationship context**: Software/services partner
+- **Key contacts**:
+  - Email: share@dronedeploy.com, gabrielle@dronedeploy.com
+
+### Banking & Financial Services
+- **Relationship context**: Banking relationships, payment processing, financial management
+- **Key contacts**:
+  - **US Bank** — Banking Services
+    - Email: christopher.cirelli@usbank.com, david.heese@usbank.com
+  - **Wells Fargo** — Banking Services
+    - Email: angus.j.timmons@wellsfargo.com, eric.j.christoffersen@wellsfargo.com
+  - **Paychex** — Payroll & HR Services
+    - Email: Multiple Paychex contacts (payroll administration)
+  - **Square** — Payment Processing
+    - Email: send@square.com
+
+### Legal/Professional Services
+- **Relationship context**: Legal counsel, business services
+- **Key contacts**:
+  - **Foley & Lardner LLP** — Legal Firm
+    - Email: YVillacorta@foley.com, CSwift@foley.com
+  - **Law of the Rockies** — Legal Firm
+    - Email: achambers@lawoftherockies.com
+
+### Real Estate & Property Management
+- **Relationship context**: Office/facility leasing and management
+- **Key contacts**:
+  - **Tebo Properties** — Property Management
+    - Email: leasingassistant@teboproperties.com, mail@teboproperties.com
+  - **Boulder County** — Real Estate Assessor
+    - Email: posinfo@bouldercounty.org
+
+### Insurance & Risk Management
+- **Relationship context**: Business insurance, liability coverage
+- **Key contacts**:
+  - **Insurance Associates** — Insurance Broker
+    - Email: mgreve@insurance-associates.com
+  - **Liberty Mutual** — Insurance Provider
+    - Email: amy.delaney@libertymutual.com, hannah.wilkins@libertymutual.com
+  - **PinnacolVaccine** — Workers Compensation
+    - Email: alondra.jara@pinnacol.com
+
+### Meteorological & Weather Services
+- **Relationship context**: Weather data, forecasting services, equipment vendor
+- **Key contacts**:
+  - **Vaisala** — Weather Instruments
+    - Email: timo.kerola@vaisala.com, bob.cook@vaisala.com
+  - **Trimble** — GPS/GNSS Services
+    - Email: eric_mccuaig@trimble.com, Geoffrey_cox@trimble.com, david_snyder@trimble.com
+
+### Media & News Organizations
+- **Relationship context**: Press relations, public outreach
+- **Key contacts**:
+  - **9 News** (Denver)
+    - Email: newstips@9news.com, anusha.roy@9news.com
+  - **KDVR** (Denver Fox)
+    - Email: tips@kdvr.com
+  - **Denver Post** — News Organization
+    - Email: cskilling@denverpost.com
+  - **Daily Camera** (Boulder) — Local News
+    - Email: webmaster@dailycamera.com
+  - **CNN** — Major News Organization
+    - Email: tips@cnn.com, help@cnn.com
+  - **NPR/PBS** — Public Broadcasting
+    - Email: viewermail@newshour.org
+  - **ABC News** — Major News Organization
+    - Email: news.tips@abc.com
+  - **NBC News** — Major News Organization
+    - Email: tips@nbcuni.com
+  - **FOX News** — Major News Organization
+    - Email: FWDesk@fox.com
+  - **Huffington Post** — News Organization
+    - Email: scoop@huffingtonpost.com
+  - **Drone News/Publications**:
+    - Email: info@thedronenews.com, editor@dronelife.com, editor1@dronelife.com
+
+### Consulting & Engineering Firms
+- **Relationship context**: Technical partners, subcontractors
+- **Key contacts**:
+  - **CH2M** (Engineering)
+    - Email: Multiple CH2M contacts (infrastructure and environmental consulting)
+  - **Advanced Space** — Space Technology
+    - Email: cain@advanced-space.com, thomas@advanced-space.com, kayser@advancedspace.com
+  - **Aztec Consultants** — Engineering Consulting
+    - Email: emena@aztecconsultants.com
+  - **Creare** — Engineering R&D
+    - Email: ewg@creare.com, accountsreceivable@creare.com
+
+### Aerospace & Defense Contractors
+- **Relationship context**: Partners, competitors, major customers
+- **Key contacts**:
+  - **L3Harris Technologies** — Defense Contractor
+    - Email: Multiple L3Harris contacts
+  - **NGC (Northrop Grumman)** — Defense Contractor
+    - Email: daniel.sokol@ngc.com, joe.ahn@ngc.com, calvin.pennamon@ngc.com
+  - **Lockheed Martin** — Defense Contractor
+    - Email: alasdair.brackenridge@global.lmco.com
+
+### Government Technology Programs
+- **Relationship context**: Federal funding and acquisition programs
+- **Key contacts**:
+  - **NSPIRES** (NASA Proposal System)
+    - Email: nspires-help@nasaprs.com
+  - **SBA (Small Business Administration)**
+    - Email: Brittany.Sickler@sba.gov, susan.lourie@sba.gov
+  - **SBIR/STTR Programs** — Multiple federal agencies
+
+### Venture Capital & Investment
+- **Relationship context**: Funding sources, startup networks
+- **Key contacts**:
+  - **Gener8tor** — Startup Accelerator
+    - Email: mason@gener8tor.com, erica@gener8tor.com
+  - **Capital Factory** — Startup Community
+    - Email: Multiple Capital Factory contacts
+
+### Economic Development Organizations
+- **Relationship context**: Business development, regional partnerships
+- **Key contacts**:
+  - **Metro Denver EDC** — Economic Development
+    - Email: amelia.atencio@metrodenver.org
+  - **LARTA** (Los Angeles Regional Tech Association)
+    - Email: tvarnntoft@larta.org, Aaron.Teitelbaum@larta.org
+
+### Geospatial & Mapping
+- **Relationship context**: Technical partners for mapping services
+- **Key contacts**:
+  - **Pix4D** — Photogrammetry Software
+    - Email: william.hawkins@pix4d.com
+
+### Specialized Sensor & Instrument Manufacturers
+- **Relationship context**: Sensor/camera vendors
+- **Key contacts**:
+  - **Resonon** — Hyperspectral Imaging
+    - Email: support@resonon.com
+  - **Ocean Optics** — Spectroscopy Instruments
+    - Email: Kevin.Belski@oceanoptics.com
+  - **Tetracam** — Aerial Imaging Cameras
+    - Email: steve@tetracam.com
+  - **Lightware** — LiDAR Sensors
+    - Email: info@lightware.co.za
+  - **XIMEA** — Machine Vision Cameras
+    - Email: Kevin.Toerne@ximea.com
+  - **First RF** — RF Components
+    - Email: jshin@firstrf.com, kbutler@firstrf.com
+
+### National Labs
+- **Relationship context**: Research collaborations
+- **Key contacts**:
+  - **Lawrence Berkeley Lab** — Department of Energy Lab
+    - Email: tcortez@lbl.gov
+  - **Argonne National Lab** — Department of Energy Lab
+    - Email: mtritsche@anl.gov
+  - **Oak Ridge National Lab** — Department of Energy Lab
+    - Email: palanisamyg@ornl.gov
+
+### State Agencies
+- **Relationship context**: State-level regulatory and development partnerships
+- **Key contacts**:
+  - **Colorado OEDIT** — Economic Development
+    - Email: oediat_aigrantmanager@state.co.us
+  - **Boulder County** — Local Government
+    - Email: Multiple Boulder County contacts
+
+---
+
+## Summary
+
+**Total External Contacts**: 8,500+ (comprised of 1,000+ named individuals and 7,500+ email addresses without names)
+
+**Key Organizations by Contact Count**:
+1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
+2. **NOAA** — 130+ direct contacts across divisions
+3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, etc.)
+4. **Unnamed/Unknown Organization** — 7,500+ email addresses (primarily external vendors, consultants, media, and service providers)
+
+**Notable Relationship Clusters**:
+
+- **Heavy NASA Concentration**: Strong presence across JPL (Jet Propulsion Lab), ARC (Ames Research Center), GSFC (Goddard Space Flight Center), and other centers. Indicates significant ongoing contracts/partnerships for aerospace research.
+
+- **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate modeling, and environmental monitoring.
+
+- **Robust Academic Network**: 500+ university contacts across top-tier institutions reflects BST's role as a research partner and student recruitment pipeline.
+
+- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, etc.) indicate active pursuit of federal small business innovation funding.
+
+- **Media/Press Relations**: Significant contacts with local (9 News, KDVR, Denver Post) and national news outlets (CNN, NPR, ABC, NBC) suggest active PR/communications strategy.
+
+- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization management.
+
+- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers (4PCB, AAPCB), electronics distributors (DigiKey, Mouser, Arrow), and component suppliers suggest active manufacturing/assembly operations.
+
+- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, and other defense contractors suggest partnerships or potential customer relationships.
+
+- **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations.
+
+---
+
+## Notes on Data Quality
+
+- **Unnamed Entries**: 7,500+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (e.g., `@nasa.gov`, `@noaa.gov`, `@colorado.edu`).
+- **Internal BST Contacts**: Several `@blackswifttech.com` and `@bst.aero` addresses represent internal team members.
+- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., `John.Glass-1@nasa.gov` and `John.Glass@nasa.gov`).
+- **Automated Contacts**: Some entries are system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation).

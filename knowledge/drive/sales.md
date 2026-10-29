@@ -1,6 +1,7 @@
 # Sales — Shared Drive
 
-Small drive with 2 files.
+Small drive with 3 files.
 
-- BST – UK RAVEN Visit Agenda (Nov 2–5, 2026) – DRAFT (modified 2026-10-28)
-- Drone_Sales_Plan_MOQ_Model (modified 2026-10-27)
+- Drone_Sales_Plan_MOQ_Model (modified 2026-10-28)
+- BST – UK RAVEN Visit Agenda (Nov 3-4, 2026) – DRAFT (modified 2026-10-28)
+- LMUK budget template (modified 2026-10-28)

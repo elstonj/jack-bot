@@ -1,0 +1,48 @@
+{
+  "asana_gid": "1213688340764301",
+  "asana_task_name": "S0-VTOL launch off Ron Brown",
+  "customer": "NOAA",
+  "customer_contact": "Chidong Zhang",
+  "customer_email": "chidong.zhang@noaa.gov",
+  "receive_by": "2028-05-01",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "S0-VTOL with autonomous ship launch/landing capability",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": 18000,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [
+    {
+      "name": "S0-VTOL airframe",
+      "ordered": false,
+      "received": false,
+      "vendor": null,
+      "order_date": null
+    }
+  ],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Early-stage concept for autonomous S0-VTOL launch/recovery from NOAA research vessel Ron Brown with atmospheric sounding mission. ~$18k preliminary funding identified; customer pursuing additional Ron Brown funding. Spring 2028 target mission date. Requirements: ship launch/autonomous landing, 15k ft ceiling, 1+ km vertical sounding, ~45-day cruise duration, ~8-hour data turnaround, publications expected.",
+  "missing_fields": [
+    "ship_to",
+    "estimate_date",
+    "invoice_number"
+  ],
+  "last_evidence_date": "2026-10-27",
+  "last_contact_date": "2026-09-29"
+}

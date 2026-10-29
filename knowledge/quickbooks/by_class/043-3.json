@@ -1,17 +1,19 @@
 {
   "project_code": "043-3",
   "qbo_class_names": [
-    "[043-3] By Light Halo"
+    "[043-3] By Light Halo",
+    "[043] By Light Professional IT Services LLC:[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2024-10-27",
-    "end": "2026-10-27"
+    "start": "2024-10-29",
+    "end": "2026-10-29"
   },
   "totals": {
     "revenue": 189523.0,
-    "expenses": 6304.42,
+    "expenses": 6684.17,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 6304.42
+      "DIRECT COSTS:DC-Direct Material Purchases": 6304.42,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 379.75
     }
   },
   "invoices": [
@@ -85,7 +87,26 @@
       ]
     }
   ],
-  "bills": [],
+  "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-10-23",
+      "doc_number": "103033239",
+      "total": 379.75,
+      "attributed": 379.75,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 379.75,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "LTL Service"
+        }
+      ]
+    }
+  ],
   "purchases": [
     {
       "type": "Purchase",

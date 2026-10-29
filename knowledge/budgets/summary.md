@@ -1,90 +1,80 @@
 # BST Project Financial Overview
 
-## Active Project Budgets
+## Data Quality Assessment
 
-### Project 550-1: Navy SBIR Magnetometer
-- **Project Code:** 550-1
-- **Contract Number:** N6833525C0492
-- **Client:** United States Navy (Department of Navy)
-- **Prime Contractor:** Black Swift Technologies, LLC
-- **Subcontractor:** Ultra Maritime
-- **Contract Type:** SBIR Phase I (Base) with Phase II Option
-- **Period of Performance:** 
-  - Base: January 2027 – June 2029 (30 months)
-  - Option I: July 2029 – June 2030 (12 months)
-- **Known Budget (Phase II Proposed):**
-  - Direct Labor: $207,368
-  - Fringe Benefits (29.28%): $60,717
-  - Labor Overhead (46.67%): $125,115
-  - *(Document appears incomplete; total and remaining cost categories not fully captured)*
+**⚠️ CRITICAL LIMITATION:** The provided budget data is incomplete and fragmented. The submission indicates:
+- **1,181 budget documents** exist across Black Swift Technologies projects
+- **No consistent project codes detected** across documents
+- Data appears truncated mid-document
+- Only partial information on 1 commercial project (MiniCam) provided
+
+This overview reflects available information only. A complete financial review requires:
+1. Access to full project documentation
+2. QuickBooks export data
+3. Consistent project coding structure
+
+---
+
+## Identified Project(s)
+
+### **MiniCam Project (NASA AREN - Aeropods Commercial)**
+
+| Data Point | Value |
+|-----------|-------|
+| **Client/Agency** | NASA |
+| **Program** | AREN (Aeropods Commercial) |
+| **Project Type** | Commercial Product Development |
+| **Status** | Preliminary/Active |
+| **Document Type** | Cost Analysis (February 2026) |
+| **Last Updated** | 2026-03-04 |
+| **Budget Details** | *Unit cost breakdown initiated - data incomplete* |
 
 ---
 
 ## By Funding Source
-
-### Department of Navy (DoD)
-- **Project 550-1** (SBIR Phase I/II Magnetometer): Partial budget data available
-- **Estimated Base Period Costs (partial):** $393,200+
-
-### Unassigned/Portfolio Projects
-- **NASA:** AREN (Aeropods Commercial) — MiniCam project in preliminary costing phase
-- **NOAA, DoD, and Other Agencies:** 1,181 budget documents identified but not yet assigned to individual project codes
+- **NASA:** 1 identified project (MiniCam - commercial)
+- **NOAA:** Referenced but no projects detailed
+- **DoD:** Referenced but no projects detailed
+- **Other Federal Agencies:** Referenced but no projects detailed
 
 ---
 
 ## By Contract Type
-
-| Contract Type | Projects | Status |
-|---|---|---|
-| SBIR Phase I (Base) + Phase II Option | 550-1 | Active; Phase II proposal stage |
-| Commercial Product Costing | MiniCam (NASA/AREN) | Preliminary cost analysis |
-| Unclassified Portfolio | ~1,180+ docs | Requires project code assignment |
+| Type | Count | Notes |
+|------|-------|-------|
+| Commercial | 1 | MiniCam (preliminary) |
+| SBIR Phase I | — | Referenced but not detailed |
+| SBIR Phase II | — | Referenced but not detailed |
+| IRAD | — | Referenced but not detailed |
 
 ---
 
 ## Financial Health Indicators
 
-### Project 550-1 (Magnetometer)
-- **Status:** ⚠️ **Incomplete budget documentation** — Phase II proposed cost breakdown is truncated; full contract value unknown
-- **Timeline Risk:** Low — Base period begins January 2027 (future contract)
-- **Data Quality:** Budget structure visible (labor, fringe, overhead) but totals and material/other direct costs not fully captured in provided excerpt
-
-### Unassigned Project Portfolio
-- **Status:** ⚠️ **Critical data gap** — 1,181 documents lack project codes; unable to assess individual project health
-- **Action Required:** 
-  - Assign project codes to Drive documents
-  - Cross-reference with QuickBooks to identify active spend vs. budget
-  - Prioritize classification for projects in execution phase
-
-### MiniCam (NASA AREN)
-- **Status:** ⏸️ Preliminary stage — cost analysis only; no contract or funding commitment confirmed yet
+| Indicator | Status | Notes |
+|-----------|--------|-------|
+| Budget Concerns | **Unknown** | No spend/budget variance data provided |
+| Funding Runway | **Unknown** | No project timelines or end dates provided |
+| Invoice Pipeline | **Unknown** | No milestone or payment schedule data available |
+| Total Portfolio Value | **Unknown** | 1,181 documents suggest significant portfolio, but values not accessible |
 
 ---
 
-## QuickBooks Integration Notes
+## QuickBooks Integration Status
 
-| Project | QB Status | Notes |
-|---|---|---|
-| 550-1 | Unknown | Navy SBIR contract (future-dated Jan 2027); not yet in QB active ledger |
-| Unassigned Portfolio | **Requires audit** | 1,181 Drive documents with no QB cross-reference; unknown which are active in accounting system |
-| MiniCam | Unknown | Commercial product costing; status unclear |
-
-**Recommendation:** Conduct full QuickBooks account reconciliation against Drive project inventory to identify:
-- Which projects are currently invoicing/accruing costs
-- Which Drive documents represent active vs. completed work
-- Budget variance analysis for ongoing projects
+| Data Source | Status |
+|-------------|--------|
+| **QuickBooks** | No integration data provided |
+| **Google Drive** | Primary data source (partially accessible) |
+| **Cross-Reference** | Unable to match projects to accounting system |
 
 ---
 
-## Summary Assessment
+## Recommendations
 
-**Data Completeness: 30%**
-- One active DoD project (550-1) partially documented
-- Large unassigned portfolio (1,181 documents) requires systematic coding and QB reconciliation
-- Commercial/preliminary projects identified but not yet formalized
-
-**Next Steps:**
-1. Complete Project 550-1 budget documentation (total contract value, all cost categories)
-2. Assign project codes to all 1,181 unassigned documents
-3. Audit QB vs. Drive alignment
-4. Identify projects currently in spend phase and flag budget monitors
+To complete this financial overview, provide:
+1. **Complete MiniCam unit cost breakdown** (costs truncated in source data)
+2. **Project master list** with standardized codes
+3. **QuickBooks budget comparison** (actual vs. planned spend)
+4. **Active project roster** with contract values and end dates
+5. **Milestone/invoice schedule** for upcoming FY
