@@ -1,28 +1,42 @@
-_Computed from Toggl as of 2026-10-27: 78.0 h total since 2020-01-01 — Sam Hild 46.3 h, Josh Fromm 16.0 h, Nate 9.2 h, Jack Elston 6.5 h._
+_Computed from Toggl as of 2026-10-30: 153.0 h total since 2020-01-01 — Josh Fromm 91.0 h, Sam Hild 46.3 h, Nate 9.2 h, Jack Elston 6.5 h._
 
 # [451-1] INSTAAR S3 x 2 — Time Tracking
 
 ## Overview
-- **Client:** INSTAAR
-- **Active/Inactive status:** Active
-- **Billable status:** No
-- **Total hours tracked:** 78.0 hours (all-time since 2020-01-01)
+- **Client:** INSTAAR (University of Colorado)
+- **Status:** Active
+- **Billable:** No
+- **Total Hours Tracked:** 153.0 hours (all-time since 2020)
 
 ## Team Allocation
-- **Sam Hild:** 46.3 hours (59.4% of total)
-- **Josh Fromm:** 16.0 hours (20.5% of total)
-- **Nate:** 9.2 hours (11.8% of total)
-- **Jack Elston:** 6.5 hours (8.3% of total)
+| Team Member | Hours | % of Total |
+|---|---|---|
+| Josh Fromm | 91.0 | 59.5% |
+| Sam Hild | 46.3 | 30.3% |
+| Nate | 9.2 | 6.0% |
+| Jack Elston | 6.5 | 4.2% |
 
-**Primary contributor:** Sam Hild
+**Primary Contributor:** Josh Fromm (91 hours)
 
 ## Activity Timeline
-Recent work entries show consistent focus on S3 Kits assembly/development:
-- Sam Hild: 5.4h, 5.9h, 8.9h, 7.8h (all labeled "S3 Kits")
-- Recent total: 28.0 hours on S3 Kits work
+Recent work shows two distinct patterns:
+
+**Josh Fromm** — Bulk time entries (recent)
+- 9 entries of 8.0 hours each (undescribed)
+- 1 entry of 3.0 hours (undescribed)
+- Total recent: 75.0 hours
+- Pattern suggests sustained, full-day effort with minimal documentation
+
+**Sam Hild** — Defined project work (recent)
+- 5.4h — S3 Kits
+- 5.9h — S3 Kits
+- 8.9h — S3 Kits
+- 7.8h — S3 Kits
+- Total recent: 28.0 hours
+- Consistent focus on S3 Kits component
 
 ## Insights
-- **Primary work type:** S3 Kits (physical hardware assembly or testing based on recent entries)
-- **Work pattern:** Concentrated activity with Sam Hild as dominant contributor; recent entries suggest sustained, ongoing work on kit preparation/assembly
-- **Team structure:** Highly concentrated workload (nearly 60% from one team member); supporting contributors provide secondary effort
-- **Non-billable nature:** Likely internal development, R&D, or kit maintenance work
+- **Work Focus:** Primary deliverable appears to be S3 Kits (based on Sam Hild's documented entries)
+- **Documentation Gap:** Josh Fromm's substantial recent hours lack task descriptions; this limits visibility into specific work scope
+- **Labor Distribution:** Concentrated effort from two primary contributors (Josh and Sam = 89.8% of all hours)
+- **Project Maturity:** Long tracking history (since 2020) indicates established, ongoing work rather than new initiative

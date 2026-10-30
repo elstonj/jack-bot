@@ -48,61 +48,78 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **October 15, 2026:** S10011 passed flight readiness review and approved for flight testing with new firmware (S1-VTOL platform)
 - **October 16, 2026:** `feature/commands_fix` branch approved for merge per code review; release candidate testing campaign structured into four phases (sim testing, QC flights on all platforms, fail testing, S2/E2 QC flights)
 - **October 28, 2026:** Clogged pitot calibration approved to proceed in sustained 10.5-13.5 knot winds (winds do not affect calibration data validity); S10022 parameter updates for loss of IAS approved (NO_IAS_A = -1.1932, NO_IAS_B = 1.5509); Flamewheel to be deployed for additional lost GPS failure mode testing observation
+- **October 29, 2026:** Release candidate testing focus shifted away from S20003 and E20006 flights tomorrow; instead prioritizing failure test data review from October 28 flights; S20003 and E20006 flight preparation deferred to early next week (conditional on S3 hover testing readiness)
 
 ### Release Candidate Testing
-- **October 28, 2026:** Release Candidate 3.3 failure testing campaign continues:
-  - S10022: QC flight redo and pitot calibration flight both completed with nominal performance
-  - Flamewheel (FW0001, FW0002): Four failure mode flights each completed testing HW_Fault, Lost GPS, Lost Mags, Lost Static Pressure, and Lost GPS scenarios
-  - Results documented in shared "Release Candidate 3.3 Testing" tracking spreadsheet
+- **October 28-29, 2026:** Release Candidate 3.3 failure testing campaign intensive validation phase:
+  - **October 28 Flights Completed:**
+    - S10022: QC flight redo and pitot calibration flight both completed with nominal performance
+    - FW0001 & FW0002 (Flamewheel): Four failure mode flights each completed testing HW_Fault, Lost GPS, Lost Mags, Lost Static Pressure, and Lost GPS scenarios
+  - **October 29 Status Update:** All failure test logs uploaded; detailed results to be compiled in RC 3.3 testing spreadsheet
+  - **Identified Minor Code Changes Required:**
+    1. Lost GPS dubins path recomputation issue: Aircraft performs sharp turn after returning from lost GPS (observed 1 of 4 Lost GPS tests) — may require code adjustment
+    2. Full GPS loss on VTOL climbout: Aircraft flies forward aggressively instead of maintaining zero attitude and drifting with wind — root cause investigation pending
+  - **Fail_App Enhancement Requests Identified for Future Versions:**
+    - BAD_GPS error currently simulates complete loss of GPS; real-world BAD_GPS has low PDOP zone (3-5) which causes discrepancy in aircraft behavior and rogue lateral motion on Flamewheel tests
+    - Motor power loss error feature needed (currently only testable via SwiftTab motor disable, doesn't test AP sensors like real power loss would)
 
 ---
 
 ## Projects & Initiatives
 
 ### Release Candidate 3.3 Testing Campaign (October 2026 — Ongoing)
-**Status:** Active failure mode and performance validation phase
+**Status:** Active failure mode and performance validation phase, data review phase initiated
+
 **Scope:** Structured four-phase testing:
 1. Simulation testing (completed for commands_fix feature branch)
 2. QC flights on all platforms (S10022, S10021, S10011, various others — in progress)
-3. Failure testing (lost GPS, lost mags, lost static pressure, HW faults — actively running on Flamewheels)
-4. S2/E2 QC flights (pending)
+3. Failure testing (lost GPS, lost mags, lost static pressure, HW faults — actively running on Flamewheels; data review phase Oct 29)
+4. S2/E2 QC flights (pending; S20003 and E20006 flight prep deferred to early next week)
 
-**Recent Activity (Oct 28):**
+**October 28-29 Activities:**
 - S10022: Completed redo QC flight with new actuator board firmware (nominal performance) + pitot calibration flight (nominal, multiple cruise speeds tested: 16, 17, 19 m/s with full orbits at 1665m and 1700m)
 - FW0001 & FW0002 (Flamewheels): Four flights each documenting failure mode responses (HW_Fault on climbout, Lost GPS on climbout, Lost Mags during flying mode, Lost Static Pressure during hover, Lost GPS during flying mode)
-- Results tracked in "Release Candidate 3.3 Testing" spreadsheet
+- All flight logs uploaded Oct 29; detailed analysis to follow in "Release Candidate 3.3 Testing" spreadsheet
+- Results show nominal performance with two identified edge cases requiring investigation
 
-**Next Steps:** 
-- Continue Flamewheel lost GPS failure testing with in-person observation by Maciej
-- Deploy additional Flamewheel for expanded lost GPS scenario testing
-- S1-22 loss of IAS parameter updates to be tested
-- Phase 4 S2/E2 QC flights pending
+**Next Steps:**
+- October 29-30: Detailed review and analysis of failure test flight data (high priority shift)
+- Implement or defer minor code changes per Maciej's assessment (dubins path recomputation, GPS loss on VTOL climbout response)
+- Flamewheel lost GPS failure testing to expand scope with in-person observation by Maciej
+- S1-22 loss of IAS parameter updates to be tested (NO_IAS_A = -1.1932, NO_IAS_B = 1.5509)
+- Phase 4 S2/E2 QC flights: S20003 and E20006 ready for deployment early next week or contingent on S3 hover testing availability
 
 ### S1-VTOL Flight Testing Campaign (October 2026 — Ongoing)
 **Status:** Mid-to-late stage development, cleared for flight testing
+
 **Recent Milestones:**
 - October 12: Midpoint hover readjustment approved; yaw control improved; pitot tube issue resolved
 - October 13: S10021 (Xtend) transition flight conducted successfully
 - October 15: S10011 passed flight readiness review; approved for testing with new firmware
-- October 28: S1-22 loss of IAS parameters provided for implementation; pitot calibration and QC flights progressing
+- October 28-29: Continued flight readiness; S10022 loss of IAS parameters updated
 
 **Key Platforms:**
 - S10021 (Xtend) — active transition testing
 - S10011 — approved for testing post-FRR
-- S1-22 — continued QC and parameter optimization flights
+- S1-22 — continued QC and parameter optimization flights (loss of IAS parameters provided)
 
 ---
 
 ## Action Items & Commitments
 
-### Immediate (October 28-29, 2026)
-- **Spencer Hoehl:** Update S10022 parameters for loss of IAS first thing morning (NO_IAS_A = -1.1932, NO_IAS_B = 1.5509) — *Committed Oct 28*
-- **Maciej & Team:** Deploy Flamewheel(s) for additional lost GPS failure testing with in-person observation — *Directed Oct 28*
+### Immediate (October 29-30, 2026)
+- **Spencer Hoehl & Team:** Review and analyze all October 28 failure test flight logs; compile detailed results in RC 3.3 testing spreadsheet (high priority) — *Assigned Oct 29*
+- **Maciej & Team:** Investigate two identified edge cases from failure testing:
+  1. Lost GPS dubins path recomputation issue (sharp turn after GPS recovery) — assess if code change required
+  2. VTOL full GPS loss on climbout behavior (forward flight instead of zero attitude hold) — root cause analysis
+- **Maciej:** Deploy Flamewheel(s) for additional lost GPS failure testing with in-person observation — *Directed Oct 28*
+- **Spencer Hoehl:** Prepare S20003 and E20006 for early next week flights (contingent on S3 hover testing readiness or deferred until S3 available) — *Assigned Oct 29*
+- **Engineering Team:** Identify future fail_app enhancement requirements (BAD_GPS low PDOP simulation, motor power loss error) for roadmap planning
 
 ### Ongoing
-- **Spencer Hoehl:** Continue RC 3.3 failure mode testing documentation; upload flight logs for all test flights to shared tracking spreadsheet
-- **Maciej:** Lead flight operations prioritization and firmware integration; monitor failure testing results
-- **Flight Testing Team:** Complete Phase 3 (failure testing) and Phase 4 (S2/E2 QC flights) of RC 3.3 campaign
+- **Maciej:** Lead flight operations prioritization and firmware integration; monitor failure testing results and code change impacts
+- **Spencer Hoehl:** Continue RC 3.3 QC flight execution and documentation; coordinate aircraft readiness scheduling
+- **Flight Testing Team:** Complete Phase 3 (failure testing data review and analysis) and Phase 4 (S2/E2 QC flights) of RC 3.3 campaign
 - **Sam Hild:** Remote ID integration and testing (currently deprioritized relative to other VTOL work)
 
 ---
@@ -129,6 +146,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Systematic testing of error responses: HW faults, lost GPS, lost magnetometers, lost static pressure, lost IAS
 - Error classification system tracked in shared Master spreadsheet (Level 1-3 with automatic/manual response types)
 - Level 3 errors trigger automatic actions (emergency descent/land) with override capability via secondary action selection
+- Identified simulation-to-reality gaps in fail_app (BAD_GPS lacking PDOP degradation simulation, motor power loss testing limitations)
 
 ### Weather Considerations
 - Wind condition assessment for specific test types (e.g., pitot calibration unaffected by 10+ knot winds)
@@ -139,25 +157,31 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Concurrent testing of fixed-wing (S1-22, S2), VTOL (S1-VTOL, S3-MASS), and multirotor (E2, Flamewheels)
 - Coordinated operations with separate communication channels for airspace deconfliction
 - Resource allocation across priority aircraft and test phases
+- Transmitter availability coordination (e.g., T14SG Futaba tracking for S10005, S10022, FW0001)
 
 ### Documentation & Data Management
 - Systematic logging of flight results in shared Google Sheets tracking documents
 - Flight log uploads with structured performance notes
 - Parameter and firmware version tracking for reproducibility
+- Data review and analysis protocols for failure test campaigns
 
 ---
 
 ## Important Resources
 
 ### Tracking & Documentation
-- **Release Candidate 3.3 Testing Spreadsheet:** <https://docs.google.com/spreadsheets/d/11gdvYa65F_zSwpsObmi1FMEAguVonhIpXeoHTrQaeP8/edit?usp=sharing> — Failure mode test results for FW0001, FW0002, and other platforms
+- **Release Candidate 3.3 Testing Spreadsheet:** <https://docs.google.com/spreadsheets/d/11gdvYa65F_zSwpsObmi1FMEAguVonhIpXeoHTrQaeP8/edit?usp=sharing> — Failure mode test results for FW0001, FW0002, S10022, and other platforms; updated Oct 29 with comprehensive flight log data
 - **Error Classification Master Spreadsheet:** <https://docs.google.com/spreadsheets/d/1zalkQfdGo6Y4M7P1ZSqfJZ_AmIS_GbK6q-DSee9jGdo/edit?gid=375746326#gid=375746326> — Level 1-3 error types and response behaviors (auto vs. manual)
 
 ### Firmware & Controllers
 - **S10022 Loss of IAS Parameters (Oct 28, 2026):** NO_IAS_A = -1.1932, NO_IAS_B = 1.5509
+- **S1-22 Loss of IAS Parameters (Oct 28, 2026):** NO_IAS_A = -1.1932, NO_IAS_B = 1.5509 (same as S10022)
 - **S20009 Approved Build:** SW v3028, HW v2050, code revision 4fb65e96
 - **S10020 Baseline:** Build hash bf20b0b7
 - **RC 3.3 Feature Branch:** `feature/commands_fix` (approved for merge)
+
+### Hardware & Equipment
+- **T14SG Futaba Transmitter:** Controls S10005, S10022, and FW0001; Jack Elston has custody as of Oct 29
 
 ### COA & Airspace
 - **Airspace Blocks:** Two 2500' COA blocks submitted (RC field and Caribou ranch); practical line-of-sight altitude limits: 1500-2000'
@@ -166,30 +190,33 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 
 ## Recent Activity
 
-### October 28, 2026 — Release Candidate 3.3 Failure Testing & Pitot Calibration
+### October 29, 2026 — Equipment Coordination & Release Candidate 3.3 Data Review
 
-**Morning:**
-- Spencer Hoehl asked about wind conditions for clogged pitot calibration (sustained 10.5 kt, gusting to 13.5 kt)
-- Maciej confirmed wind is acceptable for pitot calibration data
-- Spencer Hoehl requested error type documentation for tablet screen display (red/yellow indicators)
-- Maciej directed to Master spreadsheet error classification reference (Level 1-3 auto/manual responses)
-- Spencer Hoehl clarified Level 3 error behavior: automatic action with override capability via secondary action selection
+**Morning (9:21-9:27):**
+- Spencer Hoehl inquired about missing T14SG Futaba Transmitter (controls S10005, S10022, FW0001)
+- Jack Elston confirmed he has the transmitter
 
-**Afternoon/Evening:**
-- Spencer Hoehl uploaded comprehensive flight logs:
-  - **S10022:** 
-    - Flight 1 (QC Redo): All nominal with new actuator board firmware
-    - Flight 2 (Pitot Calibration): All nominal; varied cruise speeds (16, 17, 19 m/s) with full orbits at 1665m and 1700m
-  - **FW0001 & FW0002 (Flamewheels):** Four flights each testing:
-    - HW_Fault on climbout
-    - Lost GPS on climbout
-    - Lost Mags during flying mode
-    - Lost Static Pressure during hover
-    - Lost GPS during flying mode
-  - Results documented in "Release Candidate 3.3 Testing" tracking spreadsheet
-- Spencer Hoehl thanked external visitor for flight test participation
-- **Maciej provided S1-22 loss of IAS controller page parameters:** NO_IAS_A = -1.1932, NO_IAS_B = 1.5509
-- **Maciej directed deployment of Flamewheel(s) for additional lost GPS testing with in-person observation**
-- **Spencer Hoehl committed to updating S10022 parameters first thing in the morning**
+**Afternoon (16:35-17:43):**
+- **Spencer Hoehl announced testing prioritization shift (16:35):**
+  - Originally planned: S20003 and E20006 flights tomorrow (for RC 3.3 Phase 4 testing) with sales candidate observer
+  - **New Plan:** Defer S20003 and E20006 flights to early next week; shift focus tomorrow to **failure test data review** from Oct 28 flights instead
+  - Rationale: Sales candidate not observing flights tomorrow; better use of resources for data analysis
+  - Conditional deferral: Can delay S20003/E20006 further until S3 hover testing availability if favorable
+  - Sought consensus from Maciej, Ben Busky, and Spencer Hoehl team
 
-**Status:** RC 3.3 testing progressing through Phase 3 (failure mode validation); all tested flights showing nominal or documented error responses; pitot calibration and QC flights on schedule; Flamewheel lost GPS testing to expand scope with enhanced observation.
+- **Maciej provided failure test assessment (16:38):**
+  - **Overall Status:** All FAIL tests passed with nominal behavior
+  - **Two edge cases identified requiring investigation/potential minor code changes:**
+    1. **Lost GPS Dubins Path Issue:** After returning from lost GPS, aircraft doesn't recompute dubins path, resulting in sharp turn (observed in 1 of 4 Lost GPS tests)
+    2. **VTOL GPS Loss on Climbout:** Full GPS loss during VTOL climbout results in forward flight instead of holding zero attitude and drifting with wind — root cause requires investigation
+  - Recommendation: Review these two issues before proceeding to S2/E2 flights in case minor code change needed
+
+- **Spencer Hoehl confirmed data upload and analysis plan (17:43):**
+  - All failure test flight logs uploaded
+  - Will compile detailed results in RC 3.3 testing spreadsheet
+  - Noted all AP side results were nominal except for issues identified by Maciej
+  - Flagged fail_app feature enhancements identified during testing:
+    - **BAD_GPS Error Discrepancy:** Fail_app simulates complete GPS loss; real-world BAD_GPS has low PDOP zone (3-5) causing rogue lateral motion on Flamewheels due to aircraft attempting position recovery with poor signal
+    - **Motor Power Loss Feature Gap:** Currently only testable via SwiftTab motor disable; true motor power loss failure would test AP sensors (not just motor disable) — needs fail_app enhancement for future testing
+
+**Status:** RC 3.3 testing transitioning from execution phase to data review and analysis phase; two edge cases identified for investigation; fail_app enhancement requests logged for future development; S20003/E20006 QC flights rescheduled with conditional S3 hover testing coordination.

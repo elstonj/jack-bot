@@ -45,22 +45,31 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Handyman Service Cancellation for Ethan Domagala** (October 27, 2026): Jack Elston proactively called and canceled Ethan's scheduled handyman appointment (originally planned for morning) so Ethan wouldn't have to miss work. Ethan arrived at office instead following the cancellation.
 - **AI Assistant Integration - Claude & Gemini** (October 28, 2026): Jack Elston rolled out Claude AI assistant access to entire team with pre-configured BST knowledge base and process documentation. Team members instructed to set up individual connectors (email, calendar, etc.). Gemini recommended as cost-effective alternative within workspace plan. Important restriction: AI tools not permitted for code generation at this time while company develops safety policy around auto-generated code (aircraft safety concern). Jack to share projects, workspaces, and chats as Claude setup expands.
 - **AI Assistant Setup - Brandon Messersmit's "Charlie" Template** (October 28, 2026): Brandon Messersmit demonstrated functional AI assistant workflow ("Charlie") for UAS technician tasks using voice dictation. Team provided step-by-step setup guide for establishing similar personal assistants with connector authorization and voice-to-Slack workflow.
-
-### Recent Decisions (October 28, 2026)
-- **All Hands Meeting** (October 28, 2026): Cory Dixon called all hands meeting on October 28, 2026 (timing suggests coinciding with new hire integration and Claude rollout)
-- **Josh Waldman Early Departure** (October 28, 2026): Josh Waldman advised team he needs to leave around 4pm on October 28, 2026
+- **All Hands Meeting** (October 28, 2026): Cory Dixon called all hands meeting on October 28, 2026 (timing suggests coinciding with new hire integration and Claude rollout).
+- **Eco-Friendly Packing Initiative** (October 29, 2026): Jack Elston announced new policy to reduce single-use, non-biodegradable materials in shipping/packing:
+  - Reusing boxes, fill, and padding from incoming shipments
+  - Switching to paper-based tape
+  - Using biodegradable packing materials in place of plastic alternatives
+  Team members asked to prioritize eco-friendly options when requesting supplies. Joshua Fromm highlighted need for designated storage space for reusable materials to prevent accidental disposal.
+- **Work-From-Home Policy Clarification** (October 29, 2026): Jack Elston clarified WFH policy after recent confusion:
+  - Team members welcome to take laptops home for personal hours, but no BST or customer IP on personal computers
+  - WFH available for legitimate personal reasons (appliance repair, childcare, etc.)
+  - Office presence preferred during work hours; in-office work simplifies project management for leadership
+  - Policy not to be abused; in-person attendance expected during normal working hours
+- **Service Dog Accommodation - Brandon Messersmit's Dog "Ember"** (October 29, 2026): Brandon Messersmit requested permission to bring service dog Ember to office starting October 30, 2026. Jack Elston approved with coordination requirement to ensure no dog incompatibility issues with team members or other dogs.
 
 ## Action Items & Commitments
 
-### Time-Sensitive (October 28, 2026)
-- **Cory Dixon Welcome Coordination** (October 28, 2026): Cory bringing doughnuts and pastries for three new hires; team to welcome Lynn Regnier, Brandon Messersmit (afternoon arrival), and Bob Edson
-- **Claude/Gemini Setup**: All team members required to accept Claude invite and enable individual connectors (email, calendar, etc.); Gemini usage preferred when applicable to reduce costs
-
-### New Hire Integration (October 28, 2026)
-- **Brandon Messersmit AI Assistant Assistance**: Brandon demonstrated AI assistant ("Charlie") setup for team workflow; team members encouraged to adopt similar approach for personal productivity
+### Time-Sensitive (October 29-30, 2026)
+- **Beck Cotter Medical Appointment** (October 29, 2026): Beck arriving around 9:30am after 8:30am doctor appointment
+- **Robert Edson Medical Appointment** (October 29, 2026): Robert (Principal UAS Technician) has doctor appointment; returning to office in the morning of October 30
+- **Brandon Messersmit Service Dog Introduction** (October 30, 2026): Brandon bringing service dog Ember to office; team coordination needed to ensure compatibility with any existing dogs and all team members
+- **Reusable Materials Storage Organization**: Joshua Fromm to work with team to designate storage space for reusable packing materials (boxes, fill, padding) separate from trash to avoid confusion
 
 ### Ongoing
+- **Eco-Friendly Supply Sourcing**: All team members requested to choose eco-friendly options when requesting supplies; prioritize paper-based tape and biodegradable materials
 - **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
+- **AI Tool Setup**: Team members continuing to set up individual Claude connectors and exploring Gemini for cost-effective alternatives
 
 ## Client & External References
 - **KrateoSky**: Partnership and integration meetings ongoing; multi-location milestone celebration event held June 18-19, 2026
@@ -73,12 +82,13 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Recurring Topics & Themes
 - **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics
-- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026)
-- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes)
+- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); recent focus on new hire day-to-day logistics and team coordination
+- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning
-- **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, leadership supporting work-life balance
-- **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference; safety policies around code generation
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments
+- **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, leadership supporting work-life balance; new attention to accommodations for team members with service animals
+- **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference; safety policies around code generation; practical AI assistant templates for UAS technician workflows
+- **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -93,13 +103,34 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Recent Activity
 
-### October 28, 2026
-- **All Hands Meeting**: Cory Dixon convened all hands meeting on October 28, 2026
-- **New Hire Integration**: Lynn Regnier (Controller), Brandon Messersmit (UAS Technician - afternoon arrival), and Bob Edson (Principal UAS Technician) started; Cory Dixon provided welcome refreshments
-- **Jack Elston's Claude AI Rollout** (15:55-15:58): Announced Claude AI assistant access with pre-configured BST knowledge, process documentation, and individual connector setup. Emphasized cost management via Gemini preference and strict code generation restrictions for aircraft safety. Academy resources provided for team onboarding.
-- **Brandon Messersmit AI Assistant Demonstration** (15:58-16:58): Brandon demonstrated functional "Charlie" AI assistant template using voice dictation workflow. Provided step-by-step setup guide for team: Claude invite acceptance, connector authorization, voice dictation setup, Slack integration, and assistant attribution. Message cut off mid-explanation with hint of additional setup instructions.
-- **Team Schedule Updates**:
-  - Josh Waldman leaving around 4pm (October 28)
-  - Sam Hild leaving around 3pm (October 27 - PT scheduling conflict)
-  - Robert Edson (new Principal UAS Technician) leaving around 2:30pm (October 27 - home issues)
-- **Flux Pen Location Discovery**: Sam Hild revealed flux pens are stored under the stairs (resolving Jack Elston's October 27 search)
+### October 29, 2026
+
+**Team Logistics & Arrivals**
+- Beck Cotter arriving around 9:30am after 8:30am doctor appointment
+- Robert Edson (new Principal UAS Technician) heading out to doctor appointment; returning to office in the morning
+
+**Eco-Friendly Packing Initiative Launch**
+- Jack Elston announced comprehensive new policy (08:33) to reduce single-use, non-biodegradable materials:
+  - Reusing boxes, fill, and padding from incoming shipments (noting team already does this mostly)
+  - Switching to paper-based tape
+  - Using biodegradable packing materials to replace plastic alternatives
+  - All team members asked to consider eco-friendly options when requesting supplies
+- Joshua Fromm identified issue (08:48): Someone discarded padded bags he was saving; suggested creating designated storage space for reusable materials to prevent confusion between trash and reusable items
+- Josh Waldman inquiry (13:29): Asked if anyone is saving packing materials
+
+**Welcome & Amenities**
+- Robert Edson offered fresh bagels to team (09:34)
+- Meredith Needham thanked unnamed team member (possibly with user ID U07FN4QSNDN) for handling responsibilities during her absence (09:42)
+
+**Work-From-Home Policy Clarification**
+- Jack Elston issued clarification (11:29) after noticing recent confusion:
+  - Laptops welcome to take home for personal hours, but no BST or customer IP on personal computers
+  - WFH available for legitimate personal needs (appliance repair, childcare, etc.)
+  - Office presence preferred during work hours to simplify project management
+  - Policy should not be abused; in-person attendance expected during normal working hours
+  - Offered to clarify further if confusion persists
+
+**Service Dog Accommodation Request**
+- Brandon Messersmit asked permission (14:35) to bring service dog Ember to office starting next day
+- Joshua Fromm expressed enthusiasm (14:01)
+- Jack Elston approved (14:43) with requirement to coordinate with team to ensure no dog compatibility issues

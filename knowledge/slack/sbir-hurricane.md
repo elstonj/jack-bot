@@ -66,25 +66,28 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **PSNS Sleep Mode Issues:** Jack Elston diagnosed root cause of ~4 mA "fake sleep" condition in power supply network system (PSNS); issue traced to MC33772C BMS remaining awake after PSNS loses power without entering sleep mode; LTC2954 (U13) normally enables buck from VBATT, but when tube enters SHUTDOWN, TurnOffAircraft() holds PSNS power line low for ≥7s; however, PSNS previously ignored this line while CHARGING and RUNNING_PROTECTED; fix implemented in new firmware (v0.4, v0.41, v0.5) for PSNS and deployment tube (October 23, 2026); firmware ready for testing but not yet flashed or bench-tested
 - **PSNS Firmware CAN Communication Issue:** New firmware versions on v0.4 and v0.5 boards only transmit supply packets over CAN bus; QC testing failed to read serial numbers; Ali Sulehria confirmed issue by testing v0.4 board before and after firmware flash—expected packets were present before update but only supply packets appeared after flashing (October 23, 2026); issue requires investigation and resolution
 
+**Production & Logistics (October 29, 2026):**
+- PSNS swap execution strategy: S0 disassembly and board replacement proceeding with target ship date no later than October 13 (November 13) (October 29, 2026)
+- Estimated timeline: 30-40 hours for batch assembly/pallet prep; 40-50 hours accounting for training of new personnel (October 29, 2026)
+- Jack Elston: "I'm fine getting them out when it makes sense - the S3s are still a priority, but if there's gaps in that work, might be good to have a team start on S0's. Perhaps a goal of shipping NLT the 13th?" (October 29, 2026)
+
 ## Projects & Initiatives
 
 **S0 Aircraft Development & Production**
 - Ongoing design refinement and manufacturing of hurricane reconnaissance aircraft
 - Active quality control testing and verification processes
-- Multiple aircraft builds in various stages of completion (13 aircraft owed to partner due for shipment end of week or start of following week as of October 28, 2026)
+- **S0 PSNS Swap Campaign (October 29, 2026 - ongoing):** 13 aircraft undergoing PSNS board replacement; Sam Hild prepared kits (autopilot units for those requiring them, PSNS boards) with designated bin for old boards; Joshua Fromm to execute disassembly and swap with estimated 40-50 hours labor (including new personnel training); target shipping NLT October 13 (likely November 13 based on context)
 - Continuous iteration on components, firmware, and operational procedures
-- S0 refurbishment underway replacing PSNS boards with v0.5 versions (expected completion by end of week of October 28, 2026)
+- S3 aircraft development remains primary priority with S0 work filling schedule gaps
 
 **PSNS (Power Supply Network System) Sleep Mode Bug Fix & Hardware Migration**
 - Root cause identified by Jack Elston (October 23, 2026)
 - New firmware deployed for testing on v0.4, v0.41, and v0.5 boards
 - ~4 mA "fake sleep" case resolved; ~1 mA case still open
-- Testing phase underway to validate fixes
-- CAN communication regression in new firmware requires resolution
+- **Testing phase underway:** CAN communication regression in new firmware requires resolution before broad deployment
 - **Hardware transition strategy:** v0.4 and v0.41 boards being retired from service; v0.5 boards becoming standard (October 28, 2026)
-- All PSNS boards in hand to be QC'd by close of business (October 28, 2026)
-- Remaining S0 kits to be built up by end of week (October 28, 2026)
-- S0 refurbishment (PSNS replacement) scheduled for completion by end of following week (week of October 28, 2026)
+- All PSNS boards in hand to be QC'd by close of business (October 28, 2026) - completed per Sam Hild
+- S0 refurbishment (PSNS replacement) scheduled for completion during week of October 28, 2026; now actively underway as of October 29, 2026
 
 **Vertiq Motor Integration Project**
 - Motor controller switched from previous system to Vertiq propulsion (October 2, 2026 completion)
@@ -98,6 +101,12 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Higher-rate data recording modification integrated for operational deployment
 - Systems being prepared for NOAA operational handover
 
+**GCS Radio Heating Issue Investigation (October 29, 2026)**
+- Problem identified: Ground station core board exhibiting radio heating under certain conditions
+- Investigation strategy: Obtain replacement Core board from Matt, verify working radio, run through QC process, test for heating issues
+- Sam Hild can reproduce problem steps and will assist in diagnostics
+- Ali Sulehria assigned to QC process and testing; question raised about expected heating timeline
+
 **Deployment Tube & Parachute System Refinement**
 - Parachute cap design updated to tighter-fitting version (July 29, 2026)
 - Spring-loaded switch replacement procedure documented
@@ -106,15 +115,18 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 ## Action Items & Commitments
 
 **Outstanding/In-Progress:**
-- Jack Elston: Coordinate visit by Russel and others; finalize draft agenda/schedule document (October 23, 2026)
-- Jack Elston & Ali Sulehria: Bench-test new PSNS firmware (v0.4, v0.41, v0.5) for sleep mode fixes and CAN communication regression (October 23, 2026)
+- Joshua Fromm: Execute S0 disassembly and PSNS board swap; estimated 40-50 hours with new personnel training involved; target completion NLT October 13 (November 13) (October 29, 2026)
 - Joshua Fromm: Verify with Vertiq if 3-week lead time for qty150 motors is standard or instance-specific (as of October 2, 2026)
 - Joshua Fromm: Ensure RPM feedback requirement is established upfront for 6S ESC/motor combo selection to avoid missing critical specifications (September 23, 2026)
-- Ali Sulehria: QC all PSNS boards in hand by close of business (October 28, 2026)
-- Team: Build up remaining S0 kits by end of week (as of October 28, 2026)
-- Team: Refurbish S0 aircraft (replace PSNS with v0.5 boards) by end of following week (as of October 28, 2026)
-- Team: Ship 13 S0 aircraft by end of week of October 28 or start of following week
-- Joshua Fromm: Coordinate with Matt B via Jack Elston regarding logistics of returning 3 aircraft from AOC and shipping 13 aircraft; clarify whether to wait on consolidated pallet shipment or proceed with separate shipments to save money (October 28, 2026)
+- Jack Elston: Obtain Core board from Matt when available; verify working radio status; coordinate QC process for radio heating problem diagnostics (October 29, 2026)
+- Ali Sulehria: QC new Core board through standard process after receipt; test for radio heating behavior; determine expected heating timeline (October 29, 2026)
+- Sam Hild: Provide troubleshooting steps to reproduce radio heating problem to Jack Elston and Ali Sulehria (October 29, 2026)
+- Jack Elston & Ali Sulehria: Bench-test new PSNS firmware (v0.4, v0.41, v0.5) for sleep mode fixes and CAN communication regression (October 23, 2026) - status unclear; may be deferred pending hardware migration
+- Sam Hild: Monitor PSNS board swap bins to collect old boards as removal is completed (October 29, 2026)
+
+**Completed:**
+- Ali Sulehria: QC all PSNS boards in hand by close of business (October 28, 2026) - **COMPLETED**
+- Sam Hild: Prepare kits (autopilots, PSNS boards) and bin for old boards - **COMPLETED** (October 29, 2026)
 
 ## Client & External References
 
@@ -132,37 +144,53 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - T-Motor: Propulsion components (F60)
 - Samsung: Battery cells (INR21700-50S)
 - Panasonic: Previous battery cells (NCR18650GA, discontinued)
-- AOC: Holds 3 S0 aircraft and other pallets for return; Matt B (contact) coordinating logistics
+- AOC: Holds 3 S0 aircraft and other pallets for return; Joe (contact) coordinating logistics
+- Matt: PSNS rework engineer and warehouse manager (Core board source for radio diagnostics)
 
 **Internal/Team Contacts:**
-- Beck Cotter: External coordination and scheduling; confirming preferences regarding shipment consolidation (October 28, 2026)
-- Ali Sulehria: PSNS firmware testing and QC; board QC responsibility (October 28, 2026)
+- Beck Cotter: External coordination and scheduling
+- Ali Sulehria: PSNS firmware testing, QC responsibility, Core board QC and radio heating diagnostics
 - Alex Lomis: 6S battery configuration research
-- Maciej: Motor/ESC RPM feedback requirements
-- Matt: PSNS rework engineer conducting v0.5 board changes; warehouse space management (October 28, 2026)
+- Maciej: Motor/ESC RPM feedback requirements; storm weather monitoring
+- Sam Hild: Kit preparation, PSNS board bin management, radio heating problem reproduction steps
+- Jack Elston: Project technical leadership, firmware diagnostics, GCS and radio system oversight
+- Joshua Fromm: S0 disassembly/swap execution, logistics coordination, personnel training
 
 ## Recurring Topics & Themes
 
 1. **Motor/Propulsion System Integration:** Repeated cycles of motor selection, ESC compatibility, RPM feedback requirements, and supplier delays; Vertiq integration completed but required extended problem-solving
-2. **Power Management Issues:** Ongoing work on PSNS sleep modes, battery configuration, power consumption optimization across multiple voltage systems; hardware migration strategy now in place (v0.5 standardization)
-3. **Ground Station Development:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities
+2. **Power Management Issues:** Ongoing work on PSNS sleep modes, battery configuration, power consumption optimization across multiple voltage systems; hardware migration strategy now in place (v0.5 standardization); sleep mode fix moving into deployment phase with remaining ~1 mA case open
+3. **Ground Station Development:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities; radio heating issue emerged as new problem requiring diagnostics
 4. **Component Quality & Supply Chain:** Regular evaluation of suppliers, parts quality (defects detected and addressed), manufacturing standards
-5. **Firmware Testing & Deployment:** Iterative testing and debugging of new firmware versions before deployment to operational systems
+5. **Firmware Testing & Deployment:** Iterative testing and debugging of new firmware versions before deployment to operational systems; CAN communication regression in PSNS firmware requires resolution before broad rollout
 6. **NOAA Integration:** Regular coordination with NOAA on operational requirements, handover preparation, and capability enhancements
 7. **Deployment Tube System:** Ongoing refinement of parachute deployment timing, cap design, and associated mechanical components
-8. **Production Scheduling & Logistics:** Coordination of aircraft builds, QC procedures, and customer shipments with timeline management
+8. **Production Scheduling & Logistics:** Coordination of aircraft builds, QC procedures, and customer shipments with timeline management; S0 PSNS swap campaign underway alongside S3 priority work
+9. **Hardware Diagnostics & Troubleshooting:** Active investigation of GCS radio heating issues with focus on Core board replacement and systematic testing
 
 ## Important Resources
 
 - [GCS Visit Draft Document](https://docs.google.com/document/d/1e57pxbMghsVvhTZb2QxfVlT7O80-tV__Nub3umt1PlM/edit?usp=drive_link) (October 23, 2026) - Agenda/planning for Russel and others visit
-- PSNS Firmware Versions: v0.4, v0.41, v0.5 (with sleep mode and CAN communication fixes)
+- PSNS Firmware Versions: v0.4, v0.41, v0.5 (with sleep mode and CAN communication fixes); firmware ready for testing/deployment but CAN regression requires resolution
 - Deployment Tube Firmware: Updated to address SHUTDOWN sequence
 - 2026 DUAL Procurement Spreadsheet: Comprehensive GCS and testing equipment components list
 - QC Site Configuration: Modified no_ias_a parameter (-2.4989) applied to all existing S0s
 - RADIO A/B Nomenclature: Standardized across all GCS and aircraft systems (replacing CH1/CH2)
 - Microhard Radio: ATS108 configuration implemented
+- PSNS Board Bins: Separate bin designated for old v0.4/v0.41 boards during swap campaign
 
 ## Recent Activity
+
+**October 29, 2026:**
+- S0 PSNS swap campaign actively commenced: Sam Hild confirmed all kits prepared (autopilots for units needing them, PSNS boards, and designated old board collection bin) (8:29 AM)
+- Jack Elston authorized Joshua Fromm to begin S0 disassembly and PSNS board replacement "when it makes sense" with S3 aircraft as priority (8:35 AM)
+- Joshua Fromm provided time estimate: 30-40 hours base assembly/pallet prep; 40-50 hours with new personnel training (8:43 AM)
+- Jack Elston confirmed flexible timeline but proposed target ship date "NLT the 13th" (no later than October 13, likely November 13 based on current calendar context) (9:28 AM)
+- Joshua Fromm accepted timeline proposal (9:32 AM)
+- GCS radio heating problem identified: Jack Elston proposed diagnostic approach using Core board from Matt with verified working radio; run through QC process to test for heating (1:02 PM)
+- Sam Hild indicated ability to provide problem reproduction steps (2:09 PM)
+- Ali Sulehria confirmed willingness to proceed with diagnostics ("yaaaaaay") and inquired about expected radio heating timeline (3:12 PM)
+- No storms forecasted for next 7 days (Maciej noted) enabling schedule flexibility for S0 work (8:42 AM)
 
 **October 28, 2026:**
 - Jack Elston issued comprehensive production timeline and hardware strategy updates:
@@ -173,11 +201,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
   - S0 refurbishment (PSNS replacement with v0.5) scheduled for completion by end of following week
   - 13 S0 aircraft shipment planned for end of week or start of following week
   - Suggested including 3 AOC aircraft in return shipment to recover pallets; requested Joshua Fromm to check with Matt B about this addition
-- Joshua Fromm raised concern about potential change to previously discussed shipping logistics plan: clarified that original plan was to ship 13 aircraft in pallet and have NOAA return all 3 AOC aircraft stacked to save money; questioned whether new proposal (separate shipments) represented abandonment of consolidated approach
-- Jack Elston acknowledged not recalling written plan documentation; indicated he had emailed Matt B (warehouse manager wanting to clear space) to verify waiting was acceptable
-- Joshua Fromm confirmed either approach acceptable; primary concern was ensuring coordination
+- Joshua Fromm raised concern about potential change to previously discussed shipping logistics plan
+- Jack Elston acknowledged not recalling written plan documentation; indicated he had emailed Matt B about space constraints
 
 **October 23, 2026:**
 - Jack Elston diagnosed PSNS sleep mode "fake sleep" issue (~4 mA case): MC33772C BMS remains awake when PSNS loses power without proper sleep sequence; LTC2954 (U13) and TurnOffAircraft() behavior analyzed; fix implemented in new firmware for v0.4, v0.41, v0.5 boards and deployment tube; ~1 mA case remains open; firmware ready for testing but not yet flashed/bench-tested
 - Ali Sulehria identified regression in new PSNS firmware: v0.4 and v0.5 boards only transmitting supply packets over CAN after update; serial number QC reads failing; confirmed by testing v0.4 board before/after flash showing expected multi-packet transmission before update and supply-only packets after update; root cause requires investigation
-- Jack Elston drafted visit agenda document for Russel and others; Beck Cotter indicated informal preference but confirmed document would be helpful for coordination
+- Jack Elston drafted visit agenda document for Russel and others

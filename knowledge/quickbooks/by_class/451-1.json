@@ -4,16 +4,16 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-10-29",
-    "end": "2026-10-29"
+    "start": "2024-10-30",
+    "end": "2026-10-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 7855.61,
+    "expenses": 8940.62,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 7507.82,
+      "DIRECT COSTS:DC-Direct Material Purchases": 8556.83,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 49.95
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 85.95
     }
   },
   "invoices": [],
@@ -34,6 +34,64 @@
           "amount": 2.5,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "PGA DISCLAIM FEE"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "JT71988",
+      "total": 1654.35,
+      "attributed": 1085.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 11.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "3DPrintJob File: Motor-Connector-Seal-V192.step Volume: 359.66mm\u00b3 Box: 7.97mm x 24.56mm 9.67mm x Process / Material: MJF/Nylon PA12 S Color: Dark Purple Finish: Raw Units: mm Price: 1.15 Options: Comments:"
+        },
+        {
+          "amount": 256.76,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 569.34,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "3DPrintJob File: Main-Fuselage-V193.step Volume: 426606.00mm3 Box: 203.19mm x 254.37mm x 203.20mm Process / Material : MJF/Nylon PA12 S Color: Raw Finish: Raw Units: mm Price: 560.99 Options: Comments:"
+        },
+        {
+          "amount": 116.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "3DPrintJob File: Vertical-Fin-V191.step Volume 44322.28mm\u00b3 Box: 34.00mm x 168.07mm x 112.17mm Process / Material: MJF/Nylon PA12 S Color: Black Finish: Raw Units: mm Price: 57.78 Options: Comments:"
+        },
+        {
+          "amount": 83.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Insert-R2-v200.step Volume: 21048.75mm\u00b3 Box: 56.39mm x 91.55mm x 27.30mm Process / Material: MJF/Nylon PA12 S Color: Black Finish: Raw Units: mm Price: 20.6 Options: Comments:"
+        },
+        {
+          "amount": 348.03,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Top-shell-tail-v193.step Volume: 114436.50mm\u00b3 Box: 82.04mm x 141.03mm x 93.32mm Color: Dark Process / Material: MJF/Nylon PA12 S Finish: Raw Options: Comments: Blue"
+        },
+        {
+          "amount": 156.46,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Top-shell-cover-V193.step Volume: 106965.13mm\u00b3 Box: 189.87mm x 217.36mm x 66.04mm Process / Material: MJF/Nylon PA12 S Color: Raw Finish: Raw Units: mm Price: 155.52 Options: Comments:"
+        },
+        {
+          "amount": 76.66,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Pancake-Battery-Charge-Housing.step Volume: 40114.32mm\u00b3 Box: 42.05mm x 51.34mm x 95.38mm Process / Material: MJF/Nylon PA12 S Color: Dark Finish: Raw Units: mm Price: Red 37.93 Options: Comments:"
+        },
+        {
+          "amount": 36.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping:"
         }
       ]
     },

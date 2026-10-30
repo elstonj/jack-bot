@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-29: 521.1 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 5.1 h._
+_Computed from Toggl as of 2026-10-30: 526.3 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Dan 12.2 h, Stachura 10.2 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,28 +6,30 @@ _Computed from Toggl as of 2026-10-29: 521.1 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 521.1 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 526.3 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 475.0 | 91.1% |
+| Ben Busby | 475.0 | 90.3% |
 | Ethan Domagala | 28.8 | 5.5% |
 | Dan | 12.2 | 2.3% |
-| Stachura | 5.1 | 1.0% |
+| Stachura | 10.2 | 1.9% |
 
-**Primary Contributor:** Ben Busby dominates project work with 475 hours.
+**Primary Contributor:** Ben Busby (dominant contributor with 90% of tracked time)
 
 ## Activity Timeline
 **Recent Entries:**
-- Ethan Domagala: 6.0h (no description)
-- Stachura: 3.9h (no description)
-- Stachura: 0.6h (no description)
+- Ethan Domagala: 6.0 hours (no description)
+- Stachura: 3.9 hours (no description)
+- Stachura: 0.6 hours (no description)
+- Stachura: 5.2 hours (no description)
 
-*Note: Recent entries lack descriptions; activity is ongoing but purposes unclear.*
+Recent activity shows Stachura with 9.7 cumulative hours across three recent sessions and Ethan Domagala with a 6.0-hour session. No descriptions provided for recent work.
 
 ## Insights
-- **Concentration:** Project heavily dependent on single contributor (Ben Busby at 91% of total effort)
-- **Limited Documentation:** Recent time entries have no descriptions, limiting visibility into current work type
-- **Minimal Secondary Support:** Remaining team members contribute minimally; Ethan Domagala is secondary contact but represents only 5.5% of effort
-- **IRAD Classification:** Non-billable hours suggest internal R&D investment in core platform development
+- This is an **internal R&D project** (IRAD — not billable to external client)
+- **Highly concentrated effort:** Ben Busby carries ~90% of the project workload
+- Recent weeks show increased activity from secondary team members (Stachura, Ethan)
+- **Documentation gap:** Recent time entries lack descriptions; work type is unclear from available data
+- Total investment of 526+ hours suggests this is a substantial, ongoing development initiative

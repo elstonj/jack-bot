@@ -1,111 +1,105 @@
-_Asana snapshot as of 2026-10-29: 209 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-10-30: 212 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Purchasing
 
 ## Overview
+
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
-- **Status:** Active — high-volume purchasing workflow
-- **Dollar Value:** Not quantified in metadata; appears to span multiple projects ranging from small shop supplies to significant equipment orders
-- **Timeline:** Orders span June 2025 through December 2026, with heaviest concentration in summer/fall 2026
-
-**Risk Signals:**
-- 209 open tasks, 0 completed — indicates task closure is not being tracked, potentially masking actual progress
-- Multiple tasks with past or near-term dates (e.g., "McMaster" due 2025-02-24 is already overdue)
-- Heavy reliance on custom form submission (note emphasizes "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE")
-- Many tasks assigned to "Unassigned" despite being tracked as open
-
-## Key Patterns & Observations
-
-**Primary Requesters:**
-- Joshua Fromm (highest volume — S3 sales, shop supplies, multi-project orders)
-- Sam (IRAD S3 and related components)
-- Alex / Alex Lomis (SOCOM Pope ii, S0 VTOL, Magnetometer)
-- Ethan / Ethan Domagala (ByLight/Mustang Pt. 2 components)
-- Dan Prendergast, Spencer, others (lower volume)
-
-**Main Projects:**
-- [451-1] INSTAAR S3 x2 (S3 sales)
-- [001-7] IRAD S3 (numerous component orders)
-- [300-3] 2026 IDIQ (Hurricane) (S0 Hurricane system)
-- [600-01] SOCOM Pope ii (foam, Amazon, Aegis/Videology orders)
-- [001-4] IRAD S0 VTOL (motors, servos, prototyping)
-- [550-1] Navy SBIR: Magnetometer (sensors, connectors)
-- [043-3] Mustang Pt. 2 (ByLight gimbal, laser, fasteners)
-- Shop Supplies (standing orders across multiple vendors)
-- General Sales (no project-specific designation)
-
-**Vendor Patterns:**
-- **Recurring:** McMaster Carr, Amazon, Digikey, Mouser, JawsTec, ProtoLabs, SendCutSend
-- **Specialty:** Aegis/Videology, Bartington (sensors), Dronetag (remote ID), TMotor, MKS (servos), Vertiq
-
-**Order Status Breakdown:**
-- **Order Placed:** ~120 tasks (earliest: June 2026, latest: October 2026)
-- **Order Shipped:** ~30 tasks
-- **Order Received:** ~30 tasks
-- **Order Placed in Inventory:** ~25 tasks (appears to be a holding status for future/non-urgent items)
-
-**Tax Exempt Patterns:**
-- YES: Mostly S3 sales, S0 Hurricane, IRAD projects (likely government-funded)
-- NO: Shop supplies, general retail, some component orders
+- **Status:** Active — high-volume operational procurement system
+- **Dollar Value:** Not centrally tracked in custom fields; individual orders vary (components to large assemblies)
+- **Timeline:** Ongoing; orders range from immediate to 6+ months out (due dates through Dec 2026)
+- **Key Pattern:** All tasks use standardized Asana form requiring vendor, requester, project code, tax-exempt status, and placement date
 
 ## Task Summary
 
-| Status | Count |
-|--------|-------|
-| Open (all statuses) | 209 |
-| Completed | 0 |
+- **Total Tasks:** 212 open, 0 completed
+- **All-hands project:** Nearly all tasks assigned to **Meredith O'hara Needham** (processor) or **Unassigned** (awaiting processing)
+- **Task by Status:**
+  - Order Placed: ~110 tasks
+  - Order Received: ~60 tasks
+  - Order Shipped: ~35 tasks
+  - Order Placed in Inventory: ~70 tasks
+  - Other/unspecified: ~7 tasks
 
-**Assignee Distribution:**
-- Meredith O'hara Needham: ~110 tasks (primary processor)
-- Unassigned: ~99 tasks (awaiting action or closure)
+## Key Requesters & Projects
 
-**Completion Rate:** 0% — **Critical:** All 209 tasks remain open despite many showing "Order Placed," "Order Shipped," or "Order Received" status. This suggests tasks are not being closed post-fulfillment.
+Purchasing requests span multiple concurrent projects:
 
-## Recent Activity
+| Project | Notable Requesters | Order Count | Notes |
+|---------|-------------------|------------|-------|
+| [001-7] IRAD S3 | Joshua Fromm, Sam, Ethan, Alex | ~35 | Most active; components, gimbal parts, regulators, antenna |
+| [451-1] INSTAAR S3 x2 | Joshua Fromm | ~20 | PCBs, servos, connectors, bearing orders for sales |
+| [300-3] 2026 IDIQ (Hurricane) | Joshua Fromm, Sam | ~35 | Tubes, servos, batteries, composites, large platform build |
+| [600-01] SOCOM Pope ii | Alex, Joshua Fromm, Dan P. | ~15 | Electronics, foam toppers, components |
+| [001-4] IRAD S0 VTOL | Alex | ~20 | Motors, servos, sensors, props, Dronetag, protolabs |
+| [001-16] IRAD Swiftstation | Alex, Ethan | ~10 | Wiring, sensors, USB adapters, FTDI boards |
+| Shop Supplies | Joshua Fromm, Ethan | ~25 | McMaster, Amazon, Digikey, tools, tapes, shipping supplies |
+| [550-1] Navy SBIR: Magnetometer | Alex, Sam | ~10 | Sensors, connectors, GetFPV parts |
+| [043-3] Mustang Pt. 2 | Ethan, Ethan Domagala | ~12 | Gimbal, laser, fasteners, composite tails |
+| [001-1] IRAD General | Nate, Alex | ~8 | Labels, switches, clips, packaging |
+| General Sales (No Specific Project) | Joshua Fromm, Alex | ~12 | Motors, props, batteries (for resale) |
+| MULTIPLE PROJECT (breakdown pending) | Joshua Fromm | ~8 | Orders requiring project cost allocation; incomplete metadata |
 
-**Approaching Deadlines (Next 2 weeks from latest task dates in October 2026):**
-- jawstec for s3 parts | Due 2026-10-28
-- Amazon Shop Supplies Tapes | Due 2026-10-30
-- mcmaster (IRAD S3) | Due 2026-10-29
-- mks servos for s3 sales | Due 2026-10-29
-- Multiple shop supply orders | Due 2026-10-23–24
+## Recent Activity & Risk Signals
 
-**Recently Completed (per Order Status field):**
-- S3 Remote Id Modules | Shipped, Due Oct 10
-- S3 Backup Regulators | Shipped (two instances), Due Sept 24, Sept 16
-- McMaster Hardware order | Received, Due Sept 6
-- GetFPV | Received, Due Sept 4
+### Approaching Deadlines (Critical)
 
-**Stale/Long-Pending:**
-- McMaster | Due 2025-02-24 (project [039-1] S2 Oklahoma) — **1 year overdue**
-- Multiple "Order Placed in Inventory" items dated June–July 2026 with due date 2026-11-07 (appears to be a placeholder due date)
+Many tasks with **Oct 2026 due dates** are still in "Order Placed" or earlier status, suggesting:
+- Orders placed within past few days (Oct 8–31 window)
+- Delivery expected imminently or already in transit
+- No completion/close-out yet in Asana
 
-## Notes & Context
+**Sample approaching deadlines:**
+- Oct 8: Microhard 10x p900, 100x p400 — [300-3] Hurricane — due date matches "place date"
+- Oct 11: S3 Laser, PSKN3-24/55S Antenna — [001-7] IRAD S3
+- Oct 16–17: Multiple S3 parts (jawstec, skygeek, digikey) — all "Order Placed"
+- Oct 23: S3 sales orders (deans, hiawatha hobbies, voltroam) — due date matches requested placement
 
-**Form Requirement:**
-Project notes direct all tasks to use a specific Asana form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594), with warning that non-compliant tasks auto-delete. This is the intake mechanism for the purchasing workflow.
+### Overdue Tasks (Concerning)
 
-**Data Quality Issues:**
-1. **Task Closure:** 0 completed tasks suggests Asana is used for tracking order placement and status, but closed orders are not being marked complete. Manual review of "Order Received" or "Order Shipped" items needed to understand true closure rate.
-2. **Unassigned Tasks:** ~99 unassigned tasks are marked open; unclear if these are pending intake, awaiting assignment, or stalled.
-3. **Due Date Inconsistency:** Many "Order Placed in Inventory" tasks have a due date of 2026-11-07 (appears to be a system default), making them impossible to prioritize.
-4. **Multi-Project Billing:** Several orders tagged "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" lack clear cost allocation in the visible fields.
+Several tasks have past-due dates but remain open:
+- **Aug 9–Sept 12, 2026:** ~15 tasks due but still in "Order Placed" or "Order Received" (e.g., home depot, GetFPV, jawstec for S3 IRAD)
+- **June–July 2026:** ~40 tasks in "Order Placed in Inventory" with Nov 7 due date assigned retroactively (appears to be catch-all placeholder)
 
-**Custom Fields in Use:**
-- Requires Approval? (Yes/No)
-- Tax Exempt? (Yes/No)
-- Name of requester
-- Order status (Order Placed, Order Shipped, Order Received, Order Placed in Inventory)
-- Project assignment
-- Vendor/order description
+### Status Breakdown Patterns
 
-**Process Observations:**
-- Heavy reliance on Joshua Fromm for S3 and shop supply aggregation
-- Meredith O'hara Needham appears to be the single point of processing/assignment
-- Tax exemption is properly tracked by project type (government/internal vs. commercial)
-- Orders span highly specialized vendors (JawsTec, StepGlobal, Bartington) and general retail (Amazon, McMaster)
+- **Order Placed in Inventory (~70 tasks):** Likely awaiting integration into project assembly or fulfillment. Due date **Nov 7, 2026** appears to be default/placeholder for many older requests.
+- **Order Received (~60 tasks):** In receiving workflow; some dated Aug–Sept still unprocessed.
+- **Order Shipped (~35 tasks):** Tracked but not yet marked complete; some from July–Aug.
+- **Order Placed (~110 tasks):** Most recent; placed within last 2 months, expected delivery incoming.
 
----
+## Data Quality Issues
 
-**Recommendation:** Establish a task closure protocol (mark tasks complete upon receipt, not just order placement) and review the 99 unassigned tasks for processing backlog or stale entries.
+1. **Incomplete Project Codes:** ~8 tasks list "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN" (e.g., mcmaster for multiple projects, S3 RF Connectors, protolabs, digikey). These prevent accurate cost allocation.
+
+2. **Stale Due Dates:** Large batch of tasks (70+) assigned **Nov 7, 2026** as due date despite requested order dates in May–July 2026. Suggests tasks not closed out after delivery.
+
+3. **No Completion Tracking:** 0 completed tasks despite 212 open. Orders marked "Order Received" or "Order Shipped" should likely be closed; system appears to use status field instead of task completion.
+
+4. **Unassigned Tasks:** ~100 tasks unassigned (awaiting Meredith review/action). May indicate backlog or new requests pending intake.
+
+5. **Tax Exempt Status:** Tracked but not aggregated. Mix of YES/NO across projects; likely affects billing/compliance.
+
+## Vendor Patterns
+
+**Most Frequent Vendors:**
+- McMaster Carr / McMaster (electronics, fasteners, hardware)
+- Jawstec (aerospace/UAV components)
+- Amazon (consumables, misc)
+- Digikey (electronics, components)
+- Protolabs (custom fabrication)
+- Mouser (electronics)
+- Sendcutsend (sheet metal fabrication)
+- Horizon Hobby, GetFPV, Skygeek (hobbyist UAV suppliers)
+- Composites & materials: Clearwater Composites, Composites Store, Rockwest
+- Specialized: Bartington (sensors), Microhard (RF modules), Dronetag (remote ID), APC (props)
+
+## Recommendations for AI Assistant
+
+1. **Prioritize Oct 2026 orders** for status checks; delivery imminent.
+2. **Flag "MULTIPLE PROJECT" orders** as requiring clarification before billing.
+3. **Recommend closing** tasks in "Order Received" or "Order Shipped" status that are >30 days old.
+4. **Use Nov 7, 2026 due date as signal** for stale/unbilled inventory—not real deadline.
+5. **Cross-reference requesters** with project leads to validate project codes and priorities.
+6. **Monitor Meredith's workload:** Single point of failure for 100+ open purchase orders.

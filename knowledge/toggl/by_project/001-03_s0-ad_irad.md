@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-23: 106.1 h total since 2020-01-01 — Ethan Domagala 76.6 h, Nate 17.5 h, Alex 8.0 h, Jack Elston 2.8 h, Stachura 1.2 h._
+_Computed from Toggl as of 2026-10-30: 110.1 h total since 2020-01-01 — Ethan Domagala 80.6 h, Nate 17.5 h, Alex 8.0 h, Jack Elston 2.8 h, Stachura 1.2 h._
 
 # [001-03] S0-AD IRAD — Time Tracking
 
@@ -6,26 +6,27 @@ _Computed from Toggl as of 2026-10-23: 106.1 h total since 2020-01-01 — Ethan 
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 106.1 hours
+- **Total Hours Tracked:** 110.1 hours
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ethan Domagala | 76.6 | 72.2% |
-| Nate | 17.5 | 16.5% |
-| Alex | 8.0 | 7.5% |
-| Jack Elston | 2.8 | 2.6% |
+| Ethan Domagala | 80.6 | 73.2% |
+| Nate | 17.5 | 15.9% |
+| Alex | 8.0 | 7.3% |
+| Jack Elston | 2.8 | 2.5% |
 | Stachura | 1.2 | 1.1% |
 
-**Primary Contributor:** Ethan Domagala (nearly 3/4 of all effort)
+**Primary Contributor:** Ethan Domagala (73% of project effort)
 
 ## Activity Timeline
-- **Recent work:** S0-AD Launch Rail design/development (0.8h, Ethan Domagala)
-- **Recent work:** Unspecified task (8.0h, Ethan Domagala)
-- Work appears ongoing with minimal documentation on latest entries
+- **Recent Work:** Two entries from Ethan Domagala (8.0h and 4.0h) with no descriptions provided
+- **Work Pattern:** Sporadic documentation; recent entries lack detail on work performed
 
 ## Insights
-- **Highly concentrated effort:** Ethan Domagala dominates this IRAD project, suggesting either specialized technical ownership or primary responsibility for S0-AD development
-- **Non-billable research:** This is an IRAD (Internal Research & Development) project with no billable hours—typical for exploratory or internal capability development
-- **Documentation gap:** Most recent 8-hour entry lacks description, indicating potential tracking inconsistency
-- **Limited team involvement:** Majority of team (Nate, Alex, Jack, Stachura) contribute minimally, suggesting narrow scope or specialized focus
+- **Work Type:** Unclear—no descriptions available for recent entries to determine current focus
+- **Notable Patterns:**
+  - Heavily concentrated on single team member (Ethan Domagala)
+  - Secondary contributors (Nate, Alex) have minimal, declining involvement
+  - Recent tracking lacks descriptive details, limiting visibility into current work scope
+  - Non-billable IRAD project suggests internal R&D or exploratory work

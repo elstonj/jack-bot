@@ -1,65 +1,77 @@
 # Ben Busby — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 27 across four data collection periods
-- Date range: 26 Oct – 28 Oct 2026
-- Pattern: Sustained high activity across three consecutive days (26–28 Oct)
+- Total messages scanned: 34 across five data collection periods
+- Date range: 26 Oct – 29 Oct 2026
+- Pattern: Sustained high activity with escalation through 28 Oct, continued engagement 29 Oct
   - 26 Oct: 9 messages
   - 27 Oct: 6 messages
   - 28 Oct: 12 messages (peak activity day)
-- Suggests ongoing operational intensity with escalating engagement on 28 Oct
+  - 29 Oct: 7 messages (moderate continuation)
+- Four consecutive days of active communication suggests ongoing operational project or initiative
 
 ## Key Correspondents
 
 **Top Senders:**
-- Slack (notification@slack.com): 15 of 27 messages (56%)
-- Jack Elston (elstonj@blackswifttech.com): 2 received, 2 sent (internal, direct conversation)
-- Meredith Needham (meredith.needham@blackswifttech.com): 1 received (internal, appears to originate key thread)
+- Slack (notification@slack.com): 16 of 34 messages (47%)
+- Jack Elston (elstonj@blackswifttech.com): 3 received, 2 sent (internal, direct conversation)
+- Meredith Needham (meredith.needham@blackswifttech.com): 2 received (internal, escalation point)
 - Cory Dixon (cory@krateosky.com): 1 received, marked IMPORTANT (external partner)
 - Anthropic, PBC (via admin@blackswifttech.com): 1 receipt
 - Slack (via admin@blackswifttech.com): 1 service notification
+- Marisa Noone (marisa@peakkeen.org): 1 received, marked IMPORTANT (external, new contact)
+- Backblaze (webinars@backblaze.com): 1 receipt (promotional/educational)
 
 **Top Recipients (Ben sending):**
-- Jack Elston: 2 direct replies on 28 Oct (rapid back-and-forth conversation)
+- Jack Elston: 2 direct replies (internal conversation)
 
 **Internal vs External Breakdown:**
-- Internal: ~20 messages (74%)
-- External: ~7 messages (26%)
+- Internal: ~25 messages (74%)
+- External: ~9 messages (26%)
 
 **Key External Contacts:**
 - Cory Dixon (cory@krateosky.com, Krateo Sky) — IT integration partnership, marked IMPORTANT
+- Marisa Noone (marisa@peakkeen.org, Peak Keen) — telemetry data coordination, marked IMPORTANT (new contact 29 Oct)
 - Fabian Kis (Vortex Capital BED) — investor (from prior scan)
 - Virtru — security tool provider (from prior scan)
 - Anthropic, PBC — transaction/API partner
+- Backblaze — infrastructure/backup service (webinar notification)
 
 ## Topic Patterns
-- **1099 Contractor Rates**: Primary thread spanning 28 Oct (16:56–18:36 UTC)
-  - Originated by Meredith Needham, escalated through Jack Elston, involves Ben in direct replies
-  - 4 messages in ~2 hours suggests urgent or time-sensitive discussion
-- **IT Integration**: Cory Dixon external message regarding "Weekly IT integration sync" (marked IMPORTANT)
-- **Administrative/Transactional**: Anthropic receipts, Slack service plan notifications
-- **Slack Communication**: Direct messages from Spencer Hoehl, Daniel Prendergast, and Maciej (continuation from prior scan)
+- **1099 Contractor Rates**: Escalating thread spanning 28–29 Oct
+  - Originated by Meredith Needham, involving Jack Elston
+  - Thread continues across multiple days with IMPORTANT flag, indicating ongoing approval/discussion process
+  - Pattern suggests formal contractor engagement or rate adjustment requiring multi-stakeholder coordination
+- **SwiftCore 3.1 Review**: Scheduled meeting cancelled 29 Oct (11am MDT slot), from Jack Elston
+  - Event cancellation with note suggests reprioritization or schedule conflict
+  - Project/product component name visible in metadata
+- **Telemetry Data**: Marisa Noone (Peak Keen) communication marked IMPORTANT on 29 Oct
+  - New topic area emerging; suggests data pipeline or monitoring coordination
+- **IT Integration**: Cory Dixon weekly sync (from prior scan, ongoing)
+- **Administrative/Transactional**: Anthropic receipts, Slack notifications, Backblaze webinar invitation
 
 ## Communication Patterns
-- **Primary channel**: Slack (56% of volume; mirrors prior pattern)
-- **Secondary channel**: Internal email thread escalation (1099 rate negotiation)
-- **Tertiary channel**: External partner coordination (Krateo Sky)
-- **Time distribution**: Heaviest on 28 Oct afternoon/evening (16:56–21:33 UTC range)
-- **Conversation velocity**: 1099 rate thread shows 4 messages in 2 hours (18:24–18:36 UTC), indicating rapid decision-making or urgent coordination
-- **External engagement**: Cory Dixon communication marked IMPORTANT, suggesting priority vendor/partner interaction
+- **Primary channel**: Slack (47% of volume, declining from 56% — suggests increased direct email coordination)
+- **Secondary channel**: Internal escalation threads (1099 contractor negotiation continuing)
+- **Tertiary channel**: External partner/vendor coordination (Krateo Sky, Peak Keen)
+- **Time distribution**: Activity spread across business hours 29 Oct (08:34–23:08 UTC range); heaviest 29 Oct afternoon (12:37–16:45 local time)
+- **Conversation velocity**: 1099 thread shows 4 messages over 26+ hours (28 Oct 16:56 → 29 Oct 15:28 UTC), suggesting slower iteration/decision cycle than prior day
+- **External engagement**: Two external contacts marked IMPORTANT on 29 Oct (Marisa Noone telemetry, Jack Elston SwiftCore cancellation)
 
 ## Key Relationships
-- **Maciej**: Continues as primary collaborator — now 6+ Slack notifications across 3-day period (maintains high interaction frequency)
-- **Jack Elston**: New/elevated internal contact — direct back-and-forth conversation on 28 Oct regarding 1099 contractor rates; appears to be ops or HR function
-- **Meredith Needham**: Originating contact for 1099 rate discussion — likely finance, HR, or procurement role
-- **Cory Dixon (Krateo Sky)**: External partner with regular touchpoints; IT integration focus
-- **Spencer Hoehl, Daniel Prendergast**: Secondary internal Slack contacts (new names in this scan)
+- **Maciej**: Continues as primary Slack collaborator — latest notification batch 29 Oct (ongoing high interaction)
+- **Jack Elston**: Elevated internal contact — direct communication on 1099 rates and SwiftCore 3.1 review; appears ops/program management or engineering lead role
+- **Meredith Needham**: Finance/HR/procurement point person — continues originating and re-engaging on 1099 rate thread across two days
+- **Daniel Prendergast**: Secondary Slack contact (appears in Slack notification batch 29 Oct)
+- **Marisa Noone (Peak Keen)**: New external contact (29 Oct) marked IMPORTANT — telemetry data focus suggests integration, monitoring, or reporting coordination
+- **Cory Dixon (Krateo Sky)**: External partner relationship continues (from prior scan)
 - **Fabian Kis (Vortex Capital BED)**: Investor relation (ongoing from prior scan)
 
 ## Notable Observations
-- **1099 Contractor Activity**: New pattern emerging — rate negotiation thread suggests potential contractor onboarding, scaling, or budget/payroll restructuring. Meredith → Jack → Ben flow suggests cross-functional approval/discussion process.
-- **Krateo Sky Partnership**: Cory Dixon's "Weekly IT integration sync" marked IMPORTANT indicates ongoing operational dependency or integration project. External partner marked as priority suggests either critical infrastructure or time-sensitive work stream.
-- **Slack Notification Concentration**: 56% of volume still Slack (vs 75% in prior scans), but absolute message count up 69% (16→27 messages). Suggests either more Slack activity or increased administrative email flow alongside notifications.
-- **Anthropic Receipts**: Pattern continues (27 Oct batch, now 28 Oct single receipt) — consistent with regular API usage or subscription billing cycle
-- **Three-Day Sustained Intensity**: Unlike isolated spike on 26–27 Oct, 28 Oct shows sustained high activity with new contact types (Jack Elston, Meredith Needham escalation), suggesting active project phase or operational change rolling out
-- **No evidence of broad mailing lists or newsletters** — communication remains tightly focused on key internal collaborators and strategic external partners
+- **Emerging Telemetry Data Work Stream**: Marisa Noone from Peak Keen marked IMPORTANT on 29 Oct introduces new external coordination focus. Given "telemetry" subject, suggests monitoring/analytics infrastructure or reporting pipeline emerging as active work area.
+- **1099 Contractor Thread Persists**: Discussion continues across 28–29 Oct with IMPORTANT flags, indicating unresolved approval or multi-day negotiation cycle. Cross-functional flow (Meredith → Jack → Ben, with Jack also looping back to Meredith) suggests formal process with decision authority distributed.
+- **SwiftCore 3.1 Cancellation**: Meeting cancellation with note from Jack Elston (29 Oct) may indicate reprioritization in favor of other operational items (1099 discussion, telemetry coordination). Suggests resource or time constraint.
+- **Slack Share Declining**: Slack now 47% of volume (down from 56%), suggesting shift toward direct email for operational/approval items (1099 rates, telemetry) while Slack retains notification/informal coordination role.
+- **External Partner Density**: Two distinct external high-priority contacts engaged within 48-hour window (Cory Dixon Krateo Sky on 28 Oct, Marisa Noone Peak Keen on 29 Oct), plus ongoing vendor relationships (Anthropic, Backblaze). Suggests active integration/partnership phase.
+- **No broad mailing lists or newsletters** — communication remains focused on direct collaborators and strategic external partners.
+- **Email domain variation**: Marisa Noone contacted via `ben.busby@bst.aero` (alternate domain/alias), suggests specialized project or client-specific communication channel.

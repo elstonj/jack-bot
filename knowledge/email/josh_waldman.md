@@ -1,6 +1,7 @@
 # Josh Waldman — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Wed, 28 Oct 2026 21:42:58 +0000 (UTC): You're invited to join Black Swift Technologies on Claude (from: Anthropic <no-reply-MRmxTrlUGERi1N0VY_sn3g@mail.anthropic.com>)
-- Wed, 28 Oct 2026 19:31:17 +0000: Notes: “BST Internal Update Meeting” Oct 28, 2026 (from: Gemini <gemini-notes@google.com>)
+- Thu, 29 Oct 2026 22:34:12 +0000: Change in your Arena account (from: Arena <do-not-reply@arena.ptcgov.us>)
+- Thu, 29 Oct 2026 16:56:39 +0000: Folder shared with you: "S3" (from: "Jack Elston (via Google Drive)" <drive-shares-dm-noreply@google.com>)
+- Thu, 29 Oct 2026 16:07:50 +0000: 📥 Ethan assigned you a milestone: Build guides/work instructions [[001-04] S0 VTOL IRAD] (from: Ethan Domagala via Asana <no-reply@asana.com>)

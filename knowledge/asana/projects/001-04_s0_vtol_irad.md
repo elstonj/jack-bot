@@ -1,59 +1,66 @@
-_Asana snapshot as of 2026-10-29: 39 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-10-30: 42 open tasks, 0 completed (last 90 days)._
 
 # [001-04] S0 VTOL IRAD
 
 ## Overview
 - **Owner:** Alex Lomis
-- **Team:** BST (Whole Team)
-- **Status:** Active (in development; hover testing planned to begin week of Feb 26, 2024)
+- **Team:** Whole BST team (Jack Elston, Josh Waldman, Spencer Hoehl, Ethan Domagala, and others)
+- **Project Type:** Internal Research & Development (IRAD) — S0 VTOL aircraft development and testing
 - **Priority:** Low
-- **Dollar Value:** Not specified in project data
-- **Timeline:** 
-  - Status update: Feb 21, 2024
-  - Key testing milestones: 2026 (Visual Observation Bench Test Apr 30, Instrumented Bench Test May 15, Instrumented Flight Test Jun 5)
-  - Deliveries: ERAU (Apr 30, 2025), Barbados (Jun 13, 2025)
+- **Status:** Active — Development phase
+- **Timeline:** Currently in hover testing preparation (as of Feb 21, 2024). Major test milestones extend into 2026.
+- **Risk Signals:** 
+  - One task overdue: "Identify motor imbalance bug" (due 2026-02-20, but likely a date entry error given project timeline)
+  - "Build up another S0-VTOL" due 2026-03-04 (imminent relative to other dates, but unclear if this is actual due date or placeholder)
+  - Heavy backlog of unassigned tasks across all test phases
+  - Many tasks have no due dates, limiting visibility
 
 ## Key Deliverables & Milestones
-- **New Power Board** (Jack Elston) — Due date TBD
-- **Hover Test With Updated Avionics** (Alex Lomis) — Due date TBD; ready to begin week of Feb 26
-- **Visual Observation Bench Test** (Alex Lomis) — Due Apr 30, 2026
-  - 15 min sinusoidal command test (visual observation)
-  - 15 min crashed flight replay (visual observation)
-- **Instrumented Bench Test** (Alex Lomis) — Due May 15, 2026
-  - Select eRPM sensors and logging device
-  - Write Teensy firmware for 9 PWM + 3 eRPM logging
-  - Install, validate, and run 1hr+ sinusoidal test
-  - Log analysis and repeat testing
-- **Instrumented Flight Test** (Alex Lomis) — Due Jun 5, 2026
-  - Integrate instrumentation into flight-capable S0
-  - Ground and flight testing with instrumentation
-  - Investigate and integrate parachute recovery system
-  - Full flight test validation
-- **Autopilot-Based Bench Test Rig for Future Testing** (Alex Lomis) — Due date TBD
-- **ERAU S0 Delivery** — Due Apr 30, 2025
-- **Barbados S0 Delivery (1)** — Due Jun 13, 2025
-- **NOAA (2)** (Alex Lomis) — Due date TBD
+
+| Milestone | Owner | Due Date | Status |
+|-----------|-------|----------|--------|
+| Build up new avionics | Jack Elston | No due date | Open |
+| Build guides/work instructions | Josh Waldman | No due date | Open |
+| **Hover Test With Updated Avionics** | Alex Lomis | No due date | Open — **next priority (week of Feb 26, 2024)** |
+| 50 transition flights | Spencer Hoehl | No due date | Open |
+| Visual Observation Bench Test | Alex Lomis | 2026-04-30 | Open (5 sub-tasks, all unassigned) |
+| Instrumented Bench Test | Alex Lomis | 2026-05-15 | Open (6 sub-tasks, all unassigned) |
+| Instrumented Flight Test | Alex Lomis | 2026-06-05 | Open (8 sub-tasks, all unassigned) |
+| Autopilot-Based Bench Test Rig | Alex Lomis | No due date | Open (2 sub-tasks, unassigned) |
+| ERAU S0 Delivery | Unassigned | 2025-04-30 | Open |
+| Barbados S0 Delivery (1) | Unassigned | 2025-06-13 | Open |
+| Pack and Deliver | Ethan Domagala | No due date | Open |
+| NOAA (2) | Alex Lomis | No due date | Open |
 
 ## Task Summary
-- **Total tasks:** 39 open, 0 completed
-- **Primary assignee:** Alex Lomis (dominates task list with design, integration, and testing work)
-- **Secondary assignee:** Jack Elston (Power Board, Remote ID, design updates)
-- **Unassigned:** ISR Payload, most bench/flight test subtasks, both delivery milestones
-- **Completion rate:** 0% (no tasks closed as of data snapshot)
-- **Notable pattern:** Heavy concentration of unassigned work in the instrumented bench/flight test pipelines despite these being critical path items
+
+- **Total open tasks:** 42
+- **Total completed:** 0 (per project view; however, status update notes 2 completed tasks as of Feb 21, 2024 — Asana links provided but not detailed here)
+- **Tasks by assignee:**
+  - **Alex Lomis:** ~24 tasks (design refinements, testing strategy, component development)
+  - **Jack Elston:** 2 tasks (avionics build, design updates, Remote ID)
+  - **Josh Waldman:** 1 task (guides/work instructions)
+  - **Spencer Hoehl:** 1 task (50 transition flights)
+  - **Ethan Domagala:** 1 task (pack and deliver)
+  - **Unassigned:** ~13 tasks (mostly sub-tasks under test milestones, plus ISR Payload, motor imbalance bug, second build, and three delivery milestones)
+
+- **Completion rate:** Effectively 0% (42 open, 0 closed in current view)
+- **Notable patterns:**
+  - **Heavy Alex Lomis concentration:** Design decisions, build engineering, and testing strategy heavily centralized with project owner
+  - **Unassigned test work:** All instrumented bench/flight test sub-tasks (20+ tasks) are unassigned, creating a resource bottleneck for 2026 testing phases
+  - **No custom dollar amounts:** No budget tracking visible in task custom fields
+  - **Dates sparse:** Most tasks lack due dates; only 5 tasks have dates, all in 2025–2026
 
 ## Recent Activity
-- **Feb 21, 2024:** Status update posted; two tasks marked completed (links provided but details not shown)
-- **Immediate next step:** Hover testing scheduled for week of Feb 26, 2024
-- No other recent activity visible in task list
+
+- **Feb 21, 2024 status update:** Two tasks completed (links provided). Ready to begin hover testing the following week with updated avionics.
+- **Next immediate milestone:** Hover Test With Updated Avionics (no due date specified, but imminent)
+- **Delivery commitments:** ERAU delivery due 2025-04-30; Barbados delivery due 2025-06-13
 
 ## Notes & Context
-- **Risk signals:** 
-  - Task "Identify motor imbalance bug" is overdue (due Feb 20, 2026 — likely a typo for 2024, making it past due as of Feb 21)
-  - "Build up another S0-VTOL" due Mar 4, 2026 (likely also a typo; possibly Mar 2024) is approaching
-  - Many critical testing subtasks (instrumented bench/flight) are unassigned with no due dates, despite milestone parents having 2026 deadlines
-  - Large backlog of design/integration tasks (wire management, autopilot mounting, sonde redesign, etc.) assigned to Alex Lomis with no due dates; unclear priority relative to near-term hover testing
 
-- **Project structure:** Organized as nested milestones + supporting engineering tasks; appears to be a phased development (bench test → instrumented bench → flight → delivery)
-- **Custom field:** Priority marked "Low" — may not reflect actual urgency given delivery commitments in 2025
-- **Clients implied:** ERAU, Barbados, NOAA (from delivery milestone names)
+- **Project scope:** Multi-phase development and validation of S0 VTOL aircraft, including design refinement, bench testing (visual and instrumented), flight testing, and customer delivery (ERAU, Barbados, NOAA)
+- **Design focus areas:** Avionics integration, battery/power architecture, autopilot mounting, control surface design, wiring standardization, sensor integration (radar, GPS, IR), Remote ID compliance, and assembly documentation
+- **Testing strategy:** Progresses from bench tests (visual → instrumented) → instrumented flight tests with parachute recovery → production flight envelope (50 transitions)
+- **Resource constraint:** Massive unassigned task backlog under test milestones (2026), despite successful Feb 2024 progress. Assignment and scheduling critical for on-time delivery.
+- **No archived status:** Project is active; low priority does not indicate inactive status.

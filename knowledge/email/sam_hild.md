@@ -1,76 +1,82 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 42 (25 previous + 17 new)
-- **Date range:** 23 Oct 2026 – 28 Oct 2026 (6 days)
-- **Approximate volume:** Low; ~2-3 human messages per day (excluding automated/promotional)
-- **New activity:** 28 Oct shows sustained engagement on core technical threads
+- **Total messages scanned:** 55 (42 previous + 13 new)
+- **Date range:** 23 Oct 2026 – 29 Oct 2026 (7 days)
+- **Approximate volume:** Low-to-moderate; ~2-3 human messages per day (excluding automated/promotional)
+- **New activity:** 29 Oct shows sustained engagement on PSNS rework and Core 29b threads; new meeting visibility (SOCOM Design Meeting)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — 10 messages, external vendor
-2. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 6 messages, external (Waveform Engineering)
-3. **Jack Elston** (elstonj@blackswifttech.com) — 6 messages, internal
-4. **Toggl Track** (support@track.toggl.com) — 5 messages, automated/notifications
-5. **Thinh Nguyen** (thinh991@yahoo.com) — 3 messages, external contact
-6. **Asana** (no-reply@asana.com) — 3 messages, automated/notifications
-7. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — 3 messages, internal
-8. **Anthropic** (no-reply-rZBYYpQNbv3pkGfrPFL6gg@mail.anthropic.com) — 1 message, promotional
-9. **Gemini** (gemini-notes@google.com) — 1 message, meeting notes/automated
-10. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 1 message, internal
-11. **Jeff Catherwood** (jcatherwood@microhardcorp.com) — 1 message, external
-12. **Veeam Webinar** (webinars@veeam.com) — 1 message, promotional
+1. **Frank Strazzabosco** (microfirm@earthlink.net) — 11 messages, external vendor
+2. **Jack Elston** (elstonj@blackswifttech.com) — 10 messages, internal (escalated from 6 on 28 Oct)
+3. **Matt Crabtree** (matt.crabtree@waveformengineering.com) — 7 messages, external (Waveform Engineering)
+4. **Toggl Track** (support@track.toggl.com) — 6 messages, automated/notifications
+5. **Gemini** (gemini-notes@google.com) — 3 messages, meeting notes/automated
+6. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — 4 messages, internal
+7. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 3 messages, internal (NEW)
+8. **Thinh Nguyen** (thinh991@yahoo.com) — 3 messages, external contact
+9. **Asana** (no-reply@asana.com) — 3 messages, automated/notifications
+10. **Anthropic** (no-reply-rZBYYpQNbv3pkGfrPFL6gg@mail.anthropic.com) — 1 message, promotional
+11. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 1 message, internal
+12. **Jeff Catherwood** (jcatherwood@microhardcorp.com) — 1 message, external
+13. **Veeam Webinar** (webinars@veeam.com) — 1 message, promotional
 
 ### Internal Collaborators
-- **Jack Elston** (elstonj@blackswifttech.com) — Now equally prominent as Frank; drives Core2 and PSNS version discussions
-- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Continues as active collaborator on PSNS rework
-- **Maciej Stachura** (via Asana) — New visibility; assigns milestones on Power Board task
+- **Jack Elston** (elstonj@blackswifttech.com) — Continues as technical lead; now 10 total messages; drives Core 29b refinement and coordinates with Frank Strazzabosco
+- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Active on PSNS v0.5 Rework Timeline discussions
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW:** Meeting organizer for SOCOM Design Meeting; appears to coordinate cross-functional design reviews
+- **Maciej Stachura** (via Asana and calendar invitations) — Project coordination; receives SOCOM Design Meeting invitation
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — Receives SOCOM Design Meeting invitation
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — **NEW:** Receives SOCOM Design Meeting invitation
 - **Spencer Hoehl** (spencer.hoehl@blackswifttech.com)
-- **Joshua Fromm** (josh.fromm@blackswifttech.com)
 - **Cory Dixon** (cory.dixon@blackswifttech.com)
 - **Ethan Domagala** (ethan.domagala@blackswifttech.com)
 
 ### External Contacts
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Primary hardware vendor; now visibly involved in Core2/Core 29b iterations and Power Distribution Boards v3.4
-- **Matt Crabtree** (Waveform Engineering) — Key external partner; continues PSNS rework coordination
-- **Thinh Nguyen** (thinh991@yahoo.com) — **NEW:** External contact with direct correspondence to Sam; appears in "Updates?" thread dated 28 Oct; marked IMPORTANT
-- **Jeff Catherwood** (MicroHard Corp) — Secondary hardware contact
+- **Frank Strazzabosco** (microfirm@earthlink.net) — Primary hardware vendor; Core 29b iterations continue with high-frequency exchanges on 29 Oct
+- **Matt Crabtree** (Waveform Engineering) — Key partner; continues PSNS v0.5 Rework Timeline coordination with Sam and Ali
+- **Thinh Nguyen** (thinh991@yahoo.com) — External contact; participation continues
+- **Brian [Krateosky]** (brian@krateosky.com) — **NEW:** Receives SOCOM Design Meeting invitation; external participant
 
 ## Topic Patterns
-- **PSNS Evolution & Versioning** — **Updated terminology:** "PSNS v1.6 (formerly 0.6)" indicates version escalation from v0.5 rework discussions; active thread 28 Oct involving Jack Elston, Frank Strazzabosco, Sam, and Matt Crabtree
-- **Core2/Core 29b Updates** — Ongoing iterations with Frank Strazzabosco; "Updated Core2 v0.4 with radio grounded pins" and "Updated core 29b" threads on 28 Oct
-- **Power Distribution Boards v3.4** — **NEW:** Frank Strazzabosco forwards power board specifications on 28 Oct; Sam and Thinh Nguyen involved in updates discussion
-- **Power Board Completion Milestone** — **NEW:** Maciej Stachura assigns "Power Board Complete" milestone on [001-07] S3 IRAD project
-- **Hardware/Core Development:** Continues as primary focus area
-- **Time Tracking & Project Management:** Toggl Track and Asana notifications ongoing
+- **PSNS v0.5 Rework Timeline** — **Active on 29 Oct:** Matt Crabtree and Ali Sulehria exchange timeline coordination with Sam; thread continues from 28 Oct; marked IMPORTANT
+- **Core 29b Updates** — **Elevated activity:** Jack Elston and Frank Strazzabosco exchange 4 messages on 29 Oct (12:16, 12:59, 13:44, 14:52 CDT) regarding "Updated core 29b"; all flagged IMPORTANT; indicates rapid iteration or issue resolution
+- **SwiftCore 3.1 Review** — **CANCELED:** Jack Elston cancels meeting with note on 29 Oct 11:00-11:30 AM MDT
+- **SOCOM Design Meeting** — **NEW:** Daniel Prendergast convenes design meeting on 29 Oct 1-2 PM MDT; attendees include Sam Hild, Joshua Fromm, Alex Lomis, Maciej Stachura, Jack Elston, and external contact Brian (Krateosky); invitation updated post-initial send
+- **Hardware/Core Development:** Continues as primary focus area with increased intensity on 29 Oct
+- **Time Tracking & Project Management:** Toggl Track notifications ongoing
 
 ## Communication Patterns
-- **Automated emails:** Toggl Track (5), Asana (3), promotional (2) — comprise ~24% of volume
-- **Peak activity:** 28 Oct (15 messages); sustained technical coordination
-- **Discussion thread intensity:** Multiple parallel threads on 28 Oct:
-  - PSNS v1.6 (9:43 CDT)
-  - Core2/Core 29b updates (10:21–11:55 CDT, ~1.5 hour span)
-  - Power Distribution Boards v3.4 (12:35–12:44 CDT)
-  - Thinh Nguyen "Updates?" thread (12:35–18:42 UTC, cross-timezone)
-- **Email flags:** Frank Strazzabosco messages and PSNS/Core threads consistently marked IMPORTANT
-- **Outbound visibility:** Sam initiates/responds to multiple threads on 28 Oct (PSNS v1.6, Thinh Nguyen updates, Matt Crabtree PSNS rework)
-- **Meeting notes captured:** Gemini meeting notes from "BST Internal Update Meeting" 28 Oct auto-forwarded to Sam
+- **Automated emails:** Toggl Track (6), Gemini (3), Asana (3), promotional (1) — comprise ~26% of volume
+- **Peak activity:** 29 Oct (13 messages); concentrated Core 29b thread (4 consecutive exchanges over ~1.5 hours, 12:16–14:52 CDT)
+- **Discussion thread intensity:**
+  - Core 29b iterations (12:16–14:52 CDT, 4-message rapid-fire exchange)
+  - PSNS v0.5 Rework Timeline (11:12–16:45 UTC, multi-day continuation with Matt Crabtree and Ali Sulehria)
+- **Email flags:** Jack Elston/Frank Strazzabosco Core 29b messages, PSNS rework threads, SOCOM Design Meeting invitation, and SwiftCore 3.1 cancellation all marked IMPORTANT
+- **Outbound visibility:** Sam responds to Matt Crabtree on PSNS rework (11:12 CDT); calendar responses to Daniel Prendergast SOCOM invitations
+- **Calendar events:**
+  - SwiftCore 3.1 Review canceled (11:00–11:30 AM MDT, 29 Oct)
+  - SOCOM Design Meeting confirmed (1:00–2:00 PM MDT, 29 Oct)
+  - Gemini notes auto-captured from SOCOM Design Meeting (2 notes sent 19:12 and 19:42 UTC, ~1.5 hours after meeting end)
 
 ## Key Relationships
-1. **Frank Strazzabosco** — Primary external hardware vendor; dominates technical specification discussions; drives Core2, Core 29b, and Power Distribution Boards updates
-2. **Jack Elston** — **ELEVATED:** Now equally active as Frank; directs PSNS versioning strategy and coordinates with external partners; appears to be internal technical lead
-3. **Matt Crabtree (Waveform Engineering)** — Continues as key external collaborator on PSNS rework; coordinates with Ali Sulehria
-4. **Ali Sulehria** — Active internal collaborator on PSNS specifications
-5. **Thinh Nguyen** — **NEW RELATIONSHIP:** External contact with direct communication on hardware updates; involvement suggests additional engineering coordination beyond Frank Strazzabosco
-6. **Maciej Stachura** — Project manager/coordinator; assigns critical milestones
+1. **Jack Elston** — **Further elevated:** Now 10 total messages; directs technical strategy and drives Core 29b refinement; cancels/reschedules competing meetings; primary internal technical decision-maker
+2. **Frank Strazzabosco** — Primary external hardware vendor; Core 29b iteration intensity increased on 29 Oct (4-message exchange suggests issue resolution or critical feedback loop)
+3. **Matt Crabtree (Waveform Engineering)** — Continues key external collaboration on PSNS rework; timeline coordination active
+4. **Ali Sulehria** — Active internal collaborator on PSNS specifications and timeline planning
+5. **Daniel Prendergast** — **NEW RELATIONSHIP:** Meeting organizer/program coordinator; drives cross-functional SOCOM Design Meeting (may be program manager or design authority)
+6. **Maciej Stachura** — Project coordination; participates in SOCOM Design Meeting
+7. **Thinh Nguyen** — External contact; participation continues
+8. **Brian (Krateosky)** — **NEW:** External stakeholder; invited to SOCOM Design Meeting
 
 ## Notable Observations
-- **PSNS version jump:** Escalation from v0.5 rework (27 Oct) to v1.6 nomenclature (28 Oct) suggests significant technical progress or scope redefinition within 24 hours
-- **Parallel hardware efforts:** Three distinct hardware threads (Core2/Core 29b, Power Distribution Boards v3.4, PSNS versioning) running concurrently on 28 Oct, indicating high-velocity development phase
-- **Multi-vendor coordination:** Frank Strazzabosco, Thinh Nguyen, and Waveform Engineering (Matt Crabtree) all contributing to hardware/power specifications — suggests complex integration effort
-- **New external contact:** Thinh Nguyen's appearance in "Updates?" thread with IMPORTANT flag indicates direct involvement in hardware deliverables, but organizational affiliation unclear
-- **Internal governance visible:** Jack Elston appears to direct technical decisions and version naming; may be engineering lead
-- **Milestone tracking:** Maciej Stachura's assignment of "Power Board Complete" milestone on S3 IRAD project suggests formal gating/tracking of hardware deliverables
-- **Meeting capture:** Gemini notes from internal BST meeting on 28 Oct forwarded to Sam — may indicate requirement to stay aligned on broader project status
-- **Sustained high intensity:** 28 Oct maintains coordination tempo from 27 Oct PSNS rework spike; suggests active engineering phase or deadline-driven execution
+- **Core 29b urgency:** 4-message rapid-fire exchange between Jack Elston and Frank Strazzabosco on 29 Oct (12:16–14:52 CDT) suggests critical issue, design revision, or time-sensitive feedback loop. All messages marked IMPORTANT.
+- **SwiftCore 3.1 Review canceled:** Jack Elston cancels meeting with note at 16:45 UTC (11:45 AM MDT approx.) — possible conflict with SOCOM Design Meeting (1-2 PM MDT) or prioritization shift to Core 29b iteration
+- **SOCOM Design Meeting visibility:** Daniel Prendergast initiates meeting with 6 internal + 1 external participant (Brian/Krateosky); marked IMPORTANT; suggests formal design authority or cross-team coordination gate
+- **Meeting invitations updated:** Daniel Prendergast sends updated SOCOM invitation ~4 hours after initial send (16:13 to 17:04 UTC), indicating participant or scope change
+- **Gemini notes captured twice:** SOCOM Design Meeting generates 2 separate Gemini note captures (19:12 and 19:42 UTC) — possible duplicate or separate agenda items
+- **PSNS v0.5 naming discrepancy:** Knowledge file from 28 Oct shows "PSNS v1.6 (formerly 0.6)" escalation, but 29 Oct threads reference "PSNS v0.5 Rework Timeline" — may indicate version control confusion or separate rework track
+- **Parallel high-intensity work streams:** Core 29b iteration (4 exchanges), PSNS rework coordination (3 internal/external), and formal design meeting (SOCOM) all active on 29 Oct suggests sustained engineering velocity or deadline-driven execution
+- **Meeting consolidation pattern:** SwiftCore 3.1 Review canceled while SOCOM Design Meeting scheduled same day suggests potential meeting consolidation or re-prioritization by Jack Elston/Daniel Prendergast

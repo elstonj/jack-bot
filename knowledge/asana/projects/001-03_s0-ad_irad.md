@@ -1,82 +1,94 @@
-_Asana snapshot as of 2026-10-23: 180 open tasks, 4 completed (last 365 days)._
+_Asana snapshot as of 2026-10-30: 180 open tasks, 0 completed (last 90 days)._
 
 # [001-03] S0-AD IRAD
 
 ## Overview
-- **Project**: Internal R&D for S0 Atmospheric Data (AD) uncrewed aircraft system
-- **Owner**: Josh Fromm
-- **Team**: BST (whole team)
-- **Priority**: Low
-- **Status**: Active — ongoing development and malfunction fixes. 180 open tasks with only 4 completed. Most work is unassigned and lacks due dates, indicating backlog/roadmap items rather than imminent deliverables.
-- **Timeline**: Mixed — some 2025 Phase II fixes carry March 2026 deadlines (IAS detector issues), while bulk of work is scoped to 2026 or unscheduled.
+- **Client/Customer:** Internal R&D (IRAD — Independent Research and Development)
+- **Owner:** Josh Fromm
+- **Team:** BST (whole team)
+- **Priority:** Low
+- **Status:** **Active / In Development** — 180 open tasks, 0 completed. This is a long-term internal platform development project with continuous feature and malfunction fixes across hardware, firmware, and operations.
+- **Timeline:** Work spans 2025–2026; specific milestones tied to 2025 Phase II and 2026 phases
+- **Risk Signals:**
+  - IAS (Indicated Airspeed) sensor failures on 2025-10-26 flights causing data loss and vehicle loss (high priority)
+  - Multiple power management issues (PSNS not entering low-power mode reliably, charging logic bugs)
+  - GCS daemon lockup (Aug 7–8, unresponsive despite solid green LED)
+  - Heavy reliance on unassigned tasks (most tasks have no owner)
 
 ## Key Deliverables & Milestones
 
-| Milestone | Due Date | Notes |
-|-----------|----------|-------|
-| IAS detector malfunction fix (2025-10-26 flight regression) | 2026-03-31 | Critical — detector failed to throttle, missed wind measurements, lost UA on multiple flights |
-| IAS LED/telemetry red status during takeoff | 2026-03-31 | Assigned to Ben Busby |
-| Molicel M65A battery cell follow-up | 2026-01-02 | Josh Fromm to coordinate with supplier |
-| S0 Packing Guide / SOP | 2026-10-30 | Beck Cotter; medium priority operational doc for vendor shipping |
-| Construct BST-owned S0 AD for 2025 season | Completed 2026-04-17 | ✓ Done |
+| Item | Due Date | Status | Notes |
+|------|----------|--------|-------|
+| IAS fail investigation (detector during freefall, 3D velocity) | 2026-03-31 | OPEN | Malfunction fix; affecting 2025 Phase II flights |
+| IAS "LED" and telemetry field red during takeoff fix | 2026-03-31 | OPEN | Assigned to Ben Busby |
+| Follow up with Molicel re: M65A cell samples/production | 2026-01-02 | OPEN | Assigned to Josh Fromm; battery upgrade for power subsystem |
+| S0 Packing Guide / SOP | 2026-10-30 | OPEN | Assigned to Beck Cotter; operational/vendor documentation |
+| Tunnel testing to characterize wing effect | 2026 | OPEN | Unassigned; 2026 funding scope |
+| 2026 phase II hardware/firmware roadmap | 2026 | OPEN | ~100+ unassigned feature/improvement tasks spanning airframe, sensors, power, comms, flight control, data handling |
 
 ## Task Summary
 
-**Total Tasks**: 180 open, 4 completed (2.2% completion rate)
+### Counts
+- **Total:** 180 open, 0 completed
+- **0% project completion** — this is a backlog-style project
 
-**By Assignee** (open tasks only):
-- **Unassigned**: 173 tasks (96%)
-- **Maciej Stachura**: 1 (IAS fail investigation)
-- **Ben Busby**: 1 (IAS LED display fix)
-- **Jack Elston**: 4 (RH calculation, GCS power, LCD status, channel switching)
-- **Josh Fromm**: 1 (Molicel follow-up)
-- **Beck Cotter**: 1 (S0 Packing Guide)
+### Breakdown by Assignee
+| Assignee | Task Count | Notes |
+|----------|-----------|-------|
+| Unassigned | ~165 | Majority of tasks; spanning all subsystems |
+| Maciej Stachura | 1 | IAS sensor malfunction investigation |
+| Ben Busby | 1 | IAS telemetry display fix |
+| Jack Elston | 5 | Power, GCS UI/LCD, channel switching logic |
+| Josh Fromm | 1 | Molicel battery supplier follow-up |
+| Beck Cotter | 1 | S0 packing guide / SOP |
 
-**Task Breakdown by Subject** (custom field):
-- **Power/Battery** (~30 tasks): PSNS reliability, charge cutoff, low-power mode, battery tolerance, cell upgrades (Amprius/Molicel), BMS design, UN38.3 testing
-- **Flight Control** (~20 tasks): Wind thresholds, dithering, lost-comms ceiling, position hold, asset overflight, glide path recalc
-- **Sensor/Avionics** (~25 tasks): GNSS, radar consistency, IAS, wind calculations, dynamic port detection, IR SST relocation, conformal coating
-- **Communications** (~10 tasks): Data buffering, radio low-power mode, comms pauses, GCS lockup
-- **Airframe** (~15 tasks): Wing optimization, tail boom redesign, antenna waterproofing, conformal coating, fuselage pivot CAD
-- **Data Processing** (~12 tasks): NetCDF files, 10Hz met data, time sync, wind plots, automated push to servers
-- **Documentation** (~8 tasks): Construction docs, QC processes, training materials, log naming convention
-- **GCS/UI** (~15 tasks): LCD status display, channel switching, ETA display, mobile lockup, tablet parameter display
-- **Deployment Tube** (~12 tasks): USB-C updates, shrinkage, connector redesign, firmware updates
-- **Core/Board Design** (~20+ tasks): Component NDAA compliance, GNSS passthrough, IR SST integration, SD card removal, CAN firmware updates
+### Notable Patterns
+- **Heavy unassignment:** ~92% of tasks lack an owner, indicating planning/backlog stage rather than active sprint execution
+- **Subject-driven organization:** Tasks tagged by subsystem (power, comms, flight control, sensors, airframe, avionics, etc.)
+- **2025 vs. 2026 split:** A few near-term malfunction fixes (2025 Phase II, due early 2026); bulk are 2026 feature roadmap items
+- **Mix of malfunction fixes and new features:** Tagged with `Fix or Feature` custom field; malfunction fixes cluster around power, IAS, GCS, and sensor reliability
+- **Custom fields in use:** Funding Scope, Subject, Fix or Feature, Minimum Viable, Priority, Task Type, Risk Level — suggests active project management but incomplete task assignment
 
 ## Recent Activity
 
-**Most Recent Completions**:
-- ✓ Construct BST-owned S0 AD for 2025 season (2026-04-17) — major seasonal milestone
-- ✓ Conformal coating fix on antenna PCB MMCX connector (Jack Elston, 2026-03-18) — malfunction resolved
-- ✓ Anduril Tasks & ALTIUS MHTP improvements (2025-12-15) — external/partnership items closed
+### Recent Issues (Inferred from Task Notes)
+- **2025-10-26 flights:** IAS detector failed to throttle; missed wind measurements, lost aircraft. Failure is recurring.
+- **Aug 7–8 GCS daemon:** GPS ran all night, morning status showed solid green LED but no response — likely a lockup.
+- **Charge/power edge cases:** Aircraft powered on at max charge when plugging in charger; PSNS not reliably entering low-power mode (marked as "Minimum Viable: Required").
+- **Servo feedback issue:** Servos feed back voltage during manual movement, applies power to autopilot, risks unwanted firing.
 
-**Active Issues** (with flagged dates):
-- **2026-03-31 IAS detector failures**: Maciej investigating why detector failed to throttle on 2025-10-26 flights, resulting in lost wind data and loss of one UA. This is a **critical regression**. Ben Busby also addressing related LED/telemetry display issue.
-- **2026-01-02 Battery supplier follow-up**: Josh Fromm pending Molicel M65A cell samples/production timeline.
-- **2026-04-09 Slow comms event**: Unassigned investigation item logged.
-
-**Pattern**: No due dates on 176/180 open tasks. This is a mature internal R&D backlog with low-priority categorization. Work is organized by subsystem (power, flight, sensors, airframe, etc.) rather than by milestone or delivery date.
+### Approaching/Recent Milestones
+- **2026-01-02:** Molicel cell sample follow-up (Josh Fromm) — coming up soon
+- **2026-03-31:** IAS fixes (both tasks) — two critical sensor/display fixes due Q1 2026
+- **2026-10-30:** S0 packing guide (Beck Cotter)
 
 ## Notes & Context
 
-### Critical/High-Risk Items
-1. **IAS Detector Regression (2025 Phase II)**: Multiple failures on 2025-10-26 prevented wind measurements and resulted in loss of aircraft. Root cause investigation (detector running during freefall? 3D velocity issue?) is overdue by 2026-03-31 checkpoint.
-2. **Power System Reliability**: PSNS not reliably entering low-power mode (flagged as "Required" under Minimum Viable). Multiple low-power, charging, and quiescent current draw issues across battery, BMS, and power management boards.
-3. **GCS Stability**: Lockup issues on mobile GCS and gcsDaemon (GPS ran all night without responding). Rack-mount GCS at BST needs update.
+### Project Scope
+This is a **continuous R&D and product hardening effort** for the S0 atmospheric sensing UAS. The project consolidates:
+- **Hardware design improvements** (airframe, power systems, sensors, deployment tube, boards)
+- **Firmware/software features** (flight control, GCS, data handling, comms, autonomy)
+- **Operational procedures** (packing guides, QC processes, checklists)
+- **Integration/testing** (wind tunnel work with ERAU, sensor calibration, validation)
 
-### Design/Engineering Thrust
-- **Battery/Power**: Migrating to new cell chemistries (Amprius/Molicel), rethinking BMS topology, UN38.3 compliance testing, charge/discharge control refinement.
-- **Airframe**: Fuselage pivot CAD launch, tail boom redesign (warping issue), elevator horn/wing fit, wing tip folding, soft-close damper exploration.
-- **Sensors**: Radar port clog investigation, GPS sat count/accuracy, dual-GPS integration, IR SST relocation to PSNS, Skyfora PTH sensor integration alongside Vaisala.
-- **Flight Modes**: New mission types (position hold, asset overflight), wind-based station-keeping, glide path recalculation logic.
-- **Data & Ops**: Automated NetCDF generation, rsync compression for live data push, IRC chat integration with CARCAH, flight metrics summary at end of mission.
+### Key Technical Concerns
+1. **Power subsystem is fragile:** Multiple low-priority charging bugs, PSNS reliability, BMS decisions pending. Battery upgrade (Molicel) and ESC integration are high on the roadmap but unassigned.
+2. **IAS sensor is a critical blocker:** Recurring failures on recent flights; two fixes in flight (both due 2026-03-31) but root cause investigation ongoing.
+3. **GCS stability issues:** Lockups, comms pauses, and mobile platform crashes need resolution before scaling operations.
+4. **Data/comms infrastructure gaps:** Missing buffering, re-transmission, live rsync, NetCDF auto-generation, status messaging to CARCAH.
+5. **Sensor reliability:** Multiple malfunction fixes needed (GPS accuracy, dynamic ports, radar consistency, IR sensor ghost readings, pressure sensor location).
 
-### Compliance & Quality
-- NDAA component origin verification and replacement.
-- Conformal coating for waterproofing on AP boards.
-- QC mark and loctite specifications in construction drawings.
-- UN38.3 battery testing planned.
+### Operational Context (from task notes)
+- Aircraft operates in **high-wind/hurricane environments** (references to wind thresholds, lost comms procedures, glide-slope recalculation during storms).
+- **Deployment via P3 aircraft** (references to P3 depressurization, integration with AVAPS instruments, launch/recovery procedures).
+- **Multi-mission capability emerging:** Position hold, asset overfly, station-keeping, inflow/RMW profiles.
+- **NHOP/AOC compliance expected:** References to NHOP 6.2.3.8 status messaging, HDOBS data QC, Kathryn email re: time offset.
 
-### Unassigned Work
-96% of tasks (173) are unassigned. Combined with lack of due dates and "Low" priority categorization, this indicates the project is a **R&D roadmap** for internal optimization rather than a client-driven delivery schedule. Suggests phased adoption of features and fixes as engineering capacity allows.
+### Organizational Notes
+- **No completed tasks:** Suggests this is a rolling backlog that gets groomed but not formally closed out in Asana. Real progress may be tracked in Git commits, weekly standups, or external systems.
+- **Wide team involvement:** Sensor engineers (Maciej), flight control (Jack), operations (Beck), procurement/partnerships (Josh), displays/UI (Ben) all represented, but most subsystems lack clear owners.
+- **Funding tracked:** 2025 Phase II (near-term malfunction fixes) and 2026 (feature roadmap) split suggests staged investment.
+
+---
+
+**Overall Assessment:** This is a **mature but under-resourced R&D project**. Core platform is flying and generating data, but reliability issues (IAS, GCS, power) and feature gaps (data handling, comms) are holding back operational scaling. Assignment of owners and sprint planning needed to move items from backlog to completion.

@@ -1,147 +1,151 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 44 emails (29 existing + 15 new)
+- **Total messages scanned:** 80 emails (44 existing + 36 new)
 - **Date range:** 25 Oct – 29 Oct 2026
-- **Approximate volume:** ~8–9 emails per day (4-day sample)
-- **IMPORTANT flag prevalence:** 33 of 44 messages (75%) marked IMPORTANT — consistently high priority threshold
+- **Approximate volume:** ~8–10 emails per day (5-day sample)
+- **IMPORTANT flag prevalence:** 72 of 80 messages (90%) marked IMPORTANT — exceptionally high priority threshold; suggests senior role with decision authority
+- **Note:** 29 Oct data shows concentrated activity (most new messages from single day)
 
 ## Key Correspondents
 
 ### Top Senders (to Maciej)
-1. **Jack Elston** (elstonj@blackswifttech.com) — 16 messages, internal BST leadership; strategic routing of all major initiatives
-2. **Krateo Sky team** (Bob Smith, Brian Grubel, Lisa Marie Cheney, Sona Raziabeegum) — 8 messages; operations/integration partner, weekly review coordination
-3. **Russ Vanderwerff** (Russ.Vanderwerff@aerostar.com) — 4 messages, Aerostar partnership (from existing data)
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 3 messages, internal system architecture/technical coordination
-5. **NOAA affiliates** (John Walker, Philip Handley) — 2 messages visible in new data; expanded engagement
-6. **Vantor** (Michael Rapp, michael.rapp@vantor.com) — 1 message, sensor vendor communications
-7. **UK MOD** (Simon.Laurence157@mod.gov.uk) — 1 message, international military partner
-8. **University of Colorado** (Eric W Frew, Brian M Argrow) — Continues from existing data
+1. **Jack Elston** (elstonj@blackswifttech.com) — 22+ messages, internal BST leadership; strategic routing of all major initiatives
+2. **Lockheed Martin RAVEN team** (Neil Morphett, Mike Willmott, Alasdair Brackenridge) — 7+ messages, direct RAVEN project coordination
+3. **Krateo Sky team** (Bob Smith, Brian Grubel, Dipan Amin) — 8+ messages; operations/integration partner, facility coordination, TPM planning
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 6+ messages, RAVEN technical lead, export control coordination
+5. **UK MOD** (Simon Laurence) — 2 messages, RAVEN site visit coordination
+6. **US Navy NAWCAD** (Angel R Ruiz-Reyes, Anthony D Brescia) — 2 messages, RAVEN project participants
+7. **Neil Sorkin** (neil.sorkin@redhelmlabs.com) — 2 messages, Redhelm power-beaming technology exploration
+8. **Al Gasiewski** (al.gasiewski@colorado.edu) — 2+ messages, soil moisture white paper coordination
+9. **Russ Vanderwerff** (Russ.Vanderwerff@aerostar.com) — 1 message, Aerostar synergies
+10. **Michael Hurowitz** (mhurowitz@weatherstream.com) — 1 message, soil moisture white paper distribution
 
 ### Top Recipients (from Maciej)
-1. **Jack Elston** — Direct escalations and coordination
-2. **Daniel Prendergast** — Technical collaboration (sensor selection, system design)
-3. **Krateo Sky partners** (Bob Smith, Brian Grubel) — Operations/facility coordination
-4. **Vantor contacts** (naresh.shah@vantor.com, grant.boerhave@vantor.com) — Sensor vendor meetings
-5. **University of Colorado** (Eric W Frew, Brian M Argrow) — Academic collaboration
+1. **Jack Elston** — Direct escalations, strategic coordination, decision routing
+2. **Daniel Prendergast** — RAVEN project coordination, export control review
+3. **Bob Smith / Krateo Sky** — Operational/facility logistics (Oct 3 visits, TPM planning)
+4. **Simon Laurence (UK MOD)** — RAVEN site visit responses
+5. **Neil Sorkin (Redhelm)** — Power-beaming technical exploration
 
 ### Internal vs External
-- **External:** ~50% (Krateo Sky, NOAA, Vantor, UK MOD, University of Colorado, Aerostar)
-- **Internal:** ~35% (Jack Elston, Daniel Prendergast, Joshua Fromm, Cory Dixon, Beck Cotter, Meredith Needham)
-- **Automated/System:** ~15% (Google Docs comments, Google Calendar, Claude chat shares, BST Website form)
+- **External:** ~55% (Lockheed Martin, UK MOD, US Navy, Krateo Sky, University of Colorado, Aerostar, Redhelm, CNES France inquiry, Round Construction inquiry)
+- **Internal:** ~35% (Jack Elston, Daniel Prendergast, Cory Dixon, Beck Cotter, Joshua Fromm, Alex Lomis)
+- **Automated/System:** ~10% (Rippling HR, BST Website form, sales routing)
 
 ### Key External Organizations
-- **Krateo Sky** (Bob Smith, Brian Grubel, Lisa Marie Cheney, Sona Raziabeegum) — **Deepening integration partnership**; now running formal "Black Swift Weekly Integration Review" meetings with 20+ participants
-- **NOAA** (John Walker, Philip Handley, Sara Morris, plus 8+ additional NOAA contacts in large distribution lists) — **Major expansion**: NOAA now presenting direct to Black Swift; large presentation distribution (13+ NOAA staff visible)
-- **Vantor** (Michael Rapp, naresh.shah@vantor.com, grant.boerhave@vantor.com) — Thermal sensor vendor; active TEM (Thermal Engine Module?) discussions
-- **Aerostar** (Russ Vanderwerff, Kenneth O. Klinner, Dirk Ruge, Kyle Doverspike) — Ongoing partnership (from existing data)
-- **University of Colorado** (Eric W Frew, Brian M Argrow, Al Gasiewski) — Soil moisture white paper collaboration
-- **UK Ministry of Defence** (Simon.Laurence157@mod.gov.uk) — S0-ISR updates
-- **Lockheed Martin (LM)** (neil.morphett@global.lmco.com, Dhruti Shah) — RAVEN project kickoff participant
-- **US Navy NAWCAD** (Angel R Ruiz-Reyes, Anthony D Brescia) — RAVEN project participant
-- **Bartington Instruments** (tom.simcox@bartington.com) — Possible sensor/equipment vendor for RAVEN
-- **Creative Alignments** (Hadley Solomon, hadley.solomon@creativealignments.com) — Recruiting/HR for TPM interview scheduling
+- **Lockheed Martin** (Neil Morphett, Mike Willmott, Alasdair Brackenridge, Dhruti Shah) — **RAVEN project deepened:** Direct coordination on site visit logistics; Neil Morphett now primary LM contact in daily cadence; multi-person team visible (UK and US-based)
+- **Krateo Sky** (Bob Smith, Brian Grubel, Dipan Amin, Sona Raziabeegum) — **Facility hosting RAVEN team:** Oct 3 site visits scheduled; "TPM Meeting" coordination suggests technical program management collaboration
+- **UK Ministry of Defence** (Simon Laurence) — RAVEN project coordination; site visit scheduling
+- **US Navy NAWCAD** (Angel R Ruiz-Reyes, Anthony D Brescia) — RAVEN project participants; direct distribution list membership
+- **University of Colorado** (Al Gasiewski) — Soil moisture white paper; Michael Hurowitz (WeatherStream) added as external collaborator
+- **Bartington Instruments** (tom.simcox@bartington.com) — **Now visible on RAVEN coordination emails** (sensor/equipment vendor); first direct evidence of role in RAVEN
+- **Redhelm Labs** (Neil Sorkin) — **New technology exploration:** In-flight power-beaming feasibility study; Jack Elston + Maciej both engaged
+- **Aerostar** (Russ Vanderwerff, Joe Cione NOAA partner) — Synergy discussions continuing
+- **CNES France** (francois.vacher@cnes.fr) — Inquiry routed via Beck Cotter (possible international partnership inquiry)
 
 ## Topic Patterns
 
-### Recurring Themes (expanding scope)
-- **S0 Carrier (WP-BST-006):** NOAA review cycle active; "Revision B" formal review; facility coordination with Krateo Sky
-- **NOAA Integration (major escalation):** Now includes large GML Tower Team intro discussion; presentation to 13+ NOAA staff; Dragoon program mentioned; atmospheric research collaboration expanding
-- **Krateo Sky Operations/Facility:** Weekly integration reviews (formal standing meeting); DD254 clearance/facility readiness discussions; "New Space" facility allocation
-- **Vantor Thermal Sensor System:** "Black Swift TEM" (Thermal Engine Module); competing against FLIR Hadron option; active vendor engagement
-- **RAVEN Project (UK/US collaboration):** Kickoff meeting; Black Swift site visit scheduled; involves Lockheed Martin, US Navy NAWCAD, UK MOD, Bartington; appears to be sensors/integration program
-- **Soil Moisture Research:** White paper draft collaboration with University of Colorado (Al Gasiewski)
-- **S0-ISR:** Continued updates to UK MOD partner (Simon Laurence)
-- **Dragoon Program:** NOAA-related initiative (atmospheric/weather research)
+### Recurring Themes (Expanded)
+- **RAVEN Project (Escalating):** Now shows direct daily coordination with Lockheed Martin (Neil Morphett, UK team members); UK MOD + US Navy alignment; Krateo Sky hosting site visit (Oct 3); export control/licensing review initiated by Daniel Prendergast; "RAVEN Project Kickoff and Black Swift Site Visit" confirmed in subject line
+- **Export Control & Licensing:** **NEW major thread** — Daniel Prendergast initiated formal review for "Black Swift UAS Sales to Lockheed Martin UK and UK Royal Navy"; Jack Elston flagged as requiring decision input; suggests ITAR/export compliance gate on RAVEN deliverables
+- **Krateo Sky Facility Coordination:** Oct 3 multi-person visit logistics; Dipan Amin + Brian Grubel involvement; "TPM Meeting" preparation (Technical Program Manager?); appears to be RAVEN team site visit rehearsal or vendor integration planning
+- **S0 Carrier / NOAA Integration:** Drive audit review; decisions needed from Jack Elston per Maciej escalation; continues from prior week
+- **Soil Moisture White Paper:** Al Gasiewski + Michael Hurowitz (WeatherStream) collaboration; White paper draft circulation through NOAA/academic network; appears research publication cycle
+- **Redhelm Power-Beaming:** Technology fit exploration with Jack Elston + Maciej; Neil Sorkin engaging on feasibility; possible propulsion/endurance augmentation for UAS
+- **S0-ISR:** Continued UK MOD coordination (Simon Laurence updated on RAVEN preparations)
 
 ### Visible Project/Product References
-- **S0 Carrier** (WP-BST-006) — Revision B under NOAA review
-- **S0-ISR, E2, S2** — Continued from existing data
-- **Dragoon** — NOAA weather/atmospheric program (new)
-- **RAVEN** — UK/US military sensor integration project (new, high visibility)
-- **VPU2** — From existing data
-- **Vantor TEM** — Thermal Engine Module (new vendor option)
-- **FLIR Hadron** — Thermal sensor competing option
-- **OAK 4 FFC** — Computer vision (from existing data)
+- **RAVEN** — Now dominant (kickoff, site visit, export control, daily coordination)
+- **S0 Carrier** (WP-BST-006) — Drive audit, decisions pending
+- **S0-ISR, E2, S2** — Background continuation
+- **VPU2** — Austin Vorwald (US Navy) introduction from Jack Elston (29 Oct 15:22)
+- **Soil Moisture White Paper** — Publication draft stage
+- **Redhelm Power-Beaming System** — Technology evaluation (in-flight power)
+- **IDIQ / Whitepaper Status** — Jack Elston + Bob Smith discussion (29 Oct 15:19) — possible Indefinite Delivery/Indefinite Quantity contract framework
 
-### Large Distribution Lists Visible
-- **NOAA GML Tower Team intro:** 13+ NOAA staff + Black Swift + Krateo Sky
-- **Black Swift Weekly Integration Review:** 20+ Krateo Sky + Black Swift staff
-- **RAVEN Kickoff:** UK MOD, Lockheed Martin, US Navy, Black Swift, Krateo Sky
+### External Inquiry Routing
+- **Lucas Wheeler (University of Colorado)** — Black Swift inquiry → Beck Cotter → sales routing (possible student/academic inquiry)
+- **Round Construction Inc.** (kevinh@roundconstructioninc.com) — Black Swift inquiry → Beck Cotter
+- **CNES France** (francois.vacher@cnes.fr) — International inquiry → Beck Cotter (French space agency possible partner)
+- **Pattern:** BST website form submissions → Beck Cotter as initial screener → sales routing
 
 ## Communication Patterns
 
-### Time Patterns
-- **Dense Wed 28 Oct:** 28 messages in single day; 08:00–21:00 UTC window (coordinated meeting day)
-- **Peak morning activity:** 10:00–14:00 local time (coordinated decision/presentation period)
-- **Evening follow-up:** 16:00–22:00 UTC (operations/logistics wrap-up, facility coordination with Krateo Sky)
-- **Quick turnaround exchanges:** Multiple same-subject threads with Jack Elston showing 2–5 minute response times (10:51–10:56 range; 10:52–10:55 range)
+### Time Patterns (29 Oct — Peak Day)
+- **Morning burst:** 08:45–10:55 UTC (Krateo Sky, UK MOD, Redhelm, Lockheed responses)
+- **Mid-day coordination:** 10:23–15:43 UTC (export control review, NOAA, RAVEN scheduling, Aerostar synergies)
+- **Evening wrap-up:** 15:58–23:38 UTC (white paper final review, international LM team coordination)
+- **Sub-minute turnarounds:** Multiple exchanges with Bob Smith (08:45, 08:47, 08:48 UTC sequence) and Morphett/LM team (09:49, 10:05, 10:10, 15:06, 15:43 UTC)
+- **Overnight international:** Morphett (LM UK) sending 15:43 UTC (09:43 AM UK time); Laurence (UK MOD) sending 12:43 UTC (12:43 PM UK time) — synchronized transatlantic coordination
 
-### Mailing Lists / Automated
-- **Krateo Sky formal integration reviews:** Sona Raziabeegum driving structured meeting summaries; standing weekly cadence
-- **Google Docs:** Real-time collaboration on UK RAVEN visit preparation (site logistics planning visible in comments)
-- **Claude chat shares:** Jack Elston sharing analysis/notes via Claude (28 Oct 15:51)
-- **NOAA large distribution lists:** Jack Elston coordinating presentation broadcasts to 13+ NOAA staff
-- **No marketing/newsletter content:** All messages work-critical (contrast to earlier Luxonis emails)
+### Mailing Lists / Group Coordination
+- **RAVEN Large Distribution:** Simon Laurence, Neil Morphett, Angel Ruiz-Reyes (US Navy NAWCAD), Dhruti Shah (LM), Tom Simcox (Bartington), Anthony Brescia (US Navy) — multi-national military/defense coordination
+- **Lockheed Martin internal copy:** Alasdair Brackenridge (LM), Mike Willmott (LM) — UK-based LM team members on RAVEN kickoff/site visit threads
+- **Krateo Sky standing coordination:** Weekly integration review pattern continuing; now with explicit "TPM Meeting" preparation (29 Oct 18:46 UTC)
+- **No marketing/newsletter:** All external emails are inquiry-driven or partnership coordination
+
+### HR / Administrative
+- **Rippling approval:** Ali Sulehria time-off request (Nov 23) routed to Maciej for approval (29 Oct 20:49 UTC) — suggests Maciej has HR approval authority (possible manager/team lead role)
 
 ## Key Relationships
 
 ### Closest Collaborators
-1. **Jack Elston** (BST Leadership) — Dominates incoming flow (16/44 messages); strategic router for all major partnerships, NOAA coordination, and military programs
-2. **Daniel Prendergast** (BST Technical) — System architecture; Vantor sensor evaluation; RAVEN project technical lead
-3. **Krateo Sky operations team** (Bob Smith, Brian Grubel, Sona Raziabeegum) — Now in formal weekly integration cadence; facility/operational partner
-4. **Cory Dixon** (BST) — S0 Carrier support; Krateo Sky integration coordination
-5. **Joshua Fromm** (BST) — S0 Carrier/NOAA support; Krateo Sky coordination
+1. **Jack Elston** (BST Leadership) — 22+ messages; strategic coordinator for RAVEN, NOAA, export control decisions; now includes power-beaming technology exploration
+2. **Daniel Prendergast** (BST Technical) — 6+ messages; technical lead on RAVEN, export control/licensing review driver, LM interface
+3. **Neil Morphett** (Lockheed Martin) — 5+ messages; RAVEN project lead on LM side; now direct daily coordination with Maciej + Daniel
+4. **Bob Smith** (Krateo Sky) — 6+ messages; facility host, operational logistics for RAVEN visit, TPM coordination
+5. **Cory Dixon** (BST) — S0 Carrier support; export control review circulation
 
-### Strategic External Relationships (Ranked by Engagement)
+### Strategic External Relationships (Updated)
 
-**TIER 1 — Active Deep Integration**
-- **Krateo Sky** — Weekly formal integration reviews (large multi-team meetings); facility expansion planning; DD254 clearance work; appears to be primary operations/flight testing partner
-- **NOAA** — Escalated to large GML Tower Team presentation (13+ staff); Dragoon program integration; atmospheric research collaboration; Joe Cione no longer solo contact — now enterprise relationship
-- **Vantor** — Active thermal sensor evaluation; Michael Rapp direct engagement; competing with FLIR Hadron; TEM system discussions
+**TIER 1 — Active Deep Integration / Military-Industrial**
+- **Lockheed Martin (RAVEN)** — **Escalated to daily coordination:** Neil Morphett (LM Missiles and Space, likely UK division) leading Black Swift site visit logistics; export control review initiated; UK team members (Brackenridge, Willmott) visible; suggests major sensor/UAS integration contract with UK delivery requirements
+- **UK MOD** (Simon Laurence) — Site visit host coordination; RAVEN project central party; S0-ISR updates continuing
+- **US Navy NAWCAD** (Ruiz-Reyes, Brescia) — RAVEN project participants; joint US/UK military collaboration
+- **Krateo Sky** — Site visit host facility; TPM (Technical Program Manager) meeting coordination; appears to be co-located integration partner for RAVEN prototype/testing
 
 **TIER 2 — Active Project-Specific**
-- **Lockheed Martin (RAVEN)** — Military sensor integration; kickoff underway; includes US Navy NAWCAD collaboration
-- **UK MOD** (Simon Laurence) — S0-ISR updates; appears to be customer/partner on ISR system
-- **Aerostar** — Partnership discussions ongoing (from existing data)
+- **Bartington Instruments** (tom.simcox@bartington.com) — **Elevated visibility:** Now on RAVEN coordination distribution; likely sensor vendor for magnetic/field measurement equipment
+- **Redhelm Labs** (Neil Sorkin) — Power-beaming technology feasibility; Jack Elston + Maciej both engaged; possible propulsion augmentation for extended endurance
+- **Aerostar** (Russ Vanderwerff) — Synergy discussions (platform/operations partnership)
+- **University of Colorado** (Al Gasiewski, Lucas Wheeler) — Soil moisture white paper; academic collaboration continuing
 
-**TIER 3 — Supporting/Emerging**
-- **University of Colorado** — Soil moisture research; white paper collaboration
-- **US Navy NAWCAD** — RAVEN project participant
-- **Bartington Instruments** — RAVEN sensor equipment vendor (TBD role)
+**TIER 3 — Emerging**
+- **WeatherStream** (Michael Hurowitz) — White paper external distribution network
+- **CNES France** (francois.vacher@cnes.fr) — Possible international inquiry (space agency)
 
-### Internal Key Contacts
-- **Jack Elston** — Strategic coordinator/CEO equivalent; routes all major decisions
-- **Daniel Prendergast** — Technical decision-maker (system architecture, vendor evaluation, military project lead)
-- **Beck Cotter** — Sensor/equipment evaluation (Vantor discussions)
-- **Joshua Fromm, Cory Dixon** — S0 Carrier program team; Krateo Sky coordination
-- **Meredith Needham** — Appears in Krateo Sky integration meetings; operations/program support
-- **Alex Lomis** — S2 flight time coordination; RAVEN project participant
+### Internal Authority Structure
+- **Maciej:** Decision approver (HR/team lead role visible via Rippling); technical authority on RAVEN + export control; senior technical escalation point
+- **Jack Elston:** Strategic router; final decision authority on licensing/export issues; technology exploration greenlight (Redhelm)
+- **Daniel Prendergast:** Technical program lead on RAVEN; export control compliance owner; LM interface
+- **Beck Cotter:** Initial inquiry screening; sales/partnership routing
+- **Alex Lomis:** RAVEN team member (not a primary sender but visible on distribution)
 
 ## Notable Observations
 
-- **Krateo Sky relationship transformation:** From facility partner (clearance discussions) to formal standing integration partnership with weekly structured reviews involving 20+ cross-company staff. Suggests deep operational co-location or joint program management.
+- **RAVEN project transformation to daily ops:** From "kickoff" to site visit logistics + export control review cycle in ~24 hours. Neil Morphett (LM) now in direct daily contact with Maciej + Daniel. Suggests contract award or major statement-of-work phase gate reached.
 
-- **NOAA enterprise engagement:** Massive escalation from Joe Cione solo contact to enterprise presentation with 13+ NOAA staff (Alan Goldstein, Brian Richards, Caitlin Wilson, Director UxSOC, John Walker, Lisa Nakamura, Mark Rogers, Matthew Jaskoski, Nikolai Pawlenko). Suggests pilot program, system deployment, or procurement evaluation with federal customer.
+- **Export control gate visible:** Daniel Prendergast flagged "Black Swift UAS Sales to Lockheed Martin UK and UK Royal Navy" as requiring formal licensing review with Jack Elston. Indicates ITAR/EAR compliance gate on RAVEN program deliverables. UK Royal Navy involvement is new — suggests naval platform integration (not just air force).
 
-- **RAVEN program visibility:** New military-industrial project involving UK MOD, Lockheed Martin, US Navy NAWCAD, and Black Swift. Daniel Prendergast appears as technical lead. Suggests significant defense/sensor integration contract or joint development.
+- **Krateo Sky as RAVEN facility host:** Oct 3 "visits" coordinated through Bob Smith + Dipan Amin suggests Krateo Sky is hosting Lockheed Martin + UK/US Navy team for Black Swift integration/testing. "TPM Meeting" preparation indicates technical program management collaboration (possible shared subcontractor role).
 
-- **Vantor active competition:** Michael Rapp (Vantor) directly engaging Maciej + Daniel on "Black Swift TEM" thermal system. Competing against FLIR Hadron option from earlier data. Active vendor qualification underway.
+- **Bartington Instruments elevated to RAVEN team:** First visibility of Tom Simcox on RAVEN coordination distribution. Bartington specializes in magnetometers/field sensors — suggests RAVEN payload includes magnetic field measurement capability (ISR/detection role).
 
-- **Maciej as technical decision authority confirmed:** Appears in NOAA presentation distribution (large), Vantor sensor evaluation thread, RAVEN kickoff, Krateo Sky weekly meetings, and G-Suite technical collaboration. Senior technical role in system architecture and vendor selection.
+- **Redhelm power-beaming engagement:** Neil Sorkin from Redhelm Labs proposing in-flight wireless power-beaming fit to Black Swift UAS. Jack Elston + Maciej both engaged same day. Suggests endurance/payload capacity constraint identified on RAVEN program; exploring novel propulsion/power augmentation solutions.
 
-- **28 Oct operational peak:** 28 messages in single day with 10:00–14:00 UTC concentrated activity = major coordination day (NOAA presentation + Krateo Sky integration meeting + Vantor engagement + RAVEN scheduling all happening simultaneously).
+- **Maciej as approval authority:** Rippling HR approval request for Ali Sulehria's time off routed to Maciej — indicates team lead or manager-level role. Consistent with senior technical authority + operational decision-making visible in RAVEN/export control threads.
 
-- **UK presence expanding:** New threads with Simon Laurence (UK MOD S0-ISR updates) and RAVEN project with UK participants (Thibault Bridel-Bertomeu, likely non-US based). Suggests international military-industrial collaboration.
+- **Transatlantic coordination tempo:** Morphett (LM UK), Laurence (UK MOD), Sorkin (Redhelm US) all in same-day exchanges with sub-hour response times across 5+ time zones. Suggests active, high-priority project with tight scheduling.
 
-- **Soil moisture research thread:** Al Gasiewski (University of Colorado) + white paper collaboration visible; different from prior ISR/sensor focus — may indicate environmental monitoring or new application domain.
+- **NOAA / soil moisture research continuing alongside military:** Al Gasiewski + Michael Hurowitz white paper coordination shows Maciej's dual track: federal environmental/research partnership + military-industrial RAVEN program. No conflict visible; appears to be deliberate portfolio diversification.
 
-- **Google Docs real-time collaboration:** Comments visible on "BST – UK RAVEN Vi..." document show Maciej + Jack Elston live-collaborating on site visit preparation/logistics; informal ("Any coffee or food? Always good to give...") suggests close working relationship.
+- **IDIQ contract framework reference:** Jack Elston + Bob Smith discussing "IDIQ / Whitepaper Status" (29 Oct 15:19) — Indefinite Delivery/Indefinite Quantity contract suggests Black Swift may have master procurement vehicle with Krateo Sky or other partner; RAVEN may be first task order.
 
-- **Recruitment signal:** Creative Alignments scheduling "TPM Interview: Teresa Robertson" for Maciej's calendar (28 Oct 22:27). May indicate Black Swift hiring for Technical Program Manager role — resource expansion visible.
+- **International inquiry surge:** 29 Oct shows three external inquiries routed to Beck Cotter (Lucas Wheeler/CU, Round Construction, CNES France). Pattern suggests BST website getting increased inquiry traffic; Beck acting as qualification filter.
 
-- **Geoff (external contact) sharing geopolitical intelligence:** Forwarding article re: Atlantic-crossing mini boats combating Russian threats to Jack Elston, Maciej, Ted Miles, Joe Cione. Suggests informal intelligence-sharing network or maritime/NOAA operational interest.
+- **Concentrated Thursday coordination:** 36 messages in single day (29 Oct) with 90%+ IMPORTANT flags. Suggests major deadline week or milestone gate (RAVEN site visit prep, export control review, white paper finalization, facility planning all converging).
 
 ---
 
-**SUMMARY:** Maciej operates at the intersection of technical architecture, federal partnerships (NOAA), military-industrial programs (RAVEN, UK MOD), and operational integration (Krateo Sky). Week of 28 Oct shows enterprise-scale coordination across 4 major workstreams simultaneously. Jack Elston remains primary coordinator, but Maciej's technical authority is now clearly visible in vendor negotiations, federal customer presentations, and defense program integration.
+**SUMMARY:** Maciej operates as **senior technical decision authority + operational coordinator** for Black Swift's largest military-industrial program (RAVEN) while maintaining federal environmental partnerships (NOAA) and technology exploration initiatives (Redhelm power-beaming). RAVEN escalation from "kickoff" to daily coordination with Lockheed Martin + UK MOD within 24 hours indicates major contract award or task order release. Export control compliance gate now active, suggesting UK Royal Navy delivery requirements trigger ITAR review. Krateo Sky hosting integration activities; Bartington added to payload team. Maciej approves HR decisions and drives technical compliance reviews — confirms senior technical and operational leadership role. Week of 29 Oct represents critical program phase transition with multiple workstreams (RAVEN site visit, export control, facility hosting, power-beaming feasibility) converging simultaneously.

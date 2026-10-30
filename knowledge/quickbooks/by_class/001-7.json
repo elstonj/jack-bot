@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-10-29",
-    "end": "2026-10-29"
+    "start": "2024-10-30",
+    "end": "2026-10-30"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 207409.92,
+    "expenses": 206949.45,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86467.06,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
-      "Indirect Cost:Internal Research and DevelopmentX": 53711.92,
+      "Indirect Cost:Internal Research and DevelopmentX": 53251.45,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
@@ -8796,24 +8796,6 @@
           "amount": 31.6,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "25T \u00d8 6MM Spline LDS Servo Horn for Futaba/KST/MKS #TLS0052 \u00d7 4"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-29",
-      "doc_number": "",
-      "total": 460.47,
-      "attributed": 460.47,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 460.47,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "S3 construction materials"
         }
       ]
     }

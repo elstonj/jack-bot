@@ -2,6 +2,6 @@
 
 Small drive with 3 files.
 
-- Drone_Sales_Plan_MOQ_Model (modified 2026-10-28)
-- BST – UK RAVEN Visit Agenda (Nov 3-4, 2026) – DRAFT (modified 2026-10-28)
-- LMUK budget template (modified 2026-10-28)
+- RAVEN Kickoff and BST Site Visit (modified 2026-10-30)
+- S3 MOQ Model Review (modified 2026-10-29)
+- Vantor meeting 10/29: (modified 2026-10-29)

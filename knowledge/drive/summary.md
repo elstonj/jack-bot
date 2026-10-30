@@ -1,69 +1,56 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-10-29 02:44
+Last scanned: 2026-10-30 02:57
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
 - **Sales** — 3 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Google Drive Shared Drives Overview — Black Swift Technologies
 
-## Document Volume & Organization
+## Summary Statistics
+- **Total Drives Analyzed:** 2
+- **Total Documents:** 6
+- **Organization Quality:** Minimal — both drives are sparsely populated
 
-**Total files across reviewed drives:** 9 files  
-**Organization quality:** Poor – Both drives use flat structures with minimal folder taxonomy. Federal drive has zero subfolders; Sales drive lacks categorization. Naming conventions are inconsistent and lack standardized prefixes.
+## Drive-by-Drive Breakdown
 
----
+### Federal Projects
+- **Volume:** 3 files (minimal)
+- **Content:** Mix of video files (2 MOV files) and budget documentation
+- **Issues:** 
+  - Video files with generic naming (RC_VID_0008/0009)
+  - Inconsistent date stamps (files dated 2099 suggest potential data entry errors)
+  - No folder structure; all files at root level
 
-## Key Projects & Clients
-
-| Drive | Primary Focus | Document Count | Key Project |
-|-------|---------------|-----------------|-------------|
-| **Federal Projects** | Government/satellite contracts | 6 | WP-BST-006 S0 Direct-to-Cell (Starlink Mobile) with NOAA |
-| **Sales** | Business development | 3 | UK RAVEN partnership; MOQ drone sales model |
-
-**Most documented initiative:** WP-BST-006 dominates Federal drive with 2 technical proposals + budget + presentation (4 of 6 files), indicating this is BST's primary federal focus area.
-
----
+### Sales
+- **Volume:** 3 files (minimal)
+- **Content:** Client meetings and product specifications
+- **Key Clients/Projects:** RAVEN, S3, Vantor
+- **Issues:**
+  - Inconsistent naming (one file incomplete: "Vantor meeting 10/29:")
+  - No folder organization by client or time period
+  - All files at root level
 
 ## Cross-Drive Patterns
-
-- **Federal drive** = Proposals + technical specs + stakeholder presentations (government-facing deliverables)
-- **Sales drive** = Go-to-market planning + partnership agendas + budget templates (business development)
-- **No observed overlap** between drives; minimal shared resource usage
-
----
-
-## Shared Resources & Templates
-
-- LMUK budget template (Sales drive) — single reusable financial template identified
-- ROM Budget (Federal drive) — project-specific financial planning
-- Limited evidence of standardized templates across drives
-
----
-
-## Document Management Observations
-
-**Naming conventions:**
-- Federal: Project-centric (WP-BST-006, NOAA briefing date-tagged)
-- Sales: Descriptive but inconsistent (mix of project names, meeting agendas, templates)
-- No consistent date/version naming scheme
-
-**Organization patterns:**
-- Flat file storage creates discovery friction
-- Recent activity (Oct 2026) suggests active use, but outdated media asset reference ("RC_VID" truncated)
-
----
+- No apparent overlap or shared resources between drives
+- No templates, standards, or reference documents visible
+- Both drives lack folder hierarchies
 
 ## Areas Requiring Attention
+1. **Organization:** Both drives need folder structure (recommend: by client, project, or time period)
+2. **Naming Conventions:** Establish clear naming standards (dates, project codes, version numbers)
+3. **Data Integrity:** Verify 2099 timestamps in Federal Projects drive
+4. **Content Gaps:** Limited documentation for a BST operation; consider whether critical files are stored elsewhere
+5. **Stale Content:** No clear archival strategy evident
 
-1. **Folder structure overhaul** — Implement subfolders by project/client/document type (Proposals, Contracts, Budgets, Presentations, Media)
-2. **Stale/incomplete references** — "RC_VID" file appears truncated or corrupted
-3. **Naming standardization** — Adopt format: `[Project]-[DocType]-[Date]-[Version]`
-4. **Limited template library** — Only 1-2 reusable templates across 9 files; opportunity to build templates for proposals, contracts, budgets
-5. **Cross-drive resource sharing** — Consider shared "Templates" or "Brand Assets" drive for enterprise-level documents
+## Recommendations
+- Implement consistent folder hierarchies across both drives
+- Establish naming conventions (e.g., `YYYY-MM-DD_ProjectName_DocumentType`)
+- Create shared templates and resource libraries
+- Audit for missing documentation

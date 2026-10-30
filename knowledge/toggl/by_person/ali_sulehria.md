@@ -1,36 +1,37 @@
-_Computed from Toggl as of 2026-10-28: 87.5 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-10-30: 103.5 h tracked since 2020-01-01._
 
 # Ali Sulehria — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 87.5 hours (all-time since 2020-01-01)
-- **Primary projects:** 
-  1. 2026 IDIQ (Hurricane) – NOAA
-  2. General Operations – Overhead
-  3. SOCOM Pope
-- **Time period covered:** All-time (2020–present); recent entries span recent weeks
+- **Total hours tracked:** 103.5 hours (all-time since 2020-01-01)
+- **Primary projects:** 2026 IDIQ (Hurricane), General Operations, SOCOM Pope
+- **Time period covered:** All-time tracking data with recent entries showing current activity
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| [300-3] 2026 IDIQ (Hurricane) | 62.4 | 71.3% | NOAA |
-| [001-13] General Operations | 9.5 | 10.9% | Overhead |
-| [600-1] SOCOM Pope | 8.4 | 9.6% | SOCOM |
-| [001-14] SwiftCore 3.3 | 7.2 | 8.2% | IRAD |
+| [300-3] 2026 IDIQ (Hurricane) | 72.4 | 69.9% | NOAA |
+| [001-13] General Operations | 9.5 | 9.2% | Overhead |
+| [600-1] SOCOM Pope | 8.4 | 8.1% | SOCOM |
+| [001-14] SwiftCore 3.3 | 7.2 | 7.0% | IRAD |
+| [001-07] S3 IRAD | 6.0 | 5.8% | IRAD |
 
 ## Recent Activity
-Ali's recent work is dominated by the Hurricane project:
-- **S0 hardware preparation:** GPS board testing, onboarding, QA prep
-- **S0 PSNS debugging/testing:** System-level diagnostics
-- **AP core 2 p400 radio issues:** Debugging and laptop/tools setup
-- **SOCOM Pope:** Documentation work (slamstick docs)
-- **SwiftCore 3.3:** Unspecified internal R&D work
 
-Most recent entries lack detailed descriptions, making specific task tracking difficult.
+Ali's recent work is heavily concentrated on the **2026 IDIQ (Hurricane)** NOAA project, which dominates the last 23 tracked entries. When descriptions are provided, work includes:
+
+- S0 GPS board testing and onboarding
+- S0 PSNS debugging/testing and board preparation for QA
+- AP core 2 p400 radio debugging and setup
+- General debugging/testing activities
+
+Secondary recent activity includes SOCOM Pope work (slamstick documentation) and internal IRAD projects (SwiftCore 3.3, S3 IRAD). General Operations entries lack descriptions but represent administrative overhead.
 
 ## Patterns
-- **Clear focus:** Hurricane project accounts for 71% of all tracked time; this is Ali's primary responsibility
-- **Hardware/systems focus:** Recent work centers on embedded systems (GPS boards, radio modules, PSNS), suggesting a hardware engineering or integration role
-- **Overhead balance:** ~11% of time allocated to general operations/admin tasks
-- **Documentation gaps:** Many recent entries have no description, limiting insight into specific activities
+
+- **Primary focus:** Clearly devoted to hardware testing, debugging, and board preparation for the Hurricane NOAA project (~70% of all time)
+- **Work type:** Predominantly hands-on technical/hardware work with GPS boards, radio systems, and debugging tasks
+- **Documentation:** Most recent entries lack descriptions, making detailed pattern analysis of recent weeks difficult; earlier entries show technical depth (GPS, PSNS, radio diagnostics)
+- **Secondary commitments:** Balanced mix of IRAD/internal projects and overhead with occasional SOCOM support
+- **Consistency:** No visible shifts in focus over tracked period; Hurricane project remains dominant priority

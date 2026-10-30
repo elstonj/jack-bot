@@ -1,74 +1,77 @@
-_Asana snapshot as of 2026-10-23: 15 open tasks, 260 completed (last 365 days)._
+_Asana snapshot as of 2026-10-30: 15 open tasks, 49 completed (last 90 days)._
 
 # [001-13] Accounting
 
 ## Overview
-- **Owner:** Meredith O'hara Needham
-- **Team:** BST (Whole Team)
-- **Status:** Active — ongoing monthly accounting operations
-- **Timeline:** Recurring monthly tasks with quarterly and annual compliance deadlines extending through 2028
-- **Risk Signals:** Several tasks with near-term due dates (Oct 5–9, 2026) and a pattern of late completion (many tasks completed 3+ weeks past due date)
+- **Owner**: Meredith O'hara Needham
+- **Team**: BST (Whole Team)
+- **Client/Scope**: Internal BST accounting and financial operations
+- **Timeline**: Recurring monthly/quarterly tasks; key near-term deadlines in October 2026
+- **Status**: Active — regular completion of recurring tasks, 49 completed vs. 15 open
+- **Risk Signals**: 
+  - Multiple overdue tasks from August 2026 (e.g., "Make sure all paid invoices are recorded in QB" due 2026-08-17, still open)
+  - "Pay Outstanding Invoices" due 2026-10-09 marked "Started, incomplete"
+  - Four quarterly sales tax return filings open with dates spanning 2027–2028 (tax compliance risk)
 
 ## Key Deliverables & Milestones
 
-| Deliverable | Due Date | Notes |
-|---|---|---|
-| Pay Wages to MyFAMLI+ | 2026-10-08 | Quarterly wage reporting; amount TBD after login |
-| Record Payroll in Quickbooks | 2026-10-06 | Monthly payroll reconciliation from Rippling Payroll Report |
-| Check Late Invoices (weekly) | 2026-10-05 | Recurring Monday task |
-| Pay Outstanding Invoices | 2026-10-09 | Review Gmail, process in QB |
-| Make sure all paid invoices recorded in QB | 2026-10-09 | Monthly reconciliation |
-| Reconcile CC | 2026-10-19 | Monthly credit card reconciliation |
-| Run Monthly P/L | 2026-10-30 | Monthly profit & loss statement |
-| File 1Q Sales Tax Returns (Jan–Mar 2025) | 2027-04-10 | Boulder Online Tax System + Colorado Revenue |
-| File 2Q Sales Tax Returns (Apr–Jun 2025) | 2027-07-09 | Boulder Online Tax System + Colorado Revenue |
-| File Q3 Sales Tax Returns (Jul–Sep 2025) | 2027-10-08 | Boulder Online Tax System + Colorado Revenue |
-| File 4Q Sales Tax Returns (Oct–Dec 2025) | 2027-01-11 | Boulder Online Tax System + Colorado Revenue |
-| 1099s | 2027-01-12 | Verify vendor 1099 tracking; review contractor invoices for services vs. materials split |
-| 1099s | 2028-01-27 | Follow-up 1099 task |
+### Recurring Monthly Tasks (all assigned to Meredith O'hara Needham)
+- **Pay Outstanding Invoices** — Due monthly (~10th of month); review Gmail and pay via QuickBooks
+- **Record Payroll in Quickbooks** — Due monthly (~6th); reconcile Rippling payroll report with banking feed (SOP: https://docs.google.com/document/d/1vGjlPEUN_BA)
+- **Make sure all paid invoices are recorded in QB** — Due multiple times per month (~7th, 14th, 21st, 28th)
+- **Check Late Invoices every Monday** — Standing task; most Mondays
+- **Run Monthly P/L** — Due ~end of month (25th–31st)
+- **Reconcile CC** — Due monthly (~17th–21st)
+
+### Quarterly/Annual Tax Compliance
+- **Q3 Sales Tax Returns (2025)** — Due 2027-10-08; July 1–Sept 30 (Boulder Online Tax System, Colorado Revenue)
+- **Q4 Sales Tax Returns (2025)** — Due 2027-01-11; Oct 1–Dec 31
+- **2Q Sales Tax Returns (2025)** — Due 2027-07-09; April 1–June 30
+- **1Q Sales Tax Returns (2025)** — Due 2027-04-10; Jan 1–March 31
+- **1099s** — Two instances open: Due 2027-01-12 and 2028-01-27; ensure vendors tracked in QuickBooks; separate services from materials on contractor invoices
+
+### Other
+- **Pay Wages to MyFAMLI+** — Due 2026-10-08; Colorado payroll tax filing; amount listed upon login at https://famli.colorado.gov/employers
+- **Product pricing** — Unassigned, no due date
+- **Update Fundraising Financial Reports** — Recurring; update with previous month's data to shared folder
 
 ## Task Summary
 
 | Metric | Count |
-|---|---|
-| **Open Tasks** | 15 |
-| **Completed Tasks** | 260 |
-| **Completion Rate** | 94.6% |
-| **Assigned to Meredith O'hara Needham** | 14 of 15 open |
-| **Unassigned** | 1 (Product pricing) |
+|--------|-------|
+| **Total Open Tasks** | 15 |
+| **Total Completed Tasks** | 49 |
+| **Completion Rate** | 77% |
 
-### Pattern Analysis
-- **All-or-nothing owner:** Meredith handles 93% of accounting work; one unassigned task (Product pricing) appears outside core accounting scope.
-- **Recurring task structure:** Weekly "Check Late Invoices every Monday," bi-weekly "Pay Outstanding Invoices" and "Make sure all paid invoices are recorded in QB," monthly "Reconcile CC" and "Run Monthly P/L," and quarterly/annual compliance filings.
-- **Late completion pattern:** Recent completed tasks show consistent 1–3 week delays past due date (e.g., tasks due Oct 2–5 completed Oct 5; tasks due Aug–Sep completed Sept 28). This suggests workload management or priority conflicts.
+### By Assignee
+- **Meredith O'hara Needham**: 14 of 15 open tasks (93%); all 49 completed tasks
+- **Unassigned**: 1 open task ("Product pricing")
+
+### Patterns
+- **Highly recurring**: Monthly and weekly tasks dominate; 49 of 64 total tasks are cyclical (invoice review, payroll, reconciliation)
+- **Completion lag**: Recent completed tasks show consistent ~1–2 week delays relative to due dates (e.g., tasks due 2026-08-03 completed 2026-10-05)
+- **All non-billable**: Most tasks marked "nonbillable"
+- **Heavy QuickBooks workflow**: Invoice recording, payroll, and reconciliation are core workflows
 
 ## Recent Activity
 
 **Most Recent Completions (2026-10-05):**
-- File Q3 Sales Tax Returns (due 2026-10-08 → completed 2026-10-05) — *early*
-- Pay Outstanding Invoices (due 2026-10-02 → completed 2026-10-05) — *3 days late*
-- Multiple "Make sure all paid invoices are recorded in QB" and "Check Late Invoices" tasks completed in bulk on 2026-10-05
+- File Q3 Sales Tax Returns (completed 3 days ahead of due date 2026-10-08)
+- Pay Outstanding Invoices (completed 2026-10-05)
+- Multiple invoice recording and Monday late-invoice checks batched on same date
 
-**Batch Completion Pattern (2026-09-28):**
-- Run Monthly P/L, Reconcile CC, Record Payroll, Pay Outstanding Invoices, multiple QB recording tasks all completed same day — suggests end-of-month reconciliation sprint
-
-**Outstanding Immediate Tasks (due Oct 5–30, 2026):**
-- Pay Wages to MyFAMLI+ — due Oct 8
-- Pay Outstanding Invoices — due Oct 9 (Status: Started, incomplete)
-- Make sure all paid invoices are recorded in QB — due Oct 9
-- Record Payroll in Quickbooks — due Oct 6
-- Check Late Invoices every Monday — due Oct 5
-- Reconcile CC — due Oct 19
-- Run Monthly P/L — due Oct 30 (Status: Not started)
+**Pattern**: Batch completion of recurring monthly tasks on a single date (2026-09-28, 2026-10-05) suggests Meredith may be consolidating accounting work into weekly blocks.
 
 ## Notes & Context
 
-- **Tools used:** QuickBooks (QB), Rippling Payroll, Gmail (invoice folder), MyFAMLI+ (Colorado wage reporting), Boulder Online Tax System, Colorado Revenue Online
-- **SOP reference:** Payroll recording procedure documented in [Google Doc](https://docs.google.com/document/d/1vGjlPEUN_BA)
-- **Compliance scope:** Federal (1099s), state (Colorado sales tax, wage withholding), and local (Boulder tax) filings
-- **Fundraising integration:** "Update Fundraising Financial Reports" tasks suggest financial data feeds into investor/fundraising documentation (Data Room → Financial Reports)
-- **Workload concern:** Meredith completing 94.6% of 275 total tasks (260 completed + 15 open) with consistent late-completion pattern suggests potential capacity or priority issue; recommend monitoring Q4 2026 for burnout or task spillover
+1. **MyFAMLI+ Wage Reporting**: Task notes indicate Colorado employer payroll tax filing; amount due becomes visible only after login.
 
----
+2. **Tax Compliance Alert**: Four quarterly sales tax filings are open with due dates in 2027–2028, but the years appear misaligned with the reporting periods (e.g., Q3 2025 data due in October 2027). Verify filing calendar is correct.
 
-**No team corrections were provided for this project.**
+3. **1099 Contractor Tracking**: Two 1099 tasks (due 2027-01-12 and 2028-01-27) emphasize ensuring contractor invoices are split between services and materials in QuickBooks; this is IRS compliance-critical.
+
+4. **Fundraising Financial Reports**: Separate recurring task to update reports in shared Drive folder (https://drive.google.com/drive/folders/1HloGsiJWk8hx6AIyN5yCVwC); appears quarterly or monthly.
+
+5. **Product Pricing (Unassigned)**: No due date, owner unknown—may need clarification on priority and ownership.
+
+6. **Completion Timing**: Most recurring tasks are completed in bulk on 2–3 specific dates per month (e.g., 2026-09-28, 2026-10-05), suggesting a batching workflow rather than daily execution.

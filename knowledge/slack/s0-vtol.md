@@ -6,7 +6,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast, Meredith Needham, Kevin
 
 Activity: High activity with 1500+ messages covering approximately 2+ years of development
-Time range: Early development through August 28, 2026 (ongoing project)
+Time range: Early development through October 29, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -81,12 +81,36 @@ Time range: Early development through August 28, 2026 (ongoing project)
 - Joshua Fromm indicated team comfort with loading own pyro charges using small amounts of black powder
 - Decided on dual strategy: in-flight logging combined with parachute system deployment (May 19, 2026)
 
+**Avionics Hardware Updates (October 29, 2026):**
+- Jack Elston proposing new avionics halves for S0-VTOL with minor changes (awaiting review)
+- Primary design concern: potential interference between components above the radio section requiring validation
+
 ## Projects & Initiatives
 
 ### S0-VTOL Flight Testing Campaign & Delivery (August-September 2026)
-**Current Status:** Active flight testing with S01005 as primary test aircraft; production scaling complete with 3 aircraft; critical focus on resolving autopilot power switch issues before ISARRA deployment (August 30 - September 3, 2026)
+**Status as of August 28, 2026:** Active flight testing with S01005 as primary test aircraft; production scaling complete with 3 aircraft; critical focus on resolving autopilot power switch issues before ISARRA deployment (August 30 - September 3, 2026)
 
 **Critical Issues Blocking ISARRA Deployment (August 27-28, 2026):**
 - **Power Switch Boot Loop Issue (Primary - under investigation):**
   - Affects at least one autopilot stack
   - Power switch stuck on power-down, continuously triggering
+
+### Avionics Design Iteration (October 2026 - Current)
+**Status:** In review phase
+- New avionics halves proposed with minor modifications by Jack Elston (October 29, 2026)
+- Alex Lomis assigned to review changes
+- Primary design constraint: Radio component placement and interference mitigation with adjacent components
+
+## Action Items & Commitments
+
+- **Alex Lomis** - Review proposed new avionics halves for S0-VTOL (Jack Elston request, October 29, 2026) - Status: "can do"
+- **Sam Hild** - Verify RC circuit components on AP power switch are within tolerance range (pending as of August 27-28, 2026)
+- **Jack Elston** - Provide detailed design documentation on new avionics halves, particularly radio section interference concerns (October 29, 2026)
+
+## Recent Activity
+
+**October 29, 2026 - Avionics Design Update:**
+- Jack Elston shared proposed new avionics halves for S0-VTOL with very minor changes requiring review
+- Alex Lomis committed to review process
+- Jack flagged main concern: potential interference between parts positioned above the radio section
+- This represents design iteration continuing post-ISARRA delivery phase, suggesting aircraft development is ongoing beyond initial customer delivery

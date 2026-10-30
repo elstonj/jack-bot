@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "UH Assistant Professor Kelly Huang and colleague James Flynn seeking S3 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. Quote sent 2026-10-06. Slack 2026-10-21 confirms order is \"very likely\" and vendor onboarding in progress; UH must encumber funds by EOY.",
+  "notes": "UH Assistant Professor Kelly Huang and colleague James Flynn seeking S3 for meteorological/atmospheric research. Primary use: spatially resolved lower-atmosphere measurements for boundary-layer and environmental flow studies around campus and field campaigns. Quote sent 2026-10-06. Slack 2026-10-21 confirms order is \"very likely\" and vendor onboarding in progress; UH must encumber funds by EOY. Beck is primary interface (assignee).",
   "missing_fields": [
     "ship_to",
     "receive_by",

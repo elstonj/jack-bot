@@ -1,128 +1,136 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 45 (28 previous + 17 new)
+- **Total messages scanned:** 69 (45 previous + 24 new)
 - **Date range:** 24 Oct 2026 – 29 Oct 2026
-- **Volume:** High activity, concentrated on Wed 28 Oct (35+ messages); sustained intensity post-NOAA meeting (28 Oct)
+- **Volume:** High activity sustained through 29 Oct; 24 new messages on final day (Thu 29 Oct) indicate ongoing multi-stream coordination
 
 ## Key Correspondents
 
 ### Top Senders to Cory
-1. **Jack Elston** (elstonj@blackswifttech.com) — 12+ messages (coordinator, forwards, updates)
-2. **Bina Menon** (menonb@fpctroy.com) — 3 messages (recruiting/feedback on firmware candidates)
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 3+ messages (compliance, export controls, RAVEN project)
-4. **Jasmine Khambatta** (jasmine@krateosky.com) — 2 messages (hiring for Sr. Firmware Engineer)
-5. **Beck Cotter** (beck.cotter@blackswifttech.com) — 2+ messages (hiring referrals)
-6. **Sona Raziabeegum** (sona@krateosky.com) — 2+ messages (European certification, white papers)
-7. **Bob Smith** (Bob@krateosky.com) — 3 messages (DD254 & facility clearance)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 16+ messages (ongoing PM/coordinator hub)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 6+ messages (compliance, export controls, RAVEN, facility clearance)
+3. **Bob Smith** (Bob@krateosky.com) — 4 messages (export control coordination, facility clearance)
+4. **Jasmine Khambatta** (jasmine@krateosky.com) — 2 messages (Sr. Firmware Engineer hiring)
+5. **Simon Laurence** (Simon.Laurence157@mod.gov.uk) — 2 messages (RAVEN Project coordination; UK MOD)
+6. **Angel Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — 1+ message (RAVEN Project; US Navy NAWCAD)
+7. **Maciej Stachura** (stachura@blackswifttech.com) — 3 messages (drive audit, RAVEN coordination)
+8. **Al Gasiewski** (al.gasiewski@colorado.edu) — 2 messages (Soil Moisture White Paper)
 
 ### Top Recipients (Cory Sending To)
-1. **Sona Raziabeegum** (sona@krateosky.com) — 2+ messages (certification, clearance forwarding)
-2. **Jack Elston** (elstonj@blackswifttech.com) — 1+ message (European cert coordination)
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 1+ message (certification coordination)
-4. **Bina Menon** (menonb@fpctroy.com) — 2 messages (firmware recruitment feedback)
-5. **Jasmine Khambatta** (jasmine@krateosky.com) — 3 messages (Sr. Firmware Engineer hiring discussion)
-6. **Hadley Solomon** (hadley.solomon@creativealignments.com) — 1 message (Account Executive application forwarding)
-7. **Robert Edson** (bob.edson@blackswifttech.com) — 1 message (draft, content unclear)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 2+ messages (coordination, response to PM guidance)
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 2 messages (BST PM Support, export control coordination)
+3. **Ethan Domagala** (ethan.domagala@blackswifttech.com) — 1 message (BST PM Support Discussion forward)
 
 ### Internal vs External
-- **Internal (BST):** Jack Elston, Daniel Prendergast, Maciej Stachura, Beck Cotter, Joshua Fromm, Robert Edson, Meredith Needham
-- **Krateo Sky Partners:** Bob Smith, Lisa Marie Cheney, Brian Grubel, Sona Raziabeegum, Ellen McCarthy, Jasmine Khambatta
-- **External/NOAA:** Alan S. Goldstein, Brian Richards, Caitlin Wilson, Danielle Varwig, John Walker, Lisa Nakamura (Iwahara), Mark Rogers, Matthew Jaskoski, Nikolai Pawlenko, Director UxSOC
-- **Government/Military:** Lockheed Martin UK (Neil Morphett, Dhruti Shah), UK MOD (Simon Laurence), US Navy NAWCAD (Ruiz-Reyes, Brescia), Bartington (Tom Simcox)
-- **Recruiting/Staffing:** Bina Menon (FPC Troy recruiting), Hadley Solomon (Creative Alignments)
-- **Multi-identity:** Cory uses `cory.dixon@blackswifttech.com` and `cory@krateosky.com` (dual role confirmed)
+- **Internal (BST):** Jack Elston, Daniel Prendergast, Maciej Stachura, Meredith Needham, Ethan Domagala, Alex Lomis
+- **Krateo Sky Partners:** Bob Smith, LisaMarie Cheney, Ellen McCarthy, Sona Raziabeegum, Jasmine Khambatta, Brian Grubel, Dipan Amin
+- **Government/Defense (RAVEN):** Simon Laurence (UK MOD), Angel Ruiz-Reyes (US Navy NAWCAD), Anthony Brescia (US Navy NAWCAD), Neil Morphett (Lockheed Martin UK), Dhruti Shah (Lockheed Martin UK), Tom Simcox (Bartington)
+- **Academic/Research:** Al Gasiewski (University of Colorado), Michael Hurowitz (WeatherStream)
+- **External Vendors:** Sam (Lion Power Engineering — battery systems)
+- **Automated:** BST Website contact form submission, Google Drive share notification, Granola AI promotion
 
 ## Topic Patterns
 
-### Recurring Themes
-- **WP-BST-006 (S0 Carrier):** Post-NOAA meeting (28 Oct) coordination; Revision B updates; responses to NOAA feedback; multiple threads with Krateo Sky partners
-- **NOAA Federal engagement:** 28 Oct presentation to large NOAA stakeholder group (12+ attendees); indicates successful post-meeting follow-up
-- **European certification:** "European certification for Black Swift S2 and SwarmSonde" — active coordination with Sona Raziabeegum (Krateo Sky) and Daniel Prendergast
-- **Export controls & licensing:** "Export Control & Licensing Review: Black Swift UAS Sales to Lockheed Martin UK and UK Royal Navy" — escalated compliance matter involving Daniel Prendergast; suggests UK/international sales track
-- **DD254 & facility clearance:** Ongoing security/facility clearance coordination (Jack Elston, Bob Smith, Daniel Prendergast, Maciej Stachura) — appears to be gate item for government work
-- **Hiring & recruitment:** 
-  - Sr. Firmware Engineer (Krateo Sky hiring, Cory reviewing candidates via Jasmine Khambatta)
-  - Account Executive / Sales / GTM role (forwarded by Beck Cotter, escalated by Cory to Hadley Solomon)
-  - Firmware Engineer candidates (Bina Menon/FPC Troy sending 2 candidates)
-  - General staffing need signals on 28 Oct
-- **White Paper updates:** Multi-threaded with Jack Elston, Sona Raziabeegum, Maciej Stachura
-- **Video Project:** Continues from previous period (Kay Rufty still active on 28 Oct)
-- **RAVEN Project:** New project visible; "RAVEN Project Kickoff and Black Swift Site Visit" — involves Lockheed Martin UK, US Navy, UK MOD; Daniel Prendergast coordinating; suggests defense/international scope
+### Recurring Themes (Updated)
+- **Export Control & Licensing Review:** Escalating coordination thread through 29 Oct; now includes Bob Smith (Krateo Sky) providing formal response; involves Lockheed Martin UK and UK Royal Navy sales; indicates matured export compliance workflow
+- **Facility Clearance & FSO Discussion:** New calendar meeting scheduled for Thu Nov 5, 2026 1–1:30pm (MST); attendees: Cory, Daniel Prendergast, Jack Elston, Bob Smith (Krateo Sky), Lisa Marie Cheney (Krateo Sky) — confirms this is a critical gate item with formal meeting scheduled
+- **RAVEN Project Kickoff & Site Visit:** Active multi-stakeholder coordination across UK MOD, Lockheed Martin UK, US Navy NAWCAD, Bartington (sensor vendor); Maciej Stachura coordinating directly with Simon Laurence (UK MOD); project appears to be moving into active planning phase (discussions of kickoff timing and site visit logistics)
+- **SOCOM PM Discussion:** New escalation from Daniel Prendergast to Dipan Amin (Krateo Sky); suggests SOCOM (Special Operations Command) contract/opportunity emerging
+- **Soil Moisture White Paper:** Continued revision cycle with Al Gasiewski (CU) and Michael Hurowitz (WeatherStream partner); Jack Elston managing feedback rounds through 29 Oct
+- **WP-BST-006 (S0 Carrier):** Continues as background coordination (IDIQ/Whitepaper Status thread via Jack Elston to Bob Smith)
+- **IDIQ Status:** Jack Elston discussing with Bob Smith (Krateo Sky); suggests ongoing government IDIQ contract or procurement status tracking
+- **Drive Audit Review:** Internal governance/compliance; Maciej Stachura forwarding to Jack Elston with decision requests; Cory included on follow-up
+- **S3 Product:** Google Drive share request for "S3" file/document; new product indicator or internal codename; Ethan Domagala initiating share
+- **BST PM Support Discussion:** Cory forwarding to Daniel Prendergast and Ethan Domagala; suggests project management or internal process coordination
+- **Marty Bruner Sr. Firmware Engineer:** Jasmine Khambatta (Krateo Sky) following up with Cory on candidate; hiring pipeline active through 29 Oct
 
-### Client/Organization Names
-- **NOAA Federal** — primary government customer (12+ named contacts)
-- **Lockheed Martin UK** — international defense customer (Neil Morphett, Dhruti Shah)
-- **US Navy NAWCAD** — defense stakeholder (Ruiz-Reyes, Brescia)
-- **UK MOD (Ministry of Defence)** — Simon Laurence contact
-- **Krateo Sky** — active operational partner (5+ personnel on sensitive threads)
-- **Vantor** — partnership/meeting follow-up (Naresh Shah, Grant Boerhave)
-- **University of Colorado** — research partner (Brian M Argrow, Eric W Frew, Al Gasiewski)
-- **Bartington** — sensor/instrumentation vendor (Tom Simcox)
-- **FPC Troy** — recruiting partner (Bina Menon)
-- **Creative Alignments** — recruiting/talent sourcing (Hadley Solomon)
+### Client/Organization Names (Updated)
+- **NOAA Federal** — primary government customer (background, post-NOAA review)
+- **Lockheed Martin UK** — RAVEN Project partner (Neil Morphett, Dhruti Shah active)
+- **US Navy NAWCAD** — RAVEN Project stakeholder (Ruiz-Reyes, Brescia active planning)
+- **UK MOD (Ministry of Defence)** — RAVEN Project lead (Simon Laurence coordinating kickoff)
+- **SOCOM** — new escalation visible; suggests Special Operations Command opportunity
+- **Bartington** — sensor/instrumentation partner on RAVEN (Tom Simcox coordinating)
+- **Krateo Sky** — full operational partnership (5+ personnel on sensitive compliance/export control threads)
+- **University of Colorado** — white paper research partner (Al Gasiewski)
+- **WeatherStream** — white paper partner (Michael Hurowitz)
+- **Lion Power Engineering** — battery system vendor (inquiry/RFQ)
 
-### Projects Visible
-- **WP-BST-006 (S0 Carrier)** — active post-NOAA review; Revision B in circulation
-- **RAVEN Project** — new defense initiative with Lockheed Martin UK, US Navy, UK MOD
-- **Video Project** — ongoing (Kay Rufty)
-- **White Paper Series** — Soil Moisture (Al Gasiewski), European certification requirements
-- **European UAS certification** — S2 and SwarmSonde products
+### Projects Visible (Updated)
+- **RAVEN Project** — moved from kickoff discussion to active planning (site visit scheduling, multi-agency coordination, formal correspondence from UK MOD and US Navy)
+- **WP-BST-006 (S0 Carrier)** — IDIQ status being tracked
+- **Soil Moisture White Paper** — active revision with CU and WeatherStream
+- **Facility Clearance & FSO Initiative** — formal meeting scheduled, appears to be prerequisite for defense contracts
+- **S3 Product/Project** — new, minimal metadata; internal development or proposal phase
+- **BST PM Support** — internal process or governance initiative
+- **Sr. Firmware Engineer Hiring** — active candidate pipeline (Marty Bruner identified)
 
 ## Communication Patterns
 
-- **Spike on Wed 28 Oct:** 35+ messages, clustered around NOAA meeting conclusion and follow-up coordination; high volume sustained through evening (UTC timestamps until 23:01)
-- **Dual-identity email usage:** Cory consistently uses `cory@krateosky.com` for recruitment/HR matters and Krateo Sky internal coordination; uses `cory.dixon@blackswifttech.com` for BST project/government work
-- **Forwarding behavior:** Cory forwards compliance/export control items, hiring applications, and security documentation (DD254) to appropriate stakeholders
-- **Cross-organizational threads:** Large 8+ participant threads on WP-BST-006 and NOAA coordination; Krateo Sky appears as full team participant (not just supporting)
-- **Government stakeholder management:** Cory included on direct NOAA email (12+ recipients); participates in compliance/export control escalations involving Daniel Prendergast
-- **Recruiting sourcing:** Actively soliciting feedback from external recruiting partner (Bina Menon/FPC Troy) on firmware candidates; appears to have hiring authority or at least review role
-- **Time zone diversity:** Emails span UTC and -0600 (Mountain Time), indicating distributed team (potentially Krateo Sky is remote/distributed)
+- **Sustained intensity through 29 Oct:** 24 messages on final day indicates multiple concurrent streams reaching decision/coordination points (facility clearance meeting scheduled, RAVEN project kickoff planning, export control responses, white paper revisions, hiring pipeline)
+- **Dual inbox usage maintained:** `cory.dixon@blackswifttech.com` for government/compliance/internal coordination; `cory@krateosky.com` for recruiting (Jasmine Khambatta threading to `cory@krateosky.com`)
+- **Krateo Sky embedded in sensitive workflows:** Bob Smith, LisaMarie Cheney, Ellen McCarthy, Sona Raziabeegum all copied on Export Control & Licensing Review thread; Bob Smith leading formal response; suggests Krateo Sky has compliance/regulatory authority within BST partnership
+- **Multi-time-zone coordination:** UTC and -0600 (Mountain) stamps; UK MOD (Simon Laurence) communicating directly with BST/Krateo Sky team in real-time; indicates 24/7 global coordination
+- **Government stakeholder expansion:** RAVEN Project now includes UK MOD (primary lead on thread), US Navy (NAWCAD), Lockheed Martin UK, Bartington (vendor); indicates broadest government coalition to date
+- **Automated systems integration:** Google Drive shares, website contact forms, AI tool promotions appearing in Cory's inbox; suggests routine coordination infrastructure in place
+- **Document/proposal workflow:** "S3" Google Drive share request + BST PM Support forwarding pattern indicates active proposal/planning documentation cycle
 
 ## Key Relationships
 
-### Internal Collaborators
-- **Jack Elston** — primary PM/coordinator; central hub for all major initiatives (NOAA, WP-BST-006, export controls, white papers, hiring); sends frequent forwards and updates to Cory
-- **Daniel Prendergast** — compliance/legal/export control lead; coordinates with Cory on international sales and regulatory matters (Lockheed Martin UK, RAVEN, export controls)
-- **Maciej Stachura** — flight test/partnership coordinator; actively involved in Vantor follow-up and NOAA coordination
-- **Beck Cotter** — hiring/HR coordinator; forwards recruitment referrals to Cory
-- **Joshua Fromm** — technical contributor to WP-BST-006 and NOAA meetings
-- **Robert Edson** — unknown; draft email suggests potential document/content review
+### Internal Collaborators (Updated)
+- **Jack Elston** — remains central PM hub; now managing white paper revisions, IDIQ status, facility clearance scheduling, export control coordination; sends 4–5 daily updates to Cory
+- **Daniel Prendergast** — compliance/government relations lead; escalating SOCOM opportunity, managing RAVEN project coordination with UK MOD/US Navy, scheduling facility clearance meeting
+- **Maciej Stachura** — flight operations and RAVEN project site visit coordinator; direct contact with UK MOD (Simon Laurence)
+- **Meredith Needham** — finance/operations (invoicing, out-of-office coordination)
+- **Ethan Domagala** — PM support or proposal development (BST PM Support Discussion, S3 document)
+- **Alex Lomis** — new internal contact appearing on RAVEN Project communications with US Navy/UK MOD
 
-### Krateo Sky Key Contacts (Deep Partnership)
-- **Bob Smith** — Krateo Sky lead on DD254/facility clearance and WP-BST-006; coordinates directly with Jack Elston and BST leadership
-- **Sona Raziabeegum** — Krateo Sky technical lead; handles European certification, white papers; external-facing on compliance/regulatory matters
-- **Lisa Marie Cheney** — Krateo Sky operations/project support
-- **Brian Grubel** — Krateo Sky technical contributor; included on NOAA coordination threads
-- **Ellen McCarthy** — Krateo Sky operations/compliance
-- **Jasmine Khambatta** — Krateo Sky recruiting; hiring Sr. Firmware Engineer for BST
+### Krateo Sky Key Contacts (Deep Integration Confirmed)
+- **Bob Smith** — now providing formal compliance responses on export control matters; leading facility clearance coordination; appears to hold compliance/regulatory authority
+- **LisaMarie Cheney** — compliance/export control coordinating
+- **Ellen McCarthy** — compliance/export control coordinating
+- **Sona Raziabeegum** — compliance/export control responding
+- **Jasmine Khambatta** — active hiring pipeline management; threading with Cory on `cory@krateosky.com` email identity
+- **Dipan Amin** — PM support or project management (receiving SOCOM PM Discussion from Daniel Prendergast)
+- **Brian Grubel** — technical coordination on PM planning with Maciej Stachura
 
-### External Government/Defense Relationships
-- **NOAA Federal team:** Alan Goldstein, Brian Richards, Caitlin Wilson, Danielle Varwig, John Walker, Lisa Nakamura, Mark Rogers, Matthew Jaskoski, Nikolai Pawlenko, Director UxSOC — large stakeholder group; indicates mature relationship
-- **Lockheed Martin UK / US Navy / UK MOD (RAVEN Project):** Neil Morphett (LM), Dhruti Shah (LM), Simon Laurence (UK MOD), Ruiz-Reyes & Brescia (US Navy) — new defense/international track with Daniel Prendergast leading
-- **University of Colorado partners:** Brian Argrow, Eric Frew, Al Gasiewski — research collaboration for white papers (Soil Moisture)
-- **Vantor partnership:** Naresh Shah, Grant Boerhave — active follow-up on previous meeting; suggests B2B partnership discussions
+### Government/Defense Relationships (Expanded - RAVEN Project Primary)
+- **Simon Laurence** (UK MOD, simon.laurence157@mod.gov.uk) — project lead on RAVEN; directly coordinating site visit and kickoff timing with Maciej Stachura (BST); indicates UK MOD is primary customer/stakeholder
+- **Angel Ruiz-Reyes** (US Navy NAWCAD) — RAVEN project stakeholder; receives all RAVEN kickoff coordination
+- **Anthony Brescia** (US Navy NAWCAD) — RAVEN project stakeholder
+- **Neil Morphett** (Lockheed Martin UK) — RAVEN project partner; copied on all UK MOD/US Navy coordination
+- **Dhruti Shah** (Lockheed Martin UK) — RAVEN project partner
+- **Tom Simcox** (Bartington) — sensor vendor on RAVEN; receives formal MOD/Navy correspondence
+- **Alex Lomis** (BST internal, but visible on RAVEN threads) — new contact; appears to be BST lead on RAVEN technical or operational coordination
 
-### External Recruiting/Staffing
-- **Bina Menon** (FPC Troy) — firmware engineering recruiting; Cory actively reviewing candidates
-- **Hadley Solomon** (Creative Alignments) — GTM/Account Executive recruiting
+### Academic/Research Partners
+- **Al Gasiewski** (University of Colorado) — Soil Moisture White Paper research lead; coordinating with Jack Elston through multiple revision cycles
+- **Michael Hurowitz** (WeatherStream) — white paper partner; receiving drafts and providing feedback through 29 Oct
+
+### External Vendors
+- **Sam** (Lion Power Engineering) — battery system vendor; responding to BST inquiry/RFQ (external contact via info@blackswifttech.com)
 
 ## Notable Observations
 
-- **Dual role / Krateo Sky operational integration:** Cory maintains parallel email identities (BST and Krateo Sky) and is actively using the Krateo Sky account for recruiting, hiring discussions, and internal Krateo Sky coordination. This suggests Cory is embedded in Krateo Sky's operations or holds a dual title. Recruiting activity via `cory@krateosky.com` (Sr. Firmware Engineer hiring, candidate feedback to Jasmine Khambatta) indicates Krateo Sky is actively hiring to support BST contracts.
+- **Krateo Sky operational authority escalation:** Krateo Sky personnel (Bob Smith, LisaMarie Cheney, Ellen McCarthy, Sona Raziabeegum) are now providing formal compliance/export control responses on sensitive government matters, not just coordinating. This indicates Krateo Sky holds formal authority or joint responsibility for regulatory matters with BST. Bob Smith's response on Export Control & Licensing thread is addressed to Daniel Prendergast (BST compliance lead), suggesting Krateo Sky export control team is co-owner of compliance.
 
-- **NOAA relationship post-milestone:** WP-BST-006 NOAA review meeting on 28 Oct appears to have been successful; follow-up presentation and continued coordination with 12+ NOAA stakeholders suggests active government customer lifecycle management. Large NOAA attendee list (UxSOC, multiple Federal offices) indicates this is a significant program.
+- **RAVEN Project momentum:** Project has progressed from kickoff discussion to active multi-agency coordination (UK MOD leading, US Navy engaged, Lockheed Martin UK and Bartington as partners). Site visit logistics and formal kickoff scheduling are underway. Simon Laurence (UK MOD) is acting as primary coordinator, suggesting this may be a UK-led initiative with US Navy participation (potentially joint exercises or bilateral defense initiative).
 
-- **International defense expansion:** RAVEN Project (Lockheed Martin UK, US Navy, UK MOD) is a new track involving export controls, facility clearance, and multi-stakeholder coordination. Daniel Prendergast is point person; Cory receives coordination emails. Suggests BST is moving into international defense market (UK/US Navy collaboration).
+- **New SOCOM opportunity:** Daniel Prendergast escalating "SOCOM PM Discussion" to Dipan Amin (Krateo Sky) indicates a Special Operations Command contract or opportunity is emerging. Classified or sensitive; appears to be early-stage pipeline.
 
-- **Export controls gate item:** Multiple emails on "Export Control & Licensing Review" for Lockheed Martin UK and UK Royal Navy sales. DD254 & facility clearance is a recurring blocker across threads. Suggests compliance/export control is a critical path item for government and international sales.
+- **Facility Clearance as formal gate:** Formal calendar invitation for Nov 5 facility clearance meeting with defined attendees (Cory, Daniel Prendergast, Jack Elston, Bob Smith, Lisa Marie Cheney) confirms this is a scheduled, high-priority milestone. Likely prerequisite for government contracts (DoD facility security requirements).
 
-- **Hiring surge tied to government wins:** Surge in recruitment activity on 28 Oct (Sr. Firmware Engineer, Account Executive, firmware candidates) suggests hiring is being triggered by WP-BST-006 success and/or new RAVEN Project win. Cory appears to have hiring approval/review responsibility.
+- **White Paper commercialization track:** Soil Moisture White Paper moving through active revision cycles with academic partners (Al Gasiewski/CU) and commercial partners (Michael Hurowitz/WeatherStream); Jack Elston driving timeline. Suggests this is a go-to-market or proposal support document, possibly for NOAA or other government customer.
 
-- **Jack Elston as uber-coordinator:** Jack continues to be central hub, but now managing even larger stakeholder set (NOAA, Krateo Sky, Vantor, University partners, export controls). Cory is secondary coordinator/escalation point.
+- **S3 Product emerging:** Minimal data (only Google Drive share request), but Ethan Domagala initiating share with Cory suggests internal product development or proposal phase. May be new sensor package or UAS variant.
 
-- **Krateo Sky maturation:** Krateo Sky has evolved from support vendor (previous period) to full operational partner with dedicated personnel (Jasmine on recruiting, Sona on compliance, Bob on facility/security, Brian on technical delivery). Appears to be joint venture or deep subcontractor relationship with BST providing customer interface.
+- **Hiring pipeline sustained:** Despite operational intensity (RAVEN, export controls, facility clearance), Krateo Sky (Jasmine Khambatta) continuing to move Sr. Firmware Engineer hiring forward with Cory (candidate Marty Bruner). Indicates hiring is driven by project wins/revenue cycle.
 
-- **Recruitment outsourcing:** FPC Troy (Bina Menon) and Creative Alignments (Hadley Solomon) are actively sourcing candidates; Cory is reviewing/providing feedback, suggesting hiring is decentralized but coordinated.
+- **BST Website generating leads:** Contact form submission from external party (sam@lionpowerengineering.com) on battery systems; flagged as IMPORTANT. Suggests business development is actively monitoring inbound inquiries.
 
-- **Product portfolio expansion:** European S2 and SwarmSonde certification suggests product line expansion beyond S0 Carrier; Krateo Sky appears to lead on international regulatory/certification work.
+- **Cory's escalation role clarified:** Cory is receiving updates on most major initiatives (RAVEN, export controls, facility clearance, white papers, hiring) but is not primary driver on most. Role appears to be oversight/approvals (forwarding to Jack Elston "Re: Thank you - and a thought about what's next for you" suggests Cory has career/strategic conversations with Jack). Possible senior leadership position or governance role (COO, Director of Operations, VP Programs).
+
+- **Krateo Sky geographic footprint:** Krateo Sky personnel receiving email from Simon Laurence (UK MOD) and communications with UK/US Navy; suggests Krateo Sky may have UK operations or joint UK venture for defense work.
+
+- **Compliance workflow maturation:** Export control review thread now includes formal responses from Krateo Sky compliance team (Bob Smith, Ellen McCarthy, Sona Raziabeegum), indicating this is a structured, repeatable process for international sales (Lockheed Martin UK, UK Royal Navy).

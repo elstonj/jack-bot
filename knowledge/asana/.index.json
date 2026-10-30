@@ -14,17 +14,17 @@
     "window": "last 365 days"
   },
   "001-03_s0-ad_irad.md": {
-    "as_of": "2026-10-23",
-    "completed": 4,
+    "as_of": "2026-10-30",
+    "completed": 0,
     "name": "[001-03] S0-AD IRAD",
     "open": 180,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "completed": 0,
     "name": "[001-04] S0 VTOL IRAD",
-    "open": 39,
+    "open": 42,
     "window": "last 90 days"
   },
   "001-05_s1_irad.md": {
@@ -42,14 +42,14 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-10-29",
-    "completed": 13,
+    "as_of": "2026-10-30",
+    "completed": 12,
     "name": "[001-07] S3 IRAD",
     "open": 94,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-10-30",
     "completed": 0,
     "name": "[001-09] SwiftCore 4.0",
     "open": 231,
@@ -77,7 +77,7 @@
     "window": "last 365 days"
   },
   "001-12_customer_support.md": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-30",
     "completed": 1,
     "name": "[001-12] Customer Support",
     "open": 3,
@@ -91,11 +91,11 @@
     "window": "last 365 days"
   },
   "001-13_accounting.md": {
-    "as_of": "2026-10-23",
-    "completed": 260,
+    "as_of": "2026-10-30",
+    "completed": 49,
     "name": "[001-13] Accounting",
     "open": 15,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_bd_pipeline.md": {
     "as_of": "2026-10-24",
@@ -175,17 +175,17 @@
     "window": "last 365 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-10-23",
-    "completed": 26,
+    "as_of": "2026-10-30",
+    "completed": 6,
     "name": "[001-13] Proposals",
     "open": 82,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 209,
+    "open": 212,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -224,10 +224,10 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-10-30",
     "completed": 8,
     "name": "[001-22] Fleet Maintenance",
-    "open": 2,
+    "open": 4,
     "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
@@ -420,11 +420,11 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-10-23",
-    "completed": 34,
+    "as_of": "2026-10-30",
+    "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "400-5_sbir_-_smm_dod_224d_phase_ii.md": {
     "as_of": "2026-10-23",
@@ -483,11 +483,11 @@
     "window": "last 365 days"
   },
   "contacts.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-10-30",
     "completed": 0,
     "name": "Contacts",
     "open": 105,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "eventsconferencespr_opportunities.md": {
     "as_of": "2026-10-23",
@@ -504,7 +504,7 @@
     "window": "last 365 days"
   },
   "flight_testing.md": {
-    "as_of": "2026-10-24",
+    "as_of": "2026-10-30",
     "completed": 15,
     "name": "Flight Testing",
     "open": 10,
@@ -546,7 +546,7 @@
     "window": "last 365 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
     "open": 12,

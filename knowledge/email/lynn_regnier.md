@@ -1,89 +1,67 @@
 # Lynn Regnier — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 31 (21 from 27 Oct + 10 from 28-29 Oct)
-- **Date range:** Tue, 27 Oct 2026 – Thu, 29 Oct 2026 (3 days, 08:43 UTC – 03:47 UTC)
-- **Approximate volume:** ~10–11 messages/day; sustained activity across multiple days with concentrated bursts around operational/partnership milestones
+- **Total messages scanned:** 37 (31 from 27–29 Oct + 6 from 29 Oct)
+- **Date range:** Tue, 27 Oct 2026 – Thu, 29 Oct 2026 (3 days, 08:43 UTC – 20:47 UTC)
+- **Approximate volume:** ~12 messages/day; sustained activity with concentrated bursts around Accordion IP adjustment and Krateo Sky integration milestones
 
 ## Key Correspondents
 
 ### Inbound (Human)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Internal; continues as primary operations/finance contact; now visible in large Krateo Sky integration email
-- **Nicholas Grande** (ngrande@accordion.com) — External (Accordion); **elevated frequency**; now engaged in "Month close discussion" and IP Adjustment threads (marked IMPORTANT, duplicate sends)
-- **Sona Raziabeegum** (sona@krateosky.com) — External (Krateo Sky); **major escalation**: now leading "Black Swift Weekly Integration Review" with 24-person distribution list (Krateo Sky + multiple BST executives); marked IMPORTANT
-- **Jack Elston** (elstonj@blackswifttech.com) — Internal BST; **new contact**; scheduled meeting Thu 29 Oct 9:30–10am MDT (marked IMPORTANT)
-- **Amit Sinha** (asinha@accordion.com) — External (Accordion); continues in IP Adjustment thread
-- **Courtney Lee** (courtneylee@kpmg.com) — External (KPMG); finance/audit contact; "Cash to Accrual 6/30/2026" discussion (marked IMPORTANT)
-
-### Inbound (Automated)
-- **Slack notifications** (notification@slack.com) — Continues
-- **Google Drive shares** — Pattern continues from 27 Oct
-
-### Outbound
-- **Nicholas Grande & Amit Sinha** — Direct replies to "Month close discussion" (28 Oct 11:50, 12:35)
-- **Personal email forward** (lynnregnier@gmail.com → lynn.regnier@blackswifttech.com) — "Week of Oct 26th BST <> KS Integration Slides" forwarded to work account (marked IMPORTANT)
+- **Nicholas Grande** (ngrande@accordion.com) — External (Accordion); **further escalation**: now leading direct meeting on "Accordion x Lynn & IP Adj." with 4-person group (Grande, Lynn, Sona Raziabeegum, Amit Sinha); folder sharing (Google Drive "00 - Provided to Client") indicates document collaboration; triple sends on same subject (16:42:39, 16:42:51, 20:47:55 UTC) suggest urgency or system resends
+- **Sona Raziabeegum** (sona@krateosky.com) — External (Krateo Sky); **strategic bridge role confirmed**: now included in Accordion IP Adjustment meeting thread; positioning her as cross-organizational coordinator between Accordion and BST
+- **Amit Sinha** (asinha@accordion.com) — External (Accordion); continues in IP Adjustment meeting thread
+- **Fireflies.ai automation** (fred@fireflies.ai) — Meeting recording service; meeting "Accordion x Lynn & IP Adj." recorded and transcribed (18:11:05 UTC); indicates formal documentation/audit trail
+- **Krateo Sky contact** (contact@krateosky.com) — Automated meeting summary from Krateo Sky system; "Meeting summary: Accordion x Lynn & IP Adj." sent at 20:01:20 UTC
 
 ### Internal vs External
-- **Internal escalation:** Jack Elston (new), Meredith Needham (continued), now visible in large Krateo Sky integration review with Cory Dixon, Joshua Fromm, Daniel Prendergast, Beck Cotter, and others
-- **External focus maintained:** Accordion (Nicholas Grande, Amit Sinha) intensifying on month close and IP adjustment; Krateo Sky (Sona Raziabeegum) now orchestrating weekly integration review
-- **Audit/Finance vendor:** KPMG (Courtney Lee) engaged on cash-to-accrual accounting topic
+- **Internal minimal:** No new internal recipients in this batch; prior contacts (Meredith Needham, Jack Elston, executives) not visible
+- **External focus intensifying:** Accordion-Krateo Sky-BST three-way coordination now visible in single meeting thread
+- **External organizations:** Accordion (Nicholas Grande, Amit Sinha) leading; Krateo Sky (Sona Raziabeegum, automated contact system) participating/documenting
 
 ## Topic Patterns
 
 ### Primary Themes
-1. **Accordion Month Close & IP Adjustment** — "Month close discussion" (direct engagement with Nicholas Grande & Amit Sinha); "[Placeholder] Accordion x Lynn & IP Adj." (duplicate sends, marked IMPORTANT)
-2. **Krateo Sky / Black Swift Integration** — "Black Swift Weekly Integration Review, notes and actions from 28 October" (24-person strategic call; marked IMPORTANT); "Week of Oct 26th BST <> KS Integration Slides" (forwarded from personal email)
-3. **Accounting/Financial Close** — "Cash to Accrual 6/30/2026" (KPMG coordination); month-end discussions with Accordion
-4. **Payroll/Operations** — Continued from 27 Oct (payroll, reclass, SOPs)
-5. **Acquisition/M&A Related** — Continued visibility of Black Swift acquisition documents and client structures
+1. **Accordion IP Adjustment Meeting** — "Accordion x Lynn & IP Adj." (triple email sends on 29 Oct 16:42–20:47); recorded by Fireflies.ai; meeting summary from Krateo Sky system; marked IMPORTANT (all instances)
+2. **Document Sharing / Collaboration** — Google Drive folder "00 - Provided to Client" shared by Nicholas Grande (20:33:43 UTC); suggests client deliverable or documentation handoff
+3. **Cross-organizational Coordination** — Sona Raziabeegum (Krateo Sky) included in Accordion-BST IP Adjustment meeting; indicates strategic integration between both external partners
 
 ### Key Organizations/Clients
-- **Accordion** — Elevated: now in direct month-close and IP adjustment discussions
-- **Krateo Sky** — **Major escalation**: now hosting weekly integration reviews with 24 participants; strategic partnership/integration active
-- **KPMG** — Audit/accounting firm engaged in cash-to-accrual conversion topic
-- **Black Swift Technologies** — Integration work with Krateo Sky; internal operations/executive involvement
+- **Accordion** — Maintains elevated status; now hosting/leading recorded meeting with Krateo Sky bridge participant; IP adjustment appears to be discrete discussion/negotiation
+- **Krateo Sky** — Continues strategic role; Sona Raziabeegum now participant in Accordion meeting (not just BST integration lead); system also provides automated meeting summary
+- **Fireflies.ai** — Meeting recording/transcription service actively documenting Accordion IP Adjustment meeting
 
 ## Communication Patterns
 
 ### Temporal
-- **Morning activity (27 Oct):** 08:43–12:35 UTC (operational forwards, SOP shares)
-- **Afternoon surge (28 Oct):** 15:18–20:31 UTC (Krateo Sky integration review sent, Accordion IP Adjustment emails, KPMG cash-to-accrual discussion)
-- **Evening/overnight (28-29 Oct):** Meeting acceptance from Jack Elston (03:47 UTC 29 Oct); suggests off-hours/timezone-spanning coordination
-- **All three days show sustained engagement** (not isolated to single day as previously thought)
+- **Afternoon burst (29 Oct):** 16:42–16:42:51 UTC (triple Accordion send within 12 seconds, then gap)
+- **Late afternoon continuation:** 18:11 UTC (Fireflies.ai recording notification)
+- **Evening escalation:** 20:01–20:47 UTC (Krateo Sky meeting summary + Nicholas Grande follow-up reply)
+- **Pattern:** Suggests real-time meeting (likely scheduled 16:42 UTC) with post-meeting summary and follow-up actions sent ~3.5 hours later
 
 ### Format Breakdown
-- **Direct emails:** ~7
-- **Email replies/forwards:** 3
-- **Calendar/meeting acceptances:** 1
-- **Google Drive/Slack notifications:** Ongoing background
+- **Direct emails (Accordion lead):** 3 instances of same subject (likely one meeting invite + 2 resends/duplicates)
+- **Folder shares:** 1 (Google Drive)
+- **Automated notifications:** 2 (Fireflies.ai recording, Krateo Sky meeting summary)
+- **Meeting replies:** 1 (20:47:55 UTC from Nicholas Grande marked as RE:)
 
 ### Mailing List / Group Activity
-- **Krateo Sky + BST Integration Call:** 24-person distribution list led by Sona Raziabeegum; includes Jack Elston, Joshua Fromm, Daniel Prendergast, Beck Cotter, Meredith Needham from BST; extensive Krateo Sky team
-- **Accordion three-way:** Lynn, Nicholas Grande, Amit Sinha, Sona Raziabeegum
-- **Personal-to-work email forward:** Lynn using personal Gmail to forward integration slides to work account
+- **Accordion IP Adjustment Meeting:** 4-person group (Nicholas Grande, Lynn Regnier, Sona Raziabeegum, Amit Sinha)
+- **Automated documentation:** Fireflies.ai transcription and Krateo Sky meeting summary system both capturing same meeting
 
 ## Key Relationships
 
-### Internal
-- **Meredith Needham** — Continues as primary operations/finance contact; now visible in strategic Krateo Sky integration review
-- **Jack Elston** — **New strategic contact** (or newly visible); scheduled meeting with Lynn marked IMPORTANT; likely operations or integration lead
-- **Joshua Fromm, Daniel Prendergast, Beck Cotter** — Visible in Krateo Sky integration review; likely executive/senior technical roles
-- **Cory Dixon** — Continues minimal contact; visible in Krateo Sky email thread
-
 ### External
-- **Nicholas Grande** (Accordion) — **Escalated engagement**: now in direct month-close and IP adjustment discussions; appears to be deal/operational lead
-- **Amit Sinha** (Accordion) — Continues in IP Adjustment thread
-- **Sona Raziabeegum** (Krateo Sky) — **Major escalation**: now orchestrating 24-person weekly integration review; clear leadership/coordination role; acts as bridge between Krateo Sky and BST
-- **Courtney Lee** (KPMG) — Audit/accounting professional; cash-to-accrual conversion topic engagement
+- **Nicholas Grande** (Accordion) — **Direct escalation**: now orchestrating recorded meeting including cross-organizational participant (Krateo Sky); folder sharing indicates operational/documentation responsibility
+- **Sona Raziabeegum** (Krateo Sky) — **Dual role emerging**: continues as Krateo Sky integration lead for BST, now also participant in Accordion IP Adjustment meeting; acts as bridge between Accordion and BST operations
+- **Amit Sinha** (Accordion) — Continues as supporting participant in IP Adjustment meeting
 
 ## Notable Observations
 
-1. **Krateo Sky integration is major strategic initiative:** Weekly review with 24 participants (28 Oct), multiple BST executives involved, marked IMPORTANT; suggests significant partnership or acquisition-related work
-2. **Accordion IP/month-close work intensifying:** Direct engagement with Nicholas Grande on operational/accounting matters; duplicate emails on same topic suggest urgency
-3. **Jack Elston meeting suggests operational handoff or alignment:** Scheduled meeting with new internal contact marked IMPORTANT on 29 Oct; timing coincides with Krateo Sky integration escalation
-4. **Lynn forwarding integration slides from personal email to work account:** Suggests either mobile/urgent distribution or document sensitivity
-5. **KPMG cash-to-accrual work suggests financial restructuring:** Coordination on 6/30/2026 conversion; may be related to Krateo Sky integration or acquisition accounting
-6. **Sona Raziabeegum's role elevated:** Now leading large strategic meeting rather than acting as connector; suggests her role encompasses broader integration oversight
-7. **Duplicate Accordion email (two identical IP Adjustment messages at 19:31:02 and 19:31:42):** Possible resend or system issue; content appears identical
-8. **Timezone spanning visible:** Mix of MDT (-0600) and UTC timestamps; coordination across US Mountain and UTC zones
-9. **Three-day pattern suggests accelerating deal/integration activity:** Volume and participant count increasing from 27 Oct → 28 Oct → 29 Oct
+1. **Accordion IP Adjustment meeting is formally recorded and documented:** Fireflies.ai recording + Krateo Sky system-generated summary; indicates high governance/audit requirements or deal significance
+2. **Sona Raziabeegum's broker role elevated further:** Now participating in Accordion meeting (not just coordinating Krateo Sky-BST integration); suggests she holds operational authority across multiple partnership workstreams
+3. **Triple email send from Nicholas Grande (16:42:39 + 16:42:51 + 20:47:55 UTC):** First two identical sends within 12 seconds (likely system duplicate or urgent resend); third send is a reply; suggests either technical issue or intentional re-emphasis
+4. **Google Drive folder "00 - Provided to Client" shared immediately after meeting:** Timing (20:33 UTC) suggests document prep/handoff as direct follow-up to meeting; folder name pattern ("00 -") suggests formal document management structure
+5. **Krateo Sky meeting summary system actively monitoring Accordion discussions:** Automated contact@krateosky.com sending meeting summary indicates Krateo Sky infrastructure/systems may be hosting or documenting cross-partner meetings; unusual level of system integration
+6. **Timeline compression:** All activity (meeting + recording + summary + folder share) concentrated within 4.5 hours (16:42–20:47 UTC); indicates rapid decision/execution cycle on IP Adjustment topic
+7. **No internal BST visibility in this batch:** Suggests either scheduled internal debrief later, or Accordion/Krateo Sky meeting occurred without real-time BST executive participation (though Jack Elston/Meredith Needham may receive summary separately)

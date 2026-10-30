@@ -65,10 +65,10 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "QBO Invoice #1730 issued 2026-01-08 for $2,462.50 (balance unpaid $2,462.50). Build completed Aug-Sep 2026; units shipped 2026-09-14 via UPS with pickup confirmation 297D966EACA. Customer initiated RMA 2026-09-10 for sensor/configuration troubleshooting; BST flight team actively investigating issue as of 2026-10-22. Beck Cotter confirmed troubleshooting in progress with flight testing planned over coming weeks. KEPT: QBO Invoice #1730 matches this task's S0 VTOL product line; substantive recent email/Slack engagement (most recent 2026-10-22).",
+  "notes": "QBO Invoice #1730 issued 2026-01-08 for $2,462.50 (balance unpaid). Build completed Aug-Sep 2026; 4 units shipped 2026-09-14 via UPS with tracking 1ZY1791K0320443394 (Sphere) / 1ZY1791K0303482133 (UA box), pickup confirmation 297D966EACA. Customer initiated RMA 2026-09-10 for E2 sensor/configuration troubleshooting; BST flight team actively investigating. Beck Cotter confirmed ongoing flight testing to reproduce issue as of 2026-10-22. KEPT: QBO Invoice #1730 matches this S0 VTOL product line; substantive recent email engagement through 2026-10-22.",
   "missing_fields": [
     "receive_by"
   ],
-  "last_evidence_date": "2026-10-22",
+  "last_evidence_date": "2026-10-29",
   "last_contact_date": "2026-10-22"
 }

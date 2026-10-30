@@ -1,80 +1,48 @@
 # BST Project Financial Overview
 
-## Data Quality Assessment
+## Summary Status
+**⚠️ CRITICAL ORGANIZATION ISSUE**
 
-**⚠️ CRITICAL LIMITATION:** The provided budget data is incomplete and fragmented. The submission indicates:
-- **1,181 budget documents** exist across Black Swift Technologies projects
-- **No consistent project codes detected** across documents
-- Data appears truncated mid-document
-- Only partial information on 1 commercial project (MiniCam) provided
+The provided budget data contains **1,181 budget documents** from Black Swift Technologies but presents a significant organizational challenge:
 
-This overview reflects available information only. A complete financial review requires:
-1. Access to full project documentation
-2. QuickBooks export data
-3. Consistent project coding structure
+- **No consistent project codes detected** across the document collection
+- **Single project partially referenced:** NASA AREN (Aeropods Commercial) - Project [200]
+- **Data incomplete:** MiniCam unit cost breakdown table is truncated
+- **Portfolio scope:** Documents span NASA, NOAA, DoD, and other federal agencies
+- **Project status mix:** Active, Proposals, and Completed/Inactive initiatives
 
 ---
 
-## Identified Project(s)
+## Identifiable Project Information
 
-### **MiniCam Project (NASA AREN - Aeropods Commercial)**
-
-| Data Point | Value |
-|-----------|-------|
-| **Client/Agency** | NASA |
-| **Program** | AREN (Aeropods Commercial) |
-| **Project Type** | Commercial Product Development |
-| **Status** | Preliminary/Active |
-| **Document Type** | Cost Analysis (February 2026) |
-| **Last Updated** | 2026-03-04 |
-| **Budget Details** | *Unit cost breakdown initiated - data incomplete* |
+### Project [200]: NASA AREN (Aeropods Commercial)
+| Field | Information |
+|-------|------------|
+| **Client** | NASA |
+| **Project Type** | Commercial product line (MiniCam) |
+| **Status** | Preliminary/Commercial costing phase |
+| **Latest Document** | BST MiniCam Preliminary Cost Analysis (February 2026) |
+| **Last Modified** | 2026-03-04 |
+| **Budget Data Available** | Partial (unit cost breakdown referenced but incomplete) |
 
 ---
 
-## By Funding Source
-- **NASA:** 1 identified project (MiniCam - commercial)
-- **NOAA:** Referenced but no projects detailed
-- **DoD:** Referenced but no projects detailed
-- **Other Federal Agencies:** Referenced but no projects detailed
+## Critical Gaps Requiring Resolution
+
+1. **Missing Project Codes** - Cannot properly categorize 1,180+ remaining documents
+2. **Incomplete Data** - MiniCam cost table and other budget details not fully provided
+3. **Funding Source Clarity** - Portfolio spans multiple agencies but project-level attribution unclear
+4. **Contract Type Unknown** - Cannot determine SBIR Phase I/II, IRAD, or commercial status for most projects
 
 ---
 
-## By Contract Type
-| Type | Count | Notes |
-|------|-------|-------|
-| Commercial | 1 | MiniCam (preliminary) |
-| SBIR Phase I | — | Referenced but not detailed |
-| SBIR Phase II | — | Referenced but not detailed |
-| IRAD | — | Referenced but not detailed |
+## Recommended Next Steps
 
----
+**To complete a comprehensive financial overview, provide:**
+- Complete document list with project code mappings
+- Full MiniCam cost breakdown data
+- Budget totals and contract values for active projects
+- QuickBooks project reconciliation data
+- Financial status indicators (spend, remaining funds, milestone dates)
 
-## Financial Health Indicators
-
-| Indicator | Status | Notes |
-|-----------|--------|-------|
-| Budget Concerns | **Unknown** | No spend/budget variance data provided |
-| Funding Runway | **Unknown** | No project timelines or end dates provided |
-| Invoice Pipeline | **Unknown** | No milestone or payment schedule data available |
-| Total Portfolio Value | **Unknown** | 1,181 documents suggest significant portfolio, but values not accessible |
-
----
-
-## QuickBooks Integration Status
-
-| Data Source | Status |
-|-------------|--------|
-| **QuickBooks** | No integration data provided |
-| **Google Drive** | Primary data source (partially accessible) |
-| **Cross-Reference** | Unable to match projects to accounting system |
-
----
-
-## Recommendations
-
-To complete this financial overview, provide:
-1. **Complete MiniCam unit cost breakdown** (costs truncated in source data)
-2. **Project master list** with standardized codes
-3. **QuickBooks budget comparison** (actual vs. planned spend)
-4. **Active project roster** with contract values and end dates
-5. **Milestone/invoice schedule** for upcoming FY
+**Current status: Preliminary scan only — awaiting complete project portfolio data.**

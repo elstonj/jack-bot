@@ -5,15 +5,15 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-10-29",
-    "end": "2026-10-29"
+    "start": "2024-10-30",
+    "end": "2026-10-30"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 393680.39,
+    "expenses": 403224.02,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 257049.61,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 92146.59,
+      "DIRECT COSTS:DC-Direct Material Purchases": 257093.24,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 101646.59,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7059.52,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
@@ -360,6 +360,29 @@
           "amount": 400.0,
           "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
           "description": "Stencil + Set Up"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-01",
+      "doc_number": "3962",
+      "total": 9543.63,
+      "attributed": 9543.63,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 9500.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Various Projects Labor (76hrs)"
+        },
+        {
+          "amount": 43.63,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Parts: Digikey"
         }
       ]
     },

@@ -1,0 +1,37 @@
+{
+  "asana_gid": "1218387458616579",
+  "asana_task_name": "USSOCOM Pope 2",
+  "customer": "USSOCOM",
+  "customer_contact": "Terry Brandon - contracting officer",
+  "customer_email": "brandon.m.terry.mil@socom.mil",
+  "receive_by": null,
+  "ship_to": null,
+  "items": [],
+  "payment_state": "estimate_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "USSOCOM S0 quote sent; lead response is 'Ready for purchase' with estimated/quoted value $948,993. Last contact 2026-09-11.",
+  "missing_fields": [
+    "receive_by",
+    "ship_to",
+    "items",
+    "invoice_number",
+    "invoice_amount"
+  ],
+  "last_evidence_date": "2026-09-11",
+  "last_contact_date": "2026-09-15"
+}

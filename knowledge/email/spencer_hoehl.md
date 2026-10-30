@@ -1,6 +1,5 @@
 # Spencer Hoehl — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 1 emails found in scanned period.
 
-- Wed, 28 Oct 2026 23:20:44 +0000 (UTC): (no subject) (from: Toggl Track <support@track.toggl.com>)
-- Wed, 28 Oct 2026 21:43:20 +0000 (UTC): You're invited to join Black Swift Technologies on Claude (from: Anthropic <no-reply-oaufQlShLZ3NlXuiLHCKQg@mail.anthropic.com>)
+- Thu, 29 Oct 2026 16:07:55 +0000: 📥 Ethan assigned you a milestone: 50 transition flights [[001-04] S0 VTOL IRAD] (from: Ethan Domagala via Asana <no-reply@asana.com>)

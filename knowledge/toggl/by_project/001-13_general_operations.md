@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-10-29: 7206.8 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1603.9 h, Beck Cotter 915.0 h, Stachura 401.4 h, Dan 396.2 h, Nate 122.0 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 14.7 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
+_Computed from Toggl as of 2026-10-30: 7224.6 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1620.4 h, Beck Cotter 915.0 h, Stachura 402.7 h, Dan 396.2 h, Nate 122.0 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 14.7 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
 
 # [001-13] General Operations — Time Tracking
 
@@ -6,16 +6,16 @@ _Computed from Toggl as of 2026-10-29: 7206.8 h total since 2020-01-01 — Mered
 - **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 7,206.8 hours (since 2020-01-01)
+- **Total hours tracked:** 7,224.6 hours (since 2020-01-01)
 
 ## Team Allocation
 
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Meredith Needham | 3,603.0 | 50.0% |
-| Jack Elston | 1,603.9 | 22.2% |
+| Meredith Needham | 3,603.0 | 49.9% |
+| Jack Elston | 1,620.4 | 22.4% |
 | Beck Cotter | 915.0 | 12.7% |
-| Stachura | 401.4 | 5.6% |
+| Stachura | 402.7 | 5.6% |
 | Dan | 396.2 | 5.5% |
 | Nate | 122.0 | 1.7% |
 | Ethan Domagala | 57.9 | 0.8% |
@@ -29,28 +29,35 @@ _Computed from Toggl as of 2026-10-29: 7206.8 h total since 2020-01-01 — Mered
 | Kareem Ahmed | 3.0 | <0.1% |
 | Tiffany Elston | 2.5 | <0.1% |
 
-**Primary Contributors:** Meredith Needham (operations/admin) and Jack Elston (email management, meetings)
+**Primary contributors:** Meredith Needham (Operations/Admin lead) and Jack Elston (email/communications and meetings)
 
 ## Activity Timeline
 
-### Work Categories (from recent entries)
-- **Operations/Admin** — Meredith Needham's primary activity (daily 6–9h blocks)
-- **Answering Emails** — Jack Elston's dominant task (1–4.5h entries, frequency: multiple entries per week)
-- **Undescribed work** — Beck Cotter, Stachura, Dan (8h blocks, mostly unlabeled)
-- **Meeting/Coordination** — Integration reviews, internal updates, management syncs, team meetings
-- **Client work** — NOAA (Beck Cotter, occasional 7.5–8h entries)
+### Recent Work Patterns
+- **Meredith Needham:** Consistent 6–9 hour daily blocks labeled "Operations/Admin," indicating core administrative responsibilities
+- **Jack Elston:** Frequent "Answering Emails" entries (1–4.5h blocks), plus recurring meetings:
+  - Black Swift Weekly Integration Review
+  - BST Internal Update Meeting
+  - Critical Component Tiger Team (C2T2) Bi-Weekly Meeting
+  - KS (Kansas) related discussions and stakeholder meetings
+  - Management Sync
+- **Beck Cotter:** Regular 7–8 hour blocks (many undescribed); recent entries include NOAA work
+- **Stachura & Dan:** Sporadic entries, mostly undescribed; Dan shows occasional larger blocks (7–8h)
+- **Spencer Hoehl, Ethan Domagala:** Minimal recent activity; Ethan attended one weekly meeting
 
-### Recent Pattern
-Recent entries show consistent, recurring activity:
-- Meredith: Daily Operations/Admin work (typically 6–9 hours/day)
-- Jack: Daily email management mixed with recurring meetings (Black Swift Weekly Integration Review, BST Internal Update Meeting, Management Sync)
-- Beck: Consistent 7.5–8 hour blocks, some labeled NOAA
-- Stachura, Dan: Variable undocumented entries
+### Work Types Identified
+- Operations/Admin management
+- Email communication and response
+- Internal meetings and sync-ups
+- Client/stakeholder engagement (KS discussions)
+- Project-specific work (NOAA)
+- Tiger team/critical component reviews
 
 ## Insights
 
-- **Operational Backbone:** Meredith represents 50% of all time on this project—this is the company's primary operations/administrative overhead tracker
-- **Communication Heavy:** Jack Elston spends ~22% of tracked time on email and meetings, suggesting he holds a coordination/leadership role
-- **Documentation Gap:** ~40% of recent entries lack descriptions (Stachura, Dan, Beck undescribed work), limiting visibility into specific activities
-- **Consistent Utilization:** Project shows steady, daily engagement from core team (Meredith, Jack, Beck) with little variation
-- **Non-billable:** As overhead, this captures internal operational costs rather than client-billable work
+- **Concentration of effort:** ~72% of all hours logged by just two people (Meredith and Jack), indicating centralized operations management
+- **Role clarity:** Meredith handles day-to-day administrative work; Jack manages communications and cross-functional coordination
+- **Secondary tier:** Beck Cotter consistently contributes full-day blocks; purpose unclear due to limited descriptions
+- **Documentation gaps:** ~43% of recent entries lack descriptions, limiting visibility into actual work performed by Stachura, Dan, Beck, and others
+- **Overhead classification appropriate:** Non-billable internal operations with heavy emphasis on admin and coordination functions
+- **Scalability risk:** Heavy reliance on two individuals for operations may represent a bottleneck for growth

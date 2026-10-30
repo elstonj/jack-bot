@@ -1,58 +1,76 @@
-_Asana snapshot as of 2026-10-28: 2 open tasks, 8 completed (last 90 days)._
+_Asana snapshot as of 2026-10-30: 4 open tasks, 8 completed (last 90 days)._
 
 # [001-22] Fleet Maintenance
 
 ## Overview
 - **Owner:** Dan Prendergast
-- **Purpose:** Track required maintenance actions for Black Swift Technologies aircraft fleet
-- **Status:** Active
+- **Purpose:** Track required maintenance actions across BST aircraft fleet
+- **Fleet Aircraft:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001 (plus operational aircraft S10021, S10019, FW0001, and ERAU E2)
+- **Status:** Active — ongoing maintenance operations
 - **Team Members:** Spencer Hoehl, Jack Elston, Josh Fromm, Ethan (and others)
-- **Risk Signals:** 2 open tasks with no due dates; at least one grounded aircraft (S10021 recently completed major work)
+- **View Format:** List view organized by tail number
 
-## Key Deliverables & Milestones
-The project is organized by aircraft tail number:
-- E20006, E20009, E20014
-- S10022, S10005, S20009, S20004, S30001
-- Also tracking: S10019, S10021, FW0001, ByLight Mustang, ERAU E2
+## Key Metrics
+- **Open Tasks:** 4
+- **Completed Tasks:** 8
+- **Recent Completion Rate:** High (8 recent completions across maintenance types)
 
-No dollar amounts or formal milestone dates recorded in task data.
+## Open Maintenance Tasks
 
-## Task Summary
-- **Total Tasks:** 2 open, 8 completed
-- **By Assignee:**
-  - Spencer Hoehl: 3 tasks (2 completed, 1 open)
-  - Jack Elston: 1 task (1 completed)
-  - Josh Fromm: 1 task (1 completed)
-  - Ethan: 1 task (1 completed, 1 open)
-  - Unassigned: 3 tasks (2 completed, 1 open)
+| Aircraft | Task | Assignee | Issue | Aircraft Status | QC Required | Due Date |
+|----------|------|----------|-------|-----------------|-------------|----------|
+| S10020 | Repairing S1-VTOL | Spencer Hoehl | Repair S1-VTOL 2040 with new AP and PSNS; replace MHP | Down (Grounded) | Yes | None |
+| S10022 | S1-22 Door hinge | Spencer Hoehl | Fix side door hinge latch | Up (Operational) | No | None |
+| S10005 | S1-5 Pitot tube loose tip | Spencer Hoehl | Glue down pitot tube tip | Up (Operational) | No | None |
+| S10019 | Trims | Unassigned (Ethan) | Reset trim surfaces for current center points in manual | Up (Operational) | No | None |
 
-- **Completion Rate:** 80% (8 of 10 tasks closed)
-- **Notable Patterns:** 
-  - Heavy use of custom fields: Work Type, Aircraft Status, QC Required, Maintenance Type, Priority, Hardware/Software classification
-  - Recent completed work heavily focused on S10021 (autopilot fix, calibration, cruise speed update)
-  - Mix of grounded (Down) and operational (Up) aircraft
-  - QC requirements tracked for critical repairs
+**Risk Signals:**
+- **No due dates set** — open tasks lack deadline visibility
+- **One grounded aircraft (S10020)** requiring QC — S1-VTOL repair is a high-priority blocker
+- **Unassigned task (Trims)** — S10019 trim work needs formal assignment despite Ethan noted in custom field
 
-## Recent Activity
-- **Oct 27, 2026:** Two S10021 tasks completed (cruise speed update, mag recalibration)
-- **Oct 23, 2026:** Fix AP on S10021 completed (Jack Elston) — 5-month timeline (due May 18, 2026)
-- **Oct 16, 2026:** FW0001 RSSI issue resolved (Spencer Hoehl)
-- **Oct 13, 2026:** S10021 Pitot tube AOG repair completed (Spencer Hoehl)
-- **Oct 8, 2026:** Mechanical trim reset completed (ByLight Mustang, Ethan)
-- **Oct 6–5, 2026:** ERAU E2 locking collar and prop replacement completed
+## Recently Completed Maintenance (October 2026)
 
-## Open Tasks (Require Attention)
-1. **Repairing S10020** — Spencer Hoehl | Aircraft Down (Grounded) | QC Required: Yes
-   - S1-VTOL 2040 autopilot and PSNS replacement; MHP swap needed
-   - No due date assigned
-   
-2. **Trims** — Unassigned (Ethan noted as team member) | Aircraft Up (Operational) | QC Required: No
-   - S1-19 trim surface reset needed after manual correction
-   - No due date assigned; appears to be lower priority work
+| Aircraft | Task | Assignee | Completed | Issue |
+|----------|------|----------|-----------|-------|
+| S10021 | Update cruise speed to 16 m/s | Unassigned | 2026-10-27 | Configuration update |
+| S10021 | Recalibrate mags | Unassigned | 2026-10-27 | Calibration maintenance |
+| S10021 | Fix AP on S10021 | Jack Elston | 2026-10-23 | Autopilot boot failure after swap (overdue from 2026-05-18) |
+| FW0001 | Low RSSI issue | Spencer Hoehl | 2026-10-16 | Cabling inspection |
+| S10021 | Pitot tube not holding Airspeed | Spencer Hoehl | 2026-10-13 | AOG (Aircraft on Ground) priority — resolved |
+| ByLight Mustang | Mechanical Trim resetting | Unassigned (Ethan) | 2026-10-08 | Manual trim pitch control |
+| ERAU E2 | Locking collar fix | Josh Fromm | 2026-10-06 | Arm mechanism loose collar (was grounded) |
+| ERAU E2 | Prop replacement | Spencer Hoehl | 2026-10-05 | Hardware replacement |
+
+## Task Summary by Assignee
+
+| Assignee | Open | Completed | Notes |
+|----------|------|-----------|-------|
+| Spencer Hoehl | 3 | 4 | Primary maintenance technician; most active |
+| Jack Elston | 0 | 1 | Autopilot specialist; one task (overdue completion) |
+| Josh Fromm | 0 | 1 | Structural/mechanism repairs |
+| Ethan | 0 | 2 | Trim and configuration work |
+| Unassigned | 1 | 1 | Trims task needs formal assignment |
+
+## Custom Fields in Use
+
+- **Work Type:** Fix / New Feature
+- **Aircraft Status:** Up (Operational) / Down (Grounded)
+- **QC Required:** Yes / No
+- **Maintenance Type:** Unscheduled Repair, Modification
+- **Priority:** Medium, AOG (Aircraft on Ground)
+- **Hardware or Software:** Hardware / Software
+- **Parts Status:** Available
+- **Affected Aircraft:** Tail number tracking
 
 ## Notes & Context
-- **Maintenance Type Field:** Tasks are classified as Fix, New Feature, Unscheduled Repair, or Modification
-- **Priority Levels:** Medium, AOG (Aircraft on Ground) — AOG tasks historically prioritized (completed Oct 13)
-- **Custom Fields in Use:** Work Type, Aircraft Status, QC Required, Maintenance Type, Priority, Parts Status, Hardware/Software, Affected Aircraft, Team Members
-- **Data Quality:** Most tasks lack formal due dates; completion dates indicate work is being tracked post-execution
-- **Fleet Status:** Recent activity suggests S10021 was grounded with multiple systems issues (AP, pitot, calibration) — all reportedly resolved by late October 2026
+
+1. **No due dates on open tasks** — The project tracks maintenance but lacks deadline discipline. Consider setting target completion dates for prioritization, especially the grounded S10020.
+
+2. **S10021 activity pattern** — Heavy recent activity on S10021 (4 tasks in October), suggesting either recent inspection/turnaround or recurring issues (AP swap, pitot tube, magneto recalibration). Monitor for systemic problems.
+
+3. **Spencer Hoehl workload** — Carries 3 of 4 open tasks plus 4 recent completions. Capacity risk if new maintenance demands arise.
+
+4. **Grounded aircraft (S10020)** — S1-VTOL repair requiring QC is the highest operational priority blocking that tail number.
+
+5. **External aircraft tracking** — Project includes non-standard fleet aircraft (ERAU E2, FW0001, ByLight Mustang) beyond the declared 8-aircraft fleet, suggesting dynamic maintenance scope or partnerships.

@@ -1,127 +1,89 @@
-_Asana snapshot as of 2026-10-27: 231 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-10-30: 231 open tasks, 0 completed (last 90 days)._
 
 # [001-09] SwiftCore 4.0
 
 ## Overview
 
-**Internal Development Project** — Future development of the autopilot, ground station, and tablet code for Black Swift Technologies.
-
+- **Client/Customer:** Internal BST development (whole team)
+- **Project Type:** Future development platform for autopilot, ground station (GCS), and tablet software
 - **Owner:** Jack Elston
-- **Team:** Whole BST team (Jack Elston, Maciej Stachura, Ben Busby primary contributors)
-- **Status:** ACTIVE — Low priority backlog with no scheduled milestones or due dates
-- **Dollar Value:** Not specified
-- **Timeline:** Ongoing; no start or end dates defined
+- **Status:** ACTIVE – Long-term roadmap with 231 open tasks, 0 completed
+- **Priority:** Low (custom field)
+- **Team:** Whole BST team (Jack Elston, Maciej Stachura, Ben Busby primary assignees)
+- **Timeline:** Initiated 2015-01-19; no target completion date
+- **Risk Signals:** 
+  - No due dates on any tasks (milestone or subtask level)
+  - No completion tracking — all 231 tasks remain open
+  - Large backlog suggests deprioritization or long-term foundational work
 
 ## Key Deliverables & Milestones
 
-All major milestones are currently **unscheduled and unassigned**:
+All milestones are unassigned with no due dates. Major feature areas:
 
-1. **Conversion to RTOS**
-2. **Better payload system** — Support multiple cameras and loading flight plans
-3. **Official VTOL / tailsitter support**
-4. **SBC Autopilot companion**
-5. **New GCS** (Ground Control Station)
-6. **MAVLink support**
-7. **UAVCAN support**
-8. **Multi-vehicle support**
-9. **User authentication**
-10. **Automated log file handling and OTA firmware updates**
-11. **Full Geofencing Support**
+1. **Conversion to RTOS** — Autopilot architecture refactor
+2. **Better payload system** — Multi-camera support, flight plan loading
+3. **Official VTOL / tailsitter support** — Vehicle platform expansion
+4. **SBC Autopilot companion** — Single-board computer integration
+5. **New GCS** — Ground control station redesign
+6. **MAVLink support** — Standard protocol integration
+7. **UAVCAN support** — CAN-based communication
+8. **Multi-vehicle support** — Fleet management
+9. **User authentication** — Security/access control
+10. **Automated log file handling & OTA firmware updates** — System management
+11. **Full Geofencing Support** — Safety/regulatory compliance
 
 ## Task Summary
 
 - **Total Tasks:** 231 open, 0 completed
-- **Priority:** Low (custom field)
-- **Assignment distribution:**
-  - **Jack Elston:** ~130+ tasks (bug fixes, calibration issues, hardware integration, comms, simulation, documentation)
-  - **Maciej Stachura:** ~70+ tasks (estimator, VTOL control, TECS, simulation, wind alignment, filters)
-  - **Ben Busby:** ~30+ tasks (GCS/tablet UI, mapping, flight planning, logging, sensor integration)
-  - **Unassigned:** 11 major milestones
+- **Primary Assignees:**
+  - **Jack Elston** — ~120 tasks (autopilot core, comms, hardware integration, payload, UI/GCS)
+  - **Maciej Stachura** — ~70 tasks (control systems, estimators, VTOL, simulation, physics)
+  - **Ben Busby** — ~40 tasks (tablet/GCS UI, flight planning, mapping, simulation)
 
-- **Completion Rate:** 0% — No tasks have been closed in this project view
+- **Task Categories (inferred):**
+  - **Bug fixes & refinements** (~30 tasks) — Flight termination logic, calibration, telemetry scaling, surface control, comms sync
+  - **Control & estimation** (~40 tasks) — TECS, wind alignment, flare logic, gyro feedback, clog detection, VTOL transitions
+  - **Hardware & comms** (~35 tasks) — UART/CAN integration, ESC communication, battery management, RTK/PPK, radio
+  - **Simulation & testing** (~20 tasks) — Gazebo models, X-Plane plugin, preflight checks
+  - **UI/Tablet features** (~45 tasks) — Plot windows, joystick mode, log management, parameter dialogs, mapping UI
+  - **Architecture & refactor** (~25 tasks) — Remove ifdef macros, unified estimator, protocol modules, code cleanup
+  - **Long-term roadmap** (~16 tasks) — RTOS conversion, geofencing, authentication, new GCS
 
-## Task Patterns & Organization
-
-This is a long-term feature and bug backlog organized by **system area**:
-
-### By System:
-
-**Autopilot / Flight Control (Jack Elston dominant)**
-- Surface calibration issues (can't command past max/min, initial XML deflections, etc.)
-- Emergency descent and lost GPS edge cases
-- Joystick mode behavior (lost comms, flare, GPS loss)
-- Battery and power management (ERROR_NO_BATTERY, low battery termination)
-- Payload door and deployment tube logic
-- Telemetry scale mismatches and logging
-
-**Estimator & Control (Maciej Stachura dominant)**
-- Wind estimation and automated parameter changes
-- VTOL transitions and failure handling
-- Clog detection (standard and MHP)
-- Motor/thrust mapping improvements
-- Sensor initialization and filter tuning
-- Unified estimator across vehicle types
-
-**GCS / Tablet UI (Ben Busby dominant)**
-- Mission planning improvements (altitude limits, waypoint handling, dubins paths)
-- Plot and telemetry display enhancements
-- Device discovery and multi-aircraft support
-- OTA firmware updates from tablet
-- Log file management and download
-
-**Simulation (Gazebo)**
-- E2 model updates
-- Fixed-wing and multirotor photogrammetry sims
-- Payload control integration
-
-**Infrastructure & Architecture**
-- RTOS migration
-- Removal of `#ifdef` vehicle type macros
-- Comm and CAN protocol modularity
-- Security improvements
-- Documentation and QRH/MMEL
-
-### Notable Feature Branches:
-- `unified_est` — Unified estimator work
-- `yaw_mix` — Controller-based turn-rate to rudder
-- `vtol` — Vehicle controller refactoring
+- **Completion Rate:** 0% (no closed tasks)
 
 ## Recent Activity
 
-**No recent activity recorded.** The project notes indicate a status update from **Nov 28, 2023** with sections for:
-- Overdue milestones (not detailed)
-- Overdue tasks (not detailed)
-- Completed milestones (not detailed)
-- Completed tasks (not detailed)
+No recent activity visible from task completion. Project appears to be a working backlog rather than an actively tracked sprint. Status update dated **Nov 28, 2023** references:
+- Overdue milestones as of Nov 28
+- Overdue tasks as of Nov 28
+- Completed milestones as of Nov 28
+- Completed tasks as of Nov 28
 
-However, **all 231 tasks remain open with no due dates or timestamps**. This suggests the project is in **long-term planning mode** rather than active execution.
+However, no specific overdue items or completions are listed in the summary. The presence of "Ready for Testing" status labels on a few tablet UI tasks (error waypoint display, takeoff menu display, drop menu, heading hold) suggests some recent work, but these remain open.
 
 ## Notes & Context
 
-### Key Observations:
+1. **Architectural Scope:** This is a comprehensive autopilot/ground station platform supporting fixed-wing, VTOL, multirotor, and tailsitter vehicles with payloads, communications, simulation, and tablet/handset control.
 
-1. **No Scheduled Work** — Despite 231 tasks, there are no assigned due dates, no milestones with deadlines, and no clear sprint structure. This is a **backlog capture**, not an active roadmap.
+2. **Known Bugs & Issues:** Many tasks document specific failure modes (e.g., "Lost GPS error doesn't allow for aborting emergency descent," "S0 AD SIM motor power loss critical error," "ERROR_NO_BATTERY occured on E2 causing it to miss a mapping flight leg"). These appear to be integration/testing discoveries rather than new feature work.
 
-2. **Bug + Feature Mix** — Tasks range from critical bugs (ERROR_NO_BATTERY on flights, calibration blockers) to aspirational features (RTOS, new GCS, moving baseline RTK). No triage or severity ranking is evident.
+3. **Integration Points:** Heavy emphasis on dual-layer control (handset + tablet), comms protocol (MAVLink, UAVCAN, UART), sensor fusion (GPS, pitot, pressure, laser altitude), and failsafe logic (lost comms, lost GPS, lost power, motor failure).
 
-3. **System Debt** — Significant architectural cleanup needed:
-   - Remove `#ifdef` macros for vehicle types
-   - Remove old code markers (FIXMEs, deprecated functions)
-   - RTOS migration
-   - Comm protocol restructuring
+4. **Code Quality:** Multiple tasks address technical debt (remove ifdef macros, remove FIXMEs, code cleanup, firmware warnings, test coverage).
 
-4. **Integration Points** — Heavy interdependence between:
-   - Autopilot and estimator (sensor initialization, switching, failover logic)
-   - Tablet UI and autopilot params (OTA, calibration, mission planning)
-   - Simulation and flight control (validation loops)
+5. **Feature Branching:** Two tasks reference feature branches:
+   - `unified_est` — Unified estimator for all vehicle types
+   - `yaw_mix` — Controller-based rudder mixing
+   - `vtol` — Vehicle controller refactor
 
-5. **Documentation Gaps** — Several tasks note incomplete or conflicting documentation (e.g., TELEMETRY_POSITION.height scale mismatch, inconsistent parameter descriptions).
+6. **External Dependencies:** GitLab issue sync on at least one VTOL motor/rotor thrust cutoff task. X-Plane plugin and Gazebo simulation suggest development/test infrastructure outside Asana.
 
-6. **Vehicle Coverage** — Work spans:
-   - Fixed-wing (E2)
-   - VTOL/tailsitter (S2)
-   - Multirotor (quads)
-   - Tube-launched (S0)
+7. **No Budget Tracking:** No dollar amounts visible in task data; priority is "Low" despite scope, suggesting this is foundational work not tied to immediate revenue.
 
-### Recommendation:
-This backlog would benefit from prioritization, milestone assignment, and dependency mapping before execution. Current state is suitable for long-term reference but not actionable without further triage.
+---
+
+**Assessment:** This is a mature, multi-year backlog for a complex autonomous vehicle platform. The lack of due dates, assignee discipline on open tasks, and zero completion suggests it is either:
+- A long-term vision document (roadmap) rather than an active sprint backlog
+- Actively developed in parallel systems (GitLab, etc.) with Asana serving as a reference
+
+Recommend clarification on which tasks are in-flight vs. aspirational.

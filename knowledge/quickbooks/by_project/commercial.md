@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,083,803.62
-- **Total Expenses (Bills + Purchases):** $249,582.28
+- **Total Expenses (Bills + Purchases):** $251,236.63
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,834,221.34 (Revenue exceeds expenses)
+- **Net Position:** $2,832,567.09 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – November 12, 2026
 
 ---
@@ -97,21 +97,49 @@
 
 ## Expenses by Cost Category
 
+### **Materials & Supplies** (Direct Cost Material Purchases)
+**Total: $1,654.35** | 8 line items (1 purchase) | Date: 2026-10-29  
+*Account: [DIRECT COSTS:DC-Direct Material Purchases]*
+
+**Vendor:** 3D Printing Service (Purchase #JT71988)
+
+| Component | Volume | Dimensions (mm) | Material | Color | Quantity/Price | Amount |
+|-----------|--------|-----------------|----------|-------|----------------|--------|
+| Motor-Connector-Seal-V192 | 359.66 mm³ | 7.97 × 24.56 × 9.67 | MJF/Nylon PA12 S | Dark Purple | 1 × $1.15 | $11.50 |
+| Main-Fuselage-V193 | 426,606.00 mm³ | 203.19 × 254.37 × 203.20 | MJF/Nylon PA12 S | Raw | 1 × $560.99 | $569.34 |
+| Vertical-Fin-V191 | 44,322.28 mm³ | 34.00 × 168.07 × 112.17 | MJF/Nylon PA12 S | Black | 1 × $57.78 | $116.40 |
+| Insert-R2-v200 | 21,048.75 mm³ | 56.39 × 91.55 × 27.30 | MJF/Nylon PA12 S | Black | 1 × $20.60 | $83.20 |
+| Top-Shell-Tail-v193 | 114,436.50 mm³ | 82.04 × 141.03 × 93.32 | MJF/Nylon PA12 S | Dark Blue | 1 × Not listed | $348.03 |
+| Top-Shell-Cover-V193 | 106,965.13 mm³ | 189.87 × 217.36 × 66.04 | MJF/Nylon PA12 S | Raw | 1 × $155.52 | $156.46 |
+| Pancake-Battery-Charge-Housing | 40,114.32 mm³ | 42.05 × 51.34 × 95.38 | MJF/Nylon PA12 S | Dark Red | 1 × $37.93 | $76.66 |
+| **Line Item Without Detail** | — | — | — | — | — | $256.76 |
+
+**Subtotal Materials:** $1,618.35  
+**Largest Items:**
+- Main-Fuselage-V193: $569.34 (33.8%)
+- Top-Shell-Tail-v193: $348.03 (20.8%)
+- Top-Shell-Cover-V193: $156.46 (9.3%)
+- Vertical-Fin-V191: $116.40 (6.9%)
+
+---
+
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $2.50** | 1 transaction  
+**Total: $38.50** | 2 transactions  
 *Account: [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]*
 
 | Date | Vendor/Memo | Description | Amount |
 |------|-------------|-------------|--------|
+| 2026-10-29 | 3D Printing Service (JT71988) | Shipping for parts order | $36.00 |
 | 2026-11-12 | PGA | Disclaimer Fee | $2.50 |
 
 **Largest Items:**
+- 3D Printing Shipping: $36.00
 - PGA Disclaimer Fee: $2.50
 
 ---
 
 ### **Indirect Costs** (Overhead, R&D, Fringe)
-**Total: $1,123.62** | 1 transaction (October 15, 2026)  
+**Total: $1,123.62** | 1 transaction  
 *Account: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]*
 
 | Date | Vendor/Memo | Description | Amount |
@@ -134,9 +162,12 @@
 
 | Category | Total Amount | # Transactions |
 |----------|--------------|-----------------|
+| Materials & Supplies | $1,654.35 | 1 |
+| Shipping/Freight | $38.50 | 2 |
 | Indirect Costs (R&D/IRAD) | $1,123.62 | 1 |
-| Shipping/Freight | $2.50 | 1 |
-| **TOTAL EXPENSES** | **$1,126.12** | **2** |
+| **TOTAL EXPENSES** | **$2,816.47** | **4** |
+
+**Cumulative Project Expenses:** $251,236.63
 
 ---
 
@@ -147,25 +178,49 @@
 
 ## Monthly Spend by Category
 
+### October 2026
+| Category | Amount | # Transactions |
+|----------|--------|-----------------|
+| **Materials & Supplies** | $1,654.35 | 1 |
+| **Shipping/Freight** | $36.00 | 1 |
+| **Indirect Costs (R&D)** | $1,123.62 | 1 |
+| **Total** | **$2,813.97** | **3** |
+
+**Burn Rate Note:** October spending reflects active materials procurement and development:
+- **$1,654.35** in 3D-printed components (MJF Nylon PA12) for fuselage assembly and internal hardware
+- **$1,123.62** in IRAD/R&D shipments including equipment maintenance and S3 phase 1 components
+- Indicates ongoing UAS manufacturing and iterative design work
+
 ### November 2026
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
 | **Shipping/Freight** | $2.50 | 1 |
 | **Total** | **$2.50** | **1** |
 
-**Burn Rate Note:** November spending minimal to date ($2.50 PGA disclaimer fee). Represents administrative charge rather than project material costs.
-
-### October 2026
-| Category | Amount | # Transactions |
-|----------|--------|-----------------|
-| **Indirect Costs (R&D)** | $1,123.62 | 1 |
-| **Total** | **$1,123.62** | **1** |
-
-**Burn Rate Note:** October spending concentrated in single IRAD/R&D shipment ($1,123.62). This represents internal research activity related to S3 development phase and equipment maintenance.
+**Burn Rate Note:** November minimal activity to date. Only administrative charge (PGA disclaimer fee) recorded.
 
 ---
 
 ## Notable Transactions
+
+### **⚠️ HIGH PRIORITY: 3D Printed Components Order (October 29, 2026)**
+- **Purchase #JT71988 | $1,654.35**
+- **Vendor:** 3D Printing Service (MJF Nylon PA12 Manufacturing)
+- **Components:** 7 custom parts for aircraft assembly
+  - **Main-Fuselage-V193** ($569.34): Primary structural component; 426.6 cm³ volume
+  - **Top-Shell assemblies** ($504.49 combined): Fuselage covering and tail section
+  - **Motor-Connector & Battery Housing** ($87.86 combined): Propulsion and power integration
+  - **Support brackets** ($83.20): Internal hardware
+
+**Analysis:** 
+- High-precision MJF manufacturing suggests iterative design refinement (Version 191-193 indicates multiple iterations)
+- Mix of structural (fuselage/fins) and functional (connector/housing) components indicates active aircraft development
+- Parts appear destined for UAS platform assembly or refurbishment
+- Shipping cost ($36.00) represents 2.2% of order value
+
+**Recommendation:** Cross-reference with project drawings/build logs to confirm aircraft platform and development phase.
+
+---
 
 ### ⚠️ **High Priority: Duplicate Invoice #1755**
 - **Date Conflict:** Invoice #1755 appears twice with identical amounts:
@@ -174,11 +229,15 @@
 - **Status:** Both marked as outstanding balances
 - **Recommendation:** Contact By Light Halo to verify if this is a reissue for non-payment, a duplicate entry error, or legitimately distinct billing. **Financial impact if duplicate: $63,735.00 overstated revenue.**
 
+---
+
 ### ⚠️ **Outstanding Invoice #1779 — $24,579.28**
 - Largest single outstanding invoice in recent period (Aug 31, 2026)
-- Service delivery date: June 30-July 1, 2026 (3.5+ months aging)
+- Service delivery date: June 30-July 1, 2026 (4+ months aging)
 - Includes UAS day rental, field equipment, flight planning, and data processing
 - **Recommendation:** Follow up on payment status with Murphy's Pond CH4.
+
+---
 
 ### **IRAD Shipping Cluster (October 15, 2026)**
 - Three related shipments via Worldwide Express totaling $1,123.62
@@ -186,17 +245,30 @@
 - Suggests active S3 development/phase 1 work underway
 - Includes equipment repair (Embry Riddle) and new phase shipment components
 
-### **Nominal Expense (November 12, 2026)**
-- PGA disclaimer fee of $2.50 represents administrative charge
-- Minimal project impact
-
 ---
 
 ## Summary of Changes from Previous Update
-- **Total Expenses increased by $2.50:** Previous total $249,579.78 → New total $249,582.28
-- **1 new transaction recorded:** Purchase #261021W002707 dated 2026-11-12 ($2.50)
-- **Shipping/Freight category activated:** First transaction in this category for November 2026
+- **Total Expenses increased by $2,816.47:** Previous total $249,582.28 → New total $251,236.63 (+1.13%)
+- **3 new transactions recorded:**
+  - Purchase #JT71988 (2026-10-29): $1,654.35 (Materials & Supplies)
+  - Shipping line item (2026-10-29): $36.00 (Freight)
+  - Purchase #261021W002707 (2026-11-12): $2.50 (Shipping/Freight)
+- **Materials & Supplies category activated:** First significant materials procurement ($1,654.35) for 3D-printed aircraft components
+- **Shipping/Freight category expanded:** Now includes materials shipping ($36.00) plus administrative fee ($2.50)
+- **Indirect Costs stable:** October 15 IRAD shipments remain unchanged at $1,123.62
 - **No new revenue transactions**
 - **No new purchase orders**
-- **Outstanding invoice aging:** Invoice #1779 now 3.5+ months old (previous ~2.5 months)
-- **Net position slightly reduced:** $2,834,223.84 → $2,834,221.34 (due to new $2.50 expense)
+- **Outstanding invoice aging:** Invoice #1779 now 4+ months old (aging concern)
+- **Net position reduced:** $2,834,221.34 → $2,832,567.09 (due to $2,816.47 in new expenses)
+
+---
+
+## Key Project Metrics
+
+| Metric | Value | Trend |
+|--------|-------|-------|
+| Revenue Realization Rate | 35.7% | Stable (unchanged) |
+| Expense-to-Revenue Ratio | 8.2% | Slight increase (8.1% → 8.2%) |
+| Average Monthly Burn (Oct-Nov 2026) | $1,408.24 | Moderate activity |
+| Outstanding Revenue Aging | 4+ months | Alert status |
+| Materials & Supplies as % of Expenses | 1.0% of total | First major component purchase |

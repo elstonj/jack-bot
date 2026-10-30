@@ -1,155 +1,121 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 77 (34 from previous scan + 43 new)
-- **Date range:** 25 Oct – 29 Oct 2026
+- **Total messages scanned:** 97 (77 from previous scan + 20 new)
+- **Date range:** 25 Oct – 30 Oct 2026
 - **Approximate volume:** ~12–15 emails/day (moderate to heavy, with sustained peaks on project/partnership activity days)
-- **Notable spike:** 28 Oct 2026 shows concentrated activity (30+ emails in single day); indicates major coordination event or decision point
+- **Notable pattern:** 29 Oct shows continued high activity (SOCOM Design Meeting, image intensifier coordination, Asana/Gemini automation); 30 Oct drops to promotional/digest volume
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Maciej Stachura** (stachura@blackswifttech.com) — most frequent internal contact; white paper collaboration, Asana task assignments (S3 delivery milestones), Google Docs real-time feedback
-- **Jack Elston** (elstonj@blackswifttech.com) — central hub for external coordination; orchestrates NOAA meetings, white paper discussions, Krateo Sky partnership, and SOCOM communication; originates most [IMPORTANT] emails in this batch
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — SOCOM point of contact; data/launch coordination; meeting organizer
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — business operations; vendor/refund coordination (Aeronet); referral requests
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — frequent meeting participant (NOAA, Krateo coordination, SOCOM)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — internal team member; white paper and integration coordination
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — appears in flight test and SOCOM coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — continues as most frequent internal contact; white paper collaboration, Asana task assignments (S3 delivery milestones)
+- **Jack Elston** (elstonj@blackswifttech.com) — maintains central orchestration role; SOCOM Design Meeting participant; white paper/partnership coordination
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **elevated importance this batch**: primary lead on image intensifier (Hamamatsu) coordination; SOCOM Design Meeting organizer/host; meeting notes captured by Gemini; manages vendor technical discussions with Jenna Ferrari (Hamamatsu)
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — now explicitly on SOCOM Design Meeting invitation; flight test and SOCOM coordination confirmed
+- **Sam Hild** (sam.hild@blackswifttech.com) — **new visible contact**: appears on SOCOM Design Meeting participant list; previously unseen in dataset
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — continues multi-channel coordination; assigned Josh to jawstec S3 parts purchasing task (29 Oct via Asana)
+- **Beck Cotter** — continues business operations role
 
 ### External — Government
-- **NOAA (expanded stakeholder list):**
-  - **Matthew Burgess** (matthew.burgess@noaa.gov) — RPP Container Boxes coordination; active in white paper review
-  - **John Walker** (john.r.walker@noaa.gov) — NOAA Affiliate; new contact: Dragoon + NOAA GML Tower Team intro discussion
-  - **Philip Handley** (philip.handley@noaa.gov) — NOAA Affiliate; Dragoon partnership discussion
-  - **Sara Morris** (sara.morris@noaa.gov) — NOAA Federal; Dragoon discussion participant
-  - **Joe Cione, Annette Hollingshead, Nikolai Pawlenko** (from previous scan) — continue as core NOAA contacts
-  - **alan.s.goldstein, brian.richards, caitlin.wilson, danielle.varwig, director.uxsoc, lisa.nakamura, mark.e.rogers, matthew.jaskoski** — broad stakeholder group for presentation distribution (28 Oct)
+- **NOAA:**
+  - **Matthew Burgess** (matthew.burgess@noaa.gov) — continues RPP Container Boxes coordination (29 Oct); remains technical lead
+  - [Other NOAA contacts from previous scan remain active but not in this batch]
 
 - **SOCOM (U.S. Special Operations Command):**
-  - **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — data sharing/launch coordination
-  - **Evan M. Wolff** (evan.m.wolff.mil@socom.mil) — same project coordination
-
-- **NASA:**
-  - **Wesley R. Enos (NASA ARC-QS)** (wesley.r.enos@nasa.gov) — S2 delivery coordination
+  - **SOCOM Design Meeting** (29 Oct 1–2 pm MDT) — formal structured meeting with BST attendees (Josh Fromm, Daniel Prendergast, Jack Elston, Alex Lomis, Sam Hild) + Krateo Sky (brian@krateosky.com); Gemini auto-generated notes confirm it occurred
+  - [Specific SOCOM contact names not directly visible in this batch headers, but meeting confirms active engagement]
 
 ### External — Commercial Partners
-- **Krateo Sky (expanding team visibility):**
-  - Core contacts: **Bob Smith, Brian Grubel, Lisa Marie Cheney, Sona Raziabeegum**
-  - Extended team now visible: Adria Passola, Ariel Avitan, Don Spinozzi, Dipan Amin, Jed Leonard, Lluis Pedragosa, Pam Kermisch, Thibault Bridel-Bertomeu (Non-US), Tim Hegwood, Jasmine Khambatta, Roger Riley, Ellen McCarthy, Shelly Dvorak, Lynn Regnier, Bob Gold
-  - **Weekly Integration Review** (28 Oct) with 20+ attendees from both organizations; formal structured partnership
-  - Multiple coordination tracks: white paper reviews, "New Space" initiative, integration slides
+- **Krateo Sky:**
+  - **brian@krateosky.com** — explicitly invited to SOCOM Design Meeting; confirms joint BST–Krateo military design coordination
+  - [Extended team from previous scan continues]
 
-- **Aeronet:**
-  - **Rachel Galera, Adrian Sepulveda, Jeff Dauz** — refund request handling
+- **Hamamatsu (New Vendor — Critical):**
+  - **Jenna Ferrari** (JFerrari@hamamatsu.com) — **[IMPORTANT] tag and multiple rapid exchanges 29 Oct**; vendor for image intensifiers
+  - Exchange pattern: 4 documented rounds (15:58, 17:08, 22:11, 23:02 UTC spanning ~7 hours); indicates time-sensitive technical specification or procurement negotiation
+  - Daniel Prendergast leading technical dialogue; Josh copied indirectly via Asana task workflow (jawstec S3 parts likely related to same platform)
 
-### Automated/Newsletters
-- **Asana** (5+ notifications in this batch; real-time task tracking)
-- **Google Docs** (Daniel Prendergast comments; UK RAVEN project)
-- **Gemini** (meeting notes auto-generation)
-- **Fireflies.ai** (meeting recording notification)
-- **UAS VISION** (daily digest)
-- **AMS Annual Meeting** (conference registration)
-- **TraceParts/SV Microwave, ProtoSpace Mfg, Luminary, Future Electronics, KST, Birdcall** (promotional/marketing)
+### Automated/Newsletters (Expanded)
+- **Asana** (2 notifications this batch; continued real-time task tracking)
+- **Gemini** (SOCOM Design Meeting notes auto-generated; meeting confirmation artifact)
+- **UAS VISION** (daily digest; continued subscription)
+- **TraceParts, DigiKey, Luminary, Birdcall, Hilton Honors, Expedia, AliExpress** (promotional/marketing newsletters)
 
 ## Topic Patterns
 
-### Primary Projects
-- **[001-04] S0 VTOL IRAD** — core research platform; subject of formal white paper (WP-BST-006)
-- **[001-07] S3 IRAD** — variant platform; Maciej assigned Josh delivery milestones:
-  - "Deliver 2 INSTAAR S3's" (28 Oct)
-  - "Deliver UMES S3" (28 Oct)
-- **S2 Platform** — active flight testing; NASA delivery coordination; SOCOM data sharing ("Data from Yesterday's Launch")
-- **[012-3] ERAU Model S0** — university partnership model
-- **[451-1] INSTAAR S3 x 2** — specific deployment milestone
+### Primary Projects (Continued/Refined)
+- **S0/S2/S3 platforms** — remain core; no new named variants this batch
+- **S3 delivery milestones** — INSTAAR x2 and UMES S3 (from previous batch) remain active; jawstec parts sourcing assigned (29 Oct)
 
 ### White Paper & Formal Documentation
-- **WP-BST-006 (S0 Carrier)** — now in "Revision B" stage (28 Oct); multi-stakeholder review cycle:
-  - 28 Oct: "WP-BST-006 (S0 Carrier): NOAA review, our responses, and support for tomorrow's meeting" (Jack Elston)
-  - Krateo Sky team responding and preparing for formal meeting
-  - Indicates government validation/procurement track advancing to formal phase
-- **Presentation from today** (28 Oct, 1:01 PM MDT) — formal presentation to 12+ NOAA stakeholders; Jack Elston distributing post-meeting materials
-- **"BST Internal Update Meeting"** (28 Oct) — Google Gemini notes captured; formal internal sync
+- **WP-BST-006 (S0 Carrier)** — revision/response cycle appears to have concluded; no new white paper emails in this batch (suggests finalized or moved to decision phase)
 
-### Strategic Initiatives
-- **"New Space"** — Krateo Sky initiative discussed across multiple emails (28 Oct); appears to be major strategic direction or new product category
-- **Dragoon + NOAA GML Tower Team** — new partnership discussion (NOAA internal, but forwarded to BST stakeholders); potential atmospheric sensing collaboration
-- **Black Swift Weekly Integration Review** — formal recurring meeting with Krateo Sky (20+ attendees); held on 28 Oct with detailed meeting summary and action items
+### New Technical Area: Sensor/Imaging Components
+- **Image intensifiers (Hamamatsu)** — **new technical thread**
+  - Daniel Prendergast negotiating/specifying with Jenna Ferrari (Hamamatsu vendor)
+  - 4 rapid exchanges 29 Oct suggest urgent requirement, specification revision, or delivery coordination
+  - Likely for S2 night-capable operations or SOCOM mission requirement
+  - Suggests S2 platform being enhanced with night-vision/low-light imaging capability
 
-### Secondary Areas
-- **RPP Container Boxes** — logistics/infrastructure coordination between NOAA and BST
-- **UK RAVEN** — parallel project with Google Docs collaboration
-- **SOCOM Design Meeting** — scheduled for 29 Oct 1pm MDT; appears to be ongoing military/special ops application
+### Strategic Initiatives (Continued)
+- **SOCOM Design Meeting** (29 Oct) — formal structured engagement; Gemini notes captured; indicates design/specification phase underway for military application variant
+- **Krateo Sky partnership** — brian@krateosky.com now directly integrated into SOCOM-related design work; confirms deep co-development on military/special ops track
 
-### Manufacturing/Procurement (Continued)
-- Vendor coordination ongoing (K-mac Plastics, Tech-Max Mfg, Aeronet for refunds)
-- ProtoSpace Mfg promotional email (manufacturing services)
+### Manufacturing/Supply Chain
+- **jawstec for S3 parts** — new supplier/part source (29 Oct Asana assignment); indicates S3 production/assembly phase ramping or new component sourcing
 
 ## Communication Patterns
 
-- **White paper cycle entering critical phase:** Multiple revision rounds and stakeholder reviews within 24–48 hours; suggests formal decision/contract opportunity window closing
-- **Krateo Sky partnership intensity elevated:** Weekly integration reviews now established with 20+ cross-functional attendees; indicates deep operational integration or co-development phase
-- **NOAA stakeholder expansion:** Presentation to 12+ NOAA officials on 28 Oct; government side now includes GML Tower team (atmospheric monitoring infrastructure) — suggests expanding mission scope
-- **Military/SOCOM engagement:** New visible contact with USSOCOM; data sharing on S2 platform; suggests defense/special operations applications emerging
-- **Asana-heavy project tracking:** Multiple task assignments on same day (S3 delivery milestones); real-time sprint activity
-- **Meeting notes automation:** Gemini and Fireflies.ai capturing structured meeting records; indicates formalization of decision-making processes
-- **Time zone spanning:** Mix of UTC, MDT, EST, GMT; Krateo Sky team distributed (non-US member: Thibault Bridel-Bertomeu flagged)
-- **Multi-track coordination:** Simultaneous tracks visible:
-  - White paper/government validation (NOAA)
-  - Commercial partnership/integration (Krateo Sky)
-  - Military applications (SOCOM)
-  - Academic collaboration (INSTAAR, UMES, ERAU)
+- **Image intensifier vendor engagement heating up:** 4 technical exchanges with Hamamatsu within 7 hours (29 Oct 15:58–23:02 UTC) suggests specification lock-down or urgent delivery/capability requirement; likely tied to SOCOM Design Meeting held same day
+- **SOCOM Design Meeting confirmed executed:** Gemini notes arrival (29 Oct 19:42 UTC) confirms meeting occurred; formal meeting recording/documentation workflow active
+- **Krateo Sky now in military/SOCOM workflow:** brian@krateosky.com invited to SOCOM Design Meeting; indicates joint design authority with partner on defense applications
+- **Sam Hild emerges as new SOCOM participant:** Previously unseen; now on formal SOCOM Design Meeting; suggests team expansion or internal restructuring for military engagement
+- **Asana task assignment workflow active:** Meredith Needham assigning jawstec purchasing to Josh (29 Oct); real-time sprint execution on S3 parts
+- **Promotional email volume increasing:** 8 promotional/newsletter messages in 20-message batch (40%); standard subscription noise
+- **30 Oct goes quiet:** Only promotional emails and digest; suggests end of intensive 28–29 Oct coordination window
 
 ## Key Relationships
 
 ### Tier 1 (Closest/Most Active)
-- **Maciej Stachura** — technical lead on S3 delivery and white paper; direct task assignment authority
-- **Jack Elston** — strategic partnership orchestrator; owns NOAA, Krateo, SOCOM communication threads; initiates most [IMPORTANT] decisions
-- **Krateo Sky leadership (Bob Smith, Brian Grubel, Lisa Marie Cheney, Sona Raziabeegum)** — now operating as quasi-integrated team; weekly formal meetings; cross-organizational working groups
+- **Maciej Stachura** — continues as technical S3 lead
+- **Jack Elston** — continues strategic orchestration; SOCOM Design Meeting participant
+- **Daniel Prendergast** — **elevated this batch**: now primary technical lead on SOCOM-related imaging/sensor specs; direct vendor management (Hamamatsu); meeting organizer
+- **Krateo Sky (brian@krateosky.com)** — now at design table for SOCOM applications; quasi-integrated team status confirmed
 
 ### Tier 2 (Important Partners)
-- **Daniel Prendergast** — SOCOM liaison; flight test data coordination
-- **Meredith Needham** — multi-channel participant (NOAA, Krateo, SOCOM)
-- **Matthew Burgess (NOAA)** — government-side technical lead for white paper review and logistics coordination
-- **Joe Cione (NOAA)** — structured monthly partnership; now part of larger stakeholder group
+- **Jenna Ferrari (Hamamatsu)** — new critical external relationship; time-sensitive technical negotiations; vendor for specialized imaging components
+- **Sam Hild** (BST internal) — **new visibility**: SOCOM Design Meeting participant; role/function not yet fully defined from headers
+- **Matthew Burgess (NOAA)** — continues logistics/coordination
 
 ### Tier 3 (Supporting)
-- **Beck Cotter** — business operations; vendor relations; referral/partnership expansion
-- **Aeronet (Rachel Galera, etc.)** — service provider; active vendor coordination on refunds/services
+- **Alex Lomis** — SOCOM Design Meeting participant; flight test support confirmed
+- **Meredith Needham** — task assignment/project tracking coordination
 
 ## Notable Observations
 
-- **White paper in final review stage:** WP-BST-006 Revision B signals imminent completion; NOAA responses collected; meeting held 28 Oct to align on responses; suggests contract/partnership decision within 1–2 weeks
+- **Image intensifier procurement just activated:** Hamamatsu vendor engagement on 29 Oct represents new capability addition to platform; timing coincides exactly with SOCOM Design Meeting, strongly suggesting military requirement drove component selection. This is the most significant new technical signal in this batch.
 
-- **Krateo Sky integration deepening rapidly:** 
-  - Moved from external partner to weekly integrated review meetings
-  - 20+ cross-org attendees (vs. 3–5 earlier)
-  - Formal meeting summaries and action tracking
-  - "New Space" initiative suggests new product/market category being developed jointly
-  - Suggests potential acquisition, deep JV, or major platform co-development underway
+- **SOCOM Design Meeting executed as scheduled:** Gemini notes confirm meeting occurred 29 Oct 1–2 pm MDT (as updated from 28 Oct calendar). Formal documentation workflow (auto-generated notes) indicates this is now structured enterprise-level engagement, not exploratory outreach.
 
-- **NOAA relationship expanding beyond science to infrastructure:** 
-  - Dragoon platform + GML Tower Team intro = potential integration with NOAA's atmospheric measurement network
-  - Suggests S0/S2 platforms being positioned as operational instruments, not just research tools
+- **Krateo Sky embedded in military design cycle:** brian@krateosky.com invited to SOCOM Design Meeting; no longer at partner-arm's-length. Suggests either:
+  - Joint proposal/contract with Krateo as co-vendor, or
+  - BST using Krateo integration/platform capabilities for SOCOM variant, or
+  - Krateo developing parallel defense-grade product track
 
-- **SOCOM/Military track now active:**
-  - Data sharing on S2 launches indicates operational trials or capability demonstration
-  - SOCOM Design Meeting scheduled for 29 Oct (day after white paper review)
-  - Suggests parallel defense/special ops applications maturing alongside government/science track
-
-- **S3 delivery milestones assigned concurrently:** INSTAAR x2 and UMES S3 both assigned same day; suggests production/assembly phase ramping up or multiple customer simultaneous deliveries
-
-- **NASA S2 coordination:** Wesley Enos (NASA ARC) tracking S2 deliveries; indicates NASA mission/payload integration
-
-- **Three strategic customer/partner tracks visible simultaneously:**
-  1. **NOAA + Dragoon** (government atmospheric monitoring)
-  2. **Krateo Sky** (commercial/New Space integration)
-  3. **SOCOM** (military/defense applications)
+- **Three-track strategy maturing in parallel (28–29 Oct window):**
+  1. **NOAA/Science** — white paper finalized; infrastructure partnership (Dragoon + GML Tower)
+  2. **Commercial/New Space** — Krateo Sky weekly integration reviews
+  3. **Military/Defense** — SOCOM Design Meeting + Hamamatsu imaging specs
   
-  This suggests BST is pursuing multiple market channels with S0/S2/S3 variants.
+  All three activated/advancing simultaneously.
 
-- **Large formal meetings replacing ad-hoc coordination:** Structured agendas, recorded notes, formal action items indicate transition from startup mode to enterprise/government contracting cadence
+- **S3 parts sourcing accelerating:** jawstec supplier brought in for S3 components; indicates manufacturing phase ramping from prototype to production/deployment quantities.
 
-- **Brandon Messersmith** (new contact this batch) — providing consolidated S0 report and workflow recommendations; suggests technical documentation/standardization effort underway
+- **Daniel Prendergast increasingly central to technical execution:** Now owns SOCOM design coordination AND vendor engagement (Hamamatsu imaging). Suggests he is technical lead for S2 military variant development.
 
-- **International team member flagged:** Thibault Bridel-Bertomeu marked "(Non-US)" in Krateo integration team; export control considerations may apply to partnership
+- **Sam Hild enters visible communication:** First appearance in this batch on SOCOM Design Meeting; suggests either new hire, newly assigned to this program, or previously was not copied on visible headers. Worth monitoring for role clarification.
+
+- **Promotional email volume stable:** No new vendor relationships visible in promotional category; standard subscription pattern continues.
+
+- **30 Oct quiet suggests cycle closure:** Sharp drop to only promotional/digest emails on 30 Oct suggests intense 28–29 Oct coordination window has concluded (at least temporarily). Possible next activity window: early November for post-SOCOM Design Meeting follow-up or NOAA decision.
