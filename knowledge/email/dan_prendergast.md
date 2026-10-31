@@ -1,157 +1,135 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 73 (53 from previous scan + 20 new)
+- **Total messages scanned:** 80 (73 from previous scan + 7 new)
 - **Date range:** 25 Oct – 30 Oct 2026
-- **Approximate volume:** High activity sustained through 30 Oct; 4–6 emails per day on 29–30 Oct; continued momentum from 28 Oct spike
-- **New observation:** Activity remains elevated post-weekend; no drop-off suggests ongoing project urgency
+- **Approximate volume:** High activity sustained; 30 Oct shows continued elevated engagement (7 messages on single day across multiple threads)
+- **New observation:** Friday 30 Oct maintains momentum through end-of-day (21:41 UTC final message); multi-threaded parallel discussions active simultaneously
 
 ## Key Correspondents
 
-### Top Senders
-1. **Bob Smith** (Krateo Sky) — Facility clearance & FSO discussion acceptance [NEW]; facility clearance ops lead
-2. **Jenna Ferrari** (Hamamatsu) — Image intensifiers discussion (multi-threaded, 29 Oct) [NEW VENDOR]
-3. **Asana** (automated) — 4 notification digests (continued)
-4. **Maciej Stachura** (via Asana & direct) — Strategic meetings, export control coordination
-5. **Cory Dixon** — Program review, TPM meeting coordinator, export control review forwarding
-6. **Jack Elston** — Strategic account management, RAVEN Project support
-7. **Alexy Mukadem** (NTI Systems) — GCS integration discussion (30 Oct, marked IMPORTANT) [ACTIVE]
-8. **Neil Morphett** (Lockheed Martin UK) — RAVEN Project kickoff coordination (29 Oct; multi-threaded)
-9. **Anthony D. Brescia** (US Navy NAWCAD) — RAVEN Project kickoff confirmation (29 Oct)
-10. **Adam Rich** (Devis) — Drone swarms response (29 Oct, marked IMPORTANT)
+### Top Senders (Updated)
+1. **Jenna Ferrari** (Hamamatsu) — Image intensifiers discussion (now 4+ exchanges over 29–30 Oct; continued technical iteration) [CRITICAL VENDOR]
+2. **Pete Torrione** (CoVar) — Business discussion coordination; multi-party meeting (30 Oct, marked IMPORTANT) [NEW CONTACT]
+3. **Michael Rapp** (Vantor) — TEM (Thermal Engine Module?) discussion; multi-party stakeholder group (30 Oct, marked IMPORTANT) [NEW CONTACT/VENDOR]
+4. **Dipan Amin** (Krateo Sky) — SOCOM PM Discussion response (30 Oct, marked IMPORTANT)
+5. **Bob Smith** (Krateo Sky) — Facility clearance & FSO discussion
+6. **Asana** (automated) — Notification digests
+7. **Maciej Stachura** — Strategic meetings, export control, technology exploration
+8. **Cory Dixon** — Program review, compliance coordination
+9. **Jack Elston** — Strategic account management, export control review
+10. **Neil Morphett** (Lockheed Martin UK) — RAVEN Project coordination
 
-### Top Recipients
+### Top Recipients (Updated)
 - **Primary inbox:** daniel.prendergast@blackswifttech.com
 - **Frequent outbound to (new/updated):**
-  - Jenna Ferrari / Hamamatsu (image intensifiers; 3 exchanges 29 Oct)
-  - Cindy Webster / Winmate Rugged (rugged controllers for Black Swift)
-  - Dipan @ Krateo Sky (SOCOM PM discussion) [NEW]
-  - Neil Morphett / Lockheed Martin UK (RAVEN coordination; multi-threaded 29 Oct)
-  - Anthony D. Brescia / US Navy NAWCAD (RAVEN Project responses)
-  - Beck Cotter / Meredith Needham (internal RAVEN coordination forwarding)
-  - Maciej Stachura, Jack Elston, Cory Dixon (export control review distribution)
+  - Jenna Ferrari / Hamamatsu (image intensifiers; 2 outbound 30 Oct, rapid iteration)
+  - Pete Torrione / CoVar (business discussion meeting coordination)
+  - Krateo Sky contacts (SOCOM PM, export control coordination)
+  - Internal: Jack Elston, Maciej Stachura, Cory Dixon, Beck Cotter (multi-party deal coordination)
 
-### Internal vs External
-- **Internal:** ~50% (Jack Elston, Cory Dixon, Maciej Stachura, Beck Cotter, Meredith Needham)
-- **External:** ~50% (Krateo Sky, Lockheed Martin UK, US Navy NAWCAD, Hamamatsu, Devis, NTI Systems, Winmate Rugged, Redhelm Labs)
-
-### Key External Contacts (Updated)
-- **Hamamatsu (Jenna Ferrari)** — Image intensifiers supplier; active specification/integration discussion [NEW CRITICAL VENDOR]
-- **Krateo Sky (Bob Smith, Ellen McCarthy, Lisa Marie Cheney, Sona Raziabeegum)** — Export control & facility clearance gatekeeper; FSO discussion scheduled
-- **Lockheed Martin UK (Neil Morphett, Dhruti Shah)** — RAVEN Project active coordination; site visit logistics
-- **US Navy NAWCAD (Anthony D. Brescia, Angel R. Ruiz-Reyes)** — RAVEN Project confirmation; multi-party coordination
-- **UK Ministry of Defence (Simon Laurence)** — RAVEN Project (background from previous scan)
-- **NTI Systems (Alexy Mukadem)** — GCS integration discussions; marked IMPORTANT on 30 Oct
-- **Devis (Adam Rich)** — Drone swarms partnership (DAF26BX06-DV026); Beck Cotter facilitating introduction
-- **Winmate Rugged (Cindy Webster)** — Rugged controllers supplier; integration discussion [NEW VENDOR]
-- **Redhelm Labs (Neil Sorkin)** — In-flight power-beaming fit exploration; contacted Maciej Stachura [NEW VENDOR/PARTNER]
+### External Partners/Vendors (New Additions)
+- **CoVar (Pete Torrione, Mark Hibbard, Joe Camilo, Claudia Dabbs, Filip Haltmayer)** — Business discussion 30 Oct 9:30am MDT; multi-party BST meeting (marked IMPORTANT) [NEW CRITICAL CONTACT]
+- **Vantor (Michael Rapp, Naresh Shah, Andreas Rasmussen, Lawrence Hudy)** — TEM (thermal engine module?) project discussion; multi-party coordination with BST leadership (Maciej, Jack, Beck) (30 Oct, marked IMPORTANT) [NEW CRITICAL VENDOR]
 
 ## Topic Patterns
 
 ### Project Codenames/IDs (Updated)
-- **[001-04] S0 VTOL IRAD** — VTOL development
-- **[001-07] S3 IRAD** — S3 platform IRAD
-- **[212-2] NASA S2 & Parts** — NASA partnership; delivery coordination
-- **[212-1] S2 Simulator** — Simulator development
-- **[550-2] Navy STTR: Hazardous Weather** — Navy SBIR/STTR program
-- **[550-1] Navy SBIR: Magnetometer** — Navy sensor R&D
-- **[451-1] INSTAAR S3 x 2** — INSTAAR partnership (2 units)
-- **[600-1] SOCOM Pope** — SOCOM customer project; operational data exchange continuing
-- **RAVEN Project** — UK-US partnership; site visit/kickoff coordination active (29 Oct exchanges); multi-day logistics thread
-- **DAF26BX06-DV026** — Ground and Air Launched Drone Swarms (Devis); partnership introduction ongoing
-- **GCS NTI Systems <> Black Swift Technologies** — Ground Control Station integration project (30 Oct, marked IMPORTANT)
+- **RAVEN Project** — UK-US partnership; site visit/kickoff coordination (29 Oct; continuing)
+- **[600-1] SOCOM Pope** — SOCOM customer project; PM discussion active (30 Oct with Krateo Sky, marked IMPORTANT)
+- **DAF26BX06-DV026** — Ground and Air Launched Drone Swarms (Devis)
+- **GCS NTI Systems <> Black Swift Technologies** — Ground Control Station integration (30 Oct)
+- **Black Swift TEM** — Thermal Engine Module (Vantor collaboration?); multi-party technical discussion (30 Oct, marked IMPORTANT) [NEW PROJECT]
+- **[001-04] S0 VTOL IRAD**, **[001-07] S3 IRAD**, **[212-2] NASA S2**, **[550-2] Navy STTR: Hazardous Weather**, **[550-1] Navy SBIR: Magnetometer**, **[451-1] INSTAAR S3 x 2** (continuing from previous scan)
 
-### Recurring Themes
-- **Export control & international licensing** (continuing dominance; forwarded to leadership for review 29 Oct)
-- **Component/subsystem integration** (image intensifiers, rugged controllers, GCS, power-beaming)
-- **RAVEN Project logistics** (site visit scheduling, multi-party coordination, kickoff confirmation)
-- **Sensor & optical systems** (image intensifiers from Hamamatsu; Bartington magnetometer from previous scan)
-- **SOCOM operational support** (continuing from 28 Oct launch)
-- **Military customer coordination** (Navy NAWCAD, SOCOM, UK MOD)
+### Recurring Themes (Updated)
+- **Export control & international licensing** (continuing; SOCOM PM discussion escalating to Krateo Sky)
+- **Component/subsystem integration** (image intensifiers rapid iteration; new thermal engine module discussion)
+- **Thermal management/propulsion** (Vantor TEM project emerging; potential high-priority addition)
+- **Business development meetings** (CoVar meeting 30 Oct 9:30am; structured multi-party discussion)
+- **SOCOM operational support** (PM coordination with Krateo Sky; escalation suggests contract/procurement pathway)
 
-### Client/Vendor/Partner Names (Updated)
-- **Lockheed Martin UK** (active RAVEN Project coordination)
-- **UK Ministry of Defence / Royal Navy** (RAVEN Project, export control review)
-- **Krateo Sky** (export control gatekeeper; facility clearance FSO discussion)
-- **SOCOM / Pope AFB** (operational engagement continuing)
-- **US Navy NAWCAD** (RAVEN Project partner; kickoff confirmation)
-- **Hamamatsu** (image intensifiers supplier; new critical component vendor) [NEW]
-- **NTI Systems** (GCS integration; marked IMPORTANT)
-- **Devis** (drone swarms partnership)
-- **Winmate Rugged** (rugged controllers supplier) [NEW]
-- **Redhelm Labs** (in-flight power-beaming technology partner) [NEW]
-- **NASA ARC-QS** (S2 delivery, background from previous scan)
-- **Bartington** (RAVEN Project sensor partner)
+### Client/Vendor/Partner Names (New Additions)
+- **CoVar** (thermal/propulsion systems?) [NEW]
+- **Vantor** (Thermal Engine Module supplier) [NEW]
+- Continuing: Hamamatsu, Lockheed Martin UK, US Navy NAWCAD, Krateo Sky, NTI Systems, Devis, Winmate Rugged, Redhelm Labs
 
 ## Communication Patterns
 
 ### Time Patterns (Updated)
-- **29 Oct spike:** ~11 emails concentrated 09:50–17:08 MDT (morning strategy/coordination burst)
-- **30 Oct early morning:** Continued activity 00:34–07:22 UTC (includes overnight Krateo Sky FSO acceptance, 01:31 Asana notification, Hamamatsu reply)
-- **Multi-timezone coordination:** UTC timestamps (Krateo Sky, Hamamatsu, Lockheed Martin UK, NTI Systems, Devis) indicate 24-hour international engagement
-- **Email bursts correlate with project milestones:** RAVEN kickoff confirmation (29 Oct), export control review escalation to leadership (29 Oct morning), component integration discussions (29 Oct afternoon)
+- **30 Oct spike:** 7 messages across UTC and MDT timezones
+  - 13:20 UTC (06:20 MDT) — Krateo Sky SOCOM PM response received
+  - 15:00–15:04 MDT (21:00–21:04 UTC) — CoVar meeting confirmation sent/received
+  - 21:09 UTC (14:09 MDT) — Hamamatsu image intensifiers continued discussion
+  - 21:41 UTC (14:41 MDT) — Vantor TEM multi-party message (marked IMPORTANT)
+- **Multi-timezone coordination pattern confirmed:** Early morning UTC messages (Krateo Sky, Vantor international stakeholders); afternoon MDT outbound (CoVar meeting, Hamamatsu technical follow-up)
+- **Email bursts correlate with meeting/milestone events:** CoVar business discussion (30 Oct 9:30am), Vantor TEM coordination, Hamamatsu specification urgency
 
-### Mailing Lists / Group Emails
-- **Export control review distribution:** Maciej Stachura, Jack Elston, Cory Dixon (29 Oct; escalated to leadership)
-- **Krateo Sky coordination:** Ellen McCarthy, Bob Smith, Lisa Marie Cheney, Sona Raziabeegum, Cory Dixon (export control & licensing review multi-threaded, 29 Oct)
-- **RAVEN Project coordination:** Lockheed Martin UK (Neil Morphett), US Navy NAWCAD (Anthony D. Brescia), internal BST team (Beck Cotter, Meredith Needham)
-- **GCS integration:** NTI Systems (Alexy Mukadem) direct thread
+### Mailing Lists / Group Emails (Updated)
+- **CoVar business discussion:** Pete Torrione, Mark Hibbard, Joe Camilo, Claudia Dabbs, Filip Haltmayer (external); Dan, Cory Dixon, Maciej Stachura (internal BST)
+- **Vantor TEM coordination:** Michael Rapp, Naresh Shah, Andreas Rasmussen, Lawrence Hudy (external); Dan, Jack Elston, Beck Cotter, Maciej Stachura (internal BST)
+- **SOCOM PM coordination:** Krateo Sky (Dipan Amin) + Dan (direct thread)
+- **Hamamatsu:** Dan + Jenna Ferrari (direct, rapid iteration)
 
 ### Automated/Newsletter Emails
-- Asana project notifications (work-critical; 2 digests during new period)
-- Infinite Electronics feedback survey (30 Oct, lower priority)
-- Enterprise Rent-A-Car, hotel receipts (continued travel pattern)
+- Asana notifications (continuing)
+- Meeting invitation updates (CoVar 30 Oct)
 
 ## Key Relationships
 
-### Closest Internal Collaborators (Updated by Recency)
-1. **Maciej Stachura** — Export control review originator/coordinator; strategic project integration (RAVEN, power-beaming); emerging as export control strategist
-2. **Jack Elston** — Export control review recipient; strategic account management (Lockheed Martin UK/RAVEN escalation path)
-3. **Cory Dixon** — Export control review recipient; TPM/compliance coordinator; Krateo Sky liaison
-4. **Beck Cotter** — RAVEN Project internal coordination; Devis introduction facilitator; site visit logistics
-5. **Meredith Needham** — RAVEN Project site visit/kickoff coordination (new visibility; 29 Oct forwarding)
+### Closest Internal Collaborators (Ranked by Activity & Project Scope)
+1. **Maciej Stachura** — Export control strategy, technology exploration (power-beaming), TEM project coordination (Vantor); escalation path for strategic decisions
+2. **Jack Elston** — Export control review, CoVar meeting coordination; VP Business Dev involvement suggests major contract pathway
+3. **Cory Dixon** — Export control review, CoVar meeting coordination; compliance/operations alignment
+4. **Beck Cotter** — RAVEN Project logistics, Vantor TEM discussion recipient; partnership facilitation
+5. **Meredith Needham** — RAVEN Project site visit coordination (continuing from previous scan)
 
-### External Relationships (Updated by Recency & Importance)
-- **Neil Morphett (Lockheed Martin UK)** — RAVEN Project active lead; multi-threaded 29 Oct exchanges (site visit, kickoff confirmation); strategic account escalation
-- **Anthony D. Brescia (US Navy NAWCAD)** — RAVEN Project confirmation; multi-organization coordinator
-- **Jenna Ferrari (Hamamatsu)** — NEW CRITICAL RELATIONSHIP: Image intensifiers supplier; rapid-turnaround technical discussion (3 exchanges 29 Oct); indicates active design integration cycle
-- **Bob Smith (Krateo Sky)** — Facility clearance & FSO discussion (30 Oct acceptance); facility clearance operations lead; DD254 compliance gatekeeper
-- **Alexy Mukadem (NTI Systems)** — GCS integration active thread (30 Oct, marked IMPORTANT); technical integration coordinator
-- **Adam Rich (Devis)** — Drone swarms partnership introduction response (29 Oct, marked IMPORTANT)
-- **Cindy Webster (Winmate Rugged)** — NEW VENDOR: Rugged controllers integration discussion (29 Oct)
-- **Ellen McCarthy (Krateo Sky)** — Export control negotiation gatekeeper; continued multi-threaded licensing review (29 Oct)
+### External Relationships (Ranked by Recency & Deal Importance)
+- **Jenna Ferrari (Hamamatsu)** — CRITICAL: Image intensifiers supplier; rapid technical iteration (4+ exchanges 29–30 Oct); active design cycle indicates near-term integration or procurement urgency
+- **Pete Torrione (CoVar)** — NEW CRITICAL: Business development discussion; multi-party meeting 30 Oct 9:30am MDT with internal leadership (Jack, Cory, Maciej); subject matter unknown from metadata, but IMPORTANT flagging suggests major contract/partnership
+- **Michael Rapp (Vantor)** — NEW CRITICAL: Thermal Engine Module (TEM) project; multi-party technical stakeholder coordination with international partners (Shah, Rasmussen, Hudy); escalated to Jack Elston & Maciej Stachura; marked IMPORTANT suggests strategic propulsion/thermal capability dependency
+- **Dipan Amin (Krateo Sky)** — SOCOM PM discussion coordination; marked IMPORTANT; indicates Krateo Sky playing PM/contractor support role for SOCOM engagement
+- **Neil Morphett (Lockheed Martin UK)** — RAVEN Project active lead; continuing multi-threaded coordination
 
 ## Notable Observations
 
-1. **Export control review escalated to leadership (29 Oct morning):** Maciej Stachura (CEO/COO level), Jack Elston (VP Business Dev), Cory Dixon (Operations/Compliance) all copied on Lockheed Martin UK / UK Royal Navy UAS sales export control review — indicates high-stakes regulatory pathway decision point
+1. **Two NEW critical vendor/partner relationships emerged 30 Oct:**
+   - **CoVar:** Business discussion scheduled for 30 Oct 9:30am MDT with Pete Torrione, Mark Hibbard, Joe Camilo, Claudia Dabbs, Filip Haltmayer (multi-party BST attendance: Jack Elston, Cory Dixon, Maciej Stachura) — likely thermal/propulsion systems or airframe integrator; marked IMPORTANT; full business discussion agenda indicates potential major partnership or contract pathway
+   - **Vantor:** Thermal Engine Module (TEM) project now actively coordinated; Michael Rapp's response to BST team (Maciej, Jack, Beck) includes international technical stakeholders (Naresh Shah, Andreas Rasmussen, Lawrence Hudy) — suggests Vantor may be leading or partnering on propulsion/thermal system for BST platform; marked IMPORTANT indicates high strategic priority
 
-2. **RAVEN Project logistics finalized (29 Oct):** Site visit and kickoff confirmed by US Navy NAWCAD (Brescia); Lockheed Martin UK (Morphett) confirmed; Beck Cotter and Meredith Needham handling internal logistics — multi-day event appears imminent
+2. **Thermal/Propulsion systems emerging as strategic priority:** Vantor TEM + CoVar business discussion both on 30 Oct; possible thematic connection (endurance, thermal management, propulsion) — may align with earlier Redhelm Labs power-beaming exploration thread
 
-3. **Component integration acceleration:** Three new suppliers contacted/engaged 29 Oct:
-   - Hamamatsu (image intensifiers) — 3 rapid exchanges; urgent specification cycle
-   - Winmate Rugged (rugged controllers) — controller integration for platform/swarms
-   - Redhelm Labs (power-beaming) — Maciej Stachura direct engagement; emerging technology exploration
+3. **Hamamatsu image intensifiers continued rapid iteration:** 4+ exchanges over 29–30 Oct; multiple Dan outbound messages 30 Oct (14:25, 15:00 MDT) suggest urgent specification/availability issues or design iteration cycle
 
-4. **Krateo Sky facility clearance FSO discussion scheduled:** Bob Smith (30 Oct) acceptance confirms formal facility clearance & FSO (Facility Security Officer) discussion — indicates pathway toward DD254 compliance and UK/international operations authorization
+4. **SOCOM PM coordination escalating through Krateo Sky:** Dipan Amin's marked IMPORTANT response 30 Oct (06:20 MDT) on SOCOM PM Discussion suggests Krateo Sky PM/contract support role expanding beyond export control gatekeeper; possible SOCOM program management services engagement
 
-5. **GCS integration with NTI Systems marked IMPORTANT (30 Oct):** Alexy Mukadem's message flagged as priority; suggests critical technical dependency for RAVEN or other platform
+5. **CoVar & Vantor timing suggests coordinated business/technical push:** Both multi-party, leadership-level meetings/discussions on same day (30 Oct) may indicate BST strategic vendor engagement sequence or deal coordination cycle
 
-6. **Multi-threaded SOCOM PM discussion with Krateo Sky (29 Oct):** Dan's email to "dipan@krateosky.com" with subject "SOCOM PM Discussion" indicates Krateo Sky is providing program management support for SOCOM operations — potential contractor/consultant role expanding beyond export control
+6. **International stakeholder participation in Vantor TEM:** Shah (Naresh), Rasmussen (Andreas), Hudy (Lawrence) — names suggest possible European (likely German/Swiss) technical team; Vantor appears to be multi-national organization or consortium; suggests potential export control complexity or international R&D partnership
 
-7. **Overnight activity pattern:** 30 Oct messages 00:34–01:31 UTC (17:34–18:31 MDT 29 Oct) suggests Dan working late or reviewing overnight responses from international contacts (Krateo Sky, Lockheed Martin UK, Hamamatsu all in different timezones)
+7. **Jack Elston & Maciej Stachura both copied on CoVar AND Vantor threads:** VP Business Dev + CEO/COO-level involvement in both new vendor discussions indicates C-suite strategic prioritization; unusual for both to be actively engaged on same-day vendor coordination
 
-8. **Drone swarms partnership response from Devis (29 Oct):** Adam Rich's marked IMPORTANT reply to Beck Cotter's introduction indicates positive reception; Beck Cotter facilitating strategic partnership discussions
+8. **Export control review may be gating major CoVar/Vantor partnerships:** Krateo Sky involvement (Bob Smith, Ellen McCarthy) in export control review (29 Oct) + SOCOM PM discussion escalation (30 Oct) + new CoVar/Vantor business discussions (30 Oct) suggest regulatory pathway may need to be cleared before partnerships finalized
 
-9. **Export control thread now multi-party stakeholder coordination:** Not just Dan + Ellen McCarthy exchange, but now includes Bob Smith, Lisa Marie Cheney, Sona Raziabeegum at Krateo Sky; internal escalation to Maciej, Jack, Cory — suggests formal export control review/approval process initiated for major deals
+9. **End-of-week momentum:** 30 Oct end-of-day Vantor TEM message (21:41 UTC / 14:41 MDT) sent Friday evening, suggesting urgent technical coordination or escalation needing leadership attention before week close
 
-10. **Redhelm Labs in-flight power-beaming exploration:** Neil Sorkin's reply to Maciej (copied to leadership level) suggests BST exploring power-beaming technology for extended flight endurance — may be RAVEN, SOCOM, or next-gen platform capability
+10. **Parallel technical & business development tracks:** Dan coordinating component-level technical details (Hamamatsu image intensifiers) while leadership (Jack, Maciej) managing higher-level strategic partnerships (CoVar, Vantor); suggests structured program management with Dan as technical lead and Jack/Maciej as business/strategic leads
 
 ---
 
-## Summary of Recent Momentum (25–30 Oct)
+## Summary of Momentum (25–30 Oct, Updated)
 
-**Active Projects:** RAVEN Project (multi-party kickoff coordination), SOCOM Pope (operational support), Lockheed Martin UK / UK Royal Navy deal (export control pathway), GCS integration (NTI Systems), Drone swarms opportunity (Devis), component integration (Hamamatsu, Winmate, Redhelm)
+**Active Projects:** RAVEN Project (multi-party kickoff), SOCOM Pope (PM coordination via Krateo Sky), Lockheed Martin UK / UK Royal Navy deal, GCS integration (NTI Systems), Drone swarms (Devis), Component integration (Hamamatsu, Winmate), **NEW: Thermal Engine Module (Vantor)**, **NEW: CoVar business partnership**
 
-**Critical Path Items:** Export control review approval (Maciej/Jack/Cory), RAVEN site visit logistics (Beck/Meredith), Krateo Sky facility clearance FSO discussion (Bob Smith), Hamamatsu image intensifiers specification
+**Critical Path Items:** 
+- Export control review approval (Maciej/Jack/Cory decision point)
+- Hamamatsu image intensifiers specification/availability
+- Vantor TEM project technical coordination
+- CoVar business discussion (completed/ongoing 30 Oct 9:30am MDT)
+- SOCOM PM discussion via Krateo Sky (escalating)
+- RAVEN site visit logistics (Beck/Meredith)
+- Krateo Sky facility clearance FSO discussion
 
-**Key Gatekeeper/Blockers:** Ellen McCarthy & Bob Smith (Krateo Sky export control & compliance), Jenna Ferrari (Hamamatsu component availability), Alexy Mukadem (GCS integration timeline)
+**Key Gatekeeper/Blockers:** Ellen McCarthy & Bob Smith (Krateo Sky export control), Jenna Ferrari (Hamamatsu component), Michael Rapp (Vantor TEM technical lead), Pete Torrione (CoVar business development)
+
+**Strategic Trend:** BST appears to be pursuing propulsion/thermal management partnerships (Vantor TEM + CoVar) in parallel with sensor integration (Hamamatsu) and operational platform development (RAVEN, SOCOM). Export control review may be prerequisite for international partnerships (UK MOD, Vantor if European-based).

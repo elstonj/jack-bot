@@ -14,17 +14,17 @@
     "window": "last 365 days"
   },
   "001-03_s0-ad_irad.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 0,
     "name": "[001-03] S0-AD IRAD",
     "open": 180,
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 0,
     "name": "[001-04] S0 VTOL IRAD",
-    "open": 42,
+    "open": 45,
     "window": "last 90 days"
   },
   "001-05_s1_irad.md": {
@@ -42,17 +42,17 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-10-30",
-    "completed": 12,
+    "as_of": "2026-10-31",
+    "completed": 13,
     "name": "[001-07] S3 IRAD",
-    "open": 94,
+    "open": 109,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
-    "as_of": "2026-10-30",
-    "completed": 0,
+    "as_of": "2026-10-31",
+    "completed": 5,
     "name": "[001-09] SwiftCore 4.0",
-    "open": 231,
+    "open": 226,
     "window": "last 90 days"
   },
   "001-10_swiftcore_32.md": {
@@ -77,10 +77,10 @@
     "window": "last 365 days"
   },
   "001-12_customer_support.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 1,
     "name": "[001-12] Customer Support",
-    "open": 3,
+    "open": 4,
     "window": "last 90 days"
   },
   "001-12_log_parse_website.md": {
@@ -91,17 +91,17 @@
     "window": "last 365 days"
   },
   "001-13_accounting.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 49,
     "name": "[001-13] Accounting",
     "open": 15,
     "window": "last 90 days"
   },
   "001-13_bd_pipeline.md": {
-    "as_of": "2026-10-24",
-    "completed": 8,
+    "as_of": "2026-10-31",
+    "completed": 6,
     "name": "[001-13] BD Pipeline",
-    "open": 45,
+    "open": 46,
     "window": "last 90 days"
   },
   "001-13_compliance.md": {
@@ -147,11 +147,11 @@
     "window": "last 365 days"
   },
   "001-13_hr_general.md": {
-    "as_of": "2026-10-23",
-    "completed": 19,
+    "as_of": "2026-10-31",
+    "completed": 4,
     "name": "[001-13] HR General ",
     "open": 13,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_investment.md": {
     "as_of": "2026-10-23",
@@ -175,17 +175,17 @@
     "window": "last 365 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 6,
     "name": "[001-13] Proposals",
     "open": 82,
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 212,
+    "open": 215,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -224,10 +224,10 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-10-30",
-    "completed": 8,
+    "as_of": "2026-10-31",
+    "completed": 9,
     "name": "[001-22] Fleet Maintenance",
-    "open": 4,
+    "open": 3,
     "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
@@ -335,6 +335,13 @@
     "open": 0,
     "window": "last 365 days"
   },
+  "047-01_uk_project_raven_helicopter_integration.md": {
+    "as_of": "2026-10-31",
+    "completed": 0,
+    "name": "[047-01] UK Project RAVEN: Helicopter Integration",
+    "open": 0,
+    "window": "last 90 days"
+  },
   "1331_s2_crater_costa_rica.md": {
     "as_of": "2026-10-23",
     "completed": 0,
@@ -399,10 +406,10 @@
     "window": "last 365 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-10-28",
-    "completed": 7,
+    "as_of": "2026-10-31",
+    "completed": 12,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
-    "open": 23,
+    "open": 10,
     "window": "last 90 days"
   },
   "301-2_sbir_-_hurricane_phase_ii.md": {
@@ -420,7 +427,7 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
@@ -469,10 +476,10 @@
     "window": "last 365 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-10-29",
-    "completed": 2,
+    "as_of": "2026-10-31",
+    "completed": 4,
     "name": "[600-1] SOCOM Pope",
-    "open": 60,
+    "open": 56,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
@@ -511,11 +518,11 @@
     "window": "last 90 days"
   },
   "nate_strauss_previously_assigned_tasks.md": {
-    "as_of": "2026-10-23",
-    "completed": 6,
+    "as_of": "2026-10-31",
+    "completed": 3,
     "name": "Nate Straus's previously assigned tasks",
-    "open": 59,
-    "window": "last 365 days"
+    "open": 52,
+    "window": "last 90 days"
   },
   "paige_smiths_previously_assigned_tasks.md": {
     "as_of": "2026-10-23",
@@ -546,7 +553,7 @@
     "window": "last 365 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-10-31",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
     "open": 12,

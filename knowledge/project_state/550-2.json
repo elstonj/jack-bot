@@ -33,7 +33,7 @@
         "amount": 40121.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +45,7 @@
         "amount": 119941.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "total": 160062.25,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -21568.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-30T09:49:32Z"
+    "last_reconciled": "2026-10-31T09:55:48Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -87,6 +87,12 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
+      "date": "2026-10-30",
+      "text": "From Daniel Prendergast (ts=1793307702.169889): <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System, and the Royal Navy is calling this Project RAVEN in case it matters"
+    },
+    {
+      "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
       "date": "2026-10-29",
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     },
@@ -97,6 +103,6 @@
       "text": "From Maciej: <@U04CZK4K7P0> (and <@U06CCFTNBS6>), wanted to go through a small restructuring on Asana this week to try and hopefully simplify our active R&amp;D projects, provide better visibility, and better tie in with the Kanban board. We'll discuss tomorrow, but at a high level the plan will be:\n\n• *Two-level planning:* Asana tracks long-term milestones and upcoming weekly tasks; our existing physical Kanban board manages weekly engineering execution.\n• *6-month rolling milestone plan:* Each"
     }
   ],
-  "last_full_rebuild": "2026-10-30T09:49:32Z",
+  "last_full_rebuild": "2026-10-31T09:55:48Z",
   "last_incremental_update": null
 }

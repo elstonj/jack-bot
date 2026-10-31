@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-10-30",
-    "end": "2026-10-30"
+    "start": "2024-10-31",
+    "end": "2026-10-31"
   },
-  "scanned_at": "2026-10-30",
+  "scanned_at": "2026-10-31",
   "projects": [
     {
       "project_code": "001-1",
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 38800.96,
+      "expenses": 38689.03,
       "invoice_count": 0,
       "bill_count": 9,
-      "purchase_count": 109,
+      "purchase_count": 108,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1008500.0,
-      "expenses": 403224.02,
+      "expenses": 410741.88,
       "invoice_count": 11,
       "bill_count": 21,
-      "purchase_count": 313,
+      "purchase_count": 315,
       "po_count": 0,
       "payment_count": 8,
       "qbo_class_names": [
@@ -293,10 +293,10 @@
     {
       "project_code": "451-1",
       "revenue": 0.0,
-      "expenses": 8940.62,
+      "expenses": 10461.94,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 15,
+      "purchase_count": 17,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -333,11 +333,11 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3795102.55,
-      "expenses": 4590976.49,
-      "invoice_count": 58,
+      "revenue": 3795798.67,
+      "expenses": 4593429.19,
+      "invoice_count": 59,
       "bill_count": 137,
-      "purchase_count": 2550,
+      "purchase_count": 2552,
       "po_count": 3,
       "payment_count": 54,
       "qbo_class_names": [
@@ -375,7 +375,6 @@
         "[032-2] Display Model E2",
         "[032] University of Notre Dame",
         "[034] University of Virginia",
-        "[038] University of Maryland",
         "[039-1] Refurbished S2 Oklahoma State",
         "[039] Oklahoma State University",
         "[043-1] By Light Prototype Build",

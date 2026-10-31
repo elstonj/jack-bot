@@ -57,17 +57,23 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   - Office presence preferred during work hours; in-office work simplifies project management for leadership
   - Policy not to be abused; in-person attendance expected during normal working hours
 - **Service Dog Accommodation - Brandon Messersmit's Dog "Ember"** (October 29, 2026): Brandon Messersmit requested permission to bring service dog Ember to office starting October 30, 2026. Jack Elston approved with coordination requirement to ensure no dog incompatibility issues with team members or other dogs.
+- **Halloween Costume Contest & Team Lunch** (October 30, 2026): Jack Elston organized Halloween costume contest with voting deadline 11:00am and winner announcement 11:30am at whiteboard in new space. Team transitioned to lunch at Werks restaurant following announcement. Contest encouraged guessing who each person was supposed to be in their costume. Beck Cotter thanked organizers and noted fun day/contest/lunch.
+- **Professional Cleaning Service** (October 30, 2026): Meredith Needham reminded team that cleaners coming this weekend; team members asked to leave notes if they don't want cleaners touching their desks to prevent disturbance of personal workspace organization.
+- **New Hire Orientation Meeting** (Scheduled, post-October 30, 2026): Meredith Needham scheduled quick meeting for all new hires right after All Hands on Monday to cover general processes (purchasing, timekeeping, calendars) and technology usage. Invites sent to recently hired team members.
 
 ## Action Items & Commitments
 
-### Time-Sensitive (October 29-30, 2026)
-- **Beck Cotter Medical Appointment** (October 29, 2026): Beck arriving around 9:30am after 8:30am doctor appointment
-- **Robert Edson Medical Appointment** (October 29, 2026): Robert (Principal UAS Technician) has doctor appointment; returning to office in the morning of October 30
-- **Brandon Messersmit Service Dog Introduction** (October 30, 2026): Brandon bringing service dog Ember to office; team coordination needed to ensure compatibility with any existing dogs and all team members
-- **Reusable Materials Storage Organization**: Joshua Fromm to work with team to designate storage space for reusable packing materials (boxes, fill, padding) separate from trash to avoid confusion
+### Time-Sensitive (October 30, 2026)
+- **Ali Sulehria HVAC Appointment** (October 30, 2026): Ali leaving around 2:30pm for HVAC technician appointment
+- **Beck Cotter Medical Appointment Completed** (October 30, 2026): Beck arrived around 9:30am after 8:30am doctor appointment (from October 29)
+- **Robert Edson Medical Appointment Follow-up** (October 30, 2026): Robert (Principal UAS Technician) returning to office in the morning after doctor appointment
+- **Brandon Messersmit Service Dog Introduction** (October 30, 2026): Brandon brought service dog Ember to office; team coordination ensured compatibility with any existing dogs and all team members (approved October 29)
 
 ### Ongoing
+- **New Hire Orientation Preparation**: Meredith Needham coordinating orientation meeting for all new hires (Lynn Regnier, Brandon Messersmit, Bob Edson) to be held right after All Hands meeting on Monday; agenda includes purchasing, timekeeping, calendars, and technology usage
+- **Desk Organization for Cleaning**: Team members to leave notes for professional cleaners this weekend if they don't want desks touched
 - **Eco-Friendly Supply Sourcing**: All team members requested to choose eco-friendly options when requesting supplies; prioritize paper-based tape and biodegradable materials
+- **Reusable Materials Storage Organization**: Joshua Fromm to work with team to designate storage space for reusable packing materials (boxes, fill, padding) separate from trash to avoid confusion
 - **Career Development Conversations**: All team members encouraged by Beck Cotter to think about desired future roles and career development paths as part of 4-year organizational planning
 - **AI Tool Setup**: Team members continuing to set up individual Claude connectors and exploring Gemini for cost-effective alternatives
 
@@ -79,16 +85,17 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Chad Atwood**: External contact providing healthcare provider feedback request
 - **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
 - **Eldora Ski Resort**: Providing 4-pass ski tickets to BST team members
+- **Werks Restaurant**: Team lunch venue for Halloween costume contest celebration (October 30, 2026)
 
 ## Recurring Topics & Themes
 - **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics
-- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); recent focus on new hire day-to-day logistics and team coordination
-- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction
+- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination
+- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments
-- **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, leadership supporting work-life balance; new attention to accommodations for team members with service animals
-- **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference; safety policies around code generation; practical AI assistant templates for UAS technician workflows
-- **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and HVAC service calls
+- **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals
+- **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference (Jack confirmed using Gemini for image/media creation); safety policies around code generation; practical AI assistant templates for UAS technician workflows
+- **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials; Gemini usage for creative tasks to manage Claude API costs
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -99,38 +106,28 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Eldora Mountain Resort**: Team ski pass availability through company
 - **Claude AI Academy**: Resources for Claude setup and best practices <https://academy.claude.com/?utm_source=claude_ai&utm_medium=admin_settings&utm_content=home>
 - **Claude AI Assistant (Personal)**: Pre-configured with BST knowledge, process documentation, and approved connectors (email, calendar, Slack, Google Drive); team to enable individual connectors per preferences
-- **Gemini**: Cost-included alternative within workspace plan for general AI queries; recommended to reduce Claude API expenses
+- **Gemini**: Cost-included alternative within workspace plan for general AI queries and creative tasks (image generation); recommended to reduce Claude API expenses
+- **Werks Restaurant**: Team dining venue in Boulder
 
 ## Recent Activity
 
-### October 29, 2026
+### October 30, 2026
 
-**Team Logistics & Arrivals**
-- Beck Cotter arriving around 9:30am after 8:30am doctor appointment
-- Robert Edson (new Principal UAS Technician) heading out to doctor appointment; returning to office in the morning
+**Halloween Team Event & Costume Contest**
+- Jack Elston organized Halloween costume contest with voting open through 11:00am (09:16). Multiple reminder notifications sent to team members at 10:18 and 10:11 to ensure participation in voting.
+- Winner announcement held at 11:30am by whiteboard in new space (11:01), followed by team lunch at Werks restaurant.
+- Beck Cotter thanked organizers and confirmed fun day/contest/lunch experience (13:41). Beck also complimented Brandon Messersmit's service dog Ember (14:01).
 
-**Eco-Friendly Packing Initiative Launch**
-- Jack Elston announced comprehensive new policy (08:33) to reduce single-use, non-biodegradable materials:
-  - Reusing boxes, fill, and padding from incoming shipments (noting team already does this mostly)
-  - Switching to paper-based tape
-  - Using biodegradable packing materials to replace plastic alternatives
-  - All team members asked to consider eco-friendly options when requesting supplies
-- Joshua Fromm identified issue (08:48): Someone discarded padded bags he was saving; suggested creating designated storage space for reusable materials to prevent confusion between trash and reusable items
-- Josh Waldman inquiry (13:29): Asked if anyone is saving packing materials
+**Team Coordination & Absences**
+- Ali Sulehria leaving around 2:30pm for HVAC technician appointment (07:02).
 
-**Welcome & Amenities**
-- Robert Edson offered fresh bagels to team (09:34)
-- Meredith Needham thanked unnamed team member (possibly with user ID U07FN4QSNDN) for handling responsibilities during her absence (09:42)
+**Professional Office Cleaning**
+- Meredith Needham reminded team (14:54) that professional cleaners coming this weekend; team members asked to leave notes on desks if they don't want cleaners touching their workspace to prevent disruption.
 
-**Work-From-Home Policy Clarification**
-- Jack Elston issued clarification (11:29) after noticing recent confusion:
-  - Laptops welcome to take home for personal hours, but no BST or customer IP on personal computers
-  - WFH available for legitimate personal needs (appliance repair, childcare, etc.)
-  - Office presence preferred during work hours to simplify project management
-  - Policy should not be abused; in-person attendance expected during normal working hours
-  - Offered to clarify further if confusion persists
+**New Hire Orientation Planning**
+- Meredith Needham announced (10:22) quick orientation meeting scheduled for all new hires right after upcoming All Hands meeting on Monday. Meeting agenda covers general processes (purchasing, timekeeping, calendars) and technology usage; invites sent to all recently hired team members.
 
-**Service Dog Accommodation Request**
-- Brandon Messersmit asked permission (14:35) to bring service dog Ember to office starting next day
-- Joshua Fromm expressed enthusiasm (14:01)
-- Jack Elston approved (14:43) with requirement to coordinate with team to ensure no dog compatibility issues
+**AI Tool Usage Clarification**
+- Alex Lomis humorously asked if Claude credits being used for costume contest image/media (16:50).
+- Jack Elston clarified (16:58) that the image was created with Gemini, not Claude, demonstrating practical cost management by using included Gemini alternative for creative/image generation tasks while reserving Claude for knowledge-based and process-oriented AI assistance.
+- Jack shared cultural reference video for team members unfamiliar with original source material (18:35).

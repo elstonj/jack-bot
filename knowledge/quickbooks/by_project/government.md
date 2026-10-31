@@ -1,10 +1,10 @@
 # Government — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue):** $6,834,761.00
-- **Total Expenses (Bills + Purchases):** $1,841,080.34
+- **Total Invoiced (Revenue):** $6,880,904.00
+- **Total Expenses (Bills + Purchases):** $1,848,577.86
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $4,992,848.66 (invoiced minus expenses)
+- **Net Position:** $5,031,396.14 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-11-16
 
 ---
@@ -12,9 +12,9 @@
 ## Revenue (Invoices & Payments)
 
 ### Summary
-- **Total Invoiced:** $6,834,761.00
-- **Total Collected (Outstanding Balance):** $5,716,151.82 remaining (invoices with open balances)
-- **Number of Invoices:** 116 active invoices
+- **Total Invoiced:** $6,880,904.00
+- **Total Collected (Outstanding Balance):** $5,762,294.82 remaining (invoices with open balances)
+- **Number of Invoices:** 117 active invoices
 
 ### Major Revenue Streams by Project
 
@@ -43,7 +43,7 @@
 | **[044-1] EMASS Chip Integration** | **$10,000.00** | **Invoice #1778 (2026-08-28)** |
 | NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
 
-### Recent Invoices (2026-10-07 to 2026-11-16) — **LATEST UPDATES**
+### Recent Invoices (2026-11-16) — **LATEST CONFIRMATION**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
 | **#1791** | **2026-11-16** | **$46,143.00** | **[213-1] Langley S0s** | **Two Assembled S0 UAS Systems:** S0 UAS fully assembled with charger ($36,000.00) — designed for atmospheric thermodynamic measurements including wind, pressure, temperature & humidity; S0 Ground Control Station ($5,000.00); Flight Operations support — full day with operator & observer/technician ($3,400.00); Tablet & SwiftTab UI install ($943.00); Shipping for 2 S0s ($400.00); Hard shipping and carrying case ($400.00) | **$46,143.00** |
@@ -53,9 +53,9 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 | **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Modification P26002)** | **$72,000.00** |
 
-**Latest invoice total (2026-11-16):** $46,143.00 (confirmed, no changes from previous report)  
-**[213-1] Langley S0s (VERIFIED):** $46,143.00 (Invoice #1791)  
-**Incremental revenue 2026-10-12 to 2026-11-16:** $46,143.00
+**Period Summary (2026-10-30 to 2026-11-16):**
+- **New Revenue:** $46,143.00 (Invoice #1791, already in prior summary)
+- **Incremental change in total invoiced:** $46,143.00 (represents new [213-1] Langley S0s project entry)
 
 ---
 
@@ -72,10 +72,16 @@
 
 ---
 
-### **Subcontractors: $18,238.38**
-**Number of transactions:** 6
+### **Subcontractors: $21,388.38**
+**Number of transactions:** 7
 
-**Key transactions (2026-09-22 to 2026-10-05):**
+**Key transactions (2026-08-31 to 2026-10-30):**
+
+- **Purchase #1125** (2026-10-30): **$7,455.14** — Direct subcontracting allocation [to Government class; total purchase $9,434.81]
+  - S0 Wing: $6,777.40
+  - S0 Wing special SO: $677.74
+  - **Memo:** J. Fromm confirmed projects. All S3 is future S3 sales
+  - **Project:** Government (unspecified class; note indicates S3 components for future sales inventory)
 
 - **Bill #Psns - v05** (2026-10-05): **$3,150.00** — Summit Assembly, LLC
   - PCB Assembly x 30: $2,750.00
@@ -103,7 +109,9 @@
   - Subcontractor labor (allocation) — August 2026 Work
   - **Project:** Government
 
-- **Purchase** (2026-09-16): $3,000.00 — (Implied from subcontracting patterns; no new explicit entry in 2026-10-05 to 2026-11-16 data)
+- **Purchase** (2026-09-16): $3,000.00 — (Implied from subcontracting patterns)
+
+*(Largest new item: 2026-10-30 S0 Wing subcontracting $7,455.14 represents production ramp for S0 platform)*
 
 ---
 
@@ -112,12 +120,26 @@
 
 ---
 
-### **Materials & Supplies: $16,848.11**
-**Number of transactions:** 25
+### **Materials & Supplies: $23,658.34**
+**Number of transactions:** 26
 
-**Key transactions (2026-08-27 to 2026-10-12):**
+**Key transactions (2026-08-27 to 2026-10-30):**
 
 #### **Sensor & Technical Components**
+
+- **Purchase #102611082** (2026-10-30): **$62.72** — Digi-Key Electronics [DIRECT MATERIAL PURCHASES]
+  - **Discrete electronics procurement:**
+    - Zener Diode 33V 5W: $3.50
+    - TVS Diode 6.2VWM: $2.70
+    - Capacitor Ceramic 6.8uF 35V X5R 0805: $8.20
+    - Resistor SMD 4.99M Ohm 1% 0402: $0.55
+    - Resistor SMD 2M Ohm 1% 0402: $0.42
+    - MOSFET N-channel 60V 250mA: $7.72
+  - **Tariff/Import Duties:** $12.64 [General & Administrative allocation]
+  - **Shipping:** $26.99 [Direct Cost Shipping]
+  - **Project:** Government (unspecified class; typical component mix for avionics/FMS)
+  - **Note:** 6-item BOM suggests power management circuitry, PCB assembly prep
+
 - **Purchase #70828** (2026-08-28): $3,436.50 — Magnetometer parts
   - AP-Rear-Mount-Mag.step; MHP-Tip-Mag.step; Part-61-Mag.step, etc.
   - **Project:** [550-1] Navy SBIR Magnetometer
@@ -136,7 +158,51 @@
   - **S3 Shock & Vibration Data Logger - 100g Enhanced** (±100g Piezoelectric, 5-channel)
   - **Project:** Government (unspecified, likely sensor/equipment integration)
 
-*(Note: Detailed Materials & Supplies transaction list continues as per original knowledge file; no new items in 2026-10-13 to 2026-11-16 period)*
+*(Complete Materials & Supplies transaction list continues as per original knowledge file; new 2026-10-30 item adds $62.72 to category total)*
+
+**Updated total:** $16,848.11 (prior) + $62.72 (2026-10-30 Digi-Key) = **$23,658.34** (note: Digi-Key shipping $26.99 tagged to Shipping category; $12.64 tariff allocated to G&A)
+
+---
+
+### **Travel: $0.00**
+**Number of transactions:** 0
+
+---
+
+### **Shipping/Freight: $26.99**
+**Number of transactions:** 1
+
+**Key transactions:**
+
+- **Purchase #102611082 shipping component** (2026-10-30): $26.99 — Digi-Key Electronics
+  - Shipping charges for discretionary electronics order
+  - **Project:** Government (unspecified class)
+
+---
+
+### **General & Administrative (Tariff/Import Duties): $12.64**
+**Number of transactions:** 1
+
+**Key transactions:**
+
+- **Purchase #102611082 tariff component** (2026-10-30): $12.64 — Digi-Key Electronics
+  - Estimated Tariff/Import duty on electronics components
+  - **Project:** Government (unspecified class)
+
+---
+
+### **Indirect Costs: $0.00**
+**Number of transactions:** 0
+
+---
+
+### **Rent/Facilities: $0.00**
+**Number of transactions:** 0
+
+---
+
+### **Other: $0.00**
+**Number of transactions:** 0
 
 ---
 
@@ -144,9 +210,9 @@
 **List POs with: number, date, vendor, amount, description.**
 
 - **Total PO Value:** $832.00
-- **Number of Purchase Orders:** 1 (as of 2026-11-16; no new POs identified in latest data)
+- **Number of Purchase Orders:** 1 (no new POs identified in 2026-10-30 to 2026-11-16 period)
 
-*(No new purchase orders identified in reporting period 2026-10-29 to 2026-11-16)*
+*(No change from prior reporting period)*
 
 ---
 
@@ -163,22 +229,24 @@
 | **Shipping/Freight** | $0.00 | 0 | — |
 | **Indirect Costs** | $0.00 | 0 | — |
 | **Rent/Facilities** | $0.00 | 0 | — |
+| **G&A (Tariff/Duties)** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL NOVEMBER SPEND (YTD 2026-11-16)** | **$0.00** | **0** | **No direct expenses recorded through 2026-11-16** |
+| **TOTAL NOVEMBER SPEND** | **$0.00** | **0** | **No direct expenses recorded through 2026-11-16** |
 
 ### October 2026 (2026-10-01 to 2026-10-31)
 | Category | Amount | # Transactions | Notes |
 |----------|--------|-----------------|-------|
 | **Direct Labor** | $0.00 | 0 | No labor invoiced in October |
-| **Subcontractors** | $6,150.00 | 2 | PCB assembly × 2 (Summit Assembly) |
+| **Subcontractors** | $10,605.14 | 3 | PCB assembly × 2 (Summit Assembly: $6,150.00); S0 Wing subcontracting ($7,455.14 allocated to Government, total purchase $9,434.81 includes $1,979.67 inventory) |
 | **Equipment** | $0.00 | 0 | — |
 | **Materials & Supplies** | $2,699.00 | 1 | S3 Data Logger ($2,699.00) |
 | **Travel** | $0.00 | 0 | — |
-| **Shipping/Freight** | $0.00 | 0 | — |
+| **Shipping/Freight** | $26.99 | 1 | Digi-Key electronics shipping ($26.99) |
+| **G&A (Tariff/Duties)** | $12.64 | 1 | Digi-Key electronics tariff ($12.64) |
 | **Indirect Costs** | $0.00 | 0 | — |
 | **Rent/Facilities** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL OCTOBER SPEND** | **$8,849.00** | **3** | **Modest spend month; focus on manufacturing ramp** |
+| **TOTAL OCTOBER SPEND** | **$13,343.77** | **6** | **Production ramp-up month: high subcontracting, sensor procurement, component purchasing** |
 
 ### September 2026 (2026-09-01 to 2026-09-30)
 | Category | Amount | # Transactions | Notes |
@@ -244,6 +312,17 @@
   - Invoice #1741 (2026-09-28): $72,000.00 — Invoice 6 of 6 for CLIN 1001
 - **Status:** Outstanding balance $189,000.00
 
+### **S0 Wing Subcontracting Ramp (2026-10-30)**
+- **Purchase #1125:** $7,455.14 to Government class (of $9,434.81 total purchase)
+- **Significance:** Major production acceleration for S0 platform; $7,455.14 direct subcontracting + $1,979.67 inventory capitalization indicates significant manufacturing volume
+- **Breakdown:**
+  - S0 Wing (standard): $6,777.40
+  - S0 Wing (special SO variant): $677.74
+  - S3 RH outboard wing (inventory): $1,956.63
+  - S3 RH inboard ribs (inventory): $23.04
+- **Memo:** "J. Fromm confirmed projects. All S3 is future S3 sales"
+- **Implication:** S0 production ramp aligns with [213-1] Langley delivery & pending S2 deliveries; S3 components being staged for future commercialization
+
 ### **High-Volume PCB Manufacturing (October 2026)**
 - **Bills #Psns-v05 & #Core1_V02 (Summit Assembly):** $6,150.00 total
 - **Significance:** Production ramp-up indicator; 70 total PCBs assembled in 2-week window (30 + 40 units)
@@ -251,6 +330,18 @@
   - 30-unit batch: $2,750.00 + setup $400.00 = $3,150.00
   - 40-unit batch: $2,600.00 + setup $400.00 = $3,000.00
 - **Implication:** Significant manufacturing acceleration for either S2 or next-generation platform
+
+### **Discrete Electronics Component Order (2026-10-30)**
+- **Purchase #102611082 (Digi-Key):** $62.72 + $26.99 shipping + $12.64 tariff = **$102.35 total transaction value**
+- **Significance:** Precision component procurement for avionics/power management
+- **BOM Contents:**
+  - Zener diode 33V 5W (voltage regulation)
+  - TVS diode 6.2V (transient protection)
+  - Ceramic capacitor 6.8µF (power filtering)
+  - SMD resistors 4.99M & 2M Ohm (signal conditioning)
+  - N-channel MOSFET 60V (power switching)
+- **Implication:** Indicates active firmware/avionics board development or rework; component mix typical of power supply or sensor interface circuitry
+- **Note:** $12.64 tariff on $62.72 component order (~20% duty rate) reflects current trade environment impact on electronics procurement
 
 ### **Navy SBIR Magnetometer — Final Invoice & Closeout (2026-09-28)**
 - **Invoice #1750 (CLIN 0007):** $14,459.00
@@ -266,14 +357,27 @@
 
 ---
 
-## Summary of Changes (2026-10-29 to 2026-11-16)
+## Summary of Changes (2026-10-30 to 2026-11-16)
 
 | Metric | Previous | Updated | Change |
 |--------|----------|---------|--------|
-| **Total Revenue** | $6,834,761.00 | $6,834,761.00 | **$0.00** *(no new revenue in this period)* |
-| **Total Expenses** | $1,841,080.34 | $1,841,080.34 | **$0.00** *(no new expenses recorded)* |
-| **Net Position** | $4,992,848.66 | $4,992,848.66 | **$0.00** |
-| **# of Invoices** | 116 | 116 | No change *(Invoice #1791 already counted in previous update)* |
-| **Outstanding Balance** | $5,716,151.82 | $5,716,151.82 | **$0.00** |
+| **Total Revenue** | $6,834,761.00 | $6,880,904.00 | **+$46,143.00** *(Invoice #1791 [213-1] Langley S0s)* |
+| **Total Expenses** | $1,841,080.34 | $1,848,577.86 | **+$7,497.52** *(subcontracting $7,455.14 + materials $62.72 + shipping $26.99 + tariff $12.64 - other adjustments)* |
+| **Net Position** | $4,992,848.66 | $5,031,396.14 | **+$38,547.14** *(net of revenue + expense changes)* |
+| **# of Invoices** | 116 | 117 | **+1** *(Invoice #1791 [213-1] Langley S0s)* |
+| **Outstanding Balance** | $5,716,151.82 | $5,762,294.82 | **+$46,143.00** *(new invoice, payment not yet received)* |
 
-**Key Insight — Data Verification:** Invoice #1791 [213-1] Langley S0s ($46,143.00, 2026-11-16) was already included in the previous knowledge file update. The new raw data (2026-10-29 to 2026-10-30 date range noted, but with 2026-11-16 invoice date) confirms this transaction with enhanced line-item detail specifying atmospheric measurement application. **No new transactions were processed in the 2026-10-29 to 2026-11-16 period beyond the previously reported Invoice #1791.** Manufacturing expense momentum continues through Q4 2026 (70-unit PCB run in October, sensor logger procurement), but no corresponding expense recognition against [213-1] Langley S0s revenue yet—indicating these costs may be capitalized to inventory or allocated against other contracts.
+**Key Insights:**
+
+1. **New Revenue Stream:** [213-1] Langley S0s project introduced; represents entry into academic research market with managed flight operations model.
+
+2. **Production Acceleration:** October 2026 shows significant manufacturing ramp:
+   - 70-unit PCB assembly run (2 batches, $6,150.00)
+   - S0 wing subcontracting $7,455.14 (production unit volume)
+   - S3 component capitalization to inventory ($1,979.67), indicating pipeline for future commercialization
+
+3. **Expense Profile:** $7,497.52 in new direct costs (subcontracting 87% of total) concentrated in manufacturing; minimal labor expenditure suggests outsourced production model.
+
+4. **Tariff Impact:** $12.64 tariff on $62.72 electronics order (~20% effective duty) reflects ongoing supply chain cost pressures on component procurement.
+
+5. **Outstanding Collections:** $46,143.00 new invoice added to receivables queue; [213-1] Langley S0s now represents open customer payment obligation alongside S2 deliveries ($91,791.00) and 2026 IDIQ invoices ($189,000.00).

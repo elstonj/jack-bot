@@ -1,37 +1,36 @@
-_Asana snapshot as of 2026-10-30: 3 open tasks, 1 completed (last 90 days)._
+_Asana snapshot as of 2026-10-31: 4 open tasks, 1 completed (last 90 days)._
 
 # [001-12] Customer Support
 
 ## Overview
-- **Client/Customer**: Multiple (NOAA, Stanford University, Embry-Riddle Aeronautical University)
-- **Timeline**: Active through at least 2026-10-30
-- **Status**: Active — 3 open tasks, 1 recently completed
-- **Team Members**: Beck Cotter, Josh Fromm
-- **Risk Signals**: ERAU E2 repair has no due date despite "High" customer impact and RMA sent 9/14; S0-99 quote due 2026-09-30 appears time-sensitive
+- **Client/Customer**: Multiple customers (NOAA, Stanford, ERAU, NASA)
+- **Timeline**: Active through Q1 2027 (latest deliverable due 2027-01-04)
+- **Status**: Active — ongoing customer support and quote requests
+- **Team Members**: Beck Cotter, Josh Fromm, Dan Prendergast
+- **Risk Signals**: ERAU E2 repair has no due date and high customer impact; RMA sent 9/14 with no resolution status. Quote for Stanford has incomplete notes (appears truncated).
 
 ## Key Deliverables & Milestones
-| Task | Customer | Due Date | Status | Priority |
-|------|----------|----------|--------|----------|
-| S0-99 Refurbishment Quote | NOAA | 2026-09-30 | Open | Medium Impact |
-| Tanay @ Stanford Quote | Stanford University | 2026-10-30 | Open | Low Impact |
-| ERAU E2 Repair | Embry-Riddle Aeronautical University | Unscheduled | Open | **High Impact** |
+| Task | Customer | Assignee | Due Date | Status |
+|------|----------|----------|----------|--------|
+| S0-99 refurbishment quote | NOAA | Beck Cotter | 2026-09-30 | Open |
+| Quote for Stanford (2x S2, parts, ground station, launcher) | Stanford/Tanay | Josh Fromm | 2026-10-30 | Open |
+| ERAU E2 repair (flight behavior troubleshooting) | ERAU | Beck Cotter | No due date | Open, High priority |
+| Refresher & new sim training | NASA | Dan Prendergast | 2027-01-04 | Open |
 
 ## Task Summary
-- **Total**: 4 tasks (3 open, 1 completed)
+- **Total**: 4 open, 1 completed (20% completion rate)
 - **By Assignee**:
   - Beck Cotter: 2 tasks (S0-99 quote, ERAU E2 repair)
-  - Josh Fromm: 2 tasks (Stanford quote, Jaia containers return — completed)
-- **Completion Rate**: 25% (1 of 4 completed)
-- **Custom Field Usage**: Customer Impact ratings drive prioritization; Issue Type tags track technical vs. operational matters
+  - Josh Fromm: 1 open task, 1 completed
+  - Dan Prendergast: 1 task (NASA training)
+- **Notable Patterns**: Heavy reliance on custom field tracking (Customer Impact levels, Issue Types). Multiple technical/refurbishment quotes in progress.
 
 ## Recent Activity
-- **Completed (2026-10-21)**: Jaia bot containers returned to Lakeland with S0 shipment (Josh Fromm) — 6 days after due date
-- **Open & Approaching**: S0-99 refurbishment quote to NOAA due 2026-09-30 (Beck Cotter); involves damage claim and customer communication
-- **Pending**: Stanford quote in progress (Josh Fromm); Tanay needs 2 full S2s, parts, ground station, launcher, plus NRE for design updates
-- **Critical Gap**: ERAU E2 repair (Beck Cotter) — RMA issued 9/14 but no due date set despite high customer impact
+- **Completed (2026-10-21)**: Jaia containers returned to Lakeland (5 days past due date of 2026-10-15)
+- **Current**: NOAA quote due 2026-09-30; Stanford quote due 2026-10-30; ERAU repair flagged as high-impact but lacks due date and status update since RMA sent 9/14
 
 ## Notes & Context
-- **S0-99 (NOAA)**: Aircraft damage; UPS claim not expected to cover costs. Quote must go to Laura Rock and Nikolai F. Pawlenk.
-- **Stanford Quote**: Scope clearly defined but requires design NRE to accommodate customer requirements.
-- **ERAU E2**: Troubleshooting inconsistent flight behavior; RMA sent mid-September but lacks a target resolution date — recommend urgent follow-up to set expectation.
-- Project scope centers on quotes, repairs, and fulfillment — operational support rather than development. Team is lean (2 active assignees).
+- **NOAA (S0-99)**: Aircraft damage not covered by UPS insurance; quote needed for refurbishment. Recipients: Laura.rock@noaa.gov, Nikolai.f.pawlenk
+- **ERAU E2**: Troubleshooting inconsistent flight behavior; RMA initiated 9/14 with no closure status — **recommend immediate status check**
+- **Stanford**: Quote notes truncated; appears to involve significant NRE for design updates (custom launcher/ground station configuration)
+- **NASA**: Sim training scheduled for early 2027

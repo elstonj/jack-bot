@@ -16,7 +16,7 @@
     "number": "1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
-    "end_date": "2026-08-25",
+    "end_date": "2025-11-30",
     "payment_cadence": null,
     "documents": [
       "drive://Attachment A-Statement of Work (1).pdf",
@@ -31,13 +31,13 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, Dual GPS RTK, 10Hz met data, Firmware customization, Battery endurance, Manufacturability improvements, Data buffering",
+        "description": "Engineering Tasks (NRE): laser config updates, AirOps fields, dual GPS RTK, 10Hz met data, firmware/comms customization, extended endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for Dual GPS RTK, Extended endurance battery tweaks, Manufacturability improvements",
+        "description": "Materials for dual GPS, extended endurance battery tweaks, and manufacturability improvements",
         "source_doc": null
       },
       {
@@ -52,19 +52,19 @@
         "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "other_qbo": {
         "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "total": 969392.07,
       "by_line_item": {}
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-30T09:48:58Z"
+    "last_reconciled": "2026-10-31T09:55:15Z"
   },
   "milestones": [
     {
@@ -165,6 +165,6 @@
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-30T09:48:58Z",
+  "last_full_rebuild": "2026-10-31T09:55:15Z",
   "last_incremental_update": null
 }

@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Joint Forces Command evaluation for Canadian Rangers Arctic operations. Engineering Sprint ROM/SOW submitted 2026-07-31. Demos planned: Ottawa June 24\u201326, 2026 (flight test + vendor meet); Whitehorse Arctic Nov\u2013Apr 2027. Customer seeks 120km range (1h 35min TOF) S3 with EO/IR gimbal. End of Q2 2027 target at earliest; no delivery dates promised yet. Sales plan organization in progress as of 2026-10-21.",
+  "notes": "Joint Forces Command evaluation for Canadian Rangers Arctic operations. ROM/SOW submitted 2026-07-31. Demos: Ottawa June 24\u201326, 2026 (flight test + vendor meet); Whitehorse Arctic Nov\u2013Apr 2027. Customer seeks 120km range (1h 35min TOF) S3 with EO/IR gimbal. End of Q2 2027 target at earliest; no delivery dates promised. Sales plan organization began 2026-10-21.",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "parts"
   ],
-  "last_evidence_date": "2026-10-29",
+  "last_evidence_date": "2026-10-30",
   "last_contact_date": null
 }

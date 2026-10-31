@@ -431,18 +431,19 @@
 
 ### Universities — Multi-Institution Academic Network
 - **Relationship context**: Research collaborations, student recruitment, conference participation
-- **Key universities**:
-  - MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
+- **Key universities**: MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
 
 ### Electronics/PCB Manufacturing & Assembly
 - **Relationship context**: Vendors for circuit board manufacturing and assembly
 - **Key contacts**:
   - **4PCB** — PCB Manufacturing
-    - Email: sales@4pcb.com, tim@4pcb.com, lfletcher@4pcb.com
+    - Email: sales@4pcb.com, tim@4pcb.com, lfletcher@4pcb.com, kim@4pcb.com, rmora@4pcb.com, CAMsupervisor@4pcb.com, AssemblyRegion103@4pcb.com, ACProductionControl@4pcb.com, SalesRegion12@4pcb.com, assemblytechsupport@4pcb.com, hold@4pcb.com, itar@4pcb.com
   - **AAPCB** — PCB Services
     - Email: sales@aapcb.com
   - **Circuits West** — Electronics Manufacturing
-    - Email: jsweeney@circuitswest.com, kdovey@circuitswest.com
+    - Email: jsweeney@circuitswest.com, kdovey@circuitswest.com, sales@circuitswest.com
+  - **SSA PCB** — PCB Manufacturing
+    - Email: info@ssapcb.com, b.miller@ssapcb.com, accounting@ssapcb.com
 
 ### Component Suppliers
 - **Relationship context**: Vendors for electronics, avionics, and mechanical components
@@ -450,11 +451,11 @@
   - **SparkFun** — Electronics Components
     - Email: sales@sparkfun.com
   - **DigiKey** — Electronics Distributor
-    - Email: sales@digikey.com, DataCenter@digikey.com
+    - Email: sales@digikey.com, DataCenter@digikey.com, customer.service@digikey.com, noncats@digikey.com, quotes@digikey.com, reply-to@e.digikey.com
   - **Mouser** — Electronics Distributor
-    - Email: sales@mouser.com
+    - Email: sales@mouser.com, orders@mouser.com
   - **Arrow Electronics** — Components Distributor
-    - Email: websales@arrow.com
+    - Email: websales@arrow.com, myarrow@arrow.com
   - **McMaster-Carr** — Industrial Supplier
     - Email: tax@mcmaster.com
 
@@ -462,7 +463,7 @@
 - **Relationship context**: Competitors, partners, vendors
 - **Key contacts**:
   - **Leptron Drones** — UAS Manufacturer
-    - Email: sheath@leptron.com, andrewl@leptron.com
+    - Email: sheath@leptron.com, andrewl@leptron.com, leptronjohn@gmail.com
   - **Freewave Technologies** — Wireless Communications
     - Email: rsarno@freewave.com, tcrawford@freewave.com
   - **3DR Robotics** — UAS Manufacturer
@@ -486,9 +487,9 @@
   - **US Bank** — Banking Services
     - Email: christopher.cirelli@usbank.com, david.heese@usbank.com
   - **Wells Fargo** — Banking Services
-    - Email: angus.j.timmons@wellsfargo.com, eric.j.christoffersen@wellsfargo.com
+    - Email: angus.j.timmons@wellsfargo.com, eric.j.christoffersen@wellsfargo.com, daniel.armour@wellsfargo.com, Clay.Wyatt@wellsfargo.com, Scott.Billington@wellsfargo.com, Taylor.J.Worthington@wellsfargo.com, James.Krupar@wellsfargo.com, katie.a.martin@wellsfargo.com
   - **Paychex** — Payroll & HR Services
-    - Email: Multiple Paychex contacts (payroll administration)
+    - Email: jerrickson@paychex.com, mlapaglia@paychex.com, paychexinsurance@paychex.com, 5500Bond@paychex.com, 401kcustomerservice@paychex.com, pcottingham@paychex.com, paychexbenefitaccount@paychex.com, hb_customerservicewest@paychex.com, kkhozooei@paychex.com, epineda@paychex.com, paychexhsa@paychex.com, clientsupport_paperwork@paychex.com, uwf_core_auto_r4@paychex.com
   - **Square** — Payment Processing
     - Email: send@square.com
 
@@ -504,7 +505,7 @@
 - **Relationship context**: Office/facility leasing and management
 - **Key contacts**:
   - **Tebo Properties** — Property Management
-    - Email: leasingassistant@teboproperties.com, mail@teboproperties.com
+    - Email: leasingassistant@teboproperties.com, mail@teboproperties.com, jmccormick@tebo.biz, mlaatsch@teboproperties.com, jhruby@teboproperties.com
   - **Boulder County** — Real Estate Assessor
     - Email: posinfo@bouldercounty.org
 
@@ -533,12 +534,16 @@
     - Email: newstips@9news.com, anusha.roy@9news.com
   - **KDVR** (Denver Fox)
     - Email: tips@kdvr.com
+  - **7 News** (Denver)
+    - Email: 7NEWS@thedenverchannel.com
   - **Denver Post** — News Organization
     - Email: cskilling@denverpost.com
   - **Daily Camera** (Boulder) — Local News
     - Email: webmaster@dailycamera.com
+  - **Alamos News** — Regional News
+    - Email: news@alamosanews.com
   - **CNN** — Major News Organization
-    - Email: tips@cnn.com, help@cnn.com
+    - Email: tips@cnn.com, help@cnn.com, livenowtips@fox.com
   - **NPR/PBS** — Public Broadcasting
     - Email: viewermail@newshour.org
   - **ABC News** — Major News Organization
@@ -546,7 +551,7 @@
   - **NBC News** — Major News Organization
     - Email: tips@nbcuni.com
   - **FOX News** — Major News Organization
-    - Email: FWDesk@fox.com
+    - Email: FWDesk@fox.com, livenowtips@fox.com
   - **Huffington Post** — News Organization
     - Email: scoop@huffingtonpost.com
   - **Drone News/Publications**:
@@ -556,9 +561,9 @@
 - **Relationship context**: Technical partners, subcontractors
 - **Key contacts**:
   - **CH2M** (Engineering)
-    - Email: Multiple CH2M contacts (infrastructure and environmental consulting)
+    - Email: Derrick.Rivera@ch2m.com, Tamir.Klaff@ch2m.com, Daniel.Baxter@ch2m.com, Stephen.Ludwig@ch2m.com, Lawrence.Sinco@ch2m.com, Jason.Jung@ch2m.com, Kacie.Henderson@ch2m.com, Cole.Crawley@ch2m.com, Ian.Eldridge@ch2m.com, Nils.Magelssen@ch2m.com, Bill.Nechak@ch2m.com, Alexander.Mahrou@ch2m.com
   - **Advanced Space** — Space Technology
-    - Email: cain@advanced-space.com, thomas@advanced-space.com, kayser@advancedspace.com
+    - Email: cain@advanced-space.com, thomas@advanced-space.com, kayser@advancedspace.com, eriklc@advancedspace.com, austin.anderson@advancedspace.com, alec.forsman@advancedspace.com, nathan.re@advancedspace.com
   - **Aztec Consultants** — Engineering Consulting
     - Email: emena@aztecconsultants.com
   - **Creare** — Engineering R&D
@@ -568,9 +573,9 @@
 - **Relationship context**: Partners, competitors, major customers
 - **Key contacts**:
   - **L3Harris Technologies** — Defense Contractor
-    - Email: Multiple L3Harris contacts
+    - Email: Josh.Davis@l3t.com, Robert.Biddle@l3harris.com, Ray.Miraflor@l3harris.com, Michael.Balthazar@l3harris.com, Elliot.Hart@l3harris.com, Jon.Pfafflin@l3harris.com, Manu.Singh@l3harris.com, Christopher.Hewitt@l3harris.com, Shelly.LeValley@l3harris.com, bradley.wynn@l3harris.com, Jon.Earnist@l3harris.com
   - **NGC (Northrop Grumman)** — Defense Contractor
-    - Email: daniel.sokol@ngc.com, joe.ahn@ngc.com, calvin.pennamon@ngc.com
+    - Email: daniel.sokol@ngc.com, joe.ahn@ngc.com, calvin.pennamon@ngc.com, kevin.mcgrath@ngc.com, raul.rodriguez@ngc.com
   - **Lockheed Martin** — Defense Contractor
     - Email: alasdair.brackenridge@global.lmco.com
 
@@ -578,10 +583,14 @@
 - **Relationship context**: Federal funding and acquisition programs
 - **Key contacts**:
   - **NSPIRES** (NASA Proposal System)
-    - Email: nspires-help@nasaprs.com
+    - Email: nspires-help@nasaprs.com, Pburgess@nasaprs.com
   - **SBA (Small Business Administration)**
     - Email: Brittany.Sickler@sba.gov, susan.lourie@sba.gov
   - **SBIR/STTR Programs** — Multiple federal agencies
+  - **NASA SBIR/STTR**
+    - Email: nsssc-sbir-sttr@nasa.gov, ARC-SBIR-PMO@mail.nasa.gov, agency-sbir@mail.nasa.gov
+  - **Air Force SBIR/STTR**
+    - Email: sbir@afwerx.af.mil, AFSBIRSTTR-INFO@us.af.mil, P1@afwerx.af.mil, usaf.team@afsbirsttr.us
 
 ### Venture Capital & Investment
 - **Relationship context**: Funding sources, startup networks
@@ -589,7 +598,7 @@
   - **Gener8tor** — Startup Accelerator
     - Email: mason@gener8tor.com, erica@gener8tor.com
   - **Capital Factory** — Startup Community
-    - Email: Multiple Capital Factory contacts
+    - Email: erinmiller@capitalfactory.com, shannazmi@capitalfactory.com, annaolson@capitalfactory.com, officehours@capitalfactory.com
 
 ### Economic Development Organizations
 - **Relationship context**: Business development, regional partnerships
@@ -637,45 +646,57 @@
   - **Colorado OEDIT** — Economic Development
     - Email: oediat_aigrantmanager@state.co.us
   - **Boulder County** — Local Government
-    - Email: Multiple Boulder County contacts
+    - Email: posinfo@bouldercounty.org, mhalford@bouldercounty.gov
+
+### Internal BST Contacts (Black Swift Technologies)
+- **Relationship context**: Internal team and operations
+- **Key contacts**:
+  - Email: stephan.esterhuizen@blackswifttech.com, cory.dixon@blackswiftech.com, brad.cheetam@blackswifttech.com, bugfix@blackswifttech.com, stacg@blackswifttech.com, approvedflight@blackswifttech.com, josh@bst.aero, tachura@bst.aero, careers@bst.aero, all@bst.aero, operations@bst.aero, stachuram@blackswifttech.com, mirvin@bst.aero, carrers@bst.aero, statucha@blackswifttech.com, stacie@pitchdeckfire.com, dan.prendergast@bst.aero, tiffany.elston@blackswifttech.com, anny.troke@blackswifttech.com, stachuram@bst.aero, karen.zimmerman@bst.aero, blackswifttech.com_dg5s3sumiejnhnfjmknj690bo0@group.calendar.google.com, hurricane-data-proces-aaaan2gz2ajcozt5latqxlsr7y@blackswifttec-jml9878.slack.com, statutura@blackswifttech.com
 
 ---
 
 ## Summary
 
-**Total External Contacts**: 8,500+ (comprised of 1,000+ named individuals and 7,500+ email addresses without names)
+**Total External Contacts**: 8,600+ (comprised of 1,200+ named individuals and 7,400+ email addresses without assigned names)
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
 2. **NOAA** — 130+ direct contacts across divisions
 3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, etc.)
-4. **Unnamed/Unknown Organization** — 7,500+ email addresses (primarily external vendors, consultants, media, and service providers)
+4. **Internal BST** — 25+ team members and operations contacts
+5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, etc.)
+6. **Financial/Business Services** — 50+ contacts (Wells Fargo, US Bank, Paychex, etc.)
+7. **Unnamed/Unknown Organization** — 7,400+ email addresses (external vendors, consultants, media, and service providers)
 
 **Notable Relationship Clusters**:
 
-- **Heavy NASA Concentration**: Strong presence across JPL (Jet Propulsion Lab), ARC (Ames Research Center), GSFC (Goddard Space Flight Center), and other centers. Indicates significant ongoing contracts/partnerships for aerospace research.
+- **Heavy NASA Concentration**: Strong presence across JPL, ARC, GSFC, and other centers. Indicates significant ongoing contracts for aerospace research.
 
-- **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate modeling, and environmental monitoring.
+- **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research.
 
 - **Robust Academic Network**: 500+ university contacts across top-tier institutions reflects BST's role as a research partner and student recruitment pipeline.
 
-- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, etc.) indicate active pursuit of federal small business innovation funding.
+- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force) indicate active pursuit of federal small business innovation funding.
 
-- **Media/Press Relations**: Significant contacts with local (9 News, KDVR, Denver Post) and national news outlets (CNN, NPR, ABC, NBC) suggest active PR/communications strategy.
+- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy.
 
-- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization management.
+- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization.
 
-- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers (4PCB, AAPCB), electronics distributors (DigiKey, Mouser, Arrow), and component suppliers suggest active manufacturing/assembly operations.
+- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers, electronics distributors, and specialized component suppliers suggest active manufacturing/assembly operations.
 
 - **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, and other defense contractors suggest partnerships or potential customer relationships.
 
 - **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations.
 
+- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, and XIMEA indicate partnerships for specialized aerial sensing capabilities.
+
 ---
 
 ## Notes on Data Quality
 
-- **Unnamed Entries**: 7,500+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (e.g., `@nasa.gov`, `@noaa.gov`, `@colorado.edu`).
-- **Internal BST Contacts**: Several `@blackswifttech.com` and `@bst.aero` addresses represent internal team members.
-- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., `John.Glass-1@nasa.gov` and `John.Glass@nasa.gov`).
-- **Automated Contacts**: Some entries are system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation).
+- **Unnamed Entries**: 7,400+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations.
+- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members.
+- **Duplicates**: Some individuals appear multiple times with different email variations.
+- **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation).
+- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester), Germany (MLU Tübingen, HZG, DLR), Iceland, Spain, and numerous U.S. institutions.
+- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities.

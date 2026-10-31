@@ -88,6 +88,7 @@
 **Invoice #1779 — [018-1] Murphy's Pond CH4 (August 31, 2026): $24,579.28**
 - Outstanding balance
 - Service: Day rental for UAS including launcher and all travel cases, tool kits and field equipment. Includes flight planning, QC and archiving of collected data. Data processing for flight. (Service dates: June 30-July 1, 2026)
+- **Status: 4+ months aging — follow-up recommended**
 
 **Invoice #1772 — Alliance for Energy Innovation, LLC (July 17, 2026): $3,000.00**
 - Outstanding balance
@@ -98,7 +99,7 @@
 ## Expenses by Cost Category
 
 ### **Materials & Supplies** (Direct Cost Material Purchases)
-**Total: $1,654.35** | 8 line items (1 purchase) | Date: 2026-10-29  
+**Total: $1,654.35** | 1 purchase (8 line items) | Date: 2026-10-29  
 *Account: [DIRECT COSTS:DC-Direct Material Purchases]*
 
 **Vendor:** 3D Printing Service (Purchase #JT71988)
@@ -139,7 +140,7 @@
 ---
 
 ### **Indirect Costs** (Overhead, R&D, Fringe)
-**Total: $1,123.62** | 1 transaction  
+**Total: $1,123.62** | 3 transactions  
 *Account: [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]*
 
 | Date | Vendor/Memo | Description | Amount |
@@ -164,15 +165,16 @@
 |----------|--------------|-----------------|
 | Materials & Supplies | $1,654.35 | 1 |
 | Shipping/Freight | $38.50 | 2 |
-| Indirect Costs (R&D/IRAD) | $1,123.62 | 1 |
-| **TOTAL EXPENSES** | **$2,816.47** | **4** |
+| Indirect Costs (R&D/IRAD) | $1,123.62 | 3 |
+| **TOTAL EXPENSES** | **$2,816.47** | **6** |
 
-**Cumulative Project Expenses:** $251,236.63
+**Cumulative Project Expenses:** $251,236.63 (unchanged from previous update — new transaction already included)
 
 ---
 
 ## Purchase Orders
-**Total PO Value:** $1,977.50 | No new POs in this update period.
+**Total PO Value:** $1,977.50  
+No new purchase orders recorded in this period.
 
 ---
 
@@ -183,21 +185,21 @@
 |----------|--------|-----------------|
 | **Materials & Supplies** | $1,654.35 | 1 |
 | **Shipping/Freight** | $36.00 | 1 |
-| **Indirect Costs (R&D)** | $1,123.62 | 1 |
-| **Total** | **$2,813.97** | **3** |
+| **Indirect Costs (R&D)** | $1,123.62 | 3 |
+| **Total** | **$2,813.97** | **5** |
 
 **Burn Rate Note:** October spending reflects active materials procurement and development:
 - **$1,654.35** in 3D-printed components (MJF Nylon PA12) for fuselage assembly and internal hardware
 - **$1,123.62** in IRAD/R&D shipments including equipment maintenance and S3 phase 1 components
 - Indicates ongoing UAS manufacturing and iterative design work
 
-### November 2026
+### November 2026 (YTD)
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
 | **Shipping/Freight** | $2.50 | 1 |
 | **Total** | **$2.50** | **1** |
 
-**Burn Rate Note:** November minimal activity to date. Only administrative charge (PGA disclaimer fee) recorded.
+**Burn Rate Note:** November activity minimal to date. Only administrative charge (PGA disclaimer fee) recorded (as of Nov 12, 2026).
 
 ---
 
@@ -231,11 +233,12 @@
 
 ---
 
-### ⚠️ **Outstanding Invoice #1779 — $24,579.28**
+### ⚠️ **Outstanding Invoice #1779 — $24,579.28 (Aging Alert)**
 - Largest single outstanding invoice in recent period (Aug 31, 2026)
-- Service delivery date: June 30-July 1, 2026 (4+ months aging)
+- Service delivery date: June 30-July 1, 2026 (**4+ months aging**)
 - Includes UAS day rental, field equipment, flight planning, and data processing
-- **Recommendation:** Follow up on payment status with Murphy's Pond CH4.
+- **Status:** Still unpaid as of November 12, 2026
+- **Recommendation:** Priority follow-up required on payment status with Murphy's Pond CH4.
 
 ---
 
@@ -247,19 +250,30 @@
 
 ---
 
+### **Administrative Fee (November 12, 2026)**
+- **Purchase #261021W002707 | $2.50**
+- **Vendor:** PGA (Professional Golfers' Association or similar entity)
+- **Description:** Disclaimer Fee
+- **Account:** [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]
+- **Note:** Categorized as shipping/freight but appears to be a compliance or administrative charge unrelated to physical shipping. **Recommend reclassification to "Other" category for accounting clarity.**
+
+---
+
 ## Summary of Changes from Previous Update
-- **Total Expenses increased by $2,816.47:** Previous total $249,582.28 → New total $251,236.63 (+1.13%)
-- **3 new transactions recorded:**
-  - Purchase #JT71988 (2026-10-29): $1,654.35 (Materials & Supplies)
-  - Shipping line item (2026-10-29): $36.00 (Freight)
-  - Purchase #261021W002707 (2026-11-12): $2.50 (Shipping/Freight)
-- **Materials & Supplies category activated:** First significant materials procurement ($1,654.35) for 3D-printed aircraft components
-- **Shipping/Freight category expanded:** Now includes materials shipping ($36.00) plus administrative fee ($2.50)
-- **Indirect Costs stable:** October 15 IRAD shipments remain unchanged at $1,123.62
-- **No new revenue transactions**
-- **No new purchase orders**
-- **Outstanding invoice aging:** Invoice #1779 now 4+ months old (aging concern)
-- **Net position reduced:** $2,834,221.34 → $2,832,567.09 (due to $2,816.47 in new expenses)
+
+**Update Period:** November 12, 2026 (single new transaction)
+
+- **Total Expenses:** Unchanged at $251,236.63
+  - New transaction ($2.50) already reflected in previous update summary
+  - This update confirms transaction recording; no additional expense growth
+
+- **Monthly Spend (November YTD):** $2.50 (administrative only)
+
+- **Outstanding Receivables:** $1,983,498.26 (unchanged)
+  - Invoice #1779 remains unpaid (aging 4+ months)
+  - Invoice #1755 duplicate status unresolved
+
+- **Net Position:** $2,832,567.09 (stable)
 
 ---
 
@@ -267,8 +281,19 @@
 
 | Metric | Value | Trend |
 |--------|-------|-------|
-| Revenue Realization Rate | 35.7% | Stable (unchanged) |
-| Expense-to-Revenue Ratio | 8.2% | Slight increase (8.1% → 8.2%) |
-| Average Monthly Burn (Oct-Nov 2026) | $1,408.24 | Moderate activity |
-| Outstanding Revenue Aging | 4+ months | Alert status |
-| Materials & Supplies as % of Expenses | 1.0% of total | First major component purchase |
+| Revenue Realization Rate | 35.7% | Stable |
+| Expense-to-Revenue Ratio | 8.2% | Stable |
+| Average Monthly Burn (Oct-Nov 2026) | $1,408.24 | Slowing in November |
+| Outstanding Revenue Aging | 4+ months | **Alert:** Invoice #1779 requires follow-up |
+| Materials & Supplies as % of Expenses | 0.66% of total | Minor increase from October procurement |
+| Aging Receivables (>90 days) | $24,579.28 | **High priority collection** |
+
+---
+
+## Account Status Summary
+
+**No additional cost categories activated.** All transactions continue mapping to:
+- Direct Costs (Materials, Shipping)
+- Research & Development (IRAD)
+
+**Recommendation:** Monthly reconciliation of outstanding invoices (especially #1779 and #1755) and clarification of PGA disclaimer fee coding is warranted for accurate financial reporting.

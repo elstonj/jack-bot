@@ -29,7 +29,7 @@
         "amount": 34887.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "purchases": {
         "amount": 0.0,
@@ -41,7 +41,7 @@
         "amount": 27.53,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "total": 34915.03,
       "by_line_item": {}
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 55084.97,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-30T09:48:17Z"
+    "last_reconciled": "2026-10-31T09:54:38Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -70,6 +70,12 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Daniel Prendergast",
+      "date": "2026-10-30",
+      "text": "From Daniel Prendergast (ts=1793307702.169889): <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System, and the Royal Navy is calling this Project RAVEN in case it matters"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Meredith Needham",
       "date": "2026-10-29",
       "text": "From Meredith Needham: [047-01] Helicopter Integration"
@@ -81,6 +87,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-10-30T09:48:17Z",
+  "last_full_rebuild": "2026-10-31T09:54:38Z",
   "last_incremental_update": null
 }

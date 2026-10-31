@@ -33,7 +33,7 @@ _Generated from Asana project overviews. 45 active projects._
 | 012_2 | ERAU VTOL S0 | Embry-Riddle Aeronautical | $20,805.39 | — | — |
 | 018_1 | Murphy's Pond CH4 Monitoring | Murray State | $86,862.94 | #sbir-volcano | Yes |
 | 031_1 | UMES S3 | University of Maryland Ea | $81,306 | — | Yes |
-| 212_2 | NASA S2 & Parts | NASA (Will Wade) | $89,844 | — | Yes |
+| 047_01 | UK Project RAVEN: Helicopter Integration | — | — | — | — |
 | 213_1 | NASA-Chris Meek (Langley) | NASA Langley | — | — | Yes |
 | 300_3 | 2026 IDIQ (Hurricane) | NOAA | $483,000 | #sbir-hurricane | Yes |
 | 350_4 | 2024 USGS - Chile (Mexico) | USGS (Volcano Science Cen | $124,230 | #sbir-volcano | Yes |

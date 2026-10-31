@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 29, 2026) reflects project initiation coordination and project numbering requests for Lockheed Martin UK/Royal Navy partnership.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 30, 2026) reflects ongoing project management preparation and external vendor coordination.
 
 ---
 
@@ -67,6 +67,9 @@ The operations channel serves as Black Swift Technologies' central hub for coord
   6. **[012-3] ERAU Model S0** - Shipped June 2026; invoice verification needed
 - **October 26, 2026:** Jack Elston confirmed project status and approved **archival (not deletion)** of closed projects. Reasoning: archived projects preserve assignment history, task timing data, and completion details for future reference. Jack notes this data will eventually be valuable as training sets for AI-generated project documentation and automatic reporting systems. Projects to be archived once financial verification completed (invoice status confirmed for all).
 
+### Project Management & Week Planning
+- **October 30, 2026:** Cory Dixon issued directive to all project leaders to update tasks on Kanban board and Asana by end of day (October 30) to prepare for Monday morning (November 3) team readiness. This reflects standard weekly planning and preparation cycle to ensure tasks are specific, current, and ready for execution.
+
 ---
 
 ## Projects & Initiatives
@@ -82,9 +85,16 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Active Projects in Development
 1. **Project RAVEN (Lockheed Martin UK/Royal Navy)** - S0-AD integration with UK Merlin Helicopter Launch System. Project number assignment requested by Dan Prendergast on October 29, 2026. Royal Navy internal designation is Project RAVEN.
 
+2. **SOCOM Asana Project** - Dan Prendergast actively refactoring project structure. Project and sticky notes to be ready by Monday morning (November 3, 2026) per October 30 update.
+
 ---
 
 ## Action Items & Commitments
+
+### Week of November 3, 2026 Planning (assigned to project leaders, due October 30, 2026)
+- Update tasks on Kanban board for next week readiness
+- Update corresponding Asana tasks with specific, ready-to-execute items for Monday morning team availability
+- **Dan Prendergast:** Complete SOCOM Asana project refactoring and sticky note updates by Monday morning
 
 ### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, due before October 26, 2026)
 - Verify invoice status for [452-2] S2 Simulator & used E2 Battery
@@ -98,13 +108,16 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Facility Maintenance (ongoing)
 - Back door locksmith service needed (September 18, 2026 identification; status unknown)
-- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026)
+- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of October 30)
 - Collapsing shelf repair/replacement (identified October 22, 2026; status unknown)
-- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion)
+- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of October 30)
 
 ### Asana Project Archival (assigned to Maciej Suwinski)
 - Archive (not delete) six completed projects once financial verification completed
 - Preserve project history for reference and AI training data purposes
+
+### External Vendor Coordination
+- **General Air vendor pickup:** Scheduled for November 3, 2026 (no specific time provided). Team to be available for canister pickup at facility (Meredith Needham notification sent October 30, 2026).
 
 ---
 
@@ -118,6 +131,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **ByLight** - M2/Halo project collaboration (project [043-3] pending closeout as of October 26, 2026)
 - **ERAU (Embry-Riddle Aeronautical University)** - Model S0 delivery shipped June 2026 (project [012-3] pending invoice verification as of October 26, 2026)
 - **Sasquatch** - Four S0 units delivered (project [032-3] pending invoice payment verification as of October 26, 2026)
+- **General Air** - Scheduled vendor pickup at BST facility on November 3, 2026 for canister transport/delivery (per Meredith Needham October 30 notification)
 - **KS (partner organization)** - Cross-organizational coordination referenced; suggested to assist with ECCN export control request construction and submission to SNAP-R per October 7 discussion
 
 ---
@@ -132,12 +146,14 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Hiring & organizational scaling** - Significant expansion of team through Q4 2026
 - **Export control & regulatory compliance** - Critical focus on ECCN classifications, export licensing, and government program coordination
 - **Strategic partnerships** - Expanding international partnerships (UK/Lockheed Martin/Royal Navy) requiring export control management
+- **Weekly project planning & task readiness** - Regular cycle of project leader updates to Kanban board and Asana to prepare for upcoming work week
 
 ---
 
 ## Important Resources
 
-- **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping; now includes archival protocols to preserve project data for reference and AI training
+- **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping; includes archival protocols to preserve project data for reference and AI training; weekly task updates required from project leaders
+- **Kanban board** - Used for visual task management and week-to-week planning; requires updates from project leaders for upcoming week readiness
 - **Export control system:** SNAP-R (for ECCN submissions)
 - **FAA systems:** Airman services portal (for pilot license address verification)
 - **Facility access:** Front entrance combo: `2372`, inner door combo: `2011` (adjacent bakery space)
@@ -146,4 +162,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ## Recent Activity
 
-**October 29, 2026:** Dan Prendergast requested Asana project number for Project RAVEN (Lockheed Martin UK/Royal Navy partnership). Project scope involves S0-AD integration with UK Merlin Helicopter Launch System. This represents formalization of major strategic partnership with international defense contractor and marks expansion of BST's UK market presence. Project numbering indicates official project initiation phase.
+**October 30, 2026:** 
+- Cory Dixon issued directive to project leaders requesting completion of Kanban board and Asana task updates by end of day to prepare for Monday morning team readiness and execution.
+- Meredith Needham notified team of General Air vendor pickup scheduled for November 3, 2026 (specific time not provided). Team directed to be available for canister pickup.
+- Dan Prendergast confirmed SOCOM Asana project refactoring in progress, with project structure and sticky notes ready by Monday morning (November 3).

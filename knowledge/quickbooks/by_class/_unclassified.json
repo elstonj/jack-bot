@@ -35,7 +35,6 @@
     "[032-2] Display Model E2",
     "[032] University of Notre Dame",
     "[034] University of Virginia",
-    "[038] University of Maryland",
     "[039-1] Refurbished S2 Oklahoma State",
     "[039] Oklahoma State University",
     "[043-1] By Light Prototype Build",
@@ -68,35 +67,35 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-10-30",
-    "end": "2026-10-30"
+    "start": "2024-10-31",
+    "end": "2026-10-31"
   },
   "totals": {
-    "revenue": 3795102.55,
-    "expenses": 4590976.49,
+    "revenue": 3795798.67,
+    "expenses": 4593429.19,
     "by_category": {
       "Payroll clearing account": 2268790.7,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 367808.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 189909.21,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
-      "Inventory Asset": 121555.29,
+      "Inventory Asset": 123631.63,
       "FRINGE:FR-Retirement Contributions": 116216.23,
-      "FACILITIES:FA-Rent Expense": 105937.22,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 102344.86,
-      "FACILITIES:FA-Shop Supplies": 76900.08,
+      "FACILITIES:FA-Rent Expense": 98738.35,
+      "FACILITIES:FA-Shop Supplies": 77689.63,
       "Spark One Jack #3168": 70684.0,
+      "Prepaid Expenses": 64603.1,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Prepaid Expenses": 57404.23,
       "Indirect Cost:Software Expenses": 53092.45,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "FACILITIES:FA-Office Supplies": 46623.11,
       "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 33350.28,
-      "Indirect Cost:Meals and Entertainment": 28377.77,
+      "DIRECT COSTS:DC-Direct Material Purchases": 33241.64,
+      "Indirect Cost:Meals and Entertainment": 28146.5,
+      "FACILITIES:FA-Software Expenses": 27784.98,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
-      "FACILITIES:FA-Software Expenses": 27472.1,
       "The Soil Moisture Company": 21450.0,
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
@@ -106,11 +105,11 @@
       "Fixed Assets:Equipment": 15188.43,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
-      "Indirect Cost:Office Expenses:Utilities Expense": 12668.38,
+      "Indirect Cost:Office Expenses:Utilities Expense": 12361.67,
       "FACILITIES:FA-Insurance Expenses": 12096.97,
       "OVERHEAD:OH-Airfare": 11565.04,
-      "Indirect Cost:License, Permit, Misc Tax Exp": 11502.28,
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 11348.65,
+      "Indirect Cost:License, Permit, Misc Tax Exp": 10482.28,
       "GA-Business Development": 10448.09,
       "Indirect Cost:Supplies:Shop SuppliesX": 10173.35,
       "Other Miscellaneous Income": 9923.08,
@@ -124,11 +123,11 @@
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6498.43,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
       "Indirect Cost:TaxesX": 6218.2,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 6081.75,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5504.87,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 6105.75,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5521.38,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
       "Indirect Cost:Dues & Subscriptions": 4828.72,
-      "Indirect Cost:Supplies:Office SuppliesX": 4678.53,
+      "Indirect Cost:Supplies:Office SuppliesX": 4637.57,
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
@@ -142,10 +141,11 @@
       "FACILITIES:FA-Equipment Repairs & Maintenance": 1465.41,
       "Soil Moisture Investment": 1396.88,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
+      "Other Receivables": 1020.0,
       "Uncategorized Asset": 882.61,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 815.32,
-      "Indirect Cost:Professional Fees (do not use)": 655.65,
       "Indirect Cost:Repairs and Maintenance": 598.88,
+      "Indirect Cost:Professional Fees (do not use)": 576.65,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 544.24,
       "Maciej Stachura WF Card 3168": 505.9,
       "Tariffs": 446.41,
@@ -275,6 +275,29 @@
         },
         {
           "amount": 89844.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-10-01",
+      "doc_number": "1792",
+      "total": 696.12,
+      "attributed": 696.12,
+      "vendor": "",
+      "customer": "Nate Straus",
+      "balance": 696.12,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 696.12,
+          "account": "",
+          "description": "COBRA Payment - November 2026 "
+        },
+        {
+          "amount": 696.12,
           "account": "",
           "description": ""
         }
@@ -2261,7 +2284,7 @@
       "lines": [
         {
           "amount": 7198.87,
-          "account": "FACILITIES:FA-Rent Expense",
+          "account": "Prepaid Expenses",
           "description": "July 2026 rent"
         }
       ]
@@ -4448,6 +4471,39 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "1125",
+      "total": 9434.81,
+      "attributed": 1979.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "J. From confirmed projects. All S3 is future S3 sales",
+      "lines": [
+        {
+          "amount": 6777.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 677.74,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing: special SO"
+        },
+        {
+          "amount": 1956.63,
+          "account": "Inventory Asset",
+          "description": "S3 RH outboard wing"
+        },
+        {
+          "amount": 23.04,
+          "account": "Inventory Asset",
+          "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-29",
       "doc_number": "JT71988",
       "total": 1654.35,
@@ -4559,6 +4615,42 @@
       "type": "Purchase",
       "date": "2026-10-26",
       "doc_number": "",
+      "total": 362.06,
+      "attributed": 362.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 362.06,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "DKC*DIGI KEY CORP - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
+      "total": 20.77,
+      "attributed": 20.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CURSOR, AI POWERED IDE - 4617",
+      "lines": [
+        {
+          "amount": 20.77,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "CURSOR, AI POWERED IDE - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
       "total": 279.88,
       "attributed": 279.88,
       "vendor": "",
@@ -4612,6 +4704,83 @@
     {
       "type": "Purchase",
       "date": "2026-10-22",
+      "doc_number": "73904016",
+      "total": 101.39,
+      "attributed": 101.39000000000001,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - project listed under item ordered",
+      "lines": [
+        {
+          "amount": 24.21,
+          "account": "Inventory Asset",
+          "description": "Future S3 sales items"
+        },
+        {
+          "amount": 77.18,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 72.46,
+      "attributed": 72.46,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - project listed under item purchased. For future S3 sales",
+      "lines": [
+        {
+          "amount": 72.46,
+          "account": "Inventory Asset",
+          "description": "Antistatic Low-Friction Fiberglass Tape with Teflon PTFE,"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 175.56,
+      "attributed": 175.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FSP*PROWIRE USA - 7333",
+      "lines": [
+        {
+          "amount": 175.56,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "22 AWG x 2 Twisted Pair Yellow/Green 1TPI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 96.11,
+      "attributed": 96.11,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CLAUDE.AI SUBSCRIPTION - 9208",
+      "lines": [
+        {
+          "amount": 96.11,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "CLAUDE.AI SUBSCRIPTION - 9208"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
       "doc_number": "",
       "total": 207.72,
       "attributed": 207.72,
@@ -4624,6 +4793,60 @@
           "amount": 207.72,
           "account": "FACILITIES:FA-Software Expenses",
           "description": "OPENAI *CHATGPT SUBSCR   SAN FRANCISCOCA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 20.0,
+      "attributed": 20.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CAS DATALOGGERS - 7333",
+      "lines": [
+        {
+          "amount": 20.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "changed the shipping to overnight, instead of 2-day."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 174.75,
+      "attributed": 174.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - project listed under each item",
+      "lines": [
+        {
+          "amount": 174.75,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "No Asana Request - project listed under each item"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 196.0,
+      "attributed": 196.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FLUX ORG - 4617",
+      "lines": [
+        {
+          "amount": 196.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "FLUX ORG - 4617"
         }
       ]
     },
@@ -4696,6 +4919,24 @@
           "amount": 55.0,
           "account": "Indirect Cost:Software Expenses",
           "description": "STARLINK INTERNET - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 24.0,
+      "attributed": 24.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DRIFTAWAY.COFFEE - 4617",
+      "lines": [
+        {
+          "amount": 24.0,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "DRIFTAWAY.COFFEE - 4617"
         }
       ]
     },
@@ -7933,8 +8174,8 @@
       "lines": [
         {
           "amount": 1020.0,
-          "account": "Indirect Cost:License, Permit, Misc Tax Exp",
-          "description": "accidental transfer"
+          "account": "Other Receivables",
+          "description": "Personal expense, waiting for reimbursement from Jack Elston"
         }
       ]
     },
@@ -54623,168 +54864,6 @@
           "amount": 23.96,
           "account": "Indirect Cost:Supplies:Shop SuppliesX",
           "description": "tweezers x 4"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 3.49,
-      "attributed": 3.49,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "FEDEX30362866            MEMPHIS      TN",
-      "lines": [
-        {
-          "amount": 3.49,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "shipping fee - Client paid for the rest of the shipment"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 79.0,
-      "attributed": 79.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "WORLD TRADE RESEARCH     WASHINGON    DC",
-      "lines": [
-        {
-          "amount": 79.0,
-          "account": "Indirect Cost:Professional Fees (do not use)",
-          "description": "WORLD TRADE RESEARCH     WASHINGON    DC"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 26.28,
-      "attributed": 26.28,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "TARGET        00022186   LONGMONT     CO",
-      "lines": [
-        {
-          "amount": 26.28,
-          "account": "Indirect Cost:Supplies:Office SuppliesX",
-          "description": "milk & hand wash refills"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 32.99,
-      "attributed": 32.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*OC8Y59WR3   AMZN.COM/BILLWA",
-      "lines": [
-        {
-          "amount": 32.99,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "AMAZON MKTPL*OC8Y59WR3   AMZN.COM/BILLWA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 20.97,
-      "attributed": 20.97,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Supplies for office party - purchased via Jack's person Amazon account",
-      "lines": [
-        {
-          "amount": 20.97,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "Supplies for office party - purchased via Jack's person Amazon account"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 177.31,
-      "attributed": 177.31,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*A01LQ93C3   AMZN.COM/BILLWA",
-      "lines": [
-        {
-          "amount": 177.31,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "AMAZON MKTPL*A01LQ93C3   AMZN.COM/BILLWA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 14.68,
-      "attributed": 14.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON RETA* YD0395R63   SEATTLE      WA",
-      "lines": [
-        {
-          "amount": 14.68,
-          "account": "Indirect Cost:Supplies:Office SuppliesX",
-          "description": "AMAZON RETA* YD0395R63   SEATTLE      WA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 108.64,
-      "attributed": 108.64,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 108.64,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Plate for SMM"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 306.71,
-      "attributed": 306.71,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "XCEL ENERGY-PSCO XCELENERGY        XXXXXXX1458     BLACK SWIFT T550140379",
-      "lines": [
-        {
-          "amount": 306.71,
-          "account": "Indirect Cost:Office Expenses:Utilities Expense",
-          "description": "XCEL ENERGY-PSCO XCELENERGY        XXXXXXX1458     BLACK SWIFT T550140379"
         }
       ]
     }

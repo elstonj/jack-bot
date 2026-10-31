@@ -20,7 +20,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
 - Kate (team member with vehicle access)
 
-**Activity Level:** High, spanning October 2025 through October 2026. Most recent activity (October 19, 2026) shows project in final assembly and delivery phase with battery shipments being coordinated and tracked.
+**Activity Level:** High, spanning October 2025 through October 2026. Most recent activity (October 30, 2026) shows project in final closeout phase with final package shipments being coordinated.
 
 ## Key Decisions
 
@@ -102,4 +102,94 @@ This channel tracks the development and flight testing of the **By Light Mustang
 **August 19, 2026 – Fuselage Delivery Expected**
 - ByLight carbon fiber fuselage manufacturing indicated as complete with delivery expected Friday via FedEx
 
-**September 11, 2026 – CRITICAL: Fuselage Manufacturing Failure & Performance Issues**
+**September 11, 2026 – Critical Manufacturing Issues**
+- Fuselage manufacturing quality problems emerged (referenced in existing knowledge but detailed outcomes unclear from available data)
+
+**October 2026 – Project Completion & Final Closeout**
+- Project transitioned to final assembly and closeout phase
+- Multiple battery shipments coordinated and tracked through October
+
+## Projects & Initiatives
+
+**By Light Mustang / M2 Program (Primary Ongoing Project)**
+- **Status:** Final closeout phase (as of October 30, 2026)
+- **Key Deliverables:** Flight-ready Chilli airframe with integrated avionics, battery packs, and ground control systems
+- **Current Phase:** Final package shipments for delivery; closure logistics being completed
+
+## Action Items & Commitments
+
+**October 30, 2026 - COMPLETED**
+- **Commitment:** Final package pickup by FedEx on Monday (Nov 3, 2026 expected)
+- **Owner:** Meredith Needham (coordinating), Dan Prendergast or logistics lead (handling FedEx coordination)
+- **Status:** Confirmed - three packages ready for pickup
+
+**Ongoing/Historical Items (Status Unclear)**
+- Fuselage design refinements and manufacturing oversight (Ethan, Craig)
+- Battery configuration testing and validation (Alex Lomis, team)
+- Wing design optimization and supply chain management (Spencer, SoaringUSA coordination)
+
+## Client & External References
+
+**Primary Customer:**
+- **U.S. Air Force** – Contracting agency; test site at Yuma; initial March 2026 testing window with additional phases approved
+
+**Primary Contractor (ByLight Technologies):**
+- **Mel** – Decision-maker and primary contact
+- **Bryan Sparling** – Pilot and payment coordination
+- **Craig** – Manufacturing contact (3D-printed fuselage, carbon fiber)
+- Contract values: Phase 1 ($34K), Phase 2 ($31K), Deliverable 1 ($47,894)
+
+**Key Vendors & Suppliers:**
+- **SoaringUSA** – Czech A37 Chilli commercial wings; supply constraints noted April 2026
+- **Wildman Rockets** – 4.5" fiberglass rocketry tubing for fuselage
+- **KDE Direct** – KDE 4215-465Kv motors
+- **TBS** – Lucid ESCs with KISS telemetry
+- **SCS & Jawstec** – Battery component suppliers (ordered April 17, 2026)
+- **RFM** – Folding propellers
+
+## Recurring Topics & Themes
+
+1. **Supply Chain & Manufacturing Constraints:**
+   - Recurring wing availability issues with SoaringUSA
+   - Component stock-outs driving design pivots (carbon fiber tubing, motors)
+   - ByLight manufacturing capacity and lead times affecting schedule
+
+2. **Design-Build Trade-offs:**
+   - Weight optimization vs. structural integrity (fuselage infill decision)
+   - COTS vs. custom component selection
+   - Incremental design compromises reflected in released CAD (noted May 7, 2026)
+
+3. **Invoice & Payment Tracking:**
+   - Regular invoice submissions and payment confirmations tied to design releases
+   - Weekly email updates to ByLight implemented for better tracking
+   - Multiple invoices tracked: #1753 ($15K Apr 8), Deliverable 1 ($47,894 May 13)
+
+4. **Manufacturing Quality & Oversight:**
+   - Ongoing communications with ByLight manufacturing team (Craig)
+   - Infill specifications and material clarifications required
+   - September 2026 manufacturing issues emerged (details limited)
+
+5. **Final Delivery & Logistics:**
+   - October 2026: Coordinated battery shipments and package staging
+   - October 30, 2026: Final package coordination via FedEx
+
+## Important Resources
+
+- CAD design files (released to ByLight May 7, 2026 after payment confirmation)
+- Invoice tracking: #1753, Deliverable 1 ($47,894)
+- Weekly email update system (Fridays) to ByLight (implemented April 17, 2026)
+- Fuselage manufacturing specifications (material, infill, weight variants)
+
+## Recent Activity
+
+**October 30, 2026 – Project Approaching Final Closeout**
+- Meredith Needham confirmed three final packages ready for FedEx pickup on Monday (November 3)
+- Maciej confirmed this represents the "final final ByLight close out"
+- Ethan Domagala expressed relief: "Never touching ByLight ever again!" suggesting significant project challenges
+- Joshua Fromm's comment "I've heard that before" indicates historical precedent for difficult project completions with this customer
+
+**Outcome:** Project appears to be successfully concluding with all deliverables shipped, though team sentiment suggests operational friction during execution. Final logistics coordination underway to complete contract obligations.
+
+---
+
+**Note:** Existing knowledge file merged with October 30, 2026 data. Project lifecycle now documented from October 2025 initiation through October 2026 final closeout. Manufacturing challenges referenced for September 2026 warrant follow-up investigation for complete documentation.

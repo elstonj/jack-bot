@@ -4,8 +4,8 @@
   "category": "contract",
   "asana_gid": "1211457612530524",
   "name": "NASA S2 & Parts",
-  "status": "active",
-  "status_notes": null,
+  "status": "archived",
+  "status_notes": "Asana project is archived",
   "customer": {
     "name": "NASA (Will Wade)",
     "type": "commercial",
@@ -29,19 +29,19 @@
         "amount": 22908.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "purchases": {
         "amount": 48819.7,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "other_qbo": {
         "amount": 19349.63,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "total": 91078.08,
       "by_line_item": {}
@@ -49,7 +49,7 @@
     "committed": 73474.04,
     "remaining": -74708.12,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-30T09:48:42Z"
+    "last_reconciled": "2026-10-31T09:55:00Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -81,6 +81,6 @@
       "text": "From Maciej: Looking to close out some projects in Asana. Here's a few I need feedback on:\n1. [212-1] S2 Simulator\n    a. There's just milestones left for \"Build Sim System\" and \"Deliver\", I assume this is the one that went to NASA a few weeks ago?\n2. [452-2] S2 Simulator &amp; used E2 Battery\n    a. Dan H from CU picked up last week, safe to close <@U06KRHPQSRH>? (i.e. I assume we invoiced a while back)\n3. [043-3] ByLight M2/Halo\n    a. Only task left is an invoice. Have we sent it?\n    b. I th"
     }
   ],
-  "last_full_rebuild": "2026-10-30T09:48:42Z",
+  "last_full_rebuild": "2026-10-31T09:55:00Z",
   "last_incremental_update": null
 }

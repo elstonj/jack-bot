@@ -1,56 +1,56 @@
 # Slack Channels Overview
 
-Last scanned: 2026-10-30 02:38
+Last scanned: 2026-10-31 02:39
 
 Total channels scanned: 7
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 5 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#flight-testing** -- 5 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 11 messages -- [general.md](general.md)
-- **#operations** -- 1 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 4 messages -- [s0-vtol.md](s0-vtol.md)
-- **#s3** -- 8 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 12 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#by-lite-mustang** -- 5 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#commercial-sales** -- 12 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 14 messages -- [general.md](general.md)
+- **#operations** -- 3 messages -- [operations.md](operations.md)
+- **#s3** -- 43 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 8 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Slack Channel Overview
+# Black Swift Technologies - Strategic Channel Overview
+
+## Active Projects
+- **SBIR Hurricane (S0)**: Primary focus on unmanned aircraft for hurricane reconnaissance; mature project with extensive technical and operational history (2020-2026)
+- **Navy SBIR Magnetometer**: Integration of QuSpin/Bartington magnetometers with BST aircraft for magnetic anomaly detection (MAD applications)
+- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; targeting 2-3 hour endurance with automatic flight operations
+- **By Light Mustang**: USAF contract for 400km range testing; two-phase approach (original aircraft → Chilli airframe development)
+- **Commercial Aircraft Platform**: Multi-tier product line (E2, S0, S0-VTOL, S2, S3) serving university, government (NASA/NOAA), and international customers
+
+## Key People & Roles
+- **Jack Elston**: Executive leadership, strategic decisions
+- **Joshua Fromm**: Lead engineer/designer, RF systems, CAD, hardware/shop management
+- **Maciej**: Project lead across multiple initiatives (Mustang, operations, flight testing)
+- **Dan Prendergast**: Business development and operations
+- **Beck Cotter**: Technical contributor across magnetometer and SBIR projects
+- **Sam Hild, Alex Lomis, Danny Troke, Nate**: Core engineering team
+- **Meredith Needham**: Finance and administration
 
 ## Cross-Channel Themes
+1. **Hardware Integration**: Repeated pattern of sensor/payload integration with existing platforms (magnetometers, hurricane instruments, customer payloads)
+2. **Flight Testing & Validation**: Continuous cycle of testing, iteration, and performance documentation across all projects
+3. **Customer Delivery**: Commercial sales channel tracks end-to-end project lifecycle; operations ensures execution logistics
+4. **Technical Design & Sourcing**: Parts validation, RF component sourcing, and CAD design centralize around Joshua Fromm
+5. **Mission-Critical Applications**: Focus on government contracts (SBIR, USAF) and scientific research (NOAA, NASA)
 
-### Active Projects
-- **S-Series Aircraft Development**: S0 VTOL, S3 VTOL, and fixed-wing variants in active development across multiple channels (#s0-vtol, #s3, #flight-testing)
-- **SBIR Initiatives**: Two major funded programs—Hurricane reconnaissance (S0 platform) and Navy magnetometer integration—driving significant technical effort
-- **Flight Testing Operations**: Continuous testing cycle across fleet (fixed-wing, multirotor, VTOL platforms) supporting all hardware projects
+## Decision Patterns
+- **Leadership approval required** for major technical/business decisions (Jack Elston)
+- **Collaborative engineering approach** with documentation and requirements flowing through #general and project-specific channels
+- **Test-driven development** with rapid iteration between flight testing and design refinement
+- **Customer-centric logistics** with operations channel managing delivery timelines
 
-### Key Leadership & Roles
-- **Jack Elston**: Executive leadership, firmware development, strategic decisions (#general, #operations, #flight-testing)
-- **Joshua Fromm**: Lead hardware engineer, RF/antenna expertise, CAD design, parts validation, shop operations (#s3, #s0-vtol, #operations)
-- **Maciej**: Primary flight test lead, firmware analysis, testing coordination (#flight-testing, #s0-vtol, #sbir-hurricane)
-- **Dan Prendergast**: Business development, operations coordination (#general, #operations, #sbir-hurricane)
-- **Beck Cotter**: Technical contributor across SBIR and sensor integration projects (#sbir-hurricane, #25_1-navy-sbir-magnetometer, #general)
-
-### Decision Patterns
-- **Technical validation-first**: Hardware designs proceed through iterative testing before deployment
-- **Project-based funding**: SBIR programs drive resource allocation and timeline commitments
-- **Distributed expertise**: Core team (Fromm, Elston, Maciej) consulted across multiple workstreams
-- **Operational transparency**: Decisions documented in #operations and #general for cross-team visibility
-
-### Recurring Topics
-- Flight test scheduling, results, and troubleshooting (persistent across #flight-testing, #s0-vtol, #sbir-hurricane)
-- Hardware sourcing, component validation, and CAD design iteration (#s3, #s0-vtol, #operations)
-- Battery/power system optimization for endurance requirements (#s3, #s0-vtol)
-- Sensor/payload integration (magnetometers, hurricane reconnaissance instruments)
-- Firmware development and debugging cycles
-
-### Cross-Channel Connections
-- **Hurricane SBIR** uses S0 platform (bridges #sbir-hurricane ↔ #s0-vtol ↔ #flight-testing)
-- **Magnetometer Navy SBIR** integrates with aircraft platforms (connects #25_1-navy-sbir-magnetometer ↔ #s3/#s0-vtol hardware development)
-- **S3 development** informs broader VTOL architecture (affects #s0-vtol parallel development)
-- **Operations channel** centralizes resource/procurement needs across all technical projects
-- **General channel** announces milestones and coordinates company-wide priorities affecting all projects
-
-## Summary
-BST operates as a hardware-focused aerospace company executing multiple concurrent funded projects (SBIR programs) while developing proprietary VTOL platforms. Decision-making centers on technical leadership (Fromm/Elston/Maciej), with strong emphasis on flight testing validation and iterative hardware refinement. Projects share common platforms and technical expertise, creating tight interdependencies.
+## Recurring Topics
+- Aircraft performance specifications (endurance, range, payload capacity)
+- Sensor/payload integration complexity
+- Flight test scheduling and results analysis
+- Supply chain and parts procurement
+- Budget and resource allocation
+- Regulatory/mission requirements documentation

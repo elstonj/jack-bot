@@ -4,14 +4,15 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-10-30",
-    "end": "2026-10-30"
+    "start": "2024-10-31",
+    "end": "2026-10-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 8940.62,
+    "expenses": 10461.94,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8556.83,
+      "DIRECT COSTS:DC-Direct Material Purchases": 8785.65,
+      "Inventory Asset": 1292.5,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 85.95
     }
@@ -125,6 +126,24 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 228.82,
+      "attributed": 228.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SKYGEEK.COM - 7333",
+      "lines": [
+        {
+          "amount": 228.82,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "3M\u2122 8671 14 Mil Transparent Polyurethane Protective"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-08",
       "doc_number": "EIZUUHGXL",
       "total": 251.77,
@@ -143,6 +162,24 @@
           "amount": 31.77,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Shipping Costs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-01",
+      "doc_number": "23311",
+      "total": 1292.5,
+      "attributed": 1292.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via PayPal\nFor S3 Sales",
+      "lines": [
+        {
+          "amount": 1292.5,
+          "account": "Inventory Asset",
+          "description": "Z1100-DroneCAN M5 connector x 3"
         }
       ]
     },

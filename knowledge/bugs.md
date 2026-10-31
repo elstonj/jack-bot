@@ -1,5 +1,5 @@
 # Open Bug Reports
-_Updated: 2026-10-29 07:28_
+_Updated: 2026-10-30 07:28_
 
 1. From Nightly Scan: Knowledge scan failed. Check /home/elstonj/Documents/jack_bot/scripts/nightly_scan.log for details.
 2. From Nightly Scan: Knowledge scan failed. Check /home/elstonj/Documents/jack_bot/scripts/nightly_scan.log for details.
@@ -43,3 +43,4 @@ Git push failed after nightly scan.
 30. From Nightly Scan: Knowledge scan failed. Check /home/elstonj/Documents/jack-bot/scripts/nightly_scan.log for details.
 Claude project sync failed (is Chrome open with the extension connected?).
 31. From Nightly Scan: Claude project sync failed (is Chrome open with the extension connected?).
+32. From Nightly Scan: Claude project sync failed (is Chrome open with the extension connected?).

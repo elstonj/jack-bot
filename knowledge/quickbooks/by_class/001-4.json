@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-10-30",
-    "end": "2026-10-30"
+    "start": "2024-10-31",
+    "end": "2026-10-31"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 38800.96,
+    "expenses": 38689.03,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX": 16511.82,
+      "Indirect Cost:Internal Research and DevelopmentX": 16399.89,
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 13186.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8572.99,
       "Tariffs": 451.8,
@@ -3427,24 +3427,6 @@
           "amount": 31.75,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "DKC*DIGI KEY CORP        800-344-4539 MN"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-30",
-      "doc_number": "",
-      "total": 111.93,
-      "attributed": 111.93,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 111.93,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": ""
         }
       ]
     }

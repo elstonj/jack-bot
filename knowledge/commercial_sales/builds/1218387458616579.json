@@ -6,14 +6,19 @@
   "customer_email": "brandon.m.terry.mil@socom.mil",
   "receive_by": null,
   "ship_to": null,
-  "items": [],
-  "payment_state": "estimate_sent",
+  "items": [
+    {
+      "description": "S0 air-deployed (S0-AD) unmanned aircraft system",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "invoice_sent",
   "build_state": "none",
   "ship_state": "none",
   "estimate_date": null,
-  "invoice_date": null,
-  "invoice_amount": null,
-  "invoice_number": null,
+  "invoice_date": "2026-09-11",
+  "invoice_amount": 948993.0,
+  "invoice_number": "H9223626P9056",
   "paid_date": null,
   "parts": [],
   "tracking_number": null,
@@ -24,14 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "USSOCOM S0 quote sent; lead response is 'Ready for purchase' with estimated/quoted value $948,993. Last contact 2026-09-11.",
+  "notes": "Contract H9223626P9056 awarded 2026-09-11. Contract signed and executed as of 2026-09-28. PoP initially set to 60 days but Beck clarified with Terry that schedule alignment discussion needed. Live contract engagement ongoing.",
   "missing_fields": [
     "receive_by",
     "ship_to",
-    "items",
-    "invoice_number",
-    "invoice_amount"
+    "parts"
   ],
-  "last_evidence_date": "2026-09-11",
-  "last_contact_date": "2026-09-15"
+  "last_evidence_date": "2026-09-28",
+  "last_contact_date": "2026-09-28"
 }

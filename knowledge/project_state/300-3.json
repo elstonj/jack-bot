@@ -30,34 +30,77 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 317248.75,
+        "amount": 318888.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
       "other_qbo": {
-        "amount": 403224.02,
+        "amount": 410741.88,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-30"
+        "last_updated": "2026-10-31"
       },
-      "total": 722641.29,
+      "total": 731799.15,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -239641.29,
+    "remaining": -248799.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-30T09:48:46Z"
+    "last_reconciled": "2026-10-31T09:55:03Z"
   },
-  "milestones": [],
+  "milestones": [
+    {
+      "name": "Deliver 13 S0's",
+      "asana_task_gid": "1220073363956082",
+      "due_on": null,
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Web Controller Complete for NOAA",
+      "asana_task_gid": "1220073363956084",
+      "due_on": null,
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Conduct NOAA Sim Training",
+      "asana_task_gid": "1220073363956086",
+      "due_on": null,
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    },
+    {
+      "name": "Develop Plan for 2027 Delivery",
+      "asana_task_gid": "1220073363956088",
+      "due_on": null,
+      "original_due": null,
+      "status": "open",
+      "invoice_trigger": null,
+      "evidence": []
+    }
+  ],
   "deliverables": [],
   "team": [
+    {
+      "name": "Ali Sulehria",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
     {
       "name": "Ben Busby",
       "role": null,
@@ -66,6 +109,12 @@
     },
     {
       "name": "Jack Elston",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Josh Fromm",
       "role": null,
       "allocation_pct": null,
       "hours_last_30d": null
@@ -98,6 +147,6 @@
       "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-30T09:48:46Z",
+  "last_full_rebuild": "2026-10-31T09:55:03Z",
   "last_incremental_update": null
 }

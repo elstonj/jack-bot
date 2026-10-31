@@ -5,19 +5,19 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-10-30",
-    "end": "2026-10-30"
+    "start": "2024-10-31",
+    "end": "2026-10-31"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 403224.02,
+    "expenses": 410741.88,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 257093.24,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 101646.59,
+      "DIRECT COSTS:DC-Direct Material Purchases": 257116.33,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 109101.73,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7059.52,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7086.51,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 432.59,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 445.23,
       "SALES & MARKETING:SM-Shipping": 204.16,
       "SALES & MARKETING:SM-Travel": 20.86,
       "FRINGE:Employee Reimbursement": -2092.16
@@ -804,6 +804,92 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "102611082",
+      "total": 62.72,
+      "attributed": 62.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 3.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DIODE ZENER 33V 5W D0214AA"
+        },
+        {
+          "amount": 2.7,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "TVS DIODE 6.2VWM 6.1VC US2H"
+        },
+        {
+          "amount": 8.2,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DESC: CAP CER 6.8UF 35V X5R 0805"
+        },
+        {
+          "amount": 0.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DESC: RES SMD 4.99M OHM 1% 1/16W 0402"
+        },
+        {
+          "amount": 0.42,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DESC: RES 2M OHM 1% 1/16W 0402"
+        },
+        {
+          "amount": 7.72,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DESC: MOSFET N-CH 60V 250MA EMT3F"
+        },
+        {
+          "amount": 12.64,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Estimated Tariff Amount"
+        },
+        {
+          "amount": 26.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "1125",
+      "total": 9434.81,
+      "attributed": 7455.139999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "J. From confirmed projects. All S3 is future S3 sales",
+      "lines": [
+        {
+          "amount": 6777.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 677.74,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing: special SO"
+        },
+        {
+          "amount": 1956.63,
+          "account": "Inventory Asset",
+          "description": "S3 RH outboard wing"
+        },
+        {
+          "amount": 23.04,
+          "account": "Inventory Asset",
+          "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-10-05",

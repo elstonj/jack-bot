@@ -6871,9 +6871,22 @@
     "vendor": "McMaster-Carr",
     "project_code": null,
     "project_hint": null,
-    "description": "Gold Oxide High-Speed Steel Drill Bit (3.1mm, 3 each) and High-Speed Steel Round-Shank Reamer (0.75\" diameter, 1 each)",
-    "notes": "Delivery scheduled Oct 30, 8-10 am. Placed by Jack Elston. Part numbers marked as shop supplies.",
+    "description": "Gold oxide high-speed steel drill bit and high-speed steel round-shank reamer",
+    "notes": "Order confirmation; delivery Oct 30, 8-10 am; placed by Jack Elston",
     "date": "2026-10-29",
     "subject": "Confirmation for Your October 29th Order with McMaster-Carr"
+  },
+  {
+    "id": "1a18f00ecd99f62b",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 103.17,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Flanged hex head drilling screw and multipurpose miter saw blade",
+    "notes": "Order confirmation; delivery Nov 2, 8-10 am; placed by Jack Elston",
+    "date": "2026-10-30",
+    "subject": "Confirmation for Your October 30th Order with McMaster-Carr"
   }
 ]

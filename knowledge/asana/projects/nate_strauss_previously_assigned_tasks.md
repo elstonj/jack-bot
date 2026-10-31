@@ -1,115 +1,74 @@
-_Asana snapshot as of 2026-10-23: 59 open tasks, 6 completed (last 365 days)._
+_Asana snapshot as of 2026-10-31: 52 open tasks, 3 completed (last 90 days)._
 
 # Nate Straus's Previously Assigned Tasks
 
-## Status: INACTIVE / REASSIGNMENT PROJECT
-**This project was automatically created when Nate Straus was removed from blackswifttech.com.** All 59 open tasks are currently unassigned and require re-allocation to active team members.
-
 ## Overview
-- **Owner:** Jack Elston
-- **Team:** BST (Whole Team)
-- **Type:** Reassignment/orphaned task collection
-- **Current Status:** 59 open (unassigned), 6 completed
-- **Completion Rate:** 9% (6/65 tasks)
-- **Risk Level:** HIGH — Most critical tasks lack active assignees; multiple orders with July–September deadlines are unowned
+- **Status**: Inactive — administrative project created upon Nate Straus's removal from blackswifttech.com
+- **Owner**: Jack Elston
+- **Team**: BST (Whole Team)
+- **Purpose**: Placeholder for tasks orphaned when Nate was removed from the team
 
-## Key Issues & Overrides
-Per **Daniel Prendergast (2026-10-08, 2026-10-07):** ECCN (Export Classification Number) requests are urgent and must be submitted soon to avoid impacts on pending Canada project and LMUK/Royal Navy project. Three platform classifications needed:
-1. S3 with gimballed EO/IR camera
-2. S0-AD with fixed EO/IR camera  
-3. S0-AD with magnetometer
+**Note**: This is a system-generated project to surface work that lost an assignee. The 52 open tasks are largely vendor orders and maintenance items that require reassignment or completion.
 
-*Status:* Prendergast has not yet written up the applications; S3 is lower priority. **This is a process gap requiring immediate ownership assignment.**
+## Task Summary
+- **Total tasks**: 52 open, 3 completed
+- **All tasks are currently unassigned** — this is the core issue
+- **Completion rate**: 3 of 55 total (5%)
+- **Task types**:
+  - ~45 vendor/procurement orders (Jawstec, Digikey, Mouser, SendCutSend, etc.) with "Order Received" status
+  - 2 aircraft assembly/QC tasks (due Aug–Sep 2026)
+  - 1 aircraft maintenance task (Trims — S10019, no due date)
+  - 1 power repair task (due Sep 30, 2026)
 
-Per **Cory Dixon (2026-10-05, 2026-10-02):** Technical Program Management candidate (Paige) accepted offer from another company without allowing BST to counter. Interviews continuing for replacement.
+## Key Deliverables & Milestones
+Most tasks are procurement-related with "Order Received" status. Notable dates:
 
-Per **Daniel Prendergast (2026-10-19):** Process gap identified — no well-defined transition pipeline from proposed system builds to production. LMUK project will require: 2× S0-AD with Magnetometer, 2× S0-AD with Camera, 2× S3 (details cut off in feedback).
+| Task | Due Date | Project | Requester |
+|------|----------|---------|-----------|
+| Assembly | 2026-08-21 | — | — |
+| QC Flight | 2026-09-01 | — | — |
+| Repair power issue | 2026-09-30 | — | — |
 
----
+**Procurement clusters by due date**:
+- **Jul 11–12**: 7 orders (apc props, uavionix, servocity, jawstec, digikey, sendcutsend, OpenUPS) — earliest deadlines
+- **Jul 18–24**: 8 orders 
+- **Jul 25–Aug 02**: 9 orders (Mouser, Sparkfun, FTDI, Digikey for various IRAD projects)
+- **Aug 05–22**: 14 orders (mostly for S0 VTOL, S3 sales, Hurricane IDIQ)
+- **Aug 28–Sep 06**: 6 orders (S3 sales, Swiftstation, Navy SBIR Magnetometer, IRAD S3)
 
-## Task Summary by Category
+**Projects billed to** (from custom field data):
+- [300-3] 2026 IDIQ (Hurricane) — 8 orders
+- [001-4] IRAD S0 VTOL — 9 orders
+- [001-16] IRAD Swiftstation — 8 orders
+- [451-1] INSTAAR S3 x2 — 6 orders
+- [212-2] NASA S2 & Parts — 2 orders
+- General Sales (No Specific Project) — 7 orders
+- [550-1] Navy SBIR: Magnetometer — 2 orders
+- [001-3] IRAD S0, [001-7] IRAD S3 — 1 order each
 
-### **Airframe Build & Assembly (Critical Path)**
-| Task | Due Date | Status |
-|------|----------|--------|
-| Rebuild old BST S0 (2024) to functional | 2026-06-19 | OPEN, Unassigned |
-| Finish 2025 S0's (full system packed) for delivery | 2026-06-30 | OPEN, Unassigned |
-| Install servos in tails | No due date | OPEN, Unassigned |
-| Wire servos for tails | No due date | OPEN, Unassigned |
-| Wire servos for wings | No due date | OPEN, Unassigned |
-| Construct linkages | No due date | OPEN, Unassigned |
-| Build 5 power switches with short PCB | 2026-05-21 | OPEN, Unassigned |
-| Assembly | 2026-08-21 | OPEN, Unassigned |
-| QC Flight | 2026-09-01 | OPEN, Unassigned |
-| Trims (S10019 maintenance) | No due date | OPEN, Unassigned (Ethan noted) |
-| Repair power issue | 2026-09-30 | OPEN, Unassigned |
+**Primary requesters**: Joshua Fromm (~30 orders), Alex (~15 orders), Spencer, Dan Prendergast, Ethan
 
-**Risk:** Two tasks with 2026-06 due dates are now overdue; remaining assembly chain has no owner.
-
-### **Procurement Orders (39 orders total)**
-Heavy concentration of vendor orders spanning July–September 2026, all currently unassigned. Requesters: Joshua Fromm (primary), Alex, Spencer, Ethan, Dan Prendergast.
-
-**Major projects ordered for:**
-- **[451-1] INSTAAR S3 x2** — 7 orders (S3 parts, bearings, custom machining)
-- **[300-3] 2026 IDIQ (Hurricane)** — 8 orders (S0 parts for Hurricane project)
-- **[001-4] IRAD S0 VTOL** — 7 orders (S0 VTOL components, sensors, props)
-- **[001-16] IRAD Swiftstation** — 7 orders (GCS/ground station equipment)
-- **[001-3] IRAD S0**, **[001-7] IRAD S3**, **[212-2] NASA S2 & Parts**, **[550-1] Navy SBIR: Magnetometer**, **General Sales** — remaining orders
-
-**Order Deadlines:**
-- July 11–12, 2026: 5 orders (all Status: Order Received)
-- July 18–25, 2026: 7 orders  
-- July 30–August 2, 2026: 6 orders
-- August 5–22, 2026: 17 orders
-- August 28–September 6, 2026: 4 orders
-
-**Tax Status:** Most orders are Tax Exempt: YES (billed to projects).
-
----
-
-## Recent Activity & Completed Work
-- **2026-06-23:** Assembly latch carrier trays completed
-- **2026-06-01:** Build up 2 SHOW S0's (2025 parts) completed — shipped on schedule
-- **2026-05-19:** Build 2 SHOW tripods completed; Build up 2 SHOW S0's (2026 parts) completed
-- **2026-05-14:** Rebuild BST S0 completed
-- **2026-05-05:** CU IRISS repair completed (S20004 flap servo replacement, parts invoice requested)
-
----
+## Recent Activity
+- **3 tasks completed Oct 30, 2026** (all significantly overdue):
+  - Build 5 power switches with short pcb (due May 21)
+  - Rebuild old BST S0 to make fully functional (due Jun 19)
+  - Finish 2025 S0's for delivery (due Jun 30)
+- **All remaining 52 tasks remain open and unassigned**, with earliest procurement deadlines in mid-July 2026
 
 ## Notes & Context
 
-### Process Gaps & Strategic Issues
-1. **ECCN Export Classification Urgency** — Three platform variants need federal export classifications to support Canada and LMUK/Royal Navy projects. Applications not yet drafted (Prendergast ownership unclear).
-2. **Production Pipeline Transition** — No formal process for moving proposed builds into production; LMUK project is immediate test case.
-3. **TPM Role Vacant** — Loss of candidate Paige; replacement search ongoing.
+### Critical Issue: Reassignment Required
+This project contains **no stale, archived work** — it's active procurement and build activity for ongoing projects (IRAD variants, Hurricane IDIQ, NASA, sales). Tasks need immediate reassignment to functional owners. The orphaning likely happened mid-procurement cycle.
 
-### Task Ownership & Reassignment
-All 59 open tasks are unassigned. No clear ownership model for:
-- Airframe build tasks (linkages, servo wiring, assembly phases)
-- Order fulfillment and receiving coordination
-- QC/flight testing phases
-- Maintenance on operational aircraft (S10019 trims)
+### Procurement Patterns
+- Heavy reliance on Jawstec (9+ orders) and Digikey/Mouser (6+ orders combined)
+- All orders marked "Order Received" with "Status: Order Received" custom field — unclear if this means orders have been placed or are awaiting placement
+- Most orders flagged Tax Exempt: YES, suggesting academic/research project billing
+- Requested placement dates often precede due dates by weeks (e.g., placed Jul 6, due Jul 11)
 
-Likely intended assignees based on task notes:
-- **Joshua Fromm:** Procurement lead (39 orders tagged with his name)
-- **Alex:** GCS/Swiftstation orders, S0 VTOL components
-- **Ethan:** Maintenance/QC tasks
-- **Spencer:** S0 IRAD, hardware sourcing
-- **Dan Prendergast:** Customer support, magnetometer project, ECCN classification (needs escalation)
+### Aircraft Maintenance
+- **Trims** (S10019): No due date; pending trim surface reset (assigned to Ethan in notes)
+- **Assembly** and **QC Flight**: Generic names; likely S-series airframes for testing
 
-### Dollar Value Signaling
-No explicit budget sums in custom fields. Estimated ~$150K–$300K+ in active orders across multiple projects (typical electronic/composite platform builds).
-
-### Red Flags
-- **Overdue dates:** 2026-05-21 (power switches), 2026-06-19 (rebuild old S0), 2026-06-30 (S0 delivery) all appear to have passed without completion confirmation.
-- **No assignees:** Unassigned status across critical path tasks suggests project was mid-handoff when Nate left.
-- **Tight timelines:** Assembly and QC phases (Aug 21–Sep 01) depend on successful completion of all prior steps with zero slack.
-
----
-
-## Immediate Action Items
-1. **Re-assign airframe build chain** to qualified hardware lead (likely internal)
-2. **Assign ECCN classification task** to Dan Prendergast or escalate ownership (urgent for Canada/LMUK)
-3. **Verify or close overdue tasks** (June deadlines)
-4. **Consolidate procurement ownership** — Joshua Fromm or dedicated buyer to manage 39 orders and incoming deliveries
-5. **Clarify build schedule** — Confirm if S0 deliveries, S3 INSTAAR, Hurricane IDIQ, and S0 VTOL are on track post-Nate transition
+### No Dollar Values in Custom Fields
+Budget data not provided in order records — cannot calculate total procurement spend.
