@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NASA Langley (Chris Meek) purchasing two S0 vehicles with basic atmospheric sensor packages for P3 platform integration (Boeing 777 and G3 integrations deferred to future FY). Customer confirmed moving forward with purchase this FY, delivery after October 1, 2026. Estimate sent Aug 7 with shipping cost pending. Customer awaiting NASA procurement form assistance.",
+  "notes": "NASA Langley (Chris Meek) confirmed moving forward with purchase this FY, delivery after October 1, 2026. Beck sent estimate 2026-08-07 for two S0 vehicles with basic atmospheric sensor packages for P3 platform (NOAA configuration). Shipping cost pending. Customer assisting with NASA procurement forms. Separate AFA proposal for high-altitude S0 work was rejected 2026-08-05; this is a direct commercial hardware procurement, not that proposal effort.",
   "missing_fields": [
     "ship_to",
     "invoice_number",

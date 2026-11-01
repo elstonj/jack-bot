@@ -516,7 +516,7 @@
     - Email: mgreve@insurance-associates.com
   - **Liberty Mutual** — Insurance Provider
     - Email: amy.delaney@libertymutual.com, hannah.wilkins@libertymutual.com
-  - **PinnacolVaccine** — Workers Compensation
+  - **Pinnacol** — Workers Compensation
     - Email: alondra.jara@pinnacol.com
 
 ### Meteorological & Weather Services
@@ -543,7 +543,7 @@
   - **Alamos News** — Regional News
     - Email: news@alamosanews.com
   - **CNN** — Major News Organization
-    - Email: tips@cnn.com, help@cnn.com, livenowtips@fox.com
+    - Email: tips@cnn.com, help@cnn.com
   - **NPR/PBS** — Public Broadcasting
     - Email: viewermail@newshour.org
   - **ABC News** — Major News Organization
@@ -651,13 +651,58 @@
 ### Internal BST Contacts (Black Swift Technologies)
 - **Relationship context**: Internal team and operations
 - **Key contacts**:
-  - Email: stephan.esterhuizen@blackswifttech.com, cory.dixon@blackswiftech.com, brad.cheetam@blackswifttech.com, bugfix@blackswifttech.com, stacg@blackswifttech.com, approvedflight@blackswifttech.com, josh@bst.aero, tachura@bst.aero, careers@bst.aero, all@bst.aero, operations@bst.aero, stachuram@blackswifttech.com, mirvin@bst.aero, carrers@bst.aero, statucha@blackswifttech.com, stacie@pitchdeckfire.com, dan.prendergast@bst.aero, tiffany.elston@blackswifttech.com, anny.troke@blackswifttech.com, stachuram@bst.aero, karen.zimmerman@bst.aero, blackswifttech.com_dg5s3sumiejnhnfjmknj690bo0@group.calendar.google.com, hurricane-data-proces-aaaan2gz2ajcozt5latqxlsr7y@blackswifttec-jml9878.slack.com, statutura@blackswifttech.com
+  - **Stephan Esterhuizen**
+    - Email: stephan.esterhuizen@blackswifttech.com
+  - **Cory Dixon**
+    - Email: cory.dixon@blackswiftech.com
+  - **Brad Cheetham**
+    - Email: brad.cheetam@blackswifttech.com
+  - **Stac G** — Operations
+    - Email: stacg@blackswifttech.com
+  - **Joshua** — Aerospace/Operations
+    - Email: josh@bst.aero
+  - **Tachura**
+    - Email: tachura@bst.aero
+  - Careers/Recruitment
+    - Email: careers@bst.aero, carrers@blackswifttech.com
+  - All-Team
+    - Email: all@bst.aero
+  - Operations
+    - Email: operations@bst.aero
+  - **Stachuram**
+    - Email: stachuram@blackswifttech.com, stachuram@bst.aero
+  - **Mirvin**
+    - Email: mirvin@bst.aero
+  - **Karen Zimmerman**
+    - Email: karen.zimmerman@bst.aero
+  - **Tiffany Elston**
+    - Email: tiffany.elston@blackswifttech.com
+  - **Anny Troke**
+    - Email: anny.troke@blackswifttech.com
+  - **Dan Prendergast**
+    - Email: dan.prendergast@bst.aero
+  - **Stacie** — Business Development
+    - Email: stacie@pitchdeckfire.com
+  - **Statutura**
+    - Email: statutura@blackswifttech.com
+  - **Bryan Constanza**
+    - Email: bryan.constanza@blackswifttech.com
+  - **Maciej**
+    - Email: Maciej@blackswifttech.com
+  - Calendar/Administrative
+    - Email: blackswifttech.com_dg5s3sumiejnhnfjmknj690bo0@group.calendar.google.com
+  - Bug Reporting
+    - Email: bugfix@blackswifttech.com
+  - Flight Operations
+    - Email: approvedflight@blackswifttech.com
+  - Slack Integration
+    - Email: hurricane-data-proces-aaaan2gz2ajcozt5latqxlsr7y@blackswifttec-jml9878.slack.com
 
 ---
 
 ## Summary
 
-**Total External Contacts**: 8,600+ (comprised of 1,200+ named individuals and 7,400+ email addresses without assigned names)
+**Total External Contacts**: 9,000+ (comprised of 1,200+ named individuals and 7,800+ email addresses without assigned names)
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
@@ -666,7 +711,7 @@
 4. **Internal BST** — 25+ team members and operations contacts
 5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, etc.)
 6. **Financial/Business Services** — 50+ contacts (Wells Fargo, US Bank, Paychex, etc.)
-7. **Unnamed/Unknown Organization** — 7,400+ email addresses (external vendors, consultants, media, and service providers)
+7. **Unnamed/Unknown Organization** — 7,800+ email addresses (external vendors, consultants, media, and service providers)
 
 **Notable Relationship Clusters**:
 
@@ -692,9 +737,9 @@
 
 ---
 
-## Notes on Data Quality
+## Data Quality Notes
 
-- **Unnamed Entries**: 7,400+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations.
+- **Unnamed Entries**: 7,800+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations.
 - **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members.
 - **Duplicates**: Some individuals appear multiple times with different email variations.
 - **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation).

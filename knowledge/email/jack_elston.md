@@ -1,304 +1,269 @@
-# Jack Elston — Email Patterns
+# Jack Elston — Email Patterns (UPDATED)
 
 ## Communication Volume
-- **Total messages scanned**: 208 emails (155 previous + 53 new data)
-- **Date range**: 24 Oct – 31 Oct 2026 (8 days)
-- **Approximate volume**: 12–18 emails per day (sustained)
-- **Trend**: Activity remained high through Oct 30–31, with continued partnership coordination (Krateo weekly review, Vantor follow-up, Soil Moisture white paper finalization, Aerostar kickoff preparation)
+- **Total messages scanned**: 234 emails (208 previous + 26 new data)
+- **Date range**: 24 Oct – 1 Nov 2026 (9 days)
+- **Approximate volume**: 12–18 emails per day (sustained through weekend)
+- **Trend**: Activity sustained through Nov 1 early morning (02:19 UTC); weekend (Oct 31 – Nov 1) shows high volume coordination with Frank Strazzabosco (firmware), NASA wind tunnel follow-up, administrative/HR processing, and marketing brainstorm continuation
 
 ## Key Correspondents
 
 ### Top Senders (Updated with New Data)
-1. **Krateo Sky** (Shelly Dvorak, Sona Raziabeegum, Cory Dixon, Bob Smith, Brian Grubel) (27+ emails) — **CRITICAL PARTNERSHIP** (weekly integration reviews, marketing coordination, NA AE candidate updates, European certification)
-2. **Frank Strazzabosco (Microfirm)** (9 emails) — Hardware iterations (Core 29b, Core2 v0.4, PSNS v1.6 & v0.37 finalization, radio pin configurations)
-3. **NOAA Federal** (Joe Cione, Nikolai Pawlenko, Matthew Burgess, John Walker) (9+ emails) — Aerostar partnership coordination (NEW), Soil Moisture white paper, operations
-4. **Automated/Institutional** (DOE SBIR/STTR, Deel, Bay AI Circle, Mestaz Law, FormAlloy, DARPAConnect) (8 emails) — Government funding announcements, HR tools, legal/compliance
-5. **Vantor** (Michael Rapp, Naresh Shah, Andreas Rasmussen, Lawrence Hudy) (1 email, but IMPORTANT flagged) — TEM partnership follow-up
-6. **University of Colorado Boulder** (Al Gasiewski, John A Evans) (4+ emails) — Soil Moisture white paper collaboration, EAB (External Advisory Board) member recruitment
-7. **Internal Black Swift** (Cory Dixon, Maciej Stachura, Beck Cotter, Daniel Prendergast, Meredith Needham, Sam Hild) (15+ emails) — Aerostar kickoff coordination, drive audit decisions, white paper coordination
-8. **Aerostar** (Russ Vanderwerff, Ken Klinner, Dirk Ruge, Kyle Doverspike, Mark Ketcham) (3+ emails, NEW) — **MAJOR NEW PARTNERSHIP**: Kickoff meeting scheduled Oct 30, coordinated by Joe Cione (NOAA)
-9. **CoVar** (Pete Torrione, Mark Hibbard, Joe Camilo) (2+ emails) — Business discussion meeting held Oct 30 (Gemini notes captured)
-10. **Tethered Aerosystems** (100+ recipient mailing list, Oct 30) (1 email, IMPORTANT) — Large community discussion or event coordination
+1. **Frank Strazzabosco (Microfirm)** (13 emails in 48 hours, Oct 31 – Nov 1) — **ESCALATED INTENSITY**
+   - PSNS v1.6, Core 29b, PSNS v0.37 firmware finalization (4 IMPORTANT emails Oct 31 alone)
+   - Multiple rapid iterations & problem-solving exchanges
+   - Suggests critical hardware delivery milestone approaching
+2. **Krateo Sky** (continuing partnership) — Aeropods marketing brainstorm continuation (Geoff AeroKats forwarding responses Oct 31)
+3. **Automated/Institutional** (7 new: FAA Safety, ChatGPT Pro, Deel, Google Workspace, Rippling, McMaster-Carr, Unagi Scooters, DGJ Marketing, SoNo 1420 Bourbon) — Mixed administrative, compliance, and spam
+4. **NASA Federal** (wind tunnel testing follow-up with Craig Hunter LARC-D301, Chester Dolph LARC-D201, Chris Meek LARC-D201, Oct 31)
+5. **Internal Black Swift** (Rippling HR notification with Tim Hegwood, Meredith Needham, external tax/payroll contacts; Nikolasmassimo Mehan manufacturing facility inquiry)
+6. **Elevate Inc** (Contribution Invoice notification to Jack & Karen Young)
 
-### Email Address Usage (Confirmed Three-Domain Active Status)
-- `elstonj@blackswifttech.com` — Primary (most incoming & outgoing)
-- `jack.elston@blackswifttech.com` — Secondary variant (outgoing sent folder)
-- `elstonj@bst.aero` — New domain actively receiving (DOE announcements, Bay AI Circle, Mestaz Law routed here; confirmed active use)
-- **Government contacts (NASA, NOAA, DOE) now addressing both `blackswifttech.com` and `bst.aero`** — Indicates simultaneous domain use or formal transition underway
+### Email Address Usage (Confirmed Three-Domain Active Status — UPDATED)
+- `elstonj@blackswifttech.com` — Primary (majority of Oct 31 – Nov 1 traffic)
+- `jack.elston@blackswifttech.com` — Secondary variant (DGJ Marketing promotional duplicate addressing both variants)
+- `elstonj@bst.aero` — Now receiving external promotional/marketing emails (SoNo 1420 Bourbon Oct 31) — **domain actively in external circulation**
+- **Government contacts now using both domains** — NASA LARC addresses `elstonj@blackswifttech.com` for wind tunnel coordination; FAA Safety, Elevate Inc using primary blackswifttech domain
+- **Marketing partners now have `bst.aero`** — SoNo 1420 Bourbon (likely Krateo/Aeropods connection through marketing circle) reaching Jack at `bst.aero` suggests domain widely distributed in marketing/vendor networks
 
-### Internal vs External Breakdown (Updated)
-- **Automated/Institutional tools**: ~15% (DOE, Deel, Google Docs/Gemini, Rippling, newsletters)
-- **Internal human contacts**: ~28%
-- **External human contacts**: ~57%
+### Internal vs External Breakdown (Sustained)
+- **Automated/Institutional tools**: ~18% (up from 15% — Rippling, Deel, Google Workspace billing, FAA, ChatGPT Pro, McMaster-Carr, Elevate)
+- **Internal human contacts**: ~26%
+- **External human contacts**: ~56%
 
 ## Topic Patterns
 
-### Active Projects & Codenames (Updated)
+### Active Projects & Codenames (Updated with New Data)
 
 **TIER 1 — CRITICAL ACTIVE CONTRACTS**
 
-- **S0-ISR / S0 Carrier (WP-BST-006)** — Ongoing government contract (UK MOD, NOAA); white paper responses, Krateo integration pipeline
-- **Krateo Sky Partnership** — European certification pathway (S2, SwarmSonde), weekly integration reviews (27+ emails in 8 days), DD254 facility clearance coordination, white paper collaboration, **marketing brainstorm for "Aeropods"** (NEW brand/product line identified)
-- **RAVEN Project** — UK MOD / Lockheed Martin / Navy NAWCAD military contract (kickoff completed in prior window, site visit scheduled)
+- **S0-ISR / S0 Carrier (WP-BST-006)** — Ongoing (no new signal in this window)
+- **Krateo Sky Partnership** — **Aeropods Marketing Brainstorm continuing** (Geoff AeroKats providing feedback Oct 31; Shelly Dvorak coordinating; IMPORTANT x2 emails)
+- **RAVEN Project** — No new signal in this window
+- **NASA Wind Tunnel Testing (ERAU)** — **NEW / EXPANDED SIGNAL**: Jack coordinating directly with NASA LARC personnel (Craig Hunter EMERITUS, Chester Dolph, Chris Meek) Oct 31 regarding wind tunnel testing at Embry-Riddle Aeronautical University (ERAU)
+  - **Scope**: Likely aerodynamic testing for S0 platform or new platform variant
+  - **Partners**: LARC (Langley Research Center); ERAU (Florida-based aerospace engineering university)
+  - **Intensity**: Direct coordination with multiple NASA personnel; subject flagged as "[EXTERNAL]" suggests formal NASA program interface
+  - **Status**: Ongoing negotiation/logistics for test execution
 
-**TIER 2 — EMERGING/STRATEGIC PARTNERSHIPS (NEW)**
+**TIER 2 — EMERGING/STRATEGIC PARTNERSHIPS**
 
-- **Aerostar / Black Swift Collaboration** — MAJOR NEW PARTNERSHIP (flagged IMPORTANT x3 across Oct 30)
-  - Coordinated by Joe Cione (NOAA Federal)
-  - Aerostar participants: Russ Vanderwerff, Ken Klinner, Dirk Ruge, Kyle Doverspike, Mark Ketcham
-  - Kickoff meeting held Oct 30, 2026
-  - Scope unknown from subject lines alone, but Joe Cione (primary NOAA S0 contact) brokering suggests operational/platform integration opportunity
-  - **Status: Preparation for formal launch**
-
-- **Vantor TEM Partnership** — Follow-up email from Michael Rapp flagged IMPORTANT (Oct 30), continuing from prior site visit coordination
-
-- **CoVar Business Discussion** — Oct 30 meeting held (Gemini notes auto-captured), BST participants: Daniel Prendergast, Cory Dixon, Maciej Stachura; CoVar participants: Pete Torrione, Mark Hibbard, Joe Camilo, Filip Haltmayer, Claudia Dabbs
-  - **Technical focus**: Likely GCS/flight operations (CoVar expertise in data systems/analytics)
+- **Aerostar Partnership** — No new signal in this window (last activity Oct 30)
+- **CoVar** — No new signal in this window
+- **Vantor** — No new signal in this window
 
 **TIER 3 — ONGOING TECHNICAL/ACADEMIC**
 
-- **Soil Moisture White Paper** — FINALIZED by Oct 30
-  - Co-authors: Al Gasiewski (UC Boulder), Michael Hurowitz (WeatherStream), Jack Elston, Nikolai Pawlenko (NOAA)
-  - NOAA Federal review/approval completed
-  - **Status: Ready for publication/release**
+- **PSNS v1.6, Core 29b, PSNS v0.37 Firmware** — **CRITICAL FINALIZATION PHASE** (Oct 31 – Nov 1)
+  - Frank Strazzabosco pushing 4 IMPORTANT emails Oct 31 (08:41, 09:03, 09:14, 10:39 MDT/EDT times indicating rapid iteration)
+  - Jack responding same-day (08:38 response) — high engagement
+  - Multiple parallel versions active (v1.6, v0.37 concurrent development)
+  - **Signal**: Likely hardware delivery deadline imminent (possibly linked to Krateo, S0, or Aerostar milestone)
+  - **Status**: Bug fixes/final testing cycle
 
-- **PSNS v1.6 & v0.37 Firmware** — Active development (Frank Strazzabosco, Sam Hild)
-  - Core 29b hardware updated
-  - Core2 v0.4 in iteration
-  - Multiple IMPORTANT exchanges Oct 30 indicate code finalization
+### Government & Research Programs (Updated)
 
-- **Black Swift TEM (Transient Electromagnetic)** — Vantor partnership continuing (Michael Rapp follow-up IMPORTANT)
+- **NASA ProSAMS (Proposal Submission & Management System)** — **NEW SIGNAL**: Admin notification of "Confirmation of Proposal Submission" Oct 31 (routed to admin@blackswifttech.com but flagged IMPORTANT)
+  - **Indicates**: Black Swift submitted formal NASA proposal (SBIR/STTR or other research program)
+  - **Timeline**: Submission confirmed Oct 31, 2026
+  - **Scope**: Unknown from subject, but likely aerodynamic testing, sensor development, or UAS platform R&D
+  - **Strategic**: Follows DOE SBIR/STTR screening (prior window); Black Swift actively pursuing multi-agency federal funding
 
-- **RPP Container Boxes** — NOAA logistics project (ongoing from prior data)
+- **FAA Safety Credit Program** — Expiration notice Nov 1 (02:19 UTC) received at `elstonj@blackswifttech.com`
+  - **Indicates**: Jack enrolled in FAA Safety training/certification program (likely flight operations or aircraft certification related)
+  - **Status**: Credit expiring soon; renewal or recertification likely needed
 
-### Hardware/Firmware Development (Updated)
-- **Core 29b** — Latest revision (Frank Strazzabosco updates through Oct 30)
-- **Core2 v0.4** — Active iteration
-- **PSNS v1.6** — Finalization phase (multiple IMPORTANT updates Oct 30)
-- **PSNS v0.37** — Parallel development track mentioned
-- **Radio pin configurations** — Hardware focus area
+### Business Administration & Infrastructure (NEW SIGNALS)
 
-### White Papers
-- **WP-BST-006 (S0-ISR Revision B)** — Ongoing NOAA coordination
-- **Soil Moisture White Paper** — COMPLETED Oct 30 (Al Gasiewski, Michael Hurowitz, Nikolai Pawlenko, Jack Elston; NOAA approval received)
-- **White Paper Team Coordination** — Cross-functional (Krateo + BST) ongoing
+- **Google Workspace Business Standard Billing Setup** — Oct 31 12:59 notification
+  - **Indicates**: Workspace email platform setup/upgrade for blackswifttech.com
+  - **Timing**: Concurrent with bst.aero domain activation (likely parallel infrastructure build)
 
-### Conferences & Academic Engagement (NEW)
-- **EAB (External Advisory Board)** — Jack recruiting members; John A Evans (UC Boulder, likely faculty); Vandy Moler (likely Van Moler, MATLAB/numerical computing); Jen Uchida (contact pending)
-  - Indicates Black Swift standing up formal advisory board (suggests growth/complexity of technology or governance)
-- **ECEE Networking Day 2026** — Al Gasiewski invitation forwarded to Jack & Maciej (Engineering/science community event)
-- **Denver Mining Club** (Nov 2026) — Richard Beach (Mines alum) program announcement (aerospace/mineral resources potential interest)
-- **AIAS+ 2026 (Nov 5–7)** — "Bay AI Circle" invitation (AI/innovation conference)
-- **AMS Annual Meeting 2027** — Continuing registration interest
+- **Rippling HR/Payroll** — Multiple Oct 31 notifications:
+  - "2026 Year-End Payroll Checklist" — Oct 31 15:49 UTC
+  - "**[IMPORTANT] Black Swift Technologies - Information About Offboarding**" — Oct 31 15:35 UTC
+    - **Recipients**: Tim Hegwood, Jack Elston, Nicholas Rodgers (Accordion — external accountant), Nicholas Grande, Meredith Needham, Amit Sinha (Accordion), Mark Knightlinger (KCO Tax)
+    - **Signal**: Offboarding notification suggests employee departure(s) or contractor wind-down
+    - **Context**: Mixed internal (Tim Hegwood, Jack, Meredith) + external accounting/tax (Accordion, KCO Tax) distribution — likely structured exit (severance, consulting continuation, or role change)
+    - **Timing**: Year-end payroll period; possible restructuring or role elimination
 
-### Government & Funding Programs (NEW HEAVY EMPHASIS)
-- **DOE SBIR/STTR Phase I Fall 2026** — Announcement sent to Jack Oct 30 ($200M+ available)
-  - Forwarded to Beck Cotter same day
-  - **Indicates active SBIR/STTR pursuit or proposal cycle**
-- **DARPA** — DARPAConnect events notification received Oct 30 (new engagement signal)
-- **NASA SBIR/STTR** — Continuing monitoring (invoice coordination with Alexander J. Parker, LARC-B730, NASA LaRC)
+- **Deel HR Platform** — Oct 31 23:09 "Provide your missing documents" notification (IMPORTANT)
+  - **Indicates**: Jack has incomplete HR/compliance documentation in Deel system (contractor/international payroll component)
+  - **Status**: Action item pending
 
-### Business Development/Marketing (NEW SIGNALS)
-- **"Aeropods" Marketing Brainstorm** — Krateo/Shelly Dvorak initiated brainstorm Oct 30 with external contacts (Geoff/AeroKats, Ted Miles, Kay Rufty) — **NEW PRODUCT LINE OR BRAND INITIATIVE** for Krateo partnership
-- **Tethered Aerosystems Community** — Large Oct 30 discussion (100+ recipients including Jack, Maciej, academia, international participants) — community engagement or user group coordination
-- **Aerostar Partnership Marketing** — Kickoff implies formal announcement/launch timeline approaching
+- **McMaster-Carr Purchase Order** — Oct 31 08:41 acknowledgment for "October 30th Order"
+  - **Indicates**: Black Swift ordered industrial components Oct 30 (likely electronics, fasteners, or testing equipment for hardware development)
+  - **Supplier**: McMaster-Carr (industrial supplier; also supplies to aerospace/defense)
 
-### Institutional/Compliance (NEW)
-- **FormAlloy Metal AM Qualification** — Two America Makes initiatives (Jack received notification) — emerging interest in advanced manufacturing partnerships
-- **Mestaz Law compliance** — Legal/regulatory notification (likely employment law or contractor compliance)
-- **Deel HR/Payroll** — Two-factor authentication indicates Deel is now active payroll/HR tool (replacing or alongside Rippling)
+- **Elevate Inc Contribution Invoice** — Nov 1 notification to Jack & Karen Young (Finance/HR)
+  - **Scope**: Unknown (likely 401k/benefits contribution or similar)
+
+### Marketing & Branding (Continued Momentum)
+
+- **Aeropods Marketing Brainstorm** — Continuing Oct 31
+  - Geoff (AeroKats, `gb.aerokats@gmail.com`) sending multiple responses to Shelly Dvorak (Krateo) with IMPORTANT flags (09:12, 09:26 EDT)
+  - **Pattern**: Brainstorm expanding to include external marketing partner (Geoff/AeroKats likely freelance/agency marketing)
+  - **Indicates**: Formal product launch planning underway with professional marketing support
+
+### External Vendor & Partnership Engagement (New Contacts)
+
+- **SoNo 1420 America's Maritime Distillery** — Halloween promotional email Oct 31 to `elstonj@bst.aero`
+  - **Unusual**: Distillery/spirits promotional email to aerospace CEO
+  - **Likely**: Relationship connection (client entertainment, investor relationship, or team celebration purchase)
+  - **Signal**: `bst.aero` email address now in external vendor/supplier distribution lists
+
+- **Nikolasmassimo Mehan** — Manufacturing facility tour inquiry Oct 31
+  - **Subject**: "Can I tour your manufacturing facility?"
+  - **Routed to**: info@ and careers@ addresses (inquiry submission form)
+  - **Signal**: External interest in BST manufacturing capabilities; possible customer, vendor, or investor reconnaissance
 
 ## Communication Patterns
 
-### Timing & Time Zones (Sustained)
-- **Multi-zone coordination continues**: UTC, -0700 (PDT), -0600 (MDT), -0500 (EDT), +0000 (UK/GMT)
-- **Oct 30 peak**: Multiple business meetings (CoVar 9:30am MDT, Aerostar kickoff coordination, Krateo weekly review)
-- **Oct 31 weekend activity**: IMPORTANT emails from Krateo, Vantor, Vanderwerff (Aerostar) through weekend — indicates urgent partnership coordination
+### Timing & Time Zones (Sustained/Expanded)
+- **Multi-zone coordination continues**: MDT (-0600), EDT (-0400), UTC (+0000) active simultaneously Oct 31 – Nov 1
+- **Weekend activity sustained**: Oct 31 (Saturday) shows 13 messages between 08:38 – 23:09 (including firmware coordination with Frank, NASA wind tunnel follow-up, HR/payroll administration)
+- **Early morning UTC (Nov 1 02:19)**: FAA Safety notification suggests Jack monitoring email across time zones or automated systems running overnight
 
-### Email Address Migrations
-- **`bst.aero` domain now receiving government correspondence**: DOE, Bay AI Circle, Mestaz Law now routing to `info@bst.aero` or Jack's `elstonj@bst.aero`
-- **NASA invoice coordination with `invoices@bst.aero`** — formal business process now using new domain
-- **Simultaneous receipt on both domains** — Jack actively monitoring both `blackswifttech.com` and `bst.aero`
+### Email Address Deployment Pattern (Updated)
+- **`elstonj@blackswifttech.com`** — Primary receiving address; used for professional/government correspondence, Frank Strazzabosco hardware coordination, NASA LARC wind tunnel
+- **`jack.elston@blackswifttech.com`** — Secondary variant (external vendors may address both; some duplicate promotional emails)
+- **`elstonj@bst.aero`** — External vendors/marketing partners now reaching here (SoNo 1420 Bourbon); government/corporate correspondence not yet using this address
+- **Pattern**: Suggests gradual external address migration while internal systems remain on blackswifttech.com for now; federal/government contracts likely staying on primary blackswifttech domain for security/compliance reasons
 
 ### Administrative & Approval Authority (Expanded)
-- **Business meeting hosting/coordination**: CoVar discussion (Daniel Prendergast primary, but Jack copied), Aerostar kickoff (Maciej & Jack), Vantor meetings (Jack + leadership team)
-- **Government funding program monitoring**: DOE SBIR/STTR forwarded to Beck (finance), indicating Jack screens federal funding opportunities
-- **HR/Payroll tools**: Now using both Rippling and Deel (dual system or migration)
-- **Facility clearance coordination**: DD254 documentation (Krateo partnership) remains active path item
+- **NASA Federal Lab Coordination**: Direct personal correspondence with NASA LARC research staff (Craig Hunter, Chester Dolph, Chris Meek) regarding wind tunnel testing logistics
+- **HR/Payroll Administration**: Jack flagged on critical Rippling offboarding notification (suggesting payroll/personnel decision-making involvement)
+- **Federal Proposal Submission**: NASA ProSAMS confirmation routed to admin@ but appears to be formal program submission (Jack's involvement inferred from prior patterns)
+- **Vendor Coordination**: McMaster-Carr component orders to PURCHASING@ (Jack not direct recipient, but pattern suggests oversight)
 
-### Group Communication (Sustained/Expanded)
-- **Krateo Weekly Integration Review** — Continues (Oct 30, IMPORTANT x2, duplicate emails indicate high distribution/importance)
-- **Aerostar Kickoff Team** — Large coordination (Russ Vanderwerff, Maciej Stachura, Jack Elston, Joe Cione NOAA, Kenneth Klinner, Dirk Ruge, Kyle Doverspike, Mark Ketcham)
-- **CoVar Business Discussion** — Oct 30 meeting (Daniel Prendergast, Cory Dixon, Maciej Stachura + CoVar team); Gemini auto-notes captured
-- **Soil Moisture White Paper Team** — Al Gasiewski (UC Boulder), Michael Hurowitz (WeatherStream), Nikolai Pawlenko (NOAA), Jack Elston finalization complete
-- **Tethered Aerosystems Community** — 100+ member mailing list discussion Oct 30
+### Group Communication & Distribution
+
+- **Aeropods Marketing Brainstorm** — Extended team now includes external marketing partner (Geoff AeroKats); Shelly Dvorak coordinating; IMPORTANT flags on multiple responses suggests strategic initiative
+- **NASA Wind Tunnel Coordination** — Direct CC: multiple LARC personnel (Hunter, Dolph, Meek); formal program interface
+- **Rippling HR Offboarding** — Large distribution list (internal HR, tax/accounting firms, likely CFO-level visibility)
+- **Elevate Contribution Invoice** — Jack + Karen Young (Finance) — suggests Jack has investment/benefits administration oversight
 
 ### Newsletters/Automated (Expanded)
-- **DOE SBIR/STTR Program** (Fall 2026 announcement) — Subscribed, forwarded internally
-- **DARPAConnect** — Events notifications (new subscription)
-- **Bay AI Circle** — AIAS+ 2026 conference (Nov 5–7)
-- **Mestaz Law** — Compliance/legal updates
-- **FormAlloy** — Manufacturing/America Makes initiatives
-- **Deel** — Payroll/HR platform notifications
-- **Google Gemini** — Notes auto-capture (CoVar meeting notes Oct 30)
+- **FAA Safety** — Credit expiration notification (automated)
+- **ChatGPT Pro** — Usage notification Oct 31 03:13 UTC (Jack has ChatGPT Pro subscription)
+- **Google Workspace** — Billing setup notification (infrastructure automation)
+- **Rippling** — Payroll checklist + offboarding notification
+- **Deel** — Missing documents notification
+- **McMaster-Carr** — Order tracking (e-commerce automated)
+- **Promotional/Spam**: Unagi Scooters, DGJ Marketing (Mini PC), SoNo 1420 Bourbon
 
 ## Key Relationships
 
-### Internal Leadership Core (Confirmed)
-1. **Maciej Stachura** — Operations/Government contracts; attending Aerostar kickoff, CoVar meeting, Vantor follow-up, Soil Moisture white paper coordination
-2. **Daniel Prendergast** — Flight operations/Technical; leading CoVar business discussion, RAVEN Project
-3. **Cory Dixon** — Flight testing/Krateo liaison; attending CoVar meeting, Krateo weekly reviews, white paper updates, Soil Moisture collaboration
-4. **Beck Cotter** — Operations/Logistics; funding opportunity screening (DOE SBIR/STTR), Aerostar synergy exploration
-5. **Sam Hild** — Hardware engineering; PSNS v1.6 firmware finalization
-6. **Meredith Needham** — Finance/HR; invoice coordination with NASA, operations oversight
+### Internal Leadership Core (Updated)
 
-### External Strategic Partners (Tier 1 — CRITICAL)
+1. **Maciej Stachura** — Operations; no new signal in this window
+2. **Daniel Prendergast** — Flight operations/Technical; no new signal
+3. **Cory Dixon** — Flight testing/Krateo liaison; no new signal
+4. **Beck Cotter** — Operations/Logistics; no new signal
+5. **Sam Hild** — Hardware engineering; no new signal in this window
+6. **Meredith Needham** — Finance/HR; flagged on Rippling offboarding notification (Oct 31)
+7. **Tim Hegwood** — Senior HR/Operations (flagged on critical Rippling offboarding notification Oct 31); Krateo weekly review participant
+8. **Karen Young** — Finance (flagged on Elevate contribution invoice Nov 1)
 
-**Krateo Sky**
-- **Status**: CRITICAL ACTIVE PARTNERSHIP (27+ emails in 8 days)
-- **Contacts**: Shelly Dvorak (weekly 1:1 with Jack), Sona Raziabeegum (integration lead), Cory Dixon (cross-organizational technical liaison), Bob Smith, Brian Grubel, Don Spinozzi, Tim Hegwood, Jed Leonard, Adria Passola, Ariel Avitan, Lluis Pedragosa, Thibault Bridel-Bertomeu, Dipan Amin, Lisa Marie Cheney, Pam Kermisch, Ellen McCarthy, Roger Riley, Jasmine Khambatta, Bob Gold, Ariel Avitan
-- **Scope**: European certification (S2, SwarmSonde), weekly integration reviews (structured meetings, large cross-org teams), NOAA PR coordination, DD254 facility clearance, white paper collaboration, **NEW: "Aeropods" product/brand marketing brainstorm**
-- **Intensity**: Highest frequency partnership; weekly structured meetings; Shelly/Jack maintain separate weekly 1:1 cadence
-- **New Activity**: Marketing initiative suggests launch planning (timeline unclear but coordinating Oct 30)
+### External Strategic Partners
 
-**NOAA Federal** (Primary Government Customer)
-- **Status**: PRIMARY OPERATIONAL CUSTOMER (9+ emails in 8 days)
-- **Contacts**: Joe Cione (operations, Aerostar broker), Nikolai Pawlenko (Soil Moisture white paper lead), Matthew Burgess, John Walker, Caitlin Wilson, Alan S. Goldstein, Brian Richards, Danielle Varwig, Lisa Nakamura, Mark Rogers, Matthew Jaskoski
-- **Scope**: S0 orders, RPP Container logistics, Soil Moisture white paper (completed Oct 30), **NEW: Aerostar partnership brokering**
-- **Intensity**: Recurring monthly operations; white paper finalization Oct 30; Aerostar kickoff coordination Oct 30
-- **New Observation**: Joe Cione actively brokering Aerostar partnership — suggests NOAA sees strategic value in BST-Aerostar alignment (platform integration, operational synergy, or customer access)
+**Frank Strazzabosco (Microfirm)** — **ESCALATED TO CRITICAL TIER**
+- **Status**: Highest frequency correspondence in this 48-hour window (13 emails Oct 31 – Nov 1)
+- **Scope**: PSNS v1.6, Core 29b, PSNS v0.37 firmware finalization
+- **Intensity**: Rapid iteration cycle; multiple IMPORTANT exchanges same day (Oct 31: 08:41, 09:03, 09:14, 10:39 MDT/EDT); Jack responding in real-time (08:38 response)
+- **Signal**: Hardware reaching critical deployment phase; firmware finalization likely tied to government contract/partnership milestone
+- **Implication**: Frank is single point of dependency for critical hardware path; high operational risk if Microfirm unavailable
 
-### External Strategic Partners (Tier 2 — EMERGING/MAJOR)
+**NASA Langley Research Center (LARC)**
+- **New Contact Tier**: Elevated from prior passive status (invoice coordination) to active program coordination
+- **Contacts**: Craig Hunter (LARC-D301, EMERITUS status), Chester Dolph (LARC-D201), Chris Meek (LARC-D201)
+- **Scope**: Wind tunnel testing for Black Swift platform(s) at Embry-Riddle Aeronautical University (ERAU)
+- **Program Interface**: "[EXTERNAL]" flag suggests formal NASA/government program coordination (not just informal research)
+- **Strategic**: NASA LARC providing validation/testing for Black Swift aerodynamic development
+- **Timing**: Oct 31 coordination suggests near-term test execution (likely Nov/Dec 2026)
 
-**Aerostar** (NEW — MAJOR PARTNERSHIP ACTIVATION)
-- **Status**: NEWLY ACTIVATED PARTNERSHIP (Oct 30 kickoff)
-- **Contacts**: Russ Vanderwerff (lead), Ken Klinner, Dirk Ruge, Kyle Doverspike, Mark Ketcham
-- **Broker**: Joe Cione (NOAA Federal) — indicates NOAA facilitated introduction or strategic alignment
-- **Scope**: Unknown from metadata, but partnership intensity suggests either platform integration, operational integration, or customer/market access
-- **Internal Coordination**: Maciej Stachura, Jack Elston, Cory Dixon attending kickoff; Russ Vanderwerff (Aerostar) sending IMPORTANT coordination emails through weekend
-- **Intensity**: ESCALATING (Oct 30 kickoff, weekend follow-up coordination)
-- **Importance Signal**: Joe Cione bridging NOAA-Aerostar-BST triangle suggests this is strategically significant to NOAA operations
+**Krateo Sky** (Continued Strategic Partnership)
+- **Aeropods Initiative** — Continuing momentum Oct 31 with external marketing partner (Geoff AeroKats)
+- **Marketing Structure**: Now includes external vendor (AeroKats marketing); indicates professional launch preparation
+- **Intensity**: Weekend brainstorm continuation with IMPORTANT flags
 
-**CoVar** (NEW BUSINESS DISCUSSION)
-- **Status**: Active engagement (Oct 30 meeting held)
-- **Contacts**: Pete Torrione (lead), Mark Hibbard, Joe Camilo, Filip Haltmayer, Claudia Dabbs
-- **BST Participants**: Daniel Prendergast (lead), Cory Dixon, Maciej Stachura
-- **Scope**: Unknown (subject line redacted as "[EXT]"), but Gemini captured meeting notes (not shared in metadata)
-- **Expertise Area**: CoVar specializes in command & control, data systems, flight operations analytics — suggests GCS, telemetry, or operations coordination discussion
-- **Intensity**: One-time meeting (Oct 30) with multiple BST leadership; potential follow-up
-
-**Vantor** (Continuing TEM/Geophysics)
-- **Status**: Active follow-up (Oct 30 IMPORTANT)
-- **Contacts**: Michael Rapp (primary), Naresh Shah, Andreas Rasmussen, Lawrence Hudy, Grant Boerhave
-- **BST Recipients**: Jack Elston, Beck Cotter, Maciej Stachura, Daniel Prendergast
-- **Scope**: Transient Electromagnetic (TEM) / geophysics sensor application integration
-- **Intensity**: Continuing from prior site visit; weekend email (Oct 30) indicates active engagement
-
-**UK MOD / RAVEN Project** (Continuing Government Contract)
-- **Status**: Active contract continuation + new project kickoff
-- **Contacts**: Simon Laurence (MOD.gov.uk), Lockheed Martin (Morphett, Shah), Bartington (Tom Simcox), Navy NAWCAD (Ruiz-Reyes, Brescia)
-- **Scope**: S0-ISR contract, RAVEN Project new military UAS platform
-- **Intensity**: Site visit scheduled in prior window; ongoing coordination
-
-### External Technical/Academic Partners
-
-**University of Colorado Boulder**
-- **Contacts**: Al Gasiewski (Soil Moisture white paper lead), Brian Argrow, Eric Frew, John A Evans (EAB member recruitment)
-- **Scope**: White paper collaboration (Soil Moisture completed Oct 30), EAB recruitment, networking events
-- **Intensity**: Soil Moisture finalized; EAB member acquisition underway
-
-**Frank Strazzabosco (Microfirm)**
-- **Scope**: Hardware design (Core boards, Core2, PSNS firmware)
-- **Intensity**: 9 emails in 8 days; Oct 30 peak activity (firmware finalization)
-
-**Michael Hurowitz (WeatherStream)**
-- **Scope**: Soil Moisture white paper co-author
-- **Intensity**: Finalization coordination Oct 30
-
-### Business Development / Recruitment
-
-**External Advisory Board (EAB)** — NEW FORMAL STRUCTURE
-- Jack recruiting members: John A Evans (UC Boulder), Vandy Moler (likely Vandermonde Moler, numerical computing authority), Jen Uchida (pending)
-- Suggests Black Swift establishing formal governance/advisory structure (growth signal)
+**Geoff / AeroKats** — NEW EXTERNAL VENDOR
+- **Contact**: `gb.aerokats@gmail.com`
+- **Role**: Marketing/branding support for Aeropods product line
+- **Engagement**: Multiple IMPORTANT responses Oct 31 (09:12, 09:26 EDT) to Shelly Dvorak (Krateo)
+- **Status**: Active professional engagement in product launch planning
+- **Likely**: Freelance/agency marketing consultant or communications specialist focused on aerospace sector
 
 ## Notable Observations
 
-### PARTNERSHIP ACCELERATION (NEW MAJOR SIGNAL)
-- **Three new major partnerships activated or escalated in single 24-hour window (Oct 30)**:
-  1. **Aerostar Kickoff** — Joe Cione (NOAA) brokering; Russ Vanderwerff leading; Maciej & Jack participating; weekend follow-up coordination
-  2. **CoVar Business Discussion** — Held Oct 30; GCS/flight ops vendor engagement (likely)
-  3. **Krateo "Aeropods" Marketing Brainstorm** — Product/brand launch initiation
-  
-  **Interpretation**: Oct 30 appears to be coordinated "business development sprint" — multiple partnerships simultaneously advancing suggests either:
-  - Large proposal/contract win driving vendor/partner mobilization
-  - Planned product launch cycle (Aeropods brand new)
-  - Strategic pivot announcement (new domains, new advisory board, new partnerships all Oct 30 window)
+### FIRMWARE FINALIZATION CRISIS/SPRINT
+- **Frank Strazzabosco sending 4 IMPORTANT emails Oct 31 within 2-hour window (08:41 – 10:39)**
+- **Jack responding same-day** — indicates high-priority issue resolution cycle
+- **Multiple firmware versions active simultaneously** (v1.6, v0.37, Core 29b variants)
+- **Likely trigger**: Government contract delivery deadline (S0-ISR, RAVEN, Krateo integration, or Aerostar requirement) imminent
+- **Risk signal**: Hardware path critical and time-compressed; Microfirm dependency high
 
-### DOMAIN TRANSITION NOW COMPLETE
-- **`bst.aero` domain actively receiving government correspondence** (DOE, NASA, Mestaz Law, Bay AI Circle)
-- **Three-way simultaneous use confirmed** (both `blackswifttech.com` and `bst.aero` receiving same announcements)
-- **`.aero` TLD is aviation-specific** — signals company rebrand toward aviation/aerospace focus or market repositioning
-- **Timeline**: Domains active by Oct 30; suggests official transition completed in late October 2026
+### NASA AERODYNAMIC TESTING PROGRAM ACTIVATED
+- **Jack now directly coordinating with NASA LARC research staff** (Craig Hunter, Chester Dolph, Chris Meek)
+- **Wind tunnel testing location**: Embry-Riddle Aeronautical University (ERAU, Daytona Beach, FL)
+- **Program classification**: "[EXTERNAL]" suggests formal government program interface (SBIR/STTR or direct R&D contract)
+- **Timing**: Oct 31 coordination suggests test logistics in final planning (likely execution Nov/Dec 2026)
+- **Strategic significance**: NASA LARC validation of Black Swift aerodynamics (either S0 platform or new platform development)
+- **Interpretation**: Black Swift aerodynamic development reaching testing phase; potential product refinement cycle ahead
 
-### SOIL MOISTURE WHITE PAPER COMPLETED
-- **Finalized Oct 30** with NOAA Federal approval (Nikolai Pawlenko)
-- **Publication-ready** (multi-institutional collaboration: UC Boulder, WeatherStream, NOAA, Black Swift)
-- **Strategic signal**: Academic partnership & publication pathway active; positions Black Swift in climate/environmental sensing research
-- **Likely high-profile** (NOAA co-author = government credibility; UC Boulder = peer review; likely to be cited in government funding/proposals)
+### OFFBOARDING NOTIFICATION / PERSONNEL CHANGES
+- **Rippling "[IMPORTANT] Information About Offboarding"** flagged Oct 31 to mixed internal/external team (Tim Hegwood, Jack, Meredith Needham, tax/accounting firms)
+- **Unusual distribution**: Why external tax/accounting firms (Accordion, KCO Tax) on offboarding notification?
+  - **Scenario 1**: Executive-level departure (severance, consulting agreement, tax implications)
+  - **Scenario 2**: Contractor wind-down (contractor → employee transition or vice versa; external accounting handling
+  - **Scenario 3**: Role elimination with complex exit (equity, non-compete, transition period)
+- **Year-end timing**: Coincides with payroll checklist — possible annual restructuring or budget cycle reduction
+- **Risk**: Potential loss of key personnel or contractor expertise during high-tempo period (Aerostar launch, Krateo certification, NASA testing, firmware finalization)
 
-### EXTERNAL ADVISORY BOARD FORMATION (NEW GOVERNANCE SIGNAL)
-- **Jack recruiting EAB members** (Oct 30): John A Evans (UC Boulder), Vandy Moler, Jen Uchida
-- **Indicates**: Black Swift scaling to size/complexity warranting external governance/strategic advisors
-- **Typical trigger events**: Pre-acquisition, pre-IPO, new government contracts requiring security clearances, or major product launch
-- **Timing**: Concurrent with domain transition, partnership acceleration, new government engagement (DARPA, DOE)
+### FEDERAL PROPOSAL SUBMISSION CONFIRMED
+- **NASA ProSAMS "Confirmation of Proposal Submission"** Oct 31 (15:49 UTC)
+- **Indicates**: Black Swift formally submitted research proposal to NASA (SBIR/STTR, directed R&D, or other program)
+- **Timing**: Oct 31 confirmation suggests submission deadline was Oct 30–31 (typical government program windows)
+- **Likely scope**: Aerodynamic research, sensor development, platform capability expansion (aligned with wind tunnel testing announcement)
+- **Pattern**: Black Swift actively pursuing multi-agency federal funding (DOE SBIR/STTR Oct 30, NASA ProSAMS Oct 31, DARPA engagement prior window)
 
-### GOVERNMENT FUNDING PIPELINE ACTIVE
-- **DOE SBIR/STTR Phase I Fall 2026** — $200M+ program; Jack screening, forwarding to Beck (finance/proposal lead)
-- **DARPA engagement** — DARPAConnect events notifications (new subscription signal)
-- **NASA coordination** — Invoice/delivery coordination with NASA LaRC (Alexander Parker)
-- **Pattern**: Active federal funding pursuit cycle; SBIR/STTR is primary vehicle for small business R&D contracts
-- **Implication**: Black Swift pursuing multiple government contracts simultaneously (S0-ISR UK MOD, RAVEN Navy/UK MOD, now DOE/DARPA opens)
+### DOMAIN EXPANSION ACCELERATING
+- **`bst.aero` now in active external vendor distribution** (SoNo 1420 Bourbon promotional Oct 31)
+- **External marketing partners have new domain** — Geoff AeroKats likely has Jack's bst.aero address for Aeropods coordination
+- **Government/research contacts remain on blackswifttech.com** — NASA LARC still using primary domain (suggests security/compliance practice or contracts not yet updated)
+- **Interpretation**: Domain transition staged — marketing/branding operations migrating to bst.aero; government/contracting operations remaining on blackswifttech.com for continuity/security
 
-### HARDWARE DEVELOPMENT VELOCITY HIGH
-- **PSNS v1.6 & v0.37** — Multiple IMPORTANT exchanges Oct 30 (Frank Strazzabosco, Sam Hild)
-- **Core 29b & Core2 v0.4** — Parallel iterations active
-- **Firmware finalization phase** — Suggests hardware platform approaching release/deployment milestone
-- **Likely trigger**: Government contract deliverable (S0-ISR, RAVEN, Krateo integration) or Aerostar partnership requirement
+### YEAR-END BUSINESS ACCELERATION
+- **Oct 30–31 represents sustained 48-hour business sprint**: Firmware finalization, NASA coordination, federal proposal confirmation, marketing brainstorm, HR/payroll processing
+- **Multiple time-critical events compressed into weekend**: Suggests either:
+  - Coordinated business development sprint (planned milestone completion)
+  - Government contract deadline-driven activity (proposal windows, testing windows)
+  - Product launch timeline (Aeropods, new platform announcement)
+- **Pattern**: Black Swift operating in high-tempo execution mode through Oct 31 – Nov 1; suggests Q4 2026 / Q1 2027 launch cycle underway
 
-### NOAA RELATIONSHIP STRATEGICALLY CENTRAL
-- **Joe Cione brokering Aerostar partnership** — NOAA validating/vetting partners for Black Swift
-- **Joe Cione involved in multiple project threads** — S0 operations, Soil Moisture white paper, Aerostar kickoff
-- **Pattern**: NOAA not just customer, but strategic partner/advisor in BST growth strategy
-- **Likely reason**: NOAA field operations, weather research mission; multiple platforms (S0, potential Aerostar platform, sensors like soil moisture) fit NOAA capability gaps; Joe Cione (hurricane research focus) key evangelist
+### CHATGPT PRO ADOPTION
+- **Jack now ChatGPT Pro subscriber** (notification Oct 31 03:13 UTC)
+- **Signal**: Executive-level adoption of AI tools for business operations/communications (proposal writing, strategy development, market analysis likely)
+- **Timing**: Concurrent with heavy proposal submission activity (NASA ProSAMS Oct 31) — possible active use for proposal development
 
-### MARKETING/BRANDING EXPANSION
-- **"Aeropods" marketing brainstorm** — Krateo/Shelly Dvorak coordinating with external marketing contacts (Ted Miles, Geoff AeroKats, Kay Rufty)
-- **Product/brand launch planning** — Suggests new product line, rebrand, or major feature announcement
-- **Coordinated timing**: Aeropods + Aerostar kickoff + new domain + EAB formation all Oct 30 — not coincidental
-- **Interpretation**: Likely major announcement or product launch cycle planned for Q4 2026 / Q1 2027
-
-### INTERNATIONAL EXPANSION ACCELERATING
-- **Krateo Sky European certification pathway** (S2, SwarmSonde)
-- **UK MOD / RAVEN Project** (international defense contract)
-- **Tethered Aerosystems community** (100+ international participants, including UC Boulder Argrow, Oklahoma State, Cornell, international universities)
-- **Vantor partnership** (potential international geophysics application)
-- **Pattern**: Black Swift transitioning from US-focused to global aerospace/defense/research markets
-
-### OPERATIONAL SCALE INDICATORS
-- **Three new hiring phases** (Lynn Regnier CPA/Plant Controller, Brandon Messersmith ops/IT, Shivam Khatri firmware co-op)
-- **Dual payroll systems** (Rippling + Deel)
-- **External Advisory Board formation** (governance scaling)
-- **Multiple government contracts** (contracting infrastructure growth)
-- **New domain** (brand/market repositioning)
-- **Tethered Aerosystems community** engagement (user group / community building)
-- **Interpretation**: Black Swift is mid-scaling phase — moving from startup to established aerospace/defense contractor
+### FAA SAFETY TRAINING INVOLVEMENT
+- **Jack enrolled in FAA Safety credit program** (expiration notice Nov 1)
+- **Indicates**: Possible FAA Part 107 drone pilot certification, airworthiness training, or flight operations compliance certification
+- **Status**: Credit expiring; renewal/recertification likely needed
+- **Relevance**: S0, Aerostar, and other UAS operations require FAA coordination/approval; Jack maintaining compliance knowledge
 
 ---
 
-## Updated Summary
+## Updated Summary (Revised)
 
-**Jack Elston is COO / VP Operations of Black Swift Technologies**, driving business development, government contracting, operations scaling, and strategic partnerships. Oct 30, 2026 represents a **major acceleration event** with simultaneous activation of Aerostar partnership, CoVar engagement, Krateo product launch planning, and formal advisory board recruitment — coordinated with domain transition to `bst.aero` and heavy government funding pipeline engagement (DOE, DARPA, NASA). 
+**Jack Elston is COO/VP Operations driving business development, government contracting, and operations scaling.** Nov 1, 2026 marks sustained high-tempo execution phase with **critical hardware finalization (Frank Strazzabosco firmware crisis), newly activated NASA aerodynamic testing program (LARC wind tunnel coordination), confirmed federal proposal submission (NASA ProSAMS), and ongoing Krateo Aeropods product launch preparation.**
 
-**Krateo Sky partnership is the single most important external relationship** (27+ emails in 8 days, weekly structured reviews, large cross-org teams, product launch coordination), with **NOAA Federal as primary operational customer and strategic advisor** (brokering partnerships, validating vendors, providing mission pull). **Aerostar partnership represents next major growth vector** (just activated Oct 30, NOAA-brokered, weekend engagement intensity suggests urgency).
+**Hardware path is now critical dependency**: Frank Strazzabosco (Microfirm) delivering 4 IMPORTANT updates Oct 31 in 2-hour window; Jack responding in real-time. PSNS v1.6 and Core 29b variants reaching deployment phase. Likely tied to government contract milestone (S0-ISR, RAVEN, Krateo integration, Aerostar kickoff requirement, or NASA testing preparation).
 
-Black Swift is actively positioning for significant growth phase through Q1 2027: new products (Aeropods), new markets (international certification, defense), new partnerships (Aerostar, CoVar, Vantor), and new governance (EAB, federal contracting infrastructure).
+**NASA LARC aerodynamic testing represents significant new program activation**: Wind tunnel testing at ERAU coordinated directly with NASA research staff (Craig Hunter, Chester Dolph, Chris Meek); "[EXTERNAL]" classification suggests formal government program. Likely execution Nov/Dec 2026.
+
+**Federal funding pipeline active across multiple agencies**: DOE SBIR/STTR (Oct 30), NASA ProSAMS proposal submitted (Oct 31), DARPA engagement (prior window), FAA compliance training maintained. Black Swift pursuing diversified government customer base.
+
+**Potential personnel/organizational changes pending**: Rippling offboarding notification Oct 31 to mixed internal/external team (unusual distribution pattern suggests executive-level or complex contractor transition). Year-end timing coincides with payroll cycle; possible restructuring during high-tempo period.
+
+**Business operations sustaining 12–18 emails/day through weekends** (Oct 31 – Nov 1) with real-time coordination on firmware, government testing, federal proposals, and product launch. Black Swift in mid-scaling execution phase with multiple near-term milestones (Q4 2026 – Q1 2027): Krateo Aeropods launch, Aerostar partnership activation, NASA testing cycle, federal contract deliverables.

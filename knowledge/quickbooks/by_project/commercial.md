@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,083,803.62
-- **Total Expenses (Bills + Purchases):** $251,236.63
+- **Total Expenses (Bills + Purchases):** $251,239.13
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,832,567.09 (Revenue exceeds expenses)
+- **Net Position:** $2,832,564.49 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – November 12, 2026
 
 ---
@@ -168,7 +168,7 @@
 | Indirect Costs (R&D/IRAD) | $1,123.62 | 3 |
 | **TOTAL EXPENSES** | **$2,816.47** | **6** |
 
-**Cumulative Project Expenses:** $251,236.63 (unchanged from previous update — new transaction already included)
+**Cumulative Project Expenses:** $251,239.13
 
 ---
 
@@ -261,19 +261,18 @@ No new purchase orders recorded in this period.
 
 ## Summary of Changes from Previous Update
 
-**Update Period:** November 12, 2026 (single new transaction)
+**Update Period:** October 31 – November 1, 2026  
+**New Transactions:** 1
 
-- **Total Expenses:** Unchanged at $251,236.63
-  - New transaction ($2.50) already reflected in previous update summary
-  - This update confirms transaction recording; no additional expense growth
+| Metric | Change | Status |
+|--------|--------|--------|
+| Total Expenses | +$2.50 | $251,239.13 |
+| Shipping/Freight Category | +$2.50 | $38.50 |
+| Monthly Spend (November YTD) | +$2.50 | $2.50 |
+| Net Position | -$2.50 | $2,832,564.49 |
+| Outstanding Receivables | No change | $1,983,498.26 |
 
-- **Monthly Spend (November YTD):** $2.50 (administrative only)
-
-- **Outstanding Receivables:** $1,983,498.26 (unchanged)
-  - Invoice #1779 remains unpaid (aging 4+ months)
-  - Invoice #1755 duplicate status unresolved
-
-- **Net Position:** $2,832,567.09 (stable)
+**Detail:** Single administrative transaction recorded—PGA Disclaimer Fee ($2.50) on November 12, 2026 classified to Shipping/Freight account. No material changes to project financial position.
 
 ---
 
@@ -296,4 +295,8 @@ No new purchase orders recorded in this period.
 - Direct Costs (Materials, Shipping)
 - Research & Development (IRAD)
 
-**Recommendation:** Monthly reconciliation of outstanding invoices (especially #1779 and #1755) and clarification of PGA disclaimer fee coding is warranted for accurate financial reporting.
+**Recommendation:** 
+1. Resolve duplicate invoice #1755 with By Light Halo immediately
+2. Escalate collection efforts on aging Invoice #1779 (Murphy's Pond CH4)
+3. Reclassify PGA Disclaimer Fee to "Other" for proper expense categorization
+4. Monthly reconciliation of outstanding invoices warranted for accurate financial reporting

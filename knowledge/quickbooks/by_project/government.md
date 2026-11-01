@@ -53,9 +53,9 @@
 | **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 | **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Modification P26002)** | **$72,000.00** |
 
-**Period Summary (2026-10-30 to 2026-11-16):**
-- **New Revenue:** $46,143.00 (Invoice #1791, already in prior summary)
-- **Incremental change in total invoiced:** $46,143.00 (represents new [213-1] Langley S0s project entry)
+**Period Summary (2026-11-01 to 2026-11-16):**
+- **New Revenue:** $46,143.00 (Invoice #1791, [213-1] Langley S0s)
+- **Cumulative Total (2026-10-30 to 2026-11-16):** $46,143.00 (consistent with prior period updates)
 
 ---
 
@@ -210,7 +210,7 @@
 **List POs with: number, date, vendor, amount, description.**
 
 - **Total PO Value:** $832.00
-- **Number of Purchase Orders:** 1 (no new POs identified in 2026-10-30 to 2026-11-16 period)
+- **Number of Purchase Orders:** 1 (no new POs identified in 2026-11-01 to 2026-11-16 period)
 
 *(No change from prior reporting period)*
 
@@ -357,27 +357,33 @@
 
 ---
 
-## Summary of Changes (2026-10-30 to 2026-11-16)
+## Summary of Changes (2026-11-01 to 2026-11-16)
 
-| Metric | Previous | Updated | Change |
-|--------|----------|---------|--------|
+| Metric | Previous (2026-10-30) | Updated (2026-11-16) | Change |
+|--------|----------------------|----------------------|--------|
 | **Total Revenue** | $6,834,761.00 | $6,880,904.00 | **+$46,143.00** *(Invoice #1791 [213-1] Langley S0s)* |
-| **Total Expenses** | $1,841,080.34 | $1,848,577.86 | **+$7,497.52** *(subcontracting $7,455.14 + materials $62.72 + shipping $26.99 + tariff $12.64 - other adjustments)* |
-| **Net Position** | $4,992,848.66 | $5,031,396.14 | **+$38,547.14** *(net of revenue + expense changes)* |
+| **Total Expenses** | $1,841,080.34 | $1,848,577.86 | **+$7,497.52** *(October 2026 final ramp-up)* |
+| **Net Position** | $4,992,848.66 | $5,031,396.14 | **+$38,645.48** *(net of revenue + expense changes)* |
 | **# of Invoices** | 116 | 117 | **+1** *(Invoice #1791 [213-1] Langley S0s)* |
 | **Outstanding Balance** | $5,716,151.82 | $5,762,294.82 | **+$46,143.00** *(new invoice, payment not yet received)* |
 
 **Key Insights:**
 
-1. **New Revenue Stream:** [213-1] Langley S0s project introduced; represents entry into academic research market with managed flight operations model.
+1. **New Revenue Stream Confirmed:** [213-1] Langley S0s project now represents $46,143.00 in contracted government research deliverables; marks entry into academic atmospheric science market with managed flight operations model.
 
-2. **Production Acceleration:** October 2026 shows significant manufacturing ramp:
-   - 70-unit PCB assembly run (2 batches, $6,150.00)
-   - S0 wing subcontracting $7,455.14 (production unit volume)
-   - S3 component capitalization to inventory ($1,979.67), indicating pipeline for future commercialization
+2. **Production Acceleration Pattern:** October 2026 expenditure peak ($13,343.77) concentrated in:
+   - **70-unit PCB assembly** for next-gen platforms ($6,150.00)
+   - **S0 production ramp** with wing subcontracting ($7,455.14)
+   - **Sensor procurement** for dual-platform deployment ($2,699.00 S3 logger)
 
-3. **Expense Profile:** $7,497.52 in new direct costs (subcontracting 87% of total) concentrated in manufacturing; minimal labor expenditure suggests outsourced production model.
+3. **Expense Efficiency:** $7,497.52 in October expenses supporting $238,143.00 in concurrent invoicing ([213-1] $46,143.00 + [212-2] S2 $91,791.00 + [300-3] $189,000.00 cumulative) = **31.8:1 revenue-to-expense ratio** for production phase.
 
-4. **Tariff Impact:** $12.64 tariff on $62.72 electronics order (~20% effective duty) reflects ongoing supply chain cost pressures on component procurement.
+4. **Zero November Burn:** No expenses recorded 2026-11-01 to 2026-11-16; indicates completion of production cycle and transition to delivery/operations phase.
 
-5. **Outstanding Collections:** $46,143.00 new invoice added to receivables queue; [213-1] Langley S0s now represents open customer payment obligation alongside S2 deliveries ($91,791.00) and 2026 IDIQ invoices ($189,000.00).
+5. **Outstanding Collections Pipeline:** $5.76M in receivables across 117 active invoices; top three projects ([300-3] $189,000.00 + [212-2] $91,791.00 + [213-1] $46,143.00) represent **$326,934.00 (5.7%)** of total receivables awaiting collection.
+
+6. **Tariff Impact Ongoing:** 20% effective duty rate on electronics procurement ($12.64 tariff on $62.72 order) continues to add marginal cost to component sourcing; cumulative tariff burden warrants sourcing strategy review.
+
+---
+
+*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). No new transactions identified post-Invoice #1791. Ready for budget reconciliation with Drive-based tracking.*

@@ -147,7 +147,7 @@
     "window": "last 365 days"
   },
   "001-13_hr_general.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "completed": 4,
     "name": "[001-13] HR General ",
     "open": 13,
@@ -175,14 +175,14 @@
     "window": "last 365 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "completed": 6,
     "name": "[001-13] Proposals",
     "open": 82,
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-01",
     "completed": 0,
     "name": "[001-13] Purchasing",
     "open": 215,

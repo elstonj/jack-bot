@@ -33,19 +33,19 @@
         "amount": 318888.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-10-31"
+        "last_updated": "2026-11-01"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-10-31"
+        "last_updated": "2026-11-01"
       },
       "other_qbo": {
         "amount": 410741.88,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-10-31"
+        "last_updated": "2026-11-01"
       },
       "total": 731799.15,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -248799.15,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-10-31T09:55:03Z"
+    "last_reconciled": "2026-11-01T10:15:27Z"
   },
   "milestones": [
     {
@@ -139,14 +139,8 @@
       "author": "Spencer Hoehl",
       "date": "2026-10-02",
       "text": "From Spencer Hoehl (ts=1790883900.141869): <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Spencer Hoehl",
-      "date": "2026-10-01",
-      "text": "From Spencer Hoehl: <!channel> if anybody has FAA pilot qualifications (part 107, part 61, part 141, etc), security clearances, NOAA Hurricane training, COA training (and under what COA), or any other relevant qualifications that relate to BST job functions, could you please respond to this message specifying what you have.  Also, if there is documentation of those qualifications please try to find that and send it to me as well."
     }
   ],
-  "last_full_rebuild": "2026-10-31T09:55:03Z",
+  "last_full_rebuild": "2026-11-01T10:15:27Z",
   "last_incremental_update": null
 }

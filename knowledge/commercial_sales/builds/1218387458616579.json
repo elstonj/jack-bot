@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Contract H9223626P9056 awarded 2026-09-11. Contract signed and executed as of 2026-09-28. PoP initially set to 60 days but Beck clarified with Terry that schedule alignment discussion needed. Live contract engagement ongoing.",
+  "notes": "Contract H9223626P9056 awarded 2026-09-11; fully executed contract received 2026-09-28. Initial 60-day PoP was placeholder; Beck clarified with Terry that schedule alignment discussion needed. Live contract engagement ongoing; PoP to be finalized.",
   "missing_fields": [
     "receive_by",
     "ship_to",

@@ -67,15 +67,15 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-10-31",
-    "end": "2026-10-31"
+    "start": "2024-11-01",
+    "end": "2026-11-01"
   },
   "totals": {
     "revenue": 3795798.67,
-    "expenses": 4593429.19,
+    "expenses": 4591424.03,
     "by_category": {
       "Payroll clearing account": 2268790.7,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 367808.53,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 189909.21,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
@@ -93,7 +93,7 @@
       "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "DIRECT COSTS:DC-Direct Material Purchases": 33241.64,
-      "Indirect Cost:Meals and Entertainment": 28146.5,
+      "Indirect Cost:Meals and Entertainment": 28070.98,
       "FACILITIES:FA-Software Expenses": 27784.98,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
@@ -111,7 +111,7 @@
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 11348.65,
       "Indirect Cost:License, Permit, Misc Tax Exp": 10482.28,
       "GA-Business Development": 10448.09,
-      "Indirect Cost:Supplies:Shop SuppliesX": 10173.35,
+      "Indirect Cost:Supplies:Shop SuppliesX": 10109.71,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
       "FACILITIES:FA-Utilities Expense": 9573.35,
@@ -4428,24 +4428,6 @@
           "amount": 2500.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
           "description": "First payment of bi-monthly payment"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2024-10-31",
-      "doc_number": "",
-      "total": 1866.0,
-      "attributed": 1866.0,
-      "vendor": "Ted Miles",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "Note: 250/625 hours labor used. 375 hours remaining on NASA AREN (2024) task.",
-      "lines": [
-        {
-          "amount": 1866.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "NASA AREN October 2024 (30 hrs)"
         }
       ]
     }
@@ -54823,47 +54805,6 @@
           "amount": 24.0,
           "account": "Indirect Cost:Supplies:Office SuppliesX",
           "description": "DRIFTAWAY COFFEE         BROOKLYN     NY"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-31",
-      "doc_number": "",
-      "total": 75.52,
-      "attributed": 75.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MKTPL*PG84S6LT3   AMZN.COM/BILLWA",
-      "lines": [
-        {
-          "amount": 75.52,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "AMAZON MKTPL*PG84S6LT3   AMZN.COM/BILLWA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-10-31",
-      "doc_number": "",
-      "total": 63.64,
-      "attributed": 63.64,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MARK* 802Y38693   SEATTLE      WA",
-      "lines": [
-        {
-          "amount": 39.68,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": "Crescent 4\" Adjustable Black Oxide Wrench x 4"
-        },
-        {
-          "amount": 23.96,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": "tweezers x 4"
         }
       ]
     }

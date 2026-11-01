@@ -6888,5 +6888,18 @@
     "notes": "Order confirmation; delivery Nov 2, 8-10 am; placed by Jack Elston",
     "date": "2026-10-30",
     "subject": "Confirmation for Your October 30th Order with McMaster-Carr"
+  },
+  {
+    "id": "1a1923166e1b3c31",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": null,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Miter, chop, and table saw blade and tapping screws",
+    "notes": "Shipped October 30th, delivery expected Monday. FedEx tracking 541305472541. Certificate for tapping screws attached.",
+    "date": "2026-10-31",
+    "subject": "Certificate and Tracking for Your October 30th Order with McMaster-Carr"
   }
 ]
