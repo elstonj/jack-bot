@@ -5,9 +5,9 @@
 # claude.ai has no API for project files, and its Drive/GitHub sync only works
 # in private projects, so the upload is driven through Claude in Chrome by a
 # headless `claude -p` run. That needs Chrome open with the extension connected
-# to the Black Swift account; if it isn't, this exits non-zero and the nightly
-# scan reports it as a BUG. The last uploaded digest is recorded so an
-# unchanged export never triggers an upload.
+# to the Black Swift account. Run by hand; it is not part of the nightly scan.
+# The last uploaded digest is recorded so an unchanged export never triggers
+# an upload.
 
 set -euo pipefail
 
