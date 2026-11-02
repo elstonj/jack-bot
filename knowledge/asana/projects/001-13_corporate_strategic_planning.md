@@ -1,39 +1,42 @@
-_Asana snapshot as of 2026-10-23: 1 open tasks, 0 completed (last 365 days)._
+_Asana snapshot as of 2026-11-02: 1 open tasks, 0 completed (last 90 days)._
 
 # Corporate / Strategic Planning [001-13]
 
 ## Overview
-- **Status**: ARCHIVED (as of June 2024)
-- **Focus**: Marketing strategy and real estate management
-- **Team**: BST (Whole Team)
-- **Last activity**: June 16, 2024
+- **Status:** ARCHIVED (as of June 2024)
+- **Focus:** Marketing strategy & corporate planning
+- **Team:** BST (Whole Team)
+- **Key Customers:** Government/institutional (NOAA, NASA, DOD, CO OEDIT)
+- **Known Revenue:** NASA Aren 2023 ($90k), CO OEDIT ($152k)
 
-## Key Context
-This project contains two distinct elements:
+## Strategic Goals
+Marketing strategy goals identified:
+- Increase brand awareness
+- Drive website traffic
+- Lead generation
+- Grow audience
+- Increase engagement
+- Drive revenue
 
-1. **Marketing Strategy** — High-level planning around brand awareness, website traffic, lead generation, audience growth, engagement, and revenue drivers.
+## Ideal Customer Profile
+Government and institutional buyers:
+- NOAA
+- NASA
+- DOD
+- Colorado Office of Economic Development & Innovation (CO OEDIT)
 
-2. **Real Estate / Lease** — NNN (triple net) property lease with CAM charges, real estate taxes, and building insurance. Lease terminates at an unspecified date; task notes reference "6.23" (likely June 23 or month 6, year 23 in a phased structure).
-
-## Current Customers / Revenue
-- **NASA**: Aren 2023 = $90k
-- **CO OEDIT**: $152k
-- **Target segments**: Government/institutional (NOAA, NASA, DOD) — outreach via LinkedIn and email
-
-## Lease Cost Structure
-5-year NNN obligation with annual increases:
-- Year 1: $13.00
-- Year 2: $13.39
-- Year 3: $13.79
-- Year 4: $14.21
-- Year 5: $14.63
-
-(Per-month or annual basis unclear from data)
+**Primary channels:** LinkedIn, email
 
 ## Task Summary
-- **1 open task** (unassigned): Lease terminates — no due date specified
-- **0 completed tasks**
-- No assignee activity logged
+- **Total tasks:** 1 open, 0 completed
+- **Open task:** "Lease terminates" (Unassigned, no due date)
+  - Notes reference: 6.23 CAM real estate property taxes and building insurance
+  - Contains 60-month lease cost escalation table (NNN structure, ~$13–$14.63/month over 5 years)
 
 ## Status
-This project is **archived** and appears inactive. The June 2024 status update notes overdue milestones and tasks as of that date, but no recent activity is recorded. The lease task remains open but without a specific termination date or deadline. This file appears to be a **strategic reference** rather than an active work queue.
+This project is **archived** as of June 2024. The final status update from June 16, 2024, noted overdue milestones and tasks at that time, but no recent activity. The single remaining open task concerns facility lease management and lacks a due date.
+
+## Notes
+- Project structure includes 60-month planning horizon with lease cost projections
+- Appears to have been a strategic/corporate-level initiative tracking marketing goals and real estate obligations
+- No active work indicated; should be considered historical/reference material

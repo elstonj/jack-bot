@@ -1,28 +1,27 @@
-_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
 
-# S2 Simulator & Used E2 Battery
+# [452-2] S2 Simulator & used E2 Battery
 
 ## Overview
-- **Client:** Dan Hesselius (CU Boulder)
+- **Client/Customer:** Dan Hesselius, CU Boulder
+- **Dollar Value:** $3,900
+- **Timeline:** June 30, 2026 (start and due date)
+- **Status:** **ARCHIVED** (as of October 27, 2026)
+- **Team Lead:** Meredith O'hara Needham
 - **Customer Type:** Commercial
-- **Dollar Value:** $3,900 (payment received 2026-05-25)
-- **Timeline:** Due 2026-06-30
-- **Status:** Completed or archived — no open or completed tasks in Asana
-- **Project Owner:** Meredith O'hara Needham
-- **Priority:** Medium
 
-## Key Deliverables
+## Key Deliverables & Milestones
 - S2 Simulator
 - Used E2 Battery
+- **Delivery Status:** Picked up by Dan Hesselius (CU Boulder) in late October 2026
 
 ## Task Summary
-- **Total Tasks:** 0 open, 0 completed
-- No task breakdown available in Asana
+- **Total tasks:** 0 open, 0 completed (all work completed and project archived)
 
 ## Recent Activity
-Payment received 2026-05-25. Project appears inactive in Asana with no tracked tasks.
+- **Payment received:** May 25, 2026 ($3,900) — confirmed as paid by Meredith Needham on October 27, 2026
+- **Delivery:** Dan H from CU picked up the order in the week of October 20, 2026
+- **Project closure:** Archived October 27, 2026 per team confirmation
 
 ## Notes & Context
-This is a straightforward product order project. The project was created with a due date matching the start date (2026-06-30), suggesting either a data entry artifact or completion on the same day the project was formalized in Asana.
-
-**Team Feedback (2026-10-07 & 10-08):** Jack notes that submission-related work (likely warranty or registration to "snap-r") should involve KS (knowledge/support resource) to construct and submit required documentation. Jack and Meredith have handled this before but are not experts; KS should take the lead on language and follow-through.
+Per Maciej's October 26–27 archival request and Meredith's confirmation: "Yes, payment has been received. Yes paid, off, Archived it." This project was completed and invoiced; archival was approved by Meredith (project owner).

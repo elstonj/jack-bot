@@ -1,49 +1,64 @@
-_Asana snapshot as of 2026-10-31: 12 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-02: 12 open tasks, 0 completed (last 90 days)._
 
-# Major Milestones & Tasks
+# BST Major Milestones & Tasks
+
+## Status
+**ACTIVE** — Multiple concurrent projects with near-term deliverables. Team is restructuring Asana planning (as of 2026-10-27) to integrate with physical Kanban board.
+
+**Note:** Several projects are currently undergoing archival per team corrections (2026-10-27 to 2026-10-28). These are being closed out and should not be tracked as active work.
 
 ## Overview
-- **Client/Customer:** Not specified in task data
-- **Timeline:** October 2026 – December 2026
-- **Status:** Active — 12 open milestones, all with future due dates
-- **Team Members Involved:** Sam Hild, Jack Elston, Josh Fromm, Maciej Stachura; 6 unassigned milestones
+- **Team:** Black Swift Technologies (whole team view)
+- **Timeline:** Active milestones span October 2026 – December 2026
+- **Key Personnel:** Maciej Stachura, Jack Elston, Sam Hild, Josh Fromm (primary owners)
 - **Risk Signals:** 
-  - 6 milestones unassigned (Conduct Mission, Ship Aircraft and Equipment, Conduct local flight testing, Finish payload updates, Sort out flight/radio/shipping/import permissions)
-  - "Conduct Mission" due 2026-10-01 is earliest deadline
-  - Heavy dependency chain evident (shipping → testing → flight operations)
+  - Three milestones already past due (Conduct Mission: 2026-10-01; Ship Aircraft and Equipment: 2026-10-26; Finish payload updates: 2026-10-23)
+  - Four unassigned milestones with near-term deadlines
+  - Several milestones with tight dependencies (flight testing chain)
 
 ## Key Deliverables & Milestones
 
-| Milestone | Owner | Due Date | Closure Criteria |
-|-----------|-------|----------|------------------|
-| Conduct Mission | Unassigned | 2026-10-01 | Mission execution |
-| Finish payload updates | Unassigned | 2026-10-23 | Payload ready |
-| Ship Aircraft and Equipment | Unassigned | 2026-10-26 | Shipment dispatched |
-| Close out AP Release Candidate | Jack Elston | 2026-11-04 | All QC and fail test flights passed |
-| Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | Permits/permissions secured |
-| Conduct local flight testing | Unassigned | 2026-11-06 | Local testing complete |
-| Power Board Complete | Sam Hild | 2026-11-09 | All ground tests passed on rig |
-| Initial Transition Test | Maciej Stachura | 2026-11-09 | Full flight, no failures, QC passed |
-| 5 hours of Forward Flight | Maciej Stachura | 2026-11-13 | 5 total hours across multiple flights, no failures, QC passed |
-| 50 Hover Tests | Maciej Stachura | 2026-11-17 | All hovers completed, no failures |
-| Deliver UMES S3 | Josh Fromm | 2026-11-20 | S3 delivered |
-| Deliver 2 INSTAAR S3's | Josh Fromm | 2026-12-11 | 2 S3's delivered |
+| Milestone | Owner | Due Date | Status | Notes |
+|-----------|-------|----------|--------|-------|
+| **Finish payload updates** | Unassigned | 2026-10-23 | ⚠️ OVERDUE | |
+| **Ship Aircraft and Equipment** | Unassigned | 2026-10-26 | ⚠️ OVERDUE | Notes indicate shipping in progress |
+| **Conduct Mission** | Unassigned | 2026-10-01 | ⚠️ OVERDUE | |
+| **Power Board Complete** | Sam Hild | 2026-11-09 | On track | Close when all ground tests pass on rig |
+| **Initial Transition Test** | Maciej Stachura | 2026-11-09 | On track | Full flight, no failures, QC checks passed |
+| **Close out AP Release Candidate** | Jack Elston | 2026-11-04 | On track | Pass all QC and fail test flights |
+| **5 hours of Forward Flight** | Maciej Stachura | 2026-11-13 | On track | 5 total hours, multiple flights, no failures, QC passed |
+| **Conduct local flight testing** | Unassigned | 2026-11-06 | Unassigned | |
+| **Sort out flight, radio, shipping, and import permissions** | Unassigned | 2026-11-04 | Unassigned | |
+| **50 Hover Tests** | Maciej Stachura | 2026-11-17 | On track | All hovers with no failures |
+| **Deliver UMES S3** | Josh Fromm | 2026-11-20 | Upcoming | S3 delivery |
+| **Deliver 2 INSTAAR S3's** | Josh Fromm | 2026-12-11 | Upcoming | S3 delivery |
 
 ## Task Summary
 - **Total:** 12 open milestones, 0 completed
 - **By Assignee:**
-  - Maciej Stachura: 3 tasks (flight testing sequence)
-  - Josh Fromm: 2 tasks (S3 delivery)
-  - Jack Elston: 1 task (AP Release Candidate)
-  - Sam Hild: 1 task (Power Board)
-  - Unassigned: 6 tasks (50% of workload)
+  - Maciej Stachura: 3 milestones (flight testing chain)
+  - Josh Fromm: 2 deliveries
+  - Jack Elston: 1 (AP Release Candidate)
+  - Sam Hild: 1 (Power Board)
+  - **Unassigned: 5 milestones** (critical path items)
 
 ## Recent Activity
-No completed tasks visible. This appears to be a forward-looking project milestone view with all work pending execution.
+- **2026-10-30:** Cory Dixon requested all project leaders update Kanban board tasks and Asana for Monday morning execution.
+- **2026-10-27–10-28:** Maciej flagged several projects for archival:
+  - [043-3] ByLight M2/Halo (only invoice task remains)
+  - [212-1] S2 Simulator (delivered to NASA weeks ago)
+  - [452-2] S2 Simulator & used E2 Battery (handed to CU, invoiced)
+  - [032-3] Sasquatch S0s x 4
+  - [012-3] ERAU Model S0
+  
+  Jack Elston confirmed all are complete and approved archival for historical reference.
+
+- **2026-10-27:** Maciej announced Asana restructuring plan:
+  - Two-level planning: long-term milestones in Asana, weekly execution on physical Kanban board
+  - 6-month rolling milestone plan to improve visibility and simplify active R&D tracking
 
 ## Notes & Context
-- **Project Nature:** Aircraft development and testing program with S3 platform (likely autonomous/drone-based)
-- **Workflow Dependencies:** Clear sequence — payload updates → shipment → local testing → ground tests (power board) → flight progression (transition → forward flight → hover tests) → customer deliveries (UMES, INSTAAR)
-- **Unassigned Work:** 6 critical path milestones lack owners, including the earliest deadline (Conduct Mission, 2026-10-01). Assignment needed urgently.
-- **No Dollar Values:** Custom field data not provided; budget tracking not visible in this view
-- **Test Progression:** Maciej Stachura's assignments form a logical testing sequence with clear pass/fail criteria
+- **Organizational Change:** BST is restructuring how it uses Asana. Going forward, Asana will focus on milestones and longer-term planning; the physical Kanban board will drive weekly engineering sprints.
+- **Critical Path:** Three overdue unassigned milestones (payload, shipping, mission conduct) may be blocking downstream flight testing work. Recommend immediate clarification on actual status vs. Asana due dates — team corrections indicate real-world progress may differ from task list.
+- **Archival Queue:** Five complete projects are pending archival to clean up the workspace. Jack Elston noted archived projects will serve as training data for future AI-driven task automation.
+- **Next Action:** Ensure Kanban board and Asana are synchronized by Monday morning per Cory Dixon's 2026-10-30 request.

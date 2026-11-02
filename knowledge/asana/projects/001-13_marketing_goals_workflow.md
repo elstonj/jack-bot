@@ -1,29 +1,26 @@
-_Asana snapshot as of 2026-10-23: 0 open tasks, 0 completed (last 365 days)._
+_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
 
-# Marketing Goals Workflow [001-13]
-
-## Status
-**ARCHIVED** — No open or completed tasks. This project is a template/framework rather than an active delivery project.
+# [001-13] Marketing Goals Workflow
 
 ## Overview
-- **Type**: Process template
-- **Purpose**: Goal management workflow for BST organization and teams
-- **Team**: Whole BST team
-- **Timeline**: N/A (template)
+- **Client/Customer:** Black Swift Technologies (internal)
+- **Dollar value:** None identified
+- **Timeline:** No active dates (archived template)
+- **Status:** **ARCHIVED** — This is a template project with no active tasks
+- **Team members involved:** BST (Whole Team)
 
-## Key Context
-This is an Asana goal management template designed to guide brainstorm, draft, and approval cycles for organizational goals. It includes:
-- Form-based goal draft creation
-- Automated task and reminder generation
-- Approval workflow guidance
+## Key Findings
+This is an **archived Asana workflow template** for goal management and approval processes. It contains no active tasks (0 open, 0 completed) and serves as a reusable process framework rather than a live project.
 
-## Recent Issues
-**Beck flagged workflow clarity concerns** (2026-10-19 & 2026-10-20):
-> "there's still not a clear workflow of who enters what based on X criteria or change and it doesn't address other platform tracking/builds."
+## Recent Activity & Notes
+**Open workflow issues (per team feedback):**
 
-The team needs to discuss and define:
-- Clear criteria for who enters goals/changes
-- How this integrates with other platform tracking and builds
+Beck flagged on **2026-10-19 and 2026-10-20** that the workflow lacks clarity on:
+- **Who enters what data** based on X criteria or change triggers
+- **Cross-platform integration** — the workflow doesn't address tracking or builds on other platforms
 
-## Notes
-No active tasks or deliverables currently associated with this project. The template may need process refinement before adoption.
+**Action needed:** Team discussion required to clarify the workflow definition and multi-platform alignment before this template can be effectively deployed.
+
+---
+
+**Note:** This appears to be a process template rather than an active project. The team feedback suggests it may need refinement before use. Consider whether it should remain archived or be updated with clearer handoff procedures.

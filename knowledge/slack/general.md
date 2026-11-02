@@ -1,7 +1,7 @@
 # #general
 
 ## Overview
-Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - October 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), Lynn Regnier (Controller, started October 28, 2026), Brandon Messersmit (UAS Technician, started October 28, 2026), and Bob Edson (Principal UAS Technician, started October 28, 2026).
+Black Swift Technologies' main company-wide channel used for announcements, project updates, operational decisions, team coordination, and office management. High activity level across all time periods covered (July 2020 - November 2026). Key participants include Jack Elston (leadership), Dan Prendergast (business development/operations), Maciej, Joshua Fromm, Danny Troke, Melissa Phillips, Paige Smith, Sam Hild, Meredith Needham, Beck Cotter, Ben Busby, Nate, Alex Lomis, Spencer Hoehl (intern with established schedule), Ethan Domagala, Kareem, Cory Dixon, Ali Sulehria, and numerous team members. Recent additions: Josh Waldman (started October 7, 2026), Shelly Dvorak (Portfolio Marketing Consultant, October 7, 2026), Lynn Regnier (Controller, started October 28, 2026), Brandon Messersmit (UAS Technician, started October 28, 2026), and Bob Edson (Principal UAS Technician, started October 28, 2026).
 
 ## Key Decisions
 
@@ -63,11 +63,8 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Action Items & Commitments
 
-### Time-Sensitive (October 30, 2026)
-- **Ali Sulehria HVAC Appointment** (October 30, 2026): Ali leaving around 2:30pm for HVAC technician appointment
-- **Beck Cotter Medical Appointment Completed** (October 30, 2026): Beck arrived around 9:30am after 8:30am doctor appointment (from October 29)
-- **Robert Edson Medical Appointment Follow-up** (October 30, 2026): Robert (Principal UAS Technician) returning to office in the morning after doctor appointment
-- **Brandon Messersmit Service Dog Introduction** (October 30, 2026): Brandon brought service dog Ember to office; team coordination ensured compatibility with any existing dogs and all team members (approved October 29)
+### Time-Sensitive (November 1, 2026)
+- **Alex Lomis Work-From-Home** (November 1, 2026, 5:05pm): Alex Lomis reported being under the weather over the weekend and picked up laptop from office to work from home on November 2 (Monday, 11/2).
 
 ### Ongoing
 - **New Hire Orientation Preparation**: Meredith Needham coordinating orientation meeting for all new hires (Lynn Regnier, Brandon Messersmit, Bob Edson) to be held right after All Hands meeting on Monday; agenda includes purchasing, timekeeping, calendars, and technology usage
@@ -92,10 +89,11 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination
 - **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and HVAC service calls
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and HVAC service calls; health-related absences (Alex Lomis illness November 1, 2026)
 - **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals
 - **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference (Jack confirmed using Gemini for image/media creation); safety policies around code generation; practical AI assistant templates for UAS technician workflows
 - **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials; Gemini usage for creative tasks to manage Claude API costs
+- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons)
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -111,23 +109,28 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Recent Activity
 
+### November 1, 2026
+
+**Employee Health & Work-From-Home Notification**
+- Alex Lomis reported (17:05) being under the weather over the weekend and swung by the office to pick up laptop for work-from-home on Monday (November 2, 2026). Indicates team members maintaining productivity while managing illness through flexible WFH arrangements.
+
 ### October 30, 2026
 
 **Halloween Team Event & Costume Contest**
-- Jack Elston organized Halloween costume contest with voting open through 11:00am (09:16). Multiple reminder notifications sent to team members at 10:18 and 10:11 to ensure participation in voting.
-- Winner announcement held at 11:30am by whiteboard in new space (11:01), followed by team lunch at Werks restaurant.
-- Beck Cotter thanked organizers and confirmed fun day/contest/lunch experience (13:41). Beck also complimented Brandon Messersmit's service dog Ember (14:01).
+- Jack Elston organized Halloween costume contest with voting open through 11:00am. Multiple reminder notifications sent to team members to ensure participation in voting.
+- Winner announcement held at 11:30am by whiteboard in new space, followed by team lunch at Werks restaurant.
+- Beck Cotter thanked organizers and confirmed fun day/contest/lunch experience. Beck also complimented Brandon Messersmit's service dog Ember.
 
 **Team Coordination & Absences**
-- Ali Sulehria leaving around 2:30pm for HVAC technician appointment (07:02).
+- Ali Sulehria leaving around 2:30pm for HVAC technician appointment.
 
 **Professional Office Cleaning**
-- Meredith Needham reminded team (14:54) that professional cleaners coming this weekend; team members asked to leave notes on desks if they don't want cleaners touching their workspace to prevent disruption.
+- Meredith Needham reminded team that professional cleaners coming this weekend; team members asked to leave notes on desks if they don't want cleaners touching their workspace to prevent disruption.
 
 **New Hire Orientation Planning**
-- Meredith Needham announced (10:22) quick orientation meeting scheduled for all new hires right after upcoming All Hands meeting on Monday. Meeting agenda covers general processes (purchasing, timekeeping, calendars) and technology usage; invites sent to all recently hired team members.
+- Meredith Needham announced quick orientation meeting scheduled for all new hires right after upcoming All Hands meeting on Monday. Meeting agenda covers general processes (purchasing, timekeeping, calendars) and technology usage; invites sent to all recently hired team members.
 
 **AI Tool Usage Clarification**
-- Alex Lomis humorously asked if Claude credits being used for costume contest image/media (16:50).
-- Jack Elston clarified (16:58) that the image was created with Gemini, not Claude, demonstrating practical cost management by using included Gemini alternative for creative/image generation tasks while reserving Claude for knowledge-based and process-oriented AI assistance.
-- Jack shared cultural reference video for team members unfamiliar with original source material (18:35).
+- Alex Lomis humorously asked if Claude credits being used for costume contest image/media.
+- Jack Elston clarified that the image was created with Gemini, not Claude, demonstrating practical cost management by using included Gemini alternative for creative/image generation tasks while reserving Claude for knowledge-based and process-oriented AI assistance.
+- Jack shared cultural reference video for team members unfamiliar with original source material.

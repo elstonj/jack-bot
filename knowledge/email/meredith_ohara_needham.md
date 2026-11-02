@@ -1,399 +1,395 @@
 # Meredith O'Hara Needham — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 3,415 emails (3,402 previous + 13 new from Oct 31, 2026)
-- **Date range:** June 15–October 31, 2026 (139 days)
-- **Approximate volume:** ~25 emails/day (sustained baseline)
-- **Current status (Oct 31):** **SUSTAINED POST-VACATION OPERATIONS** — Weekend activity continues; procurement fulfillment tracking, HR/payroll compliance, facility touring inquiry, government proposal submissions; no auto-reply active
+- **Total messages scanned:** 3,423 emails (3,415 previous + 8 new from Nov 1–2, 2026)
+- **Date range:** June 15–November 2, 2026 (141 days)
+- **Approximate volume:** ~24 emails/day (sustained baseline)
+- **Current status (Nov 1–2):** **CRITICAL COMPLIANCE PHASE** — Post-weekend operations; HR entity verification failure, financial audits (KPMG lease reconciliation), federal proposal tracking, vendor fulfillment orders; offboarding/payroll cycle active
 
 ---
 
 ## Key Correspondents
 
-### Incoming (by frequency — updated through Oct 31)
+### Incoming (by frequency — updated through Nov 2)
 
-**INTERNAL OPERATIONS & DELEGATION (HIGHLY ACTIVE — STABLE)**
+**INTERNAL OPERATIONS & COLLABORATION**
 
-1. **Jack Elston** (`elstonj@blackswifttech.com`) — **Primary Delegate & Strategic Partner** [HIGHLY ACTIVE]
-   - Oct 31, 14:01 (UTC): SCHEELS promotional email routing (Jack tagged as purchasing@blackswifttech.com) [CATEGORY_FORUMS]
-   - Oct 31, 15:35 (UTC): Rippling offboarding notification (Jack cc'd on group list) [IMPORTANT]
-   - **Pattern:** Continued escalation and delegation hub; weekend email coordination
+1. **Lynn Regnier** (`lynn.regnier@blackswifttech.com`) — **FINANCIAL/AUDIT COORDINATION** [NEW ESCALATION]
+   - Nov 1, 18:48:42 (PDT): "Questions on Leases" [UNREAD, IMPORTANT]
+   - Nov 1, 19:00:55 (PDT): "Re: Cash to Accrual 6/30/2026" [UNREAD, IMPORTANT] — forwarded to Matthew C. Helton (KPMG)
+   - **Pattern:** Shifted from operational dual-role (Krateo + BST) to direct financial audit coordination with KPMG
+   - **Implication:** Mid-year (6/30) or year-end financial audit underway; lease accounting questions requiring Meredith's input
+   - **Escalation:** Direct coordination with external accounting firm (KPMG) on lease reconciliation
 
-2. **Beck Cotter** (`beck.cotter@blackswifttech.com`) — **Operational Hub & Escalation** [STABLE]
-   - No new direct messages Oct 31; prior patterns (facility coordination, Navy rates) continuing
-   - **Note:** Oct 31, 15:35 Rippling offboarding message not cc'd to Beck on this transmission
+2. **Jack Elston** (`elstonj@blackswifttech.com`) — **OPERATIONS & PROCUREMENT HUB** [STABLE]
+   - No new direct messages Nov 1–2; prior patterns continuing
+   - **Note:** Continued delegation/escalation hub status
 
 ---
 
 ### EXTERNAL PARTNERSHIPS & VENDORS (EXPANDED)
 
-**FEDERAL/GOVERNMENT (CRITICAL NEW DEVELOPMENT)**
-- **NASA ProSAMS** (`admin@blackswifttech.com` routing) — **NEW FEDERAL CONTACT** [CRITICAL]
-  - Oct 31, 15:49:53 (UTC): "NASA ProSAMS Confirmation of Proposal Submission" [UNREAD, CATEGORY_FORUMS, IMPORTANT]
-  - **Implication:** BST submitted government proposal to NASA (likely via ProSAMS federal system); formal submission confirmation received
-  - **Pattern:** Government contracting portfolio expanding (NOAA + Navy + **NASA** now visible); federal proposal cycle active
-  - **Timing:** Coincides with RAVEN project kickoff (Oct 29) — possible correlation to new strategic initiative
+**KPMG — AUDIT & FINANCIAL RECONCILIATION** [CRITICAL NEW]
+- **Lauren Napheys** (`lnapheys@kpmg.com`) — **LEASE ACCOUNTING AUDIT**
+  - Nov 2, 01:52:21 (UTC): "RE: Questions on Leases" [UNREAD, IMPORTANT]
+  - **Recipients:** Lynn Regnier + Meredith Needham
+  - **Implication:** KPMG responding to BST lease accounting questions; mid-year or year-end audit in progress
+  - **Context:** Likely related to BST facility leases (2840 Wilderness Pl, other properties); GAAP/ASC 842 lease accounting reconciliation
+  - **Timing:** Coincides with year-end payroll cycle (Nov 1–15) and Deel/Rippling compliance phase
 
-**PROCUREMENT (FULFILLMENT PHASE)**
-- **DigiKey** (via purchasing alias) — **SHIPMENT NOTIFICATIONS** [NEW PHASE]
-  - Oct 31, 20:39:41 (CDT): "DigiKey has shipped a package for invoice 135445201" [UNREAD, CATEGORY_FORUMS]
-  - Oct 31, 23:16:49 (CDT): "DigiKey has shipped a package for invoice 135517714" [UNREAD, CATEGORY_FORUMS]
-  - **Pattern:** TWO shipment confirmations on Oct 31 (less than 3 hours apart); procurement orders from Oct 29–30 now in fulfillment phase
-  - **Implication:** Electronics components shipping; supply chain acceleration confirmed
+- **Matthew C. Helton** (`mhelton@kpmg.com`) — **FINANCIAL AUDIT PARTNER**
+  - Nov 1, 19:00:55 (PDT): Lynn Regnier forwarded "Cash to Accrual 6/30/2026" discussion to Helton
+  - **Implication:** KPMG partner-level involvement; cash-to-accrual conversion discussion at mid-year or year-end close
+  - **Pattern:** Escalated financial audit coordination; likely requiring management-level decisions on accounting treatments
 
-- **McMaster-Carr** (`chi.sales@mcmaster.com`) — **FULFILLMENT TRACKING** [ACTIVE]
-  - Oct 31, 08:41:05 (CDT): "Certificate and Tracking for Your October 30th Order with McMaster-Carr" [UNREAD, CATEGORY_UPDATES]
-  - **Pattern:** Follow-up tracking confirmation; Oct 29–30 order moving through fulfillment
-  - **Implication:** Industrial supplies in transit; delivery timeline management
+**HR PLATFORM COMPLIANCE (CRITICAL ESCALATION)**
 
-- **Deel** (`operations@blackswifttech.com` routing) — **HR PLATFORM COMPLIANCE ESCALATION** [CRITICAL]
-  - Oct 31, 23:09:32 (UTC): "Provide your missing documents" [UNREAD, CATEGORY_FORUMS, IMPORTANT]
-  - **Implication:** Deel implementation requiring document submission (likely YTD payroll data, tax documents, or contractor information)
-  - **Pattern:** Critical path item escalated; data/documentation gap identified; deadline likely imminent
-  - **Timing:** 7 days after Jan Mayzonet's YTD payroll request (Oct 29, 12:15); follow-up/escalation cycle
+- **Deel** (`operations@blackswifttech.com` routing) — **ENTITY VERIFICATION FAILURE** [CRITICAL]
+  - Nov 2, 06:48:32 (UTC): "Your entity could not be verified" [UNREAD, IMPORTANT, CATEGORY_FORUMS]
+  - **Implication:** **BLOCKING ISSUE** — Deel implementation stalled; entity verification (company registration, tax ID, legal structure) failed or incomplete
+  - **Pattern:** Escalation from "missing documents" (Oct 31, 23:09 UTC) → entity verification failure (Nov 2, 06:48 UTC)
+  - **Critical path impact:** Deel data migration blocked; YTD payroll reconciliation cannot complete until entity verification resolves
+  - **Timing:** 7 days before projected Nov 9–10 payroll processing; 48–72 hours before Nov 3–5 IT cutover window (per prior data)
+  - **Urgency:** Highest priority; blocks HR system implementation and year-end payroll closing
 
-**USPS & LOGISTICS**
-- **USPS Informed Delivery** (via purchasing alias) — **PACKAGE TRACKING** [NEW]
-  - Oct 31, 13:28:55 (UTC): "Your Daily Digest for Sat, 10/31 is ready to view" [UNREAD, CATEGORY_FORUMS]
-  - **Pattern:** Daily mail tracking digest; procurement/fulfillment logistics monitoring
-  - **Implication:** Receiving multiple packages; USPS tracking active for incoming deliveries
+**VENDOR PROCUREMENT (FULFILLMENT CONTINUING)**
 
-**VENDOR OPERATIONS (MARKETING/PROMOTIONAL)**
-- **SCHEELS** (via purchasing alias) — **PROMOTIONAL EMAIL** [ROUTINE]
-  - Oct 31, 14:01 (UTC): "50% Off Sitka Drifter Luggage" [UNREAD, CATEGORY_FORUMS]
-  - Routed to Jack Elston via purchasing alias
-  - **Pattern:** Vendor promotional list; low-priority business email
+- **Spindrift Market** (via purchasing alias) — **BEVERAGE ORDER CONFIRMATION** [ROUTINE]
+  - Nov 2, 05:03:15 (UTC): "It's about to get real refreshing. Your Spindrift order SH62391345 is confirmed." [UNREAD, CATEGORY_FORUMS]
+  - **Implication:** Beverage/refreshment order (Spindrift = flavored sparkling water brand); likely office supplies or employee benefit
+  - **Pattern:** Vendor promotional list; low-priority business procurement
+  - **Note:** Routed via purchasing alias; operational procurement continuing
 
-**KRATEO SKY PARTNERSHIP** 
-- **Geoff** (`gb.aerokats@gmail.com`) — **STRATEGIC PARTNERSHIP ACTIVITY** [NEW/UNREAD]
-  - Oct 31, 09:12:23 (EDT): "Re: Aeropods Marketing Brainstorm" [UNREAD, IMPORTANT]
-  - Oct 31, 09:26:55 (EDT): "Re: Aeropods Marketing Brainstorm" [UNREAD, IMPORTANT] (second message, 14 minutes later)
-  - **Recipients:** Shelly Dvorak (`shelly@krateosky.com`) — Krateo Sky contact
-  - **Implication:** Aeropods product marketing brainstorm ongoing; strategic partnership activity continues
-  - **Pattern:** Weekend engagement with Krateo Sky strategic initiative; two rapid-fire messages suggest active discussion
-  - **Note:** Meredith not directly cc'd; visibility through Krateo Sky connection (Lynn Regnier dual assignment from prior data)
+**FINANCIAL PLATFORMS & BANKING**
 
----
+- **Amazon Web Services** (via admin alias) — **BILLING STATEMENT AVAILABLE** [ROUTINE]
+  - Nov 2, 00:34:44 (UTC): "Amazon Web Services Billing Statement Available [Account: 520951637877]" [UNREAD, CATEGORY_FORUMS]
+  - **Implication:** AWS bill statement; cloud infrastructure/SaaS billing; likely infrastructure for RAVEN project, Krateo integration, or operational systems
+  - **Pattern:** Monthly billing cycle; account 520951637877 ongoing
+  - **Timing:** Nov 1–2 billing cycle alignment with month-end close activities
 
-### HR/PAYROLL COMPLIANCE (CRITICAL NEW)
+- **Elevations Credit Union** (via admin alias) — **BANK STATEMENT AVAILABLE** [ROUTINE]
+  - Nov 2, 00:00:16 (UTC): "You have a new Elevations eStatement available" [UNREAD, CATEGORY_FORUMS]
+  - **Implication:** Business banking statement from Elevations Credit Union; month-end reconciliation activity
+  - **Pattern:** Banking/cash management; likely tied to month-end close and year-end financial audit (KPMG)
+  - **Timing:** Nov 1–2 statement release; concurrent with lease audit and Deel entity verification issues
 
-**Rippling** (`no-reply@rippling.com`) — **PAYROLL & OFFBOARDING ALERTS** [CRITICAL]
-  - Oct 31, 15:35:47 (UTC): "[IMPORTANT] Black Swift Technologies - Information About Offboarding" [UNREAD, IMPORTANT]
-    - Recipients: Tim Hegwood, Jack Elston, Nicholas Rodgers, Nicholas Grande, Meredith, Amit Sinha, Mark Knightlinger
-    - **Implication:** EMPLOYEE OFFBOARDING notification to leadership team; someone departing BST or contractor relationship ending
-    - **Pattern:** Rippling (HRIS) sending formal offboarding workflow; leadership team visibility (7 people on list)
-    - **Timing:** Critical week (Deel YTD payroll, Rippling payroll checklist, now offboarding) — major HR cycle underway
-  
-  - Oct 31, 16:20:51 (UTC): "Reminder: 2026 Year-End Payroll Checklist" [UNREAD, CATEGORY_UPDATES]
-    - **Implication:** Year-end payroll compliance deadline approaching (likely Nov 15–Dec 15 window for W-2 prep)
-    - **Pattern:** Rippling prompting compliance checklist; YTD payroll critical path tied to year-end processing
-  
-  - Oct 31, 09:00:46 (MDT): "Reminder: Meredith, how was your recent support experience with Tracy L?" [UNREAD, CATEGORY_UPDATES]
-    - **Implication:** Support ticket satisfaction survey (Rippling support system); low-priority operational feedback
-    - **Pattern:** System-generated survey; indicates recent Rippling support ticket resolved
+**GOVERNMENT PROPOSAL DISTRIBUTION**
 
----
-
-### INBOUND INQUIRY (BUSINESS DEVELOPMENT/FACILITIES)
-
-**Nikolasmassimo Mehan** (`info@blackswifttech.com` routing) — **FACILITY TOUR REQUEST** [NEW]
-  - Oct 31, 17:36:38 (UTC): "Can I tour your manufacturing facility?" [UNREAD, CATEGORY_FORUMS]
-  - Routed to: info@blackswifttech.com + careers@blackswifttech.com
-  - **Implication:** External party requesting facility tour; routed through general inquiry + careers channels (suggests potential business/partnership/recruitment interest)
-  - **Pattern:** Inbound lead/inquiry requiring response from business development/operations
-  - **Timing:** Same day as RAVEN project activity and NASA proposal confirmation; increased external interest in BST capabilities
+- **SciTechCONNECT** (via proposals alias) — **FEDERAL OPPORTUNITY ALERT** [ROUTINE]
+  - Nov 1, 13:00:32 (UTC): "Small Businesses, Researchers & Innovators: DoW SciTechCONNECT is Coming to Jackson" [UNREAD, CATEGORY_FORUMS]
+  - **Implication:** Department of War (DoW) federal program announcement; SciTechCONNECT initiative in Jackson (location TBD — likely Jackson, MS or Jackson Hole region)
+  - **Pattern:** Government proposal leads routed to proposals@ alias; BST tracking federal opportunity pipeline
+  - **Timing:** Concurrent with NASA ProSAMS submission (Oct 31) and ongoing NOAA/Navy federal contracting
+  - **Note:** Informational alert; likely low-priority unless BST has specific DoW contract interest
 
 ---
 
 ## Topic Patterns
 
-### Primary Focus Areas (Oct 31 — Weekend Operations)
+### Primary Focus Areas (Nov 1–2 — Critical Compliance Phase)
 
-1. **FEDERAL GOVERNMENT PROPOSALS (CRITICAL NEW)** [ESCALATED]
-   - **NASA ProSAMS Confirmation**
-     - Oct 31, 15:49:53 (UTC): "NASA ProSAMS Confirmation of Proposal Submission" [CRITICAL]
-     - **Implication:** BST submitted formal proposal to NASA through federal contracting system (ProSAMS); submission confirmed; likely proposal review phase (60–90 day typical federal evaluation timeline)
-     - **Pattern:** Federal contracting portfolio now includes NOAA (ongoing RPP project) + Navy (indirect rates) + **NASA (new proposal)**
-     - **Correlation:** Likely tied to RAVEN project (Oct 29 kickoff; external partner site visit); possible NASA partnership/contract opportunity
+1. **DEEL ENTITY VERIFICATION FAILURE (BLOCKING ISSUE)** [CRITICAL]
+   - **Nov 2, 06:48:32 (UTC): "Your entity could not be verified"** [UNREAD, IMPORTANT]
+   - **Escalation trajectory:**
+     - Oct 29, 12:15: Deel YTD payroll data request
+     - Oct 31, 23:09: "Provide your missing documents" escalation
+     - **Nov 2, 06:48: "Your entity could not be verified" [BLOCKING]**
+   - **Implication:** 
+     - Deel implementation stalled; entity verification (company registration, tax ID, legal business structure) incomplete or failed
+     - Cannot proceed with YTD payroll migration until resolved
+     - Potential issues: incorrect legal entity name, unregistered subsidiary, tax ID mismatch, corporate structure ambiguity
+   - **Critical path impact:** 
+     - Blocks HR system cutover (Nov 3–5 projected)
+     - Blocks year-end payroll processing (Nov 9–10 critical date)
+     - Blocks W-2 generation (Nov 15–Dec 15 deadline)
+   - **Urgency:** **HIGHEST** — Must resolve within 24–48 hours to meet payroll deadlines
+   - **Action required:** Verify BST legal entity registration, tax ID, and corporate structure with Deel support; likely requires legal docs (incorporation cert, EIN letter, registered agent info)
 
-2. **HR/PAYROLL YEAR-END COMPLIANCE ACCELERATION** [CRITICAL]
-   - **Rippling 2026 Year-End Payroll Checklist**
-     - Oct 31, 16:20:51 (UTC): Year-end payroll compliance checklist [IMPORTANT]
-     - **Implication:** W-2 processing deadline approaching; typical deadline Nov 15–Dec 15 for year-end reconciliation
-   
-   - **Rippling Offboarding Notification**
-     - Oct 31, 15:35:47 (UTC): "[IMPORTANT] Black Swift Technologies - Information About Offboarding" [LEADERSHIP TEAM VISIBILITY]
-     - Recipients: 7 people including Meredith, Jack Elston, Tim Hegwood, external contacts (Nicholas Rodgers/Accordion, Mark Knightlinger/tax)
-     - **Implication:** Employee/contractor offboarding workflow initiated; formal compliance process; likely involves final payroll, benefits termination, equipment return
-     - **Pattern:** Major HR milestone; coordinated across internal leadership + external accounting/tax partners
-   
-   - **Deel Missing Documents Escalation**
-     - Oct 31, 23:09:32 (UTC): "Provide your missing documents" [CRITICAL ESCALATION]
-     - **Implication:** Deel implementation blocked by missing documentation (YTD payroll data, tax forms, or contractor info from Oct 29 request still incomplete)
-     - **Pattern:** 7-day escalation cycle; deadline pressure active; critical path item for HRIS cutover (Nov 3 IT onboarding per prior data)
+2. **KPMG AUDIT: LEASE ACCOUNTING RECONCILIATION** [IMPORTANT]
+   - **Nov 1, 18:48:42 & 19:00:55 (PDT): "Questions on Leases" + "Cash to Accrual 6/30/2026"**
+   - **Nov 2, 01:52:21 (UTC): Lauren Napheys (KPMG) responding**
+   - **Implication:**
+     - Mid-year or year-end financial audit underway with KPMG
+     - Lease accounting reconciliation (likely ASC 842 treatment for facility leases)
+     - Cash-to-accrual conversion questions at 6/30/2026 midpoint or year-end close
+     - Management-level coordination (Matthew Helton, KPMG partner, involved)
+   - **Scope:** BST facility leases (2840 Wilderness Pl primary; possible other locations)
+   - **Timing:** Concurrent with year-end close cycle; audit likely targeting 6/30 or 12/31/2026 period
+   - **Pattern:** Lynn Regnier (Controller/Finance) initiating; Meredith (Operations/Finance) responding; KPMG providing technical audit guidance
 
-3. **PROCUREMENT FULFILLMENT (IN-TRANSIT)** [ACTIVE]
-   - **DigiKey Shipment Notifications (2 packages)**
-     - Oct 31, 20:39:41 & 23:16:49 (CDT): Two shipment confirmations [2 hours apart]
-     - Invoices: 135445201, 135517714
-     - **Pattern:** Oct 29–30 electronics orders now shipping; two separate invoices suggest multiple order lines or backorder split shipments
-   
-   - **McMaster-Carr Tracking Confirmation**
-     - Oct 31, 08:41:05 (CDT): Certificate + tracking for Oct 30th order
-     - **Pattern:** Industrial supplies tracking active; logistics coordination ongoing
-   
-   - **USPS Informed Delivery Daily Digest**
-     - Oct 31, 13:28:55 (UTC): Daily mail tracking digest
-     - **Pattern:** Multiple packages in transit; comprehensive fulfillment tracking across carriers
+3. **YEAR-END FINANCIAL CLOSE ACCELERATION** [IMPORTANT]
+   - **Nov 2 inbound emails:**
+     - AWS billing statement (Nov 2, 00:34:44 UTC) — cloud infrastructure costs
+     - Elevations Credit Union statement (Nov 2, 00:00:16 UTC) — cash account reconciliation
+     - KPMG lease audit (Nov 2, 01:52:21 UTC) — accounting treatment questions
+   - **Implication:**
+     - Month-end (Nov 1–2) close activities converging with year-end preparation
+     - Banking/cash reconciliation active
+     - Fixed asset/lease accounting audit in progress
+     - Multi-month financial statements likely being prepared (6/30 + 12/31/2026)
+   - **Pattern:** Banking, infrastructure billing, and audit coordination all on Nov 1–2 timeline
 
-4. **KRATEO SKY STRATEGIC PARTNERSHIP (WEEKEND ENGAGEMENT)** [ONGOING]
-   - **Aeropods Marketing Brainstorm**
-     - Oct 31, 09:12:23 & 09:26:55 (EDT): Geoff (Krateo Sky partner) exchanging rapid-fire messages with Shelly Dvorak
-     - **Implication:** Product marketing initiative (Aeropods) in active brainstorm phase; weekend engagement indicates high-priority initiative
-     - **Pattern:** Strategic partnership activity continuing; Lynn Regnier's dual assignment (BST + Krateo integration) visible here
-     - **Timing:** Coincides with RAVEN project launch — possible product launch/partnership coordination
+4. **VENDOR PROCUREMENT (ROUTINE FULFILLMENT)** [OPERATIONAL]
+   - **Nov 2, 05:03:15 (UTC): Spindrift Market beverage order confirmation** [ROUTINE]
+   - **Pattern:** Office supplies/employee benefit procurement continuing
+   - **Implication:** Low-priority vendor list; operational procurement baseline maintained despite critical compliance issues
 
-5. **FACILITY TOUR INQUIRY (BUSINESS DEVELOPMENT)** [NEW]
-   - **Nikolasmassimo Mehan Manufacturing Facility Tour Request**
-     - Oct 31, 17:36:38 (UTC): Inbound inquiry
-     - **Pattern:** Routed to info@ + careers@ (suggests recruitment or partnership interest)
-     - **Implication:** External stakeholder interest in BST manufacturing capabilities; timing coincides with RAVEN project and NASA proposal submissions
+5. **FEDERAL PROPOSAL OPPORTUNITY TRACKING** [OPERATIONAL]
+   - **Nov 1, 13:00:32 (UTC): DoW SciTechCONNECT Jackson opportunity alert**
+   - **Implication:** Government proposal leads continuing to flow to proposals@ alias
+   - **Pattern:** Concurrent with NASA (Oct 31) and NOAA/Navy tracking; federal contracting pipeline active
+   - **Note:** Informational; likely low-priority unless BST has specific DoW contract target
 
 ---
 
 ## Communication Patterns
 
-### Time Patterns (Oct 31 — Weekend Activity)
+### Time Patterns (Nov 1–2 — Critical Compliance Phase)
 
-- **Early morning (08:41 CDT):** McMaster-Carr tracking confirmation (routine fulfillment)
-- **Mid-morning (09:00–09:26 EDT):** 
-  - Rippling support survey (09:00 MDT)
-  - Krateo Sky Aeropods brainstorm (09:12 & 09:26 EDT) — **PARTNER ENGAGEMENT**
-- **Midday (13:28 UTC):** USPS daily digest (routine tracking)
-- **Early afternoon (14:01 UTC):** SCHEELS promotional email (low-priority vendor)
-- **Late afternoon (15:35 UTC):** Rippling offboarding notification (leadership team) [IMPORTANT]
-- **Evening (15:49 UTC):** NASA ProSAMS confirmation [CRITICAL]
-- **Night (17:36 UTC):** Facility tour inquiry (inbound lead)
-- **Late night (20:39 CDT + 23:09 UTC + 23:16:49 CDT):** DigiKey shipment confirmations (2 packages) + Deel missing documents escalation
+**Sunday, Nov 1 (Post-weekend):**
+- **13:00 UTC (6:00 MDT, morning):** SciTechCONNECT proposal opportunity alert (routine fed tracking)
+- **18:48 PDT (20:48 UTC, evening):** Lynn Regnier initiates lease accounting questions to Meredith
+- **19:00 PDT (21:00 UTC, evening):** Lynn Regnier escalates lease questions to Matthew Helton (KPMG partner)
+
+**Monday, Nov 2 (Critical Operations):**
+- **00:00:16 UTC (early morning):** Elevations Credit Union eStatement available (banking reconciliation)
+- **00:34:44 UTC (early morning):** AWS billing statement available (infrastructure billing)
+- **01:52:21 UTC (early morning):** Lauren Napheys (KPMG) responds to lease audit questions [IMPORTANT]
+- **05:03:15 UTC (early morning):** Spindrift Market beverage order confirmation (routine procurement)
+- **06:48:32 UTC (morning):** **Deel entity verification failure [CRITICAL BLOCKING ISSUE]**
 
 ### Day-of-Week Pattern
-- **Oct 31 (Saturday):** Weekend activity sustained (13 messages) — procurement fulfillment tracking, government proposal confirmations, HR compliance escalations, facility inquiry
-- **Pattern:** No reduction in operational tempo on weekend; federal confirmations, HR escalations, and logistics tracking continuing
+- **Nov 1 (Sunday):** 3 messages (weekend activity reduced; financial audit coordination only)
+- **Nov 2 (Monday):** 5 messages (operational restart; critical issues surfacing — Deel entity failure primary)
+- **Pattern:** Weekend reduction in email volume; critical issues (Deel, KPMG) surfacing on Monday morning
 
 ### Mailing List & Group Distribution
-- **Purchasing alias** (`purchasing@blackswifttech.com`) — 7 vendor notifications (DigiKey 2x, McMaster-Carr, USPS, SCHEELS, Deel)
-- **Operations alias** (`operations@blackswifttech.com`) — Deel missing documents escalation
-- **Admin alias** (`admin@blackswifttech.com`) — NASA ProSAMS confirmation routing
-- **Rippling group notifications** — Offboarding workflow (7 recipients: internal leadership + external accounting/tax)
-- **Krateo Sky partnership** — Aeropods brainstorm (Shelly Dvorak, Geoff coordination)
+- **Operations alias** (`operations@blackswifttech.com`) — Deel entity verification failure routing
+- **Admin alias** (`admin@blackswifttech.com`) — AWS billing, Elevations Credit Union banking statements
+- **Purchasing alias** (`purchasing@blackswifttech.com`) — Spindrift Market beverage order
+- **Proposals alias** (`proposals@blackswifttech.com`) — DoW SciTechCONNECT opportunity alert
+- **Direct coordination:** Lynn Regnier (Finance) ↔ Meredith (Operations) ↔ KPMG (Napheys, Helton)
 
 ### Communication Patterns
-- **Weekend operations tempo:** No reduction; federal/HR/logistics continuing
-- **Escalation cycles:** Deel implementation entering critical escalation phase (missing documents alert after 7 days)
-- **Multi-vendor coordination:** Procurement fulfillment across 3+ vendors simultaneously (DigiKey, McMaster-Carr, USPS tracking)
-- **Government proposal timeline:** NASA submission confirmed; typical 60–90 day federal review cycle starting
+- **Monday crisis mode:** Deel entity verification failure (blocking issue) surfacing on Nov 2 morning
+- **Audit coordination:** Lynn Regnier + Meredith + KPMG direct communication flow active
+- **Financial close cycle:** Banking, billing, and audit reconciliation converging Nov 1–2
+- **Escalation pattern:** Deel issues progressing from "missing documents" (Oct 31) → "entity verification failure" (Nov 2) in 3-day cycle
 
 ---
 
 ## Key Relationships
 
-### Closest Collaborators (updated through Oct 31)
+### Closest Collaborators (updated through Nov 2)
 
-1. **Jack Elston** — **Operations & Strategic Coordination**
-   - Receiving Rippling offboarding notification (leadership team visibility)
-   - Procurement routing (SCHEELS via purchasing alias)
-   - **Escalating importance:** Offboarding event suggests Jack's role in workforce management decisions
+1. **Lynn Regnier** — **FINANCIAL/AUDIT COORDINATION** [ESCALATED]
+   - Nov 1 lease accounting questions; KPMG escalation; direct audit coordination
+   - **New role:** Finance/Controller coordination on audit and financial close
+   - **Escalating importance:** Audit engagement tier increasing; management-level decisions required
 
-2. **Beck Cotter** — **Government Compliance & Facilities** [STABLE]
-   - No new Oct 31 messages; prior patterns (Navy rates, facilities) continuing
+2. **Jack Elston** — **OPERATIONS & DELEGATION HUB** [STABLE]
+   - No new Nov 1–2 messages; prior patterns (procurement, offboarding coordination) continuing
 
-3. **Daniel Prendergast** — **Strategic Initiatives** 
-   - RAVEN project (Oct 29) continuing; likely coordinating with NASA ProSAMS submission (Oct 31 confirmation)
+3. **Beck Cotter** — **GOVERNMENT COMPLIANCE & FACILITIES** [STABLE]
+   - No new messages Nov 1–2; prior patterns continuing
 
-4. **Jan Mayzonet (Deel)** — **HR System Implementation** [ESCALATION]
-   - Oct 29 YTD payroll request → Oct 31 missing documents escalation
-   - Critical path item; deadline pressure active
+4. **KPMG Team:**
+   - **Lauren Napheys** (Audit Senior) — Lease accounting technical response (Nov 2, 01:52:21 UTC)
+   - **Matthew C. Helton** (Partner) — Management-level audit coordination (Nov 1 escalation)
+   - **Relationship:** External audit firm for mid-year/year-end financial statements; lease accounting focus
 
-5. **Krateo Sky Partnership (Shelly Dvorak, Geoff)** — **Product Strategy**
-   - Aeropods marketing brainstorm (Oct 31, 09:12 & 09:26 EDT)
-   - Strategic partnership engagement continuing
+### External Relationships (by strategic importance — UPDATED)
 
-### External Relationships (by strategic importance — EXPANDED)
+**AUDIT & FINANCIAL ADVISORY (NEW CRITICAL)**
+- **KPMG** (Lauren Napheys, Matthew C. Helton) — **MID-YEAR/YEAR-END AUDIT** [CRITICAL NEW]
+  - Lease accounting reconciliation (ASC 842 treatment)
+  - Cash-to-accrual conversion coordination
+  - Financial statement preparation (6/30 or 12/31/2026)
 
-**GOVERNMENT/FEDERAL (EXPANDED SCOPE)**
-- **NASA ProSAMS** — **NEW MAJOR CONTRACT OPPORTUNITY** (Oct 31 confirmation)
-- **NOAA** (Matthew Burgess) — Ongoing RPP Container Boxes project
-- **U.S. Navy** (Mary E. Eisele, CIV USN) — Government contractor (indirect/labor rate negotiations)
+**BANKING & FINANCIAL MANAGEMENT (ACTIVE)**
+- **Elevations Credit Union** — Business cash account; month-end/year-end reconciliation active
 
-**STRATEGIC INITIATIVES**
-- **RAVEN Project** (external partner via Daniel Prendergast) — Major project with site visit; likely NASA-related based on timing
-- **Krateo Sky** (Shelly Dvorak, Geoff) — Product partnership; Aeropods initiative in brainstorm phase
-- **Lynn Regnier** — Dual assignment supporting both BST operations and Krateo Sky integration
+**FEDERAL CONTRACTING PARTNERSHIPS (ONGOING)**
+- **NASA ProSAMS** — Proposal submitted Oct 31; under review (60–90 day federal evaluation)
+- **NOAA** (Matthew Burgess) — RPP Container Boxes project (operational)
+- **U.S. Navy** (Mary E. Eisele, CIV USN) — Labor rate negotiations (ongoing)
+- **DoW SciTechCONNECT** — Opportunity tracking (Jackson initiative)
 
-**FACILITY/INFRASTRUCTURE (ONGOING)**
-- **MAC Electric** (Jay McLaughlin) — Occupancy sensing upgrade
-- **Luis Castro / Facility Contractor** — Door transition project (2840 Wilderness Pl)
-- **Kaiser Lock** — Access management
+**STRATEGIC INITIATIVES (ONGOING)**
+- **RAVEN Project** (Daniel Prendergast) — External partner; site visit pending
+- **Krateo Sky** (Shelly Dvorak, Geoff) — Aeropods product launch (Nov 1 brainstorm continuing)
 
-**SUPPLY CHAIN VENDORS (FULFILLMENT ACTIVE)**
-- **DigiKey** — Electronics shipments (2 packages Oct 31)
-- **McMaster-Carr** — Industrial supplies tracking
-- **KMAC Distribution** — Specialty materials (G10/FR4)
-- **USPS** — Package tracking coordination
-
-**EXTERNAL INBOUND**
-- **Nikolasmassimo Mehan** — Facility tour inquiry (business development/partnership interest)
+**SUPPLY CHAIN VENDORS (FULFILLMENT CONTINUING)**
+- **Spindrift Market** — Beverage/office supplies
+- **DigiKey, McMaster-Carr, KMAC** — Components/materials (prior shipments in transit)
+- **Elevations Credit Union** — Banking/cash management
 
 ---
 
 ## Notable Observations
 
-### 1. **CRITICAL NEW FEDERAL CONTRACT: NASA ProSAMS Proposal Submitted**
-   - Oct 31, 15:49:53 (UTC): "NASA ProSAMS Confirmation of Proposal Submission" [CRITICAL]
-   - **Implication:** BST submitted formal government proposal to NASA; formal submission confirmed; likely proposal review phase (60–90 day federal evaluation timeline)
-   - **Timeline:** Coincides with RAVEN project kickoff (Oct 29); external partner site visit scheduled
-   - **Correlation:** RAVEN project likely NASA partnership/contract opportunity
-   - **Strategic significance:** Federal contracting portfolio now spans NOAA (operational) + Navy (rates) + NASA (new proposal) — government business model expanding
-   - **Opportunity:** Multi-million-dollar federal contract potential; strategic priority
+### 1. **CRITICAL BLOCKING ISSUE: Deel Entity Verification Failure (Nov 2, 06:48 UTC)**
+   - **"Your entity could not be verified"** [UNREAD, IMPORTANT]
+   - **Escalation timeline:**
+     - Oct 29, 12:15: Jan Mayzonet requests YTD payroll data
+     - Oct 31, 23:09: Deel escalates "Provide your missing documents"
+     - **Nov 2, 06:48: Deel escalates "Your entity could not be verified" [BLOCKING]**
+   - **Critical path impact:**
+     - **Blocks Deel implementation** — Cannot proceed with HRIS cutover (Nov 3–5 projected)
+     - **Blocks year-end payroll** — Cannot finalize Nov 9–10 payroll processing
+     - **Blocks W-2 generation** — Cannot meet Nov 15–Dec 15 W-2 filing deadline
+   - **Root cause:** Likely entity verification (company registration, tax ID, or legal structure) incomplete or mismatched in Deel system
+   - **Urgency:** **HIGHEST PRIORITY** — Must resolve within 24–48 hours or payroll/HR timeline at risk
+   - **Required actions:**
+     - Verify BST legal entity name in corporate registry
+     - Confirm EIN with IRS letter
+     - Clarify corporate structure (parent/subsidiary/divisions) if complex
+     - Contact Deel support for entity remediation process
 
-### 2. **HR/PAYROLL COMPLIANCE CRITICAL WEEK UNDERWAY**
-   - **Oct 29, 12:15:** Deel YTD payroll data request
-   - **Oct 29, 12:45:** Meredith flagged YTD payroll as [STARRED, YELLOW_STAR] highest priority
-   - **Oct 31, 15:35:** Rippling offboarding notification (leadership team)
-   - **Oct 31, 16:20:** Year-end payroll checklist reminder
-   - **Oct 31, 23:09:** Deel missing documents escalation [CRITICAL]
-   - **Implication:** Year-end payroll closing cycle + employee/contractor offboarding + HRIS cutover (Nov 3) converging; multiple compliance deadlines colliding
-   - **Risk:** Deel data migration incomplete; offboarding documentation workflow initiated; W-2 processing window approaching
+### 2. **KPMG FINANCIAL AUDIT ACTIVE: Lease Accounting Focus**
+   - **Nov 1, 18:48:42 (PDT): Lynn Regnier initiates "Questions on Leases"**
+   - **Nov 1, 19:00:55 (PDT): Escalated to Matthew C. Helton (KPMG partner)**
+   - **Nov 2, 01:52:21 (UTC): Lauren Napheys responds** [IMPORTANT]
+   - **Audit scope:**
+     - Lease accounting (likely ASC 842 treatment for facility leases)
+     - Cash-to-accrual conversion reconciliation
+     - Mid-year (6/30) or year-end (12/31) financial statement audit
+   - **BST lease portfolio:**
+     - 2840 Wilderness Pl (primary facility — prior occupancy sensing + door transition projects visible)
+     - Possible secondary/leased spaces
+   - **Timing:** Concurrent with year-end close (Nov 1–15); likely preparing 6/30 or 12/31/2026 audited financials
+   - **Management level:** KPMG partner (Helton) involvement indicates significant audit scope or accounting complexity
+   - **Pattern:** Lynn Regnier (Finance/Controller) coordinating; Meredith (Operations/Finance) participating; professional judgment required on accounting treatments
 
-### 3. **OFFBOARDING EVENT: Leadership Team Visibility**
-   - Oct 31, 15:35:47 (UTC): Rippling sends "[IMPORTANT] Black Swift Technologies - Information About Offboarding" to 7 recipients
-   - **Recipients:** Tim Hegwood, Jack Elston, Nicholas Rodgers (Accordion partner), Nicholas Grande, Meredith, Amit Sinha (Accordion partner), Mark Knightlinger (KCOTAX accounting)
-   - **Implication:** 
-     - Formal offboarding workflow initiated (employee or contractor)
-     - Leadership team + external accounting/tax partners notified
-     - Likely final payroll, benefits termination, equipment return, contractor payments
-     - External partners (Accordion, KCOTAX) involvement suggests complex offboarding (contractor rates, tax implications, or strategic hire departure)
-   - **Timing:** Coincides with year-end payroll closing (Nov 1–15) — offboarding likely to impact final 2026 payroll and contractor payments
-   - **Pattern:** Workforce change management active; likely 2–3 week offboarding cycle starting Oct 31
+### 3. **YEAR-END FINANCIAL CLOSE CONVERGING (Nov 1–2)**
+   - **Banking:** Elevations Credit Union eStatement released (Nov 2, 00:00 UTC)
+   - **Infrastructure:** AWS billing statement available (Nov 2, 00:34 UTC) — cloud costs reconciliation
+   - **Audit:** KPMG lease accounting response (Nov 2, 01:52 UTC) — audit findings coordination
+   - **Implication:** Month-end (Nov 1–2) and year-end close activities colliding
+   - **Timeline:**
+     - Nov 1–2: Month-end banking/billing reconciliation
+     - Nov 1–15: Year-end payroll closing (blocked by Deel entity issue)
+     - Nov 15–Dec 15: W-2 generation and filing
+     - Late Nov/early Dec: KPMG financial statement audit completion
+   - **Risk:** Multiple critical path items converging; Deel entity failure could cascade to month-end and year-end closes
 
-### 4. **PROCUREMENT FULFILLMENT ACCELERATION: Shipments in Transit**
-   - **DigiKey:** 2 shipment confirmations Oct 31 (invoices 135445201, 135517714) — less than 3 hours apart
-   - **McMaster-Carr:** Tracking confirmation for Oct 30 order
-   - **USPS:** Daily digest tracking multiple packages
-   - **Implication:** Oct 29–30 procurement cycle now in fulfillment phase; supply chain moving from ordering to delivery
-   - **Pattern:** Multiple vendors, two-day delivery windows (Oct 29 order → Oct 31 shipment)
-   - **Correlation:** Likely tied to RAVEN project component procurement or production ramp-up for existing projects (NOAA RPP, others)
+### 4. **MONDAY MORNING CRISIS: Multiple Issues Surfacing Simultaneously**
+   - **Nov 2 early morning (00:00–06:48 UTC):** 5 critical emails arriving
+     - Banking statement (routine but required for reconciliation)
+     - AWS billing (routine but required for close)
+     - KPMG audit response (audit coordination required)
+     - Deel entity failure (blocking issue, requires immediate action)
+   - **Pattern:** Crisis mode; multiple systems and audit teams signaling issues on Monday morning
+   - **Implication:** Weekend issues (Deel entity verification, audit questions) surfacing as morning alerts Monday; action items piling up
 
-### 5. **KRATEO SKY WEEKEND ENGAGEMENT: Aeropods Product Launch**
-   - Oct 31, 09:12 & 09:26 EDT: Geoff (Krateo Sky) + Shelly Dvorak rapid-fire brainstorm on Aeropods marketing
-   - **Implication:** Product marketing initiative in active brainstorm phase; weekend engagement indicates high-priority launch timeline
-   - **Timing:** Coincides with RAVEN project (Oct 29) and NASA proposal (Oct 31) — possible product/service bundling for federal contracts
-   - **Pattern:** Strategic partnership activity high; Lynn Regnier dual assignment supporting Krateo integration ongoing
-   - **Note:** Meredith not directly cc'd on Aeropods discussion; visibility through Krateo Sky connection (Lynn's assignment)
+### 5. **PAYROLL CRITICAL PATH TIMELINE ENDANGERED**
+   - **Oct 29:** YTD payroll data request initiated
+   - **Oct 31:** Missing documents escalation
+   - **Nov 2:** Entity verification failure [BLOCKING]
+   - **Nov 3–5:** Projected Rippling/Deel IT cutover window (per prior data)
+   - **Nov 9–10:** Projected payroll processing date
+   - **Nov 15:** W-2 filing deadline begins
+   - **Current status:** **3 days behind schedule; Deel entity issue must resolve within 24–48 hours to meet payroll deadlines**
 
-### 6. **INBOUND FACILITY TOUR REQUEST: Business Development Lead**
-   - Oct 31, 17:36:38 (UTC): Nikolasmassimo Mehan requesting manufacturing facility tour
-   - **Routed to:** info@blackswifttech.com + careers@blackswifttech.com
-   - **Implication:** External party interested in BST manufacturing capabilities; dual routing (business + recruitment) suggests partnership/investment/recruitment interest
-   - **Timing:** Same week as RAVEN project launch, NASA proposal, and facility modernization projects (occupancy sensing, door transition)
-   - **Pattern:** Increased external interest in BST; possible business development opportunity
+### 6. **FEDERAL CONTRACTING PIPELINE SUSTAINING**
+   - **Oct 31:** NASA ProSAMS proposal submitted (under 60–90 day federal review)
+   - **Nov 1:** DoW SciTechCONNECT Jackson opportunity alert received
+   - **Implication:** Federal proposal opportunities continuing to flow; NASA review cycle started; new federal partnerships (DoW) being tracked
+   - **Pattern:** Government contracting portfolio active despite operational/HR crisis (Deel entity verification blocking)
 
-### 7. **YEAR-END PAYROLL COMPLIANCE WINDOW ACTIVE**
-   - Oct 31, 16:20:51 (UTC): Rippling "2026 Year-End Payroll Checklist"
-   - **Typical deadlines:**
-     - W-2 forms finalization: Nov 15–Dec 15
-     - YTD payroll reconciliation: Nov 1–30
-     - Contractor 1099 forms: Same window (Dec 31 actually, but prep starts Nov)
-   - **Implications:** 
-     - Deel YTD payroll data extraction (Oct 29 request) must complete by Nov 15
-     - Offboarding (Oct 31) impacts final 2026 payroll and 1099 calculations
-     - Year-end closing cycle compressing to 30-day window (Nov 1–Dec 1)
+### 7. **LYNN REGNIER DUAL ROLE SHIFT: From Operations to Audit Coordination**
+   - **Prior pattern (Oct 31):** Lynn supporting Krateo Sky Aeropods partnership + general operations
+   - **Nov 1–2 pattern:** Lynn directly coordinating KPMG audit (lease accounting, cash-to-accrual questions)
+   - **Implication:** Lynn's role shifting to finance/audit focus; management-level financial decisions required
+   - **Timing:** Coincides with Deel entity verification crisis and year-end close phase
+   - **Pattern:** Finance-heavy workload for Lynn; Meredith providing operational support to audit coordination
 
-### 8. **GOVERNMENT PROPOSAL REVIEW PHASE STARTING**
-   - Oct 31, 15:49:53 (UTC): NASA ProSAMS confirmation
-   - **Typical federal proposal timeline:**
-     - Submission confirmed: Oct 31
-     - Technical review: 30–45 days (by mid-Dec)
-     - Funding decision: 60–90 days (by late Jan 2027)
-     - Contract award/execution: 90–120 days if successful
-   - **Implication:** Multi-month review cycle starting; likely no update expected until mid-November at earliest
-   - **Strategic importance:** Multi-million-dollar contract opportunity visible in Q4 2026
+### 8. **VENDOR PROCUREMENT CONTINUING DESPITE CRISIS**
+   - **Nov 2, 05:03:15 (UTC): Spindrift Market beverage order confirmed** [ROUTINE]
+   - **Implication:** Operational procurement continuing; supply chain baseline sustained despite Deel blocking issue
+   - **Pattern:** Business as usual on low-priority vendor procurement; high-priority HR/payroll/audit activities at risk
 
-### 9. **WEEKEND OPERATIONAL TEMPO SUSTAINED**
-   - **Oct 31 activity (Saturday):** 13 messages (consistent with weekday baseline ~25/day, adjusted for weekend)
-   - **Pattern:** No auto-reply; operational engagement continuing through weekend
-   - **Focus:** Procurement fulfillment tracking, government confirmations, HR escalations (no discretionary weekend email)
-   - **Implication:** Critical week continuing through weekend; federal proposal and HR compliance requiring sustained attention
+### 9. **AWS/CLOUD INFRASTRUCTURE BILLING ACTIVE**
+   - **Nov 2, 00:34:44 (UTC): AWS billing statement available** [Account: 520951637877]
+   - **Implication:** Cloud infrastructure supporting operations (likely RAVEN project, Krateo integration, or internal systems)
+   - **Cost allocation:** Cloud costs likely allocable to federal contracts (NASA, NOAA, Navy) or internal R&D
+   - **Pattern:** Monthly billing reconciliation required for month-end/year-end close
 
-### 10. **VENDOR PROMOTIONAL EMAIL ROUTING ANOMALY**
-   - Oct 31, 14:01 (UTC): SCHEELS "50% Off Sitka Drifter Luggage" routed to "Jack Elston <purchasing@blackswifttech.com>"
-   - **Anomaly:** Promotional email from outdoor retailer (Sitka = outdoor gear brand; Drifter Luggage = travel/adventure product)
-   - **Implication:** Either (a) Jack personally subscribed to SCHEELS via company email, or (b) purchasing alias capturing incidental vendor email
-   - **Pattern:** Low-priority vendor list; likely spam/marketing automation
-   - **Note:** Does not indicate business procurement; likely personal/incidental
-
-### 11. **RIPPLING SUPPORT TICKET RESOLUTION**
-   - Oct 31, 09:00:46 (MDT): "Reminder: Meredith, how was your recent support experience with Tracy L?"
-   - **Implication:** Recent Rippling support ticket resolved (likely related to Deel transition or HRIS configuration); satisfaction survey sent
-   - **Pattern:** System-generated feedback request; indicates Rippling HR/payroll platform support active during implementation phase
-
-### 12. **GOVERNMENT CONTRACTING EXPANSION ACROSS THREE FEDERAL AGENCIES**
-   - **Oct 29:** NOAA (ongoing) + Navy (new rates) visible
-   - **Oct 31:** NASA (new proposal) confirmed
-   - **Portfolio:** Federal revenue now diversified across NOAA (operational) + Navy (indirect rates) + NASA (proposal)
-   - **Implication:** Government business model expanding; compliance/accounting complexity increasing (DCAA, ProSAMS, federal reporting)
-   - **Pattern:** Strategic shift toward federal contracting; likely 30–50% revenue mix target for 2027
+### 10. **AUDIT ENTITY COORDINATION: KPMG, Rippling/Deel, Elevations CU, AWS**
+   - **KPMG:** Mid-year/year-end financial audit (lease accounting, cash-to-accrual, financial statements)
+   - **Deel:** Entity verification blocking; HRIS implementation at risk
+   - **Elevations CU:** Banking reconciliation required
+   - **AWS:** Cloud infrastructure costs reconciliation
+   - **Implication:** Multiple systems, vendors, and advisors requiring coordination for year-end close
+   - **Complexity:** Audit scope + payroll implementation + banking + infrastructure billing all converging Nov 1–15
 
 ---
 
-## Summary Update (Oct 29–31 — Major Strategic Developments)
+## Summary Update (Nov 1–2 — Crisis Phase)
 
-**CRITICAL UPDATES (48-hour cycle):**
+**CRITICAL ISSUES (48-hour cycle, Nov 1–2):**
 
-1. **NASA FEDERAL CONTRACT PROPOSAL SUBMITTED & CONFIRMED**
-   - Oct 31, 15:49:53 (UTC): ProSAMS submission confirmation
-   - Multi-million-dollar opportunity; 60–90 day review cycle starting
-   - Likely tied to RAVEN project (Oct 29 kickoff); external partner site visit scheduled
-   - **Federal contracting portfolio now spans NOAA + Navy + NASA**
+1. **DEEL ENTITY VERIFICATION FAILURE [BLOCKING]**
+   - Nov 2, 06:48 UTC: "Your entity could not be verified"
+   - Escalation from "missing documents" (Oct 31) to "entity verification failure" (Nov 2)
+   - **Payroll critical path endangered** — Must resolve within 24–48 hours or Nov 9–10 payroll + W-2 deadline at risk
+   - **Action required:** Verify legal entity registration, EIN, and corporate structure with Deel support immediately
 
-2. **HR/PAYROLL COMPLIANCE CRITICAL WEEK**
-   - Deel YTD data extraction (Oct 29 request) → missing documents escalation (Oct 31, 23:09 UTC)
-   - Rippling offboarding notification (Oct 31, 15:35) — employee/contractor departure; 7-person leadership team visibility
-   - Year-end payroll checklist (Oct 31, 16:20) — W-2 processing window Nov 1–Dec 15
-   - **Three compliance deadlines converging; critical path item (Deel) incomplete as of Oct 31**
+2. **KPMG AUDIT: LEASE ACCOUNTING RECONCILIATION ACTIVE**
+   - Nov 1, 18:48 PDT: Lynn Regnier initiates lease accounting questions
+   - Nov 1, 19:00 PDT: Escalated to KPMG partner Matthew C. Helton
+   - Nov 2, 01:52 UTC: KPMG responding to audit questions
+   - **Scope:** Facility lease accounting (ASC 842), cash-to-accrual reconciliation, financial statement audit
+   - **Timing:** Mid-year (6/30) or year-end (12/31/2026) audit in progress
+   - **Management level:** Partner-level coordination indicates significant audit scope or complexity
 
-3. **PROCUREMENT FULFILLMENT IN TRANSIT**
-   - DigiKey: 2 shipments Oct 31 (electronics orders from Oct 29–30)
-   - McMaster-Carr: Tracking active for Oct 30 order
-   - USPS: Daily digest tracking multiple packages
-   - **Supply chain moving from ordering to delivery; likely component procurement for RAVEN project or production ramp-up**
+3. **YEAR-END FINANCIAL CLOSE ACCELERATION**
+   - Banking reconciliation active (Elevations CU statement, Nov 2)
+   - Cloud infrastructure billing reconciliation (AWS, Nov 2)
+   - Audit coordination with KPMG (Nov 2)
+   - **Timeline:** Nov 1–15 critical close window; all systems converging
 
-4. **KRATEO SKY AEROPODS PRODUCT LAUNCH ACTIVE**
-   - Oct 31, 09:12 & 09:26 EDT: Marketing brainstorm (Shelly Dvorak, Geoff)
-   - Weekend engagement suggests high-priority launch timeline
-   - **Possible correlation to federal contract opportunities (RAVEN, NASA)**
+4. **MONDAY MORNING CRISIS MODE**
+   - 5 critical emails arriving Nov 2, 00:00–06:48 UTC
+   - Multiple systems surfacing issues simultaneously (banking, billing, audit, HR blocking)
+   - **Operational status:** Crisis management phase; payroll and audit timelines at risk
 
-5. **FACILITY TOUR INQUIRY: NEW BUSINESS DEVELOPMENT LEAD**
-   - Oct 31, 17:36:38 (UTC): Nikolasmassimo Mehan tour request (info@ + careers@)
-   - External interest in manufacturing capabilities
-   - **Timing coincides with RAVEN, NASA, and facility modernization projects**
+**OPERATIONAL STATUS (as of Nov 2, 06:48 UTC):**
+- **HR/Payroll:** **CRITICAL BLOCKING** — Deel entity verification failure halting HRIS implementation
+- **Audit:** KPMG lease accounting audit active; management-level coordination ongoing
+- **Financial Close:** Month-end + year-end activities converging; banking/billing reconciliation in progress
+- **Federal Contracting:** NASA proposal under review (60–90 day cycle); DoW opportunity tracking continuing
+- **Procurement:** Vendor fulfillment baseline sustained despite HR crisis
+- **Compliance Timeline:** **ENDANGERED** — Nov 9–10 payroll processing at risk; Nov 15 W-2 deadline at risk
 
-**OPERATIONAL STATUS:**
-- **Federal Contracting:** NOAA RPP ongoing + Navy rates negotiation + **NASA proposal submitted (Oct 31)**
-- **HR/Payroll:** Deel implementation critical path incomplete; offboarding event initiated; year-end closing cycle starting
-- **Procurement:** Oct 29–30 orders now fulfilling (DigiKey, McMaster-Carr, KMAC); supply chain acceleration confirmed
-- **Facilities:** Occupancy sensing + door transition projects continuing; new tour inquiry suggesting external interest
-- **Strategic Partnerships:** Krateo Sky Aeropods product launch; RAVEN project site visit pending
-- **Compliance Focus:** Year-end payroll (Nov 1–15 deadline) + Deel data migration (Nov 3 IT cutover) + offboarding documentation all converging Oct 31–Nov 15
+**PRIORITY ORDER (as of Nov 2, 06:48 UTC):**
+1. **[CRITICAL] Resolve Deel entity verification failure** — Must complete within 24–48 hours to restore payroll/HRIS implementation timeline
+2. **[CRITICAL] KPMG audit coordination** — Lease accounting and cash-to-accrual responses required; management decisions on accounting treatments
+3. **[IMPORTANT] Year-end financial close** — Banking, billing, and audit reconciliation converging; Nov 1–15 window critical
+4. **[IMPORTANT] Payroll processing timeline recovery** — Resume Nov 9–10 payroll once Deel entity issue resolved; W-2 filing deadline (Nov 15) at risk
+5. **[OPERATIONAL] Federal proposal tracking** — NASA review (60–90 days); DoW opportunity assessment; RAVEN project coordination
+6. **[OPERATIONAL] Vendor procurement** — Fulfillment baseline maintained; supply chain coordination ongoing
 
-**PRIORITY ORDER (as of Oct 31 EOD):**
-1. **[CRITICAL] Deel missing documents escalation** — YTD payroll data + documentation must complete by Nov 1–3 (IT cutover deadline)
-2. **[CRITICAL] NASA ProSAMS proposal review cycle** — 60–90 day federal evaluation starting; multi-million-dollar opportunity
-3. **[IMPORTANT] Offboarding workflow** — Final payroll, benefits termination, 1099 calculations; external tax/accounting coordination
-4. **[IMPORTANT] RAVEN project site visit coordination** — External partner engagement; likely NASA-related
-5. **[IMPORTANT] Procurement fulfillment tracking** — Supply chain delivery coordination (DigiKey backorders, McMaster-Carr, KMAC)
-6. **[IMPORTANT] Year-end payroll checklist** — W-2 processing, YTD reconciliation (Nov 1–15 window)
-7. **[OPERATIONAL] Krateo Sky Aeropods launch** — Product strategy brainstorm ongoing
-8. **[OPERATIONAL] Facility modernization** — Occupancy sensing + door transition continuing
+**WEEKEND–MONDAY TRANSITION CRISIS:**
+- Weekend (Nov 1): Financial audit questions initiated; Deel entity verification failure occurring (likely early Nov 2 discovery)
+- Monday AM (Nov 2): Crisis surfacing; Deel blocking issue prominent; KPMG audit and financial close coordination required simultaneously
+- **Operational tempo:** Sustained through crisis; no auto-reply active; immediate action required on Deel entity failure
 
-**WEEKEND OPERATIONAL TEMPO:** Sustained (13 messages Oct 31); no reduction in priority-1 activities (federal, HR, procurement continuing through Saturday)
+---
+
+## Communications Timeline Comparison (Oct 29 – Nov 2)
+
+### Pre-Crisis Phase (Oct 29–31)
+- **Oct 29:** RAVEN project kickoff; Deel YTD payroll request; Navy rates negotiation
+- **Oct 31:** NASA ProSAMS proposal confirmed; Rippling offboarding notification; DigiKey/McMaster-Carr shipments; Krateo Sky brainstorm; facility tour inquiry
+- **Operational status:** Sustained operations; multiple initiatives advancing simultaneously
+
+### Crisis Onset (Nov 1–2)
+- **Nov 1:** Financial audit questions initiated; Deel entity verification failure beginning (weekend discovery)
+- **Nov 2:** Deel blocking issue surfacing; KPMG audit response; banking/billing reconciliation; crisis mode activated
+- **Operational status:** Crisis management phase; critical path items endangered; immediate action required
+
+### Email Volume & Pattern Shift
+- **Oct 29–31:** ~13 messages/day average (weekend spike); operational coordination across federal, HR, procurement, strategic initiatives
+- **Nov 1–2:** ~4 messages/day (reduced); crisis/audit coordination focus; blocking issue (Deel) dominant

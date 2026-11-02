@@ -672,7 +672,7 @@
   - **Stachuram**
     - Email: stachuram@blackswifttech.com, stachuram@bst.aero
   - **Mirvin**
-    - Email: mirvin@bst.aero
+    - Email: mirvin@bst.aero, mirvin@intuicom.com
   - **Karen Zimmerman**
     - Email: karen.zimmerman@bst.aero
   - **Tiffany Elston**
@@ -684,7 +684,7 @@
   - **Stacie** — Business Development
     - Email: stacie@pitchdeckfire.com
   - **Statutura**
-    - Email: statutura@blackswifttech.com
+    - Email: statutura@blackswifttech.com, statucha@blackswifttech.com
   - **Bryan Constanza**
     - Email: bryan.constanza@blackswifttech.com
   - **Maciej**
@@ -719,29 +719,34 @@
 
 - **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research.
 
-- **Robust Academic Network**: 500+ university contacts across top-tier institutions reflects BST's role as a research partner and student recruitment pipeline.
+- **Robust Academic Network**: 500+ university contacts across top-tier institutions reflects BST's role as a research partner and student recruitment pipeline. Includes domestic and international academic collaborators (UK, Germany, Iceland, Australia, etc.).
 
-- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force) indicate active pursuit of federal small business innovation funding.
+- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD) indicate active pursuit of federal small business innovation funding.
 
-- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy.
+- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy, with emphasis on local Denver/Boulder outlets and national networks.
 
-- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization.
+- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization efforts.
 
 - **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers, electronics distributors, and specialized component suppliers suggest active manufacturing/assembly operations.
 
-- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, and other defense contractors suggest partnerships or potential customer relationships.
+- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, Lockheed Martin, and other major defense contractors suggest partnerships or potential customer relationships.
 
-- **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations.
+- **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations and financial management infrastructure.
 
-- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, and XIMEA indicate partnerships for specialized aerial sensing capabilities.
+- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, XIMEA, and First RF indicate partnerships for specialized aerial sensing and RF capabilities.
+
+- **Research Infrastructure**: Contacts with NCAR/UCAR, national labs (Lawrence Berkeley, Argonne, Oak Ridge), and state/local agencies indicate deep integration into research ecosystem.
 
 ---
 
 ## Data Quality Notes
 
-- **Unnamed Entries**: 7,800+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations.
-- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members.
-- **Duplicates**: Some individuals appear multiple times with different email variations.
-- **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation).
-- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester), Germany (MLU Tübingen, HZG, DLR), Iceland, Spain, and numerous U.S. institutions.
-- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities.
+- **Unnamed Entries**: 7,800+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
+- **New Data Merge**: Latest data import consolidates 8,575 contacts with previous records, maintaining all historical information and adding new leads.
+- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations.
+- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com).
+- **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation, billing systems).
+- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Queen Mary London, Southampton), Germany (MLU Tübingen, HZG, DLR, Geomar, Chalmers), Iceland, Spain, Australia, New Zealand, Canada, and numerous U.S. institutions.
+- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County).
+- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, and specialized services.
+- **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency.

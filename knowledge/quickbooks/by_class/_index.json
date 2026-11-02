@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-01",
-    "end": "2026-11-01"
+    "start": "2024-11-02",
+    "end": "2026-11-02"
   },
-  "scanned_at": "2026-11-01",
+  "scanned_at": "2026-11-02",
   "projects": [
     {
       "project_code": "001-1",
@@ -88,9 +88,9 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 38689.03,
+      "expenses": 37048.02,
       "invoice_count": 0,
-      "bill_count": 9,
+      "bill_count": 8,
       "purchase_count": 108,
       "po_count": 0,
       "payment_count": 0,
@@ -333,11 +333,11 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3795798.67,
-      "expenses": 4591424.03,
-      "invoice_count": 59,
+      "revenue": 3796494.79,
+      "expenses": 4590879.12,
+      "invoice_count": 60,
       "bill_count": 136,
-      "purchase_count": 2550,
+      "purchase_count": 2545,
       "po_count": 3,
       "payment_count": 54,
       "qbo_class_names": [

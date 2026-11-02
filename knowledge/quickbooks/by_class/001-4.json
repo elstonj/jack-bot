@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-01",
-    "end": "2026-11-01"
+    "start": "2024-11-02",
+    "end": "2026-11-02"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 38689.03,
+    "expenses": 37048.02,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX": 16399.89,
+      "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 13186.53,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8572.99,
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8147.99,
       "Tariffs": 451.8,
       "Indirect Cost:Finance & Bank Charges": 57.2,
       "Indirect Cost:TaxesX": 20.62
@@ -258,29 +258,6 @@
           "amount": 1360.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
           "description": "PCB Assembly - S0 VTOL Work"
-        }
-      ]
-    },
-    {
-      "type": "Bill",
-      "date": "2024-11-01",
-      "doc_number": "3700",
-      "total": 1641.01,
-      "attributed": 1641.01,
-      "vendor": "MicroFirm Engineering",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "work for S0 VTOL",
-      "lines": [
-        {
-          "amount": 425.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
-          "description": "work for S0 VTOL (4.25hrs x 100)"
-        },
-        {
-          "amount": 1216.01,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "parts of S0 VTOL"
         }
       ]
     }

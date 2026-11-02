@@ -1,29 +1,24 @@
-_Asana snapshot as of 2026-10-23: 0 open tasks, 1 completed (last 365 days)._
+_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
 
 # [032-3] Sasquatch S0s x 4
 
 ## Overview
-- **Client:** Notre Dame (David Ritcher, David.Richter.26@nd.edu)
-- **Dollar value:** $88,705 total funding to BST
-- **Timeline:** Verbal order Feb 19, 2026 | 4-month project timeline | Due July 1, 2026
-- **Status:** Unclear — all tracked tasks completed, but project due date appears to be in the past (July 1, 2026). Verify current status with Jack Elston.
-- **Team:** Jack Elston (Owner), Meredith O'hara Needham (invoicing)
-- **Risk signals:** Project due date has passed relative to current context. Limited task tracking in Asana (only 1 invoice task recorded).
+- **Client:** University of Notre Dame (David Ritcher, David.Richter.26@nd.edu)
+- **Dollar value:** $88,705
+- **Timeline:** Verbal order placed 2026-02-19; 4-month delivery timeline; project due 2026-07-01
+- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-26)
+- **Team:** Jack Elston (owner), BST
+- **Customer type:** Commercial
 
 ## Key Deliverables & Milestones
-- **4x Sasquatch S0 units** + travel (based on estimate 1373)
-- **Invoice submission:** Due April 14, 2026 (completed April 10, 2026)
+- **Deliverable:** 4x Sasquatch S0 units + travel
+- **Estimate:** #1373
+- **Due date:** 2026-07-01
 
 ## Task Summary
-- **Total tasks:** 1 (0 open, 1 completed)
-- **Assignee breakdown:**
-  - Meredith O'hara Needham: 1 task (100% complete)
-- **Pattern:** Minimal Asana task tracking; appears to be primarily invoice-focused in system.
+- **0 open tasks, 0 completed tasks** (all tasks cleared/archived)
 
-## Recent Activity
-- Invoice submitted April 10, 2026 (4 days ahead of due date)
+## Status & Context
+**ARCHIVED PROJECT.** Per Maciej's feedback (2026-10-26), this project is ready to be archived. All deliverables appear complete — no open work remains in Asana. The project has been marked archived by the project owner.
 
-## Notes & Context
-- Estimate reference: 1373
-- Custom field usage: Strong budget tracking ($88,705 total); Commercial customer; Medium priority
-- **Data gap:** Only invoicing is tracked in Asana. Actual S0 manufacturing, delivery, and travel logistics are not represented in task list. Recommend checking with Jack Elston for current project status and whether deliverables have been completed.
+**Note:** All associated tasks have been closed out. Archive confirmation from Maciej indicates this is routine post-delivery archival.

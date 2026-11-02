@@ -231,7 +231,7 @@
 | **Rent/Facilities** | $0.00 | 0 | — |
 | **G&A (Tariff/Duties)** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL NOVEMBER SPEND** | **$0.00** | **0** | **No direct expenses recorded through 2026-11-16** |
+| **TOTAL NOVEMBER SPEND** | **$0.00** | **0** | **No direct expenses recorded through 2026-11-16; delivery phase active (Invoice #1791 revenue)** |
 
 ### October 2026 (2026-10-01 to 2026-10-31)
 | Category | Amount | # Transactions | Notes |
@@ -290,8 +290,9 @@
   - **Tablet & SwiftTab UI install:** $943.00
   - **Shipping (2 S0s):** $400.00
   - **Hard shipping and carrying case:** $400.00
-- **Status:** Outstanding balance $46,143.00
+- **Status:** Outstanding balance $46,143.00 (payment not yet received; invoice dated 2026-11-16)
 - **Operational Notes:** First documented service delivery with managed flight operations team; indicates BST is expanding beyond equipment sales into managed services/data collection operations
+- **Atmospheric Science Specifications:** S0 platform designed for atmospheric thermodynamic profiling (wind speed/direction, pressure, temperature, humidity) — suggests Langley Research Center mission involves atmospheric boundary layer or mesoscale meteorology research
 
 ### **S2 UAS Production — Invoices #1789–#1790 (2026-10-12)**
 - **Total:** $91,791.00 ([212-2] NASA S2 & Parts)
@@ -302,7 +303,7 @@
   - **Composite wings (left + right):** $13,635.00
   - **Tail set & boom:** $7,410.00
   - **Specialized carbon fiber nose cone kit (new):** $1,947.00
-- **Status:** Outstanding balance $91,791.00
+- **Status:** Outstanding balance $91,791.00 (awaiting payment)
 
 ### **2026 IDIQ Invoices #1741 & #1776 (2026-09-28, 2026-10-07)**
 - **Total:** $189,000.00 ([300-3] 2026 IDIQ)
@@ -378,12 +379,14 @@
 
 3. **Expense Efficiency:** $7,497.52 in October expenses supporting $238,143.00 in concurrent invoicing ([213-1] $46,143.00 + [212-2] S2 $91,791.00 + [300-3] $189,000.00 cumulative) = **31.8:1 revenue-to-expense ratio** for production phase.
 
-4. **Zero November Burn:** No expenses recorded 2026-11-01 to 2026-11-16; indicates completion of production cycle and transition to delivery/operations phase.
+4. **November Delivery Phase (2026-11-01 to 2026-11-16):** Zero production expenses recorded; system in active delivery mode with Invoice #1791 revenue realization. This indicates completion of manufacturing cycle and transition to customer operations support.
 
-5. **Outstanding Collections Pipeline:** $5.76M in receivables across 117 active invoices; top three projects ([300-3] $189,000.00 + [212-2] $91,791.00 + [213-1] $46,143.00) represent **$326,934.00 (5.7%)** of total receivables awaiting collection.
+5. **Outstanding Collections Pipeline:** $5.76M in receivables across 117 active invoices; top three projects ([300-3] $189,000.00 + [212-2] $91,791.00 + [213-1] $46,143.00) represent **$326,934.00 (5.7%)** of total receivables awaiting collection. Recent invoice #1791 ([213-1] Langley S0s) adds new government customer to collection cycle.
 
 6. **Tariff Impact Ongoing:** 20% effective duty rate on electronics procurement ($12.64 tariff on $62.72 order) continues to add marginal cost to component sourcing; cumulative tariff burden warrants sourcing strategy review.
 
+7. **Managed Services Expansion:** Invoice #1791 flight operations line item ($3,400.00 full-day support) signals BST capability expansion beyond equipment manufacture into operational data collection and atmospheric science support services — potential new revenue stream for recurring project support.
+
 ---
 
-*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). No new transactions identified post-Invoice #1791. Ready for budget reconciliation with Drive-based tracking.*
+*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). Raw data input contained 1 transaction confirming Invoice #1791 [213-1] Langley S0s ($46,143.00). No new expenses recorded in November 2026 YTD. Ready for budget reconciliation with Drive-based tracking.*

@@ -1,40 +1,39 @@
-_Asana snapshot as of 2026-10-23: 5 open tasks, 0 completed (last 365 days)._
+_Asana snapshot as of 2026-11-02: 5 open tasks, 0 completed (last 90 days)._
 
 # [012-2] ERAU VTOL S0
 
 ## Overview
-- **Customer:** Embry-Riddle Aeronautical University (ERAU)
+- **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
-- **Dollar Value:** $20,805.39 (total budget; all funding to Black Swift)
+- **Dollar value:** $20,805.39
 - **Timeline:** 
-  - Original project due: 2024-08-16 (stale)
-  - Current commitment: 2 VTOLs due May 2025; Training June 2025 @ BST
-- **Status:** **Active** — delivery and training scheduled for spring/summer 2025
-- **Team Members:** Alex Lomis (owner), Jack Elston, Dan Prendergast
-- **Product:** S0 VTOL
-- **Priority:** Medium
+  - Original project due date: 2024-08-16 (passed)
+  - Current commitment: 2 VTOLs due May 2025, Training June 2025 @ BST
+- **Status:** Active — delivery and training phase pending
+- **Team members:** Alex Lomis (owner), Jack Elston, Dan Prendergast
+- **Risk signals:** Project originally due August 2024; now tracking to May 2025 delivery. Five open tasks with no due dates assigned, including final delivery coordination and payment verification.
 
 ## Key Deliverables & Milestones
-1. **Deliver 2 × S0 VTOL to ERAU** — May 2025
-2. **Training Session** — June 2025 @ BST
-3. **Payment verification**
-4. **Project close-out**
-
-**Note:** Custom field context notes "Owe 2 VTOLs (May 2025) - Training June 2025 @ BST"
+| Deliverable | Timeline | Notes |
+|---|---|---|
+| 2x S0 VTOL systems | May 2025 | Per custom field notes |
+| Training @ BST | June 2025 | Post-delivery training |
+| Potential follow-on: 4 additional VTOLs | TBD | In estimates; contingent on customer satisfaction with initial 2-unit delivery |
 
 ## Task Summary
-- **Total:** 5 open tasks, 0 completed
-- **By Assignee:**
+- **Total tasks:** 5 open, 0 completed
+- **Assignees:**
   - Jack Elston: 1 task (Final due date for delivery)
-  - Dan Prendergast: 1 task (S0 VTOL Training for ERAU)
-  - Unassigned: 3 tasks (Ship, Verify payment, Close project)
-
-**Issue:** Most critical delivery and logistics tasks lack assignments and due dates. This represents execution risk for a May 2025 delivery.
+  - Dan Prendergast: 1 task (ERAU Training)
+  - Unassigned: 3 tasks (Ship, Payment verification, Close project)
+- **Pattern:** Delivery pipeline tasks lack due dates and clear ownership — unassigned tasks for shipment, payment, and closeout create accountability gaps.
 
 ## Recent Activity
-No completion history visible. All tasks remain open with minimal assignment detail. Tasks lack specific due dates despite firm May 2025 delivery commitment.
+No task completion history provided. Project appears to be in execution phase with May 2025 delivery target approaching.
 
 ## Notes & Context
-- **Stale Due Date in Project Metadata:** Project record shows "Due: 2024-08-16" but custom field and notes clarify actual commitment is May 2025 (2 VTOLs) + June 2025 (training).
-- **Follow-up Sales:** Customer has option to purchase 4 additional S0 VTOLs pending evaluation of initial 2-unit delivery (estimates already prepared).
-- **Process Gap (Daniel Prendergast, 2026-10-19):** Daniel flagged that BST lacks a well-defined process for transitioning proposed system builds into production pipeline. This S0 VTOL project should be monitored as a reference case for that workflow, particularly as the May 2025 delivery approaches and any follow-on orders materialize.
+- Original Asana due date (2024-08-16) is stale; current delivery target is **May 2025** per custom field notes.
+- Customer has option to purchase 4 additional units pending satisfaction with initial delivery.
+- Training is committed for June 2025 at BST facilities.
+- **Process gap noted** (from Daniel Prendergast, 2026-10-19): BST lacks a well-defined process for transitioning proposed system builds into production pipeline. ERAU may be an example of this gap — project definition has been ongoing for months.
+- 5 critical open tasks (shipment, training, payment, close-out) need due dates and clear ownership to ensure May 2025 timeline is met.

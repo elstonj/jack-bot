@@ -1,58 +1,53 @@
-_Asana snapshot as of 2026-10-31: 17 open tasks, 4 completed (last 90 days)._
+_Asana snapshot as of 2026-11-02: 17 open tasks, 4 completed (last 90 days)._
 
 # [350-4] 2024 USGS - Chile (Mexico)
 
 ## Overview
 - **Client:** USGS Volcano Science Center
 - **Contact:** Christoph Kern (USGS); Kevin Pesola (kpesola@usgs.gov, (360) 993-8963)
-- **Dollar Value:** $124,230 (full amount to Black Swift)
-- **Timeline:** Mission planned for Jan/Feb (per admin notes; see Maciej for updates). All visible milestones show 2026 dates, which appear to be Asana data entry errors—**treat as stale.**
-- **Status:** Active (17 open tasks, 4 completed)
+- **Dollar value:** $124,230 (full amount to Black Swift)
+- **Timeline:** Mission planned for Jan/Feb (per admin notes; see Maciej for updates). Task due dates shown as 2026 but appear to reflect 2024 operation cycle based on project name and status update date of Nov 22, 2023.
+- **Status:** Active — 17 open tasks, 4 completed. Multiple overdue milestones as of Nov 22, 2023.
 - **Team:** Maciej Stachura (owner), Dan Prendergast, Josh Fromm
-- **Products/Services:** MHP, Survey Services, Aircraft Rental
+- **Services:** MHP, Survey Services, Aircraft Rental
 - **Priority:** Medium
-- **Risk Signals:** All dated milestones now overdue per Nov 22, 2023 status update; actual Jan/Feb 2024 timing unclear—**requires immediate clarification with Maciej**
 
 ## Key Deliverables & Milestones
-| Milestone | Assigned | Asana Due Date | Notes |
-|-----------|----------|----------------|-------|
-| Conduct Mission | Unassigned | 2026-10-01 | **PRIMARY DELIVERABLE** |
-| Finish payload updates | Unassigned | 2026-10-23 | Dependency for mission |
-| Ship Aircraft and Equipment | Unassigned | 2026-10-26 | Status: "On" |
-| Conduct local flight testing | Unassigned | 2026-11-06 | Pre-mission validation |
-| Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | Regulatory/logistics |
-
-**⚠️ NOTE:** All 2026 dates are almost certainly errors. Real timeline is Jan/Feb 2024 per admin notes.
+| Milestone | Due Date | Status | Notes |
+|-----------|----------|--------|-------|
+| Finish payload updates | 2026-10-23 | Open | Unassigned |
+| Ship Aircraft and Equipment | 2026-10-26 | Open | Unassigned |
+| Sort out flight, radio, shipping, and import permissions | 2026-11-04 | Open | Unassigned |
+| Conduct local flight testing | 2026-11-06 | Open | Unassigned |
+| Conduct Mission | 2026-10-01 | Open | Unassigned |
 
 ## Task Summary
 - **Total:** 21 tasks (17 open, 4 completed)
-- **Completion Rate:** 19% (4/21)
-- **By Assignee:**
-  - **Dan Prendergast:** 3 open (flight approvals, ground permissions, photogrammetry), 4 completed (all regulatory/planning)
-  - **Maciej Stachura:** 2 open (prop testing, overheating investigation)
-  - **Josh Fromm:** 1 open (spare parts/packing)
-  - **Unassigned:** 11 open (all milestones + generic tasks)
+- **By assignee:**
+  - Dan Prendergast: 4 tasks (2 completed, 2 open) — 50% completion rate
+  - Maciej Stachura: 2 open tasks
+  - Josh Fromm: 1 open task
+  - Unassigned: 9 open tasks (5 milestones + 4 other)
 
-- **Notable Pattern:** Most critical milestones and generic work items (Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS) remain unassigned, suggesting allocation or sequencing decisions pending. Dan Prendergast has been actively completing regulatory groundwork.
+- **Notable patterns:** 
+  - Heavy milestone structure (5 of 17 open tasks are milestones)
+  - 9 unassigned tasks, several without due dates (Test New Capabilities, Tools/Ground Equipment, S2 Improvements, Planning/Algorithms/UI, CONOPS)
+  - Dan Prendergast carries most active work; critical path items (flight approvals, ground permissions) assigned to him
 
 ## Recent Activity
-- **Last Completed (by date):** 
-  - Sept 28, 2026: Flight plans finalized (Dan Prendergast)
-  - Sept 6, 2026: Operator Manual & CONOPS submitted to AFAC (Dan Prendergast)
-  - Sept 17, 2026: LUD/AV3 decision made (Dan Prendergast)
-  - Oct 7, 2026: AFAC difficulties escalated (Dan Prendergast → Christoph & Angie)
-
-- **Approaching (per Asana):** Oct 19 (AFAC approvals, ground permissions), Oct 23–26 (payload, shipping), Oct 30 (prop testing, overheating), Nov 2–6 (spare parts, flight testing, permissions)
-
-**⚠️ DISCONNECT:** Status update dated Nov 22, 2023 flags overdue milestones; all tasks show 2026 dates. This is a data consistency issue—**Maciej must clarify real Jan/Feb 2024 timeline and reset Asana dates immediately.**
+As of Nov 22, 2023 status update:
+- **Overdue:** Multiple milestones and tasks noted as overdue as of Nov 22, 2023
+- **Recently completed:** 
+  - Flight plans created using Google Earth markup (completed Sept 28)
+  - AFAC operator manual and CONOPS submitted (completed Sept 6)
+  - LUD decision for AV3 made (completed Sept 17)
+  - AFAC coordination email sent (completed Oct 7)
 
 ## Notes & Context
-- **Admin Note (critical):** "Working with USGS on Jan/Feb timing [see Maciej for updates]"—real mission window is Jan/Feb 2024, not Oct–Nov 2026. Asana dates are placeholder errors.
-- **Regulatory Focus:** Heavy emphasis on AFAC (Chilean aviation authority) approvals, ground permissions from CENAPED (national park authority), and import/customs. Dan Prendergast is lead on these.
-- **Payload & Aircraft Prep:** S3 (presumably aircraft model) requires altitude testing (5700m prop testing), thermal management fixes (Murray State overheating issue), and payload updates before shipment.
-- **Geographic Note:** Project title mentions both Chile and Mexico; unclear if dual-site or data entry error. Chile is primary per all task context.
-- **Contact Info on Task:** Kevin Pesola (kpesola@usgs.gov) listed in one task—secondary USGS contact.
+- **Mission timing:** Admin notes flag "Jan/Feb timing" with instruction to "see Maciej for updates" — actual mission dates may have shifted from 2026 due dates shown in Asana
+- **Location-specific challenges:** Testing props for 5700m altitude operations; investigation into overheating issues from Murray State flight
+- **Partner involvement:** CENAPED leading ground permissions verification for national park
+- **Critical dependencies:** Flight approvals from AFAC and ground permissions both due Oct 19; delay signals suggest potential schedule pressure
+- **Unassigned prep work:** S2 improvements, payload updates, and CONOPS remain unassigned despite milestone due dates approaching — may indicate resource constraints or pending decisions
 
----
-
-**ACTION REQUIRED:** Maciej Stachura must provide corrected Jan/Feb 2024 milestone dates and confirm actual flight windows. Current Asana dates are unreliable for planning.
+**Recommendation:** Clarify actual mission dates with Maciej; reassign overdue unassigned milestones to responsible parties; confirm AFAC approval status given Oct 19 critical deadline.

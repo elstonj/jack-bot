@@ -21,7 +21,7 @@
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-04] S0 VTOL IRAD",
     "open": 45,
@@ -70,25 +70,25 @@
     "window": "last 365 days"
   },
   "001-12_bst_web_applications_20_irad.md": {
-    "as_of": "2026-10-23",
-    "completed": 5,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[001-12] BST Web Applications 2.0 IRAD",
     "open": 14,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-12_customer_support.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 1,
     "name": "[001-12] Customer Support",
     "open": 4,
     "window": "last 90 days"
   },
   "001-12_log_parse_website.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-12] Log Parse Website",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_accounting.md": {
     "as_of": "2026-10-31",
@@ -112,25 +112,25 @@
     "window": "last 365 days"
   },
   "001-13_corporate_strategic_planning.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-13] Corporate / Strategic Planning",
     "open": 1,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_facilities_management.md": {
-    "as_of": "2026-10-23",
-    "completed": 86,
+    "as_of": "2026-11-02",
+    "completed": 17,
     "name": "[001-13] Facilities Management",
     "open": 6,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_finance_admin.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-13] Finance Admin",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_general_operations.md": {
     "as_of": "2026-10-23",
@@ -140,11 +140,11 @@
     "window": "last 365 days"
   },
   "001-13_hiring_pipeline.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-13] Hiring Pipeline",
     "open": 1,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_hr_general.md": {
     "as_of": "2026-11-01",
@@ -168,11 +168,11 @@
     "window": "last 365 days"
   },
   "001-13_marketing_goals_workflow.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-13] Marketing Goals Workflow",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-13_proposals.md": {
     "as_of": "2026-11-01",
@@ -182,7 +182,7 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-01",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[001-13] Purchasing",
     "open": 215,
@@ -231,11 +231,11 @@
     "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
-    "as_of": "2026-10-23",
-    "completed": 6,
+    "as_of": "2026-11-02",
+    "completed": 4,
     "name": "[001-23] SOCOM (CRADA) S0-AD",
     "open": 5,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "001-24_albatross_irad.md": {
     "as_of": "2026-10-23",
@@ -245,25 +245,25 @@
     "window": "last 365 days"
   },
   "005-1_barbados_vtol_s0_and_training.md": {
-    "as_of": "2026-10-23",
-    "completed": 1,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[005-1] BARBADOS VTOL S0 and Training ",
     "open": 4,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "012-2_erau_vtol_s0.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[012-2] ERAU VTOL S0",
     "open": 5,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "012-3_erau_model_s0.md": {
-    "as_of": "2026-10-23",
-    "completed": 1,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[012-3] ERAU Model S0",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "018-1_murphys_pond_ch4_monitoring.md": {
     "as_of": "2026-10-23",
@@ -287,18 +287,18 @@
     "window": "last 365 days"
   },
   "032-3_sasquatch_s0s_x_4.md": {
-    "as_of": "2026-10-23",
-    "completed": 1,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[032-3] Sasquatch S0s x 4",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "035-1_adonis_unmanned_experts.md": {
-    "as_of": "2026-10-23",
-    "completed": 13,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[035-1] ADONIS Unmanned Experts",
     "open": 1,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "039-1_refurbished_s2_oklahoma_state.md": {
     "as_of": "2026-10-23",
@@ -308,35 +308,35 @@
     "window": "last 365 days"
   },
   "043-1_bylight_professional_it_services.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[043-1] ByLight Professional IT Services",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "043-2_by_light_mustang.md": {
-    "as_of": "2026-10-23",
-    "completed": 32,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[043-2] By Light Mustang",
     "open": 3,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "043-3_bylight_m2halo.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-11-02",
     "completed": 12,
     "name": "[043-3] ByLight M2/Halo",
     "open": 1,
     "window": "last 90 days"
   },
   "044-1_emass_chip_integration.md": {
-    "as_of": "2026-10-23",
-    "completed": 39,
+    "as_of": "2026-11-02",
+    "completed": 4,
     "name": "[044-1] EMASS Chip Integration",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "047-01_uk_project_raven_helicopter_integration.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[047-01] UK Project RAVEN: Helicopter Integration",
     "open": 0,
@@ -357,18 +357,18 @@
     "window": "last 365 days"
   },
   "200-11_persistence_demo_nasa.md": {
-    "as_of": "2026-10-23",
-    "completed": 2,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[200-11] Persistence Demo (NASA)",
     "open": 1,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "200-12_nasa_aren_25.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[200-12] NASA AREN '25",
     "open": 1,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "200-14_autonomy.md": {
     "as_of": "2026-10-23",
@@ -378,32 +378,32 @@
     "window": "last 365 days"
   },
   "211-1_nasa_ames_mhp_for_s2.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[211-1] NASA Ames MHP for S2",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "212-1_s2_simulator.md": {
-    "as_of": "2026-10-23",
-    "completed": 9,
+    "as_of": "2026-11-02",
+    "completed": 2,
     "name": "[212-1] S2 Simulator ",
     "open": 2,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "212-2_nasa_s2_parts.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-11-02",
     "completed": 14,
     "name": "[212-2] NASA S2 & Parts",
     "open": 0,
     "window": "last 90 days"
   },
   "213-1_nasa-chris_meek_langley.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[213-1] NASA-Chris Meek (Langley)",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
     "as_of": "2026-10-31",
@@ -413,11 +413,11 @@
     "window": "last 90 days"
   },
   "301-2_sbir_-_hurricane_phase_ii.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[301-2] SBIR - Hurricane Phase II+",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "301-3_s0_hurricane_phase_ii_-_2025.md": {
     "as_of": "2026-10-23",
@@ -427,18 +427,18 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
     "window": "last 90 days"
   },
   "400-5_sbir_-_smm_dod_224d_phase_ii.md": {
-    "as_of": "2026-10-23",
-    "completed": 1,
+    "as_of": "2026-11-02",
+    "completed": 0,
     "name": "[400-5] SBIR - SMM DoD 22.4D Phase II",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "451-1_instaar_s3_x_2.md": {
     "as_of": "2026-10-23",
@@ -455,39 +455,39 @@
     "window": "last 365 days"
   },
   "452-2_s2_simulator_used_e2_battery.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "[452-2] S2 Simulator & used E2 Battery",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-10-23",
-    "completed": 45,
+    "as_of": "2026-11-02",
+    "completed": 13,
     "name": "[550-1] NAVY SBIR: Magnetometer",
     "open": 2,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "550-2_navy_sttr_hazardous_weather.md": {
-    "as_of": "2026-10-23",
-    "completed": 28,
+    "as_of": "2026-11-02",
+    "completed": 3,
     "name": "[550-2] Navy STTR: Hazardous Weather",
     "open": 7,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-10-31",
-    "completed": 4,
+    "as_of": "2026-11-02",
+    "completed": 6,
     "name": "[600-1] SOCOM Pope",
-    "open": 56,
+    "open": 58,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "Commercial Sales",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "contacts.md": {
     "as_of": "2026-10-30",
@@ -504,87 +504,87 @@
     "window": "last 365 days"
   },
   "flight_checklists.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "Flight Checklists",
     "open": 12,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "flight_testing.md": {
-    "as_of": "2026-10-30",
+    "as_of": "2026-11-02",
     "completed": 15,
     "name": "Flight Testing",
     "open": 10,
     "window": "last 90 days"
   },
   "nate_strauss_previously_assigned_tasks.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 3,
     "name": "Nate Straus's previously assigned tasks",
     "open": 52,
     "window": "last 90 days"
   },
   "paige_smiths_previously_assigned_tasks.md": {
-    "as_of": "2026-10-23",
-    "completed": 5,
+    "as_of": "2026-11-02",
+    "completed": 1,
     "name": "Paige Smith's previously assigned tasks",
     "open": 11,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "sbir_-_fire_utm_phase_i.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "SBIR - Fire UTM Phase I",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "sbir_-_fire_utm_phase_ii.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "SBIR - Fire UTM Phase II",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "sbir_-_volcano_ccrpp.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "SBIR - Volcano CCRPP",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
     "open": 12,
     "window": "last 90 days"
   },
   "view_operator_training_flights.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "View: Operator Training / Flights",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "view_shipping.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "View: Shipping",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   },
   "view_shop_pipeline.md": {
-    "as_of": "2026-10-28",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "View: Shop Pipeline",
     "open": 2,
     "window": "last 90 days"
   },
   "view_weekly_meetings.md": {
-    "as_of": "2026-10-23",
+    "as_of": "2026-11-02",
     "completed": 0,
     "name": "View: Weekly Meetings",
     "open": 0,
-    "window": "last 365 days"
+    "window": "last 90 days"
   }
 }
