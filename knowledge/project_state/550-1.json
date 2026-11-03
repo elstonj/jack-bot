@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "time-and-materials",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -30,34 +30,47 @@
     "line_items": [],
     "spent": {
       "labor": {
-        "amount": 116731.25,
+        "amount": 117008.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-02"
+        "last_updated": "2026-11-03"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-02"
+        "last_updated": "2026-11-03"
       },
       "other_qbo": {
         "amount": 30680.95,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-02"
+        "last_updated": "2026-11-03"
       },
-      "total": 150471.41,
+      "total": 150748.91,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 92068.59,
+    "remaining": 91791.09,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-02T10:19:17Z"
+    "last_reconciled": "2026-11-03T10:44:57Z"
   },
   "milestones": [],
   "deliverables": [],
-  "team": [],
+  "team": [
+    {
+      "name": "Beck Cotter",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    },
+    {
+      "name": "Dan Prendergast",
+      "role": null,
+      "allocation_pct": null,
+      "hours_last_30d": null
+    }
+  ],
   "risks": [],
   "overrides": [
     {
@@ -115,6 +128,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-11-02T10:19:17Z",
+  "last_full_rebuild": "2026-11-03T10:44:57Z",
   "last_incremental_update": null
 }

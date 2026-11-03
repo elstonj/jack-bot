@@ -67,33 +67,33 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-02",
-    "end": "2026-11-02"
+    "start": "2024-11-03",
+    "end": "2026-11-03"
   },
   "totals": {
-    "revenue": 3796494.79,
-    "expenses": 4590879.12,
+    "revenue": 3795798.67,
+    "expenses": 4737232.28,
     "by_category": {
-      "Payroll clearing account": 2268790.7,
+      "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 189909.21,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
-      "Inventory Asset": 123631.63,
+      "Inventory Asset": 123667.7,
       "FRINGE:FR-Retirement Contributions": 116216.23,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 102344.86,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 77689.63,
+      "FACILITIES:FA-Shop Supplies": 78619.5,
       "Spark One Jack #3168": 70684.0,
       "Prepaid Expenses": 64603.1,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 53011.75,
+      "Indirect Cost:Software Expenses": 52695.31,
+      "FACILITIES:FA-Office Supplies": 47632.19,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "FACILITIES:FA-Office Supplies": 46623.11,
       "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 33241.64,
-      "FACILITIES:FA-Software Expenses": 27784.98,
+      "DIRECT COSTS:DC-Direct Material Purchases": 33343.17,
+      "FACILITIES:FA-Software Expenses": 28221.8,
       "Indirect Cost:Meals and Entertainment": 27639.16,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
@@ -120,10 +120,10 @@
       "SALES & MARKETING:SM-Shipping": 8215.08,
       "SALES & MARKETING:SM-Travel": 7870.72,
       "FACILITIES:FA-Facility Repairs & Maintenance": 7696.83,
-      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6498.43,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
+      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6339.43,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 6270.39,
       "Indirect Cost:TaxesX": 6218.2,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 6105.75,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5521.38,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
       "Indirect Cost:Dues & Subscriptions": 4828.72,
@@ -136,14 +136,14 @@
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2172.45,
       "Indirect Cost:Professional Fees (do not use):Continuing educationX": 2165.72,
       "Indirect Cost:Internal Research and DevelopmentX": 2008.07,
+      "SALES & MARKETING:SM-Dues & Subscriptions": 1960.44,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 1900.0,
-      "SALES & MARKETING:SM-Dues & Subscriptions": 1880.25,
       "FACILITIES:FA-Equipment Repairs & Maintenance": 1465.41,
       "Soil Moisture Investment": 1396.88,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
       "Other Receivables": 1020.0,
       "Uncategorized Asset": 882.61,
-      "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 815.32,
+      "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 840.32,
       "Indirect Cost:Repairs and Maintenance": 598.88,
       "Indirect Cost:Professional Fees (do not use)": 576.65,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 544.24,
@@ -212,29 +212,6 @@
         },
         {
           "amount": 46143.0,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-11-01",
-      "doc_number": "1793",
-      "total": 696.12,
-      "attributed": 696.12,
-      "vendor": "",
-      "customer": "Nate Straus",
-      "balance": 696.12,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 696.12,
-          "account": "",
-          "description": "COBRA Payment"
-        },
-        {
-          "amount": 696.12,
           "account": "",
           "description": ""
         }
@@ -4476,6 +4453,188 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 32.98,
+      "attributed": 32.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 32.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "EXPO Dry Erase Markers"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 15.98,
+      "attributed": 15.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 15.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "MAXECHO 40 Pcs 3\" x 3\" Reusable Magnetic Sticky Notes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 113.47,
+      "attributed": 113.47,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 9.49,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "3 Pack 9/32\"(7mm) Hex Shank Hammer Drill Masonry Drill Bits, 4.3\" length"
+        },
+        {
+          "amount": 13.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "3 Pack 3/8\"(10mm) Hex Shank Hammer Drill Masonry Drill Bits"
+        },
+        {
+          "amount": 89.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "monTEK Swivel Bike Wall Mount"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 184.95,
+      "attributed": 184.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "J. Elston requested we return previous tape purchased and switch out with \"eco friendly\" tape",
+      "lines": [
+        {
+          "amount": 184.95,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Fiber Reinforced Packing Tape"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "348419",
+      "total": 36.07,
+      "attributed": 36.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Only 2 available (originally tried to order 10)\n\nFor future S3 sales",
+      "lines": [
+        {
+          "amount": 36.07,
+          "account": "Inventory Asset",
+          "description": "1414 Red 12 Gauge Wet Noodle Wire \u00d7 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-31",
+      "doc_number": "",
+      "total": 25.0,
+      "attributed": 25.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Sweep Svc Fee",
+      "lines": [
+        {
+          "amount": 25.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "Sweep Svc Fee"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "",
+      "total": 34.91,
+      "attributed": 34.910000000000004,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - M. Needham made purchase",
+      "lines": [
+        {
+          "amount": 10.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "TRULY 12-Digit Basic 4-Function Desktop Calculator"
+        },
+        {
+          "amount": 23.92,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Rocco & Roxie Enzyme Stain & Odor Eliminator"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "",
+      "total": 50.53,
+      "attributed": 50.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - M. Needham made purchase at request of J. Elston for new kitchen",
+      "lines": [
+        {
+          "amount": 24.54,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Brita Small 6-Cup Water Filter Pitcher,"
+        },
+        {
+          "amount": 25.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "BLACK+DECKER One Touch Coffee Grinder"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "",
+      "total": 28.0,
+      "attributed": 28.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DRIFTAWAY.COFFEE - 4617",
+      "lines": [
+        {
+          "amount": 28.0,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "DRIFTAWAY.COFFEE - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-30",
       "doc_number": "1125",
       "total": 9434.81,
@@ -4504,6 +4663,60 @@
           "amount": 23.04,
           "account": "Inventory Asset",
           "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
+      "total": 1328.22,
+      "attributed": 1328.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
+      "lines": [
+        {
+          "amount": 1328.22,
+          "account": "Payroll clearing account",
+          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
+      "total": 340.03,
+      "attributed": 340.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
+      "lines": [
+        {
+          "amount": 340.03,
+          "account": "Payroll clearing account",
+          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
+      "total": 129.82,
+      "attributed": 129.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Google Claude by Anth - 4617",
+      "lines": [
+        {
+          "amount": 129.82,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "Google Claude by Anth - 4617"
         }
       ]
     },
@@ -4568,6 +4781,78 @@
     {
       "type": "Purchase",
       "date": "2026-10-28",
+      "doc_number": "",
+      "total": 27.75,
+      "attributed": 27.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* PP8681MB3 - 4617",
+      "lines": [
+        {
+          "amount": 27.75,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "toilet paper"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 31.96,
+      "attributed": 31.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - J. Elston made purchase",
+      "lines": [
+        {
+          "amount": 31.96,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "MAXECHO 40 Pcs 3\" x 3\" Reusable Magnetic Sticky Notes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 84.99,
+      "attributed": 84.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 84.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "BLACK+DECKER 12-Cup Thermal Coffeemaker"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 12.0,
+      "attributed": 12.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "NAPKIN AI - 7333",
+      "lines": [
+        {
+          "amount": 12.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "NAPKIN AI - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
       "doc_number": "114-8042893-6646658",
       "total": 175.29,
       "attributed": 175.28999999999996,
@@ -4613,6 +4898,114 @@
           "amount": 12.99,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "Tondiamo 20 Pcs 2.64\" x 2.64\" Solder Sponge with Pre Cut Slits and Hole Yellow Square Soldering Iron Tip Cleaner Replacement Welding Iron Pads for Deep Cleaning High Temperature Resistant"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 170.66,
+      "attributed": 170.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ASANA.COM - 4617",
+      "lines": [
+        {
+          "amount": 170.66,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "ASANA.COM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 42183.31,
+      "attributed": 42183.31,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
+      "lines": [
+        {
+          "amount": 42183.31,
+          "account": "Payroll clearing account",
+          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 0.01,
+      "attributed": 0.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
+      "lines": [
+        {
+          "amount": 0.01,
+          "account": "Payroll clearing account",
+          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 100193.83,
+      "attributed": 100193.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT",
+      "lines": [
+        {
+          "amount": 100193.83,
+          "account": "Payroll clearing account",
+          "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
+      "total": 65.0,
+      "attributed": 65.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HEYTACO SUBSCRIPTION - 9208",
+      "lines": [
+        {
+          "amount": 65.0,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "HEYTACO SUBSCRIPTION - 9208"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
+      "total": 164.64,
+      "attributed": 164.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP SPINDRIFTBEVERAGE - 7333",
+      "lines": [
+        {
+          "amount": 164.64,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "SP SPINDRIFTBEVERAGE - 7333"
         }
       ]
     },
@@ -4667,6 +5060,24 @@
           "amount": 279.88,
           "account": "FACILITIES:FA-Utilities Expense",
           "description": "XCEL ENERGYPSCO TYPE XCELENERGY XCEL ENERGYPSCO TYPE XCELENERGY  ID XXXXXX6600 CO XCEL ENERGYPSCO NAME ELEVATIONSCHE648986947"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 101.53,
+      "attributed": 101.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* CK2OQ7WF3 - 4617",
+      "lines": [
+        {
+          "amount": 101.53,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "OLIXIS 3 Inch Queen Cooling Gel Infused Memory Foam Mattress Topper"
         }
       ]
     },
@@ -4823,6 +5234,24 @@
       "type": "Purchase",
       "date": "2026-10-19",
       "doc_number": "",
+      "total": 80.19,
+      "attributed": 80.19,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HOVER - 4617",
+      "lines": [
+        {
+          "amount": 80.19,
+          "account": "SALES & MARKETING:SM-Dues & Subscriptions",
+          "description": "HOVER - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
       "total": 174.75,
       "attributed": 174.75,
       "vendor": "",
@@ -4931,6 +5360,42 @@
       "type": "Purchase",
       "date": "2026-10-16",
       "doc_number": "",
+      "total": 359.99,
+      "attributed": 359.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made by J. Elston",
+      "lines": [
+        {
+          "amount": 359.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Max-officoo 4'x8' Large Dry Erase White Board"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 135.64,
+      "attributed": 135.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made by J. Elston",
+      "lines": [
+        {
+          "amount": 135.64,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Kasa Smart Plug HS103P4, Smart Wi-Fi Outlet"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
       "total": 24.0,
       "attributed": 24.0,
       "vendor": "",
@@ -4967,6 +5432,78 @@
       "type": "Purchase",
       "date": "2026-10-15",
       "doc_number": "",
+      "total": 24.96,
+      "attributed": 24.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made directly by J. Elston",
+      "lines": [
+        {
+          "amount": 24.96,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Zevo Flying Insect Trap for Fruit Flies"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 8.99,
+      "attributed": 8.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - Purchase made by J. Elston",
+      "lines": [
+        {
+          "amount": 8.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "(24 Pads) Sticky Notes 3x3 Inches,Bright Colors"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 30.99,
+      "attributed": 30.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made by J. Elston",
+      "lines": [
+        {
+          "amount": 30.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "FLT4825 HEPA Filter B Replacement for Guardian Air Purifier"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 12.19,
+      "attributed": 12.19,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - purchase made by J. Elston",
+      "lines": [
+        {
+          "amount": 12.19,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "TERRO Fruit Fly Trap 4-Pack,"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
       "total": 336.54,
       "attributed": 336.54,
       "vendor": "",
@@ -4978,6 +5515,72 @@
           "amount": 336.54,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "WIRECARE INC. - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
+      "total": 71.7,
+      "attributed": 71.7,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Hetzner Online - 7333",
+      "lines": [
+        {
+          "amount": 71.7,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "Hetzner Online - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
+      "total": 158.82,
+      "attributed": 158.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made directly by M. Needham",
+      "lines": [
+        {
+          "amount": 64.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tork Matic Paper Hand Towel Roll Natural"
+        },
+        {
+          "amount": 3.03,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Amazon Basics Liquid Dish Soap, Fresh Scent, Grease-cutting Formula, 30 Fl Oz, Pack of 1"
+        },
+        {
+          "amount": 40.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Reli. EcoStrong 33 Gallon Trash Bags"
+        },
+        {
+          "amount": 15.74,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "method All-Purpose Cleaner Spray"
+        },
+        {
+          "amount": 11.09,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Amazon Basics Disinfecting Wipes"
+        },
+        {
+          "amount": 5.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Scotch-Brite Zero Scratch Scrub Sponge"
+        },
+        {
+          "amount": 16.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Kleenex Ultra Soft Facial Tissues"
         }
       ]
     },
@@ -5098,7 +5701,7 @@
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET  ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI",
+      "memo": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI",
       "lines": [
         {
           "amount": 167.49,
@@ -5200,6 +5803,78 @@
       "type": "Purchase",
       "date": "2026-10-10",
       "doc_number": "",
+      "total": 329.9,
+      "attributed": 329.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - J. Elston made purchase for new office space",
+      "lines": [
+        {
+          "amount": 329.9,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "10 Jgstkcity Desk Clamp Power Strip"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-10",
+      "doc_number": "",
+      "total": 159.99,
+      "attributed": 159.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request - purchase made directly by M. Needham for new office kitchen",
+      "lines": [
+        {
+          "amount": 159.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Upstreman 3.2 Cu.Ft Mini Fridge"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-10",
+      "doc_number": "",
+      "total": 63.68,
+      "attributed": 63.68,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5E9FM9HO1 - 4617",
+      "lines": [
+        {
+          "amount": 63.68,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "part of larger shop supplies order (order placed on Oct. 1, 2026)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-10",
+      "doc_number": "",
+      "total": 353.12,
+      "attributed": 353.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "INTUIT *QBooks Online - 4617",
+      "lines": [
+        {
+          "amount": 353.12,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "INTUIT *QBooks Online - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-10",
+      "doc_number": "",
       "total": 19.19,
       "attributed": 19.19,
       "vendor": "",
@@ -5277,6 +5952,24 @@
           "amount": 113.73,
           "account": "FACILITIES:FA-Facility Repairs & Maintenance",
           "description": "ECO-CYCLE - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 48.28,
+      "attributed": 48.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For new office space",
+      "lines": [
+        {
+          "amount": 48.28,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Amazon Basics Small Rectangular Commercial Office Wastebaske"
         }
       ]
     },
@@ -54684,60 +55377,6 @@
           "amount": 6.9,
           "account": "Indirect Cost:Dues & Subscriptions",
           "description": "weekly fee"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-02",
-      "doc_number": "",
-      "total": 159.0,
-      "attributed": 159.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "NEAT N TIDY              DENVER       CO",
-      "lines": [
-        {
-          "amount": 159.0,
-          "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
-          "description": "NEAT N TIDY              DENVER       CO"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-02",
-      "doc_number": "",
-      "total": 479.43,
-      "attributed": 479.43,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON WEB SERVICES      AWS.AMAZON.COWA",
-      "lines": [
-        {
-          "amount": 479.43,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "AMAZON WEB SERVICES      AWS.AMAZON.COWA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-02",
-      "doc_number": "",
-      "total": 202.49,
-      "attributed": 202.49,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "ADOBE  *ADOBE            XXXXXX6000   CA",
-      "lines": [
-        {
-          "amount": 202.49,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "ADOBE  *ADOBE            XXXXXX6000   CA"
         }
       ]
     }

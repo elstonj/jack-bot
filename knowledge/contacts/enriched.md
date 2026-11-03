@@ -1,425 +1,282 @@
 # Enriched External Contacts
 
-# BLACK SWIFT TECHNOLOGIES ENRICHED CONTACT DIRECTORY
+# Black Swift Technologies — External Contact Directory
 
-## NASA (National Aeronautics and Space Administration)
+---
 
-### Primary Relationship
-Black Swift Technologies' primary government client and research sponsor across multiple centers (JPL, ARC, GSFC, LARC, JSC). Active engagement in SBIR Phase I/II programs, autonomy research, volcano monitoring, and UAS integration initiatives.
+## NASA (Multiple Centers)
 
-### Key Contacts
+### Key Technical & Program Contacts
 
-**John Glass** — NASA Program Contact
-- Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- Role: NASA liaison/program officer
-- BST Projects: Autonomy research initiatives
-- Context: Established contact across multiple NASA centers
-- Contact About: Research proposal updates, autonomy project coordination
+**Chris Meek** — NASA Langley Research Center (LaRC)
+- Email: christopher.b.meek@nasa.gov
+- Role: S0-AD procurement contact; wind tunnel testing coordination
+- BST Projects: S0-AD platform evaluation; ERAU wind tunnel testing
+- Context: Direct procurement authority for S0 aircraft systems; active in project 301-3 acquisition discussions
+- Contact Topic: Aircraft procurement, performance specifications, testing schedules
 
-**Matthew M. Fladeland** — NASA Contact
-- Email: matthew.m.fladeland@nasa.gov
-- Role: Research scientist/program officer
-- BST Projects: Atmospheric research, UAS integration
-- Contact About: Flight operations, airborne research methodology
+**Craig Hunter** — NASA Langley Research Center (LaRC)
+- Email: craig.hunter@nasa.gov
+- Role: NASA wind tunnel testing partner
+- BST Projects: S0 VTOL aerodynamic testing at ERAU
+- Context: Collaborating on S0 flight test validation with NOAA
+- Contact Topic: Wind tunnel test coordination, scheduling, data requirements
 
-**Robert Levy** — NASA Contact
-- Email: robert.levy@nasa.gov
-- Role: Program officer
-- BST Projects: Earth science, climate research
-- Contact About: Data processing, atmospheric measurements
+**Chester Dolph** — NASA Langley Research Center (LaRC)
+- Email: chester.v.dolph@nasa.gov
+- Role: Technical contact for S0 aerodynamic testing
+- BST Projects: S0 VTOL development, NOAA integration
+- Context: Part of multi-agency coordination on S0 UI/operations briefing (Nov 2026)
+- Contact Topic: Aerodynamic performance, testing parameters
 
-**Pawan Gupta** — NASA Contact
-- Email: pawan.gupta@nasa.gov
-- Role: Research coordinator
-- BST Projects: Atmospheric/weather research
-- Contact About: Mission planning, data requirements
+**Alexander Parker** — NASA Langley Research Center (LaRC-B730)
+- Email: alexander.parker@nasa.gov
+- Role: Research center technical liaison
+- BST Projects: Atmospheric research collaboration
+- Contact Topic: Technical partnerships, sensor integration
 
-**Jennifer L. Gustetic** — NASA Program Officer
-- Email: jennifer.l.gustetic@nasa.gov
-- Role: Program administration
-- BST Projects: SBIR proposals, research coordination
-- Context: Handles SBIR and grant administration
-- Contact About: Proposal deadlines, funding opportunities, reporting requirements
+---
 
-**Stephan R. Kawa** — NASA Contact
-- Email: stephan.r.kawa@nasa.gov
-- Role: Science lead
-- BST Projects: Carbon cycle, atmospheric measurements
-- Contact About: Sensor specifications, data validation
-
-### JPL Contacts
-
-**Andrew E. Johnson** — JPL Contact
-- Email: Andrew.E.Johnson@jpl.nasa.gov
-- Role: Robotics/autonomy engineer
-- BST Projects: Autonomy integration, rover coordination
-- Context: Active JPL collaboration on autonomy research
-- Contact About: Autonomous flight control, mission planning
-
-**Tara Estlin** — JPL Contact
-- Email: Tara.Estlin@jpl.nasa.gov
-- Role: Autonomy/AI researcher
-- BST Projects: NASA SBIR Phase I autonomy project (2025-2026)
-- Context: Key technical contact for layered autonomy architecture development; project aimed to advance from TRL-5 to TRL-7
-- Contact About: Flight autonomy architecture, TRL advancement, SwiftCore 4.0 integration
-
-**Marc Golombek** — JPL Contact
-- Email: mgolombek@jpl.nasa.gov
-- Role: Mars mission scientist
-- BST Projects: Planetary reconnaissance, rover operations
-- Contact About: Long-endurance mission planning, harsh environment operations
-
-**Marco B. Quadrelli** — JPL Contact
-- Email: marco.b.quadrelli@jpl.nasa.gov
-- Role: Systems engineer
-- BST Projects: System architecture, integration
-- Contact About: Technical integration approaches, architecture reviews
+### Broader NASA Network (High-Volume Contacts)
+*The following NASA personnel represent ongoing relationships across JPL, GSFC, LARC, and other centers. Maintain current contact lists for:*
+- **JPL Group**: Andrew E. Johnson, Tara Estlin, Marc Golombek, Allyson J. Beatrice, Cesar A. Romano, Roland Brockers, T. Parker, Raymond Francis, F. Calef, Kathryn M. Stack, R. Bhartia, Marcin L. Witek, Marco B. Quadrelli, T.W. Thompson, Seungbum Kim
+- **NASA HQ/General**: John Glass, Thomas A. Weisz, Daniel Goodrick, Bruce D. Fisher, Arthur B. Maples, Brian A. McGinley, Matthew M. Fladeland, Cynthia X. Zhang, Shirley J. Lapole, Brayden L. Chamberlain, Tony A. Damian, Mohammad Nourani, Judy Dove, William C. Edwards, Ranjay M. Shrestha, Daniel P. Coleman, Robert Levy, Pawan Gupta, M. M. Little, Joseph Grant-1, Jennifer L. Gustetic, Gynelle C. Steele, Kim L. Chrestenson, Stephan R. Kawa, Morris Hicks, Nakeitha Terrell, Ganiu T. Adegun, Jerry S. Esper, Roopalee D. Nesson, Sergio Mckenzie, Aimee B. Crowley, Amanda S. Brecht
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Primary Relationship
-Government research partner for atmospheric science, weather research, and hurricane monitoring. Active engagement in boundary layer measurement, hurricane reconnaissance, and air quality research programs.
+### Primary Project Contacts — S0 UAS Integration & Operations
 
-### Key Contacts
+**Joe Cione** — NOAA Federal
+- Email: joe.cione@noaa.gov
+- Role: Lead NOAA contact for S0 UAS operational partnership
+- BST Projects: S0 VTOL platform, NOAA operational deployment, hurricane monitoring
+- Context: Directly involved in "New UI for S0 UAS" briefing (Nov 2-3, 2026); coordinating with BST/ERAU on flight operations and data requirements
+- Recent Activity: Large cross-organizational briefing with Jack Elston, internal BST team, and NOAA partners
+- Contact Topic: S0 platform operations, UI requirements, hurricane/tropical cyclone monitoring, flight scheduling, data delivery formats
 
-**Wayne M. Angevine** — NOAA Atmospheric Scientist
-- Email: wayne.m.angevine@noaa.gov
-- Role: Boundary layer research lead
-- BST Projects: 25.1-Navy STTR boundary layer (tropical cyclone/high wind measurements)
-- Context: Phase II contract lead; focus on CAT (Convective and Atmospheric Turbulence) flights and ocean validation
-- Expertise: Boundary layer physics, atmospheric measurement
-- Contact About: Boundary layer sensor requirements, mission planning, data validation
+**Nikolai Pawlenko** — NOAA Federal
+- Email: nikolai.f.pawlenko@noaa.gov
+- Role: NOAA operations/flight test coordinator
+- BST Projects: S0 VTOL flight operations, Aerostar/Blackswift kickoff
+- Recent Activity: Participant in S0 UI briefing (Nov 3, 2026)
+- Contact Topic: Flight test logistics, operational protocols, data integration
 
-**Matthew Shupe** — NOAA Scientist
-- Email: matthew.shupe@noaa.gov
-- Role: Cloud/atmospheric physicist
-- BST Projects: Arctic/polar atmospheric research
-- Contact About: Cold weather atmospheric measurement, sensor performance validation
+**Mark Rogers** — NOAA Federal
+- Email: mark.e.rogers@noaa.gov
+- Role: NOAA technical/program manager
+- BST Projects: S0 UAS deployment, Aerostar partnership initiative
+- Recent Activity: Participant in NOAA/BST/ERAU coordination meetings
+- Contact Topic: Aerostar program management, technical requirements, partnership administration
 
-**Joseph Cione** — NOAA Researcher
-- Email: joseph.cione@noaa.gov
-- Role: Hurricane research scientist
-- BST Projects: SBIR Hurricane project, cyclone monitoring
-- Context: Contact for NOAA hurricane reconnaissance missions; coordinates data collection for tropical cyclone research
-- Recent Interaction: Referenced in grants-and-funding channel as partner for hurricane/cyclone research operations
-- Contact About: Hurricane mission planning, payload specifications, data delivery timelines
+**Laura Rock** — NOAA
+- Email: laura.rock@noaa.gov
+- Role: NOAA science/research contact
+- BST Projects: S0 atmospheric data collection, weather monitoring
+- Context: Part of expanded NOAA coordination team
+- Contact Topic: Data requirements, atmospheric measurements, hurricane research
 
-**Dave Turner** — NOAA Contact
-- Email: dave.turner@noaa.gov
-- Role: Atmospheric measurement specialist
-- BST Projects: Boundary layer dynamics research
-- Contact About: Sensor validation, atmospheric profiling
+**Danielle Varwig** — NOAA
+- Email: danielle.varwig@noaa.gov
+- Role: NOAA operations liaison
+- BST Projects: S0 UAS operations, flight coordination
+- Contact Topic: Operational logistics, deployment scheduling
 
-**Matthew Zika** — NOAA Contact
-- Email: matthew.zika@noaa.gov
-- Role: Research coordinator
-- BST Projects: Ocean-atmosphere interaction studies
-- Contact About: Ocean monitoring missions, buoy coordination
+**Jun Zhang** — NOAA
+- Email: jun.zhang@noaa.gov
+- Role: NOAA technical specialist
+- BST Projects: S0 platform technical integration
+- Context: Briefing participant (Nov 2026)
+- Contact Topic: Technical specifications, data formats, integration requirements
 
-**David B. Keith** — NOAA Contact
-- Email: david.b.keith@noaa.gov
-- Role: Program manager
-- BST Projects: Weather research coordination
-- Contact About: Mission scheduling, data requirements
+**Annette Hollingshead** — NOAA Federal
+- Email: annette.hollingshead@noaa.gov
+- Role: NOAA administrative/program coordinator
+- BST Projects: S0 UAS program administration
+- Contact Topic: Contract administration, logistics, program schedules
 
-**Kirsten Boogard** — NOAA Program Manager (777 PM)
-- Role: Portfolio/program oversight
-- BST Projects: NOAA contract coordination, proposal management
-- Context: Manages program budgets and proposal timelines for NOAA research initiatives
-- Contact About: Contract administration, deliverable tracking, budget modifications
+**Nicholas Underwood** — NOAA Federal
+- Email: nicholas.underwood@noaa.gov
+- Role: NOAA technical support
+- BST Projects: S0 platform operations
+- Contact Topic: Technical troubleshooting, operations support
 
----
-
-## U.S. Navy (Department of Defense)
-
-### Primary Relationship
-Active government customer for advanced UAS systems, magnetometer research (MAD - Magnetic Anomaly Detection), communication/datalink development, and Arctic operations. Multiple SBIR/STTR contracts and technology demonstration programs.
-
-### Key Contacts
-
-**Morris Hicks** — Navy DEVCOM ("DeSi")
-- Email: morris.hicks@nasa.gov (appears in Navy SBIR records)
-- Role: Navy technology coordinator
-- BST Projects: 25.1-Navy SBIR magnetometer (Magnetic Anomaly Detection)
-- Context: Navy DEVCOM liaison; coordinates sensor integration and testing
-- Contact About: Magnetometer specifications, MAD sensor performance, Navy integration standards
-
-**Angel Ruiz-Reyes** — Navy TPOC (Technical Point of Contact)
-- Role: Navy program officer
-- BST Projects: 25.1-Navy SBIR magnetometer Phase II (TCE - Technology Concept Experimentation)
-- Context: Primary Navy technical contact; oversees Phase II testing including Camp Pendleton TCE event (September 14-24, 2026)
-- Recent Interaction: Active in magnetometer testing coordination and Arctic Edge 2027 planning
-- Contact About: Phase II testing schedule, TCE event logistics, performance requirements
-
-**Aaron Pyrah** — Navy Contact
-- Role: Navy operator/technical staff
-- BST Projects: Navy magnetometer testing, SOCOM development
-- Context: Field testing coordinator, on-site operations lead
-- Contact About: Flight testing, field operations logistics, tactical application feedback
-
-**Derek** — Navy Contact
-- Role: Navy technical staff
-- BST Projects: SOCOM communication datalink (600-1)
-- Context: Navy SOCOM coordinator for datalink protocol development
-- Contact About: SOCOM system requirements, datalink specifications
-
-**Daniel Klier** — Navy Contact
-- Role: Navy operator
-- BST Projects: Navy SBIR testing, field operations
-- Contact About: Operational feedback, system performance metrics
-
-**Tony** — Navy Contact
-- Role: Navy technical coordinator
-- BST Projects: Navy magnetometer and SOCOM initiatives
-- Contact About: Technical requirements, testing coordination
+### Broader NOAA Network (High-Volume, Secondary Contacts)
+*Maintain current contact lists for ongoing government partnerships:*
+- **Atmospheric Science**: Wayne M. Angevine, Peter Wolf, Paul E. Johnston, Gary Wick, Jonathan Neuhaus, Jeff McMurphy, Treste Huse, Tom Evans, Jennifer Horsman, Isaac Vimont, Allison McComiskey, Heather Ziel, Audrey Jerauld, Courtney Smith, Jordan Rabinowitz, Dan Kelly, Kenneth Kottra, Karla Nicholl
+- **Operations & Logistics**: Jeff Colton, Jordan Dale, Steven Fuhrman, Beth Jaime, Gustavo Rubio, Eric Vichich, Mark Piotrowski, Jeff R. Johnson, David Hsu, Denice Drass, Bryand Duke, Clayton Watkins, John Bradley, Ross Allen, Virginia Chapman, Jeff Jalbrzikowski, Francis Kredensor, Robert A. Warner
+- **Specialized Programs**: Abel Alagbe, L. Shi, Felix Martinez, William D. Otto, Ramon Perez-David, Jon Petry, Shannon Shields, Brent Bower, Alexandria Andonian, Jesse Leach, Rematha Jones-Collins, John Crockett, John A. Quinlan, Lindsey Houska, Lisa Verzella, Shawn Smith, Matthew Zika, Ashley Hill, Audrey Rubel, Cole Rossiter, Lauren Marshall, Annie Gorgone, Justin Keesee, Joel Cline, Chung-Chu Teng, Michael McCarthy, George Perry, Philip Hoffman, Noah Lawrence-Slavas, Tee Her, Logan Poole, Carly Robbins, Lynn Evans, Michael Cameron, Ray Young, Linda Gilbert, James L. Free, Paul Darby, Keith L. Arnold, Jack Reeveseyre, Ciceley Gibbs, Larry Lowe, Mark Hafez, Alan S. Goldstein, David McGee, Jim H. Roles, Robert J. Zamora, Robbie Desen, Galen Scott, Joseph Cione, Matthew Taraboletti, Xavier Thompson, Alfredo Santoni, Rennie Andrews, Bryton Shang, John D. Murphy, Nicole Eliste, Tiffany Lantz, Amy Ranker, Matthew Jaskoski, Brian Richards, Athan Maragoudakis, David B. Keith, Dave Turner, Vanessa Caicedo, Benjamin Moore, Cathy Smith, Matthew Shupe, Sounak Biswas, Janice Bytheway, Joseph Sedlar, Jeffrey Osiensky, Addison Alford
 
 ---
 
-## U.S. Air Force & SOCOM
+## U.S. Navy & Department of Defense
 
-### Primary Relationship
-Air Force and Special Operations Command customer for advanced UAS systems, communication systems (SOCOM datalink - 600-1), and tactical operations support.
+### Active Program Contacts
 
-### Key Contacts
+**LCDR Austin Vorwald** — Navy VPU-2 (Fleet Readiness Squadron)
+- Role: Navy program point of contact for UAS integration
+- BST Projects: VPU2 Navy partnership, ISOF Range 2027 testing, magnetometer integration (SBIR program)
+- Context: Introduction facilitated for BST Navy partnerships; active in multiple Navy research initiatives
+- Contact Topic: VPU-2 operations, partnership scope, testing schedules, funding opportunities
 
-**Evan** — SOCOM Contact
-- Role: SOCOM program officer
-- BST Projects: SOCOM communication system (600-1)
-- Context: Primary SOCOM technical liaison; oversees datalink protocol design and implementation
-- Recent Activity: Comm Protocol Design & Implementation (active October 2026)
-- Contact About: SOCOM system specifications, datalink requirements, tactical integration
+**Morris DeSimone** — NAWCAD (Naval Air Warfare Center Aircraft Division)
+- Role: NAWCAD technical/program liaison
+- BST Projects: Navy SBIR programs, magnetometer research, boundary layer measurements
+- Contact Topic: Technical requirements, testing coordination, SBIR Phase II/III management
 
-**Brian** — SOCOM Demo Operator
-- Role: SOCOM operations/demonstration lead
-- BST Projects: S0 VTOL for SOCOM demonstration
-- Context: Coordinates demo flights and operational testing of S0 platform
-- Recent Activity: SOCOM demonstration operations (September-October 2026)
-- Contact About: Demo scheduling, operational requirements, platform performance feedback
+**Angel Ruiz-Reyes** — Navy DEVCOM Technical Point of Contact (TPOC)
+- Email: angel.ruiz-reyes@navy.mil (inferred)
+- Role: Navy magnetometer SBIR program technical authority
+- BST Projects: Navy SBIR Magnetometer Phase II/Option (project 25_1-navy-sbir-magnetometer)
+- Context: Active in magnetometer development, TCE event coordination (Camp Pendleton Sept 2026), UK RAVEN program kickoff (Nov 2026)
+- Recent Activity: Arctic Edge 2027 participation planning (April 19-May 7, Alaska); site visit preparation with UK delegation
+- Contact Topic: Magnetometer specifications, sensor optimization, testing protocols, Arctic Edge preparation
 
----
+**Daniel Klier, Aaron Pyrah, Derek** — Navy Personnel (SBIR Program Support)
+- Role: Navy technical team for magnetometer integration and field testing
+- BST Projects: Navy SBIR magnetometer, tactical testing, on-site validation
+- Context: Participated in TCE event at Camp Pendleton (Sept 14-24, 2026)
+- Contact Topic: Field testing coordination, technical troubleshooting, operational feedback
 
-## U.K. Ministry of Defence & Royal Navy
-
-### Primary Relationship
-International defense partner for RAVEN Project (magnetometer reconnaissance), UK Navy collaboration on advanced sensors and Arctic operations.
-
-### Key Contacts
-
-**Simon** — Royal Navy Contact
-- Role: Navy technical coordinator
-- BST Projects: RAVEN Project (magnetometer sensors for UK Navy)
-- Context: UK Navy liaison for international magnetometer sensor research
-- Recent Activity: RAVEN project kickoff preparation (October 2026)
-- Contact About: UK Navy requirements, international integration standards
-
-**Lockheed Martin UK (LMUK)** — Defense Contractor Partner
-- Role: Prime contractor/integrator
-- BST Projects: RAVEN Project (sensor integration), Arctic Edge 2027 participation
-- Context: LMUK coordinates UK defense activities with BST; manages integration of BST sensors into UK Navy systems
-- Recent Activity: RAVEN project development, Arctic Edge 2027 planning
-- Contact About: Integration approaches, LMUK requirements, defense standards
+**David Keeler, Alicia Owsiak** — U.S. Marine Corps
+- Role: Marine Corps partners for Army/Marine integration programs
+- BST Projects: Cross-service testing initiatives
+- Contact Topic: Marine Corps operational requirements, testing protocols
 
 ---
 
-## FAA (Federal Aviation Administration)
+## U.S. Air Force
 
-### Primary Relationship
-Regulatory body for UAS operations, airspace coordination, and special flight authorizations.
+### Yuma Test Center & By Light Partnership
 
-### Key Contacts
+**Mel** — By Light (USAF Contractor)
+- Role: Customer decision-maker for Mustang/Chilli aircraft program
+- BST Projects: By-Lite Mustang aircraft development (project by-lite-mustang)
+- Context: USAF testing contract for 400km range extended flight mission; two-phase development (original Mustang → Chilli airframe with Czech A37 wings)
+- Recent Activity: Final shipment pickup completed (Nov 2, 2026); project delivery closure
+- Contact Topic: Mustang/Chilli specifications, performance requirements, delivery logistics, customer acceptance testing
 
-**UAS Help Desk** — General Support
-- Email: UAShelp@faa.gov
-- Role: FAA UAS support center
-- Purpose: Airspace coordination, operations support, regulatory guidance
-- Contact About: UAS flight authorizations, airspace questions, regulatory compliance
+**Bryan Sparling** — By Light Pilot/Operations
+- Role: Pilot, flight operations coordinator, invoice/payment liaison
+- BST Projects: By-Lite Mustang flight testing
+- Context: Primary point of contact for flight readiness, pilot briefings, performance metrics
+- Contact Topic: Flight scheduling, pilot coordination, vehicle performance data
 
-**333 Exemptions Team** — Special Flight Authorization
-- Email: 333exemptions@faa.gov
-- Role: Special flight authorization processing
-- Purpose: Review and approval of experimental UAS operations
-- Contact About: Flight authorization requests, exemption processing
-
-**9-AWA-UASIPP@faa.gov** — UAS Integration Pilot Program
-- Role: UAS pilot program coordination
-- Purpose: Integrated test site support
-- Contact About: Test site access, pilot program participation
-
-**Micah D. Campbell** — FAA Contact
-- Email: Micah.D.Campbell@faa.gov
-- Role: FAA program officer
-- Contact About: Regulatory compliance, airspace integration
+**Craig** — By Light Manufacturing
+- Role: Manufacturing liaison (fuselage 3D-printing)
+- BST Projects: By-Lite Mustang production
+- Contact Topic: Manufacturing schedules, airframe production status
 
 ---
 
-## NSF (National Science Foundation)
+## Embry-Riddle Aeronautical University (ERAU)
 
-### Primary Relationship
-Federal funding agency for research grants and SBIR Phase I/II programs.
+### Flight Test & Aeronautics Partnership
 
-### Key Contacts
+**Joshua Wadler** — ERAU Flight Operations / UAS Specialist
+- Email: wadlerj@erau.edu
+- Role: Flight test coordinator, UAS operations lead
+- BST Projects: S0 VTOL wind tunnel testing (NASA LaRC), hurricane monitoring operations
+- Context: Direct collaborator on S0 UI briefing (Nov 2-3, 2026); primary liaison for ERAU facilities and flight test support
+- Recent Activity: Active in NOAA/S0 operational coordination
+- Contact Topic: Wind tunnel scheduling, flight operations logistics, student/faculty support, aircraft access
+
+**Zheng Zhang** — ERAU Wind Tunnel Operations
+- Email: ZHANGZ6@erau.edu
+- Role: Wind tunnel testing coordinator
+- BST Projects: S0 aerodynamic testing
+- Context: Part of NASA/NOAA/BST wind tunnel testing coordination
+- Contact Topic: Wind tunnel availability, testing protocols, data acquisition
+
+---
+
+## Academic & Research Partners
+
+### University of Colorado Boulder
+- **Relationship Context**: Primary employee base, research collaborations, engineering partnerships
+- **Key Departments**: Aerospace Engineering, Atmospheric and Oceanic Sciences, Engineering divisions
+- **Contact Strategy**: Maintain relationships for recruiting, research partnerships, student internships
+
+### Colorado State University
+- **Relationship Context**: Atmospheric research and engineering collaboration
+- **Key Departments**: Mechanical, Atmospheric, Civil Engineering
+- **Contact Strategy**: Research partnerships, field testing support, atmospheric science collaboration
+
+### National Center for Atmospheric Research (NCAR/UCAR)
+
+**S. Metz** — NCAR
+- Email: smetz@ucar.edu
+- Role: Research partner for atmospheric science
+- BST Projects: Atmospheric measurement systems, sensor integration
+- Contact Topic: Atmospheric research data, sensor specifications
+
+**Gregory Alley** — NCAR
+- Email: alegregory@ucar.edu
+- Role: Technical support contact
+- Contact Topic: NCAR facility access, research collaboration
+
+### University of Wyoming
+- **Relationship Context**: Atmospheric research partnership
+- **Key Contact**: W. Woldt (atmospheric science collaboration)
+
+---
+
+## Federal Funding & Grant Administration
 
 **J Figuero** — NSF Program Officer
 - Email: jfiguero@nsf.gov
-- Role: Program officer
-- BST Projects: NSF research proposals, SBIR program support
-- Contact About: Grant opportunities, proposal deadlines, funding requirements
+- Role: NSF grant program officer
+- BST Projects: Research grant administration, SBIR Phase evaluations
+- Contact Topic: Grant proposals, funding opportunities, Phase II/III support
 
-**Fastlane Help** — Grant Administration
+**Fastlane Help** — NSF Grant Administration
 - Email: fastlane@nsf.gov
-- Role: Administrative support
-- Purpose: NSF system and proposal submission support
-- Contact About: Fastlane system issues, submission deadlines
+- Role: NSF administrative support
+- Contact Topic: Proposal submission, account access, system issues
 
 ---
 
-## USDA (U.S. Department of Agriculture)
+## USDA (Agriculture Department)
 
-### Primary Relationship
-Government partner for agricultural applications and soil moisture research.
+**Jason L. Wilking** — APHIS (Animal and Plant Health Inspection Service)
+- Email: Jason.l.wilking@aphis.usda.gov
+- Role: Agricultural UAS applications contact
+- BST Projects: Agricultural monitoring, crop surveillance systems
+- Contact Topic: APHIS regulations, agricultural UAS deployment, data requirements
 
-### Key Contacts
-
-**Michael Cosh** — ARS Soil Moisture Researcher
-- Email: Michael.Cosh@ars.usda.gov
-- Role: Research scientist
-- BST Projects: Soil moisture mapping (active deployment program)
-- Context: Lead scientist for soil moisture research; coordinates field operations and data collection
-- Contact About: Soil sensor specifications, field campaign planning, data validation
-
-**Ann Heckart** — USDA Contact
+**Ann Heckart** — USDA
 - Email: Ann.Heckart@usda.gov
-- Role: Program coordinator
-- BST Projects: Agricultural research coordination
-- Contact About: Agricultural mission planning
+- Role: USDA partnership liaison
+- Contact Topic: Agricultural programs, USDA collaboration opportunities
+
+**Michael Cosh** — USDA ARS (Agricultural Research Service)
+- Email: Michael.Cosh@ars.usda.gov
+- Role: Agricultural research partner
+- BST Projects: Soil moisture/agricultural sensing research
+- Contact Topic: Agricultural sensor integration, research methodology, field testing
 
 ---
 
 ## USGS (United States Geological Survey)
 
-### Primary Relationship
-Earth science research partner, particularly for volcano monitoring and UAS research programs.
-
-### Key Contacts
-
-**UAS Program Contact** — USGS UAS Coordination
+**UAS Program** — USGS UAS Operations
 - Email: uas@usgs.gov
-- Role: UAS program coordinator
-- BST Projects: Volcano monitoring (SBIR-Volcano), geological survey operations
-- Context: Coordinates USGS UAS operations and partnerships
-- Contact About: UAS operations coordination, geological research missions
+- Role: UAS research and earth science applications
+- BST Projects: Earth science measurement systems, geospatial research
+- Contact Topic: UAS applications for geological surveys, sensor specifications, data formats
 
 ---
 
-## National Center for Atmospheric Research (NCAR/UCAR)
+## FAA (Federal Aviation Administration)
 
-### Primary Relationship
-Research partner for atmospheric science and advanced measurement systems.
+### Regulatory & Airspace Coordination
 
-### Key Contacts
+**UAS Help Desk** — FAA UAS Operations
+- Email: UAShelp@faa.gov
+- Role: UAS regulatory support, Part 107 guidance, airspace clearances
+- BST Projects: Flight operations authorization, airspace coordination for all programs
+- Contact Topic: Flight authorizations, regulatory compliance, airspace access
 
-**S. Metz** — NCAR Contact
-- Email: smetz@ucar.edu
-- Role: Research scientist
-- BST Projects: Atmospheric measurement systems
-- Contact About: Atmospheric sensor specifications, research methodologies
-
-**Gregory Alley** — NCAR Support
-- Email: alegregory@ucar.edu
-- Role: Operations/support staff
-- Contact About: Facility access, field campaign coordination
-
----
-
-## University of Colorado Boulder
-
-### Primary Relationship
-Academic partner, significant employee base, and active research collaborations in aerospace engineering and atmospheric sciences.
-
-### Key Contacts
-**150+ academic contacts** across Aerospace Engineering, Atmospheric and Oceanic Sciences, and Engineering divisions
-
-**Notable Context:**
-- Multiple BST employees are CU Boulder alumni/current students
-- Active collaboration on atmospheric research projects
-- Joint development of atmospheric measurement systems
-- Internship recruitment pipeline
-
----
-
-## Colorado State University
-
-### Primary Relationship
-Academic partner for atmospheric research and mechanical engineering support.
-
-### Key Contacts
-**Multiple contacts** in mechanical engineering, atmospheric sciences, and civil engineering departments
-
----
-
-## Universities & Research Institutions
-
-### ERAU (Embry-Riddle Aeronautical University)
-- **Eryan** — ERAU Contact
-  - Role: Research partner
-  - BST Projects: E2 testing, SMM (Soil Moisture Mapping) data evaluation
-  - Contact About: Flight testing coordination, research data analysis
-
-### Supercool Earth
-- **Contact:** Cloud seeding/icing flight research partner
-- BST Projects: Icing/cloud seeding flight operations
-- Contact About: Icing research missions, flight operations coordination
-
-### University of Wyoming
-- **W. Woldt** — Contact
-  - Role: Academic researcher
-  - BST Projects: Atmospheric research collaboration
-  - Contact About: Boundary layer research, sensor validation
-
----
-
-## Commercial & Technology Partners
-
-### Lockheed Martin (U.S. & UK)
-- **Role:** Defense prime contractor, strategic technology partner
-- **BST Projects:** RAVEN Project integration, potential platform development
-- **Contact About:** Integration standards, defense specifications
-
-### QuSpin (Magnetometer Technology)
-- **Jeff** — QuSpin Contact
-  - Role: Sensor manufacturer/technical liaison
-  - BST Projects: 25.1-Navy SBIR magnetometer (MAD sensor integration)
-  - Context: Supplier of magnetometer technology; active in Phase II integration and optimization work
-  - Contact About: Magnetometer specifications, performance optimization, supply chain
-
-### Ultra Maritime (Maritime Systems)
-- **Paul** — Ultra Maritime Contact
-  - Role: Maritime integration partner
-  - BST Projects: Navy magnetometer (MAD) maritime applications
-  - Contact About: Maritime system requirements, integration approaches
-
-### Bartington (Sensor Manufacturer)
-- **Role:** Magnetometer sensor supplier
-- **BST Projects:** 25.1-Navy SBIR magnetometer alternative sensor evaluation
-- **Contact About:** Sensor specifications, comparative performance
-
-### Krateo Sky (External Partner)
-- **Don Spinozzi** — Krateo Sky Contact
-  - Email: d.spinozzi@krateosky.com
-  - Role: Krateo Sky operations coordinator
-  - BST Projects: Munro Work project, external collaboration
-  - Context: Early contact in Bob Edson's onboarding; suggests active business relationship
-  - Contact About: Krateo partnership initiatives, project coordination
-
-### Winmate (Industrial Computing)
-- **Role:** Embedded computing platform supplier
-- **BST Projects:** Aircraft avionics/computing systems
-- **Contact About:** Rugged computing specifications, industrial platform integration
-
-### FastTurn PCBs (PCB Fabrication)
-- **John Luo** — FastTurn PCBs Contact
-  - Email: john.luo@fastturnpcbs.com
-  - Role: PCB fabrication/supply chain manager
-  - BST Projects: PSNS/Core firmware hardware PCB
+**9-AWA-UASIPP@faa.gov** — UAS Integration Pilot Program
+-

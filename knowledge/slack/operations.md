@@ -3,9 +3,9 @@
 ## Overview
 The operations channel serves as Black Swift Technologies' central hub for coordinating day-to-day activities, project status updates, facility management, shipping/logistics, procurement, financial tracking, and administrative matters. It functions as a working operations log where decisions are documented, action items assigned, and resources tracked.
 
-**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
+**Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops/project management), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through October 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through October 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, and administrative process refinement. Most recent activity (October 30, 2026) reflects ongoing project management preparation and external vendor coordination.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, and active project milestone tracking. Most recent activity (November 2, 2026) reflects ongoing project management and environmental compliance inquiries.
 
 ---
 
@@ -70,6 +70,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Project Management & Week Planning
 - **October 30, 2026:** Cory Dixon issued directive to all project leaders to update tasks on Kanban board and Asana by end of day (October 30) to prepare for Monday morning (November 3) team readiness. This reflects standard weekly planning and preparation cycle to ensure tasks are specific, current, and ready for execution.
 
+### Environmental Compliance & Hazardous Materials Disposal
+- **November 2, 2026:** Spencer Hoehl inquired about EPA ID status and hazardous materials disposal. Jack Elston confirmed BST does not have an EPA ID (company is too small to require one). Company has not tracked hazardous material disposals for calendar year 2026.
+- **November 2, 2026:** Spencer Hoehl contacted hazardous waste disposal facility. **Key constraint:** Facility only accepts business disposals by appointment; nearest available appointment is December 1, 2026. Spencer Hoehl proposed alternative of submitting disposal as "residential" (via employee who lives in Boulder County) to avoid business appointment lag, but flagged uncertainty about facility's response if business status discovered. **Decision:** Spencer Hoehl scheduled hazmat disposal appointment for December 1, 2026, with option to pursue residential alternative if urgency increases.
+
 ---
 
 ## Projects & Initiatives
@@ -85,18 +89,31 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Active Projects in Development
 1. **Project RAVEN (Lockheed Martin UK/Royal Navy)** - S0-AD integration with UK Merlin Helicopter Launch System. Project number assignment requested by Dan Prendergast on October 29, 2026. Royal Navy internal designation is Project RAVEN.
 
-2. **SOCOM Asana Project** - Dan Prendergast actively refactoring project structure. Project and sticky notes to be ready by Monday morning (November 3, 2026) per October 30 update.
+2. **SOCOM Asana Project** - Dan Prendergast actively refactoring project structure. Project and sticky notes were targeted to be ready by Monday morning (November 3, 2026) per October 30 update.
+
+3. **Vantor Lead** - Potential customer inquiry regarding geo-tagging image capabilities. Maciej Suwinski and Jack Elston discussing project viability. Maciej notes requirements for geo-tagging images might exceed current project bandwidth, but team is open to proceeding. Jack Elston prepared detailed discussion deck in supporting channel (#C014L88992B) on November 2, 2026. **Status:** Pending discussion on whether to pursue based on resource availability and technical fit.
 
 ---
 
 ## Action Items & Commitments
 
-### Week of November 3, 2026 Planning (assigned to project leaders, due October 30, 2026)
-- Update tasks on Kanban board for next week readiness
+### Week of November 3, 2026 - Project Management (assigned to project leaders/Maciej Suwinski, due by end of day November 2 / Monday November 3)
+- Update tasks on Kanban board with current status for week-to-week readiness
 - Update corresponding Asana tasks with specific, ready-to-execute items for Monday morning team availability
-- **Dan Prendergast:** Complete SOCOM Asana project refactoring and sticky note updates by Monday morning
+- **Dan Prendergast:** Complete SOCOM Asana project refactoring and sticky note updates by Monday morning (November 3)
+- **Maciej Suwinski:** Add milestone dates to all projects being managed; actively monitor task completion on Kanban board throughout week and re-assign tasks if insufficient progress observed
+- **All project leaders assigned by Maciej:** Move board tasks to "done" status immediately upon completion (ongoing, November 2 directive)
+- **Two team members (specific names referenced as <@U04CZK4K7P0> and <@U06CCFTNBS6>):** Ensure milestone dates are established and communicated to Maciej Suwinski; request input from Maciej if needed
 
-### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, due before October 26, 2026)
+### Vantor Lead Discussion (assigned to Maciej Suwinski and Jack Elston, timeframe not specified)
+- Maciej and Jack to discuss whether to proceed with Vantor lead based on geo-tagging image requirements vs. current project bandwidth
+- Decision on resource allocation and project viability needed
+
+### Hazardous Materials Disposal (assigned to Spencer Hoehl)
+- **Primary action:** Hazmat disposal appointment scheduled for December 1, 2026 at Boulder County facility
+- **Contingency consideration:** Develop alternative approach (residential submission via Boulder County employee) if December 1 appointment becomes too delayed or if disposal becomes more urgent
+
+### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, for project closeout)
 - Verify invoice status for [452-2] S2 Simulator & used E2 Battery
 - Verify invoice sent for [043-3] ByLight M2/Halo
 - Confirm invoice paid for [032-3] Sasquatch S0s x 4
@@ -108,9 +125,9 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Facility Maintenance (ongoing)
 - Back door locksmith service needed (September 18, 2026 identification; status unknown)
-- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of October 30)
+- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 2)
 - Collapsing shelf repair/replacement (identified October 22, 2026; status unknown)
-- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of October 30)
+- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 2)
 
 ### Asana Project Archival (assigned to Maciej Suwinski)
 - Archive (not delete) six completed projects once financial verification completed
@@ -131,8 +148,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **ByLight** - M2/Halo project collaboration (project [043-3] pending closeout as of October 26, 2026)
 - **ERAU (Embry-Riddle Aeronautical University)** - Model S0 delivery shipped June 2026 (project [012-3] pending invoice verification as of October 26, 2026)
 - **Sasquatch** - Four S0 units delivered (project [032-3] pending invoice payment verification as of October 26, 2026)
+- **Vantor** - Potential customer lead; inquiry regarding geo-tagging image capabilities; currently under evaluation by Maciej Suwinski and Jack Elston for project viability and resource fit (active discussion as of November 2, 2026)
 - **General Air** - Scheduled vendor pickup at BST facility on November 3, 2026 for canister transport/delivery (per Meredith Needham October 30 notification)
 - **KS (partner organization)** - Cross-organizational coordination referenced; suggested to assist with ECCN export control request construction and submission to SNAP-R per October 7 discussion
+- **Boulder County Hazardous Waste Facility** - Hazmat disposal provider; appointment-only for business disposals; December 1, 2026 appointment scheduled
 
 ---
 
@@ -140,29 +159,36 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 - **Project completion & closeout procedures** - Regular coordination on verifying project completion, invoice status, and proper archival
 - **Financial tracking & invoice management** - Ongoing emphasis on documenting invoice status before project closure
-- **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture)
-- **Procurement & purchasing delegation** - Recent shift to distributed purchasing authority with Beck Cotter as central coordinator
-- **Compliance documentation** - Emphasis on qualifications, FAA requirements, and proper documentation practices
+- **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management)
+- **Procurement & purchasing delegation** - Established process with Beck Cotter as central purchasing coordinator
+- **Compliance documentation** - Emphasis on qualifications, FAA requirements, hazmat disposal, and proper documentation practices
 - **Hiring & organizational scaling** - Significant expansion of team through Q4 2026
 - **Export control & regulatory compliance** - Critical focus on ECCN classifications, export licensing, and government program coordination
-- **Strategic partnerships** - Expanding international partnerships (UK/Lockheed Martin/Royal Navy) requiring export control management
-- **Weekly project planning & task readiness** - Regular cycle of project leader updates to Kanban board and Asana to prepare for upcoming work week
+- **Strategic partnerships** - Expanding international partnerships (UK/Lockheed Martin/Royal Navy) and new customer leads (Vantor) requiring resource evaluation
+- **Weekly project planning & task readiness** - Regular cycle of project leader updates to Kanban board and Asana to prepare for upcoming work week; emphasis on milestone tracking and task completion velocity monitoring
+- **Project management oversight** - Maciej Suwinski actively managing milestone dates, task assignments, and workload distribution across projects
 
 ---
 
 ## Important Resources
 
-- **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping; includes archival protocols to preserve project data for reference and AI training; weekly task updates required from project leaders
-- **Kanban board** - Used for visual task management and week-to-week planning; requires updates from project leaders for upcoming week readiness
+- **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping; includes archival protocols to preserve project data for reference and AI training; weekly task updates required from project leaders; milestone date tracking required
+- **Kanban board** - Used for visual task management and week-to-week planning; requires updates from project leaders for upcoming week readiness; requires immediate task status updates as work is completed
+- **Supporting documentation:** Jack Elston's Vantor discussion deck in #C014L88992B (November 2, 2026)
 - **Export control system:** SNAP-R (for ECCN submissions)
 - **FAA systems:** Airman services portal (for pilot license address verification)
+- **Environmental compliance:** Boulder County Hazardous Waste Facility (disposal appointments; business disposals by appointment only)
 - **Facility access:** Front entrance combo: `2372`, inner door combo: `2011` (adjacent bakery space)
 
 ---
 
 ## Recent Activity
 
-**October 30, 2026:** 
-- Cory Dixon issued directive to project leaders requesting completion of Kanban board and Asana task updates by end of day to prepare for Monday morning team readiness and execution.
-- Meredith Needham notified team of General Air vendor pickup scheduled for November 3, 2026 (specific time not provided). Team directed to be available for canister pickup.
-- Dan Prendergast confirmed SOCOM Asana project refactoring in progress, with project structure and sticky notes ready by Monday morning (November 3).
+**November 2, 2026:**
+- Maciej Suwinski directed project leaders to ensure all managed project milestones have specific dates and requested his input if needed (09:00 message). This reflects emphasis on concrete timeline planning.
+- Maciej Suwinski and Jack Elston actively discussing Vantor lead viability. Jack prepared detailed discussion deck in #C014L88992B. Maciej noted uncertainty about proceeding due to geo-tagging requirements potentially exceeding current project bandwidth. Status: pending management discussion on whether to pursue.
+- Spencer Hoehl inquired about EPA ID and hazardous materials disposal tracking. Jack Elston confirmed no EPA ID required (company too small) and uncertainty on 2026 hazmat disposals.
+- Spencer Hoehl contacted Boulder County hazmat facility: business disposals available by appointment only; nearest slot December 1, 2026. Proposed residential alternative via Boulder County employee if urgency increases, but noted uncertainty about facility acceptance. Decision: scheduled December 1 appointment with contingency planning.
+- Maciej Suwinski issued directive to all team members to move Kanban board tasks to "done" immediately upon completion and signaled he will monitor task completion velocity throughout the week to identify task re-assignments if needed. This reflects active project management engagement and focus on completion rate.
+
+---

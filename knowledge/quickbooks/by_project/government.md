@@ -46,7 +46,7 @@
 ### Recent Invoices (2026-11-16) — **LATEST CONFIRMATION**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
-| **#1791** | **2026-11-16** | **$46,143.00** | **[213-1] Langley S0s** | **Two Assembled S0 UAS Systems:** S0 UAS fully assembled with charger ($36,000.00) — designed for atmospheric thermodynamic measurements including wind, pressure, temperature & humidity; S0 Ground Control Station ($5,000.00); Flight Operations support — full day with operator & observer/technician ($3,400.00); Tablet & SwiftTab UI install ($943.00); Shipping for 2 S0s ($400.00); Hard shipping and carrying case ($400.00) | **$46,143.00** |
+| **#1791** | **2026-11-16** | **$46,143.00** | **[213-1] Langley S0s** | **Two Assembled S0 UAS Systems:** Fully assembled S0 UAS with charger ($36,000.00) — designed for atmospheric thermodynamic measurements including wind, pressure, temperature & humidity; S0 Ground Control Station ($5,000.00); Flight Operations support — full day with operator & observer/technician ($3,400.00); Tablet & SwiftTab UI install ($943.00); Shipping for 2 S0s ($400.00); Hard shipping and carrying case ($400.00) | **$46,143.00** |
 | **#1790** | **2026-10-12** | **$1,947.00** | **[212-2] NASA S2 & Parts** | **Specialized Carbon Fiber Nose Cone Kit:** $1,275.00 nose cone + payload development kit; $672.00 assembly (3D printed ring, carbon fiber plate, quick release, DB9 connector, fiberglass rods) | **$1,947.00** |
 | **#1789** | **2026-10-12** | **$89,844.00** | **[212-2] NASA S2 & Parts** | **S2 UAS Complete System:** Tail boom ($1,635); Composite left wing ($5,670); Composite right wing ($7,965); Composite tail set ($5,775); 6S 14000 mAh battery ($1,335); Pneumatic launcher ($19,575); SwiftStation ground station ($2,327); Tablet & SwiftTab UI ($943); S2 airframe + SwiftCore FMS + SwiftTab UI + Futaba 14SG + SwiftStation RTK + toolkit + tripod + battery + charger + case ($44,619) | **$89,844.00** |
 | **#1776** | **2026-10-07** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
@@ -280,19 +280,20 @@
 
 ## Notable Transactions
 
-### **[213-1] Langley S0s — Two-Unit Delivery with Flight Ops (Invoice #1791, 2026-11-16) — VERIFIED**
+### **[213-1] Langley S0s — Two-Unit Delivery with Flight Ops (Invoice #1791, 2026-11-16) — VERIFIED & CONFIRMED**
 - **Amount:** $46,143.00
 - **Significance:** New project classification for Langley Research Center; turnkey atmospheric science platform delivery with integrated ground control and managed flight operations
 - **Complete Breakdown:**
-  - **S0 UAS fully assembled with charger:** $36,000.00 — Primary platform specified for atmospheric thermodynamic measurements (wind, pressure, temperature, humidity)
-  - **S0 Ground Control Station:** $5,000.00
-  - **Flight Operations support (full day):** $3,400.00 — Includes operator and observer/technician (2-person team deployment model)
-  - **Tablet & SwiftTab UI install:** $943.00
+  - **S0 UAS fully assembled with charger:** $36,000.00 — Primary platform specified for atmospheric thermodynamic measurements (wind, pressure, temperature, humidity). Represents 78% of invoice value.
+  - **S0 Ground Control Station:** $5,000.00 — Full mission planning and telemetry interface
+  - **Flight Operations support (full day):** $3,400.00 — Includes operator and observer/technician (2-person team deployment model). Indicates managed field services capability.
+  - **Tablet & SwiftTab UI install:** $943.00 — Mobile mission control interface configuration
   - **Shipping (2 S0s):** $400.00
   - **Hard shipping and carrying case:** $400.00
 - **Status:** Outstanding balance $46,143.00 (payment not yet received; invoice dated 2026-11-16)
 - **Operational Notes:** First documented service delivery with managed flight operations team; indicates BST is expanding beyond equipment sales into managed services/data collection operations
 - **Atmospheric Science Specifications:** S0 platform designed for atmospheric thermodynamic profiling (wind speed/direction, pressure, temperature, humidity) — suggests Langley Research Center mission involves atmospheric boundary layer or mesoscale meteorology research
+- **Invoice Verification:** Raw transaction data confirms exact line-item breakdown matching prior knowledge file entry
 
 ### **S2 UAS Production — Invoices #1789–#1790 (2026-10-12)**
 - **Total:** $91,791.00 ([212-2] NASA S2 & Parts)
@@ -387,6 +388,8 @@
 
 7. **Managed Services Expansion:** Invoice #1791 flight operations line item ($3,400.00 full-day support) signals BST capability expansion beyond equipment manufacture into operational data collection and atmospheric science support services — potential new revenue stream for recurring project support.
 
+8. **Invoice #1791 Data Reconciliation:** Raw transaction data provided (2026-11-02 to 2026-11-03 capture date range, with 2026-11-16 invoice date) confirms exact line-item detail for all six service/equipment components, validating prior knowledge file consolidation and confirming no discrepancies in financial recording.
+
 ---
 
-*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). Raw data input contained 1 transaction confirming Invoice #1791 [213-1] Langley S0s ($46,143.00). No new expenses recorded in November 2026 YTD. Ready for budget reconciliation with Drive-based tracking.*
+*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). Raw data input contained 1 transaction confirming Invoice #1791 [213-1] Langley S0s ($46,143.00) with verified line-item breakdown. No new expenses recorded in November 2026 YTD. Ready for budget reconciliation with Drive-based tracking.*

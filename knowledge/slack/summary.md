@@ -1,56 +1,78 @@
 # Slack Channels Overview
 
-Last scanned: 2026-10-31 02:39
+Last scanned: 2026-11-03 02:37
 
-Total channels scanned: 7
+Total channels scanned: 8
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 2 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#by-lite-mustang** -- 5 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 12 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 14 messages -- [general.md](general.md)
-- **#operations** -- 3 messages -- [operations.md](operations.md)
-- **#s3** -- 43 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 8 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#25_1-navy-sbir-magnetometer** -- 17 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#by-lite-mustang** -- 2 messages -- [by-lite-mustang.md](by-lite-mustang.md)
+- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
+- **#general** -- 3 messages -- [general.md](general.md)
+- **#operations** -- 7 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 3 messages -- [s0-vtol.md](s0-vtol.md)
+- **#sbir-hurricane** -- 9 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 3 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies Slack Channel Strategic Overview
 
-## Active Projects
-- **SBIR Hurricane (S0)**: Primary focus on unmanned aircraft for hurricane reconnaissance; mature project with extensive technical and operational history (2020-2026)
-- **Navy SBIR Magnetometer**: Integration of QuSpin/Bartington magnetometers with BST aircraft for magnetic anomaly detection (MAD applications)
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; targeting 2-3 hour endurance with automatic flight operations
-- **By Light Mustang**: USAF contract for 400km range testing; two-phase approach (original aircraft → Chilli airframe development)
-- **Commercial Aircraft Platform**: Multi-tier product line (E2, S0, S0-VTOL, S2, S3) serving university, government (NASA/NOAA), and international customers
+## Active Projects (Cross-Channel)
 
-## Key People & Roles
-- **Jack Elston**: Executive leadership, strategic decisions
-- **Joshua Fromm**: Lead engineer/designer, RF systems, CAD, hardware/shop management
-- **Maciej**: Project lead across multiple initiatives (Mustang, operations, flight testing)
-- **Dan Prendergast**: Business development and operations
-- **Beck Cotter**: Technical contributor across magnetometer and SBIR projects
-- **Sam Hild, Alex Lomis, Danny Troke, Nate**: Core engineering team
-- **Meredith Needham**: Finance and administration
+**Core Aircraft Platforms:**
+- **S0 System**: Hurricane reconnaissance UAV (SBIR), VTOL variant in development
+- **SwiftCore**: Firmware and drone system foundation used across platforms
+- **By Light Mustang**: USAF contract; original platform + new Chilli airframe variant
+- **E2, S2, S3**: Commercial variants mentioned in sales channel
+
+**Government SBIR Programs:**
+- Hurricane reconnaissance (SBIR-Hurricane)
+- Navy magnetometer integration (25_1-Navy-SBIR-Magnetometer)
+
+## Key Decision-Makers & Roles
+
+| Person | Primary Role |
+|--------|--------------|
+| Jack Elston | Leadership, strategic decisions |
+| Maciej | Project lead, flight ops, technical direction |
+| Joshua Fromm | Hardware/shop lead, procurement |
+| Dan Prendergast | Business development, operations |
+| Meredith Needham | Finance, administration |
+| Beck Cotter | Technical implementation (magnetometer, SwiftCore) |
+| Danny Troke | Firmware/software development |
+| Ben Busby | SwiftCore development |
+| Sam Hild, Alex Lomis | Multi-project technical contributors |
 
 ## Cross-Channel Themes
-1. **Hardware Integration**: Repeated pattern of sensor/payload integration with existing platforms (magnetometers, hurricane instruments, customer payloads)
-2. **Flight Testing & Validation**: Continuous cycle of testing, iteration, and performance documentation across all projects
-3. **Customer Delivery**: Commercial sales channel tracks end-to-end project lifecycle; operations ensures execution logistics
-4. **Technical Design & Sourcing**: Parts validation, RF component sourcing, and CAD design centralize around Joshua Fromm
-5. **Mission-Critical Applications**: Focus on government contracts (SBIR, USAF) and scientific research (NOAA, NASA)
 
-## Decision Patterns
-- **Leadership approval required** for major technical/business decisions (Jack Elston)
-- **Collaborative engineering approach** with documentation and requirements flowing through #general and project-specific channels
-- **Test-driven development** with rapid iteration between flight testing and design refinement
-- **Customer-centric logistics** with operations channel managing delivery timelines
+**Technical Integration Points:**
+- SwiftCore firmware used as foundation across S0, S0-VTOL, and commercial variants
+- Magnetometer and payload integration strategy shared between Navy SBIR and S0 platforms
+- Flight testing coordination spans hurricane, VTOL, and customer delivery projects
+
+**Operational Patterns:**
+- #general drives strategic announcements; #operations executes logistics
+- #commercial-sales coordinates customer requirements that flow to #swiftcore and platform channels
+- SBIR projects (#sbir-hurricane, #25_1-navy) drive long-term R&D feeding commercial products
+
+**Decision Flow:**
+1. Strategic decisions → #general announcements
+2. Project-specific execution → specialized channels
+3. Operational enablement → #operations coordination
+4. Customer delivery → #commercial-sales tracking
 
 ## Recurring Topics
-- Aircraft performance specifications (endurance, range, payload capacity)
-- Sensor/payload integration complexity
-- Flight test scheduling and results analysis
-- Supply chain and parts procurement
-- Budget and resource allocation
-- Regulatory/mission requirements documentation
+
+- **Flight testing cycles**: Safety protocols, weather coordination, results analysis
+- **Hardware integration**: Payloads, sensors, system compatibility across variants
+- **Schedule pressure**: Delivery timelines, SBIR milestones, customer commitments
+- **Procurement & logistics**: Parts sourcing, shipping, facility management
+- **Software releases**: SwiftCore updates, firmware versions, compatibility
+
+## Timing Context
+
+- Active operations: 2020–2026
+- Multiple concurrent multi-year projects (SBIR hurricane, Navy magnetometer)
+- Commercial sales running parallel to government R&D programs

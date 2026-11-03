@@ -1,80 +1,45 @@
-_Asana snapshot as of 2026-10-23: 17 open tasks, 70 completed (last 365 days)._
+_Asana snapshot as of 2026-11-03: 28 open tasks, 15 completed (last 90 days)._
 
 # [001-13] General Operations
 
 ## Overview
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
-- **Status:** Active — ongoing operational and compliance management
-- **Timeline:** Recurring monthly tasks (rent, Toggl checks); regulatory deadlines spread across 2026–2027
+- **Status:** Active — ongoing operational and compliance work with mixed urgency
+- **Timeline:** Open-ended; recurring tasks (Toggl checks, rent) plus compliance milestones (NDAA, CMMC, export controls, European compliance)
 - **Risk Signals:** 
-  - Multiple compliance tasks without due dates (NDAA, CMMC, European Compliance, GAAP)
-  - Several facility/infrastructure tasks unassigned and undated (Shop Cleaning, Process Improvement, Equipment requests)
-  - Repeated "Toggl offenders" pattern suggests ongoing time-tracking enforcement need
+  - Two tasks overdue as of Sept 28, 2026: "File Periodic Report" (due Sept 4) and "Check Toggl for project tracking - email offenders" (due Oct 5) both marked open
+  - Multiple unassigned compliance and policy tasks with no due dates
+  - Heavy reliance on Meredith for recurring administrative work
 
 ## Key Deliverables & Milestones
-
-| Task | Assignee | Due Date | Status |
-|------|----------|----------|--------|
-| File Periodic Report (Colorado SOS) | Meredith O'hara Needham | 2027-09-04 | Open |
-| EAR ECCN Classification for S3 | Dan Prendergast | 2026-10-05 | Open (SNAP-R Ref: 2026S03, Classification No. Z1893789, accepted 1/29/2026) |
-| Check Toggl for project tracking | Meredith O'hara Needham | 2026-10-05 | Open (recurring) |
-| Pay Rent | Meredith O'hara Needham | 2026-09-28 | Open (recurring monthly) |
-| FAA Drone Registration Renewal (FA3CHM3C9T) | Meredith O'hara Needham | Expires 2026-04-07 | Completed 2026-03-10 |
-| SAM.gov Registration Renewal | Meredith O'hara Needham | Expires 2026-09-05 | Completed 2026-09-28 |
-| Hazmat Training Renewal | Meredith O'hara Needham | Every 24 months (last: 2026-04-15) | Completed 2026-04-15 |
+- **File Periodic Report (Colorado)** — Due Sept 4, 2026 (appears completed Sept 28, but still listed open in Asana; stale data)
+- **Renew SAM.gov registration** — Expires Sept 5, 2026 (completed Sept 28)
+- **EAR ECCN Classification (S3)** — Due Oct 5, 2026 (Dan Prendergast; reference SNAP-R #2026S03, CCN Z1893789, accepted Jan 29, 2026)
+- **Define part number scheme** — Due Nov 6, 2026 (Josh Waldman)
+- **Setup Production-based Kanban board** — Due Nov 6, 2026 (Cory Dixon)
 
 ## Task Summary
+- **Total:** 28 open, 15 completed
+- **By Assignee:**
+  - **Meredith O'hara Needham:** 4 open (Periodic Report, Toggl checks, Pay Rent, all recurring/administrative)
+  - **Jack Elston:** 6 open (facilities & operations: Toaster Oven, Phone system, Desk Partitions, Equipment wish list, Zendesk, European Compliance)
+  - **Dan Prendergast:** 2 open (EAR ECCN classification, Deployment Kits)
+  - **Maciej Stachura:** 2 open (NDAA Compliance, Blue/Green UAS status)
+  - **Cory Dixon:** 1 open (Kanban board setup)
+  - **Josh Waldman:** 1 open (Part number scheme)
+  - **Beck Cotter:** 1 open (CMMC Level I)
+  - **Unassigned:** 11 open (Service Animals, Export Controls, Org Chart, Expense/Travel Policy, Deel setup, Time Allocation review, Holidays Guidance, Employee Handbook, Onboarding Deck, Shop Cleaning, GAAP compliance, Process Improvement)
 
-**Overall:** 17 open, 70 completed (80% completion rate)
-
-**Open Tasks by Assignee:**
-- **Meredith O'hara Needham:** 4 tasks (Periodic Report, Toggl checks, Rent, European Compliance oversight implied)
-- **Jack Elston:** 5 tasks (Toaster Oven, Phone system, Desk Partitions, Equipment wishlist, Zendesk) — all undated, facility/ops focus
-- **Dan Prendergast:** 2 tasks (EAR ECCN, Deployment Kits)
-- **Maciej Stachura:** 2 tasks (NDAA Compliance, Blue/Green UAS status)
-- **Beck Cotter:** 1 task (CMMC Level I)
-- **Unassigned:** 3 tasks (Shop Cleaning/Repairs, GAAP Compliance, Process Improvement)
-
-**Key Patterns:**
-- **Recurring operational tasks:** Weekly Toggl audits, monthly rent payments dominate completed backlog
-- **Compliance heavy:** Multiple regulatory/security initiatives (CMMC, NDAA, European Compliance, GAAP, EAR) indicate government contracting posture
-- **Infrastructure backlog:** Jack Elston owns several facility improvement items without urgency (office equipment, support systems)
-- **No custom fields for dollar tracking visible** in task list
+- **Pattern:** Heavy administrative burden on Meredith (recurring weekly Toggl checks, monthly rent); significant compliance work (NDAA, CMMC, export controls, European compliance) scattered across team with vague timelines; facilities/equipment requests clustered under Jack Elston; critical unassigned policy documents.
 
 ## Recent Activity
-
-**Recent Completions (Sept. 2026):**
-- Periodic Report filed (2026-09-28, due 2026-09-04)
-- Rent paid (2026-09-28, due 2026-09-28)
-- Multiple Toggl audit cycles closed in batch (2026-09-28)
-- SAM.gov registration renewed before 2026-09-05 expiration
-
-**Approaching/Overdue:**
-- Periodic Report (due 2027-09-04) is open — file electronically via Colorado SOS
-- Toggl check task due 2026-10-05 (check project tracking, email violators)
-- EAR ECCN status tracking due 2026-10-05 (classification accepted 1/29/2026; awaiting follow-up)
+- **Batch completion on Sept 28, 2026:** Meredith completed multiple overdue tasks (Periodic Report, Toggl checks for Aug–Sept, Pay Rent, SAM.gov renewal) all on the same date, suggesting a catch-up batch or data cleanup.
+- **Recurring pattern:** Weekly "Check Toggl for project tracking - email offenders" cycle (Thursdays/Sundays) with consistent completion lag.
+- **Current open tasks with dates:** Oct 5 (Toggl check, EAR ECCN), Sept 28 (Pay Rent), Nov 6 (part numbers, Kanban board).
 
 ## Notes & Context
-
-1. **Compliance & Regulatory Posture:**
-   - Company appears to be a federal contractor (SAM.gov, FAA drone registration, NDAA/CMMC, EAR commodity classification)
-   - NDAA compliance notes indicate supply chain security focus (tracing, documentation, process)
-   - CMMC Level I covers 17 safeguards for Federal Contracting Information (FCI); see linked [Google Doc](https://docs.google.com/document/d/1dlpB2W2JHmfwR36Ulte_CNFxTrDgjpF2-AluIdtGU7k/edit?usp=drive_link)
-   - European Compliance task exists but is unscheduled — may require international export/operations work
-
-2. **Toggl Time Tracking:**
-   - Weekly audits for non-compliance are systematic; completed items show batch closure pattern (often 1–2 weeks late)
-   - Suggests persistent time-tracking discipline issues across team
-
-3. **Unaddressed Compliance Items:**
-   - GAAP, NDAA, CMMC, European Compliance, Process Improvement all lack due dates — may need scheduling or prioritization
-   - Blue/Green UAS status unclear (likely drone-related given FAA registration activity)
-
-4. **Facilities & Operations:**
-   - Multiple infrastructure requests (partitions, office equipment, support systems) assigned to Jack Elston but deprioritized (no dates)
-   - Shop cleaning/repairs unassigned — may indicate deferred maintenance or undefined ownership
-
-5. **External References:**
-   - Colorado SOS periodic reporting: https://www.sos.state.co.us/pubs/business/FAQs/reports.html
-   - FAA Drone Zone: https://faadronezone-access.faa.gov/
+- **Compliance Focus:** Multiple federal/industry compliance tracks in flight (NDAA supply chain, CMMC Level I, EAR export control, European regulations, GAAP) — each assigned to different owner with minimal coordination visible.
+- **Asana data staleness:** The Periodic Report and Toggl tasks show as both completed (Sept 28) *and* open with Oct 5 due date; Asana likely not refreshed after batch completion. Verify with Meredith before treating Oct 5 Toggl task as active.
+- **Unassigned policy work:** 11 tasks related to HR/operational policies (handbook, onboarding, holidays, org chart, expense policy) remain unassigned with no due dates — these may be blocked on management decisions or external approvals.
+- **Facilities vs. Compliance split:** Operations bucket contains mix of urgent compliance (EAR, CMMC, NDAA) and discretionary equipment/process tasks (Toaster Oven, Desk Partitions) — may benefit from separate prioritization.

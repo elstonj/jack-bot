@@ -2,53 +2,45 @@
 
 ## By Product/System
 
-### S0 (Uncrewed Carrier)
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, NOAA OAR AOML | October 28 | Capability whitepaper for uncrewed S0 carrier platform demonstrator (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### S0 (Air-Deployed Variant - S0-AD)
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | CONOPS for Navy weather collection operations using S0-AD air-deployed variant with SwiftTab control tablet and SwiftCore integration (b5_conops_copy.md)
 
-### Soil Moisture Mapping Systems
-- **High-Resolution UAS Soil Moisture Mapping for NOAA Snow Survey and Water Prediction** | NOAA OMAO/OWP | October 7 | Technical proposal for high-resolution UAS-based soil moisture mapping integration with NOAA systems (wp-bst-008_uas_soil_moisture_mapping.md)
+### SwiftTab Control Tablet
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Control and mission planning interface for S0-AD weather operations (b5_conops_copy.md)
+
+### SwiftCore
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Mission planning and data systems support for Navy weather collection (b5_conops_copy.md)
 
 ---
 
 ## By Client/Agency
 
-### NOAA (National Oceanic and Atmospheric Administration)
-- **NOAA Office of Marine and Aviation Operations (OMAO) / Uncrewed Systems Operations Center (UxSOC)**
-  - Uncrewed S0 Carrier Demonstrator | October 28 (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
-  - High-Resolution UAS Soil Moisture Mapping for NOAA Snow Survey and Water Prediction | October 7 (wp-bst-008_uas_soil_moisture_mapping.md)
-
-- **NOAA National Weather Service / Office of Water Prediction (OWP)**
-  - High-Resolution UAS Soil Moisture Mapping for NOAA Snow Survey and Water Prediction | October 7 (wp-bst-008_uas_soil_moisture_mapping.md)
-
-- **NOAA OAR Atlantic Oceanographic and Meteorological Laboratory (AOML)**
-  - Uncrewed S0 Carrier Demonstrator | October 28 (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### United States Navy
+- **B5: S0 Weather Collection Concept of Operations** | 2026-11-03 | CONOPS for S0-AD air-deployed weather collection with SwiftTab and SwiftCore (b5_conops_copy.md)
 
 ---
 
 ## By Application Area
 
-### Water Resources & Snow Survey
-- **High-Resolution UAS Soil Moisture Mapping for NOAA Snow Survey and Water Prediction** | NOAA OMAO/OWP | October 7 | Soil moisture mapping for water prediction and snow survey operations (wp-bst-008_uas_soil_moisture_mapping.md)
+### Weather Collection & Meteorology
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Navy operational concept for atmospheric data collection using S0-AD systems (b5_conops_copy.md)
 
-### Uncrewed Systems & Ocean Operations
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, AOML | October 28 | Uncrewed carrier platform capability for oceanographic and operational missions (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### Naval Operations
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Maritime weather intelligence for Navy decision support (b5_conops_copy.md)
 
 ---
 
 ## By Document Type
 
-### Technical Proposals / White Papers
-- **High-Resolution UAS Soil Moisture Mapping for NOAA Snow Survey and Water Prediction** | NOAA | October 7 (wp-bst-008_uas_soil_moisture_mapping.md)
-- **Uncrewed S0 Carrier Demonstrator** | NOAA | October 28 (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
-
-### Capability Briefs
-- **Uncrewed S0 Carrier Demonstrator** | NOAA | October 28 | Capability whitepaper (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### Concept of Operations (CONOPS)
+- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Describes operational procedures, mission architecture, and integration for S0-AD weather collection (b5_conops_copy.md)
 
 ---
 
-## By Program/Solicitation
+## Document Summary
 
-- **NOAA IDIQ 1305M226D0012** (OMAO/UxSOC): Uncrewed S0 Carrier Demonstrator (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md); High-Resolution UAS Soil Moisture Mapping (wp-bst-008_uas_soil_moisture_mapping.md)
-- **NASA SBIR / Air Force SBIR Phase II** (FA8649-24-P-0003): High-Resolution UAS Soil Moisture Mapping (wp-bst-008_uas_soil_moisture_mapping.md)
-- **Phase III SBIR** (15 U.S.C. § 638(r)): Uncrewed S0 Carrier Demonstrator (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
-- **NAVAIR N251-016 / STTR N6833525C0270**: Uncrewed S0 Carrier Demonstrator (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+**Total Documents Cataloged:** 1
+
+| Document | Client | Type | Date | Primary Product |
+|----------|--------|------|------|-----------------|
+| B5: S0 Weather Collection CONOPS | U.S. Navy | CONOPS | 2026-11-03 | S0-AD, SwiftTab, SwiftCore |

@@ -1,48 +1,43 @@
 # BST Project Financial Overview
 
-## Summary Status
-**⚠️ CRITICAL ORGANIZATION ISSUE**
+## ⚠️ Data Organization Issue
 
-The provided budget data contains **1,181 budget documents** from Black Swift Technologies but presents a significant organizational challenge:
+**Current Status:** 1,181 budget documents identified but **not yet systematically assigned to specific project codes**. The initial data provided contains only partial information from one unassigned collection. A comprehensive financial overview requires:
 
-- **No consistent project codes detected** across the document collection
-- **Single project partially referenced:** NASA AREN (Aeropods Commercial) - Project [200]
-- **Data incomplete:** MiniCam unit cost breakdown table is truncated
-- **Portfolio scope:** Documents span NASA, NOAA, DoD, and other federal agencies
-- **Project status mix:** Active, Proposals, and Completed/Inactive initiatives
+1. Complete project code mapping across all 1,181 documents
+2. Systematic extraction of budget figures by project
+3. Reconciliation with QuickBooks system
 
 ---
 
-## Identifiable Project Information
+## Preliminary Findings
 
-### Project [200]: NASA AREN (Aeropods Commercial)
-| Field | Information |
-|-------|------------|
-| **Client** | NASA |
-| **Project Type** | Commercial product line (MiniCam) |
-| **Status** | Preliminary/Commercial costing phase |
-| **Latest Document** | BST MiniCam Preliminary Cost Analysis (February 2026) |
-| **Last Modified** | 2026-03-04 |
-| **Budget Data Available** | Partial (unit cost breakdown referenced but incomplete) |
-
----
-
-## Critical Gaps Requiring Resolution
-
-1. **Missing Project Codes** - Cannot properly categorize 1,180+ remaining documents
-2. **Incomplete Data** - MiniCam cost table and other budget details not fully provided
-3. **Funding Source Clarity** - Portfolio spans multiple agencies but project-level attribution unclear
-4. **Contract Type Unknown** - Cannot determine SBIR Phase I/II, IRAD, or commercial status for most projects
+### Known Project References
+- **NASA AREN (Aeropods Commercial)** - Project [200]
+  - **Product:** MiniCam
+  - **Status:** Preliminary cost analysis phase
+  - **Document Date:** February 2026
+  - **Budget Data:** Incomplete (unit cost breakdown referenced but not detailed in provided excerpt)
 
 ---
 
 ## Recommended Next Steps
 
-**To complete a comprehensive financial overview, provide:**
-- Complete document list with project code mappings
-- Full MiniCam cost breakdown data
-- Budget totals and contract values for active projects
-- QuickBooks project reconciliation data
-- Financial status indicators (spend, remaining funds, milestone dates)
+To create a complete financial overview, I need:
 
-**Current status: Preliminary scan only — awaiting complete project portfolio data.**
+1. **Project Master List** - All active BST project codes with:
+   - Client/agency assignments
+   - Contract types (SBIR Phase I/II, IRAD, commercial, etc.)
+   - Project managers/leads
+
+2. **Complete Budget Documents** - Full extracts including:
+   - Total contract values
+   - Current spend/invoiced amounts
+   - Remaining budgets
+   - Milestone payments
+
+3. **QuickBooks Data** - P&L reports, cost allocation by project, aging invoices
+
+4. **Document Inventory** - Confirmation of which 1,181 docs correspond to active vs. completed projects
+
+**Once organized data is provided, I can deliver the detailed financial breakdown you requested.**

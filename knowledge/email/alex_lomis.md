@@ -1,87 +1,95 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 53 emails (45 from previous scans + 8 new)
-- **Date range:** 27 Oct – 2 Nov 2026
-- **Volume:** Sustained high activity with significant task assignment spike on 2 Nov (early morning UTC); 6 Asana task assignments in 20-minute window (02:36–02:56 UTC); all 8 new messages marked UNREAD
+- **Total messages scanned:** 59 emails (53 from previous scans + 6 new)
+- **Date range:** 27 Oct – 3 Nov 2026
+- **Volume:** Continued high activity with sustained Asana task management; 6 new messages across 2 Nov–3 Nov; all 6 marked UNREAD
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **INCREASED ACTIVITY**; now primary task assignment authority across multiple projects (camera testing, SOCOM datalink development); 6 task assignments on 2 Nov; continues Hamamatsu vendor coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — technical collaboration; RAVEN Project coordination
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — core project team member; SOCOM Design Meeting
-- **Jack Elston** (elstonj@blackswifttech.com) — hardware iteration updates; technical vendor coordination
-- **Sam Hild** (sam.hild@blackswifttech.com) — SOCOM Design Meeting attendee
-- **Ethan Domagala** (via Asana) — avionics integration lead; S0 VTOL physical integration task authority
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **PRIMARY TASK AUTHORITY** across multiple workstreams; continued mentions/activity; confirmed as central orchestrator
+- **Jack Elston** (elstonj@blackswifttech.com) — **ELEVATED TO STAKEHOLDER ROLE**: CC'd on major cross-organizational briefing (NOAA/ERAU collaboration); hardware/systems integration lead
+- **Maciej Stachura** (stachura@blackswifttech.com) — technical collaboration; NOAA briefing participant
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — core project team; SOCOM Design and NOAA briefing
+- **Ben Busby** (ben.busby@blackswifttech.com) — new correspondent; NOAA briefing participant (likely S0 platform systems engineer)
 
-### External
-- **Hamamatsu Photonics (Jenna Ferrari)** — image intensifier procurement (no new activity in this batch)
-- **U.S. Navy (NAWCAD), U.K. MoD, Lockheed Martin, Bartington** — established RAVEN Project stakeholders
-- **Frank Strazzabosco** (microfirm@earthlink.net) — hardware iteration vendor (no new activity in this batch)
+### External (NEW MAJOR PATTERN)
+- **NOAA / National Weather Service** — **SIGNIFICANT NEW STAKEHOLDER**: 6 distinct NOAA Federal personnel and contractors:
+  - Joe Cione (NOAA)
+  - Nikolai Pawlenko (NOAA Federal)
+  - Mark Rogers (NOAA Federal)
+  - Laura Rock (NOAA)
+  - Danielle Varwig (NOAA)
+  - Annette Hollingshead (NOAA Federal)
+  - Nicholas Underwood (NOAA Federal)
+  - Jun Zhang (NOAA)
+- **Embry-Riddle Aeronautical University (ERAU)** — Joshua Wadler (academic partner; appears to be flight test or UAS operations specialist)
+- **Commonlands** (mhenkart@commonlands.com) — **NEW EXTERNAL CONTACT**: optical/imaging technical consultation; image geometry and distortion analysis
+- **Protolabs** (news@protolabs.com) — automated vendor newsletter (manufacturing/rapid prototyping service)
 
 ### Automated/Workflow
-- **Asana (Dan Prendergast relay)** — task management; **MAJOR SPIKE:** 7 of 8 new messages are Asana task assignments/mentions from Dan Prendergast (02:16–02:57 UTC on 2 Nov)
+- **Asana** — continued task/mention notifications; 3 of 6 new messages are Asana system alerts
 
 ## Topic Patterns
 
-### NEW / ACTIVE PROJECTS
-- **Camera Testing & Evaluation (Common Camera subsystem)** — **NEW MAJOR FOCUS**: 4 task assignments on 2 Nov:
-  - "Bench test of camera start/stop with laptop"
-  - "Write day and night camera test plans"
-  - "Daytime camera tests: Various FoV and Resolution Assessments"
-  - "Nighttime camera tests: STARVIS Sensor and Various Lens Filte…"
-  - Suggests multi-variant platform development (day/night sensor evaluation, form-factor testing)
-  - STARVIS sensor identified (low-light capable imaging)
+### NEW / ACTIVE TOPICS
 
-### Ongoing Projects
-- **SOCOM Design Meeting / [600-1] SOCOM Pope** — **CONTINUED ACTIVITY**: 2 task activity notifications on 2 Nov:
-  - "Comm Protocol Design & Implementation"
-  - "Datalink and comm protocol development"
-  - Prendergast adding activity/comments to existing tasks
-- **S0 VTOL IRAD** — (no new activity in this batch)
-- **RAVEN Project** — (no new activity in this batch)
-- **Image Intensifier Procurement** — (no new activity in this batch)
+#### S0 UAS UI Development (S0 VTOL)
+- **"New UI for S0 UAS"** — Large cross-organizational briefing (Jack Elston to NOAA + internal team)
+- Stakeholder scope: NOAA operations, ERAU flight testing, internal BST systems engineering (Prendergast, Fromm, Busby)
+- Suggests S0 VTOL platform is transitioning to operational phase with external (NOAA) user community engagement
+
+#### Optical Image Processing (Common Camera Subsystem)
+- **"Accounting for distortion and image geometry"** — External consultation from Commonlands (optical engineering firm)
+- Directly related to ongoing camera test plans (distortion correction, calibration, lens evaluation)
+- Suggests camera integration includes image processing pipeline development
+
+### Ongoing Topics
+- **SOCOM Datalink & Design** — (continued from prior batch; no new explicit activity in this batch)
+- **Camera Testing** — (continues; now with external optical engineering support)
 
 ### Subject Themes
-- **Camera sensor qualification** — day/night variants, field-of-view assessment, resolution testing
-- **Optical sensor integration** — STARVIS low-light imaging, lens filter evaluation
-- **Datalink protocol development** — SOCOM platform comm architecture
-- **Hardware functional testing** — laptop-based bench testing procedures
+- **User interface design and operational readiness** — S0 UAS UI for external stakeholders (NOAA weather ops)
+- **Optical calibration and image quality** — distortion correction, lens/geometry assessment (Commonlands consultation)
+- **Manufacturing/prototyping** — Protolabs newsletter (ongoing vendor relationship for rapid hardware iteration)
 
 ## Communication Patterns
 
-- **Ultra-high-velocity task assignment:** 6 tasks assigned in 20-minute window (02:36–02:56 UTC); followed by mention/comment activity at 02:48 and 02:57; suggests coordinated sprint kickoff or mid-project reprioritization
-- **Early morning assignment timing:** 2 Nov 02:16–02:57 UTC (Sunday early morning); consistent with previous weekend activity pattern; indicates time-critical project pressure or cross-timezone coordination (Prendergast likely working Sunday morning)
-- **All new messages marked UNREAD:** Suggests either (a) messages just arrived and Alex has not yet processed, or (b) workflow requires explicit acknowledgment
-- **No direct email correspondence:** All 8 new messages are Asana notifications (workflow/task system); no human-to-human email in this batch; indicates team operates primarily through task management system rather than email for project coordination
-- **Mention pattern:** "Dan mentioned you on a task assigned to you" (02:56:56) suggests Prendergast is adding context or blocking signals to existing task assignments
+- **Cross-organizational collaboration expansion:** NOAA briefing (8 external + 5 internal attendees) indicates S0 UAS moving from internal R&D to customer evaluation/operational readiness phase
+- **Academic partnership:** ERAU involvement (Wadler) suggests flight testing or operational concept development (typical for UAS programs transitioning from lab to field)
+- **External technical consultation:** Commonlands engagement for image distortion/geometry indicates camera subsystem includes post-processing or computer vision integration (not just raw sensor qualification)
+- **Asana task management continues:** 3 notifications in 48-hour window; Alex remains task-heavy workload
+- **Vendor newsletters:** Protolabs activity suggests ongoing rapid prototyping cycle (consistent with hardware iteration pattern noted previously)
+- **No direct human email in task-related domain:** All Asana interactions are system-generated; human coordination appears to happen in briefings or meetings rather than email threads
 
 ## Key Relationships
 
 ### Closest Collaborators (updated)
-1. **Daniel Prendergast** — **ELEVATED AUTHORITY**: Now acting as primary task assignment authority across multiple platforms (camera, SOCOM, prior Hamamatsu); suggests he may be program manager or technical lead overseeing multiple workstreams
-2. **Ethan Domagala** — Senior technical authority on S0 VTOL avionics (from prior batch)
-3. **Maciej Stachura** — Technical collaboration (RAVEN)
-4. **Joshua Fromm** — Core design team (SOCOM)
-5. **Jack Elston** — Hardware/avionics technical coordination
+1. **Daniel Prendergast** — Primary task orchestrator; NOAA briefing attendee; authority across camera, SOCOM, and platform integration
+2. **Jack Elston** — **ELEVATED**: Now leading cross-organizational S0 UAS briefings with external NOAA stakeholders; systems integration authority
+3. **Joshua Fromm** — Design and operational readiness coordination
+4. **Maciej Stachura** — Technical collaboration (RAVEN, now also NOAA engagement)
+5. **Ben Busby** — Systems engineering (new explicit visibility)
 
-### External Relationships (unchanged, no new activity)
-- Hamamatsu Photonics, U.K. MoD, U.S. Navy NAWCAD, Lockheed Martin (RAVEN stakeholders)
-- Frank Strazzabosco (hardware iteration vendor)
+### Key External Relationships (NEW)
+1. **NOAA / National Weather Service** — Primary operational customer/end-user for S0 UAS
+   - Diverse stakeholder base: operations, meteorology, flight ops, systems integration
+   - Suggests weather/atmospheric sensing mission for S0 platform
+2. **ERAU (Joshua Wadler)** — Flight test or operational training partner
+3. **Commonlands (optical engineering)** — Technical consultant for camera subsystem image processing
 
 ## Notable Observations
 
-- **Camera subsystem work appears to be NEW PRIORITY:** 4 task assignments (50% of new message volume) focusing on multi-variant sensor qualification (day/night, STARVIS low-light sensor, lens evaluation); suggests either (a) new platform baseline established requiring sensor re-qualification, or (b) modular camera architecture supporting multiple platform variants
-- **STARVIS sensor explicitly called out:** Low-light imaging capability; may indicate RAVEN, S0 VTOL, or SOCOM platform requires nighttime operational capability
-- **Prendergast is now primary task orchestrator:** All 8 new messages are Prendergast-issued assignments or mentions; elevated from "vendor contact relay" to direct task authority suggests role shift or organizational restructuring
-- **Sunday morning sprint kickoff:** 2 Nov (Sunday) 02:16–02:57 UTC assignment window suggests time-critical project milestone or compressed development cycle; Alex is receiving 4 distinct testing workstreams simultaneously
-- **All-variants common camera subsystem:** Project tag "[All-variants Common Camera …]" indicates modular/scalable camera architecture supporting multiple platforms (S0 VTOL, SOCOM, RAVEN variants implied)
-- **Bench testing emphasis:** "Bench test of camera start/stop with laptop" suggests integration with ground control/laptop-based mission planning (firmware or driver qualification)
-- **Camera testing precedes integration:** Day/night test plans written before daytime/nighttime field assessments; suggests lab validation phase preceding platform integration
-- **Task backlog remains high:** "You have unread notifications" generic message (02:46:34) suggests additional Asana activity beyond the 7 captured assignments; Alex may be significantly backlogged
-- **No mention of Hamamatsu or vendor procurement in this batch:** Focus has shifted from optical component sourcing (image intensifier) to camera subsystem testing/qualification; suggests intensifier procurement may be resolved or in acceptance phase
+- **S0 UAS is transitioning to customer engagement phase:** NOAA briefing with dedicated UI indicates platform has moved from internal R&D to external evaluation/operational readiness; suggests prototype maturity or pilot program launch imminent
+- **Atmospheric/weather sensing mission profile:** NOAA stakeholders + ERAU flight test team + "weather" context (Protolabs timing suggests fall 2026 field campaign prep)
+- **Image processing pipeline integration:** Commonlands consultation on distortion/geometry is downstream of camera testing tasks; suggests integration roadmap: raw sensor qualification → image processing development → operational deployment
+- **Multi-customer platform strategy:** S0 UAS appears to have NOAA as primary customer; earlier metadata showed RAVEN (Navy/Lockheed) and SOCOM (DoD comms) as separate programs; Alex appears to be working across multiple platform variants and customer bases simultaneously
+- **Rapid prototyping cadence confirmed:** Protolabs newsletter + hardware iteration vendors (Frank Strazzabosco, Commonlands) + camera testing workload suggests aggressive development schedule (consistent with 2 Nov Sunday morning task spike)
+- **Organizational structure clarification:** Elston elevated to external briefing lead; Prendergast remains central task authority; suggests possible role: Elston = systems/integration lead, Prendergast = program/technical manager, Alex = implementation engineer across multiple workstreams
+- **Academic-industry partnership model:** ERAU involvement typical for UAS operational concept development and pilot program support
+- **All 6 new messages remain UNREAD:** Consistent pattern; suggests either high message volume or explicit processing workflow where Alex batches review
 
 ---
 
-**Updated 2 Nov 2026**
+**Updated 3 Nov 2026**

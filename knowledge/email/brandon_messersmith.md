@@ -1,70 +1,68 @@
 # Brandon Messersmith — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 37 (31 previous + 6 new)
-- **Date range:** 27 Oct 2026 – 30 Oct 2026 (4 days)
-- **Approximate volume:** Heavy activity during onboarding period (~9 emails/day average); mix of automated setup/notifications, task management alerts, and active work correspondence
+- **Total messages scanned:** 46 (37 previous + 9 new)
+- **Date range:** 27 Oct 2026 – 2 Nov 2026 (7 days)
+- **Approximate volume:** Heavy activity during onboarding period (~6.5 emails/day average); mix of automated alerts, task assignments, and active technical collaboration
 
 ## Key Correspondents
 
 ### Internal (Human)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — 4 direct exchanges now (S0 deployment tube storage rack build sheet review; marked IMPORTANT on his 2 Nov 15:40 reply; rapid back-and-forth on Mon 2 Nov morning with 2 sequential replies from Brandon within 2 hours)
 - **Jack Elston** (elstonj@blackswifttech.com) — 3 direct exchanges (drive audit review discussion, corrections, decision requests); marked IMPORTANT
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 2 new emails (shared calendar invitation marked IMPORTANT; tech walkthrough event organizer)
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — 2 direct sends (S0 deployment tube storage rack build sheet review request; also participant in tech walkthrough)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 new Asana notifications now (shared portfolio; project invitation to [001-13] Purchasing; previously shared calendar invitation marked IMPORTANT; tech walkthrough event organizer)
 - **Josh Fromm** (josh.fromm@blackswifttech.com) — 2 previous direct sends; shared Onshape publication
-- **Bob Edson** (bob.edson@blackswifttech.com) — 2 previous forwards of S0 consolidated report and workflow recommendations; also invited to tech walkthrough
-- **Group participants in tech walkthrough:** Joshua Waldman (joshua.waldman@bst.aero), Lynn Regnier, Ali Sulehria, Robert Edson — 6-person team meeting scheduled
+- **Bob Edson** — Now 3 contact variants: bob.edson@blackswifttech.com (2 previous forwards; tech walkthrough participant) + **capn.bob65@yahoo.com** (NEW: personal email; sent employee manual marked IMPORTANT on Mon 2 Nov 13:17)
+- **Group participants in tech walkthrough:** Joshua Waldman (joshua.waldman@bst.aero), Lynn Regnier, Ali Sulehria, Robert Edson — 6-person team meeting (occurred Mon 2 Nov 10:30–11:30am MST as scheduled)
 
 ### Automated/Platform
-- **Asana** — 3 emails now (2 previous + 1 new; "3 overdue tasks" alert marked IMPORTANT)
-- **Rippling** — 7 onboarding/payroll emails now (5 previous + 2 new; benefits selection and pending tasks)
+- **Asana** — 5 emails now (2 previous + 3 new; task assignments, portfolio shares, project invitations, unread notifications, and learning prompts); marked IMPORTANT on 2 Nov 14:00 learning prompt
+- **Rippling** — 7 onboarding/payroll emails (no new batch; previous benefits selection and pending tasks)
 - **Slack** — Multiple onboarding notifications (previous batch)
 - **Onshape** — 3 emails (account activation, Discovery Program, publication share)
 - **Anthropic** — Team invitation to Claude
-- **Toggl** — 1 email (time tracking tool); referenced in tech walkthrough agenda
 
 ## Topic Patterns
 
-### Active Work
-- **S0 deployment tube storage rack** — NEW: Build sheet for review sent to Cory Dixon (Fri 30 Oct 16:09); indicates active CAD/design/engineering work
-- **Drive audit review** — Iterative discussion with Jack Elston; corrections and cleanup plan coordination (marked IMPORTANT by recipient)
+### Active Work (Technical/Operational)
+- **S0 deployment tube storage rack** — ESCALATED: Build sheet review now shows rapid iteration cycle Mon 2 Nov (Brandon sent 2 replies to Cory within 2 hours; Cory's review marked IMPORTANT); indicates active design refinement/correction cycle
+- **[001-13] Purchasing project** — NEW: Meredith Needham invited Brandon to new Asana project (Mon 2 Nov 18:00); suggests expanding operational/procurement responsibilities
+- **[001-13] Facilities Management** — NEW: Cory Dixon assigned "WiFi Improvement" task to Brandon (Mon 2 Nov 17:02, marked IMPORTANT); indicates facilities infrastructure work added to workload
+- **Drive audit review** — Iterative discussion with Jack Elston; corrections and cleanup plan coordination (marked IMPORTANT)
 - **S0 consolidated report** — Technical/reporting work; forwarded to Bob Edson with workflow recommendations (marked "unverified drafts")
-- **Workflow recommendations** — Collaborative documentation work; flagged as unverified/draft status
-- **ChatGPT workflow proposal** — Internal project related to Black Swift operations
 
-### Onboarding & Administrative
-- **Tech walkthrough scheduled** — Mon Nov 2, 2026 10:30–11:30am MST; formal new hire orientation covering Toggl, Asana, Slack
-- **Benefits selection** — Rippling action required (waive or select Black Swift Technologies benefits)
-- **Asana task backlog** — 3 overdue tasks flagged (marked IMPORTANT); suggests task deadline management issues
+### Administrative/Onboarding
+- **Employee manual** — NEW: Bob Edson sent employee manual from personal email (capn.bob65@yahoo.com) marked IMPORTANT on Mon 2 Nov 13:17; suggests post-tech-walkthrough documentation review
+- **Tech walkthrough completed** — Occurred Mon 2 Nov 10:30–11:30am MST (scheduled event now passed); Asana portfolio and project invitations followed same day
+- **Asana project/portfolio access** — NEW: Post-walkthrough asset grants (portfolio share and [001-13] Purchasing project invitation Mon 2 Nov 18:00–18:06); suggests onboarding moving into active project assignment phase
 
 ## Communication Patterns
 
-- **Primary channels:** Slack and task management (Asana) notifications dominate; direct email for work coordination and technical reviews
-- **Timing:** Active across multiple time zones (UTC, EDT, MST); work spans 11:14 UTC to 16:36 UTC on 30 Oct (5+ hour window)
-- **Onboarding signal:** Rippling showing "pending tasks" and "benefits selection" required; Asana with 3 overdue tasks; formal tech walkthrough scheduled for Mon 2 Nov suggests onboarding still in active/structured phase
-- **Escalation pattern:** Asana overdue task alert marked IMPORTANT by system; Meredith Needham's calendar invitation also marked IMPORTANT — suggests some time-sensitive items pending
-- **Correction cycle:** Continued pattern of rapid corrections and peer review; latest S0 deployment work sent for Cory Dixon review
-- **Draft/unverified content:** "S0 consolidated report and workflow recommendations" explicitly marked "unverified drafts" — peer review process ongoing
+- **Primary channels:** Asana task management now dominant (5 emails in new batch); direct email for technical reviews and administrative items; personal email contact (Bob Edson's Yahoo address) emerging
+- **Timing:** Continued multi-timezone activity; Mon 2 Nov shows concentrated activity window 09:58–19:14 UTC (8+ hour span) with 7 of 9 new messages on that single day
+- **Reply velocity:** High-frequency exchanges with Cory Dixon on S0 build sheet (2 Brandon replies within 2-hour window 08:54–09:58 Mon morning); indicates urgent/fast-paced collaboration
+- **Task assignment pattern:** Cory Dixon both reviewing Brandon's work (build sheet) AND assigning new tasks (WiFi Improvement) on same day; suggests collaborative/peer-level relationship or Brandon receiving expanded responsibility
+- **Onboarding transition:** Employee manual receipt and new project assignments suggest movement from structured orientation (tech walkthrough) to active work assignment phase
 
 ## Key Relationships
 
 **Closest Collaborators (by frequency/recency):**
-1. **Jack Elston** — Primary internal decision-maker/reviewer; receiving audits, corrections, and requiring approvals; marked IMPORTANT on his replies
-2. **Cory Dixon** — NEW: Direct technical collaboration; sending build sheets for review; also participating in scheduled tech walkthrough
-3. **Meredith Needham** — NEW: Appears to be coordination/ops contact; sending calendar/event invitations; organizing team walkthrough
-4. **Josh Fromm** — Technical/reporting collaboration (S0 reports, Onshape shares)
-5. **Bob Edson** — Receiving forwarded technical reports and workflow documentation; invited to tech walkthrough
+1. **Cory Dixon** — ELEVATED: Direct technical collaboration intensifying; rapid build sheet review cycle; also assigning new facilities tasks; marked IMPORTANT on his 2 Nov reply; appears to be primary technical lead/supervisor
+2. **Meredith Needham** — NEW: Post-walkthrough ops/project coordination; portfolio and project access grants; organizing project participation ([001-13] Purchasing); appears to be project manager or ops lead
+3. **Jack Elston** — Primary decision-maker/reviewer; receiving audits, corrections, and requiring approvals
+4. **Bob Edson** — NEW personal contact channel (capn.bob65@yahoo.com); sent employee manual directly; suggests mentorship or informal guidance role alongside formal tech walkthrough participation
+5. **Josh Fromm** — Technical/reporting collaboration (S0 reports, Onshape shares)
 
-**Workflow Tools:**
-- **Asana** — Actively assigned tasks with overdue items; Brandon is on team workspace with pending work items (now 3 overdue)
-- **Rippling** — Onboarding in progress with pending action items (benefits selection still required)
+**Project Assignments:**
+- **[001-13] Purchasing** — Invited by Meredith Needham (portfolio share + project invitation Mon 2 Nov)
+- **[001-13] Facilities Management** — WiFi Improvement task assigned by Cory Dixon (marked IMPORTANT)
 
 ## Notable Observations
 
-1. **Overdue task escalation:** Asana alert for 3 overdue tasks (marked IMPORTANT by system on Fri 30 Oct) suggests Brandon may be behind on task deadlines or task prioritization needs attention during onboarding phase
-2. **Active engineering/CAD work:** S0 deployment tube storage rack build sheet indicates hands-on technical deliverables (not just documentation/reporting); appears to be design/manufacturing-related
-3. **Structured onboarding:** Formal tech walkthrough scheduled for Mon 2 Nov with 6-person team (Meredith, Joshua Waldman, Lynn Regnier, Cory Dixon, Ali Sulehria, Bob Edson) suggests coordinated new hire program
-4. **Multi-timezone coordination:** Walkthrough scheduled for MST (Mountain Standard Time) despite UTC/EDT activity patterns; suggests either BST has multiple office locations or Brandon may be working across time zones
-5. **Benefits action required:** Rippling flagging benefits selection as unread/action-required suggests Brandon has not yet completed onboarding paperwork
-6. **Email address consistency improving:** No new variants of Bob Edson's address in latest batch (consistent use of bob.edson@); previous delivery issue may have been resolved
-7. **No external client visibility:** All human-to-human correspondence remains internal; no external client/vendor emails visible across all batches
+1. **Rapid onboarding-to-assignment transition:** Tech walkthrough occurred Mon 2 Nov 10:30–11:30am; by 14:00–18:06 same day, Brandon was receiving task assignments (WiFi Improvement) and project invitations ([001-13] Purchasing) — suggests accelerated ramp or clear work pipeline prepared
+2. **High-frequency technical collaboration with Cory:** S0 build sheet now shows 4-exchange pattern with rapid reply cycle (2 Brandon replies within 2 hours Mon morning); marked IMPORTANT by Cory on review; indicates either critical technical work or potential issue requiring fast iteration
+3. **Multi-project visibility:** Brandon now assigned to at least 2 Asana projects ([001-13] Purchasing and [001-13] Facilities Management); suggests broad operational role spanning procurement and facilities
+4. **Employee manual via personal email:** Bob Edson using personal Yahoo address to send employee manual (marked IMPORTANT) — unusual channel choice; may indicate informal/mentorship communication style or possible offboarding preparation (though context suggests onboarding)
+5. **Facilities infrastructure work:** WiFi Improvement task (marked IMPORTANT) suggests Brandon has technical/engineering capability relevant to facilities systems — not purely administrative role
+6. **No external client visibility maintained:** All correspondence remains internal; no vendor/client email visibility across full dataset
+7. **Asana learning prompt marked IMPORTANT:** Platform sent "What do you need to work on?" prompt on Mon 2 Nov 14:00 marked IMPORTANT by system; unusual flag for promotional/educational content; may indicate Brandon hasn't fully activated task workflow clarity

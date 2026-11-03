@@ -1,48 +1,59 @@
 # Josh Waldman — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 12 emails
-- **Date range:** 29 Oct 2026 – 30 Oct 2026
-- **Volume:** Sparse activity; appears to be a new hire (see below)
+- **Total messages scanned:** 20 emails
+- **Date range:** 29 Oct 2026 – 2 Nov 2026
+- **Volume:** Moderate activity; active onboarding phase with project ramp-up
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — dominant sender; 6 emails in 24 hours
-  - Onboarding/administrative focus (calendar invitations, tech walkthrough)
-- **Ethan Domagala** (via Asana) — project assignment
-- **Collaborators on tech walkthrough:** Brandon Messersmith, Lynn Regnier, Cory Dixon, Ali Sulehria, Robert Edson
+- **Meredith O'hara Needham** (meredith.needham@blackswifttech.com / via Asana) — onboarding/project coordination lead
+  - Portfolio sharing, project invitations, task assignments
+- **Cory Dixon** (cory@krateosky.com / via Asana) — primary task assigner; cross-org collaboration
+  - Task assignments and Arena implementation meetings
+
+### Cross-Organization (Krateosky/PTC)
+- **Mark Andres** (mandres@ptc.com) — PTC; Arena implementation coordination
+  - Multiple emails about "KS Arena Implementation Orientation call"
+  - Large distribution list including external partners
+- **Don Spinozzi** (d.spinozzi@krateosky.com) — Krateosky executive
+- **Dipan Amin** (dipan@krateosky.com) — Krateosky
+- **Nick Winsick** (nick.winsick@inspiredflight.com) — Inspired Flight (external partner)
+- **Krateosky AI Assistant** (sa-xca.ai@krateosky.com) — automated coordination
 
 ### External
-- **Dalene Stewart** (dstewart@generalair.com) — General Air customer service contact; cylinder rental account coordination
-- **General Air** (customerservice@generalair.com) — vendor/supplier
+- **Dalene Stewart** (dstewart@generalair.com) — General Air (vendor)
 
 ### Automated
-- **Rippling** (no-reply@rippling.com) — HR/payroll system; 3 action-required messages
-- **Arena** (do-not-reply@arena.ptcgov.us) — account notifications
-- **Google Drive** (drive-shares-dm-noreply@google.com) — file sharing
-- **Asana** (no-reply@asana.com) — project management
+- **Asana** (no-reply@asana.com) — project management; 5+ task/project notifications
+- **Arena** (do-not-reply@arena.ptcgov.us) — account management system; password reset required
 
 ## Topic Patterns
-- **Project:** S0 VTOL IRAD (codename visible); task: "Build guides/work instructions [[001-04]"
-- **Equipment/Logistics:** Cylinder rental account management (Acct. 10099275)
-- **Administrative:** Onboarding, benefits selection, calendar setup
-- **File sharing:** "S3" folder (Jack Elston)
+- **Project:** S0 VTOL IRAD (documentation/guides focus) — ongoing from previous period
+- **New Project:** [001-13] Purchasing — project invitation received
+- **Operations:** [001-13] General Operations — task: "Define part number scheme based on Arena concept"
+- **System Implementation:** KS (Krateosky) Arena Implementation Orientation — multi-stakeholder initiative
+- **Equipment/Logistics:** Cylinder rental account coordination with General Air (ongoing)
 
 ## Communication Patterns
-- **Timing:** Heavy activity on 30 Oct 2026 afternoon/evening (UTC and MST times mixed; suggests distributed team or time zone coordination)
-- **Mailing lists:** Tech walkthrough group email (6 BST employees)
-- **Automated messages:** Rippling HR system (3 pending action items); Asana project notifications
-- **Email flags:** Multiple IMPORTANT, UNREAD messages suggest urgent onboarding/administrative tasks
+- **Timing:** Activity concentrated Mon 2 Nov 2026 (16:08–20:58 UTC); suggests first day in office post-onboarding
+- **Group emails:** Large distribution list meetings (PTC/Krateosky collaboration) — 12+ recipients across organizations
+- **Asana:** Heavy project management system usage (5 notifications in single afternoon)
+- **Email flags:** IMPORTANT and UNREAD tags suggest urgent task assignments and system access issues
+- **Cross-org coordination:** Emails indicate BST is embedded in Krateosky/PTC ecosystem with shared systems (Arena, Asana portfolios)
 
 ## Key Relationships
-- **Primary contact:** Meredith Needham (HR/Facilities/Onboarding lead)
-- **Project lead:** Ethan Domagala (Asana task assignment)
-- **Vendor relationship:** General Air (Dalene Stewart) — active account with ongoing coordination
+- **Primary internal contact:** Meredith O'hara Needham (onboarding, project portfolio management)
+- **Primary task lead:** Cory Dixon (Krateosky-based; direct task assignment authority)
+- **Strategic collaborators:** Mark Andres (PTC), Don Spinozzi (Krateosky executive); indicates cross-functional program governance
+- **External partner:** Nick Winsick (Inspired Flight) — appears in Arena implementation distribution
+- **Vendor:** General Air (Dalene Stewart) — ongoing supply chain relationship
 
 ## Notable Observations
-- **New hire indicator:** Onboarding emails, benefits selection required, tech walkthrough scheduled for Mon 2 Nov 2026
-- **Cross-functional setup:** Receiving calendar invitations for "Facilities Management" and "Meetings"
-- **Vendor engagement:** Active cylinder rental account coordination suggests supply chain/operational role
-- **Project assignment:** VTOL IRAD project (S0 phase) — documentation/guides focus
-- **Multiple pending actions:** 3 unresolved Rippling tasks indicate incomplete onboarding workflows
+- **First day activity spike:** Mon 2 Nov 2026 matches scheduled tech walkthrough date from previous emails
+- **Arena system issues:** Password reset required (2 Nov 20:55 UTC) — suggests account provisioning delays
+- **Cross-org structure:** Josh appears embedded in Krateosky organization (cory@krateosky.com in direct email; large Krateosky distribution lists)
+- **Dual project assignment:** Working on both S0 VTOL IRAD (documentation) and [001-13] Purchasing/General Operations (part numbering scheme)
+- **System implementation role:** Active participant in PTC Arena implementation orientation — suggests operational/systems planning focus beyond hardware engineering
+- **Multiple action items:** 3+ unread/important messages indicate immediate onboarding tasks + active project work

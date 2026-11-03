@@ -6,7 +6,7 @@ This channel tracks the development and flight testing of the **By Light Mustang
 
 **Key Participants:**
 - Maciej (project lead, flight operations, task oversight, weight/design decisions, performance analysis)
-- Ethan Domagala (design, CAD optimization, measurements, avionics integration, ByLight liaison, flight testing)
+- Ethan Domagala (design, CAD optimization, measurements, avionics integration, ByLight liaison, flight testing, final customer communications)
 - Dan Prendergast (flight test coordination, logistics, battery pickup coordination)
 - Jack Elston (backup pilot, vehicle support, approvals)
 - Nate (aircraft assembly, launch support)
@@ -16,11 +16,11 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Alex Lomis (components/inventory, battery design, manufacturing analysis)
 - Joshua Fromm (design input/materials)
 - Mel (ByLight decision-maker, customer contact)
-- Meredith Needham (invoicing/accounting, logistics coordination)
+- Meredith Needham (invoicing/accounting, logistics coordination, FedEx pickup coordination)
 - Craig (ByLight manufacturing contact, fuselage 3D-printing)
 - Kate (team member with vehicle access)
 
-**Activity Level:** High, spanning October 2025 through October 2026. Most recent activity (October 30, 2026) shows project in final closeout phase with final package shipments being coordinated.
+**Activity Level:** High, spanning October 2025 through November 2026. Most recent activity (November 2, 2026) confirms final shipment pickup completion, marking project delivery closure.
 
 ## Key Decisions
 
@@ -109,50 +109,54 @@ This channel tracks the development and flight testing of the **By Light Mustang
 - Project transitioned to final assembly and closeout phase
 - Multiple battery shipments coordinated and tracked through October
 
+**November 2, 2026 – Final Shipment Pickup Completed**
+- FedEx pickup of final package shipment confirmed completed (November 2, 2026 at 13:45)
+- Ethan requested tracking number from Meredith to forward to Mel (ByLight customer contact)
+
 ## Projects & Initiatives
 
-**By Light Mustang / M2 Program (Primary Ongoing Project)**
-- **Status:** Final closeout phase (as of October 30, 2026)
-- **Key Deliverables:** Flight-ready Chilli airframe with integrated avionics, battery packs, and ground control systems
-- **Current Phase:** Final package shipments for delivery; closure logistics being completed
+**By Light Mustang / M2 Program (COMPLETED)**
+- **Status:** Project delivery completed; final shipment picked up November 2, 2026
+- **Final Milestone:** All deliverables shipped and tracking information provided to customer
+- **Duration:** October 2025 – November 2026 (13 months)
 
 ## Action Items & Commitments
 
-**October 30, 2026 - COMPLETED**
-- **Commitment:** Final package pickup by FedEx on Monday (Nov 3, 2026 expected)
-- **Owner:** Meredith Needham (coordinating), Dan Prendergast or logistics lead (handling FedEx coordination)
-- **Status:** Confirmed - three packages ready for pickup
+**November 2, 2026 - IN PROGRESS**
+- **Action:** Meredith Needham to provide FedEx tracking number to Ethan Domagala
+- **Responsibility:** Meredith Needham (tracking coordinator)
+- **Downstream:** Ethan to forward tracking to Mel at ByLight for final delivery receipt
+- **Status:** Shipment pickup confirmed; tracking details pending communication
 
-**Ongoing/Historical Items (Status Unclear)**
-- Fuselage design refinements and manufacturing oversight (Ethan, Craig)
-- Battery configuration testing and validation (Alex Lomis, team)
-- Wing design optimization and supply chain management (Spencer, SoaringUSA coordination)
+**COMPLETED (October 30 → November 2, 2026)**
+- Final FedEx pickup of three packages completed November 2, 2026 at 13:45
+- Final shipment confirmed ready for delivery by November 2
 
 ## Client & External References
 
 **Primary Customer:**
-- **U.S. Air Force** – Contracting agency; test site at Yuma; initial March 2026 testing window with additional phases approved
+- **U.S. Air Force** – Contracting agency; test site at Yuma
 
 **Primary Contractor (ByLight Technologies):**
-- **Mel** – Decision-maker and primary contact
+- **Mel** – Decision-maker and primary contact; expecting tracking number November 2, 2026
 - **Bryan Sparling** – Pilot and payment coordination
 - **Craig** – Manufacturing contact (3D-printed fuselage, carbon fiber)
-- Contract values: Phase 1 ($34K), Phase 2 ($31K), Deliverable 1 ($47,894)
 
 **Key Vendors & Suppliers:**
-- **SoaringUSA** – Czech A37 Chilli commercial wings; supply constraints noted April 2026
+- **SoaringUSA** – Czech A37 Chilli commercial wings
 - **Wildman Rockets** – 4.5" fiberglass rocketry tubing for fuselage
 - **KDE Direct** – KDE 4215-465Kv motors
 - **TBS** – Lucid ESCs with KISS telemetry
-- **SCS & Jawstec** – Battery component suppliers (ordered April 17, 2026)
+- **SCS & Jawstec** – Battery component suppliers
 - **RFM** – Folding propellers
+- **FedEx** – Final delivery logistics provider
 
 ## Recurring Topics & Themes
 
 1. **Supply Chain & Manufacturing Constraints:**
-   - Recurring wing availability issues with SoaringUSA
+   - Recurring wing availability issues with SoaringUSA (resolved by project end)
    - Component stock-outs driving design pivots (carbon fiber tubing, motors)
-   - ByLight manufacturing capacity and lead times affecting schedule
+   - ByLight manufacturing capacity and lead times affecting schedule (resolved with September delivery)
 
 2. **Design-Build Trade-offs:**
    - Weight optimization vs. structural integrity (fuselage infill decision)
@@ -161,35 +165,36 @@ This channel tracks the development and flight testing of the **By Light Mustang
 
 3. **Invoice & Payment Tracking:**
    - Regular invoice submissions and payment confirmations tied to design releases
-   - Weekly email updates to ByLight implemented for better tracking
-   - Multiple invoices tracked: #1753 ($15K Apr 8), Deliverable 1 ($47,894 May 13)
+   - Weekly email updates to ByLight implemented for better tracking (April 2026 onward)
+   - Multiple invoices tracked and managed throughout project
 
 4. **Manufacturing Quality & Oversight:**
    - Ongoing communications with ByLight manufacturing team (Craig)
-   - Infill specifications and material clarifications required
-   - September 2026 manufacturing issues emerged (details limited)
+   - Infill specifications and material clarifications required (flagged June 5, 2026)
+   - September 2026 manufacturing issues emerged and resolved
 
 5. **Final Delivery & Logistics:**
    - October 2026: Coordinated battery shipments and package staging
-   - October 30, 2026: Final package coordination via FedEx
+   - November 2, 2026: Final FedEx pickup completed and tracking provided to customer
 
 ## Important Resources
 
-- CAD design files (released to ByLight May 7, 2026 after payment confirmation)
-- Invoice tracking: #1753, Deliverable 1 ($47,894)
+- CAD design files (released to ByLight May 7, 2026)
+- Final invoice tracking documentation
 - Weekly email update system (Fridays) to ByLight (implemented April 17, 2026)
-- Fuselage manufacturing specifications (material, infill, weight variants)
+- FedEx tracking information (requested/pending communication November 2, 2026)
 
 ## Recent Activity
 
-**October 30, 2026 – Project Approaching Final Closeout**
-- Meredith Needham confirmed three final packages ready for FedEx pickup on Monday (November 3)
-- Maciej confirmed this represents the "final final ByLight close out"
-- Ethan Domagala expressed relief: "Never touching ByLight ever again!" suggesting significant project challenges
-- Joshua Fromm's comment "I've heard that before" indicates historical precedent for difficult project completions with this customer
+**November 2, 2026 – Project Delivery Completed**
+- **Time:** 13:45 – Meredith Needham confirmed: "Shipment was picked up! :tada:"
+- **Action:** Ethan Domagala requested tracking number from Meredith to forward to Mel at ByLight
+- **Status:** Final package pickup completed; customer notification in progress
+- **Significance:** Marks successful conclusion of By Light Mustang/M2 program delivery phase
 
-**Outcome:** Project appears to be successfully concluding with all deliverables shipped, though team sentiment suggests operational friction during execution. Final logistics coordination underway to complete contract obligations.
+**Historical Context (October 30, 2026):**
+- Meredith had confirmed three final packages ready for FedEx pickup
+- Maciej confirmed this represented "final final ByLight close out"
+- Ethan expressed relief: "Never touching ByLight ever again!" (indicating challenging project execution)
 
----
-
-**Note:** Existing knowledge file merged with October 30, 2026 data. Project lifecycle now documented from October 2025 initiation through October 2026 final closeout. Manufacturing challenges referenced for September 2026 warrant follow-up investigation for complete documentation.
+**Outcome:** By Light Mustang/M2 program successfully delivered with all contractual obligations fulfilled. Customer contact (Mel) receiving tracking information for final package receipt confirmation, completing the 13-month project cycle from October 2025 initiation through November 2026 delivery.

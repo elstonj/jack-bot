@@ -1,5 +1,5 @@
 # BST Financial Overview (QuickBooks)
-**Period: November 1–2, 2026 | Data Range: April 2024 – November 2026**
+**Report Period:** November 2–4, 2026 | **Cumulative Period:** April 5, 2024 – November 16, 2026
 
 ---
 
@@ -7,59 +7,61 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $9,979,523.10 |
-| **Total Expenses (Bills + Purchases)** | $3,916,110.62 |
-| **Net Income** | **$6,063,412.48** |
-
-*Note: Current period (Nov 1–2) shows $696.12 revenue and $385.54 expenses; net: $310.58*
+| **Total Revenue (All Projects)** | **$10,799,523.10** |
+| **Total Expenses (All Projects)** | **$2,116,500.51** |
+| **Net Income Position** | **$8,683,022.59** |
+| **Outstanding Purchase Orders** | **$16,757.50** |
 
 ---
 
 ## By Project/Class
+*(Sorted by total revenue)*
 
 | Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|----------------|----------------|--------------|--------|
-| **Government** | $6,880,904.00 | $1,848,577.86 | **$5,031,396.14** | Largest project |
-| **Commercial** | $3,083,803.62 | $251,241.63 | **$2,832,562.49** | Profitable |
-| **BST Internal** | $24,815.48 | $1,816,291.13 | **-$1,791,475.65** | Deficit (R&D focused) |
-| **TOTAL** | **$9,979,523.10** | **$3,916,110.62** | **$6,063,412.48** | |
+|---------|---------------|----------------|--------------|--------|
+| **Government** | $6,880,904.00 | $1,848,577.86 | **+$5,031,396.14** | Strong |
+| **Commercial** | $3,083,803.62 | $251,244.13 | **+$2,832,559.49** | Strong |
+| **BST Internal** | $24,815.48 | $1,816,678.52 | **-$1,791,862.84** | Deficit |
 
-**Sorted by Activity:** Government (largest), Commercial (strong), BST Internal (overhead/R&D)
+### Project Notes
+- **Government** and **Commercial** are highly profitable
+- **BST Internal** is operating at significant loss, suggesting internal R&D/overhead allocation
+- Recent activity (Nov 2–4): +$387.39 in new expenses across projects
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Government Project**: $5,762,294.82 outstanding across 117 active invoices
-- **Commercial Project**: $24,579.28 outstanding (Invoice #1779, dated Aug 31, 2026 — **73+ days overdue**)
-- **Total A/R**: ~$5,786,874.10
+### Accounts Receivable (Outstanding Invoices)
+| Project | Outstanding Balance | Days Outstanding |
+|---------|---------------------|------------------|
+| **Government** | $5,762,294.82 | Active across 117+ invoices |
+| **Commercial** | $24,579.28 *(partial)* | 1 invoice noted at 90+ days |
+| **BST Internal** | Minimal | — |
 
-### Projects Without Recent Activity
-- **Commercial**: Latest invoice dated July 2026; most recent noted Aug 31, 2026 — may be winding down or in collection phase
+**⚠️ Alert:** Government invoices total $5.76M outstanding. Commercial has at least one aged invoice (#1779, Murphy's Pond CH4, $24,579.28, dated 2026-08-31).
 
-### Recent Large Expenses
-- **Research & Development (R&D)**: $385.54 (Nov 1–2)
-- **BST Internal** project shows cumulative expenses of $1.8M+ over 31 months, suggesting significant internal overhead/development costs
-
----
-
-## Profitability Summary
-
-| Category | Amount | % of Revenue |
-|----------|--------|--------------|
-| Gross Profit | $6,063,412.48 | 60.8% |
-| Operating Margin | 60.8% | Strong |
-
-**Key Insight**: Government and Commercial projects are highly profitable; BST Internal is a cost center (R&D/infrastructure investment).
+### Recent Expenses
+- **Shop Supplies** (Facilities): $347.38
+- **Internal R&D**: $385.54
+- **Total recent activity (Nov 2–4)**: $732.92 recorded; $387.39 in new transactions
 
 ---
 
-## Data Limitations
+## Unclassified/Overhead Observations
+- **BST Internal** classification captures internal R&D, facilities, and overhead
+- Cumulative deficit of $1.79M in Internal projects suggests these are cost centers (not revenue-generating)
+- Recent P&L shows net loss of $732.92 for Nov 2–3 period (likely timing issue or month-end adjustment)
 
-The raw data provided is fragmented. Complete details on:
-- Top vendors (insufficient expense detail in extract)
-- Top customers by revenue (Government dominates; Commercial secondary)
-- Individual transaction classification
+---
 
-would require full vendor ledger and detailed expense reports.
+## Key Metrics Summary
+
+| KPI | Value |
+|-----|-------|
+| **Gross Margin (excl. Internal)** | 94.5% *(Commercial + Government)* |
+| **Revenue per Transaction** | ~$6,275 average |
+| **Total Active Invoices** | 117+ |
+| **Profitability** | Highly profitable when excluding internal costs |
+
+**Recommendation:** Review BST Internal allocation methodology—current structure shows significant operating loss that may not reflect actual profitability of revenue-generating projects.

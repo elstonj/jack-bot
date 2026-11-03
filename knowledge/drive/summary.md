@@ -1,50 +1,75 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-02 02:27
+Last scanned: 2026-11-03 02:49
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 1 files — [sales.md](sales.md)
+- **Federal Projects** — 21 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 5 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Strategic Drive Overview
+# Google Drive Strategic Overview – Black Swift Technologies
 
 ## Summary Statistics
-- **Total Drives Reviewed:** 3
-- **Total Documents:** 3
-- **Drive Health:** Critically sparse
+- **Total files across drives:** 26 files
+- **Total folders:** 5 structured folders (plus root-level video files)
+- **Date range:** 2022–2099 (note: future-dated modifications suggest data integrity issues)
+- **Organization quality:** Moderate – Federal drive is well-structured; Sales drive lacks folder organization
 
-## Drive-by-Drive Analysis
+---
 
-### Federal Projects
-- **Volume:** 2 files (video content only)
-- **Content Type:** Video files (RC_VID_0008.MOV, RC_VID_0009.MOV)
-- **Organization:** No folder structure; files at root level
-- **Status:** Future-dated modification timestamps (2099-01-24) indicate data entry errors or system issues
+## Drive-Specific Observations
 
-### Sales
-- **Volume:** 1 file
-- **Content Type:** Technical discussion document (Vantor prospect, dated 2026-10-30)
-- **Organization:** No folder structure evident
-- **Status:** Recently modified (2026-11-01)
+### Federal Projects Drive (21 files, 5 folders)
+**Primary focus:** Hurricane operations UI design for NOAA S0 Hurricane Console
 
-## Key Observations
+**Structure strengths:**
+- Clear hierarchical organization (Project docs → NOAA references → BST references → Data)
+- Logical separation of external partner materials vs. internal operational docs
+- Project requirements and design briefs centrally located
 
-| Concern | Details |
-|---------|---------|
-| **Critical Documentation Gap** | Only 3 documents across all drives suggests either heavy reliance on external storage or incomplete setup |
-| **No Naming Conventions** | Inconsistent naming patterns (video codes vs. date-prefixed document) |
-| **No Folder Architecture** | Flat file structures across all drives inhibit scaling and discovery |
-| **Data Quality Issues** | Future-dated timestamps on Federal drive warrant investigation |
-| **Missing Core Resources** | No visible templates, process documents, or shared reference materials |
+**Notable gaps:**
+- "04 Data and imagery" folder is empty (placeholder unfilled)
+- Video files stored at root level (RC_VID_0008.MOV, RC_VID_0009.MOV) rather than organized subfolder
+
+**Document types:** Requirements, design briefs, hotwash reports, checklists, presentations, timelines
+
+---
+
+### Sales Drive (5 files, 0 folders)
+**Primary focus:** RAVEN project kickoff and partner engagement (UK visit planning)
+
+**Structure weaknesses:**
+- No folder hierarchy; all files at root level
+- Duplicate file entry (RAVEN Kickoff appears twice with same modification date)
+- Minimal documentation volume
+
+**Document types:** Meeting agendas, technical discussion notes, budget templates, visit logistics
+
+---
+
+## Cross-Drive Patterns
+- **Federal drive** = Project-heavy documentation with partner collaboration materials
+- **Sales drive** = Deal/partnership development stage (limited docs, early-phase materials)
+- No evidence of shared templates across drives; Sales has isolated budget template
+
+---
+
+## Areas Requiring Attention
+1. **Data integrity:** Future-dated modifications (2099-01-24, 2026-11-03) suggest timestamp errors or test data
+2. **Duplicate files:** Sales drive has duplicate RAVEN Kickoff entries
+3. **Incomplete organization:** Federal drive's "Data and imagery" folder unfilled; videos at root level
+4. **Sales drive disorganization:** Needs folder structure (e.g., by project, by stage)
+5. **Template management:** No centralized template repository visible across drives
+
+---
 
 ## Recommendations
-
-1. **Immediate:** Audit timestamp errors on Federal Projects drive
-2. **Short-term:** Establish folder hierarchies (by client, project phase, document type)
-3. **Ongoing:** Implement consistent naming conventions (e.g., `YYYY-MM-DD_ClientName_DocumentType_Version`)
-4. **Strategic:** Centralize templates, SOPs, and compliance documents as shared resources
+- Audit and correct future-dated file modifications
+- Implement consistent naming convention across both drives
+- Organize Sales drive by project/client (RAVEN, Vantor, etc.)
+- Move/organize video files into appropriate Federal project subfolder
+- Create shared templates folder or documentation standards

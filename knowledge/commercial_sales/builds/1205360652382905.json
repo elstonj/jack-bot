@@ -1,0 +1,41 @@
+{
+  "asana_gid": "1205360652382905",
+  "asana_task_name": "[1302] NASA Ames (Chris Scofield) Nosecone and payload kit",
+  "customer": "NASA Ames",
+  "customer_contact": "Chris Scofield",
+  "customer_email": "",
+  "receive_by": null,
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S2 Nosecone with Kevlar skin",
+      "quantity": 2
+    }
+  ],
+  "payment_state": "invoice_sent",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": "2024-11-04",
+  "invoice_amount": 3470.0,
+  "invoice_number": "1633",
+  "paid_date": "2024-11-04",
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Kept due to QBO invoice 1633 (Nov 2024, $3,470, PAID) for S2 nosecones with Kevlar skin matching this task. Recent Slack activity (Nov 2) confirms customer request for invoice on 2x S2 nosecones.",
+  "missing_fields": [
+    "ship_to",
+    "receive_by",
+    "build_state",
+    "shipped_date"
+  ],
+  "last_evidence_date": "2026-11-02",
+  "last_contact_date": "2026-11-02"
+}

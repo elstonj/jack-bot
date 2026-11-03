@@ -21,7 +21,7 @@
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "completed": 0,
     "name": "[001-04] S0 VTOL IRAD",
     "open": 45,
@@ -42,14 +42,14 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-03",
     "completed": 13,
     "name": "[001-07] S3 IRAD",
     "open": 109,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-03",
     "completed": 5,
     "name": "[001-09] SwiftCore 4.0",
     "open": 226,
@@ -91,10 +91,10 @@
     "window": "last 90 days"
   },
   "001-13_accounting.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-03",
     "completed": 49,
     "name": "[001-13] Accounting",
-    "open": 15,
+    "open": 16,
     "window": "last 90 days"
   },
   "001-13_bd_pipeline.md": {
@@ -119,10 +119,10 @@
     "window": "last 90 days"
   },
   "001-13_facilities_management.md": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "completed": 17,
     "name": "[001-13] Facilities Management",
-    "open": 6,
+    "open": 8,
     "window": "last 90 days"
   },
   "001-13_finance_admin.md": {
@@ -133,11 +133,11 @@
     "window": "last 90 days"
   },
   "001-13_general_operations.md": {
-    "as_of": "2026-10-23",
-    "completed": 70,
+    "as_of": "2026-11-03",
+    "completed": 15,
     "name": "[001-13] General Operations",
-    "open": 17,
-    "window": "last 365 days"
+    "open": 28,
+    "window": "last 90 days"
   },
   "001-13_hiring_pipeline.md": {
     "as_of": "2026-11-02",
@@ -182,10 +182,10 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 215,
+    "open": 216,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -406,8 +406,8 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-10-31",
-    "completed": 12,
+    "as_of": "2026-11-03",
+    "completed": 11,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
     "open": 10,
     "window": "last 90 days"
@@ -427,7 +427,7 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
@@ -462,10 +462,10 @@
     "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-11-02",
-    "completed": 13,
+    "as_of": "2026-11-03",
+    "completed": 15,
     "name": "[550-1] NAVY SBIR: Magnetometer",
-    "open": 2,
+    "open": 3,
     "window": "last 90 days"
   },
   "550-2_navy_sttr_hazardous_weather.md": {
@@ -476,7 +476,7 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-02",
+    "as_of": "2026-11-03",
     "completed": 6,
     "name": "[600-1] SOCOM Pope",
     "open": 58,
@@ -490,10 +490,10 @@
     "window": "last 90 days"
   },
   "contacts.md": {
-    "as_of": "2026-10-30",
-    "completed": 0,
+    "as_of": "2026-11-03",
+    "completed": 2,
     "name": "Contacts",
-    "open": 105,
+    "open": 103,
     "window": "last 90 days"
   },
   "eventsconferencespr_opportunities.md": {

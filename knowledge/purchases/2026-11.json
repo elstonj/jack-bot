@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1a19e378b7059405",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 341.18,
+    "vendor": "ICARE-ICARUS",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Folding propeller 7x4 (qty 50)",
+    "notes": "Order IC-156018 placed 7/24/2026, promised late September delivery, follow-up check on 11/02/2026 due to delay. Items backordered. Tariff duty (10-15%) to be added on final invoice.",
+    "date": "2026-11-02",
+    "subject": "Re: New Order # IC- 156018"
+  },
+  {
+    "id": "1a19ccb4b7758f91",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 1292.5,
+    "vendor": "MKS Servos USA",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Z1100-DroneCAN M5 connector (qty 3)",
+    "notes": "Order #23311 completed 10/30/2026. Shipped via USPS Priority Mail Large Flat Rate Box.",
+    "date": "2026-11-02",
+    "subject": "MKS Servos USA: Your order #23311 has been completed"
+  }
+]

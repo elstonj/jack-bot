@@ -15,7 +15,7 @@
     "type": "unknown",
     "number": "N6833525C0270",
     "total_value": 138494.0,
-    "start_date": "2025-07-22",
+    "start_date": "2025-07-30",
     "end_date": "2026-09-01",
     "payment_cadence": "milestone",
     "documents": [
@@ -33,7 +33,7 @@
         "amount": 40121.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-02"
+        "last_updated": "2026-11-03"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +45,7 @@
         "amount": 119941.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-02"
+        "last_updated": "2026-11-03"
       },
       "total": 160062.25,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -21568.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-02T10:19:29Z"
+    "last_reconciled": "2026-11-03T10:45:08Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,6 +92,12 @@
     },
     {
       "source": "FEEDBACK",
+      "author": "Spencer Hoehl",
+      "date": "2026-11-02",
+      "text": "From Spencer Hoehl: <!here> Do we have an EPA ID as a company? Also, have we disposed of any hazardous materials within this calendar year?"
+    },
+    {
+      "source": "FEEDBACK",
       "author": "Daniel Prendergast",
       "date": "2026-10-30",
       "text": "From Daniel Prendergast (ts=1793307702.169889): <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System, and the Royal Navy is calling this Project RAVEN in case it matters"
@@ -103,6 +109,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-11-02T10:19:29Z",
+  "last_full_rebuild": "2026-11-03T10:45:08Z",
   "last_incremental_update": null
 }

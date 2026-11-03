@@ -1,70 +1,77 @@
-_Asana snapshot as of 2026-10-31: 10 open tasks, 12 completed (last 90 days)._
+_Asana snapshot as of 2026-11-03: 10 open tasks, 11 completed (last 90 days)._
 
 # [300-3] 2026 IDIQ (Hurricane)
 
 ## Overview
-- **Client/Customer:** NOAA (National Oceanic and Atmospheric Administration)
-- **Dollar Value:** $483,000 (BST allocation from $1,111,000 total IDIQ)
-- **Invoice Delivery Order:** 1305M226F0084 (IDIQ # 1305M226D0012)
+- **Client/Customer:** NOAA
+- **Dollar Value:** $483,000 total funding to BST (original contract); $1,111,000 noted in project notes as total value
 - **Timeline:** 
   - Original 20 S0s: due August 2026
   - 13 S0s: due October 2026
   - 21 S0s: due November 2026 (option exercised 8/5/26)
-  - Additional 30 S0s: due June 2027
-  - Project end date: June 1, 2027
-- **Status:** Active — hardware deliveries progressing; significant manufacturing work ongoing (PSNS fixes, QC); multiple milestones open without due dates
-- **Team Members:** Jack Elston (lead), Josh Fromm, Ben Busby, Sam Hild, Ali Sulehria, Meredith O'hara Needham (owner/invoicing), Maciej Stachura
+  - Project end: June 1, 2027
+- **Status:** Active — major deliveries in progress, multiple milestones open through December 2026
+- **Team Members:** Josh Fromm, Ben Busby, Jack Elston, Sam Hild, Ali Sulehria, Meredith O'hara Needham (Owner), Maciej Stachura
 - **Risk Signals:** 
-  - Five critical tasks (PSNS v1.5 fixes, QC, board replacement, kit completion, 13-aircraft delivery) have **no due dates** despite November delivery window approaching
-  - Unassigned 21-platform delivery task due 11/30/26
-  - Invoice 3 of 3 ($117,000) due 10/5/26 with no clear completion dependencies listed
+  - Multiple tasks due 2026-11-06 (all assigned to Sam Hild or Ali Sulehria, high dependency risk)
+  - PSNS (likely payload system) v1.5 fixes and QC compressed into single date
+  - Milestone delivery (13 S0s) due 2026-11-13, only 7 days after component tasks
+  - Invoice 3 of 3 due 2026-10-05 (within ~2 weeks)
+  - Project note from May 29, 2026 indicates transition of key contact (Nick Pawlenko) to UxSOC headquarters — communications continuity concern
 
 ## Key Deliverables & Milestones
-| Milestone | Due Date | Status | Notes |
-|-----------|----------|--------|-------|
-| Deliver 20 original S0s for NOAA UAS | August 2026 | **COMPLETED** | Delivered 7/31/26; 2 ground stations also delivered 7/12/26 |
-| Deliver 13 S0s (Option 1) | October 2026 | **OPEN** | Milestone assigned to Josh Fromm; closeout is delivery to customer |
-| Deliver 21 S0s (Option 2) | November 30, 2026 | **OPEN** | Option exercised 8/5/26; unassigned |
-| Web Controller Complete for NOAA | TBD (open) | **OPEN** | Assigned Ben Busby; closeout is BST sim testing with no errors |
-| Conduct NOAA Sim Training | TBD (open) | **OPEN** | Assigned Jack Elston; closeout is NOAA payment |
-| Develop Plan for 2027 Delivery | TBD (open) | **OPEN** | Assigned Jack Elston; closeout is planning document |
-| Deliver 30 S0s (Option 3) | June 1, 2027 | Planned | Not yet broken into tasks |
+
+| Milestone | Assignee | Due Date | Notes |
+|-----------|----------|----------|-------|
+| Submit Invoice 3 of 3 (CLIN 1001 POF0344, $117,000) | Meredith O'hara Needham | 2026-10-05 | ~2 weeks out |
+| Deliver 13 S0s | Josh Fromm | 2026-11-13 | Closeout = delivery to customer; depends on component tasks due 11/06 |
+| Web Controller Complete for NOAA | Ben Busby | 2026-11-20 | Closeout = BST sim testing with no errors |
+| Conduct NOAA Sim Training | Jack Elston | 2026-12-11 | Closeout = NOAA payment |
+| Deliver 21 S0s (option order) | Unassigned | 2026-11-30 | Option exercised 8/5/26; expected November delivery |
+| Develop Plan for 2027 Delivery | Jack Elston | 2026-12-18 | Closeout = planning document + tasks written out |
 
 ## Task Summary
-- **Total Tasks:** 22 (10 open, 12 completed)
-- **Completion Rate:** 55% overall
 
-### By Assignee (Open Tasks)
-| Assignee | Open Tasks | Type |
-|----------|-----------|------|
-| Sam Hild | 3 | Manufacturing/QC (PSNS fixes, board replacement, kit completion) |
-| Jack Elston | 2 | Strategic (sim training, 2027 planning) |
-| Ben Busby | 1 | Web Controller development |
-| Josh Fromm | 1 | Delivery milestone (13 S0s) |
-| Ali Sulehria | 1 | QC (v1.5 PSNS re-check) |
-| Meredith O'hara Needham | 1 | Invoicing (Invoice 3 of 3, $117k) |
-| Unassigned | 1 | Delivery (21 S0s) |
+**Open/Completed:** 10 open, 11 completed (46% completion)
 
-### Notable Patterns
-- **Manufacturing bottleneck:** Sam Hild owns most open hardware tasks; v1.5 PSNS board issues require fixes, full QC re-certification, and retrofit on already-built aircraft — critical path unclear
-- **Invoicing discipline:** Three invoices tracked ($58.5k, $58.5k, $117k); Invoice 2 submitted 9/28, Invoice 3 due 10/5/26
-- **Milestone ambiguity:** Four major milestones (web controller, training, 2027 plan, 13-aircraft delivery) have no due dates despite <8 weeks to November delivery
+**Critical Path Tasks (all due 2026-11-06):**
+- Perform additional v1.5 PSNS fix (Sam Hild)
+- Redo QC on v1.5 PSNS with fix in place (Ali Sulehria)
+- Replace all PSNS boards on built S0s and re-QC (Sam Hild)
+- Finish kits for new S0s for 13-aircraft order (Sam Hild)
+
+**By Assignee:**
+- **Sam Hild:** 3 open tasks, all due 11/06 (high load concentration)
+- **Ali Sulehria:** 1 open task, due 11/06
+- **Josh Fromm:** 1 open milestone (13 S0 delivery)
+- **Ben Busby:** 1 open milestone (Web Controller)
+- **Jack Elston:** 2 open milestones (Sim Training, 2027 Plan)
+- **Meredith O'hara Needham:** 1 open invoice task
+- **Unassigned:** 1 task (21 S0 delivery) — should assign
+
+**Recently Completed (all ~10/30/2026):**
+- Build and delivery tasks for 2025/2026 S0s and ground stations
+- Original 20 S0s delivery appears complete
+- Invoice 2 of 3 ($58,500) completed 9/28/26
 
 ## Recent Activity
-- **September 28, 2026:** Invoices 2 and 6 submitted (total $130.5k)
-- **October 2, 2026:** Mag calibration process completed (Maciej Stachura)
-- **October 30, 2026:** Large batch of historical tasks marked complete—accelerated closeout of 2025 inventory, power switches, and ground station work
-- **August 5, 2026:** Customer exercised option for additional 21 platforms (now due November)
-- **May 29, 2026:** Communication protocol updated due to Nick Pawlenko transition to UxSOC headquarters; Meredith O'hara Needham now primary contact point
+
+**October 2026 Status:**
+- Original 20 S0 delivery completed (multiple tasks closed 10/30)
+- Majority of August/July delivery milestones completed (24 S0s for 2026, ground stations, leftover S0)
+- Invoice 2 of 3 submitted end of September ($58,500)
+- **Immediate priority:** Invoice 3 of 3 ($117,000) due 2026-10-05; component fixes and QC compressed into 11/06 deadline
+- Option for 21 additional S0s was exercised 8/5/26; delivery expected end of November (unassigned task)
+
+**Incoming Milestones (next 8 weeks):**
+- v1.5 PSNS fix/QC and board replacement must complete by 11/06 to enable 13 S0 delivery by 11/13
+- Web Controller testing completion 11/20
+- NOAA sim training 12/11 (payment trigger)
 
 ## Notes & Context
-- **PSNS v1.5 Crisis:** A critical defect in the v1.5 Power and Sensor Node System (PSNS) requires:
-  1. Design fix (Sam Hild assigned)
-  2. Re-QC on fixed boards (Ali Sulehria assigned)
-  3. Physical replacement of all PSNS boards on already-built S0s plus re-QC (Sam Hild assigned)
-  - **No due date specified** — this is a blocking issue for the 13-aircraft October delivery and likely the 21-aircraft November delivery
-- **Kit Completion:** Sam Hild also owns "Finish kits needed for new S0s to be built to finish out the 13 aircraft order" — no due date
-- **Invoicing:** Track Invoice 3 ($117k) submission by 10/5/26 against invoice template (linked in task notes)
-- **2027 Planning:** 30 additional S0s due June 2027 have not yet been decomposed into tasks; requires planning document and task writeout from Jack Elston
-- **Government customer:** NOAA is high-priority; payment milestones tied to delivery and sim training completion
-- **Project Notes Discrepancy:** Original project notes reference "20 for NOAA UAS (due Aug 2026)" and separate S0 delivery windows; all original 20 delivered on time; current focus is on Options 1 and 2 (13 + 21 platforms)
+
+- **Invoicing:** Three invoices against CLIN 1001; Invoice 1 and 6 complete, Invoice 3 ($117,000) pending. Invoice against Delivery Order #1305M226F0084.
+- **PSNS Issue:** v1.5 board revision in place; fix + QC + retrofitting completed S0s all compressed into single date (11/06). This is highest risk path item.
+- **Staffing Concern:** Project note (5/29/26) flags Nick Pawlenko's transition from UASD to UxSOC HQ; comms continuity may need attention.
+- **Option Order:** 21 additional S0s exercised 8/5/26; currently unassigned for delivery. Should clarify assignment and confirm November delivery feasibility given PSNS rework.
+- **2027 Planning:** Jack Elston tasked with developing delivery plan and tasks for next phase (due 12/18).

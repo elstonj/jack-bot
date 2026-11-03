@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $3,083,803.62
-- **Total Expenses (Bills + Purchases):** $251,241.63
+- **Total Expenses (Bills + Purchases):** $251,244.13
 - **Total Purchase Orders:** $1,977.50
-- **Net Position:** $2,832,562.49 (Revenue exceeds expenses)
+- **Net Position:** $2,832,559.49 (Revenue exceeds expenses)
 - **Date Range:** April 5, 2024 – November 12, 2026
 
 ---
@@ -125,18 +125,19 @@
 ---
 
 ### **Shipping/Freight** (Direct Cost Shipping, Freight & Delivery)
-**Total: $40.00** | 3 transactions  
+**Total: $42.50** | 3 transactions  
 *Account: [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]*
 
 | Date | Vendor/Memo | Description | Amount |
 |------|-------------|-------------|--------|
 | 2026-10-29 | 3D Printing Service (JT71988) | Shipping for parts order | $36.00 |
 | 2026-11-12 | PGA | Disclaimer Fee | $2.50 |
-| *Subtotal:* | | | $38.50 |
+| 2026-11-12 | PGA | Disclaimer Fee | $2.50 |
+| *Subtotal:* | | | $42.50 |
 
 **Largest Items:**
 - 3D Printing Shipping: $36.00
-- PGA Disclaimer Fee: $2.50
+- PGA Disclaimer Fee: $2.50 (×2)
 
 ---
 
@@ -165,11 +166,11 @@
 | Category | Total Amount | # Transactions |
 |----------|--------------|-----------------|
 | Materials & Supplies | $1,654.35 | 1 |
-| Shipping/Freight | $40.00 | 2 |
+| Shipping/Freight | $42.50 | 3 |
 | Indirect Costs (R&D/IRAD) | $1,123.62 | 3 |
-| **TOTAL EXPENSES (Recent Period)** | **$2,818.47** | **6** |
+| **TOTAL EXPENSES (Recent Period)** | **$2,820.47** | **7** |
 
-**Cumulative Project Expenses:** $251,241.63
+**Cumulative Project Expenses:** $251,244.13
 
 ---
 
@@ -197,10 +198,10 @@ No new purchase orders recorded in this period.
 ### November 2026 (YTD)
 | Category | Amount | # Transactions |
 |----------|--------|-----------------|
-| **Shipping/Freight** | $2.50 | 1 |
-| **Total** | **$2.50** | **1** |
+| **Shipping/Freight** | $5.00 | 2 |
+| **Total** | **$5.00** | **2** |
 
-**Burn Rate Note:** November activity minimal to date. Single administrative charge (PGA disclaimer fee) recorded as of Nov 12, 2026.
+**Burn Rate Note:** November activity minimal to date. Two administrative charges (PGA disclaimer fees × 2) recorded as of Nov 12, 2026. Second fee occurrence on same date suggests possible duplicate entry or two related compliance charges.
 
 ---
 
@@ -251,29 +252,31 @@ No new purchase orders recorded in this period.
 
 ---
 
-### **Administrative Fee (November 12, 2026)**
-- **Purchase #261021W002707 | $2.50**
+### **⚠️ Administrative Fees — PGA Disclaimer Charges (November 12, 2026)**
+- **Purchase #261021W002707 | $2.50** (First occurrence)
+- **Purchase #261021W002707 | $2.50** (Second occurrence, same day)
 - **Vendor:** PGA (Professional Golfers' Association or similar entity)
-- **Description:** Disclaimer Fee
+- **Description:** Disclaimer Fee (×2)
 - **Account:** [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]
-- **Note:** Categorized as shipping/freight but appears to be a compliance or administrative charge unrelated to physical shipping. **Recommend reclassification to "Other" category for accounting clarity.**
+- **Total:** $5.00
+- **Note:** Both charges posted on same date with identical reference number, suggesting possible duplicate entry or two related compliance transactions. Categorized as shipping/freight but appears to be a compliance or administrative charge unrelated to physical shipping. **Recommend verification of intentionality and reclassification to "Other" category for accounting clarity.**
 
 ---
 
 ## Summary of Latest Update
 
 **Update Period:** November 1 – November 12, 2026  
-**New Transactions:** 1
+**New Transactions:** 1 (with duplicate occurrence noted)
 
 | Metric | Change | Current Value |
 |--------|--------|---------------|
-| Total Expenses | +$2.50 | $251,241.63 |
-| Shipping/Freight Category | +$2.50 | $40.00 |
-| Monthly Spend (November YTD) | +$2.50 | $2.50 |
-| Net Position | -$2.50 | $2,832,562.49 |
+| Total Expenses | +$2.50 | $251,244.13 |
+| Shipping/Freight Category | +$2.50 | $42.50 |
+| Monthly Spend (November YTD) | +$2.50 | $5.00 |
+| Net Position | -$2.50 | $2,832,559.49 |
 | Outstanding Receivables | No change | $1,983,498.26 |
 
-**Detail:** Single administrative transaction recorded—PGA Disclaimer Fee ($2.50) on November 12, 2026 classified to Shipping/Freight account. No material changes to project financial position. Project remains in strong net positive position with revenue significantly exceeding expenses.
+**Detail:** Single administrative transaction recorded on November 12, 2026—PGA Disclaimer Fee ($2.50) on purchase #261021W002707 classified to Shipping/Freight account. **Note: System shows duplicate entry of identical fee with same reference number on same date, resulting in $5.00 total. Recommend verification to confirm intentionality or reverse duplicate.** No material changes to project financial position. Project remains in strong net positive position with revenue significantly exceeding expenses.
 
 ---
 
@@ -283,7 +286,7 @@ No new purchase orders recorded in this period.
 |--------|-------|-------|
 | Revenue Realization Rate | 35.7% | Stable |
 | Expense-to-Revenue Ratio | 8.2% | Stable |
-| Average Monthly Burn (Oct-Nov 2026) | $1,408.24 | Slowing in November |
+| Average Monthly Burn (Oct-Nov 2026) | $1,409.74 | Slowing in November |
 | Outstanding Revenue Aging | 4+ months | **Alert:** Invoice #1779 requires follow-up |
 | Materials & Supplies as % of Expenses | 0.66% of cumulative | Aligned with ongoing development |
 | Aging Receivables (>90 days) | $24,579.28 | **High priority collection** |
@@ -297,8 +300,9 @@ No new purchase orders recorded in this period.
 - Research & Development (IRAD)
 
 **Recommendation:** 
-1. **URGENT:** Resolve duplicate invoice #1755 with By Light Halo immediately
-2. **HIGH PRIORITY:** Escalate collection efforts on aging Invoice #1779 (Murphy's Pond CH4)
-3. Reclassify PGA Disclaimer Fee ($2.50) to "Other" for proper expense categorization
-4. Conduct monthly reconciliation of outstanding invoices for accurate financial reporting
-5. Continue tracking S3 Phase 1 development and 3D manufacturing iterations for project status alignment
+1. **URGENT:** Resolve duplicate PGA Disclaimer Fee charges (Nov 12, 2026) — verify if legitimate or system error requiring reversal
+2. **URGENT:** Resolve duplicate invoice #1755 with By Light Halo immediately
+3. **HIGH PRIORITY:** Escalate collection efforts on aging Invoice #1779 (Murphy's Pond CH4)
+4. Reclassify PGA Disclaimer Fees ($5.00 total) to "Other" for proper expense categorization
+5. Conduct monthly reconciliation of outstanding invoices for accurate financial reporting
+6. Continue tracking S3 Phase 1 development and 3D manufacturing iterations for project status alignment

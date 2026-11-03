@@ -432,6 +432,8 @@
 ### Universities — Multi-Institution Academic Network
 - **Relationship context**: Research collaborations, student recruitment, conference participation
 - **Key universities**: MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
+- **New contacts (from latest data import)**:
+  - **International Academic Partners**: Chalmers University (Sweden), Technical University Munich (Germany), Helmholtz Association (Germany), GEOMAR (Germany), University of Surrey (UK), Manchester Metropolitan University (UK), Queen Mary University of London (UK), University of Southampton (UK), University of Iceland, University of Auckland (New Zealand), and others across Australia, Canada, and additional US institutions
 
 ### Electronics/PCB Manufacturing & Assembly
 - **Relationship context**: Vendors for circuit board manufacturing and assembly
@@ -470,11 +472,19 @@
     - Email: help@3drobotics.com
   - **Saildrone** — Autonomous Vehicle Manufacturer
     - Email: chris.hopkins@saildrone.com
+  - **Juniper Unmanned** — UAS Services
+    - Email: brian.coleman@juniperunmanned.com, eric.torres@juniperunmanned.com
+  - **NV Drones** — Commercial Drone Services
+    - Email: kmukai@nvdrones.com
+  - **Vision Air Systems** — UAS Operator
+    - Email: jackie.murphy@visionairsystems.com
+  - **Alerion Tech** — UAS Technology
+    - Email: oier@aleriontech.eu
 
 ### Propeller Aero
 - **Relationship context**: Commercial drone/geospatial services partner
 - **Key contacts**:
-  - Email: support@propelleraero.com, support@propelleraero.com.au
+  - Email: support@propelleraero.com, support@propelleraero.com.au, richard@propeller-f41ed412b17a.intercom-mail.com
 
 ### DroneDeploy
 - **Relationship context**: Software/services partner
@@ -492,6 +502,8 @@
     - Email: jerrickson@paychex.com, mlapaglia@paychex.com, paychexinsurance@paychex.com, 5500Bond@paychex.com, 401kcustomerservice@paychex.com, pcottingham@paychex.com, paychexbenefitaccount@paychex.com, hb_customerservicewest@paychex.com, kkhozooei@paychex.com, epineda@paychex.com, paychexhsa@paychex.com, clientsupport_paperwork@paychex.com, uwf_core_auto_r4@paychex.com
   - **Square** — Payment Processing
     - Email: send@square.com
+  - **Intuit/QuickBooks** — Financial Software
+    - Email: payments_risk@intuit.com, quickbooks@notification.intuit.com
 
 ### Legal/Professional Services
 - **Relationship context**: Legal counsel, business services
@@ -507,7 +519,7 @@
   - **Tebo Properties** — Property Management
     - Email: leasingassistant@teboproperties.com, mail@teboproperties.com, jmccormick@tebo.biz, mlaatsch@teboproperties.com, jhruby@teboproperties.com
   - **Boulder County** — Real Estate Assessor
-    - Email: posinfo@bouldercounty.org
+    - Email: posinfo@bouldercounty.org, mhalford@bouldercounty.gov
 
 ### Insurance & Risk Management
 - **Relationship context**: Business insurance, liability coverage
@@ -518,6 +530,8 @@
     - Email: amy.delaney@libertymutual.com, hannah.wilkins@libertymutual.com
   - **Pinnacol** — Workers Compensation
     - Email: alondra.jara@pinnacol.com
+  - **AeroInsure** — Aviation Insurance
+    - Email: USPayments@aeroinsure.com
 
 ### Meteorological & Weather Services
 - **Relationship context**: Weather data, forecasting services, equipment vendor
@@ -526,6 +540,10 @@
     - Email: timo.kerola@vaisala.com, bob.cook@vaisala.com
   - **Trimble** — GPS/GNSS Services
     - Email: eric_mccuaig@trimble.com, Geoffrey_cox@trimble.com, david_snyder@trimble.com
+  - **Inmet Systems** — Weather Equipment
+    - Email: info@intermetsystems.com
+  - **Nortek** — Scientific Instruments
+    - Email: david.velasco@nortekgroup.com
 
 ### Media & News Organizations
 - **Relationship context**: Press relations, public outreach
@@ -556,6 +574,8 @@
     - Email: scoop@huffingtonpost.com
   - **Drone News/Publications**:
     - Email: info@thedronenews.com, editor@dronelife.com, editor1@dronelife.com
+  - **UAVision** — UAS Industry News
+    - Email: russ@uasvision.com
 
 ### Consulting & Engineering Firms
 - **Relationship context**: Technical partners, subcontractors
@@ -599,6 +619,10 @@
     - Email: mason@gener8tor.com, erica@gener8tor.com
   - **Capital Factory** — Startup Community
     - Email: erinmiller@capitalfactory.com, shannazmi@capitalfactory.com, annaolson@capitalfactory.com, officehours@capitalfactory.com
+  - **MassChallenge** — Startup Competition
+    - Email: earlystage@masschallenge.org
+  - **Startup Bootcamp** — Accelerator Program
+    - Email: allie.farmer@startupbootcamp.org
 
 ### Economic Development Organizations
 - **Relationship context**: Business development, regional partnerships
@@ -607,12 +631,16 @@
     - Email: amelia.atencio@metrodenver.org
   - **LARTA** (Los Angeles Regional Tech Association)
     - Email: tvarnntoft@larta.org, Aaron.Teitelbaum@larta.org
+  - **Colorado OEDIT** — Economic Development
+    - Email: oediat_aigrantmanager@state.co.us
 
 ### Geospatial & Mapping
 - **Relationship context**: Technical partners for mapping services
 - **Key contacts**:
   - **Pix4D** — Photogrammetry Software
     - Email: william.hawkins@pix4d.com
+  - **OmniEarth** — Geospatial Intelligence
+    - Email: jonathan.fentzke@omniearth.net
 
 ### Specialized Sensor & Instrument Manufacturers
 - **Relationship context**: Sensor/camera vendors
@@ -648,7 +676,7 @@
   - **Boulder County** — Local Government
     - Email: posinfo@bouldercounty.org, mhalford@bouldercounty.gov
 
-### Internal BST Contacts (Black Swift Technologies)
+### Black Swift Technologies (BST) — Internal
 - **Relationship context**: Internal team and operations
 - **Key contacts**:
   - **Stephan Esterhuizen**
@@ -663,11 +691,11 @@
     - Email: josh@bst.aero
   - **Tachura**
     - Email: tachura@bst.aero
-  - Careers/Recruitment
+  - **Careers/Recruitment**
     - Email: careers@bst.aero, carrers@blackswifttech.com
-  - All-Team
+  - **All-Team**
     - Email: all@bst.aero
-  - Operations
+  - **Operations**
     - Email: operations@bst.aero
   - **Stachuram**
     - Email: stachuram@blackswifttech.com, stachuram@bst.aero
@@ -689,29 +717,30 @@
     - Email: bryan.constanza@blackswifttech.com
   - **Maciej**
     - Email: Maciej@blackswifttech.com
-  - Calendar/Administrative
+  - **Calendar/Administrative**
     - Email: blackswifttech.com_dg5s3sumiejnhnfjmknj690bo0@group.calendar.google.com
-  - Bug Reporting
+  - **Bug Reporting**
     - Email: bugfix@blackswifttech.com
-  - Flight Operations
+  - **Flight Operations**
     - Email: approvedflight@blackswifttech.com
-  - Slack Integration
+  - **Slack Integration**
     - Email: hurricane-data-proces-aaaan2gz2ajcozt5latqxlsr7y@blackswifttec-jml9878.slack.com
 
 ---
 
 ## Summary
 
-**Total External Contacts**: 9,000+ (comprised of 1,200+ named individuals and 7,800+ email addresses without assigned names)
+**Total External Contacts**: 9,150+ (comprised of 1,250+ named individuals and 7,900+ email addresses without assigned names)
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
 2. **NOAA** — 130+ direct contacts across divisions
-3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, etc.)
+3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, international institutions, etc.)
 4. **Internal BST** — 25+ team members and operations contacts
 5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, etc.)
-6. **Financial/Business Services** — 50+ contacts (Wells Fargo, US Bank, Paychex, etc.)
-7. **Unnamed/Unknown Organization** — 7,800+ email addresses (external vendors, consultants, media, and service providers)
+6. **Financial/Business Services** — 60+ contacts (Wells Fargo, US Bank, Paychex, etc.)
+7. **UAS/Drone Companies** — 40+ contacts (Juniper Unmanned, NV Drones, Vision Air, Alerion Tech, etc.)
+8. **Unnamed/Unknown Organization** — 7,900+ email addresses (external vendors, consultants, media, service providers)
 
 **Notable Relationship Clusters**:
 
@@ -719,9 +748,9 @@
 
 - **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research.
 
-- **Robust Academic Network**: 500+ university contacts across top-tier institutions reflects BST's role as a research partner and student recruitment pipeline. Includes domestic and international academic collaborators (UK, Germany, Iceland, Australia, etc.).
+- **Robust Academic Network**: 500+ university contacts across top-tier institutions plus emerging international partnerships. Reflects BST's role as a research partner and student recruitment pipeline. Includes significant expansion into European institutions (Germany, UK, Sweden, Iceland).
 
-- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD) indicate active pursuit of federal small business innovation funding.
+- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD, SBA) indicate active pursuit of federal small business innovation funding.
 
 - **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy, with emphasis on local Denver/Boulder outlets and national networks.
 
@@ -737,16 +766,21 @@
 
 - **Research Infrastructure**: Contacts with NCAR/UCAR, national labs (Lawrence Berkeley, Argonne, Oak Ridge), and state/local agencies indicate deep integration into research ecosystem.
 
+- **UAS/Drone Ecosystem**: New contact expansion includes commercial UAS operators (Juniper Unmanned, NV Drones, Vision Air Systems) and UAS technology companies (Alerion Tech), indicating broader market engagement.
+
+- **Startup & Venture Networks**: Growing connections to accelerators (Gener8tor, Capital Factory, MassChallenge) and startup communities suggest business development and funding diversification efforts.
+
 ---
 
 ## Data Quality Notes
 
-- **Unnamed Entries**: 7,800+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
-- **New Data Merge**: Latest data import consolidates 8,575 contacts with previous records, maintaining all historical information and adding new leads.
-- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations.
-- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com).
+- **Unnamed Entries**: 7,900+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
+- **Data Merge**: Latest data import consolidates 8,575 new contacts with previous records, maintaining all historical information while adding 500+ net new leads.
+- **New Contacts (Latest Import)**: International academic partnerships expanded significantly (Germany, UK, Sweden, Iceland, New Zealand, Australia, Canada); new UAS company partnerships added; additional government and venture capital contacts included.
+- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations and aliases.
+- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses).
 - **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation, billing systems).
-- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Queen Mary London, Southampton), Germany (MLU Tübingen, HZG, DLR, Geomar, Chalmers), Iceland, Spain, Australia, New Zealand, Canada, and numerous U.S. institutions.
+- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Queen Mary London, Southampton, Soton, De Montfort), Germany (MLU Tübingen, HZG, DLR, Geomar, Chalmers, LMU Munich), Iceland, Spain, Australia (Geo Drones Australia), New Zealand (Auckland University), Canada (McGill, University of British Columbia UBC), and numerous U.S. institutions.
 - **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County).
-- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, and specialized services.
-- **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency.
+- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, and specialized services. Includes both established contractors and emerging companies.
+- **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency. Several email variations noted for same individuals (institutional vs. personal domains).

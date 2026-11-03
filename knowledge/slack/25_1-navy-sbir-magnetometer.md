@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through October 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy program work with LMUK involvement, and emerging participation in Arctic Edge 2027 (April 19-May 7, Alaska). Recent activity (late October 2026) focuses on PCLT (Payload Containment Launch Tube) integration testing, deployment conops clarification, Arctic Edge 2027 planning, demo strategy refinement, clarification of Phase II development goals vs. demonstration requirements, altitude optimization for S0 drops, and UK RAVEN project kickoff preparation with presentation development.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through November 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy RAVEN program contract finalization and kickoff (November 2026), and Arctic Edge 2027 participation planning (April 19-May 7, Alaska). Recent activity (late October-early November 2026) focuses on PCLT integration testing completion, altitude optimization for S0 drops, UK RAVEN project kickoff presentation finalization, site visit preparation with UK Navy and LMUK, operational security regarding SOCOM program integration, and simulator system preparation for UK delegation visit.
 
 ## Key Decisions
 
@@ -66,19 +66,25 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - S0 drop altitude optimization: Simon (Royal Navy) specified target altitude of <1000ft for drops; Maciej assessed historical data (last 10 S0 drops ranged 1200'-2000') and identified achievable tightening through minimal design changes: sequence speed-up and removal of S0 tube ballast (October 29, 2026)
 - UK RAVEN project channel management: Decided to keep all UK Royal Navy/LMUK RAVEN project communications within #25_1-navy-sbir-magnetometer channel rather than creating separate channel (October 29, 2026)
 
+**November 2026:**
+- SOCOM program confidentiality: Decision to avoid connecting SOCOM program variants in discussions with UK Navy and LMUK partners; present parallel payload development as work for "another customer" with intentional vagueness regarding specific variant development (November 2, 2026)
+- UK RAVEN kickoff presentation scope: Alternate payloads section kept minimal (one slide) for brief marketing awareness rather than extensive technical disclosure (November 2, 2026)
+- Google Slides format adoption: Converted UK RAVEN presentation from PowerPoint to Google Slides format for easier collaborative editing and content integration from multiple sources (November 2, 2026)
+- Google Slides template best practice: Future slide imports should use "use styles in this presentation" option to maintain theme master slides and allow theme-wide formatting updates (November 3, 2026) - lesson learned from formatting issues during presentation finalization
+
 ## Projects & Initiatives
 
 **Navy SBIR Magnetometer Program (Primary)**
-- **Status:** Option period underway; Phase II funding pending (as of October 2026)
+- **Status:** Option period underway; Phase II funding pending (as of November 2026)
 - **Phase I:** Completed (concluded October 2025)
-- **Option Period:** Active focus on TCE event preparation and demonstration (Camp Pendleton, September 14-24, 2026); transitioning to PCLT integration validation and altitude optimization
+- **Option Period:** Active focus on TCE event completion (Camp Pendleton, September 14-24, 2026); transitioned through PCLT integration validation and altitude optimization; now transitioning to Phase II planning with accelerated timeline if funding approved by January 2027
 - **Phase II:** Proposed; if funded from January 2027 kickoff, schedule calls for drop article readiness by April-May 2027
 - **Key Deliverables:** 
   - Reusable S0-MAD flight article with Bartington and QuSpin magnetometers
   - Launch/recovery systems (manual hand-throw from UH-60 primary; PCLT tube-launched system validated for deployment)
   - Magnetic anomaly detection capability demonstration
   - Custom PCB for isolated power supply and 24-bit ADC for sensor integration
-- **Recent Focus (October 30, 2026):** Finalization of UK RAVEN project kickoff presentation with plot updates from Option Final Presentation; continued refinement of altitude optimization requirements
+- **Recent Focus (November 2-3, 2026):** UK RAVEN kickoff presentation finalization; simulator system preparation; site visit logistics and agenda finalization for incoming UK delegation
 
 **Arctic Edge 2027 Participation** (Emerging)
 - **Dates:** April 19-May 7, 2027, Alaska
@@ -86,35 +92,50 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - **Relationship to Phase II:** Potential demonstration opportunity if Phase II funding approved
 - **Connection to PCLT Testing:** Recent PCLT validation testing supports readiness for Arctic Edge deployment scenarios
 
-**UK Navy RAVEN Program (with LMUK)** (Newly Active)
-- **Status:** Contract execution imminent; commercial approval received October 25, 2026; transitioning to formal contracting phase; kickoff presentation preparation active as of October 30, 2026
-- **Participants:** Lockheed Martin UK (LMUK), Simon (Royal Navy contact), Dan Prendergast, Beck Cotter, Maciej, Jack Elston
-- **Technical Requirements:** Altitude specification <1000ft for drops (per Simon, October 29, 2026)
+**UK Navy RAVEN Program (with LMUK)** (Active Execution Phase)
+- **Status:** Commercial approval received October 25, 2026; contract moving to formal execution phase; kickoff presentation finalized November 2-3, 2026; site visit with UK Navy and LMUK delegation imminent (week of November 2-6, 2026)
+- **Participants:** Lockheed Martin UK (LMUK), Simon (Royal Navy contact), Dan Prendergast (program coordination), Beck Cotter (logistics), Jack Elston (comms & spectrum lead), Spencer Hoehl (simulator and flight safety lead), Maciej, and BST team
+- **Technical Requirements:** 
+  - Altitude specification <1000ft for drops (per Simon, October 29, 2026)
+  - Payload development variants (with SOCOM integration intentionally undisclosed to UK partners)
 - **Key Milestones:** 
   - Commercial approval achieved (October 25, 2026)
-  - Site visit agenda preparation underway
-  - Project kickoff slides initiated by Dan Prendergast (October 29, 2026); content pulled from various existing decks and conversations; Maciej updating plots with references from Option Final Presentation (October 30, 2026)
+  - Kickoff presentation finalized (November 2-3, 2026)
+  - Site visit agenda finalized (November 2, 2026); updated content on slides 2 and 32 of RAVEN presentation
+  - Jack Elston: Lead Wed 10-12 discussions on comms & spectrum, Merlin integration
+  - Spencer Hoehl: Simulator startup tomorrow (November 3) at 15:00; Wed 13:00 discussion on flight safety and certifications
+  - Simulator system ready for demonstration to UK delegation
 - **Channel Management:** All communications consolidated within #25_1-navy-sbir-magnetometer (decision made October 29, 2026)
+- **Presentation Status:** 
+  - Final link: https://docs.google.com/presentation/d/1l6kDsTF_w8hIT3s5Tkwm7f4RUz7jGJpOGz3ZOTg6dd4/edit?slide=id.h444cf934131a2cee_1_42
+  - Converted to Google Slides format (November 2, 2026) from PowerPoint for collaborative editing
+  - Alternate payloads section: One slide intentionally minimal (marketing awareness only)
+  - Phase I and Phase II sections updated with content from Option Final Presentation
+  - Formatting refinements completed (November 3, 2026) to address text overlap and theme consistency issues
 - **Next Steps:** 
-  - Finalization and distribution of UK RAVEN kickoff presentation
-  - LMUK to provide input on site visit agenda
-  - Site visit execution planning
+  - Site visit execution (week of November 2-6, 2026)
+  - Comms & spectrum discussion (Wed 10-12)
+  - Flight safety and certifications discussion (Wed 13:00)
+  - Merlin integration discussion (Wed, Jack Elston lead)
+  - Alternate payloads discussion (Dan Prendergast leading; intentionally vague on SOCOM variants)
 
 ## Action Items & Commitments
 
-**Immediate/Active (October 30, 2026):**
-- UK RAVEN kickoff presentation: Maciej updating plots with references from Option Final Presentation (link: https://docs.google.com/presentation/d/1fq-zhaRyCQSqUoThZKvihDjNq4s0x5pTRlL1D0Ku5OM/edit?slide=id.g96f86c98aa_3_0); Jack Elston and team members contributed initial content from various decks and conversations (October 30, 2026)
-- S0 drop altitude optimization: Maciej continuing development of design modifications to achieve <1000ft target altitude; validate sequence speed-up and ballast removal approaches (linked to Simon's requirements)
-- Site visit agenda finalization: Dan Prendergast incorporating comments and distributing to LMUK for input
-
-**Pending/Open Items:**
-- Phase II Schedule Planning: Maciej to develop detailed work plan addressing gaps from Option period, including potential accelerated timeline adjustments if January 2027 funding approved
-- LMUK input on next week's discussion topics: Open line to Simon if LMUK hasn't provided input
+**Immediate/In Progress (November 2-3, 2026):**
+- Spencer Hoehl: Prepare to start up sim system in main conference room November 3 at 15:00 (3pm) for UK delegation visit (November 2, 2026)
+- Jack Elston: Lead comms & spectrum and Merlin integration discussions Wed 10-12 with UK Navy/LMUK (November 2, 2026)
+- Spencer Hoehl: Participate in flight safety and certifications discussion Wed 13:00 with UK delegation (November 2, 2026)
+- Dan Prendergast: Conduct alternate payloads discussion (one slide, intentionally brief marketing overview; avoid specific SOCOM variant connection) (November 2, 2026)
+- Beck Cotter: Continue coordinating breakfasts and lunches for UK visit week (November 2, 2026 - acknowledged with thanks)
+- Maciej: UK RAVEN presentation finalization (November 2-3, 2026); content integration and plot updates from Option Final Presentation completed; formatting issues resolved
+- Site visit agenda finalization: Distributed to LMUK for input and feedback (November 2, 2026)
 
 **Earlier Commitments (Status Unknown/Ongoing):**
 - Sam Hild: Deployment tube checklist update and approval (June 5, 2026)
 - Maciej: QuSpin power supply testing for noise reduction verification (June 12, 2026)
 - QuSpin firmware status: Sensor sent to manufacturer for firmware update and QC check (July 2026)
+- S0 drop altitude optimization: Maciej continuing development of design modifications to achieve <1000ft target altitude; validate sequence speed-up and ballast removal approaches (linked to Simon's requirements)
+- Phase II Schedule Planning: Maciej to develop detailed work plan addressing gaps from Option period, including potential accelerated timeline adjustments if January 2027 funding approved
 
 ## Client & External References
 
@@ -130,8 +151,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Ultra Maritime (Paul): Phase II subcontractor (selected January 2026)
 
 **International Partners - UK RAVEN Program**
-- Royal Navy: Simon (contact; commercials approval received October 25, 2026; contract finalization imminent; specified <1000ft altitude requirement for drops)
-- Lockheed Martin UK (LMUK): UK Navy program collaboration; on contract execution path; expected to provide input on site visit agenda and project planning
+- Royal Navy: Simon (contact; commercials approval received October 25, 2026; specified <1000ft altitude requirement for drops; participating in site visit week of November 2-6, 2026)
+- Lockheed Martin UK (LMUK): UK Navy program collaboration; on contract execution path; participating in site visit (week of November 2-6, 2026) with scheduled discussions on comms, spectrum, Merlin integration, and flight safety/certifications
 
 **Research & Testing Partners**
 - Ocean Observatories Initiative (OOI): Potential cost-sharing for ocean validation testing
@@ -139,7 +160,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **External Consultants & Operational Contacts**
 - Eric Correa: Technical consultant (on leave after June 4, 2026; availability for follow-up questions flagged)
-- Dan Prendergast: External contact serving as coordinator for LMUK engagement, site visit logistics, and UK RAVEN project kickoff presentation development (actively pulling together presentation content and driving finalization)
+- Dan Prendergast: External contact serving as primary coordinator for LMUK engagement, site visit logistics, presentation finalization, and UK RAVEN project leadership; driving SOCOM confidentiality strategy and operational messaging (November 2, 2026)
 
 **Other References**
 - Joshua Fromm: Participated in recent PCLT testing; documented Navy procedures and technical specifications from testing
@@ -156,24 +177,39 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 5. **Schedule & Funding Contingency Planning**: Tracking of project phases, funding status, and contingency planning for accelerated timelines if Phase II funding approved
 
-6. **Demonstration Events & Operational Integration**: Multi-stage demonstration strategy involving TCE event (September 2026), Arctic Edge 2027 (April-May 2027), ongoing PCLT integration validation for Navy, and UK RAVEN program execution
+6. **Demonstration Events & Operational Integration**: Multi-stage demonstration strategy involving TCE event (September 2026 - completed), Arctic Edge 2027 (April-May 2027), ongoing PCLT integration validation for Navy, and UK RAVEN program execution
 
 7. **Budget & Resource Reallocation**: Active management of subcontractor funds (CRT, Cetacean) and reallocation to high-priority areas (TCE demo preparation, launcher development, travel)
 
-8. **International Collaboration & Contract Execution**: UK Navy program (RAVEN) contract negotiations with LMUK and Royal Navy (Simon); tracking of commercial approvals and contracting timelines; imminent transition to active program execution; presentation materials coordination and finalization
+8. **International Collaboration & Contract Execution**: UK Navy program (RAVEN) contract negotiations with LMUK and Royal Navy (Simon); tracking of commercial approvals and contracting timelines; active transition to program execution phase; presentation materials coordination and finalization; site visit logistics
 
 9. **Aircraft Launch/Recovery Constraints**: Technical considerations for different launch platforms (UH-60 hand-throw, horizontal tube launch, altitude/velocity effects on aircraft aerodynamics and separation dynamics)
 
-10. **Presentation & Documentation Development**: Active creation and refinement of project presentation materials (UK RAVEN kickoff slides, reference to Option Final Presentation) incorporating data and plots from multiple sources
+10. **Presentation & Documentation Development**: Active creation and refinement of project presentation materials (UK RAVEN kickoff slides, reference to Option Final Presentation) incorporating data and plots from multiple sources; technical challenges with format conversion and slide style management
+
+11. **Operational Security & Program Confidentiality**: Managing disclosure of parallel payload development (SOCOM variants) in discussions with international partners; strategic messaging around "other customers" and intentional vagueness regarding specific variant development
+
+12. **Simulator System Readiness**: Preparation and demonstration of simulation capabilities to UK delegation for technical discussions and system demonstration
 
 ## Important Resources
 
 **Documentation:**
-- UK RAVEN project kickoff slides: In development by Dan Prendergast with contributions from Jack Elston and team; Maciej updating plots with reference data (as of October 30, 2026)
-  - Link: https://docs.google.com/presentation/d/1yNPub8qok-axloGkfnruGdBizmT7ZGmZ/edit?slide=id.h62ef3b0d4bc15e60_0_501#slide=id.h62ef3b0d4bc15e60_0_501
+- UK RAVEN project kickoff presentation (FINAL):
+  - Link: https://docs.google.com/presentation/d/1l6kDsTF_w8hIT3s5Tkwm7f4RUz7jGJpOGz3ZOTg6dd4/edit?slide=id.h444cf934131a2cee_1_42
+  - Converted from PowerPoint to Google Slides format (November 2, 2026)
+  - Content consolidated from Jack Elston's initial draft and multiple existing decks
+  - Site visit agenda on slides 2 and 32 (updated November 2, 2026)
+  - Phase I and Phase II sections updated with content from Option Final Presentation
+  - Formatting refinements completed November 3, 2026 (text overlap, theme consistency)
+  - Alternate payloads section: One slide (intentional marketing overview, SOCOM variants not disclosed)
+  
 - Option Final Presentation: Reference source for S0 drop performance plots and technical data
-  - Link: https://docs.google.com/presentation/d/1fq-zhaRyCQSqUoThZKvihDjNq4s0x5pTRlL1D0Ku5OM/edit?slide=id.g96f86c98aa_3_0#slide=id.g96f86c98aa_3_0
-- Site visit agenda: In preparation, incorporating comments from Maciej; to be distributed to LMUK for input
+  - Link: https://docs.google.com/presentation/d/1fq-zhaRyCQSqUoThZKvihDjNq4s0x5pTRlL1D0Ku5OM/edit?slide=id.g96f86c98aa_3_0
+
+- Site visit agenda: Finalized November 2, 2026; distributed to LMUK for input
+  - Wednesday schedule confirmed:
+    - 10:00-12:00: Jack Elston - Comms & spectrum and Merlin integration
+    - 13:00: Spencer Hoehl - Flight safety and certifications
 
 **Technical Specifications:**
 - Bartington sensor: UAS Mag PC298, 105 µT range
@@ -183,6 +219,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Bartington power supply requirement: <1mV ripple
 - PCLT operational configuration: Fiberglass tube (no EMI paint in fleet aircraft); communications verified functional within enclosure
 - S0 drop altitude: Historical range 1200'-2000'; target <1000ft for UK RAVEN program (October 29, 2026)
+- Altitude optimization feasibility: Achievable through sequence speed-up and ballast removal with minimal design changes (October 29, 2026)
 
 **Procurement:**
 - Launcher parts: Approved $1.3K order from McMaster (June 22, 2026)
@@ -191,33 +228,49 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - PCLT testing completed (October 25-28, 2026): Communications verified functional; deployment conops validated with Navy; EMI considerations confirmed
 - S0 drop altitude assessment: Historical performance data reviewed; design modification feasibility assessed (sequence speed-up, ballast removal) (October 29, 2026)
 
+**Simulator & Demonstration:**
+- Main conference room simulator system: Ready for November 3, 15:00 startup for UK delegation demonstration (Spencer Hoehl to operate)
+
+**Technical Best Practices:**
+- Google Slides import lesson: Use "use styles in this presentation" option when copying slides to maintain theme master slides and allow theme-wide formatting updates (lesson learned November 3, 2026 from formatting issues in RAVEN presentation conversion)
+
 ## Recent Activity
 
-**October 30, 2026 - UK RAVEN Kickoff Presentation Development:**
+**November 3, 2026 - UK RAVEN Presentation Finalization & Site Visit Preparation:**
 
-Jack Elston and Maciej coordinated on UK RAVEN project kickoff presentation preparation (October 30, 2026):
-- Jack Elston pulled together initial content from various existing decks and conversations as a starting point for the slides
-- Maciej indicated he may update plots in the presentation with references from the Option Final Presentation to ensure consistency and data quality
-- This activity reflects active transition from contract finalization toward substantive project execution planning
-- Presentation materials building on cumulative project experience and technical data from Navy SBIR program
+Jack Elston completed extensive formatting corrections to UK RAVEN presentation following conversion from PowerPoint to Google Slides (November 3, 2026):
+- Identified significant formatting issues: overlapping text, invisible black text on dark background
+- Corrected text visibility and layout problems throughout presentation
+- Resolved theme master slide consistency issues
+- Identified best practice for future slide imports: use "use styles in this presentation" option to preserve theme formatting and enable theme-wide updates
+- Presentation now ready for site visit (November 3-6, 2026)
 
-**October 29, 2026 - S0 Drop Altitude Optimization & UK RAVEN Project Consolidation (Summary):**
+**November 2-3, 2026 - UK RAVEN Site Visit Logistics & Agenda Finalization:**
 
-**S0 Drop Altitude Tightening (Maciej, Jack Elston, Simon):**
-- Simon's requirement: Altitude specification of <1000ft for drops
-- Historical performance review: Last 10 S0 drops ranged 1200'-2000'
-- Feasibility assessment: Maciej determined tightening is achievable with minimal redesign through:
-  - Sequence speed-up (accelerated deployment sequence timing)
-  - Removal of S0 tube ballast
-  - Example worst-case drop plot provided as reference for design modifications
-- Design constraints identified by Jack Elston requiring careful attention:
-  - Safe separation from host aircraft before parachute deployment
-  - Horizontal flow interference prevention (belly launch flow dynamics on P3 aircraft; flow can push lightly-loaded payloads into horizontal stabilizer)
-  - Tube deceleration maximization and velocity direction change (switching from horizontal to vertical velocity orientation before S0 release to enable clean separation)
-  - Aircraft navigation estimate convergence timing before parachute release (aircraft must have accurate position estimate before being released from payload)
+Dan Prendergast coordinated final preparations for UK Navy and LMUK site visit (November 2-3, 2026):
+- Confirmed simulator system startup time (November 3, 15:00, Spencer Hoehl responsible)
+- Finalized visit agenda with schedule updates on presentation slides 2 and 32
+- Wednesday detailed schedule confirmed:
+  - 10:00-12:00: Jack Elston leading comms & spectrum and Merlin integration discussions
+  - 13:00: Spencer Hoehl leading flight safety and certifications discussion
+- Site visit agenda distributed to LMUK for final input and feedback
+- Beck Cotter coordinating logistics (meals/breakfasts/lunches) for visit week
 
-**UK RAVEN Project Consolidation:**
-- Channel consolidation: Decision made to keep UK RAVEN communications within #25_1-navy-sbir-magnetometer rather than creating separate dedicated channel
-- Commercial status confirmed: Simon's commercial approval received October 25, 2026; contract moving to formal execution phase
-- Site visit agenda preparation continuing with plan to distribute to LMUK for input
-- Project kickoff presentation development initiated by Dan Prendergast; content pulled from various existing decks and conversations
+**November 2, 2026 - SOCOM Program Confidentiality Strategy:**
+
+Dan Prendergast established operational security guidelines for site visit discussions with UK Navy and LMUK (November 2, 2026):
+- Decision to avoid connecting SOCOM program variants in discussions with UK partners
+- Alternative payload development to be presented generically as work for "another customer" with intentional vagueness
+- Rationale: UK Navy and Lockheed partners expected to understand intentional discretion and not press further
+- Alternate payloads section limited to one slide (marketing awareness only, no technical depth)
+- Channel-wide notification to all team members regarding messaging discipline (November 2, 2026)
+
+**November 2, 2026 - UK RAVEN Presentation Format Conversion & Content Integration:**
+
+Maciej converted UK RAVEN kickoff presentation from PowerPoint to Google Slides format (November 2, 2026):
+- Rationale: Simplified collaborative editing and content integration from multiple existing decks
+- Pulled content from multiple sources including Option Final Presentation
+- Updated plots and data with references from Option Final Presentation for consistency
+- Flagged that alternate payloads section contained only one slide; confirmed with Dan Prendergast that single slide was appropriate for marketing awareness purposes
+- Identified that Dan Prendergast had made additional edits after format conversion; coordinated to preserve edits
+- Final presentation link: https://docs.google.com/presentation/d/1l6kDsTF_w8hIT3s5Tkwm7f4RUz7jGJpOGz3ZOTg6dd4/edit?slide=id.h444cf934131a2cee_1_42
