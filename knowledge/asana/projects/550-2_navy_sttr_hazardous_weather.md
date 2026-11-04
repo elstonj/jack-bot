@@ -1,43 +1,51 @@
-_Asana snapshot as of 2026-11-02: 7 open tasks, 3 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 7 open tasks, 3 completed (last 90 days)._
 
 # Navy STTR: Hazardous Weather [550-2]
 
 ## Overview
-- **Client/Customer:** Department of the Navy (Office of Naval Research)
-- **Primary Contact:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
-- **Dollar Value:** $146,326 total budget; $138,494 to Black Swift; $66,290 to subcontractors
+- **Client/Customer:** U.S. Department of the Navy (Office of Naval Research)
+- **Contact:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
+- **Total Budget:** $146,326 (BST funding: $138,494)
+- **Subcontractors:** Embry-Riddle Aeronautical University (Josh Wadler), Old Dominion University (John Park), University of Miami (Jun Zhang — funded through ERAU)
 - **Timeline:** 
   - Base Period: 7/7/2025 – 1/6/2026 (completed)
   - Option Period: 1/7/2026 – 7/6/2026
-  - Project Due: 9/1/2026
-- **Status:** Active (Option Period in progress)
-- **Team:** Maciej Stachura (owner); whole BST team engaged
-- **Subcontractors:** 
-  - Embry-Riddle Aeronautical University (Josh Wadler, wadlerj@erau.edu) — Contracting Officer: Garrett Filson (filsong@erau.edu)
-  - Old Dominion University (John Park, h1park@odu.edu) — Contracting Officer: Stephanie Haskell (sl2harri@odu.edu)
-  - University of Miami (Jun Zhang, jun.zhang@earth.miami.edu) — funded through ERAU subcontract
-
-## Objective
-Refine the S0 platform through targeted R&D and demonstrate its utility for operational Navy use in hazardous weather scenarios.
+  - Project due: 9/1/2026
+- **Status:** ACTIVE — Base period complete; Option period in progress
+- **Owner:** Maciej Stachura
+- **Team:** Whole BST team involved
 
 ## Key Deliverables & Milestones
-- **CLIN 1007 Invoice** ($14,446) — Due 9/1/2026 (submitted via WAWF system; completed 9/1/2026)
-- **OPTION CLIN0007: Final Report** — Due 9/1/2026 (completed 9/1/2026)
-- **Pioneer Array Flight** — Due 7/28/2026 (completed 9/9/2026)
+- **Pioneer Array Flight** — Completed 9/9/2026 (assigned: Alex Lomis)
+- **CLIN 1007 Invoice ($14,446)** — Submitted 9/1/2026 (via WAWF; processor: Meredith O'Hara Needham)
+- **Option CLIN 0007: Final Report** — Completed 9/1/2026 (owner: Maciej Stachura)
+- **Project completion:** 9/1/2026 (Option period runs through 7/6/2026, but final reports due 9/1)
 
 ## Task Summary
-- **Total Tasks:** 10 (7 open, 3 completed)
-- **Open Tasks:** Primarily contact/stakeholder records for subcontractors and Navy TPOC; no assigned work items with due dates currently tracked in open list
-- **Completed Tasks:** 3 (Pioneer Array Flight, invoice submission, final report)
-- **Completion Rate:** 30% overall
+- **Total tasks:** 10 (3 completed, 7 open)
+- **Completed:** 3 (Pioneer Array Flight, CLIN 1007 invoice, Option CLIN 0007 Final Report)
+- **Open tasks:** 7 — These are primarily administrative contact records for subcontractors and Navy TPOC (Joshua Cosseth, Josh Wadler, John Park, Jun Zhang). None have due dates; appear to be reference/contact management entries rather than active work items.
+- **Assignee patterns:** Most contacts unassigned; completed work shows Maciej Stachura (project owner), Alex Lomis, and Meredith O'Hara Needham active.
 
 ## Recent Activity
-- **9/1/2026:** Final Report (OPTION CLIN0007) and invoice (CLIN 1007) both completed on schedule
-- **9/9/2026:** Pioneer Array Flight completed (8 days after deadline)
-- **Current Status:** Option Period appears to be wrapping up; final report already submitted as of 9/1/2026
+- **9/9/2026:** Pioneer Array Flight completed (Alex Lomis)
+- **9/1/2026:** Final reporting completed — Option CLIN 0007 Final Report and CLIN 1007 invoice both submitted on schedule
+- Project appears to be wrapping up or in final admin phase; no new technical tasks in pipeline
 
 ## Notes & Context
-- **Billing:** Invoices processed through Wide Area Workflow (WAWF system); see embedded Google Doc for submission instructions
-- **Subcontractor Structure:** Jun Zhang's funding flows through ERAU (BST → ERAU → U Miami), requiring all three entities' coordination
-- **Key Contacts:** Joshua Cosseth (Navy), Josh Wadler (ERAU), John Park (ODU), Jun Zhang (U Miami)
-- **Base Period Status:** Successfully completed 1/6/2026; project transitioned to Option Period (1/7/2026 – 7/6/2026)
+- **Subcontractor structure:** BST is prime; ERAU is primary subcontractor, with ERAU subcontracting portions to U Miami (Jun Zhang)
+- **Billing:** Invoices submitted through Wide Area Workflow (WAWF); see linked instructions
+- **Contracting officers:** Garrett Filson (ERAU pre-award), Stephanie Haskell (ODU pre-award)
+- **Jun Zhang funding note:** Flows through ERAU sub agreement, not directly from Navy
+- **Project objective:** Targeted R&D to refine S0 platform for operational Navy use, focusing on hazardous weather applications
+- **Status update last recorded:** February 13, 2026 (marked green/on-track at that time)
+
+---
+
+## ⚠️ Related Strategic Context (from Team Feedback)
+**Daniel Prendergast flagged ECCN export classification urgency** (10/7–10/8/2026): Three platforms need Export Classification Number (ECCN) requests submitted soon to avoid delaying pending Canada project and **Lockheed Martin UK/Royal Navy project (Project RAVEN)**, specifically:
+1. S3 with gimballed EO/IR camera
+2. S0-AD with fixed EO/IR camera  
+3. S0-AD with magnetometer
+
+Magnetometer integration may require coordination with US Navy Program Office. No applications drafted yet. *Note: This Navy STTR project focuses on S0 platform; ECCN needs may relate to derivative/export variants.*

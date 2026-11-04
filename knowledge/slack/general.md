@@ -61,20 +61,15 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Professional Cleaning Service** (October 30, 2026): Meredith Needham reminded team that cleaners coming this weekend; team members asked to leave notes if they don't want cleaners touching their desks to prevent disturbance of personal workspace organization.
 - **New Hire Orientation Meeting** (Scheduled post-October 30, 2026): Meredith Needham scheduled quick meeting for all new hires right after All Hands on Monday to cover general processes (purchasing, timekeeping, calendars) and technology usage. Invites sent to recently hired team members.
 - **UK Royal Navy Facility Visit** (November 3, 2026): Royal Navy delegation scheduled to visit BST office; facility preparation required including shop tour, desk/space organization, and conference room/kitchen readiness. Maciej delegating specific preparation tasks to team members on November 2, 2026 for imminent November 3 visit.
+- **Royal Navy Visit Execution & Team Coordination** (November 3, 2026): Royal Navy delegation visited BST on November 3, 2026. Bagels and donuts provided (ordered by team member thanked by Meredith Needham). Bob Edson worked on production shop tools and setup during visit but had to leave around 1:00pm for doctor appointment. Meredith Needham had to pick up medication for her pet Trixie before vet closure. Ethan Domagala praised team member for showcasing simulator setup to visitors. Visit proceeded successfully with facility tour and discussions.
 
 ## Action Items & Commitments
 
-### Time-Sensitive (November 2-3, 2026)
-- **UK Royal Navy Facility Preparation** (November 3, 2026 visit): Maciej delegated three preparation tasks on November 2, 2026:
-  - Shop and factory readiness for tour (assigned to specific team member)
-  - Desk and office space cleanliness verification (assigned to specific team member)
-  - Conference room and kitchen preparation where visitors will spend most time (assigned to specific team member)
-- **Navy Phase 1 and 2 Presentation Slides**: Maciej committed to finishing updated slidedeck tonight (November 2, 2026) with more current information for Royal Navy Phase 1 and 2 discussions
+### Time-Sensitive
 - **Josh Waldman's Daughter Willow Office Visit** (Friday, November 6, 2026): Josh Waldman will bring his daughter Willow to office for her annual checkup appointment; Josh needs to leave around 4pm
 
 ### Ongoing
 - **Trash/Recycling Pickup Coordination**: Meredith Needham notified team of scheduled trash/recycling pickup on Monday, November 2, 2026 (continuation of regular facility management)
-- **New Hire Orientation Preparation**: Meredith Needham coordinating orientation meeting for all new hires (Lynn Regnier, Brandon Messersmit, Bob Edson) to be held right after All Hands meeting; agenda includes purchasing, timekeeping, calendars, and technology usage
 - **Desk Organization for Cleaning**: Team members to leave notes for professional cleaners this weekend if they don't want desks touched
 - **Eco-Friendly Supply Sourcing**: All team members requested to choose eco-friendly options when requesting supplies; prioritize paper-based tape and biodegradable materials
 - **Reusable Materials Storage Organization**: Joshua Fromm to work with team to designate storage space for reusable packing materials (boxes, fill, padding) separate from trash to avoid confusion
@@ -85,22 +80,23 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **KrateoSky**: Partnership and integration meetings ongoing; multi-location milestone celebration event held June 18-19, 2026
 - **DoD Customers**: SOCOM and 53rd Weather Squadron engaged for S0-AD demonstrations and mission requirements definition
 - **Camp Pendleton**: S0 demonstration scheduled requiring Part 107 pilot documentation
-- **Royal Navy**: Delegation visiting BST Boulder facility on November 3, 2026 for full facility tour and Phase 1 & 2 mission discussions; facility coordination underway
+- **Royal Navy**: Delegation visited BST Boulder facility on November 3, 2026 for full facility tour and Phase 1 & 2 mission discussions; successful visit with simulator setup showcase and facility preparation
 - **Chad Atwood**: External contact providing healthcare provider feedback request
 - **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
 - **Eldora Ski Resort**: Providing 4-pass ski tickets to BST team members
 - **Werks Restaurant**: Team dining venue in Boulder for Halloween event (October 30, 2026)
 
 ## Recurring Topics & Themes
-- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics; imminent Royal Navy delegation visit requiring facility coordination
+- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics; Royal Navy delegation visit successfully executed with facility coordination
 - **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination
-- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination; facility preparation for important visitor events
+- **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination; facility preparation for important visitor events; successful visitor event coordination
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026); team members bringing family members/pets to office for appointments
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026; Bob Edson doctor appointment November 3, 2026); team members bringing family members/pets to office for appointments
 - **Team Perks & Social Activities**: Eldora ski passes, team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals
 - **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference (Jack confirmed using Gemini for image/media creation); safety policies around code generation; practical AI assistant templates for UAS technician workflows
 - **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials; Gemini usage for creative tasks to manage Claude API costs
-- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs
+- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs; pet care responsibilities (Meredith's pet Trixie vet medication pickup)
+- **Visitor Preparedness & Facility Showcasing**: Demonstration of company capabilities to external partners (simulator setup showcase appreciated by visiting Royal Navy delegation); team coordination in presenting best impression of facilities and technical capabilities
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -116,27 +112,32 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Recent Activity
 
+### November 3, 2026
+
+**UK Royal Navy Facility Visit - Successful Execution**
+- Royal Navy delegation visited BST Boulder facility on November 3, 2026 for previously scheduled facility tour and Phase 1 & 2 mission discussions
+- Meredith Needham thanked team member for ordering bagels and donuts for visitor refreshments (15:41)
+- Bob Edson (Principal UAS Technician) worked on production shop tools and setup during the visit but had to depart around 1:00pm for a doctor appointment (09:10). Indicates coordination of personal medical needs with significant visiting delegation present; demonstrates flexible accommodation of health-related needs while managing important business obligations
+- Meredith Needham had to pick up medication for her pet Trixie before vet clinic closure and indicated she would be back online once home (15:42). Shows workplace flexibility for personal pet care responsibilities during important business events
+- Ethan Domagala gave credit to team member for showcasing the simulator setup to Royal Navy visitors (16:33). Indicates successful demonstration of company's technical capabilities; simulator presentation was well-received and highlighted by team member
+
+**Key Takeaway**: Royal Navy visit proceeded successfully with professional facility presentation, appropriate hospitality provisions, and effective team coordination despite concurrent personal medical/pet care needs. The team managed to present company capabilities (simulator setup) while accommodating individual health and pet care requirements, demonstrating workplace culture that supports work-life balance even during high-profile visits.
+
 ### November 2, 2026
 
-**UK Royal Navy Facility Visit Preparation** (Imminent: November 3, 2026)
+**UK Royal Navy Facility Visit Preparation** (Successfully Completed)
 - Maciej announced urgent preparation coordination for Royal Navy delegation visit on November 3 with specific task delegation:
   - Shop and factory readiness verification assigned to team member
   - Desk and office space cleanliness check assigned to team member
   - Conference room and kitchen preparation assigned to team member (primary visitor areas)
-- Maciej committed to finishing updated Navy Phase 1 and 2 slidedeck tonight with current information for mission discussions
+- Maciej committed to finishing updated Navy Phase 1 and 2 slidedeck that evening with current information for mission discussions
 - Context indicates Royal Navy strategic partnership discussions related to platform capabilities
-
-**Josh Waldman Family Accommodation**
-- Josh Waldman (new hire from October 7, 2026) notified team he will bring his daughter Willow to office on Friday (November 6, 2026) for her annual checkup appointment; will need to leave around 4pm
-- Demonstrates family-friendly workplace culture accommodating personal/medical appointments
-
-**Facility Management**
-- Meredith Needham notified team of scheduled trash/recycling pickup on November 2, 2026 (ongoing facility operations management)
+- **Status**: All preparation tasks successfully completed for November 3 visit
 
 ### November 1, 2026
 
 **Employee Health & Work-From-Home Notification**
-- Alex Lomis reported (17:05) being under the weather over the weekend and swung by the office to pick up laptop for work-from-home on Monday (November 2, 2026). Indicates team members maintaining productivity while managing illness through flexible WFH arrangements.
+- Alex Lomis reported being under the weather over the weekend and picked up laptop from office for work-from-home on Monday (November 2, 2026). Indicates team members maintaining productivity while managing illness through flexible WFH arrangements.
 
 ### October 30, 2026
 

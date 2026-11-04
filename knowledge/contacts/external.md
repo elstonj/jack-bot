@@ -432,8 +432,7 @@
 ### Universities — Multi-Institution Academic Network
 - **Relationship context**: Research collaborations, student recruitment, conference participation
 - **Key universities**: MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
-- **New contacts (from latest data import)**:
-  - **International Academic Partners**: Chalmers University (Sweden), Technical University Munich (Germany), Helmholtz Association (Germany), GEOMAR (Germany), University of Surrey (UK), Manchester Metropolitan University (UK), Queen Mary University of London (UK), University of Southampton (UK), University of Iceland, University of Auckland (New Zealand), and others across Australia, Canada, and additional US institutions
+- **International Academic Partners**: Chalmers University (Sweden), Technical University Munich (Germany), Helmholtz Association (Germany), GEOMAR (Germany), University of Surrey (UK), Manchester Metropolitan University (UK), Queen Mary University of London (UK), University of Southampton (UK), University of Iceland, University of Auckland (New Zealand), and others across Australia, Canada, and additional US institutions
 
 ### Electronics/PCB Manufacturing & Assembly
 - **Relationship context**: Vendors for circuit board manufacturing and assembly
@@ -737,7 +736,7 @@
 2. **NOAA** — 130+ direct contacts across divisions
 3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, international institutions, etc.)
 4. **Internal BST** — 25+ team members and operations contacts
-5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, etc.)
+5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, SSA PCB, etc.)
 6. **Financial/Business Services** — 60+ contacts (Wells Fargo, US Bank, Paychex, etc.)
 7. **UAS/Drone Companies** — 40+ contacts (Juniper Unmanned, NV Drones, Vision Air, Alerion Tech, etc.)
 8. **Unnamed/Unknown Organization** — 7,900+ email addresses (external vendors, consultants, media, service providers)
@@ -770,17 +769,20 @@
 
 - **Startup & Venture Networks**: Growing connections to accelerators (Gener8tor, Capital Factory, MassChallenge) and startup communities suggest business development and funding diversification efforts.
 
+- **International Collaboration**: Significant new contacts from universities and research institutions across Germany (LMU Munich, GEOMAR, HZG, DLR, Helmholtz), UK (multiple universities), Sweden (Chalmers), Iceland, Spain, Australia, New Zealand, and Canada.
+
 ---
 
 ## Data Quality Notes
 
 - **Unnamed Entries**: 7,900+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
-- **Data Merge**: Latest data import consolidates 8,575 new contacts with previous records, maintaining all historical information while adding 500+ net new leads.
+- **Data Merge**: Latest data import consolidates 8,575+ new contacts with previous records, maintaining all historical information while adding significant new leads.
 - **New Contacts (Latest Import)**: International academic partnerships expanded significantly (Germany, UK, Sweden, Iceland, New Zealand, Australia, Canada); new UAS company partnerships added; additional government and venture capital contacts included.
 - **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations and aliases.
-- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses).
-- **Automated/System Contacts**: Some entries represent system notifications (e.g., `mailer-daemon@googlemail.com`, Slack notifications, calendar automation, billing systems).
-- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Queen Mary London, Southampton, Soton, De Montfort), Germany (MLU Tübingen, HZG, DLR, Geomar, Chalmers, LMU Munich), Iceland, Spain, Australia (Geo Drones Australia), New Zealand (Auckland University), Canada (McGill, University of British Columbia UBC), and numerous U.S. institutions.
+- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses; Stacie/Statutura variations).
+- **Automated/System Contacts**: Some entries represent system notifications (e.g., calendar automation, Slack notifications, billing systems, survey/form notifications).
+- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Southampton, Queen Mary London, De Montfort), Germany (MLU Tübingen, HZG, DLR, GEOMAR, LMU Munich, Chalmers), Iceland, Spain, Australia, New Zealand, Canada (McGill, UBC), and numerous U.S. institutions.
 - **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County).
 - **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, and specialized services. Includes both established contractors and emerging companies.
 - **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency. Several email variations noted for same individuals (institutional vs. personal domains).
+- **New International Contacts**: Significant expansion into research partnerships with European institutions, suggesting growing international collaboration or research funding opportunities.

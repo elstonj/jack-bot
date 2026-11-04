@@ -1,42 +1,36 @@
-_Asana snapshot as of 2026-11-02: 2 open tasks, 2 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 2 open tasks, 2 completed (last 90 days)._
 
 # [212-1] S2 Simulator
 
 ## Status
-**ARCHIVED** (Oct 27, 2026 — per Maciej's feedback)
+**ARCHIVED** (as of 2026-10-27 per team feedback from Maciej)
 
-Project was delivered to NASA several weeks before archival request. Only milestone tasks remain in Asana ("Build Sim System" and "Deliver System and Documentation"), which do not reflect actual project completion. System has been delivered and invoiced.
+Project was delivered to NASA Ames several weeks before 2026-10-27. Only invoicing milestones remained in Asana at time of archival.
 
 ## Overview
-- **Client:** NASA Ames (primary contact: Will Wade; copy team: Farina Remo, Hai-Nam Tran)
-- **Original contact:** Isaac Anderson (Chief Aviation Operations Engineer, 650-602-5988, isaac.e.anderson@nasa.gov) — has since moved on from NASA Ames; replaced by Randy Hobbs (r.hobbs@nasa.gov)
-- **Dollar value:** $2,900 (received Aug 22, 2025)
-- **Timeline:** Payment received Aug 2025; system delivered ~late October 2026
-- **Team:** Black Swift Technologies (whole team)
-- **Customer type:** Commercial
+- **Client:** NASA Ames (Point of Contact: Randy Hobbs, r.hobbs@nasa.gov; team: Will Wade, Farina Remo, Hai-Nam Tran)
+- **Original Contact:** Isaac Anderson, Chief Aviation Operations Engineer (isaac.e.anderson@nasa.gov, 650-602-5988) — *has moved on from NASA Ames as of Dec 30, 2025*
+- **Dollar Value:** $2,900 (received 2026-08-22)
+- **Team:** Jack Elston (primary task owner)
+- **Project Type:** Purchasing & configuring S2 Simulator for NASA, including warranty work (flap servo replacement, etc.)
 
 ## Key Deliverables & Milestones
-- **S2 Simulator purchase & delivery** – $2,900
-  - Payment received: Aug 22, 2025
-  - System delivered to NASA Ames: ~late October 2026
-  - Includes warranty work (flap servo replacement on Isaac's personal S2 unit — no additional payment)
-- **Operational Checks** — completed Oct 17, 2026 (Jack Elston)
-- **Load OS/software and configure sim machine** — completed Oct 17, 2026 (Jack Elston)
+- **Build Sim System** — Due 2026-05-06 (status: Open/Delivered)
+- **Deliver System and Documentation** — Due 2026-05-13 (status: Open/Delivered)
+- **Load OS/software and configure sim machine** — Completed 2026-10-17
+- **Operational Checks** — Completed 2026-10-17
 
 ## Task Summary
-- **Total tasks:** 4 (2 open, 2 completed)
-- **Completed (2):** Both by Jack Elston, both completed Oct 17, 2026
-- **Open (2):** Milestone tasks only ("Build Sim System" due May 6, 2026; "Deliver System and Documentation" due May 13, 2026)
-  - ⚠️ These Asana due dates are stale and do not reflect actual delivery (~Oct 2026)
+- **2 open tasks** (both milestones; represent delivery/documentation phases)
+- **2 completed tasks** (configuration and checks completed Oct 17, 2026)
+- **Assignee:** Jack Elston handled all execution tasks
 
 ## Recent Activity
-- **Oct 17, 2026:** Final operational and configuration tasks completed by Jack Elston
-- **Oct 27, 2026:** Maciej confirmed project ready for archival; Asana archive processed per team feedback
-- **Aug 22, 2025:** Payment received ($2,900)
+- System delivered to NASA ~mid-October 2026 (inferred from Oct 17 completion dates and Oct 27 archival feedback)
+- Final milestones left in Asana as tracking only; no active work pending
+- Project archived 2026-10-27 per team directive
 
 ## Notes & Context
-- Project notes indicate Isaac Anderson has moved on from NASA Ames; **new primary contact is Randy Hobbs** (r.hobbs@nasa.gov)
-- Team members to copy on future NASA Ames communications: Will Wade, Farina Remo, Hai-Nam Tran
-- Scope included warranty repair work (flap servo replacement on Isaac's personal S2 unit) with no additional billing
-- Asana milestone due dates (May 2026) are obsolete; actual delivery occurred ~Oct 2026
-- All invoicing complete; no outstanding deliverables
+- Payment of $2,900 received 2026-08-22; work included both billable simulator purchase and non-billable warranty repair work
+- NASA team contact changed from Isaac Anderson to Randy Hobbs; update all correspondence to include Will Wade, Farina Remo, and Hai-Nam Tran
+- Custom fields indicate Commercial customer type; product includes S2 and other components

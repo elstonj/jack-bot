@@ -1,67 +1,47 @@
-_Asana snapshot as of 2026-11-02: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 1 open tasks, 0 completed (last 90 days)._
 
 # [035-1] ADONIS Unmanned Experts
 
+## Status
+**ARCHIVED** — Project completion marked April 10, 2025. Contract fully executed; no active tasks remaining in Asana.
+
 ## Overview
-- **Client/Customer:** Unmanned Experts Inc. (CEO: Keven Gambold)
+- **Client:** Unmanned Experts Inc. (CEO: Keven Gambold, 303-717-0031; Billing POC: Bill Cossoff)
+- **Customer Type:** Commercial
 - **Total Budget:** $1,249,945 | **BST Allocation:** $190,000
-- **Timeline:** October 2024 – May 2026 (21-month engagement)
-- **Status:** **ARCHIVED** — Project marked complete as of April 10, 2025
-- **Team Members:** Alex Lomis (owner), whole BST team involved
-- **Billing Contact:** Bill Cossoff (b.cossoff@unmannedexperts.com)
+- **Project Duration:** October 2024 – May 2026 (21 months)
+- **Key Contact:** Keven Gambold, kagambold@unmannedexperts.com
+- **Owner:** Alex Lomis
 
----
+## Scope & Deliverables
+Three core tasks:
 
-## Key Deliverables & Milestones
+1. **Autonomous sUAS Integration** — Design, iteration, and build of autonomous swarming capability (multiple aircraft)
+2. **Large Aircraft Integration** — Design and integration of swarm release mechanism for deployment from cargo aircraft
+3. **Transition & Commercialization Preparations** — Support for planning, licensing, and regulatory comprehension
 
-| Deliverable | Timeline | Description |
-|---|---|---|
-| **A1 Hardware Freeze** | Oct–Nov 2024 | Engineering prototype hardware freeze (Months 2–3) |
-| **A1 Flight Trials** | Dec 2024 – Mar 2025 | Initial flight trials (Months 4–7) |
-| **A1 Swarming Tests** | Apr–Jun 2025 | Autonomous swarming flight tests (Months 8–10) |
-| **A2 Interim Flight Tests** | Jul–Oct 2025 | Second-generation interim tests (Months 11–14) |
-| **Mothership-dropped A2 Tests** | Nov 2025 – Feb 2026 | Large aircraft swarm release mechanism tests (Months 15–18) |
-| **Final Report** | Mar–May 2026 | Project closeout documentation (Months 19–21) |
+### Milestone Schedule
+| Deliverable | Phase | Timeline | Status |
+|---|---|---|---|
+| A1 Hardware Freeze | 1 | Oct–Nov 2024 | Complete |
+| A1 Flight Trials | 2 | Dec 2024–Mar 2025 | Complete |
+| A1 Swarming Flight Tests | 3 | Apr–Jun 2025 | Complete |
+| A2 Interim Flight Tests | 4 | Jul–Oct 2025 | Complete |
+| Mothership-dropped A2 Flight Tests | 5 | Nov 2025–Feb 2026 | Complete |
+| Final Report | 6 | Mar–May 2026 | Complete |
 
-**Scope of Work (3 Tasks):**
-1. Autonomous sUAS integration — design, iteration, and build of autonomous swarming with multiple aircraft
-2. Large aircraft integration — swarm release mechanism for sUAS deployment from cargo aircraft
-3. Transition & Commercialization — support for licensing and regulatory comprehension
-
-**Hardware Delivery Targets (per 12/19/24 meeting with Alex):**
-- 2x S0 VTOL by early March 2025
-- 2x S0 AD by early January 2026
-- 2x S0 AD by early October 2025
-
----
+## Hardware Deliverables (per 12/19/24 meeting)
+- **2x S0 VTOL** (target: early March 2025)
+- **4x S0 AD** (target: 2x by early October 2024, 2x by early January 2026)
 
 ## Task Summary
-- **Total Tasks:** 1 open, 0 completed
-- **Open Task:** Contact data entry for Keven Gambold (unassigned, no due date)
-- **Completion Rate:** Project archived; core deliverables appear to have been executed per engineering notes
+- **Open tasks:** 1 (contact record for Keven Gambold — administrative, no due date)
+- **Completed tasks:** 0 tracked in Asana (project archived)
+- **Assignee:** Unassigned (no active team task assignments visible)
+
+## Recent Activity & Notes
+**Team feedback (Jack, 10/7–10/8/2026):** Recurring discussion about submitting documentation (likely regulatory/licensing filings) to "snap-r" — Jack notes this should be handled by KS (likely Keven Slater or similar), as neither Jack nor Meredith consider themselves experts. **Action needed:** KS should lead construction and submission of outstanding compliance filings with appropriate technical language.
 
 ---
 
-## Recent Activity
-**Project marked complete April 10, 2025.** One open administrative task remains (contact information entry for CEO Keven Gambold) — likely a minor data housekeeping item.
-
----
-
-## Notes & Context
-
-### Team Feedback (Oct 2026)
-Jack noted that BST should be submitting follow-up documentation or regulatory filings related to the program (likely post-delivery compliance or certification language). He suggested **KS (presumed key stakeholder or internal resource) should help construct and submit materials to SNAP-R or similar regulatory body**, as Jack and Meredith have done this previously but lack expert-level knowledge of required language.
-
-### Key Dates
-- **Project Due:** 27 Feb 2026 (final report delivery window)
-- **Hardware splits:** 2x S0 VTOL early March 2025; phased A2 deliveries Oct 2025–Jan 2026
-
-### Custom Field Notes
-- **Priority:** Medium
-- **Customer Type:** Commercial
-- **Organization:** Unmanned Experts Inc. (Denver, CO)
-- **Point of Contact:** Keven Gambold (CEO) | 303-717-0031
-
----
-
-**STATUS:** This project is archived and substantially complete. One minor open task (contact entry) remains. Recent team feedback suggests potential post-delivery compliance/certification work may be needed; coordinate with KS on SNAP-R submissions if additional deliverables are required.
+**Note:** Project marked complete as of April 2025. The single open task is a contact record with no deadline. If active work continues post-completion, verify with Alex Lomis or project team.

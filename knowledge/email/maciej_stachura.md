@@ -1,99 +1,104 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 29 emails (Nov 2-3, 2026)
+- **Total messages scanned:** 54 emails (Nov 2-3, 2026)
 - **Date range:** November 2-3, 2026
-- **Approximate volume:** ~15 emails per day during this period
+- **Approximate volume:** ~15-27 emails per day during this period
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — most frequent collaborator; appears in 8+ emails as sender or recipient
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — frequent collaborator; joint involvement in client engagements
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — sales/business development coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; appears in 15+ emails as sender or recipient across multiple initiatives
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — operations/technical lead; involved in NOAA coordination, wind tunnel testing, proposal work
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — sales/business development; managing inbound inquiries and opportunities
+- **Alex Lomis** (alex.lomis@blackswifttech.com) — technical team member; NOAA S0 UAS coordination
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — technical team member; NOAA and NASA initiatives
+- **Ben Busby** (ben.busby@blackswifttech.com) — technical team member; large group coordination on S0 UAS
 
 ### Top External Contacts
-- **Bob Smith** (Bob@krateosky.com, Krateo Sky) — customer engagement lead; strategic meeting coordinator
-- **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — government partner; involved in Aerostar/Blackswift kickoff
-- **Dmitry Chulkov** (dmitry@basecam-electronics.com, BaseCam Electronics) — payload/stabilization vendor
-- **Ievgen Lavrishko** (i.lavrishko@thegis-point.com, The GIS Point) — GPS-denied navigation technology partner
+- **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — government customer lead; high-frequency strategic correspondence on multiple initiatives
+- **Dmitry Chulkov** (dmitry@basecam-electronics.com, BaseCam Electronics) — payload stabilization vendor; active technical coordination
+- **Brian M Argrow** (Brian.Argrow@colorado.edu, University of Colorado) — academic partner; appears as co-recipient with Maciej on strategic follow-ups
+- **Joshua Wadler** (WADLERJ@erau.edu, Embry-Riddle Aeronautical University) — NASA wind tunnel testing coordination; leading ERAU effort
+- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov, NOAA Federal) — NOAA technical team; S0 UAS development
+- **Ed Kase** (ed.kase@ekaseconsulting.com) — external consultant; forwarding USAF long-range communications drone RFI
 
-### Government/Military Contacts
-- NOAA team: Joe Cione, Nikolai Pawlenko, Mark Rogers, Laura Rock, Danielle Varwig, Jun Zhang, Annette Hollingshead, Nicholas Underwood
-- NASA contacts: Chester Dolph, Chris Meek (LARC), Alexander Parker (LARC-B730)
-- US Navy: Austin Vorwald (LCDR CPRW-11), Morris DeSimone (NAWCAD network), multiple NAWCAD/NIWC personnel
-- US Marine Corps: David Keeler, Alicia Owsiak
+### Government/Military Contacts (NOAA Team Emphasis)
+- **NOAA:** Joe Cione (lead), Nikolai Pawlenko, Mark Rogers, Laura Rock, Danielle Varwig, Jun Zhang, Annette Hollingshead, Nicholas Underwood
+- **ERAU (NASA partner):** Joshua Wadler, Ebenezer Gnanamanickam, Zheng Zhang
+- **University Partners:** Brian Argrow (CU Boulder), Adam Houston (University of Nebraska-Lincoln), Lucas Wheeler (University of Colorado)
 
 ### Internal vs External
-- ~60% internal (BST team coordination)
-- ~40% external (government, vendors, partners, consultants)
+- ~55% internal (BST team coordination)
+- ~45% external (government agencies, academic institutions, vendors, consultants)
 
 ## Topic Patterns
 
 ### Active Projects/Programs
-- **S0/S2 UAS** — "New UI for S0 UAS" (NOAA collaboration)
-- **Aerostar/Blackswift Kickoff** — NOAA partnership initiative
-- **GPS-denied Navigation** — payload/technical capability
-- **Custom Payload Stabilization** — vendor coordination with BaseCam Electronics
-- **RAVEN Visit (UK)** — operational/customer visit agenda (Nov 3-4, 2026)
-- **Weather problems** — operational issue across multiple BST team members
+- **S0 UAS / New UI for S0 UAS** — NOAA primary initiative; appears in 5+ emails; large multi-team coordination between NOAA and BST
+- **NASA Wind Tunnel Testing at ERAU** — active project with ERAU (Joshua Wadler lead); follow-up communications ongoing
+- **Custom Payload Stabilization** — vendor coordination with BaseCam Electronics; technical development phase
+- **NEOTAC (NEw Observational Technologies and Advanced Conops)** — NOAA meeting invitation for Nov 5, 2026; Maciej is invited participant
 
 ### Government/Military Opportunities
-- **ISOF Range 2027** — Navy range testing opportunity
-- **VPU2** — Navy program introduction
-- **USSOCOM SOF AT&L** — Special Operations Command acquisition opportunity
-- **NASA Wind Tunnel Testing** — ERAU partnership for testing
+- **USAF Long-Range Communications Drones** — RFI forwarded via Ed Kase; deployable from AFSOC fixed-wing platforms; marked as non-DoD source
+- **MHP** — academic/research initiative involving CU Boulder and University of Nebraska-Lincoln; follow-up meetings occurring
 
-### Business Development
-- **WIPO GREEN Opportunity Connect** — innovation/sustainability initiative
-- **BST GTM Review** — go-to-market strategy meeting with Krateo Sky
-- **Black Swift TEM** (Thermal/Emissions/Modeling?) — technical evaluation
+### Sales Pipeline / Inbound Inquiries
+- **Black Swift Inquiry** — multiple inbound inquiries from academia (Nicolas Zoghb - Bridgeport University, Lucas Wheeler - University of Colorado); Beck Cotter managing responses via sales@blackswifttech.com
 
 ### External Newsletter/Automated
-- **6th Innovative Air Mobility Symposium** (DLR, Nov 23-24, Goettingen) — industry conference
-- **C3PAO Certification** — compliance/security certification tracking
+- **NOAA Postdoctoral Opportunity** — recruitment/job posting circulated to emerging technologies teams; informational
 
 ## Communication Patterns
 
 ### Time Patterns
-- Activity spans US time zones (Mountain: -0700, UTC: +0000)
-- Early morning sends (06:00-08:00 UTC / 23:00-01:00 MT previous day)
-- Heavy email volume Monday mornings (Nov 2)
+- Heavy activity during business hours (08:30-22:00 across MT/CT/UTC)
+- Multiple time zones active simultaneously (Mountain, Central, UTC)
+- Morning activity surge around 10:00-14:00 MT (Nov 3)
+- Evening/late-night UTC sends from NOAA (typical federal schedule offset)
 
 ### Mailing Lists & Group Emails
-- Large NOAA team coordination emails (10+ recipients)
-- Navy distribution lists (NAWCAD, NIWC network)
-- BST internal proposal coordination (proposals@blackswifttech.com)
+- **NOAA Large Team Coordination:** 14-person threads including multiple NOAA divisions (AOML ET, AOML PHOD, AOML HRD, AOML NEOTAC)
+- **BST Internal:** proposals@blackswifttech.com routing on sales inquiries
+- **Academic Consortium:** ERAU-CU Boulder-UNL coordination on research initiatives
+- **S0 UAS Core Team:** Recurring 14-15 person list for project coordination
 
 ### Message Flags
-- High proportion marked IMPORTANT across external correspondence
-- Multiple UNREAD messages suggesting active engagement
-- Some drafts in progress (custom payload stabilization email)
+- 100% of sampled messages marked IMPORTANT (indicates high-priority work stream)
+- Multiple UNREAD messages on technical/strategic topics
+- Sales inquiry thread shows rapid response cycles (multiple replies within hours)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — primary BST point of contact for government/military engagements; shared leadership on NOAA, Navy, NASA initiatives
-2. **Daniel Prendergast** — operations/technical lead; coordinate on weather issues, customer visits, proposals
-3. **Beck Cotter** — sales pipeline and business development coordination
+1. **Jack Elston** — primary strategic partner across all major initiatives (NOAA, NASA, USAF opportunities); appears in nearly every major email thread
+2. **Daniel Prendergast** — technical/operations coordination; handles proposal work and government engagement logistics
+3. **Beck Cotter** — sales funnel management; primary interface with inbound academic/commercial inquiries
 
 ### Critical External Relationships
-- **Krateo Sky (Bob Smith)** — strategic customer/partner; GTM coordination and regular engagement reviews
-- **NOAA (Joe Cione lead)** — government customer; Aerostar collaboration, S0/S2 UAS development
-- **US Navy (multiple POCs)** — active pursuit of VPU2, ISOF Range 2027, SOF AT&L opportunities
-- **BaseCam Electronics (Dmitry Chulkov)** — technical vendor for payload stabilization solutions
-- **NASA Langley (Alexander Parker)** — research partnership; invoicing/financial coordination
+- **NOAA (Joe Cione lead)** — primary customer; S0 UAS development, NEOTAC participation, multi-year engagement; Joe Cione is critical POC
+- **ERAU (Joshua Wadler)** — NASA partnership; wind tunnel testing coordination; active project phase
+- **University of Colorado (Brian Argrow)** — academic partner; strategic follow-up meetings; co-recipient status with Maciej suggests peer-level engagement
+- **BaseCam Electronics (Dmitry Chulkov)** — technical vendor; active stabilization payload development
+
+### Secondary External Relationships
+- **University of Nebraska-Lincoln (Adam Houston)** — research collaboration via MHP initiative
+- **University of Bridgeport (Nicolas Zoghb)** — inbound inquiry; prospect management
+- **Ed Kase Consulting** — government/military opportunity sourcing; forwarding RFI/business development leads
 
 ## Notable Observations
 
-1. **Government/Defense Focus:** Approximately 60-70% of external correspondence involves DoD (Navy, USSOCOM), federal agencies (NOAA, NASA), or related government contractors. Indicates significant U.S. government customer base or active pursuit.
+1. **NOAA Dominance:** ~70% of external correspondence involves NOAA Federal (Joe Cione team) across multiple initiatives. S0 UAS is clearly flagship customer engagement with committed technical resources.
 
-2. **Multi-threaded Engagements:** Same contacts (Bob Smith/Krateo, Jack Elston/Navy) appearing across multiple emails in short timeframe suggests active, ongoing negotiations or operations.
+2. **Academic Partnership Model:** Significant involvement with ERAU, CU Boulder, and University of Nebraska-Lincoln suggests research-to-commercialization strategy (NASA wind tunnel testing, MHP initiative). Brian Argrow appears to be key academic relationship.
 
-3. **Urgency Indicators:** High density of IMPORTANT flags and unread messages suggests time-sensitive business development or operational issues.
+3. **Maciej's Role:** Named recipient on large NOAA S0 UAS threads and NASA ERAU coordination suggests technical leadership or project management role; appears as peer-level contact to Jack Elston on strategic initiatives.
 
-4. **Technical Specialization:** Payload stabilization, GPS-denied navigation, and UAS systems integration appear to be core technical competencies being marketed.
+4. **USAF Opportunity Surfacing:** New RFI for long-range communications drones (AFSOC deployable) forwarded Nov 3 — potential growth vector distinct from NOAA focus.
 
-5. **Geographic Reach:** UK customer visit (RAVEN), European conference (DLR/Germany), and North American military/government network indicate international scope.
+5. **Sales Pipeline Activity:** Multiple academic inbound inquiries (Bridgeport, CU Boulder) being managed through sales@ routing, suggesting BST is generating institutional interest/awareness.
 
-6. **CMMC Compliance:** Security certification tracking (C3PAO) suggests preparation for DoD contracts requiring cybersecurity compliance.
+6. **Meeting Schedule:** NEOTAC meeting invitation (Nov 5) indicates Maciej maintains direct visibility to NOAA strategic planning/technology assessment forums.
+
+7. **High Communication Velocity:** 25 emails in 1-2 days with 100% IMPORTANT flag rate indicates active operational phase across multiple concurrent initiatives — not exploratory/business development, but execution.

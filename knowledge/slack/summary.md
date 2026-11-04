@@ -1,78 +1,56 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-03 02:37
+Last scanned: 2026-11-04 02:41
 
-Total channels scanned: 8
+Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 17 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#by-lite-mustang** -- 2 messages -- [by-lite-mustang.md](by-lite-mustang.md)
-- **#commercial-sales** -- 1 messages -- [commercial-sales.md](commercial-sales.md)
-- **#general** -- 3 messages -- [general.md](general.md)
+- **#25_1-navy-sbir-magnetometer** -- 3 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#flight-testing** -- 2 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 4 messages -- [general.md](general.md)
 - **#operations** -- 7 messages -- [operations.md](operations.md)
-- **#s0-vtol** -- 3 messages -- [s0-vtol.md](s0-vtol.md)
-- **#sbir-hurricane** -- 9 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 3 messages -- [swiftcore.md](swiftcore.md)
+- **#s3** -- 13 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 5 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies Slack Channel Strategic Overview
+# Black Swift Technologies Slack Strategic Overview
 
-## Active Projects (Cross-Channel)
+## Active Projects
 
-**Core Aircraft Platforms:**
-- **S0 System**: Hurricane reconnaissance UAV (SBIR), VTOL variant in development
-- **SwiftCore**: Firmware and drone system foundation used across platforms
-- **By Light Mustang**: USAF contract; original platform + new Chilli airframe variant
-- **E2, S2, S3**: Commercial variants mentioned in sales channel
+**Primary Programs:**
+- **SBIR Hurricane (S0)**: Long-running unmanned aircraft system for hurricane reconnaissance missions; highly active with extensive technical discussions and operational updates (2020-2026)
+- **Navy SBIR Magnetometer**: Integration of QuSpin and Bartington magnetometers with BST aircraft for magnetic anomaly detection (MAD) applications
+- **S3 VTOL**: Hybrid fixed-wing/quadcopter aircraft with tilting rotors; target 2-3 hour endurance with automatic flight operations
+- **Flight Testing Operations**: Continuous testing across fixed-wing (S-series), multirotor (E2, Flamewheel), and VTOL platforms (S0, S1-VTOL, S3)
 
-**Government SBIR Programs:**
-- Hurricane reconnaissance (SBIR-Hurricane)
-- Navy magnetometer integration (25_1-Navy-SBIR-Magnetometer)
+## Key Decision-Making Structure
 
-## Key Decision-Makers & Roles
-
-| Person | Primary Role |
-|--------|--------------|
-| Jack Elston | Leadership, strategic decisions |
-| Maciej | Project lead, flight ops, technical direction |
-| Joshua Fromm | Hardware/shop lead, procurement |
-| Dan Prendergast | Business development, operations |
-| Meredith Needham | Finance, administration |
-| Beck Cotter | Technical implementation (magnetometer, SwiftCore) |
-| Danny Troke | Firmware/software development |
-| Ben Busby | SwiftCore development |
-| Sam Hild, Alex Lomis | Multi-project technical contributors |
+- **Jack Elston**: Leadership/executive decisions, company-wide coordination
+- **Joshua Fromm**: Technical/hardware leadership, design authority, CAD and requirements documentation
+- **Maciej**: Flight testing lead, firmware development, system analysis
+- **Dan Prendergast**: Business development and operations planning
 
 ## Cross-Channel Themes
 
-**Technical Integration Points:**
-- SwiftCore firmware used as foundation across S0, S0-VTOL, and commercial variants
-- Magnetometer and payload integration strategy shared between Navy SBIR and S0 platforms
-- Flight testing coordination spans hurricane, VTOL, and customer delivery projects
-
-**Operational Patterns:**
-- #general drives strategic announcements; #operations executes logistics
-- #commercial-sales coordinates customer requirements that flow to #swiftcore and platform channels
-- SBIR projects (#sbir-hurricane, #25_1-navy) drive long-term R&D feeding commercial products
-
-**Decision Flow:**
-1. Strategic decisions → #general announcements
-2. Project-specific execution → specialized channels
-3. Operational enablement → #operations coordination
-4. Customer delivery → #commercial-sales tracking
+| Theme | Channels | Details |
+|-------|----------|---------|
+| **Technical Integration** | #sbir-hurricane, #25_1-navy-sbir-magnetometer, #s3, #flight-testing | Payload sensor integration (magnetometers, RF components), aircraft platform development, antenna placement |
+| **Flight Operations** | #flight-testing, #sbir-hurricane, #s3 | Fleet coordination, firmware updates, troubleshooting across multiple platforms |
+| **Hardware/Shop Activities** | #operations, #general, #s3 | Parts sourcing, battery design, procurement tracking |
+| **Project Management** | #general, #operations | Status updates, resource allocation, timeline tracking |
 
 ## Recurring Topics
 
-- **Flight testing cycles**: Safety protocols, weather coordination, results analysis
-- **Hardware integration**: Payloads, sensors, system compatibility across variants
-- **Schedule pressure**: Delivery timelines, SBIR milestones, customer commitments
-- **Procurement & logistics**: Parts sourcing, shipping, facility management
-- **Software releases**: SwiftCore updates, firmware versions, compatibility
+- Firmware and software development/debugging
+- Payload integration and testing
+- Flight test scheduling and results
+- Parts procurement and logistics
+- Project timeline and milestone tracking
 
-## Timing Context
+## Notable Connections
 
-- Active operations: 2020–2026
-- Multiple concurrent multi-year projects (SBIR hurricane, Navy magnetometer)
-- Commercial sales running parallel to government R&D programs
+- **Multi-platform approach**: BST develops multiple aircraft variants (S0, S1-VTOL, S3) that share engineering teams and testing infrastructure
+- **Government funding focus**: Two active SBIR contracts (Hurricane, Navy Magnetometer) indicating R&D-driven business model
+- **Integrated workflows**: Flight testing and hardware development inform project decisions across channels; operations channel tracks resources supporting all programs

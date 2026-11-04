@@ -8,10 +8,13 @@
     "(200-10) AREN 2024",
     "(301-2) 2020 WPO Hurricane Phase II",
     "(400-5) SMM Phase II 22.4D",
+    "(900) Krateo Sky- Industrial Plan:[925-01] Insurance",
+    "(900) Krateo Sky- Industrial Plan:[925-02] Legal and Consulting",
     "(900) Krateo Sky- Industrial Plan:[925-03] New Office Space Leasing",
     "Alliance for Energy Innovation, LLC",
     "Black Swift Technologies",
     "Black Swift Technologies:[001-22] Aeropods Commercial",
+    "Boostr Consulting",
     "Boulder High School",
     "IRISS, CU Boulder",
     "NASA Ames Research Center",
@@ -67,12 +70,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
   "totals": {
-    "revenue": 3795798.67,
-    "expenses": 4737232.28,
+    "revenue": 3799134.01,
+    "expenses": 4815573.18,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -83,9 +86,10 @@
       "FRINGE:FR-Retirement Contributions": 116216.23,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 102344.86,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 78619.5,
+      "FACILITIES:FA-Shop Supplies": 78744.41,
+      "Prepaid Expenses": 70951.46,
       "Spark One Jack #3168": 70684.0,
-      "Prepaid Expenses": 64603.1,
+      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
       "Indirect Cost:Software Expenses": 52695.31,
       "FACILITIES:FA-Office Supplies": 47632.19,
@@ -94,10 +98,10 @@
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "DIRECT COSTS:DC-Direct Material Purchases": 33343.17,
       "FACILITIES:FA-Software Expenses": 28221.8,
+      "Reimbursable Expenses": 27940.8,
       "Indirect Cost:Meals and Entertainment": 27639.16,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
-      "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
       "Fraud Charges": 16008.36,
       "SALES & MARKETING": 15405.08,
@@ -162,7 +166,6 @@
       "SALES & MARKETING:SM-Travel Meals": 14.3,
       "Sales Tax Payable": 5.99,
       "PRODUCT INCOME:Shipping Income": 4.57,
-      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 2.5,
       "UNALLOWABLE GA:UC-Other Costs": 0.01,
       "Due To Employee": -239.37,
       "FRINGE:Employee Reimbursement": -2381.46
@@ -212,6 +215,29 @@
         },
         {
           "amount": 46143.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-11-03",
+      "doc_number": "1794",
+      "total": 1943.1,
+      "attributed": 1943.1,
+      "vendor": "",
+      "customer": "Boostr Consulting",
+      "balance": 1943.1,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1943.1,
+          "account": "",
+          "description": "Refund for BST over payment for 2025 R&D tax services"
+        },
+        {
+          "amount": 1943.1,
           "account": "",
           "description": ""
         }
@@ -288,7 +314,7 @@
       "attributed": 696.12,
       "vendor": "",
       "customer": "Nate Straus",
-      "balance": 696.12,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -311,7 +337,7 @@
       "attributed": 696.12,
       "vendor": "",
       "customer": "Nate Straus",
-      "balance": 696.12,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1843,6 +1869,39 @@
     {
       "type": "Bill",
       "date": "2026-10-19",
+      "doc_number": "14131",
+      "total": 6348.36,
+      "attributed": 6348.360000000001,
+      "vendor": "Howden US Specialty, LLC",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 5853.0,
+          "account": "Prepaid Expenses",
+          "description": "Directors & Officers Liability Effective 9/23/2026"
+        },
+        {
+          "amount": 300.0,
+          "account": "Prepaid Expenses",
+          "description": "Brokerage Fee"
+        },
+        {
+          "amount": 184.59,
+          "account": "Prepaid Expenses",
+          "description": "Surplus Lines Tax"
+        },
+        {
+          "amount": 10.77,
+          "account": "Prepaid Expenses",
+          "description": "Clearinghouse Fee"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-19",
       "doc_number": "103033218",
       "total": 691.77,
       "attributed": 691.77,
@@ -1947,6 +2006,59 @@
           "amount": 79.07,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-09-29",
+      "doc_number": "INV_188773_0002",
+      "total": 71867.63,
+      "attributed": 71867.63,
+      "vendor": "Accordion Partners LLC",
+      "customer": "",
+      "balance": 71867.63,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 08/19"
+        },
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 08/23"
+        },
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 08/30"
+        },
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 09/06"
+        },
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 09/13"
+        },
+        {
+          "amount": 10000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Financial Consulting Services: Week of 09/20"
+        },
+        {
+          "amount": 3000.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
+          "description": "Administrative Fees"
+        },
+        {
+          "amount": 8867.63,
+          "account": "Reimbursable Expenses",
+          "description": "Business Expenses for the Period of 08/16 - 09/26"
         }
       ]
     },
@@ -4448,6 +4560,24 @@
           "amount": 329.53,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "Shipment of shop supplies order"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 124.91,
+      "attributed": 124.91,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 124.91,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
         }
       ]
     },
@@ -55443,6 +55573,42 @@
     }
   ],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 696.12,
+      "attributed": 696.12,
+      "vendor": "",
+      "customer": "Nate Straus",
+      "balance": null,
+      "memo": "Paid via QuickBooks Payments: Payment ID 18a-b96",
+      "lines": [
+        {
+          "amount": 696.12,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Payment",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 696.12,
+      "attributed": 696.12,
+      "vendor": "",
+      "customer": "Nate Straus",
+      "balance": null,
+      "memo": "Paid via QuickBooks Payments: Payment ID 11a-71u",
+      "lines": [
+        {
+          "amount": 696.12,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2026-10-21",

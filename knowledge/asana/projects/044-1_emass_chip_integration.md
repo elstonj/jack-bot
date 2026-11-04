@@ -1,29 +1,32 @@
-_Asana snapshot as of 2026-11-02: 0 open tasks, 4 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 0 open tasks, 4 completed (last 90 days)._
 
 # [044-1] EMASS Chip Integration
 
 ## Overview
-- **Client:** EMASS (Commercial)
-- **Dollar value:** $90,000 total ($25k Milestone 4a: Engineering support + flights; $10k Milestone 4b: Final reports; remainder on per-flight-day basis going forward)
-- **Timeline:** Original 11/10/2025–1/31/2026; dates changed, no set end date as of June 2026
-- **Status:** ARCHIVED
-- **Team members:** Dan Prendergast (Owner), Meredith O'hara Needham, Maciej Stachura
-- **Priority:** Medium
+- **Client:** EMASS
+- **Dollar value:** $90,000 total funding to Black Swift
+- **Timeline:** Originally 11/10/2025 – 1/31/2026 (dates changed; no set end date as of project notes)
+- **Status:** **ARCHIVED** — Project completed with final invoice sent 2026-09-04
+- **Team:** Dan Prendergast (owner), Meredith O'hara Needham, Maciej Stachura
+- **Customer type:** Commercial
 
 ## Key Deliverables & Milestones
-- **Milestone 4a: Engineering support + flights** — $25k
-- **Milestone 4b: Final reports** — $10k
-- Post-June 2026: Per-flight-day billing model
-
-## Billing & Dispute Resolution
-Per project notes (June 2026): Customer initially refused payment for the final milestone ($35k) on the original agreement, citing incomplete final report. BST split the milestone into two phases (4a and 4b, totaling $35k) and transitioned to per-flight-day charging going forward.
+- **Milestone 4a:** Engineering support + flights — $25k
+- **Milestone 4b:** Final reports — $10k
+- Original Milestone 4 ($35k) was split due to customer dispute over final report completion
+- Billing structure transitioned to **per-flight-day basis** going forward
 
 ## Task Summary
-- **Total tasks:** 4 completed, 0 open
-- **Recent completions:**
-  - Final Report (Dan Prendergast) — 2026-08-24
-  - Data analysis (Maciej Stachura) — 2026-08-24
-  - Final invoice to EMASS for final report (Meredith O'hara Needham) — 2026-09-04 (due 2026-08-28)
+- **Total tasks:** 0 open, 4 completed
+- **Assignee breakdown:**
+  - Maciej Stachura: 2 data analysis tasks (completed)
+  - Dan Prendergast: 1 final report (completed 2026-08-24)
+  - Meredith O'hara Needham: 1 invoicing task (completed 2026-09-04)
 
-## Status
-Project is archived with all tasks closed. Final invoice sent early September 2026.
+## Recent Activity
+- **Final invoice sent:** 2026-09-04 (Meredith Needham)
+- **Data analysis completed:** 2026-08-24 (Maciej Stachura)
+- **Final report completed:** 2026-08-24 (Dan Prendergast)
+
+## Notes & Context
+Customer initially disputed payment of the original Milestone 4 ($35k) because Black Swift did not complete a final report as originally agreed. This was resolved by splitting the milestone: $25k for engineering support and flights, $10k for final reports. Future work transitioned to per-flight-day billing model to avoid similar disputes.

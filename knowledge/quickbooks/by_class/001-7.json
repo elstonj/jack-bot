@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 206787.05,
+    "expenses": 206827.01,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86467.06,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86507.02,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 53089.05,
       "Inventory Asset": 439.98,
@@ -961,6 +961,24 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 39.96,
+      "attributed": 39.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 39.96,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "BNTECHGO 10 AWG Silicone Wire Red and Black Each"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-02",

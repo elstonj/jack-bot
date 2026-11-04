@@ -1,25 +1,25 @@
-_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
 
 # [012-3] ERAU Model S0
 
 ## Overview
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Customer Type:** Commercial
-- **Budget:** $2,462.50
-- **Timeline:** June 25, 2026 (start and due date)
-- **Status:** **ARCHIVED** — Project closed out as of October 27, 2026
+- **Total Budget:** $2,462.50
+- **Timeline:** June 25–30, 2026
+- **Status:** **ARCHIVED** (as of Oct 27, 2026 per team correction)
 - **Project Owner:** Josh Fromm
-- **Risk Signals:** None — project complete
+- **Risk Signals:** None — project completed and archived.
 
 ## Key Deliverables & Milestones
-- Model S0 delivery to ERAU by June 30, 2026 (per attached email request)
+- Model S0 delivery by June 30, 2026 (completed)
 
 ## Task Summary
-- **Total tasks:** 0 open, 0 completed
-- All work items closed; project archived
+- **Total tasks:** 0 open, 0 completed (all tasks cleared upon archival)
+- **No active assignees**
 
 ## Recent Activity
-**October 27, 2026** — Project archived. Per Maciej's feedback (October 26–28), this project was flagged for archiving and has been completed. It was queued for final closure by project owner.
+Per Maciej (Oct 27, 2026): Project marked for archival. Team confirmed as complete and ready to close out.
 
 ## Notes & Context
-This was a straightforward commercial delivery to ERAU. The project completed on schedule with no open tasks remaining. Per team feedback, archiving was handled by project owner (Josh Fromm) following standard Asana archival process (project main page → down arrow → "Archive").
+This project delivered a Model S0 unit to ERAU. No outstanding invoices or deliverables remain. The project was archived per standard BST close-out procedures in late October 2026.

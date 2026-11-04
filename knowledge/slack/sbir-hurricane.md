@@ -41,7 +41,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **v0.4 and v0.41 Board Retirement Decision:** All v0.4 and v0.41 boards to be removed from service and placed into separate bin; no rework planned for these boards (October 28, 2026); indicates shift to v0.5 boards as primary PSNS hardware going forward
 - **v1.5 Firmware Implementation:** New firmware version v1.5 developed to address sleep mode and CAN communication issues; additional testing and fixes required from Ali Sulehria (October 30, 2026)
 - **Firmware Approach:** v0.5 boards being deployed with updated firmware fixes; v1.5 additional fix planned for next week; clarification needed regarding which changes were implemented in earlier reworks (October 28, 2026)
-- **Core 2 Board Testing:** v0.3 core 2 board just returned from trace cutting; testing required per Jack Elston direction (November 2, 2026); higher priority testing assignment anticipated relative to S3 QC work
+- **Core 2 Board Testing:** v0.3 core 2 board just returned from trace cutting; testing required per Jack Elston direction (November 2, 2026); higher priority testing assignment anticipated relative to S3 QC work; preliminary RF performance data shows ~2dB lower antenna output than v0.2 design; rework to 3.65V operation underway with retesting planned; wired RF setup testing planned for more precise measurements
 
 **Ground Control Station Operations:**
 - Single operator per aircraft confirmed as acceptable by NOAA operational rules (April 2026)
@@ -70,7 +70,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - **PSNS Firmware CAN Communication Issue - REQUIRES FURTHER INVESTIGATION:** New firmware versions on v0.4 and v0.5 boards only transmit supply packets over CAN bus; QC testing failed to read serial numbers; Ali Sulehria confirmed issue by testing v0.4 board before and after firmware flash—expected packets were present before update but only supply packets appeared after flashing (October 23, 2026); v1.5 fix addressing this regression now requires testing
 - **Radio Power Output Testing (November 2, 2026):** Ali Sulehria investigating full power transmission capability and conditions for 2W power draw; Jack Elston confirmed radio transmits at full power when configured to do so, but supply voltage/power constraints can limit transmission
 
-**Production & Logistics (October 30, 2026 - Updated with November 2, 2026 additions):**
+**Ground Control Station - Hurricane App Safety Issue (November 3, 2026):**
+- **Auto Surface Validate Bug:** Joshua Fromm identified critical safety issue in hurricane tablet app; auto surface validate can be triggered even when hurricane app is loaded, with aircraft in deployment tube; system displays error but proceeds with validation anyway; presents dangerous operational hazard (November 3, 2026); Jack Elston acknowledged issue (November 3, 2026)
+
+**Production & Logistics (October 30, 2026 - Updated with November 2-3, 2026 additions):**
 - **Current Week (Week of Oct 30):** 
   - Perform additional v1.5 PSNS fix (Ali Sulehria)
   - Redo QC on v1.5 PSNS with fixes in place (Ali Sulehria)
@@ -124,12 +127,13 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Comprehensive procurement process underway for new GCS builds
 - Higher-rate data recording modification integrated for operational deployment
 - Systems being prepared for NOAA operational handover
+- **Hurricane App Safety Issue Investigation (November 3, 2026):** Auto surface validate bug identified allowing dangerous validation commands while aircraft in tube; requires fix to prevent operation when aircraft powered down or in operational state
 
 **Web-Controller Development**
 - All "Ready for Testing" features passed QC (October 30, 2026)
 - Integration ongoing with broader system testing
 
-**Core 2 Board RF Performance Investigation (November 2, 2026)**
+**Core 2 Board RF Performance Investigation (November 2-3, 2026)**
 - v0.3 core 2 board returned from trace cutting; testing initiated
 - **Preliminary Findings:** v0.3 antenna output ~2dB lower than v0.2 baseline; rework to 3.65V operation planned with retesting
 - **Test Methodology:** Initial antenna output measurements using test setup; more precise wired RF setup testing planned after rework
@@ -159,6 +163,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Joshua Fromm & Team: Replace all PSNS boards on built-up S0s and re-QC (October 30, 2026; due end of current week)
 - Joshua Fromm & Team: Finish kits needed for new S0s to complete 13-aircraft order (October 30, 2026; due end of current week)
 - Jack Elston: Complete fuselage testing of new GCS firmware to verify radio heating issue resolution (October 30, 2026)
+- Jack Elston: Investigate and fix auto surface validate safety bug in hurricane app to prevent dangerous validation commands when aircraft is powered down or in operational/tube state (November 3, 2026)
 
 *Following Week (Nov 6+):*
 - Joshua Fromm & Team: Finish all remaining QCs on S0 aircraft (November 2026)
@@ -167,6 +172,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 *Outstanding from Earlier Dates:*
 - Joshua Fromm: Verify with Vertiq if 3-week lead time for qty150 motors is standard or instance-specific (as of October 2, 2026)
 - Joshua Fromm: Ensure RPM feedback requirement is established upfront for 6S ESC/motor combo selection to avoid missing critical specifications (September 23, 2026)
+- Joshua Fromm: Query NOAA regarding EMSS (Iridium Enhanced Mobile Satellite Services) access availability as contingency communication option, if needed (November 3, 2026)
 
 **Completed:**
 - Ali Sulehria: QC all PSNS boards in hand by close of business (October 28, 2026) - **COMPLETED**
@@ -184,6 +190,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Established single-operator-per-aircraft as acceptable operational rule
 - Will receive 13 S0 aircraft delivery (targeting November 13, 2026)
 - Receiving GCS units for operational deployment with firmware that fixes radio heating issues
+- May have EMSS (Iridium Enhanced Mobile Satellite Services) access capability (Joshua Fromm planning to inquire)
 
 **Suppliers & Vendors:**
 - Lee: Deployment tube machining ($700 NRE, $95 per tube)
@@ -201,27 +208,29 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Alex Lomis: 6S battery configuration research
 - Maciej: Storm weather monitoring, Kanban/project management coordination, web-controller features verification
 - Sam Hild: Kit preparation, PSNS board bin management, troubleshooting support
-- Jack Elston: Project technical leadership, firmware diagnostics and testing, GCS and radio system oversight, radio heating issue resolution verification, core 2 board testing assignment
-- Joshua Fromm: S0 disassembly/swap execution, logistics coordination, personnel training, kit completion
+- Jack Elston: Project technical leadership, firmware diagnostics and testing, GCS and radio system oversight, radio heating issue resolution verification, core 2 board testing assignment, hurricane app safety bug investigation
+- Joshua Fromm: S0 disassembly/swap execution, logistics coordination, personnel training, kit completion, NOAA communication regarding EMSS access
 - Dan Prendergast: Project management in Asana, UK RAVEN project setup
 
 ## Recurring Topics & Themes
 
 1. **Motor/Propulsion System Integration:** Repeated cycles of motor selection, ESC compatibility, RPM feedback requirements, and supplier delays; Vertiq integration completed but required extended problem-solving
 2. **Power Management & PSNS Issues:** Ongoing work on sleep modes, battery configuration, power consumption optimization; v1.5 firmware addressing remaining issues; migration to standardized hardware strategy (v0.5/v1.5); CAN communication regression resolved through firmware iteration
-3. **Ground Station & Radio Systems:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities; radio heating issue identified and resolved through firmware update; limited fuselage testing underway
+3. **Ground Station & Radio Systems:** Continuous updates to GCS firmware, radio configuration, channel naming conventions, and data recording capabilities; radio heating issue identified and resolved through firmware update; limited fuselage testing underway; newly identified safety bugs in hurricane app requiring urgent attention
 4. **Component Quality & Supply Chain:** Regular evaluation of suppliers, parts quality (defects detected and addressed), manufacturing standards; hardware standardization strategy (retiring older board versions)
 5. **Firmware Testing & Deployment:** Iterative testing and debugging of new firmware versions before deployment to operational systems; CAN communication regression addressed in v1.5 update
-6. **NOAA Integration & Operational Readiness:** Regular coordination with NOAA on operational requirements, handover preparation, capability enhancements; 13 aircraft delivery imminent (targeting November 13)
+6. **NOAA Integration & Operational Readiness:** Regular coordination with NOAA on operational requirements, handover preparation, capability enhancements; 13 aircraft delivery imminent (targeting November 13); contingency communication options (EMSS) under evaluation
 7. **Deployment Tube System:** Ongoing refinement of parachute deployment timing, cap design, and associated mechanical components
 8. **Production Scheduling & Logistics:** Intensive focus on S0 13-aircraft order completion; clear weekly milestones established (current week: fixes and QC; following week: pack and ship); S0 work coordinated with S3 priority
-9. **Hardware Diagnostics & Troubleshooting:** Active investigation and resolution of GCS radio heating issues; systematic firmware-based solution deployed; fuselage testing underway; new focus on RF performance of core boards (v0.3 vs v0.2)
+9. **Hardware Diagnostics & Troubleshooting:** Active investigation and resolution of GCS radio heating issues; systematic firmware-based solution deployed; fuselage testing underway; new focus on RF performance of core boards (v0.3 vs v0.2); emerging safety issues in ground control applications
 10. **Project Management & Planning:** Kanban reorganization with 4 major project frameworks; milestone planning for multi-month roadmap; Asana integration for task tracking
 11. **RF/Antenna Performance:** Emerging focus on antenna output measurements and RF performance optimization; v0.3 core 2 board showing performance differences requiring investigation
+12. **Safety & Risk Management:** Newly identified operational safety issues (hurricane app auto surface validate bug) requiring priority fixes to prevent dangerous commands when aircraft is in tube or non-operational state
 
 ## Important Resources
 
 - [GCS Visit Draft Document](https://docs.google.com/document/d/1e57pxbMghsVvhTZb2QxfVlT7O80-tV__Nub3umt1PlM/edit?usp=drive_link) (October 23, 2026) - Agenda/planning for Russel and others visit
+- [Iridium Enhanced Mobile Satellite Services (EMSS)](https://www.iridium.com/markets/governments/us-government/iridium-enhanced-mobile-satellite-services) - Contingency communication resource; NOAA access status to be confirmed by Joshua Fromm
 - PSNS Firmware Versions: v0.5 (deployed), v1.5 (additional fixes for testing); sleep mode and CAN communication fixes; firmware ready for testing/deployment with v1.5 addressing earlier regressions
 - Deployment Tube Firmware: Updated to address SHUTDOWN sequence
 - 2026 DUAL Procurement Spreadsheet: Comprehensive GCS and testing equipment components list
@@ -230,6 +239,7 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 - Microhard Radio: ATS108 configuration implemented
 - PSNS Board Bins: Separate bin designated for old v0.4/v0.41 boards during swap campaign
 - Core 2 Board RF Test Data: v0.3 prototype shows ~2dB lower antenna output vs. v0.2 baseline; rework to 3.65V operation underway with retesting pending
+- Hurricane App: Identified safety issue with auto surface validate feature; requires fix to prevent operation when aircraft is powered down or in operational state
 - Asana Projects:
   - 2026 IDIQ (Hurricane) - main project with 4 milestones and close-out criteria
   - 001-07 S3 IRAD
@@ -239,8 +249,13 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 
 ## Recent Activity
 
+**November 3, 2026:**
+- **EMSS Contingency Communication Inquiry:** Joshua Fromm suggests querying NOAA regarding Iridium Enhanced Mobile Satellite Services (EMSS) access availability; notes this is preliminary and not currently planned for use, but useful to understand capability for potential future paths (10:51 AM)
+- **Hurricane UI Compliment:** Joshua Fromm praises hurricane tablet app UI design (11:13 AM)
+- **Auto Surface Validate Safety Bug Identified:** Joshua Fromm reports critical bug in hurricane app where auto surface validate can be triggered even when app is loaded with aircraft in deployment tube; system displays error but proceeds with validation anyway, creating dangerous operational hazard (14:04); Jack Elston acknowledges issue for investigation (14:27)
+
 **November 2, 2026:**
-- **Core 2 Board RF Testing Assignment:** Jack Elston includes Ali Sulehria and additional team member (tag @U0C5E0JKFT4) on email regarding v0.3 core 2 board testing following trace cutting completion (9:36 AM)
+- **Core 2 Board RF Testing Assignment:** Jack Elston includes Ali Sulehria and additional team member on email regarding v0.3 core 2 board testing following trace cutting completion (9:36 AM)
 - **Testing Priority Clarification:** Ali Sulehria questions whether core 2 board testing is higher priority than S3 QC work (9:39 AM)
 - **Radio Power Output Investigation (12:02 PM - 1:25 PM):** Ali Sulehria inquires with Jack Elston about inducing full 2W radio transmission and identifying when during operation radio draws full power; Jack Elston confirms radio transmits at full 2W when configured to do so, but supply voltage/power constraints can limit transmission to lower levels (confirmed yes on normal boot with antenna, but contingent on adequate power supply)
 - **RF Performance Measurements (3:55 PM - 3:57 PM):** Ali Sulehria reports preliminary antenna output testing results: v0.3 core 2 board shows ~2dB lower peak readings than v0.2 after several test setup consistency attempts; cannot confirm exact differential until rework to 3.65V and wired RF setup testing; confirms measurable difference between versions exists (100% certainty noted)
@@ -255,8 +270,10 @@ The #sbir-hurricane channel is the primary workspace for Black Swift Technologie
 ---
 
 ## Updates Since Last Summary
-**New Developments (November 2, 2026):**
-- Core 2 board RF performance investigation initiated; v0.3 shows measurable (~/2dB) antenna output reduction vs. v0.2
+**New Developments (November 2-3, 2026):**
+- Core 2 board RF performance investigation initiated; v0.3 shows measurable (~2dB) antenna output reduction vs. v0.2
 - Radio power output testing underway to characterize 2W transmission conditions and supply constraints
 - Ali Sulehria elevated core 2 board testing to priority status alongside or above S3 QC work
 - Wired RF setup testing planned for more precise v0.3/v0.2 performance differential measurements post-rework
+- **CRITICAL SAFETY ISSUE IDENTIFIED:** Hurricane app auto surface validate bug allows dangerous validation commands even when aircraft is in deployment tube or powered down; Jack Elston assigned to investigate and fix
+- **NOAA Communication Contingency:** Joshua Fromm recommending inquiry into NOAA's Iridium EMSS access as potential backup communication option for future consideration

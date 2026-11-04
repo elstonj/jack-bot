@@ -5,15 +5,15 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 37048.02,
+    "expenses": 37113.92,
     "by_category": {
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 13186.53,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 13252.43,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 8147.99,
       "Tariffs": 451.8,
       "Indirect Cost:Finance & Bank Charges": 57.2,
@@ -263,6 +263,24 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 65.9,
+      "attributed": 65.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 65.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-09-30",

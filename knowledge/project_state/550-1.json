@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "monthly",
+    "payment_cadence": "time-and-materials",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,19 +33,19 @@
         "amount": 117008.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-03"
+        "last_updated": "2026-11-04"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-03"
+        "last_updated": "2026-11-04"
       },
       "other_qbo": {
         "amount": 30680.95,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-03"
+        "last_updated": "2026-11-04"
       },
       "total": 150748.91,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 91791.09,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-03T10:44:57Z"
+    "last_reconciled": "2026-11-04T10:51:14Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -128,6 +128,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-11-03T10:44:57Z",
+  "last_full_rebuild": "2026-11-04T10:51:14Z",
   "last_incremental_update": null
 }

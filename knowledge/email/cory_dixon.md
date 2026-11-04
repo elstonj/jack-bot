@@ -1,90 +1,104 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 16 emails
+- **Total messages scanned:** 28 emails (16 initial + 12 new)
 - **Date range:** Nov 1–3, 2026
-- **Volume:** ~8 emails/day (high activity cluster around Nov 2–3)
+- **Volume:** ~9–10 emails/day (consistent high activity, concentrated Nov 2–3)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Andres, Mark** (mandres@ptc.com) — 2 emails (KS Arena Implementation)
-2. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — 2 emails (S0 deployment)
-3. **Don Spinozzi** (d.spinozzi@krateosky.com) — 1 email (KS Arena)
-4. **Bina Menon** (menonb@fpctroy.com) — 1 email (hiring: Sr. Firmware Engineer)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 5 emails (NASA wind tunnel, UAS Flux Topos, CU Boulder meeting)
+2. **Mark Andres** (mandres@ptc.com) — 2 emails (KS Arena Implementation)
+3. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — 2 emails (S0 deployment)
+4. **Bassil El Masri** (belmasri@murraystate.edu) — 1 email (UAS Flux Topos)
+5. **Dan Mackin** (dan@rule4.com) — 1 email (CMMC + Infrastructure)
+6. **Gnanamanickam, Ebenezer P.** (gnanamae@erau.edu) — 1 email (NASA wind tunnel)
+7. **Joe Cione - NOAA** (joe.cione@noaa.gov) — 1 email (NASA wind tunnel)
+8. **Sona Raziabeegum** (sona@krateosky.com) — 1 email (D&O Binders)
+9. **Brian M Argrow** (Brian.Argrow@colorado.edu) — 1 email (Follow-up meeting)
 
 ### Top Recipients (Cory as sender)
-1. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — 2 emails
-2. **Bina Menon** (menonb@fpctroy.com) — 1 email
-3. **Bhargav Donthineni** (bhargavdonthineni@gmail.com) — 1 email
-4. **mcdbrendan@gmail.com** — 1 email (forwarded: Technical Project Manager Req)
+1. **Dan Mackin** (dan@rule4.com) — 1 email (CMMC response)
 
 ### Internal vs External
-- **Internal BST:** ~6 emails (Brandon Messersmith, Beck Cotter, Joshua Waldman, info@blackswifttech.com)
-- **External:** ~10 emails (Krateosky, PTC, FPC Troy, ERAU, NASA, Inspired Flight)
+- **Internal BST:** ~10 emails (Jack Elston, Brandon Messersmith, Meredith Needham, Joshua Waldman, Beck Cotter, info@blackswifttech.com)
+- **External:** ~18 emails (ERAU, Murray State, CU Boulder, NOAA, Krateosky, PTC, Inspired Flight, NASA LARC, Rule 4, FPC Troy)
 
 ## Topic Patterns
 
-### Work Projects & Technical
-- **S0 deployment tube storage rack** — build sheet review (Brandon Messersmith, multiple exchanges)
-- **KS Arena Implementation Orientation** — large multi-party meeting (Krateosky, PTC, Inspired Flight collaboration)
-- **NASA wind tunnel testing at ERAU** — external research collaboration
+### Government & Research Collaboration
+- **NASA wind tunnel testing at ERAU** — multi-party coordination (NOAA Federal involvement, ERAU engineering team, Joshua Wadler)
+- **UAS Flux Topos @ Murphy's Pond** — 6/28 field testing project (Jack Elston, Murray State, ERAU collaboration)
+- **Hurricane research/atmospheric data** — NOAA involvement suggests weather/atmospheric focus
 
-### Hiring/Recruitment
-- **Sr. Firmware Engineer position** — candidate "Marty Bruner" (Bina Menon, FPC Troy recruitment)
-- **Technical Project Manager Req** — position forwarded to external contact
-- **Junior Software Developer** — inbound inquiry (Beck Cotter forwarding)
-- **Manufacturing facility tours** — inbound inquiry (Beck Cotter forwarding)
+### Technical & Security
+- **CMMC + Infrastructure Management** — cybersecurity compliance discussion (Dan Mackin, Rule 4)
+- **S0 deployment tube storage rack** — ongoing manufacturing/hardware project
 
-### External Organizations Mentioned
-- **Krateosky** (multiple team members, appears to be partner/client organization)
-- **PTC** (Mark Andres — software/implementation partner)
-- **Inspired Flight** (Nick Winsick — external collaborator)
-- **ERAU** (Embry-Riddle Aeronautical University — wind tunnel testing)
-- **NASA LARC** (Langley Research Center — collaboration partner)
-- **FPC Troy** (Bina Menon — recruitment firm)
+### Business/Corporate
+- **D&O Binders 2026–2027** — Directors & Officers insurance/corporate governance (Krateosky internal, cc'd to BST team)
+- **KS Arena Implementation** — multi-stakeholder project (Krateosky, PTC)
+
+### Academic Partnerships
+- **CU Boulder meeting follow-up** — Brian Argrow (aerospace engineering prof) post-meeting discussion
+- **ERAU wind tunnel collaboration** — multiple ERAU faculty (Wadler, Gnanamanickam, Zhang)
+- **Murray State University** — UAS research/field testing partner
+
+### External Organizations Mentioned (New)
+- **NOAA Federal** (Joe Cione, Atlantic Oceanographic & Meteorological Lab implied)
+- **University of Colorado Boulder** (Brian Argrow, aerospace engineering)
+- **Murray State University** (Bassil El Masri — UAS/atmospheric research)
+- **Rule 4** (Dan Mackin — CMMC/cybersecurity consulting)
 
 ## Communication Patterns
 
-### Dual Email Addresses
-- Uses both **cory.dixon@blackswifttech.com** and **cory@krateosky.com**
-- Suggests dual role or close Krateosky affiliation (not just external contact)
-- Draft email from cory@krateosky.com (unsent)
+### Dual Email Addresses & Role Visibility
+- **cory.dixon@blackswifttech.com** (primary) and **cory@krateosky.com** (significant Krateosky involvement)
+- Receives forwarded/cc'd emails where Jack Elston is primary recipient on government/research projects
+- Suggests Cory may serve as internal BST liaison or project coordination point
 
-### Large Group Emails
-- Participates in multi-stakeholder Krateosky/PTC project coordination emails (8+ recipients)
-- Includes internal BST contact (joshua.waldman@blackswifttech.com) in Krateosky meetings
+### Large Multi-Party Coordination
+- NASA wind tunnel project involves: ERAM faculty, NOAA, BST internal team (Jack Elston, Joshua Waldman), appears to be coordinated through Jack but visible to Cory's inbox
+- D&O Binders email: Krateosky sending to multiple BST contacts (Jack Elston, Meredith Needham, Lynn Regnier)
 
 ### Time Activity
-- Evening/night activity visible (11:23 PM, 11:42 PM, 12:44 AM UTC on Nov 2–3)
-- Also active during business hours (morning through evening)
+- Continues evening/night pattern (10:52 PM–11:23 PM UTC, 22:32 UTC timestamps)
+- Active across all business hours and extended hours
+
+### Email Flags
+- Heavy use of IMPORTANT flag (8 of 12 new emails flagged IMPORTANT)
+- Suggests filtering for high-priority government contracts, partnership coordination, security/compliance matters
 
 ## Key Relationships
 
 ### Closest Collaborators (by frequency)
-1. **Brandon Messersmith** (BST internal) — technical/engineering discussions (S0 deployment)
-2. **Bina Menon** (external, FPC Troy) — hiring coordination
-3. **Mark Andres** (PTC) — Krateosky Arena implementation partner
-4. **Don Spinozzi** (Krateosky) — project coordination lead
+1. **Jack Elston** (BST internal) — major collaboration point for government research, NASA partnerships, UAS projects, academic meetings
+2. **Brandon Messersmith** (BST internal) — hardware/engineering coordination
+3. **Bina Menon** (FPC Troy) — hiring coordination
+4. **Joshua Waldman** (BST internal) — Krateosky and government research projects
 
-### External Strategic Relationships
-- **Krateosky** — appears to be major partner/client with dedicated team collaboration
-- **PTC** — implementation/software partner
-- **NASA LARC** — government research collaboration
-- **ERAU** — academic research partner
-- **Inspired Flight** — technical partner on KS Arena project
-- **Bhargav Donthineni** (Gmail contact) — ongoing discussion on unmanned aircraft science programs
+### External Strategic Relationships (Expanded)
+- **ERAU** (Ebenezer Gnanamanickam, Joshua Wadler) — active wind tunnel testing partnership with NASA
+- **CU Boulder** (Brian Argrow) — aerospace engineering partnership, post-meeting follow-up
+- **Murray State University** (Bassil El Masri) — UAS atmospheric research
+- **NOAA Federal** (Joe Cione) — government research/atmospheric data collaboration
+- **Krateosky** — continued corporate/project partnership (D&O insurance coordination)
+- **Rule 4** (Dan Mackin) — CMMC cybersecurity compliance consulting
+- **PTC** — Krateosky Arena implementation partner
 
 ## Notable Observations
 
-1. **Krateosky Involvement:** Cory maintains active Krateosky email account and participates in large cross-organizational implementation meetings despite being listed as BST employee — suggests significant BST-Krateosky partnership or project.
+1. **Jack Elston as Primary Contact Hub:** Jack Elston is Cory's top correspondent in new data, primarily for government/research projects (NASA, NOAA, ERAU, UAS). Suggests Jack may be Cory's primary external liaison or project lead, with Cory handling internal coordination or follow-up.
 
-2. **High-Touch Hiring Activity:** Multiple recruitment-related emails (Sr. Firmware Engineer, Technical PM, Junior Developer) suggest Cory may have HR/recruiting responsibilities or is actively involved in team building.
+2. **NASA & NOAA Partnership Activity:** Three separate emails in 24 hours about NASA wind tunnel testing with NOAA Federal involvement indicates active government contract work or research grant in progress (possibly weather/atmospheric UAS research).
 
-3. **Government/Academic Collaboration:** Visibility into NASA LARC partnerships and ERAU wind tunnel testing indicates BST work includes aerospace research and testing.
+3. **Academic Network Expansion:** Growing visible relationships with three universities (ERAU, CU Boulder, Murray State) across atmospheric/aerospace research suggests BST is positioning as aerospace research/testing contractor.
 
-4. **Late-Night Work Pattern:** Multiple emails sent/drafted in evening/night hours (11 PM–12:45 AM) suggests deadline-driven project work or timezone coordination.
+4. **Cybersecurity/Compliance Focus:** CMMC (Cybersecurity Maturity Model Certification) discussion with Rule 4 consulting firm suggests BST pursuing DoD/government contracting compliance certifications — likely prerequisite for government work.
 
-5. **Technical Focus:** S0 deployment project involves manufacturing/mechanical specifications (build sheets) — suggests hardware engineering or manufacturing operations involvement.
+5. **Corporate Governance Activity:** D&O Binders email from Krateosky to multiple BST contacts suggests formal corporate governance/insurance management — possibly pre-acquisition or major funding event.
 
-6. **ChatGPT Usage:** Previous knowledge shows recent adoption of ChatGPT for "Write faster" — may indicate writing/documentation workload.
+6. **UAS/Atmospheric Research Focus:** UAS Flux Topos project at Murphy's Pond + NASA wind tunnel + NOAA involvement suggests BST is developing or testing atmospheric measurement/data collection unmanned aircraft (possibly for hurricane/weather research).
+
+7. **Inbox Management:** Heavy IMPORTANT flag usage (67% of new emails) indicates Cory is triaging to priority government contracts, security compliance, and corporate/partnership matters — likely not handling all incoming email volume.

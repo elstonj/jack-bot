@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
-  "scanned_at": "2026-11-03",
+  "scanned_at": "2026-11-04",
   "projects": [
     {
       "project_code": "001-1",
@@ -74,10 +74,10 @@
     {
       "project_code": "001-3",
       "revenue": 0.0,
-      "expenses": 1194.37,
+      "expenses": 1243.3,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 5,
+      "purchase_count": 6,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 37048.02,
+      "expenses": 37113.92,
       "invoice_count": 0,
       "bill_count": 8,
-      "purchase_count": 108,
+      "purchase_count": 109,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -115,10 +115,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 206787.05,
+      "expenses": 206827.01,
       "invoice_count": 0,
       "bill_count": 31,
-      "purchase_count": 260,
+      "purchase_count": 261,
       "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1008500.0,
-      "expenses": 410741.88,
+      "expenses": 410776.9,
       "invoice_count": 11,
       "bill_count": 21,
-      "purchase_count": 315,
+      "purchase_count": 316,
       "po_count": 0,
       "payment_count": 8,
       "qbo_class_names": [
@@ -333,13 +333,13 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3795798.67,
-      "expenses": 4737232.28,
-      "invoice_count": 59,
-      "bill_count": 136,
-      "purchase_count": 2579,
+      "revenue": 3799134.01,
+      "expenses": 4815573.18,
+      "invoice_count": 60,
+      "bill_count": 138,
+      "purchase_count": 2580,
       "po_count": 3,
-      "payment_count": 54,
+      "payment_count": 56,
       "qbo_class_names": [
         "",
         "(001-8) IRAD Flight Testing",
@@ -348,10 +348,13 @@
         "(200-10) AREN 2024",
         "(301-2) 2020 WPO Hurricane Phase II",
         "(400-5) SMM Phase II 22.4D",
+        "(900) Krateo Sky- Industrial Plan:[925-01] Insurance",
+        "(900) Krateo Sky- Industrial Plan:[925-02] Legal and Consulting",
         "(900) Krateo Sky- Industrial Plan:[925-03] New Office Space Leasing",
         "Alliance for Energy Innovation, LLC",
         "Black Swift Technologies",
         "Black Swift Technologies:[001-22] Aeropods Commercial",
+        "Boostr Consulting",
         "Boulder High School",
         "IRISS, CU Boulder",
         "NASA Ames Research Center",

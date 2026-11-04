@@ -1,24 +1,29 @@
-_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
 
 # [032-3] Sasquatch S0s x 4
 
 ## Overview
 - **Client:** University of Notre Dame (David Ritcher, David.Richter.26@nd.edu)
-- **Dollar value:** $88,705
-- **Timeline:** Verbal order placed 2026-02-19; 4-month delivery timeline; project due 2026-07-01
-- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-26)
-- **Team:** Jack Elston (owner), BST
-- **Customer type:** Commercial
+- **Dollar Value:** $88,705
+- **Timeline:** Verbal order Feb 19, 2026 | Due: July 1, 2026 (4-month timeline from Jack Elston)
+- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-28 — project ready for closure)
+- **Team:** Jack Elston (Project Owner), BST whole team
+- **Customer Type:** Commercial
 
 ## Key Deliverables & Milestones
 - **Deliverable:** 4x Sasquatch S0 units + travel
-- **Estimate:** #1373
-- **Due date:** 2026-07-01
+- **Basis:** Estimate 1373 (verbal order confirmed Feb 19, 2026)
+- **Target Delivery:** July 1, 2026
 
 ## Task Summary
-- **0 open tasks, 0 completed tasks** (all tasks cleared/archived)
+- **Total tasks:** 0 open, 0 completed (no Asana tasks recorded)
 
-## Status & Context
-**ARCHIVED PROJECT.** Per Maciej's feedback (2026-10-26), this project is ready to be archived. All deliverables appear complete — no open work remains in Asana. The project has been marked archived by the project owner.
+## Status & Recent Activity
+Per **Maciej (2026-10-28)**, this project is flagged for archiving by project owner **@U01511MEQ90**. The project is effectively complete and has been marked for closure in Asana. No active tasks remain.
 
-**Note:** All associated tasks have been closed out. Archive confirmation from Maciej indicates this is routine post-delivery archival.
+## Notes & Context
+- Order confirmed verbally by David Ritcher on Feb 19, 2026
+- Jack Elston provided 4-month delivery timeline
+- Budget alignment: $88,705 total funding = total budget
+- No task list maintained in Asana (all work tracking appears external or completed)
+- Ready to archive per team workflow instructions

@@ -1,68 +1,87 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 12 emails (3 from previous scan + 9 new)
-- **Date range:** 1 Nov 2026 – 2 Nov 2026
-- **Volume:** Low (concentrated activity on 1 Nov and 2 Nov; appears episodic rather than daily)
+- **Total messages scanned:** 31 emails (12 from previous scan + 19 new)
+- **Date range:** 1 Nov 2026 – 4 Nov 2026
+- **Volume:** Moderate, episodic; concentrated activity on Nov 1–2, ramping up again Nov 3–4 with increased external engagement
 
 ## Key Correspondents
 
 ### Internal (BST)
-- **Jack Elston** (elstonj@blackswifttech.com) — Most frequent correspondent; appears in 6 of 12 emails, often as discussion lead or reply-to
-- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Active in core2 discussions; 2 emails
-- **Frank Strazzabosco** (microfirm@earthlink.net) — External but closely integrated in internal threads; 2 emails mentioning him, 1 direct to Sam
+- **Jack Elston** (elstonj@blackswifttech.com) — Most frequent correspondent; 6+ emails; discussion lead on technical topics
+- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Active in core2 discussions; 2+ emails
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — New correspondent (Nov 3); forwarded important event notification (MicroNova + Black Swift in Boulder Nov 12–22)
 
 ### External
-- **Roberts Reizins** (roberts@michaelvortexcapital.co) — Michael Vortex Capital; 1 email marked IMPORTANT and UNREAD; appears to be investor/capital contact
-- **Frank Strazzabosco** (microfirm@earthlink.net) — Recurring external collaborator in technical discussions
+- **Frank Strazzabosco** (microfirm@earthlink.net) — Recurring external collaborator; now 5+ emails in dataset; increasingly active Nov 3 (multiple rapid exchanges); marked IMPORTANT; integrated into internal threading with Jack and Ali
+- **Matt Crabtree** (matt.crabtree@waveformengineering.com) — **NEW key contact**; Waveform Engineering; 5 emails Nov 3–4, marked IMPORTANT; rapid back-and-forth on "S3 Pivot Hub Boards" topic
+- **Thinh Nguyen** (thinh991@yahoo.com) — **NEW external contact**; 3 emails Nov 3; marked IMPORTANT; topic: "Updates?"
 
 ### Automated
-- **Asana** (no-reply@asana.com) — Task management; 2 notifications
-- **Rippling** (no-reply@rippling.com) — 1 financial transaction notification
-- **VirtualizationReview.com** — Newsletter/promotion
+- **Asana** (no-reply@asana.com) — Task management; 3 notifications across scans
+- **Rippling** (no-reply@rippling.com) — Financial/HR platform; transaction notification Nov 4
 
 ## Topic Patterns
 
-### Primary Focus: PSNS & Core Versions
-- **"Psns v1.6"** — appears in Nov 1 threads
-- **"Psns v0.37"** — appears in Nov 1 threads
-- **"core2 v.04"** — dominant topic Nov 2; multiple reply chain involving Jack, Ali, Frank
-- **"core v29b"** — referenced Nov 1
+### Primary Focus: Core & PSNS Versions
+- **"core2 v.04"** — Dominant Nov 1–3; multi-party discussion (Jack, Ali, Frank); multiple IMPORTANT flags
+- **"Psns v1.6" / "Psns v0.37"** — Referenced Nov 1
+- **"core v29b"** — Referenced Nov 1
 
-### Project/Product Pattern
-Appears to be working on versioned software releases or components (PSNS, core series). The rapid iteration and multi-party discussion suggests active development or deployment phase.
+### New Project: S3 Pivot Hub Boards
+- **"S3 Pivot Hub Boards"** — NEW topic Nov 3; 5 emails with Matt Crabtree (Waveform Engineering); marked IMPORTANT; appears urgent (rapid response cadence)
+- Indicates hardware or board-level integration work
+
+### External Engagement: MicroNova Event
+- **"In Boulder Nov 12–22 | MicroNova + Black Swift"** — Forwarded by Joshua Fromm Nov 3; marked IMPORTANT
+- Suggests industry event or partnership activity
+
+### Vague External Inquiry
+- **"Updates?"** — Thinh Nguyen inquiry Nov 3; marked IMPORTANT; suggests ongoing external relationship requiring status communication
 
 ## Communication Patterns
 
 ### Time Distribution
-- **Nov 1:** 3 emails early morning (08:06–08:08 PST) — all replies to Jack Elston on Sunday
-- **Nov 2:** 6 emails spread across day (09:00–18:24), with clustering 09:00–10:45 and 15:02–18:24
-- Heavy activity on weekdays; Sunday activity was lightweight (replies only)
+- **Nov 1:** Early morning cluster (08:06–08:08 PST, Sunday)
+- **Nov 2:** Spread across day (09:00–18:24); heaviest in morning (09:00–10:45)
+- **Nov 3–4:** Sustained activity; heaviest Nov 3 afternoon (14:41–19:39 PST); late-night exchanges with Matt Crabtree (UTC timestamps 23:01, 01:41, 02:36) suggest cross-timezone urgency
+- **Pattern:** Weekday afternoon/evening engagement; weekend replies only
 
 ### Conversation Structure
-- Participates in multi-party technical discussions (Jack → Frank → Ali → Sam threading visible)
-- Mark emails as IMPORTANT frequently
-- Receives Asana task reminders (7 tasks due, 5 assigned as of Nov 2)
+- Multi-party technical discussions (Jack → Frank → Ali threading)
+- Direct 1-on-1 exchanges with external vendors (Matt Crabtree, Frank Strazzabosco)
+- Rapid response cadence on IMPORTANT items (multiple replies within minutes/hours)
+- Forwarding emails to external partners (e.g., forwarded S3 Pivot Hub email to Matt Crabtree)
+- One draft email with no recipient (Nov 3, 14:41) — discarded or in progress
 
-### Communication Frequency
-- Part of active Asana workspace (task notifications suggest weekly cadence)
-- No evidence of mailing list participation in this dataset
+### Frequency & Volume
+- Asana: 7 tasks due, 5 newly assigned as of Nov 3
+- External email volume increased Nov 3–4 (new vendors: Waveform Engineering, thinh991)
+- No mailing list participation visible
 
 ## Key Relationships
 
 ### Closest Collaborators
-1. **Jack Elston** — Acts as discussion coordinator; initiates and replies to technical topics; Sam always copied
-2. **Ali Sulehria** — Peer-level collaboration on core2 development
-3. **Frank Strazzabosco** — External technical collaborator; integrated into internal BST discussions
+1. **Jack Elston** (BST) — Discussion initiator and coordinator; technical lead role
+2. **Frank Strazzabosco** (External) — Deeply integrated technical collaborator; increasing email volume and IMPORTANT flags; possibly contractor or vendor with privileged access to internal discussions
+3. **Ali Sulehria** (BST) — Peer on core2 development
 
-### External Relationships (High Priority)
-- **Roberts Reizins / Michael Vortex Capital** — IMPORTANT flag and UNREAD status suggests this is a notable contact; likely investor/funding relationship requiring prompt response
+### High-Priority External Relationships (NEW)
+1. **Matt Crabtree / Waveform Engineering** — Urgent hardware/board discussion (S3 Pivot Hub Boards); rapid response cycles; IMPORTANT flags; suggests active vendor/partner relationship
+2. **Thinh Nguyen** — External contact seeking updates; IMPORTANT flag; relationship unclear but appears time-sensitive
+3. **Joshua Fromm** (BST, forwarding) — Connected to MicroNova event in Boulder Nov 12–22
+
+### Investor/Capital Relationships
+- **Roberts Reizins / Michael Vortex Capital** — IMPORTANT, UNREAD (from previous scan); still pending
 
 ## Notable Observations
 
-- **Email address variation:** Sam uses both `sam.hild@blackswifttech.com` and `sam.hild@bst.aero` (newer domain?)
-- **External collaborator integrated in core discussions:** Frank Strazzabosco (earthlink.net) participates in internal technical threads as if he were a team member; suggests vendor, contractor, or close partner status
-- **Weekend work:** Sunday email activity suggests either time-zone coordination or high urgency on PSNS versions
-- **Investor contact flagged:** Roberts Reizins email marked IMPORTANT and UNREAD — may require priority attention
-- **Task-driven workflow:** Asana integration shows structured task management; currently has 7 tasks due and 5 newly assigned
-- **Low promotional email volume:** Only 1 newsletter detected despite being subscribed to tech publications
+- **Velocity increase:** Email activity ramped significantly Nov 3–4; shift from internal-focused (Nov 1–2) to external-focused discussions (Matt Crabtree, Thinh Nguyen, Joshua Fromm forwarding)
+- **New vendor relationship:** Waveform Engineering (Matt Crabtree) appears suddenly with high-urgency (IMPORTANT, rapid replies, cross-timezone activity)
+- **Frank Strazzabosco deepening involvement:** Now appears in 5+ emails; increasingly marked IMPORTANT; forwarding to internal team without Sam; suggests elevated status or role change
+- **Draft email flag:** One unsent draft on Nov 3 at 14:41 (recipient blank); may indicate interrupted communication or composition
+- **Cross-timezone coordination:** UTC timestamps in Matt Crabtree thread (23:01, 01:41, 02:36) indicate Sam responding late evening PST or very early morning — suggests project urgency or time-zone mismatch (possible UK/EU contact)
+- **Event coordination emerging:** MicroNova + Black Swift in Boulder Nov 12–22 flagged as IMPORTANT by Joshua Fromm; may require preparation or attendance planning
+- **Vague inquiry pattern:** "Updates?" from Thinh Nguyen (marked IMPORTANT) suggests external stakeholder expecting status communication
+- **Email address consistency:** All Sam-sent emails use sam.hild@blackswifttech.com; no additional domain variants in new data
+- **Low promotional volume maintained:** No newsletters or unsolicited mail in new dataset; focused on business correspondence

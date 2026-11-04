@@ -5,15 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-3) IRAD S0"
   ],
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 1194.37,
+    "expenses": 1243.3,
     "by_category": {
       "Indirect Cost:Internal Research and DevelopmentX": 719.37,
-      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 475.0
+      "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 475.0,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 48.93
     }
   },
   "invoices": [],
@@ -58,6 +59,34 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 48.93,
+      "attributed": 48.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4617",
+      "lines": [
+        {
+          "amount": 36.32,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "USB Cables / IEEE 1394 Cables 1 ft Micro USB Cable - A to Right A ... RoHS Compliant"
+        },
+        {
+          "amount": 8.49,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping Total"
+        },
+        {
+          "amount": 4.12,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Estimated Sales Tax"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2025-07-24",

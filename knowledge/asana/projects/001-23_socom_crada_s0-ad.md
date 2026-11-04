@@ -1,48 +1,43 @@
-_Asana snapshot as of 2026-11-02: 5 open tasks, 4 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 5 open tasks, 4 completed (last 90 days)._
 
 # SOCOM (CRADA) S0-AD
 
 ## Overview
-- **Client/Customer:** SOCOM (Special Operations Command) — CRADA (Cooperative Research and Development Agreement)
-- **Dollar Value:** Not specified in Asana data
-- **Timeline:** Active R&D project; last completed tasks in August 2026; recent updates mid–late October 2026
-- **Status:** **Active, undergoing restructuring.** Project is in engineering execution phase with near-term hardware arrivals expected late October / early October 19.
-- **Team Members:** Dan Prendergast (owner), Josh Fromm, Maciej (planning/restructuring)
-- **Risk Signals:** 
-  - Multiple open milestones lack due dates (Hand Launch, EO/IR Sensor, ATR integration)
-  - Asana project is being refactored as of Oct 27–30; formal due dates may be realigned
-  - Hardware arrivals (end cap, accelerometer) expected late Oct 19 week are critical path items
+- **Client**: U.S. Special Operations Command (SOCOM) — CRADA (Cooperative Research and Development Agreement)
+- **Project Owner**: Dan Prendergast
+- **Status**: Active R&D; undergoing Asana restructuring as of late October 2026
+- **Team**: Dan Prendergast (lead), Josh Fromm (engineering)
+- **Risk Signal**: Asana project structure is being refactored; see Recent Activity for current state
 
 ## Key Deliverables & Milestones
-1. **Hand Launch from C-130** (High priority, Waiting) — No due date in Asana; critical for deployment testing
-2. **EO/IR Sensor Integrated** (Medium priority, In Progress) — No due date
-3. **ATR (Automatic Target Recognition) Integrated** — No due date
-4. **Demo Planning & Logistics** ✓ *Completed 2026-08-20*
-5. **Deployment Sleeve for Hand-Launch** ✓ *Completed 2026-08-20*
+- **Hand Launch from C-130** — High priority; awaiting final testing phase
+- **EO/IR Sensor Integrated** — Medium priority; in progress
+- **ATR (Automatic Target Recognition) Integrated** — Scope TBD; no due date
+- **Hardware & Processing Hardware Selection** — Both in active work
 
 ## Task Summary
-- **Total:** 5 open, 4 completed
-- **Assignees:** Mostly unassigned in Asana; recent work tracked by Josh Fromm and Dan Prendergast
-- **Completion Rate:** 44% (4 of 9 tasks closed) — reflects early-stage R&D
-- **Recent Progress:** 
-  - Last completions August 2026 (demo prep, deployment sleeve, S/N sticker labeling, C-130 startup test)
-  - Two tasks marked "Done" status but remain open in Asana (Select processing hardware, Select hardware)
+- **Total**: 5 open, 4 completed (44% completion rate)
+- **Assignees**: 
+  - Dan Prendergast: 1 task (most recent: administrative — serial number stickers, completed Aug 2026)
+  - Josh Fromm: 1 task (test process for C-130 handoff, completed Aug 2026)
+  - Unassigned: 8 tasks (majority of active work)
+- **Completion Pattern**: Last substantive completion was August 2026; project has been in active engineering phase since then
 
 ## Recent Activity
-**Per team feedback (Daniel Prendergast, Oct 7–8, 2026):**
-- Top-level requirements being derived from five CONOPS in ROMs — **completion expected early next week** (week of Oct 14)
-- Josh Fromm completing end cap CAD and sending out for quote
-- Accelerometer for ejection force profile measurement ordered
-- **Hardware arrivals expected late week of Oct 19 or early week of Oct 26** — end cap and accelerometer
-- First test fire planned after hardware receipt
+**Team Structure Changes (October–November 2026):**
+- **Oct 27**: Maciej initiated Asana restructuring to simplify active R&D tracking. New approach: two-level planning with Asana tracking long-term milestones and upcoming weekly tasks; physical Kanban board managing weekly engineering execution. 6-month rolling milestone plan to be introduced.
+- **Oct 30 & Nov 2**: Daniel Prendergast reported ongoing refactoring work; "Project and stickies will be ready by Monday morning" (targeting early November).
 
-**Per Maciej (Oct 27, 2026):**
-- Asana project restructuring in progress to simplify active R&D visibility
-- Two-level planning model: Asana tracks long-term milestones + weekly tasks; physical Kanban board manages weekly engineering execution
-- **Daniel refactoring SOCOM Asana project — new structure and stickies ready by Monday morning (Oct 31)**
+**Engineering Status (Early October):**
+- **Oct 7–8**: Daniel Prendergast reported to KS meeting:
+  - Top-level requirements being derived from five CONOPS (Concepts of Operations) in ROMs — to complete early week of Oct 14
+  - Josh completing end cap CAD; sending out for quote
+  - Accelerometer ordered to measure ejection force profile
+  - Expected delivery of end cap and accelerometer: late October or week of Oct 19
+  - First test fire planned to follow hardware arrival
 
 ## Notes & Context
-1. **Asana data is becoming stale** — Team is actively refactoring the project structure (as of Oct 27–30). Many tasks lack due dates, and open/completed status does not always reflect real-world progress. Rely on Daniel's recent updates over Asana milestone dates.
-2. **Hardware-dependent path:** End cap quote and accelerometer arrival (expected ~Oct 19 week) are on critical path for test fire execution.
-3. **Requirements derivation in progress:** Top-level requirements from five CONOPS should finalize early week of Oct 14, unblocking design decisions.
-4. **Kanban + Asana hybrid model:** Weekly execution will track on physical Kanban; Asana reserved for milestone planning and rolling 6-month visibility.
+- **CRADA Status**: This is a formal cooperative agreement with SOCOM; likely involves classified or controlled technical data
+- **Test Hardware Phase**: Project is actively procuring and testing physical components (end caps, accelerometers) for launch/ejection validation
+- **Asana Limitations Acknowledged**: Team is actively moving away from Asana as sole project tracker for day-to-day execution; Kanban board is primary for weekly engineering work. Current Asana task list may not reflect real-time progress — refer to team feedback and Kanban board for current status
+- **Dates in Feedback**: October 2026 feedback indicates hardware delivery expected by mid-to-late October; first test fire to follow. No delays or blockers mentioned as of early November

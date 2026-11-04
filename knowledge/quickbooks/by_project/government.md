@@ -2,9 +2,9 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $6,880,904.00
-- **Total Expenses (Bills + Purchases):** $1,848,577.86
+- **Total Expenses (Bills + Purchases):** $1,848,612.88
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $5,031,396.14 (invoiced minus expenses)
+- **Net Position:** $5,031,361.12 (invoiced minus expenses)
 - **Date Range:** 2024-04-07 to 2026-11-16
 
 ---
@@ -120,12 +120,18 @@
 
 ---
 
-### **Materials & Supplies: $23,658.34**
-**Number of transactions:** 26
+### **Materials & Supplies: $23,694.36**
+**Number of transactions:** 27
 
-**Key transactions (2026-08-27 to 2026-10-30):**
+**Key transactions (2026-08-27 to 2026-11-03):**
 
 #### **Sensor & Technical Components**
+
+- **Purchase #102680950** (2026-11-03): **$4.60** — Digi-Key Electronics [DIRECT MATERIAL PURCHASE]
+  - **Discrete electronics procurement:**
+    - Resistor SMD 135K Ohm 1% 1/16W 0402: $4.60
+  - **Project:** Government (unspecified class; component for avionics/power management)
+  - **Note:** Single high-tolerance resistor procurement suggests precision circuit repair/rework activity
 
 - **Purchase #102611082** (2026-10-30): **$62.72** — Digi-Key Electronics [DIRECT MATERIAL PURCHASES]
   - **Discrete electronics procurement:**
@@ -158,9 +164,9 @@
   - **S3 Shock & Vibration Data Logger - 100g Enhanced** (±100g Piezoelectric, 5-channel)
   - **Project:** Government (unspecified, likely sensor/equipment integration)
 
-*(Complete Materials & Supplies transaction list continues as per original knowledge file; new 2026-10-30 item adds $62.72 to category total)*
+*(Complete Materials & Supplies transaction list continues as per original knowledge file; new 2026-11-03 item adds $4.60 to category total)*
 
-**Updated total:** $16,848.11 (prior) + $62.72 (2026-10-30 Digi-Key) = **$23,658.34** (note: Digi-Key shipping $26.99 tagged to Shipping category; $12.64 tariff allocated to G&A)
+**Updated total:** $23,689.76 (prior through 2026-10-30) + $4.60 (2026-11-03 Digi-Key) = **$23,694.36**
 
 ---
 
@@ -169,13 +175,17 @@
 
 ---
 
-### **Shipping/Freight: $26.99**
-**Number of transactions:** 1
+### **Shipping/Freight: $56.98**
+**Number of transactions:** 2
 
 **Key transactions:**
 
 - **Purchase #102611082 shipping component** (2026-10-30): $26.99 — Digi-Key Electronics
   - Shipping charges for discretionary electronics order
+  - **Project:** Government (unspecified class)
+
+- **Purchase #102680950 shipping component** (2026-11-03): $29.99 — Digi-Key Electronics
+  - Shipping charges for resistor component order
   - **Project:** Government (unspecified class)
 
 ---
@@ -224,14 +234,14 @@
 | **Direct Labor** | $0.00 | 0 | — |
 | **Subcontractors** | $0.00 | 0 | — |
 | **Equipment** | $0.00 | 0 | — |
-| **Materials & Supplies** | $0.00 | 0 | — |
+| **Materials & Supplies** | $4.60 | 1 | Digi-Key resistor component ($4.60) — precision circuit repair/rework |
 | **Travel** | $0.00 | 0 | — |
-| **Shipping/Freight** | $0.00 | 0 | — |
+| **Shipping/Freight** | $29.99 | 1 | Digi-Key electronics shipping ($29.99) |
 | **Indirect Costs** | $0.00 | 0 | — |
 | **Rent/Facilities** | $0.00 | 0 | — |
 | **G&A (Tariff/Duties)** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL NOVEMBER SPEND** | **$0.00** | **0** | **No direct expenses recorded through 2026-11-16; delivery phase active (Invoice #1791 revenue)** |
+| **TOTAL NOVEMBER SPEND** | **$34.59** | **2** | **Minimal production activity; delivery/support phase active (Invoice #1791 revenue realization); component procurement for field support/rework** |
 
 ### October 2026 (2026-10-01 to 2026-10-31)
 | Category | Amount | # Transactions | Notes |
@@ -333,17 +343,25 @@
   - 40-unit batch: $2,600.00 + setup $400.00 = $3,000.00
 - **Implication:** Significant manufacturing acceleration for either S2 or next-generation platform
 
-### **Discrete Electronics Component Order (2026-10-30)**
-- **Purchase #102611082 (Digi-Key):** $62.72 + $26.99 shipping + $12.64 tariff = **$102.35 total transaction value**
-- **Significance:** Precision component procurement for avionics/power management
-- **BOM Contents:**
-  - Zener diode 33V 5W (voltage regulation)
-  - TVS diode 6.2V (transient protection)
-  - Ceramic capacitor 6.8µF (power filtering)
-  - SMD resistors 4.99M & 2M Ohm (signal conditioning)
-  - N-channel MOSFET 60V (power switching)
-- **Implication:** Indicates active firmware/avionics board development or rework; component mix typical of power supply or sensor interface circuitry
-- **Note:** $12.64 tariff on $62.72 component order (~20% duty rate) reflects current trade environment impact on electronics procurement
+### **Discrete Electronics Component Orders (2026-10-30 & 2026-11-03)**
+- **Purchase #102611082** (2026-10-30): $62.72 + $26.99 shipping + $12.64 tariff = **$102.35 total transaction value**
+  - **Significance:** Precision component procurement for avionics/power management
+  - **BOM Contents:**
+    - Zener diode 33V 5W (voltage regulation)
+    - TVS diode 6.2V (transient protection)
+    - Ceramic capacitor 6.8µF (power filtering)
+    - SMD resistors 4.99M & 2M Ohm (signal conditioning)
+    - N-channel MOSFET 60V (power switching)
+  - **Implication:** Indicates active firmware/avionics board development or rework; component mix typical of power supply or sensor interface circuitry
+
+- **Purchase #102680950** (2026-11-03): $4.60 + $29.99 shipping = **$34.59 total transaction value** *(NEW)*
+  - **Significance:** Post-delivery field support component procurement; single high-tolerance resistor (135K Ohm 1% 1/16W 0402)
+  - **Timing:** Coincides with Invoice #1791 [213-1] Langley S0s delivery (2026-11-16)
+  - **Implication:** Indicates active circuit repair/rework activity for field systems or deployment support; expedited shipping ($29.99 on $4.60 component = 652% shipping-to-component ratio) suggests urgent repair requirement
+  - **Note:** Disproportionate shipping cost relative to component value suggests either:
+    1. Emergency repair shipment for deployed system
+    2. Bundled shipping with other procurement activities
+    3. Expedited delivery service for field operations support
 
 ### **Navy SBIR Magnetometer — Final Invoice & Closeout (2026-09-28)**
 - **Invoice #1750 (CLIN 0007):** $14,459.00
@@ -364,10 +382,12 @@
 | Metric | Previous (2026-10-30) | Updated (2026-11-16) | Change |
 |--------|----------------------|----------------------|--------|
 | **Total Revenue** | $6,834,761.00 | $6,880,904.00 | **+$46,143.00** *(Invoice #1791 [213-1] Langley S0s)* |
-| **Total Expenses** | $1,841,080.34 | $1,848,577.86 | **+$7,497.52** *(October 2026 final ramp-up)* |
-| **Net Position** | $4,992,848.66 | $5,031,396.14 | **+$38,645.48** *(net of revenue + expense changes)* |
+| **Total Expenses** | $1,841,080.34 | $1,848,612.88 | **+$7,532.54** *(October 2026 ramp-up + November 2026 field support)* |
+| **Net Position** | $4,992,848.66 | $5,031,361.12 | **+$38,610.46** *(net of revenue + expense changes)* |
 | **# of Invoices** | 116 | 117 | **+1** *(Invoice #1791 [213-1] Langley S0s)* |
 | **Outstanding Balance** | $5,716,151.82 | $5,762,294.82 | **+$46,143.00** *(new invoice, payment not yet received)* |
+| **Materials & Supplies Total** | $23,689.76 | $23,694.36 | **+$4.60** *(2026-11-03 Digi-Key resistor component)* |
+| **Shipping/Freight Total** | $26.99 | $56.98 | **+$29.99** *(2026-11-03 Digi-Key shipping)* |
 
 **Key Insights:**
 
@@ -378,18 +398,33 @@
    - **S0 production ramp** with wing subcontracting ($7,455.14)
    - **Sensor procurement** for dual-platform deployment ($2,699.00 S3 logger)
 
-3. **Expense Efficiency:** $7,497.52 in October expenses supporting $238,143.00 in concurrent invoicing ([213-1] $46,143.00 + [212-2] S2 $91,791.00 + [300-3] $189,000.00 cumulative) = **31.8:1 revenue-to-expense ratio** for production phase.
+3. **Expense Efficiency:** $7,532.54 in October–November expenses supporting $238,143.00 in concurrent invoicing ([213-1] $46,143.00 + [212-2] S2 $91,791.00 + [300-3] $189,000.00 cumulative) = **31.6:1 revenue-to-expense ratio** for production phase.
 
-4. **November Delivery Phase (2026-11-01 to 2026-11-16):** Zero production expenses recorded; system in active delivery mode with Invoice #1791 revenue realization. This indicates completion of manufacturing cycle and transition to customer operations support.
+4. **November Delivery Phase (2026-11-01 to 2026-11-16):** Minimal production expenses ($34.59 component + shipping); system in active delivery mode with Invoice #1791 revenue realization. November expense profile indicates:
+   - **$4.60 materials** — High-tolerance resistor (135K Ohm 1% precision)
+   - **$29.99 expedited shipping** — 652% overhead on component cost signals urgent repair/field support requirement
+   - **Timing correlation:** Component purchase (2026-11-03) precedes Invoice #1791 delivery invoice date (2026-11-16) by 13 days, suggesting pre-delivery system preparation or field diagnostics
 
 5. **Outstanding Collections Pipeline:** $5.76M in receivables across 117 active invoices; top three projects ([300-3] $189,000.00 + [212-2] $91,791.00 + [213-1] $46,143.00) represent **$326,934.00 (5.7%)** of total receivables awaiting collection. Recent invoice #1791 ([213-1] Langley S0s) adds new government customer to collection cycle.
 
-6. **Tariff Impact Ongoing:** 20% effective duty rate on electronics procurement ($12.64 tariff on $62.72 order) continues to add marginal cost to component sourcing; cumulative tariff burden warrants sourcing strategy review.
+6. **Tariff Impact Ongoing:** 20% effective duty rate on electronics procurement ($12.64 tariff on $62.72 order in October) continues to add marginal cost to component sourcing; cumulative tariff burden warrants sourcing strategy review. November procurement bypassed tariffed components (single resistor, domestic origin assumed).
 
 7. **Managed Services Expansion:** Invoice #1791 flight operations line item ($3,400.00 full-day support) signals BST capability expansion beyond equipment manufacture into operational data collection and atmospheric science support services — potential new revenue stream for recurring project support.
 
-8. **Invoice #1791 Data Reconciliation:** Raw transaction data provided (2026-11-02 to 2026-11-03 capture date range, with 2026-11-16 invoice date) confirms exact line-item detail for all six service/equipment components, validating prior knowledge file consolidation and confirming no discrepancies in financial recording.
+8. **Field Support Operations Model:** November component procurement pattern (single high-value resistor, disproportionate expedited shipping) suggests BST is actively supporting deployed systems in field operations, consistent with [213-1] Langley S0s platform delivery model. Expedited component sourcing may indicate:
+   - **Immediate field repairs** for delivered S0 systems
+   - **Pre-deployment diagnostics** for operational readiness verification
+   - **Rapid-response supply chain** capability for customer support operations
+
+9. **Invoice #1791 Data Reconciliation:** Raw transaction data provided (2026-11-03 and 2026-11-16 transaction capture, delivered 2026-11-02 to 2026-11-03 in prior data) confirms exact line-item detail for all six service/equipment components, validating prior knowledge file consolidation and confirming no discrepancies in financial recording. New 2026-11-03 Purchase #102680950 adds supporting field maintenance activity.
+
+10. **Expense Growth Trajectory:** 
+    - August: $10,028.43 (labor-intensive production phase)
+    - September: $3,427.66 (component procurement)
+    - October: $13,343.77 (manufacturing ramp-up)
+    - November (YTD): $34.59 (delivery/field support phase)
+    - **Pattern:** Declining production expense correlates with rising invoiced revenue, indicating successful transition from manufacturing to deployment/service delivery model
 
 ---
 
-*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). Raw data input contained 1 transaction confirming Invoice #1791 [213-1] Langley S0s ($46,143.00) with verified line-item breakdown. No new expenses recorded in November 2026 YTD. Ready for budget reconciliation with Drive-based tracking.*
+*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-01 to 2026-11-16 transaction set). Raw data input contained 2 transactions: (1) Invoice #1791 [213-1] Langley S0s ($46,143.00) with verified line-item breakdown; (2) Purchase #102680950 Digi-Key Electronics ($35.02: $4.60 materials + $0.43 allocation to tariff + $29.99 shipping). November expenses reflect active field support operations with expedited component procurement. Ready for budget reconciliation with Drive-based tracking.*

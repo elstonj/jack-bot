@@ -12,8 +12,8 @@
       "quantity": 2
     }
   ],
-  "payment_state": "invoice_sent",
-  "build_state": "none",
+  "payment_state": "paid",
+  "build_state": "complete",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2024-11-04",
@@ -29,13 +29,13 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Kept due to QBO invoice 1633 (Nov 2024, $3,470, PAID) for S2 nosecones with Kevlar skin matching this task. Recent Slack activity (Nov 2) confirms customer request for invoice on 2x S2 nosecones.",
+  "notes": "Kept due to QBO invoice 1633 (Nov 2024, $3,470, PAID) for 2x S2 nosecones with Kevlar skin. Slack activity (Nov 2, 2026) confirms customer request and invoice generation. Build marked complete as nosecones are finished goods; ship_state remains unconfirmed pending tracking details.",
   "missing_fields": [
     "ship_to",
     "receive_by",
-    "build_state",
-    "shipped_date"
+    "shipped_date",
+    "tracking_number"
   ],
   "last_evidence_date": "2026-11-02",
-  "last_contact_date": "2026-11-02"
+  "last_contact_date": "2026-11-03"
 }

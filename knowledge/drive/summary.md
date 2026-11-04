@@ -1,75 +1,53 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-03 02:49
+Last scanned: 2026-11-04 02:55
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 21 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 5 files — [sales.md](sales.md)
+- **Federal Projects** — 4 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 7 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Google Drive Strategic Overview – Black Swift Technologies
+# Black Swift Technologies — Shared Drive Strategic Overview
 
 ## Summary Statistics
-- **Total files across drives:** 26 files
-- **Total folders:** 5 structured folders (plus root-level video files)
-- **Date range:** 2022–2099 (note: future-dated modifications suggest data integrity issues)
-- **Organization quality:** Moderate – Federal drive is well-structured; Sales drive lacks folder organization
+- **Total Documents:** 11 files across 2 drives
+- **Active Period:** October 2026 – November 2026
+- **Organization Level:** Minimal (7 files in Sales; 4 files in Federal Projects; limited folder structure)
 
----
+## Key Clients & Projects
 
-## Drive-Specific Observations
-
-### Federal Projects Drive (21 files, 5 folders)
-**Primary focus:** Hurricane operations UI design for NOAA S0 Hurricane Console
-
-**Structure strengths:**
-- Clear hierarchical organization (Project docs → NOAA references → BST references → Data)
-- Logical separation of external partner materials vs. internal operational docs
-- Project requirements and design briefs centrally located
-
-**Notable gaps:**
-- "04 Data and imagery" folder is empty (placeholder unfilled)
-- Video files stored at root level (RC_VID_0008.MOV, RC_VID_0009.MOV) rather than organized subfolder
-
-**Document types:** Requirements, design briefs, hotwash reports, checklists, presentations, timelines
-
----
-
-### Sales Drive (5 files, 0 folders)
-**Primary focus:** RAVEN project kickoff and partner engagement (UK visit planning)
-
-**Structure weaknesses:**
-- No folder hierarchy; all files at root level
-- Duplicate file entry (RAVEN Kickoff appears twice with same modification date)
-- Minimal documentation volume
-
-**Document types:** Meeting agendas, technical discussion notes, budget templates, visit logistics
-
----
+| Project | Drive | Documentation | Status |
+|---------|-------|----------------|--------|
+| RAVEN | Sales | Kickoff presentations, site visit materials | Active (modified 11/04) |
+| Vantor | Sales | Technical discussion notes | Active (modified 11/03) |
+| University of Bridgeport | Sales | ROM budgets, proposals | Active |
+| ROM (Federal) | Federal Projects | Budget documentation | Active (modified 11/03) |
+| Hurricane Console | Federal Projects | Requirements specification (Rev B) | Active |
 
 ## Cross-Drive Patterns
-- **Federal drive** = Project-heavy documentation with partner collaboration materials
-- **Sales drive** = Deal/partnership development stage (limited docs, early-phase materials)
-- No evidence of shared templates across drives; Sales has isolated budget template
+- **Sales Drive:** Presentations and meeting notes dominate; client-specific folders emerging (University of Bridgeport)
+- **Federal Projects Drive:** Mix of technical requirements and budget/video files; minimal organization
+- **Shared Resources:** ROM budgets appear in both Sales and Federal drives (potential duplication/sync issue)
 
----
+## Document Management Observations
+
+**Strengths:**
+- Recent activity indicates active use (all modifications within 9 days)
+- Consistent naming conventions on formal documents (BST-HUR-UI-REQ-001, date-prefixed files)
+
+**Concerns:**
+- **Flat structure:** Sales root directory contains 5 files with only 1 subfolder; Federal Projects is completely flat
+- **Naming inconsistency:** Mix of formal (BST-HUR-UI-REQ-001) and informal (Dan's Notes, nevada_drop.mp4)
+- **Media files in business drives:** Video files (RC_VID_0008/0009.MOV, nevada_drop.mp4) suggest no clear separation of asset management
+- **Future dates:** Two Federal Projects files show modification dates in 2099—likely data entry errors requiring correction
 
 ## Areas Requiring Attention
-1. **Data integrity:** Future-dated modifications (2099-01-24, 2026-11-03) suggest timestamp errors or test data
-2. **Duplicate files:** Sales drive has duplicate RAVEN Kickoff entries
-3. **Incomplete organization:** Federal drive's "Data and imagery" folder unfilled; videos at root level
-4. **Sales drive disorganization:** Needs folder structure (e.g., by project, by stage)
-5. **Template management:** No centralized template repository visible across drives
-
----
-
-## Recommendations
-- Audit and correct future-dated file modifications
-- Implement consistent naming convention across both drives
-- Organize Sales drive by project/client (RAVEN, Vantor, etc.)
-- Move/organize video files into appropriate Federal project subfolder
-- Create shared templates folder or documentation standards
+1. **Folder structure expansion** — Sales needs project folders; Federal Projects needs organizational framework
+2. **Date validation** — Correct 2099 timestamps in Federal Projects drive
+3. **Resource deduplication** — ROM Budget appears in both drives; establish single source of truth
+4. **Archive strategy** — Plan for managing completed projects (RAVEN, Vantor post-proposal)
+5. **Metadata consistency** — Standardize naming conventions across both drives

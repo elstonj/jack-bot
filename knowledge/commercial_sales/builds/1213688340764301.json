@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Early-stage concept for S0-VTOL launch/recovery from NOAA research vessel Ron Brown with autonomous ship landing, atmospheric sounding mission (45-day cruise, ~8 hr data turnaround). Preliminary ~$18k funding identified; customer pursuing additional Ron Brown funding. Target Spring 2028 mission. Collaboration includes publication requirements.",
+  "notes": "Early-stage NOAA Ron Brown vessel deployment concept for S0-VTOL with autonomous ship launch/recovery and atmospheric sounding mission. Spring 2028 target. Chidong Zhang actively evaluating lease vs. purchase options (detailed RFQ sent 2026-10-06). BST acknowledged production delays; current estimate mid-to-late 2027 availability. Collaboration includes publication requirements and training.",
   "missing_fields": [
     "ship_to",
     "estimate_date",
     "parts"
   ],
-  "last_evidence_date": "2026-10-29",
+  "last_evidence_date": "2026-11-03",
   "last_contact_date": "2026-11-06"
 }

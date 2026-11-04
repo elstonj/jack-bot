@@ -1,43 +1,47 @@
-_Asana snapshot as of 2026-11-02: 14 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 14 open tasks, 0 completed (last 90 days)._
 
 # BST Web Applications 2.0 IRAD
 
 ## Overview
-- **Project Type:** Internal R&D (IRAD — Independent Research and Development)
+- **Project Type:** Internal Research & Development (IRAD)
 - **Objective:** Develop web-based applications for mission planning and mission data analysis
 - **Owner:** Dan Prendergast
 - **Team:** Whole BST team
 - **Priority:** Low
-- **Status:** Early-stage planning; no due dates set; no tasks completed
-- **Risk Signal:** ECCN (Export Classification Number) requests needed urgently for multiple platforms to avoid delaying Canada project and LMUK/Royal Navy project — **not yet written** (as of 2026-10-08)
+- **Status:** Early-stage planning/concept phase (all 14 tasks open, no completion; no due dates assigned)
+- **Risk Signal:** Critical timing issue flagged by Daniel Prendergast — ECCN (Export Classification Number) requests needed soon to avoid impacts to Canada project and LMUK/Royal Navy project; applications not yet written
 
-## Key Context & Critical Action Items
+## Key Deliverables & Milestones
+1. **Mission Planner Application** — Coding phase (noted as "Optional Improvements")
+2. **Aircraft/Payload Analysis Tool** — Coding phase
+3. **System documentation** — Manuals, training materials, scientific data processing workflows
+4. **Testing & QA** — Full system validation
 
-### Immediate Export Control Action Required
-**[FEEDBACK, Daniel Prendergast, 2026-10-08]:** ECCN classification requests must be submitted very soon to protect pending external commitments:
-1. S3 with gimballed EO/IR camera
-2. S0-AD with fixed EO/IR camera  
-3. S0-AD with magnetometer
-
-**Status:** Applications not yet written; S3 is lower priority among the three.
-
-This is a **regulatory/contractual blocker** that could delay the Canada project and LMUK/Royal Navy project if not addressed promptly.
+No dollar amounts or specific dates currently defined in task list.
 
 ## Task Summary
-- **Total:** 14 open tasks, 0 completed
-- **Assigned:** 2 tasks to Dan Prendergast (System-level Concept/Architecture, Software Engineering); 12 unassigned
-- **No due dates set** — project appears in early planning phase with work-breakdown structure in place but no timeline committed
+- **Total tasks:** 14 open, 0 completed
+- **Assignments:** 
+  - Dan Prendergast: 2 tasks (System-level Concept & Architecture, Software Engineering)
+  - Unassigned: 12 tasks (Mechanical, Procurement, Fabrication, Coding, Testing, Analysis, Documentation, Training, Data Collection, Maintenance, Admin)
+- **Pattern:** Heavy skeleton structure with minimal assignment; project is in conceptual/architectural phase
 
-## Current Work Streams
-1. **Architecture & Engineering:** System-level concept, mechanical, software
-2. **Hardware/Physical:** Part purchasing, fabrication, assembly
-3. **Software Development:** Mission Planner coding, Aircraft/Payload Analysis Tool coding
-4. **QA & Testing:** Testing & Q&A
-5. **Documentation & Support:** System manuals, training, analysis, scientific data collection, repair/maintenance
-6. **Admin:** Logistics
+## Recent Activity & Alerts
+**⚠️ CRITICAL TIMING ISSUE (Daniel Prendergast, 2026-10-07–10-08):**
+ECCN applications must be submitted soon to avoid jeopardizing:
+- Pending Canada project
+- LMUK/Royal Navy project
 
-## Notes
-- This is an IRAD project (internal investment), marked Low priority in tracking
-- High fragmentation: most work is unassigned despite existing task structure
-- **Critical gap:** Export control compliance work (ECCN requests) is not represented as an Asana task despite being flagged as urgent and blocking other projects
-- Recommend: Create tracked task for ECCN applications (or delegate to responsible party immediately) and add timeline based on Canada/LMUK project schedules
+**Required ECCN classifications:**
+1. S3 with gimballed EO/IR camera
+2. S0-AD with fixed EO/IR camera
+3. S0-AD with magnetometer (lower priority)
+
+**Status:** Applications not yet drafted — Daniel notes he hasn't had time to write them up.
+
+## Notes & Context
+- This is a foundational IRAD with no external customer specified; appears to be internal platform development
+- Low priority designation suggests this is exploratory/longer-term work
+- No due dates or budget tracking visible in Asana; typical of IRAD structure
+- Urgent export compliance dependency should drive near-term action despite "Low" priority flag
+- Most tasks remain unassigned — ownership/scheduling needed to move forward

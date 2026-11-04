@@ -1,67 +1,82 @@
 # Lynn Regnier — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 20 emails (4 from existing knowledge + 16 new)
-- **Date range:** 1 Nov – 2 Nov 2026
-- **Volume:** High activity over 2-day period; approximately 10 emails/day during scan window
+- **Total messages scanned:** 49 emails (20 existing + 29 new)
+- **Date range:** 1 Nov – 4 Nov 2026
+- **Volume:** High activity; approximately 12 emails/day; spike in purchasing/vendor notifications on 3 Nov
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — 8 emails; primary collaborator on finance, operations, and purchasing tasks
-- **Beck Cotter, Daniel Prendergast, Jack Elston, Maciej Stachura, Cory Dixon** — appear together in Business Operations Meeting invite (group collaboration)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — 10+ emails; primary finance/operations collaborator; handles D&O insurance, refunds, event coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — active on Accordion project engagement discussions; appears in senior/decision-making capacity
+- **Beck Cotter, Daniel Prendergast, Maciej Stachura, Cory Dixon** — regular collaborators in operations/business meetings
 
 ### Top External Contacts
-- **Lauren Napheys** (lnapheys@kpmg.com) — KPMG auditor/consultant; lease accounting questions
-- **Mat Groh** (mgroh@kpmg.com) — KPMG; conference invitation contact
-- **Nicholas Grande** (ngrande@accordion.com) — Client/partner; folder sharing (Accordion platform)
+- **Sona Raziabeegum** (sona@krateosky.com) — KrateoSky consultant; critical contact on Accordion engagement letter, Phase 2 addendum, invoicing, and D&O insurance (6+ direct exchanges on 3 Nov alone)
+- **Lauren Napheys, Mat Groh** (KPMG) — auditors/consultants; conference events
+- **Nicholas Grande** (ngrande@accordion.com) — Client/platform contact (less frequent in new batch)
+- **Cory Dixon** (cory@krateosky.com) — KrateoSky; copied on Accordion/KPMG CPE conference discussions
+- **Thierry Lepoutre** (thierry@boostrconsulting.com) — BoostR Consulting; refund/overpayment matters
+- **Colin Keenan** (colin.keenan@yorkspacesystems.com) — forwarded KPMG conference invitation (York Space Systems connection)
 
-### Automated/System Senders
-- KPMG LLP events (kpmgevents@cventmail.com)
-- Global Industrial (multiple customer service addresses)
-- ICARE-ICARUS sales (icare-rc.com)
-- Google Meet, Asana, Google Sheets notifications
+### Vendors/Automated Senders (High Volume)
+- **DigiKey** (2 PO acknowledgements)
+- **Mouser Electronics**
+- **Global Industrial** (order shipment notifications)
+- **Worldwide Express** (invoicing)
+- **General Air Service** (billing@generalair.com)
+- **Kalash AI** (payment failure alerts — 4x duplicate notifications on 3 Nov)
+- **ProtoSpace Mfg, UPS Supply Chain, Kipps Hobbies, IFC Studios, Big Red F** — marketing/newsletters
 
 ## Topic Patterns
 
-### Accounting & Finance
-- **Cash to Accrual 6/30/2026** — financial reporting/conversion task
-- **Questions on Leases** — ASC 842 lease accounting guidance (KPMG collaboration)
-- **BST - Research Credit Question** — tax/research credit inquiry (forwarded by Meredith)
-- **BST Current & Pending Revenue** — revenue tracking spreadsheet (Meredith shared)
-- **Benefits updates** — employee benefits communication
+### Client/Project Work (Accordion — High Priority)
+- **"Accordion: engagement letter, Phase 2 addendum and Phase 1 invoice"** — active multi-party negotiation (Lynn, Jack Elston, Meredith Needham coordinating with KrateoSky on 3 Nov; 4 direct exchanges between Lynn and Sona)
+- **"Provided to Client" folder** — ongoing deliverables management
 
-### Purchasing & Operations
-- **Global Industrial Orders** (#29340179, #29205049) — equipment/supply procurement via vendor
-- **ICARE-ICARUS Order #IC-156018** — specialized research/lab equipment order (vendor: icare-rc.com)
-- **[001-13] Purchasing** — formal Asana project for purchasing workflows
+### Finance & Compliance
+- **2026-2027 D&O Binders** — Directors & Officers insurance management (forwarded by Sona/Meredith; involves Jack Elston)
+- **BST Overpayment Refund** — BoostR Consulting refund coordination (Meredith handling)
+- **Kalash AI Payment Failures** — payment processing issues (4 duplicate alerts suggest system glitch or retry attempts)
+- **PaymentWorks Registration** (ME #4292) — vendor payment platform setup (addressed to Beck Cotter but in Lynn's inbox; finance infrastructure)
 
-### Professional Development & Events
-- **2026 Denver Perspectives Conference** — KPMG-hosted industry conference (invitation + registration confirmed)
+### Purchasing & Procurement (Heavy Activity)
+- **DigiKey Orders** (#102680950, #102680766) — electronic components
+- **Mouser Electronics** (Order #40985348) — components procurement
+- **Global Industrial** (Order #29340179) — shipped equipment/supplies
+- **ICARE-ICARUS, General Air Service** — specialized equipment/services
+- **[001-13] Purchasing Asana project** — active workflow management
 
-### Client/Project Work
-- **"00 - Provided to Client" folder** — client deliverables in shared system (Accordion); ongoing correspondence with Nicholas Grande
+### Professional Development & External Relations
+- **KPMG CPE Conference 11/23** — Lynn coordinating with external partners (Sona Raziabeegum, Cory Dixon at KrateoSky); industry/compliance training
+- **2026 Denver Perspectives Conference** — Lynn forwarding invitation to Colin Keenan (York Space Systems); relationship maintenance
+
+### External Communications
+- **AGU Annual Meeting** — Shelly Dvorak (KrateoSky) conference attendance (Meredith coordinating)
 
 ## Communication Patterns
 
-- **Primary collaboration:** Meredith Needham initiates most internal communication; Lynn responds and coordinates
-- **Recurring meetings:** Weekly Business Operations Meeting (Wednesdays, 1:30–2pm MDT) with 6 internal participants
-- **Collaboration tools:** Active use of Asana (projects, portfolios), Google Sheets, Google Meet, and folder sharing systems
-- **Vendor communication:** Receives automated order confirmations and support tickets (Global Industrial, ICARE); purchasing@ BST email also in loop
-- **External auditor engagement:** Regular direct communication with KPMG on accounting questions and conference events
-- **Time zones:** Mix of Pacific (-0700) and UTC timestamps; likely works hybrid or with distributed team
+- **Primary internal partnership:** Meredith Needham + Jack Elston handle cross-functional decisions; Lynn executes/coordinates
+- **KrateoSky relationship:** Sona Raziabeegum and Cory Dixon are frequent external touchpoints; appear to be consultants/service providers on Accordion and other strategic initiatives
+- **Purchasing workflow:** High volume of automated vendor confirmations and invoicing routed through purchasing@blackswifttech.com; Lynn receives copies but doesn't directly initiate most orders
+- **Payment infrastructure:** Active use of PaymentWorks platform and recurring payment processing (evidenced by Kalash AI alerts)
+- **Time zones:** Mix of -0700 (Pacific), -0600 (Central), and UTC; coordination across distributed team
+- **External conference attendance:** Active promotion of KPMG and industry events to external partners (York Space Systems, KrateoSky)
 
 ## Key Relationships
 
-- **Meredith Needham** — appears to be finance operations lead or peer; drives task delegation, meeting coordination, and resource sharing
-- **KPMG (Napheys, Groh)** — external auditors/consultants with active engagement on technical accounting matters
-- **Nicholas Grande (Accordion)** — client or key partner managing deliverables
-- **Purchasing/Vendor relationships** — involvement in procurement decisions for specialized research equipment and industrial supplies
+- **Sona Raziabeegum (KrateoSky)** — appears to be strategic consultant or project manager for Accordion engagement; high-frequency direct communication on contract/billing matters; bridge between BST and Accordion platform
+- **Meredith Needham** — finance operations peer/lead; handles compliance, insurance, refunds; Lynn supports or coordinates
+- **Jack Elston** — senior stakeholder on Accordion negotiations and D&O decisions
+- **KrateoSky team** (Sona, Cory Dixon, Shelly Dvorak) — strategic vendor/consulting relationships across multiple initiatives
+- **Purchasing vendors** — transactional relationships; Lynn monitors orders but purchasing team likely initiates
 
 ## Notable Observations
 
-- **Dual email accounts:** Lynn uses both lynn.regnier@blackswifttech.com and lynnregnier@gmail.com (personal headshot submission)
-- **Recent onboarding signals:** Multiple Asana project and portfolio invitations (Nov 2) suggest Lynn may be new to team or newly assigned to purchasing/operations portfolio
-- **Finance focus:** Subject lines heavily weighted toward accounting, auditing, revenue tracking, and tax/credit questions — likely Finance or Operations role
-- **Client deliverables active:** "Provided to Client" folder and ongoing Accordion contact indicate active client engagement
-- **Conference attendee:** KPMG Denver event attendance suggests industry visibility or ongoing auditor relationship maintenance
+- **Accordion is active/high-priority deal:** 4+ subject line mentions on single day (3 Nov); multi-party coordination between Lynn, Jack Elston, Meredith Needham, and external KrateoSky/Accordion contacts; involves engagement letters, Phase 2 addendum, and Phase 1 invoicing
+- **Kalash AI payment issue:** 4 duplicate "Payment failed" alerts within 3 minutes (19:28–19:31 UTC) suggests retry logic or system alert misconfiguration — may require escalation
+- **External event promotion role:** Lynn forwarding KPMG conference invitations to external contacts (Colin Keenan/York Space Systems), suggesting relationship-building or business development component
+- **KrateoSky is significant partner:** Multiple team members (Sona, Cory, Shelly) appear across D&O insurance, Accordion project, and conference coordination
+- **Purchasing volume spike:** 3 Nov shows 9+ vendor/order notifications in ~2-hour window (18:29–20:06 UTC), suggesting planned procurement batch or month-end activity
+- **D&O Insurance active:** Directors & Officers coverage updates on 3 Nov; may indicate annual renewal or policy changes

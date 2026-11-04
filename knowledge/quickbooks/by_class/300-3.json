@@ -5,17 +5,17 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-03",
-    "end": "2026-11-03"
+    "start": "2024-11-04",
+    "end": "2026-11-04"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 410741.88,
+    "expenses": 410776.9,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 257116.33,
+      "DIRECT COSTS:DC-Direct Material Purchases": 257121.36,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 109101.73,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7086.51,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7116.5,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 445.23,
       "SALES & MARKETING:SM-Shipping": 204.16,
@@ -804,6 +804,34 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "102680950",
+      "total": 35.02,
+      "attributed": 35.019999999999996,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 4.6,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "RES 135K OHM 1% 1/16W 0402"
+        },
+        {
+          "amount": 0.43,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "TARIFF"
+        },
+        {
+          "amount": 29.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-10-30",

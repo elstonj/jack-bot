@@ -1,39 +1,39 @@
-_Asana snapshot as of 2026-11-02: 5 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 5 open tasks, 0 completed (last 90 days)._
 
 # [012-2] ERAU VTOL S0
 
 ## Overview
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
-- **Dollar value:** $20,805.39
-- **Timeline:** 
-  - Original project due date: 2024-08-16 (passed)
-  - Current commitment: 2 VTOLs due May 2025, Training June 2025 @ BST
-- **Status:** Active — delivery and training phase pending
-- **Team members:** Alex Lomis (owner), Jack Elston, Dan Prendergast
-- **Risk signals:** Project originally due August 2024; now tracking to May 2025 delivery. Five open tasks with no due dates assigned, including final delivery coordination and payment verification.
+- **Dollar value:** $20,805.39 (Total Budget = Total Funding to BST)
+- **Timeline:** Original due date 2024-08-16 (stale); Custom field shows **May 2025 delivery with June 2025 training @ BST**
+- **Status:** Active — delivery and training pending; follow-up order potential
+- **Team:** Alex Lomis (Owner), Jack Elston, Dan Prendergast
+- **Product:** S0 VTOL
+- **Risk signal:** Project notes indicate 2 VTOLs owed by May 2025 with June training, but all open tasks lack due dates. This is a high-risk item for timeline visibility.
 
 ## Key Deliverables & Milestones
-| Deliverable | Timeline | Notes |
-|---|---|---|
-| 2x S0 VTOL systems | May 2025 | Per custom field notes |
-| Training @ BST | June 2025 | Post-delivery training |
-| Potential follow-on: 4 additional VTOLs | TBD | In estimates; contingent on customer satisfaction with initial 2-unit delivery |
+1. **Delivery of 2 x S0 VTOL** — Due May 2025 (per custom field; formal Asana due date missing)
+2. **Training at BST** — June 2025 (per custom field)
+3. **Follow-up potential:** Customer may order 4 additional units (currently in estimates)
 
 ## Task Summary
-- **Total tasks:** 5 open, 0 completed
-- **Assignees:**
-  - Jack Elston: 1 task (Final due date for delivery)
-  - Dan Prendergast: 1 task (ERAU Training)
-  - Unassigned: 3 tasks (Ship, Payment verification, Close project)
-- **Pattern:** Delivery pipeline tasks lack due dates and clear ownership — unassigned tasks for shipment, payment, and closeout create accountability gaps.
+- **Total:** 5 open tasks, 0 completed
+- **Tasks by status:**
+  - Final due date for delivery (Jack Elston)
+  - Ship S0 VTOL to ERAU (Unassigned)
+  - S0 VTOL Training for ERAU (Dan Prendergast)
+  - Verify payment from ERAU (Unassigned)
+  - Close project (Unassigned)
+
+**Notable pattern:** No due dates set on any tasks despite critical May 2025 / June 2025 timeline. Multiple unassigned closure/logistics tasks.
 
 ## Recent Activity
-No task completion history provided. Project appears to be in execution phase with May 2025 delivery target approaching.
+*No recent task completions recorded.* Project appears to be in execution phase with delivery/training scheduled for May–June 2025, but task-level progress visibility is low.
 
 ## Notes & Context
-- Original Asana due date (2024-08-16) is stale; current delivery target is **May 2025** per custom field notes.
-- Customer has option to purchase 4 additional units pending satisfaction with initial delivery.
-- Training is committed for June 2025 at BST facilities.
-- **Process gap noted** (from Daniel Prendergast, 2026-10-19): BST lacks a well-defined process for transitioning proposed system builds into production pipeline. ERAU may be an example of this gap — project definition has been ongoing for months.
-- 5 critical open tasks (shipment, training, payment, close-out) need due dates and clear ownership to ensure May 2025 timeline is met.
+- **Budget:** $20,805.39 for 2 units
+- **Customer type:** Commercial
+- **Priority:** Medium
+- **Next steps:** ERAU will evaluate the 2 delivered S0s and decide whether to purchase the 4 additional units currently in estimates
+- **Recommendation:** Add specific due dates to all open tasks (ship by May 2025, training in June) and assign unassigned logistics/verification tasks to ensure on-time delivery and follow-up opportunity capture.

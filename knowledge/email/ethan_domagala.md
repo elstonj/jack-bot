@@ -1,7 +1,8 @@
 # Ethan Domagala — Email Patterns
 
-Only 3 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Mon, 2 Nov 2026 13:14:55 -0700: Re: Can I tour your manufacturing facility? (from: Ethan Domagala <ethan.domagala@blackswifttech.com>)
-- Mon, 02 Nov 2026 11:24:22 -0600: November updates: events, customer stories, and new capabilities (from: Protolabs <news@protolabs.com>)
-- Mon, 2 Nov 2026 09:58:55 -0700: Fwd: Can I tour your manufacturing facility? (from: Beck Cotter <beck.cotter@blackswifttech.com>)
+- Wed, 4 Nov 2026 02:32:39 +0000: Re: Can I tour your manufacturing facility? (from: Nikolasmassimo Mehan <Nikolasmassimo.Mehan@colorado.edu>)
+- Tue, 03 Nov 2026 18:37:22 +0000: RE: ADONIS at scale (from: Pete Dice <pete.dice@blaizesovereign.com>)
+- Tue, 03 Nov 2026 18:23:25 +0000 (UTC): ⚡ Meet the iFlight Borg Mini F7 Stack (from: GetFPV <chloe@getfpv.com>)
+- Tue, 03 Nov 2026 17:30:46 +0000: Set your preferences once. Claude saves them for next time. (from: Claude Team <no-reply@email.claude.com>)

@@ -13,7 +13,7 @@
     }
   ],
   "payment_state": "invoice_sent",
-  "build_state": "none",
+  "build_state": "parts_ordered",
   "ship_state": "none",
   "estimate_date": null,
   "invoice_date": "2026-09-11",
@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Contract H9223626P9056 awarded 2026-09-11; fully executed contract received 2026-09-28. Initial 60-day PoP was placeholder; Beck clarified with Terry that schedule alignment discussion needed. PoP to be finalized with contracting officer. Live contract engagement ongoing. Recent Slack activity indicates workshop preparation underway.",
+  "notes": "Fully executed contract H9223626P9056 received 2026-09-28. Period of Performance (PoP) under discussion with contracting officer Terry Brandon; initial 60-day placeholder was pro forma. Beck clarified schedule alignment is needed. Workshop preparation underway per recent Slack (2026-10-09, 2026-10-20); contractor support scheduled for build workbench setup. Live contract engagement with realistic delivery schedule to be finalized.",
   "missing_fields": [
     "receive_by",
     "ship_to",

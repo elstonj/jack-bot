@@ -1,31 +1,32 @@
-_Asana snapshot as of 2026-11-02: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
 
 # [043-1] ByLight Professional IT Services
 
 ## Status
-**ARCHIVED** — Project has been closed out in Asana. (Per Maciej feedback 2026-10-27/28, archival tasks delegated to project owner.)
+**ARCHIVED** — Project has been closed out in Asana per team directive (Maciej, 2026-10-27/28).
 
 ## Overview
 - **Client:** ByLight Professional IT Services
-- **Principal Contact:** Bryan Sparling (Bryan.sparling@bylight.com)
-- **Billing Contact:** JP Cleary
-- **Total Budget:** $48,000
-- **Funding to BST:** $48,000
-- **Timeline:** Open task order through 2025-12-31
-- **Services:** Consulting (design and prototyping on task-order basis)
-- **Customer Type:** Commercial
+- **Contact:** Bryan Sparling (Bryan.sparling@bylight.com)
+- **Dollar Value:** $48,000 total budget; $48,000 funding to BST
+- **Timeline:** Due date 2025-12-31 (project structure: open task order PO with rolling task-based assignments)
 - **Team:** BST (whole team)
+- **Service Type:** Consulting (design and prototype work)
 
-## Key Terms
-This is an **open task order PO** structure:
-- ByLight submits task orders; BST budgets, approves, completes, and invoices per task
-- Work larger than scope will be formalized into subcontracts
-- Design and prototyping work with short DoD deadlines
+## Project Structure
+This was an **open task order PO** framework. ByLight submits individual task orders; BST budgets, approves, completes work, and invoices per task. Larger or longer-duration scope items are converted to formal subcontracts.
+
+**Key workflow:** Task orders → Budget/approval → Work completion → Invoicing
 
 ## Important Notes
-- **Labor rates:** Check shared folder (https://drive.google.com/drive/folders/1FN-zIGEdz79Y3fWZpBZ-I-B7xMnZGa3g?usp=drive_link) for submitted rates prior to invoicing
-- Initial PO was awaited at time of last Asana snapshot
-- No open or completed tasks currently in Asana (archive state)
+- **Labor Rates:** Check project folder (linked in project notes) for submitted labor rates prior to invoicing.
+- **Admin Contact:** JP Cleary (billing point of contact)
+- **Customer Type:** Commercial
+- **Initial Status:** Project was waiting on initial PO at time of archival.
 
-## Recent Activity
-Project has been archived per team feedback. No active tasks.
+## Project Folder
+[Google Drive folder](https://drive.google.com/drive/folders/1FN-zIGEdz79Y3fWZpBZ-I-B7xMnZGa3g?usp=drive_link)
+
+---
+
+**Archive Note:** As of late October 2026, Maciej identified this project for archival. The archive action has been completed by the project owner.

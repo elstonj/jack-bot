@@ -1,60 +1,56 @@
-_Asana snapshot as of 2026-11-03: 8 open tasks, 17 completed (last 90 days)._
+_Asana snapshot as of 2026-11-04: 8 open tasks, 17 completed (last 90 days)._
 
 # [001-13] Facilities Management
 
 ## Overview
-- **Scope**: Maintenance and operations of Black Swift Technologies' physical office and shop space
-- **Team**: Whole team (operations-focused)
-- **Status**: Active — recurring operations with ongoing vendor management
-- **Key Contact**: Meredith O'hara Needham (primary task owner)
+- **Organization**: Black Swift Technologies (internal operations)
+- **Portfolio**: Operations
+- **Scope**: Physical office and shop space maintenance, vendor management, and facility improvements
+- **Timeline**: Ongoing; lease term structure spans 60 months with escalating NNN charges
+- **Status**: Active with recurring operational tasks; some overdue items
+- **Team**: Meredith O'hara Needham (primary owner), Brandon Messersmith, Robert Edson
+- **Risk Signals**: Multiple overdue tasks (Pay Rent due 2026-09-28, Office Cleaning due 2026-10-03, Ongoing Office Purchasing List due 2026-10-02 — all past current date context). Batch completion pattern suggests tasks may be marked done in bulk rather than individually tracked.
 
-**Vendors:**
-- **Landlord**: Goose Creek (Property Manager: Amy Smith, amy@wwreynolds.com, 303-941-8243 / 303-442-8687)
-- **Cleaning**: Neat N Tidy (Owner: Meredith O'hara Needham; booking portal and login credentials on file)
+## Key Facilities & Vendors
+**Landlord**: Goose Creek  
+- Property Manager: Amy Smith (amy@wwreynolds.com; 303-941-8243 / 303-442-8687)
+- Lease Terms: 60-month structure with escalating NNN (Common Area Maintenance, real estate taxes, building insurance)
+  - Months 1–12: $13.00 NNN
+  - Months 13–24: $13.39 NNN
+  - Months 25–36: $13.79 NNN
+  - Months 37–48: $14.21 NNN
+  - Months 49–60: $14.63 NNN
 
-**Lease Terms:**
-- NNN (triple net) structure with escalating CAM charges:
-  - Months 1–12: $13.00
-  - Months 13–24: $13.39
-  - Months 25–36: $13.79
-  - Months 37–48: $14.21
-  - Months 49–60: $14.63
-- Lease termination date noted as tracked item (currently no due date set)
+**Cleaning**: Neat N Tidy  
+- Booking System: https://neatntidy.bookingkoala.com/
+- Owner: Meredith O'hara Needham
+- Credentials stored (access via BST purchasing account)
 
 ## Key Deliverables & Milestones
-- **Monthly Rent**: Due monthly (last completed 2026-08-31; next due 2026-09-28)
-- **Weekly Office Cleaning**: Recurring via Neat N Tidy
-- **Weekly Office Purchasing**: Ongoing collection of facility supply needs
-- **Production Shop Setup**: Tool list definition and equipment ordering (in progress)
-- **WiFi Improvement Project**: Brandon Messersmith, due 2026-11-27
-- **Lease Termination Planning**: Unscheduled; includes CAM real estate property taxes and building insurance reconciliation
+- **WiFi Improvement** (Brandon Messersmith) — Due: 2026-11-27
+- **Define Tool List for Order** (Robert Edson) — Due: 2026-11-06 (new production shop workstations with generic and specialized tool sets)
+- **Lease Termination Tracking** (Unassigned) — No due date; includes CAM calculations for months 1–60
+- **Facilities Improvements** (Unassigned) — No due date
+- **Equipment Wish List** (Unassigned) — No due date
 
 ## Task Summary
 - **Total**: 8 open, 17 completed (68% completion rate)
-- **Primary Assignee**: Meredith O'hara Needham (dominates task list for recurring operations)
-- **Other Assignees**:
-  - Brandon Messersmith (WiFi Improvement, due 2026-11-27)
-  - Robert Edson (Tool list definition, due 2026-11-06)
-  - Unassigned (Facilities Improvements, Equipment wish list, Lease termination)
-
-**Patterns**:
-- Recurring weekly tasks (cleaning, office purchasing) are the bulk of activity
-- Completion dates cluster on 2026-09-28 (likely batch close-out)
-- Multiple past-due tasks completed on same date suggests workflow may be batched or backlog clearing
+- **Assignees**:
+  - Meredith O'hara Needham: 6 open tasks (Pay Rent, Office Cleaning, Ongoing Office Purchasing List) — dominates recurring operational tasks
+  - Brandon Messersmith: 1 open task (WiFi Improvement)
+  - Robert Edson: 1 open task (Define Tool List)
+  - Unassigned: 3 open tasks (Facilities Improvements, Equipment Wish List, Lease Terminates)
+- **Recurring Pattern**: Weekly "Ongoing Office Purchasing List" and bi-weekly "Office Cleaning" tasks; monthly "Pay Rent"; bulk completion on 2026-09-28 suggests backlog processing
 
 ## Recent Activity
-- **2026-09-28**: Batch completion of multiple past-due recurring tasks (Pay Rent, Office Cleaning, Ongoing Office Purchasing lists)
-- **Open recurring tasks**: Office Cleaning and Ongoing Office Purchasing List both due within days (2026-10-03, 2026-10-02)
-- **Upcoming**: WiFi Improvement (2026-11-27), Tool list definition (2026-11-06)
-
-## Risk Signals
-- **Batch completion pattern**: Recent completed tasks show original due dates spanning July–September but all marked complete on 2026-09-28; suggests potential backlog or delayed task closure
-- **Recurring tasks at risk**: "Office Cleaning" and "Ongoing Office Purchasing List" have fresh due dates but show a pattern of late completion
-- **Lease termination unscheduled**: Critical item with no due date; needs attention to avoid compliance/renewal issues
-- **Facilities improvements unassigned**: No owner or timeline for general maintenance backlog
+- **2026-09-28**: Large batch of 10 tasks marked completed (multiple July–September recurring items). Tasks completed include two "Pay Rent" and multiple "Office Cleaning" and "Ongoing Office Purchasing List" items.
+- **Outstanding overdue items** (as of Asana data):
+  - Pay Rent (due 2026-09-28)
+  - Office Cleaning (due 2026-10-03)
+  - Ongoing Office Purchasing List (due 2026-10-02)
 
 ## Notes & Context
-- Neat N Tidy booking portal credentials stored in project (access via https://neatntidy.bookingkoala.com/ with username purchasing@blackswifttech.com)
-- Google Drive link present in vendor documentation (reference: 1HwqI6kJ6fMWoW2uKUGwd9)
-- Tool list effort tied to new production shop work stations; Robert Edson managing both generic station sets and specialized tooling
-- Lease structure escalates annually; track renewal/termination decisions well in advance
+- **Batch Completion Pattern**: Most completed tasks show same completion date (2026-09-28), suggesting weekly/monthly reconciliation rather than real-time task closure.
+- **Unassigned Strategic Items**: Facilities improvements, equipment wishlist, and lease tracking lack owners — may need assignment prioritization.
+- **Production Shop Buildout**: "Define Tool List" task indicates expansion of production capabilities; coordinate with shop setup initiatives.
+- **Future State (from Team Feedback)**: Cory Dixon noted (2026-10-20) that a production tracking system and electronic/Kanban board version are planned. Currently, project/client tracking relies on spreadsheets or reference docs (status TBD).
