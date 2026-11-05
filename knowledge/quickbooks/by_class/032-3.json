@@ -5,17 +5,18 @@
     "[032] University of Notre Dame:[032-3] Sasquatch S0s x 4"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 180000.0,
     "expenses": 19360.48,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 10568.28,
+      "DIRECT COSTS:DC-Direct Material Purchases": 10542.28,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 8429.91,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 324.28,
-      "DIRECT COSTS:DC-Other Direct Costs": 38.01
+      "DIRECT COSTS:DC-Other Direct Costs": 38.01,
+      "Inventory Asset": 26.0
     }
   },
   "invoices": [
@@ -305,18 +306,18 @@
       "lines": [
         {
           "amount": 130.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 26.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 39.0,
           "account": "Inventory Asset",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep Test cells for new S0 batteries"
         }
       ]
     },

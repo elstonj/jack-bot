@@ -2,45 +2,45 @@
 
 ## By Product/System
 
-### S0 (Air-Deployed Variant - S0-AD)
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | CONOPS for Navy weather collection operations using S0-AD air-deployed variant with SwiftTab control tablet and SwiftCore integration (b5_conops_copy.md)
+### SwiftCore FMS
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | Flight management system for autonomous VTOL hop UAS with integrated command/data link architecture (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
-### SwiftTab Control Tablet
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Control and mission planning interface for S0-AD weather operations (b5_conops_copy.md)
+### S0-VTOL
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | Technical specifications and rough order of magnitude cost estimate for S0-VTOL autonomous vertical takeoff and landing system (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
-### SwiftCore
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Mission planning and data systems support for Navy weather collection (b5_conops_copy.md)
+### S3
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | S3 integration and capabilities assessment for VTOL hop UAS application (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
+
+### S2
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | S2 system integration for VTOL hop UAS platform (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
+
+### 430 MHz Microhard P400 Command and Data Link
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | Radio frequency communication system for autonomous UAS command and telemetry (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
 ---
 
 ## By Client/Agency
 
-### United States Navy
-- **B5: S0 Weather Collection Concept of Operations** | 2026-11-03 | CONOPS for S0-AD air-deployed weather collection with SwiftTab and SwiftCore (b5_conops_copy.md)
+### NOAA
+- **VTOL Hop UAS - Technical and ROM Proposal** | 4 Nov 2026 | Technical proposal and ROM cost estimate for autonomous VTOL system (2026 IDIQ reference) (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
 ---
 
 ## By Application Area
 
-### Weather Collection & Meteorology
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Navy operational concept for atmospheric data collection using S0-AD systems (b5_conops_copy.md)
-
-### Naval Operations
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Maritime weather intelligence for Navy decision support (b5_conops_copy.md)
+### Autonomous Vertical Takeoff and Landing (VTOL) Systems
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | Complete technical and cost proposal for SwiftCore FMS-based S0-VTOL autonomous hop UAS platform with integrated flight management and communications (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
 ---
 
 ## By Document Type
 
-### Concept of Operations (CONOPS)
-- **B5: S0 Weather Collection Concept of Operations** | United States Navy | 2026-11-03 | Describes operational procedures, mission architecture, and integration for S0-AD weather collection (b5_conops_copy.md)
+### Technical Proposals
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | Draft technical proposal with rough order of magnitude cost estimate for autonomous VTOL UAS system (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
+
+### Rough Order of Magnitude (ROM) Cost Estimates
+- **VTOL Hop UAS - Technical and ROM Proposal** | NOAA (TBD) | 4 Nov 2026 | ROM cost analysis and technical specifications for S0-VTOL autonomous system (vtol_hop_uas_-_technical_and_rom_proposal_draft.md)
 
 ---
 
-## Document Summary
-
-**Total Documents Cataloged:** 1
-
-| Document | Client | Type | Date | Primary Product |
-|----------|--------|------|------|-----------------|
-| B5: S0 Weather Collection CONOPS | U.S. Navy | CONOPS | 2026-11-03 | S0-AD, SwiftTab, SwiftCore |
+**Note:** Only one document currently cataloged. Status listed as draft; primary contact: Jack Elston.

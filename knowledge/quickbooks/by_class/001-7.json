@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 206827.01,
+    "expenses": 206967.55,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86507.02,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86647.56,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 53089.05,
       "Inventory Asset": 439.98,
@@ -1055,6 +1055,34 @@
           "amount": 205.38,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Phase1 Shipment (9/29/26)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 421.61,
+      "attributed": 140.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Was not able to find receipt for purchase.",
+      "lines": [
+        {
+          "amount": 140.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.53,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Was not able to find receipt for purchase."
         }
       ]
     },

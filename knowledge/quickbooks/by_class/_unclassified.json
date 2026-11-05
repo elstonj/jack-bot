@@ -70,12 +70,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
-    "revenue": 3799134.01,
-    "expenses": 4815573.18,
+    "revenue": 3797607.11,
+    "expenses": 4832211.65,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -86,20 +86,20 @@
       "FRINGE:FR-Retirement Contributions": 116216.23,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 102344.86,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 78744.41,
-      "Prepaid Expenses": 70951.46,
+      "FACILITIES:FA-Shop Supplies": 81041.24,
+      "Prepaid Expenses": 72500.18,
       "Spark One Jack #3168": 70684.0,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52695.31,
-      "FACILITIES:FA-Office Supplies": 47632.19,
+      "Indirect Cost:Software Expenses": 52700.31,
+      "FACILITIES:FA-Office Supplies": 48491.04,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 33343.17,
-      "FACILITIES:FA-Software Expenses": 28221.8,
+      "DIRECT COSTS:DC-Direct Material Purchases": 34537.65,
+      "FACILITIES:FA-Software Expenses": 33942.09,
+      "Indirect Cost:Meals and Entertainment": 29928.82,
       "Reimbursable Expenses": 27940.8,
-      "Indirect Cost:Meals and Entertainment": 27639.16,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
@@ -112,7 +112,7 @@
       "Indirect Cost:Office Expenses:Utilities Expense": 12361.67,
       "FACILITIES:FA-Insurance Expenses": 12096.97,
       "OVERHEAD:OH-Airfare": 11565.04,
-      "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 11348.65,
+      "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 10573.14,
       "Indirect Cost:License, Permit, Misc Tax Exp": 10482.28,
       "GA-Business Development": 10448.09,
       "Indirect Cost:Supplies:Shop SuppliesX": 10109.71,
@@ -124,14 +124,15 @@
       "SALES & MARKETING:SM-Shipping": 8215.08,
       "SALES & MARKETING:SM-Travel": 7870.72,
       "FACILITIES:FA-Facility Repairs & Maintenance": 7696.83,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 6503.44,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6339.43,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 6270.39,
       "Indirect Cost:TaxesX": 6218.2,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5521.38,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5683.87,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
-      "Indirect Cost:Dues & Subscriptions": 4828.72,
+      "Indirect Cost:Dues & Subscriptions": 4661.82,
       "Indirect Cost:Supplies:Office SuppliesX": 4605.18,
+      "FACILITIES:FA-Equipment Repairs & Maintenance": 3145.41,
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
@@ -142,25 +143,24 @@
       "Indirect Cost:Internal Research and DevelopmentX": 2008.07,
       "SALES & MARKETING:SM-Dues & Subscriptions": 1960.44,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 1900.0,
-      "FACILITIES:FA-Equipment Repairs & Maintenance": 1465.41,
       "Soil Moisture Investment": 1396.88,
+      "DIRECT COSTS:DC-Direct Travel": 1366.78,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
       "Other Receivables": 1020.0,
       "Uncategorized Asset": 882.61,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 840.32,
+      "Indirect Cost:Professional Fees (do not use)": 751.65,
       "Indirect Cost:Repairs and Maintenance": 598.88,
-      "Indirect Cost:Professional Fees (do not use)": 576.65,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 544.24,
+      "QuickBooks Payments Fees": 519.77,
       "Maciej Stachura WF Card 3168": 505.9,
       "Tariffs": 446.41,
-      "QuickBooks Payments Fees": 428.06,
       "GENERAL & ADMINISTRATIVE:GA-Taxes": 325.71,
       "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 305.0,
       "OVERHEAD:OH-Lodging": 275.17,
       "GENERAL & ADMINISTRATIVE:GA-Continuing Education": 262.95,
       "Indirect Cost:Office Expenses": 143.99,
       "Charitable ContributionsX": 100.0,
-      "DIRECT COSTS:DC-Direct Travel": 41.98,
       "OVERHEAD:OH-Car Rental/Taxi/Rideshare": 32.95,
       "OVERHEAD:OH-Away Meals": 20.62,
       "SALES & MARKETING:SM-Travel Meals": 14.3,
@@ -228,7 +228,7 @@
       "attributed": 1943.1,
       "vendor": "",
       "customer": "Boostr Consulting",
-      "balance": 1943.1,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1753,37 +1753,32 @@
           "description": ""
         }
       ]
-    },
+    }
+  ],
+  "bills": [
     {
-      "type": "Invoice",
-      "date": "2024-11-04",
-      "doc_number": "1633",
-      "total": 3470.0,
-      "attributed": 3470.0,
-      "vendor": "",
-      "customer": "[211-1] NASA Ames MHP",
+      "type": "Bill",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 1548.72,
+      "attributed": 1548.72,
+      "vendor": "Robert Powell",
+      "customer": "",
       "balance": 0.0,
       "memo": "",
       "lines": [
         {
-          "amount": 1970.0,
-          "account": "",
-          "description": "Multi-hole probe for making measurements of relative winds from fixed-wing UAS."
+          "amount": 1074.99,
+          "account": "Prepaid Expenses",
+          "description": "United Airlines reimbursement"
         },
         {
-          "amount": 1500.0,
-          "account": "",
-          "description": "S2 hardware and firmware integration"
-        },
-        {
-          "amount": 3470.0,
-          "account": "",
-          "description": ""
+          "amount": 473.73,
+          "account": "Prepaid Expenses",
+          "description": "Hampton Inn reimbursement"
         }
       ]
-    }
-  ],
-  "bills": [
+    },
     {
       "type": "Bill",
       "date": "2026-10-27",
@@ -4548,6 +4543,111 @@
     {
       "type": "Purchase",
       "date": "2026-11-04",
+      "doc_number": "506512",
+      "total": 62.9,
+      "attributed": 31.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL *AA PORTABLE - 7333",
+      "lines": [
+        {
+          "amount": 31.45,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 31.45,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 91.71,
+      "attributed": 91.71,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily.",
+      "lines": [
+        {
+          "amount": 91.71,
+          "account": "QuickBooks Payments Fees",
+          "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "102698013",
+      "total": 1711.79,
+      "attributed": 855.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 855.89,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 855.9,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "261101W028420",
+      "total": 162.49,
+      "attributed": 162.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 162.49,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "SMALL PACKAGE FREIGHT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 54.8,
+      "attributed": 27.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via paypal",
+      "lines": [
+        {
+          "amount": 27.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Switch Guard Aluminum 1-Inch"
+        },
+        {
+          "amount": 27.4,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Switch Guard Aluminum 1-Inch"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
       "doc_number": "261015W011129",
       "total": 329.53,
       "attributed": 329.53,
@@ -4567,6 +4667,101 @@
       "type": "Purchase",
       "date": "2026-11-03",
       "doc_number": "",
+      "total": 399.99,
+      "attributed": 399.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*6R2DB3G23 - 4617.  White board",
+      "lines": [
+        {
+          "amount": 399.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "AMAZON MKTPL*6R2DB3G23 - 4617.  White board"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 5.0,
+      "attributed": 5.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "RAILWAY - 4617",
+      "lines": [
+        {
+          "amount": 5.0,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "RAILWAY - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 22.86,
+      "attributed": 22.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON RETA* HG71519Y3 - 4617. Paper towels",
+      "lines": [
+        {
+          "amount": 22.86,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "AMAZON RETA* HG71519Y3 - 4617. Paper towels"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 125.29,
+      "attributed": 125.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *MOE'S BROADWAY BAGEL - 7333",
+      "lines": [
+        {
+          "amount": 125.29,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "SQ *MOE'S BROADWAY BAGEL - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "516-499443",
+      "total": 249.5,
+      "attributed": 124.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 124.75,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "OpenUPS2 11-24V Intelligent DC-DC Uninterruptible Power Supply"
+        },
+        {
+          "amount": 124.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "OpenUPS2 11-24V Intelligent DC-DC Uninterruptible Power Supply"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
       "total": 124.91,
       "attributed": 124.91,
       "vendor": "",
@@ -4578,6 +4773,114 @@
           "amount": 124.91,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 107.76,
+      "attributed": 107.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP SPINDRIFTBEVERAGE - 7333. Bubbly water for team",
+      "lines": [
+        {
+          "amount": 107.76,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "SP SPINDRIFTBEVERAGE - 7333. Bubbly water for team"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 677.1,
+      "attributed": 677.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* THE WERKS 2 - NEW - 4617",
+      "lines": [
+        {
+          "amount": 677.1,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "staff lunch"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 51.85,
+      "attributed": 51.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SAFEWAY #1615 - 4617",
+      "lines": [
+        {
+          "amount": 51.85,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SAFEWAY #1615 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 55.69,
+      "attributed": 55.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Google Workspace_blackswi - 4617",
+      "lines": [
+        {
+          "amount": 55.69,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "Google Workspace_blackswi - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 38.39,
+      "attributed": 38.39,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Google Workspace_thesoilm - 4617",
+      "lines": [
+        {
+          "amount": 38.39,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "Google Workspace_thesoilm - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 9.28,
+      "attributed": 9.28,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FLY.IO - 4617",
+      "lines": [
+        {
+          "amount": 9.28,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "FLY.IO - 4617"
         }
       ]
     },
@@ -4800,6 +5103,24 @@
       "type": "Purchase",
       "date": "2026-10-29",
       "doc_number": "",
+      "total": 179.61,
+      "attributed": 179.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Anthropic monthly subscription",
+      "lines": [
+        {
+          "amount": 179.61,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "Anthropic monthly subscription"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
       "total": 1328.22,
       "attributed": 1328.22,
       "vendor": "",
@@ -4905,6 +5226,96 @@
           "amount": 36.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping:"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 20.77,
+      "attributed": 20.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "software subscription",
+      "lines": [
+        {
+          "amount": 20.77,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "software subscription"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 15.83,
+      "attributed": 15.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ANTHROPIC - 4617 monthly subscription",
+      "lines": [
+        {
+          "amount": 15.83,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "ANTHROPIC - 4617 monthly subscription"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 359.0,
+      "attributed": 359.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *ELDORA MOUNTAIN ECOMM - 4617",
+      "lines": [
+        {
+          "amount": 359.0,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SQ *ELDORA MOUNTAIN ECOMM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 359.0,
+      "attributed": 359.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *ELDORA MOUNTAIN ECOMM - 4617",
+      "lines": [
+        {
+          "amount": 359.0,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SQ *ELDORA MOUNTAIN ECOMM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 359.0,
+      "attributed": 359.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *ELDORA MOUNTAIN ECOMM - 4617",
+      "lines": [
+        {
+          "amount": 359.0,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SQ *ELDORA MOUNTAIN ECOMM - 4617"
         }
       ]
     },
@@ -5035,6 +5446,24 @@
       "type": "Purchase",
       "date": "2026-10-27",
       "doc_number": "",
+      "total": 359.0,
+      "attributed": 359.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SQ *ELDORA MOUNTAIN ECOMM - 4617",
+      "lines": [
+        {
+          "amount": 359.0,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SQ *ELDORA MOUNTAIN ECOMM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
       "total": 170.66,
       "attributed": 170.66,
       "vendor": "",
@@ -5100,6 +5529,24 @@
           "amount": 100193.83,
           "account": "Payroll clearing account",
           "description": "RIPPLING PAYMENT TYPE PAYROLL  I RIPPLING PAYMENT TYPE PAYROLL  ID XXXXXX1000 CO RIPPLING PAYMENT"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
+      "total": 124.71,
+      "attributed": 124.71,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SAFEWAY #1615 - 4617",
+      "lines": [
+        {
+          "amount": 124.71,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SAFEWAY #1615 - 4617"
         }
       ]
     },
@@ -5197,6 +5644,78 @@
       "type": "Purchase",
       "date": "2026-10-24",
       "doc_number": "",
+      "total": 154.99,
+      "attributed": 154.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "1 x Arducam USB 3.0 Camera, 960x600@80fps Global Shutter UVC Module (AR0234 2.3MP, 95\u00b0 M12 lens) - ASIN B0DBV8VFJZ",
+      "lines": [
+        {
+          "amount": 154.99,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "1 x Arducam USB 3.0 Camera, 960x600@80fps Global Shutter UVC Module (AR0234 2.3MP, 95\u00b0 M12 lens) - ASIN B0DBV8VFJZ"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 70.0,
+      "attributed": 70.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COSMIK VENTURES LLC - 9208",
+      "lines": [
+        {
+          "amount": 70.0,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "putting together all shop furniture"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 420.0,
+      "attributed": 420.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COSMIK VENTURES LLC - 9208",
+      "lines": [
+        {
+          "amount": 420.0,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "putting together all shop furniture"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 245.0,
+      "attributed": 245.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COSMIK VENTURES LLC - 9208",
+      "lines": [
+        {
+          "amount": 245.0,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "putting together all shop furniture"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
       "total": 101.53,
       "attributed": 101.53,
       "vendor": "",
@@ -5244,6 +5763,24 @@
           "amount": 41.54,
           "account": "FACILITIES:FA-Software Expenses",
           "description": "WP*WORDPRESS M1X5EGUV5 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 1324.8,
+      "attributed": 1324.8,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UNITEDXXXXXXXXXXXXXX - 7333",
+      "lines": [
+        {
+          "amount": 1324.8,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "Josh and Dan travel for SoCOM demo"
         }
       ]
     },
@@ -5339,6 +5876,42 @@
           "amount": 207.72,
           "account": "FACILITIES:FA-Software Expenses",
           "description": "OPENAI *CHATGPT SUBSCR   SAN FRANCISCOCA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 5400.72,
+      "attributed": 5400.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ANTHROPIC - 4617 software subscription",
+      "lines": [
+        {
+          "amount": 5400.72,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "ANTHROPIC - 4617 software subscription"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 269.99,
+      "attributed": 269.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "1 x Arducam USB 3.0 Camera, 90FPS 4K, 8.3MP, 16mm C-Mount Lens, IMX585 Low Light UVC - ASIN B0DBV5QPJN",
+      "lines": [
+        {
+          "amount": 269.99,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "1 x Arducam USB 3.0 Camera, 90FPS 4K, 8.3MP, 16mm C-Mount Lens, IMX585 Low Light UVC - ASIN B0DBV5QPJN"
         }
       ]
     },
@@ -5454,6 +6027,24 @@
       "type": "Purchase",
       "date": "2026-10-17",
       "doc_number": "",
+      "total": 455.0,
+      "attributed": 455.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COSMIK VENTURES LLC - 9208",
+      "lines": [
+        {
+          "amount": 455.0,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "putting together all shop furniture"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
       "total": 6.0,
       "attributed": 6.0,
       "vendor": "",
@@ -5483,6 +6074,34 @@
           "amount": 55.0,
           "account": "Indirect Cost:Software Expenses",
           "description": "STARLINK INTERNET - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 421.61,
+      "attributed": 140.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Was not able to find receipt for purchase.",
+      "lines": [
+        {
+          "amount": 140.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.53,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Was not able to find receipt for purchase."
         }
       ]
     },
@@ -5555,6 +6174,60 @@
           "amount": 1755.03,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Samsung Electronics Ameri - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 490.0,
+      "attributed": 490.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COSMIK VENTURES LLC - 9208",
+      "lines": [
+        {
+          "amount": 490.0,
+          "account": "FACILITIES:FA-Equipment Repairs & Maintenance",
+          "description": "putting together all shop furniture"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 175.0,
+      "attributed": 175.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PSI EXAMS - 7333",
+      "lines": [
+        {
+          "amount": 175.0,
+          "account": "Indirect Cost:Professional Fees (do not use)",
+          "description": "PSI EXAMS - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 650.52,
+      "attributed": 650.52,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GIH*GLOBALINDUSTRIALEQ - 7333",
+      "lines": [
+        {
+          "amount": 650.52,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "GIH*GLOBALINDUSTRIALEQ - 7333"
         }
       ]
     },
@@ -5974,12 +6647,12 @@
       "vendor": "",
       "customer": "",
       "balance": null,
-      "memo": "AMAZON MKTPL*5E9FM9HO1 - 4617",
+      "memo": "Soldering/shop tools: Hakko CHP long-nose pliers (PN-2007 x4, PN-2008 x4, PN-2005 x2 across packages), FNIRSI FNB58 USB testers (2), Micro Cutter 5-pack (2), VORIGY 18\" metal rulers (4), Masterplug 50ft cord reels (4), Rollo wireless label printer, Angel USA 400lb shipping scale, NOEVSBIG magnetic helping hands (4). See Items tab.",
       "lines": [
         {
           "amount": 63.68,
           "account": "FACILITIES:FA-Shop Supplies",
-          "description": "part of larger shop supplies order (order placed on Oct. 1, 2026)"
+          "description": "Soldering/shop tools: Hakko CHP long-nose pliers (PN-2007 x4, PN-2008 x4, PN-2005 x2 across packages), FNIRSI FNB58 USB testers (2), Micro Cutter 5-pack (2), VORIGY 18\" metal rulers (4), Masterplug 50ft cord reels (4), Rollo wireless label printer, Angel USA 400lb shipping scale, NOEVSBIG magnetic h"
         }
       ]
     },
@@ -6082,6 +6755,96 @@
           "amount": 113.73,
           "account": "FACILITIES:FA-Facility Repairs & Maintenance",
           "description": "ECO-CYCLE - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 166.01,
+      "attributed": 166.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "13 line items, general office/kitchen supplies: Pendaflex file folders (250), BH Supplies syringes 5mL and 1mL (100 ea), Amazon Basics 6W LED bulbs (6), wax paper, AILZFEI note pads, paper towels (2-pack), sink caddy, wide-ruled writing pads, 18 sticky-note pads, Scotch-Brite dishwand kit, M&G mesh pen holder, 23-gal trash bags (150). See Items tab.  No purchase request",
+      "lines": [
+        {
+          "amount": 166.01,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "13 line items, general office/kitchen supplies: Pendaflex file folders (250), BH Supplies syringes 5mL and 1mL (100 ea), Amazon Basics 6W LED bulbs (6), wax paper, AILZFEI note pads, paper towels (2-pack), sink caddy, wide-ruled writing pads, 18 sticky-note pads, Scotch-Brite dishwand kit, M&G mesh "
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 1172.23,
+      "attributed": 1172.23,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Soldering/shop tools: Hakko CHP long-nose pliers (PN-2007 x4, PN-2008 x4, PN-2005 x2 across packages), FNIRSI FNB58 USB testers (2), Micro Cutter 5-pack (2), VORIGY 18\" metal rulers (4), Masterplug 50ft cord reels (4), Rollo wireless label printer, Angel USA 400lb shipping scale, NOEVSBIG magnetic helping hands (4). See Items tab.",
+      "lines": [
+        {
+          "amount": 1172.23,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Soldering/shop tools: Hakko CHP long-nose pliers (PN-2007 x4, PN-2008 x4, PN-2005 x2 across packages), FNIRSI FNB58 USB testers (2), Micro Cutter 5-pack (2), VORIGY 18\" metal rulers (4), Masterplug 50ft cord reels (4), Rollo wireless label printer, Angel USA 400lb shipping scale, NOEVSBIG magnetic h"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 9.99,
+      "attributed": 9.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5998D4UU0 - 4617. Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAISH interdental brushes (2), Energetic A21 LED bulbs (2 x 4-pack), 1oz oil bottles (10), Amazon Basics ",
+      "lines": [
+        {
+          "amount": 9.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "AMAZON MKTPL*5998D4UU0 - 4617.  Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAIS"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 310.93,
+      "attributed": 310.93,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*5E28J40T1 - 4617. Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAISH interdental brushes (2), Energetic A21 LED bulbs (2 x 4-pack), 1oz oil bottles (10), Amazon Basics ",
+      "lines": [
+        {
+          "amount": 310.93,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "AMAZON MKTPL*5E28J40T1 - 4617. Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAISH"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 12.63,
+      "attributed": 12.63,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAISH interdental brushes (2), Energetic A21 LED bulbs (2 x 4-pack), 1oz oil bottles (10), Amazon Basics dish soap, Kitsure dish rack. S",
+      "lines": [
+        {
+          "amount": 12.63,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Lab/shop supplies: uxcell dispensing needles (14ga x1.26\" 250pc; 20G tapered 50pc; 20G 0.5\" 200pc; 14Ga Luer Lock 100pc x3), iplusmile aluminum weigh boats (listed in 2 packages), heat-set insert tool, OLIGHT I3T flashlights (8), QYH mesh pencil cups (6-pack), FERCAISH interdental brushes (2), Energ"
         }
       ]
     },
@@ -14166,18 +14929,18 @@
       "lines": [
         {
           "amount": 130.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 26.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 39.0,
           "account": "Inventory Asset",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep Test cells for new S0 batteries"
         }
       ]
     },
@@ -55437,78 +56200,6 @@
           "description": "kaverme 3PCS Precision Tweezers Set, Upgraded Anti-Static Stainless Steel of Tweezers"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-04",
-      "doc_number": "",
-      "total": 160.0,
-      "attributed": 160.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "ACADEMY OF MODEL AERON   MUNCIE       IN",
-      "lines": [
-        {
-          "amount": 160.0,
-          "account": "Indirect Cost:Dues & Subscriptions",
-          "description": "ACADEMY OF MODEL AERON   MUNCIE       IN"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-04",
-      "doc_number": "",
-      "total": 482.37,
-      "attributed": 482.37,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              V65P72PENENLO7Z BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 482.37,
-          "account": "Indirect Cost:Payroll Expenses:Payroll Processing Fees",
-          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    BILL              V65P72PENENLO7Z BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-04",
-      "doc_number": "",
-      "total": 293.14,
-      "attributed": 293.14,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        QPV0YNK1ZDJ4O6V BUSINESS CHECKING",
-      "lines": [
-        {
-          "amount": 293.14,
-          "account": "Indirect Cost:Payroll Expenses:Payroll Processing Fees",
-          "description": "BUSINESS TO BUSINESS ACH PEOPLE CENTER    GSUITE_RES        QPV0YNK1ZDJ4O6V BUSINESS CHECKING"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-04",
-      "doc_number": "",
-      "total": 6.9,
-      "attributed": 6.9,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 6.9,
-          "account": "Indirect Cost:Dues & Subscriptions",
-          "description": "weekly fee"
-        }
-      ]
     }
   ],
   "purchase_orders": [
@@ -55573,6 +56264,24 @@
     }
   ],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 1943.1,
+      "attributed": 1943.1,
+      "vendor": "",
+      "customer": "Boostr Consulting",
+      "balance": null,
+      "memo": "Paid via QuickBooks Payments: Payment ID 12a-04g",
+      "lines": [
+        {
+          "amount": 1943.1,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2026-11-03",

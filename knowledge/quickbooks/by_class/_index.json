@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
-  "scanned_at": "2026-11-04",
+  "scanned_at": "2026-11-05",
   "projects": [
     {
       "project_code": "001-1",
@@ -22,10 +22,10 @@
     {
       "project_code": "001-11",
       "revenue": 0.0,
-      "expenses": 778.95,
+      "expenses": 738.52,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 18,
+      "purchase_count": 17,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -74,10 +74,10 @@
     {
       "project_code": "001-3",
       "revenue": 0.0,
-      "expenses": 1243.3,
+      "expenses": 2251.35,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 6,
+      "purchase_count": 9,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 37113.92,
+      "expenses": 44773.1,
       "invoice_count": 0,
-      "bill_count": 8,
-      "purchase_count": 109,
+      "bill_count": 9,
+      "purchase_count": 110,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -115,10 +115,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 206827.01,
+      "expenses": 206967.55,
       "invoice_count": 0,
       "bill_count": 31,
-      "purchase_count": 261,
+      "purchase_count": 262,
       "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
@@ -237,10 +237,10 @@
     {
       "project_code": "212-2",
       "revenue": 91319.0,
-      "expenses": 19349.63,
+      "expenses": 19393.11,
       "invoice_count": 2,
       "bill_count": 2,
-      "purchase_count": 30,
+      "purchase_count": 31,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1008500.0,
-      "expenses": 410776.9,
+      "expenses": 418504.47,
       "invoice_count": 11,
-      "bill_count": 21,
-      "purchase_count": 316,
+      "bill_count": 22,
+      "purchase_count": 318,
       "po_count": 0,
       "payment_count": 8,
       "qbo_class_names": [
@@ -293,10 +293,10 @@
     {
       "project_code": "451-1",
       "revenue": 0.0,
-      "expenses": 10461.94,
+      "expenses": 12103.47,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 17,
+      "purchase_count": 22,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -333,13 +333,13 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3799134.01,
-      "expenses": 4815573.18,
-      "invoice_count": 60,
-      "bill_count": 138,
-      "purchase_count": 2580,
+      "revenue": 3797607.11,
+      "expenses": 4832211.65,
+      "invoice_count": 59,
+      "bill_count": 139,
+      "purchase_count": 2617,
       "po_count": 3,
-      "payment_count": 56,
+      "payment_count": 57,
       "qbo_class_names": [
         "",
         "(001-8) IRAD Flight Testing",

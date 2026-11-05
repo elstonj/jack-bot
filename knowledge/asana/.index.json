@@ -21,10 +21,10 @@
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-11-04",
-    "completed": 0,
+    "as_of": "2026-11-05",
+    "completed": 3,
     "name": "[001-04] S0 VTOL IRAD",
-    "open": 45,
+    "open": 42,
     "window": "last 90 days"
   },
   "001-05_s1_irad.md": {
@@ -42,8 +42,8 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-04",
-    "completed": 13,
+    "as_of": "2026-11-05",
+    "completed": 11,
     "name": "[001-07] S3 IRAD",
     "open": 109,
     "window": "last 90 days"
@@ -98,7 +98,7 @@
     "window": "last 90 days"
   },
   "001-13_bd_pipeline.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 6,
     "name": "[001-13] BD Pipeline",
     "open": 47,
@@ -119,7 +119,7 @@
     "window": "last 90 days"
   },
   "001-13_facilities_management.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 17,
     "name": "[001-13] Facilities Management",
     "open": 8,
@@ -133,10 +133,10 @@
     "window": "last 90 days"
   },
   "001-13_general_operations.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 15,
     "name": "[001-13] General Operations",
-    "open": 29,
+    "open": 30,
     "window": "last 90 days"
   },
   "001-13_hiring_pipeline.md": {
@@ -182,17 +182,17 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 225,
+    "open": 227,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
-    "as_of": "2026-10-27",
+    "as_of": "2026-11-05",
     "completed": 60,
     "name": "[001-14] SwiftCore 3.3",
-    "open": 6,
+    "open": 7,
     "window": "last 90 days"
   },
   "001-15_mhp_irad.md": {
@@ -224,7 +224,7 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-10-31",
+    "as_of": "2026-11-05",
     "completed": 9,
     "name": "[001-22] Fleet Maintenance",
     "open": 3,
@@ -406,10 +406,10 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-11-03",
-    "completed": 11,
+    "as_of": "2026-11-05",
+    "completed": 12,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
-    "open": 10,
+    "open": 9,
     "window": "last 90 days"
   },
   "301-2_sbir_-_hurricane_phase_ii.md": {
@@ -427,7 +427,7 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-11-03",
+    "as_of": "2026-11-05",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
@@ -462,10 +462,10 @@
     "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-11-04",
-    "completed": 15,
+    "as_of": "2026-11-05",
+    "completed": 13,
     "name": "[550-1] NAVY SBIR: Magnetometer",
-    "open": 3,
+    "open": 5,
     "window": "last 90 days"
   },
   "550-2_navy_sttr_hazardous_weather.md": {
@@ -476,7 +476,7 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 6,
     "name": "[600-1] SOCOM Pope",
     "open": 58,
@@ -490,10 +490,10 @@
     "window": "last 90 days"
   },
   "contacts.md": {
-    "as_of": "2026-11-03",
-    "completed": 2,
+    "as_of": "2026-11-05",
+    "completed": 0,
     "name": "Contacts",
-    "open": 103,
+    "open": 105,
     "window": "last 90 days"
   },
   "eventsconferencespr_opportunities.md": {
@@ -511,10 +511,10 @@
     "window": "last 90 days"
   },
   "flight_testing.md": {
-    "as_of": "2026-11-04",
-    "completed": 12,
+    "as_of": "2026-11-05",
+    "completed": 17,
     "name": "Flight Testing",
-    "open": 10,
+    "open": 6,
     "window": "last 90 days"
   },
   "nate_strauss_previously_assigned_tasks.md": {
@@ -553,7 +553,7 @@
     "window": "last 90 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
     "open": 12,

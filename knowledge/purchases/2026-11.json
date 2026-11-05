@@ -24,5 +24,57 @@
     "notes": "Order #23311 completed 10-30-2026. Shipped via USPS Priority Mail.",
     "date": "2026-11-02",
     "subject": "MKS Servos USA: Your order #23311 has been completed"
+  },
+  {
+    "id": "1a1a84fd59a15131",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Personal food order forwarded to purchasing@; not a company purchase",
+    "date": "2026-11-04",
+    "subject": "Fwd: Pickup order #6759B4C9 confirmed!"
+  },
+  {
+    "id": "1a1a84caf8bc560e",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Personal food order forwarded to purchasing@; not a company purchase",
+    "date": "2026-11-04",
+    "subject": "Fwd: Voodoo Doughnut - Order Received"
+  },
+  {
+    "id": "1a1a84c1e81360e1",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Personal food order forwarded to purchasing@; not a company purchase",
+    "date": "2026-11-04",
+    "subject": "Fwd: Your order from Moe's Broadway Bagel is ready"
+  },
+  {
+    "id": "1a1a74f898319307",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": null,
+    "vendor": "Global Industrial",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Handle and Wheel Kit for Modular Drawer Cabinet, Blue, 30\"W x 27\"D",
+    "notes": "Order #29340179; arriving 11/5/26; no project code or amount visible in email",
+    "date": "2026-11-04",
+    "subject": "Your Global Industrial Order # 29340179 is Arriving Tomorrow"
   }
 ]

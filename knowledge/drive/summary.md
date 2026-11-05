@@ -1,53 +1,57 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-04 02:55
+Last scanned: 2026-11-05 02:50
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 4 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 7 files — [sales.md](sales.md)
+- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 2 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies — Shared Drive Strategic Overview
+# Black Swift Technologies — Strategic Drive Overview
 
 ## Summary Statistics
-- **Total Documents:** 11 files across 2 drives
-- **Active Period:** October 2026 – November 2026
-- **Organization Level:** Minimal (7 files in Sales; 4 files in Federal Projects; limited folder structure)
+- **Total documented files:** 8 files across 2 active shared drives
+- **Organization quality:** Poor — minimal folder structure, flat hierarchies
+- **Date range:** February 2022 – January 2099 (note: future dates suggest data quality issues)
 
-## Key Clients & Projects
+## Key Observations
 
-| Project | Drive | Documentation | Status |
-|---------|-------|----------------|--------|
-| RAVEN | Sales | Kickoff presentations, site visit materials | Active (modified 11/04) |
-| Vantor | Sales | Technical discussion notes | Active (modified 11/03) |
-| University of Bridgeport | Sales | ROM budgets, proposals | Active |
-| ROM (Federal) | Federal Projects | Budget documentation | Active (modified 11/03) |
-| Hurricane Console | Federal Projects | Requirements specification (Rev B) | Active |
+### Document Volume & Distribution
+| Drive | Files | Organization | Status |
+|-------|-------|--------------|--------|
+| Federal Projects | 6 | No folders; root-level only | Active |
+| Sales | 2 | Minimal structure | Active |
 
-## Cross-Drive Patterns
-- **Sales Drive:** Presentations and meeting notes dominate; client-specific folders emerging (University of Bridgeport)
-- **Federal Projects Drive:** Mix of technical requirements and budget/video files; minimal organization
-- **Shared Resources:** ROM budgets appear in both Sales and Federal drives (potential duplication/sync issue)
+### Primary Focus Areas
+1. **Federal Projects** — Core business driver
+   - VTOL/rotorcraft systems (primary focus)
+   - Technical proposals and ROM estimates
+   - Quad charts and presentations for government stakeholders
 
-## Document Management Observations
+2. **Sales** — Limited documentation
+   - RAVEN project kickoff materials
+   - Informal notes alongside formal deliverables
 
-**Strengths:**
-- Recent activity indicates active use (all modifications within 9 days)
-- Consistent naming conventions on formal documents (BST-HUR-UI-REQ-001, date-prefixed files)
+### Cross-Drive Patterns
+- **No cross-drive resource sharing identified** — Drives operate independently
+- Proposals appear in Federal drive; minimal sales pipeline documentation in Sales drive
+- Templates and shared resources not visible across either drive
 
-**Concerns:**
-- **Flat structure:** Sales root directory contains 5 files with only 1 subfolder; Federal Projects is completely flat
-- **Naming inconsistency:** Mix of formal (BST-HUR-UI-REQ-001) and informal (Dan's Notes, nevada_drop.mp4)
-- **Media files in business drives:** Video files (RC_VID_0008/0009.MOV, nevada_drop.mp4) suggest no clear separation of asset management
-- **Future dates:** Two Federal Projects files show modification dates in 2099—likely data entry errors requiring correction
+### Document Management Issues
 
-## Areas Requiring Attention
-1. **Folder structure expansion** — Sales needs project folders; Federal Projects needs organizational framework
-2. **Date validation** — Correct 2099 timestamps in Federal Projects drive
-3. **Resource deduplication** — ROM Budget appears in both drives; establish single source of truth
-4. **Archive strategy** — Plan for managing completed projects (RAVEN, Vantor post-proposal)
-5. **Metadata consistency** — Standardize naming conventions across both drives
+**Critical Concerns:**
+- **No folder organization** in Federal drive despite 6 strategic documents
+- **Inconsistent naming** (formal proposals vs. informal notes like "Dan's Notes")
+- **Date anomalies** (files dated January 2099) suggest metadata issues
+- **Minimal Sales documentation** (only 2 files) for a business development function
+
+### Recommendations
+1. Implement consistent folder taxonomy (by project, client, or document type)
+2. Establish naming conventions across drives
+3. Consolidate and verify document dates
+4. Expand Sales drive documentation for visibility into pipeline/client work
+5. Create shared templates library accessible across drives

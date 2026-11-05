@@ -5,20 +5,21 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 410776.9,
+    "expenses": 418504.47,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 257121.36,
-      "DIRECT COSTS:DC-Direct Cost Subcontractors": 109101.73,
+      "DIRECT COSTS:DC-Direct Material Purchases": 259337.85,
+      "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7116.5,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7216.33,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 445.23,
       "SALES & MARKETING:SM-Shipping": 204.16,
+      "Inventory Asset": 130.0,
       "SALES & MARKETING:SM-Travel": 20.86,
       "FRINGE:Employee Reimbursement": -2092.16
     }
@@ -294,6 +295,39 @@
     }
   ],
   "bills": [
+    {
+      "type": "Bill",
+      "date": "2026-11-04",
+      "doc_number": "3974",
+      "total": 15255.47,
+      "attributed": 7627.74,
+      "vendor": "MicroFirm Engineering",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 5281.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "Labor (42.25)"
+        },
+        {
+          "amount": 2346.49,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Parts"
+        },
+        {
+          "amount": 5281.25,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
+          "description": "Labor (42.25)"
+        },
+        {
+          "amount": 2346.48,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Parts"
+        }
+      ]
+    },
     {
       "type": "Bill",
       "date": "2026-10-20",
@@ -915,6 +949,42 @@
           "amount": 23.04,
           "account": "Inventory Asset",
           "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 10.0,
+      "attributed": 10.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 10.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipment to N. Pawlenko (pick up request)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 89.83,
+      "attributed": 89.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 89.83,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "shipment to Nick Pawlenko"
         }
       ]
     },
@@ -4045,18 +4115,18 @@
       "lines": [
         {
           "amount": 130.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 26.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "account": "Inventory Asset",
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep. Test cells for new S0 batteries"
         },
         {
           "amount": 39.0,
           "account": "Inventory Asset",
-          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep"
+          "description": "Wire Transfer. No Asana request - Alex made purchase via email with sales rep Test cells for new S0 batteries"
         }
       ]
     },

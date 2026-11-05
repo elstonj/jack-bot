@@ -1,104 +1,99 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 54 emails (Nov 2-3, 2026)
-- **Date range:** November 2-3, 2026
+- **Total messages scanned:** 64 emails (Nov 2-5, 2026)
+- **Date range:** November 2-5, 2026
 - **Approximate volume:** ~15-27 emails per day during this period
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; appears in 15+ emails as sender or recipient across multiple initiatives
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — operations/technical lead; involved in NOAA coordination, wind tunnel testing, proposal work
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — sales/business development; managing inbound inquiries and opportunities
-- **Alex Lomis** (alex.lomis@blackswifttech.com) — technical team member; NOAA S0 UAS coordination
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — technical team member; NOAA and NASA initiatives
-- **Ben Busby** (ben.busby@blackswifttech.com) — technical team member; large group coordination on S0 UAS
+- **Jack Elston** (elstonj@blackswifttech.com) — primary collaborator; continues to appear as central hub across multiple initiatives; now visible in competitive intelligence and military design discussions
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — operations/technical lead; included in KrateoSky competitive discussion
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — new visibility; included in external competitive intelligence thread with KrateoSky
 
 ### Top External Contacts
-- **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — government customer lead; high-frequency strategic correspondence on multiple initiatives
-- **Dmitry Chulkov** (dmitry@basecam-electronics.com, BaseCam Electronics) — payload stabilization vendor; active technical coordination
-- **Brian M Argrow** (Brian.Argrow@colorado.edu, University of Colorado) — academic partner; appears as co-recipient with Maciej on strategic follow-ups
-- **Joshua Wadler** (WADLERJ@erau.edu, Embry-Riddle Aeronautical University) — NASA wind tunnel testing coordination; leading ERAU effort
-- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov, NOAA Federal) — NOAA technical team; S0 UAS development
-- **Ed Kase** (ed.kase@ekaseconsulting.com) — external consultant; forwarding USAF long-range communications drone RFI
+- **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — government customer lead; primary relationship continues (from prior period)
+- **Ed Kase** (ed.kase@ekaseconsulting.com) — external consultant; expanded engagement; now sourcing multiple opportunity vectors (USAF long-range comms, marine mammal monitoring, UAS ISR topics)
+- **Ariel Avitan** (Ariel@krateosky.com, KrateoSky) — external third party; competitive/partnership discussion thread; elevated to multi-recipient strategic discussion
+- **Lawrence Hudy** (lawrence.hudy@vantor.com, Vantor) — new contact; active technical discussion on "Black Swift TEM" (thermal/technical topic)
+- **Anthony Brescia** (anthony.d.brescia.civ@us.navy.mil, NAWCAD/USN) — government contact; Navy technical design discussion
 
-### Government/Military Contacts (NOAA Team Emphasis)
-- **NOAA:** Joe Cione (lead), Nikolai Pawlenko, Mark Rogers, Laura Rock, Danielle Varwig, Jun Zhang, Annette Hollingshead, Nicholas Underwood
-- **ERAU (NASA partner):** Joshua Wadler, Ebenezer Gnanamanickam, Zheng Zhang
-- **University Partners:** Brian Argrow (CU Boulder), Adam Houston (University of Nebraska-Lincoln), Lucas Wheeler (University of Colorado)
+### Continuing Relationships
+- **Dmitry Chulkov** (BaseCam Electronics), **Brian Argrow** (CU Boulder), **Joshua Wadler** (ERAU), **Nikolai Pawlenko** (NOAA) — from prior period (not visible in new scan but ongoing)
 
 ### Internal vs External
-- ~55% internal (BST team coordination)
-- ~45% external (government agencies, academic institutions, vendors, consultants)
+- ~40% internal (BST team coordination)
+- ~60% external (consultants, vendors, potential partners/competitors, government)
 
 ## Topic Patterns
 
-### Active Projects/Programs
-- **S0 UAS / New UI for S0 UAS** — NOAA primary initiative; appears in 5+ emails; large multi-team coordination between NOAA and BST
-- **NASA Wind Tunnel Testing at ERAU** — active project with ERAU (Joshua Wadler lead); follow-up communications ongoing
-- **Custom Payload Stabilization** — vendor coordination with BaseCam Electronics; technical development phase
-- **NEOTAC (NEw Observational Technologies and Advanced Conops)** — NOAA meeting invitation for Nov 5, 2026; Maciej is invited participant
+### Active Projects/Programs (Continuing)
+- **S0 UAS / NOAA Initiatives** — continuing primary focus (from prior period)
+- **NASA Wind Tunnel Testing at ERAU** — continuing (from prior period)
+- **Custom Payload Stabilization** — continuing (from prior period)
 
-### Government/Military Opportunities
-- **USAF Long-Range Communications Drones** — RFI forwarded via Ed Kase; deployable from AFSOC fixed-wing platforms; marked as non-DoD source
-- **MHP** — academic/research initiative involving CU Boulder and University of Nebraska-Lincoln; follow-up meetings occurring
+### New/Expanded Opportunity Vectors
+- **USAF Long-Range Communications Drones (AFSOC)** — now showing direct follow-up correspondence with Ed Kase; elevated from initial RFI forward to active discussion phase
+- **Marine Mammal Monitoring** — new topic from Ed Kase; separate application area sourced by consultant
+- **UAS ISR (Intelligence, Surveillance, Reconnaissance)** — new topic; general UAS capability discussion
+- **"Black Swift TEM"** — new technical topic with Vantor contact (Lawrence Hudy); possible thermal/technical system discussion
 
-### Sales Pipeline / Inbound Inquiries
-- **Black Swift Inquiry** — multiple inbound inquiries from academia (Nicolas Zoghb - Bridgeport University, Lucas Wheeler - University of Colorado); Beck Cotter managing responses via sales@blackswifttech.com
+### Competitive Intelligence
+- **KrateoSky** — identified as "Potential Competitor"; subject line explicitly flags competitive concern; Bob Smith and Brian Grubel appear to be KrateoSky leadership; Ariel Avitan managing the discussion with BST team
+- **UAS Design Thoughts** — Jack Elston discussing UAS design concepts with Navy NAWCAD contact (Anthony Brescia); potential competitive/partnership positioning
 
-### External Newsletter/Automated
-- **NOAA Postdoctoral Opportunity** — recruitment/job posting circulated to emerging technologies teams; informational
+### Sales/Business Development
+- **Vantor Partnership/Technology** — Lawrence Hudy responding to Black Swift inquiry; possible integration or partnership discussion
 
 ## Communication Patterns
 
 ### Time Patterns
-- Heavy activity during business hours (08:30-22:00 across MT/CT/UTC)
-- Multiple time zones active simultaneously (Mountain, Central, UTC)
-- Morning activity surge around 10:00-14:00 MT (Nov 3)
-- Evening/late-night UTC sends from NOAA (typical federal schedule offset)
+- Heavy UTC activity Nov 4-5 (00:23, 03:59, 02:43 UTC) — suggesting non-US time zone participants or overnight engagement with international contacts
+- Mountain/Central time zone morning activity (08:34-10:55 MT/MT) — consistent with prior period
+- Late-night/early-morning sends from external parties (Ed Kase, KrateoSky) indicating 24-hour engagement cycle
 
 ### Mailing Lists & Group Emails
-- **NOAA Large Team Coordination:** 14-person threads including multiple NOAA divisions (AOML ET, AOML PHOD, AOML HRD, AOML NEOTAC)
-- **BST Internal:** proposals@blackswifttech.com routing on sales inquiries
-- **Academic Consortium:** ERAU-CU Boulder-UNL coordination on research initiatives
-- **S0 UAS Core Team:** Recurring 14-15 person list for project coordination
+- **KrateoSky Strategic Thread:** Maciej included as peer recipient in multi-person discussion (Bob Smith, Brian Grubel, Ariel Avitan, plus 4 BST team members) — indicates strategic/technical review engagement
+- **Ed Kase Opportunity Sourcing:** Multiple parallel topics being circulated (USAF comms, marine mammal, ISR) — suggests Ed Kase is actively curating opportunities for BST
 
 ### Message Flags
-- 100% of sampled messages marked IMPORTANT (indicates high-priority work stream)
-- Multiple UNREAD messages on technical/strategic topics
-- Sales inquiry thread shows rapid response cycles (multiple replies within hours)
+- 7 of 10 new emails marked IMPORTANT — consistent with prior high-priority assessment
+- Multiple UNREAD messages — active processing of ongoing threads
+- One SENT message (Maciej originating) on USAF long-range comms follow-up
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — primary strategic partner across all major initiatives (NOAA, NASA, USAF opportunities); appears in nearly every major email thread
-2. **Daniel Prendergast** — technical/operations coordination; handles proposal work and government engagement logistics
-3. **Beck Cotter** — sales funnel management; primary interface with inbound academic/commercial inquiries
+1. **Jack Elston** — remains primary strategic partner; now visible managing competitive intelligence (KrateoSky), government relations (Navy), and opportunity screening
+2. **Daniel Prendergast** — included in competitive discussions; continues operational coordination role
+3. **Cory Dixon** — emerging in external-facing competitive/strategic discussions
 
-### Critical External Relationships
-- **NOAA (Joe Cione lead)** — primary customer; S0 UAS development, NEOTAC participation, multi-year engagement; Joe Cione is critical POC
-- **ERAU (Joshua Wadler)** — NASA partnership; wind tunnel testing coordination; active project phase
-- **University of Colorado (Brian Argrow)** — academic partner; strategic follow-up meetings; co-recipient status with Maciej suggests peer-level engagement
-- **BaseCam Electronics (Dmitry Chulkov)** — technical vendor; active stabilization payload development
+### Critical External Relationships (Updated)
+- **Ed Kase (Consultant)** — elevated importance; now actively sourcing multiple opportunity vectors (USAF, marine mammal monitoring, ISR) — appears to be trusted business development/scout resource
+- **KrateoSky (Ariel Avitan)** — new strategic relationship; competitive positioning discussion underway; appears to be peer-level or partnership negotiation
+- **NOAA (Joe Cione)** — continues as primary customer (not visible in new scan but context from prior period)
 
-### Secondary External Relationships
-- **University of Nebraska-Lincoln (Adam Houston)** — research collaboration via MHP initiative
-- **University of Bridgeport (Nicolas Zoghb)** — inbound inquiry; prospect management
-- **Ed Kase Consulting** — government/military opportunity sourcing; forwarding RFI/business development leads
+### New External Relationships
+- **Vantor (Lawrence Hudy)** — technical discussion on "Black Swift TEM"; possible vendor/partner integration
+- **Navy NAWCAD (Anthony Brescia)** — government relationship; UAS design discussion with Jack Elston
 
 ## Notable Observations
 
-1. **NOAA Dominance:** ~70% of external correspondence involves NOAA Federal (Joe Cione team) across multiple initiatives. S0 UAS is clearly flagship customer engagement with committed technical resources.
+1. **Competitive Intelligence Escalation:** KrateoSky explicitly flagged as "Potential Competitor" with multi-recipient strategic discussion (Nov 4-5). Ariel Avitan (KrateoSky) copied entire BST leadership team on response — suggests potential partnership negotiation, joint bidding, or competitive positioning discussion. Jack Elston appears to be leading this engagement.
 
-2. **Academic Partnership Model:** Significant involvement with ERAU, CU Boulder, and University of Nebraska-Lincoln suggests research-to-commercialization strategy (NASA wind tunnel testing, MHP initiative). Brian Argrow appears to be key academic relationship.
+2. **Ed Kase as Opportunity Scout:** Consultant is now functioning as active business development channel, sourcing opportunities across multiple vectors simultaneously (USAF long-range comms, marine mammal monitoring, UAS ISR). Indicates trusted external network for pipeline generation.
 
-3. **Maciej's Role:** Named recipient on large NOAA S0 UAS threads and NASA ERAU coordination suggests technical leadership or project management role; appears as peer-level contact to Jack Elston on strategic initiatives.
+3. **Military/Government Diversification:** New visibility to Navy (NAWCAD) and USAF opportunities alongside continuing NOAA relationship. Suggests deliberate strategy to expand government customer base beyond NOAA.
 
-4. **USAF Opportunity Surfacing:** New RFI for long-range communications drones (AFSOC deployable) forwarded Nov 3 — potential growth vector distinct from NOAA focus.
+4. **Technology/Vendor Engagement:** Vantor contact (Lawrence Hudy) on "Black Swift TEM" suggests possible system integration or technical partnership; separate from primary NOAA/NASA focus.
 
-5. **Sales Pipeline Activity:** Multiple academic inbound inquiries (Bridgeport, CU Boulder) being managed through sales@ routing, suggesting BST is generating institutional interest/awareness.
+5. **Maciej's Emerging Public Profile:** Now included in external-facing multi-recipient strategic discussions (KrateoSky thread), suggesting senior technical or business development role visibility to external partners.
 
-6. **Meeting Schedule:** NEOTAC meeting invitation (Nov 5) indicates Maciej maintains direct visibility to NOAA strategic planning/technology assessment forums.
+6. **International Engagement:** Late-night UTC sends from KrateoSky suggest potential international or global partner discussions.
 
-7. **High Communication Velocity:** 25 emails in 1-2 days with 100% IMPORTANT flag rate indicates active operational phase across multiple concurrent initiatives — not exploratory/business development, but execution.
+7. **Operational Velocity Maintained:** Continued IMPORTANT flag rate and multi-threaded engagement indicates active execution phase across expanding opportunity landscape — no slowdown in activity intensity.
+
+---
+
+**Metadata Note:** Sample size on new data is small (10 emails). Patterns should be considered directional until larger dataset confirms trends.

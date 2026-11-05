@@ -1,7 +1,7 @@
 # #25_1-navy-sbir-magnetometer
 
 ## Overview
-This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through November 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy RAVEN program contract finalization and kickoff (November 2026), and Arctic Edge 2027 participation planning (April 19-May 7, Alaska). Recent activity (late October-early November 2026) focuses on PCLT integration testing completion, altitude optimization for S0 drops, UK RAVEN project kickoff presentation finalization, site visit preparation with UK Navy and LMUK, operational security regarding SOCOM program integration, and simulator system preparation for UK delegation visit. Most recent updates (November 3, 2026) involve final site visit logistics coordination and presentation refinement.
+This channel is focused on Black Swift Technologies' Navy Small Business Innovation Research (SBIR) project for developing magnetometer-equipped aircraft systems. The project involves integrating QuSpin and Bartington magnetometers with BST's aircraft platforms for magnetic signature detection applications (MAD - Magnetic Anomaly Detection). Key participants include Beck Cotter, Maciej, Tyler, Sam Hild, Alex Lomis, Joshua Fromm, Jack Elston, Spencer Hoehl, and Ethan Domagala from BST, with external collaboration from QuSpin (Jeff), Ultra Maritime (Paul), Navy DEVCOM (Morris "DeSi"), Navy TPOC (Angel Ruiz-Reyes), Navy personnel (Tony, Daniel Klier, Aaron Pyrah, Derek), Royal Navy contact Simon, Lockheed Martin UK (LMUK), Dan Prendergast, and external consultant Eric Correa. Activity spans from October 2025 through November 2026, covering Phase I completion, Phase II proposal submission and kickoff, Option period development with flight testing preparation, sensor optimization work, TCE (Technology Concept Experimentation) event participation at Camp Pendleton (September 14-24), on-site testing and TAK integration with Navy personnel, post-TCE reporting and meeting preparation, UK Navy RAVEN program contract finalization and kickoff (November 2026), and Arctic Edge 2027 participation planning (April 19-May 7, Alaska). Recent activity focuses on PCLT integration testing completion, altitude optimization for S0 drops, UK RAVEN project kickoff presentation finalization, site visit execution with UK Navy and LMUK (November 2-6, 2026), operational security regarding SOCOM program integration, simulator system preparation for UK delegation visit, and aircraft production planning for multiple program variants (November 4, 2026).
 
 ## Key Decisions
 
@@ -72,40 +72,44 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Google Slides format adoption: Converted UK RAVEN presentation from PowerPoint to Google Slides format for easier collaborative editing and content integration from multiple sources (November 2, 2026)
 - Google Slides template best practice: Future slide imports should use "use styles in this presentation" option to maintain theme master slides and allow theme-wide formatting updates (November 3, 2026) - lesson learned from formatting issues during presentation finalization
 - Remote meeting integration: Decision to start online meeting in conference room to include remote participants during site visit (November 3, 2026)
+- S0 aircraft production planning: Plan to build extra S0 aircraft beyond immediate Phase II allocation to support Twin Otter test drop (April/May 2027) and maintain recovery capability for magnetometer variant (November 4, 2026). ATR variant specifically identified as requiring extra production units.
 
 ## Projects & Initiatives
 
 **Navy SBIR Magnetometer Program (Primary)**
-- **Status:** Option period underway; Phase II funding pending (as of November 2026)
+- **Status:** Option period complete; Phase II funding pending (as of November 2026)
 - **Phase I:** Completed (concluded October 2025)
-- **Option Period:** Active focus on TCE event completion (Camp Pendleton, September 14-24, 2026); transitioned through PCLT integration validation and altitude optimization; now transitioning to Phase II planning with accelerated timeline if funding approved by January 2027
+- **Option Period:** Completed; focus included TCE event at Camp Pendleton (September 14-24, 2026); PCLT integration validation; altitude optimization
 - **Phase II:** Proposed; if funded from January 2027 kickoff, schedule calls for drop article readiness by April-May 2027
 - **Key Deliverables:** 
   - Reusable S0-MAD flight article with Bartington and QuSpin magnetometers
   - Launch/recovery systems (manual hand-throw from UH-60 primary; PCLT tube-launched system validated for deployment)
   - Magnetic anomaly detection capability demonstration
   - Custom PCB for isolated power supply and 24-bit ADC for sensor integration
-- **Recent Focus (November 2-3, 2026):** UK RAVEN kickoff presentation finalization; simulator system preparation; site visit logistics and agenda finalization for incoming UK delegation; presentation content enhancements including ship ID imagery
+  - Multiple S0 aircraft variants (ATR variant, magnetometer variant, others) with planned production of additional units beyond Phase II initial allocation
+- **Aircraft Production Schedule:** Planning discussions ongoing November 4, 2026 regarding quantity of S0 aircraft to be built across SOCOM, RAVEN (Royal Navy), and Arctic Edge (Twin Otter) programs with focus on recovery and reuse strategy
 
-**Arctic Edge 2027 Participation** (Emerging)
+**Arctic Edge 2027 Participation** (Advanced Planning)
 - **Dates:** April 19-May 7, 2027, Alaska
-- **Status:** Planning stage; strategy discussions ongoing (October 2026)
+- **Status:** Planning stage; aircraft production planning tied to Twin Otter test drop requirements (April/May 2027)
 - **Relationship to Phase II:** Potential demonstration opportunity if Phase II funding approved
 - **Connection to PCLT Testing:** Recent PCLT validation testing supports readiness for Arctic Edge deployment scenarios
+- **Aircraft Requirements:** ATR variant identified as requiring multiple test drops during Twin Otter testing phase (April/May 2027); Maciej recommending production of extra ATR variant aircraft to support testing and maintain recovery capability (November 4, 2026)
 
 **UK Navy RAVEN Program (with LMUK)** (Active Execution Phase)
-- **Status:** Commercial approval received October 25, 2026; contract moving to formal execution phase; kickoff presentation finalized November 2-3, 2026; site visit with UK Navy and LMUK delegation imminent (week of November 2-6, 2026)
+- **Status:** Commercial approval received October 25, 2026; contract moving to formal execution phase; kickoff presentation finalized November 2-3, 2026; site visit with UK Navy and LMUK delegation completed/ongoing (week of November 2-6, 2026)
 - **Participants:** Lockheed Martin UK (LMUK), Simon (Royal Navy contact), Dan Prendergast (program coordination), Beck Cotter (logistics), Jack Elston (comms & spectrum lead), Spencer Hoehl (simulator and flight safety lead), Maciej, and BST team
 - **Technical Requirements:** 
   - Altitude specification <1000ft for drops (per Simon, October 29, 2026)
   - Payload development variants (with SOCOM integration intentionally undisclosed to UK partners)
+  - Aircraft production: Minimum 3 S0 aircraft planned for Royal Navy (November 4, 2026)
 - **Key Milestones:** 
   - Commercial approval achieved (October 25, 2026)
   - Kickoff presentation finalized (November 2-3, 2026)
   - Site visit agenda finalized (November 2, 2026); updated content on slides 2 and 32 of RAVEN presentation
-  - Jack Elston: Lead Wed 10-12 discussions on comms & spectrum, Merlin integration
-  - Spencer Hoehl: Simulator startup tomorrow (November 3) at 15:00; Wed 13:00 discussion on flight safety and certifications
-  - Simulator system ready for demonstration to UK delegation with online meeting capability for remote participants
+  - Jack Elston: Led Wed 10-12 discussions on comms & spectrum, Merlin integration
+  - Spencer Hoehl: Simulator startup November 3 at 15:00; Led Wed 13:00 discussion on flight safety and certifications
+  - Simulator system demonstrated to UK delegation with online meeting capability for remote participants
 - **Channel Management:** All communications consolidated within #25_1-navy-sbir-magnetometer (decision made October 29, 2026)
 - **Presentation Status:** 
   - Final link: https://docs.google.com/presentation/d/1l6kDsTF_w8hIT3s5Tkwm7f4RUz7jGJpOGz3ZOTg6dd4/edit?slide=id.h444cf934131a2cee_1_42
@@ -115,22 +119,26 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
   - Ship ID imagery added for comms & spectrum section (November 3, 2026)
   - Formatting refinements completed (November 3, 2026) to address text overlap and theme consistency issues
 - **Next Steps:** 
-  - Site visit execution (week of November 2-6, 2026)
-  - Comms & spectrum discussion (Wed 10-12)
-  - Flight safety and certifications discussion (Wed 13:00)
-  - Merlin integration discussion (Wed, Jack Elston lead)
-  - Alternate payloads discussion (Dan Prendergast leading; intentionally vague on SOCOM variants)
+  - Site visit ongoing (week of November 2-6, 2026)
+  - Comms & spectrum discussion (completed Wed 10-12)
+  - Flight safety and certifications discussion (completed Wed 13:00)
+  - Merlin integration discussion (completed Wed, Jack Elston lead)
+  - Alternate payloads discussion (Dan Prendergast led; intentionally vague on SOCOM variants)
+
+**SOCOM Program (Parallel Development, Confidential)**
+- **Status:** Active development; aircraft production planning ongoing (November 4, 2026)
+- **Aircraft Requirements:** Multiple S0 variants under development; quantity tracking and production planning to be coordinated with Dan Prendergast and Beck Cotter (November 4, 2026)
+- **Operational Security:** Intentional separation maintained from UK RAVEN discussions; presented to international partners as work for "another customer" (November 2, 2026)
+- **Quality Control:** S0 aircraft production for SOCOM program not currently tracked in QC system; Beck Cotter and Dan Prendergast to establish tracking process (November 4, 2026)
 
 ## Action Items & Commitments
 
-**Immediate/In Progress (November 3, 2026):**
-- Spencer Hoehl: Prepare to start up sim system in main conference room November 3 at 15:00 (3pm) for UK delegation visit; ensure online meeting capability is functional for remote participants (November 2-3, 2026)
-- Dan Prendergast: Manage online meeting setup in conference room during site visit tour to include remote participants (November 3, 2026)
-- Jack Elston: Lead comms & spectrum and Merlin integration discussions Wed 10-12 with UK Navy/LMUK (November 2, 2026)
-- Spencer Hoehl: Participate in flight safety and certifications discussion Wed 13:00 with UK delegation (November 2, 2026)
-- Dan Prendergast: Conduct alternate payloads discussion (one slide, intentionally brief marketing overview; avoid specific SOCOM variant connection) (November 2, 2026)
-- Beck Cotter: Continue coordinating breakfasts and lunches for UK visit week (November 2, 2026 - acknowledged with thanks)
-- Maciej: UK RAVEN presentation finalization (November 2-3, 2026); content integration and plot updates from Option Final Presentation completed; formatting issues resolved; ship ID imagery added to appropriate section
+**Immediate/In Progress (November 4, 2026):**
+- Beck Cotter & Dan Prendergast: Schedule meeting to discuss S0 aircraft production numbers across programs (SOCOM, RAVEN, Arctic Edge); establish QC tracking system for all S0 variants being built; clarify Phase II allocation vs. additional production units (November 4, 2026)
+  - Maciej input: Plan for extra ATR variant units for Twin Otter testing (April/May 2027) beyond standard Phase II allocation
+  - Jack Elston query: Confirm Phase II allocation quantity (Maciej believes ~4 aircraft; needs verification)
+  - Key issue: Current tracking does not reflect SOCOM program S0 variants; need comprehensive production plan
+- Maciej: Verify Phase II aircraft allocation quantity and provide details to Beck Cotter/Dan Prendergast meeting (November 4, 2026)
 
 **Earlier Commitments (Status Unknown/Ongoing):**
 - Sam Hild: Deployment tube checklist update and approval (June 5, 2026)
@@ -153,8 +161,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - Ultra Maritime (Paul): Phase II subcontractor (selected January 2026)
 
 **International Partners - UK RAVEN Program**
-- Royal Navy: Simon (contact; commercials approval received October 25, 2026; specified <1000ft altitude requirement for drops; participating in site visit week of November 2-6, 2026)
-- Lockheed Martin UK (LMUK): UK Navy program collaboration; on contract execution path; participating in site visit (week of November 2-6, 2026) with scheduled discussions on comms, spectrum, Merlin integration, and flight safety/certifications
+- Royal Navy: Simon (contact; commercials approval received October 25, 2026; specified <1000ft altitude requirement for drops; participated in site visit week of November 2-6, 2026)
+- Lockheed Martin UK (LMUK): UK Navy program collaboration; on contract execution path; participated in site visit (week of November 2-6, 2026) with discussions on comms, spectrum, Merlin integration, and flight safety/certifications
 
 **Research & Testing Partners**
 - Ocean Observatories Initiative (OOI): Potential cost-sharing for ocean validation testing
@@ -162,7 +170,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 **External Consultants & Operational Contacts**
 - Eric Correa: Technical consultant (on leave after June 4, 2026; availability for follow-up questions flagged)
-- Dan Prendergast: External contact serving as primary coordinator for LMUK engagement, site visit logistics, presentation finalization, and UK RAVEN project leadership; driving SOCOM confidentiality strategy and operational messaging (November 2, 2026)
+- Dan Prendergast: External contact serving as primary coordinator for LMUK engagement, site visit logistics, presentation finalization, and UK RAVEN project leadership; driving SOCOM confidentiality strategy and operational messaging; coordinating S0 production planning across programs (November 2-4, 2026)
 
 **Other References**
 - Joshua Fromm: Participated in recent PCLT testing; documented Navy procedures and technical specifications from testing
@@ -183,7 +191,7 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 7. **Budget & Resource Reallocation**: Active management of subcontractor funds (CRT, Cetacean) and reallocation to high-priority areas (TCE demo preparation, launcher development, travel)
 
-8. **International Collaboration & Contract Execution**: UK Navy program (RAVEN) contract negotiations with LMUK and Royal Navy (Simon); tracking of commercial approvals and contracting timelines; active transition to program execution phase; presentation materials coordination and finalization; site visit logistics and meeting configuration
+8. **International Collaboration & Contract Execution**: UK Navy program (RAVEN) contract negotiations with LMUK and Royal Navy (Simon); tracking of commercial approvals and contracting timelines; active transition to program execution phase; presentation materials coordination and finalization; site visit execution completed (November 2-6, 2026)
 
 9. **Aircraft Launch/Recovery Constraints**: Technical considerations for different launch platforms (UH-60 hand-throw, horizontal tube launch, altitude/velocity effects on aircraft aerodynamics and separation dynamics)
 
@@ -192,6 +200,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 11. **Operational Security & Program Confidentiality**: Managing disclosure of parallel payload development (SOCOM variants) in discussions with international partners; strategic messaging around "other customers" and intentional vagueness regarding specific variant development
 
 12. **Simulator System Readiness**: Preparation and demonstration of simulation capabilities to UK delegation for technical discussions and system demonstration; integration of online meeting capability for remote participation
+
+13. **Aircraft Production Planning & QC Tracking**: New recurring theme (November 4, 2026): Coordination of S0 aircraft production across multiple programs (Phase II Navy, SOCOM confidential, UK RAVEN, Arctic Edge Twin Otter), with focus on establishing unified QC tracking system and managing recovery/reuse strategy for magnetometer variants
 
 ## Important Resources
 
@@ -211,8 +221,8 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 
 - Site visit agenda: Finalized November 2, 2026; distributed to LMUK for input
   - Wednesday schedule confirmed:
-    - 10:00-12:00: Jack Elston - Comms & spectrum and Merlin integration
-    - 13:00: Spencer Hoehl - Flight safety and certifications
+    - 10:00-12:00: Jack Elston - Comms & spectrum and Merlin integration (completed)
+    - 13:00: Spencer Hoehl - Flight safety and certifications (completed)
 
 **Technical Specifications:**
 - Bartington sensor: UAS Mag PC298, 105 µT range
@@ -232,44 +242,71 @@ This channel is focused on Black Swift Technologies' Navy Small Business Innovat
 - S0 drop altitude assessment: Historical performance data reviewed; design modification feasibility assessed (sequence speed-up, ballast removal) (October 29, 2026)
 
 **Simulator & Demonstration:**
-- Main conference room simulator system: Ready for November 3, 15:00 startup for UK delegation demonstration (Spencer Hoehl to operate); online meeting capability configured for remote participant inclusion
+- Main conference room simulator system: Demonstrated to UK delegation November 3, 15:00 (Spencer Hoehl operated); online meeting capability confirmed functional for remote participant inclusion
 
 **Technical Best Practices:**
 - Google Slides import lesson: Use "use styles in this presentation" option when copying slides to maintain theme master slides and allow theme-wide formatting updates (lesson learned November 3, 2026 from formatting issues in RAVEN presentation conversion)
 
 ## Recent Activity
 
-**November 3, 2026 - Final Site Visit Preparation & Online Meeting Coordination:**
+**November 4, 2026 - S0 Aircraft Production Planning & QC Tracking Initiative:**
 
-Dan Prendergast coordinated final logistical details for the UK Navy and LMUK site visit (November 3, 2026):
-- Requested that online meeting be started in conference room during tour to ensure remote participants are included in discussions
-- Rationale: Facilitate full participation from remote attendees during on-site sessions
-- Jack Elston praised presentation work ("taco" emoji acknowledgment) for fixing formatting issues in the deck (November 3, 2026)
-- Maciej added ship ID imagery to the presentation for use in Jack Elston's comms & spectrum section (scheduled for Wed afternoon discussion); offered flexibility for Jack to remove imagery if preferred (November 3, 2026)
-- Status: All logistics and content refinements completed; presentation ready for delivery
+Maciej, Beck Cotter, Jack Elston, and Dan Prendergast began comprehensive aircraft production planning discussion (November 4, 2026):
 
-**November 3, 2026 - UK RAVEN Presentation Final Content Integration:**
+- **Maciej's Production Guidance (15:52):** Recommended planning for extra S0 aircraft units, specifically noting:
+  - Multiple S0 variants being built across programs (SOCOM and Royal Navy confirmed; Twin Otter Arctic Edge implied)
+  - Emphasis on building "a couple extra of at least the ATR variant" to support Twin Otter test drop in April/May 2027
+  - Strategic planning for recovery capability on magnetometer variants (desire to recover most aircraft after drops for reuse/continued testing)
+  - Rationale: Extra aircraft provide buffer for test operations, damage recovery, and continued system refinement
 
-Maciej completed final content enhancements to UK RAVEN kickoff presentation (November 3, 2026):
-- Added ship identification visual asset to comms & spectrum section (supporting Jack Elston's Wednesday 10-12 discussion)
-- Noted that Jack Elston has flexibility to remove imagery if it doesn't fit presentation flow
-- Presentation finalized and ready for site visit week (November 3-6, 2026)
-- Recognition from Jack Elston for addressing all formatting and structural issues
+- **Beck Cotter's QC Tracking Issue (15:56):** Identified critical process gap:
+  - S0 aircraft builds for SOCOM program are "not being tracked in the QC"
+  - Requested meeting with Dan Prendergast to establish what is known about current aircraft and implement proper tracking
+  - Implies current production underway without unified visibility into quantity, configuration, or status
 
-**November 2-3, 2026 - UK RAVEN Site Visit Logistics & Agenda Finalization (Continued):**
+- **Dan Prendergast's Meeting Response (17:36):** Agreed to meet November 5, 2026 to address S0 production coordination
 
-Final coordination for site visit preparation (November 2-3, 2026):
-- Simulator system startup confirmed for November 3, 15:00
-- Online meeting capability to be integrated during tour for remote participant inclusion
-- Presentation with ship ID imagery finalized
-- All technical discussion sessions scheduled and leads confirmed
-- Beck Cotter coordinating meal logistics for visit week
+- **Jack Elston's Phase II Quantity Question (19:17):** Inquired about Phase II aircraft allocation quantity
+  - Question directed to Maciej regarding contract-funded S0 aircraft
 
-**November 2, 2026 - SOCOM Program Confidentiality Strategy (Continued):**
+- **Maciej's Partial Answer (19:19):** 
+  - Believes Phase II contract funds ~4 aircraft
+  - Notes uncertainty ("I'll have to check")
+  - Expresses intent to recover most aircraft for magnetometer program reuse after delivery
+  - Implies Phase II allocation of ~4 aircraft must be supplemented with additional builds to meet all program demands (SOCOM, RAVEN 3 units, Arctic Edge variants)
 
-Dan Prendergast established operational security guidelines for site visit discussions with UK Navy and LMUK (November 2, 2026):
-- Decision to avoid connecting SOCOM program variants in discussions with UK partners
-- Alternative payload development to be presented generically as work for "another customer" with intentional vagueness
-- Rationale: UK Navy and Lockheed partners expected to understand intentional discretion and not press further
-- Alternate payloads section limited to one slide (marketing awareness only, no technical depth)
-- Channel-wide notification to all team members regarding messaging discipline (November 2, 2026)
+**Implications & Status:**
+- Production planning meeting scheduled November 5, 2026 (Dan Prendergast & Beck Cotter)
+- Need to reconcile:
+  - Phase II contract aircraft allocation (~4 confirmed tentatively)
+  - Royal Navy/RAVEN production requirement (minimum 3 aircraft per Maciej, November 4)
+  - SOCOM program aircraft (quantity unknown; not currently tracked in QC)
+  - Arctic Edge/Twin Otter variant requirements (ATR variant extra units specifically flagged)
+  - Recovery/reuse strategy for magnetometer variants across programs
+- Follow-up verification needed on exact Phase II quantity and configurations
+
+**November 3, 2026 - UK RAVEN Site Visit Execution:**
+
+Site visit with UK Navy and LMUK delegation proceeded as planned during week of November 2-6, 2026:
+- Spencer Hoehl successfully started simulator system in main conference room November 3 at 15:00
+- Online meeting capability integrated during tour for remote participant inclusion (confirmed November 3)
+- Jack Elston led scheduled discussions on comms & spectrum and Merlin integration (Wednesday 10:00-12:00)
+- Spencer Hoehl participated in flight safety and certifications discussion (Wednesday 13:00)
+- Presentation delivered with finalized ship ID imagery and formatting refinements
+- All technical discussion sessions completed with UK Navy and LMUK participants
+- Site visit appears to have concluded successfully by November 4, 2026
+
+**November 2-3, 2026 - UK RAVEN Presentation Finalization & Delivery:**
+
+Final presentation completion (November 2-3, 2026):
+- Maciej added ship identification visual asset to comms & spectrum section (supporting Jack Elston's Wednesday 10-12 discussion) (November 3, 2026)
+- Offered flexibility for Jack Elston to remove imagery if presentation flow required adjustment
+- Jack Elston acknowledged completion with praise emoji (November 3, 2026)
+- All formatting and structural issues resolved prior to site visit delivery
+- Presentation ready for UK Navy/LMUK technical discussions
+
+---
+
+## Summary of November 4, 2026 Key Discussion
+
+The November 4, 2026 channel activity represents a critical transition point in project execution. The successful completion of the UK RAVEN site visit (November 2-6, 2026) triggered initiation of comprehensive aircraft production planning across multiple concurrent programs. The discovery that SOCOM program aircraft production is not being tracked in quality control systems, combined with growing clarity on UK RAVEN (3 aircraft minimum) and Arctic Edge/Twin Otter (extra ATR variants) requirements, prompted Maciej to advocate for strategic over-production of key variants to support testing, recovery, and reuse objectives. The production planning meeting scheduled for November 5, 2026 between Dan Prendergast and Beck Cotter will establish unified visibility across programs and synchronize builds with contract allocations and operational requirements.

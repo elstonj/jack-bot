@@ -729,7 +729,7 @@
 
 ## Summary
 
-**Total External Contacts**: 9,150+ (comprised of 1,250+ named individuals and 7,900+ email addresses without assigned names)
+**Total External Contacts**: 9,700+ individuals and organizational mailboxes (comprised of 1,350+ named individuals and 8,350+ email addresses without assigned names)
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
@@ -739,50 +739,67 @@
 5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, SSA PCB, etc.)
 6. **Financial/Business Services** — 60+ contacts (Wells Fargo, US Bank, Paychex, etc.)
 7. **UAS/Drone Companies** — 40+ contacts (Juniper Unmanned, NV Drones, Vision Air, Alerion Tech, etc.)
-8. **Unnamed/Unknown Organization** — 7,900+ email addresses (external vendors, consultants, media, service providers)
+8. **Aerospace/Defense Contractors** — 20+ contacts (L3Harris, Northrop Grumman, Lockheed Martin, etc.)
+9. **Consulting & Engineering** — 30+ contacts (CH2M, Advanced Space, Creare, Aztec Consultants, etc.)
+10. **Unnamed/Unknown Organization** — 8,350+ email addresses
 
 **Notable Relationship Clusters**:
 
-- **Heavy NASA Concentration**: Strong presence across JPL, ARC, GSFC, and other centers. Indicates significant ongoing contracts for aerospace research.
+- **Heavy NASA Concentration**: Strong presence across JPL, ARC, GSFC, and other centers. Indicates significant ongoing contracts for aerospace research, particularly in planetary science, atmospheric monitoring, and advanced vehicle technology.
 
-- **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research.
+- **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research. Primary integration point for atmospheric data collection.
 
-- **Robust Academic Network**: 500+ university contacts across top-tier institutions plus emerging international partnerships. Reflects BST's role as a research partner and student recruitment pipeline. Includes significant expansion into European institutions (Germany, UK, Sweden, Iceland).
+- **Robust Academic Network**: 500+ university contacts across top-tier institutions plus significant international expansion. Reflects BST's role as research partner, technology developer, and talent pipeline. International presence now includes:
+  - **Germany**: LMU Munich, GEOMAR, HZG, DLR, Helmholtz Association, TU Munich
+  - **UK**: University of Surrey, Manchester Metropolitan, Queen Mary London, University of Southampton, De Montfort
+  - **Sweden**: Chalmers University
+  - **Iceland**: University of Iceland
+  - **Spain**: Multiple regional universities
+  - **Australia & New Zealand**: Multiple research institutions
+  - **Canada**: McGill, UBC
 
 - **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD, SBA) indicate active pursuit of federal small business innovation funding.
 
-- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy, with emphasis on local Denver/Boulder outlets and national networks.
+- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy, with emphasis on local Denver/Boulder outlets and national networks (CNN, ABC, NBC, FOX, NPR/PBS).
 
-- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization efforts.
+- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization efforts for advanced UAS operations.
 
-- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers, electronics distributors, and specialized component suppliers suggest active manufacturing/assembly operations.
+- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers, electronics distributors, and specialized component suppliers suggest active manufacturing/assembly operations and supply chain management.
 
-- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, Lockheed Martin, and other major defense contractors suggest partnerships or potential customer relationships.
+- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, Lockheed Martin, and other major defense contractors suggest partnerships or potential customer relationships in aerospace/defense sector.
 
 - **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations and financial management infrastructure.
 
-- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, XIMEA, and First RF indicate partnerships for specialized aerial sensing and RF capabilities.
+- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, XIMEA, and First RF indicate partnerships for specialized aerial sensing, RF, and hyperspectral imaging capabilities.
 
 - **Research Infrastructure**: Contacts with NCAR/UCAR, national labs (Lawrence Berkeley, Argonne, Oak Ridge), and state/local agencies indicate deep integration into research ecosystem.
 
-- **UAS/Drone Ecosystem**: New contact expansion includes commercial UAS operators (Juniper Unmanned, NV Drones, Vision Air Systems) and UAS technology companies (Alerion Tech), indicating broader market engagement.
+- **UAS/Drone Ecosystem**: Expansion includes commercial UAS operators (Juniper Unmanned, NV Drones, Vision Air Systems) and UAS technology companies (Alerion Tech), indicating broader market engagement and competitive/partnership analysis.
 
 - **Startup & Venture Networks**: Growing connections to accelerators (Gener8tor, Capital Factory, MassChallenge) and startup communities suggest business development and funding diversification efforts.
 
-- **International Collaboration**: Significant new contacts from universities and research institutions across Germany (LMU Munich, GEOMAR, HZG, DLR, Helmholtz), UK (multiple universities), Sweden (Chalmers), Iceland, Spain, Australia, New Zealand, and Canada.
+- **International Collaboration**: Significant expansion into research partnerships with European institutions suggests:
+  - Growing international research collaborations
+  - Potential European market expansion
+  - Access to specialized research capabilities
+  - Global academic talent recruitment
+
+- **Energy/Climate Focus**: Contacts with U.S. Department of Energy (DOE Science) and energy-related organizations indicate involvement in climate research and energy monitoring applications.
+
+- **Commercial Geospatial**: Contacts with Propeller Aero, DroneDeploy, and OmniEarth suggest engagement with commercial drone services and geospatial analytics sector.
 
 ---
 
 ## Data Quality Notes
 
-- **Unnamed Entries**: 7,900+ contacts lack names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
-- **Data Merge**: Latest data import consolidates 8,575+ new contacts with previous records, maintaining all historical information while adding significant new leads.
-- **New Contacts (Latest Import)**: International academic partnerships expanded significantly (Germany, UK, Sweden, Iceland, New Zealand, Australia, Canada); new UAS company partnerships added; additional government and venture capital contacts included.
+- **Unnamed Entries**: 8,350+ contacts lack assigned names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
+- **Data Consolidation**: Latest import adds 8,578+ new contacts to existing database, maintaining all historical information while incorporating significant new leads.
+- **New Contacts (Latest Import)**: International academic partnerships expanded significantly (Germany, UK, Sweden, Iceland, New Zealand, Australia, Canada); new UAS company partnerships added; additional government and venture capital contacts included; new aerospace/defense and energy sector contacts.
 - **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations and aliases.
-- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses; Stacie/Statutura variations).
-- **Automated/System Contacts**: Some entries represent system notifications (e.g., calendar automation, Slack notifications, billing systems, survey/form notifications).
-- **Academic Breadth**: Contact emails from universities globally: UK (Surrey, Manchester, Southampton, Queen Mary London, De Montfort), Germany (MLU Tübingen, HZG, DLR, GEOMAR, LMU Munich, Chalmers), Iceland, Spain, Australia, New Zealand, Canada (McGill, UBC), and numerous U.S. institutions.
-- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County).
-- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, and specialized services. Includes both established contractors and emerging companies.
-- **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency. Several email variations noted for same individuals (institutional vs. personal domains).
-- **New International Contacts**: Significant expansion into research partnerships with European institutions, suggesting growing international collaboration or research funding opportunities.
+- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses; variations in email formatting).
+- **Automated/System Contacts**: Some entries represent system notifications (e.g., calendar automation, Slack notifications, billing systems, survey/form notifications, subscription services).
+- **Academic Breadth**: Contact emails from universities globally across 20+ countries with emphasis on top research institutions.
+- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County, others).
+- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, specialized services, and emerging technology sectors.
+- **Email Accuracy**: All email addresses preserved exactly as provided in source data; some may require verification for currency or accuracy. Several email variations noted for same individuals (institutional vs. personal domains).
+- **Relationship Inference**: Relationship context inferred from email domain, title where available, and historical interaction patterns recorded in original knowledge base.

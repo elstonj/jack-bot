@@ -1,57 +1,62 @@
-_Computed from Toggl as of 2026-11-04: 2563.1 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 354.3 h, Sam Hild 267.7 h, Alex 126.3 h, Ethan Domagala 119.8 h, Kareem Ahmed 83.6 h, Ali Sulehria 80.4 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
+_Computed from Toggl as of 2026-11-05: 2573.3 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 354.3 h, Sam Hild 267.7 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 90.6 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
 
 # [300-3] 2026 IDIQ (Hurricane) — Time Tracking
 
 ## Overview
-- **Client:** NOAA ([300])
+- **Client:** [300] NOAA
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 2,563.1 hours (since 2020-01-01)
+- **Total Hours Tracked:** 2,573.3 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
 
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Nate | 513.5 | 20.0% |
-| Josh Fromm | 479.0 | 18.7% |
+| Nate | 513.5 | 19.9% |
+| Josh Fromm | 479.0 | 18.6% |
 | Jack Elston | 447.0 | 17.4% |
 | Stachura | 354.3 | 13.8% |
 | Sam Hild | 267.7 | 10.4% |
 | Alex | 126.3 | 4.9% |
 | Ethan Domagala | 119.8 | 4.7% |
-| Kareem Ahmed | 83.6 | 3.3% |
-| Ali Sulehria | 80.4 | 3.1% |
+| Ali Sulehria | 90.6 | 3.5% |
+| Kareem Ahmed | 83.6 | 3.2% |
 | Spencer Hoehl | 78.9 | 3.1% |
 | Dan | 12.8 | 0.5% |
 
-**Primary Contributors:** Nate, Josh Fromm, and Jack Elston collectively account for 56.1% of tracked hours.
+**Primary Contributors:** Nate, Josh Fromm, and Jack Elston collectively represent 56% of tracked time.
 
 ## Activity Timeline
 
-**Recent Work Pattern (54 most recent entries):**
+**Recent Work Patterns (57 most recent entries):**
 
-Recent activity shows active engagement across multiple contributors with emphasis on:
-- **S0 systems work:** GPS board testing/preparation, PSNS debugging, AP core 2 P400 radio debugging (Ali Sulehria primary)
-- **Mission support activities:** Multiple entries by Jack Elston
-- **UI design work:** Jack Elston (4.2h, 4.0h entries)
-- **Power systems debugging:** Jack Elston (power off issue investigation)
-- **Emerging Technology FY26 hotwash:** Jack Elston
-- **General development work:** Josh Fromm (frequent 8-hour entries), Sam Hild, Ethan Domagala
+The project shows active engagement across multiple workstreams:
 
-**Documentation Gap:** 37 of 54 recent entries (69%) lack descriptive text, limiting visibility into specific work streams.
+- **GPS & S0 Board Development:** Ali Sulehria leading S0 GPS board testing, QA preparation, and PSNS debugging/testing activities
+- **Radio Systems:** Ali Sulehria debugging AP core 2 p400 radio issues and setting up development environment
+- **Power Systems:** Jack Elston investigating power-off issues
+- **Mission Support:** Jack Elston contributing to mission support activities and NOAA/BST monthly coordination
+- **UI Design:** Jack Elston allocating time to UI design work
+- **General Development:** Josh Fromm and Sam Hild sustaining high activity levels with primarily undocumented work entries
+
+**Recent Contributors (last 57 entries):**
+- Ali Sulehria: 25 entries (focused, documented work)
+- Sam Hild: 11 entries (high volume, minimal documentation)
+- Jack Elston: 10 entries (mixed technical and coordination)
+- Josh Fromm: 6 entries (high volume hours)
+- Others: 5 entries combined
 
 ## Insights
 
-**Primary Work Areas (from described entries):**
-1. **Hardware Testing & Debugging** — S0 GPS boards, PSNS systems, P400 radio issues, power management
-2. **Mission Operations** — Mission support and NOAA coordination activities
-3. **UI Development** — Design work identified in recent entries
-4. **Onboarding & Setup** — Tools configuration, board preparation for QA
-5. **Program Management** — Hotwash meetings, monthly status reviews with NOAA/BST
+**Work Types:**
+- Hardware debugging and testing (GPS boards, radio systems, power management)
+- Board-level development and QA preparation
+- Mission support and client coordination
+- UI/UX design work
+- Systems integration and onboarding activities
 
 **Notable Patterns:**
-- Heavy concentration among top 3 contributors suggests core team model
-- Ali Sulehria shows sustained engagement in recent period with detailed technical work entries
-- Josh Fromm shows consistent 8-hour daily blocks with minimal description
-- Project is long-running (6+ years of tracked time) with active recent work
-- Non-billable status suggests internal R&D or government development work (consistent with NOAA partnership)
+- **Documentation Gap:** 64% of recent entries lack descriptions, limiting visibility into Josh Fromm and Sam Hild's activities
+- **Focused Work:** Ali Sulehria shows consistently documented, hardware-focused contributions
+- **Core Team:** Nate, Josh Fromm, and Jack Elston form the backbone of effort; wide distribution across 11 team members suggests active program with multiple specialties
+- **Recent Momentum:** Project remains actively staffed with recent daily work entries across multiple team members

@@ -1,64 +1,65 @@
-_Asana snapshot as of 2026-10-31: 3 open tasks, 9 completed (last 90 days)._
+_Asana snapshot as of 2026-11-05: 3 open tasks, 9 completed (last 90 days)._
 
 # [001-22] Fleet Maintenance
 
 ## Overview
 - **Owner:** Dan Prendergast
 - **Purpose:** Track required maintenance actions across Black Swift Technologies aircraft fleet
-- **Fleet Aircraft:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001 (plus additional aircraft in tasks: S10021, S10019, FW0001, ByLight Mustang, ERAU E2)
-- **Status:** Active — ongoing maintenance operations with regular task completion
-- **Timeline:** No project-level dates; tasks are ad-hoc maintenance (unscheduled repairs, modifications)
-- **Team Members:** Spencer Hoehl (primary), Jack Elston, Ethan, Josh Fromm, plus unassigned tasks
+- **Fleet Aircraft:** E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001 (plus operational aircraft S10021, S10019, S10020, FW0001, and ByLight Mustang)
+- **Status:** Active — ongoing maintenance operations
+- **Timeline:** No project-level due date; tasks tracked individually with no universal deadline
+- **Team Members:** Spencer Hoehl (primary technician), Jack Elston, Ethan, Josh Fromm, and others
 - **Risk Signals:** 
-  - 3 open tasks with **no due dates** — unclear priority/urgency
-  - 1 aircraft grounded (S10020) with open repair requiring QC
-  - 1 aircraft operational but with critical pitot tube issue (S10005)
+  - 1 aircraft currently grounded and awaiting repair (S10020 — down, no due date assigned)
+  - Most open tasks lack due dates, creating visibility gap for scheduling
+  - 3 open maintenance items across fleet requiring attention
 
 ## Key Deliverables & Milestones
-No formal milestones or dollar values tracked in this project. Maintenance is reactive/unscheduled rather than milestone-based.
+No milestone structure defined. Project tracks ongoing maintenance tasks rather than discrete deliverables. Maintenance is reactive/unscheduled, with no dollar amounts tracked in custom fields.
 
 ## Task Summary
 
-**Overall:** 3 open, 9 completed (75% completion rate)
+**Total Tasks:** 12 (3 open, 9 completed)
 
-**Open Tasks by Assignee:**
-- **Spencer Hoehl:** 2 tasks (S1-VTOL repair, S1-5 pitot tube)
-- **Unassigned:** 1 task (Trims for S10019)
+**Tasks by Assignee:**
+- **Spencer Hoehl:** 5 tasks (3 open, 2 completed) — primary maintenance technician
+- **Unassigned:** 2 tasks open (Trims on S10019, Update cruise speed on S10021)
+- **Jack Elston:** 1 completed (Fix AP on S10021)
+- **Josh Fromm:** 1 completed (ERAU E2 locking collar fix)
+- **Ethan:** 1 completed (Mechanical Trim resetting)
 
-**Completed Tasks by Assignee:**
-- **Spencer Hoehl:** 3 completions (FW0001 RSSI, S10021 pitot tube, S10021 prop replacement)
-- **Jack Elston:** 1 completion (Fix AP on S10021)
-- **Josh Fromm:** 1 completion (ERAU E2 locking collar)
-- **Ethan:** 1 completion (Mechanical trim resetting)
-- **Unassigned:** 2 completions (S10021 cruise speed, S10021 mag recalibration)
-
-**Custom Field Patterns:**
-- **Work Type:** All tracked as "Fix" (repairs, no new features logged)
-- **Aircraft Status:** Mix of grounded (S10020, S10021 historical) and operational
-- **QC Required:** Rarely flagged (only 1 of 3 open tasks requires QC)
-- **Hardware vs Software:** All maintenance is hardware-focused
+**Custom Fields in Use:**
+- Work Type (Fix, New Feature)
+- Aircraft Status (Up/Operational, Down/Grounded)
+- QC Required (Yes/No)
+- Maintenance Type (Unscheduled Repair, Modification)
+- Hardware or Software
+- Affected Aircraft (tail number)
+- Priority (Medium, AOG)
+- Parts Status (Available)
 
 ## Recent Activity
 
-**Last 30 days (October 2026):**
-- **2026-10-30:** S1-22 door hinge repaired (Spencer Hoehl)
-- **2026-10-27:** S10021 cruise speed update and mag recalibration completed
-- **2026-10-23:** S10021 autopilot fix completed (Jack Elston) — *note: this was overdue from 2026-05-18*
-- **2026-10-16:** FW0001 RSSI cabling check completed (Spencer Hoehl)
-- **2026-10-13:** S10021 pitot tube airspeed issue resolved (Spencer Hoehl, high priority AOG)
-- **2026-10-08:** ByLight Mustang mechanical trim reset completed
+**Recently Completed (October 2026):**
+- 2026-10-30: S1-22 Door hinge repair (Spencer Hoehl)
+- 2026-10-27: S10021 cruise speed update & mag recalibration
+- 2026-10-23: S10021 Autopilot fix (Jack Elston) — *note: due date was 2026-05-18, completed 5 months late*
+- 2026-10-16: FW0001 RSSI cabling issue (Spencer Hoehl)
+- 2026-10-13: S10021 Pitot tube airspeed issue (Spencer Hoehl, flagged AOG priority)
+- 2026-10-08: Mechanical trim reset on ByLight Mustang (Ethan)
+- 2026-10-06: ERAU E2 locking collar repair (Josh Fromm)
+- 2026-10-05: ERAU E2 prop replacement (Spencer Hoehl)
 
-**Currently Open & Stalled:**
-- **S10020 S1-VTOL Repair (Spencer Hoehl):** Aircraft grounded, requires QC. Scope: replace autopilot, PSNS, and MHP. No due date — status unclear.
-- **S10005 Pitot Tube Loose Tip (Spencer Hoehl):** Aircraft operational but sensor compromised. Simple fix (glue down). No due date.
-- **S10019 Trims (Unassigned, assigned to Ethan in notes):** Aircraft operational. Requires manual trim surface reset per center-of-gravity change. No due date.
+**Currently Open:**
+1. **S10020 S1-VTOL Repair** (Spencer Hoehl) — Aircraft Down/Grounded, QC Required. Task: Replace AP, PSNS, and MHP. No due date.
+2. **S10005 Pitot tube loose tip** (Spencer Hoehl) — Aircraft Up, QC Not Required. Minor fix (glue down tip). No due date.
+3. **S10019 Trims** (Unassigned, noted for Ethan) — Aircraft Up. Reset trim surfaces to current center points after manual adjustment. No due date.
 
 ## Notes & Context
 
-- **No due dates:** The project uses Asana's task system but does **not leverage due dates** for prioritization. Maintenance appears to be reactive and tracked by completion date only.
-- **Custom fields in use:** Work Type, Aircraft Status (Up/Down), QC Required, Maintenance Type (Scheduled/Unscheduled), Priority (Medium, AOG), Hardware/Software, Affected Aircraft — good metadata but inconsistently populated.
-- **Aircraft naming inconsistency:** Expected fleet list (E20006, E20009, E20014, S10022, S10005, S20009, S20004, S30001) but tasks reference S10020, S10021, S10019, FW0001, ByLight Mustang, ERAU E2. Likely external/partner aircraft or naming drift.
-- **Spencer Hoehl concentration:** 50% of recent completions and 67% of open technical tasks assigned to one technician — potential bottleneck.
-- **Stale completion date:** "Fix AP on S10021" was due 2026-05-18 but not completed until 2026-10-23 (5+ month slip, post-completion still logged).
-
-**Recommendation:** Assign due dates or priority flags to open tasks (especially S10020 QC repair and S10005 sensor fix) to clarify urgency. Clarify aircraft roster discrepancy.
+- **Project Structure:** Designed as List view organized by tail number (one section per aircraft) for easy fleet-wide scanning.
+- **Scheduling Gap:** No due dates assigned to any open tasks. This limits priority visibility and scheduling coordination, particularly for the grounded S10020.
+- **Technician Concentration:** Spencer Hoehl handles majority of work. Jack Elston and others less frequent contributors.
+- **QC Requirements:** Most tasks marked QC Not Required; S10020 is exception (QC Required: Yes) due to modification scope.
+- **Data Inconsistency:** Task "Repairing S10020" shows Affected Aircraft as S10021 in custom field, but task title and notes reference S10020 — likely data entry error.
+- **Historical Pattern:** Recent work heavily concentrated on S10021 troubleshooting (AP, pitot tube, cruise speed, calibration) and ERAU aircraft. Suggests operational fleet focus vs. stored/reserve aircraft (E20006, E20009, E20014, S20009, S20004, S30001) may have minimal recent activity.

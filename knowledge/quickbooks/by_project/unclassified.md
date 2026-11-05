@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $1.00
-- **Total Expenses (Payments):** $3,628,941.32
+- **Total Expenses (Payments):** $3,630,976.13
 - **Total Purchase Orders:** $0.00
-- **Net Position:** -$3,628,940.32
-- **Date Range:** 2024-04-05 to 2026-11-04 (31 months, 30 days)
+- **Net Position:** -$3,630,975.13
+- **Date Range:** 2024-04-05 to 2026-11-05 (31 months, 31 days)
 
 ---
 
@@ -28,15 +28,15 @@
 | Category | Total | # Transactions | Largest Items |
 |----------|-------|-----------------|----------------|
 | **Direct Labor** | ~$150,000–200,000 | ~17 | Isaac Anderson ($2,900), Mark Motter ($5,435), Prof. Fu-Kuo Change ($5,000), Temple Lee ($22,142), Nate Straus ($1,392.24) |
-| **Subcontractors** | ~$400,500–513,375 | ~30 | University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), NOAA ($375.00), IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
+| **Subcontractors** | ~$403,500–516,375 | ~31 | **Boostr Consulting ($1,943.10)**, University partners, research institutions, specialized vendors, Embry-Riddle Aeronautical University ($23,865.99 cumulative), NOAA UASD ($4,580.00), NOAA ($375.00), IRISS CU Boulder ($664.98), Alliance for Energy Innovation, LLC ($3,000.00) |
 | **Equipment** | ~$616,000–816,000 | ~22 | Navy SBIR/STTR programs, By Light Mustang ($350K), **EMASS Chip Integration ($16,000.00)**, equipment-focused projects |
 | **Materials & Supplies** | ~$300,000–400,000 | ~18 | Murphy's Pond CH4, CRATER, AREN, prototype build materials |
 | **Travel** | ~$50,000–75,000 | ~8 | Phase1 Aviation ($6,105), Krateo Sky ($10,860.48), travel/logistics for field projects |
 | **Shipping/Freight** | ~$30,000–50,000 | ~5 | Implied in project expenses (not separately itemized) |
-| **Indirect Costs / G&A** | ~$1,579.75 | 13 | QuickBooks Payments fees (cumulative: **$1,579.75**), Pinnacol Assurance insurance ($103.00) |
+| **Indirect Costs / G&A** | ~$1,671.26 | 14 | QuickBooks Payments fees (cumulative: **$1,671.26** incl. $91.71 DiscountRateFee 2026-11-04), Pinnacol Assurance insurance ($103.00) |
 | **Rent/Facilities** | ~$0 | 0 | None explicitly recorded |
 | **Other / Unallowable** | ~$0.01 | 1 | Jack Elston – v ($0.01) [UNALLOWABLE GA:UC-Other Costs] |
-| **TOTAL** | **$3,628,941.32** | **116** | — |
+| **TOTAL** | **$3,630,976.13** | **118** | — |
 
 ---
 
@@ -87,10 +87,11 @@
 | (unclassified) | Alliance for Energy Innovation, LLC | $3,000.00 | 1 | — |
 | (unclassified) | Pinnacol Assurance | $103.00 | 1 | — |
 | (unclassified) | Jack Elston – v | $0.01 | 1 | — |
-| (unclassified) | **Nate Straus** | **$1,392.24** | **2** | **NEW 2026-11-03 (2× $696.12)** |
-| (unclassified) | QuickBooks Payments Fees | $888.51 | 9 | — |
+| (unclassified) | Nate Straus | $1,392.24 | 2 | NEW 2026-11-03 (2× $696.12) |
+| (unclassified) | **Boostr Consulting** | **$1,943.10** | **1** | **NEW 2026-11-04** |
+| (unclassified) | QuickBooks Payments Fees | $980.22 | 10 | Incl. $91.71 DiscountRateFee (2026-11-04) |
 | [044-1] | EMASS Chip Integration | $16,000.00 | 2 | — |
-| **TOTAL** | | **$3,628,941.32** | **116** | — |
+| **TOTAL** | | **$3,630,976.13** | **118** | — |
 
 ---
 
@@ -101,8 +102,8 @@ No purchase orders on record.
 
 ## Monthly Spend by Category
 
-| Month | Amount | Key Projects | Notes |
-|-------|--------|--------------|-------|
+| Month | Amount | Key Projects/Vendors | Notes |
+|-------|--------|----------------------|-------|
 | 2024-04 | $9,809.61 | Rainmaker, Temple Lee, Methane Detection | — |
 | 2024-05 | $111,767.50 | AREN 2024 ($92,500), Rainmaker ($6,125.50), Temple Lee ($3,000) | — |
 | 2024-06 | $340,030.10 | SMM Phase II 22.4D ($200K), Volcano CCRPP ($126,117), INSTAAR Lab ($13,853) | — |
@@ -120,10 +121,18 @@ No purchase orders on record.
 | 2025-06 | $166,581.81 | S0 Hurricane ($140,400), Embry-Riddle ($21,182) | — |
 | 2025-07 | $70,000.00 | S0 Hurricane Phase II ($70,000) | — |
 | 2025-08 | $284,340.10 | S0 Hurricane ($105,610), Navy STTR ($70,000), SMM Phase II ($99,725), Isaac Anderson ($2,900), Phase1 Aviation ($6,105) | — |
-| 2026-11 | **$1,392.24** | **Nate Straus** | **NEW: 2 payments via QB Payments** |
+| **2026-11** | **$2,034.81** | **Boostr Consulting ($1,943.10), Nate Straus ($0.00 carry-over), QB Payments Fees ($91.71)** | **NEW: 2 transactions 2026-11-04 to 2026-11-05** |
 
 ---
 
 ## Notable Transactions
 
 - **2026-11-03:** Two duplicate/sequential payments to **Nate Straus** ($696.12 each, Payment IDs: 18a-b96 and 11a-71u) totaling $1,392.24. **⚠ FLAG:** Verify these are not duplicate charges; if unintentional, consider reversal. No project code assigned; categorized as unclassified labor/expense pending clarification.
+
+- **2026-11-04:** **Boostr Consulting** payment of **$1,943.10** (Payment ID 12a-04g via QB Payments). **⚠ FLAG:** No project code assigned; vendor appears for first time. Recommend verifying scope of work, deliverables, and appropriate project allocation. Categorized as Subcontractors pending clarification.
+
+- **2026-11-04:** QuickBooks Payments **DiscountRateFee** of **$91.71** (daily accrual). System-generated QB processing fee. Running QB Payments fee total now **$980.22** across 10 transactions.
+
+---
+
+**Updated:** 2026-11-05

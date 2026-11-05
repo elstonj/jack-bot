@@ -4,14 +4,14 @@
     "(001-11) IRAD Methane Emission Detection"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 778.95,
+    "expenses": 738.52,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX": 557.35,
+      "Indirect Cost:Internal Research and DevelopmentX": 516.92,
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 221.6
     }
   },
@@ -319,24 +319,6 @@
       "lines": [
         {
           "amount": 41.46,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "METHANE GRADE 2.5 CP RENTAL CHG SIZE 300 49 1D"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-04",
-      "doc_number": "96487226-1",
-      "total": 40.43,
-      "attributed": 40.43,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 40.43,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "METHANE GRADE 2.5 CP RENTAL CHG SIZE 300 49 1D"
         }

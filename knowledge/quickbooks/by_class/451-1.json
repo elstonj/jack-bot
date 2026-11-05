@@ -4,14 +4,14 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 10461.94,
+    "expenses": 12103.47,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 8785.65,
+      "DIRECT COSTS:DC-Direct Material Purchases": 10427.18,
       "Inventory Asset": 1292.5,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 85.95
@@ -35,6 +35,24 @@
           "amount": 2.5,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "PGA DISCLAIM FEE"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 208.0,
+      "attributed": 208.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "2 each of Green and Red Magnum drone strobe",
+      "lines": [
+        {
+          "amount": 208.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "2 each of Green and Red Magnum drone strobe"
         }
       ]
     },
@@ -98,6 +116,42 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 23.58,
+      "attributed": 23.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP HIAWATHA HOBBIES - 7333. wire",
+      "lines": [
+        {
+          "amount": 23.58,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SP HIAWATHA HOBBIES - 7333. wire"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-27",
+      "doc_number": "",
+      "total": 261.49,
+      "attributed": 261.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP WWW.WSDEANS.COM - 7333. Wire",
+      "lines": [
+        {
+          "amount": 261.49,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SP WWW.WSDEANS.COM - 7333. Wire"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-26",
       "doc_number": "23300",
       "total": 1870.0,
@@ -121,6 +175,52 @@
           "amount": 25.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 1007.92,
+      "attributed": 1007.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Drone motor, and control system",
+      "lines": [
+        {
+          "amount": 1007.92,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Drone motor, and control system"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 421.61,
+      "attributed": 140.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Was not able to find receipt for purchase.",
+      "lines": [
+        {
+          "amount": 140.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.54,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Was not able to find receipt for purchase."
+        },
+        {
+          "amount": 140.53,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Was not able to find receipt for purchase."
         }
       ]
     },

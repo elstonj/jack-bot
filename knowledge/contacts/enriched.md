@@ -2,392 +2,363 @@
 
 # Black Swift Technologies — External Contact Directory
 
-## NASA
+---
 
-### John Glass
-- **Title:** NASA Contact
-- **Email:** John.Glass-1@nasa.gov, John.Glass@nasa.gov
-- **BST Involvement:** Government program liaison
-- **Contact Context:** Primary point of contact for NASA partnership initiatives
+## NASA (Multiple Centers)
 
-### Thomas A. Weisz
-- **Title:** NASA Contact
-- **Email:** thomas.a.weisz@nasa.gov
-- **BST Involvement:** Government program coordination
+### Primary Government Sponsor
+NASA is Black Swift's largest government client, spanning multiple research centers with 80+ active contacts across JPL, ARC, GSFC, LARC, JSC, and other facilities. Primary focus: aerospace research, atmospheric monitoring, UAS integration, and wind tunnel testing.
 
-### Matthew M. Fladeland
-- **Title:** NASA Contact
-- **Email:** matthew.m.fladeland@nasa.gov
-- **BST Involvement:** Atmospheric research coordination
+**Key Contacts:**
 
-### Wesley R. Enos (ARC-QS)
-- **Title:** NASA Ames Research Center
-- **Email:** wesley.r.enos@nasa.gov
-- **BST Involvement:** **S2 Delivery coordination** (active as of Nov 2026)
-- **Recent Context:** Forwarded by Jack Elston for S2 system delivery planning
-- **Topics:** System deliverables, NASA compliance, test data submission
+- **Chris Meek** — NASA Langley
+  - Email: christopher.b.meek@nasa.gov
+  - Role: S0-AD procurement coordination; ongoing vendor relationship
+  - Projects: S0 UAS development, Earth Observatory updates
+  - Contact: Direct correspondence with Beck Cotter; active procurement lead
 
-### Chris Meek
-- **Title:** NASA Contact
-- **Email:** christopher.b.meek@nasa.gov
-- **BST Involvement:** S0-AD procurement (primary contact)
-- **Role:** Procurement officer for S0 Advanced Demonstrator platform
-- **Recent Activity:** Wind tunnel testing coordination at ERAU
+- **Wesley R. Enos** — NASA Ames Research Center (ARC-QS)
+  - Email: wesley.r.enos@nasa.gov
+  - Role: S2 NASA Phase 2 Project delivery coordinator
+  - Projects: S2 system delivery and integration
+  - Contact: Josh Fromm, Jack Elston coordination
 
-### Craig Hunter, Chester Dolph
-- **Title:** NASA Langley Research Center
-- **Email:** (available in system)
-- **BST Involvement:** Wind tunnel testing at ERAU coordination
-- **Role:** Technical leads for S0-AD validation work
+- **Kevin A. Ward** — NASA
+  - Email: kevin.a.ward@nasa.gov
+  - Role: Earth Observatory program contact
+  - Projects: Environmental monitoring, atmospheric science
+  - Contact: Updates routed through Beck Cotter
 
-### JPL Contacts
-- **Andrew E. Johnson** (Andrew.E.Johnson@jpl.nasa.gov) — JPL liaison
-- **Tara Estlin** (Tara.Estlin@jpl.nasa.gov) — JPL technical
-- **Marc Golombek** (mgolombek@jpl.nasa.gov) — Planetary science
-- **Marco B. Quadrelli** (marco.b.quadrelli@jpl.nasa.gov) — Technical systems
-- **BST Involvement:** Ongoing JPL research collaboration
+- **Sheridan Sparrow, Chester Dolph, Craig Hunter** — NASA Langley
+  - Projects: Wind tunnel testing coordination (ERAU facility)
+  - Contact: Joshua Wadler leading integration; Josh Fromm coordinating flights
+
+- **Joshua Wadler** — ERAU (NASA-affiliated wind tunnel testing)
+  - Email: WADLERJ@erau.edu
+  - Role: Wind tunnel project lead for S0 UAS testing at Embry-Riddle
+  - Projects: NASA-sponsored aerodynamic testing, S0 performance validation
+  - Contact: Multi-party coordination with Jack Elston, Cory Dixon, NOAA partners
 
 ---
 
 ## NOAA (National Oceanic and Atmospheric Administration)
 
-### Joe Cione
-- **Title:** NOAA Federal, AOML
-- **Email:** joe.cione@noaa.gov
-- **BST Involvement:** **PRIMARY NOAA LIAISON** — S0 UAS program lead (active as of Nov 2026)
-- **Role:** Government customer POC, technical director for S0 UAS UI refinement
-- **Recent Context:** 
-  - Leading S0 UAS user interface refinement (Nov 3, 2026 active coordination)
-  - Direct engagement with Jack Elston on multi-party NOAA team coordination
-  - Wind tunnel testing coordination at ERAU (joint NASA-NOAA effort)
-- **Topics to Contact:** S0 UAS UI development, operational readiness, NEOTAC meeting participation (Nov 5, 2026)
+### Primary Government Research Partner
+NOAA is a critical BST research partner with 130+ contacts across multiple divisions. Primary focus: atmospheric research, hurricane monitoring, weather data collection, boundary layer measurements.
 
-### Nikolai Pawlenko
-- **Title:** NOAA Federal
-- **Email:** nikolai.f.pawlenko@noaa.gov
-- **BST Involvement:** S0 UAS technical team
-- **Role:** Technical engineer in UI refinement workstream
-- **Recent Activity:** Active Nov 3, 2026 coordination threads
+**Key Contacts:**
 
-### Mark Rogers
-- **Title:** NOAA Federal
-- **Email:** mark.e.rogers@noaa.gov
-- **BST Involvement:** S0 UAS development team
-- **Role:** Technical contributor to UI refinement
+- **Joe Cione** — NOAA Federal / Atlantic Oceanographic and Meteorological Laboratory (AOML)
+  - Email: joe.cione@noaa.gov
+  - Role: Primary NOAA technical lead and customer POC; project initiator
+  - Projects: S0 UAS atmospheric missions, NEOTAC (New Environmental Observation Techniques for Atmospheric Cycles), wind tunnel testing coordination at ERAU, hurricane research
+  - Contact: Direct relationship with Josh Fromm, Jack Elston, Maciej; NOAA Federal representative on Aerostar partnership (operational kickoff Nov 6, 2026)
+  - Recent activity: Wind tunnel coordination (ERAM), S0 mission planning, NEOTAC meeting participation
 
-### Laura Rock
-- **Title:** NOAA Federal
-- **Email:** laura.rock@noaa.gov
-- **BST Involvement:** S0 UAS coordination
-- **Role:** Technical team member
+- **Nikolai Pawlenko** — NOAA
+  - Email: nikolai.f.pawlenko@noaa.gov
+  - Role: Technical collaborator on S0 UAS missions
+  - Projects: Atmospheric data collection, flight operations
+  - Contact: Josh Fromm, flight coordination
 
-### Danielle Varwig
-- **Title:** NOAA Federal
-- **Email:** danielle.varwig@noaa.gov
-- **BST Involvement:** S0 UAS UI development
+- **Mark Rogers** — NOAA
+  - Email: mark.e.rogers@noaa.gov
+  - Role: NOAA research partner
+  - Projects: S0 UAS operations
 
-### Annette Hollingshead
-- **Title:** NOAA Federal
-- **Email:** annette.hollingshead@noaa.gov
-- **BST Involvement:** S0 UAS team
+- **Laura Rock, Danielle Varwig, Jun Zhang, Annette Hollingshead, Nicholas Underwood** — NOAA team
+  - Role: Atmospheric science research team
+  - Projects: Data analysis, mission planning, field operations support
 
-### Nicholas Underwood
-- **Title:** NOAA Federal
-- **Email:** nicholas.underwood@noaa.gov
-- **BST Involvement:** S0 UAS development
-
-### Jun Zhang
-- **Title:** NOAA Federal
-- **Email:** jun.zhang@noaa.gov
-- **BST Involvement:** S0 UAS coordination
-
-**NOAA Program Context:** Active operational engagement on S0 UAS user interface refinement with full NOAA technical team (8+ coordinators) as of Nov 2026. Large multi-party coordination threads suggest approaching operational milestone or flight test event.
+- **Matthew Shupe** — NOAA
+  - Email: matthew.shupe@noaa.gov
+  - Role: Arctic/atmospheric research (likely Boundary Layer project coordinator)
+  - Projects: Navy STTR boundary layer measurements, CAT flights, LALA/MOKE hurricane missions
 
 ---
 
-## USSOCOM (U.S. Special Operations Command)
+## U.S. Navy / SOCOM (Department of Defense)
 
-### Michael C. Jagelewski (Civilian)
-- **Title:** USSOCOM Civilian Contact
-- **Email:** michael.c.jagelewski.civ@socom.mil
-- **BST Involvement:** **DoD Customer** — SOCOM-tasked UAS operations (active as of Nov 3, 2026)
-- **Role:** Government POC for data operations
-- **Recent Context:** Receiving operational launch data reports; discussing "(U) [Non-DoD Source] Data from Yesterday's Launch" (Nov 3, 2026)
-- **Topics:** Operational UAS performance data, launch validation, SOCOM mission support
+### Strategic Defense Partner
+Growing DoD engagement across multiple Navy commands for UAS capabilities, ISR platforms, and specialized missions.
 
-### Evan M. Wolff (Military)
-- **Title:** USSOCOM Military Contact
-- **Email:** evan.m.wolff.mil@socom.mil
-- **BST Involvement:** SOCOM operations coordination
-- **Role:** Military liaison for datalink and launch operations
-- **Recent Context:** Multi-message thread with Daniel Prendergast (Nov 3, 2026, 15:46–19:54 UTC)
-- **Topics:** Operational readiness, datalink status, mission planning
+**Key Contacts:**
+
+- **Michael C. Jagelewski** (CIV) — USSOCOM
+  - Email: michael.c.jagelewski.civ@socom.mil
+  - Role: Special Operations Command point of contact; receives classified launch data reports
+  - Projects: S0 UAS operations, USSOCOM platform integration (OPSEC: sensitive program coordination)
+  - Contact: Daniel Prendergast (classified data routing), Josh Fromm
+
+- **Evan M. Wolff** (MIL) — USSOCOM
+  - Email: evan.m.wolff.mil@socom.mil
+  - Role: USSOCOM operations coordinator
+  - Projects: Launch coordination, operational planning
+  - Contact: Daniel Prendergast
+
+- **Anthony D. Brescia** (CIV) — NAWCAD (Naval Air Warfare Center Aircraft Division)
+  - Email: anthony.d.brescia.civ@us.navy.mil
+  - Role: Navy UAS design and technical requirements lead
+  - Projects: Navy UAS design strategy discussion, long-range communications drones (AFSOC exploration)
+  - Contact: Jack Elston forwarded Navy technical coordination; Maciej engaged on design discussions
+  - Recent activity: Strategic UAS design partnership evaluation
+
+- **Simon Laurence** — UK Ministry of Defence
+  - Email: Simon.Laurence157@mod.gov.uk
+  - Role: UK Royal Navy / NATO technical coordinator
+  - Projects: RAVEN program (S0 UAS variant for UK Navy), sonobuoy integration, marine mammal monitoring
+  - Contact: Josh Fromm, Dan Prendergast; international DoD coordination
+  - Recent activity: UK RAVEN project kickoff (Nov 2026), Arctic Edge 2027 planning (April 19-May 7, Alaska)
 
 ---
 
-## U.S. Air Force
+## USAF / Air Force (Strategic Command)
 
-### Ed Kase (Consulting)
-- **Title:** External Consultant
-- **Email:** ed.kase@ekaseconsulting.com
-- **BST Involvement:** USAF RFI forwarding, business development
-- **Role:** USAF opportunity liaison
-- **Recent Activity:** Forwarding AFSOC fixed-wing platform communications RFP
-- **Topics:** Long-range communications drone opportunities, USAF platform requirements
+### Emerging Defense Sector
+Recent intelligence briefs indicate growing USAF engagement opportunities, particularly around advanced autonomy and communications platforms.
+
+**Key Contact:**
+
+- **Ed Kase** — E. Kase Consulting (USAF Intelligence Advisor)
+  - Email: ed.kase@ekaseconsulting.com
+  - Role: External strategic advisor; sourcing USAF opportunities and technical intelligence
+  - Projects: Long-Range Communications Drones (AFSOC platform deployment), UAS ISR, Marine Mammal Monitoring, hurricane monitoring data services
+  - Contact: Jack Elston, Maciej Stachura (direct intelligence briefings)
+  - Recent activity: Multiple opportunity briefs with IMPORTANT flags (Nov 1-2, 2026); active business development advisor
 
 ---
 
-## Embry-Riddle Aeronautical University (ERAU)
+## FAA (Federal Aviation Administration)
 
-### Joshua Wadler
-- **Title:** ERAU Faculty, Aeronautical Engineering
-- **Email:** WADLERJ@erau.edu
-- **BST Involvement:** **NASA S0-AD Wind Tunnel Lead** (active as of Nov 2026)
-- **Role:** Project lead for ERAU wind tunnel testing with NASA
-- **Recent Context:** 
-  - Active in S0 UAS UI refinement threads (responding Nov 3, 2026 20:46 UTC)
-  - Leading multi-party wind tunnel coordination (NOAA, NASA, ERAU, BST)
-  - NASA S0-AD validation testing
-- **Topics:** Wind tunnel test planning, NASA coordination, S0-AD performance validation
+### Regulatory & Operational Approval Authority
 
-### Ebenezer P. Gnanamanickam
-- **Title:** ERAU Faculty, Mechanical/Aerospace Engineering
-- **Email:** gnanamae@erau.edu
-- **BST Involvement:** Wind tunnel testing logistics and technical support
-- **Role:** Faculty collaborator on NASA wind tunnel effort
-- **Recent Activity:** Wind tunnel project follow-up coordination (Nov 2026)
+- **Micah D. Campbell** — FAA
+  - Email: Micah.D.Campbell@faa.gov
+  - Role: FAA regulatory contact
+  - Contact: Operational approvals, airspace coordination
 
-### Zheng Zhang
-- **Title:** ERAU Faculty
-- **Email:** ZHANGZ6@erau.edu
-- **BST Involvement:** Wind tunnel coordination
+- **333 Exemptions / UAS Help Desk** — FAA
+  - Email: 333exemptions@faa.gov; UAShelp@faa.gov
+  - Role: Special flight authorization and exemption processing
+  - Contact: Operational compliance, beyond-visual-line-of-sight (BVLOS) clearances
 
 ---
 
 ## University of Colorado Boulder
 
-### Brian M. Argrow
-- **Title:** Professor, Aerospace Engineering
-- **Email:** Brian.Argrow@colorado.edu
-- **BST Involvement:** **MHP Project Lead** — Multi-university atmospheric research initiative
-- **Role:** Academic PI for collaborative research program
-- **Recent Context:** Follow-up meeting coordination (Nov 2026); CU Boulder site visit planning
-- **Topics:** MHP project progression, research objectives, university collaboration
+### Primary Academic Partner & Employee Base
+CU Boulder is a major source of BST engineering talent and research collaborations, particularly in aerospace engineering, atmospheric science, and autonomous systems.
+
+**Key Contacts:**
+
+- **Lucas C Wheeler** — CU Boulder
+  - Email: luke.wheeler-1@colorado.edu
+  - Role: **ELEVATED** academic inquiry contact; active two-way dialogue progressing from inquiry to substantive discussion
+  - Projects: Black Swift inquiry, potential research collaboration
+  - Contact: Beck Cotter (4–5 message exchanges in recent data); appears to be student or postdoc
+  - Recent activity: Multi-round active engagement (Nov 2026)
+
+- **Brian M Argrow** — CU Boulder Aerospace Engineering
+  - Email: (from prior data)
+  - Role: Aerospace faculty partner
+  - Projects: Research collaborations, student recruitment
 
 ---
 
-## University of Nebraska-Lincoln
+## Embry-Riddle Aeronautical University (ERAU)
 
-### Adam Houston
-- **Title:** UNL Faculty
-- **Email:** ahouston2@unl.edu
-- **BST Involvement:** MHP project coordination
-- **Role:** University partner in multi-university atmospheric research
-- **Topics:** MHP field testing, data collection planning
+### Strategic Academic & Wind Tunnel Testing Partner
+
+- **Joshua Wadler** — ERAU Aerospace Engineering
+  - Email: WADLERJ@erau.edu
+  - Role: Wind tunnel project lead; NASA-sponsored aerodynamic testing coordinator
+  - Projects: S0 UAS wind tunnel testing, NASA research partnership, UI development coordination
+  - Contact: Jack Elston, Josh Fromm, Cory Dixon (multi-party coordination)
+  - Recent activity: Ongoing wind tunnel coordination, NEOTAC participation
+
+- **Zheng Zhang** — ERAU
+  - Email: ZHANGZ6@erau.edu
+  - Role: Research engineer, aerodynamics support
+  - Projects: Wind tunnel testing, performance analysis
+
+- **Ebenezer P. Gnanamanickam** — ERAU
+  - Email: gnanamae@erau.edu
+  - Role: Wind tunnel and aerodynamic testing
+  - Projects: S0 UAS performance validation
+
+---
+
+## Aerostar (Balloon & Platform Partnership)
+
+### Strategic NOAA-Aligned Weather Platform Partner
+
+- **Mark Ketcham, Dirk Ruge, Kenneth Klinner, Kyle Doverspike, Russ Vanderwerff** — Aerostar
+  - Role: Joint NOAA weather/balloon platform development; operational partnership kickoff Fri Nov 6, 2026
+  - Projects: Weather monitoring platforms, hurricane data collection, NOAA integration
+  - Contact: Dan Prendergast (operational lead), Joe Cione (NOAA Federal coordinator)
+  - Recent activity: Operational kickoff scheduled; coordinated with NOAA Federal for joint deployment
+
+---
+
+## Krateo Sky (Strategic Competitive / Partnership Assessment)
+
+### Technology & Competitive Intelligence
+
+- **Bob Smith, Brian Grubel, Ariel Avitan, Tony Kraayenbrink** — Krateo Sky
+  - Role: Potential competitor and strategic partnership assessment
+  - Projects: Competitive threat analysis, business development discussion
+  - Contact: Cory Dixon (cory@krateosky.com), Jack Elston, Daniel Prendergast, Maciej Stachura
+  - Recent activity: Flagged as "Potential Competitor" (Nov 2026); multi-recipient strategic discussion marked IMPORTANT
+  - Note: Appears Cory Dixon also works for Krateosky (cory@krateosky.com routing); dual role coordination
+
+---
+
+## Specialized Defense Contractors
+
+### Technology Integration Partners
+
+- **NTI Systems** — Ground Control Station Development
+  - Email: Alexy Mukadem (alexy@ntisystems.com)
+  - Role: GCS software partnership
+  - Projects: S0 UAS ground control system development
+
+- **Sightline Intelligence** — AI/Threat Integration
+  - Email: Nick Whaley (contact via Dan Prendergast)
+  - Role: AI/intelligence integration partnership (AITR — AI/Threat Recognition)
+  - Projects: Marked IMPORTANT; intelligence/ISR integration work
+
+- **Precision Terra** — NASA Phase 2 Partnership Introduction
+  - Email: Maithreyi Gopalakrishnan
+  - Role: NASA Phase 2 Project introduction and collaboration lead
+  - Projects: S2 system partnership (marked IMPORTANT Nov 2026)
+
+- **Shane Verploegh** — NASA Phase 2 Collaboration
+  - Role: NASA Phase 2 technical collaboration (introduced via Precision Terra)
+  - Projects: S2 system development (marked IMPORTANT)
+
+- **NextechSol** — Arctic Engineering Lead
+  - Email: Trenton McKibben
+  - Role: Arctic operations specialist
+  - Projects: Arctic Edge 2027, extreme environment UAS deployment
+
+- **Vantor** — Thermal/TEM System Integration
+  - Email: Lawrence Hudy (lawrence.hudy@vantor.com)
+  - Role: Technical partner on "Black Swift TEM" (thermal/technical system)
+  - Contact: Maciej Stachura (active technical discussion)
+  - Projects: Specialized thermal/environmental system integration
 
 ---
 
 ## Murray State University
 
-### Bassil El Masri
-- **Title:** Faculty, UAS/Atmospheric Research
-- **Email:** belmasri@murraystate.edu
-- **BST Involvement:** UAS Flux Topos field work coordinator
-- **Role:** Academic collaborator on atmospheric measurement projects
-- **Recent Context:** Active in field testing logistics (Murphy's Pond 6/28 mission planning)
-- **Topics:** UAS atmospheric sensing, field campaign planning, sensor integration
+### Academic Research Partner
+
+- **Bassil El Masri** — Murray State University
+  - Email: belmasri@murraystate.edu
+  - Role: UAS Flux Topos field testing collaborator
+  - Projects: Field testing at Murphy's Pond, environmental monitoring research
+  - Contact: Jack Elston, Cory Dixon (project coordination)
 
 ---
 
-## National Center for Atmospheric Research (NCAR/UCAR)
+## University of Houston
 
-### S. Metz
-- **Email:** smetz@ucar.edu
-- **BST Involvement:** NCAR technical contact
-- **Role:** Research collaboration liaison
+### Academic & Government Partnership
 
----
-
-## Government Agencies (Functional)
-
-### FAA (Federal Aviation Administration)
-
-**UAS Help Desk**
-- **Email:** UAShelp@faa.gov
-- **BST Involvement:** Regulatory approvals, waivers, operational clearances
-- **Topics:** Part 107 compliance, airspace access, Special Flight Authorization
-
-**333 Exemptions**
-- **Email:** 333exemptions@faa.gov
-- **BST Involvement:** Legacy experimental flight waivers
-- **Topics:** Historic exemption renewals, compliance updates
-
-**UAS Integration Pilot Program**
-- **Email:** 9-AWA-UASIPP@faa.gov
-- **BST Involvement:** Research collaboration programs
-- **Topics:** Beyond visual line of sight (BVLOS) testing, integration initiatives
-
-**UAS Organization & Operations Support**
-- **Email:** 9-AJV-115-UASOrganization@faa.gov, 9-ato-wsa-osg-uas@faa.gov
-- **BST Involvement:** Strategic UAS program engagement
-
-### USDA (United States Department of Agriculture)
-
-### Jason L. Wilking
-- **Title:** APHIS Contact
-- **Email:** Jason.l.wilking@aphis.usda.gov
-- **BST Involvement:** Agricultural/environmental applications
-
-### Michael Cosh
-- **Title:** ARS (Agricultural Research Service)
-- **Email:** Michael.Cosh@ars.usda.gov
-- **BST Involvement:** Agricultural sensor research collaboration
-
-### NSF (National Science Foundation)
-
-### J Figuero
-- **Title:** NSF Program Officer
-- **Email:** jfiguero@nsf.gov
-- **BST Involvement:** Research funding liaison
+- **Kelly Y Huang** — University of Houston
+  - Email: yhuang74@central.uh.edu
+  - Role: Research coordinator; follow-up on S2 quote request
+  - Projects: S2 system inquiry, research collaboration
+  - Contact: Beck Cotter (NEW contact, Nov 2026)
 
 ---
 
-## Defense Contractors & Aerospace Partners
+## University of Wyoming
 
-### NTI Systems
-
-### Alexy Mukadem
-- **Title:** NTI Systems Contact
-- **Email:** (contact via system)
-- **BST Involvement:** **Ground Control Station (GCS) Development Partnership** (active as of Nov 3, 2026)
-- **Role:** GCS software development partner
-- **Recent Context:** Marked IMPORTANT; direct collaboration on BST GCS systems
-- **Topics:** GCS architecture, command/control software, integration testing
+### Atmospheric Research Partner
+- **W. Woldt** — University of Wyoming
+  - Role: Atmospheric measurement research
+  - Projects: Boundary layer, environmental monitoring
 
 ---
 
-### NextechSol
+## NCAR/UCAR (National Center for Atmospheric Research)
 
-### Trenton McKibben
-- **Title:** NextechSol Coordinator
-- **Email:** (nextechsol.com domain)
-- **BST Involvement:** **Arctic Engineering Effort Lead** (active as of Nov 2026)
-- **Role:** Multi-national project coordinator (Pegasus Aero, UAX Solutions)
-- **Recent Context:** Marked IMPORTANT; coordinating Arctic infrastructure capability development
-- **Topics:** Arctic operations planning, multi-partner coordination, engineering requirements
+### Atmospheric Science Research Partnership
 
----
+- **S. Metz** — NCAR
+  - Email: smetz@ucar.edu
+  - Role: Research coordination
 
-### Pegasus Aero (Canada)
-
-### M. Roberts
-- **Title:** Pegasus Aero Contact
-- **Email:** mmcroberts@pegasusaero.ca
-- **BST Involvement:** Arctic Engineering Effort partner
-- **Role:** Canadian aerospace contractor
-- **Topics:** Arctic platform development, international coordination
+- **Gregory Alley** — NCAR
+  - Email: alegregory@ucar.edu
+  - Role: Technical support or project coordination
 
 ---
 
-### UAX Solutions (UK)
+## NSF (National Science Foundation)
 
-### Tim Johnston, George Booth
-- **Title:** UAX Solutions Contacts
-- **Email:** (UAX Solutions domain)
-- **BST Involvement:** Arctic Engineering Effort partner
-- **Role:** UK aerospace contractor
-- **Topics:** International Arctic operations, UK coordination
+### Government Funding Agency
 
----
-
-### Krateo Sky
-
-### Cory Dixon
-- **Title:** Krateo Sky Manager
-- **Email:** cory@krateosky.com
-- **BST Involvement:** IT infrastructure partner, weekly IT integration syncs
-- **Role:** Infrastructure and integration management
-- **Recent Context:** Marked IMPORTANT; direct Slack coordination with Ben Busby (Nov 3, 2026)
-- **Topics:** IT integration roadmap, infrastructure management, technical synergy
-
-### Sona Raziabeegum
-- **Title:** Krateo Sky Consultant
-- **Email:** sona@krateosky.com
-- **BST Involvement:** Business operations liaison
-- **Role:** Operations and compliance coordinator
-- **Recent Context:** Heavy coordination on Accordion engagement (Phase 2, invoicing, D&O insurance)
-- **Topics:** Accordion project management, corporate compliance, contract administration
-
-### Don Spinozzi
-- **Title:** Krateo Sky Contact
-- **Email:** d.spinozzi@krateosky.com
-- **BST Involvement:** Munro Work project coordination
-- **Topics:** Munro Work initiative, vendor coordination
+- **J Figuero** — NSF Program Officer
+  - Email: jfiguero@nsf.gov
+  - Role: Research funding coordination, grant administration
+  - Contact: Proposal and grant tracking
 
 ---
 
-## Hardware & Components Suppliers
+## USDA (United States Department of Agriculture)
 
-### FastTurn PCBs
+### Agricultural & Government Partner
 
-### John Luo
-- **Title:** FastTurn PCBs Supplier
-- **Email:** john.luo@fastturnpcbs.com
-- **BST Involvement:** **CRITICAL PCB SUPPLIER** (active Oct 31 – Nov 2, 2026)
-- **Role:** Custom PCB fabrication for PSNS/Core firmware hardware
-- **Recent Context:** 
-  - Direct Jack Elston coordination on payment reconciliation ($1,670.55 USD)
-  - Marked IMPORTANT; Nov 2, 2026 (06:48, 08:51 UTC)
-  - Supplier escalated to direct Jack correspondence (not filtered through integrators)
-- **Topics:** PCB lead times, firmware/hardware coordination, expedited manufacturing, payment/logistics
+- **Jason L. Wilking** — APHIS (Animal and Plant Health Inspection Service)
+  - Email: Jason.l.wilking@aphis.usda.gov
+  - Role: Agricultural application coordination
+  - Projects: Potential agricultural UAS applications
 
----
+- **Michael Cosh** — ARS (Agricultural Research Service)
+  - Email: Michael.Cosh@ars.usda.gov
+  - Role: Agricultural research partner
 
-### Blaze Sovereign (formerly Blaze Hybrid)
-
-### Pete Dice
-- **Title:** Blaze Sovereign Contact
-- **Email:** pete@blaizesovereign.com (also pete.dice@blaizehybrid.com)
-- **BST Involvement:** **Onboard AI/Inference Systems** consultation (active Nov 3, 2026)
-- **Role:** AI/ML inference and autonomy systems
-- **Recent Context:** Direct query from Alex Lomis on "S0 onboard AI"; marked IMPORTANT
-- **Topics:** Edge AI integration, autonomous decision-making systems, inference optimization
+- **Ann Heckart** — USDA
+  - Email: Ann.Heckart@usda.gov
+  - Role: Government liaison
 
 ---
 
-### Ezurio (formerly Laird Connectivity)
+## Commercial / Hardware Suppliers
 
-### Skofiar Kamberi
-- **Title:** Ezurio Component Specialist
-- **Email:** Skofiar.Kamberi@ezurio.com
-- **BST Involvement:** Gateworks GW17054 component procurement
-- **Role:** Hardware component distributor
-- **Recent Context:** Component order escalation (Nov 2026)
-- **Topics:** Component sourcing, Gateworks platform support
+### Critical Supply Chain Partners
 
----
+- **FastTurn PCBs** — Custom PCB Manufacturing (CRITICAL SUPPLIER)
+  - Contact: John Luo (john.luo@fastturnpcbs.com)
+  - Role: Direct firmware/hardware PCB fabrication lead
+  - Projects: PSNS/Core firmware platform custom PCBs; expedited manufacturing
+  - Contact: Jack Elston (direct supplier coordination); recent payment coordination ($1,670.55 USD order, Nov 1-2, 2026)
+  - Status: **Critical path supplier** for firmware hardware iterations
 
-### VertIQ
+- **Waveform Engineering** — S3 Pivot Hub Board Hardware
+  - Contact: Matt Crabtree (matt.crabtree@waveformengineering.com)
+  - Role: S3 Pivot Hub board supplier; active hardware integration
+  - Projects: S3 platform hardware components
+  - Contact: Sam Hild, Jack Elston (marked IMPORTANT; overnight engagement Nov 4-5)
 
-### Chance Rogers
-- **Title:** VertIQ Motor Supplier
-- **Email:** chance.rogers@vertiq.co
-- **BST Involvement:** Motor/propulsion component supplier
-- **Role:** Custom motor manufacturer
-- **Recent Context:** "Additional 23-14 motors" order (Nov 2026)
-- **Topics:** Motor specifications, delivery scheduling, custom configurations
+- **Microfirm** — Firmware Development Contractor
+  - Contact: Frank Strazzabosco (microfirm@earthlink.net)
+  - Role: PSNS/Core firmware specialist; rapid iteration cycle lead
+  - Projects: PSNS v1.6, Core 29b, PSNS v0.37, Core2 v.04 firmware finalization
+  - Status: Escalated to critical firmware supplier (6 IMPORTANT emails Oct 31–Nov 2)
 
----
+- **QuSpin** — Magnetometer Sensor Integration
+  - Contact: Jeff (QuSpin representative)
+  - Role: Magnetometer hardware supplier for Navy SBIR project
+  - Projects: Navy magnetometer integration, MAD (Magnetic Anomaly Detection) systems
 
-### Waveform Engineering
+- **Ultra Maritime** — Maritime Systems Partner
+  - Contact: Paul (Ultra Maritime)
+  - Role: Maritime application coordination
+  - Projects: Navy STTR boundary layer / maritime operations
 
-### Matt Crabtree
-- **Title:** Waveform Engineering Contact
-- **Email:** matt.crabtree@waveformengineering.com
-- **BST Involvement:** **S3 Pivot Hub Boards** development (active Nov 3–4, 2026)
-- **Role:** Hardware/board-level integration partner
-- **Recent Context:** 
-  - Marked IMPORTANT; 5 emails Nov 3–4
-  - Rapid back-and-forth exchanges (23:01, 01:41, 02:36 UTC)
-  - Cross-timezone urgency pattern
-- **Topics:** S
+- **Lockheed Martin UK (LMUK)** — UK Defense Industrial Partner
+  - Role: UK RAVEN program site visit coordination; international defense partnership
+  - Projects: UK Navy

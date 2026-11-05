@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Fully executed contract H9223626P9056 received 2026-09-28. Period of Performance (PoP) under discussion with contracting officer Terry Brandon; initial 60-day placeholder was pro forma. Beck clarified schedule alignment is needed. Workshop preparation underway per recent Slack (2026-10-09, 2026-10-20); contractor support scheduled for build workbench setup. Live contract engagement with realistic delivery schedule to be finalized.",
+  "notes": "Fully executed contract H9223626P9056 received 2026-09-28. Period of Performance (PoP) discussion resolved: 60-day initial placeholder was pro forma; Beck clarified schedule alignment requirements. Workshop preparation and contractor support for build workbench setup underway per Slack (2026-10-20). Live contract with realistic delivery schedule in execution phase.",
   "missing_fields": [
     "receive_by",
     "ship_to",

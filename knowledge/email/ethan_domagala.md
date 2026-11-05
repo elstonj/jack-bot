@@ -1,8 +1,7 @@
 # Ethan Domagala — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Wed, 4 Nov 2026 02:32:39 +0000: Re: Can I tour your manufacturing facility? (from: Nikolasmassimo Mehan <Nikolasmassimo.Mehan@colorado.edu>)
-- Tue, 03 Nov 2026 18:37:22 +0000: RE: ADONIS at scale (from: Pete Dice <pete.dice@blaizesovereign.com>)
-- Tue, 03 Nov 2026 18:23:25 +0000 (UTC): ⚡ Meet the iFlight Borg Mini F7 Stack (from: GetFPV <chloe@getfpv.com>)
-- Tue, 03 Nov 2026 17:30:46 +0000: Set your preferences once. Claude saves them for next time. (from: Claude Team <no-reply@email.claude.com>)
+- Thu, 5 Nov 2026 01:02:14 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
+- Wed, 04 Nov 2026 21:38:39 +0000: Invitation: Robert Powell - Team Chat @ Fri Nov 13, 2026 10:30am - 11:30am (MST) (Ethan Domagala) (from: Cory Dixon <cory.dixon@blackswifttech.com>)
+- Wed, 4 Nov 2026 15:00:39 -0500: New! Our Fastest CNC Turnaround Yet (from: Xometry <hello@mkt1.xometry.com>)

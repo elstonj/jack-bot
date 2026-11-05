@@ -27,33 +27,52 @@
   "budget": {
     "approved": 483000.0,
     "approved_source": "asana_custom_field",
-    "line_items": [],
+    "line_items": [
+      {
+        "category": "Materials",
+        "amount": 216000.0,
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each (SOW 1, Task 2.1)",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 30000.0,
+        "description": "Non-recurring engineering, R&D, integration, and attenuation effort for satellite/land C2 and video (SOW 1, Task 2.2)",
+        "source_doc": null
+      },
+      {
+        "category": "Materials",
+        "amount": 36000.0,
+        "description": "Two (2) baseline S0 UAS platforms at $18,000 each (SOW 2, Task 2.1)",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 320390.0,
+        "amount": 321665.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-04"
+        "last_updated": "2026-11-05"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-04"
+        "last_updated": "2026-11-05"
       },
       "other_qbo": {
-        "amount": 410776.9,
+        "amount": 418504.47,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-04"
+        "last_updated": "2026-11-05"
       },
-      "total": 733335.42,
+      "total": 742337.99,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -250335.42,
+    "remaining": -259337.99,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-04T10:50:39Z"
+    "last_reconciled": "2026-11-05T10:48:05Z"
   },
   "milestones": [
     {
@@ -134,6 +153,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-04T10:50:39Z",
+  "last_full_rebuild": "2026-11-05T10:48:05Z",
   "last_incremental_update": null
 }

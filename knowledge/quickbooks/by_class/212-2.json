@@ -5,16 +5,16 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2024-11-04",
-    "end": "2026-11-04"
+    "start": "2024-11-05",
+    "end": "2026-11-05"
   },
   "totals": {
     "revenue": 91319.0,
-    "expenses": 19349.63,
+    "expenses": 19393.11,
     "by_category": {
       "DIRECT COSTS:DC-Direct Material Purchases": 10965.09,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 6670.16,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 1714.38
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 1757.86
     }
   },
   "invoices": [
@@ -149,6 +149,24 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 43.48,
+      "attributed": 43.48,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 43.48,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Carrier adjustment"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-09-30",
@@ -378,7 +396,7 @@
         {
           "amount": 929.43,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
+          "description": "Extra parts for NASA to support the S2 drone they already have"
         }
       ]
     },
