@@ -1,127 +1,120 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 59 (updated from 38)
-- **Date range:** 1–4 Nov 2026
-- **Approximate volume:** ~10 emails/day during this period
+- **Total messages scanned:** 82 (updated from 59)
+- **Date range:** 1–6 Nov 2026
+- **Approximate volume:** ~10–12 emails/day during this period
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — frequent technical/academic collaborator; co-recipient on university inquiries, MHP project, wind tunnel coordination, NOAA follow-up, ISR/marine mammal monitoring topics
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — administrative/HR/operations; employee benefits coordination with Deel; appears to handle benefits escalation with multiple vendor touchpoints
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — proposals/business development; USAF opportunity forwarding
-- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW:** Technical lead on USAF communications drones opportunity; receives direct Ed Kase consulting briefs on Long-Range Communications Drones and AFSOC platform deployment
-- **Purchasing** (purchasing@blackswifttech.com) — operational/facilities coordination (food orders, logistics)
-- **sales@blackswifttech.com** — general sales distribution list (inquiry triage)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **ELEVATED:** Now visible as operational/contract/insurance coordinator in addition to HR/benefits role; forwarding government contract notifications and insurance vendor coordination
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **REACTIVATED:** Primary point of contact for multi-national government/military partnerships (RAVEN program, Arctic Edge, NAWCAD collaboration); recipient on slides distribution to Navy/MOD/LMCo contacts
+- **Jack Elston** (elstonj@blackswifttech.com) — Continues as technical collaborator (previous visibility confirmed)
+- **Maciej Stachura** (stachura@blackswifttech.com) — Continues as USAF technical lead (no new messages in this batch)
 
 ### Top External Contacts
-- **Lucas C Wheeler** (luke.wheeler-1@colorado.edu) — **ELEVATED:** Multiple exchanges on "Black Swift Inquiry"; active two-way dialogue (4–5 messages in new data alone); appears to be progressing from inquiry to substantive discussion
-- **Ed Kase** (ed.kase@ekaseconsulting.com) — **ELEVATED:** Direct intelligence briefing to Jack Elston and Maciej Stachura on USAF opportunities; two distinct topics in single day (UAS ISR, marine mammal monitoring, AFSOC comms drones); acting as opportunity source and technical advisor
-- **Raquel Roberts** (raquel.roberts@deel.com) — Primary benefits vendor contact; multi-round coordination with Meredith and secondary contact Braden Williams
-- **Kelly Y Huang** (yhuang74@central.uh.edu) — **NEW:** Follow-up on S2 quote request; University of Houston contact (previously only Julia Wu from uh.edu noted for PaymentWorks)
-- **Chris Meek** (christopher.b.meek@nasa.gov) — S0-AD procurement (ongoing from previous data)
-- **Joe Cione** (joe.cione@noaa.gov) — wind tunnel testing coordination at ERAU
-- **Kevin A Ward** (kevin.a.ward@nasa.gov) — Earth Observatory updates
-- **Academic/Research (Existing):**
-  - Nicolas Zoghb (nzoghb@bridgeport.edu)
-  - Zheng Zhang (ERAU)
-  - Joshua Wadler (ERAU)
-  - Bassil El Masri (belmasri@murraystate.edu)
-  - Brian M Argrow (colorado.edu)
-  - Adam Houston (ahouston2@unl.edu)
-  - Ebenezer Gnanamanickam (ERAU)
+- **Angel R. Ruiz-Reyes (NAWCAD, USN)** (angel.r.ruiz-reyes.civ@us.navy.mil) — **PRIMARY GOVERNMENT CONTACT:** Multi-message exchange on Arctic Edge 28 submission; co-recipient on RAVEN briefing; direct back-and-forth dialogue (3 messages in new data)
+- **Anthony D. Brescia (NAWCAD, USN)** (anthony.d.brescia.civ@us.navy.mil) — Secondary Navy technical contact; appears on Arctic Edge and RAVEN distribution
+- **Neil Morphett (Lockheed Martin)** (neil.morphett@global.lmco.com) — **NEW/ELEVATED:** International multi-party coordinator on RAVEN program; recipient of Black Swift site visit slides; LMCo integration partner
+- **UK Ministry of Defence (MOD)** — **NEW:** Simon Laurence (Simon.Laurence157@mod.gov.uk), Scott Hammond (scott.hammond107@mod.gov.uk) — co-recipients on RAVEN materials; indicates UK government participation
+- **Debbie Rampy (Bolder Insurance)** (debbie@bolderins.com) — **NEW:** Insurance vendor; Meredith coordinating certificate updates with her
+- **Morris A. DeSimone (CNR, USN)** (morris.a.desimone.ctr@us.navy.mil) — **NEW:** Broader Navy distribution on JIFX 27-2 experiment proposal opportunity; recipient of multi-agency Navy briefing
+- **Sam @ Lion Power Engineering** (sam@lionpowerengineering.com) — **NEW:** External vendor inquiry about battery system for Black Swift UAS; routed to info@blackswifttech.com
+- **Mimi Stevinson (Rock Creek Curling)** (mimi@rockcreekcurling.com) — **NEW:** Local business/community contact; Beck coordinating newsletter submission/content
+- **Kajol Kataria (Deel)** (kajol.kataria@deel.com) — Benefits vendor coordination (entity verification issue)
 
 ### External Organizations (Expanded)
-- **VoyageDenver Magazine** (eric@voyagedenver.com) — **NEW:** Interview inquiry to sales@bst.aero; media/PR outreach
-- **Deel** — Continues as primary benefits vendor (Raquel Roberts + Braden Williams escalation path)
-- **Food/Logistics:** Voodoo Doughnut, Moe's Broadway Bagel, Squareup (order confirmations)
+- **NAWCAD (Naval Air Warfare Center Aircraft Division)** — Primary Navy technical evaluation hub; Angel Ruiz-Reyes and Anthony Brescia as lead contacts
+- **US Navy (broader)** — Multi-center participation: NAVAIRWARCENACDIV (Ben Payne), NIWC Atlantic (Alicia Owsiak), NAS Pax River (Wilson Sim), NSWC Crane (Bo Miller), USMC MCSC (Matthew Bolen, David Keeler)
+- **UK MOD (Ministry of Defence)** — International partnership; Simon Laurence, Scott Hammond
+- **Lockheed Martin** — Neil Morphett as integration lead on RAVEN program
+- **Other suppliers:** Bartington (tom.simcox@bartington.com), Lion Power Engineering (battery systems)
+- **Local/Community:** Rock Creek Curling (Mimi & Sean Stevinson)
+- **Bolder Insurance** — Updated primary insurance vendor (replacing earlier Deel/benefits focus)
 
 ## Topic Patterns
 
-### Active Projects/Programs
-- **S0-AD** — NASA product (ongoing)
-- **S2** — Quote request follow-up with University of Houston (Kelly Huang)
-- **MHP** — Internal/academic project with multi-university collaboration (Colorado, Nebraska, Murray State)
-- **Arctic Engineering Effort** — Multi-national partnership (Pegasus Aero CA, UAX Solutions UK)
-- **Wind Tunnel Testing at ERAU** — NASA coordination with Embry-Riddle for S0-AD validation
+### Active Programs/Contracts (New/Expanded)
+- **Arctic Edge 28** — Military exercise/experimentation program; NORAD-USNC Arctic Edge Experimentation WG submission; Black Swift S0 VTOL UAS and S3 capabilities being demonstrated; direct engagement with NAWCAD (Ruiz-Reyes, Brescia)
+- **RAVEN** — **NEW/MAJOR:** Multi-national program involving USN, UK MOD, Lockheed Martin, Bartington Instruments; Black Swift site visit conducted; Daniel Prendergast distributing orientation slides to Navy, UK, and industry partners
+- **JIFX 27-2** — **NEW:** JIFX (Joint Interagency Field Experimentation) 27-2 experiment proposal opportunity; deadline Nov 13; broader Navy distribution across multiple warfare centers and commands (CNR, NAVAIRWARCENACDIV, NIWC Atlantic, NAS Pax, NSWC, USMC)
 
-### Government/Funding Opportunities (Expanded)
-- **USAF AFSOC:** Long-range communications drones for fixed-wing platform deployment (Maciej Stachura now primary technical contact; Ed Kase as intelligence source)
-- **UAS ISR** — Inland/coastal surveillance capability (new topic via Ed Kase to Jack Elston)
-- **Marine Mammal Monitoring** — Environmental/oceanographic UAS application (new topic via Ed Kase to Jack Elston)
-- **DHS FY27 SBIR** — Pre-solicitation topics (from prior data)
+### Product/Capability Mentions
+- **S0 VTOL UAS** — Weather data collection capability (Arctic Edge 28 submission)
+- **S3** — Arctic Edge 2028 summation/planning
+- **Battery system** — External vendor inquiry from Lion Power Engineering
 
 ### Operational/Administrative
-- Employee benefits/onboarding (Deel escalations; multi-vendor coordination)
-- Office logistics (food orders → purchasing coordination; Beck acting as intake)
-- Media/PR outreach (VoyageDenver interview request)
+- **Insurance certificates** — Updated requirement; Bolder Insurance coordination
+- **Contract notifications** — PO/Change Order alerts from Meredith
+- **Community outreach** — Newsletter submission to Rock Creek Curling (local Boulder business)
+- **Deel entity verification** — Ongoing benefits/vendor compliance issue
 
 ## Communication Patterns
 
 ### Time Distribution
-- **Wed 4 Nov remains peak day:** 20 of 21 new messages dated 4 Nov; activity concentrated 08:34–23:40 UTC
-- **Early morning UTC spikes:** 05:21, 08:34–09:01 UTC messages (international/academic time zone coordination)
-- **Automated/transactional:** Food order confirmations, Deel benefits responses clustered around mid-day (12:17–17:34)
+- **Peak activity:** Thursday, 5 Nov 2026 — 19 of 23 new messages
+- **Distributed across day:** 10:19 UTC through 22:26 UTC (morning through late evening, consistent with multi-timezone government coordination)
+- **Early morning UTC spike:** 13:51–18:00 UTC messages (government correspondence during US business hours)
+- **Automated:** Asana notifications, benefits vendor updates, NYSTEC event announcement
 
 ### Message Flow
-- **Lucas Wheeler escalation:** Multiple back-and-forth exchanges (4 messages in new data) suggest Black Swift Inquiry is moving from initial contact toward substantive proposal/partnership discussion
-- **Ed Kase intelligence pipeline:** Three distinct opportunity briefs to Jack Elston and Maciej Stachura in single day — suggests Ed Kase functioning as primary USAF/DoD opportunity scout; Maciej now primary technical recipient for AFSOC opportunity (previously Daniel Prendergast was proposals lead)
-- **Meredith as benefits escalation hub:** Multiple Raquel Roberts → Meredith → Raquel Roberts exchanges; Braden Williams brought in for secondary support (suggests complex benefits case or policy question)
-- **Beck as logistics coordinator:** Forwards food orders to purchasing@; personal Gmail (bcotter456@gmail.com) receives order confirmations, then forwards to work email/purchasing
-- **Media inquiry to sales distribution:** VoyageDenver reaches sales@bst.aero (not Beck directly), but suggests growing media interest
+- **Arctic Edge 28 rapid exchange:** Multiple back-and-forth with Angel Ruiz-Reyes (3 messages in ~5 hours) indicating time-sensitive submission and Navy feedback cycle
+- **RAVEN briefing distribution:** Daniel Prendergast distributing site visit slides to multi-party recipient list (Navy, UK MOD, LMCo, suppliers) — indicates completed facility tour and information-sharing phase
+- **Government opportunity broadcast:** JIFX 27-2 announcement to broad Navy audience (14+ recipients) suggests internal Navy distribution of BST opportunity; DeSimone coordinating across multiple warfare centers
+- **Vendor escalation patterns:** Insurance and Deel coordination flowing through Meredith (back-channel to Bolder Insurance; Kajol Kataria escalation)
+- **External inquiry intake:** Lion Power Engineering battery question routed to generic info@blackswifttech.com (standard sales intake)
+- **Local business coordination:** Beck personally managing community engagement (Rock Creek Curling newsletter)
 
-### Mailing Lists/Groups
-- `proposals@blackswifttech.com` — (from prior data)
-- `sales@blackswifttech.com` — general sales/inquiry response; also receives media outreach
-- `sales@bst.aero` — alternate sales contact (domain: bst.aero vs blackswifttech.com)
-- `purchasing@blackswifttech.com` — logistics/operations intake
+### Mailing Lists/Distribution
+- `NORAD-USNC-Arctic Edge Experimentation WG@groups.mail.mil` — Beck is member/contributor; sending Black Swift capability summaries directly to working group
+- `info@blackswifttech.com` — General inquiry intake (battery systems vendor)
+- Multi-party government briefing lists (RAVEN site visit attendees, JIFX 27-2 Navy distribution)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Co-recipient on all technical inquiries; primary receiver of Ed Kase opportunity briefs; technical evaluator for UAS/ISR/marine mammal topics
-2. **Maciej Stachura** — **ELEVATED:** Primary technical contact for USAF AFSOC communications drones opportunity; receiving direct consulting briefs from Ed Kase (suggests Maciej is lead engineer or platform architect)
-3. **Meredith Needham** — Operations/administrative backbone; escalation point for complex HR/benefits questions
-4. **Daniel Prendergast** — Proposals routing (from prior data; slightly reduced visibility in new data)
+1. **Daniel Prendergast** — **REACTIVATED AS PRIMARY:** Lead on multi-national government/military partnerships (RAVEN, Arctic Edge); distributing site visit materials to integrated government/industry consortia
+2. **Meredith Needham** — Operations and contract coordination backbone; insurance, benefits vendor escalation, government PO management
+3. **Jack Elston** — Technical collaborator (continued from previous data)
 
-### Important External Relationships
-- **Lucas C Wheeler (University of Colorado)** — **ELEVATED TO PRIMARY:** Active inquiry-to-discussion progression; multiple exchanges suggest imminent partnership or proposal
-- **Ed Kase (Ekase Consulting)** — **ELEVATED TO PRIMARY:** Acting as dedicated USAF/DoD opportunity source; briefing multiple internal technical leads (Jack, Maciej) on distinct opportunities in single day
-- **Academic Network:**
-  - Bridgeport University (Nicolas Zoghb)
-  - University of Colorado (Lucas Wheeler — **active**, Brian Argrow)
-  - ERAU (Zheng Zhang, Joshua Wadler, Ebenezer Gnanamanickam)
-  - University of Nebraska (Adam Houston)
-  - Murray State (Bassil El Masri)
-  - University of Houston (Kelly Huang — **new, S2 quote follow-up**)
+### Critical External Relationships (Government/Military)
+1. **Angel R. Ruiz-Reyes (NAWCAD, USN)** — **PRIMARY TECHNICAL CONTACT:** Direct dialogue on Arctic Edge 28 submission and evaluation; RAVEN program participant; appears to be Navy lead evaluator for Black Swift capabilities
+2. **Anthony D. Brescia (NAWCAD, USN)** — Secondary Navy technical evaluator; Arctic Edge and RAVEN participant
+3. **Neil Morphett (Lockheed Martin)** — **PRIMARY INDUSTRY PARTNER:** RAVEN program integration lead; coordinating multi-national (US/UK) and multi-vendor consortium
+4. **UK MOD (Simon Laurence, Scott Hammond)** — Government-to-government partnership; RAVEN participant
+5. **Morris DeSimone (CNR, USN)** — Broader Navy opportunity coordinator; JIFX 27-2 liaison across warfare centers
 
-- **Government/Research:**
-  - NOAA (Joe Cione)
-  - NASA Earth Observatory (Kevin Ward)
-
-- **Consulting/Partnership:**
-  - Ed Kase (Ekase Consulting) — USAF opportunity sourcing; UAS/ISR/marine mammal intelligence
-  - Trenton McKibben (Nextech Solutions) — Arctic Engineering lead (from prior data)
+### Partnership/Vendor Relationships
+- **Lockheed Martin (RAVEN program)** — Integration partner on major multi-national initiative
+- **Bartington Instruments** — Sensor/instrument supplier (RAVEN-related)
+- **Lion Power Engineering** — Battery systems vendor (active inquiry)
+- **Bolder Insurance** — Primary insurance provider
+- **Deel** — Benefits vendor (entity verification escalation)
 
 ## Notable Observations
 
-- **Maciej Stachura emergence:** New data reveals Maciej as primary technical contact for USAF AFSOC communications drones opportunity, replacing Daniel Prendergast's proposal role. Suggests Maciej is lead engineer or systems architect for fixed-wing platform communications capability; warrants closer attention to his technical domain.
+- **RAVEN program emergence as major opportunity:** New data reveals Black Swift is integrated into RAVEN, a multi-national (US/UK), multi-agency program involving Lockheed Martin, USN (NAWCAD, broader Navy), and UK MOD. Site visit completed; orientation slides distributed to ~10 parties. This is BST's largest visible military/government partnership and represents significant market validation. Daniel Prendergast is primary BST point of contact for this program.
 
-- **Ed Kase as dedicated opportunity pipeline:** Single-day brief on three distinct opportunities (AFSOC comms drones, UAS ISR, marine mammal monitoring) suggests Ed Kase has formalized role as BST's primary DoD/government opportunity scout. All briefs routed to Jack Elston and/or Maciej; no routing to proposals@ or Daniel.
+- **Arctic Edge 28 as near-term demonstration:** Beck is directly submitting Black Swift S0 VTOL UAS and S3 capabilities to NORAD-USNC Arctic Edge Experimentation WG. Multiple exchanges with Angel Ruiz-Reyes suggest Navy evaluation cycle underway. This is a concrete near-term demonstration opportunity (exercise), not just a proposal.
 
-- **Lucas Wheeler inquiry acceleration:** Multiple back-and-forth exchanges in new data (4 messages) indicate Colorado University partnership is moving beyond initial inquiry. Subject remains "Black Swift Inquiry" but frequency and tone suggest substantive discussion is underway — likely progressing toward formal proposal or partnership agreement.
+- **Beck as government program coordinator:** Unlike previous visibility as BD intake/logistics coordinator, Beck is now directly engaging with Navy technical leads (Ruiz-Reyes, Brescia) on submission timelines and capability summaries. This suggests Beck has taken operational responsibility for government/military contract execution, not just inquiry triage.
 
-- **Kelly Huang S2 quote follow-up:** University of Houston contact (previously only known for PaymentWorks vendor registration via Julia Wu) now actively following up on S2 quote. Suggests S2 is a product with active sales pipeline, not a one-time inquiry.
+- **Daniel Prendergast's role restoration:** Appears to have lead responsibility for RAVEN and Arctic Edge programs, contradicting earlier observation that Maciej Stachura was replacing him in government pursuit. Maciej may be focused on USAF/AFSOC opportunities (from prior data), while Daniel leads Navy/multi-national programs. Suggests role specialization by customer/domain rather than Maciej supplanting Daniel.
 
-- **Beck's operational role widening:** Now directly managing food/logistics orders through personal email (bcotter456@gmail.com) → forwarding to purchasing@. This administrative load, combined with inquiry triage and business development intake, suggests Beck may be handling operations/office management in addition to BD coordination.
+- **JIFX 27-2 as broadcast opportunity:** DeSimone's multi-recipient Navy announcement (14+ warfare centers, commands, and USMC) suggests either (a) Navy is broadly encouraging proposals across centers, or (b) BST has pre-existing relationships with multiple Navy stakeholders and is being surfaced as viable vendor. Deadline Nov 13 (1 week from latest message).
 
-- **Benefits vendor escalation complexity:** Raquel Roberts + Braden Williams coordination with Meredith suggests either (a) employee has complex benefits question requiring secondary vendor support, or (b) Deel and HR Group Inc. (Chad Atwood's firm, from prior data) are in dual-vendor coordination mode. Warrants monitoring for potential HR system transition.
+- **Insurance vendor shift:** Bolder Insurance now visible as active coordinator; unclear if this represents transition from prior vendor or parallel coordination. Meredith forwarding PO/contract notifications suggests insurance may be tied to government contract performance requirements (standard for federal contracts).
 
-- **Media outreach emerging:** VoyageDenver magazine interview inquiry to sales@bst.aero indicates growing press interest in BST; no indication of who accepted or declined, but suggests BST is gaining visibility in local/trade press.
+- **Deel entity verification issue:** Kajol Kataria escalation suggests BST's Deel entity profile has failed verification. May be compliance issue, missing documentation, or ownership change. Warrants monitoring for payroll/benefits disruption if not resolved.
 
-- **USAF opportunity hierarchy shift:** New data shows USAF AFSOC comms drones now routed directly to Maciej Stachura (technical) rather than Daniel Prendergast (proposals). This may indicate (a) Ed Kase is providing pre-proposal technical scouting to technical leads first, or (b) Maciej has taken ownership of USAF pursuit strategy. First visible instance of Dan being bypassed in USAF pipeline.
+- **Local community engagement:** Beck's direct outreach to Rock Creek Curling (Stevinson family) for newsletter submission suggests BST is engaged in local Boulder/Colorado community visibility/PR. May be part of broader local marketing or community partnership strategy (curling club sponsorship?).
+
+- **Multi-timezone coordination:** Messages timestamped in both UTC and US Mountain Time (-0700 to -0500); indicates Beck is coordinating across UK/US/international stakeholders in real-time (typical of international military programs like RAVEN).
+
+- **Vendor inquiry to generic inbox:** Lion Power Engineering battery system question routed to info@blackswifttech.com (not directly to Beck), suggesting BST has centralized sales inquiry intake, with Meredith or Beck triaging for appropriate technical response. Battery inquiry may indicate S0/S3 power systems are constraint or upgrade path.
 
 ---
 
-**UPDATED SUMMARY:** Beck remains primary business development intake coordinator and inquiry triage lead. New data reveals two key escalations: (1) **Maciej Stachura as emerging USAF/defense technical lead**, replacing Daniel Prendergast's proposal-focused role, and (2) **Ed Kase as formalized opportunity intelligence pipeline**, briefing technical leads directly on multiple UAS/ISR/marine mammal opportunities. Lucas Wheeler (Colorado) relationship moving toward substantive discussion. Beck's operational responsibilities expanding into logistics/office coordination.
+**CUMULATIVE SUMMARY:** Beck is now visible as both **business development intake coordinator AND government program execution lead** (Arctic Edge 28, RAVEN). RAVEN represents BST's largest multi-national military partnership to date (US Navy, Lockheed Martin, UK MOD). Daniel Prendergast leads RAVEN/Arctic Edge at proposal/integration level; Beck executes submission, capability summaries, and Navy liaison. Maciej Stachura's role appears specialized to USAF/AFSOC (prior data), not replacing Daniel. Government contracts and military partnerships are now primary focus; JIFX 27-2 presents near-term opportunity across broader Navy stakeholder base (deadline Nov 13).

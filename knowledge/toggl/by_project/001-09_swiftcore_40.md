@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-04: 531.5 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Stachura 13.2 h, Dan 12.2 h, Jack Elston 2.2 h._
+_Computed from Toggl as of 2026-11-06: 533.1 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Stachura 14.8 h, Dan 12.2 h, Jack Elston 2.2 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,28 +6,28 @@ _Computed from Toggl as of 2026-11-04: 531.5 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 531.5 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 533.1 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 475.0 | 89.4% |
+| Ben Busby | 475.0 | 89.1% |
 | Ethan Domagala | 28.8 | 5.4% |
-| Stachura | 13.2 | 2.5% |
+| Stachura | 14.8 | 2.8% |
 | Dan | 12.2 | 2.3% |
 | Jack Elston | 2.2 | 0.4% |
 
-**Primary Contributor:** Ben Busby (475 hours)
+**Primary Contributor:** Ben Busby (89% of tracked time)
 
 ## Activity Timeline
-Recent work entries show minimal documentation:
-- **Stachura:** 5 entries totaling 12.7 hours (3.9h, 0.6h, 5.2h, 1.5h, 1.5h) — no descriptions provided
-- **Jack Elston:** 1 entry of 2.2 hours — no description provided
+Recent work entries show activity concentrated among two team members:
+- **Stachura:** 7 recent entries totaling ~14.3 hours (3.9h, 0.6h, 5.2h, 1.5h, 1.5h, 1.6h)
+- **Jack Elston:** 1 recent entry of 2.2 hours
 
-All six most recent entries lack descriptive notes.
+All recent entries lack descriptions, making specific work details unavailable.
 
 ## Insights
-- **Heavily concentrated effort:** Ben Busby accounts for nearly 90% of all tracked time on this IRAD project
-- **Documentation gap:** Recent time entries lack descriptions, making it difficult to assess work type or progress
-- **Sparse secondary involvement:** Only 5 team members have contributed; 4 have minimal hours (<30h each)
-- **Non-billable:** This is an internal R&D project with no direct client billing
+- **Work Distribution:** Heavily skewed toward Ben Busby, suggesting he is the primary maintainer/developer on this internal R&D project
+- **Recent Activity Pattern:** Recent work (last 7 entries) shows renewed activity by Stachura and Jack Elston; entries lack documentation
+- **IRAD Classification:** As an internal R&D (IRAD) project with no billable hours, this appears to be foundational/infrastructure development work
+- **Documentation Gap:** Recent entries have no descriptions; recommend adding entry notes for future tracking clarity

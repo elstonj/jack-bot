@@ -1,145 +1,157 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 54 emails (28 initial + 26 new)
-- **Date range:** Nov 1–5, 2026
-- **Volume:** ~9–11 emails/day (sustained high activity across all days; Nov 4–5 particularly active)
+- **Total messages scanned:** 69 emails (54 initial + 15 new)
+- **Date range:** Nov 1–6, 2026
+- **Volume:** ~9–11 emails/day sustained; Nov 5–6 continued high activity
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — 8 emails (NASA wind tunnel, UAS Flux Topos, CU Boulder, Krateosky coordination, competitor analysis, Navy UAS design)
-2. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — 4 emails (S0 deployment, assembly guides, hardware damage)
-3. **Max Pheysey** (Max.Pheysey@lumicity.io) — 4 emails (Robert Powell EE recruitment coordination)
-4. **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 emails (benefits, reimbursement setup, employee relations)
-5. **Dan Mackin** (dan@rule4.com) — 2 emails (CMMC kickoff, infrastructure management)
-6. **Ariel Avitan** (Ariel@krateosky.com) — 2 emails (competitor analysis, strategic coordination)
-7. **Mark Andres** (mandres@ptc.com) — 2 emails (KS Arena Implementation)
-8. **Robert Powell** (robert.powell.j@gmail.com) — 2 emails (reimbursement setup)
-9. **Bassil El Masri** (belmasri@murraystate.edu) — 1 email (UAS Flux Topos)
-10. **Gnanamanickam, Ebenezer P.** (gnanamae@erau.edu) — 1 email (NASA wind tunnel)
-11. **Joe Cione - NOAA** (joe.cione@noaa.gov) — 1 email (NASA wind tunnel)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 8 emails
+2. **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — 4 emails
+3. **Max Pheysey** (Max.Pheysey@lumicity.io) — 4 emails
+4. **Meredith Needham** (meredith.needham@blackswifttech.com) — 3 emails
+5. **Megan Lewis** (lewismegan303@gmail.com) — 3 emails (TPM candidate, active exchange)
+6. **Automated services** — Asana, Glassdoor, Onshape, Taskrabbit, Google Workspace (8+ accounts)
+7. **Dan Mackin** (dan@rule4.com) — 2 emails
+8. **Ariel Avitan** (Ariel@krateosky.com) — 2 emails
+9. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 2 emails (RAVEN program coordination)
+10. **Neil Morphett** (neil.morphett@global.lmco.com) — 1 email (RAVEN program, Lockheed Martin)
 
 ### Top Recipients (Cory as sender)
-1. **Max Pheysey** (Max.Pheysey@lumicity.io) — 4 emails (EE recruitment)
-2. **Dan Mackin** (dan@rule4.com) — 2 emails (CMMC, infrastructure)
-3. **Megan Lewis** (lewismegan303@gmail.com) — 2 emails (TPM position availability)
-4. **Tony Kraayenbrink** (tony@ifcstudios.com) — 1 email (careers page details)
-5. **Ben Busby** (ben.busby@blackswifttech.com) — 1 email (CMMC kickoff forward)
-6. **Ariel Avitan** (Ariel@krateosky.com) — 1 email (competitor discussion)
+1. **Megan Lewis** (lewismegan303@gmail.com) — 2 emails (TPM interview coordination, now active exchange vs. prior one-way outreach)
+2. **Max Pheysey** (Max.Pheysey@lumicity.io) — 4 emails (EE recruitment)
+3. **Dan Mackin** (dan@rule4.com) — 2 emails
+4. **Ariel Avitan** (Ariel@krateosky.com) — 1 email
 
 ### Internal vs External
-- **Internal BST:** ~16 emails (Jack Elston, Brandon Messersmith, Meredith Needham, Joshua Waldman, Beck Cotter, info@blackswifttech.com, Ben Busby, Maciej Stachura [Google Workspace], Robert Edson [Google Workspace])
-- **Krateosky (via cory@krateosky.com):** ~7 emails (Bob Smith, Brian Grubel, Ariel Avitan, Tony Kraayenbrink, Max Pheysey)
-- **External partners/vendors:** ~22 emails (ERAU, Murray State, CU Boulder, NOAA, Rule 4, Lumicity, Krateosky, PTC, Asana, NOA Wireless, IFC Studios)
+- **Internal BST:** ~18 emails (Jack Elston, Brandon Messersmith, Meredith Needham, Daniel Prendergast, Ben Busby, info@blackswifttech.com, Maciej Stachura, Robert Edson)
+- **Krateosky:** ~7 emails
+- **External partners/vendors/government:** ~26 emails (RAVEN program contacts, US Navy NAWCAD, UK Ministry of Defence, Lockheed Martin, Lumicity, Lion Power Engineering, Glassdoor, Onshape, Asana, Taskrabbit)
 
 ## Topic Patterns
 
-### Government & Research Collaboration (Expanded)
-- **NASA wind tunnel testing at ERAU** — active multi-party coordination (NOAA, ERAU engineering, BST, Joshua Waldman)
-- **UAS Flux Topos @ Murphy's Pond** — field testing project (Jack Elston, Murray State, ERAU collaboration)
-- **Navy UAS Design** — new government contact (Anthony D. Brescia, CIV USN NAWCAD) suggests DoD/Navy partnership development
-- **Hurricane research/atmospheric data** — NOAA Federal involvement
+### Government & Multi-National Defense Programs (Significantly Expanded)
+- **RAVEN Program** — **major new multi-national program** involving:
+  - **US Navy NAWCAD** (Ruiz-Reyes, Brescia, Pyrah — same contacts from prior Navy UAS thread)
+  - **UK Ministry of Defence** (Simon Laurence, Scott Hammond — official UK DoD contacts)
+  - **Lockheed Martin Global** (Neil Morphett, Shah, Brackenridge — prime contractor involvement)
+  - **Bartington** (Tom Simcox — likely magnetometer/sensor specialist)
+  - **Black Swift site visit** by multi-national delegation (Nov 5 event)
+  - **Orientation & technical briefing slides** shared with full delegation
+  - **Recipient chain suggests BST as technology/platform provider to Lockheed Martin for UK/US Navy program**
 
-### Technical & Hardware
-- **S0 assembly guides (Vol 1 & Vol 2)** — manufacturing documentation review/approval (Brandon Messersmith)
-- **Glidersonde v1** — new product/project shared via Google Slides (Maciej Stachura) — likely atmospheric measurement sonde
-- **Shop Bench Tools** — inventory/resource management (Robert Edson shared spreadsheet)
-- **Damaged whiteboard delivery** — office equipment issue with photo documentation
+### Technical & CAD/Design Collaboration (New Tools)
+- **Onshape account activation** — Josh Fromm sharing Onshape publications (parametric CAD platform for collaborative design)
+- **Suggests shift to Onshape from previous Google Workspace/PTC tools** or parallel deployment
+- Likely for RAVEN program technical development or S0/product iteration
 
-### Business & Hiring (Significant New Activity)
-- **Robert Powell - Electrical Engineer (EE) recruitment** — 4 emails with Lumicity recruiter (Max Pheysey) on finalist status; appears to be finalist for EE position at BST/Krateosky
-- **Black Swift TPM (Technical Program Manager) position** — outreach to Megan Lewis on availability for "next step" (interview/offer stage)
-- **Careers page details coordination** — Cory (via Krateosky) liaising with IFC Studios on job posting content
+### Business & Recruiting (Active Pipeline)
+- **Megan Lewis – TPM position:** Now **active two-way exchange** (3 emails as of Nov 5 17:02 UTC)
+  - Cory's outreach now receiving substantive replies about "next step" (interview/offer stage)
+  - Indicates **candidate has moved past initial contact** into formal interview process
 
-### Cybersecurity & Compliance (Escalating)
-- **CMMC Kick Off meeting scheduled** — Tue Nov 17, 2026, 1–2 pm (MST) with Dan Mackin (Rule 4), Mateo Chavez, Haley Berry; Cory forwarding to Ben Busby
-- **CMMC + Infrastructure Management** — Rule 4 consulting engagement advancing
+### Employer Branding & Recruitment Infrastructure (New Pattern)
+- **Glassdoor profile synced with Indeed** (Nov 5, 23:30 UTC) — BST implementing multi-platform job posting/recruiting presence
+- **Glassdoor company account activated** (Nov 5, 00:30 UTC) — employer profile going live
+- **Suggests formal employer branding campaign launching** concurrent with active TPM/EE hiring
 
-### Strategic & Competitive Intelligence
-- **Potential Competitor analysis** — Jack Elston initiated thread (Wed Nov 4, 21:11 UTC), escalated to Krateosky leadership (Bob Smith, Brian Grubel, Ariel Avitan) + multiple BST contacts (Cory, Maciej Stachura, Daniel Prendergast, Jack Elston) by Nov 5, 03:59 UTC
-  - Thread marked IMPORTANT and flagged for all recipients
-  - Suggests competitor monitoring/threat assessment relevant to Krateosky/BST partnership
+### Hardware & Supplier Development
+- **Lion Power Engineering – Battery system proposal** (Nov 5, 17:02 UTC)
+  - Unsolicited vendor pitch or active procurement for "Black Swift UAS" battery system
+  - Flagged IMPORTANT, routed to info@blackswifttech.com (general inquiry management)
+  - **Potential power systems development for RAVEN platform or next-gen product**
 
-### Corporate & Administrative
-- **Employee Benefits Question** — Meredith Needham forwarding HR/benefits inquiry
-- **Reimbursement setup** — Robert Powell (possible new hire or contractor) reimbursement process coordination via Meredith Needham
-- **D&O Binders 2026–2027** — ongoing (from previous data)
+### Task/Project Management (Internal Operations)
+- **Lynn Regnier (Asana)** assigned "Update Org Chart" task on [001-13] General Operations (Nov 5, 22:28 UTC)
+  - Cory responsible for organizational structure documentation
+  - Suggests **formal organizational changes or expansion underway** requiring chart updates
+
+### Cybersecurity & Compliance (Ongoing from prior data)
+- CMMC Kick Off meeting Nov 17 (from prior data still active)
 
 ## Communication Patterns
 
-### Dual Email Address Usage (Confirmed & Expanded)
-- **cory.dixon@blackswifttech.com** — primary BST communications, government partnerships, CMMC, technical coordination
-- **cory@krateosky.com** — recruiting, business development, corporate coordination, careers page management
-- Pattern suggests **formal dual role or executive coordination between BST and Krateosky**
+### Multi-National Defense Program Coordination
+- **RAVEN delegation visit to Black Swift facility** (Nov 5, 10:19 UTC) — Daniel Prendergast led briefing with slides sent to:
+  - 3 US Navy NAWCAD officers (known contacts from prior Navy UAS thread)
+  - 2 UK Ministry of Defence officials (new escalation — international defense partnership)
+  - 3 Lockheed Martin Global executives
+  - 1 Bartington sensor specialist
+  - **Cory received as BCC or secondary recipient** (email chain shows Daniel Prendergast as lead, but suggests Cory is briefing stakeholder or program oversight role)
 
-### New Email Address Variant
-- **cory.dixon@bst.aero** — alternative BST domain used by external vendor (James Singhi, NOA Wireless)
-- Suggests BST operates or aliases multiple domains
+### Recruiting Acceleration & Candidate Responsiveness
+- **Megan Lewis (TPM candidate)** now **proactively responding** to Cory rather than Cory one-way outreach
+  - Same-day exchange (Nov 5, 07:13 UTC → 15:47 UTC, 8+ hours apart)
+  - Suggests candidate is actively interested and moving toward formal interview/offer stage
+  - Cory drafting response carefully (DRAFT status shows deliberate composition)
 
-### Multi-Party Strategic Coordination
-- **Competitor analysis email:** 6-recipient thread (Jack Elston → Krateosky C-suite + BST leadership team) with rapid escalation (initiated Wed 21:11 UTC, responded by Krateosky Thu 03:59 UTC) — indicates high-priority strategic issue
-- **CMMC Kick Off:** 4-person Rule 4 team + Cory + Jack Elston + Ben Busby — formal government compliance engagement
+### Onshape CAD Platform Deployment
+- **Josh Fromm sharing multiple Onshape publications** (Nov 5, 16:14 UTC — 2 identical notifications, possible duplicate)
+- **New Onshape account activation** (Nov 5, 16:13 UTC) suggests **Cory just added to Onshape workspace**
+- Likely **RAVEN program engineering collaboration** or **parallel S0/product design workstream**
 
-### Recruitment & Hiring Pipeline (New Pattern)
-- Cory actively engaged in **recruiting conversations via Krateosky email** with external recruiters (Lumicity/Max Pheysey)
-- Parallel **direct outreach** via BST email to candidates (Megan Lewis for TPM)
-- Suggests Cory may have **hiring authority or HR coordination role** across BST/Krateosky
+### Automated Service Integration (Expanding)
+- **Glassdoor/Indeed sync** — recruiting infrastructure scaling
+- **Asana task assignments** — formal task/project tracking for organizational operations
+- **Onshape publications** — real-time CAD collaboration alerts
+- **Asana notifications remain high-priority flag** (IMPORTANT category) — suggests Cory filters other automated mail but prioritizes Asana work assignments
 
-### Google Workspace Collaboration
-- Shared documents (Glidersonde v1 presentation, Shop Bench Tools spreadsheet) received via Google Drive notifications
-- Suggests team using Google Workspace for collaborative engineering/product development
+### Time Patterns (Updated)
+- **Heavy UTC evening activity continues** (Nov 5–6: 16:13–23:30 UTC)
+- **RAVEN meeting coordination** sent during business hours (10:19 UTC = ~3–4 AM MST, but sent day of Nov 5 morning US time)
+- **Rapid candidate communication** with Megan Lewis (Oct 5, 07:13 → 15:47 UTC = compressed 8-hour window suggesting priority handling)
+- **Taskrabbit email** (16:35 UTC) flagged IMPORTANT despite personal nature — suggests Cory's filter settings are broad or inbox scanning is rapid
 
-### Time Activity
-- Heavy evening/night activity continues (21:11–03:59 UTC, spanning 10–24+ hour windows)
-- Rapid fire recruiting email thread (16:27–16:52 UTC, 4 emails in 25 minutes with Max Pheysey on Nov 4)
-- Suggests flexible work hours and/or time zone spanning (MST + UTC-7 + UTC+0)
-
-### Email Flags
-- **70% of new emails flagged IMPORTANT** (18 of 26) — consistent with existing pattern
-- Strategic/competitive, government compliance, recruiting, hardware/product development marked as priority
-- Automated notifications (Asana, Google Workspace) in CATEGORY_UPDATES, not prioritized like human mail
+### Email Flag Patterns
+- **Glassdoor, Onshape, Asana emails all flagged IMPORTANT** despite being automation/notifications — consistent with prior high-flag-ratio pattern
+- **RAVEN email thread flagged IMPORTANT** (multi-national defense program — justified)
+- **Megan Lewis TPM exchange flagged IMPORTANT** (hiring pipeline — justified)
+- **Lion Power Engineering supplier email flagged IMPORTANT** (hardware procurement — justified)
 
 ## Key Relationships
 
-### Closest Collaborators (by frequency, updated)
-1. **Jack Elston** (BST internal) — 8 emails: government partnerships (NASA/NOAA), Navy UAS design, academic meetings, competitor analysis, Krateosky strategic coordination — **primary external liaison & strategic advisor**
-2. **Brandon Messersmith** (BST internal) — 4 emails: S0 hardware documentation, assembly guides, equipment logistics — **engineering/manufacturing coordination**
-3. **Max Pheysey** (Lumicity, external recruiter) — 4 emails: EE recruitment pipeline — **active hiring partner**
-4. **Meredith Needham** (BST internal) — 3 emails: benefits, HR administration, employee onboarding — **HR/operations liaison**
-5. **Dan Mackin** (Rule 4, external) — 2 emails: CMMC compliance, infrastructure management — **government compliance contractor**
+### Closest Collaborators (Updated)
+1. **Jack Elston** (BST internal) — 8 emails: government partnerships, strategic coordination
+2. **Daniel Prendergast** (BST internal) — 2 emails + RAVEN program delegation briefing lead; suggests **peer or direct report responsible for government relations**
+3. **Megan Lewis** (TPM candidate, external) — **now 3 emails in active exchange** (elevated from prior outreach-only status)
+4. **Brandon Messersmith** (BST internal) — 4 emails: S0 hardware, assembly guides
+5. **Meredith Needham** (BST internal) — 3 emails: HR/operations
+6. **Max Pheysey** (Lumicity external recruiter) — 4 emails: EE recruitment pipeline
 
-### External Strategic Relationships (Expanded)
-- **Krateosky leadership** (Bob Smith, Brian Grubel, Ariel Avitan) — competitor analysis coordination, strategic planning
-- **ERAU** (Ebenezer Gnanamanickam, Joshua Wadler) — NASA wind tunnel partnership
-- **CU Boulder** (Brian Argrow) — aerospace engineering partnership
-- **Murray State University** (Bassil El Masri) — UAS atmospheric research
-- **NOAA Federal** (Joe Cione) — atmospheric research collaboration
-- **US Navy** (Anthony D. Brescia, NAWCAD) — **new DoD contact** for UAS design
-- **Rule 4** (Dan Mackin, Mateo Chavez, Haley Berry) — CMMC compliance, cybersecurity consulting
-- **Lumicity** (Max Pheysey) — technical recruiting/staffing
-- **PTC** (Mark Andres) — Krateosky Arena implementation
-- **NOA Wireless** (James Singhi) — wireless charging architecture (unsolicited pitch or new vendor)
-- **IFC Studios** (Tony Kraayenbrink) — careers/recruiting marketing
+### New External Strategic Relationships (RAVEN Program)
+- **US Navy NAWCAD** (3 officers: Ruiz-Reyes, Brescia, Pyrah) — **confirmed Navy partnership escalation** (now multi-party delegation visit)
+- **UK Ministry of Defence** (Simon Laurence, Scott Hammond) — **new international defense relationship**
+- **Lockheed Martin Global** (Neil Morphett, Shah, Brackenridge) — **prime contractor involvement suggests BST is subcontractor or technology provider to LM for RAVEN program**
+- **Bartington** (Tom Simcox) — sensor specialist, likely magnetometer or atmospheric measurement systems
+- **Josh Fromm** (internal, Onshape collaborator) — engineering/CAD design lead for RAVEN or product development
+
+### Recruiting Relationships (Expanding)
+- **Megan Lewis** — TPM candidate, now in active interview/offer stage (moved from initial outreach)
+- **Robert Powell** — EE candidate (from prior data, reimbursement setup indicates hire progressing)
+- **Max Pheysey** (Lumicity) — technical recruiting partner managing EE pipeline
 
 ## Notable Observations
 
-1. **Strategic Competitor Response:** Rapid escalation of "Potential Competitor" thread from Jack Elston to full Krateosky C-suite + BST leadership within 6 hours indicates active competitive threat or market intelligence requiring executive attention. Cory positioned as key stakeholder in competitive decisions.
+1. **RAVEN Program: Major Defense Escalation** — Multi-national US/UK program with Navy NAWCAD + UK MoD + Lockheed Martin delegation visiting Black Swift facility signals **major government contract or technology partnership**. Cory positioned as stakeholder but Daniel Prendergast appears to lead execution. Suggests BST is **critical technology provider** (likely atmospheric/sensor systems for defense applications) to prime contractor Lockheed Martin. **Highest-value program visible in email metadata.**
 
-2. **Navy Partnership Development:** New email from Jack Elston to US Navy NAWCAD (Naval Air Warfare Center Aircraft Division) on "Thoughts on UAS Design" suggests BST/Krateosky pursuing or developing Navy contracts — significant DoD expansion beyond existing NASA/NOAA partnerships.
+2. **International Defense Expansion** — UK Ministry of Defence involvement (official gov.uk email addresses) represents **new international market for BST**. Combined with prior Navy/NASA/NOAA partnerships, suggests **global aerospace/defense market penetration strategy**.
 
-3. **Dual Executive Role:** Cory operating via two distinct corporate email addresses suggests **formal position spanning BST and Krateosky** — likely VP-level operations, business development, or partnerships. Recruiting via Krateosky, government contracts/ops via BST.
+3. **Lockheed Martin Relationship** — Neil Morphett (neil.morphett@global.lmco.com) suggests LM Global Business Services involvement, not just LM Aeronautics. Possible system integrator or program manager role. **Suggests BST technology being integrated into LM prime contract**, not direct government sale.
 
-4. **Active Hiring Phase:** Two simultaneous recruiting efforts (Robert Powell/EE via external recruiter, Megan Lewis/TPM via direct outreach) suggest **BST/Krateosky in growth/hiring phase**, possibly tied to government contract wins (CMMC compliance, Navy/NASA partnerships).
+4. **Onshape CAD Migration/Expansion** — Josh Fromm sharing publications immediately after Cory's account activation suggests **real-time engineering collaboration on RAVEN** or parallel product development. May indicate shift away from PTC (Krateosky Arena) for certain programs or parallel tool strategy.
 
-5. **Glidersonde v1 Product/Project:** New shared presentation suggests active product development in atmospheric measurement technology. Combined with UAS Flux Topos, Hurricane research, and Navy UAS Design threads — indicates **atmospheric/weather UAS platform** as core R&D focus.
+5. **TPM Hiring: Fast-Track Candidate** — Megan Lewis's rapid progression (initial outreach → active exchange → "next step" within days) suggests **urgent hiring need or strong candidate match**. Cory personally driving final stages of interview/offer process. May indicate scaling operations for RAVEN program or product launch.
 
-6. **CMMC Compliance as Formal Initiative:** Scheduled Nov 17 kickoff with Rule 4 (with Ben Busby also invited) signals **formal DoD cybersecurity maturity certification program underway** — prerequisite for substantial government contracts. Suggests BST targeting $10M+ DoD procurement.
+6. **Recruiting Infrastructure Scaling** — Glassdoor/Indeed sync + formal employer profile activation suggests **BST ramping employer branding for larger hiring push**. Combined with active TPM/EE recruiting, indicates **significant headcount growth planned** (likely 5–10+ new hires for RAVEN program or product commercialization).
 
-7. **Contractor/New Hire Integration:** Robert Powell email thread shows reimbursement setup coordination — likely **new employee or contractor onboarding**, possibly EE hired via Lumicity. Meredith Needham managing logistics.
+7. **Org Chart Update Task** — Lynn Regnier assignment to update organizational structure suggests **formal restructuring or expansion underway**. Cory's involvement indicates **executive-level organizational planning** responsibility. May reflect addition of RAVEN program team or new business unit.
 
-8. **BST Domain Expansion:** Use of bst.aero domain variant (alongside blackswifttech.com) suggests possible **domain specialization strategy** (.aero for aerospace/aviation focus) or recent domain acquisition.
+8. **Battery Systems Procurement** — Lion Power Engineering unsolicited pitch suggests **BST actively seeking power solutions** for next-gen UAS (likely higher endurance/payload for RAVEN or commercial product). Routed to general inquiries suggests open vendor evaluation.
 
-9. **Inbox Management at Capacity:** High IMPORTANT flag ratio (70%) suggests Cory may be **filtering volume rather than seeing all emails** — strategic prioritization of government/partnerships/recruiting/product over routine communications.
+9. **Taskrabbit Flag Anomaly** — Personal home services email flagged IMPORTANT is unusual; suggests **filter may be misconfigured**, Cory's inbox management is under stress, or **accidental high-priority flag**. May indicate **inbox volume is reaching saturation**.
 
-10. **Careers Page Activity:** Direct coordination with marketing/design firm (IFC Studios) on recruiting content via Krateosky email suggests **formal employer branding/recruitment marketing campaign** — consistent with active hiring phase.
+10. **Daniel Prendergast Emerging Role** — RAVEN delegation briefing led by Prendergast (not Jack Elston, not Cory directly) suggests **Daniel Prendergast may be RAVEN Program Director or Government Relations lead**. Cory positioned as oversight/stakeholder rather than execution. Consistent with prior observation of **Cory's executive coordination role spanning business development, HR, operations**.
+
+11. **Dual Executive Coordination Confirmed** — Cory managing Krateosky recruiting (via cory@krateosky.com, from prior data) + BST government contracts (via cory.dixon@blackswifttech.com) + internal operations (Org Chart task) suggests **formal COO-level or VP Operations role coordinating across both entities**.

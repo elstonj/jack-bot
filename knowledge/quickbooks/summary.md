@@ -1,63 +1,56 @@
 # BST Financial Overview (QuickBooks)
 
-## Company Totals
-- **Total Revenue (Invoices):** $9,764,708.62
-- **Total Expenses:** $5,738,465.68
-- **Net Income (Estimated):** $4,026,242.94
+## ⚠️ DATA COMPLETENESS NOTE
+The QuickBooks export appears truncated. The P&L report shows only a 2-day period (Nov 5-6, 2026) with no revenue recorded, while the per-project data spans April 2024 – November 2026. Below is analysis of available data.
 
-*Note: Period reported shows Nov 4-5, 2026 with net loss of -$17,668.69. Full dataset spans April 2024 – November 2026.*
+---
+
+## Company Totals (Nov 5-6, 2026 Period)
+- **Total Revenue:** $0
+- **Total Expenses:** $670.28
+- **Net Income:** -$846.39
+
+### Expense Breakdown (Nov 5-6):
+| Category | Amount |
+|----------|--------|
+| Direct Material Purchases | $176.11 |
+| Software Expenses | $199.00 |
+| Sales & Marketing | $300.00 |
+| Shop Supplies | $53.40 |
+| **Total** | **$670.28** |
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|---|---|---|---|
-| **Government** | $6,880,904.00 | $1,856,240.42 | **$5,023,831.58** | Active; largest portfolio |
-| **Commercial** | $3,083,803.62 | $251,249.13 | **$2,832,554.49** | Active; strong margin |
-| **Unclassified** | $1.00 | $3,630,976.13 | **-$3,630,975.13** | Concerning; needs review |
-| **TOTAL** | **$9,764,708.62** | **$5,738,465.68** | **$4,026,242.94** | |
+### Commercial Project
+- **Total Revenue (Invoices):** $3,083,803.62
+- **Total Expenses:** $251,249.13
+- **Purchase Orders Pending:** $1,977.50
+- **Net Position:** $2,832,554.49 ✓
+- **Period:** April 5, 2024 – November 12, 2026
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding Balances)
-- **Government Projects:** $5,762,294.82 outstanding across 117 active invoices
-- **Commercial Projects:** $24,579.28 outstanding (Invoice #1779, Murphy's Pond CH4, dated 2026-08-31)
-- **Total Outstanding A/R:** ~$5,786,874.10
+### Outstanding Accounts Receivable
+| Invoice # | Customer | Amount | Date |
+|-----------|----------|--------|------|
+| **1779** | **[018-1] Murphy's Pond CH4** | **$24,579.28** | **Aug 31, 2026** |
 
-### Recent Large Expenses
-- **R&D (Unclassified):** $3,630,976.13 total (largest expense category)
-- **Government Direct Costs:** $1,856,240.42
-- **Commercial Direct Costs:** $251,249.13
+**Note:** Invoice 1779 outstanding for 2+ months (as of Nov 6, 2026)
 
-### Projects with Activity
-- **Government:** 117 active invoices; ongoing through November 2026
-- **Commercial:** Active through August 2026; largest recent invoice in August
-- **Unclassified:** One $1.00 invoice (Sept 2024, paid); heavy expenses suggest internal R&D or overhead allocation
+### Recent Large Expenses (Nov 5-6)
+- Sales & Marketing: $300.00
+- Software Expenses: $199.00
 
 ---
 
-## Critical Observations
+## Data Limitations
+- **Incomplete invoice list:** Only 1 invoice shown; data cuts off mid-table
+- **No vendor breakdown:** Top vendors list unavailable
+- **No customer revenue ranking:** Beyond Murphy's Pond invoice
+- **Gap analysis:** 2-day P&L vs. 2.5-year project history suggests missing transaction detail
 
-⚠️ **Unclassified Account Red Flag**
-- Expenses of $3.63M against $1.00 revenue creates -$3.63M loss
-- Suggest reclassifying these expenses to proper project codes or cost centers
-- May represent internal R&D, corporate overhead, or misallocated costs
-
-✓ **Strong Core Business**
-- Government + Commercial projects show healthy combined net position of $7.86M
-- Government projects represent 70% of total revenue
-- Government A/R is substantial; monitor collection
-
----
-
-## Top Vendors & Customers
-
-**Top Customers by Revenue:**
-1. Government contracts (multiple): $6,880,904.00
-2. Commercial clients (multiple): $3,083,803.62
-3. Oklahoma State University: $1.00
-
-*Detailed vendor and customer breakdowns require access to complete transaction-level data.*
+**Recommendation:** Request complete P&L report for full period and full vendor/customer aging reports for comprehensive financial analysis.

@@ -1,61 +1,61 @@
-_Computed from Toggl as of 2026-11-05: 3867.7 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-06: 3874.7 h tracked since 2020-01-01._
 
 # Ethan Domagala — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 3,867.7 hours (all-time since 2020-01-01)
-- **Primary projects (top 5):**
-  1. S3 IRAD (492.5 hours, 12.7%)
-  2. ByLight M2/Halo (469.9 hours, 12.2%)
-  3. SBIR - Hurricane Phase II+ / NOAA (376.3 hours, 9.7%)
-  4. By Light Mustang (269.2 hours, 7.0%)
-  5. S0 Hurricane Phase II - 2025 / NOAA (240.4 hours, 6.2%)
+- **Total hours tracked:** 3,874.7 hours (all-time since 2020-01-01)
+- **Primary projects (top 5 by hours):**
+  1. [001-07] S3 IRAD – 499.5 hours
+  2. [043-3] ByLight M2/Halo – 469.9 hours
+  3. [301-2] SBIR - Hurricane Phase II+ (NOAA) – 376.3 hours
+  4. [043-2] By Light Mustang – 269.2 hours
+  5. [301-3] S0 Hurricane Phase II - 2025 (NOAA) – 240.4 hours
+- **Time period:** Since January 2020
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| S3 IRAD | 492.5 | 12.7% | IRAD (Internal) |
-| ByLight M2/Halo | 469.9 | 12.2% | ByLight |
-| SBIR - Hurricane Phase II+ | 376.3 | 9.7% | NOAA (Joe Cione) |
-| By Light Mustang | 269.2 | 7.0% | ByLight |
-| S0 Hurricane Phase II - 2025 | 240.4 | 6.2% | NOAA (Joe Cione) |
-| SBIR - SMM DoD 22.4D Phase II | 190.5 | 4.9% | Department of the Air Force |
-| Flight Testing | 182.8 | 4.7% | IRAD (Internal) |
-| PTO | 152.0 | 3.9% | Time Off |
-| S1 IRAD | 134.0 | 3.5% | IRAD (Internal) |
-| 2026 IDIQ (Hurricane) | 119.8 | 3.1% | NOAA |
-| 2024-25 Aeropod (AREN) | 109.0 | 2.8% | NASA |
-| SMM IRAD | 107.3 | 2.8% | IRAD (Internal) |
-| SBIR - Soil Moisture Mapping | 106.4 | 2.8% | Department of the Air Force |
-| Other projects | 298.3 | 7.7% | Various |
+| [001-07] S3 IRAD | 499.5 | 12.9% | IRAD (Internal) |
+| [043-3] ByLight M2/Halo | 469.9 | 12.1% | External |
+| [301-2] SBIR - Hurricane Phase II+ | 376.3 | 9.7% | NOAA (Joe Cione) |
+| [043-2] By Light Mustang | 269.2 | 6.9% | External |
+| [301-3] S0 Hurricane Phase II - 2025 | 240.4 | 6.2% | NOAA (Joe Cione) |
+| [400-5] SBIR - SMM DoD 22.4D Phase II | 190.5 | 4.9% | Department of the Air Force |
+| [001-08] Flight Testing | 182.8 | 4.7% | IRAD (Internal) |
+| [001-20] PTO | 152.0 | 3.9% | Time Off |
+| [001-05] S1 IRAD | 134.0 | 3.5% | IRAD (Internal) |
+| [300-3] 2026 IDIQ (Hurricane) | 119.8 | 3.1% | NOAA |
+| **All other projects** | 571.3 | 14.7% | Various |
 
 ## Recent Activity
 
-**Current focus (last ~40 tracked entries):**
-- Heavy emphasis on **S3 IRAD wiring work** — multiple 8-hour entries for "S3 wiring," with recent work also on "S3 tail servo trays" and "S3 wing inserts"
-- **ByLight M2/Halo** work continuing with mixed 1-8 hour sessions (many logged without descriptions)
-- **Flight Testing** activities including "E2 SMM and ERAU Testing" and "SMM E2 Prep"
-- **General Operations** including warehouse and desk/equipment logistics ("Unloading Desks," "Warehouse build out")
-- Minor work on **2026 IDIQ (Hurricane)** and **S0-AD IRAD**
+**Current Focus (Most Recent 40 Entries):**
+- Heavy concentration on **[001-07] S3 IRAD** with detailed wiring work (S3 wiring, tail servo trays, wing inserts)
+- **[043-3] ByLight M2/Halo** remains active with large unlogged blocks (7-8 hour sessions)
+- **[001-08] Flight Testing** showing prep work for SMM E2 and ERAU testing
+- **[300-3] 2026 IDIQ (Hurricane)** appears with unlogged sessions
+- **[001-13] General Operations** for warehouse/facility work (desk unloading, warehouse build-out)
 
-**Pattern:** Work is heavily hands-on/assembly focused at the moment, with extensive time on S3 aircraft wiring and structural components.
+**Documentation Pattern:**
+- S3 IRAD entries are detailed with specific task descriptions
+- ByLight M2/Halo entries mostly lack descriptions (suggests large batched entries)
+- Flight testing entries occasionally documented with test type/location
 
 ## Patterns
 
-**Primary work areas:**
-- **Hardware development & assembly** — S3 IRAD (wiring, servo trays, wing inserts) dominates recent entries; this aligns with flight testing and prototype work across ByLight projects
-- **NOAA/Weather research** — Hurricane-related SBIR projects represent ~19% of total time (376.3 + 240.4 + 119.8 hours)
-- **DoD/Air Force contracts** — SMM (Soil Moisture Mapping) SBIR work across two phases totaling 296.9 hours (7.7%)
-- **NASA work** — Aeropod and related projects at ~113-155 hours total (3-4%)
-- **Internal IRAD portfolio** — Extensive work across S0, S1, S2, S3 platforms and SwiftStation totaling ~1,000+ hours (26%+)
+**Primary Work Focus:**
+- **Hardware/Build Work:** Dominant across IRAD projects (S3, S1, S0) with emphasis on physical assembly, wiring, and component integration
+- **External Projects:** Significant allocation to ByLight contracts (M2/Halo, Mustang) suggesting client deliverables
+- **Government R&D:** Strong SBIR and government contract work (NOAA Hurricane research, DoD Soil Moisture Mapping, Air Force projects)
 
-**Shift over time (visible from recent data):**
-- Recent 2-3 weeks show sharp pivot to **intensive S3 wiring/assembly work** with minimal description logging, suggesting production/build phase activity
-- ByLight M2/Halo continues as major secondary effort
-- Flight testing appears to be concurrent/supportive work rather than primary focus
+**Shift Over Time:**
+- Recent weeks show intensified focus on **S3 IRAD wiring** (repeated 8-hour full-day allocations)
+- **ByLight M2/Halo** remains consistently high-priority with large untracked blocks
+- **Flight testing** appears to be cyclical operational work
+- Historical breadth across 40+ projects suggests Ethan takes on diverse technical tasks
 
-**Notes:**
-- 152 hours of PTO tracked (consistent with standard allowance)
-- Well-organized across internal projects, government contracts, and customer delivery work
-- Time logging detail varies (many ByLight entries lack descriptions; S3 entries are well-documented)
+**Work Style:**
+- Mix of detailed task logging (S3 components) and large unlogged blocks (ByLight)
+- Concentration on hands-on technical work rather than administrative overhead
+- Consistent engagement with hardware development and flight operations

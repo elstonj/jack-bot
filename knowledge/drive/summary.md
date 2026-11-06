@@ -1,57 +1,68 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-05 02:50
+Last scanned: 2026-11-06 02:53
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 2 files — [sales.md](sales.md)
+- **Federal Projects** — 8 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Strategic Drive Overview
 
-## Summary Statistics
-- **Total documented files:** 8 files across 2 active shared drives
-- **Organization quality:** Poor — minimal folder structure, flat hierarchies
-- **Date range:** February 2022 – January 2099 (note: future dates suggest data quality issues)
+## Executive Summary
 
-## Key Observations
+BST maintains **2 documented shared drives** with minimal cross-organizational infrastructure. Total documented file volume is **9 files** across highly specialized domains (federal projects and sales). Organization is rudimentary with significant structural gaps.
 
-### Document Volume & Distribution
-| Drive | Files | Organization | Status |
-|-------|-------|--------------|--------|
-| Federal Projects | 6 | No folders; root-level only | Active |
-| Sales | 2 | Minimal structure | Active |
+---
 
-### Primary Focus Areas
-1. **Federal Projects** — Core business driver
-   - VTOL/rotorcraft systems (primary focus)
-   - Technical proposals and ROM estimates
-   - Quad charts and presentations for government stakeholders
+## Key Findings
 
-2. **Sales** — Limited documentation
-   - RAVEN project kickoff materials
-   - Informal notes alongside formal deliverables
+### Document Volume & Organization
+- **Federal Projects drive:** 8 files, zero folder structure (all at root level)
+- **Sales drive:** 1 file
+- **Critical gap:** No centralized documentation infrastructure; files scattered at root level
+- **Organization quality:** Poor – lacks hierarchical folder systems, naming conventions appear inconsistent
+
+### Primary Projects & Clients
+| Drive | Focus | Key Deliverables |
+|-------|-------|------------------|
+| **Federal Projects** | VTOL/rotorcraft development (government contracts) | Technical proposals, quad charts, RFPs |
+| **Sales** | Business development & client relations | Kickoff materials, site visit records |
 
 ### Cross-Drive Patterns
-- **No cross-drive resource sharing identified** — Drives operate independently
-- Proposals appear in Federal drive; minimal sales pipeline documentation in Sales drive
-- Templates and shared resources not visible across either drive
+- **Federal drive** contains technical proposals and strategic presentations (government-facing)
+- **Sales drive** appears to support business development activities
+- **No visible integration** between sales pipeline and federal project documentation
 
-### Document Management Issues
+### Shared Resources & Templates
+- No evidence of centralized templates or resource libraries
+- Quad chart format used for federal presentations (AE28_Quad_Chart)
+- Proposal documentation format exists but appears ad-hoc
 
-**Critical Concerns:**
-- **No folder organization** in Federal drive despite 6 strategic documents
-- **Inconsistent naming** (formal proposals vs. informal notes like "Dan's Notes")
-- **Date anomalies** (files dated January 2099) suggest metadata issues
-- **Minimal Sales documentation** (only 2 files) for a business development function
+---
 
-### Recommendations
-1. Implement consistent folder taxonomy (by project, client, or document type)
-2. Establish naming conventions across drives
-3. Consolidate and verify document dates
-4. Expand Sales drive documentation for visibility into pipeline/client work
-5. Create shared templates library accessible across drives
+## Areas Requiring Attention
+
+🔴 **High Priority:**
+- Federal Projects drive lacks any folder organization (8 files at root level)
+- No standardized naming conventions evident
+- Stale content risk: documents dated through 2099 (likely data errors)
+- Sales drive severely underdeveloped (1 file only)
+
+🟡 **Medium Priority:**
+- Missing cross-drive governance or file discovery system
+- No apparent change management or version control discipline
+- Limited documentation of sales pipeline and project status
+
+---
+
+## Recommendations
+1. Implement folder taxonomy across both drives (by project, client, document type)
+2. Establish naming conventions (date, project code, version number)
+3. Audit and clean date anomalies (2099 entries)
+4. Expand Sales drive infrastructure to match business development needs
+5. Consider centralized templates drive for proposals and standard deliverables

@@ -2,7 +2,7 @@
 
 Only 4 emails found in scanned period.
 
-- Wed, 04 Nov 2026 21:38:41 +0000: Invitation: Robert Powell - Team Chat @ Fri Nov 13, 2026 10:30am - 11:30am (MST) (Alex Lomis) (from: Cory Dixon <cory.dixon@blackswifttech.com>)
-- Wed, 4 Nov 2026 20:38:08 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
-- Wed, 04 Nov 2026 17:15:48 +0000 (UTC): NVMe-IP Gen5: Enterprise Write Speed Without Server Overhead - DG News Nov 2026 (from: Design Gateway Newsletter <dgnews@dgway.com>)
-- Wed, 4 Nov 2026 16:47:13 +0000: Wednesday - tasks due soon: 5 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Fri, 6 Nov 2026 01:38:57 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
+- Thu, 05 Nov 2026 23:23:48 +0000: Invitation: SOCOM Meeting @ Fri Nov 6, 2026 3pm - 3:30pm (MST) (Alex Lomis) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Thu, 5 Nov 2026 11:54:57 -0700: Follow-up on new mag sensor board (from: Maciej Stachura <stachura@blackswifttech.com>)
+- Thu, 5 Nov 2026 17:47:14 +0000: Thursday - tasks due soon: 2, tasks assigned: 2 - blackswifttech.com (from: Asana <no-reply@asana.com>)

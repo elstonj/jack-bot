@@ -5,14 +5,14 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-05",
-    "end": "2026-11-05"
+    "start": "2024-11-06",
+    "end": "2026-11-06"
   },
   "totals": {
     "revenue": 1008500.0,
-    "expenses": 418504.47,
+    "expenses": 421974.2,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 259337.85,
+      "DIRECT COSTS:DC-Direct Material Purchases": 262807.58,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7216.33,
@@ -838,6 +838,42 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 122.23,
+      "attributed": 122.23,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 122.23,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 3347.5,
+      "attributed": 3347.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WWW.MICROHARDCORP.COM - 4617",
+      "lines": [
+        {
+          "amount": 3347.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "p400 x 30"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-03",

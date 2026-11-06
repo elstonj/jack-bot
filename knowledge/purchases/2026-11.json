@@ -76,5 +76,57 @@
     "notes": "Order #29340179; arriving 11/5/26; no project code or amount visible in email",
     "date": "2026-11-04",
     "subject": "Your Global Industrial Order # 29340179 is Arriving Tomorrow"
+  },
+  {
+    "id": "1a1adf75228ead14",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": 241.8,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Fasteners and bits shipment (16 items from 11/5 order)",
+    "notes": "FedEx tracking 541305767106; delivery 11/6; certificates provided for lock washers, locknuts, rounded head screws, threaded inserts",
+    "date": "2026-11-05",
+    "subject": "Certificates and Tracking for Your November 5th Order with McMaster-Carr"
+  },
+  {
+    "id": "1a1add7b2b5aa655",
+    "is_purchase": true,
+    "status": "ordered",
+    "amount_usd": 241.8,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Fasteners, hex bits, standoffs, inserts, screws, washers (16 line items)",
+    "notes": "Order confirmation; PO 1105JELSTON; McMaster order 8376342; delivery promised 11/6 8-10am; placed by Jack Elston",
+    "date": "2026-11-05",
+    "subject": "Confirmation for Your November 5th Order with McMaster-Carr"
+  },
+  {
+    "id": "1a1ac435e6879d14",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": null,
+    "vendor": "Global Industrial",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Handle and Wheel Kit for Modular Drawer Cabinet, Blue, 30\"W x 27\"D",
+    "notes": "Order 29340179; PO REPL; account 8860616; arriving 11/5/26; placed by Joshua Fromm; no total price shown",
+    "date": "2026-11-05",
+    "subject": "Your Global Industrial Order # 29340179 is Arriving Today"
+  },
+  {
+    "id": "1a1b007536d8be6e",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 241.8,
+    "vendor": "McMaster-Carr",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Fasteners, hex bits, standoffs, inserts, screws, washers (16 line items)",
+    "notes": "PO 1105JELSTON; paid by Visa 11/6/26; shipped 11/5/26 via FedEx; includes s3 sales and SOCOM project parts",
+    "date": "2026-11-06",
+    "subject": "Receipt for Your November 5th Order with McMaster-Carr"
   }
 ]

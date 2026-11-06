@@ -70,41 +70,42 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-05",
-    "end": "2026-11-05"
+    "start": "2024-11-06",
+    "end": "2026-11-06"
   },
   "totals": {
     "revenue": 3797607.11,
-    "expenses": 4832211.65,
+    "expenses": 4879183.17,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
-      "Indirect Cost:Payroll Expenses:Wages": 189909.21,
+      "Indirect Cost:Payroll Expenses:Wages": 192416.0,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
-      "Inventory Asset": 123667.7,
-      "FRINGE:FR-Retirement Contributions": 116216.23,
-      "Indirect Cost:Payroll Expenses:Employee Healthcare": 102344.86,
+      "FRINGE:FR-Retirement Contributions": 124773.73,
+      "Inventory Asset": 123869.36,
+      "Indirect Cost:Payroll Expenses:Employee Healthcare": 110222.42,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 81041.24,
+      "FACILITIES:FA-Shop Supplies": 82440.12,
       "Prepaid Expenses": 72500.18,
       "Spark One Jack #3168": 70684.0,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52700.31,
-      "FACILITIES:FA-Office Supplies": 48491.04,
+      "Indirect Cost:Software Expenses": 52940.85,
+      "GENERAL & ADMINISTRATIVE:Business Development": 51275.7,
+      "FACILITIES:FA-Office Supplies": 48662.97,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "GENERAL & ADMINISTRATIVE:Business Development": 46438.2,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 34537.65,
-      "FACILITIES:FA-Software Expenses": 33942.09,
-      "Indirect Cost:Meals and Entertainment": 29928.82,
+      "DIRECT COSTS:DC-Direct Material Purchases": 34665.12,
+      "FACILITIES:FA-Software Expenses": 34100.64,
+      "Indirect Cost:Meals and Entertainment": 30265.36,
       "Reimbursable Expenses": 27940.8,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
+      "Indirect Cost:Uncategorized Expense": 20316.02,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
       "Fraud Charges": 16008.36,
-      "SALES & MARKETING": 15405.08,
+      "SALES & MARKETING": 15705.08,
       "Indirect Cost:Insurance Exp": 15269.03,
       "Fixed Assets:Equipment": 15188.43,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
@@ -115,7 +116,7 @@
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 10573.14,
       "Indirect Cost:License, Permit, Misc Tax Exp": 10482.28,
       "GA-Business Development": 10448.09,
-      "Indirect Cost:Supplies:Shop SuppliesX": 10109.71,
+      "Indirect Cost:Supplies:Shop SuppliesX": 10050.29,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
       "FACILITIES:FA-Utilities Expense": 9573.35,
@@ -4542,6 +4543,190 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "1105JELSTON",
+      "total": 242.46,
+      "attributed": 242.46,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 130.83,
+          "account": "Inventory Asset",
+          "description": "Upcoming S3 Sales"
+        },
+        {
+          "amount": 53.4,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 58.23,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "0008201",
+      "total": 499.0,
+      "attributed": 499.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Invoice: 0008201",
+      "lines": [
+        {
+          "amount": 199.0,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "Hosting Package, AWS"
+        },
+        {
+          "amount": 300.0,
+          "account": "SALES & MARKETING",
+          "description": "WordPress Development: Careers page development, styling, and job listings import"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "JT72163",
+      "total": 306.59,
+      "attributed": 188.70999999999998,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 117.88,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": ""
+        },
+        {
+          "amount": 117.88,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 70.83,
+          "account": "Inventory Asset",
+          "description": "upcoming S3 sales"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 23.97,
+      "attributed": 23.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana Request - purchase made directly by J. Elston",
+      "lines": [
+        {
+          "amount": 23.97,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Reusable magnetic sticky notes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 147.96,
+      "attributed": 147.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*NT24B9GW3 - 4617",
+      "lines": [
+        {
+          "amount": 147.96,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "Replacement tape (eco friendly)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 103.17,
+      "attributed": 103.16999999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 12.1,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Flanged Hex Head Drilling Screw, Black Zinc Plated Steel, Number 10 Screw, 3/4\" Long, Packs of 50"
+        },
+        {
+          "amount": 69.95,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Multipurpose Miter and Chop Saw Blade, 10\" Diameter, 5/8\" Arbor Hole Size, 80 Teeth"
+        },
+        {
+          "amount": 8.05,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Sales Tax"
+        },
+        {
+          "amount": 13.07,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 142.98,
+      "attributed": 142.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "INTUIT *QBooks Online - 7333",
+      "lines": [
+        {
+          "amount": 142.98,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "INTUIT *QBooks Online - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-04",
+      "doc_number": "",
+      "total": 31.05,
+      "attributed": 31.05,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*VOODOO DOUGHNUT - BO - 7333",
+      "lines": [
+        {
+          "amount": 31.05,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "TST*VOODOO DOUGHNUT - BO - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-04",
       "doc_number": "506512",
       "total": 62.9,
@@ -4667,6 +4852,60 @@
       "type": "Purchase",
       "date": "2026-11-03",
       "doc_number": "",
+      "total": 305.49,
+      "attributed": 305.49,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ONLINE TRANSFER TO ELSTON J REF #IB03XBDF7Q EVERYDAY CHECKING BUSINESS LUNCH",
+      "lines": [
+        {
+          "amount": 305.49,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "reimbursement for lunch (Royal Navy visit)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 7877.56,
+      "attributed": 7877.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AETNA AFA TYPE AFA  ID 126603349 AETNA AFA TYPE AFA  ID XXXXXX3492  CO AETNA AFA",
+      "lines": [
+        {
+          "amount": 7877.56,
+          "account": "Indirect Cost:Payroll Expenses:Employee Healthcare",
+          "description": "AETNA AFA TYPE AFA  ID 126603349 AETNA AFA TYPE AFA  ID XXXXXX3492  CO AETNA AFA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 36.07,
+      "attributed": 36.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 36.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
       "total": 399.99,
       "attributed": 399.99,
       "vendor": "",
@@ -4773,6 +5012,60 @@
           "amount": 124.91,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 15.57,
+      "attributed": 15.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ADOBE SAN JOSE CA",
+      "lines": [
+        {
+          "amount": 15.57,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "ADOBE SAN JOSE CA"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 2506.79,
+      "attributed": 2506.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Cont Rippling TYPE Contributn  I Cont Rippling TYPE Contributn  ID XXXXXX5510 CO Cont Rippling",
+      "lines": [
+        {
+          "amount": 2506.79,
+          "account": "Indirect Cost:Payroll Expenses:Wages",
+          "description": "Cont Rippling TYPE Contributn  I Cont Rippling TYPE Contributn  ID XXXXXX5510 CO Cont Rippling"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "",
+      "total": 8557.5,
+      "attributed": 8557.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Matrix Trust Co TYPE PAYMENT  ID Matrix Trust Co TYPE PAYMENT  ID XXXXXX9945 CO Matrix Trust Co",
+      "lines": [
+        {
+          "amount": 8557.5,
+          "account": "FRINGE:FR-Retirement Contributions",
+          "description": "Matrix Trust Co TYPE PAYMENT  ID Matrix Trust Co TYPE PAYMENT  ID XXXXXX9945 CO Matrix Trust Co"
         }
       ]
     },
@@ -4988,6 +5281,52 @@
       "type": "Purchase",
       "date": "2026-10-31",
       "doc_number": "",
+      "total": 359.33,
+      "attributed": 359.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 359.33,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-31",
+      "doc_number": "8611",
+      "total": 4837.5,
+      "attributed": 4837.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 967.5,
+          "account": "GENERAL & ADMINISTRATIVE:Business Development",
+          "description": "Recruiting for North American Account Executive"
+        },
+        {
+          "amount": 3816.25,
+          "account": "GENERAL & ADMINISTRATIVE:Business Development",
+          "description": "Recruiting for Technical Project Manager"
+        },
+        {
+          "amount": 53.75,
+          "account": "GENERAL & ADMINISTRATIVE:Business Development",
+          "description": "Recruiting for Manufacturing / Production Engineer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-31",
+      "doc_number": "",
       "total": 25.0,
       "attributed": 25.0,
       "vendor": "",
@@ -4999,6 +5338,39 @@
           "amount": 25.0,
           "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
           "description": "Sweep Svc Fee"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-30",
+      "doc_number": "74505798",
+      "total": 122.5,
+      "attributed": 122.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 7.56,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Gold Oxide High-Speed Steel Drill Bit, Jobbers', 3.1 mm Bit Size, 70 mm Overall Length"
+        },
+        {
+          "amount": 93.65,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "High-Speed Steel Round-Shank Reamer with Right-Hand Spiral Flute, 0.7500\" Reamer Diameter"
+        },
+        {
+          "amount": 9.75,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Sales Tax"
+        },
+        {
+          "amount": 11.54,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipping"
         }
       ]
     },
@@ -5096,6 +5468,24 @@
           "amount": 23.04,
           "account": "Inventory Asset",
           "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
+      "total": 292.25,
+      "attributed": 292.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FEDERAL EXPRESS TYPE DEBIT  ID 1 FEDERAL EXPRESS TYPE DEBIT  ID XXXXXX7007 CO FEDERAL EXPRESS NAME Black Swift Technologi",
+      "lines": [
+        {
+          "amount": 292.25,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "FEDERAL EXPRESS TYPE DEBIT  ID 1 FEDERAL EXPRESS TYPE DEBIT  ID XXXXXX7007 CO FEDERAL EXPRESS NAME Black Swift Technologi"
         }
       ]
     },
@@ -5226,6 +5616,42 @@
           "amount": 36.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping:"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 1870.0,
+      "attributed": 1870.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 1870.0,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 1275.72,
+      "attributed": 1275.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IN *K-MAC PLASTICS LLC - 7333",
+      "lines": [
+        {
+          "amount": 1275.72,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "IN *K-MAC PLASTICS LLC - 7333"
         }
       ]
     },
@@ -5536,6 +5962,24 @@
       "type": "Purchase",
       "date": "2026-10-26",
       "doc_number": "",
+      "total": 848.85,
+      "attributed": 848.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 848.85,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-26",
+      "doc_number": "",
       "total": 124.71,
       "attributed": 124.71,
       "vendor": "",
@@ -5637,6 +6081,24 @@
           "amount": 279.88,
           "account": "FACILITIES:FA-Utilities Expense",
           "description": "XCEL ENERGYPSCO TYPE XCELENERGY XCEL ENERGYPSCO TYPE XCELENERGY  ID XXXXXX6600 CO XCEL ENERGYPSCO NAME ELEVATIONSCHE648986947"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-24",
+      "doc_number": "",
+      "total": 183.63,
+      "attributed": 183.63,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 183.63,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 7333"
         }
       ]
     },
@@ -5752,6 +6214,78 @@
       "type": "Purchase",
       "date": "2026-10-23",
       "doc_number": "",
+      "total": 364.34,
+      "attributed": 364.34,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SHOP.DRONETAG.COM - 7333",
+      "lines": [
+        {
+          "amount": 364.34,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "SHOP.DRONETAG.COM - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 568.92,
+      "attributed": 568.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 568.92,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 467.64,
+      "attributed": 467.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "aliexpress - 7333",
+      "lines": [
+        {
+          "amount": 467.64,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "aliexpress - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 1271.89,
+      "attributed": 1271.89,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTOSPACE MFG USA INC - 7333",
+      "lines": [
+        {
+          "amount": 1271.89,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PROTOSPACE MFG USA INC - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
       "total": 41.54,
       "attributed": 41.54,
       "vendor": "",
@@ -5763,6 +6297,60 @@
           "amount": 41.54,
           "account": "FACILITIES:FA-Software Expenses",
           "description": "WP*WORDPRESS M1X5EGUV5 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 57.58,
+      "attributed": 57.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GRAINGER - 7333",
+      "lines": [
+        {
+          "amount": 57.58,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "GRAINGER - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 383.79,
+      "attributed": 383.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 383.79,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 312.03,
+      "attributed": 312.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "POWERWERX PRODUCT - 7333",
+      "lines": [
+        {
+          "amount": 312.03,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "POWERWERX PRODUCT - 7333"
         }
       ]
     },
@@ -5881,6 +6469,114 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-21",
+      "doc_number": "",
+      "total": 686.85,
+      "attributed": 686.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PLICSBD TYPE INSUR CLM  ID 9GPSB PLICSBD TYPE INSUR CLM  ID 9GPSBD0000 DATA PACT  CO PLICSBD",
+      "lines": [
+        {
+          "amount": 686.85,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PLICSBD TYPE INSUR CLM  ID 9GPSB PLICSBD TYPE INSUR CLM  ID 9GPSBD0000 DATA PACT  CO PLICSBD"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-21",
+      "doc_number": "",
+      "total": 1238.76,
+      "attributed": 1238.76,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PLICSBD TYPE INSUR CLM  ID 9GPSB PLICSBD TYPE INSUR CLM  ID 9GPSBD0000 DATA PACT  CO PLICSBD",
+      "lines": [
+        {
+          "amount": 1238.76,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PLICSBD TYPE INSUR CLM  ID 9GPSB PLICSBD TYPE INSUR CLM  ID 9GPSBD0000 DATA PACT  CO PLICSBD"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-21",
+      "doc_number": "",
+      "total": 113.27,
+      "attributed": 113.27,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 113.27,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "MCMASTER-CARR - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 1465.61,
+      "attributed": 1465.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CANVASWORLD - 4617",
+      "lines": [
+        {
+          "amount": 1465.61,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "CANVASWORLD - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 490.6,
+      "attributed": 490.6,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP COMMONLANDS.COM - 7333",
+      "lines": [
+        {
+          "amount": 490.6,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "SP COMMONLANDS.COM - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 1688.66,
+      "attributed": 1688.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MINI CIRCUITS MO - 4617",
+      "lines": [
+        {
+          "amount": 1688.66,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "MINI CIRCUITS MO - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-20",
       "doc_number": "",
       "total": 5400.72,
@@ -5930,6 +6626,42 @@
           "amount": 20.0,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "changed the shipping to overnight, instead of 2-day."
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 17.98,
+      "attributed": 17.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LYFT *RIDE SUN 1AM - 4617",
+      "lines": [
+        {
+          "amount": 17.98,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "LYFT *RIDE SUN 1AM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 179.17,
+      "attributed": 179.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 179.17,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "MCMASTER-CARR - 4617"
         }
       ]
     },
@@ -6027,6 +6759,78 @@
       "type": "Purchase",
       "date": "2026-10-17",
       "doc_number": "",
+      "total": 196.75,
+      "attributed": 196.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 7333",
+      "lines": [
+        {
+          "amount": 196.75,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "JAWSTEC - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 696.98,
+      "attributed": 696.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTO LABS - 4617",
+      "lines": [
+        {
+          "amount": 696.98,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PROTO LABS - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 84.87,
+      "attributed": 84.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 84.87,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "DKC*DIGI KEY CORP - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 743.9,
+      "attributed": 743.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "POWERWERX PRODUCT - 7333",
+      "lines": [
+        {
+          "amount": 743.9,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "POWERWERX PRODUCT - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
       "total": 455.0,
       "attributed": 455.0,
       "vendor": "",
@@ -6074,6 +6878,60 @@
           "amount": 55.0,
           "account": "Indirect Cost:Software Expenses",
           "description": "STARLINK INTERNET - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 251.98,
+      "attributed": 251.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTO LABS - 4617",
+      "lines": [
+        {
+          "amount": 251.98,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "PROTO LABS - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 1856.0,
+      "attributed": 1856.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WWW.MICROHARDCORP.COM - 4617",
+      "lines": [
+        {
+          "amount": 1856.0,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "WWW.MICROHARDCORP.COM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 207.56,
+      "attributed": 207.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 7333",
+      "lines": [
+        {
+          "amount": 207.56,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "JAWSTEC - 7333"
         }
       ]
     },
@@ -6174,6 +7032,24 @@
           "amount": 1755.03,
           "account": "FACILITIES:FA-Office Supplies",
           "description": "Samsung Electronics Ameri - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-15",
+      "doc_number": "",
+      "total": 369.96,
+      "attributed": 369.96,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 369.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "MCMASTER-CARR - 4617"
         }
       ]
     },
@@ -6325,6 +7201,24 @@
       "type": "Purchase",
       "date": "2026-10-14",
       "doc_number": "",
+      "total": 2009.33,
+      "attributed": 2009.33,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "GIH*GLOBALINDUSTRIALEQ - 7333",
+      "lines": [
+        {
+          "amount": 2009.33,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "GIH*GLOBALINDUSTRIALEQ - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-14",
+      "doc_number": "",
       "total": 71.7,
       "attributed": 71.7,
       "vendor": "",
@@ -6445,6 +7339,24 @@
       "type": "Purchase",
       "date": "2026-10-13",
       "doc_number": "",
+      "total": 52.95,
+      "attributed": 52.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "CAT FIVE PUBLISHING, L - 4617",
+      "lines": [
+        {
+          "amount": 52.95,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "CAT FIVE PUBLISHING, L - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-13",
+      "doc_number": "",
       "total": 70.01,
       "attributed": 70.01,
       "vendor": "",
@@ -6528,6 +7440,24 @@
           "amount": 583.27,
           "account": "FACILITIES:FA-Utilities Expense",
           "description": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-12",
+      "doc_number": "",
+      "total": 78.83,
+      "attributed": 78.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STEP GLOBAL PTY LTD - 7333",
+      "lines": [
+        {
+          "amount": 78.83,
+          "account": "Indirect Cost:Uncategorized Expense",
+          "description": "STEP GLOBAL PTY LTD - 7333"
         }
       ]
     },
@@ -6755,6 +7685,42 @@
           "amount": 113.73,
           "account": "FACILITIES:FA-Facility Repairs & Maintenance",
           "description": "ECO-CYCLE - 7333"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 749.85,
+      "attributed": 749.85,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 749.85,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "MCMASTER-CARR - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-09",
+      "doc_number": "",
+      "total": 41.54,
+      "attributed": 41.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TAILSCALE US INC. - 7333",
+      "lines": [
+        {
+          "amount": 41.54,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "TAILSCALE US INC. - 7333"
         }
       ]
     },
@@ -56152,52 +57118,6 @@
           "amount": 1396.88,
           "account": "Soil Moisture Investment",
           "description": "BILL PAY University of Virginia                ON-LINE No Account Number ON 11-07"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-05",
-      "doc_number": "",
-      "total": 114.95,
-      "attributed": 114.94999999999999,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "MCMASTER-CARR            630-834-9600 IL",
-      "lines": [
-        {
-          "amount": 30.24,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": ""
-        },
-        {
-          "amount": 84.71,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-05",
-      "doc_number": "",
-      "total": 29.18,
-      "attributed": 29.18,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON MARK* 4R2XB6C73   SEATTLE      WA",
-      "lines": [
-        {
-          "amount": 23.19,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": "Rechargeable AA Batteries with Charge"
-        },
-        {
-          "amount": 5.99,
-          "account": "Indirect Cost:Supplies:Shop SuppliesX",
-          "description": "kaverme 3PCS Precision Tweezers Set, Upgraded Anti-Static Stainless Steel of Tweezers"
         }
       ]
     }

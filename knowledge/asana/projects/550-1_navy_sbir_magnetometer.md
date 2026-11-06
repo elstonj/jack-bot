@@ -1,59 +1,68 @@
-_Asana snapshot as of 2026-11-05: 5 open tasks, 13 completed (last 90 days)._
+_Asana snapshot as of 2026-11-06: 5 open tasks, 13 completed (last 90 days)._
 
 # [550-1] NAVY SBIR: Magnetometer
 
 ## Overview
-- **Client:** Department of the Navy (NAVAIR)
-- **Technical Points of Contact:** Angel Ruiz-Reyes (Physicist, Advanced Technology Development Department, NAWCAD) and Anthony Brescia (Avionics Engineering S&T Domain Lead, NAWCAD)
+- **Client/Customer:** U.S. Department of the Navy (NAVAIR)
+- **Primary Contact:** Angel Ruiz-Reyes, Physicist, Advanced Technology Development Department, NAWCAD (angel.r.ruiz-reyes.civ@us.navy.mil, 240-587-9542)
+- **Secondary Contact:** Anthony Brescia, NAWCAD Avionics Engineering S&T Domain Lead
 - **Dollar Value:** $242,540 total budget
 - **Timeline:** 
-  - Phase I: Concluded ~September 2026 (final report & invoice submitted Sept 28-29, 2026)
-  - Option Period: Begins April 14, 2026
-  - Project Due Date Listed: 2026-09-28
-- **Status:** Phase I complete; Phase II negotiations underway
-- **Team Members:** Alex Lomis (project owner/lead), Jack Elston, Beck Cotter, Meredith O'Hara Needham, Maciej Stachura
-- **Partners:** Cetacean Research Technology (CRT) and QuSpin (subcontractors noted in project description)
+  - Phase I completion: September 28, 2026 (original due date)
+  - Option Period selected: begins April 14, 2026
+  - Phase II negotiations in progress
+- **Status:** Active — Phase I completed; transitioning to Phase II
+- **Team Members:** Alex Lomis (owner/lead), Jack Elston, Beck Cotter, Meredith O'hara Needham, Maciej Stachura, Dan Prendergast
+- **Collaborators:** Cetacean Research Technology (CRT), QuSpin
+- **Risk Signals:** Arctic Edge flight permissions still pending; Phase II negotiation status unclear
 
 ## Key Deliverables & Milestones
 
-**Phase I (Completed)**
-- Final Report (CLIN 0007) – submitted Sept 29, 2026
-- Invoice CLIN 0007 ($14,459) – submitted Sept 29, 2026
-- Camp Pendleton Demo Flights (Sept 14–25, 2026) – completed Oct 2, 2026
-- Local test flights with hand-launched S0-MAD (both sensors) – completed Oct 2, 2026
-- Design of onboard logging for both magnetometer sensors – completed Oct 2, 2026
-- Ground testing and launcher development – completed Sept 9, 2026
-
-**Phase II (In Progress/Negotiation)**
-- Negotiate Phase II contract (Dan Prendergast, no due date)
-- Flight Permissions for Arctic Edge (Beck Cotter, no due date)
-- Ping SBIR Program Office (Beck Cotter, due Nov 6, 2026)
+| Milestone | Due Date | Status | Notes |
+|-----------|----------|--------|-------|
+| Phase I Final Report (CLIN 0007) | 2026-09-28 | ✅ Completed 2026-09-29 | Submitted by Jack Elston |
+| Phase I Invoice (CLIN 0007: $14,459) | 2026-09-28 | ✅ Completed 2026-09-29 | Submitted by Meredith O'hara Needham |
+| Camp Pendleton Demo Flights | 2026-09-14–25 | ✅ Completed 2026-10-02 | Finalized flight plans and aircraft; actual flights occurred Sept 14-25 |
+| Hand-Launched S0-MAD Build & Testing | 2026-06-12 to 2026-07-01 | ✅ Completed 2026-10-02 | Built, ground-tested, and conducted local test flights with both sensors |
+| Phase II Negotiation | TBD | 🔄 In Progress | Assigned to Dan Prendergast; no due date set |
 
 ## Task Summary
-- **Total tasks:** 18 (13 completed, 5 open)
-- **Completion rate:** 72%
-- **Key assignees:**
-  - Alex Lomis: 7 tasks completed (hand-launched S0-MAD build, flight testing, launcher development)
-  - Jack Elston: 2 tasks (design/analysis, final report submission)
-  - Beck Cotter: 3 tasks (permissions, SBIR office coordination, Arctic Edge flights)
-  - Meredith O'Hara Needham: 1 task (invoice submission)
-  - Maciej Stachura: 1 task (Python tools for data analysis)
+
+- **Total Tasks:** 18 (13 completed, 5 open)
+- **Completion Rate:** 72%
+- **Tasks by Assignee (recent activity):**
+  - **Alex Lomis:** 7 completed (design, build, testing, demo flights)
+  - **Jack Elston:** 2 completed (sensor design, final report)
+  - **Beck Cotter:** 2 completed (permissions, SBIR office contact); 2 open (SBIR ping, Arctic flight permissions)
+  - **Maciej Stachura:** 1 completed (Python analysis tools)
+  - **Meredith O'hara Needham:** 1 completed (invoice submission)
+  - **Dan Prendergast:** 1 open (Phase II negotiation, unscheduled)
+  - **Unassigned (external contacts):** 2 open (Angel Ruiz-Reyes and Anthony Brescia contact tasks—appear to be stakeholder information logs rather than action items)
 
 ## Recent Activity
-Phase I work concluded in late September–early October 2026:
-- Final report and invoice submitted Sept 28–29 (on schedule)
-- Camp Pendleton demonstration flights completed Oct 2 (slightly overdue from Aug 14 target, but marked complete)
-- All hardware build and testing tasks closed out Oct 2, 2026
 
-Current focus is transitioning to Phase II:
-- Phase II negotiation underway (Dan Prendergast)
-- Arctic Edge flight permissions being pursued (Beck Cotter, no deadline)
-- SBIR Program Office coordination pending (due Nov 6)
+**Phase I Completion (Late September–Early October 2026):**
+- Final Report and Invoice (CLIN 0007) submitted on schedule: 2026-09-29
+- Camp Pendleton demo flights executed Sept 14–25, with planning and aircraft finalization completed by Oct 2
+- Hand-launched S0-MAD platform built, tested, and validated with both magnetometer and acoustic sensors
+
+**Current Status (as of March 16 status update — green):**
+- Phase I effort successfully demonstrated technical feasibility of integrated magnetic anomaly detection (MAD) and passive acoustic sensing on SL UAS platform
+- Option Period selected; Phase II begins April 14, 2026
+- Sensor integration, platform modification, and lab/field testing complete
+
+## Outstanding Items
+
+| Task | Assignee | Due Date | Status |
+|------|----------|----------|--------|
+| Ping SBIR Program Office | Beck Cotter | 2026-11-06 | Open — likely administrative follow-up |
+| Negotiate Phase II | Dan Prendergast | TBD | Open — no due date; likely in early stages |
+| Flight Permissions for Arctic Edge | Beck Cotter | TBD | Open — required for next phase testing |
 
 ## Notes & Context
-- **Scope:** Phase I demonstrated technical feasibility of integrating magnetic anomaly detection (MAD) and passive acoustic sensing into a SL UAS platform, with sensor integration, platform modification, system testing, and lab/field validation
-- **Work location:** BST facilities with field testing (Camp Pendleton demo, planned Arctic Edge flights)
-- **Collaboration:** External partners Cetacean Research Technology and QuSpin involved in development
-- **Contractor info:** Navy contact Angel Ruiz-Reyes (angel.r.ruiz-reyes.civ@us.navy.mil, (240) 587-9542) at NAWCAD, Cedar Point Road Bldg. 2185, Patuxent River, MD 20670
-- **Open administrative items:** All substantive Phase I work is complete; remaining tasks are Phase II business development and regulatory (flight permissions, contract negotiation)
-- No risk signals visible in current task list; Phase I appears on track despite some dates shifting during execution
+
+- **Scope:** Phase I focused on demonstrating feasibility of integrating MAD and passive acoustic sensing into a small-launch (SL) UAS platform, with sensor integration, platform modification, system testing, and preliminary validation in lab environments at BST facilities.
+- **Partners:** CRT and QuSpin handling specialized sensor components; BST leads integration and testing.
+- **Custom Fields:** Task notes include Navy contact details (NAWCAD address: Cedar Point Road Bldg. 2185, Patuxent River, MD 20670), product classification (S0, Design/prototyping), and CLIN tracking for budget/invoicing.
+- **Phase II:** Selected for option period beginning April 14, 2026; Dan Prendergast tasked with Phase II negotiation (likely contract amendment or statement of work refinement).
+- **Key Risk:** Arctic Edge flight permissions remain open with no due date—clarify timing with Beck Cotter to avoid delays in Phase II field testing.

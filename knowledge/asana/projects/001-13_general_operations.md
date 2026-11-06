@@ -1,86 +1,79 @@
-_Asana snapshot as of 2026-11-05: 30 open tasks, 15 completed (last 90 days)._
+_Asana snapshot as of 2026-11-06: 30 open tasks, 15 completed (last 90 days)._
 
 # [001-13] General Operations
 
 ## Overview
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
-- **Status:** Active – ongoing operations and compliance management
-- **Dollar Value:** Not explicitly stated in custom fields
-- **Key Focus Areas:** Compliance (NDAA, CMMC, European, GAAP, export controls), HR/payroll infrastructure, facilities management, operational tooling
+- **Status:** Active (ongoing operational project)
+- **Timeline:** Recurring/continuous; nearest deadline is Periodic Report filing (Sept. 9, 2027); key compliance deadlines in Oct–Nov 2026
+- **Risk Signals:** 
+  - 30 open tasks with heavy unassigned work (HR policies, compliance, facilities)
+  - Multiple compliance initiatives without assigned owners (GAAP, NDAA, CMMC, European Compliance)
+  - Stale completion dates suggest batch processing (many tasks marked done on 2026-09-28)
+
+## Key Deliverables & Milestones
+| Item | Owner | Due Date | Status |
+|------|-------|----------|--------|
+| File Periodic Report (CO SOS filing) | Meredith O'hara Needham | Sept. 9, 2027 | Open (flagged) |
+| Receive EAR ECCN classification for S3 | Dan Prendergast | Oct. 5, 2026 | Open; SNAP-R classification accepted 1/29/2026 |
+| Check Toggl for project tracking | Meredith O'hara Needham | Oct. 5, 2026 | Open (recurring task) |
+| Define part number scheme (Arena-based) | Josh Waldman | Nov. 6, 2026 | Open |
+| Setup Production Kanban board | Cory Dixon | Nov. 6, 2026 | Open |
+| Pay Rent (monthly) | Meredith O'hara Needham | Sept. 28, 2026 | Open (recurring) |
 
 ## Task Summary
-- **Total Tasks:** 30 open, 15 completed
-- **Completion Rate:** 33% (15 of 45 total)
-- **Assignee Distribution:**
-  - Meredith O'hara Needham: 6 tasks (recurring Toggl checks + financial/administrative tasks)
-  - Jack Elston: 6 tasks (mostly facilities/equipment)
-  - Dan Prendergast: 2 tasks (export controls, deployment kits)
-  - Maciej Stachura: 2 tasks (NDAA compliance, UAS status)
-  - Beck Cotter: 1 task (CMMC)
-  - Josh Waldman: 1 task (part number scheme)
-  - Cory Dixon: 1 task (Kanban board)
-  - **Unassigned:** 12 tasks (major gap – many policy/process tasks languishing)
+**Overall:** 30 open, 15 completed (33% completion rate)
 
-## Key Milestones & Deadlines
-| Task | Owner | Due Date | Status |
-|------|-------|----------|--------|
-| File Periodic Report (CO SOS) | Meredith O'hara Needham | 2027-09-04 | OPEN (originally due 09-09, now marked as open with future date) |
-| Receive EAR ECCN classification for S3 | Dan Prendergast | 2026-10-05 | OPEN (control no. Z1893789 accepted 1/29/2026; awaiting classification) |
-| Check Toggl for project tracking | Meredith O'hara Needham | 2026-10-05 | OPEN (recurring task; many prior instances completed 2026-09-28) |
-| Define part number scheme (Arena-based) | Josh Waldman | 2026-11-06 | OPEN |
-| Setup Production Kanban board | Cory Dixon | 2026-11-06 | OPEN |
-| Pay Rent | Meredith O'hara Needham | 2026-09-28 | OPEN (recurring; prior instances completed on time) |
+**By Assignee (Open Tasks):**
+- **Meredith O'hara Needham (5):** Cash forecasting, pay rent, Toggl monitoring (recurring), Periodic Report filing, check Toggl
+- **Jack Elston (6):** European Compliance, Toaster Oven, phone system, desk partitions, equipment wish list, Zendesk support
+- **Dan Prendergast (2):** EAR ECCN classification, Deployment Kits
+- **Unassigned (9):** Service Animals, Expense/Travel Policy, Deel setup, Time Allocation review, Employee Handbook, Onboarding Deck, Shop cleaning, GAAP compliance, Process Improvement
+- **Other (8):** Lynn Regnier (4), Cory Dixon (2), Maciej Stachura (2), Beck Cotter (1), Josh Waldman (1)
+
+**Patterns:**
+- Heavy HR/compliance work is unassigned (policies, handbook, onboarding)
+- Compliance initiatives (NDAA, CMMC, GAAP, European) lack clear owners or deadlines
+- Recurring "Toggl offenders" email task marked complete multiple times on same date (2026-09-28), suggesting batch closure
+- Mix of operational (rent, facilities) and strategic (compliance, process improvement) work
 
 ## Recent Activity
-- **Completed (batch on 2026-09-28):** Multiple recurring Toggl compliance checks (weekly tasks from July–September 2026), Periodic Report filing, SAM.gov renewal, monthly rent payment
-- **Pattern:** Meredith O'hara Needham has been executing recurring operational tasks on a regular schedule; batch completion on 09-28 suggests catch-up or system synchronization
-- **Currently Due/Approaching:** Toggl check due 2026-10-05; EAR ECCN classification tracking due 2026-10-05
-
-## Critical Open Items
-
-### Compliance & Regulatory (High Priority, Mostly Unassigned)
-- **NDAA Compliance** (Maciej Stachura) – supply chain security & tracing documentation
-- **CMMC Level I** (Beck Cotter) – 17 safeguards for Federal Contracting Information; Google Doc reference provided
-- **European Compliance** (Jack Elston) – no due date
-- **GAAP Compliance** (Unassigned) – financial accounting standards
-- **Export Controls** (Unassigned) – related to EAR ECCN classification work
-- **Blue or Green UAS status** (Maciej Stachura) – regulatory classification for drone/unmanned systems
-
-### HR/Payroll/Policy (Unassigned — Critical Gap)
-- Expense/Travel Policy
-- Update Employee Handbook
-- Onboarding Slide Deck
-- Holidays Guidance
-- Service Animals (policy)
-- Org Chart
-- Review Deel setup (payroll system)
-- Review Time Allocation Listing for compliance
-
-### Facilities & Equipment (Jack Elston – 6 items, no due dates)
-- Toaster Oven
-- Desk Partitions
-- Phone answering system upgrade
-- Equipment wish list
-- Shop Cleaning/Repairs
-- Zendesk for Support
-
-### Infrastructure & Process
-- Choose expense management tool (Unassigned)
-- Process Improvement (Unassigned)
-- Deployment Kits (Dan Prendergast)
-- Accordion Phase II scope / Phase I billing (Unassigned)
-
-## Risk Signals
-1. **12 unassigned tasks** – significant governance/HR/compliance work with no owner; these cover critical areas (handbook updates, expense policies, org chart)
-2. **No due dates on most policy/compliance tasks** – suggests unclear urgency or planning gaps
-3. **Periodic Report task appears twice** in data (once as completed 09-28, once as open with 2027 date) – possible data sync issue or recurring task misconfiguration
-4. **Toggl monitoring task** reassigned repeatedly but marked open (2026-10-05); pattern shows completion batches suggesting execution but ongoing enforcement need
-5. **Facilities items** assigned to Jack Elston but lack due dates – unclear priority or timeline
+- **Completed Sept. 28, 2026:** Toggl monitoring (multiple instances), Periodic Report filing, Pay Rent, SAM.gov renewal
+- **Batch completion pattern:** 10 tasks marked done on 2026-09-28, suggesting end-of-month or administrative cleanup
+- **Currently active:** Compliance reviews (NDAA, CMMC), export controls (EAR ECCN), production setup (Kanban, part numbering)
 
 ## Notes & Context
-- **SAM.gov Registration:** Renewed and completed (expires 09-05-26; renewed before 08-03-26 deadline)
-- **Export Classification:** SNAP-R reference 2026S03 shows EAR ECCN work in motion; Dan tracking through 10-05
-- **Compliance Focus:** Project reflects BST's federal contracting obligations (NDAA, CMMC, export control); these are non-negotiable and should have clear ownership
-- **Operational Execution:** Meredith O'hara Needham is reliably executing recurring financial/administrative tasks (rent, Toggl audits, reports); no apparent delays in that stream
-- **Unassigned Work Gap:** The 12 unassigned items (especially HR handbook, policies, org structure) suggest either deprioritization or capacity constraints; should be surfaced for prioritization
+
+**Compliance & Regulatory Priorities:**
+- **NDAA Compliance:** Supply chain security; tracing, documentation, and sourcing process (Maciej Stachura)
+- **CMMC Level I:** 17 safeguards for Federal Contracting Information; linked [Google Doc](https://docs.google.com/document/d/1dlpB2W2JHmfwR36Ulte_CNFxTrDgjpF2-AluIdtGU7k/edit?usp=drive_link)
+- **GAAP Compliance:** Financial reporting standards (unassigned)
+- **European Compliance:** Unassigned; likely export/regulatory (Jack Elston owns, but no due date)
+- **EAR ECCN Classification:** Commodity classification #Z1893789 accepted 1/29/2026; awaiting actual receipt of classification for S3 product (Dan Prendergast)
+
+**HR & Policy Gaps:**
+- Employee Handbook update (unassigned)
+- Holidays guidance draft (Lynn Regnier)
+- Onboarding slide deck (unassigned)
+- Service Animals policy (unassigned)
+- Expense/Travel Policy (unassigned)
+
+**Financial & Operations:**
+- **Accordion Phase II:** Lynn Regnier tracking billing/scope against industrial plan; cross-checking promised deliverables
+- **Expense management tool selection:** Awaiting decision (Lynn Regnier)
+- **Time allocation review for compliance:** Unassigned; linked to project tracking and billing accuracy
+- **Deel setup review:** Unassigned (likely payroll/contractor platform)
+
+**Facilities & Equipment:**
+- Shop cleaning/repairs (unassigned)
+- Equipment wish list and capital requests (Jack Elston owns intake; Toaster Oven, desk partitions, phone system, Zendesk for support all pending)
+
+**Production & Operations:**
+- Blue or Green UAS status (Maciej Stachura)
+- Part number scheme definition (Josh Waldman, due Nov. 6)
+- Production Kanban board setup (Cory Dixon, due Nov. 6)
+- Deployment Kits (Dan Prendergast)
+
+**Recommendation:** 
+Many critical unassigned tasks (HR policies, GAAP, NDAA documentation) should be assigned and dated to prevent bottlenecks. Compliance items lack clear ownership despite regulatory importance.

@@ -1,73 +1,72 @@
-_Computed from Toggl as of 2026-11-05: 6560.5 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-06: 6569.1 h tracked since 2020-01-01._
 
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 6,560.5 hours (all-time since 2020-01-01)
+- **Total hours tracked:** 6,569.1 hours (all-time since 2020-01-01)
 - **Primary projects (top 5 by hours):**
-  1. [001-14] SwiftCore 3.3 (IRAD) — 1,504.9 hours (22.9%)
-  2. [001-13] Corporate / Strategic Planning (Overhead) — 443.4 hours (6.8%)
-  3. [301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione) — 434.1 hours (6.6%)
-  4. [001-13] General Operations (Overhead) — 414.8 hours (6.3%)
-  5. [001-13] Proposals (IRAD) — 408.3 hours (6.2%)
-- **Time period covered:** All-time from 2020-01-01 forward
+  1. [001-14] SwiftCore 3.3 (IRAD) — 1,504.9 hours
+  2. [001-13] Corporate / Strategic Planning (Overhead) — 443.4 hours
+  3. [301-2] SBIR - Hurricane Phase II+ (NOAA: Joe Cione) — 434.1 hours
+  4. [001-13] General Operations (Overhead) — 418.3 hours
+  5. [001-13] Proposals (IRAD) — 408.3 hours
+- **Time period covered:** 2020-01-01 to present (all-time tracking)
 
 ## Project Breakdown
 
-| Project | Hours | % of Total | Client |
-|---------|-------|-----------|--------|
-| [001-14] SwiftCore 3.3 | 1,504.9 | 22.9% | IRAD |
-| [001-13] Corporate / Strategic Planning | 443.4 | 6.8% | Overhead |
-| [301-2] SBIR - Hurricane Phase II+ | 434.1 | 6.6% | NOAA (Joe Cione) |
-| [001-13] General Operations | 414.8 | 6.3% | Overhead |
-| [001-13] Proposals | 408.3 | 6.2% | IRAD |
-| [001-07] S3 IRAD | 372.6 | 5.7% | IRAD |
-| [300-3] 2026 IDIQ (Hurricane) | 354.3 | 5.4% | NOAA |
-| [301-3] S0 Hurricane Phase II - 2025 | 299.9 | 4.6% | NOAA (Joe Cione) |
-| [001-13] BD Pipeline | 264.8 | 4.0% | Overhead |
-| [550-2] Navy STTR: Hazardous Weather | 224.8 | 3.4% | Navy |
-| [550-1] Navy SBIR: Magnetometer | 196.5 | 3.0% | Navy |
-| [001-11] Methane Emission Detection IRAD | 138.2 | 2.1% | IRAD |
-| [001-04] S0 VTOL IRAD | 138.0 | 2.1% | IRAD |
-| [043-2] By Light Mustang | 109.5 | 1.7% | By Light |
-| [400-5] SBIR - SMM DoD 22.4D Phase II | 92.3 | 1.4% | Air Force |
-
-**Overhead work (Corporate/Strategic, General Ops, BD, Proposals):** ~1,531 hours (23.3% of total)
-
-**IRAD projects:** ~3,730 hours (56.8% of total)
-
-**Client/Contract work (NOAA, Navy, NASA, etc.):** ~1,300 hours (19.8% of total)
+| Project | Hours | Client | % of Total |
+|---------|-------|--------|-----------|
+| [001-14] SwiftCore 3.3 | 1,504.9 | [001] IRAD | 22.9% |
+| [001-13] Corporate / Strategic Planning | 443.4 | Overhead | 6.8% |
+| [301-2] SBIR - Hurricane Phase II+ | 434.1 | [301] NOAA: Joe Cione | 6.6% |
+| [001-13] General Operations | 418.3 | Overhead | 6.4% |
+| [001-13] Proposals | 408.3 | [001] IRAD | 6.2% |
+| [001-07] S3 IRAD | 372.6 | [001] IRAD | 5.7% |
+| [300-3] 2026 IDIQ (Hurricane) | 354.3 | [300] NOAA | 5.4% |
+| [301-3] S0 Hurricane Phase II - 2025 | 299.9 | [301] NOAA: Joe Cione | 4.6% |
+| [001-13] BD Pipeline | 264.8 | Overhead | 4.0% |
+| [550-2] Navy STTR: Hazardous Weather | 224.8 | Navy | 3.4% |
+| [550-1] Navy SBIR: Magnetometer | 196.5 | Navy | 3.0% |
+| [001-11] Methane Emission Detection IRAD | 138.2 | [001] IRAD | 2.1% |
+| [001-04] S0 VTOL IRAD | 138.0 | [001] IRAD | 2.1% |
+| Other projects (36 additional) | 752.0 | Various | 11.4% |
 
 ## Recent Activity
 
-**Current focus (last 91 entries):**
-- Heavy concentration on [001-14] SwiftCore 3.3 — dominant project in recent work
-- Increased overhead activity: [001-13] General Operations, Proposals, BD Pipeline
-- Emerging activities:
-  - Royal Navy Visit preparation/execution (9.1h + 6.6h under BD Pipeline)
-  - Royal Navy Presentation work on [550-1] Navy SBIR: Magnetometer (2.2h combined)
-  - Vantor meetings under BD Pipeline (multiple entries)
-  - TPM meeting
-  - Significant unallocated time: 16.9 hours logged to "No project"
-- [001-09] SwiftCore 4.0 appearing more frequently in recent logs
-- Most recent entries lack detailed descriptions; minimal context provided
+**Focus areas (94 most recent entries):**
+- **SwiftCore 3.3 development** — dominant recent work; regular multi-hour sessions (0.5–7.9 hours), many entries with no description
+- **General Operations** — consistent overhead work, often 1–8 hour blocks; recent entries include "Operations," "TPM Meeting," "TPM Discussion"
+- **Business Development Pipeline** — growing activity with recent specific entries: "Vantor Meeting," "GTM," "Royal Navy Visit" (two sessions of 9.1h and 6.6h), "Royal Navy Presentation"
+- **SwiftCore 4.0 development** — emerging recent activity; several entries including one longer session (5.2h)
+- **Navy SBIR: Magnetometer** — recent work including "Royal Navy Presentation" (1.0h, 1.2h entries)
+- **SOCOM Pope** — limited recent work (1.5h, 1.1h, 2.5h entries)
+- **Hurricane / NOAA projects** — sporadic recent entries (0.5–1.8 hours per session)
+
+**Notable patterns:**
+- Very few time entries include work descriptions; most recent entries lack context
+- Royal Navy engagement appears to be a significant recent business development initiative (multiple dedicated entries)
+- SwiftCore 3.3 remains the dominant workload despite emergence of SwiftCore 4.0
+- Mix of client-facing projects (Navy, NOAA, business development) and internal overhead work
 
 ## Patterns
 
-**Work distribution:**
-- SwiftCore 3.3 is the dominant focus (~23% of all time), but recent activity shows shift toward overhead/operations work
-- Overhead activities (General Ops, BD, Proposals, Strategic Planning combined) represent ~24% historically but appear elevated recently
-- NOAA Hurricane work is significant secondary focus (~16% combined: Hurricane II+, S0, 2026 IDIQ)
-- Navy/Defense contracts growing (Magnetometer, Hazardous Weather, SOCOM Pope)
+**Primary work focus:**
+- **Platform development (SwiftCore family)** — 23% of all time; primary engineering focus
+- **Internal overhead and operations** — ~18% (General Operations, Corporate Planning, Proposals, BD Pipeline combined)
+- **Government R&D contracts** — ~19% (NOAA Hurricane work, Navy SBIR/STTR, NASA, Air Force SBIR)
 
-**Shift over time:**
-- Recent entries show increased business development activity (Royal Navy engagement, Vantor meetings)
-- SwiftCore 4.0 development emerging in recent logs (13.2h historically, but 12.7h in recent 91 entries)
-- Growing engagement with Navy programs (Magnetometer 550-1 appearing frequently)
-- Reduced descriptive metadata in time entries (most recent lack task descriptions)
+**Project portfolio characteristics:**
+- Heavy investment in internal IRAD platforms (SwiftCore, S3, methane detection, VTOL systems)
+- Significant NOAA Hurricane program involvement (Joe Cione relationship)
+- Growing Navy engagement (magnetometer SBIR, hazardous weather STTR, SOCOM Pope)
+- Scattered smaller contracts and research projects across academic and government clients
 
-**Notable observations:**
-- 16.9 hours in recent period without project assignment suggests either incomplete logging or ad-hoc activities
-- Significant support/operations workload in overhead categories
-- Multi-year commitment to SwiftCore products suggests core responsibility area
-- Diverse portfolio spanning IRAD, federal contracts (NOAA, Navy, Air Force), and university partnerships
+**Shifts in focus (visible from recent data):**
+- **Increase in business development activity** — Royal Navy engagement and GTM work not reflected in legacy totals
+- **SwiftCore 4.0 emergence** — newer platform receiving development attention alongside continued 3.3 work
+- **Reduced description detail** — recent entries nearly all blank, suggesting either rapid logging or tooling change
+
+**Work style:**
+- Extended focus sessions (5–8 hour blocks common on SwiftCore work)
+- Flexible hour granularity (0.5h to 9.1h entries)
+- Mixed client delivery and internal platform development

@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-05: 1223.3 h total since 2020-01-01 — Dan 433.5 h, Jack Elston 278.5 h, Stachura 264.8 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+_Computed from Toggl as of 2026-11-06: 1262.3 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 278.5 h, Stachura 264.8 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
 
 # [001-13] BD Pipeline — Time Tracking
 
@@ -6,37 +6,41 @@ _Computed from Toggl as of 2026-11-05: 1223.3 h total since 2020-01-01 — Dan 4
 - **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 1,223.3 hours (since 2020-01-01)
+- **Total Hours Tracked:** 1,262.3 hours (since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 433.5 | 35.4% |
-| Jack Elston | 278.5 | 22.8% |
-| Stachura | 264.8 | 21.6% |
-| Beck Cotter | 154.4 | 12.6% |
-| Kareem Ahmed | 51.6 | 4.2% |
-| Spencer Hoehl | 20.2 | 1.7% |
-| Josh Fromm | 19.2 | 1.6% |
+| Dan | 472.5 | 37.4% |
+| Jack Elston | 278.5 | 22.1% |
+| Stachura | 264.8 | 21.0% |
+| Beck Cotter | 154.4 | 12.2% |
+| Kareem Ahmed | 51.6 | 4.1% |
+| Spencer Hoehl | 20.2 | 1.6% |
+| Josh Fromm | 19.2 | 1.5% |
 | Nate | 1.0 | 0.1% |
 
-**Primary Contributor:** Dan (433.5 hours)
+**Primary Contributor:** Dan (472.5 hours)
 
 ## Activity Timeline
-Recent work entries show active engagement across multiple business development initiatives:
+**Recent Work (30 most recent entries):**
+- **Royal Navy Visit** — Stachura (15.7h combined) — Major engagement activity
+- **EAB Meeting** — Jack Elston (19.8h combined) — Significant internal meetings
+- **UK RAVEN Project Kickoff** — Jack Elston (2.0h) — New project initiation
+- **Vantor Meeting/Visit** — Stachura & Jack Elston (3.2h combined) — Customer engagement
+- **White Paper work** — Jack Elston (2.0h) — NOAA Sensor Discussion, BST White Paper #6
+- **Fletch Aero partnership** — Jack Elston (0.5h) — Partner coordination
+- **GTM (Go-To-Market)** — Stachura (1.3h)
+- **Bulk time entries** — Dan (45.5h in recent entries, mostly undescribed)
 
-- **Royal Navy Visit** – Stachura (15.7 hours combined)
-- **EAB Meeting** – Jack Elston (19.8 hours combined)
-- **Vantor meetings/visits** – Jack Elston and Stachura (~3.8 hours)
-- **White Paper discussions** – Jack Elston (3.0 hours across multiple sessions)
-- **UK RAVEN Project Kickoff** – Jack Elston (2.0 hours)
-- **Fletch Aero partnership** – Jack Elston (0.5 hours)
-- **SOCOM Kickoff (BST/KS Internal)** – Jack Elston (1.0 hour)
-- **GTM work** – Stachura (1.3 hours)
-
-*Note: 45% of recent entries (10 of 22) lack descriptions; primarily from Dan (7.0h) and Stachura (3.5h).*
+**Work Pattern:** Significant meeting/engagement activity mixed with strategic initiatives (white papers, partner visits, project kickoffs). Many of Dan's entries lack descriptions.
 
 ## Insights
-- **Work Types:** Business development pipeline management focused on partnership development (Fletch Aero, Vantor, Royal Navy), proposal/technical white papers, and internal program kickoffs (SOCOM, UK RAVEN, NOAA)
-- **Activity Pattern:** Recent work concentrated among Jack Elston and Stachura; major effort clusters around international engagement (Royal Navy) and technical partnership meetings
-- **Documentation Gap:** Significant portion of recent Dan and Stachura time lacks entry descriptions, limiting visibility into specific deliverables
+- **Primary Activities:** Business development meetings, partnership engagement (Vantor, Fletch Aero), government proposal work (SOCOM, RAVEN, EAB), and strategic initiatives (white papers, GTM planning)
+- **Key Focus Areas:** 
+  - Royal Navy engagement (Stachura leading)
+  - Internal SOCOM/RAVEN project development
+  - NOAA sensor partnership discussions
+  - Vantor partnership coordination
+- **Notable Pattern:** Jack Elston leads externally-documented activities (meetings, partnerships, white papers) while Dan logs significant hours with minimal description detail
+- **Team Engagement:** Top 3 contributors (Dan, Jack Elston, Stachura) account for ~80% of tracked time; appears to be core BD team with supporting roles

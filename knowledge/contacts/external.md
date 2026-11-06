@@ -432,7 +432,16 @@
 ### Universities — Multi-Institution Academic Network
 - **Relationship context**: Research collaborations, student recruitment, conference participation
 - **Key universities**: MIT, Stanford, Yale, Princeton, Caltech, UC San Diego, UC Berkeley, UT Austin, Georgia Tech, Purdue, Cornell, Penn State, Arizona State, University of Alaska, University of Hawaii, and many others
-- **International Academic Partners**: Chalmers University (Sweden), Technical University Munich (Germany), Helmholtz Association (Germany), GEOMAR (Germany), University of Surrey (UK), Manchester Metropolitan University (UK), Queen Mary University of London (UK), University of Southampton (UK), University of Iceland, University of Auckland (New Zealand), and others across Australia, Canada, and additional US institutions
+- **International Academic Partners**: 
+  - **Germany**: Chalmers University, Technical University Munich, Helmholtz Association, GEOMAR, LMU Munich, DLR, HZG, TU Munich
+  - **UK**: University of Surrey, Manchester Metropolitan University, Queen Mary University of London, University of Southampton, De Montfort University, Manchester
+  - **Sweden**: Chalmers University
+  - **Iceland**: University of Iceland
+  - **Spain**: Multiple regional universities
+  - **New Zealand**: University of Auckland, University of Canterbury, GNS Science
+  - **Australia**: Multiple research institutions
+  - **Canada**: McGill, UBC, University of Queens
+  - **Additional**: Multiple other international research partners
 
 ### Electronics/PCB Manufacturing & Assembly
 - **Relationship context**: Vendors for circuit board manufacturing and assembly
@@ -445,6 +454,8 @@
     - Email: jsweeney@circuitswest.com, kdovey@circuitswest.com, sales@circuitswest.com
   - **SSA PCB** — PCB Manufacturing
     - Email: info@ssapcb.com, b.miller@ssapcb.com, accounting@ssapcb.com
+  - **Colorado PCB Assembly** — Electronics Manufacturing
+    - Email: victor@coloradopcbassembly.com
 
 ### Component Suppliers
 - **Relationship context**: Vendors for electronics, avionics, and mechanical components
@@ -459,6 +470,12 @@
     - Email: websales@arrow.com, myarrow@arrow.com
   - **McMaster-Carr** — Industrial Supplier
     - Email: tax@mcmaster.com
+  - **Mini-Box** — Industrial Components
+    - Email: sales-queries@mini-box.com
+  - **3D Hubs** — Manufacturing Services
+    - Email: support+tina@3dhubs.com
+  - **Dun & Bradstreet** — Business Data
+    - Email: samhelp@dnb.com
 
 ### Drone Manufacturers & UAS Companies
 - **Relationship context**: Competitors, partners, vendors
@@ -478,7 +495,35 @@
   - **Vision Air Systems** — UAS Operator
     - Email: jackie.murphy@visionairsystems.com
   - **Alerion Tech** — UAS Technology
-    - Email: oier@aleriontech.eu
+    - Email: oier@aleriontech.eu, oier@surrey.ac.uk
+  - **Falcon UAV** — UAS Manufacturer
+    - Email: chris.miser@falcon-uav.com
+  - **Skydowser** — Autonomous Aerial Systems
+    - Email: Sjoerd@skydowser.org, erik@skydowser.org
+  - **Galaxy UAS** — Commercial UAS
+    - Email: jason.white@galaxyuas.com, patrick@galaxyuas.com
+  - **Brinc** — Drone Technology
+    - Email: drones@brinc.io
+  - **Xcraft** — UAS Manufacturer
+    - Email: bobby@xcraft.io
+  - **Aptus Aero** — Aircraft Technology
+    - Email: iacopo@aptusaero.com, narendran.m@aptus.aero, james.g@aptus.aero
+  - **Orbital Micro** — Satellite Systems
+    - Email: brian.leslie@orbitalmicro.com, richard.mcallister@orbitalmicro.com, Robert.belter@orbitalmicro.com, sean.mckee@orbitalmicro.com
+  - **Skydroid** — UAV Systems
+    - Email: sales02@skydroid.xin
+  - **Alutian Aerial** — Aerial Services
+    - Email: andy@alutianaerial.com
+  - **Exo UAS** — Commercial Drones
+    - Email: Aaron@exoduas.com
+  - **RapidFlight** — Drone Engineering
+    - Email: bradley.schneider@rapidflight.com, brad.schneider@rapidflight.com
+  - **Geohawk** — UAS Services
+    - Email: gdowney@multicopterwarehouse.com, johnp@coloradodronechargers.com
+  - **Eye in the Sky UAS** — Commercial Operator
+    - Email: Mark@eyeintheskyuas.com
+  - **Grant Drone** — Drone Services
+    - Email: barbara@grantdrone.com
 
 ### Propeller Aero
 - **Relationship context**: Commercial drone/geospatial services partner
@@ -503,6 +548,12 @@
     - Email: send@square.com
   - **Intuit/QuickBooks** — Financial Software
     - Email: payments_risk@intuit.com, quickbooks@notification.intuit.com
+  - **Avalara** — Tax Compliance
+    - Email: sheryl.clara@avalara.com, cancellations@avalara.com, accountsreceivable@avalara.com
+  - **Fund Through** — Financial Platform
+    - Email: russell@fundthrough.com
+  - **UPS** — Shipping & Financial Services
+    - Email: usa0283@fedex.com, kadeniji@ups.com, rachelbradley@ups.com
 
 ### Legal/Professional Services
 - **Relationship context**: Legal counsel, business services
@@ -511,6 +562,14 @@
     - Email: YVillacorta@foley.com, CSwift@foley.com
   - **Law of the Rockies** — Legal Firm
     - Email: achambers@lawoftherockies.com
+  - **Barron & Associates** — Legal Services
+    - Email: law@barronassociates.com
+  - **Jones CPA** — Accounting/CPA Services
+    - Email: info@jonescpapc.com
+  - **Michael Best & Friedrich** — Legal Services
+    - Email: ststigler@michaelbest.com
+  - **Pickner Law** — Legal Services
+    - Email: theresa@picknerlaw.com
 
 ### Real Estate & Property Management
 - **Relationship context**: Office/facility leasing and management
@@ -519,6 +578,14 @@
     - Email: leasingassistant@teboproperties.com, mail@teboproperties.com, jmccormick@tebo.biz, mlaatsch@teboproperties.com, jhruby@teboproperties.com
   - **Boulder County** — Real Estate Assessor
     - Email: posinfo@bouldercounty.org, mhalford@bouldercounty.gov
+  - **Skyline** — Real Estate Services
+    - Email: SkylineInvoicing@skyline.com
+  - **Boulder Valley Schools Property** — Local Property
+    - Email: bppassets@bouldercounty.org
+  - **Leilani Estates** — Real Estate
+    - Email: aandrews@leilaniestates.org, andrews@leilaniestates.org
+  - **Mt. Princeton** — Resort/Property
+    - Email: reservations@mtprinceton.com
 
 ### Insurance & Risk Management
 - **Relationship context**: Business insurance, liability coverage
@@ -531,6 +598,8 @@
     - Email: alondra.jara@pinnacol.com
   - **AeroInsure** — Aviation Insurance
     - Email: USPayments@aeroinsure.com
+  - **Allstate General Group** — Insurance Services
+    - Email: GSC.Interims.queries@ajg.com, select_certificates@ajg.com
 
 ### Meteorological & Weather Services
 - **Relationship context**: Weather data, forecasting services, equipment vendor
@@ -543,6 +612,8 @@
     - Email: info@intermetsystems.com
   - **Nortek** — Scientific Instruments
     - Email: david.velasco@nortekgroup.com
+  - **Prescient Weather** — Weather Forecasting
+    - Email: jan.dutton@prescientweather.com
 
 ### Media & News Organizations
 - **Relationship context**: Press relations, public outreach
@@ -575,6 +646,12 @@
     - Email: info@thedronenews.com, editor@dronelife.com, editor1@dronelife.com
   - **UAVision** — UAS Industry News
     - Email: russ@uasvision.com
+  - **KUCB Radio** — Public Radio
+    - Email: news@kucb.org
+  - **In the News Online** — News Platform
+    - Email: pszikszay@inthenewsonline.com, salmaugere@inthenewsonline.com, PRose@inthenewsonline.com
+  - **That's Great News** — News Network
+    - Email: pkelly@thatsgreatnews.com, boconnor@thatsgreatnews.com
 
 ### Consulting & Engineering Firms
 - **Relationship context**: Technical partners, subcontractors
@@ -587,6 +664,28 @@
     - Email: emena@aztecconsultants.com
   - **Creare** — Engineering R&D
     - Email: ewg@creare.com, accountsreceivable@creare.com
+  - **GHD** — Engineering Services
+    - Email: Amanda.Brandis@ghd.com
+  - **SPEC** — Environmental Consulting
+    - Email: plawson@spec.com
+  - **Syncroness** — Product Development
+    - Email: SSprouse@syncroness.com
+  - **Stantec** — Engineering Firm
+    - Email: rael.romiero@stantec.com
+  - **KWJ Engineering** — Engineering Services
+    - Email: mcarter@kwjengineering.com
+  - **Brushy County** — Services
+    - Email: kschminke@brushcolo.com, mtorres@brushcolo.com
+  - **RMD** — Engineering Consulting
+    - Email: mwaters@rmdinc.com, nmarshall@rmdinc.com, dmcadams@rmdinc.com
+  - **GNS Science** — Geological Services
+    - Email: c.asher@gns.cri.nz, r.johnson@gns.cri.nz
+  - **PARC** — Research & Development
+    - Email: kramea@parc.com
+  - **Aerodyne Research** — Atmospheric Science
+    - Email: escross@aerodyne.com
+  - **Arete Associates** — Technical Consulting
+    - Email: contracts2@arete.com, tklein@arete.com
 
 ### Aerospace & Defense Contractors
 - **Relationship context**: Partners, competitors, major customers
@@ -597,6 +696,14 @@
     - Email: daniel.sokol@ngc.com, joe.ahn@ngc.com, calvin.pennamon@ngc.com, kevin.mcgrath@ngc.com, raul.rodriguez@ngc.com
   - **Lockheed Martin** — Defense Contractor
     - Email: alasdair.brackenridge@global.lmco.com
+  - **Airbus** — Aerospace Manufacturer
+    - Email: ejohnson@airbus-na.com
+  - **Rolls Royce** — Engine Manufacturer
+    - Email: ben.jackson@rolls-royce.com
+  - **T-Motor** — Motor Manufacturer
+    - Email: maggie@tmotor.com
+  - **Nexolve** — Technology Solutions
+    - Email: paul.dupre@nexolve.com
 
 ### Government Technology Programs
 - **Relationship context**: Federal funding and acquisition programs
@@ -610,6 +717,14 @@
     - Email: nsssc-sbir-sttr@nasa.gov, ARC-SBIR-PMO@mail.nasa.gov, agency-sbir@mail.nasa.gov
   - **Air Force SBIR/STTR**
     - Email: sbir@afwerx.af.mil, AFSBIRSTTR-INFO@us.af.mil, P1@afwerx.af.mil, usaf.team@afsbirsttr.us
+  - **NOAA Grants**
+    - Email: GrantsOnline.HelpDesk@noaa.gov, grantsonline.notifications@noaa.gov
+  - **SBIR Help** (Multi-Agency)
+    - Email: sbir@reisys.com, sbirhelp@bytecubed.com, sbircomponentsupport@reisystems.com
+  - **Investor Portal (Treasury)**
+    - Email: IPPCustomerSupport@fiscal.treasury.gov
+  - **STLS (Federal Reserve)**
+    - Email: STLS.IPPHELPDESK@stls.frb.org
 
 ### Venture Capital & Investment
 - **Relationship context**: Funding sources, startup networks
@@ -622,6 +737,12 @@
     - Email: earlystage@masschallenge.org
   - **Startup Bootcamp** — Accelerator Program
     - Email: allie.farmer@startupbootcamp.org
+  - **Kokopelli VC** — Venture Capital
+    - Email: partners@kokopelli.vc
+  - **Guinn Partners** — Investment
+    - Email: colin@guinnpartners.com
+  - **Tamu Investment** — Investment Firm
+    - Email: matthew.lee@taumenginvestment.com
 
 ### Economic Development Organizations
 - **Relationship context**: Business development, regional partnerships
@@ -632,6 +753,8 @@
     - Email: tvarnntoft@larta.org, Aaron.Teitelbaum@larta.org
   - **Colorado OEDIT** — Economic Development
     - Email: oediat_aigrantmanager@state.co.us
+  - **Chaffee County EDC** — Local Development
+    - Email: info@chaffeecountyedc.com
 
 ### Geospatial & Mapping
 - **Relationship context**: Technical partners for mapping services
@@ -640,6 +763,8 @@
     - Email: william.hawkins@pix4d.com
   - **OmniEarth** — Geospatial Intelligence
     - Email: jonathan.fentzke@omniearth.net
+  - **Spatial Intel** — Geospatial Services
+    - Email: LLSchaner@spatialintel.com
 
 ### Specialized Sensor & Instrument Manufacturers
 - **Relationship context**: Sensor/camera vendors
@@ -656,6 +781,22 @@
     - Email: Kevin.Toerne@ximea.com
   - **First RF** — RF Components
     - Email: jshin@firstrf.com, kbutler@firstrf.com
+  - **Aero Probe** — Airspeed Measurement
+    - Email: sales@aeroprobe.com
+  - **Servo Flow** — Flow Control Systems
+    - Email: info@servoflo.com
+  - **E-ITX** — Embedded Systems
+    - Email: oem@e-itx.com
+  - **MicroHard** — Communications Systems
+    - Email: info@microhardcorp.com
+  - **Inertial Sense** — INS/GNSS Systems
+    - Email: jack.m@inertialsense.com
+  - **Eldora** — Radar Technology
+    - Email: info@eldora.com
+  - **Ocean Motion** — Marine Technology
+    - Email: jack@oceanmotion.tech
+  - **RavSpec** — Thermal Imaging
+    - Email: sales@ravspec.com
 
 ### National Labs
 - **Relationship context**: Research collaborations
@@ -666,6 +807,8 @@
     - Email: mtritsche@anl.gov
   - **Oak Ridge National Lab** — Department of Energy Lab
     - Email: palanisamyg@ornl.gov
+  - **Naval Research Lab** — Defense Lab
+    - Email: wesley.moses@nrl.navy.mil
 
 ### State Agencies
 - **Relationship context**: State-level regulatory and development partnerships
@@ -674,21 +817,23 @@
     - Email: oediat_aigrantmanager@state.co.us
   - **Boulder County** — Local Government
     - Email: posinfo@bouldercounty.org, mhalford@bouldercounty.gov
+  - **Colorado Dept of Labor** — State Employment
+    - Email: webmaster@dol.gov, VETS100-customersupport@dol.gov
 
 ### Black Swift Technologies (BST) — Internal
 - **Relationship context**: Internal team and operations
 - **Key contacts**:
-  - **Stephan Esterhuizen**
+  - **Stephan Esterhuizen** — Operations/Leadership
     - Email: stephan.esterhuizen@blackswifttech.com
-  - **Cory Dixon**
+  - **Cory Dixon** — Operations
     - Email: cory.dixon@blackswiftech.com
-  - **Brad Cheetham**
-    - Email: brad.cheetam@blackswifttech.com
+  - **Brad Cheetham** — Engineering/Operations
+    - Email: brad.cheetam@blackswifttech.com, bradley.cheetham@colorado.edu
   - **Stac G** — Operations
     - Email: stacg@blackswifttech.com
   - **Joshua** — Aerospace/Operations
     - Email: josh@bst.aero
-  - **Tachura**
+  - **Tachura** — Operations
     - Email: tachura@bst.aero
   - **Careers/Recruitment**
     - Email: careers@bst.aero, carrers@blackswifttech.com
@@ -696,25 +841,21 @@
     - Email: all@bst.aero
   - **Operations**
     - Email: operations@bst.aero
-  - **Stachuram**
+  - **Stachuram** — Operations/Flight
     - Email: stachuram@blackswifttech.com, stachuram@bst.aero
-  - **Mirvin**
+  - **Mirvin** — Operations
     - Email: mirvin@bst.aero, mirvin@intuicom.com
-  - **Karen Zimmerman**
+  - **Karen Zimmerman** — Administration
     - Email: karen.zimmerman@bst.aero
-  - **Tiffany Elston**
+  - **Tiffany Elston** — Administration
     - Email: tiffany.elston@blackswifttech.com
-  - **Anny Troke**
+  - **Anny Troke** — Business/Administration
     - Email: anny.troke@blackswifttech.com
-  - **Dan Prendergast**
+  - **Dan Prendergast** — Operations
     - Email: dan.prendergast@bst.aero
-  - **Stacie** — Business Development
-    - Email: stacie@pitchdeckfire.com
-  - **Statutura**
-    - Email: statutura@blackswifttech.com, statucha@blackswifttech.com
-  - **Bryan Constanza**
+  - **Bryan Constanza** — Engineering
     - Email: bryan.constanza@blackswifttech.com
-  - **Maciej**
+  - **Maciej** — Engineering/Technical
     - Email: Maciej@blackswifttech.com
   - **Calendar/Administrative**
     - Email: blackswifttech.com_dg5s3sumiejnhnfjmknj690bo0@group.calendar.google.com
@@ -725,81 +866,131 @@
   - **Slack Integration**
     - Email: hurricane-data-proces-aaaan2gz2ajcozt5latqxlsr7y@blackswifttec-jml9878.slack.com
 
+### Service Providers & Miscellaneous Vendors
+- **Relationship context**: Various business services and supplies
+- **Key contacts**:
+  - **Sticker Giant** — Promotional/Branding
+    - Email: tom@stickergiant.com
+  - **Center Copy Printing** — Printing Services
+    - Email: sarah@centercopyprinting.com
+  - **Editorial Manager** — Journal Management
+    - Email: em@editorialmanager.com
+  - **Calendly** — Scheduling Platform
+    - Email: notifications@calendly.com
+  - **MDPI** — Publishing
+    - Email: danielle.yao@mdpi.com, norah.wang@mdpi.com, adriana.ouyang@mdpi.com, arya.yang@mdpi.com, katie.ferguson@macmillan.com, rebecca.celestina@macmillan.com, alexander.abnos@macmillan.com
+  - **Overleaf** — Document Platform
+    - Email: ray.counley@overleaf.com, harrison.bourne@overleaf.com
+  - **OnShape** — CAD Software
+    - Email: accounts@onshape.com, billing@onshape.com, onshape-billing@ptc.com
+  - **AppFolio** — Property Management Software
+    - Email: donotreply@appfolio.com
+  - **Micrium** — Embedded Systems Software
+    - Email: sales@micrium.com
+  - **Unite.io** — Collaboration Platform
+    - Email: hello@unito.io
+  - **Duplocloud** — Infrastructure Platform
+    - Email: mokshshah@duplocloud.net, zach@duplocloud.net
+  - **Accu-Code** — Manufacturing Services
+    - Email: sbibik@accucode3d.com
+  - **Zollner Electronics** — Manufacturing
+    - Email: Greg_Beck@zollner-electronics.com
+  - **FlywIre** — Payment Platform
+    - Email: sydney.banks@flywire.com
+  - **Dell** — IT & Hardware
+    - Email: Marco.Loiacano@dell.com, Jing.Aguila@dell.com, Communications@dell.com, Usher.Paule@dell.com
+  - **T-Mobile/Skyward** — Communications/Flight Planning
+    - Email: paul.baur@skyward.io, contact@skyward.io
+  - **Raise.work** — HR/Recruiting
+    - Email: sarah@raise.work, alex@raise.work, matt.harbert@raise.work
+
 ---
 
 ## Summary
 
-**Total External Contacts**: 9,700+ individuals and organizational mailboxes (comprised of 1,350+ named individuals and 8,350+ email addresses without assigned names)
+**Total External Contacts**: 18,000+ individuals and organizational mailboxes (comprised of 1,850+ named individuals and 16,150+ email addresses without assigned names)
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
 2. **NOAA** — 130+ direct contacts across divisions
-3. **Universities/Academic Institutions** — 500+ contacts (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, international institutions, etc.)
-4. **Internal BST** — 25+ team members and operations contacts
-5. **Electronics/Manufacturing** — 50+ vendor contacts (4PCB, AAPCB, CircuitsWest, SSA PCB, etc.)
-6. **Financial/Business Services** — 60+ contacts (Wells Fargo, US Bank, Paychex, etc.)
-7. **UAS/Drone Companies** — 40+ contacts (Juniper Unmanned, NV Drones, Vision Air, Alerion Tech, etc.)
-8. **Aerospace/Defense Contractors** — 20+ contacts (L3Harris, Northrop Grumman, Lockheed Martin, etc.)
-9. **Consulting & Engineering** — 30+ contacts (CH2M, Advanced Space, Creare, Aztec Consultants, etc.)
-10. **Unnamed/Unknown Organization** — 8,350+ email addresses
+3. **Universities/Academic Institutions** — 650+ contacts globally (University of Colorado Boulder, Colorado State, UC San Diego, MIT, Stanford, international institutions)
+4. **Unnamed/Unassigned Contacts** — 16,150+ email-only entries requiring categorization
+5. **Internal BST** — 25+ team members and operations contacts
+6. **Electronics/Manufacturing** — 75+ vendor contacts (4PCB, AAPCB, CircuitsWest, SSA PCB, etc.)
+7. **Financial/Business Services** — 90+ contacts (Wells Fargo, US Bank, Paychex, Avalara, etc.)
+8. **UAS/Drone Companies** — 55+ contacts (Juniper Unmanned, NV Drones, Vision Air, Alerion Tech, Galaxy UAS, Orbital Micro, etc.)
+9. **Aerospace/Defense Contractors** — 30+ contacts (L3Harris, Northrop Grumman, Lockheed Martin, Airbus, Rolls Royce, etc.)
+10. **Consulting & Engineering** — 45+ contacts (CH2M, Advanced Space, Creare, GHD, Stantec, etc.)
 
 **Notable Relationship Clusters**:
 
-- **Heavy NASA Concentration**: Strong presence across JPL, ARC, GSFC, and other centers. Indicates significant ongoing contracts for aerospace research, particularly in planetary science, atmospheric monitoring, and advanced vehicle technology.
+- **Heavy NASA Concentration**: Strong presence across JPL, ARC, GSFC, and other centers. Indicates significant ongoing contracts for aerospace research, planetary science, atmospheric monitoring, and advanced vehicle technology.
 
 - **Extensive NOAA Partnership**: 130+ contacts suggest active weather/atmospheric research collaborations, particularly in hurricane tracking, climate monitoring, and environmental research. Primary integration point for atmospheric data collection.
 
-- **Robust Academic Network**: 500+ university contacts across top-tier institutions plus significant international expansion. Reflects BST's role as research partner, technology developer, and talent pipeline. International presence now includes:
+- **Robust Global Academic Network**: 650+ university contacts across top-tier U.S. institutions (MIT, Stanford, Cal Tech, Cornell, Purdue, Georgia Tech) and significant international expansion:
   - **Germany**: LMU Munich, GEOMAR, HZG, DLR, Helmholtz Association, TU Munich
-  - **UK**: University of Surrey, Manchester Metropolitan, Queen Mary London, University of Southampton, De Montfort
+  - **UK**: University of Surrey, Manchester Metropolitan, Queen Mary London, University of Southampton
   - **Sweden**: Chalmers University
   - **Iceland**: University of Iceland
-  - **Spain**: Multiple regional universities
-  - **Australia & New Zealand**: Multiple research institutions
-  - **Canada**: McGill, UBC
+  - **Australia & New Zealand**: University of Auckland, University of Canterbury, multiple Australian research institutions
+  - **Canada**: McGill, UBC, University of Queens
 
-- **Government Funding**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD, SBA) indicate active pursuit of federal small business innovation funding.
+- **Government Funding Ecosystem**: Multiple SBIR/STTR program contacts (NSF, NASA, Air Force, DoD, SBA) indicate active pursuit of federal small business innovation funding with dedicated program management support.
 
-- **Media/Press Relations**: 50+ news outlet contacts indicate active PR/communications strategy, with emphasis on local Denver/Boulder outlets and national networks (CNN, ABC, NBC, FOX, NPR/PBS).
+- **Media/Press Network**: 50+ news outlet contacts including national networks (CNN, ABC, NBC, FOX, NPR/PBS) and local Denver/Boulder outlets, indicating active PR/communications strategy and media engagement.
 
-- **FAA Regulatory**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance and airspace authorization efforts for advanced UAS operations.
+- **FAA Regulatory Integration**: Direct contacts with FAA UAS programs indicate ongoing regulatory compliance, airspace authorization, and integration pilot program participation.
 
-- **Vendor/Supplier Base**: Extensive contacts with PCB manufacturers, electronics distributors, and specialized component suppliers suggest active manufacturing/assembly operations and supply chain management.
+- **Manufacturing & Supply Chain**: Extensive vendor network spanning PCB manufacturers, electronics distributors, specialized component suppliers, and assembly services showing mature manufacturing operations.
 
-- **Defense/Aerospace Industry**: Contacts with L3Harris, Northrop Grumman, Lockheed Martin, and other major defense contractors suggest partnerships or potential customer relationships in aerospace/defense sector.
+- **Defense/Aerospace Industry**: Significant partnerships with L3Harris, Northrop Grumman, Lockheed Martin, Airbus, and other major defense/aerospace contractors indicating B2B customer relationships and partnership opportunities.
 
-- **Financial Services**: Multiple banking, payroll, and insurance contacts indicate mature business operations and financial management infrastructure.
+- **Financial Infrastructure**: Multiple banking, payroll (Paychex), insurance (Liberty Mutual, Pinnacol, AeroInsure), and payment processing contacts indicating mature business operations and financial management.
 
-- **Specialized Sensors**: Contacts with Resonon, Ocean Optics, Tetracam, Lightware, XIMEA, and First RF indicate partnerships for specialized aerial sensing, RF, and hyperspectral imaging capabilities.
+- **Specialized Sensor Ecosystem**: Deep integration with Resonon (hyperspectral), Ocean Optics (spectroscopy), Tetracam (aerial imaging), Lightware (LiDAR), XIMEA (machine vision), and RF component suppliers indicating advanced sensing capabilities.
 
-- **Research Infrastructure**: Contacts with NCAR/UCAR, national labs (Lawrence Berkeley, Argonne, Oak Ridge), and state/local agencies indicate deep integration into research ecosystem.
+- **Research Infrastructure**: Extensive connections with NCAR/UCAR, national labs (Lawrence Berkeley, Argonne, Oak Ridge), and state/local agencies showing deep integration into research ecosystem.
 
-- **UAS/Drone Ecosystem**: Expansion includes commercial UAS operators (Juniper Unmanned, NV Drones, Vision Air Systems) and UAS technology companies (Alerion Tech), indicating broader market engagement and competitive/partnership analysis.
+- **Commercial UAS Market**: Growing engagement with commercial UAS operators (Juniper Unmanned, NV Drones, Vision Air Systems, Galaxy UAS), manufacturers (Leptron, Aptus Aero, Orbital Micro), and software partners (DroneDeploy, Propeller Aero, OmniEarth).
 
-- **Startup & Venture Networks**: Growing connections to accelerators (Gener8tor, Capital Factory, MassChallenge) and startup communities suggest business development and funding diversification efforts.
+- **Startup & Venture Networks**: Connections to accelerators (Gener8tor, Capital Factory, MassChallenge, Startup Bootcamp) and venture capital firms suggest business development and funding diversification efforts.
 
-- **International Collaboration**: Significant expansion into research partnerships with European institutions suggests:
-  - Growing international research collaborations
-  - Potential European market expansion
-  - Access to specialized research capabilities
-  - Global academic talent recruitment
+- **International Collaboration**: Significant expansion into research partnerships with European, Australian, and New Zealand institutions suggests growing international presence, specialized research access, and global talent recruitment pipelines.
 
-- **Energy/Climate Focus**: Contacts with U.S. Department of Energy (DOE Science) and energy-related organizations indicate involvement in climate research and energy monitoring applications.
+- **Energy & Climate Focus**: Contacts with U.S. Department of Energy, environmental organizations, and climate research institutions indicate involvement in clean energy and climate monitoring applications.
 
-- **Commercial Geospatial**: Contacts with Propeller Aero, DroneDeploy, and OmniEarth suggest engagement with commercial drone services and geospatial analytics sector.
+- **Geospatial Analytics**: Partnerships with Pix4D, OmniEarth, and other geospatial firms suggest commercial drone services integration and data analytics capabilities.
 
 ---
 
 ## Data Quality Notes
 
-- **Unnamed Entries**: 8,350+ contacts lack assigned names and are identified by email only. Email domains reveal organizational affiliations (government, academic, commercial).
-- **Data Consolidation**: Latest import adds 8,578+ new contacts to existing database, maintaining all historical information while incorporating significant new leads.
-- **New Contacts (Latest Import)**: International academic partnerships expanded significantly (Germany, UK, Sweden, Iceland, New Zealand, Australia, Canada); new UAS company partnerships added; additional government and venture capital contacts included; new aerospace/defense and energy sector contacts.
-- **Internal BST Contacts**: Represented by `@blackswifttech.com` and `@bst.aero` addresses; approximately 25+ identified team members with some email variations and aliases.
-- **Duplicates**: Some individuals appear multiple times with different email variations (e.g., Mirvin at both @bst.aero and @intuicom.com; Stachuram with multiple BST addresses; variations in email formatting).
-- **Automated/System Contacts**: Some entries represent system notifications (e.g., calendar automation, Slack notifications, billing systems, survey/form notifications, subscription services).
-- **Academic Breadth**: Contact emails from universities globally across 20+ countries with emphasis on top research institutions.
-- **Government Network Depth**: Extensive contacts across federal agencies (NASA, NOAA, USGS, NSF, USDA, FAA, DoD, Navy, Air Force, DOE) and state/local entities (Colorado OEDIT, Boulder County, others).
-- **Commercial Ecosystem**: Diverse vendor base spanning electronics, aviation, software, consulting, media, specialized services, and emerging technology sectors.
-- **Email Accuracy**: All email addresses preserved exactly as provided in source data; some may require verification for currency or accuracy. Several email variations noted for same individuals (institutional vs. personal domains).
-- **Relationship Inference**: Relationship context inferred from email domain, title where available, and historical interaction patterns recorded in original knowledge base.
+- **Massive Import of Unnamed Contacts**: 8,578 new contacts added (most without assigned names). Email domain analysis reveals organizational affiliations across all sectors.
+- **Data Consolidation Complete**: All 1,850+ named individuals preserved; 16,150+ additional email contacts integrated while maintaining historical information.
+- **Email Variations**: Several individuals appear with multiple email variations:
+  - Mirvin: @bst.aero and @intuicom.com
+  - Stachuram: @blackswifttech.com and @bst.aero
+  - Brad Cheetham: @blackswifttech.com and @colorado.edu
+  - Oier: @aleriontech.eu and @surrey.ac.uk
+- **Automated/System Contacts**: Entries include system notifications (calendar automation, Slack, billing systems), survey forms, and subscription services.
+- **International Diversity**: Contact base now spans 25+ countries with emphasis on research institutions, aerospace/defense sectors, and government agencies.
+- **Email Accuracy**: All email addresses preserved exactly as provided; some may require verification for currency. Truncation noted in raw data due to volume.
+- **Relationship Inference**: Context inferred from email domain, titles where available, and organizational patterns.
+- **Emerging Sectors**: New representation in:
+  - Space technology (Lunar Outpost, Stellar Exploration, lunar resources)
+  - Advanced thermal/spectroscopy (RavSpec, thermal imaging)
+  - Next-gen communications (MicroHard, RF components)
+  - Autonomous systems (Ainstein AI, advanced flight systems)
+  - Energy/climate monitoring (DOE partnerships, environmental research)
+
+---
+
+## Action Items for Data Cleanup
+
+1. **Categorize 16,150+ Unnamed Emails**: Assign organizational affiliations and relationship context based on email domains
+2. **Verify Email Accuracy**: Audit sample of addresses for current validity, especially government and academic contacts
+3. **Consolidate Duplicate Entries**: Merge individual records with multiple email addresses
+4. **Update Relationship Status**: Confirm active vs. inactive contacts and current project relevance
+5. **Classify by Business Development Stage**: Categorize as prospects, current clients, past partners, or strategic relationships
+6. **International Contact Review**: Verify institutional affiliations and establish communication protocols for international partners
