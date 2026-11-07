@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "RFQ 1305M225Q0064",
+    "number": "1305M225Q0064",
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -31,7 +31,7 @@
       {
         "category": "Labor",
         "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, Dual GPS RTK, 10Hz met data, firmware/comms/UI customization, extended endurance battery tweaks, manufacturability improvements, data buffering and re-transmission",
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps fields, Dual GPS, 10Hz met data, firmware customization, endurance improvements, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
@@ -52,19 +52,19 @@
         "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "other_qbo": {
         "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "total": 969392.07,
       "by_line_item": {}
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-06T10:45:49Z"
+    "last_reconciled": "2026-11-07T10:45:52Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-06T10:45:49Z",
+  "last_full_rebuild": "2026-11-07T10:45:52Z",
   "last_incremental_update": null
 }

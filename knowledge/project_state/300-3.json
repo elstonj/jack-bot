@@ -12,7 +12,7 @@
     "contacts": []
   },
   "contract": {
-    "type": "unknown",
+    "type": "fixed_price",
     "number": null,
     "total_value": 483000.0,
     "start_date": null,
@@ -31,42 +31,42 @@
       {
         "category": "Equipment",
         "amount": 216000.0,
-        "description": "Six (6) baseline S0 UAS platforms at $18,000 per unit",
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite communication and land-based C2 capability (SOW Document 1, Section 2.2)",
+        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite communication and/or land-based command/control integration",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 321665.0,
+        "amount": 323446.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "other_qbo": {
-        "amount": 421974.2,
+        "amount": 422196.16,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
-      "total": 745807.72,
+      "total": 747810.93,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -262807.72,
+    "remaining": -264810.93,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-06T10:45:37Z"
+    "last_reconciled": "2026-11-07T10:45:40Z"
   },
   "milestones": [
     {
@@ -147,6 +147,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-06T10:45:37Z",
+  "last_full_rebuild": "2026-11-07T10:45:40Z",
   "last_incremental_update": null
 }

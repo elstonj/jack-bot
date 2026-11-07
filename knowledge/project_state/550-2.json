@@ -33,7 +33,7 @@
         "amount": 40121.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +45,7 @@
         "amount": 119941.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-06"
+        "last_updated": "2026-11-07"
       },
       "total": 160062.25,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -21568.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-06T10:46:25Z"
+    "last_reconciled": "2026-11-07T10:46:26Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -75,14 +75,8 @@
     {
       "source": "FEEDBACK",
       "author": "Daniel Prendergast",
-      "date": "2026-10-07",
-      "text": "From Daniel Prendergast: <@U014U9WMK2A> See post :arrow_up:  for reference.  Related to previous discussions we've had.  Since some of the magnetometer integration/development is being done under US Navy Program Office (i.e., Tony), it's possible they get a say in export classification and licensing to the UK"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-07",
-      "text": "From Daniel Prendergast: <@U01511MEQ90> <@U02L91J99KM> just wanted to put something on your radar.  We should be submitting Export Classification Number (ECCN) requests very soon for several platforms to avoid affecting the pending Canada project and LMUK/Royal Navy project.  We need classifications for 1) S3 with gimballed EO/IR camera, 2) S0-AD with fixed EO/IR camera, and 3) S0-AD with magnetometer.  Unfortunately, I haven't had a chance to write up the applications.  The S3 is lower priority"
+      "date": "2026-10-30",
+      "text": "From Daniel Prendergast (ts=1793307702.169889): <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System, and the Royal Navy is calling this Project RAVEN in case it matters"
     },
     {
       "source": "FEEDBACK",
@@ -107,14 +101,8 @@
       "author": "Spencer Hoehl",
       "date": "2026-11-02",
       "text": "From Spencer Hoehl: <!here> Do we have an EPA ID as a company? Also, have we disposed of any hazardous materials within this calendar year?"
-    },
-    {
-      "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-30",
-      "text": "From Daniel Prendergast (ts=1793307702.169889): <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System, and the Royal Navy is calling this Project RAVEN in case it matters"
     }
   ],
-  "last_full_rebuild": "2026-11-06T10:46:25Z",
+  "last_full_rebuild": "2026-11-07T10:46:26Z",
   "last_incremental_update": null
 }

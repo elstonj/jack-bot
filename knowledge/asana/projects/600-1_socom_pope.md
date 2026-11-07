@@ -1,136 +1,173 @@
-_Asana snapshot as of 2026-11-06: 56 open tasks, 7 completed (last 90 days)._
+_Asana snapshot as of 2026-11-07: 58 open tasks, 10 completed (last 90 days)._
 
 # [600-1] SOCOM Pope
 
 ## Overview
-- **Client/Customer:** SOCOM (U.S. Special Operations Command)
+- **Client/Customer:** SOCOM
 - **Priority:** High
-- **Timeline:** Active project spanning November 2026–May 2027
-  - Immediate milestones: Camera selection and test plans (Nov 2026)
-  - Major test events: PCLT flight test (Mar 2027)
-  - Contract closeout: CLIN 6 complete (May 2027)
-- **Status:** Active — 56 open tasks, 7 completed; recently completed site visit and early prototyping
-- **Team Members:** Dan Prendergast (lead), Alex Lomis, Josh Fromm, Ethan Domagala, Ben Busby, Maciej Stachura, Jack Elston
-- **Risk Signals:**
-  - Multiple camera/sensor trade studies and design milestones with tight Nov–Dec 2026 deadlines
-  - Several unassigned high-level tasks (camera selection, milestone rollups, security sponsorship)
-  - Six CLINs (contract line items) to close out; staggered deliverables suggest complex, phased development
+- **Project Owner:** Dan Prendergast
+- **Status:** Active and progressing. Heavy development phase with multiple parallel CLIN tracks (PCLT, METAR, Auto-METAR, EO/IR R&R, EO/IR ATR, EO/IR FMV).
+- **Timeline:** 
+  - Current phase: November 2026 – December 2026 (camera selection, design finalization, early prototyping)
+  - Extended delivery: May 2027 (CLIN 6 completion)
+- **Team Members:** Dan Prendergast (lead), Josh Fromm (mechanical/electrical), Ethan Domagala (prototyping/build), Alex Lomis (cameras/datalink), Ben Busby (software/gimbal control), Maciej Stachura (sensors/software), Jack Elston (comms protocol)
+- **Risk Signals:** 
+  - Heavy reliance on unassigned milestones (camera/radio/processing hardware selections, CLIN 2/6 closeouts)
+  - Multiple design decision tasks lack due dates (L3 Harris meeting, FCL/DD254 sponsorship, aircraft integration questions)
+  - Aggressive November 2026 deadlines for camera/SOW/design decisions in PCLT track
 
 ## Key Deliverables & Milestones
 
-### Immediate (Nov 2026)
-| Milestone | Due Date | Owner | Notes |
-|-----------|----------|-------|-------|
-| Write requirements & hold review | 2026-11-02 | Dan Prendergast | OVERDUE (last completed 2026-11-02; duplicate open task) |
-| Bench test camera start/stop with laptop | 2026-11-03 | Alex Lomis | |
-| Write day/night camera test plans | 2026-11-03 | Alex Lomis | Informal test plans for FoV/resolution assessment |
-| Daytime camera tests | 2026-11-06 | Alex Lomis | Various FoV and resolution assessments |
-| Software post-processing for video | 2026-11-06 | Dan Prendergast | |
-| Draft SOW & Requirements (CoVar) | 2026-11-06 | Dan Prendergast | |
-| Select cameras | 2026-11-06 | Dan Prendergast | Part of All-variants Common Camera Selection milestone |
-| Nighttime camera tests (STARVIS) | 2026-11-10 | Alex Lomis | |
-| Document camera trade study & selection | 2026-11-11 | Unassigned | |
+### CLIN 1: PCLT (Precision Cargo Lift Test)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| All-variants Common Camera Selection | Dan Prendergast | 2026-11-13 |
+| All-variants Common Processing Hardware Selection | Unassigned | TBD |
+| All-variants Common Radio Selection | Unassigned | TBD |
+| PCLT Test Launch at SOCOM Facility | Dan Prendergast | 2026-11-13 |
+| Design Changes for PCLT Flight Test | Josh Fromm | 2026-12-11 |
+| PCLT Flight Test | Dan Prendergast | 2027-03-05 |
+| CLIN 1 Closeout | Dan Prendergast | 2027-03-12 |
 
-### Near-term (Dec 2026–Jan 2027)
-| Milestone | Due Date | Owner | Notes |
-|-----------|----------|-------|-------|
-| PCLT Test Launch at SOCOM Facility | 2026-11-13 | Dan Prendergast | Draft report due same date |
-| Design Changes for PCLT Flight Test | 2026-12-11 | Josh Fromm | Includes separation verification, aircraft installation questions |
-| Comm Protocol Design & Implementation (PCLT) | 2026-12-17 | Alex Lomis | |
-| Build Prototype S0 METAR | 2026-12-22 | Ethan Domagala | |
-| Mechanical/Electrical Updates (PCLT) | 2026-12-23 | Josh Fromm | |
-| Software for Payload Integration (PCLT) | 2027-01-22 | Ben Busby | Autonomous collection patterns, image compression, triggers |
-| Bench, Ground, Local Flight Testing (METAR) | 2027-01-09 | Ethan Domagala | |
-| System-level Requirements | 2027-01-04 | Dan Prendergast | |
+### CLIN 2: METAR (Meteorological Automated Transmission)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| Comm Protocol Design & Implementation | Jack Elston | 2026-11-24 |
+| Mechanical & Electrical Design Updates | Josh Fromm | 2026-11-25 |
+| Software for Payload Integration | Ben Busby | 2026-12-03 |
+| Build Prototype S0 METAR | Ethan Domagala | 2026-12-22 |
+| Bench, Ground, Local Flight Testing | Ethan Domagala | 2027-01-09 |
+| Operational Flight Evaluation | Dan Prendergast | 2027-01-26 |
+| CLIN 2 Closeout | Unassigned | 2027-03-12 |
 
-### Mid-term (Jan–Mar 2027)
-| Milestone | Due Date | Owner | Notes |
-|-----------|----------|-------|-------|
-| Sensor Trade Studies (Precipitation, Cloud/Ceiling, Visibility) | 2027-01-29 | Maciej Stachura | Three parallel evaluations |
-| Datalink radio selection & integration | 2027-01-29 | Alex Lomis | |
-| Gimbal control & video UI development | 2027-01-29 | Ben Busby | |
-| ATR Selection & Integration | 2027-01-19 | Dan Prendergast | Model questions recorded; all unclassified datasets & models |
-| Operational Flight Evaluation (METAR) | 2027-01-26 | Dan Prendergast | |
-| Build Prototype S0 EO/IR R&R | 2027-01-28 | Ethan Domagala | |
-| PCLT Flight Test | 2027-03-05 | Dan Prendergast | Major test event; multiple variants align to this |
-| CLIN 1 Closeout | 2027-03-12 | Dan Prendergast | |
-| CLIN 2 Closeout | 2027-03-12 | Unassigned | |
+### CLIN 3: Auto-METAR (Automated METAR)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| System-level Requirements | Dan Prendergast | 2027-01-04 |
+| Precipitation Sensor Trade Study | Maciej Stachura | 2027-01-29 |
+| Cloud Layer & Ceiling Sensor Trade Study | Maciej Stachura | 2027-01-29 |
+| Horizontal Visibility Sensor Trade Study | Maciej Stachura | 2027-01-29 |
+| Comm Protocol Design & Implementation | Unassigned | TBD |
+| Mechanical & Electrical Design Updates | Josh Fromm | 2027-02-17 |
+| Software for Payload Integration | Maciej Stachura | 2027-03-05 |
+| Build Prototype S0 Auto-METAR | Ethan Domagala | 2027-02-24 |
+| Bench, Ground, Local Flight Test | Ethan Domagala | 2027-03-19 |
+| Operational Flight Evaluation | Dan Prendergast | 2027-03-05 |
+| CLIN 2 Closeout (duplicate entry) | Unassigned | 2027-03-12 |
 
-### Later Phase (Mar–May 2027)
-| Milestone | Due Date | Owner | Notes |
-|-----------|----------|-------|-------|
-| Build Prototype S0 Auto-METAR | 2027-02-24 | Ethan Domagala | |
-| Build Prototype S0 EO/IR FMV variant | 2027-02-24 | Ethan Domagala | |
-| EO/IR Real-time ATR variant build | 2027-04-02 | Ethan Domagala | |
-| CLIN 4 Closeout | 2027-03-12 | Dan Prendergast | |
-| CLIN 5 Closeout | 2027-05-28 | Dan Prendergast | |
-| CLIN 6 Complete | 2027-05-31 | Unassigned | Final contract milestone |
+### CLIN 4: EO/IR R&R (Reconnaissance & Recovery)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| Comm Protocol Design & Implementation | Alex Lomis | 2026-12-17 |
+| Mechanical & Electrical Design Updates | Josh Fromm | 2026-12-23 |
+| Software for Payload Integration | Ben Busby | 2027-01-22 |
+| Build Prototype S0 EO/IR R&R | Ethan Domagala | 2027-01-28 |
+| Bench, Ground, Local Flight Testing | Ethan Domagala | 2027-02-12 |
+| Operational Flight Evaluation | Dan Prendergast | 2027-03-05 |
+| CLIN 4 Closeout | Dan Prendergast | 2027-03-12 |
+
+### CLIN 5: EO/IR ATR (Automatic Target Recognition)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| ATR Selection and Integration | Dan Prendergast | 2027-01-19 |
+| Comm Protocol Design & Implementation | Alex Lomis | 2027-01-20 |
+| Mechanical & Electrical Design Updates | Unassigned | 2027-01-26 |
+| Software for Payload Integration | Ben Busby | 2027-04-01 |
+| Build Prototype S0 EO/IR Real-time ATR Variant | Ethan Domagala | 2027-04-02 |
+| Bench, Ground, Local Flight Testing | Ethan Domagala | 2027-04-19 |
+| Operational Flight Evaluation | Dan Prendergast | 2027-04-24 |
+| CLIN 5 Closeout | Dan Prendergast | 2027-05-28 |
+
+### CLIN 6: EO/IR FMV (Full Motion Video)
+| Milestone | Owner | Due Date |
+|-----------|-------|----------|
+| Gimballed Camera Trade Study | Dan Prendergast | 2026-11-25 |
+| Datalink Radio Selection & Integration | Alex Lomis | 2027-01-29 |
+| Gimbal Control & Video UI Development | Ben Busby | 2027-01-29 |
+| No-comm Transit Mode Development | Maciej Stachura | 2027-02-15 |
+| Build Prototype S0 EO/IR FMV Variant | Ethan Domagala | 2027-02-24 |
+| Bench, Ground, Local Flight Test | Ethan Domagala | 2027-03-19 |
+| Operational Flight Evaluation | Dan Prendergast | 2027-03-22 |
+| CLIN 6 Closeout Slides/Report | Dan Prendergast | 2027-03-26 |
+| CLIN 6 Complete | Unassigned | 2027-05-31 |
 
 ## Task Summary
+- **Total Tasks:** 68 (58 open, 10 completed)
+- **Completion Rate:** 14.7% (very early stage)
+- **Tasks by Assignee:**
+  - Dan Prendergast: 15 tasks (project lead, owner of most milestones)
+  - Ethan Domagala: 10 tasks (prototyping and builds across all CLINs)
+  - Josh Fromm: 7 tasks (mechanical/electrical design)
+  - Ben Busby: 5 tasks (software, gimbal control)
+  - Alex Lomis: 5 tasks (cameras, datalink, comms)
+  - Maciej Stachura: 4 tasks (sensors, software)
+  - Jack Elston: 1 task (CLIN 2 comms protocol)
+  - Unassigned: 16 tasks (critical gaps in radio selection, processing hardware, and closeout ownership)
 
-### Completion Status
-- **Total:** 56 open, 7 completed (11% completion rate)
-- **Completion trajectory:** Recent activity shows early-phase validation (site visit Oct 30, prototype PCLT completed Oct 30); most work ahead
-
-### Tasks by Assignee (Open Tasks)
-| Assignee | Count | Focus Areas |
-|----------|-------|------------|
-| Dan Prendergast | 16 | Requirements, camera selection, software post-processing, test reports, closeouts (CLIN 1–6) |
-| Ethan Domagala | 11 | Prototype builds (METAR, EO/IR variants), bench/flight testing across all CLINs |
-| Alex Lomis | 7 | Camera testing (day/night, bench), comm protocol design (PCLT & later variants) |
-| Josh Fromm | 6 | Design changes (PCLT flight test), mechanical/electrical updates (PCLT & later) |
-| Ben Busby | 4 | Software payload integration (PCLT, EO/IR real-time ATR), gimbal UI |
-| Maciej Stachura | 4 | Sensor trade studies (3 parallel), software automation (Auto-METAR variant) |
-| Jack Elston | 1 | Comm protocol design (initial) |
-| Unassigned | 7 | Camera selection/trade-study documentation, camera/radio/processing selection milestones, CLIN 2 & 6 closeouts, aircraft integration questions |
-
-### Notable Patterns
-- **Six CLIN structure:** Project is segmented into six contract line items (PCLT, METAR, Auto-METAR, EO/IR R&R, EO/IR real-time ATR, EO/IR FMV), each with parallel design→build→test→closeout workflows
-- **Camera work front-loaded:** Alex Lomis carrying most early camera validation (test plans, day/night tests, trade study documentation)
-- **Ethan Domagala bottleneck risk:** 11 prototype builds across 6 variants; densest schedule Oct 2026–May 2027
-- **Unassigned critical tasks:** Security sponsorship (FCL/DD254), hardware selections (camera, radio, processing), and final CLIN closeouts lack assigned owners
-- **Milestones without due dates:** All-variants Common selections (Camera, Processing Hardware, Radio) and some design tasks have no target dates—likely blocked on earlier stages
+- **Notable Patterns:**
+  - Project organized into 6 parallel CLIN tracks, each with similar deliverable structure (comms → mech/elec → software → build → test → closeout)
+  - Heavy concentration of design work November 2026 – December 2026
+  - Ethan Domagala is critical path for all prototype builds (Jan–May 2027)
+  - Multiple duplicate/conflicting milestone entries (e.g., three "Comm Protocol Design & Implementation" tasks with different owners/dates; two "CLIN 2 Closeout" entries)
 
 ## Recent Activity
-
-- **Oct 30, 2026 (completed):**
-  - Site visit and instrumented S0 launch at SOCOM facility completed by Josh Fromm
-  - Prototype PCLT S0 with accelerometer completed by Ethan Domagala
-  - Questions resolved on-site regarding in-flight tube loading and power switch access
+- **Last Completed (Nov 6, 2026):**
+  - Daytime camera tests completed (Alex Lomis) – FoV and resolution assessments done
+  - Write day/night camera test plans completed (Alex Lomis)
+  - Bench test of camera start/stop completed (Alex Lomis)
+  - Monthly customer PM update meeting set up (Dan Prendergast)
   
-- **Nov 2–5, 2026 (recent/completing):**
-  - Monthly customer update meeting held (Nov 5)
-  - Multiple requirements/design docs marked complete (Nov 2)
-
-- **Upcoming critical path (Nov 2026):**
-  - Camera test plans and bench testing begin immediately (Alex Lomis, due Nov 3)
-  - Daytime/nighttime camera assessments running in parallel (due Nov 6 & Nov 10)
-  - PCLT test launch scheduled Nov 13 with report due same day
-  - Gimballed camera trade study (Dan Prendergast, due Nov 25)
+- **Approaching Deadlines (Nov–Dec 2026):**
+  - **Due Nov 2, 2026 (OVERDUE):** Write requirements and hold review (Dan Prendergast) – appears to have been completed Nov 2
+  - **Due Nov 6, 2026 (IMMINENT):** 
+    - Software post-processing of video for assessments (Dan Prendergast)
+    - Draft SOW and Requirements for CoVar (Dan Prendergast)
+    - Select cameras (Dan Prendergast)
+  - **Due Nov 10–13, 2026:** 
+    - Nighttime camera tests (Alex Lomis)
+    - Document camera trade study & selection (Unassigned)
+    - PCLT Test Launch at SOCOM Facility (Dan Prendergast)
+    - Draft report for test PCLT launch results (Dan Prendergast)
+    - All-variants Common Camera Selection milestone (Dan Prendergast)
+  - **Due Nov 24–25, 2026:** Comms protocol design & mech/elec updates (multiple tracks)
 
 ## Notes & Context
 
-### Payload/Variant Strategy
-The project encompasses six operational variants—all sharing common components where possible:
-1. **PCLT:** Pod-mounted, early flight test platform
-2. **METAR:** Meteorological automated reporting sensor package
-3. **Auto-METAR:** Autonomous METAR variant
-4. **EO/IR R&R:** Electro-optical/infrared reconnaissance & reconnaissance variant
-5. **EO/IR Real-time ATR:** EO/IR with real-time automatic target recognition (AI/ML models confirmed unclassified)
-6. **EO/IR FMV:** EO/IR full-motion video variant
+### Critical Dependencies & Blockers
+1. **Unassigned High-Impact Tasks:**
+   - Processing hardware selection (no owner, no due date) – affects all CLINs
+   - Radio selection (no owner, no due date) – affects all CLINs
+   - Multiple CLIN closeouts assigned to "Unassigned" (CLIN 2, 3, 6)
+   
+2. **Aircraft Integration Questions (PCLT Design Changes, Josh Fromm, due Dec 11):**
+   - Safe separation verification for 16 lb S0
+   - Angle of PCLT installed in host aircraft
+   - Gap between aircraft skin and PCLT tube exit rim
+   - Methods for payloads to sense clear of PCLT tube
+   - All lack due dates and clear owners — represents critical design risk
 
-Each has distinct design, build, and test phases but converges on shared radio, processing, and comm protocols.
+3. **Compliance/Sponsorship Gaps:**
+   - FCL/DD254 sponsorship request (Unassigned, no due date) – likely required for security clearance
+   - L3 Harris image intensifier meeting (Unassigned, no due date)
 
-### Key Technical Questions (from task notes)
-- **EO/IR ATR models:** Confirmed all training data and models are unclassified, open-source; validation results and label list pending
-- **Autonomous collection patterns:** Option to fly in circle and capture at cardinal headings; back-end functions include triggers, compression, calibration
-- **PCLT aircraft integration:** Safe separation for 16 lb payload, installation angle, and gap between aircraft skin and tube exit rim still under clarification
+### Key Technical Notes
+- **Camera Selection (PCLT):** Comparing STARVIS sensor (Sony IMX585) with various lens filters for nighttime capability
+- **ATR Variant:** Using all open-source, unclassified models for development; validation datasets and model labels documented
+- **Auto-METAR:** Three parallel sensor trade studies (precipitation, cloud/ceiling, visibility) due Jan 29, 2027
+- **FMV Variant:** Includes gimballed camera control, UI development, and no-comm transit mode
+- **Software Themes:** Autonomous data collection patterns (fly circles, take data at cardinal headings), image compression, calibration, triggers
 
-### Risk & Dependencies
-- **Unassigned ownership:** Camera selection, hardware milestones, and CLIN 2/6 closeouts lack assigned leads
-- **Security clearance dependency:** "Ask Jags for FCL/DD254 sponsorship" (unassigned, no due date) may gate later phases if not resolved soon
-- **Prototype pipeline:** Ethan Domagala has 11 builds across 6 variants with overlapping schedules (risk of schedule compression)
-- **Test facility access:** SOCOM facility availability for Nov 13 PCLT launch and Mar 2027 flight test not explicitly confirmed
+### Data Quality Issues
+- **Duplicate Milestones:** Three separate "Comm Protocol Design & Implementation" entries (Jack Elston due 11/24, Alex Lomis due 12/17, Alex Lomis due 1/20) suggest either copy-paste errors or unclear delineation between CLIN variants
+- **CLIN 2 Closeout Listed Twice:** Both Nov 2027-03-12 dates but unclear if this is Auto-METAR vs. METAR
+- **Inconsistent Ownership:** High number of unassigned tasks vs. clear ownership elsewhere suggests task structure may need refinement
 
-### Dollar Value
-No contract value visible in task data; custom field data not provided. Infer from CLIN structure that this is a phased, multi-deliverable government development contract.
+### Timeline Summary
+- **Q4 2026:** Camera/radio/hardware selection, initial design reviews, PCLT ground/launch testing
+- **Q1 2027:** METAR prototype build/test, Auto-METAR sensor studies, EO/IR R&R build/test
+- **Q2 2027:** EO/IR ATR & FMV builds, operational flight evaluations
+- **May 2027:** Final CLIN 6 closeout
+
+---
+
+**Last Updated in Asana Data:** November 6, 2026 (data appears current as of early Nov 2026)

@@ -1,62 +1,44 @@
-_Computed from Toggl as of 2026-11-05: 2573.3 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 354.3 h, Sam Hild 267.7 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 90.6 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
+_Computed from Toggl as of 2026-11-07: 2587.6 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 354.3 h, Sam Hild 272.0 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 100.5 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
 
 # [300-3] 2026 IDIQ (Hurricane) — Time Tracking
 
 ## Overview
-- **Client:** [300] NOAA
+- **Client:** NOAA ([300])
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 2,573.3 hours (all-time, since 2020-01-01)
+- **Total Hours Tracked:** 2,587.6 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Nate | 513.5 | 19.9% |
-| Josh Fromm | 479.0 | 18.6% |
-| Jack Elston | 447.0 | 17.4% |
-| Stachura | 354.3 | 13.8% |
-| Sam Hild | 267.7 | 10.4% |
+| Nate | 513.5 | 19.8% |
+| Josh Fromm | 479.0 | 18.5% |
+| Jack Elston | 447.0 | 17.3% |
+| Stachura | 354.3 | 13.7% |
+| Sam Hild | 272.0 | 10.5% |
 | Alex | 126.3 | 4.9% |
-| Ethan Domagala | 119.8 | 4.7% |
-| Ali Sulehria | 90.6 | 3.5% |
+| Ethan Domagala | 119.8 | 4.6% |
+| Ali Sulehria | 100.5 | 3.9% |
 | Kareem Ahmed | 83.6 | 3.2% |
 | Spencer Hoehl | 78.9 | 3.1% |
 | Dan | 12.8 | 0.5% |
 
-**Primary Contributors:** Nate, Josh Fromm, and Jack Elston collectively represent 56% of tracked time.
+**Primary Contributors:** Nate, Josh Fromm, and Jack Elston (combined ~55.6% of all hours)
 
 ## Activity Timeline
+**Recent Work Patterns (60 most recent entries):**
 
-**Recent Work Patterns (57 most recent entries):**
+Recent activity shows active development with consistent 7-9 hour work days. Notable work includes:
 
-The project shows active engagement across multiple workstreams:
-
-- **GPS & S0 Board Development:** Ali Sulehria leading S0 GPS board testing, QA preparation, and PSNS debugging/testing activities
-- **Radio Systems:** Ali Sulehria debugging AP core 2 p400 radio issues and setting up development environment
-- **Power Systems:** Jack Elston investigating power-off issues
-- **Mission Support:** Jack Elston contributing to mission support activities and NOAA/BST monthly coordination
-- **UI Design:** Jack Elston allocating time to UI design work
-- **General Development:** Josh Fromm and Sam Hild sustaining high activity levels with primarily undocumented work entries
-
-**Recent Contributors (last 57 entries):**
-- Ali Sulehria: 25 entries (focused, documented work)
-- Sam Hild: 11 entries (high volume, minimal documentation)
-- Jack Elston: 10 entries (mixed technical and coordination)
-- Josh Fromm: 6 entries (high volume hours)
-- Others: 5 entries combined
+- **Ali Sulehria:** Primary focus on S0 GPS board testing, PSNS debugging, AP core 2 p400 radio issues, and QA preparation (appears in ~22 of 60 recent entries)
+- **Sam Hild:** Sustained full-day contributions with minimal task descriptions (~11 entries, 60+ hours)
+- **Jack Elston:** Mixed activities including Mission Support, PSNS Debugging, UI Design, and project coordination (~11 entries)
+- **Josh Fromm:** Consistent 8-hour daily blocks with no task descriptions (~8 entries)
+- **Stachura & Alex:** Minimal recent activity; Stachura shows small incremental entries
 
 ## Insights
-
-**Work Types:**
-- Hardware debugging and testing (GPS boards, radio systems, power management)
-- Board-level development and QA preparation
-- Mission support and client coordination
-- UI/UX design work
-- Systems integration and onboarding activities
-
-**Notable Patterns:**
-- **Documentation Gap:** 64% of recent entries lack descriptions, limiting visibility into Josh Fromm and Sam Hild's activities
-- **Focused Work:** Ali Sulehria shows consistently documented, hardware-focused contributions
-- **Core Team:** Nate, Josh Fromm, and Jack Elston form the backbone of effort; wide distribution across 11 team members suggests active program with multiple specialties
-- **Recent Momentum:** Project remains actively staffed with recent daily work entries across multiple team members
+- **Work Focus:** Hardware-centric development with emphasis on GPS boards, radio systems, and PSNS (Payload Support Network System) debugging and testing
+- **Team Composition:** Project led by three primary contributors with a secondary tier of 4-5 supporting team members
+- **Documentation Gap:** ~70% of recent entries lack task descriptions, limiting visibility into day-to-day activities
+- **Activity Level:** Sustained high activity indicates ongoing development phase with regular testing and debugging cycles
+- **Emerging Work:** UI Design and hardware onboarding suggest product maturation and new contributor integration

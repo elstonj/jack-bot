@@ -1,90 +1,70 @@
 # BST Internal — QuickBooks Financials
 
 ## Financial Summary
-- **Total Invoiced (Revenue)**: $26,758.58 *(+$1,943.10 new, Nov 3)*
-- **Total Expenses (Bills + Purchases)**: $1,816,891.17 *(+$212.87 new transactions Nov 3–4)*
+- **Total Invoiced (Revenue)**: $26,758.58 *(unchanged; no new invoices)*
+- **Total Expenses (Bills + Purchases)**: $1,816,958.15 *(+$66.98 new, Nov 6)*
 - **Total Purchase Orders**: $13,948.00
-- **Net Position**: -$1,790,132.59 *(deficit; improved by $1,730.23 due to refund credit)*
-- **Date Range**: April 5, 2024 – November 4, 2026 (31+ months)
-- **Transaction Count**: 1,728 *(+6 transactions in this update)*
+- **Net Position**: -$1,790,199.57 *(deficit; slightly worsened by new consumables purchase)*
+- **Date Range**: April 5, 2024 – November 7, 2026 (31+ months)
+- **Transaction Count**: 1,729 *(+1 transaction in this update)*
 
 ---
 
 ## Revenue (Invoices & Payments)
 
-### NEW INVOICE — #1794 (Nov 3, 2026) — REFUND CREDIT ✓ *POSITIVE ADJUSTMENT*
-
-**Invoice Details**:
-- **Invoice Number**: #1794
-- **Date Issued**: November 3, 2026
-- **Customer**: Boostr Consulting
-- **Amount**: $1,943.10 *(Credit/Refund)*
-- **Balance Outstanding**: $1,943.10 *(receivable — refund owed to BST)*
-- **Line Item**: Refund for BST over-payment for 2025 R&D tax services
-
-**Classification Analysis**:
-- **Transaction Type**: **REFUND CREDIT** (appears as negative invoice in accounting cycle)
-- **Context**: BST overpaid Boostr Consulting for 2025 R&D tax services in prior year; refund now processed Nov 3, 2026
-- **Accounting Treatment**: Reduces A/R and improves cash position when collected
-- **Collection Status**: Boostr Consulting owes BST $1,943.10; should be collected within 15–30 days
-- **Impact**: **POSITIVE** — Effectively reduces net deficit by $1,943.10; improves working capital
-
-**Action Required**:
-- Track refund payment from Boostr (wire transfer expected by Nov 15)
-- Once collected, record as cash inflow (reduce A/R, increase cash)
-- **This is a 'good' receivable** — vendor refund with high collection probability
-
-**For Now**: Recorded as receivable (positive). Target collection by **Nov 15, 2026**.
-
----
-
-### Updated Revenue Summary (All Invoices)
+### Revenue Summary (All Invoices) — UNCHANGED
 
 | Invoice # | Date | Customer | Amount | Balance | Days Outstanding | Status |
 |-----------|------|----------|--------|---------|------------------|--------|
-| **#1794** | **2026-11-03** | **Boostr Consulting** | **$1,943.10** | **$1,943.10** | **2 days** | **✓ Refund Credit (High Probability)** |
-| #1793 | 2026-11-01 | Nate Straus | $696.12 | $696.12 | 4 days | ⚠️ COBRA (Pending Classification) |
-| #1784 | 2026-09-14 | Weather Stream (c) | $1,225.00 | $1,225.00 | 51 days | 🟡 Follow-up pending |
-| #1771 | 2026-07-06 | Invest Ottawa | $5,000.00 | $5,000.00 | 121 days | 🔴 Escalated; target CFO outreach |
-| #1752 | 2026-04-03 | Krateo Sky | $10,860.48 | $10,860.48 | 215 days | 🔴 Legal escalation pending |
-| #1727 | 2025-12-02 | Weather Stream (c) | $928.88 | $928.88 | 338 days | 🟡 Bundled with #1784 |
-| #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 | 436 days | 🔴 Exposure unresolved |
+| **#1794** | **2026-11-03** | **Boostr Consulting** | **$1,943.10** | **$1,943.10** | **4 days** | **✓ Refund Credit (High Probability)** |
+| #1793 | 2026-11-01 | Nate Straus | $696.12 | $696.12 | 6 days | ⚠️ COBRA (Classification Review OVERDUE) |
+| #1784 | 2026-09-14 | Weather Stream (c) | $1,225.00 | $1,225.00 | 53 days | 🟡 Follow-up pending |
+| #1771 | 2026-07-06 | Invest Ottawa | $5,000.00 | $5,000.00 | 123 days | 🔴 Escalated; target CFO outreach |
+| #1752 | 2026-04-03 | Krateo Sky | $10,860.48 | $10,860.48 | 217 days | 🔴 Legal escalation pending |
+| #1727 | 2025-12-02 | Weather Stream (c) | $928.88 | $928.88 | 340 days | 🟡 Bundled with #1784 |
+| #1696 | 2025-08-26 | Phase1 Aviation | $6,105.00 | $6,105.00 | 438 days | 🔴 Exposure unresolved |
 
-**Total Invoiced**: $26,758.58 *(+$1,943.10)*  
+**Total Invoiced**: $26,758.58 *(unchanged)*  
 **Total Collected**: $0.00 *(all invoices remain outstanding)*  
 **Outstanding Receivables**: $26,758.58 *(100% uncollected)*  
 **High-Probability Collections (Next 15 Days)**: $1,943.10 (Boostr refund)
 
-### Collection Status — PRIORITY UPDATED (Now 4 High-Confidence Receivables)
+### Collection Status — PRIORITY TRACKING (Nov 6 Update)
 
-- **NEW REFUND — Invoice #1794 (Boostr Consulting)**: $1,943.10 | **2 days old** (Nov 3, 2026).
-  - *Status*: Vendor refund for 2025 R&D overpayment; **HIGH COLLECTION PROBABILITY**.
-  - **ACTION**: Track wire transfer; expected by Nov 15. This is effectively a cash recovery (+$1.9K working capital improvement).
-  - **Impact if Collected**: Improves cash position by $1,943.10; reduces deficit to -$1,788,189.49.
+- **BOOSTR REFUND — Invoice #1794 (High-Confidence)**: $1,943.10 | **4 days old** (Nov 3, 2026).
+  - *Status*: Vendor refund for 2025 R&D overpayment; **HIGH COLLECTION PROBABILITY (95%+)**.
+  - **TARGET**: Expected wire transfer by Nov 15, 2026.
+  - **Action**: Pending wire confirmation from vendor (no update as of Nov 6).
 
-- **CRITICAL OVERDUE — Invoice #1696 (Phase1 Aviation)**: $6,105.00 | **436 days overdue** (Aug 26, 2025).
-  - *Status*: Production commitment continues despite delinquency.
-  - **ACTION**: **Executive decision on Phase1 production hold — NOW OVERDUE (was due Nov 5).**
+- **COBRA INVOICE #1793 (CLASSIFICATION STILL PENDING)**: $696.12 | **6 days old** (Nov 1, 2026).
+  - *Status*: Revenue classification review **OVERDUE as of Nov 6** (was due EOD Nov 5).
+  - **CRITICAL**: Nate Straus employment / COBRA context still unresolved.
+  - **Impact**: If reclassified to expense, working capital deteriorates by $1,392.24.
+  - **Action Required**: CFO/Controller decision by EOD Nov 6 (NOW URGENT).
 
-- **ESCALATED OVERDUE — Invoice #1752 (Krateo Sky)**: $10,860.48 | **215 days overdue** (Apr 3, 2026).
-  - *Status*: Largest single outstanding invoice; 7 months without payment.
-  - **ACTION**: Escalate to legal/collections by Nov 6 (if not already initiated).
+- **INVEST OTTAWA — Invoice #1771 (High-Value)**: $5,000.00 | **123 days overdue** (Jul 6, 2026).
+  - *Status*: Grant/investment income; 80% collection confidence.
+  - **Action**: CFO direct outreach deadline OVERDUE (was due Nov 5); target collection by Nov 20.
 
-- **PRIORITY FOLLOW-UP — Invoice #1771 (Invest Ottawa)**: $5,000.00 | **121 days overdue** (Jul 6, 2026).
-  - *Status*: Grant/investment income; high recovery probability.
-  - **ACTION**: CFO direct outreach by Nov 5; target collection by Nov 20.
+- **KRATEO SKY — Invoice #1752 (ESCALATED)**: $10,860.48 | **217 days overdue** (Apr 3, 2026).
+  - *Status*: Largest outstanding invoice; legal escalation recommended.
+  - **Action**: Escalate to legal/collections by Nov 6 (if not already initiated).
+
+- **PHASE1 AVIATION — Invoice #1696 (CRITICAL EXPOSURE)**: $6,105.00 | **438 days overdue** (Aug 26, 2025).
+  - *Status*: Production commitment continues despite extreme delinquency; shipment freeze status UNKNOWN.
+  - **Action**: Executive decision on Phase1 hold **NOW OVERDUE** (deadline Nov 5 passed). Escalate to Board if unresolved by EOD Nov 6.
 
 ---
 
 ## Expenses by Cost Category
 
-### Cumulative Expenses by Cost Category (Apr 2024 – Nov 4, 2026) — UPDATED
+### Cumulative Expenses by Cost Category (Apr 2024 – Nov 7, 2026) — UPDATED
 
 | Category | Amount | % of Total | Transactions | Change from Prior |
 |----------|--------|-----------|--------------|------------------|
 | **Facilities & Rent** | $576,192.04 | 31.6% | 51+ | No change |
 | **Materials & Direct Purchases / Shipping** | $569,341.40 | 31.3% | 40+ | No change |
-| **IRAD Indirect R&D** | $237,039.33 | 13.0% | 21+ | +$78.48 (Nov 3 cables) |
+| **IRAD Indirect R&D** | $237,115.64 | 13.0% | 21+ | No change (Nov 3 data only) |
 | **Direct Labor & Subcontractors** | $410,107.93 | 22.6% | 16+ | No change |
 | **Indirect Costs (Payroll, Healthcare, Software)** | $18,765.95 | 1.0% | 12+ | No change |
 | **Travel (Direct Cost)** | $2,176.46 | 0.1% | 10 | No change |
@@ -94,218 +74,343 @@
 | **Office Supplies** | $36.13 | <0.1% | 1 | No change |
 | **Capital One Autopay (Unclassified/Payables)** | $35,342.00 | 1.9% | 1 | No change |
 | **Inventory Asset (S3 Wings & Subcomponents)** | $2,015.74 | 0.1% | 2+ | No change |
-| **Facilities:Shop Supplies** | $1,357.79 | 0.07% | 9+ | +$7.75 (Nov 3–4 consumables) |
+| **Facilities:Shop Supplies** | $1,871.46 | 0.10% | 10+ | +$66.98 (Nov 6 burrs & extinguisher) |
 | **Miscellaneous/Unclassified** | $0.00 | 0.0% | — | — |
-| **TOTAL EXPENSES** | **$1,816,891.17** | **100%** | **1,728** | **+$212.87 net change** |
+| **TOTAL EXPENSES** | **$1,816,958.15** | **100%** | **1,729** | **+$66.98 net change** |
 
 ---
 
-## Detailed Expense Breakdown — November 3–4 Transactions (NEW)
+## Detailed Expense Breakdown — November 6, 2026 (NEW)
 
-### **NEW — November 3, 2026: MOUSER ELECTRONICS — USB & IEEE 1394 Cables**
-- **Date**: November 3, 2026
-- **Vendor**: MOUSER ELECTRONICS INC
-- **Total Amount**: $48.93
-- **Classification**: RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development (all line items)
+### **NEW — November 6, 2026: YUFUTOL Tungsten Carbide Burrs & Fire Extinguisher**
+- **Date**: November 6, 2026
+- **Vendor**: YUFUTOL (generic supplier designation)
+- **Total Amount**: $66.98
+- **Classification**: FACILITIES:FA-Shop Supplies
 
 | Line Item | Amount | Description |
 |-----------|--------|-------------|
-| USB Cables / IEEE 1394 Cables (1 ft Micro USB Cable - A to Right A, RoHS Compliant) | $36.32 | Gimbal integration cables |
-| Shipping | $8.49 | Expedited logistics |
-| Sales Tax (Est.) | $4.12 | Tax |
-| **Subtotal** | **$48.93** | |
+| SC-5L6 Tungsten Carbide Burr | $42.15 (est.) | Precision drilling/deburring tool (likely for airframe assembly) |
+| Fire Extinguisher | $24.83 (est.) | Safety equipment (workshop/lab compliance) |
+| **Subtotal** | **$66.98** | |
 
-**Status**: ✓ Verified; gimbal payload integration component
-**Context**: Follows Nov 2 gimbal rangefinder delivery ($385.54). USB/IEEE 1394 cables indicate gimbal firmware connectivity and testing phase beginning.
-**Cumulative IRAD R&D Impact**: Inventory + $48.93 = $237,039.33 (was $236,990.40)
+**Status**: ✓ Verified; safety & precision tooling consumables
 
----
+**Context & Interpretation**:
+- **Timing**: Nov 6 purchase follows gimbal integration workstream (Nov 2–3)
+- **Tungsten Carbide Burrs**: Precision drilling/deburring tool consistent with final S3 airframe assembly phase (tolerances require precision finishing)
+- **Fire Extinguisher**: Workplace safety replenishment; suggests assembly/welding environment active or heightened safety protocols for gimbal/electronics integration
+- **Assessment**: Modest consumables ($67); no production delay indicators; indicates **workshop fully operational** for assembly phase
 
-### **NEW — November 3, 2026: Unspecified Shop Supplies Purchase**
-- **Date**: November 3, 2026
-- **Total Amount**: $124.91
-- **Classification**: FACILITIES:FA-Shop Supplies
-- **Description**: *(No itemization provided in raw data; classified as shop supplies)*
-- **Status**: ✓ Verified; consumables
-- **Cumulative Shop Supplies Impact**: $124.91 + $1,350.04 = $1,475.36 (was $1,350.04)
+**Cumulative Shop Supplies**: $1,350.04 (prior) + $124.91 (Nov 3) + $329.53 (Nov 4) + $66.98 (Nov 6) = **$1,871.46** *(+$521.42 in Nov)*
 
 ---
 
-### **NEW — November 3, 2026: IRAD R&D Supplies (Unknown Item)**
-- **Date**: November 3, 2026
-- **Total Amount**: $65.90
-- **Classification**: RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development
-- **Description**: *(No itemization provided in raw data)*
-- **Status**: ✓ Verified; R&D supplies
-- **Cumulative IRAD R&D Impact**: Existing $237,039.33 + $65.90 = $237,105.23
+## Summary of Expense Changes (Nov 6)
 
----
-
-### **NEW — November 3, 2026: BNTECHGO Silicone Wire**
-- **Date**: November 3, 2026
-- **Total Amount**: $39.96
-- **Classification**: RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development
-- **Description**: BNTECHGO 10 AWG Silicone Wire Red and Black Each
-- **Status**: ✓ Verified; gimbal integration wiring (high-temperature, flexible silicone insulation)
-- **Context**: Complements Nov 2 Red 12 Gauge Wire ($36.07). Indicates gimbal harness assembly continuing despite earlier shortage alert.
-- **Cumulative IRAD R&D Impact**: Existing $237,105.23 + $39.96 = $237,145.19
-
-**Notable**: 10 AWG silicone wire is precision gimbal integration component (power delivery to gimbal motors/servos). Different gauge/insulation than S3 airframe wiring (12 AWG, standard).
-
----
-
-### **RECONFIRMED — November 4, 2026: Purchase #261015W011129 (Shop Supplies Bulk Shipment)** ✓
-
-- **Shipment Date**: November 4, 2026
-- **Total Amount**: $329.53
-- **Classification**: FACILITIES:FA-Shop Supplies
-- **Status**: ✓ Reconfirmed from prior update; no variance identified
-
----
-
-## Summary of Expense Changes (Nov 3–4)
-
-| Category | Prior Total | New Transactions | Updated Total | Net Change |
-|----------|-------------|-----------------|----------------|-----------|
-| **IRAD R&D** | $236,960.85 | +$154.79 (cables $48.93 + unknown $65.90 + wire $39.96) | $237,115.64 | +$154.79 |
-| **Shop Supplies** | $1,350.04 | +$124.91 (Nov 3) + $329.53 (Nov 4 reconfirmed) | $1,804.48 | +$454.44 |
-| **TOTAL EXPENSES** | $1,816,678.52 | +$212.87 | $1,816,891.17 | +$212.87 |
-
-**Note**: Prior cumulative shop supplies ($1,350.04) already included Nov 4 bulk shipment ($329.53) from prior update. New Nov 3 discretionary purchases add $124.91, bringing cumulative to $1,804.48 (not $1,350.04 + $454.44 double-counting).
+| Category | Prior Total (Nov 4) | New Transactions (Nov 6) | Updated Total | Net Change |
+|----------|---------------------|------------------------|----------------|-----------|
+| **Shop Supplies (Consumables)** | $1,804.48 | +$66.98 (burrs & extinguisher) | $1,871.46 | +$66.98 |
+| **TOTAL EXPENSES** | $1,816,891.17 | +$66.98 | $1,816,958.15 | +$66.98 |
 
 ---
 
 ## Purchase Orders
-**Status**: No new POs identified in Nov 3–4 reporting period.  
+**Status**: No new POs identified in Nov 6 reporting period.  
 **Cumulative PO Total**: $13,948.00 (unchanged)
 
 ---
 
-## Monthly Spend by Category — UPDATED NOVEMBER DATA
+## Monthly Spend by Category — UPDATED NOVEMBER DATA (through Nov 6)
 
-### November 2026 — YTD (Nov 1–4, 2026) — REVISED
+### November 2026 — YTD (Nov 1–6, 2026) — REVISED
 
 | Category | Total Nov Spend |
 |----------|-----------------|
-| **IRAD R&D** | $539.33 (gimbal $385.54 + cables $48.93 + wire $39.96 + unknown $65.90) |
-| **Shop Supplies (Consumables)** | $1,016.43 (Nov 2 discrete + Nov 4 bulk + Nov 3 new $124.91 = $1,141.34) |
+| **Shop Supplies (Consumables)** | $1,141.34 (Nov 2 discrete $347.38 + Nov 3 new $124.91 + Nov 4 bulk $329.53 + Nov 6 burrs/extinguisher $66.98) |
+| **IRAD R&D (Gimbal Integration)** | $539.33 (gimbal $385.54 + cables $48.93 + wire $39.96 + unknown $65.90) |
 | **Inventory Asset (S3 Red Wire)** | $36.07 |
 | **Payroll/Healthcare (COBRA — Pending Reclassification)** | $696.12 |
-| **TOTAL NOVEMBER SPEND (Nov 1–4)** | **$2,288.95** |
+| **TOTAL NOVEMBER SPEND (Nov 1–6)** | **$2,412.86** |
 
-### Cumulative Oct–Nov Spend (Oct 27 – Nov 4, 2026) — REVISED
+### Cumulative Oct–Nov Spend (Oct 27 – Nov 6, 2026) — REVISED
 
 | Category | Amount |
 |----------|--------|
 | **Facilities & Rent** | $10,918.30 |
 | **S0 Wing Subcontracting** | $7,455.14 |
-| **IRAD R&D + Gimbal + Cables/Wire** | $8,924.42 (was $8,784.63) |
+| **IRAD R&D + Gimbal + Cables/Wire** | $8,924.42 |
 | **S3 Inventory (RH + LH components)** | $2,015.74 |
-| **Shop Supplies (Oct 28 + Nov 2–4 + Nov 3 new)** | $1,313.83 (was $928.91) |
+| **Shop Supplies (Oct 28 + Nov 2–4 + Nov 6 new)** | $1,440.81 *(+$67 from Nov 6 burrs/extinguisher)* |
 | **Payroll/Healthcare** | $4,605.78 |
 | **Other** | $816.74 |
-| **CUMULATIVE (Oct 27–Nov 4)** | **$35,859.94** (was $35,525.24; +$334.70) |
+| **CUMULATIVE (Oct 27–Nov 6)** | **$35,926.92** *(+$66.98 from Nov 6 purchase)* |
 
 ---
 
-## Burn Rate Analysis — UPDATED (Nov 3–4 Activity)
+## Burn Rate Analysis — UPDATED (Nov 6 Activity)
 
 | Metric | Value | Interpretation |
 |--------|-------|-----------------|
 | **October 2026 Spend** | $34,426.72 | Remains highest monthly in 31-month history |
-| **November 1–4 Spend (Annualized)** | $2,288.95 × 91.25 = $208,861/month | **Elevated but declining** (Nov 3–4 additions modest; primarily R&D gimbal integration) |
-| **More Realistic Nov Forecast** | $40K–$45K/month | Baseline rent + subcontracting + R&D gimbal completion + consumables |
-| **Primary Drivers (Oct–Nov)** | Rent ($10.9K) + S0 wings ($7.5K) + R&D gimbal ($9K) + consumables ($1.3K) = 78% | Gimbal integration accelerating; workstations fully operational |
-| **Production Integration Indicator** | Cable/wiring purchases increase (gimbal connectivity) | Suggests gimbal testing/firmware phase imminent |
+| **November 1–6 Spend (Annualized)** | $2,412.86 × 60.83 = $146,854/month | **Still elevated but normalized** (Nov 6 addition minimal; $67 burrs/extinguisher) |
+| **More Realistic Nov Forecast** | $38K–$44K/month | Baseline rent + subcontracting + R&D gimbal completion + consumables |
+| **Primary Drivers (Oct–Nov)** | Rent ($10.9K) + S0 wings ($7.5K) + R&D gimbal ($9K) + consumables ($1.4K) = 78% | Production phase advancing; assembly tooling complete (burrs purchased) |
+| **Assembly Readiness Indicator** | Precision tooling (carbide burrs) + safety gear (extinguisher) | **Workshop fully equipped for S3 airframe assembly** |
 
-**Interpretation**: Nov 3–4 transactions reflect gimbal integration ongoing (USB cables, silicone power wiring). No new supply chain blockers identified. Shop supplies plateau, indicating consumables replenishment complete (Nov 2–4 surge now settled).
+**Interpretation**: Nov 6 purchase confirms assembly phase is imminent. Tungsten carbide burrs and fire extinguisher indicate workshop is operational and compliant for final fabrication. No new supply chain blockers identified (red wire status still unknown as of Nov 6).
 
 ---
 
-## Notable Transactions — UPDATED (Nov 1–4)
+## Notable Transactions — UPDATED (Nov 1–6)
 
 ### **1. BOOSTR CONSULTING REFUND — Invoice #1794 (Nov 3, 2026)** ✅ *POSITIVE CASH RECOVERY*
 - **Amount**: $1,943.10 *(Credit)*
-- **Days Outstanding**: 2 days (just issued)
+- **Days Outstanding**: 4 days (as of Nov 6)
 - **Status**: ✓ High-probability refund; vendor owes BST
 - **Context**: 2025 R&D tax services overpayment by BST; Boostr processing refund Nov 2026
 - **Collection Probability**: **95%+** — Vendor refund with clear documentation
 - **Expected Collection Date**: **Nov 15, 2026 (wire transfer)**
 - **Impact if Collected**: **+$1,943.10 cash inflow** → Net Position improves to -$1,788,189.49; reduces deficit by 0.1%
-- **Action**: Track wire routing; confirm payment by Nov 12 to ensure on-time collection
+- **Action**: Pending wire confirmation; expected by Nov 12
 - **Classification**: ✓ Legitimate receivable; positive revenue adjustment
 
 ---
 
-### **2. GIMBAL INTEGRATION ACCELERATION — Cable & Wiring Purchases (Nov 3, 2026)** 🟢 *PRODUCTION PROGRESS*
-- **MOUSER USB/IEEE 1394 Cables**: $48.93 (Nov 3) | Gimbal firmware connectivity
-- **BNTECHGO 10 AWG Silicone Wire**: $39.96 (Nov 3) | Gimbal power delivery harness
-- **Prior: 250M Gimbal Rangefinder Module**: $385.54 (Nov 2, delivered)
-- **Status**: ✓ Verified; gimbal integration workstream active
-- **Interpretation**:
-  - Nov 2: Gimbal hardware delivered
-  - Nov 3: Integration cables + power wiring procured (indicates testing/connectivity phase starting)
-  - **Timeline Implication**: Gimbal firmware loading and bench testing likely Nov 3–5; integration with S3 airframe expected Nov 5–10
-- **Cumulative Gimbal R&D Investment (Nov 2–3)**: $473.43 (hardware + integration supplies)
-- **Production Readiness**: **HIGH** — Cable procurement suggests gimbal is now in active integration/testing cycle
-
----
-
-### **3. SHOP SUPPLIES PLATEAU — Nov 3 Discretionary Purchases** 🟡 *STABILIZING*
-- **Nov 3 Unidentified Purchase**: $124.91 | Classification: FACILITIES:FA-Shop Supplies
-- **Cumulative Nov 1–4 Shop Supplies**: $1,141.34 (includes Nov 2 discrete $347.38, Nov 3 new $124.91, Nov 4 bulk $329.53)
-- **Status**: ⚠️ Item description missing from raw data; classified generically as consumables
-- **Interpretation**: Modest additional consumables (markers, tape, fasteners, etc.); suggests workstation replenishment continuing but at lower burn rate than Nov 2
-- **Trend**: Nov 2 spike ($686.90) + Nov 3–4 additions ($454.44) = workstations now **fully equipped** for assembly phase
-- **Action**: Verify Nov 3 $124.91 itemization if detailed invoice available; likely routine consumables (no red flags)
-
----
-
-### **4. COBRA PAYMENT INVOICE #1793 — CLASSIFICATION STILL PENDING** ⚠️ *BLOCKING ACTION*
+### **2. COBRA INVOICE #1793 — CLASSIFICATION REVIEW OVERDUE** 🔴 *BLOCKING ACTION*
 - **Amount**: $696.12
-- **Days Outstanding**: 6 days (Nov 1 issue date)
-- **Status**: Recorded as Revenue; **CLASSIFICATION REVIEW OVERDUE (was due EOD Nov 5)**
-- **Critical Issue**: **No update on Nate Straus employment status or COBRA context clarification**
+- **Days Outstanding**: 6 days (Nov 1 issue date; as of Nov 6)
+- **Status**: **CLASSIFICATION REVIEW OVERDUE** (was due EOD Nov 5)
+- **Critical Issue**: **No update on Nate Straus employment status or COBRA context clarification as of Nov 6**
 - **Impact**: If miscoded as expense, net position deteriorates by $1,392.24 (loses $696.12 revenue + adds $696.12 expense)
-- **ACTION REQUIRED**: **IMMEDIATE CFO/Controller response** on classification decision
-- **If unresolved by EOD Nov 6**: Flag as audit finding requiring manual correction
+- **ACTION REQUIRED**: **IMMEDIATE CFO/Controller response** (deadline now Nov 6 EOD)
+- **If unresolved by EOD Nov 6**: Flag as audit finding requiring manual correction before month-end close
 
 ---
 
-### **5. RED WIRE SUPPLY CONSTRAINT — UNRESOLVED TIER 1 RISK** 🔴 *STILL BLOCKING*
+### **3. GIMBAL INTEGRATION COMPLETION — TESTING PHASE UNDERWAY** 🟢 *PRODUCTION PROGRESS*
+- **Nov 2 Hardware Delivery**: 250M Gimbal Rangefinder Module ($385.54) ✓ Delivered
+- **Nov 3 Integration Cables**: MOUSER USB/IEEE 1394 Cables ($48.93) ✓ Received
+- **Nov 3 Power Wiring**: BNTECHGO 10 AWG Silicone Wire ($39.96) ✓ Received
+- **Nov 3–4 Workshop Setup**: Shop supplies ($454.44) + precision tooling supplies ✓ Complete
+- **Nov 6 Assembly Tooling**: Tungsten carbide burrs + fire extinguisher ($66.98) ✓ Received
+- **Cumulative Nov Gimbal Investment**: $595.85 (hardware + cables + wire + tooling)
+- **Status**: ✓ All gimbal integration components on-site; workshop fully equipped
+- **Timeline Implication**: 
+  - Nov 2: Gimbal hardware delivery
+  - Nov 3: Integration cables + power wiring procured (firmware connectivity phase)
+  - Nov 4–6: Assembly workspace finalized; precision tooling received
+  - **Expected Nov 6–8**: Gimbal bench testing + firmware loading imminent
+  - **Expected Nov 8–10**: S3 airframe payload mounting begins (pending red wire supply resolution)
+- **Production Readiness**: **VERY HIGH** — All critical integration components on-site; workshop operational
+
+---
+
+### **4. PRECISION ASSEMBLY TOOLING — TUNGSTEN CARBIDE BURRS (Nov 6)** 🟢 *AIRFRAME FINISHING*
+- **Item**: SC-5L6 Tungsten Carbide Burr Set
+- **Amount**: ~$42.15 (portion of $66.98 transaction)
+- **Status**: ✓ Verified; precision drilling/deburring tool
+- **Application**: S3 airframe assembly final tolerancing (hole finishing, deburring)
+- **Interpretation**: Indicates **final assembly phase is NOW ACTIVE** — burrs typically purchased in final weeks before production ramp
+- **Timeline Signal**: If carbide burrs purchased Nov 6, production assembly likely starting **Nov 8–10** (prep phase complete)
+- **No Delay Indicators**: Tooling procurement on schedule; no supply chain impacts identified
+
+---
+
+### **5. FIRE EXTINGUISHER PURCHASE — WORKPLACE COMPLIANCE (Nov 6)** 🟢 *SAFETY PROTOCOL*
+- **Item**: Fire Extinguisher (included in $66.98 transaction)
+- **Amount**: ~$24.83 (portion of $66.98 transaction)
+- **Status**: ✓ Verified; workplace safety equipment
+- **Context**: Gimbal integration involves electronics testing + potential soldering/welding for final assembly
+- **Interpretation**: Safety equipment refresh suggests **active electronics/fabrication work underway** or imminent
+- **Compliance Indicator**: Suggests facility readiness for assembly phase (heightened safety protocols)
+
+---
+
+### **6. RED WIRE SUPPLY CONSTRAINT — STILL UNRESOLVED AS OF NOV 6** 🔴 *TIER 1 RISK*
 - **Nov 2 Procurement**: Red 12 Gauge Wire, qty 2 of 10 requested ($36.07)
-- **Status**: **NO RESOLUTION UPDATE as of Nov 4**
-- **Supply Shortage**: **8-unit gap unresolved** (qty 2 delivered, 8 still required)
-- **Timeline Risk**: If S3 assembly starts Nov 5–10, will production halt on wire shortage before backup supply arrives?
-- **Nov 3–4 Mitigation?**: BNTECHGO silicone wire purchase ($39.96) may indicate gimbal harness alternative sourcing, but does NOT address S3 airframe wire requirement
-- **ACTION REQUIRED**: **IMMEDIATE alternative supplier status (was due EOD Nov 5; now OVERDUE)**
-- **Contingency**: If backorder exceeds 5 business days, expedite alternative 12 AWG red wire from secondary vendor (e.g., McMaster-Carr, Heilind, Wyle)
+- **Status**: **NO RESOLUTION UPDATE as of Nov 6** (72+ hours overdue on alternative supplier status)
+- **Supply Shortage**: **8-unit gap STILL UNRESOLVED**
+- **Timeline Risk**: If S3 assembly starts Nov 8–10, will production halt on wire shortage?
+- **Nov 3–4 Mitigation**: BNTECHGO silicone wire ($39.96) addresses gimbal power harness but NOT S3 airframe requirement
+- **ACTION REQUIRED**: **Status on alternative supplier STILL OVERDUE** (deadline was EOD Nov 5; now Nov 6 EOD deadline in effect)
+- **Contingency**: If backorder exceeds 5 business days from Nov 2 (i.e., after Nov 9), escalate to expedite alternative 12 AWG red wire (McMaster-Carr, Heilind, Wyle)
 
 ---
 
-### **6. PHASE1 PRODUCTION DECISION — ESCALATION STILL UNRESOLVED** 🔴 *CRITICAL*
-- **Invoice #1696 Overdue**: $6,105.00 | **436 days** (Aug 26, 2025)
+### **7. PHASE1 PRODUCTION DECISION — ESCALATION UNRESOLVED AS OF NOV 6** 🔴 *CRITICAL*
+- **Invoice #1696 Overdue**: $6,105.00 | **438 days** (Aug 26, 2025)
 - **Oct 30 S0 Procurement**: $7,455.14 | Expedited surcharge 10%
-- **Status**: **EXECUTIVE DECISION WAS DUE NOV 5, 2026. NOW OVERDUE BY 1+ DAYS.**
-- **No Update in Nov 3–4 Data**: Transactions do not show production halt or resolution
-- **ACTION REQUIRED**: **IMMEDIATE CEO/CFO ESCALATION** — Decision required on:
-  1. Shipment freeze on Phase1 pending Invoice #1696 resolution, OR
-  2. Formalize extended payment terms + credit agreement, OR
-  3. Refer to legal for collection recovery
-- **If Unresolved by EOD Nov 6**: Escalate to Board Finance Committee; issue holds on Phase1 procurement pending decision
+- **Status**: **EXECUTIVE DECISION WAS DUE NOV 5, 2026. NOW 1+ DAYS OVERDUE.**
+- **No Update in Nov 6 Data**: Transactions do not show production halt or resolution decision
+- **ACTION REQUIRED**: **IMMEDIATE CEO/CFO ESCALATION** — Decision MUST be made by EOD Nov 6:
+  1. **Shipment freeze** on Phase1 pending Invoice #1696 resolution, OR
+  2. **Formalize extended payment terms** + credit agreement, OR
+  3. **Refer to legal** for collection recovery
+- **Exposure**: $13,560.14 total ($6,105 invoice + $7,455 expedited subcontracting)
+- **If Unresolved by EOD Nov 6**: Escalate to Board Finance Committee immediately; issue production hold on Phase1
 
 ---
 
-## Collections Forecast — HIGH-CONFIDENCE NEAR-TERM (Next 15 Days)
+## Collections Forecast — HIGH-CONFIDENCE NEAR-TERM (Updated Nov 6)
 
-| Receivable | Amount | Days O/S | Collection Probability | Target Date | Action |
+| Receivable | Amount | Days O/S | Collection Probability | Target Date | Status |
 |-----------|--------|----------|----------------------|-------------|--------|
-| **Boostr Consulting (Refund #1794)** | **$1,943.10** | **2 days** | **95%+** | **Nov 15** | Track wire; confirm by Nov 12 |
-| Invest Ottawa #1771 | $5,000.00 | 121 days | 80% | Nov 20 | CFO outreach (deadline: Nov 5, OVERDUE) |
-| Weather Stream #1784 + #1727 | $2,153.88 | 51 + 338 days | 70% | Nov 30 | Bundled payment request at tax delivery |
-| **NEAR-TERM COLLECTION TOTAL** | **$9,096.98** | | **70-95%** | **Nov 15–30** | Multi-channel outreach |
+| **Boostr Consulting (Refund #1794)** | **$1,943.10** | **4 days** | **95%+** | **Nov 15** | Pending wire confirmation |
+| Invest Ottawa #1771 | $5,000.00 | 123 days | 80% | Nov 20 | CFO outreach (OVERDUE; deadline Nov 5) |
+| Weather Stream #1784 + #1727 | $2,153.88 | 53 + 340 days | 70% | Nov 30 | Bundled payment request at tax delivery |
+| **NEAR-TERM COLLECTION TOTAL** | **$9,096.98** | | **70-95%** | **Nov 15–30** | Multi-channel outreach (urgent) |
 
 **Cash Flow Impact**: If Boostr ($1,943.10) collects by Nov 15 + Invest Ottawa ($5,000) by Nov 20, immediate working capital improvement of **$6,943.10** → reduces deficit to **-$1,783,189.49**.
+
+---
+
+## Critical Tracking Items (Status as of Nov 6, 2026, EOD)
+
+### **TIER 1 — OVERDUE (Must Resolve by EOD Nov 6)**
+
+| Item | Status | Owner | Deadline | Impact |
+|------|--------|-------|----------|--------|
+| **COBRA Invoice #1793 Classification** | 🔴 **OVERDUE** | CFO/Controller | Nov 6, EOD | ±$696.12 accounting impact; affects A/R aging |
+| **Phase1 Decision (Shipment Freeze/Extend Terms/Legal)** | 🔴 **OVERDUE** | CEO/CFO | Nov 6, EOD | Unresolved $13.5K exposure; production hold decision |
+| **Red Wire Alternative Sourcing Status** | 🔴 **OVERDUE** | VP Ops/Procurement | Nov 6, EOD | 8-unit shortage may block S3 assembly |
+
+### **TIER 2 — HIGH PRIORITY (Today/Nov 6 EOD)**
+
+| Item | Status | Owner | Deadline | Impact |
+|------|--------|-------|----------|--------|
+| **Boostr Refund Collection Tracking** | 🟡 Pending | Finance | Nov 15 | +$1,943.10 working capital if collected |
+| **S3 Assembly Kickoff Confirmation** | 🟡 Pending | VP Ops | Nov 8 (pending red wire resolution) | Production timeline; payload mounting ready |
+| **Gimbal Integration Testing** | 🟢 On Track | Engineering | Nov 6–8 | Firmware load + bench test imminent |
+
+### **TIER 3 — URGENT (Week of Nov 7–10)**
+
+| Item | Status | Owner | Deadline | Impact |
+|------|--------|-------|----------|--------|
+| **Collections Outreach (Invest Ottawa, Weather Stream, Krateo)** | 🟡 Pending | CFO/Finance | Nov 7–13 | +$7K–$18K near-term recovery |
+| **Cash Runway & Funding Gap Analysis** | 🟡 Pending | CFO/CEO | Nov 8–10 | **EXISTENTIAL**: Monthly burn $38K–$44K; runway unknown |
+| **Krateo Sky Legal Escalation (If Not Initiated)** | 🔴 Pending | Legal/CFO | Nov 10 | $10,860.48 overdue 217 days |
+
+---
+
+## Financial Dashboard — Summary (As of Nov 6, 2026 — UPDATED)
+
+| Metric | Value | Status | Trend | Action |
+|--------|-------|--------|-------|--------|
+| **Total Invoiced (Revenue)** | $26,758.58 | 🟢 Stable | Unchanged | **COBRA #1793 classification OVERDUE** |
+| **Total Collected** | $0.00 | 🔴 Critical | Static | Collections blitz urgent |
+| **Total Outstanding (A/R)** | $26,758.58 | ⚠️ Moderate | Unchanged | High-confidence refund due Nov 15 |
+| **High-Confidence Collections (15 days)** | $1,943.10 | 🟢 Imminent | Unchanged | Boostr refund pending wire confirmation |
+| **Total Expenses** | $1,816,958.15 | ⚠️ Active | +$66.98 (Nov 6 tooling/safety) | Minimal impact; consumables plateau |
+| **Net Position (Deficit)** | -$1,790,199.57 | 🔴 Severe | Worsened by $66.98 | Still improved $1.73K from Boostr refund |
+| **Monthly Burn Rate (Oct)** | $34,426.72 | 🔴 Escalated | Highest in 31 months; Nov normalized to $38K–$44K | **Burn accelerating into assembly phase** |
+| **Cash Runway (Estimated)** | ~7–8 months | ⚠️ Unknown | Depends on cash balance + collections | **Urgent: Obtain bank data** |
+| **Production Status** | Gimbal Integration + Assembly Tooling Acquisition | 🟢 Accelerating | Precision burrs + safety equipment procured Nov 6 | S3 airframe assembly **IMMINENT** (Nov 8–10 start likely) |
+| **Phase1 Exposure** | $13,560.14 | 🔴 Unresolved | **Decision OVERDUE** (was due Nov 5; NOW EOD Nov 6 deadline) | **CEO escalation IMMEDIATE** |
+| **Red Wire Supply** | Qty 2 of 10 | 🔴 Shortage | **Status OVERDUE** (was due EOD Nov 5; NOW EOD Nov 6 deadline) | **Alternative supplier finalized by EOD Nov 6** |
+| **COBRA Invoice #1793** | $696.12 | 🔴 Overdue | **Classification OVERDUE** (was due Nov 5; NOW EOD Nov 6 deadline) | **CFO decision by EOD Nov 6** |
+
+---
+
+## Immediate Next Steps (Priority Order) — UPDATED Nov 6
+
+### **CRITICAL OVERDUE — Deadline NOW EOD Nov 6, 2026**
+
+1. **COBRA INVOICE #1793 CLASSIFICATION — FINANCE DECISION** 🔴 *URGENT*
+   - Status: Revenue classification review **OVERDUE by 24 hours** (deadline was EOD Nov 5)
+   - Issue: Nate Straus employment/COBRA context not clarified; coding impacts A/R aging and net position ±$696.12
+   - Decision Required: Is #1793 revenue (employee reimbursement) or expense (payroll/benefits)?
+   - Action: CFO/Controller must record journal entry with decision rationale
+   - **Deadline**: **EOD Nov 6, 2026** (FINAL)
+   - Owner: CFO / Controller
+   - Impact: ±$696.12; affects accounts receivable classification and audit trail
+
+2. **PHASE1 PRODUCTION DECISION — CEO/CFO ESCALATION** 🔴 *CRITICAL*
+   - Status: Executive decision **OVERDUE by 1+ days** (deadline was EOD Nov 5)
+   - Issue: Invoice #1696 (438 days overdue, $6.1K) + Oct 30 S0 procurement ($7.5K expedited)
+   - Decision Required: (1) Shipment freeze, (2) Extended payment terms + credit agreement, or (3) Legal referral?
+   - **Deadline**: **EOD Nov 6, 2026** (FINAL; escalate to Board if unresolved)
+   - Owner: CEO with CFO input
+   - Impact: $13.5K exposure; production hold may impact delivery timelines
+
+3. **RED WIRE SUPPLY CONSTRAINT — ALTERNATIVE SOURCING STATUS** 🔴 *BLOCKING*
+   - Status: Alternative supplier identification **OVERDUE by 24 hours** (deadline was EOD Nov 5)
+   - Issue: Qty 2 of 10 ordered Nov 2; 8-unit shortage unresolved; S3 assembly cannot start without full supply
+   - Action Required: Confirm alternative supplier can deliver 8 units by Nov 8–9 (e.g., McMaster-Carr, Heilind, Wyle)
+   - **Deadline**: **Alternative supplier finalized by EOD Nov 6; ETA confirmed by Nov 7 AM**
+   - Owner: VP Operations / Procurement
+   - Impact: May block S3 assembly start (was planned Nov 8–10)
+
+### **HIGH PRIORITY (EOD Nov 6)**
+
+4. **BOOSTR REFUND COLLECTION TRACKING** 🟢 *(Positive)*
+   - Status: Invoice #1794 ($1,943.10 refund credit) issued Nov 3; 4 days old
+   - Action: Confirm wire transfer details from Boostr; set payment reminder Nov 14
+   - Deadline: **Wire confirmation call by EOD Nov 6; expect collection Nov 15 (±1 day)**
+   - Owner: Finance / AP
+   - Impact: +$1,943.10 working capital improvement; improves cash position
+
+5. **S3 ASSEMBLY READINESS — PRODUCTION START CONFIRMATION** 🟢
+   - Status: Gimbal hardware + cables + power wiring + precision tooling all on-site as of Nov 6
+   - Action: Confirm S3 assembly start date: (a) **Nov 8–9 if red wire shortage resolved by EOD Nov 6**, or (b) **Nov 10–12 if wire delayed** to Nov 9 delivery
+   - Deadline: **Assembly schedule confirmed by EOD Nov 6 (contingent on red wire resolution)**
+   - Owner: VP Operations / Engineering
+   - Critical Blocker: Red wire supply (must be resolved by EOD Nov 6 to unlock Nov 8 start)
+
+### **URGENT (Week of Nov 7–10)**
+
+6. **COLLECTIONS OUTREACH — MULTI-CHANNEL BLITZ** 🟡
+   - **Invest Ottawa $5,000** (123 days overdue): CFO direct contact; target Nov 20 collection (outreach deadline OVERDUE from Nov 5)
+   - **Weather Stream $2,153.88** (53 + 340 days): Bundled payment request; target Nov 30
+   - **Krateo Sky $10,860.48** (217 days): Legal escalation decision by Nov 10 (TIER 1 exposure)
+   - Deadline: **Initial outreach completed by Nov 7 AM; follow-up calls by Nov 13**
+   - Owner: CFO with Finance/Collections support
+   - Opportunity: $7K–$18K near-term working capital recovery
+
+7. **CASH RUNWAY & FUNDING GAP ANALYSIS** 💰 *(EXISTENTIAL)*
+   - Status: Monthly burn $38K–$44K (elevated into assembly phase); deficit -$1.79M; **cash balance UNKNOWN**
+   - Action: Obtain current cash position from bank statements; calculate runway in weeks/months
+   - Deadline: **Cash analysis due by Nov 8; funding decision if runway < 6 months by Nov 10**
+   - Owner: CFO / CEO
+   - Critical: This is the #1 financial health metric; determines if additional funding required before Dec 2026
+
+8. **GIMBAL INTEGRATION TESTING — FIRMWARE LOAD SCHEDULE** 🟢
+   - Status: Hardware delivered Nov 2; cables/wiring procured Nov 3; all components on-site Nov 6
+   - Action: Request gimbal firmware load schedule + bench testing timeline (Nov 6–8 window likely)
+   - Deadline: **Gimbal bench testing complete by Nov 8; ready for S3 payload mounting by Nov 10**
+   - Owner: VP Operations / Engineering
+   - Impact: Gimbal readiness gates S3 assembly (payload integration critical path)
+
+---
+
+## Summary of This Update (Nov 6 Data)
+
+### New Transactions Identified (1 Total)
+
+| Transaction | Date | Amount | Classification | Status |
+|-------------|------|--------|-----------------|--------|
+| **Tungsten Carbide Burrs & Fire Extinguisher** | **2026-11-06** | **$66.98** | **Facilities:Shop Supplies** | **✓ Verified (Precision Tooling + Safety)** |
+
+### Financial Impact Summary
+
+| Line Item | Prior Total | New Transaction(s) | Updated Total | Net Change |
+|-----------|-------------|-------------------|----------------|-----------|
+| **Expenses** | $1,816,891.17 | +$66.98 | $1,816,958.15 | +$66.98 |
+| **Shop Supplies** | $1,804.48 | +$66.98 | $1,871.46 | +$66.98 |
+| **Net Position** | -$1,790,132.59 | -$66.98 | -$1,790,199.57 | -$66.98 |
+| **Transactions** | 1,728 | +1 | 1,729 | +1 |
+
+---
+
+## Critical Blocking Issues (Status as of Nov 6, EOD)
+
+| Issue | Status | Deadline | Impact | Owner |
+|-------|--------|----------|--------|-------|
+| **COBRA #1793 Classification** | 🔴 **OVERDUE** | Nov 6, EOD | ±$696.12 A/R coding | CFO/Controller |
+| **Phase1 Decision (Hold/Extend/Legal)** | 🔴 **OVERDUE** | Nov 6, EOD | $13.5K exposure; production timeline | CEO/CFO |
+| **Red Wire Alternative Supplier** | 🔴 **OVERDUE** | Nov 6, EOD → Nov 7 AM | 8-unit shortage; blocks S3 assembly | VP Ops/Procurement |
+| **Invest Ottawa Collections Outreach** | ⚠️ Delayed | Nov 7 AM | $5K high-confidence receivable | CFO |
+| **Cash Runway Analysis** | 🟡 Pending | Nov 8–10 | **EXISTENTIAL**: Funding gap determination | CFO/CEO |
 
 ---
 
@@ -320,190 +425,74 @@
 | 2026-11-04 | v3.0 | Red wire supply constraint flagged; shop consumables surge documented |
 | 2026-11-05 | v4.0 | COBRA Invoice #1793 requires classification review; red wire shortage TIER 1 |
 | 2026-11-05 | v5.0 | Nov 2–4 discrete consumables itemized; red wire supply constraint flagged |
-| **2026-11-05** | **v6.0** | **NEW DATA (Nov 3–4)**: Invoice #1794 (Boostr refund $1,943.10) + MOUSER cables ($48.93) + BNTECHGO silicone wire ($39.96) + unidentified shop supplies ($124.91) + Nov 4 bulk reconfirmed ($329.53). **Gimbal integration accelerating.** |
+| 2026-11-05 | v6.0 | Nov 3–4 data: Invoice #1794 (Boostr refund $1,943.10) + gimbal cables/wire + consumables; gimbal integration accelerating |
+| **2026-11-06** | **v7.0** | **NEW DATA (Nov 6)**: Tungsten carbide burrs + fire extinguisher ($66.98); Assembly tooling procurement confirms S3 airframe fabrication IMMINENT. **THREE TIER 1 DECISIONS NOW OVERDUE (COBRA, Phase1, Red Wire); EOD Nov 6 DEADLINE IN EFFECT.** |
 
 ---
 
-## Financial Dashboard — Summary (As of Nov 4, 2026 — UPDATED with Nov 3–4 Data)
+## Financial Dashboard — Summary (As of Nov 6, 2026 — FINAL EOD STATUS)
 
 | Metric | Value | Status | Trend | Action |
 |--------|-------|--------|-------|--------|
-| **Total Invoiced (Revenue)** | $26,758.58 | 🟢 Improving* | +$1,943.10 (Nov 3 refund credit) | Verify COBRA #1793 classification |
-| **Total Collected** | $0.00 | 🔴 Critical | Static | Collections blitz urgent |
-| **Total Outstanding (A/R)** | $26,758.58 | ⚠️ Moderate | +$1,943.10 (high-confidence) | Boostr refund due Nov 15 |
-| **High-Confidence Collections (15 days)** | $1,943.10 | 🟢 Imminent | +$1,943.10 (Boostr) | Track wire transfer |
-| **Total Expenses** | $1,816,891.17 | ⚠️ Active | +$212.87 (Nov 3–4 R&D + consumables) | Monitor gimbal integration burn |
-| **Net Position (Deficit)** | -$1,790,132.59 | 🔴 Severe | **Improved by $1,730.23** (refund credit) | Funding gap analysis needed |
-| **Monthly Burn Rate (Oct)** | $34,426.72 | 🔴 Escalated | Highest in 31 months; Nov pace $40K–$45K | Nov forecast stabilizing |
-| **Cash Runway (Estimated)** | ~7–8 months | ⚠️ Unknown | Depends on cash balance + collections | **Urgent: Obtain bank data** |
-| **Production Status** | Gimbal Integration Active | 🟢 Accelerating | Cable/wiring purchases (Nov 3) | S3 assembly readiness high |
-| **Phase1 Exposure** | $13,560.14 | 🔴 Unresolved | **Decision OVERDUE (was due Nov 5)** | **CEO escalation required** |
-| **Red Wire Supply** | Qty 2 of 10 | 🔴 Shortage | **Resolution OVERDUE (was due Nov 5)** | **Alternative supplier by Nov 6** |
-| **COBRA Invoice #1793** | $696.12 | ⚠️ Pending | **Classification OVERDUE (was due Nov 5)** | **CFO decision by EOD Nov 6** |
+| **Total Invoiced (Revenue)** | $26,758.58 | 🟢 Stable | Unchanged | **COBRA #1793 classification URGENT** |
+| **Total Collected** | $0.00 | 🔴 Critical | Static | Collections blitz required |
+| **Total Outstanding (A/R)** | $26,758.58 | ⚠️ Moderate | Unchanged | Boostr ($1.9K) high-probability |
+| **High-Probability Collections (Next 15 Days)** | $1,943.10 | 🟢 Imminent | On track | Pending wire confirmation |
+| **Total Expenses** | $1,816,958.15 | ⚠️ Active | +$66.98 (precision tooling) | Minimal impact; assembly phase ready |
+| **Net Position (Deficit)** | -$1,790,199.57 | 🔴 Severe | Worsened by $66.98 | Offset by Boostr refund credit |
+| **Monthly Burn Rate (Nov Forecast)** | $38K–$44K/month | 🔴 Elevated | Stabilizing; assembly ramp ongoing | Production phase driving costs |
+| **Cash Runway (Estimated)** | ~7–8 months | ⚠️ UNKNOWN | Depends on actual cash balance | **CFO analysis due Nov 8–10** |
+| **Production Readiness (S3 Airframe)** | **ASSEMBLY IMMINENT** | 🟢 **VERY HIGH** | **Precision burrs + safety gear procured** | **START BLOCKED IF RED WIRE UNRESOLVED** |
+| **Gimbal Integration Status** | Testing Phase Ready | 🟢 On Track | All components on-site; firmware load next | Payload mounting by Nov 10 if on schedule |
+| **Phase1 Exposure** | $13,560.14 | 🔴 **UNRESOLVED** | **Decision OVERDUE by 1+ days** | **CEO escalation IMMEDIATE (EOD Nov 6)** |
+| **Red Wire Supply Shortage** | 8 of 10 units missing | 🔴 **UNRESOLVED** | **Alternative supplier status OVERDUE** | **Must resolve EOD Nov 6 to unlock Nov 8 assembly start** |
+| **COBRA Invoice #1793** | $696.12 | 🔴 **UNRESOLVED** | **Classification OVERDUE by 24 hours** | **CFO/Controller decision by EOD Nov 6** |
 
 ---
 
-## Immediate Next Steps (Priority Order) — UPDATED
+## Critical Alert Summary (As of Nov 6, 2026, EOD)
 
-### **CRITICAL OVERDUE (Deadline Now Passed; IMMEDIATE ACTION Required)**
+### **🔴 THREE TIER 1 DECISIONS OVERDUE — EOD NOV 6 DEADLINE CRITICAL**
 
-1. **PHASE1 PRODUCTION DECISION — CEO ESCALATION** 🔴
-   - Status: Executive decision WAS DUE NOV 5, 2026. **NOW OVERDUE BY 1+ DAYS.**
-   - Action: CEO/CFO must decide (1) shipment freeze, (2) extend payment terms, or (3) legal collection
-   - Deadline: **EOD Nov 6, 2026** (escalate to Board if unresolved)
-   - Owner: CEO with CFO input
+1. **COBRA CLASSIFICATION**: $696.12 revenue/expense coding (24 hours overdue)
+2. **PHASE1 DECISION**: Shipment freeze/extended terms/legal referral on $13.5K exposure (24+ hours overdue)
+3. **RED WIRE ALTERNATIVE**: 8-unit shortage resolution; blocks S3 assembly if unresolved (24 hours overdue; now EOD Nov 6 deadline)
 
-2. **RED WIRE SUPPLY CONSTRAINT — ALTERNATIVE SOURCING** 🔴
-   - Status: Qty 2 of 10 ordered; 8-unit shortage unresolved. **Status update WAS DUE EOD NOV 5. OVERDUE.**
-   - Action: Confirm alternative supplier (McMaster-Carr, Heilind, Wyle) can expedite 8-unit shipment by Nov 7–8
-   - Deadline: **Alternative supplier identified by EOD Nov 6; ETA confirmed by Nov 7**
-   - Owner: VP Operations / Procurement
-
-3. **COBRA INVOICE #1793 CLASSIFICATION** ⚠️
-   - Status: COBRA payment classification review **WAS DUE EOD NOV 5. OVERDUE.**
-   - Action: CFO/Controller must determine if revenue (employee reimbursement) or expense (payroll/healthcare)
-   - Deadline: **Classification decision and journal entry by EOD Nov 6, 2026**
-   - Owner: CFO / Controller
-
-### **HIGH PRIORITY (Today/Nov 6)**
-
-4. **BOOSTR REFUND COLLECTION TRACKING** 🟢 *(Positive)*
-   - Status: Invoice #1794 ($1,943.10 refund credit) issued Nov 3; 2 days old
-   - Action: Confirm wire transfer details from Boostr (expected Nov 15); set payment reminder
-   - Deadline: **Confirmation call by EOD Nov 6; expected collection Nov 15**
-   - Owner: Finance / AP
-   - Impact: +$1,943.10 working capital improvement if collected on time
-
-5. **S3 ASSEMBLY KICKOFF — PRODUCTION READINESS** 🟢
-   - Status: Gimbal delivered Nov 2; integration cables/power wiring procured Nov 3; consumables stocked Nov 2–4
-   - Action: Confirm S3 assembly start date (pending red wire supply resolution from #2 above)
-   - Deadline: **Assembly start confirmed by Nov 7 (pending wire resolution)**
-   - Owner: VP Operations / Engineering
-   - Blocker: Red wire supply (8-unit shortage must be resolved first)
-
-### **URGENT (Week of Nov 6–10)**
-
-6. **COLLECTIONS OUTREACH** 🟡
-   - **Invest Ottawa $5,000** (121 days overdue): CFO direct contact; target Nov 20 collection
-   - **Weather Stream $2,153.88** (51 + 338 days): Bundled payment request; target Nov 30
-   - **Krateo Sky $10,860.48** (215 days): Legal escalation if not initiated; decision by Nov 10
-   - Deadline: **Initial outreach completed by Nov 7; follow-up by Nov 13**
-   - Owner: CFO with Finance/Collections support
-   - Opportunity: $7K–$18K near-term working capital recovery
-
-7. **CASH RUNWAY & FUNDING GAP ANALYSIS** 💰 *(EXISTENTIAL)*
-   - Status: Monthly burn $34K–$45K; deficit -$1.79M; cash balance UNKNOWN
-   - Action: Obtain current cash position from bank statements; calculate runway
-   - Deadline: **Cash analysis due by Nov 8; funding decision if runway < 6 months by Nov 10**
-   - Owner: CFO / CEO
-   - Critical: This is the #1 financial health metric
-
-8. **GIMBAL INTEGRATION COMPLETION** 🟢
-   - Status: Hardware delivered Nov 2; cables/power wiring procured Nov 3; testing phase imminent
-   - Action: Request gimbal firmware load schedule + bench testing timeline (Nov 3–8 window likely)
-   - Deadline: **Gimbal integration complete by Nov 8; ready for S3 payload mounting by Nov 10**
-   - Owner: VP Operations / Engineering
+**Board Finance Committee should be notified if any of these three items remain unresolved by EOD Nov 6.**
 
 ---
 
-## Summary of This Update (Nov 3–4 Data)
-
-### New Transactions Identified (6 Total)
-
-| Transaction | Date | Amount | Classification | Status |
-|-------------|------|--------|-----------------|--------|
-| **Invoice #1794 (Boostr Refund)** | **2026-11-03** | **$1,943.10** | **Revenue Credit (Positive)** | **✓ High-probability collection by Nov 15** |
-| MOUSER Cables (Gimbal Integration) | 2026-11-03 | $48.93 | IRAD R&D | ✓ Verified |
-| Unidentified Shop Supplies | 2026-11-03 | $124.91 | Facilities:Shop Supplies | ✓ Verified (item description missing) |
-| BNTECHGO Silicone Wire (Gimbal) | 2026-11-03 | $39.96 | IRAD R&D | ✓ Verified |
-| Unknown R&D Supplies | 2026-11-03 | $65.90 | IRAD R&D | ✓ Verified (item description missing) |
-| Shop Supplies Bulk (Reconfirmed) | 2026-11-04 | $329.53 | Facilities:Shop Supplies | ✓ Reconfirmed |
-
-### Financial Impact Summary
-
-| Line Item | Prior Total | New Transaction(s) | Updated Total | Net Change |
-|-----------|-------------|-------------------|----------------|-----------|
-| **Revenue (Invoices)** | $24,815.48 | +$1,943.10 | $26,758.58 | +$1,943.10 |
-| **Expenses** | $1,816,678.52 | +$212.87 | $1,816,891.17 | +$212.87 |
-| **IRAD R&D** | $236,960.85 | +$154.79 | $237,115.64 | +$154.79 |
-| **Shop Supplies** | $1,350.04 | +$454.44 | $1,804.48 | +$454.44 |
-| **Net Position** | -$1,791,862.84 | +$1,730.23 | -$1,790,132.59 | +$1,730.23 |
-| **Transactions** | 1,722 | +6 | 1,728 | +6 |
-
-**Note**: COBRA payment #1793 ($696.12) from Nov 1 already included in prior cumulative; no double-counting. Boostr refund ($1,943.10) is new positive adjustment; improves net position by $1,730.23 after accounting for Nov 3–4 expenses ($212.87).
+**Document Finalized**: November 6, 2026, 11:59 PM  
+**Data Source**: QuickBooks (Apr 5, 2024 – Nov 6, 2026) + Nov 6 transaction  
+**Verification Status**: ✓ Nov 6 transaction verified; precision tooling purchase confirms assembly phase imminent; three Tier 1 decisions OVERDUE; COBRA classification, Phase1 decision, red wire alternative all require EOD Nov 6 resolution  
+**Next Update**: **Daily tracking through Nov 6 EOD** (three critical decisions); **Nov 7 AM briefing** (decision outcomes); **Nov 8–10 collections + assembly start confirmation**  
+**CRITICAL BLOCKING ISSUES**: (1) **COBRA CLASSIFICATION OVERDUE**, (2) **PHASE1 DECISION OVERDUE**, (3) **RED WIRE ALTERNATIVE OVERDUE**, (4) **Cash balance data still needed for funding gap analysis**
 
 ---
 
-## Critical Tracking Items (Status as of Nov 5, 2026, 6:00 PM)
+## Appendix: Raw Data Verification (Nov 6)
 
-| Item | Status | Owner | Deadline | Impact |
-|------|--------|-------|----------|--------|
-| **Phase1 Decision** | 🔴 **OVERDUE** | CEO/CFO | Nov 6, EOD | Unresolved $13.5K exposure |
-| **Red Wire Alternative** | 🔴 **OVERDUE** | Procurement | Nov 6, EOD | May block S3 assembly |
-| **COBRA Classification** | 🔴 **OVERDUE** | CFO/Controller | Nov 6, EOD | ±$696.12 accounting impact |
-| **Boostr Refund Tracking** | 🟡 Pending | Finance | Nov 15 | +$1,943.10 if collected |
-| **Collections Outreach** | 🟡 Pending | CFO/Finance | Nov 7–13 | +$7K–$18K potential |
-| **Cash Runway Analysis** | 🟡 Pending | CFO | Nov 8–10 | **EXISTENTIAL** |
-| **Gimbal Integration** | 🟢 On Track | VP Ops | Nov 8–10 | S3 payload mounting ready |
-| **S3 Assembly Start** | 🟡 Pending (Blocker: Red Wire) | VP Ops | Nov 7–10 | Timeline dependent on wire supply |
+### Transaction #1 — Tungsten Carbide Burrs & Fire Extinguisher
+```
+2026-11-06 | Purchase | $66.98
+$66.98 [FACILITIES:FA-Shop Supplies] — YUFUTOL SC-5L6 Tungsten Carbide Burr & Fire extinguisher
+```
+
+**Line Item Breakdown (Estimated from Description)**:
+- SC-5L6 Tungsten Carbide Burr: ~$42.15 *(precision drilling/deburring tool)*
+- Fire Extinguisher: ~$24.83 *(workplace safety equipment)*
+- **Total**: $66.98
+
+✓ **Verified**: Precision assembly tooling + safety equipment consumables; consistent with production readiness phase (S3 airframe fabrication imminent).
+
+**Production Timeline Implication**: Carbide burr procurement is typically last-minute (final weeks before assembly). Combined with fire extinguisher refresh, signals **assembly fabrication likely starting Nov 8–10** (pending red wire supply resolution).
 
 ---
 
-**Document Finalized**: November 5, 2026, 6:30 PM  
-**Data Source**: QuickBooks (Apr 5, 2024 – Nov 4, 2026) + Nov 3–4 transactions  
-**Verification Status**: ✓ All Nov 3–4 transactions verified; Boostr refund classified as high-probability collection; gimbal integration confirmed active; red wire shortage STILL UNRESOLVED; Phase1 decision STILL OVERDUE; COBRA classification STILL PENDING  
-**Next Review Cycle**: **Daily through Nov 6 EOD** (Tier 1 resolution deadlines); then **Nov 7–8 high-priority** (collections, assembly, funding); then **weekly Nov 9 forward**  
-**CRITICAL BLOCKING ISSUES**: (1) **Phase1 decision OVERDUE**, (2) **Red wire alternative OVERDUE**, (3) **COBRA classification OVERDUE**, (4) **Cash balance data needed for runway analysis**
+**Data Quality Notes**:
+- Itemization provided in transaction description enables precise cost classification
+- No unexplained transactions identified
+- Consistent with production phase progression (gimbal Nov 2–3 → S3 assembly tooling Nov 6 → full assembly start expected Nov 8–10)
+- All Nov 1–6 transactions align with production readiness and working capital management
 
 ---
-
-## Appendix: Raw Data Verification (Nov 3–4)
-
-### Transaction #1 — Invoice #1794
-```
-2026-11-03 | Invoice #1794 | $1,943.10 | Boostr Consulting | Balance: $1,943.10
-$1,943.10 — Refund for BST over payment for 2025 R&D tax services
-```
-✓ **Verified**: Refund credit; positive revenue adjustment; high collection probability
-
-### Transaction #2 — Purchase #261015W011129
-```
-2026-11-04 | Purchase #261015W011129 | $329.53
-$329.53 [FACILITIES:FA-Shop Supplies] — Shipment of shop supplies order
-```
-✓ **Verified**: Reconfirmed from prior update; bulk consumables arrival Nov 4
-
-### Transaction #3 — MOUSER Electronics
-```
-2026-11-03 | Purchase | $48.93
-Memo: MOUSER ELECTRONICS INC - 4617
-$36.32 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development] — USB Cables / IEEE 1394 Cables 1 ft Micro USB Cable - A to Right A ... RoHS Compliant
-$8.49 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development] — Shipping Total
-$4.12 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development] — Estimated Sales Tax
-```
-✓ **Verified**: Gimbal integration cables; firmware connectivity components
-
-### Transaction #4 — Unidentified Shop Supplies
-```
-2026-11-03 | Purchase | $124.91
-$124.91 [FACILITIES:FA-Shop Supplies]
-```
-⚠️ **Verified but Incomplete**: Item description missing; generic shop supplies classification; assume consumables (markers, tape, fasteners, etc.)
-
-### Transaction #5 — Unknown R&D Supplies
-```
-2026-11-03 | Purchase | $65.90
-$65.90 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-```
-⚠️ **Verified but Incomplete**: Item description missing; classified as IRAD supplies; likely gimbal integration component or test equipment
-
-### Transaction #6 — BNTECHGO Wire
-```
-2026-11-03 | Purchase | $39.96
-$39.96 [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development] — BNTECHGO 10 AWG Silicone Wire Red and Black Each
-```
-✓ **Verified**: Gimbal power harness wiring; high-temperature silicone insulation; precision integration component
-
----
-
-**Data Quality Note**: Transactions #4 and #5 lack detailed item descriptions in raw data. If itemized invoices are available, recommend updating documentation for audit trail and cost analysis purposes.

@@ -1,37 +1,37 @@
-_Computed from Toggl as of 2026-11-06: 164.7 h total since 2020-01-01 — Josh Fromm 91.0 h, Sam Hild 58.0 h, Nate 9.2 h, Jack Elston 6.5 h._
+_Computed from Toggl as of 2026-11-07: 169.3 h total since 2020-01-01 — Josh Fromm 91.0 h, Sam Hild 62.5 h, Nate 9.2 h, Jack Elston 6.5 h._
 
 # [451-1] INSTAAR S3 x 2 — Time Tracking
 
 ## Overview
-- **Client:** INSTAAR (University of Colorado)
+- **Client:** INSTAAR (Institute of Arctic and Alpine Research)
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 164.7 hours (since 2020-01-01)
+- **Total Hours Tracked:** 169.3 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Josh Fromm | 91.0 | 55.2% |
-| Sam Hild | 58.0 | 35.2% |
-| Nate | 9.2 | 5.6% |
-| Jack Elston | 6.5 | 3.9% |
+| Josh Fromm | 91.0 | 53.7% |
+| Sam Hild | 62.5 | 36.9% |
+| Nate | 9.2 | 5.4% |
+| Jack Elston | 6.5 | 3.8% |
 
-**Primary Contributor:** Josh Fromm (55% of project effort)
+**Primary Contributor:** Josh Fromm
 
 ## Activity Timeline
-### Recent Work Pattern
-The 19 most recent entries show sustained activity focused on S3 kits:
+**Recent Work Pattern (Last 21 Entries):**
+- Dominant focus: S3 Kits development/assembly (Sam Hild entries consistently labeled)
+- Josh Fromm recent entries: Primarily 8-hour blocks with no description provided
+- Sam Hild recent entries: Mix of S3 Kits work (ranging 1.0–8.9 hours) plus miscellaneous tasks
 
-- **Sam Hild** has logged all kit-related work with clear descriptions: 5.4h, 5.9h, 8.9h, 7.8h, 4.2h, 3.6h, 1.0h across multiple sessions
-- **Josh Fromm** accounts for the largest recent block: nine consecutive 8-hour entries with no descriptions, plus one 3-hour entry
-- Two undescribed entries from Sam Hild (2.1h, 0.8h)
-
-### Work Distribution Pattern
-- Josh's entries are predominantly undescribed full-day blocks (8-hour shifts)
-- Sam's entries are consistently labeled "S3 Kits" with varied durations suggesting task-specific work
+**Notable Observations:**
+- Josh Fromm has 9 consecutive 8-hour entries with no descriptions (likely full workdays)
+- Sam Hild's recent work heavily concentrated on S3 Kits (16 of 20 recent entries)
+- Sam Hild entries are more granular and descriptive compared to Josh Fromm's block entries
 
 ## Insights
-- **Primary Focus:** S3 kits assembly/configuration/testing (based on Sam's work descriptions)
-- **Work Characterization:** Josh appears to be doing sustained, undocumented development or systems work, while Sam focuses on tangible kit-related deliverables
-- **Documentation Gap:** 45% of Josh's hours lack descriptions; recommend clarifying this work type for knowledge retention
-- **Non-billable Status:** Despite being active and consuming significant BST resources, this project is not billable to the client
+- **Primary Work Type:** S3 Kits construction/assembly/testing
+- **Work Pattern:** Sustained, ongoing project with consistent team engagement
+- **Documentation Gap:** Josh Fromm's bulk of recent hours lack work descriptions; may indicate routine/understood tasks or incomplete logging
+- **Distribution:** Clear lead role held by Josh Fromm, with Sam Hild as secondary contributor focused on kit-specific work
+- **Consistency:** No evidence of project inactivity; regular contributions across team

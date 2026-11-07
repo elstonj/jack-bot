@@ -1,55 +1,54 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-06 02:39
+Last scanned: 2026-11-07 02:37
 
-Total channels scanned: 6
+Total channels scanned: 5
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 8 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#flight-testing** -- 9 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 4 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 1 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#s3** -- 5 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 7 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#flight-testing** -- 6 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 31 messages -- [general.md](general.md)
+- **#operations** -- 8 messages -- [operations.md](operations.md)
+- **#s3** -- 6 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 9 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Channel Overview
 
-## Active Projects
-- **S0 Hurricane Reconnaissance**: Primary SBIR focus; unmanned aircraft system for hurricane missions (ongoing since 2020)
-- **S3 VTOL**: Hybrid fixed-wing/quadcopter with tilting rotors; 2-3 hour endurance target
-- **Navy Magnetometer SBIR**: Integration of QuSpin/Bartington magnetometers for MAD (Magnetic Anomaly Detection) applications
-- **Flight Testing Operations**: Multi-platform testing across S-series, E2, Flamewheel, and VTOL variants
+## Core Mission & Projects
 
-## Key Decision-Makers & Leadership Structure
-- **Jack Elston**: Primary strategic decision-maker; leads grants/funding strategy and proposal reviews
-- **Joshua Fromm**: Lead engineer; drives design, CAD, RF components, and technical requirements
-- **Maciej**: Technical lead for flight testing, firmware development, and field operations support
-- **Dan Prendergast**: Business development and operations coordination
+**Primary Focus:** Development of unmanned aircraft systems for specialized reconnaissance missions
+- **S0**: Hurricane reconnaissance VTOL aircraft (SBIR-funded, mature project 2020-2026)
+- **S3**: Long-endurance hybrid VTOL with tilting rotors (2-3 hour target endurance)
+- **Flight Testing**: Multi-platform testing across S-series fixed-wing, multirotor, and VTOL variants
 
-## Cross-Channel Themes
+## Key Decision Patterns
 
-### Funding & Growth
-- Heavy government contracting focus (NASA, DOD, NOAA, USDA, DOE)
-- Multiple concurrent SBIR projects generating revenue and technical capability
-- Grant strategy centralized in #grants-and-funding; outcomes communicated via #general
+1. **Technical Leadership**: Joshua Fromm drives hardware/CAD/RF design; Maciej leads flight testing/firmware; Jack Elston provides strategic direction
+2. **Documentation Flow**: Requirements → design → parts validation → flight testing → operational deployment
+3. **Cross-functional Integration**: Hardware (Joshua), firmware/flight ops (Maciej), business/operations (Dan Prendergast, Meredith Needham)
 
-### Technical Integration
-- Payload integration (magnetometers, reconnaissance systems) appears as recurring challenge
-- Firmware/software development dependencies span flight testing and individual project channels
-- CAD design and parts validation involve Joshua Fromm across S3, S0, and operational aircraft
+## Recurring Themes Across Channels
 
-### Operational Execution
-- Flight testing serves as validation checkpoint for all project channels
-- Testing results and troubleshooting feedback loop between #flight-testing and project-specific channels
-- Hardware/firmware issues drive priority shifts across teams
+| Theme | Channels | Pattern |
+|-------|----------|---------|
+| Technical design & validation | #s3, #sbir-hurricane, #flight-testing | Iterative CAD, parts sourcing, antenna/RF optimization |
+| Flight operations & troubleshooting | #flight-testing, #sbir-hurricane, #operations | Test scheduling, firmware debugging, payload integration |
+| Project coordination | #general, #operations | Status updates, resource allocation, timeline tracking |
+| Hardware/logistics | #operations, #sbir-hurricane | Parts procurement, shipping, facility management |
+| Business/funding | #general, #operations | SBIR milestones, customer coordination (implied) |
 
-## Recurring Decision Patterns
-- Technical feasibility vetted through #flight-testing before major commitments
-- Funding decisions cascade from #grants-and-funding to project-specific channels
-- Design iterations documented in project channels; operational readiness tracked in #flight-testing
+## Active Personnel Network
 
-## Personnel Distribution
-**Core team overlap**: Jack Elston, Maciej, Joshua Fromm, Beck Cotter, Sam Hild, and Alex Lomis appear across 4+ channels, indicating integrated project execution model.
+**Leadership/Direction**: Jack Elston, Dan Prendergast  
+**Engineering Core**: Joshua Fromm (hardware), Maciej (flight/firmware), Jack Elston (firmware support)  
+**Operations/Admin**: Meredith Needham (finance), Joshua Fromm (shop management)  
+**Supporting**: Danny Troke, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Ben Busby
+
+## Strategic Connections
+
+- **SBIR Program** (#sbir-hurricane) validates technology roadmap that feeds S3 development (#s3)
+- **Flight testing** (#flight-testing) serves as quality gate for both projects before operational deployment
+- **Operations** (#operations) and **General** (#general) coordinate resource dependencies across projects
+- Long-term pattern (2020-2026) suggests sustained focus on VTOL aircraft with hurricane/extreme weather mission specialization

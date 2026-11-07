@@ -70,12 +70,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-06",
-    "end": "2026-11-06"
+    "start": "2024-11-07",
+    "end": "2026-11-07"
   },
   "totals": {
-    "revenue": 3797607.11,
-    "expenses": 4879183.17,
+    "revenue": 3797232.11,
+    "expenses": 4879759.57,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -86,7 +86,7 @@
       "Inventory Asset": 123869.36,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 110222.42,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 82440.12,
+      "FACILITIES:FA-Shop Supplies": 82528.0,
       "Prepaid Expenses": 72500.18,
       "Spark One Jack #3168": 70684.0,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
@@ -98,7 +98,7 @@
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "DIRECT COSTS:DC-Direct Material Purchases": 34665.12,
       "FACILITIES:FA-Software Expenses": 34100.64,
-      "Indirect Cost:Meals and Entertainment": 30265.36,
+      "Indirect Cost:Meals and Entertainment": 30599.42,
       "Reimbursable Expenses": 27940.8,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
@@ -125,7 +125,7 @@
       "SALES & MARKETING:SM-Shipping": 8215.08,
       "SALES & MARKETING:SM-Travel": 7870.72,
       "FACILITIES:FA-Facility Repairs & Maintenance": 7696.83,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 6503.44,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 6657.9,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6339.43,
       "Indirect Cost:TaxesX": 6218.2,
@@ -348,34 +348,6 @@
         },
         {
           "amount": 696.12,
-          "account": "",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Invoice",
-      "date": "2026-09-21",
-      "doc_number": "1786",
-      "total": 375.0,
-      "attributed": 375.0,
-      "vendor": "",
-      "customer": "[300] NOAA",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 125.0,
-          "account": "",
-          "description": "Replacement/refurbishment of S0 parts"
-        },
-        {
-          "amount": 250.0,
-          "account": "",
-          "description": "Custom engineering to refurbish broken S0"
-        },
-        {
-          "amount": 375.0,
           "account": "",
           "description": ""
         }
@@ -4541,6 +4513,96 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-06",
+      "doc_number": "",
+      "total": 66.98,
+      "attributed": 66.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 66.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "YUFUTOL SC-5L6 Tungsten Carbide Burr & Fire extinguisher"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 20.9,
+      "attributed": 20.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order cancelled because it was pick-up only",
+      "lines": [
+        {
+          "amount": 20.9,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "wires"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 17.42,
+      "attributed": 17.42,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "KING SOOPERS #0061 - 7333",
+      "lines": [
+        {
+          "amount": 17.42,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "supplies for Royal Navy visit"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 154.46,
+      "attributed": 154.46,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST*VERDE - BOULDER - 7333",
+      "lines": [
+        {
+          "amount": 154.46,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "Breakfast for Royal Navy"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 316.64,
+      "attributed": 316.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TRUE FOOD KITCHEN - BO - 4617",
+      "lines": [
+        {
+          "amount": 316.64,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "lunch for Royal Navy visit"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-05",
@@ -57266,13 +57328,7 @@
       "customer": "[300] NOAA",
       "balance": null,
       "memo": "Paid via QuickBooks Payments: Payment ID 11ai28suln0i",
-      "lines": [
-        {
-          "amount": 375.0,
-          "account": "",
-          "description": ""
-        }
-      ]
+      "lines": []
     },
     {
       "type": "Payment",

@@ -5,17 +5,17 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-06",
-    "end": "2026-11-06"
+    "start": "2024-11-07",
+    "end": "2026-11-07"
   },
   "totals": {
-    "revenue": 1008500.0,
-    "expenses": 421974.2,
+    "revenue": 1008875.0,
+    "expenses": 422196.16,
     "by_category": {
       "DIRECT COSTS:DC-Direct Material Purchases": 262807.58,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7216.33,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7438.29,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 445.23,
       "SALES & MARKETING:SM-Shipping": 204.16,
@@ -66,6 +66,34 @@
         },
         {
           "amount": 72000.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Invoice",
+      "date": "2026-09-21",
+      "doc_number": "1786",
+      "total": 375.0,
+      "attributed": 375.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": 375.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 125.0,
+          "account": "",
+          "description": "Replacement/refurbishment of S0 parts"
+        },
+        {
+          "amount": 250.0,
+          "account": "",
+          "description": "Custom engineering to refurbish broken S0"
+        },
+        {
+          "amount": 375.0,
           "account": "",
           "description": ""
         }
@@ -838,6 +866,42 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-06",
+      "doc_number": "",
+      "total": 52.43,
+      "attributed": 52.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PIRATE SHIP * POSTAGE - 7333",
+      "lines": [
+        {
+          "amount": 52.43,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "shipment to Summit Assembly"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-06",
+      "doc_number": "12851",
+      "total": 169.53,
+      "attributed": 169.53,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 169.53,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "MicroHard shipment for IDIQ"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-04",

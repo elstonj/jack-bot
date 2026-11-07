@@ -5,16 +5,16 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-06",
-    "end": "2026-11-06"
+    "start": "2024-11-07",
+    "end": "2026-11-07"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 206826.04,
+    "expenses": 206814.05,
     "by_category": {
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86647.56,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
-      "Indirect Cost:Internal Research and DevelopmentX": 52947.54,
+      "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
@@ -8733,24 +8733,6 @@
           "amount": 190.07,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-06",
-      "doc_number": "",
-      "total": 11.99,
-      "attributed": 11.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Magnets for S3",
-      "lines": [
-        {
-          "amount": 11.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "DIYMAG Strong Neodymium Disc Magnets"
         }
       ]
     }

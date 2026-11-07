@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "NOAA Ron Brown vessel deployment for S0-VTOL with autonomous ship launch/recovery and atmospheric sounding. Spring 2028 target. Chidong Zhang actively evaluating lease vs. purchase; detailed RFQ sent 2026-10-06 with 14 technical questions (received 2026-10-07). BST acknowledged production delays; current estimate mid-to-late 2027 availability. May include multiple aircraft (4 operational + 4 spare lease scenario discussed). Requires training, remote support, and publication collaboration. Last confirmed contact 2026-11-03.",
+  "notes": "NOAA Ron Brown vessel deployment for S0-VTOL with autonomous ship launch/recovery and atmospheric sounding. Spring 2028 target. Chidong Zhang actively evaluating lease vs. purchase; detailed RFQ sent 2026-10-06 with 18 technical questions. BST acknowledged production delays; current estimate mid-to-late 2027 availability. May include multiple aircraft (4 operational + 4 spare lease scenario discussed). Requires training, remote support, and publication collaboration. Active engagement as of 2026-11-03.",
   "missing_fields": [
     "ship_to",
     "invoice_date",

@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-06: 711.8 h total since 2020-01-01 — Spencer Hoehl 351.0 h, Ethan Domagala 182.8 h, Nate 134.2 h, Stachura 39.2 h, Jack Elston 4.5 h._
+_Computed from Toggl as of 2026-11-07: 719.4 h total since 2020-01-01 — Spencer Hoehl 358.6 h, Ethan Domagala 182.8 h, Nate 134.2 h, Stachura 39.2 h, Jack Elston 4.5 h._
 
 # [001-08] Flight Testing — Time Tracking
 
@@ -6,29 +6,32 @@ _Computed from Toggl as of 2026-11-06: 711.8 h total since 2020-01-01 — Spence
 - **Client:** Internal (Black Swift Technologies)
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 711.8 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 719.4 hours (since 2020-01-01)
 
 ## Team Allocation
-| Team Member | Hours | % of Total |
+| Team Member | Hours | Percentage |
 |---|---|---|
-| Spencer Hoehl | 351.0 | 49.3% |
-| Ethan Domagala | 182.8 | 25.7% |
-| Nate | 134.2 | 18.8% |
+| Spencer Hoehl | 358.6 | 49.8% |
+| Ethan Domagala | 182.8 | 25.4% |
+| Nate | 134.2 | 18.6% |
 | Stachura | 39.2 | 5.5% |
 | Jack Elston | 4.5 | 0.6% |
 
-**Primary Contributor:** Spencer Hoehl dominates this project, accounting for nearly half of all tracked time.
+**Primary Contributor:** Spencer Hoehl dominates time allocation at nearly 50% of all tracked hours.
 
 ## Activity Timeline
-Recent work consists primarily of undescribed time entries from Spencer Hoehl, with occasional documented entries:
-- **SMM E2 Prep** (Ethan Domagala, 1.0h)
-- **E2 SMM and ERAU Testing** (Ethan Domagala, 4.5h)
-- **Flight test planning** (Jack Elston, 0.5h)
+**Recent Work (51 most recent entries):**
+- Majority of recent entries lack descriptions; most are Spencer Hoehl's undocumented time blocks
+- **Described entries:**
+  - Ethan Domagala: "SMM E2 Prep" (1.0h)
+  - Ethan Domagala: "E2 SMM and ERAU Testing" (4.5h)
+  - Jack Elston: "Flight test planning" (0.5h)
 
-The majority of recent entries (44 of 50) lack descriptions. Spencer's sessions range from 0.2h to 8.6h, with typical entries in the 3–5 hour range.
+**Work Pattern:** Highly concentrated on Spencer Hoehl with consistent 2–8 hour daily entries. Ethan Domagala contributes episodically with testing-related work. Minimal involvement from other team members in recent activity.
 
 ## Insights
-- **Work Type:** Flight testing and systems integration, with identifiable sub-tasks around SMM (Systems/Subsystems Management or similar) and ERAU (Embry-Riddle Aeronautical University) collaboration
-- **Documentation Gap:** 88% of recent entries are undescribed, limiting visibility into specific activities
-- **Concentration:** The project is heavily dependent on Spencer Hoehl's expertise; secondary contributors (Ethan and Nate) represent roughly 45% of effort combined
-- **Patterns:** Spencer maintains consistent engagement with multiple sessions per period; Ethan contributes in focused blocks; peripheral team members (Stachura, Jack) have minimal involvement
+- **Work Type:** Flight testing operations, systems/subsystems testing (E2 SMM references Ethan's testing), and test planning
+- **Documentation Gap:** 84% of recent time entries lack descriptions, limiting visibility into specific tasks
+- **Effort Distribution:** Heavily dependent on single individual (Spencer Hoehl); succession/knowledge risk
+- **Testing Focus:** References to ERAU testing and SMM (likely Subscale Modular vehicle) indicate ongoing flight test activities
+- **Recommendation:** Encourage detailed time entry descriptions to improve project tracking and team documentation

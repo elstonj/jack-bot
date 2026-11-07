@@ -42,10 +42,10 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-06",
-    "completed": 11,
+    "as_of": "2026-11-07",
+    "completed": 16,
     "name": "[001-07] S3 IRAD",
-    "open": 109,
+    "open": 104,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
@@ -119,7 +119,7 @@
     "window": "last 90 days"
   },
   "001-13_facilities_management.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 17,
     "name": "[001-13] Facilities Management",
     "open": 8,
@@ -133,7 +133,7 @@
     "window": "last 90 days"
   },
   "001-13_general_operations.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 15,
     "name": "[001-13] General Operations",
     "open": 30,
@@ -147,7 +147,7 @@
     "window": "last 90 days"
   },
   "001-13_hr_general.md": {
-    "as_of": "2026-11-01",
+    "as_of": "2026-11-07",
     "completed": 4,
     "name": "[001-13] HR General ",
     "open": 13,
@@ -175,17 +175,17 @@
     "window": "last 90 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 6,
     "name": "[001-13] Proposals",
     "open": 82,
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 228,
+    "open": 229,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -406,7 +406,7 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 12,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
     "open": 9,
@@ -462,7 +462,7 @@
     "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 13,
     "name": "[550-1] NAVY SBIR: Magnetometer",
     "open": 5,
@@ -476,10 +476,10 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-06",
-    "completed": 7,
+    "as_of": "2026-11-07",
+    "completed": 10,
     "name": "[600-1] SOCOM Pope",
-    "open": 56,
+    "open": 58,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
@@ -490,7 +490,7 @@
     "window": "last 90 days"
   },
   "contacts.md": {
-    "as_of": "2026-11-06",
+    "as_of": "2026-11-07",
     "completed": 0,
     "name": "Contacts",
     "open": 105,
@@ -553,7 +553,7 @@
     "window": "last 90 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-11-05",
+    "as_of": "2026-11-07",
     "completed": 0,
     "name": "View: Major Milestones & Tasks",
     "open": 12,

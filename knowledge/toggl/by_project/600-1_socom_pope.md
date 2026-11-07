@@ -1,38 +1,39 @@
-_Computed from Toggl as of 2026-11-06: 136.4 h total since 2020-01-01 — Dan 77.5 h, Josh Fromm 43.0 h, Ali Sulehria 8.4 h, Stachura 5.0 h, Jack Elston 2.5 h._
+_Computed from Toggl as of 2026-11-07: 136.9 h total since 2020-01-01 — Dan 77.5 h, Josh Fromm 43.0 h, Ali Sulehria 8.4 h, Stachura 5.0 h, Jack Elston 3.0 h._
 
 # [600-1] SOCOM Pope — Time Tracking
 
 ## Overview
-- **Client:** Not specified
+- **Client:** Internal/Not specified
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 136.4 hours (all-time, since 2020-01-01)
+- **Total Hours Tracked:** 136.9 hours (all-time, since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 77.5 | 56.8% |
-| Josh Fromm | 43.0 | 31.5% |
-| Ali Sulehria | 8.4 | 6.2% |
+| Dan | 77.5 | 56.6% |
+| Josh Fromm | 43.0 | 31.4% |
+| Ali Sulehria | 8.4 | 6.1% |
 | Stachura | 5.0 | 3.7% |
-| Jack Elston | 2.5 | 1.8% |
+| Jack Elston | 3.0 | 2.2% |
 
 **Primary Contributor:** Dan (77.5 hours)
 
 ## Activity Timeline
-Most recent entries show ongoing activity with minimal description detail:
-- **Jack Elston** (2.5h): SOCOM Requirements Sequestration
-- **Ali Sulehria** (2.8h): Slamstick docs; (5.7h) undescribed
-- **Josh Fromm**: Four recent 8-hour blocks (undescribed)
-- **Dan**: Consistent pattern of 3–9.5 hour sessions (mostly undescribed)
+Recent work entries show consistent activity:
+- **Josh Fromm:** Four 8-hour blocks (recent pattern of steady engagement)
+- **Dan:** Majority of entries with variable durations (1.8h to 9.5h blocks)
+- **Ali Sulehria:** Documentation work noted ("slamstick docs")
+- **Jack Elston:** Requirements and meeting activities ("SOCOM Requirements Sequestration," "SOCOM Meeting")
+- **Stachura:** Intermittent contributions (1.1h–2.5h blocks)
 
-Work appears distributed across multiple recent sessions with no clear date stamps in the provided data.
+Most recent entries lack descriptions, limiting work-type visibility.
 
 ## Insights
-- **Documentation work identified:** Slamstick documentation and requirements sequestration are the only explicitly named tasks
-- **Sparse description practice:** 27 of 29 recent entries lack task descriptions, limiting visibility into actual work scope
-- **Workload concentration:** Dan and Josh Fromm account for 88.3% of tracked hours
-- **Consistent session sizes:** Josh Fromm's work shows regular 8-hour blocks; Dan's sessions vary 1.8–9.5 hours
-- **Low engagement from secondary contributors:** Ali, Stachura, and Jack represent minimal project involvement
-
-**Recommendation:** Encourage more detailed entry descriptions to improve project visibility and knowledge capture.
+- **Work types:** Limited documentation in logs; identifiable work includes requirements sequestration, documentation (slamstick), and meetings
+- **Patterns:**
+  - Dan carries dominant workload across many short-to-medium sessions
+  - Josh Fromm follows consistent 8-hour block pattern (likely scheduled blocks)
+  - Supporting contributors (Ali, Jack, Stachura) engaged on specific tasks (docs, requirements, meetings)
+  - High proportion of undescribed entries suggests either routine/ongoing work or tracking inconsistency
+- **Note:** No billable classification suggests internal R&D, infrastructure, or support work

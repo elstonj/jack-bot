@@ -1,110 +1,119 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 59 (45 previous + 14 new)
+- **Total messages scanned:** 68 (59 previous + 9 new)
 - **Date range:** 2–6 Nov 2026
 - **Volume:** Approximately 7–10 emails/day during this period
-- **Mix:** Promotional/automated content (~50%), work-related (~35%), task notifications (~10%), travel/hospitality (~5%)
+- **Mix:** Promotional/automated content (~55%), work-related (~30%), task notifications (~12%), industry newsletters (~3%)
 
 ## Key Correspondents
 
 ### Internal (Black Swift Technologies)
-- **Jack Elston** (elstonj@blackswifttech.com / elstonj@gmail.com) — primary technical coordinator on S0 UAS and NASA S2 projects; initiates large multi-party coordination threads; appears in Krateo Sky weekly integration meetings
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — DoD/USSOCOM liaison; handles classified/sensitive launch data coordination; **newly active: hosting Fri Nov 6, 3:00–3:30pm MST SOCOM Meeting with Josh, Alex Lomis, Maciej Stachura, Sam Hild**
+- **Jack Elston** (elstonj@blackswifttech.com / elstonj@gmail.com) — primary technical coordinator on S0 UAS and NASA S2 projects; **NEW: coordinating Water Survival Training with NOAA Federal contacts (Nick Underwood, Jason Sippel)**; initiates large multi-party coordination threads; appears in Krateo Sky weekly integration meetings
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — DoD/USSOCOM liaison; hosted Fri Nov 6, 3:00–3:30pm MST SOCOM Meeting with Josh, Alex Lomis, Maciej Stachura, Sam Hild
 - **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — S0 assembly documentation lead; drafting assembly guides (Vol 1 & 2) for Josh review
-- **Maciej Stachura** (stachura@blackswifttech.com) — core technical team; appears in Krateo Sky integration meetings and SOCOM coordination
+- **Maciej Stachura** (stachura@blackswifttech.com) — **NEW: active hybrid powertrain discussions with external partner Urs Wenger (Swiss Auto)**; core technical team; SOCOM meeting attendee
 - **Alex Lomis** (alex.lomis@blackswifttech.com) — core technical team; SOCOM meeting attendee
 - **Ben Busby** (ben.busby@blackswifttech.com) — core technical team
-- **Meredith Needham / Meredith O'Hara Needham** (meredith.needham@blackswifttech.com) — NASA S2 delivery coordination; battery procurement; **newly active: participant in Krateo Sky weekly integration meetings**
-- **Sam Hild** (sam.hild@blackswifttech.com) — SOCOM meeting attendee; receives forwarded external communications
+- **Meredith O'Hara Needham** (meredith.needham@blackswifttech.com) — **NEW: jawstec for S3 parts Asana task comment (Fri Nov 6, 22:13 UTC)**; NASA S2 delivery coordination; battery procurement; Krateo Sky weekly integration meetings
 
-### External — Government/Defense
-- **NOAA personnel** (ongoing primary contact cluster; not in new batch but sustained from previous)
-- **DoD/USSOCOM** (Special Operations Command):
-  - Daniel Prendergast coordination only; underlying SOCOM meeting Friday Nov 6 (NEW — active operational tempo)
+### External — Government
+- **NOAA Federal** (NEW activity):
+  - Nick Underwood (nicholas.underwood@noaa.gov) — Water Survival Training coordination with Jack Elston
+  - Jason Sippel (jason.sippel@noaa.gov) — Water Survival Training coordination
+  - **Implication:** S0 UAS project operational phase; personnel safety training underway
 
-### External — Strategic Partners
-- **Krateo Sky** (NEW — elevated to primary strategic partner status):
-  - Cory Dixon (cory@krateosky.com) — sends detailed integration slides; coordination of 18+ person meeting
-  - Contact (contact@krateosky.com) — meeting summary distribution
-  - Large internal team (Bob Smith, Brian Grubel, Adria Passola, Lluis Pedragosa, Ariel Avitan, Thibault Bridel-Bertomeu, LisaMarie Cheney, Dipan Amin, Tim Hegwood, Jed Leonard, Pam Kermisch, Don Spinozzi, Jasmine Khambatta, Roger Riley, Ellen McCarthy)
-  - **"Black Swift Weekly Integration Review" — recurring meeting with Krateo Sky; suggests deep technical partnership or integration work (NEW)**
+- **DoD/USSOCOM** — Daniel Prendergast coordination; SOCOM meeting Nov 6 (confirmed)
+
+### External — Strategic & Technical Partners
+- **Krateo Sky** — Cory Dixon, contact@krateosky.com; weekly integration review meetings
+- **Swiss Auto / Urs Wenger** (u.wenger@swissauto.com) — **NEW: hybrid powertrain options discussion with Maciej Stachura and Jack Elston**; potential propulsion system partner
 
 ### Automated/Promotional (NEW entries)
-- **RapidDirect** (danny@rapiddirect.com) — platform updates; manufacturing/rapid prototyping service (NEW)
-- **Fireflies.ai** (fred@fireflies.ai) — meeting recording service; actively recording "Black Swift Weekly Integration Review" (NEW — indicates systematic meeting capture)
-- **Birdcall** (hello@eatbirdcall.com) — local food/restaurant chain; promotional (food-related break/wellness pattern)
-- **Czero** (guy.babbitt@czero-solutions.com) — engineering newsletter; hard engineering problems focus
-- Asana, Expedia, Hilton Honors, TraceParts, PP Systems, AliExpress, UAS VISION (continued from previous)
+- **ProtoSpace Mfg / ProtoCASE** (marketingemail@protocase.com) — passivation/metal finishing service; manufacturing capability vendor (NEW)
+- **Toggl** (support@toggl.com) — time tracking platform (no subject line — possible account notification or onboarding)
+- **Continued:** Asana, Hilton, AliExpress, UAS VISION, Fireflies.ai, RapidDirect, Czero, etc.
 
 ## Topic Patterns
 
 ### Primary Work Focus (Updated)
-- **S0 UAS Assembly & Documentation** — ongoing (Brandon Messersmith drafting guides)
-- **Krateo Sky Strategic Integration** (NEW) — "Black Swift Weekly Integration Review"; suggests Krateo Sky is providing core technology/integration for BST projects; 18+ person coordination meeting indicates high complexity
-- **DoD/USSOCOM Operations** (NEW) — SOCOM Meeting Fri Nov 6, 3:00–3:30pm MST with Daniel Prendergast, Jack Elston, Maciej Stachura, Alex Lomis, Sam Hild; suggests operational planning or launch coordination (timing: day after previous data window)
-- **NASA S2 Delivery** — battery procurement accelerating
+- **S0 UAS Assembly & Documentation** — ongoing; Brandon Messersmith drafting guides
+- **S3 Parts Procurement** (NEW) — Meredith jawstec Asana task comment (Fri Nov 6 22:13 UTC); suggests S3 UAS variant development or next-generation component integration
+- **Krateo Sky Strategic Integration** — "Black Swift Weekly Integration Review" meetings
+- **DoD/USSOCOM Operations** — SOCOM Meeting Fri Nov 6; **NEW: Water Survival Training coordination** suggests operational/flight test phase for S0 UAS
+- **NASA S2 Delivery** — battery procurement
+- **Hybrid Powertrain Integration** (NEW) — Maciej Stachura coordinating with Swiss Auto (Urs Wenger) on "BlackSwift Hybrid Powertrain Options"; suggests propulsion system upgrade or alternative power architecture under evaluation
 - **Wind tunnel testing at ERAU** — ongoing
-- **Materials & Hardware Procurement** — Phase1AV, Ezurio, VertIQ, BatterySpace (continued accelerated sourcing)
+- **Materials & Manufacturing** — Phase1AV, RapidDirect, ProtoCASE passivation (NEW)
 
 ### Subject Clusters
-1. **Krateo Sky Integration** — weekly meetings, slides, cross-team coordination (NEW emphasis)
-2. **SOCOM Operations Planning** — Fri Nov 6 meeting with classified/sensitive briefing indicators
-3. **S0 Assembly/Manufacturing** — documentation, bill of materials, production readiness
-4. **Hardware Procurement** — motors, computing, power, rapid prototyping (RapidDirect)
-5. **UAS software/UI development** — S0 platform capabilities
-6. **Edge AI/ML inference** — onboard processing
-7. **DoD/USSOCOM coordination** — launch data, operations
+1. **S3 Parts & Next-Gen Development** (NEW) — jawstec component procurement
+2. **Hybrid Powertrain Architecture** (NEW) — Swiss Auto partnership evaluation
+3. **Operational Readiness** (NEW) — Water Survival Training for S0 UAS
+4. **Krateo Sky Integration** — weekly meetings
+5. **SOCOM Operations Planning** — Fri Nov 6 meeting
+6. **S0 Assembly/Manufacturing** — documentation, BOM, production
+7. **Hardware Procurement** — motors, computing, power
+8. **UAS software/UI** — S0 platform capabilities
+9. **Edge AI/ML inference** — onboard processing
 
 ## Communication Patterns
 
-- **"Black Swift Weekly Integration Review"** — recurring structured meeting with Krateo Sky; recorded by Fireflies.ai (NEW — systematic documentation)
-- **SOCOM meeting cadence** — Friday afternoon MST timing (operational synchronization with DoD)
-- **Large coordination threads** — Krateo Sky emails cc'd to 18+ Krateo Sky personnel + 4 BST core team members (Jack, Maciej, Meredith, Josh)
-- **Strategic vendor escalation** — Krateo Sky elevated from casual vendor to "weekly integration" partner status (NEW emphasis)
-- **Automated meeting capture** — Fireflies.ai recording Black Swift/Krateo Sky reviews; indicates systematic knowledge capture/compliance documentation
-- **Rapid prototyping velocity** — RapidDirect platform updates suggest active prototyping/manufacturing iteration
-- **Time patterns** — BST/Krateo weekly meetings Thu evening UTC (Thu 20:30 UTC = Thu 1:30pm MST / 12:30pm CST); SOCOM meeting Fri 3:00pm MST
-- **24-hour operations** — sustained international/UTC coordination visible
-- **Asana task notifications** — continued high-frequency task assignment
+- **"Black Swift Weekly Integration Review"** — recurring structured meeting with Krateo Sky; recorded by Fireflies.ai
+- **SOCOM meeting cadence** — Friday afternoon MST (operational synchronization)
+- **Asana task notifications** — high-frequency; Meredith coordinating S3 parts tasks
+- **Large multi-party coordination** — Jack Elston Water Survival Training email cc'd to 2 NOAA Federal contacts + Josh
+- **Maciej Stachura hybrid powertrain discussions** — multi-stakeholder (Jack Elston, external Swiss Auto partner, Josh on cc/recipient list)
+- **Time patterns (NEW observation)** — Meredith Asana S3 parts comment posted Fri 22:13 UTC (late evening); suggests ongoing weekend work or international timezone coordination
+- **24-hour operations sustained** — UTC timezone coordination continues; international partner engagement (Swiss Auto)
+- **Automated/promotional inbox saturation** — 55% of new batch promotional; Toggl, ProtoCASE, Hilton, AliExpress, UAS VISION continuing high volume
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-- **Jack Elston** — S0 UAS technical lead; Krateo Sky integration lead; SOCOM meeting participant
-- **Daniel Prendergast** — SOCOM operations interface; meeting organizer (Fri Nov 6)
-- **Maciej Stachura** — technical coordination on integration; SOCOM meeting participant
-- **Meredith Needham** — power/battery procurement; Krateo Sky integration participant
-- **Brandon Messersmith** — assembly documentation/manufacturing lead
+- **Jack Elston** — S0 UAS technical lead; Krateo Sky integration lead; SOCOM meeting participant; **NEW: Water Survival Training coordinator with NOAA**
+- **Daniel Prendergast** — SOCOM operations interface
+- **Maciej Stachura** — **NEW: hybrid powertrain technical lead**; technical coordination
+- **Meredith O'Hara Needham** — **NEW: S3 parts procurement lead (Asana)**; battery/power; Krateo integration
+- **Brandon Messersmith** — assembly documentation/manufacturing
 
-### Critical External Relationships (Elevated/New)
-1. **Krateo Sky (Strategic Partner — NEW)** — weekly deep technical integration meetings; Cory Dixon coordination; likely providing core UAS/flight software or integration platform
-2. **SOCOM (DoD customer)** — Fri Nov 6 operational meeting suggests active launch planning or operations coordination
-3. **Joe Cione (NOAA)** — S0 UAS project driver; NEOTAC coordination
-4. **Joshua Wadler (ERAU)** — wind tunnel testing
-5. **Wesley Enos (NASA Ames)** — S2 delivery
-6. **Simon Laurence (UK MoD)** — international partner
-7. **Phase1AV** — critical materials supplier
-8. **MicroNova** — strategic partnership (Nov 12–22)
+### Critical External Relationships
+1. **Krateo Sky** — primary strategic technology partner; weekly integration meetings
+2. **USSOCOM** — active DoD customer; Fri Nov 6 operational meeting
+3. **Swiss Auto (Urs Wenger)** — **NEW: hybrid propulsion system partner** (evaluating powertrain options with Maciej Stachura, Jack Elston)
+4. **NOAA** (Nick Underwood, Jason Sippel) — **NEW: operational training coordination**; S0 UAS project customer/partner
+5. **Joe Cione (NOAA)** — S0 UAS project driver; NEOTAC
+6. **Joshua Wadler (ERAU)** — wind tunnel testing
+7. **Wesley Enos (NASA Ames)** — S2 delivery
+8. **ProtoCASE / ProtoSpace Mfg** — metal finishing/passivation vendor (NEW)
 
 ## Notable Observations
 
-- **Krateo Sky is now a primary technology partner (NEW)** — Elevated from casual vendor to "Black Swift Weekly Integration Review" status with 18+ person coordination meeting; suggests Krateo Sky is providing critical flight software, integration platform, or core UAS technology; this is a **strategic partnership, not a supplier relationship**
+- **S3 UAS variant development underway (NEW)** — Meredith Asana comment on "jawstec for s3 parts" (Fri Nov 6, 22:13 UTC); suggests next-generation UAS component procurement or S3 platform development running parallel to S0/S2 delivery; **jawstec** is an unknown internal system or vendor name — warrants clarification in follow-up
 
-- **SOCOM meeting scheduled for Fri Nov 6, 3:00–3:30pm MST (NEW)** — Daniel Prendergast coordinating; includes Jack Elston, Maciej Stachura, Alex Lomis, Sam Hild; timing suggests operational launch coordination or classified briefing; 30-min duration suggests decision point or status update
+- **Hybrid propulsion system evaluation (NEW — SIGNIFICANT)** — Maciej Stachura coordinating with Swiss Auto (Urs Wenger) on "BlackSwift Hybrid Powertrain Options"; suggests BST is evaluating alternative/upgraded power architecture (likely addressing range, endurance, or payload constraints on S0/S2/S3 platforms); this is a **strategic technical decision point**
 
-- **Systematic meeting documentation via Fireflies.ai (NEW)** — "Black Swift Weekly Integration Review" is being automatically recorded and transcribed; indicates compliance, knowledge management, or classified briefing documentation requirement
+- **Water Survival Training coordination confirms operational phase (NEW)** — Jack Elston coordinating formal training with NOAA Federal personnel (Nick Underwood, Jason Sippel); indicates S0 UAS is transitioning to operational/flight test phase with real personnel safety requirements; training subject line marked [IMPORTANT, INBOX]
 
-- **RapidDirect engagement (NEW)** — rapid prototyping/manufacturing platform updates suggest active build iteration or production tooling phase; complements Phase1AV materials sourcing and Brandon Messersmith assembly documentation
+- **S3 development appears to run in parallel to S0/S2 delivery (NEW pattern)** — Meredith working on S3 parts procurement (Fri Nov 6, 22:13 UTC) while simultaneously managing S2 battery delivery and Krateo integration; suggests 3-platform development roadmap (S0 operational, S2 delivery, S3 component procurement) — **aggressive product development velocity**
 
-- **Josh's role appears to be: Technical Program Lead with strategic partnership oversight** — Participating in Krateo Sky weekly integration meetings, SOCOM operations coordination, and cross-functional supply chain/assembly management; high responsibility for external partner coordination
+- **Swiss Auto partnership is NEW and strategic (NEW confidence level)** — Email marked [IMPORTANT, INBOX]; involves Jack Elston (technical lead) and Maciej Stachura (integration); likely propulsion system is critical path item for next-generation platform
 
-- **Supply chain + Manufacturing + Operations convergence (NEW pattern)** — Phase1AV materials (urgent), RapidDirect prototyping (active builds), Brandon assembly docs (production readiness), and SOCOM meeting (launch planning) all visible in same Nov 5–6 timeframe; suggests project moving from integration to operational deployment phase
+- **Late-night task coordination pattern (NEW observation)** — Meredith posting Asana S3 comment at 22:13 UTC (Fri evening); suggests either international timezone work or weekend/evening operational tempo; consistent with "24-hour operations" pattern identified earlier
 
-- **International + DoD + Commercial partner alignment (NEW)** — Krateo Sky (commercial), UK MoD (international), NOAA (government civilian), NASA (government research), USSOCOM (DoD) all coordinating on S0 UAS; indicates allied operations or export approval process underway
+- **ProtoCASE/ProtoSpace Mfg engagement (NEW supplier)** — passivation service email suggests active metal fabrication/finishing work; complements RapidDirect rapid prototyping and Phase1AV materials sourcing; indicates manufacturing supply chain is diversified across rapid prototyping (RapidDirect), materials (Phase1AV), finishing (ProtoCASE), and assembly (Brandon Messersmith docs)
 
-- **Promotional noise at 50% (HIGH)** — Hilton, Expedia, Birdcall, AliExpress, TraceParts, PP Systems, Czero newsletters dominating inbox; suggests email filters may need tuning for work context (but Fireflies.ai recording indicates deliberate meeting capture, so email system not entirely unmanaged)
+- **Josh's refined role: Technical Program Lead with strategic technology partnerships + operations coordination + multi-platform development oversight** — Participating in Krateo Sky integration, SOCOM ops, S0/S2/S3 supply chain, and emerging hybrid powertrain evaluation; high strategic responsibility for external partner alignment and parallel product roadmap execution
+
+- **Promotional inbox still at 55% (HIGH)** — email filtering/management remains a potential efficiency issue; however, [IMPORTANT, INBOX] markers on critical emails (Jack Elston water training, Maciej Stachura hybrid powertrain) indicate Josh is manually flagging priority work
 
 ---
 
-**MERGED KNOWLEDGE FILE UPDATED:** Previous data retained. **Krateo Sky elevated to primary strategic technology partner.** SOCOM meeting added (Fri Nov 6). RapidDirect manufacturing engagement confirmed. Fireflies.ai systematic meeting recording noted. Supply chain + manufacturing + operations convergence pattern identified. Josh's role refined to Technical Program Lead with strategic partnership & operations coordination.
+**MERGED KNOWLEDGE FILE UPDATED (NEW DATA INTEGRATED):**
+
+**NEW FINDINGS:**
+1. **S3 UAS variant development confirmed** — jawstec parts procurement active (Meredith Asana, Fri Nov 6)
+2. **Hybrid propulsion evaluation underway** — Swiss Auto (Urs Wenger) partnership being evaluated for "BlackSwift Hybrid Powertrain Options"
+3. **Operational phase confirmed** — Water Survival Training coordination with NOAA Federal (Nick Underwood, Jason Sippel); S0 UAS personnel safety training indicates imminent operations
+4. **ProtoCASE metal finishing** — manufacturing supply chain expanded to include passivation/finishing services
+5. **Late-night coordination pattern** — Meredith S3 task activity at 22:13 UTC suggests weekend/evening work or international coordination

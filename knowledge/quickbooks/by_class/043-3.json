@@ -5,8 +5,8 @@
     "[043] By Light Professional IT Services LLC:[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2024-11-06",
-    "end": "2026-11-06"
+    "start": "2024-11-07",
+    "end": "2026-11-07"
   },
   "totals": {
     "revenue": 189523.0,
@@ -102,7 +102,7 @@
         {
           "amount": 379.75,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "LTL Service"
+          "description": "LTL Service Shipping"
         }
       ]
     }
