@@ -1,25 +1,24 @@
-_Asana snapshot as of 2026-11-04: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 1 open tasks, 0 completed (last 90 days)._
 
-# Hiring Pipeline [001-13]
+# [001-13] Hiring Pipeline
+
+## Status
+**ARCHIVED** — This project is no longer active. Only 1 open task remains (unassigned candidate record with no due date).
 
 ## Overview
-- **Client/Owner:** Black Swift Technologies (Internal — Operations)
-- **Status:** ARCHIVED
-- **Team:** Operations
-- **Risk Signals:** None (archived project)
-
-## Key Deliverables & Milestones
-None defined in this archived project.
-
-## Task Summary
-- **Total tasks:** 1 open, 0 completed
-- **Open task:** Generic candidate placeholder (unassigned, no due date)
-- **Pattern:** Minimal activity; appears to be a template or legacy structure
+- **Team**: Operations
+- **Purpose**: Tracking candidates through the hiring process
+- **Active Tasks**: 1 (open, unassigned)
+- **Completed Tasks**: 0
 
 ## Recent Activity
-Project is archived. Last activity noted in team feedback (Oct 22–23, 2026) related to hiring completion, with Joshua Fromm acknowledging <@U02L91J99KM>'s hiring work.
+Per Joshua Fromm (2026-10-23, 2026-10-22), team members received recognition for "all the hard work with hiring." This aligns with the archived status — the project appears to have completed its primary hiring cycle.
 
 ## Notes & Context
-This project tracked candidates through the hiring pipeline but is no longer in active use. A single placeholder task remains ("Candidate: Candidate Name") but is unassigned and has no due date.
+- The single remaining open task is a placeholder candidate record with no due date and no assignee
+- Archive status suggests hiring efforts have concluded or transitioned to a different tracking system
+- No milestone dates, dollar amounts, or detailed deliverables are tracked in this project
 
-**Team Context:** Maciej's Oct 27 feedback indicates a broader Asana restructuring effort is planned to simplify R&D project tracking and improve visibility with the physical Kanban board. This hiring pipeline project should be considered out of scope for that restructuring — it is archived and owned by Operations, not engineering R&D.
+---
+
+**Recommendation**: Close or delete the remaining open task if it's no longer relevant. If hiring pipeline tracking continues, consider whether it should move to a new active project under updated Operations workflow (per Maciej's 2026-10-27 feedback about Asana restructuring for better R&D visibility).

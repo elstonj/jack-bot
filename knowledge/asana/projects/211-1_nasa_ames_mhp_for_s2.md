@@ -1,36 +1,32 @@
-_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 
 # [211-1] NASA Ames MHP for S2
-
-## Status
-**ARCHIVED** (as of 2026-10-27/28 per Maciej's archival feedback)
-
-Project is complete. Launcher was delivered to CU in late January 2025; awaiting return and final documentation.
 
 ## Overview
 - **Client:** Richard Kolyer, NASA Ames Research Center
 - **Contact:** r.kolyer@nasa.gov, (650) 604-5503
-- **Dollar Value:** $3,470.00
-- **Timeline:** Due 2025-01-31 (delivered)
-- **Team:** BST (Whole Team)
-- **Products/Services:** MHP (Micro Helicopter Probe)
+- **Dollar value:** $3,470.00
+- **Timeline:** Project due 2025-01-31 (completed)
+- **Status:** **ARCHIVED** — Project complete as of March 27, 2025
+- **Team:** Black Swift Technologies (whole team)
+- **Product/Service:** MHP (Micro Helicopter Probe)
 
-## Key Milestones
-- **Aircraft & Launcher Delivery:** Completed
-  - Launcher delivered to CU by ~1/22/25
-  - Aircraft to be returned after probe installation with hardware/software documentation
-  - Richard Kolyer presenting at NASA airworthiness review
+## Key Deliverables & Milestones
+- **Launcher modification & delivery:** Completed. Launcher shipped to CU (Kevin's contact) by late January 2025.
+- **Aircraft return & documentation:** Completed. Aircraft returned to NASA Ames with hardware/software work summary for R. Kolyer's NASA airworthiness review presentation.
+- **Testing of new launch setup:** Requested by NASA Ames; appears to have been accommodated.
 
 ## Recent Activity
-- **1/22/25:** Kevin confirmed launcher delivered to CU; recipient expected to receive by end of week
-- **1/15/25:** Request issued to send aircraft back after probe installation; short write-up of hardware & software work needed for NASA presentation
-- **1/04/25:** Launcher modification in progress; engineering review underway
+- **2025-01-22:** Launcher delivered to CU; Kevin confirmed receipt and expected handoff by Thursday.
+- **2025-01-15:** Aircraft return and technical write-up (hardware & software) required for NASA airworthiness review.
+- **2025-01-04:** Engineering drawing review underway; launcher modifications in process.
+- **2025-03-27:** Project marked complete and archived.
 
 ## Notes & Context
-- Project notes mention launcher engineering review uncovered some items (notes cut off in source data)
-- Customer requested testing of their new launch setup as well
-- All invoicing completed; project ready for archival per Maciej's 2026-10-27 feedback
+- No open or completed tasks remain in Asana (0 open, 0 completed) — project fully archived.
+- Engineering notes indicate NASA Ames requested testing of their new launch setup as part of the engagement.
+- Admin notes (as of 1/22/25) indicate launcher arrived at CU and team was awaiting logistics coordination for final return.
+- Subcontracting: N/A (no external subcontractors).
 
 ---
-
-**Note:** No open tasks remain in Asana (0 open, 0 completed shown). Project has moved to completion and archival phase.
+**Note:** This project is archived and complete. No further action required in Asana.

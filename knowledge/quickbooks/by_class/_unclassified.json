@@ -70,12 +70,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-07",
-    "end": "2026-11-07"
+    "start": "2024-11-08",
+    "end": "2026-11-08"
   },
   "totals": {
     "revenue": 3797232.11,
-    "expenses": 4879759.57,
+    "expenses": 4878337.69,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -91,7 +91,7 @@
       "Spark One Jack #3168": 70684.0,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52940.85,
+      "Indirect Cost:Software Expenses": 52915.85,
       "GENERAL & ADMINISTRATIVE:Business Development": 51275.7,
       "FACILITIES:FA-Office Supplies": 48662.97,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
@@ -144,7 +144,6 @@
       "Indirect Cost:Internal Research and DevelopmentX": 2008.07,
       "SALES & MARKETING:SM-Dues & Subscriptions": 1960.44,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 1900.0,
-      "Soil Moisture Investment": 1396.88,
       "DIRECT COSTS:DC-Direct Travel": 1366.78,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
       "Other Receivables": 1020.0,
@@ -57144,42 +57143,6 @@
           "amount": 180.0,
           "account": "Indirect Cost:License, Permit, Misc Tax Exp",
           "description": "Maciej: Pilot Third (3rd) Class Pilot Medical Certification Exam"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-07",
-      "doc_number": "",
-      "total": 25.0,
-      "attributed": 25.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "INSTAGANTT               MIAMI        FL",
-      "lines": [
-        {
-          "amount": 25.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "INSTAGANTT               MIAMI        FL"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-07",
-      "doc_number": "",
-      "total": 1396.88,
-      "attributed": 1396.88,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "UVA accidentally sent Soil Moisture Investment a check for $1,396.88 at the end of August 2024. BST received a phone call from UVA on Wed. Nov. 6, 2024 informing them it was an incorrect payment. This payment is returning the incorrect funds. (Return address: UVA, Clark Hall Building 291 McCormick Rd, Charlottesville, VA 22901) PO - 0212454 (phone 434-243-0790)",
-      "lines": [
-        {
-          "amount": 1396.88,
-          "account": "Soil Moisture Investment",
-          "description": "BILL PAY University of Virginia                ON-LINE No Account Number ON 11-07"
         }
       ]
     }

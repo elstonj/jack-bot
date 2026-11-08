@@ -1,108 +1,148 @@
-_Asana snapshot as of 2026-11-07: 229 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 175 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Purchasing
 
 ## Overview
-- **Team:** BST (Whole Team)
+- **Client/Customer:** Black Swift Technologies (BST) — internal purchasing and procurement management
 - **Owner:** Meredith O'hara Needham
-- **Status:** Active — high-volume operational purchasing process
-- **Task Volume:** 229 open tasks, 0 completed
-- **Risk Signal:** Massive backlog of 229 open purchasing requests with many orders already placed/shipped/received but not closed in Asana. This suggests a process failure: orders are being executed in the real world but task closure is not happening systematically.
+- **Team:** Whole BST team (requesters include Joshua Fromm, Alex, Dan P., Spencer, Nate, Ethan, Sam, Alex Lomis, and others)
+- **Status:** Active — ongoing purchasing operations
+- **Timeline:** Continuous operations; tasks span from May 2026 through January 2027
+- **Budget Tracking:** Heavy use of custom fields (Tax Exempt status, Project billing, Requester name)
 
-**Critical Note:** The project notes direct users to submit purchasing requests via a form. The form URL is: `https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594`
-
-## Key Observations
-
-### Order Status Distribution (Sample from visible tasks)
-- **Order Placed:** ~20 tasks (earliest due dates in Oct–Nov 2026)
-- **Order Shipped:** ~4 tasks
-- **Order Received:** ~40 tasks
-- **Order Placed in Inventory:** ~165 tasks (majority of backlog; due dates range May 2026–Jan 2027)
-
-### Projects Being Supported (Partial List)
-- **[001-3] IRAD S0** – S0 IRAD components
-- **[001-4] IRAD S0 VTOL** – VTOL-specific parts
-- **[001-7] IRAD S3** – S3 sensor platform
-- **[001-16] IRAD Swiftstation** – Ground control station
-- **[001-18] IRAD Soil Moisture** – Environmental sensor
-- **[001-23] SOCOM S0-AD** – Special operations variant
-- **[043-3] Mustang Pt. 2** – ByLight platform subproject
-- **[212-2] NASA S2 & Parts** – NASA partnership
-- **[300-3] 2026 IDIQ (Hurricane)** – IDIQ contract vehicle
-- **[451-1] INSTAAR S3 x2** – Academic partnership (2 units)
-- **[550-1] Navy SBIR: Magnetometer** – Navy magnetometer development
-- **[600-01] SOCOM Pope ii** – SOCOM variant
-- **Shop Supplies** – General shop consumables & equipment
-- **General Sales (No Specific Project)** – Commercial inventory
-
-### Key Requesters
-- **Joshua Fromm** – Dominant requester (majority of tasks)
-- **Alex** / **Alex Lomis** – Hardware integration
-- **Ethan** / **Ethan Domagala** – ByLight/Mustang subproject
-- **Spencer** – Testing/ops
-- **Dan / Dan Prendergast** – SOCOM/integration
-- **Sam** – S3 repairs/fixes
-- **Nate / Nathaniel Straus** – IRAD General
-
-### Common Vendors
-- **Amazon, McMaster, Digikey, Mouser** – Electronics & hardware (high frequency)
-- **JawsTec, SendCutSend, Protolabs** – Fabrication/machining
-- **Horizon Hobby, GetFPV** – Drone/aerial components
-- **Servocity, MKS, Pololu** – Motion control
-- **Clearwater Composites, RFMall** – Specialized materials
-
-## Task Summary
-
-### Assignee Breakdown
-- **Meredith O'hara Needham:** ~20 tasks assigned (most recent purchases in Nov 2026)
-- **Unassigned:** ~209 tasks (vast majority in "Order Placed in Inventory" status, suggesting completed but not closed)
-
-### Completion Rate
-- **0% formal closure rate** – All 229 tasks remain open despite order statuses indicating completion
-
-### Notable Pattern
-This is not a backlog of *pending* work; it is a **closed-loop tracking failure**. Orders are being placed, shipped, and received, but tasks are not being marked complete in Asana. This creates two problems:
-1. **Data staleness** – Task due dates become meaningless (many tasks have due dates in May–July 2026 but remain open in Nov 2026)
-2. **Process visibility loss** – Leadership cannot see which orders are actually outstanding vs. completed
-
-## Recent Activity
-
-### Immediate Deadlines (Nov 2026)
-- **Nov 8:** Amazon shop supplies (Joshua Fromm) — Order Placed
-- **Nov 7:** Multiple tasks due today:
-  - Microhard P900/P400 for [300-3] IDIQ (Jack Elston) — Order Placed
-  - Eugene Hobbies shop supplies (Joshua Fromm) — Order Placed
-  - JawsTec multiple projects (Joshua Fromm) — Order Placed
-  - McMaster (Alex) — Order Shipped
-  - And ~25 more with "Order Placed in Inventory" status
-
-### Mid-November Activity
-- Tasks moving from "Order Placed" → "Order Shipped" → "Order Received" status
-- Heavy activity on [451-1] INSTAAR S3 x2 (sales builds)
-- [300-3] Hurricane IDIQ receiving ongoing support (S0 AD fixes, connectors, parts)
-
-## Notes & Context
-
-### Process Issue
-The form-based submission system (`https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594`) is creating tasks, but **there is no visible task closure workflow**. Orders marked "Order Received" should be closed but remain open indefinitely, creating data decay.
-
-### Data Quality Issues
-1. **Truncated Notes:** Many order descriptions are incomplete (e.g., "jawstec for multiple projects — MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION")
-2. **Orphaned Multi-Project Orders:** Several orders cannot be billed correctly because project breakdown was not provided in the description
-3. **Tax Exempt Status:** Tracks 60 tax-exempt vs. 169 taxable orders (important for accounting but not enforced in form)
-
-### Operational Insights
-- **High vendor diversity:** ~50+ vendors suggests decentralized procurement by engineers (not centralized vendor contracts)
-- **Rapid replenishment cycle:** Majority of orders are <$500 consumables and parts (inferred from order names)
-- **Sales support tier:** Significant procurement for [451-1] INSTAAR S3 x2 suggests active customer delivery
-- **Contractor support:** IDIQ vehicle ([300-3]) is a major throughput driver
-
-### Recommendations for Future Workflow
-1. **Implement task closure automation:** Orders with "Order Received" status >7 days should trigger a review or auto-close
-2. **Enforce multi-project breakdown:** Block form submission if "MULTIPLE PROJECT" is selected without a detail section
-3. **Consolidate approval:** Only 1 task requires approval ("ADS-B for S30002"); approval gate may be ineffective
-4. **Archive old inventory:** Tasks with "Order Placed in Inventory" due >30 days in the past should move to archive
+## Recent Authority Update (Oct 2026)
+**From Meredith O'hara Needham [2026-10-13 & 2026-10-12]:**
+- During Meredith's absence, **Beck holds the BST company credit card**
+- All purchase requests must go to Beck for card access or card provision
+- **Requesters must still submit purchase request forms in Asana for tracking** — forms auto-delete if not completed via the designated form link: https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594
+- This ensures audit trail and prevents Meredith having to track down requesters for purchase details
 
 ---
 
-**Data Extraction Date:** Raw data shows orders from May 2026 through November 2026. File integrity: All 229 tasks extracted; excessive truncation at end of task list indicates data was very large but complete within token budget.
+## Key Deliverables & Milestones
+This is a transactional project without traditional deliverables. Instead, it tracks **purchase requisitions by status and project affiliation**:
+
+| Status | Count | Examples |
+|--------|-------|----------|
+| **Order Placed** | ~8 | Amazon shop supplies, Microhard components, Eugene Hobbies, Jawstec multi-project orders |
+| **Order Shipped** | ~5 | Jawstec S3 parts, McMaster, DigiKey, DataPro, Minibox multi-project |
+| **Order Received** | ~30 | MKS servos, Amazon items, McMaster, various hobbies suppliers, components |
+| **Order Placed in Inventory** | ~120 | Large backlog of pending/staged orders across all projects |
+| **Unassigned (Pending Review)** | Multiple | Older received orders now awaiting closure or billing finalization |
+
+---
+
+## Task Summary
+
+### Overall Volume
+- **Total Open Tasks:** 175
+- **Completed Tasks:** 0 (no tasks have been marked complete in this project)
+
+### Breakdown by Assignee
+
+| Assignee | Count | Notes |
+|----------|-------|-------|
+| **Meredith O'hara Needham** | ~10 | Primary project owner; assigned most recent/active orders |
+| **Unassigned** | ~165 | Majority of tasks; indicates orders in inventory/staged or awaiting review |
+
+### Breakdown by Requester (actual order requesters)
+
+| Requester | Orders | Primary Projects |
+|-----------|--------|------------------|
+| **Joshua Fromm** | ~130 | Shop Supplies, Multi-project, IRAD S0/S3, Hurricane IDIQ, INSTAAR S3, NASA S2, various |
+| **Alex** | ~20 | IRAD S0 VTOL, IRAD S3, IRAD Swiftstation, Navy SBIR Magnetometer, Mustang Pt. 2, SOCOM Pope ii |
+| **Dan / Dan P. / Dan Prendergast** | ~5 | IRAD S3 components, SOCOM Pope ii, Customer Support |
+| **Spencer** | ~4 | IRAD S3, Soil Moisture, Swiftstation |
+| **Nate / Nathaniel Straus** | ~2 | IRAD General, Hurricane IDIQ |
+| **Ethan / Ethan Domagala** | ~6 | Mustang Pt. 2, Shop supplies, IRAD S3 |
+| **Sam** | ~10 | IRAD S3 fixes/backups, Hurricane IDIQ, Shop supplies, Navy SBIR Magnetometer |
+| **Alex Lomis** | ~1 | SOCOM Pope ii |
+
+### Completion Rate
+- **0% overall** — no tasks have been closed/completed
+- This is typical for a purchasing/procurement project where tasks serve as purchase order records rather than action items
+
+### Notable Patterns
+
+1. **Joshua Fromm dominates order volume** (~75% of all purchases)
+2. **Heavy multi-project billings** — many orders tagged "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" suggest Joshua bundles purchases and requires billing clarification
+3. **Tax-exempt tracking is critical** — custom field shows YES/NO for many orders across government/non-profit projects (IDIQ Hurricane, Navy SBIR, etc.)
+4. **Project allocation**:
+   - **[300-3] 2026 IDIQ (Hurricane):** ~25 orders
+   - **[001-7] IRAD S3:** ~20 orders
+   - **[451-1] INSTAAR S3 x2:** ~15 orders
+   - **Shop Supplies:** ~15 orders
+   - **[001-4] IRAD S0 VTOL, [001-16] IRAD Swiftstation, [550-1] Navy SBIR:** ~10–12 each
+   - **General Sales, [001-1] IRAD General, [212-2] NASA S2, [043-3] Mustang Pt. 2, [600-01] SOCOM Pope ii:** smaller volumes
+
+---
+
+## Recent Activity
+
+### Orders Placed / Recently Active (Nov 2026)
+- **amazon shop supplies** — due Nov 8, Order Placed
+- **Microhard 10x p900 / 100x p400** — due Nov 7, Order Placed (Hurricane IDIQ, tax-exempt)
+- **eugene hobbies, jawstec, batteryspace, mouser, amazon** — multiple due Nov 3–6, Order Placed or Shipped statuses
+- **protocase for multiple projects** — due Oct 24, Order Placed (Joshua Fromm requesting)
+
+### Orders Received (Oct–Nov 2026)
+- **mks servos for S3 sales** — due Nov 6, Order Received
+- **Amazon [550-1]** — due Nov 4, Order Received
+- **mcmaster, Amazon Shop Supplies Tapes, mcmaster(S3), hiawatha hobbies** — due Nov 1, Order Received
+
+### Backlog / Inventory ("Order Placed in Inventory")
+- **Large pending queue** with due dates 2026-12-29 and 2027-01-04
+- Vendors include: Amazon, Digikey, Jawstec, McMaster, SendCutSend, Protolabs, Clearwater Composites, Sparkfun, Hitec, APC, Servocity, Microhard, FTDI, and specialized suppliers (e.g., Bartington, Vertiq, Southco)
+- **Billing backlogs:** Multiple "MULTIPLE PROJECT" orders awaiting breakdown (e.g., digikey, McMaster, minibox, powerwerx)
+
+### Stale / Very Old Orders
+- **Amazon S0 IRAD** (Spencer) — ordered Aug 7, due Aug 15, Status: Order Received (60+ days overdue, not closed)
+- **3DR** (Alex) — ordered Aug 25, due Aug 30, Status: Order Received
+- **GetFPV** (Alex) — ordered Aug 25, due Sep 4, Status: Order Received
+- **Dronetag Mini 4G** (Dan Prendergast) — ordered Aug 24, due Sep 2, Status: Order Received
+- Multiple July/June orders still showing "Order Received" with no closure action
+
+---
+
+## Notes & Context
+
+### Critical Process Issues
+1. **No task closure discipline:** 175 open, 0 completed. Even fully received orders remain open, creating clutter and unclear inventory status.
+2. **Billing breakdown backlog:** Many "MULTIPLE PROJECT" orders lack vendor-to-project mapping. This creates accounting friction for Meredith.
+3. **Auto-delete form requirement:** The Asana form link is the official intake mechanism. Tasks not entered via form will auto-delete, creating potential gaps in records.
+
+### Project Patterns
+- **High volume, low-value transactions:** Most orders are <$500 consumables/components; no single purchase exceeds contract thresholds typically requiring approval
+- **Tax-exempt compliance:** Many orders marked YES for tax-exempt status (government IDIQ, non-profit research), requiring proper handling for compliance
+- **Vendor diversity:** 50+ vendors across electronics, composites, fasteners, consumables, and services (3D printing, CNC, etc.)
+
+### Team Workflow
+- **Joshua Fromm as primary requester** suggests he may be the lead sourcing/procurement person for engineering teams
+- **Alex, Spencer, Ethan focus on IRAD variants** and specialized projects (Mustang, Swiftstation, Magnetometer)
+- **Sam handles field fixes/backup components** (regulators, RF connectors, remote ID modules)
+
+### Risk Signals
+1. **Aged inventory backlog:** Many orders in "Order Placed in Inventory" status with due dates 2+ months old suggest these are parked/approved but not yet ordered or delivered
+2. **Unassigned aging tasks:** ~165 unassigned tasks may indicate:
+   - Backlog awaiting Meredith's review or billing direction
+   - Potential duplicate or overlapping purchase requests
+3. **Manual billing breakdowns needed:** Joshua's multi-project orders require manual decoding, slowing expense allocation
+4. **Form compliance risk:** Auto-delete policy means missed submissions will erase records without visibility
+
+### Recommendations for Context
+- **Close completed orders:** Establish a protocol to mark "Order Received" items as complete once inventory intake is confirmed
+- **Standardize project tagging:** Enforce single-project assignment or create sub-tasks for multi-project orders to ease billing
+- **Track Beck's credit card spend:** With Meredith out, ensure Beck maintains parallel records of approved charges vs. Asana entries
+- **Periodic aging report:** Flag orders 30+ days in "Order Placed in Inventory" for expediting or cancellation
+
+---
+
+## Dollar Value & Project Billing
+
+No explicit budget totals are visible in custom fields. However, based on vendor patterns and typical component costs:
+- **Electronics/Components:** Digikey, Mouser, Jawstec orders likely $200–$2,000 each
+- **Consumables:** Shop supplies, hobbies vendors $50–$500 each
+- **Manufacturing:** Protolabs, SendCutSend, CraftCloud likely $500–$5,000 per order
+- **Specialized equipment:** Microhard, Bartington sensors, Dronetag, Vertiq drives likely $1,000–$10,000+
+
+**Total spend across open/inventory tasks:** Estimated $50,000–$150,000+ pending reconciliation and tax-exempt status verification.

@@ -1,32 +1,31 @@
-_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 
 # SBIR - Hurricane Phase II+
 
 ## Overview
-- **Client/Customer:** University of Miami (NOAA) – Specifically NOAA/AOML/HRD
-- **Total Budget:** $344,000 (fully funded to Black Swift Technologies)
+- **Client/Customer:** University of Miami (NOAA) — Dr. Joseph Cione (GPC, NOAA/AOML/HRD), Dr. Jun Zhang (UPC, University of Miami/CIMAS)
+- **Dollar Value:** $344,000 total budget; $344,000 to Black Swift (no subcontractors)
 - **Project Owner:** Jack Elston
-- **Status:** **ARCHIVED** (as of Jan 3, 2024)
-- **Team:** BST (Whole Team)
-- **Key Contacts:**
-  - **GPC (Government Point of Contact):** Dr. Joseph Cione, NOAA/AOML/HRD, Miami, FL | joe.cione@noaa.gov
-  - **UPC (University Point of Contact):** Dr. Jun Zhang, University of Miami/CIMAS, Miami, FL | Jun.Zhang@rsmas.miami.edu
-  - **Billing Contact:** Luis Quijada, lcq5@miami.edu
+- **Status:** **ARCHIVED** — Project appears to be completed as of January 3, 2024
+- **Team:** BST (whole team)
+
+## Key Contacts
+- **Technical POC (GPC):** Dr. Joseph Cione, joe.cione@noaa.gov, Joseph.J.Cione@OSTP.eop.gov
+- **Billing POC:** Luis Quijada, lcq5@miami.edu
+- **Technical POC (UPC):** Dr. Jun Zhang, Jun.Zhang@rsmas.miami.edu
+
+**Note:** GPC and UPC are designated Subject Matter Experts for non-contractual technical questions. Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO).
 
 ## Key Deliverables & Milestones
-- Products/Services: S0, Custom Payload
-- All major milestones completed as of Jan 3, 2024 (see Asana links in project notes)
+- **Products/Services:** S0, Custom Payload
+- Status update reference dated Jan 3, 2024 indicates project completion (links to completed task summaries provided in project notes)
 
 ## Task Summary
-- **Total Tasks:** 0 open, 0 completed
-- All work closed out; project archived
+- **Total tasks:** 0 open, 0 completed (all tasks archived with project)
 
-## Recent Activity
-Project status update completed Jan 3, 2024. All tasks closed and project transitioned to archived status.
+## Status
+Project marked **ARCHIVED** as of January 3, 2024. All deliverables appear to have been completed and closed out.
 
-## Notes & Context
-- This is a Phase II+ SBIR contract with NOAA
-- SMEs (Dr. Cione and Dr. Zhang) are available for technical, non-contractual questions
-- Any technical disagreements or contractual changes must be directed to the Contracting Officer (CO)
-- No active work remains; reference archived Asana links for historical task records
-- Subcontractor: N/A (direct delivery by BST)
+---
+
+**Note:** The project notes indicate custom field updates were needed (`[Updates needed]` in Admin Notes). No recent activity or ongoing tasks are visible in Asana. If project details or final deliverables need clarification, refer to the GPC (Dr. Cione) or UPC (Dr. Zhang).

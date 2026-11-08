@@ -1,41 +1,31 @@
-_Asana snapshot as of 2026-11-04: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 1 open tasks, 0 completed (last 90 days)._
 
-# Corporate / Strategic Planning [001-13]
+# [001-13] Corporate / Strategic Planning
 
 ## Status
-**ARCHIVED** (as of Jun 16, 2024)
-
-This project is no longer active. It was a high-level strategic planning initiative focused on marketing goals and customer segmentation.
+**ARCHIVED** — This project was last updated June 16, 2024 and contains only 1 open task with no due date. No active work is occurring.
 
 ## Overview
-- **Type:** Corporate/strategic planning with marketing focus
-- **Team:** Whole BST team
-- **Last activity:** June 16, 2024
-- **Key customers identified:** NOAA, NASA, DOD, CO OEDIT
-- **Notable revenue:** NASA ($90k in 2023), CO OEDIT ($152k)
-
-## Marketing Strategy Goals
-The project outlined SMART objectives for:
-- Increase brand awareness
-- Drive website traffic
-- Lead generation
-- Grow audience
-- Increase engagement
-- Drive revenue
-
-## Customer Segmentation
-Identified ideal customer profile: Government/institutional buyers
-
-**Known customers:**
-- NOAA (Government/institutional)
-- NASA (Government/institutional) — $90k (2023)
-- DOD (Government/institutional)
-- CO OEDIT (Government/institutional) — $152k
+- **Type:** Marketing strategy & corporate planning (whole BST team)
+- **Focus Areas:** Brand awareness, website traffic, lead generation, audience growth, engagement, revenue
+- **Key Customer Segments Identified:**
+  - Government/institutional (primary)
+    - NOAA
+    - NASA (Aren 2023 — $90k)
+    - DOD
+    - CO OEDIT — $152k
+- **Timeline:** Last status update June 16, 2024
+- **Team:** Whole company
 
 ## Task Summary
-- **Open tasks:** 1 (unassigned, no due date)
-- **Completed tasks:** 0
-- **Notable:** One open task references "Lease terminates" with facility cost tracking (CAM, real estate taxes, building insurance) and a 5-year cost projection ranging from $13.00 to $14.63 per month across 60 months
+- **1 open task** (unassigned, no due date)
+  - "Lease terminates" — real estate tracking (CAM, property taxes, building insurance; 60-month term with annual cost escalation from $13.00–$14.63/NNN)
+- **0 completed tasks**
 
-## Notes
-This project appears to have been superseded by more focused operational tracking. No recent activity or closure notes available in the archive.
+## Recent Activity
+No recent activity. Last status update June 16, 2024 referenced overdue milestones and tasks, but no details provided. Project appears dormant.
+
+## Notes & Context
+This project mixes strategic marketing planning (SMART goals, customer segmentation, ideal customer profiles) with real estate lease tracking. The single open task is administrative and lacks a due date. No clear deliverables, timelines, or ownership assigned. 
+
+**Recommendation:** Determine if this project should remain archived or be consolidated into active planning efforts. If the lease term is material to operations, assign an owner and set renewal/escalation due dates.

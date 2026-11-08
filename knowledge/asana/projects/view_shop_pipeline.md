@@ -1,30 +1,33 @@
-_Asana snapshot as of 2026-11-04: 2 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 2 open tasks, 0 completed (last 90 days)._
 
 # Shop Pipeline
 
 ## Overview
-- **Client/customer**: NOAA (Hurricane aircraft), NASA Langley
-- **Timeline**: Orders in progress; NASA Langley S0s due 2026-11-16
-- **Status**: Active — tracking aircraft inventory and manufacturing orders
-- **Team members involved**: Unassigned (awaiting assignment/dispatch)
-- **Risk signals**: Both open orders currently unassigned; NASA Langley S0s approaching due date (November 2026)
+- **Client/Customer:** NOAA (Hurricane program), NASA Langley
+- **Project Type:** Aircraft inventory and manufacturing tracking
+- **Timeline:** Active through 2026; next key due date: 2026-11-16
+- **Status:** Active — 2 open orders in pipeline
+- **Team Members:** BST (whole team); currently unassigned tasks
+- **Risk Signals:** Both open tasks unassigned; one task has no due date
 
 ## Key Deliverables & Milestones
-| Deliverable | Due Date | Quantity | Status |
-|---|---|---|---|
-| NASA Langley S0 Aircraft | 2026-11-16 | 2 | Assembly stage |
-| 2026 Hurricane NOAA Aircraft | No due date | TBD | Order |
+
+| Deliverable | Due Date | Qty | Status | Notes |
+|---|---|---|---|---|
+| NASA Langley S0's | 2026-11-16 | 2 | Assembly | Platform: S0 AD |
+| 2026 Hurricane NOAA | TBD | — | Order | No due date set |
 
 ## Task Summary
-- **Total tasks**: 2 open, 0 completed
-- **Assignments**: Both tasks unassigned
-- **Manufacturing data**: NASA Langley S0s tracked at Assembly stage on S0 AD platform
+- **Total:** 2 open, 0 completed
+- **Assignees:** Both tasks currently unassigned
+- **Custom Fields in Use:** Order Quantity, Manufacturing Stage, Platform
+- **Pattern:** Orders tracked from order to delivery; this view surfaces manufacturing stage and quantities
 
 ## Recent Activity
-- NASA Langley S0 order (qty 2) in Assembly stage, approaching November 2026 delivery
-- 2026 Hurricane NOAA order open with no assigned due date
+No completed tasks. Pipeline contains two active orders awaiting assignment and execution.
 
 ## Notes & Context
-This is a pipeline view designed to provide visibility across aircraft orders from order through delivery. Custom fields track manufacturing stage, platform, and order quantity. Both current orders lack assignees and require dispatch/team assignment. The project supports BST's aircraft manufacturing workflow.
-
-**Related infrastructure note** (from 2026-10-14 correction by Joshua Fromm): New shop has a minor roof leak in a non-critical area; not urgent but should be addressed when capacity allows.
+- This is a **shop/manufacturing pipeline view** — designed to track aircraft inventory from order through delivery
+- Custom fields (Order Quantity, Manufacturing Stage, Platform) provide visibility into manufacturing progress
+- **Operational Note (Oct 2026):** Maciej indicated plans to restructure Asana for better R&D visibility and alignment with physical Kanban board. This pipeline may be affected by upcoming organizational changes to Asana structure (per feedback 2026-10-27).
+- Separate facility issue: Leaky roof in new shop (non-urgent, mid-floor location with no equipment exposure) reported by Joshua Fromm on 2026-10-14.

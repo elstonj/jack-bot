@@ -1,45 +1,38 @@
-_Asana snapshot as of 2026-11-04: 12 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 12 open tasks, 0 completed (last 90 days)._
 
 # Flight Checklists
 
 ## Overview
 - **Owner:** Ethan Domagala
-- **Status:** Planning phase — **WARNING: All 12 tasks are unassigned and no tasks have been completed**
-- **Dollar value:** Not specified in project data
-- **Timeline:** Earliest milestone due 2026-05-20 (Planning Task 1); latest tracked date 2026-05-29 (Milestone 2)
-- **Team members:** None assigned
-- **Risk signals:** 
-  - All tasks unassigned with no ownership
-  - Multiple high-priority items with no due dates
-  - Tasks marked "In progress" (Execution Task 2, Planning Task 2, Milestone 1) but unassigned
-  - One task missing a title (blank entry)
+- **Status:** Early planning phase; all tasks unassigned and mostly not started
+- **Timeline:** Key dates span May 20–29, 2026 (Planning phase); no launch or execution dates set
+- **Team:** No assignees currently (project not staffed)
+- **Risk Signals:** 
+  - 12 open tasks with 0 completed (0% progress)
+  - Multiple high-priority tasks unassigned and not started
+  - Planning Task 1 marked "not started" but due 2026-05-20 (imminent deadline)
+  - Execution Task 2 due 2026-05-26 shows "in progress" despite being unassigned (likely stale status)
 
 ## Key Deliverables & Milestones
-| Milestone | Due Date | Priority | Status |
-|-----------|----------|----------|--------|
-| Milestone 1 | 2026-05-21 | Medium | In progress |
-| Milestone 2 | 2026-05-29 | Low | Not started |
-| Milestone 3 | No due date | High | Not started |
+| Milestone | Due Date | Status | Priority |
+|-----------|----------|--------|----------|
+| Milestone 1 | 2026-05-21 | In progress | Medium |
+| Milestone 2 | 2026-05-29 | Not started | Low |
+| Milestone 3 | No due date | Not started | High |
 
 ## Task Summary
 - **Total:** 12 open, 0 completed (0% completion rate)
-- **By assignee:** All 12 tasks unassigned
-- **Status breakdown:**
-  - In progress: 3 (Planning Task 2, Execution Task 2, Milestone 1)
-  - Not started: 8
-  - Completed: 1 (Planning Task 3, marked "Completed" but left open)
-- **Notable pattern:** High-priority Launch Task 2 has no due date; Planning Task 3 is marked completed but remains open; one blank/unnamed task present
+- **By Assignee:** All tasks unassigned
+- **Key Tasks:**
+  - Planning Task 1 (High priority, due 2026-05-20, 30m est., not started)
+  - Execution Task 2 (High priority, due 2026-05-26, in progress but unassigned)
+  - Launch Task 2 (High priority, no due date, not started)
+  - Execution plan approved (no due date, unassigned)
 
 ## Recent Activity
-No completed tasks or recent closures. Project appears stalled in planning phase with unclear progress despite three tasks showing "In progress" status.
+No task completions recorded. Project appears to be in initial setup phase with milestones and task structure defined but no assignments or progress made.
 
 ## Notes & Context
-**Corrections from team:** Daniel Prendergast (2026-10-15, 2026-10-16) submitted feedback stating "Mine's correct. Stop hazing me, Mr. Flight Director" — this suggests potential tension around task accuracy or ownership assignments. No Asana updates reflect this correction.
-
-**Data quality issues:**
-- All tasks unassigned despite being mid-planning
-- One task has no title
-- Task statuses inconsistent with open/closed state (one marked "Completed" but still open)
-- Multiple high-priority items lack due dates, reducing visibility into delivery timeline
-
-**Recommendation:** Assign owners immediately; clarify which tasks are truly in progress vs. planning; close completed items; establish missing due dates for high-priority items.
+- **Team Feedback (2026-10-15 & 2026-10-16):** Daniel Prendergast has asserted corrections are correct and objected to being "hazed," though specific content is unclear. This may indicate disputes over task ownership or status that override the Asana view.
+- **Project Structure:** Clear phasing (Planning → Execution → Launch) with stage labels, but no dollar amounts or external customer identified in raw data.
+- **Assignment Gap:** Critical blocker—project cannot progress until tasks are assigned to team members.

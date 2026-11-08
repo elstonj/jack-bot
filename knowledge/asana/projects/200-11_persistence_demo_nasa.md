@@ -1,34 +1,41 @@
-_Asana snapshot as of 2026-11-04: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 1 open tasks, 0 completed (last 90 days)._
 
 # [200-11] Persistence Demo (NASA)
+
+## Status
+**ARCHIVED** — Per team feedback (Maciej, 2026-10-27/28), this project is ready for archiving. First deliverable (IT Security Management Plan) was submitted 1/27/25; subsequent milestones are complete and invoiced.
 
 ## Overview
 - **Client:** NASA (Ames Research Center)
 - **Contract:** 80NSSC25CA043 (SBIR Phase III)
-- **Value:** $74,428.00 (Fixed Price)
-- **Timeline:** 9 months, January 2025 – September 2025
-- **Status:** **ARCHIVED** (per Asana project state)
+- **Total Value:** $74,428.00 (Fixed Price)
+- **Timeline:** January 2025 – September 2025 (9 months)
 - **Team:** Black Swift Technologies (whole team)
-- **Key Contact:** Matthew Fladeland, NASA Ames Technology Transfer Office, (650) 604-3325
-
-## Key Deliverables & Milestones
-| Due Date | Amount | Deliverable |
-|----------|--------|-------------|
-| 1/30/25 | N/A | IT Security Management Plan |
-| 3/28/25 | $35,000 | Demonstration Report #1 |
-| 9/30/25 | $35,000 | Final Report |
+- **Key Contact:** Matthew Fladeland, NASA Technology Transfer Office, 650.604.3325, matthew.fladeland@nasa.gov
 
 ## Project Description
 Demonstrating persistent IR measurements over wildfires using small, fixed-wing uncrewed aircraft.
 
+## Key Deliverables & Milestones
+
+| Due Date | Amount | Title |
+|----------|--------|-------|
+| 1/30/25 | N/A | IT Security Management Plan |
+| 3/28/25 | $35,000 | Demonstration Report #1 |
+| 9/30/25 | $35,000 | Final Report |
+
+**Status:** Deliverable 1 submitted 1/27/25 by Meredith to Matt Fladeland (contract not yet active in PROSAMS at submission). Final deliverables completed per contract end date.
+
 ## Task Summary
-- **Total Tasks:** 1 open, 0 completed
-- **Open Task:** Matthew Fladeland contact info record (unassigned, no due date)
+- **Open tasks:** 1 (Matthew Fladeland contact record, unassigned, no due date)
+- **Completed tasks:** 0 (recorded in Asana)
+- **Completion rate:** N/A — most work reflected in milestones/deliverables, not individual tasks
 
 ## Recent Activity
-**1/27/25** – Meredith submitted IT Security Management Plan (Deliverable 1) to Matt Fladeland. Note flagged that contract was not showing as active in PROSAMS at time of submission.
+- **1/27/25:** IT Security Management Plan (Deliverable 1) submitted to NASA by Meredith despite contract not showing active in PROSAMS
+- **2026-10-27/28:** Maciej confirmed project ready for archival; all invoicing complete
 
-## Status Notes
-- Project is archived in Asana
-- All key deliverables appear to have been completed or submitted within contract period
-- One administrative task remains open (contact information record) — likely can be closed out during archive cleanup
+## Notes & Context
+- One contact task remains open in Asana (Matthew Fladeland details), likely administrative
+- Contract was not initially visible in PROSAMS at submission but deliverables proceeded
+- All major deliverables completed and invoiced; project should be archived per standard BST process (project owner clicks down arrow on project page → "Archive")

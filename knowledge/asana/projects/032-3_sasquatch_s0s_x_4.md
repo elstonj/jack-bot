@@ -1,29 +1,28 @@
-_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 
 # [032-3] Sasquatch S0s x 4
 
 ## Overview
 - **Client:** University of Notre Dame (David Ritcher, David.Richter.26@nd.edu)
-- **Dollar Value:** $88,705
-- **Timeline:** Verbal order Feb 19, 2026 | Due: July 1, 2026 (4-month timeline from Jack Elston)
-- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-28 — project ready for closure)
-- **Team:** Jack Elston (Project Owner), BST whole team
-- **Customer Type:** Commercial
+- **Dollar value:** $88,705
+- **Timeline:** Verbal order placed Feb 19, 2026; 4-month delivery timeline; due date July 1, 2026
+- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-28 — project owners to archive via project page)
+- **Team:** Jack Elston (Owner), BST team
+- **Customer type:** Commercial
 
 ## Key Deliverables & Milestones
-- **Deliverable:** 4x Sasquatch S0 units + travel
-- **Basis:** Estimate 1373 (verbal order confirmed Feb 19, 2026)
-- **Target Delivery:** July 1, 2026
+- Delivery of 4 Sasquatch S0 units + travel
+- Based on estimate #1373
 
 ## Task Summary
-- **Total tasks:** 0 open, 0 completed (no Asana tasks recorded)
+- **Total tasks:** 0 open, 0 completed
+- No active Asana tasks; all work appears complete or closed out externally
 
-## Status & Recent Activity
-Per **Maciej (2026-10-28)**, this project is flagged for archiving by project owner **@U01511MEQ90**. The project is effectively complete and has been marked for closure in Asana. No active tasks remain.
+## Recent Activity
+Project marked for archival by Maciej (2026-10-28). The 4-month timeline from Feb 19, 2026 placed delivery at ~June 19, 2026; project due date shows July 1, 2026. No open tasks indicate work is done.
 
 ## Notes & Context
-- Order confirmed verbally by David Ritcher on Feb 19, 2026
-- Jack Elston provided 4-month delivery timeline
-- Budget alignment: $88,705 total funding = total budget
-- No task list maintained in Asana (all work tracking appears external or completed)
-- Ready to archive per team workflow instructions
+- Verbal order from David Ritcher (Notre Dame) on Feb 19, 2026
+- Based on estimate 1373
+- All funding ($88,705) accounted for as revenue to Black Swift
+- **ARCHIVAL STATUS:** Listed by Maciej as ready for archiving; only project owners can execute the archive action via project page → down arrow → "Archive"

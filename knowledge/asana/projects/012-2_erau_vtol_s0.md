@@ -1,39 +1,42 @@
-_Asana snapshot as of 2026-11-04: 5 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 5 open tasks, 0 completed (last 90 days)._
 
 # [012-2] ERAU VTOL S0
 
 ## Overview
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
-- **Dollar value:** $20,805.39 (Total Budget = Total Funding to BST)
-- **Timeline:** Original due date 2024-08-16 (stale); Custom field shows **May 2025 delivery with June 2025 training @ BST**
-- **Status:** Active — delivery and training pending; follow-up order potential
-- **Team:** Alex Lomis (Owner), Jack Elston, Dan Prendergast
+- **Dollar Value:** $20,805.39 (total budget and funding to BST)
+- **Timeline:** 
+  - Original due date: 2024-08-16 (overdue)
+  - Revised delivery: May 2025
+  - Training scheduled: June 2025 @ BST
+- **Status:** **OVERDUE & STALLED** — Due date has passed; 5 open tasks with no due dates assigned; requires archival per team feedback
+- **Team Members:** Alex Lomis (Owner), Jack Elston, Dan Prendergast
 - **Product:** S0 VTOL
-- **Risk signal:** Project notes indicate 2 VTOLs owed by May 2025 with June training, but all open tasks lack due dates. This is a high-risk item for timeline visibility.
+- **Customer Type:** Commercial
 
 ## Key Deliverables & Milestones
-1. **Delivery of 2 x S0 VTOL** — Due May 2025 (per custom field; formal Asana due date missing)
-2. **Training at BST** — June 2025 (per custom field)
-3. **Follow-up potential:** Customer may order 4 additional units (currently in estimates)
+1. **Deliver S0 VTOL to ERAU** — May 2025 (per custom field notes; original 2024-08-16 due date has passed)
+2. **Training at BST** — June 2025
+3. **Future:** Customer evaluation may lead to order of 4 additional VTOLs (currently in estimates)
 
 ## Task Summary
-- **Total:** 5 open tasks, 0 completed
-- **Tasks by status:**
+- **Total Tasks:** 5 open, 0 completed
+- **Open Tasks (all unscheduled):**
   - Final due date for delivery (Jack Elston)
   - Ship S0 VTOL to ERAU (Unassigned)
   - S0 VTOL Training for ERAU (Dan Prendergast)
   - Verify payment from ERAU (Unassigned)
   - Close project (Unassigned)
 
-**Notable pattern:** No due dates set on any tasks despite critical May 2025 / June 2025 timeline. Multiple unassigned closure/logistics tasks.
-
 ## Recent Activity
-*No recent task completions recorded.* Project appears to be in execution phase with delivery/training scheduled for May–June 2025, but task-level progress visibility is low.
+Project is stalled with no task due dates. The original 2024-08-16 delivery target was missed. Custom field notes indicate revised commitment of 2 VTOLs due May 2025 with training in June 2025.
+
+**Team Direction (Maciej, 2026-10-27):** This project is slated for archival. Only the project owner (Alex Lomis) can archive via project settings.
 
 ## Notes & Context
-- **Budget:** $20,805.39 for 2 units
-- **Customer type:** Commercial
-- **Priority:** Medium
-- **Next steps:** ERAU will evaluate the 2 delivered S0s and decide whether to purchase the 4 additional units currently in estimates
-- **Recommendation:** Add specific due dates to all open tasks (ship by May 2025, training in June) and assign unassigned logistics/verification tasks to ensure on-time delivery and follow-up opportunity capture.
+- This project originated as a task and may lack full historical data (see linked task 1203332454725101)
+- ERAU is evaluating the initial S0 VTOL delivery; positive evaluation could trigger 4-unit purchase order (currently in estimates)
+- Custom field indicates contingent follow-on obligation: "Owe 2 VTOLs (May 2025)"
+- All remaining tasks lack due dates despite May 2025 delivery expectation — suggests stalled project coordination
+- **Action Required:** Project owner should archive project per team workflow restructuring (Maciej, 2026-10-27)

@@ -1,9 +1,7 @@
 # Dan Prendergast — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Fri, 6 Nov 2026 16:02:06 -0700: Join me for an EarthX reception in Boulder (Weds) or Denver (Thurs) (from: Dan Powers <dan@co-labs.org>)
-- Fri, 6 Nov 2026 21:55:38 +0000: Re: [EXT] - Updated invitation: CoVar-BST Business Discussion @ Fri Oct 30, 2026 9:30am - 10:30am (MDT) (pete@covar.com) (from: Joe Camilo <joe@covar.com>)
-- Fri, 6 Nov 2026 09:56:28 -0700: April Test Event from Lakehurst (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
-- Fri, 6 Nov 2026 09:35:17 -0700: Re: Sightline AITR (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
-- Fri, 6 Nov 2026 09:07:53 -0700: Re: EXTERNAL: Slides from RAVEN Orientation and Black Swift Site Visit (from: Maciej Stachura <stachura@blackswifttech.com>)
+- Sat, 7 Nov 2026 18:04:14 -0700: Re: [EXT] - Updated invitation: CoVar-BST Business Discussion @ Fri Oct 30, 2026 9:30am - 10:30am (MDT) (pete@covar.com) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Sat, 7 Nov 2026 17:41:58 -0700: Re: Introduction Shane <<>> Dan RE NASA Phase 2 Project (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)
+- Sat, 7 Nov 2026 17:38:47 -0700: Fwd: Join me for an EarthX reception in Boulder (Weds) or Denver (Thurs) (from: Daniel Prendergast <daniel.prendergast@blackswifttech.com>)

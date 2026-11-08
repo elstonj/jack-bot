@@ -1,28 +1,23 @@
-_Asana snapshot as of 2026-11-04: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 
-# Marketing Goals Workflow [001-13]
+# [001-13] Marketing Goals Workflow
 
 ## Overview
-- **Status:** ARCHIVED
-- **Team:** BST (Whole Team)
-- **Type:** Process/template project — not a client deliverable
-- **Purpose:** Goal management workflow template for Asana (brainstorm, draft, and approve organizational goals)
+- **Client/Customer:** Internal (BST whole team)
+- **Status:** ARCHIVED — No open or completed tasks
+- **Type:** Process template for goal management and workflow
+- **Purpose:** Brainstorm, draft, and approve marketing goals with built-in Asana workflow and form automation
 
-## Key Context
-This is an archived Asana template project with no active tasks. It was designed as a reusable workflow for goal-setting processes across the organization, including:
+## Key Notes
+This is a **template project**, not an active campaign or engagement. It was set up to provide a reusable workflow for goal management across BST teams, including:
 - Goal brainstorming and drafting
-- Approval workflows
-- Task generation and reminders via Asana forms
+- Approval process
+- Automated task and reminder generation via form submission
 
-## Task Summary
-- **Total tasks:** 0 open, 0 completed
-- No active work
+## Recent Activity & Outstanding Issues
+**Team concern (Beck, 2026-10-20 & 2026-10-19):** Workflow clarity needed. Beck flagged that there is **still not a clear definition of who enters what data based on which criteria or change**, and the current setup **doesn't address platform tracking/builds**. This suggests the template may need refinement before it's fully operationalized across teams.
 
-## Notes & Context
-
-**Unresolved workflow question** (from Beck, 2026-10-19 & 2026-10-20):  
-Beck flagged that the goal workflow **still lacks clear definition** on:
-- Who enters what data based on specific criteria or changes
-- How this integrates with other platform tracking/builds
-
-**Recommendation:** If this template is to be revived or used, clarify the workflow roles and handoff points with the team before re-activating tasks. The feedback suggests the current template may not fully address cross-platform coordination needs.
+## Summary
+- **Tasks:** 0 open, 0 completed
+- **Team members:** Whole BST team (template stage)
+- **Action needed:** Address Beck's feedback on workflow ownership and cross-platform integration before rolling out to production use.

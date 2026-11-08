@@ -1,51 +1,65 @@
-_Asana snapshot as of 2026-11-04: 7 open tasks, 3 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 7 open tasks, 3 completed (last 90 days)._
 
 # Navy STTR: Hazardous Weather [550-2]
 
 ## Overview
-- **Client/Customer:** U.S. Department of the Navy (Office of Naval Research)
-- **Contact:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
-- **Total Budget:** $146,326 (BST funding: $138,494)
-- **Subcontractors:** Embry-Riddle Aeronautical University (Josh Wadler), Old Dominion University (John Park), University of Miami (Jun Zhang — funded through ERAU)
+
+- **Client:** U.S. Department of the Navy (Office of Naval Research)
+- **TPOC:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
+- **Budget:** $146,326 total; $138,494 to Black Swift Technologies
 - **Timeline:** 
-  - Base Period: 7/7/2025 – 1/6/2026 (completed)
+  - Base Period: 7/7/2025 – 1/6/2026 ✓ (completed)
   - Option Period: 1/7/2026 – 7/6/2026
   - Project due: 9/1/2026
-- **Status:** ACTIVE — Base period complete; Option period in progress
+- **Status:** Active (post-base period, in option phase)
 - **Owner:** Maciej Stachura
-- **Team:** Whole BST team involved
+- **Team:** BST whole team
+- **Key Subcontractors:** 
+  - Embry-Riddle Aeronautical University (ERAU) / Josh Wadler (wadlerj@erau.edu) — $66,290
+  - Old Dominion University / John Park (h1park@odu.edu)
+  - University of Miami / Jun Zhang (Jun.zhang@earth.miami.edu) — funded through ERAU sub
 
-## Key Deliverables & Milestones
-- **Pioneer Array Flight** — Completed 9/9/2026 (assigned: Alex Lomis)
-- **CLIN 1007 Invoice ($14,446)** — Submitted 9/1/2026 (via WAWF; processor: Meredith O'Hara Needham)
-- **Option CLIN 0007: Final Report** — Completed 9/1/2026 (owner: Maciej Stachura)
-- **Project completion:** 9/1/2026 (Option period runs through 7/6/2026, but final reports due 9/1)
+**Note:** Include Jun Zhang on all correspondence per project notes.
+
+## Objective
+
+Refinement of the S0 platform and demonstration of its utility for operational Navy use, with targeted R&D focused on hazardous weather applications for the Royal Navy Merlin Helicopter Launch System (Project RAVEN per Daniel Prendergast, 10/30/2026).
 
 ## Task Summary
-- **Total tasks:** 10 (3 completed, 7 open)
-- **Completed:** 3 (Pioneer Array Flight, CLIN 1007 invoice, Option CLIN 0007 Final Report)
-- **Open tasks:** 7 — These are primarily administrative contact records for subcontractors and Navy TPOC (Joshua Cosseth, Josh Wadler, John Park, Jun Zhang). None have due dates; appear to be reference/contact management entries rather than active work items.
-- **Assignee patterns:** Most contacts unassigned; completed work shows Maciej Stachura (project owner), Alex Lomis, and Meredith O'Hara Needham active.
 
-## Recent Activity
-- **9/9/2026:** Pioneer Array Flight completed (Alex Lomis)
-- **9/1/2026:** Final reporting completed — Option CLIN 0007 Final Report and CLIN 1007 invoice both submitted on schedule
-- Project appears to be wrapping up or in final admin phase; no new technical tasks in pipeline
+- **Total tasks:** 7 open, 3 completed
+- **Completion rate:** 30% (3/10 tasks)
+- **Recent activity:** 
+  - Pioneer Array Flight (Alex Lomis) completed 9/9/2026
+  - CLIN 1007 Invoice ($14,446) submitted 9/1/2026 via WAWF
+  - Option CLIN0007 Final Report (Maciej Stachura) completed 9/1/2026
+
+**Open tasks:** Primarily administrative/contact tracking for subcontractors (Wadler, Park, Zhang) and Navy TPOC; no due dates assigned. Tasks appear to be reference entries rather than active work items.
+
+## Billing & Invoicing
+
+Payments processed through **WAWF (Wide Area Workflow)** system. 
+- CLIN 1007 invoice ($14,446) completed 9/1/2026
+- Invoice submission guide: [BST internal WAWF doc](https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing)
+
+## Key Contacts
+
+| Role | Name | Organization | Email | Phone |
+|------|------|--------------|-------|-------|
+| Navy TPOC | Joshua Cosseth | ONR | joshua.h.cossuth.civ@us.navy.mil | (407) 696-0703 |
+| Prime Sub Lead | Josh Wadler | ERAU | wadlerj@erau.edu | (386) 226-6000 |
+| Sub 2 Lead | John Park | Old Dominion University | h1park@odu.edu | (757) 683-3759 |
+| Sub 3 Lead | Jun Zhang | University of Miami | Jun.zhang@earth.miami.edu | (305) 979-0903 |
+| Pre-Award Contact | Garrett Filson | ERAU | filsong@erau.edu | — |
+| Pre-Award Contact | Stephanie Haskell | ODU | sl2harri@odu.edu | — |
 
 ## Notes & Context
-- **Subcontractor structure:** BST is prime; ERAU is primary subcontractor, with ERAU subcontracting portions to U Miami (Jun Zhang)
-- **Billing:** Invoices submitted through Wide Area Workflow (WAWF); see linked instructions
-- **Contracting officers:** Garrett Filson (ERAU pre-award), Stephanie Haskell (ODU pre-award)
-- **Jun Zhang funding note:** Flows through ERAU sub agreement, not directly from Navy
-- **Project objective:** Targeted R&D to refine S0 platform for operational Navy use, focusing on hazardous weather applications
-- **Status update last recorded:** February 13, 2026 (marked green/on-track at that time)
+
+- **Funding structure:** BST (prime) → ERAU (sub) → University of Miami (sub to ERAU; Jun Zhang funded through ERAU allocation)
+- **Base period complete:** All base phase work concluded by 1/6/2026; project transitioned to option period (1/7/2026–7/6/2026)
+- **Administrative renewal:** Most open Asana tasks are contact/reference records rather than active deliverables; this suggests work execution may be tracked via the physical Kanban board (per Maciej's 10/27/2026 restructuring note about decoupling Asana from weekly execution)
+- **Status:** Green as of Feb 13, 2026 status update; no risk signals evident
 
 ---
 
-## ⚠️ Related Strategic Context (from Team Feedback)
-**Daniel Prendergast flagged ECCN export classification urgency** (10/7–10/8/2026): Three platforms need Export Classification Number (ECCN) requests submitted soon to avoid delaying pending Canada project and **Lockheed Martin UK/Royal Navy project (Project RAVEN)**, specifically:
-1. S3 with gimballed EO/IR camera
-2. S0-AD with fixed EO/IR camera  
-3. S0-AD with magnetometer
-
-Magnetometer integration may require coordination with US Navy Program Office. No applications drafted yet. *Note: This Navy STTR project focuses on S0 platform; ECCN needs may relate to derivative/export variants.*
+**Related:** Per Daniel Prendergast's 10/30/2026 request, Project RAVEN is the Navy's designation for this S0-AD integration work with the UK Merlin Helicopter Launch System. A separate project number may need to be assigned if tracking separately from [550-2].

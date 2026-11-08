@@ -1,37 +1,35 @@
-_Asana snapshot as of 2026-11-04: 11 open tasks, 1 completed (last 90 days)._
+_Asana snapshot as of 2026-11-08: 11 open tasks, 0 completed (last 90 days)._
 
 # Paige Smith's Previously Assigned Tasks
 
+## Status
+**INACTIVE/ORPHANED** — This is a holding project created when Paige Smith was removed from the BST organization. All 11 tasks are unassigned and span April–August 2026, indicating they were not actively reassigned or closed when Paige departed.
+
+Per team feedback (Maciej, 2026-10-27 onwards), BST is actively archiving completed and concluded projects. This project appears to be a candidate for archival once tasks are either reassigned or formally closed.
+
 ## Overview
-- **Status:** Inactive holding pattern — Paige Smith departed BST and accepted an offer from another company (per Cory Dixon, 2026-10-05). This project was auto-created to track her unassigned work.
 - **Owner:** Jack Elston
-- **Team:** BST (whole team)
-- **Timeline:** Tasks span 2026-04-21 through 2026-08-10; all are now stale.
+- **Team:** BST (Whole Team)
+- **Project created:** Upon Paige Smith's removal from blackswifttech.com
+- **Task count:** 11 open, 0 completed
+- **Timeline:** Tasks scattered April–August 2026 (all past due or near-due as of Nov 2026)
 
-## Key Context
-Per **Cory Dixon (2026-10-05):** "Paige took an offer from another company. She did not give us a chance to counter or make a competitive offer. We will continue moving forward on candidate interviews for this position."
-
-This project captures marketing, analytics, and business development work that was orphaned when Paige left.
-
-## Task Summary
-- **Total:** 12 tasks (11 open, 1 completed)
-- **All unassigned** — no active owner assigned to any task
-- **Completion rate:** ~8% (1 of 12)
-- **Task categories:**
-  - Marketing/analytics: Google Analytics, website datasheets, whitepapers, email content
-  - Business development: Calls (StationDC, Aeropods), meetings (Geoff, Alex Mann)
-  - Submissions: Geoweek
-  - Ops: Google tags, marketing strategy check-in
-
-## Recent Activity
-Only one task completed: **Alex Mann Call** (finished 2026-08-07, due 2026-08-04).
-
-All other tasks remain open with due dates in April–August 2026. These are now significantly overdue and likely deprioritized or handled outside Asana.
+## Key Tasks (All Unassigned)
+| Task | Due Date | Status |
+|------|----------|--------|
+| Google Analytics (monthly) | 2026-06-25 | Overdue |
+| Convert content to email, enhance subscribers list | 2026-04-21 | Overdue |
+| Revisit w/ Google Ads specialist | 2026-04-28 | Overdue |
+| 1:30pm Geoff | 2026-06-16 | Overdue |
+| Call StationDC | 2026-06-22 | Overdue |
+| Aeropods 11am | 2026-07-09 | Overdue |
+| Geoweek submission due | 2026-07-17 | Overdue |
+| Google tags | 2026-07-31 | Overdue |
+| Ask Sona/Pam—marketing strategy timeline | 2026-08-10 | Overdue |
+| Update Website datasheets | No due date | Open |
+| Redesign whitepapers | No due date | Open |
 
 ## Notes & Context
-**These tasks require reassignment or closure.** Jack Elston (project owner) should either:
-1. Reassign work to active team members
-2. Close out tasks that are no longer relevant
-3. Archive this project once work is distributed
-
-The stale due dates reflect the project's holding status and should not be treated as current commitments.
+- **No activity since Paige's departure.** All tasks remain unassigned and appear orphaned.
+- **Mix of internal and external touchpoints:** includes Google Analytics tracking, vendor calls (StationDC), conference submissions (Geoweek), and content work (whitepapers, datasheets).
+- **Archival candidate:** Aligns with BST's Oct–Nov 2026 push to clean up and archive inactive projects (per Maciej's feedback). Jack should either reassign live tasks, close completed work, or archive this holding project for historical reference.
