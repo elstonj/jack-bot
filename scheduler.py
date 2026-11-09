@@ -426,26 +426,6 @@ def post_flight_weather():
             pass
 
 
-def tick_email_triage():
-    """15-min email triage pass. No-op unless JACKBOT_EMAIL_TRIAGE is
-    dryrun/live; errors are printed, never posted — this feature has no
-    Slack output by design."""
-    try:
-        from email_triage.runner import run_triage
-        run_triage()
-    except Exception as e:
-        print(f"[email_triage] run failed: {e}")
-
-
-def send_email_triage_summary():
-    """6:30 AM MT recap of email triage, inserted into Jack's inbox."""
-    try:
-        from email_triage.summary import send_daily_summary
-        send_daily_summary()
-    except Exception as e:
-        print(f"[email_triage] summary failed: {e}")
-
-
 def start_scheduler():
     """Start the background scheduler for cron jobs."""
     scheduler = BackgroundScheduler(timezone="America/Denver")
@@ -528,26 +508,6 @@ def start_scheduler():
         hour=8,
         minute=2,
         misfire_grace_time=1800,  # 30 min: still useful a bit late
-    )
-    # Email triage: forward/keep/archive/spam Jack's mail every 15 min.
-    # max_instances=1 + coalesce so a slow run never overlaps the next one
-    # (overlap is how a message would get forwarded twice).
-    scheduler.add_job(
-        tick_email_triage,
-        "interval",
-        minutes=15,
-        max_instances=1,
-        coalesce=True,
-        misfire_grace_time=600,  # 10 min: the next tick picks up the rest
-    )
-    # Daily email-triage recap into Jack's inbox, every day (mail arrives
-    # on weekends too).
-    scheduler.add_job(
-        send_email_triage_summary,
-        "cron",
-        hour=6,
-        minute=30,
-        misfire_grace_time=3600,  # 1 hr: still useful later in the morning
     )
     scheduler.start()
     return scheduler
