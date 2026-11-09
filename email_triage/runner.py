@@ -1,6 +1,6 @@
 """Per-message triage loop: fetch -> classify -> guard -> act -> log.
 
-Ordering is what makes forwards at-most-once. `Jackbot/Reviewed` is the only
+Ordering is what makes forwards at-most-once. The plain `Jackbot` label is the only
 thing that keeps a message out of the next run's candidate list, so it is
 written *before* a forward is sent; if the send fails it is removed again so
 the next run retries. A crash between the two leaves a message reviewed but
@@ -27,7 +27,7 @@ DEFAULT_LOG = "/tmp/email_triage_actions.jsonl"
 LOCK_PATH = "/tmp/email_triage.lock"
 CLASSIFY_WORKERS = 6
 
-LABEL_REVIEWED = "Jackbot/Reviewed"
+LABEL_REVIEWED = "Jackbot"
 LABEL_FORWARDED = "Jackbot/Forwarded"
 LABEL_ARCHIVED = "Jackbot/Archived"
 LABEL_SPAM = "Jackbot/Spam"
@@ -157,7 +157,7 @@ def apply_actions(gmail_ops, msg, decision, mode, label_ids=None):
         if _already_reviewed(gmail_ops, msg["id"], label_ids.get(LABEL_REVIEWED, LABEL_REVIEWED)):
             return _record(msg, decision, "skipped", mode,
                            error="already reviewed by a concurrent run")
-        pre = [l for l in add if l.startswith("Jackbot/")]
+        pre = [l for l in add if l == LABEL_REVIEWED or l.startswith("Jackbot/")]
         try:
             gmail_ops.modify(msg["id"], add=ids(pre), remove=[])
         except Exception as e:
