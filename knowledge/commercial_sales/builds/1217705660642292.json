@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "KEEP: QBO invoice #1695 paid 2025-08-22 ($2,900). Personal customer Austin Anderson evaluating S3 VTOL for photogrammetry surveys at data centers in central Texas; competing against Wingtra/Skydio. Customer survey team requires NDAA cert and parachute capability; multi-year project ~1,200 acres with additional projects planned. Austin receptive to visiting BST for flight testing. Most recent contact 2026-09-01 confirms continued interest and pending flight test opportunity. Build/ship status unknown\u2014requires Beck/Nate confirmation on production entry, order status, and timeline for customer receipt.",
+  "notes": "KEEP: QBO invoice #1695 paid 2025-08-22 ($2,900). Personal customer Austin Anderson (personal survey/data center photogrammetry). System for central Texas data center sites with wind challenges; competing against Wingtra/Skydio. Customer requires NDAA certification and parachute capability. Multi-year project ~1,200 acres with additional projects planned. Most recent contact 2026-09-01 confirms continued interest and pending flight test opportunity at BST. Build/ship status unknown\u2014requires Beck/Nate confirmation on production entry and timeline for customer receipt.",
   "missing_fields": [
     "ship_to",
     "receive_by",

@@ -1,44 +1,42 @@
-_Asana snapshot as of 2026-11-08: 4 open tasks, 1 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 4 open tasks, 1 completed (last 90 days)._
 
-# [001-12] Customer Support
+# Customer Support
 
 ## Overview
-- **Client/Customer**: Multiple (NOAA, Stanford, ERAU, NASA, Lakeland)
-- **Timeline**: Active through 2027-01-04 (NASA training delivery)
-- **Status**: Active — 4 open tasks, 1 recent completion
-- **Team**: Beck Cotter, Josh Fromm, Dan Prendergast
-- **Risk Signals**: 
-  - S0-99 refurbishment quote overdue (due 2026-09-30)
-  - ERAU E2 repair has no due date but marked High Customer Impact
-  - Multiple quotes in progress with external dependencies
+- **Client/customer:** Multiple (NOAA, Stanford, ERAU, NASA, Lakeland)
+- **Dollar value:** Not specified in task-level data; multiple quotes in progress
+- **Timeline:** Active through Q1 2027 (NASA training due 2027-01-04)
+- **Status:** Active — 4 open tasks, 1 recently completed
+- **Team members involved:** Beck Cotter, Josh Fromm, Dan Prendergast
+- **Risk signals:** 
+  - S0-99 refurbishment quote overdue (due 2026-09-30, not yet completed as of 2026-10-20)
+  - ERAU E2 repair has no due date and high customer impact
 
 ## Key Deliverables & Milestones
-| Deliverable | Customer | Assigned to | Due Date | Status |
-|---|---|---|---|---|
-| S0-99 refurbishment quote | NOAA | Beck Cotter | 2026-09-30 | OVERDUE |
-| Stanford S2 quote (2 full S2s + parts + ground station + launcher + NRE design update) | Stanford | Josh Fromm | 2026-10-30 | Open |
-| ERAU E2 repair (troubleshoot flight behavior) | ERAU | Beck Cotter | No due date | Open (High Impact) |
-| Refresher & new sim training delivery | NASA | Dan Prendergast | 2027-01-04 | Open |
+| Deliverable | Owner | Due Date | Status |
+|---|---|---|---|
+| S0-99 refurbishment quote to NOAA | Beck Cotter | 2026-09-30 | **OVERDUE** |
+| Quote for Stanford (2x S2, parts, ground station, launcher) | Josh Fromm | 2026-10-30 | Open |
+| ERAU E2 repair (troubleshoot flight behavior) | Beck Cotter | TBD | Open; RMA sent 2026-09-14 |
+| NASA simulator refresher & new training | Dan Prendergast | 2027-01-04 | Open |
+| Jaia containers return to Lakeland | Josh Fromm | 2026-10-15 | **COMPLETED 2026-10-21** (4 days late) |
 
 ## Task Summary
-- **Total**: 5 tasks (4 open, 1 completed)
-- **By Assignee**:
-  - **Beck Cotter**: 2 open (S0-99 quote [OVERDUE], ERAU E2 repair)
-  - **Josh Fromm**: 1 open (Stanford quote), 1 completed (Jaia containers return)
-  - **Dan Prendergast**: 1 open (NASA training)
-- **Completion Rate**: 20% (1 of 5 completed)
-- **Custom Field Usage**: Customer Impact (Low, Medium, High) and Issue Type (Technical, Other) are tracked
+- **Total:** 5 tasks (4 open, 1 completed)
+- **By assignee:**
+  - Beck Cotter: 2 tasks (S0-99 quote, ERAU repair)
+  - Josh Fromm: 2 tasks (Stanford quote, Jaia containers—completed)
+  - Dan Prendergast: 1 task (NASA training)
+- **Completion rate:** 20% (1/5)
 
 ## Recent Activity
-- **2026-10-21**: Josh Fromm completed return of Jaia containers to Lakeland (5 days after due date of 2026-10-15)
-- **2026-10-30**: Stanford quote due (upcoming)
-- **Multiple pending**: NOAA refurbishment quote is 20 days overdue; ERAU repair awaiting RMA return (sent 2026-09-14)
+- **2026-10-21:** Jaia containers returned to Lakeland (4 days past due date of 2026-10-15)
+- **Outstanding:** S0-99 refurbishment quote to NOAA now 21 days overdue; awaiting Beck's delivery to laura.rock@noaa.gov and Nikolai.f.pawlenk
+- **In progress:** Stanford quote (Josh Fromm); ERAU E2 RMA troubleshooting (Beck Cotter); NASA training coordination (Dan Prendergast)
 
 ## Notes & Context
-- **NOAA S0-99 damage**: Aircraft was damaged (UPS), no compensation expected from carrier. Refurbishment quote needed for customer.
-- **Stanford opportunity**: Requires design updates for S2 system; NRE cost involved.
-- **ERAU RMA**: Aircraft returned 2026-09-14 for troubleshooting of inconsistent flight behavior; no target repair date set.
-- **NASA training**: Refresh training + new simulator training scheduled for 2027-01-04.
-
-### Process Gap (from team feedback)
-**Daniel Prendergast flagged [2026-10-19]** a missing process for transitioning proposed system builds into production pipeline. Currently no holistic spreadsheet tracking all planned production. Reference: S0 Production QC Website (orders dashboard maintained by Jack) tracks existing S0-AD orders only. This may impact quote-to-delivery workflows across these support tickets.
+- **S0-99 incident:** NOAA aircraft damaged; UPS claim expected to yield no compensation. BST refurbishment quote required.
+- **Stanford project:** Requires design NRE to accommodate customer requirements (2x S2, parts, ground station, launcher).
+- **ERAU issue:** Inconsistent flight behavior; RMA dispatched 2026-09-14 but no target resolution date set. High customer impact.
+- **NASA training:** Refresh and new simulator training due early 2027; Dan Prendergast is coordinator.
+- **Process gap noted (2026-10-19, Daniel Prendergast):** No well-defined process for transitioning proposed system builds into production pipeline. Example: LMUK project requires 2x S0-AD Magnetometer + 2x S0-AD Camera + other units; needs formalized handoff process.

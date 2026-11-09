@@ -1,31 +1,38 @@
-_Asana snapshot as of 2026-11-08: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 1 open tasks, 0 completed (last 90 days)._
 
-# [200-12] NASA AREN '25
+# NASA AREN '25
 
 ## Overview
 - **Client/Customer:** NASA (Science Mission Directorate)
-- **Dollar value:** $20,576 (BST's portion of $117,701.50 total project budget)
-- **Timeline:** Due 2026-03-02
-- **Status:** **ARCHIVED** — Project is closed out in Asana
-- **Team members involved:** Meredith O'Hara Needham (Owner), Kay Rufty (Co-Investigator/Aerospace Engineer), BST Whole Team
 - **Contract:** No. 80NSSC25PA610
+- **Dollar Value:** $20,576 (BST's funding allocation; total project budget $117,701.50)
+- **Timeline:** Project due 2026-03-02
+- **Status:** **ARCHIVED** (per Asana project status)
+- **Team:** Black Swift Technologies (whole team)
+- **Owner:** Meredith O'hara Needham
+- **Key Contact:** Geoffrey Bland, geoffrey.l.bland@nasa.gov
 
-## Key Context
-This is a NASA Science Mission Directorate "Science Activation" project under the AEROKATS and ROVER Education Network (AREN). Black Swift provides support via named Co-Investigator Kay Rufty for learning and outreach activities.
+## Project Purpose
+BST is a participant in the AEROKATS and ROVER Education Network (AREN), a NASA Science Mission Directorate "Science Activation" initiative to promote learning and outreach. BST provides support via Aerospace Engineer Kay Rufty, a named Co-Investigator on the selected proposal.
 
-**Primary Contact:** Geoffrey Bland (geoffrey.l.bland@nasa.gov; personal: geodronez@gmail.com)  
-- Formerly with NASA Ames until August 2025; now manages/runs Aeropods project
-- Alternative email: gbaerokats@gmail.com
-
-**Billing Point of Contact:** PIEE
+## Key Deliverables & Milestones
+- Contract period through **2026-03-02**
+- Primary deliverable: Support for AREN/Aeropods project activities
+- Support services via named Co-Investigator (Kay Rufty)
 
 ## Task Summary
-- **Total tasks:** 1 open (unassigned), 0 completed
-- **Open task:** Geoffrey Bland (Aeropods) contact record — no due date assigned, marked High priority
+- **1 open task, 0 completed**
+- Single open task: Geoffrey Bland (Aeropods) contact record — unassigned, no due date
+  - Contains contact information and background (Geoffrey transitioned from NASA Ames in August 2025; now helps manage/run Aeropods project)
 
-## Status Notes
-Project is marked **ARCHIVED** in Asana. The single remaining open task appears to be a contact/stakeholder record (unassigned, no due date) and does not represent active work.
+## Notes & Context
+- **Project archived in Asana** but remains active contractually through March 2026
+- **Billing Point of Contact:** PIEE
+- **Key contacts:**
+  - Geoffrey Bland (primary): geoffrey.l.bland@nasa.gov, geodronez@gmail.com
+  - NASA Ames, Goddard Space Flight Center, Wallops Island, VA
+- One open task is a contact record (not a work task) and appears to be administrative in nature
 
 ---
 
-*Last reviewed: 2026-10 feedback indicates project is being closed out/archived by Maciej; Jack's workspace setup fix noted as pending (2026-11-06).*
+**Note:** Project shows as archived in Asana; review with project owner (Meredith O'hara Needham) to confirm whether active work is ongoing or if this is a closed-out contract pending final close-out documentation.

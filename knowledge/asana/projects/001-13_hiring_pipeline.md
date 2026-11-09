@@ -1,24 +1,22 @@
-_Asana snapshot as of 2026-11-08: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 1 open tasks, 0 completed (last 90 days)._
 
-# [001-13] Hiring Pipeline
-
-## Status
-**ARCHIVED** — This project is no longer active. Only 1 open task remains (unassigned candidate record with no due date).
+# Hiring Pipeline [001-13]
 
 ## Overview
-- **Team**: Operations
-- **Purpose**: Tracking candidates through the hiring process
-- **Active Tasks**: 1 (open, unassigned)
-- **Completed Tasks**: 0
+- **Client/Customer:** Internal (Operations)
+- **Status:** ARCHIVED
+- **Team:** Operations
+- **Timeline:** No specific dates defined
+- **Risk Signals:** None (archived project)
+
+## Summary
+This project tracked candidates through the hiring process. It contains 1 open task with no assignee or due date.
+
+**Note:** As of 2026-10-23, Joshua Fromm acknowledged team members for "all the hard work with hiring" (team feedback), suggesting active hiring activity. However, this Asana project is marked archived and contains only a generic placeholder task. Current hiring pipeline tracking may have moved to another system or process.
 
 ## Recent Activity
-Per Joshua Fromm (2026-10-23, 2026-10-22), team members received recognition for "all the hard work with hiring." This aligns with the archived status — the project appears to have completed its primary hiring cycle.
+- Project archived (exact date not specified in data)
+- Team acknowledged for hiring efforts as of 2026-10-23
 
 ## Notes & Context
-- The single remaining open task is a placeholder candidate record with no due date and no assignee
-- Archive status suggests hiring efforts have concluded or transitioned to a different tracking system
-- No milestone dates, dollar amounts, or detailed deliverables are tracked in this project
-
----
-
-**Recommendation**: Close or delete the remaining open task if it's no longer relevant. If hiring pipeline tracking continues, consider whether it should move to a new active project under updated Operations workflow (per Maciej's 2026-10-27 feedback about Asana restructuring for better R&D visibility).
+This project appears to be a legacy or placeholder artifact. The single open task ("Candidate: Candidate Name") lacks specifics and assignment. Active hiring coordination likely occurs elsewhere or through a different system, given the team feedback about ongoing hiring work and Maciej's 2026-10-27 note about restructuring R&D project tracking in Asana.

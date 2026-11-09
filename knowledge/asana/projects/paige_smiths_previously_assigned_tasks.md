@@ -1,35 +1,37 @@
-_Asana snapshot as of 2026-11-08: 11 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 11 open tasks, 0 completed (last 90 days)._
 
 # Paige Smith's Previously Assigned Tasks
 
 ## Status
-**INACTIVE/ORPHANED** — This is a holding project created when Paige Smith was removed from the BST organization. All 11 tasks are unassigned and span April–August 2026, indicating they were not actively reassigned or closed when Paige departed.
-
-Per team feedback (Maciej, 2026-10-27 onwards), BST is actively archiving completed and concluded projects. This project appears to be a candidate for archival once tasks are either reassigned or formally closed.
+**INACTIVE/ORPHANED** — This project was automatically created when Paige Smith was removed from blackswifttech.com. All 11 tasks are open and unassigned. No completion activity. This project requires reassignment or archival.
 
 ## Overview
 - **Owner:** Jack Elston
 - **Team:** BST (Whole Team)
-- **Project created:** Upon Paige Smith's removal from blackswifttech.com
-- **Task count:** 11 open, 0 completed
-- **Timeline:** Tasks scattered April–August 2026 (all past due or near-due as of Nov 2026)
+- **Task Count:** 11 open, 0 completed
+- **Timeline:** Due dates range from April 2026 to August 2026 (all appear overdue relative to current date November 2026)
+- **Risk Signal:** All tasks unassigned and overdue; no recent activity
 
-## Key Tasks (All Unassigned)
-| Task | Due Date | Status |
-|------|----------|--------|
-| Google Analytics (monthly) | 2026-06-25 | Overdue |
-| Convert content to email, enhance subscribers list | 2026-04-21 | Overdue |
-| Revisit w/ Google Ads specialist | 2026-04-28 | Overdue |
-| 1:30pm Geoff | 2026-06-16 | Overdue |
-| Call StationDC | 2026-06-22 | Overdue |
-| Aeropods 11am | 2026-07-09 | Overdue |
-| Geoweek submission due | 2026-07-17 | Overdue |
-| Google tags | 2026-07-31 | Overdue |
-| Ask Sona/Pam—marketing strategy timeline | 2026-08-10 | Overdue |
-| Update Website datasheets | No due date | Open |
-| Redesign whitepapers | No due date | Open |
+## Tasks by Category
+
+### Marketing/Website
+- Google Analytics (monthly review) — Due 2026-06-25
+- Convert content to email, enhance subscribers list — Due 2026-04-21
+- Revisit w/ Google Ads specialist — Due 2026-04-28
+- Update Website datasheets — No due date
+- Redesign whitepapers — No due date
+- Google tags — Due 2026-07-31
+
+### Business Development/Partnerships
+- Call StationDC — Due 2026-06-22
+- Aeropods 11am — Due 2026-07-09
+- 1:30pm Geoff — Due 2026-06-16
+
+### Strategic/Internal
+- Geoweek submission due — Due 2026-07-17
+- Ask Sona/Pam when marketing strategy is projected to be finalized — Due 2026-08-10
 
 ## Notes & Context
-- **No activity since Paige's departure.** All tasks remain unassigned and appear orphaned.
-- **Mix of internal and external touchpoints:** includes Google Analytics tracking, vendor calls (StationDC), conference submissions (Geoweek), and content work (whitepapers, datasheets).
-- **Archival candidate:** Aligns with BST's Oct–Nov 2026 push to clean up and archive inactive projects (per Maciej's feedback). Jack should either reassign live tasks, close completed work, or archive this holding project for historical reference.
+All 11 tasks are orphaned with no assignee. Most due dates have passed (April–August 2026). This project appears to be a holding area for Paige's work that was not properly transitioned or completed when she left the organization.
+
+**Recommended Action:** Determine which tasks are still relevant and reassign to appropriate team members, or formally close the project. Maciej's recent feedback (late October 2026) emphasizes archiving completed projects to maintain clean project tracking — this project may be a candidate for archival if the work is no longer needed.

@@ -920,7 +920,7 @@
 
 ## Summary
 
-**Total External Contacts**: 25,000+ individuals and organizational mailboxes across 50+ organizations
+**Total External Contacts**: 34,000+ individuals and organizational mailboxes across 50+ organizations
 
 **Key Organizations by Contact Count**:
 1. **NASA** — 80+ direct contacts across multiple centers (JPL, ARC, GSFC, LARC, etc.)
@@ -966,34 +966,79 @@
 
 ---
 
-## Data Quality Assessment
+## Data Integration Status
 
-**Data Integration Status**: 
-- **8,578 new unnamed contacts successfully merged** with existing 1,850+ named contacts
-- **Historical data preserved**: All previously categorized organizations and named contacts retained
-- **Email accuracy**: All email addresses preserved exactly as provided
-- **Consolidation efficiency**: Multiple email variations for individuals maintained (e.g., Mirvin @bst.aero/@intuicom.com, Brad Cheetham @blackswifttech.com/@colorado.edu)
+**Merge Summary**: 
+- **8,578 new unnamed contacts integrated** with existing 1,850+ named contacts
+- **All historical data preserved**: No named contacts or organizations removed
+- **Email integrity maintained**: All addresses preserved exactly as provided
+- **Contact variations consolidated**: Multiple email formats for same individual retained (e.g., Mirvin @bst.aero/@intuicom.com, Brad Cheetham @blackswifttech.com/@colorado.edu)
 
-**Identified Email Domain Categories** (from new data):
-- Government agencies: nasa.gov, noaa.gov, usgs.gov, faa.gov, usda.gov, state.co.us, etc.
-- Academic institutions: colorado.edu, colostate.edu, upenn.edu, cornell.edu, hawaii.edu, mit.edu, stanford.edu, etc.
-- Commercial/Industry: aerospace, defense, manufacturing, geospatial, software, energy sectors
-- Service providers: financial, legal, insurance, consulting, media, publishing
-- Emerging sectors: AI/autonomous systems, lunar exploration, advanced aircraft, thermal/spectroscopy
+**New Contact Categories Identified** (from 8,578 records):
 
-**Remaining Categorization Needs**:
-- ~500-700 generic email addresses (Gmail, Yahoo, Hotmail, etc.) require manual research for organizational affiliation
-- ~200+ international email addresses require verification and institutional mapping
-- ~150+ system/automated emails (notifications, billing systems, calendar automations) require filtering for CRM relevance
+1. **University Faculty/Research** (~800 contacts): colorado.edu, colostate.edu, hawaii.edu, cornell.edu, stanford.edu, mit.edu, penn.edu, berkeley.edu, caltech.edu, purdue.edu, etc.
+
+2. **International Academic** (~350 contacts): Chalmers (Sweden), TUM/LMU (Germany), University of Iceland, Oxford/Cambridge (UK), University of New Zealand institutions, Australian universities, Canadian institutions
+
+3. **Government/Military** (~200 contacts): @mil email addresses, state government agencies, federal department contacts
+
+4. **Commercial UAS & Aerospace** (~150 contacts): Drone operators, aviation service providers, aircraft component manufacturers
+
+5. **Engineering & Consulting** (~120 contacts): Technical service firms, project management companies, specialized engineering consultants
+
+6. **Startup Ecosystem** (~100 contacts): Accelerators, venture funds, early-stage companies
+
+7. **Research Institutions** (~80 contacts): Independent labs, research centers, specialized scientific organizations
+
+8. **Media & Journalism** (~60 contacts): Individual reporters, press outlets, media production companies
+
+9. **Manufacturing & Supply Chain** (~100 contacts): Contract manufacturers, PCB shops, assembly services, component suppliers
+
+10. **Energy & Sustainability** (~80 contacts): DOE connections, renewable energy companies, environmental organizations
+
+11. **Generic/Personal Email** (~500 contacts): Gmail, Yahoo, Hotmail addresses requiring manual verification for organizational affiliation
+
+12. **System/Automated Emails** (~250 contacts): Notification systems, billing automations, calendar systems, CI/CD integrations (recommend filtering for CRM)
 
 ---
 
-## Recommended Next Steps
+## Recommended Next Steps for Complete Relationship Mapping
 
-1. **Automated Domain Classification**: Use email domain analysis to auto-categorize remaining 1,500+ unnamed entries
-2. **International Contact Verification**: Verify European, Australian, and Pacific institutional affiliations
-3. **Relationship Status Audit**: Distinguish active collaborations from historical/past contacts
-4. **Business Development Categorization**: Tag contacts by sales/partnership development opportunity level
-5. **System Email Filtering**: Remove automated system notifications and billing/admin emails not requiring direct contact
-6. **Cross-Reference Validation**: Match duplicate entries across organizations (same individual with multiple institutional emails)
-7. **Academic-Industry Pipeline Mapping**: Identify university-to-industry transition paths for recruitment/partnership analysis
+1. **Priority 1 — Institutional Domain Classification**:
+   - Auto-categorize remaining ~500 .edu addresses by institution
+   - Verify ~350 international academic institution affiliations
+   - Cross-reference .gov addresses with federal agency databases
+
+2. **Priority 2 — Relationship Depth Assessment**:
+   - Flag contacts with 5+ emails in BST records (high engagement)
+   - Identify one-time/transactional contacts vs. ongoing partnerships
+   - Rank contacts by recency of interaction
+
+3. **Priority 3 — Business Development Opportunity Tagging**:
+   - Identify venture capital and investor contacts for funding rounds
+   - Map startup ecosystem connections for partnership/acquisition opportunities
+   - Flag competitor company contacts for market intelligence
+
+4. **Priority 4 — System Email Filtering**:
+   - Remove automated notifications, calendar invites, billing systems (~250 contacts)
+   - Separate marketing/promotional addresses from direct business relationships
+   - Flag system integration emails (Slack, Jira, CI/CD) for technical team
+
+5. **Priority 5 — International Contact Strategy**:
+   - Verify German, UK, Swedish, Icelandic, Spanish, and Pacific research partners
+   - Map international academic pipeline for recruitment/collaboration
+   - Identify regulatory contacts in non-US jurisdictions (especially Germany/EU for potential expansion)
+
+6. **Priority 6 — Duplicate Detection**:
+   - Merge contacts with multiple email variations (same person, different institutions)
+   - Resolve email typos and format inconsistencies
+   - Consolidate organizational mailboxes (info@, sales@, support@ addresses)
+
+---
+
+**Data Quality Notes**:
+- Email list appears to include both historical and current contacts
+- Some entries have multiple variants (e.g., different spellings, format changes)
+- International contact verification needed for non-English domains
+- A number of personal email addresses require additional research for organizational context
+- Recommend quarterly audit to remove inactive/invalid contacts and update relationship status

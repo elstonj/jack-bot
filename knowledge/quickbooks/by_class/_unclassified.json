@@ -70,12 +70,12 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-08",
-    "end": "2026-11-08"
+    "start": "2024-11-09",
+    "end": "2026-11-09"
   },
   "totals": {
     "revenue": 3797232.11,
-    "expenses": 4878337.69,
+    "expenses": 4877619.18,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -91,14 +91,14 @@
       "Spark One Jack #3168": 70684.0,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52915.85,
+      "Indirect Cost:Software Expenses": 52766.34,
       "GENERAL & ADMINISTRATIVE:Business Development": 51275.7,
       "FACILITIES:FA-Office Supplies": 48662.97,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "DIRECT COSTS:DC-Direct Material Purchases": 34665.12,
       "FACILITIES:FA-Software Expenses": 34100.64,
-      "Indirect Cost:Meals and Entertainment": 30599.42,
+      "Indirect Cost:Meals and Entertainment": 30210.42,
       "Reimbursable Expenses": 27940.8,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
@@ -114,8 +114,8 @@
       "FACILITIES:FA-Insurance Expenses": 12096.97,
       "OVERHEAD:OH-Airfare": 11565.04,
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 10573.14,
-      "Indirect Cost:License, Permit, Misc Tax Exp": 10482.28,
       "GA-Business Development": 10448.09,
+      "Indirect Cost:License, Permit, Misc Tax Exp": 10302.28,
       "Indirect Cost:Supplies:Shop SuppliesX": 10050.29,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
@@ -57089,60 +57089,6 @@
           "amount": 245.57,
           "account": "Indirect Cost:Software Expenses",
           "description": "INTUIT *QBOOKS ONLINE    CL.INTUIT.COMCA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-08",
-      "doc_number": "",
-      "total": 149.51,
-      "attributed": 149.51,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SLACK T014U7E0L5C        SAN FRANCISCOCA",
-      "lines": [
-        {
-          "amount": 149.51,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "SLACK T014U7E0L5C        SAN FRANCISCOCA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-08",
-      "doc_number": "",
-      "total": 389.0,
-      "attributed": 389.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "SQ *ELDORA MOUNTAIN EC   GOSQ.COM     CO",
-      "lines": [
-        {
-          "amount": 389.0,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "SQ *ELDORA MOUNTAIN EC   GOSQ.COM     CO"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-08",
-      "doc_number": "",
-      "total": 180.0,
-      "attributed": 180.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Pilot Third (3rd) Class Pilot Medical Certification Exam",
-      "lines": [
-        {
-          "amount": 180.0,
-          "account": "Indirect Cost:License, Permit, Misc Tax Exp",
-          "description": "Maciej: Pilot Third (3rd) Class Pilot Medical Certification Exam"
         }
       ]
     }

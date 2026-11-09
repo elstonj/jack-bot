@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Live USSOCOM contract H9223626P9056 for S0-AD system. Fully executed contract received 2026-09-28. Period of Performance (PoP) discussion resolved: initial 60-day placeholder was pro forma; Beck clarified schedule alignment requirements with contracting officer. Workshop preparation and contractor support for build workbench setup underway. Commercial hardware procurement in execution phase. Contract awarded; BST on hook for delivery.",
+  "notes": "Live USSOCOM contract H9223626P9056 for S0-AD system. Fully executed contract received 2026-09-28. Period of Performance (PoP) resolved: initial 60-day placeholder was pro forma; Beck clarified schedule alignment requirements with contracting officer. Workshop preparation and contractor support for build workbench setup underway. Commercial hardware procurement in execution phase.",
   "missing_fields": [
     "receive_by",
     "ship_to",

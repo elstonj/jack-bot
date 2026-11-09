@@ -1,4 +1,4 @@
-_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 0 open tasks, 0 completed (last 90 days)._
 
 # [012-3] ERAU Model S0
 
@@ -6,17 +6,22 @@ _Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Customer Type:** Commercial
 - **Total Budget:** $2,462.50
-- **Status:** ARCHIVED (as of October 27, 2026)
+- **Timeline:** June 25, 2026 (start & due date)
+- **Status:** **ARCHIVED** — Project closed out as of October 27, 2026
 - **Project Owner:** Josh Fromm
-- **Timeline:** June 25–30, 2026 (delivery date)
+- **Risk Signals:** None — project completed and archived
 
-## Key Context
-Per team corrections from Maciej (2026-10-27), this project is queued for archival by project owner Josh Fromm. The project delivered on schedule and has been closed out. No open or active tasks remain in Asana.
+## Key Deliverables & Milestones
+- Model S0 delivery to ERAU by June 30, 2026
+
+## Task Summary
+- **Total tasks:** 0 open, 0 completed (all work has been closed/removed from tracking)
 
 ## Recent Activity
-- **October 27, 2026:** Status marked complete; project flagged for archival by Maciej per direction from owner Josh Fromm.
-- **June 2026:** Model S0 delivered to ERAU by contracted date.
+**[2026-10-27] Project archived.** Per Maciej's feedback (2026-10-28), this project was flagged for archiving by Josh Fromm. No outstanding tasks remain.
 
 ## Notes & Context
-- All work completed and invoiced; safe to archive.
-- Archive instructions (per Maciej): Project owners should navigate to project main page, click dropdown arrow, and select "Archive."
+- Original delivery date was June 30, 2026; project due date in Asana was set to June 25, 2026.
+- Per team feedback, archiving was pending project owner action (requires going to project main page → down arrow → "Archive").
+- Status is now resolved: **archived as of October 27, 2026**.
+- All work complete; customer invoiced.

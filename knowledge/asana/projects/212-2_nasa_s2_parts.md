@@ -1,32 +1,50 @@
-_Asana snapshot as of 2026-11-08: 0 open tasks, 10 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 0 open tasks, 10 completed (last 90 days)._
 
 # [212-2] NASA S2 & Parts
 
-## Overview
-- **Client:** NASA (Will Wade); Primary Contact: Isaac Anderson (650-602-5988, isaac.e.anderson@nasa.gov)
-- **Dollar Value:** $89,844
-- **Timeline:** Contract approved for FY2025 closeout; Project due date listed as 2026-09-30
-- **Status:** **ARCHIVED** — Per team feedback (Maciej, 2026-10-27), this project has been closed out. Marked for archival by project owner.
-- **Team Members:** Josh Fromm, Jack Elston, Spencer Hoehl (assigned to completed tasks)
-- **PO Number:** 80NSSC25PC031
+## Status
+**ARCHIVED** (as of 2026-10-27–2026-10-28, per Maciej's archival feedback)
 
-## Key Deliverables & Milestones
-- S2 platform and replacement parts delivery to NASA (due 2026-09-30)
-- Launcher refurbishment completed
-- All GCS, aircraft systems, and tablet configuration completed
-- All tasks marked complete as of 2026-10-27
+This project is complete and ready for closure. All deliverables have been shipped to NASA; only administrative tasks remain (invoicing).
+
+## Overview
+- **Client:** NASA (Will Wade, primary contact)
+- **Point of Contact:** Isaac Anderson (650-602-5988, isaac.e.anderson@nasa.gov)
+- **Total Funding:** $89,844
+- **Timeline:** 
+  - Project start/due: 2026-09-30
+  - Delivery deadline: 2026-09-30 (met)
+  - PO No.: 80NSSC25PC031
+- **Status:** Archived – all deliverables complete and shipped
+- **Team:** Black Swift Technologies (whole team contributed)
+
+## Key Deliverables
+- S2 platform and replacement parts (end-of-life product)
+- Launcher (refurbished)
+- Control system tablets and GCS (Ground Control System)
+- Battery and joystick calibration
+
+**Note:** Isaac Anderson requested a parts breakdown including full S2 cost on 2026-07-11. Estimate 1362 was provided on 2026-07-18 noting that S2 is end-of-life as the team transitions to S3 platform.
 
 ## Task Summary
-- **Total Tasks:** 10 completed, 0 open
-- **Completion Rate:** 100%
-- **Recent Completions (2026-10-27):** Bulk closure of hardware manufacturing and refurbishment tasks (flap panels, aileron panels, ruddervator inserts, spare tail, launcher refurbishment, solenoid fix)
-- **Earlier Completions (Sept 2026):** Software/configuration tasks (joystick trim fix, tablet setup, sensor file loading, battery calibration)
+- **Total tasks:** 10 (all completed)
+- **Completion rate:** 100%
+- **Recent closures (2026-10-27):**
+  - Structural work: flap panels, aileron panels, ruddervator inserts, spare tail (all with HiTEC)
+  - Launcher refurbishment
+  - Launcher solenoid fix (Josh Fromm)
+  - Battery calibration (Jack Elston)
+- **Earlier completions (2026-09-17–2026-09-21):**
+  - Joystick trim fix (Spencer Hoehl)
+  - Tablet setup and sensor file loading (Spencer Hoehl)
 
 ## Recent Activity
-All 10 project tasks were marked complete on 2026-10-27, indicating final project closeout. The project is being archived per team direction (Maciej, 2026-10-27).
+- **2026-10-27:** Final structural and mechanical tasks marked complete; project archived per team feedback
+- **2026-09-30:** Project delivery deadline met
+- **Earlier Sep 2026:** Ground control systems and flight controls finalized
 
 ## Notes & Context
-- **Cost Breakdown:** Isaac Anderson requested detailed S2 parts cost breakdown (including full S2 unit cost) on 2026-07-11; Estimate 1362 was provided 2026-07-18.
-- **Platform Context:** S2 is end-of-life as BST transitions to S3 platform; replacement parts required new design work.
-- **Billing:** IPP designated as billing point of contact.
-- **Delivery Confirmation:** Project notes indicate delivery by 2026-09-30; all hardware and configuration tasks completed.
+- **Funding approval:** Funding was approved in time to close before end of FY2025
+- **S2 end-of-life:** Parts requested are for a platform being phased out in favor of S3; any new component designs would be required for full S2 builds
+- **Billing:** Point of contact is IPP; all invoicing should be routed through them
+- **Archival:** Project owners can archive via project main page → dropdown → "Archive" (per Maciej, 2026-10-27–2026-10-28)

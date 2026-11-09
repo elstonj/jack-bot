@@ -1,4 +1,4 @@
-_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 0 open tasks, 0 completed (last 90 days)._
 
 # [452-2] S2 Simulator & used E2 Battery
 
@@ -6,14 +6,19 @@ _Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
 - **Client/Customer:** Dan Hesselius (CU Boulder)
 - **Customer Type:** Commercial
 - **Dollar Value:** $3,900
-- **Timeline:** June 30, 2026 (start and due date)
-- **Status:** **ARCHIVED** (as of 2026-10-27; Meredith Needham confirmed payment received and project closed)
+- **Timeline:** June 30, 2026
+- **Status:** **ARCHIVED** (as of 2026-10-27; payment received and project closed per Meredith Needham)
 - **Project Owner:** Meredith O'hara Needham
-- **Risk Signals:** None — project complete and invoiced
+- **Risk Signals:** None — project completed successfully
+
+## Key Deliverables & Milestones
+- S2 Simulator + Used E2 Battery delivery to CU Boulder
+- Payment received: **$3,900 on 2026-05-25**
 
 ## Recent Activity
-- **2026-10-27:** Meredith Needham confirmed payment received ($3,900 received 2026-05-25). Project archived.
-- **2026-10-26:** Maciej requested closeout confirmation; noted Dan H from CU picked up the order the previous week and assumed payment had been invoiced.
+**2026-10-27:** Meredith Needham confirmed payment received and archived project.
+
+**2026-10-27:** Maciej flagged for closure; Dan H from CU picked up delivery the previous week. Project marked ready to archive per team feedback.
 
 ## Notes & Context
-This was a straightforward equipment order (S2 Simulator + used E2 Battery) for a commercial customer at CU Boulder. Delivery and payment were completed; no open tasks remain. Project has been archived per team feedback from Meredith Needham (2026-10-27).
+Project is complete and archived. No outstanding tasks remain. All deliverables shipped to CU Boulder and payment collected.

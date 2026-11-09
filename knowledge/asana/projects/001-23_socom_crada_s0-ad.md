@@ -1,44 +1,41 @@
-_Asana snapshot as of 2026-11-08: 5 open tasks, 3 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 5 open tasks, 3 completed (last 90 days)._
 
 # SOCOM (CRADA) S0-AD
 
 ## Overview
-- **Client/Customer:** CRADA (Cooperative Research and Development Agreement) — government/defense program
-- **Program:** SOCOM (Special Operations Command)
-- **Owner:** Dan Prendergast
-- **Status:** **Active, undergoing restructuring.** Per Maciej (2026-11-04/05), SOCOM has "lots of tasks still on the board" and resource allocation is under review. Daniel Prendergast is refactoring the Asana project structure as of early November 2026.
-- **Timeline:** Milestones unscheduled in current Asana view; recent completions in August 2026
-- **Team:** Dan Prendergast (owner/lead), Maciej (oversight), broader BST R&D team
+- **Client/Customer:** SOCOM (CRADA — Cooperative Research and Development Agreement)
+- **Project Owner:** Dan Prendergast
+- **Status:** **Active but undergoing restructuring** — Daniel Prendergast is actively refactoring the project structure (as of 2026-11-02); new project layout and task organization due Monday morning. Maciej flagged on 2026-11-04/05 that many SOCOM tasks remain on the Kanban board with resource constraints.
+- **Team Members:** Dan Prendergast (owner), Maciej (oversight), team members referenced in Kanban discussion
+- **Timeline:** Last completed tasks in August 2026; project restructuring in progress as of early November 2026
+- **Risk Signals:** 
+  - Five open milestones/tasks with **no due dates** — creates scheduling ambiguity
+  - Three open milestones (Hand Launch from C-130, EO/IR Sensor, ATR Integration) marked as high/medium priority but **unassigned** with no target dates
+  - Resource constraints flagged by Maciej (2026-11-04/05): "lots of SOCOM tasks still on the board" with limited available staff
 
 ## Key Deliverables & Milestones
-| Milestone | Status | Due Date | Notes |
-|-----------|--------|----------|-------|
-| Hand Launch from C-130 | Waiting | Unscheduled | High priority; unassigned |
-| EO/IR Sensor Integrated | In Progress | Unscheduled | Medium priority; unassigned |
-| ATR Integrated | Open | Unscheduled | Unassigned |
-| Select Hardware | In Progress | Unscheduled | Medium priority; unassigned |
-| Select Processing Hardware | Done | Unscheduled | High priority; marked complete |
-
-**Completed (August 2026):**
-- Demo Planning & Logistics (2026-08-20)
-- Adjust deployment sleeve for hand-launch (2026-08-20)
-- Put correct S/N stickers on equipment (2026-08-17)
+| Milestone | Priority | Status | Due Date |
+|-----------|----------|--------|----------|
+| Hand Launch from C-130 | High | Waiting | Not set |
+| EO/IR Sensor Integrated | Medium | In Progress | Not set |
+| ATR Integrated | — | Open | Not set |
+| Select hardware | Medium | In Progress | Not set |
+| Select processing hardware | High | Done | Not set |
 
 ## Task Summary
-- **Total:** 5 open, 3 completed
-- **Assignees:** Predominantly unassigned at milestone/task level; Dan Prendergast appears as owner/occasional assignee
-- **Completion Rate:** 37.5% (3 of 8 tasks complete)
-- **Risk Pattern:** All open milestones lack due dates and assignees — visibility is limited
+- **Total:** 8 tasks (5 open, 3 completed)
+- **Assignees:** Mostly unassigned; Dan Prendergast assigned to one completed task (S/N stickers, completed 2026-08-17)
+- **Completion Pattern:** Only 3 tasks closed; most were logistics/demo prep (August 2026); core technical milestones remain open without assigned owners or due dates
 
 ## Recent Activity
-- **Team Restructuring (Early November 2026):** Per Daniel Prendergast (2026-11-02, 10-30), the SOCOM Asana project is being refactored; "Project and stickies will be ready by Monday morning."
-- **Resource Pressure (2026-11-04/05):** Maciej flagged "lots of SOCOM tasks still on the board" and asked Daniel to consider moving items to next week or identifying resource needs. No formal reply documented in corrections.
-- **Last Hardware Completions:** August 2026 — demo logistics and equipment prep completed, but subsequent milestone progress is not reflected in Asana.
+- **2026-11-02:** Daniel Prendergast confirmed active refactoring of SOCOM Asana project structure; new project layout and stickies due Monday morning
+- **2026-11-04/05:** Maciej raised concern about "lots of SOCOM tasks still on the board," asking whether tasks should be moved to next week or whether additional resources can be allocated (noting resource constraints)
+- **August 2026:** Last completed work (Demo Planning & Logistics, deployment sleeve adjustment, S/N stickers)
+- **Project restructuring context (2026-10-27):** Maciej outlined planned Asana overhaul: two-level planning (long-term milestones in Asana, weekly execution on physical Kanban board) with 6-month rolling milestone plan
 
 ## Notes & Context
-- **Structural Overhaul Underway:** The team is implementing a two-level planning system (Asana for long-term milestones + 6-month rolling plans; physical Kanban board for weekly execution). SOCOM's current Asana state is transitional.
-- **Missing Due Dates & Owners:** All open milestones lack scheduled dates and assignees, suggesting the refactoring is not yet complete. This is **intentional structural work**, not project drift.
-- **Kanban Reliance:** Per Maciej's feedback, active weekly work is tracked on the physical Kanban board, not in Asana. The Asana view shown here reflects high-level milestones only.
-- **Resource Constraints:** Maciej noted limited available resources as of early November; SOCOM tasks may be competing for bandwidth with S3 project.
-
-**Status Summary:** SOCOM is active but mid-restructuring. Treat Asana task dates/assignments as stale; consult Kanban board and Daniel/Maciej for current execution status.
+- **Asana restructuring underway:** This project is mid-refactor. Dates and task structure are **not current truth** until Daniel completes the restructuring (expected Monday, 2026-11-03 or shortly after).
+- **No due dates on milestones:** Five open tasks/milestones have no target dates set — suggests either backlog status or a data gap from the refactoring.
+- **Resource constraint:** Maciej's Nov 4–5 feedback indicates team is stretched thin; SOCOM has unresolved tasks competing with other active work (S3 also flagged).
+- **Kanban board is the execution layer:** Per Maciej's 2026-10-27 guidance, weekly work should be tracked on physical Kanban board, not Asana; check board for current weekly sprint status.
+- **Hardware selection still in progress:** "Select hardware" and "Select processing hardware" remain open despite High/Medium priority, indicating potential dependency or decision delay.

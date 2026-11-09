@@ -1,39 +1,43 @@
-_Asana snapshot as of 2026-11-08: 2 open tasks, 2 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 2 open tasks, 2 completed (last 90 days)._
 
 # [212-1] S2 Simulator
 
 ## Status
-**ARCHIVED** (as of 2026-10-27)
-
-Per Maciej's feedback (2026-10-27): Project delivered to NASA a few weeks ago. Only open milestones remain ("Build Sim System" and "Deliver"), which appear to be stale Asana entries. Project is ready for archival.
+**ARCHIVED** — Project marked for archiving as of 2026-10-27 (per Maciej feedback). System delivered to NASA weeks ago; only invoicing milestones remain in Asana.
 
 ## Overview
-- **Customer:** NASA (Will Wade, william.o.wade@nasa.gov)
-- **Primary Contact:** Isaac Anderson (isaac.e.anderson@nasa.gov, 650-602-5988) — *Note: Isaac has moved on from NASA Ames as of Dec 30, 2025. New NASA contact is Randy Hobbs (r.hobbs@nasa.gov); cc Will Wade, Farina Remo, Hai-Nam Tran on future communications.*
-- **Total Budget/Funding to BST:** $2,900
-- **Payment Received:** $2,900 (paid 2026-08-22)
-- **Timeline:** Original delivery target 2026-05-13 (now exceeded; actual delivery ~mid-Oct 2026)
-- **Team:** BST (Whole Team)
+- **Customer:** NASA (Will Wade, William O. Wade william.o.wade@nasa.gov)
+- **Primary Contact:** Isaac Anderson (Chief Aviation Operations Engineer, 650-602-5988, isaac.e.anderson@nasa.gov) — *Note: Isaac has moved on from NASA Ames; new NASA contact is Randy Hobbs (r.hobbs@nasa.gov)*
+- **Dollar Value:** $2,900 (paid 22 Aug 2025)
+- **Timeline:** 
+  - Payment received: 22 Aug 2025
+  - Last completed work: 17 Oct 2026
+  - Original delivery milestones: 6–13 May 2026 (stale; actual delivery weeks before 27 Oct 2026)
+- **Team:** BST (Jack Elston primary executor)
+- **Customer Type:** Commercial
 
 ## Key Deliverables & Milestones
-- **Build Sim System** — Unassigned | Due 2026-05-06 (open; stale)
-- **Deliver System and Documentation** — Unassigned | Due 2026-05-13 (open; stale)
-- **Operational Checks** — Completed 2026-10-17 (Jack Elston)
-- **Load OS/software and configure sim machine** — Completed 2026-10-17 (Jack Elston)
+| Deliverable | Due Date | Status |
+|---|---|---|
+| Load OS/software and configure sim machine | 2026-05-04 | ✅ Completed 2026-10-17 |
+| Operational Checks | 2026-05-06 | ✅ Completed 2026-10-17 |
+| Build Sim System | 2026-05-06 | ⏳ Open (milestone) |
+| Deliver System and Documentation | 2026-05-13 | ⏳ Open (milestone) |
 
 ## Task Summary
-- **2 open, 2 completed**
-- Both completed tasks assigned to Jack Elston
-- Both completions dated 2026-10-17 (recent activity suggests final system delivery occurred mid-October)
+- **Total:** 4 tasks (2 completed, 2 open)
+- **Completed by Jack Elston:** 2/2 (100% completion rate)
+- **Open milestones:** Unassigned (stale due dates; work completed but milestones not closed in Asana)
 
 ## Recent Activity
-- **2026-10-17:** Final operational checks and software configuration completed (Jack Elston)
-- **2026-10-27:** Maciej confirmed project ready for archival; system delivered to NASA
-- **2026-08-22:** Payment received ($2,900)
+- **2026-10-27:** Maciej flagged for archiving — confirmed simulator delivered to NASA "a few weeks ago"
+- **2026-10-17:** Jack Elston completed final configuration and operational checks
+- **2025-12-30:** Project notes updated; Isaac Anderson's contact info noted; indicated warranty work (servo replacement) to be completed at no charge
 
 ## Notes & Context
-- Scope included purchasing S2 Simulator and warranty work (flap servo replacement)
-- Isaac Anderson will send his personal S2 for repairs (warranty work, no payment to BST)
-- Project notes updated 2026-12-30 with new NASA points of contact following Isaac's departure
-- Milestone dates (May 2026) are outdated; actual delivery occurred ~Oct 2026
-- Recommend archiving per Maciej's 2026-10-27 feedback
+- **Contact Update (2025-12-30):** Isaac Anderson has moved on from NASA Ames. New NASA contact is **Randy Hobbs** (r.hobbs@nasa.gov); include Will Wade, Farina Remo, and CC Hai-Nam Tran (hai-nam.h.tran@nasa.gov) on communications.
+- **Scope:** Purchase and delivery of S2 Simulator; includes completed warranty work (flap servo replacement) at no additional charge.
+- **Invoice Status:** Per Maciej (2026-10-27), only invoicing remains; recommend closing project once final invoice is confirmed sent.
+- **Asana Data Staleness:** Due dates in milestones are obsolete; system was delivered weeks before 27 Oct 2026. Work is functionally complete.
+
+**Recommendation:** Archive project once final invoice is documented as sent.

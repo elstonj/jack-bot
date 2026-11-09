@@ -1,8 +1,8 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-11-08 03:29_
+_Last scanned 2026-11-09 03:28_
 
-## Builds (10)
+## Builds (9)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
@@ -12,7 +12,6 @@ _Last scanned 2026-11-08 03:29_
 | Austin Anderson | — | paid | none | none | `1217705660642292` |
 | NASA Langley | 2026-10-01 | estimate_sent | none | none | `1217250802689230` |
 | USSOCOM | — | invoice_sent | parts_ordered | none | `1218387458616579` |
-| Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
 | Embry-Riddle Aeronautical University | — | invoice_sent | complete | in_transit | `1205971100510799` |
 | NASA Ames | — | paid | complete | none | `1205360652382905` |
 | Embry-Riddle Aeronautical University | 2026-09-30 | paid | complete | in_transit | `1205318673933832` |

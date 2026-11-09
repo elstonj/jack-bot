@@ -1,121 +1,68 @@
-_Asana snapshot as of 2026-11-08: 12 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 11 open tasks, 1 completed (last 90 days)._
 
-# Black Swift Technologies – Major Milestones & Tasks
+# Major Milestones & Tasks
 
 ## Overview
-
-**Status:** Active R&D project portfolio under restructuring.
-
-**Key Finding:** This is a **cross-project milestone tracking view**, not a single project. It aggregates major milestones from multiple active programs (S3 aircraft, AP platform, SOCOM, INSTAAR, UMES, and others). 
-
-**Recent Organizational Change (Oct 27–Nov 6, 2026):** Maciej has initiated a restructuring to:
-- Separate Asana (long-term milestones & weekly planning) from physical Kanban board (weekly execution)
-- Archive completed/delivered projects to clean up the portfolio
-- Implement 6-month rolling milestone planning
-- Improve visibility and sync between systems
-
-**Active Team:** Maciej Stachura (leadership), Jack Elston, Sam Hild, Josh Fromm, Cory Dixon, and others.
-
-**Risk Signals:**
-- Multiple milestones approaching in Nov–Dec 2026
-- Several unassigned milestones with past/imminent due dates ("Conduct Mission" past due 2026-10-01, "Ship Aircraft" past due 2026-10-26, "Finish payload updates" past due 2026-10-23, "Conduct local flight testing" due 2026-11-06)
-- Kanban board described as having "lots of SOCOM tasks still on the board" with resource constraints (Maciej, 2026-11-05)
-- Tasks not being moved to "done" consistently (Maciej reminder, 2026-11-03)
-- Some milestones lack dates yet (Maciej reminder to Cory & other project leads, 2026-11-02)
-
----
+- **Organization**: Black Swift Technologies (BST) — whole team view
+- **Status**: Active — mix of near-term and delivery milestones across multiple projects
+- **Timeline**: Current window spans late October 2026 through December 2026
+- **Team members**: Sam Hild, Josh Fromm, Maciej Stachura, Jack Elston, and others
+- **Risk signals**: 
+  - Multiple milestones already past due dates (Conduct Mission: 2026-10-01; Finish payload updates: 2026-10-23; Ship Aircraft and Equipment: 2026-10-26; Sort out flight/radio/shipping permissions: 2026-11-04)
+  - Several unassigned milestones with overdue dates
+  - Recent team feedback indicates Kanban board tasks are backing up (SOCOM and S3 projects have resource constraints per Maciej's 2026-11-05 feedback)
 
 ## Key Deliverables & Milestones
 
-### Immediate (Next 2 Weeks)
-| Milestone | Owner | Due Date | Status |
-|-----------|-------|----------|--------|
-| **Close out AP Release Candidate** | Jack Elston | 2026-11-04 | Open – QC and fail test flights required |
-| **Sort out flight, radio, shipping, import permissions** | Unassigned | 2026-11-04 | Open |
-| **Conduct local flight testing** | Unassigned | 2026-11-06 | Open |
-| **Power Board Complete** | Sam Hild | 2026-11-09 | Open – ground tests on rig required |
-
-### Near-term (Nov–Dec 2026)
-| Milestone | Owner | Due Date | Status |
-|-----------|-------|----------|--------|
-| **50 Hover Tests** | Maciej Stachura | 2026-11-17 | Open – all hovers, no failures |
-| **Initial Transition Test** | Maciej Stachura | 2026-11-18 | Open – full flight, no failures |
-| **5 hours of Forward Flight** | Maciej Stachura | 2026-11-23 | Open – multiple flights, no failures, QC passed |
-| **Deliver UMES S3** | Josh Fromm | 2026-12-01 | Open |
-| **Deliver 2 INSTAAR S3's** | Josh Fromm | 2026-12-11 | Open |
-
-### Past Due (Likely Reassigned/Archived)
-| Milestone | Owner | Due Date | Status |
-|-----------|-------|----------|--------|
-| **Conduct Mission** | Unassigned | 2026-10-01 | Open (likely handled externally) |
-| **Finish payload updates** | Unassigned | 2026-10-23 | Open |
-| **Ship Aircraft and Equipment** | Unassigned | 2026-10-26 | Open |
-
----
+| Milestone | Owner | Due Date | Status | Notes |
+|-----------|-------|----------|--------|-------|
+| Finish payload updates | Unassigned | 2026-10-23 | **OVERDUE** | |
+| Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | **OVERDUE** | |
+| Conduct Mission | Unassigned | 2026-10-01 | **OVERDUE** | |
+| Ship Aircraft and Equipment | Unassigned | 2026-10-26 | **OVERDUE** | On hold (notes partial) |
+| Conduct local flight testing | Unassigned | 2026-11-06 | **OVERDUE** | |
+| Power Board Complete | Sam Hild | 2026-11-09 | Open | Close out by passing all ground tests on the rig |
+| 50 Hover Tests | Maciej Stachura | 2026-11-17 | Open | Close out getting through all hovers with no failures |
+| Initial Transition Test | Maciej Stachura | 2026-11-18 | Open | Full flight with no failures, passes QC checks |
+| 5 hours of Forward Flight | Maciej Stachura | 2026-11-23 | Open | 5 total hours over multiple flights, no failures, QC passed |
+| Deliver UMES S3 | Josh Fromm | 2026-12-01 | Open | Close out when S3 delivered |
+| Deliver 2 INSTAAR S3's | Josh Fromm | 2026-12-11 | Open | Close out when S3's delivered |
 
 ## Task Summary
+- **Total tasks**: 11 open, 1 completed
+- **Completed recently**: Close out AP Release Candidate (Jack Elston, completed 2026-11-09, due 2026-11-04)
+- **Assignee breakdown**:
+  - Maciej Stachura: 3 open milestones (flight testing & hover tests)
+  - Josh Fromm: 2 open milestones (S3 deliveries)
+  - Sam Hild: 1 open milestone (Power Board)
+  - Jack Elston: 1 completed milestone
+  - Unassigned: 5 open milestones (critical path items)
 
-- **Total Milestones:** 12 open, 0 completed (all in "open" state in Asana)
-- **Assignees:**
-  - Maciej Stachura: 3 (50 Hover Tests, Initial Transition Test, 5 hours of Forward Flight)
-  - Josh Fromm: 2 (Deliver UMES S3, Deliver 2 INSTAAR S3's)
-  - Jack Elston: 1 (Close out AP Release Candidate)
-  - Sam Hild: 1 (Power Board Complete)
-  - Unassigned: 5 (Conduct Mission, Ship Aircraft and Equipment, Conduct local flight testing, Finish payload updates, Sort out flight/radio/shipping/import permissions)
+## Recent Activity & Team Context
 
-- **Notable Pattern:** Heavy concentration of flight testing/qualification tasks on Maciej (S3 aircraft validation path). Multiple unassigned milestones suggest either:
-  - Cross-team dependencies awaiting clarification
-  - Tasks assigned externally (e.g., customer site)
-  - Asana records not updated after real-world reassignment
+**2026-11-06** — Maciej reminded team to keep tasks updated on board by afternoon; wants next week's tasks ready by end of day.
 
----
+**2026-11-05** — Maciej flagged resource constraints: SOCOM project has many tasks still on board (Kanban); S3 project similarly needs assessment on whether extra resources could help move work forward.
 
-## Recent Activity & Corrections
+**2026-11-03** — Maciej emphasized moving Kanban board tasks to "done" as completed; indicated he will monitor completion rate and reassign if throughput is insufficient.
 
-**Key Feedback (Overrides Stale Asana Dates):**
+**2026-10-28** — Maciej announced Asana restructuring plan with leadership: moving to two-level planning (Asana tracks long-term milestones + weekly tasks; physical Kanban board manages weekly execution) and 6-month rolling milestone approach.
 
-1. **Project Archiving Approved (Oct 26–28, 2026)** – Maciej proposed and Jack approved archiving of completed/delivered projects:
-   - [212-1] S2 Simulator (delivered to NASA weeks prior)
-   - [452-2] S2 Simulator & used E2 Battery (customer pickup by Dan H/CU)
-   - [043-3] ByLight M2/Halo (invoiced, only outstanding invoice task)
-   - [012-3] ERAU Model S0 (completed)
-   - [032-3] Sasquatch S0s x 4 (completed)
-   
-   **Status:** Approved for archiving by Jack; owners instructed on how to archive (Oct 28).
-
-2. **Asana Restructuring In Progress (Oct 27–Nov 6, 2026):**
-   - Implementing two-level planning: Asana = milestones + weekly tasks; Kanban board = daily execution
-   - Rolling 6-month milestone plan to replace ad-hoc milestones
-   - Goal: better visibility and AI-friendly task/assignment history
-
-3. **Kanban Board Execution Challenges (Nov 2–6, 2026):**
-   - **Nov 6:** Maciej reminder to update board by afternoon (tasks ready for Monday)
-   - **Nov 5:** Maciej flagged resource constraints:
-     - SOCOM project: lots of open tasks on board; can tasks move to next week or can resources be reallocated?
-     - S3 program: similar bottleneck; any tasks needing extra resources?
-   - **Nov 3:** Tasks not consistently marked "done" on Kanban board; Maciej monitoring to reassign if throughput is low
-   - **Nov 2:** Cory requested project leaders update Kanban and Asana by Monday morning
-
-4. **Milestone Dates Gap (Nov 2, 2026):**
-   - Maciej required Cory & other project leads to add dates to their milestones; some still missing.
-
----
+**2026-10-27** — Maciej identified several projects for archival (all approved by Jack per 2026-10-26 feedback):
+- [212-1] S2 Simulator (delivered to NASA)
+- [452-2] S2 Simulator & used E2 Battery (CU/Dan H pickup)
+- [043-3] ByLight M2/Halo (invoice pending)
+- [032-3] Sasquatch S0s x 4
+- [012-3] ERAU Model S0
 
 ## Notes & Context
 
-- **Asana as Archival/Training Data:** Jack emphasized that archived task histories will be useful for "training sets" when automating project summaries via AI (Oct 26).
+1. **Asana/Kanban Integration**: Team is transitioning to a hybrid model where Asana holds strategic milestones and weekly planning, while a physical Kanban board drives daily/weekly execution. The board is currently the source of truth for current-week tasks—check there for real-time status.
 
-- **Unassigned Milestones Likely Stale:** The five unassigned milestones with past or imminent due dates (Conduct Mission, Ship Aircraft, Finish payload updates, Conduct local flight testing, Sort permissions) suggest either:
-  - Handled outside Asana (customer site, external partner)
-  - Asana records not cleaned up after real-world completion
-  - Dependencies waiting for other teams
+2. **Multiple Overdue Milestones**: Five milestones have dates in the past (Oct 1 – Nov 4). These are unassigned and likely represent external dependencies or work-in-progress that has slipped. Requires immediate clarity on whether dates are stale or if actual delays exist.
 
-  Per team feedback, these may be worth flagging in review but are not blocking active work.
+3. **Milestone Dates Needed**: Per Maciej's 2026-11-02 feedback, project leaders (including assignees of open milestones) should ensure all milestones have clear dates. Some entries above have partial or missing notes.
 
-- **Resource Constraints:** Maciej's Nov 5 note indicates limited engineering capacity; SOCOM and S3 are competing for attention.
+4. **High-Tempo Execution**: Flight testing milestones (50 Hovers → Transition Test → 5 hours Forward Flight, Nov 17–23) are tightly sequenced. Any slippage cascades to S3 delivery dates (Dec 1 & 11).
 
-- **Next Steps:**
-  - Archive approved projects (owners' responsibility)
-  - Fill in missing milestone dates
-  - Continue syncing Kanban board weekly
-  - Reassess unassigned milestones for cleanup or reassignment
+5. **Resource Constraints**: Team bandwidth is limited; Maciej is actively monitoring Kanban board completion rates and considering reassignments to unblock work.

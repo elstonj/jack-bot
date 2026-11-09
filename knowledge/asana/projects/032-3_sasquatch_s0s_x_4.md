@@ -1,28 +1,29 @@
-_Asana snapshot as of 2026-11-08: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 0 open tasks, 0 completed (last 90 days)._
 
 # [032-3] Sasquatch S0s x 4
 
 ## Overview
-- **Client:** University of Notre Dame (David Ritcher, David.Richter.26@nd.edu)
+- **Client:** Notre Dame (David Richter, David.Richter.26@nd.edu)
 - **Dollar value:** $88,705
-- **Timeline:** Verbal order placed Feb 19, 2026; 4-month delivery timeline; due date July 1, 2026
-- **Status:** **ARCHIVED** (per team feedback from Maciej, 2026-10-28 — project owners to archive via project page)
-- **Team:** Jack Elston (Owner), BST team
-- **Customer type:** Commercial
+- **Timeline:** Verbal order placed Feb 19, 2026; 4-month timeline; due July 1, 2026
+- **Status:** **ARCHIVED** — Per Maciej (2026-10-28), this project is ready for archiving
+- **Team:** Jack Elston (owner), BST (whole team)
+- **Customer Type:** Commercial
 
 ## Key Deliverables & Milestones
-- Delivery of 4 Sasquatch S0 units + travel
-- Based on estimate #1373
+- **Deliverable:** 4× Sasquatch S0 units + travel
+- **Timeline:** 4-month build cycle from Feb 19, 2026 → July 1, 2026
+- **Basis:** Estimate #1373
 
 ## Task Summary
 - **Total tasks:** 0 open, 0 completed
-- No active Asana tasks; all work appears complete or closed out externally
+- All work appears to be tracked outside Asana or completed prior to archival
 
 ## Recent Activity
-Project marked for archival by Maciej (2026-10-28). The 4-month timeline from Feb 19, 2026 placed delivery at ~June 19, 2026; project due date shows July 1, 2026. No open tasks indicate work is done.
+Per team feedback (Maciej, 2026-10-28): This project is flagged for archiving by project owner. Archival instructions provided to Jack Elston.
 
 ## Notes & Context
-- Verbal order from David Ritcher (Notre Dame) on Feb 19, 2026
-- Based on estimate 1373
-- All funding ($88,705) accounted for as revenue to Black Swift
-- **ARCHIVAL STATUS:** Listed by Maciej as ready for archiving; only project owners can execute the archive action via project page → down arrow → "Archive"
+- Customer ordered verbally on Feb 19, 2026
+- Estimate basis: #1373
+- Budget and funding aligned ($88,705 BST share of $88,705 total)
+- No active tasks in Asana; project lifecycle appears complete or externally managed

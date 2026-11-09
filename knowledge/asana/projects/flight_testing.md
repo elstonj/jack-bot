@@ -1,70 +1,59 @@
-_Asana snapshot as of 2026-11-08: 6 open tasks, 17 completed (last 90 days)._
+_Asana snapshot as of 2026-11-09: 6 open tasks, 17 completed (last 90 days)._
 
 # Flight Testing
 
 ## Overview
-- **Client/Customer:** Internal BST flight testing operations (multiple aircraft platforms including NASA, ByLight)
-- **Dollar Value:** Not specified in task data
-- **Timeline:** Ongoing testing cycle; most recent completions Nov 2026; multiple aircraft in active testing rotation
-- **Status:** **ACTIVE** — 6 open tasks, 17 recently completed (most within last month)
-- **Team Members:** Spencer Hoehl (primary test pilot/lead), Alex Lomis, Ethan Domagala, Jack (occasional)
-- **Risk Signals:** 
-  - No due dates on any open tasks (unclear prioritization/deadlines)
-  - One unassigned task: "S10022 Transition Flights to prepare for"
-  - Multiple release candidate tests pending with no timeline
+- **Client/Customer**: Internal BST flight testing operations (multiple aircraft platforms and variants)
+- **Dollar Value**: Not specified in Asana data
+- **Timeline**: Ongoing; most recent activity November 2026
+- **Status**: **Active** — 6 open tasks, 17 completed; steady testing cadence with multiple aircraft variants in RC (release candidate) testing phase
+- **Team Members**: Spencer Hoehl (primary test pilot/coordinator), Alex Lomis, Ethan Domagala, Jack (QC pilot)
+- **Risk Signals**: 
+  - 6 open tasks with **no due dates** (unclear urgency/sequencing)
+  - ERAU E2 instability issue remains unresolved (9/29 notes: issue could not be reproduced)
+  - S10022 lost GPS on climbout (fix pending verification)
 
 ## Key Deliverables & Milestones
-All milestones are aircraft-specific release candidate testing and QC flights:
-
-| Aircraft | Task | Status | Completed |
-|----------|------|--------|-----------|
-| S10022 | Release Candidate Testing (GPS climbout fix verification) | OPEN | — |
-| S20003 | Release Candidate Testing | OPEN | — |
-| E20006 | Release Candidate Testing | OPEN | — |
-| FW0002 | Release Candidate Testing | **DONE** | 2026-11-04 |
-| FW0001 | Release Candidate Testing | **DONE** | 2026-11-04 |
-| S10021 | Release Candidate Testing (VTOL) | **DONE** | 2026-11-04 |
-| S10005 | Release Candidate Testing | **DONE** | 2026-11-04 |
-| S10011 | Release Candidate Testing | **DONE** | 2026-11-04 |
-| ERAU E2 | Instability Investigation | OPEN | — |
-| Swiftab App | Release Candidate Version Upload | OPEN | — |
-| NASA S2 | QC Flight | **DONE** | 2026-09-21 |
-| ByLight Mustang | Flight Test (stability/range characterization) | **DONE** | 2026-09-22 |
+| Deliverable | Status | Notes |
+|---|---|---|
+| **FW0001, FW0002 RC Testing** | ✅ Completed 2026-11-04 | Firmware release candidates; requires params download before upload |
+| **S10021 RC Testing (VTOL)** | ✅ Completed 2026-11-04 | VTOL-specific firmware changes validated |
+| **S10005, S10011 RC Testing** | ✅ Completed 2026-11-04 | Fixed-wing platforms |
+| **S10022 RC Testing** | 🔄 Open | GPS climbout loss issue fix pending verification |
+| **S10022 Transition Flights** | 🔄 Open | Unassigned; prepares for VTOL transition testing |
+| **E20006 RC Testing** | 🔄 Open | No progress notes |
+| **S20003 RC Testing** | 🔄 Open | No progress notes |
+| **ERAU E2 Instability Investigation** | 🔄 Open | Issue could not be reproduced as of 9/29; aircraft prepped for ongoing investigation |
+| **Swiftab App RC Version** | 🔄 Open | Release candidate uploaded |
+| **NASA S2 QC Flight** | ✅ Completed 2026-09-21 | Customer-ready vehicle (S20009); passed QC |
+| **ByLight Mustang Flight Test** | ✅ Completed 2026-09-22 | Stability characterization and range testing; maintenance required post-flight |
 
 ## Task Summary
-- **Total Tasks:** 23 (6 open, 17 completed)
-- **Tasks by Assignee:**
-  - **Spencer Hoehl:** 22 tasks (17 completed, 5 open) — ~77% completion rate on assigned work
-  - **Alex Lomis:** 2 tasks (both completed) — ~100%
-  - **Ethan Domagala:** 1 task (completed) — ~100%
-  - **Unassigned:** 1 open (S10022 Transition Flights)
-
-- **Notable Patterns:**
-  - Spencer Hoehl carries the vast majority of flight testing workload
-  - Heavy use of "Ready for Flight Testing" status custom field
-  - QC Required field used selectively (some tasks marked No QC, others marked Yes)
-  - Release candidate testing is the primary focus; many tasks lack due dates (may indicate ad-hoc scheduling)
-  - Multiple aircraft platforms in parallel testing (VTOL, fixed-wing, specialized sensors)
+- **Total**: 23 tasks (6 open, 17 completed; ~74% completion rate)
+- **By Assignee**:
+  - **Spencer Hoehl**: 22 tasks (primary owner; completed ~15, 6 open)
+  - **Alex Lomis**: 1 completed (S0 VTOL, ByLight Mustang pre-test coordination)
+  - **Ethan Domagala**: 1 completed (ByLight Mustang test)
+  - **Unassigned**: 1 open (S10022 Transition Flights)
+- **Patterns**:
+  - Heavy release candidate (RC) testing pipeline — 5 aircraft/firmware variants in active RC phase
+  - No due dates on open tasks; due dates on completed tasks are historical (Aug–Sep 2026)
+  - "Ready for Flight Testing" status predominates among completed tasks
+  - QC Required field inconsistently populated
 
 ## Recent Activity
-- **November 4, 2026:** Major completion spike — 5 release candidate tests completed in one day (FW0001, FW0002, S10005, S10011, S10021)
-- **October 14, 2026:** S10022 Test Flights and S10021 VTOL QC flights completed
-- **September–October:** Steady completion of specialized tests (soil moisture, VTOL transitions, ByLight Mustang, NASA S2 QC)
-- **Current Open Queue:** 6 tasks remain, focused on additional release candidates (S20003, E20006) and instability investigation (ERAU E2)
+- **2026-11-04**: Batch completion of 5 RC testing tasks (FW0001, FW0002, S10005, S10011, S10021)
+- **2026-10-14**: S10022 VTOL test flights and S10021 QC flights completed
+- **2026-10-09**: S1 fixed-wing and FlameWheel QC firmware validation completed
+- **2026-09–10**: ERAU E2 instability investigation underway; issue irreproducible with/without wind sensor mast (9/29 note)
+- **2026-09-22**: ByLight Mustang flight test completed; flagged "Maintenance Required"
 
 ## Notes & Context
-
-### Team Feedback
-Daniel Prendergast asserted "Mine's correct. Stop hazing me, Mr. Flight Director" (2026-10-15 and 2026-10-16). This appears to be a correction to flight test data or parameters; recommend clarifying with Daniel what specific item was being disputed.
-
-### Key Technical Notes
-- **ERAU E2 Instability:** Issue could not be reproduced as of 9/29; testing with/without wind sensor mast ongoing
-- **S10022 GPS Issue:** Lost GPS on climbout — fix pending verification in release candidate test
-- **Firmware Prerequisites:** Multiple tasks note "Needs Params downloaded before firmware uploaded" (FW0001, FW0002, S10011)
-- **Historical Issues Resolved:**
-  - S10020 ESC failure (power loss on VTOL transition) — appears resolved in later firmware builds
-  - Magnetometer startup faults on S10020 — addressed in firmware update tested 8/21
-  - SOCOM ground station switching capability tested and verified (8/17)
-
-### Observation
-This is a high-throughput QC/release validation pipeline with Spencer Hoehl as the bottleneck. Open tasks lack due dates, which may reflect flexible scheduling around weather/aircraft availability or indicate need for better milestone tracking. The unassigned "S10022 Transition Flights" task should be assigned.
+- **Team Feedback Override** (Daniel Prendergast, 2026-10-15 & 2026-10-16): Prendergast asserts "Mine's correct" and requests cessation of "hazing"; context unclear but may indicate data quality disputes or task assignment corrections not reflected in Asana.
+- **Firmware Testing Protocol**: Pre-flight QC includes params download before firmware upload (noted on FW0001, FW0002, S10011).
+- **Known Issues**:
+  - ERAU E2 instability: reproducibility failed; investigation ongoing
+  - S10022 GPS climbout loss: fix proposed; RC testing pending verification
+  - S0 VTOL MAG signal loss / S10020 ESC power loss: resolved in completed tasks but suggests prior hardware/firmware fragility
+- **Customer Activity**: NASA S2 (S20009) passed QC 2026-09-21, indicating delivery readiness
+- **No Currency on Open Tasks**: Absence of due dates on 6 open items suggests either backlog items awaiting prioritization or ongoing exploratory testing without hard deadlines

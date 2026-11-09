@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-07: 7374.0 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1650.2 h, Beck Cotter 985.0 h, Dan 429.0 h, Stachura 418.3 h, Nate 122.0 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 15.9 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
+_Computed from Toggl as of 2026-11-09: 7374.9 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1650.2 h, Beck Cotter 985.0 h, Dan 429.0 h, Stachura 419.3 h, Nate 122.0 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 15.9 h, Austin Vera 10.5 h, Ali Sulehria 9.5 h, Sam Hild 9.0 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
 
 # [001-13] General Operations — Time Tracking
 
@@ -6,7 +6,7 @@ _Computed from Toggl as of 2026-11-07: 7374.0 h total since 2020-01-01 — Mered
 - **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 7,374.0 hours (since 2020-01-01)
+- **Total Hours Tracked:** 7,374.9 hours (since 2020-01-01)
 
 ## Team Allocation
 
@@ -16,7 +16,7 @@ _Computed from Toggl as of 2026-11-07: 7374.0 h total since 2020-01-01 — Mered
 | Jack Elston | 1,650.2 | 22.4% |
 | Beck Cotter | 985.0 | 13.4% |
 | Dan | 429.0 | 5.8% |
-| Stachura | 418.3 | 5.7% |
+| Stachura | 419.3 | 5.7% |
 | Nate | 122.0 | 1.7% |
 | Ethan Domagala | 57.9 | 0.8% |
 | Josh Fromm | 45.0 | 0.6% |
@@ -24,54 +24,32 @@ _Computed from Toggl as of 2026-11-07: 7374.0 h total since 2020-01-01 — Mered
 | Austin Vera | 10.5 | 0.1% |
 | Ali Sulehria | 9.5 | 0.1% |
 | Sam Hild | 9.0 | 0.1% |
-| Parker | 7.9 | 0.1% |
-| Alex | 5.3 | <0.1% |
-| Kareem Ahmed | 3.0 | <0.1% |
-| Tiffany Elston | 2.5 | <0.1% |
-| Alec Mallinger | 0.0 | — |
+| Others | 38.1 | 0.5% |
 
-**Primary Contributor:** Meredith Needham (nearly half of all tracked hours)
+**Primary Contributors:** Meredith Needham (Operations/Admin focus), Jack Elston (Communications/Meetings), Beck Cotter (General Operations)
 
 ## Activity Timeline
 
-### Recent Work Patterns
-Recent entries span operations administration, email management, meetings, and facility/warehouse work:
+### Work Categories (from recent entries):
+- **Email Management:** Jack Elston dominates with extensive "Answering Emails" entries (frequently 1–7 hours per session)
+- **Operations/Admin:** Meredith Needham's core focus (daily entries, 2–8 hours)
+- **General Operations:** Beck Cotter's consistent 8-hour blocks labeled "various ops/operations"
+- **Meetings & Coordination:** Black Swift Weekly Integration Review, Monday All-hands, Business Operations/Strategy meetings
+- **Facility/Physical Work:** Warehouse build out, unloading desks, office furniture selection
+- **Undescribed Work:** Many entries from Dan, Stachura, Beck Cotter, and others lack descriptions
 
-**Most Common Activities:**
-- **Answering Emails** — Jack Elston dominates (40+ tracked instances in recent 100 entries)
-- **Operations/Admin** — Meredith Needham's core focus
-- **Various Operations** — Beck Cotter's standard work block (recurring 8-hour entries)
-- **Warehouse/Facility Work** — Ethan Domagala (desk unloading, warehouse build-out)
-- **Meetings** — Black Swift Weekly Integration Review, All-hands, Business Strategy/Operations discussions
-
-**Supporting Activities:**
-- Conference system setup (Jack Elston)
-- Office furniture selection (Josh Fromm)
-- BST internal updates and PM support
-
-### Work Patterns
-- Beck Cotter logs consistent 8-hour "various operations" blocks
-- Jack Elston's time heavily weighted toward email management and recurring meetings
-- Dan, Stachura frequently log time with no description
-- Meredith Needham maintains steady operational oversight
-- Facility work (warehouse, desks) shows episodic spikes rather than ongoing allocation
+### Recent Work Patterns:
+- Jack Elston: Heavy email correspondence and internal meeting attendance
+- Beck Cotter: Regular full-day operational blocks (8h entries)
+- Meredith Needham: Consistent daily operations/admin work
+- Dan & Stachura: Ongoing work with minimal description logging
+- Ad-hoc contributions: Facility work (Ethan Domagala), office setup (Josh Fromm)
 
 ## Insights
 
-**Work Composition:**
-- Administrative and communication overhead dominates (email, meetings, operations)
-- Significant facility/infrastructure component (warehouse buildout, furniture, office setup)
-- Regular cross-functional meetings (integration reviews, all-hands, strategy)
-- Many time entries (Dan, Stachura, Spencer, Ali) lack descriptions, limiting visibility
-
-**Notable Patterns:**
-- Heavy concentration in two primary contributors (Meredith + Jack = 71% of hours)
-- Email management is a substantial operational burden for Jack Elston
-- Beck Cotter's time consistently allocated in full-day blocks with vague categorization
-- Recent entries suggest ongoing facility expansion/reorganization work
-- Documentation gaps (undescribed entries) indicate potential time-tracking discipline issue
-
-**Team Distribution:**
-- Top-heavy model with clear primary operator (Meredith) and secondary manager (Jack)
-- Long tail of occasional contributors
-- Limited ongoing involvement from most team members
+- **Overhead Allocation:** This is the company's internal operations project; Meredith and Jack are primary drivers, consuming ~71% of tracked time
+- **Logging Quality:** Significant portion of entries lack descriptions, particularly from Dan, Stachura, Beck Cotter, and Ali Sulehria—indicating either routine work or incomplete time entries
+- **Email as Operations:** Jack Elston's dominant activity is email management, suggesting significant communication/coordination responsibilities
+- **Beck Cotter's Consistency:** Patterns of full 8-hour operational days suggest project management or supervisory operations work
+- **One-off Activities:** Occasional facility work (warehouse, furniture, desk unloading) aligns with growth/expansion activities
+- **Team Engagement:** 17 team members tracked time, but 11 represent <1% each—primarily operational core of 5–6 people

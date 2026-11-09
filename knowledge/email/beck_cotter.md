@@ -1,8 +1,7 @@
 # Beck Cotter — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Sun, 8 Nov 2026 09:01:02 +0000: Black Swift Technologies, your plan has renewed (from: "'Slack' via Administration" <admin@blackswifttech.com>)
-- Sun, 08 Nov 2026 02:04:55 +0000: University of Houston System New Vendor Registration: Reminder (from: PaymentWorks Invitations <invitations@paymentworks.com>)
-- Sat, 07 Nov 2026 21:18:41 +0000: University of Houston System New Vendor Registration: Final Step Remaining (from: PaymentWorks Invitations <invitations@paymentworks.com>)
-- Sat, 07 Nov 2026 20:46:13 +0000 (UTC): See what’s driving your spending (from: ChatGPT <noreply@email.openai.com>)
+- Mon, 9 Nov 2026 05:38:43 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
+- Mon, 9 Nov 2026 03:19:48 +0000: 📥 Maciej assigned you a task: Document All Test Events and Submission Dates [[550-1] NAVY SBIR: Magnetom…] (from: Maciej Stachura via Asana <no-reply@asana.com>)
+- Mon, 9 Nov 2026 03:19:12 +0000: 📥 Maciej assigned you a task: Negotiate Phase II [[550-1] NAVY SBIR: Magnetom…] (from: Maciej Stachura via Asana <no-reply@asana.com>)
