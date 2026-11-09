@@ -166,7 +166,7 @@ def _labels(refresh=False):
 
 def ensure_labels(names):
     """Return {name: id}, creating missing labels (parents first, so
-    "Jackbot/Forwarded" nests under "Jackbot")."""
+    "Jackbot/Reviewed" nests under "Jackbot")."""
     cache = _labels()
     out = {}
     for name in names:
@@ -376,13 +376,13 @@ def fetch_message(msg_id):
 # ---------- candidates ----------
 
 def list_candidates(lookback_days):
-    """Unreviewed mail from the last `lookback_days` that is in the inbox or
-    under one of Jack's alias filters (Filters/*), oldest first. Skip labels are excluded in the query and again by label
+    """Unreviewed mail from the last `lookback_days`, inbox and filtered,
+    oldest first. Skip labels are excluded in the query and again by label
     id, since a Gmail search-name mismatch would otherwise let Jack's
     filtered purchasing/junk mail through."""
     skip_ids = _skip_label_ids()
     by_id = _labels()["by_id"]
-    q = [f"newer_than:{int(lookback_days)}d", "-label:jackbot",
+    q = [f"newer_than:{int(lookback_days)}d", "-label:jackbot-reviewed",
          "-in:sent", "-in:drafts", "-in:chats", "-in:spam", "-in:trash", "-from:me"]
     q += [f"-from:{a}" for a in sorted(_jack_addresses())]
     q += [f"-label:{_search_name(by_id[i])}" for i in sorted(skip_ids) if i in by_id]
@@ -398,7 +398,7 @@ def list_candidates(lookback_days):
         if not token:
             break
 
-    reviewed = _labels()["by_name"].get("Jackbot")
+    reviewed = _labels()["by_name"].get("Jackbot/Reviewed")
     out = []
     for mid in ids:
         try:
@@ -413,12 +413,6 @@ def list_candidates(lookback_days):
         if labels & skip_ids or labels & {"SENT", "DRAFT", "SPAM", "TRASH"}:
             continue
         if reviewed and reviewed in labels:
-            continue
-        # Only the inbox and Jack's alias filters (Filters/*). Anything else
-        # outside the inbox is mail Jack archived himself; the 2026-11-09
-        # backlog run "kept" 471 of those and pulled them back into his inbox.
-        if "INBOX" not in labels and not any(
-                by_id.get(l, "").startswith("Filters/") for l in labels):
             continue
         out.append((int(meta.get("internalDate", 0)), mid))
     return [mid for _, mid in sorted(out)]

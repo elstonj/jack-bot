@@ -492,7 +492,7 @@ def test_runner_live():
     for mid in ("in_fwd", "in_keepfwd", "f_fwd", "in_fail"):
         f_idx = next((i for i, e in enumerate(ev) if e[0] == "forward" and e[1] == mid), None)
         r_idx = next((i for i, e in enumerate(ev) if e[0] == "modify" and e[1] == mid
-                      and "Jackbot" in e[2]), None)
+                      and "Jackbot/Reviewed" in e[2]), None)
         check(f"{mid}: Reviewed added before forward",
               f_idx is not None and r_idx is not None and r_idx < f_idx, True)
 
@@ -500,7 +500,7 @@ def test_runner_live():
     lab = fake.final_labels("in_fwd")
     check("inbox forward: Forwarded added", "Jackbot/Forwarded" in lab, True)
     check("inbox forward: INBOX removed", "INBOX" in lab, False)
-    check("inbox forward: Reviewed kept", "Jackbot" in lab, True)
+    check("inbox forward: Reviewed kept", "Jackbot/Reviewed" in lab, True)
 
     lab = fake.final_labels("in_keep")
     check("inbox keep: stays in INBOX", "INBOX" in lab, True)
@@ -526,18 +526,18 @@ def test_runner_live():
 
     lab = fake.final_labels("in_fail")
     check("send failure: forward attempted", len(fake.forwards("in_fail")), 1)
-    check("send failure: Reviewed rolled back", "Jackbot" in lab, False)
+    check("send failure: Reviewed rolled back", "Jackbot/Reviewed" in lab, False)
 
     check("filtered forward sent", [e[2] for e in fake.forwards("f_fwd")], [[SAM]])
     check("filtered forward: not pulled into INBOX", "INBOX" in fake.final_labels("f_fwd"), False)
     check("filtered keep: INBOX added", "INBOX" in fake.final_labels("f_keep"), True)
     lab = fake.final_labels("f_arch")
     check("filtered archive: not pulled into INBOX", "INBOX" in lab, False)
-    check("filtered archive: Reviewed", "Jackbot" in lab, True)
+    check("filtered archive: Reviewed", "Jackbot/Reviewed" in lab, True)
 
     for mid in fake.msgs:
         if mid != "in_fail":
-            check(f"{mid}: Reviewed", "Jackbot" in fake.final_labels(mid), True)
+            check(f"{mid}: Reviewed", "Jackbot/Reviewed" in fake.final_labels(mid), True)
 
     touched_unread = [e for e in ev if e[0] == "modify" and ("UNREAD" in e[2] or "UNREAD" in e[3])]
     check("UNREAD never added or removed", touched_unread, [])
@@ -570,8 +570,8 @@ def test_send_uncertain():
     check("uncertain send: recorded as pending", rec["action"], "pending")
     mods = [e for e in fake.events if e[0] == "modify"]
     check("uncertain send: Reviewed not rolled back",
-          any("Jackbot" in e[2] for e in mods)
-          and not any("Jackbot" in e[3] for e in mods), True)
+          any("Jackbot/Reviewed" in e[2] for e in mods)
+          and not any("Jackbot/Reviewed" in e[3] for e in mods), True)
     check("uncertain send: message left in INBOX",
           any("INBOX" in e[3] for e in mods), False)
 

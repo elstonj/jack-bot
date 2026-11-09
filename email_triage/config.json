@@ -30,7 +30,7 @@
     "krateosky.com"
   ],
   "labels": {
-    "reviewed": "Jackbot",
+    "reviewed": "Jackbot/Reviewed",
     "forwarded": "Jackbot/Forwarded",
     "archived": "Jackbot/Archived",
     "spam": "Jackbot/Spam",
