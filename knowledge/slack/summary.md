@@ -1,54 +1,65 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-07 02:37
+Last scanned: 2026-11-10 02:38
 
-Total channels scanned: 5
+Total channels scanned: 6
 
 ## Channels
 
-- **#flight-testing** -- 6 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 31 messages -- [general.md](general.md)
-- **#operations** -- 8 messages -- [operations.md](operations.md)
-- **#s3** -- 6 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 9 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#flight-testing** -- 3 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 7 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 2 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s3** -- 1 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 6 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Core Mission & Projects
+## Active Projects
 
-**Primary Focus:** Development of unmanned aircraft systems for specialized reconnaissance missions
-- **S0**: Hurricane reconnaissance VTOL aircraft (SBIR-funded, mature project 2020-2026)
-- **S3**: Long-endurance hybrid VTOL with tilting rotors (2-3 hour target endurance)
-- **Flight Testing**: Multi-platform testing across S-series fixed-wing, multirotor, and VTOL variants
+**Primary focus:** Development and testing of unmanned aircraft systems across multiple platforms
+- **S0:** Hurricane reconnaissance UAS (SBIR-funded, operational focus)
+- **S3:** Long-endurance VTOL hybrid aircraft (2-3 hour endurance target)
+- **S1-VTOL & E2:** Additional multirotor/fixed-wing platforms in testing
+- **SBIR Hurricane:** Government-funded project with extensive technical and mission planning activity (2020-2026 timeline)
 
-## Key Decision Patterns
+## Key People & Roles
 
-1. **Technical Leadership**: Joshua Fromm drives hardware/CAD/RF design; Maciej leads flight testing/firmware; Jack Elston provides strategic direction
-2. **Documentation Flow**: Requirements → design → parts validation → flight testing → operational deployment
-3. **Cross-functional Integration**: Hardware (Joshua), firmware/flight ops (Maciej), business/operations (Dan Prendergast, Meredith Needham)
+| Person | Primary Role(s) | Channels |
+|--------|-----------------|----------|
+| Jack Elston | Leadership, proposal/funding decisions, strategy | #general, #grants-and-funding, #operations |
+| Joshua Fromm | Lead engineer/designer, RF/antenna expertise, CAD, hardware lead | #s3, #sbir-hurricane, #flight-testing, #operations |
+| Maciej | Flight testing, firmware development, technical support | #sbir-hurricane, #flight-testing, #grants-and-funding, #general |
+| Dan Prendergast | Business development, operations coordination | #general, #operations |
+| Meredith Needham | Finance, admin, grants support | #grants-and-funding, #operations |
+| Danny Troke, Beck Cotter, Paige Smith, Sam Hild, Nate, Alex Lomis | Technical/operational support | Various channels |
 
-## Recurring Themes Across Channels
+## Decision Patterns
 
-| Theme | Channels | Pattern |
-|-------|----------|---------|
-| Technical design & validation | #s3, #sbir-hurricane, #flight-testing | Iterative CAD, parts sourcing, antenna/RF optimization |
-| Flight operations & troubleshooting | #flight-testing, #sbir-hurricane, #operations | Test scheduling, firmware debugging, payload integration |
-| Project coordination | #general, #operations | Status updates, resource allocation, timeline tracking |
-| Hardware/logistics | #operations, #sbir-hurricane | Parts procurement, shipping, facility management |
-| Business/funding | #general, #operations | SBIR milestones, customer coordination (implied) |
+- **Funding/proposals:** Jack Elston drives decisions with Maciej providing technical input; centralized in #grants-and-funding
+- **Technical design:** Joshua Fromm leads with iterative discussion in project-specific channels (#s3, #sbir-hurricane)
+- **Flight operations:** Maciej coordinates testing; issues escalated to Joshua/Jack as needed
+- **Administrative:** Meredith manages finance/logistics through #operations
 
-## Active Personnel Network
+## Recurring Topics
 
-**Leadership/Direction**: Jack Elston, Dan Prendergast  
-**Engineering Core**: Joshua Fromm (hardware), Maciej (flight/firmware), Jack Elston (firmware support)  
-**Operations/Admin**: Meredith Needham (finance), Joshua Fromm (shop management)  
-**Supporting**: Danny Troke, Alex Lomis, Nate, Sam Hild, Beck Cotter, Paige Smith, Ben Busby
+- **Across all technical channels:** Component sourcing, design iterations, performance specifications, troubleshooting
+- **Flight-testing focus:** Firmware development, payload integration, platform-specific debugging
+- **Grants-and-funding:** SBIR submissions, government contracting strategy, budget tracking, proposal timelines
+- **Operations:** Procurement, shipping, facility management, administrative coordination
 
-## Strategic Connections
+## Cross-Channel Connections
 
-- **SBIR Program** (#sbir-hurricane) validates technology roadmap that feeds S3 development (#s3)
-- **Flight testing** (#flight-testing) serves as quality gate for both projects before operational deployment
-- **Operations** (#operations) and **General** (#general) coordinate resource dependencies across projects
-- Long-term pattern (2020-2026) suggests sustained focus on VTOL aircraft with hurricane/extreme weather mission specialization
+1. **Technology pipeline:** S3 design (#s3) → Flight testing (#flight-testing) → Operational deployment feedback → Requirements updates
+2. **SBIR Hurricane integration:** Technical discussions (#sbir-hurricane) → Funding/proposal updates (#grants-and-funding) → Flight ops coordination (#flight-testing)
+3. **Company-wide announcements:** Major decisions flow from #general → distributed to functional channels
+4. **Resource coordination:** Hardware sourcing/procurement discussed in #s3, #sbir-hurricane; managed operationally in #operations; funded through #grants-and-funding
+
+## Strategic Themes
+
+- **Government-focused business model:** Heavy emphasis on federal grants (NASA, DOD, NOAA, USDA, DOE)
+- **Multi-platform development:** Parallel aircraft systems at various maturity stages
+- **Hardware-intensive operations:** Significant focus on component sourcing, CAD design, and physical testing
+- **Lean technical team:** Small core group with wide-ranging responsibilities across projects

@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
-  "scanned_at": "2026-11-09",
+  "scanned_at": "2026-11-10",
   "projects": [
     {
       "project_code": "001-1",
@@ -74,7 +74,7 @@
     {
       "project_code": "001-3",
       "revenue": 0.0,
-      "expenses": 2369.23,
+      "expenses": 2271.01,
       "invoice_count": 0,
       "bill_count": 1,
       "purchase_count": 10,
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 44773.1,
+      "expenses": 45249.75,
       "invoice_count": 0,
       "bill_count": 9,
-      "purchase_count": 110,
+      "purchase_count": 112,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -115,10 +115,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 206814.05,
+      "expenses": 207432.39,
       "invoice_count": 0,
       "bill_count": 31,
-      "purchase_count": 260,
+      "purchase_count": 262,
       "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1008875.0,
-      "expenses": 422196.16,
+      "expenses": 422354.06,
       "invoice_count": 12,
       "bill_count": 22,
-      "purchase_count": 322,
+      "purchase_count": 324,
       "po_count": 0,
       "payment_count": 8,
       "qbo_class_names": [
@@ -293,10 +293,10 @@
     {
       "project_code": "451-1",
       "revenue": 0.0,
-      "expenses": 12103.47,
+      "expenses": 12186.66,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 22,
+      "purchase_count": 23,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -334,10 +334,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 3797232.11,
-      "expenses": 4877619.18,
+      "expenses": 4879619.91,
       "invoice_count": 58,
       "bill_count": 139,
-      "purchase_count": 2665,
+      "purchase_count": 2673,
       "po_count": 3,
       "payment_count": 57,
       "qbo_class_names": [
@@ -348,6 +348,7 @@
         "(200-10) AREN 2024",
         "(301-2) 2020 WPO Hurricane Phase II",
         "(400-5) SMM Phase II 22.4D",
+        "(900) Krateo Sky- Industrial Plan:[923-04] Sales Team Setup",
         "(900) Krateo Sky- Industrial Plan:[925-01] Insurance",
         "(900) Krateo Sky- Industrial Plan:[925-02] Legal and Consulting",
         "(900) Krateo Sky- Industrial Plan:[925-03] New Office Space Leasing",
@@ -374,6 +375,7 @@
         "[012] Embry-Riddle Aeronautical University",
         "[012] Embry-Riddle Aeronautical University:[012-3] Embry Riddle Model S0",
         "[018] Murray State University",
+        "[031] University of Maryland Eastern Shore",
         "[032-1] ND Air Deployed S0s",
         "[032-2] Display Model E2",
         "[032] University of Notre Dame",

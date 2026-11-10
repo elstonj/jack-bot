@@ -1,59 +1,50 @@
-_Asana snapshot as of 2026-11-09: 6 open tasks, 17 completed (last 90 days)._
+_Asana snapshot as of 2026-11-10: 3 open tasks, 20 completed (last 90 days)._
 
 # Flight Testing
 
 ## Overview
-- **Client/Customer**: Internal BST flight testing operations (multiple aircraft platforms and variants)
-- **Dollar Value**: Not specified in Asana data
-- **Timeline**: Ongoing; most recent activity November 2026
-- **Status**: **Active** — 6 open tasks, 17 completed; steady testing cadence with multiple aircraft variants in RC (release candidate) testing phase
-- **Team Members**: Spencer Hoehl (primary test pilot/coordinator), Alex Lomis, Ethan Domagala, Jack (QC pilot)
-- **Risk Signals**: 
-  - 6 open tasks with **no due dates** (unclear urgency/sequencing)
-  - ERAU E2 instability issue remains unresolved (9/29 notes: issue could not be reproduced)
-  - S10022 lost GPS on climbout (fix pending verification)
+- **Team:** BST (Whole Team)
+- **Status:** Active — ongoing release candidate and QC flight testing with continuous firmware/hardware validation
+- **Primary Focus:** Aircraft firmware release candidate testing, VTOL systems validation, and mission-specific flight characterization
+- **Key Personnel:** Spencer Hoehl (primary test pilot — 18 of 20 completed tasks), Alex Lomis, Ethan Domagala
+- **Risk Signals:** 
+  - 3 open tasks with no due dates (low urgency tracking but still active)
+  - ERAU E2 instability issue unresolved as of 9/29 (investigation ongoing)
+  - S10022 Transition Flights task unassigned
 
 ## Key Deliverables & Milestones
-| Deliverable | Status | Notes |
-|---|---|---|
-| **FW0001, FW0002 RC Testing** | ✅ Completed 2026-11-04 | Firmware release candidates; requires params download before upload |
-| **S10021 RC Testing (VTOL)** | ✅ Completed 2026-11-04 | VTOL-specific firmware changes validated |
-| **S10005, S10011 RC Testing** | ✅ Completed 2026-11-04 | Fixed-wing platforms |
-| **S10022 RC Testing** | 🔄 Open | GPS climbout loss issue fix pending verification |
-| **S10022 Transition Flights** | 🔄 Open | Unassigned; prepares for VTOL transition testing |
-| **E20006 RC Testing** | 🔄 Open | No progress notes |
-| **S20003 RC Testing** | 🔄 Open | No progress notes |
-| **ERAU E2 Instability Investigation** | 🔄 Open | Issue could not be reproduced as of 9/29; aircraft prepped for ongoing investigation |
-| **Swiftab App RC Version** | 🔄 Open | Release candidate uploaded |
-| **NASA S2 QC Flight** | ✅ Completed 2026-09-21 | Customer-ready vehicle (S20009); passed QC |
-| **ByLight Mustang Flight Test** | ✅ Completed 2026-09-22 | Stability characterization and range testing; maintenance required post-flight |
+- **S10022 Release Candidate Testing** — Completed 2026-11-09 (GPS climbout fix verification)
+- **S20003 Release Candidate Testing** — Completed 2026-11-09
+- **Multiple firmware RC tests** (FW0001, FW0002) — Completed 2026-11-04
+- **VTOL system validation flights** (S10021 VTOL QC, S10022 VTOL test) — Completed 2026-10-14
+- **NASA S2 QC flight** (S20009) — Completed 2026-09-21, status "Passed"
+- **ByLight Mustang Flight Test** — Completed 2026-09-22 (stability characterization, range testing via current draw)
+- **S0 VTOL testing** — Completed 2026-10-01 (hover/transition work; MAG signal issue noted)
 
 ## Task Summary
-- **Total**: 23 tasks (6 open, 17 completed; ~74% completion rate)
-- **By Assignee**:
-  - **Spencer Hoehl**: 22 tasks (primary owner; completed ~15, 6 open)
-  - **Alex Lomis**: 1 completed (S0 VTOL, ByLight Mustang pre-test coordination)
-  - **Ethan Domagala**: 1 completed (ByLight Mustang test)
-  - **Unassigned**: 1 open (S10022 Transition Flights)
-- **Patterns**:
-  - Heavy release candidate (RC) testing pipeline — 5 aircraft/firmware variants in active RC phase
-  - No due dates on open tasks; due dates on completed tasks are historical (Aug–Sep 2026)
-  - "Ready for Flight Testing" status predominates among completed tasks
-  - QC Required field inconsistently populated
+- **Total:** 23 tasks (3 open, 20 completed)
+- **Completion Rate:** 87%
+- **Assignees:**
+  - **Spencer Hoehl:** 22 tasks (18 completed, 3 open) — de facto project lead/primary test pilot
+  - **Alex Lomis:** 1 completed task (S0 VTOL)
+  - **Ethan Domagala:** 1 completed task (ByLight Mustang)
+  - **Unassigned:** 1 open task (S10022 Transition Flights)
+- **Pattern:** Heavy reliance on Spencer Hoehl for flight testing; most tasks use custom field "Status" (Ready for Flight Testing, More Info Requested, Passed, Maintenance Required) for workflow tracking
 
 ## Recent Activity
-- **2026-11-04**: Batch completion of 5 RC testing tasks (FW0001, FW0002, S10005, S10011, S10021)
-- **2026-10-14**: S10022 VTOL test flights and S10021 QC flights completed
-- **2026-10-09**: S1 fixed-wing and FlameWheel QC firmware validation completed
-- **2026-09–10**: ERAU E2 instability investigation underway; issue irreproducible with/without wind sensor mast (9/29 note)
-- **2026-09-22**: ByLight Mustang flight test completed; flagged "Maintenance Required"
+- **2026-11-09:** Major completion batch — S10022 and S20003 release candidate testing complete; Swiftab app RC version uploaded
+- **2026-11-04:** Firmware and aircraft RC testing surge (FW0001, FW0002, S10021, S10005, S10011 all completed)
+- **Ongoing:** ERAU E2 instability investigation (task open, last note 9/29 — issue could not be reproduced with or without wind sensor mast)
+- **Awaiting Assignment:** S10022 Transition Flights to prepare for S3 Flying (unassigned, no due date)
+- **E20006 Release Candidate Testing:** Open, no progress notes yet
 
 ## Notes & Context
-- **Team Feedback Override** (Daniel Prendergast, 2026-10-15 & 2026-10-16): Prendergast asserts "Mine's correct" and requests cessation of "hazing"; context unclear but may indicate data quality disputes or task assignment corrections not reflected in Asana.
-- **Firmware Testing Protocol**: Pre-flight QC includes params download before firmware upload (noted on FW0001, FW0002, S10011).
-- **Known Issues**:
-  - ERAU E2 instability: reproducibility failed; investigation ongoing
-  - S10022 GPS climbout loss: fix proposed; RC testing pending verification
-  - S0 VTOL MAG signal loss / S10020 ESC power loss: resolved in completed tasks but suggests prior hardware/firmware fragility
-- **Customer Activity**: NASA S2 (S20009) passed QC 2026-09-21, indicating delivery readiness
-- **No Currency on Open Tasks**: Absence of due dates on 6 open items suggests either backlog items awaiting prioritization or ongoing exploratory testing without hard deadlines
+- **No dollar values or customer names** are visible in task data — this appears to be internal BST flight testing infrastructure rather than a customer project
+- **Release candidate pattern:** Project shows systematic firmware and aircraft validation before deployment (multiple RC testing tasks with "Ready for Flight Testing" status)
+- **Technical issues encountered:**
+  - S0 VTOL: MAG signal issues, parameter saving failures (8/20)
+  - S10020 VTOL: ESC failure — loss of power immediately post-transition hover→forward flight
+  - ERAU E2: Instability issues (investigation inconclusive)
+- **QC requirements tracked:** Some tasks flagged "QC Required: Yes/No" (custom field)
+- **No due dates on most open/recent tasks** — suggests flexible scheduling or internal-only work
+- **External customer noted:** ByLight (Mustang test) and NASA (S2 QC flight, completed/passed)

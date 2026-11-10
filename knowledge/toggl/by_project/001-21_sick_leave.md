@@ -1,12 +1,12 @@
-_Computed from Toggl as of 2026-10-23: 169.9 h total since 2020-01-01 — Beck Cotter 74.0 h, Dan 40.0 h, Meredith Needham 31.9 h, Josh Fromm 16.0 h, Ethan Domagala 8.0 h._
+_Computed from Toggl as of 2026-11-10: 172.4 h total since 2020-01-01 — Beck Cotter 74.0 h, Dan 40.0 h, Meredith Needham 31.9 h, Josh Fromm 16.0 h, Ethan Domagala 8.0 h, Alex 2.5 h._
 
 # [001-21] Sick Leave — Time Tracking
 
 ## Overview
-- **Client:** Internal (N/A)
-- **Active Status:** Yes
-- **Billable:** No
-- **Total Hours Tracked:** 169.9 hours (since 2020-01-01)
+- Client: Internal (BST)
+- Status: Active
+- Billable: No
+- Total hours tracked: 172.4 hours (since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours |
@@ -16,24 +16,17 @@ _Computed from Toggl as of 2026-10-23: 169.9 h total since 2020-01-01 — Beck C
 | Meredith Needham | 31.9 |
 | Josh Fromm | 16.0 |
 | Ethan Domagala | 8.0 |
+| Alex | 2.5 |
 
-**Primary Contributor:** Beck Cotter (43.5% of total hours)
+**Primary contributor:** Beck Cotter (42.9% of total)
 
 ## Activity Timeline
-Recent entries show activity concentrated among three team members:
-
-- **Meredith Needham:** 11.8 hours in recent period
-  - Multiple doctor appointment entries (4.7 hours total)
-  - Several entries without descriptions (8.1 hours)
-  
-- **Ethan Domagala:** 8.0 hours (no description)
-- **Dan:** 8.0 hours (no description)
-
-Most recent entries lack descriptive information, limiting visibility into specific reasons for leave.
+- Most recent entries lack descriptions
+- Last tracked: Alex (2.5h), Dan (8.0h)
+- No specific dates or timing details available from recent entries
 
 ## Insights
-- This project tracks non-billable sick leave hours across the organization
-- Work is concentrated among five team members with Beck Cotter accounting for the largest share
-- Recent activity shows Meredith Needham taking documented medical leave (doctor appointments)
-- Majority of entries are undocumented, suggesting either informal tracking or incomplete logging practices
-- The project has maintained consistent use since 2020, indicating established leave tracking protocol
+- This is a non-billable project, consistent with sick leave as a company benefit tracking category
+- Beck Cotter has taken significantly more sick leave than other team members (nearly 3x the average)
+- Activity is distributed across 6 team members, suggesting organization-wide usage
+- Recent entries lack descriptive notes, making it difficult to assess context or patterns

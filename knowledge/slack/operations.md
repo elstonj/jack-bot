@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops/project management), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), Lynn Regnier (finance administration), Ali Sulehria (finance/Deel administration), Robert Edson (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 6, 2026) reflects ongoing project management, Kanban board task coordination, organizational infrastructure management (Google Drive storage), and resource allocation decisions.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 9, 2026) reflects ongoing facility maintenance scheduling and coordination, project management task tracking, and operational support.
 
 ---
 
@@ -50,6 +50,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **October 20, 2026:** HVAC air filter contractor returned assessment: requires larger ladder and different filters. Scheduled to return later in week (by October 24) to complete service.
 - **October 22, 2026:** Collapsing shelf detected by Joshua Fromm before it caused disaster. Status of repair/replacement not yet documented.
 - **November 4, 2026:** Production whiteboard damaged in shipping. Cory Dixon requested Jack Elston and team to provide link/invoice for return and replacement with undamaged unit.
+- **November 9, 2026:** Exterior windows scheduled to be cleaned by professional service on November 10, 2026. Meredith Needham coordinated scheduling notification. Dan Prendergast requested interior cleaning of "slimed window" by Joshua Fromm's desk be included in service scope (not yet confirmed if this was approved).
 
 ### Procurement & Purchasing Process
 - **October 12, 2026:** Meredith Needham delegated credit card authority and purchasing approval to Beck Cotter during her absence. New process implemented:
@@ -114,6 +115,14 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Infrastructure & Systems
 - **Jack Elston (Google Drive storage):** Fixed Google Drive storage capacity issue by November 6, 2026 at 14:30. Additional odd behavior in Google Drive still under investigation. Fix requires propagation time through workspace setup (potentially several minutes as of 14:42 status).
 
+### Facility Maintenance (current/pending)
+- **Window cleaning service (November 9, 2026 scheduled):** Exterior windows to be professionally cleaned on November 10, 2026. Dan Prendergast has requested that interior of "slimed window" by Joshua Fromm's desk also be cleaned during service visit (status of this add-on request not yet confirmed as of November 9).
+- Back door locksmith service needed (September 18, 2026 identification; status unknown)
+- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 9)
+- Collapsing shelf repair/replacement (identified October 22, 2026; status unknown as of November 9)
+- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 9)
+- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 9.
+
 ### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, for project closeout)
 - Verify invoice status for [452-2] S2 Simulator & used E2 Battery
 - Verify invoice sent for [043-3] ByLight M2/Halo
@@ -123,13 +132,6 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Project Initiation (assigned to Jack Elston or project management, requested October 29, 2026)
 - Assign Asana project number for Project RAVEN (Lockheed Martin UK/Royal Navy S0-AD Merlin Helicopter integration)
-
-### Facility Maintenance (ongoing)
-- Back door locksmith service needed (September 18, 2026 identification; status unknown)
-- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 6)
-- Collapsing shelf repair/replacement (identified October 22, 2026; status unknown as of November 6)
-- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 6)
-- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 6.
 
 ### Asana Project Archival (assigned to Maciej Suwinski)
 - Archive (not delete) six completed projects once financial verification completed
@@ -167,7 +169,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 - **Project completion & closeout procedures** - Regular coordination on verifying project completion, invoice status, and proper archival
 - **Financial tracking & invoice management** - Ongoing emphasis on documenting invoice status before project closure; formalized delegation and responsibility assignment (as of November 3, 2026)
-- **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management, equipment replacement)
+- **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management, equipment replacement, window cleaning); proactive maintenance scheduling and follow-up coordination
 - **Procurement & purchasing delegation** - Established process with Beck Cotter as central purchasing coordinator; streamlined approval processes; tracking damaged goods and initiating replacements
 - **Compliance documentation** - Emphasis on qualifications, FAA requirements, hazmat disposal, and proper documentation practices
 - **Hiring & organizational scaling** - Significant expansion of team through Q4 2026; focus on filling skilled positions and onboarding new personnel
@@ -178,13 +180,14 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Finance responsibility distribution** - Formalized assignment of financial duties across team members with clear ownership tracking (as of November 3, 2026)
 - **Mid-week project status assessment** - Active monitoring of Kanban board throughout week to identify resource bottlenecks and adjust task scheduling
 - **Google Drive and organizational infrastructure management** - Storage capacity monitoring and allocation; system-level issue resolution under Jack Elston's oversight
+- **Facility coordination & comfort** - Responsive attention to facility improvements (window cleaning, cleanliness, workspace comfort for team members)
 
 ---
 
 ## Important Resources
 
 - **Asana project management system** - Used for project tracking, task assignment, and historical record-keeping; includes archival protocols to preserve project data for reference and AI training; weekly task updates required from project leaders; milestone date tracking required
-- **Kanban board** - Used for visual task management and week-to-week planning; requires updates from project leaders for upcoming week readiness; requires immediate task status updates as work is completed; subject to mid-week review by Maciej Suwinski for resource optimization; required updated by Friday afternoon (November 6) for following week readiness
+- **Kanban board** - Used for visual task management and week-to-week planning; requires updates from project leaders for upcoming week readiness; requires immediate task status updates as work is completed; subject to mid-week review by Maciej Suwinski for resource optimization; required updated by Friday afternoon for following week readiness
 - **Finance Responsibilities Spreadsheet** - Distributed by Lynn Regnier November 3, 2026; documents all finance-related tasks and assigned owners; located at https://docs.google.com/spreadsheets/d/1dC2fa9Vqb3uW-_LaNmbBfmnITgRBBhb4AQMUG-nKdnQ/edit?gid=2116061453#gid=2116061453
 - **Supporting documentation:** Jack Elston's Vantor discussion deck in #C014L88992B (November 2, 2026)
 - **Export control system:** SNAP-R (for ECCN submissions)
@@ -197,13 +200,17 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ## Recent Activity
 
-**November 6, 2026:**
+**November 9, 2026:**
+- **Meredith Needham** scheduled notification for exterior window cleaning service. Professional window cleaning contracted for November 10, 2026 (10:46). This represents proactive facility maintenance and cleanliness coordination.
+- **Dan Prendergast** requested that interior cleaning of "slimed window" by Joshua Fromm's desk be included during window cleaning service visit (10:52). Status of this add-on request not yet confirmed; awaiting response from Meredith or service provider about scope inclusion.
+
+**November 6, 2026 (prior update):**
 - **Maciej Suwinski** issued Friday afternoon task update reminder at 09:42: All team members directed to update Kanban board tasks by afternoon to ensure next week's tasks are ready by end of day. Standard weekly planning cycle.
 - **Joshua Fromm** reported Google Drive storage capacity issue at 14:10-14:11: Unable to upload files while logged in as "technician." Pinged Jack Elston and others for assistance with organizational drive storage administration.
 - **Dan Prendergast** confirmed storage issue at 14:11: "Argh, storage full!"
 - **Jack Elston** began troubleshooting at 14:15, noting Rippling (HR/payroll system) had introduced a complication. Applied fix at 14:25 with expectation of propagation time (potentially several minutes). By 14:30, confirmed storage issue should be resolved but identified additional odd behavior in Google Drive requiring further investigation (14:42 status). Awaiting propagation of workspace changes to resolve remaining issues.
 
-**November 4, 2026 (from prior batch):**
+**November 4, 2026 (from prior update):**
 - **Robert Edson** notified team he has medical appointments this morning and will be out of office until ~10:00 AM but available online from home.
 - **Lynn Regnier** thanked team member for bringing burritos and half & half to office, indicating positive team culture and shared meals.
 - **Cory Dixon** identified production whiteboard damaged in shipping and requested Jack Elston and team provide link/invoice for return and replacement.
@@ -214,7 +221,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
   - Response from Joshua Fromm: S3 workload is manageable ("all good on the s3")
 - **Jack Elston** acknowledged whiteboard damage issue but message content appears incomplete.
 
-**November 3, 2026 (from prior batch):**
+**November 3, 2026 (from prior update):**
 - Lynn Regnier distributed comprehensive finance responsibilities spreadsheet documenting all finance tasks and assigned owners.
 - Meredith Needham reminded team of General Air vendor pickup scheduled for November 3, 2026.
 - Joshua Fromm initiated canister/S0 storage coordination.

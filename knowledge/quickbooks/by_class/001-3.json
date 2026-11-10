@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-3) IRAD S0"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2369.23,
+    "expenses": 2271.01,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1174.86,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1076.64,
       "Indirect Cost:Internal Research and DevelopmentX": 719.37,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 475.0
     }
@@ -63,7 +63,7 @@
       "type": "Purchase",
       "date": "2026-11-05",
       "doc_number": "JT72163",
-      "total": 306.59,
+      "total": 306.6,
       "attributed": 117.88,
       "vendor": "",
       "customer": "",
@@ -81,7 +81,7 @@
           "description": ""
         },
         {
-          "amount": 70.83,
+          "amount": 70.84,
           "account": "Inventory Asset",
           "description": "upcoming S3 sales"
         }
@@ -91,20 +91,20 @@
       "type": "Purchase",
       "date": "2026-11-04",
       "doc_number": "102698013",
-      "total": 1711.79,
-      "attributed": 855.9,
+      "total": 1515.36,
+      "attributed": 757.68,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 855.89,
+          "amount": 757.68,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": ""
         },
         {
-          "amount": 855.9,
+          "amount": 757.68,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": ""
         }

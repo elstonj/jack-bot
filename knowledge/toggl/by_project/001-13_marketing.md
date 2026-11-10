@@ -1,18 +1,18 @@
-_Computed from Toggl as of 2026-11-07: 2722.0 h total since 2020-01-01 — Paige Smith 2641.4 h, Jack Elston 27.5 h, Ethan Domagala 20.5 h, Kareem Ahmed 16.1 h, Alex 12.3 h, Dan 4.2 h, Stachura 0.0 h._
+_Computed from Toggl as of 2026-11-10: 2722.5 h total since 2020-01-01 — Paige Smith 2641.4 h, Jack Elston 28.0 h, Ethan Domagala 20.5 h, Kareem Ahmed 16.1 h, Alex 12.3 h, Dan 4.2 h, Stachura 0.0 h._
 
 # [001-13] Marketing — Time Tracking
 
 ## Overview
 - **Client:** Overhead (internal)
-- **Active Status:** Yes
+- **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 2,722.0 hours (since 2020-01-01)
+- **Total Hours Tracked:** 2,722.5 hours (since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
 | Paige Smith | 2,641.4 | 97.0% |
-| Jack Elston | 27.5 | 1.0% |
+| Jack Elston | 28.0 | 1.0% |
 | Ethan Domagala | 20.5 | 0.8% |
 | Kareem Ahmed | 16.1 | 0.6% |
 | Alex | 12.3 | 0.5% |
@@ -22,14 +22,15 @@ _Computed from Toggl as of 2026-11-07: 2722.0 h total since 2020-01-01 — Paige
 **Primary Contributor:** Paige Smith (97% of all tracked time)
 
 ## Activity Timeline
-Recent work entries show Jack Elston's involvement:
-- BST Website discussions (interview with Shelly)
-- Upcoming events coordination
-- Weekly team connections
-- Dare to Dream Event planning/execution (2.5h)
+Recent work entries show Jack Elston's involvement in:
+- BST website interviews and updates (Shelly/Jack coordination)
+- Internal weekly syncs with Shelly
+- Event planning (Dare to Dream Event – 2.5 hours)
+
+All five most recent entries are from Jack Elston, suggesting recent shift in project activity.
 
 ## Insights
-- This is a heavily centralized project with Paige Smith as the dominant contributor
-- Marketing work includes website development, event planning, and internal coordination
-- Recent activity (Jack Elston's entries) suggests active event management and website initiatives
-- Non-billable overhead status indicates this is internal marketing infrastructure work
+- **Heavily concentrated workload:** Paige Smith carries virtually all marketing effort, with minimal support from other team members
+- **Work types:** Website development/updates, internal stakeholder interviews, event management, and team coordination
+- **Recent pattern:** Jack Elston's recent entries indicate growing event and website coordination work, possibly expanding BST's external-facing activities
+- **Non-billable:** Project is classified as overhead, suggesting internal operations/brand development rather than client-facing deliverables

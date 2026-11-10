@@ -29,50 +29,50 @@
     "approved_source": "asana_custom_field",
     "line_items": [
       {
-        "category": "Materials",
+        "category": "Equipment",
         "amount": 216000.0,
-        "description": "Six (6) baseline S0 UAS platforms at $18,000 each (Task 1, SOW 1)",
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite/land C2 and video (Task 2-3, SOW 1)",
+        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation effort for satellite communication and/or land-based C2 capability (estimated for effort as a whole)",
         "source_doc": null
       },
       {
-        "category": "Materials",
+        "category": "Equipment",
         "amount": 36000.0,
-        "description": "Two (2) baseline S0 UAS platforms at $18,000 each (Task 1, SOW 2)",
+        "description": "Two (2) baseline S0 UAS platforms at $18,000 each for LOS video-enabled variant",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 323446.25,
+        "amount": 324248.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-09"
+        "last_updated": "2026-11-10"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-09"
+        "last_updated": "2026-11-10"
       },
       "other_qbo": {
-        "amount": 422196.16,
+        "amount": 422354.06,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-09"
+        "last_updated": "2026-11-10"
       },
-      "total": 747810.93,
+      "total": 748771.33,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -264810.93,
+    "remaining": -265771.33,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-09T10:23:42Z"
+    "last_reconciled": "2026-11-10T10:47:47Z"
   },
   "milestones": [
     {
@@ -115,12 +115,6 @@
   "deliverables": [],
   "team": [
     {
-      "name": "Ali Sulehria",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
       "name": "Ben Busby",
       "role": null,
       "allocation_pct": null,
@@ -153,6 +147,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-09T10:23:42Z",
+  "last_full_rebuild": "2026-11-10T10:47:47Z",
   "last_incremental_update": null
 }

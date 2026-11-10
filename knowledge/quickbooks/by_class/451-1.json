@@ -4,14 +4,14 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 12103.47,
+    "expenses": 12186.66,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 10427.18,
+      "DIRECT COSTS:DC-Direct Material Purchases": 10510.37,
       "Inventory Asset": 1292.5,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 297.84,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 85.95
@@ -53,6 +53,34 @@
           "amount": 208.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "2 each of Green and Red Magnum drone strobe"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-31",
+      "doc_number": "",
+      "total": 359.33,
+      "attributed": 83.19,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 83.19,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x2; CAB.01042 x2; TX14/9/5-3E27 x12; CSE-SGAM-305-SGAM x2; CONSMA010-G x2 (incl. allocated shipping)"
+        },
+        {
+          "amount": 41.59,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x1; CAB.01042 x1; TX14/9/5-3E27 x6; CSE-SGAM-305-SGAM x1; CONSMA010-G x1 (incl. allocated shipping)"
+        },
+        {
+          "amount": 234.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x7; CAB.01042 x7; TX14/9/5-3E27 x32; CSE-SGAM-305-SGAM x2; CONSMA010-G x7 (incl. allocated shipping)"
         }
       ]
     },

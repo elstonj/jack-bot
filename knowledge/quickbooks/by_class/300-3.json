@@ -5,19 +5,19 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 1008875.0,
-    "expenses": 422196.16,
+    "expenses": 422354.06,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 262807.58,
+      "DIRECT COSTS:DC-Direct Material Purchases": 262946.92,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7438.29,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7468.28,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 445.23,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 433.8,
       "SALES & MARKETING:SM-Shipping": 204.16,
       "Inventory Asset": 130.0,
       "SALES & MARKETING:SM-Travel": 20.86,
@@ -868,6 +868,34 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 43.27,
+      "attributed": 43.269999999999996,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 12.07,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "MOSFET N-CH 60V 250MA EMT3F"
+        },
+        {
+          "amount": 1.21,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Estimated Tariff Amount"
+        },
+        {
+          "amount": 29.99,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-06",
       "doc_number": "",
       "total": 52.43,
@@ -969,14 +997,19 @@
     {
       "type": "Purchase",
       "date": "2026-10-30",
-      "doc_number": "102611082",
-      "total": 62.72,
-      "attributed": 62.72,
+      "doc_number": "135517714",
+      "total": 92.48,
+      "attributed": 92.48,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "DKC*DIGI KEY CORP - 7333",
       "lines": [
+        {
+          "amount": 30.06,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "P-CHANNEL 40 V (D-S) MOSFET POWE"
+        },
         {
           "amount": 3.5,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
@@ -1008,9 +1041,9 @@
           "description": "DESC: MOSFET N-CH 60V 250MA EMT3F"
         },
         {
-          "amount": 12.64,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
-          "description": "Estimated Tariff Amount"
+          "amount": 12.34,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Tariff Amount"
         },
         {
           "amount": 26.99,
@@ -1085,6 +1118,24 @@
           "amount": 89.83,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "shipment to Nick Pawlenko"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 84.87,
+      "attributed": 84.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 7333",
+      "lines": [
+        {
+          "amount": 84.87,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "SIRS4401DP-T1-GE3 - Vishay Siliconix x10\nSMBJ5364B-TP - MCC (Micro Commercial Components) x5\nCUHZ6V2,H3F - Toshiba Semiconductor and Storage x5\nC2012X5R1V685M125AC - TDK x20\nCRCW04024M99FKEDC - Vishay Dale x25\nRMCF0402FT2M00 - Stackpole Electronics Inc x25"
         }
       ]
     },

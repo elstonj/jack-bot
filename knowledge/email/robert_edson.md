@@ -1,9 +1,8 @@
 # Robert Edson — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Fri, 6 Nov 2026 22:43:20 +0000: New messages from HeyTaco and Spencer Hoehl in Black Swift Technologies (from: Slack <notification@slack.com>)
-- Fri, 6 Nov 2026 16:26:57 +0000: Joshua Fromm sent you a message (from: Slack <notification@slack.com>)
-- Fri, 6 Nov 2026 16:21:26 +0000: 📅 You have 2 overdue tasks (from: Asana <no-reply@asana.com>)
-- Fri, 06 Nov 2026 15:00:19 +0000: What do you need to work on? (from: Asana <learn@email1.asana.com>)
-- Fri, 6 Nov 2026 11:08:03 +0000: Friday - tasks due soon: 1 - blackswifttech.com (from: Asana <no-reply@asana.com>)
+- Tue, 10 Nov 2026 07:11:12 +0000: Asana Dash is here. Your day just got easier. (from: Asana <learn@go.asana.com>)
+- Mon, 9 Nov 2026 21:57:04 +0000: Meredith Needham sent you a message (from: Slack <notification@slack.com>)
+- Mon, 9 Nov 2026 18:47:37 +0000: Spencer Hoehl sent you a message (from: Slack <notification@slack.com>)
+- Mon, 09 Nov 2026 17:31:10 +0000: Invitation: Production Team Meeting  @ Mon Nov 9, 2026 11:30am - 12:30pm (MST) (Robert Edson) (from: Cory Dixon <cory.dixon@blackswifttech.com>)

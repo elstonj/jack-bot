@@ -8,6 +8,7 @@
     "(200-10) AREN 2024",
     "(301-2) 2020 WPO Hurricane Phase II",
     "(400-5) SMM Phase II 22.4D",
+    "(900) Krateo Sky- Industrial Plan:[923-04] Sales Team Setup",
     "(900) Krateo Sky- Industrial Plan:[925-01] Insurance",
     "(900) Krateo Sky- Industrial Plan:[925-02] Legal and Consulting",
     "(900) Krateo Sky- Industrial Plan:[925-03] New Office Space Leasing",
@@ -34,6 +35,7 @@
     "[012] Embry-Riddle Aeronautical University",
     "[012] Embry-Riddle Aeronautical University:[012-3] Embry Riddle Model S0",
     "[018] Murray State University",
+    "[031] University of Maryland Eastern Shore",
     "[032-1] ND Air Deployed S0s",
     "[032-2] Display Model E2",
     "[032] University of Notre Dame",
@@ -70,40 +72,40 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 3797232.11,
-    "expenses": 4877619.18,
+    "expenses": 4879619.91,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 192416.0,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
+      "Inventory Asset": 124890.25,
       "FRINGE:FR-Retirement Contributions": 124773.73,
-      "Inventory Asset": 123869.36,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 110222.42,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 82528.0,
+      "FACILITIES:FA-Shop Supplies": 85813.86,
       "Prepaid Expenses": 72500.18,
+      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 71870.13,
       "Spark One Jack #3168": 70684.0,
-      "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 63002.5,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52766.34,
+      "Indirect Cost:Software Expenses": 52520.77,
       "GENERAL & ADMINISTRATIVE:Business Development": 51275.7,
-      "FACILITIES:FA-Office Supplies": 48662.97,
+      "FACILITIES:FA-Office Supplies": 48718.28,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 34665.12,
+      "DIRECT COSTS:DC-Direct Material Purchases": 35459.29,
       "FACILITIES:FA-Software Expenses": 34100.64,
       "Indirect Cost:Meals and Entertainment": 30210.42,
-      "Reimbursable Expenses": 27940.8,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
-      "Indirect Cost:Uncategorized Expense": 20316.02,
+      "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
+      "Indirect Cost:Uncategorized Expense": 17594.19,
       "Fraud Charges": 16008.36,
       "SALES & MARKETING": 15705.08,
       "Indirect Cost:Insurance Exp": 15269.03,
@@ -123,11 +125,11 @@
       "Interest Income": 9385.13,
       "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 9290.87,
       "SALES & MARKETING:SM-Shipping": 8215.08,
+      "FACILITIES:FA-Facility Repairs & Maintenance": 8031.34,
       "SALES & MARKETING:SM-Travel": 7870.72,
-      "FACILITIES:FA-Facility Repairs & Maintenance": 7696.83,
+      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6699.43,
       "UNALLOWABLE GA:UC-Meals & Entertainment": 6657.9,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
-      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6339.43,
       "Indirect Cost:TaxesX": 6218.2,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5683.87,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
@@ -147,7 +149,6 @@
       "DIRECT COSTS:DC-Direct Travel": 1366.78,
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1266.34,
       "Other Receivables": 1020.0,
-      "Uncategorized Asset": 882.61,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 840.32,
       "Indirect Cost:Professional Fees (do not use)": 751.65,
       "Indirect Cost:Repairs and Maintenance": 598.88,
@@ -2024,7 +2025,7 @@
         },
         {
           "amount": 8867.63,
-          "account": "Reimbursable Expenses",
+          "account": "GENERAL & ADMINISTRATIVE:GA-Professional Fees",
           "description": "Business Expenses for the Period of 08/16 - 09/26"
         }
       ]
@@ -4514,6 +4515,336 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "ST93L690",
+      "total": 138.27,
+      "attributed": 138.27,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future S3 sales",
+      "lines": [
+        {
+          "amount": 138.27,
+          "account": "Inventory Asset",
+          "description": "6061 T6 Aluminum .125\" 7.67\" x 7.67\" Adapter_Plate_Main.step Countersinking (6 holes) Qty: 3 Deburring Black anodizing"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 47.82,
+      "attributed": 47.82,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "No Asana request. Purchase made directly by M. Needham",
+      "lines": [
+        {
+          "amount": 47.82,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "ATTEN ST-862D Lead-free Hot Air Gun Soldering Station Intelligent Digital Display 1000W ST862D Rework Station For PCB Chip Soldering Repair"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 243.0,
+      "attributed": 243.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order payments broken up by Amazon",
+      "lines": [
+        {
+          "amount": 243.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "ATTEN ST-862D Lead-free Hot Air Gun Soldering Station Intelligent Digital Display 1000W ST862D Rework Station For PCB Chip Soldering Repair"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "113-8050386-3222613",
+      "total": 25.92,
+      "attributed": 25.92,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order payments broken up by Amazon",
+      "lines": [
+        {
+          "amount": 25.92,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Loctite Super Glue Liquid Professional"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 540.82,
+      "attributed": 540.8199999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order payments broken up by Amazon",
+      "lines": [
+        {
+          "amount": -9.06,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Your Coupon Savings"
+        },
+        {
+          "amount": 41.94,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "6PCS Precision Tweezers Set, Upgraded Anti-Static Stainless Steel Tweezers | For Electronics, Laboratory Work, Jewelry-Making, Craft, Soldering, etc, by kaverme"
+        },
+        {
+          "amount": 57.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "WEN 10423 3 x 2 x 1-Inch Steel-Hardened Precision 123 Blocks, Two Pack"
+        },
+        {
+          "amount": 65.91,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Klein Tools 11057 Wire Cutter/Stripper, Made in USA, Heavy Duty Cutter for 20-30 AWG Solid and 22-32 AWG Stranded Wire"
+        },
+        {
+          "amount": 157.08,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Wera 05074710001 Kraftform 7445 Hexagon Torque Screwdriver, 1/4\" Head, 2.5- 11.5\"/lbs Variable Torque Adjustment Range"
+        },
+        {
+          "amount": 7.49,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "GOLDTONE Reusable 8-12 Cup Basket Coffee Filter fits Mr. Coffee Makers and Brewers, Replaces your Paper Coffee Filters, BPA Free"
+        },
+        {
+          "amount": 33.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Micro Cutter, 5 PackF"
+        },
+        {
+          "amount": 42.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Klein Tools 1019 Klein Kurve Wire Stripper/Crimper/Cutter | Made in USA, Cutting/Crimping/Stripping Tool for B and IDC Connectors, Terminals, More"
+        },
+        {
+          "amount": 68.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Wera 05051493001838 RA-RM BITHOLDING SCREWDRIVER WITH RATCHET FUNCTIONALITY, 1/4\", 1/4\" X 123.5 MM"
+        },
+        {
+          "amount": 76.5,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "ELMERS Xacto Black Gripster Knife with Safety Cap (X3627)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "113-4900858-0158657",
+      "total": 325.36,
+      "attributed": 325.36,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order payments broken up by Amazon",
+      "lines": [
+        {
+          "amount": 16.56,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Titan 11189 Magnetic Parts Tray"
+        },
+        {
+          "amount": 32.26,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Scotch PRECISION Scotch 8\" Precision Scissors, 3 Pack | Stainless Steel Scissors with Sharp Edge, Soft Comfort Grip, Good for Fabric, Heavyweight Paper and Photos 3-8IN SCISSORS 3M"
+        },
+        {
+          "amount": 259.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "FNIRSI DWS-200 200W High Power Soldering Iron Station Kit, 2 Helping Hands | 3S Melting(212-842\u00b0F),6 F245 3 F210 Iron Tips,3 Display Modes, Pre-set 3 Temps, Precision Digital Solder for Electronics Repair"
+        },
+        {
+          "amount": 16.56,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Titan 11189 Magnetic Parts Tray"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "1109JELSTON",
+      "total": 638.55,
+      "attributed": 638.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 0.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        },
+        {
+          "amount": 28.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, 0.079\" Slotted Drive, 4-3/4\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 25.4,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, 0.125\" Slotted Drive, 5-3/4\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 49.2,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tight-Clearance Angled Open-End Wrench, 5/16\" Size, 3-1/2\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 29.05,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, Number 1 Phillips Drive, 6-3/4\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 32.5,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, Number 00 Phillips Drive, 6\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 27.15,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, Number 0 Phillips Drive, 6-3/4\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 31.3,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, 0.157\" Slotted Drive, 8-1/4\" Overall Length Your Part Number: shop supplies"
+        },
+        {
+          "amount": 41.92,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Torx Plus Screwdriver, IP6 Drive Size Your Part Number: shop supplies"
+        },
+        {
+          "amount": 43.08,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Torx Plus Screwdriver, IP7 Drive Size Your Part Number: shop supplies"
+        },
+        {
+          "amount": 47.2,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Torx Plus Screwdriver, IP8 Drive Size Your Part Number: shop supplies"
+        },
+        {
+          "amount": 49.76,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Torx Plus Screwdriver, IP10 Drive Size Your Part Number: shop supplies"
+        },
+        {
+          "amount": 49.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Push-Top Dispenser, Static Control, 6 FL oz Capacity, Yellow Your Part Number: shop supplies"
+        },
+        {
+          "amount": 108.96,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Masking Tape for Powder Coating, Blue, 0.0024\" Overall Thickness, 1\" Wide, 216 Feet Long Your Part Number: shop supplies"
+        },
+        {
+          "amount": 3.65,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Sorbent for Chemicals, Oil and Water, 32\" Wide x 32\" Long Pad with 1 Gallon Spill Capacity Your Part Number: shop supplies"
+        },
+        {
+          "amount": 1.83,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Sorbent for Chemicals and Water, 24\" Wide x 24\" Long Pad Your Part Number: shop supplies"
+        },
+        {
+          "amount": 16.97,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipping"
+        },
+        {
+          "amount": 52.94,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-07",
+      "doc_number": "",
+      "total": 869.0,
+      "attributed": 434.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 434.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        },
+        {
+          "amount": 434.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-07",
+      "doc_number": "",
+      "total": 334.51,
+      "attributed": 334.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ECO-CYCLE - 9613",
+      "lines": [
+        {
+          "amount": 334.51,
+          "account": "FACILITIES:FA-Facility Repairs & Maintenance",
+          "description": "ECO-CYCLE - 9613"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-06",
+      "doc_number": "",
+      "total": 360.0,
+      "attributed": 360.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IN *GREEN APPLE CLEANING - 4617",
+      "lines": [
+        {
+          "amount": 360.0,
+          "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
+          "description": "IN *GREEN APPLE CLEANING - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-06",
       "doc_number": "",
       "total": 66.98,
@@ -4527,6 +4858,29 @@
           "amount": 66.98,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "YUFUTOL SC-5L6 Tungsten Carbide Burr & Fire extinguisher"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 84.3,
+      "attributed": 42.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 42.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        },
+        {
+          "amount": 42.15,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DKC*DIGI KEY CORP - 4617"
         }
       ]
     },
@@ -4657,8 +5011,8 @@
       "type": "Purchase",
       "date": "2026-11-05",
       "doc_number": "JT72163",
-      "total": 306.59,
-      "attributed": 188.70999999999998,
+      "total": 306.6,
+      "attributed": 188.72,
       "vendor": "",
       "customer": "",
       "balance": null,
@@ -4675,7 +5029,7 @@
           "description": ""
         },
         {
-          "amount": 70.83,
+          "amount": 70.84,
           "account": "Inventory Asset",
           "description": "upcoming S3 sales"
         }
@@ -4831,20 +5185,20 @@
       "type": "Purchase",
       "date": "2026-11-04",
       "doc_number": "102698013",
-      "total": 1711.79,
-      "attributed": 855.89,
+      "total": 1515.36,
+      "attributed": 757.68,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "",
       "lines": [
         {
-          "amount": 855.89,
+          "amount": 757.68,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": ""
         },
         {
-          "amount": 855.9,
+          "amount": 757.68,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": ""
         }
@@ -5343,16 +5697,26 @@
       "date": "2026-10-31",
       "doc_number": "",
       "total": 359.33,
-      "attributed": 359.33,
+      "attributed": 41.59,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 359.33,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 4617"
+          "amount": 83.19,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x2; CAB.01042 x2; TX14/9/5-3E27 x12; CSE-SGAM-305-SGAM x2; CONSMA010-G x2 (incl. allocated shipping)"
+        },
+        {
+          "amount": 41.59,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x1; CAB.01042 x1; TX14/9/5-3E27 x6; CSE-SGAM-305-SGAM x1; CONSMA010-G x1 (incl. allocated shipping)"
+        },
+        {
+          "amount": 234.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x7; CAB.01042 x7; TX14/9/5-3E27 x32; CSE-SGAM-305-SGAM x2; CONSMA010-G x7 (incl. allocated shipping)"
         }
       ]
     },
@@ -6032,8 +6396,8 @@
       "lines": [
         {
           "amount": 848.85,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 7333"
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "FA430-KIT1 - American Hakko Products, Inc. x1"
         }
       ]
     },
@@ -6158,8 +6522,8 @@
       "lines": [
         {
           "amount": 183.63,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 7333"
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "C1571 - American Hakko Products, Inc. x1"
         }
       ]
     },
@@ -6301,9 +6665,14 @@
       "memo": "DKC*DIGI KEY CORP - 7333",
       "lines": [
         {
-          "amount": 568.92,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 7333"
+          "amount": 374.14,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "S3 Future sales - \nM83513/01-AC x2; M83513/02-AC x2; 3318 x10; PV0H24011-311 x2 (incl. allocated shipping)"
+        },
+        {
+          "amount": 194.78,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "5024390400 x250; ES1696 x2; NC191 x4; 5024380100 x1000 (incl. allocated shipping)"
         }
       ]
     },
@@ -6376,24 +6745,6 @@
           "amount": 57.58,
           "account": "Indirect Cost:Uncategorized Expense",
           "description": "GRAINGER - 7333"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-22",
-      "doc_number": "",
-      "total": 383.79,
-      "attributed": 383.79,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 4617",
-      "lines": [
-        {
-          "amount": 383.79,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 4617"
         }
       ]
     },
@@ -6577,7 +6928,7 @@
       "lines": [
         {
           "amount": 113.27,
-          "account": "Indirect Cost:Uncategorized Expense",
+          "account": "FACILITIES:FA-Shop Supplies",
           "description": "MCMASTER-CARR - 4617"
         }
       ]
@@ -6721,7 +7072,7 @@
       "lines": [
         {
           "amount": 179.17,
-          "account": "Indirect Cost:Uncategorized Expense",
+          "account": "FACILITIES:FA-Shop Supplies",
           "description": "MCMASTER-CARR - 4617"
         }
       ]
@@ -6849,24 +7200,6 @@
           "amount": 696.98,
           "account": "Indirect Cost:Uncategorized Expense",
           "description": "PROTO LABS - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-17",
-      "doc_number": "",
-      "total": 84.87,
-      "attributed": 84.87,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "DKC*DIGI KEY CORP - 7333",
-      "lines": [
-        {
-          "amount": 84.87,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "DKC*DIGI KEY CORP - 7333"
         }
       ]
     },
@@ -16380,7 +16713,7 @@
       "lines": [
         {
           "amount": 882.61,
-          "account": "Uncategorized Asset",
+          "account": "Inventory Asset",
           "description": "For future S3 Sales"
         }
       ]
@@ -57071,24 +57404,6 @@
           "amount": 155.57,
           "account": "Indirect Cost:Software Expenses",
           "description": "TOGGL.COM                WILMINGTON   DE"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-09",
-      "doc_number": "",
-      "total": 245.57,
-      "attributed": 245.57,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "INTUIT *QBOOKS ONLINE    CL.INTUIT.COMCA",
-      "lines": [
-        {
-          "amount": 245.57,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "INTUIT *QBOOKS ONLINE    CL.INTUIT.COMCA"
         }
       ]
     }

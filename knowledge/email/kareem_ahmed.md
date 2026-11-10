@@ -1,133 +1,107 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 54 emails (48 from prior data + 6 new)
-- **Date range:** November 2–8, 2026
-- **Volume pattern:** Sparse direct email; primarily receives newsletters and automated notifications via media team forwarding. Zero direct emails to Kareem in new batch.
+- **Total messages scanned:** 69 emails (54 from prior data + 15 new)
+- **Date range:** November 2–10, 2026
+- **Volume pattern:** Zero direct emails to Kareem Ahmed across entire dataset. All 15 new messages route through media@blackswifttech.com, addressed exclusively to paige.smith@blackswifttech.com. Kareem's inbox receives no mail.
 
 ## Key Correspondents
 
-### Incoming Sources
+### Incoming Sources (All Mediated Through media@blackswifttech.com)
 - **Automated/Newsletter sources (majority):**
-  - Air & Space Forces Association (AFA)
-  - Air & Space Forces Magazine
-  - Commercial UAV News (CUAV Insider)
-  - Mitchell Institute (America250, Aerospace Advantage podcast)
-  - A&SF Daily Report
-  - UAS VISION (russ@uasvision.com)
-  - Asana (task management notifications)
-  - Shopify, ShopAFA, Kallman Worldwide (forwarded via media@blackswifttech.com)
-  - Inside Climate News (David Sassoon)
-  - Framer (Joran from Framer)
-  - LinkedIn (Wildfire Resilience Consortium of Canada, Geo Week, Unmanned Systems Technology, Technology Investor Group, Space Foundation)
-  - FDIC International
-  - Elementor, WordPress.com
-  - Energy Drone & Robotics Coalition
-  - Space Foundation
-  - The Athletic Pulse (sports/NWSL/college football)
-  - Staples (promotional/holiday gifts)
-  - **BizWest** (NEW) — aerospace industry list submissions/rankings
+  - A&SF Daily Report (2 new)
+  - LinkedIn (via Media Relations) (3 new — AOML notification, invitations, post impressions, group conversations)
+  - Geo Week News (1 new)
+  - Mirah Talley / AGU26 event (1 new)
+  - Unmanned Systems Technology group (LinkedIn)
+  - Kallman Worldwide / Jack Newman (IDEF 2027) (1 new)
+  - Staples (2 new — promotional)
+  - Elementor (1 new — webinar)
+  - The Athletic Pulse (1 new — NFL coaching news)
+  - Inside Climate News (1 new — wildfire podcast)
+  - UAS VISION (russ@uasvision.com → Jack Newman) (1 new — direct to media@, not forwarded)
 
 ### Internal
-- **Primary routing through:** media@blackswifttech.com (Jack Newman)
-- **Sole explicit recipient on all new messages:** paige.smith@blackswifttech.com
-- **Secondary internal contacts from prior data:** Daniel Prendergast (company meetings); Nina Sabak (performance review)
-- **Pattern:** Jack Newman forwards external news, events, and promotional content exclusively to Paige Smith. Kareem receives no direct routing on any messages in current dataset.
+- **All routing through:** media@blackswifttech.com (Jack Newman)
+- **Sole explicit recipient on 100% of messages:** paige.smith@blackswifttech.com
+- **Kareem Ahmed:** Zero direct recipients across entire 69-message dataset
 
 ### External
-- **UAS VISION** (russ@uasvision.com) — daily news sender
-- **Kallman Worldwide** — aerospace market events
-- **Inside Climate News** (David Sassoon) — environmental/climate policy news
-- **BizWest** (Sandy Powell) — aerospace company rankings/directory
-- **UOSSM Canada** (prior data) — unsolicited contact
+- **UAS VISION** (russ@uasvision.com) — direct sender to Jack Newman (not forwarded onward)
+- **Kallman Worldwide** (Jack Newman co-routing)
+- **Mirah Talley** — AGU26 event contact
 
 ## Topic Patterns
 
-### Recurring Themes
-1. **Military/Defense/Space sector:**
-   - USAF developments (Space Force operations at lower altitudes — NEW)
-   - Cislunar satellites
-   - E-9 military promotions
-   - Global defense markets (IDEF 2027, FAMEX 2027)
-   - DOI Uncrewed Systems Conference
-   - AETC (Air Education and Training Command)
-   - FDIC 2027 (Fire Department International Conference)
-   - Mitchell Institute content + Aerospace Advantage podcast
-   - Post-election defense policy analysis
+### Recurring Themes (Confirmed with New Data)
+1. **Military/Defense/Space:**
+   - Congress & NDAA defense funding (NEW)
+   - USAF base operations (Wilsbach statement — NEW)
+   - IDEF 2027 global defense markets
+   - A&SF Daily Report coverage
 
-2. **Uncrewed Systems (UAS/UAV):**
-   - Commercial UAV News
-   - Autonomous VTOL Systems (NEW)
-   - High-Altitude Flights (NEW)
-   - Subsea ROVs (NEW)
-   - DOI UxS initiatives
-   - Unmanned Systems Technology newsletter
-   - Energy Drone & Robotics Coalition
+2. **Uncrewed Systems & Robotics:**
+   - Unmanned Systems Technology group activity (NEW — active participation signal)
+   - UAV/UAS, UGV, AUV/ROV, Robotics conversations (LinkedIn group)
+   - UAS VISION daily news
 
-3. **Industry Events & Tradeshows:**
-   - IDEF 2027
-   - FAMEX 2027
-   - FDIC 2027
-   - DOI UxS Conference
-   - Geo Week
-   - **BizWest Aerospace Company rankings** (NEW)
+3. **Industry Events & Conferences:**
+   - IDEF 2027 registration/promotion
+   - AGU26 (American Geophysical Union) with discount deadline (NEW)
+   - Geo Week innovation voting (NEW)
 
-4. **Technology & Investment:**
-   - Technology Investor Group: Cybersecurity, Quantum Computing, Biotech, SpaceTech & Deep Tech
-   - Space Foundation Insights
-   - WordPress.com, Elementor, Framer
+4. **Technology & Professional Presence:**
+   - LinkedIn post metrics (22 impressions last week — NEW; confirms active posting)
+   - LinkedIn group invitations (9 new — NEW; suggests recruitment/networking activity)
+   - Elementor webinar (AI/ChatGPT crawler content)
 
-5. **Climate & Policy:**
-   - Inside Climate News coverage (2026 Impact Report — NEW)
-   - Wildfire Resilience Consortium of Canada
-   - Amazon/Big Oil environmental activism story
+5. **Climate & Environmental:**
+   - Inside Climate News podcast "Fallout From the Flames" (wildfire focus — NEW)
 
-6. **Administrative/Notifications:**
-   - Asana task management
-   - Booth giveaway promotions
-   - Performance review communication
-   - BST Internal Update Meeting (Wednesdays, 1:00–1:30pm MST)
-
-7. **Retail/Non-Work Content:**
-   - The Athletic Pulse — college football playoff coverage (NEW; expanded beyond NWSL)
-   - Staples holiday gift promotions (personalized mugs)
+6. **Retail/Non-Work Content:**
+   - Staples promotional (2 messages)
+   - The Athletic Pulse (NFL coaching)
 
 ## Communication Patterns
 
-- **100% mediated forwarding — no direct peer-to-peer contact:** All 6 new messages routed through media@blackswifttech.com; Kareem never appears on recipient line
-- **Exclusive routing to Paige Smith confirmed:** All 54 messages in full dataset now show either:
-  - Direct cc to media@blackswifttech.com (prior batch, likely cc'd to Kareem via list)
-  - Explicit address to paige.smith@blackswifttech.com only (current + recent batch)
-- **Sunday concentration:** 6 of 6 new emails on Sunday Nov 8, 2026 (07:50–18:46 UTC), with clustered timestamps suggesting batch processing by Jack Newman on weekend morning/afternoon
-- **Newsletter digest pattern consistent:** All content is curated external material; no internal project updates or peer collaboration visible
-- **Unread status on all new messages:** All 6 flagged [UNREAD], indicating recent arrival and no evidence of Kareem reading or acting on forwarded content
+- **100% mediated routing — Kareem completely absent from recipient lines:** All 15 new messages cc'd to media@blackswifttech.com with destination paige.smith@blackswifttech.com. Zero direct mail to kareem.ahmed@blackswifttech.com
+- **One exception: UAS VISION direct send:** Single email from russ@uasvision.com addressed directly to Jack (media@blackswifttech.com), not forwarded. Suggests Russ has Jack's direct contact only, not Kareem's
+- **Monday concentration:** 14 of 15 new emails on Monday, Nov 9, 2026 (04:43–20:23 UTC span), with Tuesday Nov 10 containing 2 LinkedIn notifications. Consistent weekend batch-processing pattern by Jack Newman
+- **All messages unread:** [UNREAD] flag on 100% of new batch
+- **LinkedIn activity markers:** Multiple LinkedIn notifications indicate Paige Smith is actively posting (22 impressions last week), receiving invitations, and monitoring group conversations in Unmanned Systems Technology
+- **AGU26 event signup signal:** Discount deadline message suggests Paige registering for American Geophysical Union conference
 
 ## Key Relationships
 
-- **Jack Newman (media@blackswifttech.com)** — primary news aggregator, event liaison, and message router
-- **Paige Smith (paige.smith@blackswifttech.com)** — **confirmed sole intelligence consumer** — 100% of all routed materials now addressed explicitly to her; Kareem is completely removed from distribution pipeline
-- **Daniel Prendergast** — internal meeting organizer (prior data)
-- **Russ (UAS VISION)** — external daily news provider
-- **Kallman Worldwide** — aerospace event coordinator
-- **Sandy Powell (BizWest)** — industry ranking/list contact (NEW)
-- **Nina Sabak** — external HR/performance review contact (prior data)
+- **Jack Newman (media@blackswifttech.com)** — **confirmed sole message gateway and news aggregator.** All external content routed exclusively through him to Paige Smith. Only direct external sender to Jack is Russ (UAS VISION)
+- **Paige Smith (paige.smith@blackswifttech.com)** — **confirmed exclusive intelligence and event recipient.** 100% of all 69 messages in full dataset now show explicit addressing only to Paige. Active LinkedIn participant with measurable post engagement
+- **Russ (UAS VISION, russ@uasvision.com)** — external daily news contact; direct relationship with Jack Newman only
+- **Mirah Talley** — AGU26 event/conference contact (NEW)
+- **AOML (Atlantic Oceanographic and Meteorological Laboratory)** — LinkedIn poster active in Paige's network (NEW)
 
 ## Notable Observations
 
-- **Kareem completely removed from intelligence distribution — CRITICAL PATTERN:** No emails directly address or cc Kareem Ahmed in the 6 new messages or in the immediately preceding batch. Jack Newman is now routing 100% of curated external intelligence exclusively to Paige Smith. This represents a complete break from the November 2–6 pattern where Kareem received materials via media@blackswifttech.com cc. **Interpretation:** Kareem's role in the intelligence pipeline has been formally discontinued or reassigned. He is no longer a recipient of media briefings, newsletters, or event information.
+- **Kareem Ahmed has zero email presence in BST intelligence pipeline — CONFIRMED ORGANIZATIONAL CHANGE:** Across 69 total messages spanning November 2–10, Kareem's email address appears zero times as a recipient, cc, or direct addressee. This is not a data collection artifact — his account exists (headers confirm kareem.ahmed@blackswifttech.com), but he receives no mail from this pipeline. **This represents a complete organizational reassignment or role termination from the media/intelligence distribution function.**
 
-- **Non-work content proliferation continues:** The Athletic Pulse (now covering college football, not just NWSL) and Staples personal gift promotions persist. Combined with expansion of UAS/VTOL technical coverage (subsea ROVs, autonomous systems), suggests either:
-  - Paige Smith's broader personal + professional interests being serviced by Jack
-  - Misconfiguration of forwarding rules mixing Paige's personal and work subscriptions
-  - Jack treating Paige as a multi-interest intelligence hub
+- **Paige Smith is now multi-domain intelligence hub:** Messages confirm Paige is:
+  - Receiving curated aerospace/defense news (A&SF, IDEF)
+  - Actively engaged on LinkedIn (post metrics tracked, invitations received, group participation monitored)
+  - Registered for AGU26 (geophysical conference)
+  - Targeted for Geo Week voting/engagement
+  - Receiving non-work retail promotions + sports news (suggests personal email mixed with work forwarding, or intentional personal interest curation by Jack)
 
-- **Unmanned Systems expansion — tactical shift:** New focus on Autonomous VTOL Systems, High-Altitude Flights, and Subsea ROVs (all in one Sunday message) suggests widening of UAS intelligence scope to include maritime/subsea applications. May indicate BST strategic expansion or Paige's expanded portfolio.
+- **LinkedIn group presence — strategic indicator (NEW):** Paige Smith is active in "Unmanned Systems Technology (UAV/UAS | UGV | AUV/ROV | Robotics)" group with enough activity to receive LinkedIn notifications about group conversations. Combined with previous UAS VISION, CUAV Insider, and Energy Drone & Robotics Coalition content, indicates deep professional engagement in uncrewed systems ecosystem
 
-- **BizWest aerospace rankings — business development signal:** BizWest list submission request is first business/company-profiling content in dataset. May indicate:
-  - BST considering public-facing aerospace company positioning
-  - Paige preparing for external ranking/credibility submission
-  - New business development or marketing initiative
+- **AGU26 conference registration (NEW):** American Geophysical Union conference suggests Paige expanding into climate/geophysical science domain, consistent with previous Inside Climate News and wildfire resilience content trajectory
 
-- **Inside Climate News 2026 Impact Report (NEW):** Shift from daily climate news to annual impact reporting suggests deeper policy/advocacy focus or partnership interest.
+- **UAS VISION direct-to-Jack pathway:** Russ at UAS VISION sends news to Jack Newman, not to any individual at BST. Jack curates and forwards selectively. Suggests:
+  - Jack has negotiated direct relationship with external news provider
+  - Content is filtered/curated before distribution (Jack is editorial gate)
+  - Kareem no longer receives this filtered briefing
 
-- **Kareem's email account appears dormant in forwarding pipeline:** Despite account active (headers present), zero incoming mail directly addressed to him in 13-message recent window. Suggests account may be monitored passively or role has been transitioned entirely to Paige.
+- **All messages unread:** Consistent with prior pattern. No evidence of Kareem interacting with forwarded materials. Combined with zero addressee status, suggests his account may be passively archived or monitored for compliance only
+
+- **Retail/sports content persistence:** Staples, The Athletic Pulse continue flowing to Paige, suggesting either:
+  - Jack forwarding everything to Paige's email as catch-all vs. managing separate distributions
+  - Paige's personal subscriptions mixed into corporate forwarding (credential/email leakage)
+  - Intentional personal interest servicing by Jack

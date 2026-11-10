@@ -5,18 +5,19 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 206814.05,
+    "expenses": 207432.39,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 86647.56,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 87031.35,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
+      "DIRECT COSTS:DC-Direct Material Purchases": 234.55,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
       "Indirect Cost:Finance & Bank Charges": 89.9,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 69.38,
@@ -1009,6 +1010,34 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-31",
+      "doc_number": "",
+      "total": 359.33,
+      "attributed": 234.55,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 83.19,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x2; CAB.01042 x2; TX14/9/5-3E27 x12; CSE-SGAM-305-SGAM x2; CONSMA010-G x2 (incl. allocated shipping)"
+        },
+        {
+          "amount": 41.59,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x1; CAB.01042 x1; TX14/9/5-3E27 x6; CSE-SGAM-305-SGAM x1; CONSMA010-G x1 (incl. allocated shipping)"
+        },
+        {
+          "amount": 234.55,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "CAB.0243 x7; CAB.01042 x7; TX14/9/5-3E27 x32; CSE-SGAM-305-SGAM x2; CONSMA010-G x7 (incl. allocated shipping)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-27",
       "doc_number": "",
       "total": 18.55,
@@ -1032,6 +1061,24 @@
           "amount": 1.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-22",
+      "doc_number": "",
+      "total": 383.79,
+      "attributed": 383.79,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 383.79,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "GRF250 - LightWare LiDAR Inc. x1"
         }
       ]
     },

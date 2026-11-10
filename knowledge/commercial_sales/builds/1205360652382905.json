@@ -29,7 +29,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Kept due to QBO invoice 1633 (2024-11-04, $3,470, PAID) for 2x S2 nosecones with Kevlar skin. Slack confirmation on 2026-11-02 requesting invoice generation for this exact item. Build marked complete; awaiting ship-to address and tracking details for delivery.",
+  "notes": "Kept due to QBO invoice 1633 (2024-11-04, $3,470, PAID) for 2x S2 nosecones with Kevlar skin. Slack confirmation 2026-11-02 requesting invoice generation for this exact item. Build marked complete; awaiting ship-to address and tracking details for delivery.",
   "missing_fields": [
     "ship_to",
     "receive_by",

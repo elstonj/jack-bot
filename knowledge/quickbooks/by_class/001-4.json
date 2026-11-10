@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-09",
-    "end": "2026-11-09"
+    "start": "2024-11-10",
+    "end": "2026-11-10"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 44773.1,
+    "expenses": 45249.75,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 15630.36,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 16107.01,
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 13429.24,
       "Tariffs": 451.8,
@@ -296,6 +296,52 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-07",
+      "doc_number": "",
+      "total": 869.0,
+      "attributed": 434.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 434.5,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        },
+        {
+          "amount": 434.5,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
+      "doc_number": "",
+      "total": 84.3,
+      "attributed": 42.15,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 42.15,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        },
+        {
+          "amount": 42.15,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DKC*DIGI KEY CORP - 4617"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-04",

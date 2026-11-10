@@ -1,6 +1,6 @@
 # Asana Projects Overview
 
-Last scanned: 2026-11-09 02:14
+Last scanned: 2026-11-10 02:11
 
 Total projects: 95
 
@@ -16,7 +16,7 @@ Total projects: 95
 - [001-05_s1_irad_fleet_maintenance.md](001-05_s1_irad_fleet_maintenance.md) — not rebuilt since snapshot scanning began
 - **[001-06] S2 IRAD** — 2 open, 0 completed (last 365 days) as of 2026-10-23 — [001-06_s2_irad.md](001-06_s2_irad.md)
 - [001-06_s2_irad_fleet_maintenance.md](001-06_s2_irad_fleet_maintenance.md) — not rebuilt since snapshot scanning began
-- **[001-07] S3 IRAD** — 103 open, 17 completed (last 90 days) as of 2026-11-09 — [001-07_s3_irad.md](001-07_s3_irad.md)
+- **[001-07] S3 IRAD** — 103 open, 17 completed (last 90 days) as of 2026-11-10 — [001-07_s3_irad.md](001-07_s3_irad.md)
 - **[001-09] SwiftCore 4.0** — 226 open, 5 completed (last 90 days) as of 2026-11-03 — [001-09_swiftcore_40.md](001-09_swiftcore_40.md)
 - **[001-10] SwiftCore 3.2** — 3 open, 0 completed (last 365 days) as of 2026-10-23 — [001-10_swiftcore_32.md](001-10_swiftcore_32.md)
 - **[001-11] Methane Emission Detection IRAD** — 14 open, 0 completed (last 365 days) as of 2026-10-23 — [001-11_methane_emission_detection_irad.md](001-11_methane_emission_detection_irad.md)
@@ -24,7 +24,7 @@ Total projects: 95
 - **[001-12] Customer Support** — 4 open, 1 completed (last 90 days) as of 2026-11-09 — [001-12_customer_support.md](001-12_customer_support.md)
 - **[001-12] Log Parse Website** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [001-12_log_parse_website.md](001-12_log_parse_website.md)
 - **[001-13] Accounting** — 16 open, 50 completed (last 90 days) as of 2026-11-06 — [001-13_accounting.md](001-13_accounting.md)
-- **[001-13] BD Pipeline** — 47 open, 6 completed (last 90 days) as of 2026-11-05 — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
+- **[001-13] BD Pipeline** — 47 open, 6 completed (last 90 days) as of 2026-11-10 — [001-13_bd_pipeline.md](001-13_bd_pipeline.md)
 - **[001-13] Compliance** — 0 open, 0 completed (last 365 days) as of 2026-10-23 — [001-13_compliance.md](001-13_compliance.md)
 - **[001-13] Corporate / Strategic Planning** — 1 open, 0 completed (last 90 days) as of 2026-11-09 — [001-13_corporate_strategic_planning.md](001-13_corporate_strategic_planning.md)
 - **[001-13] Facilities Management** — 8 open, 17 completed (last 90 days) as of 2026-11-09 — [001-13_facilities_management.md](001-13_facilities_management.md)
@@ -36,7 +36,7 @@ Total projects: 95
 - **[001-13] Marketing** — 12 open, 24 completed (last 365 days) as of 2026-10-23 — [001-13_marketing.md](001-13_marketing.md)
 - **[001-13] Marketing Goals Workflow** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [001-13_marketing_goals_workflow.md](001-13_marketing_goals_workflow.md)
 - **[001-13] Proposals** — 82 open, 6 completed (last 90 days) as of 2026-11-07 — [001-13_proposals.md](001-13_proposals.md)
-- **[001-13] Purchasing** — 175 open, 0 completed (last 90 days) as of 2026-11-09 — [001-13_purchasing.md](001-13_purchasing.md)
+- **[001-13] Purchasing** — 179 open, 0 completed (last 90 days) as of 2026-11-10 — [001-13_purchasing.md](001-13_purchasing.md)
 - **[001-14] SwiftCore 3.3** — 7 open, 60 completed (last 90 days) as of 2026-11-05 — [001-14_swiftcore_33.md](001-14_swiftcore_33.md)
 - **[001-15] MHP IRAD** — 8 open, 0 completed (last 365 days) as of 2026-10-23 — [001-15_mhp_irad.md](001-15_mhp_irad.md)
 - **[001-16] SwiftStation IRAD** — 7 open, 2 completed (last 365 days) as of 2026-10-23 — [001-16_swiftstation_irad.md](001-16_swiftstation_irad.md)
@@ -70,7 +70,7 @@ Total projects: 95
 - **[212-1] S2 Simulator ** — 2 open, 2 completed (last 90 days) as of 2026-11-09 — [212-1_s2_simulator.md](212-1_s2_simulator.md)
 - **[212-2] NASA S2 & Parts** — 0 open, 10 completed (last 90 days) as of 2026-11-09 — [212-2_nasa_s2_parts.md](212-2_nasa_s2_parts.md)
 - **[213-1] NASA-Chris Meek (Langley)** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [213-1_nasa-chris_meek_langley.md](213-1_nasa-chris_meek_langley.md)
-- **[300-3] 2026 IDIQ (Hurricane)** — 9 open, 12 completed (last 90 days) as of 2026-11-07 — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
+- **[300-3] 2026 IDIQ (Hurricane)** — 8 open, 13 completed (last 90 days) as of 2026-11-10 — [300-3_2026_idiq_hurricane.md](300-3_2026_idiq_hurricane.md)
 - **[301-2] SBIR - Hurricane Phase II+** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [301-2_sbir_-_hurricane_phase_ii.md](301-2_sbir_-_hurricane_phase_ii.md)
 - **[301-3] S0 Hurricane Phase II - 2025** — 21 open, 37 completed (last 365 days) as of 2026-10-23 — [301-3_s0_hurricane_phase_ii_-_2025.md](301-3_s0_hurricane_phase_ii_-_2025.md)
 - **[350-4] 2024 USGS - Chile (Mexico)** — 17 open, 4 completed (last 90 days) as of 2026-11-05 — [350-4_2024_usgs_-_chile_mexico.md](350-4_2024_usgs_-_chile_mexico.md)
@@ -78,15 +78,15 @@ Total projects: 95
 - **[451-1] INSTAAR S3 x 2** — 7 open, 1 completed (last 365 days) as of 2026-10-23 — [451-1_instaar_s3_x_2.md](451-1_instaar_s3_x_2.md)
 - **[452-1] Hesselius E2** — 1 open, 0 completed (last 365 days) as of 2026-10-23 — [452-1_hesselius_e2.md](452-1_hesselius_e2.md)
 - **[452-2] S2 Simulator & used E2 Battery** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [452-2_s2_simulator_used_e2_battery.md](452-2_s2_simulator_used_e2_battery.md)
-- **[550-1] NAVY SBIR: Magnetometer** — 4 open, 16 completed (last 90 days) as of 2026-11-09 — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
+- **[550-1] NAVY SBIR: Magnetometer** — 4 open, 16 completed (last 90 days) as of 2026-11-10 — [550-1_navy_sbir_magnetometer.md](550-1_navy_sbir_magnetometer.md)
 - **[550-2] Navy STTR: Hazardous Weather** — 7 open, 3 completed (last 90 days) as of 2026-11-09 — [550-2_navy_sttr_hazardous_weather.md](550-2_navy_sttr_hazardous_weather.md)
-- **[600-1] SOCOM Pope** — 58 open, 10 completed (last 90 days) as of 2026-11-09 — [600-1_socom_pope.md](600-1_socom_pope.md)
+- **[600-1] SOCOM Pope** — 57 open, 12 completed (last 90 days) as of 2026-11-10 — [600-1_socom_pope.md](600-1_socom_pope.md)
 - [claudia_behnkes_previously_assigned_tasks.md](claudia_behnkes_previously_assigned_tasks.md) — not rebuilt since snapshot scanning began
 - **Commercial Sales** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [commercial_sales.md](commercial_sales.md)
-- **Contacts** — 103 open, 2 completed (last 90 days) as of 2026-11-09 — [contacts.md](contacts.md)
+- **Contacts** — 103 open, 2 completed (last 90 days) as of 2026-11-10 — [contacts.md](contacts.md)
 - **Events/Conferences/PR Opportunities ** — 0 open, 0 completed (last 365 days) as of 2026-10-23 — [eventsconferencespr_opportunities.md](eventsconferencespr_opportunities.md)
 - **Flight Checklists** — 12 open, 0 completed (last 90 days) as of 2026-11-09 — [flight_checklists.md](flight_checklists.md)
-- **Flight Testing** — 6 open, 17 completed (last 90 days) as of 2026-11-09 — [flight_testing.md](flight_testing.md)
+- **Flight Testing** — 3 open, 20 completed (last 90 days) as of 2026-11-10 — [flight_testing.md](flight_testing.md)
 - [mark_a_bullocks_previously_assigned_tasks.md](mark_a_bullocks_previously_assigned_tasks.md) — not rebuilt since snapshot scanning began
 - **Nate Straus's previously assigned tasks** — 52 open, 3 completed (last 90 days) as of 2026-11-09 — [nate_strauss_previously_assigned_tasks.md](nate_strauss_previously_assigned_tasks.md)
 - **Paige Smith's previously assigned tasks** — 11 open, 0 completed (last 90 days) as of 2026-11-09 — [paige_smiths_previously_assigned_tasks.md](paige_smiths_previously_assigned_tasks.md)
@@ -96,7 +96,7 @@ Total projects: 95
 - [socom_s0-ad.md](socom_s0-ad.md) — not rebuilt since snapshot scanning began
 - [tiffanyelstonblackswifttechcoms_previously_assigned_tasks.md](tiffanyelstonblackswifttechcoms_previously_assigned_tasks.md) — not rebuilt since snapshot scanning began
 - [view_flight_testing.md](view_flight_testing.md) — not rebuilt since snapshot scanning began
-- **View: Major Milestones & Tasks** — 11 open, 1 completed (last 90 days) as of 2026-11-09 — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
+- **View: Major Milestones & Tasks** — 11 open, 1 completed (last 90 days) as of 2026-11-10 — [view_major_milestones_tasks.md](view_major_milestones_tasks.md)
 - **View: Operator Training / Flights** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [view_operator_training_flights.md](view_operator_training_flights.md)
 - **View: Shipping** — 0 open, 0 completed (last 90 days) as of 2026-11-09 — [view_shipping.md](view_shipping.md)
 - **View: Shop Pipeline** — 2 open, 0 completed (last 90 days) as of 2026-11-09 — [view_shop_pipeline.md](view_shop_pipeline.md)
@@ -104,95 +104,106 @@ Total projects: 95
 
 ## Strategic Summary
 
-# Black Swift Technologies Project Portfolio Overview
-
-**Portfolio Snapshot as of November 9, 2026**
-
----
+# BST Project Portfolio Overview
 
 ## Executive Summary
 
-| Metric | Value |
-|--------|-------|
-| **Total Active Projects** | ~80 projects (mix of active, archived, and orphaned) |
-| **Estimated Portfolio Value** | **$20M+** in active/awarded contracts + internal R&D |
-| **Open Tasks Across Portfolio** | ~900+ tasks |
-| **Task Completion Rate (90-day window)** | ~15% (low execution velocity) |
-| **Critical Risk Areas** | Backlog sprawl, unassigned tasks, missed deadlines, team capacity |
+**Portfolio Scale:** ~80 active/archived projects across R&D, customer delivery, operations, and government contracts  
+**Estimated Total Value:** **$20M+** in awarded contracts and proposals (excludes internal IRAD valuation)  
+**Key Risk:** Heavy backlog in core platforms (SwiftCore 4.0: 226 open tasks; S0-AD IRAD: 180 open); task assignment and deadline gaps across multiple critical projects
 
 ---
 
-## Key Revenue-Generating Projects
+## Portfolio by Category
 
-### Government & Institutional Contracts ($14M+)
+### High-Value Customer Contracts ($10M+)
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| **[300-3] 2026 IDIQ (Hurricane)** | NOAA | $483K | Active | Aug 2026 (20 platforms) |
-| **[301-3] S0 Hurricane Phase II - 2025** | NOAA/U. Miami | $1.7M | **Extended to Aug 2026** | Aug 25, 2026 |
-| **[043-2] By Light Mustang** | By Light Professional IT | $450K | Active | Dec 5, 2025 (overdue) |
-| **[550-1] NAVY SBIR: Magnetometer** | U.S. Navy (NAVAIR) | $242.5K | Active | Sep 28, 2026 |
-| **[400-5] SBIR - SMM DoD 22.4D Phase II** | U.S. Air Force | $1.25M | Archived | Jul 11, 2025 (complete) |
-| **NASA Proposals Portfolio** | NASA (multiple) | $500K+ | Mixed | Ongoing |
-| **[350-4] 2024 USGS - Chile** | USGS Volcano Science | $124.2K | Active | Pending (Jan/Feb mission) |
+| Project | Client | Value | Status | Risk |
+|---------|--------|-------|--------|------|
+| **[300-3] 2026 IDIQ (Hurricane)** | NOAA | $483K | Active | 54 S0s due through June 2027; on track |
+| **[301-3] S0 Hurricane Phase II - 2025** | NOAA/U Miami | $1.7M | Active | Extended to Aug 2026; 21 open tasks |
+| **[600-1] SOCOM Pope** | SOCOM | Undisclosed | Active (High Priority) | 57 open tasks; camera/prototype phase through May 2027 |
+| **[043-2] ByLight Mustang** | By Light Professional IT | $450K | Active | 3 open tasks; contract start/due 2025-12-05 |
+| **[400-5] SBIR - SMM DoD 22.4D Phase II** | US Air Force | $1.25M | Archived | Completed 2025-07-11 |
+| **[550-1] NAVY SBIR: Magnetometer** | US Navy (NAVAIR) | $242.5K | Active | 4 open; Phase II pending through March 2027 |
 
-### Commercial & University Contracts ($2M+)
+### Mid-Tier R&D & Product Development
 
-| Project | Client | Value | Status | Key Deadline |
-|---------|--------|-------|--------|--------------|
-| **[031-1] UMES S3** | University of Maryland Eastern Shore | $81.3K | **Delivered** | May 29, 2026 |
-| **[451-1] INSTAAR S3 x2** | CU Boulder | $120K | Active | Feb 2025 (launcher arrival) |
-| **[018-1] Murphy's Pond CH4 Monitoring** | Murray State University | $86.9K | Active | Dec 31, 2026 (funding expires) |
-| **[012-2] ERAU VTOL S0** | Embry-Riddle Aeronautical University | $20.8K | **Overdue** | May 2025 (re-scoped) |
-| **[005-1] Barbados VTOL S0 & Training** | Barbados Meteorological Services | $22.3K | **Overdue** | May 22, 2026 (S0 delivery); July 1 (training) |
+| Project | Owner | Status | Open Tasks | Risk |
+|---------|-------|--------|------------|------|
+| **[001-07] S3 IRAD** | Dan Prendergast | Active | 103 | Overdue milestones; medium priority |
+| **[001-04] S0 VTOL IRAD** | Alex Lomis | Active | 42 | Hover testing (due 12/18/26); deliveries to Barbados, ERAU, NOAA |
+| **[001-09] SwiftCore 4.0** | Jack Elston | Active (Low Pr.) | 226 | **CRITICAL BACKLOG** — 5 completions in 90 days |
+| **[001-03] S0-AD IRAD** | Josh Fromm | Active (Low Pr.) | 180 | **CRITICAL BACKLOG** — 0 completions in 90 days; sustained roadmap |
+| **[001-12] BST Web Applications 2.0** | Dan Prendergast | Early-stage | 14 | All open; no due dates; no completion activity |
+| **[001-16] SwiftStation IRAD** | Sam Hild | Active | 7 | One task 82 days overdue; bench testing in progress |
 
----
+### Operations & Support Services
 
-## Internal R&D Portfolio (IRAD/Core Development)
+| Project | Owner | Status | Notes |
+|---------|-------|--------|-------|
+| **[001-13] Accounting** | Meredith O'hara Needham | Active | 16 open, 50 completed (90d); multiple overdue |
+| **[001-13] General Operations** | Meredith O'hara Needham | Active | 30 open, 15 completed; compliance deadlines Oct–Nov |
+| **[001-13] Proposals** | Multi-owner | Active | 82 open, 6 completed; $20M+ portfolio tracking |
+| **[001-13] Purchasing** | Meredith O'hara Needham | Active | 179 open, 0 completed; high-volume order coordination |
+| **[001-13] BD Pipeline** | Beck Cotter | Active (Green) | 47 open; $5M revenue goal for end 2025 |
 
-### Actively Developed Platforms
+### Fleet & Maintenance
 
-| Project | Owner | Status | Task Volume | Risk Signal |
-|---------|-------|--------|-------------|------------|
-| **[001-07] S3 IRAD** | Dan Prendergast | **Heavy Development** | 103 open, 17 completed (90d) | ✅ Progress; concurrent design/mfg/testing |
-| **[001-04] S0 VTOL IRAD** | Alex Lomis | Active | 42 open, 3 completed (90d) | Hover testing due Dec 18; delivery Mar 26, 2027 |
-| **[001-03] S0-AD IRAD** | Josh Fromm | **Heavily Backlogged** | 180 open, 0 completed | ⚠️ No recent completions; sustained roadmap |
-| **[001-09] SwiftCore 4.0** | Jack Elston | Low Priority | 226 open, 5 completed (90d) | ⚠️ 226-task backlog; minimal momentum |
-| **[001-14] SwiftCore 3.3** | Jack Elston | Archived | 7 open, 60 completed | ✅ 90% complete (archived) |
+| Project | Status | Open | Completed | Notes |
+|---------|--------|------|-----------|-------|
+| **[001-22] Fleet Maintenance** | Active | 3 | 9 (90d) | 13+ aircraft tracked; ongoing ops |
+| **[018-1] Murphy's Pond CH4 Monitoring** | Active | 3 | 12 (365d) | Murray State Univ; $86.9K; expires 12/31/26 |
 
-### Early-Stage R&D Projects
+### Customer Delivery Projects (Recent/Active)
 
-| Project | Focus | Status | Risk |
-|---------|-------|--------|------|
-| **[001-01] General IRAD** | Pilot's Handbooks, Visual Navigation | Low Priority | ⚠️ No due dates; minimal progress |
-| **[001-11] Methane Emission Detection IRAD** | Oil & Gas sensor platform | Prospect Phase | $1M target; MVP demos pending |
-| **[001-12] BST Web Applications 2.0** | Mission planning & data analysis | Planning | ⚠️ **CRITICAL**: No due dates, early-stage, timing risk flagged |
-| **[001-20] SMM IRAD** | Sensor/systems development | Planning | ⚠️ 16 open tasks; no dates/owners |
-| **[001-16] SwiftStation IRAD** | Ground station hardware | Active | 1 task overdue 82 days |
-
----
-
-## Operations & Business Functions
-
-| Project | Owner | Volume | Status |
-|---------|-------|--------|--------|
-| **[001-13] Proposals** | Portfolio mgmt | 82 open, 6 completed (90d) | ✅ Active pipeline tracking; $20M+ proposals in flight |
-| **[001-13] BD Pipeline** | Beck Cotter | 47 open, 6 completed (90d) | ✅ Goal: $5M revenue end-2025; dedicated BD hire pending |
-| **[001-13] Accounting** | Meredith O'hara Needham | 16 open, 50 completed (90d) | ⚠️ Multiple overdue tasks since Aug 2026 |
-| **[001-13] Purchasing** | Meredith O'hara Needham | 175 open, 0 completed (90d) | ⚠️ Large backlog; no recent completions |
-| **[001-13] General Operations** | Meredith O'hara Needham | 30 open, 15 completed (90d) | ⚠️ ERISA bond expires Oct 31, 2025 (OVERDUE) |
-| **[001-13] HR General** | Meredith O'hara Needham | 13 open, 4 completed (90d) | ⚠️ ERISA bond overdue; multiple unassigned HR tasks |
-| **[001-13] Facilities Management** | Operations | 8 open, 17 completed (90d) | Active; lease mgmt ongoing |
-| **[001-13] Marketing** | Team | 12 open, 24 completed (365d) | ⚠️ All 12 open tasks unassigned |
-| **[001-12] Customer Support** | Beck Cotter, Josh Fromm, Dan Prendergast | 4 open, 1 completed (90d) | Active; NASA training due Jan 4, 2027 |
-| **[001-22] Fleet Maintenance** | Dan Prendergast | 3 open, 9 completed (90d) | ✅ Steady cadence; 10+ aircraft tracked |
+| Project | Client | Value | Delivery Status |
+|---------|--------|-------|-----------------|
+| **[005-1] Barbados VTOL S0** | Barbados Met Services | $22.3K | **OVERDUE** (orig. 2024-10-01); training July 2026 |
+| **[012-2] ERAU VTOL S0** | Embry-Riddle Aero | $20.8K | **OVERDUE** (orig. 2024-08-16); re-scoped for May 2025 |
+| **[031-1] UMES S3** | U Maryland Eastern Shore | $81.3K | Mostly complete; S3 delivery done 2026-05-29 |
+| **[451-1] INSTAAR S3 x 2** | CU Boulder | $120K | 7 open tasks; launcher arrival expected Feb 2025 |
+| **[350-4] 2024 USGS - Chile** | USGS Volcano Science | $124.2K | 17 open; mission planned Jan/Feb |
 
 ---
 
-## Critical Risk Areas
+## Key Risk Areas
 
-### 🔴 **Team Capacity & Staffing**
+### 1. **Critical Backlogs**
+- **SwiftCore 4.0:** 226 open / 5 completed (90d) — foundational platform stalled
+- **S0-AD IRAD:** 180 open / 0 completed (90d) — sustained internal roadmap, unclear prioritization
+- **Proposals:** 82 open / 6 completed — portfolio tracking vs. active execution gap
 
-- **Orphaned tasks from departed staff**: 52 tasks (Nate Straus), 11 tasks (Paige Smith), 6 tasks (Claudia Behnke) — **all unassigned**
-- **Unassigned critical tasks**: Purchasing (175 open, 0 completed); Marketing (12 all unassigned); multiple IRAD projects lack owners
-- **Oversubscription**: Dan P
+### 2. **Overdue Customer Deliveries**
+- Barbados S0: **2+ years overdue** (original 2024-10-01)
+- ERAU S0: **2+ years overdue** (original 2024-08-16); re-scoped
+- Multiple customer training/support delays
+
+### 3. **Unassigned & Undated Tasks**
+- S1 IRAD: 6 open, **all unassigned, no due dates**
+- S2 IRAD: 2 open, **both unassigned**
+- Methane Emission Detection IRAD: 14 open, no milestone visibility
+- **Nate Straus's orphaned tasks:** 52 open, all unassigned (staff turnover residue)
+
+### 4. **Orphaned Staff Projects**
+- Nate Straus: 52 open, 3 completed — critical reassignment needed
+- Paige Smith: 11 open, 0 completed — inactive since staff removal
+- Claudia Behnke: 6 open — accounting/finance items at risk
+
+### 5. **Compliance & Operational Risks**
+- **HR General:** ERISA Bond expires 2025-10-31 (30-day notice required)
+- **Accounting:** Multiple overdue invoicing tasks (Aug 2026+)
+- **Facilities:** NNN lease costs $13–$14.63/month across 60-month term; escalations noted
+
+---
+
+## Team Allocation Patterns
+
+**High Utilization (Multiple Projects):**
+- Dan Prendergast: S3 IRAD, SwiftStation, SOCOM Pope, Fleet Maint., Gen. IRAD
+- Jack Elston: SwiftCore 4.0, E2 IRAD, S0 VTOL, multiple support roles
+- Meredith O'hara Needham: Accounting, Operations, Purchasing, HR, Finance Admin
+- Beck Cotter: Customer Support, BD Pipeline, Contacts, Murphy's Pond
+
+**Specialists:**
+- Spencer Hoehl: Flight Testing (18 of 

@@ -1,52 +1,43 @@
-_Computed from Toggl as of 2026-11-07: 4691.6 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-10: 4711.2 h tracked since 2020-01-01._
 
 # Sam Hild — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 4,691.6 hours (all-time since 2020-01-01)
-- **Primary projects (top 5 by hours):**
-  1. [001-07] S3 IRAD — 1,579.7 hours (33.7%)
-  2. [001-16] SwiftStation IRAD — 921.2 hours (19.6%)
-  3. [301-3] S0 Hurricane Phase II - 2025 (NOAA) — 483.9 hours (10.3%)
-  4. [001-04] S0 VTOL IRAD — 421.0 hours (9.0%)
-  5. Project 197063732 — 344.1 hours (7.3%)
-- **Time period:** January 2020 – Present
+- **Total hours tracked:** 4,711.2 hours (all-time since 2020-01-01)
+- **Primary projects (top 5):**
+  1. [001-07] S3 IRAD – 1,589.3 hours (33.7%)
+  2. [001-16] SwiftStation IRAD – 921.2 hours (19.6%)
+  3. [301-3] S0 Hurricane Phase II - 2025 – 483.9 hours (10.3%)
+  4. [001-04] S0 VTOL IRAD – 421.0 hours (8.9%)
+  5. Project 197063732 – 344.1 hours (7.3%)
+- **Time period covered:** January 2020 to present
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| [001-07] S3 IRAD | 1,579.7 | 33.7% | IRAD |
+| [001-07] S3 IRAD | 1,589.3 | 33.7% | IRAD |
 | [001-16] SwiftStation IRAD | 921.2 | 19.6% | IRAD |
 | [301-3] S0 Hurricane Phase II - 2025 | 483.9 | 10.3% | NOAA (Joe Cione) |
-| [001-04] S0 VTOL IRAD | 421.0 | 9.0% | IRAD |
-| Project 197063732 | 344.1 | 7.3% | *Unspecified* |
-| [300-3] 2026 IDIQ (Hurricane) | 272.0 | 5.8% | NOAA |
-| Project 161735648 | 177.6 | 3.8% | *Unspecified* |
+| [001-04] S0 VTOL IRAD | 421.0 | 8.9% | IRAD |
+| Project 197063732 | 344.1 | 7.3% | Unknown |
+| [300-3] 2026 IDIQ (Hurricane) | 277.3 | 5.9% | NOAA |
+| Project 161735648 | 177.6 | 3.8% | Unknown |
 | [550-1] Navy SBIR: Magnetometer | 106.7 | 2.3% | Navy |
-| Commercial Sales | 97.7 | 2.1% | *Internal* |
-| Other projects (11 total) | 287.7 | 6.1% | Various |
+| Commercial Sales | 97.7 | 2.1% | — |
+| Other projects | 192.4 | 4.1% | Various |
 
 ## Recent Activity
+Sam has been actively cycling between three main focus areas in recent entries:
+- **[001-07] S3 IRAD:** Multiple full-day sessions (6.5–9.6 hours), including specific work on "S3 Power Board 24V Reg Fix" and "Hub fix"
+- **[300-3] 2026 IDIQ (Hurricane):** Frequent 3–9.5 hour blocks, suggesting sustained project engagement
+- **[451-1] INSTAAR S3 x 2:** Tagged as "S3 Kits" work, ranging from 1–8.9 hour sessions
 
-Sam's recent work (last 35 entries) focuses heavily on:
-- **[001-07] S3 IRAD** — Dominant recent project; 10 entries totaling ~58.4 hours, including one entry tagged "S3 Power Board 24V Reg Fix"
-- **[300-3] 2026 IDIQ (Hurricane)** — 9 entries totaling ~53.4 hours; consistent multi-hour daily shifts
-- **[451-1] INSTAAR S3 x 2** — 10 entries totaling ~44.2 hours; all tagged "S3 Kits"
-
-Most entries lack descriptions; where provided, focus is on S3 hardware/kit work.
+Most entries lack descriptions, making granular task tracking unclear.
 
 ## Patterns
-
-**Core Focus Areas:**
-- S3 platform development and maintenance (53.3% of all-time hours across IRAD variants)
-- Hurricane research and atmospheric observation projects with NOAA (10.3% + 5.8%)
-- Unmanned systems (VTOL, SwiftStation)
-
-**Work Cadence:**
-- Consistent daily engagement; recent entries show typical 2–9 hour shifts
-- Heavy concentration in technical hardware development (S3 power boards, kits)
-- Limited task descriptions suggest either informal tracking or standardized work blocks
-
-**Notable Shift:**
-- Recent period shows increased emphasis on NOAA hurricane work ([300-3]) and INSTAAR kit support ([451-1]), alongside ongoing S3 IRAD commitments—suggests concurrent support for multiple operational projects.
+- **Core specialization:** S3 hardware/firmware development dominates Sam's portfolio (S3 IRAD alone is 33.7% of all time)
+- **IRAD-heavy:** Internal R&D projects account for ~62% of tracked time, indicating strong technical development focus
+- **NOAA/Hurricane work:** Secondary but significant focus (~16% combined across Hurricane Phase II and 2026 IDIQ projects)
+- **Recent shift:** Last 40 entries show balanced split between S3 IRAD maintenance/fixes and 2026 Hurricane IDIQ work, with emerging INSTAAR S3 Kits activity
+- **Documentation gap:** Very few entries have task descriptions, limiting visibility into specific deliverables or blockers

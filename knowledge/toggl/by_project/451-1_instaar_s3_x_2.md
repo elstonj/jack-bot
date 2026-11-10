@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-07: 169.3 h total since 2020-01-01 — Josh Fromm 91.0 h, Sam Hild 62.5 h, Nate 9.2 h, Jack Elston 6.5 h._
+_Computed from Toggl as of 2026-11-10: 181.5 h total since 2020-01-01 — Josh Fromm 99.0 h, Sam Hild 66.8 h, Nate 9.2 h, Jack Elston 6.5 h._
 
 # [451-1] INSTAAR S3 x 2 — Time Tracking
 
@@ -6,32 +6,27 @@ _Computed from Toggl as of 2026-11-07: 169.3 h total since 2020-01-01 — Josh F
 - **Client:** INSTAAR (Institute of Arctic and Alpine Research)
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 169.3 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 181.5 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Josh Fromm | 91.0 | 53.7% |
-| Sam Hild | 62.5 | 36.9% |
-| Nate | 9.2 | 5.4% |
-| Jack Elston | 6.5 | 3.8% |
+| Josh Fromm | 99.0 | 54.5% |
+| Sam Hild | 66.8 | 36.8% |
+| Nate | 9.2 | 5.1% |
+| Jack Elston | 6.5 | 3.6% |
 
 **Primary Contributor:** Josh Fromm
 
 ## Activity Timeline
-**Recent Work Pattern (Last 21 Entries):**
-- Dominant focus: S3 Kits development/assembly (Sam Hild entries consistently labeled)
-- Josh Fromm recent entries: Primarily 8-hour blocks with no description provided
-- Sam Hild recent entries: Mix of S3 Kits work (ranging 1.0–8.9 hours) plus miscellaneous tasks
+Recent work centers on S3 Kit development and assembly:
 
-**Notable Observations:**
-- Josh Fromm has 9 consecutive 8-hour entries with no descriptions (likely full workdays)
-- Sam Hild's recent work heavily concentrated on S3 Kits (16 of 20 recent entries)
-- Sam Hild entries are more granular and descriptive compared to Josh Fromm's block entries
+- **Sam Hild:** Consistently logging time on "S3 Kits" (most recent entries: 5.4h, 5.9h, 8.9h, 7.8h, 4.2h, 2.5h, 2.0h, 3.6h, 1.0h)
+- **Josh Fromm:** High volume of undescribed 8-hour blocks (9 consecutive 8h entries), with one 3-hour entry
+- **Nate & Jack Elston:** Minimal recent activity
 
 ## Insights
-- **Primary Work Type:** S3 Kits construction/assembly/testing
-- **Work Pattern:** Sustained, ongoing project with consistent team engagement
-- **Documentation Gap:** Josh Fromm's bulk of recent hours lack work descriptions; may indicate routine/understood tasks or incomplete logging
-- **Distribution:** Clear lead role held by Josh Fromm, with Sam Hild as secondary contributor focused on kit-specific work
-- **Consistency:** No evidence of project inactivity; regular contributions across team
+- **Primary Work:** S3 Kit assembly, configuration, or testing (per Sam Hild's entry descriptions)
+- **Work Pattern:** Josh Fromm showing consistent full-day allocations with minimal description; Sam Hild providing specific task context ("S3 Kits")
+- **Documentation Gap:** ~65% of Josh Fromm's hours lack entry descriptions, limiting visibility into specific work performed
+- **Workload Concentration:** Two people (Josh + Sam) account for ~91% of all effort on this project
