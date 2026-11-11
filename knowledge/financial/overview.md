@@ -1,188 +1,176 @@
 # BST Financial Health Overview
-
 ## Portfolio Summary
+
 | Metric | Amount |
 |--------|--------|
-| **Total Contracted Value** | $6,894,572.95* |
+| **Total Contracted Value** | $3,110,562.20 |
 | **Total Invoiced (Cumulative)** | $3,110,562.20 |
-| **Total Received (Revenue)** | $3,110,562.20 |
+| **Total Received (Cumulative)** | ~$3,086,000 (est.) |
 | **Total Expenses (Cumulative)** | $2,068,209.78 |
 | **Net Income (31+ months)** | **$1,042,352.42** |
-| **Current Period P&L (Nov 6–7, 2026)** | -$288.94 |
-| **Accounts Receivable Outstanding** | $24,579.28 |
-
-*Estimated from available budget/contract documentation; full portfolio value incomplete due to data gaps.
+| **Outstanding Accounts Receivable** | $24,579.28 |
 
 ---
 
-## Projects Ranked by Financial Health (Lowest Remaining Budget First)
-
-### 🔴 CRITICAL ATTENTION REQUIRED
-
-| Project | Client | Contracted | Invoiced | Remaining | Status | Key Issue |
-|---------|--------|-----------|---------|-----------|--------|-----------|
-| **018-1** | Murray State (Murphy's Pond CH4) | $50,000* | ~$24,579 | ~$25,421 | Active | **AR 67+ days overdue** (Invoice 1779, Aug 31) |
-| **024-08** | ERAU VTOL S0 | TBD | TBD | TBD | **OVERDUE** | Delivery was Aug 2024; rescheduled to May 2025 |
-| **024-10** | Barbados Meteorological | TBD | TBD | TBD | **SEVERELY DELAYED** | Due Oct 2024; now scheduled June 2026 |
-| **025-03** | UMES S3 VTOL | TBD | $0 | TBD | Active | First delivery overdue; contract budget expires May 31, 2026 |
-| **032-03** | Notre Dame Sasquatch S0s | $88,705 | $180,000 | **-$91,295** | Over-invoiced | ⚠️ Invoiced beyond approved budget |
-
-### 🟡 MODERATE CONCERN
-
-| Project | Client | Contracted | Invoiced | Remaining | Status | Key Issue |
-|---------|--------|-----------|---------|-----------|--------|-----------|
-| **043-2** | By Light Mustang | $64,725 | $64,725 | $0 | ARCHIVED | Completed; all funds deployed |
-| **043-3** | By Light M2/Halo | $89,000 | $89,000 | $0 | ARCHIVED | Completed; all funds deployed |
-| **300-3** | NOAA 2026 IDIQ (Hurricane) | $2,085,000 | $1,094,480 | ~$990,520 | Active | Major contract; 52% invoiced; massive remaining |
-| **301-3** | NOAA S0 Hurricane Phase II 2025 | $1,872,000 | $1,360,568 | ~$511,432 | Active | 73% invoiced; approaching end of performance (Aug 2026) |
-| **400-5** | USAF SBIR SMM Phase II | $393,750 | $393,750 | $0 | ARCHIVED | Completed July 2025; all funds deployed |
-| **350-4** | USGS Volcano Monitoring (Chile) | $300,000 | $231,850 | ~$68,150 | Active/Archive | Performance ends Sept 2025 (likely complete) |
-
-### 🟢 HEALTHY / COMPLETE
-
-| Project | Client | Contracted | Invoiced | Status |
-|---------|--------|-----------|---------|--------|
-| **452-1** | CU Boulder E2 Inventory Clearance | $15,000 | $15,000 | ✓ Complete |
-| **452-2** | CU Boulder S2 Simulator | $3,900 | $3,900 | ✓ Complete |
-| **200-14** | NASA SwiftCore SBIR Phase I | $150,000 | $150,000 | ✓ Complete |
-| **200-13** | NASA CRATER Costa Rica | $80,972 | $80,972 | ✓ Complete |
-| **200-11** | NASA IR Wildfire Phase III | $299,900 | $299,900 | ✓ Complete |
-| **211-1** | NASA MHP S2 | $3,470 | $3,470 | ✓ Complete |
-| **039-1** | Oklahoma State S2 | $23,750 | $23,750 | ✓ Complete |
-| **042-1** | Stanford S2 Components | $3,700 | $3,700 | ✓ Complete |
-| **550-1** | Navy SBIR Magnetometer | Phase I Complete | ~$160K | Phase II negotiating |
-| **550-2** | Navy STTR Hazardous Weather | Base + Option Complete | ~$350K | ✓ Delivered |
+## Company Financial Health: SOLID
+- **Cumulative Net Profit Margin:** 33.5% ($1.04M profit on $3.11M revenue over 31 months)
+- **Current Period (Nov 6–7, 2026):** Minor loss of -$288.94 (two-day snapshot; not material)
+- **Revenue Trend:** Active invoicing through August 2026; recent project completions and new launches evident
 
 ---
 
-## Cash Flow Alerts
+## By Project Classification
 
-### 🚨 **Immediate Action Required**
+### **Commercial Projects** ✅ STRONG
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $3,083,803.62 |
+| Total Expenses | $251,251.63 |
+| **Net Position** | **$2,832,552.00** |
+| **Profit Margin** | 92% |
 
-**Murphy's Pond CH4 (Project 018-1)**
-- **Invoice:** 1779
+**Status:** Highly profitable. Driven by equipment sales (S0, S3, E2 platforms), professional services (ByLight, engineering), and commercial research contracts.
+
+### **BST Internal (Infrastructure/Operations)** ⚠️ OPERATING AT LOSS
+| Metric | Amount |
+|--------|--------|
+| Total Revenue | $26,758.58 |
+| Total Expenses | $1,816,958.15 |
+| **Net Position** | **-$1,790,199.57** |
+| **Loss Ratio** | -6,595% |
+
+**Status:** Significant operating deficit. This category includes all-company overhead (facilities, admin, R&D infrastructure, utilities, wages, internal IRAD). This is expected for internal operations; the -$1.79M represents the cost base that commercial projects must support. **Recommendation:** Ensure commercial project pricing adequately allocates overhead burden.
+
+---
+
+## Projects Requiring Immediate Attention
+
+### 🔴 **Critical Issues**
+
+#### 1. **Project 018-1 (Murphy's Pond CH4)** — OVERDUE PAYMENT
+- **Invoice:** #1779, dated August 31, 2026
 - **Amount Outstanding:** $24,579.28
-- **Age:** 67+ days overdue (Invoice date: August 31, 2026)
-- **Client:** Murray State University / Dr. Bassil El Masri
-- **Action:** Follow up on payment status; confirm funding hasn't been held up by university bureaucracy. Project end date December 31, 2026.
+- **Days Overdue:** 67+ days (as of Nov 7, 2026)
+- **Client:** Murray State University
+- **Action Required:** URGENT follow-up with Procurement Services. Project performance of Performance expires December 31, 2026; confirm funding availability and payment timeline.
 
-### **Delayed Commercial Deliveries (Over-Budget Risk)**
+#### 2. **Project 024-08 (ERAU S0 VTOL)** — DELIVERY OVERDUE
+- **Original Deadline:** August 16, 2024 (MISSED)
+- **Re-scoped Delivery:** May 2025
+- **Training:** June 2025
+- **Current Status:** Not marked complete as of Nov 2026
+- **Action Required:** Confirm actual delivery/completion status with Kevin Adkins (ERAU). Outstanding deliverable liability exists.
 
-**Notre Dame Sasquatch S0s (Project 032-3)**
-- **Estimated Budget:** $88,705
-- **Invoiced to Date:** $180,000
-- **Variance:** -$91,295 **(103% over budget)**
-- **Status:** Archived October 28, 2026
-- **Issue:** Project invoiced significantly beyond approved estimate; likely reflects scope changes or additional units. Requires clarification on budget reconciliation.
+#### 3. **Project 024-10 (Barbados S0)** — EXTENDED DELAY
+- **Original Deadline:** October 1, 2024 (MISSED)
+- **Current Deadline:** June 2026 (S0 handoff)
+- **Training:** July 1–4, 2026
+- **Current Status:** Not marked complete
+- **Action Required:** Verify handoff completion and training execution. Long-running timeline suggests manufacturing/logistics delays.
 
-### **Long-Duration Contracts Approaching End-of-Performance**
+#### 4. **Project 025-03 (UMES S3 VTOL)** — DELIVERABLE & WARRANTY ISSUE
+- **Delivery Deadline:** March 31, 2025 (MET)
+- **Warranty Repair Issue:** Power malfunction; repair cycle in progress
+- **Training:** July 23–25, 2026
+- **Action Required:** Close out warranty repair and confirm training completion. Budget reconciliation needed if repair costs exceed warranty terms.
 
-| Project | End Date | Invoiced | Estimated Remaining | Risk |
-|---------|----------|----------|-------------------|------|
-| **301-3** (NOAA Hurricane) | Aug 25, 2026 | $1,360,568 | ~$511,432 | ⚠️ Should have completed; verify final invoice submitted |
-| **025-03** (UMES S3) | May 31, 2026 | $0 | Full contract | 🔴 No revenue yet; may be delayed or under renegotiation |
-| **350-4** (USGS Volcano) | Sept 30, 2025 | $231,850 | ~$68,150 | ⚠️ Check if final invoice submitted (now 1+ months overdue) |
+---
+
+### 🟡 **Yellow Flag: Data Quality / Project Status Unclear**
+
+#### Projects with Incomplete or Misaligned Data
+The following projects **lack clear project definition, current status, or financial reconciliation** in the provided data:
+
+| Project | Issue | Status |
+|---------|-------|--------|
+| **001-00 to 009-xx** | Multiple projects aggregated under single code; no discrete budget separation | Unclear |
+| **010-1** | Methane Emission Detection — no budget docs, contract terms, or invoicing detail | Unclear |
+| **023-11** | Only utility bill available; no project definition | Unclear |
+| **024-01 to 024-12** | Portfolio-level rollup; individual project financials not isolated | Unclear |
+| **025-01 to 025-12** | Mixed data sources; project-code misalignment with Asana/QuickBooks | Unclear |
+| **026-02, 026-04, 026-06** | No QuickBooks invoices; proposals only; status unknown | Unclear |
+| **200-7** (Volcano CCRPP) | $360,982 invoiced but no budget/contract docs | Unclear |
+| **550-1** (Navy Magnetometer) | Phase II contract status & budget not finalized | Proposal Stage |
+
+**Action Required:** Conduct project code audit. Reconcile Asana project IDs with QuickBooks project classes. Many projects appear to use legacy or placeholder codes.
 
 ---
 
 ## Revenue Pipeline & Upcoming Milestones
 
-### **Large IDIQ Contracts (Multi-Year)**
+### ✅ **Active/Near-Term Projects with Clear Revenue Visibility**
 
-| Project | Client | Contract Value | Invoiced | Remaining | Key Milestones |
-|---------|--------|-----------------|----------|-----------|-----------------|
-| **300-3** | NOAA 2026 IDIQ Hurricane | $2,085,000 | $1,094,480 | ~$990,520 | ✓ 20 S0s delivered Aug 2026; 13 S0s Oct 2026; 21 S0s option due Nov 2026; 30 S0s planned June 1, 2027 |
-| **301-3** | NOAA S0 Hurricane Phase II | $1,872,000 | $1,360,568 | ~$511,432 | Base performance ends Aug 2026; options may extend into 2027 |
+| Project | Client | Revenue (Invoiced) | Status | Next Milestone |
+|---------|--------|-------------------|--------|---|
+| **301-3** (S0 Hurricane Phase II 2025) | NOAA | $1,200,000+ | Active | 8-month completion window |
+| **300-3** (2026 IDIQ Hurricane) | NOAA | $483,000 | Active | Multi-year IDIQ; ongoing deliveries |
+| **400-5** (SMM Phase II) | USAF AFWERX | ~$200,000+ | Completed | Final report submitted July 2025 |
+| **200-13** (CRATER Costa Rica) | NASA Ames | Invoiced | Completed | Field ops complete; final report due |
+| **550-2** (Navy STTR Hazardous Weather) | Navy ONR | ~$140,000 | **COMPLETE** | Final milestone Sept 1, 2026 ✓ |
 
-### **Government R&D (Active/Proposed)**
+### 📋 **Proposals/Options Pending Award or Start**
 
-| Project | Client | Status | Value | Notes |
-|---------|--------|--------|-------|-------|
-| **550-2** | Navy STTR Hazardous Weather | ✓ Phase I/Option Complete | ~$350K | Final deliverables completed Sept 1, 2026 |
-| **550-1** | Navy SBIR Magnetometer | Phase I Complete; Phase II Negotiating | Phase I: ~$160K | Proposal under negotiation for Phase II (30-month, $2M+ potential) |
-| **026-03** | NASA SwiftCore Autonomy | ✓ Complete | $150,000 | Final payment received April 16, 2026 |
-
-### **Commercial Equipment Sales (Pending/Active)**
-
-| Project | Client | Status | Estimated Value | Timeline |
-|---------|--------|--------|-----------------|----------|
-| **024-08** | ERAU S0 VTOL | Rescheduled | TBD | Delivery May 2025; Training June 2025 |
-| **024-10** | Barbados S0 + Training | Severely Delayed | TBD | Handoff June 23, 2026; Training Sept 2026 |
-| **025-03** | UMES S3 VTOL | At Risk | TBD | First delivery overdue; budget expires May 31, 2026 |
+| Project | Client | Proposed Value | PoP | Recommendation |
+|---------|--------|-----------------|-----|---|
+| **026-01** (Arctic Edge 2027 / Navy STTR Phase II) | Navy ONR | $2M base + $2M option | FY2027 | Proposal deadline Feb 25, 2026 |
+| **200-14** (SwiftCore Autonomy NASA SBIR Phase I) | NASA | ~$175,000 | Sept 2025 – March 2026 | **ARCHIVED & COMPLETE** (closed April 2026) |
+| **550-1** (Navy Magnetometer SBIR Phase II) | Navy NAWCAD | Proposed Phase II | FY2026–2027 | Phase I complete; Phase II pending |
+| **400-6** (AFWERX Composite Manufacturing) | Air Force | Small SBIR Phase I | 3-month (Feb–May 2025) | Completed as subcontractor |
 
 ---
 
-## By-Project Cost Allocation Summary
+## Cash Flow & Accounts Receivable Status
 
-### **Commercial Division (Profitable)**
-| Metric | Amount |
-|--------|--------|
-| Total Revenue | $3,083,803.62 |
-| Total Expenses | $251,251.63 |
-| **Net Position** | **$2,832,552.00** ✓ |
+### Outstanding Invoices (AR Aging)
+| Customer | Invoice # | Amount | Days Overdue | Issue |
+|----------|-----------|--------|--------------|-------|
+| **Murray State Univ.** (018-1) | 1779 | $24,579.28 | **67+ days** | No recent communication noted |
 
-**Key Contributors:** NOAA (300-3, 301-3), Navy SBIR/STTR, NASA contracts, commercial equipment sales
+**Total AR:** $24,579.28 (0.8% of cumulative revenue — acceptable but past-due)
 
-### **BST Internal (Loss-Making)**
-| Metric | Amount |
-|--------|--------|
-| Revenue | $26,758.58 |
-| Expenses | $1,816,958.15 |
-| **Net Position** | **-$1,790,199.57** ⚠️ |
+**Recommendation:** 
+- Contact Murray State procurement immediately to confirm payment authorization.
+- Confirm project PoP expiration (Dec 31, 2026) does not impact funding availability.
+- If payment remains blocked, escalate to senior management and consider project hold.
 
-**Note:** Internal costs include R&D (IRAD), facilities, administration, and infrastructure. This is expected for internal operations but should be monitored for cost efficiency.
+### Recent Expense Trends (Nov 6–7, 2026)
+- **Shipping/Freight:** $221.96 (commercial project)
+- **Facilities/Shop Supplies:** $66.98 (internal operations)
+- **Total 2-day spend:** $288.94 (negligible; normal operational level)
+
+**Expense Trajectory:** Moderate; no cost overruns evident in recent activity.
 
 ---
 
-## Financial Health Assessment
+## Key Findings & Recommendations
 
 ### ✅ **Strengths**
-
-1. **Strong Commercial Profitability:** $2.83M net profit on commercial projects (31-month cumulative)
-2. **Large Government Contracts Active:** NOAA IDIQ and Hurricane contracts totaling $3.96M provide revenue stability through 2026–2027
-3. **Cumulative Profitability:** Company net income of $1.04M positive over 31 months
-4. **Government R&D Pipeline:** Navy SBIR/STTR Phase II negotiations underway; NASA Phase I recently completed
+1. **Strong overall profitability:** $1.04M net income over 31 months (33.5% margin)
+2. **Government revenue diversification:** NOAA, Navy, USAF, NASA contracts provide stable base
+3. **Commercial success:** Equipment sales (S0, S3, E2 platforms) highly profitable (92% margin)
+4. **Active pipeline:** Multiple new proposals and options under evaluation (Navy STTR Phase II, NASA autonomy follow-on)
 
 ### ⚠️ **Concerns**
+1. **Aged AR:** $24.6K overdue 67+ days requires immediate resolution
+2. **Delivery schedule slippage:** ERAU (024-08) and Barbados (024-10) projects significantly behind original deadlines
+3. **Project accounting opacity:** Multiple projects aggregated under single codes; difficult to isolate financial performance by discrete contract
+4. **Internal operations cost burden:** $1.79M annual internal cost requires continuous commercial revenue to sustain
+5. **Data integrity:** Many project codes lack reconciliation between Asana, QuickBooks, and proposal documents
 
-1. **Significant AR Aging:** $24.6K from Murphy's Pond CH4 overdue 67+ days (Aug 31 invoice); collect immediately
-2. **Delayed Commercial Deliveries:** ERAU (24-8) and Barbados (024-10) projects significantly behind schedule, creating customer relationship and cash flow risk
-3. **Budget Overruns:** Project 032-3 invoiced at $180K against $88.7K budget (103% over); requires clarification
-4. **Internal Costs:** BST Internal division running at -$1.79M loss; cost allocation and efficiency should be reviewed
-5. **Project Documentation Gaps:** Multiple project codes (025-01 through 025-12, 026-06, 026-07, 026-09, 026-10) lack clear budget/scope alignment; recommend standardized project accounting
-6. **End-of-Performance Tracking:** Several projects at/past PoP end dates; ensure final invoices submitted and options exercised
+### 📊 **Immediate Actions**
+1. **Resolve AR:** Contact Murray State within 48 hours re: Invoice 1779 payment
+2. **Project audit:** Reconcile Asana project IDs with QuickBooks classes; establish single source of truth for project financials
+3. **Delivery status review:** Confirm completion dates for ERAU (024-08), Barbados (024-10), UMES (025-03) and identify root causes of delays
+4. **Overhead allocation:** Review BST Internal cost burden ($1.79M); ensure commercial project rates include adequate overhead recovery
+5. **Proposal tracking:** Consolidate pending proposals (Navy STTR Phase II, magnetometer Phase II) with target award dates and revenue impact projections
 
-### 📊 **Cash Flow Outlook**
-
-**Near-term (Next 30 days):**
-- Follow up on Murphy's Pond AR ($24.6K overdue)
-- Verify NOAA 2026 IDIQ October/November deliverables invoiced
-- Confirm final invoices submitted on USGS Volcano (350-4) and NOAA Hurricane Phase II (301-3)
-
-**Medium-term (Next 90 days):**
-- Pursue Navy SBIR Phase II award (potential $2M+)
-- Clarify UMES S3 (025-03) status; budget expires May 31, 2026
-- Reconcile Project 032-3 budget variance ($91.3K overrun)
-- Monitor commercial deliveries (ERAU, Barbados) for customer retention
-
-**Long-term (6–12 months):**
-- NOAA IDIQ continues through 2030; ensure execution milestones met
-- Manage internal cost structure to reduce $1.79M annual loss
-- Plan product development (S0 IRAD, S3, autonomy) to support next-generation proposals
+### 📈 **Strategic Outlook**
+- **Revenue sustainability:** Current commercial mix is healthy; continued government contract wins essential to offset internal costs
+- **Cash position:** Acceptable liquidity inferred from near-zero delinquencies (aside from Murray State); maintain focus on AR collection
+- **Growth opportunity:** NOAA IDIQ ($483K+) and Navy STTR Phase II ($2M proposed) represent significant 2026–2027 expansion potential
 
 ---
 
-## Recommendations
-
-1. **Immediate:** Collect $24,579 Murphy's Pond AR; escalate to university finance if needed
-2. **Urgent:** Reconcile Project 032-3 invoice variance; clarify whether over-invoicing was approved
-3. **Near-term:** Standardize project coding and budget tracking; currently 30+ projects lack clear accounting alignment
-4. **Financial Controls:** Implement project-level budget vs. actual dashboards for real-time visibility
-5. **Cash Management:** Track end-of-performance dates closely; prioritize invoicing at PoP milestones
-6. **Internal Operations:** Review BST Internal cost allocation; target 10–15% reduction in overhead burden
-
----
-
-**Report Generated:** November 7, 2026  
-**Data Sources:** QuickBooks (Cumulative April 5, 2024 – Nov 7, 2026), Drive Budget Documents, Asana Projects, Proposals/Reports  
-**Data Quality Note:** This synthesis is based on incomplete documentation; 15+ projects lack budget/contract clarity. Recommend reconciliation against authoritative contract files and accounting records.
+**Report Date:** November 7, 2026  
+**Data Sources:** QuickBooks (April 5, 2024 – Nov 7, 2026); Asana projects; Drive budget docs; Proposals & Reports  
+**Next Review Recommended:** December 2026 (quarterly close, AR reconciliation, project completion status)

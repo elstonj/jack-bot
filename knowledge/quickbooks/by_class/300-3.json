@@ -5,19 +5,20 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-10",
-    "end": "2026-11-10"
+    "start": "2024-11-11",
+    "end": "2026-11-11"
   },
   "totals": {
     "revenue": 1008875.0,
-    "expenses": 422354.06,
+    "expenses": 428022.33,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 262946.92,
+      "DIRECT COSTS:DC-Direct Material Purchases": 263214.53,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7468.28,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7637.81,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 433.8,
+      "Tariffs": 5212.13,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.8,
       "SALES & MARKETING:SM-Shipping": 204.16,
       "Inventory Asset": 130.0,
       "SALES & MARKETING:SM-Travel": 20.86,
@@ -866,6 +867,52 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "11560",
+      "total": 5381.66,
+      "attributed": 5381.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 5212.13,
+          "account": "Tariffs",
+          "description": "Microhard shipment tariff"
+        },
+        {
+          "amount": 169.53,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Microhard shipment"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "42360",
+      "total": 286.61,
+      "attributed": 286.61,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 267.61,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "shipment to Summit Assembly"
+        },
+        {
+          "amount": 19.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "shipment to Summit Assembly"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-09",

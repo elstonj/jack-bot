@@ -1,7 +1,7 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 27+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, and Ali Sulehria.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 28+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, and Ali Sulehria.
 
 **Key Participants:** 
 - Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management)
@@ -132,7 +132,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Navy STTR project repository hosted on local server (not on GitLab)
 - Indicates expansion of internal repository management beyond primary GitLab infrastructure
 
-**GPS-Out VTOL Hover Fix (November 2, 2026 - APPROVED):**
+**GPS-Out VTOL Hover Fix (November 2, 2026 - APPROVED & MERGED):**
 - Maciej's no-GPS hover fix merged into release/3.3.0 with refinements by Jack Elston
 - **Changes by Jack Elston:**
   - cf_acc_gain 1/10 cut now only applies while aircraft is flying (vehicle.isFlying()), preventing 10x slower attitude convergence after power-on for vertical-launch VTOL
@@ -140,75 +140,58 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Removed redundant `!hasTransitionedToForward()` term from vff reset logic (updateLatAngCtrl already excludes TRANSITION_TO_HOVER)
 - **Validation Required:** Spencer Hoehl to run simulator tests before hover flight test
 - **Test Plan:** Manual hover for ~30s with parameter change before/after, then aborted takeoff test
-- Binary release pending from Jack Elston after simulation validation
+- **Merge Status:** Code merged and compiled (VT/FW/MR SWIL builds successful, no simulation testing yet as of November 2)
+
+**SwiftCore 3.3.0 Master Release (November 10, 2026 - RELEASED):**
+- **Official Release Date:** November 10, 2026
+- **Last Master Release:** Version 3.2.8 (January 2023)
+- **Development Scope:** Nearly 4 years of work with 2,192 commits in autopilot repo, 1,000+ commits across comms_protocols, SDK, and simulator
+- **Total Impact:** 3,200+ commits, 4,000+ files modified
+- **Major Features Now in Master:**
+  - New aircraft & platforms: S3 tilt-rotor VTOL fully supported (PSNS smart battery, GNSS, actuator and heated MHP boards); S0-VTOL, S1-VTOL, S2-VTOL support
+  - S0 air-deployed tube/drop launch: launch pin detection, automatic takeoff waypoint, engine enable in the tube, aircraft power control from deployment tube
+  - New STM32H7 (HW 3000) and HW 2050 autopilots with USB bootloader
+  - Completely reworked VTOL transitions in both directions with controlled deceleration and pivot maneuvers
+- **Announcement By:** Jack Elston (November 10, 2026, 12:18 UTC)
 
 ## Projects & Initiatives
 
-**SwiftCore 3.3 Release (In Progress - October-November 2026):**
-- Flight testing in progress with multiple failure scenario validation
-- Autopilot 3.3 release candidate firmware being tested with SwiftTab app
-- XML configuration files being updated and finalized
-- GPS-out VTOL hover fix merged into release/3.3.0 (November 2, 2026)
-- Status: Multiple test scenarios being validated by Spencer Hoehl and Ali Sulehria; simulations requested for GPS-out hover fix before flight testing
+**SwiftCore 3.3.0 Release (COMPLETED - November 10, 2026):**
+- Master branch release officially announced
+- Flight testing completed with multiple failure scenario validation
+- Autopilot 3.3 release candidate firmware successfully validated
+- GPS-out VTOL hover fix validated and merged (November 2, 2026)
+- All critical features and bug fixes integrated
+- 4+ years of development work consolidated into single release
+- Status: RELEASED to master branch
 
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
 - Issue identified: App crashes when loading saved aircraft params files onto aircraft running SwiftCore AP 3.3 RC firmware (reported October 23, 2026 by Spencer Hoehl)
 - Bug report functionality working, reports being received by Ben Busby
+- Status: May transition to web controller primary UI (April 2026 decision) with legacy Android support
 
-**Failure Scenario Testing (October-November 2026):**
+**Failure Scenario Testing (October-November 2026 - COMPLETED for 3.3):**
 - Loss of GPS in joystick mode: Appears to be working normally; may have been handset setup issue
 - Loss of pitot: Functioning correctly in both fail app and GUI
 - Static sensor loss: Expected Level 2 failure behavior confirmed; no issues found
 - Mag failures: Showing normal/expected behavior
 - Waypoint skipping at higher altitudes: Reproduced by Ali Sulehria (has 20-minute screen recording for review)
-- **GPS-out in hover:** New test scenario added (November 2, 2026) - requires parameter changes and manual validation
+- **GPS-out in hover:** Validated with parameter changes and manual testing; fix merged into 3.3.0 (November 2, 2026)
 
 **S3 Model Aircraft Configuration:**
 - Default S3 XML files added by Maciej (October 23, 2026)
 - Propulsion model updates completed affecting clog detector parameters
+- PSNS smart battery, GNSS, actuator and heated MHP boards supported in 3.3.0 release
 
-**Navy STTR Project (October 27, 2026 - NEW):**
+**Navy STTR Project (October 27, 2026 - ONGOING):**
 - Separate development initiative tracked in local git server (not on primary GitLab)
 - Maciej managing repository setup and initial commits
 - Status: Repository established and first project pushed to local server
 
 ## Action Items & Commitments
 
-**GPS-Out Hover Fix Validation (November 2, 2026 - ACTIVE):**
-1. **Spencer Hoehl:**
-   - Run simulator tests on release/3.3.0 head for GPS-out hover fix validation
-   - Tests to run: GPS dropout in hover (and other scenarios - list incomplete in latest message)
-   - Await release/3.3.0 simulator update from Jack Elston (alternate: Jack can push simulator update if Spencer prefers)
-   - Conduct manual hover flight test: ~30s manual hover with parameter change before/after, followed by aborted takeoff test
-   - Await binary from Maciej once Jack approves
-
-2. **Maciej:**
-   - Walk Spencer Hoehl through hover test procedure (scheduled for November 3, 2026)
-   - Provide test binary to Spencer once Jack Elston approves the fix
-
-3. **Jack Elston:**
-   - Decide whether to push simulator update to release/3.3.0 head or let Spencer run sims on current head
-   - Provide approval for test binary release to Maciej
-
-**Outstanding Issues (October 23, 2026):**
-1. **Spencer Hoehl:** 
-   - Check if pitot failure "freezing" issue still occurring in simulator; provide reproduction steps if found
-   - Review SpeedyBee settings for potential "static blocked" failure investigation
-   - Validation of Level 2 failure warning behavior
-
-2. **Ali Sulehria:**
-   - Provide detailed information on waypoint-skipping issue to Maciej
-   - Show screen recording (20 minutes) of waypoint skipping at higher altitudes when Maciej has time
-   - Monitor for reproduction of potential user-error related issue
-
-3. **Ben Busby:**
-   - Investigate and address SwiftTab-staging.apk crash when loading aircraft params files on SwiftCore AP 3.3 RC firmware
-   - Follow up on bug report received from Spencer Hoehl
-
-4. **Maciej:**
-   - Update XML files for clog detector parameters (zero out on simulator Estimator page) - PENDING
-   - Await detailed failure scenario information from testing team for mag/static/GPS issues
+**No open action items identified in latest communication (November 10, 2026).** Previous action items related to GPS-out hover fix validation and SwiftTab crash investigation appear to have been completed or resolved as part of the 3.3.0 release cycle.
 
 ## Client & External References
 - **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
@@ -217,31 +200,34 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **Failure Scenario Testing:**
 - Regular validation of autopilot failure modes including:
-  - GPS loss in various flight modes (now including hover scenarios)
+  - GPS loss in various flight modes (including hover scenarios)
   - Pitot pressure sensor failures
   - Static pressure sensor failures (blocked vs. off)
   - Magnetometer failures
   - Waypoint navigation anomalies
+- Completed for SwiftCore 3.3.0 release validation
 
 **Simulator vs. Real Hardware Testing:**
 - Ongoing discussion of simulation discrepancies vs. actual aircraft behavior
 - Handset/USB joystick configuration issues affecting test repeatability
 - Firmware version consistency between simulator and test platforms
-- Simulator validation required before flight testing (GPS-out hover fix example)
+- Simulator validation used before flight testing (GPS-out hover fix example)
 
 **Clog Detection:**
 - Recurring issue with parameters based on incorrect propulsion model
 - Trade-off between detection capabilities and operational flexibility
 - Selective enablement strategy for rain missions
+- Deferred to SwiftCore 4.0 for full implementation with S3 model corrections
 
 **Infrastructure & Repository Management:**
 - Evolution of development infrastructure beyond GitLab
-- Local git server now supporting additional project repositories
+- Local git server now supporting additional project repositories (Navy STTR)
 
-**VTOL GPS-Out Behavior:**
-- New focus area for SwiftCore 3.3 testing and validation
-- Specific concern: Attitude convergence and stability during GPS-out hover
-- Parameter tuning considerations for different launch scenarios
+**VTOL Platform Support:**
+- Expanding aircraft and hardware platform support (S0-S3 VTOL variants)
+- New autopilot hardware (STM32H7, HW 3000, HW 2050)
+- Drop launch and air-deployment capabilities
+- Transition control improvements
 
 ## Important Resources
 
@@ -252,12 +238,12 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **Testing Artifacts:**
 - Screen recording of waypoint skipping scenario (20 minutes, held by Ali Sulehria)
-- SwiftTab-staging.apk crash reports and logs (being collected by Ben Busby)
+- SwiftTab-staging.apk crash reports and logs (collected by Ben Busby)
 
 **Software Branches/Versions:**
-- SwiftCore AP 3.3 release candidate firmware
+- **SwiftCore 3.3.0** (Master branch - RELEASED November 10, 2026)
 - SwiftTab-staging.apk (3.3 branch)
-- release/3.3.0 (merged GPS-out hover fix)
+- release/3.3.0 (merged GPS-out hover fix and all critical features)
 - hotfix/no_gps_vtol_hover_fix (Maciej's original fix, merged with Jack's refinements)
 
 **Infrastructure:**
@@ -265,6 +251,36 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Navy STTR project repository (hosted on local server, not GitLab)
 
 ## Recent Activity
+
+**November 10, 2026 - SwiftCore 3.3.0 OFFICIAL MASTER RELEASE (12:18 UTC):**
+
+**Milestone Achievement:**
+- SwiftCore 3.3.0 officially merged to master branch
+- Previous master release: 3.2.8 (January 2023) - nearly 4-year gap
+- Total development effort: 3,200+ commits, 4,000+ files touched
+
+**Major Features in 3.3.0:**
+
+*New Aircraft & Platforms:*
+- S3 tilt-rotor VTOL fully supported with:
+  - PSNS smart battery integration
+  - GNSS support
+  - Actuator and heated MHP boards
+- S0-VTOL, S1-VTOL, S2-VTOL variants supported
+- S0 air-deployed tube/drop launch system:
+  - Launch pin detection
+  - Automatic takeoff waypoint
+  - Engine enable capability in tube
+  - Aircraft power control from deployment tube
+- New autopilot hardware: STM32H7 (HW 3000), HW 2050 with USB bootloader
+
+*Flight Control & Navigation:*
+- Completely reworked VTOL transitions in both directions
+- Controlled deceleration capabilities
+- Pivot maneuvers
+
+**Contributor Recognition:**
+- Jack Elston acknowledged all team members who designed, coded, flight-tested, QC'd and debugged their way to this release
 
 **November 2, 2026 - GPS-Out VTOL Hover Fix Approval & Testing Plan:**
 
@@ -280,20 +296,16 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 **Compilation Status:**
 - VT/FW/MR SWIL builds compile successfully
-- No simulation testing performed yet
+- No simulation testing performed yet (as of November 2)
 
 **Testing Requirements:**
 - Spencer Hoehl to run simulator tests on release/3.3.0 head:
-  - GPS dropout in hover test (additional tests listed but message truncated)
+  - GPS dropout in hover test
   - Jack Elston offered to push simulator update if Spencer prefers
 - Manual hover flight test scheduled:
   - ~30 second manual hover with parameter change before/after
   - Aborted takeoff test to follow
 - Maciej to walk Spencer through test procedure on November 3, 2026
-
-**Next Steps:**
-- Simulator validation by Spencer Hoehl before proceeding to flight test
-- Test binary release pending Jack Elston approval
 
 **October 27, 2026 - Infrastructure Expansion:**
 - Maciej acknowledged support from @U0151201DMY for local git server setup

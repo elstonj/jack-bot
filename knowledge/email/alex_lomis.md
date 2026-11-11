@@ -1,60 +1,79 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 6 emails
+- **Total messages scanned:** 17 emails (6 initial + 11 new)
 - **Date range:** Mon 9 Nov – Tue 10 Nov 2026
-- **Volume:** Very light (2–3 emails/day during scan period)
-- Note: Limited dataset; patterns should be considered preliminary
+- **Volume:** Light (8–9 emails/day during scan period)
+- Note: Limited dataset; patterns remain preliminary but slightly more robust
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 3 emails
-  - Direct messages + group meeting invitations
-  - Appears to be primary internal coordinator
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — 4 emails
+  - Direct messages + forwarded correspondence with SOCOM
+  - Continues to be primary internal coordinator
+  
+- **Ethan Domagala** (via Asana) — 3 task assignments
+  - Assigns technical work on avionics integration
+  - Appears to be technical lead or project manager on S0 VTOL work
 
-### Collaborators in Group Emails
-- Joshua Fromm (josh.fromm@blackswifttech.com)
-- Maciej Stachura (stachura@blackswifttech.com)
-- Sam Hild (sam.hild@blackswifttech.com)
-- Jack Elston (elstonj@blackswifttech.com)
-- *All included on SOCOM Tech Update meeting invite*
+### Collaborators (from group/CC context)
+- Joshua Fromm, Maciej Stachura, Sam Hild, Jack Elston (from prior SOCOM meeting)
+- Maciej Stachura — receives external vendor communication on magnetic sensor board
 
 ### External Contacts
-- Marcus Hale (marcus@ccfieldnest.com) — "parking lot intro" (context unclear)
+- **Pete Dice** (pete@blaizehybrid.com) — technical Q&A on onboard AI ("S0 onboard AI")
+- **Tom Simcox** (tom.simcox@bartington.com) — magnetic sensor board vendor follow-up
+- **Marcus Hale** (marcus@ccfieldnest.com) — from prior data
+- **GetFPV** (chloe@getfpv.com) — promotional (drone equipment vendor)
+- **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — SOCOM contact (forwarded via Prendergast)
 
 ### Automated/System
-- Asana project management tool (3 notifications) — active task tracking
+- Asana (5 notifications) — increased task tracking activity; primary assignment source
 
 ## Topic Patterns
 
-### Visible Projects/Initiatives
-- **SOCOM Tech Update** — camera-related meeting scheduled Thu Nov 12
-- **Magnetic sensor board** — referenced in email chain (may be indirect context via CC)
-- Image-related work — "images" subject line from Prendergast
+### Active Projects
+- **S0 VTOL IRAD** (Internal Research & Development)
+  - Avionics integration milestone assigned by Ethan Domagala
+  - Specific tasks: "Fuse modified to accept new avionics" + "Avionics placed in, powered up, initial function verified"
+  - Active development phase (integration in progress)
+
+- **SOCOM Tech Update** — ongoing (camera/imaging work)
+  - Data from "yesterday's launch" referenced in Prendergast email to SOCOM contact
+  - Suggests active operational/test data collection
+
+- **Magnetic sensor board** — continuing development (sensor integration work)
 
 ### External Organizations
-- **L3 Harris** — intro call mentioned (from prior knowledge file)
-- **Bartington** (tom.simcox@bartington.com) — sensor/equipment vendor (indirect)
-- **CCFieldNest** — external contact (Marcus Hale)
+- **Blaize Hybrid** (Pete Dice) — AI/onboard systems vendor/partner
+- **Bartington** — magnetic sensor equipment vendor
+- **SOCOM (U.S. Special Operations Command)** — direct government customer contact
+- **GetFPV** — drone equipment supplier (promotional only)
+- **CCFieldNest** — prior external contact
 
 ## Communication Patterns
 
-- **Receiving:** Primary recipient of Daniel Prendergast coordination emails
-- **Asana integration:** Active use of task tracking; receives due-date and notification alerts
-- **Meeting invitations:** Recipient on technical update meetings (SOCOM cameras, L3 Harris intro)
-- **Email variants:** Uses both `alex.lomis@blackswifttech.com` and `alex.lomis@bst.aero` addresses
+- **Receiving:** Continues as primary recipient of Prendergast coordination; now also heavy Asana task assignment recipient
+- **Direct technical correspondence:** Receiving technical Q&A from external vendors (Blaize Hybrid)
+- **Email address usage:** Receives on both `alex.lomis@blackswifttech.com` and `alex.lomis@bst.aero`
+- **Task-driven workflow:** Asana notifications indicate real-time task assignment and due-date tracking; suggests hands-on technical execution role
+- **No outbound emails in dataset** — pattern continues (all inbound or assigned via system)
 
 ## Key Relationships
 
-- **Daniel Prendergast** — likely manager or project lead (sends invitations, coordinates meetings)
-- **Cross-functional team:** Part of group working on SOCOM and related technical initiatives (Joshua Fromm, Maciej Stachura, Sam Hild, Jack Elston)
-- **External partner introduction:** Marcus Hale (CCFieldNest) — context still unclear
+- **Daniel Prendergast** — primary internal liaison; coordinates with government customer (SOCOM) on shared projects
+- **Ethan Domagala** — technical task lead; assigns avionics integration work (likely engineering manager)
+- **Pete Dice / Blaize Hybrid** — external technical partner (onboard AI systems)
+- **SOCOM** — end-customer relationship managed through Prendergast
+- **Cross-functional team** — Joshua Fromm, Maciej Stachura, Sam Hild, Jack Elston (technical working group)
 
 ## Notable Observations
 
-- Dual email address usage (bst.aero and blackswifttech.com domains) — worth clarifying
-- Very small email sample limits pattern reliability
-- Asana notifications suggest active project management, but no direct inbox correspondence visible
-- No outbound emails in this dataset — all inbound or received invitations
-- Recent activity clusters around technical/camera-related work (SOCOM) and business development (L3 Harris intro)
+- **Hands-on technical role:** Task assignments from Ethan Domagala suggest Alex is directly executing avionics integration work (not purely coordination)
+- **S0 VTOL development active:** Integration phase underway; likely mid-stage development with near-term milestones
+- **Government customer contact:** SOCOM data mentioned in forwarded email chain suggests Alex works on government-relevant technology
+- **Vendor/partner ecosystem:** Multiple external partners (Blaize Hybrid for AI, Bartington for sensors) indicate complex systems integration
+- **Dual email domain pattern persists** — may indicate BST internal domains serve different functions (blackswifttech.com vs bst.aero)
+- **Promotional/marketing noise low** — GetFPV email only promotional message in dataset; otherwise professional/technical focus
+- **Same-day task clustering:** Multiple Asana assignments received on same day (Tue 10 Nov, 17:26–18:01 UTC) suggests sprint/planning activity

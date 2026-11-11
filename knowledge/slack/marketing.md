@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly
 
-**Activity level:** High frequency discussions across June 2024-September 2026 period, with multiple concurrent projects in various stages. Most recent activity (September 8, 2026) shows continued active engagement with shared documentation and ongoing strategic initiatives.
+**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 10, 2026) shows continued active engagement with ongoing strategic initiatives.
 
 ---
 
@@ -121,3 +121,14 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Final approval pending on caption accuracy and visual presentation
 
 ---
+
+## Recent Activity
+
+### November 10, 2026
+- Shelly thanked Jack for an idea/suggestion
+- Context limited but indicates active engagement and positive collaboration continuing into November 2026
+
+---
+
+## Notes on Data Quality
+The most recent batch contains minimal substantive information (single brief message). The comprehensive knowledge file remains current through May 8, 2026, with only one additional data point for November 10, 2026 confirming channel activity continues.

@@ -1,53 +1,67 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-10 02:51
+Last scanned: 2026-11-11 02:51
 
 Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 3 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 3 files — [sales.md](sales.md)
+- **Federal Projects** — 6 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
-# Google Drive Strategic Overview — Black Swift Technologies
+# Black Swift Technologies — Google Drive Strategic Overview
 
 ## Summary Statistics
-- **Total Drives Reviewed:** 2
-- **Total Documents:** 6
-- **Organization Quality:** Minimal structure; files stored at root level with limited folder hierarchy
+- **Total documented files:** 7 across 2 active shared drives
+- **Organization:** Minimal folder structure; flat hierarchy with files at root level
+- **Date range:** 2022–2099 (note: future-dated entries suggest system/data anomalies)
+- **Primary editors:** Jack Elston, Beck Cotter
 
-## Drive Breakdown
+---
 
-### Federal Projects
-- **Volume:** 3 files (minimal)
-- **Content Type:** Video files + reporting
-- **Key Observation:** Contains 2 video assets (RC_VID_0009.MOV, RC_VID_0008.MOV) and a Final Report; appears to be a project completion repository
+## Key Findings
 
-### Sales
-- **Volume:** 3 files (minimal)
-- **Content Type:** Client proposals and program documentation
-- **Key Client:** CU Boulder Green Labs (sensor integration project)
-- **Key Observation:** Duplicate or related versions of the same proposal (PDF + folder format), suggesting incomplete file management
+### Drive-Specific Focus
+| Drive | Primary Content | Volume | Notes |
+|-------|-----------------|--------|-------|
+| **Federal Projects** | Federal contracts, BOMs, technical specs, budgets, media | 6 files | Core uncrewed aircraft carrier demonstrator work (WP-BST-006) |
+| **Sales** | Commercial proposals/models | 1 file | Minimal activity; S3 product focus |
 
-## Cross-Drive Patterns
-- **Limited Portfolio:** Only 6 documents across both drives indicates either early-stage documentation or files stored in other systems
-- **Minimal Redundancy:** No obvious overlap between Federal and Sales content
+### Major Project: Uncrewed S0 Carrier Demonstrator
+- **Work Package:** WP-BST-006 (Rev B)
+- **Documentation:** Technical specifications, budget estimates (ROM), bill of materials (BOE) — multiple versions
+- **Lead:** Jack Elston
+- **Status:** Active (last updates 2026-11-10)
 
-## Areas Requiring Attention
+### Cross-Drive Patterns
+- **Federal drive dominates** documentation volume and appears to be the primary operational repository
+- **Sales drive underutilized** — only 1 file; no visible proposal templates or project pipeline documentation
+- **No shared templates or resources identified** across drives
 
-| Issue | Detail |
-|-------|--------|
-| **File Organization** | No visible folder structure; all files at root level |
-| **Version Control** | Sales drive has duplicate CU Boulder files (PDF and folder) with identical timestamps |
-| **Naming Conventions** | Inconsistent: video files use codes (RC_VID_XXXX), proposals use full descriptive names |
-| **Archive/Stale Content** | Federal videos dated 2099 (data entry error?) and 2026 Final Report need verification |
-| **Documentation Gaps** | Extremely limited volume suggests primary repositories may be elsewhere or documentation is underdeveloped |
+---
+
+## Observations & Concerns
+
+### Strengths
+✓ Clear segregation between federal and commercial work  
+✓ Active technical documentation with revision tracking  
+✓ Financial oversight (ROM budgets, BOEs) present
+
+### Areas Needing Attention
+⚠️ **Flat folder structure** — No subfolders in Federal drive; difficult to navigate and scale  
+⚠️ **Inconsistent naming** — Multiple BOE files with similar names (potential duplication/confusion)  
+⚠️ **Media storage** — Video files at root level; no clear archival/organization  
+⚠️ **Sales drive inactivity** — Severely underdeveloped; appears abandoned or underutilized  
+⚠️ **Data integrity questions** — Future-dated entries (2099) suggest system issues or corrupted metadata  
+⚠️ **No visible backup or archive strategy** — No version control patterns evident beyond "Rev B"
+
+---
 
 ## Recommendations
-1. Establish consistent folder hierarchy (Project → Client → Document Type)
-2. Implement clear naming conventions across all drives
-3. Resolve duplicate files in Sales drive
-4. Verify and correct anomalous dates (2099 entries)
-5. Audit whether critical project files exist in other storage systems
+1. Establish folder taxonomies by project phase, document type, and fiscal year
+2. Audit and consolidate duplicate BOE files
+3. Develop Sales drive with proposal templates and pipeline documentation
+4. Investigate date anomalies and validate metadata
+5. Implement consistent naming conventions across all drives

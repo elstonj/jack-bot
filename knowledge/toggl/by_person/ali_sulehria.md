@@ -1,40 +1,41 @@
-_Computed from Toggl as of 2026-11-07: 160.5 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-11: 168.8 h tracked since 2020-01-01._
 
 # Ali Sulehria — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 160.5 hours (all-time since 2020-01-01)
-- **Primary projects:** 
-  1. 2026 IDIQ (Hurricane) – NOAA
-  2. S3 IRAD – IRAD
-  3. General Operations – Overhead
-- **Time period covered:** Recent entries span recent activity; all-time data from 2020 onward
+- **Total hours tracked:** 168.8 hours (all-time since 2020-01-01)
+- **Primary projects:**
+  1. [300-3] 2026 IDIQ (Hurricane) – NOAA: 100.5 hours (59.5%)
+  2. [001-07] S3 IRAD – IRAD: 34.9 hours (20.7%)
+  3. [001-13] General Operations – Overhead: 9.5 hours (5.6%)
+- **Time period:** All-time data; recent 35 entries show active current work
 
 ## Project Breakdown
 
-| Project | Hours | % of Total | Client |
-|---------|-------|-----------|--------|
-| [300-3] 2026 IDIQ (Hurricane) | 100.5 | 62.6% | NOAA |
-| [001-07] S3 IRAD | 34.9 | 21.7% | IRAD |
-| [001-13] General Operations | 9.5 | 5.9% | Overhead |
-| [600-1] SOCOM Pope | 8.4 | 5.2% | SOCOM |
-| [001-14] SwiftCore 3.3 | 7.2 | 4.5% | IRAD |
+| Project | Client | Hours | % of Total |
+|---------|--------|-------|-----------|
+| 2026 IDIQ (Hurricane) | [300] NOAA | 100.5 | 59.5% |
+| S3 IRAD | [001] IRAD | 34.9 | 20.7% |
+| General Operations | Overhead | 9.5 | 5.6% |
+| SOCOM Pope | [600] External | 8.4 | 5.0% |
+| Sick Leave | — | 8.0 | 4.7% |
+| SwiftCore 3.3 | [001] IRAD | 7.4 | 4.4% |
 
 ## Recent Activity
+Ali's recent work (last 35 entries) remains heavily focused on the Hurricane project with intermittent S3 IRAD and overhead tasks:
 
-**Primary focus:** Ali is heavily invested in the 2026 IDIQ (Hurricane) NOAA project, which dominates recent time entries.
-
-**Recent work (with descriptions available):**
+**Hurricane (NOAA) specifics:**
 - S0 GPS board testing and onboarding
-- S0 PSNS debugging/testing; GPS board preparation for QA
-- Debugging AP core 2 P400 radio issues; laptop setup with required tools
-- SOCOM Pope: Slamstick documentation
+- S0 PSNS debugging and QA preparation
+- AP core 2 P400 radio issue debugging and laptop setup with required tools
+- Multiple sessions with no descriptions logged
 
-**Data quality note:** 23 of 34 recent entries lack descriptions, limiting visibility into specific work performed beyond project allocation.
+**S3 IRAD:** Regular development/engineering work with 6 entries in recent period
+
+**Other:** One sick leave day (8h) and miscellaneous operational tasks
 
 ## Patterns
-
-- **Clear primary focus:** Hurricane (NOAA) accounts for nearly 63% of all tracked time, indicating this is Ali's main responsibility
-- **Secondary commitment:** S3 IRAD consumes approximately 22% of time, suggesting a secondary but substantial role
-- **Hardware/testing emphasis:** Described entries point toward hardware debugging, board testing, QA preparation, and tool setup—suggesting Ali has a hands-on technical role focused on system integration and validation
-- **Overhead minimal:** General operations and other projects consume only ~16% combined, keeping Ali primarily billable to client work
+- **Strong project concentration:** Hurricane dominates at ~60% of tracked time, with S3 IRAD as secondary focus (~21%)
+- **Hardware-focused work:** Recent descriptive entries indicate embedded systems/RF troubleshooting (GPS boards, radio issues, PSNS debugging)
+- **Documentation gaps:** Majority of recent entries lack descriptions; only ~4 of 35 recent entries have task details logged
+- **Consistent utilization:** No significant gaps in tracking; appears to be active contributor across multiple technical areas

@@ -2,38 +2,44 @@
 
 ## By Product/System
 
-### S2 UAS
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Field campaign report on volcanic gas emissions monitoring using S2 airborne platform (final_report.md)
-
-### SwiftCore Autopilot
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Flight control and autonomous operations during volcanic monitoring mission (final_report.md)
-
-### SwiftTab User Interface
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Ground control and mission planning interface used during field campaign (final_report.md)
-
-### SwiftStatio
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Ground station operations and data management during volcanic survey (final_report.md)
+### S0 Carrier (Uncrewed)
+- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, NOAA OAR AOML | October 28 | Capability whitepaper proposing uncrewed S0 carrier demonstrator for NOAA maritime operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
 
 ---
 
 ## By Client/Agency
 
-### NASA Ames Research Center
-- **Data Collection over Costa Rica Volcanoes - Final Report** | 2025-07-21 | CRATER program (Contract 80NSSC25CA052) - comprehensive field campaign report on airborne forest ecosystem response to volcanic gas emissions monitoring (final_report.md)
+### NOAA (National Oceanic and Atmospheric Administration)
+- **NOAA Office of Marine and Aviation Operations (OMAO) / Uncrewed Systems Operations Center (UxSOC)**
+  - Uncrewed S0 Carrier Demonstrator | October 28 | Demonstrator platform for uncrewed maritime operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+
+- **NOAA OAR Atlantic Oceanographic and Meteorological Laboratory (AOML)**
+  - Uncrewed S0 Carrier Demonstrator | October 28 | Demonstrator platform for oceanographic operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+
+### U.S. Navy (Referenced Programs)
+- Related to NAVAIR N251-016 and STTR N6833525C0270 (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
 
 ---
 
 ## By Application Area
 
-### Volcano Monitoring
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Airborne data collection over Costa Rica volcanoes during May 2025 field campaign studying ecosystem response to volcanic gas emissions (final_report.md)
+### Maritime/Ocean Operations
+- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC | October 28 | Uncrewed platform for NOAA maritime monitoring and operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
 
-### Forest Ecosystem Monitoring
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | CRATER program research on forest ecosystem response to volcanic gas emissions in Costa Rica (final_report.md)
+### Oceanographic Research
+- **Uncrewed S0 Carrier Demonstrator** | NOAA OAR AOML | October 28 | Uncrewed platform for oceanographic data collection (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
 
 ---
 
 ## By Document Type
 
-### Final Reports
-- **Data Collection over Costa Rica Volcanoes - Final Report** | NASA Ames Research Center | 2025-07-21 | Comprehensive final report on CRATER program field campaign (Contract 80NSSC25CA052) (final_report.md)
+### Capability Whitepapers / Proposals
+- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, NOAA OAR AOML | October 28 | Demonstrates S0 uncrewed carrier capabilities for NOAA Phase III SBIR and Navy programs (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+
+---
+
+## Funding/Program References
+
+- **NOAA IDIQ:** 1305M226D0012 (OMAO/UxSOC)
+- **SBIR Phase III:** 15 U.S.C. § 638(r)
+- **Navy References:** NAVAIR N251-016, STTR N6833525C0270

@@ -1,7 +1,7 @@
 # BST Project Registry
 
 Master index of all active projects with cross-system links.
-_Generated from Asana project overviews. 45 active projects._
+_Generated from Asana project overviews. 39 active projects._
 
 | Code | Project | Customer | Budget | Slack | Financial |
 |------|---------|----------|--------|-------|-----------|
@@ -9,12 +9,8 @@ _Generated from Asana project overviews. 45 active projects._
 | 001_02 | E2 IRAD | — | — | — | Yes |
 | 001_03 | S0-AD IRAD | — | — | — | Yes |
 | 001_04 | S0 VTOL IRAD | — | — | — | Yes |
-| 001_05 | S1 IRAD | — | — | — | Yes |
-| 001_06 | S2 IRAD | — | — | — | Yes |
 | 001_07 | S3 IRAD | — | — | — | Yes |
 | 001_09 | SwiftCore 4.0 | — | — | — | Yes |
-| 001_10 | SwiftCore 3.2 | — | — | — | Yes |
-| 001_11 | Methane Emission Detection IRAD | — | — | — | Yes |
 | 001_12 | BST Web Applications 2.0 IRAD | — | — | — | Yes |
 | 001_12 | Customer Support | — | — | — | Yes |
 | 001_13 | Purchasing | — | — | — | Yes |
@@ -42,14 +38,12 @@ _Generated from Asana project overviews. 45 active projects._
 | 550_2 | Navy STTR: Hazardous Weather | Dept. of the Navy | $146,326 | #sbir-hurricane, #sbir-volcano | Yes |
 | 600_1 | SOCOM Pope | SOCOM | — | — | — |
 | — | Flight Testing | — | — | #flight-testing | — |
-| — | View: Major Milestones & Tasks | — | — | — | — |
 | — | View: Weekly Meetings | — | — | — | — |
 | — | View: Shipping | — | — | — | — |
 | — | Contacts | — | — | — | — |
 | — | View: Shop Pipeline | — | — | — | — |
 | — | View: Operator Training / Flights | — | — | — | — |
 | — | Flight Checklists | — | — | — | — |
-| — | {001-24] Albatross IRAD | — | — | — | — |
 
 ## Channel → Project Lookup
 

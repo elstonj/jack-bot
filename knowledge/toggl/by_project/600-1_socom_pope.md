@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-10: 182.4 h total since 2020-01-01 — Dan 77.5 h, Alex 45.5 h, Josh Fromm 43.0 h, Ali Sulehria 8.4 h, Stachura 5.0 h, Jack Elston 3.0 h._
+_Computed from Toggl as of 2026-11-11: 185.8 h total since 2020-01-01 — Dan 77.5 h, Alex 48.0 h, Josh Fromm 43.0 h, Ali Sulehria 8.4 h, Stachura 5.0 h, Jack Elston 3.0 h, Spencer Hoehl 0.9 h._
 
 # [600-1] SOCOM Pope — Time Tracking
 
@@ -6,39 +6,36 @@ _Computed from Toggl as of 2026-11-10: 182.4 h total since 2020-01-01 — Dan 77
 - **Client:** Not specified
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 182.4 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 185.8 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 77.5 | 42.5% |
-| Alex | 45.5 | 25.0% |
-| Josh Fromm | 43.0 | 23.6% |
-| Ali Sulehria | 8.4 | 4.6% |
+| Dan | 77.5 | 41.7% |
+| Alex | 48.0 | 25.8% |
+| Josh Fromm | 43.0 | 23.1% |
+| Ali Sulehria | 8.4 | 4.5% |
 | Stachura | 5.0 | 2.7% |
 | Jack Elston | 3.0 | 1.6% |
+| Spencer Hoehl | 0.9 | 0.5% |
 
 **Primary Contributor:** Dan (77.5 hours)
 
 ## Activity Timeline
-### Recent Work (36 entries reviewed)
-- **Most recent entries:** Predominantly undescribed sessions ranging from 0.5h to 9.5h
-- **Documented work:**
-  - Jack Elston: "SOCOM Requirements Sequestration" (2.5h)
-  - Ali Sulehria: "slamstick docs" (2.8h)
-  - Jack Elston: "SOCOM Meeting" (0.5h)
+### Described Work
+- **SOCOM Requirements Sequestration** — Jack Elston, 2.5 hours
+- **SOCOM Meeting** — Jack Elston, 0.5 hours
+- **Slamstick docs** — Ali Sulehria, 2.8 hours
 
 ### Work Patterns
-- High concentration of work from Dan (consistent 3–9.5h sessions)
-- Josh Fromm: Regular 8-hour blocks (appears to be full-day sessions)
-- Alex: Mix of 5.5h to 8.0h sessions
-- Majority of entries lack descriptive text (34 of 36 entries undescribed)
+- Recent entries span a continuous period with no gaps
+- Majority of logged time (35 of 39 entries) lacks descriptions
+- Josh Fromm shows consistent 8-hour block entries (5 entries totaling 40 hours)
+- Alex shows consistent 8-hour block entries (5 entries totaling 40 hours)
+- Dan's entries vary in duration (1.8–9.5 hours), suggesting task-based logging
 
 ## Insights
-- **Work Types:** Limited documentation in time entries. Only three entries contain descriptions: requirements work, documentation (slamstick), and meetings.
-- **Notable Patterns:**
-  - Sparse entry descriptions make it difficult to understand project scope and activities
-  - Heavy reliance on Dan's contributions (42.5% of total hours)
-  - Josh Fromm works in consistent full-day blocks
-  - Alex and Josh represent significant secondary contributors (48.6% combined)
-  - Non-billable status suggests internal/R&D work or administrative overhead
+- **Documentation focus:** Identified work includes requirements documentation and technical documentation (slamstick)
+- **Data quality issue:** 90% of entries undocumented, limiting visibility into work type distribution
+- **Team composition:** Core team of three (Dan, Alex, Josh) accounts for 91% of effort; supporting contributors minimal
+- **Workload pattern:** Regular, sustained engagement suggests ongoing development or implementation phase

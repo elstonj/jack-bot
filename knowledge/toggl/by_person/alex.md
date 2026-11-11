@@ -1,42 +1,48 @@
-_Computed from Toggl as of 2026-11-10: 6008.5 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-11: 6019.0 h tracked since 2020-01-01._
 
 # Alex Lomis — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 6,008.5 hours (all-time since 2020-01-01)
-- **Primary projects:** S0 VTOL IRAD, S3 IRAD, Project 180222280
-- **Time period covered:** 2020-01-01 to present
+- **Total hours tracked:** 6,019.0 hours (all-time since 2020-01-01)
+- **Primary projects (top 3):**
+  1. S0 VTOL IRAD — 2,641.1 hours (43.9%)
+  2. S3 IRAD — 1,124.3 hours (18.7%)
+  3. Project 180222280 — 529.0 hours (8.8%)
+- **Time period:** January 2020 – present
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| [001-04] S0 VTOL IRAD | 2,641.1 | 43.9% | [001] IRAD |
-| [001-07] S3 IRAD | 1,116.3 | 18.6% | [001] IRAD |
+| S0 VTOL IRAD | 2,641.1 | 43.9% | IRAD |
+| S3 IRAD | 1,124.3 | 18.7% | IRAD |
 | Project 180222280 | 529.0 | 8.8% | — |
-| [550-1] Navy SBIR: Magnetometer | 335.2 | 5.6% | — |
-| [035-1] ADONIS Unmanned Experts | 292.2 | 4.9% | [035] Unmanned Experts |
-| [301-3] S0 Hurricane Phase II - 2025 | 266.7 | 4.4% | [301] NOAA: Joe Cione |
-| [043-2] By Light Mustang | 164.6 | 2.7% | — |
-| [300-3] 2026 IDIQ (Hurricane) | 126.3 | 2.1% | [300] NOAA |
-| [001-20] PTO | 96.8 | 1.6% | — |
-| All other projects | 440.3 | 7.3% | — |
+| Navy SBIR: Magnetometer | 335.2 | 5.6% | Navy |
+| ADONIS Unmanned Experts | 292.2 | 4.9% | Unmanned Experts |
+| S0 Hurricane Phase II - 2025 | 266.7 | 4.4% | NOAA (Joe Cione) |
+| By Light Mustang | 164.6 | 2.7% | By Light |
+| 2026 IDIQ (Hurricane) | 126.3 | 2.1% | NOAA |
+| PTO | 96.8 | 1.6% | — |
+| Proposals | 63.3 | 1.1% | IRAD |
+| *Other projects* | 379.3 | 6.3% | — |
 
-**Focus:** Approximately 62.5% of Alex's time is concentrated on two IRAD projects (S0 VTOL and S3), both under the [001] IRAD client.
+**IRAD portfolio total:** 4,179.6 hours (69.4% of all tracked time)
 
 ## Recent Activity
 
-Recent entries (last 30 logged periods) show:
-- **Primary focus:** [001-07] S3 IRAD (14 of 30 recent entries, 104.5 hours)
-- **Secondary focus:** [600-1] SOCOM Pope (6 of 30 recent entries, 45.5 hours)
-- **Other recent work:** [001-04] S0 VTOL IRAD, [300-3] 2026 IDIQ (Hurricane), [001-20] PTO, [001-21] Sick Leave
-- **Pattern:** Minimal task descriptions logged; entries are typically full 8-hour days with no granular detail
+**Current focus (recent 33 entries):**
+- Dominant split between **S3 IRAD** and **SOCOM Pope** in the last reporting period
+- S3 IRAD appears in ~16 of 33 recent entries (mostly 8-hour full days)
+- SOCOM Pope ramping up (~8 entries across recent weeks)
+- Two PTO days (16 hours total) and 2.5 hours sick leave logged
+- Brief work on 2026 IDIQ (Hurricane) — 10.5 hours across two entries
+
+**Pattern:** No task descriptions recorded on any recent entries; all tracked as full 8-hour days or partial shifts without work detail.
 
 ## Patterns
 
-- **Core specialization:** Unmanned systems and IRAD development (S0 VTOL and S3 projects dominate workload)
-- **Secondary focus:** NOAA Hurricane research projects and government contracts (Navy SBIR, SOCOM Pope)
-- **Work distribution:** Highly concentrated—top 2 projects account for nearly two-thirds of all tracked time
-- **Recent shift:** S3 IRAD has become the dominant recent project, displacing S0 VTOL from recent activity
-- **Time tracking style:** Minimal descriptions; appears to log full workdays without task-level granularity
-- **Leave balance:** 99.3 hours logged as PTO + sick leave combined
+- **Heavy IRAD concentration:** Nearly 70% of all time across internal R&D projects (S0 VTOL, S3, S1, S2, SwiftStation)
+- **Core expertise area:** Appears to be primarily focused on VTOL and S-series development (S0 + S3 = 62.6% of total hours)
+- **Secondary mission:** Government contracts (Navy SBIR magnetometer, NOAA Hurricane work, SOCOM Pope)
+- **Consistency:** Recent entries show standard 8-hour workdays with minimal variation
+- **No visible shift:** S3 IRAD has remained a steady workload for extended period; SOCOM Pope is emerging as recent secondary focus

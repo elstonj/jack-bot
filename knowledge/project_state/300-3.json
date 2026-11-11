@@ -37,13 +37,7 @@
       {
         "category": "Other",
         "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation effort for satellite communication and/or land-based C2 capability (estimated for effort as a whole)",
-        "source_doc": null
-      },
-      {
-        "category": "Equipment",
-        "amount": 36000.0,
-        "description": "Two (2) baseline S0 UAS platforms at $18,000 each for LOS video-enabled variant",
+        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite communication and/or land-based C2 integration",
         "source_doc": null
       }
     ],
@@ -52,27 +46,27 @@
         "amount": 324248.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-10"
+        "last_updated": "2026-11-11"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-10"
+        "last_updated": "2026-11-11"
       },
       "other_qbo": {
-        "amount": 422354.06,
+        "amount": 428022.33,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-10"
+        "last_updated": "2026-11-11"
       },
-      "total": 748771.33,
+      "total": 754439.6,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -265771.33,
+    "remaining": -271439.6,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-10T10:47:47Z"
+    "last_reconciled": "2026-11-11T10:48:42Z"
   },
   "milestones": [
     {
@@ -147,6 +141,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-10T10:47:47Z",
+  "last_full_rebuild": "2026-11-11T10:48:42Z",
   "last_incremental_update": null
 }

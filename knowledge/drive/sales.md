@@ -1,7 +1,5 @@
 # Sales — Shared Drive
 
-Small drive with 3 files.
+Small drive with 1 files.
 
-- CU Boulder Green Labs - Sensor Integration Options.pdf (modified 2026-11-09)
-- CU Boulder Green Labs - Sensor Integration Options (modified 2026-11-09)
-- CU Boulder Green Labs Program (modified 2026-11-09)
+- S3 MOQ Model Review (modified 2026-11-10)

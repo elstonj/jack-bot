@@ -72,40 +72,40 @@
     "[925-03] New Office Space Leasing"
   ],
   "period": {
-    "start": "2024-11-10",
-    "end": "2026-11-10"
+    "start": "2024-11-11",
+    "end": "2026-11-11"
   },
   "totals": {
     "revenue": 3797232.11,
-    "expenses": 4879619.91,
+    "expenses": 4895348.66,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 194772.55,
       "Indirect Cost:Payroll Expenses:Wages": 192416.0,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
-      "Inventory Asset": 124890.25,
+      "Inventory Asset": 131037.35,
       "FRINGE:FR-Retirement Contributions": 124773.73,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 110222.42,
       "FACILITIES:FA-Rent Expense": 98738.35,
-      "FACILITIES:FA-Shop Supplies": 85813.86,
+      "FACILITIES:FA-Shop Supplies": 85834.76,
       "Prepaid Expenses": 72500.18,
       "GENERAL & ADMINISTRATIVE:GA-Professional Fees": 71870.13,
       "Spark One Jack #3168": 70684.0,
       "FRINGE:FR-Employee Healthcare": 57910.47,
-      "Indirect Cost:Software Expenses": 52520.77,
+      "Indirect Cost:Software Expenses": 52589.96,
       "GENERAL & ADMINISTRATIVE:Business Development": 51275.7,
-      "FACILITIES:FA-Office Supplies": 48718.28,
+      "FACILITIES:FA-Office Supplies": 48828.15,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "DIRECT COSTS:DC-Direct Material Purchases": 35459.29,
-      "FACILITIES:FA-Software Expenses": 34100.64,
+      "DIRECT COSTS:DC-Direct Material Purchases": 44473.81,
+      "Indirect Cost:Finance & Bank Charges": 42352.44,
+      "FACILITIES:FA-Software Expenses": 34125.27,
       "Indirect Cost:Meals and Entertainment": 30210.42,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 27604.53,
       "The Soil Moisture Company": 21450.0,
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18333.77,
-      "Indirect Cost:Uncategorized Expense": 17594.19,
+      "Indirect Cost:Uncategorized Expense": 17515.36,
       "Fraud Charges": 16008.36,
       "SALES & MARKETING": 15705.08,
       "Indirect Cost:Insurance Exp": 15269.03,
@@ -131,7 +131,7 @@
       "UNALLOWABLE GA:UC-Meals & Entertainment": 6657.9,
       "SALES & MARKETING:SM-Conferences/Seminars": 6480.66,
       "Indirect Cost:TaxesX": 6218.2,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5683.87,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5703.12,
       "SALES & MARKETING:Promotion Expenses": 5093.27,
       "Indirect Cost:Dues & Subscriptions": 4661.82,
       "Indirect Cost:Supplies:Office SuppliesX": 4605.18,
@@ -140,8 +140,8 @@
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2301.28,
       "FRINGE:FR-Worker's Comp": 2276.0,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2172.45,
       "Indirect Cost:Professional Fees (do not use):Continuing educationX": 2165.72,
       "Indirect Cost:Internal Research and DevelopmentX": 2008.07,
       "SALES & MARKETING:SM-Dues & Subscriptions": 1960.44,
@@ -152,7 +152,7 @@
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 840.32,
       "Indirect Cost:Professional Fees (do not use)": 751.65,
       "Indirect Cost:Repairs and Maintenance": 598.88,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 544.24,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 561.21,
       "QuickBooks Payments Fees": 519.77,
       "Maciej Stachura WF Card 3168": 505.9,
       "Tariffs": 446.41,
@@ -4515,6 +4515,247 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "1126",
+      "total": 6000.0,
+      "attributed": 6000.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 6000.0,
+          "account": "Inventory Asset",
+          "description": "For S3 order (deposit)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "5454",
+      "total": 9290.09,
+      "attributed": 9290.09,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PayPal",
+      "lines": [
+        {
+          "amount": 4507.26,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Teledyne FLIR Hadron 640R"
+        },
+        {
+          "amount": 4507.26,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Teledyne FLIR Hadron 640R"
+        },
+        {
+          "amount": 256.32,
+          "account": "Indirect Cost:Finance & Bank Charges",
+          "description": "processing surcharge"
+        },
+        {
+          "amount": 19.25,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "41448",
+      "total": 147.1,
+      "attributed": 147.1,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future S3 Sales",
+      "lines": [
+        {
+          "amount": 147.1,
+          "account": "Inventory Asset",
+          "description": ".157\" (4mm) OD 78.7\" (2m) Long Oversized x 15"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "80745",
+      "total": 50.9,
+      "attributed": 16.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 450-1 INSTAAR, IRAD S3, Shop supplies",
+      "lines": [
+        {
+          "amount": 16.96,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Zubax shipment"
+        },
+        {
+          "amount": 16.97,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": ""
+        },
+        {
+          "amount": 16.97,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Shop Supplies charge"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 41.54,
+      "attributed": 41.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TAILSCALE US INC. - 9613",
+      "lines": [
+        {
+          "amount": 41.54,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "TAILSCALE US INC. - 9613"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 20.77,
+      "attributed": 20.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "VERCEL INC. - 4617",
+      "lines": [
+        {
+          "amount": 20.77,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "VERCEL INC. - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 117.14,
+      "attributed": 117.14,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "U-HAUL-CTR-BOULDER #72227 - 4617",
+      "lines": [
+        {
+          "amount": 117.14,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "flight testing"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 109.87,
+      "attributed": 109.87,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP SPINDRIFTBEVERAGE - 9613",
+      "lines": [
+        {
+          "amount": 109.87,
+          "account": "FACILITIES:FA-Office Supplies",
+          "description": "SP SPINDRIFTBEVERAGE - 9613"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 20.9,
+      "attributed": 20.9,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP EUGENE TOY HOBB - 9613",
+      "lines": [
+        {
+          "amount": 20.9,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "SP EUGENE TOY HOBB - 9613"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 183.22,
+      "attributed": 183.22,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SLACK T014U7E0L5C - 4617",
+      "lines": [
+        {
+          "amount": 183.22,
+          "account": "Indirect Cost:Software Expenses",
+          "description": "SLACK T014U7E0L5C - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 11.69,
+      "attributed": 11.69,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PHILLIPS 66 - CF UNITED A - 4617",
+      "lines": [
+        {
+          "amount": 11.69,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "gas for flight testing"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 3.86,
+      "attributed": 3.86,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MICROSOFT#G196882767 - 4617",
+      "lines": [
+        {
+          "amount": 3.86,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "MICROSOFT#G196882767 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-09",
       "doc_number": "ST93L690",
       "total": 138.27,
@@ -7834,24 +8075,6 @@
           "amount": 583.27,
           "account": "FACILITIES:FA-Utilities Expense",
           "description": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-12",
-      "doc_number": "",
-      "total": 78.83,
-      "attributed": 78.83,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "STEP GLOBAL PTY LTD - 7333",
-      "lines": [
-        {
-          "amount": 78.83,
-          "account": "Indirect Cost:Uncategorized Expense",
-          "description": "STEP GLOBAL PTY LTD - 7333"
         }
       ]
     },
@@ -57386,24 +57609,6 @@
           "amount": 499.0,
           "account": "GA-Business Development",
           "description": "PITCHDECKFIRE/EXECFIRE   SEATTLE      WA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-10",
-      "doc_number": "",
-      "total": 155.57,
-      "attributed": 155.57,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "TOGGL.COM                WILMINGTON   DE",
-      "lines": [
-        {
-          "amount": 155.57,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "TOGGL.COM                WILMINGTON   DE"
         }
       ]
     }

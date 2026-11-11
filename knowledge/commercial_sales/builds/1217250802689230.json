@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Active commercial hardware procurement: NASA Langley purchasing two S0 vehicles with basic atmospheric sensor packages for P3 platform integration (NOAA configuration). Chris Meek confirmed FY purchase with delivery after October 1, 2026. Beck sent estimate 2026-08-07; customer proceeding with NASA procurement forms. Chris Meek out 3 weeks but team will assist. Note: separate high-altitude S0 research proposal was rejected 2026-08-05, but this independent commercial order remains active.",
+  "notes": "Active commercial hardware procurement for NASA Langley P3 platform integration. Two S0 vehicles with basic atmospheric sensor packages; FY purchase with delivery after 2026-10-01. Beck sent estimate 2026-08-07; Chris Meek confirmed team proceeding with NASA procurement forms (out 3 weeks, team to assist). Separate high-altitude S0 research proposal rejected 2026-08-05, but this independent commercial order remains active.",
   "missing_fields": [
     "ship_to",
     "invoice_number",

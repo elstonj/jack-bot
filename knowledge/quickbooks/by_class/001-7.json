@@ -5,20 +5,20 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-10",
-    "end": "2026-11-10"
+    "start": "2024-11-11",
+    "end": "2026-11-11"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 207432.39,
+    "expenses": 207491.0,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 87031.35,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 87070.52,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "DIRECT COSTS:DC-Direct Material Purchases": 234.55,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 108.84,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 128.28,
       "Indirect Cost:Finance & Bank Charges": 89.9,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 69.38,
       "Tariffs": 35.9,
@@ -964,6 +964,62 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "",
+      "total": 41.17,
+      "attributed": 41.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 24.71,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PTC RESET FUSE 60V 50MA 1206"
+        },
+        {
+          "amount": 2.47,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "TARIFF"
+        },
+        {
+          "amount": 13.99,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-10",
+      "doc_number": "80745",
+      "total": 50.9,
+      "attributed": 16.97,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Split between 450-1 INSTAAR, IRAD S3, Shop supplies",
+      "lines": [
+        {
+          "amount": 16.96,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Zubax shipment"
+        },
+        {
+          "amount": 16.97,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": ""
+        },
+        {
+          "amount": 16.97,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Shop Supplies charge"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-03",
       "doc_number": "",
       "total": 39.96,
@@ -1163,6 +1219,29 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-12",
+      "doc_number": "",
+      "total": 78.83,
+      "attributed": 78.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STEP GLOBAL PTY LTD - 7333",
+      "lines": [
+        {
+          "amount": 33.36,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PSKN3-24/55S: Dual Band Halfwave Antenna, SMA-plug connector"
+        },
+        {
+          "amount": 45.47,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Freight"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-10",
       "doc_number": "SO-01893",
       "total": 3460.0,
@@ -1206,29 +1285,6 @@
           "amount": 100.0,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Shipping total from inFlow"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-08",
-      "doc_number": "",
-      "total": 78.36,
-      "attributed": 78.36,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 33.36,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "PSKN3-24/55S: Dual Band Halfwave Antenna, SMA-plug connector, (2400-2485 MHz) plus (5000-6000 MHz)"
-        },
-        {
-          "amount": 45.0,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Freight & Misc.:"
         }
       ]
     },

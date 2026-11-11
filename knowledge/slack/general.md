@@ -71,11 +71,13 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
   - Additional Gemini hooks and capabilities
   Jack requested team feedback on any ongoing issues. Update reflects continued infrastructure modernization and AI tool expansion.
 - **2027 Holiday Calendar Adjustment** (November 9, 2026): Unspecified team member removed 2027 holidays from Deel payroll system. Spencer Hoehl humorously expressed excitement about extra ski days at Eldora with his 4-pass ticket; Jack Elston joked that Spencer's enthusiasm confirms the purpose (additional skiing time rather than actual holiday removal error).
+- **Toggl Time Tracking Accuracy Reminder** (November 10, 2026): Cory Dixon requested all team members to update and maintain accurate Toggl times by end of day. Indicates ongoing need for precise time tracking for project accounting and billing purposes.
 
 ## Action Items & Commitments
 
 ### Time-Sensitive
 - **Josh Waldman's Daughter Willow Office Visit** (Friday, November 6, 2026): Josh Waldman will bring his daughter Willow to office for her annual checkup appointment; Josh needs to leave around 4pm
+- **Toggl Time Tracking Updates** (By EOD November 10, 2026): Cory Dixon requested all team members to have Toggl times updated and accurate by end of day
 
 ### Ongoing
 - **Floor Plan Provision for Network Upgrade**: Team members requested to provide Brandon Messersmit with complete BST facility floor plan (drawing, PDF, or photo) showing network jack locations to support Wi-Fi and network upgrade project planning
@@ -95,28 +97,30 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Royal Navy**: Delegation visited BST Boulder facility on November 3, 2026 for full facility tour and Phase 1 & 2 mission discussions; successful visit with simulator setup showcase and facility preparation
 - **Chad Atwood**: External contact providing healthcare provider feedback request
 - **Havenly Bakery**: Adjacent tenant facility with bathroom access arrangement (May 2026)
-- **Eldora Ski Resort**: Providing 4-pass ski tickets to BST team members; Spencer Hoehl planning to use pass frequently
+- **Eldora Ski Resort**: Providing 4-pass ski tickets to BST team members; Spencer Hoehl actively using pass frequently
 - **Werks Restaurant**: Team dining venue in Boulder for Halloween event (October 30, 2026)
 - **Munro**: External source providing shop layout drawing for facility planning/network upgrade project
 - **Dr. Groves**: Dentist for Ethan Domagala (November 5, 2026 appointments)
 - **Enterprise Rental Car**: Vehicle rental service for Brandon Messersmit (November 6, 2026)
 - **Collision Center**: Vehicle repair facility for Brandon Messersmit's vehicle (November 6, 2026)
 - **Ramp**: Company/service referenced in connection with demonstration setup coordinated by Meredith Needham (November 9, 2026)
+- **Futaba**: RC transmitter and receiver manufacturer; unidentified donor contributed 2 Futaba transmitters and several receivers to BST flight operations (November 10, 2026)
 
 ## Recurring Topics & Themes
-- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics; Royal Navy delegation visit successfully executed with facility coordination; team members managing personal appointments during work hours with advance notification; vehicle incident requiring rental car coordination
-- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination; Brandon Messersmit demonstrating productive integration with tool setup initiatives and infrastructure projects; Bob Edson actively contributing to operations (flight testing support, Royal Navy visit coordination)
+- **Travel/Trip Coordination**: Multiple instances of team members out of office requiring advance notice and task handoff coordination; international visitor logistics; Royal Navy delegation visit successfully executed with facility coordination; team members managing personal appointments during work hours with advance notification; vehicle incident requiring rental car coordination; increasing pattern of flexible schedule accommodations for personal needs (banking errands, childcare responsibilities, medical appointments)
+- **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination; Brandon Messersmit demonstrating productive integration with tool setup initiatives and infrastructure projects; Bob Edson actively contributing to operations (flight testing support, Royal Navy visit coordination); Bob Edson continuing to demonstrate flexibility with caregiving responsibilities while maintaining work commitment (November 10, 2026 WFH morning with expected noon arrival)
 - **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination; facility preparation for important visitor events; successful visitor event coordination; active infrastructure modernization (Wi-Fi and network upgrade project; Google Workspace expansion November 9, 2026)
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026; Bob Edson doctor appointment November 3, 2026; Ethan Domagala dental appointments November 5, 2026); team members bringing family members/pets to office for appointments; Ember service dog bringing documented flexibility and team support; vehicle-related absences requiring rental car coordination; Robert Edson leaving early but offering evening availability (November 9, 2026)
-- **Team Perks & Social Activities**: Eldora ski passes distributed with enthusiastic team interest; team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals; Beck Cotter receiving recognition for planning and setup support
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026; Bob Edson doctor appointment November 3, 2026; Ethan Domagala dental appointments November 5, 2026); team members bringing family members/pets to office for appointments; Ember service dog bringing documented flexibility and team support; vehicle-related absences requiring rental car coordination; increased flexibility for personal errands and childcare (Meredith's banking stop November 10; Robert Edson childcare morning November 10; Ali Sulehria early departure November 10)
+- **Team Perks & Social Activities**: Eldora ski passes distributed with enthusiastic team interest; team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals; Beck Cotter receiving recognition for planning and setup support; equipment donations supporting flight operations (Futaba transmitters and receivers November 10, 2026)
 - **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference (Jack confirmed using Gemini for image/media creation); safety policies around code generation; practical AI assistant templates for UAS technician workflows; continued team setup and adoption; Google Workspace expansion with enhanced Gemini integration (November 9, 2026)
 - **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials; Gemini usage for creative tasks to manage Claude API costs
-- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs; pet care responsibilities (Meredith's pet Trixie vet medication pickup); accessibility support through service dog accommodations
+- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs; pet care responsibilities (Meredith's pet Trixie vet medication pickup); accessibility support through service dog accommodations; childcare flexibility for caregivers (Bob Edson morning WFH November 10)
 - **Visitor Preparedness & Facility Showcasing**: Demonstration of company capabilities to external partners (simulator setup showcase appreciated by visiting Royal Navy delegation); team coordination in presenting best impression of facilities and technical capabilities
 - **Document Management & Knowledge Organization**: Brandon Messersmit establishing centralized "Active Work (Unsorted Drafts)" folder for work-in-progress documentation; S0 Assembly Guides (DRAFT) with Onshape drawings and Open Items Tracker for collaborative documentation completion; team members contributing subject-matter expertise to complete technical documentation
 - **Infrastructure & Technical Projects**: Brandon Messersmit leading Wi-Fi and network upgrade project; facility floor plans and network jack documentation required; evidence of technology modernization supporting growing team and operations; Google Workspace infrastructure expansion with enhanced capabilities (November 9, 2026)
-- **Appreciation & Recognition**: Beck Cotter receiving recognition from leadership (Dan Prendergast, Cory Dixon) for event planning and coordination work; Meredith Needham receiving recognition for Ramp demonstration setup (November 9); team using taco emoji reactions to acknowledge helpful contributions; Spencer Hoehl recognized for holiday calendar management (November 9)
+- **Appreciation & Recognition**: Beck Cotter receiving recognition from leadership (Dan Prendergast, Cory Dixon) for event planning and coordination work; Meredith Needham receiving recognition for Ramp demonstration setup (November 9); team using taco emoji reactions to acknowledge helpful contributions; Spencer Hoehl recognized for holiday calendar management (November 9); unidentified team member recognized for Futaba transmitter and receiver donation to flight operations (November 10, taco emoji recognition)
+- **Time & Project Tracking Accuracy**: Emphasis on maintaining accurate Toggl time entries (Cory Dixon November 10) for proper project accounting and billing; alignment with growing complexity of project portfolio and need for precise financial tracking
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -135,42 +139,36 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **Werks Restaurant**: Team dining venue in Boulder
 - **Facility Floor Plans**: Required resource for Wi-Fi and network upgrade project; Brandon Messersmit seeking complete BST facility drawings showing network jack locations
 - **Deel**: Payroll system managing 2027 holiday calendar (updated November 9, 2026)
+- **Toggl**: Time tracking software for accurate project accounting and billing; team members required to maintain accurate entries by end of day (November 10, 2026 reminder from Cory Dixon)
 
 ## Recent Activity
 
-### November 9, 2026
+### November 10, 2026
 
-**Google Workspace Infrastructure Enhancement**
-- Jack Elston performed comprehensive Google Workspace update with three key improvements:
-  1. More storage allocation to support growing team and document management needs
-  2. Enhanced file sharing flexibility for improved collaboration across projects
-  3. Additional Gemini hooks and capabilities expanding AI integration throughout workspace
-- Jack requested team feedback on any remaining issues from the update, indicating supportive infrastructure management and commitment to resolving technical problems quickly
-- Update reflects continued strategic investment in technology infrastructure supporting distributed workforce and collaborative tools
+**Flexible Scheduling & Personal Accommodation Coordination**
+- **Meredith Needham Banking Errand** (08:00): Announced she would be stopping by bank on way to office, arriving a little later than usual. Demonstrates leadership accommodation of personal banking needs without requiring formal time-off request; reflects established culture of flexibility for quick errands.
 
-**2027 Holiday Calendar Management & Team Morale**
-- Unspecified team member removed 2027 holidays from Deel payroll system (November 9, 2026 at 14:16)
-- Spencer Hoehl responded enthusiastically with taco emoji recognition, expressing excitement about the extra days available for skiing at Eldora using his 4-pass ticket
-- Jack Elston humorously acknowledged Spencer's enthusiasm (14:18 at 14:21), joking that Spencer's positive reaction confirms the real purpose of the calendar adjustment (additional skiing rather than error correction)
-- Lighthearted exchange demonstrates:
-  - Strong team culture and workplace camaraderie
-  - Leadership appreciation for employee work-life balance
-  - Recognition of team perks (Eldora pass) and their value to retention
-  - Jack's engagement in team humor and informal communication
+- **Robert Edson Childcare WFH Arrangement** (10:52): Principal UAS Technician Robert Edson informed team he was short a caregiver that morning and would be working from home for a few hours. Committed to being in office before noon. Shows:
+  - Proactive communication about schedule flexibility
+  - Responsibility for communicating caregiving challenges to team
+  - Commitment to meeting midday office arrival deadline
+  - Leadership trust in WFH flexibility for legitimate personal reasons
+  - Integration of new hire into established communication patterns
 
-**Ramp Demonstration Setup Recognition**
-- Meredith Needham gave taco emoji recognition to unspecified team member at 14:52 for setting up the Ramp demonstration (November 9, 2026)
-- Recognition indicates successful completion of demonstration preparation work
-- Continues pattern of team members receiving appreciation for project setup and coordination work
+- **Ali Sulehria Early Departure Notice** (12:34): Notified team of heading home around 3pm (approximately one hour early). Demonstrates consistent pattern of advance notice for schedule changes; shows respect for team coordination.
 
-**Shift Coverage & Availability Communication**
-- Robert Edson (Principal UAS Technician) notified team at 16:23 that he needs to leave early today (November 9) but will be online tonight if team needs anything
-- Demonstrates:
-  - Proactive communication about schedule changes to support team continuity
-  - Flexibility and commitment to availability beyond standard work hours
-  - Integration of new hire (Bob Edson) into team communication patterns and cultural norms
-  - Leadership expectation of flexibility and personal accountability for project support
+**Time Tracking Accuracy Emphasis**
+- **Cory Dixon Toggl Reminder** (10:52): Requested all team members to have Toggl times updated and accurate by end of day. Indicates:
+  - Ongoing importance of precise time tracking for project billing and accounting
+  - Need for accountability in logging hours to appropriate projects
+  - Leadership attention to financial accuracy as company handles multiple concurrent projects
+  - Alignment with growing team size and complexity requiring better tracking discipline
 
----
+**Equipment Donation Recognition**
+- **Futaba Transmitter & Receiver Donation** (12:05): Spencer Hoehl gave enthusiastic taco emoji recognition to an unidentified team member for donating 2 Futaba transmitters and several receivers for flight operations use. Demonstrates:
+  - Team members contributing personal equipment to support company projects
+  - Appreciation culture for generous contributions (taco emoji ritual)
+  - Strengthening flight operations capabilities with donated RC equipment
+  - Community-oriented workplace where personal resources support shared goals
 
-**Summary of November 9 Activity**: Day characterized by infrastructure improvements, positive team morale around perks/benefits, recognition of completed work, and continued commitment to flexible availability. Google Workspace enhancements position company for continued growth and expanded AI capabilities. Team culture shows strong appreciation rituals (taco emoji recognition) and informal leadership communication style.
+**Summary of November 10 Activity**: Day characterized by routine operational flexibility for personal needs (banking, childcare), consistent team communication about schedule changes, emphasis on accurate time tracking for project accounting, and recognition of team member equipment donations. Reflects mature workplace culture with established norms for schedule accommodation and appreciation rituals. Pattern shows BST's ability to maintain operational continuity while supporting team members' personal circumstances through flexible policies and clear communication.

@@ -21,7 +21,7 @@
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-11-09",
+    "as_of": "2026-11-11",
     "completed": 3,
     "name": "[001-04] S0 VTOL IRAD",
     "open": 42,
@@ -42,10 +42,10 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "completed": 17,
     "name": "[001-07] S3 IRAD",
-    "open": 103,
+    "open": 105,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
@@ -182,10 +182,10 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 179,
+    "open": 184,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -462,10 +462,10 @@
     "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-11-10",
-    "completed": 16,
+    "as_of": "2026-11-11",
+    "completed": 14,
     "name": "[550-1] NAVY SBIR: Magnetometer",
-    "open": 4,
+    "open": 6,
     "window": "last 90 days"
   },
   "550-2_navy_sttr_hazardous_weather.md": {
@@ -476,10 +476,10 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-10",
-    "completed": 12,
+    "as_of": "2026-11-11",
+    "completed": 13,
     "name": "[600-1] SOCOM Pope",
-    "open": 57,
+    "open": 55,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
@@ -490,10 +490,10 @@
     "window": "last 90 days"
   },
   "contacts.md": {
-    "as_of": "2026-11-10",
-    "completed": 2,
+    "as_of": "2026-11-11",
+    "completed": 0,
     "name": "Contacts",
-    "open": 103,
+    "open": 104,
     "window": "last 90 days"
   },
   "eventsconferencespr_opportunities.md": {
@@ -553,7 +553,7 @@
     "window": "last 90 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-11",
     "completed": 1,
     "name": "View: Major Milestones & Tasks",
     "open": 11,

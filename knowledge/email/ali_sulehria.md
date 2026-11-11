@@ -1,38 +1,46 @@
 # Ali Sulehria — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 17 emails across 4 days (5–6 Nov, 9 Nov 2026)
+- **Total messages scanned:** 24 emails across 6 days (5–6 Nov, 9–10 Nov 2026)
 - **Volume:** Light; task/project management, automated notifications, and meeting invitations
-- **Pattern:** Concentrated bursts of activity (3 flight test invitations on Nov 9)
+- **Pattern:** Concentrated bursts of activity; notable spike on Nov 10 (4 emails including task assignments and new meeting invitation)
 
 ## Key Correspondents
 
 ### Top Senders
 1. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 3 emails (flight test planning meeting invitations)
-2. **Sam Hild** (sam.hild@blackswifttech.com) — 5 emails (from previous scan)
+2. **Sam Hild** (sam.hild@blackswifttech.com) — 5 emails (including p400s technical discussion)
 3. **Automated systems** — Asana, Claude Team, Toggl (recurring)
-4. **External:** Frank Strazzabosco, Thinh Nguyen
+4. **Ethan Domagala** (via Asana) — 2 emails (Nov 10; task assignments for avionics work)
+5. **Cory Dixon** (cory.dixon@blackswifttech.com) — 2 emails (flight test + new production standup)
+6. **External:** Frank Strazzabosco, Thinh Nguyen (thinh991@yahoo.com)
 
 ### Top Recipients & Meeting Participants
 - Ali appears in recurring meeting groups with:
-  - **Cory Dixon** (cory.dixon@blackswifttech.com)
-  - **Maciej Stachura** (stachura@blackswifttech.com)
-  - **Jack Elston** (elstonj@blackswifttech.com)
-  - **Spencer Hoehl** (organizer)
+  - **Cory Dixon** — now coordinating "Production Team Standup" (new Nov 10)
+  - **Maciej Stachura** (flight test planning)
+  - **Jack Elston** (flight test planning)
+  - **Spencer Hoehl** (organizer, flight test planning)
+  - **Brandon Messersmith, Joshua Waldman, Robert Edson** (new; production standup group)
 
 ### Internal vs External
-- **Internal:** Daniel Prendergast, Sam Hild, Spencer Hoehl, Cory Dixon, Maciej Stachura, Jack Elston (BST domain)
-- **External:** Frank Strazzabosco, Thinh Nguyen
+- **Internal:** Daniel Prendergast, Sam Hild, Spencer Hoehl, Cory Dixon, Maciej Stachura, Jack Elston, Ethan Domagala, Brandon Messersmith, Joshua Waldman, Robert Edson (BST domain)
+- **External:** Frank Strazzabosco, Thinh Nguyen (thinh991@yahoo.com)
 
 ## Topic Patterns
 
 ### Active Projects & Meetings
 - **apCore2 boards** — radio heating issue (technical debugging)
-- **p400s** — product/component collaboration
+- **p400s** — product/component collaboration (Sam Hild + Thinh Nguyen exchange on Nov 10)
+- **Avionics integration & testing** — NEW:
+  - "Test Engineer Bench Test: Build up new avionics/bench…" (assigned by Ethan Domagala, Nov 10)
+  - "Final QC and test checkout: Integrate new avionics into…" (assigned by Ethan Domagala, Nov 10)
 - **Flight test planning** — recurring meetings scheduled for:
   - Thu, Nov 12, 2026 (1–1:30pm MST)
   - Mon, Nov 23, 2026 (1–1:30pm MST)
   - Thu, Nov 26, 2026 (1–1:30pm MST)
+- **Production Team Standup** — NEW recurring meeting:
+  - Weekdays, 9:45–10:00am MST (invitation sent by Cory Dixon, Nov 10)
 
 ### Tools & Automation
 - Asana task management (recurring notifications)
@@ -41,25 +49,32 @@
 
 ## Communication Patterns
 
-- **Recent activity:** Nov 5–6, Nov 9 (with concentrated burst of 3 similar meeting invitations on Nov 9)
+- **Recent activity:** Nov 5–6, Nov 9–10 (with Nov 10 showing significant new task assignments and meeting invitation)
 - **Automated emails:** Regular Asana, Claude Team, Toggl notifications (categorized as updates/promotions)
 - **Meeting pattern:** 
+  - New "Production Team Standup" — weekdays, 9:45–10:00am MST (Cory Dixon organizer)
+  - Recurring flight test planning meetings — Thursdays and occasional Mondays, 1–1:30pm MST
   - Weekly internal BST update (Wednesdays, 1–1:30pm MST) — from previous scan
-  - Recurring "Flight test planning" meetings (multiple instances scheduled, 1–1:30pm MST slot)
 
 ## Key Relationships
 
-- **Spencer Hoehl** (internal) — organizer of flight test planning meetings; emerging as key meeting coordinator
-- **Sam Hild** (internal) — primary technical collaborator on hardware/apCore2 debugging
-- **Cory Dixon, Maciej Stachura, Jack Elston** (internal) — core flight test planning team members
+- **Spencer Hoehl** (internal) — organizer of flight test planning meetings; key meeting coordinator
+- **Cory Dixon** (internal) — now leading production standup; core flight test team member
+- **Ethan Domagala** (internal) — task coordinator for avionics bench test and QC work
+- **Sam Hild** (internal) — primary technical collaborator; p400s discussions with external partners
+- **Maciej Stachura, Jack Elston** (internal) — core flight test planning team members
+- **Thinh Nguyen** (external, thinh991@yahoo.com) — p400s product partner; active correspondence Nov 10
 - **Frank Strazzabosco** (external) — technical issue resolution partner
-- **Thinh Nguyen** (external) — p400s product collaborator
 - **Daniel Prendergast** (internal) — likely manager/team lead
+- **Brandon Messersmith, Joshua Waldman, Robert Edson** (internal) — new production team collaborators
 
 ## Notable Observations
 
-- **Flight testing appears to be a significant upcoming initiative** — three separate meeting invitations for Nov 12, 23, and 26 suggest active planning/iteration phase
-- Ali is part of a **core flight test team** (Spencer, Cory, Maciej, Jack) — indicates hands-on involvement in testing operations
-- **Hardware/embedded systems focus confirmed** — combination of apCore2 debugging, p400s components, and flight testing suggests Ali works on physical product development
-- **Meeting time consistency:** All flight test planning sessions scheduled for 1–1:30pm MST (same slot as weekly update), suggesting structured cadence
-- Sample now includes 17 emails; still limited visibility into full communication depth, but **flight testing emerges as primary current work driver**
+- **Avionics work emerging as immediate priority** — Two task assignments from Ethan Domagala on Nov 10 indicate active bench testing and integration phase for new avionics system
+- **Production team coordination escalating** — New daily standup meeting (9:45am MST) suggests transition from planning into production/implementation phase
+- **Dual workstreams visible:** 
+  - Flight test planning (ongoing, strategic)
+  - Avionics integration/QC (immediate, hands-on technical work)
+- **p400s remains active** — Sam Hild and Thinh Nguyen exchange on Nov 10 indicates continued external collaboration
+- **Meeting intensity increasing** — Ali now has three recurring meeting commitments (weekly update, production standup, flight test planning) plus specific task assignments
+- Sample now includes 24 emails; **avionics integration and production team coordination emerge as new immediate drivers alongside flight testing**
