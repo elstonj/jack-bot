@@ -6,15 +6,11 @@
   "name": "2024 USGS - Chile (Mexico)",
   "status": "active",
   "status_notes": null,
-  "customer": {
-    "name": "USGS (Volcano Science Center)",
-    "type": "government",
-    "contacts": []
-  },
+  "customer": null,
   "contract": {
     "type": "unknown",
     "number": "140G0323P0280",
-    "total_value": 124230.0,
+    "total_value": null,
     "start_date": "2023-09-01",
     "end_date": "2025-09-30",
     "payment_cadence": null,
@@ -33,7 +29,7 @@
         "amount": 21472.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-11"
+        "last_updated": "2026-11-12"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +41,7 @@
         "amount": 7900.83,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-11"
+        "last_updated": "2026-11-12"
       },
       "total": 29373.33,
       "by_line_item": {}
@@ -53,7 +49,7 @@
     "committed": 0.0,
     "remaining": 94856.67,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-11T10:49:06Z"
+    "last_reconciled": "2026-11-12T10:51:32Z"
   },
   "milestones": [
     {
@@ -125,6 +121,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-11T10:49:06Z",
+  "last_full_rebuild": "2026-11-12T10:51:32Z",
   "last_incremental_update": null
 }

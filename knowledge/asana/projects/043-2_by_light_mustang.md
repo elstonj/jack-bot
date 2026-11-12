@@ -1,47 +1,43 @@
-_Asana snapshot as of 2026-11-09: 3 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 3 open tasks, 0 completed (last 90 days)._
 
 # [043-2] By Light Mustang
 
 ## Overview
 - **Client:** By Light Professional IT Services
 - **Contact:** Bryan Sparling (bryan.sparling@bylight.com, 703-224-1000); Technical Lead: Jeff Adelman (jeff.adelman@bylight.com)
-- **Billing POC:** Susan Nguyen (susan.nguyen@bylight.com, 703-526-1849)
-- **Dollar Value:** $450,000 total budget; $450,000 to Black Swift
-- **Timeline:** 2025-12-05 (project start and due date)
-- **Status:** **ARCHIVED** — Project marked complete as of Dec 31
-- **Team:** Whole BST team; Project Owner: Maciej Stachura
+- **Billing Contact:** Susan Nguyen (susan.nguyen@bylight.com, 703-526-1849)
+- **Dollar Value:** $450,000 total budget; $450,000 funding to Black Swift
+- **Timeline:** 2025-10-06 to 2025-12-05 (13 weeks)
+- **Status:** **ARCHIVED** — Project marked complete as of Dec 31, 2025
+- **Team:** BST (Whole Team); Owner: Maciej Stachura
 - **Priority:** High
 - **Customer Type:** Commercial
 
 ## Key Deliverables & Milestones
-Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
 
-| Milestone | Timeline | Budget |
-|-----------|----------|--------|
-| **Effort 1: SwiftCore Integration & Truck Launch** | Week 1 (10/6–10/10) | $100k |
-| **Effort 1: Flight Data Collection & Analysis** | Week 2 (10/13–10/17) | — |
-| **MS1: G2 Design Finalization & COTS Procurement** | Weeks 3–4 (10/20–11/01) | $100k |
-| **MS2: Prototype Assembly & Ground Integration** | Weeks 5–7 (11/03–11/22) | $100k |
-| **MS3 & 4: Flight Testing & Final Deliverables** | Weeks 8–9 (11/24–12/05) | $50k |
+| Phase | Timeline | Budget | Description |
+|-------|----------|--------|-------------|
+| **Week 1** | 10/6–10/10 | $100k | SwiftCore integration & truck launch |
+| **Week 2** | 10/13–10/17 | — | Flight data collection & analysis |
+| **MS1: G2 Design** | 10/20–11/01 | $100k | Design finalization & COTS procurement |
+| **MS2: Prototype** | 11/03–11/22 | $100k | Prototype assembly & ground integration |
+| **MS3/4: Flight Testing** | 11/24–12/05 | $50k | Flight testing & final deliverables |
 
 ## Task Summary
-- **Total Tasks:** 3 open, 0 completed
-- **Open Tasks (unassigned contact records):**
-  1. Bryan Sparling / ByLight Professional IT Services (Open Task Order)
-  2. Spencer Lisenby / DSKinetic LLC (Subcontractor – pilot)
-  3. D. Hesselius / Rocky Mountain High Aviation (Drone pilot)
-
-All three open tasks are administrative contact records with no due dates and no assignees.
+- **Total tasks:** 3 open (all contact/vendor tasks, unassigned)
+- **Completion status:** Project marked complete; no task-level completion data provided
+- **Open items:**
+  - Bryan Sparling (ByLight, Point of Contact) — no due date
+  - Spencer Lisenby / DSKinetic LLC (subcontractor pilot) — no due date
+  - D. Hesselius / Rocky Mountain High Aviation (drone pilot) — no due date
 
 ## Recent Activity
-Project marked complete as of **Dec 31** per status update. All technical work appears concluded.
+- **Project completion:** Marked complete Dec 31, 2025 (per status update)
+- **No recent task updates** in Asana (3 open contact/vendor records remain, likely administrative)
 
 ## Notes & Context
-- **Products/Services:** Consulting; Design/prototyping
-- **Open Task Order** noted for ByLight; suggests final documentation or contracting may still be in flight
-- **Subcontractors involved:** DSKinetic LLC (pilot services) and Rocky Mountain High Aviation (drone pilot)
-- The open tasks are contact/vendor records rather than actionable work items — likely retained for reference or administrative closure
-
----
-
-**Archival Status:** This project has been archived in Asana. Per team feedback (Maciej, 2026-10-27), it was identified as a candidate for closure. No further action expected unless reopened by project owner.
+- **Project scope:** Long-Range Fixed-Wing Evaluation & DoD Autopilot Enablement (BYL-LRFE)
+- **Service type:** Consulting / Design & prototyping
+- **Subcontractor pilots:** DSKinetic LLC (Spencer Lisenby) and Rocky Mountain High Aviation (D. Hesselius) engaged for flight operations
+- **The three open tasks are vendor/contact records**, not active work items — they should be archived or closed out as part of final project closeout
+- **Archival note:** Per Maciej's feedback (2026-10-27), no specific action item was noted for this project among the archival queue, though restructuring of R&D project tracking was underway

@@ -29,12 +29,12 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Joint Forces Command evaluation for Canadian Rangers Arctic operations. ROM/SOW submitted 2026-07-31. Demos: Ottawa June 24\u201326, 2026 (flight test + vendor meet); Whitehorse Arctic Nov\u2013Apr 2027. Customer seeks 120km range (1h 35min TOF) S3 with EO/IR gimbal. End of Q2 2027 target at earliest; no delivery dates promised. Sales planning underway per recent Slack engagement (2026-10-21: no sales plan yet but process organizing next week).",
+  "notes": "Joint Forces Command evaluation for Canadian Rangers Arctic operations. ROM/SOW submitted 2026-07-31. Demos: Ottawa June 24\u201326, 2026 (flight test + vendor meet); Whitehorse Arctic Nov\u2013Apr 2027. Customer seeks 120km range (1h 35min TOF) S3 with EO/IR gimbal. End of Q2 2027 target at earliest; no delivery dates promised. Sales planning underway per Slack (2026-10-21: no sales plan yet but process organizing next week). S3 is current team priority (Slack 2026-10-12).",
   "missing_fields": [
     "ship_to",
     "receive_by",
     "parts"
   ],
-  "last_evidence_date": "2026-10-21",
+  "last_evidence_date": "2026-11-11",
   "last_contact_date": null
 }

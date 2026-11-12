@@ -1,49 +1,68 @@
-_Asana snapshot as of 2026-11-11: 11 open tasks, 1 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 11 open tasks, 1 completed (last 90 days)._
 
-# BST Major Milestones & Tasks
+# Major Milestones & Tasks
+
+## Status
+**ARCHIVED** — This is a high-level milestone tracking view for the whole BST team, no longer in active development.
+
+Per Maciej (2026-10-28): This project is marked for archival to preserve historical data on assignments and completions for future AI training purposes (Jack, 2026-10-26).
 
 ## Overview
-- **Status**: ARCHIVED
+- **Scope**: BST-wide major milestones and task tracking view
+- **Team**: Whole organization (Maciej Stachura, Josh Fromm, Sam Hild, Jack Elston, and others)
 - **Timeline**: October 2026 – January 2027
-- **Team members involved**: Sam Hild, Josh Fromm, Maciej Stachura, Jack Elston
-- **Risk signals**: Project is archived with 11 open tasks and only 1 completed task. All milestones and deliverables remain open despite archive status—this suggests the project was either paused, moved to external tracking, or the Asana workspace was not properly closed out.
+- **Activity**: Most milestones have passed their due dates; this appears to be a historical snapshot rather than an active tracking project
 
 ## Key Deliverables & Milestones
 
-| Milestone | Assignee | Due Date | Status |
-|-----------|----------|----------|--------|
-| [MILESTONE] Close out AP Release Candidate | Jack Elston | 2026-11-04 | ✓ COMPLETED (2026-11-09) |
-| [MILESTONE] Conduct Mission | Unassigned | 2026-10-01 | OPEN |
-| [MILESTONE] Finish payload updates | Unassigned | 2026-10-23 | OPEN |
-| [MILESTONE] Ship Aircraft and Equipment | Unassigned | 2026-10-26 | OPEN |
-| [MILESTONE] Conduct local flight testing | Unassigned | 2026-11-06 | OPEN |
-| [MILESTONE] Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | OPEN |
+| Milestone | Owner | Due Date | Status |
+|-----------|-------|----------|--------|
+| Close out AP Release Candidate | Jack Elston | 2026-11-04 | ✅ COMPLETED (2026-11-09) |
+| Conduct Mission | Unassigned | 2026-10-01 | ⚠️ OVERDUE |
+| Finish payload updates | Unassigned | 2026-10-23 | ⚠️ OVERDUE |
+| Ship Aircraft and Equipment | Unassigned | 2026-10-26 | ⚠️ OVERDUE |
+| Sort out flight, radio, shipping, and import permissions | Unassigned | 2026-11-04 | ⚠️ OVERDUE |
+| Conduct local flight testing | Unassigned | 2026-11-06 | ⚠️ OVERDUE |
+| Power Board Complete | Sam Hild | 2026-11-17 | ⏳ OPEN |
+| 50 Hover Tests | Maciej Stachura | 2026-11-23 | ⏳ OPEN |
+| Initial Transition Test | Maciej Stachura | 2026-11-24 | ⏳ OPEN |
+| 5 hours of Forward Flight | Maciej Stachura | 2026-12-01 | ⏳ OPEN |
+| Deliver 2 INSTAAR S3's | Josh Fromm | 2026-12-31 | ⏳ OPEN |
+| Deliver UMES S3 | Josh Fromm | 2027-01-15 | ⏳ OPEN |
 
 ## Task Summary
-
-**Open vs. Completed**: 11 open, 1 completed
-
-**By Assignee**:
-- **Maciej Stachura**: 3 tasks (flight testing)
-  - 50 Hover Tests (Due 2026-11-23)
-  - Initial Transition Test (Due 2026-11-24)
-  - 5 hours of Forward Flight (Due 2026-12-01)
-- **Josh Fromm**: 2 tasks (equipment delivery)
-  - Deliver 2 INSTAAR S3's (Due 2026-12-31)
-  - Deliver UMES S3 (Due 2027-01-15)
-- **Sam Hild**: 1 task (power systems)
-  - Power Board Complete (Due 2026-11-13)
-- **Unassigned**: 5 tasks (all milestones)
-- **Jack Elston**: 1 task (completed)
+- **Total**: 12 tasks (11 open, 1 completed)
+- **Completion rate**: 8% (1/12)
+- **Key assignees**:
+  - **Maciej Stachura**: 3 flight test tasks (50 hover tests, initial transition, 5 hrs forward flight)
+  - **Josh Fromm**: 2 delivery tasks (INSTAAR S3s, UMES S3)
+  - **Sam Hild**: 1 task (Power Board)
+  - **Jack Elston**: 1 task (AP Release Candidate — completed)
+  - **Unassigned**: 5 milestones (multiple overdue)
 
 ## Recent Activity
-- Only one task has been closed: "Close out AP Release Candidate" by Jack Elston (completed 2026-11-09, three days after the due date of 2026-11-04).
-- All other 11 tasks remain open despite the project being archived.
-- Flight testing tasks dominate the active workload (Maciej Stachura), with key tests scheduled November 23–December 1, 2026.
-- Equipment deliveries are scheduled through January 2027.
+- **2026-11-09**: AP Release Candidate milestone marked complete by Jack Elston (5 days after due date)
+- **2026-10-27 – 2026-10-28**: Maciej initiated archival review; Jack confirmed completion status and approved archival for historical reference
+- **Pattern**: Multiple unassigned milestones with October–November due dates have passed without completion or closure
 
 ## Notes & Context
-- **Aircraft development project**: References to flight hours, hover tests, forward flight, and transition tests indicate this is an aircraft platform development effort.
-- **Payload and equipment**: References to S3 sensors (INSTAAR S3, UMES S3), power board, radio, and shipping suggest integration of scientific payloads.
-- **QC-driven closeout criteria**: Multiple tasks require QC checks and pass/fail flight tests as closure conditions.
-- **Archive status contradiction**: The project is marked archived but contains nearly all open tasks with future due dates into 2027. This suggests either: (a) the project was archived prematurely without task closure, (b) work moved to a different tracking system, or (c) the archive is a workspace cleanup artifact. **Recommend verifying actual project status with the team.**
+
+### Archival Status
+Per Jack (2026-10-26): "Yes - please archive so we can always reference for what was assigned / completed / etc. I do believe that tasks timing and assignments will eventually be very useful when using AI to generate these things automatically and we need training sets."
+
+This project is being retained as a **training dataset** for future AI-driven planning and forecasting.
+
+### Data Quality Issues
+- **5 milestones are unassigned** and overdue, suggesting this view may be a rollup that lost assignment detail or represents organizational-level milestones rather than specific task owners
+- **Stale data**: The majority of milestone due dates are in October 2026, well past this snapshot date, suggesting this view was not actively maintained
+
+### Related Archival Projects
+Maciej flagged several sister projects for archival (2026-10-27):
+- [212-1] S2 Simulator
+- [452-2] S2 Simulator & used E2 Battery  
+- [212-2] NASA S2 & Parts
+- [043-3] ByLight M2/Halo
+- [032-3] Sasquatch S0s x 4
+- [012-3] ERAU Model S0
+
+These should be reviewed alongside this milestone view for context.

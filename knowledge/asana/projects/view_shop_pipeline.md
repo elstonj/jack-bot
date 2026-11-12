@@ -1,32 +1,30 @@
-_Asana snapshot as of 2026-11-09: 2 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 2 open tasks, 0 completed (last 90 days)._
 
 # Shop Pipeline
 
 ## Overview
-- **Client/Customer**: Multiple (NOAA, NASA Langley)
-- **Dollar Value**: Not specified in task data
-- **Timeline**: Active orders with delivery tracking; nearest deadline 2026-11-16 (NASA Langley)
-- **Status**: Active — tracking aircraft inventory and manufacturing pipeline
-- **Team Members**: Unassigned (whole team visibility)
-- **Risk Signals**: 
-  - 2026 Hurricane NOAA has no due date (incomplete order definition)
-  - NASA Langley S0's due 2026-11-16 with no assignee despite being in Assembly stage
+- **Client/customer**: NOAA (Hurricane), NASA Langley
+- **Status**: Active — tracking aircraft inventory and manufacturing needs
+- **Team members**: BST (whole team); currently unassigned tasks
+- **Risk signals**: One task with no due date; NASA Langley S0's approaching deadline (2026-11-16)
 
 ## Key Deliverables & Milestones
-| Order | Platform | Qty | Manufacturing Stage | Due Date |
-|-------|----------|-----|-------------------|----------|
-| NASA Langley S0's | S0 AD | 2 | Assembly | 2026-11-16 |
-| 2026 Hurricane NOAA | — | — | — | *No due date* |
+| Deliverable | Client | Due Date | Quantity | Stage |
+|---|---|---|---|---|
+| NASA Langley S0's | NASA Langley | 2026-11-16 | 2 | Assembly |
+| 2026 Hurricane NOAA | NOAA | TBD | — | — |
 
 ## Task Summary
-- **Total**: 2 open, 0 completed
-- **By Status**: Both tasks are open/unassigned
-- **Notable Pattern**: This appears to be an inventory tracking view rather than a detailed task board — minimal task assignment, relying on custom fields (Order Quantity, Manufacturing Stage, Platform) for visibility
+- **Total tasks**: 2 open, 0 completed
+- **By assignee**: Both tasks currently unassigned
+- **Notable pattern**: Project is a pipeline tracker (not execution); uses custom fields for order quantity, manufacturing stage, and platform identification
 
 ## Recent Activity
-No completed tasks. Both orders remain in pipeline with no recent closure.
+No completed tasks. NASA Langley S0's due 2026-11-16 (approx. 3 weeks out) in Assembly stage. NOAA Hurricane aircraft has no due date assigned.
 
 ## Notes & Context
-- **Structural Note**: Per Maciej (2026-10-27), BST is restructuring Asana to separate long-term milestone planning from weekly execution (managed on physical Kanban board). This Shop Pipeline view may be part of that 6-month rolling milestone plan.
-- **Facility Note**: Joshua Fromm reported a leaky roof in the new shop (2026-10-14), noted as non-urgent (located away from stored equipment).
-- **Data Gap**: 2026 Hurricane NOAA order is missing due date and manufacturing stage details — needs immediate clarification to prioritize against NASA Langley deadline.
+**Project purpose**: This is an inventory and manufacturing pipeline view — it surfaces what aircraft are in the shop, when they're due, and their manufacturing status (Assembly, etc.). It feeds into weekly engineering execution tracked on the physical Kanban board.
+
+**Team restructuring in progress** (Maciej, 2026-10-27): BST is implementing a two-level planning system where Asana tracks long-term milestones and upcoming weekly tasks, while the Kanban board manages weekly engineering execution. This project may be reorganized as part of that effort.
+
+**Facility note** (Joshua Fromm, 2026-10-14): Leaky roof in new shop identified in center area. Not urgent (no equipment/inventory affected currently).

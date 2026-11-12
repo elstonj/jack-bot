@@ -1,21 +1,21 @@
-_Computed from Toggl as of 2026-11-08: 1270.5 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 284.5 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+_Computed from Toggl as of 2026-11-12: 1278.5 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 292.5 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
 
 # [001-13] BD Pipeline — Time Tracking
 
 ## Overview
 - **Client:** Overhead (internal)
-- **Active:** Yes
+- **Active Status:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 1,270.5 hours (since 2020-01-01)
+- **Total Hours Tracked:** 1,278.5 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 472.5 | 37.2% |
-| Jack Elston | 284.5 | 22.4% |
-| Stachura | 267.0 | 21.0% |
-| Beck Cotter | 154.4 | 12.2% |
-| Kareem Ahmed | 51.6 | 4.1% |
+| Dan | 472.5 | 36.9% |
+| Jack Elston | 292.5 | 22.9% |
+| Stachura | 267.0 | 20.9% |
+| Beck Cotter | 154.4 | 12.1% |
+| Kareem Ahmed | 51.6 | 4.0% |
 | Spencer Hoehl | 20.2 | 1.6% |
 | Josh Fromm | 19.2 | 1.5% |
 | Nate | 1.0 | 0.1% |
@@ -23,21 +23,20 @@ _Computed from Toggl as of 2026-11-08: 1270.5 h total since 2020-01-01 — Dan 4
 **Primary Contributor:** Dan (472.5 hours)
 
 ## Activity Timeline
-Recent activity (32 most recent entries) shows a mix of business development initiatives and strategic meetings:
+Recent work centers on business development and partnership activities:
 
-**Key Projects/Activities:**
-- **UK RAVEN Project:** Jack Elston leading kickoff efforts (8.0 hours across multiple entries)
-- **Royal Navy Visit:** Stachura primary contributor (15.8 hours combined)
-- **EAB Meeting:** Jack Elston (19.8 hours across two entries)
-- **Vantor Engagement:** Multiple team members (Stachura and Jack Elston combined 2.8 hours, plus Jack's visit with Brian Argrow)
-- **White Paper Development:** Jack Elston leading NOAA sensor discussion and BST White Paper discussions (4.0+ hours)
-- **Fletch Aero Partnership:** Initial engagement (0.5 hours)
-- **BST/KS Internal SOCOM Kickoff:** Jack Elston (1.0 hour)
+- **EAB Meeting:** Jack Elston (19.8 hours combined)
+- **Royal Navy Visit:** Stachura (15.8 hours combined)
+- **UK RAVEN Project Kickoff:** Jack Elston (8.0 hours combined)
+- **Travel to Keesler AFB:** Jack Elston (8.0 hours)
+- **White Paper discussions:** Jack Elston and associated work (3.0 hours documented)
+- **Partner engagement:** Vantor visits/meetings (Stachura, 1.8 hours); Fletch Aero coordination (Jack Elston, 0.5h); Vantor Aerostar meeting (Stachura, 2.2h)
+- **Internal kickoffs:** BST/KS Internal SOCOM Kickoff (Jack Elston, 1.0h)
 
-**Work Pattern:** Dan has significant undocumented time entries (32+ hours in recent sample with no descriptions). Jack Elston and Stachura provide detailed documentation of client/partner interactions.
+Significant portion of recent entries lack descriptions (Dan's entries particularly undocumented).
 
 ## Insights
-- **Focus Areas:** Partnership development (Vantor, Fletch Aero), international business development (Royal Navy, UK RAVEN), and internal strategic initiatives (SOCOM, EAB)
-- **Activity Distribution:** Recent work is heavily concentrated on three major initiatives (Royal Navy, EAB meetings, UK RAVEN), with secondary efforts on white paper/thought leadership and partnership vetting
-- **Documentation Gap:** ~23% of recent tracked time lacks descriptions, primarily attributed to Dan
-- **Team Composition:** Core team of 3 (Dan, Jack Elston, Stachura) accounts for 80.6% of all tracked hours; secondary contributors bring specialized support
+- **Work Type:** Business development pipeline activities—client meetings, proposal/white paper development, partnership visits, and program kickoffs
+- **Activity Pattern:** Mix of documented (meetings, events, travel) and undocumented work; Jack Elston focuses on specific initiatives (EAB, RAVEN, white papers); Dan carries largest load with minimal description transparency
+- **Recent Focus Areas:** UK RAVEN project, Royal Navy engagement, EAB involvement, and NOAA/sensor-related business development
+- **Distribution:** Leadership/BD roles concentrated among top three contributors (Dan, Jack Elston, Stachura); Beck Cotter and others provide supporting capacity

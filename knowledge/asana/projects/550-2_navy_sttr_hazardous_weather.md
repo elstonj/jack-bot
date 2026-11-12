@@ -1,53 +1,51 @@
-_Asana snapshot as of 2026-11-09: 7 open tasks, 3 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 7 open tasks, 3 completed (last 90 days)._
 
 # Navy STTR: Hazardous Weather [550-2]
 
 ## Overview
-- **Client:** U.S. Department of the Navy / Office of Naval Research
-- **TPOC:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil, 407-696-0703)
-- **Total Budget:** $146,326 | **BST Funding:** $138,494
+- **Client:** Department of the Navy (Office of Naval Research)
+- **TPOC:** Joshua Cosseth (joshua.h.cossuth.civ@us.navy.mil)
+- **Total Budget:** $146,326 (BST allocation: $138,494)
+- **Subcontractor Funding:** $66,290 (ERAU and Old Dominion University)
 - **Timeline:** 
-  - Base Period: 7/7/2025 – 1/6/2026 ✓ (completed)
-  - Option Period: 1/7/2026 – 7/6/2026 ✓ (completed)
-  - Final milestone due: 9/1/2026 ✓ (completed)
-- **Status:** ✅ **COMPLETE** — All key deliverables (Final Report, invoicing) submitted on 9/1/2026
-- **Project Owner:** Maciej Stachura
-- **Team:** BST (whole team)
+  - Base Period: 7/7/2025 – 1/6/2026
+  - Option Period: 1/7/2026 – 7/6/2026
+  - Project Due Date: 9/1/2026
+- **Status:** Active (green)
+- **Team:** Maciej Stachura (Owner), BST whole team
+- **Subcontractors:**
+  - Josh Wadler (Embry-Riddle Aeronautical University) – wadlerj@erau.edu
+  - John Park (Old Dominion University) – h1park@odu.edu
+  - Jun Zhang (University of Miami, funded through ERAU) – jun.zhang@earth.miami.edu
 
 ## Key Deliverables & Milestones
-| Deliverable | Due | Status | Notes |
-|---|---|---|---|
-| OPTION CLIN 0007: Final Report | 9/1/2026 | ✅ Completed | Submitted by Maciej Stachura on 9/1/2026 |
-| CLIN 1007 Invoice ($14,446) | 9/1/2026 | ✅ Completed | Submitted 9/1/2026 via WAWF system |
-| Pioneer Array Flight | 7/28/2026 | ✅ Completed | Assigned to Alex Lomis; completed 9/9/2026 |
-
-## Subcontractors & Funding
-- **ERAU (Embry-Riddle Aeronautical University):** Josh Wadler (wadlerj@erau.edu)  
-  Contracting Officer: Garrett Filson (filsong@erau.edu)
-- **Old Dominion University:** John Park (h1park@odu.edu)  
-  Contracting Officer: Stephanie Haskell (sl2harri@odu.edu)
-- **University of Miami:** Jun Zhang (Jun.zhang@earth.miami.edu)  
-  Funding flows through ERAU subcontract; include on all correspondence
-- **Total Subcontractor Spend:** $66,290
-
-**Billing:** WAWF system (Wide Area Workflow) — see [invoicing instructions](https://docs.google.com/document/d/1Ea2PCGd6xCM0RdUq0AGeMnHPoyHjwV-WrF-1N7E4-Vc/edit?usp=sharing)
+- **Pioneer Array Flight** – Completed 9/9/2026 (due 7/28/2026 — completed late)
+- **Option Period CLIN 0007 Final Report** – Completed 9/1/2026 (due 9/1/2026)
+- **CLIN 1007 Invoice ($14,446)** – Completed 9/1/2026 (invoicing through WAWF system)
 
 ## Task Summary
-- **Total:** 10 tasks (3 completed, 7 open)
-- **Completed:** 
-  - Final Report (Maciej Stachura)
-  - CLIN 1007 Invoice ($14,446) (Meredith O'hara Needham)
-  - Pioneer Array Flight (Alex Lomis)
-- **Open Tasks:** Primarily contact/reference records for subcontractors and Navy TPOC (no active work items)
+- **Total tasks:** 10 (7 open, 3 completed)
+- **Completion rate:** 30%
+- **Open tasks:** Primarily administrative/contact records for subcontractors and Navy TPOC; no active engineering tasks currently tracked in Asana
+
+| Assignee | Open | Completed | Notes |
+|----------|------|-----------|-------|
+| Unassigned | 7 | — | Contact records for Wadler, Park, Zhang, Cosseth (Navy) |
+| Alex Lomis | — | 1 | Pioneer Array Flight (completed late) |
+| Meredith O'hara Needham | — | 1 | CLIN 1007 Invoice submission |
+| Maciej Stachura | — | 1 | Option Period Final Report |
 
 ## Recent Activity
-- **9/1/2026:** Final Report and invoice submitted on schedule — project objectives achieved
-- **9/9/2026:** Pioneer Array Flight completed (slightly delayed from 7/28 target, but post-project-completion date suggests this was optional or continuing activity)
-- **Project close-out complete** as of early September 2026
+- **9/9/2026:** Pioneer Array Flight completed (2+ months overdue from 7/28/2026 target)
+- **9/1/2026:** Option Period CLIN 0007 Final Report and CLIN 1007 Invoice both submitted on schedule
+- Project transitioned from Base Period (ended 1/6/2026) to Option Period (active through 7/6/2026)
 
 ## Notes & Context
-- Research objective: Refining the S0 platform and demonstrating utility for operational Navy use through targeted R&D
-- **Billing POC:** Joshua Cosseth (Navy) | **Admin POC:** Joshua Cosseth (Navy)
-- **Invoice tracking:** CLIN 1007 ($14,446) and OPTION CLIN 0007 are primary billing line items
-- Open Asana tasks are administrative contacts and reference materials, not active work items
-- **Unresolved Admin Note (from Team Feedback):** Spencer Hoehl inquired on 11/2–11/3/2026 about EPA ID and hazardous materials disposal within calendar year — unclear if related to this project or general company compliance. May warrant follow-up with Compliance/Admin.
+- **Subcontractor structure:** BST is prime → ERAU is direct subcontractor → University of Miami (Jun Zhang) is sub-sub through ERAU
+- **Contracting officers (pre-award):**
+  - Garrett Filson (ERAU) – filsong@erau.edu
+  - Stephanie Haskell (ODU) – sl2harri@odu.edu
+- **Project objective:** Refine S0 platform and demonstrate operational utility for Navy use
+- **Billing:** All invoices submitted through WAWF (Wide Area Workflow) system
+- **Risk signal:** Pioneer Array Flight was 2+ months overdue. Current open tasks are largely administrative contact records with no assigned action owners or due dates — suggests primary work may be tracked externally or on the physical Kanban board (per Maciej's 10/27 restructuring note)
+- **EPA inquiry pending:** Spencer Hoehl asked (11/2–11/3/2026) whether BST has an EPA ID and if hazardous materials have been disposed of within calendar year — **no response logged**. May relate to this project's Navy R&D scope.

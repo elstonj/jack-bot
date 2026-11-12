@@ -1,17 +1,15 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-11 02:35
+Last scanned: 2026-11-12 02:38
 
-Total channels scanned: 6
+Total channels scanned: 4
 
 ## Channels
 
-- **#flight-testing** -- 3 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#marketing** -- 1 messages -- [marketing.md](marketing.md)
-- **#s3** -- 21 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 4 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 1 messages -- [swiftcore.md](swiftcore.md)
+- **#flight-testing** -- 16 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 9 messages -- [general.md](general.md)
+- **#operations** -- 4 messages -- [operations.md](operations.md)
+- **#s3** -- 15 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
@@ -20,35 +18,31 @@ Total channels scanned: 6
 ## Cross-Channel Themes
 
 ### Active Projects
-- **S0 Unmanned Aircraft System**: Hurricane reconnaissance focus (#sbir-hurricane) with extensive technical development and mission planning
-- **S3 VTOL Aircraft**: Hybrid fixed-wing/quadcopter platform targeting 2-3 hour endurance (#s3)
-- **SwiftCore Drone System**: Firmware, tablet application, and flight test coordination (#swiftcore)
-- **Flight Testing Operations**: Multi-platform testing across S-series, E2, Flamewheel, S0, S1-VTOL, and S3 (#flight-testing)
+- **S3 VTOL Aircraft**: Primary development focus with emphasis on hybrid fixed-wing/quadcopter design, tilting rotors, and 2-3 hour endurance targets
+- **Flight Testing Operations**: Ongoing testing across multiple platforms (S-series, E2, Flamewheel, S0, S1-VTOL, S3)
+- **Firmware/Software Development**: Continuous iteration supporting fleet-wide operations
 
-### Key Personnel & Roles
-- **Jack Elston**: Leadership, strategy, firmware development oversight
-- **Joshua Fromm**: Lead engineer/designer, RF components, CAD, antenna expertise, battery design
-- **Maciej**: Flight testing lead, firmware development, analysis
-- **Dan Prendergast**: Business development, operations
-- **Danny Troke**: Technical development across multiple projects
-- **Ben Busby**: SwiftCore tablet application development
+### Key Leadership & Decision Makers
+- **Jack Elston**: Executive leadership, strategic decisions, cross-functional coordination
+- **Joshua Fromm**: Technical lead (design, engineering, RF/antenna expertise, CAD, parts validation, battery design, hardware/shop operations)
+- **Maciej**: Flight testing operations, firmware development, analysis
+- **Dan Prendergast**: Business development and operational strategy
+- **Meredith Needham**: Finance and administrative oversight
 
 ### Decision Patterns
-- Technical decisions flow from engineering teams (#s3, #swiftcore, #flight-testing) to leadership approval
-- Company-wide announcements and operational decisions centralized in #general
-- Marketing strategy aligns with product development timelines
-- Flight testing feedback drives firmware iterations and design refinements
+1. **Technical decisions** flow through #s3 and #flight-testing with Joshua Fromm and Maciej as primary drivers
+2. **Operational/logistical decisions** documented in #operations with Jack Elston and Meredith Needham overseeing
+3. **Company-wide announcements and coordination** centralized in #general
 
 ### Recurring Topics
-- Firmware development and bug fixes (swiftcore, flight-testing)
-- Aircraft design refinement and parts validation (s3, sbir-hurricane)
-- Flight test coordination, troubleshooting, and payload integration
-- SBIR grant milestones and hurricane mission planning
-- Website/marketing content strategy and conference participation
+- Hardware sourcing and parts validation
+- Battery design and performance optimization
+- Firmware debugging and testing protocols
+- Facility/logistics management
+- Financial and administrative tracking
 
 ### Cross-Channel Connections
-- Flight testing results (#flight-testing) inform firmware priorities in #swiftcore
-- Aircraft design discussions (#s3, #sbir-hurricane) impact flight testing scope
-- Project milestones from #sbir-hurricane and #s3 feed announcements to #general
-- Marketing campaigns (#marketing) leverage technical achievements from active projects
-- Operational decisions in #general cascade to all technical channels
+- **S3 development** (#s3) → **Flight testing** (#flight-testing) → **Operations tracking** (#operations)
+- Firmware issues identified in flight testing feed back into design considerations for S3
+- Resource allocation decisions span operations and project channels
+- Jack Elston serves as connective node across leadership decisions (#general, #operations)

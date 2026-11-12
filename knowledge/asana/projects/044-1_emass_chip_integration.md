@@ -1,45 +1,32 @@
-_Asana snapshot as of 2026-11-09: 0 open tasks, 4 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 0 open tasks, 4 completed (last 90 days)._
 
 # [044-1] EMASS Chip Integration
 
 ## Overview
-- **Client:** EMASS (Commercial)
-- **Total Budget:** $90,000 (all to Black Swift)
-- **Timeline:** Originally 11/10/2025 – 1/31/2026; dates subsequently changed with no formal end date set
-- **Status:** ARCHIVED (as of June 2026)
-- **Team:** Dan Prendergast (Owner), Meredith O'hara Needham, Maciej Stachura
-- **Priority:** Medium
+- **Client/Customer:** EMASS
+- **Dollar Value:** $90,000 total funding to Black Swift
+- **Timeline:** Original 11/10/2025–1/31/2026 (dates subsequently changed; no set end date as of project notes)
+- **Status:** ARCHIVED (all tasks completed as of September 2026)
+- **Team Members:** Dan Prendergast (Owner), Meredith O'hara Needham, Maciej Stachura
+- **Customer Type:** Commercial
+- **Products/Services:** Custom Payload, E2
 
-## Key Deliverables & Milestones
+## Key Context & Financial History
+As of June 2026, the client disputed payment for the final milestone ($35k) because the final report was not completed on schedule. The team restructured this milestone into two phases:
+- **Milestone 4a: Engineering support + flights** — $25k
+- **Milestone 4b: Final reports** — $10k
 
-**Original structure:** Four milestones totaling $90,000
-
-**June 2026 Restructuring:**
-- **Milestone 4a:** Engineering support + flights — $25,000
-- **Milestone 4b:** Final reports — $10,000
-- **Forward billing:** Per-flight-day rate (replacing original milestone structure)
-
-**Context:** EMASS declined to pay the final milestone on the original agreement ($35k) because BST did not complete a final report as originally contracted. The split structure above reflects the renegotiation.
+Going forward, billing transitioned to a per-flight-day model rather than milestone-based.
 
 ## Task Summary
-- **Total tasks:** 4 completed, 0 open
-- **Completion rate:** 100% (archived project)
-- **Final deliverables completed:**
-  - Final Report (Dan Prendergast) — completed 2026-08-24
+- **Total Tasks:** 4 completed, 0 open
+- **Completion Timeline:**
   - Data analysis (Maciej Stachura) — completed 2026-08-24
-  - Final invoice sent to EMASS (Meredith O'hara Needham) — completed 2026-09-04
+  - Final Report (Dan Prendergast) — completed 2026-08-24
+  - Final invoice to EMASS (Meredith O'hara Needham) — completed 2026-09-04 (due 2026-08-28, 7 days late)
 
 ## Recent Activity
-- **2026-09-04:** Final invoice sent to EMASS for final report (completed)
-- **2026-08-24:** Final report and data analysis completed
-- **June 2026:** Milestone renegotiation completed; project billing model changed to per-flight-day rate
+Project concluded in August–September 2026 with final data analysis, report generation, and invoicing completed. Final invoice sent to EMASS 2026-09-04.
 
-## Notes & Context
-- **Products/Services:** Custom Payload, E2
-- **Scope:** Chip integration work with flights component
-- **Financial dispute resolved:** Customer initially refused $35k final milestone payment; BST negotiated a split model ($25k engineering/flights + $10k reports) to close the matter
-- **Billing model changed:** Moving from fixed milestones to per-flight-day basis for future work
-
----
-
-**RELATED PROJECT:** See [047-01] Helicopter Integration (Royal Navy/Lockheed Martin project assigned 2026-10-29)
+## Notes
+The original contract structure experienced friction over milestone 4 deliverables. No additional tasks are pending; the project is fully archived.

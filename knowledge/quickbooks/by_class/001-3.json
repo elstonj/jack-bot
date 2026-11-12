@@ -5,8 +5,8 @@
     "[001] Black Swift Technologies - IRAD:(001-3) IRAD S0"
   ],
   "period": {
-    "start": "2024-11-11",
-    "end": "2026-11-11"
+    "start": "2024-11-12",
+    "end": "2026-11-12"
   },
   "totals": {
     "revenue": 0.0,
@@ -62,6 +62,29 @@
     {
       "type": "Purchase",
       "date": "2026-11-05",
+      "doc_number": "",
+      "total": 54.8,
+      "attributed": 27.4,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA 261104PPZFYP NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 27.4,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Switch Guard Aluminum 1-Inch"
+        },
+        {
+          "amount": 27.4,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Switch Guard Aluminum 1-Inch"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
       "doc_number": "JT72163",
       "total": 306.6,
       "attributed": 117.88,
@@ -107,29 +130,6 @@
           "amount": 757.68,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-11-04",
-      "doc_number": "",
-      "total": 54.8,
-      "attributed": 27.4,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Paid via paypal",
-      "lines": [
-        {
-          "amount": 27.4,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Switch Guard Aluminum 1-Inch"
-        },
-        {
-          "amount": 27.4,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Switch Guard Aluminum 1-Inch"
         }
       ]
     },

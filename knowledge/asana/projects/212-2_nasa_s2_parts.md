@@ -1,50 +1,40 @@
-_Asana snapshot as of 2026-11-09: 0 open tasks, 10 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 0 open tasks, 10 completed (last 90 days)._
 
-# [212-2] NASA S2 & Parts
-
-## Status
-**ARCHIVED** (as of 2026-10-27–2026-10-28, per Maciej's archival feedback)
-
-This project is complete and ready for closure. All deliverables have been shipped to NASA; only administrative tasks remain (invoicing).
+# NASA S2 & Parts
 
 ## Overview
-- **Client:** NASA (Will Wade, primary contact)
-- **Point of Contact:** Isaac Anderson (650-602-5988, isaac.e.anderson@nasa.gov)
-- **Total Funding:** $89,844
-- **Timeline:** 
-  - Project start/due: 2026-09-30
-  - Delivery deadline: 2026-09-30 (met)
-  - PO No.: 80NSSC25PC031
-- **Status:** Archived – all deliverables complete and shipped
-- **Team:** Black Swift Technologies (whole team contributed)
+- **Client:** NASA (Will Wade)
+- **Contact:** Isaac Anderson, 650-602-5988, isaac.e.anderson@nasa.gov
+- **Dollar value:** $89,844
+- **Timeline:** Due 2026-09-30 (deadline passed; delivery by 9/30/2026)
+- **Status:** **ARCHIVED** — Per Maciej (2026-10-27/28), this project is ready for archival. All work appears complete; final tasks were marked done 2026-10-27.
+- **Team:** Josh Fromm, Jack Elston, Spencer Hoehl (and broader BST team)
+- **PO:** 80NSSC25PC031
 
-## Key Deliverables
-- S2 platform and replacement parts (end-of-life product)
-- Launcher (refurbished)
-- Control system tablets and GCS (Ground Control System)
-- Battery and joystick calibration
+## Key Deliverables & Milestones
+All tasks completed as of 2026-10-27. Final deliverables included:
+- S2 platform parts & components (end-of-life product)
+- Launcher refurbishment
+- GCS (Ground Control Station) equipment setup and calibration
+- Aircraft preparation (flap panels, aileron panels, ruddervator inserts, spare tail, joystick trim)
 
-**Note:** Isaac Anderson requested a parts breakdown including full S2 cost on 2026-07-11. Estimate 1362 was provided on 2026-07-18 noting that S2 is end-of-life as the team transitions to S3 platform.
+**Original deadline:** 2026-09-30 (approved for end of FY2025)
 
 ## Task Summary
-- **Total tasks:** 10 (all completed)
-- **Completion rate:** 100%
-- **Recent closures (2026-10-27):**
-  - Structural work: flap panels, aileron panels, ruddervator inserts, spare tail (all with HiTEC)
-  - Launcher refurbishment
-  - Launcher solenoid fix (Josh Fromm)
-  - Battery calibration (Jack Elston)
-- **Earlier completions (2026-09-17–2026-09-21):**
-  - Joystick trim fix (Spencer Hoehl)
-  - Tablet setup and sensor file loading (Spencer Hoehl)
+- **Total tasks:** 0 open, 10 completed (100% completion)
+- **Recent completions:** All 10 tasks marked complete on 2026-10-27, shortly after Maciej's archival request
+- **Key assignees:**
+  - Spencer Hoehl: 3 tasks (GCS tablet setup, sensor file loading, joystick trim)
+  - Josh Fromm: 1 task (launcher solenoid fix)
+  - Jack Elston: 1 task (GCS battery calibration)
+  - Unassigned: 5 tasks (structural/parts fabrication)
 
 ## Recent Activity
-- **2026-10-27:** Final structural and mechanical tasks marked complete; project archived per team feedback
-- **2026-09-30:** Project delivery deadline met
-- **Earlier Sep 2026:** Ground control systems and flight controls finalized
+**2026-10-27:** All remaining tasks marked complete. Maciej flagged [212-2] for archival on 2026-10-27/28. Project owner <@U06KRHPQSRH> assigned to archive per Maciej's instructions.
 
 ## Notes & Context
-- **Funding approval:** Funding was approved in time to close before end of FY2025
-- **S2 end-of-life:** Parts requested are for a platform being phased out in favor of S3; any new component designs would be required for full S2 builds
-- **Billing:** Point of contact is IPP; all invoicing should be routed through them
-- **Archival:** Project owners can archive via project main page → dropdown → "Archive" (per Maciej, 2026-10-27–2026-10-28)
+- **Cost breakdown:** Isaac Anderson (NASA) requested S2 parts cost breakdown on 2026-07-11; Estimate 1362 sent 2026-07-18 with note that S2 is now end-of-life as BST transitions to S3 platform.
+- **Billing POC:** IPP
+- **Customer Type:** Commercial
+- **Funding approved** to meet end of FY2025 deadline (Sept 30, 2026).
+- All fabrication, refurbishment, and system setup tasks completed. Project is ready for closure/archival.

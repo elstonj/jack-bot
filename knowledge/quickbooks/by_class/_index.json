@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-11",
-    "end": "2026-11-11"
+    "start": "2024-11-12",
+    "end": "2026-11-12"
   },
-  "scanned_at": "2026-11-11",
+  "scanned_at": "2026-11-12",
   "projects": [
     {
       "project_code": "001-1",
@@ -250,13 +250,13 @@
     },
     {
       "project_code": "300-3",
-      "revenue": 1008875.0,
-      "expenses": 428022.33,
+      "revenue": 1067375.0,
+      "expenses": 473763.47,
       "invoice_count": 12,
       "bill_count": 22,
-      "purchase_count": 326,
+      "purchase_count": 330,
       "po_count": 0,
-      "payment_count": 8,
+      "payment_count": 9,
       "qbo_class_names": [
         "[300-3] 2026 IDIQ",
         "[300] NOAA:[300-3] 2026 IDIQ"
@@ -334,10 +334,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 3797232.11,
-      "expenses": 4895348.66,
+      "expenses": 4902063.53,
       "invoice_count": 58,
       "bill_count": 139,
-      "purchase_count": 2683,
+      "purchase_count": 2697,
       "po_count": 3,
       "payment_count": 57,
       "qbo_class_names": [

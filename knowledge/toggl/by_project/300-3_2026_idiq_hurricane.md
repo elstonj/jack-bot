@@ -1,62 +1,70 @@
-_Computed from Toggl as of 2026-11-10: 2594.0 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 355.4 h, Sam Hild 277.3 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 100.5 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
+_Computed from Toggl as of 2026-11-12: 2598.0 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 355.9 h, Sam Hild 278.8 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 102.5 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
 
 # [300-3] 2026 IDIQ (Hurricane) — Time Tracking
 
 ## Overview
-- **Client:** NOAA ([300])
+- **Client:** [300] NOAA
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 2,594.0 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 2,598.0 hours (all-time since 2020-01-01)
 
 ## Team Allocation
-
 | Team Member | Hours | % of Total |
 |---|---|---|
 | Nate | 513.5 | 19.8% |
-| Josh Fromm | 479.0 | 18.5% |
+| Josh Fromm | 479.0 | 18.4% |
 | Jack Elston | 447.0 | 17.2% |
-| Stachura | 355.4 | 13.7% |
-| Sam Hild | 277.3 | 10.7% |
+| Stachura | 355.9 | 13.7% |
+| Sam Hild | 278.8 | 10.7% |
 | Alex | 126.3 | 4.9% |
 | Ethan Domagala | 119.8 | 4.6% |
-| Ali Sulehria | 100.5 | 3.9% |
+| Ali Sulehria | 102.5 | 3.9% |
 | Kareem Ahmed | 83.6 | 3.2% |
 | Spencer Hoehl | 78.9 | 3.0% |
 | Dan | 12.8 | 0.5% |
 
-**Primary Contributors:** Nate, Josh Fromm, and Jack Elston (top 3 at 55.5% of total hours)
+**Primary Contributors:** Nate, Josh Fromm, and Jack Elston (combined 55.4% of all hours)
 
 ## Activity Timeline
 
-### Recent Work Patterns
-Recent entries show active work across multiple team members with the following themes:
+### Recent Work (Last 66 Entries)
+Recent entries show active development and debugging work:
 
-**Hardware/Systems Debugging & Testing:**
-- Ali Sulehria: S0 GPS board testing, QA preparation, AP core 2 P400 radio issues, PSNS debugging (dominant recent activity)
-- Jack Elston: Power off issue debugging, PSNS debugging
-- Sam Hild: Consistent daily work (7-9 hour blocks, minimal descriptions)
+**Hardware/System Debugging:**
+- Ali Sulehria: S0 GPS board testing, S0 PSNS debugging/testing, AP core 2 p400 radio issues (24.5 hours across multiple entries)
+- Jack Elston: PSNS debugging (5.4 hours), power off issue debugging (5.8 hours), S0 build updates (0.5 hours)
+- Sam Hild: AD Core2 rework (1.6 hours)
 
-**Program Support & Design:**
-- Jack Elston: Mission Support, UI Design, S0 Build Updates, NOAA/BST monthly coordination
-- Ethan Domagala: General development work
+**Mission Support & Operations:**
+- Jack Elston: Mission support (5.2 hours across 3 entries), NOAA/Blackswift monthly (0.8 hours)
+- Jack Elston: Emerging Tech FY26 hotwash (1.2 hours), Frank at BST (2.0 hours)
 
-**Notes:**
-- Many recent entries lack descriptions (38 of 63 recent entries undocumented)
-- Ali Sulehria and Sam Hild show highest recent activity intensity
-- Work appears concentrated on S0 systems (GPS boards, PSNS, radio) and UI components
+**UI/Design Work:**
+- Jack Elston: UI design (8.2 hours across 2 entries)
+
+**High-Volume Contributors (Recent Period):**
+- Sam Hild: 84.1 hours (mostly undescribed, consistent ~7-9 hour days)
+- Ali Sulehria: 101.0 hours (mix of described hardware work and undescribed tasks)
+- Josh Fromm: 57.0 hours (mostly undescribed)
+- Jack Elston: 43.3 hours (mix of mission support, debugging, design, and operations)
 
 ## Insights
 
-**Work Types Identified:**
-- Hardware debugging and testing (GPS boards, radio systems, power management)
-- System integration and QA preparation
-- UI/UX design work
-- Mission support operations
-- Onboarding activities
-- Monthly stakeholder coordination
+### Work Patterns
+- **High undescribed time:** ~64% of recent entries lack descriptions, making granular work type analysis difficult
+- **Consistent team engagement:** 11 team members active in recent period, indicating broad project involvement
+- **Steady-state operations:** Recent entries show consistent daily hours (6-9 hour workdays typical), suggesting ongoing development/integration phase
+- **Concurrent workstreams:** Hardware debugging (GPS/PSNS/radio systems) and UI design happening simultaneously
 
-**Patterns:**
-- Non-billable work suggests internal R&D, pre-sales, or research/development phase activity
-- Consistent multi-year engagement (2020-present) indicates sustained project
-- Recent activity heavily weighted toward Ali Sulehria and Sam Hild, suggesting intensive current development phase
-- High proportion of undocumented time entries (60% of recent 63 entries) suggests need for improved time tracking documentation
+### Documented Work Types
+- **Hardware integration & debugging:** GPS boards, PSNS systems, P400 radio, power management
+- **System validation:** QA preparation, testing cycles
+- **Mission operations:** Direct mission support activities
+- **UI/UX development:** Interface design work
+- **Personnel onboarding:** Ali Sulehria shows onboarding activities
+
+### Notable Patterns
+- Ali Sulehria emerging as key technical resource (high hours in recent period, focused hardware debugging work)
+- Jack Elston balancing technical debugging, mission support, and UI design
+- Sam Hild high-volume contributor with minimal documented context—may warrant time entry clarity improvement
+- Project remains non-billable despite substantial active hours allocation

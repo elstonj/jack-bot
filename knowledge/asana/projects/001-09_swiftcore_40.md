@@ -1,114 +1,89 @@
-_Asana snapshot as of 2026-11-03: 226 open tasks, 5 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 229 open tasks, 5 completed (last 90 days)._
 
-# [001-09] SwiftCore 4.0
+# SwiftCore 4.0
 
 ## Overview
-
-- **Client/Customer:** Black Swift Technologies (internal development)
+- **Client/Customer:** Internal R&D (whole BST team)
+- **Project Owner:** Jack Elston
+- **Status:** [GREEN] Active development (as of Nov 28, 2023)
+- **Priority:** Low
+- **Team Members:** Jack Elston, Maciej Stachura, Ben Busby, and broader BST team
 - **Dollar Value:** Not specified in project data
-- **Timeline:** Ongoing since 2015-01-19; no defined end date
-- **Status:** Active (Low Priority) — Heavy backlog with 226 open tasks and only 5 completed tasks as of Nov 28, 2023
-- **Team Members:** 
-  - Jack Elston (Owner, primary assignee)
-  - Maciej Stachura (Control systems, estimator, simulation)
-  - Ben Busby (Ground Control Station/tablet UI, GCS integration)
-- **Risk Signals:** 
-  - Massive open task count (226) with minimal completion rate suggests backlog management issues
-  - Multiple unassigned milestones with no due dates
-  - Low-priority classification despite core platform work
-  - Bug reports span critical systems (emergency descent, battery failsafe, calibration) suggesting stability concerns
+- **Timeline:** Ongoing; started 2015 (per Gantt notes in legacy tasks)
 
 ## Key Deliverables & Milestones
-
-All milestones are currently **unassigned and have no due dates**:
-
-1. **Conversion to RTOS** — Future modularization of real-time kernel
-2. **Better payload system** — Multi-camera and flight plan loading support
-3. **Official VTOL / tailsitter support** — Enhanced vertical takeoff configurations
-4. **SBC Autopilot companion** — Single-board computer integration
-5. **New GCS** — Ground control station modernization
-6. **MAVLink support** — Standard UAV protocol integration
-7. **UAVCAN support** — CAN bus protocol for modular hardware
-8. **Multi-vehicle support** — Simultaneous control of multiple aircraft
-9. **User authentication** — Security feature for GCS access
-10. **Automated log file handling and OTA firmware updates** — Field update capability
-11. **Full Geofencing Support** — Boundary enforcement and keep-out zones
+Strategic capability milestones (all currently unassigned, no due dates):
+- Conversion to RTOS
+- Official VTOL / tailsitter support
+- Better payload system (multiple cameras, flight plan loading)
+- SBC Autopilot companion
+- New Ground Control Station (GCS)
+- MAVLink support
+- UAVCAN support
+- Multi-vehicle support
+- User authentication
+- Automated log file handling and OTA firmware updates
+- Full Geofencing Support
 
 ## Task Summary
+- **Total tasks:** 229 open, 5 completed (99.8% open rate)
+- **Completion velocity:** Very low (5 tasks completed as of Nov 28, 2023)
 
-- **Total:** 226 open, 5 completed (2.2% completion rate)
-- **Assignee Breakdown:**
-  - **Jack Elston:** ~120 tasks (core autopilot, comms, hardware integration, security, firmware)
-  - **Maciej Stachura:** ~60 tasks (flight control algorithms, estimator, VTOL, simulation, sensor fusion)
-  - **Ben Busby:** ~35 tasks (GCS UI/UX, tablet app, mission planning, visualization)
-  - **Unassigned:** 11 milestones
-- **Completion Rate by Assignee:** All showing <1% (5 completed tasks total, all from Ben Busby, all closed on 2026-10-30)
+**Tasks by assignee:**
+- **Jack Elston:** ~120 tasks (primary focus on autopilot core, calibration, comms, safety systems, GCS integration, hardware)
+- **Maciej Stachura:** ~85 tasks (flight control tuning, estimators, VTOL/tailsitter features, simulation, advanced control)
+- **Ben Busby:** ~20 tasks (tablet UI, GCS, flight planning, visualization, web integration)
+- **Unassigned:** ~13 milestone-level strategic features
+
+**Notable pattern:** No task has a due date; all work is backlog-driven without time-boxed delivery commitments.
 
 ## Recent Activity
+**Completed (Oct 30, 2026):**
+- 5 tablet UI / flight plan display bugs fixed (Ben Busby):
+  - Mag declination display format (radians vs degrees)
+  - Waypoint plan overwrite issue
+  - Drop menu persistence
+  - Flight plan mode labels (113 → "takeoff", 118 → "ERROR")
 
-- **Last Completed Tasks (2026-10-30):** Five tablet/GCS UI bug fixes closed by Ben Busby:
-  - Mag declination display format fix
-  - Flight plan overwrite behavior
-  - Air-deployed UAS drop menu clearing
-  - Waypoint type display (takeoff/error labels)
-
-- **No open task completions** logged between Nov 28, 2023 status update and present, indicating stalled progress on core development items.
-
-- **Critical Active Bugs** assigned to Jack Elston (all no due date):
-  - Roll command logging error on takeoff
-  - Battery failsafe triggering ERROR_NO_BATTERY mid-mission
-  - Calibration mode surface command limiting
-  - Telemetry height scale mismatch (scale factor discrepancy)
-  - Payload door premature opening in pre-flight
-  - Kill switch not responding if left engaged
-  - Emergency descent blocking when GPS lost
-  - Motor power loss warnings delayed during descent (40+ meter altitude loss)
+**Currently Open & Active Issues:**
+- **Flight control tuning** (Maciej Stachura): Yaw oscillation on landing, roll hover gains (sea-level vibration), forward roll loop re-tuning on S3
+- **Safety/error handling** (Jack Elston): Battery error logic, GPS loss behavior, emergency descent issues, joystick mode restrictions, throttle/power loss detection
+- **Calibration bugs** (Jack Elston): Surface range limits in calibrate mode, initial XML deflections, payload door behavior
+- **VTOL/transition** (Maciej Stachura): Clog detection, wind alignment, engine-out handling, transition timeouts, landing modes
+- **Estimator improvements** (Maciej Stachura): GPS/pressure outage handling, unified estimator, gyro feedback, sensor initialization
+- **GCS/tablet** (Ben Busby): Log file handling, parameter UI, map backends (MapBox), multi-vehicle support, real-time plotting
 
 ## Notes & Context
 
-### Architecture & Scope
-SwiftCore 4.0 is a multi-platform autopilot and ground station system supporting fixed-wing, VTOL, tailsitter, and multirotor aircraft. Development spans three major subsystems:
-- **Autopilot firmware** (AP) — Flight control, estimator, failsafe logic
-- **Ground Control Station** (GCS) — Desktop/web interface
-- **SwiftTab** — Tablet/mobile ground control interface
+### Code Quality & Architecture
+- Large volume of cleanup work: FIXME removal, ifdef macro refactoring (vehicle type branches), legacy code removal
+- Ongoing modularization: CAN/comm protocols, sensor driver architecture, filter initialization
+- Feature branches in use: `unified_est`, `yaw_mix`, `vtol`
+- GitLab issue sync active (e.g., thrust cutoff task linked to GitLab #5)
 
-### Known Technical Debt
-- Extensive use of `#ifdef` macros for vehicle type selection (Jack Elston flagged for removal)
-- VTOL transition failures and clog detection incomplete
-- Estimator sensor fusion incomplete for GPS/pressure outages
-- Multiple FIXMEs scattered through codebase requiring cleanup
-- Wind estimation and automated parameter tuning not implemented
-- Unified estimator across vehicle types still pending
+### Critical Issues Observed
+Multiple cascading failure modes documented:
+- Lost GPS + low PDOP combination triggers auto-emergency descent, blocking joystick recovery
+- Motor power loss detection lag (~30m altitude loss before warning)
+- Battery error (ERROR_NO_BATTERY) causing mission leg abort
+- Telemetry height scale mismatch (x100 vs x1000) in comm packets
 
-### Feature Branches in Development
-- `unified_est` — Unified estimator for all vehicle types (Maciej Stachura)
-- `yaw_mix` — Controller-based turn-rate to rudder mapping (Maciej Stachura)
-- `vtol` — VTOL controller refactor (Jack Elston)
-
-### Integration & Hardware
-- Dual pitot setup integration in progress
-- SBC companion autopilot for modularity
-- Smart battery board firmware incomplete
-- Addon board watchdog (WDT) integration needed
-- ESC communication via UART/CAN in design phase
-- Laser-based terrain following not yet implemented
+### Instrumentation Gaps
+- No logging of WDT (watchdog timer) trips on addon boards
+- Sensor starting values not validated before logging
+- Hot shoe (camera trigger) packets not logged
+- System time not added to all packets (planned)
 
 ### Simulation & Testing
-- Gazebo models incomplete (S2 model pending, fixedwing simulation in progress)
-- X-Plane plugin needs SDK migration
-- Joystick mode simulation has known disconnect issues
-- Motor power loss and GPS loss failsafes need validation across vehicle types
+- Gazebo models for E2 and S2 need updates (inertia, motors, new configurations)
+- X-Plane plugin for simulation; simulator bug reports active (e.g., SIM-0037)
+- S0 AD and S2 throttle kill behavior issues found in sim, repeatable
 
-### GCS/Tablet Known Issues
-- Mission altitude limits not defaulting correctly (Ben Busby)
-- Landing plan creation UI incomplete
-- Multi-UAS support framework not implemented
-- OTA upgrades blocked at tablet level
-- Log file download/upload through tablet not complete
-- Wind visualization (barbs) not yet added to UI
+### Payloads & Hardware
+- Dual pitot setup integration needed with drained version
+- Smart battery board firmware pending completion
+- Addon board WDT expansion needed (sensor-quality based)
+- Payload door logic errors (opens in pre-flight, doesn't hold position in calibrate)
 
-### Priority Assessment
-Despite "Low Priority" classification, this backlog contains **critical flight safety items** (battery failsafe, emergency descent logic, GPS loss handling) alongside aspirational features. The 226:5 task ratio and lack of due dates suggests either:
-1. Continuous maintenance mode with episodic feature development
-2. Backlog not being actively triaged or retired
-3. Resource constraints limiting active development capacity
+### No Team Corrections Provided
+This summary reflects Asana data only; no override feedback from team was included in the source.

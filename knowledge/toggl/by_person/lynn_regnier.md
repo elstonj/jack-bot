@@ -1,25 +1,22 @@
-_Computed from Toggl as of 2026-11-11: 21.0 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-12: 77.8 h tracked since 2020-01-01._
 
 # Lynn Regnier — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 21.0 hours
+- **Total hours tracked:** 77.8 hours
 - **Primary project:** General Operations (100% of tracked time)
 - **Time period covered:** Since 2020-01-01
 
 ## Project Breakdown
-| Project | Client | Hours | % of Total |
-|---------|--------|-------|-----------|
-| [001-13] General Operations | Overhead | 21.0 | 100% |
+- **[001-13] General Operations** (Overhead): 77.8 hours (100%)
 
 ## Recent Activity
-Lynn's recent tracked time consists of two entries, both tagged as **Finance** work under General Operations:
-- 11.0 hours (Finance)
-- 10.0 hours (Finance)
-
-This accounts for all 21.0 hours of tracked time in the system.
+- All recent entries are tagged to General Operations with a Finance focus
+- Seven of the eight most recent time entries are explicitly labeled "Finance"
+- One entry lacks a description tag
+- Recent session lengths range from 7.0 to 11.2 hours, suggesting full workday blocks
 
 ## Patterns
-- **Singular focus:** All time is allocated to internal General Operations (overhead)
-- **Finance concentration:** Recent activity shows finance-related work exclusively
-- **Minimal tracking history:** Low overall volume suggests either limited time tracking adoption, focus on untracked work, or recent addition to tracked projects
+- **Consistent focus area:** Finance work dominates Lynn's tracked time
+- **Singular project concentration:** 100% of tracked time is allocated to internal operations (overhead), with no billable client projects recorded
+- **Work patterns:** Recent entries show consistent, substantial daily blocks (mostly 9–11 hour sessions), indicating dedicated focus periods on finance-related tasks

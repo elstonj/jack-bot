@@ -1,9 +1,6 @@
 # Ben Busby — Email Patterns
 
-Only 5 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Tue, 10 Nov 2026 22:39:12 +0000: Joshua Fromm sent you a message (from: Slack <notification@slack.com>)
-- Tue, 10 Nov 2026 22:37:17 +0000 (UTC): There have been updates to your card (from: no-reply@elevate.inc)
-- Tue, 10 Nov 2026 22:02:36 +0000: Beck sent you a message (from: Slack <notification@slack.com>)
-- Tue, 10 Nov 2026 15:48:11 +0000: Canceled: Weekly IT integration sync (from: "Thibault Bridel-Bertomeu (Non-US)" <Thibault@krateosky.com>)
-- Tue, 10 Nov 2026 14:56:10 +0000 (UTC): Notification: recording Weekly IT integration sync (from: "Fred from Fireflies.ai" <fred@fireflies.ai>)
+- Thu, 12 Nov 2026 02:28:40 +0100: Hetzner Online GmbH - Invoice 088001336556 (K0846959525) (from: Noreply Billing - Hetzner Online GmbH <noreply.billing@hetzner.com>)
+- Wed, 11 Nov 2026 21:46:45 +0000: New Entry: Simple Contact Form (ID #3406) (from: Black Swift Technologies <ben.busby@blackswifttech.com>)

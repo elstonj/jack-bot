@@ -5,22 +5,23 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-11",
-    "end": "2026-11-11"
+    "start": "2024-11-12",
+    "end": "2026-11-12"
   },
   "totals": {
-    "revenue": 1008875.0,
-    "expenses": 428022.33,
+    "revenue": 1067375.0,
+    "expenses": 473763.47,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 263214.53,
+      "DIRECT COSTS:DC-Direct Material Purchases": 308748.43,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7637.81,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7800.15,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "Tariffs": 5212.13,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.8,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.7,
       "SALES & MARKETING:SM-Shipping": 204.16,
       "Inventory Asset": 130.0,
+      "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 45.0,
       "SALES & MARKETING:SM-Travel": 20.86,
       "FRINGE:Employee Reimbursement": -2092.16
     }
@@ -108,7 +109,7 @@
       "attributed": 58500.0,
       "vendor": "",
       "customer": "[300-3] 2026 IDIQ",
-      "balance": 58500.0,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -869,6 +870,47 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-26",
+      "doc_number": "",
+      "total": 39.07,
+      "attributed": 39.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "verbal request for shipment by S. Hild",
+      "lines": [
+        {
+          "amount": 39.07,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "shipment to Summit Assembly"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-26",
+      "doc_number": "261108W019010",
+      "total": 212.89,
+      "attributed": 123.37,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "104 - future S3 sales",
+      "lines": [
+        {
+          "amount": 123.37,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Phase1 Shipment (S0s)"
+        },
+        {
+          "amount": 89.52,
+          "account": "Inventory Asset",
+          "description": "Phase1 Shipment (S3 wing set)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-10",
       "doc_number": "11560",
       "total": 5381.66,
@@ -917,25 +959,71 @@
       "type": "Purchase",
       "date": "2026-11-09",
       "doc_number": "",
-      "total": 43.27,
-      "attributed": 43.269999999999996,
+      "total": 45.0,
+      "attributed": 45.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Foreign Wire Fee",
+      "lines": [
+        {
+          "amount": 45.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
+          "description": "Wire fee for Microhard payment"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 45534.0,
+      "attributed": 45534.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Withdrawal Wire  Intl Wire to MI Withdrawal Wire  Intl Wire to MICROHARD SYSTEMS INC",
+      "lines": [
+        {
+          "amount": 4580.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "20 x p900"
+        },
+        {
+          "amount": 39580.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "10 x p900, 110 x p400"
+        },
+        {
+          "amount": 1374.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "6 x p900"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-09",
+      "doc_number": "",
+      "total": 42.97,
+      "attributed": 42.97,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "DKC*DIGI KEY CORP - 4617",
       "lines": [
         {
-          "amount": 12.07,
+          "amount": 11.97,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "MOSFET N-CH 60V 250MA EMT3F"
         },
         {
-          "amount": 1.21,
+          "amount": 1.11,
           "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
           "description": "Estimated Tariff Amount"
         },
         {
-          "amount": 29.99,
+          "amount": 29.89,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping charges applied"
         }
@@ -8038,6 +8126,24 @@
   ],
   "purchase_orders": [],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-11-10",
+      "doc_number": "",
+      "total": 58500.0,
+      "attributed": 58500.0,
+      "vendor": "",
+      "customer": "[300-3] 2026 IDIQ",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 58500.0,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2026-09-04",

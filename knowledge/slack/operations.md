@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops/project management), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), Lynn Regnier (finance administration), Ali Sulehria (finance/Deel administration), Robert Edson (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 9, 2026) reflects ongoing facility maintenance scheduling and coordination, project management task tracking, and operational support.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 11, 2026) reflects ongoing facility management, channel administration, and operational support.
 
 ---
 
@@ -84,6 +84,9 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 ### Google Drive Storage & Infrastructure
 - **November 6, 2026:** Google Drive storage reached capacity, preventing team members (particularly Joshua Fromm logged in as "technician") from uploading files. Dan Prendergast noted storage full status (14:11). Jack Elston responded and applied fix at system administrator level (14:25-14:42). Jack Elston reported that Rippling (HR/payroll system) had made changes that contributed to the storage issue. Fix applied but required propagation time through workspace setup (potentially several minutes). Jack Elston identified additional odd behavior in Google Drive requiring further investigation but confirmed storage issue resolution steps were taken.
 
+### Slack Channel Administration & Production Operations Channel
+- **November 11, 2026:** Cory Dixon requested Slack permissions to create a production channel for BST operations coordination. Dan Prendergast identified Jack Elston as having required Slack administrator permissions (12:17 message timestamp, after initial question). **Decision (Jack Elston, 12:17):** Jack Elston approved production channel creation but implemented condition: team must identify one existing channel to delete to manage channel proliferation. Jack noted "too many channels to track already!" and offered to create production channel contingent on deletion of another channel. Maciej offered candidate for deletion: <#C09K4KAN3GW>. This decision reflects organizational management of Slack workspace administration and channel governance as team scales.
+
 ---
 
 ## Projects & Initiatives
@@ -109,19 +112,20 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ## Action Items & Commitments
 
-### Current Week Project Management (as of November 6, 2026)
-- **Maciej Suwinski:** Requested all team members to update tasks on Kanban board by afternoon of November 6, 2026 to ensure next week's tasks are ready by end of day. Standard weekly project preparation (09:42). This follows the established pattern of end-of-week task readiness for Monday morning execution.
+### Slack Channel Management (as of November 11, 2026)
+- **Cory Dixon:** Identify channel to delete to make room for new production operations channel. Channel deletion contingent on Jack Elston's approval and implementation of production channel creation. Maciej suggested <#C09K4KAN3GW> as candidate for deletion.
+- **Jack Elston:** Create production operations channel for BST once team identifies existing channel to delete per governance policy for managing Slack workspace growth.
 
 ### Infrastructure & Systems
-- **Jack Elston (Google Drive storage):** Fixed Google Drive storage capacity issue by November 6, 2026 at 14:30. Additional odd behavior in Google Drive still under investigation. Fix requires propagation time through workspace setup (potentially several minutes as of 14:42 status).
+- ~~**Jack Elston (Google Drive storage):** Fixed Google Drive storage capacity issue by November 6, 2026 at 14:30. Additional odd behavior in Google Drive still under investigation. Fix requires propagation time through workspace setup (potentially several minutes as of 14:42 status).~~ [COMPLETED November 6]
 
 ### Facility Maintenance (current/pending)
 - **Window cleaning service (November 9, 2026 scheduled):** Exterior windows to be professionally cleaned on November 10, 2026. Dan Prendergast has requested that interior of "slimed window" by Joshua Fromm's desk also be cleaned during service visit (status of this add-on request not yet confirmed as of November 9).
 - Back door locksmith service needed (September 18, 2026 identification; status unknown)
-- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 9)
-- Collapsing shelf repair/replacement (identified October 22, 2026; status unknown as of November 9)
-- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 9)
-- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 9.
+- Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 11)
+- Collapsing shelf repair/replacement (identified October 22, 2026; status unknown as of November 11)
+- HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 11)
+- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 11.
 
 ### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, for project closeout)
 - Verify invoice status for [452-2] S2 Simulator & used E2 Battery
@@ -181,6 +185,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Mid-week project status assessment** - Active monitoring of Kanban board throughout week to identify resource bottlenecks and adjust task scheduling
 - **Google Drive and organizational infrastructure management** - Storage capacity monitoring and allocation; system-level issue resolution under Jack Elston's oversight
 - **Facility coordination & comfort** - Responsive attention to facility improvements (window cleaning, cleanliness, workspace comfort for team members)
+- **Slack workspace governance** - Managing channel proliferation through deletion/consolidation policies as organization scales (as of November 11, 2026)
 
 ---
 
@@ -195,10 +200,17 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Environmental compliance:** Boulder County Hazardous Waste Facility (disposal appointments; business disposals by appointment only)
 - **Facility access:** Front entrance combo: `2372`, inner door combo: `2011` (adjacent bakery space)
 - **Google Drive workspace** - Organizational storage system managed by Jack Elston; subject to capacity constraints and system integration issues (e.g., with Rippling). Storage capacity issue resolved November 6, 2026; additional infrastructure oddities identified for ongoing investigation.
+- **Slack workspace** - Communication and collaboration platform; governed by channel creation/deletion policies to manage channel proliferation (Jack Elston has administrator permissions as of November 11, 2026)
 
 ---
 
 ## Recent Activity
+
+**November 11, 2026:**
+- **Cory Dixon** (10:30) requested Slack permissions to create a production operations channel for BST to better organize and track production-related communications.
+- **Dan Prendergast** (10:33) identified Jack Elston as likely holding the Slack administrator permissions necessary to create new channels.
+- **Jack Elston** (12:17) approved production channel creation but implemented governance condition: identified existing team has "too many channels to track already" and requested team identify one channel for deletion before new production channel is added. This reflects intentional channel management strategy to prevent workspace proliferation.
+- **Maciej** (12:24) suggested channel <#C09K4KAN3GW> as candidate for deletion, indicating potential for consolidation of channel functions.
 
 **November 9, 2026:**
 - **Meredith Needham** scheduled notification for exterior window cleaning service. Professional window cleaning contracted for November 10, 2026 (10:46). This represents proactive facility maintenance and cleanliness coordination.

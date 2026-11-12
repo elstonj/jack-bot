@@ -1,80 +1,72 @@
 # BST Financial Overview (QuickBooks)
-**Reporting Period:** November 6–7, 2026 | **Cumulative Data:** April 5, 2024 – November 7, 2026
+
+## ⚠️ Data Limitation Notice
+The QuickBooks export appears incomplete. The per-project data for "Commercial" is truncated (Invoice 1772 details cut off), and the P&L report shows only a 2-day period (Nov 11-12, 2026) with minimal activity. For a complete company-wide overview, a full period export is needed.
 
 ---
 
-## Company Totals
+## Company Totals (Nov 11-12, 2026)
+**Note:** This 2-day snapshot is not representative of typical operations.
 
 | Metric | Amount |
 |--------|--------|
-| **Total Revenue (Invoices)** | $3,110,562.20 |
-| **Total Expenses (Bills + Purchases)** | $2,068,209.78 |
-| **Total Purchase Orders** | $15,925.50 |
-| **Net Income (31+ months)** | $1,042,352.42 |
-| **Period P&L (Nov 6–7 only)** | -$288.94 |
+| **Total Revenue** | $0.00 |
+| **Total Expenses** | $129.32 |
+| **Net Income** | **($129.32)** |
+
+### Expense Breakdown (2-day period)
+- Shop Supplies (Facilities): $90.28
+- Direct Material Purchases: $36.54
+- Shipping/Freight: $2.50
 
 ---
 
 ## By Project/Class
 
-| Project | Total Revenue | Total Expenses | Net Position | Status |
-|---------|----------------|----------------|--------------|--------|
-| **Commercial** | $3,083,803.62 | $251,251.63 | **$2,832,552.00** | ✓ Profitable |
-| **BST Internal** | $26,758.58 | $1,816,958.15 | **-$1,790,199.57** | ⚠ Deficit |
-| **Unclassified** | $0.00 | $0.00 | $0.00 | — |
-
-**Key Insight:** Commercial projects drive profitability. BST Internal operates at significant loss (likely infrastructure, admin, R&D).
-
----
-
-## Recent Transaction Activity (Nov 6–7, 2026)
-
-| Category | Amount | Notes |
-|----------|--------|-------|
-| **Direct Costs (Shipping/Freight)** | $221.96 | Commercial project expense |
-| **Facilities (Shop Supplies)** | $66.98 | BST Internal (consumables) |
-| **New Invoices** | $0.00 | No revenue recorded this period |
+### Commercial Project
+| Metric | Amount |
+|--------|--------|
+| **Total Revenue (Invoiced)** | $3,083,803.62 |
+| **Total Expenses** | $251,254.13 |
+| **Purchase Orders Pending** | $1,977.50 |
+| **Net Position** | **$2,832,549.49** |
+| **Date Range** | Apr 5, 2024 – Nov 12, 2026 |
+| **Transaction Count** | 1 (in current period) |
 
 ---
 
-## Top Customers (by Revenue)
+## Top Customers
 
-**Note:** Data truncated in source. Known customer:
-
-| Customer | Outstanding Invoice | Amount |
-|----------|-------------------|--------|
-| [018-1] Murphy's Pond CH4 | 1779 | $24,579.28 |
-
-*Full customer list unavailable from provided data.*
+| Customer | Invoice # | Amount | Outstanding Balance |
+|----------|-----------|--------|---------------------|
+| **[018-1] Murphy's Pond CH4** | **1779** | **$24,579.28** | **$24,579.28** |
+| Additional customers | 1772+ | *Data truncated* | *Incomplete* |
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Murphy's Pond CH4 (Invoice 1779, dated Aug 31, 2026):** $24,579.28 outstanding
-  - **Age:** 67+ days overdue (as of Nov 7, 2026)
+### Accounts Receivable
+- **Outstanding Invoice Balance:** $24,579.28+ (minimum, data incomplete)
+- **Most Recent Invoice:** Invoice 1779 – Aug 31, 2026 – $24,579.28 (Murphy's Pond CH4)
 
-### Recent Large Expenses
-- **Shipping/Freight (Nov 6):** $221.96
-- **Shop Supplies (Nov 6):** $66.98
+### Recent Activity
+- **Last 2 days:** Only $129.32 in expenses; no revenue recorded
+- **Long-term (Apr 2024–Nov 2026):** Commercial project shows strong $2.8M+ net position
 
-### Project Activity Status
-- **Commercial:** Active (recent invoice Aug 31, 2026; ongoing transactions)
-- **BST Internal:** Continuous but deficit-driven (infrastructure/operations)
-- **No dormant projects identified** in available data
+### Observation
+Murphy's Pond CH4 invoice from Aug 31, 2026 remains outstanding for **2.5+ months**—may warrant collection follow-up.
 
 ---
 
-## Financial Health Summary
+## Unclassified Transactions
+- **Shop Supplies ($90.28):** Assigned to Facilities but not tied to a specific project class
+- **Direct Material/Shipping ($39.04):** Not allocated to Commercial or other projects in this report
 
-✅ **Strengths:**
-- Commercial division generates $2.83M net profit over 31 months
-- Cumulative company net income: **$1.04M positive**
+---
 
-⚠️ **Concerns:**
-- BST Internal operating at -$1.79M loss (requires review of cost allocation)
-- Significant AR aging: $24.6K unpaid since August 2026
-- Current period (Nov 6–7) shows net loss of -$288.94
-
-📊 **Recommendation:** Follow up on Murphy's Pond CH4 payment; audit BST Internal expense allocation for sustainability.
+## Recommendations
+1. **Request full P&L export** covering the complete fiscal period for accurate analysis
+2. **Follow up on aging AR:** Murphy's Pond CH4 balance outstanding since August
+3. **Classify facility expenses** to projects for more granular cost tracking
+4. **Verify incomplete invoice data** (Invoice 1772 record cut off)

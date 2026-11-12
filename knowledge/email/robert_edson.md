@@ -1,73 +1,80 @@
 # Robert Edson — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 14 (4 from previous period + 10 new)
-- **Date range:** Nov 9–10, 2026
-- **Volume:** High concentration of automated notifications; limited direct human correspondence in this snapshot
+- **Total messages scanned:** 23 (14 from previous period + 9 new)
+- **Date range:** Nov 9–12, 2026
+- **Volume:** High concentration of automated notifications; limited direct human correspondence. New period shows intensification of Slack activity on Nov 11.
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Slack** (notification@slack.com) — 8 messages (mostly HeyTaco mentions)
-2. **Cory Dixon** (cory.dixon@blackswifttech.com) — 3 direct calendar invitations + 1 direct message
-3. **Asana** (learn@go.asana.com / learn@email1.asana.com) — 2 promotional/educational emails
+1. **Slack** (notification@slack.com) — 15 messages total (8 previous + 7 new); includes direct messages, channel mentions, and group conversations
+2. **Toggl** (support@toggl.com) — 2 messages (automated, time-tracking service)
+3. **Cory Dixon** (cory.dixon@blackswifttech.com) — 3 direct calendar invitations + 2 direct Slack messages
+4. **Asana** (learn@go.asana.com / learn@email1.asana.com) — 2 promotional/educational emails
 
-### Regular Collaborators (by email)
-- **Cory Dixon** — Organizer of recurring production meetings; appears to be Robert's primary internal contact
-- **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — Co-invited to multiple production meetings
-- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — Co-invited to multiple production meetings
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Co-invited to production standup; also contacted Robert via Slack
-- **Meredith Needham** — Contacted Robert via Slack (Nov 9)
-
-### External Contact
-- **alipsulehria@gmail.com** — Invited to Production Team Standup (external collaborator or vendor)
+### Regular Collaborators (by email/Slack)
+- **Cory Dixon** — Direct Slack messages; appears to be Robert's manager or team lead
+- **Brandon Messersmith** — Direct Slack message + channel mention on Nov 11; elevated contact frequency vs. previous period
+- **Joshua Waldman** — Group conversation participant (Nov 11)
+- **Spencer Hoehl** — Production team peer
+- **Daniel Prendergast** — New contact detected (Slack message, Nov 11)
+- **Alex Lomis** — New contact detected (Slack message, Nov 11)
+- **HeyTaco** — Bot/gamification system; frequent mentions (recognition/engagement indicator)
 
 ### Internal vs External
-- **Internal:** ~90% (BST domain)
-- **External:** ~10% (1 external email address on production team)
+- **Internal:** ~95% (BST domain + Slack internal)
+- **External:** ~5% (Toggl time-tracking service; 1 external email on production team from previous period)
 
 ## Topic Patterns
 
 ### Recurring Themes
-- **Production operations** — Multiple meetings with "Production Team" prefix
-  - Production Team Meeting (Nov 9)
-  - Production Team: Bench Layout Discussion (Nov 11)
-  - Production Team Standup (weekly, weekday recurring)
-- **Project management tools** — Asana task assignments and platform education
-- **Team communication** — Slack notifications indicate active team channel participation (#HeyTaco appears to be a team channel/bot)
+- **Production operations** — Continues from previous period (Production Team standups, bench layout discussions)
+- **Team communication & recognition** — HeyTaco mentions suggest active peer recognition/engagement
+- **Time tracking** — Toggl emails indicate Robert uses time-tracking software (likely for project/task tracking)
+- **Slack-based collaboration** — Shift toward real-time chat for urgent/direct communication
 
 ### Project/Work Focus
-- Production team operations and bench/equipment layout
-- Weekly recurring standup (9:45–10:00 AM MST, weekdays)
+- Production team operations
+- Active collaboration with Brandon Messersmith (elevated mentions on Nov 11)
+- Group coordination with Cory Dixon, Joshua Waldman, and others
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Clustering observed:** Multiple Slack HeyTaco notifications within 2.5 hours (Tue 10 Nov, 19:29–20:46)
-- **Activity window:** Active across morning (8:50 AM), afternoon (3–9 PM), and evening hours
-- **Timezone:** MST indicated in calendar invites
+- **Concentration on Nov 11:** 7 of 9 new messages clustered between 15:02–20:41 UTC (8 AM–1 PM MST approximately)
+- **Activity window:** Morning to early evening; suggests workday communication
+- **Timezone:** MST (consistent with previous period)
 
 ### Automated vs. Human Mail
-- **Automated:** Slack notifications, Asana educational emails (7 messages)
-- **Human-initiated:** Direct calendar invitations from Cory Dixon, Slack DMs (7 messages)
+- **Automated:** Slack notifications (7), Toggl service emails (2)
+- **Human-initiated:** Slack DMs and group conversations embedded in notification stream; underlying human activity high
 
 ### Mailing Lists & Group Invites
-- Production Team standup (recurring, 5 participants including 1 external)
-- Production Team Bench Layout Discussion (4 internal + 1 external)
+- Production Team recurring meetings
+- Group Slack conversations (Cory Dixon + Joshua Waldman + others)
+- #production channel
+- #HeyTaco channel
 
 ## Key Relationships
 
 ### Closest Collaborators
-1. **Cory Dixon** — Production team organizer; sends Robert meeting invitations and direct messages; appears to be Robert's manager or team lead
-2. **Spencer Hoehl** — Production team peer; direct Slack contact
-3. **Brandon Messersmith & Joshua Waldman** — Production team peers; co-participants in recurring meetings
+1. **Cory Dixon** — Primary contact; direct messages and group conversation leadership; likely manager
+2. **Brandon Messersmith** — Elevated activity Nov 11; direct message + channel mention; close peer collaboration
+3. **Joshua Waldman** — Group conversation participant; production team peer
+
+### Emerging/Active Contacts
+- **Daniel Prendergast** — New Slack contact (Nov 11)
+- **Alex Lomis** — New Slack contact (Nov 11)
 
 ### External Relationships
-- **alipsulehria@gmail.com** — Purpose unclear; included on weekly production standup (vendor, contractor, or consultant)
+- **Toggl** — Time-tracking/project management tool integration (not a human contact)
 
 ## Notable Observations
 
-- **HeyTaco engagement:** 4 HeyTaco mentions in 3.5 hours on Nov 10 suggests Robert is an active, valued contributor in team communication channels (HeyTaco is typically a Slack gamification/recognition bot)
-- **Recurring production focus:** Robert appears embedded in daily production operations with weekly standups and ad-hoc layout/bench discussions
-- **Low email volume:** Primary communication appears to happen via Slack; email is used mainly for calendar invites and tool notifications
-- **Tool adoption:** Using both Asana and Slack actively, suggesting involvement in structured project management
+- **Slack intensity spike on Nov 11:** 7 Slack notifications in 5.5 hours (15:02–20:41 UTC) suggests active project work, urgent coordination, or team event (meeting debrief, launch, issue resolution)
+- **Elevated peer collaboration:** Brandon Messersmith interaction increased vs. previous period; may indicate shared project ownership
+- **Multiple channels active:** #production, #HeyTaco, and group DMs suggest Robert participates across formal and informal team communication
+- **HeyTaco consistent presence:** Continues as marker of valued team contributor
+- **Time-tracking adoption:** Toggl integration suggests Robert is tracking billable/project hours (common in production/delivery-focused roles)
+- **Low traditional email:** Email remains secondary to Slack; primary communication via notifications/alerts from Slack platform

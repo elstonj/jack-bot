@@ -1,3 +1,5 @@
+_Not in Asana's current project list as of 2026-11-12 (renamed or archived); this file is not updated and may be stale._
+
 _Asana snapshot as of 2026-11-09: 11 open tasks, 0 completed (last 90 days)._
 
 # Paige Smith's Previously Assigned Tasks

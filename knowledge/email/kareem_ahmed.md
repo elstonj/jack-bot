@@ -1,140 +1,104 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 78 emails (69 from prior data + 9 new)
-- **Date range:** November 2–11, 2026
-- **Volume pattern:** Zero direct emails to Kareem Ahmed across entire 78-message dataset. All 9 new messages route through media@blackswifttech.com, addressed exclusively to paige.smith@blackswifttech.com. Kareem's inbox receives no mail.
+- **Total messages scanned:** 86 emails (78 from prior data + 8 new)
+- **Date range:** November 2–12, 2026
+- **Volume pattern:** **CRITICAL CHANGE — Kareem Ahmed now receiving direct mail.** 1 of 8 new messages addresses kareem.ahmed@blackswifttech.com directly (Asana notification, Nov 12). This represents first direct appearance in entire 86-message dataset.
 
 ## Key Correspondents
 
-### Incoming Sources (All Mediated Through media@blackswifttech.com)
-- **Automated/Newsletter sources (maintained):**
-  - A&SF Daily Report (3 total — continued daily feed)
-  - LinkedIn (via Media Relations) (5 new — profile views, group conversation notifications)
-  - Geo Week News (1 prior)
-  - Mirah Talley / AGU26 event (1 prior + 1 new from Maritz Exhibitor Services)
-  - Unmanned Systems Technology group (LinkedIn)
-  - Kallman Worldwide / Jack Newman (IDEF 2027) (1 prior)
-  - Staples (2 prior — promotional)
-  - Elementor (1 prior — webinar)
-  - The Athletic Pulse (1 prior — NFL coaching news)
-  - Inside Climate News (1 prior — wildfire podcast)
-  - UAS VISION (russ@uasvision.com → Jack Newman) (2 new — direct sends to media@)
-  - **NEW:** Commercial UAV Expo (1 new — event recap)
-  - **NEW:** Projection / AMS 2027 audiovisual services (1 new — direct to Paige, not forwarded)
-  - **NEW:** Max Weinstein / Capital Factory & GC events (1 new)
-  - **NEW:** Defense Advancement (LinkedIn) — military/defense content (1 new)
+### Incoming Sources
+- **Direct to Kareem (NEW — Single Message):**
+  - Asana (no-reply@asana.com) — project management platform notification (Nov 12, 00:28 UTC)
+
+- **Routed through media@blackswifttech.com to Paige Smith (7 of 8 new messages — pattern continues):**
+  - LinkedIn (via Media Relations) — Autonomy Global post notification (1 new)
+  - Geo Week News (1 new — continues prior pattern)
+  - Mt. Princeton Hot Springs Resort (1 new — promotional/event)
+  - Staples (1 new — promotional, continues prior pattern)
+  - Air & Space Forces Association (1 new — Veterans Day messaging)
+  - ShopAFA (1 new — Veterans Day merchandise promotion)
+  - UAS VISION (russ@uasvision.com → Jack Newman) (1 new — continues daily news feed pattern, Nov 11)
 
 ### Internal
-- **All routing through:** media@blackswifttech.com (Jack Newman)
-- **Sole explicit recipient on 100% of messages:** paige.smith@blackswifttech.com
-- **Kareem Ahmed:** Zero direct recipients across entire 78-message dataset
+- **media@blackswifttech.com** — Jack Newman (continues as sole gateway for curated intelligence)
+- **paige.smith@blackswifttech.com** — exclusive recipient on 7 of 8 new messages
+- **kareem.ahmed@blackswifttech.com** — **NOW ACTIVE** (1 direct message from Asana)
 
 ### External
-- **UAS VISION** (russ@uasvision.com) — **2 direct sends to Jack Newman** (pattern confirmed — continues daily feed without forwarding onward)
-- **Projection** (exhibits@projection.com) — **direct to Paige** (AMS 2027 audiovisual ordering — not routed through Jack)
-- **Kallman Worldwide / IDEF 2027**
-- **Mirah Talley / Maritz Exhibitor Services** — AGU26 event
+- **UAS VISION** (russ@uasvision.com) — continues daily feed to Jack only
+- **Asana** (no-reply@asana.com) — **NEW external service directly addressing Kareem**
 
 ## Topic Patterns
 
-### Recurring Themes (Updated with New Data)
+### Recurring Themes (Maintained from Prior + New Elements)
 
-1. **Military/Defense/Space:**
-   - Congress & NDAA defense funding
-   - USAF base operations (Wilsbach statement)
-   - F-35 spare parts tracking crisis (NEW — A&SF Daily Report)
-   - UK Military Vehicles, Indonesian Navy Upgrades (NEW — Defense Advancement via LinkedIn)
-   - Arctic Drone Technologies (NEW)
-   - IDEF 2027 global defense markets
+1. **Military/Defense/Space** (continued via Paige pipeline):
+   - Air & Space Forces Association messaging (Veterans Day tie-in — Nov 11)
+   - UAS VISION daily news feed continues
 
-2. **Uncrewed Systems & Robotics:**
-   - Commercial UAV Expo recap — 3,800 professionals, Las Vegas (NEW)
-   - Unmanned Systems Technology group activity
-   - UAV/UAS, UGV, AUV/ROV, Robotics conversations
-   - UAS VISION daily news (2 sends this period)
-   - Arctic Drone Technologies
+2. **Uncrewed Systems & Robotics** (continued via Paige pipeline):
+   - Autonomy Global LinkedIn post (NEW — autonomous systems thought leadership)
+   - UAS VISION daily feed
 
-3. **Industry Events & Conferences:**
-   - **IDEF 2027** registration/promotion
-   - **AGU26** (American Geophysical Union) — Maritz Exhibitor Services competitive advantage messaging (NEW)
-   - **AMS 2027** (American Meteorological Society) — audiovisual ordering now open (NEW)
-   - **Commercial UAV Expo** — Las Vegas event recap (NEW)
-   - Geo Week innovation voting
+3. **Industry/Geospatial** (continued via Paige pipeline):
+   - Geo Week News — data-driven city infrastructure
 
-4. **Technology & Professional Presence:**
-   - LinkedIn post metrics
-   - LinkedIn profile views (3 people viewed profile — NEW)
-   - LinkedIn group notifications (Cybersecurity and AI Frameworks — NEW topic addition)
-   - Elementor webinar (AI/ChatGPT crawler content)
-   - Capital Factory & GC event engagement (NEW)
+4. **Asana Project Management (NEW DOMAIN):**
+   - Kareem now receiving direct Asana notifications for unread items
+   - Indicates active project management engagement — first direct evidence of Kareem participating in task/project workflows
 
-5. **Cybersecurity & AI Frameworks (NEW DOMAIN):**
-   - LinkedIn group conversations in "Cybersecurity and Artificial Intelligence (AI) Frameworks and Maturity Models" (NEW)
-   - Suggests expanding professional focus beyond pure defense/UAS into governance/AI maturity
-
-6. **Climate & Environmental:**
-   - Inside Climate News podcast (wildfire focus)
-   - AGU26 geophysical conference
-
-7. **Retail/Non-Work Content:**
-   - Staples promotional (2 messages)
-   - The Athletic Pulse (NFL coaching)
+5. **Retail/Promotional** (continued via Paige pipeline):
+   - Staples trending items
+   - ShopAFA Veterans Day merchandise
+   - Mt. Princeton Hot Springs Resort event/hospitality (possible team retreat or conference venue)
 
 ## Communication Patterns
 
-- **100% mediated routing — Kareem completely absent from recipient lines:** All 78 messages in full dataset addressed exclusively to paige.smith@blackswifttech.com with zero appearance of kareem.ahmed@blackswifttech.com in any role (to, cc, bcc)
+- **Kareem's first direct email receipt (Nov 12):** Asana notification marks departure from 78-message zero-presence pattern. Single message indicates Kareem now enrolled in project management system with active notifications enabled.
 
-- **One external direct pathway established:** Projection (exhibits@projection.com) sends directly to Paige for AMS 2027 audiovisual services — bypasses Jack Newman mediation entirely. Suggests Paige has direct vendor relationships outside media@ curation pipeline
+- **Asana notification timing:** Sent 00:28 UTC Thursday morning (Nov 12), early in workday. "[UNREAD]" flag suggests Kareem has not yet reviewed. Notification about "unread notifications" implies Kareem missed earlier Asana activity.
 
-- **UAS VISION pattern confirmed:** Russ continues sending directly to Jack (media@), not forwarding onward. Two sends in new batch (Nov 10–11) maintain daily news cadence
+- **All 7 routed messages remain on Paige Smith pipeline:** No change to media@ → Paige routing. Kareem re-activation is parallel, not replacement.
 
-- **Concentration on Tuesday, Nov 10:** 8 of 9 new emails on single day (10 Nov, 04:43–21:24 UTC span), with 1 follow-up Wednesday 11 Nov (LinkedIn profile view notification). Consistent with Jack Newman's Monday/Tuesday batch-processing model
+- **All messages unread:** 100% [UNREAD] flag across all 8 new messages (consistent with prior 78-message pattern).
 
-- **All messages unread:** [UNREAD] flag on 100% of new batch
+- **Wednesday concentration (Nov 11):** 7 of 8 new messages on single day (Nov 11, 07:35–22:59 UTC span), with 1 follow-up Asana direct notification Thursday (Nov 12, 00:28). Consistent with batch-processing model observed with Jack Newman.
 
-- **LinkedIn activity acceleration:** 5 new LinkedIn notifications (vs. 3 in prior 9-message batch) indicate increased platform activity: profile views, group conversation invitations expanding into cybersecurity/AI domain
-
-- **New event acquisition pattern:** 3 new conference/event messages in 9-email batch (Commercial UAV Expo recap, AMS 2027, AGU26 via Maritz) suggests Paige actively registering for multiple industry events across defense, meteorology, and geophysics
+- **Autonomy Global emergence (NEW):** LinkedIn notification about "Autonomy Global" suggests Kareem or Paige (or both via algorithm) are now tracking autonomous systems company/thought leadership — potential strategic interest marker.
 
 ## Key Relationships
 
-- **Jack Newman (media@blackswifttech.com)** — confirmed sole internal news aggregator and gateway. All forwarded content routes through him to Paige Smith. Receives direct feeds from external news providers (UAS VISION), filters, and distributes selectively.
+- **Jack Newman (media@blackswifttech.com)** — continues as sole internal news aggregator and gateway to Paige Smith. Receives direct external feeds (UAS VISION), maintains editorial gatekeeping function.
 
-- **Paige Smith (paige.smith@blackswifttech.com)** — **confirmed exclusive intelligence and event recipient across all 78 messages.** 100% addressee on every item. Actively engaged in:
-  - Multi-domain professional development (defense, UAS, AI/cybersecurity, geophysics, meteorology)
-  - Conference circuit attendance (AGU26, AMS 2027, Commercial UAV Expo attendance implied by recap)
-  - LinkedIn ecosystem participation with measurable engagement metrics
-  - Direct vendor relationships (Projection/AMS 2027)
+- **Paige Smith (paige.smith@blackswifttech.com)** — remains exclusive recipient on 7 of 8 new messages. Continues multi-domain conference engagement and intelligence consumption.
 
-- **Russ (UAS VISION, russ@uasvision.com)** — external daily news provider; maintains direct-to-Jack relationship only; sends daily news feeds without onward forwarding
+- **Kareem Ahmed (kareem.ahmed@blackswifttech.com)** — **RE-ENTRY CONFIRMED.** Now receiving direct notifications from Asana project management system. Indicates return to active project/task participation after complete absence from intelligence pipeline.
 
-- **Mirah Talley / Maritz Exhibitor Services** — AGU26 event partnership/exhibitor services
+- **Russ (UAS VISION, russ@uasvision.com)** — external daily news provider to Jack; maintains direct-to-Jack relationship only.
 
-- **Projection (exhibits@projection.com)** — AMS 2027 audiovisual vendor with direct Paige contact (NEW relationship)
-
-- **Max Weinstein** — event/startup ecosystem contact (Capital Factory & GC)
-
-- **AOML (Atlantic Oceanographic and Meteorological Laboratory)** — LinkedIn network presence
+- **Asana** — project management platform now actively notifying Kareem of task/project updates.
 
 ## Notable Observations
 
-- **Kareem Ahmed remains completely absent from BST intelligence pipeline — ORGANIZATIONAL ROLE CHANGE CONFIRMED:** 78 consecutive messages over 9-day span with zero appearances of kareem.ahmed@blackswifttech.com in any capacity. This is not sampling artifact — the account exists but is systematically excluded from all curated intelligence distribution. Represents confirmed organizational reassignment from intelligence operations.
+- **Kareem Ahmed organizational re-activation (CRITICAL CHANGE):** First direct email to kareem.ahmed@blackswifttech.com in 86-message dataset arrives Nov 12, 2026. Asana notification indicates:
+  - Kareem account re-enrolled in project management system
+  - Active unread notifications accumulating (notification says "You have unread notifications" — implying backlog)
+  - Kareem likely returning to active project work, but notification arrival suggests he is not yet reviewing backlog
+  - **Interpretation:** Kareem appears to be transitioning back into task-based work (Asana) while remaining excluded from intelligence/media pipeline (zero addresses to kareem.ahmed@ on any media@-routed content)
 
-- **Paige Smith is multi-sector intelligence hub with expanding scope (NEW):** New data confirms Paige is:
-  - **Attending/exhibiting at multiple major conferences:** Commercial UAV Expo (Las Vegas, past event), AGU26 (geophysical), AMS 2027 (meteorological) — suggests speaking/booth presence, not passive attendance
-  - **Expanding into AI/cybersecurity governance:** New LinkedIn group participation in "Cybersecurity and Artificial Intelligence (AI) Frameworks and Maturity Models" indicates scope creeping beyond defense/UAS into organizational governance and AI policy
-  - **Building direct vendor relationships:** Direct contact with Projection/AMS 2027 bypasses Jack Newman, suggesting Paige has autonomous event management responsibilities
+- **Bifurcated communication model emerging:** System now shows:
+  - **Intelligence flow:** Jack → Paige (unchanged, excludes Kareem)
+  - **Project management flow:** Asana → Kareem (new, direct)
+  - **Suggests organizational separation:** Kareem and Paige may operate in different functional silos — Paige in intelligence/strategy/events, Kareem in project delivery/execution
 
-- **Arctic/polar domain emergence (NEW):** Arctic Drone Technologies and AMS 2027 (meteorological focus) suggest strategic interest in polar region operations — consistent with climate/geophysical trajectory but expanding into defense applications
+- **Mt. Princeton Hot Springs Resort emergence (NEW):** Single promotional message for Thanksgiving event may indicate:
+  - Planned team gathering or offsite
+  - Conference venue (Colorado location — potential AMS/AGU regional hub)
+  - Requires monitoring for indication of team dynamics
 
-- **Conference engagement pattern indicates active role, not passive attendance:** Receipt of "recap" emails from Commercial UAV Expo combined with AGU26/AMS 2027 registration suggests Paige is:
-  - Likely speaker or exhibitor (not just attendee)
-  - Building multi-conference presence across defense, geophysics, and meteorology domains
-  - Operating with budget/authority for multiple event commitments
+- **Autonomy Global LinkedIn notification (NEW):** Posted to Paige (via Jack's curation) suggests strategic monitoring of autonomous systems companies — potential market intelligence or partnership interest beyond UAS VISION news feed
 
-- **All messages remain unread:** Consistent with prior 69-message sample. No evidence Kareem interacts with any materials, even though his email address exists on the system
+- **All messages remain unread (Kareem included):** Despite Kareem's account re-activation, his first notification remains unread as of data collection point (Nov 12, 00:28 UTC sent, timestamp capture time unknown). No evidence Kareem has reviewed incoming Asana notification.
 
-- **Jack Newman continues editorial gatekeeping:** UAS VISION feeds go to Jack only, not redistributed. Jack selects which content reaches Paige. This curation function remains active and intentional.
-
-- **External vendor direct-to-Paige pathway (NEW):** Projection sending AMS 2027 materials directly to Paige suggests organizational trust and autonomous vendor management by Paige, reducing dependency on Jack's mediation for event logistics
+- **Paige Smith continues multi-conference presence:** Geo Week News and other professional content flow unchanged, indicating ongoing speaker/exhibitor preparation for 2027 events identified in prior data

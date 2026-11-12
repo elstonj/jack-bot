@@ -1,69 +1,86 @@
-_Asana snapshot as of 2026-11-11: 42 open tasks, 3 completed (last 90 days)._
+_Asana snapshot as of 2026-11-12: 42 open tasks, 3 completed (last 90 days)._
 
-# [001-04] S0 VTOL IRAD
+# S0 VTOL IRAD
 
 ## Overview
-- **Client/Customer:** Multiple (NOAA, ERAU, Barbados mentioned in delivery milestones); appears to be internal R&D platform with external customers
-- **Dollar Value:** Not specified in custom fields
-- **Timeline:** 
-  - Current phase: Hover testing (ready to begin week of Feb 26, 2024)
-  - Near-term: Avionics integration and testing (Dec 2026)
-  - Customer deliveries: ERAU (Apr 2025), Barbados (Jun 2025)
-  - Extended testing: Through Jun 2026
-- **Status:** Active – low priority but progressing. Recent completions (avionics ordering, DFM checks, fit verification as of Nov 4, 2026). Status update dated Feb 21, 2024 indicates "should be able to begin hover testing next week."
-- **Team Members:** Alex Lomis (owner/lead), Jack Elston, Sam Hild, Ali Sulehria, Spencer Hoehl, Ethan Domagala, Josh Waldman
-- **Risk Signals:** 
-  - One task ("Identify motor imbalance bug") was due Feb 20, 2026 and remains open
-  - "Build up another S0-VTOL" due Mar 4, 2026 and open
-  - Many unassigned tasks across bench/flight testing milestones with no due dates
-  - Wide date scatter (some tasks due 2025, others 2027) suggests phased or contingent work
+- **Project**: Internal R&D (IRAD) for S0 VTOL platform development
+- **Owner**: Alex Lomis
+- **Team**: Whole BST team (Jack Elston, Sam Hild, Ali Sulehria, Spencer Hoehl, Ethan Domagala, Josh Waldman, and others)
+- **Status**: [YELLOW] Active development with near-term testing milestones
+- **Timeline**: Current phase focuses on avionics integration (Dec 2026), with flight testing and customer deliveries extending through mid-2025
+- **Risk signals**: 
+  - One overdue task: "Identify motor imbalance bug" (due 2026-02-20)
+  - Multiple unassigned critical tasks in bench/flight test milestones
+  - High volume of unscheduled design/improvement tasks assigned to Alex Lomis with no due dates
 
 ## Key Deliverables & Milestones
 
-| Milestone | Owner | Due Date | Est. Hours | Status |
-|-----------|-------|----------|-----------|--------|
-| Build up new avionics/bench test | Jack Elston | Dec 4, 2026 | 40h | Open |
-| Integrate new avionics into platform | Alex Lomis | Dec 11, 2026 | 32h | Open |
-| 50 transition flights | Spencer Hoehl | Dec 18, 2026 | 40h | Open |
-| Pack and Deliver | Ethan Domagala | Dec 21, 2026 | 8h | Open |
-| Build guides/work instructions | Josh Waldman | Jan 1, 2027 | – | Open |
-| Visual Observation Bench Test | Alex Lomis | Apr 30, 2026 | – | Open (unassigned subtasks) |
-| Instrumented Bench Test | Alex Lomis | May 15, 2026 | – | Open (unassigned subtasks) |
-| Instrumented Flight Test | Alex Lomis | Jun 5, 2026 | – | Open (unassigned subtasks) |
-| ERAU S0 Delivery | – | Apr 30, 2025 | – | Open (unassigned) |
-| Barbados S0 Delivery (1) | – | Jun 13, 2025 | – | Open (unassigned) |
-| NOAA (2) | Alex Lomis | No due date | – | Open |
+### Near-Term (Dec 2026–Jan 2027)
+| Milestone | Owner | Due Date | Status |
+|-----------|-------|----------|--------|
+| Build up new avionics/bench test | Jack Elston | 2026-12-04 | In progress (48h est.) |
+| Integrate new avionics into platform | Alex Lomis | 2026-12-11 | In progress (32h est.) |
+| 50 transition flights | Spencer Hoehl | 2026-12-18 | Not started (40h est.) |
+| Pack and Deliver | Ethan Domagala | 2026-12-21 | Not started (8h est.) |
+| Build guides/work instructions | Josh Waldman | 2027-01-01 | Not started |
+
+### Mid-Term Testing (Apr–Jun 2026)
+| Milestone | Owner | Due Date | Status |
+|-----------|-------|----------|--------|
+| Visual Observation Bench Test | Alex Lomis | 2026-04-30 | Not started (no assignments) |
+| Instrumented Bench Test | Alex Lomis | 2026-05-15 | Not started (no assignments) |
+| Instrumented Flight Test | Alex Lomis | 2026-06-05 | Not started (no assignments) |
+
+### Customer Deliveries (2025)
+| Milestone | Owner | Due Date | Status |
+|-----------|-------|----------|--------|
+| ERAU S0 Delivery | Unassigned | 2025-04-30 | Not started |
+| Barbados S0 Delivery (1) | Unassigned | 2025-06-13 | Not started |
+| NOAA (2) | Alex Lomis | No due date | Not started |
 
 ## Task Summary
 
-- **Total:** 45 tasks (42 open, 3 completed)
-- **Completion Rate:** 6.7% (very early stage)
-- **By Assignee:**
-  - **Alex Lomis:** 23 tasks (design decisions, integration, testing oversight) – highest volume
-  - **Unassigned:** 12 tasks (primarily bench/flight testing subtasks)
-  - **Jack Elston:** 3 tasks (avionics procurement, DFM, remote ID)
-  - **Ali Sulehria:** 2 tasks (electronics & test bench work, final QC)
-  - **Spencer Hoehl:** 1 task (transition flights)
-  - **Ethan Domagala:** 1 task (pack & deliver)
-  - **Josh Waldman:** 1 task (guides/work instructions)
-  - **Sam Hild:** 1 task (electronics bench test)
-- **Key Pattern:** Alex Lomis owns most design/engineering decisions; many test and integration tasks remain unassigned, suggesting contingent assignment after earlier milestones complete
+**Overall**: 42 open tasks, 3 completed (7% completion rate)
+
+**By Assignee** (open tasks):
+- Alex Lomis: ~26 tasks (many unscheduled design/improvement work, no due dates)
+- Jack Elston: 2 tasks (avionics integration + design updates)
+- Sam Hild: 1 task (bench test, due 2026-12-04)
+- Ali Sulehria: 1 task (bench test, due 2026-12-04)
+- Spencer Hoehl: 1 task (transition flights, due 2026-12-18)
+- Ethan Domagala: 1 task (pack/deliver, due 2026-12-21)
+- Josh Waldman: 1 task (build guides, due 2027-01-01)
+- Unassigned: ~9 critical tasks (bench/flight test subtasks, customer deliveries)
+
+**Notable patterns**:
+- Heavy concentration of open-ended design/improvement tasks on Alex Lomis with no due dates
+- Critical test and delivery milestones lack assigned owners
+- Recently completed tasks (Nov 4, 2026) were avionics procurement and fit checks
 
 ## Recent Activity
 
-**As of Feb 21, 2024:**
-- Status update indicates readiness to begin hover testing the following week
-- Recently completed (Nov 4, 2026):
-  - Ordered S0-VTOL avionics stacks and electronics
-  - Finished DFM (Design for Manufacturing) checks
-  - Verified new avionics stack fits in OnShape design
-- Next phase: Proceed to avionics bench testing (Sam Hild, Ali Sulehria) and integration (Alex Lomis)
+**Latest (Feb 21, 2024 status update)**:
+- Should be able to begin hover testing next week
+- 3 recent completions (Nov 4, 2026): avionics orders placed, DFM checks finished, avionics fit validated
+
+**Upcoming critical path** (next 6 weeks):
+- Bench test avionics (Dec 4)
+- Integrate avionics into fuselage (Dec 8–9)
+- 50 transition flights (Dec 18)
+- Final QC and delivery (Dec 21)
 
 ## Notes & Context
 
-- **Project Structure:** Highly iterative hardware development with multiple testing phases (bench → instrumented bench → instrumented flight → customer delivery)
-- **Custom Field Priority:** Marked as "Low" – may indicate this is exploratory IRAD work rather than immediate revenue-critical
-- **Assembly & Manufacturability Focus:** Significant effort on design refinements (motor wire color-coding, drill jigs, aileron mounts, battery design, wiring/harness standardization, autopilot mounting). Suggests S0 is moving from prototype to more producible design
-- **Unassigned Test Work:** Large cluster of unassigned subtasks across Visual Observation, Instrumented Bench, and Instrumented Flight milestones (parachute recovery, sensor integration, firmware logging for Teensy). These will likely be assigned as earlier milestones complete
-- **Customer Commitments:** ERAU and Barbados deliveries due 2025; NOAA units unscheduled (potentially unfunded or contingent)
-- **Long Tail:** Many design exploration tasks with no due dates (radar vs. laser, IR surface temperature necessity, dual GPS accommodation, ESC telemetry reading method) indicate active iteration and feature evaluation
+### Process Gaps (per team feedback, Oct 2026)
+**Daniel Prendergast** flagged a critical organizational gap: **No well-defined process for transitioning proposed system builds into production pipeline.** Example: LMUK project requires 2× S0-AD with Magnetometer, 2× with Camera, 2× (more)—but the pipeline to formalize and track these orders is undefined. The **S0 Production QC Website** (built by Jack) tracks S0-AD orders with dashboard and add-order button, but only covers S0-AD and lacks holistic production visibility.
+
+### Asana Restructuring (Oct 2026)
+**Maciej** proposed restructuring to improve R&D tracking:
+- **Two-level planning**: Asana for long-term milestones & weekly task prep; physical Kanban board for weekly engineering execution
+- **6-month rolling milestone plan**: Better tie Asana to operational execution
+
+### Priority
+Custom field: **Low**
+
+### Design & Engineering Backlog
+Unscheduled Alex Lomis tasks include motor imbalance diagnosis, battery design options (4s2p vs. 2x2), nose material yellowing, aileron/landing/autopilot mount improvements, sonde electronics redesign, wire harness/assembly optimization, and component sourcing. These are active R&D but lack due dates and appear lower priority than near-term delivery milestones.
