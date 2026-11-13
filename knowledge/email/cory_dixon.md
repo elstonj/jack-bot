@@ -1,103 +1,125 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 73 emails (62 previous + 11 new)
+- **Total messages scanned:** 84 emails (73 previous + 11 new)
 - **Date range:** Mon 9 Nov 2026 – Thu 12 Nov 2026
-- **Volume:** Sustained high activity through Wed 11 Nov; new data shows shift toward facilities/infrastructure coordination and Asana task management; external promotional contact on Thu 12 Nov
+- **Volume:** Sustained high activity; new data shows Thursday spike including calendar invitations, automated tool onboarding, external partnership inquiry, and HR/recruiting traffic
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — 19+ emails (program updates, customer coordination, forwarded decisions; continues as primary information hub)
-2. **Brandon Messersmith** (via Asana) — 5 new automated notifications (Wed 11 Nov 21:58–22:06 UTC; facilities/WiFi project coordination)
-3. **Beck Cotter** (beck.cotter@blackswifttech.com) — 4 emails (customer/USAF coordination, now also visible in "Vantor" discussion)
-4. **Robert Edson** (via Google Drive/Sheets) — 5+ document shares (shop tools, bench configuration, now "Shop Bench Tools" spreadsheet)
-5. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 3 flight test planning invitations
-6. **Nikolai Pawlenko** (NOAA Federal) — 3 emails on Aerostar S0 drop testing
-7. **Maciej Stachura** (stachura@blackswifttech.com) — 2 new emails (Vantor discussion with Jack Elston)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails (program updates, customer coordination, forwarded decisions, site visit follow-up; continues as primary information hub)
+2. **Brandon Messersmith** (via Asana) — 6 notifications (Wed–Thu; facilities/WiFi project coordination; Asana reminder on Thu 12 Nov 22:07 UTC)
+3. **Beck Cotter** (beck.cotter@blackswifttech.com) — 5 emails (customer/USAF coordination, Vantor discussion, CU Boulder customer discovery inquiry forwarded to Spencer Hoehl)
+4. **Robert Edson** (via Google Drive/Sheets) — 5+ document shares (shop tools, bench configuration, Shop Bench Tools spreadsheet)
+5. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — 3 flight test planning + CU Boulder customer discovery inquiry
+6. **Nikolai Pawlenko** (NOAA Federal) — 3 emails (Aerostar S0 drop testing)
+7. **Maciej Stachura** (stachura@blackswifttech.com) — 2 emails (Vantor, RAVEN discussion)
+8. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **New**: 1 email (USSOCOM compliance coordination; FCL/DD254 process forwarded by Jack Elston)
+9. **Hadley Solomon** (hadley.solomon@creativealignments.com) — **New**: 1 calendar invitation (TPM interview coordination; externally scheduled)
+10. **Fabian Kis** (fabiankis@vortexcaphub.com) — **New**: 1 external inquiry response (Vortex Cap Hub partnership/vendor contact)
 
-### Top Recipients (Cory Outbound)
-- Primarily receiving; actively engaged on Asana tasks and shared documents
-- No new outbound messages in this data slice
+### External Contacts (New)
+- **Hadley Solomon (Creative Alignments)** — Calendar invite for "Black Swift Technologies TPM Interview: Patrick Leon" on Mon 16 Nov 3pm MST; suggests BST conducting or coordinating third-party personnel assessment/interview
+- **Fabian Kis (Vortex Cap Hub)** — Reply to Cory inquiry; vendor/partnership contact in aerospace/components space
+- **Glassdoor Community** — Automated career/recruitment platform notification (likely Cory browsing or job hunting signal; unsolicited)
+- **Toggl (Time Tracking)** — Automated onboarding/usage notifications (Thu 12 Nov 20:29, 15:01 UTC); suggests Cory recently activated or was enrolled in Toggl time tracking tool
+- **USSOCOM (DoD)** — Michael C. Jagelewski, Evan M. Wolff, Zachary O. Kachel; FCL/DD254 compliance discussion forwarded by Daniel Prendergast (Security Clearance/Contract Language Process)
 
 ### Internal vs External
 - **Internal (BST):** Jack Elston, Spencer Hoehl, Daniel Prendergast, Maciej Stachura, Ali Sulehria, Robert Edson, Joshua Waldman, Beck Cotter, Brandon Messersmith
-- **External:** 
+- **External:**
+  - **DoD/USSOCOM:** Michael C. Jagelewski (Civ), Evan M. Wolff (Mil), Zachary O. Kachel (Mil); FCL/DD254 compliance coordination
   - **NOAA:** Nikolai Pawlenko (Aerostar S0)
   - **ERAU:** Ebenezer P. Gnanamanickam (NASA wind tunnel)
-  - **DoD/USAF:** Russell E. Evans (AFLCMC/WLNE), USSOCOM contacts
+  - **DoD/USAF:** Russell E. Evans (AFLCMC/WLNE)
   - **Krateo Sky:** Brian Grubel, Bob Smith, Lisa Marie Cheney
   - **Lumicity:** Robert Powell, Max Pheysey
-  - **Italy-based:** Dronitaly (bfwe.it) — unsolicited promotional/event contact
+  - **Creative Alignments:** Hadley Solomon (TPM interview coordination)
+  - **Vortex Cap Hub:** Fabian Kis (vendor/component supplier inquiry)
+  - **CU Boulder:** Customer discovery inquiry (forwarded by Beck Cotter to Spencer Hoehl; small drones/wind research)
+  - **Italy-based:** Dronitaly (unsolicited promotional contact)
 
 ## Topic Patterns
 
 ### Active Programs & Projects
-- **Aerostar S0 Program** — Continues active (drop testing, NOAA customer engagement)
-- **RAVEN Program** — **New reference**: Jack Elston/Maciej Stachura discussion on "RAVEN Orientation and Black Swift Site Visit" slides (external partner orientation materials)
-- **Vantor** — **New program/project**: Beck Cotter and Maciej Stachura discussion on Wed 11 Nov (purpose/nature not clear from subject lines)
-- **Krateo Sky/KS-Creative Alignments** — Continues as active partnership
-- **NASA/ERAU Wind Tunnel Testing** — Multi-participant coordination
+- **Aerostar S0 Program** — Continues active (drop testing, NOAA engagement)
+- **RAVEN Program** — Continues (Jack Elston/Maciej Stachura orientation coordination)
+- **Vantor** — Continues (Beck Cotter, Maciej Stachura discussion)
+- **Krateo Sky/KS-Creative Alignments** — Continues (now with external TPM interview scheduled Mon 16 Nov for "Patrick Leon"; suggests performance/capability evaluation or third-party assessment for Krateo partnership)
+- **NASA/ERAU Wind Tunnel Testing** — Continues
 - **KS Arena Implementation** — Continues
+- **CU Boulder Customer Discovery** — **New**: Beck Cotter forwarding customer inquiry on wind/small drones research; Spencer Hoehl as recipient (20-minute discussion opportunity)
 
 ### Infrastructure & Facilities
-- **WiFi Improvement** — Brandon Messersmith leading facilities project; attachments added Wed 11 Nov 21:58 UTC (assigned project tag [001-13] Facilities Management); Cory tagged for comment/review
-- **Install and setup** — Asana task with Brandon Messersmith comments (likely infrastructure-related)
-- **Define and order hardware** — Asana task; hardware procurement for facilities project
-- **Shop Bench Tools** — Robert Edson shared spreadsheet (Wed 11 Nov); ongoing production/manufacturing workspace documentation
+- **WiFi Improvement** — Brandon Messersmith continues; Asana reminder sent Thu 12 Nov 22:07 UTC (continued task tracking)
+- **Shop Bench Tools & Production Setup** — Robert Edson continues shared spreadsheet documentation
 
-### Government/Defense
-- **RAVEN Orientation** — Suggests new DoD/defense program or partner engagement (orientation materials being shared internally)
-- **USAF AFLCMC/WLNE** — Continues site visit coordination
-- **USSOCOM, NOAA, NASA partnerships** — Ongoing
+### Government/Defense & Compliance
+- **FCL/DD254 Process** — **New/Elevated**: Daniel Prendergast coordinating USSOCOM compliance process; Jack Elston forwarded to Cory for awareness. Suggests BST ramping contracting/security clearance infrastructure for DoD work (likely tied to RAVEN or expanding USSOCOM engagement)
+- **USSOCOM partnerships** — Continues; now with compliance documentation phase visible
+
+### HR/Recruiting
+- **Internship Interest** — Automated submission from Emmett Connolly to careers@blackswifttech.com / careers@bst.aero (forwarded to Cory's inbox; HR traffic)
 
 ## Communication Patterns
 
 ### Temporal Patterns
-- **Asana bulk activity:** Brandon Messersmith issued 5 notifications in 8-second window (21:58:28–21:58:36 UTC) followed by 4 comments (22:06:28–22:06:34 UTC) — suggests batch task setup or multi-attachment add
-- **Wednesday evening coordination:** Heaviest activity on Wed 11 Nov (21:58–22:51 UTC); Vantor discussion at 15:19–15:20 MST
-- **Sustained engagement through Thu morning:** Promotional email from Dronitaly on Thu 12 Nov 09:34 UTC (unsolicited)
+- **Thursday spike (12 Nov):** Concentrated activity 10:03–23:26 UTC across calendar invitations, tool onboarding, external inquiries, and automated notifications
+- **Morning window (10:03–14:38 MST):** Beck Cotter customer inquiry, Fabian Kis vendor response, Jack Elston forwarded site visit follow-up
+- **Evening window (20:29–23:26 UTC):** Tool adoption notifications (Toggl), Asana task reminder, Glassdoor/recruitment platform noise
+- **Monday calendar invite (16 Nov):** Hadley Solomon scheduling TPM interview 3pm MST (4-day lead time; external coordination with Creative Alignments)
 
 ### Mailing Lists & Group Comms
-- **Production Team Standup** — Continues weekly participation
-- **Asana project collaboration** — [001-13] Facilities Management project active with Brandon Messersmith
-- **RAVEN program coordination** — External partner orientation
+- **Asana project collaboration** — [001-13] Facilities Management continues; Brandon Messersmith active task/comment coordination
+- **USSOCOM distribution:** Daniel Prendergast/Jack Elston forwarding compliance discussion to Cory (indirect recipient on DoD chain)
+- **Recruitment/HR traffic:** Internship inquiries forwarded to Cory's inbox (HR filtering or Cory involvement in hiring)
 
 ### Automated/Newsletter Patterns
-- **Asana notifications** — Bulk task/comment activity from Brandon Messersmith (facilities project)
-- **Google Sheets sharing** — Robert Edson continuing document collaboration
-- **BST website contact form** — Automated inquiry (Wed 11 Nov 22:51 UTC) flagged as important; likely sales lead or partnership inquiry
-- **Unsolicited promotional email** — Dronitaly (bfwe.it) ASSORPAS 2026 event; not targeted to Cory specifically (sent to info@blackswifttech.com but landed in Cory's inbox)
+- **Asana task reminders** — Brandon Messersmith comments flagged IMPORTANT (Thu 12 Nov 22:07 UTC)
+- **Toggl time tracking onboarding** — 2 emails from Toggl (Thu 12 Nov 20:29, 15:01 UTC) suggesting tool enrollment or reactivation; likely mandated by BST or project-based requirement
+- **Glassdoor community notification** — Unsolicited career/financial planning content (Cory likely registered on platform; career browsing signal or passive jobseeker activity)
+- **Google Calendar invitations** — Hadley Solomon (Creative Alignments) issuing formal meeting invitation for external TPM interview
+- **Automated HR/career platform traffic** — Internship inquiries routed to Cory or his team
 
 ## Key Relationships
 
 ### Closest Internal Collaborators (by frequency)
-1. **Jack Elston** — Continues as primary program lead; now also coordinating RAVEN program orientation
-2. **Brandon Messersmith** — **New/elevated priority**: Facilities management and infrastructure project lead; active Asana task assignment on WiFi, hardware, and setup installation
-3. **Beck Cotter** — Customer/USAF coordination; now also involved in Vantor discussion
-4. **Robert Edson** — Production workspace documentation and tool management
-5. **Maciej Stachura** — RAVEN program coordination with Jack Elston; Vantor discussion
+1. **Jack Elston** — Continues primary program lead; now forwarding USSOCOM compliance coordination (FCL/DD254); elevated strategic visibility
+2. **Brandon Messersmith** — Facilities/WiFi project continues; Asana task reminders; infrastructure coordination
+3. **Beck Cotter** — Customer/USAF coordination; CU Boulder new customer inquiry routing; customer discovery engagement
+4. **Robert Edson** — Production/shop tool documentation continues
+5. **Daniel Prendergast** — **New/elevated**: USSOCOM compliance/security clearance process coordination
+6. **Spencer Hoehl** — CU Boulder customer discovery inquiry recipient; flight test planning continues
+7. **Maciej Stachura** — RAVEN and Vantor program coordination continues
 
 ### External Key Relationships
-1. **Nikolai Pawlenko (NOAA Federal)** — Aerostar S0 carrier development (continues)
+1. **Nikolai Pawlenko (NOAA Federal)** — Aerostar S0 (continues)
 2. **Russell E. Evans (USAF AFLCMC/WLNE)** — Site visit/contract coordination (continues)
-3. **Robert Powell & Max Pheysey (Lumicity)** — Friday meeting coordination (continues)
-4. **RAVEN program partners** — TBD (external orientation materials being socialized)
+3. **Robert Powell & Max Pheysey (Lumicity)** — Continues
+4. **Hadley Solomon (Creative Alignments)** — **New**: External TPM interview coordination for Patrick Leon assessment (Mon 16 Nov); suggests capability evaluation or personnel assessment tied to Krateo partnership
+5. **Fabian Kis (Vortex Cap Hub)** — **New**: Vendor/component supplier in aerospace space; responding to Cory inquiry
+6. **Michael C. Jagelewski, Evan M. Wolff, Zachary O. Kachel (USSOCOM)** — **New**: DoD contracting/compliance coordination chain; FCL/DD254 security clearance language negotiation visible
 
 ## Notable Observations
 
-- **Facilities expansion underway:** Brandon Messersmith is leading WiFi improvement, hardware procurement, and installation/setup across facilities ([001-13] Facilities Management project). Cory's inclusion suggests involvement in production/operations infrastructure or technical facility requirements.
+- **USSOCOM compliance ramp:** Daniel Prendergast's FCL/DD254 correspondence (forwarded by Jack Elston) suggests BST is formalizing DoD contracting infrastructure—likely prerequisite for scaling RAVEN or broader USSOCOM program engagement. Cory's inclusion indicates operations/program coordination role in compliance/contracting process.
 
-- **New RAVEN program visible:** Jack Elston and Maciej Stachura are coordinating "RAVEN Orientation and Black Swift Site Visit" materials. This appears to be a new external partner engagement or DoD program addition (distinct from Aerostar/Krateo/USSOCOM). Orientation materials suggest partner onboarding or multi-party program kickoff.
+- **Krateo TPM Interview:** Hadley Solomon (Creative Alignments) scheduling formal "Black Swift Technologies TPM Interview: Patrick Leon" for Mon 16 Nov 3pm MST. This is an **external assessment** or **third-party evaluation**—possibly performance/capability evaluation for Krateo partnership, personnel assessment, or program maturity review. Unusual that it's labeled "Black Swift Technologies TPM Interview" but coordinated externally with Creative Alignments.
 
-- **Vantor emergence:** Beck Cotter, Jack Elston, and Maciej Stachura discussing "Vantor" on Wed 11 Nov (15:19–15:20 MST). Purpose unclear from metadata alone; could be client, program, or internal project codename.
+- **New customer discovery opportunity:** Beck Cotter forwarding CU Boulder wind/small drones inquiry to Spencer Hoehl (20-minute discussion window). Suggests business development/customer pipeline activity; technical sales alignment with Spencer.
 
-- **Shift in Cory's workload profile:** New data shows increased tagging on facilities/infrastructure (Asana), production workspace setup (Shop Bench Tools), and passive coordination on new programs (RAVEN, Vantor). Suggests Cory may be **operations/facilities lead** or **technical program coordinator** rather than pure engineering function.
+- **Vortex Cap Hub vendor engagement:** Fabian Kis responding to Cory inquiry—likely component/subsystem supplier evaluation for ongoing manufacturing or product development.
 
-- **Production/manufacturing infrastructure focus:** Repeated collaboration with Robert Edson on shop tools, bench configuration, and now hardware procurement aligns with expanding manufacturing capability or facility scale-up.
+- **Tool adoption signal (Toggl):** Cory enrolled in Toggl time tracking (Thu 12 Nov notifications). Could indicate:
+  - Project-based time tracking mandate (likely for RAVEN, Vantor, or defense contracting compliance)
+  - Facilities/facilities management project-specific billing
+  - Operations/program coordinator time allocation tracking
 
-- **Asana adoption acceleration:** Brandon Messersmith's bulk task creation (5 notifications in seconds) on Wed 11 Nov suggests sprint or project launch. Cory directly tagged on Asana workflows (WiFi Improvement, hardware definition, installation setup).
+- **Glassdoor activity:** Unsolicited Glassdoor financial planning notification suggests Cory is on platform—may indicate passive career exploration or job market awareness. Low signal (likely marketing/spam), but worth noting in context of Toggl/workload tracking enrollment.
 
-- **Unsolicited external contact:** Dronitaly promotional email (Italy-based drone/aircraft event) may indicate Cory's involvement in drone/aircraft R&D visible to industry; likely spam/marketing list inclusion rather than targeted outreach.
+- **HR/recruiting involvement:** Internship inquiry routed to Cory's inbox; may indicate Cory is involved in hiring, technical screening, or mentoring for BST internship program.
 
-- **BST website inquiry:** Automated contact form submission flagged as IMPORTANT suggests sales/business development team monitors inbound leads; may be relevant to RAVEN or Vantor program interest.
+- **Shift in workload visibility:** Cory is now directly copied on USSOCOM compliance discussions and external partner assessments—suggests elevation to **program operations** or **contracts/compliance coordination** role alongside facilities/infrastructure responsibilities.
+
+- **External partnership maturity:** Creative Alignments TPM (Technical Program Manager) interview for "Patrick Leon" suggests professional service provider evaluation or third-party program assessment—likely tied to Krateo Sky partnership scaling or KS Arena implementation maturity gate.

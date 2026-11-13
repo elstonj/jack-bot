@@ -1,20 +1,20 @@
-_Computed from Toggl as of 2026-11-12: 1278.5 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 292.5 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+_Computed from Toggl as of 2026-11-13: 1292.0 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 306.0 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
 
 # [001-13] BD Pipeline — Time Tracking
 
 ## Overview
 - **Client:** Overhead (internal)
 - **Active Status:** Yes
-- **Billable:** No
-- **Total Hours Tracked:** 1,278.5 hours (all-time since 2020-01-01)
+- **Billable Status:** No
+- **Total Hours Tracked:** 1,292.0 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 472.5 | 36.9% |
-| Jack Elston | 292.5 | 22.9% |
-| Stachura | 267.0 | 20.9% |
-| Beck Cotter | 154.4 | 12.1% |
+| Dan | 472.5 | 36.6% |
+| Jack Elston | 306.0 | 23.7% |
+| Stachura | 267.0 | 20.7% |
+| Beck Cotter | 154.4 | 11.9% |
 | Kareem Ahmed | 51.6 | 4.0% |
 | Spencer Hoehl | 20.2 | 1.6% |
 | Josh Fromm | 19.2 | 1.5% |
@@ -23,20 +23,30 @@ _Computed from Toggl as of 2026-11-12: 1278.5 h total since 2020-01-01 — Dan 4
 **Primary Contributor:** Dan (472.5 hours)
 
 ## Activity Timeline
-Recent work centers on business development and partnership activities:
+Recent work entries show active business development across multiple strategic initiatives:
 
-- **EAB Meeting:** Jack Elston (19.8 hours combined)
-- **Royal Navy Visit:** Stachura (15.8 hours combined)
-- **UK RAVEN Project Kickoff:** Jack Elston (8.0 hours combined)
-- **Travel to Keesler AFB:** Jack Elston (8.0 hours)
-- **White Paper discussions:** Jack Elston and associated work (3.0 hours documented)
-- **Partner engagement:** Vantor visits/meetings (Stachura, 1.8 hours); Fletch Aero coordination (Jack Elston, 0.5h); Vantor Aerostar meeting (Stachura, 2.2h)
-- **Internal kickoffs:** BST/KS Internal SOCOM Kickoff (Jack Elston, 1.0h)
+**High-effort activities:**
+- **Keesler AFB engagement** (Jack Elston): 21.6 hours across travel and meetings
+- **Royal Navy Visit** (Stachura): 15.8 hours
+- **EAB Meeting** (Jack Elston): 19.8 hours total
+- **UK RAVEN Project Kickoff** (Jack Elston): 8.0 hours
 
-Significant portion of recent entries lack descriptions (Dan's entries particularly undocumented).
+**Partnership & discussion activities:**
+- Fletch Aero partnership discussions
+- Vantor meetings and visits (Stachura)
+- NOAA sensor white paper development
+- BST white paper discussions
+- Brian Argrow collaboration
+
+**Internal initiatives:**
+- BST/KS Internal SOCOM Kickoff
+- Business development research and ideation
+
+**Note:** A significant portion of Dan's entries (roughly 40 hours in recent data) lack descriptions, indicating general BD pipeline work without specific project tagging.
 
 ## Insights
-- **Work Type:** Business development pipeline activities—client meetings, proposal/white paper development, partnership visits, and program kickoffs
-- **Activity Pattern:** Mix of documented (meetings, events, travel) and undocumented work; Jack Elston focuses on specific initiatives (EAB, RAVEN, white papers); Dan carries largest load with minimal description transparency
-- **Recent Focus Areas:** UK RAVEN project, Royal Navy engagement, EAB involvement, and NOAA/sensor-related business development
-- **Distribution:** Leadership/BD roles concentrated among top three contributors (Dan, Jack Elston, Stachura); Beck Cotter and others provide supporting capacity
+- **Workload concentration:** Top 3 contributors (Dan, Jack Elston, Stachura) account for 81% of all hours
+- **Focus areas:** Government partnerships (DoD/Navy), academic collaboration (NOAA), and strategic proposal/white paper development
+- **Travel intensity:** Recent activity shows substantial travel for client/partner engagement
+- **Documentation gaps:** Many entries lack descriptive details, limiting visibility into specific activities
+- **Strategic scope:** Mix of immediate sales pursuits (Vantor, Fletch Aero) and longer-term initiatives (UK RAVEN, white papers)

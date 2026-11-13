@@ -62,13 +62,6 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Implementation spans autopilot, comms_protocol, and web_controller repositories
 - Feature merged into main branch after flight testing and GCS validation (May 8, 2026)
 
-**VTOL Landing Plan Calculation Update (April 28, 2026):**
-- Landing plan final length calculation coefficient updated from `3 * land_ias * nav_lookahead` to `4 * land_ias * nav_lookahead`
-- Rationale: Code changes made to autopilot required parameter adjustment
-- Future consideration: May transition to dynamic parameter-based calculation once new param is available
-- Decision made by: Maciej (autopilot lead)
-- Implementation by: Ben Busby
-
 **OpenWRT Build Infrastructure (May 7, 2026):**
 - Added comms_utils stub for OpenWRT-specific builds in web controller repository
 - Stub provides binary data reading functions for little-endian integer and float conversions (Uint16, Int16, Uint32, Int32, Uint64, Int64, Float32, Float64)
@@ -154,6 +147,12 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Completely reworked VTOL transitions in both directions with controlled deceleration and pivot maneuvers
 - **Announcement By:** Jack Elston (November 10, 2026, 12:18 UTC)
 
+**Post-Release Hotfix to Master (November 12, 2026):**
+- Maciej pushed small hotfix to Master for lost GPS hover improvement following the 3.3.0 release
+- Not considered required for release (per Maciej) but included in Master branch
+- Optional enhancement for improved GPS-loss hover handling
+- Status: Available in Master for Jack Elston review and optional integration
+
 ## Projects & Initiatives
 
 **SwiftCore 3.3.0 Release (COMPLETED - November 10, 2026):**
@@ -161,9 +160,10 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Flight testing completed with multiple failure scenario validation
 - Autopilot 3.3 release candidate firmware successfully validated
 - GPS-out VTOL hover fix validated and merged (November 2, 2026)
+- Post-release hotfix for lost GPS hover improvement pushed to Master (November 12, 2026)
 - All critical features and bug fixes integrated
 - 4+ years of development work consolidated into single release
-- Status: RELEASED to master branch
+- Status: RELEASED to master branch with post-release hotfix
 
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
@@ -177,7 +177,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Static sensor loss: Expected Level 2 failure behavior confirmed; no issues found
 - Mag failures: Showing normal/expected behavior
 - Waypoint skipping at higher altitudes: Reproduced by Ali Sulehria (has 20-minute screen recording for review)
-- **GPS-out in hover:** Validated with parameter changes and manual testing; fix merged into 3.3.0 (November 2, 2026)
+- **GPS-out in hover:** Validated with parameter changes and manual testing; fix merged into 3.3.0 (November 2, 2026); post-release enhancement pushed (November 12, 2026)
 
 **S3 Model Aircraft Configuration:**
 - Default S3 XML files added by Maciej (October 23, 2026)
@@ -191,7 +191,8 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 ## Action Items & Commitments
 
-**No open action items identified in latest communication (November 10, 2026).** Previous action items related to GPS-out hover fix validation and SwiftTab crash investigation appear to have been completed or resolved as part of the 3.3.0 release cycle.
+**Pending Review/Action:**
+- **Jack Elston:** Review and optional integration of lost GPS hover hotfix pushed to Master by Maciej (November 12, 2026) - Not marked as critical but available for evaluation
 
 ## Client & External References
 - **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
@@ -222,12 +223,14 @@ This channel serves as the primary technical communication hub for Black Swift T
 **Infrastructure & Repository Management:**
 - Evolution of development infrastructure beyond GitLab
 - Local git server now supporting additional project repositories (Navy STTR)
+- Post-release hotfix procedures for Master branch
 
 **VTOL Platform Support:**
 - Expanding aircraft and hardware platform support (S0-S3 VTOL variants)
 - New autopilot hardware (STM32H7, HW 3000, HW 2050)
 - Drop launch and air-deployment capabilities
 - Transition control improvements
+- GPS-loss hover handling refinements
 
 ## Important Resources
 
@@ -241,16 +244,24 @@ This channel serves as the primary technical communication hub for Black Swift T
 - SwiftTab-staging.apk crash reports and logs (collected by Ben Busby)
 
 **Software Branches/Versions:**
-- **SwiftCore 3.3.0** (Master branch - RELEASED November 10, 2026)
+- **SwiftCore 3.3.0** (Master branch - RELEASED November 10, 2026; post-release hotfix added November 12, 2026)
 - SwiftTab-staging.apk (3.3 branch)
 - release/3.3.0 (merged GPS-out hover fix and all critical features)
 - hotfix/no_gps_vtol_hover_fix (Maciej's original fix, merged with Jack's refinements)
+- Lost GPS hover improvement hotfix (pushed to Master November 12, 2026)
 
 **Infrastructure:**
 - Local git server (established October 27, 2026)
 - Navy STTR project repository (hosted on local server, not GitLab)
 
 ## Recent Activity
+
+**November 12, 2026 - Post-Release Hotfix to Master:**
+- Maciej pushed small hotfix to Master branch for lost GPS hover improvement
+- Context: This enhancement follows the 3.3.0 release from November 10, 2026
+- Assessment by Maciej: "Not required for release IMO, but it's in there if you wanted to check and add"
+- Status: Available in Master for Jack Elston's review and optional integration
+- Indicates continued refinement of GPS-loss hover handling beyond initial 3.3.0 release
 
 **November 10, 2026 - SwiftCore 3.3.0 OFFICIAL MASTER RELEASE (12:18 UTC):**
 

@@ -1,216 +1,209 @@
-_Asana snapshot as of 2026-11-12: 102 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-13: 102 open tasks, 0 completed (last 90 days)._
 
 # Contacts
 
 ## Overview
 
 **Owner:** Beck Cotter  
-**Team:** BST (Whole Team)  
-**Status:** Active (green) — Apr 21 status update received  
-**Total Contacts:** 102 open, 0 completed
-
-This is a master contact database serving as a central repository for commercial, federal agency, and university contacts. Contacts are linked to active or closed projects where relevant. Project-specific information is maintained within individual projects, not in contact records.
-
-**Key Note:** Contacts are maintained separately from projects. Use the Asana add-in for Gmail to send emails to contacts by searching for the contact name as the task name.
+**Team:** Black Swift Technologies (Whole Team)  
+**Status:** [green] Active — Contact database maintained as living resource  
+**Purpose:** Commercial, federal agency, and university contacts. Contacts connected to active or closed projects are also linked to those projects. Project-specific information is stored in the project, not the contact record.
 
 ---
 
-## Contact Categories & Breakdown
+## Database Summary
 
-### Federal Agencies & Government Contacts (26 contacts)
+- **Total Contacts:** 102 open, 0 completed
+- **All Contacts Unassigned** except Daniel Hesselius (Beck Cotter)
+- **No Due Dates** — This is a reference database, not a task list
 
-**NASA & Space Agency:**
-- Edward Adcock (NASA, Hampton VA)
+---
+
+## Contact Categories
+
+### Federal Agencies & Government
+
+**NASA (8 contacts)**
+- Edward Adcock (NASA Langley, Hampton VA)
 - Florian Schwander (NASA Ames, Moffett Field CA)
-- Ryan Pavlick (Jet Propulsion Laboratory, Pasadena CA)
-- Geoffrey Bland (NASA Ames / Aeropods project, Wallops Island VA) — *High Priority*
-- Stephen Scheidt (NASA Goddard, Odenton MD)
-- Matthew Fladeland (NASA Ames Technology Transfer, Moffett Field CA)
+- Geoffrey Bland (NASA Ames → now Aeropods project lead, personal email: geodronez@gmail.com)
+- Mark Motter (NASA Langley, Hampton VA)
+- Richard Kolyer (NASA Ames, Moffett Field CA)
+- Matthew Fladeland (NASA Ames Technology Transfer Office)
 - Will Wade (NASA Ames)
+- Ryan Pavlick (Jet Propulsion Laboratory, Pasadena CA) — ap.invoices@jpl.nasa.gov
 
-**NOAA:**
-- Nick Underwood (NOAA Aircraft Operations, Lakeland FL)
+**NOAA (2 contacts)**
+- Nick Underwood (NOAA Aircraft Operations Center, Lakeland FL)
 - Joe Cione (NOAA, Boulder CO)
 
-**USDA/USGS:**
+**US Military (5 contacts)**
+- Joshua Cosseth (Office of Naval Research, Navy TPOC, Arlington VA)
+- Scott Carpenter (ARMY, AFC Directorate)
+- Keith Jadus (ARMY, Director for Ground)
+- Russ Evans (USAF AFMC, Robins AFB GA) — Electrical Engineer (PCI Aviation)
+- Ryan Rickert (USAF, 53rd Weather Reconnaissance Squadron, Keesler AFB MS) — Chief Meteorologist
+
+**Other Federal**
 - Michael Cosh (USDA-ARS, Beltsville MD)
-- Kevin Pesola (USGS, Vancouver WA) — *Medium Priority*
+- Kevin Pesola (USGS, Vancouver WA) — Priority: Medium
+- PIEE (Navy/Air Force invoice submission portal)
+- IPP (US Treasury invoice portal for NASA, NOAA, USGS)
 
-**DoD & Military:**
-- Joshua Cosseth (Navy Office of Naval Research, Arlington VA) — *Navy TPOC*
-- Scott Carpenter (Army, Arlington VA)
-- Keith Jadus (Army Director for Ground, Arlington VA)
-- Russ Evans (USAF, Robins AFB GA) — Product: S0
-- Ryan Rickert (USAF 53rd Weather Reconnaissance Squadron, Keesler AFB MS) — Chief Meteorologist, Product: S0
-
-**Government Portals (Non-personal):**
-- PIEE (US Govt — Navy/Air Force invoice submission portal)
-- IPP (US Treasury — NASA, NOAA, USGS invoice submission portal)
-
-### Commercial & Private Sector (17 contacts)
-
-**Defense/Tech Services:**
-- Keven Gambold (Unmanned Experts Inc., Denver CO)
-- Bryan Sparling (ByLight Professional IT Services, McLean VA) — *Open Task Order; Technical Lead: Jeff Adelman*
-- Trenton McKibben (NexTech Solutions LLC, Kingsland GA) — Arctic demo with Canadian Joint Forces Command; Product: S3
-- Luke Peffers (Nexus Weather & Climate, Longmont CO)
-- Mark Bowersox (Urban Sky, Denver CO) — Stratospheric balloons w/ NASA
-
-**Specialized Services/Vendors:**
-- Microhard Systems Inc. (Jeff Catherwood, Sales Rep, Calgary AB) — Comms/networking
-- K-Mac Plastics (Marlo Gillion, Wyoming MI)
-- Paramount Tube/Precision Products (Gerald Yoquelet, Fort Wayne IN)
-- Aeronet Worldwide (Patrick Mulstay, Denver CO) — Freight shipper (replacing FreightPros as of Sept 2025)
-- AtmoFacts LLC (Stefan Metzger CEO, Louisville CO) — FluxMapper software
-- Weather Stream Inc. / Orbital Micro Systems (Michael Hurowitz CEO, Boulder CO) — Subcontractor (SMM Contract)
-
-**Consulting & Business Services:**
-- Airbotics Talent (Richard Nelson, Manchester UK) — Biz Dev
-- At Engineering Inc (Elliot Haag, Lakewood CO)
-- Boreas Consulting (Gijs de Boer, Boulder CO) — Management consulting
-
-### Contractors & Specialists (15 contacts)
-
-- DSKinetic LLC (Spencer Lisenby, Calabasas CA) — Pilot
-- Rubicon Aerospace / Lee Skidmore (Sandpoint ID) — UAV manufacturing (previously Northwind Composites)
-- Phase 1 Aviation (Sean Cole, Nampa/Caldwell ID) — Aircraft construction
-- MM Solutions (Foster Hill, Loveland CO) — Custom UAS cases (builds all cases for BST)
-- MicroFirm Engineering (Frank Strazzabosco, Erie CO) — Electronic hardware/software systems
-- Summit Assembly LLC (Thinh Nguyen, Denver CO)
-- Rocky Mountain High Aviation (D. Hesselius, Louisville CO) — Drone pilot
-- Soaring USA (Alex Breaux, Covina CA)
-- Ted Miles (Aeropods contractor, Onancock VA) — NASA AREN
-- Matthew Crabtree (Waveform Engineering, Englewood CO)
-- P3 Tech Consulting (Dawn Zoldi, Colorado Springs CO) — UAS-related consulting
-- I.V. Welding (Englewood CO)
-- Longmont Aerospace Medicine (Longmont CO) — Pilot licensing medical
-
-**Support & Logistics:**
-- Sunny Slope Sod Farm LLC (Longmont CO) — Flight testing location
-- WorldWide Express/UPS (Kelsie Pierson Account Manager, Denver CO) — Account #W002346756
-
-### Academic & Universities (13 contacts)
-
-- Prof. Fu Kuo Chang (Stanford University, Stanford CA) — *INV. 1666 submitted May 5, 2025 for S2 parts; Product: S2*
-- Tanay Topac (Stanford University) — Products: S0, S2
-- Daniel Hesselius (University of Colorado, Boulder CO) — *Assigned to Beck Cotter; Medium Priority; Product: E2*
-- Jamey Jacob (Oklahoma State University, Tulsa OK)
-- David Richter (University of Notre Dame, South Bend IN)
-- Kevin Adkins (Embry-Riddle Aeronautical University, Daytona Beach FL) — *Low Priority; Product: S0*
-- Joshua Wadler (Embry-Riddle Aeronautical University, Daytona Beach FL) — *Contracting Officer: Garrett Filson (filsong@erau.edu)*
-- Bassil El Masri (Murray State University, Murray KY) — *High Priority*
-- Kevin Rozmiarek (CU Stable Isotope Lab, Boulder CO) — *High Priority*
-- Tim Handley (UC Santa Cruz) — *Medium Priority; planning visit to Boulder July 2025*
-- John Park (Old Dominion University, Norfolk VA) — *Contracting Officer: Stephanie Haskell (sl2harri@odu.edu)*
-- Jun Zhang (University of Miami) — *Navy STTR sub; funding via ERAU sub; BST (Prime) → ERAU (sub) → U Miami (sub)*
-- Elizabeth Sanabia (University of Washington) — Senior Principal Oceanographer, UW Applied Physics Lab, US Navy Captain (retired)
-
-### Organizations & Non-Profits (8 contacts)
-
-- Sabu Best (Barbados Meteorological Services) — *High Priority*
+**International Govt**
 - Marcus Hartman (Choctaw Nation of Oklahoma)
-- Boulder Aeromodeling Society / Ken Jochim (President) — *Nate & Jack are current members (2025)*
+- Sabu Best (Barbados Meteorological Services) — Priority: High
+
+### Universities (11 contacts)
+
+- Daniel Hesselius (Univ. of Colorado, Boulder CO) — **Assigned to Beck Cotter** — Priority: Medium — Product: E2
+- Prof. Fu Kuo Chang (Stanford, Dept. of Aeronautics & Astronautics) — INV. 1666 submitted for S2 parts May 5, 2025
+- Tanay Topac (Stanford) — Products: S0, S2
+- Jamey Jacob (Oklahoma State University, Tulsa OK)
+- David Richter (University of Notre Dame, IN)
+- Kevin Adkins (Embry-Riddle Aeronautical University, Daytona Beach FL) — Priority: Low — Product: S0
+- Bassil El Masri (Murray State University, Murray KY) — Priority: High
+- Kevin Rozmiarek (CU Stable Isotope Lab, Boulder CO) — Priority: High
+- Tim Handley (UC Santa Cruz) — Priority: Medium — Planning visit to Boulder July 2025
+- Joshua Wadler (Embry-Riddle Aeronautical University, Daytona Beach FL) — Contracting officer: Garrett Filson (filsong@erau.edu)
+- John Park (Old Dominion University, Norfolk VA) — Contracting officer: Stephanie Haskell (sl2harri@odu.edu)
+- Jun Zhang (University of Miami) — Navy STTR sub structure: BST (Prime) → ERAU (sub) → U Miami (ERAU sub); his funding comes from ERAU
+
+**Research/Academic Support**
+- Elizabeth Sanabia (University of Washington, Applied Physics Lab) — Senior Principal Oceanographer, US Navy Captain (retired)
 - UCAR (University Corporation for Atmospheric Research, Boulder CO)
-- UST Echoblue LTD (Christchurch, Dorset UK) — Marketing
-- Defense Strategies Group
-- EKase Consulting LLC (Ed Kase, Boulder CO) — TABA provider
+
+### Commercial Partners & Subcontractors
+
+**Technology/Services (8 contacts)**
+- Keven Gambold (Unmanned Experts Inc., Denver CO)
+- Bryan Sparling (ByLight Professional IT Services, McLean VA) — Open Task Order — Technical Lead: Jeff Adelman (jeff.adelman@bylight.com) — Product: Design/prototyping
+- Trenton McKibben (NexTech Solutions LLC, Kingsland GA) — Arctic demo with Canadian Joint Forces Command — Product: S3
+- Luke Peffers (Nexus Weather & Climate, Longmont CO)
+- Mark Bowersox (Urban Sky, Denver CO) — Stratospheric balloons w/NASA
+- Michael Hurowitz (Weather Stream Inc / Orbital Micro Systems, Boulder CO) — Subcontractor on SMM Contract
+- Jeff Catherwood (Microhard Systems Inc., Calgary AB Canada) — Sales Rep — Tel: (403) 248-0028; Mobile: (403) 990-9365
+- Gijs de Boer (Boreas Consulting, Boulder CO) — Management consultant
+
+**Manufacturing & Hardware (7 contacts)**
+- Marlo Gillion (K-Mac Plastics, Wyoming MI) — Custom parts
+- Gerald Yoquelet (Paramount Tube / Precision Products, Fort Wayne IN)
+- Thinh Nguyen (Summit Assembly LLC, Denver CO)
+- Frank Strazzabosco (MicroFirm Engineering, Erie CO) — Electronic hardware/software systems — Mobile: (720) 244-6965
+- Foster Hill (MM Solutions, Loveland CO) — **Builds all custom cases for all UAS sold by BST**
+- Lee Skidmore (Rubicon Aerospace LLC, Sandpoint ID) — Subcontractor for UAV manufacturing; previously owned Northwind Composites
+- Stefan Metzger (AtmoFacts LLC, Louisville CO) — FluxMapper software
+
+**Aircraft & Aviation (4 contacts)**
+- Sean Cole (Phase 1 Aviation, Nampa ID) — Contractor for aircraft construction — Shipping address: 514 Dishman Pl, Caldwell ID 83605
+- Alex Breaux (Soaring USA, Covina CA)
+- D. Hesselius (Rocky Mountain High Aviation, Louisville CO) — Drone pilot
+- Longmont Aerospace Medicine — Dr used for pilot licensing
+
+**Aerospace/Space Contractors (3 contacts)**
+- Ted Miles (Contractor for NASA AREN projects)
+- DSKinetic LLC (Spencer Lisenby, Calabasas CA) — Subcontractor, pilot
+- Boulder Aeromodeling Society (Ken Jochim, President) — Aerospace member organization; Nate and Jack are current members (2025)
+
+**Logistics & Shipping (2 contacts)**
+- Patrick Mulstay (Aeronet Worldwide, Denver CO) — **New freight shipper replacing FreightPros (Sept. 2025)** — ID #: 823121 — Mobile: 303.549.7626; Office: 303.741.8996
+- Kelsie Pierson (WorldWide Express/UPS authorized reseller, Denver CO) — **As of 2025, WWEX is BST's UPS reseller** — Account #: W002346756
+
+**Business Development & Consulting (8 contacts)**
+- Richard Nelson (Airbotics Talent, Manchester UK) — Business development
+- Elliot Haag (At Engineering Inc, Lakewood CO)
+- Ed Kase (EKase Consulting LLC, Boulder CO) — TABA provider
+- Mike McGuire (FieldSync Services, Wheat Ridge CO) — Business consultant
+- Matthew Crabtree (Waveform Engineering, Englewood CO) — Consultant
+- Dawn Zoldi (P3 Tech Consulting, Colorado Springs CO) — Consultant, UAS-related issues
+- Kevin Hoskins (GovIRG LLC, Colorado Springs CO) — Government contracting consultant and accounting services
 - Entrepreneurial Solutions LLC (Boulder CO) — Business consultants
-- FieldSync Services (Mike McGuire, Wheat Ridge CO) — Business consultant
 
-### Professional Services & Administrative (17 contacts)
+### Operations & Administration
 
-**Insurance:**
-- Aetna (healthcare)
-- Atwood Insurance Group (Chad Atwood, Severance CO) — Health insurance broker (contact April for renewals)
-- Bolder Insurance (Karen Pickering, agent; Annabelle Corkill Account Manager)
+**Insurance (3 contacts)**
+- Chad Atwood (Atwood Insurance Group, Severance CO) — Health insurance broker; contact in April for renewals
+- Karen Pickering / Annabelle Corkill (Bolder Insurance, Denver CO) — Aviation insurance
+- Aetna — Healthcare provider
 
-**Utilities & Facilities:**
-- Comcast (Cobb Vaughan, Account Manager)
+**Financial & Professional Services (6 contacts)**
+- Shelby Hammond (Elevations Credit Union)
+- Christy Evans (ReliAscent, Westminster CO) — DCAA Accounting Firm
+- Mark Kightlinger (KCO Inc., Louisville CO) — Tax firm (as of 2026); replaced Bill Jones (retired)
+- Thierry Lepoutre (Boostr Consulting LLC, Boulder CO) — R&D Tax credits consultant
+- Jon Vince — Lawyer (drone government classification)
+- Dan Fredrickson (Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC, Boulder CO) — Law firm, transactional law
+
+**Other Administrative (6 contacts)**
+- Human Interest (San Francisco CA) — 401k provider
+- Comcast (Cobb Vaughan) — Account Manager, Office: 720-924-3070; Cell: 720-670-7191
 - Comcast (phone provider)
-- Eco-Cycle (Tracy billing contact, Boulder CO) — Monthly recycling pickup (19th)
-- Green Apple Cleaning Crew (Joshua, Lyons CO)
-- Kaiser Lock & Key (Authorized requesters: Jack Elston, Maciej Stachura, Meredith Needham)
-- W.W. Reynolds Companies (Amy Smith, landlord — Wilderness Pl location, Boulder CO)
+- Amy Smith (W. W. Reynolds Companies, Boulder CO) — Landlord (Wilderness Pl)
+- Eco-Cycle (Boulder CO) — Monthly recycling pickup (19th of every month); Billing: Tracy 720-564-2241
+- Green Apple Cleaning Crew (Lyons CO)
+- Kaiser Lock & Key (Boulder CO) — Authorized key requestors: Jack Elston, Maciej Stachura, Meredith Needham
 
-**Accounting, Tax & Legal:**
-- KCO Inc. Tax Firm (Mark Kightlinger, Louisville CO) — *As of 2026; replaced Bill Jones*
-- ReliAscent DCAA Accounting (Christy Evans, Westminster CO)
-- Elevations Credit Union (Shelby Hammond)
-- Human Interest (401k Provider, San Francisco CA)
-- Jon Vince (Lawyer, Toronto) — Drone government classification
-- Koenig, Oelsner, Taylor, Schoenfeld & Gaddis PC (Dan Fredrickson, Boulder CO) — Transactional law
-- Boostr Consulting LLC (Thierry Lepoutre CEO, Boulder CO) — R&D tax credits
+**Facilities & Support**
+- Mekdahl (Sunny Slope Sod Farm LLC, Longmont CO) — Flight testing location
+- Longmont Aerospace Medicine — Pilot licensing
+- UST Echoblue LTD (Christchurch, UK) — Marketing
 
-### Closed/Inactive Contacts (13 marked CLOSED)
+### Closed/Inactive Contacts (14 marked CLOSED)
 
 - Derek Davis
 - Frank DeFeo (Biz Dev)
-- Freight Pros (Replaced by Aeronet Sept 2025)
-- Jameel Barkat (Contractor — Biz Dev)
-- JB Advisory Group (Julie Beth Malone, CPA — ended due to lack of gov contracting background)
-- Jones & Associates CPAs PC (Bill Jones, retired Jan 2026)
-- Claudia Behnke (Accounting/Bookeeping)
+- Freight Pros (replaced by Aeronet Sept. 2025)
+- Jameel Barkat (Biz Dev)
+- JB Advisory Group (CPA, discontinued)
+- Jones & Associates CPAs PC / Bill Jones (retired Jan. 2026)
+- Claudia Behnke (Accounting/bookeeping)
 - Jennifer Rowe (FAR/DCAA consultant)
-- Kay Rufty (NASA AREN contractor, no longer working with BST as of mid 2025)
+- Kay Rufty (NASA AREN contractor, departed mid-2025)
 - Michael Irvin (Marketing consultant)
-- Northwind Composites (Lee Skidmore, acquired by Rubicon Aerospace)
-- Pembroke Defense Consulting (David Hendrickson, Biz Dev)
+- Northwind Composites (subsumed into Rubicon Aerospace)
+- Pembroke Defense Consulting (Biz Dev)
 - Scott Tibbitts (Biz Dev)
 - United Healthcare (former healthcare provider)
 
 ---
 
-## Task Summary
+## Key Patterns & Context
 
-- **Total Contacts:** 102 open (displayed as tasks)
-- **Completed Contacts:** 0
-- **Assigned:** Only 1 (Daniel Hesselius → Beck Cotter); all others unassigned
-- **Custom Fields in Heavy Use:**
-  - Company/Agency/Name
-  - Email
-  - Phone
-  - Address
-  - Product/s (S0, S1, S2, E2, Aeropod, etc.)
-  - Priority (High, Medium, Low)
-  - Website
-  - Notes (contextual info, relationships, special arrangements)
+### Products/Services Referenced
+- **S0, S1, S2, S3, E2, Aeropod** — Various product/service lines tracked across contacts
+- **Government invoicing:** PIEE (Navy/Air Force) and IPP (Treasury for NASA, NOAA, USGS)
 
----
+### Notable Relationships
+- **Stanford professors** (Fu Kuo Chang, Tanay Topac) with pending/submitted invoices for S2 parts (May 2025)
+- **Jun Zhang (U Miami)** part of Navy STTR with sub chain: BST → ERAU → U Miami
+- **Geoffrey Bland** transitioned from NASA Ames employee (until Aug. 2025) to managing Aeropods project
+- **MM Solutions** — exclusive custom case manufacturer for all BST UAS products
+- **Freight/Logistics transition:** Freight Pros → Aeronet Worldwide (Sept. 2025); WWEX is now the UPS reseller (2025)
 
-## Notable Patterns & Context
+### High Priority Contacts
+- Sabu Best (Barbados Meteorological Services)
+- Bassil El Masri (Murray State University)
+- Kevin Rozmiarek (CU Stable Isotope Lab)
+- Kevin Pesola (USGS) — Medium
 
-1. **Government Contracting Relationships:** Heavy representation of federal agencies (NASA, NOAA, DoD) with specific points of contact and invoice portal details (PIEE for Navy/AF, IPP for Treasury).
+### Geographic Distribution
+- Heavy concentration in Colorado (Denver, Boulder, Longmont, Louisville, Lakewood)
+- Significant federal presence: Hampton VA (NASA Langley), Moffett Field CA (NASA Ames), Boulder CO (NOAA, UCAR, various contractors)
+- International: UK (Airbotics Talent, UST Echoblue), Canada (Microhard Systems)
 
-2. **Product Tracking:** Contacts are tagged with BST products (S0, S1, S2, E2, Aeropod) to track which customers use which offerings.
-
-3. **Subcontracting Structure:** Complex supply chain visible (e.g., Jun Zhang at U Miami is a sub to ERAU, which is a sub to BST on Navy STTR).
-
-4. **Recent Vendor Changes:**
-   - **Freight:** FreightPros → Aeronet Worldwide (Patrick Mulstay) as of Sept 2025
-   - **Tax:** Bill Jones (Jones & Associates) retired Jan 2026 → KCO Inc. (Mark Kightlinger) as of 2026
-   - **Accounting:** Claudia Behnke → ReliAscent (DCAA specialist)
-
-5. **High-Priority Contacts:**
-   - Sabu Best (Barbados Meteorological Services)
-   - Geoffrey Bland (NASA Ames/Aeropods)
-   - Bassil El Masri (Murray State)
-   - Kevin Rozmiarek (CU Stable Isotope Lab)
-
-6. **Upcoming Milestones:**
-   - Tim Handley (UC Santa Cruz) planning visit to Boulder July 2025
-   - Invoice 1666 submitted to Prof. Fu Kuo Chang (Stanford) May 5, 2025 for S2 parts
-
-7. **No Due Dates:** Contacts are reference records, not time-bound tasks. The system maintains contact info only; project deadlines live in linked projects.
-
-8. **Organization:** Contact records follow consistent field structure for easy lookup and bulk communication via Asana Gmail add-in.
+### Usage Notes
+- **Asana Gmail Add-in:** Use contact task name to look up and email via Asana Gmail integration
+- **Project-specific data stays in projects**, not contact records
+- **No tasks or deadlines** on contacts themselves — this is a reference database
 
 ---
 
-## Usage Notes
+## Recent Activity
 
-This database is **reference-only**. To take action on a contact:
-1. Look up the contact name in Asana as a task
-2. Use the Asana Gmail add-in to send emails directly
-3. Link contact-specific business logic and timelines to the appropriate project tasks
+The database was last updated as of **April 21, 2025** (per status update tag). No task completion activity recorded (0 completed tasks) — this is a reference/maintenance database, not a task-driven project.
 
-**Project information stays in the Project**, not here. If a contact is working on a specific deliverable or has a payment due, that detail belongs in the project record.
+Notable recent changes reflected in contacts:
+- Aeronet Worldwide established as freight shipper (replacing Freight Pros, Sept. 2025)
+- KCO Inc. established as tax firm (as of 2026), replacing retired Bill Jones
+- Geoffrey Bland managing Aeropods project post-NASA (Aug. 2025 transition)
+- WWEX confirmed as UPS authorized reseller (2025)

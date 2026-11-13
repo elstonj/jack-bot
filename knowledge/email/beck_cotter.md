@@ -1,165 +1,165 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 88 emails (58 from previous scan + 30 new)
-- **Date range:** 9–12 November 2026
-- **Volume pattern:** High activity with acceleration on 11 Nov (16 emails). Peak activity 13:00–17:00 MST on 11 Nov. New data shows shift from inbound forwarding to active outbound business development and customer engagement. Most recent activity (12 Nov morning) includes internal sales group discussion and travel booking inquiry.
+- **Total messages scanned:** 103 emails (88 from previous scan + 15 new)
+- **Date range:** 9–13 November 2026
+- **Volume pattern:** High activity continues with new focus on customer engagement and research partnerships. 12 Nov shows shift from internal coordination to direct external customer discovery and partnership engineering check-ins. New data reveals active customer pipeline (Eric Grumbine/outdoor sports, CU Boulder wind research, Arctic Effort engineering consortium).
 
 ## Key Correspondents
 
 ### Top Senders (Updated)
-1. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails; continues as primary opportunity curator, now forwarding NASA programs (H-LCAS, NSPIRES), military partnerships (marine mammal monitoring), Stanford research collaboration, navigation resilience inquiry, SAE/RAM-AO initiative, Vantor technology partnership
-2. **Doodle** (mailer@doodle.com) — Poll updates for NASA wind tunnel testing at ERAU
-3. **Maciej Stachura** (stachura@blackswifttech.com) — Internal task/partnership coordination (Krateo Sky customer engagements, RAVEN orientation materials)
-4. **Joshua Fromm** (josh.fromm@blackswifttech.com) — Website lead/inquiry routing
-5. **Avinash Nayak** (avinash@insightgroupusa.com) — UAS technology demonstration & validation RFQ response
-6. **Asana, Slack** — Automated task/messaging notifications
+1. **Jack Elston** (elstonj@blackswifttech.com) — 20+ emails; opportunity curator, now also coordinating academic partnerships (CU Boulder Lucas Wheeler response, marked IMPORTANT 12 Nov 16:43)
+2. **Eric Grumbine** (ericgrumbine.1000@gmail.com) — NEW contact; 3 emails on outdoor sports video/photo/GPS drone request (12 Nov); marked IMPORTANT, active back-and-forth
+3. **Trenton McKibben** (Trenton.McKibben@nextechsol.com) — NEW contact; Arctic Effort engineering consortium (2 emails, both IMPORTANT, 12 Nov); multi-party distribution (Daniel Prendergast, Jack Elston, Pegasus Aero, UAX Solutions)
+4. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Internal inquiry re: CU Boulder customer discovery on wind/small drones (12 Nov 10:24, IMPORTANT)
+5. **Lucas C Wheeler** (Luke.Wheeler-1@colorado.edu) — University of Colorado contact; follows up with Jack Elston after Beck's response (12 Nov 16:43, marked IMPORTANT)
+6. **Doodle, Asana, Slack, Mail Delivery Subsystem** — Automated notifications (continued from previous scan)
 
 ### Top Recipients (Beck sends to) — Updated
-1. **Jack Elston** (elstonj@blackswifttech.com) — Strategic updates (NASA H-LCAS, NASA NSPIRES confirmation, C4F APEX coordination)
-2. **Joshua Fromm** (josh.fromm@blackswifttech.com) — Website contact form forwarding
-3. **Sanchez, Emilly CTR USN** (emilly.sanchez.ctr@us.navy.mil) — NAVY Phase II status update
-4. **Weichi/David Su** (weichi@smartec.com.tw, david_su@smartec.com) — S0 UAS (VTOL & air-deployed) inquiry response
-5. **Avinash Nayak** (avinash@insightgroupusa.com) — RFQ response for UAS technology demonstration
-6. **Sales distribution** (sales@blackswifttech.com) — Internal forwarding of RFQ and contact forms
+1. **Jack Elston** (elstonj@blackswifttech.com) — Marine mammal monitoring response (12 Nov 11:11)
+2. **Eric Grumbine** (ericgrumbine.1000@gmail.com) — Drone request response (12 Nov 14:15)
+3. **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Forward of CU Boulder customer discovery inquiry (12 Nov 10:03)
+4. **Lucas C Wheeler** (Luke.Wheeler-1@colorado.edu) — Black Swift Inquiry response (12 Nov 09:49)
+5. **Sarah Barr** (sarah.barr@ncas.ac.uk) — UCAS Budget update (12 Nov 10:30; NEW external research contact)
+6. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — UCAS budget coordination (12 Nov 10:30)
 
 ### Internal vs External — Updated
 
-**Internal:**
-- Jack Elston, Daniel Prendergast, Maciej Stachura, Meredith Needham, Ethan Domagala, Joshua Fromm
+**Internal (Expanded):**
+- Jack Elston, Daniel Prendergast, Maciej Stachura, Meredith Needham, Ethan Domagala, Joshua Fromm, Spencer Hoehl
 - Sales group distribution list
 
 **External (New/Updated):**
+- **Academic/Research:** 
+  - University of Colorado (Lucas C Wheeler @ Luke.Wheeler-1@colorado.edu) — wind/small drone research inquiry
+  - **NCAS (National Centre for Atmospheric Science, UK)** (Sarah Barr @ sarah.barr@ncas.ac.uk) — NEW; UCAS budget coordination (likely UCAS = University of Colorado Air-launched/Atmospheric Science program or similar)
 - **Government/Military:** 
-  - NASA JPL (Nikolic, Dragan @ dragan.nikolic@jpl.nasa.gov)
-  - NAVY (Sanchez, Emilly CTR @ emilly.sanchez.ctr@us.navy.mil)
-  - USAF AFLCMC/WLNE (Russell Evans — previous scan)
-- **Universities:** ERAU, University of Colorado (Lucas C Wheeler), Stanford (Ellie Zhang @ exzha@stanford.edu)
+  - NASA JPL, NAVY, USAF (continued from previous scan)
 - **Commercial/Technology Partners:** 
-  - Smartec (weichi@smartec.com.tw, david_su@smartec.com) — Taiwan-based, S0 UAS inquiry
-  - Insight Group USA (Avinash Nayak @ avinash@insightgroupusa.com) — RFQ broker/aggregator
-  - Krateo Sky (Jed Leonard @ jed@krateosky.com)
-  - Vantor (referenced by Jack Elston)
-  - Devis team (previous scan)
-  - Redhelm Labs (previous scan)
-- **Consultants/Advisors:** eKase Consulting (ed.kase@ekaseconsulting.com) — marine mammal monitoring inquiry
+  - **Nextechsol** (Trenton McKibben @ Trenton.McKibben@nextechsol.com) — NEW; Arctic Effort engineering consortium lead
+  - **Pegasus Aero** (mmcroberts@pegasusaero.ca) — NEW aerospace partner in Arctic Effort consortium
+  - **UAX Solutions (UK)** (Tim Johnston, George Booth @ uaxsolutions.co.uk) — NEW; Arctic Effort consortium member
+  - Smartec, Krateo Sky, Vantor (continued)
+- **Customer/Commercial Inquiries (New):**
+  - **Eric Grumbine** (ericgrumbine.1000@gmail.com) — Outdoor sports video/photo/GPS drone user
+- **Software/Service Vendors:**
+  - **Routescene** (marketing@routescene.com) — NEW; LiDAR system/software vendor (unsolicited marketing)
+- **Financial/Administrative:**
+  - Murray State University Accounts Payable (msu.appayment@murraystate.edu) — NEW; direct deposit advice (likely payroll/vendor payment notification)
 
 ## Topic Patterns — Updated
 
 ### New/Expanded Recurring Themes
-- **NASA Programs (Accelerating):**
-  - NASA H-LCAS program (forwarded by Jack Elston, marked IMPORTANT, 11 Nov 13:11 & 14:15)
-  - NASA NSPIRES participation confirmation (Jack Elston involvement, external contact @ JPL Nikolic, 11 Nov 13:11 & 12:31)
-  - NASA wind tunnel testing at ERAU (ongoing Doodle polling)
-- **NAVY/Military Contracting:**
-  - NAVY Phase II status update sent directly to Emilly Sanchez (CTR USN) on 11 Nov 10:54
-  - Marine mammal monitoring opportunity (Jack Elston response to eKase Consulting, 11 Nov 17:01)
-  - PEO-SW SOF Safety at Sea (previous scan)
-- **Commercial Technology/UAS Opportunities:**
-  - S0 UAS (VTOL & air-deployed) inquiry to Taiwan (Smartec, 11 Nov 11:28) — active outbound engagement
-  - Request for Quote: UAS Technology Demonstration and Validation (697DCK-25-R-00278-20280928) k3 — Multiple exchanges with Avinash Nayak (RFQ aggregator platform)
-- **Research Partnerships:**
-  - Stanford Fly-by-Feel research S2 simulation support (Jack Elston to Ellie Zhang @ Stanford, 11 Nov 15:08, marked IMPORTANT)
-- **Technical Partnerships & Navigation:**
-  - Navigation resilience for Black Swift (Jack Elston to Daniel Prendergast, Beck Cotter, Maciej Stachura, 11 Nov 16:50, marked UNREAD)
-  - Vantor technology/partnership (Jack Elston & Maciej Stachura discussion, 11 Nov 15:19 & 15:20)
-  - RAM-AO to Join SAE | Kick-Off Meeting Details (11 Nov 15:49)
-- **RAVEN Program/Orientation:**
-  - RAVEN Orientation and Black Swift Site Visit slides (Jack Elston to Maciej, 11 Nov 16:28, marked IMPORTANT)
+
+**Customer Acquisition (Emerging):**
+- **Outdoor Sports Video/Photo/GPS Drone Request** (Eric Grumbine, 12 Nov 11:27–17:17) — Direct customer inquiry routed through sales@blackswifttech.com, escalated back to Beck. Multi-round negotiations on drone platform for sports video/photo capture with GPS integration. Beck taking point on customer discovery.
+- **CU Boulder Wind Research Discovery** (12 Nov 10:03–10:24) — Beck forwarding external inquiry to Spencer Hoehl (internal specialist), requesting 20-minute customer discovery meeting on wind and small drones. Suggests BST platform interest in atmospheric research applications. Lucas Wheeler (University of Colorado) follow-up marked IMPORTANT, indicating positive response or opportunity advancement.
+
+**Engineering Partnerships (New):**
+- **Arctic Effort – Engineering Consortium** (Trenton McKibben/Nextechsol, 12 Nov 14:39–17:07) — Multi-party aerospace engineering check-in and support requirements discussion. Participants: BST (Beck, Daniel Prendergast, Jack Elston), Nextechsol (lead), Pegasus Aero (Canada), UAX Solutions (UK). Marked IMPORTANT; suggests collaborative R&D, supply chain, or environmental testing program. Two emails within 3 hours indicate active engineering cycle.
+
+**Research & Academic Partnerships (Expanded):**
+- **UCAS Budget Update** (Sarah Barr/NCAS UK, 12 Nov 10:30) — Beck coordinating budget matters with UK atmospheric science organization. Likely UCAS program (University of Colorado Atmospheric Science or similar collaborative program). Partnership scope unclear from header alone.
+- **Stanford Fly-by-Feel Research** (continued from previous scan, Jack Elston) — S2 simulation support ongoing.
+
+**Military/Government Programs (Continued):**
+- **Marine Mammal Monitoring** (Beck to Jack Elston, 12 Nov 11:11) — Response on eKase Consulting inquiry; continued development from previous scan.
+- **NAVY Phase II, NASA H-LCAS, NASA NSPIRES, RAVEN** (continued tracking)
 
 ### Project/Program Names — Updated
-- **NASA H-LCAS** — High-priority program engagement
-- **NASA NSPIRES** — Participation confirmation required (external contact with JPL)
-- **NAVY Phase II** — Status update sent to government contact
-- **UAS Technology Demonstration & Validation (697DCK-25-R-00278-20280928)** — RFQ with government bid number format
-- **S0 UAS (VTOL & Air-Deployed)** — Commercial/export inquiry to Taiwan (Smartec)
-- **C4F APEX** — Ongoing coordination with Jack Elston and Daniel Prendergast
-- **Stanford Fly-by-Feel Research** — S2 simulation support partnership
-- **RAVEN Program/Orientation** — Military/government program with site visit
-- **RAM-AO SAE Initiative** — New partnership or standards initiative
-- **Navigation Resilience for Black Swift** — Technology development/inquiry
-- **Vantor** — Technology or partnership (scope unclear from headers alone)
+- **Arctic Effort** — Multi-party aerospace engineering consortium (Nextechsol lead, Pegasus Aero, UAX Solutions, BST)
+- **CU Boulder Wind/Small Drone Research Discovery** — Academic research partnership opportunity
+- **UCAS** — University of Colorado Atmospheric Science program (likely; NCAS budget coordination suggests UK collaboration)
+- **Outdoor Sports Video/Photo/GPS Drone Platform** — Direct customer inquiry (Eric Grumbine)
+- **Previous programs retained:** NASA H-LCAS, NASA NSPIRES, NAVY Phase II, RAVEN, Stanford Fly-by-Feel, C4F APEX, S0 UAS (Taiwan), Marine Mammal Monitoring, Navigation Resilience, Vantor, RAM-AO SAE
 
 ### External Organizations — Updated
-- **Government/Military:** NASA JPL, NAVY, USAF, DOD, DARPA (previous)
-- **Universities:** ERAU, University of Colorado, Stanford, UMES (previous)
-- **Commercial Platforms/Aggregators:** Insight Group USA (Avinash Nayak) — appears to be RFQ distribution/matching service
-- **International Partners:** Smartec (Taiwan) — active S0 UAS inquiry
-- **Technology Partners:** Krateo Sky, Vantor, Redhelm Labs, Aerostar (previous), Devis (previous)
-- **Consulting:** eKase Consulting (marine mammal monitoring)
+- **Academic:** University of Colorado (CU Boulder), Stanford, NCAS (UK), ERAU (continued)
+- **Aerospace/Engineering Consortiums:** Nextechsol (Arctic Effort lead), Pegasus Aero, UAX Solutions
+- **Government/Military:** NASA JPL, NAVY, USAF (continued)
+- **Commercial Vendors:** Routescene (LiDAR software, unsolicited), Smartec, Krateo Sky, Vantor (continued)
+- **Direct Customers:** Eric Grumbine (outdoor sports video platform inquiry)
+- **Financial/Payroll:** Murray State University (vendor/payroll notification)
 
 ## Communication Patterns — Updated
 
-### Timing (11 Nov peak activity)
-- **Early morning (08:30–10:54 MST):** Outbound customer/government engagement (NAVY Phase II, Taiwan Smartec, RFQ response to Avinash)
-- **Mid-morning (11:28–13:22 MST):** RFQ internal forwarding, sales coordination
-- **Afternoon (13:11–17:11 MST):** Incoming forwarded opportunities from Jack Elston (NASA H-LCAS, C4F APEX, Vantor, RAM-AO SAE, Navigation Resilience, marine mammal monitoring, RAVEN materials), internal coordination
-- **UTC/international:** JPL contact (Nikolic) responds in UTC; Taiwan contact (Smartec) responds in GMT+08:00
-- **Morning of 12 Nov:** Travel booking inquiry (KAYAK Denver-Boston), sales group battery discussion, Slack notification from Jack
+### Timing (12 Nov focus)
+- **Early morning (09:49–10:35 MST):** Outbound customer/research inquiry management (CU Boulder, Lucas Wheeler responses, forward to Spencer Hoehl)
+- **Mid-morning (10:30–11:27 MST):** Internal coordination and research partner budget updates (UCAS/Sarah Barr, marine mammal response to Jack)
+- **Afternoon (14:15–14:39 UTC):** Customer response (Eric Grumbine), Arctic Effort engineering consortium check-in from Nextechsol
+- **Evening/UTC evening (17:07–17:17 UTC/12 Nov):** Arctic Effort engineering clarification follow-up (Nextechsol), Eric Grumbine outdoor sports request follow-up
+- **Pre-dawn (00:04 UTC 13 Nov / 18:04 MST 12 Nov):** Automated financial notification (Murray State direct deposit)
 
 ### Forwarding & List Participation
-- **Beck increasingly sends outbound** to external contacts directly (Smartec, Sanchez/NAVY, Avinash/RFQ platform)
-- **Jack Elston continues forwarding curated opportunities** but now includes NASA-specific programs (H-LCAS, NSPIRES) and research partnerships (Stanford)
-- **Sales group distribution:** Beck forwards RFQ and contact form submissions to sales@blackswifttech.com for team visibility
-- **Website-to-sales pipeline:** Joshua Fromm manages website inquiries; Beck forwards relevant opportunities to sales team
+- Beck actively forwarding customer inquiries to internal specialists (CU Boulder wind research to Spencer Hoehl)
+- Multi-party consortium emails (Arctic Effort) include Daniel Prendergast, Jack Elston, external partners (Nextechsol, Pegasus Aero, UAX Solutions)
+- Website inquiry (Eric Grumbine) initially routed to sales@blackswifttech.com, then escalated to Beck for direct management
+- Beck coordinating budget matters with UK research partner (Sarah Barr/NCAS) — suggests direct program ownership or partnership management role
 
 ### Automated/Newsletter Patterns
-- Doodle poll updates (NASA wind tunnel testing)
-- Slack notifications from Jack Elston
-- BST Website contact form submissions (routed through Joshua Fromm)
-- Mail Delivery Subsystem failure notifications (11 Nov 10:28, likely bounced email)
-- KAYAK travel deals (automated newsletter/search result)
-- Insight Group USA RFQ platform notifications
+- Routescene marketing email (unsolicited LiDAR vendor outreach, 13 Nov 00:04)
+- Murray State University direct deposit/payroll notification (13 Nov 00:04)
+- Continued Doodle, Asana, Slack notifications (not shown in new data but pattern continues)
 
 ## Key Relationships — Updated
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — Now acting as combined opportunity curator + direct project contact; heavy forwarding of NASA programs and research partnerships; marks items IMPORTANT for Beck attention
-2. **Daniel Prendergast** — Peer collaboration on C4F APEX, forwarded technical opportunities (Navigation Resilience)
-3. **Maciej Stachura** — Task/partnership coordination (Krateo Sky customer engagements, RAVEN materials, Vantor discussion)
-4. **Joshua Fromm** — Website inquiry routing and lead qualification
-5. **Sales team** (via distribution list) — New pattern: Beck forwarding RFQs and contact forms for team response
+1. **Jack Elston** — Primary opportunity curator + research partnership coordinator; now managing academic follow-ups (Lucas Wheeler). Heavy IMPORTANT marking suggests Beck relies on Jack for opportunity qualification.
+2. **Daniel Prendergast** — Peer collaboration on Arctic Effort consortium, UCAS coordination, C4F APEX, Navigation Resilience
+3. **Spencer Hoehl** — Internal technical specialist for wind/atmospheric research customer discovery (CU Boulder inquiry)
+4. **Maciej Stachura** — Task/partnership coordination (Krateo Sky, RAVEN, Vantor)
+5. **Meredith Needham** — Internal coordination (marked IMPORTANT on "Monday Early Bird Deadline" 12 Nov 12:09; context suggests internal deadline/submission)
 
 ### Key External Relationships — Updated
-- **NASA JPL (Dragan Nikolic)** — NEW direct contact; NSPIRES participation confirmation; likely program/proposal engagement point
-- **NAVY (Emilly Sanchez CTR)** — Direct Phase II status update sender; military procurement contact (elevated from previous scan's Daniel Prendergast mediation)
-- **Smartec/Taiwan (Weichi, David Su)** — Active S0 UAS inquiry respondent; potential commercial export or partnership
-- **Insight Group USA (Avinash Nayak)** — NEW partner; RFQ aggregator platform for government bids; multi-exchange on UAS technology demonstration RFQ
-- **Ellie Zhang (Stanford)** — NEW research partnership contact; S2 simulation support
-- **Lucas C Wheeler (University of Colorado)** — Ongoing inquiry coordination (Jack Elston managing response)
-- **eKase Consulting (Ed Kase)** — NEW advisor/consultant on marine mammal monitoring opportunity
-- **Krateo Sky (Jed Leonard)** — Weekly customer engagement coordination
-- **RAVEN Program** — Military/government program with orientation and site visit (Jack Elston managing materials/coordination)
+- **Eric Grumbine (ericgrumbine.1000@gmail.com)** — NEW active customer; outdoor sports video/photo/GPS drone inquiry; marked IMPORTANT, multi-round negotiation (12 Nov). Beck taking direct customer responsibility.
+- **Lucas C Wheeler (University of Colorado)** — Research inquiry on wind/small drones; marked IMPORTANT follow-up (12 Nov 16:43). Jack Elston managing next steps, but Beck initiated contact (09:49).
+- **Trenton McKibben (Nextechsol)** — NEW consortium lead contact for Arctic Effort; multi-party engineering initiative. Two IMPORTANT emails 12 Nov indicate active engineering cycle.
+- **Sarah Barr (NCAS, UK)** — NEW research partner contact; UCAS budget coordination suggests active program responsibility
+- **NASA JPL (Dragan Nikolic)** — Direct NSPIRES engagement (continued)
+- **NAVY (Emilly Sanchez)** — Phase II status (continued)
+- **Smartec (Taiwan)** — S0 UAS inquiry (continued)
+- **Pegasus Aero, UAX Solutions** — NEW Arctic Effort consortium members (passive recipients of engineering check-ins, but visible as active partners)
 
 ## Notable Observations
 
-1. **Direct government engagement escalation:** Beck now sends directly to NAVY (Emilly Sanchez) and engages with NASA JPL contacts (Dragan Nikolic). This marks a shift from Jack Elston-mediated forwarding to direct relationship management for high-priority programs.
+1. **Direct customer management escalation:** Beck now taking point on outdoor sports drone inquiry (Eric Grumbine), moving from forwarding model to direct customer relationship management. Multiple IMPORTANT markings (12 Nov 12:23, 17:17) and active back-and-forth suggest this is a priority opportunity.
 
-2. **NASA program acceleration:** Two separate NASA initiatives now in active discussion:
-   - NASA H-LCAS (Jack Elston forwarding, marked IMPORTANT)
-   - NASA NSPIRES (participation confirmation with JPL contact, marked IMPORTANT)
-   This suggests concurrent or complementary NASA engagement tracks.
+2. **Arctic Effort consortium — major new initiative:** Two IMPORTANT emails from Nextechsol (Trenton McKibben) within 3 hours (12 Nov 14:39–17:07) suggest active engineering problem-solving or critical milestone. Multi-party team (Nextechsol, Pegasus Aero, UAX Solutions, plus BST) indicates collaborative aerospace project. **Arctic** prefix suggests cold-weather/high-latitude testing or Arctic research program. Engineering requirements/challenges language suggests technical development cycle.
 
-3. **International commercial expansion:** Active outbound engagement with Smartec (Taiwan) on S0 UAS line (11 Nov 11:28). This is first direct outbound communication to international partner visible in new data, indicating potential commercial/export channel.
+3. **Academic/research partnership expansion:** New direct contact with UK atmospheric science center (NCAS, Sarah Barr) on UCAS budget coordination. Combined with CU Boulder wind research inquiry and Stanford Fly-by-Feel partnership, Beck appears to be building academic research portfolio alongside commercial customer development.
 
-4. **RFQ platform adoption:** Insight Group USA (Avinash Nayak) appears to be an RFQ matching/distribution platform. Multiple exchanges on UAS Technology Demonstration RFQ (government bid 697DCK-25-R-00278-20280928) suggest Beck/BST is actively responding to aggregated government solicitations.
+4. **CU Boulder wind research opportunity:** Spencer Hoehl marked as internal specialist on wind/small drone topic. Beck's 20-minute discovery meeting request + Lucas Wheeler's IMPORTANT follow-up (12 Nov 16:43) suggests promising research partnership or customer opportunity. University of Colorado may be key research customer/partner.
 
-5. **RAVEN Program visibility:** New program reference with orientation slides and site visit materials suggests active military program engagement. Jack Elston managing materials distribution to internal team (Maciej Stachura).
+5. **Meredith Needham internal coordination:** "Monday Early Bird Deadline" marked IMPORTANT (12 Nov 12:09) suggests internal submission deadline or proposal/RFQ deadline. Meredith (noted in previous scan as internal correspondent) appears to manage internal submissions/deadlines.
 
-6. **Stanford research partnership:** Jack Elston reaching out to Ellie Zhang (Stanford) on S2 simulation support for Fly-by-Feel research suggests research/academic partnership opportunity or existing collaboration expansion.
+6. **Sales-to-Beck escalation pattern:** Eric Grumbine inquiry initially received by sales@blackswifttech.com, then escalated to Beck (12 Nov 11:27). Suggests Beck is qualifying/managing higher-value or more technical customer inquiries.
 
-7. **Navigation resilience inquiry:** Forwarded to Beck, Daniel Prendergast, and Maciej Stachura (11 Nov 16:50) suggests either customer inquiry, partnership opportunity, or technical development discussion requiring cross-functional input.
+7. **Routescene vendor outreach:** Unsolicited LiDAR vendor marketing (13 Nov 00:04 UTC) indicates BST may be in market for LiDAR integration or sensor systems. Could be relevant to Arctic Effort or academic research platforms.
 
-8. **Vantor technology partnership:** Multiple internal references (Jack Elston, Maciej Stachura discussion on 11 Nov 15:19–15:20, marked IMPORTANT) but external context unclear. May be supplier, partner, or technology vendor.
+8. **Murray State University financial notification:** Direct deposit advice (13 Nov 00:04) routed to admin@blackswifttech.com (not Beck directly). Likely vendor payment or payroll-related notification. May indicate Murray State as supplier, contractor, or research partner.
 
-9. **SAE/RAM-AO initiative:** New consortium/standards participation (11 Nov 15:49 kick-off meeting details forwarded by Jack Elston). Suggests industry association or collaborative standards activity.
+9. **Time zone coordination expanding:** New emails show UTC coordination with UK partners (NCAS Sarah Barr, UAX Solutions George Booth/Tim Johnston, Nextechsol Trenton McKibben, Lucas Wheeler in UTC+0). Beck now managing international consortium across multiple time zones (UK, Canada, Colorado).
 
-10. **Email delivery failure:** Mail Delivery Subsystem notification (11 Nov 10:28 PST) suggests a bounced outbound email to external recipient. Context unknown from metadata alone.
+10. **Customer inquiry source:** Eric Grumbine's initial email to sales@blackswifttech.com (12 Nov 11:27 PST) suggests outdoor sports community awareness of BST capabilities. Potential for B2C or prosumer market expansion beyond government/research focus.
 
-11. **Travel booking:** KAYAK search for Denver-to-Boston flights ($396) on 12 Nov early morning (00:15 UTC) suggests potential business travel in planning. May correlate with JPM Week 2027, DARPA events, or government site visits.
+11. **Outdoor sports/recreation market emerging:** Eric Grumbine inquiry for video/photo/GPS drone platform suggests potential new vertical for BST (sports media/content creation). Marks shift from pure military/research focus visible in previous scans.
 
-12. **Sales team coordination pattern emerging:** Beck forwarding RFQs and website inquiries to sales distribution list (11 Nov 13:22, 13:13 MST) indicates either sales lead role or internal process alignment with sales team on opportunity qualification/routing.
+12. **Engineering consortium scope unclear:** Arctic Effort subject lines mention "Engineering Check-In" and "Engineering Challenges and Support Requirements" but specific technical focus (environmental testing, R&D collaboration, supply chain) not visible from metadata alone. Nextechsol lead suggests distributed aerospace development/testing program.
 
-13. **Battery technology discussion:** Internal sales group thread on "Battery options for Black Swift Technologies" (12 Nov 13:52, marked UNREAD) suggests product development or supply chain discussion for core system (possibly related to power systems for VTOL platforms).
+13. **UCAS program status:** Budget update coordination with NCAS (UK atmospheric science center) suggests ongoing financial management of collaborative program. Scope/timeline/deliverables not visible from header alone, but multi-national participation (UK NCAS, Colorado CU) indicates established partnership.
 
-14. **High-frequency Jack Elston coordination:** 11 Nov shows 10+ emails involving Jack Elston (as forwarder/responder). Beck and Jack are clearly synchronized on opportunity pipeline; Jack may be acting as full-time business development curator while Beck manages direct customer/partner engagement.
+14. **Beck's expanding role:** Over 9 Nov–12 Nov, Beck transitions from primarily receiving forwarded opportunities (Jack Elston curator model) to actively managing customer inquiries, coordinating research partnerships, and engaging in multi-party engineering consortiums. Suggests promotion to business development, customer success, or partnership management responsibilities.
+
+15. **Internal deadline pressure:** Meredith Needham's IMPORTANT "Monday Early Bird Deadline" (12 Nov 12:09) on a Thursday suggests urgent submission deadline (possibly for Monday 16 Nov RFQ/proposal). No details visible from header, but marked IMPORTANT suggests company-wide impact.
+
+---
+
+## Summary of Key Changes (New Data)
+
+| Category | Previous Scan | New Scan | Change |
+|----------|---|---|---|
+| **Contact Types** | Gov/Military/Research focused | + Customer inquiries (Eric Grumbine), + Intl consortiums (Arctic Effort), + UK research partners (NCAS) | Broadening beyond gov/military |
+| **Beck's Role** | Forwarded opportunity receiver | Direct customer mgmt, research partner coordinator, consortium participant | Escalated to business dev/partnerships |
+| **Programs** | NASA, NAVY, Stanford, Taiwan | + Arctic Effort (new major consortium), + CU Boulder wind research, + UCAS (UK), + sports drone market | New verticals emerging |
+| **Geographic Scope** | US + Taiwan | + UK (NCAS, UAX Solutions), + Canada (Pegasus Aero), Multi-zone coordination | International expansion |
+| **Volume & Focus** | 30 new emails, 11 Nov peak | 15 new emails, 12 Nov peak, shift to customer/partnership engagement | Customer/business dev acceleration |

@@ -1,46 +1,53 @@
-_Asana snapshot as of 2026-11-12: 8 open tasks, 17 completed (last 90 days)._
+_Asana snapshot as of 2026-11-13: 8 open tasks, 17 completed (last 90 days)._
 
-# Facilities Management [001-13]
+# [001-13] Facilities Management
 
 ## Overview
-- **Client/Customer:** Internal (BST Operations)
-- **Portfolio:** Operations
-- **Scope:** Physical office and shop space maintenance, including rent, cleaning, utilities, and equipment
-- **Status:** Active (ongoing operational project)
-- **Team Members:** Meredith O'hara Needham (primary owner), Brandon Messersmith, Robert Edson
-- **Risk Signals:** Multiple open tasks with passed due dates (Pay Rent due 2026-09-28, Office Cleaning and Purchasing List due 2026-10-02/03); significant completion delay pattern noted below
+- **Scope**: Maintenance and management of BST physical office and shop space
+- **Portfolio**: Operations
+- **Status**: Active (recurring tasks, some on hold)
+- **Team**: Meredith O'hara Needham (primary owner), Brandon Messersmith, Robert Edson
+- **Key Vendors**:
+  - **Landlord**: Goose Creek (Property Manager: Amy Smith, amy@wwreynolds.com, 303-941-8243 / 303-442-8687)
+  - **Cleaning**: Neat N Tidy (Owner: Meredith O'hara Needham; booking portal: https://neatntidy.bookingkoala.com/)
 
-## Vendor & Contact Information
-| Vendor | Contact | Details |
-|--------|---------|---------|
-| **Landlord** | Goose Creek | Amy Smith (Property Manager): amy@wwreynolds.com, 303-941-8243 / 303-442-8687 |
-| **Cleaning** | Neat N Tidy | Meredith O'hara Needham; Booking: https://neatntidy.bookingkoala.com/ (purchasing@blackswifttech.com) |
-
-**Lease Terms:** NNN structure with escalating CAM charges:
-- Months 1–12: $13.00
-- Months 13–24: $13.39
-- Months 25–36: $13.79
-- Months 37–48: $14.21
-- Months 49–60: $14.63
-
-Plus $6.23 for real estate property taxes and building insurance.
+## Key Deliverables & Milestones
+- **Recurring Monthly Tasks**:
+  - Pay Rent (monthly, ~$13–$14.63 NNN base + CAM/property taxes/insurance per lease terms)
+  - Office Cleaning (bi-weekly/recurring)
+  - Ongoing Office Purchasing (weekly)
+- **One-time/Project Tasks**:
+  - WiFi Improvement (Brandon Messersmith) — **ON HOLD** as of Nov 11, 2026; Jack is managing channel adjustment internally
+  - Define Tool List for Order (Robert Edson, due 2026-11-06) — for new production shop workstations
+  - Facilities Improvements & Equipment Wish List (unassigned, no due dates)
+- **Lease Track**: Monitors lease termination and CAM escalation (lease terms show NNN increases from $13.00 to $14.63 over 60-month period)
 
 ## Task Summary
-- **Total:** 8 open, 17 completed
-- **Assignee Breakdown:**
-  - **Meredith O'hara Needham:** 6 open tasks (Pay Rent, Office Cleaning, Ongoing Office Purchasing List × 3), high completion rate on recurring tasks
-  - **Brandon Messersmith:** 1 open (WiFi Improvement, on hold)
-  - **Robert Edson:** 1 open (Define tool list)
-  - **Unassigned:** 2 open (Facilities Improvements, Equipment wish list, Lease terminates)
+- **Total**: 8 open, 17 completed
+- **By Assignee**:
+  - **Meredith O'hara Needham**: 7 open, 15+ completed (Pay Rent, Office Cleaning, Ongoing Office Purchasing) — 100% completion rate on assigned recurring tasks (all recent completions show batch close on 2026-09-28)
+  - **Brandon Messersmith**: 1 open (WiFi Improvement — on hold)
+  - **Robert Edson**: 1 open (Define Tool List, due 2026-11-06)
+  - **Unassigned**: 2 open (Facilities Improvements, Equipment Wish List, Lease Termination tracking)
 
-- **Notable Pattern:** Recurring weekly/bi-weekly tasks (Office Cleaning, Purchasing List, Rent). Completion records show batched closure on 2026-09-28, suggesting tasks may be marked complete in bulk rather than on their individual due dates.
+- **Patterns**:
+  - Heavy recurring task structure (weekly purchasing lists, bi-weekly cleaning, monthly rent)
+  - Recent batch completion (many tasks completed 2026-09-28) suggests workflow synchronization
+  - WiFi project paused pending Jack's internal review
 
 ## Recent Activity
-- **Completed:** Multiple recurring tasks (Purchasing Lists, Cleaning, Rent) marked complete on 2026-09-28, covering work from late July through late September
-- **On Hold:** WiFi Improvement (Brandon Messersmith, due 2026-11-27) — Jack reviewed signal readings and decided to delay upgrades; he will manually adjust WiFi channel instead
-- **In Progress:** Tool list definition (Robert Edson, due 2026-11-06) for new production shop workstations
+- **2026-09-28**: Batch completion of multiple recurring tasks (Pay Rent, Office Cleaning, Ongoing Office Purchasing lists)
+- **2026-11-11**: WiFi Improvement placed on hold; Jack will manage channel adjustment internally; no equipment orders needed at this time
+- **Upcoming**: 
+  - Pay Rent due 2026-09-28 (next cycle)
+  - Office Cleaning due 2026-10-03
+  - Ongoing Office Purchasing List due 2026-10-02
+  - Define Tool List due 2026-11-06 (Robert Edson)
 
 ## Notes & Context
-- **Data Quality Alert:** Completed tasks show a 2-month backlog closure pattern (all marked complete on 2026-09-28). This suggests either catch-up documentation or a workflow issue. Current open tasks with due dates in late September/early October may not reflect actual status.
-- **Unresolved Items:** "Lease terminates" task has no due date and only partial notes; requires clarification on lease end date and renewal status.
-- **Future Planning:** Per Cory Dixon's feedback (2026-10-20), BST is considering implementing an electronic production tracking and Kanban board system for project management, but currently no centralized spreadsheet or reference doc exists tracking projects/clients.
+- **Cleaning Portal**: Neat N Tidy booking managed via https://neatntidy.bookingkoala.com/ (credentials stored in project)
+- **Lease Details**: Current NNN (triple net) rent structure with annual CAM increases; lease includes property taxes and building insurance escalation clause
+- **WiFi Status**: Decision made to defer upgrades; internal channel management by Jack is interim solution
+- **Tool Shop Initiative**: Robert Edson working on standardized + specialized tool sets for new production workstations; list definition due 2026-11-06
+- **Unresolved**: Facilities Improvements and Equipment Wish List lack owners and due dates; may need prioritization
+- **Lease Termination Task**: Open task exists to track lease renewal/termination; no due date set — consider linking to property manager Amy Smith or scheduling review

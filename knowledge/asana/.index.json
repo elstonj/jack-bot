@@ -42,10 +42,10 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-12",
-    "completed": 15,
+    "as_of": "2026-11-13",
+    "completed": 18,
     "name": "[001-07] S3 IRAD",
-    "open": 23,
+    "open": 20,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
@@ -98,7 +98,7 @@
     "window": "last 90 days"
   },
   "001-13_bd_pipeline.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 6,
     "name": "[001-13] BD Pipeline",
     "open": 48,
@@ -119,7 +119,7 @@
     "window": "last 90 days"
   },
   "001-13_facilities_management.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 17,
     "name": "[001-13] Facilities Management",
     "open": 8,
@@ -175,17 +175,17 @@
     "window": "last 90 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-11-12",
-    "completed": 5,
+    "as_of": "2026-11-13",
+    "completed": 6,
     "name": "[001-13] Proposals",
-    "open": 83,
+    "open": 86,
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 187,
+    "open": 192,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -406,7 +406,7 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-11-10",
+    "as_of": "2026-11-13",
     "completed": 13,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
     "open": 8,
@@ -462,7 +462,7 @@
     "window": "last 90 days"
   },
   "550-1_navy_sbir_magnetometer.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 14,
     "name": "[550-1] NAVY SBIR: Magnetometer",
     "open": 4,
@@ -476,7 +476,7 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 16,
     "name": "[600-1] SOCOM Pope",
     "open": 54,
@@ -490,7 +490,7 @@
     "window": "last 90 days"
   },
   "contacts.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-13",
     "completed": 0,
     "name": "Contacts",
     "open": 102,
@@ -553,10 +553,10 @@
     "window": "last 90 days"
   },
   "view_major_milestones_tasks.md": {
-    "as_of": "2026-11-12",
-    "completed": 1,
+    "as_of": "2026-11-13",
+    "completed": 2,
     "name": "View: Major Milestones & Tasks",
-    "open": 11,
+    "open": 10,
     "window": "last 90 days"
   },
   "view_operator_training_flights.md": {

@@ -1,48 +1,49 @@
-_Computed from Toggl as of 2026-11-11: 6019.0 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-13: 6035.5 h tracked since 2020-01-01._
 
 # Alex Lomis — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 6,019.0 hours (all-time since 2020-01-01)
-- **Primary projects (top 3):**
-  1. S0 VTOL IRAD — 2,641.1 hours (43.9%)
-  2. S3 IRAD — 1,124.3 hours (18.7%)
-  3. Project 180222280 — 529.0 hours (8.8%)
-- **Time period:** January 2020 – present
+- **Total hours tracked:** 6,035.5 hours (all-time since 2020-01-01)
+- **Primary projects:** S0 VTOL IRAD, S3 IRAD, Project 180222280
+- **Time period covered:** 2020-01-01 to present
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| S0 VTOL IRAD | 2,641.1 | 43.9% | IRAD |
-| S3 IRAD | 1,124.3 | 18.7% | IRAD |
+| [001-04] S0 VTOL IRAD | 2,641.1 | 43.8% | IRAD |
+| [001-07] S3 IRAD | 1,137.8 | 18.8% | IRAD |
 | Project 180222280 | 529.0 | 8.8% | — |
-| Navy SBIR: Magnetometer | 335.2 | 5.6% | Navy |
-| ADONIS Unmanned Experts | 292.2 | 4.9% | Unmanned Experts |
-| S0 Hurricane Phase II - 2025 | 266.7 | 4.4% | NOAA (Joe Cione) |
-| By Light Mustang | 164.6 | 2.7% | By Light |
-| 2026 IDIQ (Hurricane) | 126.3 | 2.1% | NOAA |
-| PTO | 96.8 | 1.6% | — |
-| Proposals | 63.3 | 1.1% | IRAD |
-| *Other projects* | 379.3 | 6.3% | — |
+| [550-1] Navy SBIR: Magnetometer | 335.2 | 5.5% | — |
+| [035-1] ADONIS Unmanned Experts | 292.2 | 4.8% | Unmanned Experts |
+| [301-3] S0 Hurricane Phase II - 2025 | 266.7 | 4.4% | NOAA (Joe Cione) |
+| [043-2] By Light Mustang | 164.6 | 2.7% | — |
+| [300-3] 2026 IDIQ (Hurricane) | 126.3 | 2.1% | NOAA |
+| [001-20] PTO | 96.8 | 1.6% | — |
+| [001-13] Proposals | 63.3 | 1.0% | IRAD |
+| Other projects | 382.3 | 6.3% | — |
 
-**IRAD portfolio total:** 4,179.6 hours (69.4% of all tracked time)
+**IRAD-related work (internal):** 3,845.2 hours (63.7% of total)
 
 ## Recent Activity
 
-**Current focus (recent 33 entries):**
-- Dominant split between **S3 IRAD** and **SOCOM Pope** in the last reporting period
-- S3 IRAD appears in ~16 of 33 recent entries (mostly 8-hour full days)
-- SOCOM Pope ramping up (~8 entries across recent weeks)
-- Two PTO days (16 hours total) and 2.5 hours sick leave logged
-- Brief work on 2026 IDIQ (Hurricane) — 10.5 hours across two entries
+Recent entries show a clear split between two primary focuses:
+- **[001-07] S3 IRAD:** Dominant in recent weeks; 20 of 37 recent entries
+- **[600-1] SOCOM Pope:** Emerging secondary focus; 9 of 37 recent entries
 
-**Pattern:** No task descriptions recorded on any recent entries; all tracked as full 8-hour days or partial shifts without work detail.
+Other recent activity:
+- [001-04] S0 VTOL IRAD: 3 entries
+- [300-3] 2026 IDIQ (Hurricane): 2 entries
+- [001-20] PTO and [001-21] Sick Leave: 4 entries combined
+
+**Notable:** No task descriptions recorded in any recent entries—all tracked as untagged time.
 
 ## Patterns
 
-- **Heavy IRAD concentration:** Nearly 70% of all time across internal R&D projects (S0 VTOL, S3, S1, S2, SwiftStation)
-- **Core expertise area:** Appears to be primarily focused on VTOL and S-series development (S0 + S3 = 62.6% of total hours)
-- **Secondary mission:** Government contracts (Navy SBIR magnetometer, NOAA Hurricane work, SOCOM Pope)
-- **Consistency:** Recent entries show standard 8-hour workdays with minimal variation
-- **No visible shift:** S3 IRAD has remained a steady workload for extended period; SOCOM Pope is emerging as recent secondary focus
+**Primary focus:** Alex is heavily concentrated on internal IRAD development, with S0 VTOL and S3 IRAD accounting for 62.6% of all tracked time. This suggests core R&D responsibility within the organization.
+
+**Secondary focus:** Diversified government and commercial work including NOAA hurricane projects, Navy SBIR magnetometer development, and emerging SOCOM Pope engagement.
+
+**Recent shift:** Recent activity shows increased allocation to SOCOM Pope (emerging in last 2–3 weeks) while maintaining steady S3 IRAD workload. This may indicate new project ramp-up or tasking change.
+
+**Consistency:** Entry pattern is highly structured (mostly 8-hour blocks), suggesting day-level time tracking with minimal task-level detail.
