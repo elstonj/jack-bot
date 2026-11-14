@@ -1,5 +1,7 @@
 # Josh Waldman — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 3 emails found in scanned period.
 
-- Thu, 12 Nov 2026 22:21:07 +0000: Claude is set up for your work. Start here. (from: Claude Team <no-reply@email.claude.com>)
+- Fri, 13 Nov 2026 11:27:35 -0700: Re: Boulder TIG fabrication support for Black Swift's research and test work (from: Joshua Waldman <joshua.waldman@blackswifttech.com>)
+- Fri, 13 Nov 2026 10:21:45 -0700: Fwd: Boulder TIG fabrication support for Black Swift's research and test work (from: Jack Elston <elstonj@blackswifttech.com>)
+- Fri, 13 Nov 2026 16:34:25 +0000: 📅 You have 1 overdue task (from: Asana <no-reply@asana.com>)

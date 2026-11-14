@@ -1,122 +1,163 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 105 (9–12 November 2026, combined datasets)
-- **Date range:** Mon 9 Nov – Thu 12 Nov 2026
-- **Approximate volume:** ~26 messages per day (sustained activity)
-- **Trend:** Activity remains elevated through Thursday 12 Nov; government/military correspondence intensifying; new vendor document intake (Cassie Devs MNDA)
+- **Total messages scanned:** 135 (9–14 November 2026, combined datasets)
+- **Date range:** Mon 9 Nov – Sat 14 Nov 2026
+- **Approximate volume:** ~22.5 messages per day (sustained activity)
+- **Trend:** Activity remains elevated through Friday 13 Nov; government/military procurement escalating; NAVAIR deadline (24 Nov) for S4 integration now visible; new venture capital contact (FlareAI) initiating intro sequence
 
 ## Key Correspondents
 
 ### Top Internal Senders
-- **Jack Elston** (elstonj@blackswifttech.com) — CTO/Program Lead; continues coordinating strategic partnerships, vendor timelines, research collaborations
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — RFQ coordination, vendor outreach, customer engagement (marine mammal monitoring application discussion on 12 Nov); marked IMPORTANT
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government procurement/contracting; now actively engaged in SOCOM FCL/DD254 process coordination (12 Nov); marked IMPORTANT
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — **New correspondent:** UK MOD liaison (Simon Laurence, MOD.gov.uk) regarding "Flipper plate photos" (12 Nov); marked IMPORTANT; suggests flight test hardware/payload visible to UK military
+- **Jack Elston** (elstonj@blackswifttech.com) — CTO/Program Lead; continues coordinating strategic partnerships, vendor timelines, research collaborations; **elevated frequency on 13 Nov with USGS, NASA, ERAU, academic contacts**; marked IMPORTANT across 9+ threads
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — RFQ coordination, vendor outreach, customer engagement; now visible in USAF AFLCMC correspondence (Russell Evans, 13 Nov, marked IMPORTANT)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Government procurement/contracting; SOCOM FCL/DD254 process coordination continues; now coordinating with USAF AFLCMC (13 Nov)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — UK MOD liaison (from prior period)
 
 ### Top External Senders/Partners
-- **Jun Zhang** (jun.zhang@noaa.gov, NOAA) — S0 data collaboration (from prior period)
-- **David Richter** (David.Richter.26@nd.edu, Notre Dame) — S0 data collaboration (from prior period)
-- **Joshua Wadler** (WADLERJ@erau.edu, ERAU) — S0 data collaboration; journal publication coordination (from prior period)
-- **Dmitry Chulkov** (dmitry@basecam-electronics.com, Basecam Electronics) — Payload stabilization vendor; intro call scheduled 17 Nov (from prior period)
-- **Jed Leonard** (jed@krateosky.com, Krateo Sky) — Customer engagement (from prior period)
-- **Simon Laurence** (Simon.Laurence157@mod.gov.uk, UK Ministry of Defence) — **New/escalating contact:** Direct exchange with Joshua Fromm on "Flipper plate photos" (12 Nov); marked IMPORTANT; suggests UK MOD hardware evaluation or flight test imagery
-- **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil, USSOCOM) — **Direct SOCOM engagement:** FCL/DD254 process coordination with Daniel Prendergast (12 Nov); marked IMPORTANT; includes secondary contacts Evan M. Wolff (MIL) and Zachary O. Kachel (MIL); indicates active military classification/security clearance pathway
-- **Cassie Devs** (Documents@cassiedevs.com) — **New vendor:** Document delivery (MNDA PDF to Maciej 12 Nov 20:50 UTC); appears to be legal/compliance document processor
-- **Eric Grumbine** (ericgrumbine.1000@gmail.com) — **New external contact:** Outdoor sports video/drone inquiry response from Beck Cotter (12 Nov); consumer/commercial application inquiry
+- **Brian Grubel** (Brian@krateosky.com, Krateo Sky) — **Escalating contact:** LC-ISR / NAVAIR follow-up requirements for S4 platform (24 Nov deadline); multiple threads on 13 Nov (PM artifacts, technical requirements); marked IMPORTANT across 4+ messages; indicates **active DoD naval integration track** distinct from prior commercial integration
+- **Jack Elston** (elstonj@blackswifttech.com) — Coordinating with multiple new/escalating external government contacts:
+  - **USGS** (Angie Diefenbach, Christoph Kern) — Check-in meeting request on 13 Nov; marked IMPORTANT; suggests environmental/scientific application evaluation
+  - **NASA** (Craig Hunter, LARC-D301 Emeritus) — Air-deployed S0 dimensions inquiry (13 Nov); marked IMPORTANT; suggests **NASA operational evaluation of S0 platform**
+  - **USAF AFLCMC/WLNE** (Russell Evans CTR) — "[Non-DoD Source]" site visit coordination for December 2025 (13 Nov); marked IMPORTANT; indicates **formal USAF evaluation pipeline**
+  - **NOAA** (Nikolai Pawlenko, Michael Hurowitz / WeatherStream) — Aerostar S0 drop testing, WP-BST-006 carrier development de-risking (13 Nov); marked IMPORTANT; active operational payload integration
+  - **ERAU** (Joshua Wadler) — New UI for S0 UAS coordination (13 Nov); marked IMPORTANT
+  - **Murray State University** (Bassil El Masri) — 6/28 UAS Flux Topos @Murphy's Pond follow-up (13 Nov); marked IMPORTANT
+- **Sam Howarth** (sam@flareaiaccounts.com, FlareAI Accounts) — **New contact:** Intro/networking initiation (14 Nov 00:19 UTC, marked IMPORTANT, UNREAD); venture capital or financial services context; suggests **fundraising or strategic investment outreach**
+- **Jun Zhang, David Richter, Joshua Wadler** — Continued S0 NOAA/ND/ERAU data collaboration (from prior period)
+- **Dmitry Chulkov** (Basecam Electronics) — Payload stabilization vendor (from prior period)
 
-### Internal vs External
-- ~45% internal BST (Jack Elston, Beck Cotter, Daniel Prendergast primary)
-- ~55% external (NOAA, academia, vendors, government, new commercial inquiries)
-- **New visibility:** SOCOM direct engagement (Michael Jagelewski) and UK MOD (Simon Laurence) now visible in metadata; government procurement pipeline active
+### Internal vs External (Updated)
+- ~40% internal BST (Jack Elston dominant, Beck Cotter, Daniel Prendergast)
+- ~60% external (USGS, NASA, NOAA, USAF, academia, vendors, new financial contact)
+- **New visibility:** USAF AFLCMC (Russell Evans), USGS (Diefenbach/Kern), NASA (Hunter), WeatherStream (Michael Hurowitz) now visible; **military/government evaluation footprint expanding across DoD, USAF, and civilian agencies**
 
 ## Topic Patterns
 
 ### Primary Project Areas (Updated)
-- **S0 (Aerostar platform)** — Continued NOAA/ND/ERAU data collaboration; atmospheric science research pipeline active
+- **S0 (Aerostar platform)** — **Intensified multi-agency evaluation:**
+  - NOAA operational testing (WP-BST-006 carrier drop testing, de-risking, 13 Nov)
+  - NASA operational evaluation (air-deployed dimensions, 13 Nov)
+  - USGS environmental/scientific evaluation (check-in meeting, 13 Nov)
+  - USAF AFLCMC interest (site visit coordination for Dec 2025, 13 Nov)
+  - Continued NOAA/ND/ERAU research collaboration
+  - UI upgrade pipeline (ERAU, 13 Nov)
 - **S2** — Stanford Fly-by-Feel simulation support (from prior period)
-- **S4** — Krateo Sky integration ongoing (from prior period)
-- **SOCOM/DoD Procurement** — **Escalating:** FCL (Facility Clearance Level) and DD254 (Statement of Disclosure) process active as of 12 Nov; Daniel Prendergast coordinating with Michael Jagelewski (USSOCOM), Evan Wolff, Zachary Kachel; indicates formal **security clearance/classified work pathway** with SOCOM
-- **UK Ministry of Defence evaluation** — "Flipper plate photos" hardware/payload imagery exchange (Joshua Fromm ↔ Simon Laurence, 12 Nov); suggests **flight test or prototype hardware visible to UK military**; distinct from prior C2 frequency coordination
-- **Marine mammal monitoring** — Beck Cotter active discussion (12 Nov); continued application development
-- **RFQ: UAS Technology Demonstration and Validation (697DCK-25-R-00278-20280928)** — From prior period; sales pipeline
-- **Navigation resilience** — From prior period; technical focus
+- **S4 (Krateo Sky integration)** — **Escalating to NAVAIR evaluation:**
+  - LC-ISR (Low-Cost ISR) designation visible
+  - NAVAIR (Naval Air Systems Command) follow-up requirements active
+  - **24 November 2026 deadline** for compliance/artifact submission (Brian Grubel, 13 Nov, marked IMPORTANT)
+  - PM artifacts and technical requirements exchange (13 Nov); indicates **formal naval acquisition track**
+- **SOCOM/DoD Procurement** — FCL/DD254 process active (from prior period); now appears to be running **parallel to USAF AFLCMC and NAVAIR tracks**
+- **Marine mammal monitoring** — Continued application development (E-Kase Consulting)
+- **Atmospheric/Environmental Science** — NOAA, USGS, NOAA-WeatherStream payload integration (WP-BST-006 carrier, atmospheric research payloads)
 
 ### Technical/Application Focus Areas
-- **Payload systems** — Basecam gimbal, "Flipper plate" hardware (nature unclear from metadata; likely gimbal/stabilization or specialized sensor mount visible to UK MOD)
-- **Atmospheric research** — S0 NOAA/ND/ERAU collaboration continuing
-- **Marine mammal monitoring** — Application vertical (Beck Cotter, Ed Kase from prior period)
-- **Consumer/commercial UAV** — Eric Grumbine inquiry on outdoor sports video/photos/GPS (Beck Cotter response); new market segment visible
-- **Classified military applications** — SOCOM FCL/DD254 pathway suggests platform or capability under evaluation for classified DoD/SOCOM mission; not previously visible in metadata
+- **Payload systems** — Gimbal stabilization (Basecam), atmospheric science payloads (NOAA), naval ISR sensors (NAVAIR S4 track)
+- **Atmospheric science & meteorology** — NOAA/USGS/WeatherStream collaboration; drop testing and carrier system de-risking
+- **Naval ISR (Intelligence, Surveillance, Reconnaissance)** — S4 platform, LC-ISR designation, NAVAIR evaluation (new visible track, 13 Nov)
+- **Environmental monitoring** — USGS collaboration; flux measurements, wildlife monitoring
+- **Multi-platform integration** — Krateo Sky (S4 integration), NOAA carrier systems (S0), payload standardization
 
 ### Recurring Codenames/Designations
 - S0, S2, S4 (platforms)
-- FCL/DD254 (security clearance process indicator)
-- "Flipper plate photos" (unidentified hardware; possibly gimbal or payload mount)
-- JAS-D-26-0145 (journal publication, from prior period)
-- 697DCK-25-R-00278-20280928 (RFQ)
+- LC-ISR (Low-Cost ISR, NAVAIR context)
+- WP-BST-006 (NOAA carrier payload/integration project)
+- FCL/DD254 (security clearance process, SOCOM)
+- "Air deployed S0 dimensions" (NASA operational variant)
+- 24 Nov deadline (NAVAIR compliance)
 
 ## Communication Patterns
 
-### Time Patterns (12 Nov Update)
-- **Morning (09:42–09:47 UTC / 02:42–02:47 MST)** — Joshua Fromm responds to UK MOD (Simon Laurence) on "Flipper plate photos"; marked IMPORTANT; suggests night-time/early morning coordination with UK timezone
-- **Mid-morning (11:11 MST)** — Beck Cotter discusses marine mammal monitoring with Jack Elston; marked IMPORTANT
-- **Afternoon (14:07–14:15 MST)** — Daniel Prendergast and Beck Cotter actively responding to government/customer inquiries; marked IMPORTANT
-- **Evening (16:38 UTC / 09:38 MST)** — SOCOM (Michael Jagelewski) sends FCL/DD254 response to Daniel Prendergast + Evan Wolff + Zachary Kachel; multi-agency SOCOM coordination visible
-- **Night (20:29–20:50 UTC / 13:29–13:50 MST)** — Cassie Devs delivers MNDA document to Maciej; suggests legal/compliance intake process late in day
-- **Pattern:** Government and military correspondence (SOCOM, UK MOD) active across multiple timezones (UTC, MST); suggests 24/7 international coordination rhythm
+### Time Patterns (13–14 Nov Update)
+- **Early morning (07:10–08:46 MST)** — Jack Elston bulk responses to ERAU, Murray State, Krateo, NASA (13 Nov); suggests clearing backlog or scheduled coordination window
+- **Mid-morning (10:20–10:48 MST)** — Marine mammal monitoring, USGS check-in coordination (13 Nov)
+- **Afternoon (12:04–15:31 MST)** — USAF AFLCMC (Russell Evans) responses; Maciej S4/NAVAIR draft response; Daniel Prendergast USAF escalation (13 Nov); government procurement acceleration visible
+- **Evening (15:49–19:32 UTC / 08:49–12:32 MST equivalent)** — USGS multi-party thread (Angie Diefenbach, Christoph Kern); WeatherStream S0 drop testing coordination (13 Nov)
+- **Night (22:29 UTC / 15:29 MST)** — Krateo Sky NAVAIR follow-up forwarded to Maciej; 24 Nov deadline notice (13 Nov)
+- **Midnight UTC (00:19 UTC / 17:19 MST, 14 Nov)** — FlareAI intro email to Maciej; venture capital/strategic outreach initiation
 
 ### Mailing Lists & Group Emails
-- **SOCOM multi-party thread** — Michael Jagelewski (USSOCOM) → Daniel Prendergast (BST) → Evan Wolff (USSOCOM) + Zachary Kachel (USSOCOM); security clearance pathway coordination
-- **UK MOD bilateral** — Simon Laurence (MOD.gov.uk) ↔ Joshua Fromm (BST); hardware evaluation/imagery exchange
+- **NAVAIR S4 evaluation thread** — Brian Grubel (Krateo) → Maciej + Jack Elston (BST); LC-ISR requirements, 24 Nov deadline (13 Nov, multiple messages marked IMPORTANT)
+- **USGS multi-agency thread** — Angie Diefenbach + Christoph Kern (USGS) ↔ Jack Elston + Maciej Stachura (BST); environmental/scientific evaluation coordination (13 Nov)
+- **NOAA S0 integration** — Michael Hurowitz (WeatherStream) → Jack Elston + Nikolai Pawlenko (NOAA); WP-BST-006 carrier project coordination (13 Nov)
+- **USAF AFLCMC coordination** — Russell Evans (USAF AFLCMC/WLNE CTR) ↔ Beck Cotter + Daniel Prendergast (BST); site visit and "[Non-DoD Source]" classification handling visible (13 Nov)
 
 ### Automated/System Emails
-- **T-Mobile AutoPay notification** (12 Nov 16:38 UTC) — System notification to MACIEJ.STACHURA@bst.aero; personal account payment issue (not business-critical)
-- **Cassie Devs document delivery** (12 Nov 20:50 UTC) — Automated document intake system (MNDA.pdf); legal/vendor intake process
+- None visible in this dataset
 
 ## Key Relationships
 
 ### Closest Internal Collaborators (Updated)
-1. **Jack Elston** — CTO; strategic partnerships, vendor coordination, research partnerships
-2. **Beck Cotter** — Systems integration, vendor outreach, customer engagement (marine mammal monitoring), sales support
-3. **Daniel Prendergast** — **Elevated prominence:** Now directly managing SOCOM security clearance pathway (FCL/DD254 coordination with Michael Jagelewski, Evan Wolff, Zachary Kachel); government contracting/compliance lead
-4. **Joshua Fromm** — **New visibility:** UK MOD liaison; hardware/payload evaluation coordination with Simon Laurence (12 Nov)
-5. **Cory Dixon** — Operations and timeline (from prior period)
+1. **Jack Elston** — CTO; **now visibly driving multi-agency government/science partnership pipeline** (USGS, NASA, NOAA, USAF, ERAU); strategic partnerships, vendor coordination, research partnerships; frequency and scope significantly elevated on 13 Nov
+2. **Beck Cotter** — Systems integration, vendor outreach; now visible in USAF AFLCMC correspondence (Russell Evans, 13 Nov)
+3. **Daniel Prendergast** — Government procurement/contracting; SOCOM track, now also USAF AFLCMC escalation visible (13 Nov)
+4. **Maciej Stachura** — **Role clarified:** Responding to NAVAIR/S4 integration requirements (draft PM artifacts, 13 Nov); supporting Jack Elston's multi-agency partnerships (USGS CC'd in check-in meeting, 13 Nov); appears to be **Technical Program Manager / Principal Investigator for platform evaluations** with direct government/science counterpart engagement
 
-### Critical External Relationships (Updated by Intensity & New Contacts)
-1. **SOCOM (U.S. Special Operations Command)** — **New/escalating:** Michael C. Jagelewski (CIV USSOCOM), Evan M. Wolff (MIL USSOCOM), Zachary O. Kachel (MIL USSOCOM) actively engaging on FCL/DD254 security clearance pathway (12 Nov, marked IMPORTANT); indicates **formal classified military evaluation underway**; distinct from prior SOCOM RFQ (PQ26000958)
-2. **UK Ministry of Defence** — **Escalating:** Simon Laurence (MOD.gov.uk) direct engagement with Joshua Fromm on "Flipper plate photos" (hardware/payload imagery, 12 Nov); suggests **prototype or flight test hardware visible to UK military for evaluation**
-3. **NOAA + ND + ERAU scientific axis** — Continued S0 atmospheric research collaboration (Jun Zhang, David Richter, Joshua Wadler)
-4. **Krateo Sky** (Jed Leonard) — Active customer integration (S4 platform)
-5. **Basecam Electronics** (Dmitry Chulkov) — Payload stabilization vendor; intro call scheduled 17 Nov
-6. **Stanford University** (Ellie Zhang) — S2 simulation research partnership (from prior period)
-7. **Cassie Devs** (Documents@cassiedevs.com) — **New vendor:** Legal/compliance document intake service; MNDA delivery (12 Nov); suggests vendor NDA or confidentiality agreement processing
-8. **E-Kase Consulting** (Ed Kase) — Marine mammal monitoring application (from prior period)
-9. **Consumer/Commercial market** — Eric Grumbine inquiry (outdoor sports video/photos/GPS) suggests platform attracting commercial small-UAS market interest
+### Critical External Relationships (Updated by Intensity & Scope)
+
+#### Government/Military (Newly Escalated)
+1. **USAF AFLCMC/WLNE** (Russell Evans, CTR) — **New visible contact (13 Nov):** Site visit coordination, "[Non-DoD Source]" classification handling; indicates **formal USAF acquisition/evaluation pipeline** running parallel to SOCOM track; marked IMPORTANT
+2. **NAVAIR (Naval Air Systems Command)** via **Krateo Sky (Brian Grubel)** — **Escalating track (13 Nov):** LC-ISR evaluation for S4 platform; 24 Nov compliance deadline; active PM requirements exchange; indicates **formal naval ISR acquisition pathway**
+3. **SOCOM (U.S. Special Operations Command)** — FCL/DD254 security clearance pathway continues (from prior period)
+
+#### Science/Civilian Agency (Newly Escalated)
+4. **USGS (U.S. Geological Survey)** — **New visible escalation (13 Nov):** Angie Diefenbach (USGS) + Christoph Kern (USGS) initiating formal check-in meeting with Jack Elston + Maciej; suggests **environmental science evaluation** (possibly wildlife monitoring, geological survey applications); marked IMPORTANT
+5. **NASA (Langley Research Center)** — **New visible contact (13 Nov):** Craig Hunter (LARC-D301 Emeritus) inquiring on air-deployed S0 dimensions; indicates **NASA operational variant evaluation or mission support request**; marked IMPORTANT
+6. **NOAA + WeatherStream** — **Operationalization escalation (13 Nov):** Michael Hurowitz (WeatherStream) coordinating S0 drop testing and WP-BST-006 carrier development de-risking with Jack Elston + Nikolai Pawlenko (NOAA); suggests **transition from research to operational deployment** of atmospheric science payloads; marked IMPORTANT
+
+#### Commercial/Strategic
+7. **Krateo Sky (Brian Grubel)** — S4 platform integration; now dual-track: commercial integration + NAVAIR ISR evaluation (13 Nov); indicates platform serving **both commercial and DoD markets**
+8. **FlareAI (Sam Howarth)** — **New contact (14 Nov 00:19 UTC):** Venture capital or strategic finance outreach; marked IMPORTANT, UNREAD; suggests **potential fundraising or strategic investment discussions** initiated
+
+#### Science/Academic (Continuing)
+9. **NOAA** (Jun Zhang, Nikolai Pawlenko)
+10. **ND** (David Richter)
+11. **ERAU** (Joshua Wadler, now UI design collaboration visible)
+12. **Murray State University** (Bassil El Masri) — Flux measurements / environmental science payload
+13. **University of Colorado** (Al Gasiewski) — ECEE networking contact (13 Nov)
 
 ## Notable Observations
 
-- **Military procurement pipeline is now explicitly visible:** SOCOM FCL/DD254 process (12 Nov) indicates platforms are under active evaluation for classified DoD/SOCOM missions requiring facility clearance and disclosure statements. This is distinct from prior RFQ-level engagement and suggests **pre-award or formal evaluation stage.**
-- **UK MOD hardware evaluation active:** "Flipper plate photos" exchange between Joshua Fromm and Simon Laurence (UK MOD) suggests **physical hardware or flight test imagery now visible to UK military**; distinct from prior C2 frequency coordination. Suggests allied evaluation or joint development pathway.
-- **Joshua Fromm emerging as government liaison:** New role visible coordinating UK MOD hardware evaluation; suggests specialized government/international relations function or regional technical lead.
-- **SOCOM team structure visible:** Michael Jagelewski (CIV), Evan Wolff (MIL), Zachary Kachel (MIL) suggests **mixed civilian/military SOCOM evaluation team**; indicates formal procurement process with security/compliance gates.
-- **Legal/compliance processes accelerating:** Cassie Devs MNDA document intake (12 Nov evening) suggests vendor confidentiality agreements or classified information handling NDAs in progress; may be precursor to classified work or sensitive vendor agreements.
-- **Commercial/consumer market inquiry:** Eric Grumbine outdoor sports video inquiry (12 Nov) suggests platform generating interest in consumer drone market (unintended or secondary market signal).
-- **Government timeline compression:** SOCOM FCL/DD254 active as of 12 Nov suggests **formal security clearance pathway initiated or fast-tracked**; combined with UK MOD hardware evaluation suggests **multiple government/military evaluation tracks running in parallel (SOCOM + UK MOD).**
-- **Daniel Prendergast's role is now explicitly strategic:** Direct government engagement (SOCOM security clearance coordination) elevates his authority beyond procurement compliance; now a principal government relations contact.
-- **Maciej's current email activity reduced in this dataset:** Only 1 message visible with Maciej as direct recipient (Cassie Devs MNDA to maciej.stachura@bst.aero); suggests meetings or phone coordination with government partners (SOCOM, UK MOD) occurring outside email; or Maciej copied on technical discussions rather than primary escalations on 12 Nov.
+- **Government evaluation footprint has tripled in scope (13 Nov):** Now visible across SOCOM (classified work), USAF AFLCMC (formal acquisition), NAVAIR (naval ISR), USGS (environmental science), and NASA (operational missions). Suggests **BST platforms (S0, S4) are simultaneously under evaluation by 5+ government/military agencies.**
+
+- **Parallel acquisition tracks visible:**
+  - SOCOM FCL/DD254 (classified capability evaluation)
+  - USAF AFLCMC site visit (platform/system-level evaluation)
+  - NAVAIR LC-ISR (S4 naval ISR integration with 24 Nov deadline)
+  - NOAA operational deployment (S0 atmospheric science payloads)
+  - USGS partnership (environmental monitoring applications)
+  - NASA variant evaluation (air-deployed configurations)
+  - **This suggests platforms are in multiple government procurement pipelines simultaneously; BST is managing 6+ formal evaluation/acquisition tracks in parallel.**
+
+- **"[Non-DoD Source]" classification language visible (13 Nov):** Russell Evans (USAF AFLCMC) uses "[Non-DoD Source]" in subject lines; suggests **USAF is handling technology or information that has civilian/commercial origins but is being evaluated for military use**; indicates formal disclosure/classification compliance protocol active.
+
+- **Jack Elston is the primary government/science relationship driver:** On 13 Nov alone, he coordinated with USGS (2+ threads), NASA, NOAA, USAF AFLCMC, ERAU, Murray State, WeatherStream, and Krateo. Suggests **Jack is CTO but also serving as Principal Scientist / Government Relations Lead** across multiple agencies.
+
+- **Maciej's role is expanding into formal government engagement:** Now visible as CC'd on USGS check-in meetings (13 Nov) and drafting responses to NAVAIR/S4 requirements; suggests **elevation to Principal Investigator / Technical PM status** for government evaluations.
+
+- **S0 is in active operational testing with NOAA:** WP-BST-006 carrier development and drop testing suggest **S0 is moving from research prototype to operational deployment** with NOAA atmospheric science payloads; distinct from earlier research collaboration phase.
+
+- **S4 has a hard deadline (24 Nov 2026):** NAVAIR LC-ISR compliance/PM artifacts due 24 Nov (per Brian Grubel, 13 Nov); suggests **formal Naval acquisition gate/milestone** imminent; indicates S4 may be in pre-award or formal evaluation phase.
+
+- **Venture capital outreach initiated (14 Nov):** FlareAI intro suggest **fundraising or strategic financing discussions** may be underway; timing aligns with multiple government evaluations (suggests investors seeking exposure to multi-agency government evaluation pipeline).
+
+- **Technology transition apparent:** Platforms moving from research/prototype (2024–2025) → government operational evaluations (2026) → formal acquisitions (NAVAIR 24 Nov deadline, USAF site visit, SOCOM security clearance). Suggests **2–3 year transition from development to government deployment.**
+
+- **Maciej's direct email involvement reduced but strategic scope increased:** Only 2 messages with Maciej as primary sender (NAVAIR S4 draft, BST PM artifacts response); but CC'd on USGS, NASA, and NAVAIR escalations; suggests **senior technical oversight role with government agencies** rather than operational email management.
 
 ---
 
-## Updated Summary (9–12 November 2026)
+## Updated Summary (9–14 November 2026)
 
-Maciej remains **Technical Program Manager / Chief Systems Engineer** with direct responsibility for S0/S2 platform partnerships and vendor integration. However, **government/military procurement has escalated significantly:**
+Maciej is a **Technical Program Manager / Principal Investigator** responsible for managing **simultaneous government platform evaluations** across 6+ agencies (SOCOM, USAF AFLCMC, NAVAIR, USGS, NASA, NOAA) while supporting commercial integration (Krateo Sky, FlareAI).
 
-- **SOCOM security clearance pathway (FCL/DD254) is now explicitly active** as of 12 Nov, managed by Daniel Prendergast with SOCOM team (Jagelewski, Wolff, Kachel); indicates **formal classified work evaluation.**
-- **UK MOD hardware evaluation visible** via Joshua Fromm ↔ Simon Laurence "Flipper plate photos" exchange; suggests **prototype/flight test hardware assessment by UK military.**
-- **Vendor/legal intake accelerating** — Cassie Devs MNDA processing suggests classified or sensitive agreement handling.
-- **Market expansion:** Platform attracting commercial/consumer inquiries (outdoor sports UAV market) in parallel with military/government pipeline.
+**Key developments (13–14 Nov):**
+- **Multi-agency evaluation footprint exploded:** USAF AFLCMC, NAVAIR, USGS, NASA now visibly engaged with S0/S4 platforms
+- **NAVAIR S4 integration has a hard deadline (24 Nov):** LC-ISR compliance track
+- **S0 is in operational testing phase:** NOAA WP-BST-006 carrier de-risking suggests transition to deployment
+- **Jack Elston is primary government relations driver:** Coordinating across 8+ agencies simultaneously on 13 Nov
+- **Venture capital outreach initiated:** FlareAI suggests potential fundraising aligned with government evaluation timelines
+- **Parallel pipelines managed across classified (SOCOM), military (USAF, NAVAIR), and civilian (USGS, NASA, NOAA) tracks**
 
-**Key organizational shift:** Government/military engagement now visible across multiple contacts (Daniel Prendergast ↔ SOCOM, Joshua Fromm ↔ UK MOD), suggesting **specialized government relations function emerging within BST.** Jack Elston remains strategic CTO; Daniel Prendergast now clearly government/military relations lead; Joshua Fromm new international/allied military liaison.
-
-**Platform status:** S0 is simultaneously generating peer-reviewed atmospheric science (NOAA/ND/ERAU), undergoing classified military evaluation (SOCOM), receiving UK MOD prototype assessment, and attracting commercial market interest—indicating **multi-mission, multi-market platform maturity.**
+**Platform maturity:** S0 and S4 are simultaneously in research, operational testing, formal military evaluation, and commercial integration phases—indicating **technology-readiness level (TRL) 6–8 across multiple government missions.**

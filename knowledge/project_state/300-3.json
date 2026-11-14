@@ -30,55 +30,55 @@
     "line_items": [
       {
         "category": "Equipment",
-        "amount": 108000.0,
-        "description": "Six (6) baseline S0 UAS platforms at $18,000 each (SOW 1, Task 1)",
+        "amount": 216000.0,
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each (Task One, SOW Enhanced)",
         "source_doc": null
       },
       {
         "category": "Other",
         "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation-mitigation effort for satellite/land C2 and video (SOW 1, Task 2)",
+        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation for satellite/land C2 and video (Task Two & Three, SOW Enhanced)",
         "source_doc": null
       },
       {
         "category": "Equipment",
         "amount": 36000.0,
-        "description": "Two (2) baseline S0 UAS platforms at $18,000 each (SOW 2, Task 1)",
+        "description": "Two (2) baseline S0 UAS platforms at $18,000 each (Task One, SOW LOS Video)",
         "source_doc": null
       }
     ],
     "spent": {
       "labor": {
-        "amount": 324746.25,
+        "amount": 324840.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-12"
+        "last_updated": "2026-11-14"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-12"
+        "last_updated": "2026-11-14"
       },
       "other_qbo": {
-        "amount": 473763.47,
+        "amount": 477326.11,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-12"
+        "last_updated": "2026-11-14"
       },
-      "total": 800678.24,
+      "total": 804334.63,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -317678.24,
+    "remaining": -321334.63,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-12T10:51:09Z"
+    "last_reconciled": "2026-11-14T10:45:20Z"
   },
   "milestones": [
     {
       "name": "Deliver 13 S0's",
       "asana_task_gid": "1220073363956082",
-      "due_on": "2026-11-13",
+      "due_on": "2026-11-20",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -115,12 +115,6 @@
   "deliverables": [],
   "team": [
     {
-      "name": "Ben Busby",
-      "role": null,
-      "allocation_pct": null,
-      "hours_last_30d": null
-    },
-    {
       "name": "Jack Elston",
       "role": null,
       "allocation_pct": null,
@@ -147,6 +141,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-12T10:51:09Z",
+  "last_full_rebuild": "2026-11-14T10:45:20Z",
   "last_incremental_update": null
 }

@@ -1,86 +1,79 @@
 # Kareem Ahmed — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 92 emails (86 from prior data + 6 new)
-- **Date range:** November 2–13, 2026
-- **Volume pattern:** Continued zero direct messages to kareem.ahmed@. All 6 new messages routed through media@ pipeline to Paige Smith or Jack Newman. **Asana direct notification from Nov 12 remains the sole exception** — no follow-up direct messages yet.
+- **Total messages scanned:** 100 emails (92 from prior data + 8 new)
+- **Date range:** November 2–14, 2026
+- **Volume pattern:** Continued isolation from direct work communications. Of 8 new messages, only 2 address Kareem directly (both Asana system notifications). 4 messages are unsolicited external nonprofit outreach. 2 messages route through media@ to other team members.
 
 ## Key Correspondents
 
-### Incoming Sources
-- **Routed through media@blackswifttech.com to Paige Smith (5 of 6 new messages):**
-  - Unmanned Systems Technology (LinkedIn via Media Relations) — Nov 12, 21:45 UTC
-  - Geo Week News — Nov 12, 14:30 CST (booth procurement message)
-  - Duncan | MailerLite (promotional newsletter) — Nov 12, 14:21 UTC
-  - A&SF Daily Report (military/aerospace) — Nov 12, 04:45 CST
-  - James Hitchen / SAE Media Group Events (external conference organizer) — Nov 13, 02:35 AEDT
+### Incoming Sources (New)
+- **Asana <no-reply@asana.com, learn@go.asana.com>** — 2 direct messages (Nov 14, 04:25 UTC and Nov 14, 00:59 UTC)
+  - Unread notifications alert
+  - Promotional webinar: "Your ultimate guide to getting more done in Asana"
 
-- **Routed through media@blackswifttech.com to Jack Newman (1 of 6 new messages):**
-  - UAS VISION (russ@uasvision.com) — daily news feed — Nov 12, 10:06 UTC
+- **UOSSM Canada <contact@uossm-canada.org>** — 2 unsolicited external messages (Nov 13, 12:03 EST and 17:50 EST)
+  - Medical complex bombing alert (humanitarian crisis outreach)
+  - Gaza winter humanitarian campaign (fundraising/awareness)
 
-### Internal
-- **media@blackswifttech.com** — Jack Newman and gateway to Paige Smith (unchanged)
-- **paige.smith@blackswifttech.com** — exclusive recipient on 5 of 6 new messages
-- **kareem.ahmed@blackswifttech.com** — **Still zero direct messages in new batch** (Asana exception from Nov 12 remains isolated)
+- **Black Swift Technologies (via Slack) <notification@slack.com>** — 1 direct message (Nov 13, 16:25 UTC)
+  - Slack unread message notification (34 unread messages flagged)
 
-### External (New Correspondent)
-- **James Hitchen (James.Hitchen@saemediagroupevents.com)** — **NEW direct external contact** addressing Paige Smith. SAE Media Group Events organizer sending conference/event speaker/attendance solicitation.
+- **media@blackswifttech.com routing (unchanged):**
+  - "'Mitchell Institute' via Media Relations" → Paige Smith (Nov 13, 10:04 CST)
+  - "'A&SF Daily Report' via Media Relations" → Paige Smith (Nov 13, 05:00 CST)
+  - UAS VISION → Jack Newman via media@ (Nov 13, 10:05 UTC)
+
+### Kareem's Direct Recipient Status
+- **Zero messages from internal colleagues to kareem.ahmed@**
+- **Zero messages to kareem.ahmed@ from external business contacts**
+- **All direct messages to Kareem are system notifications (Asana, Slack) or unsolicited external outreach (UOSSM)**
 
 ## Topic Patterns
 
-### Recurring Themes (Maintained + New)
+### New External Outreach (Non-Work)
+- **UOSSM Canada (humanitarian crisis fundraising)** — Gaza/medical emergency messaging. Likely mass mailing list (low relevance to BST operations).
 
-1. **Military/Defense/Space (continued):**
-   - A&SF Daily Report (CMSAF maintenance manpower topic)
-   - UAS VISION daily feed continues
-
-2. **Uncrewed Systems & Robotics (continued, expanding):**
-   - **Unmanned Systems Technology LinkedIn newsletter (NEW)** — dedicated UST thought leadership/industry coverage
-   - UAS VISION daily feed continues
-
-3. **Industry Conference & Exhibition (expanded focus):**
-   - **Geo Week booth procurement** — "Now's the Time to Secure Your Booth!" (indicates active planning/budget allocation for 2027 exhibit)
-   - **SAE Media Group Events drone/UAS conference** — "Hear Directly from the Leaders Driving U.S. Drone Dominance" (speaker/attendee outreach from established conference organizer)
-   - Paige Smith continues multi-conference engagement pipeline
-
-4. **Retail/Promotional (continued):**
-   - MailerLite Cyber Monday guide (Nov 12) — consumer promotional content
-
-5. **A&SF Daily Report (continued):**
-   - Air Force/Space Force operational news (maintenance manpower focus)
+### Maintained Work Intelligence Themes
+- **Defense/Space/Air Force (continued):** A&SF Daily Report (DAF AI Strategy), Mitchell Institute (election/defense policy implications) — routed to Paige Smith only.
+- **Uncrewed Systems (continued):** UAS VISION daily feed — routed to Jack Newman via media@.
 
 ## Communication Patterns
 
-- **Kareem remains excluded from direct pipeline:** All 6 new messages address Paige Smith or Jack Newman only. Zero new direct messages to kareem.ahmed@ (Asana Nov 12 remains sole outlier).
+- **Kareem remains excluded from intelligence pipeline:** All strategic/market intelligence continues routing to Paige Smith or Jack Newman. Kareem receives zero business emails from colleagues or external contacts.
 
-- **Paige Smith conference engagement intensifies:** 2 of 6 new messages are conference/booth-related (Geo Week + SAE Media Group Events), suggesting active Q4 2026 planning for 2027 event season.
+- **Asana promotional/notification spam:** 2 of 8 new messages are Asana system messages (1 unread notification alert, 1 promotional webinar). Suggests Kareem's Asana account is active but underutilized or he is subscribed to promotional emails.
 
-- **External conference organizer direct outreach (NEW):** James Hitchen (SAE Media) sends directly to Paige Smith with drone dominance/leadership focus — indicates Paige is recognized speaker/key attendee on UAS conference circuit.
+- **Slack integration active but overwhelmed:** Slack notification on Nov 13 indicates Kareem has 34 unread messages in Slack, separate from email. Suggests async communication via Slack may be primary channel for internal collaboration, with email isolation as separate pattern.
 
-- **UST newsletter adds to UAS coverage:** Unmanned Systems Technology LinkedIn newsletter arrival (in addition to UAS VISION daily feed) suggests dual-track uncrewed systems intelligence — strategic monitoring of both news and thought leadership.
+- **Unsolicited external outreach:** 2 messages from UOSSM Canada (nonprofit/humanitarian) suggest Kareem is on broader public mailing lists unrelated to BST work.
 
-- **All messages remain unread:** 100% [UNREAD] flag maintained across all 6 new messages.
+- **Continued 100% [UNREAD] status:** All 8 new messages remain unread, consistent with prior pattern of email non-engagement or batch/async processing.
 
-- **Wednesday/Thursday concentration (Nov 12–13):** 5 of 6 new messages on Nov 12 (04:45–21:45 UTC span), 1 follow-up from external event organizer Nov 13 (02:35 AEDT). Batch processing pattern continues.
+- **Wednesday/Thursday/Saturday concentration (Nov 13–14):** 6 of 8 new messages Nov 13 (05:00–17:50 span), 2 follow-up Asana messages Nov 14 (00:59–04:25 UTC). Weekend system notification timing visible.
 
 ## Key Relationships
 
-- **Jack Newman (media@blackswifttech.com)** — continues sole internal aggregator; UAS VISION direct feed routed through Jack only.
+- **Jack Newman / Paige Smith (via media@blackswifttech.com)** — remain sole recipients of intelligence communications. Kareem's organizational isolation from this pipeline deepens.
 
-- **Paige Smith (paige.smith@blackswifttech.com)** — **Elevated visibility in external conference ecosystem.** Now receiving direct outreach from established conference organizers (SAE Media Group). Conference engagement intensifying (Geo Week booth, SAE drone summit).
+- **Asana / Slack (internal systems)** — Kareem's active presence in both systems, but no evidence of corresponding direct email communication with team members. Suggests **Slack is primary internal communication channel for Kareem; email is secondary or dormant for work purposes.**
 
-- **James Hitchen / SAE Media Group Events** — **NEW external relationship.** Conference organizer targeting Paige Smith with drone/UAS leadership summit, indicates established speaker/attendee relationship or prospect outreach.
-
-- **Kareem Ahmed (kareem.ahmed@blackswifttech.com)** — **Continued organizational isolation from intelligence pipeline.** Despite Asana re-activation on Nov 12, zero new intelligence/strategic communications directed to Kareem across subsequent 48+ hours. Bifurcation of Kareem (project tasks) vs. Paige (intelligence/strategy/events) now confirmed across two data refreshes.
+- **UOSSM Canada** — unsolicited external relationship; no evidence of Kareem subscribing or engaging. Likely mass mailing list artifact.
 
 ## Notable Observations
 
-- **Paige Smith conference circuit prominence (PATTERN SOLIDIFYING):** Receipt of direct email from SAE Media Group Events organizer combined with active Geo Week booth procurement indicates Paige is established speaker/attendee on uncrewed systems/defense conference circuit. Subject line "Leaders Driving U.S. Drone Dominance" suggests strategic/executive-level positioning.
+- **Bifurcation confirmed across communication channels:** Kareem's Asana and Slack accounts are active (Nov 12 Asana activation now reinforced by Nov 13–14 Asana notifications and Nov 13 Slack 34-unread-message alert), but **email remains isolated from work collaboration.** This suggests team uses Slack for synchronous/async work communication while email serves as secondary notification channel or external-only gateway.
 
-- **Unmanned Systems Technology newsletter (NEW FEED):** Arrival of dedicated UST newsletter (in addition to existing UAS VISION daily feed and LinkedIn monitoring) indicates multi-layer uncrewed systems market intelligence strategy — news feed + strategic thought leadership + social listening.
+- **Kareem's zero direct colleague emails (now 100-message sample):** Across full dataset (100 emails), Kareem has received **zero direct emails from internal colleagues.** All internal communication appears to route through Asana task notifications or Slack. This is the primary bifurcation pattern: **Kareem is integrated into project management/async chat systems but excluded from email-based intelligence and strategy communications.**
 
-- **Geo Week booth "NOW's the time to secure" messaging (TIMING SIGNAL):** Geo Week newsletter sends urgent booth procurement reminder Nov 12, suggesting early-bird or critical deadline for 2027 event season. Indicates BST has active budget allocation and exhibitor strategy.
+- **Paige Smith = Strategy/Intelligence/Events; Kareem = Project Delivery/Execution (PATTERN SOLIDIFIED):** 
+  - Paige: Receives defense policy briefs (Mitchell Institute), military/space news (A&SF Daily Report), conference solicitations (SAE Media Group Events), booth procurement alerts (Geo Week). 
+  - Kareem: Receives task/notification pings (Asana, Slack), unsolicited nonprofit outreach. 
+  - **Clear organizational role stratification.**
 
-- **Kareem's Asana activation remains non-consequential to intelligence access:** Despite project management system re-enrollment (Nov 12), Kareem receives zero intelligence communications in subsequent 48+ hours. Suggests his role is project delivery/execution only, not strategy/market intelligence.
+- **Asana promotional emails suggest low platform engagement:** Two promotional/educational emails from Asana in 48 hours (Nov 14) indicate Kareem may not be actively using Asana features, triggering retention/education messaging from platform.
 
-- **Cyber Monday MailerLite promotional content (NOISE SIGNAL):** Single retail promotional message suggests Paige Smith may be on broad consumer marketing lists or forwarding consumed for organizational/team benefit tracking. Low strategic relevance.
+- **UOSSM Canada unsolicited outreach (NOISE):** Gaza/humanitarian crisis emails have zero relevance to BST operations. Suggests either:
+  - Kareem's email address is on public or shared humanitarian mailing lists, OR
+  - Kareem previously engaged with UOSSM content and is now on their distribution list.
+  - Low strategic relevance; recommend filtering.

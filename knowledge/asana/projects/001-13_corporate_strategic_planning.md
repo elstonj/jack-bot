@@ -1,36 +1,34 @@
-_Asana snapshot as of 2026-11-12: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 1 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Corporate / Strategic Planning
 
 ## Status
-**ARCHIVED** — This project is no longer active. Last status update was June 16, 2024. Retained in Asana for historical reference.
+**ARCHIVED** — Project was active as of June 2024 but is no longer in use. Contains only 1 open task (lease termination tracking) with no due date.
 
 ## Overview
-- **Purpose:** Corporate/strategic marketing planning and facility/lease management
-- **Team:** Whole BST team
-- **Key Customers/Accounts Referenced:**
-  - NOAA (government/institutional)
-  - NASA (Aren 2023 — $90k)
-  - DOD (government/institutional)
-  - CO OEDIT ($152k)
-- **Real Estate:** 6.23 CAM property taxes and building insurance tracked; lease with 60-month projection
+- **Purpose:** Marketing strategy planning and customer analysis
+- **Team:** Whole BST team (unassigned execution)
+- **Known Customers/Targets:**
+  - Government/institutional sector (LinkedIn, email outreach)
+    - NOAA
+    - NASA (Aren 2023 — $90k)
+    - DOD
+    - CO OEDIT — $152k
+- **Timeline:** Last status update June 16, 2024
+- **Marketing Goals (identified):**
+  - Increase brand awareness
+  - Drive website traffic
+  - Lead generation
+  - Grow audience
+  - Increase engagement
+  - Drive revenue
 
-## Key Context
-This project appears to have served dual purposes:
-1. **Marketing Strategy** — Goal framework around brand awareness, website traffic, lead generation, audience growth, engagement, and revenue
-2. **Facilities/Lease Management** — Long-term facility cost planning (60-month NNN lease projection with annual increases ~3%)
+## Key Deliverables & Milestones
+None actively tracked. Project structure included a 60-month rolling timeline broken into 12-month blocks (Months 1–12, 13–24, 25–36, 37–48, 49–60) with associated cost projections ($13.00–$14.63 NNN per block).
 
-No active marketing initiatives or deliverables are listed; this was likely a planning/reference document rather than an execution project.
+## Task Summary
+- **Total:** 1 open task, 0 completed
+- **Open Task:** "Lease terminates" (Unassigned, no due date) — Real estate property taxes and building insurance tracking for 6.23 CAM
 
-## Recent Activity
-- **Last Update:** June 16, 2024 (marked as completed)
-- No tasks completed since archival
-- One orphaned open task remains: "Lease terminates" (unassigned, no due date) — appears to be a legacy placeholder related to facility lease milestones
-
-## Tasks
-- **Open:** 1 (unassigned, no due date)
-- **Completed:** 0 in active period
-- No assignees or active work streams
-
-## Notes
-With the team restructuring noted by Maciej (Oct 2026), this archived strategic planning project has been superseded by the new two-level Asana + Kanban board system for active R&D projects. Marketing and facility planning may now be tracked elsewhere or integrated into updated strategic projects.
+## Notes & Context
+This project appears to be a strategic/corporate planning archive rather than an active execution project. The single open task relates to facility lease management rather than active marketing initiatives. Per team feedback from October 2026 (Maciej), BST is restructuring its Asana approach to separate long-term milestone planning from weekly execution tracked on a physical Kanban board — this archived project likely predates that restructuring.

@@ -2,44 +2,45 @@
 
 ## By Product/System
 
-### S0 Carrier (Uncrewed)
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, NOAA OAR AOML | October 28 | Capability whitepaper proposing uncrewed S0 carrier demonstrator for NOAA maritime operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### S0 Air-Deployed UAS
+- **S0 UAS System Integration v2** — Multi-agency (NOAA, USAF/AFRC, USSOCOM, UK MoD) — Technical Integration Reference / Engineering Specification — Comprehensive host-aircraft integration reference for S0 deployment on WP-3D Orion and USAF platforms; covers operational baseline, direct-to-phase proposals, and CRADA framework. *(s0_uas_system_integration_v2.md)*
 
 ---
 
 ## By Client/Agency
 
-### NOAA (National Oceanic and Atmospheric Administration)
-- **NOAA Office of Marine and Aviation Operations (OMAO) / Uncrewed Systems Operations Center (UxSOC)**
-  - Uncrewed S0 Carrier Demonstrator | October 28 | Demonstrator platform for uncrewed maritime operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### NOAA
+- **S0 UAS System Integration v2** — NOAA — Technical Integration Reference — Operational deployment baseline for S0 on WP-3D Orion (N42RF, N43RF) *(s0_uas_system_integration_v2.md)*
 
-- **NOAA OAR Atlantic Oceanographic and Meteorological Laboratory (AOML)**
-  - Uncrewed S0 Carrier Demonstrator | October 28 | Demonstrator platform for oceanographic operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### USAF / AFRC 53rd Weather Reconnaissance Squadron
+- **S0 UAS System Integration v2** — USAF/AFRC — Proposed Direct-to-Phase (AFX255-DPCSO1) — AFX255-DPCSO1 Direct-to-Phase proposal for S0 integration *(s0_uas_system_integration_v2.md)*
 
-### U.S. Navy (Referenced Programs)
-- Related to NAVAIR N251-016 and STTR N6833525C0270 (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### USSOCOM
+- **S0 UAS System Integration v2** — USSOCOM — CRADA Framework — S0 integration under USSOCOM Cooperative Research and Development Agreement *(s0_uas_system_integration_v2.md)*
+
+### UK Ministry of Defence / Royal Navy
+- **S0 UAS System Integration v2** — UK MoD / Royal Navy — Proposed Integration — S0 deployment proposal for UK naval operations *(s0_uas_system_integration_v2.md)*
 
 ---
 
 ## By Application Area
 
-### Maritime/Ocean Operations
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC | October 28 | Uncrewed platform for NOAA maritime monitoring and operations (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### Atmospheric & Weather Research
+- **S0 UAS System Integration v2** — NOAA, USAF Weather Recon — Technical Integration Reference — Air-deployed UAS for hurricane reconnaissance, meteorological sampling, and atmospheric profiling *(s0_uas_system_integration_v2.md)*
 
-### Oceanographic Research
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OAR AOML | October 28 | Uncrewed platform for oceanographic data collection (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### Military Operations / Special Operations
+- **S0 UAS System Integration v2** — USSOCOM, UK MoD — Operational Proposal — S0 integration for special operations and maritime missions *(s0_uas_system_integration_v2.md)*
 
 ---
 
 ## By Document Type
 
-### Capability Whitepapers / Proposals
-- **Uncrewed S0 Carrier Demonstrator** | NOAA OMAO/UxSOC, NOAA OAR AOML | October 28 | Demonstrates S0 uncrewed carrier capabilities for NOAA Phase III SBIR and Navy programs (wp-bst-006_rev_b_uncrewed_s0_carrier_demonstrator.md)
+### Technical Integration References / Engineering Specifications
+- **S0 UAS System Integration v2** — Multi-agency — Detailed host-aircraft integration procedures, payload integration, launch/recovery systems, power management, data handling for S0 UAS *(s0_uas_system_integration_v2.md)*
+
+### Proposals
+- **S0 UAS System Integration v2** — USAF (AFX255-DPCSO1), USSOCOM (CRADA), UK MoD — Direct-to-Phase and partnership proposals *(s0_uas_system_integration_v2.md)*
 
 ---
 
-## Funding/Program References
-
-- **NOAA IDIQ:** 1305M226D0012 (OMAO/UxSOC)
-- **SBIR Phase III:** 15 U.S.C. § 638(r)
-- **Navy References:** NAVAIR N251-016, STTR N6833525C0270
+**Note:** This catalog currently contains one comprehensive document. Additional documents should be added as they are provided.

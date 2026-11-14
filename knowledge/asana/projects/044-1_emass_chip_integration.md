@@ -1,32 +1,36 @@
-_Asana snapshot as of 2026-11-12: 0 open tasks, 4 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 0 open tasks, 4 completed (last 90 days)._
 
 # [044-1] EMASS Chip Integration
 
 ## Overview
-- **Client/Customer:** EMASS
-- **Dollar Value:** $90,000 total funding to Black Swift
-- **Timeline:** Original 11/10/2025–1/31/2026 (dates subsequently changed; no set end date as of project notes)
-- **Status:** ARCHIVED (all tasks completed as of September 2026)
-- **Team Members:** Dan Prendergast (Owner), Meredith O'hara Needham, Maciej Stachura
-- **Customer Type:** Commercial
+- **Client:** EMASS (Commercial)
+- **Dollar value:** $90,000 total funding to Black Swift
+- **Timeline:** Originally 11/10/2025 – 1/31/2026 (dates changed; no firm end date set)
+- **Status:** ARCHIVED (completed)
+- **Team members:** Dan Prendergast (owner), Meredith O'hara Needham, Maciej Stachura
 - **Products/Services:** Custom Payload, E2
 
-## Key Context & Financial History
-As of June 2026, the client disputed payment for the final milestone ($35k) because the final report was not completed on schedule. The team restructured this milestone into two phases:
-- **Milestone 4a: Engineering support + flights** — $25k
-- **Milestone 4b: Final reports** — $10k
-
-Going forward, billing transitioned to a per-flight-day model rather than milestone-based.
+## Key Deliverables & Milestones
+- **Milestone 4a:** Engineering support + flights — $25k
+- **Milestone 4b:** Final reports — $10k
+- **Milestone structure change (June 2026):** Original final milestone ($35k) was split after client declined to pay for incomplete final report. Project transitioned to per-flight-day billing going forward.
 
 ## Task Summary
-- **Total Tasks:** 4 completed, 0 open
-- **Completion Timeline:**
-  - Data analysis (Maciej Stachura) — completed 2026-08-24
-  - Final Report (Dan Prendergast) — completed 2026-08-24
-  - Final invoice to EMASS (Meredith O'hara Needham) — completed 2026-09-04 (due 2026-08-28, 7 days late)
+- **Total tasks:** 0 open, 4 completed
+- **Completion:** 100% (all work closed out)
+- **Key contributors:** 
+  - Maciej Stachura: data analysis (2 tasks completed)
+  - Dan Prendergast: Final Report (completed 2026-08-24)
+  - Meredith O'hara Needham: final invoice (completed 2026-09-04)
 
 ## Recent Activity
-Project concluded in August–September 2026 with final data analysis, report generation, and invoicing completed. Final invoice sent to EMASS 2026-09-04.
+- **2026-09-04:** Final invoice sent to EMASS for final report (completed by Meredith O'hara Needham)
+- **2026-08-24:** Final Report and data analysis tasks completed by Dan Prendergast and Maciej Stachura
 
-## Notes
-The original contract structure experienced friction over milestone 4 deliverables. No additional tasks are pending; the project is fully archived.
+## Notes & Context
+Project encountered a billing dispute: EMASS refused to pay the original $35k final milestone because BST did not complete a final report as specified. Resolution negotiated to split the remaining balance into deliverable components (engineering/flights $25k + final reports $10k) and shift to per-flight-day billing for future work.
+
+---
+
+## Separate Notice: Incoming Project
+**Project Number Requested (not yet assigned):** Lockheed Martin UK/Royal Navy — S0-AD integration with UK Merlin Helicopter Launch System (Royal Navy designation: Project RAVEN). Assigned project number **[047-01] Helicopter Integration** per Meredith Needham (2026-10-29).

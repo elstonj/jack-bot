@@ -1,28 +1,32 @@
-_Asana snapshot as of 2026-11-12: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 0 open tasks, 0 completed (last 90 days)._
 
-# SBIR - SMM DoD 22.4D Phase II
+# [400-5] SBIR - SMM DoD 22.4D Phase II
 
 ## Overview
-- **Client:** U.S. Air Force (Department of Defense)
-- **Budget:** $1,249,725 total; $1,249,725 to Black Swift Technologies
-- **Subcontractor:** Orbital Micro Systems (OMS) — $605,000
-- **Status:** **ARCHIVED** (no active tasks)
+- **Client/Customer:** U.S. Air Force (Department of Defense)
+- **Dollar Value:** $1,249,725 total budget; $1,249,725 to Black Swift Technologies
+- **Subcontractor:** Orbital Micro Systems (OMS) – $605,000
+- **Timeline:** Due 2025-07-11
+- **Status:** **ARCHIVED** (no active tasks in Asana)
 - **Primary Contact:** Jason Foley (jason.foley.1@us.af.mil)
-- **Billing Contact:** Thomas Shea, Contracting Officer
-- **Project End Date:** July 11, 2025
+- **Billing Contact:** Thomas Shea, CO (thomas.shea.3@us.af.mil)
+- **Team:** Black Swift Technologies (whole team)
 
-## Project Summary
-This SBIR Phase II project develops a UAS-based L-band radiometer for measuring soil moisture and mapping soil integrity. The technology, developed in conjunction with NASA and validated by BST, OMS, and CET, is being adapted for Air Force use to assess landing area conditions.
+## Project Description
+Development and validation of a UAS-based L-band radiometer (in partnership with OMS and CET, with NASA collaboration) to measure soil moisture for mapping soil integrity. The technology is being modified for DAF (Department of the Air Force) use case: mapping landing areas for soil integrity assessment. Soil moisture measurement is critical for understanding soil strength, slipperiness, and stickiness.
 
-## Recent Deliverables & Payment Status
-- **Deliverable #5** (valued at $100,000) was submitted on **December 11, 2024**
-- Status: Awaiting Air Force approval before invoice submission
-- *Contact Dan for payment/approval updates*
+## Key Deliverables & Milestones
+- **Deliverable #5:** $100,000 payment – submitted Dec. 11, 2024 (awaiting approval before invoice submission)
+- **Project Due:** 2025-07-11
 
-## Key Notes
-- Project is archived in Asana (0 open tasks, 0 completed tasks tracked)
-- Team restructuring planned as of late October 2026 to shift Asana focus to long-term milestones and rolling 6-month planning, with weekly execution managed via physical Kanban board (per Maciej's feedback)
-- Deliverables include custom payload, systems manuals, and documentation
+## Task Summary
+- **Total Tasks:** 0 open, 0 completed
+- Asana is not being actively used for task tracking on this project
 
----
-*Status as of November 22 (latest update date in Asana). Refer to Dan for current payment approval status on Deliverable #5.*
+## Recent Activity
+**Status Update (Nov 22, 2024):** Project marked green.
+
+**Dec. 11, 2024:** Deliverable #5 submitted; payment awaiting approval. Dan can provide updates per Admin notes.
+
+## Notes & Context
+This is an archived SBIR Phase II contract with the Air Force. Task tracking has been moved off Asana or project execution is being managed externally. For current status and payment/deliverable approvals, contact Dan or refer to the billing contact (Thomas Shea). The next milestone is the July 2025 contract end date.

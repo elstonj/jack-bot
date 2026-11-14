@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 45249.75,
+    "expenses": 46525.47,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 16107.01,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 17382.73,
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 13429.24,
       "Tariffs": 451.8,
@@ -380,6 +380,24 @@
           "amount": 65.9,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 1275.72,
+      "attributed": 1275.72,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IN *K-MAC PLASTICS LLC - 7333 part for S0 Vtol",
+      "lines": [
+        {
+          "amount": 1275.72,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "IN *K-MAC PLASTICS LLC - 7333"
         }
       ]
     },

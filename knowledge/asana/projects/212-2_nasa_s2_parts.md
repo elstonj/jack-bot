@@ -1,40 +1,34 @@
-_Asana snapshot as of 2026-11-12: 0 open tasks, 10 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 0 open tasks, 10 completed (last 90 days)._
 
-# NASA S2 & Parts
+# [212-2] NASA S2 & Parts
 
 ## Overview
-- **Client:** NASA (Will Wade)
-- **Contact:** Isaac Anderson, 650-602-5988, isaac.e.anderson@nasa.gov
-- **Dollar value:** $89,844
-- **Timeline:** Due 2026-09-30 (deadline passed; delivery by 9/30/2026)
-- **Status:** **ARCHIVED** — Per Maciej (2026-10-27/28), this project is ready for archival. All work appears complete; final tasks were marked done 2026-10-27.
-- **Team:** Josh Fromm, Jack Elston, Spencer Hoehl (and broader BST team)
-- **PO:** 80NSSC25PC031
+- **Client:** NASA (Will Wade); Primary Contact: Isaac Anderson (650-602-5988, isaac.e.anderson@nasa.gov)
+- **Dollar Value:** $89,844
+- **Timeline:** Approved for FY2025 funding; Project due date Sept 30, 2026
+- **Status:** **ARCHIVED** — Per team feedback (Maciej, 2026-10-27), this project was ready for closure. All tasks completed by late October 2026.
+- **Team:** Josh Fromm, Jack Elston, Spencer Hoehl, and broader BST team
+- **Contract/PO:** PO No. 80NSSC25PC031
 
 ## Key Deliverables & Milestones
-All tasks completed as of 2026-10-27. Final deliverables included:
-- S2 platform parts & components (end-of-life product)
-- Launcher refurbishment
-- GCS (Ground Control Station) equipment setup and calibration
-- Aircraft preparation (flap panels, aileron panels, ruddervator inserts, spare tail, joystick trim)
-
-**Original deadline:** 2026-09-30 (approved for end of FY2025)
+- **S2 Parts & Replacement Components** — Estimate 1362 sent July 18, 2025, covering cost breakdown for S2 parts and full S2 unit. Note: S2 is end-of-life as transition to S3 platform underway.
+- **Delivery by 09/30/2026** — Project met deadline
 
 ## Task Summary
-- **Total tasks:** 0 open, 10 completed (100% completion)
-- **Recent completions:** All 10 tasks marked complete on 2026-10-27, shortly after Maciej's archival request
-- **Key assignees:**
-  - Spencer Hoehl: 3 tasks (GCS tablet setup, sensor file loading, joystick trim)
-  - Josh Fromm: 1 task (launcher solenoid fix)
-  - Jack Elston: 1 task (GCS battery calibration)
-  - Unassigned: 5 tasks (structural/parts fabrication)
+- **Total Tasks:** 10 completed, 0 open
+- **Recent Completions (Oct 27, 2026):**
+  - Launcher refurbishment
+  - Flap panels (×2), aileron panels (×2), tail spares, ruddervator inserts (manufacturing)
+  - Launcher solenoid fix (Josh Fromm)
+  - NASA GCS battery calibration (Jack Elston)
+- **Earlier Completions (Sept 2026):**
+  - Joystick mode trim fix, tablet setup, sensor file loading (Spencer Hoehl)
 
 ## Recent Activity
-**2026-10-27:** All remaining tasks marked complete. Maciej flagged [212-2] for archival on 2026-10-27/28. Project owner <@U06KRHPQSRH> assigned to archive per Maciej's instructions.
+All tasks marked complete by late October 2026. Per team feedback (Maciej, 2026-10-27), project was scheduled for archival—only administrative/billing tasks may remain outside Asana. Delivery to NASA occurred before 09/30/2026 deadline.
 
 ## Notes & Context
-- **Cost breakdown:** Isaac Anderson (NASA) requested S2 parts cost breakdown on 2026-07-11; Estimate 1362 sent 2026-07-18 with note that S2 is now end-of-life as BST transitions to S3 platform.
-- **Billing POC:** IPP
-- **Customer Type:** Commercial
-- **Funding approved** to meet end of FY2025 deadline (Sept 30, 2026).
-- All fabrication, refurbishment, and system setup tasks completed. Project is ready for closure/archival.
+- **Billing/Admin:** IPP is billing point of contact
+- **Product Status:** S2 is officially end-of-life; S3 platform is in transition
+- **Original Scope:** Isaac Anderson requested S2 parts cost breakdown July 11, 2025; estimate provided one week later with notes on design requirements for EOL components
+- **Project Status Confirmed:** Ready for archival per 10/27/2026 team feedback

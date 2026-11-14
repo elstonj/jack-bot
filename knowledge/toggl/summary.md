@@ -1,123 +1,111 @@
-_Computed from Toggl as of 2026-11-13: 79445.4 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-14: 79501.9 h tracked since 2020-01-01._
 
 # Toggl Time Tracking Overview
 
 ## Key Metrics
-- **Total hours tracked**: 79,445.4 hours
-- **Active team members**: 33 people
-- **Projects with tracked time**: 117 projects (out of 151 total in workspace)
-- **Tracking period**: January 1, 2020 – November 13, 2026 (~7 years)
-
----
+- **Total hours tracked:** 79,501.9 hours (2020-01-01 to 2026-11-14)
+- **Active team members:** 33 people
+- **Projects with tracked time:** 117 out of 151 total projects
 
 ## Team Time Allocation
 
-### Top 10 Contributors (ranked by hours)
-| Team Member | Hours | % of Total |
-|---|---|---|
-| Jack Elston | 18,171.0 | 22.9% |
-| Stachura | 6,613.1 | 8.3% |
-| Josh Fromm | 6,269.8 | 7.9% |
-| Alex | 6,035.5 | 7.6% |
-| Dan | 5,534.4 | 7.0% |
-| Nate | 4,908.8 | 6.2% |
-| Sam Hild | 4,735.5 | 6.0% |
-| Beck Cotter | 4,028.0 | 5.1% |
-| Ethan Domagala | 3,915.2 | 4.9% |
-| Meredith Needham | 3,896.7 | 4.9% |
+### Hours by Team Member (Ranked)
+| Rank | Team Member | Hours | % of Total |
+|------|-------------|-------|-----------|
+| 1 | Jack Elston | 18,179.3 | 22.9% |
+| 2 | Stachura | 6,621.7 | 8.3% |
+| 3 | Josh Fromm | 6,269.8 | 7.9% |
+| 4 | Alex | 6,043.5 | 7.6% |
+| 5 | Dan | 5,534.4 | 7.0% |
+| 6 | Nate | 4,908.8 | 6.2% |
+| 7 | Sam Hild | 4,743.1 | 6.0% |
+| 8 | Beck Cotter | 4,028.0 | 5.1% |
+| 9 | Ethan Domagala | 3,923.7 | 4.9% |
+| 10 | Meredith Needham | 3,896.7 | 4.9% |
+| 11-33 | Remaining 23 people | 5,832.2 | 7.3% |
 
 ### Utilization Patterns
-- **Jack Elston dominates** with nearly 23% of all tracked time—significantly more than the second-highest contributor (Stachura at 8.3%)
-- **Core team of 9 people** (Elston through Meredith Needham) accounts for 74% of all tracked hours
-- **Long tail of 24 people** with minimal tracked time (< 3,000 hours each, including part-time, contractors, or recently departed staff)
-- Remaining 13 contributors (from Parker onward) represent less than 5% of total time
-
----
+- **Core team (top 10):** 70.0% of all tracked hours concentrated in 10 people
+- **Heavy concentration:** Jack Elston accounts for nearly 1 in 4 hours tracked across the entire organization
+- **Mid-tier contributors:** Strong secondary tier (Stachura, Josh Fromm, Alex, Dan, Nate) each in 4.1K-6.6K hour range
+- **Emerging/Part-time:** 23 people with <2,500 hours each, suggesting junior staff, consultants, or limited project involvement
 
 ## Project Portfolio
 
-### Top 15 Projects (ranked by hours)
-| Project | Hours | Classification |
-|---|---|---|
-| Project None (untracked/miscellaneous) | 8,259.5 | Meta |
-| [001-13] General Operations | 7,524.8 | Internal/Overhead |
-| [001-07] S3 IRAD | 7,039.6 | Internal IRAD |
-| Project 183171534 | 5,329.8 | Unknown/Other |
-| [301-3] S0 Hurricane Phase II – 2025 | 4,310.1 | NOAA (Joe Cione) |
-| [001-04] S0 VTOL IRAD | 4,035.7 | Internal IRAD |
-| [001-13] Proposals | 3,820.9 | Internal/Overhead |
-| [301-2] SBIR – Hurricane Phase II+ | 3,639.8 | NOAA (Joe Cione) |
-| [001-14] SwiftCore 3.3 | 3,334.7 | Internal IRAD |
-| [001-13] Marketing | 2,723.0 | Internal/Overhead |
-| [300-3] 2026 IDIQ (Hurricane) | 2,598.7 | NOAA |
-| [200-12] Aeropods | 2,548.2 | NASA |
-| [001-13] BD Pipeline | 1,292.0 | Internal/Overhead |
-| [001-16] SwiftStation IRAD | 1,274.2 | Internal IRAD |
-| [001-13] Corporate/Strategic Planning | 1,268.2 | Internal/Overhead |
+### Top 20 Projects by Hours (Ranked)
 
-### Project Categories Summary
+| Rank | Project | Hours | Category |
+|------|---------|-------|----------|
+| 1 | Project None (unassigned) | 8,268.2 | Unclassified |
+| 2 | [001-13] General Operations (Overhead) | 7,524.8 | Internal/Overhead |
+| 3 | [001-07] S3 IRAD | 7,063.8 | Internal R&D |
+| 4 | Project 183171534 | 5,329.8 | Unknown/External |
+| 5 | [301-3] S0 Hurricane Phase II - 2025 (NOAA) | 4,310.1 | Government - NOAA |
+| 6 | [001-04] S0 VTOL IRAD | 4,035.7 | Internal R&D |
+| 7 | [001-13] Proposals (Overhead) | 3,820.9 | Internal/Overhead |
+| 8 | [301-2] SBIR - Hurricane Phase II+ (NOAA) | 3,639.8 | Government - NOAA |
+| 9 | [001-14] SwiftCore 3.3 IRAD | 3,334.7 | Internal R&D |
+| 10 | [001-13] Marketing (Overhead) | 2,723.0 | Internal/Overhead |
+| 11 | [300-3] 2026 IDIQ Hurricane (NOAA) | 2,598.7 | Government - NOAA |
+| 12 | [200-12] Aeropods (NASA) | 2,548.2 | Government - NASA |
+| 13 | [001-13] BD Pipeline (Overhead) | 1,300.2 | Internal/Overhead |
+| 14 | [001-16] SwiftStation IRAD | 1,274.2 | Internal R&D |
+| 15 | [001-13] Corporate/Strategic Planning (Overhead) | 1,268.2 | Internal/Overhead |
+| 16 | Project 178336298 | 1,192.5 | Unknown/External |
+| 17 | Project 160309352 | 1,099.9 | Unknown/External |
+| 18 | [400-5] SBIR - Soil Moisture Mapping (USAF) | 1,094.5 | Government - USAF |
+| 19 | [400-5] SBIR - SMM DoD 22.4D Phase II (USAF) | 982.3 | Government - USAF |
+| 20 | [550-1] Navy SBIR: Magnetometer | 836.0 | Government - Navy |
 
-**Internal IRAD (Total: ~28,450 hours)**
-- S3, S0 VTOL, SwiftCore (3.3, 4.0, 3.2), SwiftStation, and other internal R&D projects
-- Represents significant investment in core technology development
+### Project Portfolio Analysis
 
-**Government/Client Contracts (Total: ~23,500 hours)**
-- NOAA Hurricane programs: ~10,260 hours (top government client)
-- NASA Aeropods/missions: ~2,850+ hours
-- DoD/Air Force SBIR programs: ~3,200+ hours
-- Navy SBIR/STTR: ~1,250+ hours
-- USGS, SOCOM, other federal: ~6,000+ hours
+**By Category (Approximate):**
+- **Internal IRAD Projects:** ~34,600 hours (43.5%)
+- **Overhead/Operations:** ~16,400 hours (20.6%)
+- **Government Contracts (NOAA/NASA/USAF/Navy/Other):** ~15,800 hours (19.9%)
+- **Unclassified/Unknown Projects:** ~6,900 hours (8.7%)
+- **Time Off (PTO/Sick Leave):** ~992 hours (1.2%)
+- **Other (Commercial, Partner projects):** ~4,800 hours (6.0%)
 
-**Internal Overhead (Total: ~13,000 hours)**
-- General Operations, Marketing, Proposals, HR, Compliance, Facilities
-- Represents 16% of all tracked time
+**Active vs. Inactive:**
+- 117 projects have tracked time
+- 34 projects listed represent bulk of work (top 10 account for ~58,300 hours = 73.3% of total)
+- Significant tail of small projects (<100 hours each)
 
-**Unallocated/PTO (Total: ~1,070 hours)**
-- PTO, Sick Leave, and "Project None"
-
-**Commercial/Partner Work (Total: ~3,500+ hours)**
-- By Light contracts (Mustang, M2/Halo, Professional Services): ~1,400+ hours
-- Commercial Sales: 788.5 hours
-
----
+### Key Client/Sponsor Relationships
+- **NOAA:** ~10,500 hours (Hurricane/meteorological monitoring)
+- **NASA:** ~2,700+ hours (Aeropods, related projects)
+- **Department of Defense (USAF):** ~2,160+ hours (SBIR programs)
+- **Navy:** ~1,260+ hours (SBIR Magnetometer)
+- **Various Universities & Research Institutions:** ~1,000+ hours
+- **USGS:** ~250+ hours
 
 ## Patterns & Insights
 
-### Key Work Distribution Patterns
+### Resource Concentration
+- **Jack Elston dominates:** 22.9% of all team hours suggests either executive/management role or super-contributor working across multiple projects
+- **Top 5 people:** Account for 51.8% of tracked time (Jack, Stachura, Josh Fromm, Alex, Dan)
+- **Skill clustering:** Same names appear repeatedly in recent entries, suggesting established team assignments
 
-**Jack Elston's Role**
-- Dominates leadership/business development activities (evident from recent entries: BD Pipeline, HR interviews, operations)
-- Appears to work across IRAD, government contracts, and operational overhead
-- Sole focus on strategic initiatives and company-wide coordination
+### Project Assignment Patterns
+- **Stachura:** [550-1] Navy SBIR, [001-14] SwiftCore, [300-3] Hurricane IDIQ, [001-12] Customer Support
+- **Josh Fromm:** [300-3] Hurricane IDIQ, [001-13] General Operations
+- **Ethan Domagala:** [043] ByLight projects, [001-08] Flight Testing
+- **Alex:** [300-3] Hurricane IDIQ, [001-04] VTOL IRAD
+- **Jack Elston:** Distributed across multiple categories—operations, sales (BD Pipeline), HR, IRAD projects, government contracts
 
-**Technical Core Team**
-- **Stachura, Josh Fromm, Alex, Dan, Nate, Sam Hild** form the technical backbone
-- Concentrated on IRAD projects (S3, S0 VTOL, SwiftCore) and government contracts (Hurricane, Navy SBIR)
-- Relatively balanced distribution across multiple projects
+### Billable vs. Non-Billable Split
+- **Likely Billable (Government/Commercial):** ~23,460 hours (29.5%)
+- **Internal IRAD:** ~34,600 hours (43.5%)
+- **Overhead/Operations:** ~16,400 hours (20.6%)
+- **Time Off:** ~992 hours (1.2%)
+- **Unclassified:** ~4,050 hours (5.1%)
 
-**Government Contracts Leadership**
-- Hurricane programs (NOAA) are the largest single client engagement (10,260 hours across multiple phases)
-- SBIR programs across Air Force and Navy indicate sustained federal business activity
-- NASA work is secondary but steady (Aeropods, flight testing)
-
-**Specialization Indicators**
-- **Flight Testing/Operations**: Spencer Hoehl, Ethan Domagala (recent entries show E2 SMM prep, flight testing focus)
-- **Customer Support**: Stachura, recent entries show support-related work
-- **Administration/Operations**: Meredith Needham, Josh Fromm (operations/admin entries)
-
-### Notable Patterns
-
-1. **Billable vs. Non-billable Split**: ~16% overhead (13,000 hours) suggests efficient utilization; ~74% is likely billable government/client work, ~10% is IRAD investment
-
-2. **Project Lifecycle**: Presence of old project IDs (e.g., 2020-2022 USGS/NOAA projects) alongside active 2025-2026 work indicates sustained client relationships
-
-3. **Small Tail of Contributors**: 24 people with < 3K hours suggests high employee turnover, part-time contractors, or recent hires
-
-4. **Largest Time Investments**:
-   - Hurricane Phase II programs (NOAA): Strategic growth area
-   - IRAD S3/S0 VTOL: Core technology platforms
-   - General operations/overhead: Necessary but significant time sink
-
-5. **Recent Activity Snapshot** (from sample entries):
-   - SOCOM Pope, Hurricane IDIQ, Flight Testing, Navy SBIR active
-   - Suggests portfolio mix of early-stage SBIR, large NOAA contracts, and special operations work
+### Organizational Insights
+1. **Heavy IRAD investment:** 43.5% of hours dedicated to internal R&D suggests significant corporate development focus (S3 variants, SwiftCore iterations, VTOL concepts)
+2. **Government-heavy customer base:** 49% of defined work (non-IRAD, non-overhead) is government contracts (NOAA, NASA, USAF, Navy)
+3. **Leadership bandwidth:** Jack Elston's 18K hours across HR, operations, business development, and technical work indicates tight management structure
+4. **Overhead ratio:** ~20.6% on overhead (operations, marketing, HR, compliance, facilities) suggests lean operational model
+5. **Flight-test intensive:** Multiple entries mentioning flight testing, SMM E2 prep, ERAU testing indicate hardware/aircraft testing phase
+6. **Specialization:** Repeat pairings (Stachura on Navy work, Ethan on ByLight projects) suggest subject matter expert assignments
+7. **Emerging talent:** 23 people with minimal hours may indicate recent hires, interns, or specialized consultants

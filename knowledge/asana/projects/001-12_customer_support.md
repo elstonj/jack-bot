@@ -1,46 +1,55 @@
-_Asana snapshot as of 2026-11-12: 4 open tasks, 1 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 4 open tasks, 1 completed (last 90 days)._
 
-# Customer Support [001-12]
+# Customer Support
 
 ## Overview
-- **Client/Customer:** Multiple (NOAA, Stanford, ERAU, NASA, Lakeland)
-- **Dollar value:** Not specified in task data; quotes in progress for S0-99 refurbishment and Stanford S2 system
-- **Timeline:** Active support requests; nearest deadline 2026-09-30 (S0-99 quote); furthest 2027-01-04 (NASA training)
-- **Status:** Active — 4 open tasks, 1 recently completed
-- **Team members involved:** Beck Cotter, Josh Fromm, Dan Prendergast
-- **Risk signals:** 
-  - S0-99 quote (2026-09-30) — **overdue as of 2026-10-20** (team feedback date)
-  - ERAU E2 repair has no due date but marked High Customer Impact; RMA sent 9/14 with no closure date
-  - Stanford quote (2026-10-30) approaching with incomplete scope definition
+- **Client/Customer**: Multiple (NOAA, Stanford, ERAU, NASA, Lakeland)
+- **Dollar Value**: Not specified in task data; quotes in progress for S0-99 refurbishment and Stanford S2 system
+- **Timeline**: Active support operations; nearest deadline 2026-09-30 (S0-99 quote); furthest 2027-01-04 (NASA training)
+- **Status**: Active — 4 open tasks, 1 recently completed
+- **Team Members**: Beck Cotter, Josh Fromm, Dan Prendergast
+- **Risk Signals**: 
+  - S0-99 quote overdue (due 2026-09-30, current date ~2026-10-20 per feedback)
+  - ERAU E2 repair has no due date but marked High Customer Impact
+  - Stanford quote approaching review (due 2026-10-30)
 
 ## Key Deliverables & Milestones
-| Task | Owner | Due Date | Status | Impact |
-|------|-------|----------|--------|--------|
-| S0-99 refurbishment quote | Beck Cotter | 2026-09-30 | **OVERDUE** | NOAA (Medium) |
-| Stanford S2 system quote (2×S2 + parts + ground station + launcher) | Josh Fromm | 2026-10-30 | In progress | Stanford (Low) |
-| ERAU E2 repair (flight behavior troubleshooting) | Beck Cotter | — | In progress | ERAU (High) |
-| NASA simulator training (refresher + new) | Dan Prendergast | 2027-01-04 | Pending | NASA |
+
+| Task | Owner | Due Date | Status | Notes |
+|------|-------|----------|--------|-------|
+| S0-99 Refurbishment Quote | Beck Cotter | 2026-09-30 | **OVERDUE** | NOAA damage; send to Laura.rock@noaa.gov & Nikolai.f.pawlenk |
+| Stanford S2 System Quote | Josh Fromm | 2026-10-30 | Open | 2× S2 full systems, parts, ground station, launcher; NRE required for design updates |
+| ERAU E2 Repair | Beck Cotter | — | Open | High impact; RMA sent 2026-09-14; troubleshooting flight behavior inconsistency |
+| NASA Sim Training | Dan Prendergast | 2027-01-04 | Open | Refresher and new simulation training |
 
 ## Task Summary
-- **Total:** 4 open, 1 completed (recent)
-- **By Assignee:**
-  - Beck Cotter: 2 tasks (S0-99 quote *overdue*, ERAU E2 repair *no due date*)
-  - Josh Fromm: 2 tasks (Stanford quote, Jaia containers return *completed 2026-10-21*)
-  - Dan Prendergast: 1 task (NASA training)
-- **Completion rate:** 20% (1/5 tasks completed)
+
+**Open vs Completed:**
+- 4 open tasks (100%)
+- 1 completed task (20% of total)
+
+**By Assignee:**
+- **Beck Cotter**: 2 tasks (1 overdue S0-99 quote, 1 open ERAU repair with no due date)
+- **Josh Fromm**: 2 tasks (1 open Stanford quote, 1 completed Jaia container shipment)
+- **Dan Prendergast**: 1 task (NASA training, due 2027-01-04)
+
+**Completion Rate:** 20% (1 of 5 total tasks completed)
 
 ## Recent Activity
-- **2026-10-21:** Jaia containers return task completed by Josh Fromm (7 days late, but resolved)
-- **2026-10-20:** Team feedback from Daniel Prendergast highlights process gaps in transitioning proposed builds into production pipeline — no impact on these support tasks directly, but contextual for resource planning
-- **Active:** Three quotes/requests in flight; ERAU E2 repair in troubleshooting phase since 9/14 RMA
+
+- **2026-10-21** (6 days ago): Completed task — Josh Fromm returned Jaia bot containers to Lakeland with S0 shipment
+- **2026-10-20** (today): Feedback from Daniel Prendergast identifying process gap: no well-defined transition process from proposed system builds to production pipeline (relevant context for Stanford and other builds in discussion)
+- **2026-09-30** (overdue): S0-99 refurbishment quote deadline passed; status unclear
+- **2026-09-14** (36 days ago): ERAU E2 RMA sent; repair in progress
 
 ## Notes & Context
-- **S0-99 (NOAA):** Aircraft damage requiring refurbishment quote. NOAA will not seek UPS compensation; BST to cover cost. Quote recipients: laura.rock@noaa.gov, nikolai.f.pawlenk
-- **Stanford:** Tangy (Tanay) requesting 2 full S2s + parts + ground station + launcher; design NRE work required; scope still being defined
-- **ERAU E2:** High-priority repair for flight behavior inconsistency; RMA initiated 9/14; no resolution date set
-- **NASA:** Training scheduled for 2027-01-04; details minimal in task
-- **Process Note:** Per Daniel Prendergast (2026-10-19), BST lacks a well-defined process for transitioning proposed system builds into production. The S0 Production QC Website (Jack's tool) currently only tracks S0-AD orders; may be extensible for holistic production planning.
 
----
+1. **S0-99 Status**: NOAA aircraft damaged; UPS will not compensate. Quote preparation in progress; requires costings for refurbishment work.
 
-**⚠️ Action required:** S0-99 quote is overdue (due 2026-09-30, feedback dated 2026-10-20). Follow up with Beck Cotter on NOAA delivery status.
+2. **Stanford Project (Technical Debt)**: Josh's notes indicate incomplete design specification — mentions "would require some extra NRE to update the design to deal with [cut off]." Recommend clarifying scope before finalizing quote.
+
+3. **ERAU E2 High Priority**: No due date set despite "High" customer impact flag and RMA already submitted. Recommend establishing timeline for return and troubleshooting closure.
+
+4. **Process Gap (Daniel Prendergast, 2026-10-19)**: Team lacks formal handoff process from proposal → production. Example cited: LMUK project currently in discussion phase; will require 2× S0-AD w/ Magnetometer, 2× S0-AD w/ Camera, 2× [unit type cut off]. Suggests need for production planning workflow integration.
+
+5. **Custom Field Usage**: Customer Impact (Low/Medium/High) and Issue Type (Technical/Other) tracked per task for triage.

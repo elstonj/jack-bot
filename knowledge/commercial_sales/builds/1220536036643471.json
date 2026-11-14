@@ -1,0 +1,40 @@
+{
+  "asana_gid": "1220536036643471",
+  "asana_task_name": "Flowershift",
+  "customer": "Flowershift",
+  "customer_contact": "Nemanja Popovic",
+  "customer_email": "nem.popovic@flowershift.com.au",
+  "receive_by": "2026-11-17",
+  "ship_to": null,
+  "items": [
+    {
+      "description": "Fixed-wing drone for atmospheric observation / vertical profile data collection",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": null,
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": null,
+  "carrier": null,
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Nate"
+  },
+  "notes": "Inbound lead from Flowershift (Australian weather forecasting company) via website. Nemanja Popovic inquiring about fixed-wing drone capability for atmospheric observation / vertical profiling to improve forecast accuracy. Requesting single-unit quote. Decision due Nov 17, 2026.",
+  "missing_fields": [
+    "ship_to",
+    "items",
+    "estimate_date"
+  ],
+  "last_evidence_date": "2026-11-14",
+  "last_contact_date": null
+}

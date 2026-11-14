@@ -1,87 +1,173 @@
 # Lynn Regnier — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 90 emails across all datasets (71 + 19 new)
-- Date range: 7 Nov – 13 Nov 2026 (7-day period)
-- Volume pattern: Moderate to high email activity (~12–13 emails/day), predominantly transactional with strategic human correspondence embedded
-- New batch (12 Nov): 19 emails, mostly vendor/automated notifications; 3 direct human emails (Accordion Partners, Krateo Sky, Fireflies.ai meeting recording notification)
+- Total messages scanned: 121 emails across all datasets (90 + 31 new)
+- Date range: 7 Nov – 14 Nov 2026 (8-day period)
+- Volume pattern: Moderate to high email activity (~15 emails/day), predominantly transactional with strategic human correspondence embedded
+- New batch (13-14 Nov): 31 emails; 26 automated/vendor notifications; 5 direct human emails (Dani Scheck/Ramp, Amit Sinha/Accordion, Brian Grubel/Krateo Sky, Meredith Needham/Google Sheets, Spencer Hoehl)
 
 ## Key Correspondents
 
 **Top Senders:**
-- Purchasing department (via automated forwarding): ~60/90 emails
-  - Vendor/supplier notifications: DigiKey, Grainger, Spindrift Market, Amazon, UPS, USPS, SAP Business Network, Driftaway Coffee
-  - Logistics/shipping: USPS Informed Delivery, Spindrift Market delivery notifications, UPS Supply Chain Solutions
-  - Promotional: Ramp Team (expense audit software)
-- **Accordion Partners (Amit Sinha)**: 2 emails (marked IMPORTANT) — ongoing "Controller Handoff and Phase II Engagement" dialogue; Lynn replying directly on 12 Nov 11:06 CST
-- **Krateo Sky (Contact)**: 1 email (marked IMPORTANT) — "Black Swift Weekly Integration Review" meeting summary; distributed to Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham, and Lynn
-- **Meredith Needham**: Google Sheets share request for "Missing Receipts" — ongoing finance/reconciliation work
-- **Fireflies.ai (Fred)**: Meeting recording notification for "Black Swift Weekly Integration Review"
-- **Joshua Waldman** (internal): Time tracking data (from previous batch)
+- Purchasing department (via automated forwarding): ~100/121 emails
+  - **Vendor/supplier notifications (NEW patterns)**: Dronetag, Protolabs (3 quotes/order confirmations), Brett Paro/Protolabs, SensorPros, ACP Composites, Aeronet
+  - **Existing vendors (continued)**: DigiKey (4 new emails on 13 Nov alone), ProtoSpace, Driftaway Coffee
+  - **Logistics**: USPS Informed Delivery, Protolabs order tracking
+- **Dani Scheck (Ramp)**: 3 emails on 13 Nov — escalating vendor engagement; Lynn replying same-day (10:17 CST) to IMPORTANT email; Dani cc'ing Meredith Needham in latest message (12:10 CST) — indicates multi-stakeholder vendor negotiation
+- **Amit Sinha (Accordion Partners)**: 1 email on 13 Nov (marked IMPORTANT) — "BST // Accordion" subject line; continuing active dialogue with Nicholas Rodgers and Nicholas Grande
+- **Brian Grubel (Krateo Sky)**: 2 emails on 13 Nov (both marked IMPORTANT)
+  - 14:49 UTC: "Initial BST PM Artifacts" direct to Lynn
+  - 15:49 UTC: Reply to Jack Elston and Maciej Stachura thread, continuing PM artifact discussion
+- **Meredith Needham**: 2 interactions on 13 Nov
+  - Google Sheets comment on "Missing Receipts" (09:17 CST) — "I took care of this in QB. It was lin..." (note: truncated comment suggests active reconciliation completion)
+  - CC'd by Dani Scheck on Ramp negotiation email (12:10 CST)
+- **Spencer Hoehl** (external): Email forwarded to Lynn with "Unmanned Aircraft General - Small (UAG) Payment Receipt" — new contact or vendor engagement
+- **Maciej Stachura** (internal): Direct email thread with Jack Elston on "Initial BST PM Artifacts" from Krateo Sky (08:46 CST)
+- **Jack Elston** (internal): Receiving Krateo Sky artifacts discussion; replying to Brian Grubel (07:57 CST)
 
 **Internal vs External:**
-- Internal: Joshua Waldman, Meredith Needham, Joshua Fromm, Jack Elston, Maciej Stachura
-- External: Amit Sinha (Accordion Partners), Krateo Sky, Fireflies.ai
-- ~4 human-to-human direct emails; ~86 automated/transactional
+- Internal: Meredith Needham, Maciej Stachura, Jack Elston
+- External: Dani Scheck (Ramp), Amit Sinha (Accordion Partners), Brian Grubel (Krateo Sky), Spencer Hoehl
+- ~6 human-to-human direct emails; ~115 automated/transactional
 
 ## Topic Patterns
 
-**Recurring Themes:**
-- **Finance & audit coordination**: Ongoing KPMG cash-to-accrual work (from earlier batch); Accordion Partners controller advisory intensifying with direct Lynn-to-Amit Sinha dialogue (12 Nov 11:06 CST response); "Missing Receipts" reconciliation project with Meredith Needham
-- **Strategic partnerships**: Krateo Sky "Black Swift Weekly Integration Review" meeting — formalized weekly cadence with key BST personnel (Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham); meeting recorded via Fireflies.ai for documentation/compliance
-- **Vendor/supplier orders & fulfillment** (continued high volume):
-  - **DigiKey**: Multiple orders in single day (12 Nov) — PO acknowledgement + order confirmation + shipment notification (invoice 136306712)
-  - **Grainger**: Verification code + promotional content ("What Kind of Outlet Is That?" marketing)
-  - **Spindrift Market**: Order SH62392229 — delivery notifications (in transit + delivered same day)
-  - **Amazon**: Safety equipment order (Safety Eyewear, Safety Equipment) — suggests workplace safety/PPE needs
-  - **ProtoSpace**: Invoice 274595 received (accounting notification)
-  - **USPS/Spindrift/UPS**: Multiple logistics notifications
+**Recurring & Escalating Themes:**
 
-**External Organizations:**
-- **Accordion Partners LLC**: Amit Sinha, Nicholas Rodgers, Nicholas Grande — controller handoff and Phase II engagement now active dialogue; Lynn responding same-day to Sinha's IMPORTANT email
-- **Krateo Sky**: Formalized weekly integration review meetings; contact@krateosky.com distribution; new meeting recording workflow (Fireflies.ai)
-- **Fireflies.ai**: Meeting recording service — suggests formal documentation of strategic partnership discussions
-- **Vendors**: DigiKey, Grainger, Spindrift Market, Amazon, ProtoSpace (consistent with earlier batch)
+**Finance & Vendor Management:**
+- **Ramp platform onboarding (NEW - HIGH PRIORITY)**: 3 emails on 13 Nov from Dani Scheck
+  - 12:39 CST: Dani IMPORTANT email to Lynn "Re: Ramp // Black Swift Technologies Next Steps"
+  - Lynn responds same-day 10:17 CST (timestamp anomaly suggests earlier reply or timezone lag)
+  - 12:10 CST: Dani escalates to Lynn AND Meredith Needham (multi-stakeholder), suggesting account setup/implementation phase
+  - Subject line: "Next Steps" — indicates active vendor implementation, likely expense management/approval workflow setup
+- **Missing Receipts reconciliation (COMPLETION SIGNAL)**: Meredith Needham's Google Sheets comment "I took care of this in QB. It was lin..." on 13 Nov 09:17 CST — suggests completion of receipt reconciliation task; QB = QuickBooks (accounting system)
+- **Accordion Partners controller handoff (CONTINUED)**: Amit Sinha "BST // Accordion" email on 13 Nov 16:25 UTC (10:25 CST) — ongoing direct correspondence; now abbreviated subject line suggests routine operational updates
+
+**Procurement & Manufacturing:**
+- **DigiKey (SUSTAINED HIGH VELOCITY)**: 4 emails on 13 Nov alone
+  - PO Acknowledgements: Salesorder #102912777, #102911985
+  - Order confirmations + shipment notifications (invoices 136372264, 136373912)
+  - Multiple same-day transactions indicate active component sourcing ramp-up
+- **Protolabs (NEW - QUOTE/ORDER CYCLE)**: 4 emails on 13 Nov
+  - Brett Paro: Quote 1858-331 ready to review (sent 16:33 UTC and 18:05 UTC — duplicate notifications suggest system issue or retry)
+  - Quote shared notifications (18:17, 18:19 UTC — duplicate)
+  - Order confirmation: "We've received order 1858-331, thanks!" (18:54 UTC) — quote converted to order same day
+  - Suggests rapid prototyping/manufacturing cycle; Protolabs = on-demand manufacturing (3D printing, CNC, injection molding)
+- **SensorPros (NEW)**: Order #3412 confirmed on 13 Nov 17:51 UTC
+- **ACP Composites (NEW)**: Order 7509 received on 13 Nov 17:29 UTC — composite materials supplier (aircraft/drone-relevant)
+- **Aeronet (NEW)**: Invoice 823121 via Elisa Vazquez on 14 Nov 00:21 UTC — routed to Meredith Needham; Aeronet = aerospace parts/services supplier
+- **Dronetag (NEW)**: Promotional email "Your drone gear is waiting. Free shipping today." on 14 Nov 03:02 UTC — suggests drone-related procurement interest
+- **ProtoSpace (continued)**: Holiday campaign email on 13 Nov 19:51 UTC
+
+**Krateo Sky Strategic Integration (ELEVATED ACTIVITY):**
+- **Brian Grubel (Krateo Sky) — NEW ARTIFACT DELIVERY**: Two high-priority emails on 13 Nov
+  - 14:49 UTC: Direct to Lynn — "Initial BST PM Artifacts" (Project Management artifacts — likely project charter, schedules, governance docs)
+  - 15:49 UTC: Reply email to thread with Jack Elston and Maciej Stachura discussing PM artifacts — indicates internal BST handoff/review of Krateo artifacts
+- **Internal BST PM Artifact Review**: Email thread 13 Nov (07:57 CST Jack Elston → Krateo, 08:46 CST Maciej responds to Jack, 15:49 UTC Brian Grubel replies) — suggests formalized PM governance structure setup with Krateo Sky; artifacts being reviewed by executive team (Jack Elston, Maciej Stachura)
+- **All 4 Krateo emails marked IMPORTANT** — consistent with earlier pattern; escalating from weekly reviews to artifact delivery/governance setup
+
+**External Engagement (NEW):**
+- **Spencer Hoehl**: Forwarding "Unmanned Aircraft General - Small (UAG) Payment Receipt" — suggests drone/small UAS regulatory compliance activity (UAG = FAA regulatory category for small unmanned aircraft general)
+
+**External Organizations (Updated):**
+- **Ramp (Dani Scheck)**: Now active vendor engagement phase (implementation/onboarding)
+- **Accordion Partners (Amit Sinha)**: Continuing; routine operational updates now
+- **Krateo Sky (Brian Grubel)**: Escalating from weekly reviews to formal PM artifact delivery and internal governance setup
+- **Protolabs**: New active supplier (quote-to-order same day 13 Nov)
+- **Aeronet**: New aerospace supplier invoice workflow
+- **ACP Composites, SensorPros**: New suppliers added to procurement network
+- **Dronetag**: Marketing contact; possible procurement interest in drone equipment
 
 ## Communication Patterns
 
-- **Time pattern**: Transactional emails distributed across 24-hour window; strategic emails (Accordion Partners, Krateo Sky) clustered mid-day UTC/morning-afternoon CST; Krateo Sky meeting summary sent 12 Nov 16:48 UTC (10:48 CST); Lynn's Accordion Partners reply sent 12 Nov 11:06 CST
-- **Mailing lists/group emails**: Krateo Sky meeting summary distributed to 5 BST recipients (Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham, Lynn) — suggests Lynn is in executive/operational decision-making tier
-- **Meeting recording infrastructure**: Fireflies.ai recording notification for "Black Swift Weekly Integration Review" — indicates formal meeting documentation/compliance workflow for strategic discussions
-- **Automated vs human**: ~95% automated/transactional in new batch; ~5% direct human correspondence (but high strategic value)
-- **Email importance flags**: Accordion Partners marked IMPORTANT; Krateo Sky meeting summary marked IMPORTANT
-- **Google Sheets collaboration**: Meredith Needham sharing "Missing Receipts" tracking sheet directly with Lynn — active reconciliation/audit support work
+- **Time concentration**: Strategic emails clustered 07:57 CST – 16:25 UTC (morning/mid-day):
+  - Jack Elston 07:57 CST → Krateo
+  - Maciej Stachura 08:46 CST
+  - Meredith Needham Google Sheets 09:17 CST
+  - Lynn replies to Ramp 10:17 CST
+  - Dani Scheck Ramp escalation 12:39 CST (IMPORTANT)
+  - Dani Scheck multi-stakeholder escalation 12:10 CST
+  - Amit Sinha Accordion 16:25 UTC
+  - Brian Grubel Krateo 14:49 UTC → 15:49 UTC reply thread
+- **High-velocity vendor day**: 13 Nov shows 19 vendor/transactional emails (DigiKey ×4, Protolabs ×4, ProtoSpace, ACP Composites, SensorPros, USPS, Driftaway, Grainger via Protolabs) — suggests major procurement day or weekly ordering cycle
+- **Transactional email automation**: Purchasing department forwarding setup captures vendor emails across 6+ suppliers; USPS Informed Delivery active
+- **Direct human correspondence**: 6 emails across 2 days (13-14 Nov); all marked IMPORTANT or replied to urgently; ratio ~1 human : 20 automated
+- **Internal thread visibility**: Lynn included on/receiving copies of Jack Elston ↔ Maciej Stachura ↔ Brian Grubel PM artifact thread (indirect participant in executive-level Krateo Sky discussions)
+- **Vendor multi-threading**: Dani Scheck now cc'ing Meredith Needham on Ramp communications — indicates vendor engagement is multi-stakeholder implementation vs. single POC
+- **Gmail/external account activity**: Lynn sending email to personal Gmail (lynnregnier@gmail.com) on 13 Nov 12:30 CST ("ggg" subject — personal/test email); receiving email from personal account (marked IMPORTANT, 12:19 CST) with subject "Letter" — suggests potential personal correspondence or external account usage during work day
 
 ## Key Relationships
 
-**Internal Collaborators:**
-- **Meredith Needham**: Primary finance/operations partner; now actively collaborating on "Missing Receipts" reconciliation; appears in Krateo Sky weekly integration review distribution
-- **Joshua Fromm**: Listed on Krateo Sky weekly integration review — procurement/operations coordination continues
-- **Jack Elston**: New/elevated visibility — listed on Krateo Sky weekly integration review distribution (likely executive/technical leadership)
-- **Maciej Stachura**: New/elevated visibility — listed on Krateo Sky weekly integration review distribution (likely executive/technical leadership)
+**Internal Collaborators (Elevated Activity):**
+- **Meredith Needham**: 
+  - Now escalated to joint vendor contact (Dani Scheck cc'ing her on Ramp emails 13 Nov 12:10 CST)
+  - Completed missing receipts QB reconciliation (comment 09:17 CST) — actively managing accounting reconciliation alongside Lynn
+  - Receiving OEMCameras.com order notification (09:54 CST) from Gianna Salsbury — indicating Meredith is managing camera/optical equipment orders for Josh Fromm
+- **Jack Elston**: 
+  - Receiving and replying on Krateo Sky PM artifacts discussion (07:57 CST) — executive-level involvement in project governance setup
+  - In recipient chain for Krateo weekly integration reviews (from earlier batch)
+- **Maciej Stachura**: 
+  - Replying to Jack Elston on PM artifacts thread (08:46 CST) — parallel executive engagement on Krateo Sky governance
+  - In recipient chain for Krateo weekly integration reviews
 
-**External Strategic:**
-- **Amit Sinha (Accordion Partners)**: Escalating engagement — Lynn responding directly on 12 Nov 11:06 CST to IMPORTANT email on controller handoff; now active back-and-forth dialogue on operational transition and advisory phases
-- **Krateo Sky (Contact)**: Formalized weekly integration review meetings with documented meeting recording workflow; expanding from ad-hoc strategic discussions to structured weekly cadence
-  - **Jack Elston, Maciej Stachura, Joshua Fromm, Meredith Needham**: All five internal recipients suggest this is strategic operational/technical integration work
-- **Nicholas Rodgers, Nicholas Grande (Accordion Partners)**: Additional leadership at Accordion Partners engaged in controller handoff discussion
+**External Strategic Relationships (Escalating):**
 
-**Vendor/Supplier:**
-- **DigiKey**: High-frequency orders; multiple transactions on 12 Nov alone (PO #102888302, invoice #136306712)
-- **Grainger**: Account verification codes + marketing engagement; verification suggests new account setup or access issues
-- **Spindrift Market**: Same-day order tracking (in-transit + delivered); suggests time-sensitive delivery requirements
-- **Amazon**: Safety equipment supplier (new category vs. previous batches)
-- **ProtoSpace**: Continued invoicing (ongoing manufacturing/prototyping partnership)
+- **Dani Scheck (Ramp, dani.scheck@ramp.com)**:
+  - Now highest-frequency external correspondent (3 emails in 24 hours on 13 Nov)
+  - Escalating from single-point contact (Lynn) to multi-stakeholder (Lynn + Meredith Needham)
+  - Subject progression: "Next Steps" (12:39, 12:10) — active implementation/negotiation phase
+  - Lynn responding same-day — high priority vendor engagement
+  
+- **Amit Sinha (Accordion Partners, asinha@accordion.com)**:
+  - Continuing active but routine (abbreviated subject "BST // Accordion" 13 Nov 16:25 UTC)
+  - Nicholas Rodgers and Nicholas Grande in cc — three-person Accordion team engaged with Lynn
+  - Pattern suggests operational update cadence (moving from escalation phase into steady-state engagement)
+  
+- **Brian Grubel (Krateo Sky, Brian@krateosky.com)**:
+  - NEW artifact delivery phase (13 Nov 14:49 UTC) — "Initial BST PM Artifacts"
+  - Escalating from weekly integration review recaps to formal governance artifact handoff
+  - Engaging directly with Jack Elston and Maciej Stachura (15:49 UTC) — indicating multi-level integration
+  - Both artifacts emails marked IMPORTANT
+  
+- **Spencer Hoehl (spence.hoehl@gmail.com)**:
+  - Forwarding "Unmanned Aircraft General - Small (UAG) Payment Receipt" to Lynn 13 Nov 11:59 CST
+  - New external contact; relationship context unclear (personal contact? advisor? regulator?) — related to UAG/small UAS compliance
+
+**Vendor Relationships (Supply Chain Expansion):**
+- **Ramp**: Vendor implementation partner (expense/approval workflow)
+- **Protolabs**: On-demand manufacturing (rapid quote-to-order cycle observed 13 Nov)
+- **Aeronet**: Aerospace parts/services supplier (new invoicing relationship)
+- **ACP Composites**: Composite materials supplier (aerospace-relevant)
+- **SensorPros**: Sensor component supplier (new)
+- **Dronetag**: Drone equipment promotional contact (possible future supplier)
+- **DigiKey**: Sustained high-velocity component supplier (4 orders on single day 13 Nov)
 
 ## Notable Observations
 
-- **Accordion Partners engagement escalating**: Lynn responding same-day (11:06 CST) to Amit Sinha's IMPORTANT email on 12 Nov 17:39 UTC (12 Nov 12:39 CST) — indicates urgent or high-priority controller transition phase; suggests BST may be transitioning financial operations or management structure
-- **Krateo Sky formalizing into weekly cadence**: "Black Swift Weekly Integration Review" meeting now recorded via Fireflies.ai — integration work moving from strategic discussions to formal operational meetings; presence of Jack Elston and Maciej Stachura (likely executive level) indicates this is high-priority operational/technical integration
-- **Fireflies.ai meeting recording adoption**: New workflow for documenting Krateo Sky meetings — suggests focus on compliance, audit trail, or knowledge management for strategic partnership
-- **Safety equipment orders (Amazon)**: New procurement category ("Safety Eyewear, Safety Equipment") — may indicate workplace expansion, new manufacturing facility, or compliance requirement
-- **Grainger account verification**: Verification code email suggests new account access or account reset — possible ERP/procurement system integration or new user onboarding
-- **DigiKey order velocity unchanged**: Multiple transactions same day on 12 Nov — sustained component procurement supporting manufacturing/development ramp-up
-- **Missing Receipts reconciliation active**: Meredith Needham directly sharing tracking sheet with Lynn — suggests ongoing audit remediation or year-end financial close preparation ahead of KPMG work
-- **No York Space Systems follow-up in new batch** — Colin Keenan's conference invitation (from earlier batch) may be awaiting response or follow-up
-- **Promotional noise continues**: Grainger marketing, Ramp Team promotion, Driftaway Coffee rewards emails — purchasing forwarding setup captures non-transactional noise; SAP Business Network invitation suggests ERP/procurement platform expansion underway
-- **Timeline convergence**: Accordion Partners controller handoff phase + KPMG audit coordination + Krateo Sky weekly integration reviews all active simultaneously suggests BST undergoing significant operational/financial restructuring in Nov 2026
+- **Ramp platform onboarding is NOW ACTIVE**: Three emails on 13 Nov with IMPORTANT flag and same-day responses from Lynn indicate urgent vendor implementation. Escalation to Meredith Needham suggests finance system integration (likely tying to Missing Receipts reconciliation completion). Ramp replaces or supplements manual expense tracking — significant operational change.
+
+- **Krateo Sky transitioning from strategic review to formal governance**: PM artifacts delivery (14:49 UTC) + internal executive review thread (Jack Elston, Maciej Stachura) + artifacts marked IMPORTANT suggest formalized project management office (PMO) or integration governance structure. This is operational escalation beyond weekly status meetings.
+
+- **Procurement diversification and velocity increase**: New suppliers added (Protolabs, Aeronet, SensorPros, ACP Composites, Dronetag interest) while maintaining DigiKey volume. Quote-to-order same-day on Protolabs (13 Nov) suggests manufacturing/production timeline acceleration. ACP Composites + Dronetag interest indicates drone/aircraft platform work (composite airframes + drone-specific hardware).
+
+- **UAG (Unmanned Aircraft General) compliance activity**: Spencer Hoehl forwarding "UAG Payment Receipt" (11:59 CST 13 Nov) — suggests BST may be pursuing FAA Part 107 or small UAS operator certification, or dealing with regulatory compliance for drone/small aircraft programs. Context unclear but new regulatory/compliance dimension.
+
+- **Missing Receipts reconciliation COMPLETED**: Meredith's Google Sheets comment "I took care of this in QB" (09:17 CST 13 Nov) signals resolution of audit remediation task. This was ongoing concurrent with Accordion Partners controller handoff; completion timing suggests KPMG audit prep on track.
+
+- **Accordion Partners phase now operationalized**: Amit Sinha's subject line shift from "Controller Handoff and Phase II Engagement" (earlier batch) to "BST // Accordion" (13 Nov) suggests transition from negotiation/planning to operational cadence. Continuing three-person engagement (Amit, Nicholas Rodgers, Nicholas Grande) indicates ongoing advisory relationship, not one-time engagement.
+
+- **Multi-stakeholder vendor management emerging**: Dani Scheck cc'ing Meredith Needham on Ramp communications (12:10 CST) suggests shared responsibility model. Earlier pattern: Lynn sole point of contact. New pattern: finance/operations co-ownership of vendor relationships. Aligns with Meredith's escalating visibility across Krateo Sky, Ramp, and internal finance projects.
+
+- **Personal email account activity during work**: Lynn sending to lynnregnier@gmail.com (12:30 CST) and receiving IMPORTANT email from that account (12:19 CST subject: "Letter") — possible personal/confidential matter, or external communication channel. Unusual pattern but isolated incident.
+
+- **PM artifact governance structure formation**: Jack Elston's morning email to Brian Grubel (07:57 CST), Maciej's response (08:46 CST), followed by Brian's multi-party reply (15:49 UTC) suggests formal PM governance handoff ceremony or kickoff. Artifacts likely include: project charter, resource plan, schedule, risk register, integration points.
+
+- **No new Krateo Sky weekly integration review email in this batch** — previous batch showed 12 Nov 16:48 UTC integration review summary. This may indicate weekly cadence shifted or email not captured in metadata. Artifact delivery (14:49 UTC 13 Nov) may supersede or precede next weekly review.
+
+- **Driftaway Coffee, Grainger promotional noise continues** — low-signal spam captured in purchasing forwarding setup; not actionable but consistent pattern.
+
+- **Protolabs order rapid cycle suggests design/iteration phase**: Quote 1858-331 received 18:05 UTC, shared 18:17/18:19 UTC, ordered 18:54 UTC, confirmation received 18:54 UTC same day (18-hour cycle from quote to order) — indicates fast-turnaround prototyping or manufacturing support. Likely PCB, brackets, enclosures, or other on-demand parts for hardware development.
+
+---
+
+**Summary**: Lynn is now coordinating multiple simultaneous operational transformations: Ramp expense platform onboarding (vendor implementation), Krateo Sky integration governance formalization (PM artifacts handoff), Accordion Partners advisory phase operationalization, and significant procurement network expansion (composite, sensor, aerospace suppliers) supporting apparent drone/small aircraft platform development. Meredith Needham is being elevated as co-owner of finance/vendor relationships. All indicators suggest BST is in active production/scaling phase (Nov 2026).

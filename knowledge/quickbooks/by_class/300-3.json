@@ -5,19 +5,18 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 1067375.0,
-    "expenses": 473763.47,
+    "expenses": 477326.11,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 308748.43,
+      "DIRECT COSTS:DC-Direct Material Purchases": 312293.09,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
-      "DIRECT COSTS:DC-Direct Travel": 33191.86,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 7800.15,
+      "DIRECT COSTS:DC-Direct Travel": 33209.84,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 13012.28,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
-      "Tariffs": 5212.13,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.7,
       "SALES & MARKETING:SM-Shipping": 204.16,
       "Inventory Asset": 130.0,
@@ -29,7 +28,7 @@
   "invoices": [
     {
       "type": "Invoice",
-      "date": "2026-10-07",
+      "date": "2026-12-01",
       "doc_number": "1776",
       "total": 117000.0,
       "attributed": 117000.0,
@@ -52,7 +51,7 @@
     },
     {
       "type": "Invoice",
-      "date": "2026-09-28",
+      "date": "2026-11-30",
       "doc_number": "1741",
       "total": 72000.0,
       "attributed": 72000.0,
@@ -922,8 +921,8 @@
       "lines": [
         {
           "amount": 5212.13,
-          "account": "Tariffs",
-          "description": "Microhard shipment tariff"
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Microhard shipment tariff - import tariff"
         },
         {
           "amount": 169.53,
@@ -1258,6 +1257,42 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-20",
+      "doc_number": "",
+      "total": 1688.66,
+      "attributed": 1688.66,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MINI CIRCUITS MO - 4617 Jack Elston placed order directly, no approval needed. For NOAA Hurricane IDIQ",
+      "lines": [
+        {
+          "amount": 1688.66,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "MINI CIRCUITS MO - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-19",
+      "doc_number": "",
+      "total": 17.98,
+      "attributed": 17.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LYFT *RIDE SUN 1AM - 4617",
+      "lines": [
+        {
+          "amount": 17.98,
+          "account": "DIRECT COSTS:DC-Direct Travel",
+          "description": "LYFT *RIDE SUN 1AM - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-17",
       "doc_number": "",
       "total": 84.87,
@@ -1271,6 +1306,24 @@
           "amount": 84.87,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "SIRS4401DP-T1-GE3 - Vishay Siliconix x10\nSMBJ5364B-TP - MCC (Micro Commercial Components) x5\nCUHZ6V2,H3F - Toshiba Semiconductor and Storage x5\nC2012X5R1V685M125AC - TDK x20\nCRCW04024M99FKEDC - Vishay Dale x25\nRMCF0402FT2M00 - Stackpole Electronics Inc x25"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 1856.0,
+      "attributed": 1856.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "WWW.MICROHARDCORP.COM - 4617 supplies for NOAA Hurricane IDIQ 2026 confirmed with Jack Elston ordered directly by Jack Elston.",
+      "lines": [
+        {
+          "amount": 1856.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "WWW.MICROHARDCORP.COM - 4617"
         }
       ]
     },

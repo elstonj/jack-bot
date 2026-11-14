@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-3) IRAD S0"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 2271.01,
+    "expenses": 2906.96,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1076.64,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 1712.59,
       "Indirect Cost:Internal Research and DevelopmentX": 719.37,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 475.0
     }
@@ -181,6 +181,29 @@
           "amount": 4.12,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Estimated Sales Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-23",
+      "doc_number": "",
+      "total": 1271.89,
+      "attributed": 635.95,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTOSPACE MFG USA INC - 7333",
+      "lines": [
+        {
+          "amount": 635.95,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PROTOSPACE MFG USA INC - 7333 quantity 1"
+        },
+        {
+          "amount": 635.94,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "PROTOSPACE MFG USA INC - 7333 quantity 1"
         }
       ]
     },

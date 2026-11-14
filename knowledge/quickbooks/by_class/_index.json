@@ -1,14 +1,14 @@
 {
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
-  "scanned_at": "2026-11-12",
+  "scanned_at": "2026-11-14",
   "projects": [
     {
       "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 11304.66,
+      "expenses": 11641.39,
       "invoice_count": 0,
       "bill_count": 2,
       "purchase_count": 87,
@@ -74,10 +74,10 @@
     {
       "project_code": "001-3",
       "revenue": 0.0,
-      "expenses": 2271.01,
+      "expenses": 2906.96,
       "invoice_count": 0,
       "bill_count": 1,
-      "purchase_count": 10,
+      "purchase_count": 11,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 45249.75,
+      "expenses": 46525.47,
       "invoice_count": 0,
       "bill_count": 9,
-      "purchase_count": 112,
+      "purchase_count": 113,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -115,10 +115,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 207491.0,
+      "expenses": 210057.56,
       "invoice_count": 0,
       "bill_count": 31,
-      "purchase_count": 264,
+      "purchase_count": 268,
       "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1067375.0,
-      "expenses": 473763.47,
+      "expenses": 477326.11,
       "invoice_count": 12,
       "bill_count": 22,
-      "purchase_count": 330,
+      "purchase_count": 333,
       "po_count": 0,
       "payment_count": 9,
       "qbo_class_names": [
@@ -333,11 +333,11 @@
     },
     {
       "project_code": "_unclassified",
-      "revenue": 3797232.11,
-      "expenses": 4902063.53,
-      "invoice_count": 58,
-      "bill_count": 139,
-      "purchase_count": 2697,
+      "revenue": 3707388.11,
+      "expenses": 4897466.82,
+      "invoice_count": 57,
+      "bill_count": 138,
+      "purchase_count": 2693,
       "po_count": 3,
       "payment_count": 57,
       "qbo_class_names": [
@@ -348,6 +348,7 @@
         "(200-10) AREN 2024",
         "(301-2) 2020 WPO Hurricane Phase II",
         "(400-5) SMM Phase II 22.4D",
+        "(900) Krateo Sky- Industrial Plan:[922-02] Test and Production Equipment",
         "(900) Krateo Sky- Industrial Plan:[923-04] Sales Team Setup",
         "(900) Krateo Sky- Industrial Plan:[925-01] Insurance",
         "(900) Krateo Sky- Industrial Plan:[925-02] Legal and Consulting",
@@ -406,10 +407,13 @@
         "[452-1] Hesselius E2",
         "[452-2] S2 Simulator & Used E2 Battery",
         "[600-01] SOCOM Pope ii",
+        "[922-02] Test and Production Equipment",
         "[923-03] Distribution partnerships",
+        "[923-04] Sales Team Setup",
         "[924-02] Events and Exhibitions",
         "[925-02] Legal and Consulting",
-        "[925-03] New Office Space Leasing"
+        "[925-03] New Office Space Leasing",
+        "[925-05] Indirect Production and Supply Chain Labor"
       ]
     }
   ]

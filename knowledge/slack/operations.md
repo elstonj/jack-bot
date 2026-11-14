@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops/project management), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), Lynn Regnier (finance administration), Ali Sulehria (finance/Deel administration), Robert Edson (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 12, 2026) reflects ongoing facility management, project task coordination, and operational support.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 13, 2026) reflects ongoing facility management, project task coordination, operational support, and procurement system coordination.
 
 ---
 
@@ -59,6 +59,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
   2. Purchase request forms still required in Asana for tracking and documentation purposes
   3. Meredith will no longer need to track down purchase justifications post-hoc
 - **October 23, 2026:** High-volume purchasing activity underway. Joshua Fromm acknowledged Beck Cotter managing "a zillion orders" during the week, indicating increased procurement demand and successful delegation of purchasing responsibilities working as intended.
+- **November 13, 2026:** Joshua Fromm discovered he may have been removed from purchasing email forwarding list and is not receiving procurement coordination emails. Issue identified when he inquired about missing email notifications. Email subscription status needs verification and restoration if needed.
 
 ### Finance Responsibility Assignments
 - **November 3, 2026:** Lynn Regnier distributed comprehensive finance responsibilities spreadsheet listing all finance-related tasks and assigned owners. Formal documentation of delegated financial duties across finance team. Reflects organizational scaling and need for clear responsibility assignment as company grows.
@@ -119,7 +120,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Jack Elston:** Create production operations channel for BST once team identifies existing channel to delete per governance policy for managing Slack workspace growth.
 
 ### Infrastructure & Systems
-- ~~**Jack Elston (Google Drive storage):** Fixed Google Drive storage capacity issue by November 6, 2026 at 14:30. Additional odd behavior in Google Drive still under investigation. Fix requires propagation time through workspace setup (potentially several minutes as of 14:42 status).~~ [COMPLETED November 6]
+- **Joshua Fromm (Email subscription issue):** Joshua Fromm discovered (November 13, 2026) he may have been removed from purchasing email forwarding list and is not receiving procurement notifications. Email subscription list needs verification and restoration if needed to ensure he remains informed of purchasing activities.
 
 ### Facility Maintenance (current/pending)
 - **Window cleaning service (November 9, 2026 scheduled):** Exterior windows to be professionally cleaned on November 10, 2026. Dan Prendergast has requested that interior of "slimed window" by Joshua Fromm's desk also be cleaned during service visit (status of this add-on request not yet confirmed as of November 9).
@@ -183,7 +184,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Project completion & closeout procedures** - Regular coordination on verifying project completion, invoice status, and proper archival
 - **Financial tracking & invoice management** - Ongoing emphasis on documenting invoice status before project closure; formalized delegation and responsibility assignment (as of November 3, 2026)
 - **Facility maintenance & infrastructure** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management, equipment replacement, window cleaning); proactive maintenance scheduling and follow-up coordination
-- **Procurement & purchasing delegation** - Established process with Beck Cotter as central purchasing coordinator; streamlined approval processes; tracking damaged goods and initiating replacements
+- **Procurement & purchasing delegation** - Established process with Beck Cotter as central purchasing coordinator; streamlined approval processes; tracking damaged goods and initiating replacements; emphasis on keeping all relevant team members informed via email forwarding lists
 - **Compliance documentation** - Emphasis on qualifications, FAA requirements, hazmat disposal, and proper documentation practices
 - **Hiring & organizational scaling** - Significant expansion of team through Q4 2026; focus on filling skilled positions and onboarding new personnel
 - **Export control & regulatory compliance** - Critical focus on ECCN classifications, export licensing, and government program coordination
@@ -195,6 +196,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Google Drive and organizational infrastructure management** - Storage capacity monitoring and allocation; system-level issue resolution under Jack Elston's oversight
 - **Facility coordination & comfort** - Responsive attention to facility improvements (window cleaning, cleanliness, workspace comfort for team members); equipment inventory management
 - **Slack workspace governance** - Managing channel proliferation through deletion/consolidation policies as organization scales (as of November 11, 2026)
+- **Team recognition and appreciation** - Joshua Fromm publicly acknowledging Beck Cotter's high-volume purchasing coordination efforts (November 13, 2026); recognition of team effort and contributions
 
 ---
 
@@ -210,12 +212,17 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Facility access:** Front entrance combo: `2372`, inner door combo: `2011` (adjacent bakery space)
 - **Google Drive workspace** - Organizational storage system managed by Jack Elston; subject to capacity constraints and system integration issues (e.g., with Rippling). Storage capacity issue resolved November 6, 2026; additional infrastructure oddities identified for ongoing investigation.
 - **Slack workspace** - Communication and collaboration platform; governed by channel creation/deletion policies to manage channel proliferation (Jack Elston has administrator permissions as of November 11, 2026)
+- **Email forwarding lists** - Used to notify team members of procurement activities and purchasing coordination; should include Joshua Fromm (may need subscription restoration as of November 13, 2026)
 
 ---
 
 ## Recent Activity
 
-**November 12, 2026:**
+**November 13, 2026:**
+- **Joshua Fromm** (11:22) discovered he may have been removed from the purchasing email forwarding list and is not receiving procurement coordination emails. Reported uncertainty about subscription status, indicating possible accidental removal or list management issue. Email forwarding list subscription status requires verification and restoration if needed.
+- **Joshua Fromm** (16:20) publicly acknowledged and thanked Beck Cotter (username mentioning @U06KRHPQSRH appears to reference Beck Cotter based on context) for managing high volume of orders throughout the week. Message includes taco emoji reaction and appreciation for purchasing coordination efforts. Reflects team recognition of Beck Cotter's significant procurement work and positive team culture.
+
+**November 12, 2026 (prior update):**
 - **Joshua Fromm** (09:24) inquired whether someone had posted information about pallet pickup availability. Suggested that an individual who came to facility may have had wrong address, indicating pallet recovery/disposal initiative may be underway. Unclear if this was formal company posting or informal arrangement. Status of pallet disposition not documented.
 - **Maciej Suwinski** (11:27) issued weekly task update reminder to entire channel: "make sure to update your board tasks!" This reflects continuation of standard weekly planning cycle to prepare for upcoming work week and maintain current Kanban board status.
 - **Robert Edson** (11:34) notified team he must run to RMMA hanger to retrieve tools and expects to return by approximately 12:30. Indicates equipment storage/maintenance coordination and potential equipment procurement/maintenance activity.

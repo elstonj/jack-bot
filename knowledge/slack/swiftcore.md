@@ -4,9 +4,9 @@
 This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 28+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, and Ali Sulehria.
 
 **Key Participants:** 
-- Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management)
-- Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins)
-- Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist, GPS-out hover fix specialist)
+- Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management, code review)
+- Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins, submodule management)
+- Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist, GPS-out hover fix specialist, flight testing)
 - Spencer Hoehl (simulator testing lead, QC flight procedures, flight test validation)
 - Ali Sulehria (software and use case testing)
 - Dan Prendergast (infrastructure/GitLab access)
@@ -147,11 +147,36 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Completely reworked VTOL transitions in both directions with controlled deceleration and pivot maneuvers
 - **Announcement By:** Jack Elston (November 10, 2026, 12:18 UTC)
 
-**Post-Release Hotfix to Master (November 12, 2026):**
-- Maciej pushed small hotfix to Master for lost GPS hover improvement following the 3.3.0 release
-- Not considered required for release (per Maciej) but included in Master branch
-- Optional enhancement for improved GPS-loss hover handling
-- Status: Available in Master for Jack Elston review and optional integration
+**Lost GPS Landing Timer Fix (November 13, 2026 - APPROVED & REFINED):**
+- **Issue Identified:** Code change to lost-GPS hover fix inadvertently removed the landing time gate (`landing_time == -FLT_MAX || (landing_time-now) > 5.0`), creating a separate issue
+- **Problem:** Removing this gate affected landing behavior during lost-GPS TERMINATE conditions
+- **Root Cause Analysis by Maciej (November 13, 16:41):** Removal of `vz < cutoff_velocity` gate during lost_gps prevented proper landing detection
+  - Vertical velocity estimate remains accurate with pressure-only sensors (S10022 flight testing showed <5% error vs. laser-based measurements)
+  - Without vz cutoff check, aircraft couldn't properly trigger landing in TERMINATE mode during GPS loss
+- **Solution Decision (Jack Elston, November 13, 05:54):**
+  - Keep the landing time gate `(landing_time == -FLT_MAX || (landing_time-now) > 5.0)` to maintain landing time protections
+  - Add additional check of `lost_gps` flag to prevent landing-time issues during GPS-out scenarios
+  - This is a more conservative, lower-risk approach than removing the gate entirely
+- **Additional Pre-Existing Bug Identified (Jack Elston, November 13, 05:56):**
+  - isLanded() returns true 8 seconds after isTryingToLand() goes true regardless of altitude
+  - Landing countdown timer never resets during lost_gps conditions
+  - isNearTheGround() returns true after just 1 second
+  - In lost-GPS TERMINATE scenario: aircraft transitions to LANDED state ~9 seconds in, reverting to not-flying branch even if airborne
+  - Assessment: Edge case but potentially dangerous
+  - Status: Deferred for future fix; noted as existing in MR and TS vehicles too
+- **Validation & Testing (Maciej, November 13, 16:41):**
+  - Updated hotfix pushed with both lost_gps gate and vz cutoff check restoration
+  - Simulated both failure scenario and recovery scenario successfully
+  - Spencer Hoehl previously tested regular landing with this code and confirmed it works correctly
+  - No failures in re-testing after fixes applied
+  - Approach confirmed as safest conservative path forward
+- **Scope Applicability:** Sign change requirement and landing timer improvements also need to be applied to multi-rotor and tailsitter aircraft
+
+**Jenkins Tablet Build Configuration (November 13, 2026 - FIXED):**
+- **Issue:** Jenkins tablet build was failing due to outdated libcanard fork repository URL
+- **Resolution by Ben Busby (November 13, 19:36):** Updated Jenkins build configuration with new libcanard fork URL
+- **Prerequisite for Future Maintenance:** bstjenkins user must be added to all required submodules to prevent authentication errors during cloning
+- **Status:** Tablet build now operational in Jenkins pipeline
 
 ## Projects & Initiatives
 
@@ -159,16 +184,21 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Master branch release officially announced
 - Flight testing completed with multiple failure scenario validation
 - Autopilot 3.3 release candidate firmware successfully validated
-- GPS-out VTOL hover fix validated and merged (November 2, 2026)
-- Post-release hotfix for lost GPS hover improvement pushed to Master (November 12, 2026)
+- GPS-out VTOL hover fix validated, merged, and post-release refined (November 2, 2026; updated November 13, 2026)
 - All critical features and bug fixes integrated
 - 4+ years of development work consolidated into single release
-- Status: RELEASED to master branch with post-release hotfix
+- **Post-Release Refinements (November 13, 2026):**
+  - Lost GPS landing timer issue identified and resolved with conservative gating approach
+  - Vertical velocity cutoff check restored to ensure proper landing detection during GPS-loss TERMINATE
+  - Sign changes pending application to multi-rotor and tailsitter aircraft
+  - Pre-existing isLanded() edge case documented for future fix (affects landing timer reset under GPS loss)
+- Status: RELEASED to master branch with critical post-release hotfix refinements
 
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
 - Issue identified: App crashes when loading saved aircraft params files onto aircraft running SwiftCore AP 3.3 RC firmware (reported October 23, 2026 by Spencer Hoehl)
 - Bug report functionality working, reports being received by Ben Busby
+- Jenkins build infrastructure updated for proper repository URL and submodule authentication (November 13, 2026)
 - Status: May transition to web controller primary UI (April 2026 decision) with legacy Android support
 
 **Failure Scenario Testing (October-November 2026 - COMPLETED for 3.3):**
@@ -177,7 +207,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Static sensor loss: Expected Level 2 failure behavior confirmed; no issues found
 - Mag failures: Showing normal/expected behavior
 - Waypoint skipping at higher altitudes: Reproduced by Ali Sulehria (has 20-minute screen recording for review)
-- **GPS-out in hover:** Validated with parameter changes and manual testing; fix merged into 3.3.0 (November 2, 2026); post-release enhancement pushed (November 12, 2026)
+- **GPS-out in hover:** Validated with parameter changes, refined with landing timer fixes (November 13, 2026), manual testing confirms proper behavior; fix merged into 3.3.0 with post-release refinements
 
 **S3 Model Aircraft Configuration:**
 - Default S3 XML files added by Maciej (October 23, 2026)
@@ -192,7 +222,9 @@ This channel serves as the primary technical communication hub for Black Swift T
 ## Action Items & Commitments
 
 **Pending Review/Action:**
-- **Jack Elston:** Review and optional integration of lost GPS hover hotfix pushed to Master by Maciej (November 12, 2026) - Not marked as critical but available for evaluation
+- **Jack Elston & Maciej:** Apply sign change from GPS-out hover fix to multi-rotor and tailsitter aircraft (identified November 13, 2026) - Pending implementation
+- **Jack Elston & Maciej:** Address pre-existing isLanded() timer reset bug affecting MR and TS vehicles during GPS loss (identified November 13, 2026) - Deferred for future release but documented as potentially dangerous
+- **Development Team:** Monitor and document any additional edge cases or behavioral issues with lost-GPS landing scenarios from field operations
 
 ## Client & External References
 - **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
@@ -212,7 +244,13 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Ongoing discussion of simulation discrepancies vs. actual aircraft behavior
 - Handset/USB joystick configuration issues affecting test repeatability
 - Firmware version consistency between simulator and test platforms
-- Simulator validation used before flight testing (GPS-out hover fix example)
+- Simulator validation used before flight testing (GPS-out hover fix example; landing timer verification November 13)
+- Flight test validation critical for landing behavior confirmation with pressure-only vertical velocity estimation
+
+**Vertical Velocity Estimation & Sensor Fusion:**
+- Critical for GPS-loss landing detection with pressure sensors alone
+- Flight testing has validated <5% error vs. laser-based measurements (S10022 aircraft)
+- Proper vz cutoff checks essential for reliable TERMINATE landing transitions
 
 **Clog Detection:**
 - Recurring issue with parameters based on incorrect propulsion model
@@ -223,14 +261,22 @@ This channel serves as the primary technical communication hub for Black Swift T
 **Infrastructure & Repository Management:**
 - Evolution of development infrastructure beyond GitLab
 - Local git server now supporting additional project repositories (Navy STTR)
+- Jenkins build maintenance and authentication configuration for submodules
 - Post-release hotfix procedures for Master branch
+- Ben Busby managing Jenkins infrastructure updates and submodule access controls
 
 **VTOL Platform Support:**
 - Expanding aircraft and hardware platform support (S0-S3 VTOL variants)
 - New autopilot hardware (STM32H7, HW 3000, HW 2050)
 - Drop launch and air-deployment capabilities
 - Transition control improvements
-- GPS-loss hover handling refinements
+- GPS-loss hover handling refinements with systematic testing across multi-rotor and tailsitter platforms
+
+**Post-Release Maintenance & Code Review:**
+- Jack Elston conducting detailed code review of hotfixes post-release
+- Identification of edge cases and pre-existing bugs through systematic review
+- Conservative decision-making approach for post-release changes (keeping protective gates rather than removing them)
+- Thorough testing methodology combining simulation and flight validation
 
 ## Important Resources
 
@@ -242,107 +288,66 @@ This channel serves as the primary technical communication hub for Black Swift T
 **Testing Artifacts:**
 - Screen recording of waypoint skipping scenario (20 minutes, held by Ali Sulehria)
 - SwiftTab-staging.apk crash reports and logs (collected by Ben Busby)
+- S10022 flight logs with lost-GPS scenarios (Maciej - laser altimeter reference data vs. pressure-based vz estimates)
 
 **Software Branches/Versions:**
-- **SwiftCore 3.3.0** (Master branch - RELEASED November 10, 2026; post-release hotfix added November 12, 2026)
+- **SwiftCore 3.3.0** (Master branch - RELEASED November 10, 2026; post-release hotfixes applied November 13, 2026 for landing timer fix)
 - SwiftTab-staging.apk (3.3 branch)
-- release/3.3.0 (merged GPS-out hover fix and all critical features)
-- hotfix/no_gps_vtol_hover_fix (Maciej's original fix, merged with Jack's refinements)
-- Lost GPS hover improvement hotfix (pushed to Master November 12, 2026)
+- release/3.3.0 (merged GPS-out hover fix with landing timer refinements)
+- hotfix/no_gps_vtol_hover_fix (Maciej's original fix, refined by Jack Elston November 2, further refined November 13)
+- Lost GPS hover improvement hotfix (pushed to Master November 12, further refined November 13, 2026)
 
 **Infrastructure:**
 - Local git server (established October 27, 2026)
 - Navy STTR project repository (hosted on local server, not GitLab)
+- Jenkins tablet build pipeline (updated November 13, 2026 for proper libcanard fork URL and submodule authentication)
 
 ## Recent Activity
 
-**November 12, 2026 - Post-Release Hotfix to Master:**
-- Maciej pushed small hotfix to Master branch for lost GPS hover improvement
-- Context: This enhancement follows the 3.3.0 release from November 10, 2026
-- Assessment by Maciej: "Not required for release IMO, but it's in there if you wanted to check and add"
-- Status: Available in Master for Jack Elston's review and optional integration
-- Indicates continued refinement of GPS-loss hover handling beyond initial 3.3.0 release
+**November 13, 2026 - Post-Release Code Review & Hotfix Refinement:**
 
-**November 10, 2026 - SwiftCore 3.3.0 OFFICIAL MASTER RELEASE (12:18 UTC):**
+**Code Review & Issue Identification (Jack Elston, 05:47-05:56 UTC):**
+- Jack Elston thoroughly reviewed Maciej's post-release hotfix code
+- **Critical Finding:** Removal of landing time gate `(landing_time == -FLT_MAX || (landing_time-now) > 5.0)` creates a problem for lost-GPS landing behavior
+- **Concern:** Gate removal impacts multiple failure scenarios; needs investigation before finalizing fix
+- **Secondary Finding:** Sign change from GPS-out fix requires application to multi-rotor and tailsitter aircraft (currently only in VTOL)
+- **Pre-existing Bug Discovered (concerning):** isLanded() state machine issue:
+  - Returns true 8 seconds after landing sequence begins, regardless of actual altitude
+  - Landing countdown timer never resets during lost_gps
+  - Combined with 1-second isNearTheGround() gate creates edge case where aircraft prematurely reports LANDED while still airborne
+  - Particularly dangerous in lost-GPS TERMINATE scenario where aircraft transitions to non-flying state at 9 seconds even if still flying
 
-**Milestone Achievement:**
-- SwiftCore 3.3.0 officially merged to master branch
-- Previous master release: 3.2.8 (January 2023) - nearly 4-year gap
-- Total development effort: 3,200+ commits, 4,000+ files touched
+**Root Cause Analysis & Solution (Maciej, 08:47 UTC):**
+- Confirms isLanded() bug exists in multi-rotor and tailsitter too; not critical since v_body usually zero in that condition
+- Agrees with Jack's conservative approach: keep landing time gate and add `lost_gps` condition check instead of removing gate
+- Rationale: Spencer Hoehl previously tested regular landing with this code and confirmed it works correctly; full gate removal is too risky
+- Defers pre-existing isLanded() bug for future fix; acknowledges it's potentially dangerous
 
-**Major Features in 3.3.0:**
+**Updated Hotfix & Validation (Maciej, 16:41 UTC - November 13):**
+- Pushes new hotfix iteration addressing landing timer issue
+- **Root Cause (confirmed through logs):** Removal of `vz < cutoff_velocity` gate during lost_gps prevented proper landing detection in TERMINATE mode
+- **Validation Data (from S10022 flights):** Pressure-based vertical velocity estimate highly accurate with <5% error vs. laser altimeter reference measurements
+- **Solution:** Restore vz cutoff check while keeping lost_gps gate active
+- **Testing Results:**
+  - Simulated both failure scenario and recovery successfully
+  - Reproduced original failures with old code
+  - Re-tested with updated code; no failures observed
+- **Conclusion:** Conservative approach with both gates (landing time + vz cutoff + lost_gps condition) is safest path forward
 
-*New Aircraft & Platforms:*
-- S3 tilt-rotor VTOL fully supported with:
-  - PSNS smart battery integration
-  - GNSS support
-  - Actuator and heated MHP boards
-- S0-VTOL, S1-VTOL, S2-VTOL variants supported
-- S0 air-deployed tube/drop launch system:
-  - Launch pin detection
-  - Automatic takeoff waypoint
-  - Engine enable capability in tube
-  - Aircraft power control from deployment tube
-- New autopilot hardware: STM32H7 (HW 3000), HW 2050 with USB bootloader
+**Jenkins Infrastructure Update (Ben Busby, 19:36 UTC - November 13):**
+- Fixed Jenkins tablet build pipeline that was failing due to stale libcanard fork URL
+- Updated repository reference to new fork version
+- **Important Note for Future Maintenance:** bstjenkins user must be explicitly added to all required submodules to prevent authentication errors during cloning
+- Tablet build now operational and deployable through Jenkins
 
-*Flight Control & Navigation:*
-- Completely reworked VTOL transitions in both directions
-- Controlled deceleration capabilities
-- Pivot maneuvers
+**Overall Context:**
+- Demonstrates rigorous post-release code review process catching edge cases not apparent in initial flight testing
+- Shows collaborative debugging approach with rapid iteration on fixes based on flight log analysis
+- Conservative decision-making prioritizes safety over aggressive optimization
+- Infrastructure and deployment pipeline kept current to support ongoing hotfix releases
 
-**Contributor Recognition:**
-- Jack Elston acknowledged all team members who designed, coded, flight-tested, QC'd and debugged their way to this release
+---
 
-**November 2, 2026 - GPS-Out VTOL Hover Fix Approval & Testing Plan:**
+# Summary of Updates
 
-**Code Changes Merged:**
-- Maciej's no-GPS hover fix merged into release/3.3.0 (hotfix/no_gps_vtol_hover_fix)
-- Jack Elston added two refinements on top of Maciej's work (commit 7e81ed129):
-  - cf_acc_gain 1/10 cut restricted to in-flight periods only (vehicle.isFlying() guard)
-    - Resolves issue where vertical-launch VTOL had 10x slower attitude convergence after power-on before first GPS fix
-    - Consolidated logic into existing conditional branch with lost-GPS vff reset
-  - Removed redundant `!hasTransitionedToForward()` term from lost-GPS vff reset
-    - No behavioral change (updateLatAngCtrl already excludes TRANSITION_TO_HOVER)
-    - Simplifies conditional logic
-
-**Compilation Status:**
-- VT/FW/MR SWIL builds compile successfully
-- No simulation testing performed yet (as of November 2)
-
-**Testing Requirements:**
-- Spencer Hoehl to run simulator tests on release/3.3.0 head:
-  - GPS dropout in hover test
-  - Jack Elston offered to push simulator update if Spencer prefers
-- Manual hover flight test scheduled:
-  - ~30 second manual hover with parameter change before/after
-  - Aborted takeoff test to follow
-- Maciej to walk Spencer through test procedure on November 3, 2026
-
-**October 27, 2026 - Infrastructure Expansion:**
-- Maciej acknowledged support from @U0151201DMY for local git server setup
-- Navy STTR project repository successfully established on local git server
-- First repository pushed to local infrastructure, indicating shift toward distributed repository management for specialized projects
-
-**October 23, 2026 - Version 3.3 Flight Testing Progress:**
-
-**Failure Scenario Validation Results:**
-- **Loss of GPS in joystick mode:** Working normally on Maciej's handset; likely simulator setup issue on test system
-- **Pitot failure handling:** Functioning correctly in both fail app and GUI; Maciej unable to reproduce "freezing" issue (Spencer to investigate further)
-- **Static sensor loss:** Correct Level 2 behavior confirmed; previous "static blocked" test condition changed to "static off" by Jack Elston, causing NaN value behavior
-- **Magnetometer failures:** Normal/expected behavior observed by Maciej; insufficient detail provided for debugging
-- **Waypoint skipping:** Ali Sulehria initially reproduced but unable to reproduce on second attempt with same flight plan; identified as potentially user-error, will monitor for recurrence; higher altitude scenarios warrant further investigation
-
-**Clog Detector Parameter Management:**
-- Decision finalized to defer clog detector fixes to 4.0 release
-- Parameters will be zeroed out on simulator for 3.3 operations
-- Root cause identified: Parameters were based on incorrect propulsion model; S3 model update now requires recalibration
-- Approved by Jack Elston with thanks to Maciej
-
-**SwiftTab App Issue:**
-- Critical crash reported: SwiftTab-staging.apk crashes when loading saved aircraft parameter files onto aircraft running SwiftCore AP 3.3 RC firmware (October 23, 11:09 AM)
-- Bug report auto-submitted; Ben Busby acknowledged and investigating
-
-**XML Configuration Updates:**
-- All XML files updated and pushed by Maciej
-- Default S3 aircraft XMLs added for standard configuration reference
-- Clog detector parameters awaiting zeroing on Estimator page
+The new data from November 13, 2026 captures critical post-release refinements to the SwiftCore 3.3.0 GPS-out landing handling. Jack Elston's detailed code review identified subtle but potentially dangerous edge cases in the lost-GPS landing timer logic, prompting Maciej to refine the hotfix approach. The team validated pressure-based vertical velocity estimation accuracy through flight logs and opted for a conservative gating strategy that preserves multiple safety checks rather than aggressive simplification. Ben Busby updated Jenkins infrastructure to support ongoing hotfix deployment. This reflects a mature development process balancing rapid iteration with safety-critical control system rigor.

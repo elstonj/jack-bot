@@ -1,101 +1,80 @@
-_Asana snapshot as of 2026-11-13: 54 open tasks, 16 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 53 open tasks, 17 completed (last 90 days)._
 
 # [600-1] SOCOM Pope
 
 ## Overview
+
 - **Client/Customer:** SOCOM
 - **Priority:** High
-- **Project Owner:** Dan Prendergast
-- **Status:** Active — Heavy development phase with 54 open tasks and 16 completed. Multiple prototype builds and flight tests underway across 6 CLINs.
-- **Timeline:** 
-  - Early phase (camera/hardware selection): Nov 2026
-  - PCLT test launch: Nov 13, 2026
-  - Component integration & prototyping: Dec 2026 – Feb 2027
-  - Operational flight evaluations: Mar–Apr 2027
-  - Final closeouts: May 31, 2027
-- **Team Members:** Dan Prendergast (owner, lead systems), Josh Fromm (mechanical design), Jack Elston (electrical/comms), Ethan Domagala (prototyping/build), Ben Busby (software), Maciej Stachura (sensors/software), Alex Lomis (testing), others
+- **Owner:** Dan Prendergast
+- **Status:** Active, undergoing Asana restructuring. Per Maciej (2026-10-27), team is implementing a two-level planning system: Asana tracks long-term milestones and upcoming weekly tasks; physical Kanban board manages weekly engineering execution. Daniel Prendergast is refactoring the SOCOM Asana project structure (target completion: 2026-11-04).
+- **Team Members:** Dan Prendergast (lead), Jack Elston, Sam Hild, Josh Fromm, Ben Busby, Ethan Domagala, Maciej Stachura, Alex Lomis
+- **Risk Signals:** Multiple SOCOM tasks backed up on Kanban board (Maciej, 2026-11-04 & 2026-11-05); resource constraints noted; clarification needed on task prioritization and resource allocation.
 
 ## Key Deliverables & Milestones
 
-| Deliverable | Due Date | Notes |
-|---|---|---|
-| **GFI: Answers re PCLT** | 2026-11-20 | Safe separation (16lb?), mount angle, aircraft skin gap |
-| **PCLT Test Launch at SOCOM Facility** | 2026-11-13 | Flight test of instrumented prototype |
-| **CLIN 1 Closeout** (METAR variant) | 2027-03-12 | Design, build, test, operational flight eval |
-| **CLIN 2 Closeout** (EO/IR R&R variant) | 2027-03-12 | Design, build, test, operational flight eval |
-| **CLIN 4 Closeout** | 2027-03-12 | System-level requirements and integration |
-| **CLIN 3 Closeout** (Auto-METAR variant) | 2027-05-31 | Sensor integration, automation, flight eval |
-| **CLIN 5 Closeout** (EO/IR ATR variant) | 2027-05-31 | ATR model integration, real-time processing |
-| **CLIN 6 Closeout** (EO/IR FMV variant) | 2027-05-31 | Gimballed camera, datalink, video UI, flight eval |
-| **GFI: Customer begins airworthiness process** | 2027-01-25 | Regulatory milestone |
+| Milestone | Due Date | Status |
+|-----------|----------|--------|
+| GFI: Answers re PCLT | 2026-11-20 | Open (notes: 16lb safe separation, PCLT mount angle, gap between a/c skin and PCLT tube rim) |
+| PCLT Test Launch at SOCOM Facility | 2026-11-13 | Open (Dan Prendergast) |
+| GFI: Customer begins airworthiness process | 2027-01-25 | Open |
+| CLIN 1 Closeout | 2027-03-12 | Open |
+| CLIN 2 Closeout | 2027-03-12 | Open |
+| CLIN 3 Closeout | 2027-05-31 | Open |
+| CLIN 4 Closeout | 2027-03-12 | Open |
+| CLIN 5 Closeout | 2027-05-31 | Open |
+| CLIN 6 Complete | 2027-05-31 | Open |
 
 ## Task Summary
 
-- **Total:** 54 open, 16 completed (23.0% completion rate)
-- **Assignee Distribution & Completion Rates:**
-  - **Dan Prendergast:** 13 open tasks (owner/lead; multiple design reviews, requirements, closeouts)
-  - **Ethan Domagala:** 9 open tasks (prototyping, build, bench/flight testing across all variants)
-  - **Josh Fromm:** 4 open tasks (mechanical design updates, PCLT design changes)
-  - **Jack Elston:** 4 open tasks (radio selection, comm protocol for multiple CLINs)
-  - **Ben Busby:** 3 open tasks (payload software for METAR, ATR, FMV variants)
-  - **Maciej Stachura:** 3 open tasks (sensor trade studies, auto-METAR software)
-  - **Unassigned:** 18 open tasks (critical path: GFI milestones, CLIN closeouts, comm protocol)
+- **Total:** 53 open, 17 completed (24.3% completion rate)
+- **Tasks by Assignee (Open):**
+  - Dan Prendergast: 14 tasks (design decisions, requirements, test execution, closeout)
+  - Ethan Domagala: 8 tasks (prototype build & testing focus)
+  - Josh Fromm: 5 tasks (mechanical/electrical design updates)
+  - Jack Elston: 5 tasks (radio/comm protocol selection and design)
+  - Ben Busby: 4 tasks (software payload integration)
+  - Maciej Stachura: 4 tasks (sensor trade studies, Auto-METAR software)
+  - Unassigned: 9 tasks (including critical milestones: GFI airworthiness, CLIN 2/3/6 closeouts, mechanical integration for CLIN 3)
 
-- **Notable Patterns:**
-  - Parallel workstreams across 6 CLINs (METAR, EO/IR R&R, Auto-METAR, ATR, FMV, plus PCLT test & CLIN 4 integration)
-  - Heavy use of role-based hour estimates (Mechanical Engineer, Test Engineer, Electrical/Firmware, Software Engineer, Systems Engineer, Technician)
-  - Significant unassigned work on critical path items (GFI responses, CLIN closeouts, comm protocols)
-  - Many tasks cluster around mid-January 2027 (system-level requirements, comms, software) and late Feb–early Mar 2027 (prototype builds, flight tests)
+- **Custom Field Usage:** Heavy use of labor-hour estimates by role (Mechanical Engineer, Test Engineer, Electrical/Firmware, Software Engineer, Systems Engineer, Technician) across all design and build tasks. No dollar amounts present in visible tasks.
 
 ## Recent Activity
 
-**Recently Completed (Nov 2026):**
-- Camera testing phase complete: nighttime STARVIS/Sony IMX585 sensor & lens filter assessments (Nov 11)
-- Daytime FoV/resolution assessments (Nov 6)
-- Hadron camera ordered and received (Nov 10–11)
-- SOCOM site visit & instrumented S0 PCLT launch (Oct 30)
-- PCLT prototype with accelerometer built (Oct 30)
+**Completed (near-term):**
+- Camera selection finalized and ordered (2026-11-11/13)
+- Nighttime camera tests with STARVIS sensor completed (2026-11-11)
+- Day/night camera test plans written and executed (2026-11-03 to 2026-11-06)
+- SOCOM site visit and instrumented S0 launch completed (2026-10-30)
+- PCLT prototype S0 with accelerometer built (2026-10-30)
 
-**Approaching/Overdue Deadlines (next 30 days):**
-- **Nov 13, 2026:** PCLT test launch + draft test results report (Dan Prendergast)
-- **Nov 11, 2026:** Camera selection and trade study documentation (Dan Prendergast, unassigned)
-- **Nov 18, 2026:** Common processing hardware selection (Jack Elston)
-- **Nov 20, 2026:** GFI response on PCLT separation, mount angle, aircraft skin gap (Unassigned — **CRITICAL, AT RISK**)
+**Approaching/Overdue:**
+- **2026-11-13:** Draft report for test PCLT launch results (Dan Prendergast) — currently due, no completion marker
+- **2026-11-11:** Document camera trade study and selection (Unassigned) — due 4 days from latest feedback date
+- **2026-11-13:** PCLT Test Launch at SOCOM Facility (Dan Prendergast) — imminent
+- **2026-11-20:** GFI: Answers re PCLT (critical open questions on separation, mount angle, gap clearance)
+
+**Kanban Board Pressure:**
+Maciej flagged (2026-11-04 & 2026-11-05) that many SOCOM tasks remain on the Kanban board; he requested clarity from assignees on moving tasks to next week or identifying resource needs. No resolution recorded.
 
 ## Notes & Context
 
-- **PCLT (Parafoil Controlled Load Tube) Flight Test:** Early validation prototype with accelerometer launched. GFI (Government Furnished Information) responses due Nov 20 on safe separation margin (16lb threshold?), PCLT tube mount angle in aircraft, and gap between aircraft skin and tube rim. Answers critical for design changes and SOCOM facility coordination.
+1. **Asana Restructuring in Progress:** Per Maciej (2026-10-27), a two-level planning model is being implemented. Daniel Prendergast is actively refactoring the SOCOM Asana project to improve visibility and align with Kanban execution. Project structure and stickies targeted for Monday morning (2026-11-04 per 2026-11-02 feedback; update posted 2026-11-05 suggests ongoing work).
 
-- **Multi-variant Strategy:** Project splits into parallel CLINs:
-  - **CLIN 1 & 2:** METAR (weather reporting) and EO/IR R&R (reconnaissance/recovery) — closeout Mar 12
-  - **CLIN 3:** Auto-METAR — closeout May 31
-  - **CLIN 4:** System integration and common components
-  - **CLIN 5 & 6:** EO/IR with ATR (Automatic Target Recognition) and FMV (Full Motion Video) with gimbal — closeout May 31
+2. **Six CLINs (Contract Line Items):** Project is organized around 6 distinct variants/payloads:
+   - CLIN 1: METAR payload
+   - CLIN 2: EO/IR R&R (Radiometer/Radiator)
+   - CLIN 3: Auto-METAR
+   - CLIN 4: EO/IR Real-time ATR (Automatic Target Recognition)
+   - CLIN 5: EO/IR Full-Motion Video (FMV)
+   - CLIN 6: Gimballed camera variant
+   
+   Each CLIN has parallel design/build/test/evaluation tracks with closeout milestones in March–May 2027.
 
-- **Hardware/Comms Selection Critical Path (Nov–Dec 2026):**
-  - Camera selection due Nov 11 (Dan Prendergast, unassigned)
-  - Processing hardware due Nov 18 (Jack Elston, $30k Electrical/Firmware)
-  - Radio selection due Dec 11 (Jack Elston, $25k)
-  - Carrier board design & fab due Dec 14 (Sam Hild, $40k)
-  - PCLT design changes due Dec 11 (Josh Fromm, $70k mechanical)
+3. **Critical Path:** PCLT (Payload Containment Launch Tank) test and airworthiness answers are near-term gates. GFI responses due 2026-11-20 unblock downstream customer approval (2027-01-25 airworthiness start).
 
-- **Prototype Build & Flight Test Timeline (Feb–Apr 2027):**
-  - S0 METAR prototype build due Feb 1 (Ethan Domagala, $65k)
-  - S0 EO/IR R&R prototype build due Feb 1 (Ethan Domagala, $55k)
-  - S0 Auto-METAR prototype build due Feb 24 (Ethan Domagala)
-  - S0 EO/IR ATR variant due Apr 2 (Ethan Domagala)
-  - S0 EO/IR FMV variant due Feb 24 (Ethan Domagala)
-  - Operational flight evaluations span Mar–Apr with heavy Test Engineer and Systems Engineer hours (52h + 31h for OFE1)
+4. **Labor Model:** All major deliverables (design, build, test, software) carry detailed role-based labor estimates (e.g., Mechanical Engineer 60h, Test Engineer 52h, Systems Engineer 31h for Operational Flight Evaluation 1). No budget totals visible; cost tracking appears to rely on custom labor fields.
 
-- **Software/Autonomy Scope:**
-  - Ben Busby (payload integration automation) due Jan 22 for METAR ($60k software), Feb 1 for EO/IR R&R ($40k), Apr 1 for ATR ($TBD)
-  - Maciej Stachura (sensor integration, autonomous collection patterns) for Auto-METAR (due Mar 5, $TBD)
-  - Notes indicate autonomous data collection patterns: "fly in circle and take data/image at each cardinal heading," back-end functions for image triggers, compression, calibration
+5. **Unassigned Critical Tasks:** 9 open tasks lack assignment, including CLIN 2/3/6 closeout milestones and mechanical integration for CLIN 3. These should be triaged as part of the Asana restructuring.
 
-- **Risk Signals:**
-  - **Unassigned critical work:** GFI PCLT answers (Nov 20), three CLIN closeouts (3/12 and 5/31), comm protocol task (no due date)
-  - **Compressed timeline:** Nov 13 PCLT test results expected just 2 days after launch; design changes due only 4 weeks later
-  - **Parallel workload:** Ethan Domagala has 9 open build/test tasks across 5+ variants; potential bottleneck
-  - **Hardware selection compressed:** All major component selections (camera, radio, processing, carrier board) due within 3-week window (Nov 11–Dec 14)
-
-- **Airworthiness Process Kickoff:** Jan 25, 2027 milestone for customer to begin airworthiness review; implies design must stabilize by early Jan
+6. **Resource Constraints:** Maciej's repeated ask (2026-11-04, 2026-11-05) about extra resources for SOCOM and S3 indicates limited capacity. No resolution or resource plan recorded.

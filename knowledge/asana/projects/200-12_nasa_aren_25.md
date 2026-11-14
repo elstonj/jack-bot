@@ -1,34 +1,34 @@
-_Asana snapshot as of 2026-11-12: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 1 open tasks, 0 completed (last 90 days)._
 
 # NASA AREN '25
 
 ## Overview
-- **Client/Customer:** NASA (Science Mission Directorate)
+- **Client:** NASA (Science Mission Directorate)
 - **Contract:** No. 80NSSC25PA610
-- **Dollar Value:** $20,576 (BST's portion of $117,701.50 total contract)
+- **Total Budget:** $117,701.50
+- **BST Funding:** $20,576
 - **Timeline:** Due 2026-03-02
-- **Status:** **ARCHIVED** (as of team feedback 2026-10-27)
-- **Team:** BST (Whole Team)
+- **Status:** **ARCHIVED** (as of 2026-10-27/28, per team feedback from Maciej)
 - **Owner:** Meredith O'hara Needham
-- **Project Type:** Science Activation & Education Outreach (AEROKATS and ROVER Education Network)
+- **Key Contact:** Geoffrey Bland (geoffrey.l.bland@nasa.gov; now manages Aeropods project after leaving NASA Ames in August 2025)
+- **Team:** Whole BST team
+
+## Project Purpose
+BST is a participant in the AEROKATS and ROVER Education Network (AREN), a NASA Science Activation project for learning and outreach. BST provides support via Aerospace Engineer Kay Rufty (named Co-Investigator) and manages the Aeropods product line for the project.
 
 ## Key Deliverables & Milestones
-- Aerospace Engineer Kay Rufty (named Co-Investigator) to provide ongoing support
-- Support for AEROKATS and ROVER Education Network activities
+No specific milestone breakdown available in current task list.
 
 ## Task Summary
-- **Total Tasks:** 1 open, 0 completed
-- **Open Task:** Geoffrey Bland (Aeropods) contact record — unassigned, no due date
+- **Total tasks:** 1 open, 0 completed
+- **Open task:** Geoffrey Bland (Aeropods) contact record — unassigned, no due date
+  - This appears to be a contact/relationship tracking task rather than active deliverable work.
 
-## Contact Information
-**General POC:** Geoffrey Bland, geoffrey.l.bland@nasa.gov  
-**Billing POC:** PIEE  
-**Aeropods Project Lead:** Geoffrey Bland
-- Personal email: geodronez@gmail.com
-- Note: Left NASA in August 2025; now manages/runs Aeropods project
-- Also monitors: gbaerokats@gmail.com
-
-**NASA Address:** Goddard Space Flight Center, 613 Wallops Flight Facility, 34200 Fulton, Wallops Island, VA 23337
+## Recent Activity
+Per Maciej's feedback (2026-10-26/27), this project was identified for closure/archiving. No active work items remain. The contract was fulfilled and the project is now archived per standard BST cleanup procedures.
 
 ## Notes & Context
-This project supports the AEROKATS and ROVER Education Network (also referenced as Ogiemwonyi/NNX16AB95A), a NASA SMD science activation initiative for learning and outreach. The single remaining open task is a contact record with no actionable work items — reflects archival status as of late October 2026.
+- Geoffrey Bland transitioned from NASA Ames employee to external contact managing the Aeropods project (effective August 2025)
+- Personal email: geodronez@gmail.com
+- The single open task is a contact record with no deadline — likely just administrative documentation
+- BST's role was to support AREN activities as outlined in the selected proposal (full scope details in project notes)

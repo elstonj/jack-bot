@@ -1,52 +1,48 @@
-_Computed from Toggl as of 2026-11-13: 1292.0 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 306.0 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+_Computed from Toggl as of 2026-11-14: 1300.2 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 314.3 h, Stachura 267.0 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
 
 # [001-13] BD Pipeline — Time Tracking
 
 ## Overview
 - **Client:** Overhead (internal)
-- **Active Status:** Yes
-- **Billable Status:** No
-- **Total Hours Tracked:** 1,292.0 hours (all-time since 2020-01-01)
+- **Active:** Yes
+- **Billable:** No
+- **Total hours tracked:** 1,300.2 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 472.5 | 36.6% |
-| Jack Elston | 306.0 | 23.7% |
-| Stachura | 267.0 | 20.7% |
+| Dan | 472.5 | 36.3% |
+| Jack Elston | 314.3 | 24.2% |
+| Stachura | 267.0 | 20.5% |
 | Beck Cotter | 154.4 | 11.9% |
 | Kareem Ahmed | 51.6 | 4.0% |
 | Spencer Hoehl | 20.2 | 1.6% |
 | Josh Fromm | 19.2 | 1.5% |
 | Nate | 1.0 | 0.1% |
 
-**Primary Contributor:** Dan (472.5 hours)
+**Primary contributor:** Dan (472.5 hours)
 
 ## Activity Timeline
-Recent work entries show active business development across multiple strategic initiatives:
+Recent work reflects business development and partnership activities:
 
-**High-effort activities:**
-- **Keesler AFB engagement** (Jack Elston): 21.6 hours across travel and meetings
-- **Royal Navy Visit** (Stachura): 15.8 hours
-- **EAB Meeting** (Jack Elston): 19.8 hours total
-- **UK RAVEN Project Kickoff** (Jack Elston): 8.0 hours
-
-**Partnership & discussion activities:**
-- Fletch Aero partnership discussions
-- Vantor meetings and visits (Stachura)
-- NOAA sensor white paper development
-- BST white paper discussions
-- Brian Argrow collaboration
-
-**Internal initiatives:**
-- BST/KS Internal SOCOM Kickoff
-- Business development research and ideation
-
-**Note:** A significant portion of Dan's entries (roughly 40 hours in recent data) lack descriptions, indicating general BD pipeline work without specific project tagging.
+- **UK RAVEN Project:** Jack Elston leading (multiple kickoff sessions, 6.0h documented)
+- **Keesler AFB engagement:** Jack Elston travel and meetings (8.0h + 5.8h + 9.0h + 7.0h travel/meeting time)
+- **Royal Navy visits:** Stachura primary (9.1h + 6.6h visit time)
+- **EAB meetings:** Jack Elston significant investment (11.8h + 8.0h)
+- **White paper work:** Jack Elston drafting for NOAA sensor discussion and internal reviews
+- **Partner visits:** Vantor (Stachura, 1.8h), Fletch Aero/BST engagement (Jack Elston, 0.5h)
+- **Internal kickoffs:** SOCOM and RAVEN project launches
 
 ## Insights
-- **Workload concentration:** Top 3 contributors (Dan, Jack Elston, Stachura) account for 81% of all hours
-- **Focus areas:** Government partnerships (DoD/Navy), academic collaboration (NOAA), and strategic proposal/white paper development
-- **Travel intensity:** Recent activity shows substantial travel for client/partner engagement
-- **Documentation gaps:** Many entries lack descriptive details, limiting visibility into specific activities
-- **Strategic scope:** Mix of immediate sales pursuits (Vantor, Fletch Aero) and longer-term initiatives (UK RAVEN, white papers)
+**Work types identified:**
+- Client meetings and partnership development (Vantor, Royal Navy, Keesler AFB, Fletch Aero)
+- Strategic initiatives (UK RAVEN project, EAB engagement)
+- Technical/business collateral (white papers for NOAA)
+- Travel and site visits
+
+**Notable patterns:**
+- Dan's work is largely undescribed (38.5 hours of 56.3 recent entries), suggesting administrative or summary logging
+- Jack Elston drives external partnerships and travel-intensive engagement
+- Stachura focuses on international partnerships (Royal Navy) and vendor relationships
+- Project shows sustained engagement with multiple stakeholders; no decline in activity
+- High travel burden on Jack Elston (recent entries show 29.8h in travel/meetings for single engagement)

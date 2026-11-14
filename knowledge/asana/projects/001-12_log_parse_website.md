@@ -1,23 +1,23 @@
-_Asana snapshot as of 2026-11-12: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 0 open tasks, 0 completed (last 90 days)._
 
 # Log Parse Website
 
 ## Overview
-- **Client/Customer:** Internal BST tool for customers
-- **Purpose:** Site for customers to upload and review flight data, track aircraft performance, and perform flight planning
+- **Client/Customer:** Black Swift Technologies (internal)
+- **Project Purpose:** Creation of a site for customers to upload and review flight data, track aircraft performance, and perform flight planning
 - **Status:** **ARCHIVED** (as of Nov 28, 2023)
-- **Team:** BST (whole team)
+- **Team:** BST (Whole Team)
 
-## Key Context
-This project has been archived with no open or active tasks as of the knowledge cutoff. The project was intended to create a customer-facing dashboard for flight data analysis and aircraft performance tracking.
+## Status & Activity
+This project is archived and inactive. No open or completed tasks remain in the Asana project record as of the last status update.
 
-**Note on Related Tooling (Team Feedback – Oct 2026):**
-While this project appears archived, team members have indicated that related production tracking infrastructure exists:
-- **S0 Production QC Website** (built by Jack) is currently operational and tracking S0-AD orders with an "Orders" dashboard showing customer orders, quantities, and due dates
-- This QC website may represent an evolved or parallel effort to the original Log Parse Website concept
+**Last Status Update:** November 28, 2023 (green status)
+- The project had overdue milestones and tasks as of that date
+- All tracked work appears to have concluded or been removed from active tracking
 
-## Recent Activity
-Project archived as of November 28, 2023. No recent task activity.
+## Context
+Per team feedback (Daniel Prendergast, Oct 20, 2026), related production tracking functionality now exists via the **S0 Production QC Website** (https://qc.bst.aero/) built by Jack. This system provides an "Orders" dashboard tracking S0-AD customer orders, quantities, due dates, and includes functionality for adding new orders. The Log Parse Website project may have evolved into or been superseded by this production QC tracking system.
 
-## Notes
-Given the archival status and zero open tasks, this project is no longer active. If production order tracking or customer flight data management is needed, refer to the S0 Production QC Website per team feedback from October 2026.
+---
+
+*Note: This project has no active tasks in Asana. For current flight data and production tracking, refer to the S0 Production QC Website referenced above.*

@@ -1,32 +1,37 @@
-_Asana snapshot as of 2026-11-12: 2 open tasks, 2 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 2 open tasks, 2 completed (last 90 days)._
 
-# S2 Simulator [212-1]
+# [212-1] S2 Simulator
 
 ## Status
-**ARCHIVED** (Oct 27, 2026 — Maciej)
+**ARCHIVED** (as of 2026-10-27, per Maciej's feedback)
 
-Per team feedback (Maciej, Oct 27), this project is ready for archival. The S2 Simulator was delivered to NASA a few weeks ago. Only two milestones remain in Asana ("Build Sim System" and "Deliver System and Documentation") but these are stale entries following delivery.
+This project has been closed out and should be archived in Asana. Per Maciej (2026-10-27): "There's just milestones left for 'Build Sim System' and 'Deliver', I assume this is the one that went to NASA a few weeks ago?" — System has been delivered to NASA.
 
 ## Overview
-- **Client:** NASA (Will Wade, william.o.wade@nasa.gov)
-- **Primary Contact:** Isaac Anderson (isaac.e.anderson@nasa.gov, 650-602-5988) — Note: Isaac has moved on from NASA Ames as of Dec 30, 2025. New NASA contact is **Randy Hobbs** (r.hobbs@nasa.gov) with team members Will Wade, Farina Remo (farina.c.remo@nasa.gov); CC Hai-Nam Tran (hai-nam.h.tran@nasa.gov) on emails.
-- **Billing Contact:** Isaac Anderson
-- **Budget:** $2,900 (fully funded to Black Swift)
-- **Payment Status:** $2,900 received (Aug 22, 2025)
-- **Products/Services:** S2, Other
+- **Client:** NASA Ames (primary contact: Will Wade, william.o.wade@nasa.gov; new lead after Isaac Anderson departed)
+- **Original contact:** Isaac Anderson (Chief Aviation Operations Engineer)
+- **Total budget:** $2,900
+- **Payment status:** Fully paid ($2,900 received 22 Aug 2025)
+- **Timeline:** Project completed; system delivered to NASA ~late October 2026
+- **Team:** Jack Elston (primary executor)
 
-## Work Completed
-- Operational Checks (Jack Elston, completed Oct 17, 2026)
-- Load OS/software and configure sim machine (Jack Elston, completed Oct 17, 2026)
-- **System delivered to NASA** (late October 2026)
+## Key Deliverables & Milestones
+| Deliverable | Due Date | Status |
+|---|---|---|
+| Load OS/software and configure sim machine | 2026-05-04 | ✓ Completed 2026-10-17 |
+| Operational Checks | 2026-05-06 | ✓ Completed 2026-10-17 |
+| Build Sim System | 2026-05-06 | Milestone (delivery complete) |
+| Deliver System and Documentation | 2026-05-13 | Milestone (delivered to NASA) |
 
-## Additional Work
-Isaac Anderson's personal S2 also sent for warranty repairs:
-- Flap servo replacement
-- No payment expected for this work
+## Task Summary
+- **Total tasks:** 4 (2 completed, 2 milestones remaining)
+- **Completed work:** Jack Elston completed final operational checks and OS/software configuration in October 2026
+- **Remaining items:** Only milestone placeholders remain; no active work
 
-## Notes & Context
-- Project includes both a paid simulator purchase ($2,900) and complimentary warranty repairs on Isaac's personal unit
-- All substantive work completed; delivery confirmed
-- Asana milestones are stale and can be disregarded
-- Assigned to project owner for archival per Oct 27 feedback
+## Scope Notes
+- **S2 Simulator purchase:** $2,900 (completed)
+- **Warranty/additional work:** Isaac Anderson's personal S2 sent for repairs (flap servo replacement) — no additional payment required from NASA; treated as warranty/goodwill
+- **Updated NASA team:** Randy Hobbs (new primary), Will Wade, Farina Remo; CC Hai-Nam Tran on future communications
+
+## Archival Action Required
+Project owners should archive this project in Asana per Maciej's instruction: Go to project main page → click down arrow → click "Archive"

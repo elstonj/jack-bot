@@ -1,172 +1,155 @@
-_Asana snapshot as of 2026-11-13: 86 open tasks, 6 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 84 open tasks, 8 completed (last 90 days)._
 
 # [001-13] Proposals
 
 ## Overview
 
 **Owner:** Beck Cotter  
-**Team:** BST (Whole Team)  
-**Status:** Active — High-volume proposal pipeline with 86 open tasks and 6 completed  
-**Focus:** Government R&D funding across DoD (DARPA, Air Force, Navy, Army), NASA, NOAA, and emerging opportunities  
+**Team:** Whole BST team  
+**Status:** Active – High volume proposal pipeline with mix of awarded contracts, under-review submissions, and pipeline opportunities  
+**Dollar Value:** $30M+ in active and submitted proposals across DoD, NASA, NOAA, and other federal agencies  
+**Timeline:** Ongoing; key near-term deadlines through 2027; multi-year NOAA IDIQ through 2030  
 
-**Key Clients/Customers:**
-- NOAA (hurricane sampling, stratospheric balloons, UAS procurement IDIQs)
-- DoD agencies (Air Force SBIR/STTR, Navy, Army, DARPA, AFWERX)
-- NASA (autonomy, wildfire persistence, sensor development)
-- Emerging: DOE, NSF, DTRA, USDA
-
-**Estimated Pipeline Value:** ~$25M+ across active proposals (awarded + under review + not yet funded)  
-- **Awarded & Active:** ~$3.5M (NOAA IDIQs, NASA Phase I, Navy STTR/SBIR, UxS Breakthroughs)
-- **Submitted/Under Review:** ~$12M+ (Navy Phase II, NAVY STTR Phase II, DARPA, NASA Phase II Autonomy, etc.)
-- **Not Funded (Recent Rejections):** ~$9M+ (NASA Phase II Autonomy, DIU GAUSS, DARPA Albatross, DoD X25.5, etc.)
-
-**Timeline & Cadence:**
-- Active proposal submissions ongoing; no defined project end date
-- Most open calls have 2026–2029 deadlines
-- Near-term deadlines: Dev-X Autonomy (2026-10-31), Arctic Edge '28 (2026-11-06)
+**Risk Signals:**
+- Heavy reliance on Beck Cotter as primary task owner (majority of proposals assigned to him)
+- Many proposals lack assigned owners (unassigned tasks suggest coordination gaps)
+- Numerous "Reviewed - not funded" proposals indicate competitive landscape; few with high confidence scores
+- Several near-term open calls with imminent deadlines (Army BAA Apr 2029, SIGINT Air Force Sep 2028)
 
 ---
 
 ## Key Deliverables & Milestones
 
 ### Awarded & Active Contracts
+| Contract | Client | Amount (BST) | Status | Notes |
+|----------|--------|--------------|--------|-------|
+| NOAA OMAO S0's 2025 | NOAA | $753,500 | Active | 2025 Hurricane season procurement |
+| NOAA IDIQ 2026 (Year One) | NOAA | $499,000 | Active | 5-year IDIQ for up to 125 S0/year through 2030 |
+| NOAA IDIQ Years 2–5 (2027–2030) | NOAA | TBD | Active | Ongoing yearly tranches |
+| FY25 UxS Breakthroughs RFP | NOAA | $327,952 | Active | Tropical cyclone sampling (Joe Cione, NOAA PI) |
+| NASA Persistence Demo | NASA / USFS | $74,428 | Active | Wildfire IR persistence with S0 fixed-wing |
+| NAVY STTR – Hazardous Weather | NAVY | $171,938 | Active (Confidence 1.0) | $237,938 total award |
+| NAVY SBIR N215-T016 | NAVY | $220,000 | Active (Confidence 1.0) | $240,000 total award |
+| NASA Phase I – A2.02 Autonomy | NASA | $149,711 | Active (Confidence 1.0) | BST only, no subs |
+| Unmanned Experts Subcontract | Jack Elston | $93,000 | Active (Confidence 1.0) | [035-1] |
 
-| Deliverable | Client | Award Value (BST) | Status | Notes |
-|---|---|---|---|---|
-| **FY25 UxS Breakthroughs RFP** | NOAA | $327,952 | Awarded & Active | "Improving NOAA Forecasts by Advancing UAS Capabilities for Tropical Cyclones" |
-| **NOAA IDIQ (2026–2030, 5-year)** | NOAA | ~$499K/year | Awarded & Active | 5-year IDIQ for S0 procurement (up to 125 units/year through 2030) |
-| **NOAA OMAO S0's for 2025** | NOAA | $753,500 | Awarded & Active | S0 UAS procurement for 2025 Hurricane season |
-| **NASA Persistence Demo** | NASA/USFS | $74,428 | Awarded & Active | Persistent IR measurements over wildfires using fixed-wing UAS |
-| **Unmanned Experts Subcontract [035-1]** | Jack Elston | $93,000 | Awarded & Active | — |
-| **Navy STTR – Hazardous Weather** | Navy | $237,938 | Awarded & Active | 171,938 to BST; $66K subcontract |
-| **Navy SBIR – N215-T016** | Navy | $240,000 | Awarded & Active | 220K to BST; $20K subcontract |
-| **NASA Phase I – A2.02 Autonomy** | NASA | $149,711 | Awarded & Active | BST only (no subs) |
+### Under Review / High Confidence (Submitted)
+| Proposal | Client | Amount (BST) | Confidence | Due/Status | Notes |
+|----------|--------|--------------|------------|-----------|-------|
+| NASA Stratospheric Balloons | NASA | $160,549 | 0.95 | Submitted | $225,049 total; $64,500 to subcontractor |
+| Simulator for CU-DPS Flight Ops | CU-DPS | $2,900 | 0.95 | Submitted | Ground ops simulator |
+| Navy 26BX Release 3 (sub to HALO) | Halo Aerospace | $31,000 | TBD | Submitted | Phase I SIL/HIL & ICD, 6mo base + 6mo option |
+| 2026 DoD SBIR – Runtime Assured Autonomy | USAF | $300,000 | TBD | Submitted (6/3/26 deadline) | $298,297 total; autonomy focus |
+| ONR w/Beth Sanabia (UW) | ONR | $325,000 | TBD | Submitted 5/15 | 3-year, 6.4M ONR proposal |
+| Navy SBIR Phase II | NavAir | $977,610 | TBD | Submitted | $1,397,610 total; $420K to subcontractor |
+| Navy STTR Phase II | NAVY | $1,107,309 | TBD | Submitted (due 2/25) | $1,984,983 total |
+| DTRA 252-001 – Plume Localization | DTRA | $133,000 | 0.05 | Submitted | Phase I, 7mo, 200K max |
+| Undocumented Orphaned Well Characterization | DOE FECM | $388,546 | 0.01 | Submitted (full proposal 11/13) | Award expected Feb 2025 |
 
-### Submitted/Under Review (High-Value)
+### Rejected / Not Funded (Recent Reviews)
+- **NAWCAD WOLF BAA: S0-AD with ATR** (Navy) – $1,527,000 to BST – Reviewed, not funded (due 4/10/27)
+- **NASA Phase I – Wildfire Persistence** – $223,928 – Not funded (5/21/26 deadline)
+- **2026 DoD SBIR – Agile EW** (USAF) – $210,000 – Not funded (6/3/26 deadline)
+- **Genesis DOE w/BNL** – $336,635 – Not funded (5/1/26 deadline)
+- **NASA Phase II Autonomy** – $1,167,689 – Not funded (5/15/26 deadline)
+- **DoD X25.5 CSO – D2P2 Hurricane Sampling** – $1,051,344 – Not funded (Confidence 0.0)
+- **DARPA Albatross** – $2,736,033 – Not funded (BAE Systems leading prime)
 
-| Proposal | Client | Value (BST) | Confidence | Due/Status |
-|---|---|---|---|---|
-| **Navy SBIR Phase II** | NavAir | $977,610 | — | Under review |
-| **Navy STTR Phase II** | Navy | $1,107,309 | — | Due Feb 25; under review |
-| **NASA Phase II Autonomy** | NASA | $1,167,689 | — | Not funded (rejected) |
-| **DARPA Albatross** | DARPA | $2,736,033 | — | Not funded (rejected); BAE lead |
-| **ONR w/ Beth Sanabia** | ONR | $325,000 | — | Submitted 5/15; under review |
-| **2026 DoD SBIR – Runtime Assured Autonomy** | DoD-USAF | $300,000 | — | Under review |
-| **DTRA 252-001 – Plume Localization** | DTRA | $133,000 | 0.05 | Phase I 200K max; under review |
-| **IDIQ TO LOS Video 2ac** | NOAA | $436,000 | — | Integrating LOS video via P-3 HF antennas on S0s |
-| **IDIQ TO SATCOM C2 6ac** | NOAA | $448,000 | — | Enhancing 6 S0 platforms with SATCOM/C2/video |
-| **Undocumented Orphaned Well Characterization** | DOE FECM | $388,546 | 0.01 | Subcontract to BST; under review |
-
-### Upcoming Proposals & Open Calls (Not Yet Submitted)
-
-| Opportunity | Client | Est. Value | Due Date | Notes |
-|---|---|---|---|---|
-| **Army Applications Lab BAA** | DoD-Army | — | 2029-04-04 | Status: Not Started |
-| **SIGINT Solutions for Evolving Scenarios** | DoD-Air Force | — | 2028-09-25 | Status: Not Started |
-| **SIFTER (SIGINT Tech for Exploitation)** | DoD-Air Force | — | 2029-09-29 | Status: Not Started |
-| **Office of Naval Research Long Range BAA** | DoD-Navy | — | 2026-09-30 | Requires 5-page white paper |
-| **AFWERX Challenge CSO – Expedient Basing** | DoD-AFWERX | — | 2028-02-23 | Unassigned |
-| **BPA for Blue List Drones** | DoD-Army | — | 2030-07-01 | Status: Postponed (awaiting Blue UAS Clearance) |
-| **NAWCAD WOLF BAA** | DoD-Navy | $1,527,000 | 2027-04-09 | Non-acoustic ASW topics; started but incomplete |
-| **Dev-X Autonomy** | Army Applic. Lab | — | 2026-10-31 | Award-ready pitch videos (6 min); under review |
-| **Arctic Edge '28** | NORAD/USNORTHCOM | — | 2026-11-06 | S&T experimentation; under review |
-| **NASA H-LCAS (ROSES-27)** | NASA | — | TBD | Under review |
-
-### Recently Not Funded / Rejected
-
-- **NASA Phase II Autonomy:** $1,167,689 (rejected)
-- **DARPA Albatross:** $2,736,033 (rejected; BAE lead)
-- **NASA Phase I – Wildfire Persistence:** $223,928 (not funded)
-- **DIU GAUSS Geomagnetic Survey:** — (not funded)
-- **DoD X25.5 CSO – Hurricane Sampling:** $1,051,344 (not funded)
-- **Genesis Mission DOE w/ BNL:** $336,635 (not funded; re-submit planned)
-- **2024 ROSES A.59:** $1,262,778 (not funded)
+### Pipeline / Not Yet Due (Selection of Key Opportunities)
+| Opportunity | Client | Amount | Deadline | Status |
+|-------------|--------|--------|----------|--------|
+| Army Applications Lab BAA (Open Call) | DOD Army | TBD | 4/4/2029 | Not started |
+| SIGINT Solutions (Open Call) | DOD Air Force | TBD | 9/25/2028 | Not started |
+| SIFTER (Open Call) | DOD Air Force | TBD | 9/29/2029 | Not started |
+| Office of Naval Research Long Range BAA | DOD Navy | TBD | 9/30/2026 | 5-page white paper required |
+| BPA Blue List Drones | DOD Army | TBD | 7/1/2030 | Postponed (awaiting Blue UAS clearance) |
+| NOAA RFQ: UAS Services | NOAA | TBD | 9/25/2026 | Step One submitted; early Oct decision |
+| Drone Dominance | DOD | TBD | TBD | RFI submitted 12/10; RFP released 12/17 |
 
 ---
 
 ## Task Summary
 
-### Overall Stats
-- **Total Open:** 86 tasks
-- **Total Completed:** 6 tasks
-- **Completion Rate:** 7% (low; typical for ongoing proposal pipeline)
+**Total Tasks:** 92 (84 open, 8 completed)  
+**Completion Rate:** 8.7% (low; typical for active proposal pipeline)
 
 ### Tasks by Assignee
+| Assignee | Open | Completed | % Complete |
+|----------|------|-----------|------------|
+| Beck Cotter | ~50 | 7 | 12% |
+| Dan Prendergast | ~12 | 0 | 0% |
+| Unassigned | ~15 | 0 | 0% |
+| Others (Jack Elston, Maciej Stachura) | ~7 | 1 | 13% |
 
-| Assignee | Open Tasks | Completed | Notes |
-|---|---|---|---|
-| **Beck Cotter** | ~60 | 5 | Proposal owner/lead; handles most high-value/strategic RFPs |
-| **Dan Prendergast** | ~15 | 0 | DoD proposals (Army, Air Force, Navy SBIR/STTR, DIU) |
-| **Unassigned** | ~7 | 1 | AFWERX CSO, ERDC CRREL, SOFWERX Group 2 |
-| **Other** | ~4 | — | Maciej Stachura (NASA ROSES, AIST), Jack Elston (subcontract), Kevin Rozmariek (Navy subcontract) |
+**Key Pattern:** Beck Cotter is the primary owner/coordinator for nearly 60% of proposals. Dan Prendergast focuses on DoD opportunities. Many high-value opportunities lack clear ownership (e.g., AFWERX challenges, ERDC CRREL CSO).
 
-### Notable Patterns
-
-1. **Heavy Beck Cotter Concentration:** ~70% of open tasks assigned to Beck; indicates bottleneck risk if Beck unavailable
-2. **Custom Field Usage:** Extensive use of "Proposal Closing Date," "Organization," "Funding/Confidence," "Total Funding," and "Subcontract" fields for tracking value and decision-making
-3. **Mix of Statuses:** 
-   - "Not Started" (Army BAA, Air Force SIGINT)
-   - "Under Review" (Dev-X, Arctic Edge, NASA Phase II, Navy Phase II, ONR)
-   - "Submitted, under review" (DTRA, Navy SBIR Phase II, Genesis re-submit, USPACOM)
-   - "Reviewed – not funded" (NASA Phase II Autonomy, DARPA Albatross, DIU GAUSS, DoD X25.5, etc.)
-   - "Awarded & Active" (NOAA IDIQs, NASA Phase I, Navy contracts)
-4. **Confidence Levels:** Most proposals marked "0" or "0.05" (low confidence); awarded/active proposals show "1.00" or "0.95"
-5. **Subcontract Mix:** BST is often Prime (proposing on own), but also acts as Subcontractor to larger primes (Halo Aerospace, Curable Composites, PrecisionTerra, CU, CSU)
+### Custom Field Usage
+- **Organization field** consistently populated (DoD, NASA, NOAA, NSF, DARPA, DIU, etc.)
+- **Funding/Confidence custom field** heavily used but many entries default to 0 (low signal)
+- **Status field** tracks proposal stage (Not Started, Started, Submitted, Reviewed, Awarded, Expired)
+- **Dollar amounts** tracked in three fields: Total Funding Amount, Total Funding to BST, Subcontract amounts
 
 ---
 
 ## Recent Activity
 
-### Completed Tasks (Last 90 Days)
-- **DIU Challenge – Low Cost ISR** (due 2026-10-14, completed 2026-10-15): Submitted
-- **NASA Sequential Phase II** (due 2026-09-11, completed 2026-09-18): Reviewed
-- **Navy SBIR Initial Phase II Proposal** (completed 2026-09-10): $1.75M proposal; awaiting decision
+**Completed Tasks (Past 30 days):**
+- Dev-X Autonomy (Army Applications Lab) – 6-min pitch video submitted 11/13
+- SOFWERX Group 2 Air-Launched Effects – Completed 11/13
+- DIU Challenge – Low Cost ISR – Submitted 10/15
+- NASA Sequential Phase II – Reviewed 9/18
 
-### Near-Term Deadlines (Next 30 Days)
-- **Dev-X Autonomy** (Due 2026-10-31): Army rapid acquisition; pitch video submission; status "Under Review"
-- **Arctic Edge '28** (Due 2026-11-06): NORAD/USNORTHCOM; status "Under Review"
+**Recently Submitted (Under Review):**
+- Navy STTR Phase II (due 2/25, submitted recently)
+- 2026 DoD SBIR Runtime Assured Autonomy (deadline 6/3/26)
+- ONR w/Beth Sanabia (submitted 5/15)
+- DTRA Plume Localization (submitted, low confidence 0.05)
 
-### Ongoing Submissions & Reviews
-- **Navy STTR Phase II Proposal:** Due Feb 25 (full submission pending decision memo)
-- **Genesis re-submit w/ BNL:** DOE Genesis Mission; awaiting full proposal invitation
-- **NOAA RFQ: UAS Services:** Submitted Step One; awaiting Step Two invite (early October feedback expected)
-- **ONR w/ Beth Sanabia:** $325K proposal submitted 5/15; under review
-
-### High-Dollar Rejections (Last 6 Months)
-- **NASA Phase II Autonomy:** $1.17M (not funded)
-- **DARPA Albatross:** $2.74M (not funded; BAE lead)
-- **DoD X25.5 CSO – Hurricane Sampling:** $1.05M (not funded)
+**Approaching Deadlines:**
+- Navy applications (3 proposals all due 1/6/27) – Status: "Not moving forward" per Asana
+- NOAA RFQ: UAS Services (9/25/26) – Step One submitted; awaiting early Oct decision
+- Army BAA Open Call (4/4/2029) – Not yet started
+- Chidong Zhang/NOAA TEPEX S0 VTOL (spring 2028 deployment discussion, informal)
 
 ---
 
 ## Notes & Context
 
-### Strategic Positioning
-1. **NOAA Relationship:** Strongest revenue stream; 5-year IDIQ + annual S0 procurement contracts represent ~$750K–$500K/year recurring revenue
-2. **DoD Dominance:** ~60% of pipeline is DoD (Army BAA, Air Force SBIR/STTR, Navy Phase II, DARPA, AFWERX, DTRA)
-3. **NASA Engagement:** Mix of Phase I (awarded), Phase II (some rejected), and RFI responses; autonomy and sensor development focus
-4. **Emerging Diversification:** DOE, NSF, DTRA, USDA proposals indicate broadening beyond traditional DoD/NOAA
+### Active NOAA Relationship
+- **NOAA OMAO 2025** ($753.5K) and **5-year IDIQ** ($499K+ Year One, $2.5M+ over 5 years) represent largest single-client base
+- S0 UAS is core platform for NOAA hurricane/storm sampling
+- Additional pipeline: IDIQ task orders, TEPEX proposal (Chidong Zhang), RFQ response
 
-### Risk Signals
-1. **High Rejection Rate:** Multiple high-value proposals rejected recently (NASA Phase II $1.17M, DARPA $2.74M, DoD X25.5 $1.05M)
-2. **Beck Cotter Single Point of Failure:** ~70% of proposals assigned to one person; no visible secondary leads
-3. **Stale/Unassigned Tasks:** 7+ tasks marked "Unassigned" (AFWERX CSO, ERDC CRREL, SOFWERX); risk of missed deadlines
-4. **Confidence Levels:** Most open proposals show 0.00–0.05 confidence (very low win probability); only awarded contracts show 0.95–1.00
-5. **"Not Moving Forward" Tasks:** Several proposals explicitly marked as such (Navy 26BZ02, DAF27BZ02, Vulcan Arctic Edge 27) but remain open in task list
+### DoD Focus (60%+ of pipeline)
+- **Navy** (SBIR, STTR, ONR, NAWCAD WOLF BAA) – Mix of awarded and under-review
+- **Air Force** (AFWERX, SIGINT, SIFTER, USAF BAA) – Mostly open calls, not yet started
+- **Army** (BAA, Blue List BPA, ERDC, xTechOverwatch) – Mix of open calls and early-stage submissions
+- **DARPA** (Albatross, ERIS 27) – Large values but low funding confidence; Albatross led by BAE
 
-### Operational Notes
-1. **Proposal Tracker Quality:** Extensive custom field usage (Organization, Funding, Subcontract, Confidence) enables portfolio visibility; however, outdated/stale tasks not being closed
-2. **Document Centralization:** Heavy reliance on Google Drive folders for proposal details; cross-linking from Asana to Drive is consistent
-3. **Subcontractor Relationships:** BST maintains active subcontracting relationships with CU, CSU, BNL, Halo Aerospace, Curable Composites, and others
-4. **Sector Spread:** S0 VTOL drone is primary technology being proposed across proposals; secondary: autonomy, sensor development, ISR/surveillance
+### Low Confidence / Rejected Proposals
+- Many proposals show **Confidence 0.0–0.05** despite large dollar values (e.g., DoD X25.5 $1M+, DIU GAUSS, NASA Phase II $1.1M+)
+- Recent rejection cluster in May–June 2026 (5 major NASA/DoD proposals not funded)
+- Suggests highly competitive federal market or proposal quality gaps
 
-### Recommended Actions
-- **Consolidate & Archive:** Close or archive 20+ "Not Moving Forward," "Expired," and "Reviewed – not funded" tasks to reduce clutter
-- **Assign Unassigned:** Assign 7 unassigned tasks to Dan Prendergast or other team members before deadlines
-- **Delegate High-Value Proposals:** Distribute Beck's 60 tasks across team (consider Dan Prendergast, Maciej Stachura, Jack Elston as secondary leads)
-- **Win/Loss Analysis:** Review rejected high-value proposals (NASA Phase II, DARPA, DoD X25.5) for lessons learned and resubmission opportunities
-- **Pipeline Forecast:** Formalize confidence level scoring and pipeline value tracking to improve visibility into FY26–FY27 revenue
+### Structural Observations
+1. **No centralized risk/tracking dashboard** – Custom fields exist but many unfilled or defaulted to 0
+2. **Orphaned proposals** – ~15 unassigned high-value opportunities (AFWERX, ERDC, BPA)
+3. **Stale data risk** – Three NOAA IDIQ Year tasks (2027–2030) marked "Awarded & Active" but no due dates or task activity
+4. **External partnerships** – Heavy use of subcontractors (ATR, CU, BNL, HALO Aero, Ultra Maritime) and co-PIs (Beth Sanabia UW, Joe Cione NOAA, Gijs de Boer BNL)
+5. **Technology platforms** – S0 (fixed-wing), S0-LR, S0-AD (with mag payload), VTOL variants are primary revenue drivers
+
+### Upcoming Milestones to Monitor
+- **1/6/27:** Three USAF Navy proposals (DON27BZ02, DAF27BZ02-DV020, DAF27BZ02DV018) due – all marked "Not moving forward"
+- **2/25/27:** Navy STTR Phase II final submission
+- **4/9/27:** NAWCAD WOLF BAA deadline (already reviewed, not funded)
+- **5/2025–5/2026:** Wave of RFI/RFP responses due (NASA, DIU, NOAA, etc.)
 
 ---
 
-**Last Updated:** Based on Asana task list snapshot (no date metadata provided; inferred current as of late 2025–early 2026)
+## Risk Signals & Recommendations
+
+1. **Ownership Gap:** 15+ unassigned high-value proposals need clear owners (Dan P. or others)
+2. **Beck Overallocation:** 50+ proposals on one person; risk of missed deadlines or proposal quality degradation
+3. **Confidence Tracking:** Standardize "Funding/Confidence" scoring; many entries at 0 offer no signal
+4. **NOAA Concentration:** While NOAA IDIQ is secure revenue, diversification into NASA/DARPA Phase II awards would reduce risk
+5. **Post-Review Closure:** Several "Reviewed - not funded" proposals still open in Asana; consider archiving or converting to lessons-learned tasks

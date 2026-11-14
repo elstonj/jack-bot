@@ -5,8 +5,8 @@
     "[301-3] S0 Hurricane Phase II 2025"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 1889720.0,
@@ -92,7 +92,7 @@
       "attributed": 132000.0,
       "vendor": "",
       "customer": "[301-3] S0 Hurricane Phase II 2025",
-      "balance": 1980.0,
+      "balance": 1729.94,
       "memo": "",
       "lines": [
         {

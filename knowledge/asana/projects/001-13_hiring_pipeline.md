@@ -1,28 +1,20 @@
-_Asana snapshot as of 2026-11-12: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 1 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Hiring Pipeline
 
-## Status
-**ARCHIVED** — This project is no longer actively maintained in Asana. The hiring pipeline tracking has been superseded by real-world hiring processes and team communications.
-
 ## Overview
 - **Team:** Operations
+- **Status:** ARCHIVED
 - **Purpose:** Tracking candidates as they move through the hiring process
-- **Activity Level:** Minimal; 1 open task remains but no activity recorded
-- **Note:** As of 2026-10-23, Joshua Fromm acknowledged strong hiring work being done (likely tracked outside this Asana project)
+- **Activity Level:** Minimal — project contains only 1 open task with no due date
 
 ## Task Summary
 - **Total tasks:** 1 open, 0 completed
-- **Open task:** Generic placeholder ("Candidate: Candidate Name") with no assignee or due date
-- **Pattern:** This project appears to have been deprioritized in favor of direct hiring coordination outside Asana
-
-## Recent Activity
-No recent task activity. Team feedback (2026-10-23) acknowledges hiring effort but does not reference this Asana project—suggesting active hiring is managed elsewhere.
+- **Open task:** Generic "Candidate: Candidate Name" placeholder (unassigned, no due date)
 
 ## Notes & Context
-This project is inactive and likely superseded by:
-- Direct candidate communications
-- External ATS or hiring tools
-- Team Slack/email coordination
+This project appears to be a template or legacy structure for candidate tracking. The single open task is a placeholder with no assignee or deadline, suggesting the project is not actively in use.
 
-The single placeholder task has no meaningful data and can be safely archived or deleted if not already done.
+**Team feedback** (Joshua Fromm, 2026-10-22 & 2026-10-23) acknowledged hiring work completion with appreciation emoji, indicating hiring efforts have moved forward or concluded elsewhere.
+
+Given the archived status and placeholder task, this project is not currently driving operational work.

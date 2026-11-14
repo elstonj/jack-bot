@@ -1,29 +1,30 @@
-_Asana snapshot as of 2026-11-12: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-14: 0 open tasks, 0 completed (last 90 days)._
 
-# [001-13] Marketing Goals Workflow
-
-## Status
-**ARCHIVED** — This is a template project with no active tasks (0 open, 0 completed). Not in active use.
+# Marketing Goals Workflow [001-13]
 
 ## Overview
-- **Type**: Internal process/workflow template
-- **Purpose**: Goal management process framework for BST — designed to guide brainstorming, drafting, and approval of organizational and team goals
-- **Team**: Whole BST team
-- **Activity**: No active tasks
+- **Project Type:** Goal management template / internal process
+- **Status:** ARCHIVED (no open or completed tasks)
+- **Team:** Black Swift Technologies (Whole Team)
+- **Timeline:** No tasks or dates recorded
+- **Client:** Internal BST process template
 
-## Key Context
-This project serves as a **template repository** for goal management workflows in Asana. It includes:
-- A form-based intake for creating goal drafts
-- Workflow guidance for goal brainstorming, drafting, and approval stages
-- Automated task creation and reminder logic
+## Key Notes
+This is an Asana template project for goal management workflows, not an active client engagement or deliverable project. It appears to be archived and contains no active tasks.
 
-## Notes & Context
-**Workflow coordination concern flagged by Beck (2026-10-20)**:
-> "There's still not a clear workflow of who enters what based on X criteria or change and it doesn't address other platform tracking/builds."
+### Unresolved Process Issue
+**Beck flagged workflow ambiguity (2026-10-19 & 10-20):**
+> "there's still not a clear workflow of who enters what based on X criteria or change and it doesn't address other platform tracking/builds"
 
-This suggests that if the goal management workflow is reactivated or used, **there is a need to clarify**:
-- Role-based entry criteria (who is responsible for entering goals based on what conditions)
-- Change management process
+This indicates the goal management workflow lacks:
+- Clear role/responsibility assignments for data entry based on criteria or changes
 - Integration with other platform tracking and build systems
 
-The team should discuss workflow ownership and integration points before relying on this template operationally.
+**Status:** Discussion needed to clarify workflow ownership and cross-platform tracking integration.
+
+## Task Summary
+- **Total Tasks:** 0 open, 0 completed
+- **No assignees or activity recorded**
+
+## Recent Activity
+None — project is archived. Last meaningful feedback from Beck (October 2026) identified process clarity gaps that remain unresolved.

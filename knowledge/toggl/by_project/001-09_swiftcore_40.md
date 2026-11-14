@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-13: 537.1 h total since 2020-01-01 — Ben Busby 475.0 h, Ethan Domagala 28.8 h, Stachura 17.6 h, Dan 12.2 h, Jack Elston 3.5 h._
+_Computed from Toggl as of 2026-11-14: 545.1 h total since 2020-01-01 — Ben Busby 483.0 h, Ethan Domagala 28.8 h, Stachura 17.6 h, Dan 12.2 h, Jack Elston 3.5 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,31 +6,31 @@ _Computed from Toggl as of 2026-11-13: 537.1 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 537.1 hours (all-time, since 2020-01-01)
+- **Total Hours Tracked:** 545.1 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 475.0 | 88.4% |
-| Ethan Domagala | 28.8 | 5.4% |
-| Stachura | 17.6 | 3.3% |
-| Dan | 12.2 | 2.3% |
-| Jack Elston | 3.5 | 0.7% |
+| Ben Busby | 483.0 | 88.6% |
+| Ethan Domagala | 28.8 | 5.3% |
+| Stachura | 17.6 | 3.2% |
+| Dan | 12.2 | 2.2% |
+| Jack Elston | 3.5 | 0.6% |
 
-**Primary Contributor:** Ben Busby (overwhelming majority of work)
+**Primary Contributor:** Ben Busby (nearly 9 of every 10 hours)
 
 ## Activity Timeline
-Recent activity shows renewed engagement from Stachura and Jack Elston:
+Recent work entries show ongoing activity with minimal documentation:
+- **Stachura:** 14.7 hours across 8 recent entries (mostly undescribed; likely core development)
+- **Ben Busby:** 8.0 hours across 4 recent entries (undescribed)
+- **Jack Elston:** 3.4 hours across 2 recent entries
+  - *New GCS Updates* (1.2h) — only described recent entry
 
-- **Stachura:** 8 recent entries totaling ~15.7 hours; mostly undocumented work with one exception
-- **Jack Elston:** 2 recent entries totaling 3.4 hours; one documented as "New GCS Updates"
-- **Last documented work:** GCS (Google Cloud Storage) updates by Jack Elston
-
-Most recent entries lack descriptions, suggesting either ongoing routine work or incomplete logging.
+**Pattern:** High frequency of short-to-medium sessions (0.4–5.2 hours) with sparse documentation.
 
 ## Insights
-- **Work Type:** Primary focus appears to be core SwiftCore 4.0 development, with recent GCS integration work
-- **Contribution Pattern:** Highly concentrated—Ben Busby drives ~88% of effort; project relies on single primary developer
-- **Recent Activity:** Uptick in Stachura involvement with mostly undescribed entries; GCS updates ongoing
-- **Documentation:** Recent entries lack meaningful descriptions, limiting visibility into current work focus
-- **IRAD Nature:** Non-billable IRAD (Internal Research & Development) project
+- **Dominant focus:** Ben Busby carries the project's primary workload, suggesting this is a core system under his ownership
+- **Secondary contributors:** Stachura shows recent increased activity (14.7h in recent batch); Ethan, Dan, and Jack provide support roles with minimal involvement
+- **Documentation gap:** 14 of 15 recent entries lack descriptions, limiting visibility into specific work types
+- **Known work:** GCS (Google Cloud Storage) updates are underway
+- **Project maturity:** Non-billable IRAD investment suggests internal R&D or infrastructure modernization for SwiftCore 4.0

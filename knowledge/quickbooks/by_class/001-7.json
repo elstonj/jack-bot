@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 207491.0,
+    "expenses": 210057.56,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 87070.52,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 89637.08,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
@@ -1094,6 +1094,42 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-10-29",
+      "doc_number": "",
+      "total": 292.25,
+      "attributed": 292.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FEDERAL EXPRESS TYPE DEBIT ID 1 FEDERAL EXPRESS TYPE DEBIT ID XXXXXX7007 CO FEDERAL EXPRESS NAME Black Swift Technologi",
+      "lines": [
+        {
+          "amount": 292.25,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment from NextVision to BST"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-28",
+      "doc_number": "",
+      "total": 1870.0,
+      "attributed": 1870.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PAYPAL TYPE PURCHASE ID PAYPALS PAYPAL TYPE PURCHASE ID PAYPALSI77 CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI",
+      "lines": [
+        {
+          "amount": 1870.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "PAYPAL TYPE PURCHASE  ID PAYPALS PAYPAL TYPE PURCHASE  ID PAYPALSI77  CO PAYPAL DATA INSTANT TRANSFER NAME BLACK SWIFT TECHNOLOGI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-27",
       "doc_number": "",
       "total": 18.55,
@@ -1158,6 +1194,42 @@
           "amount": 205.38,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Phase1 Shipment (9/29/26)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-17",
+      "doc_number": "",
+      "total": 196.75,
+      "attributed": 196.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 7333, not purchase order, requested by Josh Fromm",
+      "lines": [
+        {
+          "amount": 196.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "JAWSTEC - 7333 parts for S3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-10-16",
+      "doc_number": "",
+      "total": 207.56,
+      "attributed": 207.56,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "JAWSTEC - 7333",
+      "lines": [
+        {
+          "amount": 207.56,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "JAWSTEC - 7333"
         }
       ]
     },

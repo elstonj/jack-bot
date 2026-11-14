@@ -5,18 +5,19 @@
     "[001] Black Swift Technologies - IRAD:(001-1) IRAD- General"
   ],
   "period": {
-    "start": "2024-11-12",
-    "end": "2026-11-12"
+    "start": "2024-11-14",
+    "end": "2026-11-14"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 11304.66,
+    "expenses": 11641.39,
     "by_category": {
-      "Indirect Cost:Internal Research and DevelopmentX": 5287.91,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 3674.86,
+      "Indirect Cost:Internal Research and DevelopmentX": 5232.5,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 4030.0,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 2180.0,
       "Tariffs": 87.75,
       "Indirect Cost:TaxesX": 41.45,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 37.0,
       "Indirect Cost:Supplies:Shop SuppliesX": 12.99,
       "Indirect Cost:Office Expenses:Utilities Expense": 10.9,
       "Indirect Cost:Finance & Bank Charges": 8.8
@@ -62,6 +63,49 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "102912777",
+      "total": 392.14,
+      "attributed": 392.14000000000004,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future S3 sales",
+      "lines": [
+        {
+          "amount": 72.3,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESC: TEK-TRAY 18X11-3/8X1-3/4"
+        },
+        {
+          "amount": 113.75,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESC: TEK-TRAY 12 X 8-5/8 X 1-3/4"
+        },
+        {
+          "amount": 130.4,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESC: UART USB TO SERIAL"
+        },
+        {
+          "amount": 30.2,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "DESC: 2MM TERMINAL STRIP"
+        },
+        {
+          "amount": 37.0,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "Estimated Tariff Amount"
+        },
+        {
+          "amount": 8.49,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-08-10",
@@ -2272,34 +2316,6 @@
           "amount": 82.5,
           "account": "Indirect Cost:Internal Research and DevelopmentX",
           "description": "IRAD SO VTOL: batteries"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-13",
-      "doc_number": "",
-      "total": 77.46,
-      "attributed": 55.410000000000004,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 45.42,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "Antennas 2.4 GHZ x 3"
-        },
-        {
-          "amount": 22.05,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Thermostats single pixel"
-        },
-        {
-          "amount": 9.99,
-          "account": "Indirect Cost:Internal Research and DevelopmentX",
-          "description": "UPS 2nd day"
         }
       ]
     }

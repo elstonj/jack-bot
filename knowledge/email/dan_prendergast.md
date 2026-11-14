@@ -1,121 +1,128 @@
 # Dan Prendergast — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 46 emails (Nov 8–13, 2026)
-- **Date range:** Nov 8–13, 2026
-- **Approximate volume:** High activity sustained across 6 days; Nov 10 peak (11 messages), Nov 11 secondary peak (5 messages), Nov 12 elevated (5 messages); average ~7.7 messages/day
+- **Total messages scanned:** 57 emails (Nov 8–14, 2026)
+- **Date range:** Nov 8–14, 2026
+- **Approximate volume:** High activity sustained across 7 days; Nov 10 peak (11 messages), Nov 11 secondary peak (5 messages), Nov 12 elevated (5 messages), Nov 13–14 sustained (6 new messages); average ~8.1 messages/day
+- **Note:** New batch includes newsletter/automated traffic (Hertz, Asana, A&SF Daily Report); core work messages remain focused on government/coalition/corporate engagement
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — 6+ exchanges; continues as strategic forwarding partner on C4F APEX, ISOF Range 2027, navigation resilience, UCAS Budget, and Arctic Effort
-- **Jack Elston** (elstonj@blackswifttech.com) — 5+ exchanges; active forwarding partner on navigation resilience, RAVEN orientation, marine mammal monitoring, and Arctic Effort Engineering
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — Invoice/procurement routing (Step Global); marked IMPORTANT
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — 7+ exchanges; continues as strategic forwarding partner; now visible on UCAS Budget reply (Nov 13) and ERDC CRREL CSO Asana comment coordination
+- **Jack Elston** (elstonj@blackswifttech.com) — 6+ exchanges; active on site visit coordination (Dec 2025 planning, Nov 13), S0 UAS UI development (Joshua Wadler, ERAU, Nov 13, marked IMPORTANT), and forwarding to USAF contact Russell Evans
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — Invoice/procurement routing continues
 - **Ethan Domagala** (ethan.domagala@blackswifttech.com) — NASA Phase 2 project lead
-- **Maciej Stachura** (stachura@blackswifttech.com) — 4+ exchanges Nov 11; vendor communications and project coordination; Arctic Effort participant
+- **Maciej Stachura** (stachura@blackswifttech.com) — Arctic Effort participant
 - **Alex Lomis** (alex.lomis@blackswifttech.com) — Image-related exchanges
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — CC'd on UK MOD correspondence (FW: Flipper plate photos, Nov 12)
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — UK MOD correspondence
 
 ### Top External Contacts
 - **USSOCOM (U.S. Special Operations Command)** — **Primary government stakeholder**
-  - Michael C. Jagelewski (CIV) — FCL/DD254 compliance process (Nov 12, marked IMPORTANT)
+  - Zachary O. Kachel (MIL) — Direct correspondence on launch data (Nov 13, marked IMPORTANT); "(U) [Non-DoD Source] Data from Yesterday's Launch"
+  - Michael C. Jagelewski (CIV) — CC'd on Kachel data exchange (Nov 13, marked IMPORTANT)
   - Evan M. Wolff (MIL)
-  - Zachary O. Kachel (MIL)
-  - Subject line reference: "SOCOM Project Export" (Nov 11); "SOCOM Tech Update re Cameras" (Nov 12, Gemini note)
-- **L3Harris** — **New corporate partner**
-  - Michael Pallotta (Michael.Pallotta@l3harris.com) — ICMNDA_3442 (Nov 12, unread)
-  - L3Harris-CLMS NDA tracking system — Agreement NDA2026.CSD.0563 (Nov 12)
-- **Krateo Sky** — Vendor relationship
-  - Dipan (dipan@krateosky.com)
-  - Jed Leonard (jed@krateosky.com)
-- **Nextech Solutions** — **New program partner**
-  - Trenton McKibben (Trenton.McKibben@nextechsol.com) — "Arctic Effort Engineering Check-In" (Nov 12, marked IMPORTANT)
+- **USAF/AFLCMC** — **New/escalating contact**
+  - Russell E. Evans (CTR USAF AFMC AFLCMC/WLNE) — Site visit coordination (Nov 13, marked IMPORTANT); forwarded to Beck Cotter; "[Non-DoD Source] Re: Site visit December 2025"
+- **L3Harris** — Michael Pallotta (ICMNDA_3442 from prior period)
+- **Nextech Solutions** — Trenton McKibben (Arctic Effort Engineering)
 - **Arctic Effort coalition partners:**
   - Pegasus Aero (mmcroberts@pegasusaero.ca)
   - UAX Solutions (tim.johnston@uaxsolutions.co.uk, george.booth@uaxsolutions.co.uk)
-- **UK MOD** — RAVEN and MOD coordination
-  - Simon Laurence (Simon.Laurence157@mod.gov.uk) — "Flipper plate photos" forwarded to Joshua Fromm (Nov 12, marked IMPORTANT)
-  - Scott Hammond (Scott.Hammond107@mod.gov.uk) — RAVEN program
-- **Covar** — LWIR sensor integration (Pete Torrione, Joe Camilo)
-- **UMES** — S3 delivery and training (Christopher Hartman)
-- **Bartington** — Magnetic sensor board (Tom Simcox)
-- **E. Kase Consulting** — Marine mammal monitoring
-- **UCAS / NCAS partnership** — Sarah Barr (sarah.barr@ncas.ac.uk) — Budget update (Nov 12, marked IMPORTANT)
-- **Winmate** — Newsletter/vendor outreach (Nov 13, unread)
+- **UK MOD** — Simon Laurence, Scott Hammond (RAVEN)
+- **UCAS/NCAS partnership** — Sarah Barr (sarah.barr@ncas.ac.uk) — Budget update continued (Beck Cotter reply, Nov 13, marked IMPORTANT)
+- **Embry-Riddle Aeronautical University (ERAU)** — **New academic contact**
+  - Joshua Wadler (WADLERJ@erau.edu) — S0 UAS UI development coordination (Jack Elston, Nov 13, marked IMPORTANT)
+- **ModalAI, Inc.** — Form submission response (Nov 13); **potential new vendor/technology partner**
+  - contact@modalai.com
+- **Krateo Sky** — Dipan, Jed Leonard
+- **Covar, Bartington, E. Kase Consulting, UMES** — Sustained technical relationships
+- **Hertz** — Marketing/promotional (Nov 13, unread)
+- **A&SF (Air & Space Forces Magazine)** — Newsletter/automated news (Nov 14, unread)
 
 ### External vs Internal
-- Sustained ~35% internal BST, ~65% external government/vendor/partner correspondence
-- **New corporate relationships:** L3Harris (Nov 12); elevated vendor engagement through Nextech Solutions
-- **Expanding coalition:** Arctic Effort multiparty coordination (Nextech, Pegasus Aero, UAX Solutions)
+- Sustained ~35% internal BST, ~65% external government/vendor/partner/academic correspondence
+- **New government relationships:** USAF/AFLCMC (Russell Evans, Nov 13); escalating DoD footprint (SOCOM + USAF)
+- **New academic partnership:** ERAU (Joshua Wadler, S0 UAS UI, Nov 13)
+- **Expanding technology vendor engagement:** ModalAI contact (Nov 13)
+- **Ongoing coalition:** Arctic Effort, UCAS/NCAS, RAVEN, SOCOM
 
 ## Topic Patterns
 
 ### Active Programs/Clients
-- **USSOCOM (Special Operations Command)** — Primary; escalating compliance focus (FCL/DD254 process, Nov 12, marked IMPORTANT)
-- **SOCOM Tech initiatives** — "SOCOM Tech Update re Cameras" (Nov 12, Gemini note) indicates active technology discussion
+- **USSOCOM** — **Escalating technical engagement** — Direct data exchange on launch event (Nov 13, marked IMPORTANT); "(U) [Non-DoD Source] Data from Yesterday's Launch" suggests active test/operational event with real-time coordination
+- **USAF/AFLCMC** — **New military customer** — Site visit planned Dec 2025 (Nov 13, marked IMPORTANT); indicates new procurement or program partnership with Air Force Materiel Command
 - **C4F APEX** — Strategic priority continues
 - **ISOF Range 2027** — Ongoing
-- **RAVEN** — UK MOD program; "Flipper plate photos" documentation (Nov 12, marked IMPORTANT) indicates active technical/operational work
+- **RAVEN** — UK MOD program; continues via Jack Elston forwarding
 - **S3 delivery and training** — UMES partnership ongoing
 - **NASA Phase 2** — Internal collaboration continues
-- **Navigation resilience** — Systems-level focus continues
-- **Arctic Effort** — **New/escalating program** (Nov 12, marked IMPORTANT); multiparty engineering coordination (Nextech Solutions, Pegasus Aero, UAX Solutions, Beck Cotter, Jack Elston, Maciej Stachura)
-- **UCAS Budget update** — Partnership with NCAS (Sarah Barr); marked IMPORTANT (Nov 12)
-- **Marine mammal monitoring** — Continued (E. Kase Consulting, Jack Elston)
+- **Arctic Effort** — Multiparty engineering coordination sustained
+- **UCAS Budget** — Partnership with NCAS (Sarah Barr); Beck Cotter engagement (Nov 13, marked IMPORTANT)
+- **Marine mammal monitoring** — Continued
+- **ERDC CRREL CSO** — New/elevated project (Beck Cotter Asana comment coordination, Nov 13); likely Cold Regions Research & Engineering Laboratory collaboration
+- **S0 UAS UI development** — **New technical initiative** (ERAU partnership, Joshua Wadler, Nov 13, marked IMPORTANT); indicates unmanned system software/interface work
 
 ### Technical Topics
-- **Cameras/imaging systems** — SOCOM focus (Nov 12 Gemini note)
-- **LWIR sensors** — Radiometric specifications (Covar)
-- **Magnetic sensor boards** — Bartington supplier active
-- **Marine mammal monitoring** — Ongoing technical area
-- **Flipper plate** — UK MOD technical documentation (Nov 12)
+- **Launch/flight operations** — SOCOM data exchange (Nov 13, marked IMPORTANT); suggests active aerial platform testing or deployment
+- **UAS (Unmanned Aerial Systems) UI** — S0 system interface development with ERAU (Nov 13, marked IMPORTANT)
+- **Cold regions** — ERDC CRREL CSO (Nov 13) suggests Arctic/polar environment focus
+- **Cameras/imaging systems** — Continues from prior period
+- **LWIR sensors, magnetic sensors** — Continues
+- **Marine mammal monitoring** — Continues
+- **Data collection and transmission** — Launch event data coordination (Nov 13)
 
 ### Compliance/Administrative
-- **FCL/DD254 Process** — USSOCOM compliance; marked IMPORTANT (Nov 12, 20:29 UTC); indicates contract/security clearance procedures
-- **L3Harris NDA tracking** — Agreement NDA2026.CSD.0563 sent for review (Nov 12)
-- **ICMNDA_3442** — L3Harris confidential agreement (Nov 12, unread)
-- **Procurement/contracting:** Elevated activity with legal and administrative oversight
-- **Step Global Pty Ltd invoicing** — Continues through Meredith Needham
+- **FCL/DD254 process** — USSOCOM compliance from prior period
+- **L3Harris NDA tracking** — Continues
+- **Site visit coordination** — USAF/AFLCMC Dec 2025 planning (Nov 13, marked IMPORTANT)
+- **Form submission handling** — ModalAI contact (Nov 13); vendor inquiry/response process
+- **Asana project management** — Automated notifications on ERDC CRREL CSO comment (Nov 13)
 
 ## Communication Patterns
 
-- **Sustained high activity:** Nov 12 shows 5 messages; maintains engagement cadence from prior peaks
-- **Forwarding behavior:** Beck Cotter and Jack Elston remain active partners; now visible in multiparty coalitions (Arctic Effort, UCAS)
-- **Compliance documentation:** Direct USSOCOM correspondence on FCL/DD254; L3Harris NDA system engagement (Nov 12)
-- **Multiparty coordination:** Arctic Effort email (Nov 12) includes 6+ external parties (Nextech, Pegasus, UAX, etc.), indicating complex program structure
-- **Gemini note-taking:** Automated note capture ("SOCOM Tech Update re Cameras") suggests meeting/discussion summary workflow
-- **Newsletter/automated traffic:** Winmate promotional (Nov 13); L3Harris automated NDA notifications; these filter from core work
-- **UK MOD operational:** "Flipper plate photos" forwarded to Joshua Fromm (Nov 12) suggests active field/technical coordination
-- **Time zones:** PDT (-0700), UTC (+0000), and UK GMT evident; international coordination sustained
+- **Sustained high activity:** Nov 13 shows 6 messages; maintains engagement cadence from prior peaks
+- **Forwarding behavior:** Jack Elston now forwarding to external USAF contact (Russell Evans); Beck Cotter continues strategic coordination
+- **Real-time operational coordination:** SOCOM data exchange (Nov 13, marked IMPORTANT) indicates live event coordination or test result handoff
+- **Military/government escalation:** USAF site visit (Dec 2025) and SOCOM launch data suggest formal program engagement phase
+- **Multiprogram management:** Nov 13 shows simultaneous coordination across SOCOM (operational data), USAF (site visit), UCAS (budget), ERDC (CSO), and S0 UAS (UI) — portfolio management at scale
+- **Academic partnership development:** ERAU engagement (Joshua Wadler) on UAS UI; suggests technology transfer or collaborative development
+- **Vendor engagement queue:** ModalAI form submission response (Nov 13); indicates systematic vendor/technology evaluation process
+- **Newsletter/automated traffic:** Hertz promotional (Nov 13, unread), A&SF Daily Report (Nov 14, unread), Asana notifications (Nov 14); these filter from core work
+- **Time zones:** PDT (-0700), UTC (+0000), and UK GMT evident; international and DoD coordination sustained
+- **[Non-DoD Source] markings:** SOCOM and USAF correspondence use "[Non-DoD Source]" label convention; indicates unclassified/non-sensitive communication channel with possible external partner or contractor visibility
 
 ## Key Relationships
 
 ### Closest Collaborators (by frequency and recency)
-1. **USSOCOM team (Jagelewski, Wolff, Kachel)** — Primary government engagement; escalating to compliance/contract level (FCL/DD254, Nov 12, marked IMPORTANT)
-2. **Beck Cotter (BST)** — Strategic coordinator; now visible on UCAS Budget and Arctic Effort
-3. **Jack Elston (BST)** — Active partner on Arctic Effort, navigation resilience, RAVEN, marine mammal monitoring
-4. **Maciej Stachura (BST)** — Arctic Effort participant; vendor/operations coordination
-5. **Trenton McKibben (Nextech Solutions)** — **New strategic contact**; leading Arctic Effort Engineering Check-In (marked IMPORTANT, Nov 12)
-6. **L3Harris partnership** — Michael Pallotta and CLMS NDA system; new corporate relationship emerging (Nov 12)
+1. **SOCOM team (Kachel, Jagelewski)** — **Elevated to operational level**; direct data exchange on launch event (Nov 13, marked IMPORTANT); moving beyond compliance to active technology/platform coordination
+2. **USAF/AFLCMC (Russell Evans)** — **New strategic military contact**; site visit scheduling (Dec 2025, Nov 13, marked IMPORTANT); indicates new procurement channel
+3. **Jack Elston (BST)** — Continues as primary forward partner; now coordinating with USAF and academic partners (ERAU)
+4. **Beck Cotter (BST)** — Strategic coordinator; elevated to UCAS Budget engagement and ERDC CRREL CSO project management
+5. **Joshua Wadler (ERAU)** — **New academic collaborator**; S0 UAS UI development (Nov 13, marked IMPORTANT)
+6. **Trenton McKibben (Nextech Solutions)** — Arctic Effort Engineering partner
 
 ### External Relationships (Strategic Importance)
-- **USSOCOM** — Highest priority; escalating to legal/compliance phase (FCL/DD254)
-- **L3Harris** — **New strategic partner**; NDA and confidential agreement active (Nov 12)
-- **Nextech Solutions / Arctic Effort coalition** — **Elevated importance** (marked IMPORTANT); multiparty engineering program with Pegasus Aero, UAX Solutions
-- **UK MOD** — Active technical coordination (RAVEN, flipper plate documentation)
-- **UMES (Christopher Hartman)** — S3 delivery partner
-- **UCAS/NCAS (Sarah Barr)** — Budget partnership (marked IMPORTANT, Nov 12)
-- **Covar, Bartington, E. Kase Consulting** — Sustained technical relationships
+- **SOCOM** — Highest priority; escalated to operational/data exchange phase (Nov 13, marked IMPORTANT)
+- **USAF/AFLCMC** — **New primary military stakeholder**; site visit scheduling (Dec 2025); formal program engagement phase
+- **ERAU (Joshua Wadler)** — **New academic partnership**; technology development (S0 UAS UI, Nov 13, marked IMPORTANT)
+- **L3Harris** — Corporate partner; NDA/agreement tracking continues
+- **Nextech Solutions / Arctic Effort coalition** — Multiparty engineering program
+- **UCAS/NCAS (Sarah Barr)** — Budget partnership (Nov 13, marked IMPORTANT)
+- **ERDC CRREL** — Cold regions research partnership (CSO project, Nov 13)
+- **ModalAI** — **Potential new vendor/technology partner**; form submission engagement (Nov 13)
+- **UK MOD** — RAVEN coordination continues
+- **Covar, Bartington, E. Kase Consulting, UMES** — Sustained technical relationships
 
 ## Notable Observations
 
-- **L3Harris engagement:** New corporate relationship emergent (Nov 12); ICMNDA_3442 confidential agreement + NDA2026.CSD.0563 system entry suggests either prime contractor expansion, subcontracting relationship, or technology licensing arrangement
-- **Arctic Effort escalation:** Marked IMPORTANT (Nov 12); multiparty structure (Nextech Solutions lead, Pegasus Aero, UAX Solutions) indicates coordinated international or coalition effort; possibly NATO/allied program given UK MOD parallel activity
-- **USSOCOM compliance focus:** FCL (Foreign Commercial License) / DD254 (Facility Security Clearance) process (Nov 12, marked IMPORTANT) signals contract preparation or security vetting phase; suggests SOCOM relationship moving toward formal procurement
-- **SOCOM camera initiative:** Gemini note capture ("SOCOM Tech Update re Cameras", Nov 12) indicates active technology discussion or requirements refinement; may relate to imaging systems or sensor integration
-- **UK MOD technical ops:** "Flipper plate photos" (Nov 12, marked IMPORTANT) forwarded to Joshua Fromm suggests active field testing, environmental testing, or marine platform work
-- **UCAS budget coordination:** Partnership with UK academic/research organization (NCAS); marked IMPORTANT (Nov 12); may indicate research funding, sensor validation, or climate/environmental monitoring application
-- **Joshua Fromm visibility:** Appearing on UK MOD correspondence forwarding suggests operational or technical liaison role in RAVEN or related programs
-- **Multiprogram coordination:** Nov 12 shows simultaneous engagement across SOCOM (compliance), Arctic Effort (engineering), UCAS (budget), RAVEN (ops), and L3Harris (legal/corporate) — indicates high-level portfolio management
-- **Weekend/non-business activity:** Winmate newsletter (Nov 13, unread) filters as noise; core correspondence remains government/coalition/corporate focused
-- **Unread compliance docs:** L3Harris ICMNDA_3442 and Winmate marked unread; suggests priority filtering or queue backlog on corporate agreements
+- **SOCOM operational escalation:** Direct data exchange "(U) [Non-DoD Source] Data from Yesterday's Launch" (Nov 13, marked IMPORTANT) indicates active aerial platform testing, deployment, or operational event; "[Non-DoD Source]" marking suggests contractor/BST platform involvement with government operator coordination
+- **USAF/AFLCMC new military customer:** Site visit planned Dec 2025 (Nov 13, marked IMPORTANT); Russell Evans (AFLCMC/WLNE = Weapons Capability Integration Team) suggests weapons/capability integration or procurement discussion; indicates BST expanding beyond SOCOM into broader Air Force customer base
+- **ERDC CRREL CSO coordination:** New project visible via Asana (Nov 13); CRREL = Cold Regions Research & Engineering Laboratory; CSO likely "Collaborative Science and Operations"; suggests Arctic/polar environment research partnership, possibly aligned with Arctic Effort program
+- **ERAU UAS UI development:** Joshua Wadler (ERAU) collaboration on S0 UAS system interface (Nov 13, marked IMPORTANT); S0 = likely BST sensor platform designation; academic partnership suggests technology transfer, training development, or joint development initiative
+- **ModalAI engagement:** Form submission response (Nov 13); ModalAI specializes in autonomous systems and flight control; indicates potential drone autopilot, flight stack, or autonomous capability integration
+- **Portfolio concentration:** Nov 13 shows simultaneous SOCOM (operational), USAF (procurement), UCAS (budget), ERDC (research), and ERAU (development) engagement — high-level program management across government, military, research, and academic sectors
+- **[Non-DoD Source] convention:** Site visit and data exchange use "[Non-DoD Source]" label; BST may be managing contractor or ally communications in unclassified channel; suggests potential international or allied partner involvement in programs
+- **Dec 2025 site visit:** Four months out planning indicates formal procurement/evaluation process; suggests potential contract award or capability demonstration phase for USAF
+- **Unread newsletters:** A&SF (Air & Space Forces Magazine) newsletter (Nov 14, unread) suggests industry monitoring; Hertz promotional (Nov 13, unread) appears as personal/general mail
+- **Asana project management:** ERDC CRREL CSO tracked in Asana (Nov 13 comment notification); indicates formal project structure and collaborative team coordination
