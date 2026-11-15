@@ -1883,5 +1883,44 @@
     "notes": "Refund processed via PayPal",
     "date": "2026-11-13",
     "subject": "Your refund from Kipps Hobbies is on the way"
+  },
+  {
+    "id": "1a1db713dd743f26",
+    "is_purchase": true,
+    "status": "received",
+    "amount_usd": 26.99,
+    "vendor": "Amazon.com",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Safety Eyewear",
+    "notes": null,
+    "date": "2026-11-14",
+    "subject": "Shipped 1 item: Safety Eyewear"
+  },
+  {
+    "id": "1a1da729a56b58a9",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery digest \u2014 no purchase content",
+    "date": "2026-11-14",
+    "subject": "Your Daily Digest for Sat, 11/14 is ready to view"
+  },
+  {
+    "id": "1a1d9f933c956221",
+    "is_purchase": true,
+    "status": "invoiced",
+    "amount_usd": 45.8,
+    "vendor": "General Air Service and Supply",
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Payment confirmation for invoice 97880335-1; ACH payment via account xxxx1071",
+    "date": "2026-11-14",
+    "subject": "10099275 BLACK SWIFT TECHNOLOGIES LLC Payment Confirmation"
   }
 ]

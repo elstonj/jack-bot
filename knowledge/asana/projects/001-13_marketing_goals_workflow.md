@@ -1,30 +1,32 @@
-_Asana snapshot as of 2026-11-14: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-15: 0 open tasks, 0 completed (last 90 days)._
 
-# Marketing Goals Workflow [001-13]
+# [001-13] Marketing Goals Workflow
+
+## Status
+**ARCHIVED** — Project contains 0 open and 0 completed tasks. This is a template project with no active work.
 
 ## Overview
-- **Project Type:** Goal management template / internal process
-- **Status:** ARCHIVED (no open or completed tasks)
-- **Team:** Black Swift Technologies (Whole Team)
-- **Timeline:** No tasks or dates recorded
-- **Client:** Internal BST process template
+- **Type**: Template/Process documentation
+- **Purpose**: Goal management workflow for BST organization
+- **Scope**: Brainstorm, draft, and approve goals using Asana forms and automated task creation
+- **Team**: BST (Whole Team)
+- **Activity**: No active tasks
 
-## Key Notes
-This is an Asana template project for goal management workflows, not an active client engagement or deliverable project. It appears to be archived and contains no active tasks.
+## Key Context
+This is a **workflow template** designed to guide goal management processes through brainstorming, drafting, and approval stages. It includes:
+- Asana form integration for goal draft creation
+- Automated task and reminder generation
+- Goal approval workflow
 
-### Unresolved Process Issue
-**Beck flagged workflow ambiguity (2026-10-19 & 10-20):**
+## Outstanding Items
+**Per Beck (2026-10-20, 2026-10-19)**: Workflow clarity needed on:
 > "there's still not a clear workflow of who enters what based on X criteria or change and it doesn't address other platform tracking/builds"
 
-This indicates the goal management workflow lacks:
-- Clear role/responsibility assignments for data entry based on criteria or changes
-- Integration with other platform tracking and build systems
+**Action needed**: Discussion required to define:
+- Clear role/criteria for data entry responsibilities
+- Integration with other platform tracking and build processes
+- Decision points for goal transitions through the workflow
 
-**Status:** Discussion needed to clarify workflow ownership and cross-platform tracking integration.
+---
 
-## Task Summary
-- **Total Tasks:** 0 open, 0 completed
-- **No assignees or activity recorded**
-
-## Recent Activity
-None — project is archived. Last meaningful feedback from Beck (October 2026) identified process clarity gaps that remain unresolved.
+**Note**: This is a template/framework project rather than an active delivery project. Real goal tracking work would spawn from this template.

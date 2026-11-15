@@ -1,352 +1,331 @@
-# Jack Elston — Email Patterns (UPDATED Nov 8)
+# Jack Elston — Email Patterns (UPDATED Nov 15)
 
 ## Communication Volume
-- **Total messages scanned**: 268 emails (251 previous + 17 new data)
-- **Date range**: 24 Oct – 8 Nov 2026 (15 days)
-- **Approximate volume**: 12–18 emails per day (sustained through weekend; Nov 7–8 shows continued activity)
-- **Trend**: Hardware finalization cycle continues with new signal on **Navy Phase I contract negotiation (Marco Pretorius/WorkflowIntel)** and **emerging academic/research partnerships (Jason Voiovich research inquiry)**; infrastructure billing cycle (Slack, Vercel, Google Business Profile, HSA/benefits); internal compliance documentation (Rippling); external business development maintaining momentum (Jane Brown/Tauchinu.co hurricane monitoring follow-up)
+- **Total messages scanned**: 281 emails (268 previous + 13 new data)
+- **Date range**: 24 Oct – 15 Nov 2026 (22 days)
+- **Approximate volume**: 12–18 emails per day (sustained through weekends; Nov 14–15 shows continued activity)
+- **Trend**: Hardware finalization accelerating (Frank Strazzabosco firmware variants Nov 14: TLVM13610RDFR + Core2 v04 IMPORTANT flags); federal contract negotiation momentum (Navy Phase I); commercial partnerships building; CFO/business operations consulting outreach (Andrew Jenkins/TheSteadyCFO); recruiting inquiry (David Butler/Venn Search); infrastructure billing cycle continuing (Rippling, Metropolis parking, USPS); procurement activity (Amazon safety equipment, General Air payment)
 
 ## Key Correspondents
 
-### Top Senders (Updated with New Data Nov 7–8)
+### Top Senders (Updated with Nov 14–15 Window)
 
-1. **Frank Strazzabosco (Microfirm)** — **SUSTAINED CRITICAL SUPPLIER** 
-   - Status: Prior 17 emails Oct 31 – Nov 2 (IMPORTANT firmware/PCB coordination)
-   - No new signal in Nov 7–8 window (firmware iteration cycle may be pausing or transitioning to testing phase)
-   - Implication: Hardware delivery/testing likely in progress; Frank/John Luo supply chain coordination may have completed first phase
+1. **Frank Strazzabosco (Microfirm)** — **CRITICAL SUPPLIER — TIER 1 SUSTAINED**
+   - **New signal Nov 14–15 (2 IMPORTANT emails)**:
+     - **core2 v04** (Nov 14 02:33:44 UTC, IMPORTANT) — firmware iteration variant
+     - **TLVM13610RDFR** (Nov 14 13:12:13 PDT, IMPORTANT) — component codename/part number (likey IC/microcontroller or RF module)
+   - **Recipients**: Jack Elston + Sam Hild (engineer) + Ali Sulehria (engineer)
+   - **Status**: Hardware finalization cycle continuing with parallel firmware/component iterations
+   - **Implication**: 
+     - Multiple firmware variants (Core2 v04, PSNS v1.6, Core 29b variants) in concurrent development/testing
+     - TLVM13610RDFR component suggests RF/wireless component procurement or validation (part number format suggests TI/Texas Instruments microcontroller or RF IC)
+     - Team coordination (Jack + Sam + Ali) on critical firmware/component issues
+   - **Timeline**: Hardware delivery window (Nov 15 – Dec 15) entering final testing/validation phase
 
-2. **Marco Pretorius (WorkflowIntel)** — **NEW STRATEGIC CONTACT — NAVY CONTRACT**
-   - **Contact**: marco.pretorius@getworkflowintel.com
-   - **Scope**: "Re: Navy Phase I at Black Swift" (Nov 8 10:47 UTC, IMPORTANT flag)
-   - **Significance**: Navy Phase I contract negotiation or proposal feedback
-   - **WorkflowIntel role**: Likely government contracting consultant or proposal support firm (similar to BidwellNow model)
-   - **Strategic**: Confirms Black Swift pursuing DON/Navy contracts; potential Phase I SBIR or direct procurement
-   - **Timing**: Earlier discussion initiated; Nov 8 response suggests active negotiation/feedback cycle
-   - **Implication**: Diversified federal funding pipeline now includes SBA SBIR (BidwellNow), NASA research, **and Navy direct contracts (WorkflowIntel)**
+2. **Andrew Jenkins (TheSteadyCFO)** — **NEW BUSINESS OPERATIONS CONSULTANT**
+   - **Contact**: andrewjenkins@thesteadycfo.com
+   - **Email**: Nov 14 22:39:19 UTC (UNREAD, IMPORTANT flag)
+   - **Subject**: "Black Swift Technologies: a budget built for growth"
+   - **Significance**: CFO/business operations consulting outreach
+   - **TheStedyCFO**: Financial planning, budgeting, and business operations consulting firm
+   - **Implication**: 
+     - Black Swift likely evaluating CFO consulting or fractional CFO services
+     - Budget planning for growth phase (post-hardware delivery, post-federal contracts)
+     - Potential preparation for Series A fundraising or revenue scaling
+   - **Status**: Cold outreach/warm lead inquiry; Jack likely evaluating services
 
-3. **Jane Brown (Tauchinu.co)** — **NEW COMMERCIAL PARTNER — HURRICANE MONITORING FOLLOW-UP**
-   - **Contact**: janebrown@tauchinu.co
-   - **Email to**: elston@bst.aero (customer-facing domain)
-   - **Scope**: "RE: Black Swift Technologies" (Nov 7 22:58 UTC, IMPORTANT flag)
-   - **Significance**: Follow-up on prior business inquiry; likely related to FortemExpo hurricane monitoring opportunity from Nov 1
-   - **Tauchinu.co**: Appears to be weather/climate tech company or disaster response platform
-   - **Pattern**: Represents second wave of commercial inquiry regarding Black Swift UAS capabilities for monitoring/data services
-   - **Status**: Active business development discussion; Jane Brown responding with interest/proposal evaluation
+3. **David Butler (Venn Search Recruiter)** — **NEW RECRUITING INQUIRY**
+   - **Contact**: davidb04@vennsearchrecruiter.com
+   - **Email**: Nov 14 17:34:17 UTC (UNREAD, IMPORTANT flag)
+   - **Subject**: "Black Swift Technologies no pressure recruiting question"
+   - **Significance**: Executive recruiting inquiry (likely for senior technical or operations role)
+   - **Venn Search**: Executive search/recruiting firm
+   - **Implication**: 
+     - Black Swift likely recruiting for senior engineering, operations, or business development role
+     - Market-driven outreach from recruiter; suggests BST visibility as growth-stage company
+     - Jack directly copied; Jack likely involved in hiring decisions
+   - **Status**: Recruiting inquiry; Jack evaluating talent/hiring needs
 
-4. **Daniel Prendergast (BST Internal)** — **NEW INTERNAL COORDINATION SIGNAL**
-   - **Contact**: daniel.prendergast@blackswifttech.com
-   - **Scope**: 
-     - Fwd: EarthX reception invitation (Nov 7 17:38 UTC, IMPORTANT) — copied to Jack Elston + Maciej Stachura
-     - Re: CoVar Business Discussion (Nov 7 18:04 UTC, IMPORTANT) — coordination with Joe Camilo (covar.com) regarding Oct 30 meeting follow-up
-   - **Significance**: Daniel Prendergast acting as business development/partnership coordinator; orchestrating executive-level meetings and industry events
-   - **Scope**: 
-     - **EarthX reception** (Nov 7, Boulder/Denver) — likely environmental/climate tech industry event
-     - **CoVar Business Discussion** (Oct 30 meeting follow-up; Joe Camilo covar.com) — existing business partnership or procurement discussion
-   - **Relationship**: Jack copied on internal forwarding/coordination; suggests Jack oversight or awareness of partnership activities
-   - **Implication**: BST has dedicated business development/partnership team (Daniel Prendergast) managing external meetings, event attendance, and partnership coordination
+4. **Marco Pretorius (WorkflowIntel)** — **NAVY PHASE I CONTRACT PARTNER — TIER 1 STRATEGIC**
+   - **Status**: Prior Nov 8 (10:47 UTC) Navy Phase I contract response
+   - **Continuation**: No new signal Nov 14–15, but Navy Phase I negotiation likely continuing in parallel communications (Slack, phone)
+   - **Significance**: Navy contract diversification maintained
 
-5. **Automated/Institutional** (9 new: Slack plan renewal, Academia.edu paper views, Vercel invoice, Rippling compliance docs, Google Business Profile, HSA/benefits, Deel login security, First Line Capital financing offer)
-   - **Infrastructure billing cycle**: Slack, Vercel, Google Workspace continuing (cloud/communications platform expansion)
-   - **Academic signal**: Academia.edu paper readership (Jack maintains academic/research profile; papers circulating internationally)
-   - **Compliance/HR**: Rippling sending document download reminder to entire leadership team + external accountants (year-end tax/compliance documentation)
-   - **Benefits administration**: Elevate HSA (Health Savings Account) changes — standard employee benefits notification
-   - **Payment processing security**: Deel multiple login alerts (Nov 7 14:51, 14:55 UTC) — security/access verification
-   - **Financing offer**: First Line Capital solicitation Nov 7 (likely automated marketing, low signal)
+5. **Automated/Institutional** (6 new: Rippling compliance documents, Metropolis parking payment, Amazon safety eyewear shipment, USPS Informed Delivery, General Air payment confirmation, Boulder Gift Card promotion, OST Global Solutions marketing)
+   - **Infrastructure billing/operations**: Rippling (compliance documents reminder — continued Nov 14), Metropolis parking (operational expense), USPS (shipping/logistics), General Air (aviation supply vendor payment — likely aircraft parts or maintenance)
+   - **Procurement**: Amazon safety eyewear (employee safety equipment)
+   - **Marketing outreach**: OST Global Solutions (pipeline intelligence/government contracting consulting — likely low signal)
+   - **Recruiting/Advisory**: Venn Search, TheSteadyCFO (both unsolicited warm outreach)
 
-### Email Address Usage Pattern (Confirmed Three-Domain Active — Continued Segregation)
-- **`elstonj@blackswifttech.com`** — Primary technical/government/internal (hardware, federal contracting, compliance, infrastructure)
-- **`elston@bst.aero`** — Commercial/external business development (FortemExpo inquiry Oct 31; Tauchinu.co hurricane monitoring follow-up Nov 7; Jason Voiovich research inquiry Nov 7)
-  - **Pattern confirmed**: bst.aero now established as customer-facing/commercial domain for unsolicited business inquiries and commercial partnerships
-  - **Traffic**: 3 important external inquiries now on bst.aero (FortemExpo/Brandon Joy, Tauchinu.co/Jane Brown, Jason Voiovich research)
-  - **Implication**: Marketing/external circulation successfully positioning bst.aero as commercial entry point; separating government/technical traffic (blackswifttech.com) from business development (bst.aero)
+### Email Address Usage Pattern (Confirmed — Three-Domain Active)
+- **`elstonj@blackswifttech.com`** — Primary technical/government/internal/recruiting (firmware from Frank, CFO consulting, recruiting inquiry, compliance documents, internal drafts)
+- **`elston@bst.aero`** — Commercial/business development (Metropolis parking payment notification routing)
+- **Domain segregation**: Technical/internal traffic concentrated on blackswifttech.com; external business development on bst.aero; parking/operational payments routed to bst.aero domain (suggesting vendor billing consolidation)
 
 ### Internal vs External Breakdown (Refined)
-- **Automated/Institutional**: ~20% (infrastructure, compliance, benefits)
-- **Internal human contacts**: ~26% (Daniel Prendergast business coordination; Tim Hegwood HR/compliance)
-- **External human contacts**: ~54% (Frank Strazzabosco firmware, John Luo/FastTurn PCBs, Marco Pretorius Navy contracts, Jane Brown commercial partnerships, Jason Voiovich research)
+- **Automated/Institutional**: ~25% (infrastructure, compliance, procurement, billing)
+- **Internal human contacts**: ~18% (Frank Strazzabosco firmware coordination with Sam Hild + Ali Sulehria; Jack forwarding internally to Meredith Needham, Cory Dixon)
+- **External human contacts**: ~57% (Andrew Jenkins CFO consulting, David Butler recruiting, Marco Pretorius Navy contracts, Jane Brown commercial, Jason Voiovich research, etc.)
 
 ## Topic Patterns
 
-### Active Projects & Codenames (Nov 7–8 Window — Sustained)
+### Active Projects & Codenames (Nov 14–15 Window — Accelerating Hardware Phase)
 
-**TIER 1 — HARDWARE FINALIZATION (Momentum Continues)**
+**TIER 1 — HARDWARE FINALIZATION (Acceleration Confirmed)**
 
-- **PSNS v1.6, Core 29b, PSNS v0.37, Core2 v.04 Firmware** — No new direct signal Nov 7–8
-  - **Status**: Prior critical iteration (Oct 31 – Nov 2) appears to have paused or moved to testing phase
-  - **Implication**: PCB fabrication cycle (Oct 31 – Nov 2) likely complete; components now in testing/integration
-  - **Expected deliverable**: Hardware delivery window Nov 15 – Dec 15 2026 (based on prior $1,670.55 PCB order payment timing)
-  - **Absence of signal**: Suggests either:
-    - Firmware iteration cycle concluded; components now under test
-    - Frank Strazzabosco managing testing in parallel; not copying Jack on routine iterations
-    - Potential issue requiring offline resolution (phone/Slack)
+- **Core2 v04 Firmware** — **NEW CRITICAL ITERATION**
+  - **Frank Strazzabosco** (Nov 14 02:33:44 UTC, IMPORTANT) — core2 v04 firmware update
+  - **Recipients**: Jack + Sam Hild (engineer) + Ali Sulehria (engineer)
+  - **Significance**: Latest firmware variant in Core2 hardware family; likely addressing testing/integration issues from prior iterations
+  - **Pattern**: Parallel firmware iterations (Core 29b, PSNS variants, Core2 v04) progressing simultaneously
+  - **Implication**: Testing phase in full progress; multiple hardware variants in validation pipeline
+  - **Status**: **ACTIVE TESTING/FINALIZATION — hardware variants converging toward delivery window (Nov 15 – Dec 15)**
 
-**TIER 2 — NAVY PHASE I CONTRACT (NEW PRIORITY)**
+- **TLVM13610RDFR Component** — **NEW COMPONENT CODENAME**
+  - **Frank Strazzabosco** (Nov 14 13:12:13 PDT, IMPORTANT) — "TLVM13610RDFR" component update
+  - **Recipients**: Jack + Sam Hild + Ali Sulehria
+  - **Component analysis**: Part number format suggests **Texas Instruments (TI) part** (TLVM = TI low-voltage module; likely power management IC or RF module)
+  - **Significance**: Critical component validation or supply chain issue resolution
+  - **Pattern**: Hardware finalization requiring precision component selection/validation
+  - **Implication**: RF/wireless or power management subsystem requiring supplier/component validation
+  - **Status**: Component finalization in progress
 
-- **Navy Phase I Program** — **NEW TIER 1 SIGNAL**
-  - **Marco Pretorius (WorkflowIntel)** response Nov 8 10:47 UTC (IMPORTANT flag)
-  - **Subject**: "Re: Navy Phase I at Black Swift"
-  - **Significance**: Formal Navy contract negotiation or Phase I proposal advancement
-  - **WorkflowIntel role**: Government contracting consulting (proposal support, compliance, business development)
-  - **Program structure**: Navy Phase I = SBIR Phase I or direct R&D contract (~$50K–$150K, 6 months)
-  - **Strategic**: Diversifies federal revenue away from SBA SBIR (BidwellNow) and NASA research
-  - **Implication**: **Black Swift is now pursuing simultaneous federal funding paths: SBA SBIR Phase III (commercialization), NASA research (validation), Navy Phase I (new contract)**
-  - **Timing**: Inquiry received Nov 8 morning; suggests active proposal/negotiation cycle underway
-  - **Status**: **ACTIVE PURSUIT — formal Navy contract engagement likely with proposal/negotiation target Dec 2026 – Jan 2027**
+- **Prior firmware variants continuing**:
+  - PSNS v1.6, Core 29b, PSNS v0.37 — No new direct signal Nov 14–15 (likely in testing/integration phase)
+  - **Overall pattern**: Multiple hardware variants (Core2 v04, PSNS family, other cores) in parallel development/testing
+  - **Expected deliverable**: Hardware delivery window Nov 15 – Dec 15 2026 (based on prior PCB payment cycle)
+  - **Team coordination**: Frank Strazzabosco (firmware/component lead) coordinating with Sam Hild + Ali Sulehria (engineering team)
 
-**TIER 3 — COMMERCIAL OPPORTUNITY — HURRICANE MONITORING/DISASTER RESPONSE (Accelerating)**
+**TIER 2 — NAVY PHASE I CONTRACT (Momentum Sustained)**
 
-- **Hurricane Monitoring / Disaster Response Services** — **MOMENTUM CONFIRMED**
-  - **Jane Brown (Tauchinu.co)** follow-up Nov 7 22:58 UTC (IMPORTANT flag) — "RE: Black Swift Technologies"
-  - **Scope**: Appears to be second-wave business inquiry or proposal response continuation
-  - **Tauchinu.co**: Weather/climate tech company or disaster response platform (similar domain to FortemExpo)
-  - **Pattern**: Two separate inquiries now (FortemExpo/Brandon Joy Oct 31; Tauchinu.co/Jane Brown Nov 7) suggest **market tier recognizing Black Swift for weather/disaster monitoring services**
-  - **Commercial potential**: Recurring revenue from emergency management, insurance, climate research
-  - **Jack's engagement**: Both inquiries on `elston@bst.aero` domain; Jack likely evaluating/responding directly
-  - **Status**: **ACTIVE BUSINESS DEVELOPMENT — multiple simultaneous commercial inquiries for UAS monitoring services**
+- **Navy Phase I Program** — **NO NEW SIGNAL NOV 14–15, but prior negotiation active**
+  - **Status**: Prior Nov 8 Marco Pretorius (WorkflowIntel) response indicates active negotiation
+  - **Timeline**: Navy Phase I proposal/negotiation likely continuing offline (Slack, phone)
+  - **Implication**: Parallel execution continues on hardware finalization + Navy contract negotiation simultaneously
 
-**TIER 4 — ACADEMIC/RESEARCH PARTNERSHIPS (Emerging)**
+**TIER 3 — COMMERCIAL PARTNERSHIPS (Continued)**
 
-- **Research Project Request (Jason Voiovich)** — **NEW INQUIRY**
-  - **Jason Voiovich** jasonvoiovich@gmail.com to elston@bst.aero (Nov 7 10:46 UTC, IMPORTANT flag)
-  - **Subject**: "Re: Research project request (from LinkedIn)"
-  - **Significance**: Unsolicited research collaboration inquiry; likely initiated by Jack on LinkedIn
-  - **Implication**: Jack maintaining active academic/research network; potential for research partnerships or publishing
-  - **Note**: Academia.edu notification (Nov 8 02:57 UTC) confirming Jack's papers circulating internationally ("People in 4 countries have read your papers")
-  - **Pattern**: Jack maintaining dual identity: CEO/operations executive + academic researcher/author
-  - **Status**: Early-stage research inquiry; likely exploratory discussion
+- **Hurricane Monitoring / Disaster Response Services** — **NO NEW SIGNAL NOV 14–15**
+  - **Status**: Prior Jane Brown (Tauchinu.co) follow-up Nov 7 and FortemExpo (Brandon Joy) Oct 31 inquiries likely in proposal/negotiation phase
+  - **Pattern**: Two simultaneous commercial opportunities under Jack's direct evaluation
 
-**TIER 5 — PARTNERSHIP COORDINATION (Daniel Prendergast)**
+**TIER 4 — BUSINESS OPERATIONS & SCALING (NEW SIGNAL)**
 
-- **EarthX Reception (Boulder/Denver)** — Nov 7 17:38 UTC
-  - **Event**: Environmental/climate tech industry reception (Wed Boulder / Thu Denver)
-  - **Attendees**: Jack Elston + Maciej Stachura invited by Daniel Prendergast
-  - **Significance**: Industry networking event; likely aligned with hurricane monitoring/climate tech market positioning
-  - **Daniel Prendergast role**: Business development/partnerships coordinator; managing exec-level meetings and event attendance
+- **CFO Consulting Outreach** — **NEW SIGNAL**
+  - **Andrew Jenkins (TheSteadyCFO)** Nov 14 22:39:19 UTC (IMPORTANT flag)
+  - **Subject**: "Black Swift Technologies: a budget built for growth"
+  - **Significance**: CFO/business operations consulting inquiry; suggests Black Swift preparing for growth/scaling phase
+  - **Implication**: 
+    - Post-hardware delivery, Black Swift likely planning business operations scaling (finance, budgeting, forecasting)
+    - Possible preparation for Series A fundraising, federal contract scaling, or commercial revenue growth
+    - Jack evaluating fractional CFO services or business operations consulting
+  - **Status**: Inquiry phase; Jack likely evaluating services for Q1–Q2 2027 growth execution
 
-- **CoVar Business Discussion** — Oct 30 meeting follow-up (Nov 7 18:04 UTC)
-  - **CoVar contact**: Joe Camilo (joe@covar.com)
-  - **Scope**: Follow-up on Oct 30 business discussion (pre-existing meeting; no new signal on outcome)
-  - **CoVar.com**: Likely technology/aerospace partner or customer (research required)
-  - **Implication**: Daniel Prendergast coordinating multi-party follow-ups post-meeting
+- **Executive Recruiting** — **NEW SIGNAL**
+  - **David Butler (Venn Search)** Nov 14 17:34:17 UTC (IMPORTANT flag)
+  - **Subject**: "Black Swift Technologies no pressure recruiting question"
+  - **Significance**: Executive search inquiry; suggests Black Swift recruiting for senior role
+  - **Venn Search**: Executive recruiting firm specializing in tech/aerospace roles
+  - **Implication**: 
+    - Black Swift likely hiring for senior engineering, operations, or business development role
+    - Recruiter visibility suggests growth-stage company recognition
+    - Jack directly involved in hiring decisions
+  - **Role type**: Likely VP Engineering, VP Operations, VP Business Development, or CFO-level position (given concurrent CFO consulting inquiry)
+  - **Status**: Recruiting inquiry; Jack evaluating talent/hiring needs for growth phase
 
-### Government & Research Programs (Updated)
+### Infrastructure & Operations (Expanded Signal)
 
-- **Navy Phase I Contract** — **NEW TIER 1 ENTRY**
-  - **Pursuing concurrent federal funding paths**:
-    1. SBA SBIR Phase III (commercialization) — BidwellNow consulting
-    2. NASA Research (validation) — LARC wind tunnel testing
-    3. **Navy Phase I (new R&D contract)** — WorkflowIntel consulting
-  - **Diversification strategy**: De-risking revenue by pursuing multiple federal agencies/programs simultaneously
+- **Metropolis Parking Payment** — Nov 14 19:58:53 UTC
+  - **Significance**: Operational expense billing (parking services)
+  - **Domain**: Routed to elston@bst.aero (suggesting vendor billing consolidation)
+  - **Implication**: Black Swift maintains physical office/facilities requiring parking services (likely Boulder/Denver area given EarthX event location)
 
-- **SBIR Phase III Program** (BidwellNow) — Status continues from prior window
+- **General Air Payment Confirmation** — Nov 14 05:11:25 PDT
+  - **Vendor**: General Air (aviation supply/parts vendor)
+  - **Order**: #10099275 BLACK SWIFT TECHNOLOGIES LLC payment confirmation
+  - **Significance**: Aircraft/aviation parts or maintenance supply procurement
+  - **Implication**: Ongoing aircraft maintenance, parts procurement, or test equipment sourcing
 
-### Business Administration & Infrastructure (Updated)
+- **Amazon Safety Eyewear** — Nov 14 19:03:11 UTC
+  - **Item**: Safety eyewear shipment
+  - **Significance**: Employee safety equipment procurement
+  - **Implication**: Lab/manufacturing operations require safety compliance (typical for hardware testing/integration)
 
-- **Slack Team Workspace Renewal** — Nov 8 09:01 (multiple notifications to admin/elstonj)
-  - **Significance**: Slack workspace plan renewal/billing cycle
-  - **Implication**: Slack is primary internal communications platform for engineering/operations team
+- **Rippling Compliance Documents** — Nov 14 18:37:31 UTC
+  - **Recipients**: Full leadership team + external accountants (Nicholas Rodgers, Mark Knightlinger, Tim Hegwood, Amit Sinha, Nicholas Grande)
+  - **Status**: Continuing year-end compliance document reminder cycle (prior Nov 7 signal repeated)
+  - **Timeline**: Year-end tax/financial close in progress; likely Dec 2026 completion
 
-- **Vercel Invoice #2737-8105-7164** — Nov 7 22:31 UTC (IMPORTANT flag)
-  - **Relevance**: Cloud hosting platform for web applications (static sites, Next.js apps, APIs)
-  - **Significance**: Confirms Vercel + Fly.io dual cloud strategy
-  - **Implication**: Multiple cloud infrastructure platforms deployed; possible microservices architecture or failover redundancy
+### Recruiting & Business Development Outreach (New Pattern)
 
-- **Google Business Profile — October 2026 Performance Report** — Nov 7 06:22 UTC
-  - **Significance**: Local business search optimization; Google My Business active for Black Swift Technologies LLC
-  - **Implication**: Commercial/customer-facing digital marketing maintained
+- **David Butler (Venn Search) Recruiting Inquiry** — Nov 14 17:34:17 UTC
+  - **Jack's response**: Jack forwarding to Cory Dixon (likely HR/recruiting coordinator) in DRAFT status (Nov 14 09:36:24 PDT)
+  - **Implication**: Jack reviewing recruiting inquiries and delegating to internal HR coordination
+  - **Process**: Jack evaluating recruiting needs; Cory Dixon likely managing recruiting logistics
 
-- **Rippling Compliance Document Download** — Nov 7 16:33 UTC
-  - **Recipients**: Full leadership team + external accountants (Mark Knightlinger/kcotax.com, Nicholas Rodgers/Nicholas Grande)
-  - **Scope**: Year-end tax/compliance documentation reminder (likely W-2s, 1099s, tax forms)
-  - **Implication**: Year-end payroll/tax cycle in progress; scheduled completion likely Dec 2026
+- **Andrew Jenkins (TheSteadyCFO) Business Consulting Inquiry** — Nov 14 22:39:19 UTC
+  - **Status**: Cold outreach/warm lead; Jack evaluating services
+  - **Timeline**: Likely follow-up/evaluation expected Q4 2026 – Q1 2027
 
-- **Elevate HSA Changes** — Nov 7 10:52 UTC
-  - **Significance**: Health Savings Account changes notification (likely annual benefits adjustment)
-  - **Implication**: Standard employee benefits administration
+### Advisory Board / Thought Leadership (Continued Academic Signal)
 
-### Academic/Publishing Activity (New Signal)
-
-- **Academia.edu Paper Readership** — Nov 8 02:57 UTC
-  - **Subject**: "People in 4 countries have read your papers"
-  - **Significance**: Jack maintains active academic publishing profile; research papers circulating internationally
-  - **Implication**: Dual role as CEO + published researcher/author; papers on autonomous systems, aerospace, or related fields likely in circulation
-  - **Strategic value**: Academic credibility enhancing company positioning on federal R&D contracts (NASA, Navy, DOE)
+- **Academia.edu Paper Circulation** — (prior Nov 8 signal) Papers continuing circulation internationally
+- **Jason Voiovich Research Partnership** — (prior Nov 7 inquiry) Research collaboration in exploratory phase
 
 ## Communication Patterns
 
-### Timing & Time Zones (Nov 7–8 Window)
-- **Multi-zone activity continues**: UTC, EST, MDT, UTC coordination sustained
-- **Weekend activity**: Nov 7–8 (Sat–Sun) shows sustained business development and administrative coordination
-  - Jane Brown (Tauchinu.co) Nov 7 22:58 UTC (Saturday evening)
-  - Daniel Prendergast (EarthX/CoVar) Nov 7 17:38–18:04 UTC (Saturday afternoon)
-  - Marco Pretorius (Navy Phase I) Nov 8 10:47 UTC (Sunday morning)
-- **Implication**: Continuous business development and contract coordination across weekends; no office closure signal
+### Timing & Time Zones (Nov 14–15 Window)
+- **Weekend sustained activity**: Nov 14 (Saturday) shows high-volume business communication
+  - Frank firmware updates (02:33 UTC, 13:12 PDT)
+  - CFO consulting outreach (22:39 UTC)
+  - Recruiting inquiry (17:34 UTC)
+  - Compliance reminders (18:37 UTC)
+  - Parking/operational (19:58 UTC)
+- **Multi-zone coordination**: UTC, PDT, PST, MDT suggesting distributed team or multi-timezone business operations
+- **Implication**: Continuous weekend execution on hardware finalization, business development, and operational coordination
 
-### Email Domain Segregation Pattern (Confirmed)
-- **`elstonj@blackswifttech.com`** — Government/technical/internal (Navy Phase I response likely on this domain; Rippling compliance docs on this domain)
-- **`elston@bst.aero`** — **Commercial/business development (Tauchinu.co, Jason Voiovich, FortemExpo inquiries all on bst.aero)**
-- **Pattern shift significance**: Marketing/business development successfully segmented external inquiries to customer-facing domain; government/technical traffic isolated on corporate domain
-- **Signal quality**: Clean separation enabling targeted communication filtering and brand positioning
+### Email Domain Segregation Pattern (Continued Validation)
+- **`elstonj@blackswifttech.com`** — Government/technical/internal/recruiting (firmware from Frank, CFO/recruiting inquiries, compliance documents)
+- **`elston@bst.aero`** — Operational/billing (parking payment routing)
+- **Pattern consistency**: Technical/internal traffic concentrated on corporate domain; operational/external billing on customer-facing domain
 
-### Administrative & Approval Authority (Continued)
+### Draft Email Pattern (Internal Coordination)
+- **Nov 14 09:36:24 PDT**: Jack drafting forward of recruiting inquiry to Cory Dixon (HR coordinator) — Jack reviewing and delegating recruiting inquiries
+- **Nov 14 11:59:41 PDT**: Jack drafting forward of parking payment to Meredith Needham (likely CFO/operations lead) — Jack coordinating operational expense management
+- **Pattern**: Jack reviewing incoming inquiries and delegating to internal team (HR, ops, finance)
+- **Implication**: Tactical delegation of operational/recruiting coordination while maintaining CEO/decision-making oversight
 
-- **Federal contract strategy**: Marco Pretorius (Navy Phase I) correspondence indicates Jack directly engaged in Navy contract negotiation/approval
-- **Commercial opportunity evaluation**: Jane Brown (Tauchinu.co) follow-up suggests Jack evaluating business development proposals
-- **Research partnership evaluation**: Jason Voiovich research inquiry suggests Jack directly engaged in academic/research collaboration decisions
-- **Internal coordination oversight**: Jack copied on Daniel Prendergast partnership/event coordination (EarthX, CoVar) — suggests Jack oversight of business development activities
-
-### Security/Compliance Monitoring
-- **Deel login security alerts** (Nov 7 14:51, 14:55 UTC) — Multiple unrecognized device login notifications
-  - **Implication**: Active security monitoring; new device access or location access flagged
-  - **Possible cause**: Jack accessing Deel contractor/payroll system from new device or location
-  - **Status**: Likely routine security verification
+### Internal Team Structure (Emerging Clarity)
+- **Jack Elston** — CEO/technical lead (firmware approval, federal contracting, business development decisions)
+- **Sam Hild** — Engineer (firmware/hardware coordination with Frank)
+- **Ali Sulehria** — Engineer (firmware/hardware coordination)
+- **Cory Dixon** — HR/recruiting coordinator (recruiting inquiry handling)
+- **Meredith Needham** — CFO/operations lead (operational expense management)
+- **Tim Hegwood** — HR/compliance (benefits/compliance coordination)
+- **Daniel Prendergast** — Business development/partnerships coordinator
+- **Maciej Stachura** — Business/executive team
 
 ## Key Relationships
 
-### New Strategic Partnerships (Nov 7–8 Window)
+### New Business Operations & Scaling Partners (Nov 14–15 Window)
 
-**Marco Pretorius (WorkflowIntel)** — **NEW TIER 1 FEDERAL PARTNER**
-- **Status**: Navy Phase I contract negotiation (Nov 8 10:47 UTC, IMPORTANT)
-- **Scope**: Government contracting consulting; proposal support; Navy contract strategy
-- **Relationship stage**: Active negotiation phase; formal Navy contract engagement
-- **Strategic importance**: Diversifies federal revenue pipeline beyond SBA SBIR
-- **Implication**: Pursuing concurrent federal funding from Navy + SBA + NASA simultaneously
+**Andrew Jenkins (TheSteadyCFO)** — **NEW ADVISORY RELATIONSHIP (Prospective)**
+- **Status**: CFO consulting inquiry Nov 14 22:39:19 UTC (IMPORTANT)
+- **Scope**: Business planning, budgeting, financial forecasting for growth phase
+- **Relationship stage**: Inquiry phase; Jack likely evaluating services
+- **Strategic importance**: Suggests Black Swift preparing for growth/scaling phase post-hardware delivery
+- **Timeline**: Likely engagement Q1–Q2 2027
+- **Implication**: Black Swift likely planning Series A fundraising, federal contract scaling, or commercial revenue growth
 
-**Jane Brown (Tauchinu.co)** — **NEW COMMERCIAL PARTNER PROSPECT**
-- **Status**: Follow-up business inquiry Nov 7 22:58 UTC (IMPORTANT)
-- **Scope**: Hurricane monitoring/disaster response services (likely follow-up or proposal evaluation)
-- **Tauchinu.co**: Weather/climate tech or disaster response platform
-- **Relationship stage**: Active business development discussion
-- **Pattern**: Second simultaneous commercial inquiry (FortemExpo + Tauchinu.co) for UAS monitoring services
-- **Commercial potential**: High-value recurring contracts with emergency management/insurance sectors
+**David Butler (Venn Search)** — **NEW RECRUITING RELATIONSHIP (Active)**
+- **Status**: Executive recruiting inquiry Nov 14 17:34:17 UTC (IMPORTANT)
+- **Scope**: Senior-level hiring (likely VP Engineering, VP Operations, or VP Business Development)
+- **Relationship stage**: Active inquiry; Jack forwarding to Cory Dixon (HR) for evaluation
+- **Strategic importance**: Growth-stage hiring; suggests Black Swift expanding leadership team
+- **Timeline**: Likely hiring completion Q4 2026 – Q1 2027
 
-**Jason Voiovich** — **NEW ACADEMIC/RESEARCH PARTNER**
-- **Status**: Research project inquiry Nov 7 10:46 UTC (IMPORTANT)
-- **Scope**: Research collaboration (unsolicited; likely Jack-initiated on LinkedIn)
-- **Relationship stage**: Early exploratory discussion
-- **Implication**: Jack maintaining active academic network for research partnerships/publications
+### Sustained Strategic Relationships (Continued)
 
-**Daniel Prendergast (BST Internal)** — **BUSINESS DEVELOPMENT COORDINATOR**
-- **Status**: Partnership/event coordination (Nov 7 17:38–18:04 UTC)
-- **Scope**: 
-  - EarthX reception coordination (Boulder/Denver)
-  - CoVar business discussion follow-up (Oct 30 meeting)
-- **Role**: Executive-level partnerships and industry event management
-- **Implication**: BST has dedicated business development team managing external partnerships and events
+**Frank Strazzabosco (Microfirm)** — **TIER 1 HARDWARE PARTNER (Accelerating)**
+- **Nov 14 activity**: 2 IMPORTANT firmware/component updates (core2 v04, TLVM13610RDFR)
+- **Team coordination**: Jack + Sam Hild + Ali Sulehria on critical hardware issues
+- **Status**: Hardware finalization in full progress; delivery window (Nov 15 – Dec 15) executing
 
-### Relationship Tier Summary (Updated)
+**Marco Pretorius (WorkflowIntel)** — **NAVY PHASE I CONTRACT PARTNER (Sustained)**
+- **Status**: Navy contract negotiation continuing from Nov 8; likely offline coordination (Slack, phone)
+- **Strategic**: Federal revenue diversification maintained
 
-**Federal Contracting Tier** (Diversified):
-- Marco Pretorius (WorkflowIntel) → **Navy Phase I contracts** (NEW)
-- Nicole Tripputi (BidwellNow) → SBA SBIR Phase III commercialization
-- NASA LARC → Research validation/testing
-- Pattern: Black Swift pursuing parallel federal funding from multiple agencies/programs
+**Jane Brown (Tauchinu.co)** — **COMMERCIAL PARTNERSHIP (In Negotiation)**
+- **Status**: Follow-up business inquiry Nov 7; likely proposal evaluation in progress
+- **Commercial opportunity**: Hurricane monitoring/disaster response services
 
-**Commercial Opportunity Tier** (Accelerating):
-- Jane Brown (Tauchinu.co) → Hurricane monitoring services (follow-up)
-- Brandon Joy (FortemExpo) → Hurricane monitoring services (initial inquiry Oct 31)
-- Pattern: Two simultaneous commercial inquiries for UAS disaster/monitoring services
-
-**Academic/Research Tier** (Emerging):
-- Jason Voiovich → Research collaboration
-- Academia.edu → Jack's papers circulating internationally
-- Pattern: Jack maintaining dual CEO + researcher identity
-
-**Internal Business Development** (Coordinated):
-- Daniel Prendergast → Partnership/event coordination
-- Maciej Stachura → Executive-level event attendance
-- Pattern: Dedicated business development team managing external partnerships
+**Jason Voiovich** — **ACADEMIC RESEARCH PARTNER (Exploratory)**
+- **Status**: Research partnership inquiry Nov 7; early-stage discussion
 
 ## Notable Observations
 
-### NAVY FEDERAL CONTRACT TIER ADDED
-- **Marco Pretorius (WorkflowIntel) Navy Phase I inquiry (Nov 8)** represents **new tier of federal revenue pursuit**
-- **Concurrent federal strategy**: 
-  - SBA SBIR Phase III (commercialization/scaling) — BidwellNow
-  - NASA research validation — LARC wind tunnel testing
-  - **Navy Phase I direct contract** — WorkflowIntel
-- **De-risking revenue**: Black Swift no longer relying on single federal funding pathway; pursuing multiple agencies simultaneously
-- **Timeline**: Navy Phase I proposal/negotiation likely Dec 2026 – Jan 2027
-- **Strategic significance**: Navy contracts often lead to larger production orders or sustained R&D partnerships
-- **Implication**: Black Swift positioning itself as multi-customer federal supplier (Navy + NASA + SBA SBIR ecosystem)
+### HARDWARE DELIVERY TIMELINE ENTERING CRITICAL PHASE
+- **Nov 14 confirms hardware finalization acceleration**: Frank Strazzabosco firmware updates (core2 v04, TLVM13610RDFR) indicate multiple hardware variants in final testing
+- **Delivery window**: Nov 15 – Dec 15, 2026 (now within 1 day of window opening)
+- **Component finalization**: TLVM13610RDFR (likely TI power management/RF IC) suggests precision component validation in final stages
+- **Team coordination**: Frank + Sam Hild + Ali Sulehria on critical issues; Jack directly involved in firmware approval
+- **Expected outcome**: Hardware delivery likely by early December 2026 (2–3 week delivery window)
 
-### COMMERCIAL OPPORTUNITY VALIDATION ACCELERATING
-- **Two simultaneous commercial inquiries (FortemExpo Oct 31; Tauchinu.co Nov 7)** for hurricane monitoring/disaster response services
-- **Pattern**: Unsolicited market validation from two separate companies in climate/weather/disaster tech sector
-- **Market signal**: Black Swift UAS capabilities recognized for value in emergency management, insurance, climate research
-- **Jack's direct engagement**: Both inquiries on `elston@bst.aero`; Jack likely evaluating/responding personally
-- **Commercial potential**: Recurring revenue opportunity (hurricane season May–Nov, ongoing climate monitoring, insurance risk assessment)
-- **Revenue model transition**: Hardware provider → UAS + data services provider
-- **Timeline**: Commercial contracts likely Q1–Q2 2027
+### BUSINESS SCALING PREPARATION SIGNALS EMERGING
+- **CFO consulting outreach** (Andrew Jenkins, TheSteadyCFO, Nov 14) suggests Black Swift evaluating business operations scaling
+- **Executive recruiting inquiry** (David Butler, Venn Search, Nov 14) suggests senior hiring planned
+- **Pattern**: Both inquiries on Nov 14 (same day) — suggests market visibility/inbound recruiting activity
+- **Timeline implication**: Black Swift likely planning Q1–Q2 2027 growth execution (post-hardware delivery, post-federal contracts)
+- **Scaling vectors**:
+  - Leadership team expansion (VP-level hiring)
+  - Financial/business operations scaling (CFO consulting)
+  - Likely revenue scaling (commercial contracts + federal contracts)
+- **Strategic context**: Black Swift transitioning from hardware R&D phase → commercial delivery + scaling phase
 
-### EMAIL DOMAIN SEGREGATION STRATEGY VALIDATED
-- **`elston@bst.aero` receiving 3 important unsolicited business inquiries** (FortemExpo, Tauchinu.co, Jason Voiovich research)
-- **`elstonj@blackswifttech.com` receiving government/technical/internal traffic** (Navy Phase I response, Rippling compliance, infrastructure billing)
-- **Pattern significance**: Marketing/external circulation strategy successfully positioning bst.aero as customer-facing entry point
-- **Implication**: Clean separation enabling efficient routing, brand positioning, and communication filtering
-- **Strategic value**: bst.aero appearing in external search/network visibility; legitimacy increasing with each new inquiry
+### OPERATIONAL INFRASTRUCTURE CONSOLIDATION
+- **Metropolis parking payment** (Nov 14) routed to elston@bst.aero suggests vendor billing consolidation
+- **General Air aviation supply payment** (Nov 14) confirms ongoing aircraft maintenance/parts procurement
+- **Safety equipment procurement** (Amazon safety eyewear, Nov 14) confirms lab/manufacturing operations
+- **Pattern**: Operational infrastructure indicating physical office/lab facilities, aircraft operations, and manufacturing/testing capabilities
 
-### ACADEMIC RESEARCHER IDENTITY MAINTAINED
-- **Academia.edu paper circulation** (Nov 8) confirms Jack's research papers actively in global circulation
-- **Jason Voiovich research inquiry** (Nov 7) suggests Jack maintaining active academic network
-- **Strategic value**: Academic credibility enhancing federal R&D contract competitiveness (Navy Phase I, NASA LARC, SBIR Phase III)
-- **Dual identity**: Jack operating as CEO + published researcher/author
-- **Implication**: Publishing strategy supporting business development (thought leadership, technical credibility, federal contractor qualifications)
+### TEAM STRUCTURE PROFESSIONALIZATION
+- **Cory Dixon (HR/recruiting coordinator)** — Recruiting inquiry handling delegation
+- **Meredith Needham (CFO/operations)** — Operational expense/finance coordination
+- **Sam Hild + Ali Sulehria (engineers)** — Hardware/firmware development team
+- **Tim Hegwood (HR/compliance)** — Benefits/compliance coordination
+- **Daniel Prendergast (business development)** — Partnerships/events
+- **Pattern**: Multi-functional leadership team with dedicated roles (HR, finance, ops, engineering, business development)
+- **Implication**: Organization scaling beyond founder-CEO; distributed responsibilities enabling growth execution
 
-### BUSINESS DEVELOPMENT TEAM COORDINATION
-- **Daniel Prendergast (BST Internal)** orchestrating partnerships, events, and business development coordination
-- **Pattern**: Jack copied on major partnerships/events but Daniel Prendergast managing execution
-- **Implication**: BST has professional business development team (not sole founder responsibility)
-- **Events**: EarthX reception (climate/environmental tech networking) — aligned with hurricane monitoring market positioning
-- **Existing partnerships**: CoVar business discussion (Oct 30) — suggests prior established relationship
+### RECRUITING ACTIVITY TIMING ALIGNMENT
+- **David Butler recruiting inquiry (Nov 14)** + **Andrew Jenkins CFO consulting (Nov 14)** on same day suggests coordinated outreach or market-driven recognition
+- **Pattern**: External market recognizing Black Swift as growth-stage company; inbound recruiting/advisory inquiries indicating visibility
+- **Implication**: Black Swift brand/visibility increasing in market; attracting recruiter/advisor outreach
 
-### YEAR-END COMPLIANCE/TAX CYCLE IN PROGRESS
-- **Rippling compliance document reminder** (Nov 7) to full leadership + external accountants
-- **Expected completion**: Dec 2026 tax documentation
-- **Prior issue resolution**: Deel entity verification failure (Nov 2) may have been resolved or in process
-- **Implication**: Black Swift entering standard year-end financial/tax close cycle; likely preparing 2026 financials and 2027 budget
+### DRAFT EMAIL DELEGATION PATTERN
+- **Jack reviewing and delegating incoming strategic inquiries**: 
+  - Recruiting inquiry → Cory Dixon (HR)
+  - Parking payment → Meredith Needham (ops/finance)
+- **Pattern**: Jack maintaining oversight while delegating execution; CEO-level tactical involvement
+- **Implication**: Organization developing institutional processes for recruiting, finance, and operations coordination
 
-### INFRASTRUCTURE PLATFORM EXPANSION CONTINUES
-- **Slack** (team communications) — plan renewal Nov 8
-- **Vercel** (web app hosting) — invoice Nov 7
-- **Fly.io** (cloud infrastructure) — prior invoice Nov 2
-- **Google Workspace** — continued billing
-- **Pattern**: Multi-cloud strategy with redundancy/failover capabilities
-- **Implication**: Technology stack supporting software/SaaS development or cloud-based operations platform
-
-### WEEKEND ACTIVITY PATTERN
-- **Sustained Sat–Sun activity** (Nov 7–8) across business development, partnerships, and federal contracts
-- **No office closure signal**: Continuous weekend engagement on critical business items
-- **Implication**: High-tempo execution phase; key decisions and negotiations happening across full week
+### CONTINUED PARALLEL EXECUTION VECTORS
+- **Hardware finalization** (firmware iterations, component validation) — Nov 14 IMPORTANT signals
+- **Federal contract negotiation** (Navy Phase I) — continuing from Nov 8
+- **Commercial partnerships** (Tauchinu.co, FortemExpo) — proposal evaluation in progress
+- **Business scaling preparation** (CFO consulting, executive recruiting inquiries) — Nov 14 signals
+- **Year-end compliance/tax close** — continuing documentation cycle (Rippling, Nov 14)
+- **Pattern**: Black Swift executing across 5 concurrent vectors simultaneously; high-tempo CEO coordination and delegation
 
 ---
 
-## Updated Summary (Revised — Nov 8, 2026)
+## Updated Summary (Revised — Nov 15, 2026)
 
-**Jack Elston is managing parallel acceleration tracks: (1) hardware delivery finalization (firmware/PCB cycle likely in testing phase), (2) diversified federal contract pursuit (Navy Phase I + SBA SBIR Phase III + NASA research), (3) accelerating commercial opportunity validation (two simultaneous hurricane monitoring service inquiries), and (4) academic/research partnership exploration.** 
+**Jack Elston managing high-tempo execution across hardware finalization, federal contract negotiation, commercial partnerships, and business scaling preparation. Nov 14–15 data reveals accelerating hardware timeline (firmware/component finalization in critical phase) combined with emerging scaling signals (CFO consulting + executive recruiting inquiries) and continued operational coordination.**
 
-**Nov 7–8, 2026 reveals new tier of federal contracting: Marco Pretorius (WorkflowIntel) Navy Phase I contract negotiation represents direct Navy procurement pipeline added to concurrent SBA SBIR and NASA research engagement. Black Swift de-risking revenue by pursuing multiple federal agencies simultaneously.**
+**Hardware timeline entering critical phase: Frank Strazzabosco firmware updates (core2 v04, TLVM13610RDFR component) Nov 14 indicate multiple hardware variants in final testing. Delivery window (Nov 15 – Dec 15) now active; hardware delivery likely early-to-mid December 2026.**
 
-**Commercial opportunity validation accelerating: Jane Brown (Tauchinu.co) follow-up Nov 7 represents second simultaneous hurricane monitoring/disaster response service inquiry (FortemExpo + Tauchinu.co). Market validation from two separate climate/weather tech companies suggests strong product-market fit for UAS disaster monitoring services. Jack directly evaluating both inquiries on customer-facing `elston@bst.aero` domain.**
+**Business scaling preparation signals: Simultaneous CFO consulting inquiry (Andrew Jenkins/TheSteadyCFO) and executive recruiting inquiry (David Butler/Venn Search) on Nov 14 suggest Black Swift preparing for growth phase post-hardware delivery. Likely VP-level hiring (Engineering, Operations, or Business Development) planned for Q1–Q2 2027.**
 
-**Email domain segregation strategy validated: Three important unsolicited business inquiries arriving on `elston@bst.aero` (commercial domain) while government/technical traffic concentrated on `elstonj@blackswifttech.com`. Marketing circulation strategy successfully positioning bst.aero as customer-facing entry point; clean separation enabling brand differentiation and efficient routing.**
+**Team structure professionalization: Meredith Needham (CFO/operations), Cory Dixon (HR/recruiting), Sam Hild + Ali Sulehria (engineering team), Tim Hegwood (HR/compliance), Daniel Prendergast (business development) managing functional responsibilities. Jack maintaining CEO oversight while delegating operational/recruiting coordination.**
 
-**Academic researcher identity maintained: Academia.edu paper circulation (4-country readership) + Jason Voiovich research partnership inquiry confirm Jack's active academic network. Dual CEO + researcher identity supporting federal R&D contract competitiveness (thought leadership, technical credibility).**
+**Operational infrastructure consolidation: Metropolis parking (office/facilities), General Air aviation supply (aircraft maintenance), Amazon safety equipment (lab/manufacturing operations) confirm physical office, lab, and aircraft operation infrastructure.**
 
-**Business development professionalization: Daniel Prendergast managing partnership coordination, industry events (EarthX reception), and business development execution. Suggests BST has dedicated business development team (not founder-only responsibility).**
+**Concurrent execution vectors (Nov 14–15, 2026):**
+- **Hardware path**: Core2 v04, TLVM13610RDFR component finalization in progress; delivery window Nov 15 – Dec 15 active
+- **Federal path**: Navy Phase I negotiation continuing (Marco Pretorius/WorkflowIntel); SBA SBIR Phase III and NASA research continuing in parallel
+- **Commercial path**: Tauchinu.co, FortemExpo hurricane monitoring service inquiries in proposal/negotiation phase
+- **Scaling path**: CFO consulting inquiry, executive recruiting inquiry suggesting Q1–Q2 2027 growth execution
+- **Compliance path**: Year-end tax/financial close cycle continuing (Rippling documentation reminders)
+- **Operational path**: Office/lab/aircraft operations maintained; safety/compliance infrastructure active
 
-**Concurrent execution vectors (Nov 7–8, 2026):**
-- **Hardware path**: PSNS/Core firmware variants likely in testing phase post-PCB fabrication cycle
-- **Federal path**: Navy Phase I negotiation + SBA SBIR Phase III planning + NASA research validation (3-agency simultaneous pursuit)
-- **Commercial path**: 2 active hurricane monitoring service inquiries under Jack's direct evaluation
-- **Academic path**: Research partnerships and international publication circulation
-- **Organizational path**: Year-end compliance/tax cycle in progress (Rippling documents); infrastructure expansion (Slack, Vercel, Fly.io)
-
-**Timeline outlook:**
-- **Hardware delivery**: Nov 15 – Dec 15, 2026 (based on PCB payment cycle Nov 2)
+**Timeline outlook (revised):**
+- **Hardware delivery**: Early-to-mid December 2026 (within Nov 15 – Dec 15 window)
 - **Navy Phase I proposal/negotiation**: Dec 2026 – Jan 2027
+- **Executive hiring completion**: Q4 2026 – Q1 2027
+- **CFO consulting engagement**: Q1 2027 (growth execution phase)
 - **Commercial contracts**: Q1–Q2 2027
 - **SBIR Phase III formal submission**: Dec 2026 – Jan 2027
 - **Year-end tax close**: Dec 31, 2026
 
-**Key observation: Jack maintaining high-tempo CEO involvement across tactical (firmware/hardware approval), strategic (federal contracts/commercial partnerships), and academic/research dimensions. Organization showing signs of professionalization with dedicated business development team (Daniel Prendergast) while Jack remains directly engaged in critical negotiations and partnership evaluation.**
+**Key observation: Black Swift transitioning from hardware R&D phase → commercial delivery + business scaling phase. CEO maintaining high-tempo coordination across tactical (hardware approval, operational decisions) and strategic (federal contracts, commercial partnerships, team scaling) dimensions. Organization showing signs of rapid professionalization with distributed leadership team enabling parallel execution on 5+ concurrent vectors.**

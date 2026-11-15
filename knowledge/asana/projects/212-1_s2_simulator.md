@@ -1,37 +1,40 @@
-_Asana snapshot as of 2026-11-14: 2 open tasks, 2 completed (last 90 days)._
+_Asana snapshot as of 2026-11-15: 2 open tasks, 2 completed (last 90 days)._
 
 # [212-1] S2 Simulator
 
 ## Status
 **ARCHIVED** (as of 2026-10-27, per Maciej's feedback)
 
-This project has been closed out and should be archived in Asana. Per Maciej (2026-10-27): "There's just milestones left for 'Build Sim System' and 'Deliver', I assume this is the one that went to NASA a few weeks ago?" — System has been delivered to NASA.
+**Override Note:** Asana still shows 2 open milestones ("Build Sim System" and "Deliver System and Documentation"), but Maciej confirmed on 2026-10-27 that this project was delivered to NASA a few weeks prior. The project is ready for archival and should be closed in Asana by a project owner.
 
 ## Overview
-- **Client:** NASA Ames (primary contact: Will Wade, william.o.wade@nasa.gov; new lead after Isaac Anderson departed)
-- **Original contact:** Isaac Anderson (Chief Aviation Operations Engineer)
-- **Total budget:** $2,900
-- **Payment status:** Fully paid ($2,900 received 22 Aug 2025)
-- **Timeline:** Project completed; system delivered to NASA ~late October 2026
-- **Team:** Jack Elston (primary executor)
+- **Client:** NASA Ames Research Center
+- **Primary Contact:** Isaac Anderson (Chief Aviation Operations Engineer, isaac.e.anderson@nasa.gov, 650-602-5988) — *Note: Isaac has moved on from NASA Ames as of Dec 30, 2025. New NASA contact is Randy Hobbs (r.hobbs@nasa.gov) with team: Will Wade, Farina Remo, Hai-Nam Tran.*
+- **Dollar Value:** $2,900 (S2 Simulator purchase)
+- **Payment Status:** Received in full ($2,900 on 2025-08-22)
+- **Timeline:** Started Aug 2025; delivered to NASA ~late Oct 2026
+- **Team:** Black Swift Technologies (whole team)
 
 ## Key Deliverables & Milestones
-| Deliverable | Due Date | Status |
-|---|---|---|
-| Load OS/software and configure sim machine | 2026-05-04 | ✓ Completed 2026-10-17 |
-| Operational Checks | 2026-05-06 | ✓ Completed 2026-10-17 |
-| Build Sim System | 2026-05-06 | Milestone (delivery complete) |
-| Deliver System and Documentation | 2026-05-13 | Milestone (delivered to NASA) |
+| Milestone | Due Date | Status |
+|-----------|----------|--------|
+| Build Sim System | 2026-05-06 | Complete (stale in Asana) |
+| Deliver System and Documentation | 2026-05-13 | Complete (stale in Asana) |
+| Load OS/software and configure sim machine | 2026-05-04 | ✓ Completed 2026-10-17 (Jack Elston) |
+| Operational Checks | 2026-05-06 | ✓ Completed 2026-10-17 (Jack Elston) |
 
 ## Task Summary
-- **Total tasks:** 4 (2 completed, 2 milestones remaining)
-- **Completed work:** Jack Elston completed final operational checks and OS/software configuration in October 2026
-- **Remaining items:** Only milestone placeholders remain; no active work
+- **Total:** 2 open (milestones) + 2 completed = 4 tasks
+- **Completion Rate:** 50% (in Asana); effectively 100% per team feedback
+- **Assignee:** Jack Elston completed final setup and checks; milestones unassigned
 
-## Scope Notes
-- **S2 Simulator purchase:** $2,900 (completed)
-- **Warranty/additional work:** Isaac Anderson's personal S2 sent for repairs (flap servo replacement) — no additional payment required from NASA; treated as warranty/goodwill
-- **Updated NASA team:** Randy Hobbs (new primary), Will Wade, Farina Remo; CC Hai-Nam Tran on future communications
+## Recent Activity
+- **2026-10-17:** Jack Elston completed final two tasks (OS/software load & operational checks)
+- **~Late Oct 2026:** System delivered to NASA Ames
+- **2026-10-27:** Maciej confirmed delivery and flagged for archival
 
-## Archival Action Required
-Project owners should archive this project in Asana per Maciej's instruction: Go to project main page → click down arrow → click "Archive"
+## Notes & Context
+- **Scope:** Purchase of S2 Simulator for NASA Ames, including warranty work (flap servo replacement and other repairs on Isaac's personal S2 at no additional charge)
+- **Products:** S2 Simulator, Other
+- **NASA Team Change:** Isaac Anderson has left NASA Ames; new primary contact is Randy Hobbs. When communicating, CC Will Wade, Farina Remo, and Hai-Nam Tran.
+- **Action Required:** Project owner should archive this project in Asana (go to project main page → down arrow → "Archive")

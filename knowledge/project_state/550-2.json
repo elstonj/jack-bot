@@ -33,7 +33,7 @@
         "amount": 40121.25,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-14"
+        "last_updated": "2026-11-15"
       },
       "purchases": {
         "amount": 0.0,
@@ -45,7 +45,7 @@
         "amount": 119941.0,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-14"
+        "last_updated": "2026-11-15"
       },
       "total": 160062.25,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": -21568.25,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-14T10:46:08Z"
+    "last_reconciled": "2026-11-15T10:12:49Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -91,6 +91,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-11-14T10:46:08Z",
+  "last_full_rebuild": "2026-11-15T10:12:49Z",
   "last_incremental_update": null
 }

@@ -1,44 +1,39 @@
-_Asana snapshot as of 2026-11-14: 5 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-15: 5 open tasks, 0 completed (last 90 days)._
 
 # [012-2] ERAU VTOL S0
 
 ## Overview
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
-- **Dollar Value:** $20,805.39 (BST revenue)
-- **Timeline:** 
-  - Original due date: 2024-08-16 (OVERDUE)
-  - Updated delivery commitment: May 2025
-  - Training planned: June 2025 @ BST
-- **Status:** **ACTIVE but OVERDUE** — Original summer 2024 delivery has passed. Current commitment is 2 VTOLs due May 2025 with training in June 2025.
-- **Team Members:** Alex Lomis (owner), Jack Elston, Dan Prendergast
-- **Risk Signals:** 
-  - Original due date (2024-08-16) is in the past
-  - No due dates set on remaining delivery/training tasks
-  - Payment verification task is unassigned
-  - Multiple critical tasks (shipment, training, project closure) lack owners and deadlines
+- **Dollar Value:** $20,805.39 (total budget = total funding to BST)
+- **Timeline:** Original project due 2024-08-16 (stale); current obligation is **2 VTOLs due May 2025, with training scheduled June 2025 at BST**
+- **Status:** Active — awaiting final delivery and training
+- **Team:** Alex Lomis (owner), Jack Elston, Dan Prendergast, and whole BST team
+- **Risk Signals:** Multiple critical tasks lack due dates and assignees (shipping, payment verification, project closure)
 
 ## Key Deliverables & Milestones
-1. **Deliver 2 x S0 VTOL to ERAU** — May 2025 (no specific date set)
-2. **Training at BST** — June 2025
-3. **Payment Verification** — TBD
-4. **Project Closure** — TBD
+- **S0 VTOL delivery:** 2 units due May 2025
+- **Training:** June 2025 at BST facility
+- **Follow-on opportunity:** Customer (ERAU) will evaluate initial delivery and decide whether to purchase 4 additional units (currently in estimates)
 
 ## Task Summary
-- **Total:** 5 open tasks, 0 completed
-- **By Assignee:**
-  - Jack Elston: 1 task (Final due date for delivery)
-  - Dan Prendergast: 1 task (Training)
-  - Unassigned: 3 tasks (Ship, Payment verification, Close project)
+- **Total Tasks:** 5 open, 0 completed
+- **Task Status:**
+  - Final due date for delivery | Jack Elston | No due date
+  - Ship S0 VTOL to ERAU | Unassigned | No due date
+  - S0 VTOL Training for ERAU | Dan Prendergast | No due date
+  - Verify payment from ERAU | Unassigned | No due date
+  - Close project | Unassigned | No due date
+
+**Notable Pattern:** All remaining tasks are delivery and closure items with no due dates assigned and critical tasks unassigned (shipping, payment verification, closure). This suggests execution has not yet been scheduled or tracked in Asana.
 
 ## Recent Activity
-No recent task completions visible. Tasks remain open with no due dates set. Project is tracking against a May 2025 delivery commitment but lacks formal scheduling.
+No recent task completions recorded. All five tasks remain open. The original 2024-08-16 due date has passed; the active timeline is now driven by the May 2025 delivery commitment.
 
 ## Notes & Context
-- ERAU has option to purchase 4 additional S0 VTOLs (currently in estimates) pending their evaluation of the initial 2-unit delivery
-- Customer type: Commercial
-- Priority: Medium
-- No subcontractors involved
-- Custom field notes indicate 2 VTOLs owed with training commitment at BST facility
-
-**Action Items:** Assign due dates to all open tasks (especially shipment and training), assign owners to unassigned tasks, and establish clear milestone tracking given May 2025 delivery commitment.
+- **Custom Field Note (Admin):** "Owe 2 VTOLs (May 2025) - Training June 2025 @ BST"
+- **Product:** S0 VTOL
+- **Customer Type:** Commercial
+- **Priority:** Medium
+- This project was converted from a task in the Asana system; some historical context may exist in the parent task [1203332454725101](https://app.asana.com/0/43948139065358/1203332454725101)
+- **Recommendation:** Assign due dates and owners to the remaining five tasks (especially shipping and payment verification, currently unassigned) to ensure on-time delivery and closure by June 2025.

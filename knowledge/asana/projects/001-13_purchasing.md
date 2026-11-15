@@ -1,105 +1,68 @@
-_Asana snapshot as of 2026-11-14: 194 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-15: 194 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Purchasing
 
 ## Overview
-- **Owner:** Meredith O'hara Needham
-- **Team:** BST (Whole Team)
-- **Status:** Active (high volume of pending orders)
-- **Risk Signal:** **Communication breakdown — Joshua Fromm reports he is not receiving purchasing email forwards as of 2026-11-13** (per team feedback). Many orders assigned to him remain open. Additionally, 194 open tasks with 0 completed suggests tasks are not being marked complete after orders are placed/received.
+- **Purpose**: Centralized purchasing task management for Black Swift Technologies
+- **Owner**: Meredith O'hara Needham
+- **Team**: Whole BST team
+- **Status**: **Active but systemically problematic** — see below
+- **Timeline**: Ongoing (all tasks remain open; no completion tracking)
+- **Risk Signals**: 
+  - **194 open tasks, 0 completed** — indicates tasks are not being closed out after orders are fulfilled
+  - Joshua Fromm reported (2026-11-13) he may have been removed from purchasing email forward and is not receiving notifications
+  - Many tasks with "Order Placed," "Order Shipped," "Order Received" statuses remain marked OPEN in Asana — this is stale data
+  - Tasks with due dates spanning May 2026 through January 2027, many long past their "should place order" dates
+  - No clear workflow for transitioning completed/received orders to a closed state
 
-## Key Issues
+## Key Issue: Data Integrity
+This project appears to use Asana primarily as an intake mechanism (via form submission). Orders proceed through real fulfillment (placed → shipped → received) but **tasks remain perpetually open**. The "Status" custom field (Order Placed, Order Received, etc.) reflects real-world state, but task completion does not. 
 
-### ⚠️ Immediate: Email Forwarding Problem
-**[2026-11-13] Joshua Fromm reports:** "i think maybe i got removed from the purchasing email forward… not sure, not getting any emails"
-
-This indicates a **critical communication gap**. Joshua is the primary requester on ~80% of the open orders, but may not be receiving status updates or alerts. This could cause:
-- Orders being placed twice
-- Delays in order placement
-- Lost visibility of delivery dates
-
-**Action Required:** Verify Joshua is on the purchasing email distribution and restore if needed.
-
----
+**Team feedback (2026-11-13) from Joshua Fromm indicates communication breakdown:** he is not receiving purchasing emails, suggesting he may be unable to track or act on his own requisitions.
 
 ## Task Summary
+- **Total**: 194 open, 0 completed
+- **Assignee Distribution**:
+  - Meredith O'hara Needham: ~12 tasks (most recent/current intake)
+  - Unassigned: ~180 tasks (backlog in various fulfillment states)
+  - Jack Elston: 1 task (Dronetag DRI RID Module, due 2026-11-13)
+- **Status Distribution** (from custom field):
+  - Order Placed: ~35 tasks
+  - Order Shipped: ~10 tasks
+  - Order Received: ~40 tasks
+  - Order Placed in Inventory: ~95 tasks (older orders, long-term storage)
+  - Unspecified: ~5 tasks
 
-### Volume & Completion
-- **Total Open:** 194 tasks
-- **Completed:** 0 tasks
-- **Implied Issue:** Orders marked "Order Received," "Order Shipped," or "Order Placed" are still open in Asana. This suggests the workflow does not include task closure after delivery/receipt, creating stale data.
+## Recent Activity
+- **Most Recent Assigned Tasks** (to Meredith O'hara Needham):
+  - Dronetag DRI RID Module (Jack Elston, due 2026-11-13, requires approval, $, for [001-8] IRAD Flight Testing)
+  - Composite envisions for S3 backorder (due 2026-11-11, Joshua Fromm request)
+  - Protolabs for S3 sales (due 2026-11-15, order already placed)
+  - QC kit materials (due 2026-11-15, order already placed)
+  - Multiple S3 sales vendor orders (Digikey, instrumart, ACP composites, Jawstec, Hillside) due 2026-11-13–2026-11-15, all with "Order Placed" status
+  - McMaster multi-project order (due 2026-11-13, order placed)
+  - FLIR Hadron 640R Camera for SOCOM S0-AD (due 2026-11-12, order placed)
 
-### Tasks by Assignee
-| Assignee | Count | Notes |
-|---|---|---|
-| **Meredith O'hara Needham** | ~15 | Primary owner; executing purchases |
-| **Joshua Fromm** | ~140+ | Primary requester; **not receiving emails per 11/13 feedback** |
-| **Unassigned** | ~40 | Old orders (many from June–Sept 2026, already received) |
-| Other requesters (Alex, Spencer, Sam, Ali, Dan, etc.) | ~20 | Various one-off purchases |
-
----
-
-## Recent Activity & Upcoming Deadlines
-
-### **OVERDUE (Due dates in Sept–Oct 2026, still open)**
-- Microhard 10x p900 / 100x p400 | [300-3] 2026 IDIQ | Due 2026-11-07 | Status: "Order Placed" | Jack Elston requester
-- PSKN3-24/55S antenna / StepGlobal | [001-7] IRAD S3 | Due 2026-10-11 | Status: "Order Placed" | Dan P. requester
-- Components for Ground Antenna | [001-7] IRAD S3 | Due 2026-09-27 | Status: "Order Placed" | Dan requester
-- icare order for s0 idiq | [300-3] 2026 IDIQ | Due 2026-07-26 | Status: "Order Placed" | Joshua Fromm requester
-- Many tasks from June–Aug 2026 marked "Order Received" but never closed
-
-### **APPROACHING (Nov 2026)**
-- **Dronetag DRI RID Module** | [001-8] IRAD Flight Testing | Due **2026-11-13** (TODAY) | Jack Elston | Requires Approval: Yes
-- **composite envisions for s3 (backorder)** | Future Sales | Due **2026-11-11** (OVERDUE) | Joshua Fromm
-- **protolabs for s3 sales** | Future Sales | Due **2026-11-15** | Joshua Fromm | Status: "Order Placed"
-- **materials for QC kits** (ESD trays, FTDI boards) | [001-1] IRAD General | Due **2026-11-15** | Ali Sulehria | Requires Approval: Yes | Status: "Order Placed"
-- **digikey for s3 parts** | Future Sales | Due **2026-11-15** | Joshua Fromm | Status: "Order Placed"
-- **FLIR Hadron 640R Camera** | [001-23] SOCOM S0-AD | Due **2026-11-12** | Dan | Status: "Order Placed"
-- **jawstec for s3 parts** | [451-1] INSTAAR S3 x2 | Due **2026-11-13** | Joshua Fromm | Status: "Order Received"
-
-### **Backlog (Due Dec 2026–Jan 2027)**
-~120 tasks marked "Order Placed in Inventory" with due dates of 2026-12-29 or 2027-01-04. These include:
-- S3 repairs (laser, regulator, backup regulators, RF connectors)
-- Shop supplies and equipment
-- [300-3] Hurricane IDIQ parts
-- [001-7] IRAD S3 parts
-- [600-01] SOCOM Pope ii components
-
----
+- **Oldest Active Tasks** (never closed):
+  - McMaster order for [039-1] S2 Oklahoma (due 2025-02-24) — **overdue by ~9 months**
+  - Multiple orders dated July–September 2026 with "Order Received" or "Order Placed in Inventory" status, still open
 
 ## Notes & Context
+1. **Form-Based Intake**: Project notes instruct users to submit via a form (https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594) or tasks will auto-delete. This suggests high volume and automated creation.
 
-### Workflow Issues
-1. **No Task Closure:** Orders with statuses "Order Received," "Order Shipped," and "Order Placed in Inventory" remain open. This creates:
-   - False sense of open volume
-   - Inability to distinguish active vs. completed work
-   - Stale data for planning
+2. **Tax & Approval Tracking**: Most tasks include "Requires Approval?" and "Tax Exempt?" fields, indicating compliance/budget controls. One task (ADS-B for S30002) explicitly requires approval; most others do not.
 
-2. **Tax Exempt & Approval Tracking:**
-   - Custom fields capture tax-exempt status (YES/NO) and approval requirement
-   - Only ~5 tasks require approval (>$200); most are pre-approved
+3. **Project Billing**: Orders are tagged to destination projects (IRAD series, SOCOM, NASA, Hurricane IDIQ, INSTAAR S3, Magnetometer, etc.). Many orders for "Future Sales" and "General Sales" categories; some tagged "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN" (incomplete cost allocation).
 
-3. **Project Billing:**
-   - Orders span multiple projects: [001-x] IRAD variants, [300-3] Hurricane IDIQ, [451-1] INSTAAR S3, [550-1] Navy SBIR, [600-01] SOCOM Pope ii, [043-3] Mustang Pt. 2, [039-1] S2 Oklahoma, and "Future Sales" / "General Sales" / "Shop Supplies"
-   - Some orders split across "MULTIPLE PROJECT — PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" (tracking gap)
+4. **Communication Gap** (Per Joshua Fromm, 2026-11-13): Joshua is not receiving purchasing emails and suspects he was removed from a forwarding list. As a frequent requester, this represents a critical process failure for a key stakeholder.
 
-4. **Vendor Frequency:**
-   - Repeat vendors: Jawstec, McMaster, Digikey, Amazon, Mouser, SendCutSend, Protolabs, Composite Envisions
-   - Suggests established procurement relationships; opportunity for batch discounting or account review
+5. **No Completion Workflow**: Despite custom "Status" field accurately tracking real-world fulfillment, Asana tasks are never marked complete. This makes the task list unintelligible for current vs. historical order status and prevents clean archival.
 
-### Communication Gaps
-- Joshua Fromm's email forwarding issue (11/13/2026) is **critical**—he is the primary requester but may not be aware of order statuses.
-- No evidence of escalation for overdue items (Sept–Oct orders still open).
-- Form-based submission (linked in project notes) may not be triggering notifications properly.
+6. **Vendor Concentration**: Jawstec, McMaster, Digikey, and Amazon account for majority of orders. Many composite/aviation vendors (protolabs, sendcutsend, ACP Composites, Hillside Composites) indicate S3 and structural manufacturing orders.
 
-### Budget Data
-No total budget or milestones provided in Asana. Order amounts are not visible in task titles. Custom fields may store cost data, but it is not exported in the raw data.
-
----
-
-## Recommendations
-1. **Restore Joshua Fromm's email access immediately.**
-2. **Implement task closure workflow:** Once an order is received/placed in inventory, close the task to reduce noise.
-3. **Review overdue orders from Sept–Oct 2026:** Determine if items have actually been received/used and close out accordingly.
-4. **Audit "Order Placed in Inventory" items:** Many have vague request dates (May–Aug 2026). Clarify scope and intended project.
-5. **Aggregate project spending:** Cross-check Asana against actual invoices/POs to verify accuracy.
+## Recommendations for AI Assistant
+- When answering "What's the status of order X?", **defer to the custom "Status" field** and the task's "When should this order be placed?" date, not the Asana due date.
+- Treat unassigned + "Order Received"/"Order Placed in Inventory" tasks as **historical/closed-out**, pending reconciliation.
+- Flag any task due >30 days in past as **potentially overdue or forgotten**.
+- Escalate to Meredith O'hara Needham if tasks require approval or reassignment.
+- **Action item**: Restore Joshua Fromm to purchasing email forward and implement task closure workflow (e.g., mark complete when received/invoiced).

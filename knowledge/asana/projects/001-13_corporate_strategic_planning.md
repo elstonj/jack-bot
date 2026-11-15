@@ -1,34 +1,29 @@
-_Asana snapshot as of 2026-11-14: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-15: 1 open tasks, 0 completed (last 90 days)._
 
-# [001-13] Corporate / Strategic Planning
+# Corporate / Strategic Planning [001-13]
 
 ## Status
-**ARCHIVED** — Project was active as of June 2024 but is no longer in use. Contains only 1 open task (lease termination tracking) with no due date.
+**ARCHIVED** — Project marked as inactive as of June 2024. Last status update June 16, 2024.
 
 ## Overview
-- **Purpose:** Marketing strategy planning and customer analysis
-- **Team:** Whole BST team (unassigned execution)
-- **Known Customers/Targets:**
-  - Government/institutional sector (LinkedIn, email outreach)
+- **Purpose**: Marketing strategy planning and corporate strategic direction
+- **Team**: BST (Whole Team)
+- **Key Customers/Accounts Identified**:
+  - Government/Institutional sector
     - NOAA
     - NASA (Aren 2023 — $90k)
     - DOD
     - CO OEDIT — $152k
-- **Timeline:** Last status update June 16, 2024
-- **Marketing Goals (identified):**
-  - Increase brand awareness
-  - Drive website traffic
-  - Lead generation
-  - Grow audience
-  - Increase engagement
-  - Drive revenue
-
-## Key Deliverables & Milestones
-None actively tracked. Project structure included a 60-month rolling timeline broken into 12-month blocks (Months 1–12, 13–24, 25–36, 37–48, 49–60) with associated cost projections ($13.00–$14.63 NNN per block).
+  - LinkedIn and email outreach channels
+- **Marketing Goals**: Increase brand awareness, drive website traffic, lead generation, grow audience, increase engagement, drive revenue
 
 ## Task Summary
-- **Total:** 1 open task, 0 completed
-- **Open Task:** "Lease terminates" (Unassigned, no due date) — Real estate property taxes and building insurance tracking for 6.23 CAM
+- **Total tasks**: 1 open, 0 completed
+- **Open task**: "Lease terminates" (Unassigned, no due date)
+  - Notes reference NNN lease structure with 5-year escalation schedule ($13.00–$14.63/month) and CAM charges for real estate property taxes and building insurance (effective 6.23)
+
+## Recent Activity
+No recent activity — project archived since June 2024.
 
 ## Notes & Context
-This project appears to be a strategic/corporate planning archive rather than an active execution project. The single open task relates to facility lease management rather than active marketing initiatives. Per team feedback from October 2026 (Maciej), BST is restructuring its Asana approach to separate long-term milestone planning from weekly execution tracked on a physical Kanban board — this archived project likely predates that restructuring.
+This project appears to be strategic/planning-focused rather than operational. The one remaining open task relates to a real estate lease and appears to be administrative overhead tracking rather than a marketing initiative. The project likely transitioned to operational execution elsewhere or was consolidated into other planning structures.
