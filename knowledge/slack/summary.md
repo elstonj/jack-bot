@@ -1,50 +1,42 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-14 02:34
+Last scanned: 2026-11-16 02:28
 
-Total channels scanned: 4
+Total channels scanned: 5
 
 ## Channels
 
-- **#general** -- 14 messages -- [general.md](general.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#sbir-hurricane** -- 3 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 6 messages -- [swiftcore.md](swiftcore.md)
+- **#general** -- 2 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 6 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#s3** -- 3 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 2 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#swiftcore** -- 4 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Strategic Channel Overview
+# Black Swift Technologies - Cross-Channel Strategic Overview
 
-## Cross-Channel Themes
+## Active Projects
+- **S0/Hurricane Reconnaissance**: SBIR-funded unmanned aircraft system for hurricane missions (2020-2026)
+- **S3 VTOL**: Hybrid fixed-wing/quadcopter long-endurance drone with tilting rotors (2-3 hour endurance target)
+- **SwiftCore**: Core drone system firmware, flight control, and tablet application platform (2020-2025)
 
-### Active Projects
-- **SBIR Hurricane (S0 UAS)**: Primary focus in #sbir-hurricane; hurricane reconnaissance unmanned aircraft system in active development/testing (2020-2026)
-- **SwiftCore Drone System**: Core product development in #swiftcore; firmware, tablet applications, flight testing, and release management ongoing
-- Both projects show sustained multi-year development cycles with regular operational updates
+## Key Decision-Makers & Leadership
+- **Jack Elston**: Primary decision authority, proposal reviewer, grants/funding oversight, strategic direction
+- **Joshua Fromm**: Lead engineer/designer, RF/antenna expertise, CAD design, component sourcing
+- **Maciej**: Technical support, proposal development, field operations coordination
+- **Dan Prendergast**: Business development and operations
 
-### Key People & Roles
-| Person | Primary Role | Active Channels |
-|--------|-------------|-----------------|
-| Jack Elston | Leadership/Strategic | #general, #operations, #sbir-hurricane, #swiftcore |
-| Joshua Fromm | Hardware/Shop Lead | #sbir-hurricane, #operations |
-| Dan Prendergast | Business Development/Operations | #general, #operations |
-| Danny Troke | Technical/Engineering | #sbir-hurricane, #swiftcore, #general |
-| Maciej | Engineering | #sbir-hurricane, #swiftcore, #general |
-| Meredith Needham | Finance/Admin | #general, #operations |
+## Cross-Channel Theme: Government Contracting
+Multiple channels reflect active pursuit of federal funding (NASA, DOD, NOAA, USDA, DOE). Grant strategy and proposal development feed technical roadmaps in #sbir-hurricane, #s3, and #swiftcore channels.
 
-### Decision Patterns
-- **Technical decisions** flow through project-specific channels (#sbir-hurricane, #swiftcore) with implementation details documented
-- **Operational/business decisions** centralized in #operations with administrative follow-up
-- **Company-wide announcements** in #general serve as broadcast mechanism for coordination across all teams
+## Recurring Patterns
+- **Technical iteration**: Continuous firmware updates, flight testing, and design refinement across SwiftCore and aircraft platforms
+- **Component sourcing & validation**: Emphasis on RF systems, batteries, and parts procurement (particularly in S3 channel)
+- **Mission-driven development**: All projects tie to specific operational requirements (hurricane surveillance, long-endurance operations)
 
-### Recurring Topics
-- Flight testing coordination and mission planning
-- Firmware/software development sprints and bug fixes
-- Procurement and resource allocation
-- Facility and administrative management
-- Project status and milestone tracking
-
-### Cross-Channel Connections
-- **#operations** serves as operational backbone, supporting both project channels
-- **#general** acts as coordination hub, broadcasting decisions from project and operations channels
-- Core engineering team (#swiftcore, #sbir-hurricane) relies on #operations for resource support and #general for company-wide synchronization
+## Key Connectors
+- **Joshua Fromm**: Links hardware design (#s3) to broader SwiftCore integration
+- **Jack Elston**: Connects funding strategy (#grants-and-funding) to technical project priorities
+- **Maciej**: Bridges technical work with operations and proposal requirements
+- **#general**: Central communication hub distributing announcements and coordinating across all project areas

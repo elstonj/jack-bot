@@ -73,11 +73,13 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **2027 Holiday Calendar Adjustment** (November 9, 2026): Unspecified team member removed 2027 holidays from Deel payroll system. Spencer Hoehl humorously expressed excitement about extra ski days at Eldora with his 4-pass ticket; Jack Elston joked that Spencer's enthusiasm confirms the purpose (additional skiing time rather than actual holiday removal error).
 - **Toggl Time Tracking Accuracy Reminder** (November 10, 2026): Cory Dixon requested all team members to update and maintain accurate Toggl times by end of day. Indicates ongoing need for precise time tracking for project accounting and billing purposes.
 - **Ethernet Network Infrastructure Issue** (November 11, 2026): Jack Elston identified that someone had plugged in a new ethernet device and attached wire ties to his office switch used for testing, potentially disconnecting cables. Multiple team members reported ethernet connectivity issues. Jack directed affected users to unplug ethernet and use WiFi temporarily while he resolves the issue upon return. Frustration expressed about issue occurring immediately after he left office.
+- **Pet Loss & Bereavement Support** (November 15, 2026): Meredith Needham notified team that she experienced a recent health issue with her pet Trixie and made the decision to euthanize. Meredith absent from office Monday (November 17); returning Tuesday (November 18). Dan Prendergast offered condolences. Demonstrates organizational culture of supporting team members through personal grief and loss, with flexible scheduling accommodations for bereavement circumstances.
 
 ## Action Items & Commitments
 
 ### Time-Sensitive
 - **Ethan Domagala's Costco Tire Shop Meeting** (November 12, 2026 at 9:00am): Ethan must chat with Costco tire shop manager Dion tomorrow morning at 9:00am; will be in office as soon as possible after meeting. Jack Elston acknowledged with friendly greeting to relay.
+- **Meredith Needham Out-of-Office** (November 17-18, 2026): Meredith Needham out Monday (November 17) due to pet bereavement; returning Tuesday (November 18).
 - **Ethernet Network Issue Resolution**: Jack Elston to resolve ethernet connectivity issues upon his return; affected team members temporarily using WiFi.
 
 ### Ongoing
@@ -113,17 +115,18 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 - **New Hire Onboarding & Team Integration**: Emphasis on welcoming new team members and facilitating introductions (Spencer Hoehl June 2026; Josh Waldman and Shelly Dvorak October 7, 2026; Lynn Regnier, Brandon Messersmit, Bob Edson starting October 28, 2026); formal orientation meeting scheduled for new hires; recent focus on new hire day-to-day logistics and team coordination; Brandon Messersmit demonstrating productive integration with tool setup initiatives and infrastructure projects; Bob Edson actively contributing to operations (flight testing support, Royal Navy visit coordination); Bob Edson continuing to demonstrate flexibility with caregiving responsibilities while maintaining work commitment; Robert Edson conducting field flight testing (November 11, 2026)
 - **Office Management**: Facility maintenance, cleanliness standards, beverage/supply inventory, equipment (flux pens located under stairs per Sam Hild; Spindrift boxes); environmental stewardship and waste reduction; professional cleaning service coordination; facility preparation for important visitor events; successful visitor event coordination; active infrastructure modernization (Wi-Fi and network upgrade project; Google Workspace expansion November 9, 2026); network infrastructure challenges requiring troubleshooting (November 11, 2026)
 - **Compliance & Security**: CMMC compliance questions, CUI document storage, security incident flagging, AI tool usage restrictions for safety-critical code
-- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026; Bob Edson doctor appointment November 3, 2026; Ethan Domagala dental appointments November 5, 2026); team members bringing family members/pets to office for appointments; Ember service dog bringing documented flexibility and team support; vehicle-related absences requiring rental car coordination; increased flexibility for personal errands and childcare (Meredith's banking stop November 10; Robert Edson childcare morning November 10; Ali Sulehria early departure November 10); field testing scheduling (Robert Edson field flight testing November 11)
+- **Schedule Coordination**: Regular announcements of absences, work-from-home requests, time-off planning; increasingly detailed coordination for personal medical appointments and childcare arrangements; health-related absences (Alex Lomis illness November 1, 2026; Bob Edson doctor appointment November 3, 2026; Ethan Domagala dental appointments November 5, 2026); team members bringing family members/pets to office for appointments; Ember service dog bringing documented flexibility and team support; vehicle-related absences requiring rental car coordination; increased flexibility for personal errands and childcare (Meredith's banking stop November 10; Robert Edson childcare morning November 10; Ali Sulehria early departure November 10); field testing scheduling (Robert Edson field flight testing November 11); bereavement leave for pet loss (Meredith Needham November 17, 2026)
 - **Team Perks & Social Activities**: Eldora ski passes distributed with enthusiastic team interest; team lunches, milestone celebrations, Halloween costume contests, leadership supporting work-life balance; new attention to accommodations for team members with service animals; Beck Cotter receiving recognition for planning and setup support; equipment donations supporting flight operations (Futaba transmitters and receivers November 10, 2026); seasonal treats and refreshments (eggnog pie November 11, 2026)
 - **AI/Technology Tools**: Introduction and standardization of Claude AI assistant with BST knowledge base; cost optimization through Gemini preference (Jack confirmed using Gemini for image/media creation); safety policies around code generation; practical AI assistant templates for UAS technician workflows; continued team setup and adoption; Google Workspace expansion with enhanced Gemini integration (November 9, 2026)
 - **Sustainability & Environmental Responsibility**: New initiative to reduce single-use plastics and non-biodegradable materials in company packing practices; team-wide effort to repurpose and reuse materials; Gemini usage for creative tasks to manage Claude API costs
-- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs; pet care responsibilities (Meredith's pet Trixie vet medication pickup); accessibility support through service dog accommodations; childcare flexibility for caregivers (Bob Edson morning WFH November 10); seasonal food sharing (eggnog pie November 11)
+- **Employee Health & Wellness**: Team members managing illness while maintaining work access (WFH arrangements for health reasons); family-friendly workplace accommodating personal appointments and childcare needs; pet care responsibilities (Meredith's pet Trixie vet medication pickup November 3; euthanasia and bereavement November 15-17, 2026); accessibility support through service dog accommodations; childcare flexibility for caregivers (Bob Edson morning WFH November 10); seasonal food sharing (eggnog pie November 11); supportive organizational culture providing bereavement accommodations for pet loss
 - **Visitor Preparedness & Facility Showcasing**: Demonstration of company capabilities to external partners (simulator setup showcase appreciated by visiting Royal Navy delegation); team coordination in presenting best impression of facilities and technical capabilities
 - **Document Management & Knowledge Organization**: Brandon Messersmit establishing centralized "Active Work (Unsorted Drafts)" folder for work-in-progress documentation; S0 Assembly Guides (DRAFT) with Onshape drawings and Open Items Tracker for collaborative documentation completion; team members contributing subject-matter expertise to complete technical documentation
 - **Infrastructure & Technical Projects**: Brandon Messersmit leading Wi-Fi and network upgrade project; facility floor plans and network jack documentation required; evidence of technology modernization supporting growing team and operations; Google Workspace infrastructure expansion with enhanced capabilities (November 9, 2026); ethernet network infrastructure challenges requiring investigation and resolution (November 11, 2026)
 - **Appreciation & Recognition**: Beck Cotter receiving recognition from leadership (Dan Prendergast, Cory Dixon) for event planning and coordination work; Meredith Needham receiving recognition for Ramp demonstration setup (November 9); team using taco emoji reactions to acknowledge helpful contributions; Spencer Hoehl recognized for holiday calendar management (November 9); unidentified team member recognized for Futaba transmitter and receiver donation to flight operations (November 10, taco emoji recognition)
 - **Time & Project Tracking Accuracy**: Emphasis on maintaining accurate Toggl time entries (Cory Dixon November 10) for proper project accounting and billing; alignment with growing complexity of project portfolio and need for precise financial tracking
 - **Veteran's Day Recognition** (November 11, 2026): Jack Elston acknowledged Veteran's Day with thanks to veteran team members; Dan Prendergast responded with acknowledgment. Shows leadership attention to cultural observances and recognition of team members' military service backgrounds.
+- **Compassionate Leave & Bereavement Support**: Organization demonstrates supportive culture by accommodating time off for pet bereavement (November 15, 2026). Meredith Needham's one-day absence granted for end-of-life decision and grief processing, with team leadership (Dan Prendergast) offering condolences. Reflects BST's broader trend of supporting team member wellbeing beyond traditional workplace boundaries.
 
 ## Important Resources
 - **BST Pilot Quals Folder**: Shared Drives → Operations: Flight (for Part 107 license documentation)
@@ -146,44 +149,27 @@ Black Swift Technologies' main company-wide channel used for announcements, proj
 
 ## Recent Activity
 
-### November 11, 2026
+### November 15-17, 2026
 
-**Seasonal Team Treats**
-- **Eggnog Pie in Kitchen** (09:43): Alex Lomis announced eggnog pie availability in kitchen for team members who wanted some. Shows:
-  - Continued team culture of sharing seasonal treats
-  - Social atmosphere supporting informal team interaction
-  - Leadership/staff attention to seasonal food traditions
+**Pet Loss & Bereavement Support** (November 15, 17:07-18:34)
+- **Meredith Needham Pet Bereavement Notification**: Meredith Needham posted to #general channel that she experienced a recent health issue with her pet Trixie and decided it was time to say goodbye. Announced absence from office Monday (November 17), returning Tuesday (November 18).
+- **Leadership Condolence**: Dan Prendergast immediately responded with sympathetic message "Sorry to hear about that Meredith. We'll see you on Tuesday."
 
-**Veteran's Day Recognition**
-- **Jack Elston Veteran's Day Acknowledgment** (11:16): Jack Elston recognized Veteran's Day with thanks to specific veteran team members (tagged three team members by ID), expressing hope he didn't miss anyone. Dan Prendergast responded with thanks. Demonstrates:
-  - Leadership cultural awareness and appreciation
-  - Recognition of team members' military service backgrounds
-  - Inclusive attempt to acknowledge all veterans in organization
-  - Respectful company culture honoring military service
+**Implications & Context**:
+- This represents continuation of Meredith Needham's ongoing pet care responsibilities previously documented:
+  - November 3, 2026: Picked up medication for Trixie at vet before closure time during Royal Navy visit
+  - November 15, 2026: Made euthanasia decision after health complications
+  - November 17-18, 2026: Bereavement leave with team accommodation
+- Demonstrates BST organizational culture that:
+  - Recognizes pet loss as legitimate personal grief deserving time off
+  - Supports team member wellbeing beyond traditional workplace boundaries
+  - Leadership actively expresses compassion and solidarity
+  - Flexible scheduling policies accommodate non-traditional bereavement circumstances
+  - Informal communication channel (#general) appropriate for personal announcements, indicating trusted team environment
 
-**Network Infrastructure Issue - Ethernet Connectivity**
-- **Jack Elston Ethernet Investigation** (12:22-12:24): Jack Elston discovered someone had plugged in a new ethernet device and attached wire ties to his office testing switch, potentially disconnecting cables. Multiple team members reported ethernet connectivity loss. Jack's response:
-  - Requested identification of anyone who modified the switch setup
-  - Asked for confirmation of any cables that were connected/disconnected
-  - Directed affected users to unplug ethernet temporarily and use WiFi as workaround
-  - Committed to fix the issue upon his return to office
-  - Expressed frustration that problem occurred immediately after his departure
-  - Reassured team that switch tested so far seems OK, likely specific device/cable issue
+**Summary**: The November 15-17 activity demonstrates BST's empathetic workplace culture extending support to team members during personal loss. Unlike strictly corporate environments, BST recognizes pet bereavement as significant and accommodates time off accordingly. This reflects the recurring theme throughout 2026 of the organization prioritizing team member wellbeing alongside operational efficiency, particularly visible in accommodations for health issues, family responsibilities, and now pet loss.
 
-  **Implications**: Indicates infrastructure modernization efforts (Brandon Messersmit's Wi-Fi and network upgrade project underway) may have involved unauthorized modifications during Jack's absence. Highlights need for better coordination on facility infrastructure changes and cable management protocol.
+---
 
-**Field Flight Testing Operations**
-- **Robert Edson Field Testing** (14:37): Principal UAS Technician Robert Edson announced heading out to field for flight testing, with expected return to office the following morning. Shows:
-  - Active flight operations and testing schedule
-  - Field-based operational activity requiring off-site time
-  - Planned return-to-office next morning indicating multi-hour field commitment
-  - Regular operational cycle of field testing and office-based work
-
-**Personal Appointment Coordination - Vehicle Maintenance**
-- **Ethan Domagala Costco Tire Shop Meeting** (19:49): Ethan Domagala notified team he must chat with Costco tire shop manager Dion tomorrow morning at 9:00am and would arrive at office as soon as possible after the meeting. Jack Elston responded with friendly message "Tell him I said hi," indicating:
-  - Personal familiarity with external business contact (Dion at Costco)
-  - Continuation of flexible schedule accommodations for vehicle maintenance
-  - Leadership support and humor about team member's personal appointments
-  - Relaxed communication style encouraging team to handle personal needs proactively
-
-**Summary of November 11 Activity**: Day characterized by routine operational updates (field testing, seasonal treats, Veteran's Day recognition), infrastructure challenges requiring resolution (ethernet network issue investigation), and continued schedule flexibility for personal appointments. Pattern shows BST maintaining operational tempo while supporting team members' personal vehicle maintenance needs through flexible scheduling arrangements. Veteran's Day recognition demonstrates organizational cultural awareness and respect for military service backgrounds among team members. Ethernet issue highlights coordination challenges as infrastructure modernization projects proceed, suggesting need for better change management protocols.
+**November 11 Activity Summary** (updated from previous knowledge file):
+Day characterized by routine operational updates (field testing, seasonal treats, Veteran's Day recognition), infrastructure challenges requiring resolution (ethernet network issue investigation), and continued schedule flexibility for personal appointments. Pattern shows BST maintaining operational tempo while supporting team members' personal vehicle maintenance needs through flexible scheduling arrangements. Veteran's Day recognition demonstrates organizational cultural awareness and respect for military service backgrounds among team members. Ethernet issue highlights coordination challenges as infrastructure modernization projects proceed, suggesting need for better change management protocols.

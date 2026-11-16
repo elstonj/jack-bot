@@ -148,7 +148,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Announcement By:** Jack Elston (November 10, 2026, 12:18 UTC)
 
 **Lost GPS Landing Timer Fix (November 13, 2026 - APPROVED & REFINED):**
-- **Issue Identified:** Code change to lost-GPS hover fix inadvertently removed the landing time gate (`landing_time == -FLT_MAX || (landing_time-now) > 5.0`), creating a separate issue
+- **Issue Identified:** Code change to lost-GPS hover fix inadvertently removed the landing time gate (`landing_time == -FLT_MAX || (landing_time-time) > 5.0`), creating a separate issue
 - **Problem:** Removing this gate affected landing behavior during lost-GPS TERMINATE conditions
 - **Root Cause Analysis by Maciej (November 13, 16:41):** Removal of `vz < cutoff_velocity` gate during lost_gps prevented proper landing detection
   - Vertical velocity estimate remains accurate with pressure-only sensors (S10022 flight testing showed <5% error vs. laser-based measurements)
@@ -178,6 +178,30 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Prerequisite for Future Maintenance:** bstjenkins user must be added to all required submodules to prevent authentication errors during cloning
 - **Status:** Tablet build now operational in Jenkins pipeline
 
+**24V Redundant Rail Monitoring via CAN (November 15, 2026 - FEATURE BRANCH CREATED):**
+- **Issue Addressed:** Until now, 24V redundant rails on supply board failed silently; if one converter died, system flew on single point of failure without detection
+- **Solution:** New feature branch enables CAN nodes to raise and clear autopilot HW fault for 24V redundant rail monitoring
+- **Implementation Scope:** Minimal changes required
+  - Only autopilot and supply board need new firmware
+  - All other nodes continue running current develop firmware unchanged
+  - New packet is purely additive in comms 3.22.0 (no version bump required)
+  - Nodes that don't know the new packet ID simply drop it (backwards compatible)
+- **New CAN Packet Details:**
+  - Packet ID: `CAN_PKT_HW_FAULT = 0x047`
+  - Located in comms develop, SYSTEM group (next to SUPPLY/POWER_ON/SERIAL_ID packets)
+  - Structure includes:
+    - uint8_t startByte
+    - CAN_NodeID_t node (source node type for diagnostics)
+    - uint32_t uid (source node MCU unique ID, owner of the fault)
+    - uint8_t fault (1 = set fault, 0 = clear fault)
+  - Additional payload fields for extended fault information
+- **Firmware Requirements:**
+  - Autopilot: Feature branch firmware required
+  - Supply board: Feature branch firmware required
+  - All other CAN nodes: No changes needed; continue on current develop
+- **Implementation by:** Jack Elston (announced November 15, 2026, 11:12 UTC)
+- **Status:** Feature branch created and ready for testing
+
 ## Projects & Initiatives
 
 **SwiftCore 3.3.0 Release (COMPLETED - November 10, 2026):**
@@ -193,6 +217,14 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Sign changes pending application to multi-rotor and tailsitter aircraft
   - Pre-existing isLanded() edge case documented for future fix (affects landing timer reset under GPS loss)
 - Status: RELEASED to master branch with critical post-release hotfix refinements
+
+**24V Redundant Rail Monitoring Feature (November 15, 2026 - IN DEVELOPMENT):**
+- Feature branch created for CAN-based hardware fault detection
+- Addresses silent failure mode of 24V redundant rail converters on supply board
+- Backwards-compatible implementation with minimal firmware changes (autopilot + supply board only)
+- New CAN_PKT_HW_FAULT packet enables fault notification to autopilot
+- Expected to improve system resilience and fault detection capability
+- Status: Feature branch ready, pending integration and flight testing
 
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
@@ -221,10 +253,12 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 ## Action Items & Commitments
 
-**Pending Review/Action:**
+**Pending Implementation:**
+- **Autopilot & Supply Board Teams:** Integrate 24V redundant rail monitoring feature branch into development pipeline (Jack Elston, November 15, 2026)
 - **Jack Elston & Maciej:** Apply sign change from GPS-out hover fix to multi-rotor and tailsitter aircraft (identified November 13, 2026) - Pending implementation
 - **Jack Elston & Maciej:** Address pre-existing isLanded() timer reset bug affecting MR and TS vehicles during GPS loss (identified November 13, 2026) - Deferred for future release but documented as potentially dangerous
 - **Development Team:** Monitor and document any additional edge cases or behavioral issues with lost-GPS landing scenarios from field operations
+- **@U01511MEQ90 (Supply Board Lead):** Completed board tasks on weekend (as of November 15, 2026); recognized by Maciej for work enabling 24V redundant rail monitoring feature
 
 ## Client & External References
 - **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
@@ -238,6 +272,7 @@ This channel serves as the primary technical communication hub for Black Swift T
   - Static pressure sensor failures (blocked vs. off)
   - Magnetometer failures
   - Waypoint navigation anomalies
+  - Hardware power rail monitoring and detection
 - Completed for SwiftCore 3.3.0 release validation
 
 **Simulator vs. Real Hardware Testing:**
@@ -271,12 +306,19 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Drop launch and air-deployment capabilities
 - Transition control improvements
 - GPS-loss hover handling refinements with systematic testing across multi-rotor and tailsitter platforms
+- Hardware fault detection and monitoring via CAN
 
 **Post-Release Maintenance & Code Review:**
 - Jack Elston conducting detailed code review of hotfixes post-release
 - Identification of edge cases and pre-existing bugs through systematic review
 - Conservative decision-making approach for post-release changes (keeping protective gates rather than removing them)
 - Thorough testing methodology combining simulation and flight validation
+- Rigorous backwards-compatibility analysis for new features (comms version management)
+
+**Hardware Reliability & Fault Detection:**
+- Expanding focus on detection of previously-silent failures (24V redundant rail converters)
+- Emphasis on single-point-of-failure elimination through redundancy monitoring
+- CAN bus utilization for distributed fault reporting and diagnostics
 
 ## Important Resources
 
@@ -296,6 +338,11 @@ This channel serves as the primary technical communication hub for Black Swift T
 - release/3.3.0 (merged GPS-out hover fix with landing timer refinements)
 - hotfix/no_gps_vtol_hover_fix (Maciej's original fix, refined by Jack Elston November 2, further refined November 13)
 - Lost GPS hover improvement hotfix (pushed to Master November 12, further refined November 13, 2026)
+- feature/redundant_rail_monitoring or similar (24V redundant rail CAN monitoring feature branch - Jack Elston, November 15, 2026)
+
+**CAN Protocol Updates:**
+- comms develop, version 3.22.0 (additive - no version bump, backwards compatible)
+- New packet: CAN_PKT_HW_FAULT = 0x047 (SYSTEM group, next to SUPPLY/POWER_ON/SERIAL_ID)
 
 **Infrastructure:**
 - Local git server (established October 27, 2026)
@@ -304,50 +351,30 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 ## Recent Activity
 
-**November 13, 2026 - Post-Release Code Review & Hotfix Refinement:**
+**November 15, 2026 - New 24V Redundant Rail Monitoring Feature:**
 
-**Code Review & Issue Identification (Jack Elston, 05:47-05:56 UTC):**
-- Jack Elston thoroughly reviewed Maciej's post-release hotfix code
-- **Critical Finding:** Removal of landing time gate `(landing_time == -FLT_MAX || (landing_time-now) > 5.0)` creates a problem for lost-GPS landing behavior
-- **Concern:** Gate removal impacts multiple failure scenarios; needs investigation before finalizing fix
-- **Secondary Finding:** Sign change from GPS-out fix requires application to multi-rotor and tailsitter aircraft (currently only in VTOL)
-- **Pre-existing Bug Discovered (concerning):** isLanded() state machine issue:
-  - Returns true 8 seconds after landing sequence begins, regardless of actual altitude
-  - Landing countdown timer never resets during lost_gps
-  - Combined with 1-second isNearTheGround() gate creates edge case where aircraft prematurely reports LANDED while still airborne
-  - Particularly dangerous in lost-GPS TERMINATE scenario where aircraft transitions to non-flying state at 9 seconds even if still flying
+**Feature Announcement (Jack Elston, 11:12 UTC):**
+- Jack Elston announced new feature branch for CAN-based hardware fault detection
+- **Problem Statement:** 24V redundant rails on supply board previously failed silently; system would fly on single point of failure without detection
+- **Solution Design:**
+  - New feature allows CAN nodes to raise and clear autopilot HW fault flags
+  - Minimal firmware change required: only autopilot and supply board need updates
+  - All other CAN nodes continue unchanged on current develop firmware
+  - Backwards compatible via purely additive comms packet (no version bump in 3.22.0)
+  - Unknown packet IDs silently dropped by legacy nodes
+- **Technical Details:**
+  - New CAN packet: CAN_PKT_HW_FAULT = 0x047
+  - Located in SYSTEM packet group alongside SUPPLY/POWER_ON/SERIAL_ID
+  - Includes source node identification (node type, MCU unique ID) and fault set/clear flag
+  - Designed for extensibility with additional fault information fields
+- **Implementation Status:** Feature branch ready; requires autopilot firmware integration and supply board firmware updates before testing
 
-**Root Cause Analysis & Solution (Maciej, 08:47 UTC):**
-- Confirms isLanded() bug exists in multi-rotor and tailsitter too; not critical since v_body usually zero in that condition
-- Agrees with Jack's conservative approach: keep landing time gate and add `lost_gps` condition check instead of removing gate
-- Rationale: Spencer Hoehl previously tested regular landing with this code and confirmed it works correctly; full gate removal is too risky
-- Defers pre-existing isLanded() bug for future fix; acknowledges it's potentially dangerous
-
-**Updated Hotfix & Validation (Maciej, 16:41 UTC - November 13):**
-- Pushes new hotfix iteration addressing landing timer issue
-- **Root Cause (confirmed through logs):** Removal of `vz < cutoff_velocity` gate during lost_gps prevented proper landing detection in TERMINATE mode
-- **Validation Data (from S10022 flights):** Pressure-based vertical velocity estimate highly accurate with <5% error vs. laser altimeter reference measurements
-- **Solution:** Restore vz cutoff check while keeping lost_gps gate active
-- **Testing Results:**
-  - Simulated both failure scenario and recovery successfully
-  - Reproduced original failures with old code
-  - Re-tested with updated code; no failures observed
-- **Conclusion:** Conservative approach with both gates (landing time + vz cutoff + lost_gps condition) is safest path forward
-
-**Jenkins Infrastructure Update (Ben Busby, 19:36 UTC - November 13):**
-- Fixed Jenkins tablet build pipeline that was failing due to stale libcanard fork URL
-- Updated repository reference to new fork version
-- **Important Note for Future Maintenance:** bstjenkins user must be explicitly added to all required submodules to prevent authentication errors during cloning
-- Tablet build now operational and deployable through Jenkins
-
-**Overall Context:**
-- Demonstrates rigorous post-release code review process catching edge cases not apparent in initial flight testing
-- Shows collaborative debugging approach with rapid iteration on fixes based on flight log analysis
-- Conservative decision-making prioritizes safety over aggressive optimization
-- Infrastructure and deployment pipeline kept current to support ongoing hotfix releases
+**Team Acknowledgment (Maciej, 11:34 UTC):**
+- Maciej acknowledged @U01511MEQ90 (supply board lead) with taco emoji for completing board tasks on weekend
+- Recognition of work enabling the 24V redundant rail monitoring feature development
 
 ---
 
 # Summary of Updates
 
-The new data from November 13, 2026 captures critical post-release refinements to the SwiftCore 3.3.0 GPS-out landing handling. Jack Elston's detailed code review identified subtle but potentially dangerous edge cases in the lost-GPS landing timer logic, prompting Maciej to refine the hotfix approach. The team validated pressure-based vertical velocity estimation accuracy through flight logs and opted for a conservative gating strategy that preserves multiple safety checks rather than aggressive simplification. Ben Busby updated Jenkins infrastructure to support ongoing hotfix deployment. This reflects a mature development process balancing rapid iteration with safety-critical control system rigor.
+The November 15, 2026 entry adds a new hardware safety feature to the knowledge base: CAN-based redundant rail monitoring via a new fault reporting packet. This represents continued emphasis on eliminating single-point-of-failure modes through distributed diagnostics. The implementation demonstrates disciplined backwards-compatibility practices (additive packet, no version bump) and minimal firmware impact (only two hardware components affected while others remain unchanged). This reflects the team's mature approach to incremental safety improvements without disrupting ongoing operations.

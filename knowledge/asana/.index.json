@@ -42,8 +42,8 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-14",
-    "completed": 18,
+    "as_of": "2026-11-16",
+    "completed": 19,
     "name": "[001-07] S3 IRAD",
     "open": 20,
     "window": "last 90 days"
@@ -182,7 +182,7 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-15",
+    "as_of": "2026-11-16",
     "completed": 0,
     "name": "[001-13] Purchasing",
     "open": 194,
@@ -427,7 +427,7 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-11-12",
+    "as_of": "2026-11-16",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,

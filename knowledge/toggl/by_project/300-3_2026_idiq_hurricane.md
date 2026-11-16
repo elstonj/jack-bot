@@ -1,12 +1,12 @@
-_Computed from Toggl as of 2026-11-13: 2598.7 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 355.9 h, Sam Hild 279.8 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 102.3 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
+_Computed from Toggl as of 2026-11-16: 2605.7 h total since 2020-01-01 — Nate 513.5 h, Josh Fromm 479.0 h, Jack Elston 447.0 h, Stachura 355.9 h, Sam Hild 279.8 h, Alex 126.3 h, Ethan Domagala 119.8 h, Ali Sulehria 109.3 h, Kareem Ahmed 83.6 h, Spencer Hoehl 78.9 h, Dan 12.8 h._
 
 # [300-3] 2026 IDIQ (Hurricane) — Time Tracking
 
 ## Overview
-- **Client:** NOAA
+- **Client:** NOAA ([300])
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 2,598.7 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 2,605.7 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 
@@ -16,35 +16,53 @@ _Computed from Toggl as of 2026-11-13: 2598.7 h total since 2020-01-01 — Nate 
 | Josh Fromm | 479.0 | 18.4% |
 | Jack Elston | 447.0 | 17.2% |
 | Stachura | 355.9 | 13.7% |
-| Sam Hild | 279.8 | 10.8% |
-| Alex | 126.3 | 4.9% |
+| Sam Hild | 279.8 | 10.7% |
+| Alex | 126.3 | 4.8% |
 | Ethan Domagala | 119.8 | 4.6% |
-| Ali Sulehria | 102.3 | 3.9% |
+| Ali Sulehria | 109.3 | 4.2% |
 | Kareem Ahmed | 83.6 | 3.2% |
 | Spencer Hoehl | 78.9 | 3.0% |
 | Dan | 12.8 | 0.5% |
 
-**Primary Contributors:** Nate, Josh Fromm, and Jack Elston comprise ~55% of project hours.
+**Primary Contributors:** Nate, Josh Fromm, and Jack Elston (55.3% combined)
 
 ## Activity Timeline
 
-**Recent Work (67 recent entries analyzed):**
+### Recent Work Patterns
+Recent entries (most current data) show consistent activity across multiple team members:
 
-The project shows active work across multiple technical workstreams:
+- **Ali Sulehria** has been highly active in debugging and testing work:
+  - S0 GPS board testing, onboarding, and QA preparation
+  - S0 PSNS debugging/testing
+  - AP Core 2 P400 radio issues debugging and tool setup
+  - Multiple full 6-8 hour work sessions
 
-- **Hardware/Board Testing & Debugging:** Ali Sulehria leading S0 GPS board testing, PSNS debugging, AP core 2 P400 radio issues (multiple entries)
-- **Mission Support:** Jack Elston providing mission-related support (3 entries totaling 5.8h)
-- **System Rework:** Sam Hild conducting AD Core2 and AD Core rework activities
-- **UI Design:** Jack Elston contributing to UI design (8.2h total in recent entries)
-- **Meetings & Coordination:** NOAA/Blackswift monthly sync, Emerging Tech FY26 Hotwash, S0 Build Updates
-- **High-Volume Contributors:** Josh Fromm and Sam Hild consistently logging full 8-hour days with minimal descriptions
+- **Sam Hild** contributing sustained effort with frequent 7-9 hour entries, with recent focus on:
+  - AD Core2 Rework
+  - AD Core Rework
 
-**Work Pattern:** Many entries lack descriptions; recent activity spans hardware debugging, design work, mission support, and system rework. Regular full-day blocks suggest sustained development/testing cycles.
+- **Jack Elston** engaged in:
+  - PSNS Debugging (multiple sessions)
+  - UI Design (two 4-hour sessions)
+  - Mission Support work
+  - Power off issue debugging
+  - NOAA/Blackswift monthly coordination
+
+- **Josh Fromm** logging consistent 8-hour full-day entries
+- **Stachura** contributing sporadic shorter sessions (0.4–1.8 hours)
 
 ## Insights
 
-- **Work Type Distribution:** Primary focus on hardware testing/debugging (S0 GPS boards, PSNS systems, radio issues), system rework (Core2/Core), and UI design; mission support activities ongoing
-- **Documentation Gap:** 48 of 67 recent entries have no description—limits visibility into specific work scope
-- **Resource Concentration:** Top 3 contributors carry majority of effort; broader team involvement in testing/debugging phases (Ali Sulehria, Sam Hild leading hardware workstreams)
-- **Consistency:** Sustained activity pattern suggests active development phase with regular full-day commitments
-- **Non-Billable:** Despite active work, project is marked non-billable (likely internal R&D, prototype, or pre-contract phase)
+### Types of Work
+- **Hardware debugging and testing:** PSNS debugging, power-off issues, GPS board testing, radio issues
+- **Hardware rework:** AD Core and Core2 rework efforts
+- **System integration:** S0 board preparation, QA coordination
+- **UI/Design work:** Recent UI design sessions by Jack Elston
+- **Mission support and coordination:** Monthly NOAA sync meetings, hotwash participation
+- **Onboarding/setup:** Tool configuration and team onboarding
+
+### Notable Patterns
+- **High entry description gaps:** 68% of recent entries lack task descriptions, limiting visibility into specific deliverables
+- **Sustained debugging cycle:** Multiple team members (Ali, Jack) engaged in iterative debugging of PSNS and radio systems, suggesting ongoing integration challenges
+- **Balanced team contribution:** Work distributed across 11 team members, indicating a mature project team
+- **Non-billable status with high investment:** 2,600+ hours allocated to NOAA project despite non-billable classification—suggests strategic/R&D priority

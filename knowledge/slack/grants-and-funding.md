@@ -4,11 +4,11 @@
 
 This channel tracks Black Swift Technologies' grant applications, funding pursuits, and government contracting efforts across federal agencies (NASA, DOD, NOAA, USDA, DOE, etc.). It serves as the central hub for proposal submissions, funding strategy discussions, budget development, and award management.
 
-**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support and opportunity scouting), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex Lomis (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), Bassil (customer/funder for flight operations), Roger (external contact for COO/parts analysis), Angel (PACOM/Northern Edge contact), Evan (SOCOM contact), Bradley (Northern Edge contact), Chris Meek (Langley/procurement contact), Tony (Northern Edge registration contact), PrecisionTerra (subcontract partner), By Light (DIU partnership), Eryan (NASA radiometry project partner), Supercool Earth (cloud seeding/icing flight customer), Joe Cione (NOAA cyclone/hurricane research contact), Josh C (Navy STTR contact), Jana Kolb (NOAA hurricane contract CO), Angie and Cristoph (NOAA/USGS project contacts for IDIQ), Simon (UK Navy partner/contact), Tony (external contact involved with Camp Pendleton incident), Brian (template/formatting support), Chris Leek (Langley procurement contact), Jed and Brian from KS (external editing support for LC-ISR and DIU decks).
+**Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support and opportunity scouting), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex Lomis (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), Bassil (customer/funder for flight operations), Roger (external contact for COO/parts analysis), Angel (PACOM/Northern Edge contact), Evan (SOCOM contact), Bradley (Northern Edge contact), Chris Meek (Langley/procurement contact), Tony (Northern Edge registration contact), PrecisionTerra (subcontract partner), By Light (DIU partnership), Eryan (NASA radiometry project partner), Supercool Earth (cloud seeding/icing flight customer), Joe Cione (NOAA cyclone/hurricane research contact), Josh C (Navy STTR contact), Jana Kolb (NOAA hurricane contract CO), Angie and Cristoph (NOAA/USGS project contacts for IDIQ), Simon (UK Navy partner/contact), Tony (external contact involved with Camp Pendleton incident), Brian (template/formatting support), Chris Leek (Langley procurement contact), Jed and Brian from KS (external editing support for LC-ISR and DIU decks), Spencer L (wing/tailset manufacturer), Lisa Marie (demo scheduling contact).
 
-**Activity Level:** Extremely high throughout the period (March 2024 - November 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. November 2026 shows continued Arctic operations support, partnership coordination, and DIU program advancement.
+**Activity Level:** Extremely high throughout the period (March 2024 - November 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. November 2026 shows continued Arctic operations support, partnership coordination, DIU program advancement, and LC-ISR program development.
 
-**Time Range:** March 3, 2024 - November 9, 2026
+**Time Range:** March 3, 2024 - November 15, 2026
 
 ---
 
@@ -28,6 +28,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Arctic customer cold-weather qualification design approach** (July 30, 2026): Decision to engineer and design components targeting -55°C requirement, with commitment to validate -40°C during current sprint. Optional -55°C validation (~$85k cost) offered as separate deliverable. Joshua Fromm to lead design starting week of August 5, 2026, with design details meeting to follow.
 - **Arctic Edge 28 proposals submitted** (November 5, 2026): S3 and S0-VTOL aircraft proposed for Arctic Edge competition.
 - **DIU S4 low-cost ISR demo selected for in-person pitch** (November 9, 2026): Advancement to next round for S4 configuration (S0 avionics with batteries on large glider aircraft for extended flight time optimization). Described by Maciej as "low-cost ISR demo"; physical build timeline not imminent but pitch preparation now underway.
+- **LC-ISR wing/tailset supplier selected** (November 15, 2026): Decision to work with Spencer L for wing/tailset manufacturing (3 sets: integrated with servos, 4-surface design with 6 total servos, 4.5m span, 40lbs GTOW capacity, 15-20% more efficient than Chilli baseline). First set delivery mid-January 2027, remainder by March 2027. Decision to defer large purchases (Spencer L quote) until after pitch results received (Jack Elston explicit directive November 15, 12:26 UTC).
 
 ### Proposal Strategy Decisions
 
@@ -68,6 +69,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 - **NASA Appendix 26B SBIR Phase I proposal submitted** (by October 6, 2026): "All Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation" under AERO.7.S26B-0167.
 
+#### LC-ISR Program Strategy (November 2026)
+- **LC-ISR pitch timing** (November 15, 2026): 5-minute virtual pitch scheduled for Thursday (8am timeslot preferred over Tuesday). Demo window April-June 2027. Decision to avoid committing to large supplier purchases (Spencer L wing/tailset manufacturing) before pitch results received. Spencer L to provide quote Monday COB with manufacturing timeline: first set mid-January 2027, remainder by March 2027.
+
 ### Partnership & Collaboration Decisions
 - **LMUK partnership engagement** (October 27, 2026): Ongoing collaboration with Lockheed Martin UK; Jack Elston awaiting clarity on timeline and partnership details before finalizing meeting agendas and budgets.
 
@@ -75,24 +79,55 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ## Projects & Initiatives
 
-### Active Government Proposals (as of November 9, 2026)
+### Active Government Proposals (as of November 15, 2026)
+
+#### LC-ISR Program (Imminent)
+- **Status**: 5-minute virtual pitch next week (November 20-22, 2026 window); Thursday 8am timeslot confirmed
+- **Configuration**: Wing/tailset manufacturing with Spencer L; 3 sets of integrated wings with servos, 4.5m span design
+- **Development Timeline**: 
+  - Spencer L quote delivery: Monday COB (November 18, 2026)
+  - First wing/tailset set: mid-January 2027
+  - Remaining sets: March 2027
+  - Demo window: April-June 2027 (may be able to negotiate later slot with Lisa Marie)
+- **Design Approach**: Custom tube fuselage + wing pylon design (simplified from fuselage design option offered by Spencer L); motor mounts designed by BST, all other aerodynamic components by Spencer L
+- **Rationale for Spencer L partnership**: Pre-made mold available, proven efficiency (15-20% more efficient than Chilli baseline at verified weights), favorable servo configuration matching S2 standards
+- **Financial Gate**: Large purchases (Spencer L manufacturing) deferred until pitch results received (Jack Elston directive)
+
+#### NASA SBIR Phase I
+- **Status**: Wildfire autonomy proposal submitted October 6, 2026 (AERO.7.S26B-0167)
+
+#### DIU Low-Cost ISR Demo (S4)
+- **Status**: Selected for in-person pitch phase (November 9, 2026)
+- **Configuration**: S0 avionics with batteries on large glider aircraft for extended flight time optimization
+- **Next Phase**: In-person pitch preparation; physical aircraft build timeline deferred
+
+#### Arctic Edge 28
+- **Status**: Submitted November 5, 2026 (S3 and S0-VTOL aircraft variants)
+
+#### SOCOM Demonstration
+- **Status**: S0-85 and S0-86 aircraft allocated with parachute tube modification requirements
+
 - **NASA SBIR Phase I submissions** (ongoing): Wildfire aviation autonomy work in progress
 - **LMUK partnership initiative** (October 2026): Partnership scope being finalized; awaiting timeline confirmation from LMUK before proceeding with detailed planning
-- **Arctic Edge 28** (submitted November 5, 2026): S3 and S0-VTOL aircraft proposals submitted to Arctic competition; proposals recognized for quality submission by Dan Prendergast
-- **DIU Low-Cost ISR Demo (S4)** (selected November 9, 2026): Advanced to in-person pitch phase. Configuration features S0 avionics with batteries integrated on large glider aircraft to maximize flight endurance. Next phase involves in-person pitch preparation; physical construction timeline deferred pending program milestones.
-- **SOCOM demonstration** (in preparation): S0-85 and S0-86 aircraft allocated for demo with parachute tube modifications
 
 ### Advanced Development
 - **S0-AD, S0-LR, S3 Nomad, S0-VTOL, S4 variants**: Multiple aircraft configurations in active development for government applications
 - **Arctic cold-weather qualification**: -40°C validation targeted for current sprint; optional -55°C engineering and validation (~$85k) being scoped
 - **Autonomy/Avionics integration**: NDAA-compliant systems in development across multiple platforms
+- **LC-ISR airframe**: Custom integration of Spencer L wing/tailset with BST tube fuselage and motor mounts
 
 ---
 
 ## Action Items & Commitments
 
+### Immediate/Pending (as of November 15, 2026)
+- **Spencer L**: Provide quote Monday COB (November 18, 2026) for 3 wing/tailset sets
+- **Maciej**: Coordinate LC-ISR pitch presentation for Thursday 8am timeslot; prepare team for 5-minute pitch + Q&A format
+- **Jack Elston**: Review Spencer L quote and LC-ISR pitch materials; make go/no-go decision post-pitch on manufacturing commitment
+- **Lisa Marie**: Check availability for later demo slot (April-June 2027) if needed for LC-ISR program
+
 ### Recent/Current (as of November 9, 2026)
-- **Maciej**: Notified team of DIU S4 proposal selection for in-person pitch; proposal advancement confirmed as of November 9, 2026
+- **Maciej**: Notified team of DIU S4 proposal selection for in-person pitch phase; proposal advancement confirmed as of November 9, 2026
 - **Beck Cotter**: Prepared budget and draft agenda for partnership meeting; sent to Jack Elston (U014U9WMK2A) for review before distribution. Budget and agenda documents stored in shared Google Drive folder.
 - **Jack Elston (U014U9WMK2A)**: To review Beck's budget and draft agenda before external circulation; awaiting LMUK timeline clarification
 - **Jack Elston (U04CZK4K7P0)** (or team member with this ID): Sending clarification note to LMUK regarding timeline and expectations
@@ -115,7 +150,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **SOCOM** (demonstration platform requests)
 - **USDA, DOE** (occasional references)
 - **Arctic Edge program** (military/defense exercise or competition, November 5, 2026 submission deadline)
-- **DIU (Defense Innovation Unit)** (S4 low-cost ISR demo program, in-person pitch phase as of November 9, 2026)
+- **DIU (Defense Innovation Unit)** (S4 low-cost ISR demo program, in-person pitch phase as of November 9, 2026; LC-ISR program with pitch scheduled for November 20-22, 2026)
 
 ### International Partners
 - **Lockheed Martin UK (LMUK)** (active partnership, timeline and scope being finalized as of October 27, 2026)
@@ -131,6 +166,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **PrecisionTerra**: Subcontract partner
 - **SkyMesa**: RF/EW partner
 - **C-Astral**: External partner contact
+- **Spencer L**: Wing/tailset manufacturer for LC-ISR program; has pre-made mold, proven design validated in flight testing
 
 ### External Customers & Field Contacts
 - **Eryan**: NASA radiometry project partner
@@ -138,6 +174,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Jana Kolb**: NOAA hurricane contract CO
 - **Supercool Earth**: Cloud seeding/icing flight customer
 - **Trenton/NexTech**: Temperature capability discussion contact
+- **Lisa Marie**: Demo scheduling contact for LC-ISR program
 - **Various military personnel**: Angel (PACOM/Northern Edge), Evan (SOCOM), Bradley (Northern Edge), Tony (Northern Edge registration), Chris Meek (Langley/procurement), Chris Leek (Langley procurement contact)
 
 ---
@@ -148,23 +185,26 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - Continuous pipeline management across NASA (SBIR/STTR/ROSES), DOD (AFWERX, Navy SBIR/STTR, DIU), NOAA (WPO, SBIR), Arctic programs, and other agencies
 - Seasonal submission windows driving proposal intensity (April RFI push, November Arctic Edge deadline, October-November SBIR cycles)
 - Iterative refinement of proposal strategies based on customer feedback and topic analysis
-- Multi-phase competitive processes (selection → in-person pitch → contract award), exemplified by DIU S4 advancement to pitch phase
+- Multi-phase competitive processes (selection → in-person pitch → contract award), exemplified by DIU S4 and LC-ISR advancement to pitch phase
 
 ### Budget & Administrative Coordination
 - Regular budget development and formatting by Meredith Needham and Beck Cotter
 - Multi-level review processes (draft → Jack Elston → external partners)
 - Budget tracking for complex partnerships with multiple entities
+- Financial gate mechanisms for deferring large commitments (e.g., Spencer L manufacturing quote pending pitch outcomes)
 
 ### Technical Integration Challenges
 - Payload integration (cameras, sensors, magnetometers, hydrophones, radiometry equipment)
-- Aircraft variant customization (folding wings, parachute tubes, cold-weather modifications)
+- Aircraft variant customization (folding wings, parachute tubes, cold-weather modifications, aerodynamic optimization)
 - Autonomy/avionics alignment with government requirements (NDAA compliance, GPS-denied navigation, terrain following)
-- Glider platform optimization for extended endurance (S4 configuration)
+- Glider platform optimization for extended endurance (S4 configuration, LC-ISR airframe design)
+- Wing/tailset manufacturing partnerships and integration with custom fuselage designs
 
 ### Partnership & Collaboration Management
 - Ongoing scope negotiations with international partners (LMUK as of October 2026)
 - Timeline synchronization across multiple stakeholders
 - Subcontractor coordination and role definition
+- Supplier quality verification and performance validation (e.g., Spencer L flight testing at various weights)
 
 ### Environmental & Operational Qualifications
 - Cold-weather operation requirements (-40°C, optional -55°C)
@@ -174,12 +214,25 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - Remote area operations
 - Low-cost ISR capability optimization
 
+### Pitch & Presentation Strategy
+- Compressed presentation formats (5-minute pitches for LC-ISR, Q&A sessions)
+- Timing optimization to allow for proposal development time (preference for Thursday vs. Tuesday LC-ISR pitch slot to gain additional preparation week)
+- Demo window scheduling and negotiation with program management
+
 ---
 
 ## Important Resources
 
 ### Shared Documents & Folders
 - **Google Drive folder** (October 27, 2026): Contains budget and draft meeting agenda for partnership coordination; location: https://drive.google.com/drive/folders/1aXrfLIr-ZFW9i5cYveByW0DRerX8SBzI?usp=drive_link
+
+### Suppliers & Manufacturers
+- **Spencer L (Wing/Tailset Manufacturer)**: 
+  - Contact for LC-ISR wing/tailset manufacturing
+  - Quote delivery expected: Monday COB November 18, 2026
+  - First set delivery: mid-January 2027
+  - Remaining sets: March 2027
+  - Design specs: 4.5m span, 40lbs GTOW capacity, 15-20% efficiency improvement over Chilli baseline
 
 ### Proposal Templates & Support
 - External editing/formatting support: Jed and Brian from KS (LC-ISR and DIU decks)
@@ -192,13 +245,28 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - NOAA wildfire detection topic specifications
 - Arctic Edge program requirements and submission guidelines
 - DIU S4 low-cost ISR demo program specifications and pitch guidelines
+- LC-ISR program specifications and demo window requirements (April-June 2027)
 - Government contracting compliance documentation
 
 ---
 
 ## Recent Activity
 
-### November 9, 2026 (Latest)
+### November 15, 2026 (Latest)
+- **November 15 at 12:05-12:06 UTC**: Maciej provided detailed LC-ISR program update:
+  - 5-minute pitch scheduled for next week (Thursday preferred)
+  - Contacted Spencer L on Friday; quote expected Monday COB
+  - Wing/tailset specifications: 3 sets integrated with servos, 4 control surfaces (flaps + ailerons) + horizontal/vertical stabilizer = 6 servos (matching S2 configuration)
+  - Design specs: 4.5m span, 40lbs GTOW, 15-20% more efficient than Chilli (flight-tested at multiple weights)
+  - Delivery timeline: first set mid-January 2027, remainder by March 2027
+  - CAD to be provided within one week for fuselage interface and motor mount design
+  - Demo window: April-June 2027 (potential for later slot negotiation with Lisa Marie)
+  - Manufacturing approach: Spencer L designs wings/tail + tailset integration; BST designs tube fuselage + wing pylon + motor mounts
+- **November 15 at 12:26 UTC**: Jack Elston raised concern about committing to large purchases before pitch results
+- **November 15 at 12:28 UTC**: Maciej confirmed deferral strategy: will not authorize Spencer L manufacturing contract until after pitch decision received; Spencer L is primary near-term supplier commitment
+- **November 15 at 12:40 UTC**: Jack Elston confirmed Thursday timeslot preference over Tuesday to allow more preparation time
+
+### November 9, 2026
 - **November 9 at 12:19 UTC**: Maciej announced DIU S4 proposal selection for in-person pitch phase. Confirmed as "low-cost ISR demo" configuration: S0 avionics loaded with batteries mounted on large glider aircraft to maximize flight time. Noted timeline for physical aircraft build is not imminent; focus currently on pitch preparation.
 - **November 9 at 12:24 UTC**: Beck Cotter responded with acknowledgment emoji, indicating awareness and support of DIU advancement.
 
@@ -216,4 +284,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ---
 
-**Last Updated:** November 9, 2026
+**Last Updated:** November 15, 2026

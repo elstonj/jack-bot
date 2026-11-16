@@ -30,14 +30,14 @@
     "line_items": [
       {
         "category": "Labor",
-        "amount": 111481.0,
-        "description": "Engineering Tasks (NRE): Laser config, AirOps updates, Dual GPS RTK, 10Hz met data, firmware customization, extended endurance, manufacturability, data buffering",
+        "amount": 91481.0,
+        "description": "Engineering Tasks (NRE): Laser configuration, AirOps updates, Dual GPS/RTK, 10Hz met data, firmware customization, extended endurance, manufacturability improvements, data buffering",
         "source_doc": null
       },
       {
         "category": "Materials",
         "amount": 1700.0,
-        "description": "Materials for Dual GPS RTK ($1,000) and Extended endurance battery tweaks ($200) and Manufacturability improvements ($500)",
+        "description": "Materials for Dual GPS ($1,000), Extended endurance battery tweaks ($200), Manufacturability improvements ($500)",
         "source_doc": null
       },
       {
@@ -52,19 +52,19 @@
         "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-15"
+        "last_updated": "2026-11-16"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-15"
+        "last_updated": "2026-11-16"
       },
       "other_qbo": {
         "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-15"
+        "last_updated": "2026-11-16"
       },
       "total": 969392.07,
       "by_line_item": {}
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-15T10:12:14Z"
+    "last_reconciled": "2026-11-16T10:24:20Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-15T10:12:14Z",
+  "last_full_rebuild": "2026-11-16T10:24:20Z",
   "last_incremental_update": null
 }

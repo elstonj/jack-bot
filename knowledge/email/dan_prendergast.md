@@ -1,6 +1,8 @@
 # Dan Prendergast — Email Patterns
 
-Only 2 emails found in scanned period.
+Only 4 emails found in scanned period.
 
-- Sun, 15 Nov 2026 00:33:26 +0000: RE: ICMNDA_3442 (from: <L3Harris_NDAs@l3harris.com>)
-- Sat, 14 Nov 2026 06:54:57 -0600: 🌎 Orchestrating Autonomous Forces: Commander’s Intent at Machine Speed - Aerospace Advantage 316 (from: Mitchell Institute <mitchell@afa.org>)
+- Mon, 16 Nov 2026 04:56:44 +0000: Black Swift Weekly Integration Review, notes and actions from 12 November (from: Sona Raziabeegum <sona@krateosky.com>)
+- Sun, 15 Nov 2026 20:14:02 -0800: Re: S0™ VTOL Discussion (from: Chidong Zhang - NOAA Federal <chidong.zhang@noaa.gov>)
+- Sun, 15 Nov 2026 19:46:10 +0000: 👉 You have unread notifications (from: Asana <no-reply@asana.com>)
+- Sun, 15 Nov 2026 18:00:32 +0000 (UTC): (no subject) (from: "Toggl 2.0" <support@toggl.com>)

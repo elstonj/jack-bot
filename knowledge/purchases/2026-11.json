@@ -1887,13 +1887,13 @@
   {
     "id": "1a1db713dd743f26",
     "is_purchase": true,
-    "status": "received",
+    "status": "ordered",
     "amount_usd": 26.99,
-    "vendor": "Amazon.com",
+    "vendor": "Amazon",
     "project_code": null,
     "project_hint": null,
     "description": "Safety Eyewear",
-    "notes": null,
+    "notes": "Shipped; arriving Monday",
     "date": "2026-11-14",
     "subject": "Shipped 1 item: Safety Eyewear"
   },
@@ -1906,7 +1906,7 @@
     "project_code": null,
     "project_hint": null,
     "description": null,
-    "notes": "USPS Informed Delivery digest \u2014 no purchase content",
+    "notes": "USPS Informed Delivery digest \u2013 shipping notification only, no purchase",
     "date": "2026-11-14",
     "subject": "Your Daily Digest for Sat, 11/14 is ready to view"
   },
@@ -1918,9 +1918,48 @@
     "vendor": "General Air Service and Supply",
     "project_code": null,
     "project_hint": null,
-    "description": null,
-    "notes": "Payment confirmation for invoice 97880335-1; ACH payment via account xxxx1071",
+    "description": "Payment for invoice 97880335-1",
+    "notes": "ACH payment confirmation",
     "date": "2026-11-14",
     "subject": "10099275 BLACK SWIFT TECHNOLOGIES LLC Payment Confirmation"
+  },
+  {
+    "id": "1a1e2bf158e2d5cc",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "Spindrift beverage order confirmation \u2013 not aerospace/business purchase",
+    "date": "2026-11-15",
+    "subject": "It's about to get real refreshing. Your Spindrift order SH62393340 is confirmed."
+  },
+  {
+    "id": "1a1e0bd19cc332fd",
+    "is_purchase": true,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": "Amazon",
+    "project_code": null,
+    "project_hint": null,
+    "description": "Brochure Display Stands",
+    "notes": "Delivery attempted; no amount shown in notice",
+    "date": "2026-11-15",
+    "subject": "Delivery attempted: Brochure Display Stands"
+  },
+  {
+    "id": "1a1df8dca1d4dfc9",
+    "is_purchase": false,
+    "status": "other",
+    "amount_usd": null,
+    "vendor": null,
+    "project_code": null,
+    "project_hint": null,
+    "description": null,
+    "notes": "USPS Informed Delivery digest \u2013 shipping notification only, no purchase",
+    "date": "2026-11-15",
+    "subject": "Your Daily Digest for Sun, 11/15 is ready to view"
   }
 ]

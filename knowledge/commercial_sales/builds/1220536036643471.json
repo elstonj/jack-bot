@@ -29,10 +29,11 @@
     "invoicing": "Meredith",
     "build": "Nate"
   },
-  "notes": "Inbound lead from Flowershift (Australian weather forecasting company) via website. Nemanja Popovic inquiring about fixed-wing drone capability for atmospheric observation / vertical profiling to improve forecast accuracy. Single-unit quote requested. Decision due Nov 17, 2026.",
+  "notes": "Inbound lead from Flowershift (Australian weather forecasting company). Nemanja Popovic inquiring about fixed-wing drone capability for atmospheric observation / vertical profiling to improve forecast accuracy. Single-unit quote requested. Decision due Nov 17, 2026.",
   "missing_fields": [
     "ship_to",
-    "estimate_date"
+    "estimate_date",
+    "invoice_number"
   ],
   "last_evidence_date": "2026-11-14",
   "last_contact_date": null

@@ -1,5 +1,6 @@
 # Cory Dixon — Email Patterns
 
-Only 1 emails found in scanned period.
+Only 2 emails found in scanned period.
 
-- Sat, 14 Nov 2026 13:54:11 +0000: Cory x 2026 Accounting update (from: Julie Hale <jhale@apex.yelvoz.com>)
+- Sun, 15 Nov 2026 22:41:37 +0100: One week in: here's why tracking pays off (from: Rasa from Toggl <hello@email.toggl.com>)
+- Sun, 15 Nov 2026 14:07:39 -0600: Re: Black Swift Technologies - Senior Electrical Engineer (from: Robert Powell <robert.powell.j@gmail.com>)
