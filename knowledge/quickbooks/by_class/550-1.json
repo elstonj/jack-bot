@@ -5,14 +5,14 @@
     "[550] United States Navy:[550-1] Navy SBIR Magnetometer"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 485080.0,
-    "expenses": 30680.95,
+    "expenses": 30380.94,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 19220.58,
+      "DIRECT COSTS:DC-Direct Material Purchases": 18920.57,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 7823.0,
       "DIRECT COSTS:DC-Direct Travel": 3511.63,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 125.74
@@ -610,24 +610,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-09-08",
-      "doc_number": "0908JELSTON",
-      "total": 66.69,
-      "attributed": 66.69,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm made direct purchase. Project listed under each item purchased.",
-      "lines": [
-        {
-          "amount": 66.69,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "White Delrin\u00ae Acetal Resin Tube &  18-8 Stainless Steel Wire Rope"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-08-28",
       "doc_number": "70828",
       "total": 3436.5,
@@ -772,29 +754,6 @@
           "amount": 3.68,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Low-Carbon Steel Bar, 1/8\" Thick"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-04",
-      "doc_number": "0804JELSTON",
-      "total": 260.68,
-      "attributed": 233.32,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 27.36,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Press-Fit Drill Bushing with Head, 0.159\" ID x 2"
-        },
-        {
-          "amount": 233.32,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Remote-Release Rotary Latch; Multipurpose 6061 Aluminum Bar; T-Slotted Framing, End-Feed Double Nut and M8; 316 Stainless Steel Ultra-Low-Profile Socket"
         }
       ]
     },

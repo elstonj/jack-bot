@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 46525.47,
+    "expenses": 45765.26,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 17382.73,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 16622.52,
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 13429.24,
       "Tariffs": 451.8,
@@ -641,47 +641,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-08-04",
-      "doc_number": "0804JELSTON",
-      "total": 260.68,
-      "attributed": 27.36,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made directly purchase. All projects are listed under each item ordered.",
-      "lines": [
-        {
-          "amount": 27.36,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Press-Fit Drill Bushing with Head, 0.159\" ID x 2"
-        },
-        {
-          "amount": 233.32,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Remote-Release Rotary Latch; Multipurpose 6061 Aluminum Bar; T-Slotted Framing, End-Feed Double Nut and M8; 316 Stainless Steel Ultra-Low-Profile Socket"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-04",
-      "doc_number": "100801135",
-      "total": 134.89,
-      "attributed": 134.89,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 134.89,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "CONTACT H.D. CRIMP SOCKET 8AWG x 25"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-08-03",
       "doc_number": "",
       "total": 1027.34,
@@ -695,29 +654,6 @@
           "amount": 1027.34,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "MHP Tip v161.step x 30"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-03",
-      "doc_number": "",
-      "total": 1195.92,
-      "attributed": 597.96,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "IN *K-MAC PLASTICS LLC - 7333",
-      "lines": [
-        {
-          "amount": 597.96,
-          "account": "Inventory Asset",
-          "description": "Thermoset Laminate G10/FR4 Tubes for future S0 VTOL sales"
-        },
-        {
-          "amount": 597.96,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Thermoset Laminate G10/FR4 Tubes for IRAD S0 VTOL"
         }
       ]
     },

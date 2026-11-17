@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 210057.56,
+    "expenses": 209596.85,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 89637.08,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 89176.37,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
@@ -1519,24 +1519,6 @@
     {
       "type": "Purchase",
       "date": "2026-09-24",
-      "doc_number": "401280",
-      "total": 9.99,
-      "attributed": 9.99,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 9.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "SMA Female Bulkhead x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
       "doc_number": "WL5306137",
       "total": 114.89,
       "attributed": 114.89,
@@ -1549,24 +1531,6 @@
           "amount": 114.89,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "2W/20 dB RF Fixed Attenuator x 2"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-24",
-      "doc_number": "M1A0D54BC110.",
-      "total": 450.72,
-      "attributed": 450.72,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 450.72,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "BW-N30W20 x 2"
         }
       ]
     },

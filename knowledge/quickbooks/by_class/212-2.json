@@ -5,11 +5,11 @@
     "[212-2] NASA S2 & Parts"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
-    "revenue": 91319.0,
+    "revenue": 92794.0,
     "expenses": 19393.11,
     "by_category": {
       "DIRECT COSTS:DC-Direct Material Purchases": 10965.09,
@@ -22,20 +22,20 @@
       "type": "Invoice",
       "date": "2026-10-12",
       "doc_number": "1790",
-      "total": 1475.0,
-      "attributed": 1475.0,
+      "total": 2950.0,
+      "attributed": 2950.0,
       "vendor": "",
       "customer": "[212-2] NASA S2 & Parts",
-      "balance": 1475.0,
+      "balance": 2950.0,
       "memo": "",
       "lines": [
         {
-          "amount": 1475.0,
+          "amount": 2950.0,
           "account": "",
           "description": "Nose cone with mass model to be used for S2 training operations."
         },
         {
-          "amount": 1475.0,
+          "amount": 2950.0,
           "account": "",
           "description": ""
         }

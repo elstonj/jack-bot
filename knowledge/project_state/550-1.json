@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "time-and-materials basis, monthly invoicing based on progress milestones",
+    "payment_cadence": "monthly",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,27 +33,27 @@
         "amount": 117008.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
       "other_qbo": {
-        "amount": 30680.95,
+        "amount": 30380.94,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
-      "total": 150748.91,
+      "total": 150448.9,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": 91791.09,
+    "remaining": 92091.1,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-16T10:24:44Z"
+    "last_reconciled": "2026-11-17T10:44:45Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -104,6 +104,6 @@
       "text": "From Daniel Prendergast: <@U06KRHPQSRH> can I get a project number for our upcoming Lockheed Martin UK/Royal Navy project.  The objective is S0-AD integration with the UK Merlin Helicopter Launch System"
     }
   ],
-  "last_full_rebuild": "2026-11-16T10:24:44Z",
+  "last_full_rebuild": "2026-11-17T10:44:45Z",
   "last_incremental_update": null
 }

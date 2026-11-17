@@ -5,17 +5,17 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 1067375.0,
-    "expenses": 477326.11,
+    "expenses": 472366.21,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 312293.09,
+      "DIRECT COSTS:DC-Direct Material Purchases": 308028.53,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33209.84,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 13012.28,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 12316.94,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.7,
       "SALES & MARKETING:SM-Shipping": 204.16,
@@ -1130,6 +1130,39 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "1125",
+      "total": 9434.81,
+      "attributed": 7455.139999999999,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "J. From confirmed projects. All S3 is future S3 sales",
+      "lines": [
+        {
+          "amount": 6777.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 677.74,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing: special SO"
+        },
+        {
+          "amount": 1956.63,
+          "account": "Inventory Asset",
+          "description": "S3 RH outboard wing"
+        },
+        {
+          "amount": 23.04,
+          "account": "Inventory Asset",
+          "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-30",
       "doc_number": "135517714",
       "total": 92.48,
@@ -1183,39 +1216,6 @@
           "amount": 26.99,
           "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "Shipping charges applied"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-30",
-      "doc_number": "1125",
-      "total": 9434.81,
-      "attributed": 7455.139999999999,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "J. From confirmed projects. All S3 is future S3 sales",
-      "lines": [
-        {
-          "amount": 6777.4,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "S0 Wing"
-        },
-        {
-          "amount": 677.74,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "S0 Wing: special SO"
-        },
-        {
-          "amount": 1956.63,
-          "account": "Inventory Asset",
-          "description": "S3 RH outboard wing"
-        },
-        {
-          "amount": 23.04,
-          "account": "Inventory Asset",
-          "description": "S3 RH inboard ribs"
         }
       ]
     },
@@ -3031,39 +3031,6 @@
     {
       "type": "Purchase",
       "date": "2026-08-19",
-      "doc_number": "0819JELSTON",
-      "total": 432.24,
-      "attributed": 2.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase and listed project under items.",
-      "lines": [
-        {
-          "amount": 2.62,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Acetal Rod, Black, 3/16\" Diameter, 4 Feet Long"
-        },
-        {
-          "amount": 238.04,
-          "account": "Inventory Asset",
-          "description": "Items for future S3 Sales"
-        },
-        {
-          "amount": 18.12,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Industrial Quick-Disconnect Hose Coupling for Air"
-        },
-        {
-          "amount": 173.46,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-19",
       "doc_number": "0818JELSTON",
       "total": 129.95,
       "attributed": 1.14,
@@ -3348,29 +3315,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-08-13",
-      "doc_number": "260726W011032",
-      "total": 695.34,
-      "attributed": 695.34,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 39.02,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Phase1 shipment of remaining S0 wings to BST (IDIQ)"
-        },
-        {
-          "amount": 656.32,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipment of ground stations to NOAA Lakeland (IDIQ)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-08-12",
       "doc_number": "",
       "total": 134.97,
@@ -3623,24 +3567,6 @@
           "amount": 5410.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Purchase on 8/5/26"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-04",
-      "doc_number": "41235",
-      "total": 465.0,
-      "attributed": 465.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Shipped to Sean Cole (Phase1 Aviation)",
-      "lines": [
-        {
-          "amount": 465.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "High Modulus Carbon Fiber Rods and Strips x 50"
         }
       ]
     },
@@ -4052,24 +3978,6 @@
     {
       "type": "Purchase",
       "date": "2026-07-24",
-      "doc_number": "156018",
-      "total": 341.18,
-      "attributed": 341.18,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 341.18,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "CAM Folding Prop 7 x 50"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-24",
       "doc_number": "",
       "total": 43.21,
       "attributed": 43.21,
@@ -4100,24 +4008,6 @@
           "amount": 52.51,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Supplies for IDIQ"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-07-23",
-      "doc_number": "6794-871",
-      "total": 1543.76,
-      "attributed": 1543.76,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1543.76,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Items for NOAA IDIQ"
         }
       ]
     },
@@ -5241,24 +5131,6 @@
           "amount": 1413.81,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "DKC*DIGI KEY CORP - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-05-13",
-      "doc_number": "",
-      "total": 1912.0,
-      "attributed": 1912.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 1912.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "p400 1W 900 MHz FHSS / 2W 400 MHz x 4; Pico Serial Motherboard x 4"
         }
       ]
     },

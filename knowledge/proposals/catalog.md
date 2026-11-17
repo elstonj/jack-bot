@@ -2,45 +2,82 @@
 
 ## By Product/System
 
-### S0 Air-Deployed UAS
-- **S0 UAS System Integration v2** — Multi-agency (NOAA, USAF/AFRC, USSOCOM, UK MoD) — Technical Integration Reference / Engineering Specification — Comprehensive host-aircraft integration reference for S0 deployment on WP-3D Orion and USAF platforms; covers operational baseline, direct-to-phase proposals, and CRADA framework. *(s0_uas_system_integration_v2.md)*
+### S4 UAS
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — Technical interim flight clearance document for S4 UAS platform in LC-ISR Gauntlet program (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — Range safety review and technical specification questionnaire for S4 UAS (s4_uas_rcc_323-99_questionnaire.md)
+
+### S3 (KONDOR Platform)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Capability proposal for S3 KONDOR long-endurance platform in LC-ISR Fly Off #2 (diu_lc-isr_solution_brief.md)
+
+### SwiftCore Flight Management System
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — Includes SwiftPilot and SwiftCore autopilot 3.3.0 specifications (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — Details SwiftCore integration and capabilities (s4_uas_rcc_323-99_questionnaire.md)
+
+### SwiftStation / SwiftTab GCS
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — References SwiftStation GCS and SwiftTab 3.3.0 (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — Includes SwiftTab and SwiftStation specifications (s4_uas_rcc_323-99_questionnaire.md)
+
+### S2 (Reference Platform)
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — Referenced as heritage platform (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — Referenced in technical context (s4_uas_rcc_323-99_questionnaire.md)
+
+### C3P (Autonomy/GCS Software)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Autonomy and ground control software for KONDOR system (diu_lc-isr_solution_brief.md)
+
+### SQA2 (Heritage VTOL)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Heritage VTOL platform referenced in KONDOR solution (diu_lc-isr_solution_brief.md)
+
+### MWT (Multi-UAV Relay)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Multi-UAV relay capability for KONDOR (diu_lc-isr_solution_brief.md)
 
 ---
 
 ## By Client/Agency
 
-### NOAA
-- **S0 UAS System Integration v2** — NOAA — Technical Integration Reference — Operational deployment baseline for S0 on WP-3D Orion (N42RF, N43RF) *(s0_uas_system_integration_v2.md)*
+### Defense Innovation Unit (DIU)
+- **S4 UAS IFC Datasheet** — November 2026 — Technical interim flight clearance for S4 UAS in LC-ISR Gauntlet (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — November 2026 — Range safety and technical specifications for S4 UAS (s4_uas_rcc_323-99_questionnaire.md)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — October 2026 — KONDOR platform capability proposal for LC-ISR Fly Off #2 (diu_lc-isr_solution_brief.md)
 
-### USAF / AFRC 53rd Weather Reconnaissance Squadron
-- **S0 UAS System Integration v2** — USAF/AFRC — Proposed Direct-to-Phase (AFX255-DPCSO1) — AFX255-DPCSO1 Direct-to-Phase proposal for S0 integration *(s0_uas_system_integration_v2.md)*
+### NAVAIR
+- **S4 UAS IFC Datasheet** — November 2026 — Technical specifications and flight clearance documentation (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — November 2026 — Range safety review questionnaire (s4_uas_rcc_323-99_questionnaire.md)
 
-### USSOCOM
-- **S0 UAS System Integration v2** — USSOCOM — CRADA Framework — S0 integration under USSOCOM Cooperative Research and Development Agreement *(s0_uas_system_integration_v2.md)*
-
-### UK Ministry of Defence / Royal Navy
-- **S0 UAS System Integration v2** — UK MoD / Royal Navy — Proposed Integration — S0 deployment proposal for UK naval operations *(s0_uas_system_integration_v2.md)*
+### KrateoSky
+- **S4 UAS RCC 323-99 Questionnaire** — November 2026 — Coordination entity for NAVAIR range safety review (s4_uas_rcc_323-99_questionnaire.md)
 
 ---
 
 ## By Application Area
 
-### Atmospheric & Weather Research
-- **S0 UAS System Integration v2** — NOAA, USAF Weather Recon — Technical Integration Reference — Air-deployed UAS for hurricane reconnaissance, meteorological sampling, and atmospheric profiling *(s0_uas_system_integration_v2.md)*
+### Low-Cost ISR (LC-ISR)
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — S4 UAS for LC-ISR Gauntlet program (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — S4 UAS specifications for LC-ISR operations (s4_uas_rcc_323-99_questionnaire.md)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Long-endurance (12-24+ hours) ISR platform (diu_lc-isr_solution_brief.md)
 
-### Military Operations / Special Operations
-- **S0 UAS System Integration v2** — USSOCOM, UK MoD — Operational Proposal — S0 integration for special operations and maritime missions *(s0_uas_system_integration_v2.md)*
+### Long-Endurance UAS Operations
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Extended-endurance capability for 12-24+ hour missions (diu_lc-isr_solution_brief.md)
 
 ---
 
 ## By Document Type
 
-### Technical Integration References / Engineering Specifications
-- **S0 UAS System Integration v2** — Multi-agency — Detailed host-aircraft integration procedures, payload integration, launch/recovery systems, power management, data handling for S0 UAS *(s0_uas_system_integration_v2.md)*
+### Technical Datasheets
+- **S4 UAS IFC Datasheet** — DIU/NAVAIR, November 2026 — Interim flight clearance technical specifications (s4_uas_ifc_datasheet.md)
 
-### Proposals
-- **S0 UAS System Integration v2** — USAF (AFX255-DPCSO1), USSOCOM (CRADA), UK MoD — Direct-to-Phase and partnership proposals *(s0_uas_system_integration_v2.md)*
+### Technical Specification / Questionnaire Documents
+- **S4 UAS RCC 323-99 Questionnaire** — DIU/NAVAIR, November 2026 — Range safety and technical compliance questionnaire (s4_uas_rcc_323-99_questionnaire.md)
+
+### Solution Briefs / Capability Proposals
+- **DIU Low Cost ISR Solution Brief — KONDOR** — DIU, October 2026 — Presentation-format capability proposal for LC-ISR competition (diu_lc-isr_solution_brief.md)
 
 ---
 
-**Note:** This catalog currently contains one comprehensive document. Additional documents should be added as they are provided.
+## By Program/Solicitation
+
+### DIU/NAVAIR LC-ISR Gauntlet
+- **S4 UAS IFC Datasheet** — November 2026 (Rev. 0 Draft) — Technical specifications and IFC documentation (s4_uas_ifc_datasheet.md)
+- **S4 UAS RCC 323-99 Questionnaire** — November 2026 (Rev 0 DRAFT), May-June 2027 event — Range safety review (s4_uas_rcc_323-99_questionnaire.md)
+
+### DIU Low Cost ISR Fly Off #2 (Long-Endurance Track)
+- **DIU Low Cost ISR Solution Brief — KONDOR** — October 2026 — KONDOR platform for 12-24+ hour endurance missions (diu_lc-isr_solution_brief.md)

@@ -5,7 +5,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 **Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly
 
-**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 10, 2026) shows continued active engagement with ongoing strategic initiatives.
+**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 16, 2026) shows continued active engagement with ongoing administrative and technical setup tasks.
 
 ---
 
@@ -122,13 +122,66 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 ---
 
+## Action Items & Commitments
+
+### Outstanding Items
+- Update marketing copy with accurate SBIR award count (17 Phase I, 8 Phase II total) — awaiting implementation (noted May 1, 2026)
+- Prepare S3 launch marketing materials and messaging (S2 EOL status update needed) — timing dependent on S3 release date (noted May 6, 2026)
+- Finalize S0 VTOL wildfire visualizer video captions for approval (noted May 8, 2026)
+
+### Recent Administrative Tasks (November 16, 2026)
+- **New BST account access:** Jack reached out to team member (mentioned November 16, 1:37pm) regarding setup and troubleshooting
+  - Team member (Shelly) confirmed acknowledgment (:+1: reaction, November 16, 2:01pm)
+- **LinkedIn account support:** Jack providing guidance on linked-in platform (November 16, 1:37pm)
+- **Google Ads invite:** Jack resent Google Ads invitation to team (November 16, 2:47pm)
+
+---
+
+## Client & External References
+- **Nexus:** Potential client for weather data collection services (day-rate pricing presented, April 20, 2026)
+- **Krateo:** Conference display partner for 3D holographic fan displays (April 20, 2026)
+- Brody Basset (US Commercial Service contact)
+- Rob Marciano (media/video producer)
+- WeatherNation (media partner)
+- Sona (trade show/conference coordinator)
+- CENAPRED and UNAM (partnering organizations for Mexico volcano project)
+
+---
+
+## Recurring Topics & Themes
+- Product launch and EOL communication timing (S2 to S3 transition currently active)
+- Press release strategy and distribution optimization
+- Website and content platform improvements
+- 3D model and visualization asset development for marketing and conferences
+- Collateral design and printing decisions
+- Portfolio and credentials documentation accuracy
+- Video and multimedia content production and approval
+- Administrative system and account setup coordination
+
+---
+
+## Important Resources
+- SBIR.gov portfolio page: https://www.sbir.gov/portfolio/404583
+- OnShape models (source for 3D renderings)
+- Google Drive and Google Docs (collaborative content development)
+- Cloudflare (website platform evaluation)
+- WordPress (current website platform)
+- Google Ads (advertising platform requiring setup)
+- LinkedIn (social media and advertising channel)
+
+---
+
 ## Recent Activity
 
-### November 10, 2026
-- Shelly thanked Jack for an idea/suggestion
-- Context limited but indicates active engagement and positive collaboration continuing into November 2026
+### November 16, 2026
+- **Account Setup & Platform Coordination**
+  - Jack Elston reached out to team member (identity masked by Slack ID U0CGD0T08PP) regarding new BST account setup and LinkedIn guidance (1:37pm)
+  - Shelly confirmed acknowledgment with thumbs up reaction (2:01pm)
+  - Jack resent Google Ads invitation to team, indicating platform setup progression (2:47pm)
+  
+**Interpretation:** Routine administrative onboarding or account management tasks related to new platform access and advertising setup. Suggests active preparation for expanded digital marketing initiatives.
 
 ---
 
 ## Notes on Data Quality
-The most recent batch contains minimal substantive information (single brief message). The comprehensive knowledge file remains current through May 8, 2026, with only one additional data point for November 10, 2026 confirming channel activity continues.
+The most recent batch (November 16, 2026) contains three brief messages focused on administrative platform setup rather than strategic marketing content. The comprehensive knowledge file remains substantively current through May 8, 2026. Recent activity shows channel remains active but recent exchanges are transactional rather than strategic in nature.

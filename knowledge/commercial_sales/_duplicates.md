@@ -2,10 +2,6 @@
 
 Each group below shares a strong order identifier, so the same order is probably on the digest more than once. Confirm, then delete the redundant JSON under `knowledge/commercial_sales/builds/` (fold any unique detail into the record you keep).
 
-## shared: po:TENTIAL
-- `1210812587995014` — Michigan Technological University (invoice —, estimate_sent/none)
-- `1217705660642292` — Austin Anderson (invoice 1695, paid/none)
-
 ## shared: inv:1618
 - `1213658077458640` — University of Colorado (INSTAAR) (invoice 1618, paid/in_qc)
 - `proj-025-06` — CU Boulder (University of Colorado Boulder) (invoice —, estimate_sent/none)

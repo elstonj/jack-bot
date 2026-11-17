@@ -1,46 +1,61 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-16 02:35
+Last scanned: 2026-11-17 02:50
 
-Total drives scanned: 1
+Total drives scanned: 2
 
 ## Drives
 
-- **Federal Projects** — 2 files — [federal_projects.md](federal_projects.md)
+- **Federal Projects** — 8 files — [federal_projects.md](federal_projects.md)
+- **Sales** — 1 files — [sales.md](sales.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Google Drive Strategic Overview
 
-## Summary
+## Drive Summary
 
-BST's shared drive infrastructure is **severely underdeveloped** with minimal documentation across drives. The Federal Projects drive contains only 2 video files with no supporting documentation structure.
+| Drive | Files | Folders | Organization | Key Focus |
+|-------|-------|---------|---------------|-----------|
+| Federal Projects | 8 | 0 (root level) | Minimal | S4 UAS technical specs, budgets, regulatory docs |
+| Sales | 1 | Unknown | Minimal | Client NDAs |
 
-## Key Findings
+---
+
+## Key Observations
 
 ### Document Volume & Organization
-- **Total documented items**: 2 files (both video)
-- **Organization quality**: Poor
-- No folder structure, naming conventions, or categorization evident
-- No metadata or supporting documentation
+- **Total documented files:** 9 across 2 drives
+- **Organization quality:** Poor — Federal Projects stores all 8 files at root level with no folder structure; Sales drive minimally populated
+- **Naming conventions:** Inconsistent (mix of descriptive titles and abbreviated codes; one incomplete filename)
 
-### Drive Content
-| Drive | Content | Status |
-|-------|---------|--------|
-| Federal Projects | 2 video files (RC_VID_0009.MOV, RC_VID_0008.MOV) | Minimal |
+### Primary Projects & Clients
+- **S4 UAS (Unmanned Aerial System):** Dominant project with 5+ dedicated documents (datasheets, questionnaires, power budget, inventory, design materials)
+- **Federal focus:** Regulatory compliance emphasis (RCC 323-99 questionnaire, DIU briefing materials)
+- **Sales activity:** Minimal documentation (single NDA file); suggests sales processes may be tracked elsewhere
 
-### Critical Gaps
-1. **No documentation hierarchy** — Only raw video files visible
-2. **No supporting materials** — No contracts, proposals, requirements, or project plans
-3. **No shared resources/templates** — None identified
-4. **Weak naming conventions** — Generic video naming (RC_VID_XXXX)
-5. **Unclear project context** — No folders indicating project names, clients, or phases
-6. **Date anomaly** — Files marked as modified in 2099 (data quality issue)
+### Content Categories
+- **Technical:** Datasheets, design specifications
+- **Compliance:** Regulatory questionnaires, system certifications
+- **Financial:** Power budgets
+- **Inventory:** Battery tracking
+- **Business:** NDAs, solution briefs
+
+---
+
+## Areas Requiring Attention
+
+1. **Folder structure needed** — Federal Projects requires logical organization (e.g., by project phase, document type, or year)
+2. **Incomplete documentation** — Truncated filename suggests indexing issues
+3. **Limited sales documentation** — Single NDA raises questions about proposal storage, client records, and pipeline visibility
+4. **Future-dated modifications** — Multiple 2026 timestamps may indicate test data or system configuration issues
+5. **Centralized resource gaps** — No visible templates, shared standards, or reference materials across drives
+
+---
 
 ## Recommendations
-- Establish folder structure (e.g., by client, project, or document type)
-- Create consistent naming conventions
-- Document project metadata (client, scope, status, stakeholders)
-- Audit and correct file modification dates
-- Develop templates for Federal contracting documentation
-- Consider adding proposals, SOWs, and compliance documentation
+
+- Implement consistent folder hierarchies (by project/client/document type)
+- Establish naming conventions across all drives
+- Audit actual document volume (may be higher if summary was incomplete)
+- Clarify where sales proposals, contracts, and client materials are stored

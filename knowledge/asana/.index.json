@@ -21,7 +21,7 @@
     "window": "last 90 days"
   },
   "001-04_s0_vtol_irad.md": {
-    "as_of": "2026-11-15",
+    "as_of": "2026-11-17",
     "completed": 3,
     "name": "[001-04] S0 VTOL IRAD",
     "open": 42,
@@ -42,10 +42,10 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-16",
-    "completed": 19,
+    "as_of": "2026-11-17",
+    "completed": 20,
     "name": "[001-07] S3 IRAD",
-    "open": 20,
+    "open": 19,
     "window": "last 90 days"
   },
   "001-09_swiftcore_40.md": {
@@ -133,8 +133,8 @@
     "window": "last 90 days"
   },
   "001-13_general_operations.md": {
-    "as_of": "2026-11-07",
-    "completed": 15,
+    "as_of": "2026-11-17",
+    "completed": 16,
     "name": "[001-13] General Operations",
     "open": 30,
     "window": "last 90 days"
@@ -175,17 +175,17 @@
     "window": "last 90 days"
   },
   "001-13_proposals.md": {
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-17",
     "completed": 8,
     "name": "[001-13] Proposals",
     "open": 84,
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-16",
+    "as_of": "2026-11-17",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 194,
+    "open": 196,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -224,10 +224,10 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-11-14",
-    "completed": 9,
+    "as_of": "2026-11-17",
+    "completed": 10,
     "name": "[001-22] Fleet Maintenance",
-    "open": 4,
+    "open": 3,
     "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
@@ -406,10 +406,10 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-11-14",
+    "as_of": "2026-11-17",
     "completed": 13,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
-    "open": 8,
+    "open": 7,
     "window": "last 90 days"
   },
   "301-2_sbir_-_hurricane_phase_ii.md": {
@@ -427,7 +427,7 @@
     "window": "last 365 days"
   },
   "350-4_2024_usgs_-_chile_mexico.md": {
-    "as_of": "2026-11-16",
+    "as_of": "2026-11-17",
     "completed": 4,
     "name": "[350-4] 2024 USGS - Chile (Mexico)",
     "open": 17,
@@ -476,10 +476,10 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-15",
+    "as_of": "2026-11-17",
     "completed": 17,
     "name": "[600-1] SOCOM Pope",
-    "open": 53,
+    "open": 63,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
@@ -574,7 +574,7 @@
     "window": "last 90 days"
   },
   "view_shop_pipeline.md": {
-    "as_of": "2026-11-15",
+    "as_of": "2026-11-17",
     "completed": 0,
     "name": "View: Shop Pipeline",
     "open": 2,

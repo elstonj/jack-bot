@@ -1,37 +1,30 @@
-_Asana snapshot as of 2026-11-15: 2 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-17: 2 open tasks, 0 completed (last 90 days)._
 
 # Shop Pipeline
 
 ## Overview
-- **Client/Customer:** NOAA, NASA Langley (government/research)
-- **Dollar value:** Not specified in task data
-- **Timeline:** NASA Langley S0 order due 2026-11-16; Hurricane NOAA timeline unknown
-- **Status:** Active — 2 open tasks, no completed tasks
-- **Team members involved:** Unassigned (visibility gap)
-- **Risk signals:** Both tasks unassigned; Hurricane NOAA has no due date; NASA Langley S0 due in ~3 weeks with no progress visible
+- **Client/Customer:** NOAA, NASA Langley
+- **Status:** Active — 2 open orders, no completions tracked
+- **Timeline:** Orders extending into 2026 (NASA Langley due 2026-12-04)
+- **Team:** BST (Whole Team)
+- **Risk Signals:** 
+  - 2026 Hurricane NOAA has no due date — requires clarification
+  - NASA Langley S0's due in ~2 years; currently in Assembly stage with no assignee
 
 ## Key Deliverables & Milestones
-| Deliverable | Customer | Due Date | Quantity | Status |
-|---|---|---|---|---|
-| S0 Aircraft (Assembly) | NASA Langley | 2026-11-16 | 2 units | Manufacturing Stage: Assembly |
-| 2026 Hurricane Aircraft | NOAA | TBD | TBD | No timeline set |
+| Order | Customer | Quantity | Platform | Due Date | Stage |
+|-------|----------|----------|----------|----------|-------|
+| 2026 Hurricane NOAA | NOAA | — | — | *No due date* | — |
+| NASA Langley S0's | NASA Langley | 2 | S0 AD | 2026-12-04 | Assembly |
 
 ## Task Summary
-- **Total tasks:** 2 open, 0 completed
-- **By assignee:** Both tasks currently unassigned — immediate assignment needed
-- **Notable patterns:** 
-  - No custom field values beyond manufacturing stage and platform (S0 AD)
-  - Minimal metadata; project appears to be in early visibility/planning phase
+- **Total:** 2 open, 0 completed
+- **Assignee Distribution:** Both tasks unassigned
+- **Custom Fields in Use:** Order Quantity, Manufacturing Stage, Platform
+- **Notable Pattern:** Heavy reliance on structured custom fields for inventory tracking; no task owners assigned
 
 ## Recent Activity
-No completed tasks recorded. Project structure recently discussed (per Maciej's 2026-10-27 feedback) to tie Asana milestones with physical Kanban board for weekly execution. This pipeline view may be part of that restructuring to improve visibility.
+No completed tasks. Project appears newly set up or recently cleared of historical data. Both orders are live and awaiting assignment and progression.
 
 ## Notes & Context
-**Project purpose:** Aircraft inventory and manufacturing status tracker. Designed to show aircraft type, due dates, quantities, and order-to-delivery status.
-
-**Visibility gaps:**
-- Both active orders unassigned — no clear ownership
-- Hurricane NOAA order missing due date and quantity
-- No dollar amounts or lead times visible
-
-**Context from team feedback (Maciej, 2026-10-27):** A restructuring is underway to separate long-term Asana milestones from weekly Kanban execution. This pipeline may serve as the milestone-level view for manufacturing planning.
+This is an aircraft inventory and manufacturing pipeline tracker. The 2026 Hurricane NOAA order is missing a due date and manufacturing stage — needs clarification before assignment. NASA Langley order is well-defined with quantity, platform, and stage but requires an assignee to move forward in Assembly.

@@ -5,14 +5,14 @@
     "[043] By Light Professional IT Services LLC:[043-3] By Light Halo"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 189523.0,
-    "expenses": 6684.17,
+    "expenses": 6307.35,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 6304.42,
+      "DIRECT COSTS:DC-Direct Material Purchases": 5927.6,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 379.75
     }
   },
@@ -228,24 +228,6 @@
           "amount": 345.09,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Distance Sensor Modules"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-03",
-      "doc_number": "40026106",
-      "total": 376.82,
-      "attributed": 376.82,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 376.82,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Distance Sensor Modules - Enclosed SF20/C 100 m Rangefinder OEM Module"
         }
       ]
     },

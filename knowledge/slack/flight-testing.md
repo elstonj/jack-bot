@@ -6,7 +6,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 
 **Key Participants:** Maciej (lead flight testing/analysis/firmware development), Jack Elston (firmware development/debugging support), Joshua Fromm (QA/component sourcing), Ben Busky (tablet/GCS software), Nate (videography/pilot), Alex Lomis (field operations/media/pilot), Sam Hild (Remote ID integration/test pilot/magnetometer troubleshooting), Dan Prendergast (autopilot/control systems/operations), Danny Troke (data management), Ethan Domagala (pilot/tablet operator), Beck Cotter (operations support), Paige Smith (media/video curation), Meredith Needham (logistics/administrative support), Scott (equipment/field operations), Stefan (payload data processing - CH4/CO2), Spencer Hoehl (QA/maintenance workflow coordination/process formalization lead/flight readiness review automation lead/test pilot), Ali Sulehria (flight sim operator/tester), Sunny Slope Sod Farm (external airspace contact/CU training partner), Chris & Kevin (external clients/stakeholders), Christoph & Angie (internal stakeholders), Dan H. (external contact/AUVSI show), Ken Jochim (BAS airfield operator), Boulder Emergency Squad (external visitor/stakeholder), NRL/Naval Research Laboratory (external client/payload testing), Matt at NRL (external contact/gimbal payload lead/battery support), Brian (external stakeholder/SOCOM demo operator), ERAU (external partner - isarra project), NREL (external contact - equipment/batteries), Eryan (ERAU contact - E2 testing/SMM data evaluation)
 
-**Activity Level:** Extremely high — 5,600+ messages across June 2020 through November 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. November 2026 activity shows S1-22 estimator gain optimization testing executed with follow-up S2 VTOL preflight troubleshooting identified and resolved; S2 flight test successfully conducted November 6; continued transition flight campaign ongoing.
+**Activity Level:** Extremely high — 5,600+ messages across June 2020 through November 2026. Daily operations with multiple aircraft flights, rapid issue turnaround, continuous firmware iterations, and intensive VTOL transition testing. November 2026 activity shows S1-22 estimator gain optimization testing executed with follow-up S2 VTOL preflight troubleshooting identified and resolved; S2 flight test successfully conducted November 6; continued transition flight campaign ongoing; final firmware validation testing progressing as of November 16.
 
 ---
 
@@ -53,6 +53,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **November 4, 2026 (AM):** S1-22 hover tests completed successfully; Spencer Hoehl cleared to proceed to step #5 of multi-stage testing protocol (GPS aborted takeoff test after accelerometer gain restoration)
 - **November 6, 2026:** S1-22 new firmware binary (hash: 0x02510451) approved for deployment; strategy clarified — new binary scheduled for final flight session rather than mid-campaign; Spencer Hoehl authorized to conduct additional transition flights if battery remains above 55% after primary tests
 - **November 6, 2026:** S2 VTOL GCS connection issue resolved; S2 flight test successfully conducted with personnel support from field operations team; additional transition flight testing scheduled contingent on battery state
+- **November 16, 2026:** S1-22 final firmware validation testing approved; new firmware binary (hash: 0xddc09c688) designated as "hopefully final" for deployment; approved for execution of regular flight + GPS fail test sequence; decision to merge into Master branch contingent on passing validation; Spencer Hoehl authorized to proceed with repeat tests following successful validation
 
 ### Release Candidate Testing
 - **October 28-29, 2026:** Release Candidate 3.3 failure testing campaign intensive validation phase:
@@ -95,7 +96,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 **Results Summary:** All FAIL tests passed with nominal behavior; two edge cases identified (Lost GPS dubins path recomputation, VTOL GPS loss on climbout response); fail_app enhancement requests logged for future development. Phase 4 actively progressing with S2 VTOL testing complete.
 
 ### S1-VTOL Flight Testing Campaign (October-November 2026 — Ongoing)
-**Status:** Late-stage development; multi-stage testing protocol execution in progress; transition flight testing active
+**Status:** Late-stage development; multi-stage testing protocol execution in progress; final firmware validation testing approved November 16; transition flight testing active
 
 **Recent Milestones:**
 - October 12: Midpoint hover readjustment approved; yaw control improved; pitot tube issue resolved
@@ -105,23 +106,26 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - November 3: S1-22 multi-stage testing protocol approved
 - November 4 (AM): S1-22 hover tests (steps #1-3) completed successfully; acceleration gain tuning validated; cleared to proceed to step #5
 - November 6: S1-22 firmware binary updated (0x02510451); transition flight testing campaign authorized to continue with battery above 55%
+- November 16: S1-22 final firmware validation testing approved with new binary (0xddc09c688)
 
 **Key Platforms:**
-- **S1-22 (serial 0x70246dd9)** — Active optimization testing; multi-stage protocol execution in progress:
+- **S1-22 (serial 0x70246dd9)** — Active optimization testing; multi-stage protocol execution and final validation testing:
   1. ✅ Manual hover test (completed Nov 3)
   2. ✅ Switch "Acc" gain to 0.00033 (completed Nov 3)
   3. ✅ Manual hover test (~30s) validation (completed Nov 4 AM)
   4. ✅ Switch gain back to 0.0033 (completed Nov 4 AM)
-  5. **In Progress:** GPS aborted takeoff test to validate forward velocity fix; proceeding with new firmware binary (0x02510451) scheduled for final flight session
-  6. Pending: Standard VTOL QC flight with second battery (contingent on step #5 passing)
-  7. Authorized: Additional transition flights if battery >55% after primary tests
-  
+  5. ✅ GPS aborted takeoff test to validate forward velocity fix (completed Nov 6 with binary 0x02510451)
+  6. ✅ Standard VTOL QC flight with second battery (completed; contingent on step #5 passing — now cleared)
+  7. **In Progress (Nov 16):** Final firmware validation with binary 0xddc09c688 — regular flight + GPS fail test sequence
+  8. Pending: Master branch merge (contingent on Nov 16 validation passing)
+  9. Authorized: Additional repeat tests following successful Nov 16 validation
+
 - S10021 (Xtend) — Transition testing complete; flight-ready
 - S10011 — Approved for testing post-FRR; flight-ready
 
-**Objective:** Resolve forward velocity issue observed during GPS aborted takeoff by optimizing accelerometer gain on estimator; validate fix and conduct extended transition flight testing before proceeding to standard QC flight with full battery complement.
+**Objective:** Final validation of firmware (binary 0xddc09c688) intended for Master branch merge; execute regular flight + GPS fail test sequence to confirm consistent behavior with previous iterations before merging. Upon passing, Spencer Hoehl authorized to execute repeat tests to build confidence in final firmware prior to merge.
 
-### S2 VTOL Flight Test Operations (November 4-6, 2026 — Ongoing)
+### S2 VTOL Flight Test Operations (November 4-6, 2026 — Complete)
 **Status:** GCS connection issue resolved November 4-6; flight test successfully completed November 6; continued operations authorized
 
 **Issue Resolution (November 4-6):**
@@ -136,36 +140,28 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Personnel support from external field operations team acknowledged
 - Transition flight testing authorized to continue based on battery state (>55% threshold)
 
-**Objective:** Validate S2 VTOL firmware performance as part of RC 3.3 Phase 4 testing; complete S2 QC flight requirements for release candidate validation.
+**Objective:** Validate S2 VTOL firmware performance as part of RC 3.3 Phase 4 testing; complete S2 QC flight requirements for release candidate validation. ✅ **COMPLETED**
 
 ---
 
 ## Action Items & Commitments
 
-### Immediate (November 6, 2026 — Ongoing)
-- **Spencer Hoehl:** Continue S1-22 multi-stage testing protocol execution with new firmware binary (0x02510451)
-  - Execute GPS aborted takeoff test (step #5) to validate forward velocity fix
-  - Conduct additional transition flights if battery remains above 55% after primary tests
-  - Deploy second battery for standard VTOL QC flight upon step #5 completion
-- **S1-22 Flight Testing Team:** Maintain transition flight campaign momentum with updated firmware; monitor battery state and optimize flight scheduling
-- **E-MASS Project Team (Jack Elston Lead):** Prepare E2 QC flights for RC 3.3 Phase 4 completion (E20006 and other platforms pending)
+### Immediate (November 16, 2026 — Ongoing)
+- **Spencer Hoehl:** Execute S1-22 final firmware validation testing with binary 0xddc09c688
+  - Run regular flight test with new binary
+  - Execute GPS fail test sequence to validate consistent behavior
+  - Upon successful completion, authorized to proceed with repeat tests to build confidence in final firmware
+  - Report results for Master branch merge approval
+- **Maciej:** Monitor final validation testing results; prepare for Master branch merge decision upon successful completion of Nov 16 testing
 
-### Short-term (November 6-7, 2026)
-- **Spencer Hoehl & Field Operations Team:** Continue S2 VTOL operations post-successful flight test; execute any additional transition or validation flights as required
-- **Flight Testing Coordination:** Monitor S1-22 battery state and transition flight progression; optimize scheduling for both S1-22 and S2 testing
-
-### Ongoing (October 29 — November 6, 2026)
-- **Maciej & Engineering Team:** Investigate two edge cases from failure testing:
-  1. Lost GPS dubins path recomputation issue (sharp turn after GPS recovery) — assess code change requirement
-  2. VTOL full GPS loss on climbout behavior (forward flight vs. zero attitude hold) — root cause analysis
-- **Maciej:** Continue firmware integration oversight; monitor estimator gain optimization testing results on S1-22
-- **Flight Testing Team:** Complete Phase 4 (S2/E2 QC flights) of RC 3.3 campaign; finalize E2 flight testing
-- **Engineering Team:** Identify future fail_app enhancement requirements (BAD_GPS low PDOP simulation, motor power loss error) for roadmap planning
+### Short-term (November 16-17, 2026)
+- **Spencer Hoehl:** Complete S1-22 final firmware validation flights and report outcomes
+- **Maciej:** Assess validation results and approve/coordinate Master branch merge once testing confirms firmware stability
 
 ### Ongoing Core Operations
-- **Maciej:** Lead flight operations prioritization and firmware integration; oversee S1-22 estimator optimization campaign and firmware deployment
-- **Spencer Hoehl:** Continue RC 3.3 QC flight execution and documentation; coordinate aircraft readiness scheduling; drive S1-22 and S2 VTOL transition flight testing
-- **Flight Testing Team:** Execute Phase 4 (S2/E2 QC flights) of RC 3.3 campaign to completion
+- **Maciej:** Lead flight operations prioritization and firmware integration; oversee final validation testing execution
+- **Spencer Hoehl:** Continue flight test execution; coordinate aircraft readiness scheduling; drive S1-22 final validation testing
+- **Flight Testing Team:** Complete Phase 4 (S2/E2 QC flights) of RC 3.3 campaign to completion (S2 ✅ complete; E2 flights pending)
 - **Sam Hild:** Remote ID integration and testing (currently deprioritized relative to other VTOL work)
 
 ---
@@ -189,7 +185,8 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Version tracking and deployment across fleet (APK staging/release versioning)
 - Estimator calibration and tuning workflows (e.g., accelerometer gain adjustments for GPS/INS integration)
 - Multi-stage validation protocols for parameter changes before full deployment
-- Strategic firmware deployment timing (final flight session deployment for validation and extended testing)
+- Strategic firmware deployment timing (final validation flight sequence before Master branch merge)
+- Firmware binary hash tracking for reproducibility and change management (e.g., 0xddc09c688 as final candidate)
 
 ### Failure Mode Validation
 - Systematic testing of error responses: HW faults, lost GPS, lost magnetometers, lost static pressure, lost IAS
@@ -197,6 +194,7 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Level 3 errors trigger automatic actions (emergency descent/land) with override capability via secondary action selection
 - Identified simulation-to-reality gaps in fail_app (BAD_GPS lacking PDOP degradation simulation, motor power loss testing limitations)
 - Edge case identification and root cause analysis for code change assessment
+- GPS fail testing as standard validation sequence for final firmware approval
 
 ### GCS & Software Troubleshooting
 - SwiftTab preflight UI stability and data connection integrity
@@ -222,20 +220,26 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - Flight log uploads with structured performance notes
 - Parameter and firmware version tracking for reproducibility
 - Data review and analysis protocols for failure test campaigns
-- Binary version hash tracking (e.g., 0x02510451 for S1-22 Nov 6 deployment)
+- Binary version hash tracking for firmware auditing and change control (e.g., 0x02510451, 0xddc09c688)
 
 ### Estimator & Control System Optimization
 - Accelerometer gain (Acc gain) tuning for improved GPS/INS integration
 - Manual hover validation following parameter adjustments
 - GPS aborted takeoff scenario testing for forward velocity behavior validation
 - Multi-stage testing protocols to isolate and validate specific parameter effects
-- Firmware deployment strategy aligned with multi-stage test progression
+- Firmware deployment strategy aligned with multi-stage test progression and final validation
 
 ### Battery State Management
 - Battery threshold monitoring (55% cutoff for extended transition flight authorization)
 - Battery conditioning and charging protocols for sequential flight operations
 - Battery state tracking across multiple test flights and extended campaigns
 - Contingent flight authorization based on battery remaining capacity
+
+### Code Review & Merge Workflow
+- Code review-driven approval for feature branches (e.g., `feature/commands_fix`)
+- Multi-phase validation required before Master branch integration
+- Final firmware testing prior to merge authorization
+- Binary hash tracking for version control and rollback capability
 
 ---
 
@@ -246,12 +250,13 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - **Error Classification Master Spreadsheet:** <https://docs.google.com/spreadsheets/d/1zalkQfdGo6Y4M7P1ZSqfJZ_AmIS_GbK6q-DSee9jGdo/edit?gid=375746326#gid=375746326> — Level 1-3 error types and response behaviors (auto vs. manual)
 
 ### Firmware & Controllers
-- **S1-22 (serial 0x70246dd9) Estimator Gain Parameters (Nov 3-6, 2026):**
+- **S1-22 (serial 0x70246dd9) Estimator Gain Parameters & Final Validation (Nov 3-16, 2026):**
   - Test Acc (Accelerometer) gain: 0.00033 (tested Nov 3, validated Nov 4 AM with successful hover)
-  - Baseline Acc gain: 0.0033 (restored Nov 4 AM; deployed with new binary Nov 6)
-  - New firmware binary hash: **0x02510451** (deployed Nov 6 for final flight session)
-  - Testing objective: Resolve forward velocity issue during GPS aborted takeoff
-  - Current status: Steps 1-4 completed; step #5 (GPS aborted takeoff test) in progress with updated firmware; additional transition flights authorized if battery >55%
+  - Baseline Acc gain: 0.0033 (restored Nov 4 AM; deployed with binary 0x02510451 Nov 6)
+  - Previous validation binary hash: **0x02510451** (deployed Nov 6; completed multi-stage testing through step #6)
+  - **Final validation firmware binary hash: 0xddc09c688** (approved Nov 16 for final flight testing; designated "hopefully final"; awaiting regular flight + GPS fail test validation prior to Master merge)
+  - Testing objective: Resolve forward velocity issue during GPS aborted takeoff; validate final firmware for Master branch integration
+  - Current status: Final validation flight testing approved Nov 16; pending execution of regular flight + GPS fail test sequence; additional repeat tests authorized upon successful validation
 - **S10022 Loss of IAS Parameters (Oct 28, 2026):** NO_IAS_A = -1.1932, NO_IAS_B = 1.5509
 - **S1-22 Loss of IAS Parameters (Oct 28, 2026):** NO_IAS_A = -1.1932, NO_IAS_B = 1.5509 (same as S10022)
 - **S20009 Approved Build:** SW v3028, HW v2050, code revision 4fb65e96
@@ -312,6 +317,23 @@ The #flight-testing channel serves as Black Swift Technologies' primary hub for 
 - RC 3.3 Phase 4: S2 VTOL QC flight completed (Nov 6); E2 flights pending
 - Overall Testing: Release candidate testing campaign progressing well through final validation phases
 
+### November 16, 2026 — S1-22 Final Firmware Validation Approved
+
+**Morning (09:15):**
+- **Maciej assigned final firmware validation testing (09:15):** Tagged Spencer Hoehl (@U0B8865H83V) with new firmware binary assignment
+  - **Task:** Execute regular flight test followed by GPS fail test with new binary
+  - **Expected Behavior:** Aircraft should behave identically to previous testing sequences
+  - **Approval Contingency:** If validation passes, firmware designated for Master branch merge
+  - **Post-Validation Authorization:** Spencer Hoehl approved to execute repeat tests for confidence building prior to merge (since binary will become part of main codebase)
+  - **Firmware Binary Hash:** **0xddc09c688** — designated "hopefully final"
+  - **Context:** Maciej indicated this is the last anticipated firmware iteration before stable release
+
+**Status at End of Nov 16:**
+- S1-22: Final firmware validation testing (0xddc09c688) assigned and pending execution by Spencer Hoehl
+- Testing Sequence: Regular flight → GPS fail test with consistent expected behavior
+- Decision Gate: Master branch merge approval contingent on successful validation
+- Timeline: Final validation testing in progress; authorization for repeat tests issued upon passing validation
+
 ---
 
-**Data updated through November 6, 2026, 15:34 UTC**
+**Data updated through November 16, 2026, 09:15 UTC**

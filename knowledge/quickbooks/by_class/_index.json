@@ -1,9 +1,9 @@
 {
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
-  "scanned_at": "2026-11-16",
+  "scanned_at": "2026-11-17",
   "projects": [
     {
       "project_code": "001-1",
@@ -88,10 +88,10 @@
     {
       "project_code": "001-4",
       "revenue": 0.0,
-      "expenses": 46525.47,
+      "expenses": 45765.26,
       "invoice_count": 0,
       "bill_count": 9,
-      "purchase_count": 113,
+      "purchase_count": 110,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -115,10 +115,10 @@
     {
       "project_code": "001-7",
       "revenue": 0.0,
-      "expenses": 210057.56,
+      "expenses": 209596.85,
       "invoice_count": 0,
       "bill_count": 31,
-      "purchase_count": 268,
+      "purchase_count": 266,
       "po_count": 1,
       "payment_count": 0,
       "qbo_class_names": [
@@ -197,10 +197,10 @@
     {
       "project_code": "043-3",
       "revenue": 189523.0,
-      "expenses": 6684.17,
+      "expenses": 6307.35,
       "invoice_count": 3,
       "bill_count": 1,
-      "purchase_count": 29,
+      "purchase_count": 28,
       "po_count": 0,
       "payment_count": 2,
       "qbo_class_names": [
@@ -236,7 +236,7 @@
     },
     {
       "project_code": "212-2",
-      "revenue": 91319.0,
+      "revenue": 92794.0,
       "expenses": 19393.11,
       "invoice_count": 2,
       "bill_count": 2,
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1067375.0,
-      "expenses": 477326.11,
+      "expenses": 472366.21,
       "invoice_count": 12,
       "bill_count": 22,
-      "purchase_count": 333,
+      "purchase_count": 327,
       "po_count": 0,
       "payment_count": 9,
       "qbo_class_names": [
@@ -293,10 +293,10 @@
     {
       "project_code": "451-1",
       "revenue": 0.0,
-      "expenses": 12203.62,
+      "expenses": 10333.62,
       "invoice_count": 0,
       "bill_count": 0,
-      "purchase_count": 24,
+      "purchase_count": 23,
       "po_count": 0,
       "payment_count": 0,
       "qbo_class_names": [
@@ -306,10 +306,10 @@
     {
       "project_code": "550-1",
       "revenue": 485080.0,
-      "expenses": 30680.95,
+      "expenses": 30380.94,
       "invoice_count": 7,
       "bill_count": 7,
-      "purchase_count": 36,
+      "purchase_count": 34,
       "po_count": 1,
       "payment_count": 7,
       "qbo_class_names": [
@@ -334,10 +334,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 3707388.11,
-      "expenses": 4896360.33,
+      "expenses": 4889484.6,
       "invoice_count": 57,
-      "bill_count": 138,
-      "purchase_count": 2683,
+      "bill_count": 139,
+      "purchase_count": 2671,
       "po_count": 3,
       "payment_count": 57,
       "qbo_class_names": [

@@ -76,43 +76,43 @@
     "[925-05] Indirect Production and Supply Chain Labor"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 3707388.11,
-    "expenses": 4896360.33,
+    "expenses": 4889484.6,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "Indirect Cost:Payroll Expenses:Guaranteed Wages": 183006.89,
-      "Inventory Asset": 142323.57,
+      "Inventory Asset": 141487.57,
       "FRINGE:FR-Retirement Contributions": 133478.1,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 128621.3,
       "SALES & MARKETING:Recruiting": 112931.25,
-      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 99472.16,
       "FACILITIES:FA-Rent Expense": 98738.35,
+      "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 97984.66,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 84496.34,
       "FRINGE:FR-Employee Healthcare": 83636.55,
       "Prepaid Expenses": 77519.48,
       "Spark One Jack #3168": 70684.0,
-      "FACILITIES:FA-Shop Supplies": 52829.55,
+      "FACILITIES:FA-Shop Supplies": 49812.12,
       "Indirect Cost:Software Expenses": 49750.71,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "DIRECT COSTS:DC-Direct Material Purchases": 46878.38,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
-      "FACILITIES:FA-Office Supplies": 41988.12,
+      "FACILITIES:FA-Office Supplies": 41921.75,
       "FACILITIES:FA-Software Expenses": 37765.39,
-      "Fixed Assets:Equipment": 36584.67,
+      "Fixed Assets:Equipment": 36584.68,
       "Accounts Payable (A/P)": 24360.18,
       "UNALLOWABLE GA:UC-Meals & Entertainment": 21796.72,
       "The Soil Moisture Company": 21450.0,
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18117.81,
       "Fraud Charges": 16008.36,
-      "Indirect Cost:Meals and Entertainment": 15054.14,
       "Indirect Cost:Insurance Exp": 14636.03,
+      "Indirect Cost:Meals and Entertainment": 14032.66,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
       "FACILITIES:FA-Insurance Expenses": 12199.97,
@@ -135,7 +135,7 @@
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6294.24,
       "Indirect Cost:TaxesX": 6218.2,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5703.12,
-      "SALES & MARKETING:Promotion Expenses": 5093.27,
+      "SALES & MARKETING:Promotion Expenses": 4885.59,
       "Indirect Cost:Supplies:Office SuppliesX": 4561.26,
       "FRINGE:FR-Worker's Comp": 4201.61,
       "Indirect Cost:Dues & Subscriptions": 3830.8,
@@ -143,9 +143,9 @@
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 2869.0,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2711.42,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2472.14,
       "Indirect Cost:Professional Fees (do not use):Continuing educationX": 2165.72,
       "SALES & MARKETING:SM-Dues & Subscriptions": 1980.63,
       "Indirect Cost:Internal Research and DevelopmentX": 1946.71,
@@ -1925,6 +1925,29 @@
           "amount": 186.6,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp",
           "description": "Integrate and ship 3x AeroCams to Rufty and Jabot/AKA; Aerovators mtg"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-01",
+      "doc_number": "",
+      "total": 2241.84,
+      "attributed": 2241.84,
+      "vendor": "Home Depot",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 448.6,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "8 trash bins"
+        },
+        {
+          "amount": 1793.24,
+          "account": "Fixed Assets:Equipment",
+          "description": "Quantity 1 of Husky Tool Storage Heavy Duty 84 in. W x 24 in. D Matte Blue Mobile Workbench Cabinet"
         }
       ]
     },
@@ -5935,6 +5958,34 @@
     {
       "type": "Purchase",
       "date": "2026-11-05",
+      "doc_number": "8611",
+      "total": 4837.5,
+      "attributed": 4837.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 967.5,
+          "account": "SALES & MARKETING:Recruiting",
+          "description": "Recruiting for North American Account Executive"
+        },
+        {
+          "amount": 3816.25,
+          "account": "SALES & MARKETING:Recruiting",
+          "description": "Recruiting for Technical Project Manager"
+        },
+        {
+          "amount": 53.75,
+          "account": "SALES & MARKETING:Recruiting",
+          "description": "Recruiting for Manufacturing / Production Engineer"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-05",
       "doc_number": "JT72163",
       "total": 306.6,
       "attributed": 188.72,
@@ -6578,6 +6629,39 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-02",
+      "doc_number": "1125",
+      "total": 9434.81,
+      "attributed": 1979.67,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "J. From confirmed projects. All S3 is future S3 sales",
+      "lines": [
+        {
+          "amount": 6777.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing"
+        },
+        {
+          "amount": 677.74,
+          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
+          "description": "S0 Wing: special SO"
+        },
+        {
+          "amount": 1956.63,
+          "account": "Inventory Asset",
+          "description": "S3 RH outboard wing"
+        },
+        {
+          "amount": 23.04,
+          "account": "Inventory Asset",
+          "description": "S3 RH inboard ribs"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-10-31",
       "doc_number": "",
       "total": 5.0,
@@ -6619,34 +6703,6 @@
           "amount": 234.55,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "CAB.0243 x7; CAB.01042 x7; TX14/9/5-3E27 x32; CSE-SGAM-305-SGAM x2; CONSMA010-G x7 (incl. allocated shipping)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-31",
-      "doc_number": "8611",
-      "total": 4837.5,
-      "attributed": 4837.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 967.5,
-          "account": "SALES & MARKETING:Recruiting",
-          "description": "Recruiting for North American Account Executive"
-        },
-        {
-          "amount": 3816.25,
-          "account": "SALES & MARKETING:Recruiting",
-          "description": "Recruiting for Technical Project Manager"
-        },
-        {
-          "amount": 53.75,
-          "account": "SALES & MARKETING:Recruiting",
-          "description": "Recruiting for Manufacturing / Production Engineer"
         }
       ]
     },
@@ -6762,39 +6818,6 @@
           "amount": 28.0,
           "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
           "description": "DRIFTAWAY.COFFEE - 4617"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-30",
-      "doc_number": "1125",
-      "total": 9434.81,
-      "attributed": 1979.67,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "J. From confirmed projects. All S3 is future S3 sales",
-      "lines": [
-        {
-          "amount": 6777.4,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "S0 Wing"
-        },
-        {
-          "amount": 677.74,
-          "account": "DIRECT COSTS:DC-Direct Cost Subcontractors",
-          "description": "S0 Wing: special SO"
-        },
-        {
-          "amount": 1956.63,
-          "account": "Inventory Asset",
-          "description": "S3 RH outboard wing"
-        },
-        {
-          "amount": 23.04,
-          "account": "Inventory Asset",
-          "description": "S3 RH inboard ribs"
         }
       ]
     },
@@ -9155,119 +9178,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-10-08",
-      "doc_number": "1007JELSTON",
-      "total": 749.85,
-      "attributed": 749.85,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana Request. Purchase made by J. Fromm and confirmed to be shop supplies via Slack.",
-      "lines": [
-        {
-          "amount": 22.4,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, 0.079\" Slotted Drive, 4-3/4\" Overall Length"
-        },
-        {
-          "amount": 20.32,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Precise-Control Screwdriver, Chrome-Plated Steel, 0.125\" Slotted Drive, 5-3/4\" Overall Length"
-        },
-        {
-          "amount": 38.92,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Screwdriver, Number 1 Phillips Drive, 3-1/8\" Overall Length"
-        },
-        {
-          "amount": 40.36,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Screwdriver, 1/4\" Slotted Drive, 3-1/16\" Overall Length"
-        },
-        {
-          "amount": 52.28,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP20 Drive Size"
-        },
-        {
-          "amount": 38.34,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP15 Drive Size"
-        },
-        {
-          "amount": 37.32,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP10 Drive Size"
-        },
-        {
-          "amount": 35.4,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP8 Drive Size"
-        },
-        {
-          "amount": 32.31,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP7 Drive Size"
-        },
-        {
-          "amount": 31.44,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Torx Plus Screwdriver, IP6 Drive Size"
-        },
-        {
-          "amount": 55.36,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Angled-Drive Ball-Tip Hex L-Key Set, 9 Pieces, Black Phosphate Coated Alloy Steel"
-        },
-        {
-          "amount": 37.12,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Angled-Drive Ball-Tip Hex L-Key Set, 10 Pieces, Black Phosphate Coated Alloy Steel"
-        },
-        {
-          "amount": 22.53,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Swabs, 1/8\"-1/16\" Diameter x 1/2\" Length Tip, 3\" Overall Length, Packs of 1000"
-        },
-        {
-          "amount": 10.38,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Foam Swabs, 5/32\" Diameter x 15/32\" Long Tip, Packs of 50"
-        },
-        {
-          "amount": 99.28,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Push-Top Dispenser, Static Control, 6 FL oz Capacity, Yellow"
-        },
-        {
-          "amount": 29.28,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "28 UNC/UNF/Metric Thread Per Inch and Thread Pitch Identifiers"
-        },
-        {
-          "amount": 5.84,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Static-Shielding Resealable Bag, Aluminized Polyester Plastic Layer, 4\" Wide, 6\" High, Packs of 25"
-        },
-        {
-          "amount": 8.27,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Static-Shielding Resealable Bag, Aluminized Polyester Plastic Layer, 6\" Wide, 8\" High, Packs of 25"
-        },
-        {
-          "amount": 4.95,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Static-Shielding Resealable Bag, Aluminized Polyester Plastic Layer, 3\" Wide, 5\" High, Packs of 25"
-        },
-        {
-          "amount": 6.02,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Resealable Bags, 4\" Wide, 6\" High, 4 Mil Thick, Packs of 100"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-10-07",
       "doc_number": "",
       "total": 1000.0,
@@ -9561,42 +9471,6 @@
           "amount": 4920.07,
           "account": "Accounts Payable (A/P)",
           "description": "Large shop supplies order for new space"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-03",
-      "doc_number": "",
-      "total": 1805.32,
-      "attributed": 1805.32,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase directly for general shop supplies",
-      "lines": [
-        {
-          "amount": 1805.32,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "No Asana request - J. Fromm made purchase directly for general shop supplies"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-03",
-      "doc_number": "",
-      "total": 436.52,
-      "attributed": 436.52,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase directly for general shop supplies for production expansion",
-      "lines": [
-        {
-          "amount": 436.52,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Shop supplies (tool storage; trash cans)"
         }
       ]
     },
@@ -10265,29 +10139,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-10-01",
-      "doc_number": "#WN72406487",
-      "total": 65.82,
-      "attributed": 65.82,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 59.98,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Everbilt 16 ft. x 20 ft. Blue Medium Duty Tarp"
-        },
-        {
-          "amount": 5.84,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Sales Tax"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-09-30",
       "doc_number": "8561",
       "total": 11878.75,
@@ -10496,29 +10347,6 @@
           "amount": 25.0,
           "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
           "description": "MONTHLY SERVICE FEE"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-09-30",
-      "doc_number": "",
-      "total": 2241.83,
-      "attributed": 2241.83,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request. J. Fromm confirmed for shop supplies",
-      "lines": [
-        {
-          "amount": 448.6,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "8 trash bins"
-        },
-        {
-          "amount": 1793.23,
-          "account": "Fixed Assets:Equipment",
-          "description": "Quantity 1 of Husky Tool Storage Heavy Duty 84 in. W x 24 in. D Matte Blue Mobile Workbench Cabinet"
         }
       ]
     },
@@ -12689,24 +12517,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-08-25",
-      "doc_number": "",
-      "total": 7.62,
-      "attributed": 7.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Direct purchase by J. Fromm",
-      "lines": [
-        {
-          "amount": 7.62,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Korky Ultra Water Saver"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-08-24",
       "doc_number": "",
       "total": 41.54,
@@ -12997,39 +12807,6 @@
           "amount": 2695.41,
           "account": "OVERHEAD:OH-Airfare",
           "description": "J. Elston trip from Vegas to BST for SOCOM Demo"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-19",
-      "doc_number": "0819JELSTON",
-      "total": 432.24,
-      "attributed": 429.62,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - J. Fromm made purchase and listed project under items.",
-      "lines": [
-        {
-          "amount": 2.62,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Acetal Rod, Black, 3/16\" Diameter, 4 Feet Long"
-        },
-        {
-          "amount": 238.04,
-          "account": "Inventory Asset",
-          "description": "Items for future S3 Sales"
-        },
-        {
-          "amount": 18.12,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Industrial Quick-Disconnect Hose Coupling for Air"
-        },
-        {
-          "amount": 173.46,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": ""
         }
       ]
     },
@@ -14091,24 +13868,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-08-10",
-      "doc_number": "17202",
-      "total": 1487.5,
-      "attributed": 1487.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BIL*ReliAscent - 7333",
-      "lines": [
-        {
-          "amount": 1487.5,
-          "account": "GENERAL & ADMINISTRATIVE:GA-Accounting Fees",
-          "description": "Payment for DCAA accounting firm"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-08-09",
       "doc_number": "",
       "total": 3.85,
@@ -14679,29 +14438,6 @@
           "amount": 37.76,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-08-03",
-      "doc_number": "",
-      "total": 1195.92,
-      "attributed": 597.96,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "IN *K-MAC PLASTICS LLC - 7333",
-      "lines": [
-        {
-          "amount": 597.96,
-          "account": "Inventory Asset",
-          "description": "Thermoset Laminate G10/FR4 Tubes for future S0 VTOL sales"
-        },
-        {
-          "amount": 597.96,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Thermoset Laminate G10/FR4 Tubes for IRAD S0 VTOL"
         }
       ]
     },
@@ -19896,24 +19632,6 @@
           "amount": 236.12,
           "account": "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges",
           "description": "System-recorded fee for QuickBooks Payments. Fee-name: DiscountRateFee, fee-type: Daily."
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-06-05",
-      "doc_number": "",
-      "total": 66.37,
-      "attributed": 66.37,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "No Asana request - Paige made purchase directly",
-      "lines": [
-        {
-          "amount": 66.37,
-          "account": "FACILITIES:FA-Office Supplies",
-          "description": "Labels for wine (Krateo Sky visit)"
         }
       ]
     },
@@ -57686,42 +57404,6 @@
           "amount": 159.0,
           "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
           "description": "bi-weekly office cleaning"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-16",
-      "doc_number": "",
-      "total": 1021.48,
-      "attributed": 1021.48,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "WAPOS CANTINA - BOULDE   BOULDER      CO",
-      "lines": [
-        {
-          "amount": 1021.48,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "Wapos Catina: Deposit for 2024 Holiday Party"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-16",
-      "doc_number": "",
-      "total": 207.68,
-      "attributed": 207.68,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "FLYTECO BREWING          DENVER       CO",
-      "lines": [
-        {
-          "amount": 207.68,
-          "account": "SALES & MARKETING:Promotion Expenses",
-          "description": "First Altitudes and Ales meet-up"
         }
       ]
     }

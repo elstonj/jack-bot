@@ -1,14 +1,15 @@
 # #swiftcore
 
 ## Overview
-This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 28+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, and Ali Sulehria.
+This channel serves as the primary technical communication hub for Black Swift Technologies' SwiftCore drone system development. It covers firmware development, tablet application updates, flight testing coordination, bug fixes, feature implementation, and release management. The channel shows very active usage with 4400+ messages across 28+ batches, spanning approximately 2020-2025, with key participants including Jack Elston, Ben Busby, Danny Troke, Maciej, Frank Strazzabosco, Cory Dixon, Dan Prendergast, Caleb Bishop, Alex Lomis, Spencer Hoehl, Ali Sulehria, and Sam Hild.
 
 **Key Participants:** 
-- Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management, code review)
+- Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management, code review, firmware delegation)
 - Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins, submodule management)
 - Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist, GPS-out hover fix specialist, flight testing)
 - Spencer Hoehl (simulator testing lead, QC flight procedures, flight test validation)
 - Ali Sulehria (software and use case testing)
+- Sam Hild (S3 platform testing/firmware, EMI testing, VertiQ settings configuration)
 - Dan Prendergast (infrastructure/GitLab access)
 - Cory Dixon
 - Other team members
@@ -202,6 +203,13 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Implementation by:** Jack Elston (announced November 15, 2026, 11:12 UTC)
 - **Status:** Feature branch created and ready for testing
 
+**S3 PSD (Power Supply Distribution) Fix - Feature Branch Created (November 16, 2026):**
+- **Issue:** Power supply distribution issue identified on S3 platform
+- **Solution:** New feature branch `feature/s3_psd_fix` created with test code
+- **Created by:** Sam Hild (November 16, 07:58 UTC)
+- **Status:** Test code branch ready for firmware testing
+- **Next Steps:** Jack Elston and Sam Hild to coordinate firmware implementation; prioritized after EMI testing and VertiQ settings configuration
+
 ## Projects & Initiatives
 
 **SwiftCore 3.3.0 Release (COMPLETED - November 10, 2026):**
@@ -226,6 +234,16 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Expected to improve system resilience and fault detection capability
 - Status: Feature branch ready, pending integration and flight testing
 
+**S3 Platform Power Supply Distribution Fix (November 16, 2026 - IN DEVELOPMENT):**
+- Feature branch `feature/s3_psd_fix` created with test code
+- **Issue Addressed:** Power supply distribution problems on S3 aircraft
+- **Created by:** Sam Hild
+- **Development Status:** Test code complete; firmware testing to follow
+- **Priority Coordination:** Jack Elston offering to assume firmware implementation tasks to free Sam Hild for EMI testing prioritization
+- **Remaining Work:** EMI testing and VertiQ settings configuration (VertiQ is external actuator/servo component used on S3)
+- **Testing Approach:** Firmware testing identified as final validation step after implementation
+- Status: Feature branch ready, firmware implementation pending
+
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
 - Issue identified: App crashes when loading saved aircraft params files onto aircraft running SwiftCore AP 3.3 RC firmware (reported October 23, 2026 by Spencer Hoehl)
@@ -245,6 +263,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Default S3 XML files added by Maciej (October 23, 2026)
 - Propulsion model updates completed affecting clog detector parameters
 - PSNS smart battery, GNSS, actuator and heated MHP boards supported in 3.3.0 release
+- PSD (power supply distribution) issue identified and being addressed via feature branch (November 16, 2026)
 
 **Navy STTR Project (October 27, 2026 - ONGOING):**
 - Separate development initiative tracked in local git server (not on primary GitLab)
@@ -254,6 +273,9 @@ This channel serves as the primary technical communication hub for Black Swift T
 ## Action Items & Commitments
 
 **Pending Implementation:**
+- **Jack Elston:** Coordinate with Sam Hild on S3 PSD fix firmware implementation; potentially assume firmware work to prioritize Sam Hild for EMI testing (November 16, 2026)
+- **Sam Hild:** Complete EMI testing for S3 platform (high priority); configure additional VertiQ settings (November 16, 2026)
+- **Sam Hild & Jack Elston:** Execute firmware testing for S3 PSD fix as final validation step after implementation
 - **Autopilot & Supply Board Teams:** Integrate 24V redundant rail monitoring feature branch into development pipeline (Jack Elston, November 15, 2026)
 - **Jack Elston & Maciej:** Apply sign change from GPS-out hover fix to multi-rotor and tailsitter aircraft (identified November 13, 2026) - Pending implementation
 - **Jack Elston & Maciej:** Address pre-existing isLanded() timer reset bug affecting MR and TS vehicles during GPS loss (identified November 13, 2026) - Deferred for future release but documented as potentially dangerous
@@ -307,6 +329,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Transition control improvements
 - GPS-loss hover handling refinements with systematic testing across multi-rotor and tailsitter platforms
 - Hardware fault detection and monitoring via CAN
+- S3 platform power supply distribution optimization and actuator (VertiQ) configuration
 
 **Post-Release Maintenance & Code Review:**
 - Jack Elston conducting detailed code review of hotfixes post-release
@@ -319,6 +342,18 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Expanding focus on detection of previously-silent failures (24V redundant rail converters)
 - Emphasis on single-point-of-failure elimination through redundancy monitoring
 - CAN bus utilization for distributed fault reporting and diagnostics
+- S3-specific power supply distribution improvements
+
+**S3 Platform Development & Testing:**
+- Dedicated testing effort for S3 aircraft variants
+- Sam Hild managing S3-specific firmware, EMI testing, and actuator configuration
+- PSD (power supply distribution) issue identified as priority area for fix
+- VertiQ actuator settings requiring optimization for S3 platform
+
+**Work Prioritization & Resource Allocation:**
+- Jack Elston actively delegating firmware work to free up engineering resources for specialized testing
+- Identification of EMI testing as higher-priority bottleneck than firmware implementation
+- Flexible task assignment based on specialized expertise and project constraints
 
 ## Important Resources
 
@@ -339,6 +374,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - hotfix/no_gps_vtol_hover_fix (Maciej's original fix, refined by Jack Elston November 2, further refined November 13)
 - Lost GPS hover improvement hotfix (pushed to Master November 12, further refined November 13, 2026)
 - feature/redundant_rail_monitoring or similar (24V redundant rail CAN monitoring feature branch - Jack Elston, November 15, 2026)
+- **feature/s3_psd_fix** (S3 power supply distribution fix branch - Sam Hild, November 16, 2026)
 
 **CAN Protocol Updates:**
 - comms develop, version 3.22.0 (additive - no version bump, backwards compatible)
@@ -349,32 +385,31 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Navy STTR project repository (hosted on local server, not GitLab)
 - Jenkins tablet build pipeline (updated November 13, 2026 for proper libcanard fork URL and submodule authentication)
 
+**Hardware & Components:**
+- VertiQ actuator/servo component (used on S3 platform, settings requiring configuration)
+- S3 power supply distribution (PSD) components requiring optimization
+
 ## Recent Activity
 
-**November 15, 2026 - New 24V Redundant Rail Monitoring Feature:**
+**November 16, 2026 - S3 PSD Fix Branch Created & Resource Coordination:**
 
-**Feature Announcement (Jack Elston, 11:12 UTC):**
-- Jack Elston announced new feature branch for CAN-based hardware fault detection
-- **Problem Statement:** 24V redundant rails on supply board previously failed silently; system would fly on single point of failure without detection
-- **Solution Design:**
-  - New feature allows CAN nodes to raise and clear autopilot HW fault flags
-  - Minimal firmware change required: only autopilot and supply board need updates
-  - All other CAN nodes continue unchanged on current develop firmware
-  - Backwards compatible via purely additive comms packet (no version bump in 3.22.0)
-  - Unknown packet IDs silently dropped by legacy nodes
-- **Technical Details:**
-  - New CAN packet: CAN_PKT_HW_FAULT = 0x047
-  - Located in SYSTEM packet group alongside SUPPLY/POWER_ON/SERIAL_ID
-  - Includes source node identification (node type, MCU unique ID) and fault set/clear flag
-  - Designed for extensibility with additional fault information fields
-- **Implementation Status:** Feature branch ready; requires autopilot firmware integration and supply board firmware updates before testing
+**Branch Creation (Sam Hild, 07:58 UTC):**
+- Sam Hild created new feature branch `feature/s3_psd_fix` with test code
+- **Issue:** Power supply distribution problem on S3 aircraft
+- **Implementation Status:** Test code complete; ready for firmware development and testing
 
-**Team Acknowledgment (Maciej, 11:34 UTC):**
-- Maciej acknowledged @U01511MEQ90 (supply board lead) with taco emoji for completing board tasks on weekend
-- Recognition of work enabling the 24V redundant rail monitoring feature development
+**Work Prioritization Discussion (Jack Elston & Sam Hild, 08:28-09:17 UTC):**
+- Jack Elston inquired about other items Sam Hild is working on
+- **Opportunity Identified:** Jack Elston offered to assume firmware implementation work to free Sam Hild for EMI testing
+- **Sam Hild's Workload Breakdown:**
+  - Firmware: Nearly complete, testing identified as final step
+  - EMI Testing: Priority task requiring focused time allocation
+  - VertiQ Settings: Additional configuration work on S3 platform actuators
+- **Coordination Plan:** Jack Elston to handle firmware implementation; Sam Hild to focus on EMI testing (higher-priority bottleneck) and VertiQ settings configuration
+- **Testing Sequence:** Firmware testing planned as final validation step after implementation complete
 
 ---
 
 # Summary of Updates
 
-The November 15, 2026 entry adds a new hardware safety feature to the knowledge base: CAN-based redundant rail monitoring via a new fault reporting packet. This represents continued emphasis on eliminating single-point-of-failure modes through distributed diagnostics. The implementation demonstrates disciplined backwards-compatibility practices (additive packet, no version bump) and minimal firmware impact (only two hardware components affected while others remain unchanged). This reflects the team's mature approach to incremental safety improvements without disrupting ongoing operations.
+The November 16, 2026 entry documents a new S3 platform issue (PSD fix) and demonstrates effective resource coordination practices. Jack Elston's proactive approach to task delegation—offering to assume firmware implementation work to unblock Sam Hild's EMI testing (the more critical resource constraint)—reflects mature project management and understanding of bottleneck priorities. The S3 platform continues to be an area of active development with power distribution, actuator configuration, and EMI testing as key focus areas. This complements the recent 24V redundant rail monitoring feature (November 15) showing continued emphasis on power system reliability across the platform ecosystem.

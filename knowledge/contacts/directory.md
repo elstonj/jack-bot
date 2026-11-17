@@ -92,6 +92,10 @@
   - Email: daniel.prendergast@blackswifttech.com
   - Notes: Role and department unknown
 
+- **Shelly Dvorak**
+  - Email: shelly.dvorak@blackswifttech.com
+  - Notes: Role and department unknown
+
 - **Tim Hegwood**
   - Email: tim.hegwood@blackswifttech.com
   - Notes: Role and department unknown
@@ -109,7 +113,7 @@
 
 ## Summary
 
-**Total Headcount:** 20 active employees + 3 service accounts (23 total roster entries)
+**Total Headcount:** 21 active employees + 3 service accounts (24 total roster entries)
 
 **Key Leadership:**
 - Jack Elston (CEO)
@@ -127,13 +131,13 @@
   - Interns: 2 interns
 - **Business Development & Sales:** 1 person
 - **Communications & Marketing:** 1 person
-- **Unclassified:** 4 people (Brent Keefer, Cory Dixon, Daniel Prendergast, Tim Hegwood)
+- **Unclassified:** 5 people (Brent Keefer, Cory Dixon, Daniel Prendergast, Shelly Dvorak, Tim Hegwood)
 - **Service Accounts:** 3
 
 **Data Validation Notes:**
-- ✅ All 20 active employees and 3 service accounts present and accounted for
+- ✅ All 21 active employees and 3 service accounts present and accounted for
 - ✅ All email addresses preserved exactly as provided
 - ✅ All phone numbers standardized to XXX-XXX-XXXX format
-- ✅ Raw data validates existing knowledge — no conflicts or discrepancies detected
+- ✅ New entry added: **Shelly Dvorak** (unclassified role/department)
 - ✅ Complete data integrity confirmed — all entries merged successfully
-- ⚠️ **Four team members remain unclassified** — Brent Keefer, Cory Dixon, Daniel Prendergast, and Tim Hegwood have no documented role or department. Recommend immediate clarification to complete organizational chart.
+- ⚠️ **Five team members remain unclassified** — Brent Keefer, Cory Dixon, Daniel Prendergast, Shelly Dvorak (new), and Tim Hegwood have no documented role or department. Recommend immediate clarification to complete organizational chart.

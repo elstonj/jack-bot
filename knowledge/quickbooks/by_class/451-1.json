@@ -4,17 +4,17 @@
     "{451-1] INSTAAR S3 x 2"
   ],
   "period": {
-    "start": "2024-11-16",
-    "end": "2026-11-16"
+    "start": "2024-11-17",
+    "end": "2026-11-17"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 12203.62,
+    "expenses": 10333.62,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 10510.37,
+      "DIRECT COSTS:DC-Direct Material Purchases": 8665.37,
       "Inventory Asset": 1292.5,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 314.8,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 85.95
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 60.95
     }
   },
   "invoices": [],
@@ -81,6 +81,24 @@
           "amount": 208.0,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "2 each of Green and Red Magnum drone strobe"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-01",
+      "doc_number": "23311",
+      "total": 1292.5,
+      "attributed": 1292.5,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Paid via PayPal\nFor S3 Sales",
+      "lines": [
+        {
+          "amount": 1292.5,
+          "account": "Inventory Asset",
+          "description": "Z1100-DroneCAN M5 connector x 3"
         }
       ]
     },
@@ -208,34 +226,6 @@
     },
     {
       "type": "Purchase",
-      "date": "2026-10-26",
-      "doc_number": "23300",
-      "total": 1870.0,
-      "attributed": 1870.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Paid via PayPal",
-      "lines": [
-        {
-          "amount": 1320.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "Z1100-DroneCAN M5 Wire x 3"
-        },
-        {
-          "amount": 525.0,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "HBL599SL-DroneCAN (0.09 sec/60\u00c2\u00b0 - 319.4 oz/in @7.4V) x 2"
-        },
-        {
-          "amount": 25.0,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "Shipping"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
       "date": "2026-10-23",
       "doc_number": "",
       "total": 1007.92,
@@ -318,24 +308,6 @@
           "amount": 31.77,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Shipping Costs"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-01",
-      "doc_number": "23311",
-      "total": 1292.5,
-      "attributed": 1292.5,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Paid via PayPal\nFor S3 Sales",
-      "lines": [
-        {
-          "amount": 1292.5,
-          "account": "Inventory Asset",
-          "description": "Z1100-DroneCAN M5 connector x 3"
         }
       ]
     },

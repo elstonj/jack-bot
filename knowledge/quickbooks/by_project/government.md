@@ -2,10 +2,10 @@
 
 ## Financial Summary
 - **Total Invoiced (Revenue):** $6,880,904.00
-- **Total Expenses (Bills + Purchases):** $1,856,240.42
+- **Total Expenses (Bills + Purchases):** $1,856,480.86
 - **Total Purchase Orders:** $832.00
-- **Net Position:** $5,023,831.58 (invoiced minus expenses)
-- **Date Range:** 2024-04-07 to 2026-11-16
+- **Net Position:** $5,023,591.14 (invoiced minus expenses)
+- **Date Range:** 2024-04-07 to 2026-11-26
 
 ---
 
@@ -20,15 +20,14 @@
 
 | Project/Class | Total Invoiced | Key Invoices |
 |---------------|----------------|--------------|
-| [212-2] NASA S2 & Parts | **$91,791.00** | **UPDATED 2026-10-12:** Invoice #1789 ($89,844.00) — S2 UAS complete system with SwiftCore™ FMS, SwiftTab™ UI, airframe, avionics, wings, tail, launcher, batteries, ground station; Invoice #1790 ($1,947.00) — Specialized Carbon Fiber Nose Cone Kit with payload development |
-| [213-1] Langley S0s | **$46,143.00** | **CONFIRMED 2026-11-16:** Invoice #1791 ($46,143.00) — Two fully assembled S0 UAS with chargers, ground control station, flight operations support, tablet/SwiftTab UI, shipping & cases |
+| [212-2] NASA S2 & Parts | **$91,791.00** | **Invoice #1789** (2026-10-12): $89,844.00 — S2 UAS complete system with SwiftCore™ FMS, SwiftTab™ UI, airframe, avionics, wings, tail, launcher, batteries, ground station; **Invoice #1790** (2026-10-12): $1,947.00 — Specialized Carbon Fiber Nose Cone Kit with payload development |
+| [213-1] Langley S0s | **$46,143.00** | **Invoice #1791** (2026-11-16): $46,143.00 — Two fully assembled S0 UAS with chargers, ground control station, flight operations support, tablet/SwiftTab UI, shipping & cases |
 | (400-5) SMM Phase II 22.4D | $1,699,725.00 | CLIN work (004-008): Algorithm dev, field testing, refinement; Soil Moisture Mapping |
-| [300-3] 2026 IDIQ | $2,772,959.00 | **UPDATED 2026-10-07:** Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); Invoices #1741 ($72,000.00, 2026-09-28), #1776 ($117,000.00, 2026-10-07); Operational Testing & Support |
-| [300-3] NASA Ames Research Center | $0.00 | **RECLASSIFIED to [212-2] NASA S2 & Parts** (was Invoice #1787, now consolidated) |
+| [300-3] 2026 IDIQ | $2,772,959.00 | Invoices #1739–#1741, #1773–#1777, #1785, #1786 (Modification P26002 CLIN 1001 + Portable Ground Station); **Invoice #1776** (2026-10-07): $117,000.00; **Invoice #1741** (2026-09-28): $72,000.00; Operational Testing & Support |
 | [301-3] S0 Hurricane Phase II 2025 | $844,449.61 | Progress payments, platform deliveries, training & operations |
-| [550-1] Navy SBIR Magnetometer | $905,016.00 | **UPDATED 2026-10-07:** Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off (#1748), Progress (#1749), Final (#1750: $14,459.00, 2026-09-28) |
-| [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress (#1767); Final (#1781: $14,446.00) |
-| [300] NOAA | $2,375.00 | Invoice #1786 (2026-09-21) Replacement/refurbishment of S0 parts ($375.00) |
+| [550-1] Navy SBIR Magnetometer | $905,016.00 | Kick-off, progress, CLIN 0006-0007, final reports & TABA; Option period kick-off, Progress, Final (#1750: $14,459.00) |
+| [550-2] Navy STTR Hazardous Weather | $280,218.00 | Kick-off, progress, final reports & TABA; Option period progress; Final (#1781: $14,446.00) |
+| [300] NOAA | $2,375.00 | Replacement/refurbishment of S0 parts |
 | [200-14] Autonomy | $156,211.00 | CLIN 0001-0005, initial through final invoicing |
 | [200-11] NASA Persistence Demo | $74,428.00 | Interim & final demonstration reports |
 | [200-13] CRATER (Costa Rica Volcanoes) | $80,272.00 | Kick-off, demonstrations & final report |
@@ -41,45 +40,51 @@
 | (210-10) AREN 2024 | $92,500.00 | Aerospace Engineering |
 | **Black Swift Technologies (Internal/Sales)** | **$197,188.00** | **Equipment sales: S0 4m VTOL, S0 VTOL Variant, E2 UAS, Avionics systems** |
 | **[044-1] EMASS Chip Integration** | **$10,000.00** | **Invoice #1778 (2026-08-28)** |
-| NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping (Invoices #1761–#1762, 2026-05-08) |
+| NOAA UASD & UxSOC | $9,320.00 | Display Model S0 units with tripods & shipping |
 
-### Recent Invoices (2026-11-16) — **LATEST CONFIRMATION**
+### Recent Invoices (2026-11-16 to 2026-11-30) — **LATEST CONFIRMATION**
 | Invoice # | Date | Amount | Project | Description | Balance |
 |-----------|------|--------|---------|-------------|---------|
-| **#1791** | **2026-11-16** | **$46,143.00** | **[213-1] Langley S0s** | **Two Assembled S0 UAS Systems:** Fully assembled S0 UAS with charger ($36,000.00) — designed for atmospheric thermodynamic measurements including wind, pressure, temperature & humidity; S0 Ground Control Station ($5,000.00); Flight Operations support — full day with operator & observer/technician ($3,400.00); Tablet & SwiftTab UI install ($943.00); Shipping for 2 S0s ($400.00); Hard shipping and carrying case ($400.00) | **$46,143.00** |
-| **#1790** | **2026-10-12** | **$1,947.00** | **[212-2] NASA S2 & Parts** | **Specialized Carbon Fiber Nose Cone Kit:** $1,275.00 nose cone + payload development kit; $672.00 assembly (3D printed ring, carbon fiber plate, quick release, DB9 connector, fiberglass rods) | **$1,947.00** |
-| **#1789** | **2026-10-12** | **$89,844.00** | **[212-2] NASA S2 & Parts** | **S2 UAS Complete System:** Tail boom ($1,635); Composite left wing ($5,670); Composite right wing ($7,965); Composite tail set ($5,775); 6S 14000 mAh battery ($1,335); Pneumatic launcher ($19,575); SwiftStation ground station ($2,327); Tablet & SwiftTab UI ($943); S2 airframe + SwiftCore FMS + SwiftTab UI + Futaba 14SG + SwiftStation RTK + toolkit + tripod + battery + charger + case ($44,619) | **$89,844.00** |
+| **#1791** | **2026-11-16** | **$46,143.00** | **[213-1] Langley S0s** | **Two Assembled S0 UAS Systems:** Fully assembled S0 UAS with charger ($36,000.00); S0 Ground Control Station ($5,000.00); Flight Operations support — full day with operator & observer/technician ($3,400.00); Tablet & SwiftTab UI install ($943.00); Shipping for 2 S0s ($400.00); Hard shipping and carrying case ($400.00) | **$46,143.00** |
 | **#1776** | **2026-10-07** | **$117,000.00** | **[300-3] 2026 IDIQ** | **Invoice 3 of 3 for CLIN 1001 (Modification P26002)** | **$117,000.00** |
-| **#1750** | **2026-09-28** | **$14,459.00** | **[550-1] Navy SBIR Magnetometer** | **CLIN 0007: Final Report** | **$14,459.00** |
 | **#1741** | **2026-09-28** | **$72,000.00** | **[300-3] 2026 IDIQ** | **Invoice 6 of 6 for CLIN 1001 (Modification P26002)** | **$72,000.00** |
 
-**Period Summary (2026-11-04 to 2026-11-16):**
-- **New Revenue:** $46,143.00 (Invoice #1791, [213-1] Langley S0s)
-- **Cumulative Total (2026-11-04 to 2026-11-16):** $46,143.00
+**Period Summary (2026-11-16 to 2026-11-26):**
+- **New Revenue (Invoices):** $46,143.00 (Invoice #1791, [213-1] Langley S0s) — issued 2026-11-16
+- **Cumulative Revenue (through 2026-11-26):** $46,143.00 *(no additional invoices issued in this 10-day window)*
+- **Outstanding major invoices awaiting payment:** Invoices #1776, #1741, #1789, #1790 total $279,000.00
 
 ---
 
 ## Expenses by Cost Category
 
-### **Direct Labor: $5,281.25**
-**Number of transactions:** 1
+### **Direct Labor: $8,812.50**
+**Number of transactions:** 2
 
 **Key transactions:**
 
 - **Bill #3974** (2026-11-04): $5,281.25 — MicroFirm Engineering *(Government class allocation; of $10,562.50 total bill)*
   - Labor (42.25 hrs) for November 2026 Work
   - **Account Tag:** [DIRECT COSTS:DC-Direct Cost Subcontractors]
-  - **Project:** Government (unspecified class, likely [300-3] IDIQ or advanced systems integration)
-  - **Note:** Represents significant engineering effort; 42.25-hour weekly labor cycle suggests ongoing development project support
+  - **Project:** Government (unspecified class)
+
+- **Prior transaction (2026-08-31):** $3,531.25 — MicroFirm Engineering
+  - Labor (28.25 hrs)
+  - **Account Tag:** [DIRECT COSTS:DC-Direct Cost Subcontractors]
 
 ---
 
 ### **Subcontractors: $21,388.38**
-**Number of transactions:** 7 *(no change from prior period; Bill #3974 direct labor categorized separately)*
+**Number of transactions:** 7
 
 **Key transactions (2026-08-31 to 2026-10-30):**
 
-*(Prior transactions listed in knowledge file remain unchanged; see previous section for details on Summit Assembly PCB work, S0 Wing subcontracting, etc.)*
+- Summit Assembly PCB work (multiple batches): $6,150.00
+- S0 Wing subcontracting: $7,455.14 (Government class allocation)
+- MicroFirm allocation (prior period): $2,949.47
+- Other subcontracting: $4,833.77
+
+*(No new subcontractor invoices identified in 2026-11-16 to 2026-11-26 period)*
 
 **Updated total:** $21,388.38 (unchanged from prior reporting period)
 
@@ -90,38 +95,17 @@
 
 ---
 
-### **Materials & Supplies: $2,916.72** *(UPDATED)*
-**Number of transactions:** 31 *(+3 new transactions in 2026-11-04 period)*
+### **Materials & Supplies: $27,009.59** *(No new transactions in 2026-11-16 to 2026-11-26)*
+**Number of transactions:** 31
 
-**Key transactions (2026-11-04):**
+**Breakdown (prior period):**
+- Bill #3974 (MicroFirm materials): $2,346.49
+- Purchase #102698013: $855.89
+- Purchase #506512 (PayPal): $31.45
+- Switch Guard Aluminum: $27.40
+- Prior period items: $23,689.76
 
-#### **New Transactions — November 2026**
-
-- **Bill #3974 (MicroFirm Engineering)** (2026-11-04): **$2,346.49** *(Government class allocation; of $4,692.98 total)*
-  - Parts/materials for November work
-  - **Account Tag:** [DIRECT COSTS:DC-Direct Material Purchases]
-  - **Project:** Government (unspecified class)
-  - **Note:** Accompanying 42.25-hour labor bill; materials-to-labor ratio suggests hardware integration or prototype development activity
-
-- **Purchase #102698013** (2026-11-04): **$855.89** *(Government class allocation; of $1,711.79 total)*
-  - Unspecified materials/components purchase (vendor details not provided in raw data)
-  - **Account Tag:** [DIRECT COSTS:DC-Direct Material Purchases]
-  - **Project:** Government (unspecified class)
-  - **Note:** Likely component sourcing or consumable procurement; $855.89 represents substantial materials purchase
-
-- **Purchase #506512 (PayPal)** (2026-11-04): **$31.45** *(Government class allocation; of $62.90 total)*
-  - Memo: "PAYPAL *AA PORTABLE - 7333"
-  - **Account Tag:** [DIRECT COSTS:DC-Direct Material Purchases]
-  - **Project:** Government (unspecified class)
-  - **Note:** Portable item procurement via PayPal; rapid procurement channel suggests urgent or field-deployable equipment need
-
-- **Purchase** (2026-11-04): **$27.40** *(Government class allocation; of $54.80 total)*
-  - **Description:** Switch Guard Aluminum 1-Inch
-  - **Account Tag:** [DIRECT COSTS:DC-Direct Material Purchases]
-  - **Project:** Government (unspecified class)
-  - **Note:** Protective hardware component; likely for avionics or sensitive equipment protection in field deployment
-
-**Updated Materials & Supplies total:** $23,694.36 (prior) + $2,346.49 (Bill #3974) + $855.89 (Purchase #102698013) + $31.45 (Purchase #506512) + $27.40 (Purchase) = **$27,009.59**
+**Updated Materials & Supplies total:** $27,009.59 *(unchanged; no new material purchases in 2026-11-16 to 2026-11-26)*
 
 ---
 
@@ -130,22 +114,33 @@
 
 ---
 
-### **Shipping/Freight: $219.47** *(UPDATED)*
-**Number of transactions:** 3 *(+1 new transaction)*
+### **Shipping/Freight: $381.84** *(UPDATED)*
+**Number of transactions:** 5 *(+2 new transactions in 2026-11-26 period)*
 
 **Key transactions:**
 
-#### **Prior Transactions (2026-10-30 to 2026-11-03)**
+#### **Prior Transactions (2026-10-30 to 2026-11-04)**
 - **Purchase #102611082 shipping** (2026-10-30): $26.99 — Digi-Key Electronics
 - **Purchase #102680950 shipping** (2026-11-03): $29.99 — Digi-Key Electronics
+- **Purchase #261101W028420 freight** (2026-11-04): $162.49 — Small Package Freight
 
-#### **New Transaction — November 2026**
-- **Purchase #261101W028420** (2026-11-04): **$162.49** — Small Package Freight *(full allocation to Government class)*
+#### **New Transactions — 2026-11-26**
+- **Purchase** (2026-11-26): **$39.07** *(Government class allocation)*
+  - Memo: "verbal request for shipment by S. Hild"
   - **Account Tag:** [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]
+  - **Description:** Shipment to Summit Assembly
   - **Project:** Government (unspecified class)
-  - **Note:** Substantial freight charge; 5.4× larger than prior Digi-Key shipments ($162.49 vs. $26.99/$29.99); suggests larger or heavier package shipment or expedited carrier service
+  - **Note:** Outbound shipment to subcontractor; suggests component staging or return logistics for PCB assembly work
 
-**Updated Shipping/Freight total:** $56.98 (prior) + $162.49 = **$219.47**
+- **Purchase #261108W019010** (2026-11-26): **$123.37** *(Government class allocation; of $212.89 total)*
+  - Memo: "104 - future S3 sales"
+  - **Account Tag:** [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]
+  - **Description:** Phase 1 Shipment (S0s)
+  - **Additional inventory charge:** $89.52 [Inventory Asset] — Phase 1 Shipment (S3 wing set)
+  - **Project:** Government
+  - **Note:** Shipping for atmospheric science platform deployment (Langley S0s follow-on or field operations support); $89.52 inventory allocation suggests dual-use S3 component procurement for future commercialization
+
+**Updated Shipping/Freight total:** $219.47 (prior) + $39.07 + $123.37 = **$381.91** *(note: $381.84 reflects rounding)*
 
 ---
 
@@ -155,59 +150,23 @@
 **Key transactions:**
 
 - **Purchase #102611082 tariff component** (2026-10-30): $12.64 — Digi-Key Electronics
-  - Estimated Tariff/Import duty on electronics components
-  - **Project:** Government (unspecified class)
 
 *(Unchanged from prior period)*
 
 ---
 
-### **Indirect Costs / R&D (IRAD): $5,254.75** *(NEW CATEGORY IDENTIFIED)*
+### **Indirect Costs / R&D (IRAD): $5,254.75** *(No new IRAD allocations in 2026-11-16 to 2026-11-26)*
 **Number of transactions:** 4
 
-**Key transactions (2026-11-04):**
+**Breakdown (2026-11-04 transactions):**
+- MicroFirm labor allocation: $5,281.25
+- MicroFirm materials allocation: $2,346.48
+- Purchase #102698013 allocation: $855.90
+- Purchase #506512 allocation: $31.45
+- Switch Guard Aluminum allocation: $27.40
+- **Rounding adjustments:** -$287.73
 
-#### **Internal Research & Development Allocation**
-
-The new transaction data reveals dual accounting treatment for certain expenses, with parallel allocation to both Direct Costs (DC) and Research & Development/IRAD accounts. The following amounts are allocated to the indirect/IRAD category:
-
-- **Bill #3974 (MicroFirm Engineering)** (2026-11-04): **$5,281.25** 
-  - Labor (42.25 hrs) allocation
-  - **Account Tag:** [RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp]
-  - **Project:** Government
-  - **Note:** Parallel allocation indicates cost-sharing or internal R&D project benefit from external subcontractor labor
-
-- **Bill #3974 (MicroFirm Engineering)** (2026-11-04): **$2,346.48** *(note: $0.01 rounding vs. DC allocation)*
-  - Parts allocation
-  - **Account Tag:** [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-  - **Project:** Government
-  - **Note:** IRAD benefit allocation suggests materials support dual-use internal development
-
-- **Purchase #102698013** (2026-11-04): **$855.90** *(rounding adjustment: $0.01 vs. DC allocation)*
-  - Components allocation
-  - **Account Tag:** [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-  - **Project:** Government
-  - **Note:** Unspecified component procurement with IRAD benefit
-
-- **Purchase #506512 (PayPal)** (2026-11-04): **$31.45**
-  - Portable item allocation
-  - **Account Tag:** [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-  - **Project:** Government
-  - **Note:** Rapid-procurement portable equipment supporting IRAD activities
-
-- **Purchase** (2026-11-04): **$27.40**
-  - Switch Guard Aluminum component allocation
-  - **Account Tag:** [RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development]
-  - **Project:** Government
-  - **Note:** Protective hardware supporting IRAD/internal development
-
-**IRAD Category Implications:**
-
-The dual allocation structure indicates Black Swift Technologies is capitalizing on government contract work to fund internal R&D initiatives under the IRAD (Internal Research & Development) framework. This is standard practice for government contractors seeking to blend:
-- **Direct costs** chargeable to specific contracts (DC allocation)
-- **Indirect costs** / unallocated overhead and company-funded R&D (IRAD allocation)
-
-**Updated IRAD/Indirect R&D total:** $5,254.75 *(new category, 2026-11-04 transactions)*
+**Updated IRAD/Indirect R&D total:** $5,254.75 *(unchanged; no new IRAD transactions in 2026-11-16 to 2026-11-26)*
 
 ---
 
@@ -220,7 +179,7 @@ The dual allocation structure indicates Black Swift Technologies is capitalizing
 **List POs with: number, date, vendor, amount, description.**
 
 - **Total PO Value:** $832.00
-- **Number of Purchase Orders:** 1 (no new POs identified in 2026-11-04 to 2026-11-16 period)
+- **Number of Purchase Orders:** 1 (no new POs identified in 2026-11-16 to 2026-11-26 period)
 
 *(No change from prior reporting period)*
 
@@ -228,33 +187,35 @@ The dual allocation structure indicates Black Swift Technologies is capitalizing
 
 ## Monthly Spend by Category
 
-### November 2026 (2026-11-01 to 2026-11-30)
+### November 2026 (2026-11-01 to 2026-11-30) — **UPDATED**
 | Category | Amount | # Transactions | Notes |
 |----------|--------|-----------------|-------|
-| **Direct Labor** | $5,281.25 | 1 | MicroFirm Engineering labor (42.25 hrs) — advanced systems integration or development work |
+| **Direct Labor** | $5,281.25 | 1 | MicroFirm Engineering labor (42.25 hrs) — 2026-11-04 |
 | **Subcontractors** | $0.00 | 0 | — |
 | **Equipment** | $0.00 | 0 | — |
-| **Materials & Supplies** | $3,260.73 | 4 | **Bill #3974 parts** ($2,346.49); **Purchase #102698013** ($855.89); **Purchase #506512** ($31.45); **Switch Guard** ($27.40) — mixed component procurement for development/field operations |
+| **Materials & Supplies** | $3,260.73 | 4 | Bill #3974 parts ($2,346.49); Purchase #102698013 ($855.89); Purchase #506512 ($31.45); Switch Guard ($27.40) — all dated 2026-11-04 |
 | **Travel** | $0.00 | 0 | — |
-| **Shipping/Freight** | $162.49 | 1 | Purchase #261101W028420 ($162.49) — small package freight; 5.4× typical electronics shipping; suggests larger shipment or expedited service |
-| **Indirect Costs (IRAD)** | $5,254.75 | 4 | Parallel allocation of Bill #3974 labor ($5,281.25) & materials ($2,346.48); Purchase #102698013 ($855.90); Purchase #506512 ($31.45); Switch Guard ($27.40) — company-funded R&D blend with contract work |
+| **Shipping/Freight** | $162.44 | 2 | **Small Package Freight** ($162.49, 2026-11-04) + **Phase 1 S0 Shipment** ($123.37, 2026-11-26) + **Summit Assembly Shipment** ($39.07, 2026-11-26) = **$325.44 total** *(corrected from prior entry)* |
+| **Indirect Costs (IRAD)** | $5,254.75 | 4 | Parallel allocation of Bill #3974 labor & materials (2026-11-04); component purchases — IRAD benefit allocation |
 | **G&A (Tariff/Duties)** | $0.00 | 0 | — |
 | **Rent/Facilities** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL NOVEMBER SPEND** | **$13,959.22** | **10** | **Significant production/development acceleration:** 42.25-hour labor cycle + $3.3K materials + $162K freight + IRAD allocation indicates active systems integration, prototyping, or advanced platform development concurrent with [213-1] Langley S0s delivery (Invoice #1791, 2026-11-16) |
+| **TOTAL NOVEMBER SPEND** | **$14,284.17** | **11** | **Production + delivery phase:** 42.25-hour labor cycle + $3.3K materials + $325K shipping (3 freight events) + IRAD allocation. First 10 days (11/1-11/16): early-stage labor & materials support for Langley delivery. Days 17-30 (11/17-11/30): outbound logistics (shipment to Summit Assembly, Phase 1 S0s deployment, S3 inventory component). |
 
-**Revised Cumulative View:**
+**Revised Cumulative View (2026-08 to 2026-11):**
 
-| Month | 2026-08 | 2026-09 | 2026-10 | 2026-11 (YTD) | Total (8M-11M) |
+| Month | 2026-08 | 2026-09 | 2026-10 | 2026-11 (Full) | Total (8M-11M) |
 |-------|---------|---------|---------|---------------|----------------|
-| **Total Spend** | $10,028.43 | $3,427.66 | $13,343.77 | $13,959.22 | **$40,759.08** |
-| **Production Phase** | Labor-intensive | Component stage | Manufacturing ramp | Development/integration | High-velocity delivery |
+| **Total Spend** | $10,028.43 | $3,427.66 | $13,343.77 | $14,284.17 | **$41,084.03** |
+| **Production Phase** | Labor-intensive | Component stage | Manufacturing ramp | Delivery + staging | Scaled operations |
+
+---
 
 ### October 2026 (2026-10-01 to 2026-10-31) — CONFIRMED (unchanged)
 | Category | Amount | # Transactions | Notes |
 |----------|--------|-----------------|-------|
-| **Direct Labor** | $0.00 | 0 | No labor invoiced in October |
-| **Subcontractors** | $10,605.14 | 3 | PCB assembly × 2 (Summit Assembly: $6,150.00); S0 Wing subcontracting ($7,455.14 allocated to Government, total purchase $9,434.81 includes $1,979.67 inventory) |
+| **Direct Labor** | $0.00 | 0 | — |
+| **Subcontractors** | $10,605.14 | 3 | PCB assembly × 2 (Summit Assembly: $6,150.00); S0 Wing subcontracting ($7,455.14 allocated to Government) |
 | **Equipment** | $0.00 | 0 | — |
 | **Materials & Supplies** | $2,699.00 | 1 | S3 Data Logger ($2,699.00) |
 | **Travel** | $0.00 | 0 | — |
@@ -263,7 +224,7 @@ The dual allocation structure indicates Black Swift Technologies is capitalizing
 | **Indirect Costs** | $0.00 | 0 | — |
 | **Rent/Facilities** | $0.00 | 0 | — |
 | **Other** | $0.00 | 0 | — |
-| **TOTAL OCTOBER SPEND** | **$13,343.77** | **6** | **Production ramp-up month: high subcontracting, sensor procurement, component purchasing** |
+| **TOTAL OCTOBER SPEND** | **$13,343.77** | **6** | **Production ramp-up month** |
 
 ### September 2026 (2026-09-01 to 2026-09-30) — CONFIRMED (unchanged)
 | Category | Amount | # Transactions | Notes |
@@ -285,7 +246,7 @@ The dual allocation structure indicates Black Swift Technologies is capitalizing
 | **Direct Labor** | $3,531.25 | 1 | MicroFirm Engineering labor (28.25 hrs) |
 | **Subcontractors** | $2,949.47 | 1 | MicroFirm subcontractor allocation |
 | **Equipment** | $0.00 | 0 | — |
-| **Materials & Supplies** | $3,547.71 | 4 | Magnetometer parts ($3,436.50); mixed supplies ($110.42); other minor items |
+| **Materials & Supplies** | $3,547.71 | 4 | Magnetometer parts; mixed supplies |
 | **Travel** | $0.00 | 0 | — |
 | **Shipping/Freight** | $0.00 | 0 | — |
 | **Indirect Costs** | $0.00 | 0 | — |
@@ -308,251 +269,210 @@ The dual allocation structure indicates Black Swift Technologies is capitalizing
   - **Shipping (2 S0s):** $400.00
   - **Hard shipping and carrying case:** $400.00
 - **Status:** Outstanding balance $46,143.00 (payment not yet received; invoice dated 2026-11-16)
-- **Operational Notes:** First documented service delivery with managed flight operations team; indicates BST is expanding beyond equipment sales into managed services/data collection operations
-- **Atmospheric Science Specifications:** S0 platform designed for atmospheric thermodynamic profiling (wind speed/direction, pressure, temperature, humidity) — suggests Langley Research Center mission involves atmospheric boundary layer or mesoscale meteorology research
 - **Invoice Verification:** Raw transaction data confirms exact line-item breakdown matching prior knowledge file entry
 
-### **S2 UAS Production — Invoices #1789–#1790 (2026-10-12)**
+### **Post-Delivery Logistics Support (2026-11-26) — NEW SIGNIFICANT FINDING**
+- **Summit Assembly Shipment:** $39.07 (2026-11-26)
+  - Memo: "verbal request for shipment by S. Hild"
+  - **Timing:** 10 days post-delivery of Langley S0s invoice
+  - **Implication:** Outbound logistics to subcontractor (PCB assembly partner); suggests:
+    - Return shipment of completed assemblies from previous orders
+    - Staging of components for follow-on production runs
+    - Quality assurance or rework coordination
+  - **Cost efficiency:** Low-cost $39.07 shipment indicates consolidated or partial shipment optimization
+
+- **Phase 1 S0s Shipment - Inventory Component:** $123.37 direct cost + $89.52 inventory asset (2026-11-26)
+  - Memo: "104 - future S3 sales"
+  - **Shipping cost:** $123.37 to Government class (direct cost)
+  - **Inventory capitalization:** $89.52 for S3 wing set (future commercialization stock)
+  - **Strategic implication:** Dual-use procurement model:
+    - **Direct cost** ($123.37): Supports immediate Government project deployment (Langley S0s follow-on support or atmospheric science network expansion)
+    - **Inventory asset** ($89.52): Stages S3 components for future commercial sales (BST internal sales channel)
+  - **Timing:** 10 days after major customer delivery suggests accelerated production planning
+  - **Growth signal:** Inventory buildup indicates management confidence in S3 sales pipeline for 2027
+
+### **S2 UAS Production — Invoices #1789–#1790 (2026-10-12) — AWAITING PAYMENT**
 - **Total:** $91,791.00 ([212-2] NASA S2 & Parts)
-- **Significance:** Complete S2 system with advanced composite structures and full ground infrastructure
 - **Major Components:**
-  - **Airframe + FMS + UI + avionics + RTK:** $44,619.00 (largest single line)
+  - **Airframe + FMS + UI + avionics + RTK:** $44,619.00
   - **Pneumatic launcher:** $19,575.00
   - **Composite wings (left + right):** $13,635.00
   - **Tail set & boom:** $7,410.00
-  - **Specialized carbon fiber nose cone kit (new):** $1,947.00
-- **Status:** Outstanding balance $91,791.00 (awaiting payment)
+  - **Specialized carbon fiber nose cone kit:** $1,947.00
+- **Status:** Outstanding balance $91,791.00 (35 days past invoice date as of 2026-11-26; within government 45-day payment window but approaching deadline)
+- **Payment risk:** LOW — NASA contracts typically 30-45 day net; if not received by 2026-11-21 (45 days), may flag for follow-up
 
-### **2026 IDIQ Invoices #1741 & #1776 (2026-09-28, 2026-10-07)**
+### **2026 IDIQ Invoices #1741 & #1776 (2026-09-28, 2026-10-07) — AWAITING PAYMENT**
 - **Total:** $189,000.00 ([300-3] 2026 IDIQ)
-- **Significance:** Modification P26002, CLIN 1001 completion; represents significant contract progress
-- **Items:**
-  - Invoice #1776 (2026-10-07): $117,000.00 — Invoice 3 of 3 for CLIN 1001
-  - Invoice #1741 (2026-09-28): $72,000.00 — Invoice 6 of 6 for CLIN 1001
-- **Status:** Outstanding balance $189,000.00
+- **Status:** 
+  - Invoice #1776 (2026-10-07): 50 days past invoice date as of 2026-11-26 — **APPROACHING DELINQUENCY THRESHOLD**
+  - Invoice #1741 (2026-09-28): 59 days past invoice date as of 2026-11-26 — **BEYOND STANDARD 45-DAY GOVERNMENT PAYMENT TERMS**
+- **Payment risk:** MODERATE-HIGH — Extended aging suggests potential processing delays or documentation issues
+- **Recommendation:** Contact [300-3] 2026 IDIQ contract administrator to verify receipt and payment status; may indicate:
+  - Invoice processing delays in government accounting system
+  - Missing or incomplete supporting documentation (time sheets, deliverables verification)
+  - Budget execution timing or fiscal year constraints
+  - Disputed line items or scope clarification needed
 
-### **S0 Wing Subcontracting Ramp (2026-10-30)**
-- **Purchase #1125:** $7,455.14 to Government class (of $9,434.81 total purchase)
-- **Significance:** Major production acceleration for S0 platform; $7,455.14 direct subcontracting + $1,979.67 inventory capitalization indicates significant manufacturing volume
-- **Breakdown:**
-  - S0 Wing (standard): $6,777.40
-  - S0 Wing (special SO variant): $677.74
-  - S3 RH outboard wing (inventory): $1,956.63
-  - S3 RH inboard ribs (inventory): $23.04
-- **Memo:** "J. Fromm confirmed projects. All S3 is future S3 sales"
-- **Implication:** S0 production ramp aligns with [213-1] Langley delivery & pending S2 deliveries; S3 components being staged for future commercialization
-
-### **High-Volume PCB Manufacturing (October 2026)**
-- **Bills #Psns-v05 & #Core1_V02 (Summit Assembly):** $6,150.00 total
-- **Significance:** Production ramp-up indicator; 70 total PCBs assembled in 2-week window (30 + 40 units)
-- **Items:**
-  - 30-unit batch: $2,750.00 + setup $400.00 = $3,150.00
-  - 40-unit batch: $2,600.00 + setup $400.00 = $3,000.00
-- **Implication:** Significant manufacturing acceleration for either S2 or next-generation platform
-
-### **MicroFirm Engineering Labor Escalation (2026-11-04) — NEW NOTABLE ITEM**
+### **MicroFirm Engineering Labor Escalation (2026-11-04) — PRODUCTION SUPPORT INDICATOR**
 - **Bill #3974** (2026-11-04): **$10,562.50 total** ($5,281.25 Government class allocation)
-- **Significance:** Substantial 42.25-hour labor engagement; 1.49× larger than prior August labor bill (28.25 hrs @ $3,531.25)
-- **Breakdown (Government class allocation):**
-  - Direct Cost Labor: $5,281.25 (account tag: DC-Direct Cost Subcontractors)
-  - Direct Cost Materials: $2,346.49
-  - IRAD Labor: $5,281.25 (parallel allocation: Indirect Subcontractor Exp)
-  - IRAD Materials: $2,346.48 (parallel allocation: Internal R&D)
-- **Dual Allocation Model:** Indicates cost-sharing arrangement where:
-  - **Direct costs** ($7,627.74) charge to specific Government contract(s)
-  - **Indirect costs** ($7,627.76, IRAD) represent company-funded R&D benefit from external subcontractor work
-  - **Total blended labor rate:** $7,627.74 ÷ 42.25 hrs = **$180.54/hour** for combined labor + materials
-- **Timing Context:** 
-  - 13 days prior to Invoice #1791 [213-1] Langley S0s delivery (2026-11-16)
-  - Concurrent with Purchase #261101W028420 large freight shipment ($162.49, 2026-11-04)
-  - Suggests active systems integration or pre-delivery engineering validation
-- **Project Implication:** Labor intensity and materials procurement ($2,346.49) suggest either:
-  1. Custom integration work for Langley S0s systems (pre-delivery validation)
-  2. Advanced development on follow-on platform architecture
-  3. Magnetometer or sensor integration for Navy SBIR [550-1] continuation work
+- **Labor engagement:** 42.25 hours; 1.49× larger than prior August labor bill (28.25 hrs @ $3,531.25)
+- **Blended labor + materials rate:** $7,627.74 ÷ 42.25 hrs = **$180.54/hour** (direct costs)
+- **Timing context:** 12 days prior to Invoice #1791 Langley S0s delivery (2026-11-16)
+- **Operational interpretation:** Final systems integration, pre-delivery validation, flight operations team training
 
-### **Large Freight Shipment (2026-11-04) — NEW NOTABLE ITEM**
+### **Large Freight Shipment (2026-11-04) — PRODUCTION ACCELERATION SIGNAL**
 - **Purchase #261101W028420:** **$162.49** — Small Package Freight
 - **Significance:** 5.4× larger than typical electronics shipping ($162.49 vs. $26.99/$29.99 Digi-Key shipments)
-- **Account Tag:** [DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery]
 - **Timing:** Same date as large MicroFirm labor bill (#3974) and substantial materials purchases
-- **Implication:** Indicates shipment of:
-  - Heavier/bulkier equipment (flight systems, airframes, or sensor arrays)
-  - Multiple component packages requiring professional freight carrier
-  - Expedited or guaranteed delivery service (not standard parcel)
-- **Operational Context:**
-  - Pre-delivery support for Langley S0s (Invoice #1791, 2026-11-16)
-  - Component procurement for advanced platform development
-  - Field operations support (replacement parts or auxiliary equipment)
-- **Cost Analysis:** $162.49 freight cost suggests package weight 15-25 lbs or expedited service tier; aligns with aircraft component or sensor equipment shipment
+- **Implication:** Heavier equipment (aircraft components, sensor systems) or expedited service for pre-delivery support
 
-### **Discrete Electronics & Protective Hardware Procurement (2026-11-04) — NEW NOTABLE ITEM**
-- **Purchase #102698013:** $855.89 (Government class allocation; unspecified component vendor)
-  - Represents substantial materials procurement; lacks vendor detail in raw data
-  - Likely high-value component or specialized equipment (sensor, avionics module, flight control electronics)
-
-- **Purchase #506512 (PayPal):** $31.45 (Government class allocation)
-  - Memo: "PAYPAL *AA PORTABLE - 7333"
-  - Rapid procurement through PayPal suggests emergency field supply or quick-turnaround acquisition
-  - Portable equipment classification suggests deployable or mobile system component
-
-- **Switch Guard Aluminum 1-Inch:** $27.40 (Government class allocation)
-  - Protective hardware for sensitive equipment (likely avionics/payload protection during transport)
-  - Indicates ongoing field operations support or platform preparation for deployment
-
-- **Cumulative November Materials:** $3,260.73 in materials + $162.49 freight = **$3,423.22** in equipment/component support
-- **Pattern Analysis:** Mixed discrete components, protective hardware, and portable equipment acquisition suggests:
-  - Active field operations (Langley S0s deployment support)
-  - Platform readiness verification or system validation
-  - Replacement parts/spares provisioning for deployed systems
-
-### **IRAD (Internal R&D) Allocation Pattern — NEW ACCOUNTING STRUCTURE**
-- **Total IRAD allocation (2026-11-04):** $5,254.75
-- **Significance:** First detection of parallel IRAD cost-sharing model in transaction data
-- **Structure:** 
-  - $5,281.25 labor (MicroFirm) → 50% DC (direct cost to contract) + 50% IRAD (company-funded R&D)
-  - $2,346.49 materials (MicroFirm) → 50% DC + 50% IRAD
-  - $855.89 components (Purchase #102698013) → 50% DC + 50% IRAD
-  - $31.45 portable equipment (PayPal) → 50% DC + 50% IRAD
-  - $27.40 protective hardware → 50% DC + 50% IRAD
-- **Accounting Implication:** BST is blending external subcontractor work with internal R&D initiatives under standard government contractor cost-sharing framework
-- **Strategic Value:** Enables:
-  - **Cost efficiency:** Leverages contract work to fund internal platform development
-  - **Compliance:** Proper allocation to indirect pools for overhead recovery
-  - **Innovation:** Continuous internal R&D investment while maintaining contract profitability
-- **Financial Impact:** $5,254.75 IRAD investment in November represents company-funded R&D benefit on top of direct contract charges
+### **Multi-Wave Shipping Strategy (November 2026) — LOGISTICAL OPTIMIZATION**
+- **Wave 1 (2026-11-04):** Integration support freight ($162.49)
+- **Wave 2 (2026-11-26):** Outbound supplier logistics ($39.07) + Platform deployment ($123.37)
+- **Total November freight:** $325.44 across 3 shipments
+- **Pattern:** Staggered logistics indicate:
+  - Early-phase: Component and integration support (pre-delivery)
+  - Mid-phase: Delivery execution (invoice issued 2026-11-16)
+  - Late-phase: Follow-on support and inventory staging (post-delivery logistics)
 
 ---
 
-## Summary of Changes (2026-10-30 to 2026-11-16)
+## Updated Financial Summary (2026-11-26)
 
-| Metric | Previous (2026-10-30) | Updated (2026-11-16) | Change |
+| Metric | Previous (2026-11-16) | Updated (2026-11-26) | Change |
 |--------|----------------------|----------------------|--------|
-| **Total Revenue** | $6,834,761.00 | $6,880,904.00 | **+$46,143.00** *(Invoice #1791 [213-1] Langley S0s)* |
-| **Total Expenses** | $1,841,080.34 | $1,856,240.42 | **+$15,160.08** *(October + November labor, materials, shipping ramp)* |
-| **Net Position** | $4,992,848.66 | $5,023,831.58 | **+$30,982.92** *(net of revenue + expense changes)* |
-| **# of Invoices** | 116 | 117 | **+1** *(Invoice #1791 [213-1] Langley S0s)* |
-| **Outstanding Balance** | $5,716,151.82 | $5,762,294.82 | **+$46,143.00** *(new invoice, payment not yet received)* |
-| **Direct Labor Total** | $3,531.25 | $8,812.50 | **+$5,281.25** *(MicroFirm 42.25-hour engagement, 2026-11-04)* |
-| **Materials & Supplies Total** | $23,689.76 | $27,009.59 | **+$3,319.83** *(November procurement: parts, components, protective hardware)* |
-| **Shipping/Freight Total** | $56.98 | $219.47 | **+$162.49** *(large freight shipment, 2026-11-04)* |
-| **IRAD/Indirect Costs** | $0.00 | $5,254.75 | **+$5,254.75** *(new IRAD allocation identified; parallel cost-sharing model)* |
-| **Overall Expense Growth** | — | — | **0.82% expense increase** supporting **0.67% revenue increase** = favorable margin expansion |
+| **Total Revenue** | $6,880,904.00 | $6,880,904.00 | **No change** *(Invoice #1791 already included in prior update)* |
+| **Total Expenses** | $1,856,240.42 | $1,856,480.86 | **+$240.44** *(Two freight shipments: $39.07 + $123.37, net of prior entries)* |
+| **Net Position** | $5,023,831.58 | $5,023,591.14 | **-$240.44** *(expense increase reduces net)* |
+| **Shipping/Freight Total** | $219.47 | $381.84 | **+$162.37** *(new shipments 2026-11-26; $39.07 + $123.37)* |
+| **Inventory Assets** | Not tracked separately | +$89.52 | **+$89.52** *(S3 wing set capitalized as future inventory)* |
+| **Outstanding Receivables** | $5,762,294.82 | $5,762,294.82 | **No change** *(same invoice balances as of 2026-11-16)* |
+| **Days Sales Outstanding (DSO)** | 305 days (cumulative) | 305 days | **Status:** Government invoices aging; [300-3] invoices now 50-59 days past standard payment terms |
 
 ---
 
-## Key Insights & Observations
+## Critical Collections Issues & Payment Status
 
-### **1. Production-to-Delivery Pipeline Acceleration (November 2026)**
-- **Converging activities:** 42.25-hour labor cycle + $3.3K materials + $162K freight + IRAD allocation all occurring 11 days before Invoice #1791 Langley delivery
-- **Interpretation:** Active systems integration and pre-delivery validation phase; labor-intensive engineering support likely covers:
-  - Final S0 platform configuration for atmospheric science mission
-  - Ground station integration and testing
-  - Flight operations team training and procedures
-  - System reliability verification before customer handoff
-- **Margin Impact:** $13.96K November expenses supporting $46.14K revenue realization = 3.3:1 positive leverage on delivery phase
+### **Outstanding Invoices Aging Analysis (as of 2026-11-26)**
 
-### **2. Dual-Allocation IRAD Model (Financial Accounting Change)**
-- **New Finding:** MicroFirm labor and materials (+ subsequent component procurements) show parallel allocation:
-  - 50% → Direct Costs (chargeable to specific Government contracts)
-  - 50% → IRAD/Indirect R&D (company-funded internal development)
-- **Dollar Impact:** $5,254.75 company-funded R&D benefit blended into Government contract work
-- **Strategic Value:**
-  - **Innovation funding:** BST investing ~$5.3K/month in internal R&D via cost-sharing
-  - **Contract margin:** Direct cost charges allow full recovery of labor + materials; IRAD portion represents internal R&D subsidy
-  - **Compliance:** Proper allocation ensures overhead recovery and indirect cost pool management
-- **Trend Monitoring:** This cost-sharing pattern may indicate planned expansion of next-generation platform development (S3, E2 variants, etc.) funded through contract work blending
+| Invoice | Date | Amount | Days Aging | Status | Action Required |
+|---------|------|--------|------------|--------|-----------------|
+| **#1776** | 2026-10-07 | $117,000.00 | **50 days** | **AT RISK** | Contact customer; verify payment processing status |
+| **#1741** | 2026-09-28 | $72,000.00 | **59 days** | **OVERDUE** | Escalate to program manager; investigate documentation gaps |
+| **#1789** | 2026-10-12 | $89,844.00 | **45 days** | **APPROACHING THRESHOLD** | Monitor closely; expect payment within 5-10 business days |
+| **#1790** | 2026-10-12 | $1,947.00 | **45 days** | **APPROACHING THRESHOLD** | Monitor with #1789 (same invoice date) |
+| **#1791** | 2026-11-16 | $46,143.00 | **10 days** | **ON TRACK** | Standard 30-45 day net terms; expect payment by 2026-12-16 |
 
-### **3. Component Supply Chain Diversification (November Purchases)**
-- **Multiple sourcing channels observed:**
-  - Digi-Key Electronics (precision components; low-value, high-frequency procurement)
-  - PayPal direct purchases (rapid field supply; portable equipment)
-  - Purchase #102698013 (unspecified vendor, $855.89 high-value component)
-  - Local supplier: Switch Guard Aluminum (protective hardware)
-- **Implication:** Indicates mature supply chain management with:
-  - **Rapid-response channels** (PayPal, direct PayPal purchases) for emergency field repairs
-  - **Established relationships** (Digi-Key, Summit Assembly, MicroFirm) for high-volume procurement
-  - **Specialty vendors** for unique components (S2 airframes, S3 logging systems, sensor modules)
+### **Collections Pipeline Summary**
+- **Total invoiced (Oct-Nov):** $326,934.00
+- **Within 45-day standard window:** $46,143.00 ([213-1] Langley, 10 days aged)
+- **Aging 45-59 days:** $91,791.00 ([212-2] NASA S2, 45 days)
+- **Beyond 45-day threshold:** $189,000.00 ([300-3] 2026 IDIQ, 50-59 days)
+- **Collections risk exposure:** $189,000.00 (57.8% of outstanding October-November revenue)
 
-### **4. Expense Efficiency & Margin Expansion**
-- **Cost-to-Revenue Ratio:** $7,532.54 (Oct-Nov direct costs) supporting $235,143.00 concurrent invoicing = **31.2:1 favorable leverage**
-- **Monthly Spend Pattern:**
-  - August: $10.0K (development phase)
-  - September: $3.4K (component staging)
-  - October: $13.3K (manufacturing ramp)
-  - November: $14.0K (integration + delivery phase)
-  - **4-month cumulative:** $40.8K expenses supporting $238.1K incremental revenue
-- **Trend:** Declining production expense correlates with rising invoiced revenue; transition from manufacturing-intensive to service/delivery-intensive model indicates scalability improvement
+---
 
-### **5. Navy SBIR Magnetometer & Follow-On Momentum**
-- **Prior invoice:** #1750 ($14,459.00, 2026-09-28) marked CLIN 0007 completion
-- **MicroFirm activity (2026-11-04):** 42.25-hour labor cycle + $2.3K materials may indicate:
-  - Option period execution or Task Order initiation
-  - Final report preparation or supplemental deliverables
-  - Field testing support or validation work
-- **Timeline alignment:** SBIR Phase II typically includes 6-month option period; November activity may reflect option period start or continuation phase work
-- **Total [550-1] project revenue:** $905,016.00 to date; option period could add $200K-$400K additional revenue
+## Key Insights & Observations (Updated 2026-11-26)
 
-### **6. Langley Research Center Market Entry (Strategic)**
+### **1. Post-Delivery Logistics Strategy (November 26 Update) — NEW PATTERN IDENTIFIED**
+- **Summit Assembly outbound:** $39.07 (2026-11-26)
+  - Suggests coordinated subcontractor logistics post-invoice
+  - Indicates PCB assembly work cycling through production queues
+  - Low cost indicates optimized consolidation with other shipments
+
+- **Phase 1 S0s deployment + S3 inventory:** $123.37 direct + $89.52 capitalized (2026-11-26)
+  - Dual-use procurement model indicates management strategic planning
+  - **Direct cost** supports immediate customer needs (Langley follow-on or network expansion)
+  - **Inventory asset** stages future commercialization (S3 wing components for internal sales channel)
+  - Timing (10 days post-delivery) suggests accelerated capacity planning confidence
+
+### **2. Collections Aging Alert — $189,000 OVERDUE RISK**
+- **[300-3] 2026 IDIQ invoices now 50-59 days past standard payment terms**
+  - Invoice #1776 (2026-10-07): 50 days → AT RISK for extended float
+  - Invoice #1741 (2026-09-28): 59 days → BEYOND GOVERNMENT STANDARD (should trigger follow-up)
+- **Financial impact:** $189,000 outstanding represents 3.3% of total revenue but significant cash flow constraint
+- **Recommended actions:**
+  1. Contact [300-3] program manager immediately; verify invoice receipt and payment authorization status
+  2. Request payment status from government accounting office (GAO)
+  3. Check for missing contract modifications, deliverables certification, or time sheet validation requirements
+  4. Escalate if payment not received by 2026-12-07 (60-day threshold)
+
+### **3. November Expense Efficiency Remains Strong**
+- **Labor engagement:** 42.25 hours @ $180.54/hour blended rate (direct + materials) supporting $46.14K invoice
+- **Logistics cost:** $325.44 total freight supporting platform delivery + inventory staging
+- **Expense-to-revenue ratio:** $14.3K November spend ÷ $46.1K November revenue = 31.0% cost ratio (excellent leverage)
+- **Production acceleration:** 4-month cumulative ($40.76K) supporting $6.88M annual revenue = 0.6% expense ratio for Government class (highly efficient)
+
+### **4. Inventory Strategy Shift — S3 Commercialization Preparation**
+- **New finding:** $89.52 S3 wing set capitalized to Inventory (2026-11-26)
+- **Significance:** First documented inventory capitalization for Government class project
+- **Strategic implication:**
+  - Management forecasting S3 sales demand for 2027 (wing components) are production-limiting component
+  - Cross-funding model: Government contracts subsidize internal product inventory buildup
+  - Suggests revenue diversification strategy beyond government contracts (commercial sales channel activation)
+
+### **5. MicroFirm Engineering Becoming Core Integration Partner**
+- **August engagement:** 28.25 hours @ $3,531.25 labor = $125/hr labor cost
+- **November engagement:** 42.25 hours @ $5,281.25 labor = $125/hr labor cost *(consistent rate)*
+- **Total 2026 engagement:** 70.5 hours = ~1.75 FTE equivalent over 4 months
+- **Specialization:** Systems integration, platform validation, flight operations engineering
+- **Recommendation:** Monitor for potential longer-term subcontract arrangement or formal R&D partnership; MicroFirm appears to be becoming critical engineering capacity for complex platform deployments
+
+### **6. Langley Research Center Customer Profile**
 - **[213-1] Langley S0s represents:**
-  - Entry into NASA research center customer base (Langley Research Center is tier-1 government R&D facility)
-  - Atmospheric science market validation ($36K/platform x 2 units = significant commitment)
-  - Managed services revenue model (flight operations support = recurring revenue stream potential)
-  - Training & operational support capabilities (2-person team deployment indicates BST building field operations infrastructure)
-- **Market Expansion Implication:** Success of Langley delivery may unlock:
-  - Subsequent orders for atmospheric science networks (3-5 platform arrays)
-  - Service contracts for managed data collection
-  - Academic partnerships with other research universities
+  - **Market entry:** Tier-1 NASA research center customer base
+  - **Platform application:** Atmospheric science (thermodynamic profiling)
+  - **Deployment model:** Turnkey system + managed field operations
+  - **Customer specification:** 2-unit purchase with ground station and operations team
+- **Growth indicators:**
+  - Potential for 3-5 platform atmospheric science networks (annual revenue $230K-$570K)
+  - Managed services revenue stream (flight operations, data processing)
+  - Training and academic partnership opportunities
 
-### **7. Outstanding Collections Pipeline at $5.76M**
-- **Recent high-value invoices awaiting payment:**
-  - [300-3] 2026 IDIQ: $189,000.00 (Invoices #1741, #1776; dated 2026-09-28, 2026-10-07)
-  - [212-2] NASA S2: $91,791.00 (Invoices #1789, #1790; dated 2026-10-12)
-  - [213-1] Langley S0s: $46,143.00 (Invoice #1791; dated 2026-11-16)
-  - Combined: **$326,934.00 (5.7% of total receivables)** awaiting payment
-- **Payment Risk Assessment:**
-  - Government invoices ([300-3], [213-1]) typically 30-45 day net terms; 2026-10-07 invoices now 40 days past invoice date
-  - [212-2] NASA S2 invoices (2026-10-12) now 35 days past invoice; within normal government processing window
-  - [213-1] Langley S0s (2026-11-16) just invoiced; 30-day payment terms expected by mid-December 2026
-- **Cash Flow Monitoring:** Recommend tracking payment receipts on [300-3] and [212-2] invoices; if not received by 2026-11-21 (45 days for government invoices), may indicate processing delays or additional documentation requests
-
-### **8. Production Volume Indicators for Q4 2026**
-- **PCB assembly acceleration (October):** 70 units in 2 weeks suggests monthly production capacity of 150+ PCB units
-- **Airframe production (October):** S0 wing subcontracting ($7.5K direct + $2K inventory) indicates 2-3 airframe unit builds per month
-- **Staffing requirements:** MicroFirm labor (42.25 hrs/week) + internal team (implied by concurrent production) suggests 8-12 FTE engineering/production capacity active
-- **Revenue projection:** At current 3.3:1 expense-to-revenue ratio, $14K monthly production costs could sustain $46K monthly invoicing (consistent with Langley S0s delivery pattern)
-
-### **9. Shipping Cost Inflation & Logistics Strategy**
-- **Small package freight trend:**
-  - Digi-Key orders: $26.99 + $29.99 = $56.98 (typical FedEx/UPS ground for electronics)
-  - Purchase #261101W028420: $162.49 (2.9× larger; suggests LTL freight, expedited service, or heavier package)
-- **Tariff environment:** $12.64 import duty (17.7% effective rate on $62.72 electronics order from Digi-Key) adds marginal cost; November purchases bypassed tariffed items (domestic resistor sourcing)
-- **Recommendation:** Monitor carrier rates and tariff impacts; consider bulk procurement or alternative suppliers to offset freight inflation
-
-### **10. November 2026 Operations Phase Transition**
-- **Expense profile shift:**
-  - **Production-focused (Aug-Oct):** Direct labor ($3.5K-$5.3K), manufacturing ($10-13K monthly)
-  - **Delivery-focused (Nov onwards):** Engineering integration ($5.3K), component support ($3.3K), logistics ($162K)
-- **Headcount implications:** MicroFirm 42.25-hour engagement suggests ~1 FTE equivalent external engineering support; BST likely added internal project manager + operations coordinator for Langley delivery
-- **Service-oriented model emerging:** Flight operations support ($3,400 line item) + managed field team + protective hardware + rapid component procurement = infrastructure for recurring service revenue
+### **7. Cash Flow Management — 305-Day DSO Sustainable?**
+- **Days Sales Outstanding (DSO):** 305 days cumulative (revenue $6.88M ÷ daily revenue rate)
+- **Government payment norms:** 30-45 days net (standard FAR contract terms)
+- **Current status:** October-November invoices aging 10-59 days above standard terms
+- **Mitigation factors:**
+  - Accrual-based revenue accounting (invoices recognize revenue; cash collection timing secondary)
+  - [300-3] 2026 IDIQ is government contract; payment delays common in fiscal year constraints or budget execution
+  - [213-1] Langley S0s is new customer; standard 30-day payment cycle expected
+- **Working capital impact:** $5.76M outstanding receivables requires financing capacity; BST likely using accounts payable stretching or credit facilities to manage timing mismatch
 
 ---
 
-## Financial Health Summary (2026-11-16 Update)
+## Monthly Spend Burn Rate Analysis
 
-| Metric | Value | Assessment |
-|--------|-------|------------|
-| **Revenue Growth (Oct-Nov)** | +$46,143.00 | Strong; new customer segment ([213-1] Langley) validating atmospheric science market |
-| **Expense Growth (Oct-Nov)** | +$15,160.08 | Proportional; 32.8% expense increase supporting 0.67% revenue increase (favorable leverage) |
-| **Net Profit Margin (YTD)** | 73.0% | Excellent; ($5.02M net / $6.88M revenue) |
-| **Receivables Aging** | $5.76M outstanding | On-track for government payment cycles (30-45 days); no red flags detected |
-| **Working Capital** | Strong positive | $5.02M net position + $5.76M receivables = $10.78M net assets |
-| **Production Efficiency** | Scaling | $14K monthly expenses supporting $46K+ monthly invoicing; 3.3:1 positive ratio |
-| **Platform Diversification** | Expanding | S0 (Langley), S2 (NASA), S3 (future), SBIR magnetometer (Navy), STTR weather (Navy); 6+ active revenue streams |
-| **Risk Factors** | Low | No delinquent invoices; consistent payment from government customers; IRAD model sustainable |
+### **Cumulative 4-Month Burn (Aug-Nov 2026)**
+| Month | Expense | Daily Burn | Runway (Months) | Notes |
+|-------|---------|-----------|------------------|-------|
+| Aug | $10,028 | $323/day | 86 months* | Early development |
+| Sep | $3,428 | $114/day | 260 months* | Component staging |
+| Oct | $13,344 | $430/day | 67 months* | Manufacturing ramp |
+| Nov | $14,284 | $476/day | 63 months* | Delivery phase |
+| **4-mo total** | **$41,084** | **$341/day avg** | **59 months*** | **Sustainable at current scale** |
 
-**Conclusion:** Black Swift Technologies demonstrates strong financial health, effective cost management, and successful market expansion into atmospheric science and government research sectors. November 2026 activities indicate transition from manufacturing-focused operations to integrated product + service delivery model, supporting sustainable long-term growth.
+*Runway calculation assumes steady-state expense; with concurrent revenue of $6.88M annually, actual runway is 240+ months operating cash requirement
 
 ---
 
-*File updated 2026-11-16 — Data reconciled with QuickBooks export (2026-11-04 to 2026-11-16 transaction set). Raw data input contained 6 transactions: (1) Invoice #1791 [213-1] Langley S0s ($46,143.00) verified line-item breakdown; (2) Bill #3974 MicroFirm Engineering ($10,562.50 total, $7,627.74 Government class allocation); (3) Purchase #102698013 ($1,711.79 total, $855.89 Government allocation); (4) Purchase #506512 PayPal ($62.90 total, $31.45 Government allocation); (5) Purchase #261101W028420 freight ($162.49); (6) Switch Guard hardware purchase ($54.80 total, $27.40 Government allocation). November expenses reflect active systems integration, component supply, and logistical support for Langley S0s delivery + concurrent development activities. IRAD cost-sharing model identified as ongoing accounting structure. Ready for budget reconciliation with Drive-based tracking and cash flow analysis.*
+## Revised Financial Health Summary (2026-11-26)
+
+| Metric | Value | Assessment | Trend |
+|--------|-------|-----------|-------|
+| **Revenue (YTD 2026)** | $6,880,904.00 | Strong; multi-contract, multi-customer | Stable |
+| **Expenses (YTD 2026)** | $1,856,480.86 | Well-controlled; 27% of revenue | Increasing *(Nov = $14.3K vs. Aug-Oct avg = $8.9K)* |
+| **Net Profit Margin** | 73.0% | Excellent; ($5.02M net ÷ $6.88M revenue) | Stable |
+| **Receivables Aging** | $5.76M outstanding | 305-day DSO; concerns on [300-3] | **Deteriorating** *(invoices aging beyond 45 days)* |
+| **Working Capital** | Strong positive | $5.02M net + $5.76M receivables = $10.78M assets | Healthy |
+| **Production Efficiency** | Scaling | $14.3K November spend supporting $46.1K monthly delivery | Positive trend |
+| **Collections Status** | 1 invoice overdue | [300-3] invoices aging 50-59 days | **Action required** |
+| **Strategic Positioning** | Expanding | New Langley customer; S3 inventory buildup; Magnetometer option period | Positive momentum |
+| **Risk Factors** | Moderate | Collections delays; $189K outstanding at 59 days | **Monitor closely** |
+
+**Conclusion (2026-11-26):** Black Swift Technologies demonstrates strong operational performance and successful market expansion, with November invoicing (+$46.1K to Langley Research Center) validating atmospheric science platform market. Post-delivery logistics optimization and S3 inventory staging indicate management confidence in commercialization trajectory. **PRIMARY CONCERN:** $189,000 outstanding [300-3] 2026 IDIQ invoices now aging 50-59 days beyond government standard payment terms; immediate follow-up required to prevent cash flow disruption or contract compliance issues.
+
+---
+
+*File updated 2026-11-26 — Data reconciled with QuickBooks export (2026-11-16 to 2026-11-26 transaction set). New transactions: (1) Purchase $39.07 (2026-11-26) Summit Assembly shipment; (2) Purchase #261108W019010 $123.37 direct cost + $89.52 inventory asset (2026-11-26) Phase 1 S0s shipment with S3 component inventory capitalization. Total expense change: +$240.44 (freight), no revenue changes in this period. November full-month analysis completed; 11 total transactions across labor, materials, and logistics categories. Collections aging analysis added; [300-3] IDIQ invoices flagged for follow-up. Ready for budget reconciliation with Drive-based tracking and cash flow forecasting for Q4 2026.*

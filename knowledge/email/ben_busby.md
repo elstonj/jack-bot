@@ -2,8 +2,8 @@
 
 Only 5 emails found in scanned period.
 
-- Mon, 16 Nov 2026 07:03:14 +0000: Your Weekly WPForms Summary for bst.aero (from: Black Swift Technologies <ben.busby@blackswifttech.com>)
-- Mon, 16 Nov 2026 03:24:56 +0000 (UTC): Automatic Payment Reminder (from: "'Starlink' via Administration" <admin@blackswifttech.com>)
-- Sun, 15 Nov 2026 18:21:04 +0000: Jack sent you a message (from: Slack <notification@slack.com>)
-- Sun, 15 Nov 2026 18:00:32 +0000 (UTC): (no subject) (from: "Toggl 2.0" <support@toggl.com>)
-- Sun, 15 Nov 2026 17:52:20 +0000: Jack mentioned you in #swiftcore (from: Slack <notification@slack.com>)
+- Tue, 17 Nov 2026 05:39:10 +0000: HeyTaco mentioned you in #HeyTaco (from: Slack <notification@slack.com>)
+- Mon, 16 Nov 2026 22:03:32 +0000: Ring in busy season with a 10-yr price lock (from: Verizon Business <email@businessmail.verizon.com>)
+- Mon, 16 Nov 2026 22:00:15 +0000: Canceled event: [HOLD] BST/R4 CMMC Kick Off @ Tue Nov 17, 2026 1pm - 2pm (MST) (ben.busby@blackswifttech.com) (from: Dan Mackin <dan@rule4.com>)
+- Mon, 16 Nov 2026 17:55:52 +0000: Lockheed Martin Topics of Interest - SBIR 2027.R2 (from: "'FC-Lmc, SBIR' via Administration" <admin@blackswifttech.com>)
+- Mon, 16 Nov 2026 14:45:37 +0000: Lead Engineer at Sandia National Labs (from: wes via Administration <admin@blackswifttech.com>)

@@ -27,38 +27,51 @@
   "budget": {
     "approved": 483000.0,
     "approved_source": "asana_custom_field",
-    "line_items": [],
+    "line_items": [
+      {
+        "category": "Equipment",
+        "amount": 108000.0,
+        "description": "Six (6) baseline S0 UAS platforms at $18,000 each",
+        "source_doc": null
+      },
+      {
+        "category": "Other",
+        "amount": 30000.0,
+        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation effort for satellite communication/land-based C2 and video capability",
+        "source_doc": null
+      }
+    ],
     "spent": {
       "labor": {
-        "amount": 325715.0,
+        "amount": 326340.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
       "other_qbo": {
-        "amount": 477326.11,
+        "amount": 472366.21,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-16"
+        "last_updated": "2026-11-17"
       },
-      "total": 805209.63,
+      "total": 800874.73,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -322209.63,
+    "remaining": -317874.73,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-16T10:24:08Z"
+    "last_reconciled": "2026-11-17T10:44:09Z"
   },
   "milestones": [
     {
-      "name": "Deliver 13 S0's",
-      "asana_task_gid": "1220073363956082",
+      "name": "Web Controller Complete for NOAA",
+      "asana_task_gid": "1220073363956084",
       "due_on": "2026-11-20",
       "original_due": null,
       "status": "open",
@@ -66,9 +79,9 @@
       "evidence": []
     },
     {
-      "name": "Web Controller Complete for NOAA",
-      "asana_task_gid": "1220073363956084",
-      "due_on": "2026-11-20",
+      "name": "Ship 13 S0's",
+      "asana_task_gid": "1220073363956082",
+      "due_on": "2026-11-30",
       "original_due": null,
       "status": "open",
       "invoice_trigger": null,
@@ -122,6 +135,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-16T10:24:08Z",
+  "last_full_rebuild": "2026-11-17T10:44:09Z",
   "last_incremental_update": null
 }
