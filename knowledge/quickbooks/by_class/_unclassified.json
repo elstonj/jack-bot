@@ -76,12 +76,12 @@
     "[925-05] Indirect Production and Supply Chain Labor"
   ],
   "period": {
-    "start": "2024-11-17",
-    "end": "2026-11-17"
+    "start": "2024-11-18",
+    "end": "2026-11-18"
   },
   "totals": {
     "revenue": 3707388.11,
-    "expenses": 4889484.6,
+    "expenses": 4894720.39,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
@@ -97,16 +97,16 @@
       "FRINGE:FR-Employee Healthcare": 83636.55,
       "Prepaid Expenses": 77519.48,
       "Spark One Jack #3168": 70684.0,
-      "FACILITIES:FA-Shop Supplies": 49812.12,
-      "Indirect Cost:Software Expenses": 49750.71,
+      "FACILITIES:FA-Shop Supplies": 52228.1,
+      "Indirect Cost:Software Expenses": 49744.71,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "DIRECT COSTS:DC-Direct Material Purchases": 46878.38,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "FACILITIES:FA-Office Supplies": 41921.75,
-      "FACILITIES:FA-Software Expenses": 37765.39,
+      "FACILITIES:FA-Software Expenses": 40212.6,
       "Fixed Assets:Equipment": 36584.68,
       "Accounts Payable (A/P)": 24360.18,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 21796.72,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 21824.72,
       "The Soil Moisture Company": 21450.0,
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18117.81,
@@ -120,7 +120,7 @@
       "OVERHEAD:OH-Airfare": 11565.04,
       "SALES & MARKETING:SM-Conferences/Seminars": 10643.6,
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 10573.14,
-      "SALES & MARKETING:SM-Travel": 10102.11,
+      "SALES & MARKETING:SM-Travel": 10401.02,
       "Indirect Cost:Supplies:Shop SuppliesX": 9969.65,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:License, Permit, Misc Tax Exp": 9808.28,
@@ -132,8 +132,8 @@
       "FACILITIES:FA-Facility Repairs & Maintenance": 9035.41,
       "SALES & MARKETING:SM-Shipping": 8286.55,
       "SALES & MARKETING": 6404.56,
-      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6294.24,
       "Indirect Cost:TaxesX": 6218.2,
+      "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6135.24,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5703.12,
       "SALES & MARKETING:Promotion Expenses": 4885.59,
       "Indirect Cost:Supplies:Office SuppliesX": 4561.26,
@@ -154,8 +154,8 @@
       "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1207.34,
       "Other Receivables": 1020.0,
       "SALES & MARKETING:SM-Labor": 962.74,
+      "SALES & MARKETING:SM-Travel Meals": 942.79,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 935.23,
-      "SALES & MARKETING:SM-Travel Meals": 732.1,
       "Indirect Cost:Professional Fees (do not use)": 576.65,
       "Maciej Stachura WF Card 3168": 505.9,
       "GENERAL & ADMINISTRATIVE:GA-License, Permit, Misc Tax Exp": 480.0,
@@ -1874,6 +1874,42 @@
           "amount": 6873.37,
           "account": "Fixed Assets:Equipment",
           "description": "Quantity 6 of 249417BL Global Industrial\u2122 Mobile Workbench, 72 x 36\", Power Outlets, Laminate Safety Edge, Blue"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-13",
+      "doc_number": "103033180",
+      "total": 336.16,
+      "attributed": 336.16,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 336.16,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Freight Charges"
+        }
+      ]
+    },
+    {
+      "type": "Bill",
+      "date": "2026-10-12",
+      "doc_number": "103033181",
+      "total": 2296.43,
+      "attributed": 2296.43,
+      "vendor": "Aeronet Worldwide",
+      "customer": "",
+      "balance": 0.0,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 2296.43,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "LTL Service"
         }
       ]
     },
@@ -4517,6 +4553,245 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 2436.0,
+      "attributed": 2436.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Purchase made directly by J. Elston (see attached email)\n\nSubscription: A-S00178495",
+      "lines": [
+        {
+          "amount": 2436.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "SaaS - Premium - 1 Year (7 users)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 126.75,
+      "attributed": 81.81,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 44.94,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 81.81,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-14",
+      "doc_number": "",
+      "total": 151.29,
+      "attributed": 151.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DOUBLETREE - 4617",
+      "lines": [
+        {
+          "amount": 151.29,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-14",
+      "doc_number": "",
+      "total": 11.21,
+      "attributed": 11.21,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MSFT * E03010YY3W - 4617",
+      "lines": [
+        {
+          "amount": 11.21,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "MSFT * E03010YY3W - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-14",
+      "doc_number": "",
+      "total": 8.17,
+      "attributed": 8.17,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARBUCKS C SOUTH IAH - 4617",
+      "lines": [
+        {
+          "amount": 8.17,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 21.51,
+      "attributed": 21.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ADVENTURES PUB AND SPI - 4617",
+      "lines": [
+        {
+          "amount": 21.51,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 152.3,
+      "attributed": 152.3,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ADVENTURES PUB AND SPI - 4617",
+      "lines": [
+        {
+          "amount": 152.3,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 28.0,
+      "attributed": 28.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DRIFTAWAY.COFFEE - 4617",
+      "lines": [
+        {
+          "amount": 28.0,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "DRIFTAWAY.COFFEE - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 6.42,
+      "attributed": 6.42,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "LOVE'S #0402 OUTSIDE - 4617",
+      "lines": [
+        {
+          "amount": 6.42,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 19.41,
+      "attributed": 19.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "TST* NEWK'S EATERY - 1026 - 4617",
+      "lines": [
+        {
+          "amount": 19.41,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 64.45,
+      "attributed": 64.45,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MARY MAHONEY'S RESTAURANT - 4617",
+      "lines": [
+        {
+          "amount": 64.45,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 9.3,
+      "attributed": 9.3,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARBUCKS 81390 IAH B20 - 4617",
+      "lines": [
+        {
+          "amount": 9.3,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 8.0,
+      "attributed": 8.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "UA INFLTXXXXXXXXXXXXXX - 4617",
+      "lines": [
+        {
+          "amount": 8.0,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston trip to Mississippi"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-13",
       "doc_number": "1858-331",
       "total": 1833.91,
@@ -4629,6 +4904,24 @@
           "amount": 104.66,
           "account": "Inventory Asset",
           "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-12",
+      "doc_number": "",
+      "total": 68.75,
+      "attributed": 68.75,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "HERTZ CAR* PREPAID - 4617",
+      "lines": [
+        {
+          "amount": 68.75,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston to Mississippi for Air Force demo"
         }
       ]
     },
@@ -6578,52 +6871,6 @@
           "amount": 15.98,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "MAXECHO 40 Pcs 3\" x 3\" Reusable Magnetic Sticky Notes"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-11-02",
-      "doc_number": "",
-      "total": 113.47,
-      "attributed": 113.47,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 9.49,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "3 Pack 9/32\"(7mm) Hex Shank Hammer Drill Masonry Drill Bits, 4.3\" length"
-        },
-        {
-          "amount": 13.99,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "3 Pack 3/8\"(10mm) Hex Shank Hammer Drill Masonry Drill Bits"
-        },
-        {
-          "amount": 89.99,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "monTEK Swivel Bike Wall Mount"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-11-02",
-      "doc_number": "",
-      "total": 184.95,
-      "attributed": 184.95,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "J. Elston requested we return previous tape purchased and switch out with \"eco friendly\" tape",
-      "lines": [
-        {
-          "amount": 184.95,
-          "account": "FACILITIES:FA-Shop Supplies",
-          "description": "Fiber Reinforced Packing Tape"
         }
       ]
     },
@@ -57368,42 +57615,6 @@
           "amount": 240.92,
           "account": "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.",
           "description": "Payment for repair of laptop (motherboard)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-17",
-      "doc_number": "",
-      "total": 6.0,
-      "attributed": 6.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "IRCCLOUD SOLO MONTHLY    LONDON       LN",
-      "lines": [
-        {
-          "amount": 6.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "IRCCLOUD SOLO MONTHLY    LONDON       LN"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-17",
-      "doc_number": "",
-      "total": 159.0,
-      "attributed": 159.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 159.0,
-          "account": "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint",
-          "description": "bi-weekly office cleaning"
         }
       ]
     }

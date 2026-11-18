@@ -1,84 +1,124 @@
 # Lynn Regnier — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 38 (Nov 15–17, 2026)
-- **Date range:** 3 days
+- **Total messages scanned:** 63 (Nov 15–18, 2026)
+- **Date range:** 4 days
 - **Volume:** Heavy activity — approximately 12–15 emails per day during this period
+- **New data (Nov 18):** 25 messages added; Nov 18 shows continued high volume (morning spike)
 
 ## Key Correspondents
 
 ### Top Senders
-1. **Jack Elston** (elstonj@blackswifttech.com) — 6 emails (all unread, Nov 17)
-2. **Dani Scheck** (dani.scheck@ramp.com) — 6 emails (marked IMPORTANT)
-3. **Amit Sinha** (asinha@accordion.com) — 2 emails (marked IMPORTANT)
-4. **Sona Raziabeegum** (sona@krateosky.com) — 2 emails
+1. **Jack Elston** (elstonj@blackswifttech.com) — 7 emails (6 unread Nov 17 early morning; 1 Google Sheets share Nov 17 evening)
+2. **Dani Scheck** (dani.scheck@ramp.com) — 7 emails (marked IMPORTANT)
+3. **Amit Sinha** (asinha@accordion.com) — 3 emails (marked IMPORTANT)
+4. **McMaster-Carr** (chi.sales@mcmaster.com, invoice.reply@mcmaster.com) — 4 emails (via Purchasing alias)
+5. **Protolabs** — 2 emails (via Purchasing; invoice & shipping confirmation)
+6. **Meredith Needham** (meredith.needham@blackswifttech.com) — 2 emails (1 Google Sheets share marked IMPORTANT; 1 forwarded Aeronet invoice)
+7. **Sona Raziabeegum** (sona@krateosky.com) — 2 emails (from earlier data)
 
 ### Top Recipients (Outbound)
-1. **Dani Scheck** (Ramp) — 3 direct replies
-2. **Amit Sinha** (Accordion) — 1 direct reply
-3. Group threads with Jack Elston, Cory Dixon, Maciej Stachura, Daniel Prendergast
+1. **Amit Sinha** (Accordion) — 2 direct replies
+2. **Dani Scheck** (Ramp) — Ongoing thread
+3. **Hadar Hirshman Niv** (York Space Systems) — 1 conference forwarding (Nov 17, 8:48am MST)
+4. **Jack Elston** (via shared sheets) — Collaborating on Toggl IP Attribution tracking
 
 ### Internal vs External
 - **Internal BST colleagues:** Jack Elston, Cory Dixon, Maciej Stachura, Daniel Prendergast, Beck Cotter, Meredith Needham
-- **External partners:** Dani Scheck/Ramp, Amit Sinha/Accordion, Sona Raziabeegum/Krateo Sky
-- **Vendors/Automated:** Mouser, McMaster-Carr, Spindrift, Global Industrial, SendCutSend, Grainger, Kipps Hobbies, Samsung, SAP, Protocase, USPS, Fireflies.ai
+- **External partners:** Dani Scheck/Ramp, Amit Sinha/Accordion, Sona Raziabeegum/Krateo Sky, Hadar Hirshman Niv/York Space Systems
+- **Vendors/Procurement:** McMaster-Carr, Protolabs, Dronetag s.r.o., Pirate Ship, ProtoSpace Mfg, JawsTec, Hobbyking (hobby/personal purchases via purchasing alias), Ramp (financial platform)
+- **Automated/Alerts:** Principal Financial Group (dental), Google Sheets, Gemini Notes, USPS, UPS Supply Chain Solutions, Ramp signature automation
 
 ## Topic Patterns
 
-### Financial & Operations
-- **Ramp integration** — Multiple urgent threads with Dani Scheck about "Black Swift Technologies Next Steps" (Nov 16, 4 emails in rapid succession)
-- **Controller handoff & Phase II engagement** — Coordination with Amit Sinha (Accordion)
-- **Cashflow forecasting** — Meeting invitation accepted (Nov 17, 10:30–11:30am MST)
+### Financial & Operations (Expanded)
+- **Ramp integration (escalating)** — Now includes signature request on order form (Nov 17, 10:47pm UTC); indicates contract execution phase
+- **Controller handoff & Phase II engagement** — Amit Sinha reply (Nov 17, 20:00 UTC); Lynn's outbound response at 13:23 MST suggests coordination across timezones
+- **Cashflow Forecasting** — Meeting notes generated (Nov 17, 19:59 UTC); meeting occurred as scheduled on Nov 17 10:30–11:30am MST
 
-### Strategic Planning
-- **Industrial Plan execution** — Jack Elston thread to external Krateo Sky team
-- **Hiring plan response** — Jack Elston meeting invitation (Nov 17, 12:00–12:30pm MST)
-- **Low Cost ISR (Intelligence, Surveillance, Reconnaissance) Decision Making** — Jack Elston discussion (Nov 17, 11:30am–12:00pm MST)
-- **LC-ISR Discussion** — Follow-up meeting
+### Strategic Planning & Tracking
+- **Industrial Plan execution** — Ongoing (reference from previous data)
+- **Hiring plan discussion** — Meeting notes generated (Nov 17, 19:30 UTC); meeting occurred as scheduled on Nov 17 12:00–12:30pm MST
+- **Toggl IP Attribution tracking** — Jack Elston shared spreadsheet (Nov 17, 10:55pm UTC); IP/attribution data collection suggests resource tracking or time-to-value analysis
+- **[300-3] 2026 IDIQ CLIN Tracking** — Meredith Needham shared spreadsheet marked IMPORTANT (Nov 17, 19:59 UTC); CLIN = Contract Line Item Number; indicates federal contracting/IDIQ (Indefinite Delivery Indefinite Quantity) work
+- **Low Cost ISR (Intelligence, Surveillance, Reconnaissance) Decision Making** — Ongoing from previous period
 
-### Business Development
-- **BST // Accordion partnership** — Meeting summary from Krateo Sky; involves Meredith Needham, Nicholas Rodgers, Nicholas Grande
-- Fireflies.ai recording notification for BST // Accordion meeting
+### Business Development & Partnerships
+- **BST // Accordion partnership** — Controller handoff phase active
+- **York Space Systems engagement** — Lynn forwarded Denver Perspectives Conference 2026 invitation to Hadar Hirshman Niv (Nov 17, 8:48am MST); suggests potential business development or partnership outreach
+- **Krateo Sky integration** — Ongoing multi-party partnership coordination (previous data)
 
-### Procurement (routed through Purchasing alias)
-- Multiple vendor order confirmations/shipments: Mouser, McMaster-Carr, SendCutSend, Spindrift Market
-- Marketing/newsletters: Global Industrial, Grainger, Samsung, SAP, Protocase
-- Personal: Kipps Hobbies order
+### Procurement & Operations (Detailed Activity)
+- **Electronics/Manufacturing components:**
+  - McMaster-Carr: 4 orders placed (Nov 16–17); rapid order-to-confirmation cycle (hours)
+  - Protolabs: 2 shipments/invoices (CNC/precision manufacturing)
+  - Dronetag s.r.o.: Order #6402, payment accepted (Nov 17)
+  - ProtoSpace Mfg: Promotional webinar invite (CNC machining)
+  - JawsTec: Black Friday 3D printing discount (Nov 17)
+
+- **Shipping/Logistics:**
+  - Pirate Ship: Small payment ($13.43) processed (Nov 17)
+  - UPS Supply Chain Solutions: Promotional offer on air freight (Nov 17)
+  - USPS Informed Delivery: Daily digest (Nov 17)
+
+- **Personal/Hobby purchases** (routed through Purchasing):
+  - Hobbyking: PBY Catalina model aircraft announcement (Nov 17)
+
+- **Vendor communications:**
+  - Jakub Vasa (Purchasing team member) handling Dronetag order coordination (Nov 18, 09:01 UTC)
+  - Maciej Stachura (BST internal) coordinating Protolabs invoicing (Nov 18, 07:17 UTC)
+
+### HR/Benefits
+- **Principal Financial Group:** Dental claim decision notification (Nov 17, 18:07 EST)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Heavy activity Monday, Nov 16** — Afternoon/evening spike (10:30am–8pm across timezones)
-- **Tuesday, Nov 17 early morning** — Jack Elston flurry (12:35am–8:14am, all marked UNREAD)
-- **Multiple meetings scheduled for Nov 17** — Back-to-back strategic discussions (10:30am–12:30pm MST)
+- **Heavy Monday-Tuesday activity (Nov 16–17)** — Strategic meetings clustered Nov 17 morning (10:29–13:23 MST window)
+- **Evening/night spikes (Nov 17 evening)** — External partner responses (Ramp signature request 10:47pm UTC, Accordion handoff email 20:00 UTC) suggesting urgent/deadline-driven work
+- **Early morning Nov 17** — Jack Elston's 6-email flurry (12:35–8:14am, now joined by evening Sheets share at 10:55pm)
+- **Continued Nov 18 activity** — Procurement confirmations and internal routing continuing through morning
 
 ### Mailing Lists & Group Communication
-- Receives vendor emails via **Purchasing@blackswifttech.com** alias (not directly to personal email)
-- Included in Krateo Sky group threads with Sona Raziabeegum, Brian Grubel, Bob Smith, Dipan Amin, Ariel Avitan
+- **Purchasing@blackswifttech.com alias** — Primary routing for vendor confirmations, procurement workflows
+- Specific Purchasing team members routing orders: Alex Lomis, Maciej Stachura, Josh Fromm
+- **Google Sheets collaboration** — Real-time shared document updates (Toggl IP Attribution, IDIQ CLIN Tracking) with Jack Elston, Meredith Needham
 
 ### Automated/Newsletter Emails
-- Ramp welcome & application confirmations
-- USPS Informed Delivery daily digest
-- Vendor promotional emails (Samsung, SAP, Protocase)
-- Order tracking notifications
+- Principal Financial Group alerts (benefits/HR)
+- Vendor shipping/order confirmations (McMaster-Carr, Protolabs, Dronetag, Pirate Ship)
+- Promotional emails (ProtoSpace, JawsTec, Hobbyking, UPS)
+- Google Gemini note summaries from meetings (Cashflow Forecasting, Hiring plan response)
+- USPS/UPS logistics notifications
+- Ramp contract/signature automation
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-- **Jack Elston** — Driving strategic initiatives (Industrial Plan, hiring, ISR decisions); appears to be a senior stakeholder or decision-maker
-- **Cory Dixon** (cory@krateosky.com) — Cross-company integration work; accepted Cashflow Forecasting meeting
-- **Maciej Stachura** & **Daniel Prendergast** — Recurring attendees on strategic discussions
+- **Jack Elston** — Driving strategic initiatives and decision cycles; now also coordinating time-tracking/IP attribution data (Toggl sheet); appears to be direct manager or executive
+- **Meredith Needham** — Increasing involvement; managing federal contract tracking (IDIQ CLIN); co-owns strategic planning
+- **Maciej Stachura** — Procurement/operations coordination; handling Protolabs vendor management
+- **Cory Dixon** (Krateo Sky) — Cross-company integration work
 
 ### Critical External Relationships
-- **Dani Scheck (Ramp)** — IMPORTANT flagged; urgent financial/payments integration dialogue (3 rapid exchanges Nov 16 morning)
-- **Amit Sinha (Accordion)** — IMPORTANT; phase II engagement and controller handoff coordination
-- **Sona Raziabeegum (Krateo Sky)** — Weekly integration reviews; appears to be liaison for multi-party partnerships (Accordion, Krateo Sky, BST triangle)
+- **Dani Scheck (Ramp)** — IMPORTANT flagged; now in contract execution phase (signature stage); urgent financial integration with hard deadline
+- **Amit Sinha (Accordion)** — IMPORTANT; active controller handoff coordination; phase II engagement progressing
+- **Hadar Hirshman Niv (York Space Systems)** — New/emerging relationship; Lynn personally forwarding conference invitation suggests business development or partnership discussion
 
 ## Notable Observations
 
-1. **Financial tool integration underway** — Ramp application submitted and approved within hours; rapid back-and-forth suggests time-sensitive implementation
-2. **Accordion partnership active** — Meeting recorded via Fireflies.ai; involves finance/controller functions; suggests acquisition or deep strategic integration
-3. **Strategic flurry on Nov 17** — Jack Elston's 6 emails all marked UNREAD and cover three distinct topics (Industrial Plan, Hiring, ISR), all with same core team — suggests major decision cycle or roadmap review happening in real-time
-4. **Krateo Sky as intermediary** — Sona Raziabeegum operates at intersection of BST, Accordion, and Krateo Sky; may be consulting firm or integration partner managing multiple relationships
-5. **Lynn appears to have finance/operations leadership role** — Cashflow forecasting, controller handoff, vendor payment solutions (Ramp), budgeting are all in scope
-6. **Procurement activity moderate but specialized** — Electronics (Mouser, McMaster-Carr), manufacturing (SendCutSend, Protocase), supplies; suggests hardware/manufacturing operations or R&D environment
+1. **Ramp integration accelerating** — Moved from approval to contract signature request within 24 hours; indicates tight implementation timeline, possibly driven by cash-flow needs or working capital visibility requirement
+
+2. **Federal contracting activity visible** — "[300-3] 2026 IDIQ CLIN Tracking" spreadsheet marked IMPORTANT and shared by Meredith Needham; IDIQ structure suggests government contracts worth monitoring; BST may be prime or subcontractor on major awards
+
+3. **IP/Attribution tracking initiated** — Jack Elston sharing "Toggl_IP_Attribution" spreadsheet at 10:55pm UTC (unusual late-night timing); combined with "Low Cost ISR" discussions, suggests tracking resource allocation or cost attribution across projects
+
+4. **York Space Systems outreach** — Lynn forwarding conference invitation to external contact suggests business development activity or partnership exploration; timing coincides with strategic planning phase
+
+5. **Procurement showing sophisticated supply chain** — Dronetag (European drone/avionics), Protolabs (precision manufacturing), JawsTec (3D printing), McMaster-Carr (MRO) mix suggests hardware-heavy product development or manufacturing operations; also includes hobby/personal items (Hobbyking), indicating some purchasing flexibility
+
+6. **Operational scale increasing** — New vendors appearing (Dronetag), multiple simultaneous orders with same vendors, invoice/tracking coordination across team suggests ramping procurement velocity
+
+7. **Lynn's operational role solidifying** — Now owns Ramp implementation, Accordion controller handoff, cashflow forecasting, hiring coordination, federal contract tracking; pattern indicates Finance/Operations VP or CFO-track role
+
+8. **Timezone coordination** — Incoming messages from UTC+0 (Accordion), UTC-5 (Ramp/NYC), UTC-7 (MST), UTC+0 (Dronetag Czech); Lynn working across multiple timezones, suggesting global coordination responsibilities

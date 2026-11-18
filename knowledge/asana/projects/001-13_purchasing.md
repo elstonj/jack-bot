@@ -1,54 +1,92 @@
-_Asana snapshot as of 2026-11-17: 196 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-18: 198 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Purchasing
 
 ## Overview
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
-- **Status:** Active – high-volume purchasing operations
-- **Dollar value:** Not explicitly tracked in custom fields; individual orders span from ~$10 to $10,000+
-- **Timeline:** Ongoing operational purchasing; most near-term orders due Nov–Dec 2026
-- **Risk signals:** 
-  - **196 open tasks, 0 completed** – tasks accumulate and are not being closed out
-  - **Stale orders:** Many orders marked "Order Received" or "Order Placed in Inventory" with due dates from July–October 2026, suggesting task closure is not enforced
-  - **Multiple MULTIPLE PROJECT entries** – many orders lack proper project breakdowns, creating billing ambiguity
-  - **Unassigned tasks:** Most tasks are unassigned; only recent orders assigned to Meredith O'hara Needham
+- **Status:** ACTIVE — High-volume purchasing operation with 198 open tasks and 0 completed. This is a workflow/process project, not a revenue-generating project.
+- **Dollar value:** Not aggregated in custom fields; individual orders track to specific projects (see Key Deliverables section).
+- **Key pattern:** All task submission requires use of a specific Asana form or tasks auto-delete. This is an internal operations/procurement hub.
 
 ## Key Deliverables & Milestones
-Not applicable – this is a purchasing operations project, not a deliverable-driven project. Orders are generated ad-hoc by requesters across the organization.
+Not applicable — this is a purchasing workflow project. Orders are tracked by project and delivery date, not by BST-internal milestones.
+
+**Orders span across multiple internal projects:**
+- [001-7] IRAD S3 (heavy ordering activity)
+- [001-4] IRAD S0 VTOL
+- [001-3] IRAD S0
+- [300-3] 2026 IDIQ (Hurricane) — significant order volume
+- [001-23] SOCOM S0-AD
+- [600-01] SOCOM Pope ii
+- [451-1] INSTAAR S3 x2
+- [550-1] Navy SBIR: Magnetometer
+- [001-16] IRAD Swiftstation
+- [043-3] Mustang Pt. 2
+- [039-1] S2 Oklahoma
+- [212-2] NASA S2 & Parts
+- Shop Supplies (ongoing)
+- General Sales / Future Sales
 
 ## Task Summary
-- **Total tasks:** 196 open, 0 completed (all tasks remain open indefinitely)
-- **Assignees:**
-  - Meredith O'hara Needham: ~15 recent tasks (Nov 2026)
-  - Unassigned: ~180 older/stale tasks
-- **Order statuses (custom field):**
-  - Order Placed: ~20 tasks
-  - Order Shipped: ~6 tasks
-  - Order Received: ~40 tasks
-  - Order Placed in Inventory: ~100 tasks (oldest/stalest)
-- **Notable patterns:**
-  - Heavy use of vendors: McMaster Carr, Jawstec, Digikey, Amazon, Mouser, Protolabs, Sendcutsend
-  - S3 and S0 platform components dominate (motors, composites, RF parts, servos)
-  - Shop Supplies and Future Sales orders are recurring
-  - Many orders lack project assignment ("MULTIPLE PROJECT – PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION")
-  - **Tax Exempt status:** YES on ~60 orders (mostly sales/IRAD), NO on ~100 orders
+
+**Total tasks:** 198 open, 0 completed
+
+**Assignee breakdown:**
+- **Meredith O'hara Needham:** ~18 tasks (assigned; primary reviewer/processor)
+- **Unassigned:** ~180 tasks (awaiting Meredith's action or processing)
+
+**Task status distribution (by custom field):**
+- **Order Placed:** ~20 tasks
+- **Order Placed in Inventory:** ~90 tasks
+- **Order Shipped:** ~10 tasks
+- **Order Received:** ~30 tasks
+- **Status not set:** ~48 tasks
+
+**Completion rate:** 0% — no tasks have been marked complete. This suggests the project is a live queue/inbox rather than a tracking system where tasks are closed out after fulfillment.
 
 ## Recent Activity
-- **Latest orders (Nov 2026, assigned to Meredith):**
-  - mcmaster for various projects (Nov 16, 2026)
-  - S3 motor noise fix attempt (Nov 16, 2026)
-  - Dronetag DRI RID Module for [001-8] IRAD Flight Testing (Nov 13, 2026)
-  - Multiple composite, protolabs, and parts orders due Nov 11–15
-- **Completion rate:** 0% – no tasks are being closed, even those marked "Order Received" or "Order Shipped"
-- **Vendor activity:** Steady stream of orders to composites suppliers, electronics (Digikey/Mouser), 3D printing (Protolabs/Sendcutsend), and mechanical parts
+
+**Approaching/Recent deadlines (Nov 2026):**
+- Nov 17, 2026: New Electronics/QC/General Use Equipment (Jack Elston, Shop Supplies, requires approval)
+- Nov 15, 2026: Multiple S3 sales orders (protolabs, digikey, materials for QC kits)
+- Nov 13–14, 2026: Composite, jawstec, cst sales, mcmaster orders
+- Nov 12, 2026: FLIR camera, cst sales, mouser S0, amazon orders
+
+**Earlier overdue dates (Oct–Sept 2026):**
+- Oct 11, 2026: PSKN3-24/55S antenna (Dan P., [001-7] IRAD S3) — **overdue**
+- Sep 27, 2026: Components for Ground Antenna (Dan, [001-7] IRAD S3) — **overdue**
+- Multiple tasks with "Order Received" status and dates in Jul–Aug 2026, still open in Asana
+
+**Very old dates (May–Jun 2026 "when should order be placed?"):**
+- Many tasks with May/June proposed order dates but current status of "Order Placed in Inventory" or "Order Received," indicating they were processed months ago but not closed out.
+
+**Notable pattern:** Most orders are assigned to requesters like Joshua Fromm (S3 sales, general supplies), Jack Elston (shop), Ali Sulehria (QC), Spencer, Dan, Sam, and Alex. Meredith processes approvals but tasks remain perpetually open.
 
 ## Notes & Context
-- **System friction:** The project notes emphasize "USE THIS FORM PLEASE OR YOUR TASK WILL AUTO DELETE" – suggesting the task list is meant to feed an external form and auto-cleanup isn't working
-- **Task lifecycle broken:** Tasks are created when orders are requested, status updates as "Order Placed → Shipped → Received → Placed in Inventory," but tasks are never marked complete/closed. This creates a growing backlog of zombie tasks
-- **Billing ambiguity:** ~20 orders span "MULTIPLE PROJECT" with incomplete project breakdowns, making cost allocation unclear
-- **Approval tracking:** "Requires Approval?" field is set, but there's no task dependency or workflow to enforce approvals for high-value orders
-- **Requesters:** Joshua Fromm (majority of S3 sales/IRAD orders), Sam (S0/S3 fixes), Alex (Swiftstation/Magnetometer), Dan (SOCOM/FLIR), Ali Sulehria, Spencer, Ethan, others
-- **Future Sales prevalence:** Many S3 component orders routed to "Future Sales" project, suggesting ongoing product development or build-to-stock
 
-**Recommendation:** Implement task closure discipline. Consider archiving or bulk-closing "Order Placed in Inventory" tasks older than 60 days, or redesign the workflow to avoid task accumulation (e.g., auto-archive on status change, or use a separate purchase ledger instead of Asana tasks).
+1. **Process bottleneck:** No completed tasks despite 198 open entries suggests:
+   - Tasks are being used as a live queue/inbox, not a closed-loop workflow.
+   - Completed orders may be tracked elsewhere (accounting system, vendor confirmations) rather than in Asana.
+   - Meredith may need to close these out manually, or there's a system integration missing.
+
+2. **High volume of "Order Placed in Inventory" status:** ~90 tasks have this status with due dates in Dec 2026 or Jan 2027. These appear to be internally staged/budgeted purchases awaiting confirmation or execution.
+
+3. **Multi-project billing:** Many orders are for "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN IN THE DESCRIPTION" — common for commodity purchases (McMaster, digikey, jawstec). These require post-order accounting splits.
+
+4. **Tax-exempt tracking:** Custom field captures tax-exempt status (YES/NO), indicating careful tax and billing categorization per project.
+
+5. **Approval flag:** Most orders marked "Requires Approval?: No", but a few require approval (e.g., Dronetag DRI RID Module, New Electronics/QC Equipment, ADS-B). These are likely >$200 or special procurement.
+
+6. **Very old unresolved tasks:** E.g., "amazon for shipping supplies" (May 18, 2026 proposed order date, now Nov 2026, status "Order Received") — suggests data cleanup or archive opportunity.
+
+7. **Form submission requirement:** Project notes emphasize that all purchasing must use a specific Asana form or tasks auto-delete, indicating tight process control and attempt to prevent off-channel procurement.
+
+---
+
+## Risk Signals
+
+- **Zero task closure:** No completed tasks after months of activity raises questions about whether Asana is being used for final fulfillment tracking or just intake.
+- **Overdue deliverables:** PSKN3-24/55S antenna and Ground Antenna components due Sep–Oct 2026, still marked "Order Placed," not received.
+- **Data staleness:** Tasks with dates from May 2026 still open; unclear if these are archived or genuinely pending.
+- **Unassigned majority:** 180 of 198 tasks unassigned (after Meredith takes them) suggests potential visibility/accountability gap for individual order status.

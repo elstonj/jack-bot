@@ -1,147 +1,103 @@
-_Asana snapshot as of 2026-11-17: 63 open tasks, 17 completed (last 90 days)._
+_Asana snapshot as of 2026-11-18: 63 open tasks, 17 completed (last 90 days)._
 
 # [600-1] SOCOM Pope
 
 ## Overview
-
 - **Client/Customer:** SOCOM
 - **Priority:** High
-- **Status:** Active — in full execution across 6 CLINs (Contract Line Items). Early-phase tasks (camera selection, PCLT testing) recently completed; design and prototyping work underway through mid-2027.
 - **Project Owner:** Dan Prendergast
+- **Status:** Active – multi-phase development project with 6 CLINs (Contract Line Items) spanning through May 2027
+- **Team Members:** Dan Prendergast (lead), Jack Elston, Sam Hild, Josh Fromm, Ben Busby, Ethan Domagala, Maciej Stachura, Alex Lomis
+- **Dollar Value:** Not stated in custom fields; hours tracked by role (Mechanical Engineer, Electrical/Firmware, Software Engineer, Test Engineer, Systems Engineer, Technician)
 - **Timeline:** 
-  - Started: ~October 2026 (early prototyping/trade studies)
-  - Major milestone: PCLT Test Launch at SOCOM Facility due 2026-11-13
-  - Final delivery: Multiple CLIN closeouts through May 2027
-  - Key gate: Customer airworthiness process begins 2027-01-25
-- **Team Members:** Dan Prendergast (PM/lead), Jack Elston (electrical/firmware), Josh Fromm (mechanical design), Sam Hild (carrier board), Ethan Domagala (prototyping/test), Ben Busby (software), Maciej Stachura (sensors/software), Alex Lomis (test), others
-- **Task Volume:** 63 open, 17 completed (77% open rate)
-
-## Risk Signals
-
-- **PCLT Test Launch due 2026-11-13** (imminently due) — assigned to Dan Prendergast; associated report and customer photos due same week. Status unclear.
-- **GFI: Answers re PCLT due 2026-11-20** — 3 critical open questions on safe separation weight, mount angle, and gap tolerances. No assignee; blocks downstream design.
-- **Hardware selection dependencies (Nov 18–Dec 14):** Camera, processing hardware, carrier board, radio selection staggered; many tasks unassigned or dependent on prior work.
-- **High burndown ahead:** 60–70 Mechanical Engineer hours per task across Dec–Feb; Electrical/Firmware 25–40 hours per task; Systems Engineer hours fragmented across variants (3–31 hours).
-- **Multiple unassigned critical tasks:** VOXL2 lead time & ordering, RB5 hardware validation, autopilot-to-SBC spec, EMI testing, all due 2026-11-20 with no owner.
+  - Started: ~October 2026 (early prototyping)
+  - Current phase: Component selection & PCLT testing (November 2026)
+  - Final deliverable: May 2027 (CLIN 6 closeout)
 
 ## Key Deliverables & Milestones
 
-| Milestone/Deliverable | Due Date | Owner | Scope/Notes |
-|---|---|---|---|
-| **PCLT Test Launch at SOCOM Facility** | 2026-11-13 | Dan Prendergast | 50 ME hrs, 12 SE hrs; test of prototype |
-| **GFI: Answers re PCLT** | 2026-11-20 | Unassigned | Safe separation, mount angle, aircraft gap; critical blocker |
-| **All-variants Common Camera Selection** | 2026-11-11 | Dan Prendergast | 10 ME, 60 Test hrs; likely complete (selected cameras task done) |
-| **All-variants Common Processing Hardware Selection** | 2026-11-18 | Jack Elston | 30 Elec/FW hrs |
-| **All-variants Common Radio Selection** | 2026-12-11 | Jack Elston | 25 Elec/FW hrs |
-| **All-variants Carrier Board Design & Fab** | 2026-12-14 | Sam Hild | 40 Elec/FW hrs |
-| **GFI: Customer begins airworthiness process** | 2027-01-25 | Unassigned | Program gate |
-| **CLIN 1 Closeout** | 2027-03-12 | Dan Prendergast | METAR variant |
-| **CLIN 2 Closeout** | 2027-03-12 | Unassigned | EO/IR R&R variant |
-| **CLIN 3 Closeout** | 2027-05-31 | Unassigned | Auto-METAR variant |
-| **CLIN 4 Closeout** | 2027-03-12 | Dan Prendergast | EO/IR ATR variant |
-| **CLIN 5 Closeout** | 2027-05-31 | Dan Prendergast | EO/IR FMV variant |
-| **CLIN 6 Closeout** | 2027-05-31 | Unassigned | Gimballed camera variant |
-
-**Operational Flight Evaluations (OFEs):** Scheduled across CLINs:
-- CLIN 1, 2, 4 combined OFE: 2027-03-05 (52 Test hrs, 31 SE hrs)
-- CLIN 3: 2027-03-05
-- CLIN 4: 2027-04-24
-- CLIN 5: 2027-03-22
+| Milestone | Due Date | CLIN | Notes |
+|-----------|----------|------|-------|
+| PCLT Test Launch at SOCOM Facility | 2026-11-13 | Pre-CLIN | 50 Mech Eng hrs, 12 Sys Eng hrs; test report due 2026-11-13 |
+| GFI: Answers re PCLT | 2026-11-20 | Pre-CLIN | Critical questions on 16lb separation, mount angle, skin gap |
+| All-variants Common Camera Selection | 2026-11-11 | 1,2,4 | 70 total hours (10 Mech, 60 Test) |
+| All-variants Common Processing Hardware Selection | 2026-11-18 | 1,2,4 | 30 Electrical/Firmware hrs |
+| All-variants Common Radio Selection | 2026-12-11 | 1,2,4 | 25 Electrical/Firmware hrs |
+| All-variants Carrier Board Design & Fab | 2026-12-14 | 1,2,4 | 40 Electrical/Firmware hrs (Sam Hild) |
+| CLIN 1 Closeout (METAR variant) | 2027-03-12 | 1 | Includes sensor selection, component build, bench/ground/flight testing |
+| CLIN 2 Closeout (EO/IR R&R variant) | 2027-03-12 | 2 | Sensor trade studies, prototype build, flight eval by 2027-03-05 |
+| CLIN 3 Closeout (Auto-METAR variant) | 2027-05-31 | 3 | Precipitation, cloud layer, visibility sensor trades by 2027-01-29 |
+| CLIN 4 Closeout (EO/IR ATR variant) | 2027-03-12 | 4 | ATR model selection, flight eval by 2027-04-24 |
+| CLIN 5 Closeout (EO/IR FMV variant) | 2027-05-31 | 5 | Gimballed camera, gimbal control UI, flight eval by 2027-03-22 |
+| CLIN 6 Closeout | 2027-05-31 | 6 | Closeout slides/report due 2027-03-26 |
+| GFI: Customer begins airworthiness process | 2027-01-25 | — | Regulatory milestone |
 
 ## Task Summary
 
-- **Total:** 80 tasks (63 open, 17 completed)
-- **Completion rate:** 21% complete
-- **Assigned vs. Unassigned:** ~40 tasks unassigned (many critical path)
+**Total Tasks:** 80 (63 open, 17 completed)
 
-### Tasks by Assignee (open only)
+**Completion Rate:** 21% (17/80)
 
-| Assignee | Count | Key Tasks | Completion Pattern |
-|---|---|---|---|
-| Dan Prendergast | 11 | PCLT test, camera selection, system reqs, CLIN closeouts, OFE, gimbal trade study, ATR selection | Very active; heavily loaded across all phases |
-| Ethan Domagala | 7 | Prototype builds (METAR, EO/IR R&R, Auto-METAR, ATR, FMV), bench/flight testing | Builds and test focus; starts mid-Feb |
-| Josh Fromm | 5 | PCLT design changes, mechanical/electrical updates (multiple CLIN variants) | Mechanical design; Dec–Feb window |
-| Jack Elston | 4 | Processing hardware, radio selection, comm protocol (CLINs 1, 2, 4), datalink (CLIN 6) | Electrical/firmware lead; Nov–Jan |
-| Ben Busby | 3 | Software for payload integration (CLINs 1, 4, 6) | Software integration; Jan–April |
-| Maciej Stachura | 3 | Precipitation/cloud/visibility sensor trade studies (CLIN 3), software (Auto-METAR, CLIN 3) | Sensor selection & automation; Jan–March |
-| Sam Hild | 1 | Carrier board design & fab | Single critical deliverable; due Dec 14 |
-| Unassigned | 29 | VOXL2 environment, RB5 validation, EMI testing, GFI PCLT answers, all CLIN closeouts (2, 3, 6), comm protocol (CLIN 3), mechanical updates (CLIN 4) | Many critical-path items without owners |
+**Tasks by Assignee (open tasks):**
+- **Dan Prendergast:** 10 open (project lead; camera selection, PCLT test, requirements, flight evals, closeout reports)
+- **Jack Elston:** 4 open (processing hardware, radio selection, comm protocols)
+- **Josh Fromm:** 3 open (PCLT design changes, mechanical/electrical updates)
+- **Ethan Domagala:** 8 open (prototype builds & testing across all variants)
+- **Ben Busby:** 3 open (software for payload integration)
+- **Maciej Stachura:** 3 open (sensor trade studies, software/collection patterns)
+- **Sam Hild:** 1 open (carrier board design)
+- **Unassigned:** 31 open tasks (critical gaps in component studies, interface specs, hardware selection work, and prototype builds)
 
-### Notable Patterns
-
-- **Hardware selection bottleneck (Nov–Dec):** Camera, processing, radio, carrier board decisions cascade; many prerequisite tasks unassigned.
-- **Prototype builds compressed into Feb–April:** Ethan Domagala is sole builder across 5 variants (METAR, EO/IR R&R, Auto-METAR, ATR, FMV); tight scheduling.
-- **Four distinct CLIN variants** (1=METAR, 2=EO/IR R&R, 3=Auto-METAR, 4=EO/IR ATR, 5=EO/IR FMV, 6=Gimballed FMV), each requiring parallel Comm Protocol, Mechanical Updates, and Software tasks — high replication and coordination overhead.
-- **Systems Engineer hours fragmented:** 3–31 hrs per task, sprayed across design reviews, comm, component integration, and OFE; suggests tight SE staffing or unclear allocation.
-- **Custom fields track effort:** Most design/build tasks include Mechanical Engineer, Electrical/Firmware, Software, Test Engineer, Technician, and Systems Engineer hour budgets — good visibility but cumulative load not summarized at project level.
+**Key Patterns:**
+- **Heavy unassigned work:** 49% of open tasks have no assignee; includes critical path items (camera trade study, VOXL2 lead times, RB5 SOM comparison, autopilot-SBC interface spec, EMI testing)
+- **Multiple parallel variants:** Project manages 6 distinct payload variants (METAR, EO/IR R&R, Auto-METAR, ATR, FMV, plus common platform work)
+- **Hour tracking:** Extensive use of custom fields to track effort by role; major effort concentration in Mechanical Engineer hours (60–70 per task) and Test Engineer hours (40–60 per task)
+- **Near-term pressure:** 11 tasks due by 2026-11-20; several marked as milestones with SOCOM questions pending
 
 ## Recent Activity
 
-**Completed (last ~2 weeks, inferred):**
-- Camera selection finalized (STARVIS + Sony IMX585 tested; lenses and filters assessed)
-- Hadron cameras ordered
-- Night and day camera test plans executed; post-processing complete
-- Requirements and design docs finalized for initial phases
-- SOCOM site visit completed; prototype PCLT S0 with accelerometer built and launched
+**Completed (November 2026):**
+- Camera selection finalized (2026-11-13)
+- Night/day camera testing completed (2026-11-06, 2026-11-11)
+- Hardware ordered (Hadron cameras 2026-11-11)
+- Site visit & instrumented S0 PCLT launch completed (2026-10-30)
+- PCLT prototype with accelerometer built (2026-10-30)
 
-**Imminent (next 2 weeks):**
-- **2026-11-13:** PCLT Test Launch at SOCOM Facility and report due (Dan Prendergast)
-- **2026-11-13:** Document report for test PCLT launch results (Dan Prendergast)
-- **2026-11-18:** Processing hardware selection (Jack Elston)
-- **2026-11-20:** GFI: Answers re PCLT (critical blocker — no owner assigned); VOXL2 lead time & ordering, RB5 validation, EMI testing, autopilot-to-SBC spec, carrier board layout, demo approach docs all due (all unassigned)
+**Imminent (November 2026):**
+- PCLT test launch and report due 2026-11-13 (Dan Prendergast) — appears on track
+- Multiple component selection/trade studies due 2026-11-18 to 2026-11-20 (mostly unassigned)
+- Critical SOCOM feedback required by 2026-11-20 (PCLT safe separation, mount angle, skin gap)
 
-**Upcoming design & build phase (Dec 2026–Feb 2027):**
-- Carrier board fab (Sam Hild, due Dec 14)
-- PCLT design changes (Josh Fromm, due Dec 11)
-- Mechanical/electrical updates for component integration (Josh Fromm, multiple variants, due Dec 21–Feb 17)
-- Comm protocol design (Jack Elston, multiple variants, due Dec 11–Jan 20)
-- Prototype orders and builds (Ethan Domagala, Feb 1–April 2)
-- Bench, ground, and local flight testing (Ethan Domagala, Feb 23–April 19)
+**Upcoming (December 2026 – January 2027):**
+- Carrier board design & fab (due 2026-12-14)
+- Design changes for PCLT flight test (due 2026-12-11, Josh Fromm)
+- Mechanical/electrical component integration updates (due 2026-12-21)
+- Comm protocol design & implementation (due 2027-01-01)
+- System-level requirements (due 2027-01-04)
+- Sensor trade studies for CLIN 3 (due 2027-01-29)
+- ATR selection & integration (due 2027-01-19)
 
 ## Notes & Context
 
-### Critical Open Questions & Dependencies
+**Critical Issues:**
+1. **Unassigned critical path work:** 31 unassigned open tasks include foundational hardware decisions (VOXL2, RB5 SOM, radio, interface specs) needed to unblock downstream design. Recommend immediate assignment.
+2. **PCLT feedback loop:** SOCOM's answers to 16lb separation, mount angle, and skin gap are due 2026-11-20 and will drive design changes (task due 2026-12-11). This is on the critical path.
+3. **Hardware selection convergence:** Camera, processing, radio, and carrier board selections cluster around 2026-11-11 to 2026-12-14. Delays here will propagate to all 6 variants.
 
-From task notes:
-- **PCLT mount & separation (GFI due 2026-11-20):**
-  - Is 16 lb safe separation weight adequate?
-  - What is PCLT mount angle in aircraft?
-  - Gap between aircraft skin and PCLT tube rim?
-  - *Blocks design changes and certification pathway.*
+**Project Structure:**
+- **CLIN 1 (METAR):** Weather sensor suite for autonomous collection (precipitation, cloud, visibility sensors)
+- **CLIN 2 (EO/IR R&R):** Electro-optical/infrared with rapid-response capability
+- **CLIN 3 (Auto-METAR):** Automated METAR variant (note: some tasks reference both METAR and Auto-METAR; may overlap or iteration)
+- **CLIN 4 (ATR):** Real-time Automatic Target Recognition variant (open-source, unclassified models per task notes)
+- **CLIN 5 (FMV):** Full-Motion Video with gimballed camera and datalink
+- **CLIN 6:** Final integration and closeout
 
-- **VOXL2 & RB5 processor selection:**
-  - CoVar runtime and 64MP frame handling on RB5 hardware not yet confirmed (due 2026-11-20).
-  - RB5-class SOMs being compared for RevB carrier board.
-  - VOXL2 build environment and bridge port needed (due 2026-11-20).
-  - *Blocks carrier board layout and mechanical design.*
+**Technical Context (from task notes):**
+- **Computing platform:** VOXL2 + Hadron stack + RB5-class SOM; CoVar vision processing; custom autopilot-SBC interface
+- **Testing:** Bench, ground, and local flight testing for each variant before operational flight evaluation with SOCOM
+- **Airworthiness:** Customer to begin airworthiness process by 2027-01-25; suggests regulatory/safety-critical nature
 
-- **ATR (Automatic Target Recognition) model status (CLIN 4, due 2027-01-19):**
-  - Datasets used: all open source; validation results & classification status TBD.
-  - Plans to develop with unclassified model; label list needed.
-  - *Affects CLIN 4 (EO/IR ATR) build schedule.*
-
-- **Payload automation patterns:**
-  - Multiple tasks reference autonomous collection patterns (circle flight + cardinal heading imagery, image compression, triggers, calibration).
-  - Details evolving; affects software design for CLINs 1, 2, 3, 4, 6.
-
-### Staffing & Load
-
-- **Dan Prendergast** carrying PM, design lead, and test leadership; heavy overlap suggests bottleneck risk.
-- **Ethan Domagala** sole prototype builder across 5 variants; Feb–April timeline is aggressive.
-- **Josh Fromm** (mechanical) and **Jack Elston** (electrical) are dual-variant leads; coordination overhead.
-- **29 unassigned critical tasks** — assignment needed immediately for Nov 20–Dec dates.
-
-### Dollar Value
-
-No explicit budget line items in task data; custom fields track effort hours only. Project is SOCOM contract with 6 CLINs (likely cost-plus or FFP by CLIN); no summary P&L visible.
-
-### Airworthiness & Certification
-
-Program gated on customer airworthiness review (Jan 25, 2027). OFEs scheduled March–April 2027 (post-gate). Suggests FAA or SOCOM certification pathway; PCLT test at SOCOM facility is early validation.
-
-### External Coordination
-
-- Monthly update meetings with SOCOM PM established.
-- Site visit to SOCOM facility completed; questions about in-flight loading and S0 accessibility resolved.
-- L3 Harris consultation on image intensifiers completed.
-- CoVar (image processing) SOW/requirements drafted; sponsorship/FCL/DD254 tracking underway.
+**Next Steps:**
+- Assign 31 unassigned tasks immediately, prioritizing component selection and interface spec work (due 2026-11-20)
+- Confirm SOCOM PCLT feedback and design change timeline with Dan Prendergast
+- Monitor carrier board design and comm protocol convergence (critical path for all variants)

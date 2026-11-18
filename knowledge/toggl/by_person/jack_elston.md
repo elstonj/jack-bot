@@ -1,91 +1,73 @@
-_Computed from Toggl as of 2026-11-17: 18206.5 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-18: 18219.0 h tracked since 2020-01-01._
 
 # Jack Elston — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 18,206.5 hours (all-time since 2020-01-01)
+- **Total hours tracked:** 18,219.0 hours
 - **Primary projects (top 5 by hours):**
   1. Project None: 6,838.7 hours (37.5%)
   2. Project 183171534: 2,262.2 hours (12.4%)
-  3. [001-13] General Operations: 1,682.1 hours (9.2%)
+  3. [001-13] General Operations: 1,690.6 hours (9.3%)
   4. [301-2] SBIR - Hurricane Phase II+: 1,348.7 hours (7.4%)
   5. [301-3] S0 Hurricane Phase II - 2025: 876.7 hours (4.8%)
-- **Time period:** 2020-01-01 to present
+- **Time period covered:** 2020-01-01 to present (all-time)
 
 ## Project Breakdown
 
-### Top Projects by Hours
-| Project | Hours | % of Total | Client/Notes |
-|---------|-------|-----------|--------------|
-| Project None | 6,838.7 | 37.5% | Unassigned/miscellaneous |
-| Project 183171534 | 2,262.2 | 12.4% | (project ID, details unclear) |
-| [001-13] General Operations | 1,682.1 | 9.2% | Overhead |
-| [301-2] SBIR - Hurricane Phase II+ | 1,348.7 | 7.4% | NOAA: Joe Cione |
-| [301-3] S0 Hurricane Phase II - 2025 | 876.7 | 4.8% | NOAA: Joe Cione |
-| [001-04] S0 VTOL IRAD | 618.3 | 3.4% | IRAD |
+### Top Projects
+| Project | Hours | % of Total | Client |
+|---------|-------|-----------|--------|
+| Project None | 6,838.7 | 37.5% | Unallocated |
+| Project 183171534 | 2,262.2 | 12.4% | — |
+| [001-13] General Operations | 1,690.6 | 9.3% | Overhead |
+| [301-2] SBIR - Hurricane Phase II+ | 1,348.7 | 7.4% | [301] NOAA: Joe Cione |
+| [301-3] S0 Hurricane Phase II - 2025 | 876.7 | 4.8% | [301] NOAA: Joe Cione |
+| [001-04] S0 VTOL IRAD | 618.3 | 3.4% | [001] IRAD |
 | [001-13] Corporate/Strategic Planning | 499.5 | 2.7% | Overhead |
-| [300-3] 2026 IDIQ (Hurricane) | 451.0 | 2.5% | NOAA |
+| [300-3] 2026 IDIQ (Hurricane) | 451.0 | 2.5% | [300] NOAA |
+| Project 154533463 | 357.2 | 2.0% | — |
+| [001-13] BD Pipeline | 318.3 | 1.7% | Overhead |
 
-### Overhead/Internal Work (001-13 rollup)
-Combined [001-13] entries total approximately **2,678.2 hours (14.7%)** across:
-- General Operations: 1,682.1h
-- Corporate/Strategic Planning: 499.5h
-- BD Pipeline: 316.3h
-- Proposals: 179.7h
-- HR General: 44.2h
-- Creative Projects: 34.8h
-- Marketing: 28.5h
-- Other HR/admin: ~92.6h
-
-### IRAD Projects (001-xx rollup)
-Combined IRAD work totals approximately **1,473.5 hours (8.1%)** including VTOL, SwiftCore variants, methane detection, and other internal R&D.
-
-### Client/Government Work
-- **NOAA projects:** ~3,676.4 hours (20.2%)
-- **NASA projects:** ~95.8 hours (0.5%)
-- **DoD/Air Force:** ~83.6 hours (0.5%)
-- **Navy SBIR:** ~59.5 hours (0.3%)
-- **USGS:** ~110.0 hours (0.6%)
+### Client Summary
+- **Overhead (internal operations):** ~2,643 hours (14.5%)
+- **NOAA (Hurricane projects):** ~2,676 hours (14.7%)
+- **IRAD (internal R&D):** ~1,428 hours (7.8%)
+- **Unallocated/Project codes:** ~11,009 hours (60.4%)
 
 ## Recent Activity
 
-### Current Work Focus (Last 100 entries)
-Jack's recent activity shows a **strong emphasis on overhead and operational work**:
-- **[001-13] General Operations dominates:** Extensive "Answering Emails" entries (40%+ of recent logs), plus coordination meetings, all-hands, internal updates, and program reviews
-- **[001-13] HR/Hiring:** Multiple panel interviews and onboarding discussions (Andrew Teta, Grey Vaughan, Matt Carney, Robert Powell, etc.)
-- **[001-13] BD Pipeline:** Strategic business development work, including EAB meetings (11.8h and 8.0h), Fletch Aero partnership, SOCOM kickoff, and S0 discussions
-- **[300-3] 2026 IDIQ (Hurricane):** Active project work including power system debugging, mission support, and PSNS debugging
-- **[001-14] SwiftCore 3.3:** Simulator development (multiple 1-3h blocks), RC creation
-- **[001-07] S3 IRAD:** QC site work, power board simulations (recent 5.0h and 3.8h sessions)
-- **[550-1] Navy SBIR (Magnetometer):** TCE document work
-- **[600-1] SOCOM Pope:** Requirements sequestration
+Jack's recent work (past 100 entries) shows a heavy focus on:
 
-### Notable Patterns
-- Heavy email/communication load (5-7h per day on some recent days)
-- Executive/leadership responsibilities evident from business operations, strategy meetings, and hiring involvement
-- Balanced across project delivery ([300-3], SwiftCore, S3), business development (BD Pipeline, EAB), and HR/hiring
-- Technical depth in IRAD simulation and hardware debug work
-- Recurring "Monday Morning All-hands" participation
+**Dominant Activities:**
+- **Email management:** Largest time sink across numerous entries, often multi-hour sessions (0.2–7.3h per session)
+- **[001-13] General Operations:** Most frequent project, encompassing emails, meetings, and administrative tasks
+- **BD Pipeline:** Strategic business development work including EAB meetings (19.8h recently), partnership discussions (Fletch Aero, Vantor), and white papers
+- **[001-14] SwiftCore 3.3:** Simulator development work (5–7 hour sprints)
+- **[300-3] 2026 IDIQ (Hurricane):** Technical work including power debugging, mission support, and PSNS debugging
+- **HR/Recruiting:** Ongoing interview participation (Andy Abols, Matt Carney, Robert Powell, Grey Vaughan, Megan)
+- **[001-07] S3 IRAD:** QC site work and power board simulations
+- **[600-1] SOCOM Pope:** Requirements sequestration work (2.5h)
+
+**Notable Patterns in Descriptions:**
+- Frequent "Answering Emails" entries suggest significant administrative/communication overhead
+- Technical work appears in bursts (simulator dev, QC site work, debugging sessions)
+- HR/interview work is regular but relatively low-volume per entry
+- Strategic initiatives (BD, EAB meetings) involve larger time blocks
 
 ## Patterns
 
-### Primary Work Focus Areas
-1. **Leadership/Operations (37.5% via "Project None" + 14.7% via [001-13]):** Suggests Jack holds a leadership or program management role with significant email/coordination load
-2. **Hurricane/NOAA Work (20.2%):** Largest government client focus; sustained multi-year engagement
-3. **IRAD/Internal R&D (8-10%):** SwiftCore, VTOL, sensor development; indicates core technology development responsibility
-4. **Business Development:** BD Pipeline growth evident; recent strategic meetings (EAB, SOCOM kickoff, Fletch Aero, Vantor)
-5. **Hiring/HR:** Regular interview participation suggests Jack is involved in recruitment/onboarding decisions
+**Primary Focus Areas:**
+1. **Internal operations & administration** (37.5% unallocated + 9.3% general ops) — Jack spends roughly half his time on operational/admin work
+2. **Hurricane research projects** (NOAA) — ~14.7% of time, primarily on SBIR Phase II+ and 2025 S0 work
+3. **Business development** — Strategic partnerships, proposal work, and pipeline development
+4. **IRAD projects** — Internal R&D across VTOL, SwiftCore iterations, and sensor development
+5. **Email/communication** — Unusually high proportion of tracked time logged as email management
 
-### Temporal Shifts
-- **High unassigned hours (Project None, 37.5%):** May reflect data entry gaps, timecard administrative work, or uncategorized leadership time
-- **NOAA projects remain consistent:** 20.2% suggests long-standing strategic client relationship
-- **Recent IRAD acceleration:** SwiftCore 3.3 simulator development and S3 QC site work suggest active hardware/software push
-- **BD Pipeline activation:** Increased emphasis on business development (EAB meetings, white papers, partnerships) suggests growth phase
+**Shifts Over Time (Visible from Recent Data):**
+- **SwiftCore 3.3 simulator development:** Currently active sprint with focused technical work
+- **SOCOM engagement:** Recent activity on Pope requirements work (new or escalating focus)
+- **Hurricane Phase II+ stabilization:** Debugging and mission support work suggests active project phase
+- **EAB meeting momentum:** Large time blocks (11.8h, 8.0h) on BD activities suggest high-level strategic engagement
 
-### Role Indicators
-Jack appears to operate as **VP/Director-level technical leader** given:
-- Email volume and operational coordination
-- Hiring/interview participation
-- Strategic planning and BD involvement
-- Technical depth in IRAD projects
-- Multi-project oversight (Hurricane, VTOL, SwiftCore, Navy SBIR)
+**Role Characteristics:**
+Jack appears to operate in a **hybrid technical/operational/strategic role**, balancing hands-on engineering work (simulator development, debugging, QC) with significant business operations, HR participation, and business development responsibilities. The high proportion of unallocated hours and email time suggests either time-tracking gaps or that Jack handles considerable ad-hoc organizational work.

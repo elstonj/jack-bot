@@ -1,73 +1,51 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-17 02:38
+Last scanned: 2026-11-18 02:44
 
 Total channels scanned: 7
 
 ## Channels
 
-- **#flight-testing** -- 1 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 11 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 3 messages -- [marketing.md](marketing.md)
-- **#s3** -- 41 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 1 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 4 messages -- [swiftcore.md](swiftcore.md)
+- **#25_1-navy-sbir-magnetometer** -- 15 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
+- **#general** -- 7 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 8 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 7 messages -- [marketing.md](marketing.md)
+- **#operations** -- 2 messages -- [operations.md](operations.md)
+- **#s3** -- 27 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 4 messages -- [sbir-hurricane.md](sbir-hurricane.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
+- **SBIR Hurricane (S0)**: Primary government-funded project for hurricane reconnaissance unmanned aircraft; most mature and active initiative
+- **Navy SBIR Magnetometer**: Magnetometer integration project for magnetic anomaly detection; active sensor integration work
+- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter platform in development; tilting rotor architecture targeting 2-3 hour endurance
 
-**Primary Development Programs:**
-- **S0 (SBIR Hurricane)**: Hurricane reconnaissance unmanned aircraft system; most mature project with operational focus
-- **S3**: Hybrid VTOL aircraft with tilting rotors; 2-3 hour endurance target; in active development phase
-- **SwiftCore**: Drone system firmware/software stack; core technology across platforms
-- **E2 & Flamewheel**: Multirotor platforms in active testing
+## Key People & Roles
+- **Jack Elston**: Leadership/strategy; primary decision-maker on proposals, funding, and direction
+- **Joshua Fromm**: Lead hardware engineer; RF/antenna expertise, CAD, parts sourcing, battery design
+- **Maciej**: Technical support, proposal development, field operations liaison
+- **Beck Cotter**: Magnetometer project involvement, technical contributor
+- **Dan Prendergast**: Business development and operations coordination
+- **Meredith Needham**: Finance, admin, and operations support
 
-**Technology Integration:** All aircraft platforms depend on SwiftCore firmware and require coordinated flight testing
+## Decision Patterns
+1. **Funding-driven roadmap**: Grant availability shapes project prioritization (#grants-and-funding drives planning)
+2. **Hardware-first approach**: Engineering decisions (Joshua/Maciej) precede marketing and operations planning
+3. **Jack Elston approval required**: Major proposals, strategic pivots, and significant budget decisions flow through leadership review
+4. **Integrated ops model**: Operations channel serves as decision documentation hub where action items become official record
 
-## Key Decision-Makers & Roles
+## Recurring Topics
+- **Government contracting**: SBIR programs, proposal deadlines, budget cycles (Navy, NOAA, DOE, NASA agencies)
+- **Hardware integration**: Sensor systems, RF components, battery performance, antenna placement
+- **Flight operations & testing**: Mission planning, operational constraints, platform capabilities
+- **Procurement & logistics**: Parts sourcing, supply chain, shipping coordination
+- **Marketing/messaging alignment**: Product capabilities communicated consistently across channels
 
-| Person | Primary Role | Cross-Channel Authority |
-|--------|-------------|------------------------|
-| Jack Elston | Leadership/Engineering | Proposal decisions, funding strategy, project direction |
-| Joshua Fromm | Lead Engineer/Designer | Technical requirements, CAD, RF/antenna systems, parts validation |
-| Maciej | Flight Testing Lead | Flight operations, firmware debugging, field operations support |
-| Dan Prendergast | Business Development/Operations | Operational decisions, company coordination |
-
-## Recurring Cross-Channel Patterns
-
-**1. Funding-to-Development Pipeline**
-- Grants/funding channel drives project timelines and resource allocation
-- Government contracts (SBIR, NASA, DOD, NOAA) fund specific aircraft development
-- Funded projects (S0/Hurricane) show highest activity and urgency
-
-**2. Technical Dependencies**
-- SwiftCore firmware is shared dependency across all platforms
-- Flight testing validates firmware across S-series, E2, Flamewheel, and VTOL variants
-- Design decisions in S3/S0 require SwiftCore firmware compatibility testing
-
-**3. Marketing-to-Product Feedback Loop**
-- Marketing channel influences public positioning of aircraft capabilities
-- External messaging tied to project timelines and funding announcements
-- Trade shows and conference strategy linked to development milestones
-
-**4. Operational Governance**
-- General channel coordinates high-level decisions
-- Specialized channels execute tactical decisions
-- Major announcements/changes flow through both general and project-specific channels
-
-## Information Flow Patterns
-
-- **Upstream**: Funding decisions → Project prioritization → Technical development
-- **Downstream**: Technical breakthroughs → Marketing messaging → External communications
-- **Horizontal**: Flight testing results inform both firmware (SwiftCore) and design (S3/S0) decisions
-
-## Critical Connections
-
-- **S0 & S3 development** both dependent on SwiftCore maturity
-- **Flight testing channel** serves as validation hub for all platforms
-- **Grants/funding channel** directly triggers project resource allocation and timelines
-- **Joshua Fromm's RF/antenna expertise** relevant across S0, S3, and SwiftCore platforms
+## Cross-Channel Connections
+- **Technical → Funding**: Engineering achievements (S0 missions, sensor integration) inform SBIR proposals and marketing narratives
+- **Operations → Projects**: Procurement decisions and resource allocation in #operations directly impact timeline feasibility in project channels
+- **Leadership coordination**: Jack Elston bridges strategy (#grants-and-funding, #general, #marketing) with technical execution (#sbir-hurricane, #s3)
+- **Hardware expertise sharing**: Joshua Fromm's work appears across all technical channels; antenna/RF solutions reused across S0, S3, and magnetometer projects

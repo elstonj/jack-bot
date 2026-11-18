@@ -5,20 +5,20 @@
     "[001] Black Swift Technologies - IRAD:(001-7) IRAD - S3"
   ],
   "period": {
-    "start": "2024-11-17",
-    "end": "2026-11-17"
+    "start": "2024-11-18",
+    "end": "2026-11-18"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 209596.85,
+    "expenses": 209597.48,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 89176.37,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 89175.55,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 66190.07,
       "Indirect Cost:Internal Research and DevelopmentX": 52935.55,
       "Inventory Asset": 439.98,
       "Indirect Cost:TaxesX": 289.29,
       "DIRECT COSTS:DC-Direct Material Purchases": 234.55,
-      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 128.28,
+      "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 129.73,
       "Indirect Cost:Finance & Bank Charges": 89.9,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 69.38,
       "Tariffs": 35.9,
@@ -964,6 +964,90 @@
   "purchases": [
     {
       "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 126.75,
+      "attributed": 44.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MCMASTER-CARR - 4617",
+      "lines": [
+        {
+          "amount": 44.94,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": ""
+        },
+        {
+          "amount": 81.81,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "41127836",
+      "total": 19.06,
+      "attributed": 19.06,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MOUSER ELECTRONICS INC - 4617",
+      "lines": [
+        {
+          "amount": 9.3,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "1206 100VDC 4.7uF 10% 1.6mm AEC-Q200"
+        },
+        {
+          "amount": 3.54,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "WCAP-CSST 100V 2.2uF 10% 1206"
+        },
+        {
+          "amount": 4.77,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "1206 100VDC 1uF X7R 1.6mm"
+        },
+        {
+          "amount": 1.45,
+          "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "TARIFF"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-12",
+      "doc_number": "102135063",
+      "total": 385.54,
+      "attributed": 385.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Order placed on 10/8/26, but backordered until Nov. 2, 2026.",
+      "lines": [
+        {
+          "amount": 349.12,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "250 M GIMBAL RANGEFINDER MODULE"
+        },
+        {
+          "amount": 27.93,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "TARIFF"
+        },
+        {
+          "amount": 8.49,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping charges applied"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-10",
       "doc_number": "",
       "total": 41.17,
@@ -1033,34 +1117,6 @@
           "amount": 39.96,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "BNTECHGO 10 AWG Silicone Wire Red and Black Each"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-11-02",
-      "doc_number": "102135063",
-      "total": 385.54,
-      "attributed": 385.54,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Order placed on 10/8/26, but backordered until Nov. 2, 2026.",
-      "lines": [
-        {
-          "amount": 349.12,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "250 M GIMBAL RANGEFINDER MODULE"
-        },
-        {
-          "amount": 27.93,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "TARIFF"
-        },
-        {
-          "amount": 8.49,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping charges applied"
         }
       ]
     },
@@ -1403,34 +1459,6 @@
           "amount": 50.22,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "Phase1 Aviation shipment (9/3/26)"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-10-02",
-      "doc_number": "102016142",
-      "total": 63.37,
-      "attributed": 63.370000000000005,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 32.5,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "FIXED IND 15UH 14.9A 15.2 \u041c\u041e\u041d\u041c"
-        },
-        {
-          "amount": 0.88,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "CAP CER 180PF 50V COG/NPO 0402"
-        },
-        {
-          "amount": 29.99,
-          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
-          "description": "Shipping charges applied"
         }
       ]
     },

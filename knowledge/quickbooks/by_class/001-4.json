@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-17",
-    "end": "2026-11-17"
+    "start": "2024-11-18",
+    "end": "2026-11-18"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 45765.26,
+    "expenses": 46166.1,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 16622.52,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 17023.36,
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 13429.24,
       "Tariffs": 451.8,
@@ -296,6 +296,72 @@
     }
   ],
   "purchases": [
+    {
+      "type": "Purchase",
+      "date": "2026-11-17",
+      "doc_number": "",
+      "total": 39.07,
+      "attributed": 39.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "verbal request for shipment by S. Hild",
+      "lines": [
+        {
+          "amount": 39.07,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "shipment to Summit Assembly"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-17",
+      "doc_number": "006496",
+      "total": 361.77,
+      "attributed": 361.77,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 55.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Dronetag DRI (Variant: Built-in Antenna)"
+        },
+        {
+          "amount": 31.77,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipping"
+        }
+      ]
+    },
     {
       "type": "Purchase",
       "date": "2026-11-07",

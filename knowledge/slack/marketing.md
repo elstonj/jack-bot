@@ -3,9 +3,9 @@
 ## Overview
 The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly (marketing/collateral/events)
 
-**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 16, 2026) shows continued active engagement with ongoing administrative and technical setup tasks.
+**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 17, 2026) shows continued active engagement with trade show preparation and collateral design.
 
 ---
 
@@ -120,6 +120,15 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Paige Smith created two versions (with and without captions) of S0 VTOL wildfire visualization video
 - Final approval pending on caption accuracy and visual presentation
 
+### AGU Trade Show QR Code Tabletop Sign (November 17, 2026)
+- **Approved design approach:** 8" x 8" tabletop sign with QR codes for platforms
+- **Requested additions:** 
+  - Images of each platform (S0 VTOL and S3) for visual recognition
+  - Incorporation of bird outline motif (BST brand element) somewhere on sign
+- **Approval status:** Jack approved updated version with bird outline included
+- **Designer's deliverables:** Jack provided two versions of bird outline—one more accurate technical rendering and one stylized version matching aircraft plan form for Shelly to implement
+- **Descriptions finalized:** Text for S0 VTOL and S3 descriptions incorporated into final design (November 17, 2026)
+
 ---
 
 ## Action Items & Commitments
@@ -129,11 +138,15 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Prepare S3 launch marketing materials and messaging (S2 EOL status update needed) — timing dependent on S3 release date (noted May 6, 2026)
 - Finalize S0 VTOL wildfire visualizer video captions for approval (noted May 8, 2026)
 
+### AGU Conference Logistics (November 17, 2026)
+- **AGU hotel reservations:** Shelly requesting confirmation from team member (U02L91J99KM) that hotel reservations finalized under room block — **deadline: November 18, 2026** (last day to book at room block rate) (November 17, 20:17)
+- **QR code tabletop sign:** Shelly to implement bird outline (technical and/or stylized version) and platform images in final design per Jack's approval (November 17, 21:33)
+
 ### Recent Administrative Tasks (November 16, 2026)
-- **New BST account access:** Jack reached out to team member (mentioned November 16, 1:37pm) regarding setup and troubleshooting
-  - Team member (Shelly) confirmed acknowledgment (:+1: reaction, November 16, 2:01pm)
-- **LinkedIn account support:** Jack providing guidance on linked-in platform (November 16, 1:37pm)
-- **Google Ads invite:** Jack resent Google Ads invitation to team (November 16, 2:47pm)
+- **New BST account access:** Jack reached out to team member regarding setup and troubleshooting
+  - Team member (Shelly) confirmed acknowledgment
+- **LinkedIn account support:** Jack providing guidance on LinkedIn platform
+- **Google Ads invite:** Jack resent Google Ads invitation to team
 
 ---
 
@@ -141,9 +154,9 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - **Nexus:** Potential client for weather data collection services (day-rate pricing presented, April 20, 2026)
 - **Krateo:** Conference display partner for 3D holographic fan displays (April 20, 2026)
 - Brody Basset (US Commercial Service contact)
-- Rob Marciano (media/video producer)
-- WeatherNation (media partner)
-- Sona (trade show/conference coordinator)
+- Rob Marciano (external contact - media/video producer)
+- WeatherNation (external contact - media partner)
+- Sona (external contact - trade show/conference coordinator)
 - CENAPRED and UNAM (partnering organizations for Mexico volcano project)
 
 ---
@@ -157,6 +170,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Portfolio and credentials documentation accuracy
 - Video and multimedia content production and approval
 - Administrative system and account setup coordination
+- Trade show preparation and collateral design (AGU conference 2026)
 
 ---
 
@@ -166,22 +180,33 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Google Drive and Google Docs (collaborative content development)
 - Cloudflare (website platform evaluation)
 - WordPress (current website platform)
-- Google Ads (advertising platform requiring setup)
+- Google Ads (advertising platform)
 - LinkedIn (social media and advertising channel)
 
 ---
 
 ## Recent Activity
 
-### November 16, 2026
-- **Account Setup & Platform Coordination**
-  - Jack Elston reached out to team member (identity masked by Slack ID U0CGD0T08PP) regarding new BST account setup and LinkedIn guidance (1:37pm)
-  - Shelly confirmed acknowledgment with thumbs up reaction (2:01pm)
-  - Jack resent Google Ads invitation to team, indicating platform setup progression (2:47pm)
-  
-**Interpretation:** Routine administrative onboarding or account management tasks related to new platform access and advertising setup. Suggests active preparation for expanded digital marketing initiatives.
+### November 17, 2026 — AGU Conference Preparation
+- **QR Code Tabletop Sign Design Review & Approval**
+  - Shelly submitted initial 8" x 8" tabletop sign design for QR codes (linking to platform information) for review (15:45)
+  - Shelly noted text clarity issues and provided improved version (16:12 and 17:15)
+  - Jack requested two key additions: images of each platform (S0 VTOL and S3) and incorporation of bird outline motif (17:03)
+  - Shelly affirmed both suggestions (17:15)
+  - Jack approved updated version and provided two bird outline variants—technical accurate rendering and stylized version matching aircraft plan form—for Shelly to implement (21:33)
+  - **Status:** Final design pending incorporation of platform images and bird outline selection/implementation
+
+- **AGU Hotel Reservations Deadline**
+  - Shelly flagged urgent AGU hotel block deadline (Thursday, November 18 = last day) asking team member to confirm reservations finalized (20:17)
+  - Critical action item: Confirm conference accommodations before room block expires
+
+**Interpretation:** Active preparation for AGU (American Geophysical Union) trade show/conference with concurrent design refinement and logistics confirmation. The tabletop QR code sign serves as a lead generation tool at the conference booth. Jack's involvement in design details (platform imagery, brand motif integration) and provision of multiple bird outline options indicates company branding attention to detail for trade show visibility.
+
+### November 16, 2026 — Platform Access Setup
+- Jack Elston coordinated new account setup and platform access for team members, including BST account access, LinkedIn guidance, and Google Ads platform setup
+- Shelly confirmed acknowledgment and participation in onboarding
 
 ---
 
 ## Notes on Data Quality
-The most recent batch (November 16, 2026) contains three brief messages focused on administrative platform setup rather than strategic marketing content. The comprehensive knowledge file remains substantively current through May 8, 2026. Recent activity shows channel remains active but recent exchanges are transactional rather than strategic in nature.
+The knowledge file remains substantively current and comprehensive through November 17, 2026. Recent batch shows active trade show preparation (AGU conference) with design workflows and logistics coordination. Marketing channel continues active use for collateral design iteration, platform coordination, and event preparation.

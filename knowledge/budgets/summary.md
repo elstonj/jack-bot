@@ -1,55 +1,74 @@
 # BST Project Financial Overview
 
-## Summary Status
-**Data Quality Alert:** The provided budget documents contain **minimal extractable financial data**. Project 323-99 contains no budget information (Range Safety Review only), and the unassigned projects collection description indicates 1,181 budget documents exist but specific project codes, amounts, and contract details are not fully provided in the submission.
-
----
-
 ## Active Project Budgets
-| Project Code | Client/Agency | Total Budget | Contract Type | Status |
-|---|---|---|---|---|
-| 323-99 | DIU/NAVAIR | *Unknown* | Evaluation/Testing | Active (Test scheduled May-June 2027) |
-| [200] NASA AREN | NASA | *Unknown* | Commercial (Aeropods) | Preliminary Phase |
-| MiniCam | *Commercial/Product* | *Under Analysis* | Commercial Product | Preliminary Costing |
 
-**Note:** No complete budget figures, contract values, or period-of-performance dates are visible in the provided excerpts.
+### Project 300-3
+- **Project Code:** 300-3
+- **Client:** NOAA / EAD-OMAO, Norfolk, VA
+- **Total Budget:** $843,000.00
+- **Contract Type:** IDIQ (Indefinite Delivery / Indefinite Quantity) — firm fixed price with T&M extensions
+- **Period of Performance:** 2026–2030 (5 years)
+- **Contract Number:** 1305M226D0012 (base IDIQ); 1305M226F0084 (delivery order for Invoice 1736)
+- **Vendor Details:** Black Swift Technologies LLC, Boulder, CO (CAGE 6PGF9, UEI C2J3K9NRE3L3)
+- **Status:** Active with delivery orders in process
+
+**Budget Health:** Early-stage contract (2026 start). No spend data available yet. Five-year funding window suggests stable, long-term government support.
 
 ---
 
 ## By Funding Source
-- **NASA** – AREN project (Aeropods Commercial)
-- **DoD (DIU/NAVAIR)** – Project 323-99 (S4 UAS Evaluation)
-- **NOAA** – Referenced in unassigned portfolio (details not provided)
-- **Other Federal Agencies** – Referenced in portfolio (1,181 total documents)
+
+| Agency | Total Identified | Project Count | Notes |
+|--------|------------------|----------------|-------|
+| NOAA | $843,000.00 | 1 (Project 300-3) | IDIQ contract, 5-year PoP |
+| **Unassigned/Multi-Agency** | *Undetermined* | Multiple | NASA, DoD, and other federal agencies; lacks project codes |
 
 ---
 
 ## By Contract Type
-Based on portfolio references:
-- SBIR Phase I & II – *Likely present in portfolio; not detailed*
-- IRAD – *Likely present; not detailed*
-- Commercial – MiniCam (preliminary), Aeropods
-- Evaluation/Testing – Project 323-99
+
+| Contract Type | Count | Total Value | Notes |
+|---------------|-------|-------------|-------|
+| IDIQ (Indefinite Delivery/Quantity) | 1 | $843,000.00 | Project 300-3 (NOAA) |
+| Preliminary/Commercial Costing | 1+ | *Not awarded* | MiniCam project (NASA AREN) — proposal/cost analysis stage |
+| Other (Unassigned) | Multiple | *Unknown* | 1,181 budget documents; agency/type distribution unclear |
 
 ---
 
 ## Financial Health Indicators
-- **Data Incomplete:** Cannot assess spend, remaining budget, or burn rate
-- **Project 323-99:** No budget concerns documented; proceeding to May-June 2027 test event
-- **MiniCam:** Early-stage costing analysis (February 2026 preliminary estimate)
+
+### Project 300-3 (NOAA)
+- ✅ **Strong funding position:** $843K IDIQ with 5-year PoP (2026–2030)
+- ⚠️ **Contract just initiated:** No historical spend data available
+- ✅ **Delivery orders active:** Invoice 1736 suggests early task execution
+- **Recommendation:** Monitor monthly burn rate against CLINs (breakdown incomplete in provided data)
+
+### Unassigned Projects
+- ⚠️ **Data quality concern:** 1,181 budget documents without clear project coding makes financial consolidation impossible
+- 📋 **Status visibility:** Mix of active, proposal, and completed projects; requires categorization
+- 🔴 **Action required:** Establish project code standardization across portfolio
 
 ---
 
 ## QuickBooks Integration Notes
-- **No QuickBooks references** identified in provided excerpts
-- **Storage:** Primarily Google Drive–based (1,181 documents noted in portfolio)
-- **Recommendation:** Cross-reference with QuickBooks account codes for cost tracking on active projects
+
+| Project | QB Status | Notes |
+|---------|-----------|-------|
+| Project 300-3 | Unknown | NOAA IDIQ contract; invoice tracking referenced (Invoice 1736 delivery order) but no QB reconciliation data provided |
+| Unassigned Portfolio | Unknown | 1,181 documents suggest historical tracking; QB integration status requires verification |
+
+**Integration Gap:** No matching QuickBooks GL codes, invoice numbers, or cost center mappings provided. Recommend cross-referencing Contract Numbers and delivery orders with QB project codes.
 
 ---
 
-## **ACTION REQUIRED**
-To complete this financial overview, provide:
-1. Complete budget detail sheets for active projects (contract values, start/end dates)
-2. Extracted MiniCam unit costs and total project budgets
-3. QuickBooks cost codes or invoice data for reconciliation
-4. Full list of unassigned project codes with funding amounts
+## Summary
+
+**Current State:** 
+- One clearly documented active contract (Project 300-3 / NOAA IDIQ, $843K)
+- Substantial portfolio of undocumented projects (1,181 budget records) lacking standardized coding
+
+**Key Actions:**
+1. Assign project codes to unassigned budget documents
+2. Complete CLIN breakdown for Project 300-3
+3. Reconcile active projects with QuickBooks cost centers
+4. Establish budget-to-invoice tracking for delivery order monitoring

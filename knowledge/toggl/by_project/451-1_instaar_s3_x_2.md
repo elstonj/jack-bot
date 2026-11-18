@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-12: 247.5 h total since 2020-01-01 — Josh Fromm 162.0 h, Sam Hild 69.8 h, Nate 9.2 h, Jack Elston 6.5 h._
+_Computed from Toggl as of 2026-11-18: 263.5 h total since 2020-01-01 — Josh Fromm 178.0 h, Sam Hild 69.8 h, Nate 9.2 h, Jack Elston 6.5 h._
 
 # [451-1] INSTAAR S3 x 2 — Time Tracking
 
@@ -6,27 +6,28 @@ _Computed from Toggl as of 2026-11-12: 247.5 h total since 2020-01-01 — Josh F
 - **Client:** INSTAAR (Institute of Arctic and Alpine Research)
 - **Status:** Active
 - **Billable:** No
-- **Total hours tracked:** 247.5 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 263.5 hours (since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Josh Fromm | 162.0 | 65.5% |
-| Sam Hild | 69.8 | 28.2% |
-| Nate | 9.2 | 3.7% |
-| Jack Elston | 6.5 | 2.6% |
+| Josh Fromm | 178.0 | 67.5% |
+| Sam Hild | 69.8 | 26.5% |
+| Nate | 9.2 | 3.5% |
+| Jack Elston | 6.5 | 2.5% |
 
-**Primary contributor:** Josh Fromm (65.5% of project hours)
+**Primary Contributor:** Josh Fromm (nearly 2:1 ratio over second contributor)
 
 ## Activity Timeline
-Recent work shows two distinct patterns:
-
-**Josh Fromm:** Predominantly 8-hour blocks with minimal descriptions (19 of 20 recent entries). Appears to be consistent full-day work sessions. Most recent entry: 7.0 hours (no description).
-
-**Sam Hild:** Focused work on "S3 Kits" (13 entries totaling ~52 hours across recent work), with additional entries for "S3 Power Board QC" (3.0h most recently) and miscellaneous work. Session lengths vary (0.8h to 8.9h).
+Recent work entries show:
+- **Sam Hild:** Primarily focused on "S3 Kits" assembly/testing (5.4h, 5.9h, 8.9h, 7.8h, 4.2h, 2.5h, 2.0h, 3.6h, 1.0h, 4.3h entries), plus one "S3 Power Board QC" entry (3.0h). Mixed entries lack descriptions (2.1h, 0.8h).
+- **Josh Fromm:** Majority of recent entries lack descriptions; predominant pattern of consistent 8.0-hour days, with occasional shorter sessions (3.0h, 7.0h). No task detail provided.
+- **Nate & Jack Elston:** Minimal recent activity (no entries in most recent 34)
 
 ## Insights
-- **Work focus:** Primary activity is "S3 Kits" development/assembly/testing, with recent quality control work on S3 Power Board
-- **Documentation gap:** Josh Fromm's 162 hours lack descriptive details; entries show only time blocks
-- **Work distribution:** Highly concentrated on two team members; Nate and Jack have minimal involvement (~6% combined)
-- **Project maturity:** Consistent, ongoing work pattern suggests established development/production phase rather than initial exploration
+- **Work Type:** S3 Kit assembly/testing and quality control (Power Board QC) are identifiable tasks; Josh Fromm's work lacks logged descriptions, limiting visibility.
+- **Patterns:** 
+  - Josh Fromm shows consistent full-day (8h) engagement blocks, suggesting dedicated development or integration work
+  - Sam Hild's variable hours align with hands-on kit assembly and testing workflows
+  - Two-person project (Fromm + Hild) with minimal support from other team members
+  - Poor logging discipline on Josh's entries (60%+ undescribed) obscures specific task breakdown

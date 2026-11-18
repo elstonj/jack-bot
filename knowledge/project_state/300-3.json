@@ -27,46 +27,33 @@
   "budget": {
     "approved": 483000.0,
     "approved_source": "asana_custom_field",
-    "line_items": [
-      {
-        "category": "Equipment",
-        "amount": 108000.0,
-        "description": "Six (6) baseline S0 UAS platforms at $18,000 each",
-        "source_doc": null
-      },
-      {
-        "category": "Other",
-        "amount": 30000.0,
-        "description": "Non-recurring engineering, R&D, integration, and attenuation mitigation effort for satellite communication/land-based C2 and video capability",
-        "source_doc": null
-      }
-    ],
+    "line_items": [],
     "spent": {
       "labor": {
-        "amount": 326340.0,
+        "amount": 326383.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
       "other_qbo": {
         "amount": 472366.21,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
-      "total": 800874.73,
+      "total": 800918.48,
       "by_line_item": {}
     },
     "committed": 0.0,
-    "remaining": -317874.73,
+    "remaining": -317918.48,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-17T10:44:09Z"
+    "last_reconciled": "2026-11-18T10:47:19Z"
   },
   "milestones": [
     {
@@ -135,6 +122,6 @@
   ],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-17T10:44:09Z",
+  "last_full_rebuild": "2026-11-18T10:47:19Z",
   "last_incremental_update": null
 }

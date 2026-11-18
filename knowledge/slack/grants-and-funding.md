@@ -6,9 +6,9 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 **Key Participants:** Jack Elston (primary decision-maker and proposal reviewer), Maciej (technical/proposal support and field operations), Meredith Needham (budget/administrative), Dan Prendergast (proposal coordination and logistics), Beck Cotter (program management/budget formatting/export compliance), Ira (ROSES/NASA work), Jeremy, Weile, Joshua Fromm (hardware/integration), Paige Smith (presentation/logistics support and opportunity scouting), Arthur (technical partner for payload/antenna work), Bryan (external contact for Vulcan opportunity), Sona (operational/budget planning), Gijs (BNL partner), Kirsten Boogard (777 PM at NOAA), Bob and Lisa (camera/integration leads), SkyMesa (RF/EW partner), Hank (external contact with S3 design requests), Ariel (pipeline/portfolio oversight), Lockheed Martin UK (LMUK - partnership contact), Annette (format/process coordinator), Kreateo (external legal/compliance consultant for USML classification), Alex Lomis (RF analysis), Trenton/NexTech (external contact for temperature capability discussions), C-Astral (external contact), Bassil (customer/funder for flight operations), Roger (external contact for COO/parts analysis), Angel (PACOM/Northern Edge contact), Evan (SOCOM contact), Bradley (Northern Edge contact), Chris Meek (Langley/procurement contact), Tony (Northern Edge registration contact), PrecisionTerra (subcontract partner), By Light (DIU partnership), Eryan (NASA radiometry project partner), Supercool Earth (cloud seeding/icing flight customer), Joe Cione (NOAA cyclone/hurricane research contact), Josh C (Navy STTR contact), Jana Kolb (NOAA hurricane contract CO), Angie and Cristoph (NOAA/USGS project contacts for IDIQ), Simon (UK Navy partner/contact), Tony (external contact involved with Camp Pendleton incident), Brian (template/formatting support), Chris Leek (Langley procurement contact), Jed and Brian from KS (external editing support for LC-ISR and DIU decks), Spencer L (wing/tailset manufacturer), Lisa Marie (demo scheduling contact).
 
-**Activity Level:** Extremely high throughout the period (March 2024 - November 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. November 2026 shows continued Arctic operations support, partnership coordination, DIU program advancement, and LC-ISR program development.
+**Activity Level:** Extremely high throughout the period (March 2024 - November 2026). The channel shows sustained proposal activity with multiple concurrent submissions across different agencies, averaging 3-5 active proposals at any given time. November 2026 shows continued Arctic operations support, partnership coordination, DIU program advancement, LC-ISR program development, and active technical decision-making on communication/avionics approaches.
 
-**Time Range:** March 3, 2024 - November 15, 2026
+**Time Range:** March 3, 2024 - November 17, 2026
 
 ---
 
@@ -28,7 +28,29 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Arctic customer cold-weather qualification design approach** (July 30, 2026): Decision to engineer and design components targeting -55°C requirement, with commitment to validate -40°C during current sprint. Optional -55°C validation (~$85k cost) offered as separate deliverable. Joshua Fromm to lead design starting week of August 5, 2026, with design details meeting to follow.
 - **Arctic Edge 28 proposals submitted** (November 5, 2026): S3 and S0-VTOL aircraft proposed for Arctic Edge competition.
 - **DIU S4 low-cost ISR demo selected for in-person pitch** (November 9, 2026): Advancement to next round for S4 configuration (S0 avionics with batteries on large glider aircraft for extended flight time optimization). Described by Maciej as "low-cost ISR demo"; physical build timeline not imminent but pitch preparation now underway.
-- **LC-ISR wing/tailset supplier selected** (November 15, 2026): Decision to work with Spencer L for wing/tailset manufacturing (3 sets: integrated with servos, 4-surface design with 6 total servos, 4.5m span, 40lbs GTOW capacity, 15-20% more efficient than Chilli baseline). First set delivery mid-January 2027, remainder by March 2027. Decision to defer large purchases (Spencer L quote) until after pitch results received (Jack Elston explicit directive November 15, 12:26 UTC).
+- **LC-ISR wing/tailset supplier finalized** (November 17, 2026): Spencer L selected as primary supplier for LC-ISR aircraft with pricing and manufacturing timeline confirmed:
+  - Full aircraft option (NRE + first unit): $27,900 (delivered January 2027)
+  - Two aircraft: $52,300
+  - Three aircraft: $76,700
+  - **Financial approach**: Will order one unit initially to test and evaluate before committing to additional aircraft, reducing financial risk while maintaining manufacturing relationship
+  - Spencer L wing inventory available but noted as too light for target LC-ISR weight specification
+  - Large purchase commitment (Spencer L manufacturing beyond initial test unit) deferred until after pitch results received (Jack Elston directive maintained from November 15)
+
+### LC-ISR Communication/Avionics Architecture (November 17, 2026)
+- **Custom avionics board vs. Starlink trade study initiated**: Jack Elston and Maciej evaluating two approaches for LC-ISR command/control and data downlink:
+  - **Option 1 (Custom board)**: Design and fabricate new board (~40-55 hours firmware/driver work, ~25-35 hours board work). Conservative estimates provided. Total calendar time longer due to fabrication cycle, but maintains full customization and system control. Estimated ~300 hours total work.
+  - **Option 2 (Starlink integration)**: Eliminate custom board work (saves 40-55 hours), reduce driver work (~15-20 hours saved), but adds:
+    - Power integration for 25-40W Starlink panel
+    - SBC-to-autopilot bridge development
+    - Full ground-side software architecture
+    - VPN/relay infrastructure
+    - Mechanical mounting for ~1kg Starlink panel (~25-40 hours)
+    - Additional flight test validation required
+    - Net total hours approximately equivalent (~300 hours) but calendar time 2-4 weeks shorter due to elimination of board fabrication cycle
+    - **Trade-off**: Loses 1-2 hours of endurance; gains significant bandwidth (~1 Gbps vs. custom board capability)
+  - **Bandwidth requirement assessment**: Jack Elston noting work appears to focus on ATR (Automatic Target Recognition) vs. FMV (Full Motion Video), suggesting Starlink bandwidth may exceed actual requirement and not justify trade-offs
+  - **Cost impact**: Starlink approach generates savings toward COVAR (cost variance) budget
+  - **Decision deferred to Thursday pitch preparation**: Team identified this as open question to include in pitch Q&A preparation materials (noted by Maciej as "FMV vs. ATR" question for customer)
 
 ### Proposal Strategy Decisions
 
@@ -70,7 +92,8 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **NASA Appendix 26B SBIR Phase I proposal submitted** (by October 6, 2026): "All Weather, Terrain and Wind-Aware Autonomous Sensing for Wildfire Aviation" under AERO.7.S26B-0167.
 
 #### LC-ISR Program Strategy (November 2026)
-- **LC-ISR pitch timing** (November 15, 2026): 5-minute virtual pitch scheduled for Thursday (8am timeslot preferred over Tuesday). Demo window April-June 2027. Decision to avoid committing to large supplier purchases (Spencer L wing/tailset manufacturing) before pitch results received. Spencer L to provide quote Monday COB with manufacturing timeline: first set mid-January 2027, remainder by March 2027.
+- **LC-ISR pitch timing** (November 15, 2026): 5-minute virtual pitch scheduled for Thursday (8am timeslot preferred over Tuesday). Demo window April-June 2027. Decision to avoid committing to large supplier purchases (Spencer L wing/tailset manufacturing) before pitch results received.
+- **LC-ISR procurement approach** (November 17, 2026): Will order single test unit from Spencer L at $27,900 (delivered January 2027) to validate aircraft and manufacturing relationship before committing to two- or three-unit orders ($52,300 or $76,700 respectively). Full NRE ($3,500) paid with first unit; subsequent units reduce per-unit cost.
 
 ### Partnership & Collaboration Decisions
 - **LMUK partnership engagement** (October 27, 2026): Ongoing collaboration with Lockheed Martin UK; Jack Elston awaiting clarity on timeline and partnership details before finalizing meeting agendas and budgets.
@@ -79,22 +102,36 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ## Projects & Initiatives
 
-### Active Government Proposals (as of November 15, 2026)
+### Active Government Proposals (as of November 17, 2026)
 
-#### LC-ISR Program (Imminent)
-- **Status**: 5-minute virtual pitch next week (November 20-22, 2026 window); Thursday 8am timeslot confirmed
-- **Configuration**: Wing/tailset manufacturing with Spencer L; 3 sets of integrated wings with servos, 4.5m span design
+#### LC-ISR Program (Imminent - Pitch Thursday)
+- **Status**: 5-minute virtual pitch scheduled for Thursday, November 20-22, 2026 window (8am timeslot confirmed); Q&A preparation materials being developed in shared Google Drive spreadsheet
+- **Configuration**: Custom tube fuselage + wing pylon design with Spencer L wing/tailset manufacturing
+  - 3 sets of integrated wings with servos: 4-surface design (flaps + ailerons on wings, horizontal stabilizer, vertical stabilizer) = 6 MKS HV6130 servos total
+  - 4.5m span, 40lbs GTOW capacity
+  - 15-20% more efficient than Chilli baseline (flight-tested at multiple weights)
+  - Full aircraft with servos installed and wiring completed by manufacturer
+- **Avionics/Command Architecture Decision Pending**: Two approaches under evaluation:
+  - **Custom avionics board**: Full system control, maintains endurance; ~300 hours total work (~40-55 hours firmware/driver, ~25-35 hours board, plus integration/test); longer calendar time due to board fabrication
+  - **Starlink integration**: Shorter calendar time (2-4 weeks), cost savings to COVAR, significant bandwidth; adds power integration, SBC-autopilot bridge, ground infrastructure, mechanical mounts (~25-40 hours); loses 1-2 hours endurance; estimated ~300 hours total work
+  - **Trade-off analysis**: Jack Elston noting work appears to focus on ATR (Automatic Target Recognition) rather than FMV (Full Motion Video), suggesting custom board approach may better match actual bandwidth requirements
+  - **Customer question deferred to Thursday pitch Q&A**: Confirm whether FMV capability is required or if ATR with more constrained bandwidth is acceptable; will inform final technical approach
 - **Development Timeline**: 
-  - Spencer L quote delivery: Monday COB (November 18, 2026)
-  - First wing/tailset set: mid-January 2027
-  - Remaining sets: March 2027
-  - Demo window: April-June 2027 (may be able to negotiate later slot with Lisa Marie)
-- **Design Approach**: Custom tube fuselage + wing pylon design (simplified from fuselage design option offered by Spencer L); motor mounts designed by BST, all other aerodynamic components by Spencer L
-- **Rationale for Spencer L partnership**: Pre-made mold available, proven efficiency (15-20% more efficient than Chilli baseline at verified weights), favorable servo configuration matching S2 standards
-- **Financial Gate**: Large purchases (Spencer L manufacturing) deferred until pitch results received (Jack Elston directive)
+  - Spencer L quote provided November 17, 2026
+  - First aircraft delivery: mid-January 2027
+  - Remaining aircraft (if ordered): March 2027
+  - Demo window: April-June 2027
+  - Design details meeting to establish CAD delivery timeline and interface specifications
+- **Design Approach**: Custom tube fuselage + wing pylon designed by BST; motor mounts designed by BST; wing/tail/tailset aerodynamics and integration by Spencer L
+- **Procurement Strategy**: Initial order of single test unit ($27,900 all-in with NRE) to validate performance and manufacturing relationship; decision on two- or three-unit orders deferred until after pitch results received. Spencer L pricing:
+  - 1 aircraft (January): $27,900 (includes $3,500 NRE for new vertical stab design/tooling/layup schedule + $24,400 aircraft with installed servos and wiring)
+  - 2 aircraft: $52,300 total (~$26,150 each for second unit)
+  - 3 aircraft: $76,700 total (~$25,567 each additional)
+- **Alternative wing inventory**: Spencer L has pre-made wing available but notes layup is too light for LC-ISR target weight specification
+- **Financial Gate**: Large purchases deferred pending pitch outcomes; Jack Elston directive maintained
 
 #### NASA SBIR Phase I
-- **Status**: Wildfire autonomy proposal submitted October 6, 2026 (AERO.7.S26B-0167)
+- **Status**: Wildfire autonomy proposal submitted October 6, 2026 (AERO.7.S26B-0167); awaiting evaluation and award decisions
 
 #### DIU Low-Cost ISR Demo (S4)
 - **Status**: Selected for in-person pitch phase (November 9, 2026)
@@ -102,34 +139,34 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **Next Phase**: In-person pitch preparation; physical aircraft build timeline deferred
 
 #### Arctic Edge 28
-- **Status**: Submitted November 5, 2026 (S3 and S0-VTOL aircraft variants)
+- **Status**: Submitted November 5, 2026 (S3 and S0-VTOL aircraft variants); awaiting evaluation
 
 #### SOCOM Demonstration
 - **Status**: S0-85 and S0-86 aircraft allocated with parachute tube modification requirements
 
-- **NASA SBIR Phase I submissions** (ongoing): Wildfire aviation autonomy work in progress
-- **LMUK partnership initiative** (October 2026): Partnership scope being finalized; awaiting timeline confirmation from LMUK before proceeding with detailed planning
+#### LMUK Partnership Initiative
+- **Status**: Partnership scope and timeline being finalized; awaiting LMUK response on timeline clarification (as of October 27, 2026)
 
 ### Advanced Development
 - **S0-AD, S0-LR, S3 Nomad, S0-VTOL, S4 variants**: Multiple aircraft configurations in active development for government applications
 - **Arctic cold-weather qualification**: -40°C validation targeted for current sprint; optional -55°C engineering and validation (~$85k) being scoped
 - **Autonomy/Avionics integration**: NDAA-compliant systems in development across multiple platforms
-- **LC-ISR airframe**: Custom integration of Spencer L wing/tailset with BST tube fuselage and motor mounts
+- **LC-ISR airframe**: Custom integration of Spencer L wing/tailset with BST tube fuselage and motor mounts; avionics architecture decision pending customer requirements clarification on ATR vs. FMV capability
 
 ---
 
 ## Action Items & Commitments
 
-### Immediate/Pending (as of November 15, 2026)
-- **Spencer L**: Provide quote Monday COB (November 18, 2026) for 3 wing/tailset sets
-- **Maciej**: Coordinate LC-ISR pitch presentation for Thursday 8am timeslot; prepare team for 5-minute pitch + Q&A format
-- **Jack Elston**: Review Spencer L quote and LC-ISR pitch materials; make go/no-go decision post-pitch on manufacturing commitment
-- **Lisa Marie**: Check availability for later demo slot (April-June 2027) if needed for LC-ISR program
+### Immediate/Pending (as of November 17, 2026)
+- **Thursday Pitch Q&A Preparation**: Team contributing questions and answers to shared Google Drive spreadsheet (link provided by Maciej). **Question identified for customer**: Confirm ATR (Automatic Target Recognition) requirement vs. FMV (Full Motion Video) requirement to inform custom board vs. Starlink avionics architecture decision. Jack Elston added updates to Q&A document on November 17.
+- **Spencer L Supplier Relationship**: Initial test unit order ($27,900) to be placed pending Thursday pitch outcomes; subsequent manufacturing quantities deferred until pitch decision received
+- **CAD/Interface Coordination**: Spencer L to provide wing/tailset CAD within one week (as of November 17) for fuselage interface and motor mount design by BST team
 
-### Recent/Current (as of November 9, 2026)
-- **Maciej**: Notified team of DIU S4 proposal selection for in-person pitch phase; proposal advancement confirmed as of November 9, 2026
+### Earlier Commitments (October-November 2026)
+- **Maciej**: Coordinate LC-ISR pitch presentation for Thursday 8am timeslot; prepare team for 5-minute pitch + Q&A format
+- **Jack Elston**: Review pitch materials and Q&A responses; make go/no-go decision post-pitch on manufacturing commitment beyond initial test unit
+- **Lisa Marie**: Check availability for later demo slot (April-June 2027) if needed for LC-ISR program
 - **Beck Cotter**: Prepared budget and draft agenda for partnership meeting; sent to Jack Elston (U014U9WMK2A) for review before distribution. Budget and agenda documents stored in shared Google Drive folder.
-- **Jack Elston (U014U9WMK2A)**: To review Beck's budget and draft agenda before external circulation; awaiting LMUK timeline clarification
 - **Jack Elston (U04CZK4K7P0)** (or team member with this ID): Sending clarification note to LMUK regarding timeline and expectations
 - **LMUK contact**: Expected to provide timeline clarity that will inform final budget and agenda adjustments
 - **Team (DIU S4)**: Prepare for in-person pitch; design and engineering details for S4 configuration to be finalized for presentation
@@ -166,7 +203,7 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - **PrecisionTerra**: Subcontract partner
 - **SkyMesa**: RF/EW partner
 - **C-Astral**: External partner contact
-- **Spencer L**: Wing/tailset manufacturer for LC-ISR program; has pre-made mold, proven design validated in flight testing
+- **Spencer L**: Wing/tailset manufacturer for LC-ISR program; pre-made mold available, proven design validated in flight testing at multiple weights; NRE $3,500 (vertical stab design/tooling/layup schedule); full aircraft with installed servos and wiring $24,400 per unit
 
 ### External Customers & Field Contacts
 - **Eryan**: NASA radiometry project partner
@@ -187,24 +224,32 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - Iterative refinement of proposal strategies based on customer feedback and topic analysis
 - Multi-phase competitive processes (selection → in-person pitch → contract award), exemplified by DIU S4 and LC-ISR advancement to pitch phase
 
+### Technical Architecture Decisions
+- Ongoing evaluation of custom vs. commercial-off-the-shelf (COTS) solutions for avionics, communication, and data handling systems
+- Trade studies balancing development time, endurance, bandwidth, cost, and customization requirements
+- Example: Custom avionics board vs. Starlink integration for LC-ISR program, with decision point contingent on customer requirements clarification (ATR vs. FMV)
+
 ### Budget & Administrative Coordination
 - Regular budget development and formatting by Meredith Needham and Beck Cotter
 - Multi-level review processes (draft → Jack Elston → external partners)
 - Budget tracking for complex partnerships with multiple entities
-- Financial gate mechanisms for deferring large commitments (e.g., Spencer L manufacturing quote pending pitch outcomes)
+- Financial gate mechanisms for deferring large commitments (e.g., Spencer L manufacturing orders pending pitch outcomes)
+- Cost variance (COVAR) budget management and optimization strategies (e.g., Starlink approach identified as generating cost savings)
 
 ### Technical Integration Challenges
 - Payload integration (cameras, sensors, magnetometers, hydrophones, radiometry equipment)
 - Aircraft variant customization (folding wings, parachute tubes, cold-weather modifications, aerodynamic optimization)
 - Autonomy/avionics alignment with government requirements (NDAA compliance, GPS-denied navigation, terrain following)
 - Glider platform optimization for extended endurance (S4 configuration, LC-ISR airframe design)
-- Wing/tailset manufacturing partnerships and integration with custom fuselage designs
+- Wing/tailset manufacturing partnerships and integration with custom fuselage designs (e.g., Spencer L partnership requiring BST-designed tube fuselage, motor mounts, wing pylon interface)
+- Servo system standardization across platforms (MKS HV6130 servos matching S2 configuration standards)
 
 ### Partnership & Collaboration Management
 - Ongoing scope negotiations with international partners (LMUK as of October 2026)
 - Timeline synchronization across multiple stakeholders
 - Subcontractor coordination and role definition
 - Supplier quality verification and performance validation (e.g., Spencer L flight testing at various weights)
+- Risk mitigation through phased procurement approaches (initial test unit validation before full manufacturing commitment)
 
 ### Environmental & Operational Qualifications
 - Cold-weather operation requirements (-40°C, optional -55°C)
@@ -213,11 +258,14 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 - Extended duration and endurance profiles
 - Remote area operations
 - Low-cost ISR capability optimization
+- Sensor data streaming and real-time processing (ATR vs. FMV capability assessment)
 
 ### Pitch & Presentation Strategy
 - Compressed presentation formats (5-minute pitches for LC-ISR, Q&A sessions)
 - Timing optimization to allow for proposal development time (preference for Thursday vs. Tuesday LC-ISR pitch slot to gain additional preparation week)
 - Demo window scheduling and negotiation with program management
+- Collaborative Q&A preparation involving technical and proposal teams
+- Early customer requirement clarification through pitch discussions to inform downstream technical decisions
 
 ---
 
@@ -225,14 +273,23 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ### Shared Documents & Folders
 - **Google Drive folder** (October 27, 2026): Contains budget and draft meeting agenda for partnership coordination; location: https://drive.google.com/drive/folders/1aXrfLIr-ZFW9i5cYveByW0DRerX8SBzI?usp=drive_link
+- **LC-ISR Pitch Q&A Preparation Spreadsheet** (November 17, 2026): Collaborative document for team Q&A development; link provided by Maciej at 2026-11-17 13:09 UTC (docs.google.com/spreadsheets format); Jack Elston added updates November 17, 17:14 UTC
 
 ### Suppliers & Manufacturers
 - **Spencer L (Wing/Tailset Manufacturer)**: 
-  - Contact for LC-ISR wing/tailset manufacturing
-  - Quote delivery expected: Monday COB November 18, 2026
-  - First set delivery: mid-January 2027
-  - Remaining sets: March 2027
-  - Design specs: 4.5m span, 40lbs GTOW capacity, 15-20% efficiency improvement over Chilli baseline
+  - Primary supplier for LC-ISR aircraft
+  - Quote provided: November 17, 2026
+  - Full aircraft pricing (including NRE):
+    - 1 aircraft: $27,900 (delivered January 2027)
+    - 2 aircraft: $52,300 total
+    - 3 aircraft: $76,700 total
+  - Delivery timeline:
+    - First set (or aircraft): mid-January 2027
+    - Remaining sets: March 2027
+  - Design specs: 4.5m span, 40lbs GTOW capacity, 15-20% efficiency improvement over Chilli baseline, MKS HV6130 servos (x6)
+  - Manufacturing includes: full aircraft assembly, servo installation, wiring completion, NRE for new vertical stab design/tooling/layup schedule
+  - CAD delivery: within one week of November 17 for fuselage interface and motor mount design coordination
+  - Inventory note: Pre-made wing available but layup assessed as too light for LC-ISR weight specification
 
 ### Proposal Templates & Support
 - External editing/formatting support: Jed and Brian from KS (LC-ISR and DIU decks)
@@ -252,19 +309,26 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ## Recent Activity
 
-### November 15, 2026 (Latest)
-- **November 15 at 12:05-12:06 UTC**: Maciej provided detailed LC-ISR program update:
-  - 5-minute pitch scheduled for next week (Thursday preferred)
-  - Contacted Spencer L on Friday; quote expected Monday COB
-  - Wing/tailset specifications: 3 sets integrated with servos, 4 control surfaces (flaps + ailerons) + horizontal/vertical stabilizer = 6 servos (matching S2 configuration)
-  - Design specs: 4.5m span, 40lbs GTOW, 15-20% more efficient than Chilli (flight-tested at multiple weights)
-  - Delivery timeline: first set mid-January 2027, remainder by March 2027
-  - CAD to be provided within one week for fuselage interface and motor mount design
-  - Demo window: April-June 2027 (potential for later slot negotiation with Lisa Marie)
-  - Manufacturing approach: Spencer L designs wings/tail + tailset integration; BST designs tube fuselage + wing pylon + motor mounts
-- **November 15 at 12:26 UTC**: Jack Elston raised concern about committing to large purchases before pitch results
-- **November 15 at 12:28 UTC**: Maciej confirmed deferral strategy: will not authorize Spencer L manufacturing contract until after pitch decision received; Spencer L is primary near-term supplier commitment
-- **November 15 at 12:40 UTC**: Jack Elston confirmed Thursday timeslot preference over Tuesday to allow more preparation time
+### November 17, 2026 (Latest - Technical Architecture Decision Point)
+- **November 17 at 08:10 UTC**: Jack Elston noted new design and firmware/protocol approach with conservative estimates
+- **November 17 at 08:37-08:51 UTC**: Maciej presented Spencer L quote and pricing for LC-ISR aircraft:
+  - **Quote Summary**: 
+    - Full aircraft with servos installed and wiring: $24,400 (MKS HV6130 servos x6)
+    - NRE for new vertical stab design + tooling + layup schedule: $3,500
+    - Total first unit (January): $27,900
+    - Two aircraft: $52,300
+    - Three aircraft: $76,700
+  - **Supplier flexibility**: Spencer L willing to accept initial single-unit order with option to order additional units afterward
+  - **Inventory note**: Spencer L has pre-made wing but notes layup is too light for target weight specification
+  - **Assessment**: Maciej characterized pricing as "pretty decent" with significant time savings vs. internal fabrication
+- **November 17 at 08:57-08:59 UTC**: Jack Elston initiated custom board vs. Starlink architecture trade study:
+  - **Custom board approach**: Removes ~40-55 hours firmware/driver work and ~25-35 hours board work, requires full ground infrastructure and VPN/relay setup; total net ~300 hours; longer calendar time due to fabrication cycle; maintains full endurance
+  - **Starlink approach**: Eliminates custom board work (saves 40-55 hours) and driver work (saves 15-20 hours) but adds power integration (25-40W), SBC-autopilot bridge, ground-side software, mechanical mounting for ~1kg panel (25-40 hours), flight test validation; net total hours similar (~300 hours); calendar time 2-4 weeks shorter; loses 1-2 hours endurance; provides significant bandwidth increase
+  - **Bandwidth consideration**: Jack Elston noting work appears to focus on ATR (Automatic Target Recognition) vs. FMV (Full Motion Video), suggesting Starlink bandwidth may exceed actual requirements
+  - **Cost impact**: Maciej noted Starlink approach generates savings toward COVAR budget
+  - **Decision**: Deferred pending Thursday pitch; to be included in customer Q&A as "FMV vs. ATR" question to clarify actual requirements
+- **November 17 at 13:09 UTC**: Maciej created collaborative Google Drive spreadsheet for LC-ISR pitch Q&A preparation; team members to contribute questions and answers
+- **November 17 at 17:14 UTC**: Jack Elston added updates to Q&A spreadsheet
 
 ### November 9, 2026
 - **November 9 at 12:19 UTC**: Maciej announced DIU S4 proposal selection for in-person pitch phase. Confirmed as "low-cost ISR demo" configuration: S0 avionics loaded with batteries mounted on large glider aircraft to maximize flight time. Noted timeline for physical aircraft build is not imminent; focus currently on pitch preparation.
@@ -284,4 +348,4 @@ This channel tracks Black Swift Technologies' grant applications, funding pursui
 
 ---
 
-**Last Updated:** November 15, 2026
+**Last Updated:** November 17, 2026

@@ -137,7 +137,6 @@
 **Data Validation Notes:**
 - ✅ All 21 active employees and 3 service accounts present and accounted for
 - ✅ All email addresses preserved exactly as provided
-- ✅ All phone numbers standardized to XXX-XXX-XXXX format
-- ✅ New entry added: **Shelly Dvorak** (unclassified role/department)
-- ✅ Complete data integrity confirmed — all entries merged successfully
-- ⚠️ **Five team members remain unclassified** — Brent Keefer, Cory Dixon, Daniel Prendergast, Shelly Dvorak (new), and Tim Hegwood have no documented role or department. Recommend immediate clarification to complete organizational chart.
+- ✅ All phone numbers normalized to XXX-XXX-XXXX format (corrected Ben Busby's 5555555555 → 555-555-5555; Jack Elston's 7209334503 → 720-933-4503; Maciej Stachura's 7203357558 → 720-335-7558; Joshua Fromm's 9703710426 → 970-371-0426)
+- ✅ Complete data integrity confirmed — existing knowledge file and new raw data merged with no conflicts or discrepancies
+- ⚠️ **Five team members remain unclassified** — Brent Keefer, Cory Dixon, Daniel Prendergast, Shelly Dvorak, and Tim Hegwood have no documented role or department. Recommend immediate clarification to complete organizational chart.

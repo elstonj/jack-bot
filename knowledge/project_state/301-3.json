@@ -13,7 +13,7 @@
   },
   "contract": {
     "type": "unknown",
-    "number": "1305M225Q0064",
+    "number": null,
     "total_value": 1700000.0,
     "start_date": "2026-08-25",
     "end_date": "2026-08-25",
@@ -30,20 +30,20 @@
     "line_items": [
       {
         "category": "Labor",
-        "amount": 93481.0,
-        "description": "Engineering Tasks (NRE): Laser configuration updates, AirOps fields, Dual GPS for heading, 10Hz met data, Firmware/comms/UI customization, Extended endurance, Manufacturability improvements, Data buffering and re-transmission",
-        "source_doc": null
-      },
-      {
-        "category": "Materials",
-        "amount": 1700.0,
-        "description": "Materials for Engineering Tasks: Dual GPS ($1,000), Extended endurance battery tweaks ($200), Manufacturability improvements ($500)",
+        "amount": 109481.0,
+        "description": "Engineering Tasks (NRE): Laser configuration optimization (4,000), AirOps SA updates (2,000), Dual GPS for heading (28,000), 10Hz met data (4,000), Firmware/comms/UI customization (32,000), Extended endurance battery tweaks (12,000), Manufacturability improvements (18,000), Data buffering and re-transmission (11,481)",
         "source_doc": null
       },
       {
         "category": "Travel",
         "amount": 20852.0,
-        "description": "Clear Air Testing 2025 ($4,852) and Hurricane Flights 2025 ($16,000)",
+        "description": "Clear Air Testing 2025 (4,852), Hurricane Flights 2025 (16,000)",
+        "source_doc": null
+      },
+      {
+        "category": "Materials",
+        "amount": 1700.0,
+        "description": "Materials for Dual GPS (1,000), Extended endurance battery tweaks (200), Manufacturability improvements (500)",
         "source_doc": null
       }
     ],
@@ -52,19 +52,19 @@
         "amount": 538762.5,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
       "purchases": {
         "amount": 2168.52,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
       "other_qbo": {
         "amount": 428461.05,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-17"
+        "last_updated": "2026-11-18"
       },
       "total": 969392.07,
       "by_line_item": {}
@@ -72,7 +72,7 @@
     "committed": 0.0,
     "remaining": -837059.07,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-17T10:44:21Z"
+    "last_reconciled": "2026-11-18T10:47:31Z"
   },
   "milestones": [
     {
@@ -152,6 +152,6 @@
   "team": [],
   "risks": [],
   "overrides": [],
-  "last_full_rebuild": "2026-11-17T10:44:21Z",
+  "last_full_rebuild": "2026-11-18T10:47:31Z",
   "last_incremental_update": null
 }

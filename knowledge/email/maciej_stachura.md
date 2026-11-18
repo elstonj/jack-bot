@@ -1,101 +1,127 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 41 emails (Nov 16–17, 2026)
+- **Total messages scanned:** 67 emails across two data batches (Nov 16–17, 2026)
+  - Initial batch: 41 emails (Nov 16–17)
+  - New batch: 26 emails (Nov 17, primarily)
 - **Date range:** Nov 16–17, 2026 (2-day window)
-- **Volume:** Approximately 20–25 emails per day — significantly higher than previous reporting period
-- **Note:** Previous 3-day scan (Nov 14–16) showed 8 emails; this 2-day intensive burst suggests event-driven communication spikes (likely tied to LC-ISR deadline Nov 24 and hiring plan discussions)
+- **Volume:** Approximately 20–25 emails per day — sustained high intensity
+- **Note:** Concentration of activity on Nov 17 (morning 08:00–13:00 MST, then afternoon 16:00–18:00 MST) suggests back-to-back strategic meetings and decision cycles
 
 ## Key Correspondents
 
 ### Top Senders (to Maciej)
-1. **Jack Elston** (elstonj@blackswifttech.com) — dominant internal sender; 11+ emails including calendar invites, strategic decisions, meeting coordination
-2. **Ruiz-Reyes, Angel R** (angel.r.ruiz-reyes.civ@us.navy.mil) — NAWCAD/Navy; 3 emails on Option Period wrap-up
-3. **Krateo Sky team** — Jed Leonard, Brian Grubel, Sona Raziabeegum, Contact (contact@krateosky.com) — multiple threads on LC-ISR, GTM Review, WMO Presentation
-4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — internal; multiple cc's on Navy/DoD coordination
-5. **Spencer Lisenby** (spencer@dskinetic.com) — external vendor/supplier (airframe components: 4.5m wing, stabilizers)
-6. **Andrew Poberezhniuk** (andrew@karadagte.ch) — Kara Dag Technologies (Eurosatory meeting)
-7. **Leopard Power, Aya Tech, Huanglong PCB** — vendor/supplier emails (battery, PCBA)
-8. **Academic contacts:** Ellie Zhang (Stanford), vedulas@miamioh.edu (SAR research)
-9. **Grant Jacoby** (iamgrantjacoby@gmail.com) — external collaborator on Autonomous Drones for SAR
+1. **Jack Elston** (elstonj@blackswifttech.com) — strategic lead; continues to dominate with IMPORTANT-flagged emails on LC-ISR, Stanford research, SAR autonomy, government site visits
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — increasing email volume; handling external stakeholder responses (NOAA, Navy NAWCAD, Stanford coordination, Devis introductions)
+3. **Brian Grubel** (Brian@krateosky.com) — LC-ISR follow-up responses; real-time coordination on NAVAIR Nov 24 deadline
+4. **Dmitry Chulkov** (dmitry@basecam-electronics.com) — **new vendor contact**; BaseCam Electronics (payload stabilization); intro call scheduled Nov 17, 9am MST
+5. **Navy NAWCAD contacts:**
+   - **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — **NEW primary contact** for ARCTIC EDGE 27 (operational exercise)
+   - **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — continuing Option Period/LC-ISR threads
+6. **Spencer Lisenby** (spencer@dskinetic.com) — DS Kinetic airframe supplier; ongoing 4.5m wing component discussions
+7. **Tom Simcox** (tom.simcox@bartington.com) — **new technical contact**; Bartington (magnetic sensor board follow-up)
+8. **Ellie Zhang** (exzha@stanford.edu) — Stanford S2 simulation research; continued "Fly-by-Feel" collaboration
+9. **Grant Jacoby** (iamgrantjacoby@gmail.com) — Autonomous Drones for SAR (Jack coordinating)
+10. **Chidong Zhang** (chidong.zhang@noaa.gov) — NOAA Federal; S0™ VTOL customer discussions (Beck handling)
+11. **Pete Torrione** (pete@covar.com) — CoVar systems integration; draft SOW & requirements
 
 ### Outbound (Maciej initiating)
-- **Jack Elston** (direct response on LC-ISR NAVAIR requirements)
-- **Krateo Sky contacts** (Brian Grubel, Sona Raziabeegum — integrated planning)
+- **Brian Grubel** (Krateo Sky) — LC-ISR response coordination
+- **Spencer Lisenby** (DS Kinetic) — 4.5m wing component status
+- **Tom Simcox** (Bartington) — magnetic sensor board follow-up
+- **Dmitry Chulkov** (BaseCam Electronics) — payload stabilization inquiry
 
 ### Internal vs External
-- **Internal BST:** Jack Elston (dominant), Daniel Prendergast, Beck Cotter, Lynn Regnier, Cory Dixon
-- **External partners:** Krateo Sky (10+ emails), U.S. Navy (NAWCAD — Angel Ruiz-Reyes, Aaron Pyrah), U.S. Air Force (Russ Evans), UCSD (Anna Wilson)
-- **Vendors/suppliers:** Leopard Power, Aya Tech, Huanglong PCB, DS Kinetic (Spencer Lisenby), CoVar
-- **Academic:** Stanford (Ellie Zhang — S2 simulation), Miami University (SAR research)
-- **Consulting:** EKase Consulting (Ed Kase — PACOM/CENTCOM/TRANSCOM opportunity scouting)
+- **Internal BST:** Jack Elston, Beck Cotter, Daniel Prendergast
+- **External partners:** Krateo Sky (Brian Grubel ongoing), U.S. Navy (NAWCAD — Angel Ruiz-Reyes, **Anthony Brescia — NEW**)
+- **Government agencies:** NOAA (Chidong Zhang — S0 customer), U.S. Navy (ARCTIC EDGE 27 operational exercise)
+- **Vendors/suppliers:** 
+  - **New:** BaseCam Electronics (Dmitry Chulkov — payload gimbal/stabilization), Bartington (Tom Simcox — magnetometer board), Devis (Adam Rich — introductory meeting)
+  - **Continuing:** DS Kinetic (Spencer Lisenby), CoVar (Pete Torrione)
+- **Academic:** Stanford (Ellie Zhang), Murray State University (Bassil El Masri — **NEW**, UAS flux research), University of Washington (Grant Mitchell Litynski — research inquiry)
+- **Research community:** UW inquiry on lightweight UAV structures (via sales@blackswifttech.com)
 
 ## Topic Patterns
 
-### High-Priority Projects
-- **LC-ISR (NAVAIR)** — 7+ direct references; **Nov 24 deadline critical**; involves S4 platform; BST+Krateo Sky coordinated response
-- **S0 VTOL** — Russ Evans site visit scheduled (Nov 17); NOAA/government customer
-- **S2 platform** — Stanford collaboration on "Fly-by-Feel" simulation research
-- **WMO (World Meteorological Organization) Presentation** — joint Krateo Sky/BST initiative (11 participants)
-- **Hiring Plan** — multiple emails on strategic hiring; Jack Elston coordinating responses with Maciej, Cory Dixon, Lynn Regnier, Beck Cotter, Daniel Prendergast
+### High-Priority Projects (Nov 24 Deadline Critical)
+- **LC-ISR (NAVAIR)** — 2 direct emails (Brian Grubel, Maciej's response); S4 platform response coordination with Krateo Sky; **URGENT decision cycle**
+- **S2 Platform** — Stanford "Fly-by-Feel" simulation; Jack coordinating with Ellie Zhang; Beck handling internal support logistics
+- **S0™ VTOL** — NOAA Federal customer (Chidong Zhang); Beck managing stakeholder communication; active discussions ongoing
+- **ARCTIC EDGE 27** — **NEW operational exercise**; Anthony Brescia (NAWCAD) primary contact; indicates real-world Navy testing/validation opportunity
 
-### Government/DoD Contracts
-- **Option Period wrap-up** — NAWCAD (Navy contract completion discussions)
-- **April Test Event (Lakehurst)** — post-test coordination with Navy
-- **EI2027 Priority Scouting** — PACOM, CENTCOM, TRANSCOM capability gaps (Ed Kase consulting)
-- **Air Force coordination** — Russ Evans (AFLCMC/WLNE) on site visits
+### Government & Operational
+- **ARCTIC EDGE 27** — Navy operational exercise; suggests S-series platform deployment for field validation or capability demonstration
+- **UAS Flux Topos @Murphy's Pond** — 6/28 event coordination (Bassil El Masri, Murray State); environmental/scientific research application
+- **Site visits** — ongoing government customer engagement (NOAA, Navy, Air Force)
 
-### Supply Chain & Technical
-- **4.5m wing components** — DS Kinetic (Spencer Lisenby) — airframe supplier
-- **LiPo batteries** — Leopard Power follow-up (continuing from prior data)
-- **PCB/PCBA manufacturing** — Huanglong outreach
-- **Systems integration** — CoVar (Pete Torrione — SOW & requirements draft)
+### Supply Chain & Technical Integration
+- **4.5m wing components** — DS Kinetic (Spencer Lisenby) active coordination
+- **Payload stabilization (gimbal)** — BaseCam Electronics (Dmitry Chulkov) — **NEW integration**, intro call scheduled Nov 17, 9am MST
+- **Magnetic sensor board** — Bartington (Tom Simcox) — new technology partner
+- **Systems integration** — CoVar (Pete Torrione) — draft SOW advancing
+- **UW structures research** — potential collaborative/supply opportunity
 
-### Emerging/Business Development
-- **Eurosatory meeting** — Kara Dag Technologies (defense expo context)
-- **Autonomous Drones for SAR (Search & Rescue)** — Grant Jacoby, Miami University collaboration
-- **BST GTM (Go-To-Market) Review** — Krateo Sky meeting summary (Nov 16)
+### Business Development / Partnerships
+- **Devis introductory meeting** — Adam Rich (Devis); Beck Cotter receiving intro; unknown business line (possible manufacturing, software, or consulting)
+- **UW Research Inquiry** — Grant Mitchell Litynski via sales; lightweight UAV structures — potential R&D partnership or customer lead
 
 ## Communication Patterns
 
-- **Jack Elston as hub:** 11 emails in 2 days; initiating strategic decisions, coordinating across Navy, Air Force, Krateo Sky, and internal hiring
-- **Rapid-fire decision cycles:** Multiple IMPORTANT flags; suggests urgent project milestones (LC-ISR Nov 24 deadline driving intensity)
-- **Navy coordination pattern:** Angel Ruiz-Reyes (NAWCAD) copied on 3+ threads with Maciej + Pyrah + Elston; structured decision-making with government stakeholders
-- **Calendar integration:** Google Calendar notifications (Russ Evans site visit) suggests formal scheduling system in use
-- **Group meetings:** Hiring plan response discussion (Nov 17, 12pm MST), LC-ISR discussion (Nov 17, 11:30am MST) — back-to-back strategic meetings
-- **Automated/service emails:** Toggl Track (time tracking), Google Calendar, BST website form submission (low noise)
-- **External coordination pattern:** Krateo Sky as integration hub — 10+ team members (Sona, Brian, Bob Smith, Dipan Amin, Ariel Avitan, Jed Leonard, Lisa Marie Cheney, Pam Kermisch, Shelly Dvorak) on shared threads
+- **Morning decision cycles:** 08:00–10:00 MST cluster (Jack Elston initiating responses, Dmitry Chulkov intro call, Maciej's outbound to suppliers)
+- **Afternoon coordination:** 12:00–13:00 MST (LC-ISR urgency), 16:00–18:00 MST (stakeholder responses, Beck managing external comms)
+- **Beck Cotter as operations hub:** Increased volume handling external stakeholder comms (NOAA, Navy, Stanford, Devis); suggests Maciej increasingly focused on technical/supplier coordination while Beck manages customer relations
+- **Jack Elston as strategic decision-maker:** Initiating responses with academics (Stanford, Murray State), external collaborators (Grant Jacoby), and government contacts
+- **Multi-party threads:** ARCTIC EDGE 27 includes Ruiz-Reyes, Brescia, Jack, Beck, Maciej — structured gov't coordination
+- **Vendor intro calls:** Dmitry Chulkov (BaseCam) intro call Nov 17, 9am MST suggests active supplier evaluation/integration phase
+- **Automated/service emails:** Google Calendar (continuing), AT&T Business (marketing), list unsubscribe (Maciej managing email hygiene)
 
 ## Key Relationships
 
 ### Primary Internal Relationships
-- **Jack Elston** — boss/strategic lead; driving all major decisions, LC-ISR response, hiring plan, government coordination
-- **Daniel Prendergast** — technical lead on Navy/Air Force integration; handling systems architecture (CoVar SOW, test events)
-- **Beck Cotter, Lynn Regnier, Cory Dixon** — hiring plan core team; likely senior technical/operations staff
+- **Jack Elston** — strategic lead driving all government/academic outreach, LC-ISR response, research partnerships
+- **Beck Cotter** — operations/customer relations lead; increasing responsibility for stakeholder management (NOAA, Navy, Stanford, new vendors)
+- **Daniel Prendergast** — technical integration lead; handling systems architecture (CoVar, government site visits)
 
 ### Critical External Partnerships
-- **Krateo Sky** — strategic integration partner; 10+ team members engaged on LC-ISR, WMO, GTM review; weekly coordination evident
-- **U.S. Navy NAWCAD** — Angel Ruiz-Reyes (primary contact), Aaron Pyrah; Option Period contracts, test events (Lakehurst), ongoing technical feedback
-- **U.S. Air Force** — Russ Evans (AFLCMC/WLNE); S0 site visit scheduled
-- **Suppliers:** DS Kinetic (Spencer Lisenby — structural), Leopard Power/Aya Tech (batteries), Huanglong (PCB/PCBA), CoVar (systems integration)
 
-### Academic/Research Partners
-- **Stanford University** — Ellie Zhang; S2 simulation support for "Fly-by-Feel" research
-- **Miami University** — autonomous drone SAR collaboration (vedulas@miamioh.edu, Grant Jacoby)
-- **UCSD** — Anna Wilson (connected to Air Force site visit coordination)
+#### Government (Navy/NOAA)
+- **Anthony D. Brescia** (NAWCAD) — **NEW primary contact** for ARCTIC EDGE 27; suggests operational validation exercise for S-series platform
+- **Angel R. Ruiz-Reyes** (NAWCAD) — continuing LC-ISR, Option Period management
+- **Chidong Zhang** (NOAA Federal) — S0™ VTOL customer; active discussions
+
+#### Integration Partners
+- **Krateo Sky** (Brian Grubel) — LC-ISR response coordination; continued strategic integration
+- **CoVar** (Pete Torrione) — systems integration SOW advancing
+- **BaseCam Electronics** (Dmitry Chulkov) — **NEW supplier** for payload stabilization (gimbal systems); intro call indicates active evaluation
+
+#### Suppliers/Vendors
+- **DS Kinetic** (Spencer Lisenby) — airframe (4.5m wing, stabilizers)
+- **Bartington** (Tom Simcox) — magnetic sensor boards; new technical partnership
+- **Devis** (Adam Rich) — **NEW partner** (purpose TBD from metadata); Beck receiving intro
+- Continuing: Leopard Power, Aya Tech, Huanglong PCB, CoVar
+
+#### Academic/Research
+- **Stanford University** (Ellie Zhang) — S2 simulation "Fly-by-Feel" control research; advancing
+- **Murray State University** (Bassil El Masri) — UAS flux research; Murphy's Pond field work (6/28 event)
+- **University of Washington** (Grant Mitchell Litynski) — lightweight UAV structures inquiry via BST sales channel
+- **Miami University** — SAR autonomy research (continuing from prior data)
 
 ### Business Development Contacts
-- **Kara Dag Technologies** — Eurosatory defense expo (Andrew Poberezhniuk)
-- **EKase Consulting** — Ed Kase; scouting PACOM/CENTCOM/TRANSCOM opportunities for BST
+- **EKase Consulting** (Ed Kase) — opportunity scouting (from prior batch)
 
 ## Notable Observations
 
-- **LC-ISR deadline Nov 24 is driving organizational urgency** — 7+ coordinated emails, Jack Elston clearly mobilizing BST+Krateo resources; this is a top-priority NAVAIR contract
-- **Krateo Sky integration is deeper than previously evident** — 11-person WMO presentation, formal GTM review meetings, weekly synchronization; suggests strategic partnership or acquisition target
-- **Maciej's role appears to be senior engineering/program lead** — participating in NAVAIR requirements discussions, supplier coordination, government site visits, hiring decisions
-- **Navy relationship is multi-faceted** — Option Period completion, April test events, ongoing technical feedback from NAWCAD (Ruiz-Reyes, Pyrah); indicates mature existing contract
-- **Supply chain diversification underway** — multiple battery vendors (Leopard Power, Aya Tech), new PCBA partner (Huanglong), airframe supplier (DS Kinetic); suggests scaling production or hedging
-- **Academic research partnerships emerging** — Stanford (control systems), Miami University (SAR autonomy), UCSD (possibly control/optimization) — may indicate R&D pipeline or talent recruitment
-- **Hiring plan discussions are strategic** — back-to-back Nov 17 meetings with Jack Elston; "Response to Brian's Hiring Plan" suggests external partner (Brian Grubel/Krateo) input on BST staffing
-- **Government customer site visits active** — Russ Evans (S0), referenced December 2025 site visit (now Nov 2026 — may be rescheduled); customer engagement cadence is high
-- **Email volume spike corresponds to decision deadlines** — 41 emails in 2 days vs 8 in 3 days previously; suggests event-driven communication model (critical deadlines, board-level decisions)
+- **ARCTIC EDGE 27 is a significant new operational opportunity** — Anthony Brescia (NAWCAD primary) indicates this is a real-world Navy operational exercise; S-series platform likely being validated in Arctic conditions; suggests accelerated government engagement beyond LC-ISR contract
+- **Beck Cotter's role shifting toward operations/customer management** — handling NOAA, Navy, vendor introductions (Devis), Stanford coordination; Maciej increasingly focused on technical supplier integration
+- **New vendor integration phase active** — BaseCam Electronics (payload gimbal) and Bartington (magnetometer) suggest platform capability expansion (enhanced payload stabilization, magnetic anomaly detection); intro call scheduling indicates fast-track evaluation
+- **Devis partnership unknown context** — labeled "Introductory Meeting"; Adam Rich reaching out to Beck Cotter; warrants follow-up to determine business line
+- **Academic research partnerships expanding** — Murray State (Bassil El Masri) and UW (Grant Mitchell Litynski) in addition to Stanford; suggests R&D pipeline maturing or talent recruitment strategy
+- **Government customer engagement accelerating** — NOAA (S0), Navy (ARCTIC EDGE 27, LC-ISR), Air Force (prior data); multiple concurrent government validation/test activities suggest strong market traction
+- **Email volume remains high with intentional distribution** — Beck managing external relations, Jack driving strategic initiatives, Maciej coordinating technical integration; suggests organizational maturation of communication workflows
+- **Nov 24 LC-ISR deadline still driving urgency** — 2 direct references in new batch indicate ongoing response coordination with Krateo Sky
+- **Payload/sensor integration becoming key differentiator** — BaseCam (gimbal), Bartington (magnetometer), Stanford (AI control) all point toward advanced payload capability development
+- **UW structures inquiry suggests production/scaling need** — lightweight airframe manufacturing optimization likely needed to meet government demand
+
+---
+
+**Last Updated:** Nov 17, 2026 (18:40 UTC)

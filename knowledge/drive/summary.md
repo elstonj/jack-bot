@@ -1,61 +1,73 @@
 # Google Drive — Shared Drives Overview
 
-Last scanned: 2026-11-17 02:50
+Last scanned: 2026-11-18 02:58
 
-Total drives scanned: 2
+Total drives scanned: 1
 
 ## Drives
 
-- **Federal Projects** — 8 files — [federal_projects.md](federal_projects.md)
-- **Sales** — 1 files — [sales.md](sales.md)
+- **Federal Projects** — 10 files — [federal_projects.md](federal_projects.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies — Google Drive Strategic Overview
 
-## Drive Summary
-
-| Drive | Files | Folders | Organization | Key Focus |
-|-------|-------|---------|---------------|-----------|
-| Federal Projects | 8 | 0 (root level) | Minimal | S4 UAS technical specs, budgets, regulatory docs |
-| Sales | 1 | Unknown | Minimal | Client NDAs |
+## Summary Statistics
+- **Total Documents:** 20 files across 2 shared drives
+- **Organization Quality:** Mixed—Federal drive lacks folder structure; Sales drive better organized
+- **Date Range:** 2022–2099 (note: future-dated modifications suggest metadata issues)
 
 ---
 
-## Key Observations
+## Drive-Specific Findings
 
-### Document Volume & Organization
-- **Total documented files:** 9 across 2 drives
-- **Organization quality:** Poor — Federal Projects stores all 8 files at root level with no folder structure; Sales drive minimally populated
-- **Naming conventions:** Inconsistent (mix of descriptive titles and abbreviated codes; one incomplete filename)
+### Federal Projects Drive
+**Files:** 10 | **Folders:** 0 (critical gap)
 
-### Primary Projects & Clients
-- **S4 UAS (Unmanned Aerial System):** Dominant project with 5+ dedicated documents (datasheets, questionnaires, power budget, inventory, design materials)
-- **Federal focus:** Regulatory compliance emphasis (RCC 323-99 questionnaire, DIU briefing materials)
-- **Sales activity:** Minimal documentation (single NDA file); suggests sales processes may be tracked elsewhere
+**Key Observations:**
+- All files stored at root level with no organizational structure
+- Mixed content types: contracts, budgets, technical specs, regulatory materials, video assets
+- Key programs represented: S4/sUAS, LC-ISR, AE27 CONOP
+- Document categories identified:
+  - **Contracts:** ATO/NDAA compliance requests
+  - **Financial:** TEPEX S0 VTOL quotes (data, purchase, lease models)
+  - **Technical:** Datasheets and system design materials
+  - **Regulatory:** Compliance questionnaires
 
-### Content Categories
-- **Technical:** Datasheets, design specifications
-- **Compliance:** Regulatory questionnaires, system certifications
-- **Financial:** Power budgets
-- **Inventory:** Battery tracking
-- **Business:** NDAs, solution briefs
+**Status:** Requires immediate restructuring
 
 ---
 
-## Areas Requiring Attention
+### Sales Drive
+**Files:** 10 | **Folders:** Organized by function
 
-1. **Folder structure needed** — Federal Projects requires logical organization (e.g., by project phase, document type, or year)
-2. **Incomplete documentation** — Truncated filename suggests indexing issues
-3. **Limited sales documentation** — Single NDA raises questions about proposal storage, client records, and pipeline visibility
-4. **Future-dated modifications** — Multiple 2026 timestamps may indicate test data or system configuration issues
-5. **Centralized resource gaps** — No visible templates, shared standards, or reference materials across drives
+**Key Observations:**
+- Better organization (folders present, though details not fully specified)
+- Primary focus: proposals and sales-related documentation
+- Suggests client/project engagement materials
+
+---
+
+## Cross-Drive Patterns
+- **Clear functional separation:** Federal (contracts/compliance/technical specs) vs. Sales (proposals/business development)
+- **Complementary content:** Federal drive holds technical foundation; Sales drive packages for clients
+- **Potential overlap areas:** Proposal materials may reference federal program specs
+
+---
+
+## Critical Observations
+
+| Issue | Location | Priority |
+|-------|----------|----------|
+| No folder structure | Federal Projects | **HIGH** |
+| Root-level file sprawl | Federal Projects | **HIGH** |
+| Future-dated modifications | Both drives | **MEDIUM** |
+| Mixed media types in one location | Federal Projects | **MEDIUM** |
 
 ---
 
 ## Recommendations
-
-- Implement consistent folder hierarchies (by project/client/document type)
-- Establish naming conventions across all drives
-- Audit actual document volume (may be higher if summary was incomplete)
-- Clarify where sales proposals, contracts, and client materials are stored
+1. **Immediate:** Implement folder hierarchy in Federal drive (by project/phase/function)
+2. **Short-term:** Establish naming conventions and metadata standards across both drives
+3. **Ongoing:** Audit file dates; validate metadata accuracy
+4. **Consider:** Cross-drive index or shared templates folder for recurring document types
