@@ -5,7 +5,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 **Key participants:** Jack Elston (leadership), Joshua Fromm (hardware/shop lead), Meredith Needham (finance/admin), Parker Vollmer (systems/compliance), Dan Prendergast (soil moisture/research), Maciej Suwinski (VTOL/flight ops/project management), Sam Hild (firmware/electrical), Alex Lomis (mechanical/VTOL), Nate (aircraft builds), James Hannon (project management), Ben Busby (flight operations/QA), Beck Cotter (project coordination/procurement), Paige Smith (admin), Ethan Domagala (project coordination), Kareem (team member), Cory Dixon (facilities/logistics/HR coordination), Brian Sheffield (external contact), Sona (administrative/scheduling coordination), Spencer Hoehl (qualifications/compliance documentation), Lynn Regnier (finance administration), Ali Sulehria (finance/Deel administration), Robert Edson (team member), and numerous other engineers and support staff.
 
-**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 17, 2026) reflects ongoing facility management, project task coordination, operational support, procurement system coordination, and workplace comfort improvements.
+**Activity level:** High-volume channel with 3,435+ messages spanning from July 2020 through November 2026. Activity increased significantly starting in mid-2023 with more structured project management and formalized coordination processes. Continues through November 2026 with project refinements, flight operations coordination, NOAA testing, demo/flight scheduling, ongoing operational management, facility expansion, cross-organizational coordination with KS (partner organization), significant hiring expansion, enhanced qualifications tracking, export compliance management, administrative process refinement, active project milestone tracking, and formalized financial responsibility assignments. Most recent activity (November 18, 2026) reflects ongoing facility management, project task coordination, operational support, procurement system coordination, workplace comfort improvements, and team recognition for completed work.
 
 ---
 
@@ -51,8 +51,10 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **October 22, 2026:** Collapsing shelf detected by Joshua Fromm before it caused disaster. Status of repair/replacement not yet documented.
 - **November 4, 2026:** Production whiteboard damaged in shipping. Cory Dixon requested Jack Elston and team to provide link/invoice for return and replacement with undamaged unit.
 - **November 9, 2026:** Exterior windows scheduled to be cleaned by professional service on November 10, 2026. Meredith Needham coordinated scheduling notification. Dan Prendergast requested interior cleaning of "slimed window" by Joshua Fromm's desk be included in service scope (not yet confirmed if this was approved).
+- **November 10, 2026:** Exterior windows professionally cleaned. **Window cleaning completed successfully** on scheduled date (November 10, 2026).
 - **November 12, 2026:** Joshua Fromm queried whether someone posted information about pallet pickup availability. Notes that an individual may have arrived at wrong address, suggesting possible pallet disposal/recovery initiative underway (unclear if this was formal company posting or individual arrangement). Status of pallet disposition not documented.
 - **November 17, 2026:** Joshua Fromm raised lack of seating in back office/work area. Requested procurement of chairs for extended work sessions. Suggested IKEA stools as acceptable short-term solution if budget is constrained. Status of this request and procurement timeline not yet documented.
+- **November 18, 2026:** Dan Prendergast noted the "tree sap window" (window with tree sap residue that had been problematic—apparently the "slimed window" by Joshua Fromm's desk referenced November 9) **is now clean**. Positive acknowledgment that window cleaning service request was successfully completed including the interior cleaning addition that was requested.
 
 ### Procurement & Purchasing Process
 - **October 12, 2026:** Meredith Needham delegated credit card authority and purchasing approval to Beck Cotter during her absence. New process implemented:
@@ -64,6 +66,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Finance Responsibility Assignments
 - **November 3, 2026:** Lynn Regnier distributed comprehensive finance responsibilities spreadsheet listing all finance-related tasks and assigned owners. Formal documentation of delegated financial duties across finance team. Reflects organizational scaling and need for clear responsibility assignment as company grows.
+- **November 18, 2026:** Beck Cotter provided insurance documentation to "UH" (University of Hawaii or similar institutional partner). Team recognition and appreciation expressed for Beck's completion of this administrative task.
 
 ### Project Closeout & Asana Management
 - **October 26, 2026:** Maciej Suwinski initiated project closeout process in Asana, seeking status verification on six completed projects before archival:
@@ -125,12 +128,12 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ### Facility & Workplace Improvements (current/pending)
 - **Seating/Chairs for back office (November 17, 2026):** Joshua Fromm requested chairs for back office/work area where team members have been lacking seating for extended periods. Suggested IKEA stools as acceptable temporary solution. Procurement timeline and budget not yet documented. Needs assignment to procurement owner (likely Beck Cotter).
-- **Window cleaning service (November 9, 2026 scheduled):** Exterior windows to be professionally cleaned on November 10, 2026. Dan Prendergast has requested that interior cleaning of "slimed window" by Joshua Fromm's desk also be cleaned during service visit (status of this add-on request not yet confirmed as of November 9).
+- **Window cleaning service:** ✅ **COMPLETED** (November 10, 2026) - Exterior windows professionally cleaned. Interior "tree sap window" cleaning also completed per November 9 request confirmation (noted as clean by Dan Prendergast on November 18, 2026).
 - Back door locksmith service needed (September 18, 2026 identification; status unknown)
 - Roof leak repair follow-up (roofer scheduled for October 15 or 17, 2026; status unknown as of November 12)
 - Collapsing shelf repair/replacement (identified October 22, 2026; status unknown as of November 12)
 - HVAC air filter service follow-up (scheduled to return by October 24, 2026 for completion; status unknown as of November 12)
-- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 17.
+- **Production whiteboard replacement (November 4, 2026):** Cory Dixon requested Jack Elston and team to provide link/invoice for damaged whiteboard so it can be returned to vendor and replaced with undamaged unit. Jack Elston acknowledged request on November 4 but full response message cut off; no follow-up action documented as of November 18.
 - **Pallet pickup/disposal (November 12, 2026):** Joshua Fromm inquiring whether formal posting was made regarding pallet pickup availability. Suggests individual may have come to wrong address in attempt to pick up pallets. Status of pallet disposition unclear; no formal decision/action documented yet.
 
 ### Outstanding Financial Verifications (assigned to Meredith Needham/Beck Cotter, for project closeout)
@@ -155,10 +158,13 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Primary action:** Hazmat disposal appointment scheduled for December 1, 2026 at Boulder County facility
 - **Contingency consideration:** Develop alternative approach (residential submission via Boulder County employee) if December 1 appointment becomes too delayed or if disposal becomes more urgent
 
+### Insurance Documentation (assigned to Beck Cotter - COMPLETED)
+- **Status:** ✅ **COMPLETED** (November 18, 2026) - Beck Cotter provided insurance documentation to UH (institutional partner). Team acknowledged completion with appreciation.
+
 ### Weekly Task Updates (recurring, assigned to all team members)
 - **Frequency:** Friday afternoon/end of week for following week readiness; mid-week updates as needed for task completion tracking
 - **Responsibility:** All project leaders and team members must update Kanban board and Asana tasks to maintain current project status
-- **Next reminder:** November 12, 2026 by Maciej Suwinski; next update cycle expected for following week preparation (approximately November 20-21, 2026)
+- **Next reminder:** Expected for following week preparation (approximately November 20-21, 2026 or early the following week)
 
 ---
 
@@ -178,6 +184,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Boulder County Hazardous Waste Facility** - Hazmat disposal provider; appointment-only for business disposals; December 1, 2026 appointment scheduled
 - **Rippling** - HR/payroll system; recent changes contributed to Google Drive storage capacity issues (November 6, 2026)
 - **RMMA Hanger** - Remote facility where Robert Edson retrieves tools; used for equipment storage or maintenance operations (mentioned November 12, 2026)
+- **UH (University of Hawaii or similar institutional partner)** - Received insurance documentation from Beck Cotter (November 18, 2026)
 
 ---
 
@@ -185,7 +192,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 - **Project completion & closeout procedures** - Regular coordination on verifying project completion, invoice status, and proper archival
 - **Financial tracking & invoice management** - Ongoing emphasis on documenting invoice status before project closure; formalized delegation and responsibility assignment (as of November 3, 2026)
-- **Facility maintenance, infrastructure, and workplace comfort** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management, equipment replacement, window cleaning); proactive maintenance scheduling and follow-up coordination; attention to employee workspace comfort (seating, cleanliness, environmental conditions)
+- **Facility maintenance, infrastructure, and workplace comfort** - Continuous minor repairs and upgrades (HVAC, roof, doors, furniture, waste management, equipment replacement, window cleaning); proactive maintenance scheduling and follow-up coordination; attention to employee workspace comfort (seating, cleanliness, environmental conditions); recent completion of window cleaning service with positive team feedback
 - **Procurement & purchasing delegation** - Established process with Beck Cotter as central purchasing coordinator; streamlined approval processes; tracking damaged goods and initiating replacements; emphasis on keeping all relevant team members informed via email forwarding lists
 - **Compliance documentation** - Emphasis on qualifications, FAA requirements, hazmat disposal, and proper documentation practices
 - **Hiring & organizational scaling** - Significant expansion of team through Q4 2026; focus on filling skilled positions and onboarding new personnel
@@ -197,7 +204,7 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 - **Mid-week project status assessment** - Active monitoring of Kanban board throughout week to identify resource bottlenecks and adjust task scheduling
 - **Google Drive and organizational infrastructure management** - Storage capacity monitoring and allocation; system-level issue resolution under Jack Elston's oversight
 - **Slack workspace governance** - Managing channel proliferation through deletion/consolidation policies as organization scales (as of November 11, 2026)
-- **Team recognition and appreciation** - Joshua Fromm publicly acknowledging Beck Cotter's high-volume purchasing coordination efforts (November 13, 2026); recognition of team effort and contributions
+- **Team recognition and appreciation** - Joshua Fromm publicly acknowledging Beck Cotter's high-volume purchasing coordination efforts (November 13, 2026); Dan Prendergast and Beck Cotter expressing appreciation for completed work including insurance documentation and successful facility improvements (November 18, 2026); recognition of team effort and contributions reflects positive team culture
 
 ---
 
@@ -219,7 +226,11 @@ The operations channel serves as Black Swift Technologies' central hub for coord
 
 ## Recent Activity
 
-**November 17, 2026:**
+**November 18, 2026:**
+- **Dan Prendergast** (09:37) provided positive recognition and appreciation (taco emoji) to Joshua Fromm, noting that "the tree sap window is clean!" This confirms successful completion of the window cleaning service request from November 9, specifically the interior window cleaning addition (the "slimed window" by Joshua Fromm's desk). Window cleaning service completed successfully on November 10, 2026 with follow-through on the requested interior cleaning addition.
+- **Beck Cotter** (10:11) provided appreciation and taco emoji recognition to Joshua Fromm for submitting insurance documents to UH (University of Hawaii or similar institutional partner). Reflects successful completion of insurance documentation administrative task and positive team culture of recognizing work contributions.
+
+**November 17, 2026 (prior update):**
 - **Joshua Fromm** (11:58) raised lack of seating in back office/work area, noting the team has "been lacking for a long time now." Requested procurement of chairs to improve workspace comfort during extended work sessions. Suggested IKEA stools as acceptable temporary/budget-friendly solution. No response or procurement assignment documented yet. This represents proactive identification of workplace comfort and ergonomic needs affecting team productivity and work environment quality.
 
 **November 13, 2026 (prior update):**

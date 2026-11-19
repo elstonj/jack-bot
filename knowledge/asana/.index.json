@@ -182,10 +182,10 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 198,
+    "open": 200,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -224,7 +224,7 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-11-17",
+    "as_of": "2026-11-19",
     "completed": 10,
     "name": "[001-22] Fleet Maintenance",
     "open": 3,
@@ -476,10 +476,10 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-18",
-    "completed": 17,
+    "as_of": "2026-11-19",
+    "completed": 19,
     "name": "[600-1] SOCOM Pope",
-    "open": 63,
+    "open": 61,
     "window": "last 90 days"
   },
   "commercial_sales.md": {
@@ -518,7 +518,7 @@
     "window": "last 90 days"
   },
   "industrial_plan_execution_ip_baseline_m1_jul_2026.md": {
-    "as_of": "2026-11-18",
+    "as_of": "2026-11-19",
     "completed": 0,
     "name": "Industrial Plan Execution (IP baseline, M1 = Jul 2026)",
     "open": 128,

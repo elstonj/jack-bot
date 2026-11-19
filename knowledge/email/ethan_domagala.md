@@ -1,8 +1,9 @@
 # Ethan Domagala — Email Patterns
 
-Only 4 emails found in scanned period.
+Only 5 emails found in scanned period.
 
-- Tue, 17 Nov 2026 19:26:27 -0500: Your custom parts quote - action needed (from: Xometry <hello@mkt1.xometry.com>)
-- Tue, 17 Nov 2026 19:15:26 +0000 (UTC): 🚀 SuperNova Motors Just Landed! 🚀 (from: GetFPV <chloe@getfpv.com>)
-- Tue, 17 Nov 2026 11:38:38 -0700: Fwd: UW Research Inquiry – Potential Applications for Lightweight UAV Structures (from: Beck Cotter <beck.cotter@blackswifttech.com>)
-- Tue, 17 Nov 2026 17:05:28 +0000: The FIXAR 007 NG is now C3. Where does your aircraft stand? (from: "EU Drone Port™ 🇪🇺" <hey@eudroneport.com>)
+- Wed, 18 Nov 2026 19:26:31 -0500: Almost there - 1 more step until production (from: Xometry <hello@mkt1.xometry.com>)
+- Wed, 18 Nov 2026 19:47:57 +0000: Invitation: Lean Manufacturing Discussion @ Thu Nov 19, 2026 12:30pm - 1pm (MST) (Ethan Domagala) (from: Cory Dixon <cory.dixon@blackswifttech.com>)
+- Wed, 18 Nov 2026 12:01:17 -0500: Re: Your Recent Xometry 3D Printing Quote (from: Cameron Halpin <cameron.halpin@xometry.com>)
+- Wed, 18 Nov 2026 15:01:22 +0000 (UTC): (no subject) (from: Rasa from Toggl <support@toggl.com>)
+- Wed, 18 Nov 2026 14:52:00 +0000: Re: Telit Cinterion Cellular IoT and GNSS Modules for Black Swift's Scientific UAV Platforms (from: "Pia Dutta [External]" <Pia.Dutta@telit.com>)

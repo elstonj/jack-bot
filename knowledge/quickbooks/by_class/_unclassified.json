@@ -76,56 +76,56 @@
     "[925-05] Indirect Production and Supply Chain Labor"
   ],
   "period": {
-    "start": "2024-11-18",
-    "end": "2026-11-18"
+    "start": "2024-11-19",
+    "end": "2026-11-19"
   },
   "totals": {
     "revenue": 3707388.11,
-    "expenses": 4894720.39,
+    "expenses": 4889582.99,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "Indirect Cost:Payroll Expenses:Guaranteed Wages": 183006.89,
-      "Inventory Asset": 141487.57,
+      "Inventory Asset": 141600.4,
       "FRINGE:FR-Retirement Contributions": 133478.1,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 128621.3,
       "SALES & MARKETING:Recruiting": 112931.25,
-      "FACILITIES:FA-Rent Expense": 98738.35,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 97984.66,
+      "FACILITIES:FA-Rent Expense": 92780.99,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 84496.34,
       "FRINGE:FR-Employee Healthcare": 83636.55,
       "Prepaid Expenses": 77519.48,
       "Spark One Jack #3168": 70684.0,
-      "FACILITIES:FA-Shop Supplies": 52228.1,
-      "Indirect Cost:Software Expenses": 49744.71,
+      "FACILITIES:FA-Shop Supplies": 52281.08,
+      "Indirect Cost:Software Expenses": 49725.71,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "DIRECT COSTS:DC-Direct Material Purchases": 46878.38,
+      "DIRECT COSTS:DC-Direct Material Purchases": 46407.86,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "FACILITIES:FA-Office Supplies": 41921.75,
-      "FACILITIES:FA-Software Expenses": 40212.6,
+      "FACILITIES:FA-Software Expenses": 40452.11,
       "Fixed Assets:Equipment": 36584.68,
       "Accounts Payable (A/P)": 24360.18,
-      "UNALLOWABLE GA:UC-Meals & Entertainment": 21824.72,
+      "UNALLOWABLE GA:UC-Meals & Entertainment": 21936.1,
       "The Soil Moisture Company": 21450.0,
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18117.81,
       "Fraud Charges": 16008.36,
       "Indirect Cost:Insurance Exp": 14636.03,
-      "Indirect Cost:Meals and Entertainment": 14032.66,
+      "Indirect Cost:Meals and Entertainment": 13950.81,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
       "FACILITIES:FA-Insurance Expenses": 12199.97,
       "Indirect Cost:Office Expenses:Utilities Expense": 11970.87,
       "OVERHEAD:OH-Airfare": 11565.04,
+      "SALES & MARKETING:SM-Travel": 10920.43,
       "SALES & MARKETING:SM-Conferences/Seminars": 10643.6,
       "Indirect Cost:Payroll Expenses:Payroll Processing Fees": 10573.14,
-      "SALES & MARKETING:SM-Travel": 10401.02,
+      "FACILITIES:FA-Utilities Expense": 10157.37,
       "Indirect Cost:Supplies:Shop SuppliesX": 9969.65,
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:License, Permit, Misc Tax Exp": 9808.28,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
-      "FACILITIES:FA-Utilities Expense": 9573.35,
       "Interest Income": 9385.13,
       "GA-Business Development": 9380.12,
       "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 9290.87,
@@ -151,10 +151,10 @@
       "Indirect Cost:Internal Research and DevelopmentX": 1946.71,
       "DIRECT COSTS:DC-Direct Travel": 1366.78,
       "GENERAL & ADMINISTRATIVE:GA-Finance & Bank Charges": 1365.09,
-      "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 1207.34,
       "Other Receivables": 1020.0,
+      "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.": 966.42,
       "SALES & MARKETING:SM-Labor": 962.74,
-      "SALES & MARKETING:SM-Travel Meals": 942.79,
+      "SALES & MARKETING:SM-Travel Meals": 954.91,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 935.23,
       "Indirect Cost:Professional Fees (do not use)": 576.65,
       "Maciej Stachura WF Card 3168": 505.9,
@@ -2018,7 +2018,7 @@
       "attributed": 71867.63,
       "vendor": "Accordion Partners LLC",
       "customer": "",
-      "balance": 71867.63,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -4489,24 +4489,6 @@
           "description": "Second bi-monthly payment"
         }
       ]
-    },
-    {
-      "type": "Bill",
-      "date": "2024-11-18",
-      "doc_number": "",
-      "total": 5957.36,
-      "attributed": 5957.36,
-      "vendor": "Goose Creek Partners",
-      "customer": "",
-      "balance": 0.0,
-      "memo": "",
-      "lines": [
-        {
-          "amount": 5957.36,
-          "account": "FACILITIES:FA-Rent Expense",
-          "description": "December 2024 rent"
-        }
-      ]
     }
   ],
   "purchases": [
@@ -4553,6 +4535,175 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-17",
+      "doc_number": "",
+      "total": 55.0,
+      "attributed": 55.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "STARLINK INTERNET - 4617",
+      "lines": [
+        {
+          "amount": 55.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "STARLINK INTERNET - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-17",
+      "doc_number": "1117JELSTON",
+      "total": 52.25,
+      "attributed": 52.25,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For future S3 sales",
+      "lines": [
+        {
+          "amount": 11.81,
+          "account": "Inventory Asset",
+          "description": "Loctite Grease, lb8008, Conductive, 1 FL. oz. Tube"
+        },
+        {
+          "amount": 9.17,
+          "account": "Inventory Asset",
+          "description": "Brass Slotted Flat Head Screws, M2 x 0.4 mm Thread Size, 6 mm Long, packs of 50"
+        },
+        {
+          "amount": 12.61,
+          "account": "Inventory Asset",
+          "description": "Brass Pan Head Phillips Screws, M2 x 0.4 mm Thread, 6 mm Long, packs of 100"
+        },
+        {
+          "amount": 6.51,
+          "account": "Inventory Asset",
+          "description": "Slotted Brass Flat-Tip Set Screw, M2 x 0.4 mm Thread, 8 mm Long, packs of 10"
+        },
+        {
+          "amount": 11.7,
+          "account": "Inventory Asset",
+          "description": "Shipping"
+        },
+        {
+          "amount": 0.45,
+          "account": "Inventory Asset",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 26.99,
+      "attributed": 26.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*M26WL29Y3 - 4617",
+      "lines": [
+        {
+          "amount": 26.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "AMAZON MKTPL*M26WL29Y3 - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 105.0,
+      "attributed": 105.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DEN PUBLIC PARKING - 4617",
+      "lines": [
+        {
+          "amount": 105.0,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston trip to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 414.41,
+      "attributed": 414.41,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "MARRIOTT HOUSTON AIRPT - 4617",
+      "lines": [
+        {
+          "amount": 414.41,
+          "account": "SALES & MARKETING:SM-Travel",
+          "description": "J. Elston trip to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 12.12,
+      "attributed": 12.12,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IAH CS LITTLE PURSE - ECO - 4617",
+      "lines": [
+        {
+          "amount": 12.12,
+          "account": "SALES & MARKETING:SM-Travel Meals",
+          "description": "J. Elston trip to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 71.94,
+      "attributed": 71.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP SPINDRIFTBEVERAGE - 9613",
+      "lines": [
+        {
+          "amount": 71.94,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "SP SPINDRIFTBEVERAGE - 9613"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-16",
+      "doc_number": "",
+      "total": 39.44,
+      "attributed": 39.44,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SPO*THEPARKWAYCAFE - 9208",
+      "lines": [
+        {
+          "amount": 39.44,
+          "account": "UNALLOWABLE GA:UC-Meals & Entertainment",
+          "description": "SPO*THEPARKWAYCAFE - 9208"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-16",
       "doc_number": "",
       "total": 2436.0,
@@ -4589,6 +4740,24 @@
           "amount": 81.81,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-14",
+      "doc_number": "",
+      "total": 25.99,
+      "attributed": 25.99,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON MKTPL*2T8Z12OM3 - 4617",
+      "lines": [
+        {
+          "amount": 25.99,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Clear Safety Glasses Over Eyeglasses"
         }
       ]
     },
@@ -4643,6 +4812,24 @@
           "amount": 8.17,
           "account": "SALES & MARKETING:SM-Travel Meals",
           "description": "J. Elston to Mississippi for Air Force demo"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 60.58,
+      "attributed": 60.58,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Future S3 sales",
+      "lines": [
+        {
+          "amount": 60.58,
+          "account": "Inventory Asset",
+          "description": "for future S3 sales"
         }
       ]
     },
@@ -4904,6 +5091,42 @@
           "amount": 104.66,
           "account": "Inventory Asset",
           "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-12",
+      "doc_number": "",
+      "total": 184.51,
+      "attributed": 184.51,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET  ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI",
+      "lines": [
+        {
+          "amount": 184.51,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "AMAZON WEB SERVI TYPE INTERNET AMAZON WEB SERVI TYPE INTERNET  ID XXXXXX6352 DATA TELECHK XXXXXX9263 CO AMAZON WEB SERVI"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-12",
+      "doc_number": "",
+      "total": 584.02,
+      "attributed": 584.02,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY",
+      "lines": [
+        {
+          "amount": 584.02,
+          "account": "FACILITIES:FA-Utilities Expense",
+          "description": "COMCASTXFINITY TYPE CABLE SVCS COMCASTXFINITY TYPE CABLE SVCS  ID XXXXXX3249 DATA XXXXXX2278  CO COMCASTXFINITY"
         }
       ]
     },
@@ -5379,27 +5602,22 @@
       "type": "Purchase",
       "date": "2026-11-10",
       "doc_number": "5454",
-      "total": 9290.09,
-      "attributed": 9290.09,
+      "total": 8819.57,
+      "attributed": 8819.57,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "PayPal",
       "lines": [
         {
-          "amount": 4507.26,
+          "amount": 4400.16,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Teledyne FLIR Hadron 640R"
         },
         {
-          "amount": 4507.26,
+          "amount": 4400.16,
           "account": "DIRECT COSTS:DC-Direct Material Purchases",
           "description": "Teledyne FLIR Hadron 640R"
-        },
-        {
-          "amount": 256.32,
-          "account": "DIRECT COSTS:DC-Direct Material Purchases",
-          "description": "processing surcharge"
         },
         {
           "amount": 19.25,
@@ -57561,60 +57779,6 @@
           "amount": 38.88,
           "account": "Indirect Cost:Supplies:Office SuppliesX",
           "description": "Spindrift x 2 cases"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-18",
-      "doc_number": "",
-      "total": 81.85,
-      "attributed": 81.85,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "ROADHOUSE BOULDER DEPO   BOULDER      CO",
-      "lines": [
-        {
-          "amount": 81.85,
-          "account": "Indirect Cost:Meals and Entertainment",
-          "description": "ROADHOUSE BOULDER DEPO   BOULDER      CO"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-18",
-      "doc_number": "",
-      "total": 19.0,
-      "attributed": 19.0,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "NUTSHELL                 XXXXXX8808   MI",
-      "lines": [
-        {
-          "amount": 19.0,
-          "account": "Indirect Cost:Software Expenses",
-          "description": "NUTSHELL                 XXXXXX8808   MI"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-18",
-      "doc_number": "",
-      "total": 240.92,
-      "attributed": 240.92,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Dell Purchase ID: 2008386269832\n\nDiagnostics for Dell laptop (XPS 13 9315) - hard drive died, needs to be refurbished \nExpress Service Code: 4748729151\nService Tag: 26J9QV3",
-      "lines": [
-        {
-          "amount": 240.92,
-          "account": "Indirect Cost:Repairs and Maintenance:Equip Repairs & Maint.",
-          "description": "Payment for repair of laptop (motherboard)"
         }
       ]
     }

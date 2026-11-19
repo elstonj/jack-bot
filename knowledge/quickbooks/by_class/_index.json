@@ -1,14 +1,14 @@
 {
   "period": {
-    "start": "2024-11-18",
-    "end": "2026-11-18"
+    "start": "2024-11-19",
+    "end": "2026-11-19"
   },
-  "scanned_at": "2026-11-18",
+  "scanned_at": "2026-11-19",
   "projects": [
     {
       "project_code": "001-1",
       "revenue": 0.0,
-      "expenses": 11641.39,
+      "expenses": 11478.22,
       "invoice_count": 0,
       "bill_count": 2,
       "purchase_count": 87,
@@ -154,13 +154,13 @@
     },
     {
       "project_code": "018-1",
-      "revenue": 149146.6,
+      "revenue": 173725.88,
       "expenses": 26816.1,
       "invoice_count": 3,
       "bill_count": 5,
       "purchase_count": 72,
       "po_count": 0,
-      "payment_count": 2,
+      "payment_count": 3,
       "qbo_class_names": [
         "[018-1] Murphy's Pond CH4",
         "[018] Murray State University:[018-1] Murphy's Pond CH4"
@@ -251,10 +251,10 @@
     {
       "project_code": "300-3",
       "revenue": 1067375.0,
-      "expenses": 472366.21,
+      "expenses": 472432.58,
       "invoice_count": 12,
       "bill_count": 22,
-      "purchase_count": 327,
+      "purchase_count": 328,
       "po_count": 0,
       "payment_count": 9,
       "qbo_class_names": [
@@ -334,10 +334,10 @@
     {
       "project_code": "_unclassified",
       "revenue": 3707388.11,
-      "expenses": 4894720.39,
+      "expenses": 4889582.99,
       "invoice_count": 57,
-      "bill_count": 141,
-      "purchase_count": 2681,
+      "bill_count": 140,
+      "purchase_count": 2690,
       "po_count": 3,
       "payment_count": 57,
       "qbo_class_names": [

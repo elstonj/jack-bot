@@ -29,7 +29,7 @@
         "amount": 7375.0,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-18"
+        "last_updated": "2026-11-19"
       },
       "purchases": {
         "amount": 0.0,
@@ -41,7 +41,7 @@
         "amount": 7309.76,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-18"
+        "last_updated": "2026-11-19"
       },
       "total": 14684.76,
       "by_line_item": {}
@@ -49,7 +49,7 @@
     "committed": 0.0,
     "remaining": 7652.24,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-18T10:46:02Z"
+    "last_reconciled": "2026-11-19T10:43:48Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -89,12 +89,6 @@
     },
     {
       "source": "FEEDBACK",
-      "author": "Daniel Prendergast",
-      "date": "2026-10-19",
-      "text": "From Daniel Prendergast: <@U02L91J99KM> <@U07FN4QSNDN> <@U014ZL9FLE9> <@U0C2XPVQ7N2> I just want to put a process gap in the back of everyone's mind.  Currently we don't have a well-defined process for transitioning proposed system builds/deliveries into the production pipeline.  For example, Beck and I have been talking with LMUK for a few months to define our project with them, and on that project we will need to produce and deliver 2 x S0-AD with Magnetometer, 2 x S0-AD with Camera, and 2 x S"
-    },
-    {
-      "source": "FEEDBACK",
       "author": "Maciej",
       "date": "2026-10-27",
       "text": "From Maciej: <@U04CZK4K7P0> (and <@U06CCFTNBS6>), wanted to go through a small restructuring on Asana this week to try and hopefully simplify our active R&amp;D projects, provide better visibility, and better tie in with the Kanban board. We'll discuss tomorrow, but at a high level the plan will be:\n\n• *Two-level planning:* Asana tracks long-term milestones and upcoming weekly tasks; our existing physical Kanban board manages weekly engineering execution.\n• *6-month rolling milestone plan:* Each"
@@ -112,6 +106,6 @@
       "text": "From Jack: 1. Correct\n2. I believe so - but I don't know about the invoice\n3. <@U06KRHPQSRH> \n4. All are done (and now checked off)\n5. <@U06KRHPQSRH> \n6. <@U06KRHPQSRH> \nYes - please archive so we can always reference for what was assigned / completed / etc.  I do believe that tasks timing and assignments will eventually be very useful when using AI to generate these things automatically and we need training sets."
     }
   ],
-  "last_full_rebuild": "2026-11-18T10:46:02Z",
+  "last_full_rebuild": "2026-11-19T10:43:48Z",
   "last_incremental_update": null
 }

@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-18: 7564.2 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1690.6 h, Beck Cotter 1001.0 h, Stachura 462.3 h, Dan 429.0 h, Nate 122.0 h, Lynn Regnier 77.8 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Spencer Hoehl 18.4 h, Ali Sulehria 17.8 h, Sam Hild 10.5 h, Austin Vera 10.5 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
+_Computed from Toggl as of 2026-11-19: 7629.4 h total since 2020-01-01 — Meredith Needham 3603.0 h, Jack Elston 1696.1 h, Beck Cotter 1050.0 h, Stachura 464.5 h, Dan 429.0 h, Nate 122.0 h, Lynn Regnier 77.8 h, Ethan Domagala 57.9 h, Josh Fromm 45.0 h, Ali Sulehria 25.4 h, Spencer Hoehl 18.6 h, Sam Hild 11.1 h, Austin Vera 10.5 h, Parker 7.9 h, Alex 5.3 h, Kareem Ahmed 3.0 h, Tiffany Elston 2.5 h, Alec Mallinger 0.0 h._
 
 # [001-13] General Operations — Time Tracking
 
@@ -6,49 +6,51 @@ _Computed from Toggl as of 2026-11-18: 7564.2 h total since 2020-01-01 — Mered
 - **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total hours tracked:** 7,564.2 hours (since 2020-01-01)
+- **Total hours tracked:** 7,629.4 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Meredith Needham | 3,603.0 | 47.6% |
-| Jack Elston | 1,690.6 | 22.3% |
-| Beck Cotter | 1,001.0 | 13.2% |
-| Stachura | 462.3 | 6.1% |
-| Dan | 429.0 | 5.7% |
+| Meredith Needham | 3,603.0 | 47.2% |
+| Jack Elston | 1,696.1 | 22.2% |
+| Beck Cotter | 1,050.0 | 13.8% |
+| Stachura | 464.5 | 6.1% |
+| Dan | 429.0 | 5.6% |
 | Nate | 122.0 | 1.6% |
 | Lynn Regnier | 77.8 | 1.0% |
 | Ethan Domagala | 57.9 | 0.8% |
 | Josh Fromm | 45.0 | 0.6% |
-| Spencer Hoehl | 18.4 | 0.2% |
-| Ali Sulehria | 17.8 | 0.2% |
-| Others (8 team members) | 39.4 | 0.5% |
+| 9 others | 84.1 | 1.1% |
 
-**Primary contributors:** Meredith Needham (operations/admin focus), Jack Elston (communications and meetings), Beck Cotter (operations work)
+**Primary contributors:** Meredith Needham (operations/admin focus) and Jack Elston (communications and meetings).
 
 ## Activity Timeline
 
-### Work Patterns
-Recent entries show consistent operational activities:
+**Common work types (from recent entries):**
+- **Answering Emails** — Jack Elston's dominant activity; spans 50+ hours in sample
+- **Operations/Admin** — Meredith Needham's primary focus
+- **Various operations** — Beck Cotter; consistent 8-hour full-day blocks
+- **Undescribed work** — Dan, Stachura, and others; many entries lack descriptions
+- **Facility/Infrastructure** — Warehouse build-out, desk unloading, office furniture selection, conference system setup
+- **Internal meetings** — Weekly integration reviews, all-hands, business strategy meetings, PM support discussions
 
-- **Meredith Needham:** Regular Operations/Admin work (7.8h, 8.4h, 2.3h blocks)
-- **Jack Elston:** Dominated by email management (frequently 1–7h entries), supplemented by meetings (Weekly Integration Reviews, All-hands, strategy discussions)
-- **Beck Cotter:** Consistent 8-hour "various ops/operations" blocks
-- **Stachura & Dan:** Undocumented work (no descriptions provided)
-- **Specialized tasks:** Warehouse build-out (Ethan Domagala), office furniture selection (Josh Fromm), desk unloading
-
-### Common Activity Types
-- Answering Emails (Jack Elston's dominant activity)
-- Operations/Admin (Meredith Needham)
-- Various operations (Beck Cotter)
-- Meetings: BST Internal Updates, All-hands, Business Operations, Integration Reviews
-- Facility-related: Warehouse build-out, desk/furniture management
+**Work pattern observations:**
+- Beck Cotter logs consistent 8-hour full-day blocks labeled "various ops/operations"
+- Jack Elston splits time between email management and internal coordination/meetings
+- Multiple team members have undocumented hours (poor logging practices)
+- Operational work appears steady with no clear seasonality in recent entries
 
 ## Insights
 
-- **Email volume is significant:** Jack Elston logs substantial time on email (often 40%+ of his tracked hours in recent entries), suggesting high communication overhead
-- **Documentation gaps:** Beck Cotter, Stachura, and Dan have many entries with no description—improving logging would clarify their work
-- **Clear role division:** Meredith (strategic operations), Jack (communications/coordination), Beck (day-to-day operations)
-- **Non-linear team:** 18 people contribute sporadically; only top 5 account for 94.9% of hours
-- **Physical operations active:** Recent warehouse and office setup work suggests facility expansion or reorganization phase
+**Work composition:**
+- Heavy administrative burden on Meredith Needham and Jack Elston
+- Email management is a significant operational cost (Jack Elston)
+- Physical operations and facility management (warehouse, office setup) indicate growth/relocation activity
+- Many entries lack descriptive detail, limiting visibility into actual work types
+
+**Notable patterns:**
+- Concentration risk: Top 2 people account for ~70% of hours
+- Low billability despite substantial hours suggests overhead/infrastructure investment
+- Undescribed entries suggest inconsistent time-logging discipline (particularly Dan, Stachura, Beck Cotter)
+- Internal meeting load appears moderate but consistent

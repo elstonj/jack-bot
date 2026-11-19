@@ -1,127 +1,162 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 67 emails across two data batches (Nov 16–17, 2026)
+- **Total messages scanned:** 101 emails across three data batches (Nov 16–19, 2026)
   - Initial batch: 41 emails (Nov 16–17)
-  - New batch: 26 emails (Nov 17, primarily)
-- **Date range:** Nov 16–17, 2026 (2-day window)
+  - Second batch: 26 emails (Nov 17)
+  - Third batch: 34 emails (Nov 18–19)
+- **Date range:** Nov 16–19, 2026 (4-day window)
 - **Volume:** Approximately 20–25 emails per day — sustained high intensity
-- **Note:** Concentration of activity on Nov 17 (morning 08:00–13:00 MST, then afternoon 16:00–18:00 MST) suggests back-to-back strategic meetings and decision cycles
+- **Peak activity windows:** 
+  - Nov 17: 08:00–13:00 MST, 16:00–18:00 MST (back-to-back strategic meetings)
+  - Nov 18: 13:00–21:00 UTC (08:00–16:00 MST, continuous engagement across LC-ISR, S0-AD, and Stanford coordination)
+  - Nov 19: Early morning UTC activity (02:00–09:00 UTC / 19:00 Nov 18 – 02:00 Nov 19 MST)
 
 ## Key Correspondents
 
 ### Top Senders (to Maciej)
-1. **Jack Elston** (elstonj@blackswifttech.com) — strategic lead; continues to dominate with IMPORTANT-flagged emails on LC-ISR, Stanford research, SAR autonomy, government site visits
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — increasing email volume; handling external stakeholder responses (NOAA, Navy NAWCAD, Stanford coordination, Devis introductions)
-3. **Brian Grubel** (Brian@krateosky.com) — LC-ISR follow-up responses; real-time coordination on NAVAIR Nov 24 deadline
-4. **Dmitry Chulkov** (dmitry@basecam-electronics.com) — **new vendor contact**; BaseCam Electronics (payload stabilization); intro call scheduled Nov 17, 9am MST
-5. **Navy NAWCAD contacts:**
-   - **Anthony D. Brescia** (anthony.d.brescia.civ@us.navy.mil) — **NEW primary contact** for ARCTIC EDGE 27 (operational exercise)
-   - **Angel R. Ruiz-Reyes** (angel.r.ruiz-reyes.civ@us.navy.mil) — continuing Option Period/LC-ISR threads
-6. **Spencer Lisenby** (spencer@dskinetic.com) — DS Kinetic airframe supplier; ongoing 4.5m wing component discussions
-7. **Tom Simcox** (tom.simcox@bartington.com) — **new technical contact**; Bartington (magnetic sensor board follow-up)
-8. **Ellie Zhang** (exzha@stanford.edu) — Stanford S2 simulation research; continued "Fly-by-Feel" collaboration
-9. **Grant Jacoby** (iamgrantjacoby@gmail.com) — Autonomous Drones for SAR (Jack coordinating)
-10. **Chidong Zhang** (chidong.zhang@noaa.gov) — NOAA Federal; S0™ VTOL customer discussions (Beck handling)
-11. **Pete Torrione** (pete@covar.com) — CoVar systems integration; draft SOW & requirements
+1. **Jack Elston** (elstonj@blackswifttech.com) — strategic lead; continues to dominate with IMPORTANT-flagged emails; **NEW: Google Docs/Slides collaboration on SOCOM S0-AD Varia project** (multiple comment threads Nov 18)
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — operations/stakeholder management; **NEW: organizing Stanford S2 simulation meeting (Nov 19, 4pm MST)**; managing NOAA/Navy comms
+3. **Brian Grubel** (Brian@krateosky.com) — LC-ISR coordination; **ATR Thoughts thread escalation** (Nov 18–19); continues NAVAIR Nov 24 deadline follow-up
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW: direct SOCOM contacts** (Zachary Kachel, Michael Jagelewski — data launch coordination); Google Docs collaboration on S0-AD; ATR discussion with Krateo
+5. **Ellie Zhang** (exzha@stanford.edu) — **NEW: IMPORTANT flag** on S2 simulation research responses; engaged with Beck and Jack on research support logistics
+6. **Cory Dixon** (cory.dixon@blackswifttech.com) — **NEW correspondent**; recruiting (Josh Terry — Technical Project Manager application); copying Maciej on hiring decisions
+7. **Google Workspace/GitLab automated** — service notifications (Toggl Track time tracking, GitLab identity verification, Google Workspace spam alert)
+8. **Eric W Frew** (eric.frew@colorado.edu) — **NEW academic contact**; University of Colorado; NSF X-Labs submission update (ECHO project); CC'd with Jack Elston
 
-### Outbound (Maciej initiating)
-- **Brian Grubel** (Krateo Sky) — LC-ISR response coordination
-- **Spencer Lisenby** (DS Kinetic) — 4.5m wing component status
-- **Tom Simcox** (Bartington) — magnetic sensor board follow-up
-- **Dmitry Chulkov** (BaseCam Electronics) — payload stabilization inquiry
+### Top Recipients (Maciej initiating)
+- **Brian Grubel** (Krateo Sky) — LC-ISR response (Nov 18); ATR technical thoughts (Nov 18)
+- **Cory Dixon** (BST) — Technical Project Manager candidate feedback (Nov 18)
+- **Bob Smith** (Krateo Sky) — ATR Thoughts thread participation (Nov 18)
 
 ### Internal vs External
-- **Internal BST:** Jack Elston, Beck Cotter, Daniel Prendergast
-- **External partners:** Krateo Sky (Brian Grubel ongoing), U.S. Navy (NAWCAD — Angel Ruiz-Reyes, **Anthony Brescia — NEW**)
-- **Government agencies:** NOAA (Chidong Zhang — S0 customer), U.S. Navy (ARCTIC EDGE 27 operational exercise)
-- **Vendors/suppliers:** 
-  - **New:** BaseCam Electronics (Dmitry Chulkov — payload gimbal/stabilization), Bartington (Tom Simcox — magnetometer board), Devis (Adam Rich — introductory meeting)
-  - **Continuing:** DS Kinetic (Spencer Lisenby), CoVar (Pete Torrione)
-- **Academic:** Stanford (Ellie Zhang), Murray State University (Bassil El Masri — **NEW**, UAS flux research), University of Washington (Grant Mitchell Litynski — research inquiry)
-- **Research community:** UW inquiry on lightweight UAV structures (via sales@blackswifttech.com)
+- **Internal BST:** Jack Elston, Beck Cotter, Daniel Prendergast, Cory Dixon
+- **External partners (continuing):** 
+  - Krateo Sky (Brian Grubel, Bob Smith, LisaMarie Cheney, expanded team list on Oct 19 integration slides)
+- **Government agencies (expanding):**
+  - **NOAA:** Chidong Zhang (S0™ VTOL), Joe Cione (HFIP Annual Meeting — AOML Emerging Technologies team)
+  - **U.S. SOCOM:** Zachary O. Kachel (zachary.o.kachel.mil@socom.mil), Michael C. Jagelewski (michael.c.jagelewski.civ@socom.mil) — **NEW direct contacts**; data launch coordination
+  - Navy NAWCAD (continuing from prior batch)
+- **Academic/Research:**
+  - **Stanford University** (Ellie Zhang, fkchang@stanford.edu, tanaytopac@stanford.edu) — S2 simulation meeting scheduled
+  - **University of Colorado** (Eric Frew, Brian Argrow, Melissa Wagner, Christoffer Heckman, Zachary Sunberg) — NSF X-Labs (ECHO project)
+  - **University of Nebraska** (Adam Houston — ahouston2@unl.edu) — X-Labs collaboration
+- **Publishing/Communications:** Sage Journals (Kim Mitchell — AI/digital environmental monitoring collection)
+- **New vendors/integrators:** Dominik Kujawski (Needcode.io) — **NEW unmanned systems testing/integration contact**
+- **Service tools:** Toggl Track (time tracking), GitLab (code repository), Google Workspace
 
 ## Topic Patterns
 
-### High-Priority Projects (Nov 24 Deadline Critical)
-- **LC-ISR (NAVAIR)** — 2 direct emails (Brian Grubel, Maciej's response); S4 platform response coordination with Krateo Sky; **URGENT decision cycle**
-- **S2 Platform** — Stanford "Fly-by-Feel" simulation; Jack coordinating with Ellie Zhang; Beck handling internal support logistics
-- **S0™ VTOL** — NOAA Federal customer (Chidong Zhang); Beck managing stakeholder communication; active discussions ongoing
-- **ARCTIC EDGE 27** — **NEW operational exercise**; Anthony Brescia (NAWCAD) primary contact; indicates real-world Navy testing/validation opportunity
+### High-Priority / Urgent (Nov 24 Deadline Continuing)
+- **LC-ISR (NAVAIR)** — 3 direct references (Brian Grubel, Krateo team); continues active response coordination; **ATR (Automatic Target Recognition) technical discussion** escalating between BST and Krateo leadership (Bob Smith, Brian Grubel involvement)
 
-### Government & Operational
-- **ARCTIC EDGE 27** — Navy operational exercise; suggests S-series platform deployment for field validation or capability demonstration
-- **UAS Flux Topos @Murphy's Pond** — 6/28 event coordination (Bassil El Masri, Murray State); environmental/scientific research application
-- **Site visits** — ongoing government customer engagement (NOAA, Navy, Air Force)
+### **NEW: SOCOM S0-AD Project (Strategic Initiative)**
+- **SOCOM S0-AD Varia** — **multiple Google Docs/Slides collaboration threads** (Jack Elston, Daniel Prendergast, Maciej); appears to be strategic variant/capability expansion
+- **Agile Assembly Blueprint** — Google Slides presentation shared by Jack Elston (Nov 18); suggests manufacturing/assembly methodology documentation
+- **Direct SOCOM contacts:** Zachary Kachel, Michael Jagelewski coordinating "Data from Yesterday's Launch" — indicates active system testing/validation
+- **Likely high-classification/strategic focus** (tagged IMPORTANT across multiple collaborators)
 
-### Supply Chain & Technical Integration
-- **4.5m wing components** — DS Kinetic (Spencer Lisenby) active coordination
-- **Payload stabilization (gimbal)** — BaseCam Electronics (Dmitry Chulkov) — **NEW integration**, intro call scheduled Nov 17, 9am MST
-- **Magnetic sensor board** — Bartington (Tom Simcox) — new technology partner
-- **Systems integration** — CoVar (Pete Torrione) — draft SOW advancing
-- **UW structures research** — potential collaborative/supply opportunity
+### S2 Platform & Stanford Collaboration
+- **S2 simulation support for Stanford Fly-by-Feel research** — **meeting scheduled Nov 19, 4pm MST** (Maciej, Beck, Jack, Ellie Zhang, Stanford colleagues fkchang, tanaytopac); IMPORTANT flagged; advancing research collaboration logistical support
 
-### Business Development / Partnerships
-- **Devis introductory meeting** — Adam Rich (Devis); Beck Cotter receiving intro; unknown business line (possible manufacturing, software, or consulting)
-- **UW Research Inquiry** — Grant Mitchell Litynski via sales; lightweight UAV structures — potential R&D partnership or customer lead
+### S0™ VTOL Customer
+- **NOAA Federal** — Chidong Zhang continuing S0™ VTOL discussion (IMPORTANT); indicates active NOAA evaluation/procurement cycle
+
+### **NEW: Hiring/Organizational Growth**
+- **Technical Project Manager Application** — Josh Terry candidate; Cory Dixon routing through Maciej and Jack for review (IMPORTANT); suggests team expansion phase
+
+### **NEW: NSF Academic Partnership (X-Labs / ECHO)**
+- **ECHO NSF X-Labs submission update** — Eric Frew (CU Boulder) requesting update/coordination; multi-university team (CU Boulder, University of Nebraska); suggests BST providing UAS platform/data for NSF research initiative
+
+### Business Development / Manufacturing Scale
+- **Krateo Sky integration** — "Week of October 19th BST Integration Slides" (large team list from Krateo) — broad organizational alignment on BST-Krateo partnership; indicates production/supply chain coordination
+- **Needcode.io inquiry** — Dominik Kujawski ("Testing and integration for unmanned systems"); potential new technical services vendor
+
+### Publishing & Thought Leadership
+- **Sage Journals — AI and digital environmental monitoring collection** (Kim Mitchell); suggests editorial/publishing outreach related to BST's technology/research
 
 ## Communication Patterns
 
-- **Morning decision cycles:** 08:00–10:00 MST cluster (Jack Elston initiating responses, Dmitry Chulkov intro call, Maciej's outbound to suppliers)
-- **Afternoon coordination:** 12:00–13:00 MST (LC-ISR urgency), 16:00–18:00 MST (stakeholder responses, Beck managing external comms)
-- **Beck Cotter as operations hub:** Increased volume handling external stakeholder comms (NOAA, Navy, Stanford, Devis); suggests Maciej increasingly focused on technical/supplier coordination while Beck manages customer relations
-- **Jack Elston as strategic decision-maker:** Initiating responses with academics (Stanford, Murray State), external collaborators (Grant Jacoby), and government contacts
-- **Multi-party threads:** ARCTIC EDGE 27 includes Ruiz-Reyes, Brescia, Jack, Beck, Maciej — structured gov't coordination
-- **Vendor intro calls:** Dmitry Chulkov (BaseCam) intro call Nov 17, 9am MST suggests active supplier evaluation/integration phase
-- **Automated/service emails:** Google Calendar (continuing), AT&T Business (marketing), list unsubscribe (Maciej managing email hygiene)
+- **Collaborative document workflows dominating** — Google Docs/Slides comments from Jack Elston and Daniel Prendergast on S0-AD project indicate real-time collaborative strategy/planning (at least 4 doc comment notifications Nov 18)
+- **Strategic decision-making acceleration** — SOCOM contacts (Kachel, Jagelewski) indicate escalated government engagement; Daniel Prendergast directly coordinating with SOCOM
+- **Multi-party Krateo alignment** — large team email (Cory Dixon Nov 18) on BST Integration suggests organization-wide coordination phase; production/delivery cycle ramping
+- **Beck Cotter as meeting coordinator** — organizing Stanford S2 meeting (Nov 19) with Jack, Daniel, Maciej, and Stanford team; managing customer/academic engagement logistics
+- **Maciej increasingly involved in technical/ATR discussions** — direct participation in Krateo ATR strategy (initiating email to Bob Smith/Brian Grubel Nov 18); suggests technical problem-solving escalation
+- **Cory Dixon emerging as recruiter/HR channel** — forwarding Technical PM candidate to Maciej and Jack; indicates Maciej involved in hiring decisions
+- **Morning UTC activity shifting earlier** — Nov 19 early morning spike (02:00–09:00 UTC) suggests cross-timezone coordination (likely SOCOM or international partner engagement)
+- **Automated service tools active** — Toggl Track (time tracking), GitLab (code repository access), Google Workspace (collaboration platform) indicate structured project management/development workflows
 
 ## Key Relationships
 
 ### Primary Internal Relationships
-- **Jack Elston** — strategic lead driving all government/academic outreach, LC-ISR response, research partnerships
-- **Beck Cotter** — operations/customer relations lead; increasing responsibility for stakeholder management (NOAA, Navy, Stanford, new vendors)
-- **Daniel Prendergast** — technical integration lead; handling systems architecture (CoVar, government site visits)
+- **Jack Elston** — strategic lead driving SOCOM S0-AD project, Stanford collaboration, NSF partnership; real-time collaborative document work with Maciej
+- **Beck Cotter** — customer relations and meeting logistics; managing NOAA, Stanford, Navy touchpoints; emerging as operations hub
+- **Daniel Prendergast** — technical integration and **NEW SOCOM direct contact**; Google Docs collaborator on S0-AD; ATR strategy discussion
+- **Cory Dixon** — recruiting and hiring coordination; forwarding candidates for technical leadership roles
 
 ### Critical External Partnerships
 
-#### Government (Navy/NOAA)
-- **Anthony D. Brescia** (NAWCAD) — **NEW primary contact** for ARCTIC EDGE 27; suggests operational validation exercise for S-series platform
-- **Angel R. Ruiz-Reyes** (NAWCAD) — continuing LC-ISR, Option Period management
-- **Chidong Zhang** (NOAA Federal) — S0™ VTOL customer; active discussions
+#### Government (Strategic)
+- **SOCOM** — **NEW primary strategic relationship**
+  - **Zachary O. Kachel** (zachary.o.kachel.mil@socom.mil) — data/launch coordination
+  - **Michael C. Jagelewski** (michael.c.jagelewski.civ@socom.mil) — operations coordination
+  - Suggests S0-AD platform testing/validation cycle active
+- **NOAA Federal** — Chidong Zhang (S0™ VTOL customer); active procurement/evaluation
+- **Navy NAWCAD** (continuing) — Angel Ruiz-Reyes, Anthony Brescia (ARCTIC EDGE 27)
 
-#### Integration Partners
-- **Krateo Sky** (Brian Grubel) — LC-ISR response coordination; continued strategic integration
-- **CoVar** (Pete Torrione) — systems integration SOW advancing
-- **BaseCam Electronics** (Dmitry Chulkov) — **NEW supplier** for payload stabilization (gimbal systems); intro call indicates active evaluation
+#### Krateo Sky (Strategic Integration Partner)
+- **Brian Grubel** — primary technical contact; LC-ISR, ATR technical strategy
+- **Bob Smith** — leadership/decision-making on ATR and integration strategy
+- **LisaMarie Cheney** — operations coordination
+- **Expanded team** — large Oct 19 integration meeting suggests organization-wide supply chain/production alignment
 
-#### Suppliers/Vendors
-- **DS Kinetic** (Spencer Lisenby) — airframe (4.5m wing, stabilizers)
-- **Bartington** (Tom Simcox) — magnetic sensor boards; new technical partnership
-- **Devis** (Adam Rich) — **NEW partner** (purpose TBD from metadata); Beck receiving intro
-- Continuing: Leopard Power, Aya Tech, Huanglong PCB, CoVar
+#### Academic & NSF Research
+- **Stanford University**
+  - **Ellie Zhang** (exzha@stanford.edu) — S2 "Fly-by-Feel" simulation research; primary contact
+  - **F.K. Chang, Tanay Topac** (fkchang@stanford.edu, tanaytopac@stanford.edu) — research collaboration
+- **University of Colorado (ECHO NSF X-Labs)**
+  - **Eric W. Frew** (eric.frew@colorado.edu) — project lead; coordinating multi-university team
+  - **Brian Argrow, Melissa Wagner, Christoffer Heckman, Zachary Sunberg** — CU research team
+- **University of Nebraska** — Adam Houston (ahouston2@unl.edu) — X-Labs partner
+- **NOAA Academic Partnership** — Joe Cione (joe.cione@noaa.gov); AOML Emerging Technologies team
 
-#### Academic/Research
-- **Stanford University** (Ellie Zhang) — S2 simulation "Fly-by-Feel" control research; advancing
-- **Murray State University** (Bassil El Masri) — UAS flux research; Murphy's Pond field work (6/28 event)
-- **University of Washington** (Grant Mitchell Litynski) — lightweight UAV structures inquiry via BST sales channel
-- **Miami University** — SAR autonomy research (continuing from prior data)
+#### Technical Services / Integrators
+- **Needcode.io** — **NEW vendor contact** (Dominik Kujawski); testing and integration services for unmanned systems
 
-### Business Development Contacts
-- **EKase Consulting** (Ed Kase) — opportunity scouting (from prior batch)
+### Continuing Relationships
+- Krateo Sky (Brian Grubel, Bob Smith) — LC-ISR, ATR, production integration
+- DS Kinetic (Spencer Lisenby) — airframe/wing components
+- Bartington (Tom Simcox) — magnetometer boards
+- BaseCam Electronics (Dmitry Chulkov) — payload stabilization
+- CoVar (Pete Torrione) — systems integration
+- NOAA contacts (Chidong Zhang) — S0™ VTOL
 
 ## Notable Observations
 
-- **ARCTIC EDGE 27 is a significant new operational opportunity** — Anthony Brescia (NAWCAD primary) indicates this is a real-world Navy operational exercise; S-series platform likely being validated in Arctic conditions; suggests accelerated government engagement beyond LC-ISR contract
-- **Beck Cotter's role shifting toward operations/customer management** — handling NOAA, Navy, vendor introductions (Devis), Stanford coordination; Maciej increasingly focused on technical supplier integration
-- **New vendor integration phase active** — BaseCam Electronics (payload gimbal) and Bartington (magnetometer) suggest platform capability expansion (enhanced payload stabilization, magnetic anomaly detection); intro call scheduling indicates fast-track evaluation
-- **Devis partnership unknown context** — labeled "Introductory Meeting"; Adam Rich reaching out to Beck Cotter; warrants follow-up to determine business line
-- **Academic research partnerships expanding** — Murray State (Bassil El Masri) and UW (Grant Mitchell Litynski) in addition to Stanford; suggests R&D pipeline maturing or talent recruitment strategy
-- **Government customer engagement accelerating** — NOAA (S0), Navy (ARCTIC EDGE 27, LC-ISR), Air Force (prior data); multiple concurrent government validation/test activities suggest strong market traction
-- **Email volume remains high with intentional distribution** — Beck managing external relations, Jack driving strategic initiatives, Maciej coordinating technical integration; suggests organizational maturation of communication workflows
-- **Nov 24 LC-ISR deadline still driving urgency** — 2 direct references in new batch indicate ongoing response coordination with Krateo Sky
-- **Payload/sensor integration becoming key differentiator** — BaseCam (gimbal), Bartington (magnetometer), Stanford (AI control) all point toward advanced payload capability development
-- **UW structures inquiry suggests production/scaling need** — lightweight airframe manufacturing optimization likely needed to meet government demand
+- **SOCOM S0-AD is now a primary strategic initiative** — multiple Google Docs/Slides collaborations, direct SOCOM contacts (Kachel, Jagelewski), "Agile Assembly Blueprint" documentation suggest this is competing with or complementing LC-ISR as a government priority; **likely high-value contract vehicle**
+
+- **Daniel Prendergast's role expanding significantly** — now directly interfacing with SOCOM (Kachel, Jagelewski), collaborating on S0-AD strategy docs, participating in ATR discussions; suggests promotion/expanded authority in technical/government relations
+
+- **Krateo Sky partnership maturing into production phase** — large org-wide integration meeting ("Week of Oct 19") with 20+ Krateo attendees and multiple BST team members (Jack, Maciej, Daniel, Joshua Fromm, Meredith Needham, Beck) indicates supply chain/manufacturing coordination; ATR technical depth suggests capability optimization underway
+
+- **NSF X-Labs (ECHO) is emerging opportunity** — multi-university collaboration (CU, Nebraska) requesting BST coordination; suggests UAS platforms being leveraged for federally-funded environmental/climate research; potential revenue and thought leadership source
+
+- **Stanford S2 simulation meeting confirms ongoing research partnership** — Nov 19 scheduled meeting with Ellie Zhang and Stanford team indicates active technical collaboration on AI/autonomy; "Fly-by-Feel" control research advancing
+
+- **Organizational hiring underway** — Josh Terry (Technical Project Manager) candidate being routed through Maciej/Jack indicates team expansion; likely supporting production ramp or new program management needs
+
+- **New technical services vendor (Needcode.io) under evaluation** — Dominik Kujawski outreach on Nov 19 suggests assessment of testing/integration partner capabilities; may be related to Krateo production or S0-AD validation
+
+- **Publishing/thought leadership strategy evident** — Sage Journals editorial contact (Kim Mitchell) suggests BST exploring publication/collection articles on AI and environmental monitoring; aligns with NOAA/HFIP/academic partnerships
+
+- **NOAA Emerging Technologies team engagement** — Joe Cione's HFIP (Hurricane Forecast Improvement Project) Annual Meeting forward suggests BST is embedded in NOAA's emerging tech ecosystem; potential for NOAA funding/partnerships beyond S0™ VTOL
+
+- **ATR (Automatic Target Recognition) becoming technical differentiator** — Bob Smith (Krateo leadership) and Brian Grubel intensive discussion on ATR thoughts/strategy (multiple IMPORTANT flags); suggests LC-ISR competition is driving capability race; Maciej's direct involvement indicates he's leading technical response
+
+- **High email volume concentrated around strategic coordination** — Nov 18 peak reflects simultaneous management of SOCOM (S0-AD), Krateo (ATR/LC-ISR), Stanford (research), and hiring decisions; suggests Maciej is now a **key integrator between technical, government, and partner teams**
+
+- **Git/DevOps tooling active** — GitLab identity verification suggests codebase/repository access; indicates active software development/autonomy algorithm work alongside hardware integration
 
 ---
 
-**Last Updated:** Nov 17, 2026 (18:40 UTC)
+**Last Updated:** Nov 19, 2026 (09:20 UTC)

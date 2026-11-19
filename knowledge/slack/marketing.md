@@ -1,11 +1,11 @@
 # #marketing
 
 ## Overview
-The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, and conference submissions. The channel shows active collaboration between marketing, product, and leadership teams.
+The #marketing channel is the central hub for Black Swift Technologies' marketing strategy, content development, and external communications. It covers website content management, collateral creation, press releases, social media, promotional campaigns, trade show strategy, conference submissions, and presentation support for business development. The channel shows active collaboration between marketing, product, leadership, and business development teams.
 
-**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly (marketing/collateral/events)
+**Key participants:** Jack Elston (leadership/strategy), Parker Vollmer (marketing), Sophia Henkels (content/web), Paige Smith (marketing/web), Alex Lomis (video/technical), Beck Cotter, Kareem, Dan Prendergast, Maciej, Brody Basset (external contact - US Commercial Service), Rob Marciano (external contact - media/video producer), WeatherNation (external contact - media partner), Sona (external contact - trade show/conference coordinator), Hadley (HR - careers page content), Ben Busby (product/engineering), Shelly (marketing/collateral/events), Moe (business development/proposal development), Ariel (business development), Josh Waldman (team member for welcome profile)
 
-**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 17, 2026) shows continued active engagement with trade show preparation and collateral design.
+**Activity level:** High frequency discussions across June 2024-November 2026 period, with multiple concurrent projects in various stages. Most recent activity (November 19, 2026) shows continued active engagement with trade show preparation, Swiss Federal Office of Meteorology presentation support, and collaborative slide review for client proposals. Channel shows shift toward supporting business development presentations and customer-specific use case documentation.
 
 ---
 
@@ -129,30 +129,73 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - **Designer's deliverables:** Jack provided two versions of bird outline—one more accurate technical rendering and one stylized version matching aircraft plan form for Shelly to implement
 - **Descriptions finalized:** Text for S0 VTOL and S3 descriptions incorporated into final design (November 17, 2026)
 
+### Swiss Federal Office of Meteorology & Climatology Presentation Slide Accuracy Review (November 18-19, 2026)
+- **Presentation context:** Moe and Ariel preparing follow-up presentation deck for Swiss Federal Office of Meteorology and Climatology (MeteoSwiss) following ADIPEC conference discussion
+- **Slide 1 - Precision Execution Cycle:**
+  - **Issue identified:** BST doesn't run Sensitivity Analysis or Data Assimilation internally; these are partner/customer responsibility
+  - **Correction:** Changed language from "Sensitivity Analysis / Data Assimilation" to "Partner models identify high-uncertainty zones" and "Assimilate into forecast models to improve initial conditions"
+  - **Liability concern:** Phrase "site safety decisions" creates liability exposure; changed to "Decision-ready atmospheric data to inform go/no-go calls"
+  - **Model bias language:** "Correct regional model biases" overstates capability; assimilation improves starting state rather than fixing model bias
+  
+- **Slide 2 - Anytime Deployment:**
+  - **Issue identified:** Current S0 VTOL operations require pilot on-site; automated BVLOS (Beyond Visual Line of Sight) operations not yet certified in Switzerland despite Meteomatics precedent
+  - **Correction:** Acknowledge certification status and that automated deployment is "certifiable" but not yet completed by BST
+  - Jack began providing comprehensive feedback (message cut off at "Also, scheduled automate...")
+
+- **Competitive intelligence gathered:** Jack identified Meteomatics as direct Swiss competitor; they operate three UAV lines with established BVLOS operations in Switzerland
+  - Shelly coordinated follow-up research on Meteomatics capabilities and shared with Moe via Teams for pre-meeting preparation
+
+- **Approval process:** Shelly received feedback, implemented corrections, conducted competitive research, and provided revised slides to Moe with background briefing on Meteomatics for strategic advantage in customer meeting
+
 ---
 
 ## Action Items & Commitments
 
-### Outstanding Items
+### Outstanding Items (Pre-November 18)
 - Update marketing copy with accurate SBIR award count (17 Phase I, 8 Phase II total) — awaiting implementation (noted May 1, 2026)
 - Prepare S3 launch marketing materials and messaging (S2 EOL status update needed) — timing dependent on S3 release date (noted May 6, 2026)
 - Finalize S0 VTOL wildfire visualizer video captions for approval (noted May 8, 2026)
 
-### AGU Conference Logistics (November 17, 2026)
-- **AGU hotel reservations:** Shelly requesting confirmation from team member (U02L91J99KM) that hotel reservations finalized under room block — **deadline: November 18, 2026** (last day to book at room block rate) (November 17, 20:17)
+### AGU Conference Logistics (November 17-18, 2026)
+- **AGU hotel reservations:** Shelly requesting confirmation from team member that hotel reservations finalized under room block — **deadline: November 18, 2026** (last day to book at room block rate) (November 17, 20:17) — **COMPLETED** (noted as urgent, deadline passed November 18)
 - **QR code tabletop sign:** Shelly to implement bird outline (technical and/or stylized version) and platform images in final design per Jack's approval (November 17, 21:33)
 
-### Recent Administrative Tasks (November 16, 2026)
-- **New BST account access:** Jack reached out to team member regarding setup and troubleshooting
-  - Team member (Shelly) confirmed acknowledgment
+### Krateo Gaia Design Tool Integration (November 18, 2026)
+- **Assigned to:** Shelly and Douglas (Krateo contact)
+- **Task:** Add S0 VTOL and S3 platform images into Krateo's Gaia design tool for more accurate design element generation
+- **Purpose:** Improve quality of design options automatically generated from Gaia when creating conference materials and marketing collateral
+- **Status:** In progress (Shelly seeking Douglas's availability/approval)
+- **Jack's support:** Offered to help train/optimize Gaia once he receives access (November 18, 09:21)
+
+### Swiss Federal Office of Meteorology Presentation Development (November 18-19, 2026)
+- **Assigned to:** Moe and Ariel (business development)
+- **Status:** Presentation deck in development for follow-up meeting with MeteoSwiss post-ADIPEC discussion
+- **Marketing support provided by Shelly:**
+  - Three slides on S0 VTOL weather use cases (vertical atmospheric readings, repeatable sampling patterns, benefits summary) reviewed for accuracy with team feedback
+  - Additional S3 slides in preparation
+  - Competitive intelligence on Meteomatics gathered and shared via Teams
+  - Jack's detailed technical feedback on slide 1 (Precision Execution Cycle) and partial feedback on slide 2 (Anytime Deployment) provided
+- **Outstanding:** Complete implementation of Jack's slide revisions; finalize S3 slides; deliver final deck to Moe
+
+### Team Member Welcome Profile Development (November 18, 2026)
+- **Context:** Shelly attempting to solicit new team member for first "welcome profile" (appears to be part of ongoing employee spotlight/profile program Jack mentioned wanting to work through everyone)
+- **Initial plan:** Request during internal meeting (moved to larger space without video conferencing Nov 18)
+- **Assigned suggestion:** Jack recommended starting with Josh Waldman as first profile subject
+- **Status:** Shelly to reach out to Josh separately to coordinate profile content/interview
+- **Long-term goal:** Eventually create welcome profiles for entire team; Jack doesn't care about order
+
+### Recent Administrative Tasks (November 16-18, 2026)
+- **New BST account access:** Jack reached out to team members regarding setup and troubleshooting (November 16)
 - **LinkedIn account support:** Jack providing guidance on LinkedIn platform
 - **Google Ads invite:** Jack resent Google Ads invitation to team
 
 ---
 
 ## Client & External References
+- **Swiss Federal Office of Meteorology and Climatology (MeteoSwiss):** Active prospect; follow-up presentation being prepared by Moe and Ariel post-ADIPEC conference discussion (November 18-19, 2026)
 - **Nexus:** Potential client for weather data collection services (day-rate pricing presented, April 20, 2026)
-- **Krateo:** Conference display partner for 3D holographic fan displays (April 20, 2026)
+- **Krateo:** Conference display partner for 3D holographic fan displays; operates Gaia design tool for automated design generation (April 20, 2026; expanded November 18, 2026)
+- **Meteomatics:** Direct Swiss competitor (noted November 18, 2026) — operates three UAV lines with established BVLOS operations in Switzerland; competitive intelligence provided to Moe/Ariel
 - Brody Basset (US Commercial Service contact)
 - Rob Marciano (external contact - media/video producer)
 - WeatherNation (external contact - media partner)
@@ -170,43 +213,69 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - Portfolio and credentials documentation accuracy
 - Video and multimedia content production and approval
 - Administrative system and account setup coordination
-- Trade show preparation and collateral design (AGU conference 2026)
+- Trade show preparation and collateral design (AGU conference 2026, completed; Swiss Federal meeting prep ongoing)
+- **NEW (November 2026):** Business development presentation support with technical accuracy review and competitive intelligence gathering
+- **NEW (November 2026):** Integration with partner design tools (Gaia) for automated marketing collateral generation
+- **NEW (November 2026):** Employee spotlight/welcome profile program execution
 
 ---
 
 ## Important Resources
 - SBIR.gov portfolio page: https://www.sbir.gov/portfolio/404583
+- Meteomatics.com: https://www.meteomatics.com/ (competitive intelligence resource)
 - OnShape models (source for 3D renderings)
 - Google Drive and Google Docs (collaborative content development)
+- Krateo Gaia design tool (automated design element generation for conferences/collateral)
 - Cloudflare (website platform evaluation)
 - WordPress (current website platform)
 - Google Ads (advertising platform)
 - LinkedIn (social media and advertising channel)
+- Teams (internal communication for sensitive business development discussions)
 
 ---
 
 ## Recent Activity
 
+### November 19, 2026 — Swiss Federal Office of Meteorology Presentation Finalization
+- **Completed revisions on S0 VTOL weather use case slides:**
+  - Shelly implemented Jack's detailed feedback on Slide 1 (Precision Execution Cycle) corrections: clarified partner responsibility for sensitivity analysis/assimilation, changed "site safety decisions" to "Decision-ready atmospheric data to inform go/no-go calls," refined model bias language
+  - Incorporated competitive intelligence on Meteomatics (three UAV lines, BVLOS operations precedent in Switzerland)
+  - Shared revised slides with Moe via platform and Teams chat with background information on Meteomatics competitive positioning
+  - Slide 3 updated to include note flagging uncertain $50K-500K cost estimate for Moe to clarify with customer
+  
+**Status:** Ready for Moe and Ariel to present to MeteoSwiss with competitive background briefing and accurate technical messaging
+
+### November 18, 2026 — Multi-Stream Marketing Support Day
+- **Krateo Gaia Integration Initiative**
+  - Shelly inquired about adding S0 VTOL and S3 platform images to Krateo's Gaia design tool for improved automated design generation
+  - Jack requested access to help train/optimize the tool (09:21)
+  - Initiative aimed at ensuring future conference and marketing collateral designs include more accurate platform visualizations
+
+- **Swiss Meeting Slide Review Kickoff**
+  - Shelly submitted three S0 VTOL weather use case slides for team accuracy review (13:52-14:09), with request for feedback format preference
+  - Slides designed for Moe/Ariel's MeteoSwiss presentation:
+    - Slide 1: Precision Execution Cycle (vertical atmospheric readings capability for complex terrain like Switzerland)
+    - Slide 2: Repeatable Scheduled Sampling Patterns (benefit for evolving weather conditions vs. routine observations)
+    - Slide 3: Topline Benefits (various customer advantages; flagged $50K-500K estimate as uncertain)
+  - Format test: Sharing approach with team for feedback loop optimization
+  - Jack identified critical issue: Meteomatics (Swiss competitor) research required for strategic positioning (14:47)
+
+- **Internal Team Operations**
+  - Jack clarified that internal meeting occurred but moved to larger space without video conferencing capability; explained Shelly's concern about timing was likely legitimate coincidence (14:45)
+  - Jack recommended Josh Waldman as first subject for employee welcome profile program, noting he eventually wants to work through entire team (14:50-14:52)
+  - Shelly acknowledged will reach out separately to Josh for profile content (14:48-14:52)
+
+**Interpretation:** November 18 represents a consolidated support day for business development (MeteoSwiss), partnership optimization (Krateo Gaia), and ongoing administrative initiatives (welcome profiles). The channel demonstrates marketing's proactive role in accuracy-checking business development collateral, identifying competitive threats, and providing strategic intelligence to sales/BD teams.
+
 ### November 17, 2026 — AGU Conference Preparation
-- **QR Code Tabletop Sign Design Review & Approval**
-  - Shelly submitted initial 8" x 8" tabletop sign design for QR codes (linking to platform information) for review (15:45)
-  - Shelly noted text clarity issues and provided improved version (16:12 and 17:15)
-  - Jack requested two key additions: images of each platform (S0 VTOL and S3) and incorporation of bird outline motif (17:03)
-  - Shelly affirmed both suggestions (17:15)
-  - Jack approved updated version and provided two bird outline variants—technical accurate rendering and stylized version matching aircraft plan form—for Shelly to implement (21:33)
-  - **Status:** Final design pending incorporation of platform images and bird outline selection/implementation
-
-- **AGU Hotel Reservations Deadline**
-  - Shelly flagged urgent AGU hotel block deadline (Thursday, November 18 = last day) asking team member to confirm reservations finalized (20:17)
-  - Critical action item: Confirm conference accommodations before room block expires
-
-**Interpretation:** Active preparation for AGU (American Geophysical Union) trade show/conference with concurrent design refinement and logistics confirmation. The tabletop QR code sign serves as a lead generation tool at the conference booth. Jack's involvement in design details (platform imagery, brand motif integration) and provision of multiple bird outline options indicates company branding attention to detail for trade show visibility.
-
-### November 16, 2026 — Platform Access Setup
-- Jack Elston coordinated new account setup and platform access for team members, including BST account access, LinkedIn guidance, and Google Ads platform setup
-- Shelly confirmed acknowledgment and participation in onboarding
+- **QR Code Tabletop Sign Design Review & Approval** (details in existing knowledge file)
+- **AGU Hotel Reservations Deadline** (details in existing knowledge file)
 
 ---
 
 ## Notes on Data Quality
-The knowledge file remains substantively current and comprehensive through November 17, 2026. Recent batch shows active trade show preparation (AGU conference) with design workflows and logistics coordination. Marketing channel continues active use for collateral design iteration, platform coordination, and event preparation.
+The knowledge file has been updated with November 18-19, 2026 data showing a shift in marketing channel usage toward supporting business development presentations and customer-specific proposals. New pattern emerged: Shelly proactively coordinates slide accuracy reviews, competitive intelligence gathering, and customer deck preparation for Moe and Ariel (business development team). This represents expanded role beyond traditional marketing collateral into sales enablement and strategic customer pitch support. 
+
+The Swiss Federal Office of Meteorology presentation context indicates active pursuit of international government client relationships (meteorology/climate research sector) with competitive landscape awareness. Krateo Gaia integration suggests strategic investment in automating high-quality marketing collateral generation for conference season and ongoing customer materials.
+
+Data through November 19, 2026 is complete and current.

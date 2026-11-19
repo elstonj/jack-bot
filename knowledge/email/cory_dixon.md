@@ -1,123 +1,137 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 54 (across three data pulls)
-- Date range: 15 Nov – 18 Nov 2026 (4 days)
-- Approximate volume: ~13–14 messages per day during this period
-- Note: Sustained high activity 16–18 Nov; evening/night clustering continues (00:16–01:23 UTC, 16:59–22:49 local)
+- **Total messages scanned**: 83 (54 prior + 29 new data)
+- **Date range**: 15 Nov – 18 Nov 2026 (4 days)
+- **Approximate volume**: ~20–21 messages per day on 18 Nov (peak day); 13–14 avg across period
+- **Activity clustering**: Heavy evening/night activity continues (06:00–23:10 UTC); sustained cross-timezone coordination (EST, MST, UTC, CET visible)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — dominant sender/coordinator; LC-ISR, UAS, Sandia Labs lead, Krateo partnerships, site visit planning, Cornell sponsorship, hiring coordination
-- **Maciej Stachura** (stachura@blackswifttech.com) — strategy/NAVAIR requirements, shared project management (PM and Leads spreadsheet), Krateo Sky liaison
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — CoVar SOW/systems integration, site visit coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — LC-ISR discussions, website contact form responses, site visit planning
-- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — NEW; BOM and Inventory Discussion scheduled Wed 18 Nov 12:30–1pm MST
-- **Lynn Regnier, Robert Edson** — continuing from prior period
-- **Meredith Needham** (meredith.needham@blackswifttech.com) — NEW; hiring coordination (Senior Electrical Engineer candidate contact)
+- **Jack Elston** (elstonj@blackswifttech.com) — dominant coordinator; expanded to include strategic planning ("continued thoughts on our plan"), flight test planning, Krateo tier meetings, hiring escalation
+- **Maciej Stachura** (stachura@blackswifttech.com) — Technical Project Manager application review (Josh Terry), strategic planning alignment
+- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — CONFIRMED: Lean Manufacturing Discussion (Thu 19 Nov 12:30–1pm MST); upgraded from BOM/Inventory
+- **Robert Edson** (bob.edson@blackswifttech.com) — Lean Manufacturing Discussion co-organizer/attendee
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — NEW; canceled Flight Test Planning meeting (Mon 23 Nov)
+- **Lynn Regnier** — Controller handoff and Phase II engagement (Accordion partnership)
+- **Beck Cotter, Daniel Prendergast** — continuing from prior period
 
 ### Top External Contacts
-- **Krateo Sky** (Brian Grubel, Brian@krateosky.com; sona@krateosky.com) — NAVAIR LC-ISR requirements, 24 Nov deadline, BlackSwift S4 project
-- **GeoTech Environmental** (Jeff Popiel, jeffp@geotechenv.com; Zac Mott, zacm@geotechenv.com) — UAS discussions (escalated late-night responses 01:01–01:23 UTC)
-- **CoVar** (Pete Torrione, pete@covar.com) — draft SOW and systems integration requirements
-- **Rule 4** (Dan Mackin, dan@rule4.com) — CMMC + Infrastructure Management (ongoing dialogue)
-- **Extropian Engineer** (Wesley Cramblitt, wes@extropianengineer.com) — Lead Engineer at Sandia National Labs contact
-- **Murray State University** (Bassil El Masri, belmasri@murraystate.edu) — UAS Flux Topos @Murphy's Pond (6/28 scheduling)
-- **Danger Close Armament** (Bradley Stine, brad@dangerclosearmament.com) — NEW; local machining help inquiry
-- **Wematics** (Paul Matteschk, paul.matteschk@wematics.com) — NEW; website contact form response (Beck Cotter fielding)
-- **Cornell AutoBoat** (Ivan Zheng, iz55@cornell.edu) — NEW; financial sponsorship inquiry
-- **107th AMS Annual Meeting 2027** (Erica Collins via Generic Information) — hotel options inquiry
+- **Krateo Sky** (Brian Grubel, Jasmine Khambatta, Thibault Bridel-Bertomeu) — elevated activity; "Tier Meeting Content," Technology and Program Review confirmed, **Cory has dual email identity** (cory@krateosky.com in addition to BST email) — indicates embedded role or formal partnership status
+- **GeoTech Environmental** (Jeff Popiel, Zac Mott) — continued UAS escalation (22 Nov response cluster)
+- **Josh Terry** (joshrt42@gmail.com) — Technical Project Manager candidate; direct correspondence and Jack/Maciej escalation
+- **CoVar, Rule 4, Sandia Labs** — continuing from prior period
+- **Accordion** (Amit Sinha, asinha@accordion.com) — NEW; Controller handoff and Phase II engagement (via Lynn Regnier)
+- **Vanta** (compliance/security platform; no-reply@vanta-gov.com) — Cory's role for KrateoSky changed in Vanta system
 
-### Automated/Newsletter Sources (filtered)
-- Google Sheets notifications (Maciej Stachura sharing PM and Leads spreadsheet)
-- Calendar invitations (Joshua Waldman: BOM and Inventory meeting)
-- Website contact form forwarding (via info@blackswifttech.com)
+### Automated/Tool Sources (filtered)
+- **Google/Gemini**: Agile Manufacturing notebook shared by Jack Elston; BST/NASA/ERAU wind tunnel follow-up notes (Nov 18)
+- **FAA DroneZone**: sUAS Certificate of Registration (FA3WL7WPYN), renewal reminders, official registrations
+- **Vanta**: Security/compliance platform role change notification
+- **Toggl**: Time tracking tool (marketing emails from Rasa, Rumi)
+- **Onshape**: CAD/design tool promotional (Neil Cooke)
 
 ## Topic Patterns
 
-### Primary Focus Areas
-- **LC-ISR (Low Cost ISR) — NAVAIR Initiative** — urgent 24 Nov deadline; BlackSwift S4 project; requirements follow-up with Krateo Sky
-- **UAS Operations** — escalating late-night coordination with GeoTech Environmental; Flux Topos ongoing
-- **Hiring/Staffing** — Senior Electrical Engineer recruitment; Cory directly coordinating with candidates and Jack Elston
-- **Systems Integration (CoVar)** — draft SOW and requirements definition advancing
-- **Inventory & BOM Management** — NEW meeting scheduled Wed 18 Nov (Joshua Waldman leading)
-- **CMMC Compliance & Infrastructure** — Rule 4 dialogue (non-urgent)
-- **Government Relations** — NAVAIR deadline, site visit planning (December 2025 reference suggests future planning or multi-year initiative)
-- **Academic/Sponsorship Partnerships** — Cornell AutoBoat financial sponsorship inquiry
-- **Defense/Aerospace Vendor Outreach** — Danger Close Armament (local machining), Wematics contact
+### Primary Focus Areas (Refined)
+- **LC-ISR / NAVAIR / BlackSwift S4** — ongoing (implicit in Krateo tier meeting); 24 Nov deadline approaching
+- **Lean Manufacturing & Agile Operations** — ELEVATED; Thu 19 Nov meeting confirms manufacturing process improvement initiative (Robert Edson, Joshua Waldman leading)
+- **Flight Test Planning** — NEW; Mon 23 Nov meeting canceled by Spencer Hoehl (indicates active test schedule, now rescheduled)
+- **UAS Operations (GeoTech Environmental)** — continuing escalation (22 Nov cluster)
+- **Technical Project Manager Hiring** — Josh Terry candidate advanced (Jack/Maciej level review)
+- **Krateo Sky Partnership Deepening** — Tier meeting content, Technology & Program Review confirmed; **Cory embedded at Krateo** (dual email identity suggests formal liaison/secondment role)
+- **FAA/Regulatory Compliance** — sUAS registration, Certificate of Registration active (FA3WL7WPYN)
+- **Controller/Finance Transition** — Phase II engagement with Accordion (Lynn Regnier managing)
+- **Wind Tunnel Testing** — NEW; BST/NASA/ERAU collaboration noted in Gemini notes
 
 ### Project/Codenames Visible
-- **BlackSwift S4** (LC-ISR variant or configuration)
-- **Flux Topos** (UAS environmental survey project @ Murphy's Pond)
-- **PM and Leads** (shared spreadsheet tracking; likely project management tool)
-- **LC-ISR** (ongoing strategic initiative)
+- **BlackSwift S4** (LC-ISR variant — implicit in Krateo tier meeting)
+- **Agile Manufacturing** (Google notebook shared by Jack Elston)
+- **BST/NASA/ERAU Wind Tunnel** (Gemini notes project)
+- **Flux Topos** (continuing from prior period)
+- **sUAS Certificate FA3WL7WPYN** (FAA registration identifier)
 
 ### Client/Vendor Names
-- **NAVAIR** (U.S. Navy; deadline-driven requirements)
-- **Krateo Sky** (key partner on NAVAIR work)
-- **Sandia National Labs** (potential customer/partner via Extropian Engineer)
-- **GeoTech Environmental** (UAS operations partner)
-- **CoVar** (systems integration)
-- **Danger Close Armament** (potential vendor/supplier)
-- **Wematics** (contact inquiry; purpose unclear)
-- **107th AMS** (American Meteorological Society; sponsorship/conference)
+- **NAVAIR** (implicit in Krateo coordination)
+- **Krateo Sky** (now appears to be strategic partner with embedded BST liaison)
+- **NASA** (wind tunnel collaboration with ERAU)
+- **Embry-Riddle Aeronautical University (ERAU)** — wind tunnel testing partner
+- **GeoTech Environmental** (UAS operations)
+- **Accordion** (financial/controller services — Phase II engagement)
+- **Vanta** (security/compliance platform for Krateo)
 
 ## Communication Patterns
 
 ### Time Patterns
-- **Sustained late-night activity**: 17–18 Nov showing 00:16–01:23 UTC, 16:59–22:49 local time — suggests deadline-driven or urgent coordination cycle
-- **Morning/midday business hours**: 08:22–14:13 local time for strategic/external partnership emails
-- **GeoTech escalation**: Two consecutive responses from different team members (Jeff Popiel, Zac Mott) in early morning UTC (01:01–01:23) — indicates urgent/critical issue
-- **Email tagging**: Heavy use of UNREAD, IMPORTANT, INBOX, CATEGORY_FORUMS, CATEGORY_UPDATES — high-priority batching consistent with leadership coordination role
+- **Peak activity**: 18 Nov showed 06:00–23:10 UTC clustering (17-hour active window)
+- **Overnight/early morning**: 06:00–08:51 EST, 11:00–13:46 MST suggests multi-timezone team across US (EST, MST) and potentially EU (CET: 11:46 timestamp from Rumi/Toggl)
+- **Meeting scheduling**: Thu 19 Nov (Lean Manufacturing 12:30–1pm MST), Mon 23 Nov (Flight test planning canceled)
+- **Krateo Tier Meeting**: Confirmed for future date; Thibault Bridel-Bertomeu sending meeting acceptance (European timezone involvement — "Non-US" designation in email header)
 
-### Meeting Participation
-- **BOM and Inventory Discussion** — Wed 18 Nov, 12:30–1pm MST (Joshua Waldman, confirmed attendance)
-- **LC-ISR Discussion** (recurring)
-- **Krateo Sky × BST Technology and Program Review** (confirmed attendance from prior period)
-- **Site visit planning** (December 2025; Beck Cotter, Daniel Prendergast, Jack Elston coordinating)
+### Meeting Participation (Updated)
+- **Lean Manufacturing Discussion** — Thu 19 Nov, 12:30–1pm MST (Robert Edson, Joshua Waldman, Cory confirmed)
+- **BST <> KS: Technology and Program Review** — confirmed acceptance from Thibault Bridel-Bertomeu (Krateo Sky); future date TBD
+- **Tier Meeting Content** — email exchange 18 Nov (Cory responding as cory@krateosky.com; suggesting internal Krateo meeting)
+- **Flight Test Planning** — Mon 23 Nov meeting canceled; rescheduling implied
 
 ### Mailing Lists/Group Distribution
-- Multi-team LC-ISR/NAVAIR coordination (Jack Elston, Maciej Stachura, Krateo Sky)
-- Generic info@blackswifttech.com distribution (website contact forms, conference inquiries)
-- Google Sheets team sharing (project management visibility)
+- careers@blackswifttech.com (Technical Project Manager applications)
+- info@blackswifttech.com (FAA DroneZone registrations, website form distribution)
+- Gemini Notes shared collaboration (Jack Elston → Cory)
+- Google Sheets collaboration (continuing)
+
+### Notable Email Anomaly
+- **Cory Dixon has dual email identity**: cory.dixon@blackswifttech.com AND cory@krateosky.com
+  - 18 Nov 14:54:55 UTC sent from cory@krateosky.com to Jasmine Khambatta & Brian Grubel (internal Krateo conversation)
+  - 18 Nov 15:45:36 UTC received "Accepted" meeting confirmation addressing him as "[EXT] Cory Dixon (Black Swift Technologies)" at Krateo domain
+  - **Interpretation**: Cory likely has formal embedded role at Krateo Sky (liaison, joint project lead, or secondment) with access to Krateo email system
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — clearly directing Cory's involvement across all strategic fronts (NAVAIR, Sandia, Krateo, site visits, hiring)
-2. **Maciej Stachura** — peer-level collaboration on NAVAIR/Krateo requirements and PM tracking
-3. **Daniel Prendergast** — systems integration (CoVar) and site visit coordination
-4. **Joshua Waldman** — NEW; emerging collaboration on inventory/BOM management
-5. **Beck Cotter** — ongoing LC-ISR and logistics support
+1. **Jack Elston** — strategic director; now explicitly collaborating on "continued thoughts on our plan" and flight test oversight
+2. **Maciej Stachura** — peer-level escalation on hiring (Josh Terry TPM candidate)
+3. **Joshua Waldman** — operational lead on Lean Manufacturing initiative
+4. **Robert Edson** — Lean Manufacturing co-organizer; likely operations/manufacturing director
+5. **Spencer Hoehl** — flight test planning coordinator
 
 ### Critical External Relationships
-- **Krateo Sky (Brian Grubel)** — NAVAIR deadline 24 Nov is imminent; high-intensity partnership on BlackSwift S4
-- **GeoTech Environmental (Jeff Popiel, Zac Mott)** — escalating UAS operations; late-night response pattern suggests problem-solving or urgent go-live
-- **CoVar (Pete Torrione)** — systems integration advancing toward SOW finalization
-- **Rule 4 (Dan Mackin)** — compliance advisory (less urgent than other threads)
-- **Sandia National Labs (via Extropian Engineer)** — business development outreach ongoing
+- **Krateo Sky (Brian Grubel, Jasmine Khambatta, Thibault Bridel-Bertomeu)** — now appears to be **strategic partnership with embedded Cory liaison role** (dual email, tier meetings, Technology & Program Review); NAVAIR deadline (24 Nov) driving intensity
+- **GeoTech Environmental (Jeff Popiel, Zac Mott)** — UAS operations partner; escalation pattern continuing
+- **Josh Terry** — Technical Project Manager candidate; Cory coordinating initial screening, Jack/Maciej advancing to leadership review
+- **Accordion (Amit Sinha)** — financial/controller services provider (Phase II engagement)
+- **NASA/ERAU** — wind tunnel testing collaboration (collaborative R&D partner)
 
 ## Notable Observations
 
-- **NAVAIR deadline (24 Nov) is a focal point**: Krateo Sky coordination showing heightened activity; "NAVAIR follow up requirements" language suggests customer is driving requirements changes or additional scope — indicates government customer relationship on critical timeline.
+- **Lean Manufacturing pivot**: New 19 Nov meeting reveals manufacturing process improvement is now explicit focus — consistent with scaling production for NAVAIR/S4 ramp. Robert Edson's involvement (likely COO/Operations) suggests enterprise-level initiative.
 
-- **GeoTech Environmental escalation suspicious**: Two team members responding in same timeframe (01:01–01:23 UTC, 17 Nov night) suggests problem-solving or urgent technical issue, not routine UAS coordination. Worth monitoring.
+- **Cory's dual Krateo email identity is significant**: Not a simple advisory role — Cory has system access and participates in internal Krateo meetings (Tier Meeting Content). Suggests:
+  - Joint program leadership on BlackSwift S4 / LC-ISR initiative
+  - Potential co-location or formal secondment arrangement
+  - Risk/opportunity: knowledge/resource sharing model; could indicate deep integration or IP/governance ambiguity worth noting
 
-- **BOM/Inventory meeting is new focus area**: Joshua Waldman meeting on 18 Nov suggests manufacturing/supply chain activity ramping up — may correlate with NAVAIR/S4 production planning.
+- **Flight test planning rescheduled**: Spencer Hoehl canceled Mon 23 Nov meeting — suggests active test campaign in planning or execution phase. Test schedule driving other activities (manufacturing timeline, team coordination).
 
-- **Danger Close Armament (machining) + Wematics (unknown) are new vendors**: Suggests supplier base expansion for manufacturing or component sourcing — consistent with scaling production.
+- **FAA sUAS Registration active (FA3WL7WPYN)**: Black Swift now has formal FAA registration for small UAS operations — consistent with active flight testing and commercial UAS deployment. Renewal reminders suggest ongoing operational status.
 
-- **Cornell AutoBoat sponsorship inquiry**: Potential talent pipeline or academic R&D partnership (consistent with UAS/robotics focus).
+- **Wind tunnel testing (BST/NASA/ERAU)**: NEW collaborative project indicator. Suggests:
+  - Vehicle performance validation under aerodynamic load
+  - NASA partnership (government credibility/funding potential)
+  - ERAU collaboration (academic/test facility access)
+  - Likely correlates to BlackSwift S4 development/validation cycle
 
-- **Site visit planning references December 2025**: This is unusual phrasing (visiting past date or typo?); likely should be December 2026 or later. Warrants clarification — may indicate multi-year customer engagement.
+- **Josh Terry Technical Project Manager hire**: Candidate escalation to Jack/Maciej level suggests senior PM role (not junior). May be gap-filling for NAVAIR/S4 production ramp-up or flight test campaign management.
 
-- **Email metadata shows [Non-DoD Source] tags** on site visit thread: Reaffirms ITAR/controlled information protocols in place; indicates defense contractor compliance posture.
+- **Accordion Phase II engagement**: Controller handoff + Phase II suggests financial restructuring or accounting system upgrade — consistent with scaling operations (manufacturing, partnerships, government contracts).
 
-- **Volume increase and time-shift**: New data shows higher clustering in early morning UTC (00:16–01:23) vs. prior period — suggests Cory or his team is working around-the-clock on NAVAIR deadline or GeoTech emergency.
+- **Vanta compliance platform**: Cory's role in Krateo's Vanta security posture changed 18 Nov — suggests Krateo undergoing compliance audit/assessment (likely DoD-related for NAVAIR work). Cory's involvement indicates he's responsible for or aware of security/compliance integration across BST-Krateo partnership.
 
-- **Cory's role in hiring**: Now directly responding to candidates (Robert Powell, Meredith Needham coordination) — suggests Cory is a decision-maker in Senior Electrical Engineer hire, not just aware.
+- **Google Gemini collaboration**: Jack Elston sharing "Agile Manufacturing" notebook + Cory capturing "BST/NASA/ERAU wind tunnel follow up" notes — indicates lightweight collaborative documentation (vs. formal project management system); suggests rapid-iteration, agile-style coordination on manufacturing and testing initiatives.
+
+- **High-volume hiring activity**: Span of Summer 2027 internships (WPI robotics, Robinson inquiry), TPM candidate (Josh Terry), Senior Electrical Engineer (prior period) — suggests broad recruitment drive ahead of production ramp or test campaign surge.
 
 ---
 
-**MERGED KNOWLEDGE**: All prior correspondents and patterns retained; new contacts and urgent items (NAVAIR 24 Nov deadline, GeoTech escalation, BOM meeting) flagged as recent developments.
+**MERGED KNOWLEDGE**: All prior context retained. New findings: Cory has embedded liaison role at Krateo Sky (dual email), Lean Manufacturing initiative escalating (19 Nov meeting), Flight test planning active (23 Nov rescheduled), NASA/ERAU wind tunnel collaboration confirmed, FAA sUAS registration active, Accord Phase II financial engagement underway, Vanta security compliance assessment active at Krateo.

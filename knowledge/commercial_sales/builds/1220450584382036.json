@@ -1,0 +1,47 @@
+{
+  "asana_gid": "1220450584382036",
+  "asana_task_name": "RAAVEN - S0-VTOL",
+  "customer": "RAAVEN/CU",
+  "customer_contact": "",
+  "customer_email": "",
+  "receive_by": "2026-12-15",
+  "ship_to": "",
+  "items": [
+    {
+      "description": "S0-VTOL",
+      "quantity": 1
+    },
+    {
+      "description": "MHP (rain-capable, pending RAAVEN specs)",
+      "quantity": 1
+    }
+  ],
+  "payment_state": "none",
+  "build_state": "none",
+  "ship_state": "none",
+  "estimate_date": null,
+  "invoice_date": null,
+  "invoice_amount": null,
+  "invoice_number": "",
+  "paid_date": null,
+  "parts": [],
+  "tracking_number": "",
+  "carrier": "",
+  "shipped_date": null,
+  "owners": {
+    "interface": "Beck",
+    "invoicing": "Meredith",
+    "build": "Jack Elston"
+  },
+  "notes": "S0-VTOL for 2027 storm season on possible 'loan' status. Customer also requesting rain-capable MHP; need RAAVEN specs to determine if full S0 fuse required or if removable S3 version preferable. S0-VTOL price point ~$18k per recent Slack. Keep customer updated on S3 timeline.",
+  "missing_fields": [
+    "customer_contact",
+    "customer_email",
+    "ship_to",
+    "estimate_date",
+    "invoice_number",
+    "parts"
+  ],
+  "last_evidence_date": "2026-10-21",
+  "last_contact_date": null
+}

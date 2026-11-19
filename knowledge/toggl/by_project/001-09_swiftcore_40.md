@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-18: 561.6 h total since 2020-01-01 — Ben Busby 483.0 h, Ethan Domagala 28.8 h, Stachura 20.7 h, Spencer Hoehl 13.4 h, Dan 12.2 h, Jack Elston 3.5 h._
+_Computed from Toggl as of 2026-11-19: 567.0 h total since 2020-01-01 — Ben Busby 483.0 h, Ethan Domagala 28.8 h, Stachura 20.7 h, Spencer Hoehl 18.8 h, Dan 12.2 h, Jack Elston 3.5 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,32 +6,31 @@ _Computed from Toggl as of 2026-11-18: 561.6 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 561.6 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 567.0 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 483.0 | 85.9% |
+| Ben Busby | 483.0 | 85.2% |
 | Ethan Domagala | 28.8 | 5.1% |
-| Stachura | 20.7 | 3.7% |
-| Spencer Hoehl | 13.4 | 2.4% |
+| Stachura | 20.7 | 3.6% |
+| Spencer Hoehl | 18.8 | 3.3% |
 | Dan | 12.2 | 2.2% |
 | Jack Elston | 3.5 | 0.6% |
 
 **Primary Contributor:** Ben Busby (483.0 hours)
 
 ## Activity Timeline
-Recent work shows active engagement across multiple contributors:
+Recent work spans contributions from multiple team members:
+- **Stachura:** Dominant in recent entries with multiple sessions (3.9h, 5.2h, 1.5h, 1.6h, 1.3h, 1.0h, 1.3h, 1.8h)
+- **Spencer Hoehl:** Recent surge in activity (7.5h, 5.0h, 4.5h, 1.4h, 0.5h sessions)
+- **Ben Busby:** Consistent contributions (3.0h, 2.0h, 1.0h, 2.0h sessions)
+- **Jack Elston:** Minimal recent activity (2.2h, 1.2h sessions; one entry notes "New GCS Updates")
 
-- **Stachura:** Dominant in recent entries with 14 logged sessions totaling ~20.7h (mostly undescribed work)
-- **Ben Busby:** 3 recent entries totaling 6.0h (undescribed)
-- **Spencer Hoehl:** 3 recent entries totaling 13.4h (undescribed)
-- **Jack Elston:** 2 recent entries totaling 3.4h, including "New GCS Updates" (1.2h)
-
-Most recent entries lack descriptions, making detailed work pattern analysis difficult.
+Most recent entries lack descriptive information, limiting visibility into specific work scope.
 
 ## Insights
-- **Work Type:** Limited visibility—only one descriptive entry mentions "New GCS Updates" (Jack Elston). Remaining 19 recent entries are undocumented.
-- **Contribution Pattern:** Ben Busby carries ~86% of project load historically, but recent activity shows increased contributions from Stachura and Spencer Hoehl.
-- **Data Quality:** 95% of recent time entries lack descriptions, indicating either routine/ongoing work or incomplete logging practices.
-- **Project Phase:** Continued active development on internal R&D (IRAD) effort with consistent team engagement.
+- **Work Pattern:** Ben Busby carries the overwhelming majority of project load (85%), with significant recent contributions from Stachura and Spencer Hoehl
+- **Documentation Gap:** 21 of 22 recent entries have no description, indicating minimal work logging detail
+- **Identified Work:** Only one recent entry explicitly documented—"New GCS Updates" (Jack Elston, 1.2h)
+- **Activity Level:** Recent entries show consistent daily/weekly engagement across multiple contributors, suggesting active ongoing development

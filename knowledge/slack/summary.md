@@ -1,51 +1,48 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-18 02:44
+Last scanned: 2026-11-19 02:36
 
-Total channels scanned: 7
+Total channels scanned: 6
 
 ## Channels
 
-- **#25_1-navy-sbir-magnetometer** -- 15 messages -- [25_1-navy-sbir-magnetometer.md](25_1-navy-sbir-magnetometer.md)
-- **#general** -- 7 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 8 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 7 messages -- [marketing.md](marketing.md)
+- **#flight-testing** -- 3 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 5 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 3 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#marketing** -- 26 messages -- [marketing.md](marketing.md)
 - **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 27 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 4 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#s3** -- 42 messages -- [s3.md](s3.md)
 
 ## Strategic Summary
 
 # Black Swift Technologies - Cross-Channel Strategic Overview
 
 ## Active Projects
-- **SBIR Hurricane (S0)**: Primary government-funded project for hurricane reconnaissance unmanned aircraft; most mature and active initiative
-- **Navy SBIR Magnetometer**: Magnetometer integration project for magnetic anomaly detection; active sensor integration work
-- **S3 VTOL**: Long-endurance hybrid fixed-wing/quadcopter platform in development; tilting rotor architecture targeting 2-3 hour endurance
+- **S3 VTOL Aircraft**: Primary hardware development focus with hybrid fixed-wing/quadcopter design, tilting rotors, targeting 2-3 hour endurance. Led by Joshua Fromm with emphasis on RF components, antenna placement, and battery design.
+- **Flight Testing Operations**: Multi-platform testing across S-series (fixed-wing), E2/Flamewheel (multirotor), and VTOL variants (S0, S1, S3). Active firmware/software development and troubleshooting.
+- **Government Contracting & Grants**: Ongoing pursuit of federal funding (NASA, DOD, NOAA, USDA, DOE) with proposal submissions and award management.
 
-## Key People & Roles
-- **Jack Elston**: Leadership/strategy; primary decision-maker on proposals, funding, and direction
-- **Joshua Fromm**: Lead hardware engineer; RF/antenna expertise, CAD, parts sourcing, battery design
-- **Maciej**: Technical support, proposal development, field operations liaison
-- **Beck Cotter**: Magnetometer project involvement, technical contributor
-- **Dan Prendergast**: Business development and operations coordination
-- **Meredith Needham**: Finance, admin, and operations support
+## Key Decision-Makers & Roles
+- **Jack Elston**: Leadership/strategy (proposals, funding decisions, company-wide direction)
+- **Joshua Fromm**: Lead engineer/hardware (CAD, RF design, parts validation, battery design, shop operations)
+- **Maciej**: Flight testing lead/firmware development (field operations, technical proposal support)
+- **Meredith Needham**: Finance/administration
+- **Dan Prendergast**: Business development/operations
 
-## Decision Patterns
-1. **Funding-driven roadmap**: Grant availability shapes project prioritization (#grants-and-funding drives planning)
-2. **Hardware-first approach**: Engineering decisions (Joshua/Maciej) precede marketing and operations planning
-3. **Jack Elston approval required**: Major proposals, strategic pivots, and significant budget decisions flow through leadership review
-4. **Integrated ops model**: Operations channel serves as decision documentation hub where action items become official record
+## Cross-Channel Themes
 
-## Recurring Topics
-- **Government contracting**: SBIR programs, proposal deadlines, budget cycles (Navy, NOAA, DOE, NASA agencies)
-- **Hardware integration**: Sensor systems, RF components, battery performance, antenna placement
-- **Flight operations & testing**: Mission planning, operational constraints, platform capabilities
-- **Procurement & logistics**: Parts sourcing, supply chain, shipping coordination
-- **Marketing/messaging alignment**: Product capabilities communicated consistently across channels
+**Engineering Integration**: S3 development (#s3) feeds directly into flight testing (#flight-testing) with Joshua and Maciej collaborating on aircraft validation and firmware debugging.
 
-## Cross-Channel Connections
-- **Technical → Funding**: Engineering achievements (S0 missions, sensor integration) inform SBIR proposals and marketing narratives
-- **Operations → Projects**: Procurement decisions and resource allocation in #operations directly impact timeline feasibility in project channels
-- **Leadership coordination**: Jack Elston bridges strategy (#grants-and-funding, #general, #marketing) with technical execution (#sbir-hurricane, #s3)
-- **Hardware expertise sharing**: Joshua Fromm's work appears across all technical channels; antenna/RF solutions reused across S0, S3, and magnetometer projects
+**Funding Drives Operations**: Grant/funding decisions (#grants-and-funding) influence project timelines and resource allocation across #operations and #general announcements.
+
+**Leadership Communication Hub**: Jack Elston appears as central decision-maker across funding, operations, and strategic announcements in #general.
+
+**Hardware-to-Marketing Pipeline**: Joshua's technical work (#s3, #operations) supports marketing collateral (#marketing) and business development initiatives (#general, #marketing).
+
+**Operational Dependencies**: Facility management, procurement, and logistics (#operations) support both aircraft development (#s3) and flight testing (#flight-testing).
+
+## Recurring Patterns
+- Technical validation cycles between design and testing
+- Proposal-driven resource allocation and scheduling
+- Cross-functional coordination requiring leadership sign-off
+- Documentation emphasis on requirements and validation

@@ -5,11 +5,11 @@
     "[018] Murray State University:[018-1] Murphy's Pond CH4"
   ],
   "period": {
-    "start": "2024-11-18",
-    "end": "2026-11-18"
+    "start": "2024-11-19",
+    "end": "2026-11-19"
   },
   "totals": {
-    "revenue": 149146.6,
+    "revenue": 173725.88,
     "expenses": 26816.1,
     "by_category": {
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 8182.5,
@@ -33,7 +33,7 @@
       "attributed": 24579.28,
       "vendor": "",
       "customer": "[018-1] Murphy's Pond CH4",
-      "balance": 24579.28,
+      "balance": 0.0,
       "memo": "",
       "lines": [
         {
@@ -1512,6 +1512,24 @@
   ],
   "purchase_orders": [],
   "payments": [
+    {
+      "type": "Payment",
+      "date": "2026-11-13",
+      "doc_number": "",
+      "total": 24579.28,
+      "attributed": 24579.28,
+      "vendor": "",
+      "customer": "[018-1] Murphy's Pond CH4",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 24579.28,
+          "account": "",
+          "description": ""
+        }
+      ]
+    },
     {
       "type": "Payment",
       "date": "2025-12-18",

@@ -1,7 +1,5 @@
 # BST Financial Overview (QuickBooks)
-
-## Report Period
-**November 17–18, 2026**
+**Report Period:** November 18-19, 2026
 
 ---
 
@@ -10,48 +8,59 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Revenue (Invoices)** | $6,880,904.00 |
-| **Total Expenses** | $1,857,280.70 |
-| **Net Income** | $5,023,623.30 |
-
-*Note: Expenses include $400.84 in R&D (IRAD) + $1,856,480.86 in project-related bills and purchases.*
+| **Total Expenses** | $1,856,480.86 |
+| **Total Purchase Orders (Pending)** | $832.00 |
+| **Net Income (Estimated)** | $5,023,591.14 |
 
 ---
 
 ## By Project/Class
 
-### **Government**
+### Government
 - **Total Revenue:** $6,880,904.00
 - **Total Expenses:** $1,856,480.86
-- **Net Position:** $5,023,591.14 (invoiced minus expenses)
-- **Status:** Active – 117 invoices as of report date
+- **Net Position:** $5,023,591.14
+- **Number of Active Invoices:** 117
 - **Date Range:** April 7, 2024 – December 1, 2026
+- **Status:** This is the primary revenue driver for the company
 
 ---
 
 ## Cash Flow Indicators
 
-### Accounts Receivable (Outstanding)
-- **Total Outstanding Invoice Balance:** $5,762,294.82
-- **Number of Active Invoices:** 117
-- **Collection Rate:** 83.7% of invoiced amount collected
+### Accounts Receivable (Outstanding Balances)
+- **Total Outstanding:** $5,762,294.82
+- **% of Total Revenue:** 83.7%
+- **Concern Level:** HIGH — Significant outstanding balance suggests delayed payment collections, primarily on government contracts
 
-### Revenue Collection Status
-- Amount invoiced far exceeds expenses, indicating strong project profitability
-- Significant outstanding receivables suggest cash may be delayed pending customer payment
+### Active Invoices
+- **117 invoices** remain open with balance due
+- Collections activity should be prioritized
 
----
-
-## Unclassified Transactions
-
-**R&D (Internal):** $400.84
-- Minor internal research and development expense
-- Not tied to Government project class
+### Purchase Orders
+- **Pending PO value:** $832.00 (minimal amount)
 
 ---
 
-## Summary Notes
+## Data Limitations & Gaps
 
-1. **Single Major Project:** Nearly all activity is concentrated in the Government project class ($6.88M revenue, $1.86M expenses).
-2. **Strong Margin:** Net position of $5.02M indicates healthy project profitability.
-3. **Cash Flow Watch:** Outstanding A/R of $5.76M is substantial; monitor collections to ensure liquidity.
-4. **Data Limitation:** Report period (Nov 17–18) is very short; full project data extends back to April 2024, suggesting this is historical summary data rather than current activity.
+**Note:** The QuickBooks export provided limited detail. The following information is **incomplete or unavailable:**
+
+- ❌ Expense breakdown (vendors, categories, expense dates)
+- ❌ Top vendors by spend (insufficient vendor detail provided)
+- ❌ Top customers by revenue (only one project class visible: Government)
+- ❌ Recent large expenses (transaction-level detail missing)
+- ❌ Project completion status or recent activity dates per project
+- ❌ Unclassified transactions summary (no unclassified items identified in data)
+- ❌ P&L line items (Income/Expense categories not populated)
+
+---
+
+## Recommendation
+
+**Request a complete QuickBooks export including:**
+1. Detailed P&L by account (not just totals)
+2. Aging report for A/R analysis
+3. Vendor transaction history
+4. Customer/project breakdown with current status
+5. Expense detail by category and vendor
