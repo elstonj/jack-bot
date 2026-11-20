@@ -76,34 +76,34 @@
     "[925-05] Indirect Production and Supply Chain Labor"
   ],
   "period": {
-    "start": "2024-11-19",
-    "end": "2026-11-19"
+    "start": "2024-11-20",
+    "end": "2026-11-20"
   },
   "totals": {
     "revenue": 3707388.11,
-    "expenses": 4889582.99,
+    "expenses": 4887855.79,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "Indirect Cost:Payroll Expenses:Guaranteed Wages": 183006.89,
-      "Inventory Asset": 141600.4,
+      "Inventory Asset": 141619.94,
       "FRINGE:FR-Retirement Contributions": 133478.1,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 128621.3,
       "SALES & MARKETING:Recruiting": 112931.25,
       "GENERAL & ADMINISTRATIVE:GA-Accounting Fees": 97984.66,
       "FACILITIES:FA-Rent Expense": 92780.99,
-      "Indirect Cost:Payroll Expenses:Employee Healthcare": 84496.34,
       "FRINGE:FR-Employee Healthcare": 83636.55,
       "Prepaid Expenses": 77519.48,
+      "Indirect Cost:Payroll Expenses:Employee Healthcare": 72561.54,
       "Spark One Jack #3168": 70684.0,
-      "FACILITIES:FA-Shop Supplies": 52281.08,
+      "FACILITIES:FA-Shop Supplies": 57563.85,
+      "DIRECT COSTS:DC-Direct Material Purchases": 52768.8,
       "Indirect Cost:Software Expenses": 49725.71,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
-      "DIRECT COSTS:DC-Direct Material Purchases": 46407.86,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
       "FACILITIES:FA-Office Supplies": 41921.75,
-      "FACILITIES:FA-Software Expenses": 40452.11,
+      "FACILITIES:FA-Software Expenses": 41012.69,
       "Fixed Assets:Equipment": 36584.68,
       "Accounts Payable (A/P)": 24360.18,
       "UNALLOWABLE GA:UC-Meals & Entertainment": 21936.1,
@@ -111,11 +111,11 @@
       "Reimbursable Expenses": 19073.17,
       "Indirect Cost:Travel Expenses:Airfare": 18117.81,
       "Fraud Charges": 16008.36,
-      "Indirect Cost:Insurance Exp": 14636.03,
+      "Indirect Cost:Insurance Exp": 14083.09,
       "Indirect Cost:Meals and Entertainment": 13950.81,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
-      "FACILITIES:FA-Insurance Expenses": 12199.97,
+      "FACILITIES:FA-Insurance Expenses": 12871.34,
       "Indirect Cost:Office Expenses:Utilities Expense": 11970.87,
       "OVERHEAD:OH-Airfare": 11565.04,
       "SALES & MARKETING:SM-Travel": 10920.43,
@@ -135,17 +135,17 @@
       "Indirect Cost:TaxesX": 6218.2,
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6135.24,
       "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5703.12,
-      "SALES & MARKETING:Promotion Expenses": 4885.59,
-      "Indirect Cost:Supplies:Office SuppliesX": 4561.26,
+      "Indirect Cost:Supplies:Office SuppliesX": 4522.38,
       "FRINGE:FR-Worker's Comp": 4201.61,
-      "Indirect Cost:Dues & Subscriptions": 3830.8,
+      "Indirect Cost:Dues & Subscriptions": 3823.9,
       "FACILITIES:FA-Equipment Repairs & Maintenance": 3145.41,
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 2869.0,
+      "SALES & MARKETING:Promotion Expenses": 2791.71,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2472.14,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2477.14,
       "Indirect Cost:Professional Fees (do not use):Continuing educationX": 2165.72,
       "SALES & MARKETING:SM-Dues & Subscriptions": 1980.63,
       "Indirect Cost:Internal Research and DevelopmentX": 1946.71,
@@ -4535,6 +4535,249 @@
     },
     {
       "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "",
+      "total": 39.07,
+      "attributed": 19.54,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "verbal request for shipment by S. Hild",
+      "lines": [
+        {
+          "amount": 19.53,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment to Summit Assembly"
+        },
+        {
+          "amount": 19.54,
+          "account": "Inventory Asset",
+          "description": "Shipment to Summit Assembly (future S3 sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "9307",
+      "total": 5699.94,
+      "attributed": 5699.9400000000005,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 4499.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "VOXL 2 x 3"
+        },
+        {
+          "amount": 1199.97,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "VOXL 2 Hadron 640R Adapter x 3"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "",
+      "total": 5.0,
+      "attributed": 5.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Registration Number: FA3AE79X3X",
+      "lines": [
+        {
+          "amount": 5.0,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "S1 (Serial: 20686S10022)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "103042199",
+      "total": 1011.98,
+      "attributed": 1011.98,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "DKC*DIGI KEY CORP - 4617",
+      "lines": [
+        {
+          "amount": 995.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "B&K 9201B Power Supply"
+        },
+        {
+          "amount": 16.98,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "593111",
+      "total": 1801.94,
+      "attributed": 1801.94,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 824.95,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Instek GPE-6030 Triple-Output Linear DC Power Supply"
+        },
+        {
+          "amount": 824.95,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Instek GPE-6030 Triple-Output Linear DC Power Supply"
+        },
+        {
+          "amount": 152.04,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "taxes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "SAL-20799",
+      "total": 1651.83,
+      "attributed": 1651.83,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1499.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Saleae Logic MSO - USB Mixed Signal Oscilloscope & Logic Analyzer"
+        },
+        {
+          "amount": 15.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "shipping"
+        },
+        {
+          "amount": 137.83,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "taxes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "B485620",
+      "total": 817.02,
+      "attributed": 817.02,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 739.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Siglent SDM4055A"
+        },
+        {
+          "amount": 36.63,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Shipping"
+        },
+        {
+          "amount": 41.39,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Tax"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-18",
+      "doc_number": "",
+      "total": 202.57,
+      "attributed": 202.57,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ANTHROPIC - 4617",
+      "lines": [
+        {
+          "amount": 202.57,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "ANTHROPIC - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-18",
+      "doc_number": "",
+      "total": 196.0,
+      "attributed": 196.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "FLUX ORG - 4617",
+      "lines": [
+        {
+          "amount": 196.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "FLUX ORG - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-18",
+      "doc_number": "",
+      "total": 6.0,
+      "attributed": 6.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "IRCCLOUD SOLO MONTHLY - 4617",
+      "lines": [
+        {
+          "amount": 6.0,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "IRCCLOUD SOLO MONTHLY - 4617"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-18",
+      "doc_number": "",
+      "total": 671.37,
+      "attributed": 671.37,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Liberty Mutual TYPE PAYMENT  ID Liberty Mutual TYPE PAYMENT  ID XXXXXX0001 DATA M2TM1X7V4P7N  CO Liberty Mutual",
+      "lines": [
+        {
+          "amount": 671.37,
+          "account": "FACILITIES:FA-Insurance Expenses",
+          "description": "Liberty Mutual TYPE PAYMENT  ID Liberty Mutual TYPE PAYMENT  ID XXXXXX0001 DATA M2TM1X7V4P7N  CO Liberty Mutual"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
       "date": "2026-11-17",
       "doc_number": "",
       "total": 55.0,
@@ -4740,6 +4983,24 @@
           "amount": 81.81,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": ""
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-14",
+      "doc_number": "",
+      "total": 156.01,
+      "attributed": 156.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "ANTHROPIC - 4617",
+      "lines": [
+        {
+          "amount": 156.01,
+          "account": "FACILITIES:FA-Software Expenses",
+          "description": "ANTHROPIC - 4617"
         }
       ]
     },
@@ -6724,6 +6985,24 @@
           "amount": 329.53,
           "account": "FACILITIES:FA-Shop Supplies",
           "description": "Shipment of shop supplies order"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-03",
+      "doc_number": "",
+      "total": 661.0,
+      "attributed": 661.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "AEGIS ELECTRONIC GROUP - 7333",
+      "lines": [
+        {
+          "amount": 661.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "AEGIS ELECTRONIC GROUP - 7333"
         }
       ]
     },
@@ -57689,96 +57968,6 @@
           "amount": 19.92,
           "account": "Indirect Cost:Supplies:Office SuppliesX",
           "description": "AMAZON.COM*7K22N80J3     AMZN.COM/BILLWA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-19",
-      "doc_number": "",
-      "total": 6.9,
-      "attributed": 6.9,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH UPSBILLCTR       PAYMENT    241118 0000868W4W      Log in to the UPS Billing Center for payment det",
-      "lines": [
-        {
-          "amount": 6.9,
-          "account": "Indirect Cost:Dues & Subscriptions",
-          "description": "BUSINESS TO BUSINESS ACH UPSBILLCTR       PAYMENT    241118 0000868W4W      Log in to the UPS Billing Center for payment det"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-19",
-      "doc_number": "",
-      "total": 11934.8,
-      "attributed": 11934.8,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6540    163~IEA*1*241118161~",
-      "lines": [
-        {
-          "amount": 11934.8,
-          "account": "Indirect Cost:Payroll Expenses:Employee Healthcare",
-          "description": "BUSINESS TO BUSINESS ACH UNITED HEALTHCAR EDI PAYMTS        XXXXXXXX6540    163~IEA*1*241118161~"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-19",
-      "doc_number": "",
-      "total": 552.94,
-      "attributed": 552.94,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "LIBERTY          MUTUAL     241118 9412852         BLACK SWIFT TECHNOLOGI",
-      "lines": [
-        {
-          "amount": 552.94,
-          "account": "Indirect Cost:Insurance Exp",
-          "description": "LIBERTY          MUTUAL     241118 9412852         BLACK SWIFT TECHNOLOGI"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-19",
-      "doc_number": "",
-      "total": 2093.88,
-      "attributed": 2093.88,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "CUSTOMINK LLC            XXXXXX4232   VA",
-      "lines": [
-        {
-          "amount": 2093.88,
-          "account": "SALES & MARKETING:Promotion Expenses",
-          "description": "CUSTOMINK LLC            XXXXXX4232   VA"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-19",
-      "doc_number": "",
-      "total": 38.88,
-      "attributed": 38.88,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "Spindrift x 2 cases",
-      "lines": [
-        {
-          "amount": 38.88,
-          "account": "Indirect Cost:Supplies:Office SuppliesX",
-          "description": "Spindrift x 2 cases"
         }
       ]
     }

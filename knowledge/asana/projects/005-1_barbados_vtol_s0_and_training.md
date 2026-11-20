@@ -1,58 +1,42 @@
-_Asana snapshot as of 2026-11-15: 4 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 4 open tasks, 0 completed (last 90 days)._
 
-# [005-1] Barbados VTOL S0 and Training
+# Barbados VTOL S0 and Training
 
 ## Overview
-- **Client/Customer:** Barbados Meteorological Services (contact: Sabu Best, 1-246-535-0016, Sabu.Best@barbados.gov.bb)
-- **Dollar Value:** $22,337 (invoice 1634 paid Feb. 2024)
-- **Timeline:** 
-  - Original due date: 2024-10-01 (now overdue)
-  - S0 handoff to Jack: June 23, 2026
-  - Delivery due: May 22, 2026
-  - Training dates: July 1–4, 2026
-  - Sabu available for training: week of May 5, 2025
-- **Status:** **ACTIVE but significantly delayed** — Original 2024 due date has passed; current tasks show 2026 delivery target with training scheduled for July 2026
-- **Team Members:** Beck Cotter (lead), Alex Lomis, Maciej Stachura, Jack (handoff recipient)
-- **Risk Signals:** 
-  - Original due date (Oct 2024) is overdue by ~2 years
-  - Delivery task (Alex Lomis) has no due date
-  - Training task unassigned with no due date
-  - NetCDF generation task (Maciej) has no due date
+- **Client/Customer:** Barbados Meteorological Services (contact: Sabu Best, 1-246-535-0016)
+- **Dollar value:** $22,337 (invoice 1634 paid Feb 2024)
+- **Timeline:** Project due date listed as 2024-10-01 (overdue); training scheduled July 1–4, 2026; Sabu available for training week of May 5, 2025
+- **Status:** Active but aging. Per team feedback (Jack, 2026-10-26): "All are done (and now checked off)" — recommend archiving. However, 4 open tasks remain in Asana. **Conflict noted:** Asana shows incomplete tasks; team indicates work is finished. Recommend immediate reconciliation and archival per Jack's request.
+- **Team members involved:** Alex Lomis (owner), Beck Cotter, Maciej Stachura, Jack
+- **Risk signals:** Project due date 2024-10-01 is in the past; training/delivery tasks lack due dates despite delivery/training scheduled for summer 2026
 
 ## Key Deliverables & Milestones
-1. **S0 VTOL Delivery** – Due May 22, 2026 (Beck Cotter lead)
-   - 1x S0 VTOL platform
-   - Handoff to Jack: June 23, 2026
-   - Budget: $22,337 (full amount)
 
-2. **Operator Training** – July 1–4, 2026 (Unassigned)
-   - 6 trainees expected
-   - Launch site: Bushy Park, east of Barbados into Atlantic
-   - Purpose: Storm reconnaissance flights
-
-3. **NetCDF Data Generation** – (Maciej Stachura, no due date)
-   - Generate NetCDF either on UA or tablet for meteorological data output
-
-4. **Training Materials & Supplies** – (part of budget)
+| Deliverable | Owner | Scheduled Date | Status |
+|---|---|---|---|
+| S0 VTOL delivery to customer | Alex Lomis | TBD (handoff to Jack June 23, 2026) | Open |
+| Operator training (6 personnel: Junior Brathwaite + others) | Unassigned | July 1–4, 2026 | Open; Sabu available May 5, 2025 for training prep |
+| NetCDF generation (UA or tablet) | Maciej Stachura | TBD | Open |
 
 ## Task Summary
-- **Total tasks:** 4 open, 0 completed (0% completion rate)
+- **Total tasks:** 4 open, 0 completed in Asana
 - **By assignee:**
-  - Beck Cotter: 1 task (S0 delivery lead)
-  - Alex Lomis: 1 task (deliver S0 VTOL – no due date)
-  - Maciej Stachura: 1 task (NetCDF generation – no due date)
-  - Unassigned: 1 task (operator training – no due date)
+  - Beck Cotter (1): Barbados S0 VTOL — due 2026-05-22; training/travel July 1–4; travel scheduled
+  - Alex Lomis (1): Deliver S0 VTOL — no due date
+  - Unassigned (1): Conduct operator training — no due date
+  - Maciej Stachura (1): Generate NetCDF — no due date
+- **Notable pattern:** Tasks lack consistent due dates despite known training window (July 2026) and delivery handoff (June 23, 2026)
 
 ## Recent Activity
-No recent completion activity noted. However, per team feedback (Daniel Prendergast, 2026-10-19/20), **there is a process gap:** the team currently lacks a well-defined process for transitioning proposed system builds/deliveries into the production pipeline. This project may be affected by that gap as it moves toward the May 2026 delivery and June 2026 handoff.
+**Team feedback (Jack, 2026-10-26) indicates all tasks are complete and checked off; project should be archived.** This contradicts the 4 open tasks shown in Asana. Recommend immediate update to close/archive completed items and reflect actual project status.
 
-Additionally, per Maciej's feedback (2026-10-27), the team is restructuring Asana to better track long-term milestones and link with their physical Kanban board for weekly engineering execution. This project may be reorganized as part of that effort.
+Planned restructuring (Maciej, 2026-10-27): BST is implementing two-level planning to separate long-term milestones (Asana) from weekly execution (Kanban board). This project should be reviewed as part of that reorganization.
 
 ## Notes & Context
-- **Radio Specification:** Microhard P900 (902–928 MHz ISM band, frequency hopping, 200 kHz channels per). FCC/IC approved. Barbados PM's office flagged potential interference concerns in the ISM band.
-- **Intended Use:** Meteorological reconnaissance drone for storm tracking east of Barbados into the Atlantic.
-- **Training Plan:** 6 trainees including Junior Brathwaite; proposed for September (notes indicate, though July 1–4 is the formal scheduled date).
-- **Custom Fields:** Heavy use of Customer, Project Name, and Training/Travel fields; Travel Scheduled confirmed as "Y."
-- **Product:** S0 vTOL (1 unit).
-
-**⚠️ Status Note:** This project's original 2024 due date has long passed. Current tracking shows 2026 delivery/training cycle. Confirm with Beck Cotter and Alex Lomis that May–July 2026 dates are current and realistic given the production pipeline process gaps flagged by Daniel Prendergast.
+- **Product:** S0 VTOL for storm reconnaissance (east of Barbados into Atlantic)
+- **Radio specs:** Microhard P900 (902–928 MHz, frequency-hopping ISM band); note from PM office flagged potential interference concerns
+- **Training:** 6 personnel to be trained; dates July 1–4, 2026; Sabu Best available week of May 5, 2025 for prep
+- **Handoff:** S0 responsibility transfers from Beck Cotter to Jack on June 23, 2026
+- **Invoice:** Paid; billing/POC: Sabu Best
+- **Priority:** Medium
+- **Recommendation:** Archive immediately per Jack's feedback (2026-10-26); update Asana to reflect completed work before archival to preserve task history for AI training and reference.

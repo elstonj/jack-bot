@@ -1,53 +1,62 @@
-_Computed from Toggl as of 2026-11-19: 1311.7 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 320.3 h, Stachura 272.5 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
+_Computed from Toggl as of 2026-11-20: 1313.7 h total since 2020-01-01 — Dan 472.5 h, Jack Elston 320.3 h, Stachura 274.5 h, Beck Cotter 154.4 h, Kareem Ahmed 51.6 h, Spencer Hoehl 20.2 h, Josh Fromm 19.2 h, Nate 1.0 h._
 
 # [001-13] BD Pipeline — Time Tracking
 
 ## Overview
-- **Client:** Overhead
+- **Client:** Overhead (internal)
 - **Active:** Yes
 - **Billable:** No
-- **Total Hours Tracked:** 1,311.7 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 1,313.7 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Dan | 472.5 | 36.0% |
-| Jack Elston | 320.3 | 24.4% |
-| Stachura | 272.5 | 20.8% |
-| Beck Cotter | 154.4 | 11.8% |
-| Kareem Ahmed | 51.6 | 3.9% |
-| Spencer Hoehl | 20.2 | 1.5% |
-| Josh Fromm | 19.2 | 1.5% |
-| Nate | 1.0 | 0.1% |
+| Dan | 472.5 | 36% |
+| Jack Elston | 320.3 | 24% |
+| Stachura | 274.5 | 21% |
+| Beck Cotter | 154.4 | 12% |
+| Kareem Ahmed | 51.6 | 4% |
+| Spencer Hoehl | 20.2 | 2% |
+| Josh Fromm | 19.2 | 1% |
+| Nate | 1.0 | <1% |
 
-**Primary Contributor:** Dan (472.5 hours), followed by Jack Elston (320.3 hours)
+**Primary Contributors:** Dan leads, followed by Jack Elston and Stachura as co-leads.
 
 ## Activity Timeline
 
-**Recent Work Pattern (41 most recent entries):**
-- Heavy travel and meetings dominate recent activity
-- Key initiatives: UK RAVEN Project Kickoff, Royal Navy Visit, Keesler AFB engagement
-- Multiple partner interactions: Fletch Aero, Vantor, Aerostar, Geotech
-- Recent entries span business development meetings, site visits, and design preliminary work
+### Recent Work Focus (42 most recent entries)
+**Key initiative:** UK RAVEN Project with significant Keesler AFB engagement
+- **Keesler AFB work:** Jack Elston logged 36.8 hours (travel + meeting)
+- **Royal Navy visits:** Stachura logged 18.0 hours across multiple visits
+- **EAB Meeting:** Jack Elston spent 19.8 hours in EAB meetings
 
-**Notable Recent Activities:**
-- **Jack Elston:** 32.8h in last 10 entries (Keesler AFB travel/meetings, RAVEN kickoff, site visits)
-- **Stachura:** 24.5h in last 10 entries (Royal Navy visits, S4 work, Aerostar, meetings)
-- **Dan:** Consistent undescribed work averaging 3-8h per entry (tracking gap in descriptions)
+### Identified Business Development Activities
+- Fletch Aero partnership discussion
+- NOAA Sensor white paper development
+- Vantor meetings and visits
+- Aerostar engagement
+- S0, S4 preliminary design work
+- 53rd program involvement
+- Site visits (Russ Evans, Geotech)
+- Internal SOCOM kickoff
+
+### Work Pattern
+- Mix of large travel/meeting blocks (8-9 hour entries) and focused activities (0.5-2 hour entries)
+- Many entries lack descriptions (19 of 42 recent entries undocumented)
+- Activity shows active business development with government and commercial partners
 
 ## Insights
 
-**Work Types Identified:**
-- Business development meetings and partner engagement (Vantor, Fletch Aero, Geotech, Aerostar)
-- Government/military engagements (Royal Navy, Keesler AFB, SOCOM)
-- Project kickoffs (UK RAVEN, SOCOM)
-- Technical preparation (white papers, design preliminaries, questionnaires)
-- Site visits and travel coordination
-- Internal strategy discussions
+**Work Types:**
+- Strategic meetings and partner visits (EAB, Royal Navy, Keesler AFB)
+- Proposal/white paper development (NOAA sensors, general BST white papers)
+- Program kickoffs and research discussions (UK RAVEN, SOCOM, S0/S4)
+- Site visits and relationship building
+- Go-to-market (GTM) strategy work
 
-**Patterns:**
-- Large undescribed time blocks from Dan suggest either sensitive work or incomplete logging
-- Jack Elston focuses on external partnerships and travel logistics
-- Stachura balances partner meetings with technical/design work
-- Project is strategically active with multiple concurrent business development threads
-- No revenue generation (non-billable overhead project)
+**Notable Patterns:**
+- Recent activity heavily skewed toward Jack Elston (travel-intensive, high-value meetings)
+- Dan contributes substantial hours with minimal documentation
+- Stachura active in partner meetings and preliminary design work
+- Project shows consistent engagement with military and government stakeholders (USAF, Royal Navy, potential SOCOM work)
+- Documentation gaps suggest rapid-turnaround business development work

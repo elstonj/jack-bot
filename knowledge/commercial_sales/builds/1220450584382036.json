@@ -33,7 +33,7 @@
     "invoicing": "Meredith",
     "build": "Jack Elston"
   },
-  "notes": "S0-VTOL for 2027 storm season on possible 'loan' status. Customer also requesting rain-capable MHP; need RAAVEN specs to determine if full S0 fuse required or if removable S3 version preferable. S0-VTOL price point ~$18k per recent Slack. Keep customer updated on S3 timeline.",
+  "notes": "S0-VTOL for 2027 storm season on possible 'loan' status. Customer requesting rain-capable MHP; need RAAVEN specs to determine if full S0 fuse required or removable S3 version preferable. S0-VTOL price point ~$18k per recent Slack (2026-10-21). Keep customer updated on S3 timeline.",
   "missing_fields": [
     "customer_contact",
     "customer_email",

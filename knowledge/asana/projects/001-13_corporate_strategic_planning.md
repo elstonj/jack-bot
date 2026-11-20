@@ -1,29 +1,57 @@
-_Asana snapshot as of 2026-11-15: 1 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 1 open tasks, 0 completed (last 90 days)._
 
 # Corporate / Strategic Planning [001-13]
 
 ## Status
-**ARCHIVED** — Project marked as inactive as of June 2024. Last status update June 16, 2024.
+**ARCHIVED** (as of Jun 16, 2024)
+
+This project is no longer active. It served as a strategic planning document for BST's marketing and real estate portfolio.
+
+---
 
 ## Overview
-- **Purpose**: Marketing strategy planning and corporate strategic direction
-- **Team**: BST (Whole Team)
-- **Key Customers/Accounts Identified**:
-  - Government/Institutional sector
-    - NOAA
-    - NASA (Aren 2023 — $90k)
-    - DOD
-    - CO OEDIT — $152k
-  - LinkedIn and email outreach channels
-- **Marketing Goals**: Increase brand awareness, drive website traffic, lead generation, grow audience, increase engagement, drive revenue
+- **Purpose:** Marketing strategy and real estate/lease planning
+- **Team:** Whole BST team
+- **Last activity:** Jun 16, 2024
+
+---
+
+## Key Clients & Revenue
+BST's customer base includes:
+- **Government/Institutional sector:**
+  - NOAA
+  - NASA (Aren, 2023: $90k)
+  - DOD
+  - CO OEDIT: $152k
+
+---
+
+## Marketing Goals (documented)
+- Increase brand awareness
+- Drive website traffic
+- Lead generation
+- Grow audience
+- Increase engagement
+- Drive revenue
+
+---
 
 ## Task Summary
-- **Total tasks**: 1 open, 0 completed
-- **Open task**: "Lease terminates" (Unassigned, no due date)
-  - Notes reference NNN lease structure with 5-year escalation schedule ($13.00–$14.63/month) and CAM charges for real estate property taxes and building insurance (effective 6.23)
+- **1 open task** (no completed tasks recorded)
+  - **Lease terminates** (Unassigned, no due date)
+    - Notes: 6.23 CAM real estate property taxes and building insurance
 
-## Recent Activity
-No recent activity — project archived since June 2024.
+---
 
-## Notes & Context
-This project appears to be strategic/planning-focused rather than operational. The one remaining open task relates to a real estate lease and appears to be administrative overhead tracking rather than a marketing initiative. The project likely transitioned to operational execution elsewhere or was consolidated into other planning structures.
+## Real Estate / Lease Plan
+The project included a 60-month lease cost projection:
+- Months 1–12: $13.00 NNN
+- Months 13–24: $13.39 NNN
+- Months 25–36: $13.79 NNN
+- Months 37–48: $14.21 NNN
+- Months 49–60: $14.63 NNN
+
+---
+
+## Notes
+This appears to be a holding archive for strategic planning and real estate records. The unclosed "Lease terminates" task suggests the project was not fully wound down in Asana. No active work is expected on this project.

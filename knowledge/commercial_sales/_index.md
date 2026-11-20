@@ -1,8 +1,8 @@
 # Commercial Sales — Pipeline Index
 
-_Last scanned 2026-11-19 03:49_
+_Last scanned 2026-11-20 04:14_
 
-## Builds (8)
+## Builds (7)
 
 | Customer | Receive By | Payment | Build | Ship | Asana |
 |----------|------------|---------|-------|------|-------|
@@ -12,7 +12,6 @@ _Last scanned 2026-11-19 03:49_
 | RAAVEN/CU | 2026-12-15 | none | none | none | `1220450584382036` |
 | NASA Langley | 2026-10-01 | estimate_sent | none | none | `1217250802689230` |
 | USSOCOM | — | invoice_sent | parts_ordered | none | `1218387458616579` |
-| Michigan Technological University | — | estimate_sent | none | none | `1210812587995014` |
 | Embry-Riddle Aeronautical University | — | invoice_sent | complete | in_transit | `1205971100510799` |
 
 ## Support Cases (0)

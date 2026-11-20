@@ -1,87 +1,110 @@
-_Asana snapshot as of 2026-11-19: 200 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 203 open tasks, 0 completed (last 90 days)._
 
 # [001-13] Purchasing
 
 ## Overview
+- **Owner**: Meredith O'hara Needham
+- **Team**: Black Swift Technologies (Whole Team)
+- **Status**: **ACTIVE** – High-volume purchasing project with 203 open tasks and 0 completed. This is a workflow project using Asana to manage purchase requests across the organization.
+- **Notable context**: Project uses a mandatory Asana form for task creation (`https://form.asana.com/?k=AYO2EiBus4sRY0G_cbPmHw&d=12804948716594`). Tasks that bypass the form auto-delete.
 
-- **Owner:** Meredith O'hara Needham
-- **Team:** BST (Whole Team)
-- **Status:** Active (high-volume purchasing operation)
-- **Task Volume:** 200 open tasks, 0 completed
-- **Primary Function:** Centralized procurement system for all BST projects
+**⚠️ Team feedback indicates email forwarding issue**: Joshua Fromm reported (2026-11-16, 2026-11-13) that he may have been removed from the purchasing email forward and is not receiving emails. Meredith Needham acknowledged setting up the Ramp account (2026-11-19) which will centralize purchasing.
 
-## Key Observations
-
-This is a **purchasing intake and tracking system**, not a traditional project. The 200 open tasks represent purchase requests in various stages (Placed, Shipped, Received, Placed in Inventory, etc.). The tasks span multiple projects across BST's portfolio.
-
-**Critical Note:** All tasks remain marked OPEN despite many having "Order Received," "Order Shipped," or "Order Placed in Inventory" statuses. This suggests tasks are not being closed after fulfillment—a process improvement opportunity.
+---
 
 ## Task Summary
 
-**Breakdown by Status (custom field):**
-- Order Placed: ~50 tasks
-- Order Shipped: ~30 tasks
-- Order Received: ~60 tasks
-- Order Placed in Inventory: ~60 tasks
+**Total open tasks: 203** (all assigned as open; no completed tasks in view)
 
-**Primary Assignees:**
-- **Meredith O'hara Needham:** ~50 tasks (active intake)
-- **Unassigned:** ~150 tasks (completed/in inventory, awaiting closure)
+### Task Distribution by Assignee
+- **Meredith O'hara Needham**: ~50 tasks (primary purchaser/processor)
+- **Unassigned**: ~150 tasks (awaiting action or in inventory/backlog state)
+- **Jack Elston**: 1 task (New Electronics/QC order for Ali Sulehria, shipped)
 
-**Requesters (top contributors):**
-- Joshua Fromm: ~90 tasks (primary procurement driver)
-- Alex: ~20 tasks
-- Sam: ~15 tasks
-- Dan/Dan Prendergast: ~10 tasks
-- Spencer: ~8 tasks
-- Ali Sulehria: ~4 tasks
+### Task Status Breakdown
+- **Status: Order Placed**: ~15 tasks
+- **Status: Order Shipped**: ~25 tasks
+- **Status: Order Received**: ~40 tasks
+- **Status: Order Placed in Inventory**: ~120 tasks (backlog/low-priority purchases)
 
-## Recent Activity & Timeline
+---
 
-**Approaching Due Dates (November 2026):**
-- Nov 7–20: Multiple orders with imminent due dates across IRAD S3, Future Sales, SOCOM, and Shop Supplies
+## Recent Activity & Risk Signals
 
-**Recently Past Due / Significantly Overdue:**
-- Multiple tasks dating back to **June–September 2026** still marked OPEN with "Order Received" status
-- Example: "Amazon for shipping supplies" (May 18, 2026 requested date, Nov 4 due date, still OPEN)
-- "icare order for s0 idiq" (Jul 24, 2026 requested, Jul 26 due, still OPEN)
+### **Immediate Attention (Overdue or Near-Due)**
+- **2026-11-21**: ModalAI VOXL2 Processing Hardware (3 qty, for SOCOM S0-AD) — Order placed
+- **2026-11-21**: QC label tape refill (Ali Sulehria, Shop Supplies) — Order placed
+- **2026-11-21**: mcmaster shop supplies (#1039988, Joshua Fromm) — Order placed
+- **2026-11-20**: Stools for Production floor (Cory Dixon, Shop Supplies) — Requires approval
+- **2026-11-20**: PSKN3-24/55S Antenna (Dan P., IRAD S3) — Order received
+- **2026-11-20**: Sendcutsend (Alex, Future Sales) — Order received
+- **2026-11-20**: mcmaster for s3 (#8966151, Joshua Fromm) — Order received
+- **2026-11-20**: protolabs s3 sales (#1858-331) — Order received
 
-**Key Pattern:** Orders marked "Order Received" and "Order Placed in Inventory" from mid-2026 onward are accumulating without task closure, creating noise in the backlog.
+### **Recently Overdue (Past Due Dates)**
+- **2026-11-15**: materials for QC kits (ESD trays, FTDI boards, Ali Sulehria, IRAD General) — **Requires approval, Order placed**
+- **2026-11-15**: digikey s3 parts (#102911985, Joshua Fromm, Future Sales) — Order placed
+- **2026-11-15**: instrumart s3 sales (#3412, Joshua Fromm) — Order placed
+- **2026-11-15**: acp composites s3 sales (#7509, Joshua Fromm) — Order placed
+- **2026-11-14**: hillside composites s3 sales (Joshua Fromm) — Order placed
+- **2026-11-13**: composite envisions s3 backorder (Joshua Fromm, Future Sales) — **8 days overdue**
+- **2026-11-13**: jawstec s3 parts (#72289, Joshua Fromm) — Order shipped
+- **2026-11-13**: mcmaster various projects (#8641018-01, Joshua Fromm) — Order shipped
+- **2026-11-13**: jawstec s3 parts (#71988, INSTAAR S3 x2) — Order received
+- Multiple tasks from **2026-11-07 through 2026-11-01** are past due with various statuses (order placed, shipped, received)
 
-## Project Allocation
+### **Very Old Tasks (Pre-September 2026)**
+Several tasks have due dates in **July–September 2026** and remain open with "Order Received" status, indicating they may need closure:
+- icare order for s0 idiq (2026-07-26, Order Placed)
+- Components for Ground Antenna (2026-09-27, Order Placed)
+- Multiple Swiftstation, Hurricane IDIQ, and S0 VTOL orders from July–August 2026 marked "Order Received"
 
-Orders span across BST's active projects:
+---
 
-| Project | Order Count | Key Requesters |
-|---------|-------------|---|
-| [001-7] IRAD S3 | ~25 | Joshua Fromm, Sam, Alex |
-| [300-3] 2026 IDIQ (Hurricane) | ~20 | Joshua Fromm, Sam |
-| [451-1] INSTAAR S3 x2 | ~15 | Joshua Fromm |
-| [001-23] SOCOM S0-AD | ~8 | Dan, Joshua Fromm |
-| [001-4] IRAD S0 VTOL | ~12 | Alex, Joshua Fromm |
-| [001-16] IRAD Swiftstation | ~10 | Alex |
-| [550-1] Navy SBIR: Magnetometer | ~10 | Alex, Joshua Fromm |
-| [600-01] SOCOM Pope ii | ~10 | Alex, Joshua Fromm |
-| [001-3] IRAD S0 | ~6 | Joshua Fromm |
-| General Sales / Future Sales | ~25 | Joshua Fromm |
-| Shop Supplies | ~20 | Joshua Fromm |
-| Multiple Projects (breakdown needed) | ~15 | Joshua Fromm |
+## Key Patterns & Notes
 
-## Notes & Context
+### **Requesting Departments/Projects**
+Heavy purchasing activity spans:
+- **IRAD projects** ([001-3] S0, [001-4] S0 VTOL, [001-7] S3, [001-8] Flight Testing, [001-16] Swiftstation, [001-23] SOCOM S0-AD)
+- **Sales orders** (Future Sales, General Sales, [451-1] INSTAAR S3 x2)
+- **Shop Supplies** (ongoing replenishment)
+- **[300-3] 2026 IDIQ (Hurricane)** – significant number of parts orders
+- **[550-1] Navy SBIR: Magnetometer**
+- **[600-01] SOCOM Pope ii** (new project)
+- **[043-3] Mustang Pt. 2**
 
-**Tax Exempt Pattern:** Many orders to suppliers (jawstec, sendcutsend, protolabs, mouser) are marked tax-exempt—consistent with BST's non-profit research status.
+### **Top Requesters**
+1. **Joshua Fromm** – dominant requestor (40+ tasks), primarily for sales components, shop supplies, and multi-project orders
+2. **Ali Sulehria** – QC kits and materials
+3. **Dan / Dan Prendergast** – SOCOM and hardware components
+4. **Alex** – flight testing and prototype hardware
+5. **Sam** – S3 drone fixes and upgrades (motor, grounding, regulators, RF)
 
-**Vendor Ecosystem:** Repeat vendors indicate established relationships:
-- **Electronics:** Digikey, Mouser, Amazon
-- **Composites/Materials:** Jawstec, Sendcutsend, Protolabs, ACP Composites
-- **Mechanical:** McMaster, Protospace, Craftcloud
-- **Hobby/Retail:** Horizon Hobby, GetFPV, Pololu
+### **Vendor Patterns**
+Most frequent vendors (across many tasks):
+- **McMaster Carr** – shop supplies, fasteners, general hardware
+- **Jawstec** – composite and specialty parts
+- **Amazon** – miscellaneous, quick ship
+- **Digikey, Mouser** – electronics components
+- **SendCutSend, Protolabs** – CNC/PCB services
+- **Composite Envisions, ACP Composites** – drone/aircraft materials
+- **Dronetag, ModalAI, FLIR, Microhard** – specialized aviation hardware
 
-**Form Reference:** Project notes direct all submissions to a standardized Asana form to prevent auto-deletion. This suggests prior issues with task management discipline.
+### **Custom Field Insights**
+- **Requires Approval?: Yes** – ~8 tasks (orders >$200 or sensitive)
+- **Tax Exempt?: YES** – ~90 tasks (resale/project-specific)
+- **Tax Exempt?: NO** – ~113 tasks (shop supplies, general items)
 
-**Data Quality Issues:**
-1. **Stale Status:** 150+ tasks with terminal statuses (Received/In Inventory) remain open—should be archived or closed
-2. **Multi-Project Allocation:** ~15 tasks marked "MULTIPLE PROJECT - PLEASE PROVIDE BREAKDOWN" lack cost tracking clarity
-3. **Approval Field:** Some high-value orders lack consistent approval documentation
+### **Status Distribution**
+- Many tasks stuck in "Order Placed in Inventory" state (120+) with due dates 2026-12-29 and 2027-01-04 suggest these are either pending receipt, awaiting internal logistics, or low-priority backlog.
+- "Order Received" tasks (40+) should be verified as completed or closed out.
 
-**Recommendation:** Implement a task closure workflow when orders reach "Order Received" or "Order Placed in Inventory" status to maintain a clean, actionable backlog.
+---
+
+## Actionable Items
+
+1. **Email forwarding**: Confirm Joshua Fromm's access to purchasing notifications; verify Ramp account setup by Meredith (2026-11-19) is functioning.
+2. **Close old tasks**: Review and complete/archive tasks from July–September 2026 with "Order Received" status.
+3. **Clear overdue backlog**: Several tasks 8+ days past due; prioritize shipping or status update.
+4. **Approval bottleneck**: 8 tasks requiring approval (>$200) – verify approval workflow is unblocked.
+5. **Inventory reconciliation**: 120 "Order Placed in Inventory" tasks need owner review to separate truly pending orders from internal holding stock.

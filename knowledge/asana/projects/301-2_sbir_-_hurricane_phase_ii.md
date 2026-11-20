@@ -1,25 +1,27 @@
-_Asana snapshot as of 2026-11-15: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 0 open tasks, 0 completed (last 90 days)._
 
 # SBIR - Hurricane Phase II+
 
 ## Overview
-- **Client/Customer:** University of Miami (NOAA) / NOAA/AOML/HRD
-- **Dollar Value:** $344,000 (total budget; full amount to Black Swift)
-- **Contract Type:** SBIR Phase II+
-- **Status:** **ARCHIVED** (as of January 3, 2024)
-- **Owner:** Jack Elston
-- **Team:** BST (Whole Team)
-- **Key Contacts:**
-  - **GPC (Government):** Dr. Joseph Cione (NOAA/AOML/HRD) – joe.cione@noaa.gov
-  - **UPC (University):** Dr. Jun Zhang (University of Miami/CIMAS) – Jun.Zhang@rsmas.miami.edu
-  - **Billing:** Luis Quijada, lcq5@miami.edu
+- **Client/Customer:** University of Miami (NOAA)
+- **Budget:** $344,000 (total to Black Swift Technologies)
+- **Status:** ARCHIVED (as of January 3, 2024)
+- **Project Owner:** Jack Elston
+- **Team:** Whole BST team
+- **Government Point of Contact:** Dr. Joseph Cione (GPC), NOAA/AOML/HRD, joe.cione@noaa.gov
+- **University Point of Contact:** Dr. Jun Zhang (UPC), University of Miami/CIMAS, Jun.Zhang@rsmas.miami.edu
+- **Billing Contact:** Luis Quijada, lcq5@miami.edu
 
-## Project Context
-This is a Small Business Innovation Research (SBIR) Phase II+ contract for hurricane-related research. The project involves delivery of S0 systems and custom payloads. Dr. Joseph Cione and Dr. Jun Zhang are designated Subject Matter Experts (SMEs) for non-contractual technical questions; all technical disagreements or contractual changes must be directed to the CO (Contracting Officer).
+## Key Context
+This is a Small Business Innovation Research (SBIR) Phase II+ contract for hurricane research. Dr. Cione and Dr. Zhang serve as Subject Matter Experts (SMEs) for technical questions; contractual changes must be directed to the Contracting Officer (CO).
+
+## Task Summary
+- **Total tasks:** 0 open, 0 completed (archived state)
+- All work appears to have been completed and archived as of January 3, 2024
 
 ## Status
-**Project archived.** As of January 3, 2024, all contracted work was completed. No open or active tasks remain in Asana.
+**PROJECT ARCHIVED.** Final status update completed January 3, 2024. No active tasks remain.
 
-## Notes
-- All subcontractor work handled internally; no external subcontractors.
-- Asana task tracking has been closed out with project completion.
+---
+
+**Note:** Asana structure for this project is inactive. As of October 27, 2026, BST team is implementing a restructuring of active R&D projects to use a two-level planning system (Asana for long-term milestones, physical Kanban board for weekly execution). This archived project is not part of that restructuring.

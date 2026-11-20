@@ -5,8 +5,8 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-19",
-    "end": "2026-11-19"
+    "start": "2024-11-20",
+    "end": "2026-11-20"
   },
   "totals": {
     "revenue": 1067375.0,
@@ -870,24 +870,6 @@
     {
       "type": "Purchase",
       "date": "2026-11-26",
-      "doc_number": "",
-      "total": 39.07,
-      "attributed": 39.07,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "verbal request for shipment by S. Hild",
-      "lines": [
-        {
-          "amount": 39.07,
-          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
-          "description": "shipment to Summit Assembly"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2026-11-26",
       "doc_number": "261108W019010",
       "total": 212.89,
       "attributed": 123.37,
@@ -927,6 +909,24 @@
         {
           "amount": 19.0,
           "account": "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties",
+          "description": "shipment to Summit Assembly"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-11",
+      "doc_number": "",
+      "total": 39.07,
+      "attributed": 39.07,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "verbal request for shipment by S. Hild",
+      "lines": [
+        {
+          "amount": 39.07,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
           "description": "shipment to Summit Assembly"
         }
       ]

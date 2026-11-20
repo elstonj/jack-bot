@@ -1,35 +1,37 @@
 # Sam Hild — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 38 emails (28 previous + 10 new)
-- **Date range:** 15–18 Nov 2026 (4 days)
-- **Approximate volume:** Peak on 16–17 Nov (sustained 8–14 emails/day); continued high activity on 18 Nov (6 new emails in single day)
-- **Daily average:** ~9.5 emails/day during active period
+- **Total messages scanned:** 45 emails (38 previous + 7 new)
+- **Date range:** 15–20 Nov 2026 (6 days)
+- **Approximate volume:** Peak activity 16–18 Nov (8–14 emails/day); activity continuing through 20 Nov at lower volume (1–2 emails/day)
+- **Daily average:** ~7.5 emails/day across full period
 
 ## Key Correspondents
 
 ### Top External Contacts
-1. **Frank Strazzabosco** (microfirm@earthlink.net) — 17 emails total (13 previous + 4 new) — primary supplier/vendor; now coordinating multi-party technical exchanges with new expanded distribution list
+1. **Frank Strazzabosco** (microfirm@earthlink.net) — 17 emails total (13 previous + 4 from earlier batch) — primary supplier/vendor; multi-party technical exchanges
 2. **Tom Simcox** (tom.simcox@bartington.com) — 1 email (via Maciej Stachura forward; external sensor vendor)
+3. **Vertiq Support** — NEW: Technical support channel (motor/controller questions); forwarded to Sam by Joshua Fromm on 19 Nov (marked IMPORTANT)
 
 ### Internal Collaborators (by frequency)
-1. **Jack Elston** (elstonj@blackswifttech.com) — Now appearing on 4 of 4 new Frank Strazzabosco emails; primary escalation point alongside Sam
-2. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — NEW: Direct email on 18 Nov re: core2 v04 (marked IMPORTANT); also on Frank's expanded distribution list (3 emails on 18 Nov)
-3. **Thinh Nguyen** (thinh991@yahoo.com) — NEW: Elevated role; now receiving Frank's supplier/order coordination emails directly; fielding shipment/component status (marked IMPORTANT on 18 Nov)
-4. **Maciej Stachura** (stachura@blackswifttech.com) — Task assigner; previous vendor coordinator (no new activity)
+1. **Jack Elston** (elstonj@blackswifttech.com) — 5+ emails total; primary escalation point; now actively routing technical vendor questions to Sam
+2. **Ali Sulehria** (ali.sulehria@blackswifttech.com) — 3 emails (previous batch); direct stakeholder on core2 v04
+3. **Thinh Nguyen** (thinh991@yahoo.com) — 2 NEW emails (19 Nov); active on p900s coordination; responding to Sam's direct inquiry marked IMPORTANT
+4. **Joshua Fromm** (josh.fromm@blackswifttech.com) — NEW: Technical contact; forwarding Vertiq support responses to Sam on 19 Nov (2 emails marked IMPORTANT); appears to be liaison with external motor/controller vendor
+5. **Maciej Stachura** (stachura@blackswifttech.com) — Task assigner; previous vendor coordinator (no new activity)
 
 ### Automated/Tool Notifications
-- Asana (project management) — 5 emails total (1 new)
-- Toggl Track (time tracking) — 3 emails (2 new)
-- Rippling (HR/benefits) — 2 emails (1 new)
-- Elevate (benefits card) — 1 email
-- Texas Instruments (vendor account) — 1 email
-- 1105info.com (external promotion) — 1 email
+- Asana (project management) — 6 emails total (1 new, Thu 19 Nov)
+- Toggl Track (time tracking) — 3 emails (previous batch)
+- Rippling (HR/benefits) — 2 emails (previous batch)
+- Elevate (benefits/expenses) — 2 emails (1 new, Fri 20 Nov)
+- Texas Instruments (vendor account) — 1 email (previous batch)
+- 1105info.com (external promotion) — 1 email (previous batch)
 
 ### Internal vs External
-- **External human correspondence:** 1 vendor (Frank Strazzabosco dominates; also 1 email exchange with Thinh on shipment)
-- **Internal emails:** 3 from Jack Elston area, 1 direct from Ali Sulehria, 1 response to Thinh; Frank forwarding to 4–5 internal staff simultaneously
-- **Automated/system emails:** 5 messages
+- **External human correspondence:** 1 vendor (Frank Strazzabosco) + 1 vendor support channel (Vertiq via Joshua Fromm forwarding)
+- **Internal emails:** Increased from Jack Elston; new contact Joshua Fromm acting as technical intermediary; continued collaboration with Thinh on logistics
+- **Automated/system emails:** 6 messages
 
 ## Topic Patterns
 
@@ -39,57 +41,62 @@
 - **P400 pin 48 isolates** — ongoing (previous period)
 - **Psns v1.6 and v37 BOMs** — ongoing
 
-### Active Projects (New Visibility)
-- **core2 v04** — Remains high-priority; now visible as direct conversation topic with Ali Sulehria (18 Nov, marked IMPORTANT)
-- **Psns v37** — Part substitution issue escalated by Frank on 18 Nov (marked IMPORTANT); broader team visibility (Jack, Ali, Thinh copied)
+### Active Projects
+- **core2 v04** — High-priority (previous period); likely progressing (no new visibility in this batch)
+- **p900s** — NEW: Active coordination topic (19 Nov); Sam initiating inquiry to Thinh; Jack also involved (marked IMPORTANT); appears to be hardware platform or component set
 
-### Supplier/Order Management (New Focus)
-- **WO961980891897401624** — Order refund coordination; Frank escalating with Weylan-D (sales2@weylan-d.com); multi-party (Jack, Sam, Ali, Thinh copied)
-- **USO261117014326** — Order/shipment forwarded by Frank; marked IMPORTANT; involves Thinh as primary responder
+### Motor/Controller Technical Support (New Focus)
+- **Volt limit and Volts Limit Starting Voltage** — NEW: Vertiq support question (19 Nov, forwarded by Joshua Fromm, marked IMPORTANT)
+- **Calibration mode on 24-14 motors** — NEW: Vertiq support question (19 Nov, forwarded by Joshua Fromm, marked IMPORTANT)
+- **Vertiq controller/motor integration** — NEW: External vendor technical support flowing through Joshua Fromm to Sam
 
-### External Vendor References
-- **Weylan-D** (sales2@weylan-d.com) — NEW; appears to be component supplier; Frank coordinating refund/order issue on 18 Nov
+### Supplier/Order Management (Ongoing)
+- **WO961980891897401624** — Order refund coordination (previous period)
+- **USO261117014326** — Order/shipment tracking (previous period)
+- **Weylan-D** (sales2@weylan-d.com) — Component supplier (previous period)
 
 ## Communication Patterns
 
 ### Temporal Patterns
-- **Extended activity window:** 04:32 AM – 22:43 PM UTC on 18 Nov (18+ hours); multiple waves of Frank's emails (04:32, 05:40, 08:43 AM PST)
-- **Early morning vendor coordination:** Frank initiating at 04:32–05:40 AM PST (supplier urgency or timezone difference)
-- **Fast escalation:** Ali responds to core2 v04 on 18 Nov (marked UNREAD when received); Thinh responding to shipment status (marked IMPORTANT)
-- **Multi-threaded simultaneous coordination:** 3 separate Frank emails on 18 Nov with overlapping but distinct topics (order refund, shipment tracking, Psns v37 substitution)
+- **Activity window:** 07:48 AM UTC (20 Nov) to earlier exchanges on 19 Nov (10:02 AM – 18:17 PM UTC)
+- **Morning concentration:** Most new emails arriving 10:02 AM – 13:20 PM local time (PST/UTC-7)
+- **Fast response cycle:** Thinh responding same-day to Sam's p900s inquiry (10:02 AM → 18:17 PM UTC = ~8 hour turnaround)
+- **Technical escalation pattern:** Joshua Fromm forwarding Vertiq vendor support responses directly to Sam (marked IMPORTANT both), suggesting Sam is primary point of contact for motor/controller integration issues
 
 ### Exchange Patterns
-- **Expanded distribution model:** Frank now copying 4–5 internal staff (Jack, Sam, Ali, Thinh) on single emails rather than point-to-point exchanges
-- **Role clarity emerging:** 
-  - **Jack Elston** — appearing on all Frank emails (design/technical decision-maker)
-  - **Ali Sulehria** — now direct respondent on core2 v04 (design contributor or lead)
-  - **Thinh Nguyen** — primary contact for order/shipment/component status
-  - **Sam Hild** — included on all vendor coordination but not primary respondent
-- **Task reminders:** Asana continuing daily Monday–Wednesday pattern
+- **Sam initiating direct vendor contact:** Sam emailing Thinh directly on p900s (not routed through Frank or Jack)
+- **New intermediary role for Joshua Fromm:** Acting as liaison between Vertiq support and Sam for technical questions
+- **Tech support forwarding model:** Joshua forwarding vendor responses marked IMPORTANT to Sam (not to Jack or broader team), indicating Sam owns motor/controller technical integration
+- **Task reminder continuation:** Asana reminder on Thursday 19 Nov (6 tasks due soon)
+
+### Role Clarity Evolution
+- **Sam's expanding scope:** No longer just secondary/support role; now primary contact for:
+  - p900s coordination (direct exchange with Thinh)
+  - Motor/controller technical integration (Vertiq questions routed to Sam via Joshua)
+  - Vendor technical support escalation
 
 ## Key Relationships
 
-### Primary External Relationship
-- **Frank Strazzabosco** — Supplier/vendor with high-velocity multi-threaded coordination. 18 Nov shows shift from bilateral (Sam/Jack) exchanges to broadcast model; managing multiple simultaneous order/component issues. Same-day turnaround pattern continues.
+### Primary External Relationships
+- **Frank Strazzabosco** — Supplier/vendor (ongoing, previous period)
+- **Vertiq Support** — NEW: Motor/controller technical vendor; engaged through Joshua Fromm intermediary
 
-### Primary Internal Relationships (Expanded)
-- **Jack Elston** — Consistently copied on all Frank correspondence; appears to be technical/design lead or decision-maker
-- **Ali Sulehria** — NEW: Direct stakeholder on core2 v04; now responding to design questions independently (marked IMPORTANT)
-- **Thinh Nguyen** — NEW: Primary component/order coordinator; fielding shipment status and supplier logistics; appears to be procurement/supply chain owner
+### Primary Internal Relationships
+- **Jack Elston** — Technical/design decision-maker; still on vendor emails; now routing technical questions toward Sam on motor/controller issues
+- **Joshua Fromm** — NEW KEY CONTACT: Technical liaison/intermediary with Vertiq (external motor vendor); forwarding support responses to Sam marked IMPORTANT
+- **Thinh Nguyen** — Supply chain/procurement coordinator; responding to Sam's direct p900s inquiry
+- **Ali Sulehria** — Design contributor (previous period; no new activity)
 
 ### Secondary Internal Relationships
-- **Maciej Stachura** — Task assigner; prior vendor coordinator (no new activity in this batch)
+- **Maciej Stachura** — Task assigner (no new activity)
 
 ## Notable Observations
 
-- **Organizational structure becoming visible:** 18 Nov emails suggest clear functional separation: Jack (technical), Ali (design/systems?), Thinh (procurement/supply chain), Sam (integration/support role)
-- **Frank Strazzabosco's role expanding:** No longer bilateral vendor negotiation; now coordinating complex multi-part orders with internal team. Suggests Frank may be supply chain partner or integration coordinator, not just component supplier.
-- **Multiple concurrent crises/issues visible:**
-  1. **Psns v37 part substitution** — urgent (marked IMPORTANT)
-  2. **WO961980891897401624 order refund** — escalated to external partner (Weylan-D)
-  3. **USO261117014326 shipment tracking** — Thinh handling logistics
-  4. **core2 v04 design question** — Ali now responding directly
-- **Sam's role clarifying as secondary:** Sam is copied on all vendor/order exchanges but not primary respondent on any new 18 Nov emails; suggests supporting/awareness role rather than decision-making
-- **Early morning vendor activity:** Frank initiating at 04:32–05:40 AM PST suggests either East Coast timezone (7+ hours ahead) or overnight supplier activity requiring urgent BST team escalation
-- **Benefits/HR disruption:** Rippling payment decline on 18 Nov (unrelated but noted)
-- **No core2 v04 direct continuation:** Last core2 v04 activity was 17 Nov evening; 18 Nov shows only Ali's IMPORTANT response (content unknown), suggesting issue resolved or escalated differently
+- **Sam's technical role solidifying:** 19 Nov emails show Sam transitioning from secondary/awareness role to primary technical contact for motor/controller integration (Vertiq support questions routed directly to Sam via Joshua Fromm, both marked IMPORTANT)
+- **New vendor engagement — Vertiq:** Motor/controller vendor entering the communication channel; multiple technical questions on 19 Nov suggest active integration work or troubleshooting
+- **p900s emerging as new active project:** 19 Nov direct exchange between Sam and Thinh, with Jack copied/involved (marked IMPORTANT); appears to be new hardware platform or component series requiring procurement/integration coordination
+- **Joshua Fromm identified as technical intermediary:** New internal contact acting as liaison between Vertiq vendor support and BST engineering team; suggests specialized role (motor/controller integration engineer?)
+- **Calmer activity level after 18 Nov crisis wave:** Activity dropping to 1–2 emails/day 19–20 Nov (compared to 8–14/day on 16–18 Nov); suggests crisis issues (refund, substitution, shipment) resolved or escalated differently
+- **Still included on all vendor/supply emails:** Sam remains on distribution lists but not always primary respondent (Jack and Thinh handling direct responses)
+- **Expense tracking automation:** Elevate benefits card activity on 20 Nov (routine; no action required)
+- **Asana task reminders continuing:** 6 tasks due soon on Thursday 19 Nov (consistent project management activity)

@@ -1,59 +1,68 @@
-_Asana snapshot as of 2026-11-17: 30 open tasks, 16 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 30 open tasks, 16 completed (last 90 days)._
 
 # [001-13] General Operations
 
 ## Overview
 - **Owner:** Meredith O'hara Needham
 - **Team:** BST (Whole Team)
-- **Status:** Active – ongoing operational and compliance project
-- **Dollar value:** Not specified in custom fields
-- **Timeline:** Recurring/continuous; key regulatory deadlines include SAM.gov renewal (Sept 5, 2026 – completed), Periodic Report filing (Sept 9, 2026 – completed), and EAR ECCN classification due Oct 5, 2026
-- **Team members involved:** Meredith O'hara Needham (owner), Lynn Regnier, Beck Cotter, Dan Prendergast, Jack Elston, Cory Dixon, Maciej Stachura, Josh Waldman (completed tasks)
+- **Status:** Active – ongoing operations and compliance project
+- **Dollar Value:** Not specified in custom fields
+- **Timeline:** Recurring/continuous operations; note Periodic Report due Sept. 9, 2027; several compliance initiatives in progress
+- **Risk Signals:** 
+  - Multiple unassigned administrative tasks (Expense/Travel Policy, Deel setup, Employee Handbook, Onboarding Slide Deck, etc.)
+  - 30 open tasks vs. 16 completed suggests backlog of internal governance work
+  - Several compliance/regulatory tasks without due dates (European Compliance, GAAP, NDAA, CMMC) — priority and timeline unclear
 
 ## Key Deliverables & Milestones
 
-| Deliverable | Owner | Due Date | Status |
-|---|---|---|---|
-| Receive EAR ECCN classification for S3 | Dan Prendergast | 2026-10-05 | Open |
+| Task | Owner | Due Date | Status |
+|------|-------|----------|--------|
+| File Periodic Report (CO SOS) | Meredith O'hara Needham | Sept. 9, 2027 | Open (note: task due 2027-09-04; prior instance completed 2026-09-28) |
+| Receive EAR ECCN classification for S3 | Dan Prendergast | 2026-10-05 | Open (SNAP-R Ref. 2026S03 classified 1/29/2026) |
 | Validate Beacon Import | Beck Cotter | 2026-11-20 | Open |
 | Setup Production-based Kanban board | Cory Dixon | 2026-11-06 | Open |
-| File Periodic Report (CO Secretary of State) | Meredith O'hara Needham | 2026-09-04 | **Completed 2026-09-28** |
-| Renew SAM.gov registration | Meredith O'hara Needham | 2026-08-03 | **Completed 2026-09-28** |
+| Pay Rent | Meredith O'hara Needham | 2026-09-28 | Open (recurring; last paid 2026-09-28) |
+| Check Toggl for project tracking | Meredith O'hara Needham | 2026-10-05 | Open (recurring; last batch completed 2026-09-28) |
 
 ## Task Summary
 
-**Overall:** 30 open, 16 completed (34.8% completion rate)
+**Totals:** 30 open | 16 completed (35% completion rate)
 
 **By Assignee (Open Tasks):**
-- Unassigned: 8 tasks (Service Animals, Expense/Travel Policy, Deel setup, Time Allocation Review, Employee Handbook, Onboarding Deck, Shop Cleaning/Repairs, Process Improvement, GAAP compliance)
-- Jack Elston: 6 tasks (European Compliance, Toaster Oven, Phone system, Desk Partitions, Equipment wish list, Zendesk for Support)
-- Lynn Regnier: 4 tasks (Cash Forecasting, Holidays Guidance, Expense management tool, Accordion Phase II scope)
-- Meredith O'hara Needham: 3 tasks (Pay Rent, Toggl tracking audit, Periodic Report re-file)
-- Cory Dixon: 2 tasks (Org Chart, Kanban board)
-- Dan Prendergast: 2 tasks (EAR ECCN, Deployment Kits)
-- Beck Cotter: 2 tasks (Beacon validation, CMMC)
-- Maciej Stachura: 2 tasks (NDAA Compliance, Blue/Green UAS status)
+- Meredith O'hara Needham: 4 (Pay Rent, Check Toggl, File Periodic Report, recurring)
+- Jack Elston: 5 (European Compliance, Toaster Oven, Phone system, Desk Partitions, Equipment wish list, Zendesk)
+- Unassigned: 8 (Service Animals, Expense/Travel Policy, Deel setup, Time Allocation Review, Employee Handbook, Onboarding Slide Deck, Shop Cleaning/Repairs, Process Improvement, GAAP Compliance)
+- Beck Cotter: 2 (Validate Beacon Import, CMMC)
+- Dan Prendergast: 2 (EAR ECCN S3, Deployment Kits)
+- Lynn Regnier: 3 (Cash Forecasting, Holidays Guidance, Choose expense tool, Accordion Phase II scope)
+- Cory Dixon: 2 (Update Org Chart, Setup Kanban board)
+- Maciej Stachura: 2 (NDAA Compliance, Blue/Green UAS status)
 
-**Completion Pattern:** Meredith O'hara Needham shows strong execution on recurring/routine tasks (Toggl audits, rent, periodic filings) but several critical compliance and infrastructure tasks remain stuck unassigned.
+**Completion Pattern:** Meredith O'hara Needham shows strong completion on recurring tasks (Toggl checks, Rent, Periodic Report batched on 2026-09-28); most other open tasks lack recent completion signals.
 
 ## Recent Activity
 
-- **2026-09-28:** Batch completion of multiple recurring tasks (Toggl audits, rent payment, Periodic Report filing, SAM.gov renewal) – suggests catch-up work or sprint closure
-- **2026-11-16:** Definition of part number scheme (Arena-based) completed by Josh Waldman, slightly past due date (2026-11-06)
-- **Active:** Beacon Import validation, Kanban board setup, and EAR ECCN classification all approaching/at due dates (Oct–Nov 2026)
+- **Most Recent Completions (2026-09-28 batch):** Meredith completed multiple recurring Toggl reminders, rent payment, SAM.gov renewal, and the Periodic Report. This suggests a monthly reconciliation cycle.
+- **Most Recent Open:** Validate Beacon Import (Beck, due 2026-11-20), Setup Kanban board (Cory, due 2026-11-06).
+- **Backlog Signal:** 8 unassigned tasks indicate administrative work queued but not yet owned.
 
 ## Notes & Context
 
-**Compliance & Regulatory:**
-- Multiple compliance workstreams in progress: NDAA supply chain security, CMMC Level I (17 safeguards for Federal Contracting Information), European Compliance, GAAP accounting, and Blue/Green UAS classification status
-- EAR ECCN classification already received (Ref. 2026S03, CCN Z1893789, accepted 1/29/2026) but task remains open – may need closure or follow-up documentation
-- Periodic Report and SAM.gov renewal are recurring obligations; recent batch completion suggests reliable process for these
+**Compliance & Regulatory Priorities:**
+- **NDAA Compliance:** Supply chain security/tracing; documentation and process tracking for sourcing and manufacturing (Maciej Stachura).
+- **CMMC Level I:** 17 safeguards for Federal Contracting Information (Beck Cotter); linked documentation in task notes.
+- **European Compliance:** Assigned to Jack Elston; no due date or notes.
+- **GAAP Compliance:** Generally Accepted Accounting Principles review; unassigned.
+- **EAR ECCN Classification:** Underway for S3 (SNAP-R Reference 2026S03, classified 1/29/2026); Dan Prendergast tracking.
 
-**Staffing & Assignment Gaps:**
-- 8 unassigned tasks indicate resource or prioritization constraints; several are foundational (handbook, compliance, process improvement)
-- Lynn Regnier managing cash flow and expense tooling decisions but lacks a due date for critical forecasting task
-- Jack Elston owns multiple facilities/infrastructure items with no due dates (phone system, desks, ovens, Zendesk) – suggests wish list rather than committed projects
+**Administrative Gaps:**
+- **Handbook & Onboarding:** Employee Handbook and Onboarding Slide Deck unassigned and undated.
+- **Expense Management:** Lynn Regnier tasked with choosing tool and managing Accordion Phase II billing reconciliation.
+- **HR/Policy:** Service Animals policy, Expense/Travel Policy, and Deel setup (payroll/contractor management) are unassigned, suggesting these may be deprioritized or awaiting resource allocation.
 
-**Accordion Phase II (Lynn Regnier note):** Tracking scope vs. billing under industrial plan; predates Jack's involvement; audit of vendor obligations required
+**Facilities & Equipment:**
+- Jack Elston owns multiple facilities/equipment tasks (toaster oven, phone system, desk partitions, equipment wish list, Zendesk support tool) — no due dates, appears to be ongoing wish-list/process improvement work.
 
-**Operational:** Meredith O'hara Needham focuses on compliance/admin; recurring Toggl audits suggest time-tracking accountability is a priority.
+**Recurring Processes:**
+- Monthly Toggl time-tracking enforcement and rent payment handled by Meredith.
+- Annual Periodic Report (CO SOS filing) on calendar.

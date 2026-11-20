@@ -1,65 +1,63 @@
-_Computed from Toggl as of 2026-11-19: 6645.7 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-20: 6651.3 h tracked since 2020-01-01._
 
 # Stachura — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 6,645.7 hours (all-time since 2020-01-01)
-- **Primary projects (top 5 by hours):**
+- **Total hours tracked:** 6,651.3 hours (all-time since 2020-01-01)
+- **Primary projects (top 5):**
   1. SwiftCore 3.3 (IRAD) — 1,504.9 hours (22.6%)
-  2. General Operations (Overhead) — 464.5 hours (7.0%)
-  3. Corporate/Strategic Planning (Overhead) — 443.4 hours (6.7%)
+  2. General Operations (Overhead) — 467.1 hours (7.0%)
+  3. Corporate / Strategic Planning (Overhead) — 443.4 hours (6.7%)
   4. SBIR - Hurricane Phase II+ (NOAA) — 434.1 hours (6.5%)
   5. Proposals (IRAD) — 408.3 hours (6.1%)
-- **Time period covered:** January 2020 – present
+- **Time period:** 2020-01-01 to present (5+ years)
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| SwiftCore 3.3 | 1,504.9 | 22.6% | IRAD |
-| General Operations | 464.5 | 7.0% | Overhead |
-| Corporate/Strategic Planning | 443.4 | 6.7% | Overhead |
-| SBIR - Hurricane Phase II+ | 434.1 | 6.5% | NOAA (Joe Cione) |
-| Proposals | 408.3 | 6.1% | IRAD |
-| S3 IRAD | 374.3 | 5.6% | IRAD |
-| 2026 IDIQ (Hurricane) | 355.9 | 5.4% | NOAA |
-| Project 183171534 | 300.9 | 4.5% | — |
-| S0 Hurricane Phase II - 2025 | 299.9 | 4.5% | NOAA (Joe Cione) |
-| BD Pipeline | 272.5 | 4.1% | Overhead |
-| Navy STTR: Hazardous Weather | 224.8 | 3.4% | Navy |
-| Navy SBIR: Magnetometer | 196.5 | 3.0% | Navy |
-| **Other projects (40+)** | **368.2** | **5.5%** | Various |
+| [001-14] SwiftCore 3.3 | 1,504.9 | 22.6% | IRAD |
+| [001-13] General Operations | 467.1 | 7.0% | Overhead |
+| [001-13] Corporate / Strategic Planning | 443.4 | 6.7% | Overhead |
+| [301-2] SBIR - Hurricane Phase II+ | 434.1 | 6.5% | NOAA (Joe Cione) |
+| [001-13] Proposals | 408.3 | 6.1% | IRAD |
+| [001-07] S3 IRAD | 374.3 | 5.6% | IRAD |
+| [300-3] 2026 IDIQ (Hurricane) | 355.9 | 5.4% | NOAA |
+| [301-3] S0 Hurricane Phase II - 2025 | 299.9 | 4.5% | NOAA (Joe Cione) |
+| [001-13] BD Pipeline | 274.5 | 4.1% | Overhead |
+| [550-2] Navy STTR: Hazardous Weather | 224.8 | 3.4% | Navy |
+| Other projects (40+ smaller projects) | 665.0 | 10.0% | Various |
+
+**Overhead allocation (General Operations, Strategic Planning, Proposals, BD Pipeline):** ~1,593.3 hours (24.0%)
 
 ## Recent Activity
 
-**Current Focus (last 100 entries):**
-- Heavily engaged with **SwiftCore 3.3** (IRAD internal platform)—frequent entries of 1–8 hours
-- Active on **General Operations** overhead work—steady 1–8 hour sessions
-- Increased **BD Pipeline** activity—notably Royal Navy visits (9.1h and 6.6h entries) and associated GTM/Aerostar meetings
-- **SwiftCore 4.0** development picking up recently (1.3–5.2 hour sessions)
-- Support for **Navy SBIR: Magnetometer** and **SOCOM Pope** (emerging work)
-- **Proposals** work continues regularly (0.5–2.8 hour increments)
-- **Hurricane projects** (Phase II+ and 2026 IDIQ) appear sporadically
+Recent entries show focus on:
+- **SwiftCore 3.3** — ongoing core platform work with sessions ranging 0.5–7.9 hours (no task descriptions)
+- **General Operations** — steady intake of overhead work, increasing frequency in recent logs (0.3–8.7 hour sessions)
+- **BD Pipeline** — growing activity including:
+  - Royal Navy Visit (15.7 hours combined)
+  - Royal Navy Presentation & Magnetometer work (2.2 hours)
+  - Vantor Meeting (1.8 hours)
+  - Aerostar (2.2 hours)
+  - GTM discussion (1.3 hours)
+- **SwiftCore 4.0** — emerging next-generation platform with 26.2 hours total (recent sessions 0.6–5.2 hours)
+- **Navy SBIR: Magnetometer** — recent engagement (3.5–2.0 hour blocks)
+- **2026 IDIQ (Hurricane)** — active NOAA proposal/planning work
 
-**Notable Patterns in Descriptions:**
-- Majority of recent entries lack descriptions (minimal context recorded)
-- Named activities emerging: Royal Navy presentations/visits, TPM meetings, Vantor meetings, GTM planning, Aerostar discussions
-- Most work remains undescribed, limiting visibility into task details
+**Notable pattern:** Most recent entries lack task descriptions; earlier entries show business development meetings (Royal Navy, Vantor, Aerostar) and technical presentations.
 
 ## Patterns
 
-**Primary Work Focus:**
-- **Core product development:** SwiftCore 3.3 is dominant (22.6% of all time)—suggests primary technical responsibility
-- **Government contracting:** NOAA hurricane projects (11.9% combined), Navy programs (6.4% combined), and other federal work comprise ~35% of total hours
-- **Business development:** Overhead work (General Ops + Strategic Planning + BD Pipeline + Proposals) totals ~24%—indicates significant leadership/management involvement
+**Primary work focus:**
+- Core product development (SwiftCore 3.3 is 1 in 4.4 hours)
+- Business development and strategic overhead (nearly 1 in 4 hours)
+- Sponsored research/government contracts (NOAA, Navy, NASA projects account for ~18% of time)
 
-**Shift Over Time (visible from recent entries):**
-- Recent work shows increased emphasis on **BD Pipeline activities** and **customer-facing engagement** (Royal Navy visits, GTM discussions)
-- **SwiftCore 4.0** emerging as active development focus (previously minimal at 20.7 total hours)
-- Uptick in **Navy SBIR: Magnetometer** work
-- Heavy **General Operations** baseline maintained regardless of project intensity
+**Shift over time (visible in recent activity):**
+- Increased emphasis on **business development** (Royal Navy engagement, pipeline activities)
+- Emergence of **SwiftCore 4.0** as a secondary focus alongside 3.3 maintenance
+- Consistent Navy magnetometer work, suggesting ongoing sensor R&D interest
+- Steady overhead allocation suggests leadership/planning responsibilities
 
-**Work Style:**
-- Flexible hourly entry patterns (0.3–8.7 hour sessions)
-- Heavy reliance on internal/IRAD projects balanced with government contract work
-- Appears to hold multiple concurrent responsibilities (product, proposals, business development)
+**Work intensity:** Variable session lengths (0.5–9.1 hours) indicate both focused deep work and administrative touchpoints; lack of descriptions in recent logs suggests either routine work or time tracking without detailed task logging.

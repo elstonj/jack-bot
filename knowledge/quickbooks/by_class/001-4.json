@@ -5,14 +5,14 @@
     "[001] Black Swift Technologies - IRAD:(001-4) IRAD - S0 VTOL"
   ],
   "period": {
-    "start": "2024-11-19",
-    "end": "2026-11-19"
+    "start": "2024-11-20",
+    "end": "2026-11-20"
   },
   "totals": {
     "revenue": 0.0,
-    "expenses": 46166.1,
+    "expenses": 46159.99,
     "by_category": {
-      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 17023.36,
+      "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 17017.25,
       "Indirect Cost:Internal Research and DevelopmentX": 15183.88,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 13429.24,
       "Tariffs": 451.8,
@@ -298,17 +298,40 @@
   "purchases": [
     {
       "type": "Purchase",
-      "date": "2026-11-17",
+      "date": "2026-11-19",
       "doc_number": "",
       "total": 39.07,
-      "attributed": 39.07,
+      "attributed": 19.53,
       "vendor": "",
       "customer": "",
       "balance": null,
       "memo": "verbal request for shipment by S. Hild",
       "lines": [
         {
-          "amount": 39.07,
+          "amount": 19.53,
+          "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
+          "description": "Shipment to Summit Assembly"
+        },
+        {
+          "amount": 19.54,
+          "account": "Inventory Asset",
+          "description": "Shipment to Summit Assembly (future S3 sales)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-17",
+      "doc_number": "",
+      "total": 13.43,
+      "attributed": 13.43,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "verbal request for shipment by S. Hild",
+      "lines": [
+        {
+          "amount": 13.43,
           "account": "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development",
           "description": "shipment to Summit Assembly"
         }

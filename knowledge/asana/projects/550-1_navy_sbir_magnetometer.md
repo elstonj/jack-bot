@@ -1,61 +1,65 @@
-_Asana snapshot as of 2026-11-15: 4 open tasks, 14 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 4 open tasks, 14 completed (last 90 days)._
 
 # [550-1] NAVY SBIR: Magnetometer
 
 ## Overview
-- **Client/Customer:** U.S. Department of the Navy (SBIR Program)
+- **Client/Customer:** Department of the Navy (Government)
 - **Contact:** Angel Ruiz-Reyes
-- **Dollar Value:** $242,540 total budget
-- **Timeline:** Phase I option period began April 14, 2026; project due date listed as 2026-09-28 (now passed)
-- **Status:** **ACTIVE** — Phase I substantially complete (14 of 18 tasks done); Phase II negotiation underway. Recent activity shows project momentum continuing into 2027 with flight permissions and test event planning.
-- **Team Members:** Alex Lomis (owner), Beck Cotter, Maciej Stachura, Jack Elston, Meredith O'Hara Needham
-- **Partners:** Cetacean Research Technology (CRT), QuSpin
-- **Risk Signals:** Project due date (2026-09-28) has passed; however, Phase I appears substantially concluded with final report and invoicing completed on time. Remaining open tasks have 2027 due dates, suggesting smooth transition to Phase II planning.
+- **Dollar Value:** $242,540
+- **Timeline:** 
+  - Phase I Option Period began April 14, 2026
+  - Original Phase I due: September 28, 2026 (completed)
+  - Current open tasks extend through March 2027
+- **Status:** Active — Phase I Option Period underway; Phase II negotiation in progress
+- **Team Members:** Alex Lomis (owner), Beck Cotter, Maciej Stachura, Jack Elston, Meredith O'hara Needham
+- **Risk Signals:** None acute; Phase II negotiation task due January 1, 2027
 
 ## Key Deliverables & Milestones
 
-| Deliverable | Owner | Due Date | Status |
-|---|---|---|---|
-| **Phase I: Sensor Integration & Testing** | Alex Lomis | 2026-09-28 | ✅ Complete |
-| Submit CLIN 0007 Final Report | Jack Elston | 2026-09-28 | ✅ Completed 2026-09-29 |
-| Submit Invoice CLIN 0007 ($14,459) | Meredith O'Hara Needham | 2026-09-28 | ✅ Completed 2026-09-29 |
-| Camp Pendleton Demo Flights (Sept 14-25) | Alex Lomis | 2026-08-14 | ✅ Completed 2026-10-02 |
-| **Phase II Negotiation** | Beck Cotter | 2027-01-01 | 🟡 Open |
-| Test Event Plan | Maciej Stachura | 2027-01-08 | 🟡 Open |
-| Document All Test Events & Submission Dates | Beck Cotter | 2026-11-13 | 🟡 Open |
-| Flight Permissions for VXS-1 | Beck Cotter | 2027-03-01 | 🟡 Open |
+| Milestone | Date | Status | Notes |
+|-----------|------|--------|-------|
+| Phase I Final Report (CLIN 0007) | Sept 28, 2026 | ✅ Completed Oct 2 | Jack Elston; submitted to Navy SBIR |
+| Phase I Invoice (CLIN 0007, $14,459) | Sept 28, 2026 | ✅ Completed Sept 29 | Meredith O'hara Needham |
+| Camp Pendleton Demo Flights | Sept 14–25, 2026 | ✅ Completed Oct 2 | Local test flights with hand-launched S0-MAD (dual sensor) |
+| Phase II Negotiation | Jan 1, 2027 | 🔄 Open | Beck Cotter lead |
+| Flight Permissions for VXS-1 | Mar 1, 2027 | 🔄 Open | Beck Cotter lead |
+| Test Event Plan | Jan 8, 2027 | 🔄 Open | Maciej Stachura lead |
+| Document All Test Events & Submission Dates | Nov 13, 2026 | 🔄 Open | Beck Cotter lead |
 
 ## Task Summary
-- **Total Tasks:** 18 (14 completed, 4 open)
-- **Completion Rate:** 78%
-- **Tasks by Assignee:**
-  - Alex Lomis: 7 completed (Phase I build-up, ground testing, demo flights)
-  - Beck Cotter: 5 open/completed (permissions, negotiation, documentation)
-  - Maciej Stachura: 2 tasks (Python tools, test event plan)
-  - Jack Elston: 1 completed (final report)
-  - Meredith O'Hara Needham: 1 completed (invoicing)
+
+**Completion Rate:** 14 of 18 tasks completed (78%)
+
+| Assignee | Open | Completed | Completion Rate |
+|----------|------|-----------|-----------------|
+| Beck Cotter | 3 | 3 | 50% |
+| Maciej Stachura | 1 | 1 | 50% |
+| Alex Lomis | 0 | 7 | 100% |
+| Jack Elston | 0 | 2 | 100% |
+| Meredith O'hara Needham | 0 | 1 | 100% |
+
+**Patterns:**
+- Phase I execution (design, build, ground test, flight test) heavily driven by Alex Lomis — now completed
+- Phase II planning and Navy coordination owned by Beck Cotter
+- All major technical deliverables (reports, invoices) met on time
 
 ## Recent Activity
-- **2026-09-29:** Phase I conclusion — final report and invoice ($14,459) submitted on schedule
-- **2026-10-02:** Camp Pendleton demo flights completed successfully; all ground testing and hand-launched S0-MAD validation finished
-- **2026-11-09:** Ping to SBIR Program Office completed (minor delay, due date 2026-11-06)
-- **Current:** Transitioning to Phase II; Beck Cotter leading negotiation and test event documentation; flight permissions for VXS-1 platform in planning for early 2027
+
+- **Oct 2, 2026:** Alex Lomis completed Phase I flight testing (Camp Pendleton demo, hand-launched S0-MAD with integrated magnetic anomaly detection + passive acoustic sensors)
+- **Sept 29, 2026:** Phase I final report and invoice submitted on time
+- **Nov 6–9, 2026:** Beck Cotter pinged SBIR Program Office (slight overrun, resolved)
+- **Current:** Transitioning to Phase II negotiation; test event documentation underway
 
 ## Notes & Context
 
-**Phase I Summary:**  
-The Phase I effort successfully demonstrated technical feasibility of integrating magnetic anomaly detection (MAD) and passive acoustic sensing into a SL UAS platform. Key work included:
-- Design and build-up of hand-launched S0-MAD with both sensors
-- Ground testing with S0-AD launcher
-- Local flight testing
-- Camp Pendleton field demonstration (Sept 14-25, 2026)
-- Onboard logging system design and validation
+**Project Objective:** Demonstrate technical feasibility of integrating magnetic anomaly detection (MAD) and passive acoustic sensing into a SL (small launch) UAS platform (S0-AD/S0-MAD variants). Work conducted at BST facilities in collaboration with Cetacean Research Technology (CRT) and QuSpin.
 
-**Phase II Planning:**  
-Project is in active transition to Phase II (due date 2027-01-01 for negotiations). Open tasks indicate continued development focus on test event planning and VXS-1 platform integration.
+**Phase I Completion:** Technical milestones achieved — sensor integration, platform modification, system testing, and preliminary validation completed. Final report and invoice submitted to Navy SBIR.
 
-**Process Context (from team feedback, 2026-10-20):**  
-Daniel Prendergast flagged a broader organizational process gap: BST lacks a well-defined transition process for proposed system builds/deliveries from R&D into production pipeline. This may affect Phase II execution planning.
+**Next Steps:**
+- Phase II negotiation proceeding on schedule (due Jan 1, 2027)
+- Test event plan to be finalized by Jan 8, 2027
+- VXS-1 flight permissions needed by Mar 1, 2027
+- All test events and Navy submission dates to be documented by Nov 13, 2026
 
-**Related Project Context (from team feedback, 2026-10-29–30):**  
-A separate Lockheed Martin UK / Royal Navy initiative (Project RAVEN) has been discussed involving S0-AD integration with UK Merlin Helicopter Launch System; Daniel Prendergast requested project numbering. This may represent a follow-on or companion effort to the Navy SBIR magnetometer work.
+**Collaborators:** Cetacean Research Technology (CRT), QuSpin

@@ -8,18 +8,18 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Jack Elston (leadership, customer relationships, technical decisions, travel coordination, firmware/GCS troubleshooting, training decisions, fleet management decisions, photogrammetry mission planning, CAD/design documentation requests, firmware version management, meeting scheduling, remote technical support authorization, GCS radio settings diagnostics, QC flight authorization, simulator configuration and deployment, refresher training coordination, financial oversight, partnership evaluation, pricing strategy, business strategy meetings, presentation deck development, LLM-assisted presentation generation)
 - Joshua Fromm (manufacturing, technical implementation, battery/avionics work, shipping coordination, aircraft configuration, product strategy input, CAD file management, S2 refurbishment, firmware master branch updates, spare parts coordination, turnaround time management, freight shipping quotes, S2 spare parts production, NASA deliverable coordination, S0-AD show model preparation, spare parts shipping logistics, storm readiness coordination, S2 end-of-life assessments, nosecone supply bottleneck management, S3 parts cost estimation and sourcing, production quantity tracking, Vantor partnership technical review)
 - Melissa Phillips (shipping/logistics coordination)
-- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms, simulator plugin diagnostics and configuration, partnership evaluation, payload/nosecone design clarification, SOCOM EO/IR RR payload integration, E2 flight testing and validation, Vantor partnership technical coordination, geospatial data strategy, Vantor partnership strategic review, thermal imaging payload validation)
+- Maciej Tromba (payload/camera work, customer communication, sales decisions, demo participation, methane payload data processing, stakeholder needs documentation, S0 ISR camera specifications, firmware architecture verification, RFI evaluation, GCS troubleshooting support, RMA processes, warranty terms, simulator plugin diagnostics and configuration, partnership evaluation, payload/nosecone design clarification, SOCOM EO/IR RR payload integration, E2 flight testing and validation, Vantor partnership technical coordination, geospatial data strategy, Vantor partnership strategic review, thermal imaging payload validation, Vantor presentation review)
 - Danny Troke (QC, testing, batteries)
 - Meredith Needham (shipping, logistics, quote coordination, invoice tracking, trip coordination oversight, packing specifications, freight coordination, arrival tracking, freight shipment coordination, shipment delay notifications, payment processing and bank account coordination, hazmat shipment coordination)
 - Nate (assembly, QC flights, payload prep, GCS builds, quotes, training coordination, customer outreach, aircraft firmware knowledge)
 - Paige Smith (sales coordination, customer communication, website form submissions)
-- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, Halo project folder management, Murphy's Pond PO coordination, LMUK/Raven SOW drafting, RFI documentation, RMA documentation, sales folder management, RMA/support case tracking, partnership communication oversight, sales planning coordination, S3 production tracking, customer pipeline management)
+- Beck Cotter (customer outreach, email coordination, S0/S0-VTOL ownership coordination, Arctic demo coordination, travel booking, presentation materials, meeting scheduling, Halo project folder management, Murphy's Pond PO coordination, LMUK/Raven SOW drafting, RFI documentation, RMA documentation, sales folder management, RMA/support case tracking, partnership communication oversight, sales planning coordination, S3 production tracking, customer pipeline management, historical sales records coordination)
 - Ben Busby (team member, sales pipeline tracking, payload packet analysis)
-- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays, NASA refresher training coordinator, invoice/specification clarification, customer communication documentation, payment status inquiry, S3 product versioning guidance, invoice management for customer deliverables, NASA S2 nosecone invoicing)
+- Dan Prendergast (project coordination, customer requests, NASA/EMASS project lead, demo participation, presentation management, field operations coordination, training pricing inquiries, training logistics coordination, UMES S3 flight training instructor, Murphy's Pond Flight campaign lead, NASA S2 delivery coordination, field trip logistics, photogrammetry mission planning, aircraft maintenance log review, meeting participation, customer technical support coordination, NASA stakeholder communication, UMES S3 training postponement coordination, NASA communications regarding shipment delays, NASA refresher training coordinator, invoice/specification clarification, customer communication documentation, payment status inquiry, S3 product versioning guidance, invoice management for customer deliverables, NASA S2 nosecone invoicing, historical customer transaction research)
 - Ethan Domagala (team member, Murphy's Pond field campaign participant Aug 4-6, GCS connectivity testing, freight shipment logistics coordination, simulator packing and shipping)
 - Spencer Hoehl (preflight coordination, QC flight preparation, manual aircraft operation, surface trim verification, simulator packing and shipping, storm readiness coordination, E2 failure testing and high-wind flight planning)
 - Sean (manufacturing, spare wing/tail set production, parts sourcing and delivery coordination, nosecone fabrication and supply)
-- Cory Dixon (international sales/trade shows, display unit coordination, EU market engagement, production impact assessment, partnership evaluation and strategy, sales data compilation and vendor coordination, Vantor partnership strategic review)
+- Cory Dixon (international sales/trade shows, display unit coordination, EU market engagement, production impact assessment, partnership evaluation and strategy, sales data compilation and vendor coordination, Vantor partnership strategic review, Vantor presentation review)
 - Alex Lomis (demo unit assembly, S0-VTOL demo model preparation, parts management)
 - Dan H (CU - external customer, E2 battery interest)
 - Bassil (customer - methane research, travel May 19-June 9, 2026, field operations coordination)
@@ -30,11 +30,11 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - 53rd Weather Squadron (prospective government customer, June 2026 presentation planned)
 - CJFC (prospective government customer/contact, June 2026 presentation planned)
 - NREL (prospective customer - E2 training request, June 19, 2026)
-- Tanay (prospective customer/contact - scheduling discussions underway, June 21, 2026)
+- Tanay (prospective customer/contact - Stanford researcher; S2/partial S2 purchased June 20, 2025; additional smaller component items purchased same period)
 - Ryan Nesselrodt (SRI International/Center for Innovation - prospective customer, quantum sensing interview request, July 28-29, 2026)
 - Royal Navy (prospective international customer - S0 ISR system interest, camera/comm link requirements, July 2026)
 - Supercool (prospective customer - cloud seeding operations, S2 aircraft inquiry, July 10, 2026)
-- LMUK/Raven (international customer, SOW in development, July 16, 2026)
+- LMUK/Raven (international customer, SOW in development, July 2026)
 - Bylight (prospective customer/partner, multiple RFI opportunities, meeting scheduled July 31, 2026; non-hazmat and hazmat shipments in October 2026 pickup/delivery process)
 - Joey (NOAA team member, NightFox payload integration support needed, Aug 3, 2026)
 - ERAU (external customer - E2 return/RMA case, September 2026; aircraft in office as of September 24, 2026)
@@ -43,7 +43,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - Phase1 (external vendor, wing supply)
 - NASA Ames (customer - S2 delivery, simulator equipment delivery October 2026, campus mapping mission interest, nosecone/payload specification clarification, payment status tracking as of October 7, 2026, 2x S2 nosecones with kevlar skin requested Nov 2, 2026)
 - KS (international distributor/partner - EU trade show support, display units for Zurich by October 19, 2026; requesting pricing table for platforms as of October 21, 2026)
-- Stanford (prospective customer - S2 systems and components quote, NRE discussion, considering S3 alternative)
+- Stanford (university - S2 and component purchases from June 20, 2025; prospective S2/S3 systems quote under review as of October 2026, NRE discussion, considering S3 alternative)
 - Constantin Diehl / Fletch Aero (prospective partner - avionics integration inquiry, October 2-6, 2026; willingness to wait for BST integration; proceeding with cube orange implementation as interim solution; described BST as "deliberate, long-term strategic choice")
 - Vantor (prospective partner - GPS-denied positioning collaboration, October 21-30, 2026; interested in thermal imaging payload validation using photogrammetry and RTK-level accuracy; potential for CU campus collaboration flights; planning presentation/proposal; awaiting team review of presentation deck as of Oct 30)
 - Aerostar (prospective partner - presentation deck in development October 30, 2026; awaiting team review)
@@ -56,7 +56,7 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 **Activity Level:** High-volume channel with 4,700+ messages spanning multiple years of operations (2020-2026). Consistent daily activity with technical discussions, logistics coordination, and customer management.
 
-**Recent Time Range:** Data extends through November 2, 2026.
+**Recent Time Range:** Data extends through November 19, 2026.
 
 ## Key Decisions
 
@@ -100,9 +100,9 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **Participants:** Dan Prendergast, Wes (NASA contact), Jack Elston
 
 ### Stanford S2/S3 Evaluation (October 2026 - Negotiation)
-- **Components:** S2 systems and components quote under review; NRE discussion underway
-- **Alternative Path:** Stanford considering S3 as alternative platform
-- **Participants:** Will (Stanford contact), Jack Elston
+- **Historical Context:** Tanay at Stanford (prospective customer, also may correspond to Will) purchased S2 and partial S2 system components on June 20, 2025, along with additional smaller component items
+- **Current Status:** S2 systems and components quote under review; NRE discussion underway; Stanford considering S3 as alternative platform
+- **Participants:** Will/Tanay (Stanford contact), Jack Elston
 - **Status:** Quote under review
 
 ## Action Items & Commitments
@@ -125,11 +125,11 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **UMES:** 1x S3 unit ordered
 - **PrecisionTerra:** Subcontractor using BST S3 for subcontract work
 - **Atmofacts (Stefan):** Methane algorithm partner for customer payload optimization
+- **Stanford (Tanay/Will):** S2 and partial S2 system purchased June 20, 2025; ongoing S2/S3 quote discussion (Oct 2026)
 
 **Prospective Customers in Active Discussion (November 2026):**
 - **Vantor:** GPS-denied positioning validation partnership; presentation created Oct 30, awaiting review
 - **Aerostar:** Partnership presentation created Oct 30, awaiting team review
-- **Stanford University (Will):** S2/S3 system quote under review; NRE discussion
 - **U Houston:** S3 interest, vendor onboarding in progress, EOY fund encumbrance requirement
 - **UCSC:** S3 oceanographic platform, end of Q2 2027 earliest delivery
 - **Canadian Rangers:** 80-unit S3 inquiry (Oct 21)
@@ -164,6 +164,8 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 7. **S2 Nosecone Requests:** NASA requesting S2 nosecones with kevlar skin; ongoing supply/manufacturing coordination theme.
 
+8. **Historical Sales Records & Customer Timeline Tracking:** Team references sales records to establish purchase dates and component histories for active and prospective customers (e.g., Stanford Tanay June 20, 2025 purchase).
+
 ## Important Resources
 
 ### Presentation Decks (October 30, 2026)
@@ -186,6 +188,18 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 - **CU Campus:** Blanket COA enables urban/suburban thermal test flights for Vantor (pending coordination)
 
 ## Recent Activity
+
+### Stanford S2 Historical Purchase Confirmation (November 19, 2026)
+
+**Query:** Dan Prendergast asked when S2 or partial S2 was sold to Tanay at Stanford (Nov 19, 14:03).
+
+**Response:** Beck Cotter confirmed June 20, 2025 as the main purchase date, with several additional smaller component items purchased on the same date (Nov 19, 14:07, 14:10).
+
+**Context:** This inquiry suggests current work on Stanford customer account reconciliation or timeline documentation. The June 20, 2025 date establishes baseline purchase history for ongoing S2/S3 quote discussions referenced in October 2026 communications.
+
+**Participants:** Dan Prendergast (requester), Beck Cotter (historical records), Jack Elston (mentioned colleague)
+
+---
 
 ### NASA S2 Nosecone Invoice Request (November 2, 2026)
 
@@ -236,6 +250,6 @@ The #commercial-sales channel is Black Swift Technologies' hub for customer orde
 
 ---
 
-**Knowledge File Updated:** November 2, 2026  
-**Previous Coverage:** October 30, 2026  
-**Changes Made:** NASA S2 nosecone invoice request added (Nov 2, 2026); Vantor and Aerostar partnership presentations noted as pending team review; recurring themes updated to reflect S2 nosecone supply coordination pattern; participant roles clarified.
+**Knowledge File Updated:** November 19, 2026  
+**Previous Coverage:** November 2, 2026  
+**Changes Made:** Stanford/Tanay historical purchase date documented (June 20, 2025) with Beck Cotter as records custodian; clarified Stanford customer context in multiple sections (overview participant notes, Stanford customer reference, Stanford project initiatives); added "Historical Sales Records & Customer Timeline Tracking" as recurring theme reflecting Nov 19 activity pattern; noted Beck Cotter's role in historical sales records coordination.

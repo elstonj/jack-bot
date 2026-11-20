@@ -1,39 +1,40 @@
-_Asana snapshot as of 2026-11-15: 5 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 5 open tasks, 0 completed (last 90 days)._
 
 # [012-2] ERAU VTOL S0
 
 ## Overview
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Contact:** Kevin Adkins (adkinsk@erau.edu, 386.481.9059)
-- **Dollar Value:** $20,805.39 (total budget = total funding to BST)
-- **Timeline:** Original project due 2024-08-16 (stale); current obligation is **2 VTOLs due May 2025, with training scheduled June 2025 at BST**
-- **Status:** Active — awaiting final delivery and training
-- **Team:** Alex Lomis (owner), Jack Elston, Dan Prendergast, and whole BST team
-- **Risk Signals:** Multiple critical tasks lack due dates and assignees (shipping, payment verification, project closure)
+- **Dollar Value:** $20,805.39 (total budget and funding to BST)
+- **Timeline:** 
+  - Original expected delivery: late summer 2024
+  - **Revised due date: May 26, 2025** (per custom field)
+  - Training scheduled: June 2025 @ BST
+- **Status:** **Active but behind schedule** — original due date (2024-08-16) has passed; project remains open with 5 unfinished tasks
+- **Team:** Alex Lomis (owner), Jack Elston, Dan Prendergast, plus whole BST team
+- **Product:** S0 VTOL
 
 ## Key Deliverables & Milestones
-- **S0 VTOL delivery:** 2 units due May 2025
-- **Training:** June 2025 at BST facility
-- **Follow-on opportunity:** Customer (ERAU) will evaluate initial delivery and decide whether to purchase 4 additional units (currently in estimates)
+1. **Ship S0 VTOL to ERAU** — unassigned, no due date
+2. **S0 VTOL Training for ERAU** — Dan Prendergast, no due date (planned June 2025)
+3. **Verify payment from ERAU** — unassigned, no due date
+4. **Close project** — unassigned, no due date
+5. **Final due date for delivery** — Jack Elston, no due date
 
 ## Task Summary
-- **Total Tasks:** 5 open, 0 completed
-- **Task Status:**
-  - Final due date for delivery | Jack Elston | No due date
-  - Ship S0 VTOL to ERAU | Unassigned | No due date
-  - S0 VTOL Training for ERAU | Dan Prendergast | No due date
-  - Verify payment from ERAU | Unassigned | No due date
-  - Close project | Unassigned | No due date
+- **Total tasks:** 5 open, 0 completed
+- **Assignee breakdown:**
+  - Jack Elston: 1 task
+  - Dan Prendergast: 1 task
+  - Unassigned: 3 tasks (Ship, Verify payment, Close project)
+- **Completion rate:** 0% (no tasks closed)
 
-**Notable Pattern:** All remaining tasks are delivery and closure items with no due dates assigned and critical tasks unassigned (shipping, payment verification, closure). This suggests execution has not yet been scheduled or tracked in Asana.
+## Context & Notes
+- Customer notes indicate **2 VTOLs owed** with delivery by **May 2025** and training in June 2025
+- Original Asana due date (Aug 2024) is stale; the custom field due date of May 26, 2025 is authoritative
+- Project has no milestone breakdowns or dollar allocations visible in task list
+- Three critical tasks remain unassigned (shipping, payment verification, project close-out)
+- Training delivery is assigned to Dan Prendergast but has no scheduled date
 
 ## Recent Activity
-No recent task completions recorded. All five tasks remain open. The original 2024-08-16 due date has passed; the active timeline is now driven by the May 2025 delivery commitment.
-
-## Notes & Context
-- **Custom Field Note (Admin):** "Owe 2 VTOLs (May 2025) - Training June 2025 @ BST"
-- **Product:** S0 VTOL
-- **Customer Type:** Commercial
-- **Priority:** Medium
-- This project was converted from a task in the Asana system; some historical context may exist in the parent task [1203332454725101](https://app.asana.com/0/43948139065358/1203332454725101)
-- **Recommendation:** Assign due dates and owners to the remaining five tasks (especially shipping and payment verification, currently unassigned) to ensure on-time delivery and closure by June 2025.
+No recent task completions recorded. Project remains active with all deliverables pending. Focus needed on finalizing shipping details and assigning final closeout tasks.

@@ -1,49 +1,62 @@
 # Ali Sulehria — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 29 (21 previous + 8 new)
-- **Date range:** 15 Nov 2026 – 18 Nov 2026
-- **Volume pattern:** Sparse as primary correspondent; continues to receive critical updates as CC/recipient on group threads. Activity sustained over 4-day period with 18 Nov showing mixed operational and calendar activity.
+- **Total messages scanned:** 37 (29 previous + 8 new)
+- **Date range:** 15 Nov 2026 – 20 Nov 2026
+- **Volume pattern:** Sparse as primary correspondent; continues receiving critical updates as CC/recipient on group threads. Activity sustained over 6-day period with concentrated vendor correspondence on 18 Nov, followed by project milestone assignments and meeting notes on 19 Nov.
 
 ## Key Correspondents
-- **Sam Hild** (sam.hild@blackswifttech.com) — Internal, frequent correspondence mediating with external vendor; Ali now actively replying (18 Nov Re: core2 v04)
-- **Frank Strazzabosco** (microfirm@earthlink.net) — External vendor/supplier, primary active driver of correspondence; 4 messages on 18 Nov alone
-- **Jack Elston** (elstonj@blackswifttech.com) — Internal, appears to be project lead or technical decision-maker on core2 thread
-- **Thinh Nguyen** (thinh991@yahoo.com) — External contact, BOM distribution and vendor coordination
-- **Cory Dixon** (cory.dixon@blackswifttech.com) — Internal, new correspondent organizing cross-functional meetings
-- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Internal, event scheduling (Flight test planning)
+- **Sam Hild** (sam.hild@blackswifttech.com) — Internal, frequent correspondence mediating with external vendor; active on "p900s" thread (19 Nov)
+- **Frank Strazzabosco** (microfirm@earthlink.net) — External vendor/supplier, primary active driver of correspondence; 4 messages on 18 Nov
+- **Jack Elston** (elstonj@blackswifttech.com) — Internal, project lead or technical decision-maker; now actively corresponding on "p900s" thread (19 Nov)
+- **Thinh Nguyen** (thinh991@yahoo.com) — External contact, BOM distribution and vendor coordination; central to "p900s" thread (19 Nov)
+- **Cory Dixon** (cory.dixon@blackswifttech.com) — Internal, organizing cross-functional meetings
+- **Spencer Hoehl** (spencer.hoehl@blackswifttech.com) — Internal, event scheduling
+- **Asana** (no-reply@asana.com) — Automated project management notifications (milestone assignments)
+- **Google Gemini** (gemini-notes@google.com) — Automated meeting notes (Lean Manufacturing Discussion)
 
-**Internal vs External:** Approximately 65% external-facing (Frank Strazzabosco-driven vendor chain + external email contact), 35% internal (Sam Hild, Jack Elston, Cory Dixon, Spencer Hoehl). Ali now actively originating responses.
+**Internal vs External:** Approximately 60% external-facing or automated, 40% internal human correspondence.
 
 ## Topic Patterns
-- **Project/Codename:** "core2" with version tracking ("core2 v04") — ongoing active iteration
+- **Project/Codename:** 
+  - "core2" with version tracking ("core2 v04") — ongoing active iteration
+  - "[001-04] S0 VTOL IRAD" — New project codename visible in Asana milestone assignment (19 Nov); appears to be vertical takeoff/landing development
+  - "p900s" — New part or component identifier appearing in active thread (19 Nov Sam Hild → Thinh Nguyen → Jack Elston chain)
 - **Supply Chain/Procurement:** 
-  - "Psns v37" part substitution (ongoing from previous data)
+  - "Psns v37" part substitution (ongoing)
   - Order refund reference (WO961980891897401624)
   - Technical part tracking (USO261117014326)
-- **New topics:** Flight test planning (23 Nov scheduled), Lean Manufacturing discussion (19 Nov scheduled)
-- **Subject urgency:** All project-related messages flagged IMPORTANT; calendar invitations also marked IMPORTANT
+- **Testing/Flight Operations:** 
+  - "50 transition flights" milestone assigned (19 Nov via Asana) — indicates active flight test planning phase
+  - Flight test planning previously scheduled (23 Nov, later canceled)
+- **Manufacturing Process:** 
+  - Lean Manufacturing discussion held (19 Nov, meeting notes captured)
+- **Subject urgency:** All project-related messages flagged IMPORTANT
 
 ## Communication Patterns
 - **Timing:** 
-  - 18 Nov: Compressed morning-to-evening activity (04:32–20:35, ~16 hours) with early-morning vendor messages (04:32, 05:40, 08:43) followed by mid-day calendar activity and evening meeting cancellation
-  - Vendor correspondence bunched in early morning (04:32–08:43 window)
-- **Email chain structure:** Continuing tight 5-party loop (Sam Hild ↔ Frank Strazzabosco ↔ Jack Elston + Thinh Nguyen), with new vendor contact (sales2@weylan-d.com) appearing in 18 Nov refund thread
-- **External contact anomaly:** Message from dyocum209@comcast.net (18 Nov 09:29) with subject "Re: Jack Elston" sent to ali.sulehria@bst.aero — unusual personal domain correspondence
-- **Automated/non-work emails:** Toggl time-tracking alert (category update)
+  - 18 Nov: Compressed morning-to-evening activity (04:32–20:35, ~16 hours)
+  - 19 Nov: Distributed activity across business day (10:02–22:00) with Asana milestone notifications clustered at 22:00–22:01
+  - Vendor correspondence bunched in early morning (04:32–08:43 window on 18 Nov)
+- **Email chain structure:** Continuing tight loop (Sam Hild ↔ Thinh Nguyen ↔ Jack Elston) on new "p900s" topic (19 Nov); previous "core2" loop remains active
+- **Automated/non-work emails:** 
+  - Asana project management notifications (2 duplicate milestone assignments on 19 Nov 22:00)
+  - Toggl time-tracking alerts
+  - Google Gemini meeting notes capture
+- **Tool integration:** Heavy use of Asana for project tracking and milestone management; Google Gemini for automated meeting notes
 
 ## Key Relationships
-- **Jack Elston** — Technical decision-maker/project owner for "core2"; visible in all vendor coordination threads
-- **Sam Hild** — Liaison/intermediary; Ali now actively replying to Sam's core2 messages (escalation from pure receipt)
-- **Frank Strazzabosco** — External vendor with high-frequency vendor coordination; now direct correspondent
-- **Cory Dixon** — New internal relationship; organizing broader manufacturing/process meetings (Lean Manufacturing)
-- **Spencer Hoehl** — Event coordinator for flight test planning (18 Nov cancellation suggests rescheduling)
+- **Jack Elston** — Technical decision-maker/project owner for core2 and p900s threads; now actively corresponding with external contacts
+- **Sam Hild** — Liaison/intermediary continuing to coordinate vendor communication; initiating p900s discussion (19 Nov)
+- **Thinh Nguyen** — External contact elevated to active decision-making role in p900s thread (responding directly to Sam Hild and Jack Elston)
+- **Cory Dixon** — Internal relationship organizing Lean Manufacturing process discussions
+- **Frank Strazzabosco** — External vendor with high-frequency coordination on hardware/parts issues
 
 ## Notable Observations
-- **Ali's engagement shifted from passive to active:** 18 Nov reply to Sam Hild on core2 v04 indicates escalated involvement (previously CC'd only)
-- **Vendor coordination intensified:** 4 Frank Strazzabosco messages on 18 Nov alone (04:32, 05:40, 08:43, 10:54 local time) — suggests either order problem resolution or rapid iteration cycle on hardware/parts
-- **Part substitution as recurring issue:** "Another Psns v37 part substitution" (18 Nov) indicates ongoing component availability or compatibility problem requiring repeated vendor coordination
-- **New meeting categories:** Lean Manufacturing discussion (19 Nov, 7-person group) and Flight test planning (23 Nov, now canceled) suggest Ali's role expanding beyond component coordination into manufacturing process and testing phases
-- **External contact anomaly:** dyocum209@comcast.net message mentioning Jack Elston warrants clarification — unclear if spam, personal vendor contact, or external stakeholder
-- **Hardware/component development cycle confirmed:** Evidence of order refunds, part substitutions, and scheduled test planning indicates active hardware development pipeline
-- **Ali's operational scope:** Now appears to bridge component procurement, vendor coordination, and test planning — elevated from pure informational role
+- **New project milestone assigned:** Asana milestone "50 transition flights" under "[001-04] S0 VTOL IRAD" (19 Nov) indicates Ali now assigned to flight testing phase of VTOL development program — significant escalation in scope
+- **New part/component thread:** "p900s" appears as active vendor coordination topic on 19 Nov, separate from "core2" and "Psns v37" substitution issues — suggests multiple concurrent hardware development streams
+- **Lean Manufacturing formalization:** Meeting notes captured via Gemini (19 Nov) suggests manufacturing process improvement initiative moving beyond discussion to documented action
+- **Asana integration active:** Duplicate milestone assignment notifications suggest potential system setup or workflow automation in place
+- **Ali's expanding role confirmed:** Now assigned direct responsibility for 50-flight milestone on VTOL program, indicating promotion from procurement liaison to active project milestone owner
+- **Vendor coordination complexity increasing:** Three parallel component/part threads (core2, Psns v37, p900s) with multiple external contacts suggests complex hardware supply chain
+- **Previous anomaly unresolved:** dyocum209@comcast.net message remains unexplained in earlier data

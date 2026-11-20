@@ -1,76 +1,99 @@
 # Spencer Hoehl — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 14 emails (5 from initial scan + 9 new)
-- **Date range:** Nov 17–19, 2026
-- **Volume:** Very light — concentrated activity around flight testing events (Nov 17–19)
+- **Total messages scanned:** 20 emails (14 from initial scan + 6 new)
+- **Date range:** Nov 17–20, 2026
+- **Volume:** Very light — concentrated around flight testing events and regulatory milestones; average ~8 emails/day during active periods
 
 ## Key Correspondents
 
 **Top Internal Senders:**
 - Robert Edson (bob.edson@blackswifttech.com) — 3 emails (flight testing coordination, marked IMPORTANT)
+- Jack Elston (elstonj@blackswifttech.com) — 3 emails (FAA drone registration/certificates, all marked IMPORTANT or STARRED)
 - Cory Dixon (cory.dixon@blackswifttech.com) — 2 emails (flight testing invitations/updates)
 - Meredith Needham (meredith.needham@blackswifttech.com) — 2 emails (FAA drone registration correspondence)
-- Jack Elston (elstonj@blackswifttech.com) — 1 email (UAS registration renewal forwarded)
+- Daniel Prendergast (daniel.prendergast@blackswifttech.com) — 1 email (vendor communication relay, marked IMPORTANT)
 
 **External/Automated Senders:**
-- Hilton Honors (noreply@h5.hilton.com) — 1 email (loyalty program)
+- Hilton Honors (noreply@h5.hilton.com) — 2 emails (loyalty program promotions)
+- Asana (no-reply@asana.com) — 2 emails (project management task/milestone notifications)
 - Stack Overflow (do-not-reply@stackoverflow.email) — 1 email (community engagement notification)
 - Toggl (support@toggl.com, hello@email.toggl.com) — 2 emails (time tracking tool updates)
 
-**Internal vs External:** ~11 internal, ~3 automated/external
+**Internal vs External:** ~11 internal, ~7 automated/external
 
 ## Topic Patterns
 
-**Dominant Theme:** Flight Testing
-- "Flight Testing" appears in 5+ subject lines
-- Multiple meeting invitations (Nov 17, 18, 26)
-- Marked as IMPORTANT across multiple messages
+**Dominant Themes:**
 
-**Regulatory/Compliance:**
-- FAA sUAS (small Unmanned Aircraft System) Certificate of Registration (ID: FA3WL7WPYN)
-- UAS Registration Renewal Reminder
-- Flight Readiness Inspection Record (ID: S10022)
+1. **Flight Testing & VTOL Development**
+   - "Flight Testing" in 5+ subject lines
+   - New milestone visible: **"50 transition flights [[001-04] S0 VTOL IRAD]"** (Asana assignment, Nov 19)
+   - Multiple meeting invitations scheduled (Nov 17, 18, 26)
+   - S0 VTOL IRAD appears to be active development project codename
+
+2. **Regulatory/FAA Compliance**
+   - FAA sUAS Certificates of Registration (now tracking **2 certificates**):
+     - FA3WL7WPYN (original from prior scan)
+     - FA3AE79X3X (new, marked YELLOW_STAR + IMPORTANT + STARRED — high priority)
+   - Multiple forwarded registration documents from Jack Elston
+   - Flight Readiness Inspection Record (S10022)
+
+3. **Vendor Communication**
+   - "Texts from Joe at AV3" (Daniel Prendergast forwarding external vendor correspondence)
+   - AV3 likely external partner/vendor (marked IMPORTANT)
 
 **Project/Asset Codes Visible:**
+- S0 VTOL IRAD (vertical takeoff/landing development initiative, active milestone)
 - S10022 (flight readiness inspection asset/aircraft)
-- FA3WL7WPYN (FAA drone registration certificate number)
+- FA3WL7WPYN, FA3AE79X3X (FAA drone registration certificates)
+- [001-04] (sub-task or iteration identifier within S0 VTOL project)
 
 ## Communication Patterns
 
 **Time Patterns:**
-- Heavy activity Nov 18 (5 emails in ~6-hour window, 9:50am–5:58pm local time)
-- Earlier activity Nov 17 (2 emails, 5pm–9pm UTC)
-- Early morning activity Nov 19 (2 emails at 1:57am–2:01am UTC — likely automated or urgent notifications)
+- Heavy clustering Nov 18–19 (peak activity during flight testing window)
+- Early morning automated notifications (Nov 19 at 1:57–2:01am UTC, Nov 20 at 00:04–00:35 UTC)
+- Jack Elston sending time-sensitive FAA documents in mid-morning slots (10:18am, 10:41am MST)
+- Weekend/evening automated emails suggest 24/7 tool notifications (Asana, Hilton Honors)
 
 **Mailing List/Automated Subscriptions:**
-- Toggl (time tracking) — 2 automated emails
+- Asana project management (active task assignments and milestone tracking)
+- Toggl time tracking (2 emails)
 - Stack Overflow community digest
-- Hilton Honors loyalty notifications
+- Hilton Honors loyalty program
 
 ## Key Relationships
 
-**Primary Collaborators (by frequency & context):**
-1. **Robert Edson** — Appears to coordinate flight testing sessions; marked IMPORTANT on latest messages; likely direct supervisor or flight testing lead
-2. **Cory Dixon** — Coordinates flight testing discussions; sends meeting invitations/updates
-3. **Meredith Needham** — Handles FAA/regulatory compliance matters (sUAS registration); relationship marked with YELLOW_STAR and IMPORTANT flags
+**Primary Collaborators (by frequency & importance):**
+1. **Jack Elston** — **NEW: Primary regulatory/compliance liaison** — now 3 emails, all IMPORTANT or STARRED; handling FAA certificate forwarding and renewal documents. Relationship elevated from prior scan.
+2. **Robert Edson** — Flight testing coordination lead; multiple IMPORTANT flags suggest supervisory role in test operations
+3. **Cory Dixon** — Secondary flight testing coordinator; provides meeting invitations and updates
+4. **Meredith Needham** — FAA compliance support (registration matters)
+5. **Daniel Prendergast** — **NEW:** Vendor communication relay; forwarded "Texts from Joe at AV3"; marked IMPORTANT
 
 **External Relationships:**
-- Implicit vendor/partner relationships through Toggl (time tracking tool use) and Stack Overflow engagement
+- **AV3** (vendor/partner) — Referenced through Daniel Prendergast; appears time-sensitive (IMPORTANT flag)
+- Implicit ongoing vendor relationships: Asana (project management), Toggl (time tracking)
 
 ## Notable Observations
 
-1. **Flight Testing Focus:** Spencer appears heavily involved in active flight testing operations (Nov 18, 26 scheduled). Multiple IMPORTANT flags on Robert Edson's messages suggest time-sensitive coordination.
+1. **VTOL Development Program Active:** New evidence of active S0 VTOL IRAD project with concrete milestone (50 transition flights). This is a significant operational focus alongside flight testing. Asana milestone assignment on Nov 19 suggests Spencer is a key contributor or test lead for this initiative.
 
-2. **Regulatory Responsibility:** Direct involvement with FAA drone registration and flight readiness inspections (S10022 inspection record logged). This suggests hands-on operational/compliance role.
+2. **FAA Multi-Aircraft Tracking:** Now tracking **2 separate FAA drone registration certificates** (FA3WL7WPYN + FA3AE79X3X). The newer certificate (FA3AE79X3X) is marked YELLOW_STAR + IMPORTANT + STARRED by Jack Elston — suggests either:
+   - New aircraft added to program
+   - Critical regulatory renewal/approval
+   - Priority aircraft for upcoming test phase
 
-3. **Very Light Email Volume:** Only 14 emails in 2.5 days suggests either:
-   - Early employee or new to BST
-   - Role relies more on in-person/real-time communication
-   - Focus on operational/field work rather than email-heavy tasks
+3. **Jack Elston Relationship Elevated:** From 1 email to 3 emails in new scan; all FAA-related, all marked IMPORTANT/STARRED. Spencer appears to depend heavily on Jack for regulatory clearance/documentation.
 
-4. **Tool Usage:** Active Toggl time tracking subscription indicates structured project/task logging.
+4. **Vendor Escalation Signal:** Daniel Prendergast forwarding "Texts from Joe at AV3" marked IMPORTANT suggests:
+   - Potential supply chain/vendor issue
+   - Time-sensitive coordination with external partner
+   - Spencer may need to follow up or be aware of AV3 communications
 
-5. **Professional Development Signal:** Stack Overflow engagement suggests aviation/technical knowledge-sharing interest.
+5. **Email Volume Still Light:** 20 emails over 3.5 days remains consistent with field-focused or hands-on operational role. Flight testing events consume most correspondence; administrative load is minimal.
 
-6. **Email Flags Pattern:** Multiple messages marked IMPORTANT by senders (Edson, Dixon, Needham) — possible that Spencer receives high-priority operational communications.
+6. **Project Management Tool Active:** Asana integration confirms structured task/milestone tracking — Spencer is embedded in formal project workflow, not ad-hoc email-based coordination.
+
+7. **Travel Pattern:** Hilton Honors loyalty emails suggest Spencer travels for work (consistent with field testing operations and vendor site visits).

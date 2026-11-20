@@ -2,35 +2,39 @@
 
 ## By Product/System
 
-### SwiftCore Flight Management System
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Internal Q&A document addressing SwiftCore flight management capabilities for NOAA uncrewed systems operations center. (questions.md)
-
-### S0 VTOL
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Internal Q&A document addressing S0 VTOL platform specifications for NOAA marine operations. (questions.md)
-
-### SwiftTab UI
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Internal Q&A document addressing SwiftTab user interface for NOAA operations center integration. (questions.md)
+### S0 / S0-AD (Air-Deployed)
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
 
 ---
 
 ## By Client/Agency
 
-### NOAA (National Oceanic and Atmospheric Administration)
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | 2026-10-07 (modified 2026-10-12) | Q&A document supporting Letter of Intent for uncrewed systems operations center capability. (questions.md)
+### NASA LaRC (Langley Research Center)
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
+
+### NOAA
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
+
+### ERAU (Embry-Riddle Aeronautical University)
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
 
 ---
 
 ## By Application Area
 
-### Maritime/Shipboard Operations
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Addresses marine/shipboard operations requirements with key lead Jack. (questions.md)
+### Atmospheric Research & Measurement
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Air-deployed atmospheric measurement platform integrated with NASA 777 research aircraft; includes air-data probe for meteorological sensing. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
 
-### Uncrewed Systems Operations
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Internal preparation for NOAA UxS Ops Center solicitation response. (questions.md)
+### NASA 777 Integration / NURTURE Program
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
 
 ---
 
 ## By Document Type
 
-### Q&A Documents / Internal Response Preparation
-- **NOAA UxS Ops Center - Chidong LOI: Questions** | NOAA | 2026-10-07 (modified 2026-10-12) | Internal questions and answers document for Letter of Intent preparation with key BST personnel contributions. (questions.md)
+### Presentations / Meeting Agendas & Status Briefings
+- **S0 Air-Deployed UAS from the NASA 777 Integration** | NASA LaRC, NOAA, ERAU | 18 November 2026 | Meeting agenda and status briefing for air-deployment variant integration with NASA 777 aircraft; covers deployment tube, base station (1U rack, 430 MHz Microhard P400), and 5-hole air-data probe. (nasa_777_s0_integration_nasa_noaa_erau_sync.md)
+
+---
+
+**Catalog Summary:** 1 document indexed across BST's S0 product line, three major clients (NASA LaRC, NOAA, ERAU), atmospheric research applications, and program briefing documentation.

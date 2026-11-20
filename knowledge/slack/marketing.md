@@ -142,10 +142,19 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
   - **Correction:** Acknowledge certification status and that automated deployment is "certifiable" but not yet completed by BST
   - Jack began providing comprehensive feedback (message cut off at "Also, scheduled automate...")
 
+- **Slide 3 - Topline Benefits:**
+  - **Issue flagged:** $50K-500K cost estimate uncertain; noted for Moe to clarify with customer
+
 - **Competitive intelligence gathered:** Jack identified Meteomatics as direct Swiss competitor; they operate three UAV lines with established BVLOS operations in Switzerland
   - Shelly coordinated follow-up research on Meteomatics capabilities and shared with Moe via Teams for pre-meeting preparation
 
 - **Approval process:** Shelly received feedback, implemented corrections, conducted competitive research, and provided revised slides to Moe with background briefing on Meteomatics for strategic advantage in customer meeting
+
+### Military Operations Claim Calibration (November 19, 2026)
+- **Context:** Marketing materials/proposal slides reference "operationally flown with the air force and navy"
+- **Jack's assessment (08:43):** "a small point... operationally flown with the air force and navy is a bit of stretch, but I don't think it's too much. looks good."
+- **Decision:** Claim is acceptable for use but should not be deployed "too liberally" per Shelly's acknowledgment (08:44)
+- **Implication:** Marketing team to exercise restraint in deploying this credential claim; use context-appropriate positioning rather than broad promotional circulation
 
 ---
 
@@ -169,13 +178,19 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 ### Swiss Federal Office of Meteorology Presentation Development (November 18-19, 2026)
 - **Assigned to:** Moe and Ariel (business development)
-- **Status:** Presentation deck in development for follow-up meeting with MeteoSwiss post-ADIPEC discussion
+- **Status:** Presentation deck refined and ready for delivery to MeteoSwiss post-ADIPEC discussion
 - **Marketing support provided by Shelly:**
   - Three slides on S0 VTOL weather use cases (vertical atmospheric readings, repeatable sampling patterns, benefits summary) reviewed for accuracy with team feedback
   - Additional S3 slides in preparation
   - Competitive intelligence on Meteomatics gathered and shared via Teams
   - Jack's detailed technical feedback on slide 1 (Precision Execution Cycle) and partial feedback on slide 2 (Anytime Deployment) provided
-- **Outstanding:** Complete implementation of Jack's slide revisions; finalize S3 slides; deliver final deck to Moe
+- **Outstanding:** Complete implementation of Jack's remaining slide revisions; finalize S3 slides; deliver final deck to Moe
+
+### Military Operations Credential Use Guidelines (November 19, 2026)
+- **Assigned to:** Shelly (marketing)
+- **Task:** Exercise restraint and context-appropriate positioning when deploying "operationally flown with the air force and navy" credential claim
+- **Rationale:** Jack identified claim as "a bit of a stretch" but acceptable for use; should not be promoted too liberally
+- **Status:** Acknowledged by Shelly (November 19, 08:44)
 
 ### Team Member Welcome Profile Development (November 18, 2026)
 - **Context:** Shelly attempting to solicit new team member for first "welcome profile" (appears to be part of ongoing employee spotlight/profile program Jack mentioned wanting to work through everyone)
@@ -217,6 +232,7 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 - **NEW (November 2026):** Business development presentation support with technical accuracy review and competitive intelligence gathering
 - **NEW (November 2026):** Integration with partner design tools (Gaia) for automated marketing collateral generation
 - **NEW (November 2026):** Employee spotlight/welcome profile program execution
+- **NEW (November 2026):** Military/government operations credential verification and calibrated usage for sales materials
 
 ---
 
@@ -236,14 +252,20 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 
 ## Recent Activity
 
-### November 19, 2026 — Swiss Federal Office of Meteorology Presentation Finalization
-- **Completed revisions on S0 VTOL weather use case slides:**
-  - Shelly implemented Jack's detailed feedback on Slide 1 (Precision Execution Cycle) corrections: clarified partner responsibility for sensitivity analysis/assimilation, changed "site safety decisions" to "Decision-ready atmospheric data to inform go/no-go calls," refined model bias language
-  - Incorporated competitive intelligence on Meteomatics (three UAV lines, BVLOS operations precedent in Switzerland)
-  - Shared revised slides with Moe via platform and Teams chat with background information on Meteomatics competitive positioning
-  - Slide 3 updated to include note flagging uncertain $50K-500K cost estimate for Moe to clarify with customer
-  
-**Status:** Ready for Moe and Ariel to present to MeteoSwiss with competitive background briefing and accurate technical messaging
+### November 19, 2026 — Military Credential Calibration & Final MeteoSwiss Slide Approval
+- **Military operations claim review (08:43-08:44):**
+  - Jack assessed marketing claim "operationally flown with the air force and navy" as "a bit of a stretch, but I don't think it's too much"
+  - Approved for continued use with caveat: "Will be cautious to not use it too liberally" per Shelly
+  - Implies credential exists but requires context-appropriate deployment rather than broad promotional circulation
+  - Reflects leadership's approach to balancing strong marketing narratives with accurate technical/operational claims
+
+- **Swiss Federal Office of Meteorology presentation slides:**
+  - All three S0 VTOL weather use case slides revised with Jack's accuracy feedback and competitive intelligence
+  - Shelly implemented corrections to Slide 1 (partnership model language, liability mitigation on "site safety decisions"), Slide 2 (certification status acknowledgment), and Slide 3 (cost estimate flagging)
+  - Moe and Ariel provided with updated deck, Meteomatics competitive briefing, and customer positioning intelligence for pre-meeting preparation
+  - **Status:** Ready for customer delivery
+
+**Interpretation:** November 19 represents final validation of business development collateral accuracy and military credential positioning. The brief exchange reflects Jack's leadership pattern of approving marketing claims while ensuring they remain defensible and contextually appropriate. The Swiss meeting materials demonstrate marketing's integrated role in BD success—combining technical accuracy verification, competitive intelligence, and strategic positioning guidance.
 
 ### November 18, 2026 — Multi-Stream Marketing Support Day
 - **Krateo Gaia Integration Initiative**
@@ -274,8 +296,14 @@ The #marketing channel is the central hub for Black Swift Technologies' marketin
 ---
 
 ## Notes on Data Quality
-The knowledge file has been updated with November 18-19, 2026 data showing a shift in marketing channel usage toward supporting business development presentations and customer-specific proposals. New pattern emerged: Shelly proactively coordinates slide accuracy reviews, competitive intelligence gathering, and customer deck preparation for Moe and Ariel (business development team). This represents expanded role beyond traditional marketing collateral into sales enablement and strategic customer pitch support. 
+The knowledge file has been updated with November 19, 2026 data showing final validation of business development collateral and military credential positioning. The final exchange exemplifies Jack's leadership approach: approving marketing narratives while ensuring they remain technically defensible and contextually constrained to prevent overstatement.
 
-The Swiss Federal Office of Meteorology presentation context indicates active pursuit of international government client relationships (meteorology/climate research sector) with competitive landscape awareness. Krateo Gaia integration suggests strategic investment in automating high-quality marketing collateral generation for conference season and ongoing customer materials.
+Recent data (November 18-19, 2026) demonstrates marketing's expanded role beyond traditional collateral production into:
+1. **Sales enablement:** Accuracy review and competitive intelligence for BD presentations
+2. **Technical verification:** Flagging liability risks and operational claims that require calibration
+3. **Partnership optimization:** Integrating with partner tools (Krateo Gaia) for automated collateral improvement
+4. **Strategic positioning:** Identifying competitive threats and providing customer meeting preparation materials
 
-Data through November 19, 2026 is complete and current.
+The channel reflects a highly coordinated marketing function integrated with business development, product, and leadership strategy. Shelly's role has evolved from event/collateral coordination to include BD support, competitive intelligence coordination, and strategic materials development.
+
+Data through November 19, 2026, 08:44 is complete and current.

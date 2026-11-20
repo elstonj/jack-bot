@@ -1,33 +1,35 @@
-_Asana snapshot as of 2026-11-15: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 0 open tasks, 0 completed (last 90 days)._
 
 # SBIR - SMM DoD 22.4D Phase II
 
 ## Overview
 - **Client/Customer:** U.S. Air Force (Department of Defense)
-- **Dollar Value:** $1,249,725 total budget; $1,249,725 to Black Swift Technologies
-- **Timeline:** Due date 2025-07-11
-- **Status:** **ARCHIVED** — Project is no longer active in Asana
-- **Team:** Black Swift Technologies (full team), with subcontractor Orbital Micro Systems (OMS) and CET; developed in conjunction with NASA
+- **Dollar Value:** $1,249,725 total contract; $1,249,725 to Black Swift Technologies
+- **Subcontractor:** Orbital Micro Systems (OMS) — $605,000
+- **Timeline:** Final deliverable due July 11, 2025
+- **Status:** **ARCHIVED** (no open or completed tasks in Asana)
+- **Team:** Black Swift Technologies (whole team)
 - **Key Contacts:**
-  - Jason Foley (Primary TPOC, jason.foley.1@us.af.mil)
-  - Thomas Shea (Contracting Officer, thomas.shea.3@us.af.mil)
+  - Jason Foley (Primary TPOC) — jason.foley.1@us.af.mil
+  - Thomas Shea (Contracting Officer) — thomas.shea.3@us.af.mil
 
-## Project Context
-This is a Phase II SBIR focused on soil moisture measurement using UAS-based L-band radiometry. The technology was developed and validated with NASA for high-resolution soil moisture mapping. The Air Force plans to adapt this for DAF end-user needs, specifically to map landing area soil integrity (soil slipperiness, stickiness, and strength correlate with moisture levels).
+## Project Description
+Development and validation of a UAS-based L-band radiometer for high-resolution soil moisture mapping in support of Air Force landing area integrity assessment. Technology developed in collaboration with NASA, OMS, and CET; being adapted for DAF end-user requirements.
 
-**Subcontractor:** Orbital Micro Systems — $605,000 (subcontract amount)
-
-## Recent Activity & Current Status
-- **Deliverable #5:** Submitted December 11, 2024 for $100,000; awaiting approval before invoice can be submitted
-- Dan (BST) can provide status updates on invoice/payment approval
+## Key Deliverables & Milestones
+- **Deliverable #5:** Submitted December 11, 2024 ($100,000 payment) — awaiting approval before invoice submission
+- **Final Due Date:** July 11, 2025
+- **Products/Services:** Custom payload, systems manuals and documentation
 
 ## Task Summary
-- 0 open tasks
-- 0 completed tasks in Asana
+No active Asana tasks recorded (0 open, 0 completed). Project appears to have been archived after task completion or closure.
 
-*Note: Project is archived; no active task tracking in Asana. Real execution likely tracked elsewhere or project phase is complete.*
+## Recent Activity
+- Deliverable #5 submitted December 11, 2024; awaiting customer approval
+- Status update dated November 22 (content not detailed in raw data)
+- Project transitioned to archived status
 
-## Products/Services Delivered
-- Custom payload development
-- Systems manuals and/or documentation
-- Other services
+## Notes & Context
+- **Invoice Status:** Deliverable #5 payment ($100K) pending approval; Dan can provide updates on approval status
+- **Team Restructuring:** Per Maciej [2026-10-27], BST is implementing a two-level planning model: Asana for long-term milestones, physical Kanban board for weekly engineering execution. This project's archival aligns with that shift.
+- **Contract Type:** SBIR Phase II (Small Business Innovation Research) — DoD 22.4D solicitation

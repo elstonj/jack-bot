@@ -1,4 +1,4 @@
-_Asana snapshot as of 2026-11-15: 0 open tasks, 0 completed (last 90 days)._
+_Asana snapshot as of 2026-11-20: 0 open tasks, 0 completed (last 90 days)._
 
 # [012-3] ERAU Model S0
 
@@ -6,20 +6,21 @@ _Asana snapshot as of 2026-11-15: 0 open tasks, 0 completed (last 90 days)._
 - **Client:** Embry-Riddle Aeronautical University (ERAU)
 - **Customer Type:** Commercial
 - **Dollar Value:** $2,462.50
-- **Timeline:** June 25, 2026 (start & due date)
-- **Status:** **ARCHIVED** (as of Oct 27, 2026 per team feedback)
-- **Project Owner:** Josh Fromm
-- **Risk Signals:** None — project is complete and archived.
+- **Timeline:** June 25, 2026 (start and due date)
+- **Status:** **ARCHIVED** — Project marked for archiving per Maciej's feedback (Oct 27, 2026). Owner is Josh Fromm.
+- **Team Member:** Josh Fromm (project owner)
 
 ## Key Deliverables & Milestones
-- Model S0 delivery to ERAU — due June 30, 2026 (per project notes)
+- Model S0 delivery by June 30, 2026 (per project notes; due date in Asana: June 25, 2026)
 
 ## Task Summary
-- **Total Tasks:** 0 open, 0 completed (all work closed out)
-- **Assignees:** None currently active
+- **Total tasks:** 0 open, 0 completed
+- All work appears to have been completed and closed out
 
 ## Recent Activity
-Per Maciej (Oct 27, 2026): Project marked for archiving. All deliverables completed and invoiced. Project owner Josh Fromm was notified to archive via project settings.
+Per Maciej's feedback (Oct 27, 2026): This project was flagged for archiving. No outstanding tasks remain in Asana. Project owner can archive via project main page menu.
 
 ## Notes & Context
-This is a small, completed commercial project. All tasks have been resolved. The project should be archived in Asana by the project owner.
+- Project notes reference an attached email with delivery request details
+- All milestones and deliverables appear to have been fulfilled; project is ready for archive
+- No active work or outstanding invoicing flagged
