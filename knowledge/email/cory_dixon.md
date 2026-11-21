@@ -1,189 +1,168 @@
 # Cory Dixon — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned**: 105 (83 prior + 22 new data)
-- **Date range**: 15 Nov – 19 Nov 2026 (5 days)
-- **Approximate volume**: ~21 messages per day (19 Nov peak); 16–17 avg across period
-- **Activity clustering**: Sustained high volume; 19 Nov showed 08:45–23:30 UTC activity window (15-hour span); continued cross-timezone coordination (EST, MST, UTC, CST visible)
+- **Total messages scanned**: 121 (105 prior + 16 new data)
+- **Date range**: 15 Nov – 20 Nov 2026 (6 days)
+- **Approximate volume**: ~20 messages per day
+- **Activity clustering**: Sustained high volume; 20 Nov shows continued 05:05–22:54 UTC activity window (18-hour span); cross-timezone coordination continues (EST, MST, UTC, CST)
 
 ## Key Correspondents
 
 ### Top Internal Contacts
-- **Jack Elston** (elstonj@blackswifttech.com) — dominant strategic coordinator; now explicitly leading large NASA/NOAA/ERAU collaborative meeting (19 Nov "Meeting Slides and Notes"; 16+ government/academic participants)
-- **Maciej Stachura** (stachura@blackswifttech.com) — escalation partner on CoVar SOW and strategic initiatives
-- **Lynn Regnier** (lynn.regnier@blackswifttech.com) — NEW meeting invite: "Rebalance Industrial Plan" (Tue 24 Nov 11:30am–12:30pm MST); escalating from Controller handoff to broader industrial/operational planning
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — CoVar Statement of Work coordination (forwarded to Cory/Jack/Maciej); continuing from prior period
-- **Robert Edson** (bob.edson@blackswifttech.com) — operational/manufacturing lead; shared "Station Build Designations" spreadsheet (19 Nov) — implies test infrastructure or production station setup
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — included in large NASA/NOAA coordination meeting
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — NEW; included in NASA/NOAA/ERAU collaborative meeting
+- **Jack Elston** (elstonj@blackswifttech.com) — strategic coordinator; now explicitly routing Technical Project Manager candidate (Josh Terry) application review to Cory (08:59 MST, 20 Nov)
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — ELEVATED; recruiting/hiring coordinator. Handling Senior Firmware Engineer candidate (Nico B) offer negotiations; multiple IMPORTANT exchanges (14:39, 21:34 20 Nov). Dual role: Asana project management (Electronics/QC task comment, 21:34 UTC) + talent acquisition
+- **Lynn Regnier**, **Maciej Stachura**, **Daniel Prendergast**, **Robert Edson**, **Beck Cotter**, **Joshua Fromm** — continuing from prior period
+- **Beck Cotter** — NEW active hiring channel; reached out to Black Label Co. (info@blacklabelco.com) with "Black Swift Technologies inquiry" (10:32 MST, 20 Nov); purpose unclear but likely recruitment/partnership/vendor
 
 ### Top External Contacts
-- **WPI (Worcester Polytechnic Institute)** — Summer 2027 internship pipeline; dual candidates responding (Drew Stephens robotics student, Shayna Robinson engineering inquiry); Cory actively screening/responding (14:14, 14:19 UTC responses 19 Nov)
-- **NASA (Langley Research Center - LARC)** — ELEVATED; large collaborative meeting 19 Nov led by Jack Elston:
-  - Dolph, Chester V. (LARC-D201)
-  - Meek, Chris (LARC-D201)
-  - Hunter, Craig A. (LARC-D301, EMERITUS)
-  - Lee, Michael W. (LARC-D301)
-  - Jamal, Tausif (LARC-D301)
-  - Gleason, Jonathan (LARC-E302)
-- **NOAA (National Oceanic and Atmospheric Administration)** — NEW major collaborator in 19 Nov meeting:
-  - Annette Hollingshead (NOAA Federal)
-  - Joe Cione (NOAA Federal)
-  - Nikolai Pawlenko (NOAA Federal)
-- **Embry-Riddle Aeronautical University (ERAU)** — Wind tunnel collaboration confirmed; two faculty in 19 Nov meeting:
-  - Ebenezer P. Gnanamanickam
-  - Joshua Wadler
-  - Zheng Zhang
-- **CoVar** — Statement of Work coordination (19 Nov forwarded document from Daniel Prendergast)
-- **Torch Bearers USA** (Jamie Rogers, jarogers@torchbearersusa.com) — NEW; "Army & Air Force BD Leader" contact (business development recruiter or partnership inquiry)
-- **Vati Stream** (Keelan Ashby, Keelan@vatitstream.com) — NEW; "Cory - Black Swift - Stream" (purpose unclear; potential vendor/partner/media)
-- **UAS Weekly** (newsletter@uasweekly.com) — industry newsletter
-- **Ocean News & Technology** (Workboat/UI 2026 industry conference invite)
-- **Twenty Ninth Street Business** — NEW; generic introduction inquiry
+- **Josh Terry** (joshrt42@gmail.com) — Technical Project Manager candidate; ACTIVE APPLICATION STAGE
+  - Submitted application (prior)
+  - Jack Elston reviewed and routed to Cory (08:59 MST, 20 Nov)
+  - Cory responded directly (22:18 UTC, 20 Nov) — same-day turnaround
+  - Terry replied back same evening (18:05 EST, 20 Nov) — high engagement
+
+- **Nico B** (nico.ee.baron@gmail.com) — Senior Firmware Engineer candidate; OFFER STAGE
+  - Meredith Needham extended offer (12:37 MST, 20 Nov)
+  - Candidate replied with questions (13:55 MST, 20 Nov)
+  - Meredith responded (14:39 MST, 20 Nov)
+  - Candidate replied again (22:54 EST, 20 Nov — 22:54 CST equivalent) with apparent follow-up
+  - **Cory forwarded offer to Max Pheysey** (21:28 UTC, 20 Nov) — see below
+
+- **Max Pheysey** (max.pheysey@lumicity.io) — NEWLY ACTIVE; received Senior Firmware Engineer offer forward from Cory (21:28 UTC, 20 Nov); replied to Cory (21:31 UTC, 20 Nov)
+  - **Lumicity.io** appears to be external company/vendor or competitive firm
+  - **Implication**: Cory forwarding offer details to external contact; possible candidate referral chain, consulting arrangement, or HR/recruitment outsourcing
+
+- **Bassil El Masri** (belmasri@murraystate.edu) — Murray State University; replied to Beck Cotter on "6/28 UAS Flux Topos @Murphy's Pond" (16:38 CST, 20 Nov)
+  - **Academic research contact**; likely field testing or atmospheric measurement collaboration
+
+- **Scott Tieken** (careers@blackswifttech.com via Employment Opportunities) — RECURRING; recruiting update from Rose-Hulman recruiting season (19:37 UTC, 20 Nov); routed to careers@bst.aero
+
+- **Black Label Co.** (info@blacklabelco.com) — inquiry from Beck Cotter; unknown purpose (recruitment, services, partnership)
 
 ### Automated/Tool Sources (filtered)
-- **Asana**: Project management; Meredith O'Hara Needham comment on "New Electronics/QC/Gen…" task; Thursday update notifications
-- **Google Sheets**: Robert Edson shared "Station Build Designations" spreadsheet (19 Nov)
-- **FAA DroneZone**: NEW registration receipt + Certificate of Registration issued (FA3AE79X3X — different from prior FA3WL7WPYN; second registration or renewal)
-- **FedEx Tracking**: Shipment 880080832162 (19 Nov 08:45 CST) — physical equipment/parts delivery
-- **Glassdoor Community**: Personal finance thread (financial planning context; likely automated digest or browsing artifact)
-- **Toggl**: Time tracking tool (Rasa support email, no subject)
-- **BST Website**: Contact form submission (generic inquiry)
+- **Asana**: Meredith O'Hara Needham comment on "New Electronics/QC/Gen…" task (21:34 UTC, 20 Nov)
+- **FedEx Tracking**: Continued shipment 880080832162 — now showing partial delivery "You're getting part of a shipment" (05:05 CST, 20 Nov); likely multi-part equipment shipment or staged delivery
+- **Toggl**: Time tracking tool (Rasa support, no subject)
+- **Email distribution**: careers@blackswifttech.com / careers@bst.aero (recruiting updates)
 
 ## Topic Patterns
 
 ### Primary Focus Areas (Refined)
-- **NASA/NOAA/ERAU Collaborative Research Initiative** — ELEVATED TO PRIMARY; 19 Nov large-scale meeting ("Meeting Slides and Notes") with 16 participants across NASA Langley (LARC), NOAA, and ERAU. **Scope appears to include:**
-  - Aeronautic/atmospheric measurement or research vehicle testing
-  - Multi-agency coordination (NASA, NOAA, academic)
-  - Likely correlates to BlackSwift S4 / wind tunnel / environmental monitoring use cases
-  
-- **Lean Manufacturing / Industrial Planning** — ESCALATING; Tue 24 Nov "Rebalance Industrial Plan" meeting scheduled (Lynn Regnier + Jack Elston); implies strategic manufacturing/operational restructuring
+- **Talent Acquisition / Hiring Acceleration** — NEWLY ELEVATED TO PRIMARY
+  - Senior Firmware Engineer (Nico B) — offer stage, negotiations ongoing
+  - Technical Project Manager (Josh Terry) — application stage, Jack Elston → Cory routing (expedited review)
+  - Recruiting season coordination (Rose-Hulman update 20 Nov)
+  - **Implication**: Significant team expansion underway; Cory involved in direct candidate screening and offer handling
 
-- **Test Infrastructure / Station Build** — NEW; "Station Build Designations" spreadsheet (Robert Edson) suggests construction or configuration of test stations (flight test infrastructure, production line stations, or ground-based measurement equipment)
+- **NASA/NOAA/ERAU Collaborative Research Initiative** — ongoing (continuing from prior period; 19 Nov meeting)
 
-- **CoVar Partnership / Statement of Work** — ongoing; SOW in draft/review stage (Daniel Prendergast forwarding to leadership)
+- **Test Infrastructure / Station Build** — ongoing (physical equipment delivery continues; FedEx shipment now partial delivery status 20 Nov)
 
-- **Summer 2027 Internship Recruitment** — ELEVATED; multiple WPI candidates actively engaged (Stephens robotics, Robinson engineering); Cory screening directly (14:14, 14:19 responses)
-
-- **FAA sUAS Operations** — NEW registration issued (FA3AE79X3X); second certificate suggests expanded fleet or operational capacity
-
-- **Army/Air Force Business Development** — NEW inquiry from Torch Bearers USA (Jamie Rogers "Army & Air Force BD Leader" contact); potential DoD partnership or recruitment angle
+- **Field Testing / Academic Collaboration** — NEW; Bassil El Masri (Murray State) replied on "6/28 UAS Flux Topos @Murphy's Pond" — indicates ongoing or scheduled atmospheric/UAS measurement field trial
 
 ### Project/Codenames Visible
-- **BlackSwift S4 / LC-ISR** (implicit in NASA/NOAA/ERAU meeting scope)
-- **Station Build Designations** (test/production infrastructure project)
-- **Rebalance Industrial Plan** (manufacturing/operations restructuring initiative)
-- **CoVar Statement of Work** (vendor/partner engagement)
-- **sUAS Certificate FA3AE79X3X** (FAA registration — second certificate)
+- **UAS Flux Topos @Murphy's Pond** — field testing/atmospheric measurement project (6/28 date reference; ongoing or archived)
+- **New Electronics/QC/Gen…** — hardware/quality control task (Asana; truncated subject)
+- **Senior Firmware Engineer hire** — expedited recruitment (Nico B, offer stage 20 Nov)
+- **Technical Project Manager hire** — expedited recruitment (Josh Terry, Jack Elston review 20 Nov)
 
 ### Client/Vendor Names
-- **NASA Langley Research Center (LARC)** — primary federal research partner
-- **NOAA** — atmospheric/environmental measurement partner
-- **Embry-Riddle Aeronautical University** — academic test facility partner
-- **CoVar** — ongoing technical partnership
-- **WPI** — internship/talent pipeline
-- **Torch Bearers USA** — potential DoD business development channel
-- **Vati Stream** — unknown partner/vendor (requires clarification)
+- **Murray State University** — academic testing partner (Bassil El Masri, atmospheric measurement)
+- **Rose-Hulman** — recruiting pipeline/campus recruitment
+- **Lumicity.io** — external contact receiving Senior Firmware Engineer offer forward (Max Pheysey); unknown relationship
+- **Black Label Co.** — unknown; Beck Cotter inquiry (possibly recruitment or services)
 
 ## Communication Patterns
 
-### Time Patterns
-- **Active window 19 Nov**: 08:45 CST → 23:30 UTC (15-hour span; 06:45–21:30 MST equivalent)
-- **Overnight/early morning activity**: 08:45–09:13 MST (morning business startup)
-- **Peak midday cluster**: 14:14–17:59 UTC (internship responses, meeting invites, forwarding)
-- **Evening activity**: 19:56–23:30 UTC (newsletters, updates, Glassdoor browsing)
-- **Multi-timezone coordination**: EST (11:36), MST (09:09, 11:30 scheduled), UTC (multiple), CST (08:45)
+### Time Patterns (20 Nov Focus)
+- **Early morning**: 05:05 CST FedEx notifications (staged shipment delivery)
+- **Morning business hours**: 08:59–10:32 MST (Jack Elston routing, Beck Cotter inquiry)
+- **Midday**: 12:37–15:01 CST/MST (offer extended, candidate replies, Asana update)
+- **Afternoon**: 16:38–19:37 (academic reply, recruiting update)
+- **Evening**: 21:28–22:54 UTC (offer forwarding, candidate follow-up negotiations)
+- **Multi-timezone urgency**: MST → EST → CST → UTC activity chain indicates real-time hiring coordination across geographies
 
-### Meeting Participation (Updated)
-- **Rebalance Industrial Plan** — Tue 24 Nov, 11:30am–12:30pm MST (Lynn Regnier, Jack Elston; Cory invited)
-- **NASA/NOAA/ERAU Collaborative Meeting** — 19 Nov (Jack Elston led; Cory received slides/notes; 16+ attendees across federal/academic partners)
-- **Lean Manufacturing Discussion** — Thu 19 Nov, 12:30–1pm MST (Robert Edson, Joshua Waldman; Cory confirmed in prior data)
-- **Flight Test Planning** — Mon 23 Nov (rescheduled/canceled per prior data)
+### Meeting Participation
+- Continuing from prior (Rebalance Industrial Plan Tue 24 Nov, NASA/NOAA/ERAU initiative)
 
 ### Mailing Lists/Group Distribution
-- careers@blackswifttech.com / careers@bst.aero (internship distribution)
-- info@blackswifttech.com (FAA registrations, website form submissions, industry newsletters)
-- sales@blackswifttech.com (BST website inquiries)
-- Google Sheets shared collaboration (Robert Edson)
-- Asana project notifications (Electronics/QC task, Thursday updates)
+- careers@blackswifttech.com / careers@bst.aero (recruiting season updates)
+- Asana project notifications (Electronics/QC)
+- FedEx tracking notifications
 
 ### Notable Email Patterns
-- **Cory actively screening interns**: Direct responses to WPI candidates (Stephens, Robinson) at 14:14–14:19 UTC; suggests Cory is involved in hiring workflow (not just delegation)
-- **Physical equipment shipment**: FedEx tracking (880080832162) on 19 Nov morning; likely component delivery for test infrastructure or production
-- **Large-scale collaborative coordination**: Jack Elston managing 16+ participant meeting across NASA/NOAA/ERAU; Cory receiving slides/notes (indicates strategic involvement in federal research initiative)
-- **Incoming recruitment outreach**: Jamie Rogers (Torch Bearers USA) reaching out with Army/Air Force business development opportunity; suggests BST expanding DoD/government business development
+- **Expedited hiring workflow**: Jack Elston → Cory on Josh Terry application (same-day review/routing); Cory responding to candidate within hours (22:18 UTC, 20 Nov)
+- **Offer negotiations ongoing**: Nico B exchanging multiple messages with Meredith Needham same day (13:55 → 14:39 → 22:54 CST); Cory forwarding offer to external contact (Max Pheysey) same evening
+- **Multi-party offer coordination**: Cory forwarding Firmware Engineer offer to Max Pheysey (lumicity.io) while Meredith handles candidate negotiations — suggests possible broker/referral model or external HR consultant involvement
+- **Partial shipment delivery**: FedEx shipment 880080832162 now showing staged delivery ("part of a shipment"); likely multi-component equipment for test infrastructure
+- **Academic field testing coordination**: Bassil El Masri (Murray State) engaged on "UAS Flux Topos @Murphy's Pond" — likely atmospheric/environmental measurement campaign (ongoing or historical)
 
 ## Key Relationships
 
 ### Closest Internal Collaborators
-1. **Jack Elston** — strategic director/federal partnerships lead; now explicitly coordinating large NASA/NOAA/ERAU initiative
-2. **Lynn Regnier** — industrial planning coordinator; escalating from finance to operational/manufacturing strategy
-3. **Robert Edson** — operations/manufacturing lead; managing test infrastructure buildout ("Station Build Designations")
-4. **Maciej Stachura** — peer-level escalation on strategic partnerships (CoVar SOW)
-5. **Daniel Prendergast** — partnership/vendor coordination (CoVar SOW forwarding)
+1. **Jack Elston** — strategic director; routing candidate reviews to Cory for expedited processing
+2. **Meredith Needham** — hiring/talent acquisition lead; offer negotiations, project management
+3. **Lynn Regnier**, **Robert Edson** — operational/manufacturing (continuing from prior)
+4. **Beck Cotter** — operational/recruiting outreach (Black Label Co. inquiry)
 
 ### Critical External Relationships
-- **NASA Langley Research Center (Dolph, Meek, Hunter, Lee, Jamal, Gleason)** — NEWLY ELEVATED; 19 Nov collaborative meeting indicates deep technical partnership on research/testing initiative (likely aerodynamic testing, environmental monitoring, or vehicle validation)
-- **NOAA (Hollingshead, Cione, Pawlenko)** — NEW primary federal partner; atmospheric/oceanographic measurement or environmental UAS operations
-- **ERAU (Gnanamanickam, Wadler, Zhang)** — academic research partner; wind tunnel facility access, faculty collaboration
-- **WPI (Stephens, Robinson)** — talent pipeline; Cory directly screening candidates
-- **CoVar** — technical partnership; SOW in development
-- **Torch Bearers USA (Jamie Rogers)** — potential DoD business development channel (early-stage inquiry)
-- **Vati Stream (Keelan Ashby)** — unknown purpose; requires clarification
+- **Josh Terry** (Technical Project Manager candidate) — ACTIVE; same-day hiring engagement (Jack Elston → Cory → Josh direct response)
+- **Nico B** (Senior Firmware Engineer candidate) — ACTIVE; offer stage with live negotiations (Meredith Needham + Cory involvement)
+- **Max Pheysey** (lumicity.io) — NEW; Cory forwarding offer details to external contact; relationship unclear (possible recruiter, referral source, or consultant)
+- **Bassil El Masri** (Murray State University) — academic research/testing partner (atmospheric measurement, field trials)
+- **NASA Langley Research Center, NOAA, ERAU** — continuing from prior (federal/academic research initiative)
 
 ## Notable Observations
 
-- **NASA/NOAA/ERAU Initiative is now primary focus**: The 19 Nov meeting with 16 federal/academic participants (Jack Elston coordinating) represents significant escalation. Participants span:
-  - **NASA LARC divisions**: D201 (Aeronautics), D301 (Atmospheric), E302 (specialized)
-  - **NOAA divisions**: Federal atmospheric/oceanographic measurement
-  - **ERAU faculty**: Wind tunnel, aerodynamics, atmospheric science
-  - **Implication**: Large-scale R&D or operational deployment program involving atmospheric/aeronautical testing. BlackSwift S4 likely test vehicle or operational platform.
+- **Hiring acceleration significantly elevated**: Cory now directly handling candidate communications (Josh Terry reply 22:18 UTC, 20 Nov; same-day turnaround on Jack Elston routing). Combined with WPI internship screening (prior data), indicates Cory has expanded recruitment responsibility beyond technical coordination.
 
-- **Industrial/Manufacturing Restructuring underway**: "Rebalance Industrial Plan" (Tue 24 Nov) + "Station Build Designations" (Robert Edson) suggest:
-  - Production line or test infrastructure expansion
-  - Operational efficiency initiative
-  - Likely timed to NAVAIR/S4 ramp-up (prior 24 Nov deadline now shows manufacturing preparation)
+- **Senior Firmware Engineer offer in live negotiations**: Nico B (nico.ee.baron@gmail.com) exchanging multiple messages with Meredith Needham (12:37 → 13:55 → 14:39 → 22:54 MST/CST progression). Cory simultaneously forwarding offer to Max Pheysey (lumicity.io) at 21:28 UTC — suggests:
+  - **Possible recruiter/broker involvement**: Max Pheysey may be external recruiter or HR consultant handling Firmware Engineer placement
+  - **Dual-track offer process**: Meredith negotiating with candidate; Cory coordinating with external placement partner
+  - **High urgency/competition**: Multiple parties involved suggests competitive hiring or urgent fill need
 
-- **Second FAA sUAS Registration (FA3AE79X3X)**: New certificate issued 19 Nov; prior data showed FA3WL7WPYN. Suggests:
-  - Fleet expansion (multiple aircraft types or configurations)
-  - Renewed registration/certificate refresh cycle
-  - Operational capacity increase or regulatory compliance update
+- **Unknown external contact (Max Pheysey / Lumicity.io)**: Critical gap. Cory forwarding employment offer details to external email address (lumicity.io). Possible interpretations:
+  - Lumicity is recruitment/staffing firm; Max Pheysey is recruiter or placement consultant
+  - Lumicity is technical vendor; offer forwarded for reference/approval (unlikely)
+  - **Requires urgent clarification** on relationship and data-sharing protocol
 
-- **Physical shipment delivery (FedEx 880080832162)**: 19 Nov morning delivery correlates with "Station Build Designations" activity — likely equipment/components for test infrastructure setup
+- **Physical equipment delivery escalation**: FedEx shipment 880080832162 now showing staged delivery ("part of a shipment," 20 Nov). Combined with prior 19 Nov initial tracking, indicates:
+  - Multi-part equipment order
+  - Possible separation of components (electronics, mechanical, software)
+  - Correlates to test infrastructure buildout and Electronics/QC task (Asana)
 
-- **Cory actively hiring**: Direct responses to WPI internship candidates (Stephens, Robinson) at 14:14–14:19 UTC indicate Cory has hiring/screening responsibility beyond prior passive role. Suggests:
-  - Expanded team build-out ahead of major initiative (NASA/NOAA/ERAU program, S4 production)
-  - Cory elevated to talent/resource management (in addition to technical/coordination role)
+- **Academic field testing ongoing**: Bassil El Masri (Murray State) replied on "6/28 UAS Flux Topos @Murphy's Pond" atmospheric measurement project. Date reference (6/28) suggests:
+  - Either historical project (June 28 date, now November)
+  - Or recurring field campaign (June 28 follow-up discussion in November planning context)
 
-- **Army/Air Force Business Development outreach**: Jamie Rogers (Torch Bearers USA) reaching out with "Army & Air Force BD Leader" opportunity. Could indicate:
-  - BST seeking to expand DoD/government sales channels
-  - Potential executive hire for defense/government business development
-  - Early-stage partnership or M&A interest (Torch Bearers appears to be talent/consulting firm)
+- **Recruiting season coordination**: Rose-Hulman recruiting update (20 Nov) routed to careers@bst.aero; suggests structured campus recruitment pipeline in progress (aligns with WPI internship screening from prior data).
 
-- **Unknown vendor/partner**: Vati Stream (Keelan Ashby, "Cory - Black Swift - Stream") — purpose unclear. Possible interpretations:
-  - Media/documentary streaming (unclear relevance)
-  - Data streaming platform/vendor
-  - Partnership or integration inquiry
+- **Beck Cotter's Black Label Co. inquiry**: Beck reached out to info@blacklabelco.com with "Black Swift Technologies inquiry" (10:32 MST, 20 Nov). Purpose unclear:
+  - Recruitment/talent search
+  - Partnership or vendor services
   - **Requires clarification**
-
-- **Glassdoor personal finance thread**: Cory received notification on "Struggling to save" thread with $600k household income context. Likely artifact of Glassdoor community browsing or automated digest; not work-critical but indicates financial planning awareness.
-
-- **Coordinating across multiple internship sources**: WPI robotics (Stephens) + WPI engineering (Robinson) + prior data (internship pipeline broad) — suggests structured recruitment drive. Cory's direct engagement suggests talent screening is part of his expanded scope.
-
-- **Email volume and urgency clustering**: High activity on 19 Nov (21 messages) with multiple IMPORTANT flags and quick responses (14:14–14:19 internship replies) suggests active project milestone or decision point (possibly NASA/NOAA meeting prep, manufacturing plan finalization, or recruitment deadline).
 
 ---
 
-**CUMULATIVE PROFILE UPDATE**: Cory Dixon is now operating as:
-1. **Strategic technical coordinator** for large-scale NASA/NOAA/ERAU federal research initiative (19 Nov meeting, 16+ participants)
-2. **Embedded Krateo Sky liaison** (dual email identity, Vanta security role)
-3. **Operational/manufacturing strategist** (Lean Manufacturing, "Rebalance Industrial Plan," test infrastructure buildout)
-4. **Talent acquisition screener** (direct WPI internship candidate engagement)
-5. **Partnership coordinator** (CoVar SOW, potential DoD business development channel outreach)
+## CUMULATIVE PROFILE UPDATE
 
-**Active initiatives for next week**: 
+**Cory Dixon's expanding scope (as of 20 Nov 2026)**:
+1. **Strategic technical coordinator** — NASA/NOAA/ERAU federal research initiative (continuing)
+2. **Talent acquisition lead** — actively screening, reviewing, and responding to candidates (Technical Project Manager, Senior Firmware Engineer); direct candidate engagement
+3. **Hiring workflow manager** — coordinating with Jack Elston (routing), Meredith Needham (offer coordination), and external partners (Max Pheysey / Lumicity.io)
+4. **Operational/manufacturing strategist** — test infrastructure buildout, Lean Manufacturing planning (continuing)
+5. **Academic research coordinator** — Murray State University field testing (atmospheric measurement campaigns)
+
+**Active hiring initiatives**:
+- Senior Firmware Engineer (Nico B) — OFFER STAGE, live negotiations (20 Nov)
+- Technical Project Manager (Josh Terry) — APPLICATION REVIEW STAGE (Jack Elston → Cory routing, 20 Nov)
+- Internship pipeline (WPI) — continuing recruitment
+
+**Critical gap to resolve**:
+- **Max Pheysey / Lumicity.io relationship**: Why is Cory forwarding employment offer details to external email? Recruiter? Consultant? Data-sharing protocol?
+
+**Next milestones**:
 - Tue 24 Nov: "Rebalance Industrial Plan" meeting (manufacturing/operational restructuring)
-- Mon 23 Nov: Flight test planning (rescheduled)
-- NASA/NOAA/ERAU program execution (slides/notes received; likely implementation phase)
-- Station infrastructure buildout (physical equipment delivery 19 Nov; Robert Edson coordination)
+- Firmware Engineer candidate decision expected (Nico B negotiations ongoing)
+- Technical Project Manager candidate feedback cycle (Josh Terry)
+- Equipment delivery completion (FedEx shipment 880080832162 staged delivery)

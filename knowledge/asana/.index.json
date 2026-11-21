@@ -42,7 +42,7 @@
     "window": "last 365 days"
   },
   "001-07_s3_irad.md": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "completed": 20,
     "name": "[001-07] S3 IRAD",
     "open": 19,
@@ -133,7 +133,7 @@
     "window": "last 90 days"
   },
   "001-13_general_operations.md": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "completed": 16,
     "name": "[001-13] General Operations",
     "open": 30,
@@ -182,10 +182,10 @@
     "window": "last 90 days"
   },
   "001-13_purchasing.md": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "completed": 0,
     "name": "[001-13] Purchasing",
-    "open": 203,
+    "open": 205,
     "window": "last 90 days"
   },
   "001-14_swiftcore_33.md": {
@@ -224,10 +224,10 @@
     "window": "last 365 days"
   },
   "001-22_fleet_maintenance.md": {
-    "as_of": "2026-11-19",
-    "completed": 10,
+    "as_of": "2026-11-21",
+    "completed": 11,
     "name": "[001-22] Fleet Maintenance",
-    "open": 3,
+    "open": 2,
     "window": "last 90 days"
   },
   "001-23_socom_crada_s0-ad.md": {
@@ -406,7 +406,7 @@
     "window": "last 90 days"
   },
   "300-3_2026_idiq_hurricane.md": {
-    "as_of": "2026-11-20",
+    "as_of": "2026-11-21",
     "completed": 13,
     "name": "[300-3] 2026 IDIQ (Hurricane)",
     "open": 7,
@@ -476,10 +476,10 @@
     "window": "last 90 days"
   },
   "600-1_socom_pope.md": {
-    "as_of": "2026-11-20",
-    "completed": 19,
+    "as_of": "2026-11-21",
+    "completed": 24,
     "name": "[600-1] SOCOM Pope",
-    "open": 61,
+    "open": 62,
     "window": "last 90 days"
   },
   "commercial_sales.md": {

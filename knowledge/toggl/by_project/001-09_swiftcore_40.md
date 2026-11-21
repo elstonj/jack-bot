@@ -1,4 +1,4 @@
-_Computed from Toggl as of 2026-11-20: 572.6 h total since 2020-01-01 — Ben Busby 483.0 h, Ethan Domagala 28.8 h, Stachura 26.2 h, Spencer Hoehl 18.8 h, Dan 12.2 h, Jack Elston 3.5 h._
+_Computed from Toggl as of 2026-11-21: 580.6 h total since 2020-01-01 — Ben Busby 483.0 h, Ethan Domagala 28.8 h, Stachura 26.2 h, Spencer Hoehl 18.8 h, Dan 12.2 h, Jack Elston 11.5 h._
 
 # [001-09] SwiftCore 4.0 — Time Tracking
 
@@ -6,31 +6,34 @@ _Computed from Toggl as of 2026-11-20: 572.6 h total since 2020-01-01 — Ben Bu
 - **Client:** [001] IRAD
 - **Status:** Active
 - **Billable:** No
-- **Total Hours Tracked:** 572.6 hours (all-time since 2020-01-01)
+- **Total Hours Tracked:** 580.6 hours (all-time since 2020-01-01)
 
 ## Team Allocation
 | Team Member | Hours | % of Total |
 |---|---|---|
-| Ben Busby | 483.0 | 84.3% |
+| Ben Busby | 483.0 | 83.2% |
 | Ethan Domagala | 28.8 | 5.0% |
-| Stachura | 26.2 | 4.6% |
-| Spencer Hoehl | 18.8 | 3.3% |
+| Stachura | 26.2 | 4.5% |
+| Spencer Hoehl | 18.8 | 3.2% |
 | Dan | 12.2 | 2.1% |
-| Jack Elston | 3.5 | 0.6% |
+| Jack Elston | 11.5 | 2.0% |
 
-**Primary Contributor:** Ben Busby (483 hours)
+**Primary Contributor:** Ben Busby (483.0 hours)
 
 ## Activity Timeline
-Recent activity shows consistent engagement from multiple team members:
+Recent work entries show consistent activity across multiple team members:
 
-- **Stachura:** Most active in recent period with 11 entries totaling ~24.1 hours (ranging from 0.4h to 5.5h per entry)
-- **Spencer Hoehl:** 5 recent entries totaling ~18.9 hours, with longer sessions (4.5h, 5.0h, 7.5h)
-- **Ben Busby:** 4 recent entries totaling ~8.0 hours
-- **Jack Elston:** 2 recent entries totaling ~3.4 hours
-
-Only one entry includes a description: "New GCS Updates" (Jack Elston, 1.2h)
+- **Stachura:** 14 entries totaling ~21.7 hours (mostly undescribed work sessions ranging 0.4–5.5 hours)
+- **Spencer Hoehl:** 5 entries totaling ~18.9 hours (undescribed sessions ranging 0.5–7.5 hours)
+- **Ben Busby:** 3 entries totaling 6.0 hours (undescribed)
+- **Jack Elston:** 5 entries totaling 10.4 hours
+  - Weather Server review: 5.0 hours (3 sessions)
+  - New GCS Updates: 1.2 hours
+  - SwiftCore 3.1 Review: 0.5 hours
 
 ## Insights
-- **Work Type:** Insufficient description data to characterize work types. Only one entry of 23 recent entries includes a description ("New GCS Updates").
-- **Pattern:** Stachura shows most recent activity frequency with multiple smaller work sessions. Spencer Hoehl shows recent engagement with longer, consolidated work blocks.
-- **Documentation Gap:** 95.7% of recent entries lack descriptions, limiting visibility into specific work being performed.
+- **Work documentation:** Most recent entries lack descriptions; only 4 of 28 entries have identifiable work types
+- **Identified work streams:** Weather Server integration/review and GCS updates are the documented focus areas
+- **Concentration:** Ben Busby carries the dominant workload (83% of all hours), suggesting either core ownership or early-stage heavy lifting
+- **Secondary contributors:** Stachura and Spencer Hoehl show recent engagement with varied session lengths, indicating ongoing implementation or development work
+- **Code review activity:** Jack Elston's work appears focused on review tasks (Weather Server, SwiftCore 3.1)

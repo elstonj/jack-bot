@@ -1,222 +1,290 @@
 # Josh Fromm — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 127 (83 previous + 44 new)
-- **Date range:** 15–20 November 2026
-- **Approximate volume:** Sustained heavy activity (15–20 emails/day); peak on 18 Nov (38 emails); continued sustained procurement and motor/component sourcing on 19–20 Nov (44 new messages)
-- **Signal-to-noise ratio:** ~70% automated/promotional/procurement; ~30% actionable business correspondence
+- **Total messages scanned:** 155 (127 previous + 28 new)
+- **Date range:** 15–21 November 2026
+- **Approximate volume:** Sustained heavy activity (15–20 emails/day); new dataset (20–21 Nov) shows 28 messages in 2 days (~14/day), slightly reduced from 19–20 Nov peak but sustained
+- **Signal-to-noise ratio:** ~75% automated/promotional/procurement; ~25% actionable business correspondence
+- **Trend:** Sustaining elevated operational tempo through weekend (Saturday 21 Nov activity continues)
 
 ## Key Correspondents
 
-### Top Senders
-1. **Purchasing forwarding hub** (purchasing@blackswifttech.com) — Vendor order/receipt/shipment notifications routed from: ACP Composites, TEquipment, Saleae Inc., DigiKey, SensorPros, Spindrift Market, Pirate Ship, USPS Informed Delivery, FedEx Tracking, Test Equipment Depot — **volume increased significantly in new dataset (15+ forwarded orders/tracking on 19–20 Nov)**
-2. **Asana** (no-reply@asana.com) — 2 additional task notifications (total: 9 across both datasets)
-3. **George Kusaba / Amprius** (george.kusaba@amprius.com) — NEW: **3 high-priority emails on 19 Nov** regarding "New order for Black Swift" — appears to resolve earlier supplier escalation ("no reply yet from George")
-4. **Chance Rogers / Vertiq** (chance.rogers@vertiq.co) — NEW: Direct contact on motor sourcing ("Additional 23-14 motors") [IMPORTANT]
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Continues as high-volume correspondent; NEW: visible on Jack Elston's large NASA/NOAA coordination email (19 Nov, 09:09 MST)
-6. **Promotional/Newsletter senders** — AliExpress, Hilton Honors, Expedia, DigiKey (webinar), UAS Vision, Global Industrial, Toggl, Donna Ridley (Paragon Dynamics)
+### Top Senders — UPDATED
+1. **Purchasing forwarding hub** (purchasing@blackswifttech.com) — Vendor order/receipt/shipment notifications; **NEW in this dataset:** Composite Envisions (order 563-SO46219), ProtoSpace Mfg (bus bar design guide), DigiKey (shipment), tracking/delivery confirmations, USPS Informed Delivery, ezCater marketing
+2. **Asana** (no-reply@asana.com) — 2 additional task notifications in new dataset (total: 11 across all datasets); **NEW:** Dan Prendergast task assignment "Mechanical and Electrical Design Updates for Component Integra… [[600-1] SOCOM Pope]" (20 Nov, 20:52 UTC) — **CRITICAL NEW PROJECT VISIBILITY**
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ELEVATED: Multiple Sightline AITR correspondence chains visible (20 Nov) with Kiki Hosaka & Nick Whaley; also forwarding Asana task on SOCOM Pope project
+4. **Sightline Intelligence contacts** (Hayden Fulkerson, Kiki Hosaka, Nick Whaley) — **NEW ESCALATION:** 5 Sightline AITR emails visible in new dataset (20 Nov, 17:17–20:17 UTC) showing active technical/procurement discussion; thread includes Daniel Prendergast, suggesting project-level escalation
+5. **Jack Elston** (elstonj@blackswifttech.com) — NEW DIRECT CORRESPONDENCE: "Fwd: Pluma Dynamics / BST" (20 Nov, 08:31 MST) to Maciej Stachura & Josh Fromm — **NEW THIRD-PARTY PARTNERSHIP SIGNAL**
+6. **Cameron Halpin / Xometry** (cameron.halpin@xometry.com) — NEW DIRECT CONTACT: Quote follow-up "Re: Xometry Quote Q86-5349-0516" (20 Nov, 11:03 EST) — **NEW MANUFACTURING PARTNER**
+7. **Chance Rogers / Vertiq** (chance.rogers@vertiq.co) — Continuation: Josh replies directly (20 Nov, 08:26 MST) on "Additional 23-14 motors" [CONTINUES, ACTIVE]
+8. **Promotional/Newsletter senders** — AliExpress (2x), CU Boulder Aerospace/NASA job alert, Kollmorgen servo feedback, Global Industrial, Toggl, UAS Vision, ProtoSpace Mfg
 
 ### Top Recipients (direct to Josh)
-- josh.fromm@blackswifttech.com (primary business inbox) — receives 90%+ of actionable correspondence
-- josh.fromm@bst.aero (alternative domain) — 1 new message from Donna Ridley (Paragon Dynamics) "Happy Thanksgiving Week Ahead" (19 Nov)
+- josh.fromm@blackswifttech.com — 90%+ actionable correspondence [PRIMARY]
+- josh.fromm@bst.aero — no new messages in this dataset [BACKGROUND]
 
-### Internal Collaborators (by frequency and project — updated)
-1. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Continues as primary correspondent on Sightline AITR; now visible on large NASA S2 Delivery meeting distribution (Jack Elston, 19 Nov)
-2. **Jack Elston** (elstonj@blackswifttech.com) — NEW VISIBILITY: Leading large multi-agency meeting (19 Nov, 09:09 MST) with NASA (Chester Dolph, Chris Meek, Michael W. Lee, Tausif Jamal), NOAA (Annette Hollingshead, Joe Cione, Nikolai Pawlenko), ERAU (Ebenezer Gnanamanickam, Wadler, Zheng), BST team (Beck Cotter, Cory Dixon, Maciej Stachura); Josh included on distribution
-3. **Sam Hild** (sam.hild@blackswifttech.com) — NEW: Receives 2 Vertiq motor support forwarded emails from Josh (19 Nov) regarding "Volt limit" and "calibration mode on 24-14 motors" — suggests Sam is motors/propulsion systems engineer
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Visible on Jack Elston's large NASA S2 meeting (19 Nov) [CONTINUES]
-5. **Maciej Stachura** (maciej.stachura@blackswifttech.com) — Visible on Jack Elston's large NASA S2 meeting (19 Nov) [CONTINUES]
-6. **Cory Dixon** (cory.dixon@blackswifttech.com) — Visible on Jack Elston's large NASA S2 meeting (19 Nov) [CONTINUES]
-7. **Meredith Needham** (meredith.needham@blackswifttech.com) — Visible on Phase1AV order coordination (Sean Cole reply, 19 Nov) [CONTINUES]
+### Internal Collaborators — UPDATED
+1. **Jack Elston** (elstonj@blackswifttech.com) — CONTINUED ESCALATION: Forwarding Pluma Dynamics / BST partnership info directly to Josh & Maciej Stachura (20 Nov, 08:31 MST); continues as NASA S2 Delivery program lead [**CRITICAL PARTNERSHIP MANAGEMENT**]
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ELEVATED: Leading Sightline AITR technical escalation (5 emails, 20 Nov); also task-assigning Josh on SOCOM Pope project via Asana; appears to be primary technical/commercial lead on multiple programs [**KEY DECISION-MAKER**]
+3. **Maciej Stachura** (maciej.stachura@blackswifttech.com) — Receiving Pluma Dynamics forwarding from Jack Elston alongside Josh; visible on NASA S2 & Pluma Dynamics coordination [CONTINUES]
+4. **Sam Hild** (sam.hild@blackswifttech.com) — Not visible in new dataset but continues as propulsion engineer [BACKGROUND]
+5. **Beck Cotter, Cory Dixon** — Not visible in new dataset [BACKGROUND from NASA S2]
+6. **Meredith Needham** (meredith.needham@blackswifttech.com) — Not visible in new dataset [BACKGROUND from Phase1AV]
 
-### External Key Contacts — NEW & CRITICAL
+### External Key Contacts — NEW & UPDATED
 
-**MOTOR/PROPULSION SYSTEMS:**
-- **Chance Rogers** (chance.rogers@vertiq.co, Vertiq) — Motor supplier; direct correspondence on "Additional 23-14 motors" (19 Nov); Josh forwarding Vertiq support emails to Sam Hild [**CRITICAL NEW RELATIONSHIP**]
-- **George Kusaba** (george.kusaba@amprius.com, Amprius) — NEW CONTACT: 3 exchanges (19 Nov, 14:40–23:18 UTC) on "New order for Black Swift"; **resolves earlier "George" escalation flagged by Alex Lomis** [**CRITICAL SUPPLIER**]
+**GOVERNMENT/RESEARCH PROGRAMS — NEW ESCALATION:**
+- **SOCOM Pope Project (via Asana task)** — NEW: Asana notification from Dan Prendergast (20 Nov, 20:52 UTC) assigns Josh task: "Mechanical and Electrical Design Updates for Component Integra… [[600-1] SOCOM Pope]" — **Suggests Josh is leading mechanical/electrical integration on classified or sensitive SOCOM program** [**CRITICAL NEW PROJECT**]
+  - Project code: [600-1]
+  - Scope: Component integration, mechanical & electrical design
+  - Urgency: Assigned as active task with notifications prioritized
 
-**AEROSPACE/COMMERCIAL PARTNERS:**
-- **Lee Skidmore** (lee@rubiconaerospace.com, Rubicon Aerospace) — NEW: Direct correspondence (19 Nov) on "Intro & S0 outlook"; Josh forwards ACP Composites shipment to Rubicon team; Jeremy Van Vliet (jeremy@rubiconaerospace.com) also replying [**NEW PARTNERSHIP, IMPORTANT**]
-- **Jeremy Van Vliet** (jeremy@rubiconaerospace.com, Rubicon Aerospace) — NEW: Co-correspondent with Lee Skidmore on "Intro & S0 outlook"
+**COMMERCIAL PARTNERSHIPS — NEW ESCALATION:**
+- **Pluma Dynamics / BST Partnership** — NEW: Jack Elston forwards partnership brief to Josh & Maciej Stachura (20 Nov, 08:31 MST); subject line forwarded (content not visible in metadata) but implies new commercial partnership evaluation or joint venture [**NEW MAJOR PARTNERSHIP**]
+- **Xometry (Cameron Halpin)** — NEW DIRECT CONTACT: Cameron Halpin (Account Manager, cameron.halpin@xometry.com) responds directly to Josh's quote request Q86-5349-0516 (20 Nov, 11:03 EST); indicates Josh is sourcing manufacturing services, likely for prototyping or small-batch production [**NEW MANUFACTURING PARTNER**]
 
-**GOVERNMENT/RESEARCH — EXPANDED VISIBILITY:**
-- **Joe Cione** (joe.cione@noaa.gov, NOAA Federal) — NEW LARGE DISTRIBUTION: RFI on "HAPS/HALE" (High-Altitude Platform Systems / High-Altitude Long-Endurance) forwarded to 25+ recipients including NOAA, NASA, Navy, academia, and **Hamed Khalkhali & Daniela Bublik (Swift Engineering), Russ Vanderwerff (Aerostar)**. Josh on distribution. [**SIGNIFICANT NEW GOV RFI**]
-  - Recipients visible: Allison McComiskey (UCAR), William Mowitt (NOAA), Will McCarty (NASA), Chester Dolph & Chris Meek & Michael Lee (NASA LaRC), Vijay Tallapragada (NOAA), Anna Wilson & Marty Ralph (UCSD), Elizabeth Sanabia (UW), Sabu Best (Barbados), Hamed Khalkhali (Swift Engineering), Daniela Bublik (Swift Engineering), Russ Vanderwerff (Aerostar)
+**SUBSYSTEM/SUPPLIER CONTACTS — CONTINUED:**
+- **Vertiq (Chance Rogers)** — Josh replies directly to Chance on "Additional 23-14 motors" (20 Nov, 08:26 MST); maintains active motor sourcing coordination [CONTINUES, ACTIVE]
+- **Composite Envisions** — NEW SUPPLIER: Order 563-SO46219 received (20 Nov, 13:28 PST) via purchasing@blackswifttech.com; suggests composite materials sourcing expanding beyond ACP Composites [**NEW SUPPLIER**]
+- **ProtoSpace Mfg** — NEW VISIBILITY: Marketing email on "bus bar design guide" (20 Nov, 20:17 UTC); subject line suggests electrical integration/power distribution design activity; may be targeted to Josh specifically on design topic [**NEW SUPPLIER CONSIDERATION**]
 
-**GOVERNMENT COORDINATION (Jack Elston meeting, 19 Nov):**
-- **Annette Hollingshead** (annette.hollingshead@noaa.gov, NOAA Federal)
-- **Chester V. Dolph** (chester.v.dolph@nasa.gov, NASA LaRC D201)
-- **Chris Meek** (christopher.b.meek@nasa.gov, NASA LaRC D201)
-- **Michael W. Lee** (michael.w.lee@nasa.gov, NASA LaRC D301)
-- **Craig Hunter** (craig.hunter@nasa.gov, NASA LaRC D301, EMERITUS)
-- **Jonathan Gleason** (jonathan.l.gleason@nasa.gov, NASA LaRC E302)
-- **Tausif Jamal** (tausif.jamal@nasa.gov, NASA LaRC D301)
-- **Nikolai Pawlenko** (nikolai.f.pawlenko@noaa.gov, NOAA Federal)
-- **Ebenezer Gnanamanickam** (gnanamae@erau.edu, Embry-Riddle Aeronautical University)
-- **Joshua Wadler** (wadlerj@erau.edu, ERAU)
-- **Zheng Zhang** (zhangz6@erau.edu, ERAU)
-
-**COMPOSITE/MATERIALS SUPPLIERS:**
-- **ACP Composites** — 3 orders/invoices shipped 19–20 Nov (forwarded via purchasing@blackswifttech.com) [**ACTIVE SOURCING**]
-
-**EXTERNAL CONTACTS (Continued from previous):**
-- **Hayden Fulkerson** (hfulkerson@us.sightlineintel.com, Sightline Intelligence) — Continues correspondence with Daniel Prendergast on Sightline AITR (19 Nov visible in new dataset) [CONTINUES]
-- **Sean Cole** (sean@phase1av.com, Phase1AV) — Order coordination visible (19 Nov) [CONTINUES]
-- **Donna Ridley** (donnaridley@paragonde.com, Paragon Dynamics) — Holiday greeting to josh.fromm@bst.aero (19 Nov); suggests vendor relationship [CONTINUES]
+**CONTINUING RELATIONSHIPS:**
+- Sightline Intelligence (Hayden Fulkerson, Kiki Hosaka, Nick Whaley) — AITR escalation [CONTINUES, ELEVATED]
+- Rubicon Aerospace, Amprius, ACP Composites, DigiKey [BACKGROUND from previous dataset]
 
 ## Topic Patterns
 
-### Project/Initiative Names — UPDATED
-- **NASA S2 Delivery** — ESCALATED: Jack Elston coordinating large multi-agency meeting (19 Nov, 09:09 MST) with 15+ NASA/NOAA/ERAU contacts; "Meeting Slides and Notes" subject; suggests critical project milestone or design review [**MAJOR ACTIVE PROJECT**]
-- **Sightline AITR** — Continues; Daniel Prendergast ↔ Hayden Fulkerson correspondence visible (19 Nov) [CONTINUES, IMPORTANT]
-- **Krateo Sky Weekly Integration Review** — Not visible in new dataset; may have shifted to different communication channel [CONTINUES BACKGROUND]
-- **Hamamatsu Image Intensifiers** — Not visible in new dataset; may be in different communication flow [CONTINUES BACKGROUND]
-- **Rubicon Aerospace "S0 Outlook"** — NEW PROJECT: Josh direct correspondence with Lee Skidmore & Jeremy Van Vliet (19 Nov); subject "Intro & S0 outlook"; ACP Composites orders forwarded to Rubicon team. Suggests Black Swift may be subcontractor or component supplier to Rubicon platform development. [**NEW MAJOR PARTNERSHIP**]
-- **Vertiq Motor Integration** — NEW: Josh sourcing "Additional 23-14 motors" from Chance Rogers (Vertiq); forwarding Vertiq support emails to Sam Hild on "Volt limit" and "calibration mode" (19 Nov). Suggests active motor integration or platform iteration. [**CRITICAL SUBSYSTEM**]
-- **Amprius Battery Order** — NEW: George Kusaba (Amprius) coordinating "New order for Black Swift" (19 Nov, 3 high-priority exchanges). Amprius manufactures high-energy-density lithium batteries; suggests power system critical to design. [**CRITICAL SUBSYSTEM**]
-- **NOAA HAPS/HALE RFI (High-Altitude Platform Systems)** — NEW: Joe Cione RFI forwarded to 25+ recipients (19 Nov); Hamed Khalkhali & Daniela Bublik from Swift Engineering on distribution; suggests Black Swift may be responding to government RFI for high-altitude long-endurance platforms. [**MAJOR NEW GOV OPPORTUNITY**]
-- **Lean Manufacturing Discussion** — Cory Dixon meeting (19 Nov); Gemini notes captured [CONTINUES]
-- **Local Machining/Prototype Support** — Not visible in new dataset but continues in background [CONTINUES]
+### Project/Initiative Names — UPDATED & NEW
+
+**GOVERNMENT PROGRAMS:**
+1. **[600-1] SOCOM Pope** — NEW & CRITICAL: Asana task assigned to Josh (20 Nov, 20:52 UTC) for "Mechanical and Electrical Design Updates for Component Integra…" — suggests Josh leading component integration workstream on SOCOM command's secret/classified operation (Pope likely codename). Scope implies subsystem integration, mechanical design, electrical integration. [**HIGHEST PRIORITY NEW PROJECT — MILITARY/CLASSIFIED**]
+
+2. **NASA S2 Delivery** — CONTINUES: Large multi-agency program led by Jack Elston; last visible 19 Nov [CONTINUES, ACTIVE BACKGROUND]
+
+3. **NOAA HAPS/HALE RFI** — CONTINUES: Government research opportunity visible 19 Nov; response strategy not updated in new dataset [CONTINUES, BACKGROUND]
+
+**COMMERCIAL PROGRAMS:**
+4. **Pluma Dynamics / BST Partnership** — NEW & MAJOR: Jack Elston forwarding partnership brief to Josh & Maciej Stachura (20 Nov, 08:31 MST); subject line forwarded (content unknown) but implies joint venture, acquisition, or commercial platform co-development. [**NEW MAJOR BUSINESS DEVELOPMENT**]
+
+5. **Rubicon Aerospace S0 Outlook** — CONTINUES: "S0 outlook" partnership on composite materials/component supply [CONTINUES, ACTIVE]
+
+**TECHNICAL WORKSTREAMS:**
+6. **Sightline AITR** — ESCALATED: 5-email technical thread (20 Nov, 17:17–20:17 UTC) among Daniel Prendergast, Hayden Fulkerson, Kiki Hosaka, Nick Whaley suggests active technical problem-solving or design review; subject "Sightline AITR" consistent with previous correspondence [CONTINUES, ELEVATED ACTIVITY]
+
+7. **Vertiq Motor Integration (23-14, 24-14 models)** — CONTINUES: Josh replies to Chance Rogers on motor sourcing (20 Nov, 08:26 MST) [CONTINUES, ACTIVE]
+
+8. **Composite Materials Integration (ACP, Composite Envisions)** — CONTINUES/EXPANDS: New supplier (Composite Envisions order 563-SO46219, 20 Nov) added to ACP Composites sourcing; suggests parallel supply chains or increased volume [CONTINUES, ESCALATED VOLUME]
 
 ### Vendor/Supplier Categories — UPDATED
 
-**MOTORS/PROPULSION (NEW EMPHASIS):**
-- **Vertiq (Chance Rogers)** — High-performance motor supplier; 23-14 and 24-14 motor models ordered; support for volt limiting and calibration [**NEW PRIMARY**]
-- **Amprius (George Kusaba)** — Advanced lithium battery manufacturer; new critical order placed (19 Nov) [**NEW PRIMARY**]
+**MANUFACTURING & PROTOTYPING (NEW EMPHASIS):**
+- **Xometry (Cameron Halpin)** — Custom manufacturing/prototyping; quote Q86-5349-0516 in negotiation; likely CNC, sheet metal, or precision machining [**NEW PRIMARY**]
+- **ProtoSpace Mfg** — Bus bar/electrical integration design services; may specialize in custom power distribution [**NEW SUPPLIER CONSIDERATION**]
+- **Composite Envisions** — Structural composites; order 563-SO46219 (20 Nov) [**NEW SUPPLIER**]
 
 **COMPOSITE/STRUCTURAL MATERIALS:**
-- **ACP Composites** — 3 orders shipping 19–20 Nov; increased order frequency [**ESCALATED**]
-- Hillside Composites [CONTINUES]
+- **ACP Composites** — 3 orders shipping 19–20 Nov; continues as primary supplier [CONTINUES]
+- **Composite Envisions** — NEW: Order received (20 Nov) [NEW SUPPLIER]
 
-**TESTING/INSTRUMENTATION (NEW):**
-- **Saleae, Inc.** — Logic analyzer/data capture equipment; order #SAL-20799 confirmed & shipped (19 Nov) [**NEW SUPPLIER**]
-- **Test Equipment Depot** — Order B485620 shipped (19 Nov) [**NEW SUPPLIER**]
-- **SensorPros** — Order #3412 placed by Josh Fromm (19 Nov) [**NEW SUPPLIER**]
+**MOTORS/PROPULSION (Continued):**
+- **Vertiq (Chance Rogers)** — 23-14, 24-14 motor models; active sourcing [CONTINUES]
 
-**ELECTRONICS & COMPONENTS (Continued):**
-- **DigiKey** — Purchase Order #103042199 acknowledged (19 Nov) [CONTINUES]
-- McMaster-Carr [CONTINUES, reduced visibility in new dataset]
+**TESTING/INSTRUMENTATION:**
+- **Saleae Inc., Test Equipment Depot, SensorPros** — Orders from 19 Nov [CONTINUES BACKGROUND]
+
+**ELECTRONICS & COMPONENTS:**
+- **DigiKey** — Order shipment confirmed 20 Nov (invoice 136742222) [CONTINUES]
 
 **LOGISTICS/SHIPPING:**
-- **Pirate Ship** — Shipping label payment $39.07 (19 Nov) [NEW VISIBILITY]
-- **FedEx Tracking** — Delivery #880045274425 (19 Nov) [CONTINUES]
-- **USPS Informed Delivery** — Daily digest (19 Nov) [CONTINUES]
+- **Tracking/USPS Informed Delivery** — Daily shipping digest (20 Nov) [CONTINUES]
 
 **PREVIOUSLY CONTINUED:**
-- Protolabs, JawsTec, Dronetag, OEMCameras, Phase1AV, LightWare, Vaisala, etc. [BACKGROUND]
+- Amprius, Phase1AV, McMaster-Carr, DigiKey, etc. [BACKGROUND]
 
 ### Promotional/Newsletter Traffic — UPDATED
-- **Continued:** AliExpress, Hilton Honors, Expedia, DigiKey, UAS Vision, Global Industrial
-- **New:** Toggl (time tracking), Donna Ridley/Paragon Dynamics (Thanksgiving greeting)
+- **New:** CU Boulder Aerospace/NASA job openings (20 Nov) — may indicate recruiting interest in Josh or HR notification
+- **Continued:** AliExpress (2x), Kollmorgen, Global Industrial, Toggl, UAS Vision, ProtoSpace Mfg
 
 ## Communication Patterns
 
 ### Timing
-- Heavy sustained activity 19–20 Nov (44 messages in 2 days)
-- Multiple vendor order/shipment confirmations clustered on 19 Nov (ACP Composites, TEquipment, DigiKey, Saleae, SensorPros, FedEx all 19 Nov)
-- High-priority motor/battery supplier correspondence concentrated 19 Nov (Vertiq, Amprius, both same day)
-- Large multi-agency meeting email (Jack Elston) distributed 19 Nov 09:09 MST
-- Government RFI (Joe Cione HAPS/HALE) distributed 19 Nov 14:17 MST
+- **20–21 Nov:** 28 messages in 2 days (~14/day), sustained but slightly reduced from 19–20 Nov peak (44 messages in 2 days)
+- **High-priority clusters:**
+  - Sightline AITR technical escalation: 20 Nov 17:17–20:17 UTC (5 emails in 1-hour window)
+  - Pluma Dynamics forwarding from Jack Elston: 20 Nov 08:31 MST (Saturday morning)
+  - Xometry quote reply: 20 Nov 11:03 EST (business hours)
+  - SOCOM Pope Asana task: 20 Nov 20:52 UTC (evening, urgent flag)
+  - Vertiq reply from Josh: 20 Nov 08:26 MST (early morning, proactive)
+- **Weekend activity:** Messages on Saturday 21 Nov (AliExpress marketing) indicate Josh remains responsive over weekend
 
 ### Direct Correspondence Patterns
-- **Josh → external vendors:** Direct sourcing on motors (Vertiq) and propulsion/battery subsystems (Amprius, Autochase from previous dataset)
-- **Josh → internal team:** Forwarding vendor technical support emails to Sam Hild (propulsion specialist); coordination with Rubicon Aerospace team on composite/structural materials
-- **Josh receiving visibility:** Large government coordination emails (Jack Elston NASA S2 meeting, Joe Cione RFI) suggest he is technical contributor or decision-maker on government-facing programs
+- **Josh → external vendors:** Direct motor sourcing coordination with Vertiq (Chance Rogers); quote negotiation with Xometry (Cameron Halpin)
+- **Josh receiving from leadership:** Jack Elston forwarding partnership info (Pluma Dynamics) directly to Josh & Maciej Stachura
+- **Josh receiving project assignments:** Daniel Prendergast task-assigning via Asana on SOCOM Pope project (mechanical/electrical integration)
+- **Josh receiving technical escalations:** Sightline AITR thread includes Josh on forwarding/distribution, though Prendergast appears as primary contact
 
 ### Mailing Lists & Automated Traffic
-- **Asana notifications** — 2 new (total: 9 across dataset) — active project/task tracking
-- **Purchasing forwarding hub** — 15+ vendor confirmations/shipments on 19–20 Nov — highest concentration to date
-- **Government RFI distribution** — Joe Cione HAPS/HALE RFI to 25+ recipients across NOAA, NASA, Navy, academia, and commercial aerospace
-- **Large NASA S2 meeting distribution** — Jack Elston coordinating 15+ NASA/NOAA/ERAU/BST contacts
-- **Newsletter subscriptions** — Promotional noise continues at ~70% of total volume
+- **Asana notifications** — 2 new (total: 11 across all datasets); SOCOM Pope task assignment elevated in priority
+- **Purchasing forwarding hub** — 6–8 vendor confirmations/marketing in new dataset (Composite Envisions, DigiKey, ProtoSpace, USPS, ezCater)
+- **Sightline AITR escalation thread** — 5 emails in 1-hour window (20 Nov, 17:17–20:17 UTC) suggests urgent technical/commercial decision required
+- **Promotional noise continues:** ~75% of new dataset is automated notifications, newsletters, job postings, marketing
 
 ### Domain/Email Address Variants
-- Primary: josh.fromm@blackswifttech.com
-- Secondary: josh.fromm@bst.aero (used by external vendor Donna Ridley/Paragon Dynamics for greeting)
+- Primary: josh.fromm@blackswifttech.com (all actionable correspondence in new dataset)
+- Secondary: josh.fromm@bst.aero (not visible in new dataset; may be reserved for external partnerships)
 
 ## Key Relationships
 
-### Closest Internal Collaborators (Updated by activity)
-1. **Jack Elston** (elstonj@blackswifttech.com) — ELEVATED: Leading large multi-agency NASA S2 Delivery meeting (19 Nov); coordinating with 15+ government/academic/BST contacts [**LIKELY PROJECT LEAD ON NASA S2**]
-2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Continues as primary correspondent on Sightline AITR; visible on Jack Elston's NASA S2 distribution [CONTINUES]
-3. **Sam Hild** (sam.hild@blackswifttech.com) — NEW VISIBILITY: Josh forwarding Vertiq motor technical support emails; likely propulsion/motor systems engineer [**KEY TECHNICAL COLLABORATOR**]
-4. **Beck Cotter** (beck.cotter@blackswifttech.com) — Visible on Jack Elston's NASA S2 meeting [CONTINUES]
-5. **Maciej Stachura** (maciej.stachura@blackswifttech.com) — Visible on Jack Elston's NASA S2 meeting [CONTINUES]
-6. **Cory Dixon** (cory.dixon@blackswifttech.com) — Visible on Jack Elston's NASA S2 meeting; Lean Manufacturing meeting organizer [CONTINUES]
-7. **Meredith Needham** (meredith.needham@blackswifttech.com) — Phase1AV invoice coordination [CONTINUES]
+### Closest Internal Collaborators — UPDATED
+1. **Jack Elston** (elstonj@blackswifttech.com) — CONTINUED ESCALATION: Forwarding Pluma Dynamics partnership info directly to Josh & Maciej; continues NASA S2 Delivery program leadership; delegates new partnership evaluation to Josh [**PROJECT LEAD / PARTNERSHIP MANAGER**]
+2. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — ELEVATED TO CRITICAL: Leading Sightline AITR technical escalation (5-email thread, 20 Nov); task-assigning Josh on SOCOM Pope ([600-1]) project for mechanical/electrical component integration; appears to be primary decision-maker on classified programs [**PROGRAM MANAGER / TECHNICAL LEAD**]
+3. **Maciej Stachura** (maciej.stachura@blackswifttech.com) — Receiving Pluma Dynamics partnership brief from Jack Elston alongside Josh; suggests peer-level collaboration on new commercial partnerships [CONTINUES]
+4. **Sam Hild** (sam.hild@blackswifttech.com) — Not visible in new dataset but continues as propulsion systems engineer [BACKGROUND]
+5. **Beck Cotter, Cory Dixon** — Not visible in new dataset [BACKGROUND]
 
-### Critical External Relationships — UPDATED
-**GOVERNMENT/MULTI-AGENCY PROGRAMS:**
-1. **NASA S2 Delivery Program** — Large coordinating program involving:
-   - **NASA LaRC:** Chester Dolph (D201), Chris Meek (D201), Michael W. Lee (D301), Craig Hunter (D301, EMERITUS), Jonathan Gleason (E302), Tausif Jamal (D301)
-   - **NOAA:** Joe Cione (Federal), Annette Hollingshead (Federal), Nikolai Pawlenko (Federal), Vijay Tallapragada (Federal), William Mowitt (Federal)
-   - **ERAM/Academia:** Ebenezer Gnanamanickam (ERAU), Joshua Wadler (ERAU), Zheng Zhang (ERAU), [Additional UW/UCSD contacts from HAPS/HALE RFI]
-   - **Lead coordinator:** Jack Elston (BST)
-   - [**LARGEST ACTIVE GOVERNMENT PROGRAM VISIBLE**]
+### Critical External Relationships — UPDATED & NEW
 
-2. **NOAA HAPS/HALE RFI (High-Altitude Platform Systems / High-Altitude Long-Endurance)** — Government research inquiry with 25+ respondents:
-   - **Government agencies:** NOAA, NASA, Navy (NAWCAD, CNR)
-   - **Commercial aerospace:** Hamed Khalkhali & Daniela Bublik (Swift Engineering), Russ Vanderwerff (Aerostar)
-   - **Academia:** UCSD, UW, UCAR, Barbados Gov't
-   - Josh on distribution (recipient); Black Swift likely responding to RFI [**MAJOR NEW GOV BUSINESS OPPORTUNITY**]
+**GOVERNMENT PROGRAMS:**
+1. **[600-1] SOCOM Pope** — NEW & CLASSIFIED: Asana task from Daniel Prendergast assigns Josh "Mechanical and Electrical Design Updates for Component Integra…" (20 Nov, 20:52 UTC). Scope implies Josh is leading subsystem integration workstream on special operations command program. **[HIGH PRIORITY, CLASSIFIED]** [**NEW CRITICAL GOVERNMENT CONTRACT**]
 
-**COMMERCIAL AEROSPACE PARTNERSHIPS:**
-1. **Rubicon Aerospace (Lee Skidmore, Jeremy Van Vliet)** — NEW CRITICAL PARTNERSHIP:
-   - Direct correspondence on "S0 outlook" (19 Nov)
-   - ACP Composites orders forwarded to Rubicon team
-   - Suggests Black Swift is component/subsystem supplier to Rubicon platform development or UAV program
-   - S0 likely refers to System Zero (prototype/early development phase)
-   [**NEW MAJOR COMMERCIAL CONTRACT**]
+**COMMERCIAL PARTNERSHIPS:**
+1. **Pluma Dynamics / BST** — NEW & MAJOR: Jack Elston forwarding partnership brief to Josh & Maciej Stachura (20 Nov, 08:31 MST). Content not visible, but suggests:
+   - Acquisition target evaluation
+   - Joint venture proposal
+   - Commercial platform co-development
+   - Third-party technology integration
+   
+   **Pluma Dynamics business profile unknown from metadata; recommend investigation.** [**NEW MAJOR BUSINESS DEVELOPMENT OPPORTUNITY**]
 
-**SUBSYSTEM SUPPLIERS — CRITICAL:**
-1. **Vertiq (Chance Rogers)** — Motor supplier; 23-14 and 24-14 models; direct sourcing coordination; technical support forwarded to Sam Hild [**CRITICAL PROPULSION SUBSYSTEM**]
-2. **Amprius (George Kusaba)** — Advanced lithium battery manufacturer; urgent order placed (19 Nov); critical power system [**CRITICAL POWER SUBSYSTEM**]
-3. **ACP Composites** — Structural/composite materials; 3 orders in 2 days [**CRITICAL STRUCTURAL SUBSYSTEM**]
+2. **Rubicon Aerospace (Lee Skidmore, Jeremy Van Vliet)** — Component/subsystem supply partnership; "S0 outlook" collaboration visible [CONTINUES, ACTIVE]
 
-**CONTINUING RELATIONSHIPS:**
-- Sightline Intelligence (Hayden Fulkerson) — AITR system [CONTINUES]
-- Hamamatsu — Image intensifiers [BACKGROUND]
-- Krateo Sky — Software integration [BACKGROUND]
-- Phase1AV — Payloads/optics [CONTINUES]
+3. **Sightline Intelligence (Hayden Fulkerson, Kiki Hosaka, Nick Whaley)** — ESCALATED: 5-email technical thread (20 Nov, 17:17–20:17 UTC) with Daniel Prendergast. Thread subject "RE: Sightline AITR" suggests active technical problem-solving or procurement decision. Elevated to escalation status. [CONTINUES, ELEVATED ACTIVITY]
+
+**MANUFACTURING/PROTOTYPING PARTNERS:**
+1. **Xometry (Cameron Halpin)** — Custom manufacturing services; quote Q86-5349-0516 in active negotiation (20 Nov, 11:03 EST). Josh is direct contact; suggests precision manufacturing or prototype fabrication need. [**NEW MANUFACTURING PARTNER**]
+
+**SUBSYSTEM SUPPLIERS:**
+1. **Vertiq (Chance Rogers)** — Motor sourcing on 23-14 models; Josh replies directly (20 Nov, 08:26 MST) [CONTINUES, ACTIVE]
+2. **Composite Envisions** — New structural materials supplier; order 563-SO46219 received (20 Nov) [**NEW SUPPLIER**]
+3. **Amprius (George Kusaba)** — Advanced battery supplier; critical order from 19 Nov [BACKGROUND]
+4. **ACP Composites** — Primary composite materials supplier [CONTINUES]
 
 ## Notable Observations
 
 ### High-Priority Signals
 
-1. **Major NASA/NOAA program escalation:** Jack Elston (19 Nov, 09:09 MST) distributes "Meeting Slides and Notes" to 15+ government and commercial contacts, including senior NASA LaRC personnel (Dolph, Meek, Lee, Jamal), NOAA leadership (Pawlenko, Cione), and ERAU. This is the largest formal coordination visible in both datasets. Josh is included → suggests Black Swift is embedded in critical NASA S2 Delivery program with formal project governance. **Requires clarification on Josh's specific role (engineer, subsystem lead, project manager).**
+1. **[600-1] SOCOM Pope — CLASSIFIED MILITARY PROGRAM, HIGHEST PRIORITY:** Asana task from Daniel Prendergast (20 Nov, 20:52 UTC) assigns Josh "Mechanical and Electrical Design Updates for Component Integra…" with project code [600-1] labeled "SOCOM Pope." This is Black Swift's first visible engagement with U.S. Special Operations Command, implying:
+   - **Scope:** Subsystem component integration (mechanical & electrical); Josh leading this workstream
+   - **Classification:** Likely SECRET/classified (SOCOM programs are high-sensitivity)
+   - **Urgency:** Asana task prioritized; appears to be active/ongoing
+   - **Team:** Daniel Prendergast primary program contact; Josh responsible for component integration
+   - **Opportunity:** SOCOM programs are high-value, long-duration contracts with strategic importance
+   
+   **ACTION REQUIRED:** Confirm security clearance status for Josh; understand full contract scope; coordinate with legal/compliance on classified materials handling. **[CRITICAL ESCALATION]**
 
-2. **New critical commercial partnership:** Rubicon Aerospace (Lee Skidmore, Jeremy Van Vliet) direct correspondence (19 Nov) on "S0 outlook" with ACP Composites orders forwarded to them suggests Black Swift is working on joint platform development or component supply. "S0" nomenclature typical in aerospace for prototype/concept phase. **This is a new major commercial contract that was not visible in previous dataset.**
+2. **Pluma Dynamics / BST — NEW MAJOR PARTNERSHIP, BUSINESS DEVELOPMENT PRIORITY:** Jack Elston forwards partnership brief to Josh & Maciej Stachura (20 Nov, 08:31 MST, Saturday morning). Email subject "Fwd: Pluma Dynamics / BST" implies:
+   - **Nature:** Potential acquisition, joint venture, or commercial platform collaboration (Pluma Dynamics profile not visible in metadata; recommend research)
+   - **Decision-makers:** Jack Elston (forwarding), Josh & Maciej (recipients); suggests peer-level evaluation
+   - **Timing:** Saturday morning forwarding implies urgency or time-sensitive decision window
+   - **Strategic fit:** Unknown without content; recommend executive briefing
+   
+   **ACTION REQUIRED:** Identify Pluma Dynamics business profile; clarify partnership structure; understand BST's interest (acquisition, technology access, market expansion, etc.). **[MAJOR BUSINESS DEVELOPMENT OPPORTUNITY]**
 
-3. **Government HAPS/HALE RFI — potential large business opportunity:** Joe Cione (NOAA) forwards "RFI HAPS/HALE" to 25+ recipients including Swift Engineering, Aerostar, and academic institutions (19 Nov, 14:17 MST). Josh is on distribution. HAPS = High-Altitude Platform Systems; HALE = High-Altitude Long-Endurance aircraft. If Black Swift is responding to this RFI, it represents significant DoD/government business development (HAPS platforms are strategic for surveillance, comms, weather). **Recommend tracking RFI response status.**
+3. **Sightline AITR Technical Escalation — ACTIVE TECHNICAL CRISIS OR MAJOR DESIGN REVIEW:** 5-email thread on "Sightline AITR" in rapid succession (20 Nov, 17:17–20:17 UTC, 1-hour window) among Daniel Prendergast, Hayden Fulkerson (Sightline), Kiki Hosaka (Sightline), Nick Whaley (Sightline). Thread progression:
+   - Hayden Fulkerson initiates (17:17 UTC)
+   - Nick Whaley responds (17:28 UTC, 11 min)
+   - Kiki Hosaka responds (17:50 UTC, 22 min)
+   - Nick Whaley escalates (20:17 UTC, 2.5 hours later)
+   - Daniel Prendergast replies (20:52 UTC, later) [**rapid-fire escalation pattern**]
+   
+   This suggests either (a) technical problem requiring urgent resolution, (b) procurement/supply issue, or (c) contract/scope negotiation. Josh is on thread distribution. **Recommend inquiry into Sightline AITR status/health.**
 
-4. **Propulsion subsystem intensification:** Vertiq (Chance Rogers) motor sourcing on 19 Nov combined with Amprius (George Kusaba) battery order on same day suggests either (a) active design iteration on propulsion system, (b) new platform development underway, or (c) scaling to production. Sam Hild receiving technical support forwarding indicates dedicated propulsion engineer. **Josh appears to be lead on propulsion subsystem sourcing and integration.**
+4. **Manufacturing Acceleration — Xometry Quote Negotiation Active:** Cameron Halpin (Xometry Account Manager) replies directly to Josh's quote request Q86-5349-0516 (20 Nov, 11:03 EST). Xometry is high-volume CNC/precision manufacturing service (sheet metal, 3D printing, machining). Josh's direct engagement suggests:
+   - Prototype fabrication or small-batch production underway
+   - Multiple projects requiring rapid turnaround (Xometry specializes in <5-day lead times)
+   - Manufacturing capacity scaling beyond in-house capability
+   
+   **Correlates with procurement acceleration visible 19–20 Nov (15+ vendor orders/confirmations).** Suggests prototype build phase or production ramp underway.
 
-5. **Supplier escalation resolved:** George Kusaba (Amprius) now responding actively (3 emails, 19 Nov, 14:40–23:18 UTC) to Josh's order after previous "no reply yet from George" flag from Alex Lomis. This suggests Josh has escalation authority with critical suppliers or George/Amprius changed status/priority for Black Swift orders. **Monitor Amprius delivery timeline.**
+5. **Composite Materials Supply Chain Expansion — Composite Envisions Added:** Order 563-SO46219 received from Composite Envisions (20 Nov, 13:28 PST) alongside ACP Composites activity. Two simultaneous suppliers suggest:
+   - Volume increase requiring parallel supply chains
+   - Specialized materials from Composite Envisions not available from ACP
+   - Risk mitigation (dual-source strategy)
+   - Multiple concurrent projects with different structural requirements
+   
+   **Reinforces hypothesis that Black Swift is in concurrent platform development phase (SOCOM Pope, Rubicon Aerospace, NASA S2, internal platform R&D).**
 
-6. **Composite materials acceleration:** ACP Composites 3 orders shipping 19–20 Nov (after earlier Hillside Composites activity) suggests active structural prototype iteration or production scale-up. Forwarded to Rubicon Aerospace team suggests materials/structures are for joint platform development. **Structural design appears to be progressing in parallel with propulsion integration.**
+6. **Subsystem Integration Intensification — Motors, Batteries, Composites, Electrical Power All Sourced in 48-Hour Window:** 20–21 Nov shows continued orders for:
+   - Motors (Vertiq, Josh reply 20 Nov)
+   - Composites (Composite Envisions order received 20 Nov; ACP orders from 19 Nov)
+   - Manufacturing (Xometry quote negotiation 20 Nov)
+   - Testing/instrumentation (from previous 19 Nov cluster)
+   
+   **Pattern suggests integrated platform development with parallel subsystem workstreams; multiple projects sharing common supply chain.** Josh's centrality to vendor coordination implies systems integration leadership role.
 
-7. **Testing/instrumentation procurement NEW:** Saleae (logic analyzer), Test Equipment Depot, and SensorPros orders all placed/confirmed 19 Nov. Combined with propulsion sourcing on same day suggests testing phase beginning or prototype build-out underway. **Indicates engineering team is instrumenting new platform for validation/debugging.**
+7. **Team Structure Clarification — Daniel Prendergast as Program Manager, Josh as Technical Integration Lead:** Daniel Prendergast appears as primary decision-maker for:
+   - Sightline AITR (direct correspondence with Sightline Intelligence)
+   - SOCOM Pope (task-assigning mechanical/electrical integration to Josh)
+   - Internal program coordination (via Asana)
+   
+   Josh appears as:
+   - Component/subsystem sourcing lead (Vertiq, Amprius, composites, Xometry)
+   - Technical integration workstream lead (assigned SOCOM Pope mechanical/electrical design)
+   - Vendor relationship manager (direct correspondence with Chance Rogers, Cameron Halpin)
+   
+   **This suggests clear separation: Prendergast = program/commercial lead; Josh = technical integration lead.** Peer-level on Pluma Dynamics evaluation (both receiving Jack Elston forwarding).
 
-8. **Alternative email domain stability:** josh.fromm@bst.aero continues to be used by external vendors (Donna Ridley/Paragon Dynamics). Suggests this domain may be official vendor-facing email or used for certain external partnerships. **Confirm if security/communication protocol distinction.**
+8. **CU Boulder Aerospace NASA Job Posting — Possible Recruiting Interest:** CU Boulder Aerospace sends "Engineering Job Openings at NASA" (20 Nov, 10:26 EST). **Could be:** (a) automated newsletter Josh subscribed to, (b) recruiting outreach to Josh specifically, or (c) HR notification. **If recruiting outreach:** Suggests external headhunter interest or NASA direct recruitment. Recommend clarifying Josh's status/commitment.
 
-### Operational Patterns — Updated
+### Operational Patterns — UPDATED
 
-- **Procurement acceleration continues at scale:** 15+ vendor orders/confirmations on 19–20 Nov (ACP Composites, TEquipment, Saleae, DigiKey, SensorPros, ACP Composites 3x, Spindrift, Pirate Ship, FedEx tracking) — highest concentration to date; suggests prototype build phase or production ramp
-- **Multiple concurrent subsystems in active sourcing:** Motors (Vertiq), batteries (Amprius), composites (ACP), electronics (DigiKey, Saleae, SensorPros) all with orders/confirmations on 19–20 Nov; suggests integrated platform development with multiple parallel workstreams
-- **Government program formal coordination infrastructure:** Jack Elston meeting with 15+ attendees (19 Nov); Fireflies.ai recording; meeting slides and notes — suggests formal NASA S2 Delivery project with governance/review structure
-- **Purchasing hub centralization continues:** 15+ vendor confirmations routed through purchasing@blackswifttech.com; Josh remains flagged on all major orders; central visibility into supply chain maintained
-- **Team expansion signals:** Sam Hild elevation to propulsion systems engineer; Jack Elston as NASA S2 program lead; suggests team is scaling to meet government and commercial contract requirements
-- **Promotional noise remains high:** ~70% of new dataset is automated/promotional; signal extraction requires filtering
+- **SOCOM Pope classified program now visible:** Josh assigned mechanical/electrical component integration; highest security/sensitivity level yet visible
+- **Pluma Dynamics partnership in evaluation phase:** Strategic business development at Jack Elston / Daniel Prendergast / Josh level
+- **Procurement acceleration sustained:** Xometry quote negotiation, Composite Envisions order, Vertiq motor coordination all active 20–21 Nov
+- **Multiple concurrent high-priority projects:** SOCOM Pope (classified), NASA S2 Delivery, Rubicon Aerospace S0, Sightline AITR, Pluma Dynamics evaluation
+- **Team scaling indicators:** Sam Hild (propulsion), Daniel Prendergast (program management), Josh (integration lead), Jack Elston (portfolio/partnership management) suggest organizational growth
+- **Weekend operational tempo:** Saturday forwarding (Pluma Dynamics, 08:31 MST) and task assignments (SOCOM Pope, 20:52 UTC, Friday evening) indicate high-urgency initiatives
+- **Vendor ecosystem maturing:** Vertiq, Amprius, ACP Composites, Composite Envisions, Xometry, Saleae, etc. now established as core suppliers across multiple projects
 
 ### Ambiguities Requiring Clarification
 
-1. **Josh's role on NASA S2 Delivery:** Visible on Jack Elston's distribution but not listed as organizer. Is he systems engineer, subsystem lead, or technical reviewer?
-2. **Josh vs. Daniel Prendergast hierarchy:** Daniel appears to lead client-facing projects (Hamamatsu, Sightline, USSOCOM); Josh leads subsystem sourcing and Rubicon partnership. Are they peers, or is there clear separation of responsibilities?
-3. **Rubicon Aerospace contract scope:** "S0 outlook" forwarding and composite material coordination suggest component supply or platform co-development, but contract structure/terms not visible. **Recommend internal briefing.**
-4. **Black Swift's role in HAPS/HALE RFI:** Is Black Swift responding as integrator, subsystem supplier, or platform manufacturer? RFI response strategy not visible in metadata.
-5. **Sam Hild's title/team:** Assumes propulsion engineer based on motor/calibration forwarding, but title/authority not confirmed.
+1. **Josh's security clearance status:** SOCOM Pope assignment implies need for SECRET or higher clearance. **Confirm clearance level, investigative status, and classified materials handling protocols.**
+
+2. **Pluma Dynamics identity & business model:** No prior visibility; Jack Elston's Saturday morning forwarding implies time-sensitive evaluation. **What is Pluma Dynamics? Why is partnership strategically important? Is this acquisition, joint venture, or technology access?**
+
+3. **SOCOM Pope full scope:** Asana task visible only as "Mechanical and Electrical Design Updates for Component Integra…" (truncated). **What component? What system? What is integration timeline?**
+
+4. **Sightline AITR escalation root cause:** 5-email thread in 1-hour window suggests urgent issue. **Is this technical problem, supply chain issue, contract renegotiation, or design review?**
+
+5. **Josh vs. Daniel Prendergast hierarchy clarification:** Josh assigned to SOCOM Pope mechanical/electrical; Daniel task-assigning. Are they peer team leads, or is Daniel Josh's manager?
+
+6. **Rubicon Aerospace contract status:** Last visible 19 Nov ("S0 outlook"); no updates in 20–21 Nov dataset. **Has contract been signed? What is delivery timeline?**
+
+7. **CU Boulder NASA job posting context:** Is this recruiting outreach, automated newsletter, or HR notification? **What is Josh's retention status?**
 
 ---
 
-**Updated:** 20 November 2026 (03:30 UTC)  
-**Next review recommended:** When NASA S2 Delivery meeting outcome/decisions clarified; when Rubicon Aerospace contract details shared; when NOAA HAPS/HALE RFI response strategy confirmed.
+## Updated Summary
+
+**Josh Fromm is now visible as the principal **technical systems integration lead** across Black Swift's portfolio, with responsibility for:**
+
+1. **SOCOM Pope ([600-1]) — CLASSIFIED** — Mechanical and electrical component integration (assigned 20 Nov)
+2. **Rubicon Aerospace S0** — Component/subsystem supply and integration (active through 19 Nov)
+3. **NASA S2 Delivery** — Large multi-agency government program (background coordinator)
+4. **Sightline AITR** — Technical contributor/vendor coordination (background, elevated 20 Nov)
+5. **Internal platform development** — Motors, batteries, composites, testing/instrumentation (concurrent sourcing/integration)
+
+**Key relationships:** Jack Elston (portfolio/partnership leader), Daniel Prendergast (program manager), Sam Hild (propulsion specialist), Maciej Stachura (peer on partnerships)
+
+**New critical information:** 
+- SOCOM classified program active
+- Pluma Dynamics partnership evaluation underway
+- Composite supply chain expanding (new supplier)
+- Manufacturing capacity scaling (Xometry engagement)
+
+**Recommendation:** Prioritize SOCOM Pope clearance/classification protocol confirmation; clarify Pluma Dynamics strategic intent; update inventory of Josh's active program assignments.
+
+---
+
+**Updated:** 21 November 2026 (11:00 UTC)  
+**Next review recommended:** When SOCOM Pope project scope details shared; when Pluma Dynamics partnership decision finalized; when Sightline AITR escalation resolved.

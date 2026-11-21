@@ -17,7 +17,7 @@
     "total_value": 242540.0,
     "start_date": "2026-09-28",
     "end_date": "2026-09-28",
-    "payment_cadence": "time_and_materials",
+    "payment_cadence": "paid in advance",
     "documents": [
       "drive://Statement of Work",
       "drive://CRT-90P Hydrophone User Guide Rev 2.pdf",
@@ -33,19 +33,19 @@
         "amount": 117008.75,
         "source": "toggl × $125.0/hr placeholder",
         "confidence": "placeholder",
-        "last_updated": "2026-11-20"
+        "last_updated": "2026-11-21"
       },
       "purchases": {
         "amount": 3059.21,
         "source": "purchasing@ emails (older than 30 days)",
         "confidence": "estimate",
-        "last_updated": "2026-11-20"
+        "last_updated": "2026-11-21"
       },
       "other_qbo": {
         "amount": 30380.94,
         "source": "QBO by-class (bills + purchases + POs)",
         "confidence": "exact",
-        "last_updated": "2026-11-20"
+        "last_updated": "2026-11-21"
       },
       "total": 150448.9,
       "by_line_item": {}
@@ -53,7 +53,7 @@
     "committed": 0.0,
     "remaining": 92091.1,
     "burn_rate_monthly": null,
-    "last_reconciled": "2026-11-20T11:10:34Z"
+    "last_reconciled": "2026-11-21T11:02:08Z"
   },
   "milestones": [],
   "deliverables": [],
@@ -92,6 +92,6 @@
       "text": "From Maciej: <@U04CZK4K7P0> (and <@U06CCFTNBS6>), wanted to go through a small restructuring on Asana this week to try and hopefully simplify our active R&amp;D projects, provide better visibility, and better tie in with the Kanban board. We'll discuss tomorrow, but at a high level the plan will be:\n\n• *Two-level planning:* Asana tracks long-term milestones and upcoming weekly tasks; our existing physical Kanban board manages weekly engineering execution.\n• *6-month rolling milestone plan:* Each"
     }
   ],
-  "last_full_rebuild": "2026-11-20T11:10:34Z",
+  "last_full_rebuild": "2026-11-21T11:02:08Z",
   "last_incremental_update": null
 }

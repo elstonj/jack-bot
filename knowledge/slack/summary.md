@@ -1,77 +1,86 @@
 # Slack Channels Overview
 
-Last scanned: 2026-11-20 02:51
+Last scanned: 2026-11-21 02:43
 
 Total channels scanned: 9
 
 ## Channels
 
-- **#commercial-sales** -- 4 messages -- [commercial-sales.md](commercial-sales.md)
-- **#flight-testing** -- 5 messages -- [flight-testing.md](flight-testing.md)
-- **#general** -- 5 messages -- [general.md](general.md)
-- **#grants-and-funding** -- 4 messages -- [grants-and-funding.md](grants-and-funding.md)
-- **#marketing** -- 2 messages -- [marketing.md](marketing.md)
-- **#operations** -- 2 messages -- [operations.md](operations.md)
-- **#s3** -- 22 messages -- [s3.md](s3.md)
-- **#sbir-hurricane** -- 12 messages -- [sbir-hurricane.md](sbir-hurricane.md)
-- **#swiftcore** -- 11 messages -- [swiftcore.md](swiftcore.md)
+- **#flight-testing** -- 15 messages -- [flight-testing.md](flight-testing.md)
+- **#general** -- 6 messages -- [general.md](general.md)
+- **#grants-and-funding** -- 5 messages -- [grants-and-funding.md](grants-and-funding.md)
+- **#operations** -- 1 messages -- [operations.md](operations.md)
+- **#s0-vtol** -- 2 messages -- [s0-vtol.md](s0-vtol.md)
+- **#s3** -- 2 messages -- [s3.md](s3.md)
+- **#sbir-hurricane** -- 14 messages -- [sbir-hurricane.md](sbir-hurricane.md)
+- **#sbir-volcano** -- 3 messages -- [sbir-volcano.md](sbir-volcano.md)
+- **#swiftcore** -- 2 messages -- [swiftcore.md](swiftcore.md)
 
 ## Strategic Summary
 
-# Black Swift Technologies - Cross-Channel Strategic Overview
+# Black Swift Technologies - Strategic Slack Overview
 
-## Active Projects
+## Core Business Areas
 
-**Primary Aircraft Systems:**
-- **S-Series (Fixed-Wing):** S0 (hurricane reconnaissance), S2, S3 (VTOL hybrid with 2-3hr endurance)
-- **SwiftCore:** Firmware/tablet application ecosystem supporting multiple platforms
-- **Multirotor:** E2, Flamewheel platforms
-- **VTOL:** S0-VTOL, S1-VTOL variants
+**Primary Focus:** Unmanned aircraft systems (UAS) development across multiple platforms
+- **S-Series:** S0 VTOL, S2, S3 VTOL aircraft
+- **SwiftCore:** Firmware/software platform powering multiple systems
+- **Applications:** Hurricane reconnaissance, volcanic monitoring, general research missions
 
-**Government Programs:**
-- SBIR Hurricane project (primary focus across #sbir-hurricane, #flight-testing, #grants-and-funding)
-- Ongoing federal funding pursuits (NASA, DOD, NOAA, USDA, DOE)
+## Active Projects & Platforms
 
-## Key People & Roles
+| Project | Channel | Status | Focus |
+|---------|---------|--------|-------|
+| S0 VTOL | #s0-vtol | Active Development | Flight testing, hardware debugging, customer delivery |
+| S3 VTOL | #s3 | Active Development | Hybrid fixed-wing/quadcopter, 2-3 hr endurance, tilting rotors |
+| SwiftCore | #swiftcore | Mature/Active | Firmware, tablet app, flight control software |
+| Hurricane S0 | #sbir-hurricane | SBIR-funded | Hurricane reconnaissance missions |
+| Volcanic Monitoring | #sbir-volcano | SBIR-funded | S2/S3 deployment with specialized sensors, NASA/USGS collaboration |
 
-| Person | Primary Role(s) |
-|--------|-----------------|
-| **Jack Elston** | Leadership, proposal decisions, strategic funding oversight |
-| **Joshua Fromm** | Lead engineer/designer, RF components, CAD, battery design, shop lead |
-| **Maciej** | Flight testing lead, firmware development, technical proposal support |
-| **Dan Prendergast** | Business development, operations coordination |
-| **Danny Troke** | Technical development (SwiftCore, flight testing) |
-| **Meredith Needham** | Finance, admin, operations coordination |
-| **Ben Busby** | Firmware/tablet app development (SwiftCore) |
+## Key Decision Makers & Their Roles
+
+- **Jack Elston:** Overall technical leadership, firmware/proposal decisions, grant strategy
+- **Joshua Fromm:** Hardware/CAD design lead, RF components, antenna placement, parts validation
+- **Maciej:** Flight testing lead, firmware development support, field operations
+- **Dan Prendergast:** Business development and operations coordination
+- **Meredith Needham:** Finance and administrative management
+
+## Cross-Channel Themes
+
+### 1. **Flight Testing Pipeline**
+Connected across #flight-testing, #s0-vtol, #s3, #swiftcore - Regular iteration cycle of firmware updates → flight tests → bug fixes → deployments
+
+### 2. **Government Funding & SBIR Strategy**
+Coordinated in #grants-and-funding with technical channels - Multiple active SBIR awards funding Hurricane and Volcano projects; Jack Elston drives proposal strategy
+
+### 3. **Hardware-Software Integration**
+Joshua Fromm (hardware) ↔ Maciej/Jack Elston (firmware) working across #s0-vtol, #s3, #swiftcore - Tight coupling between aircraft design and control software development
+
+### 4. **Operational Execution**
+#operations serves as execution log for decisions made in #general and technical channels - Procurement, shipping, facility coordination support project timelines
+
+### 5. **Mission-Specific Adaptations**
+#sbir-hurricane and #sbir-volcano apply SwiftCore platform to specialized payloads - Reuse of core aircraft/software with mission-specific sensors and configurations
 
 ## Decision Patterns
 
-1. **Funding-Driven:** Grant/SBIR programs heavily influence project priorities (#grants-and-funding → #sbir-hurricane)
-2. **Technical-First:** Engineering decisions made collaboratively in specialized channels (#s3, #swiftcore, #sbir-hurricane)
-3. **Leadership Approval:** Jack Elston reviews/approves major proposals and funding decisions
-4. **Operational Transparency:** #operations logs decisions; #general announces outcomes company-wide
+- **Technical decisions:** Jack Elston + Joshua Fromm (design) + Maciej (testing/firmware)
+- **Financial/grant decisions:** Jack Elston reviews, Meredith Needham manages budgets
+- **Operational execution:** Decisions announced in #general, coordinated in #operations
+- **Flight test go/no-go:** Maciej leads with Jack Elston firmware support
 
-## Recurring Cross-Channel Topics
+## Recurring Topics by Channel Type
 
-| Theme | Channels | Context |
-|-------|----------|---------|
-| **Flight Testing Results** | #flight-testing, #sbir-hurricane, #swiftcore | Test data informs firmware updates and design refinements |
-| **Firmware/Software Updates** | #swiftcore, #flight-testing, #sbir-hurricane | Development tied to flight test findings |
-| **Customer Delivery** | #commercial-sales, #operations, #general | Aircraft systems sold to universities, government agencies, international customers |
-| **Funding Proposals** | #grants-and-funding, #general, #sbir-hurricane | SBIR focus; proposals require technical input from project leads |
-| **Hardware/Payload Integration** | #s3, #flight-testing, #commercial-sales | Design decisions impact customer offerings |
-| **Marketing/Communications** | #marketing, #general, #commercial-sales | Product announcements and trade show strategy |
+| Channel Type | Primary Topics |
+|--------------|-----------------|
+| **Technical** (#s0-vtol, #s3, #swiftcore) | Component sourcing, CAD design, firmware bugs, test results |
+| **Operations** (#operations, #general) | Timeline management, procurement, team coordination, announcements |
+| **Program Management** (#grants-and-funding) | Proposal deadlines, budget tracking, award management |
+| **Field Operations** (#flight-testing, #sbir-*) | Test scheduling, payload integration, mission data analysis |
 
-## Organizational Structure Indicators
+## Organizational Gaps / Areas of Interest
 
-- **Hardware Development:** Centralized in #s3, #sbir-hurricane (design-focused); shop operations in #operations
-- **Software/Firmware:** Coordinated in #swiftcore; integrated through #flight-testing
-- **Business Operations:** #commercial-sales (customer-facing), #operations (internal logistics), #grants-and-funding (revenue planning)
-- **Visibility:** #general serves as company announcement/coordination hub connecting all departments
-
-## Critical Dependencies
-
-- Flight testing outputs → firmware/design improvements
-- SBIR awards → project resourcing and priorities
-- Customer requirements → product specifications and delivery schedules
-- Marketing strategy → sales pipeline and corporate positioning
+- Multiple SBIR programs creating funding stability
+- Strong hardware-software integration discipline
+- Flight testing as core validation process
+- NASA/NOAA/USGS partnerships extending market reach

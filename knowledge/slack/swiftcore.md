@@ -6,12 +6,14 @@ This channel serves as the primary technical communication hub for Black Swift T
 **Key Participants:** 
 - Jack Elston (autopilot/firmware/simulation lead, UI/packaging, release management, code review, firmware delegation)
 - Ben Busby (comms/GCS/tablet app, infrastructure/Jenkins, submodule management)
-- Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist, GPS-out hover fix specialist, flight testing)
+- Maciej (autopilot/VTOL/simulation testing lead, clog detection specialist, GPS-out hover fix specialist, flight testing, multi-UAS simulation)
 - Spencer Hoehl (simulator testing lead, QC flight procedures, flight test validation)
 - Ali Sulehria (software and use case testing)
 - Sam Hild (S3 platform testing/firmware, EMI testing, VertiQ settings configuration)
 - Dan Prendergast (infrastructure/GitLab access)
 - Cory Dixon
+- @U01511MEQ90 (Supply board hardware development)
+- @U0151201DMY (Multi-UAS simulation/UI development support)
 - Other team members
 
 **Activity Level:** Highly active with daily technical discussions, bug reports, and project coordination
@@ -244,12 +246,21 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Testing Approach:** Firmware testing identified as final validation step after implementation
 - Status: Feature branch ready, firmware implementation pending
 
+**Multi-UAS JSB Simulation with New Web UI (November 20, 2026 - IN DEVELOPMENT):**
+- **Achievement:** First successful multi-UAS simulation run using JSB (Jsbsim flight dynamics model) integrated with new web controller UI
+- **Key Contributors:** @U01511MEQ90 (supply board hardware/firmware), @U0151201DMY (simulation/UI development)
+- **Maciej's Recognition (November 20, 13:57-13:58 UTC):** Acknowledged both contributors with appreciation for enabling multi-UAS simulation capability
+- **Significance:** Demonstrates integration of updated simulation infrastructure with new UI architecture (from April 2026 UI platform strategy decision)
+- **Status:** Initial proof-of-concept achieved; likely advancing towards testing and refinement of multi-UAS GCS features
+- **Relationship to Previous Features:** Builds on multi-radio GCS support feature (merged May 8, 2026) and web controller development
+
 **SwiftTab App Development:**
 - Current version: SwiftTab-staging.apk on 3.3 branch
 - Issue identified: App crashes when loading saved aircraft params files onto aircraft running SwiftCore AP 3.3 RC firmware (reported October 23, 2026 by Spencer Hoehl)
 - Bug report functionality working, reports being received by Ben Busby
 - Jenkins build infrastructure updated for proper repository URL and submodule authentication (November 13, 2026)
 - Status: May transition to web controller primary UI (April 2026 decision) with legacy Android support
+- Note: Multi-UAS simulation success with new web UI demonstrates forward momentum of web controller strategy
 
 **Failure Scenario Testing (October-November 2026 - COMPLETED for 3.3):**
 - Loss of GPS in joystick mode: Appears to be working normally; may have been handset setup issue
@@ -280,7 +291,8 @@ This channel serves as the primary technical communication hub for Black Swift T
 - **Jack Elston & Maciej:** Apply sign change from GPS-out hover fix to multi-rotor and tailsitter aircraft (identified November 13, 2026) - Pending implementation
 - **Jack Elston & Maciej:** Address pre-existing isLanded() timer reset bug affecting MR and TS vehicles during GPS loss (identified November 13, 2026) - Deferred for future release but documented as potentially dangerous
 - **Development Team:** Monitor and document any additional edge cases or behavioral issues with lost-GPS landing scenarios from field operations
-- **@U01511MEQ90 (Supply Board Lead):** Completed board tasks on weekend (as of November 15, 2026); recognized by Maciej for work enabling 24V redundant rail monitoring feature
+- **@U01511MEQ90 (Supply Board Lead):** Completed board tasks on weekend (as of November 15, 2026); recognized by Maciej for work enabling 24V redundant rail monitoring feature; contributed to multi-UAS JSB simulation success (November 20, 2026)
+- **@U0151201DMY:** Assisted local git server setup (October 27, 2026); contributed to multi-UAS JSB simulation with new web UI implementation (November 20, 2026)
 
 ## Client & External References
 - **Navy STTR Project:** Separate development initiative (infrastructure established October 27, 2026)
@@ -303,6 +315,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Firmware version consistency between simulator and test platforms
 - Simulator validation used before flight testing (GPS-out hover fix example; landing timer verification November 13)
 - Flight test validation critical for landing behavior confirmation with pressure-only vertical velocity estimation
+- Multi-UAS JSB simulation advancement (November 20) demonstrates continued evolution of simulation capabilities integrated with new web UI
 
 **Vertical Velocity Estimation & Sensor Fusion:**
 - Critical for GPS-loss landing detection with pressure sensors alone
@@ -355,6 +368,12 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Identification of EMI testing as higher-priority bottleneck than firmware implementation
 - Flexible task assignment based on specialized expertise and project constraints
 
+**Multi-UAS Simulation & GCS Development:**
+- Successful proof-of-concept of multi-UAS JSB simulation with new web controller UI (November 20, 2026)
+- Builds on previously merged multi-radio GCS support feature
+- Advances April 2026 UI platform strategy of transitioning to unified web controller for both desktop and mobile use
+- Team collaboration between hardware/firmware (@U01511MEQ90) and simulation/UI (@U0151201DMY) specialists
+
 ## Important Resources
 
 **XML Configuration Files:**
@@ -384,6 +403,7 @@ This channel serves as the primary technical communication hub for Black Swift T
 - Local git server (established October 27, 2026)
 - Navy STTR project repository (hosted on local server, not GitLab)
 - Jenkins tablet build pipeline (updated November 13, 2026 for proper libcanard fork URL and submodule authentication)
+- JSBsim flight dynamics model integration (supporting multi-UAS simulation as of November 20, 2026)
 
 **Hardware & Components:**
 - VertiQ actuator/servo component (used on S3 platform, settings requiring configuration)
@@ -391,25 +411,30 @@ This channel serves as the primary technical communication hub for Black Swift T
 
 ## Recent Activity
 
-**November 16, 2026 - S3 PSD Fix Branch Created & Resource Coordination:**
+**November 20, 2026 - Multi-UAS JSB Simulation Success & Team Recognition:**
 
-**Branch Creation (Sam Hild, 07:58 UTC):**
-- Sam Hild created new feature branch `feature/s3_psd_fix` with test code
-- **Issue:** Power supply distribution problem on S3 aircraft
-- **Implementation Status:** Test code complete; ready for firmware development and testing
+**Achievement Announcement (Maciej, 13:57-13:58 UTC):**
+- First successful multi-UAS simulation run completed using JSB (Jsbsim) integrated with new web controller UI
+- Two team members recognized with appreciation for their contributions
 
-**Work Prioritization Discussion (Jack Elston & Sam Hild, 08:28-09:17 UTC):**
-- Jack Elston inquired about other items Sam Hild is working on
-- **Opportunity Identified:** Jack Elston offered to assume firmware implementation work to free Sam Hild for EMI testing
-- **Sam Hild's Workload Breakdown:**
-  - Firmware: Nearly complete, testing identified as final step
-  - EMI Testing: Priority task requiring focused time allocation
-  - VertiQ Settings: Additional configuration work on S3 platform actuators
-- **Coordination Plan:** Jack Elston to handle firmware implementation; Sam Hild to focus on EMI testing (higher-priority bottleneck) and VertiQ settings configuration
-- **Testing Sequence:** Firmware testing planned as final validation step after implementation complete
+**Recognition Details:**
+- **@U01511MEQ90:** Acknowledged for work on multi-UAS JSB simulation with new UI (also contributed to 24V redundant rail monitoring feature branch on November 15)
+- **@U0151201DMY:** Acknowledged for same multi-UAS JSB simulation work (also assisted with local git server setup on October 27)
+
+**Technical Significance:**
+- Demonstrates successful integration of updated simulation infrastructure (JSBsim) with new web controller UI architecture
+- Validates progress on UI platform transition strategy (decided April 2026) moving from separate native tablet app to unified web controller
+- Advances capability for multi-UAS operations with single GCS (feature merged May 8, 2026)
+- Represents proof-of-concept for using simulation to validate multi-UAS GCS features before flight testing
+- Shows cross-functional collaboration between supply board hardware/firmware specialists and simulation/UI development specialists
+
+**Project Trajectory:**
+- Builds on earlier multi-radio GCS support feature implementation and validation
+- Demonstrates readiness for conducting multi-UAS ground control testing and optimization
+- Likely precursor to next phase of multi-UAS flight testing validation
 
 ---
 
-# Summary of Updates
+# Summary of Updates (November 20, 2026)
 
-The November 16, 2026 entry documents a new S3 platform issue (PSD fix) and demonstrates effective resource coordination practices. Jack Elston's proactive approach to task delegation—offering to assume firmware implementation work to unblock Sam Hild's EMI testing (the more critical resource constraint)—reflects mature project management and understanding of bottleneck priorities. The S3 platform continues to be an area of active development with power distribution, actuator configuration, and EMI testing as key focus areas. This complements the recent 24V redundant rail monitoring feature (November 15) showing continued emphasis on power system reliability across the platform ecosystem.
+The November 20, 2026 entry documents an important technical achievement: successful multi-UAS JSB simulation with the new web controller UI. This milestone validates the April 2026 UI platform transition strategy and builds on the May 8, 2026 merged multi-radio GCS feature. The achievement demonstrates effective cross-functional collaboration and represents significant progress toward operational multi-UAS capabilities. The team recognition reflects appreciation for sustained effort by both @U01511MEQ90 and @U0151201DMY across multiple concurrent initiatives (hardware reliability monitoring and infrastructure/simulation respectively).

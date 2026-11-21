@@ -4,7 +4,7 @@
 This channel is primarily used for coordinating Black Swift Technologies' SBIR (Small Business Innovation Research) projects focused on volcanic monitoring using unmanned aircraft systems. The main projects involve deploying S2 and S3 aircraft with specialized sensor payloads to study volcanic emissions and activity, with NASA oversight and collaboration with USGS scientists.
 
 Key participants include:
-- **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics, equipment assessment)
+- **Jack Elston** (Project lead, technical decisions, circuit design, documentation, flight logistics, equipment assessment, government contact network)
 - **Joshua Fromm** (Payload development, technical integration, diagnostics, aircraft inventory tracking)
 - **Danny Troke** (Flight operations, equipment)
 - **Maciej Smolka** (Regulatory, reporting, flight planning, translation support, payload documentation, external liaison coordination)
@@ -13,9 +13,10 @@ Key participants include:
 - **Ethan Domagala** (Flight operations support)
 - **Nate** (Remote ID/registration support)
 - **Alex Lomis** (Team member, availability flexible)
-- **Spencer Hoehl** (Flight permissions tracking, external liaison coordination, partner communication, regulatory contact identification, AFAC liaison efforts)
+- **Spencer Hoehl** (Flight permissions tracking, external liaison coordination, partner communication, regulatory contact identification, AFAC liaison efforts, stakeholder communications)
+- **Joe** (AV3 Aerovisual subcontractor - primary contact with AFAC and Mexican government liaison)
 
-The channel covers activities from 2020 through October 2026, with high activity during deployment periods and report deadlines.
+The channel covers activities from 2020 through November 2026, with high activity during deployment periods and report deadlines.
 
 ## Key Decisions
 
@@ -113,10 +114,16 @@ The channel covers activities from 2020 through October 2026, with high activity
   - Battery shipping arrangements
   - Travel arrangements for team
 
+**Mission Purpose Clarification Strategy (November 20, 2026)**
+- **Issue Identified**: AFAC Director initially misunderstood Popocatépetl mission as commercial rather than scientific research
+- **Response Strategy**: Spencer Hoehl drafting clarification email to CENAPRED emphasizing scientific research collaboration with USGS and CENAPRED
+- **Third-Party Liaison**: Jack Elston identified contact "familiar with processes and people within the Mexican government" to leverage network connections for expediting permissions approval
+- **Action**: Spencer Hoehl to revise and send updated communication emphasizing scientific (non-commercial) nature of mission
+
 ## Projects & Initiatives
 
 ### Popocatépetl (Volcano) Monitoring Mission
-**Status**: On hold indefinitely pending AFAC approval (as of October 28, 2026)
+**Status**: On hold indefinitely pending AFAC approval; regulatory misunderstanding identified and being addressed (as of November 20, 2026)
 
 **Project Parameters**:
 - Primary aircraft: S3 (selected for high-altitude capability)
@@ -133,9 +140,21 @@ The channel covers activities from 2020 through October 2026, with high activity
 - Photogrammetry payload system validated as functional and ready
 - S3 aircraft export documentation prepared (requires Carnet and proof of documentation)
 - Flight planning completed with optimized waypoint design
+- Mission purpose clarification communication drafted to address AFAC Director's commercial vs. scientific misunderstanding
+
+**Regulatory Status Update (November 20, 2026)**:
+- **Initial Barrier**: AFAC Director under impression mission was commercial in nature
+- **Source**: Apparent miscommunication with Joe (AV3 Aerovisual subcontractor) during initial AFAC Director meeting
+- **Resolution Effort**: Joe has corrected misunderstanding, explaining scientific research collaboration focus
+- **Current Challenge**: AFAC Director less interested in approving after learning scientific nature (counterintuitive regulatory response)
+- **Follow-up Actions**:
+  - Joe attempting to schedule another meeting with AFAC Director
+  - Spencer Hoehl coordinating clarification communication to CENAPRED
+  - Jack Elston leveraging Mexican government network contact to expedite permissions through alternative channels
 
 **Blockers**:
-- AFAC (Mexican FAA) approval outstanding as of October 28, 2026
+- AFAC (Mexican FAA) approval outstanding; Director's initial hesitation following clarification of scientific mission purpose
+- Schedule coordination with USGS/CENAPRED pending approval
 - S3 aircraft repairs required before deployment (noted in April 2026)
 
 ### C-130 Integration Project
@@ -161,7 +180,10 @@ The channel covers activities from 2020 through October 2026, with high activity
 
 ## Action Items & Commitments
 
-### Pending (as of October 28, 2026)
+### Pending (as of November 20, 2026)
+- **Spencer Hoehl**: Revise and send clarification email to CENAPRED emphasizing scientific research collaboration and non-commercial nature of Popocatépetl mission (November 20, 2026)
+- **Jack Elston**: Leverage Mexican government network contact to expedite AFAC permissions approval through alternative channels (November 20, 2026)
+- **Joe (AV3 Aerovisual)**: Schedule follow-up meeting with AFAC Director to address regulatory concerns (ongoing, as of November 20, 2026)
 - **Dan Prendergast & Team**: Await AFAC approval before proceeding with Mexico deployment
 - **USGS/CENAPRED Coordination**: Schedule alignment required once deployment date re-established
 - **Dan Prendergast**: Complete S3 export procedures when deployment date confirmed
@@ -180,9 +202,13 @@ The channel covers activities from 2020 through October 2026, with high activity
 ### Government/Regulatory Partners
 - **NASA** (SBIR program oversight)
 - **USGS** (US Geological Survey - scientific collaboration, volcanic monitoring)
-- **CENAPRED** (Centro Nacional de Prevención de Desastres, Mexico - volcanic monitoring partner)
-- **AFAC** (Mexican FAA equivalent - flight permissions/approval authority)
+- **CENAPRED** (Centro Nacional de Prevención de Desastres, Mexico - volcanic monitoring partner; primary recipient of stakeholder communications)
+- **AFAC** (Autoridad Federal de Aviación Civil - Mexican FAA equivalent - flight permissions/approval authority; Director currently hesitant on approval)
 - **FAA** (US Federal Aviation Administration - Remote ID registration 20686S30001)
+
+### External Contractors & Partners
+- **Joe** (AV3 Aerovisual subcontractor - primary liaison with AFAC and Mexican government; has conducted meetings with AFAC Director; attempting to schedule follow-up meeting)
+- **Jack Elston's Mexican government network contact** (identified as "familiar with processes and people within the Mexican government"; engaged to expedite permissions through alternative channels as of November 20, 2026)
 
 ### External References
 - Mexico Popocatépetl volcano deployment location
@@ -194,6 +220,7 @@ The channel covers activities from 2020 through October 2026, with high activity
 - Ongoing focus on Mexican flight permissions and AFAC approval requirements
 - Documentation and export procedures for aircraft transit to Mexico
 - Operating manual development and translation for regulatory compliance
+- **New Theme (November 2026)**: Navigating unexpected regulatory responses and misunderstandings; clarifying mission purpose to authorities
 
 **Deployment Readiness Assessment**
 - Regular evaluation of aircraft condition and mission readiness before proceeding
@@ -213,6 +240,11 @@ The channel covers activities from 2020 through October 2026, with high activity
 **Inventory & Procurement Management**
 - S0/S0-AD aircraft inventory tracking and procurement status
 - Spare parts and equipment ordering with delivery timeline management
+
+**Government & Stakeholder Relations**
+- Multi-party communication coordination (BST, USGS, CENAPRED, Mexican authorities)
+- Leveraging network connections to overcome regulatory barriers
+- Managing expectations and clarifying mission objectives to external parties
 
 ## Important Resources
 
@@ -236,6 +268,16 @@ The channel covers activities from 2020 through October 2026, with high activity
 - ADUM1201 magnetic isolator IC (gas payload isolation)
 
 ## Recent Activity
+
+**November 20, 2026**
+- **Regulatory Challenge Identified**: Spencer Hoehl reports that AFAC Director was initially under impression that Popocatépetl mission was commercial in nature
+- **Clarification Attempt**: Joe (AV3 Aerovisual subcontractor) corrected misunderstanding and explained scientific research collaboration with USGS and CENAPRED
+- **Unexpected Result**: AFAC Director became less interested in granting flight permissions after learning mission is scientific research (not commercial)
+- **Response Actions**:
+  - Spencer Hoehl drafting clarification email to CENAPRED emphasizing scientific nature and collaboration
+  - Joe attempting to schedule another meeting with AFAC Director
+  - Jack Elston engaging Mexican government network contact to explore alternative expedited approval pathways
+- **Status**: Deployment remains on hold pending regulatory resolution
 
 **October 28, 2026**
 - **Announcement**: Dan Prendergast announced Mexico deployment placed on indefinite hold pending AFAC approval

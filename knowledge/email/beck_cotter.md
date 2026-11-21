@@ -1,260 +1,286 @@
 # Beck Cotter — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 137 (112 from previous scans + 25 new)
-- **Date range:** 14 Nov – 20 Nov 2026
-- **New batch activity:** 19 Nov (20 emails) and 20 Nov (5 emails); sustained high intensity
-- **Volume trend:** Consistent operational tempo with strategic planning execution, government contract follow-up, and academic partnership coordination; peak activity 19 Nov (20 emails)
+- **Total messages scanned:** 153 (137 from previous scans + 16 new)
+- **Date range:** 14 Nov – 21 Nov 2026
+- **New batch activity:** 20 Nov (13 emails) and 21 Nov (3 emails); sustained high intensity
+- **Volume trend:** Consistent operational tempo with government procurement acceleration, academic research coordination, and inbound sales inquiry surge; peak activity 20 Nov (13 emails)
 
 ## Key Correspondents
 
 ### Top Senders (to Beck's inbox) — Updated
-1. **U.S. Navy NAWCAD / Navy CNR** (Angel R. Ruiz-Reyes, Steven S. Sullivan CIV USN, Anthony D. Brescia) — Tier 1; Phase II determination active (Ruiz-Reyes 19 Nov IMPORTANT); multiple ARCTIC EDGE 27 workstream leads
-2. **Jack Elston** (elstonj@blackswifttech.com) — CEO/CTO; high-priority forwarding (19 Nov "Re: Introductions" IMPORTANT); coordinating major NASA/NOAA/ERAU integration meeting
-3. **Ellie Zhang (Stanford)** (exzha@stanford.edu) — S2 simulation research; 2 emails 20 Nov (accepted meeting + re: response both IMPORTANT/UNREAD); active research engagement
-4. **Paul DeMond** (Paul.DeMond@umaritime.com) — NEW TOP CONTACT; "Status of N251-016 Phase II" (19 Nov IMPORTANT); likely University of Maritime or similar maritime/defense partner
-5. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Strategic planning; EI2027 Priority Scouting coordination with ed.kase@ekaseconsulting.com (19 Nov, multiple IMPORTANT exchanges)
-6. **Ebenezer P. Gnanamanickam (ERAU)** (gnanamae@erau.edu) — NDA coordination active (19 Nov IMPORTANT response); wind tunnel partnership confirmed
-7. **External consulting/strategy:** 
-   - **ed.kase@ekaseconsulting.com** — NEW RECURRING: EI2027 Priority Scouting (PACOM, CENTCOM, TRANSCOM capability gaps); multiple IMPORTANT exchanges with Prendergast (19 Nov 13:10 PM, 14:03 PM, 14:07 PM)
-8. **Automated/Promotional:**
-   - **UASweekly.com, Vulcan SOF, ChatGPT, QS connectors** — Newsletter/tool notifications
-   - **Morris A. DeSimone (ausgar.com)** — Forwarding Vulcan opportunities to 14-person Navy distribution list (IMPORTANT 19 Nov 20:45 UTC)
+1. **U.S. Navy NAWCAD / Navy CNR** (Angel R. Ruiz-Reyes, Steven S. Sullivan CIV USN, Anthony D. Brescia) — Tier 1; Phase II determination active; multiple ARCTIC EDGE 27 workstream leads
+2. **Jack Elston** (elstonj@blackswifttech.com) — CEO/CTO; high-priority forwarding; now escalating S0 quote request (20 Nov IMPORTANT); coordinating major NASA/NOAA/ERAU integration meeting and Stanford S2 research escalation
+3. **Ellie Zhang (Stanford)** (exzha@stanford.edu) — S2 simulation research; accepted meeting + substantive response (20 Nov IMPORTANT/UNREAD)
+4. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — Strategic planning; EI2027 Priority Scouting coordination; now also receiving/forwarding technical research requests (UAS Flux Topos) (20 Nov IMPORTANT)
+5. **Paul DeMond** (Paul.DeMond@umaritime.com) — Navy Phase II status coordination
+6. **Ebenezer P. Gnanamanickam (ERAU)** (gnanamae@erau.edu) — NDA coordination active; wind tunnel partnership confirmed
+7. **External consulting/strategy:**
+   - **ed.kase@ekaseconsulting.com** — EI2027 Priority Scouting consultant; continued active dialogue with Prendergast (20 Nov 13:11 PM, IMPORTANT)
+8. **Murray State University (NEW):**
+   - **Bassil El Masri** (belmasri@murraystate.edu) — UAS Flux Topos research coordination; "6/28 UAS Flux Topos @Murphy's Pond" (20 Nov 16:38 PM, IMPORTANT/UNREAD); Beck forwarding to Prendergast and Elston (20 Nov 12:56–13:01 PM)
+9. **Black Label Co. (NEW):**
+   - **Jacob Dahn** (info@blacklabelco.com) — Re: Black Swift Technologies inquiry (20 Nov 18:27 PM, IMPORTANT/UNREAD); Beck had initiated outbound contact (20 Nov 10:32 AM, SENT)
+10. **Automated/Promotional/Business Development:**
+   - **Asana** — Task management notifications (21 Nov 01:45, 20 Nov 23:16, unread)
+   - **Jose Gomez (Wematics)** (jose@wematics.com) — NEW: Purchase inquiry for S0 atmospheric profiling (21 Nov 02:25, UNREAD, CATEGORY_FORUMS)
+   - **DHS Phase 0** (dhsphase0@dawnbreaker.com) — DHS POWER Symposium (20 Nov 19:28, IMPORTANT, CATEGORY_FORUMS); DHS Phase I SBIR topic author learning opportunity
+   - **KAYAK** — Travel search promotional (20 Nov 23:28, CATEGORY_PROMOTIONS, UNREAD)
+   - **Shivansh Singh via Sales** (sales@blackswifttech.com) — S2 max takeoff weight spec inquiry (20 Nov 21:52, CATEGORY_FORUMS)
 
-### Internal Collaborators — Confirmed
-- **Jack Elston** — Initiating high-level coordination; NASA/NOAA/ERAU integration meeting (19 Nov 09:09 AM); responding to Beck's introduction forwarding (10:18 AM IMPORTANT)
-- **Daniel Prendergast** — Government strategy; leading EI2027 Priority Scouting dialogue with external consultant ed.kase
-- **Meredith Needham** — Finance/contracts; Beck forwarding introductions to Elston and Needham (19 Nov 09:34 AM)
-- **Maciej Stachura** — Strategy; included in major NASA/NOAA/ERAU integration call (Elston 19 Nov 09:09 AM email)
-- **Cory Dixon** — Krateo Sky integration; now visible as direct participant in NASA/NOAA/ERAU coordination (Elston email 19 Nov)
-- **Joshua Fromm** — Engineering; included in NASA/NOAA/ERAU integration meeting
+### Internal Collaborators — Confirmed & Expanded
+- **Jack Elston** — CEO/CTO; now forwarding S0 quote request to Beck (20 Nov 12:56 IMPORTANT); escalating Stanford S2 research coordination (responding to Ellie Zhang 20 Nov); participating in research coordination (UAS Flux Topos reply pattern)
+- **Daniel Prendergast** — Government strategy/business development; receiving UAS Flux Topos research coordination from Beck (20 Nov 13:01 SENT); continued EI2027 Priority Scouting dialogue with ed.kase (20 Nov 13:11 PM, IMPORTANT)
+- **Meredith Needham** — Finance/contracts; visible in prior batch coordination
+- **Maciej Stachura** — Strategy; participant in NASA/NOAA/ERAU integration
+- **Cory Dixon** — Krateo Sky integration; NASA/NOAA/ERAU integration participant
+- **Joshua Fromm** — Engineering; NASA/NOAA/ERAU integration participant
 
 ### External Breakdown — Refined
-- **Government (DoD/Federal):** ~32% (Navy NAWCAD Phase II, NOAA, NASA LaRC, USMC contacts)
-- **Academic/Research:** ~22% (Stanford, ERAU, NOAA Federal labs)
-- **Commercial/Integration Partners:** ~15% (Krateo Sky via Cory Dixon, University of Maritime)
-- **Consulting/Strategy:** ~10% (ed.kase@ekaseconsulting.com, PrecisionTerra ecosystem)
+- **Government (DoD/Federal):** ~32% (Navy NAWCAD Phase II, DHS POWER, Sandia National Labs opportunities)
+- **Academic/Research:** ~24% (Stanford S2, ERAU NDA, Murray State UAS research)
+- **Commercial/Sales Inquiry:** ~12% (Wematics S0 atmospheric profiling inquiry, Black Label Co., S2 spec inquiries, sales@blackswifttech.com forums)
+- **Consulting/Strategy:** ~8% (ed.kase@ekaseconsulting.com)
 - **Internal:** ~16% (Elston, Prendergast, Needham, Stachura, Fromm)
-- **Automated/Tools/Promotional:** ~5% (ChatGPT, UASweekly, Vulcan SOF, QS connectors)
+- **Automated/Tools/Promotional:** ~8% (Asana, KAYAK, ChatGPT, newsletter notifications)
 
 ## Topic Patterns
 
-### Primary Focus — Elevated Strategic Significance
-- **NASA/NOAA/ERAU integration meeting — MAJOR COORDINATION EVENT** (19 Nov 09:09 AM): Jack Elston sent "Meeting Slides and Notes" email to 15-person integrated team including:
-  - **NASA Langley Research Center (LaRC):** Chester V. Dolph (D201), Chris Meek (D201), Craig Hunter (D301 Emeritus), Jonathan Gleason (E302), Michael W. Lee (D301), Tausif Jamal (D301)
-  - **NOAA Federal:** Annette Hollingshead, Joe Cione, Nikolai Pawlenko
-  - **ERAU:** Ebenezer Gnanamanickam, Joshua Wadler, Zheng Zhang
-  - **BST:** Beck, Cory Dixon, Daniel Prendergast, Joshua Fromm, Maciej Stachura
-  - **Krateo Sky:** Cory Dixon
-  - **Purpose:** Unclear from subject "Meeting Slides and Notes," but scope and attendee list suggest major platform evaluation or joint test program
+### Primary Focus — Government Procurement & Product Sales Acceleration
+- **S0 quote request — ESCALATED (20 Nov 12:56 PM IMPORTANT):**
+  - Jack Elston forwarding "S0 quote request" to Beck with IMPORTANT flag
+  - **Significance:** Direct government or commercial customer inquiry for S0 platform; CEO-level escalation suggests high-value or strategic opportunity
+  - **Context:** Aligns with Jose Gomez (Wematics) atmospheric profiling inquiry (21 Nov 02:25, UNREAD, CATEGORY_FORUMS); suggests active S0 sales cycle or procurement interest
+  
+- **DHS Phase 0 / SBIR Opportunity — NEW VISIBILITY (20 Nov 19:28, IMPORTANT, CATEGORY_FORUMS):**
+  - DHS Phase 0 (dhsphase0@dawnbreaker.com) sent "Learn from the DHS Phase I SBIR Topic Authors at the DHS POWER Symposium!"
+  - **Recipients:** proposals@blackswifttech.com (BST proposal/capture team address)
+  - **Significance:** DHS SBIR Phase I learning opportunity; potential for Phase II/III follow-on work
+  - **Beck's visibility:** Received copy; suggests business development or proposal team participation
 
-- **Navy Phase II Status — ACTIVE PURSUIT:** 
-  - Ruiz-Reyes (NAWCAD) sent "Phase II" to Beck (19 Nov 09:13 AM UTC, IMPORTANT)
-  - Beck responding same day 09:26 AM MST
-  - Paul DeMond (University of Maritime) inquiry "Status of N251-016 Phase II" (19 Nov 15:17 PM UTC, IMPORTANT)
-  - Beck responding 11:01 AM MST same day
-  - **N251-016** = likely SBIR/STTR contract identifier; Phase II advancement or funding decision pending
+- **Sandia National Laboratories 2027 Small Business Opportunities Fair — NEW VISIBILITY (20 Nov 15:01 PM, SENT):**
+  - Beck responded to registration email from Jack Elston (CEO)
+  - **Email chain:** Elston forwarded Sandia opportunity; Beck registered (15:01 PM)
+  - **Significance:** Tier 1 national lab procurement event; suggests BST actively pursuing Sandia partnerships or contracts
 
-- **EI2027 Priority Scouting Initiative — NEW VISIBILITY:**
-  - Daniel Prendergast engaged with external consultant ed.kase@ekaseconsulting.com on "EI2027 Priority Scouting - PACOM, CENTCOM & TRANSCOM Capability Gaps" (19 Nov 13:10, 14:03, 14:07 PM; multiple IMPORTANT)
-  - **EI2027** = likely FY2027 Expeditionary/Executive Initiative or theater-specific defense requirement
-  - **Scope:** Strategic scouting for Naval capabilities across Pacific, Central, and Transportation Commands
-  - **Beck's visibility:** Copied on ed.kase inquiry to Prendergast; suggests business development or program participation
+### NASA/NOAA/ERAU Integration & S0 VTOL Testing Program — Continuing
+- **Jack Elston NOW DIRECTLY ENGAGING STANFORD (Ellie Zhang):**
+  - Elston responded to Ellie Zhang "Re: S2 simulation support for Stanford Fly-by-Feel research" (20 Nov 08:37 PM, IMPORTANT)
+  - **Prior context:** Beck and Ellie Zhang exchanged S2 simulation coordination (20 Nov early morning)
+  - **New development:** CEO now directly engaged in Stanford research coordination; suggests elevated importance or integration requirements
+  - **Timing:** Occurs within hours of NASA/NOAA/ERAU integration meeting (19 Nov); suggests meeting outputs driving Stanford S2 integration
 
-### Continuing Initiatives
-- **S2 simulation support (Stanford)** — Ellie Zhang sent 2 emails 20 Nov:
-  - "Accepted: S2 simulation support for Stanford" (00:13:21 UTC, calendar acceptance)
-  - "Re: S2 simulation support for Stanford Fly-by-Feel research" (00:29:57 UTC, IMPORTANT UNREAD, substantive response)
-  - **Beck's response:** 19 Nov 14:03 PM to Ellie Zhang (SENT)
-  - Research coordination active; meeting likely confirmed
+### UAS Flux Topos Research Coordination — NEW INITIATIVE (20 Nov)
+- **Bassil El Masri (Murray State University)** sent "Re: 6/28 UAS Flux Topos @Murphy's Pond" (20 Nov 16:38 PM, IMPORTANT/UNREAD):
+  - Beck forwarded to both Daniel Prendergast (20 Nov 13:01 PM, SENT) and Jack Elston (20 Nov 12:59 PM, SENT)
+  - **Significance:**
+    - **UAS Flux Topos** = likely atmospheric profiling or meteorological sensing research using autonomous aircraft
+    - **6/28 timeline** = June 28 test date or coordination; Murphy's Pond location (likely test site)
+    - **Beck's forwarding pattern:** Escalating research coordination to strategy (Prendergast) and CEO (Elston) simultaneously
+    - **Connection to DHS/Sandia:** Potential government-sponsored atmospheric research or sensor validation program
+  - **Relationship:** Murray State appears to be research partner or customer for S0 atmospheric profiling capability
 
-- **ERAM/NOAA S0 VTOL evaluation** — Continuing from prior batch; now visible as part of larger NASA/NOAA/ERAU integration (Elston 19 Nov integration meeting includes Annette Hollingshead (NOAA) and multiple NOAA Federal lab contacts)
+### Navy Phase II Status — Continuing Operational Urgency
+- **N251-016 Phase II** — Continuing from prior batch; University of Maritime (Paul DeMond) status inquiry (19 Nov); Beck maintaining real-time updates
+- **ARCTIC EDGE 27** — Navy STTR Phase II workstream coordination (Ruiz-Reyes, Brescia, Sullivan engagement continuing from prior batch)
 
-- **ARCTIC EDGE 27 / Navy STTR Phase II** — Visible as N251-016 Phase II follow-up with Paul DeMond; NAWCAD (Ruiz-Reyes) active engagement
+### EI2027 Priority Scouting Initiative — Continuing Strategic Dialogue
+- **ed.kase@ekaseconsulting.com** (20 Nov 13:11 PM, IMPORTANT):
+  - Continued exchange with Daniel Prendergast on "EI2027 Priority Scouting - PACOM, CENTCOM & TRANSCOM Capability Gaps"
+  - Multiple rapid-fire exchanges across 19–20 Nov suggest active strategic planning or bid evaluation
 
-### New Partnerships & Relationships
-- **University of Maritime (Paul DeMond)** — NEW SIGNIFICANT CONTACT: "Status of N251-016 Phase II" inquiry suggests Paul DeMond is either contract monitor, partner institution, or customer for Navy Phase II effort; Beck responding with status update same-day
+### Commercial Sales Inquiry — NEW VISIBILITY (Atmospheric Profiling Use Case)
+- **Jose Gomez (Wematics)** (jose@wematics.com) (21 Nov 02:25, UNREAD, CATEGORY_FORUMS):
+  - Subject: "Purchase inquiry: Black Swift S0 for atmospheric profiling"
+  - **Significance:**
+    - Direct commercial customer inquiry for S0 platform
+    - **Use case alignment:** Atmospheric profiling — matches UAS Flux Topos (Murray State) research focus and potential DHS/government applications
+    - **Wematics:** Likely atmospheric science, weather, or environmental monitoring company
+    - **Connection:** Potential commercial application or government-sponsored research procurement
+  - **Context:** Aligns with Jack Elston S0 quote request escalation (20 Nov 12:56 PM); suggests active sales cycle
 
-- **EKase Consulting (ed.kase@ekaseconsulting.com)** — NEW: Strategic/business development consultant engaged on theater-specific Navy capability gap analysis (EI2027); likely advising on go/no-go or bid strategy
+### S2 Specification Questions — Sales/Support (20 Nov 21:52)
+- **Shivansh Singh via Sales** (sales@blackswifttech.com):
+  - Subject: "Is 9.5 kg the right max takeoff weight for the Black Swift S2?"
+  - **Significance:** Customer specification inquiry; suggests sales lead or procurement evaluation
+  - **Through sales channel:** Routed to sales@blackswifttech.com; Beck receiving copy suggests product lead or technical support involvement
 
-- **PrecisionTerra & Investment Ecosystem** — NEW VISIBILITY: Maithreyi Gopalakrishnan hosting "End of Year Get-Together" (19 Nov 13:30 PM, IMPORTANT); attendee list includes venture capital (d4investments Kelly Coyne, forum VC Neal Sarraf), law (Founders Law Sam Ziegler, Critical Path IP Richard Zelenka), and other BST/partner leadership (Daniel Prendergast, Beck, Sean Gorman/Zephr)
-  - **Significance:** Beck and Prendergast invited to investor/partner gathering; suggests BST is part of broader defense tech ecosystem or funding cycle
-
-### Government Opportunity Intelligence
-- **Morris A. DeSimone (ausgar.com)** forwarded "New Opportunities on Vulcan + Product Updates!" to 14-person Navy distribution list (19 Nov 20:45 UTC, IMPORTANT):
-  - Recipients include: Benjamin Payne, Richard LaMarca, Anthony Brescia, Angel Ruiz-Reyes (all NAWCAD key contacts), plus USMC (David Keeler, Alicia Owsiak, Matthew Bolen) and Navy CNR personnel
-  - **Vulcan SOF** = likely Vulcan defense/special operations platform
-  - **DeSimone's role:** Ecosystem connector or opportunity aggregator for Navy decision-makers
-  - **Beck's visibility:** Received copy via Vulcan support email (19 Nov 21:00 UTC); positioned on distribution but not primary recipient
-
-### Business Development & Partnership Development
-- **Twenty Ninth Street Business introduction** (19 Nov 09:13 AM):
-  - Contact form submission via bst.aero website; Beck forwarded to Jack Elston and Meredith Needham (09:34 AM)
-  - Elston responded (10:18 AM IMPORTANT) with high-priority flag
-  - **Significance:** Inbound business inquiry elevated to CEO level; suggests potential partner, investor, or strategic opportunity
-
-- **NDA coordination active:**
-  - Gnanamanickam (ERAU) confirmed NDA receipt and status (19 Nov 17:49 UTC, IMPORTANT)
-  - Beck acknowledged (19 Nov 13:31 PM, SENT response)
-  - Wind tunnel facility partnership advancing
-
-### Newsletter/Opportunity Tracking
-- **UASweekly Daily Newsletter** — Beck subscribed to UAS industry news (19 Nov 21:01 UTC)
-- **Vulcan SOF + Product Updates** — Support notification; new opportunities flagged to Navy decision-makers (may indicate platform expansion or new capability release)
-- **QS High Current Connectors** (xiaoyun@qsrccn-hobbies.com) — Follow-up on drone/energy storage connector offerings (20 Nov 16:50 UTC, PROMOTIONS); likely component sourcing inquiry or vendor outreach
+### Business Development Outreach
+- **Beck initiated contact with Black Label Co. (Jacob Dahn) (20 Nov 10:32 AM, SENT):**
+  - Subject: "Black Swift Technologies inquiry"
+  - Jacob Dahn responded (20 Nov 18:27 PM, IMPORTANT/UNREAD)
+  - **Significance:** Beck proactively reaching out; likely exploratory partnership, supplier, or business development contact
+  - **Unknown entity:** Black Label Co. purpose/focus not clear from metadata; likely manufacturing, consulting, or investment-related
 
 ## Communication Patterns
 
-### Time Patterns — Refined
-- **Peak activity window:** Thu 19 Nov (20 emails spanning 09:09 AM MST – 21:00 PM UTC)
-- **Morning burst (09:00–10:30 AM MST):**
-  - Jack Elston NASA/NOAA/ERAU integration meeting email (09:09 AM)
-  - Beck forwarding "Introductions" to Elston/Needham (09:34 AM)
-  - Beck responding to Navy Phase II (Ruiz-Reyes 09:26 AM)
-  - Elston responding to Beck introductions (10:18 AM, IMPORTANT)
-  
-- **Mid-morning cluster (11:00–13:30 AM MST):**
-  - Beck responding to Paul DeMond Navy Phase II status (11:01 AM)
-  - PrecisionTerra end-of-year event invite (13:30 AM, IMPORTANT)
-  - Multiple EI2027 Priority Scouting exchanges with Daniel Prendergast/ed.kase (13:10–14:07 AM MST)
-  
-- **Afternoon/evening UTC:**
-  - Gnanamanickam NDA confirmation (17:49 PM UTC)
-  - Morris DeSimone forwarding Vulcan opportunities to Navy (20:45 PM UTC)
-  - Vulcan product update notification (21:00 PM UTC)
+### Time Patterns — Refined (20 Nov Activity Peak)
+- **Morning burst (08:30–13:00 AM MST):**
+  - Jack Elston responding to Stanford (Ellie Zhang) S2 research (08:37 PM)
+  - Beck registering for Sandia Small Business Opportunities Fair (15:01 PM — escalation timestamp from Jack Elston)
+  - Beck initiating outbound contact to Black Label Co. (10:32 AM)
+  - Beck forwarding UAS Flux Topos to Prendergast (13:01 PM, SENT)
+  - Beck forwarding UAS Flux Topos to Elston (12:59 PM, SENT)
+  - Beck responding to Bassil El Masri (Murray State) on UAS Flux Topos (12:56 PM, SENT)
+  - ed.kase (consulting) continuing EI2027 dialogue with Prendergast (13:11 PM, IMPORTANT)
 
-- **Early morning follow-up (20 Nov):**
-  - Ellie Zhang S2 simulation emails (00:13 & 00:29 UTC = 17:13 & 17:29 PM MST 19 Nov or early 20 Nov)
-  - ChatGPT spending infographic (05:44 UTC 20 Nov)
-  - QS connectors follow-up (16:50 UTC 20 Nov)
+- **Afternoon/evening UTC:**
+  - Bassil El Masri (Murray State) response on UAS Flux Topos (16:38 PM MST = post-work hours)
+  - Jacob Dahn (Black Label Co.) response to Beck's outbound inquiry (18:27 PM MST)
+  - DHS Phase 0 SBIR symposium notification (19:28 PM MST)
+  - Jose Gomez (Wematics) S0 atmospheric profiling inquiry (02:25 AM UTC 21 Nov = 19:25 PM MST 20 Nov)
+  - Shivansh Singh S2 spec inquiry (21:52 PM IST 20 Nov = 10:22 AM MST 20 Nov, timezone offset)
+
+- **Early morning (21 Nov):**
+  - Asana unread notifications (01:45 AM UTC, 02:25 AM UTC)
+  - KAYAK promotional (23:28 PM UTC = 16:28 MST 20 Nov)
 
 ### Email Flags & Categories
-- **IMPORTANT flags:** Navy Phase II (Ruiz-Reyes, Paul DeMond), EI2027 Scouting (Prendergast/ed.kase exchanges), NASA/NOAA/ERAU integration (Elston), Stanford S2 research (Ellie Zhang), ERAU NDA (Gnanamanickam), Jack Elston introductions response, PrecisionTerra event, Vulcan opportunities (DeSimone forwarding), BST website contact form
-- **UNREAD flags:** Ellie Zhang S2 simulation response (20 Nov), ChatGPT notification, Vulcan DeSimone forwarding, QS connectors
-- **CATEGORY_UPDATES:** UASWeekly newsletter, Vulcan support, ChatGPT notification
-- **CATEGORY_PROMOTIONS:** QS connectors outreach
-- **CATEGORY_FORUMS:** Twenty Ninth Street Business intro, BST website contact form
-- **SENT:** Beck actively outbound (7 messages: NDA to ERAU, Stanford S2 response, Navy Phase II response, University of Maritime status update, introductions forwarding to leadership, NDA confirmation to ERAU)
-
-### Meeting/Real-Time Coordination
-- **NASA/NOAA/ERAU integration call (19 Nov):**
-  - Jack Elston sent "Meeting Slides and Notes" to 15-person integrated team
-  - Timing suggests meeting occurred; slides/notes being distributed post-event
-  - Participants from NASA LaRC (6 centers: D201, D301, E302), NOAA Federal (3 scientists/managers), ERAU (3 faculty/lab staff), BST leadership (5), Krateo Sky (1)
-  - Meeting likely focused on S0 VTOL evaluation, joint test program coordination, or technology integration
-
-- **EI2027 Priority Scouting dialogue:**
-  - Daniel Prendergast engaged with ed.kase@ekaseconsulting.com on theater-specific Navy capability gaps
-  - Multiple IMPORTANT exchanges same day (13:10, 14:03, 14:07 AM MST); rapid back-and-forth suggests active strategic decision-making or bid evaluation
+- **IMPORTANT flags:** Jack Elston S0 quote request, Bassil El Masri UAS Flux Topos, Jacob Dahn Black Label Co. response, DHS Phase I SBIR symposium, Ellie Zhang S2 simulation (CEO now engaged), ed.kase EI2027 scouting continuation, Prendergast EI2027 response
+- **UNREAD flags:** Asana notifications, Jacob Dahn, Jose Gomez, KAYAK, Bassil El Masri, Shivansh Singh
+- **CATEGORY_FORUMS:** Jose Gomez S0 inquiry, DHS POWER Symposium, Shivansh Singh S2 spec
+- **CATEGORY_PROMOTIONS:** KAYAK travel
+- **CATEGORY_UPDATES:** Asana (2 notifications)
+- **SENT:** Beck actively outbound (5 messages: Black Label Co. inquiry, UAS Flux Topos forwarding to Prendergast, UAS Flux Topos forwarding to Elston, Murray State response, Sandia Fair registration response)
 
 ## Key Relationships
 
-### Closest Internal Collaborators — Priority Confirmed
-1. **Jack Elston** — CEO/CTO; orchestrating major integration meetings (NASA/NOAA/ERAU); responding to Beck's introductions forwarding with IMPORTANT flag; central decision authority
-2. **Daniel Prendergast** — Government strategy; leading EI2027 Priority Scouting dialogue; multiple high-priority exchanges with external consultant ed.kase same-day
-3. **Meredith Needham** — Finance/contracts; Beck forwarding inbound business inquiry to Needham and Elston; suggests Needham involved in partnership/deal evaluation
-4. **Joshua Fromm** — Engineering; direct participant in NASA/NOAA/ERAU integration meeting
-5. **Maciej Stachura** — Strategy; participant in major NASA/NOAA/ERAU coordination
-6. **Cory Dixon** — Krateo Sky integration lead; visible as direct participant in NASA/NOAA/ERAU integration meeting
+### Closest Internal Collaborators — Priority Confirmed & Expanded
+1. **Jack Elston** — CEO/CTO; now actively escalating S0 sales opportunities (quote request 20 Nov IMPORTANT); directly engaging Stanford S2 research (responding to Ellie Zhang 20 Nov); receiving UAS Flux Topos research coordination from Beck; coordinating government procurement strategy (Sandia registration)
+2. **Daniel Prendergast** — Government strategy/business development; receiving UAS Flux Topos research coordination from Beck (20 Nov 13:01 PM, SENT); continuing EI2027 Priority Scouting dialogue with ed.kase consulting
+3. **Meredith Needham** — Finance/contracts; visible in prior batch
+4. **Joshua Fromm** — Engineering; NASA/NOAA/ERAU integration participant
+5. **Maciej Stachura** — Strategy; NASA/NOAA/ERAU integration participant
+6. **Cory Dixon** — Krateo Sky integration; NASA/NOAA/ERAU integration participant
 
-### Top Government Contacts — Tier 1 (Operational/Decision Authority)
+### Top Government Contacts — Tier 1
 - **U.S. Navy NAWCAD (Arlington, VA)**
-  - **Angel R. Ruiz-Reyes (CIV USN)** — Phase II determination/status (19 Nov IMPORTANT); direct Beck engagement; ARCTIC EDGE 27 workstream lead
-  - **Anthony D. Brescia (CIV USN)** — ARCTIC EDGE 27 lead; CC'd on Vulcan opportunity forwarding (DeSimone 19 Nov)
-  - **Steven S. Sullivan (CIV USN CNR)** — STTR Phase II prior batch; continued engagement expected
-  
-- **NASA Langley Research Center (LaRC)**
-  - **Chester V. Dolph (D201)** — Integration meeting participant; likely senior technical lead or program manager
-  - **Chris Meek (D201)** — Integration meeting participant
-  - **Jonathan Gleason (E302)** — Integration meeting participant
-  - **Michael W. Lee, Tausif Jamal (D301)** — Integration meeting participants; likely aerodynamics or test engineering team
+  - **Angel R. Ruiz-Reyes (CIV USN)** — ARCTIC EDGE 27 / N251-016 Phase II
+  - **Anthony D. Brescia (CIV USN)** — ARCTIC EDGE 27
+  - **Steven S. Sullivan (CIV USN CNR)** — STTR Phase II coordination
 
-- **NOAA Federal**
-  - **Annette Hollingshead** — Integration meeting participant; likely S0 VTOL evaluation lead or test coordination
-  - **Joe Cione, Nikolai Pawlenko** — Integration meeting participants; likely hurricane research or atmospheric science integration
+- **NASA Langley Research Center (LaRC)** — Multi-center integration meeting (19 Nov); S0 VTOL evaluation or joint test program
 
-### Academic & Research Partnerships — Tier 2 (Active)
+- **NOAA Federal** — S0 VTOL evaluation; atmospheric research coordination (Annette Hollingshead, Joe Cione, Nikolai Pawlenko)
+
+- **DHS & National Laboratories**
+  - **DHS Phase 0 (SBIR)** — Phase I learning opportunity; potential Phase II/III follow-on
+  - **Sandia National Laboratories** — 2027 Small Business Opportunities Fair; Beck registered (20 Nov); Tier 1 procurement event
+
+### Academic & Research Partnerships — Tier 2 (Expanding)
 - **Stanford University**
-  - **Ellie Zhang** — S2 simulation research; 2 emails 20 Nov (accepted meeting + substantive response IMPORTANT/UNREAD); high engagement
-  
+  - **Ellie Zhang** — S2 simulation research; now receiving CEO-level engagement (Jack Elston responding 20 Nov IMPORTANT); high research priority
+
 - **Embry-Riddle Aeronautical University (ERAU)**
-  - **Ebenezer P. Gnanamanickam** — NDA confirmed (19 Nov IMPORTANT); wind tunnel facility coordination active
-  - **Joshua Wadler** — Integration meeting participant; wind tunnel coordination facilitator
-  - **Zheng Zhang** — Integration meeting participant; likely aerodynamics or aircraft design specialist
+  - **Ebenezer P. Gnanamanickam** — NDA confirmed; wind tunnel facility partnership
+  - **Joshua Wadler, Zheng Zhang** — Integration meeting participants
+
+- **Murray State University (NEW — Tier 2 Research)**
+  - **Bassil El Masri** (belmasri@murraystate.edu) — UAS Flux Topos atmospheric profiling research; "6/28 UAS Flux Topos @Murphy's Pond" (20 Nov 16:38 PM, IMPORTANT/UNREAD)
+  - **Significance:** Partnership on atmospheric sensing/profiling research; potential customer for S0 platform; aligns with Wematics commercial inquiry (Jose Gomez)
 
 ### Business Development & External Ecosystem
-- **University of Maritime (Paul DeMond)** — NEW TIER 2 CONTACT: N251-016 Phase II status inquiry; likely contract monitor, partner institution, or customer; Beck responding with active updates
-- **EKase Consulting (ed.kase@ekaseconsulting.com)** — NEW STRATEGIC ADVISOR: EI2027 Priority Scouting consultant; engaged by Daniel Prendergast on theater-specific Navy capability gap analysis
-- **PrecisionTerra / Investment Ecosystem** — NEW VISIBILITY: Beck and Prendergast invited to investor/partner gathering; suggests broader ecosystem participation
-- **Twenty Ninth Street Business** — Inbound inquiry via bst.aero website; forwarded to Elston for high-priority response; potential partner or investor
+- **Black Label Co. (Jacob Dahn)** (NEW) — Beck initiated outbound inquiry (20 Nov 10:32 AM); Dahn responded IMPORTANT/UNREAD (20 Nov 18:27 PM). Unknown entity focus; exploratory partnership or business development contact
+- **Wematics (Jose Gomez)** (NEW — SALES) — Commercial purchase inquiry for S0 atmospheric profiling (21 Nov 02:25, UNREAD, CATEGORY_FORUMS); direct customer prospect
+- **EKase Consulting (ed.kase@ekaseconsulting.com)** — EI2027 Priority Scouting consultant; continued strategic dialogue with Prendergast
 
 ### Integration & Platforms
-- **Krateo Sky** (Cory Dixon) — Now visible as direct participant in NASA/NOAA/ERAU integration meeting; suggests Krateo technology integral to evaluation or platform
+- **Krateo Sky** (Cory Dixon) — Participant in NASA/NOAA/ERAU integration meeting; likely platform component or integration partner
+- **S0™ VTOL platform** — Active in government procurement (quote request escalated by CEO, Sandia opportunities, atmospheric profiling commercial inquiry)
+- **S2 simulation** — Stanford research escalation (CEO now engaged); research-grade development and integration
 
 ## Notable Observations
 
-### Strategic Inflection Point — High Confidence
-- **Major tri-agency integration event (19 Nov):** Jack Elston coordinating meeting with 15-person team across NASA LaRC (6), NOAA Federal (3), ERAU (3), BST (5), Krateo (1). Subject "Meeting Slides and Notes" suggests post-event coordination. Scale and composition suggest:
-  - **Possible S0 VTOL joint test program kickoff** or capability evaluation milestone
-  - **Joint government/industry R&D coordination** on significant platform (likely aircraft or autonomous system)
-  - **Multi-agency buy-in** on BST technology or Krateo integration
-  - **Timing significance:** Occurs immediately after strategic planning phase (prior batch 18 Nov); suggests strategic plan outputs being executed as integration coordination
+### Sales Acceleration Signal — High Confidence
+- **Jack Elston escalating S0 quote request to Beck (20 Nov 12:56 PM IMPORTANT):** CEO-level forward of commercial/government sales inquiry suggests:
+  - High-value customer opportunity (government procurement or significant commercial contract)
+  - Requires technical/product expertise or delivery coordination (why escalated to Beck)
+  - Aligns with Jose Gomez (Wematics) atmospheric profiling inquiry (21 Nov 02:25); suggests active S0 sales cycle
+  - **Timeline urgency:** Multiple S0-related inquiries within 24-hour window (Elston quote request, Wematics commercial inquiry, S2 spec question)
 
-### Navy Phase II Status — Operational Urgency
-- **N251-016 Phase II status inquiry from Paul DeMond (University of Maritime) on 19 Nov IMPORTANT:** Beck responding same-day with active update suggests:
-  - Phase II funding decision imminent or under review
-  - University of Maritime likely contract manager, monitor, or customer institution
-  - Beck maintaining real-time communication on contract status
-  - Aligns with prior batch Navy STTR Phase II determination email (Steven S. Sullivan 18 Nov)
+### Atmospheric Profiling / Environmental Monitoring — Emerging Market Segment
+- **UAS Flux Topos (Murray State) + Wematics S0 inquiry + DHS SBIR opportunity convergence:**
+  - Murray State UAS Flux Topos research (20 Nov IMPORTANT) = atmospheric flux/meteorological sensing using autonomous aircraft
+  - Wematics commercial inquiry for S0 atmospheric profiling (21 Nov 02:25) = commercial customer for same capability
+  - DHS Phase I SBIR topic authors symposium (20 Nov 19:28 IMPORTANT) = government-sponsored research funding opportunity
+  - **Pattern:** Beck coordinating research partnership (Murray State) + CEO escalating sales opportunity (Wematics) + government funding channel (DHS SBIR); suggests strategic focus area or market segment validation
 
-### Theater-Specific Strategic Scouting — Emerging Initiative
-- **EI2027 Priority Scouting (PACOM, CENTCOM, TRANSCOM Capability Gaps):** Multiple IMPORTANT exchanges between Daniel Prendergast and external consultant ed.kase (19 Nov 13:10, 14:03, 14:07 AM MST) suggest:
-  - Active evaluation of Navy capability requirements across three major commands
-  - Likely bid/go-no-go decision in progress
-  - External consulting firm engaged for strategic scouting or competitive positioning
-  - Beck's visibility (copied on ed.kase inquiry) suggests technical or program participation
+### CEO Direct Engagement in Research Coordination — Unusual Pattern
+- **Jack Elston responding directly to Ellie Zhang (Stanford) on S2 research (20 Nov 08:37 PM, IMPORTANT):**
+  - Prior pattern: Beck coordinating research partnerships (Stanford, Murray State, ERAU)
+  - New pattern: CEO now directly responding to research coordination emails
+  - **Significance:** Suggests:
+    - Research partnerships elevated to executive-level priority
+    - Likely integration into larger government test program (NASA/NOAA/ERAU integration meeting 19 Nov may have driven Stanford escalation)
+    - Possible funding, IP, or partnership terms requiring CEO approval
 
-### Ecosystem & Investment Signals
-- **PrecisionTerra End-of-Year Event (19 Nov IMPORTANT):** Beck and Daniel Prendergast both invited to investor/partner gathering; attendee mix includes:
-  - **VC firms:** d4investments (Kelly Coyne), forum VC (Neal Sarraf)
-  - **Legal/IP:** Founders Law (Sam Ziegler), Critical Path IP (Richard Zelenka)
-  - **Defense ecosystem:** Zephr (Sean Gorman), various domain experts
-  - **Significance:** Suggests BST is active in Series funding cycle, partnerships, or strategic planning with broader defense tech ecosystem
+### Government Procurement Strategy Expansion
+- **Sandia National Laboratories 2027 Small Business Opportunities Fair (20 Nov 15:01 PM):**
+  - Beck registered for Tier 1 national lab procurement event
+  - **Timing:** Occurs immediately after NASA/NOAA/ERAU integration meeting and Navy Phase II status updates
+  - **Significance:** Suggests proactive expansion into Sandia partnership pipeline; complements Navy (NAWCAD) engagement and NASA/NOAA coordination
+  - **Strategic pattern:** Multi-agency government engagement (Navy, NASA/NOAA, DHS, Sandia); portfolio approach to federal procurement
 
-### Inbound Business Inquiry Elevated
-- **Twenty Ninth Street Business contact form submission (19 Nov):** Beck received and immediately forwarded to Jack Elston (CEO) + Meredith Needham (Finance/Contracts) with 09:34 AM forwarding timestamp; Elston responded 10:18 AM IMPORTANT. Suggests:
-  - Potential strategic partner, investor, or acquisition-related inquiry
-  - Requires executive-level decision authority
-  - Possibly related to manufacturing, funding, or technology partnership
+### Business Development Outbound Surge
+- **Beck initiated contact with Black Label Co. (20 Nov 10:32 AM, SENT):**
+  - Jacob Dahn responded same-day (18:27 PM IMPORTANT/UNREAD)
+  - **Context:** Only available metadata is subject "Black Swift Technologies inquiry"; unclear if Black Label is potential partner, supplier, investor, or customer
+  - **Timing:** Concurrent with Sandia registration, UAS Flux Topos coordination, Wematics inquiry; suggests broader business development push
 
-### NDA Coordination Active — ERAU Partnership Advancing
-- **Gnanamanickam (ERAU) confirmed NDA receipt and status (19 Nov 17:49 PM UTC IMPORTANT):** Beck acknowledged same-day (13:31 PM MST). Wind tunnel facility partnership progressing; likely preparing for test program kickoff or facility access agreement
+### Product Specification Support Increasing
+- **Shivansh Singh (sales@blackswifttech.com) S2 max takeoff weight spec inquiry (20 Nov 21:52, CATEGORY_FORUMS):**
+  - Customer/prospect asking for S2 specification confirmation (9.5 kg MTOW)
+  - **Significance:** Sales lead or procurement evaluation requiring technical spec validation
+  - **Beck's visibility:** Receiving copy suggests product lead role or technical support assignment
 
-### Incoming Opportunity Intelligence — Navy Decision-Makers Network
-- **Morris DeSimone (ausgar.com) forwarded Vulcan SOF opportunities to 14-person Navy distribution list (19 Nov 20:45 PM UTC IMPORTANT):** Recipients include NAWCAD (Brescia, Ruiz-Reyes, others), USMC, Navy CNR. Beck received copy via Vulcan support email. Suggests:
-  - Established network connecting opportunity aggregator → Navy decision-makers
-  - Vulcan platform (competitor or complementary capability) gaining traction
-  - Beck positioned to track competitive/adjacent opportunities via ecosystem intelligence
+### DHS SBIR / National Security Applications — NEW OPPORTUNITY VECTOR
+- **DHS Phase I SBIR Topic Authors symposium (20 Nov 19:28, IMPORTANT, CATEGORY_FORUMS):**
+  - Sent to proposals@blackswifttech.com (BST proposal/capture team)
+  - **Significance:**
+    - DHS Phase I learning opportunity (understand what topics were funded)
+    - Potential follow-on Phase II/III contracting pathway
+    - **Beck's visibility:** Receiving copy; suggests participation in proposal strategy or capture planning
 
-## Product/Technology Portfolio — Expanded
-
-- **S0™ VTOL platform** — Active in multi-agency evaluation (NASA LaRC, NOAA Federal, ERAU); integration meeting (19 Nov) suggests test program coordination or capability validation; government procurement phase
-- **S2 simulation** — Stanford research partnership active; Ellie Zhang responding with substantive feedback (20 Nov IMPORTANT); research-grade development progressing
-- **Krateo Sky integration** — Now visible as direct participant in NASA/NOAA/ERAU integration; suggests Krateo technology integral to larger platform or system
-- **N251-016 Phase II (Navy contract)** — Active status tracking; University of Maritime involved; Phase II advancement likely or funding decision pending
-- **Lightweight/aerodynamic structures** — Wind tunnel testing ongoing (ERAU); NASA LaRC involvement suggests advanced aerodynamics or structural validation
-
-## Team Dynamics & Role Clarity
-
-- **Beck's expanded role:** Government program lead (Navy, NOAA, NASA), academic research coordination (Stanford, ERAU), business development pipeline management (EI2027 scouting awareness, inbound inquiry processing), engineering oversight
-- **Jack Elston:** CEO/CTO; strategic planning driver (prior batch); now orchestrating major tri-agency integration meeting; responding to inbound business inquiries at executive level
-- **Daniel Prendergast:** Government strategy/business development; leading EI2027 Priority Scouting dialogue with external consultant; theater-specific Navy capability gap analysis
-- **Meredith Needham:** Finance/contracts; involved in partnership/deal evaluation (Twenty Ninth Street Business inquiry); strategic planning participant
-- **Maciej Stachura & Cory Dixon:** Strategy + Krateo Sky integration; both direct participants in NASA/NOAA/ERAU coordination meeting
+### Incoming Email Volume & Inquiry Surge
+- **New batch shows 16 emails, with 4+ commercial/sales inquiries (Wematics, Shivansh Singh, Black Label Co., DHS SBIR forum):**
+  - Represents significant shift in email character from prior batch (which was dominated by government coordination and research partnerships)
+  - Suggests product market interest heating up or business development campaign yielding response
 
 ---
 
-**Updated:** 20 Nov 2026 — Dataset merged; 137 total messages analyzed across 14–20 Nov period
-**Key Changes:** NASA/NOAA/ERAU integration meeting visibility, Navy Phase II status tracking with University of Maritime, EI2027 Priority Scouting initiative, PrecisionTerra ecosystem participation, inbound business inquiry escalation, ERAU NDA advancement, Stanford S2 research acceleration
-**Analysis Confidence:** HIGH for government engagement and integration meeting scope; HIGH for Navy Phase II tracking; MEDIUM-HIGH for EI2027 strategic scouting specifics; MEDIUM for inbound opportunity scope (Twenty Ninth Street Business)
-**Notable Signal:** Beck's email velocity and cross-functional coordination pattern suggests critical execution phase post-strategic planning; multiple Tier 1 government and academic partners engaged simultaneously on what appears to be consolidated S0 VTOL evaluation and testing program
+## Product/Technology Portfolio — Expanded
+
+- **S0™ VTOL platform**
+  - Multi-agency government evaluation (NASA LaRC, NOAA Federal, ERAU) ongoing
+  - **Commercial sales cycle**: Jack Elston escalating quote request (20 Nov); Wematics atmospheric profiling inquiry (21 Nov)
+  - **Government procurement**: Sandia Small Business Opportunities Fair (20 Nov registration); DHS SBIR ecosystem
+  - **Use case**: Atmospheric profiling, environmental monitoring, meteorological sensing
+
+- **S2 simulation**
+  - Stanford Fly-by-Feel research acceleration (CEO now engaged, 20 Nov)
+  - **Commercial interest**: S2 max takeoff weight spec inquiry (21:52 PM 20 Nov)
+  - **Research application**: Sensor/simulation integration
+
+- **UAS Flux Topos capability** (NEW)
+  - Murray State University partnership; atmospheric flux/meteorological sensing research
+  - Test scheduled 6/28 at Murphy's Pond
+  - **Likely built on S0 or S2 platform**; suggests specialized atmospheric profiling variant
+
+## Team Dynamics & Role Clarity
+
+- **Beck's expanded role:** Government program lead (Navy, NASA, NOAA, DHS, Sandia), academic research coordination (Stanford S2, Murray State UAS Flux Topos), business development pipeline management, product/technical lead (spec validation, quote coordination)
+- **Jack Elston:** CEO/CTO; now directly engaged in:
+  - S0 sales opportunities (quote request escalation)
+  - Stanford S2 research coordination (responding to Ellie Zhang)
+  - Government procurement strategy (Sandia registration forwarding)
+  - Product integration oversight
+- **Daniel Prendergast:** Government strategy/business development; EI2027 Priority Scouting dialogue; research coordination (UAS Flux Topos forwarding from Beck)
+- **Meredith Needham:** Finance/contracts; visible in partnership/deal evaluation
+- **Team coordination pattern:** Beck functioning as hub for research partnerships, sales inquiries, and government coordination; escalating high-value opportunities to Elston (CEO) and Prendergast (strategy)
+
+---
+
+**Updated:** 21 Nov 2026 — Dataset merged; 153 total messages analyzed across 14–21 Nov period
+**Key Changes:** S0 sales cycle acceleration (CEO escalation), Wematics commercial inquiry, UAS Flux Topos (Murray State) research coordination, DHS SBIR opportunity, Sandia National Labs procurement, Black Label Co. business development outreach, Stanford S2 CEO-level engagement, product specification support escalation
+**Analysis Confidence:** HIGH for sales acceleration signals; HIGH for government procurement strategy (Sandia + DHS); MEDIUM-HIGH for atmospheric profiling market segment focus; MEDIUM for Black Label Co. scope (insufficient metadata)
+**Notable Signal:** Email character shifting from pure government/research coordination (19 Nov) to mixed government/commercial sales inquiry (20–21 Nov); suggests product-market validation phase or successful business development campaign; CEO now directly engaged in research coordination and sales opportunity routing — indicates executive-level prioritization of both government and commercial channels

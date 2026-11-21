@@ -1,281 +1,337 @@
 # Enriched External Contacts
 
-# Black Swift Technologies — Enriched Contact Directory
+# Black Swift Technologies — External Contact Directory
 
-## Aerospace/Defense Contractors & Partners
+## NASA (National Aeronautics and Space Administration)
 
-### By Light LLC
-- **Bryan Sparling** — Pilot/Customer Contact
-  - Email: (not provided)
-  - Role: Flight operations, aircraft acceptance testing, payment coordination
-  - Project: **By-Lite Mustang** (U.S. Air Force testing, Yuma)
-  - Context: Leading two-phase demonstration of Mustang airframe limitations, then validating new Chilli airframe (400km range, 30m/s cruise, 4kg payload). Invoice/payment coordination active through Nov 2, 2026.
-  - Contact about: Aircraft performance validation, flight schedule coordination, final payment/delivery closure
+**Primary relationship:** Government sponsor for aerospace, atmospheric research, and autonomy contracts. 80+ active contacts across JPL, ARC, GSFC, LARC, JSC, and other centers. Active projects include Phase II autonomy research (2025–2026) and S2 platform delivery. See Slack: #2025-nasa-autonomy for active collaboration details.
 
-- **Craig** — Manufacturing Contact (Fuselage/3D-Printing)
-  - Email: (not provided)
-  - Role: 3D-printed fuselage fabrication and logistics
-  - Project: **By-Lite Mustang**
-  - Context: Responsible for Chilli airframe component production
-  - Contact about: Component availability, manufacturing timeline, design modifications
+### Key Contacts
 
-- **Mel** — Decision-Maker/Customer Leadership
-  - Email: (not provided)
-  - Role: Customer executive; contract approval authority
-  - Project: **By-Lite Mustang**
-  - Context: Primary business relationship owner for Air Force contract
-  - Contact about: Contract modifications, cost escalations, program direction changes
+- **John Glass** — NASA Contact
+  - Email: John.Glass-1@nasa.gov, John.Glass@nasa.gov
+  - Role: Government contact (center/program unspecified)
+  - Interaction context: Established NASA relationship; email correspondence pattern
 
-### Krateo Sky
-- **Ellen McCarthy**
-  - Email: Ellen@krateosky.com
-  - Role: Export control & CCL (Commerce Control List) classification lead
-  - Projects: Multiple BST platforms (E2, S0, S0-VTOL, S2, S3)
-  - Recent interaction: 5+ emails (Nov 15–18, 2026) on export control compliance, marked IMPORTANT. Coordinating license requirements for international variants.
-  - Contact about: Export licensing, controlled component sourcing, international customer clearance
+- **Thomas A. Weisz** — NASA Contact
+  - Email: thomas.a.weisz@nasa.gov
+  - Role: Government contact
+  - Interaction context: Established relationship; email correspondence pattern
 
-- **Brian Grubel**
-  - Email: Brian@krateosky.com
-  - Role: LC-ISR (Lethal Capabilities) system lead/project manager
-  - Projects: **LC-ISR** (Navy/NAVAIR integration), platform integration
-  - Recent interaction: Escalated IMPORTANT emails Nov 19, 2026; NAVAIR Phase delivery deadline Nov 24, 2026. Continues active project coordination.
-  - Contact about: LC-ISR system status, NAVAIR milestones, platform integration updates
+- **Andrew E. Johnson** — JPL Contact
+  - Email: Andrew.E.Johnson@jpl.nasa.gov
+  - Role: JPL technical lead
+  - Interaction context: Established relationship; email correspondence pattern
 
-- **Don Spinozzi**
-  - Email: d.spinozzi@krateosky.com
-  - Role: Business operations/partnership coordination
-  - Projects: Munro Work (project identifier from Oct 28 calendar invite)
-  - Context: External stakeholder on operational/partnership initiatives
-  - Contact about: Partnership logistics, vendor coordination, operational requirements
+- **Tara Estlin** — JPL Contact
+  - Email: Tara.Estlin@jpl.nasa.gov
+  - Role: JPL technical/program lead
+  - Interaction context: Established relationship; potential autonomy project coordination
+
+- **Marc Golombek** — JPL Contact
+  - Email: mgolombek@jpl.nasa.gov
+  - Role: JPL technical lead
+  - Interaction context: Established relationship; email correspondence pattern
+
+- **Matthew M. Fladeland** — NASA Contact
+  - Email: matthew.m.fladeland@nasa.gov
+  - Role: Atmospheric science / airborne operations lead
+  - Interaction context: Established relationship; email correspondence pattern
+
+- **Stephan R. Kawa** — NASA Contact
+  - Email: stephan.r.kawa@nasa.gov
+  - Role: NASA atmospheric research lead
+  - Interaction context: Established relationship; email correspondence pattern
 
 ---
 
-## Government — U.S. Navy (DoD)
+## NOAA (National Oceanic and Atmospheric Administration)
 
-### Naval Air Warfare Center Aircraft Division (NAWCAD)
+**Primary relationship:** Government client/partner for atmospheric and weather research. 130+ active contacts across multiple NOAA divisions. Active hurricane research missions (LALA, MOKE) and boundary layer measurement projects. See Slack: #25_1-navy-sttr-boundary-layer for active S0 platform collaboration on tropical cyclone data collection.
 
-- **Angel R. Ruiz-Reyes** — Navy TPOC (Technical Point of Contact)
-  - Email: angel.r.ruiz-reyes.civ@us.navy.mil
-  - Title: Program Officer / Government Contact
-  - Projects: **ARCTIC EDGE 27** (Apr 19–May 7, 2027, Alaska), **Navy Magnetometer SBIR Phase II** (Option Period), Navy CNR coordination
-  - Recent activity: Nov 19, 2026 IMPORTANT email on Phase II determination; continues active contract management. High-priority communications with Alex Lomis, Beck Cotter, Jack Elston.
-  - Role: Government contracting officer, technical specification authority, deliverable acceptance
-  - Contact about: Phase II continuation approval, ARCTIC EDGE logistics, technical milestone reviews, contract options exercise
+### Key Contacts
 
-- **Anthony D. Brescia** — Navy ARCTIC EDGE Lead
-  - Email: anthony.d.brescia.civ@us.navy.mil
-  - Title: Project Lead / Government Contact
-  - Projects: **ARCTIC EDGE 27** (primary mission lead)
-  - Recent activity: Leading ARCTIC EDGE 27 workstream coordination; multiple emails to Alex Lomis, Jack Elston through Nov 2026
-  - Role: Mission operations lead, flight planning authority, government technical acceptance
-  - Contact about: ARCTIC EDGE flight operations, mission timing, aircraft readiness, payload delivery schedules
+- **Jun Zhang** — NOAA Atmospheric Scientist
+  - Email: (via email pattern Nov 20, 2026, 14:30 EST)
+  - Role: **ACTIVE DIRECT CORRESPONDENT** — hurricane forecasting models & tropical cyclone research
+  - Recent interaction: **IMPORTANT** email exchange with Maciej Stachura (Nov 20, 2026, 14:30 EST) on "Other Hurricane Models"; threaded with Joshua Wadler (ERAU) and Maciej on atmospheric research collaboration
+  - Project involvement: Boundary layer/tropical cyclone research; likely hurricane mission data coordination
+  - Contact topics: Hurricane model validation, tropical cyclone measurement protocols, atmospheric data analysis
 
-- **Steven S. Sullivan** — Navy CNR Contact
-  - Email: (not provided in emails)
-  - Role: Government coordination
-  - Projects: Multiple Navy initiatives
-  - Context: Included on Navy NAWCAD communications distribution
-  - Contact about: Navy-wide coordination, inter-command communication
+- **Wayne M. Angevine** — NOAA Contact
+  - Email: wayne.m.angevine@noaa.gov
+  - Role: NOAA atmospheric research scientist
+  - Interaction context: Established relationship; email correspondence pattern
 
----
+- **Peter Wolf** — NOAA Contact
+  - Email: peter.wolf@noaa.gov
+  - Role: NOAA scientist
+  - Interaction context: Established relationship; email correspondence pattern
 
-## Government — U.S. Special Operations Command (USSOCOM)
+- **Joseph Cione** — NOAA Contact
+  - Email: joseph.cione@noaa.gov
+  - Role: NOAA hurricane/tropical cyclone researcher
+  - Interaction context: Established relationship; likely tropical cyclone research collaboration (LALA/MOKE missions)
 
-- **Zachary O. Kachel** — USSOCOM Coordinator
-  - Email: zachary.o.kachel.mil@socom.mil
-  - Title: SOCOM Technical/Operations Contact
-  - Projects: **SOCOM Advanced Technology Research** (ATR discussion), operational data coordination
-  - Recent activity: Nov 18–19, 2026 IMPORTANT emails on "Data from Yesterday's Launch" coordination; active project milestone tracking with Alex Lomis
-  - Role: Government operations lead, data/capability integration authority
-  - Contact about: Operational readiness, data delivery formats, mission integration, security protocols
+- **Matthew Shupe** — NOAA Contact
+  - Email: matthew.shupe@noaa.gov
+  - Role: NOAA cloud/atmospheric science researcher
+  - Interaction context: Established relationship; email correspondence pattern
 
-- **Michael C. Jagelewski** — USSOCOM Coordinator
-  - Email: michael.c.jagelewski.civ@socom.mil
-  - Title: Government Technical Contact
-  - Projects: **SOCOM Advanced Technology Research** (ATR coordination)
-  - Recent activity: Nov 18–19, 2026 responses on technology integration; coordinating with Dan Prendergast on ATR discussion (12:04 MST Nov 19, marked IMPORTANT)
-  - Role: Government technical evaluation, capability assessment
-  - Contact about: Technology evaluation criteria, delivery specifications, fielding timelines, integration testing
+- **Dave Turner** — NOAA Contact
+  - Email: dave.turner@noaa.gov
+  - Role: NOAA atmospheric measurement scientist
+  - Interaction context: Established relationship; email correspondence pattern
+
+- **Logan Poole** — NOAA Contact
+  - Email: logan.poole@noaa.gov
+  - Role: NOAA scientist
+  - Interaction context: Established relationship; email correspondence pattern
 
 ---
 
-## Government — National Aeronautics & Space Administration (NASA)
+## U.S. Navy (Naval Warfare Centers, DEVCOM, SBIR Program)
 
-### NASA Langley Research Center (LARC)
+**Primary relationship:** Tier 1 defense client. Active Phase II SBIR contracts for magnetometer systems (Navy NAWCAD) and boundary layer measurement (STTR). Arctic Edge 2027 participation planned. TCE (Technology Concept Experimentation) testing completed Sept 2026 at Camp Pendleton. Option period development active (Nov 2026).
 
-- **Chester V. Dolph** — NASA LARC Project Lead
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-D201) — Principal Investigator
-  - Projects: **NASA S2 Delivery** (collaborative atmospheric/Earth science research), Autonomy SBIR Phase II
-  - Recent activity: Included in large multi-agency coordination meeting (Nov 19, 2026) led by Jack Elston; multiple divisions represented (D201, D301, E302)
-  - Role: Research program lead, scientific deliverable acceptance, platform integration authority
-  - Contact about: Research objectives refinement, data delivery formats, platform capabilities, field campaign scheduling
+### Key Contacts — SBIR & Technical
 
-- **Chris Meek** — NASA LARC Technical Lead
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-D201)
-  - Projects: **NASA S2 Delivery**, collaborative research
-  - Context: Technical co-lead with Dolph; included in Nov 19 coordination meeting
-  - Contact about: Technical requirements, sensor integration, data processing specifications
+- **Angel R. Ruiz-Reyes** — Navy NAWCAD / CNR Technical POC
+  - Email: (via Slack/email communication Oct–Nov 2026)
+  - Title: Technical Point of Contact (TPOC)
+  - Role: **PRIMARY NAVY SBIR POC** — magnetometer program authority
+  - Projects: Navy SBIR Phase II (magnetometer/MAD systems), Option period management, Arctic Edge 2027 planning
+  - Recent interaction: Multiple phase determination communications (Oct–Nov 2026); IMPORTANT escalations on Phase II status (20 Nov IMPORTANT flag in Beck Cotter inbox)
+  - Contact topics: Phase II technical requirements, TCE debrief, test planning, delivery schedules, option period scope
 
-- **Craig A. Hunter** — NASA LARC Research Engineer (Emeritus)
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-D301, Emeritus)
-  - Projects: Multiple atmospheric/aeronautical research initiatives
-  - Context: Senior technical advisor on research projects
-  - Contact about: Advanced atmospheric sensing capabilities, research methodology
+- **Steven S. Sullivan** — Navy CNR / NAWCAD
+  - Email: (via Slack/email communication)
+  - Role: Navy program authority — magnetometer SBIR
+  - Projects: Navy SBIR Phase II coordination, TCE participation, Arctic Edge planning
+  - Recent interaction: Tier 1 workstream lead; multiple IMPORTANT exchanges (20 Nov)
+  - Contact topics: Program schedule, test execution, deliverables
 
-- **Michael W. Lee** — NASA LARC Technical Lead
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-D301)
-  - Projects: **NASA S2 Delivery**, atmospheric research
-  - Context: Technical integration lead for platform modifications
-  - Contact about: Technical specifications, payload integration, platform modifications
+- **Anthony D. Brescia** — Navy NAWCAD / SBIR
+  - Email: (via Slack/email communication)
+  - Role: Navy program workstream lead
+  - Projects: Navy SBIR Phase II (magnetometer)
+  - Recent interaction: Tier 1 workstream lead; IMPORTANT communications (20 Nov)
+  - Contact topics: Technical requirements, test planning, deliverables
 
-- **Tausif Jamal** — NASA LARC Researcher
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-D301)
-  - Projects: **NASA S2 Delivery**
-  - Context: Research team member on collaborative project
-  - Contact about: Scientific methodology, data collection procedures
+- **Morris Hicks** — Navy DEVCOM Contact
+  - Email: morris.hicks@nasa.gov (note: email address shows nasa.gov but referenced as Navy contact; likely inter-agency assignment)
+  - Role: Navy technical/program contact
+  - Project involvement: Magnetometer development (Navy SBIR); likely DEVCOM technical oversight
+  - Contact topics: Technical requirements, component specifications, test protocols
 
-- **Jonathan Gleason** — NASA LARC Technical Lead
-  - Email: (not provided)
-  - Title: NASA Langley Research Center (LARC-E302)
-  - Projects: Research initiatives in avionics/systems integration
-  - Context: Included in multi-agency Nov 19 meeting
-  - Contact about: Avionics integration, systems specifications
+### Key Contacts — STTR & Atmospheric Research
 
----
+- **Meredith Needham** — Navy STTR Contact (BST internal, but Navy contract administrator)
+  - Email: meredith.needham@blackswifttech.com
+  - Role: Internal Navy contract administrator / Slack channel manager (#25_1-navy-sttr-boundary-layer)
+  - Projects: Navy STTR Phase II (boundary layer measurements); contract payment coordination
+  - Recent interaction: Final Phase II report submitted Sept 18, 2026; final payment received
+  - Contact topics: STTR deliverables, payment processing, contract administration
 
-## Government — National Oceanic & Atmospheric Administration (NOAA)
+### Key Contacts — Arctic Edge 2027 & UK RAVEN Program
 
-- **Annette Hollingshead** — NOAA Federal Project Lead
-  - Email: (not provided)
-  - Title: NOAA Federal (likely AOML — Atlantic Oceanographic and Meteorological Laboratory)
-  - Projects: **Hurricane Research / Atmospheric Sensing** (NOAA-led operations), multi-agency collaboration
-  - Recent activity: Nov 19, 2026 large coordination meeting with NASA, ERAU, BST; "Preliminary Flight Tracks for Saturday, Nov. 21, 2026" major federal operation (70+ recipients) with Jason Sippel/Maciej coordination
-  - Role: Federal operations lead, mission planning authority, data/platform requirements
-  - Contact about: Hurricane operations schedule, platform deployment, data requirements, weather window coordination
-
-- **Joe Cione** — NOAA Federal Researcher
-  - Email: joseph.cione@noaa.gov (also: joseph.sedlar@noaa.gov in separate contacts list)
-  - Title: NOAA Federal (AOML) — Research Scientist / Emerging Technologies Lead
-  - Projects: **Hurricane Research**, **HAPS/HALE Sensor Integration** (High-Altitude Platform Systems), Atmospheric Research
-  - Recent activity: Nov 19, 2026 IMPORTANT email forwarding RFI (Request for Information) on HAPS/HALE integration to Maciej; coordinating Emerging Technologies team response
-  - Role: Principal investigator for atmospheric research, sensor deployment authority
-  - Contact about: Hurricane mission objectives, sensor requirements, platform capabilities, data processing workflows
-
-- **Nikolai Pawlenko** — NOAA Federal Operations Coordinator
-  - Email: (not provided)
-  - Title: NOAA Federal (AOML)
-  - Projects: **Hurricane Research / Atmospheric Operations**, multi-agency coordination
-  - Context: Operations planning lead on Nov 19 coordination meeting
-  - Contact about: Operations coordination, mission scheduling, logistics
-
-- **Jason Sippel** — NOAA Federal Operations Lead
-  - Email: (not provided)
-  - Title: NOAA Federal (likely AOML or Hurricane Research Division)
-  - Projects: **Active Hurricane Operations**, multi-agency platform deployment
-  - Recent activity: Nov 20, 2026 email distributing "Preliminary Flight Tracks for Saturday, Nov. 21, 2026" to 70+ recipients; Maciej coordinated; indicates active operational command
-  - Role: Operational command authority, flight scheduling, platform deployment
-  - Contact about: Flight operations, weather windows, real-time mission adjustments
+- **Paul DeMond** — Ultra Maritime (UK/Navy RAVEN Program)
+  - Email: Paul.DeMond@umaritime.com
+  - Role: Navy RAVEN program coordinator / partner
+  - Projects: UK RAVEN contract (November 2026 kickoff), Arctic Edge 2027 participation
+  - Recent interaction: Phase II status coordination (20 Nov IMPORTANT)
+  - Contact topics: RAVEN program requirements, aircraft platform specs, Arctic Edge mission planning
 
 ---
 
-## Government — National Science Foundation (NSF)
+## U.S. Air Force
 
-- **J. Figuero** — NSF Program Officer
+**Primary relationship:** Defense customer via By Light Aerospace (Yuma testing contract). Mustang/Chilli airframe development for 400km range mission demonstration.
+
+### Key Contacts — Contracts & Operations
+
+- **By Light Aerospace** (Yuma contract customer)
+  - **Mel** — ByLight decision-maker / customer contact
+    - Role: Customer program authority
+    - Project: Mustang/Chilli airframe development for USAF Yuma testing
+    - Contact topics: Deliverable acceptance, design decisions, payment/invoicing
+
+  - **Bryan Sparling** — ByLight pilot / invoice coordinator
+    - Role: Flight test pilot; payment/invoicing coordination
+    - Project: Mustang/Chilli flight testing at Yuma
+    - Recent interaction: Final shipment pickup (Nov 2, 2026); project delivery closure
+    - Contact topics: Flight test scheduling, delivery coordination, invoicing
+
+  - **Craig** — ByLight manufacturing contact
+    - Role: Manufacturing / 3D-printing coordinator
+    - Project: Chilli fuselage 3D-printing & component sourcing
+    - Contact topics: Fuselage manufacturing, component sourcing, delivery timeline
+
+---
+
+## U.S. Special Operations Command (USSOCOM)
+
+**Primary relationship:** Emerging government client. EI2027 Priority Scouting evaluation underway. SOCOM program integration noted (operational security concern in Nov 2026 Slack activity).
+
+### Key Contacts
+
+- **Michael C. Jagelewski** — USSOCOM Contact
+  - Email: (via email communication)
+  - Role: SOCOM technical/program POC
+  - Projects: EI2027 Priority Scouting, emerging SOCOM program evaluation
+  - Contact topics: Capability assessments, technical requirements, program planning
+
+- **Zachary O. Kachel** — USSOCOM Contact
+  - Email: (via email communication)
+  - Role: SOCOM technical contact
+  - Projects: EI2027 Priority Scouting, emerging SOCOM program
+  - Contact topics: Technical requirements, capability demonstrations
+
+---
+
+## NSF (National Science Foundation)
+
+**Primary relationship:** Funding agency for research grants. NSF ECHO X-Labs program active (Nov 2026). Multi-university atmospheric research coordination.
+
+### Key Contacts
+
+- **Eric W. Frew** — CU Boulder / NSF ECHO X-Labs Lead
+  - Email: eric.frew@colorado.edu
+  - Title: Professor, Aerospace Engineering; NSF ECHO X-Labs Program Lead
+  - Role: **ACTIVE DIRECT CORRESPONDENT** — multi-university technical response coordination
+  - Recent interaction: **IMPORTANT** email (Nov 20, 21:37 UTC) coordinating hurricane research response with Maciej Stachura
+  - Project involvement: NSF ECHO X-Labs (hurricane/severe weather atmospheric research coordination)
+  - Contact topics: Research objectives, university team coordination, data requirements, field operations planning
+
+- **Melissa Wagner** — CU Boulder / NSF ECHO Team
+  - Email: (via email communication Nov 20, 2026)
+  - Role: NSF ECHO X-Labs team coordinator
+  - Project: NSF ECHO hurricane research
+  - Recent interaction: **IMPORTANT** email (Nov 20, 16:11 UTC) coordinating technical response
+  - Contact topics: Research coordination, team logistics
+
+- **Christoffer Heckman** — CU Boulder / NSF ECHO Team
+  - Email: (via email communication Nov 20, 2026)
+  - Role: NSF ECHO X-Labs team member
+  - Project: NSF ECHO hurricane research
+  - Recent interaction: **IMPORTANT** email (Nov 20, 13:56 UTC) technical coordination
+  - Contact topics: Technical specifications, research requirements
+
+- **Adam Houston** — University of Nebraska / NSF ECHO Team
+  - Email: (via email communication Nov 20, 2026)
+  - Role: NSF ECHO X-Labs university team member
+  - Project: NSF ECHO hurricane research coordination
+  - Recent interaction: **IMPORTANT** email (Nov 20, 13:33 UTC) technical response
+  - Contact topics: Research coordination, atmospheric measurement protocols
+
+- **J Figuero** — NSF Program Officer
   - Email: jfiguero@nsf.gov
-  - Title: NSF Program Officer (grant administration)
-  - Projects: NSF research grants (specific programs TBD)
-  - Context: Central NSF contact for grant inquiries
-  - Contact about: Grant opportunities, proposal deadlines, compliance requirements
-
-- **Zachary Sunberg** — NSF X-Labs ECHO Coordinator (CU Boulder)
-  - Email: (not provided)
-  - Title: University of Colorado Boulder — ECHO NSF X-Labs Principal Investigator
-  - Projects: **ECHO NSF X-Labs** (inter-university research collaboration)
-  - Recent activity: Nov 19, 2026 IMPORTANT email on ECHO proposal submission update; coordinating multi-university team response (Eric Frew, Brian Argrow, Melissa Wagner, Christoffer Heckman, Adam Houston, Maciej, Jack)
-  - Role: Research team lead, proposal coordination
-  - Contact about: ECHO program requirements, multi-university coordination, deliverable expectations
+  - Role: NSF program officer
+  - Interaction context: Established grant administration contact
 
 ---
 
-## Government — Multi-Agency / Federal Agencies
+## USGS (United States Geological Survey)
 
-### U.S. Department of Defense (DoD) — General
+**Primary relationship:** Government partner for earth science research. Active volcano monitoring mission (Popocatépetl, Nov 2026). UAS research collaboration ongoing.
 
-- **Ed Kase** — EI2027 Priority Scouting Consultant
-  - Email: ed.kase@ekaseconsulting.com
-  - Title: Defense Strategy Consultant / External Strategist
-  - Organization: EKase Consulting
-  - Projects: **EI2027 Priority Scouting** (PACOM, CENTCOM, TRANSCOM capability gap analysis)
-  - Recent activity: Nov 19, 2026 IMPORTANT exchanges with Daniel Prendergast and Beck Cotter on strategic opportunities; multiple emails 13:10–14:07 MST regarding capability gap opportunities
-  - Role: External strategic advisor, opportunity identification, government relations coordination
-  - Contact about: DoD capability gap opportunities, strategic planning, inter-command coordination initiatives
+### Key Contacts
 
-### U.S. Federal Aviation Administration (FAA)
+- **UAS Program** — USGS UAS Operations
+  - Email: uas@usgs.gov
+  - Role: USGS UAS program coordination
+  - Project involvement: UAS research partnerships, mission coordination
+  - Contact topics: Research objectives, mission planning, data delivery
 
-- **Micah D. Campbell** — FAA Contact
+---
+
+## FAA (Federal Aviation Administration)
+
+**Primary relationship:** Regulatory authority for UAS airspace integration and operations approvals. Active coordination on operational authorizations.
+
+### Key Contacts — Functional Teams
+
+- **UAS Help Desk** — General UAS Support
+  - Email: UAShelp@faa.gov
+  - Role: UAS operational support and guidance
+  - Contact topics: Airspace questions, operational guidance, exemption inquiries
+
+- **333 Exemptions Team** — Special Flight Authorization
+  - Email: 333exemptions@faa.gov
+  - Role: Part 333 exemption processing (special airworthiness certificates for research)
+  - Contact topics: Research flight authorization, special exemptions
+
+- **9-AWA-UASIPP** — UAS Integration Pilot Program
+  - Email: 9-AWA-UASIPP@faa.gov
+  - Role: UAS Integration Pilot Program coordination
+  - Contact topics: Pilot program participation, airspace integration testing
+
+- **9-AJV-115-EmergTech** — Emerging Technology Division
+  - Email: 9-AJV-115-EmergTech@faa.gov
+  - Role: Emerging UAS technology policy and integration
+  - Contact topics: Next-generation systems, regulatory pathway questions
+
+- **Micah D. Campbell** — FAA Individual Contact
   - Email: Micah.D.Campbell@faa.gov
-  - Title: FAA Officer / Government Contact
-  - Projects: UAS operations approvals, airspace integration, flight authorization
-  - Role: FAA liaison, airspace coordinator, regulation enforcement
-  - Contact about: Flight authorizations, airspace access, UAS integration pilot program coordination
-
-**FAA Distribution Addresses (for formal submissions):**
-- **UAShelp@faa.gov** — UAS Help Desk / general inquiries
-- **333exemptions@faa.gov** — Special Flight Authorization (333 exemption processing)
-- **9-AWA-UASIPP@faa.gov** — UAS Integration Pilot Program
-- **9-AJV-115-EmergTech@faa.gov** — Emerging Technology Division
-- **9-ato-wsa-osg-uas@faa.gov** — Operations Support Group UAS desk
-- **9-AJV-115-UASOrganization@faa.gov** — UAS organizational coordination
-- **helpdesk@faa.gov** — General FAA support
+  - Role: FAA technical/program contact
+  - Contact topics: Airspace operations, specific approval requests
 
 ---
 
-## Academic Institutions
+## USDA (United States Department of Agriculture)
 
-### Stanford University
+**Primary relationship:** Government partner for agricultural applications and monitoring. Limited active engagement.
 
-- **Ellie Zhang** — Researcher / S2 Simulation Lead
-  - Email: exzha@stanford.edu
-  - Title: PhD Researcher / Simulation Engineer
-  - Projects: **S2 Simulation Research** (autonomous flight control simulation), Stanford flight control research
-  - Recent activity: Nov 20, 2026 two IMPORTANT emails to Beck Cotter (accepted meeting + response); active research engagement with BST platform team
-  - Role: Simulation and autonomy researcher, flight control algorithm development
-  - Interaction context: Meeting confirmed "Tue Dec 1, 4pm MST" for research coordination (Beck Cotter manages calendar)
-  - Contact about: Simulation frameworks, flight control algorithm testing, autonomous system research requirements
+### Key Contacts
 
-### Embry-Riddle Aeronautical University (ERAU)
+- **Jason L. Wilking** — APHIS (Animal and Plant Health Inspection Service) Contact
+  - Email: Jason.l.wilking@aphis.usda.gov
+  - Role: APHIS technical contact
+  - Interaction context: Established USDA partnership
 
-- **Ebenezer P. Gnanamanickam** — Faculty / Wind Tunnel Lead
-  - Email: gnanamae@erau.edu
-  - Title: Professor / Aerodynamics Research Lead
-  - Projects: **Wind Tunnel Collaboration** (aerodynamic testing), platform validation
-  - Recent activity: Nov 19, 2026 IMPORTANT NDA coordination response with Beck Cotter; formally engaged in multi-agency research meeting (Jack Elston Nov 19 distribution)
-  - Role: Academic research lead, aerodynamic evaluation, NDA/IP management
-  - Contact about: Wind tunnel testing schedule, aerodynamic data delivery, NDA requirements, research collaboration details
+- **Michael Cosh** — ARS (Agricultural Research Service) Contact
+  - Email: Michael.Cosh@ars.usda.gov
+  - Role: ARS agricultural research contact
+  - Interaction context: Established research partnership
 
-- **Joshua Wadler** — ERAU Faculty / Aerodynamics Researcher
-  - Email: (not provided)
-  - Title: Professor
-  - Projects: Wind tunnel collaboration, aerodynamic research
-  - Context: Included in multi-agency meeting (Nov 19, 2026)
-  - Contact about: Wind tunnel testing, aerodynamic analysis, research methodology
+---
 
-- **Zheng Zhang** — ERAU Faculty / Research Coordinator
-  - Email: (not provided)
-  - Title: Professor
-  - Projects: Multi-agency atmospheric research coordination
-  - Context: Included in Nov 19 multi-agency meeting
-  - Contact about: Research integration, atmospheric measurement systems
+## University of Colorado Boulder
 
-### University of Colorado Boulder
+**Primary relationship:** Academic partner, significant employee base, active research collaborations. NSF ECHO X-Labs hurricane research coordination (Nov 2026). Autonomous systems research.
 
-- **Al Gasiewski** — Faculty / Atmospheric Sensing Lead
-  - Email: al.gasiewski@colorado.edu
-  - Title: Professor / Atmospheric Remote Sensing Researcher
-  - Projects: **Atmospheric Sensing Research**, atmospheric measurement systems
-  - Recent activity: Nov 19, 
+### Key Contacts — Faculty & Research
+
+- **Eric W. Frew** — Aerospace Engineering / NSF ECHO Lead
+  - Email: eric.frew@colorado.edu
+  - Title: Professor, Aerospace Engineering
+  - Role: NSF ECHO X-Labs program lead; research coordinator
+  - Project: NSF ECHO hurricane research (active Nov 2026)
+  - Recent interaction: **IMPORTANT** coordination email (Nov 20, 21:37 UTC) with Maciej Stachura
+  - Contact topics: Research objectives, field operations, data delivery
+
+---
+
+## NCAR/UCAR (National Center for Atmospheric Research)
+
+**Primary relationship:** Research partner for atmospheric science. Active collaboration on hurricane/severe weather research.
+
+### Key Contacts
+
+- **S. Metz** — NCAR Contact
+  - Email: smetz@ucar.edu
+  - Role: NCAR research contact
+  - Interaction context: Established research partnership
+
+---
+
+## University of Wyoming
+
+**Primary relationship:** Academic partner for atmospheric research. Storm chasing / severe weather investigations.
+
+### Key Contacts
+
+- **Josh Wadler** — Atmospheric Science / Research
+  - Email: (via email/Slack communication Nov 20, 2026)
+  - Role: **ACTIVE CORRESPONDENT** — hurricane/atmospheric research collaboration
+  - Recent interaction: **IMPORTANT** email thread (Nov 20

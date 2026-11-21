@@ -1,103 +1,115 @@
 # Alex Lomis — Email Patterns
 
 ## Communication Volume
-- Total messages scanned: 42 (35 previous + 7 new)
-- Date range: 15–19 November 2026
-- New activity concentrated on 19 Nov (7 emails); represents continuation of high-velocity coordination pattern
-- Insufficient data for reliable daily/weekly averages, but pattern shows project-driven clustering with sustained intensity through week-end
+- Total messages scanned: 63 (42 previous + 21 new)
+- Date range: 15–20 November 2026
+- 20 Nov activity: 21 emails (concentrated burst); represents sustained high-velocity coordination
+- New data confined to single day (20 Nov); shows project-driven clustering with parallel workstreams in active execution phase
+- Insufficient data for reliable daily/weekly averages, but pattern shows project-driven peaks with multi-threaded concurrent activity
 
 ## Key Correspondents
 
 ### Internal (BST)
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — vendor and Government liaison; **ESCALATING** — Sightline AITR integration; now appears as thread anchor (multiple IMPORTANT Sightline AITR exchanges on 20 Nov with external Sightline team); active dialogue with Kiki Hosaka and Nick Whaley on 20 Nov
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — **NEW KEY CONTACT**; SES AI fuel cell coordination; active dialogue with Alex on 20 Nov (14:38–14:55 UTC); bridges internal and external SES AI supplier communication; 4-message thread on 20 Nov
+- **Beck Cotter** (beck.cotter@blackswifttech.com) — UW Research Inquiry coordinator; local machining help coordination; Navy ARCTIC EDGE 27
 - **Jack Elston** (elstonj@blackswifttech.com) — Navy contract coordination (ARCTIC EDGE 27, Option Period)
 - **Maciej Stachura** (stachura@blackswifttech.com) — Navy communications and mag sensor coordination
-- **Beck Cotter** (beck.cotter@blackswifttech.com) — emerging key contact; UW Research Inquiry coordinator; local machining help coordination; appears as both sender and Navy contact on ARCTIC EDGE 27
-- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — vendor coordination (Hamamatsu); SOCOM/Government communications; Sightline AITR liaison; heavy activity continuing through 19 Nov
-- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — UW Research Inquiry recipient; Lean Manufacturing meeting attendee
-- **Joshua Fromm** (josh.fromm@blackswifttech.com) — UW Research and machining coordination; active message thread initiator; Amprius battery procurement liaison (active thread on 19 Nov); Lean Manufacturing meeting attendee
+- **Joshua Fromm** (josh.fromm@blackswifttech.com) — UW Research and machining coordination; Amprius battery liaison
+- **Ethan Domagala** (ethan.domagala@blackswifttech.com) — UW Research and Lean Manufacturing attendee
 - **Cory Dixon** (cory.dixon@blackswifttech.com) — Lean Manufacturing meeting organizer
-- **Brandon Messersmith** (brandon.messersmith@blackswifttech.com) — Lean Manufacturing meeting attendee
-- **Joshua Waldman** (joshua.waldman@blackswifttech.com) — Lean Manufacturing meeting attendee
-- **Robert Edson** (bob.edson@blackswifttech.com) — Lean Manufacturing meeting attendee
-- **Ali Sulehria** (ali.sulehria@blackswifttech.com) — Lean Manufacturing meeting attendee
-- **Lynn Regnier** (lynn.regnier@blackswifttech.com) — NEW; finance/procurement contact (invoice forwarding on 19 Nov); appears to handle vendor invoice coordination
+- **Brandon Messersmith**, **Joshua Waldman**, **Robert Edson**, **Ali Sulehria** — Lean Manufacturing attendees
+- **Lynn Regnier** (lynn.regnier@blackswifttech.com) — finance/procurement coordinator
 
 ### External
+- **Shana Tischler, SES AI** (shana.tischler@ses.ai) — **CRITICAL NEW VENDOR**; fuel cell technology; **ACTIVE NEGOTIATION PHASE**; 7-message thread with Alex on 20 Nov (18:15–22:48 UTC); marked IMPORTANT throughout; exchanges escalate from initial proposal (18:15 UTC) through multiple rounds to final coordination (22:48 UTC with Meredith Needham cc'd); indicates supplier evaluation, specification, and order timing discussion
+- **Brendan Skelly, SES AI** (Brendan.Skelly@ses.ai) — SES AI team member; cc'd on final 22:48 UTC Shana Tischler message; coordination on fuel cell cells procurement
+- **Binghong Han, SES AI** (Binghong.Han@ses.ai) — SES AI team member; cc'd on final coordination message
+- **Meredith Needham** (meredith.needham@blackswifttech.com) — appears in external SES AI thread coordination; bridges internal and supplier communication
+- **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — active Sightline Intelligence liaison; continues IMPORTANT AITR dialogue on 20 Nov (13:03–16:17 UTC); thread involves Nick Whaley, Hayden Fulkerson, Kiki Hosaka
+- **Kiki Hosaka, Sightline Intelligence** (khosaka@us.sightlineintel.com) — **ESCALATING** — Sightline AITR technical point; appears in multiple IMPORTANT threads on 20 Nov (17:17–22:48 UTC); active dialogue with Daniel Prendergast and Nick Whaley; payload integration coordination
+- **Nick Whaley, Sightline Intelligence** (nwhaley@us.sightlineintel.com) — Sightline Intelligence team lead; IMPORTANT threads on 20 Nov; thread anchor on 15:46 and 17:50 UTC exchanges; Sightline AITR integration point
+- **Hayden Fulkerson, Sightline Intelligence** (hfulkerson@us.sightlineintel.com) — Sightline Intelligence system integration; continues IMPORTANT dialogue on 20 Nov (17:12 UTC); active payload coordination
 - **Angel R. Ruiz-Reyes, NAWCAD/Navy** (angel.r.ruiz-reyes.civ@us.navy.mil) — Government contact; Option Period and ARCTIC EDGE 27
 - **Anthony D. Brescia, NAWCAD/Navy** (anthony.d.brescia.civ@us.navy.mil) — ARCTIC EDGE 27 lead
-- **Zachary O. Kachel, USSOCOM** (zachary.o.kachel.mil@socom.mil) — SOCOM Government contact; "Data from Yesterday's Launch" coordination (marked IMPORTANT)
-- **Michael C. Jagelewski, USSOCOM** (michael.c.jagelewski.civ@socom.mil) — SOCOM Government contact; "Data from Yesterday's Launch" response thread
-- **Jenna Ferrari** (JFerrari@hamamatsu.com) — image intensifiers vendor; active coordination (marked IMPORTANT)
-- **Hayden Fulkerson** (hfulkerson@us.sightlineintel.com) — Sightline Intelligence coordination; ongoing IMPORTANT threads (continuing through 19 Nov); active dialogue with Daniel Prendergast on Sightline AITR
-- **Kinsley Jordan** (kinsley@meerir.com) — Skyway Range project
-- **George Kusaba** (george.kusaba@amprius.com) — battery cells procurement; **NOW RESPONDING** — active multi-message thread with Joshua Fromm on 19 Nov (3 exchanges); marked IMPORTANT; battery order progressing
+- **Zachary O. Kachel, USSOCOM** (zachary.o.kachel.mil@socom.mil) — SOCOM Government contact; "Data from Yesterday's Launch"
+- **Michael C. Jagelewski, USSOCOM** (michael.c.jagelewski.civ@socom.mil) — SOCOM Government contact
+- **Jenna Ferrari** (JFerrari@hamamatsu.com) — image intensifiers vendor
+- **George Kusaba, Amprius** (george.kusaba@amprius.com) — battery cells procurement (active order phase as of 19 Nov)
 - **Tom Simcox** (tom.simcox@bartington.com) — mag sensor board vendor
 - **Lina Sharma** (Lina.Sharma@telit.com) — Telit Cinterion Cellular IoT Modules
-- **Bobbi Mcquiston** (bobbi@heyfreshbase.com) — external contact; "Propulsion" subject; sent to bst.aero domain
-- **GetFPV** (chloe@getfpv.com) — promotional/vendor contact (SuperNova Motors)
+- **Kinsley Jordan** (kinsley@meerir.com) — Skyway Range project
+- **Marisol Najjar, GoClient Labs** (marisol@goclientlabs.com) — **NEW CONTACT**; propulsion coordination; subject line "Propulsion" sent to bst.aero domain on 20 Nov 15:40 UTC; potential propulsion component or systems integration
+- **GetFPV** (chloe@getfpv.com, noreply@getfpv.com) — promotional/vendor contact (FPV components, motors)
+- **Verizon Business** (email@businessmail.verizon.com) — promotional (wireless business internet)
+- **Synopsys** (info@synopsys.com) — promotional (design tools/resources)
+- **Toggl** (support@toggl.com) — promotional/automated (time tracking tool)
 
 ## Topic Patterns
 
-### Key Projects/Programs
-- **ARCTIC EDGE 27** — Navy program; involves Brescia, Ruiz-Reyes, Jack Elston, Maciej Stachura, Beck Cotter
-- **Option Period wrap-up** — Navy contract period-end activity
-- **UW Research Inquiry** — lightweight UAV structures focus; team: Beck Cotter (initiator), Ethan Domagala, Joshua Fromm, Jack Elston
-- **Sightline AITR** — Sightline Intelligence coordination; active dialogue continuing on 19 Nov via Daniel Prendergast and Hayden Fulkerson (marked IMPORTANT); indicates ongoing payload/system integration
-- **Skyway Range** — Kinsley Jordan partnership/proposal
-- **Data from Yesterday's Launch** — SOCOM operational data coordination (Kachel, Jagelewski contacts); real-world deployment or test event context
+### Key Projects/Programs (Updated)
+- **ARCTIC EDGE 27** — Navy program; Brescia, Ruiz-Reyes, Jack Elston, Maciej Stachura, Beck Cotter; no new activity on 20 Nov (consistent with 19 Nov Government communication drop)
+- **Option Period wrap-up** — Navy contract period-end activity; no new messages on 20 Nov
+- **UW Research Inquiry** — lightweight UAV structures; no new activity on 20 Nov
+- **Sightline AITR** — **ESCALATING TO ACTIVE EXECUTION**; Daniel Prendergast, Hayden Fulkerson, Nick Whaley, Kiki Hosaka now in sustained IMPORTANT dialogue on 20 Nov (5 IMPORTANT threads, 13:03–22:48 UTC); thread indicates technical specification finalization or integration decision point; payload/system integration appears imminent
+- **Skyway Range** — Kinsley Jordan partnership; no new activity on 20 Nov
+- **Data from Yesterday's Launch** — SOCOM operational data; no new activity on 20 Nov
 
-### Vendors/Suppliers
-- **Amprius** — battery cells procurement; **ACTIVE ORDER PHASE** — George Kusaba now responding with order confirmation/details thread on 19 Nov; 3-message exchange with Joshua Fromm; previously pending, now progressing (marked IMPORTANT; suggests critical component for active program)
-- **Telit Cinterion** — cellular IoT modules for Scientific UAS Platforms
-- **Bartington** — mag sensor board
-- **Hamamatsu** — image intensifiers
-- **Bobbi Mcquiston/HeyFreshBase** — propulsion components
-- **Aegis Electronic Group, Inc** — NEW vendor; invoice forwarding by Alex to Lynn Regnier on 19 Nov (PO 10132026); indicates procurement/component sourcing from additional electronics supplier
-- GetFPV — SuperNova Motors (promotional)
-- CADDX — FPV gear (promotional/vendor sourcing)
+### Vendor/Supplier Activity (Updated)
+- **SES AI fuel cells** — **MAJOR NEW PROCUREMENT WORKSTREAM**; Shana Tischler leading vendor coordination; 7-message thread with Alex on 20 Nov (18:15–22:48 UTC); marked IMPORTANT; subject line: "SES AI cells for Black Swift Technologies"; escalation pattern suggests moving from evaluation to specification/order discussion; Meredith Needham appears as internal coordinator bridge; indicates critical power system component for active program (competitor or complement to Amprius battery procurement)
+- **Amprius battery cells** — active order phase (confirmed 19 Nov); George Kusaba responding with order details; continuing procurement workstream
+- **Sightline Intelligence AITR payload** — active integration dialogue on 20 Nov; Kiki Hosaka and Nick Whaley engaged in technical coordination with Daniel Prendergast; multiple IMPORTANT exchanges suggest specification finalization or delivery/integration timing
+- **Telit Cinterion** — cellular IoT modules; no new activity on 20 Nov
+- **Bartington** — mag sensor board; no new activity on 20 Nov
+- **Hamamatsu** — image intensifiers; no new activity on 20 Nov
+- **Aegis Electronic Group** — electronics supplier; invoice processed 19 Nov (PO 10132026)
+- **GoClient Labs (Marisol Najjar)** — **NEW VENDOR**; propulsion component/system; single email on 20 Nov 15:40 UTC; subject line "Propulsion" to bst.aero; suggests new supplier evaluation or existing relationship continuation; context unclear from metadata alone
 
 ### Support/Operational
-- **Local machining help** — active workstream; multiple IMPORTANT exchanges on 18 Nov (now resolved or in execution phase as of 19 Nov)
-- **Lean Manufacturing Discussion** — HELD on Thu 19 Nov 12:30–1pm MST; Gemini Notes summary auto-sent to Alex on 19 Nov 20:16 UTC (meeting occurred as scheduled); broad team meeting; indicates process improvement/manufacturing efficiency initiative in execution
+- **Local machining help** — resolved or executed (no new activity on 20 Nov)
+- **Lean Manufacturing Discussion** — held 19 Nov; no follow-up emails on 20 Nov
 
 ## Communication Patterns
 
-- **Amprius battery procurement unblocked on 19 Nov** — George Kusaba now actively responding; 3-message thread with Joshua Fromm (15:33, 20:16, 21:57 UTC on 19 Nov); marked IMPORTANT; suggests order placement or specification finalization in progress; resolves previous 18 Nov blocker noted by Alex
-- **Daniel Prendergast continuing as Sightline AITR integration point** — ongoing dialogue with Hayden Fulkerson on 19 Nov (marked IMPORTANT); thread started earlier, continuing into 19 Nov; indicates active payload/system development
-- **Finance/procurement workflow visible** — Alex forwarding vendor invoice (Aegis Electronic Group) to Lynn Regnier on 19 Nov 09:41; indicates component sourcing approval/payment cycle in motion; suggests multiple parallel procurements
-- **Lean Manufacturing meeting executed** — Gemini Notes auto-capture sent to Alex after scheduled 19 Nov meeting; confirms meeting held; suggests process documentation and follow-up tracking in place
-- **Dual email domain usage persists** — alex.lomis@blackswifttech.com for internal and finance coordination; pattern consistent with previous behavior
-- **Outbound forwarding to finance** — Alex acting as procurement coordinator, forwarding vendor documents to Lynn Regnier; suggests Alex role includes or interfaces with supply chain approval
+- **SES AI fuel cell procurement unblocked on 20 Nov** — Shana Tischler initiates contact at 18:15 UTC with "SES AI cells for Black Swift Technologies"; Alex responds 11:59 MST (18:59 UTC); escalates through 7 exchanges over ~4.5 hours (ending 22:48 UTC); marked IMPORTANT throughout; indicates vendor presenting proposal, Alex engaging, and specification/delivery coordination in real-time; Meredith Needham pulled into thread at 14:38 MST (21:38 UTC), suggesting internal decision-making or approval workflow; pattern suggests time-sensitive supplier evaluation
+- **Sightline AITR integration accelerating on 20 Nov** — Daniel Prendergast anchors 5 IMPORTANT threads on 20 Nov (13:03–22:48 UTC) involving Kiki Hosaka, Hayden Fulkerson, Nick Whaley at Sightline Intelligence; thread density and IMPORTANT flags indicate active technical coordination or delivery schedule discussion; payload system appears moving into integration/delivery phase
+- **Dual workstream execution visible** — 20 Nov shows parallel high-velocity engagement: SES AI fuel cell negotiation (vendor-initiated, escalating through evening UTC hours) AND Sightline AITR integration dialogue (internal-external technical coordination); suggests multiple component/system procurements on concurrent timeline
+- **Meredith Needham as internal SES AI bridge** — joins SES AI thread at 14:38 MST; becomes cc'd on final escalated message (22:48 UTC); indicates internal procurement, finance, or technical approval role; emerging as key internal coordinator for new vendor relationships
+- **Finance/procurement workflow persists** — Lynn Regnier received invoice workflow on 19 Nov; pattern suggests continued parallel procurement and payment cycle (not visible in 20 Nov data, but established workflow)
+- **Email volume spike concentrated to 20 Nov Friday** — 21 emails on single day; cluster pattern consistent with week-end project velocity or response to external vendor initiatives (SES AI, Sightline); no Government emails (Navy/SOCOM drop continues from 19 Nov)
+- **Promotional/marketing email noise** — GetFPV (2), Verizon, Synopsys, Toggl on 20 Nov; standard low-priority vendor marketing; Toggl appears automated (no subject line)
 
 ## Key Relationships
 
 ### Internal
-- **Beck Cotter** — critical collaborator; UW Research Inquiry (initiator), local machining coordination, Navy ARCTIC EDGE 27; closest to co-lead status
-- **Jack Elston** — Navy program anchor; ARCTIC EDGE 27, Option Period
-- **Joshua Fromm** — UW Research and machining coordination; primary Amprius battery liaison (active 19 Nov); Lean Manufacturing attendee; active message thread initiator
-- **Daniel Prendergast** — vendor and Government liaison; Sightline AITR integration point (active dialogue with Fulkerson on 19 Nov)
-- **Maciej Stachura** — Navy coordination and component sourcing (mag sensors)
-- **Ethan Domagala** — UW Research and manufacturing efficiency (Lean Manufacturing attendee)
-- **Lynn Regnier** — NEW key internal relationship; finance/procurement coordinator; handles vendor invoice processing and approval workflow
+- **Daniel Prendergast** — escalating role; now primary Sightline AITR integration point; anchors multiple IMPORTANT technical dialogues on 20 Nov; active system/payload coordination with Sightline team
+- **Meredith Needham** — **EMERGING KEY CONTACT**; bridges internal and external SES AI procurement; appears as decision/approval node in fuel cell vendor thread; likely finance, procurement, or technical specification role
+- **Beck Cotter** — UW Research Inquiry coordination; Navy ARCTIC EDGE 27
+- **Jack Elston** — Navy program anchor
+- **Joshua Fromm** — Amprius battery liaison
+- **Lynn Regnier** — finance/procurement invoice coordination
 
-### External
+### External (Updated)
+- **Shana Tischler, SES AI** — **CRITICAL NEW VENDOR CONTACT**; fuel cell technology supplier; active vendor-initiated contact on 20 Nov; rapid escalation through 7-message thread; marked IMPORTANT; indicates high-priority component sourcing
+- **Kiki Hosaka, Sightline Intelligence** — **ESCALATING**; AITR payload technical point; multiple IMPORTANT threads on 20 Nov; active system integration coordination
+- **Nick Whaley, Sightline Intelligence** — Sightline Intelligence lead; thread anchor on 20 Nov AITR exchanges; system integration decision point
+- **Hayden Fulkerson, Sightline Intelligence** — Sightline Intelligence system integration; active dialogue on 20 Nov
+- **Daniel Prendergast (BST)** — Sightline AITR integration anchor
 - **Anthony D. Brescia (Navy/NAWCAD)** — ARCTIC EDGE 27 primary Navy contact
-- **Zachary O. Kachel (SOCOM)** — SOCOM operational contact; "Data from Yesterday's Launch" coordination
-- **Michael C. Jagelewski (SOCOM)** — SOCOM Government contact; operational data response thread
-- **Angel R. Ruiz-Reyes (Navy/NAWCAD)** — continuing Government relationship; multi-program visibility
-- **Jenna Ferrari (Hamamatsu)** — active image intensifier vendor
-- **Hayden Fulkerson (Sightline Intelligence)** — AITR coordination; ongoing dialogue with Daniel Prendergast on 19 Nov (marked IMPORTANT); active system integration
-- **George Kusaba (Amprius)** — battery procurement; NOW ACTIVELY RESPONDING on 19 Nov after previous silence; critical component supplier (marked IMPORTANT)
-- **Kinsley Jordan (Meerir)** — Skyway Range partnership
+- **George Kusaba, Amprius** — battery procurement (active order phase)
+- **Jenna Ferrari, Hamamatsu** — image intensifier vendor
+- **Marisol Najjar, GoClient Labs** — **NEW VENDOR CONTACT**; propulsion component/system; single contact on 20 Nov; context emerging
+- **Kinsley Jordan, Meerir** — Skyway Range partnership
 
 ## Notable Observations
 
-- **Amprius battery procurement unblocked** — George Kusaba replied to Joshua Fromm on 19 Nov after 18 Nov no-response note from Alex; 3-message exchange (15:33–21:57 UTC) on "New order for Black Swift" thread; marked IMPORTANT; suggests order specifications finalized or delivery confirmation; resolves previous dependency blocker
-- **Aegis Electronic Group procurement in motion** — NEW vendor invoice (PO 10132026) forwarded by Alex to Lynn Regnier on 19 Nov 09:41; indicates active component procurement from electronics supplier; type of component not visible from metadata
-- **Lean Manufacturing meeting held on schedule** — Gemini auto-notes captured at 20:16 UTC on 19 Nov; confirms meeting execution; broad attendee list (Dixon, Messersmith, Waldman, Fromm, Domagala, Edson, Sulehria); indicates manufacturing process optimization/efficiency initiative active
-- **Sightline AITR dialogue sustained through 19 Nov** — Daniel Prendergast and Hayden Fulkerson continuing thread on 19 Nov (marked IMPORTANT); indicates active payload integration or technical coordination; ongoing system development
-- **High-velocity procurement and coordination cycle** — 7 emails on 19 Nov span vendor order confirmation (Amprius), invoice workflow (Aegis), system integration dialogue (Sightline), and meeting execution (Lean Manufacturing); suggests simultaneous project acceleration across multiple workstreams
-- **Lynn Regnier emerging as procurement workflow node** — first appearance in dataset; handles vendor invoice coordination and payment approval; indicates finance/supply chain integration with technical teams
-- **Joshua Fromm as active vendor liaison** — takes point on Amprius battery coordination; multiple IMPORTANT exchanges on 19 Nov; suggests technical specification or procurement ownership role
-- **No new SOCOM or Navy emails on 19 Nov** — Government coordination activity drops from 18 Nov surge; pattern suggests Government threads may be event-driven (operational data following 17 Nov launch/test event)
-- **Finance workflow visible alongside technical coordination** — Alex's invoice forwarding to Lynn Regnier occurs same day as active vendor and system integration threads; indicates parallel procurement and technical execution rhythm
+- **SES AI fuel cell procurement initiated 20 Nov** — Shana Tischler vendor-initiated contact (18:15 UTC "SES AI cells for Black Swift Technologies"); Alex engages same hour (18:59 UTC); escalates through 7 IMPORTANT messages over 4.5 hours; Meredith Needham pulled in at 21:38 UTC (14:38 MST Friday); suggests vendor proposal for critical power system component; timing and escalation pattern indicates active evaluation and specification discussion; **potential competitor or complement to Amprius battery order** (Amprius just activated 19 Nov); dual fuel cell + battery strategy possible
+- **Sightline AITR dialogue density increase on 20 Nov** — 5 IMPORTANT threads (13:03–22:48 UTC) with Daniel Prendergast, Kiki Hosaka, Nick Whaley, Hayden Fulkerson; thread anchors shift from Hayden Fulkerson to Nick Whaley to Kiki Hosaka across day; escalation pattern suggests technical specification finalization, delivery timing, or integration schedule coordination; payload system appears moving toward implementation phase
+- **Dual parallel procurements visible** — Amprius battery order activated 19 Nov (3-message exchange with George Kusaba); SES AI fuel cells initiated 20 Nov (7-message escalation with Shana Tischler); both marked IMPORTANT; suggests primary power system strategy includes battery + fuel cell hybrid or competitive evaluation; indicates system architecture decision in progress
+- **Meredith Needham emerging as internal procurement/approval node** — first appearance in dataset on 20 Nov; joins SES AI thread at internal decision point (14:38 MST); cc'd on final escalated message (22:48 UTC with Shana Tischler, Brendan Skelly, Binghong Han); likely manages internal approval, specification coordination, or finance sign-off for new vendor relationships
+- **GoClient Labs propulsion contact (20 Nov 15:40 UTC)** — single email, subject "Propulsion," to bst.aero domain; Marisol Najjar contact; context unclear; may relate to motor/propulsion sourcing or existing vendor follow-up; insufficient data to assess priority
+- **Sightline Intelligence team structure visible** — Nick Whaley (lead), Hayden Fulkerson (technical), Kiki Hosaka (technical/specifications); active cross-functional dialogue with Daniel Prendergast on AITR payload; suggests mature system development or integration decision point
+- **Government communications absent on 20 Nov** — no Navy or SOCOM emails (continuing pattern from 19 Nov); Government activity appears event-driven (operational data/test launch context from 17 Nov)
+- **High-velocity vendor engagement pattern** — 20 Nov shows vendor-initiated contact (SES AI 18:15 UTC) with rapid internal escalation and multi-hour dialogue; suggests established vendor evaluation process or critical timeline pressure
+- **Week-end Friday activity maintained** — 21 emails on 20 Nov (Friday); shows continued high intensity through end of week; pattern consistent with project acceleration or vendor deadline response
+- **Internal domain fragmentation continues** — alex.lomis@blackswifttech.com and alex.lomis@bst.aero both active; bst.aero used for finance (Lynn Regnier) and external vendor coordination (Marisol Najjar, Verizon, Synopsys); suggests dual domain strategy for internal vs. finance/vendor workflows

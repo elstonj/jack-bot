@@ -1,57 +1,65 @@
-_Computed from Toggl as of 2026-11-06: 5534.4 h tracked since 2020-01-01._
+_Computed from Toggl as of 2026-11-21: 5622.9 h tracked since 2020-01-01._
 
 # Dan Prendergast — Time Tracking
 
 ## Summary
-- **Total hours tracked:** 5,534.4 hours (all-time since 2020-01-01)
-- **Primary projects (top 5):**
-  1. Project 178336298: 1,107.0 hours (20.0%)
-  2. [001-13] Proposals (IRAD): 666.8 hours (12.1%)
-  3. [400-5] SBIR - SMM DoD 22.4D Phase II (Air Force): 573.8 hours (10.4%)
-  4. [001-13] BD Pipeline (Overhead): 472.5 hours (8.5%)
-  5. [001-13] General Operations (Overhead): 429.0 hours (7.7%)
-- **Time period:** 2020-01-01 to present
+- **Total hours tracked:** 5,622.9 hours (all-time since 2020-01-01)
+- **Primary projects (top 5 by hours):**
+  1. Project 178336298: 1,107.0 hours
+  2. [001-13] Proposals (IRAD): 666.8 hours
+  3. [400-5] SBIR - SMM DoD 22.4D Phase II (Air Force): 573.8 hours
+  4. [001-13] BD Pipeline (Overhead): 492.8 hours
+  5. [001-13] General Operations (Overhead): 454.2 hours
+- **Time period:** 2020-01-01 to present (5+ years)
 
 ## Project Breakdown
 
 | Project | Hours | % of Total | Client |
 |---------|-------|-----------|--------|
-| Project 178336298 | 1,107.0 | 20.0% | — |
-| [001-13] Proposals | 666.8 | 12.1% | [001] IRAD |
-| [400-5] SBIR - SMM DoD 22.4D Phase II | 573.8 | 10.4% | [400] Dept. of Air Force |
-| [001-13] BD Pipeline | 472.5 | 8.5% | Overhead |
-| [001-13] General Operations | 429.0 | 7.7% | Overhead |
-| [1331] S2 CRATER (Costa Rica) | 324.5 | 5.9% | — |
-| [301-3] S0 Hurricane Phase II - 2025 | 202.8 | 3.7% | [301] NOAA (Joe Cione) |
-| [001-12] BST Web Applications 2.0 IRAD | 196.2 | 3.5% | [001] IRAD |
-| [001-07] S3 IRAD | 180.2 | 3.3% | [001] IRAD |
+| Project 178336298 | 1,107.0 | 19.7% | — |
+| [001-13] Proposals | 666.8 | 11.9% | IRAD |
+| [400-5] SBIR - SMM DoD 22.4D Phase II | 573.8 | 10.2% | DoD/Air Force |
+| [001-13] BD Pipeline | 492.8 | 8.8% | Overhead |
+| [001-13] General Operations | 454.2 | 8.1% | Overhead |
+| [1331] S2 CRATER (Costa Rica) | 324.5 | 5.8% | — |
+| [301-3] S0 Hurricane Phase II - 2025 | 202.8 | 3.6% | NOAA |
+| [001-12] BST Web Applications 2.0 IRAD | 196.2 | 3.5% | IRAD |
+| [001-07] S3 IRAD | 181.5 | 3.2% | IRAD |
 | [200-14] Autonomy | 156.8 | 2.8% | — |
-| **Other projects** (30 additional) | **622.4** | **11.2%** | Various |
-| PTO / Sick Leave | 168.0 | 3.0% | — |
+| **Other 36 projects** | **271.5** | **4.8%** | — |
 
 ## Recent Activity
 
-**Current focus (last 54 entries):**
-- Heavy concentration on **[600-1] SOCOM Pope** (~45.0 hours across recent entries)
-- Significant ongoing work on **[001-13] BD Pipeline** and **[001-13] General Operations** (overhead/internal operations)
-- Steady engagement with **[001-07] S3 IRAD** and **[001-12] Customer Support**
-- One 8-day sick leave block included in recent period
+Dan's recent entries (last ~80 tracked sessions) show a strong focus on:
 
-**Notable pattern:** Recent time entries lack descriptions—all 54 recent entries have no task descriptions recorded, limiting visibility into specific deliverables or work context.
+- **[600-1] SOCOM Pope** (high frequency, large session blocks: 9.5h, 9.0h, 5.2h, 5.0h multiple times)
+- **[001-13] BD Pipeline** (consistent daily/multi-day involvement: 8.0h blocks, frequent 3–5h sessions)
+- **[001-13] General Operations** (steady operational work: 1–7h sessions)
+- **[001-07] S3 IRAD** (periodic involvement: 0.5–4.5h sessions)
+- **Minimal descriptions:** Nearly all recent entries lack task descriptions
+
+**Notable patterns:**
+- Recent spike in SOCOM Pope engagement (DoD/military focus)
+- Heavy BD Pipeline involvement suggests active business development effort
+- Sick leave totaling 24 hours in recent period
+- No descriptive text on work—entries are time-only
 
 ## Patterns
 
-**Primary work focus:**
-- **Government contracts & SBIR programs** dominate (Air Force, NOAA, DoD)
-- **Business development & proposals** represent ~20% of tracked time (critical to pipeline)
-- **Internal overhead** (general ops, BD pipeline, proposals) accounts for ~28% of total hours
-- **IRAD (Internal R&D)** initiatives constitute significant effort across multiple projects
+**Work Focus Areas:**
+- **Government/Defense:** 44% of time on DoD/Air Force/NOAA/Navy projects (SBIR, SOCOM, Hurricane research, soil moisture mapping)
+- **Internal Operations & BD:** 23% on overhead (proposals, BD pipeline, general ops)
+- **IRAD & Development:** 16% on internal R&D projects across multiple domains (web apps, S3, autonomy, autonomy demos)
+- **Scientific/Field Projects:** 10% on applied research (Costa Rica CRATER, USGS Chile, NASA work, university partnerships)
 
-**Project distribution:**
-- Mix of funded government contracts, SBIR/STTR awards, and internal R&D
-- Geographic diversity: Costa Rica, Oklahoma, Chile-Mexico USGS work alongside domestic projects
-- Heavy satellite/remote sensing focus: Hurricane monitoring, soil moisture mapping, CRATER
+**Visible Shifts (inferred from recent activity):**
+- Strong recent uptick in SOCOM Pope—now a dominant current focus
+- BD Pipeline consistently active, indicating persistent business development role
+- S2/S3 IRAD work ongoing but lighter than government contracts
+- General operations remain steady (5–7h typical weekly blocks)
 
-**Shifts over time:**
-- Project 178336298 (1,107h) represents a major single work stream—likely a significant government contract or internal platform
-- Recent activity shows increased emphasis on SOCOM Pope with diminished description logging (suggests either routine work or tracking discipline shift)
+**Work Characteristics:**
+- Generalist contributor across multiple mission areas
+- Frequent context-switching between SOCOM, BD, and operations
+- Minimal logging of task detail (audit/knowledge risk)
+- Reliable tracking discipline (consistent entries, full-time equivalent work levels)

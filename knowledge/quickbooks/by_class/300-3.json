@@ -5,17 +5,17 @@
     "[300] NOAA:[300-3] 2026 IDIQ"
   ],
   "period": {
-    "start": "2024-11-20",
-    "end": "2026-11-20"
+    "start": "2024-11-21",
+    "end": "2026-11-21"
   },
   "totals": {
     "revenue": 1067375.0,
-    "expenses": 472432.58,
+    "expenses": 474542.87,
     "by_category": {
-      "DIRECT COSTS:DC-Direct Material Purchases": 308094.9,
+      "DIRECT COSTS:DC-Direct Material Purchases": 310095.79,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 114382.98,
       "DIRECT COSTS:DC-Direct Travel": 33209.84,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 12316.94,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 12426.34,
       "DIRECT COSTS:DC-Other Direct Costs": 5667.36,
       "GENERAL & ADMINISTRATIVE:GA-Tariff/Import Duties": 452.7,
       "SALES & MARKETING:SM-Shipping": 204.16,
@@ -887,6 +887,34 @@
           "amount": 89.52,
           "account": "Inventory Asset",
           "description": "Phase1 Shipment (S3 wing set)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-20",
+      "doc_number": "SO46219",
+      "total": 2110.29,
+      "attributed": 2110.29,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "Shipped to Sean Cole (Phase 1 Aviation)",
+      "lines": [
+        {
+          "amount": 67.22,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Carbon Fiber Fabric Unidirectional Intermediate x 25"
+        },
+        {
+          "amount": 1933.67,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "TeXtreme 1013 - HS Spread Tow\nCarbon Fiber x 25"
+        },
+        {
+          "amount": 109.4,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping"
         }
       ]
     },

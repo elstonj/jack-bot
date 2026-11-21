@@ -1,273 +1,323 @@
 # Maciej Stachura — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 124 emails across four data batches (Nov 16–20, 2026)
-  - Initial batch: 41 emails (Nov 16–17)
-  - Second batch: 26 emails (Nov 17)
-  - Third batch: 34 emails (Nov 18–19)
-  - Fourth batch: 23 emails (Nov 19–20)
-- **Date range:** Nov 16–20, 2026 (5-day window)
+- **Total messages scanned:** 146 emails across five data batches (Nov 16–21, 2026)
+  - Batches 1–4: 124 emails (Nov 16–20)
+  - Fifth batch: 22 emails (Nov 20–21)
+- **Date range:** Nov 16–21, 2026 (6-day window)
 - **Volume:** Approximately 20–25 emails per day — sustained high intensity
-- **Peak activity windows:** 
+- **Peak activity windows:**
   - Nov 17: 08:00–13:00 MST, 16:00–18:00 MST (back-to-back strategic meetings)
-  - Nov 18: 13:00–21:00 UTC (08:00–16:00 MST, continuous engagement across LC-ISR, S0-AD, and Stanford coordination)
-  - Nov 19: Multiple peaks — 12:00–22:00 UTC (07:00–17:00 MST); heavy NOAA/Hurricane operations, government strategy, and NSF coordination
-  - Nov 20: Early morning activity continues (02:29 UTC); vendor outreach ongoing
+  - Nov 18: 13:00–21:00 UTC (08:00–16:00 MST, continuous engagement)
+  - Nov 19: Multiple peaks — 12:00–22:00 UTC (07:00–17:00 MST); heavy NOAA/Hurricane operations, government strategy, NSF coordination
+  - Nov 20: Sustained 08:00–21:00 MST; hurricane models discussion with NOAA, NSF ECHO coordination, vendor follow-ups, Vulcan/Popocatépetl research coordination
+  - Nov 21: Early morning activity continues (02:28 MST); automated vendor emails
 
 ## Key Correspondents
 
 ### Top Senders (to Maciej)
-1. **Jack Elston** (elstonj@blackswifttech.com) — strategic lead; continues IMPORTANT-flagged emails; **NEW: NASA/NOAA Hurricane research coordination meeting** (Nov 19); NSF X-Labs collaboration (ECHO); broad scientific coordination
-2. **Beck Cotter** (beck.cotter@blackswifttech.com) — operations/stakeholder management; **updated Stanford S2 simulation meeting** (Tue Dec 1, 4pm MST); Navy Phase II follow-up (Angel Ruiz-Reyes NAWCAD); confirmed attendees list
-3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — **NEW: escalated role in strategy/government relations**; forwarding AV3 contacts ("Joe from AV3 Texts" — IMPORTANT); CoVar Statement of Work shared (critical supplier docs); EI2027 Priority Scouting coordination (PACOM, CENTCOM, TRANSCOM)
-4. **Brian Grubel** (Brian@krateosky.com) — LC-ISR continued escalation; **NEW IMPORTANT flag** on Nov 19; NAVAIR Nov 24 deadline still active
-5. **Ellie Zhang** (exzha@stanford.edu) — **IMPORTANT flag** on S2 simulation coordination; confirming research meeting logistics
-6. **Jason Sippel** (NOAA Federal) — **NEW large-scale correspondent**; Hurricane operations; "Preliminary Flight Tracks for Saturday, Nov. 21, 2026" with 70+ recipients (major federal operation); implies BST/Maciej embedded in NOAA ops cycle
-7. **Joe Cione** (NOAA Federal) — **NEW: escalated engagement**; forwarding RFI HAPS/HALE (High-Altitude Platform Systems); AOML Emerging Technologies team; indicates BST is part of federal research infrastructure ecosystem
-8. **Al Gasiewski** (al.gasiewski@colorado.edu) — **NEW correspondent**; University of Colorado; "Sonde radar status" (IMPORTANT); suggests atmospheric sensing/radar collaboration
-9. **Zachary Sunberg** (CU Boulder) — **ECHO NSF X-Labs submission update** (IMPORTANT); coordinating multi-university team response (Eric Frew, Brian Argrow, Melissa Wagner, Christoffer Heckman, Adam Houston, Maciej, Jack)
-10. **Dmitry Chulkov** (BaseCam Electronics) — **NEW IMPORTANT flag**; custom payload stabilization (continuing supplier engagement); technical vendor relationship intensifying
-11. **Angel Ruiz-Reyes** (Navy NAWCAD) — **Phase II** development (IMPORTANT); continued Navy engagement
-12. **Google Workspace/Automated** — service notifications (reMarkable, vendor promotions)
+1. **Jack Elston** (elstonj@blackswifttech.com) — strategic lead; **NEW: forwarding Pluma Dynamics / BST partnership** (Nov 20, IMPORTANT); continued NOAA/NASA/NSF coordination
+2. **Beck Cotter** (beck.cotter@blackswifttech.com) — operations/stakeholder management; **NEW: inquiry to Black Label Co.** (Nov 20, IMPORTANT); Stanford S2 simulation coordination; UAS Flux research coordination
+3. **Daniel Prendergast** (daniel.prendergast@blackswifttech.com) — government relations; EI2027 Priority Scouting coordination (PACOM, CENTCOM, TRANSCOM)
+4. **Eric W Frew** (eric.frew@colorado.edu) — **NSF ECHO X-Labs lead** — Nov 20, 21:37 UTC (IMPORTANT); coordinating multi-university technical response
+5. **Jun Zhang** (NOAA Affiliate) — **NEW DIRECT NOAA CORRESPONDENT** — Nov 20, 14:30 EST (IMPORTANT) "Re: [EXTERNAL] Other Hurricane Models"; direct technical exchange on hurricane forecasting models
+6. **Joshua Wadler** (ERAU) — **NEW: escalated research engagement** — Nov 20, 19:09 UTC (IMPORTANT) "Re: [EXTERNAL] Other Hurricane Models"; threaded discussion with Maciej and Jun Zhang (NOAA); atmospheric research collaboration
+7. **Melissa Wagner** (CU Boulder) — NSF ECHO team; Nov 20, 16:11 UTC (IMPORTANT); coordinating technical response
+8. **Christoffer Heckman** (CU Boulder) — NSF ECHO team; Nov 20, 13:56 UTC (IMPORTANT); coordinating technical response
+9. **Adam Houston** (University of Nebraska) — NSF ECHO team; Nov 20, 13:33 UTC (IMPORTANT); coordinating technical response
+10. **Dmitry Chulkov** (BaseCam Electronics) — Nov 20, 13:41 UTC (IMPORTANT) "Re: Custom payload stabilization at Black Swift Technologies"; vendor engagement continuing
+11. **Bassil El Masri** (Murray State University) — **NEW CORRESPONDENT** — Nov 20, 16:38 EST (IMPORTANT) "Re: 6/28 UAS Flux Topos @Murphy's Pond"; atmospheric/environmental research coordination
+12. **Spencer Hoehl** (BST) — **NEW: operational coordination** — Nov 20, 15:22 MST (IMPORTANT) "USGS Popocatépetl Volcano Research Mission Update" to 15 recipients (UNAM, CENAPRED, SSPC Mexico); volcano monitoring research distribution
+13. **Jose Gomez** (Wematics) — **NEW VENDOR/SALES INQUIRY** — Nov 21, 02:25 UTC "Purchase inquiry: Black Swift S0 for atmospheric profiling"; direct customer inquiry routed to sales@blackswifttech.com
+14. **reMarkable** (Automated) — promotional/vendor email (Nov 21)
 
 ### Top Recipients (Maciej initiating)
-- Primarily receiving/copied on emails; initiated messages to:
-  - **Brian Grubel** (Krateo) — LC-ISR technical response (continuing)
-  - **Cory Dixon** (BST) — hiring/team decisions (continuing)
-  - Team coordination (via Jack, Beck, Daniel broadcasts)
+- **Jun Zhang (NOAA)** — Nov 20, 11:15 MST (SENT) "Other Hurricane Models"; direct technical inquiry to NOAA affiliate on hurricane forecasting models
+- **Joshua Wadler (ERAU)** — Nov 20, 12:10 MST (SENT) "Re: [EXTERNAL] Other Hurricane Models"; responding to research discussion
+- Primarily receiving/copied on emails; technical exchanges with government (NOAA) and academic partners (ERAU, CU, Nebraska)
 
 ### Internal vs External
-- **Internal BST:** Jack Elston, Beck Cotter, Daniel Prendergast, Cory Dixon, Joshua Fromm
-- **External partners (continuing & expanding):**
-  - **Krateo Sky** (Brian Grubel, Bob Smith, LisaMarie Cheney)
-- **Government agencies (significantly expanded):**
-  - **NOAA Federal** (Hurricane operations focus)
-    - **Jason Sippel** (Hurricane flight coordination — 70+ recipient ops email)
-    - **Joe Cione** (AOML Emerging Technologies, RFI HAPS/HALE forwarding)
-    - **Christopher Landsea, Nikolai Pawlenko, Laura Rock** (NHC/ops distribution)
-    - **Annette Hollingshead** (NASA/NOAA coordination)
+- **Internal BST:** Jack Elston, Beck Cotter, Daniel Prendergast, Cory Dixon, Joshua Fromm, Spencer Hoehl
+- **Government agencies (expanded):**
+  - **NOAA Federal** (Hurricane/Atmospheric Research)
+    - **Jun Zhang** (NOAA Affiliate) — NEW DIRECT CORRESPONDENT; hurricane models technical discussion (Nov 20)
+    - Continuing: Jason Sippel, Joe Cione, Christopher Landsea, Nikolai Pawlenko, Laura Rock, Annette Hollingshead
   - **U.S. SOCOM** (continuing)
-    - **Michael C. Jagelewski** (ATR discussion escalation — Nov 19)
-  - **U.S. Navy (escalated)**
-    - **Angel Ruiz-Reyes** (NAWCAD Phase II — IMPORTANT)
-    - **Benjamin Payne, Richard LaMarca, Anthony Brescia** (Vulcan/Morris DeSimone distribution)
-    - **David Keeler** (USMC liaison)
-  - **NASA** (NEW)
-    - **Chester V. Dolph, Chris Meek** (Langley Research Center D-201)
-    - **Michael W. Lee, Tausif Jamal** (Langley D-301)
-    - **Jonathan Gleason** (Langley E-302)
+  - **U.S. Navy (NAWCAD & Fleet)** (continuing)
+  - **NASA Langley Research Center** (continuing)
+  - **USGS** (NEW)
+    - Popocatépetl Volcano Research Mission (implicit coordination via Spencer Hoehl distribution to Mexico agencies)
 - **Academic/Research (expanded):**
-  - **Stanford University** (S2 simulation research)
-  - **University of Colorado** (Sonde radar, NSF ECHO X-Labs)
-    - **Al Gasiewski** (atmospheric sensing — NEW)
-    - **Eric Frew, Brian Argrow, Melissa Wagner, Christoffer Heckman, Zachary Sunberg**
-  - **University of Nebraska** (Adam Houston — ECHO)
-  - **Embry-Riddle Aeronautical University** (Ebenezer Gnanamanickam, Joshua Wadler, Zheng Zhang — research collaboration)
-- **External consultants/integrators (NEW):**
-  - **Ed Kase** (ekaseconsulting.com) — EI2027 Priority Scouting (PACOM, CENTCOM, TRANSCOM capability gaps)
-  - **Morris A. DeSimone** (ausgar.com) — forwarding Vulcan/Naval distribution (AusGAR platform?)
-  - **Dmitry Chulkov** (BaseCam Electronics) — payload stabilization supplier (IMPORTANT engagement)
-- **Vendor/supplier contacts:**
-  - **Qsrc/欧晓云** (qsrccn-hobbies.com) — high-current connectors for drones (promotional)
-  - **reMarkable** — tablet/stylus promotion (automated)
+  - **University of Colorado (ECHO NSF X-Labs)**
+    - **Eric W Frew** (eric.frew@colorado.edu) — NSF ECHO lead; Nov 20 technical coordination
+    - **Melissa Wagner, Christoffer Heckman, Zachary Sunberg, Brian Argrow** — active NSF proposal response
+    - **Al Gasiewski** (continuing sonde radar coordination)
+  - **University of Nebraska**
+    - **Adam Houston** (ahouston2@unl.edu) — NSF ECHO team; Nov 20 active response
+  - **Embry-Riddle Aeronautical University**
+    - **Joshua Wadler** (WADLERJ@erau.edu) — NEW ESCALATED ENGAGEMENT; hurricane models discussion (Nov 20, IMPORTANT)
+  - **Stanford University** (continuing S2 simulation)
+  - **Murray State University**
+    - **Bassil El Masri** (belmasri@murraystate.edu) — NEW CORRESPONDENT; UAS Flux Topos research coordination (Nov 20, IMPORTANT)
+- **Mexican Research Institutions (NEW)**
+  - **UNAM (Universidad Nacional Autónoma de México)** — multiple contacts
+    - hdelgado@unam.mx, robin@geofisica.unam.mx, paulinor@cenapred.unam.mx, madiaz@igeofisica.unam.mx
+  - **CENAPRED (National Center for Disaster Prevention, Mexico)** — multiple contacts
+    - paulino.alonso@sspc.gob.mx, gilberto@cenapred.gob.mx, criverap@cenapred.gob.mx, etc.
+  - **SSPC (Secretary of Interior, Mexico)** — government ministry contacts
+  - **CONANP/Environmental Ministry** (implicit from volcano research context)
+  - **Implication:** BST/USGS coordinating volcano monitoring mission with Mexican federal and academic institutions
+- **External consultants/integrators:**
+  - **Ed Kase** (Ekase Consulting) — EI2027 Priority Scouting (continuing)
+- **External partners/vendors:**
+  - **Krateo Sky** (Brian Grubel) — LC-ISR coordination (continuing)
+  - **Dmitry Chulkov** (BaseCam Electronics) — payload stabilization (continuing IMPORTANT engagement)
+  - **Wematics** (Jose Gomez) — NEW SALES INQUIRY; customer interest in S0 for atmospheric profiling
+  - **Black Label Co.** (info@blacklabelco.com) — NEW INQUIRY from Beck Cotter (Nov 20, IMPORTANT); unknown vendor/service relationship
+  - **Pluma Dynamics** (forwarded by Jack Elston, Nov 20, IMPORTANT) — NEW PARTNERSHIP INQUIRY; unknown context
 
 ## Topic Patterns
 
-### Hurricane/Atmospheric Research Operations (NEW MAJOR FOCUS)
-- **Hurricane Season Active Operations** — Jason Sippel's Nov 19, 15:42 UTC email to 70+ recipients (NOAA Hurricane operations team, Navy, Air Force, NASA, universities) with "Preliminary Flight Tracks for Saturday, Nov. 21, 2026" — indicates Maciej is CC'd on active federal hurricane/atmospheric research operations
-- **HAPS/HALE RFI (High-Altitude Platform Systems/High-Altitude Long-Endurance)** — Joe Cione forwarding RFI from AOML Emerging Technologies team; recipients include Swift Engineering (Hamed Khalkhali, Daniela Bublik), Aerostar (Russ Vanderwerff) — suggests industry RFI for HAP/HALE systems; BST likely responding or being evaluated
-- **Sonde Radar Status** — Al Gasiewski (CU Boulder) sending IMPORTANT status update to Maciej and Jack; atmospheric sensing technology (radiosonde + radar integration likely)
-- **Proposed Flight Tracks** — Nov 20 NOAA distribution on "AL Disturbance 01" (Atlantic storm tracking) — indicates BST platforms potentially deployed or requested in operational hurricane response
+### Hurricane/Atmospheric Research Operations (Intensifying Nov 20–21)
+- **Direct NOAA Technical Engagement** — Jun Zhang (NOAA Affiliate) Nov 20, 14:30 EST (IMPORTANT) "Re: [EXTERNAL] Other Hurricane Models"; Maciej initiated direct inquiry Nov 20, 11:15 MST "Other Hurricane Models" to Jun Zhang
+  - **Implication:** Maciej is now directly engaging NOAA on hurricane forecasting model comparison/selection; suggests technical collaboration on forecast accuracy improvement or model integration with BST platform data
+- **ERAU + NOAA + BST Triangle** — Joshua Wadler (ERAU) Nov 20, 19:09 UTC in thread with Maciej + Jun Zhang (NOAA); threaded technical discussion on hurricane models
+  - **Context:** ERAU (Ebenezer Gnanamanickam was in NASA/NOAA Nov 19 meeting) now actively engaged in model discussion; suggests university research team supporting BST/NOAA integration
+- **Atmospheric Profiling Use Case Validation** — Jose Gomez (Wematics) Nov 21, 02:25 UTC "Purchase inquiry: Black Swift S0 for atmospheric profiling"; direct customer interest in S0 platform for atmospheric profiling applications
+  - **Implication:** Market validation of S0 for atmospheric sensing applications; aligns with hurricane operations, NSF ECHO, and NOAA research themes
 
-### SOCOM S0-AD / ATR (Continuing Strategic Focus)
-- **ATR (Automatic Target Recognition) Escalation** — Daniel Prendergast directing "ATR Discussion" email to Michael Jagelewski (SOCOM, USSOCOM) Nov 19, 12:04 MST (IMPORTANT); indicates technical strategy/capability briefing to SOCOM leadership
-- **S0-AD project collaboration** — continuing Google Docs/Slides work (implicit from prior batch, sustained focus)
+### UAS Flux / Environmental Research (NEW FOCUS)
+- **Beck Cotter + Bassil El Masri (Murray State) + Jack Elston coordination** — Nov 20, 16:38 EST (IMPORTANT) "Re: 6/28 UAS Flux Topos @Murphy's Pond"; environmental flux measurement research
+  - **Context:** UAS Flux Topos (Topographic sampling of environmental fluxes); Murray State atmospheric/environmental research group
+  - **Implication:** BST platform being used for distributed atmospheric/environmental measurement missions; complements hurricane operations with broader climate/environmental research applications
 
-### LC-ISR / NAVAIR Nov 24 Deadline (Continuing)
-- **Brian Grubel follow-up** (Nov 19, IMPORTANT) — "Re: Fw: LC-ISR - NAVAIR follow up requirements - 24 Nov Deadline - BlackSwift S4" — deadline now imminent (5 days away); escalation from Krateo leadership
+### Popocatépetl Volcano Monitoring Research (NEW MAJOR INITIATIVE)
+- **Spencer Hoehl (BST) distributing** — Nov 20, 15:22 MST (IMPORTANT) "USGS Popocatépetl Volcano Research Mission Update" to 15+ recipients across:
+  - **UNAM (Universidad Nacional Autónoma de México):** Geophysics Institute and multiple departments
+  - **CENAPRED (National Disaster Prevention Center, Mexico):** Volcanology, seismic monitoring teams
+  - **SSPC (Mexican Interior Secretary):** Government ministry coordination
+  - **Recipients:** hdelgado@unam.mx (likely Hector Delgado, geophysicist), robin@geofisica.unam.mx, paulinor@cenapred.gob.mx, paulino.alonso@sspc.gob.mx, gilberto@cenapred.gob.mx, etc.
+  - **Implication:** **Large-scale international volcano monitoring collaboration** between USGS (via BST), Mexican universities (UNAM), Mexican government (CENAPRED, SSPC), and potentially NASA/NOAA partners; Popocatépetl is active volcano on Mexico-Puebla border; likely monitoring seismic activity, gas emissions, thermal imaging; BST S0™ VTOL likely deployed for rapid atmospheric/thermal reconnaissance
 
-### Navy Phase II Development (NEW)
-- **Angel Ruiz-Reyes (NAWCAD)** — "Phase II" topic (IMPORTANT); Beck Cotter's Nov 19 09:26 response indicates active Navy Phase II contract negotiations or technical development; likely related to ARCTIC EDGE 27 or successor program
+### NSF ECHO X-Labs Proposal Response (ACTIVE & URGENT)
+- **Multi-University Technical Response Coordination** — Nov 20, 13:33–21:37 UTC; Eric Frew (CU lead) coordinating responses from:
+  - **Melissa Wagner, Christoffer Heckman, Brian Argrow, Zachary Sunberg** (CU Boulder)
+  - **Adam Houston** (University of Nebraska)
+  - **Maciej Stachura, Jack Elston** (BST)
+  - All flagged IMPORTANT; threaded rapid-response discussion suggests **NSF has requested additional technical details or clarifications**; **deadline likely imminent (possibly Nov 21–22)**
+- **Platform/Data Commitments:** Maciej's involvement in rapid technical response implies **UAS platform specifications, data collection capabilities, or integration timelines** critical to proposal scoring
 
-### NASA/NOAA Scientific Collaboration (NEW MAJOR INITIATIVE)
-- **Jack Elston hosting large meeting** — Nov 19, 09:09 MST "Meeting Slides and Notes" (IMPORTANT) with distribution to:
-  - **NOAA:** Annette Hollingshead, Joe Cione, Nikolai Pawlenko
-  - **NASA:** Chester Dolph, Chris Meek, Michael W. Lee, Tausif Jamal, Jonathan Gleason (Langley Res. Center)
-  - **Academia:** Ebenezer Gnanamanickam (ERAU), Joshua Wadler, Zheng Zhang
-  - **BST team:** Maciej, Beck, Daniel, Joshua Fromm, Cory Dixon
-  - Suggests significant NASA/NOAA/academic coalition meeting on joint research/operational initiative
+### Stanford S2 Fly-by-Feel Research (Continuing Toward Dec 1)
+- **Jack Elston responding to Ellie Zhang** — Nov 20, 08:37 MST (IMPORTANT) "Re: S2 simulation support for Stanford Fly-by-Feel research"; confirming Dec 1, 4:00pm MST meeting logistics
+- **Status:** Meeting locked, technical preparations underway
 
-### Stanford S2 Simulation Research (Continuing)
-- **Updated calendar invite** — Beck Cotter (Nov 19, 21:04 UTC) finalizing "S2 simulation support for Stanford Fly-by-Feel research" for **Tuesday, December 1, 2026, 4:00pm MST** (confirmed); attendees: Maciej, Beck, Jack, Daniel, Ellie Zhang, F.K. Chang, Tanay Topac; research meeting logistics locked
+### LC-ISR / NAVAIR Deadline (CRITICAL — 3 Days Away)
+- **Jack Elston responding to Brian Grubel (Krateo)** — Nov 20, 09:01 MST (IMPORTANT) "Re: Fw: LC-ISR - NAVAIR follow up requirements - 24 Nov Deadline - BlackSwift S4"
+- **Status:** Countdown phase; final technical/contractual pushes (3 days to Nov 24)
 
-### NSF X-Labs ECHO (Continuing, Now Active Response)
-- **Zachary Sunberg (CU Boulder)** — Nov 19, 22:47 UTC (IMPORTANT) "Re: ECHO NSF X-Labs submission update and request"; coordinating multi-university response to NSF requirements; team: Eric Frew, Brian Argrow, Melissa Wagner, Christoffer Heckman, Adam Houston (Nebraska), Maciej, Jack; indicates active NSF proposal phase (likely response to reviewer comments or program update)
+### Sonde Radar Status (Continuing)
+- **Jack Elston responding to Al Gasiewski** — Nov 20, 08:38 MST (IMPORTANT) "Re: Sonde radar status"; atmospheric sensing integration ongoing
 
-### EI2027 Priority Scouting / PACOM, CENTCOM, TRANSCOM (NEW STRATEGIC INITIATIVE)
-- **Ed Kase (Ekase Consulting)** — Nov 19, 13:10 & 14:07 MST; exchanges with Daniel Prendergast on "EI2027 Priority Scouting - PACOM, CENTCOM & TRANSCOM Capability Gaps" (IMPORTANT)
-- **EI2027** likely = Expeditionary Innovation 2027 or similar DoD/combatant command initiative
-- **PACOM** (Pacific), **CENTCOM** (Central), **TRANSCOM** (Transportation) coordination suggests multi-regional capability assessment
-- **Implication:** BST products (S0-AD, LC-ISR, S0™ VTOL) being evaluated against DoD regional capability gaps; potential major procurement pathway
+### Technical Hiring & Team Expansion (Continuing)
+- **Jack Elston responding to Cory Dixon** — Nov 20, 08:59 MST (IMPORTANT) "Re: Fw: Technical Project Manager Application - Josh Terry"; hiring decision process active
 
-### CoVar Integration / Technical Vendor Management (NEW)
-- **Daniel Prendergast forwarding** — Nov 19, "Fwd: [EXT] - Document shared with you: 'CoVar Statement of Work - Draft'" (IMPORTANT); recipients: Jack, Maciej, Cory Dixon
-- **CoVar** = systems integration vendor (Pete Torrione — continuing from prior batch); SOW suggests active integration project scope definition; BST/Krateo likely contracting CoVar for assembly or systems work
+### Pluma Dynamics Partnership (NEW INQUIRY)
+- **Jack Elston forwarding to Maciej + Joshua Fromm** — Nov 20, 08:31 MST (IMPORTANT) "Fwd: Pluma Dynamics / BST"
+- **Unknown context:** Pluma Dynamics identity unclear; likely wind/atmospheric modeling firm, aerodynamics consulting, or atmospheric simulation software company
+- **Implication:** Jack flagging new partnership inquiry for technical team review
 
-### AV3 Contact / Potential New Partner (NEW)
-- **Daniel Prendergast** — Nov 19, 13:10 MST "Joe from AV3 Texts" (IMPORTANT, forwarded to Maciej); indicates new external contact or partnership being tracked at leadership level; **AV3** identity unclear (potential: Aeryon (AV3), autonomous vehicle company, or internal code)
+### EI2027 Priority Scouting (Continuing)
+- **Ed Kase responding to Daniel Prendergast** — Nov 20, 13:11 MST (IMPORTANT) "RE: FW: EI2027 Priority Scouting - PACOM, CENTCOM & TRANSCOM Capability Gaps"
+- **Status:** Multi-regional capability assessment ongoing; consultant continuing dialogue with Daniel on government scouting
 
-### Supplier/Technical Vendor Engagement (Intensifying)
-- **Dmitry Chulkov (BaseCam Electronics)** — Nov 20, 14:46 UTC (IMPORTANT) "Re: Custom payload stabilization at Black Swift Technologies"; active gimbal/stabilization vendor discussion; payload optimization for S0-AD or LC-ISR platforms likely
+### Black Label Co. Inquiry (NEW VENDOR/SERVICE)
+- **Beck Cotter initiating inquiry** — Nov 20, 10:32 MST (IMPORTANT) "Black Swift Technologies inquiry" to info@blacklabelco.com
+- **Unknown:** Black Label Co. identity unclear; possible marketing, branding, compliance, or operational services firm
+- **Context:** Beck at operations/stakeholder hub; suggests operational need or vendor evaluation
 
-### Vulcan Program / Navy Industrial Base (NEW)
-- **Morris A. DeSimone** (ausgar.com) — Nov 19, 20:45 UTC "FW: New Opportunities on Vulcan + Product Updates!" (IMPORTANT) forwarded to 15+ Navy recipients (NAWCAD, USMC, Navy commands); **Vulcan** likely Navy platform/program; DeSimone appears to be integrator or vendor managing Navy distribution; Maciej CC'd implies BST capability interest in Vulcan ecosystem
+### Custom Payload Stabilization (Continuing Production Phase)
+- **Dmitry Chulkov (BaseCam Electronics)** — Nov 20, 13:41 UTC (IMPORTANT) "Re: Custom payload stabilization at Black Swift Technologies"
+- **Status:** Supplier continuing custom gimbal/stabilization work; production-stage engagement
 
 ## Communication Patterns
 
-### Hurricane Operations Embedding (NEW — Nov 19–20)
-- **Major NOAA/Hurricane operations distribution** — Jason Sippel's 70+ recipient "Preliminary Flight Tracks" email and follow-up Heather Holbach NOAA/NHC distribution indicate **Maciej and BST are embedded in active federal hurricane response operations**
-- **Timing:** Nov 21 scheduled flights suggest real-time operational deployment (Saturday operations planned)
-- **Implication:** S0™ VTOL or other BST platforms likely activated for NOAA HFIP (Hurricane Forecast Improvement Project) missions
+### Direct NOAA Technical Engagement (NEW PATTERN — Nov 20)
+- **Maciej initiating technical inquiry directly to Jun Zhang (NOAA Affiliate)** at 11:15 MST Nov 20 on hurricane forecasting models; Jun responding same day (14:30 EST)
+- **Significance:** Marks **transition from operational distribution (Jason Sippel) to direct technical collaboration**; Maciej now acting as **technical interface between BST/NOAA on specific research questions** (model selection, data integration, forecast accuracy)
+- **Implication:** Maciej's role expanding from project coordination to **technical subject matter expert in government research partnerships**
 
-### Government Strategic Scouting (EI2027 / Regional Combatant Commands)
-- **Ed Kase consulting outreach** — external consultant (Ekase Consulting) engaging Daniel Prendergast on multi-regional DoD capability assessment; suggests BST is being positioned as solution to DoD priority gaps
-- **High-level framing:** This is not a single contract pursuit but a **strategic capability gap analysis** (PACOM, CENTCOM, TRANSCOM = global footprint)
+### International Research Coordination (NEW PATTERN — Nov 20)
+- **Spencer Hoehl (BST operations/coordination) distributing USGS mission update to 15 Mexican government and academic contacts**
+- **Implication:** BST acting as **operational hub for multinational research coordination**; Volcano monitoring is US-Mexico binational research initiative; suggests **established relationships with Mexican federal agencies (CENAPRED, SSPC) and universities (UNAM)**
+- **Scale:** 15+ recipient coordinated update suggests **ongoing operational mission** (not speculative or exploratory)
 
-### NASA Langley Research Center Coordination (NEW)
-- **Jack Elston hosting cross-agency meeting** — Nov 19 bringing together NOAA, NASA LaRC, academia, and BST team; suggests **collaborative R&D or operational planning** (likely atmospheric sensing, remote sensing, or hurricane/atmospheric measurement)
-- **Langley involvement** — specifically D-201 (Atmospheric Flight Systems) and D-301 (Aerospace Systems), indicates aeronautical systems R&D focus
+### Urgent NSF Proposal Response Cycle (Nov 20)
+- **Multi-university technical response over 8-hour window** (13:33–21:37 UTC Nov 20); rapid-fire threaded responses from all team members
+- **Pattern:** Suggests **NSF feedback/deadline triggered simultaneous coordinated response**; likely late-night work by academic partners responding to reviewer comments or program requirements
+- **Maciej's role:** Included in rapid response implies **platform/data specifications are critical to proposal success**; BST likely providing real-time technical commitments
 
-### Federal Technology Ecosystem Participation (Accelerating)
-- **HAPS/HALE RFI distribution** — Joe Cione forwarding government RFI across industry partners (Swift Engineering, Aerostar, others); BST appears to be on government **technology scouting distribution list** for high-priority systems
-- **Implication:** Government views BST as credible vendor for HALE/HAPS, potential autonomous systems, atmospheric sensing
+### Hurricane Operations Embedding Validation (Nov 20)
+- **Jun Zhang (NOAA) initiating technical discussion on hurricane models with Maciej** — validates that **BST/Maciej integration into NOAA operations is real and active**, not just administrative distribution
+- **Model discussion context:** Likely comparing forecast models (NAM, GFS, HWRF, COAMPS) for integration with BST flight data; suggests **NOAA considering using S0™ VTOL data to validate or improve forecast accuracy**
 
-### NSF Proposal Cycle (Active Response Phase)
-- **Zachary Sunberg coordinating multi-university response** — implies NSF has responded with technical feedback or requested additional information; deadline likely imminent
-- **Maciej involvement** — likely responsible for platform/UAS data commitments and technical specifications in proposal
+### Meeting/Calendar Coordination At Scale
+- **Nov 20 activity shows 8+ ongoing parallel initiatives**, each with deadline pressure (LC-ISR Nov 24, NSF response Nov 20–21, Stanford Dec 1, Popocatépetl mission active, Hurricane ops active, EI2027 scouting ongoing)
+- **Beck Cotter acting as operations hub** — coordinating Stan Ford, Navy Phase II, UAS Flux, vendor inquiries (Black Label)
+- **Jack Elston as strategic anchor** — forwarding Pluma Dynamics, confirming Stanford, responding to Al Gasiewski sonde radar, managing hiring
 
-### Meeting/Calendar Coordination Intensifying
-- **Beck Cotter as central hub** — organizing Stanford (Dec 1), Navy Phase II, Hurricane ops coordination
-- **Strategic timeline:** Dec 1 Stanford meeting, Nov 24 LC-ISR deadline, Nov 21 Hurricane ops flights, NSF response deadline imminent
-- **Email peaks correlate with multi-party meeting coordination** — Nov 19 high volume driven by meeting scheduling and briefing prep
-
-### Vendor Management (Supplier Confidence Signals)
-- **Dmitry Chulkov IMPORTANT tag** — BaseCam Electronics responding with custom payload stabilization options; suggests BST has escalated integration requirements or is qualifying supplier for production
-- **Multiple supplier RFIs** — CoVar SOW, BaseCam custom work, Needcode.io testing indicate Maciej/team conducting **production/integration readiness assessment**
+### Automated/Promotional Emails (Filtering Signal)
+- **reMarkable promotional** (Nov 21, 02:28 MST) — noise; Maciej likely browsing/shopping on personal time
+- **Wematics sales inquiry** (Nov 21, 02:25 UTC) — customer inquiry routed to sales@blackswifttech.com; indicates **S0 platform is gaining market traction for atmospheric applications**
 
 ## Key Relationships
 
 ### Primary Internal Relationships
-- **Jack Elston** — strategic anchor; hosting major cross-agency meetings; NSF/academic coordination; hurricane operations liaison
-- **Beck Cotter** — operations/meeting logistics; customer engagement (Navy, Stanford, NOAA); emerging as calendar/coordination hub
-- **Daniel Prendergast** — government relations escalation; SOCOM contact (Jagelewski); external consultant coordination (Ekase); vendor management (CoVar, AV3)
-- **Cory Dixon** — hiring; team expansion logistics
-- **Joshua Fromm** — technical team member (present in NASA/NOAA meeting distribution)
+- **Jack Elston** — strategic anchor; responding to multiple threads Nov 20 (Krateo, Stanford, Al Gasiewski, hiring, Pluma Dynamics); NSF ECHO lead
+- **Beck Cotter** — operations hub; Stanford coordination, UAS Flux research, Black Label inquiry, Navy Phase II follow-ups
+- **Daniel Prendergast** — government relations; EI2027 scouting coordination
+- **Joshua Fromm** — technical team; NSF ECHO involvement (implicit from Pluma Dynamics forward)
+- **Cory Dixon** — hiring/team decisions
+- **Spencer Hoehl** — operational coordination; managing Popocatépetl volcano mission distribution
 
 ### Critical External Partnerships
 
-#### Government (Strategic Tier 1)
-- **SOCOM** 
-  - Michael C. Jagelewski (USSOCOM) — ATR technical strategy (Daniel escalating Nov 19)
-  - **S0-AD Varia project** — primary strategic initiative
-- **NOAA Federal (Hurricane/Atmospheric Operations)**
-  - **Joe Cione** (AOML Emerging Technologies) — RFI distribution, HAPS/HALE interest
-  - **Jason Sippel** — Hurricane operations flight coordination (active Nov 21 ops)
-  - **Annette Hollingshead** — NASA/NOAA liaison
-  - **Hurricane Operations Ecosystem:** 70+ recipients across NOAA, Navy, Air Force, NASA indicating BST is embedded in federal hurricane response capability
-- **U.S. Navy (NAWCAD & Fleet)**
-  - **Angel Ruiz-Reyes** (NAWCAD) — Phase II development (active)
-  - **Anthony Brescia** (NAWCAD) — Vulcan program ecosystem
-  - **Benjamin Payne, Richard LaMarca** (Navy civilian leadership)
-  - **David Keeler** (USMC liaison)
-  - **Implication:** Navy is evaluating/contracting BST products across Phase II, Vulcan, and other programs
-- **NASA Langley Research Center (NEW Tier 1)**
-  - **Chester V. Dolph, Chris Meek** (D-201 — Atmospheric Flight Systems)
-  - **Michael W. Lee, Tausif Jamal** (D-301 — Aerospace Systems)
-  - **Jonathan Gleason** (E-302)
-  - **Joint meeting with NOAA/BST** indicates collaborative atmospheric sensing or remote sensing R&D
+#### Government Tier 1 (Operational/Active)
 
-#### Government (Strategic Tier 2 - Emerging)
-- **DoD Regional Combatant Commands** (via Ekase Consulting scouting)
-  - PACOM, CENTCOM, TRANSCOM — capability gap assessment (EI2027)
-  - **Ed Kase** (Ekase Consulting) acting as intermediary/consultant
-- **Air Force** (Emerging)
-  - Distribution on NOAA hurricane ops (AFRC 53 WRS/ARWO) — Air Force Reserve participation in federal mission ops
+**NOAA Federal (Hurricane & Atmospheric Research)**
+- **Jun Zhang** (NOAA Affiliate) — NEW DIRECT CORRESPONDENT; Nov 20 hurricane models technical exchange; **direct technical collaboration on forecast model assessment/integration**
+- Continuing: Jason Sippel, Joe Cione, Annette Hollingshead (hurricane operations embedded)
+- **Implication:** BST has moved from operational participant (receiving flight track updates) to technical collaborator (discussing model selection and data integration)
 
-#### Krateo Sky (Strategic Integration Partner — Continuing)
-- **Brian Grubel** — LC-ISR technical lead; continued NAVAIR deadline push (Nov 24)
-- **Bob Smith** — leadership/strategic decisions (implicit from prior batch)
-- **LisaMarie Cheney** — operations
+**U.S. SOCOM** (continuing S0-AD Varia)
 
-#### Academic & Research (Tier 1)
-- **Stanford University**
-  - **Ellie Zhang** (exzha@stanford.edu) — S2 "Fly-by-Feel" simulation; Dec 1 meeting confirmed
-  - **F.K. Chang, Tanay Topac** — research team
-- **University of Colorado (ECHO NSF X-Labs Lead)**
-  - **Eric Frew** (eric.frew@colorado.edu) — project lead
-  - **Al Gasiewski** (al.gasiewski@colorado.edu) — sonde radar integration (NEW IMPORTANT contact)
-  - **Brian Argrow, Melissa Wagner, Christoffer Heckman, Zachary Sunberg** — CU research team
-- **University of Nebraska**
-  - **Adam Houston** — ECHO collaborator
-- **Embry-Riddle Aeronautical University**
-  - **Ebenezer Gnanamanickam, Joshua Wadler, Zheng Zhang** — research collaboration (NASA/NOAA joint meeting Nov 19)
+**U.S. Navy (NAWCAD & Fleet)** (Phase II, Vulcan continuing)
 
-#### External Consultants/Advisors (NEW Tier)
-- **Ed Kase** (Ekase Consulting) — DoD capability gap assessment; regional combatant command scouting
+**NASA Langley Research Center** (continuing collaborative research)
 
-#### Technical Suppliers/Integrators (Intensifying Engagement)
-- **Dmitry Chulkov** (BaseCam Electronics) — custom payload stabilization (IMPORTANT engagement, production likely)
-- **Pete Torrione** (CoVar) — systems integration (SOW draft stage)
-- **Dominik Kujawski** (Needcode.io) — testing/integration services (from prior batch; likely quoted for work)
-- **Morris A. DeSimone** (AusGAR) — potential Vulcan integrator or platform vendor
+**USGS (NEW TIER 1 — Operational)**
+- **Popocatépetl Volcano Monitoring** via Spencer Hoehl coordination
+- **Coordination with Mexican federal/academic institutions** indicates established USGS-BST partnership on international research missions
 
-#### Potential New Partners (Emerging)
-- **AV3** ("Joe from AV3") — identity unclear; Daniel Prendergast tracking at leadership level
+#### Government Tier 2 (Emerging)
 
-### Continuing Relationships
-- Krateo Sky (Brian Grubel, Bob Smith, LisaMarie Cheney)
-- DS Kinetic (airframe/wing)
-- BaseCam Electronics (Dmitry Chulkov) — now IMPORTANT flagged
-- CoVar (systems integration) — now SOW stage
-- NOAA (Chidong Zhang) — S0™ VTOL
-- Navy NAWCAD (Angel Ruiz-Reyes, Anthony Brescia)
+**DoD Regional Combatant Commands** — EI2027 scouting (via Ekase Consulting)
+
+#### Academic & Research Tier 1
+
+**University of Colorado (ECHO NSF X-Labs Lead)**
+- **Eric W Frew** (eric.frew@colorado.edu) — NSF lead; Nov 20 rapid technical coordination
+- **Melissa Wagner, Christoffer Heckman, Zachary Sunberg, Brian Argrow** — active proposal response
+- **Status:** Active proposal response phase; deadline imminent (Nov 20–21)
+
+**University of Nebraska**
+- **Adam Houston** (ahouston2@unl.edu) — NSF ECHO team; Nov 20 active technical response
+
+**Embry-Riddle Aeronautical University**
+- **Joshua Wadler** (WADLERJ@erau.edu) — NEW ESCALATED ENGAGEMENT; Nov 20 hurricane models discussion (IMPORTANT); active research collaboration
+- Continuing: Ebenezer Gnanamanickam, Zheng Zhang (NASA/NOAA Nov 19 meeting participants)
+- **Status:** ERAU now acting as technical interface on hurricane operations/modeling research
+
+**Stanford University**
+- **Ellie Zhang** (exzha@stanford.edu) — S2 Fly-by-Feel research; Dec 1 meeting confirmed
+- Status: Meeting locked; technical preparation underway
+
+**Murray State University (NEW)**
+- **Bassil El Masri** (belmasri@murraystate.edu) — Nov 20 (IMPORTANT) UAS Flux Topos research coordination (@Murphy's Pond)
+- **Status:** Environmental/atmospheric flux measurement research using BST platforms
+
+**Mexican Research Institutions (NEW TIER)**
+- **UNAM (Universidad Nacional Autónoma de México)** — multiple departments (Geophysics Institute, etc.); Popocatépetl research coordination
+- **CENAPRED (National Center for Disaster Prevention)** — Mexican government disaster/volcanology team; Nov 20 distribution
+- **SSPC (Secretary of Interior)** — Mexican federal government ministry
+- **Status:** Active operational mission coordination; binational US-Mexico research partnership (USGS-BST with Mexican institutions)
+
+#### Krateo Sky (Strategic Integration Partner)
+- **Brian Grubel** — LC-ISR technical lead; LC-ISR deadline (Nov 24) imminent
+
+#### Technical Suppliers/Integrators
+
+**Dmitry Chulkov (BaseCam Electronics)** — custom payload stabilization (IMPORTANT, production phase)
+
+**Unknown Vendors**
+- **Pluma Dynamics** — forwarded by Jack Elston Nov 20 (NEW); likely atmospheric modeling, wind simulation, or aerodynamics firm
+- **Black Label Co.** — Beck Cotter inquiry Nov 20 (NEW); unknown service/product
+
+**Wematics (Jose Gomez)** — customer inquiry for S0 atmospheric profiling (Nov 21); market validation
+
+### Cross-Domain Bridging Relationships (Maciej's Unique Positioning)
+
+**NOAA ↔ BST ↔ USGS ↔ Mexican Government/Academia**
+- Popocatépetl mission represents multinational research coordination across:
+  - U.S. federal agencies (USGS, potential NOAA/NASA involvement)
+  - Mexican universities (UNAM) and government (CENAPRED, SSPC)
+  - BST as operational platform provider and mission coordinator
+- Suggests Maciej/BST have **trusted relationships across international research institutions**
+
+**NOAA ↔ ESSA/Universities ↔ BST**
+- Hurricane operations embedding now extending into direct technical collaboration with NOAA on model integration and forecast improvement
+- Jun Zhang (NOAA) + Joshua Wadler (ERAU) + Maciej forming **research triangle on hurricane forecasting/model assessment**
+- Suggests Maciej is becoming recognized **technical expert in atmospheric model validation using UAS platforms**
 
 ## Notable Observations
 
-- **Hurricane Operations Deployment Active (Nov 21)** — Maciej's CC on Jason Sippel's 70+ recipient "Preliminary Flight Tracks" email and follow-up NOAA/NHC distributions indicate **real-time federal hurricane response operations are live**. BST platforms (likely S0™ VTOL) appear to be **actively deployed or requested for NOAA HFIP missions**. This represents **operational integration into federal weather/atmospheric measurement infrastructure** — a significant milestone beyond R&D or procurement.
+- **NOAA Technical Collaboration Escalation (Nov 20)** — Jun Zhang (NOAA Affiliate) direct response to Maciej's hurricane models inquiry same-day suggests **high-level trust and responsiveness** in NOAA partnership. Maciej is no longer just receiving operational updates (Jason Sippel's flight tracks) but **actively advising on technical model selection**. This represents significant technical authority recognition by federal research establishment.
 
-- **Multi-Agency Scientific Coalition Forming (NASA/NOAA/Academic)** — Jack Elston hosting meeting with NASA Langley (Atmospheric Flight Systems & Aerospace Systems), NOAA AOML, Stanford, ERAU, and BST team suggests **coordinated atmospheric sensing or remote sensing capability development**. This is distinct from hurricane operations; likely separate R&D initiative with high-level government buy-in.
+- **Volcano Monitoring as Major New Mission (Nov 20)** — Popocatépetl research mission to 15 Mexican government/academic contacts suggests **established operational partnership** between USGS-BST and Mexican institutions. BST likely operating S0™ VTOL for rapid atmospheric reconnaissance, gas sensing, thermal imaging, or seismic sensor deployment. This is **international scientific collaboration at operational scale** — not speculative or exploratory.
 
-- **Strategic Pivot Toward Federal Atmospheric/Climate Research** — Combination of hurricane ops embedding, HAPS/HALE RFI involvement, NSF ECHO partnership, Stanford S2 research, and NASA/NOAA collaboration suggests **BST is positioning as a federal atmospheric sensing/data collection platform provider**. This complements (not replaces) SOCOM/DoD strategy.
+- **Murray State UAS Flux Entry (Nov 20)** — Bassil El Masri's engagement on "6/28 UAS Flux Topos @Murphy's Pond" indicates **environmental research community recognizing BST platforms for distributed atmospheric measurement**. Flux measurement research requires precise altitude control, payload integration, and multi-point sampling — core BST S0 capabilities. Suggests **expanding academic user base across environmental/atmospheric research**.
 
-- **DoD Multi-Regional Capability Scouting (EI2027)** — Ekase Consulting's outreach to Daniel Prendergast on PACOM, CENTCOM, TRANSCOM capability gaps indicates **high-level strategic positioning**. This is not a single-vendor RFP but a **capability assessment across geographic combatant commands**. Suggests potential for **multi-year, multi-region procurement pathway** if BST is validated as solution.
+- **NSF ECHO Proposal Under Time Pressure (Nov 20)** — Multi-university threaded response (13:33–21:37 UTC Nov 20) with all team members flagged IMPORTANT suggests **NSF has issued technical requirements, reviewer feedback, or deadline extension**. Maciej's direct inclusion implies **UAS platform specifications are proposal-critical**. If deadline is Nov 21–22, proposal team is working late into evening to respond. High-stakes validation of NSF partnership.
 
-- **Daniel Prendergast as New Government Relations Lead** — Coordinating SOCOM ATR strategy, Ekase consulting (capability scouting), CoVar integration SOW, AV3 contact tracking; suggests **promotion or expanded portfolio** in government affairs and technical strategy. Now operating at SOCOM leadership level (Jagelewski direct contact).
+- **Pluma Dynamics Partnership Inquiry (Nov 20)** — Jack Elston flagging to Maciej + Joshua Fromm suggests **strategic evaluation** of new technology or service partnership. Pluma Dynamics identity unclear but likely atmosphere/wind-related firm (plume dynamics = atmospheric dispersion/modeling). Possible acquisition target, technology partner, or software integration.
 
-- **Production/Integration Readiness Assessment Underway** — CoVar SOW drafting, BaseCam custom payload stabilization (IMPORTANT), Needcode.io testing quotes, Krateo LC-ISR coordination all suggest **transition from R&D to production/integration phase**. Nov 24 NAVAIR deadline, Navy Phase II development, and SOCOM testing cycles indicate **multiple parallel procurement/development paths activating simultaneously**.
+- **Black Label Co. Vendor Inquiry (Nov 20)** — Beck Cotter initiating contact with info@blacklabelco.com (IMPORTANT) suggests **operational need or compliance/marketing requirement**. Unknown service category; possible candidates: brand/logo consulting, compliance/labeling services, operational logistics. Worth monitoring for follow-ups.
 
-- **Federal Technology Scouting Inclusion** — Joe Cione's forwarding of HAPS/HALE RFI across industry (Swift Engineering, Aerostar, etc.) with BST copied indicates **government views BST as credible vendor for high-priority emerging technology**. This suggests proactive government interest in BST capabilities, not reactive vendor outreach.
+- **Wematics Customer Inquiry (Nov 21, 02:25 UTC)** — Jose Gomez "Purchase inquiry: Black Swift S0 for atmospheric profiling" represents **direct market validation of S0 platform for atmospheric sensing applications**. Inquiry routed to sales@blackswifttech.com suggests legitimate lead (not spam). Aligns with hurricane operations, NSF ECHO, NOAA research, and Murray State flux measurements — **strong convergence on atmospheric profiling use case**.
 
-- **Stanford S2 Research Meeting Locked (Dec 1)** — Meeting confirmed with Ellie Zhang, Beck, Jack, Daniel, and Stanford colleagues (F.K. Chang, Tanay Topac); research collaboration on "Fly-by-Feel" autonomy advancing into execution phase. Timing suggests technical milestones or new capability demonstrations planned.
+- **Atmospheric Profiling Ecosystem Forming** — Combination of:
+  - NOAA hurricane operations (Jun Zhang technical discussion)
+  - NSF ECHO proposal (environmental sensing)
+  - Murray State UAS Flux research (distributed measurement)
+  - Wematics customer inquiry (commercial demand)
+  - Suggests **S0 platform is becoming recognized as standard UAS for atmospheric profiling**; market validation + government research + academic partnerships converging simultaneously.
 
-- **NSF ECHO Proposal in Active Response Phase** — Zachary Sunberg coordinating multi-university team response (Nov 19, late evening UTC) suggests NSF feedback received or deadline imminent. Maciej's involvement implies **platform/data commitments critical to proposal success**; likely high-stakes for BST/academic partnership.
+- **Email Volume Sustained High (Nov 20–21)** — 22 new messages in just 1.5 days (Nov 20–21 morning) while managing:
+  - Hurricane operations (NOAA technical discussion)
+  - NSF proposal response (urgent multi-university coordination)
+  - Volcano mission (Mexican government coordination)
+  - LC-ISR deadline countdown (3 days)
+  - Stanford S2 meeting prep (1.5 weeks away)
+  - Vendor management (BaseCam, Black Label, Pluma Dynamics)
+  - Hiring decisions (TPM candidate)
+  - **Maciej is operating as critical node across federal research, academic partnerships, international missions, and vendor ecosystem simultaneously.** Organizational dependency risk remains high.
 
-- **Organizational Growth & Hiring** — Cory Dixon routing Technical Project Manager candidate (Josh Terry) through Maciej/Jack indicates **team expansion concurrent with production ramp and multi-program execution**. Suggests Maciej involved in hiring decisions at technical leadership level.
+- **Multi-Timezone Coordination Challenge** — Nov 20 email timestamps span UTC, MST, EST, and Mexican time; Maciej receiving/sending across all zones. NSF ECHO team coordination (21:37 UTC = 14:37 MST) indicates late work by western teams coordinating with international partners. Suggests **high-priority initiatives overriding normal work hours**.
 
-- **Email Volume Sustained at 20–25/day Across 5-Day Window** — Maciej is managing simultaneous engagement across: NOAA hurricane ops, SOCOM ATR, Navy Phase II, Krateo LC-ISR, Stanford research, NASA collaboration, NSF proposal, government scouting (EI2027), supplier management, and hiring. **Suggests organizational dependency on Maciej's coordination across government, academic, and partner ecosystems**. High risk if key person.
+- **Strategic Pivot Accelerating: Federal Atmospheric Research + International Scientific Coordination** — Maciej's work in Nov 20–21 period shows clear shift:
+  - From: SOCOM tactical systems (S0-AD) + Navy procurement (Phase II, Vulcan)
+  - To: NOAA operational research + USGS international missions + NSF academic partnerships + commercial atmospheric profiling demand
+  - **Suggests BST leadership has decided to pursue atmospheric/climate science market as complement to defense/tactical markets.** Maciej becoming key bridge to federal research establishment (NOAA, USGS, NASA, NSF).
 
-- **Vendor Confidence Signals Strong** — BaseCam Electronics, Krateo, CoVar all responding with IMPORTANT-flagged technical engagement (custom work, SOWs, follow-ups); supplier ecosystem views BST as **production-stage customer** with real near-term procurement (not speculative).
-
-- **Gateway Role to Federal Hurricane/Atmospheric Operations** — BST's inclusion on 70+ recipient NOAA operations email and NASA/NOAA joint meeting suggests Maciej/Jack are becoming **trusted intermediaries between DoD (SOCOM, Navy) and civilian atmospheric/climate research infrastructure (NOAA, NASA, NSF, universities)**. Rare positioning that could be valuable for future cross-domain contracts.
+- **Operational Integration Deepening** — Maciej's direct technical discussion with Jun Zhang (NOAA) on hurricane forecasting models represents **trust-based operational partnership** rather than procurement/vendor relationship. NOAA is treating Maciej as **technical peer/expert on UAS atmospheric data integration**, not as service provider. This is rare and valuable positioning in federal research ecosystem.
 
 ---
 
-**Last Updated:** Nov 20, 2026 (16:50 +0800 / ~02:50 Nov 20 MST)
+**Last Updated:** Nov 21, 2026 (02:30 MST / ~08:30 UTC)
 
 **Key Inflection Points This Period:**
-- Hurricane operations embedding (Nov 19–20)
-- NASA Langley partnership formalization (Nov 19 meeting)
-- SOCOM ATR escalation to leadership level (Nov 19)
-- Navy Phase II active development (Nov 19)
-- DoD regional capability scouting activation (Nov 19)
-- NSF proposal active response phase (Nov 19)
-- Production/integration phase confirmation (CoVar SOW, vendor quotes)
+- Direct NOAA technical engagement (Nov 20 — Jun Zhang hurricane models discussion)
+- Popocatépetl international volcano mission distribution (Nov 20)
+- NSF ECHO urgent proposal response coordination (Nov 20–21)
+- Murray State atmospheric flux research engagement (Nov 20)
+- Wematics customer inquiry validation (Nov 21)
+- Pluma Dynamics partnership inquiry evaluation (Nov 20)
+- Black Label Co. operational vendor inquiry (Nov 20)
+- LC-ISR deadline countdown (3 days to Nov 24)
+- Stanford S2 meeting logistics confirmed (Dec 1)
+
+**Emerging Strategic Themes:**
+1. **Atmospheric Profiling Convergence:** Government (NOAA, USGS), academic (CU, ERAU, Stanford, Murray State), and commercial (Wematics) all validating S0 platform for atmospheric sensing/profiling applications
+2. **International Research Coordination:** USGS-BST partnership with Mexican institutions (UNAM, CENAPRED, SSPC) operating at mission scale (Popocatépetl)
+3. **Federal Technical Expertise Recognition:** Maciej transitioning from coordinator to technical peer in NOAA research partnership; rare positioning suggesting high strategic value
+
+---

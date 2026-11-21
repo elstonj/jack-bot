@@ -76,17 +76,17 @@
     "[925-05] Indirect Production and Supply Chain Labor"
   ],
   "period": {
-    "start": "2024-11-20",
-    "end": "2026-11-20"
+    "start": "2024-11-21",
+    "end": "2026-11-21"
   },
   "totals": {
     "revenue": 3707388.11,
-    "expenses": 4887855.79,
+    "expenses": 4891978.67,
     "by_category": {
       "Payroll clearing account": 2412836.1,
       "DIRECT COSTS:DC-Direct Cost Subcontractors": 365942.53,
       "Indirect Cost:Payroll Expenses:Guaranteed Wages": 183006.89,
-      "Inventory Asset": 141619.94,
+      "Inventory Asset": 142329.95,
       "FRINGE:FR-Retirement Contributions": 133478.1,
       "Indirect Cost:Payroll Expenses:Retirement Contributions": 132436.49,
       "RESEARCH & DEVELOPMENT:IRAD-Indirect Subcontractor Exp": 128621.3,
@@ -97,8 +97,8 @@
       "Prepaid Expenses": 77519.48,
       "Indirect Cost:Payroll Expenses:Employee Healthcare": 72561.54,
       "Spark One Jack #3168": 70684.0,
-      "FACILITIES:FA-Shop Supplies": 57563.85,
-      "DIRECT COSTS:DC-Direct Material Purchases": 52768.8,
+      "FACILITIES:FA-Shop Supplies": 58522.81,
+      "DIRECT COSTS:DC-Direct Material Purchases": 53768.8,
       "Indirect Cost:Software Expenses": 49725.71,
       "UNALLOWABLE GA:Acquisition Costs": 47577.5,
       "Indirect Cost:Finance & Bank Charges": 42096.12,
@@ -112,7 +112,7 @@
       "Indirect Cost:Travel Expenses:Airfare": 18117.81,
       "Fraud Charges": 16008.36,
       "Indirect Cost:Insurance Exp": 14083.09,
-      "Indirect Cost:Meals and Entertainment": 13950.81,
+      "Indirect Cost:Meals and Entertainment": 13974.81,
       "FRINGE:FR-Administrative Fees (Payroll)": 13574.5,
       "GENERAL & ADMINISTRATIVE:GA-Legal Fees": 12958.0,
       "FACILITIES:FA-Insurance Expenses": 12871.34,
@@ -126,7 +126,7 @@
       "Other Miscellaneous Income": 9923.08,
       "Indirect Cost:License, Permit, Misc Tax Exp": 9808.28,
       "Indirect Cost:Travel Expenses:Lodging": 9743.02,
-      "Interest Income": 9385.13,
+      "Interest Income": 9383.93,
       "GA-Business Development": 9380.12,
       "Cost of Goods Sold:Direct Cost (deleted):Other Direct CostsX (deleted)": 9290.87,
       "FACILITIES:FA-Facility Repairs & Maintenance": 9035.41,
@@ -134,15 +134,15 @@
       "SALES & MARKETING": 6404.56,
       "Indirect Cost:TaxesX": 6218.2,
       "Indirect Cost:Repairs and Maintenance:Facility Repairs & Maint": 6135.24,
-      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5703.12,
-      "Indirect Cost:Supplies:Office SuppliesX": 4522.38,
+      "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery": 5803.12,
+      "Indirect Cost:Supplies:Office SuppliesX": 4502.46,
       "FRINGE:FR-Worker's Comp": 4201.61,
+      "SALES & MARKETING:Promotion Expenses": 4142.74,
       "Indirect Cost:Dues & Subscriptions": 3823.9,
       "FACILITIES:FA-Equipment Repairs & Maintenance": 3145.41,
       "Indirect Cost:Travel Expenses:Car Rental/Taxi/Rideshare": 3000.93,
       "UNALLOWABLE GA:UC-Fraud Charges": 2982.0,
       "GENERAL & ADMINISTRATIVE:GA-Dues & Subscriptions": 2869.0,
-      "SALES & MARKETING:Promotion Expenses": 2791.71,
       "OVERHEAD:OH-Other Travel Expenses": 2612.16,
       "Indirect Cost:Travel Expenses:Away Meals": 2610.77,
       "RESEARCH & DEVELOPMENT:IRAD-Internal Research and Development": 2477.14,
@@ -4530,6 +4530,116 @@
           "amount": 89.52,
           "account": "Inventory Asset",
           "description": "Phase1 Shipment (S3 wing set)"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-20",
+      "doc_number": "",
+      "total": 438.32,
+      "attributed": 438.32,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 438.32,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Global Industrial Interion Height Adjustable Vinyl Seat Drafting Stool x 2"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-20",
+      "doc_number": "",
+      "total": 520.64,
+      "attributed": 520.64,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 876.64,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "876.64"
+        },
+        {
+          "amount": -356.0,
+          "account": "FACILITIES:FA-Shop Supplies",
+          "description": "Gift Card"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "",
+      "total": 710.01,
+      "attributed": 710.01,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "PROTO LABS - 4617",
+      "lines": [
+        {
+          "amount": 690.7,
+          "account": "Inventory Asset",
+          "description": "ileron linkage bracket_mfg.step x 5"
+        },
+        {
+          "amount": 19.31,
+          "account": "Inventory Asset",
+          "description": "Shipping"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "",
+      "total": 1351.03,
+      "attributed": 1351.03,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "For AGU conference in San Fran. in Dec. 2026",
+      "lines": [
+        {
+          "amount": 925.12,
+          "account": "SALES & MARKETING:Promotion Expenses",
+          "description": "10 x 10 Standard Carpet Pad"
+        },
+        {
+          "amount": 318.64,
+          "account": "SALES & MARKETING:Promotion Expenses",
+          "description": "Stool - Padded With Back"
+        },
+        {
+          "amount": 107.27,
+          "account": "SALES & MARKETING:Promotion Expenses",
+          "description": "taxes"
+        }
+      ]
+    },
+    {
+      "type": "Purchase",
+      "date": "2026-11-19",
+      "doc_number": "",
+      "total": 24.0,
+      "attributed": 24.0,
+      "vendor": "",
+      "customer": "",
+      "balance": null,
+      "memo": "SP DRIFTAWAY COFFEE - 9613",
+      "lines": [
+        {
+          "amount": 24.0,
+          "account": "Indirect Cost:Meals and Entertainment",
+          "description": "SP DRIFTAWAY COFFEE - 9613"
         }
       ]
     },
@@ -57934,45 +58044,37 @@
           "description": "For NASA AREN: Testing a battery replacement"
         }
       ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-20",
-      "doc_number": "",
-      "total": 1.2,
-      "attributed": 1.2,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "LUX REWARDS CASHBACK     EASYSAVINGS  NY",
-      "lines": [
-        {
-          "amount": 1.2,
-          "account": "Interest Income",
-          "description": "LUX REWARDS CASHBACK     EASYSAVINGS  NY"
-        }
-      ]
-    },
-    {
-      "type": "Purchase",
-      "date": "2024-11-20",
-      "doc_number": "",
-      "total": 19.92,
-      "attributed": 19.92,
-      "vendor": "",
-      "customer": "",
-      "balance": null,
-      "memo": "AMAZON.COM*7K22N80J3     AMZN.COM/BILLWA",
-      "lines": [
-        {
-          "amount": 19.92,
-          "account": "Indirect Cost:Supplies:Office SuppliesX",
-          "description": "AMAZON.COM*7K22N80J3     AMZN.COM/BILLWA"
-        }
-      ]
     }
   ],
   "purchase_orders": [
+    {
+      "type": "PurchaseOrder",
+      "date": "2026-11-20",
+      "doc_number": "1041",
+      "total": 1100.0,
+      "attributed": 1100.0,
+      "vendor": "SolidEnergy Systems LLC",
+      "customer": "",
+      "balance": null,
+      "memo": "",
+      "lines": [
+        {
+          "amount": 1000.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "H6AF - Balanced cell x 20"
+        },
+        {
+          "amount": 0.0,
+          "account": "DIRECT COSTS:DC-Direct Material Purchases",
+          "description": "Tab Samples - Ni strip welded to AI+ x 20"
+        },
+        {
+          "amount": 100.0,
+          "account": "DIRECT COSTS:DC-Direct Cost Shipping, Freight & Delivery",
+          "description": "Shipping"
+        }
+      ]
+    },
     {
       "type": "PurchaseOrder",
       "date": "2026-09-03",

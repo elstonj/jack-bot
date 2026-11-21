@@ -1,57 +1,64 @@
 # Josh Waldman — Email Patterns
 
 ## Communication Volume
-- **Total messages scanned:** 8 emails
-- **Date range:** Wed 18 Nov – Fri 20 Nov 2026
-- **Volume:** ~4 emails/day during this period
+- **Total messages scanned:** 14 emails (8 previous + 6 new)
+- **Date range:** Wed 18 Nov – Sat 21 Nov 2026
+- **Volume:** ~3.5 emails/day during this period
 
 ## Key Correspondents
 
 **Top Senders:**
-- PTC/Arena ecosystem (3 emails): Arena PLM team, do-not-reply@arena.ptcgov.us, The Arena Team
-- Toggl (time tracking tool)
-- Google Gemini (notes automation)
+1. Mark Andres, PTC (mandres@ptc.com) — 4 emails in new data; Arena PLM support thread
+2. Toggl (support@toggl.com) — 2 emails (time tracking automation)
+3. Arena PLM team — 3 emails (previous data)
+4. Shelly Dvorak (shelly.dvorak@blackswifttech.com) — 1 email (internal, marked IMPORTANT)
 
 **Top Recipients:**
-- Internal: Cory Dixon (calendar invite), Joshua Fromm (colleague at BST)
-- External: mandres@ptc.com (Arena support), Rubicon Aerospace contacts (Lee Skidmore, Jeremy Van Vliet)
+- Internal: Shelly Dvorak (new), Cory Dixon (previous), Joshua Fromm (previous)
+- External: Mark Andres/PTC (primary vendor contact), Rubicon Aerospace contacts (previous)
 
 **Internal vs External:**
-- Primarily internal BST communication visible
-- Strong external relationship with Rubicon Aerospace (aerospace/defense context)
-- PTC vendor relationship (Arena PLM software)
+- Vendor communication dominates recent activity (PTC/Arena support)
+- Internal BST coordination with Shelly Dvorak (new contact) and Cory Dixon
+- Rubicon Aerospace relationship continues from prior period
 
 ## Topic Patterns
 
 **Recurring Themes:**
-- **Arena PLM usage** — help requests, item exports, training notifications
-- **Lean Manufacturing** — meeting/discussion notes generated Nov 19
-- **BOM and Inventory management** — calendar discussion with Cory Dixon
-- **S0 outlook/program introduction** — appears to be early-stage aerospace program discussion with Rubicon Aerospace
+- **Arena PLM support** — multi-message thread with PTC support (Nov 20, escalating), continued active issue resolution
+- **Lean Manufacturing** — noted in previous period
+- **BOM and Inventory management** — calendar work (previous period)
+- **S0 outlook/program introduction** — Rubicon Aerospace discussions (previous period)
+
+**New Topics:**
+- **Onboarding/Welcome process** — "Welcome Interview" from Shelly Dvorak (Fri 20 Nov, marked IMPORTANT)
 
 **Key External Organizations:**
-- Rubicon Aerospace (lee@rubiconaerospace.com, jeremy@rubiconaerospace.com)
-- PTC (mandres@ptc.com)
+- PTC (mandres@ptc.com) — primary active vendor contact (escalated support thread)
+- Rubicon Aerospace (previous period)
 
 ## Communication Patterns
 
-- **Time variance:** Emails span UTC and MST timezones; activity concentrated Thu 19 Nov
-- **Tool integrations:** Heavy use of automation/integrations (Toggl time tracking, Google Gemini note capture, Arena notifications)
-- **Promotional/Training emails:** Arena platform training and product updates marked IMPORTANT
+- **Timezone variance:** Messages span UTC, MST, and CST; indicates either distributed team or high-priority urgent communication
+- **Tool integrations:** Continued heavy use of Toggl time tracking automation
+- **Support escalation pattern:** Arena PLM help thread shows 3 responses from Mark Andres on Fri 20 Nov (14:18, 14:32, 16:24 UTC), suggesting urgent issue or escalation
+- **Peak activity:** Fri 20 Nov (5 of 6 new emails)
 
 ## Key Relationships
 
 **Internal Collaborators:**
-- Cory Dixon — appears to coordinate BOM/inventory work
-- Joshua Fromm — colleague, appears to lead external Rubicon Aerospace discussions
+- **Shelly Dvorak** (NEW) — marked IMPORTANT on welcome interview; may indicate new hire onboarding or significant role change
+- Cory Dixon — BOM/inventory coordination (previous period)
+- Joshua Fromm — colleague, Rubicon Aerospace discussions (previous period)
 
 **External Partners:**
-- **Rubicon Aerospace** — appears to be significant client/partner; discussions around "S0 outlook" (possible early program phase designation)
-- **PTC/Arena** — vendor relationship; active PLM user, seeking support
+- **PTC/Mark Andres** — primary active vendor relationship; Arena PLM support appears to be urgent/high-priority
+- **Rubicon Aerospace** — ongoing client/partner relationship (previous period)
 
 ## Notable Observations
 
-- **Email recipient mismatch:** New data includes emails to/from "Joshua Fromm" and "Josh Fromm" (josh.fromm@blackswifttech.com), not joshua.waldman@. Only 1 email in new dataset was actually *to* Josh Waldman's inbox; 2 were sent *from* him, 2 were automated/vendor notifications. This may indicate incomplete data capture or forwarding patterns.
-- **Rubicon Aerospace thread excluded Josh Waldman** — Lee Skidmore and Jeremy Van Vliet email thread includes Joshua Fromm but not Joshua Waldman, despite both being at BST. Unclear if related or separate roles.
-- **Arena PLM** is clearly a core tool in his workflow — help requests, exports, and training all within 24 hours
-- **Lean Manufacturing discussion** (Nov 19) may relate to BOM/Inventory work mentioned in prior calendar invite
+- **Arena PLM issue escalation:** 3 consecutive responses from Mark Andres on Fri 20 Nov within 6 minutes (14:18, 14:32 UTC) followed by final response at 16:24 UTC — suggests rapid-fire troubleshooting or urgent blocking issue
+- **New internal contact:** Shelly Dvorak welcome interview marked IMPORTANT; unknown if this is new hire orientation or other significant interaction
+- **Toggl automation continues:** Consistent time-tracking integration across both data periods
+- **Email recipient clarification:** New data confirms Josh Waldman's correct email address is joshua.waldman@blackswifttech.com (previous data discrepancy resolved)
+- **Weekend/off-hours activity:** Toggl email received Sat 21 Nov 00:30 UTC; suggests work spanning weekends or automated digest

@@ -6,7 +6,7 @@ This channel is primarily used for development and testing of BST's S0 VTOL airc
 Key participants: Jack Elston, Maciej, Sam Hild, Alex Lomis, Joshua Fromm, Ethan Domagala, Dan, Ben Busby, Kareem, Spencer Hoehl, Cory Dixon, Dan Prendergast, Meredith Needham, Kevin
 
 Activity: High activity with 1500+ messages covering approximately 2+ years of development
-Time range: Early development through November 2, 2026 (ongoing project)
+Time range: Early development through November 20, 2026 (ongoing project)
 
 ## Key Decisions
 
@@ -88,10 +88,16 @@ Time range: Early development through November 2, 2026 (ongoing project)
 - **Inductor Repositioning (November 2, 2026):** Inductor moved further away from USB connector to reduce interference/coupling issues
 - **USB Port Location (November 2, 2026):** USB port remains in same location per Alex Lomis confirmation
 
+**ESC Component Evaluation (November 20, 2026):**
+- Alex Lomis identified Lumenier Siege 80A 3-8S AM32 4-in-1 ESC as potentially interesting for VTOL applications
+- Positive note: Lumenier ESC has NDAA compliance (Maciej's observation)
+
 ## Projects & Initiatives
 
 ### S0-VTOL Flight Testing Campaign & Delivery (August-September 2026)
 **Status as of August 28, 2026:** Active flight testing with S01005 as primary test aircraft; production scaling complete with 3 aircraft; critical focus on resolving autopilot power switch issues before ISARRA deployment (August 30 - September 3, 2026)
+
+**Current Status (November 2026):** Post-ISARRA deployment phase; focus shifted to avionics iteration and future component evaluation
 
 **Critical Issues Blocking ISARRA Deployment (August 27-28, 2026):**
 - **Power Switch Boot Loop Issue (Primary - under investigation):**
@@ -99,22 +105,35 @@ Time range: Early development through November 2, 2026 (ongoing project)
   - Power switch stuck on power-down, continuously triggering
 
 ### Avionics Design Iteration (October 2026 - Current)
-**Status:** Active PCB fabrication phase
+**Status:** PCB fabrication in progress; design review complete
 - New avionics halves proposed with minor modifications by Jack Elston (October 29, 2026)
 - Alex Lomis reviewed and approved layout changes (November 2, 2026)
 - Primary design constraint: Radio component placement and interference mitigation with adjacent components
 - **PCB Production (November 2, 2026):** Orders placed for new PSN and core boards with ~2 week lead time; timeline contingent on radio component delivery
+- **Expected Completion:** Boards estimated to arrive mid-November 2026
+
+### Component Evaluation (November 2026)
+**ESC Alternative Assessment (November 20, 2026):**
+- Evaluating Lumenier Siege 80A 3-8S AM32 4-in-1 ESC as potential upgrade path
+- Key advantage: NDAA compliant component
+- Context: Current strategy uses proven T-Motor ESC in PWM mode; this represents exploration of alternative options for future iterations
 
 ## Action Items & Commitments
 
 - **Alex Lomis** - Review proposed new avionics halves for S0-VTOL (Jack Elston request, October 29, 2026) - Status: Complete, approved (November 2, 2026)
-- **Sam Hild** - Verify RC circuit components on AP power switch are within tolerance range (pending as of August 27-28, 2026)
-- **Jack Elston** - PCB fabrication in progress; boards expected within ~2 weeks (November 2, 2026)
+- **Sam Hild** - Verify RC circuit components on AP power switch are within tolerance range (pending as of August 27-28, 2026) - Status: Unknown/ongoing
+- **Jack Elston** - PCB fabrication in progress; boards expected within ~2 weeks from November 2 (mid-November 2026)
+- **Team** - Evaluate Lumenier Siege 80A 3-8S AM32 ESC for VTOL compatibility (initiated November 20, 2026)
+
+## Important Resources
+
+- **ESC Component Reference (November 20, 2026):** Lumenier Siege 80A 3-8S AM32 4-in-1 ESC - https://www.getfpv.com/lumenier-siege-80a-3-8s-am32-4-in-1-esc-ndaa.html
+- **Parachute System Source:** Apogee Rockets - Peregrine CO2 ejection device
 
 ## Recent Activity
 
-**November 2, 2026 - Avionics PCB Fabrication Update:**
-- Jack Elston confirmed boards for new PSNs and core have been ordered with ~2 week delivery window
-- Inductor repositioning finalized to address USB connector interference concerns identified in October review
-- Alex Lomis confirmed USB port location unchanged despite component relocation
-- This represents active progression from October design review to manufacturing phase, indicating continued development momentum post-ISARRA delivery
+**November 20, 2026 - ESC Component Evaluation:**
+- Alex Lomis shared link to Lumenier Siege 80A 3-8S AM32 4-in-1 ESC as potentially interesting alternative for VTOL applications
+- Maciej highlighted NDAA compliance as positive attribute
+- Discussion indicates ongoing exploration of component options post-ISARRA deployment, with regulatory compliance (NDAA) as evaluation criterion
+- This continues team's methodical approach to ESC selection following August reversion to proven T-Motor hardware
